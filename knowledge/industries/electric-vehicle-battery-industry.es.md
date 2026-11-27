@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué es el Plan de Movilidad de Bajo Carbono?
     a: Es la hoja de ruta 2021–2030 de Malasia para un transporte más limpio, liderada por el ministerio de medio ambiente y la Corporación Malasia de Tecnología Verde (MGTC). Fija objetivos para la adopción de VE y la infraestructura de carga y sustenta los incentivos fiscales ofrecidos a los compradores y fabricantes de VE.
 lang: es
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - Samsung SDI
   - adopción de VE
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Una unidad de carga rápida de CC se encuentra en una plaza señalizada para vehículos eléctricos en un área de descanso de autopista en Malasia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: Dos celdas cilíndricas de batería de iones de litio, una de formato 18650 y otra mayor de formato 21700, dispuestas una junto a la otra.
+    kind: representative
+    origin: third-party
+    subject: Celdas cilíndricas de batería de iones de litio
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: El paquete plano de batería de tracción de iones de litio de un coche eléctrico, expuesto para mostrar su disposición modular de celdas.
+    kind: representative
+    origin: third-party
+    subject: Un paquete de batería de tracción de iones de litio de un vehículo eléctrico
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 Malasia ha pasado medio siglo construyendo coches. Ahora intenta electrificarlos y, lo que es igual de importante, fabricar las baterías y construir la red de carga de la que dependen los vehículos eléctricos. Esta es una historia distinta de la que se cuenta en la guía de la [industria automotriz de Malasia](/es/industries/automotive-industry/), que trata en gran medida de coches de gasolina y diésel. Aquí el tema es el *ecosistema* de VE y baterías: los vehículos, los incentivos, los cargadores y las fábricas que juntos deciden la rapidez con la que Malasia cambia a la movilidad eléctrica.

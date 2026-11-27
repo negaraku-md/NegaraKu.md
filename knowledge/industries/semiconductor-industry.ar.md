@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'رقاقة سيليكون مربّعة على طاولة مختبر، سطحها يتلألأ بألوان أرجوانية ووردية وذهبية قزحية من طبقة رقيقة'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: فنّي يرتدي بذلة بيضاء كاملة وغطاء رأس وكمامة يمسك رقاقة سيليكون مستديرة بيد مقفّزة داخل غرفة نظيفة لأشباه الموصلات مضاءة بضوء أصفر
+    kind: representative
+    origin: third-party
+    subject: فنّي بزي واقٍ يمسك رقاقة سيليكون في غرفة نظيفة للطباعة الضوئية مضاءة بضوء أصفر
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: فنّي يرتدي بذلة غرفة نظيفة بيضاء كاملة وغطاء رأس وكمامة وقفازات يعمل على مكوّنات معدنية مصقولة على طاولة داخل غرفة نظيفة ساطعة
+    kind: representative
+    origin: third-party
+    subject: فنّي تجميع بزي واقٍ يعمل على معدات دقيقة داخل غرفة نظيفة
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 إذا كنت تقرأ هذا على هاتف أو حاسوب محمول، فهناك احتمال حقيقي بأن إحدى رقائقه قضت جزءًا من حياتها في ماليزيا — لا في اختراعها أو طباعتها، بل في تحويلها من شريحة سيليكون عارية إلى مكوّن مكتمل ومغلّف جاهز للحام على لوحة دوائر. هذه الخطوة الهادئة غير اللامعة هي حيث بنت ماليزيا واحدًا من أهم المواقع في عالم الإلكترونيات بأسره.

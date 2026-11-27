@@ -31,7 +31,7 @@ faq:
     a: "नहीं। समुद्री-उद्यान सीमाओं के भीतर मछली पकड़ना निषिद्ध है, और आगंतुक किसी समुद्री जीव के किसी भी भाग को — जीवित हो या मृत — नहीं इकट्ठा कर सकते, जिसमें मूँगे के टुकड़े और सीपियाँ शामिल हैं, न ही मूँगे को छू, उस पर खड़े हो या अन्यथा क्षति पहुँचा सकते हैं।"
 
 lang: "hi"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["पेरहेंतियान", "रेदांग", "तियोमान", "कापास", "समुद्री उद्यान", "संरक्षण शुल्क", "उत्तर-पूर्वी मानसून", "मलेशिया द्वीप", "स्नॉर्कलिंग", "गोताख़ोरी", "Perhentian", "Redang", "Tioman", "Kapas", "marine park", "northeast monsoon"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'समुद्रतट-और-रीफ़ यात्रियों के लिए — बैकपैकर समुद्रतटों से लेकर पैकेज रिज़ॉर्ट तक, समुद्री-पार्क द्वीप यात्राएँ चाहने वाले स्नॉर्कलर और गोताखोर।'
+  getThere: 'प्रत्येक द्वीप की अपनी मुख्यभूमि जेटी से नाव: Terengganu में Redang के लिए Merang, Perhentian के लिए Kuala Besut और Kapas के लिए Marang, तथा Pahang में Tioman के लिए Mersing या Tanjung Gemok।'
+  permit: 'एक अनिवार्य समुद्री-पार्क संरक्षण शुल्क, जो चढ़ने से पहले मुख्यभूमि जेटी टर्मिनल के काउंटर पर चुकाया जाता है और आपके नाव-किराए से अलग है।'
+  watch: 'कोई एकल अनिवार्य बंदी नहीं, पर अधिकांश द्वीप ऑपरेटर उत्तर-पूर्वी मानसून के लिए स्वेच्छा से बंद कर देते हैं, इसलिए उन महीनों के निकट भुगतान करने से पहले नाव-स्थानांतरण पुष्ट करें।'
+  next: 'वर्तमान संरक्षण शुल्क और समुद्री-पार्क नियम Department of Fisheries Malaysia से पुष्ट करें।'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'पर्हेन्तियन द्वीप पर कपासी बादलों वाली नीली आसमान के नीचे अपक्षयित ग्रेनाइट शिलाखंडों, एक अकेले पेड़ और फ़िरोज़ी उथले पानी के साथ खाली सफ़ेद-रेत का समुद्रतट'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Pulau Redang पर फ़िरोज़ी पानी और ताड़ के पेड़ों के साथ एक छोटे जंगली चट्टानी टापू की ओर मुड़ता चौड़ा सफ़ेद-रेत का समुद्र तट
+    kind: actual
+    origin: third-party
+    subject: Pulau Redang का लंबा सफ़ेद-रेत समुद्र तट, तट से दूर चट्टानी टापू और फ़िरोज़ी पानी, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Perhentian Islands पर देहाती शैले की छतों और ताड़ के पेड़ों के ऊपर से छोटी नावों और जंगली भूशीर्ष वाली चमकदार फ़िरोज़ी खाड़ी का ऊँचाई से दृश्य
+    kind: actual
+    origin: third-party
+    subject: Perhentian Islands पर एक समुद्रतटीय गाँव और नावों से भरी उसकी फ़िरोज़ी खाड़ी का ऊँचाई से दृश्य, स्नॉर्कलिंग का लोकप्रिय ठिकाना
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 दिसंबर में रेदांग के किसी समुद्र-तट रिज़ॉर्ट पर पहुँचिए और आप संभवतः नावें ग़ायब, जेटी शांत और गोताख़ोरी-दुकान बंद पाएँगे। पूर्वी-तट के द्वीप एक ऐसे पंचांग पर चलते हैं जिसे समुद्र लिखता है, पर्यटन पुस्तिका नहीं — और समुद्री-उद्यान नियमों के एक समुच्चय पर, जिन्हें अधिकांश पहली-बार आने वाले केवल टिकट काउंटर पर ही जान पाते हैं।

@@ -74,9 +74,35 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'The tall ornate facade of the Immigration Department of Malaysia headquarters in Putrajaya, bearing the Jabatan Imigresen Malaysia name and departmental crest, with flags flying above the entrance.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: The Immigration Department branch office in Semporna, Sabah
+    kind: actual
+    origin: third-party
+    subject: Immigration Department (Jabatan Imigresen) branch office in Semporna, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: A Malaysian immigration passport stamp, issued at a Department of Immigration checkpoint
+    kind: actual
+    origin: third-party
+    subject: Malaysian immigration entry/exit passport stamp
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 One agency stands behind almost every document that lets a person cross Malaysia's border, live here, or work here. The **Immigration Department of Malaysia** — *Jabatan Imigresen Malaysia* (**JIM**) — is the body under the **Ministry of Home Affairs** that issues passports to citizens, grants visas and passes to foreigners, staffs every airport and land-border counter, and enforces the immigration laws. It serves Malaysian citizens, permanent residents and foreign visitors, and it has run since **21 July 1922**. The catch for newcomers is that its services are scattered across several official websites — this page maps them.

@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,33 @@ verificationNeeded:
   - "Peratusan pegangan saham bagi dana urusan PNB dan KWSP — berubah dengan setiap pemfailan Bursa Malaysia."
   - "Bilangan negara operasi (kesemua sepuluh negara ASEAN serta pusat kewangan global) — mungkin berubah."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'Menara Maybank silinder kembar putih menjulang di atas kaki langit Kuala Lumpur, dengan logo dan tanda kata Maybank biru pada panel berhampiran puncaknya'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: Ketinggian penuh Menara Maybank berwarna putih berlatarkan langit biru, papan tanda Maybank kuning dan logo kepala harimau dipasang pada mahkotanya di atas bumbung bandar
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank dilihat dari Stadium Chin Woo berlatarkan langit biru, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: Eskalator kembar di bawah kanopi berkubah menuju ke Menara Maybank, dengan logo Maybank kuning pada papan selamat datang yang menamakan KL Main Branch di kaki tangga
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk eskalator ke Menara Maybank dengan papan selamat datang Maybank, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 Buka akaun semasa hampir di mana-mana sahaja di Malaysia dan ada kemungkinan besar ia membawa logo kepala harimau Maybank. Malayan Banking Berhad ialah bank terbesar negara ini — dari segi aset dalam kunci kira-kiranya dan dari segi nilainya pada pandangan pasaran saham — dan salah satu kumpulan perbankan terbesar di Asia Tenggara. Profil ini menjelaskan apa yang dilakukan oleh kumpulan ini, di mana ia beroperasi dan siapa pemiliknya.

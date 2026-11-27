@@ -36,7 +36,7 @@ faq:
     a: "2030-க்குள் மலேசியாவை உலகத்தரம் வாய்ந்த கிளவுட் மையமாக மாற்ற, டிஜிட்டல் அமைச்சு (Ministry of Digital) 2025-இல் தொடங்கிய ஒரு கொள்கை; இது தரவு இறையாண்மையை — மலேசியாவில் உருவாகும் தரவு மலேசியச் சட்டத்தால் நிர்வகிக்கப்படும் என்ற கொள்கையை — அடித்தளமாகக் கொண்டு, ஒரு இறையாண்மை AI கிளவுட் திட்டத்துடன் இணைந்துள்ளது."
 
 lang: "ta"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 status: "published"
 masterLanguage: "en"
 translationStatus: "in-sync"
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'ஒரு தரவு மையத்தில் சர்வர் அடுக்குகளின் சுவர்; ஒவ்வொரு வரிசையும் இருளுக்குள் பின்னகரும் பிரகாசமான நீல குறிகாட்டி விளக்கு வரிசைகளால் ஒளிர்கிறது'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: உயரமான கருப்பு சர்வர் அலமாரிகளின் இரண்டு சுவர்களுக்கு இடையே ஓடும் ஒரு குறுகிய பாதை, வரிசைகள் தொலைவில் ஒளிரும் வாயிலை நோக்கி ஒன்றிணைகின்றன
+    kind: representative
+    origin: third-party
+    subject: ஒரு பல்கலைக்கழக தரவு மையத்தில் உயரமான கருப்பு சர்வர் அலமாரிகளுக்கு இடையேயான சமச்சீர் பாதை
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: அந்தி நேரத்தில் ஒரு தரவு-மைய வளாகத்தின் வான்வழிக் காட்சி, நீண்ட வரிசை கூரை குளிரூட்டல் அலகுகள் மற்றும் இன்னும் கட்டுமானத்தில் உள்ள ஒரு அருகிலுள்ள கட்டிடத்துடன்
+    kind: representative
+    origin: third-party
+    subject: கட்டுமானத்தில் உள்ள ஒரு பெரிய தரவு-மைய வளாகத்தில் கூரை குளிரூட்டல் அலகுகளின் வான்வழிக் காட்சி
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 மூன்று ஆண்டுகளுக்குள், Singapore-க்கு எதிரே காஸ்வேயைக் கடந்துள்ள தெற்கு ஜோகூரின் (Johor) ஒரு பகுதி, ஒரு சர்வரை இணைப்பதற்கு உலகிலேயே மிகவும் விரும்பப்படும் இடங்களில் ஒன்றாக மாறியுள்ளது. கிளவுட் நிறுவனங்கள், கோலொகேஷன் (colocation) இயக்குநர்கள் மற்றும் AI ஸ்டார்ட்-அப்புகள் இங்கு குவிந்துள்ளன — இப்போது இந்த ஏற்றத்திற்கு அடியில் உள்ள மின் கம்பிகள் மற்றும் நீர் குழாய்களுக்கு எல்லைகள் உள்ளன என்பதை மலேசியா உணர்ந்து வருகிறது.

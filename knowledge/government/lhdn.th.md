@@ -30,7 +30,7 @@ faq:
     a: "ให้ถือว่าเป็นคำแปล มิใช่แหล่งที่มา หน้าภาษาอังกฤษของ LHDN แปลด้วยเครื่องและมีข้อผิดพลาดที่ได้รับการยืนยันแล้วซึ่งกลับความหมาย สำหรับสิ่งใดที่สำคัญ ให้อ่านหน้าต้นฉบับภาษามลายูและอ้างจากนั้น"
 
 lang: "th"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-invoicing"]
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
 framework: profile
+hero: '/media/government/lhdn/hero.webp'
+heroAlt: 'อาคารสำนักงานทันสมัยพร้อมหลังคายื่นโค้งกวาดและป้ายสีน้ำเงินเขียนว่า WISMA HASIL ข้างโลโก้ Hasil ทรงสามเหลี่ยม ตัดกับท้องฟ้าสีครามสดใสในซันดากัน รัฐซาบาห์'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: อาคารสำนักงานกระจกสูงสีน้ำเงินอมเขียว มีฐานอาคารสีแดงเลือดหมูติดป้าย HASIL และ Lembaga Hasil Dalam Negeri เหนือทางเข้า มองจากถนนในกูชิง รัฐซาราวัก
+    kind: actual
+    origin: third-party
+    subject: อาคารกรมสรรพากร (LHDN / Lembaga Hasil Dalam Negeri) ในกูชิง รัฐซาราวัก
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: อาคารสำนักงานสูงสีขาวและกระจกสีเทอร์ควอยซ์ แสดงตราคำว่า HASIL สีน้ำเงินใกล้แนวหลังคา ตั้งตระหง่านเหนือถนนที่มีต้นไม้เรียงรายในโกตากีนาบาลู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil อาคารกรมสรรพากรมาเลเซีย (LHDN) ในโกตากีนาบาลู รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## โดยสังเขป

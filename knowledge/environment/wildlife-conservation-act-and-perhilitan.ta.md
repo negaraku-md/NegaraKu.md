@@ -36,7 +36,7 @@ faq:
     a: "இல்லை. Section 2, கூட்டரசு அரசியலமைப்பின் Ninth Schedule-இன் List II-இன் கீழும் Fisheries Act 1985-இன் கீழும் வரும் வனவிலங்குகளை வெளிப்படையாக விலக்குகிறது, எனவே கடல்வாழ் மற்றும் பெரும்பாலான மீன்வளத் துறை இனங்கள் வேறிடத்தில் நிர்வகிக்கப்படுகின்றன."
 
 lang: "ta"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,36 @@ wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: []
+related: ["national-parks-and-protected-areas-malaysia"]
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'மென்மையான பச்சை இலைகளுக்கு எதிரே மலாயாப் புலியின் கோடிட்ட ஆரஞ்சு-கருப்பு முகமும் தோள்பட்டையும் கொண்ட நெருக்கமான பக்கவாட்டுக் காட்சி'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: இருண்ட காட்டில் இலைக் குப்பைக்கும் இளம் மரங்களுக்கும் நடுவே நிற்கும் கருப்பு-வெள்ளை மலாயா தேனீர்ப்பன்றி (தபீர்)
+    kind: actual
+    origin: third-party
+    subject: இரவில் காட்டுத் தரையில் உணவு தேடும் மலாயா தபீர், வாழ்விட இழப்பால் அச்சுறுத்தலுக்குள்ளான பாதுகாக்கப்பட்ட இனம்
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: பச்சை இலைகளுக்கு நடுவே ஒரு கிளையில் அமர்ந்த பிரகாசமான சிவப்பு-ஆரஞ்சு நிற மேல்நோக்கிய கொம்புடன் கூடிய பெரிய கருப்பு இருவாச்சி (ஹார்ன்பில்)
+    kind: actual
+    origin: third-party
+    subject: சபா, தாபின் வனவிலங்குக் காப்பகத்தின் மழைக்காட்டு மரச்சிகரத்தில் அமர்ந்த காட்டு காண்டாமிருக இருவாச்சி
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 ஒரு மலாயன் புலியின் தோலை உங்கள் காரின் பின்பெட்டியில் வைத்திருந்தால், நீங்கள் ஒரு அபராதத்தையும் கண்டிப்பான கடிதத்தையும் மட்டும் எதிர்நோக்குவதில்லை — பல ஆண்டு சிறைத்தண்டனையும், நூறாயிரக்கணக்கான ரிங்கிட்டில் அளக்கப்படும் அபராதத்தையும் எதிர்நோக்குகிறீர்கள். அதுதான் வனவிலங்கு பாதுகாப்புச் சட்டம் 2010-இன் கூர்மையான முனை; தீபகற்ப மலேசியாவில் எந்த விலங்குகளை நீங்கள் தொடலாம், வைத்திருக்கலாம், விற்கலாம் அல்லது ஆய்வு செய்யலாம், மேலும் மாநிலத்திடமிருந்து எழுத்துப்பூர்வ அனுமதியின்றி எந்த விலங்கை நீங்கள் நெருங்கக்கூடாது என்பதை இச்சட்டமே தீர்மானிக்கிறது.

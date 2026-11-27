@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,24 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: 'Un edificio bancario de esquina de tres plantas cuya planta baja está envuelta en una franja azul brillante que reza RHB Bank, RHB Islamic y RHB Bank, cada una con el logotipo RHB de rombo rojo, con un coche rojo aparcado delante bajo un cielo pálido'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: Una sucursal esquinera blanca de dos pisos de RHB Bank vista a través de un cruce pavimentado con ladrillo, con su franja de señalización azul que dice RHB Islamic y RHB Bank con el logotipo del rombo rojo, y toldos de mercado montados en la explanada bajo un cielo azul despejado
+    kind: actual
+    origin: third-party
+    subject: Una sucursal de RHB Bank en Seremban 2, Negeri Sembilan, con la señalización de RHB Bank y RHB Islamic bajo un cielo azul brillante
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB es uno de los nombres que la mayoría de los malasios reconoce en la sucursal de un banco de barrio, en una tarjeta de cajero automático o en un folleto de préstamos hipotecarios; sin embargo, el grupo que lo respalda va mucho más allá de la banca minorista, hacia las finanzas islámicas, la banca de inversión, los seguros y los mercados de todo el Sudeste Asiático. Esta página es una visión general neutral y factual de qué es RHB Banking Group, cómo está estructurado, quién lo posee y por qué importa.

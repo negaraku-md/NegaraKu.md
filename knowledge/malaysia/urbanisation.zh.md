@@ -23,7 +23,7 @@ appliesTo: "任何需要正确解读马来西亚人口、劳动力或房地产�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,32 @@ faq:
   - q: 马来西亚的城市增长大部分集中在哪里?
     a: 在巴生谷(Klang Valley)。在2020年人口普查中,四个相邻的县——吉隆坡(1,982,112)、八打灵(2,298,130)、乌鲁冷岳(1,400,461)和巴生(1,088,942)——合计约有677万人,超过全国3,240万人口的五分之一。雪兰莪如今是人口最多的州,有6,994,423人,城市化率为95.8%,而吉兰丹以44.1%成为城市化程度最低的州。
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: '吉隆坡密集城市天际线的广阔景象，在明亮多云的天空下，针尖般的吉隆坡塔（Menara KL）、簇拥的摩天大楼和一座蓝色清真寺圆顶高耸于绿色树梢之上。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: 一排两层楼的殖民时期店屋，设有拱形的五脚基骑楼，楼上是木百叶窗，排列在一条安静的老城街道上。
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市的传统店屋街
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: 一座白色帆形斜拉桥横跨一片湖面，桥前是一排排中层公寓楼，上方是阴沉的天空。
+    kind: actual
+    origin: third-party
+    subject: 规划建设的联邦行政中心布城的斯里哇哇山大桥（Seri Wawasan Bridge）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## 四分之三的大马人如今住在DOSM认定的「城市」里

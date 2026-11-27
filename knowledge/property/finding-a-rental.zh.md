@@ -23,7 +23,7 @@ appliesTo: "任何在马来西亚寻找租房住所的人，无论是首次在�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,33 @@ relations:
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
 framework: explainer
+hero: '/media/property/finding-a-rental/hero.webp'
+heroAlt: '多云蓝天下，吉隆坡北部Kiara一座高大的白色现代公寓塔楼耸立于山丘和一片有地郊区住宅之上'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: 槟城乔治市郊区两栋米色与栗色相间的大型住宅公寓楼，排列着阳台和空调外机，低层被树木遮掩
+    kind: representative
+    origin: third-party
+    subject: 槟城乔治市郊区的中端住宅公寓楼
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: 吉隆坡一组高耸的现代公寓塔楼，带有层叠的阳台，从街道视角仰望，背景是苍白的阴天
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡的现代高层公寓塔楼（Orion Condominium 与 Sky Residences）
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 你在某个平台上看中一个房源，给上面留的号码发了消息，然后有人出现，替你打开单位的门锁。这整个过程完全没有告诉你，把钥匙交到你手上的这个人，是否依法有权就此收取费用——而几乎没有人会去问。

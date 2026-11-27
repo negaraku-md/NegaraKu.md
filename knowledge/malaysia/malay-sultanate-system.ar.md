@@ -18,7 +18,7 @@ keyTakeaways:
   - "تستمر مؤسسة السلطنة في الدستور عبر الحكّام الملايويين التسعة، ومجلس الحكّام (Majlis Raja-Raja)، وملك البلاد (Yang di-Pertuan Agong)"
 appliesTo: "كل من يريد فهم بنية مؤسسة السلطنة الملايوية التقليدية ودورها، وكيف تتصل بنظام الملكية الدستورية اليوم."
 lang: "ar"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -61,6 +61,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["السلطنة الملايوية", "kesultanan Melayu", "نظام الكبراء", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "مجلس الحكّام", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "الملكية الدستورية", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'قصر ملايوي تقليدي من الخشب بجدران من الخيزران المنسوج وأسطح قرميدية شديدة الانحدار وجملونات منحوتة، يقف تحت سماء مشرقة.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: يقف بيت البوابة الاحتفالي المزخرف بقبته الذهبية الخاص بـ Istana Negara، والمكتوب عليه 'Istana Negara'، في وضح النهار، وخلفه مباني القصر ذات القباب الذهبية على التل الأخضر، ومن ورائها أفق كوالالمبور.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara، القصر الوطني في شارع Jalan Tuanku Abdul Halim (Jalan Duta)، كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: يرقد خنجر ملايوي احتفالي طويل (keris) بجانب غمده النحيل على سطح في متحف، وإلى جانبه بطاقة مطبوعة مكتوب عليها 'Keris Alang Pahang'.
+    kind: actual
+    origin: third-party
+    subject: Keris Alang الخاص بباهانغ، خنجر ملكي احتفالي يرمز إلى السلطة
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 تخيّل دولةً بلا ملفّات، ولا استمارات، ولا دوائر مرقّمة. كانت الأوامر تُنقل بالكلام، ويُقضى في العدل في الـ balairung (قاعة العرش)، وكان نظام المجتمع كله يستند إلى كلمة واحدة لا تُترجم بدقة إلى اللغة الحديثة: *daulat*. ذلك كان عالم السلطنة الملايوية — نظام نظّم آلاف الأرواح على طول السواحل والأنهار قرونًا، ولا يزال ظلّه مرئيًا في دستور ماليزيا اليوم.

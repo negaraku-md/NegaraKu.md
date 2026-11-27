@@ -42,7 +42,7 @@ sources:
     publisher: "Nyonya Cooking"
 
 lang: "ko"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ drinkFacts:
   halal: "절인 과일; asam boi 음료는 과일, 설탕, 물로 알코올 없이 만들어 그 자체로 할랄이다. 보증은 노점 음료라면 업소에, 포장 제품이라면 포장의 인증 표시에 결부된다 — 단정하기보다 표시를 확인할 것."
   served: "가장 고전적으로는 limau asam boi로 — calamansi 라임에 신 매실 시럽을 더해, 매실 몇 조각과 때로 소금 한 꼬집을 넣어 얼음 위에 낸다. 탄산음료(Sprite asam boi)와 Ribena에도 넣는다. 그 자체로 간식으로도 먹는다."
   where: "전국의 mamak과 kopitiam 음료 카운터, 노점, 건어물 상점에서 찾을 수 있으며; 포장 asam boi는 슈퍼마켓과 잡화점에서 팔린다."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: '아삼 보이로 알려진, 쪼글쪼글하고 소금이 서린 갈색 말린 절임 매실 한 접시'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: 소금이 코팅된 쪼글쪼글한 말린 절임 매실 두 개의 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 소금에 절인 말린 매실 두 개(부아이 켐 / 아삼 보이) 클로즈업
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: 소금 결정이 서린 말린 절임 매실이 수북이 담긴 투명한 유리 그릇
+    kind: actual
+    origin: third-party
+    subject: 소금에 절인 말린 매실 한 그릇(부아이 켐 / 아삼 보이)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 어떤 맛은 잊기 어려운데, **asam boi**가 그 하나다: 작고 쭈글쭈글한, 말린 신 매실로 달고

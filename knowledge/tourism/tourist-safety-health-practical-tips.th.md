@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'ถนนเปอตาลิงในกัวลาลัมเปอร์ยามค่ำคืน ประดับด้วยโคมแดง ผู้คนเดินชมรถเข็นผลไม้และแผงตลาดที่เปิดไฟระหว่างตึกแถวมีหลังคา'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 คุณลงจากเครื่องแล้ว เจ็ตแล็ก และโทรศัพท์ของคุณไม่มีสัญญาณ ก่อนจะกังวลเรื่องนาซิเลอมัก (nasi lemak) จานสมบูรณ์แบบ ให้จัดการเรื่องน่าเบื่อแต่สำคัญก่อน คือ ซิมที่ใช้งานได้ เบอร์ฉุกเฉินที่ถูกต้อง และการรู้ว่าฝนกำลังจะตกหรือไม่ ต่อไปนี้คือรายการย่อที่ผ่านการตรวจสอบแล้ว

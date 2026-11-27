@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: '身着制服的军乐队队员列队行进，在默迪卡广场的马来西亚国庆日游行中经过观众面前。'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: 默迪卡日游行中，一排排身着制服的人员列队行进，手持红白蓝黄的Jalur Gemilang及其他旗帜。
+    kind: actual
+    origin: third-party
+    subject: 制服队伍手持Jalur Gemilang在第59届默迪卡日庆典上游行
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: 在东马来西亚的户外国庆庆典上，沙巴Kota Kinabalu的人群面带微笑，自豪地高举并挥舞马来西亚国旗。
+    kind: actual
+    origin: third-party
+    subject: 庆祝者在沙巴Kota Kinabalu的国庆庆典中挥舞Jalur Gemilang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 马来西亚的日历上，每年都有两个容易被误认为是同一回事的日期：8月31日与9月16日。两者都以旗帜、游行与爱国歌曲来庆祝。然而，这两个日期纪念的是不同的事件，相隔六年，描述的是两个形态不同的国家。

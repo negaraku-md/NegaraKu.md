@@ -90,6 +90,32 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'Sebuah pengecas kenderaan elektrik DC di sebelah petak pengecasan bertanda Charge up and stay positive di sebuah R&R lebuhraya Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: Petak pengecasan pantas DC Shell Recharge untuk kenderaan elektrik di hentian lebuh raya LDP di Puchong, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Stesen pengecasan pantas DC Shell Recharge, LDP Puchong Selatan, Malaysia
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: Sebuah SUV elektrik BYD Atto 3 2023 berwarna biru, EV popular di pasaran Malaysia, diletakkan di Pulau Pinang.
+    kind: actual
+    origin: third-party
+    subject: SUV elektrik BYD Atto 3 di Pulau Pinang, Malaysia
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 Zaman cukai jalan percuma untuk kereta elektrik di Malaysia sudah berakhir — tetapi bil pertama yang mendarat dalam MyJPJ anda mungkin lebih murah daripada yang anda sangka, dan ia dikira dengan cara yang benar-benar baharu.

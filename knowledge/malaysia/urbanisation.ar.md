@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "كل من يحاول قراءة إحصاءات السكّان أو العمالة أو العقارات الماليزية قراءةً صحيحة — الباحثون والمخطِّطون والشركات التي تقيّم أين يوجد السكّان والقوى العاملة فعلًا."
 
 lang: "ar"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ faq:
   - q: أين تركّز معظم النمو الحضري في ماليزيا؟
     a: في وادي كلانغ (Klang Valley). في تعداد 2020، ضمّت أربع مقاطعات متجاورة — كوالالمبور (1,982,112) وبيتالينغ (2,298,130) وأولو لانغات (1,400,461) وكلانغ (1,088,942) — معًا نحو 6.77 مليون نسمة، أي أكثر من خُمس سكان البلاد البالغ عددهم 32.4 مليون نسمة. وسلانغور الآن أكثر الولايات سكانًا بعدد 6,994,423 نسمة ونسبة تحضّرها 95.8%، في حين أن كلنتان، بنسبة 44.1%، هي الولاية الأقل تحضّرًا.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'منظر واسع لأفق مدينة كوالالمبور المكتظّ تحت سماء ساطعة ملبّدة بالغيوم، يبرز فيه برج كوالالمبور ذو القمة الإبرية وناطحات سحاب متجمّعة وقبّة مسجد زرقاء ترتفع فوق قمم الأشجار الخضراء.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: صفّ من المحال-المساكن (shophouses) ذات الطابقين من الحقبة الاستعمارية بأروقة مقوّسة من طراز 'الممر بعرض خمسة أقدام' وطوابق علوية بمصاريع خشبية يصطف على طول شارع هادئ في البلدة القديمة.
+    kind: actual
+    origin: third-party
+    subject: شارع المحال التراثية (shophouses) في جورج تاون، بينانغ
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: جسر أبيض معلّق بالكابلات على شكل شراع يعبر بحيرة أمام صفوف من المباني السكنية متوسطة الارتفاع تحت سماء رمادية.
+    kind: actual
+    origin: third-party
+    subject: جسر Seri Wawasan في المدينة الاتحادية المخطّطة بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## ثلاثة من كل أربعة ماليزيين يعيشون الآن في مكان تسمّيه DOSM «حضريًا»

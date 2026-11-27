@@ -86,9 +86,35 @@ wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
-related: []
+related: ["palm-oil-industry", "rubber-industry", "agricultural-subsidies-farm-input-support"]
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'Gerbang di tepi jalan menandakan pintu masuk ke rancangan penempatan tanah FELDA Ayer Hitam di Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: Jalan yang tenang dipagari pokok palma diraja dan rumah peneroka di rancangan FELDA Bukit Batu, Kulai, Johor
+    kind: actual
+    origin: third-party
+    subject: Rumah peneroka di sepanjang jalan berpokok palma di FELDA Bukit Batu, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: Kilang minyak sawit Fajar Harapan dengan cerobongnya di kompleks penempatan FELDA Sahabat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Kilang minyak sawit Fajar Harapan di kompleks FELDA Sahabat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 Bayangkan sebuah keluarga miskin dipindahkan ke hutan yang baru ditebang, diberi sebidang tanah dan upah bulanan, lalu diminta menunggu bertahun-tahun sehingga pokok getah atau kelapa sawit mereka matang. Itulah tawaran yang mengubah kehidupan lebih 100,000 keluarga luar bandar Malaysia — dan enjinnya ialah FELDA.

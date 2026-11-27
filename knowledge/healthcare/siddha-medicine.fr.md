@@ -32,7 +32,7 @@ faq:
   - q: "Qui peut s'inscrire comme praticien de siddha ?"
     a: "Au titre de la Loi 775, ceux qui souhaitent exercer dans le domaine de la médecine indienne traditionnelle doivent s'inscrire auprès du Conseil T&CM. La loi a été appliquée par étapes ; après la période de transition intérimaire, il est interdit à ceux qui ne sont pas inscrits de fournir des services dans les domaines reconnus. Veuillez vérifier les exigences en vigueur auprès de la Division T&CM du ministère au moment de la publication."
 lang: "fr"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,32 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: 'Une confiserie à base de plantes lehyam (lekiyam) en cours de préparation, un remède traditionnel du système siddha.'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: La modeste devanture d'un dispensaire traditionnel de médecine par les plantes du sud de l'Inde, représentant une pratique de médecine traditionnelle indienne apparentée au Siddha
+    kind: representative
+    origin: third-party
+    subject: La devanture d'un dispensaire traditionnel de médecine par les plantes du sud de l'Inde (vaidyasala)
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: Une boule foncée de ginger lehyam, une préparation traditionnelle en pâte de plantes du Siddha tamoul, tenue dans une main ouverte
+    kind: representative
+    origin: third-party
+    subject: Un ginger lehyam terminé, une préparation à base de plantes du Siddha tamoul, tenu dans la paume
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 Sur les anciennes terres de plantation de la Malaisie, et dans les rues tamoules de ses villes, on peut trouver une boutique de plantes — des plantes séchées, des poudres (choornam) et des huiles alignées en rangées sur ses étagères. Elles ne sont pas là par hasard ; ce sont les traces d'une tradition médicale vieille de plus d'un siècle et demi.

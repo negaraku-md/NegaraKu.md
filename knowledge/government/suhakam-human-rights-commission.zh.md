@@ -34,7 +34,7 @@ faq:
     a: "可以。第4(2)(d)条赋予 SUHAKAM 探访任何扣留场所、机构及其他地方并提出必要建议的权力。由2024年修正案纳入的第4(3)条规定，只要遵守既定程序，负责该场所的人便不得拒绝该探访。"
 
 lang: "zh"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,33 @@ relations:
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
 framework: profile
+hero: '/media/government/suhakam-human-rights-commission/hero.webp'
+heroAlt: '吉隆坡Menara TH Perdana，一座弧形高层办公塔楼，醒目地标有''MENARA TH PERDANA''招牌和玻璃雨篷入口，是SUHAKAM（人权委员会）总部所在地'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: 吉隆坡一场和平公民社会集会的参与者,体现人权议题的背景
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡的公民社会集会(人权背景)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: 夜间挤满吉隆坡街道的一场和平公众集会,展现人权委员会所监督的各项自由
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡街头的和平公众集会(人权背景)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 当有人向 SUHAKAM 提交侵犯人权的投诉时，这个委员会究竟能做什么、不能做什么？

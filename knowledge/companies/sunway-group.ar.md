@@ -29,7 +29,7 @@ faq:
     a: "نعم. أُدرجت Sunway Healthcare Holdings في السوق الرئيسية لبورصة ماليزيا (Bursa Malaysia) باسم SUNMED في 18 مارس 2026. وكان صندوق GIC السنغافوري قد وافق سابقاً، في يونيو 2021، على استثمار RM750 مليون مقابل حصة 16% في أعمال الرعاية الصحية."
 
 lang: "ar"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "تكتل ماليزي", "مدينة متكاملة", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'معلم رأس الأسد الحجري العملاق والسقف الهرمي لمركز صنواي بيراميد التجاري، مع أبراج شاهقة تحمل اسم SUNWAY ترتفع خلفه تحت سماء غائمة'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: منظر قريب لواجهة Sunway Pyramid ذات الطابع المصري بسقف هرمي كبير وتمثال أبي الهول على هيئة أسد جالس بجوار لافتة دخول 'Shopping Mall / Theme Park'
+    kind: actual
+    origin: third-party
+    subject: الواجهة الأمامية لمركز Sunway Pyramid التجاري تُظهر الهرم وأبا الهول برأس الأسد، Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: منظر جوي لمدينة Bandar Sunway المصغّرة يُظهر مركز Sunway Pyramid التجاري والفندق المنتجع والبحيرة وأبراجًا سكنية عالية متجمّعة في وادي كلانغ
+    kind: actual
+    origin: third-party
+    subject: منظر جوي لمدينة Bandar Sunway المتكاملة التابعة لمجموعة Sunway مع مركز الهرم التجاري والمنتجع والبحيرة والأبراج السكنية، سلانغور
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 تحوّل مجموعة صنواي الأراضي إلى مدن كاملة — مساكن ومراكز تسوق ومستشفيات وجامعات ومدن ملاهٍ ضمن مخطط رئيسي واحد — ثم تواصل تشغيل ما تبنيه.

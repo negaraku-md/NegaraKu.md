@@ -35,7 +35,7 @@ faq:
     a: "Esports diakui sebagai disiplin kompetitif dan telah dipertandingkan di SEA Games. Bajet 2020 mengalokasikan RM20 juta, dan KBS membentuk Esports Integrated pada 2020 untuk menggerakkan peta jalan esports nasional dan pengembangan atlet."
 
 lang: id
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 
@@ -114,6 +114,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'Sebuah studio produksi motion capture dengan panggung tangkap bergrid, rig kamera di atas pada rangka truss, dan stasiun kerja operator dengan beberapa monitor.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: Para pengembang bekerja di meja bermonitor ganda di seluruh lantai studio terbuka sebuah rumah pengembangan gim video.
+    kind: representative
+    origin: third-party
+    subject: Lantai studio pengembangan gim video
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: Sebuah tablet grafis dan stylus terletak di depan monitor yang menampilkan lukisan digital di stasiun kerja seorang kreator konten.
+    kind: representative
+    origin: third-party
+    subject: Stasiun kerja seniman digital untuk membuat lukisan digital
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 Ketika _Upin & Ipin Universe_ dari Les' Copaque mencapai konsol di seluruh dunia pada **17 Juli 2025**, ia menutup satu lingkaran yang dimulai dengan serial animasi pendek tentang dua anak kembar yang nakal. Sebuah kartun Malaysia telah menjadi gim video yang diterbitkan secara global — dan ilustrasi yang rapi tentang apa yang telah diam-diam dibangun oleh industri konten kreatif digital negara ini selama dua dekade.

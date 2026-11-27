@@ -74,6 +74,32 @@ faq:
   - q: Did Melaka pass from the Dutch to the British in one clean handover?
     a: No. It changed hands administratively four times in thirty years. Britain occupied Melaka in 1795 under the Kew Letters to keep it from France, Melaka was restored to the Dutch in 1818, the Anglo-Dutch Treaty of 1824 (signed 17 March 1824) permanently ceded it to Britain in exchange for Bencoolen in Sumatra, and the actual transfer took effect on 1 March 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'The deep-red Dutch colonial Stadthuys and its red clock tower at Dutch Square in Melaka, with a flower-filled roundabout and directional signpost in front.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: The deep red brick facade of Christ Church Melaka, with a white cross and a clock set into its gable, rises against the sky.
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka, the 1753 Dutch-built church
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: A whitewashed arched gateway bearing the sign 'Kubur Belanda / The Dutch Graveyard' opens onto a tree-shaded colonial burial ground on St Paul's Hill in Melaka.
+    kind: actual
+    origin: third-party
+    subject: The Dutch Graveyard (Kubur Belanda) on St Paul's Hill, Melaka
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 A company spends seven months and an alliance with a foreign sultanate to conquer a port. Then it spends the next century and a half making sure that port never gets rich.

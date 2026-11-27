@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่ย้ายเข้าบ้านหรือสถานที่ใหม่ในมาเลเซียและต้องเปิด โอน หรือปิดบัญชีการจ่ายไฟฟ้า ไม่ว่าจะอยู่ในคาบสมุทร ซาบาห์ หรือซาราวัก"
 
 lang: "th"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'มิเตอร์ไฟฟ้า TNB (Tenaga Nasional) ติดผนังที่บ้านในมาเลเซีย พร้อมบัตรเลขที่บัญชีที่เขียนด้วยมือ'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: สถานีไฟฟ้าย่อยของ Tenaga Nasional (TNB) ที่มีรั้วล้อมในย่านบันดาร์อูตามา เปอตาลิงจายา เป็นข้อต่อหนึ่งในโครงข่ายที่จ่ายไฟให้บัญชี TNB ของทุกครัวเรือนทั่วรัฐเซอลาโงร์
+    kind: actual
+    origin: third-party
+    subject: สถานีไฟฟ้าย่อยของ Tenaga Nasional (TNB) ที่บันดาร์อูตามา เปอตาลิงจายา
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: สถานีรับไฟหลัก(PPU)ของ Tenaga Nasional ที่บันดาร์อูตามาเต็มไปด้วยอุปกรณ์สวิตช์เกียร์และโครงเหล็ก เป็นขั้นแปลงแรงดันไฟฟ้าสูงก่อนที่ไฟจะไปถึงมิเตอร์ตามบ้านของผู้ใช้
+    kind: actual
+    origin: third-party
+    subject: สถานีส่งไฟฟ้ารับไฟหลัก(PPU)ของ Tenaga Nasional ที่บันดาร์อูตามา
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 คุณได้กุญแจบ้านใหม่มาแล้ว แต่สวิตช์ไฟไม่ทำงานอะไรเลย มิเตอร์ข้างนอกยังหมุนอยู่ในชื่อของเจ้าของเดิม และตราบใดที่บัญชีนั้นยังไม่เปลี่ยนชื่อ ทุกกิโลวัตต์ที่คุณใช้ก็ยังผูกติดอยู่กับความรับผิดของคนอื่นในทางเทคนิค หลายคนคิดว่าแค่ "โทรหา TNB" ก็แก้ปัญหานี้ได้ ในคาบสมุทรก็ใช่ แต่ในซาบาห์และซาราวัก นั่นเป็นเบอร์โทรที่ผิดโดยสิ้นเชิง

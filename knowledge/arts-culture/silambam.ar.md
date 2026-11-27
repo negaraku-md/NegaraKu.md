@@ -29,7 +29,7 @@ faq:
   - q: "هل السيلامبام معترف به رياضةً في ماليزيا؟"
     a: "يُمارَس السيلامبام في ماليزيا بوصفه فنّ قتال ورياضة تنافسية معًا؛ فقد أُقيمت مسابقات وطنية وبطولات دولية، وشارك في ألعاب ماليزيا (SUKMA) في بعض السنوات. غير أنّ الجمعيات والوضع الإداري لهذه الرياضة قد يتغيّران من حين إلى آخر؛ فتحقّق من الوضع الراهن عبر المصادر الرسمية."
 lang: "ar"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'أطفال ومدرّب بقمصان برتقالية تحمل Silambam Asia يتدرّبون على وضعيات القتال بالعصيّ بعصيّ خيزران طويلة في عرض خارجي'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: امرأة بساري أحمر تندفع في وضعية قتال منخفضة، تحمل سيفاً منحنياً بيد وترساً معدنياً مستديراً بالأخرى
+    kind: representative
+    origin: third-party
+    subject: تشكيلة السيف والترس (ڤال وكيدايام) في السيلامبام، نوع مسلّح من الفنون القتالية التاميلية
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: لوحة عرض مثبّتة على الجدار مرتّبة عليها أسلحة السيلامبام، بما في ذلك العصي الطويلة والسيوف المنحنية والتروس المستديرة والخناجر
+    kind: representative
+    origin: third-party
+    subject: لوحة عرض لأسلحة السيلامبام، تشمل العصي والسيوف والتروس والخناجر
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 في احتفال بمعبد أو في مناسبة [رأس السنة التاميلية](/ar/arts-culture/tamil-new-year) بماليزيا، قد ترى شابًّا يدوّر عصا خيزران طويلة فوق رأسه وحول جسده بسرعة البرق، على إيقاع الطبول. وهذا التدوير ليس للزينة فحسب — بل هو رمز السيلامبام، فنّ القتال التاميلي الذي يزيد عمره على ألف وخمسمئة عام.

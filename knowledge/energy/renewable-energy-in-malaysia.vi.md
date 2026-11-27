@@ -27,7 +27,7 @@ faq:
   - q: "Một công ty có thể mua năng lượng tái tạo mà không cần lắp đặt các tấm pin của riêng mình như thế nào?"
     a: "Chương trình Điện Xanh Doanh nghiệp (CGPP) cho phép một người tiêu dùng doanh nghiệp ký một thỏa thuận mua điện ảo với một nhà sản xuất điện mặt trời để mua năng lượng tái tạo và các thuộc tính xanh của nó, với nguồn cung ổn định được tiện ích hậu thuẫn. Hạn ngạch 800 MW của nó được đăng ký hết vào tháng 11 năm 2023. Các doanh nghiệp bỏ lỡ nó có thể dùng Chương trình Cung cấp Năng lượng Tái tạo cho Doanh nghiệp (CRESS), được khởi động vào tháng 9 năm 2024, vốn giao điện xanh qua lưới điện của TNB với một Phí Tiếp cận Hệ thống."
 lang: "vi"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,9 +109,35 @@ sources:
     publisher: "Cơ quan Phát triển Năng lượng Bền vững Malaysia (SEDA)"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'Một dàn pin quang điện mặt trời nổi bên cạnh lối đi có mái che trên hồ trong khuôn viên trường ở Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: Những hàng dài tấm pin quang điện mặt trời màu xanh thẫm trên các khung kim loại thấp trải khắp một bãi cỏ đã phát quang, được rào lại và kéo dài về phía hàng cây xa xa dưới bầu trời xanh trong với mây rải rác
+    kind: actual
+    origin: third-party
+    subject: Một trang trại điện mặt trời lắp trên mặt đất ở Sungai-Sungai, Sabah, phát điện cho lưới điện nông thôn
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: Một con đập cong giữ lại hồ chứa màu xanh giữa những ngọn đồi rừng, với một kênh xả tràn và các công trình lấy nước ở mặt đập cùng rừng nhiệt đới rậm rạp phủ kín các sườn dốc xung quanh
+    kind: actual
+    origin: third-party
+    subject: Đập và hồ chứa thủy điện Pergau ở Kelantan, một dự án thủy điện tái tạo ở Bán đảo Malaysia
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 Nếu bạn từng cố tìm hiểu về năng lượng tái tạo (RE) ở Malaysia, bạn có lẽ đã va phải ba con số mục tiêu khác nhau — 31%, 40% và 70% — cùng một bức tường các chữ viết tắt: FiT, NEM, LSS, CGPP, CRESS, SELCO. Không điều gì trong đó mâu thuẫn; nó chỉ nằm rải rác khắp nửa tá cơ quan, mỗi cơ quan chỉ ghi chép về góc riêng của mình. Cẩm nang này kéo toàn bộ cảnh quan về một chỗ: các mục tiêu quốc gia và các lộ trình đằng sau chúng, nhóm các chương trình, và — phần mà hầu hết các nguồn bỏ qua — chương trình nào thực sự dành cho một chủ nhà, một doanh nghiệp, hay một nhà phát triển.

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui emménage dans une nouvelle maison ou un nouveau local en Malaisie et qui doit ouvrir, transférer ou clôturer un compte d'alimentation électrique — que ce soit en Malaisie péninsulaire, à Sabah ou au Sarawak."
 
 lang: "fr"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'Un compteur électrique de Tenaga Nasional Berhad fixé au mur avec une carte de numéro de compte écrite à la main, dans une maison en Malaisie.'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: Un poste électrique clôturé de Tenaga Nasional à Bandar Utama, Petaling Jaya, un maillon du réseau qui alimente chaque compte TNB domestique à travers le Selangor.
+    kind: actual
+    origin: third-party
+    subject: Poste électrique de Tenaga Nasional à Bandar Utama, Petaling Jaya
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Le poste de prise principale de Tenaga Nasional à Bandar Utama est hérissé d'appareillages de commutation et de portiques, l'étape haute tension avant que le courant n'atteigne les compteurs des habitations des consommateurs.
+    kind: actual
+    origin: third-party
+    subject: Poste de transport de prise principale (PPU) de Tenaga Nasional, Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 Vous avez les clés de votre nouveau logement, mais l'interrupteur ne fait rien. Le compteur à l'extérieur tourne toujours au nom de l'ancien propriétaire — et tant que ce compte ne change pas de nom, chaque kilowatt que vous consommez relève techniquement encore de la responsabilité de quelqu'un d'autre. Beaucoup supposent qu'« appeler TNB » suffit à régler cela. En Malaisie péninsulaire, oui. À Sabah et au Sarawak, c'est tout simplement le mauvais numéro de téléphone.

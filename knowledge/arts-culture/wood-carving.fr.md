@@ -33,7 +33,7 @@ faq:
     a: "Le principe de conception classique de l'awan larat évite effectivement de représenter des êtres humains ou des animaux comme élément principal du motif. Toutefois, la sculpture sur bois malaise possède aussi sa propre catégorie distincte de motifs de faune — telles que des figures de poule, de rhinocéros et de canard — utilisée séparément du motif répétitif awan larat."
 
 lang: "fr"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: 'Un panneau de bois rectangulaire encadré et sombre sculpté à jour de feuillages symétriques et fluides, de vrilles de feuilles recourbées et de rinceaux de vigne dans le style malais awan larat, monté sur un mur de musée pâle'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: Un minbar de mosquée en bois orné surmonté d'un haut baldaquin doré sculpté et ajouré de feuillages dorés et d'un fleuron à crête, s'élevant au-dessus d'un escalier sculpté rouge et or sur un tapis de prière vert
+    kind: actual
+    origin: third-party
+    subject: le minbar (chaire) en bois doré et finement sculpté de la mosquée Tengkera (Tranquerah) à Melaka, en Malaisie
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: Une bande de sculpture ajourée aux formes foliacées en flammes courant le long de la planche de rive en bois sous le toit d'une maison malaise traditionnelle aux planches brunes, encadrée de feuillage vert et de ciel
+    kind: actual
+    origin: third-party
+    subject: une planche de rive sculptée et ajourée (papan kerawang) ornant la ligne de toit d'une maison malaise traditionnelle en bois à Hulu Langat, dans le Selangor
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 Regardez de près le panneau de bois dans la fenêtre d'une ancienne maison malaise et essayez de trouver où commence le motif. Vous ne le trouverez pas. Ce n'est pas la faute de vos yeux — il a été conçu ainsi.

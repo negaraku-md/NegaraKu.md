@@ -38,7 +38,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 sources:
   - title: "1949年印紙税法附表1の対象となる証書に対する印紙税賦課ガイドライン（LHDN.AG.600-1/10/3）— セクションC、不動産の所有権移転証書に対する印紙税の賦課 (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
@@ -73,6 +73,32 @@ faq:
   - q: 買主が一度の購入でなぜ二組の弁護士費用を支払うことが多いのですか。
     a: 二つの別個の書類が、それぞれ異なる依頼者のために並行して進められるからです。一人の弁護士が不動産を移転する売買契約を作成・押印し、もう一人——銀行に選任され、時には同じ事務所が二つ目の役割を担う——が、銀行の権益を担保するローン契約と担保権設定（第16A様式）を準備します。銀行の弁護士は買主の手付金ではなく銀行の担保権を守るため、両者の役割と費用は別個のものです。
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: '夕暮れ時のスランバンの Cassia Homes 住宅開発地の、看板のある入口と警備小屋で、奥にはテラスハウスが並んでいる。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: 新築の家々とむき出しの地面が、ヌグリ・スンビラン州Kepayang Heightsに立ち上がる新しい住宅開発を示す。買い手が販売ギャラリーの図面を見て申し込む、まさにそうしたプロジェクトだ。
+    kind: representative
+    origin: third-party
+    subject: ヌグリ・スンビラン州Kepayang Heightsで建設中の新しい住宅開発
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: ペナン州スブラン・プライ・スラタンのTaman Idamanにある、竣工したばかりの統一感のある有地住宅の街並み。鍵の引き渡しを終えた買い手が入居する、こうした完成済み開発の典型だ。
+    kind: representative
+    origin: third-party
+    subject: ペナン州スブラン・プライ・スラタン、Taman Idamanの完成した有地住宅
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 マレーシアの住宅購入には通常二人の弁護士が関わるが、大半の買主はその二人が別々の人物であることに気づきさえしない。一人は物件を移転させる売買契約（Sale and Purchase Agreement、SPA）を起草し、印紙を貼る。もう一人は——銀行に選任され、時には同じ事務所が——貸付金と担保（charge）を起草して印紙を貼る。この担保こそ、貸付が返済されないときに銀行が物件を差し押さえられるようにする文書である。「弁護士」をこの物語の一人の登場人物だと思い込む買主は、後になって、なぜ二組の弁護士費用が現れたのか、あるいはなぜ貸付が承認された日に鍵が届かなかったのか、と戸惑うことになりがちだ。

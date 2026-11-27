@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia คือระเบียงการพัฒนาของมาเลเซียที่เปิดตัวในช่วงทศวรรษ 2000 และตั้งอยู่ภายในขอบเขตของ JS-SEZ ส่วน JS-SEZ มีขอบเขตกว้างกว่าและเป็นแบบทวิภาคี คือเพิ่มสิงคโปร์ (Singapore) เข้ามาเป็นผู้ร่วมลงนาม ขยายเขตไปถึง Pengerang และวางกรอบสิทธิประโยชน์และการอำนวยความสะดวกร่วมทับซ้อนไว้ด้านบน"
 
 lang: "th"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: 'ป้ายแลนด์มาร์ก ''Iskandar Puteri'' ริมถนนขนาดใหญ่บนวงเวียนจัดภูมิทัศน์ พร้อมอาคารสำนักงานและพาณิชย์และเครนก่อสร้างบนเส้นขอบฟ้าด้านหลัง'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: มุมมองทางอากาศของ Forest City ในรัฐยะโฮร์ แสดงอาคารสูงระฟ้าริมน้ำที่กำลังก่อสร้างและแถววิลลาสีขาวตามแนวชายหาดถมทะเลข้างช่องแคบ
+    kind: actual
+    origin: third-party
+    subject: Forest City โครงการพัฒนาข้ามพรมแดนเรือธงในรัฐยะโฮร์บนช่องแคบยะโฮร์ พร้อมอาคารสูงและวิลลาที่กำลังก่อสร้างหันหน้าออกสู่น้ำไปทางสิงคโปร์
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 สองประเทศตกลงที่จะใช้ประมวลรัษฎากรร่วมกันข้ามพรมแดน นั่นคือความแปลกใหม่อันเงียบเชียบของเขตเศรษฐกิจพิเศษยะโฮร์-สิงคโปร์ ซึ่งไม่ใช่นิคมอุตสาหกรรมแห่งใหม่ แต่เป็นข้อตกลงทวิภาคีที่ทำให้ยะโฮร์ (Johor) ตอนใต้และสิงคโปร์ (Singapore) สามารถทำการตลาดต่อนักลงทุนทั่วโลกในฐานะที่อยู่ทางธุรกิจแห่งเดียวกัน

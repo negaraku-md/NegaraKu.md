@@ -96,6 +96,7 @@ dishFacts:
   halal: "Inti tradisionalnya ialah daging babi cincang, dan pes ikan gerai Malaysia kadangkala diadun dengan daging babi, manakala sos Ampang ialah sos kacang soya diperam — jadi keping sesebuah gerai mungkin atau mungkin tidak sesuai dengan diet halal. Semak gerai masing-masing."
   eat: "Ia lazimnya dipesan secara 'pilih sendiri': keping berisi dan item lepasan dihidang di paparan, dan pengunjung memilih apa yang dimahukan sebelum ia dimasak mengikut pesanan. Ia dimakan dalam sup jernih, atau kering dengan cecah sos kacang manis dan cili — gaya Ampang menggoreng keping itu dan menghidangnya disiram sos kacang soya diperam yang manis dan pekat — dan kerap dilengkapkan menjadi hidangan penuh dengan nasi atau mi seperti bihun atau mi kuning."
   where: "Ia kelaziman pusat penjaja dan medan selera, di mana satu gerai boleh menghidang berpuluh gabungan dari dulang dan periuk yang sama. Versi Malaysia paling terkenal mengambil namanya dari kawasan Ampang di pinggir Kuala Lumpur, sebuah daerah dengan akar Hakka yang mendalam."
+wikidata: "Q713892"
 ---
 
 Melangkah ke sebuah gerai yong tau foo, anda bukannya diberikan menu sebaliknya

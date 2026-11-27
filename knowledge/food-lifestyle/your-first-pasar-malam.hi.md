@@ -34,7 +34,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["पहला पासार मलम", "पासार मलम कैसे करें", "पासार मलम मलेशिया गाइड", "तापाउ पासार मलम", "DuitNow QR पासार मलम", "पासार मलम हलाल", "रात का बाज़ार मलेशिया ऑर्डर कैसे करें", "पासार मलम बैठने की जगह", "पासार मलम खाद्य सुरक्षा"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'एक चमकीले रोशन रात्रि बाज़ार (पसार मलम) स्टॉल पर एक ग्राहक को परोसता एक विक्रेता, हाथ से लिखे मूल्य-साइन वाले तले नाश्तों और टोफ़ू से भरे काँच के बक्से'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: एक रात-बाज़ार की दुकान पर काले hot plate पर चटकते और भाप छोड़ते चमकीले ग्रिल्ड नाश्तों के बाँस के सीख
+    kind: actual
+    origin: third-party
+    subject: एक रात बाज़ार में hot plate पर भाप छोड़ते satay-शैली के ग्रिल्ड नाश्तों के सीख
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 पासार मलम (pasar malam) में पहली बार जाना भ्रमित कर सकता है: दो दीवारों जैसे स्टॉलों

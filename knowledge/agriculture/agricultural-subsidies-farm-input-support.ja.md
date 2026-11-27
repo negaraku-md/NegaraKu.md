@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 
 status: "published"
 aiAssisted: true
@@ -99,9 +99,36 @@ wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: '明るい日差しの下、水を張った水田の泥のあぜ道で泥をはねながらかがんで作業する農民'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: 夕暮れの濡れた刈り株の残る水田を、黄色いコンバインで走る作業者。地平線にヤシの木
+    kind: actual
+    origin: third-party
+    subject: ケダ州ランカウイで、夕暮れのぬかるんだ水田を稲刈りするコンバイン
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: 頭巾をかぶった女性が、小さな刃で黄金色の稲穂を刈り、黄色い編みかごに集める
+    kind: actual
+    origin: third-party
+    subject: サバ州クダット郡で、熟した稲穂を手刈りし編みかごに集めるドゥスンの女性
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 その朝、稲作農家が水田へと肩に担いでいった一袋の肥料は、自分のお金で買ったものではなかった——それは無償で届けられ、何十年にもわたって連邦政府が負担してきたものだった。これこそがマレーシアの水稲向け農業補助金の実像である。小切手でも口座に振り込まれる現金でもなく、農場でのコストの大部分をまかなう肥料、農薬、そして奨励金なのだ。

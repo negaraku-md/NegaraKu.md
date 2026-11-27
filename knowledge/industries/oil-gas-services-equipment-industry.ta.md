@@ -31,7 +31,7 @@ faq:
   - q: தேசிய OGSE தொழில் வரைபடம் என்ன?
     a: 2021 ஏப்ரலில் தொடங்கப்பட்டு 2024 இல் நடுநிலையில் மறுபரிசீலனை செய்யப்பட்டது, இது துறையை மிகவும் போட்டித்திறன், நெகிழ்ச்சி மற்றும் நிலையானதாக ஆக்குவதற்கான அரசாங்கத்தின் 10-ஆண்டுத் திட்டமாகும் (2021–2030). அதன் இலக்குகளில் ஏற்றுமதி வருவாயை இரட்டிப்பாக்குவது, தோராயமாக RM50 பில்லியன் GDP பங்களிப்பைத் தக்கவைப்பது, மற்றும் நிறுவனங்களை கார்பன் பிடிப்பு, ஹைட்ரஜன் மற்றும் புதுப்பிக்கத்தக்கவை போன்ற ஆற்றல்-மாற்ற சேவைகளுக்குள் தள்ளுவது அடங்கும்.
 lang: ta
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,34 @@ keywords:
   - கடல்சார் ஆதரவு கப்பல்கள்
   - தேசிய OGSE வரைபடம்
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'கடலில் நேர்முகமாகக் காணப்படும் அரை-மூழ்கும் கடல்சார் துளையிடும் தளம்; அதன் சதுர தளமும் உயர்ந்த நடு கோபுரமும் இரு மூழ்கிய மிதவைகளில் தாங்கப்பட்டு, நீர் வரை நங்கூரக் கயிறுகள், அடிவானத்தில் தொலைவில் விநியோகக் கப்பல்கள்'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: பொன்னிற ஒளியில் ஒரு பெரிய கடல்சார் எண்ணெய் உற்பத்தி மேடை, அதன் டெக் கிரேன் பக்கத்தில் திறந்த நீல கடலில் நிலைத்திருக்கும் கடல்சார் விநியோகக் கப்பலுக்கு ஒரு சுமையை இறக்குகிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு உற்பத்தி மேடைக்கு அருகில் பணியாற்றும் கடல்சார் விநியோகக் கப்பல், மேடை கிரேன் ஒரு சுமையை மாற்றுகிறது
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: Island Chieftain என்ற பெயருடைய நீல-வெள்ளை கடல்சார் ஆதரவுக் கப்பல் ஒரு கப்பல்துறையில் நங்கூரமிடப்பட்டுள்ளது, அதன் உயரமான முன்புற பாலம் மற்றும் நீண்ட தட்டையான திறந்த சரக்கு டெக் தெரிகிறது, பின்னணியில் மலைகள்
+    kind: representative
+    origin: third-party
+    subject: ஒரு கப்பல்துறையில் நங்கூரமிடப்பட்ட ஒரு மேடை விநியோக மற்றும் கடல்சார் ஆதரவுக் கப்பல், அதன் திறந்த சரக்கு பின்-டெக்கைக் காட்டுகிறது
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 மக்கள் மலேசியாவின் எண்ணெய் மற்றும் வாயு செல்வத்தை கற்பனை செய்யும்போது, அவர்கள் பொதுவாக Terengganu, Sarawak மற்றும் Sabah கடற்கரையில் கடல்தரைக்கு அடியில் உள்ள கச்சா எண்ணெய் மற்றும் வாயு பற்றி நினைக்கிறார்கள் — PETRONAS ஐ ஆசியாவின் மிகப்பெரிய ஆற்றல் நிறுவனங்களில் ஒன்றாக ஆக்கிய இருப்புகள். ஆனால் ஹைட்ரோகார்பன்கள் தாங்களாகவே தரையிலிருந்து தூக்கிக்கொள்வதில்லை. ஒவ்வொரு உற்பத்தி செய்யும் களத்திற்குப் பின்னாலும் ஒப்பந்தக்காரர்களின் ஒரு சிறிய படை அமர்ந்துள்ளது: எஃகு தளங்களை பற்றவைக்கும் முற்றங்கள், கிணறுகளைத் துளையிடும் ரிக்குகள், குழுக்கள் மற்றும் சரக்குகளை கடலுக்கு எடுத்துச் செல்லும் கப்பல்கள், வசதிகளை வடிவமைக்கும் பொறியாளர்கள், மற்றும் அதையெல்லாம் இயங்கவைக்கும் தொழில்நுட்பவியலாளர்கள். அந்தச் சூழல்தொகுதிதான் **எண்ணெய் மற்றும் வாயு சேவைகள் மற்றும் உபகரண (OGSE) தொழில்**, மேலும் இது அதன் சொந்த உரிமையில் ஒரு முக்கிய மலேசியத் தொழிலாகும்.

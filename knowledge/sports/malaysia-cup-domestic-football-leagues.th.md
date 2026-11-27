@@ -31,7 +31,7 @@ faq:
     a: "MFL เลื่อนปฏิทินให้สอดคล้องกับรูปแบบ AFC ฤดูกาลใหม่เริ่มพฤษภาคม 2024 และสิ้นสุดเมษายน 2025 โดยคำนึงถึงเอเชียนคัพ AFC การคัดเลือกฟุตบอลโลก 2026 และเดือนรอมฎอน"
 
 lang: "th"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'แฟนบอลรัฐเปรักที่สวมชุดสีเหลืองแน่นขนัดเต็มอัฒจันทร์ระหว่างการแข่งขันมาเลเซียคัพปี 2017'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: ผู้เล่นแย่งลูกบอลระหว่างการแข่งขันรอบรองชนะเลิศมาเลเซียคัพปี2012ระหว่างกลันตันกับเซอลาโงร์
+    kind: actual
+    origin: third-party
+    subject: การแข่งขันรอบรองชนะเลิศมาเลเซียคัพปี2012ระหว่างกลันตันกับเซอลาโงร์
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: ภาพชั้นที่นั่งและสนามภายในสเตเดียมสุลต่านอิบราฮิมในเมืองอิสกันดาร์ปูเตอรีรัฐโจโฮร์
+    kind: actual
+    origin: third-party
+    subject: ภายในสเตเดียมสุลต่านอิบราฮิมสนามเหย้าของสโมสรลีกชั้นนำของมาเลเซีย
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 เกือบหนึ่งศตวรรษที่องค์กรเดียว คือสมาคมฟุตบอลมาเลเซีย (Persatuan Bola Sepak Malaysia, FAM) จัดทุกการแข่งขันลีกของประเทศ จากนั้นในก้าวที่เปลี่ยนรูปแบบของกีฬานี้ อำนาจในการดำเนินลีกถูกส่งมอบให้บริษัทเชิงพาณิชย์ นี่คือรากฐานของวิธีที่ฟุตบอลในประเทศของมาเลเซียทำงานในปัจจุบัน

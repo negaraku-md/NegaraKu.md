@@ -72,6 +72,32 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'Bangunan sekolah kebangsaan rendah Malaysia tiga tingkat yang moden dengan anjung berbumbung dan kereta diletakkan di luar di bawah langit biru cerah.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: Tapak perhimpunan kosong berpagar bendera di sebuah sekolah di Malaysia, tempat murid berhimpun setiap pagi sebelum pengajaran pertama hari itu bermula.
+    kind: representative
+    origin: third-party
+    subject: Tapak perhimpunan sebuah sekolah di Malaysia
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: Dua pelajar perempuan berpakaian seragam menunggang motosikal pulang ke rumah di sebuah jalan di Langkawi setelah sesi persekolahan tamat pada hari itu.
+    kind: representative
+    origin: third-party
+    subject: Pelajar perempuan berpakaian seragam pulang ke rumah selepas sesi persekolahan di Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 Rancang percutian keluarga awal tahun, dan anda cepat sedar satu perkara: jiran di Kelantan buka sekolah sehari lebih awal daripada anak anda di Selangor. Itu bukan kesilapan — itu cara takwim persekolahan Malaysia direka.

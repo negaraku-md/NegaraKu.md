@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "IPO पर विचार कर रहे संस्थापक और CFO, सलाहकार और प्रायोजक, तथा वे निवेशक जो यह समझने की कोशिश कर रहे हैं कि किसी बोर्ड पर लिस्टिंग वास्तव में क्या संकेत देती है।"
 
 lang: "hi"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,34 @@ relations:
 related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-overview", "ringgit"]
 keywords: ["Bursa Malaysia", "Main Market लिस्टिंग आवश्यकताएँ", "ACE Market", "LEAP Market", "FBM KLCI", "KLCI 30 घटक", "IPO Malaysia", "Bursa Malaysia बोर्ड"]
 framework: profile
+hero: '/media/economy/bursa-malaysia/hero.webp'
+heroAlt: 'बर्सा मलेशिया को समाहित करती स्तंभयुक्त उत्तर-आधुनिक एक्सचेंज स्क्वायर मीनार, जिसका भूरा पत्थर का अग्रभाग और जुड़वाँ त्रिकोणाकार शीर्ष डूबते सूरज में गर्म सुनहरे रंग में चमकते हैं, गहरे पेड़-पत्तों से घिरे'
+heroCredit: 'Travelpleb / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Exchange Square भवन के ऊँचे खाँचेदार पत्थर के स्तंभों और नव-शास्त्रीय शिखर का ऊपर की ओर दृश्य, जो हल्के आसमान के सामने उठ रहा है, इसके आधार पर पंखा-ताड़ हैं
+    kind: actual
+    origin: third-party
+    subject: Bursa Malaysia का घर, Exchange Square भवन, Kuala Lumpur
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Bursa Malaysia को समाहित करने वाला लाल-छत वाला, स्तंभ-युक्त Exchange Square भवन ऊपर से वृक्ष-छतरी के पार देखा गया, इसके नीचे पहुँच रैंप और फ़ोरकोर्ट दिख रहे हैं
+    kind: actual
+    origin: third-party
+    subject: हरियाली के बीच Bursa Malaysia Exchange Square भवन का ऊँचाई से दृश्य, Bukit Kewangan, Kuala Lumpur
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## एक नज़र में

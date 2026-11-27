@@ -36,7 +36,7 @@ faq:
     a: "Sí. Proton lanzó el e.MAS 7 en diciembre de 2024, su primer EV, con un precio desde RM109,800. Perodua lanzó el QV-E — descrito como el primer EV de cosecha propia de Malasia — en diciembre de 2025 por RM80,000 sin la batería, desarrollado con un coste de RM800 millones."
 
 lang: "es"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,9 +105,37 @@ relations:
   - { rel: "related-to", to: "proton" }
   - { rel: "related-to", to: "perodua" }
   - { rel: "related-to", to: "national-automotive-policy" }
-related: []
+related: ["automotive-industry-malaysia"]
 keywords: ["Proton", "Perodua", "coche nacional", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "Política Nacional del Automóvil", "NAP 2020", "vehículos eléctricos Malasia", "e.MAS 7", "QV-E"]
 framework: profile
+hero: '/media/industries/automotive-industry/hero.webp'
+heroAlt: 'Un sedán Proton Saga blanco con el emblema de la cabeza de tigre de Proton en la parrilla, estacionado al aire libre'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Perodua Myvi de tercera generación, utilitarios rojos y negros con el emblema de Perodua, estacionados en fila
+    kind: actual
+    origin: third-party
+    subject: Perodua Myvi de tercera generación, el automóvil nacional más vendido de Malasia
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: Automóviles parcialmente ensamblados, con las puertas y los portaequipajes abiertos, desplazándose por una cinta transportadora en una línea de ensamblaje de una fábrica
+    kind: representative
+    origin: third-party
+    subject: Automóviles avanzando por una línea de ensamblaje automotriz dentro de una planta de vehículos
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 Pocos países del tamaño de Malasia han intentado alguna vez construir un coche desde cero. Menos aún tienen dos marcas de cosecha propia aparcadas en la mayoría de las entradas de garaje del país. Conduzca por cualquier ciudad malasia y el tráfico cuenta una historia de política industrial deliberada: un Perodua Myvi en el semáforo, un Proton Saga detrás, ambos descendientes de una apuesta de los años ochenta según la cual una economía en desarrollo podía fabricar sus propios automóviles.

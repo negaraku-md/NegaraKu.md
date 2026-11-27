@@ -33,7 +33,7 @@ faq:
     a: "Retournez l'étoffe. Un véritable batik à réserve de cire — qu'il soit dessiné à la main au canting ou estampé au bloc — est teint par trempage de l'étoffe, de sorte que le motif et la couleur imprègnent les deux faces et apparaissent presque aussi nettement au dos. Une étoffe sérigraphiée ou imprimée numériquement ne porte le motif que sur une seule surface et paraît délavée à l'envers. Les lignes sont aussi un indice : le canting laisse des lignes irrégulières qui ne se répètent jamais parfaitement, le blok donne une répétition nette avec de discrètes jonctions, tandis que l'impression à la machine se répète avec précision, sans aucune trace de cire."
 
 lang: "fr"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -79,6 +79,34 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["Malaysian batik", "batik canting", "Kelantan Terengganu batik", "batik shirt formal wear", "wax-resist textile"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'Un artisan du batik penché sur une longueur de tissu blanc tendu sur un cadre, peignant à la main au pinceau fin de vives fleurs rouges façon hibiscus aux feuilles vertes et aux contours dorés, dans un atelier tapissé de photographies'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: Gros plan d'un tissu batik montrant une fleur cramoisie éclatante aux fins contours blancs réalisés à la réserve de cire et à l'ornementation pointillée, se détachant sur un fond bleu indigo profond
+    kind: actual
+    origin: third-party
+    subject: gros plan d'un tissu batik malaisien peint à la main du Terengganu montrant une grande fleur rouge cernée de lignes blanches réalisées à la réserve de cire
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: De nombreuses pièces de tissu batik suspendues en rangées, aux riches tons de rouge, violet, rose, vert et orange, chacune imprimée de motifs floraux, végétaux et géométriques différents réalisés à la réserve de cire
+    kind: actual
+    origin: third-party
+    subject: pièces de tissu batik malaisien colorées et à motifs exposées sur des portants lors d'un carnaval de l'artisanat au Terengganu
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 Une pièce d'étoffe blanche unie est montée sur un cadre. Un artisan trempe un petit stylet de cuivre — un canting, dont le bec n'est pas plus large qu'une pointe de crayon — dans un récipient de cire fondue, et commence à dessiner directement sur le tissu : non pas avec du pigment, mais avec de la cire qui refusera de prendre la couleur. Ce n'est qu'après que la cire a refroidi et durci que l'étoffe passe dans un bain de teinture. Partout où se trouve la cire, la teinture ne peut atteindre — et lorsque la cire est ensuite bouillie pour être retirée, ce qui reste est un motif dessiné non pas avec de la couleur, mais avec son absence.

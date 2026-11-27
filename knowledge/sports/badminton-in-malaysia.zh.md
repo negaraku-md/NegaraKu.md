@@ -37,7 +37,7 @@ faq:
     a: "梓嘉于2022年1月从BAM辞职转为自由球员，此前他自13岁起已与该机构相伴近十年。他有意专注于自身训练并提升个人排名，并强调无论是国家队球员还是自由球员，他们同样为国旗（Jalur Gemilang）而战。"
 
 lang: "zh"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "badminton Malaysia"
   - "Persatuan Badminton Malaysia"
@@ -100,6 +100,32 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: '马来西亚羽毛球名将李宗伟在一场奥运比赛中弓步击出一记正手球。'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: 位于吉隆坡的Axiata体育馆室内场馆，2017年东南亚运动会（SEA Games）羽毛球项目的比赛场地。
+    kind: actual
+    origin: third-party
+    subject: Axiata体育馆，位于武吉加里尔（Bukit Jalil）体育城的国家羽毛球场馆
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: 马来西亚羽毛球选手哈菲兹·哈欣（Hafiz Hashim）在2008年马来西亚公开赛的一场比赛中弓步救球。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚单打选手哈菲兹·哈欣（Hafiz Hashim）出战2008年马来西亚公开赛
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 1992年5月，整个国家为之屏息。在吉隆坡国家体育馆，一支由西德（Sidek）三兄弟领军的年轻队伍击败印尼，捧起汤姆斯杯——正如拿督拉昔·西德所说，"全马来西亚都疯狂了，人人都想打羽毛球"。三十年过去，这座奖杯仍未归来。马来西亚羽毛球的故事，是一个关于早期辉煌、痛苦荒年，以及一两位肩负全国希望的冠军的故事。

@@ -33,7 +33,7 @@ faq:
     a: "This is one of the most widely told Mid-Autumn moon legends: it is said that Hou Yi obtained the elixir of immortality, and his wife Chang'e, in particular circumstances, swallowed the elixir, whereupon her body grew light and she floated up to dwell on the moon, separated from the human world ever after. The story has many versions with differing details, and is generally regarded as a folk legend explaining 'moon-gazing at Mid-Autumn and someone living on the moon', rather than historical fact; this article only retells it briefly."
 
 lang: "en"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Fixed on the fifteenth day of the eighth lunar month, the day on which the moon is fullest and brightest, symbolising reunion; the corresponding Gregorian date shifts each year with the lunar calendar, usually falling in September or October."
   holiday: "Not a public holiday. The Mid-Autumn Festival is not a nationwide or any state public holiday in Malaysia, and businesses and government offices operate as usual (unlike the Lunar New Year, whose first two days are public holidays)."
   etiquette: "Public celebrations such as lantern evenings and cultural performances held by Chinese associations, temples (such as the Thean Hou Temple at Robson Heights in Kuala Lumpur) and community organisations often welcome residents of other ethnic groups to join and watch, carrying a cross-ethnic, shared dimension."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'A large glowing silk lantern sculpture of a smiling man in a purple jacket and red trousers holding up a blue-and-yellow globe lantern at night, with rows of red and gold hanging lanterns lit up along a walkway behind him during a Malaysian Mid-Autumn celebration'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: Rows of golden-brown baked mooncakes pressed with jade-rabbit and floral motifs laid out to cool on a perforated metal tray, their glossy pastry tops catching the light
+    kind: representative
+    origin: third-party
+    subject: freshly baked jade-rabbit mooncakes, the signature food of the Mid-Autumn Festival
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: A round red accordion-folded paper lantern printed with white stars and a rabbit silhouette, hanging in front of green foliage and pink flowers, the classic collapsible paper lantern children carry at Mid-Autumn
+    kind: representative
+    origin: third-party
+    subject: a traditional red concertina paper lantern of the kind children carry during the Mid-Autumn Festival
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 On the evening of the fifteenth day of the eighth lunar month, the atrium of the shopping mall is hung with glowing red lanterns, and in the park of the residential area children wander about in twos and threes carrying lit lanterns. On the dining table at home, a box of mooncakes cut into small pieces sits beside a pot of hot tea, with a peeled pomelo next to it. The family carries chairs out of the house and looks up at the roundest moon of the year — this is a typical Mid-Autumn night in a Malaysian Chinese household.

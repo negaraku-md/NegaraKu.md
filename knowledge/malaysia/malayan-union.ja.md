@@ -22,7 +22,7 @@ appliesTo: "マレーシア憲法の起源を理解したい学生、研究者�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -35,7 +35,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "マラヤ連合 — 現在と未来の世代への教訓 (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -66,6 +66,15 @@ sources:
   - title: "マラヤ連合市民権：マラヤにおける憲法上の変化と論争、1942–48年 (Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48)"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "統治者を統べる (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "マレーシア弁護士会 (Malaysian Bar)"
+  - title: "マラヤ連合とその影響 (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "マレーシア弁護士会 (Malaysian Bar)"
+  - title: "「メモリースケープ」：1946年のマラヤ連合を記憶する (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -81,6 +90,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: '壮麗な植民地時代の邸宅。クリーム色の壁と赤瓦の屋根をもち、手入れされた芝生と熱帯の緑に囲まれている。'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一年十か月のあいだ、マラヤはいまではほとんど名前しか知られていない一つの憲法のもとで統治されていた。マラヤ連合（Malayan Union）は1946年4月1日に始まり、1948年1月31日に終わった——自前の建物、通貨、あるいは一世代分の行政官を残すには短すぎる期間であった。
@@ -124,6 +140,8 @@ framework: history-culture
 知識人層はこの問題を*Utusan Melayu*や*Majlis*といったマレー語紙面へと持ち込んだ。第一回マレー大会（Kongres Melayu）は1946年3月1日から4日にかけてスルタン・スライマン・クラブ（Kelab Sultan Sulaiman）で開催され、41のマレー人団体が出席した。この過程から、統一マレー国民組織（UMNO）が1946年5月11日、ジョホールバルのイスタナ・ブサール（Istana Besar）において、ダト・オン・ジャアファル（Dato' Onn Jaafar）の指導のもとで設立された。
 
 統治者会議（Majlis Raja-Raja）の公式ポータルは、マレー統治者もまた住民とともに立ち上がり、この枠組みの実施に反対したと記録している。マレーシア国会もまた、マラヤ連合がダト・オン・ジャアファルに率いられたマレー人によって激しく反対されたと記録している。
+
+最もよく記憶されている抗議行動の一つは、施行当日そのものに起きた。1946年4月1日、マラヤ連合がクアラルンプールの評議会議事堂（Council Chamber）で発足し、Sir Edward Gentが初代総督に就任した際、マレー統治者はその就任式に出席しなかった——これは、枠組みに対する彼らの抗議がなお未決のまま、オン・ジャアファル（Onn Jaafar）率いるUMNOの働きかけによってとられた拒否であった。統治者が滞在していた場所にも、支持を示すために群衆が集まった。この就任式及び諮問評議会の会合への出席を拒むという行為は、マラヤ連合に反対する運動を特徴づけた市民的不服従の一形態となった。
 
 また、1948年の後継枠組みにおけるより厳格な市民権条件が、その後、別の側——1946年の提案と比べて自らの資格が狭まったと感じた非マレー人層を含む——による反対の根拠となったことも記録しておく必要がある。
 

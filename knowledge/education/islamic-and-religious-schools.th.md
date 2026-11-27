@@ -29,7 +29,7 @@ faq:
     a: "เขตอำนาจหลักอยู่ที่กรม/สภาศาสนาอิสลามแห่งรัฐ เนื่องจากกิจการศาสนาอิสลามเป็นเรื่องของรัฐภายใต้รัฐธรรมนูญ JAKIM ทำหน้าที่ประสานงานในระดับรัฐบาลกลาง ขณะที่ข้อกำหนดความปลอดภัยของอาคารเกี่ยวข้องกับหน่วยงานท้องถิ่นและหน่วยดับเพลิง"
 
 lang: "th"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'แถวนักเรียนในชุดบาจูกูรงสีน้ำเงินและผ้าคลุมศีรษะสีดำเดินเข้าสู่โรงเรียนมัธยมศาสนา Sekolah Menengah Agama Al-Maarif ของมาเลเซีย ผ่านต้นมะพร้าว'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: ภายนอกอันเงียบสงบของโรงเรียนตะฮ์ฟิซ (tahfiz) ในบาตูปาฮัต รัฐยะโฮร์ ที่ซึ่งนักเรียนพักประจำเพื่อท่องจำอัลกุรอานควบคู่ไปกับการเรียน
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah เมืองบาตูปาฮัต รัฐยะโฮร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: อาคารเรียบง่ายของโรงเรียนประถมศาสนา (sekolah agama) ในเปอริงกิต รัฐมะละกา ที่ซึ่งเด็กๆ เรียนวิชาอิสลามในคาบบ่าย
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนประถมศาสนาเปอริงกิต รัฐมะละกา
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 เด็กคนหนึ่งในมาเลเซียอาจใช้เวลาช่วงเช้าในโรงเรียนแห่งชาติ ช่วงบ่ายในชั้นเรียน KAFA ที่มัสยิด และช่วงวัยรุ่นในหอพักตะฮ์ฟีซ — สภาพแวดล้อมการศึกษาสามแบบที่มีผู้กำกับดูแล หลักสูตร และกฎหมายที่ต่างกัน สายการศึกษาศาสนาอิสลามดำเนินไปควบคู่กับระบบแห่งชาติ แต่ไม่ใช่ก้อนเดียว การเข้าใจว่าใครขึ้นทะเบียนอะไร และใครรับผิดชอบอะไร คือกุญแจในการอ่านการอภิปรายสาธารณะเกี่ยวกับหัวข้อนี้อย่างเป็นธรรม

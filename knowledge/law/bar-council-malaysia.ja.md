@@ -74,6 +74,7 @@ relations:
 related: ["legal-profession-act-1976", "companies-act-2016", "maicsa"]
 keywords: ["Bar Council Malaysia", "Malaysian Bar", "Legal Profession Act 1976", "advocates and solicitors Malaysia", "Sabah Law Society", "Advocates Association of Sarawak"]
 framework: profile
+wikidata: "Q6741941"
 ---
 
 マレーシアに弁護士会は一つではない。三つある——半島に一つ、サバ州に一つ、サラワク州

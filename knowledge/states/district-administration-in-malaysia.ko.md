@@ -75,9 +75,16 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: '파란 지붕의 단층 구역 사무소로, 벽에 ''Pejabat Daerah Sipitang''이라 적혀 있고 양옆에 말레이시아와 사바 깃발이 줄지어 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 여러분이 투표하는 주(州)와 여러분이 사는 마을 사이에는, 좀처럼 언급되지 않지만 토지, 개발 사업 또는 긴급 지원을 처리할 때 가장 자주 마주치게 되는 정부 계층이 하나 있습니다: 바로 군(daerah)입니다. 이곳에서 주(州)의 정책이 실제 서비스로 전환되며, 그 중심에는 군청(Pejabat Daerah)이 있습니다.

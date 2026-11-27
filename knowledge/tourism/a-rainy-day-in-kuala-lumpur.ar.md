@@ -33,7 +33,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["يوم ممطر Kuala Lumpur", "أنشطة داخلية في KL", "KL بالمواصلات العامة", "ممر KLCC Bukit Bintang", "Suria KLCC بالقطار", "كيفية الوصول إلى Aquaria KLCC", "Petrosains", "Muzium Negara MRT", "مجمعات KL بالقطار"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'زخّة مطر استوائية تنهمر فوق متجر قديم بسقف قرميدي في شارع جالان بانغونغ في الحيّ القديم بكوالالمبور'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: الواجهة الزرقاء الفاتحة بطراز Art Deco لسوق Central Market (Pasar Seni) في Kuala Lumpur، وعليها عبارة 'Central Market Since 1888'
+    kind: actual
+    origin: third-party
+    subject: واجهة Central Market (Pasar Seni) بطراز Art Deco، Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: الممر المغطى المزدحم ذو الطابقين داخل Central Market في Kuala Lumpur، تصطف على جانبيه أكشاك الحرف والباتيك تحت أعلام الولايات المعلّقة
+    kind: actual
+    origin: third-party
+    subject: داخل ممر الحرف المغطى في Central Market، Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 يأتي المطر في Kuala Lumpur سريعاً وغزيراً، وقد تنهار أي خطة في الهواء الطلق في

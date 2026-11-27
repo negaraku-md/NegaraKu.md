@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["शासक राजा", "Raja pemerintah", "यांग दी-पर्तुआ नेगेरी", "Yang di-Pertua Negeri", "राजतंत्रीय राज्य", "बिना शासक वाला राज्य", "मलेशिया के सुल्तान", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "मलेशिया के राज्य प्रमुख", "शासक परिषद", "Majlis Raja-Raja", "संविधान का अनुच्छेद 71"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: 'इस्ताना नेगारा का भव्य सुनहरे गुंबद वाला औपचारिक मेहराबदार प्रवेश द्वार, जिसके पीछे गुंबददार राजमहल और ऊँची इमारतों वाली शहरी क्षितिज-रेखा है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में 13 राज्य हैं, पर केवल नौ सिंहासन। अन्य चार राज्यों का नेतृत्व ऐसे व्यक्ति

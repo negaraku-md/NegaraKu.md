@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: ¿Quién es Tua Pek Kong y dónde está el templo de Tua Pek Kong más antiguo?
     a: Tua Pek Kong (大伯公) es una deidad de fuerte carácter local, venerada ampliamente en los templos chinos de toda Malasia. Se dice que el templo de Tua Pek Kong más antiguo se encuentra en Tanjung Tokong, Penang, y la creencia se difundió después por toda Malasia, Singapur e Indonesia. En malayo, un templo de este tipo se llama tokong; entre otros templos conocidos figuran Cheng Hoon Teng en Malaca y el templo Thean Hou en Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Los tejados de tejas curvados hacia arriba y coronados por dragones del templo chino Thean Hou en Kuala Lumpur, enmarcados por hileras de farolillos rojos colgantes contra un cielo azul.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: La ornamentada fachada del Antiguo Templo Chino de Johor Bahru, con esculturas de dragones en el tejado, relieves cerámicos y farolillos rojos en la entrada.
+    kind: actual
+    origin: third-party
+    subject: El Antiguo Templo Chino de Johor Bahru, un templo de la religión popular china
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Haces de varitas de incienso encendidas que desprenden humo ante el Templo de la Diosa de la Misericordia en George Town, Penang, un lugar de culto chino de larga tradición.
+    kind: actual
+    origin: third-party
+    subject: Varitas de incienso encendidas en el Templo de la Diosa de la Misericordia, George Town, Penang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 Al entrar en cualquier templo chino de Malasia, es muy probable que en un mismo

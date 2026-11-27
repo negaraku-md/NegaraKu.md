@@ -32,7 +32,7 @@ faq:
   - q: "Isu kontemporer apa yang dihadapi Kampung Baru?"
     a: "Isu yang umum meliputi kepemilikan tanah (sebagian petak dipegang dengan Lisensi Pendudukan Sementara / TOL atau sertifikat sewa 99 tahun, alih-alih hak milik kekal), penuaan penduduk dan migrasi keluar kaum muda, serta infrastruktur yang menua. Beberapa tahun terakhir juga muncul inisiatif mencantumkan Kampung Baru sebagai warisan dan merevitalisasi komunitas lewat mural, rute kuliner, dan sejarah kampung."
 lang: "id"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'Sebuah rumah satu lantai lusuh dari kayu dan seng yang khas Kampung Baru Tionghoa Malaysia, menghadap sebuah jalan permukiman yang sepi dengan mobil-mobil terparkir di sisinya.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: Gerbang masuk berhias yang menandai jalan masuk ke Broga, sebuah desa baru Tionghoa di Negeri Sembilan, dengan perbukitan di belakangnya.
+    kind: actual
+    origin: third-party
+    subject: Gerbang masuk Desa Baru Broga, Negeri Sembilan
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: Sebuah sudut jalan di Desa Baru Seri Setia, Petaling Jaya, dengan mural dinding bercat serta lampion dan hiasan Tahun Baru Imlek berwarna merah.
+    kind: actual
+    origin: third-party
+    subject: Mural dinding dan hiasan Tahun Baru Imlek di Desa Baru Seri Setia, Petaling Jaya, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 Melangkah masuk ke Semenyih, Kampar, atau Sekinchan hari ini, yang sebagian besar Anda lihat adalah wajah biasa sebuah kota kecil: deretan rumah toko, sebuah sekolah dasar Tionghoa, kelenteng dan perhimpunan, kedai kopi di tepi jalan serta toko kelontong. Namun banyak dari tempat-tempat ini berbagi satu identitas yang sama — ia adalah "Kampung Baru". Di balik label yang tampak biasa ini tersimpan sebuah sejarah tentang [Darurat Malaya](/id/malaysia/the-emergency), antipemberontakan, dan perpindahan berskala besar.

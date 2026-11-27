@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो मलेशिया में पारंपरिक चीनी ऑपेरा के प्रकारों को समझना चाहता है, और मंदिर-मेलों तथा उत्सवों में «देव-कृतज्ञता ऑपेरा» (酬神戏) जो भूमिका निभाता है।"
 
 lang: "hi"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,34 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["चीनी ऑपेरा", "देव-कृतज्ञता ऑपेरा", "मलेशिया में कैंटोनीज़ ऑपेरा", "तियोचिउ ऑपेरा", "होक्कियन ऑपेरा", "चीनी कठपुतली रंगमंच", "पेनांग भूखे प्रेतों का उत्सव", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: 'सुनहरे ड्रैगन पृष्ठभूमि के सामने मंच पर रंगे चेहरों, सजावटी मुकुटों और कढ़ाईदार पोशाकों में छह चीनी ओपेरा कलाकार; बीच में लंबे तीतर पंखों वाला काले-सुनहरे कवच पहने एक सेनापति खड़ा है'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: रात में एक उत्सव-मंच पर दो तियोचेउ ओपेरा कलाकार, नीले वस्त्रों में एक पुरुष विद्वान और चमकीले गुलाबी में एक महिला पात्र, चीनी अक्षरों से ढँके एक 'Penang Dialect Theater' पृष्ठभूमि के सामने
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में चीनी नववर्ष के दौरान तियोचेउ सड़क-ओपेरा, 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: सफ़ेद वस्त्रों और एक मनके वाली काली टोपी में एक चीनी सड़क-ओपेरा कलाकार, मंच का मेकअप और चश्मा पहने, गर्म मंद रोशनी में पर्दे के पीछे एक पटकथा पढ़ने के लिए एक छोटे दीपक की ओर झुकता हुआ
+    kind: actual
+    origin: third-party
+    subject: मलेशिया में पर्दे के पीछे एक पटकथा पढ़ता पोशाक में एक चीनी सड़क-ओपेरा कलाकार
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 घड़ियाल और ढोल बज उठते हैं, मंच पर जल-आस्तीनें (水袖) लहराती हैं — जबकि नीचे दर्शक-सीटों पर अक्सर केवल मुट्ठी भर लोग होते हैं, कभी-कभी एक भी नहीं। यह कोई असफल प्रदर्शन नहीं है, क्योंकि यह प्रस्तुति शुरू से ही मानव-नेत्रों के लिए थी ही नहीं।

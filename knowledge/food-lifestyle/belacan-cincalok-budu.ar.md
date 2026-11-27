@@ -34,7 +34,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -80,6 +80,33 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'صلصة سامبال بيلاتشان حمراء زاهية مدقوقة حديثًا بمدقّة في هاون غرانيتي، مع ليمون أخضر وفلفل أحمر حارّ بجانبها'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: طبق من cincalok الوردي (روبيان صغير مُخمّر) ممزوج بشرائح الكرّاث والفلفل الأحمر
+    kind: actual
+    origin: third-party
+    subject: cincalok يُقدّم كتابل مع شرائح الكرّاث والفلفل الحار
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: وعاء زجاجي من صلصة الأنشوجة budu بنية داكنة مع شرائح من المانجو غير الناضج والكرّاث والفلفل الأحمر
+    kind: actual
+    origin: third-party
+    subject: غموس budu (صلصة أنشوجة مُخمّرة) مع شرائح المانجو والكرّاث والفلفل الحار
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 تجوّلْ في أيّ سوق رطب ماليزيّ، أو مطبخ قرويّ (kampung)، أو رفّ توابل معبّأة في دكّان بقالة (kedai runcit)، وستلتقي الثلاثيّ نفسه من الأسماء: **belacan** و**cincalok** و**budu**. تبدو هذه الثلاثة وتفوح رائحتها كأنها من عائلة واحدة — كلّها مالحة، كلّها نفّاذة، كلّها تُصنع بترك كائنات بحرية صغيرة تتخمّر في الملح — وفي قوائم الطعام والوصفات تُستعمل أسماؤها على نحو فضفاض. لكنها ثلاثة أشياء متمايزة، تُصنع بطرق مختلفة، من نقاط انطلاق مختلفة، وتُستخدم بطرق مختلفة. ومعرفة أيّها أيّ تنقذك من تحميص شيء كان ينبغي أن يُؤكل نيئًا، أو صبّ صلصة سمك حيث ينبغي معجون روبيان.

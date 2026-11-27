@@ -31,7 +31,7 @@ faq:
   - q: "Where can students go on to study after 独中?"
     a: "Graduates of 独中 have varied pathways. Many use the UEC to enter local private colleges/universities or overseas universities, and some students also sit the SPM to keep more options open. Local Chinese tertiary institutions include New Era University College, Southern University College and Han Chiang University College of Communication, which grew out of the Chinese education system. From 2026, UEC holders who meet certain conditions can also apply for some public-university courses via a new pathway."
 lang: "en"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'The blue entrance archway of SJK (C) Chun Yin, lettered in Chinese characters and "SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN", leading to the school grounds.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: The tree-lined campus of Chung Ling High School in Penang, one of Malaysia's long-established Chinese-medium secondary schools.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling High School, Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: The entrance and name board of SJK(C) Confucian in Kuala Lumpur, one of the Chinese-medium government-aided primary schools that feed the vernacular system.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, a Chinese-medium primary school in Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 In the early morning, the playground of a Chinese primary school fills with the interwoven sounds of Mandarin, Malay and English; a few states away, in the hall of a Chinese independent secondary school (独中), students are preparing for the year-end UEC; while in Johor and Penang, university colleges that grew out of the Chinese education system welcome a new intake. These scenes all belong to one strand — Chinese education in Malaysia — yet sit at different levels, under different funding arrangements and legal frameworks.

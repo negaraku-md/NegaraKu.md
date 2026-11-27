@@ -24,7 +24,7 @@ appliesTo: "毎年の不動産税の請求書を理解する必要がある、�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 
 status: "published"
 aiAssisted: true
@@ -65,6 +65,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'スランバン（Seremban）のマレーシアの住宅団地で、フェンスの奥に立ち並ぶ現代的な二階建てのテラスハウス。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: 静かなマレーシアの住宅街に沿って二階建てのテラスハウスが一列に並ぶ。門牌税（assessment）と地租（quit rent）が課される、まさにこうした一戸建て系の有地物件である。
+    kind: representative
+    origin: third-party
+    subject: マレーシアのtaman（住宅団地）に建つ二階建てテラスハウス
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: ジョホール州イスカンダル・プトリのMutiara Rini住宅団地を上空から一望すると、碁盤目状の街路に数千戸の有地住宅が並び、その一戸一戸が地方議会の課税台帳に載る課税対象物件である。
+    kind: representative
+    origin: third-party
+    subject: ジョホール州イスカンダル・プトリ、Mutiara Rini住宅団地の空撮
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 多くの新規住宅所有者は、存在するとは思ってもみなかった二枚目の請求書を受け取って驚く。今年すでに「地代」を支払ったのに——なぜ今度は市議会から追討通知が届くのか？

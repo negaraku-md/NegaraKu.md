@@ -66,6 +66,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'Bangunan merah jambu berbilang tingkat Sekolah Kebangsaan Kota Warisan di Sepang, Selangor, dengan papan tanda namanya pada fasad dan kawasan berpagar di sepanjang jalan.'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: Blok pengajaran utama sebuah sekolah rendah kebangsaan di Ayer Keroh, Melaka, jenis sekolah kerajaan yang paling kerap didaftarkan anak oleh kebanyakan keluarga.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, Melaka
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: Sebuah laluan berbumbung yang diapit bendera Malaysia menuju pintu pagar sekolah kerajaan, laluan yang dilalui murid baharu pada hari pendaftaran pertama mereka.
+    kind: representative
+    origin: third-party
+    subject: Laluan masuk berpagar bendera ke sebuah sekolah kerajaan di Malaysia
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 Ramai ibu bapa terkejut apabila mendapati mereka tidak boleh "mendaftarkan" anak

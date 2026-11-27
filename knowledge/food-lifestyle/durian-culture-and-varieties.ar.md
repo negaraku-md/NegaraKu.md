@@ -85,7 +85,7 @@ wikidata: "Q134185"
 relations:
   - { rel: "related-to", to: "agriculture-in-malaysia" }
   - { rel: "related-to", to: "malaysia-china-trade" }
-related: []
+related: ["pasar-malam-and-street-food", "dining-etiquette-tipping-and-service-charge"]
 keywords:
   - "دوريان ماليزيا"
   - "durian Malaysia"

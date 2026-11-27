@@ -30,7 +30,7 @@ faq:
     a: "Surtout lors de festivals culturels, dans des programmes de musées et de patrimoine, et dans des représentations touristiques, plutôt que comme divertissement villageois. Le Département national de la culture et des arts et les organismes culturels des États sont le point de départ pratique pour trouver des représentations programmées."
 
 lang: "fr"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,34 @@ relations:
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts", "théâtre d'ombres Malaisie"]
 framework: history-culture
+hero: '/media/arts-culture/wayang-kulit/hero.webp'
+heroAlt: 'Des marionnettes d''ombre en cuir finement découpées alignées et illuminées contre un écran éclairé par une lampe, dans le style du wayang kulit malais de Kelantan-Patani'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: Gros plan d'une marionnette de wayang kulit en cuir finement sculptée et peinte de couleurs vives orange, vert et violet, montée sur une fine tige de bambou
+    kind: actual
+    origin: third-party
+    subject: Gros plan d'une marionnette en cuir de Wayang Kulit du Kelantan aux couleurs vives sur sa tige de commande, musée de l'État du Kelantan, en Malaisie
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: Deux marionnettes d'ombre en cuir colorées dressées devant des tambours traditionnels et un panneau d'information à l'intérieur d'une hutte d'exposition en bambou tressé
+    kind: actual
+    origin: third-party
+    subject: Marionnettes de Wayang Kulit du Kelantan et tambours de gamelan exposés dans un décor de hutte en chaume avec un panneau explicatif, musée de l'État du Kelantan, en Malaisie
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 La lampe s'allume d'abord. Derrière un écran de coton blanc tendu sur un châssis de bois, un homme est assis en tailleur, une pile de marionnettes plates de cuir à portée de main de part et d'autre, et un petit orchestre de tambours, de gongs et d'un serunai à double anche perçant qui attend derrière lui. Il ne quittera pas cette place pour le reste de la nuit. Le temps que la dernière ombre traverse l'écran, des heures plus tard, il aura donné voix à des rois, des démons, des bouffons et des princesses, aura narré les transitions entre les scènes et aura marqué l'entrée de chaque musicien : seul.

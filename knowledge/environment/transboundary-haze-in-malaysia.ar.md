@@ -32,7 +32,7 @@ faq:
     a: "السبب الرئيسي هو حرائق الأراضي والغابات — بما فيها حرائق أراضي الخثّ وإزالة الغطاء النباتي بالقطع والحرق لأغراض الزراعة — في سومطرة وكاليمانتان، وهي حرائق تصبح أكثر تواتراً وشدّة خلال مواسم الجفاف المتأثرة بظاهرة النينيو."
 
 lang: "ar"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["الضباب الدخاني", "transboundary haze", "API", "مؤشر ملوثات الهواء", "سومطرة", "كاليمانتان", "آسيان", "دائرة البيئة", "جودة الهواء", "haze"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'أفق مدينة كوالالمبور يحجبه ضباب دخاني رمادي كثيف، حيث تكاد الأبراج الشاهقة لا تُرى.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: هواء ضبابي منخفض الرؤية في شارع بجوار عيادة صحّية في Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: أجواء ضبابية قرب عيادة صحّية في Kuala Lumpur
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: ضباب دخاني كثيف عابر للحدود يحجب تلالاً تُرى عادةً عند الأفق
+    kind: representative
+    origin: third-party
+    subject: الضباب الدخاني العابر للحدود في جنوب شرق آسيا عام 2013 فوق Singapore (صورة توضيحية)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 في كل مرة تغيّر فيها رياح الموسم اتجاهها خلال موسم الجفاف، يمكن أن تتحول السماء فوق وادي كلانغ وساراواك وجزء كبير من شبه الجزيرة إلى الرمادي في غضون أيام — تخبو الشمس، وتتسلل رائحة الدخان إلى المنازل، وتطنّ الهواتف بتنبيهات API. هذا هو الضباب الدخاني العابر للحدود: تلوث لا يُنتَج بالكامل داخل البلاد، ومع ذلك يستنشقه ملايين الماليزيين كل عام.

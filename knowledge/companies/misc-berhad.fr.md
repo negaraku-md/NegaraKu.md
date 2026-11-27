@@ -29,7 +29,7 @@ faq:
     a: "Le groupe MISC a déclaré un chiffre d'affaires de RM13,237.5 millions pour l'EF2024, en baisse de 7.2% par rapport aux RM14,271.7 millions de l'EF2023, avec un bénéfice après impôt de RM1,233.2 millions."
 
 lang: "fr"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,6 +66,25 @@ relations:
 related: ["petronas"]
 keywords: ["MISC Berhad", "transport de GNL", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "Malaisie maritime", "MMHE"]
 framework: profile
+hero: '/media/companies/misc-berhad/hero.webp'
+heroAlt: 'Un grand méthanier à coque noire et coque inférieure rouge, sa proue portant l''inscription « SERI AYU » et le mot « LNG » sur le côté, amarré à un quai pavoisé de pavillons de signalisation, avec un homme en chemise et cravate debout sur une estrade à tapis rouge au premier plan'
+heroCredit: 'Emran Kassim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: Une vue aérienne d'une jetée en béton sur une eau turquoise portant des rangées de hauts bras de chargement maritime gris et de la tuyauterie, avec des ducs-d'Albe d'amarrage au premier plan et un port avec des grues et des réservoirs de stockage sur la rive opposée
+    kind: representative
+    origin: third-party
+    subject: des bras de chargement maritime au terminal d'exportation de GNL à Bintulu, Sarawak, où des méthaniers comme ceux de MISC chargent le gaz naturel liquéfié malaisien
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad est le bras maritime de l'économie énergétique de la Malaisie — le groupe qui achemine le gaz et le pétrole du pays à travers les océans du monde.

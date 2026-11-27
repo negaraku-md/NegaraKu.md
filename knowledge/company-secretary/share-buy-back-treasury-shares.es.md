@@ -67,7 +67,7 @@ relations:
   - { rel: "part-of", to: "companies-act-2016" }
   - { rel: "related-to", to: "reduction-of-share-capital" }
   - { rel: "related-to", to: "solvency-statement" }
-related: []
+related: ["special-resolution", "share-capital-malaysia", "company-constitution-malaysia"]
 keywords: ["recompra de acciones", "pembelian balik saham", "share buy-back", "acciones en autocartera", "treasury shares", "Seksyen 127", "Companies Act 2016", "Akta Syarikat 2016", "Bursa Malaysia", "Capítulo 12"]
 framework: rules
 ---

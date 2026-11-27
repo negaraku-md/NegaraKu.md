@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 
 status: "published"
 aiAssisted: true
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "administered-by", to: "ministry-of-health" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "smoking-and-vaping-law-act-852"]
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'Klinik Kesihatan Sungai-Sungai の外観で、マレーシアとサバ州の旗、救急車のあるマレーシアの農村部の政府保健クリニックである。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: 腕用カフの付いたデジタル自動血圧計。高血圧の定期的なスクリーニングに用いられる種類の機器
+    kind: representative
+    origin: third-party
+    subject: 健康診断に用いられる自動上腕式血圧計とカフ
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: 背後に都市のスカイラインを望むクアラルンプールの整備された湖畔公園。非感染性疾患の予防に役立つ運動と健康的な生活習慣を表している
+    kind: representative
+    origin: third-party
+    subject: タマン・タシク・ティティワンサ、クアラルンプールの公共の湖畔レクリエーション公園
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 今日、マレーシアの成人の半数以上が、自らの寿命を縮めかねない体重を抱えている——そして6人に1人はすでに糖尿病を患っており、その多くは自覚がない。これは、病院、家庭、そして国の経済に対し、いかなる感染症よりもはるかに重い負担を課す、静かな流行病である。

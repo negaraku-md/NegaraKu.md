@@ -31,7 +31,7 @@ faq:
   - q: "Comment le gouvernement soutient-il l'industrie chimique ?"
     a: "La Malaysian Investment Development Authority (MIDA), par l'intermédiaire de sa Chemical and Advanced Material Division, évalue les licences de fabrication et offre des incitations telles que le statut de pionnier (Pioneer Status) et l'abattement fiscal pour investissement (Investment Tax Allowance). Les projets pétroliers et pétrochimiques relèvent également du Petroleum Development Act 1974. La Feuille de route de l'industrie chimique 2030 (Chemical Industry Roadmap 2030) et le Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030) fixent l'orientation stratégique vers des produits chimiques de spécialité à plus forte valeur ajoutée."
 lang: fr
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'Un vaste complexe de raffinerie pétrochimique illuminé la nuit, ses tours de distillation et sa tuyauterie brillant à côté d''une torchère brûlant du gaz près du bord de l''eau.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: Les colonnes de distillation et les réservoirs de stockage de la raffinerie de pétrole Hengyuan, à l'est de Port Dickson, dans le Negeri Sembilan, vus à la lumière du jour.
+    kind: actual
+    origin: third-party
+    subject: La raffinerie de pétrole Hengyuan à Port Dickson, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: La torchère et les installations de traitement du Sabah Oil and Gas Terminal (SOGT) à Kimanis, dans le Sabah, sous un ciel diurne.
+    kind: actual
+    origin: third-party
+    subject: Le Sabah Oil & Gas Terminal (SOGT) à Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 Les plastiques, les engrais, les détergents, le caoutchouc synthétique, les cosmétiques, les peintures et les résines à l'intérieur de la coque de votre téléphone commencent tous sous forme de produits chimiques — et une part surprenante d'entre eux, ou de leurs composants de base, est fabriquée en Malaisie. Derrière les histoires mieux connues du pétrole et du gaz et de l'huile de palme se trouve une grande industrie chimique et pétrochimique, discrètement stratégique, qui transforme des hydrocarbures bruts et des huiles végétales en matériaux dont dépend la vie moderne.

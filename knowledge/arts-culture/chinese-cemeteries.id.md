@@ -33,7 +33,7 @@ faq:
     a: "Qingming adalah hari tersibuk sepanjang tahun di yishan. Dalam sekitar sepuluh hari seputar Qingming, keluarga Tionghoa sering sekeluarga pergi ke yishan untuk berziarah dan menghormati leluhur — mencabut rumput, membersihkan batu nisan, mewarnai ulang ukiran aksara yang pudar, dan menata sesaji. Di Guangdong, ziarah lazim disebut 'bai shan' (拜山, memberi hormat di bukit), dan ungkapan ini pun terbawa ke kawasan Nanyang bersama para migran. Beberapa tahun terakhir sebagian pengelola yishan menganjurkan cara yang sederhana dan ramah lingkungan serta penanganan sampah yang tepat, dan sebagian keluarga kini menjalani hari itu lewat kunjungan ke relung abu atau peringatan daring."
 
 lang: "id"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'Sebuah makam Tionghoa besar berbentuk tapal kuda dengan prasasti bersepuh emas dan panel samping berukir, tertanam pada gundukan berumput di antara pepohonan di bukit pemakaman Bukit China di Melaka.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: Barisan makam Tionghoa berbentuk omega berubin, lengkap dengan batu nisan dan altar, di sebuah pemakaman berumput di Sarawak
+    kind: actual
+    origin: third-party
+    subject: Makam Tionghoa berubin berbentuk tapal kuda di sebuah pemakaman Tionghoa dekat Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: Lembaran kertas warna-warni dibentangkan di atas gundukan makam berumput di samping batu nisan saat perayaan bersih kubur Qingming
+    kind: representative
+    origin: third-party
+    subject: Kertas warna-warni diberi pemberat di atas gundukan makam saat Qingming (ziarah bersih kubur) di Pemakaman Bukit Brown
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 Menjelang Qingming, sebelum langit benar-benar terang, kaki Bukit Cina di Melaka sudah dipenuhi kendaraan yang terparkir. Keluarga demi keluarga membawa bunga segar, hio, lilin, dan sesaji sambil mendaki lereng yang berbukit-bukit menuju makam leluhur mereka. Ada yang lebih dulu membakar hio di sebuah relung batu kecil di sisi makam yang berukir aksara "Houtu", lalu berpaling membersihkan batu nisan leluhur — mencabut rumput, mewarnai ulang ukiran aksara yang pudar, lalu menata sesaji. Makam-makam yang padat di sepanjang lereng, semuanya menghadap arah yang sama, adalah tempat peristirahatan generasi demi generasi orang Tionghoa yang merantau ke selatan.

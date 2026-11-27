@@ -32,7 +32,7 @@ faq:
     a: "Có. Các chương trình do bất kỳ nhà cung cấp giáo dục đại học nào hoạt động tại Malaysia cung cấp, bao gồm các cơ sở chi nhánh nước ngoài, đều được đảm bảo chất lượng theo MQF và xuất hiện trong MQR. Một số đại học có uy tín có tình trạng tự kiểm định, cho phép họ kiểm định các chương trình của chính mình trên MQF và đăng ký các chương trình đó trong MQR."
 
 lang: "vi"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'Dành cho sinh viên tương lai, phụ huynh và nhà tuyển dụng đang kiểm tra xem một bằng cấp sau trung học của Malaysia có được chính thức công nhận hay không.'
+  how: 'Hãy tra cứu miễn phí Malaysian Qualifications Register (MQR) theo đúng tên chương trình, bậc học và cơ sở giảng dạy, và xác nhận rằng chương trình đang có Kiểm định Tạm thời hoặc Kiểm định Đầy đủ. Sự công nhận đối với một nghề được quản lý hoặc để làm việc trong khu vực công được kiểm chứng riêng với cơ quan đó.'
+  cost: 'Việc tra cứu MQR là miễn phí; còn sự công nhận mà bạn có thể đang trông cậy — một giấy phép hành nghề, một việc làm nhà nước, hay việc du học — mỗi thứ có thể cần kiểm chứng riêng với cơ quan của chính nó.'
+  watch: 'Việc kiểm định gắn với chương trình và đợt nhập học cụ thể, chứ không phải với cơ sở — một trường đại học uy tín vẫn có thể cung cấp một chương trình mới, đang kiểm định tạm thời hoặc chưa được liệt kê. Một dòng chữ ''đã được MQA phê duyệt'' trong tờ rơi không phải là sổ đăng ký; hãy tự mình xác nhận mục tra cứu trực tiếp, và lưu ý rằng tình trạng kiểm định tạm thời là hợp pháp, chứ không phải hạng hai.'
+  next: 'Hãy tra cứu đúng chương trình của bạn trên MQR trước khi đóng bất kỳ khoản tiền đặt cọc nào; đối với một nghề được quản lý, hãy xác nhận lộ trình dành cho người tốt nghiệp với cơ quan nghề nghiệp đó. Xem bài Trước khi đóng tiền đặt cọc cho trường.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Một bảng tên gắn tường mang huy hiệu và dòng chữ "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" trên bức tường ốp đá.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Các nhà khoa học trong trang phục lễ nghi trao bằng trên sân khấu trong lễ tốt nghiệp tại Universiti Kebangsaan Malaysia
+    kind: representative
+    origin: third-party
+    subject: Lễ tốt nghiệp đặc biệt trao bằng tại Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: Tòa nhà hành chính Canselori Putra uốn cong của Universiti Putra Malaysia bên cạnh một quảng trường được tạo cảnh quan
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà Canselori (sảnh hành chính) của Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Hai sinh viên tốt nghiệp với một diploma nghe giống nhau. Một người đủ tư cách cho một công việc chính phủ và một suất thạc sĩ; người kia bị từ chối ngay trước cửa. Sự khác biệt thường là một dòng duy nhất trong một sổ đăng ký công khai: liệu Cơ quan Kiểm định Malaysia có kiểm định chương trình hay không.

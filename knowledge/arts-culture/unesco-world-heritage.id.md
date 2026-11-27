@@ -30,7 +30,7 @@ faq:
     a: "Ya. Pusat Warisan Dunia mencatat tiga properti dalam Senarai Tentatif Malaysia: Taman Negara Semenanjung Malaysia, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Pencantuman tentatif adalah pernyataan niat untuk mencalonkan, bukan pencantuman resmi."
 
 lang: "id"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'Bangunan Stadthuys Belanda berwarna merah terakota tua dan menara jam persegi di Melaka, dikelilingi bundaran tanaman berdaun merah dan hijau, dengan papan penunjuk arah di latar depan di bawah langit mendung terang'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: Sebuah jalan warisan sempit di George Town, Penang, berjajar rumah toko dua lantai tua yang digantungi lampion merah dan papan nama Batik Painting Museum, sebuah papan nama jalan biru bertuliskan Lebuh Armenian di sebelah kanan dan jalan sepi dengan zebra cross kuning
+    kind: actual
+    origin: third-party
+    subject: Lebuh Armenian (Armenian Street) di kawasan warisan George Town, Penang, bagian dari Situs Warisan Dunia UNESCO
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: Massif granit abu-abu Gunung Kinabalu di Sabah, punggung bukitnya yang bergerigi menjulang di atas kaki bukit berhutan, dengan pepohonan hijau rimbun dan lereng berumput di latar depan di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Gunung Kinabalu menjulang di atas Taman Kinabalu di Sabah, sebuah Situs Warisan Dunia UNESCO
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 Tanyakan berapa banyak Situs Warisan Dunia yang dimiliki Malaysia, dan kebanyakan sumber akan memberi tahu Anda empat. Itu benar sampai 2024. Kompleks Gua Niah dimasukkan pada Juli tahun itu, dan Forest Research Institute Malaysia Forest Park Selangor menyusul pada 2025 — menjadikan jumlahnya enam.

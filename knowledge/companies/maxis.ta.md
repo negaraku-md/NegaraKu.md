@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "தாய் குழுமத்தின் தற்போதைய பங்குவைப்பு (Usaha Tegas-உடன் இணைந்த நலன்கள் மற்றும் Saudi Telecom Company) — சமீபத்திய Bursa Malaysia வெளிப்படுத்தல்களுடன் உறுதிப்படுத்தவும்."
   - "மலேசியாவின் இரண்டாவது 5G வலையமைப்பின் நிலை மற்றும் அதில் Maxis-இன் பங்கு (2024 நவம்பரில் U Mobile தேர்ந்தெடுக்கப்பட்டது) — MCMC-உடன் தற்போதைய 5G கொள்கை மற்றும் ஏற்பாடுகளை சரிபார்க்கவும்."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'இரவில் Menara Maxis-ன் வெள்ளொளியில் ஒளிரும் வளைந்த உச்சி; கருப்பு வானத்திற்கு எதிரே அடுக்கு மொட்டைமாடிகள் வெண்மையாக ஒளிர, உச்சிக்கு அருகே நீல-பச்சை maxis சின்னப் பலகையும் 7:57 காட்டும் சிவப்பு இலக்கமுறை கடிகாரமும்'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: மேகமூட்டமான வானத்திற்கு எதிராக வளைவு உச்சிமுடி வரை வளைந்து செல்லும் பழுப்பு நிற கல் மற்றும் பச்சை-கண்ணாடி Menara Maxis கோபுரம்; அதன் முகப்பில் உயரே maxis சின்னமும் டிஜிட்டல் கடிகாரமும், கீழே உள்ள மேடையில் Suria KLCC சின்னமும் தெரிகிறது
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் Suria KLCC கடைவளாகத்திற்கு மேலே உயர்ந்து நிற்கும் Menara Maxis-இன் பகல்நேரக் காட்சி; அதன் உச்சிமுடிக்கு அருகில் maxis சின்னமும் கடிகாரமும்
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: Menara Maxis-இன் சுருங்கும் ஒளிரும் முகப்பின் செங்குத்தான மேல்-நோக்கு இரவுக் காட்சி; கறுப்பு வானத்திற்கு எதிராக அதன் கீழ் தளங்களில் maxis சின்னத்தைச் சுமக்கும் உயரமான ஒளிரும் விளம்பர பதாகை தொங்குகிறது
+    kind: actual
+    origin: third-party
+    subject: KLCC, கோலாலம்பூரில் அடித்தளத்திலிருந்து பார்த்த இரவில் Menara Maxis; அதன் கீழ் முகப்பில் பெரிய maxis-அடையாள விளம்பர பதாகையுடன்
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 தொலைபேசி வைத்திருக்கும் கிட்டத்தட்ட ஒவ்வொரு மலேசியரும், எப்போதாவது, ஒரு Maxis அல்லது Hotlink வாடிக்கையாளராக இருந்திருப்பார்கள். அந்த இரண்டு பரிச்சயமான பிராண்டுகளுக்குப் பின்னால் ஒரே நிறுவனம் — Maxis Berhad — அமர்ந்துள்ளது; இது நாட்டின் மிகப்பெரிய தொலைத்தொடர்பு இயக்குநர்களில் ஒன்றாக இருந்து, மொபைல்-மட்டும் கேரியரிலிருந்து மொபைல், வீட்டு பிராட்பேண்ட் மற்றும் நிறுவன இணைப்பின் ஒருங்கிணைந்த வழங்குநராக வளர்ந்துள்ளது.

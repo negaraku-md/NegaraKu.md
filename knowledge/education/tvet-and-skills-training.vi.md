@@ -19,7 +19,7 @@ keyTakeaways:
   - "Cao đẳng Cộng đồng tập trung vào chứng chỉ bậc thấp hơn với việc nhập học linh hoạt hơn, trong khi Trường Bách khoa tập trung vào diploma — cả hai đều được quản lý bởi JPPKK thuộc Bộ Giáo dục Đại học"
 appliesTo: "Học sinh sau Lớp 3 hoặc SPM, phụ huynh đang lập kế hoạch nghề nghiệp cho con, và người lao động trưởng thành muốn chứng nhận kỹ năng sẵn có qua SKM."
 lang: "vi"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'Lối vào và bảng hiệu của Kolej Vokasional Sungai Buloh, một trường cao đẳng dạy nghề Malaysia đào tạo kỹ thuật và kỹ năng (TVET).'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: Sảnh trung tâm có mái che của Montfort Youth Training Centre, một cơ sở đào tạo kỹ năng nghề ở Kinarut, Sabah, với tấm băng rôn trên sân khấu ghi 'Through Work Achieve Success'.
+    kind: actual
+    origin: third-party
+    subject: Bên trong một trung tâm đào tạo kỹ năng thanh niên Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: Lối đi vào có mái che uốn cong và khối nhà học hiện đại tại Politeknik Kota Kinabalu ở Sabah.
+    kind: actual
+    origin: third-party
+    subject: Khuôn viên một trường bách khoa Malaysia (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 Nhiều học sinh Lớp 3 và phụ huynh của họ chỉ thấy một con đường sau

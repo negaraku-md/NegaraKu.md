@@ -31,7 +31,7 @@ faq:
     a: "보건부가 민간 의료 시설을 허가하고 말레이시아 의료협의회가 의사를 등록하고 징계합니다. 많은 병원은 말레이시아 의료품질협회(MSQH)나 국제조인트커미션(JCI)의 자발적 인증도 보유합니다. MHTC는 그 규제 사슬 밖에 있습니다."
 
 lang: "ko"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: '쿠알라룸푸르 Prince Court Medical Centre 외관으로, 의료 관광객을 대상으로 하는 말레이시아 유수의 사립 병원이다.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: 사바주 코타키나발루에 있는 유리 전면의 현대식 민간 병원 건물
+    kind: actual
+    origin: third-party
+    subject: 글렌이글스 병원(Gleneagles Hospital), 말레이시아 사바주 코타키나발루의 민간 의료 센터
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: 말레이시아 민간 병원의 표지가 붙은 응급 입구로, 로비와 전문의 진료과로 안내하는 안내판이 있다
+    kind: actual
+    origin: third-party
+    subject: 판타이 병원(Pantai Hospital)의 응급 입구와 로비 안내판, 조호르주 바투파핫의 민간 병원
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 자카르타의 한 가족이 아버지의 심장 우회술을 위해 날아옵니다. 영국의 한 부부는 본국의 대기자 명단이 자신들의 가임 기간을 넘어서기에 시험관 시술을 예약합니다. 방글라데시의 한 환자는 고향 클리닉이 할 수 없는 일상적 건강 검진을 위해 옵니다.

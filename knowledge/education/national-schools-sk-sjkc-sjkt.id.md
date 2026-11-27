@@ -30,7 +30,7 @@ faq:
     a: "Murid SJKC dan SJKT dapat melanjutkan ke sekolah menengah kebangsaan (SMK, bahasa pengantar bahasa Melayu) atau, bagi sebagian murid SJKC, ke sekolah menengah jenis kebangsaan (SMJK) yang juga merupakan sekolah negeri/bantuan pemerintah. Peralihan bahasa pengantar dari sekolah dasar ke sekolah menengah kebangsaan didukung oleh kelas peralihan bagi murid yang memerlukannya."
 
 lang: "id"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'Bangunan satu lantai Sekolah Kebangsaan Tungku, sebuah sekolah dasar kebangsaan Malaysia di Sabah, mengibarkan bendera Malaysia, dengan moto sekolah yang dicat di dindingnya.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: Gedung dan papan nama sebuah sekolah dasar jenis kebangsaan Tionghoa, SJK(C) Chong San
+    kind: actual
+    origin: third-party
+    subject: Sebuah sekolah jenis kebangsaan Tionghoa, SJK(C) Chong San di Bagan Datuk, Perak
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: Gedung dan papan nama sebuah sekolah dasar jenis kebangsaan Tamil, SJK(T) Saraswathy
+    kind: actual
+    origin: third-party
+    subject: Sebuah sekolah jenis kebangsaan Tamil, SJK(T) Saraswathy di Sungai Buloh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 Setiap tahun, ketika masa pendaftaran dibuka, orang tua di seluruh Malaysia membuka portal idMe Kementerian Pendidikan Malaysia (KPM) untuk mendaftarkan anak ke Tahun 1. Salah satu pilihan pertama yang perlu diambil: SK, SJKC, atau SJKT?

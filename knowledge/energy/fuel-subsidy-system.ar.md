@@ -37,7 +37,7 @@ faq:
     a: "يُثبَّت الديزل في صباح وساراواك ولابوان عند RM2.15 لكل لتر ولا يُعوَّم كما في شبه الجزيرة. ويسري سعر البنزين RON95 المدعوم البالغ RM1.99 على المواطنين المؤهلين في جميع أنحاء البلاد."
 
 lang: "ar"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -133,6 +133,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["دعم الوقود", "BUDI95", "RON95", "دعم الديزل", "PADU", "الدعم الموجَّه", "BUDI MADANI", "RM1.99", "ترشيد الدعم", "fuel subsidy Malaysia"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'ساحة محطة وقود بتروناس بمضخّات وقود تحت مظلّة في ماليزيا.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: محطة وقود بعلامة Shell ذات مظلّة بحافة حمراء تغطّي عدة جزر لمضخّات الوقود، وشعار Shell pecten الأصفر على لوحة العمود الجانبية، ومحلات وسيارات قريبة تحت سماء مشرقة
+    kind: actual
+    origin: third-party
+    subject: ساحة محطة وقود Shell في Taman Pelangi، Johor Bahru، بجزرها لمضخّات الوقود تحت مظلّة
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: ساحة محطة وقود تحت مظلّة مسطّحة واسعة تظلّل مضخّات الوقود، وعمود لوحة أسعار مرتفع مُضاء قائم عند جانب الطريق، ومبنى متجر صغير بجانبه في يوم غائم
+    kind: actual
+    origin: third-party
+    subject: محطة وقود بعلامة FIVE في Ijok، Selangor، إحدى سلاسل بيع الوقود المستقلة في ماليزيا، بساحتها وعمود الأسعار
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 لعقودٍ من الزمن، دفع الجميع في ماليزيا — من المليونير إلى جامع المطاط — السعر نفسه للبنزين عند المضخة. وفي 30 سبتمبر 2025، انتهى ذلك الترتيب. فقد يكلّف لتر البنزين RON95 الآن RM1.99 لك بينما يكلّف جارك ما يقارب ضعف ذلك، وما يحدد الأمر ليس سعر النفط العالمي بل بطاقة الهوية التي تُدخِلها في الجهاز الطرفي.

@@ -36,7 +36,7 @@ socialTitle: "மலாய் மக்களின் மிகப் பழம
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "பந்தூன் கலையின் தோற்றத்தின் சரியான தேதியை உறுதிப்படுத்த முடியவில்லை; மிக வலுவான அறிஞர் கருத்து அதை சுமார் 15-ஆம் நூற்றாண்டுடன், அதாவது Sejarah Melayu (~1612)-க்கு முன்பு, தொடர்புபடுத்துகிறது. இந்த எண் இன்னும் விவாதப் பொருளாகவே உள்ளது, இறுதியான தேதி அல்ல."
   - "நீண்ட செய்யுள் பந்தூனின் அதிகபட்ச நீள எல்லை ஆதாரங்களுக்கிடையே வேறுபடுகிறது (சில 16 வரிகள் வரை என்றும், சில சுமார் 22 வரிகள் வரை என்றும் குறிப்பிடுகின்றன); உறுதியான எண்ணிக்கை ஒரே சீரானது அல்ல."
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'பச்சை மற்றும் தங்க நிற பாரம்பரிய உடை மற்றும் அலங்கார தலைப்பாகை அணிந்த மலாய் கலைஞர்கள், ஒரு dikir barat நிகழ்ச்சியின்போது தரையில் அமர்ந்து ஒருங்கிணைந்த கை அசைவுகளைச் செய்கின்றனர், அவர்களுக்கு முன்னால் கைமேளங்கள்.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: ஒரு கெலந்தான்-பட்டானி வயாங் குலித் நிகழ்ச்சியின்போது புராணப் பாத்திரங்களைச் சித்தரிக்கும் நுணுக்கமாகச் செதுக்கப்பட்ட தோல் நிழல் பொம்மைகள் ஒளிரும் திரையில் கூர்மையான நிழலுருக்களை ஏற்படுத்துகின்றன.
+    kind: actual
+    origin: third-party
+    subject: கெலந்தான்-பட்டானி பாணி வயாங் குலித் நிழல் நாடகம்
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: கோலாலம்பூர் இசை அருங்காட்சியகத்தில் காட்சிப்படுத்தப்பட்ட, வெண்கல கொங், முலைக் கொங் மற்றும் மர மெட்டலோஃபோன்களைக் கொண்ட அழகாகச் செதுக்கப்பட்ட மலாய் கமேலான் இசைக்குழு.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் இசை அருங்காட்சியகத்தில் மலாய் கமேலான் இசைக்குழு
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai mua, bán hoặc đánh giá bất động sản tại Malaysia cần hiểu quyền sở hữu và loại quyền sở hữu của một tin đăng thực sự ràng buộc họ vào điều gì."
 
 lang: "vi"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,32 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'Hai tòa tháp chung cư ven biển sinh đôi của Jesselton Residences bên cạnh bến du thuyền và biển ở Kota Kinabalu, Sabah.'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: Một căn biệt thự đơn lập tọa lạc trên thửa đất có hàng rào riêng ở Johor Bahru, bất động sản gắn liền với đất điển hình mang sổ đỏ đất riêng chứ không phải phần sở hữu strata.
+    kind: actual
+    origin: third-party
+    subject: Một căn biệt thự đơn lập ở Johor Bahru
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: Các khối chung cư giá rẻ công cộng PPR đứng tại Bukit Jalil, Kuala Lumpur, nơi mỗi căn hộ được nắm giữ theo sổ strata với quyền sở hữu chung đối với phần tài sản chung.
+    kind: actual
+    origin: third-party
+    subject: Chung cư giá rẻ công cộng (PPR) ở Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 Hai căn nhà liền kề gần như giống hệt trên cùng một con phố có thể mang những lời hứa rất khác nhau từ Bang: một quyền sở hữu ghi "vĩnh viễn," cái kia "có thời hạn, 99 năm, hết hạn 2118." Một câu hỏi thứ hai, không liên quan, quyết định liệu bạn có đồng sở hữu một sảnh thang máy và hồ bơi với bốn mươi hộ khác hay không, hoặc liệu lối vào nhà và mái nhà hoàn toàn là vấn đề của riêng bạn. Người mua thường gộp cả hai câu hỏi thành một — "nó là vĩnh viễn hay là một chung cư?" — trong khi một bất động sản luôn trả lời cả hai, một cách độc lập.

@@ -30,7 +30,7 @@ faq:
     a: "Según el JKKN, la DKK de 1971 constituye la base de la Política de Cultura Nacional (DAKEN) de 2021, que se sustenta en siete pilares con un periodo de ejecución de 2021-2025. El JKKN también afirma que la DKK de 1971 nunca fue respaldada formalmente a nivel de gabinete, aunque orientó la administración durante unos 50 años."
 
 lang: "es"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'La entrada principal del Istana Budaya, el teatro nacional, con su amplio tejado sirih junjung, un emblema dorado de loto y una ancha escalinata que conduce a puertas de madera tallada.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: Un grupo de bailarines con vestimenta tradicional de Sarawak interpretando una danza folclórica en un escenario ante el público
+    kind: actual
+    origin: third-party
+    subject: Artistas con vestimenta tradicional presentando una danza folclórica de Sarawak en una muestra cultural en Malasia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: La fachada del Museo Nacional de Malasia, un edificio con un tejado apuntado minangkabau y grandes paneles murales de azulejos
+    kind: actual
+    origin: third-party
+    subject: El Museo Nacional de Malasia (Muzium Negara) en Kuala Lumpur, con su tejado de estilo minangkabau y murales de mosaico patrimoniales
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 En 1971, unos dos años después del [incidente del 13 de mayo de 1969](/malaysia/13-may-1969), un grupo de académicos, agentes de las artes y líderes se reunió en la Universidad de Malaya para responder a una pregunta difícil para una nación multirracial: ¿qué se entiende por «cultura nacional»? La respuesta que surgió —la Política Cultural Nacional (DKK)— sigue siendo una referencia de política hasta hoy, y sigue siendo, en igual medida, objeto de debate.

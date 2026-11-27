@@ -26,7 +26,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 
 status: "published"
 aiAssisted: true
@@ -67,9 +67,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: '一辆白色现代 Ioniq Electric 汽车行驶在路上，车身印有绿色 Grab Electric 标识和标语“0 percent emisi”。'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: 一辆贴有绿色 Grab 网约车涂装和马来西亚国旗的轿车行驶在沙巴亚庇的街道上。
+    kind: actual
+    origin: third-party
+    subject: 沙巴亚庇的 Grab 涂装轿车
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: 一支 Grab 品牌方队在沙巴亚庇参加 2023 年国庆日游行。
+    kind: actual
+    origin: third-party
+    subject: 沙巴亚庇国庆日游行中的 Grab 方队
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 在吉隆坡打开 Grab、Bolt 或 inDrive，点一下「预订」。那一刻感觉不出任何监管的痕迹。

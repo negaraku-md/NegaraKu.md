@@ -22,7 +22,7 @@ appliesTo: "旅行者、企業、そして「マレーシア」がときに、�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'マレーシアの地域区分地図。半島マレーシアとボルネオ島の東マレーシアが、南シナ海を挟んで色分けされた別々のブロックとして示されている。'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: 鮮やかな緑の水田が平らに広がり、低い並木の地平線まで続き、その上には広く淡い青空が広がっている。
+    kind: actual
+    origin: third-party
+    subject: スランゴール州スキンチャンの低地の水田（マレー半島）
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: 幅広く濁った黄褐色の熱帯雨林の川が、密林の岸辺の間を曲がりくねって流れ、小さな緑の木造ボートが木の桟橋に係留されている。
+    kind: actual
+    origin: third-party
+    subject: サバ州スカウのキナバタンガン川（ボルネオ・マレーシア）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 クアラルンプールからコタキナバルへ国内線で飛べば、あなたが降り立つのは、出発したときと同じ国である。同じ通貨、同じパスポート、尾翼には同じ国旗。それでも到着ロビーでは、移民審査のような窓口に並び、通過を許される前に身分証明書やパスポートを確認される。マレーシア国内の他のどの便も、そのようには機能しない。

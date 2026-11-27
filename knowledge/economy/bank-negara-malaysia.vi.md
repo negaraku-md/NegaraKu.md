@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "vi"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,33 @@ relations:
 related: ["opr-monetary-policy", "ringgit", "foreign-exchange-policy-malaysia", "payment-regulation-malaysia"]
 keywords: ["Bank Negara Malaysia", "BNM", "Central Bank of Malaysia Act 2009", "Malaysia central bank", "Monetary Policy Committee Malaysia"]
 framework: profile
+hero: '/media/economy/bank-negara-malaysia/hero.webp'
+heroAlt: 'Mái che lối vào chính của trụ sở Bank Negara Malaysia mang dòng chữ BANK NEGARA MALAYSIA màu vàng và biểu tượng kijang, hai bên là một hàng cờ các bang Malaysia và những cây cọ quạt cao'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-0916).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: Tòa tháp bê tông màu xám có các dải ngang của trụ sở Bank Negara Malaysia với biểu tượng kijang màu xanh trên đỉnh, vươn lên trên công viên xanh trên nền trời xanh loang lổ với đường chân trời Kuala Lumpur phía sau
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp bê tông nhiều tầng của trụ sở Bank Negara Malaysia nhìn qua công viên, trung tâm Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: Mặt tiền góc cạnh bằng kính sẫm và kim loại của Bảo tàng và Phòng trưng bày Nghệ thuật Bank Negara Malaysia, với lớp ốp hình học sắc nét nhô ra trên lối vào được tạo cảnh quan
+    kind: actual
+    origin: third-party
+    subject: Bảo tàng và Phòng trưng bày Nghệ thuật của Bank Negara Malaysia, một phần của khu phức hợp Sasana Kijang, Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## Tổng quan nhanh

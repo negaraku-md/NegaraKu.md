@@ -19,7 +19,7 @@ keyTakeaways:
   - "Les substances psychotropes relevant de la Jadual Ketiga (troisième annexe) de l'Akta Racun 1952 sont soumises à une réglementation distincte, avec des peines pouvant atteindre RM100,000 ou cinq ans d'emprisonnement pour les infractions non autorisées (Seksyen 30)"
 appliesTo: "Toute personne achetant des médicaments dans une pharmacie publique ou privée en Malaisie et souhaitant comprendre pourquoi certains médicaments exigent une ordonnance alors que d'autres non, et le rôle du pharmacien enregistré dans ce processus."
 lang: "fr"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,33 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["acheter des médicaments Malaisie", "pharmacies Malaisie", "Akta Racun 1952", "médicaments sur ordonnance", "médicaments en vente libre", "Poisons Act 1952", "pharmacien enregistré", "poisons du groupe B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'Une boutique d''angle rouge vif de 1955 abritant une succursale BIG Pharmacy (Farmasi) à Kluang, Malaisie, avec une enseigne bilingue Farmasi'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: Une pharmacie de quartier indépendante de plain-pied avec une enseigne bleue Farmasi Sinar, des voitures garées dehors sous un ciel dégagé en Malaisie
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar, une pharmacie de quartier indépendante à Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: L'entrée de la pharmacie ambulatoire dans un hôpital public malaisien, avec des panneaux Farmasi jaunes et bleus et une banderole de la Journée mondiale des pharmaciens, personne en vue
+    kind: actual
+    origin: third-party
+    subject: Entrée de la pharmacie ambulatoire (Farmasi) à l'Hospital Sultanah Nora Ismail, un hôpital public à Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 Un client demande un sirop contre la toux au comptoir de la pharmacie et est servi immédiatement. Un autre demande des antibiotiques pour un mal de gorge et on lui demande de présenter d'abord l'ordonnance d'un médecin. Les deux transactions ont lieu dans la même pharmacie, le même jour — la différence tient à la façon dont la loi classe le médicament, et non à la discrétion du pharmacien.

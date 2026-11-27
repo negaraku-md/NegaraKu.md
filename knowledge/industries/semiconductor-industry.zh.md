@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: '实验台上一片方形硅晶圆，表面因薄膜镀层而闪烁着洋红、粉色和金色的虹彩'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: 一名身穿白色无尘服、戴头罩和口罩的技师在黄光照明的半导体洁净室内用戴手套的手托着一片圆形硅晶圆
+    kind: representative
+    origin: third-party
+    subject: 一名穿着无尘服的技师在黄光照明的光刻洁净室内托着一片硅晶圆
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: 一名身穿白色全套洁净服、戴头罩、口罩和手套的技师在明亮的洁净室内的工作台上加工抛光金属部件
+    kind: representative
+    origin: third-party
+    subject: 一名穿着无尘服的组装技师在洁净室内加工精密硬件
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 如果你正用手机或笔记本电脑阅读本文，那么其中某一颗芯片很有可能有一段「生命」是在马来西亚度过的——不是在这里被发明或印制，而是从一片光秃秃的硅片，被加工成一个封装完成、可随时焊接到电路板上的成品组件。正是这个安静而不起眼的环节，让马来西亚在整个电子业界建立起最举足轻重的地位之一。

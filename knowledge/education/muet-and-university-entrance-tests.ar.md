@@ -34,7 +34,7 @@ faq:
     a: "تطلب الجامعات الخاصة عمومًا كذلك إثباتًا لإتقان اللغة الإنجليزية. ويقدّم الطلبة المحليون عادةً نتائج MUET، فيما قد تُقبل مؤهلات معادِلة مثل IELTS أو TOEFL بحسب البرنامج والمؤسسة."
 
 lang: "ar"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "مجلس الامتحانات الماليزي", "MPM", "نطاق MUET", "القبول الجامعي", "STPM", "إتقان اللغة الإنجليزية", "درجة البكالوريوس"]
 framework: explainer
+stayFacts:
+  who: 'هذا موجَّه إلى طلاب ما قبل الجامعة (STPM أو التأهيلي (matriculation) أو الأساسي (foundation) أو الدبلوم) المتقدّمين لدرجة البكالوريوس، الذين يمثّل MUET بالنسبة إليهم بوّابة إتقان الإنجليزية الإلزامية في الجامعات العامة.'
+  how: 'اجلس لأوراق MUET الأربع — الاستماع والتحدّث والقراءة والكتابة — عبر المجلس الماليزي للامتحانات (MPM)؛ وتُترجَم درجتك الإجمالية إلى نطاق (band)، ويحدّد مجلس كل جامعة (Senate) النطاق الأدنى المطلوب لكل برنامج.'
+  cost: 'تحدّد MPM الرسوم، وهي أعلى لغير المواطنين ولنسخة MUET on Demand المحوسبة، وهي متغيّرة — تأكّد من الرسم الحالي عبر بوابة MPM (mpm.edu.my) بدلاً من الاعتماد على رقم منقول.'
+  watch: 'لا يوجد نطاق نجاح واحد — فالحد الأدنى يتفاوت بحسب البرنامج ويحدّده مجلس كل جامعة (Senate). والنتائج صالحة خمس سنوات، لذا قد يعني الجلوس للامتحان مبكّراً جداً أن تنتهي صلاحيتها قبل أن تتقدّم.'
+  next: 'تحقّق من النطاق الأدنى لبرنامجك المستهدَف على موقع الجامعة، وسجّل مبكراً عبر MPM، وتتبّع صلاحية الخمس سنوات. راجع مقال الجامعات العامة مقابل الخاصة.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'صفوف من الطلاب يجلسون إلى مقاعد فردية يؤدّون امتحانًا في قاعة جامعية في ماليزيا، مع مراقب يسير بين الممرّات.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: منظر داخلي لقاعة مدرسية ماليزية كبيرة تُستخدم مقرًّا للامتحانات، بمنصّة وصفوف من مساحات الأرضية.
+    kind: representative
+    origin: third-party
+    subject: قاعة مدرسية ماليزية تُستخدم لأداء الامتحانات
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: منظر جوّي لمجمّع قاعات المحاضرات في حرم جامعة ماليزية.
+    kind: representative
+    origin: third-party
+    subject: مجمّع قاعات المحاضرات في Sultan Idris Education University (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 قد تتفوّق في STPM أو في التهيئة الجامعية، لكن من دون نتيجة واحدة إضافية يبقى نموذج طلبك للدرجة الجامعية ناقصًا. تلك النتيجة هي MUET — وكثير من الطلبة لا يدركون أهميتها إلا وقد اقترب موعد إغلاق طلبات الجامعة.

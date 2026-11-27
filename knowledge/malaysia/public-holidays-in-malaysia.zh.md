@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: '夜空中绚丽的烟花在国家石油双子塔和吉隆坡城市天际线上方绽放。'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: 吉隆坡中环广场（KL Sentral）为屠妖节在地面上铺设的一幅巨大而色彩鲜艳的孔雀形kolam，由彩色粉末制成。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中环广场（KL Sentral）的屠妖节孔雀kolam地面图案
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: 在马来西亚农历新年街头庆典上，几只色彩鲜艳的舞狮头——粉色、黄色和白色——聚集在店铺门前，其中还有一名红色大头娃娃表演者。
+    kind: actual
+    origin: third-party
+    subject: 沙巴山打根的农历新年舞狮队
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 在马来西亚各地筹划一趟旅程、一场产品发布或一次发薪作业，你很快就会发现一件令外来者措手不及的事：在吉隆坡是公共假期的一天，在古晋可能只是寻常的工作日，反之亦然。与其说马来西亚有一份全国性的假期名单，不如说它是一个全国层级再叠上十三个州层级。

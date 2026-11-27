@@ -34,7 +34,7 @@ faq:
     a: "कोई HIV-विशिष्ट कानून नहीं है। खतरनाक बीमारियों के फैलाव पर दंड संहिता (Penal Code) के सामान्य प्रावधान जैसे धारा 269 और 270 लागू हो सकते हैं, लेकिन आज तक HIV से संबंधित कोई ज्ञात अभियोजन नहीं हुआ है।"
 
 lang: "hi"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "HIV परीक्षण", "PrEP", "PEP", "ART", "यौन स्वास्थ्य", "Majlis AIDS Malaysia", "स्वास्थ्य मंत्रालय"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'सादे सफ़ेद पृष्ठभूमि पर, HIV/AIDS जागरूकता का अंतरराष्ट्रीय प्रतीक, एक लाल जागरूकता रिबन।'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: एक स्वच्छ कागज़ से ढकी मेज़ पर रखा एक रैपिड HIV टेस्ट कैसेट, बफ़र की बोतल और सामग्री, दस्ताने पहने हाथों द्वारा संभाले जा रहे, कोई चेहरा नहीं दिखाया गया
+    kind: representative
+    origin: third-party
+    subject: परीक्षण से पहले एक मेज़ पर रखी गई एक HIV रैपिड टेस्ट किट, दस्ताने पहने हाथों के साथ
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: एक सड़क के कोने पर एक नीची सार्वजनिक यौन-स्वास्थ्य क्लिनिक इमारत, जिसके अग्रभाग पर जागरूकता बैनर हैं और कोई व्यक्ति मौजूद नहीं
+    kind: representative
+    origin: third-party
+    subject: स्वास्थ्य-जागरूकता बैनरों वाली एक सार्वजनिक यौन-स्वास्थ्य क्लिनिक का बाहरी भाग
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 किसी जोखिम भरी रात के बाद चिंतित कोई व्यक्ति मलेशिया में किसी सरकारी Klinik Kesihatan में जा सकता है, निःशुल्क और गोपनीय रूप से HIV परीक्षण करा सकता है, और — यदि आवश्यक हो — कुछ ही घंटों में निवारक दवा के साथ घर लौट सकता है। फिर भी वही रास्ता गोपनीयता, कानून, धर्म और कलंक के उन प्रश्नों से भी टकराता है जो HIV को देश के सबसे संवेदनशील स्वास्थ्य विषयों में से एक बनाते हैं।

@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 
 status: "published"
 aiAssisted: true
@@ -79,9 +79,37 @@ sources:
 entity: "Malaysia aerospace industry"
 relations:
   - { rel: "related-to", to: "economy" }
-related: []
+related: ["manufacturing-industry-overview", "construction-industry"]
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: '明るく天井の高い航空機整備格納庫の中に駐機する、数機の商用ジェット旅客機'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: グリーンのプライマー塗装が施された旅客機の胴体が整列し、作業員が広大な航空機組立工場の内部で作業している様子
+    kind: representative
+    origin: third-party
+    subject: 大規模な航空宇宙工場内の組立ラインに並ぶ航空機の胴体
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: 格納庫内で小型航空機のエンジンと4枚羽根のプロペラを整備する2人の航空機整備技術者
+    kind: representative
+    origin: third-party
+    subject: 整備格納庫で航空機のエンジンとプロペラを整備する技術者
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 航空機はトゥールーズやシアトルで製造されるかもしれないが、その三十年にわたる耐用年数のどこかの時点で、エンジンを開け、構造を点検し、アビオニクスを更新する必要が生じる——そしてマレーシアは、その作業をますますスバン（Subang）やスナイ（Senai）で行いたいと考えている。どの組立ラインよりも、この志向こそが、この国の航空宇宙産業の形を説明している。

@@ -28,7 +28,7 @@ faq:
   - q: "கல்வி அமைச்சின் வரவுசெலவுத் திட்டம் எவ்வளவு பெரியது?"
     a: "Budget 2026-இன் கீழ், KPM RM66.2 billion பெற்றது — எந்தவொரு கூட்டாட்சி அமைச்சையும்விட மிகப்பெரிய ஒதுக்கீடு — இது 2025-இல் இருந்த RM64.2 billion-ஐ விட அதிகம். இந்த ஒதுக்கீட்டில் 520-க்கும் மேற்பட்ட பாழடைந்த பள்ளிகளைப் புதுப்பிக்கவும் 38 புதிய பள்ளிகளைக் கட்டவும் கிட்டத்தட்ட RM2 billion அடங்கும்."
 lang: "ta"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,9 +82,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'மேகம் நிறைந்த வானத்திற்குக் கீழே, நுனிமுனை கோபுரங்களும் உயர்ந்த வளைவு நடு பகுதியும் கொண்ட மூரிஷ்-இஸ்லாமிய பாணியில் கம்பீரமான சமச்சீர் பழுப்பு அரசாங்கக் கோபுரம்; நுழைவுக்கு மேல் KEMENTERIAN PENDIDIKAN MALAYSIA என்ற சொற்கள், இருபுறமும் தாழ்ந்த இறக்கைகள்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: கல்வி அமைச்சகக் கட்டிடத்தின் வளைவு நுழைவாயில் முகப்பின் அருகிலான காட்சி; வாயிலுக்கு மேலே நீல நிற KEMENTERIAN PENDIDIKAN MALAYSIA எழுத்துகளும் தங்க நிற தேசியச் சின்னமும், கம்பங்களில் பறக்கும் மலேசிய மற்றும் மாநிலக் கொடிகளுடன்
+    kind: actual
+    origin: third-party
+    subject: KEMENTERIAN PENDIDIKAN MALAYSIA பலகை மற்றும் தேசியச் சின்னத்துடன், புத்ராஜெயாவில் உள்ள மலேசிய கல்வி அமைச்சக தலைமையகத்தின் முதன்மை நுழைவாயில்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: நுழைவுச் சாலையிலிருந்து பார்த்த மலேசிய கல்வி அமைச்சக தலைமையகத்தின் முழு படிநிலை முகப்பு; பிரகாசமான மேகமூட்டமான வானத்தின் கீழ் கார் நிறுத்துமிடத்திற்கு மேலே மலேசியக் கொடிகள் வரிசையாக உள்ள அதன் அலங்கார மைய கோபுரமும் சமச்சீரான இறக்கைகளும்
+    kind: actual
+    origin: third-party
+    subject: புத்ராஜெயாவில் நுழைவுச் சாலையிலிருந்து பார்த்த மலேசிய கல்வி அமைச்சக தலைமையக வளாகத்தின் அகன்ற முன்புறக் காட்சி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 ஒரு மலேசியப் பள்ளி மாணவனைப் பற்றியது என்றால் — அவர்கள் படிக்கும் பாடத்திட்டம், அவர்களது மேசையிலுள்ள பாடநூல், அவர்கள் எழுதும் தேசியத் தேர்வு, அல்லது வகுப்பறையின் முன்னால் நிற்கும் அரசுப் பள்ளி ஆசிரியர் — அது கல்வி அமைச்சின் பொறுப்பாகும். மலாய் மொழியில் **Kementerian Pendidikan Malaysia** என அறியப்படும் இது எப்போதும் **KPM** எனச் சுருக்கப்படுகிறது; இதுவே நாட்டின் பல்கலைக்கழகத்துக்கு முந்தைய கல்வி முறையை நடத்தும் கூட்டாட்சி அமைச்சாகும். அது நடத்தாதது *எது* என்றால் — பல்கலைக்கழகங்கள்; இந்த எல்லை பலரையும் குழப்பத்தில் ஆழ்த்துகிறது.

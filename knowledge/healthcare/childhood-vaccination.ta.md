@@ -26,7 +26,7 @@ verificationNeeded:
   - "கூடுதல்/விருப்பத் தடுப்பூசிகளின் விவரங்கள் (எடுத்துக்காட்டாக, கட்டணத்திற்கு வழங்கப்படும் கட்டாயமற்ற தடுப்பூசிகள்) எழுதப்பட்ட நேரத்தில் KKM-இன் அதிகாரப்பூர்வ மூலங்களில் உறுதிப்படுத்த முடியவில்லை, எனவே இக்கட்டுரையில் அவை குறிப்பாகக் கூறப்படவில்லை."
 
 lang: "ta"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'குழந்தைகளுக்கு ஏற்ற ''I''m vaccinated'' சுவரோவியத்துடன், குழந்தைகளுக்காக அமைக்கப்பட்ட மலேசிய சுகாதார அமைச்சக தடுப்பூசி மையம்.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: KKM முத்திரையும் வரிசையான காத்திருப்பு நாற்காலிகளும் கொண்ட மலேசிய சுகாதார அமைச்சின் குழந்தைகள் தடுப்பூசி மையம், சிலர் மட்டுமே தொலைவில் தெரிகிறார்கள்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், பெவிலியன் புக்கிட் ஜலீலில் உள்ள சுகாதார அமைச்சின் குழந்தைகள் தடுப்பூசி மையம் (PPV PICKids)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: முன்கூட்டியே நிரப்பப்பட்ட தடுப்பூசி ஊசிக்கு அருகில் நிற்கும் மூடிய தடுப்பூசி குப்பி, நோய்த்தடுப்பு அட்டவணையின் கீழ் வழங்கப்படும் தடுப்பூசிகளைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு வெற்று மேற்பரப்பில் ஒரு தடுப்பூசி குப்பியும் முன்கூட்டியே நிரப்பப்பட்ட இன்ஃப்ளூயென்சா தடுப்பூசி ஊசியும்
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 மலேசியாவின் ஒரு அரசாங்க கிளினிக்கிலோ மருத்துவமனையிலோ பிறக்கும் ஒவ்வொரு குழந்தையும் ஒரு தற்காலிக பிறப்புச் சான்றிதழை மட்டும் அல்ல — அடுத்த ஆறு ஆண்டுகளுக்கு *ஒவ்வொரு* கிளினிக் வருகைக்கும் கொண்டு செல்லப்படும் ஒரு சிறிய புத்தகத்தையும் எடுத்துச் செல்கிறது. அந்தப் புத்தகமும், அது பதிவு செய்யும் தடுப்பூசி அட்டவணையும், நாட்டின் மிக நீண்ட காலமாக இயங்கி வரும் பொதுச் சுகாதார திட்டங்களில் ஒன்றின் ஒரு பகுதியாகும்.

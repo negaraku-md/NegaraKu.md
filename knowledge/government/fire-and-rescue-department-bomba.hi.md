@@ -29,7 +29,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,11 +69,38 @@ entity: "Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Ma
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["fire-safety-and-prevention-malaysia", "mers-999-emergency-numbers", "civil-defence-force-apm"]
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
 framework: profile
+hero: '/media/government/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'एक मलेशियाई अग्निशमन केंद्र का अग्रभाग जिसके पाँच रोलर-शटर दरवाज़ों पर विशाल लाल शब्द BOMBA लिखा है और ऊपर ''Balai Bomba dan Penyelamat Jalan Kubu'' पढ़ता एक पीला साइन, लाल लालटेनों से सजा'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: छत पर मुड़ी हुई हवाई सीढ़ी के साथ BOMBA चिह्नित एक चमकीला लाल Scania दमकल वाहन, मलेशियाई राष्ट्रीय दिवस परेड के दौरान ताड़ के पेड़ों से घिरे एक बुलेवार्ड पर खड़ा
+    kind: actual
+    origin: third-party
+    subject: कुआंतान, पहांग में 2023 के राष्ट्रीय दिवस परेड में मलेशिया के Bomba का एक लाल Scania हवाई-सीढ़ी दमकल वाहन
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: नेवी-ब्लू टी-शर्ट और नारंगी-छलावरण पतलून पहने मलेशियाई अग्निशमनकर्मियों का एक समूह अपने फायर स्टेशन के खंडों के भीतर BOMBA चिह्नित दो लाल दमकल वाहनों के सामने खड़ा और बैठा हुआ
+    kind: actual
+    origin: third-party
+    subject: सबा के Balai Bomba Sandakan में मलेशियाई अग्निशमनकर्मी, अपने लाल BOMBA दमकल वाहनों के सामने खड़े
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 मलेशिया में किसी से भी पूछिए कि जब कोई इमारत जल रही हो या कोई फँसा हो तो किसे बुलाएँ, और उत्तर एक ही शब्द होगा: **Bomba**। **मलेशिया का अग्निशमन एवं बचाव विभाग** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), जिसे लगभग हर कोई केवल **BOMBA** के रूप में जानता है — वह संघीय एजेंसी है जो देशभर में अग्निशमन, बचाव, ख़तरनाक-सामग्री प्रतिक्रिया और अग्नि-सुरक्षा प्रवर्तन के लिए उत्तरदायी है। यह [**आवास एवं स्थानीय सरकार मंत्रालय**](/hi/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) के अधीन एक एजेंसी है, और आपात स्थिति में इसे **999** डायल करके पहुँचा जाता है।

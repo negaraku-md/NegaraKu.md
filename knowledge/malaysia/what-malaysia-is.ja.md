@@ -20,7 +20,7 @@ appliesTo: "特定の機関を深く掘り下げる前に、この国が憲法�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -54,6 +54,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'マレーシアの行政地図。西に半島マレーシア、東にボルネオ島のサバとサラワクが描かれ、主要都市が記されている。'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: 赤と金色の中国式門楼の上に金色の龍が飾られ、青い看板に「JALAN PETALING／PETALING STREET」と記され、その下に多言語の歓迎の横断幕が掛かる、クアラルンプールのチャイナタウン。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのチャイナタウンにあるプタリン通りの装飾門
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: 高くそびえる金色のムルガン神像が、ジャングルに覆われた石灰岩の崖を登る色鮮やかな急な階段の脇に立ち、参拝者たちが上っていく。
+    kind: actual
+    origin: third-party
+    subject: スランゴール州バトゥ洞窟の金色のムルガン神像とレインボー階段
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 マレーシアは、一つの政府に治められた一つの場所ではない。それは連邦——十三州と三連邦直轄区が縫い合わされてできた単一の国であり、数百キロメートルの南シナ海によって隔てられた二つの陸地の上に位置している。まずこの構造を理解することが、この国に関するほとんど他のすべてを理解しやすくする。

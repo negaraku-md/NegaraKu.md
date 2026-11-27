@@ -42,7 +42,7 @@ sources:
     publisher: "PubMed"
 
 lang: "th"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ drinkFacts:
   halal: "น้ำทุเรียนเทศคือเนื้อผลไม้ปั่นกับน้ำหรือนมและน้ำตาล ไม่มีแอลกอฮอล์ ตัวเครื่องดื่มจึงฮาลาล การรับประกันฮาลาลผูกอยู่กับสถานประกอบการ ดังนั้นผู้ที่ต้องการการรับรองควรตรวจสอบกับแผงแต่ละแห่ง"
   served: "เสิร์ฟเย็น ปั่นสดตามสั่ง — เบากว่าด้วยน้ำเปล่า เข้มข้นกว่าด้วยนมในแบบสมูทตี้ เป็นเครื่องดื่มผลไม้ที่สดชื่น; ดื่มเพลิน ๆ ในฐานะนั้น และพึงทราบว่าการอ้างด้านสุขภาพและ 'ต้านมะเร็ง' ที่ผูกกับทุเรียนเทศยังไม่ได้รับการพิสูจน์ในมนุษย์และไม่ใช่สิ่งทดแทนการรักษาพยาบาล"
   where: "พบได้ตามร้านน้ำผลไม้ แผงหาบเร่ และแผงผลไม้ทั่วประเทศ ที่ใดก็ตามที่มีการปั่นน้ำผลไม้เขตร้อนสด ๆ"
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'กองทุเรียนเทศสีเขียวมีหนามสดบนแผงตลาด พร้อมมะละกอและกล้วยอยู่ด้านหลัง'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: ผลทุเรียนเทศ (soursop) สีเขียวมีหนามในชามโลหะ ข้างตะกร้าสีน้ำเงินของมะนาวสีเขียวสดใสที่ตลาด
+    kind: actual
+    origin: third-party
+    subject: ผลทุเรียนเทศทั้งลูกข้างตะกร้ามะนาวสดที่แผงผลไม้
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 หนามแหลม สีเขียว และหนัก **ทุเรียนเทศ** เมื่อมองแวบแรกดูเหมือนทุเรียนลูกเล็ก —

@@ -40,7 +40,7 @@ faq:
     a: "잘란 툰 탄 청 록 48 & 50번지에 있는 이 박물관은 화요일에 휴관합니다. 평일(화요일 제외)에는 오전 10시~오후 4시 15분, 주말에는 오전 10시~오후 4시 45분에 개관합니다. 시간과 가격은 바뀔 수 있으므로 방문 전 박물관 공식 사이트에서 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: '걸어서 둘러보는 아담한 UNESCO 유산 핵심부를 원하는 여행자에게 적합합니다 — 말레이 술탄국, 포르투갈, 네덜란드 유적에 더해 페라나칸(바바 뇨냐) 뇨냐 음식까지, 주말 여행으로 손쉽게 소화할 수 있습니다.'
+  getThere: '쿠알라룸푸르에서 도로로 약 두 시간 운전 거리로, 흔한 주말 여행지입니다.'
+  watch: '요일에 맞춰 계획하십시오 — 존커 거리(Jonker Street) 야시장은 금요일부터 일요일 저녁에만 열리고 평일에는 평범한 숍하우스 거리이며 — 무료 사적인 아 파모사(A Famosa) 성문을 교외의 별개 시설인 아파모사 리조트(A''Famosa Resort) 테마파크와 혼동하지 마십시오.'
+  next: '방문 전에 현재의 개장 요일과 시간을 바바 & 뇨냐 유산 박물관(Baba & Nyonya Heritage Museum) 공식 웹사이트에서 확인하십시오. 바뀔 수 있습니다.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: '멜라카 더치 스퀘어의 빅토리아 분수와 시장 가판대 뒤편에 선 테라코타색 네덜란드 스타다위스 건물'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: 구시가지의 청록빛 말라카 강을 따라 알록달록한 유산 상점가와 나무들 옆을 지나는 강 유람선
+    kind: actual
+    origin: third-party
+    subject: 구시가지 상점가 사이를 지나는 말라카 강 유람선
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: 1908년 타밀 감리교회 옆, 말라카 차이나타운 거리 입구를 표시하는 존커 워크 관문 아치
+    kind: actual
+    origin: third-party
+    subject: 타밀 감리교회 옆 존커 워크 관문 아치
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 해 질 녘 더치 스퀘어(Dutch Square)에 서면 한눈에 다섯 세기를 읽을 수 있습니다. 한쪽에는 연어빛 붉은 네덜란드 시청, 위쪽 언덕에는 포르투갈 시대 교회의 폐허, 영국이 허물려 했던 요새를 한때 지탱했던 돌문, 그리고 — 2분 거리에 — 금요일 밤 시장을 위해 불을 밝힌 중국-말레이 타운하우스 골목이 있습니다. 믈라카는 역사를 큰 도시에 펼쳐 놓지 않습니다. 오후 한나절이면 걸을 수 있는 약 1제곱마일에 켜켜이 쌓아 둡니다. 이를 어떻게 읽고, 그 주변으로 방문을 어떻게 계획하는지 소개합니다.

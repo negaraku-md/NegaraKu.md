@@ -78,6 +78,13 @@ entity: "मलेशियाई राज्यों के बीच स्�
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'कुआला लंपुर, मेलाका और जोहोर के शहरों के लिए हरे ऊपरी दिशा-संकेतकों के पास से गुज़रती बहु-लेन एक्सप्रेसवे पर कारें, बगल में ताड़-तेल के बागान और पहाड़ियाँ।'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया के भीतर घर बदलना ऐसा महसूस होता है मानो इससे फिर से पंजीकरण का एक पहाड़ खड़ा हो जाना चाहिए — नए दस्तावेज़, नए नंबर, हर एजेंसी के साथ एकदम नई शुरुआत। अधिकांशतः ऐसा नहीं होता। इसका कारण संरचनात्मक है: **मलेशिया में आपके जीवन का जो कुछ भी आधिकारिक लगता है, उसका अधिकांश हिस्सा संघीय है**, और संघीय प्रणालियाँ हर राज्य में एक समान काम करती हैं, इसलिए वे बस आपके साथ चलती हैं। जो वास्तव में बदलता है वह एक छोटी, अधिक स्थानीय परत है — और यह जानना कि कौन-सी कौन-सी है, एक डराने वाले स्थानांतरण को एक छोटी चेकलिस्ट में बदल देता है।

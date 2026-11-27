@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami cara permainan gasing dimainkan, perbedaan antara gasing pangkah dan gasing uri, serta kaitannya dengan warisan Pantai Timur."
 
 lang: "id"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,34 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Dua gasing Melayu berbentuk cakram dari kayu berpelitur merah, masing-masing dililit erat tali pelempar putih, bertumpu pada kotak hitam berukir dan kain batik ungu-emas yang mencolok, dengan gasing polos yang lebih berat di sampingnya'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: Dua gasing kayu yang baru dibubut berwarna pucat dengan bentuk badan cakram pipih klasik dan tonjolan di tengah, tergeletak di atas hamparan serutan kayu di samping gagang peluncur berbentuk silinder halus dalam sinar matahari hangat
+    kind: actual
+    origin: third-party
+    subject: dua gasing gaya Melayu yang baru dibubut dari kayu beserta pasak peluncurnya
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: Seorang anak laki-laki berpakaian olahraga oranye mencondongkan badan saat melontarkan gasing dari seutas tali putih panjang ke atas papan kayu, sebuah gasing yang telah berputar sudah berada di atas papan sementara kerumunan penonton menyaksikan dengan saksama di belakangnya
+    kind: representative
+    origin: third-party
+    subject: seorang peserta muda melontarkan gasing dengan talinya pada lomba gasing tradisional
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 Suaranya yang lebih dulu sampai — hantaman kayu berat menabrak kayu berat, disusul sorakan. Di sebuah lapangan kampung sekitar Kuala Nerus, Terengganu, dua kelompok berdiri berhadapan. Seorang melemparkan gasingnya dengan tali; satu lagi sudah berputar menunggu di tanah. Yang menang bukan yang tercepat — melainkan yang gasingnya masih berputar setelah ditabrak.

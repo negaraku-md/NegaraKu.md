@@ -23,7 +23,7 @@ verificationNeeded:
   - "Cet article n'indique pas les effectifs d'admission par programme, les proportions de quotas ni des montants de frais précis pour un quelconque établissement — ceux-ci varient selon le programme et le campus et changent à chaque admission ; confirmez directement auprès de l'e-Panduan de l'UPU (pour les universités publiques) ou de l'établissement concerné (pour les universités privées) avant de postuler."
   - "Le nombre exact actuel de prestataires IPTS enregistrés n'est pas indiqué ici car les tableaux statistiques publiés par le MOHE (Statistik Pendidikan Tinggi) n'ont pas été ouverts en totalité pour cet article — pour un chiffre précis et actuel, consultez directement la publication Statistik Pendidikan Tinggi du MOHE."
 lang: "fr"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,39 @@ faq:
   - q: Un programme n'est que « provisoirement accrédité » — cela signifie-t-il qu'il n'est pas accrédité ?
     a: Non. Selon le Code de pratique pour l'accréditation des programmes de la MQA, l'accréditation provisoire confirme qu'un programme a satisfait aux exigences de qualité minimales pour être proposé légalement, et elle constitue elle-même une condition de l'approbation du ministère. L'accréditation complète est l'évaluation plus approfondie menée une fois qu'une première promotion a suivi le programme. Un programme accrédité à titre provisoire est légitime et peut être proposé légalement ; il n'a simplement pas encore achevé l'évaluation du cycle complet.
 framework: explainer
+stayFacts:
+  who: 'Ceci s''adresse aux titulaires du SPM, STPM, matriculation, foundation, UEC, A-Level ou d''un diplôme qui choisissent entre une université publique (IPTA/Universiti Awam) et une université privée (IPTS).'
+  how: 'Les universités publiques admettent presque entièrement via l''UPU (Unit Pusat Universiti), le système centralisé en ligne du ministère — vous classez vos préférences de programmes et êtes apparié au mérite face à des places limitées par quotas. Les établissements privés se situent hors de l''UPU, gèrent directement leurs propres admissions en continu et acceptent un éventail plus large de titres.'
+  cost: 'La candidature UPU elle-même est gratuite, même si vous achetez un Unik ID à 12 chiffres auprès du Bank Simpanan Nasional (BSN) pour vous connecter ; les frais des établissements privés sont fixés par programme et évoluent, confirmez donc les montants actuels auprès de l''e-Panduan de l''UPU ou de l''établissement.'
+  watch: 'L''étiquette IPTA/IPTS ne vous dit pas si un diplôme est reconnu — cela dépend de savoir si le programme précis est accrédité par la MQA sur le MQR, ce que vous devriez vérifier pour votre année d''admission exacte. Vous ne pouvez pas postuler à une université privée via l''UPU.'
+  next: 'Décidez à partir du titre que vous détenez, puis vérifiez le programme et l''année d''admission exacts sur le Registre des qualifications de Malaisie avant de vous inscrire dans l''un ou l''autre type d''établissement. Voir l''explication de l''accréditation MQA et Avant de payer un acompte à un collège.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'Un long hall moderniste en béton brut avec l''inscription bleue « Dewan Tunku Canselor » et un escalier extérieur, précédé de jardins topiaires et d''une route déserte'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Un bâtiment administratif universitaire de plusieurs étages en verre bleu avec une tour centrale arrondie sur une colline paysagée, précédé d'escaliers en terrasses bordés de drapeaux
+    kind: representative
+    origin: third-party
+    subject: le bâtiment moderne en verre de la chancellerie de l'Universiti Teknologi MARA (UiTM), l'une des plus grandes universités publiques de Malaisie
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Un portail d'entrée universitaire à piliers de pierre portant l'enseigne « Universiti Sains Malaysia », flanqué de mâts de drapeaux et d'une végétation dense sous un ciel couvert
+    kind: representative
+    origin: third-party
+    subject: le portail d'entrée principal de l'Universiti Sains Malaysia (USM), une université publique de recherche, à Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Deux étudiantes ayant les mêmes résultats au SPM se retrouvent dans des systèmes

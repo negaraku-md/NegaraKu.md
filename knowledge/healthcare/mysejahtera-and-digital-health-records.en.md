@@ -29,7 +29,7 @@ faq:
     a: "The Auditor General's Report tabled in Parliament in February 2023 revealed that the personal information of 3 million vaccine recipients had been downloaded through a 'Super Admin' account of the MyVAS system between 28 and 31 October 2021."
 
 lang: "en"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,35 @@ wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'A printed MySejahtera check-in QR notice at a Malaysian store, part of Malaysia''s digital health platform'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: A person holds a smartphone displaying a store list of health and medical apps, illustrating consumer digital-health tools on a phone
+    kind: representative
+    origin: third-party
+    subject: A hand holding a smartphone showing a list of personal health apps
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: A clinician seated at a workstation with several screens showing an ECG trace, an ultrasound image and a video feed, representing a hospital digital health-records and IT system
+    kind: representative
+    origin: third-party
+    subject: A clinician at a multi-monitor medical IT workstation reviewing digital patient data
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 Many people deleted MySejahtera from their phones when the pandemic subsided — but the app did not disappear. It simply changed jobs.

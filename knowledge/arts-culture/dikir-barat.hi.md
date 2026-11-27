@@ -18,7 +18,7 @@ keyTakeaways:
   - "यह कला-रूप दक्षिणी थाईलैंड की एक दिकिर परंपरा से जुड़ा है जिसे कलंतान में पंतुन और कलंतानी बोली के जोड़ के साथ अनुकूलित किया गया"
 appliesTo: "हर वह व्यक्ति जो दिकिर बारात के प्रदर्शन-रूप, तुकांग कारुत और तोक जुआरा की भूमिकाओं, और एक मंडली की संरचना को समझना चाहता है।"
 lang: "hi"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,34 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "दिकिर बारात", "tukang karut", "tok juara", "awok-awok", "Kelantan", "कलंतान", "pantun berbalas", "प्रदर्शन कला", "राष्ट्रीय विरासत"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'हरी-सुनहरी पोशाक और ऊँची मुड़ी हुई टोपियाँ पहने दो दिकिर बारात कलाकार ज़मीन पर बैठकर एक साथ हाथों के इशारे करते और मुस्कुराते हुए, सामने ज़मीन पर रबाना ढोलक और पीछे गुलाबी फूल'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: हरे-और-सुनहरे पोशाकों और ऊँचे शिरोभूषणों में बैठे दिकिर बारात कलाकारों की एक कतार एक रात की प्रस्तुति के दौरान एक साथ ताली बजाती और मुस्कुराती है, उनके सामने ज़मीन पर रेबाना हस्त-ढोल रखे हैं
+    kind: representative
+    origin: third-party
+    subject: एक साथ ताली बजाते बैठे दिकिर बारात कलाकारों (अवोक-अवोक) की कतार (साझा मलय परंपरा, चिंगाय, सिंगापुर)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: एक महिला मुख्य गायिका एक माइक्रोफ़ोन में गाती है जबकि लाल हेडबैंड के साथ काले में छात्र-कलाकारों की एक बैठी कतार एक साथ ताली बजाती है, एक रेबाना ढोल और एक घंटे के साथ, एक मलेशियाई स्कूल हॉल में
+    kind: actual
+    origin: third-party
+    subject: मलेशिया में एक मुख्य गायिका, ताली बजाते अवोक-अवोक समूह और ताल-वाद्य के साथ स्कूल का दिकिर बारात समूह
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 दो दल पालथी मारकर बैठते हैं, मंच पर एक-दूसरे के आमने-सामने। कोई पटकथा नहीं होती। जब पहला दल बढ़ती कीमतों पर व्यंग्यात्मक [पंतुन](/hi/arts-culture/pantun) (pantun) का एक दौर समाप्त करता है, तो दूसरे दल के पास प्रत्युत्तर रचने के लिए केवल कुछ ही सेकंड होते हैं — और उसे तुकबंदी वाला होना चाहिए, ताल पर आना चाहिए, और आदर्श रूप से मूल पद से अधिक तीक्ष्ण होना चाहिए।

@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures（現FGV Holdings）は、FELDAの農園を管理する投資部門である。2012年6月28日にブルサ・マレーシアに上場し、IPO当時は約112,600名の入植者が経営する約500,000ヘクタールを管理していた。"
 
 lang: "ja"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
-related: []
+related: ["palm-oil-industry", "rubber-industry", "agricultural-subsidies-farm-input-support"]
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'マレーシアにある、FELDAアイルヒタム入植地の入口を示す道路脇のアーチ。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: ジョホール州クライのFELDAブキット・バトゥ入植地で、ダイオウヤシと入植者の住宅が並ぶ静かな道路
+    kind: actual
+    origin: third-party
+    subject: ジョホール州FELDAブキット・バトゥのヤシ並木道沿いに建つ入植者の住宅
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: サバ州FELDAサハバト入植団地にある、煙突のそびえるFajar Harapanパーム油製油所
+    kind: actual
+    origin: third-party
+    subject: サバ州FELDAサハバト団地内のFajar Harapanパーム油製油所
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 貧しい家族が伐採されたばかりの森へ移り住まされ、一区画の土地と月々の手当てを与えられ、ゴムや油やしの木が実を結ぶまで何年も待つよう求められる——そんな場面を想像してほしい。これこそが、マレーシア農村部の10万を超える家族の人生を変えた申し出であり、その原動力こそがFELDAであった。

@@ -34,7 +34,7 @@ faq:
     a: "السياسة الوطنية للإنشاءات NCP 2030 هي سياسة أُطلقت في أسبوع الإنشاءات الدولي ICW 2021، عقب انتهاء برنامج تحول صناعة الإنشاءات (CITP) 2016–2020. وتحدد ستة محاور استراتيجية لتحويل قطاع الإنشاءات نحو العصر الرقمي بحلول 2030، بما في ذلك هدف رقمنة 50% من دورة الصناعة."
 
 lang: "ar"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["صناعة الإنشاءات", "industri pembinaan", "CIDB", "درجات المقاولين", "gred kontraktor", "G1 G7", "Akta 520", "البطاقة الخضراء", "kad hijau", "تسجيل المقاولين", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'حفر أساسات عميقة في موقع بناء ناطحة سحاب في كوالالمبور، مع رافعات برجية ودعامات إسناد حمراء وعمّال، تعلوها أفق المدينة.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: رافعات برجية تعلو مبنى شاهقًا قيد الإنشاء في وسط Kuala Lumpur، ماليزيا.
+    kind: representative
+    origin: third-party
+    subject: موقع إنشاء مبنى شاهق في Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: برج شقق مخدومة من الخرسانة المسلّحة قيد الإنشاء في Jalan Kuda Emas قرب Bukit Jalil، Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: إنشاء شقق مخدومة قرب Bukit Jalil، Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 حاول أن تُشيّد سياج مدرسة بقيمة RM250,000 دون أن تحمل شهادة تسجيل مقاول، وقد يُؤمَر مشروعك بالتوقف فوراً — قبل أن تُغرَس أول دعامة. ففي ماليزيا، لا يبدأ الحق في البناء بالآلات أو العمالة؛ بل يبدأ بتسجيل واحد.

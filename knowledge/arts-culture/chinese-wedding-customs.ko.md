@@ -32,7 +32,7 @@ faq:
   - q: "혼례에는 반드시 붉은색과 길일을 써야 하나요? 어떤 금기가 있나요?"
     a: "붉은색과 '囍'(쌍희) 글자는 중국계 혼례를 가장 대표하는 경사의 색과 기호로, 청첩장·예물·신방·장식에 흔히 쓰이며 혼례에는 '길일'을 고르는 것이 일반적입니다. 흔한 유의 사항으로 축의금과 예물에 짝수를 선호하고, 발음이 불길한 숫자를 피하며, 임신부나 상중인 사람이 일부 단계를 피하는 것 등이 있습니다. 다만 이를 얼마나 엄격히 지키는지는 가정의 신앙과 방언 집단에 따라 다르며, 많은 가정은 일부만 남기고 나머지는 간소화합니다."
 lang: "ko"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: '붉은색으로 꾸민 말레이시아 중국식 전통 혼례 무대, 위에 큰 붉은 쌍희(囍) 종이 공예 현수막이 걸리고 조상 제단에 파인애플·귤·사과·용 모양 촛불이 놓였으며, 다례를 위한 짙은 목재 조각 의자 두 개가 앞에 놓이고 양쪽에 신랑신부의 이름이 분홍 글자로 적힌 모습'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: 붉은 쟁반에 놓인 광택 있는 붉은색 중국 혼례 찻잔 세트로, 금빛 쌍희(囍) 글자로 장식된 찻주전자와 그 주위에 둘러놓은 짝을 이루는 작은 붉은 찻잔 다섯 개, 신랑 신부가 어른들에게 차를 올릴 때 쓰는 것
+    kind: representative
+    origin: third-party
+    subject: 중국 혼례 차례(茶禮)에서 쓰는 붉은-금색 쌍희 찻주전자와 찻잔
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: 유리 박물관 진열장에 전시된, 각 층마다 금빛 인물, 꽃, 새, 물고기로 정교하게 장식한 키 큰 층단식 검은 옻칠 바쿨 시아 혼례 선물 바구니로, 두 집안 사이에 상징적인 예물을 나르는 데 쓰인 것
+    kind: representative
+    origin: third-party
+    subject: 해협 중국인(스트레이츠 차이니스) 혼례에서 두 집안 사이에 예물을 나르는 데 쓰는 층단식 옻칠 바구니 바쿨 시아
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 날이 채 밝기도 전에, 한 줄로 늘어선 차들이 이미 신부 집 앞에 멈춰 섰다. 신랑은 꽃다발을 안고 뒤에 몇 명의 '형제'를 거느렸지만, 문 안에서 고개를 내민 몇몇 '자매'에게 가로막힌다. 먼저 질문에 답하고, 한 소절 노래하고, 아주 얇게 썬 라임 몇 조각을 먹고, 마지막으로 문틈으로 앙파우 몇 개를 밀어 넣는다——이 '문 통과'(闖門) 관문을 넘어야 비로소 문이 열리고, 신랑은 온통 붉은 차림의 신부를 만날 수 있다. 장난과 흥겨움으로 가득한 이런 아침이 말레이시아의 많은 중국계 혼례 당일의 서막이다.

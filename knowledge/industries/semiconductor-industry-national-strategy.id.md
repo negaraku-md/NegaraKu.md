@@ -36,7 +36,7 @@ faq:
     a: "NSS menargetkan untuk melatih dan meningkatkan keterampilan 60,000 insinyur Malaysia berketerampilan tinggi — sekitar 30,000 dibina melalui Kementerian Pendidikan dan sekitar 30,000 talenta teknis dan vokasional (TVET) dari kementerian lain."
 
 lang: "id"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Tampak sangat dekat die sirkuit terpadu memperlihatkan sirkuit on-chip perak dan ungu yang rumit, dengan kawat ikat emas tipis memancar ke lead kemasan emas'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: Sebuah wafer silikon bundar berukuran 300 milimeter dilihat dari atas, tertutup kisi-kisi teratur die chip berbentuk persegi panjang dengan warna difraksi pelangi di seluruh permukaannya
+    kind: representative
+    origin: third-party
+    subject: Sebuah wafer silikon 12 inci (300 mm) berpola kisi-kisi die chip
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: Sebuah wafer silikon yang berputar tertutup genangan mengkilap fotoresis merah tua pada mesin spin-coater, dengan resis terlontar ke luar dalam bentuk semprotan halus
+    kind: representative
+    origin: third-party
+    subject: Sebuah wafer silikon sedang dilapisi fotoresis dengan spin-coating selama fabrikasi chip
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Hampir setiap ponsel, laptop dan mobil di Bumi membawa cip yang menghabiskan sebagian hidupnya di Malaysia — dikemas, diuji dan dikirim dari sebuah pabrik di Pulau Pinang atau Lembah Klang. Namun selama lima puluh tahun negara ini melakukan bagian kerja yang paling kurang menarik dan bermargin paling rendah dalam kerja itu: bagian belakang. Strategi Semikonduktor Nasional adalah upaya Malaysia untuk mengubah bagian mana dari cip yang dimilikinya.

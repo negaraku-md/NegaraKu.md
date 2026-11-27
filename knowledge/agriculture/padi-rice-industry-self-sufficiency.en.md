@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 
 status: "published"
 aiAssisted: true
@@ -88,6 +88,32 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'A green rice paddy with a scarecrow and forested hills behind in Langkawi, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: A yellow combine harvester cutting ripe golden paddy in a rice field in Kelantan
+    kind: actual
+    origin: third-party
+    subject: A combine harvester cutting ripe paddy in Kelantan
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: A field of ripe golden rice ready for harvest with a forested hill behind, in Langkawi, Kedah
+    kind: actual
+    origin: third-party
+    subject: A ripe golden paddy field ready for harvest in Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 Every time rice prices rise or supermarket shelves run empty, an old question comes back to haunt Malaysia: why does a country so rich in padi fields still need to import nearly half its rice? The answer lies in an industry driven by subsidies, protected by guaranteed prices, and chased by a self-sufficiency target that has yet to be reached.

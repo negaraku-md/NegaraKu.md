@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 
 status: "published"
 aiAssisted: true
@@ -103,6 +103,34 @@ keywords:
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'தெளிந்த வானத்திற்குக் கீழே, அழகுபடுத்தப்பட்ட பூங்கா நடைபாதைக்கு மேல் உயரும், Iskandar Puteri Medini-ல் உள்ள மெருகேறிய கரும்-கண்ணாடி பெருநிறுவன அலுவலக கோபுரம்'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: ஜொகூரில் Forest City-இன் வான்வழிக் காட்சி; நீரிணைக்கு அருகில் மீட்டெடுக்கப்பட்ட கடற்கரையில் கட்டுமானத்தில் உள்ள கடற்கரையோர உயர்-கோபுரங்களும் வெள்ளை நிற வில்லா கட்டிடங்களின் வரிசைகளும்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் நீரிணையில் ஜொகூரில் உள்ள கொடி எல்லை-தாண்டிய மேம்பாடான Forest City; சிங்கப்பூரை நோக்கி நீரை முன்னோக்கி கட்டுமானத்தில் உள்ள கோபுரங்களும் வில்லா கட்டிடங்களுடன்
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: நிலக்காட்சி அமைக்கப்பட்ட வட்டச்சாலையில் பெரிய சாலையோர 'Iskandar Puteri' அடையாள பலகை; பின்னணி வானளாவியில் அலுவலக மற்றும் வணிக கோபுரங்களும் கட்டுமான கிரேன்களுடன்
+    kind: actual
+    origin: third-party
+    subject: பின்னணி வானளாவியில் உயர்ந்து நிற்கும் மண்டலத்தின் வணிக கோபுரங்கள் மற்றும் கிரேன்களுடன் கூடிய Iskandar Puteri நுழைவாயில் அடையாள பலகை
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 ஜொகூர்-சிங்கப்பூர் சிறப்புப் பொருளாதார மண்டலம் குறித்த ஒவ்வொரு சுருக்கமும் அதே எண்ணிக்கையுடன் தொடங்குகிறது: 15 ஆண்டுகளுக்கு 5 சதவீதம். இது ஒரு உண்மையான எண். ஆனால் இது தொகுப்பிலேயே மிகக் குறைந்த பயனுள்ள செய்தியும் கூட, ஏனெனில் அதைப் படிக்கும் கிட்டத்தட்ட யாருமே தகுதி பெறமாட்டார்கள்.

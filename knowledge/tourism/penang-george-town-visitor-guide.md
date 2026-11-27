@@ -7,6 +7,15 @@ category: "tourism"
 subcategory: ["destinations"]
 summary: "A verified visitor guide to Penang island and its UNESCO-listed capital George Town — the heritage core, street art, hawker food, beaches and Penang Hill, plus how to get there and how many days to plan."
 
+hero: "/media/tourism/penang-george-town-visitor-guide/hero.webp"
+heroAlt: "The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: "Leong San Tong Khoo Kongsi, George Town"
+
 tier: "1"
 mode: "practical"
 contentType: "guide"
@@ -81,9 +90,33 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'Travellers who want to explore a walkable UNESCO heritage core of shophouses, clan houses, Ernest Zacharevic''s street art and multicultural hawker food on foot.'
+  getThere: 'Fly into Penang International Airport south of George Town, or reach the island overland via the Penang Bridge and the Sultan Abdul Halim Muadzam Shah Bridge, or take the Rapid Ferry from Butterworth to the George Town waterfront.'
+  watch: 'Treat the street art as a gateway rather than the whole story, since the clan houses, temples and shophouse streets are what the UNESCO listing actually protects.'
+  next: 'Confirm current funicular schedules and rules with the Penang Hill Corporation.'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Red Chinese lanterns strung above Armenian Street, lined with colourful heritage shophouses and cafes, in George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: A row of brightly decorated passenger trishaws with flowers and umbrellas lined up in front of heritage buildings in George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: George Town trishaws
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Land on the island, step out of the air-conditioning, and the first thing that hits you is the smell — wok smoke, incense from a Chinese temple, frangipani, and the salt of the Strait of Malacca. George Town is a place you read with your feet: a compact grid of century-old shophouses where a mosque, a clan house and a colonial church can share a single block. This guide covers what to see, where to eat, how to reach the beaches and the hill, and how long to give a city that rewards slowness.

@@ -32,7 +32,7 @@ faq:
     a: "ஆம். இரண்டும் Bursa Malaysia-இன் Main Market-இல் வர்த்தகம் செய்யப்படுகின்றன. Top Glove கூடுதலாக Singapore Exchange-இன் Mainboard-இல் பட்டியலிடப்பட்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: 'ஒரு கையுறை உற்பத்தி வரிசையின் நெருக்கமான காட்சி; ஈரமான நீல லேடெக்ஸ் பூசப்பட்ட கை வடிவ வார்ப்புகள் வரிசையாகத் தொங்கி, கீழே நீல திரவத் தட்டில் சொட்டுகின்றன; பின்னணியில் வார்ப்புகளில் புதிதாக நனைக்கப்பட்ட வெள்ளை கையுறைகள்'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: வெள்ளை ஆய்வக அங்கி, பாதுகாப்பு கண்ணாடி மற்றும் நீல நைட்ரைல் கையுறைகள் அணிந்த ஒரு தொழில்நுட்ப வல்லுநர், கசிவுகளைச் சரிபார்க்க நீர் நிரப்பப்பட்ட தெளிவான சோதனை கையுறையை உயர்த்திப் பிடித்துள்ளார்; அவருக்குப் பின்னால் ஆய்வகத்தில் சோதனை அலமாரியில் கையுறைகள் வரிசையாகத் தொங்குகின்றன
+    kind: representative
+    origin: third-party
+    subject: ஆய்வகத்தில் ஒருமுறை-பயன் மருத்துவ கையுறைகளின் தரச் சோதனை (கையுறைத் தொழிற் தர சோதனையை விளக்கும்; இது Top Glove வசதி அல்ல)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 இரு மலேசிய நிறுவனங்கள் தத்தமது துறைகளில் உலகளவில் முன்னணி வகிக்கின்றன. ஒன்று உலகின் மிகப்பெரிய பயன்படுத்தி-எறியும் கையுறை தயாரிப்பாளர்; மற்றொன்று தென்கிழக்கு ஆசியாவின் மிகப்பெரிய முதன்மை அலுமினியம் உருக்காலை. இரண்டும் முதலீட்டு வட்டங்களுக்கு வெளியே பரவலாக அறியப்படாதவை; இருப்பினும் Top Glove மற்றும் Press Metal, ஒரு நடுத்தர அளவிலான பொருளாதாரம் எவ்வாறு தனித்-துறை உலகத் தலைவர்களை உருவாக்க முடியும் என்பதைக் காட்டுகின்றன.

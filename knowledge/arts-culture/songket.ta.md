@@ -33,7 +33,7 @@ faq:
     a: "பாரம்பரியமாகப் பெண்கள். சொங்கெட் நெசவு எப்போதும் பெண்களின் கைகளிலேயே இருந்து வருகிறது என UNESCO பதிவு செய்கிறது; ஆண்கள் நெசவு உபகரணங்களைச் செய்வதன் மூலம் இந்த நடைமுறையில் பங்கேற்கிறார்கள். இந்த அறிவு குடும்பங்களுக்கும் கிராமங்களுக்கும் உள்ளேயே கடத்தப்படுகிறது, மேலும் சில நிறுவனங்கள் பயிற்சி திட்டங்களையும் வழங்குகின்றன."
 
 lang: "ta"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,34 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'கையால் நெய்த songket துணியின் விரிவான நெருக்கமான காட்சி; மின்னும் தங்க நூலால் அடர்த்தியான மலர் மற்றும் வைர உருவங்கள் பின்னப்பட்ட ஆழ்ந்த சிவப்பு பட்டு, மாறுபட்ட நடு பலகையுடன்'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: தட்டையாக விரித்துக் காட்டப்பட்ட ஒரு முழு செவ்வக சோங்கெட் துணி; தங்க நூல் மலர் வடிவங்கள் கொண்ட இரண்டு சிவப்பு பக்கப் பலகைகள், இளஞ்சிவப்பு தங்க நிற மைய பலகையை இருபுறமும் சூழ்ந்துள்ளன
+    kind: actual
+    origin: third-party
+    subject: தங்க சரிகைப் பகுதியையும் மைய தலைப் பலகையையும் காட்டும், தட்டையாக விரிக்கப்பட்ட திரெங்கானுவின் முழு மலேசிய சோங்கெட் இடுப்புத் துணி (கெய்ன்)
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: நெய்த உலோக நூலால் மினுமினுக்கும் பச்சை-தங்க நிற சோங்கெட் துணியால் செய்யப்பட்டு, ஒரு நிலையில் காட்டப்பட்டுள்ள, முக்கோண வடிவில் மடிக்கப்பட்ட மலாய் தலைப்பாகை (தஞ்சாக்)
+    kind: actual
+    origin: third-party
+    subject: திரெங்கானுவிலிருந்து, தங்க சோங்கெட் துணியால் செய்யப்பட்ட, மடிக்கப்பட்ட மலாய் தலைப்பாகையான தஞ்சாக்
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 ஒரு சொங்கெட் பட்டறையில் அதிகம் கேட்கும் ஒலி இயந்திரத்தின் ஒலி அல்ல. அது மரம் அழுத்தப்படும், இழை இழுக்கப்படும், ஒரு மூங்கில் ஊசி உள்ளே செருகப்பட்டு வெளியே இழுக்கப்படும் ஒலி — மீண்டும் மீண்டும், ஒரு நேரத்தில் ஒரு வரிசை வடிவம், நாள் முழுவதும்.

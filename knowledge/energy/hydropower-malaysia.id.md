@@ -32,7 +32,7 @@ faq:
     a: "Tidak. Bendungan Baram, yang diperkirakan menenggelamkan 412 km persegi dan memindahkan ~20,000 orang, ditangguhkan melalui moratorium pada 2015 dan dibatalkan secara resmi pada 2016 setelah protes masyarakat adat yang berlarut-larut."
 
 lang: "id"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'Pemandangan udara tanggul abu-abu lebar Bendungan Bakun bertuliskan BAKUN, saluran pelimpah panjang dan rumah pembangkit di tepi sungainya, berlatar waduk luas dan bukit berhutan Sarawak'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'Di dalam rumah pembangkit Bendungan Murum: barisan unit generator hidro silindris biru bernomor 1 dan 2 berdiri di lantai mengilap di bawah aula tinggi dengan derek atas berwarna kuning'
+    kind: actual
+    origin: third-party
+    subject: interior rumah pembangkit Bendungan Murum yang memperlihatkan unit-unit generator pembangkit listrik tenaga air
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: Dinding beton Bendungan Murum dan dua saluran pelimpah kembar yang menahan waduk, dilihat dari kejauhan melintasi perbukitan hutan hujan Sarawak yang hijau lebat
+    kind: actual
+    origin: third-party
+    subject: bendungan pembangkit listrik tenaga air Murum di Sarawak dilihat dari seberang perbukitan berhutan
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 Air yang mengalir turun dari pegunungan hujan Borneo kini memutar turbin yang memasok pabrik aluminium — dan itulah inti strategi energi terbarukan Malaysia. Namun jalan menuju ke sana ditandai bendungan mega, danau seluas ratusan kilometer persegi, dan ribuan keluarga adat yang terpaksa berpindah.

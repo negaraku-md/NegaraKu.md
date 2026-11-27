@@ -38,7 +38,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,34 @@ relations:
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
 framework: profile
+hero: '/media/government/rmcd-kastam/hero.webp'
+heroAlt: 'Sebuah bangunan kerajaan biru langit terang di bawah langit biru cerah, bahagian hadapan bergewangnya membawa jata Kastam Diraja Malaysia di atas tulisan emas tertulis Kastam Diraja Malaysia, terletak di antara pepohon hijau di Lahad Datu, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: Bangunan ibu pejabat Jabatan Kastam Diraja Malaysia berbilang tingkat berwarna krim di Putrajaya, dengan fasad atasnya bertulis Jabatan Kastam Diraja Malaysia, dilihat dari jalan menerusi tabir pokok tepi jalan
+    kind: actual
+    origin: third-party
+    subject: Ibu pejabat Jabatan Kastam Diraja Malaysia di pusat pentadbiran persekutuan, Putrajaya
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: Sebuah bangunan kastam dua tingkat berwarna pic dan krim dalam cahaya suam membawa papan tanda Wisma Kastam Sabah dan Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department, dengan tugu papan tanda biru dan laluan masuk berbumbung di Kota Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah, bangunan negeri Jabatan Kastam Diraja Malaysia di Kota Kinabalu, Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 Dua agensi, satu kementerian, dan satu garis pemisah yang hampir tiada siapa

@@ -81,6 +81,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'Pusat Konvensi Kuala Lumpur pada malam hari, atap berbentuk gelombang dan fasad kacanya bercahaya hangat di atas halaman depan berpaving basah dengan tiang baja miring.'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ketika 3.2 juta delegasi terbang masuk untuk sebuah konferensi, mereka memesan hotel, menyewa penerjemah, memenuhi restoran dan menandatangani perjanjian — dan Malaysia telah menghabiskan lebih dari satu dekade membangun tempat serta biro untuk meraih mereka.

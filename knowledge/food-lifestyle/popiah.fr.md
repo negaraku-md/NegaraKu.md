@@ -100,6 +100,7 @@ dishFacts:
   halal: "Le popiah n'est pas uniformément halal : les recettes varient largement d'une communauté à l'autre, et dans certains cadres de hawkers non halal on y ajoute du saindoux de porc frit, tandis que les rouleaux plus riches peuvent inclure de la saucisse chinoise. En règle durable, il vaut mieux se renseigner à chaque stand — des versions à base de légumes et aux crevettes existent aux côtés de celles contenant du porc."
   eat: "Un popiah s'assemble autant qu'il se cuisine : la peau est striée de sauce sucrée et de piment, garnie de laitue, de sengkuang chaud, d'œuf, de germes, de cacahuètes et d'échalotes, puis roulée en un cylindre bien dodu et tranchée en bouchées. C'est souvent un moment partagé — une 'popiah party' conviviale où les garnitures sont disposées et où chacun roule son propre rouleau à son goût."
   where: "Le popiah fait partie du monde de la street food des hawkers et des pasar malam malaisiens, tout en étant tout autant un plat de maison. À Penang, il est largement vendu par les hawkers chinois sous le nom de 'poh piah' ; à Melaka, longtemps un cœur peranakan, le rouleau frais est fortement lié à la cuisine nyonya, certains stands étant assez réputés pour que les habitués réservent leurs rouleaux à l'avance."
+wikidata: "Q3092677"
 ---
 
 Demandez un rouleau de printemps en Malaisie et vous pourriez recevoir l'une de deux choses très

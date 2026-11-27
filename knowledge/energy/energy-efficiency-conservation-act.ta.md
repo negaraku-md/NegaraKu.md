@@ -78,9 +78,10 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "supersedes", to: "efficient-management-electrical-energy-regulations-2008" }
   - { rel: "affects", to: "commercial-buildings-malaysia" }
-related: []
+related: ["energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition", "seda-malaysia"]
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
 framework: rules
+wikidata: "Q142235995"
 ---
 
 உங்கள் தொழிற்சாலை அல்லது அலுவலகக் கட்டிடம் ஆண்டுக்கு மில்லியன் கணக்கான ரிங்கிட் மதிப்புள்ள சக்தியைப் பயன்படுத்தினால், ஒவ்வொரு கிகாஜூலும் எங்கே செல்கிறது என்பதை அரசாங்கம் இப்போது அறிய விரும்புகிறது — மேலும் வீணாக்கலைக் குறைக்கும் முயற்சியை நீங்கள் காட்ட வேண்டும் என்றும் எதிர்பார்க்கிறது. அதுதான் 2024ஆம் ஆண்டு சக்தி திறன் மற்றும் சேமிப்புச் சட்டம், அல்லது Akta 861 எனப்படும் இந்தச் சட்டத்தின் மையக் கருத்து; இது 2025 ஜனவரி 1 முதல் நடைமுறைக்கு வந்துள்ளது.

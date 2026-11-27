@@ -41,7 +41,7 @@ faq:
     a: "La date exacte est contestée. Certains documents situent la fondation de l'instance dirigeante nationale en 1926, tandis que d'autres renvoient à 1933, lorsque la Football Association of Malaya, basée à Singapour, a repris la gestion de la Malaya Cup. Ce qui est clair et vérifiable, c'est son rôle actuel d'instance dirigeante nationale, membre de l'AFC, et fondatrice de l'AFF en 1984."
 
 lang: "fr"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'Le stade national de Bukit Jalil illuminé par les projecteurs et bondé de supporters domine un match de football en cours.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: Un match de football en cours sur la pelouse du Stadium Tuanku Abdul Rahman à Paroi, Seremban, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Un match de football au Stadium Tuanku Abdul Rahman à Paroi, Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: Un terrain de futsal public en plein air dans un quartier résidentiel de Kota Damansara, Petaling Jaya, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Un terrain de futsal de quartier à Kota Damansara, Selangor, cadre populaire du football malaisien
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 En 1921, Singapour a battu Selangor 2-1 en finale d'un nouveau tournoi de football en Malaya. Plus d'un siècle plus tard, cette compétition — aujourd'hui connue sous le nom de Coupe de Malaisie — demeure la couronne la plus prestigieuse du sport le plus aimé du pays.

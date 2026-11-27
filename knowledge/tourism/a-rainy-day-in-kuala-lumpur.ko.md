@@ -33,7 +33,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["비 오는 날 쿠알라룸푸르", "KL 실내 활동", "대중교통으로 KL 여행", "KLCC Bukit Bintang 보행로", "Suria KLCC 철도", "Aquaria KLCC 가는 법", "Petrosains", "Muzium Negara MRT", "철도로 가는 KL 쇼핑몰"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: '쿠알라룸푸르 구시가 잘란 팡공의 오래된 기와지붕 숍하우스 위로 쏟아지는 열대 폭우가 줄무늬를 그리는 모습'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: '''Central Market Since 1888''이라 적힌 쿠알라룸푸르 센트럴 마켓(파사르 세니)의 연한 파란색 아르데코 정면'
+    kind: actual
+    origin: third-party
+    subject: 센트럴 마켓(파사르 세니)의 아르데코 정면, 쿠알라룸푸르
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: 걸린 각 주의 깃발 아래 공예품과 바틱 노점이 늘어선, 쿠알라룸푸르 센트럴 마켓 내부의 북적이는 2층 지붕 아케이드
+    kind: actual
+    origin: third-party
+    subject: 센트럴 마켓의 지붕 덮인 공예품 아케이드 내부, 쿠알라룸푸르
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 쿠알라룸푸르의 비는 빠르고 거세게 쏟아져서, 야외 일정은 몇 분 만에 무너질 수

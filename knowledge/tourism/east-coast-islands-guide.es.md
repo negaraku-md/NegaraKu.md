@@ -31,7 +31,7 @@ faq:
     a: "No. La pesca está prohibida dentro de los límites del parque marino, y los visitantes no pueden recoger ninguna parte de un organismo marino —vivo o muerto— incluidos fragmentos de coral y conchas, ni tocar, pisar o dañar de otro modo el coral."
 
 lang: "es"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "parque marino", "tasa de conservación", "monzón del noreste", "islas de Malasia", "snorkel", "buceo"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Viajeros de playa y arrecife — practicantes de esnórquel y buceadores que buscan viajes a islas de parques marinos, desde playas de mochilero hasta resorts con paquetes.'
+  getThere: 'En barco desde el embarcadero continental propio de cada isla: Merang para Redang, Kuala Besut para Perhentian y Marang para Kapas en Terengganu, y Mersing o Tanjung Gemok para Tioman en Pahang.'
+  permit: 'Una tasa obligatoria de conservación del parque marino, que se paga en un mostrador de la terminal del embarcadero continental antes de embarcar y que es independiente del precio del barco.'
+  watch: 'No hay un único cierre obligatorio, pero la mayoría de los operadores de las islas cierran voluntariamente durante el monzón del nordeste, así que cerca de esos meses confirme los traslados en barco antes de pagar.'
+  next: 'Confirme las tasas de conservación vigentes y las normas de los parques marinos con el Departamento de Pesca de Malasia (Department of Fisheries Malaysia).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Playa vacía de arena blanca con cantos rodados de granito erosionados, un árbol solitario y aguas someras turquesas bajo un cielo azul con nubes cúmulo en las Islas Perhentian'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Amplia playa de arena blanca que se curva hacia un pequeño islote rocoso boscoso, con agua turquesa y palmeras en Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: La larga playa de arena blanca de Pulau Redang con su islote rocoso y agua turquesa, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Vista elevada sobre tejados de chalés rústicos y palmeras hacia una bahía turquesa radiante salpicada de pequeñas barcas y un promontorio boscoso en las Islas Perhentian
+    kind: actual
+    origin: third-party
+    subject: Vista elevada sobre un pueblo playero y su bahía turquesa salpicada de barcas en las Islas Perhentian, base popular para el snorkel
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Preséntese en un complejo de playa de Redang en diciembre y probablemente encontrará las embarcaciones ausentes, el embarcadero en silencio y la tienda de buceo cerrada. Las islas de la costa este se rigen por un calendario escrito por el mar, no por el folleto turístico, y por un conjunto de normas de parque marino que la mayoría de los recién llegados solo descubren en la taquilla.

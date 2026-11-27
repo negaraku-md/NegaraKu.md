@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -97,9 +97,36 @@ sources:
     publisher: "Padiberas Nasional Berhad (BERNAS)"
 entity: "Padi and rice industry in Malaysia"
 relations: []
-related: []
+related: ["food-security-self-sufficiency-policy", "agricultural-subsidies-farm-input-support", "ministry-of-agriculture-food-security-and-agencies"]
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'かすむ地平線までまっすぐ伸びる水を張った細い用水路の両側に広がる、鮮やかな緑の水田'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: 熟れかけた水田に、竿に掛けた布のかかし。背後に澄んだ青空の下、森に覆われた丘と村の家々
+    kind: actual
+    origin: third-party
+    subject: ケダ州ランカウイで、素朴なかかしのある熟れかけた黄金がかった緑の稲、背景に森に覆われた石灰岩の丘とカンポン
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: 曇り空の下、広く鮮やかな緑の水田の間の草の小道を歩く少人数の人々
+    kind: actual
+    origin: third-party
+    subject: スランゴール州スキンチャンで、鮮やかな緑の水田を貫く畦道を歩く来訪者たち
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 米は、マレーシアが自由市場に委ねることを拒む唯一の食料である。国家は栽培地を集中させ、栽培する農家を支え、不足分の輸入を単一企業に許可し、供給ショックに備えて緊急備蓄を保有している。しかし、この体制が数十年続いた後も、この国が自ら生産する米は依然として消費量のおよそ半分にすぎない。

@@ -21,7 +21,7 @@ appliesTo: "القرّاء الذين يتتبّعون كيف تشكّلت ال�
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "التاريخ الدقيق لإعلان وان أحمد سلطانًا يُعطى بصورة متضاربة عبر المصادر — فقد تولّى اللقب عام 1881، مع إعلان رسمي ذُكر في 8 سبتمبر 1881 وتنصيب رسمي لاحق مؤرَّخ إلى 1884؛ وينبغي التأكد من التسلسل الدقيق مقابل مصدر علمي مثل كتاب لينيهان «تاريخ باهانغ»."
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: 'قصر أبيض فخم من حقبة الاستعمار بأسقف من القرميد الأحمر وخط جاوي فوق مدخله المقوّس، ينعكس في بركة ماء ساكنة يحيط بها تماثيل لطيور الكركي تحت سماء غائمة.'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: مسجد ولاية السلطان أحمد شاه (Sultan Ahmad Shah State Mosque) في كوانتان، تعلوه قبة مركزية كبيرة وتحيط به مآذن عالية، مشاهَد من الأمام بالكامل.
+    kind: actual
+    origin: third-party
+    subject: مسجد ولاية السلطان أحمد شاه (Sultan Ahmad Shah State Mosque)، كوانتان، باهانغ
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: مبنى أبيض متناظر من الحقبة الاستعمارية بسقف من القرميد الأحمر وباب مركزي مقوّس، ينعكس في بركة ماء ساكنة تزيّنها تماثيل الكركي، ويضمّ متحف السلطان أبو بكر (Sultan Abu Bakar Museum) في Pekan.
+    kind: actual
+    origin: third-party
+    subject: متحف السلطان أبو بكر (Sultan Abu Bakar Museum) (القصر الملكي السابق)، Pekan، باهانغ
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 على طول نهر باهانغ، حيث لا تزال بلدة بيكان (Pekan) الملكية القديمة تجلس قرب مصبّ النهر، رُفع عرشٌ ظلّ ساكنًا لقرنين من جديد. ففي عام 1881 اجتمع زعماء باهانغ لا لتتويج غريب بل لاستعادة لقب حملته أرضهم ذات يوم — والرجل الذي أعلنوه سلطانًا كان قد نال ذلك الحق بالطريق الصعب، بهزيمة أخيه غير الشقيق في حرب طويلة ومريرة. هذه هي قصة كيف فُقد تاج باهانغ داخل إمبراطورية أكبر، وكيف أعاده ابن رئيس وزراء.

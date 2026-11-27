@@ -35,7 +35,7 @@ verificationNeeded:
   - "Sahkan bilangan laluan Rural Air Service semasa AirBorneo dan senarai lapangan terbangnya terus dengan AirBorneo atau CAAM, memandangkan laman RAS awam MAVCOM tidak membawa butiran peringkat laluan pada masa penulisan ini dan program itu baru sahaja bertukar pengendali."
 
 lang: "ms"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,33 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["intercity travel Malaysia", "KTM ETS", "KTM Intercity", "express bus Malaysia", "Terminal Bersepadu Selatan", "TBS", "domestic flights Malaysia", "AirBorneo", "MASwings", "Rural Air Service", "Sabah Sarawak flights", "travelling between cities Malaysia"]
 framework: explainer
+hero: '/media/transport/intercity-travel/hero.webp'
+heroAlt: 'Sebuah kereta api elektrik antara bandar KTM ETS Kelas 93 kuning dan biru di platform stesen dengan penumpang menunggu'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: Ruang legar luas Terminal Bersepadu Selatan, terminal bas ekspres bersepadu Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Konkors terminal bas ekspres Terminal Bersepadu Selatan (TBS), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: Sebuah kereta api antara bandar ETS menunggu di platform KL Sentral, hab rangkaian kereta api antara bandar KTM.
+    kind: actual
+    origin: third-party
+    subject: Platform kereta api antara bandar KTM di KL Sentral
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 Terbang ke Kuching, naik bas ke Kuantan, atau naik kereta api ke Butterworth —

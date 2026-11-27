@@ -33,7 +33,7 @@ faq:
     a: "'ขอไฟ' (请火, Chneah Hoay, ในภาษาฮกเกี้ยนหมายถึง 'เพ่งดูไฟ') เป็นพิธีที่เป้าฝูเซ่อในปีนังสืบทอดมากว่าร้อยปี จัดตั้งแต่วันที่ 14 ถึง 16 ของเดือนจันทรคติแรก ณ ศาลตั่วเปะกงไห่จูซวี่ในตันจงโตก็อง โดยการขอไฟอย่างเป็นทางการจะทำในเวลาเที่ยงคืนของเทศกาลโคมไฟ ระหว่างพิธี ไฟและเทียนทั้งหมดในศาลจะถูกดับ สมาชิกจะนำไฟจากเตาไฟในตะกร้าคานหามธูป มาพัดด้วยพัด ทำนายโชคชะตาของปีที่จะมาถึงจากความแรงของเปลวไฟ สามครั้งติดต่อกันโดยแต่ละครั้งสอดคล้องกับสามฤดูกาลของปี ตามประเพณีมีเพียงสมาชิกชายเท่านั้นที่เข้าร่วม เมื่อพิธีเสร็จสิ้นและจุดไฟขึ้นใหม่ สาธารณชนจึงจะเข้าไปสักการะได้ บทความนี้อธิบายเพียงขั้นตอนของพิธีเท่านั้น และไม่ตัดสินความหมายทางศาสนาของพิธี"
 
 lang: "th"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'ซุ้มประตูสีแดงและทองอันวิจิตรของศาลเจ้าตั่วเปกกง (Tua Pek Kong Temple) ในเมืองซีบู (Sibu) ขนาบด้วยสิงโตผู้พิทักษ์ปิดทอง โดยมีเจดีย์สูงเจ็ดชั้นตั้งตระหง่านอยู่ด้านหลังตัดกับท้องฟ้าสีคราม'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: ด้านหน้าสีแดงและหลังคาปูกระเบื้องอันวิจิตรของศาลเจ้าตั่วเป็กก๋งที่ตันจงโตก้ง ปีนัง พร้อมสิงโตผู้พิทักษ์และเทียนธูปสีแดงสูงที่ทางเข้า
+    kind: actual
+    origin: third-party
+    subject: ศาลเจ้าตั่วเป็กก๋งตันจงโตก้ง รัฐปีนัง
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: รูปเทพตั่วเป็กก๋งปิดทองมีเคราประทับนั่งบนแท่นบูชาขนาบด้วยเทพผู้ติดตาม พร้อมเทียนที่จุดไว้และธูปเป็นมัดที่ลอยควันอยู่เบื้องหน้า
+    kind: actual
+    origin: third-party
+    subject: แท่นบูชาเทพตั่วเป็กก๋งที่วัดเพ่งเซียนซี รัฐเประ
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 ริมทะเลที่ตันจงโตก็อง (丹絨道光, Tanjung Tokong) ในปีนัง มีศาลเจ้าแห่งหนึ่งที่ไม่ใหญ่โตนัก เงียบสงบตลอดเกือบทั้งปี ทว่าเมื่อถึงช่วงเทศกาลโคมไฟ สถานการณ์กลับเปลี่ยนไปอย่างสิ้นเชิง ตะกร้าคานหามธูป ฆ้องและกลอง และแถวผู้คนยาวเหยียดเดินทางมาไกลจากจอร์จทาวน์ ยามค่ำคืน ไฟและเทียนทุกดวงในศาลจะถูกดับลง และฝูงชนรวมตัวกันล้อมเตาไฟ กลั้นหายใจพัดไฟ — เปลวไฟพุ่งสูงเพียงใดถูกมองว่าเป็น 'คำพยากรณ์' สำหรับปีที่จะมาถึง ศาลแห่งนี้เองคือต้นธารของความเชื่อตั่วเปะกงในใจของผู้คนมากมาย

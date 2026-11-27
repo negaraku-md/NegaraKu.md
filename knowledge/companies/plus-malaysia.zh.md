@@ -28,7 +28,7 @@ faq:
     a: "根据 2020 年的决定，收费自 2020 年 2 月 1 日起下调 18%，并且在延长后的整个特许经营期内（至 2058 年）不安排任何收费上调。"
 
 lang: "zh"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 framework: profile
+hero: '/media/companies/plus-malaysia/hero.webp'
+heroAlt: '南北大道一段畅通的多车道路面，车流稀疏，左侧路肩有一块黄色''IKUT KIRI Kecuali Memotong''（靠左行驶除超车外）标牌，两旁是绿色路树和低矮林丘，蓝天上散布着云朵'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: 透过挡风玻璃望向 PLUS 高速公路上一处驶近的收费广场，收费亭上方有 Touch 'n Go 和 SmartTAG 车道指示牌，红白相间的车道隔离栏引导车流，映衬阴沉的傍晚天空
+    kind: actual
+    origin: third-party
+    subject: 位于 PLUS 运营的南北大道 235 号出口的 Tangkak 收费广场
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: 一座钢制跨线龙门架横跨南北大道的车道，上面装有橙色可变信息显示屏，前方有稀疏车流和施工路障锥，路边树木映衬灰色多云天空
+    kind: actual
+    origin: third-party
+    subject: 横跨南北大道（PLUS）的一座可变信息跨线龙门架
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 每当你从北部的黑木山（Bukit Kayu Hitam）一路驾车南下至新山（Johor Bahru），中途无需在红绿灯前停下时，你其实正行驶在一家公司的资产之上：PLUS Malaysia Berhad。它不是政府机构，但也不是一般的私营企业——它是一家特许经营方，根据与政府签订的长期协议，运营着国家道路网的骨干。

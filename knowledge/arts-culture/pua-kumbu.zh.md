@@ -34,7 +34,7 @@ faq:
     a: "它用于从出生到死亡的人生过渡仪礼、神圣仪式与治疗仪式，并在传统上与伊班勇士传统紧密相连。它的纹样也被织入妇女的沙笼、男子的兜裆布和巫师的长袍。"
 
 lang: "zh"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ relations:
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
+hero: '/media/arts-culture/pua-kumbu/hero.webp'
+heroAlt: '砂拉越长屋内，一条饰有金色图纹的红色pua kumbu长布绷在背带织机上，旁边摆着编织草席和一只雕花伊班储物箱'
+heroCredit: 'BarbicanMan / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: 一尊真人大小的长发伊班族织女塑像，身体后仰靠在背带织布机上，织着一幅铁锈红与米白色的伊卡经纬扎染布（pua kumbu），经线朝观者方向展开
+    kind: actual
+    origin: third-party
+    subject: 砂拉越古晋纺织博物馆的展示，一名伊班族妇女在背带织布机上织造铁锈色的布阁（pua kumbu）
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 一幅织者不敢在未获"祝福"的情况下擅自创作的布——其纹样据说来自梦境，而在过去，它曾与织造它的族群的勇士传统紧密相连。这就是布娅昆布。

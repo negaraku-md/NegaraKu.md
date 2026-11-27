@@ -32,7 +32,7 @@ faq:
     a: "FGV شركة أعمال زراعية متكاملة تمتد عبر المزارع (نخيل الزيت والمطاط والطاقة المتجددة)، والزيوت والدهون، والسكر، والخدمات اللوجستية والمساندة، والمنتجات الاستهلاكية. ووفق بياناتها الخاصة، تسهم بنحو 3% من الإنتاج العالمي لزيت النخيل الخام."
 
 lang: "ar"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "خصخصة FELDA", "FELDA privatisation", "زيت النخيل ماليزيا", "palm oil Malaysia", "بورصة ماليزيا", "Bursa Malaysia", "شركة مزارع", "مستوطنو FELDA", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'مزرعة نخيل زيت ناضجة تتسلق سفح تلة مع طريق المزرعة في منطقة كوناك، صباح'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: مجمّع مصنع زيت نخيل (سقائف زرقاء ومداخن تنفث البخار) وسط تلال من نخيل الزيت — الجانب التصنيعي من العمل. بلا أشخاص.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: شاحنة قلّابة محمّلة بعناقيد الثمار الطازجة (FFB) عند بوّابة مصنع ('Kilang Apas Balung') — ساق الحصاد/اللوجستيات. يظهر عامل ضئيل غير قابل للتعرّف عند حافة الإطار فقط.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 في عام 2012 كانت حديث السوق — إدراجٌ ضخم احتلّ لفترة وجيزة المرتبة الثانية في العالم خلف فيسبوك. وبعد ثلاثة عشر عامًا انسلّت الشركة نفسها بهدوء خارج بورصة ماليزيا بجزءٍ ضئيل من سعر ظهورها الأول، بعدما اشترتها من جديد الهيئة ذاتها التي طرحتها.

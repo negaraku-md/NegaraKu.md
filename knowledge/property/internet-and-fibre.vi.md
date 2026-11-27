@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang thuê, mua hoặc dọn vào một ngôi nhà ở Malaysia cần đấu nối internet cố định."
 
 lang: "vi"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'Một kỹ thuật viên của Telekom Malaysia đang làm việc tại một điểm phân phối cáp viễn thông bên đường ở Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: Một tòa nhà văn phòng Telekom Malaysia, nhà mạng điện thoại cố định và cáp quang quốc gia, ở Putrajaya
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà văn phòng Telekom Malaysia (TM) ở Putrajaya
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: Một modem cáp quang Unifi nhãn hiệu FiberHome gắn trên tường bên trong một ngôi nhà
+    kind: representative
+    origin: third-party
+    subject: Modem băng thông rộng cáp quang Unifi (ONT FiberHome) lắp đặt trong một ngôi nhà ở Malaysia
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 Trước khi bạn so sánh dù chỉ một ringgit về giá cả, có một câu hỏi quan trọng

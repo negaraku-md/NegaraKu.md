@@ -36,7 +36,7 @@ socialTitle: "Sejarah Melayu から国家文学家まで——マレー文筆の
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,6 +80,32 @@ verificationNeeded:
   - "Hikayat Hang Tuah のような古典作品の実際の著者と年代は、なお正確には確定できない（15世紀から17世紀と推定される）"
   - "A. Samad Said の受賞年は、主要な一覧では1985年と記されているが、同じ資料のナビゲーションボックスでは1986年とされている——1985年として確認済み"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: '金箔を施し花の縁取りが入った『タージュ・アッサラーティーン』（Taj al-Salatin、「王たちの冠」）の冒頭見開き2ページ。ジャウィ文字（Jawi）で書かれた古典マレー文学の写本である。'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: 『ヒカヤット・ムロン・マハワンサ』のジャウィ文字写本の冒頭ページ。ケダの古典年代記で、罫線で囲まれた枠内に流麗なアラビア文字のマレー語で書かれている
+    kind: actual
+    origin: third-party
+    subject: 『ヒカヤット・ムロン・マハワンサ』（ケダ年代記）のジャウィ文字による冒頭ページ
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: マレー古典韻文物語『シャイル・ケン・タンブハン』の写本冒頭を飾る、金・赤・黒の装飾見出し。パンジ物語系の作品である
+    kind: representative
+    origin: third-party
+    subject: マレー韻文物語『シャイル・ケン・タンブハン』写本の装飾見出し
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 ある古い写本に、マラッカの王たちの物語、ハン・トゥアの旅、そして一つの帝国の崩壊が刻まれている——無味乾燥な歴史の記録としてではなく、人物、対話、文筆をもって生き生きと描かれた物語として。その写本、*Sejarah Melayu* すなわち *Sulalatus Salatin* は、マレー語の文筆の伝統がいかに長く豊かであるかを証す最初期の作品のひとつである。

@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 
 status: "published"
 aiAssisted: true
@@ -103,6 +103,33 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'Penang பழக் கடையில், ஒன்று வெட்டப்பட்டு பிரகாசமான மஞ்சள் கஸ்டர்ட் போன்ற சதையைக் காட்டும் முள் நிறைந்த பச்சை durian பழங்களின் குவியல்'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: முள் தோலுக்குள் அமைந்த மென்மையான பொன்-மஞ்சள் சதைச் சுளைகளுடன் பிளக்கப்பட்ட துரியானின் நெருக்கமான தோற்றம்
+    kind: actual
+    origin: third-party
+    subject: முள் தோலுக்குள் ஆழ்ந்த பொன்-மஞ்சள் கிரீமி சதையைக் காட்டும் பிளக்கப்பட்ட மூசாங் கிங் துரியான்
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: குளோன் குறியீடுகளையும் RM விலைகளையும் பட்டியலிடும் கையால் எழுதிய விலை அட்டையருகே அடுக்கப்பட்ட முள் துரியான்கள், அருகில் மங்குஸ்தீன்களும்
+    kind: actual
+    origin: third-party
+    subject: சபா, கோட்டா கினபாலுவில் ஒரு பழச்சந்தையில் குளோன் குறியீட்டால் தரப்படுத்தப்பட்டு கிலோவுக்கு ரிங்கிட்டில் விலையிடப்பட்ட முழு துரியான்கள்
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 ஒரு தசாப்தத்திற்கும் மேலாக, மலேசியத் துரியான் உறைந்த நிலையிலோ அல்லது கூழ் மற்றும் பேஸ்ட்டாகப் பதப்படுத்தப்பட்ட நிலையிலோ மட்டுமே சீனாவுக்குள் நுழைய முடிந்தது. பின்னர், 2024-ன் நடுப்பகுதியில், பல ஆண்டுகளாக மலேசியா நாடிவந்த அணுகலை வென்றது: உலகின் மிகப்பெரிய துரியான் சந்தைக்கு முழு, புதிய துரியானை அனுப்பும் உரிமை.

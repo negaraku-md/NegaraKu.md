@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -72,6 +72,32 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: '黄土色のれんがと白いアーチが連なるムーア様式の長いファサード。銅葺きのドームと高い中央時計塔を頂き、青空が広がる。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: 白く輝く植民地時代のイポー駅。アーチ型の列柱廊とドーム型の塔を備えた長いエドワード様式・ムーア様式の建物で、英国統治下のペラに建てられた。
+    kind: actual
+    origin: third-party
+    subject: ペラ（Perak）にある英国植民地時代の名所、イポー駅（Ipoh Railway Station）
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: 旧クアラ・ルンプール駅の装飾豊かな白いファサード。ムーア様式の馬蹄形アーチ、小ドーム、ミナレット風の尖塔を備えた英国植民地時代の建物で、1910年に完成した。
+    kind: actual
+    origin: third-party
+    subject: 旧クアラ・ルンプール駅（1910年）、ムーア様式の英国時代のターミナル駅
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 九つのマレー州、一つの帝国列強——それでいて、取り決めは一つではなく二つあった。この分裂こそ、植民地時代マラヤについての大半の概説が見落としている点であり、本稿の主題そのものである。

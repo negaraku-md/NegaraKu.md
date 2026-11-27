@@ -37,7 +37,7 @@ faq:
     a: "தோட்டம் மற்றும் பண்டங்கள் அமைச்சின் (Ministry of Plantation and Commodities) கீழ் உள்ள சட்டப்பூர்வ அமைப்பான மலேசிய பாமாயில் வாரியம் (MPOB), பயிரிடுதல் முதல் ஏற்றுமதி வரை ஒவ்வொரு நிலையையும் உரிமம் வழங்கி மேற்பார்வையிடுகிறது, மேலும் தொழில்துறையின் ஆராய்ச்சி மற்றும் மேம்பாட்டை நடத்துகிறது."
 
 lang: "ta"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Sabah Kunak-ல், ஒரு தோட்டச் சாலைக்கு அருகே மலைச்சரிவுகளை மூடும் முதிர்ந்த எண்ணெய்ப் பனைகளின் வரிசைகள்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: சபாவின் Tawau-இல் உள்ள Apas Balung பாமாயில் ஆலையின் நுழைவாயிலில் நிறுத்தப்பட்ட, சிவப்பு நிற எண்ணெய்ப் பனை புதிய பழக் குலைகளால் குவிக்கப்பட்ட ஒரு லாரி
+    kind: actual
+    origin: third-party
+    subject: சபாவின் Tawau-இல் உள்ள Apas Balung பாமாயில் ஆலையில் புதிய பழக் குலைகள் ஏற்றப்பட்ட லாரி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: சபாவின் Kunak-இல் மேகமூட்டமான வானத்தின் கீழ் பரந்த எண்ணெய்ப் பனைத் தோட்டக் கடலுக்கு நடுவே நீராவி எழும் புகைபோக்கியுடன் கூடிய ஒரு பாமாயில் ஆலை
+    kind: actual
+    origin: third-party
+    subject: சபாவின் Kunak மாவட்டத்தில் எண்ணெய்ப் பனைத் தோட்டத்தால் சூழப்பட்ட IOI Baturong பாமாயில் ஆலை
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 பாமாயில் உலகில் மிக அதிகமாக வர்த்தகம் செய்யப்படும் தாவர எண்ணெய் ஆகும், மேலும் மலேசியா — இந்தோனேசியாவுக்கு அடுத்தபடியாக — அதன் இரண்டாவது பெரிய உற்பத்தியாளர் ஆகும். ஜொகூர் முதல் சரவாக்கின் மலைகள் வரை வளர்க்கப்படும் முள்நிறைந்த சிவப்புப் பழக்குலையை, ஆசியா, ஆப்பிரிக்கா மற்றும் ஐரோப்பா முழுவதிலும் உள்ள சந்தைகளுக்கு அனுப்பப்படும் சுத்திகரிக்கப்பட்ட சமையல் எண்ணெய், சோப்புப் பொருட்கள் மற்றும் உயிரிஎரிபொருளாக இது மாற்றுகிறது. மலேசிய பாமாயில் மன்றத்தின் (Malaysian Palm Oil Council, MPOC) படி, இந்தத் தொழில்துறை 3 மில்லியனுக்கும் அதிகமான மலேசியர்களை நேரடியாகவும் மறைமுகமாகவும் ஆதரிக்கிறது, இதில் ஏறத்தாழ 500,000 சிறுபண்ணையாளர்களும் அடங்குவர். மரத்திலிருந்து டேங்கர் கப்பல் வரை அந்த இயந்திரம் எவ்வாறு கட்டமைக்கப்பட்டுள்ளது என்பது இதோ.

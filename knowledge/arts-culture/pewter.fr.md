@@ -17,7 +17,7 @@ keyTakeaways:
   - "L'entreprise n'a adopté son nom actuel qu'en 1992, après une charte royale du Sultan de Selangor en 1979."
 appliesTo: "Toute personne intéressée par les traditions artisanales malaisiennes, l'histoire de l'extraction de l'étain ou Royal Selangor"
 lang: "fr"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -59,6 +59,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'Une artisane au foulard violet et au tablier penchée sur un établi, frappant d''un petit marteau une chope en étain montée sur un gabarit d''acier, avec des rangées de chopes en étain derrière elle'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: Un artisan de l'étain appliquant un outil contre une chope tournant sur un tour, des copeaux de métal s'enroulant au passage, avec environ neuf corps de chopes en étain poli au reflet argenté regroupés sur l'établi en bois
+    kind: actual
+    origin: third-party
+    subject: un artisan malaisien de l'étain façonnant une chope au tour, avec des chopes en étain terminées disposées sur l'établi
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: Une unique chope en étain poli à l'anse épaisse et aux moulures horizontales, sa surface argentée semblable à un miroir captant la lumière sur un fond clair
+    kind: actual
+    origin: third-party
+    subject: une chope en étain poli terminée, munie d'une anse
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 Une ville bâtie sur l'étain a fini par donner au monde un métier métallurgique. Kuala Lumpur existe parce que des prospecteurs ont trouvé du minerai d'étain là où se rejoignent les rivières Klang et Gombak. Des décennies plus tard, un adolescent ferblantier venu travailler dans cette même économie de l'étain s'est mis à forger des brûle-encens pour les autels des temples, et l'atelier qu'il a ouvert est aujourd'hui le plus grand fabricant d'étain-pewter de la planète.

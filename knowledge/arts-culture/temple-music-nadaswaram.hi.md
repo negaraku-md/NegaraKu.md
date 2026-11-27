@@ -32,7 +32,7 @@ faq:
   - q: यह संगीत मलेशिया में किस प्रकार टिका हुआ है?
     a: "मंदिर के वादक, नादस्वरम्–तविल मंडलियाँ और अनेक उरुमि मेलम मंडलियाँ इस परंपरा को आगे बढ़ाती हैं। युवा छोटी उम्र से ही सीखना आरंभ कर देते हैं; कई मंडलियाँ अपनी आय वर्दी, वाद्यों और समूह के भोजन पर खर्च करती हैं और बिना लाभ की सेवा के रूप में काम करती हैं। आज यह परंपरा मंदिरों से बाहर उत्सवों और स्वागत समारोहों में भी गूँजती है।"
 lang: "hi"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
 framework: history-culture
+hero: '/media/arts-culture/temple-music-nadaswaram/hero.webp'
+heroAlt: 'एक चमकीली नक़्शदार चटाई पर सफ़ेद धोती में बैठे दो संगीतकार चौड़े लकड़ी के मुख वाले लंबे काले नादस्वरम वाद्य बजाते हुए'
+heroCredit: 'PJeganathan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_in_South_Indian_Marriage_JEG6722.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: एक हिंदू मंदिर में, एक बैठा व्यक्ति एक लंबा नादस्वरम वायु-पाइप बजाता है जबकि दूसरा एक क्षैतिज थाविल पीपा-ढोल बजाता है
+    kind: representative
+    origin: third-party
+    subject: सिंगापुर के श्री मारिअम्मन हिंदू मंदिर में प्रस्तुति देते नादस्वरम और थाविल वादक
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: एक भड़कीले घंटे वाला नादस्वरम वायु-वाद्य पकड़े एक युवक, पीले डोरियों से बँधा एक गोल थाविल पीपा-ढोल थामे दूसरे व्यक्ति के बगल में
+    kind: representative
+    origin: third-party
+    subject: थाविल पीपा-ढोल वादक के साथ जोड़ी में एक नादस्वरम वादक, मानक दक्षिण भारतीय मंदिर-संगीत जोड़ी
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 थाईपुसम जुलूस की सबसे अगली पंक्ति में, जिस क्षण कोई मंदिर रथ चलना आरंभ करता है, या किसी विवाह मंडप के प्रवेश द्वार पर — मलेशिया के किसी भी तमिल हिंदू आयोजन में, हवा में सबसे पहले जो घुलता है वह एक विशेष ध्वनि ही होती है: नादस्वरम् (nadaswaram) की लंबी धुन और तविल (thavil) की गूँज। वह ध्वनि संयोगवश नहीं है — वह उस **mangala vadyam** (मंगल वाद्य) परंपरा का चिह्न है जो एक शताब्दी से अधिक समय से इस समुदाय के साथ चली आ रही है।

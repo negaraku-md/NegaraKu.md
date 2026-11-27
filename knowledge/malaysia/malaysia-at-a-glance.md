@@ -77,6 +77,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'The illuminated Kuala Lumpur skyline at night, dominated by the Petronas Twin Towers and surrounding skyscrapers.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: A busy night-market food street glows under red paper lanterns as diners fill red plastic tables beside hawker stalls and a durian cart.
+    kind: actual
+    origin: third-party
+    subject: The Jalan Alor night hawker-food street, Kuala Lumpur
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: Endless jungle-covered hills fade into blue haze beneath a cloudy sky, viewed over dense rainforest canopy from a hilltop clearing.
+    kind: actual
+    origin: third-party
+    subject: Rainforest hills of Taman Negara seen from Bukit Terisek, Pahang
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Ask "how big is Malaysia" or "what's Malaysia's population" and you'll get a different answer depending on which website you land on — some quoting 2020 census figures, some quoting a World Bank estimate two revisions behind. This page exists to fix that: every figure below comes from a named official release, dated, so you can see exactly how current it is and check it yourself.

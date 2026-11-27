@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,11 +69,38 @@ entity: "Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Ma
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["fire-safety-and-prevention-malaysia", "mers-999-emergency-numbers", "civil-defence-force-apm"]
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
 framework: profile
+hero: '/media/government/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: '5つのシャッター扉に巨大な赤い文字でBOMBAと綴られ、その上にBalai Bomba dan Penyelamat Jalan Kubuと記す黄色い看板を掲げ、赤い提灯を吊るしたマレーシアの消防署の正面'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: BOMBAと記された鮮やかな赤色のScania消防車。屋根には折りたたまれた梯子を載せ、マレーシアの独立記念日パレードでヤシの木が並ぶ大通りに停車している
+    kind: actual
+    origin: third-party
+    subject: パハン州クアンタンで開かれた2023年独立記念日パレードに登場した、マレーシアBombaの赤いScania製はしご付き消防車
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: 紺色のTシャツとオレンジの迷彩ズボンを着たマレーシアの消防士たちが、消防署の車庫内でBOMBAと記された2台の赤い消防車の前に立ち、あるいはかがんでいる
+    kind: actual
+    origin: third-party
+    subject: サバ州サンダカンのBalai Bomba Sandakanで、赤いBOMBA消防車の前に並んだマレーシアの消防士たち
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 マレーシアで誰かに、建物が燃えているときや人が閉じ込められたときに誰を呼ぶかと尋ねれば、答えは同じ一語である——**ボンバ（Bomba）**。**マレーシア消防救助局**——*Jabatan Bomba dan Penyelamat Malaysia*（**JBPM**）、ほとんど誰もが単に **BOMBA** と呼ぶ——は、全国にわたり消火、救助、危険物対応、防火安全の執行を担う連邦機関である。[**住宅・地方自治省**](/ja/government/ministry-of-housing-local-government-kpkt)（*Kementerian Perumahan dan Kerajaan Tempatan*、KPKT）傘下の機関であり、緊急時には**999**にかけて連絡できる。

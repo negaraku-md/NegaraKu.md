@@ -31,7 +31,7 @@ faq:
     a: "Les directives de 2012 du ministère de la Santé définissent l'interruption de grossesse comme une procédure réalisée à un âge gestationnel inférieur à 22 semaines ou, lorsque l'âge est inconnu, lorsque le fœtus est estimé peser moins de 500 grammes."
 
 lang: "fr"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ entity: "Seksyen 312 Kanun Keseksaan (Akta 574)"
 relations:
   - { rel: "governs", to: "abortion-law-in-malaysia" }
   - { rel: "related-to", to: "medical-act-1971" }
-related: []
+related: ["public-healthcare-system-malaysia", "hiv-aids-and-sexual-health-services", "ministry-of-health-moh"]
 keywords: ["pengguguran", "loi sur l'avortement Malaisie", "Seksyen 312 Kanun Keseksaan", "interruption de grossesse", "Akta Perubatan 1971", "directives KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'L''extérieur de la Klinik Kesihatan Nilai, une clinique de santé publique malaisienne avec la signalétique du ministère de la Santé et le croissant rouge.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: Un bâtiment de clinique de santé gouvernementale de plain-pied avec une entrée couverte, utilisé ici comme illustration neutre des cliniques publiques où sont dispensés les soins et le conseil en santé reproductive
+    kind: representative
+    origin: third-party
+    subject: Extérieur d'une clinique de santé gouvernementale malaisienne (Klinik Kesihatan) à Lekir, Perak
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: Un panneau en bord de route signalant une clinique publique de santé de district en Malaisie, représentant de manière neutre le système de santé publique sans nommer aucun établissement fournissant un service précis
+    kind: representative
+    origin: third-party
+    subject: Panneau d'une clinique de santé gouvernementale de district (Klinik Kesihatan Daerah Raub), Pahang
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 Beaucoup supposent que l'avortement est totalement interdit en Malaisie — en réalité, la loi le place dans un espace plus complexe : une infraction pénale assortie d'une importante exception médicale. Comprendre où se trace cette ligne exige de lire le texte réel du Code pénal, et non de s'en tenir à des impressions générales.

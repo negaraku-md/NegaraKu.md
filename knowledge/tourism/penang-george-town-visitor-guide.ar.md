@@ -36,7 +36,7 @@ faq:
     a: "بينانغ وجهة لكل فصول السنة بمناخ استوائي حارّ ورطب. وقد يهطل المطر في أي شهر لكنه يميل إلى أن يكون أغزر حول فترتَي ما بين الرياح الموسمية (نحو أبريل–مايو وسبتمبر–نوفمبر)؛ والنافذة الأكثر جفافًا وبرودة نحو ديسمبر إلى فبراير شائعة. والصباح والعصر أكثر الأوقات راحةً للمشي."
 
 lang: "ar"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["دليل سفر بينانغ", "Penang travel guide", "جورج تاون اليونسكو", "George Town UNESCO", "فنّ شارع بينانغ", "Penang street art", "قطار تلة بينانغ المائل", "Penang Hill funicular", "طعام باعة بينانغ", "قلب تراث جورج تاون", "Batu Ferringhi", "أشياء تُفعل في بينانغ"]
 framework: explainer
+visitFacts:
+  bestFor: 'المسافرون الراغبون في استكشاف نواة تراثية مُدرجة في قائمة اليونسكو يمكن اجتيازها سيراً من متاجر-بيوت وبيوت عشائر وفنّ شارع Ernest Zacharevic وطعام باعة متعدّد الثقافات على الأقدام.'
+  getThere: 'طِر إلى مطار Penang الدولي جنوب George Town، أو اصل إلى الجزيرة برّاً عبر جسر Penang وجسر Sultan Abdul Halim Muadzam Shah، أو استقل Rapid Ferry من Butterworth إلى واجهة George Town.'
+  watch: 'عامل فنّ الشارع كبوابة لا كالقصة كلها، إذ إن بيوت العشائر والمعابد وشوارع متاجر-البيوت هي ما يحميه إدراج اليونسكو فعلاً.'
+  next: 'تأكّد من جداول القطار المائل (funicular) وقواعده الحالية مع Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: فوانيس صينية حمراء معلّقة فوق Armenian Street، تصطف على جانبيه متاجر تراثية ملوّنة ومقاهٍ، في George Town، Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street، George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: صف من عربات الركاب ذات الثلاث عجلات المزيّنة بألوان زاهية بالأزهار والمظلات مصطفّة أمام مبانٍ تراثية في George Town، Penang
+    kind: actual
+    origin: third-party
+    subject: عربات الثلاث عجلات في George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 اهبِط في الجزيرة، واخرُج من التكييف، وأول ما يصفعك هو الرائحة — دخان الـwok، والبخور من معبد صيني، وزهر الفرنجيباني، وملح مضيق ملقا. جورج تاون مكان تقرؤه بقدمَيك: شبكة متراصّة من البيوت المدينية التي يبلغ عمرها قرنًا، حيث يمكن لمسجد ودار عشيرة وكنيسة استعمارية أن تتشارك مربّعًا واحدًا. ويغطّي هذا الدليل ما تراه، وأين تأكل، وكيف تصل إلى الشواطئ والتلة، وكم من الوقت تمنح مدينةً تكافئ البطء.

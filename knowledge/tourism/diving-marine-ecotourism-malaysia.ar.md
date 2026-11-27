@@ -68,9 +68,22 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: []
+related: ["sipadan-and-semporna", "east-coast-islands-guide", "langkawi-visitor-guide", "sabah-visitor-guide"]
 keywords: ["تصريح الغوص في سيبادان", "رسوم الحدائق البحرية في ماليزيا", "هيئة حدائق صباح", "الحديقة البحرية لدائرة مصايد الأسماك", "الغوص بالأسطوانات في ماليزيا", "السياحة البيئية البحرية", "Sipadan diving permit", "Sabah Parks", "scuba diving Malaysia", "marine ecotourism"]
-framework: rules
+framework: rules
+visitFacts:
+  bestFor: 'الغوّاصون الترفيهيون والغطّاسون السطحيون (والمشغّلون الذين يحجزون لهم) الذين يخطّطون لرحلات إلى المنتزهات البحرية الماليزية، من شعاب شبه الجزيرة سهلة الوصول إلى الغوص المحدّد بحصص في Sipadan.'
+  getThere: 'تُقصد منتزهات شبه الجزيرة مثل Tioman وRedang وPerhentian وTenggol بالقارب من أرصفة البرّ الرئيسي، بينما يُغاص Sipadan في صباح بالإقامة في جزر مجاورة مثل Mabul أو Kapalai والتوجّه نهاراً عبر تصريح مشغّل مرخّص.'
+  permit: 'يعمل Sipadan بحصّة تصاريح يومية محدودة لا يملكها سوى المشغّلين المرخّصين، فلا يمكنك شراء تصريح مباشرةً وعليك الحجز عبر مشغّل يملك حصّة؛ أما المنتزهات البحرية الاتحادية (دائرة مصائد الأسماك / Department of Fisheries) فتفرض بدلاً من ذلك رسم حفظ يُحصَّل عند الرصيف.'
+  watch: 'لا يمكنك حجز Sipadan مباشرةً وتحتاج إلى شهادة Advanced Open Water على الأقل، وتُراجَع حصصه وقواعد الغوص دورياً، لذا تأكّد من الحدود الحالية مع مشغّلك قبل التخطيط.'
+  next: 'تأكّد من الرسوم والتصاريح والحصص الحالية مع دائرة مصائد الأسماك الماليزية (Department of Fisheries Malaysia) لمنتزهات شبه الجزيرة ومع Sabah Parks لـ Sipadan.'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'منظر تحت الماء في سيبادان لسرب كثيف متدوّم من الأسماك الفضيّة بجانب شعاب مرجانيّة فيها أسماك أنثياس برتقاليّة، تضيئها أشعّة الشمس المتسلّلة عبر الماء الأزرق.'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 أصفى مياه في ماليزيا هي أيضًا أصعبها وصولًا: فلتنزل إلى جدار [سيبادان](/ar/tourism/sipadan-and-semporna) تحتاج إلى تصريح حكومي لا يتيح لك المال شراءه مباشرةً مهما بلغ. وتختزل تلك الحقيقة الواحدة كيف تدير البلاد سياحة الغوص لديها — فالوصول مُقنَّن ومُسعَّر ومقسَّم بين سلطتين مختلفتين جدًّا بحسب أيّ بحر تريد النزول إليه.

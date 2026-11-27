@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai sống ở Malaysia và cần hiểu ai thu gom rác ở khu vực của họ, liệu họ có bắt buộc phải phân loại rác tại nguồn hay không, và rủi ro là gì nếu không làm."
 
 lang: "vi"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,6 +68,32 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'Một xe tải chở rác của KDEB Waste Management đang thu gom rác bên ngoài một khối chung cư ở Kota Damansara, Selangor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: Một thùng rác công cộng màu xanh mang huy hiệu hội đồng địa phương MBPJ trên dải cỏ ven đường ở Kota Damansara, Selangor
+    kind: representative
+    origin: third-party
+    subject: Thùng rác của hội đồng mang huy hiệu MBPJ (Hội đồng Thành phố Petaling Jaya) ở Kota Damansara
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: Một dãy bốn thùng tái chế có nhãn cho giấy, lon và nhựa, thủy tinh, và rác không tái chế được tại một địa điểm công cộng ở Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Các thùng tái chế phân loại cho giấy, lon và nhựa, thủy tinh, và rác không tái chế được ở Kuala Lumpur
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 Thùng rác của bạn được lấy hai lần một tuần, nhưng bạn có bao giờ hỏi ai thực sự lấy nó — hội đồng địa phương, hay một công ty khác mà hội đồng thuê? Và vì sao hàng xóm của bạn ở bang bên cạnh có thể bị phạt vì không tách chai nhựa khỏi rác thực phẩm, trong khi bạn thì không?

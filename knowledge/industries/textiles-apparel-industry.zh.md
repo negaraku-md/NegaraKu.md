@@ -31,7 +31,7 @@ faq:
   - q: 有哪些激励扶持纺织与成衣投资？
     a: MIDA 负责审批该子行业的制造执照并提供税务激励，它是《新工业大蓝图（NIMP）2030》下的优先领域。自 2026 年第一季起，符合资格的投资被纳入新的、以成效为本的《新投资激励框架》，激励分级，与技术、技能和本地连结等成效挂钩。请向 MIDA 确认现行税率与条件。
 lang: zh
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: '工人们在一家制衣厂的流水线上缝制和整理服装。'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: 一幅图案繁复的织锦特写，中央是一块以密实金色花卉锦纹织成的红色面板，两侧以缀有金色菱形与星形纹样的栗色边框相衬
+    kind: actual
+    origin: third-party
+    subject: 一块产自登嘉楼、以金色金属线织就的马来songket布料的局部，是马来西亚纺织遗产的代表性工艺
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: 一台砖墙作坊里的木制手工织机，机架上绷着经线，排列着一排红、绿、蓝三色的线轴，一名织工在织机另一侧半隐着身影劳作
+    kind: representative
+    origin: third-party
+    subject: 一名织工在织布作坊操作一台绷着彩色线轴的木制织机，代表纺织业中的织布工艺
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 早在马来西亚以电脑芯片和棕榈油闻名之前，它就已经在生产布匹与衣服。纺织、成衣与鞋类产业是这个国家最古老的现代制造业领域之一——正是这种劳动密集、以出口为导向的生意，在 1970 与 1980 年代帮助启动了工业化。如今它在一个大得多的经济体中只占较小一块，但它仍是实实在在的雇主、稳定的出口者，也是政府正积极设法再造的一个领域。

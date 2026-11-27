@@ -61,6 +61,13 @@ relations:
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
 framework: history-culture
+hero: '/media/malaysia/2018-change-of-government/hero.webp'
+heroAlt: 'மலேசியாவில் தேர்தல் நாளில் வாக்குச்சாவடியாகப் பயன்படுத்தப்படும் ஒரு பள்ளிக் கட்டிடம், வாக்காளர்களுக்கான திசை அறிவிப்புப் பலகைகளுடன்.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_general_election_polling_station,_Kajang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1957 சுதந்திரத்திற்குப் பிறகு நடைபெற்ற முதல் கூட்டாட்சித் தேர்தல் முதல் 2018 வரையிலான 61 ஆண்டுகளாக, மலேசியாவின் ஒவ்வொரு கூட்டாட்சி அரசாங்கமும் ஒரே கூட்டணியால் அமைக்கப்பட்டது — [the Alliance](/ta/malaysia/the-alliance), மற்றும் 1970களிலிருந்து அதன் வாரிசான [Barisan Nasional](/ta/malaysia/barisan-nasional). 14ஆவது பொதுத் தேர்தலில், அந்தத் தொடர்ச்சி முடிவுக்கு வந்தது: வேறொரு கூட்டணி Dewan Rakyat இன் இடங்களில் பெரும்பான்மையைப் பெற்றது.

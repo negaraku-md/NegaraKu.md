@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아는 플라스틱 오염에 어떻게 대응하나요?
     a: 환경부가 주도하는 말레이시아 플라스틱 지속가능성 로드맵 2021–2030은 문제성 일회용 플라스틱을 단계적으로 없애고, 재활용률과 재생원료 비율을 높이며, 플라스틱 포장을 재활용 가능하게 만드는 목표를 설정합니다. 또한 생산자가 수거·재활용 자금 조달을 돕게 하는 생산자책임재활용(EPR) 제도를 도입합니다.
 lang: ko
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: '공장에서 로봇 팔이 장착된 사출 성형기가 갓 성형한 플라스틱 트레이를 컨베이어 위에 올려놓고 있다.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: 상단에 깔때기 모양 호퍼가 있고 배선이 감긴 긴 수평 가열 배럴이 오른쪽으로 뻗은 초록·크림색 산업용 압출 성형기가, 파랑과 흰색 공장 벽을 배경으로 가동되고 있다
+    kind: representative
+    origin: third-party
+    subject: 호퍼와 가열 배럴을 갖추고 연속적인 플라스틱 소재를 성형하는, 플라스틱·포장 산업의 핵심 공정인 플라스틱 압출 라인
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: 색색의 뚜껑과 라벨이 점점이 섞인, 납작하게 눌린 투명 플라스틱 병의 큰 직육면체 더미가 녹슨 금속 통 옆 아스팔트 위에 두세 단 높이로 쌓여 있고, 뒤로는 나무와 잿빛 하늘이 펼쳐져 있다
+    kind: representative
+    origin: third-party
+    subject: 새 플라스틱 원료로 재활용하기 위해 쌓아 둔, 으깬 투명 PET 음료 병을 단단히 압축한 더미
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 말레이시아 공장에서 나오는 거의 모든 실물 제품 — 인스턴트 라면 한 봉지, 스마트폰, 자동차 범퍼, 수도 파이프 한 토막 — 은 이 나라 어딘가에서 성형된 플라스틱에 의존합니다. 플라스틱은 말레이시아의 조용한 산업적 강점 중 하나입니다. 반도체만큼 화려하지는 않지만, 거의 모든 다른 제조 부문에 엮여 있고, 점점 더 폐기물과 지속가능성에 관한 국가적 논의에도 엮여 있습니다.

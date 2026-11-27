@@ -33,7 +33,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["آداب البيت المفتوح الماليزي", "آداب رومه تربوكا", "ضيف البيت المفتوح في ماليزيا", "آداب بيت عيد الفطر المفتوح", "ماذا ألبس في البيت المفتوح الماليزي", "دويت رايا آنغ باو للضيف", "آداب البيت الحلال في ماليزيا", "عادات زيارة البيت الماليزي"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'منظر علوي لمأدبة عيد الفطر (هاري رايا) ممدودة على طاولة، فيها قدور من رندانغ اللحم وكاري الخضار، وطبق من السامبال، وصحون من أغلفة الكتوبات المنسوجة والأرز المضغوط المقطّع.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: ضيوف يرتدون batik وbaju kurung يبتسمون ويتصافحون تحيّةً عند مدخل بيت مفتوح بمناسبة Hari Raya Aidilfitri.
+    kind: representative
+    origin: third-party
+    subject: ضيوف يحيّون مُضيفيهم في بيت مفتوح بمناسبة Hari Raya Aidilfitri
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: مجموعة من أغلفة أرز ketupat المنسوجة من سعف النخيل مربوطة معًا، وهي ركن أساسي في ضيافة البيت المفتوح الماليزية في Hari Raya.
+    kind: actual
+    origin: third-party
+    subject: كعكات أرز ketupat المنسوجة لـ Hari Raya
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 لقد دُعيت إلى *rumah terbuka* — بيت مفتوح. ربما يكون عيد فطر لزميل، أو رأس

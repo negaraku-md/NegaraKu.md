@@ -31,7 +31,7 @@ faq:
   - q: บริษัทเภสัชกรรมหลักของมาเลเซียมีอะไรบ้าง?
     a: ผู้ผลิตท้องถิ่นที่เป็นที่รู้จักมากที่สุดคือ Pharmaniaga (ผู้ผลิต ผู้จัดจำหน่าย และผู้ถือสัมปทานของรัฐแบบครบวงจร) Duopharma Biotech (ซึ่งเติบโตจากกลุ่ม CCM และผลิตยาชีววัตถุคล้ายคลึง) CCM, Kotra Pharma และ Hovid บริษัทข้ามชาติเช่น Pfizer, Novartis และ GSK เน้นยาที่มีสิทธิบัตรเป็นหลักมากกว่าการผลิตท้องถิ่นขนาดใหญ่
 lang: th
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - การบรรจุและสำเร็จวัคซีน
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'ขวดยาที่ปิดฝาแล้วเคลื่อนไปตามสายพานลำเลียงอัตโนมัติบนสายการผลิตยา'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: คนงานหลายคนในเสื้อคลุมและหมวกสีน้ำเงินยืนล้อมโต๊ะทำงานที่เต็มไปด้วยขวดยาสีเข้มขนาดเล็กเรียงชิดกันเป็นแถว กำลังหยิบจับและตรวจสอบ ในโรงงานยาที่สว่างซึ่งมีตู้บานกระจกเรียงตามผนัง
+    kind: representative
+    origin: third-party
+    subject: คนงานในเครื่องแบบสีน้ำเงินและหมวกคลุมผมกำลังตรวจสอบและบรรจุขวดยาที่กรอกแล้วเรียงเป็นแถวบนโต๊ะในแผนกบรรจุยา
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: มือสองข้างสวมถุงมือไนไตรล์สีน้ำเงินและเสื้อกาวน์สีขาวกำลังวางถาดพลาสติกใสบรรจุเม็ดยาลงบนเครื่องมือห้องปฏิบัติการสเตนเลสที่ติดป้ายเตือนเกี่ยวกับพื้นผิวร้อน
+    kind: representative
+    origin: third-party
+    subject: ช่างเทคนิคสวมถุงมือกำลังใส่ถาดตัวอย่างเม็ดยาเข้าในเครื่องตรวจสอบในห้องปฏิบัติการควบคุมคุณภาพยา
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 ทุกครั้งที่ชาวมาเลเซียรับยาตามใบสั่งแพทย์สำหรับยาปฏิชีวนะ ยาแก้ปวด หรือยาลดความดัน มีโอกาสดีที่ยานั้นผลิตในมาเลเซีย — ไม่ได้ถูกคิดค้นที่นี่ แต่ถูกตั้งตำรับ อัดเม็ด บรรจุ และห่อในโรงงานท้องถิ่นที่ทำงานตามมาตรฐานการผลิตระดับสากล นั่นคือหัวใจของอุตสาหกรรมเภสัชกรรมของมาเลเซีย: ฐานการผลิตที่มั่นคงและนำโดยยาสามัญซึ่งเติมตู้ยาแห่งชาติให้เต็ม จับคู่กับการเดิมพันที่ทะเยอทะยานขึ้นอีกสองประการ — เภสัชภัณฑ์ฮาลาลและการผลิตวัคซีน — ที่ประเทศหวังว่าจะพาตัวเองขึ้นในห่วงโซ่มูลค่า

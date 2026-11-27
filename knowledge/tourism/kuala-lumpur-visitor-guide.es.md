@@ -36,7 +36,7 @@ faq:
     a: "Cúbrase los hombros y las rodillas. En la entrada suele haber sarongs disponibles para pedir prestados o alquilar si su ropa es demasiado reveladora. Un calzado cómodo ayuda con la larga escalinata hasta la cueva-templo principal."
 
 lang: "es"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "torres gemelas petronas", "torre kl", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "transporte kuala lumpur", "tarjeta digital de llegada a malasia", "guía de viaje kl"]
 framework: profile
+visitFacts:
+  bestFor: 'Visitantes internacionales que viajan por primera vez y quieren una estancia corta y fácil en la ciudad, y viajeros que usan Kuala Lumpur como base antes de dirigirse a otros lugares de Malasia.'
+  getThere: 'Desde el Aeropuerto Internacional de Kuala Lumpur (KLIA), tome el tren KLIA Ekspres sin paradas hasta el nudo de KL Sentral y, desde allí, continúe en MRT, LRT, monorraíl o Grab.'
+  permit: 'La entrada a las Torres Gemelas Petronas (Petronas Twin Towers) usa entradas con hora asignada y cupos diarios limitados, así que resérvelas en línea con antelación en lugar de confiar en presentarse sin más.'
+  watch: 'El tráfico del centro es denso en hora punta, así que los trenes suelen ser más rápidos que el coche para los trayectos por la ciudad.'
+  next: 'Confirme los horarios de apertura y la venta de entradas vigentes de las Torres Gemelas Petronas con el sitio oficial de las PETRONAS Twin Towers (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'Las iluminadas Torres Petronas elevándose sobre el centro de Kuala Lumpur bajo un cielo dorado al atardecer'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: El Edificio Sultan Abdul Samad y la explanada de la Plaza Merdeka flanqueada de palmeras en el centro de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Edificio Sultan Abdul Samad y Plaza Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Hileras de farolillos chinos rojos encendidos sobre el mercado de Petaling Street, en el barrio chino de Kuala Lumpur, de noche
+    kind: actual
+    origin: third-party
+    subject: Farolillos rojos de Petaling Street, el barrio chino, de noche
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Aterrice en el Aeropuerto Internacional de Kuala Lumpur al amanecer y, en una hora, puede estar de pie bajo dos torres plateadas que un día dominaron el perfil urbano del mundo — sin coche de alquiler, sin planificación complicada, solo un tren y una tarjeta de paso. Esa facilidad es la esencia de KL: es la puerta de entrada de Malasia, una capital compacta y económica donde los lugares principales están a un corto trayecto en tren unos de otros, y donde comienza casi todo viaje posterior por el país.

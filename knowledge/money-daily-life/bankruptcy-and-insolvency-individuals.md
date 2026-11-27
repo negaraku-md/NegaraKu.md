@@ -88,7 +88,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-insolvensi-malaysia" }
   - { rel: "governs", to: "insolvency-act-1967" }
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
-related: []
+related: ["akpk-debt-management", "credit-reports-ccris-ctos", "bank-negara-malaysia"]
 keywords: ["kebankrapan", "bankrap", "insolvensi", "Akta Insolvensi 1967", "MDI", "Ketua Pengarah Insolvensi", "pelepasan bankrap", "seksyen 33C", "AKPK", "DMP"]
 framework: explainer
 ---

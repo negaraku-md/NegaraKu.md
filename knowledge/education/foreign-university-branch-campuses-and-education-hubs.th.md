@@ -34,7 +34,7 @@ faq:
     a: "ไม่ ขณะที่ Monash, Nottingham, Xiamen และ Heriot-Watt กระจุกตัวอยู่รอบหุบเขากลังและปุตราจายา แต่ EduCity Iskandar รวมวิทยาเขตหลายแห่งไว้ในยะโฮร์ใกล้สิงคโปร์ และ Curtin กับ Swinburne ดำเนินการอยู่ในซาราวัก"
 
 lang: "th"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,6 +107,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'สำหรับนักศึกษาและผู้ปกครองที่กำลังชั่งใจเลือกวิทยาเขตสาขาของมหาวิทยาลัยต่างชาติ — วิทยาเขตในต่างแดนที่เป็นเจ้าของทั้งหมด (Monash, Nottingham, Xiamen, Heriot-Watt และอื่น ๆ) ที่มอบปริญญาของมหาวิทยาลัยแม่เองในมาเลเซีย'
+  how: 'เลือกจากชื่อแบรนด์ของมหาวิทยาลัยแม่ ที่ตั้งวิทยาเขต และสาขาเฉพาะทาง; วิทยาเขตสาขาตั้งอยู่ใน Klang Valley, Putrajaya, เขต EduCity Iskandar ในรัฐยะโฮร์ และในรัฐซาราวัก ปริญญาที่ได้คือปริญญาของมหาวิทยาลัยแม่ซึ่งเหมือนกันทุกประการ เพียงแต่เรียนบนวิทยาเขตในมาเลเซีย'
+  cost: 'จุดดึงดูดคือคุณวุฒิแบบตะวันตกหรือจีนในราคาค่าเล่าเรียนและค่าครองชีพแบบท้องถิ่น ต่ำกว่าการไปเรียนที่วิทยาเขตแม่ในต่างประเทศมาก — แต่ค่าธรรมเนียมแตกต่างกันตามสถาบันและหลักสูตร จึงควรยืนยันตัวเลขปัจจุบันกับแต่ละวิทยาเขต'
+  watch: 'ปริญญานำไปใช้ที่ไหนก็ได้ แต่ประสบการณ์เป็นแบบท้องถิ่น — ขนาดชั้นเรียน สิ่งอำนวยความสะดวก และชีวิตในวิทยาเขตแตกต่างกันมากระหว่างวิทยาเขตเดี่ยวกับวิทยาเขตแบบเมืองการศึกษาที่ใช้ร่วมกัน หลักสูตรของวิทยาเขตสาขายังคงต้องได้รับการรับรองจาก MQA และปรากฏอยู่ในทะเบียน MQR'
+  next: 'คัดเลือกเบื้องต้นจากสาขาเฉพาะทางและที่ตั้ง ตรวจสอบหลักสูตรที่แน่นอนในทะเบียน MQR และยืนยันการอนุมัติรับนักศึกษาต่างชาติกับวิทยาเขต ดูเรื่องการเรียนในมาเลเซีย และเรื่องมหาวิทยาลัยของรัฐเทียบเอกชน'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'อาคารมหาวิทยาลัยโมเดิร์นนิสต์สีขาวพร้อมหอนาฬิกาตั้งตระหง่านเหนือทะเลสาบสีเขียวนิ่งราวกระจกที่ล้อมด้วยต้นไม้และพรรณไม้ห้อยระย้าใต้ท้องฟ้าดราม่า'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: อาคารวิทยาเขตสีเบจขนาดใหญ่เชื่อมกันด้วยสกายบริดจ์ยกระดับกระจก มีตราโมแนชบนหอคอยและต้นปาล์มในลานกลาง
+    kind: representative
+    origin: third-party
+    subject: อาคารวิทยาเขตสาขามหาวิทยาลัยโมแนชมาเลเซียเชื่อมกันด้วยสกายบริดจ์กระจก ซันเวย์ซิตี รัฐสลังงอร์
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: อาคารวิทยาเขตสีขาวหลังคาลดหลั่นสไตล์จีนสีแดงอยู่หลังลานทางเข้าที่มีประตูใต้ท้องฟ้ามีเมฆบางส่วน
+    kind: representative
+    origin: third-party
+    subject: ประตูหลักหลังคาแดงและหอบริหารของมหาวิทยาลัยเซี่ยเหมินมาเลเซีย วิทยาเขตสาขาต่างประเทศแห่งแรกของมหาวิทยาลัยจีน ในเซปัง รัฐสลังงอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 ในปี 1998 นักศึกษาในกัวลาลัมเปอร์สามารถได้รับปริญญาจาก Monash ของออสเตรเลียโดยไม่ต้องออกนอกประเทศ — และจ่ายในราคาแบบมาเลเซีย ข้อตกลงเดียวนั้นได้จุดประกายโมเดลที่ประเทศได้พัฒนาต่อยอดมานับแต่นั้น: นำเข้ามหาวิทยาลัย ไม่ใช่นักศึกษา

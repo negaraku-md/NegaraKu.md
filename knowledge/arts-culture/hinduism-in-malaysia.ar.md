@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ar"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: لماذا يعيش عدد أكبر من الهندوس في ولايات مثل نيغري سمبيلان وسلانغور وبيراك؟
     a: تتطابق هذه الولايات مع مناطق مزارع المطاط ومناجم القصدير السابقة — حيث استقر العمال الهنود بأعداد كبيرة في الحقبة البريطانية. وفي تعداد عام 2020، سجّلت نيغري سمبيلان (نحو 13.1%) وسلانغور (نحو 10.3%) وبيراك (نحو 9.7%) نسبًا أعلى. ومعظمهم من أحفاد الذين قدموا من جنوب الهند للعمل في المزارع في ظل نظام الكانغاني (kangani).
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'برج الغوبورام الشاهق المنحوت بألوان زاهية لمعبد سري ماهاماريامان في وسط كوالالمبور، مكتظّ بتماثيل الآلهة الهندوسية فوق مدخل المعبد حيث يقف الزوّار.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: برج المعبد (gopuram) المتدرّج والمطليّ بألوان زاهية لمعبد Kallumalai Murugan في Ipoh، Perak، مغطّى بتماثيل منحوتة لآلهة هندوسية.
+    kind: actual
+    origin: third-party
+    subject: برج معبد (gopuram) ملوّن لمعبد Kallumalai Murugan، Ipoh، Perak
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: رسم kolam دقيق وزاهي الألوان مفروش على الأرض بمناسبة Deepavali، أهمّ عيد هندوسي في ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: رسم أرضي (kolam) بمناسبة Deepavali، ماليزيا
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 في أي مدينة ماليزية، سواء على طرف مزرعة مطاط قديمة أو في شارع عريق وسط المدينة،

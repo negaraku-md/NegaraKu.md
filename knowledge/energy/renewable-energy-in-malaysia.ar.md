@@ -27,7 +27,7 @@ faq:
   - q: "كيف يمكن لشركة أن تشتري طاقة متجددة دون تركيب ألواحها الخاصة؟"
     a: "يتيح برنامج الطاقة الخضراء للشركات (CGPP) لمستهلك من الشركات توقيع اتفاق شراء طاقة افتراضي مع منتج للطاقة الشمسية مقابل الطاقة المتجددة وسماتها الخضراء، مع إمداد مؤكَّد يدعمه المرفق. وقد اكتُتِبت حصّته البالغة 800 ميغاواط بالكامل في نوفمبر 2023. ويمكن للشركات التي فاتها ذلك استخدام مخطّط إمداد الطاقة المتجددة للشركات (CRESS)، الذي أُطلِق في سبتمبر 2024، ويُسلّم الطاقة الخضراء عبر شبكة TNB مقابل رسم وصول إلى النظام."
 lang: "ar"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,9 +109,35 @@ sources:
     publisher: "هيئة تطوير الطاقة المستدامة (SEDA)"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["الطاقة المتجددة ماليزيا", "renewable energy Malaysia", "NETR", "خارطة الطريق الوطنية لتحوّل الطاقة", "MyRER", "NEM 3.0", "قياس صافي الطاقة ماليزيا", "SEDA", "الطاقة الشمسية واسعة النطاق", "LSS Malaysia", "CGPP", "CRESS", "الألواح الشمسية ماليزيا", "التعرفة التشجيعية ماليزيا", "TNB solar", "هدف الطاقة المتجددة 2050", "لجنة الطاقة الماليزية"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'منظومة خلايا شمسية كهروضوئية عائمة بمحاذاة ممشى مسقوف على بحيرة في حرم جامعي بماليزيا.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: صفوف طويلة من الألواح الكهروضوئية الزرقاء الداكنة على هياكل معدنية منخفضة عبر حقل عشبي مُزال، مسيّجة وممتدّة نحو خطّ أشجار بعيد تحت سماء زرقاء مشرقة تتناثر فيها الغيوم
+    kind: actual
+    origin: third-party
+    subject: مزرعة طاقة شمسية كهروضوئية مثبّتة على الأرض في Sungai-Sungai، Sabah، تولّد الكهرباء للشبكة الريفية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: سدّ مقوّس يحجز خزّاناً أخضر بين تلال مكسوّة بالغابات، وفي واجهته قناة تصريف ومنشآت سحب، وتغطّي أدغال استوائية كثيفة المنحدرات المحيطة
+    kind: actual
+    origin: third-party
+    subject: سدّ وخزّان Pergau الكهرومائي في Kelantan، مشروع طاقة مائية متجددة في شبه جزيرة ماليزيا
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 إن كنت قد حاولت الاطّلاع على موضوع الطاقة المتجددة (RE) في ماليزيا، فالأرجح أنك اصطدمت بثلاثة أرقام مختلفة للأهداف — 31% و40% و70% — وبجدار من الاختصارات: FiT وNEM وLSS وCGPP وCRESS وSELCO. ولا تناقض في شيء من ذلك؛ إنما هو موزَّع على نصف دزينة من الجهات، تُوثّق كلٌّ منها زاويتها وحدها. ويجمع هذا الدليل المشهد كله في مكان واحد: الأهداف الوطنية وخرائط الطريق التي وراءها، وعائلة البرامج، و— وهو ما تتخطّاه معظم المصادر — أيّ برنامج أُعِدّ فعلًا لمالك المنزل أو الشركة أو المطوِّر.

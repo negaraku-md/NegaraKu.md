@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: '一块深色方框木雕板，以马来awan larat风格镂空雕刻对称流畅的枝叶、卷曲的叶须和藤蔓纹饰，装在浅色博物馆墙上'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: 一座华丽的木造清真寺讲坛（minbar），高耸的镀金华盖雕镂着金色枝叶、顶端有冠状尖饰，立在一道红金两色雕花楼梯之上，下方是绿色礼拜地毯
+    kind: actual
+    origin: third-party
+    subject: 马来西亚马六甲登加（Tengkera）清真寺镀金、雕刻精细的木造讲坛（minbar）
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: 一条镂空透雕的火焰状枝叶纹饰带，沿着一栋褐色木板传统马来屋屋顶下方的封檐板延伸，衬以绿叶和天空
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪乌鲁冷岳（Hulu Langat）一栋传统马来木屋屋檐线上的镂空雕花封檐板（papan kerawang）
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 仔细看看一栋古老马来房屋窗户上的木雕板，试着找出纹样的起点在哪里。你找不到。这不是你眼睛的问题——它本来就是这样设计的。

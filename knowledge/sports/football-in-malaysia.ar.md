@@ -41,7 +41,7 @@ faq:
     a: "التاريخ الدقيق محلّ خلاف. فبعض السجلات تضع تأسيس الهيئة الوطنية الحاكمة في 1926، بينما تشير أخرى إلى 1933، حين تولّى الاتحاد الكروي لملايا (Football Association of Malaya) ومقره سنغافورة إدارةَ كأس ملايا. والواضح والقابل للتحقق هو دوره اليوم هيئةً وطنيةً حاكمةً، وعضوًا في AFC، وأحد مؤسّسي AFF عام 1984."
 
 lang: "ar"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["كرة القدم الماليزية", "كأس ماليزيا", "هاريماو مالايا", "FAM", "الدوري الممتاز", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'ملعب بوكيت جليل الوطني المضاء بالأضواء الكاشفة والممتلئ بالمشجعين يطل على مباراة كرة قدم جارية.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: مباراة كرة قدم جارية على أرضية Stadium Tuanku Abdul Rahman في Paroi بمدينة Seremban بولاية Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: مباراة كرة قدم في Stadium Tuanku Abdul Rahman في Paroi بولاية Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: ملعب كرة صالات عام مكشوف في حي سكني بـ Kota Damansara في Petaling Jaya بولاية Selangor.
+    kind: actual
+    origin: third-party
+    subject: ملعب كرة صالات مجتمعي في Kota Damansara بولاية Selangor، بيئة شعبية للعبة الماليزية
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 في 1921، فازت سنغافورة على سلانغور 2-1 في نهائي بطولة كرة قدم جديدة في ملايا. وبعد أكثر من قرن، ما زالت تلك المسابقة — المعروفة اليوم باسم كأس ماليزيا — أعرق تاج في أحبّ رياضات البلاد إلى قلوب أهلها.

@@ -36,7 +36,7 @@ faq:
     a: "ช่วงที่แห้งและสงบกว่ากินเวลาราวเดือนพฤศจิกายนถึงมีนาคม ซึ่งดีที่สุดสำหรับเกาะฮอปปิง กระเช้า และเวลาชายหาด เดือนกันยายนและตุลาคมมักเป็นเดือนที่ฝนตกชุกที่สุด แม้ฝนมักเป็นห่าฝนเขตร้อนสั้น ๆ มากกว่าฝนตกทั้งวัน"
 
 lang: "th"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'เหมาะสำหรับผู้มาครั้งแรก ครอบครัว และนักเดินทางที่มีความสนใจหลากหลายที่ต้องการชายหาด การช้อปปิงปลอดภาษี และอุทยานธรณี UNESCO — กระเช้า SkyCab, SkyBridge และการล่องเกาะป่าชายเลน — มากกว่าการดำน้ำระดับโลก'
+  getThere: 'บินเข้าสู่สนามบินนานาชาติ Langkawi (LGK) หรือข้ามด้วยเรือเฟอร์รีโดยสารสู่ท่าเรือ Kuah Jetty จากท่าเรือแผ่นดินใหญ่ที่ Kuala Kedah และ Kuala Perlis'
+  permit: 'ราคาปลอดภาษีของ Langkawi ใช้บนเกาะเท่านั้น สินค้าที่นำกลับแผ่นดินใหญ่อยู่ภายใต้สิทธิ์ยกเว้นอากรของนักเดินทางระดับชาติของมาเลเซีย ซึ่งกำหนดระยะพักขั้นต่ำและจำกัดปริมาณเครื่องดื่มแอลกอฮอล์ ยาสูบ และของที่ระลึกที่นำกลับแบบปลอดอากรได้'
+  watch: 'อย่าซื้อเหล้าปลอดภาษีมากเกินไปเพื่อนำกลับบ้าน เพราะราคาถูกนั้นไว้สำหรับเพลิดเพลินบนเกาะ และมีเพียงสิทธิ์จำกัดที่ผ่านศุลกากรบนแผ่นดินใหญ่ได้'
+  next: 'ตรวจสอบตารางเรือเฟอร์รีปัจจุบันกับผู้ประกอบการเรือ และสิทธิ์ปลอดอากรกับกรมศุลกากรมาเลเซีย (Royal Malaysian Customs Department, RMCD)'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'สะพานลอยฟ้าลังกาวีทรงโค้งแขวนอยู่สูงระหว่างยอดเขาที่ปกคลุมด้วยป่าเหนือทะเลอันดามัน'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: ต้นปาล์มและโขดหินสีเข้มกรอบทรายขาวของหาดปันไตเจอนัง (Pantai Cenang) ข้างน้ำทะเลสีเทอร์ควอยซ์ พร้อมร่มพาราเซลลอยอยู่เหนือศีรษะ
+    kind: actual
+    origin: third-party
+    subject: หาดปันไตเจอนังพร้อมต้นปาล์มและทะเลสีเทอร์ควอยซ์
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: กระเช้าสกายแคบ (SkyCab) สีแดงเคลื่อนเหนือป่าฝนหนาทึบมองลงไปยังท่าจอดเรือและอ่าวสีเทอร์ควอยซ์บนเกาะลังกาวี
+    kind: actual
+    origin: third-party
+    subject: กระเช้าลอยฟ้าสกายแคบลังกาวีเหนือป่าและท่าจอดเรือ
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 เก้าสิบเก้าเกาะ หินที่แก่กว่าปลา วิสกี้ราคาถูก และกระเช้าที่ห้อยอยู่ข้างภูเขาที่สร้างจากหินซึ่งประเมินว่าอายุกว่า 550 ล้านปี ลังกาวีอัดแน่นด้วยสิ่งต่าง ๆ ในปริมาณที่ไม่ธรรมดาไว้ในหมู่เกาะเดียวนอกปลายตะวันตกเฉียงเหนือของมาเลเซีย เป็นเกาะพักผ่อนชายฝั่งตะวันตกเรือธงของประเทศ และทำงานด้วยตรรกะเกือบตรงข้ามกับเกาะดำน้ำที่รายล้อมด้วยต้นปาล์มอีกฟากของคาบสมุทร คู่มือนี้ครอบคลุมสิ่งที่สำคัญจริง ๆ ก่อนคุณไป กฎปลอดภาษีที่ทำให้คนสะดุด จีโอพาร์กของ UNESCO ที่ให้เบื้องหลังแก่ทิวทัศน์ SkyCab และ SkyBridge ทัวร์เรือที่ควรทำ และวิธีตัดสินใจระหว่างลังกาวีกับชายฝั่งตะวันออก

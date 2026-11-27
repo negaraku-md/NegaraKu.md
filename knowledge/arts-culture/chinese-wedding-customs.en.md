@@ -32,7 +32,7 @@ faq:
   - q: "Does the wedding have to use red and an auspicious date? What taboos are there?"
     a: "Red and the 'double happiness' (囍) character are the most representative festive colour and symbol of a Chinese wedding, seen on invitations, gifts, the bridal bed and the décor; an 'auspicious date' is also usually chosen for the wedding. Common considerations include preferring even numbers for cash gifts and gifts, avoiding numbers that sound unlucky, and pregnant women or those in mourning staying away from certain stages. How strictly these are observed, however, varies by family belief and dialect group, and many families keep only some and simplify the rest."
 lang: "en"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'A traditional Malaysian Chinese wedding stage draped in red, a large red double-happiness paper-cut banner hanging above an ancestral altar laid with a pineapple, oranges, apples and dragon candles, two carved dark-wood chairs placed in front for the tea ceremony, the couple''s names in pink characters on either side'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: A glossy red Chinese wedding tea set on a red tray, a teapot decorated with a gold double-happiness character and five small matching red tea cups arranged around it, used by the couple to serve tea to their elders
+    kind: representative
+    origin: third-party
+    subject: a red-and-gold double-happiness teapot and cups used in the Chinese wedding tea ceremony
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: A tall tiered black lacquered bakul siah wedding gift basket intricately decorated with gold figures, flowers, birds and fish on each level, used to carry symbolic betrothal gifts between the two families, displayed in a glass museum case
+    kind: representative
+    origin: third-party
+    subject: a bakul siah, the tiered lacquered basket used to carry betrothal gifts between families in a Straits-Chinese wedding
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 Before dawn has fully broken, a line of cars has already pulled up outside the bride's home. The groom holds a bouquet, a few "brothers" behind him, but he is stopped by several "sisters" peering out from the doorway: first answer their questions, then sing a song, eat a few paper-thin slices of lime, and finally push a few red packets through the gap in the door — only once this "door-crashing" (chuang men) challenge is passed does the door open and the groom get to see the bride, dressed all in red. A morning like this, full of teasing and merriment, is how many Chinese weddings in Malaysia begin.

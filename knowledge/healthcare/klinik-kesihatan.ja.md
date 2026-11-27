@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 
 status: "published"
 aiAssisted: true
@@ -66,6 +66,32 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'Klinik Kesihatan Jalan Lanang の入口と看板で、国旗と州旗のあるマレーシア保健省の地域保健クリニックである。'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: 屋根付きの入口車寄せを備えたマレーシアの政府健康診療所（Klinik Kesihatan）の本館
+    kind: actual
+    origin: third-party
+    subject: クリニック・ケシハタン・ジャラン・ラナンの本館、サラワク州シブの政府健康診療所
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: 島にある小さな平屋建ての農村保健診療所（Klinik Desa）。島内で唯一の医療施設
+    kind: actual
+    origin: third-party
+    subject: クリニック・デサ・プラウ・アマン、ペナンのアマン島で唯一の農村保健診療所
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 熱が下がらない、子どもが予防接種を受ける時期になった、あるいは血圧を毎月

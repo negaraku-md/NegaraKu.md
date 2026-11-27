@@ -37,7 +37,7 @@ faq:
     a: "Bay vào Sân bay Quốc tế Kuching (KCH), cửa ngõ đường không chính vào nam Sarawak, với các kết nối từ Kuala Lumpur và các trung tâm khác (Wikipedia). Vì Sarawak kiểm soát di trú riêng của mình, mọi người đều được kiểm tra khi đến — người Malaysia từ các bang khác được cấp một giấy phép trên MyKad của họ, và người nước ngoài được đóng dấu vào Sarawak riêng, nên hãy mang hộ chiếu ngay cả trên một chuyến bay trông có vẻ nội địa. Xem cẩm nang Sarawak về đầy đủ các quy định nhập cảnh."
 
 lang: "vi"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'Dành cho du khách lần đầu và du khách độc lập, các gia đình cùng người yêu di sản hoặc động vật hoang dã muốn một thành phố di sản ven sông đi bộ được làm cơ sở thư thái cho các chuyến đi trong ngày tới rừng mưa Borneo, đười ươi và công viên quốc gia.'
+  getThere: 'Bay vào Kuching International Airport (KCH), cửa ngõ hàng không chính tới nam Sarawak, với các chuyến nối từ Kuala Lumpur cùng các trung tâm khác của Malaysia và khu vực.'
+  permit: 'Sarawak vận hành việc nhập cảnh riêng của mình, nên mọi người đều làm kiểm tra biên giới khi đến ngay cả trên một chuyến bay nội địa từ Bán đảo Malaysia — người nước ngoài nhận một con dấu nhập cảnh Sarawak riêng, nên hãy mang hộ chiếu suốt chuyến đi.'
+  watch: 'Việc gặp đười ươi tại Semenggoh không bao giờ được bảo đảm, vì những con vượn bán hoang dã được tự do kiếm ăn trong rừng xung quanh — hãy coi mọi lần gặp là một phần thưởng, không phải một lời hứa.'
+  next: 'Hãy xác nhận yêu cầu nhập cảnh Sarawak hiện tại và thời điểm diễn ra công viên hoặc lễ hội với Sarawak Tourism Board cùng các nhà điều hành chính thức của các công viên trước khi bạn đi.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'Tòa nhà Hội đồng Lập pháp Bang Sarawak mái hình chiếc ô vươn lên qua sông Sarawak nhìn từ bờ sông Kuching lúc chạng vạng'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: The Astana, một cung điện thuộc địa màu trắng với vòm Gothic và cổng trang trí, bên bờ bắc sông Sarawak ở Kuching
+    kind: actual
+    origin: third-party
+    subject: The Astana, cung điện trắng ven sông lịch sử của các Bạch Rajah xưa ở Kuching
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Một cổng vòm Trung Hoa trang trí tinh xảo treo đèn lồng đỏ đánh dấu một con phố trong khu Chinatown cổ của Kuching
+    kind: actual
+    origin: third-party
+    subject: Cổng vòm nghi lễ Trung Hoa trong khu Chinatown cổ của Kuching (khu Jalan Attap), với đèn lồng đỏ và biển hiệu các nhà phố
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 Bạn có thể đi bộ hết chiều dài bờ sông của Kuching trong một buổi tối, đi qua một pháo đài thuộc địa, một cung điện của Rajah và một ngôi đền Hoa trên đường, ăn một trong những tô mì tuyệt vời của Borneo, và chụp ảnh với một tượng mèo khổng lồ — tất cả mà không rời thành phố. Kuching là thủ phủ và thành phố lớn nhất của Sarawak, nằm trên sông Sarawak ở mũi tây nam của bang trên đảo Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Nó là căn cứ thành phố-bên-sông thư thái mà hầu hết các chuyến đi Sarawak bắt đầu từ đó. Cẩm nang này bao gồm bản thân thành phố — bờ sông, lịch sử thời Brooke, Khu phố Tàu và các bảo tàng, cùng những con mèo của nó — và cách nó hoạt động như một bệ phóng cho rừng mưa và động vật hoang dã bao quanh nó.

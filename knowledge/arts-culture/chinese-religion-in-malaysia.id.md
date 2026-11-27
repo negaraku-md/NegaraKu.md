@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "id"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: Siapakah Tua Pek Kong, dan di manakah kelenteng Tua Pek Kong tertua?
     a: Tua Pek Kong (大伯公) adalah dewa yang berciri lokal yang kuat, dipuja secara luas di kelenteng-kelenteng Tionghoa di seluruh Malaysia. Kelenteng Tua Pek Kong tertua dikatakan berada di Tanjung Tokong, Penang, dan kepercayaannya kemudian menyebar ke seluruh Malaysia, Singapura, dan Indonesia. Dalam bahasa Melayu, rumah ibadah seperti ini disebut tokong; kelenteng terkenal lainnya mencakup Cheng Hoon Teng di Malaka dan Kuil Thean Hou di Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Atap berubin yang melengkung ke atas dan berhias naga pada Kuil Tionghoa Thean Hou di Kuala Lumpur, dibingkai barisan lampion merah yang tergantung dengan latar langit biru.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: Fasad indah Kelenteng Tua Tionghoa Johor Bahru, dengan patung naga di atap, relief keramik, dan lampion merah di pintu masuk.
+    kind: actual
+    origin: third-party
+    subject: Kelenteng Tua Tionghoa Johor Bahru, sebuah kelenteng agama rakyat Tionghoa
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Rumpun hio yang menyala mengepulkan asap di depan Kelenteng Dewi Kwan Im di George Town, Penang, sebuah rumah ibadah Tionghoa yang telah lama berdiri.
+    kind: actual
+    origin: third-party
+    subject: Hio yang terbakar di Kelenteng Dewi Kwan Im, George Town, Penang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 Masuklah ke kuil Tionghoa mana pun di Malaysia, dan Anda kemungkinan besar akan

@@ -32,7 +32,7 @@ faq:
   - q: "La fête des Neuf Dieux Empereurs est-elle la même chose que la fête des Fantômes affamés ou le Nouvel An chinois ?"
     a: "Non. La fête des Neuf Dieux Empereurs est une fête taoïste du neuvième mois lunaire consacrée spécifiquement aux Neuf Dieux Empereurs, centrée sur l'invocation de l'eau, le jeûne végétarien et l'adieu des dieux ; la fête des Fantômes affamés (Yulan) tombe au septième mois lunaire et a pour thème le salut universel et la délivrance des âmes errantes ; le Nouvel An chinois est une fête culturelle saisonnière centrée sur la réunion familiale. Les trois diffèrent par le moment, l'objet et le sens, et ne doivent pas être confondues."
 lang: "fr"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ festivalFacts:
   who: "Les fidèles au sein de la communauté chinoise de Malaisie ; parmi les temples renommés figurent le temple Nantian d'Ampang, dans le Selangor (安邦南天宫), le temple Doumu de la ruelle Hong Kong à Penang (香港巷斗母宫) et le temple Doumu de Butterworth (北海斗母宫)."
   when: "Du premier au neuvième jour du neuvième mois lunaire, soit neuf jours consécutifs (invocation de l'eau la veille du premier jour, renvoi des divinités pour conclure le neuvième jour)."
   etiquette: "De nombreux fidèles observent le « jeûne végétarien » (斋戒), mangeant végétarien pendant un jour, trois jours ou les neuf jours entiers, et évitant traditionnellement les cinq alliacées ; beaucoup portent des vêtements blancs et une ceinture jaune à la taille ; pendant la période festive se tiennent souvent des processions (游神) à travers les rues, et certains temples pratiquent des austérités comme la marche sur le feu ou le perçage des joues, mais les pratiques varient d'un temple à l'autre."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'Une foule de fidèles tenant des bâtons d''encens devant un autel de temple flanqué de dragons et orné de lanternes jaunes pendant la Fête des Neuf Dieux Empereurs à Ipoh, la fumée de l''encens s''élevant au premier plan.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: Un temple décoré pendant la Fête des Neuf Dieux Empereurs à Kepala Batas, avec des lanternes, des bannières jaunes et des offrandes
+    kind: actual
+    origin: third-party
+    subject: La Fête des Neuf Dieux Empereurs (Kew Ong Yah) célébrée dans un temple à Kepala Batas, Penang
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: Une arche cérémonielle ornementée menant à l'enceinte du temple des Neuf Dieux Empereurs Tow Boo Kong à Butterworth
+    kind: actual
+    origin: third-party
+    subject: L'arche décorée du temple des Neuf Dieux Empereurs Tow Boo Kong à Butterworth, Penang
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 La veille du 1er jour du neuvième mois lunaire, une file de fidèles vêtus de blanc, une ceinture jaune à la taille, sort du temple l'un après l'autre, l'encens à la main, et se dirige vers la rive de fleuve ou de mer la plus proche. Devant, gongs et tambours ; derrière, la fumée de l'encens : ils vont à l'« invocation de l'eau » et à l'« accueil des dieux », pour ramener les Neuf Dieux Empereurs au temple. Pendant les neuf jours suivants, l'encens ne s'éteint pas dans le temple, et l'arôme de la nourriture végétarienne flotte au-dehors ; la nuit du 9e jour, la même file se reformera au bord de l'eau pour reconduire les divinités.

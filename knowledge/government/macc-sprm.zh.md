@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: '一座长长的红砖政府大楼耸立于绿树屏障之上，上层立面标有金色SPRM（反贪会）字样和徽章，下方成排的拱形窗挂着小幅马来西亚国旗'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: 一座造型如船首的深色条纹玻璃大楼，由高高的白色立柱托起，在布城明亮的蓝天和零散云朵下被皇家棕榈树环绕
+    kind: actual
+    origin: third-party
+    subject: 马来西亚反贪污委员会（MACC）总部弧形深色玻璃大楼，布城（2022年）
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 大多数对MACC的介绍止步于「马来西亚的反贪机构」。更有意义的问题其实更具体：该法

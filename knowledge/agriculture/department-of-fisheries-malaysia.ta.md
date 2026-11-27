@@ -30,7 +30,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'மலேசியாவின் சண்டாகானில் கப்பல்துறை அருகே நங்கூரமிட்ட மீன்பிடிப் படகுகளுடன் கூடிய வட்ட வடிவ மீன் சந்தை மண்டபம்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: பஹாங், குவாந்தானில் உள்ள மீன்வளக் கட்டமைப்பில் நங்கூரமிட்ட மீன்பிடிப் படகுக்கு அருகே புதிய மீன்களைப் பெட்டிகளில் வகைப்படுத்தும் தொழிலாளர்கள்
+    kind: actual
+    origin: third-party
+    subject: பஹாங், குவாந்தானில் உள்ள மீன்பிடித் துறையில் புதிய மீன் பிடிப்பை வகைப்படுத்தும் தொழிலாளர்கள்
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: சபா, குவாலா பென்யூவில் சதுப்புக்காடுகள் சூழ்ந்த சுங்கை சிதோம்போக்கில் நங்கூரமிட்ட பெரிய மிதக்கும் இறால் வளர்ப்புக் கூண்டு மேடைகள்
+    kind: actual
+    origin: third-party
+    subject: சபா, சுங்கை சிதோம்போக்கில் ஒரு சதுப்புநில ஆற்றில் மிதக்கும் இறால் வளர்ப்புக் கூண்டுகள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 மலேசிய நீர்நிலைகளில் சட்டப்படி வலை வீசும் ஒவ்வொரு படகும், இறுதியில், ஒரே ஒரு நிறுவனத்திற்குப் பதிலளிக்க வேண்டும். **மலேசிய மீன்வளத் துறை (DOF)** — *Jabatan Perikanan Malaysia* — நாட்டின் கடல் மற்றும் நீர்வள வளர்ப்பு வளங்களை நிர்வகித்து அனைத்து மீன்பிடி நடவடிக்கைகளுக்கும் உரிமம் வழங்கும் மத்திய அரசு அமைப்பாகும். இது **விவசாயம் மற்றும் உணவுப் பாதுகாப்பு அமைச்சின் (MAFS)** கீழ் இயங்கி, **Fisheries Act 1985 (Act 317)**-ஐ நிர்வகிக்கிறது, மேலும் **மீன்வள இயக்குநர்-ஜெனரலால்** வழிநடத்தப்படுகிறது. அதன் தலைமையகம் Putrajaya-வில் உள்ள Wisma Tani-இல் அமைந்துள்ளது, மாநில மற்றும் மாவட்ட அலுவலகங்களின் வலையமைப்பால் ஆதரிக்கப்படுகிறது.

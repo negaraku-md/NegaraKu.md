@@ -79,7 +79,7 @@ entity: "Gas Malaysia Berhad"
 wikidata: "Q5526301"
 relations:
   - { rel: "related-to", to: "electricity-supply-tnb" }
-related: []
+related: ["price-control-anti-profiteering-act", "fuel-pricing-mechanism", "energy-commission-suruhanjaya-tenaga"]
 keywords: ["gas paip asli", "Gas Malaysia", "tong gas", "LPG", "gas domestik", "subsidi gas", "gas memasak", "harga tong gas 14kg"]
 framework: explainer
 ---

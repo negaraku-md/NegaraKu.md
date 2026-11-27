@@ -27,7 +27,7 @@ faq:
   - q: "KPKT पहले किस नाम से जाना जाता था, और नाम कब बदला?"
     a: "यह स्थानीय सरकार विकास मंत्रालय था; मंत्रिमंडल ने 13 दिसंबर 2023 को इसका नाम बदलकर आवास एवं स्थानीय सरकार मंत्रालय करने का निर्णय लिया, जिसकी घोषणा 26 दिसंबर 2023 को हुई।"
 lang: "hi"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,37 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "आवास एवं स्थानीय सरकार मंत्रालय मलेशिया", "Ministry of Housing and Local Government Malaysia", "KPKT कार्य", "KPKT एजेंसियाँ", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "आवास एवं स्ट्रेटा प्रबंधन अधिकरण", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "किफ़ायती आवास मलेशिया B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'पुत्रजया में एक काले साइन स्मारक के ऊपर उठती एक ऊँची घुमावदार धूसर-काँच की सरकारी मीनार, जिस पर KPKT घर-लोगो के साथ Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (शहरी कल्याण, आवास और स्थानीय सरकार मंत्रालय) लिखा है'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: एक काले पत्थर के साइनबोर्ड स्मारक का क्लोज़-अप जिस पर मलेशिया का राजचिह्न, शब्द Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government, वेब पता kpkt.gov.my और रंगीन KPKT घर लोगो अंकित हैं
+    kind: actual
+    origin: third-party
+    subject: मंत्रालय इमारत के प्रवेश पर KPKT साइनबोर्ड स्मारक, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: पुत्रजया में KPKT सरकारी मीनार का सामने का दृश्य, जिसका केंद्रीय मुखौटा लंबे खड़े Jalur Gemilang राष्ट्रीय ध्वजों से सजा है, बादल भरे आसमान के विरुद्ध पंखे-जैसे ताड़ों से घिरा हुआ
+    kind: actual
+    origin: third-party
+    subject: खड़े मलेशियाई ध्वजों से सजी पुत्रजया में KPKT मीनार
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 जब आपका कचरा न उठाया जाए, जब अग्नि-सुरक्षा प्रमाणपत्र की अवधि आ जाए, और जब कोई डेवलपर आपका फ़्लैट दो साल की देरी से सौंपे — इन तीनों के पीछे वही संघीय मंत्रालय बैठा होता है। **आवास एवं स्थानीय सरकार मंत्रालय**, *Kementerian Perumahan dan Kerajaan Tempatan*, जो सर्वत्र **KPKT** के नाम से जाना जाता है, किफ़ायती आवास, स्थानीय सरकार, नगर नियोजन, अग्निशमन एवं बचाव, ठोस अपशिष्ट, भूदृश्य-संयोजन, और सामुदायिक ऋण के लिए मलेशिया का संघीय मंत्रालय है। इसका मुख्यालय No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya में है। मंत्री **Nga Kor Ming** हैं और उप-मंत्री **Datuk Hajah Aiman Athirah binti Sabu** हैं।

@@ -40,7 +40,7 @@ faq:
     a: "El museo, en el 48 y 50 de Jalan Tun Tan Cheng Lock, cierra los martes. Abre de 10:00 a 16:15 entre semana (excepto el martes) y de 10:00 a 16:45 los fines de semana. Dado que los horarios y los precios pueden cambiar, confírmalo en el sitio oficial del museo antes de visitarlo."
 
 lang: "es"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que buscan un núcleo patrimonial de la UNESCO compacto y recorrible a pie — hitos del sultanato malayo, portugueses y neerlandeses, además de la comida nyonya peranakan (baba nyonya) — fácil de hacer como viaje de fin de semana.'
+  getThere: 'Se llega por carretera desde Kuala Lumpur, a unas dos horas en coche — un viaje de fin de semana habitual.'
+  watch: 'Planifique según el día de la semana — el mercado nocturno de Jonker Street funciona solo las tardes de viernes a domingo, y entre semana es una calle de tiendas-vivienda corriente — y no confunda la puerta histórica gratuita de A Famosa con el parque temático A''Famosa Resort, aparte y fuera de la ciudad.'
+  next: 'Confirme los días y horarios de apertura vigentes con el sitio oficial del Museo del Patrimonio Baba & Nyonya (Baba & Nyonya Heritage Museum) antes de su visita, ya que cambian.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'El edificio Stadthuys holandés de color terracota detrás de la Fuente Victoria y los puestos de mercado en la Plaza Holandesa de Melaka'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: Un barco de crucero fluvial pasando junto a coloridas tiendas tradicionales históricas y árboles a lo largo del turquesa río Malaca en el casco antiguo
+    kind: actual
+    origin: third-party
+    subject: Crucero por el río Malaca entre las tiendas tradicionales del casco antiguo
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: El arco de entrada de Jonker Walk que marca el acceso a la calle del barrio chino de Malaca, junto a la Iglesia Metodista Tamil de 1908
+    kind: actual
+    origin: third-party
+    subject: Arco de entrada de Jonker Walk junto a la Iglesia Metodista Tamil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 Párate en la Dutch Square al atardecer y podrás leer cinco siglos de una sola mirada: un ayuntamiento neerlandés de color rojo salmón a un lado, las ruinas de una iglesia de la época portuguesa en la colina de arriba, una puerta de piedra que en su día ancló una fortaleza que los británicos intentaron demoler y —a dos minutos a pie— una callejuela de casas urbanas chino-malayas ahora iluminadas para un bazar de viernes por la noche. Melaka no reparte su historia por una gran ciudad. La apila en aproximadamente una milla cuadrada que puedes recorrer en una tarde. Aquí tienes cómo leerla y cómo planificar una visita en torno a ella.

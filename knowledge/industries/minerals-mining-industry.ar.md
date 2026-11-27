@@ -31,7 +31,7 @@ faq:
   - q: "لماذا تحظر ماليزيا تصدير الأرض النادرة الخام؟"
     a: "تقول الحكومة إن الحظر — الساري منذ مطلع 2024 — يرمي إلى منع تصدير موارد البلاد من الأرض النادرة دون معالجة، وإلى إجبار إضافة القيمة في الداخل عبر التكرير المحلي والصناعات في المصبّ. ووصفه مسؤولون بأنه حماية لمورد استراتيجي؛ وقد تغيّرت شروط السياسة الدقيقة بمرور الوقت وينبغي التحقق منها مقابل أحدث بيان حكومي."
 lang: ar
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,32 @@ keywords:
   - "JMG"
   - "Lynas"
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'جرّافة تعدين القصدير المحفوظة TT5 قائمة بجانب بركة تعدين سابقة في بيراك بماليزيا، أثر من حقبة تجريف القصدير في البلاد.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: واجهة صخرية مكشوفة ومصاطب مستغَلّة لمحجر حجارة في Jalan Sukau بمنطقة Kinabatangan في Sabah.
+    kind: actual
+    origin: third-party
+    subject: محجر حجارة في Jalan Sukau، منطقة Kinabatangan، Sabah، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: مطحنة حجارة مؤقّتة مزوّدة بسيور ناقلة وأكوام من الحصى تعالج الحجارة قرب Salarom، Sabah، ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: مطحنة حجارة (kilang batu) تسحق الحجر إلى حصى قرب Salarom، Sabah، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 بُني اقتصاد ماليزيا الحديث، حرفيًا، بما حُفر من الأرض. فقبل زيت النخيل والإلكترونيات وأشباه الموصلات بزمن طويل، كان **القصدير** هو ما جعل شبه الجزيرة مهمة للعالم — فمّوّل السكك الحديدية، وأنمى مدنًا مثل إيبوه وكوالالمبور، واجتذب أجيالًا من المعدّنين المهاجرين. والتعدين أقدم قصة صناعية في البلاد، ومع أنه لم يعد يهيمن على الاقتصاد، تُعاد كتابته بهدوء حول جائزة حديثة جدًا: عناصر الأرض النادرة.

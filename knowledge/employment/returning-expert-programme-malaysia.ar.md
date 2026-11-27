@@ -64,7 +64,7 @@ wikidata: "Q141851814"
 relations:
   - { rel: "administered-by", to: "talentcorp-malaysia" }
   - { rel: "related-to", to: "income-tax-rates-malaysia" }
-related: []
+related: ["income-tax-individuals", "employment-act-1955-guide", "malaysian-citizenship-by-registration"]
 keywords: ["برنامج الخبراء العائدين", "Returning Expert Programme", "REP", "TalentCorp", "ضريبة ثابتة 15%", "15% flat tax", "الشتات الماليزي", "MyHeart", "CKD vehicle exemption"]
 framework: explainer
 ---

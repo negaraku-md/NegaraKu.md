@@ -81,6 +81,34 @@ festivalFacts:
   when: "தமிழ் மாதமான தை பிறக்கும் நாள் — கிரிகோரியன் நாட்காட்டியில் பொதுவாக ஜனவரி நடுப்பகுதி (14 அல்லது 15)."
   holiday: "மலேசியாவில் கூட்டரசு அளவிலோ எந்த மாநில அளவிலோ வர்த்தமானப்படுத்தப்பட்ட பொது விடுமுறை அல்ல. (தீபாவளி மட்டுமே கூட்டரசுப் பொது விடுமுறை — சரவாக்கைத் தவிர; தைப்பூசம் சில மாநிலங்களில் மட்டும் விடுமுறை.)"
   etiquette: "முதன்மையாக அறுவடை சார்ந்த பண்பாட்டுப் பண்டிகை, மதச் சார்பற்றது (2020-இல் மலேசிய அமைச்சர் தெளிவுபடுத்தினார்); சமூக அமைப்புகளும் கோயில்களும் பலப் பானைகளில் ஒருசேரப் பொங்கல் வைத்து, கலை நிகழ்ச்சிகளுடன் பொதுக் கொண்டாட்டம் நடத்துகின்றன."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'தைப் பொங்கலின்போது, இந்துக் கோயிலில் திறந்தவெளியில், சாமந்தி மாலை சூடிய மண்பானையில் ஆவி கிளம்பும் பொங்கல் சோற்றைக் கிளறும், ஊதா-தங்க சேலையணிந்த சிரிக்கும் பெண்'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: ஒரு வீட்டு வாயிலுக்கு வெளியே தரையில் வண்ணப் பொடியால் வரையப்பட்ட பெரிய வண்ணமயமான பொங்கல் கோலம், கரும்புத் தண்டுகள், பிரகாசமான மலர்கள் மற்றும் வழிந்தோடும் விழாப் பானையைக் காட்டுகிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு தெருவில் கரும்பு, மலர்கள் மற்றும் வழிந்தோடும்-பானை வடிவத்துடன் வண்ணமயமான பொங்கல் கோலம்
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: அறுவடை விழாவின் போது பொங்கல் சமைக்கத் தயாரிக்கப்பட்ட, சிவப்பு விளிம்பு கொண்ட இரண்டு வட்டக் களிமண் பானைகள், வண்ணமயமான கோணல்-கோடு மற்றும் புள்ளி வடிவங்களால் வெள்ளையில் கையால் வர்ணம் பூசப்பட்டுள்ளன
+    kind: representative
+    origin: third-party
+    subject: அறுவடை விழாவுக்காக அலங்கரிக்கப்பட்ட கையால் வர்ணம் பூசப்பட்ட இரண்டு களிமண் பொங்கல் பானைகள்
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 தை மாதம் பிறக்கும் அதிகாலையில், மலேசியாவின் தமிழ்க் குடும்பங்களின் முற்றங்களிலும்

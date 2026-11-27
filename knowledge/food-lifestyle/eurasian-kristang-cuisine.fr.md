@@ -87,6 +87,14 @@ verificationNeeded:
   - "L'étymologie et la classification du gâteau sugee (un gâteau de fête à la semoule et au beurre ; le nom est communément rattaché au mot sud-asiatique pour la semoule et la recette comparée au gâteau Madeira britannique) — à confirmer auprès d'une source d'histoire culinaire."
   - "L'année de fondation du Portuguese Settlement (communément donnée comme 1933) et l'affirmation selon laquelle plusieurs plats familiaux comme le pang susi et les plats d'abats se raréfient — à confirmer auprès d'une source primaire ou patrimoniale."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'Une part de gâteau sugee (semoule) moelleux à la croûte dorée sur une assiette blanche avec une fourchette'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 Commandez un curry dans une cuisine malaise de Melaka et vous goûtez la noix de coco

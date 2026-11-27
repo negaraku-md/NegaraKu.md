@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,32 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'クアラトレンガヌの青空の下、銀と金のドームを持つクリスタル・モスク（水晶モスク）が、多くの細いミナレットと白い歓迎アーチを備えている。'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: トレンガヌ州のクアラ・トレンガヌ近くで、トゥンク・テンガ・ザハラ・モスクがイバイ潟湖の上に浮かんでいるように見える。
+    kind: actual
+    origin: third-party
+    subject: トレンガヌ州クアラ・トレンガヌ、トゥンク・テンガ・ザハラ水上モスク
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: トレンガヌ州沿岸沖のルダン島で、澄んだ碧緑の海水が、森に縁取られた白砂のビーチに打ち寄せている。
+    kind: actual
+    origin: third-party
+    subject: トレンガヌ州、ルダン島のビーチ
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 トレンガヌで最もよく知られている二つのものは、互いに約60キロメートル離れた場所にあり、そのどちらも目にすることは難しい。

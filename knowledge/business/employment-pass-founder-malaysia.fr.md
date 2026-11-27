@@ -121,6 +121,12 @@ keywords:
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
 framework: how-to
+stayFacts:
+  who: 'Ceci s''adresse à un fondateur ou un administrateur-actionnaire étranger qui entend diriger une société malaisienne depuis la Malaisie au moyen d''un Employment Pass.'
+  how: 'Suivez l''ordre des étapes, car c''est l''ordre qui constitue le piège. Constituez d''abord la société auprès de la SSM, enregistrez et activez-la auprès de l''Expatriate Services Division, et alors seulement la société — et non vous-même — pourra parrainer votre Employment Pass. En tant que demandeur actionnaire, vous devez détenir au moins la participation minimale au capital et être un administrateur ou un titulaire de poste clé enregistré auprès de la SSM, et la société doit franchir un seuil de capital libéré qui varie selon la structure de l''actionnariat et le secteur.'
+  cost: 'Le seuil de capital libéré, les tranches de salaire de base minimal par catégorie, ainsi que les seuils de participation et de qualification sont tous fixés par la politique d''Immigration et de l''ESD et ont été révisés récemment ; confirmez donc les chiffres actuels sur ESD Online plutôt qu''un chiffre cité. Le test salarial ne prend en compte que le salaire de base — les indemnités ne comptent pas.'
+  watch: 'Vous ne pouvez pas vous octroyer un Employment Pass pour entrer dans une société qui n''atteint pas encore le capital nécessaire pour vous parrainer — c''est le piège de l''ordre des étapes. Les sociétés des secteurs du commerce de distribution soumis à restrictions peuvent n''obtenir aucun visa de longue durée, et un renouvellement intervenant après le récent changement de politique est évalué selon les nouvelles tranches et peut vous reclasser à la baisse.'
+  next: 'Confirmez le seuil de capital, la catégorie salariale et les exigences de participation et d''administrateur actuels pour votre structure d''actionnariat sur ESD Online, constituez et enregistrez la société avant de déposer votre demande, et planifiez tout renouvellement en fonction de la politique révisée. Consultez la comparaison des visas d''affaires et l''explication sur l''administrateur résident.'
 ---
 
 L'ordre des opérations fait échouer plus de fondateurs étrangers que n'importe quelle règle

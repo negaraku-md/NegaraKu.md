@@ -31,7 +31,7 @@ faq:
     a: "அரசு ஆம்புலன்ஸ்கள் 999 தொலைபேசி எண் வழியாக இலவசமாக அனுப்பப்படுகின்றன; இவை KKM-உடன் இணைந்து St John Ambulance மற்றும் Bulan Sabit Merah Malaysia போன்ற தன்னார்வ அமைப்புகளால் நிர்வகிக்கப்படுகின்றன. தனியார் ஆம்புலன்ஸ்கள் மறுபுறம் தனியார் நிறுவனங்கள் அல்லது மருத்துவமனைகளால் அவற்றின் சொந்த hotline மூலம் இயக்கப்படுகின்றன; அழைப்பின் தன்மையைப் பொறுத்து சேவைக் கட்டணம் வசூலிக்கின்றன."
 
 lang: "ta"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: '''Ambulans'' மற்றும் 999 அவசர எண்ணால் குறிக்கப்பட்ட, ஒரு நெடுஞ்சாலையில் செல்லும் மலேசிய சுகாதார அமைச்சக ஆம்புலன்ஸ்.'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: ஒரு மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறை (Bomba) நிலையம், 999 அழைப்பு இணைப்பு வழியாக அணுகக்கூடிய அவசர சேவைகளில் ஒன்று
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், பகோவில் உள்ள தீயணைப்பு மற்றும் மீட்புத் துறை (Bomba, JBPM) நிலையம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: மலாக்காவில் ஒரு தெருவில் St John Ambulance Malaysia ஆம்புலன்ஸ், அரசு எதிர்வினையுடன் இணைந்து இயங்கும் தன்னார்வ அவசர மருத்துவ சேவைகளில் ஒன்று
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவில் நிறுத்தப்பட்டுள்ள St John Ambulance Malaysia அவசர ஆம்புலன்ஸ்
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 நீங்கள் 999-ஐ அழுத்துகிறீர்கள். தொலைபேசியின் மறுமுனையில் உள்ள குரல் உங்கள் பெயர், இருப்பிடம், என்ன நடந்தது என்பதைக் கேட்கிறது — நிர்ணயிக்கப்பட்ட நேரத்திற்குள், ஒரு ஆம்புலன்ஸ் குழு ஏற்கெனவே வழியில் இருக்க வேண்டும். ஆனால் அந்த அழைப்பின் பின்னால் என்ன நடக்கிறது என்பது பலருக்குத் தெரியாது: உண்மையில் யார் பதிலளிக்கிறார்கள், அது இலவசமா, மேலும் மருத்துவமனைக்குப் பிந்தி வரும் மற்ற நோயாளிகள் சில வேளைகளில் ஏன் உங்களுக்கு முன்பாகச் சிகிச்சை பெறுகிறார்கள்.

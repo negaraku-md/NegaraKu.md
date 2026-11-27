@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "मलेशियाई भूगोल और इतिहास के विद्यार्थी, और हर वह व्यक्ति जो समझना चाहता है कि सरावाक, सबा और पहांग के प्रमुख नगर अपनी नदियों के किनारे विशिष्ट स्थानों पर क्यों बसे हैं।"
 
 lang: "hi"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'घने हरे वर्षावन और ऊँचे सरकंडों से घिरे किनारों के बीच मुड़ती हुई एक चौड़ी मटमैली-भूरी उष्णकटिबंधीय नदी, बिखरे बादलों वाले चमकीले नीले आकाश के नीचे।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: रजांग नदी का विस्तृत, शांत फैलाव सुनहरे संध्या आकाश को प्रतिबिंबित करता है, जो दूरी में विलीन होती सरावाक की नीची वनाच्छादित तटरेखाओं से घिरा है।
+    kind: actual
+    origin: third-party
+    subject: सरावाक में सांझ के समय रजांग नदी, मलेशिया की सबसे लंबी नदी
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: मलक्का के ऐतिहासिक पुराने नगर में रंगीन नदी-किनारे की दुकान-घरों और जलतट के पैदल मार्गों के बीच बहती संकरी मलक्का नदी।
+    kind: actual
+    origin: third-party
+    subject: मलक्का शहर के ऐतिहासिक पुराने नगर से होकर बहती मलक्का नदी
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 पैन बोर्नियो हाईवे (Pan Borneo Highway) या MASwings की उड़ानों के अस्तित्व में आने से पहले, सरावाक के भीतरी इलाके तक पहुँचने का एकमात्र रास्ता दिनों-दिन नदी के ऊपर की ओर यात्रा करना था। आज के प्रमुख नगर — सिबू (Sibu), कापित (Kapit), संदाकान (Sandakan), पेकान (Pekan) — अपने स्थानों पर संयोग से नहीं बसे। हर एक वहीं बसा जहाँ नदी ने तय किया: किसी नदी के मुहाने पर, दो नदियों के संगम पर, या उस सबसे दूर के बिंदु पर जहाँ तक जहाज़ अब भी चल सकता है। तीन नदियाँ — राजंग, किनाबातांगान और पहांग — इस स्वरूप को सबसे स्पष्ट रूप से दर्शाती हैं।

@@ -20,7 +20,7 @@ keyTakeaways:
   - "Masuk awal (di bawah umur) dan penangguhan Tahun 1 keduanya ada sebagai kebijakan resmi terpisah — permohonan dilakukan melalui JPN, bukan melalui sistem idMe biasa, dan penangguhan adalah keistimewaan (privilege), bukan hak otomatis"
 appliesTo: "Orang tua atau wali warga negara Malaysia yang anaknya akan memasuki Tahun 1 sekolah rendah pemerintah atau Tingkatan 1 sekolah menengah pemerintah."
 lang: "id"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'Bangunan merah muda bertingkat Sekolah Kebangsaan Kota Warisan di Sepang, Selangor, dengan papan nama pada fasadnya dan kompleks berpagar di sepanjang jalan.'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: Blok ruang kelas utama sebuah sekolah dasar kebangsaan di Ayer Keroh, Melaka, jenis sekolah negeri tempat sebagian besar keluarga mendaftarkan anak mereka.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, Melaka
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: Sebuah selasar beratap yang diapit bendera Malaysia menuju gerbang sekolah negeri, jalan yang ditempuh siswa baru pada hari pendaftaran pertama mereka.
+    kind: representative
+    origin: third-party
+    subject: Jalan masuk berjajar bendera menuju sebuah sekolah negeri di Malaysia
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 Banyak orang tua terkejut ketika mendapati mereka tidak dapat "mendaftarkan" anak

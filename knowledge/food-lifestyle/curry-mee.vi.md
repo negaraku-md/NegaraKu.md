@@ -98,6 +98,7 @@ dishFacts:
   halal: "Các phiên bản kiểu Hoa truyền thống không halal: các khối huyết heo đông và tóp mỡ chiên là những món thêm cổ điển, và tô ở Penang thường có huyết heo đông làm giàu và làm sậm nước dùng. Nhiều phiên bản halal do người Hồi giáo điều hành bỏ thịt heo ra. Vì công thức khác nhau theo từng quán, tốt nhất nên hỏi từng quán."
   eat: "Độ cay thường đến riêng -- một muỗng sốt ớt (hoặc sambal) được khuấy vào hoặc dọn bên cạnh để mỗi thực khách tự điều chỉnh. Theo kiểu curry laksa của Kuala Lumpur và miền trung, sốt ớt thường được khuấy thẳng vào súp, trong khi curry mee Penang thường được dọn với sốt ớt để bên cạnh và hoàn thiện bằng một nhánh bạc hà tươi."
   where: "Curry mee được bán trên toàn quốc tại các kopitiam (quán cà phê), trung tâm ẩm thực và quầy đường phố, như một món chủ lực cho bữa sáng và cả ngày. George Town của Penang là nơi săn tìm nổi tiếng nhất, với các quầy lâu đời gây dựng danh tiếng qua nhiều thế hệ, trong khi Thung lũng Klang và các thành phố khác trên bán đảo phục vụ phiên bản curry laksa dồi dào không kém."
+wikidata: "Q391082"
 ---
 
 Gọi "curry mee" ở George Town, bạn sẽ nhận được một tô mì cốt dừa dịu nhẹ, thơm

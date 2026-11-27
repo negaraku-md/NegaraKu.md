@@ -31,7 +31,7 @@ faq:
     a: "JBPM 被列为房屋及地方政府部（KPKT）之下的部门。马来西亚的部门职权范围会不时重组，因此在正式文件中依赖之前，请在 kpkt.gov.my 或 bomba.gov.my 核实当前的编排。"
 
 lang: "zh"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,33 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: '晴朗蓝天下，几辆相同的鲜红色Scania消防车，统一涂着''Bomba dan Penyelamat''标识，首尾相接整齐停在消防局旁的空地上'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: 一辆红色 Bomba（消防局）四驱消防救援车，车尾是帆布覆盖的货斗，车门上有部门徽章，停在一座红顶消防局的前场，背后有一棵棕榈树
+    kind: actual
+    origin: third-party
+    subject: 一辆红色 Bomba（消防局）重型救援车停在沙巴山打根（Sandakan）的消防局
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: 一座三层消防局的正面，漆成米色与赤陶色，一排卷帘门上用红色大字拼出 BOMBA，上方招牌写着「Balai Bomba dan Penyelamat Jalan Kubu」，立面上挂着一串串红灯笼
+    kind: actual
+    origin: third-party
+    subject: 马六甲甲古路消防局（Balai Bomba dan Penyelamat）的立面，车库卷帘门上用大字拼出 BOMBA 一词
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 当一间房子起火、一辆汽车困于洪水，或一名工人被困于密闭空间时，同一个号码

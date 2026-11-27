@@ -35,7 +35,7 @@ seoTitle: "Orang Asli: तीन मुख्य समूह, 18 उपसम�
 socialTitle: "Orang Asli कौन हैं — तीन समूह, 18 उपसमूह, और वह एजेंसी जो उनकी देखभाल करती है"
 
 lang: "hi"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'एक टाइल वाली छत वाले गाँव के स्कूल भवन के सामने, हरे पेड़ों से घिरा, Selamat Datang ke KOA Lubuk Legong पढ़ा जाने वाला रंगबिरंगा भित्ति-चित्र।'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: एक खुले सांस्कृतिक प्रदर्शन में दर्शकों के सामने तराशे हुए लकड़ी के पूर्वज-आत्मा मुखौटे और ताड़-पत्ते की चुन्नटदार वेशभूषा में एक Mah Meri कलाकार मायिन जोओह नृत्य करता हुआ।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में एक सांस्कृतिक प्रदर्शन में प्रस्तुत माह मेरी मायिन जोओह (Mah Meri Mayin Jo'oh) मुखौटा नृत्य
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: कुआलालंपुर में Orang Asli शिल्प संग्रहालय का प्रवेश, जहाँ उष्णकटिबंधीय हरियाली के बीच साइनबोर्ड के पास एक बड़ी तराशी हुई लकड़ी की Orang Asli मूर्ति खड़ी है।
+    kind: actual
+    origin: third-party
+    subject: Orang Asli शिल्प संग्रहालय (Muzium Seni Kraf Orang Asli), कुआलालंपुर
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 मलेशिया नाम किसी भी मानचित्र पर अस्तित्व में आने से बहुत पहले ही, समुदाय प्रायद्वीप के जंगलों, ऊँचे पठारों और तटों में बस चुके थे। आज उन्हें सामूहिक रूप से Orang Asli के नाम से जाना जाता है — एक मलय शब्द जिसका अर्थ है "मूल लोग" या "मूल निवासी"।

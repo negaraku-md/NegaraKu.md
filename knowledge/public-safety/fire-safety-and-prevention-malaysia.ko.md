@@ -32,7 +32,7 @@ faq:
     a: "전기 관련 문제가 주거 화재에서 가장 흔한 원인 중 하나입니다 — 손상된 배선, 과부하된 콘센트, 마모된 연장 케이블. 감독 없이 방치된 조리와 LPG 가스 누출도 주요 원인입니다."
 
 lang: "ko"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,36 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: '따뜻한 오후 햇빛 속, 정면에 ''BOMBA'' 글자가 걸쳐 쓰이고 측면에 장비함과 파란 경광등 바가 있는 밝은 붉은 메르세데스-벤츠 아테고 봄바 소방차가 소방서의 열린 셔터 아래에서 출동하는 모습'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: 빨간 'Bomba dan Penyelamat' 소방차의 측면. 롤러 보관함이 열려 가지런히 감은 호스, 호스 릴, 호흡장비, 휴대용 발전기와 그 밖의 구조 장비가 보인다
+    kind: actual
+    origin: third-party
+    subject: 소화·구조 장비를 드러내 보이는, 말레이시아 Bomba 소방차의 열린 측면 보관함
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: 노란 BOMBA 글자와 부서 문장이 있는 'Bomba dan Penyelamat' 도색의 빨간 토요타 하이에이스 Bomba 구조 밴이, 시골 마을의 나무 옆 풀밭에 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 라나우의 시골 캄풍에 배치된 빨간 Bomba 긴급 구조 밴
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 불은 경고하지 않습니다. 단 몇 분 만에 과부하된 콘센트에서 튄 불꽃이나 방치된 냄비가 집을 잿더미로 만들 수 있으며 — 2025년 한 해에만 [말레이시아 소방구조청](/government/fire-and-rescue-department-bomba)(JBPM)은 98명의 사망과 RM2.09십억으로 추정되는 재산 손실을 동반한 16,111건의 화재 사건을 기록했습니다. 다행인 것은 거의 모두가 예방할 수 있다는 점입니다 — 거실에서든 공장 바닥에서든.

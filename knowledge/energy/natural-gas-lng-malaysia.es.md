@@ -34,7 +34,7 @@ faq:
     a: "El Acceso de Terceros (TPA) permite que los transportistas cualificados, no solo PETRONAS, reserven capacidad en terminales de regasificación, gasoductos de transmisión y gasoductos de distribución en las mismas condiciones. Comenzó el 16 de enero de 2017 bajo la Ley de Suministro de Gas (Enmienda) de 2016 y está regulado por la Comisión de Energía."
 
 lang: "es"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,32 @@ relations:
 related: ["petronas"]
 keywords: ["gas natural Malasia", "GNL Malasia", "GNL Bintulu", "Peninsular Gas Utilisation", "gasoducto PGU", "terminal de regasificación", "Acceso de Terceros", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'Una terminal costa afuera de carga de gas natural licuado con tuberías y embarcaderos sobre aguas costeras poco profundas en Bintulu, Malasia.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: Un gran buque de gas natural licuado navegando en mar abierto, con su larga cubierta flanqueada por grandes estructuras de tanques de carga aislados y tuberías, dejando una estela bajo un cielo despejado
+    kind: representative
+    origin: third-party
+    subject: un buque de gas natural licuado del tipo que transporta el GNL malasio a compradores del extranjero
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: Una extensa terminal terrestre de procesamiento de gas con altas columnas de destilación, esferas de almacenamiento plateadas, antorchas y una densa trama de tuberías, en un terreno costero despejado con colinas al fondo
+    kind: actual
+    origin: third-party
+    subject: la terminal de petróleo y gas de Sabah (SOGT) en Kimanis, Sabah, una instalación terrestre de procesamiento de gas de Petronas
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 Cada vez que una central eléctrica en Selangor arranca o una fábrica de guantes en Penang calienta sus hornos, lo más probable es que el gas comenzara su viaje a cientos de kilómetros de distancia, frente a las costas de Terengganu o al otro lado del mar de China Meridional, en Sarawak. Malasia es a la vez un peso pesado de la exportación de gas y, cada vez más, un importador de gas, y las tuberías y terminales que concilian esos dos hechos figuran entre los activos energéticos más valiosos del país.

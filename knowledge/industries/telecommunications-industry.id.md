@@ -31,7 +31,7 @@ faq:
   - q: Apakah pasar telekomunikasi Malaysia masih tumbuh?
     a: Pertumbuhan pelanggan sebagian besar telah mendatar karena pasar nyaris jenuh. Pertumbuhan di masa depan diperkirakan berasal dari layanan bernilai lebih tinggi — 5G, peningkatan serat optik, konektivitas enterprise, dan layanan digital — ketimbang dari mendaftarkan sejumlah besar pengguna baru.
 lang: id
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'Sebuah menara telekomunikasi seluler yang membawa beberapa antena panel dengan latar langit cerah.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: Sebuah stan pameran gelap yang besar dengan logo dan nama merek CelcomDigi menyala di bagian atas serta panel biru menyala bertuliskan CelcomDigi fibre, Ultra Smooth Low Latency, dengan para pengunjung bermasker berkumpul di bawahnya
+    kind: actual
+    origin: third-party
+    subject: sebuah stan pameran CelcomDigi yang mempromosikan broadband fiber, menunjukkan kehadiran konsumen sebuah operator seluler dan broadband Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: Sebuah dinding panjang server komputer yang terpasang pada rak memanjang pada suatu sudut, setiap tingkat dihiasi lampu status biru berkilauan dengan latar lemari logam gelap
+    kind: representative
+    origin: third-party
+    subject: deretan peralatan jaringan dan server yang menyala dengan lampu indikator biru di sebuah pusat data, infrastruktur yang menopang jaringan telekomunikasi
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 Hampir semua orang di Malaysia membawa koneksi seluler, dan sebagian besar rumah memiliki suatu bentuk broadband. Itu menjadikan telekomunikasi salah satu industri terpenting dan paling matang di negara ini — pipa tak kasatmata di bawah ekonomi digital, perbankan daring, e-government, dan kehidupan sehari-hari. Namun di balik nama-nama merek yang akrab, terdapat pasar yang telah berubah dramatis dalam beberapa tahun terakhir: lebih sedikit operator, merger yang lebih besar, dan eksperimen nasional tentang cara membangun 5G.

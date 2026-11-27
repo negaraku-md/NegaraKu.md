@@ -81,6 +81,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'A young oil palm plantation covering rolling land in Mersing, Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: An oil-palm estate harvester shouldering a long sickle pole among mature palms, with a cut fresh fruit bunch on the ground, in Tenom District, Sabah
+    kind: actual
+    origin: third-party
+    subject: A plantation worker carrying a harvesting pole among mature oil palms in Tenom, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: Close-up of reddish fresh fruit bunches ripening at the crown of an oil palm on Kimanis Estate, Sabah
+    kind: actual
+    origin: third-party
+    subject: Fresh fruit bunches ripening on an oil palm at Kimanis Estate, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 A farmer in Bintulu who can walk every boundary of his oil palm plot from memory now has to turn those "mental maps" into GPS polygons before a buyer in Europe will touch his fruit. That gap — between knowing your land and documenting it to an auditor's satisfaction — is the quiet story behind Malaysia's smallholder palm oil economy.

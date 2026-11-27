@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: '国立劇場イスタナ・ブダヤ（Istana Budaya）の正面入口。流れるようなシレ・ジュンジュン（sirih junjung）形の屋根、金色の蓮の紋章、そして彫刻を施した木製扉へと続く幅広い階段がある。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: サラワクの伝統衣装をまとった一団の踊り手が、観客のために舞台で民俗舞踊を披露している
+    kind: actual
+    origin: third-party
+    subject: 伝統衣装をまとった出演者が、マレーシアの文化披露の場でサラワクの民俗舞踊を演じる様子
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: マレーシア国立博物館の正面。ミナンカバウ様式の尖った屋根と大きなタイル張りの壁画パネルを備えた建物
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのマレーシア国立博物館（Muzium Negara）。ミナンカバウ様式の屋根と文化遺産を描いたモザイク壁画をもつ
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 1971年、[1969年5月13日事件](/malaysia/13-may-1969)からおよそ2年後、学者、芸術従事者、指導者たちがマラヤ大学に集まり、多民族国家にとって難しい一つの問いに答えようとした——「国家文化」とは何を意味するのか、と。そこから生まれた答え——国家文化政策（DKK）——は、今日に至るまで政策の参照点であり続けると同時に、依然として議論の対象でもある。

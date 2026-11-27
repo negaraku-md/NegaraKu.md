@@ -29,7 +29,7 @@ faq:
     a: "HSN उत्सव का मुख्य दिन है। 2019 से, KBS ने इस उत्सव को पूरे अक्टूबर माह में राष्ट्रीय खेल माह (BSN) के रूप में विस्तारित किया है।"
 
 lang: "hi"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'कुआलालंपुर में एक रात्रि सड़क दौड़ के दौरान फ्लडलाइट से रोशन सुल्तान अब्दुल समद इमारत के पास से धावकों की भीड़ गुजरती है।'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: Car Free Day आयोजन के दौरान भोर में एक बंद Kuala Lumpur सड़क को भरते हुए हर उम्र के साइकिल चालकों की बड़ी भीड़, ऊपर एक उत्सवी बैनर।
+    kind: representative
+    origin: third-party
+    subject: Kuala Lumpur के एक Car Free Day की सुबह में सामूहिक-भागीदारी वाले साइकिल चालक
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: एक जिला स्कूल एथलेटिक्स चैंपियनशिप के दौरान एक मलेशियाई स्टेडियम के लाल रनिंग ट्रैक पर जमा युवा एथलीट और अधिकारी, पीछे फ्लडलाइट और दर्शक-दीर्घाएं।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई जिला स्कूल एथलेटिक्स चैंपियनशिप में ट्रैक पर एथलीट
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 अक्टूबर के दूसरे सप्ताह के हर शनिवार को, पूरे मलेशिया के खेल मैदान, पार्क और हॉल खचाखच भरे होने चाहिए — यही राष्ट्रीय खेल दिवस के पीछे का उद्देश्य है।

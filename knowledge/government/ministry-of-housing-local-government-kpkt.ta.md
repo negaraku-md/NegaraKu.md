@@ -27,7 +27,7 @@ faq:
   - q: "KPKT முன்பு என்ன அழைக்கப்பட்டது, எப்போது பெயர் மாறியது?"
     a: "இது உள்ளாட்சி வளர்ச்சி அமைச்சாக (Ministry of Local Government Development) இருந்தது; 2023 டிசம்பர் 13 அன்று அமைச்சரவை அதை வீட்டுவசதி மற்றும் உள்ளாட்சி அமைச்சு என மறுபெயரிட முடிவு செய்தது, இது 2023 டிசம்பர் 26 அன்று அறிவிக்கப்பட்டது."
 lang: "ta"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,37 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'Putrajaya-வில் ஒரு கருப்பு பலகை அடையாளத்திற்கு மேல் உயரும் உயர்ந்த வளைந்த சாம்பல்-கண்ணாடி அரசாங்கக் கோபுரம்; பலகையில் KPKT வீட்டு சின்னத்துடன் Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (நகர்ப்புற நலன், வீட்டுவசதி மற்றும் உள்ளூராட்சி அமைச்சு) எனப் படிக்கிறது'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: மலேசிய அரச சின்னம், Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government என்ற சொற்கள், kpkt.gov.my என்ற இணையமுகவரி மற்றும் வண்ணமயமான KPKT வீட்டுச் சின்னத்தைச் சுமக்கும் கருப்புக் கல் பலகை நினைவுத்தூணின் அருகிலான காட்சி
+    kind: actual
+    origin: third-party
+    subject: அமைச்சகக் கட்டிட நுழைவாயிலில் உள்ள KPKT பலகை நினைவுத்தூண், புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: புத்ராஜெயாவில் உள்ள KPKT அரசாங்க கோபுரத்தின் முன்புறக் காட்சி; அதன் மைய முகப்பில் நீளமான செங்குத்து Jalur Gemilang தேசியக் கொடிகள் தொங்கவிடப்பட்டு, மேகமூட்டமான வானத்திற்கு எதிராக விசிறி-பனைகளால் சூழப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: செங்குத்து மலேசியக் கொடிகளால் அலங்கரிக்கப்பட்ட புத்ராஜெயாவின் KPKT கோபுரம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 உங்கள் குப்பை சேகரிக்கப்படாமல் இருக்கும்போது, தீ-பாதுகாப்புச் சான்றிதழ் புதுப்பிக்கப்பட வேண்டியிருக்கும்போது, மற்றும் உருவாக்குநர் உங்கள் குடியிருப்பை இரண்டு ஆண்டுகள் தாமதமாக ஒப்படைக்கும்போது — இந்த மூன்றின் பின்னணியிலும் ஒரே கூட்டாட்சி அமைச்சு உள்ளது. **வீட்டுவசதி மற்றும் உள்ளாட்சி அமைச்சு**, *Kementerian Perumahan dan Kerajaan Tempatan*, பரவலாக **KPKT** என்று அறியப்படுகிறது; இது மலிவு வீட்டுவசதி, உள்ளாட்சி, நகர திட்டமிடல், தீயணைப்பு மற்றும் மீட்பு, திண்மக் கழிவு, நிலத்தோற்ற வடிவமைப்பு, மற்றும் சமூகக் கடன் ஆகியவற்றுக்கான மலேசிய கூட்டாட்சி அமைச்சாகும். அதன் தலைமையகம் No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya இல் உள்ளது. அமைச்சர் **Nga Kor Ming**, துணை அமைச்சர் **Datuk Hajah Aiman Athirah binti Sabu**.

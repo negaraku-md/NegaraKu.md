@@ -78,7 +78,7 @@ sources:
 entity: "Intellectual Property Corporation of Malaysia (MyIPO)"
 wikidata: "Q12698635"
 relations: []
-related: []
+related: ["trademark-registration-malaysia", "patent-malaysia", "copyright-malaysia", "industrial-design-malaysia", "ip-ownership-malaysia"]
 keywords: ["MyIPO", "Intellectual Property Corporation of Malaysia", "Corporation de la propriété intellectuelle de la Malaisie", "Perbadanan Harta Intelek Malaysia", "enregistrement de marque Malaisie", "enregistrement de brevet Malaisie", "taxes de marque MyIPO", "Trademarks Act 2019", "droit d'auteur Malaisie", "dessin industriel Malaisie", "indication géographique Malaisie", "enregistrement de PI Malaisie", "dépôt en ligne MyIPO"]
 framework: profile
 ---

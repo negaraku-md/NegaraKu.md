@@ -22,7 +22,7 @@ appliesTo: "任何受汇率影响的人——进口商、出口商、旅客、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,34 @@ faq:
   - q: 为什么我的银行或货币兑换商给我的汇率比 BNM 公布的汇率差？
     a: 因为 BNM 的吉隆坡 USD/MYR 参考汇率是根据银行同业市场计算出的市场基准，用于合约和估值——而非零售价格。银行和货币兑换商会在其之上加上各自的价差，所以你交易时所得的汇率总会比参考汇率差。截至2026年10月23日，参考汇率为 4.0841，但那是基准，并非客户在柜台实际支付的价格。
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: '一张马来西亚一百令吉纸币正面，印有BANK NEGARA MALAYSIA和SERATUS RINGGIT字样、一个大大的紫色100、RM面额，以及头戴王室冠冕的首任最高元首肖像'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: 特写一枚银色的马来西亚十仙硬币，上面刻有 BANK NEGARA MALAYSIA 字样、大大的数字 10、SEN 字样、2006 年份以及花卉图案，放在灰色表面上
+    kind: actual
+    origin: third-party
+    subject: 一枚马来西亚 10 仙硬币，令吉的辅币
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: 一张令吉纸币在紫外线下拍摄，纸币上发光的绿色 wau（传统风筝）图案和隐藏的 BNM 防伪标记在暗色纸面上发出荧光
+    kind: actual
+    origin: third-party
+    subject: 紫外线下的马来西亚令吉纸币，显现出其隐藏的防伪设计
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## 一览

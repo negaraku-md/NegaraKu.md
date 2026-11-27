@@ -84,9 +84,33 @@ sources:
 
 relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
-related: []
+related: ["getting-around-malaysia-for-tourists", "klang-valley-and-city-buses", "e-hailing-grab"]
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: 'The red-and-white high-speed catamaran ferry ‘SANI 1’ berthed alongside a covered gangway at a Langkawi jetty, with green limestone hills behind — the classic Malaysian passenger ferry to the islands'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: The over-water Kuah passenger ferry terminal in Langkawi, its long gull-wing roof reading 'TERMINAL FERI PENUMPANG KUAH' above the turquoise channel — the jetty/terminal end of an island ferry trip. Distinct from the hero (vessel) and body-2 (small island boat).
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: A small covered Marine Park boat moored beside a stilted island jetty in clear turquoise water at Perhentian Besar — the last-mile island hop by small boat. Adds a second island-transport scene distinct from the car-ferry hero and the terminal body.
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 There is no single national ferry line in Malaysia. Reaching an island means knowing which short crossing, which jetty and which operator serves it — and, on the east coast, whether the sea is even open that month.

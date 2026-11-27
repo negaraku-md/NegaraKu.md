@@ -77,6 +77,32 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'Main building of Papar Middle School, a Chinese independent high school in Sabah, with its name shown in Chinese and English on the facade.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: Front facade of Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School in Penang, a white multi-storey building with columns and the school name in Malay, Chinese and English.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling (Private) High School, a Chinese independent high school in Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: The large multi-storey main building of Kuen Cheng High School in Kuala Lumpur, with its name shown in Chinese (坤成中学) and English on the roofline.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School, a Chinese independent high school in Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 Ask a Malaysian parent what a "private school" is, and they might mean three completely different things: a fee-paying school that runs the exact same syllabus as the government school down the road, an international school teaching Cambridge or IB, or a Chinese Independent High School running an exam most people outside the Chinese education community have never heard of. Only one of those three sits the SPM. Only one sits the UEC. Getting them confused is the easiest way to misjudge a child's options at 18.

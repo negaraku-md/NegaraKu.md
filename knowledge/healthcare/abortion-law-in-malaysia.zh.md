@@ -31,7 +31,7 @@ faq:
     a: "卫生部2012年指南将终止妊娠界定为在孕龄不足22周时进行的程序，或在孕龄未知时，胎儿估计不足500克。"
 
 lang: "zh"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ entity: "Seksyen 312 Kanun Keseksaan (Akta 574)"
 relations:
   - { rel: "governs", to: "abortion-law-in-malaysia" }
   - { rel: "related-to", to: "medical-act-1971" }
-related: []
+related: ["public-healthcare-system-malaysia", "hiv-aids-and-sexual-health-services", "ministry-of-health-moh"]
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Klinik Kesihatan Nilai 外观，这是一所马来西亚政府卫生诊所，设有卫生部标志和红新月。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: 一座单层政府健康诊所建筑，设有带顶棚的入口，此处作为中性示意，代表提供生育健康护理与咨询服务的公共诊所
+    kind: representative
+    origin: third-party
+    subject: 马来西亚霹雳州Lekir一所政府健康诊所（Klinik Kesihatan）的外观
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: 一块标示马来西亚县级公共健康诊所的路边招牌，中性地代表公共卫生体系，未指明任何提供特定服务的设施
+    kind: representative
+    origin: third-party
+    subject: 彭亨州劳勿县政府健康诊所（Klinik Kesihatan Daerah Raub）的招牌
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 许多人以为堕胎在马来西亚完全被禁止——事实上，法律将它置于一个更为复杂的空间：一项刑事罪行，附带一项重要的医疗例外。要理解这条界线划在哪里，我们必须阅读《刑事法典》的实际条文，而非笼统的印象。

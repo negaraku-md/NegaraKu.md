@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'Une vue aérienne d''un quartier résidentiel à Klang, en Malaisie, avec des maisons entourées d''eaux de crue brunes.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: Eaux de crue stagnant en travers de la route fédérale K151 après une montée soudaine de la rivière à Kampung Padang Pusing, Pendang, Kedah
+    kind: actual
+    origin: third-party
+    subject: Eaux de crue sur une route après une montée soudaine de la rivière, Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: De sombres nuages d'orage de mousson s'amoncelant au-dessus d'un paysage tropical
+    kind: representative
+    origin: third-party
+    subject: Nuages d'orage de mousson (image représentative)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 Chaque année, à peu près au moment où le reste du monde entre dans l'hiver, la côte est de la Malaisie se prépare. On remonte les bateaux, les complexes insulaires ferment leurs portes, les centres de secours contre les inondations sont préparés, et les familles des villes de basse altitude surveillent les rivières. C'est la **mousson du nord-est** — la plus grande influence sur la météo de la Malaisie, et la raison pour laquelle le pays connaît en pratique une saison humide distincte plutôt qu'une pluie tropicale uniforme toute l'année.

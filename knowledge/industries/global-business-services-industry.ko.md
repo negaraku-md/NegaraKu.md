@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아는 GBS 투자자에게 어떤 인센티브를 제공하나요?
     a: 주요 경로는 MDEC가 관리하는 말레이시아 디지털(MD) 지위로, 승인된 디지털·서비스 활동에 대한 세제 인센티브를 열어 줄 수 있습니다. 2024년 MDEC는 두 가지 성과 기반 제도 — 신규투자 인센티브와 확장 인센티브 — 를 도입했으며 신청은 2027년까지 열려 있습니다. 조건은 바뀌므로, 현재 자격은 MDEC나 세무 자문가에게 확인하세요.
 lang: ko
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - 말레이시아 디지털
   - 오프쇼어링
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: '말레이시아 사이버자야에 있는 현대적인 기업 사무용 건물로, 사이버자야는 말레이시아의 기술 및 글로벌 비즈니스 서비스의 주요 거점 중 하나이다.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: 말레이시아 슬랑오르주 사이버자야 비즈니스 파크에 있는 현대적인 유리·콘크리트 중층 기업 사무 건물.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 글로벌 서비스 거점 사이버자야의 기업 사무 건물
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: 매우 넓은 개방형 콜센터 플로어에 컴퓨터 작업석마다 줄지어 앉은 상담원들.
+    kind: representative
+    origin: third-party
+    subject: 대형 콜센터 사무 플로어(공유 서비스/BPO 작업장의 대표 사례)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 지금 사이버자야나 쿠알라룸푸르 어딘가에서는, 한 회계사가 런던에 본사를 둔 회사의 월 결산을 마무리하고, 한 헬프데스크 상담원이 시드니 고객의 문의를 해결하며, 한 데이터 분석가가 독일 공장을 위한 대시보드를 만들고 있습니다. 그 고용주 중 누구도 말레이시아에서 무언가를 제조하지 않습니다. 이들이 이곳에서 운영하는 것은 덜 눈에 띄지만 점점 더 값진 것 — 그들의 글로벌 후방 사무소입니다.

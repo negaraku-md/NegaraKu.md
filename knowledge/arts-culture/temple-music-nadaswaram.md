@@ -73,6 +73,34 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
 framework: history-culture
+hero: '/media/arts-culture/temple-music-nadaswaram/hero.webp'
+heroAlt: 'பிரகாசமான வடிவமைப்பு பாயின் மீது அமர்ந்து, அகன்ற மர மணிகள் கொண்ட நீண்ட கருப்பு நாதஸ்வரக் காற்றுக்கருவிகளை வாசிக்கும், வெள்ளை வேட்டியணிந்த இரு இசைக்கலைஞர்கள்'
+heroCredit: 'PJeganathan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_in_South_Indian_Marriage_JEG6722.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: ஒரு இந்துக் கோயிலில், அமர்ந்திருக்கும் ஒருவர் நீண்ட நாதஸ்வரக் குழலை வாசிக்க, இரண்டாமவர் கிடைமட்ட தவில் மேளத்தை வாசிக்கிறார்
+    kind: representative
+    origin: third-party
+    subject: சிங்கப்பூர், ஸ்ரீ மாரியம்மன் இந்துக் கோயிலில் நிகழ்த்தும் நாதஸ்வரம் மற்றும் தவில் கலைஞர்கள்
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: விரிந்த மணிவாய் கொண்ட நாதஸ்வர இசைக்கருவியை ஏந்திய ஒரு இளைஞன், மஞ்சள் கயிறுகளால் கட்டப்பட்ட வட்ட தவில் மேளத்தை அணைத்துப் பிடித்திருக்கும் மற்றொருவரின் அருகே நிற்கிறார்
+    kind: representative
+    origin: third-party
+    subject: வழக்கமான தென்னிந்திய கோயில் இசை இரட்டையான, தவில் மேளக் கலைஞருடன் இணைந்த நாதஸ்வரக் கலைஞர்
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 தைப்பூசப் பேரணியின் முன்னணியிலோ, ஒரு கோயில் தேர் புறப்படும் தருணத்திலோ,

@@ -78,6 +78,32 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'A hand-painted orange and blue sign reading PETALING STREET KUALA LUMPUR on a utility box marked with graffiti, with a city street and buildings behind it.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: A George Town shophouse street where storefronts carry signboards in English, Tamil, Chinese and Malay side by side
+    kind: actual
+    origin: third-party
+    subject: A Little India street in George Town, Penang, lined with shop signboards in several languages and scripts
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: Shoppers walking past rows of food and goods stalls at a busy Malaysian night market in the evening
+    kind: actual
+    origin: third-party
+    subject: A pasar malam (night market) at Seri Kembangan, Selangor, an everyday multilingual Malaysian street setting
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

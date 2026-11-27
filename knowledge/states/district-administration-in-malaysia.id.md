@@ -75,9 +75,16 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: 'Sebuah kantor distrik satu lantai dengan atap biru dan dinding bertuliskan ''Pejabat Daerah Sipitang'', diapit oleh deretan bendera Malaysia dan Sabah.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Antara negeri yang Anda pilih dalam pemilu dan kampung tempat Anda tinggal, ada satu lapisan pemerintahan yang jarang disebut tetapi paling sering Anda temui ketika berurusan dengan tanah, proyek pembangunan atau bantuan darurat: daerah. Di sinilah kebijakan negeri berubah menjadi layanan nyata, dan pusatnya adalah Pejabat Daerah.

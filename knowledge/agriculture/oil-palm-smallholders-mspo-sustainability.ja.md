@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'マレーシアのムルシンで、緩やかに起伏する土地を覆う若いアブラヤシ農園。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: サバ州テノム郡で、成木のアブラヤシの間を長い鎌付きの竿を担いで歩く収穫作業員と、地面に置かれた切り出したばかりの新鮮果房
+    kind: actual
+    origin: third-party
+    subject: サバ州テノムで成木のアブラヤシの間を収穫竿を担いで歩く農園作業員
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: サバ州キマニス農園のアブラヤシの樹冠で赤みを帯びて熟していく新鮮果房のクローズアップ
+    kind: actual
+    origin: third-party
+    subject: サバ州キマニス農園のアブラヤシで熟しつつある新鮮果房
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 ビントゥル（Bintulu）に住み、自分のアブラヤシ地区のあらゆる境界を記憶だけで歩き回れる農家が、今では欧州のバイヤーに果実を買ってもらうために、その「頭の中の地図」をGPSポリゴンへと変換しなければならない。自分の土地を知っていることと、それを監査人が満足する形で記録することとの間にあるこの隔たり——それこそが、マレーシアの小規模農家によるパーム油経済の裏にある静かな物語である。

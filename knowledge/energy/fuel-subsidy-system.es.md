@@ -37,7 +37,7 @@ faq:
     a: "El diésel en Sabah, Sarawak y Labuan se mantiene en RM2.15 por litro y no se hace flotar como en la península. El precio del RON95 subsidiado de RM1.99 se aplica a los ciudadanos elegibles de todo el país."
 
 lang: "es"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -133,6 +133,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'La explanada de una gasolinera Petronas con surtidores de combustible bajo una marquesina en Malasia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: Una gasolinera de marca Shell con una marquesina de borde rojo sobre varias islas de surtidores, el logotipo amarillo del pecten de Shell en el tótem junto a la carretera, y locales comerciales y coches cerca bajo un cielo luminoso
+    kind: actual
+    origin: third-party
+    subject: la explanada de una gasolinera Shell en Taman Pelangi, Johor Bahru, con islas de surtidores bajo una marquesina
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: La explanada de una gasolinera bajo una amplia marquesina plana que cubre los surtidores, un alto tótem iluminado con el panel de precios junto a la carretera y un edificio de tienda de conveniencia al lado en un día nublado
+    kind: actual
+    origin: third-party
+    subject: una gasolinera de marca FIVE en Ijok, Selangor, una de las cadenas independientes de venta de combustible de Malasia, con su explanada y su tótem de precios
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 Durante décadas, todos en Malasia —millonarios o recolectores de caucho— pagaban el mismo precio por la gasolina en el surtidor. El 30 de septiembre de 2025, ese arreglo terminó. Un litro de RON95 ahora puede costarle a usted RM1.99 pero casi el doble a su vecino, y lo que lo decide no es el precio mundial del petróleo, sino el documento de identidad que introduce en el terminal.

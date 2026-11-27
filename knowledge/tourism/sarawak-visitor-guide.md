@@ -88,9 +88,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Travellers after Borneo nature and living Dayak culture, using relaxed, walkable Kuching as a base for Semenggoh''s semi-wild orangutans and Bidayuh longhouses, with Gunung Mulu''s World Heritage caves and rainforest as the headline add-on.'
+  getThere: 'Fly in to Kuching as the main hub, with Gunung Mulu reachable only by MASwings flights (from Miri, Kuching or Kota Kinabalu) since there is no practical road to the park.'
+  permit: 'Sarawak runs its own immigration, so everyone — Malaysians from the Peninsula included — is cleared and issued an entry pass on arrival (foreigners get a separate Sarawak stamp on top of their Malaysian entry, and most must file the MDAC online beforehand), and Mulu flights plus guided cave tours should be booked ahead.'
+  watch: 'Mulu''s small aircraft are regularly delayed or cancelled by weather, so build in buffer days and never book a tight onward connection out of the park.'
+  next: 'Confirm current visa and MDAC requirements for your nationality with the Immigration Department of Malaysia.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'A forest of jagged grey limestone pinnacles piercing green rainforest and mist at Gunung Mulu National Park, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: A red-haired orangutan hanging and reaching between ropes amid dense green rainforest at Semenggoh Nature Reserve
+    kind: actual
+    origin: third-party
+    subject: A wild orangutan moving along ropes in the rainforest at Semenggoh Nature Reserve near Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: A long timber Iban longhouse raised on stilts with a red roof, backed by rainforest on a Sarawak hillside
+    kind: actual
+    origin: third-party
+    subject: A traditional Iban longhouse raised on stilts along a forested riverbank in Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 You can fly from Kuala Lumpur to Kuching in under two hours, never leave your own country, and still get stamped through immigration on the other end. That surprise at the arrivals hall is the single most important thing to understand about Sarawak: it is a Malaysian state that runs its own border.

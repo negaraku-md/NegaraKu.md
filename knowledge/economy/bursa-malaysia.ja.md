@@ -23,7 +23,7 @@ appliesTo: "IPOを検討している創業者やCFO、アドバイザーやス�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,34 @@ relations:
 related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-overview", "ringgit"]
 keywords: ["Bursa Malaysia", "Main Market listing requirements", "ACE Market", "LEAP Market", "FBM KLCI", "KLCI 30 constituents", "IPO Malaysia", "papan Bursa Malaysia"]
 framework: profile
+hero: '/media/economy/bursa-malaysia/hero.webp'
+heroAlt: 'ブルサ・マレーシアが入る柱廊のポストモダンのエクスチェンジ・スクエア・タワー。黄褐色の石のファサードと双子の切妻の頂部が沈む夕日に暖かな金色に照らされ、暗い木々の葉に縁取られる'
+heroCredit: 'Travelpleb / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Exchange Squareビルの高い溝彫りのある石柱と新古典主義様式の頂部を、淡い空を背景に見上げた様子で、基部には扇状のヤシの木がある
+    kind: actual
+    origin: third-party
+    subject: Bursa Malaysiaの本拠地であるExchange Squareビル、クアラルンプール
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: Bursa Malaysiaが入る、赤い屋根と円柱のあるExchange Squareビルを、木々の梢越しに上から見た様子で、下にはアプローチのスロープと前庭が見える
+    kind: actual
+    origin: third-party
+    subject: 緑に囲まれたBursa MalaysiaのExchange Squareビルを高所から見た様子、クアラルンプール、Bukit Kewangan
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## 一覧

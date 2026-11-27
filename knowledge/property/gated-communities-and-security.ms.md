@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'Gerbang lengkung masuk komuniti berpagar yang bercahaya bertuliskan ''Arden Hill Precinct 2'' dengan pondok pengawal dan palang penghadang pada waktu senja, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, sebuah komuniti berpagar mewah di dalam perbandaran Forest Heights di Seremban, menyusun rumah bertanah di sebalik satu perimeter terkawal.
+    kind: actual
+    origin: third-party
+    subject: Komuniti berpagar mewah Arden Hill, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Rumah bertanah dan kehijauan yang terurus memenuhi perbandaran berpagar dan berpengawal Horizon Hills di Iskandar Puteri, Johor, sebuah enklaf kediaman besar yang diurus keselamatannya.
+    kind: actual
+    origin: third-party
+    subject: Perbandaran berpagar Horizon Hills, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 Dua kawasan perumahan boleh kelihatan sama — pondok pengawal bata, palang jalan berjalur, pengawal berseragam memeriksa pelekat kenderaan anda. Satu berdiri di atas asas undang-undang yang kukuh. Satu lagi wujud kerana belum ada sesiapa yang mencabarnya.

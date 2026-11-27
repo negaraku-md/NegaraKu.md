@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "Abdul Razak Hussein"
-seoTitle: Abdul Razak Hussein
+seoTitle: "Abdul Razak Hussein: Perdana Menteri kedua Malaysia (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]
@@ -71,6 +71,13 @@ verificationNeeded:
   - "Konfirmasikan tanggal-tanggal pasti (masa jabatan perdana menteri, kelahiran, kematian) terhadap Perdana Leadership Foundation dan Kantor Perdana Menteri."
   - "Sumber-sumber berbeda mengenai tahun pendirian Barisan Nasional (koalisi itu terbentuk pada 1973 dan secara resmi didaftarkan pada 1974); konfirmasikan tanggal dan rumusan yang tepat sebelum mengandalkannya."
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: 'Abdul Razak Hussein mengenakan songkok hitam dan setelan gelap dengan dasi biru bermotif, menghadap ke depan dalam potret resmi berlatar tirai brokat berwarna emas.'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dalam rentang beberapa tahun yang penuh gejolak, Tun Abdul Razak Hussein beralih dari penjaga sementara konstitusional sebuah bangsa di bawah pemerintahan darurat menjadi arsitek utama tatanan ekonomi modernnya. Perdana Menteri kedua Malaysia memerintah hanya nyaris lima tahun, namun kerangka yang ia bangun — ekonomi tindakan afirmatif, koalisi yang dominan, dan kebijakan luar negeri yang pragmatis — membentuk negara itu selama beberapa dekade setelah wafatnya yang mendadak dalam jabatan. Bagi banyak rakyat Malaysia ia tetaplah sekadar **Bapa Pembangunan**.

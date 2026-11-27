@@ -38,7 +38,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,34 @@ relations:
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
 framework: profile
+hero: '/media/government/rmcd-kastam/hero.webp'
+heroAlt: '沙巴拿笃，晴朗蓝天下一座明亮天蓝色的政府大楼，山墙正面带有马来西亚皇家关税局徽章，上方金字写着Kastam Diraja Malaysia，四周绿树环绕'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: 布城奶油色的多层 Royal Malaysian Customs Department 总部大楼，上层立面写有 Jabatan Kastam Diraja Malaysia 字样，透过路边树木从街道上拍摄
+    kind: actual
+    origin: third-party
+    subject: 位于联邦行政中心布城的 Royal Malaysian Customs Department 总部
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: 一座桃色与奶油色相间的两层海关大楼，在暖光下标有 Wisma Kastam Sabah 和 Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department 字样，亚庇，带有蓝色纪念碑标识牌和有顶车道
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah，位于沙巴亚庇的 Royal Malaysian Customs Department 州级大楼
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 两个机构，一个部门，还有一条几乎没有人第一次就能划对的界线。如果那项税

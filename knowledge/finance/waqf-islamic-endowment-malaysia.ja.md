@@ -87,6 +87,7 @@ relations:
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
 framework: explainer
+wikidata: "Q815509"
 ---
 
 人に魚を一匹与えれば一日食べられる。決して売却できない養魚池を寄進すれば、村全体が永遠に食べられる。それが一言でいうワクフである。

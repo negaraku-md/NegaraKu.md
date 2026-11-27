@@ -27,7 +27,7 @@ verificationNeeded:
   - "Johor Bahru-க்கே உரிய அதிகாரப்பூர்வ வாடகைக் குறியீடு எதுவும் கண்டறியப்படவில்லை; Singapore-தொடர்பான தேவையால் ஏற்படும் வாடகை அழுத்தம் பற்றிய கூற்றுகள் தரம்சார்ந்தவை, வெளியிடப்பட்ட எண்ணிக்கையால் ஆதரிக்கப்படவில்லை."
 
 lang: "ta"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,33 @@ relations:
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
+heroAlt: 'இரவில் Johor Bahru நகர வானோரம்; Johor–Singapore Causeway-க்கு அருகே ஒளிரும் கோபுரமும் வாகன ஒளிக்கோடுகளும்'
+heroCredit: 'Lionel Lim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: ஜொகூர் பாரு, புக்கிட் இந்தாவில் வாராந்திர சந்தையில் புதிய விளைபொருள் கடைகள்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாரு, புக்கிட் இந்தாவில் வாராந்திர புதிய விளைபொருள் சந்தை
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: ஜொகூர் பாரு மையப்பகுதியின் முதன்மை வணிகத் தெருவான ஜாலான் வோங் அ ஃபூக் வழியே கடைகளும் வாங்குநர்களும்
+    kind: actual
+    origin: third-party
+    subject: ஜாலான் வோங் அ ஃபூக், ஜொகூர் பாருவின் முதன்மை வணிகத் தெரு
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 மலேசியாவின் முழு தேசிய குறைந்தபட்ச ஊதியமான மாதம் RM1,700 பெறும் ஒரு தொழிலாளி,

@@ -30,7 +30,7 @@ faq:
     a: "JKKN에 따르면 DKK 1971은 2021~2025년 시행 기간에 일곱 개 핵심을 근간으로 하는 국가문화정책(DAKEN) 2021의 바탕이 되었습니다. JKKN은 또한 DKK 1971이 약 50년간 행정을 이끌었음에도 내각 차원에서 공식적으로 승인된 적은 없다고 밝힙니다."
 
 lang: "ko"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: '국립극장 이스타나 부다야(Istana Budaya)의 정문으로, 유려한 시리 준중(sirih junjung) 형태의 지붕과 금빛 연꽃 문장, 조각된 목재 문으로 이어지는 넓은 계단이 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: 사라왁 전통 의상을 입은 한 무리의 무용수가 관객 앞 무대에서 민속춤을 선보이고 있다
+    kind: actual
+    origin: third-party
+    subject: 전통 의상을 입은 공연자들이 말레이시아의 한 문화 공연에서 사라왁 민속춤을 선보이는 모습
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: 말레이시아 국립박물관의 정면으로, 미낭카바우 양식의 뾰족한 지붕과 큰 타일 벽화 패널을 갖춘 건물이다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르의 말레이시아 국립박물관(Muzium Negara), 미낭카바우 양식 지붕과 문화유산 모자이크 벽화를 지님
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 1971년, [1969년 5월 13일 사건](/malaysia/13-may-1969)으로부터 약 2년 뒤, 한 무리의 학자, 예술 종사자, 지도자가 다종족 국가에게 어려운 물음 하나에 답하기 위해 말라야 대학교에 모였습니다. '국가 문화'란 무엇을 뜻하는가? 그 결과로 나온 답 — 국가문화정책(DKK) — 은 오늘날까지 정책의 준거로 남아 있으면서, 동시에 여전히 논쟁의 대상입니다.

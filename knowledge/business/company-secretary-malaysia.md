@@ -105,6 +105,12 @@ keywords:
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Every Malaysian company owner, including dormant and non-trading companies, since the Companies Act 2016 allows no small-company, turnover or dormancy exemption from the secretary requirement.'
+  how: 'Your company must have at least one secretary who is a natural person, 18 or over, a Malaysian citizen or permanent resident ordinarily residing in Malaysia, and who clears a second gate: either membership of a professional body listed in the Fourth Schedule or a licence from SSM. That person must also be registered with the Registrar and hold a valid practising certificate. The Board must appoint the first secretary within 30 days of incorporation, and the office may not sit vacant for more than 30 days at a time.'
+  cost: 'There is no official schedule of secretarial retainer fees, so no price is citable; scope, not price, drives the quote, and SSM''s own statutory lodgement fees are pass-through and separately published. Ask for the engagement letter in writing and confirm the current SSM statutory fees against SSM''s ROC Table of Fees.'
+  watch: 'The Act prescribes who may be a secretary, not what services they must provide, so retainer scope is contractual, not statutory, and two wildly different quotes are usually two different scopes, not one honest and one greedy. A foreign director may assume they can serve, but the secretary test requires citizenship or permanent residence, which is stricter than the director residence test. Verifying the practising certificate is the director''s own risk, not only the secretary''s.'
+  next: 'Get the engagement letter and read the exclusions before the inclusions, then verify the secretary''s practising certificate number against SSM''s register of secretaries before you appoint.'
 ---
 
 Almost everything written about company secretaries in Malaysia was written by

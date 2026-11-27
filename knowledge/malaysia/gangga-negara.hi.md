@@ -57,6 +57,13 @@ relations:
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "गंगा नेगारा", "Beruas", "बेरुआस", "आरंभिक मलय राज्य", "पेराक का इतिहास", "Chola", "चोल", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas", "बेरुआस संग्रहालय"]
 framework: explainer
+hero: '/media/malaysia/gangga-negara/hero.webp'
+heroAlt: 'गहरे संग्रहालय पृष्ठभूमि के सामने प्रकाशित, उम्र के साथ हरे पड़े, पतले और अनेक भुजाओं वाले कांस्य बोधिसत्व की आकृति।'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ऑनलाइन «गंगा नेगारा» खोजिए और आपको एक साफ़-सुथरी तस्वीर मिलेगी: पेराक नदी के तट पर एक स्वर्णिम राज्य, दूसरी शताब्दी ई. में स्थापित, 1025 में भारत से आई चोल सेनाओं द्वारा नष्ट। इतनी सटीक तारीख का अर्थ यह होना चाहिए कि कहीं कोई समकालीन लिखित अभिलेख है — एक शिलालेख, दरबारी दस्तावेज़ का एक टुकड़ा। समस्या: जब उस शिलालेख की, जिसे उस पतन से सबसे अधिक जोड़ा जाता है — राजेंद्र चोल प्रथम के अपने तंजावूर शिलालेख की — पंक्ति-दर-पंक्ति जाँच की जाती है, तो «गंगा नेगारा» नाम बस वहाँ है ही नहीं।

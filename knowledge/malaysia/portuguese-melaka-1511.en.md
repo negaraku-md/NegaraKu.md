@@ -19,7 +19,7 @@ keyTakeaways:
   - "The Melaka Sultanate's lineage resumed rule at Johor Lama in 1528, and that dynasty lasted until 1699"
 appliesTo: "Readers who want to understand the technical and political reasons behind the fall of Melaka in 1511, and what happened to Melaka's institutions and royal lineage after the city was lost."
 lang: "en"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["fall of Melaka 1511", "Afonso de Albuquerque", "Portuguese Melaka", "A Famosa", "European colonisation Southeast Asia", "Johor Sultanate 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'The ruined stone Porta de Santiago gate of the A Famosa fortress in Melaka, its weathered laterite-and-plaster wall topped by a crumbling turret, an old bronze cannon standing on a brick base before it.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: The roofless laterite walls and empty window openings of the 1521 St Paul's Church ruins stand atop St Paul's Hill in Melaka beneath an open sky.
+    kind: actual
+    origin: third-party
+    subject: St Paul's Church ruins on St Paul's Hill, Melaka
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: The cream-coloured entrance gateway to Portuguese Square, lined with terracotta-roofed buildings and restaurant signboards, opens onto a forecourt in Melaka's Portuguese Settlement.
+    kind: actual
+    origin: third-party
+    subject: Portuguese Square in the Portuguese Settlement (Kampung Portugis), Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 Ten days. That's the gap between the Portuguese fleet's arrival in Melaka waters on 10 August 1511 and the moment the city changed hands on 24 August.

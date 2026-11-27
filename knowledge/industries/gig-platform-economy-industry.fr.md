@@ -31,7 +31,7 @@ faq:
   - q: "Est-ce la même chose que l'article sur le Gig Workers Act ?"
     a: "Non. L'article sur le Gig Workers Act 2025 explique la loi elle-même — droits, contrats et tribunal. Cet article couvre le secteur économique — quelle est la taille de l'économie du gig et des plateformes, qui sont les principales plateformes, et comment elle s'insère dans l'économie numérique au sens large."
 lang: fr
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'Un livreur de repas à motocyclette, muni d''un caisson de livraison isotherme, attend à un carrefour de rue à Penang, en Malaisie.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Un livreur de repas en veste et casque roses Foodpanda sur une motocyclette de type underbone (kapcai), transportant une grande caisse de livraison isotherme rose Foodpanda, arrêté dans la circulation.
+    kind: representative
+    origin: third-party
+    subject: Livreur de repas à moto Foodpanda avec caisse de livraison isotherme rose (travail de plateforme représentatif ; hors Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Un livreur de repas de plateforme debout sur le trottoir, portant un grand sac à dos isotherme de livraison de repas.
+    kind: representative
+    origin: third-party
+    subject: Livreur de repas avec un sac de livraison isotherme de plateforme (hors Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 Chaque jour, des millions de transactions en Malaisie sont organisées non par un magasin, un bureau ou une station de taxis, mais par une application : une voiture appelée au bord du trottoir, un sac de nourriture transporté à travers la ville à moto, un logo conçu pour un client que le travailleur indépendant ne rencontrera jamais. C'est l'économie du gig et des plateformes — le travail intermédié par des plateformes numériques — et en à peine plus d'une décennie, elle est passée de curiosité à l'une des caractéristiques les plus visibles de la vie active malaisienne.

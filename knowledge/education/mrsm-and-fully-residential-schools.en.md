@@ -29,7 +29,7 @@ faq:
     a: "Applications are made online through the MOE portal, and students are screened through the Special School Admission Assessment (PKSK), together with academic and co-curricular achievement."
 
 lang: "en"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'Entrance and signboard of Maktab Rendah Sains MARA (MRSM) Batu Pahat in Johor, a Malaysian fully residential science college, with national and state flags lining the gate.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: Entrance signage and gateway of MARA Junior Science College (MRSM) Gemencheh beside a rural road
+    kind: actual
+    origin: third-party
+    subject: Main entrance of MARA Junior Science College (MRSM) Gemencheh
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: Panorama of the campus buildings and grounds of a Malaysian fully residential school in Melaka
+    kind: actual
+    origin: third-party
+    subject: Campus of a fully residential school, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 Two names often come up when Malaysian families talk about the "best" boarding schools for their children: MRSM and SBP. Both are selective fully residential colleges, both fiercely competitive to get into — but they are run by two different bodies, under two different policy mandates.

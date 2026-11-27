@@ -42,7 +42,7 @@ verificationNeeded:
   - "Pastikan tanggal istiadat pertabalan Sultan Kedah ke-29 terhadap rekam resmi Istana Anak Bukit; halaman resmi pemerintah negeri hanya menyatakan tanggal pengisytiharan."
 
 lang: "id"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'Masjid Zahir berwarna krem dengan sekelompok kubah bawang hitam besar dan sebuah menara ramping dengan latar langit biru cerah di Alor Setar.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: Jembatan Langit Langkawi yang melengkung membentang di atas kabel melintasi ngarai gunung berhutan di Pulau Langkawi, Kedah.
+    kind: actual
+    origin: third-party
+    subject: Langkawi Sky Bridge, Kedah
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: Sawah padi hijau yang datar membentang hingga cakrawala di bawah langit luas di Pendang, Kedah, lumbung padi Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Hamparan sawah padi di Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 Pada 2024, produk elektrik, elektronik dan optik menyumbang 51.1 persen dari

@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,6 +74,34 @@ festivalFacts:
   when: "旧暦の正月初一。対応する西暦の日付は毎年旧暦に伴って変動し、公式の官報での公示に準じる。"
   holiday: "旧正月の最初の2日間は全国的な公休日であり、法的根拠は1951年假期法令(Holidays Act 1951, Act 369)および各州の官報による。"
   etiquette: "民族の枠を越えた「開放門戸」(rumah terbuka)により、異なる民族の親族・友人が互いに訪問して新年の挨拶を交わす。年賀に訪れる際の手土産や紅包は縁起のよい偶数が好まれ、「四」を含む数字は広く避けられる。"
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: '旧正月の晴れた青空を背に、クアラルンプールの天后宮の精巧な屋根の下に放射状に張り渡された数百もの赤と金の提灯'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: 旧正月のイルミネーション期間中、夜に数千もの色とりどりの電飾と赤い提灯で輝くペナンの極楽寺
+    kind: actual
+    origin: third-party
+    subject: 旧正月のためにライトアップされたペナンの極楽寺
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: 旧正月の期間中、クアラルンプールのチャイナタウンの店舗兼住宅の前で、柱の上でバランスを取りながら演じられる白と銀の獅子舞の衣装
+    kind: actual
+    origin: third-party
+    subject: 旧正月にクアラルンプールのチャイナタウンで柱の上で演じられる獅子舞
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 大晦日には、多くの店が早めに店じまいし、高速道路は帰省の車で埋め尽くされる。夜になると、一家は食卓を囲む——魚（年年有余、「年々余りあるように」の意）、丸鶏一羽、団欒を意味する肉団子、そして箸で高く掲げて食べる冷菜のイーサンが並ぶ。この大晦日の団欒の夕食を、正月一日そのものより重んじる家庭も少なくない。

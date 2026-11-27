@@ -32,7 +32,7 @@ faq:
     a: "การแก้ไขกำหนดให้ต้องมีการไต่สวนสาธารณะก่อนที่ HSK จะถูกเพิกถอนการประกาศ และเพิ่มค่าปรับเป็นระหว่าง RM20,000 ถึง RM5 ล้าน ตลอดจนจำคุกระหว่าง 7 ถึง 20 ปี มีผลบังคับในดินแดนสหพันธ์ตั้งแต่ 1 กุมภาพันธ์ 2025"
 
 lang: "th"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,36 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'เมฆต่ำและหมอกลอยเหนือเนินเขาที่ปกคลุมด้วยป่าฝนสีเขียวหนาแน่นเหนือทะเลสาบที่สงบนิ่งที่รอยัลเบลุม รัฐเประ'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: ใบปาล์มต้องแสงแดดและพุ่มไม้เขียวหนาแน่นตามเส้นทางร่มรื่นในป่าฝนปฐมภูมิของตามันเนการา
+    kind: actual
+    origin: third-party
+    subject: พุ่มปาล์มและเศษใบไม้บนพื้นป่าฝนปฐมภูมิในตามันเนการา
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: เนินเขาลูกคลื่นปกคลุมด้วยป่าฝนเขตร้อนหนาแน่น ค่อยจางหายไปในหมอกสีฟ้าใต้ท้องฟ้ามืดครึ้ม มองจากบูกิตเตอริเซกในตามันเนการา
+    kind: actual
+    origin: third-party
+    subject: เนินเขาป่าต่อเนื่องไม่ขาดสายของตามันเนการา มองจากบูกิตเตอริเซก
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 ที่ดินป่าผืนหนึ่งในมาเลเซียไม่ได้ "ได้รับการคุ้มครอง" เพียงเพราะมันเต็มไปด้วยต้นไม้ การคุ้มครองเริ่มต้นในวันที่ชื่อของที่ดินนั้นปรากฏในราชกิจจานุเบกษา หากปราศจากการประกาศดังกล่าว ป่าเดียวกันสามารถได้รับใบอนุญาตให้พัฒนาได้ตลอดเวลา นี่คือรากฐานของระบบป่าสงวนถาวร (HSK) ทั้งหมดของมาเลเซีย

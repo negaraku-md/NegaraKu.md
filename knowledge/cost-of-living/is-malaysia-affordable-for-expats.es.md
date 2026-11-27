@@ -70,6 +70,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: 'Esto es para un expatriado, trabajador remoto o recién llegado que sopesa el coste de vida de Malasia frente a un salario y un nivel de gasto occidentales antes de mudarse.'
+  how: 'Divide tu gasto en dos cestas. Lo que se produce o se atiende localmente —comida, transporte interno, servicios básicos y la sanidad pública o la privada de gama media— se abarata notablemente frente a un nivel de referencia occidental. Lo que se mide con criterios internacionales —bienes importados y electrónica, la atención en los mejores hospitales privados, la escolarización con currículo internacional y la vivienda urbana de alta gama— apenas se abarata. Tu asequibilidad personal la decide cuánto de esa segunda cesta necesita realmente tu estilo de vida, no la media nacional.'
+  cost: 'No hay una cifra única: depende de tu propia cesta, y las cifras oficiales de ingreso medio, gasto e inflación cambian de un año a otro, así que consulta las publicaciones vigentes del DOSM en lugar de una cifra citada. Una vía de residencia de larga estancia como MM2H tiene sus propios umbrales financieros, que son una cuestión distinta de lo que cuesta la vida diaria mes a mes.'
+  watch: 'El titular de que "Malasia es barata" solo se sostiene para la cesta de precio local; la escolarización internacional, la mejor atención privada y la vivienda de alta gama del Klang Valley siguen los precios mundiales y pueden borrar el descuento. El umbral financiero de un visado de residencia no mide el coste de vida mensual.'
+  next: 'Calcula el precio de tu propia cesta —escolarización, el nivel de sanidad que quieres, la zona de vivienda— frente a las cifras locales vigentes, mantén los umbrales de los visados de residencia como un cálculo aparte y luego decide. Consulta la explicación del visado de larga estancia MM2H y los resúmenes de coste de vida.'
 ---
 
 ## De un vistazo

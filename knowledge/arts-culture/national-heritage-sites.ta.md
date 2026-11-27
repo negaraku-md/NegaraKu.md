@@ -31,7 +31,7 @@ faq:
     a: "உரிமையாளர் அச்சொத்தைத் தொடர்ந்து வைத்திருக்கலாம் (பிரிவு 69); ஆனால் தேசிய பாரம்பரியத்தின் உரிமை மாற்றம், ஆணையரின் முன்கூட்டிய ஒப்புதலுடன் வாரிசுரிமை மூலமாகவோ அல்லது விற்பனை மூலமாகவோ மட்டுமே நிகழ முடியும்; மேலும் வாங்குவதற்கு ஆணையருக்கு முன்னுரிமை வழங்கப்பட வேண்டும் (பிரிவு 70)."
 
 lang: "ta"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,34 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'Kuala Lumpur-ல் உள்ள Sultan Abdul Samad கட்டிடத்தின் முழு மூரிஷ் பாணி முகப்பு; உயர்ந்த நடு கடிகார கோபுரம் மற்றும் செம்பு வெங்காய குவிமாடங்களுக்குக் கீழே செங்கல் வளைவுகளின் நீண்ட வரிசை, வெளிறிய வானத்திற்குக் கீழே Merdeka Square-ன் வெறிச்சோடிய சாலையிலிருந்து காணப்படுகிறது'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: மலாக்காவில் உள்ள ஏ ஃபமோசா கோட்டையின் போர்டா டி சண்டியாகோ நுழைவாயிலின் காலநிலையால் அரிக்கப்பட்ட லேட்டரைட்-செங்கல் இடிபாடு; அதன் இடிந்த வளைவின் மேல் செதுக்கப்பட்ட சிற்பம், முன்னால் செங்கல் பீடத்தில் நிறுத்தப்பட்ட பழைய வெண்கல பீரங்கி, நீல வானத்திற்கு எதிராக வெப்பமண்டல மரங்கள்
+    kind: actual
+    origin: third-party
+    subject: அரசிதழில் பட்டியலிடப்பட்ட தேசிய பாரம்பரிய நினைவுச்சின்னமான, மலாக்காவில் உள்ள ஏ ஃபமோசா போர்த்துகீசியக் கோட்டையின் போர்டா டி சண்டியாகோ நுழைவாயில்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: பேராக், பத்து காஜாவில் உள்ள கெல்லீஸ் கோட்டையின் இளஞ்சிவப்பு செங்கல் முகப்பு; இரு மாடிகளில் வளைவுகள் கொண்ட தூண் வரிசையும் மெல்லிய தூண்களும் செங்கல் பதித்த முற்றத்திற்குத் திறக்கின்றன, பிரகாசமான மேகமூட்டமான வானத்தின் கீழ் ஓரளவு இடிந்த சுவர்களும் வெப்பமண்டலப் பசுமையும் உள்ளன
+    kind: actual
+    origin: third-party
+    subject: பேராக், பத்து காஜாவில் உள்ள, பாதுகாக்கப்பட்ட பாரம்பரிய தலமான, 20-ஆம் நூற்றாண்டின் தொடக்கத்தில் கட்டப்பட்ட முடிக்கப்படாத மாளிகையான கெல்லீஸ் கோட்டை
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 ஜார்ஜ் டவுனில் (George Town) நூற்றாண்டு பழமையான ஒரு கடைவீடு, ஒரு கிரிஸ் (keris) கத்தி, ஓர் அரண்மனை நடனம், மற்றும் இன்னும் உயிருடன் இருக்கும் ஒரு [சொங்கட்](/ta/arts-culture/songket) (songket) நெய்பவர் — இந்நான்கும் மலேசியாவில் ஒரே சட்டப்பூர்வப் பட்டத்தைச் சுமக்க முடியும்: *தேசிய பாரம்பரியம் (Warisan Kebangsaan)*. இவற்றை இணைப்பது UNESCO பட்டியல் அல்ல, மாறாக அரிதாகவே பெயர் சொல்லப்படும் ஓர் உள்நாட்டுப் பதிவேடு: **தேசிய பாரம்பரியப் பதிவேடு (Daftar Warisan Kebangsaan)**.

@@ -27,7 +27,7 @@ faq:
   - q: "मलेशिया का आयातित चावल कहाँ से आता है?"
     a: "BERNAS के अनुसार, अधिकांश आयात वियतनाम, थाईलैंड, पाकिस्तान, भारत और म्यांमार से होता है।"
 lang: "hi"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -98,9 +98,36 @@ sources:
     publisher: "Padiberas Nasional Berhad (BERNAS)"
 entity: "Padi and rice industry in Malaysia"
 relations: []
-related: []
+related: ["food-security-self-sufficiency-policy", "agricultural-subsidies-farm-input-support", "ministry-of-agriculture-food-security-and-agencies"]
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'एक संकरी पानी भरी सिंचाई नाली के दोनों ओर धुंधले क्षितिज तक सीधे फैले चमकीले हरे धान के खेत'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: पकता हुआ धान का खेत, एक खंभे पर कपड़े का बिजूका, पीछे जंगली पहाड़ियाँ और गाँव के घर, साफ़ नीले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: Langkawi, Kedah में एक साधारण बिजूके के साथ पकता सुनहरा-हरा धान, पीछे जंगली चूना-पत्थर की पहाड़ियाँ और एक kampung
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: बादल भरे आकाश के नीचे चमकीले हरे धान के विस्तृत खेतों के बीच घास भरे रास्ते पर लोगों का एक छोटा समूह
+    kind: actual
+    origin: third-party
+    subject: Sekinchan, Selangor में चमकीले हरे धान के खेतों के बीच एक मेड़ पर चलते आगंतुक
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 चावल वह एकमात्र खाद्य है जिसे मलेशिया मुक्त बाज़ार के भरोसे छोड़ने से इनकार करता है। राज्य यह केंद्रित करता है कि इसे कहाँ उगाया जाए, इसे उगाने वाले किसानों को सहारा देता है, कमी का आयात करने के लिए एक अकेली कंपनी को लाइसेंस देता है, और आपूर्ति झटकों के विरुद्ध एक आपातकालीन भंडार रखता है। फिर भी इस व्यवस्था के दशकों बाद भी देश जितना चावल खाता है उसका केवल लगभग आधा ही उगाता है।

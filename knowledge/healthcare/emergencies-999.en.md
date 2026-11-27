@@ -48,7 +48,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 sources:
   - title: "Malaysia Emergency Response Services (MERS) 999"
     url: "https://www.malaysia.gov.my/my/my-initiative/keselamatan-siber-dan-tindak-balas-serta-pemulihan-bencana/tindak-balas-serta-pemulihan-bencana/malaysia-emergency-response-services-mers-999"
@@ -79,6 +79,32 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'A Ministry of Health Malaysia ambulance on a highway, marked ''Ambulans'' and the 999 emergency number'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: A Malaysian Fire and Rescue Department (Bomba) station, one of the emergency services reached through the 999 call line
+    kind: actual
+    origin: third-party
+    subject: Fire and Rescue Department (Bomba, JBPM) station at Pagoh, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: A St John Ambulance Malaysia ambulance on a street in Melaka, one of the voluntary emergency medical services operating alongside the government response
+    kind: actual
+    origin: third-party
+    subject: A St John Ambulance Malaysia emergency ambulance parked in Melaka
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 You dial 999. The voice on the other end asks your name, location, and what happened — and within the target response time, an ambulance crew should already be on the way. But many people don't know what actually happens behind that call: who really answers, whether it's free, and why another patient who arrived at the hospital later is sometimes treated before you.

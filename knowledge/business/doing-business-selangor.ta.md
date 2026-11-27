@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 
 status: "published"
 aiAssisted: true
@@ -116,6 +116,34 @@ keywords:
   - "Selangor council licensing"
   - "Port Klang TEU"
 framework: profile
+hero: '/media/business/doing-business-selangor/hero.webp'
+heroAlt: 'Port Klang-ல் உள்ள Northport-ல் ஒரு கன்டெய்னர் கப்பலை ஏற்றும் உயர்ந்த நீல கப்பல்-கரை gantry கிரேன்களின் வரிசைகள்; துறைமுகச் சாலையில் அடுக்கிய கன்டெய்னர்களும் ஒரு கன்டெய்னர் லாரியும்'
+heroCredit: 'Hafiz343 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: செலாங்கூர் மாநிலம் ஷா ஆலத்தில், பிரகாசமான நீல வானத்தின் கீழ் நீல-குவிமாட Dataran Shah Alam கட்டிடத்திற்கு அருகில் உயரமான கோணமுடைய Wisma MBSA அலுவலக கோபுரம்
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர் மாநிலத் தலைநகரின் வணிக மற்றும் நிர்வாக மையத்தில் Wisma MBSA அலுவலக கோபுரமும் Dataran Shah Alam-மும்
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: செலாங்கூரில் Mentari Business Park-இல் உள்ள உயரமான வளைவு ஜன்னல்களுடன் கூடிய பல-மாடி கண்ணாடி-வெள்ளை வணிக அலுவலகக் கட்டிடம், சாலையோரத்திலிருந்து பார்த்த காட்சி
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூரின் அடர்ந்த வணிக-பூங்கா பகுதியின் ஒரு பகுதியான Bandar Sunway-இல் Mentari Business Park-இல் உள்ள வணிக அலுவலகக் கட்டிடம்
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 Kuala Lumpur-ல் ஒரே உரிம அதிகார அமைப்பு உள்ளது. அதைச் சூழ்ந்துள்ள செலாங்கூரில்

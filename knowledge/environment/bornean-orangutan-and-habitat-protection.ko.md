@@ -34,7 +34,7 @@ faq:
     a: "반드시 그렇지는 않습니다. 조사에 따르면 데라마콧과 세가마처럼 잘 관리되고 지속가능하게 벌채된 산림의 개체군은 15년에 걸쳐 안정적으로 유지되었으며, 이는 생산림이 신중하게 관리되고 연결이 유지되는 한 오랑우탄이 그 안에서 존속할 수 있음을 보여줍니다."
 
 lang: "ko"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,33 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: '열대우림 수관의 나뭇가지 사이에서 쉬고 있는 야생 보르네오 오랑우탄 어미와 새끼'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: 암컷 보르네오 오랑우탄이 두 마리의 새끼와 함께 우림 수관부 높은 나뭇가지에 매달려 있다
+    kind: actual
+    origin: third-party
+    subject: 보르네오 우림의 나무에 매달려 먹이를 먹는 야생 보르네오 오랑우탄 가족 무리, 보르네오
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: 불그스름한 털에 둘러싸인 야생 보르네오 오랑우탄의 표정이 풍부한 얼굴을 담은 클로즈업 초상
+    kind: actual
+    origin: third-party
+    subject: 보르네오 우림에서 야생 보르네오 오랑우탄의 얼굴을 담은 클로즈업 초상, 보르네오
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 야생 오랑우탄에게는 넓은 산림이, 그리고 서로 연결된 산림이 필요합니다. 사바 동부의 저지대에서 이것은 무엇보다 희귀한 것이 되었습니다. 한때 유인원이 땅에 닿지 않고 수 킬로미터를 이동할 수 있게 해 주던 나무들이 이제는 팜유 농원의 가장자리에서 끊깁니다. 보르네오 오랑우탄이 이 경관에서 살아남을지 여부는 상당 부분 법, 토지, 그리고 회랑의 문제입니다.

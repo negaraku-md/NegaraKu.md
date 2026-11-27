@@ -116,9 +116,16 @@ sources:
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
-related: []
+related: ["malaysia-entry-visa-requirements", "e-hailing-grab", "domestic-ferries-and-island-transport"]
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'Một du khách kéo vali có bánh xe đứng tại quầy vé tàu sân bay KLIA Ekspres màu hồng ở ga KL Sentral, nơi một nhân viên phục vụ anh qua tấm kính.'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bạn hạ cánh tại Sân bay Quốc tế Kuala Lumpur lúc nửa đêm, mệt mỏi vì lệch múi giờ, và những người mời chào taxi đã lượn quanh. Tin tốt: Malaysia có một trong những hệ thống giao thông thân thiện với du khách nhất Đông Nam Á, và bạn có thể bỏ qua hoàn toàn sự phiền phức — một chuyến tàu sân bay nhanh, giá cố định, một ứng dụng điện thoại gọi một chiếc xe tính cước, và các chuyến bay nội địa rẻ khiến Borneo trở thành một chuyến nhảy cuối tuần. Mẹo là biết chọn phương thức nào, và khi nào.

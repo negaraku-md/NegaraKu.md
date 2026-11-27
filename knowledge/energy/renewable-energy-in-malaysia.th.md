@@ -27,7 +27,7 @@ faq:
   - q: "บริษัทจะซื้อพลังงานหมุนเวียนได้อย่างไรโดยไม่ติดตั้งแผงของตนเอง"
     a: "โครงการพลังงานสีเขียวขององค์กร (CGPP) ให้ผู้บริโภคองค์กรลงนามสัญญาซื้อขายไฟฟ้าเสมือนกับผู้ผลิตไฟฟ้าโซลาร์สำหรับพลังงานหมุนเวียนและคุณลักษณะสีเขียวของมัน โดยมีการจ่ายที่แน่นอนสำรองโดยสาธารณูปโภค โควตา 800 MW ของมันถูกจองเต็มในเดือนพฤศจิกายน 2023 องค์กรที่พลาดไปสามารถใช้โครงการจัดหาพลังงานหมุนเวียนขององค์กร (CRESS) ที่เปิดตัวในเดือนกันยายน 2024 ซึ่งส่งพลังงานสีเขียวผ่านกริดของ TNB โดยมีค่าธรรมเนียมการเข้าถึงระบบ"
 lang: "th"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,9 +109,35 @@ sources:
     publisher: "สำนักงานพัฒนาพลังงานยั่งยืน (SEDA)"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'แผงโซลาร์เซลล์ลอยน้ำพร้อมทางเดินมีหลังคาอยู่ข้างทะเลสาบในวิทยาเขตแห่งหนึ่งในประเทศมาเลเซีย'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: แผงโซลาร์เซลล์สีน้ำเงินเข้มเรียงเป็นแถวยาวบนโครงเหล็กเตี้ยทั่วทุ่งหญ้าที่ถางแล้ว มีรั้วล้อมและทอดยาวไปจนถึงแนวต้นไม้ไกล ๆ ภายใต้ท้องฟ้าสีครามสดใสที่มีเมฆกระจาย
+    kind: actual
+    origin: third-party
+    subject: ฟาร์มโซลาร์เซลล์ติดตั้งบนพื้นที่ซูไงซูไง รัฐซาบาห์ ผลิตไฟฟ้าให้โครงข่ายในชนบท
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: เขื่อนโค้งกักอ่างเก็บน้ำสีเขียวไว้ท่ามกลางเนินเขาปกคลุมด้วยป่า มีทางระบายน้ำล้นและอาคารรับน้ำที่หน้าเขื่อน รายล้อมด้วยป่าดิบเขตร้อนหนาทึบตามไหล่เขา
+    kind: actual
+    origin: third-party
+    subject: เขื่อนไฟฟ้าพลังน้ำเปอร์เกาและอ่างเก็บน้ำในรัฐกลันตัน โครงการพลังน้ำหมุนเวียนในมาเลเซียคาบสมุทร
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 หากท่านเคยพยายามศึกษาเรื่องพลังงานหมุนเวียน (RE) ในมาเลเซีย ท่านคงเจอตัวเลขเป้าหมายที่แตกต่างกันสามตัว ได้แก่ 31%, 40% และ 70% และกำแพงของตัวย่อ FiT, NEM, LSS, CGPP, CRESS, SELCO ไม่มีสิ่งใดขัดแย้งกัน มันเพียงกระจายอยู่ทั่วหน่วยงานหลายแห่ง แต่ละแห่งบันทึกเฉพาะมุมของตนเอง คู่มือนี้ดึงภูมิทัศน์ทั้งหมดมาไว้ในที่เดียว ได้แก่ เป้าหมายระดับชาติและแผนที่นำทางเบื้องหลัง กลุ่มโครงการ และส่วนที่แหล่งข้อมูลส่วนใหญ่ข้ามไป คือโครงการใดที่มุ่งหมายสำหรับเจ้าของบ้าน ธุรกิจ หรือผู้พัฒนาจริง ๆ

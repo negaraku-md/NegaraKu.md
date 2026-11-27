@@ -33,7 +33,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "Các lộ trình học và chứng chỉ kế toán ở Malaysia"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'Dành cho sinh viên và người chuyển nghề đang quyết định cách để trở thành kế toán viên tại Malaysia, cân nhắc giữa bằng đại học, ACCA, CIMA hay một lộ trình nghề nghiệp khác.'
+  how: 'Trước hết hãy xác định đích đến: bạn chính thức là một kế toán viên chuyên nghiệp theo pháp luật khi bạn là hội viên của Malaysian Institute of Accountants (MIA) theo Accountants Act 1967. Ba con đường dẫn đến MIA — một bằng đại học được công nhận cộng với kinh nghiệm; một tổ chức nghề nghiệp được công nhận (ACCA, CIMA và những tổ chức khác) cộng với kinh nghiệm; hoặc Kỳ thi Đủ điều kiện của MIA (MIA Qualifying Examination) cộng với kinh nghiệm. ACCA nghiêng về kiểm toán, hành nghề công và khả năng dùng được trên toàn cầu; CIMA nghiêng về kế toán quản trị và ngành công nghiệp.'
+  cost: 'Lệ phí, số lượng môn thi và số môn được miễn mà một bằng đại học đã kiểm định mang lại đều thay đổi theo mỗi chu kỳ kiểm định, vì vậy hãy tự mình cộng các con số hiện hành từ tổ chức nghề nghiệp, đơn vị đào tạo và trường đại học — đừng bao giờ dựa vào một con số miễn môn được báo.'
+  watch: 'Chỉ riêng ACCA hay CIMA không làm cho bạn trở thành một kế toán viên Malaysia — tư cách hội viên MIA mới làm điều đó, và chứng chỉ cộng với kinh nghiệm là con đường dẫn tới nó. Số môn được miễn là dữ kiện dễ thay đổi nhất trong chủ đề này; hãy kiểm chứng theo từng chương trình.'
+  next: 'Hãy chọn tổ chức có đích đến điển hình khớp với nơi bạn muốn làm việc, xác nhận rằng hiện nó dẫn tới tư cách hội viên MIA và cần kinh nghiệm gì, rồi tối ưu điểm vào, hình thức học và số môn được miễn của bạn. Xem bài Trước khi đóng tiền đặt cọc cho trường.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'Khu giảng đường của một trường đại học Malaysia với bảng hiệu ghi "KOMPLEKS DEWAN KULIAH" bên cạnh các tòa nhà học thuật màu nâu đỏ và lối đi có mái che.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: Những hàng ghế bậc thang trong một giảng đường đại học Malaysia, loại giảng đường nơi sinh viên theo học bằng cấp và kế toán chuyên nghiệp dự lớp.
+    kind: actual
+    origin: third-party
+    subject: Giảng đường đại học tại Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: Những dãy bàn học cá nhân yên tĩnh trong thư viện Universiti Malaya, nơi sinh viên miệt mài với các môn thi bằng cấp và ACCA hoặc CIMA.
+    kind: representative
+    origin: third-party
+    subject: Bàn học trong thư viện Universiti Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 Bất cứ ai quyết định cách trở thành kế toán ở Malaysia đều lập tức đâm vào một mớ chữ viết tắt: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Nó trông như một thực đơn các chứng chỉ cạnh tranh mà bạn phải chọn giữa chúng. Cách hiểu đúng hơn là **một đích đến với vài con đường dẫn tới đó** — và một khi bạn nhìn ra đích đến, các lựa chọn sẽ vào đúng chỗ của chúng.

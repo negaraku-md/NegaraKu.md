@@ -29,7 +29,7 @@ faq:
     a: "كلتا اللحظتين حقيقية. فقد سرى النقل القانوني للسيادة عند منتصف ليل 31 أغسطس 1957، وميّزته مراسم العلم في الساحة (padang) بكوالالمبور. أما مراسم الإعلان العام، مع هتاف الاستقلال (Merdeka) سبع مرات، فجرت لاحقاً صباح ذلك اليوم في ملعب ميرديكا (Stadium Merdeka)."
 
 lang: "ar"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -64,6 +64,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["الاستقلال 1957", "استقلال الملايو", "تونكو عبد الرحمن", "لجنة ريد", "ملعب ميرديكا", "Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'تونكو عبد الرحمن يقف أمام حشد رافعًا يده في إعلان استقلال مرديكا التاريخي عام 1957.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: المدرَّج المنحني والساحة البيضاوية المفتوحة لاستاد مرديكا في كوالالمبور تحت سماء مشرقة، الحلبة التاريخية التي أُعلن فيها استقلال ملايا.
+    kind: actual
+    origin: third-party
+    subject: استاد مرديكا في كوالالمبور، حيث أُعلن الاستقلال في 31 أغسطس 1957
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: سارية العلم البيضاء الشاهقة في داتاران مرديكا ترتفع عالياً فوق المرج الأخضر لساحة مرديكا في كوالالمبور، حيث أُنزل علم الاتحاد (اليونيون جاك) عند منتصف الليل عام 1957.
+    kind: actual
+    origin: third-party
+    subject: سارية العلم العملاقة في داتاران مرديكا (ساحة مرديكا) بكوالالمبور
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 بعد دقائق من منتصف ليل 31 أغسطس 1957، في الساحة (padang) أمام مبنى نادي سلانغور القديم في كوالالمبور، نُزِّل علم الاتحاد البريطاني (Union Jack) ورُفع علم اتحاد الملايو الجديد. هذه هي الصورة التي يحملها معظم الناس عن الاستقلال (Merdeka) — لكنّ العمل الفعلي للاستقلال كان قد أُنجز قبل ذلك بأشهر، في غرف اللجان في لندن وكوالالمبور، على يد أناس يتفاوضون على بنود دستور لم يكن موجوداً في العام السابق.

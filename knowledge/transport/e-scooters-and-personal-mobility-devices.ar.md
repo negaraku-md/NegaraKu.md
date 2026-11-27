@@ -27,7 +27,7 @@ faq:
     a: "تُعفى الدراجة الكهربائية فقط إذا كانت من نوع المساعدة على الدفع بالدوّاسة (pedal-assist) المتوافق مع المعيار الماليزي MS2514، وليس لها مقبض تسارع (throttle)، ولها دوّاسات تظل مثبّتة دائمًا. أما الدراجة الكهربائية المزوّدة بمقبض تسارع غير المعتمدة فتُصنَّف جهاز تنقل شخصي (PMD) أو دراجة نارية خفيفة (moped) وتكون محظورة."
 
 lang: "ar"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["السكوتر الكهربائي ماليزيا", "أجهزة التنقل الشخصي PMD", "التنقل الصغير micromobility", "الدراجة الكهربائية MS2514", "دائرة النقل البري JPJ", "e-scooter", "PMD", "mikromobiliti", "MS2514", "JPJ"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'ثلاث دراجات سكوتر كهربائية مشتركة أرجوانية من Beam متوقفة على ممر مرصوف في حديقة بباتو باهات، جوهور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: سكوتر Beam كهربائي مشترك متوقف في موقف للتنقل الصغير بجوار فندق قرب محطة Merdeka MRT في Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: موقف سكوتر Beam الكهربائي المشترك قرب Merdeka MRT، Kuala Lumpur
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: سكوتر Beam Mobility كهربائي مشترك باللون البنفسجي متوقف على ممشى في Taman Rekreasi Tasik Y في Batu Pahat، Johor.
+    kind: actual
+    origin: third-party
+    subject: سكوتر Beam الكهربائي المشترك في حديقة على ضفة بحيرة في Batu Pahat، Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 تشتري سكوترًا كهربائيًا للذهاب إلى المكتب، لكن ما إن تلمس عجلاته طريقًا عامًا حتى تكون قد خالفت القانون بالفعل. هذا هو واقع التنقل الصغير في ماليزيا منذ نهاية عام 2021.

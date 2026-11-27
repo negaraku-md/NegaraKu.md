@@ -27,7 +27,7 @@ faq:
     a: "Una bicicleta eléctrica está exenta solo si es de tipo pedaleo asistido que cumple la Norma Malasia MS2514, no tiene acelerador, y tiene pedales que permanecen fijados de forma permanente. Una bicicleta eléctrica no aprobada equipada con acelerador se clasifica como un PMD o ciclomotor y está prohibida."
 
 lang: "es"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Tres patinetes eléctricos compartidos Beam de color morado aparcados en un camino pavimentado de un parque en Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: Un patinete eléctrico compartido Beam aparcado en una zona de micromovilidad junto a un hotel cerca de la estación de MRT Merdeka, en Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Aparcamiento de patinete eléctrico compartido Beam cerca del MRT Merdeka, Kuala Lumpur
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: Un patinete eléctrico compartido Beam Mobility de color morado aparcado en un sendero del Taman Rekreasi Tasik Y, en Batu Pahat, Johor.
+    kind: actual
+    origin: third-party
+    subject: Patinete eléctrico compartido Beam en un parque junto a un lago en Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 Compras un patinete eléctrico para llegar a la oficina, pero en el momento en que sus ruedas tocan una carretera pública, ya estás infringiendo la ley. Esa ha sido la realidad de la micromovilidad en Malasia desde finales de 2021.

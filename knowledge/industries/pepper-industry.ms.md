@@ -32,7 +32,7 @@ faq:
   - q: Apakah cabaran utama yang dihadapi industri ini?
     a: Sektor ini berdepan populasi petani yang semakin tua, harga global yang tidak menentu, tekanan iklim dan persaingan sengit daripada pengeluar lebih besar seperti Vietnam, Indonesia dan India. Mekanisasi yang rendah dan pergantungan pada eksport biji mentah mengekalkan margin yang nipis, itulah sebabnya dasar kini menekankan penanaman semula, teknologi dan pemprosesan hiliran.
 lang: ms
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Barisan pokok lada hitam yang dijalarkan pada tiang panjat kayu di sebuah ladang di Sarawak, negeri utama penanaman lada Malaysia.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: Pandangan dekat sebuah pokok lada dengan beberapa tandan merunduk yang padat dengan biji lada hijau bulat, dibingkai oleh daun hijau gelap berkilat yang besar, dengan latar ladang hijau yang kabur
+    kind: actual
+    origin: third-party
+    subject: gugusan biji lada hijau yang semakin masak tergantung dalam tandan panjang pada pokok lada hitam di sebuah ladang lada di Sarawak, nadi industri lada Malaysia
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: Sebuah bumbung bercat putih yang dibatasi susur tangan rendah dengan beberapa dulang jaring segi empat berisi biji lada gelap yang sedang dikeringkan, pokok pisang dan kelapa serta bukit berhutan menjulang di belakang di bawah langit biru
+    kind: representative
+    origin: third-party
+    subject: biji lada yang dituai dibiarkan kering di bawah matahari di atas dulang jaring pada bumbung, peringkat pengeringan yang menukar beri hijau menjadi lada hitam
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 Lada ialah salah satu komoditi pertanian Malaysia yang tertua dan paling tersendiri dari segi geografi: pokok memanjat yang diimport dari benua kecil India dan Sumatera yang menemui rumah ideal di bukit-bukit Sarawak yang lembap dan bersaliran baik, di mana ia menjadi tulang belakang beribu-ribu kebun kecil luar bandar. Walaupun Malaysia pemain sederhana dari segi jumlah global, ia melepasi jangkaan dari segi reputasi, menjual "Lada Sarawak" yang premium dan disahkan asal usul ke pasaran yang cerewet. Artikel ini menggariskan struktur, geografi, perdagangan dan prospek sektor ini sebagai industri tersendiri.

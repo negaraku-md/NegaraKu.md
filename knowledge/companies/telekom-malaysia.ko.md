@@ -31,7 +31,7 @@ faq:
     a: "TM Global은 TM의 도매 부문입니다(역사적으로 TM Wholesale로도 불림). 국가 광섬유 백본과 말레이시아 해저 케이블 양륙지를 운영하며, 다른 사업자와 국제 통신사에 용량을 판매합니다. 경쟁 네트워크가 흔히 이 인프라를 타고 운영되므로, TM Global은 TM을 단순한 소매 ISP가 아니라 이 나라 연결의 상당 부분을 위한 백본 제공자로 만듭니다."
 
 lang: "ko"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,34 @@ keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global",
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
+hero: '/media/companies/telekom-malaysia/hero.webp'
+heroAlt: '파란 하늘과 적운을 배경으로 솟은 가늘어지는 곡선형 므나라 TM 마천루, 수직 칼날 같은 등줄기에 빨강·파랑 TM 로고가 있고 상층부에서 원반 모양 하늘 테라스가 돌출된 모습'
+heroCredit: 'Shesmax / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: 상부 척추에 TM 로고를 달고 접시 모양 스카이 테라스를 얹은 독특한 기울어진 곡선형 Menara TM 타워가 푸른 하늘을 배경으로 팔각형 오피스 타워 옆 오른쪽에 솟아 있고, 전경을 고가 철도 교량이 가로지른다
+    kind: actual
+    origin: third-party
+    subject: 고가 고속도로 건너편 이웃 타워 옆에 선 Menara TM, 첨탑에 TM 로고가 보인다, 쿠알라룸푸르 Lembah Pantai
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: 낮은 도시 건물 위로 무겁게 흐린 잿빛 하늘을 배경으로, 원반 모양 스카이 테라스를 꼭대기에 얹은 날개형 첨탑과 곡선형 은색 정면이 통째로 펼쳐진 Menara TM
+    kind: actual
+    origin: third-party
+    subject: 흐린 잿빛 하늘 아래 비행접시 모양 스카이 테라스가 있는 Menara TM의 전체 높이 전경, 쿠알라룸푸르
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 말레이시아의 거의 모든 광섬유 광대역 회선, 기업 회선, 해저 데이터 케이블은 누군가에게 닿기 전에 한 회사를 거칩니다. Telekom Malaysia Berhad(TM)는 국가 기간 사업자입니다 — 이 나라 유선 네트워크의 대부분을 건설했고 경쟁사와 국제 통신사가 의존하는 백본을 여전히 소유한 사업자입니다.

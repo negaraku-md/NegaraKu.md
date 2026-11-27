@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,17 @@ relations:
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: クアラルンプールのペルダナ植物園の緑の湖の背後にそびえる、オフィスとホテルの高層ビル群が描くKL Sentralのスカイライン
+    kind: representative
+    origin: third-party
+    subject: SSM本部Menara SSM@Sentralが所在する交通拠点地区、クアラルンプール・セントラル（KL Sentral）を、ペルダナ植物園の湖越しに望む
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## 一覧

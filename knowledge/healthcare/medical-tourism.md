@@ -73,6 +73,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'Exterior of Prince Court Medical Centre in Kuala Lumpur, a leading Malaysian private hospital serving medical tourists'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: A modern private hospital building with glass frontage in Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital, a private medical centre in Kota Kinabalu, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: The signed emergency entrance of a Malaysian private hospital, with a directory board pointing to the lobby and specialists' clinics
+    kind: actual
+    origin: third-party
+    subject: The emergency entrance and lobby directory of Pantai Hospital, a private hospital in Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 A Jakarta family flies in for a father's heart bypass. A British couple books IVF because the wait list at home stretches past their fertility window. A Bangladeshi patient comes for a routine health screen his hometown clinic cannot run.

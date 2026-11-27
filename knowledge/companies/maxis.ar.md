@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "المساهمة الحالية في المجموعة الأم (المصالح المرتبطة بأوساها تيغاس وشركة الاتصالات السعودية) — يُتحقق منها مقابل آخر إفصاحات بورصة ماليزيا."
   - "حالة شبكة الجيل الخامس الثانية في ماليزيا ودور ماكسيس فيها (اختيرت يو موبايل في نوفمبر 2024) — يُتحقق من سياسة الجيل الخامس الحالية والترتيبات مع MCMC."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'التاج المنحني المضاء لبرج ميناره ماكسيس ليلاً، شرفاته المتدرّجة تتوهّج بالأبيض أمام سماء سوداء، مع لافتة شعار maxis الأزرق والأخضر وساعة رقمية حمراء تقرأ 7:57 مثبّتة قرب القمة'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: برج Menara Maxis الحجري البيج ذو الزجاج الأخضر ينحني صعودًا إلى تاج مقوّس أمام سماء غائمة، مع ظهور شعار maxis وساعة رقمية عاليًا على واجهته، وشعار Suria KLCC على القاعدة أسفله
+    kind: actual
+    origin: third-party
+    subject: منظر نهاري لبرج Menara Maxis يرتفع فوق مركز Suria KLCC التجاري، كوالالمبور، مع شعار maxis والساعة قرب تاجه
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: منظر ليلي حاد متجه لأعلى لواجهة Menara Maxis المضاءة المتناقصة، مع لافتة إعلانية مضاءة طويلة تحمل شعار maxis معلّقة عبر طوابقه السفلية أمام سماء سوداء
+    kind: actual
+    origin: third-party
+    subject: Menara Maxis ليلًا كما يُرى من القاعدة، مع لافتة إعلانية كبيرة تحمل علامة maxis على واجهته السفلية، KLCC، كوالالمبور
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 كل ماليزي لديه هاتف تقريبًا كان، في مرحلةٍ ما، عميلًا لماكسيس أو هوتلينك. وخلف هاتين العلامتين المألوفتين تقف شركة واحدة — ماكسيس برهاد (Maxis Berhad) — تُعدّ من أكبر مشغّلي الاتصالات في البلاد، ونمت من حاملٍ للجوال فقط إلى مزوّدٍ متقارب للجوال وعريض النطاق المنزلي والاتصال المؤسسي.

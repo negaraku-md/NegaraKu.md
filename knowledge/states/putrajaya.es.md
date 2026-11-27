@@ -39,7 +39,7 @@ verificationNeeded:
   - "Confirm the number of precincts (20) and the area figure of 4,931 hectares against the latest official publication by Perbadanan Putrajaya — the 2017 annual report once recorded a different area figure."
 
 lang: "es"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -96,6 +96,34 @@ relations:
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "centro administrativo del gobierno federal", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
+hero: '/media/states/putrajaya/hero.webp'
+heroAlt: 'La Mezquita Putra de cúpula rosada y su minarete junto al edificio gubernamental Perdana Putra de cúpula verde, reflejados en el lago de Putrajaya'
+heroCredit: 'Mimihitam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: La rosada Putra Mosque y su minarete resplandeciendo a la hora dorada, perfectamente reflejados en la superficie tranquila del lago de Putrajaya
+    kind: actual
+    origin: third-party
+    subject: La Putra Mosque reflejada en las aguas serenas del lago de Putrajaya a la hora dorada
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: El moderno Seri Wawasan Bridge blanco, con su pilón inclinado en forma de vela y sus cables abiertos en abanico, cruzando el lago en Putrajaya
+    kind: actual
+    origin: third-party
+    subject: El Seri Wawasan Bridge con forma de vela cruzando el lago en Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 En 1999, la Oficina del Primer Ministro se trasladó fuera de Kuala Lumpur. La

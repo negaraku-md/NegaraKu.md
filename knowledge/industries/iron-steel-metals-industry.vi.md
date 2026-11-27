@@ -31,7 +31,7 @@ faq:
   - q: Malaysia có mạnh ở các kim loại khác ngoài thép không?
     a: Có. Về kim loại màu, Malaysia có sức cạnh tranh toàn cầu. Press Metal, đặt tại Sarawak, là nhà sản xuất nhôm tích hợp lớn nhất Đông Nam Á, và Malaysia Smelting Corporation nằm trong số các nhà sản xuất thiếc tinh luyện hàng đầu thế giới, một di sản của lịch sử khai thác thiếc lâu đời của đất nước.
 lang: vi
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'Một nhà máy thép tích hợp lớn với các lò cao, ống khói cao và những cột hơi nước trắng, với những ngọn đồi rừng và nhà cửa phía xa'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: Hai lò cao luyện thép cao với hệ thống ống dẫn và một ống khói phun hơi nước trắng trên nền trời xanh trong
+    kind: representative
+    origin: third-party
+    subject: Các lò cao tại Nhà máy Thép Scunthorpe, Anh
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: Bên trong một xưởng nấu thép, một lò hồ quang điện lớn với cần trục trên cao, hệ thống ống dẫn và công nhân trên các lối đi bằng thép
+    kind: representative
+    origin: third-party
+    subject: Bên trong xưởng nấu thép lò hồ quang điện tại nhà máy thép ProfilARBED ở Differdange, Luxembourg
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 Đằng sau gần như mọi tòa nhà, cây cầu và đường cao tốc ở Malaysia là một ngành thầm lặng hơn làm ra kim loại giữ cho tất cả đứng vững. Sắt và thép hiếm khi lên trang nhất theo cách của bán dẫn hay dầu cọ, nhưng chúng là nền tảng: thanh cốt bên trong một cột bê tông, sợi dây trong một cáp điện, tấm thép trong một cánh cửa xe hơi. Malaysia tự làm ra phần lớn trong số này — và, ở một vài kim loại, thực sự đẳng cấp thế giới. Nhưng nửa thép của câu chuyện cũng là một trong những khu vực chế tạo rắc rối nhất của đất nước, được định hình bởi một sự lệch pha dai dẳng giữa lượng nó có thể sản xuất và lượng thị trường thực sự cần.

@@ -33,7 +33,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -75,6 +75,32 @@ entity: "클랑밸리 철도의 휠체어 접근성"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: '쿠알라룸푸르 KLCC LRT 역에 있는, 파란색 휠체어 접근성 표지와 점자 블록이 설치된 스테인리스강 승객용 엘리베이터.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: 시각장애 승객을 안내하기 위해 깨끗한 MRT 역 승강장 가장자리를 따라 이어진, 돌기 막대가 있는 선명한 노란색 점자블록의 행렬.
+    kind: actual
+    origin: third-party
+    subject: 클랑밸리 수리안 MRT역(코타 다만사라) 승강장의 점자블록
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: 선로 가장자리에 천장까지 닿는 스크린도어를 설치하고 승하차 구역을 점자블록으로 표시한, 넓고 평탄한 MRT 역 승강장.
+    kind: actual
+    origin: third-party
+    subject: 클랑밸리 쿠알라룸푸르 병원 MRT역의 스크린도어 설치 승강장
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 휠체어 이용자에게 클랑밸리의 철도망은 하나의 시스템이 아니라, 서로 매우 다른 기준으로 각기 다른 시대에 지어진 여러 시스템입니다 — 그리고 그것이 좋은 여정을 계획하는 열쇠입니다. 당신이 내리는 가장 유용한 단 하나의 결정은 **어떤 노선 유형으로 이동하느냐**이며, 그다음 여정의 성패는 반짝이는 노선도가 결코 보여주지 않는 두 가지에 달려 있습니다. **특정 엘리베이터가 그날 작동하는지**, 그리고 **환승이 실제로 어떻게 연결되는지**입니다. 이 안내는 그런 현실을 중심으로 계획하는 법에 관한 것입니다. 이는 의도적으로 역별 접근성 목록이 *아닙니다* — 그런 조건은 어떤 글이 따라갈 수 있는 것보다 빨리 바뀌기 때문입니다 — 그러므로 이하 전체를 *그 역이 제공하도록 지어진 바*로 간주하고, 의존하기 전에 운영자에게 현재 상태를 확인하십시오.

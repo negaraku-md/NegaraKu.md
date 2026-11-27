@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "ผู้ใดก็ตามในมาเลเซียที่กำลังตั้งครรภ์ วางแผนตั้งครรภ์ หรือสนับสนุนคู่ครองหรือสมาชิกในครอบครัวตลอดการตั้งครรภ์ และต้องการเข้าใจว่าระบบการดูแลก่อนคลอดของรัฐ การดูแลแบบเอกชน และการจดทะเบียนการเกิด ประกอบเข้าด้วยกันอย่างไร"
 
 lang: "th"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -63,6 +63,32 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'ภายนอกของอาคารแผนกคลอด (Hospital Bersalin) ของ Hospital Kuala Lumpur โดยมีเส้นขอบฟ้าของเมืองอยู่ด้านหลัง'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: ห้องคลอดที่สะอาดและทันสมัยมีเตียงผู้ป่วยว่างและเปลเด็กแรกเกิดใสโดยไม่มีผู้คนอยู่
+    kind: representative
+    origin: third-party
+    subject: ห้องแผนกสูติกรรมมีเตียงผู้ป่วยและเปลเด็กแรกเกิดใสอยู่ข้างๆ
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: ห้องรอคลินิกฝากครรภ์ของโรงพยาบาลที่ว่างและเป็นระเบียบมีเก้าอี้สีเทาและคำว่าAntenatalClinicบนผนัง
+    kind: representative
+    origin: third-party
+    subject: พื้นที่รอคลินิกฝากครรภ์ที่ว่างมีเก้าอี้เรียงแถวและตัวอักษรAntenatalClinicบนผนัง
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 ผลการทดสอบการตั้งครรภ์ที่เป็นบวกเริ่มเดินนาฬิกาสองเรือนพร้อมกัน และแทบไม่มีใครอธิบายเรื่องนี้ตั้งแต่แรก นาฬิกาเรือนหนึ่งเกี่ยวกับการตั้งครรภ์เอง — เมื่อใดที่ต้องลงทะเบียน ที่ไหน เกิดอะไรขึ้นในการมาแต่ละครั้ง อีกเรือนหนึ่งเริ่มเดินหลังจากทารกมาถึงแล้ว และไม่เกี่ยวข้องกับโรงพยาบาลเลย คือ การจดทะเบียนทางกฎหมายกับหน่วยงานที่แตกต่างกันโดยสิ้นเชิง

@@ -32,7 +32,7 @@ faq:
     a: "Electrical-related problems are among the highest for residential fires — faulty wiring, overloaded sockets and worn extension cords. Cooking left unattended and LPG gas leaks are also major contributors."
 
 lang: "en"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,36 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'A bright-red Mercedes-Benz Atego Bomba fire engine with ''BOMBA'' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: The side of a red 'Bomba dan Penyelamat' fire engine with its roller compartments open to show neatly stowed coiled hoses, a hose reel, breathing apparatus, a portable generator and other rescue gear
+    kind: actual
+    origin: third-party
+    subject: the open side lockers of a Malaysian Bomba fire engine displaying its firefighting and rescue equipment
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: A red Toyota Hiace Bomba rescue van in 'Bomba dan Penyelamat' livery with yellow BOMBA lettering and the department crest, parked on grass beside trees in a rural village setting
+    kind: actual
+    origin: third-party
+    subject: a red Bomba emergency rescue van deployed in a rural kampung in Ranau, Sabah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 Fire gives no warning. In a matter of minutes, a spark from an overloaded socket or an abandoned frying pan can level a house — and in 2025 alone, the [Fire and Rescue Department of Malaysia](/government/fire-and-rescue-department-bomba) (JBPM) recorded 16,111 fire cases with 98 deaths and estimated property losses of RM2.09 billion. The good news: almost all of them are preventable, whether in your living room or on the factory floor.

@@ -21,7 +21,7 @@ appliesTo: "マレーシアで、障害または学習困難と診断された�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 
 status: "published"
 aiAssisted: true
@@ -58,9 +58,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'マレーシアの中等学校 SMK Taman Universiti の特別教育統合プログラム（PPKI）の教師と生徒管理補助員の集合写真。'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: ジョホール州の政府特別支援教育小学校SK Pendidikan Khas Batu Pahatの入口と歓迎のアーチ。門にはマレー語の看板が掲げられている。
+    kind: actual
+    origin: third-party
+    subject: マレーシアの国民特別支援教育学校
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: サバ州ペンシアンガンにある農村部の政府小学校の、平屋建ての木造教室棟。森に覆われた丘を背にしている。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの政府小学校の校舎
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 診断は最初の対話にすぎない。2つ目の対話——多くの場合、より混乱を招く——は、実際に子どもがどの学校トラックに入るのか、そしてなぜ学校そのものより先にOKUカードが重要になるように見えるのか、というものだ。マレーシアの制度には3つの公立トラックがあり、そのすべてに供給する独立した障害登録プロセスがあり、そして多くの保護者が単一の公式ページではなく口コミで知ることになる、民間・NGOによる療育の並行した世界が存在する。

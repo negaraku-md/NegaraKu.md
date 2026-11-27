@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'マレーシアのクランにある住宅街を上空から捉えた、茶色い洪水に囲まれた家々の眺め。'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: ケダ州プンダンのカンポン・パダン・プシンで急な増水の後、連邦道K151にたまった洪水
+    kind: actual
+    origin: third-party
+    subject: ケダ州プンダンで急な増水の後、道路を覆う洪水
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: 熱帯の風景の上空に集まる暗いモンスーンの嵐雲
+    kind: representative
+    origin: third-party
+    subject: モンスーンの嵐雲(イメージ)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 毎年、世界の他の地域が冬へと向かうころ、マレーシアの東海岸は身構える。船は引き揚げられ、島のリゾートは戸を閉め、洪水救援センターが整えられ、低地の町々の家族は川を見守る。これが**北東モンスーン**――マレーシアの天候に対する単一で最大の影響であり、同国が年間を通じて一様な熱帯の雨ではなく、実質的にはっきりした雨季を持つ理由である。

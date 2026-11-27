@@ -87,6 +87,14 @@ drinkFacts:
   halal: "马来西亚大型连锁持有 JAKIM 清真认证——Chatime Malaysia 取得了认证，2019 年 JAKIM 公开确认 Tealive 为清真——这帮助 bubble tea 成为跨社群共享的饮料。清真保证附属于具体获认证的店面，因此应查看个别店家张贴的证书，而非假定所有 bubble tea 都已获认证。"
   served: "由专门的连锁店与商场档口冷饮加冰供应（也有热版），而非传统 kopitiam。在柜台可定制：选甜度（如 50%、「少甜」）、冰量与配料。珍珠用招牌粗吸管吸起。"
   where: "见于遍布全国商场、大街与得来速的专门 bubble tea 连锁（Tealive、Chatime 及许多其他品牌）——一款有别于 kopitiam 经典的现代都市饮料。"
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "一高杯奶茶（bubble tea），杯底沉着厚厚一层黑色珍珠"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 走过任何一家马来西亚商场，几分钟内你就会经过它们：明亮的小柜台，门前排着队，店员

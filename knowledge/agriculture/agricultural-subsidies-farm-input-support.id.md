@@ -34,7 +34,7 @@ faq:
     a: "Kementerian Pertanian dan Ketahanan Pangan (KPKM) melalui Bagian Pembangunan Industri Padi, dengan lembaga pelaksana seperti Lembaga Organisasi Petani (LPP), MADA dan KADA di kawasan lumbung padi masing-masing."
 
 lang: "id"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,9 +100,36 @@ wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Petani membungkuk menggarap pematang berlumpur di sawah padi yang tergenang air, memercikkan lumpur, di bawah cahaya siang yang terang'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: Operator mengemudikan mesin pemanen gabungan berwarna kuning melintasi sawah basah bertunggul saat senja dengan pohon palem di garis cakrawala
+    kind: actual
+    origin: third-party
+    subject: mesin pemanen gabungan memotong padi di sawah berlumpur saat senja di Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: Perempuan berjilbab memotong malai padi keemasan dengan pisau kecil dan mengumpulkannya ke dalam keranjang anyaman kuning
+    kind: actual
+    origin: third-party
+    subject: perempuan Dusun memanen bulir padi matang dengan tangan ke dalam keranjang anyaman di Distrik Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 Sekarung pupuk yang dipikul petani ke sawahnya pagi itu tidak dibeli dengan uangnya sendiri — ia datang tanpa bayaran, ditanggung Pemerintah Federal selama berpuluh-puluh tahun. Inilah wajah sebenarnya subsidi pertanian Malaysia untuk padi: bukan cek atau uang masuk rekening, melainkan pupuk, pestisida dan insentif yang menutup sebagian besar biaya di ladang.

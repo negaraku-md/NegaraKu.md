@@ -98,6 +98,14 @@ drinkFacts:
   halal: "Một thức uống không cồn gồm si-rô hoa hồng, sữa và nước, từ lâu được phục vụ tại các dịp của người Hồi giáo Mã Lai như tiệc cưới và iftar tháng Ramadan, nên thành phần của nó là halal; những người tuân thủ nghiêm ngặt vẫn có thể kiểm tra các nhãn hiệu si-rô và sữa cụ thể. Biến thể bandung soda chỉ thêm một loại nước ngọt có ga thông thường và cũng không có cồn."
   served: "Để đá và màu hồng rực, thường có bọt. Một thức uống vừa lễ hội vừa thường ngày: được rót tại các tiệc cưới và kenduri, được mang ra tại iftar tháng Ramadan, và được phục vụ lạnh tại các buổi tụ họp gia đình và nhà hàng cùng với các món đậm đà như nasi beriani hay rendang."
   where: "Một món chủ lực của các quầy mamak, trung tâm hàng rong, kopitiam và chợ đêm pasar malam khắp Malaysia, nơi nó thường được gọi là 'sirap bandung' (thêm peng hoặc ais để lấy đá). Các biến thể — bandung soda, bandung cincau với thạch sương sáo — xuất hiện tại cùng các quầy đó và tại các bàn tiệc lễ hội."
+hero: "/media/food/sirap-bandung/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Hai ly cao sữa siro hoa hồng màu hồng đá (sirap bandung) cắm ống hút"
+heroCredit: "Kyle Lam / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 Trong tất cả các thức uống trên bảng của một quán cà phê Malaysia, sirap bandung là món

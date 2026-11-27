@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -65,6 +65,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["默迪卡 1957", "马来亚独立", "东姑阿都拉曼", "李特宪制委员会", "默迪卡体育场"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: '东姑阿都拉曼举手站在人群前，正值1957年历史性的默迪卡独立宣言。'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: 明朗天空下，吉隆坡Stadium Merdeka弧形看台与开阔的椭圆形场地，这座历史性竞技场正是宣布马来亚独立之地。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡的Stadium Merdeka，1957年8月31日在此宣布独立
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: 吉隆坡Dataran Merdeka的高耸白色旗杆，矗立于独立广场的绿色草坪之上，1957年午夜英国米字旗在此降下。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡Dataran Merdeka（独立广场）的巨型旗杆
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 1957年8月31日午夜刚过几分钟，在吉隆坡旧雪兰莪俱乐部前方的广场（padang）上，米字旗降下，新的马来亚联合邦国旗升起。这是大多数人对默迪卡所怀有的画面——但独立的实际工作在数月前就已完成，是在伦敦与吉隆坡的委员会会议室里，由一群人就一部前一年还不存在的宪法条文逐一谈判而成。

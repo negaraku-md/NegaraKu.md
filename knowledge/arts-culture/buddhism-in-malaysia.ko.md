@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,32 @@ faq:
   - q: 웨삭은 무엇을 기념하며, 공휴일입니까?
     a: 웨삭(웨삭절)은 부처의 탄생, 깨달음, 열반을 기념하는 날로, 말레이시아의 전국 공휴일입니다. 신자들은 사원을 찾아 꽃을 바치고 등을 밝히며 보시를 행합니다. 종교의 자유는 연방헌법 제11조에 의해 보장되며, 제3조가 이슬람교를 연방의 종교로 규정하고 있으나 다른 종교가 평화롭게 신앙되는 것을 막지 않습니다.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: '페낭 언덕에 자리한 극락사(Kek Lok Si) 불교 사원으로, 유려한 금빛 기와지붕과 붉은 등롱이 늘어선 층층 테라스, 안뜰의 탑 분수가 있다.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: 푸른 하늘을 배경으로 금박과 타일로 화려하게 장식된 태국 불교 사원의 정면과 지붕(페낭)
+    kind: actual
+    origin: third-party
+    subject: 왓 차이야 망칼라람, 페낭 조지타운에 있는 태국 상좌부 불교 사원
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: 노랑, 흰색, 분홍 국화에 둘러싸인 좌불상이 웨삭 축제 수레 위에 모셔져 있다
+    kind: actual
+    origin: third-party
+    subject: 크다주 알로르스타르의 왓 니크로다람 웨삭(Wesak)절 수레에 꽃으로 장식된 불상
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 페낭의 언덕 위에서 극락사(極樂寺)의 탑 그림자가 조지타운을 내려다보고, 쿠알라룸푸르

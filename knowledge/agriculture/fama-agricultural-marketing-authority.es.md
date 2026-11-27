@@ -31,7 +31,7 @@ faq:
     a: "Los productores pueden comercializar directamente a los consumidores a través de los canales de FAMA, como los Mercados Permanentes de Agricultores, Agrobazaar, My Farm Outlet y los Puestos de Fruta Fresca, o participar en programas como la Agricultura por Contrato y RANTAI. Los detalles de participación se confirman en fama.gov.my."
 
 lang: "es"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Autoridad Federal de Comercialización Agrícola", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "mercado de agricultores", "My Farm Outlet", "Agrobazaar", "comercialización agrícola", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'Hileras de puestos con toldo en un mercado de agricultores Pasar Tani en Putrajaya, Malasia.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: Un puesto con carretilla rebosante de rambután y langsat, cubierto con la bandera de Malasia, en Central Market, Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Vendedor ambulante de fruta que vende rambután y langsat en Kuala Lumpur
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: Un puesto de mercado que exhibe espárragos, aguacates, mangos y calabazas con precios en ringgit en Kea Farm, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Productos locales frescos a la venta en un puesto del mercado de Kea Farm, Cameron Highlands
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 Un agricultor de hortalizas en las [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) puede cultivar los mejores productos y, aun así, el

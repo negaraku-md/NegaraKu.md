@@ -74,6 +74,32 @@ faq:
   - q: Why do most Malaysians live near the coasts rather than inland?
     a: Each landmass is dominated by a central mountain spine — the Titiwangsa Range in the Peninsula, the Crocker Range in Sabah — flanked by only narrow coastal plains. Those highlands push settlement outward onto the coastal plains and river valleys, leaving the mountainous interior thinly populated. The sheltered west coast plain of the Peninsula, calmed by the Strait of Malacca, holds most of its population and biggest cities such as Kuala Lumpur and George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'An aerial view of a tropical coastal plain where a winding river empties into the sea, towns and farm plots spreading inland and pale reclaimed land edging the shoreline beneath scattered clouds.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: A sheer grey limestone karst cliff draped in jungle rises straight out of a still emerald lake, its face mirrored in the dark water.
+    kind: actual
+    origin: third-party
+    subject: Limestone karst cliff at Tasik Cermin (Mirror Lake), Ipoh, Perak
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: A white-sand cove fringed with coconut palms and wooden chalets meets clear turquoise water on a small tropical island.
+    kind: actual
+    origin: third-party
+    subject: Tropical beach on Pulau Perhentian Kecil, Terengganu
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 Fly into Kuala Lumpur from Kota Kinabalu and you cross more than an internal border — you cross several hundred kilometres of open sea. Malaysia is one country stapled together across two separate landmasses, and that simple fact of shape has quietly decided almost everything else: where the cities are, where the rice fields are, and which coast floods every December.

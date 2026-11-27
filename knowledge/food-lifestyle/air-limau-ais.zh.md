@@ -83,7 +83,14 @@ drinkFacts:
   origin: "马来西亚 mamak 与 kopitiam 柜台的一款常备鲜青柠消暑饮品，建立在本地青柠（calamansi／limau kasturi、limau nipis）之上，而非出自某位发明者。Limau asam boi 版本加入晒干的酸梅，带来甜咸酸的层次。"
   halal: "青柠、糖和水，不含酒精，所以饮品本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别摊档查问。"
   served: "冰镇供应，盛在冰块上，现挤现做；想少甜可要求「kurang manis」。可点原味，也可点成 limau asam boi，加入晒干的酸梅和一撮盐。它有别于 teh O ais limau——那是冰青柠茶。"
-  where: "遍布全国的 mamak 食肆、kopitiam 与小贩饮料摊——是最常被点的日常消暑饮品之一。"
+  where: "遍布全国的 mamak 食肆、kopitiam 与小贩饮料摊——是最常被点的日常消暑饮品之一。"
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "俯视一杯冰青柠汁（air limau ais），配一块新鲜青柠角"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 在几乎任何一家马来西亚 mamak 点一杯冷饮，总有一个答案万无一失：**air

@@ -34,7 +34,7 @@ faq:
     a: "사립대학도 일반적으로 영어 능력 증빙을 요구합니다. 현지 학생은 보통 MUET 결과를 제출하며, IELTS나 TOEFL 같은 동등한 자격은 프로그램과 기관에 따라 인정될 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: '학부 과정에 지원하는 예비 대학생(STPM, 매트리큘레이션, 예비 과정 또는 디플로마)으로서, 공립대학에서 MUET가 필수 영어 능력 관문인 이들을 위한 카드입니다.'
+  how: '말레이시아 시험위원회(Majlis Peperiksaan Malaysia, MPM)를 통해 MUET의 네 과목 — 듣기, 말하기, 읽기, 쓰기 — 을 치르십시오. 종합 점수가 밴드로 환산되며, 각 대학의 평의회(Senate)가 프로그램별로 요구하는 최소 밴드를 정합니다.'
+  cost: '응시료는 MPM이 정하며 비국민과 컴퓨터 기반 MUET on Demand 버전의 경우 더 높고, 또 바뀝니다 — 제시된 특정 금액이 아니라 MPM 포털(mpm.edu.my)에서 현재 응시료를 확인하십시오.'
+  watch: '단일한 합격 밴드는 없습니다 — 최소 기준은 프로그램마다 다르며 각 대학의 평의회가 정합니다. 성적은 5년간 유효하므로, 너무 일찍 응시하면 지원하기 전에 만료될 수 있습니다.'
+  next: '목표 프로그램의 최소 밴드를 해당 대학 웹사이트에서 확인하고, MPM을 통해 일찍 등록하며, 5년 유효 기간을 챙기십시오. 공립 대 사립 대학교 글을 참고하십시오.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: '말레이시아의 한 대학 강당에서 학생들이 개별 책상에 앉아 시험을 치르고 있으며, 감독관이 통로 사이를 걷고 있다.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: 시험장으로 사용되는 말레이시아의 큰 학교 강당 내부로, 무대와 바닥에 줄지어 마련된 공간이 있다
+    kind: representative
+    origin: third-party
+    subject: 시험장으로 쓰이는 말레이시아 학교 강당(dewan)
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: 말레이시아 한 대학 캠퍼스의 강의동 단지를 위에서 내려다본 모습
+    kind: representative
+    origin: third-party
+    subject: 술탄이드리스교육대학교(UPSI)의 강의동 단지
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 STPM이나 매트리큘레이션에서 뛰어날 수 있지만, 한 가지 결과가 더 없으면 여러분의 학위 지원서는 여전히 불완전합니다. 그 결과가 바로 MUET입니다 — 그리고 많은 학생은 대학 지원 마감일이 다가와서야 그 중요성을 깨닫습니다.

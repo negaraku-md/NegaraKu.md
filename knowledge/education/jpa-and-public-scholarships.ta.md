@@ -31,7 +31,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,32 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'ரெம்பாவ்வில் உள்ள UiTM வளாகத்தின் நவீன மஞ்சள்-சாம்பல் நிற பீடக் கட்டிடங்கள், இது ஒரு மலேசிய பொதுப் பல்கலைக்கழகம், மாணவர்கள் வளாகச் சாலையில் நடந்து செல்கின்றனர்.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Universiti Sains Malaysia-இன் பொறியியல் வளாகத்தில் நவீன கல்விக் கட்டிடங்களும் நிலக்காட்சி அமைக்கப்பட்ட பகுதிகளும்
+    kind: representative
+    origin: third-party
+    subject: Universiti Sains Malaysia-இன் பொறியியல் வளாகம், ஒரு மலேசிய அரசு ஆராய்ச்சிப் பல்கலைக்கழகம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: மலேசியப் பல்கலைக்கழகப் பட்டமளிப்பு விழாவில் கல்வி அங்கிகளும் பட்டதாரித் தொப்பிகளும் அணிந்து வரிசையாக அமர்ந்திருக்கும் பட்டதாரிகள்
+    kind: representative
+    origin: third-party
+    subject: மலேசியப் பல்கலைக்கழகப் பட்டமளிப்பு விழாவில் அங்கி அணிந்த பட்டதாரிகள் (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 SPM தேர்வில் 9A+ பெறுவது வெளிநாட்டு முழு புலமைப்பரிசிலைத் தானாகவே உறுதிசெய்யாது — ஏனெனில் மலேசியாவில், பொது நிதியுதவி என்பது வெறும் மதிப்பெண்களைப் பற்றியது மட்டுமல்ல, நீங்கள் எந்த திட்டத்திற்கு விண்ணப்பிக்கிறீர்கள், அதனுடன் இணைக்கப்பட்ட சேவை நிபந்தனைகள், மற்றும் ஒவ்வொரு நிதியையும் நிர்வகிக்கும் கொள்கை ஆகியவற்றைப் பற்றியதும் ஆகும். இந்த நிதியுதவியாளர்களின் வரைபடத்தைப் புரிந்துகொள்வது முக்கியம், ஏனெனில் தவறான தேர்வு பிற்காலத்தில் திருப்பிச் செலுத்த வேண்டிய ஆயிரக்கணக்கான ரிங்கிட்டைக் குறிக்கலாம்.

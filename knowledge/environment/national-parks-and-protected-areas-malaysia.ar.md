@@ -34,7 +34,7 @@ faq:
     a: "تحظر المادة 10 من قانون الحدائق الوطنية 1980 التعدين والتنقيب داخل حديقة وطنية، إلا إذا رأت السلطة في الولاية، بعد التشاور مع الوزير، وجود راسب معدني غنيّ على نحو استثنائي."
 
 lang: "ar"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,36 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["تامان نيغارا", "taman negara", "المناطق المحمية", "kawasan perlindungan", "قانون الحدائق الوطنية 1980", "Akta Taman Negara 1980", "حديقة كينابالو", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "الحدائق البحرية", "taman laut", "PERHILITAN", "التراث العالمي لليونسكو", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'نهر غابي هادئ يعكس غابة مطيرة خضراء كثيفة على كلتا الضفتين مع حافة غابية ترتفع خلفه في حديقة إنداو-رومبين الوطنية'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: منظر من مقدّمة قارب عبر مياه بحيرة ساكنة نحو تلال مكسوّة بالغابات تحت سماء زرقاء في حديقة رويال بيلوم الولائية
+    kind: actual
+    origin: third-party
+    subject: استكشاف ضفاف حديقة رويال بيلوم الولائية المكسوّة بالغابات بالقارب
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: ضباب صباحي يتصاعد عن منحدرات جبلية مكسوّة بالغابات مع شجرة عارية طويلة وحيدة في المقدّمة بحديقة كينابالو، صباح
+    kind: actual
+    origin: third-party
+    subject: سحابة منخفضة تتشكّل فوق الغابة المطيرة الجبلية في حديقة كينابالو، صباح
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 اسأل أيًّا كان عن موضع «الحديقة الوطنية في ماليزيا» وسيشير إلى مكان واحد. والواقع أن ماليزيا لا تملك حديقة وطنية واحدة — بل تملك ثلاثة أنظمة قانونية منفصلة تمامًا، وأحدها لا يشمل حتى المكان الأشهر بالاسم «[تامان نيغارا](/ar/tourism/taman-negara-ecotourism-guide)». وفهم هذه الخريطة القانونية هو مفتاح التخطيط لزيارة، أو إجراء بحث، أو مجرد إدراك كيف تحمي ماليزيا غاباتها المطيرة التي يبلغ عمرها 130 مليون سنة.

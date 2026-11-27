@@ -31,7 +31,7 @@ faq:
     a: "وفقًا لـ JPJ، فإن إشعار AwAS الذي لا يُسوّى خلال 60 يومًا من تاريخ إصداره قد يؤدي إلى إجراء قضائي، مع غرامة تتراوح بين RM300 و RM2,000 عند الإدانة."
 
 lang: "ar"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["مخالفات المرور ماليزيا", "saman trafik Malaysia", "التحقق من مخالفات JPJ", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "غرامة المرور", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'شرطي مرور ماليزي يقف يكتب بجوار دراجته النارية البيضاء للدورية المكتوب عليها "POLIS" عند تقاطع مزدحم في مدينة كوالالمبور.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: رجال شرطة بالزي الرسمي يقفون عند حاجز على طريق، يفحصون المركبات وهي تبطئ حتى تتوقف عند نقطة التفتيش
+    kind: actual
+    origin: third-party
+    subject: حاجز شرطة ماليزي يوقف فيه رجال الشرطة المركبات ويفتّشونها
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: شرطي مرور ماليزي يرتدي سترة عاكسة وخوذة يقف في شارع بالمدينة وينظّم مرور المركبات
+    kind: actual
+    origin: third-party
+    subject: شرطي مرور في الخدمة ينظّم السير في شارع في Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 يمكن للسائق أن يتلقى أربعة أنواع من المخالفات تبدو متشابهة على الورق — لكنها تأتي من أربع جهات مختلفة، ويجب التحقق من كلٍّ منها في مكان مختلف. كثيرون يعرفون بوابة واحدة فقط، فيظنّون أن مخالفتهم «اختفت» بينما هي في الواقع قابعة في نظام آخر.

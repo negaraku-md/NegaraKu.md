@@ -35,7 +35,7 @@ faq:
     a: "Tính đến năm 2026, Bộ trưởng Ngoại giao là Dato' Seri Utama Mohamad Hasan. Các danh mục Nội các thay đổi theo các lần cải tổ, nên hãy xác nhận người giữ chức vụ hiện tại tại kln.gov.my."
 
 lang: "vi"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,34 @@ relations:
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
 framework: profile
+hero: '/media/government/ministry-of-foreign-affairs-wisma-putra/hero.webp'
+heroAlt: 'Lối vào của Wisma Putra, Bộ Ngoại giao Malaysia, với những mái kiểu Mã Lai màu xanh, cờ và biển hiệu Wisma Putra Kementerian Luar Negeri'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: Đường dẫn vào Wisma Putra hai bên trồng cọ cho thấy biển hiệu Wisma Putra Kementerian Luar Negeri Malaysia và tòa tháp của bộ phía xa
+    kind: actual
+    origin: third-party
+    subject: Đường dẫn vào Wisma Putra với biển hiệu lối vào, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: Cảnh nhìn rộng của lối vào khu phức hợp Wisma Putra với cờ bang và nhà gác cổng tại Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Cảnh nhìn rộng hơn của lối vào và nhà gác cổng Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Khi một người Malaysia mắc kẹt ở nước ngoài, khi Malaysia bỏ một lá phiếu tại Liên Hợp Quốc, hoặc khi một đại sứ mới trình quốc thư tại một thủ đô nước ngoài, cùng một thể chế đứng sau cả ba điều đó — Wisma Putra.

@@ -33,7 +33,7 @@ faq:
     a: "传统上是女性。UNESCO 记载，songket 织造工作向来掌握在女性手中，男性则通过制作织造器具来参与这项技艺。相关知识在家族与村落中世代相传，部分机构也提供培训课程。"
 
 lang: "zh"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,34 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: '手工织造songket布的细部特写，深红色丝绸上以闪亮金线织满密集的花卉和菱形图纹，中央是一块对比鲜明的嵌板'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: 一整幅长方形的宋吉锦（songket）平铺展示，两侧为金线花卉图案的红色边幅，中间是色调较浅的金色主幅
+    kind: actual
+    origin: third-party
+    subject: 一整幅来自登嘉楼的马来宋吉锦围裙布（kain）平铺，可见金织锦底和中央的头幅
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: 一顶用绿金两色宋吉锦折成的三角形马来头饰（tanjak），布面织入金属丝线闪闪发亮，陈列在支架上
+    kind: actual
+    origin: third-party
+    subject: 一顶来自登嘉楼、用金色宋吉锦折成的马来头饰（tanjak）
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 宋吉（songket）作坊里最常听到的声音，不是机器的声音。而是木器被压下、丝线被拉紧,以及一支竹签滑进去又抽出来的声音——如此反复,一次一行图案,一整天都是如此。

@@ -44,7 +44,7 @@ sources:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,24 @@ drinkFacts:
   halal: "بوصفه مشروبًا غازيًّا تجاريًّا من صانع كبير، يحمل Sarsi اعتماد الحلال؛ وأضمنُ تحقّق هو علامة الحلال المطبوعة على القارورة أو العلبة. ابحث عنها على العبوة."
   served: "يُقدَّم مبرَّدًا من القارورة أو العلبة. وتنويعة محلية محبوبة هي «Sarsi susu» — Sarsi مع حليب مبخَّر أو مكثَّف أو طازج يُسكَب لصنع عائم كريميّ. حلو وفوّار؛ حلوى مشروب غازيّ، لا مشروب كوبيتيام مخمَّرًا."
   where: "يوجد في الدكاكين والأسواق الكبرى والكوبيتيام وفي التجمّعات العائلية في عموم البلاد — ركيزة حنينية من الرفّ المبرَّد."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'كأس زجاجي طويل مموّج من صودا السرسبريلا الداكنة الفوّارة (sarsi) برغوة في الأعلى، تحت أشعة الشمس'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: كأس مملوء بمشروب غازي بنكهة السارسابريلا (sarsae) بلون بني محمرّ داكن
+    kind: actual
+    origin: third-party
+    subject: كأس من مشروب Asia Sarsae الغازي بنكهة السارسابريلا
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 ليس كل مشروب على المائدة الماليزية مخمَّرًا أو مسحوبًا أو معصورًا. فبعضها يأتي من

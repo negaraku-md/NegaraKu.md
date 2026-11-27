@@ -38,7 +38,7 @@ faq:
     a: "2024年，国家石油公司以股息、税款、现金支付及其他承诺形式缴纳了724亿令吉，其中包括320亿令吉的股息。这还不包括该领域其他承包商和服务公司所缴纳的税款。"
 
 lang: "zh"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: '鸟瞰砂拉越民都鲁LNG出口码头：一座架在钢桩上的混凝土平台，承载着成组高耸的海运装卸臂和管道，跨越碧绿海面，身后是港口和天然气厂的轮廓'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: 位于沙巴 Kimanis 的 Sabah Oil and Gas Terminal，一座高耸的红白相间钢制火炬塔向多云的天空喷出明亮的橙色气焰，背景是管架和 Crocker Range 山脉
+    kind: actual
+    origin: third-party
+    subject: 沙巴 Kimanis 的 Sabah Oil and Gas Terminal（SOGT）火炬塔顶部燃烧的气焰
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: 森美兰 Port Dickson 附近一片草地尽头的地平线上，矗立着一座炼油厂的蒸馏塔、烟囱和储油罐，天空笼罩着朦胧的暮色
+    kind: actual
+    origin: third-party
+    subject: 从 Federal Route 5 越过空地望向森美兰 Port Dickson 以东的一座炼油厂
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 马来西亚土地与海床之下的每一桶石油、每一立方英尺天然气，在法律上都归属于一家公司。不是国家直接持有，不是油田的发现者，也不是钻探它们的跨国公司——而是国家石油公司（PETRONAS），一家为国家托管石油资源而设立的国家石油公司。理解这一事实，马来西亚石油与天然气产业的其余部分——如何监管、融资、征税和分成——便会豁然开朗。

@@ -33,7 +33,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -75,6 +75,32 @@ entity: "クランバレーの鉄道における車椅子アクセシビリテ�
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'クアラルンプールのKLCC LRT駅にある、青い車いす用バリアフリー標識と点字ブロックが設けられたステンレス製の乗客用エレベーター。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: 清潔なMRT駅のホームの縁に沿って延びる、突起バー付きの鮮やかな黄色の点字ブロックの列。視覚障害のある乗客を誘導する。
+    kind: actual
+    origin: third-party
+    subject: クランバレーのSurian MRT駅（コタ・ダマンサラ）のホームの点字ブロック
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: 線路側に天井までのホームドアを備え、乗降ゾーンを点字ブロックで示した、広く平坦なMRT駅のホーム。
+    kind: actual
+    origin: third-party
+    subject: クランバレーのHospital Kuala Lumpur MRT駅のホームドア付きホーム
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 車椅子利用者にとって、クランバレーの鉄道網は一つのシステムではなく、異なる時代に大きく異なる基準で建設されたいくつものシステムです――そしてそれが良い移動を計画する鍵になります。あなたが下す最も役立つ決断は、**どの路線で移動するか**です。その後は、きれいな路線図には決して載っていない二つのことで旅程の成否が決まります。**特定のエレベーターがその日に動いているか**、そして**乗り換えが実際にどうつながっているか**です。このガイドは、そうした現実をふまえてどう計画するかについてのものです。これは意図的に駅ごとのアクセシビリティ一覧**ではありません**――そうした状況は、どの記事も追いつけないほど早く変わるからです――ので、以下はすべて*その駅が備えるよう設計された内容*として扱い、当てにする前に現時点の状態を運営者に確認してください。

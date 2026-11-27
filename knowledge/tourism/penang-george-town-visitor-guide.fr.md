@@ -36,7 +36,7 @@ faq:
     a: "Penang est une destination accessible toute l'année au climat tropical chaud et humide. Il peut pleuvoir n'importe quel mois, mais les pluies tendent à être les plus fortes autour des périodes inter-moussons (environ avril–mai et septembre–novembre) ; la fenêtre plus sèche et plus fraîche autour de décembre–février est populaire. Les matinées et les fins d'après-midi sont les moments les plus agréables pour marcher."
 
 lang: "fr"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["guide de voyage Penang", "George Town UNESCO", "art de rue Penang", "funiculaire Penang Hill", "cuisine de hawker Penang", "cœur patrimonial George Town", "Batu Ferringhi", "que faire à Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'Voyageurs qui souhaitent explorer à pied un cœur patrimonial UNESCO parcourable, fait de maisons-boutiques, de maisons de clan, du street art d''Ernest Zacharevic et d''une cuisine de rue multiculturelle.'
+  getThere: 'Prenez un vol vers l''aéroport international de Penang au sud de George Town, ou rejoignez l''île par voie terrestre via le pont de Penang et le pont Sultan Abdul Halim Muadzam Shah, ou prenez le Rapid Ferry depuis Butterworth jusqu''au front de mer de George Town.'
+  watch: 'Considérez le street art comme une porte d''entrée plutôt que comme toute l''histoire, car ce sont les maisons de clan, les temples et les rues de maisons-boutiques que l''inscription UNESCO protège réellement.'
+  next: 'Confirmez les horaires et les règles du funiculaire en vigueur auprès de la Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Lanternes chinoises rouges suspendues au-dessus d'Armenian Street, bordée de boutiques traditionnelles colorées et de cafés, à George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Une rangée de pousse-pousse pour passagers vivement décorés de fleurs et de parasols, alignés devant des bâtiments patrimoniaux à George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Pousse-pousse de George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Atterrissez sur l'île, sortez de la climatisation, et la première chose qui vous frappe est l'odeur : la fumée du wok, l'encens d'un temple chinois, la fleur de frangipanier et le sel du détroit de Malacca. George Town est un lieu qui se lit avec les pieds : une trame compacte de shophouses centenaires où une mosquée, une maison de clan et une église coloniale peuvent partager un seul pâté de maisons. Ce guide couvre ce qu'il faut voir, où manger, comment rejoindre les plages et la colline, et combien de temps consacrer à une ville qui récompense la lenteur.

@@ -36,7 +36,7 @@ faq:
     a: "كلاهما موجود. فأماكن مثل آناه رايس قرب كوتشينغ هي مجتمعات بيوت طويلة للبيداويه لا تزال مأهولة بأُسَر مقيمة، بينما قرية ساراواك الثقافية (Sarawak Cultural Village) قرب سانتوبونغ متحف حي شُيّد خصيصًا لهذا الغرض. ويُفضَّل ترتيب زيارة بيت طويل مأهول مسبقًا، وغالبًا عبر مرشد يستطيع تفسير الزيارة باحترام."
 
 lang: "ar"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["السفر إلى ساراواك", "هجرة ساراواك", "دليل كوتشينغ", "Gunung Mulu National Park", "بيت الإيبان الطويل", "بيت البيداويه الطويل", "تصريح دخول ساراواك", "السفر إلى بورنيو", "Sarawak travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'المسافرون الباحثون عن طبيعة بورنيو وثقافة Dayak الحيّة، باتخاذ Kuching المريحة التي يمكن اجتيازها سيراً مقرّاً لإنسان الغاب شبه البري في Semenggoh وبيوت Bidayuh الطويلة، مع كهوف Gunung Mulu المُدرجة في التراث العالمي وغابتها المطيرة كإضافة بارزة.'
+  getThere: 'طِر إلى Kuching بوصفها المحور الرئيسي، مع Gunung Mulu التي لا تُقصد إلا برحلات MASwings (من Miri أو Kuching أو Kota Kinabalu) إذ لا طريق عملي إلى المنتزه.'
+  permit: 'تدير ساراواك هجرتها الخاصة، فيُفحص الجميع — بمن فيهم الماليزيون من شبه الجزيرة — ويُمنحون تصريح دخول عند الوصول (يحصل الأجانب على ختم ساراواك منفصل فوق دخولهم الماليزي، وعلى معظمهم تقديم MDAC عبر الإنترنت مسبقاً)، وينبغي حجز رحلات Mulu وجولات الكهوف المرشَدة مسبقاً.'
+  watch: 'طائرات Mulu الصغيرة تتأخّر أو تُلغى بانتظام بسبب الطقس، لذا اترك أياماً احتياطية ولا تحجز أبداً اتصال سفر ضيّقاً خارج المنتزه.'
+  next: 'تأكّد من متطلبات التأشيرة وMDAC الحالية لجنسيتك مع دائرة الهجرة الماليزية (Immigration Department of Malaysia).'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'غابة من قمم جيرية رمادية مسنّنة تخترق غابة مطيرة خضراء وضبابًا في حديقة غونونغ مولو الوطنية، ساراواك'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: إنسان غاب أحمر الشعر يتدلّى ويمدّ ذراعه بين الحبال وسط غابة مطيرة خضراء كثيفة في محمية Semenggoh الطبيعية
+    kind: actual
+    origin: third-party
+    subject: إنسان غاب بري يتحرّك على الحبال في الغابة المطيرة بمحمية Semenggoh الطبيعية قرب Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: بيت طويل Iban خشبي ممتد مرفوع على ركائز بسقف أحمر، تحيط به غابة مطيرة على منحدر في Sarawak
+    kind: actual
+    origin: third-party
+    subject: بيت Iban طويل تقليدي مرفوع على ركائز على طول ضفة نهر مكسوّة بالأشجار في Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 يمكنك أن تطير من كوالالمبور إلى كوتشينغ في أقل من ساعتين، دون أن تغادر بلدك، ومع ذلك تُختَم عبر الهجرة في الطرف الآخر. تلك المفاجأة في صالة الوصول هي أهم ما ينبغي فهمه عن ساراواك: فهي ولاية ماليزية تدير حدودها الخاصة.

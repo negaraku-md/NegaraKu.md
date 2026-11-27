@@ -32,7 +32,7 @@ seoTitle: "말레이시아의 바라타나티암: 고전 무용 풀이"
 socialTitle: "남인도의 고전 무용은 어떻게 말레이시아에 뿌리내렸는가"
 
 lang: "ko"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,34 @@ relations:
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
+hero: '/media/arts-culture/bharatanatyam/hero.webp'
+heroAlt: '주황과 금빛 실크 의상에 사원 장신구와 재스민 꽃을 단 바라타나티암 무용수가 낮게 앉은 자세를 취하며 한 팔을 앞으로 내밀어 손바닥을 세운 무드라를 하고, 어두운 배경 속에서 표정 어린 시선이 손을 따라가는 모습'
+heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: 분홍-금색 실크 의상, 발목 방울, 사원 장신구를 착용한 어린 바라타나티얌 무용수가 한쪽 다리로 균형을 잡고 두 손을 머리 근처에서 가위 모양 무드라로 올린 채, 어두운 민무늬 무대를 배경으로 미소 짓는 모습
+    kind: representative
+    origin: third-party
+    subject: 한쪽 다리로 서서 두 손을 머리 옆에서 무드라로 든 어린 바라타나티얌 무용수
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: 검은 블라우스에 붉은-금색 실크 드레이프를 두른 바라타나티얌 무용수가 동작 중에 돌며, 한 팔은 머리 위로 높이 곡선을 그리고 다른 팔은 몸을 가로질러 가리키며, 검은 배경에 주름치마가 펼쳐지는 모습
+    kind: representative
+    origin: third-party
+    subject: 한 팔을 들고 치마를 휘날리며 회전 동작 중에 포착된 바라타나티얌 무용수
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 무용수의 발이 빠르고 정확한 무늬로 바닥을 칩니다. 방울이 므리당감(mridangam) 북의 박자에 맞추어 울립니다. 그녀의 손이 어떤 형상 — 사슴, 연꽃, 물음 — 을 이루고, 눈이 그것을 좇은 뒤 얼굴이 관객이 그저 보는 것이 아니라 느끼도록 의도된 감정으로 답합니다. 그러다 리듬이 마무리되면 그녀는 조각 같은 자세를 붙잡고, 음악은 침묵으로 떨어집니다.

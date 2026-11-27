@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'Ini untuk pelajar dan ibu bapa yang sedang menimbang kampus cawangan universiti asing — kampus luar negara milik penuh (Monash, Nottingham, Xiamen, Heriot-Watt dan lain-lain) yang menganugerahkan ijazah universiti induknya sendiri di Malaysia.'
+  how: 'Pilih berdasarkan jenama universiti induk, lokasi kampus dan bidang pengkhususan; kampus cawangan terletak di Lembah Klang, Putrajaya, zon EduCity Iskandar di Johor dan di Sarawak. Anugerah itu adalah ijazah yang sama persis daripada institusi induk, disampaikan di kampus Malaysia.'
+  cost: 'Tarikannya ialah kelayakan Barat atau China pada kos pengajian dan sara hidup tempatan, jauh lebih rendah berbanding belajar di kampus induk di luar negara — tetapi yuran berbeza mengikut institusi dan program, jadi sahkan angka semasa dengan setiap kampus.'
+  watch: 'Ijazah itu mudah alih tetapi pengalamannya bersifat tempatan — saiz kelas, kemudahan dan kehidupan kampus berbeza-beza antara kampus berdiri sendiri dengan kampus education-city yang dikongsi. Program kampus cawangan tetap memerlukan akreditasi MQA dan muncul dalam MQR.'
+  next: 'Senarai pendekkan mengikut pengkhususan dan lokasi, sahkan program tepat dalam MQR, dan sahkan kelulusan pengambilan pelajar antarabangsa dengan kampus berkenaan. Lihat panduan Belajar di Malaysia dan perbandingan Universiti awam vs swasta.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'Sebuah bangunan universiti modenis putih dengan menara jam menjulang di seberang tasik hijau tenang bercermin berpagar hijauan menjuntai dan pepohon di bawah langit dramatik'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Blok kampus krim besar dihubungkan jejambat bertingkat berkaca, dengan jata Monash pada menara dan pokok palma di laman dalam
+    kind: representative
+    origin: third-party
+    subject: bangunan kampus cawangan Monash University Malaysia dihubungkan jejambat kaca, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Bangunan kampus putih dengan bumbung bertingkat merah bergaya Cina di belakang plaza pintu masuk berpagar di bawah langit separa berawan
+    kind: representative
+    origin: third-party
+    subject: pintu utama berbumbung merah dan menara pentadbiran Xiamen University Malaysia, kampus cawangan luar negara pertama sebuah universiti China, di Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 Pada 1998, seorang pelajar di Kuala Lumpur boleh memperoleh ijazah Monash Australia tanpa perlu meninggalkan negara ini — dan membayar harga Malaysia untuknya. Susunan tunggal itu melancarkan satu model yang terus dibangunkan oleh negara sejak itu: import universiti, bukan pelajar.

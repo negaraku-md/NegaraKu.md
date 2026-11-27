@@ -32,7 +32,7 @@ faq:
   - q: "¿Son estas danzas de carácter religioso?"
     a: "Algunas formas (Karagattam, Kavadi Aattam, Mayilattam) están enraizadas en tradiciones de culto de templo; no obstante, hoy muchas se interpretan también como una forma de arte escénico en eventos socioculturales. Este artículo solo describe las formas de danza; no explica ni evalúa ninguna forma de culto."
 lang: "es"
-sourceContentHash: "99f9e9d4b22182a3"
+sourceContentHash: "757a1f4f0008e464"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,34 @@ relations:
 related: ["indian-classical-arts-in-malaysia", "temple-music-nadaswaram", "tamil-in-malaysia", "hinduism-in-malaysia", "thaipusam", "mariamman-worship", "estate-tamil-community", "silambam", "tamil-new-year"]
 keywords: ["தமிழர் நாட்டுப்புற நடனங்கள்", "கரகாட்டம்", "ஒயிலாட்டம்", "மயிலாட்டம்", "பொய்க்கால் குதிரை ஆட்டம்", "காவடியாட்டம்", "மலேசியத் தமிழ் நடனம்", "Tamil folk dances Malaysia", "Karagattam", "Oyilattam"]
 framework: history-culture
+hero: '/media/arts-culture/tamil-folk-dances/hero.webp'
+heroAlt: 'Filas de mujeres con saris naranjas a juego bailando en formación al aire libre, cada una sosteniendo en equilibrio sobre la cabeza una alta vasija roja decorada'
+heroCredit: 'தகவலுழவன் (Thakavaluzhavan) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dancers,Karakattam,Tamil_Nadu357.jpeg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of women performing Karagattam, balancing decorated pots on their heads, Tamil Nadu'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-1.webp
+    alt: Bailarín con un ornamentado traje de pavo real con una cola en abanico de plumas reales de pavo real y un tocado con pico, iluminado contra un fondo oscuro
+    kind: representative
+    origin: third-party
+    subject: Intérprete de Mayilattam (danza del pavo real) con un traje de pavo real emplumado
+    credit: Nocturnal08 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayilattam_or_Peacock_Dance.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-folk-dances/body-2.webp
+    alt: Bailarín folclórico varón con traje y tocado amarillos vistiendo una vivamente pintada armazón de caballo ficticio alrededor de la cintura, en un entorno verde al aire libre
+    kind: representative
+    origin: third-party
+    subject: Poikkal Kudirai Attam, la danza folclórica tamil del caballo ficticio
+    credit: Suyothami Yoganathan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cultural_tamil_dance.jpg
 ---
 
 En un día de fiesta de templo, cuando el redoble del thavil y el sonido del nadaswaram

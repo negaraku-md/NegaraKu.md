@@ -34,7 +34,7 @@ faq:
     a: "PETRA (กระทรวงการเปลี่ยนผ่านพลังงานและการเปลี่ยนแปลงน้ำ) คือกระทรวงที่ร่างนโยบายพลังงานและน้ำแห่งชาติตลอดจนขับเคลื่อนการเปลี่ยนผ่านสู่การปล่อยคาร์บอนเป็นศูนย์ภายในปี 2050 Suruhanjaya Tenaga คือองค์กรตามกฎหมายที่กำกับดูแลภายใต้ PETRA ซึ่งออกใบอนุญาต กำหนดอัตราค่าไฟ และบังคับใช้กฎหมายการจ่ายไฟฟ้าและก๊าซ"
 
 lang: "th"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'ภาพมุมสูงของโรงไฟฟ้าถ่านหินริมชายฝั่งพร้อมปล่องควันและท่าเทียบเรือที่ยื่นลงไปในทะเล'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: โรงไฟฟ้าพลังก๊าซที่มีอาคารกังหัน ปล่องไอเสียโลหะ และลานไกสวิตช์ที่มีรั้วล้อมเต็มไปด้วยหม้อแปลงและโครงเหล็ก ตั้งอยู่บนพื้นที่โล่งที่ถางแล้วโดยมีเนินเขาปกคลุมด้วยป่าและท้องฟ้าสว่างอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: โรงไฟฟ้ารูกาดิงใกล้โกตากีนาบาลู รัฐซาบาห์ โรงไฟฟ้าพลังก๊าซที่ป้อนไฟเข้าโครงข่ายซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: โรงไฟฟ้าชายฝั่งที่มีอาคารอุตสาหกรรมเตี้ย ท่อโลหะ และปล่องควันสูงอยู่หลังรั้วเขต โดยมีต้นปาล์มและพื้นที่โล่งอยู่ใกล้ ๆ ภายใต้ท้องฟ้าขมุกขมัว
+    kind: actual
+    origin: third-party
+    subject: โรงไฟฟ้าตันจุงกลิงริมชายฝั่งรัฐมะละกา ส่วนหนึ่งของกลุ่มโรงไฟฟ้าในมาเลเซียคาบสมุทร
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 เปิดสวิตช์ไฟในกัวลาลัมเปอร์ เติมน้ำมัน RON95 ในอีโปห์ หรือติดตั้งแผงโซลาร์บนหลังคาบ้านในยะโฮร์ เบื้องหลังแต่ละการกระทำนั้นมีเครือข่ายของสถาบัน กฎหมาย และนโยบายที่ผู้บริโภคแทบไม่เคยเห็น ภาคพลังงานของมาเลเซียไม่ใช่สิ่งเดียว มันคือสี่โลกที่ทับซ้อนกัน ได้แก่ ไฟฟ้า น้ำมันและก๊าซ เชื้อเพลิง และพลังงานหมุนเวียน คู่มือนี้จับแผนที่ว่าใครควบคุมอะไร และทั้งหมดประกอบกันอย่างไร

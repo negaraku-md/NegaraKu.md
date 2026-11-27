@@ -42,7 +42,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "zh"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,24 @@ drinkFacts:
   halal: "作为来自大型制造商的商业汽水，Sarsi 带有清真认证；最可靠的查验是印在瓶身或罐身上的清真标志。请在包装上找找它。"
   served: "从瓶中或罐中冰镇饮用。一种广受喜爱的本地变化是「Sarsi susu」——Sarsi 倒入淡奶、炼乳或鲜奶，做成一杯绵密的漂浮。香甜而带气；一款汽水美味，而非现冲的 kopitiam 饮品。"
   where: "遍布全国的杂货店、超市、kopitiam 与家庭聚会中都有——冷藏货架上的怀旧常备品。"
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: '阳光下一只高高的带凹纹玻璃杯，盛着深色起泡的沙示汽水（sarsi），顶着一层泡沫'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: 一只玻璃杯盛满深红棕色、带气泡的沙示（sarsae）汽水
+    kind: actual
+    origin: third-party
+    subject: 一杯亚洲沙示沙士汽水
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 并非马来西亚餐桌上的每一款饮品都是现冲、现拉或现压的。有些来自瓶子——而其中少有

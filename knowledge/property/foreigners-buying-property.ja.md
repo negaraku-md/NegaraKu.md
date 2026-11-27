@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,32 @@ stayFacts:
   cost: '積み重なる二つの関門に税が加わる。各州が独自に設定・改訂する最低価格の下限（ゾーン別、県別、または有地／区分所有別に分かれる）があり、連邦直轄区は別個のEPUガイドラインの下限を用いる。その上に、非公民の住宅譲渡に対する一律の印紙税、及び後に売却する際のより高くよりフラットな税率のRPGTが乗る。これらの数値は変動し州ごとに異なるため、当該の州土地局（Pejabat Tanah）または経済計画局（EPU）の「Guideline on the Acquisition of Properties」で現行の数値を確認すること。'
   watch: '全国一律のRM1,000,000という最低価格は存在しない——その数字は2014年の連邦ガイドラインに基づく連邦直轄区に固有のものである。そして、いずれの州の価格下限をクリアすることも、外国人名義で権利を登記する前にsection 433Bのもとで求められる、別個かつ裁量による州政府当局の承認を得ることとは同じではない。'
   next: '価格下限をクリアし不動産が対象外でないと確認できたら、（不動産譲渡専門の弁護士を通じて）州政府当局に書面で承認を申請し、不確実な処理期間を購入のスケジュールに織り込むこと。MM2H長期滞在ビザに伴う購入もこの同じ手続きを経ることに留意し、権利移転後の継続的な義務については「アセスメント税とクイットレント」を参照。'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'クアラルンプールの近代的なガラス張りの高層住宅タワー（Ascott、348 Sentral）。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: 高級高層コンドミニアムが列をなしてクアラルンプールのMont Kiaraのスカイラインを埋める。駐在員に好まれるこの一角では、外国人買い手は州の最低価格基準を満たさねばならない。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール、Mont Kiaraの高層コンドミニアムのスカイライン
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Forest Cityの高級ウォーターフロントの塔が、ジョホールの埋立地の上に立ち上がる。シンガポール国境近くで、外国人購入者に向けて大々的に売り込まれる巨大プロジェクトだ。
+    kind: actual
+    origin: third-party
+    subject: ジョホールで建設中のForest City高級ウォーターフロント開発
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 香港からの買主が、プタリンジャヤ（Petaling Jaya）の一戸のセミデタッチハウスを RM180万で購入することに合意する。融資は手配され、売主も応じ、価格はネット上で誰かが提示したあらゆる基準を上回っている。それでもこの取引は、シャアラム（Shah Alam）の州政府の事務所が——自らの裁量で——そもそも外国人にその権利を保有させるかどうかを決定するまで、完了できない。

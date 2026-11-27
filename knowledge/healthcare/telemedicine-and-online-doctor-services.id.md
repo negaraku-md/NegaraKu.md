@@ -32,7 +32,7 @@ faq:
     a: "Kadang-kadang. MMC lebih mengutamakan konsultasi virtual sebagai tindak lanjut setelah hubungan dokter-pasien yang sudah ada, tetapi mengizinkan konsultasi pertama kali secara daring, terutama dalam pelayanan primer, jika dokter mendokumentasikan alasannya. Dokter diarahkan untuk berhati-hati tentang memberi resep kepada pasien yang belum mereka periksa secara langsung dan untuk merujuk Anda secara tatap muka ketika medium daring tidak memadai untuk menilai Anda dengan aman."
 
 lang: "id"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'Seorang dokter di sebuah stasiun kerja telemedisin sedang meninjau seorang pasien jarak jauh pada layar video di samping monitor diagnostik.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: Seorang dokter di meja berbicara di telepon sambil mencatat, dengan jas putih tergantung pada gantungan di belakang, mewakili konsultasi medis telepon jarak jauh
+    kind: representative
+    origin: third-party
+    subject: Seorang dokter memberikan konsultasi jarak jauh melalui telepon di mejanya
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: Tangan memegang ponsel pintar yang menjalankan aplikasi konsultasi video telehealth di samping probe ultrasonografi genggam, mewakili diagnosis daring jarak jauh
+    kind: representative
+    origin: third-party
+    subject: Pemindaian ultrasonografi berpandu video jarak jauh yang dilakukan melalui aplikasi ponsel pintar
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 Anda membuka sebuah aplikasi, melakukan panggilan video dengan dokter dari sofa Anda, dan resep tiba di kotak masuk Anda sejam kemudian. Di Malaysia, itu sah sepenuhnya — tetapi buku aturan di baliknya bukanlah undang-undang yang mungkin Anda duga.

@@ -31,7 +31,7 @@ faq:
   - q: "मलेशिया की खाद्य सुरक्षा के लिए जलकृषि क्यों मायने रखती है?"
     a: "मछली मलेशिया का मुख्य पशु प्रोटीन स्रोत है, और जंगली पकड़ स्थिर हो गई है। जलकृषि राष्ट्रीय मछली आत्मनिर्भरता अनुपात — 2025 में लगभग 90.7% — बढ़ाने का मुख्य लीवर है, और राष्ट्रीय कृषि-खाद्य नीति स्पष्ट रूप से भविष्य की माँग को पूरा करने के लिए पकड़ी गई मछली पर पाली गई मछली को प्राथमिकता देती है।"
 lang: hi
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'एक झील की शांत सतह पर पंक्तियों में व्यवस्थित मछली पालन के लिए तैरते जाल पिंजरे, एक छोर पर देखभालकर्ता की झोपड़ी के साथ।'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: मलेशिया के साबाह स्थित कम्पुंग तियांग में हरियाली से घिरा एक शांत मीठे पानी का जलकृषि तालाब।
+    kind: actual
+    origin: third-party
+    subject: साबाह के कम्पुंग तियांग में मछली जलकृषि तालाब
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: यूनिवर्सिटी पुत्रा मलेशिया के संकाय फार्म में व्यावहारिक कक्षाओं के लिए उपयोग किया जाने वाला एक मिट्टी का जलकृषि मछली तालाब।
+    kind: actual
+    origin: third-party
+    subject: यूनिवर्सिटी पुत्रा मलेशिया में जलकृषि शिक्षण मछली तालाब
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 किसी मलेशियाई डिनर प्लेट की अधिकांश मछली अब भी समुद्र से आती है — पर एक तेज़ी से बढ़ता हिस्सा अब एक तालाब, एक पिंजरे या एक लॉन्ग-लाइन राफ़्ट से आता है। यही जलकृषि है: जलीय जीवन का जानबूझकर किया गया पालन, न कि जंगल में जो तैरता है उसे पकड़ना। जैसे-जैसे मलेशिया की जंगली पकड़ स्थिर होती है और प्रोटीन की माँग बढ़ती है, जलकृषि देश का मेज़ पर मछली रखने का मुख्य लीवर बन गई है। यह लेख व्यवसाय के पाले गए पक्ष पर गहराई से जाता है; व्यापक तस्वीर के लिए, जिसमें मछली पकड़ने का बेड़ा, मछुआरों का कल्याण और प्रवर्तन शामिल है, [मत्स्य उद्योग अवलोकन](/hi/agriculture/malaysian-fisheries-industry/) देखें।

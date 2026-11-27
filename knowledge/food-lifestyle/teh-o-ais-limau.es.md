@@ -85,6 +85,13 @@ drinkFacts:
   halal: "El teh-O ais limau es té negro, agua, azúcar, hielo y lima, sin leche ni alcohol, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada mamak o cafetería."
   served: "Se sirve con hielo («ais»), a menudo en un vaso alto con la lima exprimida dentro. Pide «teh-O limau panas» para la versión caliente, o añade «kosong» para sin azúcar. La versión por defecto viene dulce, así que «kurang manis» (menos dulce) es una petición habitual."
   where: "Se encuentra en puestos mamak, cafeterías kopitiam y pasar malam por todo el país, donde es uno de los pedidos por defecto para el calor —la alternativa ligera cuando el teh tarik resulta demasiado rico."
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un vaso alto de té negro helado con rodajas de limón y sin leche"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 Pide un «teh tarik» y obtienes el icono rico, espumoso y lechoso de la cafetería

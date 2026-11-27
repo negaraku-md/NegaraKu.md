@@ -67,6 +67,7 @@ relations:
 related: ["pdrm", "fire-and-rescue-department-bomba"]
 keywords: ["999", "MERS 999", "nombor kecemasan", "SaveME 999", "talian kecemasan", "pertahanan awam", "ambulans"]
 framework: profile
+wikidata: "Q142236010"
 ---
 
 Satu nombor — **999** — menghubungkan anda kepada lima agensi kecemasan Malaysia, sama ada anda perlukan polis, ambulans, bomba, pertahanan awam atau bantuan di laut. Anda tidak perlu ingat nombor berlainan untuk setiap agensi; sistem di sebaliknya menyalurkan panggilan itu untuk anda.

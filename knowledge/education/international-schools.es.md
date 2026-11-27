@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "es"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,33 @@ stayFacts:
   cost: 'Cuenta con la matrícula anual más cuotas únicas como una cuota de admisión o de examen de colocación y una cuota de registro, con un depósito reembolsable con un tope de RM5,000; las cuotas de desarrollo o de construcción no pueden cobrarse en absoluto. El Ministerio regula la estructura pero no el monto, así que las cuotas varían enormemente según la escuela, el currículo y la ubicación — confirma las cifras vigentes directamente con cada escuela en lugar de fiarte de cualquier número de un artículo comparativo o de un foro.'
   watch: 'Dado que ninguna cuota la fija el gobierno, el precio real oscila mucho entre escuelas incluso para el mismo grupo de edad, y los aumentos de cuotas tienen un tope del 30% no más de una vez cada tres años. Planifica también un impuesto sobre servicios del 6% que se aplica, por alumno y por año académico, cuando las cuotas anuales de un niño superan los RM60,000 — un impuesto que se suma a la cuota, no fijado por la escuela.'
   next: 'Preselecciona escuelas y confirma sus tablas de cuotas vigentes y el umbral fiscal de RM60,000 directamente con cada una antes de presupuestar. Para la planificación relacionada, consulta el Pase de Dependiente o el Pase de Visita Social de Larga Duración para patrocinar a los hijos que acompañan a un empleado extranjero, y Matricularse en una Escuela Pública si una escuela pública también está en tu lista de comparación.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'La moderna puerta de entrada de una escuela internacional con una caseta de vigilancia con marquesina, setos recortados y árboles frondosos, con bajos edificios del campus detrás bajo un cielo nublado'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: Un edificio de varias plantas de un colegio internacional con una fachada redondeada de cristal y piedra en rojo y gris, con coches y motos aparcados delante
+    kind: representative
+    origin: third-party
+    subject: el edificio principal curvo y moderno de HELP International School, un colegio internacional en Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: Una marquesina de entrada y una caseta de vigilancia de un colegio, modernas y limpias, de acero y cristal, junto a un paso de peatones, enmarcadas por árboles bajo un cielo luminoso
+    kind: representative
+    origin: third-party
+    subject: la entrada cubierta para vehículos del campus de Ampang Hilir de la International School of Kuala Lumpur
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 Una escuela de currículo británico y una escuela de currículo estadounidense en lados opuestos de la misma ciudad están, sobre el papel, licenciadas por exactamente la misma oficina en Putrajaya. A ninguna de las dos se le permite legalmente cobrar a los padres un «fondo de construcción». Ninguna de las dos puede subir las cuotas más de un 30% a la vez. Y a ninguna de las dos se le exige publicar una sola cifra que el propio Ministerio fije — porque, a pesar de todas las reglas que el Ministerio sí redacta, el precio real de un pupitre no es una de ellas.

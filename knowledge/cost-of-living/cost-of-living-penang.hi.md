@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "कोई भी जो पेनांग की रहन-सहन-लागत की तुलना क्लांग घाटी से कर रहा हो, या स्थानांतरण, किराए पर लेने या व्यवसाय खोलने से पहले पेनांग द्वीप और सेबेरांग पेराई के बीच निर्णय ले रहा हो।"
 
 lang: "hi"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["पेनांग रहन-सहन की लागत", "cost of living Penang", "पेनांग बनाम क्लांग घाटी रहन-सहन की लागत", "Penang vs Klang Valley cost of living", "जॉर्ज टाउन किराया", "सेबेरांग पेराई", "पेनांग द्वीप बनाम मुख्य भूमि", "पेनांग घरेलू आय"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'सूर्यास्त के समय जॉर्ज टाउन की घनी क्षितिज-रेखा, पेनांग शहर केंद्र के ऊपर उठती प्रकाशित कोमतार मीनार के साथ'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: जॉर्ज टाउन, पिनांग में मकालम स्ट्रीट पर ऊँचे आवासीय फ्लैट, शहरी आवास को दर्शाते हुए
+    kind: actual
+    origin: third-party
+    subject: मकालम स्ट्रीट, जॉर्ज टाउन, पिनांग पर ऊँचे सार्वजनिक आवास फ्लैट
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: पिनांग में सुंगई बाकाप गीले बाज़ार के विक्रेता और स्टॉल
+    kind: actual
+    origin: third-party
+    subject: सुंगई बाकाप, पिनांग में गीला बाज़ार
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 पेनांग एकमात्र मलेशियाई राज्य है जहाँ "रहन-सहन की लागत" का उत्तर एक अकेली संख्या

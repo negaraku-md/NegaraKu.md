@@ -31,7 +31,7 @@ faq:
     a: "功率50 kW及以下的电动车每年RM20，依据JPJ电动车LKM指南。功率越高，费率逐级递增。"
 
 lang: "zh"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,32 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: '马来西亚高速公路休息站内一台直流电动车充电桩，旁边划定的充电车位上写着“Charge up and stay positive”。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: 位于雪兰莪蒲种 LDP 高速公路服务点的 Shell Recharge 直流快充车位，供电动车充电。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚蒲种南 LDP 的 Shell Recharge 直流快充站
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: 一辆蓝色 2023 款 BYD Atto 3 电动 SUV——马来西亚市场的热门电动车——停在槟城。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚槟城的 BYD Atto 3 电动 SUV
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 马来西亚电动车享有免路税的时代已经结束——但落在你 MyJPJ 里的第一张账单，可能比你想象的更便宜，而且它是用一套全新的方式计算的。

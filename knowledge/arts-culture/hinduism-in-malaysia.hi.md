@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "hi"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: नेगेरी सेम्बिलान, सेलांगोर और पेराक जैसे राज्यों में अधिक हिंदू क्यों रहते हैं?
     a: ये राज्य पूर्व रबड़-बागान और टिन-खनन क्षेत्रों से मेल खाते हैं — जहाँ ब्रिटिश काल में भारतीय मज़दूर बड़ी संख्या में बसे थे। 2020 की जनगणना में नेगेरी सेम्बिलान (~13.1%), सेलांगोर (~10.3%) और पेराक (~9.7%) का अनुपात अधिक रहा। इनमें से अधिकांश उन लोगों के वंशज हैं जो कंगानी (kangani) प्रणाली के तहत बागान के काम के लिए दक्षिण भारत से आए थे।
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'मध्य कुआलालंपुर में श्री महामरिअम्मन मंदिर का ऊँचा, रंगबिरंगी नक्काशी वाला गोपुरम, मंदिर के प्रवेश द्वार के ऊपर हिंदू देवी-देवताओं की मूर्तियों से भरा हुआ, जहाँ दर्शक खड़े हैं।'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: पेराक के इपोह स्थित कल्लुमलाई मुरुगन मंदिर का स्तरीय, चटख रंगों में रंगा गोपुरम शिखर, जो तराशी गई हिंदू देवमूर्तियों से ढका है।
+    kind: actual
+    origin: third-party
+    subject: कल्लुमलाई मुरुगन मंदिर का रंगीन गोपुरम, इपोह, पेराक
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: मलेशिया के प्रमुख हिंदू त्योहार दीपावली के लिए फ़र्श पर बनाया गया एक जटिल, चटख रंगों वाला कोलम।
+    kind: actual
+    origin: third-party
+    subject: एक दीपावली कोलम (kolam, भूमि-कला), मलेशिया
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 मलेशिया के किसी भी शहर में, किसी पुराने रबर बागान के किनारे पर या नगर केंद्र की

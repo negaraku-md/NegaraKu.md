@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pengemudi Malaysia yang berencana mengemudi mobil sendiri melintasi Tambak Johor atau Laluan Kedua ke Singapura, atau melintasi perbatasan darat utara ke Thailand."
 
 lang: "id"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "PIAM Endorsement 101", "Thailand temporary vehicle import"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'Causeway Johor-Singapura yang melintasi selat dipadati kendaraan, dengan papan iklan I love Johor di sisi Malaysia.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: Jembatan jalan raya Second Link Malaysia-Singapura yang melintasi Selat Johor antara Tanjung Kupang dan Tuas.
+    kind: actual
+    origin: third-party
+    subject: Jembatan Second Link Malaysia-Singapura (Tuas)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: Jalan masuk menuju perlintasan darat Bukit Kayu Hitam di perbatasan Malaysia-Thailand di Kedah.
+    kind: actual
+    origin: third-party
+    subject: Perlintasan perbatasan Malaysia-Thailand Bukit Kayu Hitam-Sadao
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 Dua tetangga, dua perbatasan darat, dua sistem yang sama sekali berbeda untuk mobil yang sama.

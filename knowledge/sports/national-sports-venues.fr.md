@@ -28,7 +28,7 @@ faq:
     a: "Non. Sepang a accueilli le Grand Prix de Formule 1 jusqu'en 2017 ; le circuit se concentre désormais sur le MotoGP et d'autres événements de sport automobile."
 
 lang: "fr"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,36 @@ entity: "Gelanggang sukan utama Malaysia"
 relations:
   - { rel: "administered-by", to: "perbadanan-stadium-malaysia" }
   - { rel: "related-to", to: "kl-sports-city" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "malaysia-cup-domestic-football-leagues"]
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: 'L''imposant arc d''entrée gris et blanc du stade national de Bukit Jalil, surmonté de l''inscription STADIUM BUKIT JALIL, ses arches mauresques à écrans ajourés encadrant l''enceinte du stade derrière sous un ciel couvert'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: Le vaste intérieur du Stade national de Bukit Jalil la nuit, son toit tendu blanc et courbe éclairé au-dessus d'un public au complet entourant la pelouse verte et la piste d'athlétisme rouge
+    kind: actual
+    origin: third-party
+    subject: l'intérieur en cuvette et le toit tendu du Stade national de Bukit Jalil comble lors d'un match en soirée
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: La façade à persiennes argentées de l'Axiata Arena à Bukit Jalil, portant le nom et le logo de l'arène Axiata au-dessus de son entrée en verre incurvée, flanquée de jeunes arbres sous un ciel gris
+    kind: actual
+    origin: third-party
+    subject: l'extérieur de l'Axiata Arena, l'arène couverte du Complexe sportif national à Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 Quand 85,500 spectateurs remplissent la courbe à trois niveaux du Stade national TM lors d'une soirée de finale de football, ils sont assis à l'intérieur du plus grand symbole de l'infrastructure sportive de la Malaisie ; et pourtant, ce n'est que l'un des nombreux sites qui portent les grands événements du pays.

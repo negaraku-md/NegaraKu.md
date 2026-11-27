@@ -38,7 +38,7 @@ faq:
     a: "தேசிய விளையாட்டு நிறுவனம் (ISN). இது National Sports Institute Act 2011 [Act 729]-ஆல் சட்டப்பூர்வ அடிப்படையில் நிறுவப்பட்டு, விளையாட்டு அறிவியல் மற்றும் விளையாட்டு மருத்துவம் தொடர்பான சேவை, ஆலோசனை மற்றும் கலந்தாய்வை வழங்குதல், ஆராய்ச்சி நடத்துதல், மற்றும் விளையாட்டு வீரர் செயல்திறனின் அறிவியல் அம்சங்கள் குறித்து அமைச்சருக்கு ஆலோசனை வழங்குதல் ஆகிய பணிகளைச் செய்கிறது."
 
 lang: "ta"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }
-related: []
+related: ["badminton-in-malaysia", "football-in-malaysia", "sukma-games"]
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'புக்கிட் ஜாலில் தேசிய அரங்கத்தின் (Bukit Jalil) வெள்ளி நிற சலாகை முகப்பு ஒரு காலியான முற்றத்திற்கு மேலே உயர்கிறது.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: புக்கிட் ஜாலில் விளையாட்டு வளாகத்தில் உள்ள மலேசிய தேசிய விளையாட்டு மன்றம் (Majlis Sukan Negara) கட்டிடத்தின் வெளிப்புறம்.
+    kind: actual
+    origin: third-party
+    subject: புக்கிட் ஜாலிலில் உள்ள மலேசிய தேசிய விளையாட்டு மன்றம் (Majlis Sukan Negara) கட்டிடம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: கோலாலம்பூர், புக்கிட் ஜாலிலில் உள்ள KL Sports City தேசிய விளையாட்டு வளாகத்தின் ஒரு பகுதியான தேசிய நீர்விளையாட்டு மையம்.
+    kind: actual
+    origin: third-party
+    subject: KL Sports City தேசிய விளையாட்டு வளாகத்தில் உள்ள தேசிய நீர்விளையாட்டு மையம்
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 ஜொகூரில் புதிதாக உருவாகும் ஒரு கால்பந்து கழகம் ஜெர்சிகளை வாங்கலாம், மைதானத்தை வாடகைக்கு எடுக்கலாம், வீரர்களைப் பதிவு செய்யலாம் — ஆனாலும் "மலேசியா"வைப் பிரதிநிதித்துவப்படுத்த யாரையும் எந்தப் போட்டிக்கும் அது இன்னும் சட்டப்பூர்வமாக அனுப்ப முடியாது. காரணம் பணமோ திறமையோ அல்ல. அது யார் அனுமதி அளிக்கிறார்கள் என்ற கேள்வி. மலேசியாவில், ஒரு விளையாட்டு அமைப்பாக இருப்பதற்கான உரிமை, நிதியுதவி பெறுவதற்கான உரிமை, மற்றும் நாட்டின் பெயரைச் சுமப்பதற்கான உரிமை ஆகியவை, பெரும்பாலும் ஒன்றாகக் குழப்பப்படும் நான்கு வெவ்வேறு நிறுவனங்களிடமிருந்து வருகின்றன.

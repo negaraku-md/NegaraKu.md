@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "वे कर्मचारी जो नियोक्ता चिकित्सा कवर और एक व्यक्तिगत चिकित्सा कार्ड के बीच तुलना कर रहे हैं, और वे सभी जो कोई पॉलिसी खरीदने या नवीनीकृत करने से पहले «को-पेमेंट» का अर्थ समझना चाहते हैं।"
 
 lang: "hi"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ faq:
   - q: क्या 'बिना सह-भुगतान (no co-payment)' वाली चिकित्सा पॉलिसी सह-भुगतान वाली पॉलिसी से स्वतः बेहतर होती है?
     a: जरूरी नहीं — लेख इसे एक आम गलती के रूप में सूचीबद्ध करता है। समान लाभ सीमाओं के लिए बिना सह-भुगतान वाली योजना का प्रीमियम अधिक होता है। सह-भुगतान (co-payment) के तहत, आप कम प्रीमियम के बदले में हर पात्र अस्पताल बिल का एक निर्धारित हिस्सा वहन करने के लिए पहले ही सहमत हो जाते हैं। यह अदला-बदली सार्थक है या नहीं, यह इस पर निर्भर करता है कि आप बिल का कितना हिस्सा स्वयं वहन कर सकते हैं; प्रतिशत, किसी भी सीमा, और छूट प्राप्त उपचारों के लिए उत्पाद प्रकटीकरण पत्रक (product disclosure sheet) देखें।
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'एक मलेशियाई सरकारी अस्पताल में अंतःरोगी वार्ड के प्रवेश-द्वार, एक तटस्थ चिकित्सा-देखभाल परिवेश।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Seberang Perai, Penang में एक बड़ी आधुनिक निजी अस्पताल इमारत का हवाई दृश्य
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, Seberang Perai, Penang, मलेशिया में एक निजी अस्पताल
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: एक उज्ज्वल प्रवेश कक्ष में एक घुमावदार अस्पताल रिसेप्शन डेस्क, जो भर्ती और बिलिंग का प्रतिनिधित्व करता है, जिसमें दूर कुछ लोग हैं
+    kind: representative
+    origin: third-party
+    subject: मुख्य प्रवेश लॉबी में एक अस्पताल रिसेप्शन और भर्ती काउंटर
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 दो कर्मचारी एक ही टूटी बाँह के साथ एक ही निजी अस्पताल में जाते हैं। उनमें से एक एक कार्ड सौंपता है और छुट्टी के समय एक सेन चुकाए बिना बाहर निकल जाता है। दूसरी बिल का एक हिस्सा स्वयं चुकाती है, क्योंकि जो पॉलिसी उसने छह महीने पहले खरीदी थी वह ठीक इसी कारण से सस्ती थी।

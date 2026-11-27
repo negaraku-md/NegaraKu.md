@@ -85,6 +85,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: 'แถวทหารในเครื่องแบบลุยข้ามทุ่งนาที่ถูกน้ำท่วมกลับสู่ค่ายหลังออกลาดตระเวนในป่า'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คำว่า "ภาวะฉุกเฉิน" เป็นทางเลือกทางกฎหมาย ไม่ใช่คำบรรยาย การเรียกความขัดแย้งสิบสองปีในมลายาว่าภาวะฉุกเฉินมากกว่าสงครามทำให้สวนยางและเหมืองดีบุกยังคงเอาประกันได้ภายใต้กรมธรรม์ของลอนดอนที่ยกเว้นการกระทำของสงคราม การสู้รบเป็นจริง จำนวนผู้เสียชีวิตนับเป็นพัน และรัฐที่เกิดจากมันนำเครื่องมือ คือ บัตรประจำตัว เขตตั้งถิ่นฐานใหม่ อำนาจการควบคุมตัว ที่อยู่นานกว่าภาวะฉุกเฉินหลายทศวรรษ

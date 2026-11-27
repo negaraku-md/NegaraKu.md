@@ -32,7 +32,7 @@ faq:
     a: "El Intrudu es una fiesta anual del agua de la comunidad portuguesa de Melaka que se celebra el domingo anterior al Miércoles de Ceniza (el comienzo de la Cuaresma). Vecinos y visitantes se arrojan agua unos a otros por todo el Asentamiento Portugués, y la celebración se acompaña de la danza branyo."
 
 lang: "es"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,34 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: 'Una fila de intérpretes kristang con traje tradicional portugués-euroasiático, las mujeres con pañuelos rojos en la cabeza, blusas blancas y faldas bordadas, y los hombres con sombreros negros y chalecos, cantando y bailando en un escenario bajo un cartel de la Festa San Pedro 2026 en el Asentamiento Portugués de Melaka'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: El arco de entrada blanco de estilo colonial del Medan Portugis o Plaza Portuguesa en el Asentamiento Portugués de Melaka, flanqueado por restaurantes kristang rosados y con rótulos, bajo un cielo azul despejado con un moderno rascacielos al fondo
+    kind: actual
+    origin: third-party
+    subject: la entrada del Medan Portugis (Plaza Portuguesa) en el Asentamiento Portugués de Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: Una barca de pesca en miniatura decorada para la Fiesta de San Pedro en el Asentamiento Portugués de Melaka, con sus altas velas blancas pintadas con escenas religiosas y una imagen de San Pedro, cubierta de redes de pesca junto a la orilla, con palmeras y espectadores detrás
+    kind: actual
+    origin: third-party
+    subject: una barca de pesca decorada construida para la Fiesta de San Pedro (San Pedro) en el Asentamiento Portugués, Melaka
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 En Ujong Pasir, Melaka, hay un asentamiento costero donde la gente se saluda en una lengua que no es ni malayo, ni inglés, ni siquiera portugués moderno — sino el vestigio vivo de la lengua de los conquistadores que llegaron hace cinco siglos. Este es el mundo de la comunidad kristang.

@@ -98,6 +98,7 @@ dishFacts:
   origin: "Ia kerap digambarkan sebagai gabungan masakan Melayu dan Peranakan, dengan dapur Cina Selat mengahwinkan teknik Cina dengan rempah Melayu. Malaysia mempunyai dua gaya luas: versi selatan yang nipis, rata, lebih kering dan dipanggang arang yang terkenal di Muar, Johor serta dikongsi merentasi Johor dan Melaka, dan gaya Nyonya (Peranakan) yang tebal, lembut dan berkastard dari Pulau Pinang, selalunya beraroma daun kaduk. Ia hidangan bersama Selat Melaka, dengan akar terawalnya lazimnya dijejak ke Palembang di Sumatera Selatan."
   eat: "Ia dimakan sebagai jajan dan lauk, dibuka dari bungkusan daunnya yang hangus. Versi Malaysia dan Singapura lazimnya berwarna jingga kemerahan daripada cili dan rempah, manakala versi Indonesia cenderung lebih pucat dan dihidang dengan sos cecah seperti cuko atau sos kacang."
   where: "Dalam Malaysia, Muar di Johor ialah nama yang paling dikaitkan dengan otak-otak — 'otak-otak Muar' hampir berfungsi sebagai jenama dan menarik pengunjung dari negeri jiran serta dari Singapura. Pulau Pinang dan Melaka ialah tempat asal gaya Nyonya yang lebih lembut. Merentasi rantau ini ia juga ditemui di Indonesia dan di Singapura, di mana ia dikenali sebagai otah."
+wikidata: "Q3234931"
 ---
 
 Buka parsel otak-otak dan perkara pertama yang anda temui ialah baunya: daun

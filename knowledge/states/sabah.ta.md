@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "சபாவின் உண்மை சார்ந்த ஒரு சுயவிவரத்தை — அதன் புவியியல், பொருளாதாரம் மற்றும் அரசாங்கம் — மற்றும் Malaysia Agreement 1963-இன் கீழ் அதன் அரசியலமைப்பு நிலைப்பாடு குறித்த ஒரு நடுநிலையான விவரிப்பைத் தேடும் வாசகர்கள்."
 
 lang: "ta"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'நீல வானத்தின் கீழ் காடுகள் நிறைந்த அடிவார மலைகள் மற்றும் பசுமையான மரமுகடுகளுக்கு மேல் உயரும் கினபாலு மலையின் கூர்மையான சாம்பல் நிற கிரானைட் சிகரங்கள்.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: சபாவின் கடற்கரையில், வெண்மையும் பொன்னிறமும் கொண்ட கோத்தா கினபாலு மாநகர மசூதி, தன்னைச் சூழ்ந்துள்ள மனிதனால் உருவாக்கப்பட்ட நீர்நிலையில் தனது குவிமாடங்களைப் பிரதிபலிக்கிறது.
+    kind: actual
+    origin: third-party
+    subject: கோத்தா கினபாலு மாநகர மசூதி, சபா
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: சபாவில் செம்போர்னாவுக்கு அப்பால் உள்ள புலாவ் மாட்டாகிங் தீவின் பச்சை-நீல நிற ஆழமற்ற நீரை, வெளுத்த, அடித்து வரப்பட்ட மரக்கட்டைகள் சிதறிக்கிடக்கும் கடற்கரை சூழ்ந்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: செம்போர்னாவுக்கு அருகில் புலாவ் மாட்டாகிங் தீவு, சபா
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 சபா, ஒரு நாட்டுடன் இணையும் ஒரு மாநிலமாக மலேசியாவில் இணையவில்லை. அந்த

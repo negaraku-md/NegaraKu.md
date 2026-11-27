@@ -98,6 +98,7 @@ dishFacts:
   halal: "Le nom 猪肠粉 ('nouille d'intestin de porc') décrit la forme roulée, non le contenu — la nouille nature ne comporte pas de porc et est végétarienne en elle-même. Mais les assaisonnements appellent une réserve : celui de Penang utilise du hae ko (pâte de crevette, donc des fruits de mer), et le style dim sum enveloppe du char siu (porc grillé). Mieux vaut se renseigner à chaque stand sur ses sauces."
   eat: "Servi chaud comme petit-déjeuner ou en-cas de hawker. À Penang, les rouleaux tranchés sont nappés de sauce sucrée, de hae ko, de piment et d'une pincée de sésame grillé et d'huile, sans garniture ni sauce. À Kuala Lumpur et Ipoh, ils se mangent avec du yong tau foo ou noyés dans un curry liquide ou une sauce aux champignons ; le rouleau dim sum est fini d'une sauce soja claire et sucrée."
   where: "Un incontournable des stands de hawkers malaisiens, décliné en styles régionaux nettement différents : l'assiette à la pâte de crevette à Penang et dans le nord, l'association au yong tau foo dans la vallée de Klang à Kuala Lumpur, et les versions au curry 'sec' ou 'humide' à Ipoh, dans le Perak. Le rouleau fourré dim sum apparaît sur les chariots de dim sum et dans les restaurants cantonais."
+wikidata: "Q3275558"
 ---
 
 Commandez un « chee cheong fun » à George Town et vous obtiendrez des rouleaux frais

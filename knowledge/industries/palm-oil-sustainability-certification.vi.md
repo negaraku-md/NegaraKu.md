@@ -31,7 +31,7 @@ faq:
     a: "Sau hai lần trì hoãn, nó áp dụng cho các nhà điều hành lớn và vừa từ ngày 30 tháng 12 năm 2026, và cho các doanh nghiệp siêu nhỏ và nhỏ từ ngày 30 tháng 6 năm 2027. Ngày cắt phá rừng là 31 tháng 12 năm 2020."
 
 lang: "vi"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'Một đồn điền cọ dầu gọn gàng, quản lý tốt trải dài trên vùng đất xanh thoai thoải dưới bầu trời rực rỡ ở huyện Mersing, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: Hai công nhân đồn điền mang ủng đứng bên cạnh những cây cọ dầu, một người cầm một buồng quả vừa cắt trên liềm thu hoạch, ở Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Công nhân đồn điền với một buồng quả tươi vừa thu hoạch trên đồn điền cọ dầu ở Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: Những hàng cây con cọ dầu được trồng ngay ngắn trong bầu nhựa đen tại vườn ươm đồn điền ở Sungai Mangis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Cây con cọ dầu được ươm trong bầu nhựa tại một vườn ươm thương mại ở Sungai Mangis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 Một lô dầu cọ Malaysia đơn lẻ nay phải trả lời cho ba bộ quy tắc khác nhau cùng một lúc: một chương trình quốc gia bắt buộc ở trong nước, một câu lạc bộ người mua tự nguyện trong phòng họp hội đồng, và một luật phá rừng của châu Âu có thể chặn nó ngay tại cảng. Đối với một ngành đã vận chuyển 22.30 triệu tấn dầu cọ và các sản phẩm gốc cọ chỉ trong mười tháng đầu năm 2024 — thu về RM89.39 tỷ — giấy tờ không còn là một thủ tục hình thức nữa. Nó là sự tiếp cận thị trường.

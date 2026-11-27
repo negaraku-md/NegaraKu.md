@@ -33,7 +33,7 @@ faq:
     a: "ให้พลิกผ้ากลับด้าน บาติกกันสีด้วยขี้ผึ้งของแท้ — ไม่ว่าจะเป็นจันติงที่วาดด้วยมือหรือบล็อกที่ประทับ — ย้อมด้วยการแช่ผ้า ดังนั้นลวดลายและสีจึงซึมทะลุทั้งสองด้านและปรากฏที่ด้านหลังเกือบชัดเจนเท่าด้านหน้า ส่วนผ้าที่พิมพ์สกรีนหรือพิมพ์ดิจิทัลจะมีลวดลายอยู่บนผิวหน้าเพียงด้านเดียวและดูสีซีดจางที่ด้านหลัง เส้นก็เป็นเบาะแสเช่นกัน จันติงจะทิ้งเส้นที่ไม่สม่ำเสมอซึ่งไม่เคยซ้ำกันอย่างสมบูรณ์แบบ บล็อกให้ลวดลายซ้ำที่เรียบร้อยพร้อมรอยต่อจาง ๆ ขณะที่การพิมพ์ด้วยเครื่องจักรซ้ำกันอย่างแม่นยำโดยไม่มีร่องรอยของขี้ผึ้ง"
 
 lang: "th"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -79,6 +79,34 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'ช่างฝีมือบาติกโน้มตัวเหนือผ้าขาวที่ขึงบนกรอบ ใช้พู่กันบางๆ วาดดอกไม้แบบชบาสีแดงสดพร้อมใบสีเขียวและเส้นขอบสีทองด้วยมือ ในเวิร์กช็อปที่แขวนภาพถ่าย'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: ภาพระยะใกล้ของผ้าบาติกที่แสดงดอกไม้สีแดงเข้มอันโดดเด่น มีเส้นขอบและลวดลายจุดสีขาวที่เกิดจากเทคนิคการกันสีด้วยขี้ผึ้ง ตัดกับพื้นหลังสีน้ำเงินครามเข้ม
+    kind: actual
+    origin: third-party
+    subject: ภาพระยะใกล้ของผ้าบาติกวาดมือของมาเลเซียจากตรังกานู แสดงดอกไม้สีแดงขนาดใหญ่ที่มีเส้นขอบสีขาวจากเทคนิคกันสีด้วยขี้ผึ้ง
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: ผ้าบาติกหลายผืนแขวนเรียงเป็นแถว ในโทนสีแดง ม่วง ชมพู เขียว และส้มสดใส แต่ละผืนพิมพ์ลวดลายดอกไม้ ใบไม้ และเรขาคณิตที่แตกต่างกันด้วยเทคนิคกันสีด้วยขี้ผึ้ง
+    kind: actual
+    origin: third-party
+    subject: ผ้าบาติกของมาเลเซียหลากสีลวดลายต่าง ๆ จัดแสดงบนราวในงานคาร์นิวัลหัตถกรรมที่ตรังกานู
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 ผ้าขาวเรียบผืนหนึ่งถูกขึงไว้บนกรอบ ช่างจุ่มปากกาทองแดงเล็ก ๆ — จันติง (canting) ที่มีปลายกว้างไม่เกินปลายดินสอ — ลงในหม้อขี้ผึ้งเหลว แล้วเริ่มวาดลงบนเนื้อผ้าโดยตรง ไม่ใช่ด้วยเม็ดสี แต่ด้วยขี้ผึ้งที่จะปฏิเสธการรับสี ต่อเมื่อขี้ผึ้งเย็นตัวและแข็งลงแล้วเท่านั้น ผ้าจึงถูกจุ่มลงในอ่างย้อม ที่ใดมีขี้ผึ้ง สีย้อมก็เข้าไม่ถึง และเมื่อขี้ผึ้งถูกต้มออกในภายหลัง สิ่งที่เหลืออยู่คือลวดลายที่วาดขึ้นไม่ใช่ด้วยสี แต่ด้วยการไม่มีสี

@@ -34,7 +34,7 @@ faq:
     a: "According to a Macaranga report, 2023 amendments to the Environmental Quality Act 1974 set a minimum fine of RM5,000 and a maximum of up to RM10 million, along with a mandatory prison sentence of not more than five years for pollution offences. For offences under Selangor's river reserve regime (Section 48(1) of the LUAS Enactment 1999), the penalty is a fine not exceeding RM50,000 or imprisonment not exceeding two years, or both. The figures for the 1974 Act amendments come from a secondary report and should be verified against the official Gazette text."
 
 lang: "en"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,33 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: A narrow river running through a wide concrete channel between tall city buildings and a paved riverside walkway
+    kind: actual
+    origin: third-party
+    subject: The Klang River confined in a concrete channel between high-rise buildings in central Kuala Lumpur, illustrating pressure on urban river water quality
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: A calm, expansive lake reflecting the low sun, backed by silhouetted forested hills at dusk
+    kind: actual
+    origin: third-party
+    subject: The reservoir behind Batang Ai Dam in Sarawak, a major store of raw water and source of hydropower
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 Turn on the tap on a Monday morning and find it dry — not because the faucet is broken, but because a factory upstream has discharged foul-smelling waste into the tributary that supplies raw water to your town. This is a recurring reality in the Klang Valley, and it explains why "river quality" is not merely an ecological issue but a matter of water supply security for millions of homes.

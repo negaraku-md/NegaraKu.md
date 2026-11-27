@@ -34,7 +34,7 @@ faq:
     a: "말레이시아의 마지막 국왕컵 팀 레구 타이틀 우승은 1988년입니다. 2024년에 이르러 그 기다림은 약 36년에 달했으며, 말레이시아는 나콘랏차시마에서 개최국 태국에 0-2로 패했습니다."
 
 lang: "ko"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,9 +99,35 @@ wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "sukma-games", "national-sports-council-msn"]
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: '말레이시아의 어린 선수가 공중에 뜬 등나무로 엮은 세팍타크로 공을 향해 발을 높이 차올리고 있다.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: 아시안게임 여자 경기에서 세팍타크로 선수들이 뛰어올라 등나무 공을 네트 너머로 차 넘기며 치열하게 공방을 벌이는 모습.
+    kind: representative
+    origin: third-party
+    subject: 아시안게임 경기에서 네트를 사이에 두고 겨루는 세팍타크로 선수들
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: 등나무로 엮은 세팍타크로 공의 클로즈업. 이 종목을 하는 데 쓰이는 전통적인 엮음 공이다.
+    kind: representative
+    origin: third-party
+    subject: 등나무로 엮은 세팍타크로 공
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 배구를 떠올린 다음, 모든 선수의 손을 빼앗아 보십시오. 남는 것 — 머리 높이의 백플립 스파이크, 가슴으로 하는 세트, 공중으로 높이 띄웠다가 발뒤꿈치로 차는 서브 — 그것이 세팍타크로입니다. 세계에서 가장 곡예에 가까운 스포츠 중 하나이자, 말레이 세계의 정체성과 가장 밀접하게 얽힌 스포츠 중 하나입니다.

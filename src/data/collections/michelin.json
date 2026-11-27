@@ -17,7 +17,21 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "two-star",
+        "2025": "two-star",
+        "2026": "two-star"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ],
+      "greenStarYears": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "akar",
@@ -26,7 +40,17 @@
       "price": "$$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "selected",
+        "2025": "selected",
+        "2026": "star"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "au-jardin",
@@ -35,7 +59,17 @@
       "price": "$$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "star",
+        "2025": "star",
+        "2026": "star"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "auntie-gaik-leans-old-school-eatery",
@@ -44,7 +78,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "star",
+        "2025": "star",
+        "2026": "star"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "beta",
@@ -53,7 +97,17 @@
       "price": "$$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "star",
+        "2025": "star",
+        "2026": "star"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "chim-by-chef-noom",
@@ -62,7 +116,15 @@
       "price": "$$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "star",
+        "2026": "star"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "dc-by-darren-chin",
@@ -71,7 +133,17 @@
       "price": "$$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "star",
+        "2025": "star",
+        "2026": "star"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "molina",
@@ -80,7 +152,15 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "star",
+        "2026": "star"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "terra-dining",
@@ -89,7 +169,15 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "selected",
+        "2026": "star"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "7-chai-ipoh-hor-fun",
@@ -98,7 +186,13 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "ah-hei-bak-kut-teh",
@@ -107,7 +201,17 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "aliyaa",
@@ -116,7 +220,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "anak-baba",
@@ -125,7 +239,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "awesome-char-koay-teow",
@@ -134,7 +258,13 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "bee-hwa-cafe",
@@ -143,7 +273,13 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "bibiks-kitchen",
@@ -152,7 +288,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "bm-cathay-pancake",
@@ -161,7 +307,17 @@
       "price": null,
       "state": "penang",
       "city": "Bukit Mertajam",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "bm-yam-rice",
@@ -170,7 +326,17 @@
       "price": null,
       "state": "penang",
       "city": "Bukit Mertajam",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "selected",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "bridge-street-prawn-noodle",
@@ -179,7 +345,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "coast-by-kayra",
@@ -188,7 +364,15 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "communal-table-by-gen",
@@ -197,7 +381,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "congkak",
@@ -206,7 +400,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "de-wan-1958",
@@ -215,7 +419,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "duck-blood-curry-mee",
@@ -224,7 +438,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "foong-lian",
@@ -233,7 +457,15 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "ghee-lian",
@@ -242,7 +474,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "green-house-prawn-mee-and-loh-mee",
@@ -251,7 +493,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "gulainya",
@@ -260,7 +512,13 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "hai-kah-lang",
@@ -269,7 +527,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "hing-kee-bakuteh",
@@ -278,7 +546,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "hor-poh-cuisine",
@@ -287,7 +565,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "hot-bowl-white-curry-mee",
@@ -296,7 +584,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "ivys-nyonya-cuisine",
@@ -305,7 +603,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "jalan-ipoh-claypot-chicken-rice",
@@ -314,7 +622,17 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "lai-foong-lala-noodles",
@@ -323,7 +641,17 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "laksalicious",
@@ -332,7 +660,15 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "lama",
@@ -341,7 +677,13 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "leens",
@@ -350,7 +692,15 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "lemon-koay-teow-soup",
@@ -359,7 +709,13 @@
       "price": null,
       "state": "penang",
       "city": "Butterworth",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "lum-lai-duck-meat-koay-teow-thng",
@@ -368,7 +724,15 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "ming-qin-charcoal-duck-egg-char-koay-teow",
@@ -377,7 +741,17 @@
       "price": null,
       "state": "penang",
       "city": "Bukit Mertajam",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "minji-bak-kut-teh",
@@ -386,7 +760,13 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "moh-teng-pheow-nyonya-koay",
@@ -395,7 +775,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "mtr-1924",
@@ -404,7 +794,15 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "my-own-cafe",
@@ -413,7 +811,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "nam-heong-chicken-rice",
@@ -422,7 +830,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "nasi-ayam-hainan-chee-meng",
@@ -431,7 +849,17 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "neighbourwood",
@@ -440,7 +868,17 @@
       "price": "$",
       "state": "penang",
       "city": "Bukit Mertajam",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "nirwana",
@@ -449,7 +887,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "penang-road-famous-jin-kor-char-kuey-teow",
@@ -458,7 +906,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "penang-road-famous-laksa",
@@ -467,7 +925,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "rasa-rasa",
@@ -476,7 +944,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "ravis-famous-apom-manis",
@@ -485,7 +963,15 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "roti-by-dtandoor",
@@ -494,7 +980,17 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "sao-nam",
@@ -503,7 +999,17 @@
       "price": "$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "sardaarji",
@@ -512,7 +1018,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "sek-yuen",
@@ -521,7 +1037,17 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "serabai-istimewa",
@@ -530,7 +1056,15 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "siam-road-char-koay-teow",
@@ -539,7 +1073,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "sifu",
@@ -548,7 +1092,13 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2026
+      ]
     },
     {
       "slug": "sin-kiew-yee-shin-kee-beef-noodles",
@@ -557,7 +1107,15 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "sister-yaos-char-koay-kak",
@@ -566,7 +1124,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "super-star-koay-teow-soup",
@@ -575,7 +1143,15 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "taman-bukit-curry-mee",
@@ -584,7 +1160,17 @@
       "price": null,
       "state": "penang",
       "city": "Bukit Mertajam",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "teksen",
@@ -593,7 +1179,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "thara",
@@ -602,7 +1198,17 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "wan-dao-tou-assam-laksa",
@@ -611,7 +1217,17 @@
       "price": null,
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "winns-cafe",
@@ -620,7 +1236,15 @@
       "price": "$",
       "state": "penang",
       "city": "George Town",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     },
     {
       "slug": "wong-mei-kee",
@@ -629,7 +1253,17 @@
       "price": null,
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2024": "bib-gourmand",
+        "2025": "bib-gourmand",
+        "2026": "bib-gourmand"
+      },
+      "editions": [
+        2024,
+        2025,
+        2026
+      ]
     },
     {
       "slug": "potager",
@@ -638,7 +1272,15 @@
       "price": "$$",
       "state": "kuala-lumpur",
       "city": "Kuala Lumpur",
-      "year": 2026
+      "year": 2026,
+      "history": {
+        "2025": "selected",
+        "2026": "selected"
+      },
+      "editions": [
+        2025,
+        2026
+      ]
     }
   ]
 }

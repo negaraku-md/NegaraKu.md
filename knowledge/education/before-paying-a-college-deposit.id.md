@@ -35,7 +35,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["deposit kuliah Malaysia", "cek akreditasi MQA", "MQR mqr.gov.my", "apakah program studi saya terakreditasi", "kebijakan pengembalian dana kuliah Malaysia", "badan pemberi gelar twinning 3+0", "universitas swasta Malaysia IPTS", "Act 555", "sebelum membayar biaya kuliah"]
 framework: how-to
+stayFacts:
+  who: 'Ini untuk mahasiswa dan orang tua yang telah memegang tawaran dari kolej dan hendak membayar deposit atau biaya pendaftaran — sering kali uang pertama yang dikeluarkan, dan kerap tidak dapat dikembalikan.'
+  how: 'Sebelum membayar, verifikasi lima hal secara tertulis: program yang tepat tercantum di MQR; institusi tersebut adalah penyedia terdaftar (IPTS di bawah Private Higher Educational Institutions Act 1996 (Act 555), atau universitas negeri maupun kampus cabang yang diakui); untuk program twinning atau 3+0, siapa yang memberikan sertifikat akhir; jadwal biaya lengkap secara tertulis untuk seluruh program; serta klausul pengembalian dana dan pengunduran diri.'
+  cost: 'Deposit hanyalah sebagian kecil — minta jadwal biaya lengkap secara tertulis untuk seluruh program (pendaftaran, biaya kuliah per semester, sumber daya, ujian, asuransi, dan biaya mahasiswa internasional), bukan hanya tahun pertama, dan pastikan deposit itu diperhitungkan terhadap apa.'
+  watch: 'Deposit kerap tidak dapat dikembalikan dan tidak ada hak masa tenggang (cooling-off) yang diatur secara nasional — apa yang bisa Anda peroleh kembali ditetapkan oleh kebijakan tertulis institusi itu sendiri. ''Jaminan pindah ke Tahun 3'' adalah keputusan universitas mitra, bukan kolej lokal; mintalah itu secara tertulis.'
+  next: 'Ajukan setiap pemeriksaan kepada institusi secara tertulis dan simpan jawabannya sebelum uang apa pun keluar dari rekening Anda; verifikasi dulu program yang tepat di MQR. Lihat penjelasan akreditasi MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Menara Kampus Lakeside Taylor''s University terpantul di sebuah danau saat senja, dengan papan tanda merah "TAYLOR''S UNI" pada bangunan utama.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: Fasad kaca RCSI & UCD Malaysia Campus, sebuah perguruan tinggi swasta yang lazimnya meminta uang muka pendaftaran dari mahasiswa baru.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), Penang
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: Sebuah blok perkuliahan modern di kampus Sunway University, sebuah institusi swasta tempat calon mahasiswa menimbang biaya dan uang muka sebelum memutuskan.
+    kind: actual
+    origin: third-party
+    subject: Gedung kampus Sunway University, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 Deposit biasanya merupakan uang pertama yang diserahkan sebuah keluarga kepada

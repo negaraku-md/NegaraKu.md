@@ -33,7 +33,7 @@ faq:
     a: "Tarian singa tiang tinggi berasal dari tradisi singa bangun masyarakat Tionghoa, dan sebagian kelompok singa berpangkalan di kelenteng atau dinamai menurut kelenteng, serta sebelum naik tiang mungkin ada upacara tradisional seperti mencelikkan mata. Namun sebagai olahraga dan pertunjukan, kini ia lebih banyak dipandang sebagai kegiatan budaya dan olahraga, dan sebagian kelompok singa modern juga memudarkan corak keagamaan dalam latihan mereka. Artikel ini hanya menjelaskan tradisi dan olahraganya sendiri, tanpa menilai keyakinan apa pun."
 
 lang: "id"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'Kostum barongsai putih dan emas berisi dua pemain tertangkap sedang melompat di udara di atas deretan tiang logam tinggi dalam sebuah kompetisi'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: Barongsai berbadan putih bertengger di atas tiang-tiang merah tinggi di atas kerumunan orang di sebuah jalan di Kuala Lumpur, dengan papan nama toko beraksara Tionghoa di belakang
+    kind: actual
+    origin: third-party
+    subject: Barongsai tiang tinggi yang beraksi di atas tiang jong di sebuah jalan di Kuala Lumpur di depan kerumunan, Malaysia
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: Kepala dan badan barongsai putih yang dihias cerah menyeimbangkan diri di puncak beberapa tiang tinggi, menghadap ke depan di bawah lampu panggung
+    kind: representative
+    origin: third-party
+    subject: Barongsai kompetisi berwarna putih merunduk dan menyeimbangkan diri di atas beberapa tiang jong tinggi, kepala singa menghadap kamera
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 Begitu tabuhan gendang mengetat, singa itu melesat ke udara, kaki depannya mendarat kokoh di atas sebatang tiang baja yang hanya setipis bibir mangkuk, dan ekor singa segera menyusul — dua penari melompat dan berpose di antara sederet tiang dengan ketinggian berbeda, dua tiga meter dari tanah, penonton menahan napas, hingga singa yang seolah telah 'hidup' itu berdiri mantap di atas tiang tertinggi, barulah tepuk tangan membahana. Ini bukan tarian singa perayaan di atas tanah, melainkan olahraga yang memiliki penilaian, juara, dan peringkat dunia — tarian singa tiang tinggi.

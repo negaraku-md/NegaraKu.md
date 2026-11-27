@@ -76,6 +76,34 @@ relations:
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 framework: profile
+hero: '/media/companies/plus-malaysia/hero.webp'
+heroAlt: 'Sebatang jalan Lebuhraya Utara-Selatan berbilang lorong yang lapang dengan trafik ringan dan papan tanda kuning ''IKUT KIRI Kecuali Memotong'' di bahu kiri, diapit pepohon tepi jalan hijau dan bukit berhutan rendah di bawah langit biru berawan bertaburan'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: Pandangan menerusi cermin depan menghampiri plaza tol di lebuh raya PLUS, dengan papan tanda lorong Touch 'n Go dan SmartTAG di atas pondok, pembahagi lorong merah dan putih menyalurkan lalu lintas, di bawah langit petang mendung
+    kind: actual
+    origin: third-party
+    subject: Plaza tol Tangkak di Exit 235 di Lebuh Raya Utara-Selatan yang dikendalikan PLUS
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: Sebuah gantri keluli di atas membawa paparan mesej berubah-ubah jingga merentasi lorong Lebuh Raya Utara-Selatan, dengan lalu lintas ringan dan kon kerja jalan di hadapan serta pokok tepi jalan di bawah langit kelabu berawan
+    kind: actual
+    origin: third-party
+    subject: Sebuah gantri paparan mesej berubah-ubah di atas merentasi Lebuh Raya Utara-Selatan (PLUS)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 Setiap kali anda memandu dari Bukit Kayu Hitam di utara ke Johor Bahru di selatan tanpa berhenti di lampu isyarat, anda sebenarnya melalui aset sebuah syarikat: PLUS Malaysia Berhad. Ia bukan agensi kerajaan, tetapi juga bukan syarikat swasta biasa — ia sebuah pemegang konsesi yang mengendali tulang belakang jalan raya negara di bawah perjanjian jangka panjang dengan kerajaan.

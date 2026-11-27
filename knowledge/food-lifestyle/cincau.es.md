@@ -85,6 +85,14 @@ drinkFacts:
   halal: "El cincau es de origen vegetal y sin alcohol —hierbas hervidas, agua y azúcar—, así que la gelatina en sí es halal. La garantía halal corresponde al establecimiento y a todo lo que se mezcle con ella (como la leche en un soya cincau bicolor), de modo que los comensales que necesiten certificación deben comprobarlo en cada local."
   served: "Se sirve frío. Solo es «air cincau» —cubos de gelatina en agua helada dulce. Vertido con leche de soja se convierte en «soya cincau», apodado el «Michael Jackson» por sus capas en blanco y negro. Es también un ingrediente estándar del cendol, el ais kacang (ABC) y el leng chi kang de ingredientes variados."
   where: "Se encuentra en kopitiam, puestos de hawker, tiendas de postres y pasar malam por todo el país, y se vende listo para tomar en cartones y latas (como las de Yeo's) en cada supermercado y colmado."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Una bebida fría de gelatina de hierbas (cincau) con la gelatina oscura asentada en el fondo"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 En una tarde calurosa en una cafetería malasia, una de las formas más baratas de

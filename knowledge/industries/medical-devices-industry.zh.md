@@ -31,7 +31,7 @@ faq:
   - q: 制造商有哪些激励？
     a: 医疗器械是 MIDA 推广的活动，可获先锋地位（在一定期限内部分至全额免征所得税）与针对合格资本支出的投资税务补贴等激励。医疗器械亦被列为《2030 年新工业大蓝图》下的优先领域。请直接向 MIDA 确认当前条款与资格。
 lang: zh
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -101,6 +101,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: '浸渍生产线上涂有液态乳胶的手形模具，这是一次性手套制造的核心工序。'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: 身穿防护服、戴着帽子的工人在一条无菌制药生产线上操作设备。
+    kind: representative
+    origin: third-party
+    subject: 有身着无尘服工人的无菌制药／医疗产品生产线（代表医疗制造业）
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: 医疗产品制造厂的洁净室生产线上，身着无尘服的技术人员与不锈钢设备。
+    kind: representative
+    origin: third-party
+    subject: 医疗产品制造厂内的洁净室生产线（代表性）
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 如果你曾戴过外科手套、通过导管抽过血，或在骨科植入物的帮助下康复，那么这件器械很有可能是在马来西亚制造的。在闻名遐迩的橡胶手套之外，这个国家已悄然成为东南亚最重要的医疗器械制造地——也是全球较具分量的医疗科技制造基地之一。

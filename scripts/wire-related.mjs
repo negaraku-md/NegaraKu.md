@@ -62,6 +62,25 @@ const PLAN = [
   { base: 'education/foreign-university-branch-campuses-and-education-hubs', add: ['after-spm-options', 'public-vs-private-universities'] },
   { base: 'education/ptptn-student-loan', add: ['after-spm-options', 'jpa-and-public-scholarships'] },
   { base: 'education/jpa-and-public-scholarships', add: ['after-spm-options', 'ptptn-student-loan'] },
+
+  // Tourism destination clusters — make the 18 visitFacts (玩/Play) guides
+  // mutually discoverable by travel region: Borneo, highlands, islands/beaches,
+  // heritage cities. Several had empty/thin related[] before this. Freshness-neutral.
+  { base: 'tourism/kuala-lumpur-visitor-guide', add: ['genting-highlands', 'melaka-heritage-visitor-guide', 'ipoh-and-the-kinta-valley', 'penang-george-town-visitor-guide', 'frasers-hill'] },
+  { base: 'tourism/penang-george-town-visitor-guide', add: ['ipoh-and-the-kinta-valley', 'langkawi-visitor-guide', 'kuala-lumpur-visitor-guide', 'melaka-heritage-visitor-guide'] },
+  { base: 'tourism/melaka-heritage-visitor-guide', add: ['kuala-lumpur-visitor-guide', 'penang-george-town-visitor-guide', 'johor-bahru-and-johor'] },
+  { base: 'tourism/cameron-highlands-visitor-guide', add: ['genting-highlands', 'frasers-hill', 'ipoh-and-the-kinta-valley'] },
+  { base: 'tourism/genting-highlands', add: ['frasers-hill'] },
+  { base: 'tourism/langkawi-visitor-guide', add: ['east-coast-islands-guide', 'penang-george-town-visitor-guide', 'diving-marine-ecotourism-malaysia'] },
+  { base: 'tourism/east-coast-islands-guide', add: ['diving-marine-ecotourism-malaysia', 'langkawi-visitor-guide', 'sipadan-and-semporna', 'johor-bahru-and-johor'] },
+  { base: 'tourism/diving-marine-ecotourism-malaysia', add: ['sipadan-and-semporna', 'east-coast-islands-guide', 'langkawi-visitor-guide', 'sabah-visitor-guide'] },
+  { base: 'tourism/sabah-visitor-guide', add: ['sarawak-visitor-guide', 'mount-kinabalu-and-kinabalu-park', 'sipadan-and-semporna', 'kuching-visitor-guide', 'diving-marine-ecotourism-malaysia'] },
+  { base: 'tourism/sarawak-visitor-guide', add: ['kuching-visitor-guide', 'gunung-mulu-national-park', 'sabah-visitor-guide'] },
+  { base: 'tourism/kuching-visitor-guide', add: ['sabah-visitor-guide'] },
+  { base: 'tourism/gunung-mulu-national-park', add: ['sabah-visitor-guide', 'mount-kinabalu-and-kinabalu-park'] },
+  { base: 'tourism/mount-kinabalu-and-kinabalu-park', add: ['gunung-mulu-national-park'] },
+  { base: 'tourism/sipadan-and-semporna', add: ['mount-kinabalu-and-kinabalu-park'] },
+  { base: 'tourism/taman-negara-ecotourism-guide', add: ['gunung-mulu-national-park', 'kuala-lumpur-visitor-guide', 'cameron-highlands-visitor-guide'] },
 ];
 
 // ---- validate every slug in the plan actually exists on disk --------------

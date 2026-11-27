@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,32 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: '落書きのある配電ボックスに、オレンジと青で手描きされた「PETALING STREET KUALA LUMPUR」の看板。背後には街路と建物が見える。'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: ジョージタウンの店屋街。店先には英語・タミル語・中国語・マレー語の看板が並んで掲げられている
+    kind: actual
+    origin: third-party
+    subject: ペナン・ジョージタウンのリトル・インディアの通り。沿道の看板が複数の言語と文字で記されている
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: 夕方、マレーシアの賑わう夜市で、食べ物や品物の屋台の列の前を買い物客が歩いている
+    kind: actual
+    origin: third-party
+    subject: スランゴール州スリ・クンバンガンのパサール・マラム（夜市）。マレーシアの日常的な多言語の街の光景
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

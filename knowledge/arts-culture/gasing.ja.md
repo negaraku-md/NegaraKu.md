@@ -21,7 +21,7 @@ appliesTo: "ガシンの遊び方、gasing pangkahとgasing uriの違い、そ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 
 status: "published"
 aiAssisted: true
@@ -61,6 +61,34 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: '赤漆塗りの木でできた円盤状のマレーのガシン(独楽)が2つ、それぞれ白い投げ紐をきつく巻きつけ、彫刻された黒い箱と鮮やかな紫と金のバティック布の上に置かれ、横に無地の重いガシンが並ぶ'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: 温かい陽光の中、木屑の上に置かれた、典型的な平らな円盤状の胴体と中央の盛り上がったつまみを持つ、挽いたばかりの淡い色の木製ガシン2つと、その滑らかな円筒形の投擲用の柄
+    kind: actual
+    origin: third-party
+    subject: 投擲用の柄を備えた、新しく木工旋盤で作られたマレー式のガシン（独楽）2つ
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: オレンジ色のジャージを着た少年が前かがみになり、長い白い紐から回転する独楽を木の板の上に放つ様子。板の上にはすでに回る独楽が乗っており、背後では観衆が熱心に見守っている
+    kind: representative
+    origin: third-party
+    subject: 伝統的な独楽回し競技で、紐を使ってガシンを放つ若い競技者
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 先に届くのは音だった——重い木片が重い木片にぶつかる音、そして沸き起こる歓声。トレンガヌ州クアラ・ヌルス周辺のある村の広場で、二つの集団が向かい合って立つ。一人が紐でガシン（gasing、伝統的な木製のコマ）を投げ放つ。もう一つはすでに地面の上で回転しながら待っている。勝つのは最も速い者ではない——打たれたあとも、なお回転を続けているガシンを持つ者だ。

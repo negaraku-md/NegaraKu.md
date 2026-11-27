@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'சேகோலா மெனெங்கா கெபாங்சான் செக்ஷன் 3 பந்தார் கின்ராரா பள்ளியின் வான்வழிக் காட்சி, பள்ளியின் வகுப்பறைக் கட்டிடத் தொகுதிகளின் நாற்கரம், ஒரு விளையாட்டு மைதானம் மற்றும் குடியிருப்புப் பகுதியைக் காட்டுகிறது.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: கொடிக்கம்பமும் முன்முற்றமும் கொண்ட மலேசிய இடைநிலைப் பள்ளிக் கட்டிடத்தின் முகப்பு
+    kind: representative
+    origin: third-party
+    subject: மலேசியத் தேசிய இடைநிலைப் பள்ளிக் கட்டிடம் (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: மலேசிய இடைநிலைப் பள்ளி மாணவர்கள் குழுவொன்று வெளிப்புறத்தில் தங்களுக்கே உரிய தனித்துவமான பள்ளிச் சீருடை அணிந்திருக்கிறது
+    kind: representative
+    origin: third-party
+    subject: மலேசிய இடைநிலைப் பள்ளி மாணவர்கள் தங்கள் பள்ளிச் சீருடையில் (Sandakan, Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 மலேசியாவில் வளரும் ஒரு குழந்தைக்கு, "எந்தப் பள்ளி?" என்ற கேள்வி பல நாடுகளைவிட அதிக அர்த்தத்தைச் சுமக்கிறது. இது ஓரளவு தூரம் மற்றும் பெயர் பற்றியது, எல்லா இடங்களிலும் போலவே — ஆனால் இது முக்கியமாக மலாய் மொழியில் கற்பிக்கும் ஒரு தேசியப் பள்ளிக்கும், சீனம் அல்லது தமிழில் கற்பிக்கும் ஒரு தேசிய-வகைப் பள்ளிக்கும் இடையிலான ஒரு தேர்வு ஆகும். இரண்டும் ஒரே பொது முறையின் பகுதி, ஒரே தேசியப் பாடத்திட்டத்தைப் பின்பற்றுகின்றன, ஒரே தேசியத் தேர்வுகளுக்கு இட்டுச் செல்கின்றன. அந்த முறை எவ்வாறு ஒன்றாக இணைகிறது என்பதைப் புரிந்துகொள்வது அதை வழிநடத்துவதற்கான முதல் படி.

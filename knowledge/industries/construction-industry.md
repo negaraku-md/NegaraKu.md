@@ -82,9 +82,35 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Pengorekan asas dalam bagi sebuah tapak pembinaan bangunan tinggi di Kuala Lumpur, dengan kren menara, penyokong tupang merah dan pekerja, dilatari kaki langit bandar.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: Kren menara menjulang di atas sebuah bangunan tinggi yang sedang dibina di tengah bandar Kuala Lumpur, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Tapak pembinaan bangunan tinggi di Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: Sebuah menara apartmen servis konkrit bertetulang yang sedang dibina di Jalan Kuda Emas berhampiran Bukit Jalil, Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Pembinaan apartmen servis berhampiran Bukit Jalil, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 Cuba dirikan pagar sekolah bernilai RM250,000 tanpa memegang perakuan pendaftaran kontraktor, dan projek anda boleh diarahkan berhenti serta-merta — sebelum tiang pertama pun ditanam. Di Malaysia, hak untuk membina bukan bermula dengan mesin atau buruh; ia bermula dengan satu daftar.

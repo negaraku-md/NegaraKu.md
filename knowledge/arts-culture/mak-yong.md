@@ -82,6 +82,33 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'Empat penghibur Mak Yong berkostum tradisional Melayu emas dan merah marun di atas pentas yang gelap, seorang memakai mahkota bersadur tinggi dan seorang bertopeng pelawak putih'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: Dua kostum Mak Yong pada patung peraga di sebalik kaca, sehelai baju emas dengan mahkota bermanik permata dan sehelai baju merah marun dengan hiasan kepala gelap, di Muzium Negeri Kelantan
+    kind: actual
+    origin: third-party
+    subject: Kostum Mak Yong dengan mahkota berhias dipamerkan di Muzium Negeri Kelantan, Malaysia
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: Foto sejarah berwarna sepia seorang penari Mak Yong bermahkota berdiri dalam kalangan pemuzik lelaki yang duduk memegang gendang dan rebab
+    kind: representative
+    origin: third-party
+    subject: Foto bersejarah seorang pelakon utama Mak Yong bermahkota diapit pemuzik yang duduk dengan gendang dan rebab
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 Bunyi pertama bukan datang daripada pelakon. Ia datang daripada sekeping kayu berbentuk buah pear dengan tiga utas tali — rebab — yang digesek perlahan di tepi pentas kayu terbuka. Penonton duduk di tiga sisi. Bumbungnya daun palma. Dan sebelum sepatah dialog dilafazkan, seorang puteri sudah membongkokkan badan ke arah alat muzik itu dalam satu tarian yang namanya sendiri sudah menjelaskan segalanya: **Mengadap Rebab**.

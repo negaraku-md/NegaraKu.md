@@ -66,6 +66,32 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'Sebuah papan tanda pintu hospital bertuliskan Bilik Persidangan Keluarga Perubatan Paliatif, sebuah gambaran rawatan paliatif yang neutral dan tidak grafik.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: Bangunan hospis yang rendah dengan taman di hadapan, dengan tiang bendera dan laluan masuk yang tenang, mewakili sebuah kemudahan penjagaan hospis yang damai
+    kind: representative
+    origin: third-party
+    subject: Sebuah bangunan penjagaan hospis satu tingkat yang tenang dengan taman di bawah langit cerah
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: Pintu masuk unit penjagaan paliatif hospital moden dengan anjung kaca dan hamparan tanaman, mewakili persekitaran penjagaan paliatif pakar
+    kind: representative
+    origin: third-party
+    subject: Pintu masuk bertaman sebuah unit penjagaan paliatif yang khusus
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 Apabila rawatan tidak lagi bertujuan menyembuhkan, tumpuan beralih kepada satu perkara: memastikan pesakit selesa dan bermaruah. Itulah inti penjagaan paliatif — dan di Malaysia, ia boleh diakses melalui tiga jalur yang berbeza.

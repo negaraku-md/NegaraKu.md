@@ -94,6 +94,32 @@ keywords:
   - Samsung SDI
   - EV adoption
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'A DC fast-charging unit stands in a marked electric-vehicle bay at a Malaysian highway rest area.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: Two cylindrical lithium-ion battery cells, an 18650 and a larger 21700 format, stood side by side.
+    kind: representative
+    origin: third-party
+    subject: Cylindrical lithium-ion battery cells
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: The flat lithium-ion traction battery pack of an electric car, displayed to show its modular cell layout.
+    kind: representative
+    origin: third-party
+    subject: An electric-vehicle lithium-ion traction battery pack
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 Malaysia has spent half a century building cars. Now it is trying to electrify them — and, just as importantly, to make the batteries and build the charging network that electric vehicles depend on. This is a different story from the one told in the guide to [Malaysia's automotive industry](/en/industries/automotive-industry/), which is largely about petrol and diesel cars. Here the subject is the EV and battery *ecosystem*: the vehicles, the incentives, the chargers and the factories that together decide how fast Malaysia switches to electric mobility.

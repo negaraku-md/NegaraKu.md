@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Hanya bunga, air, dan gula — tanpa daging, tanpa produk hewani, tanpa alkohol — sehingga ia vegetarian dan, pada dirinya sendiri, halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa kedai atau label botol."
   served: "Disajikan panas atau dingin; mintalah kurang manis bila lebih suka. Populer diminum untuk mengimbangi makanan 'panas', gorengan, atau berlemak serta cuaca panas — sebuah kepercayaan budaya tentang keseimbangan, bukan klaim medis. Juga dijual dalam botol dan kaleng sebagai teh krisan siap minum."
   where: "Ditemukan di kopitiam, gerai teh herbal dan liang cha, serta dalam botol atau kaleng di toko dan supermarket di seluruh negeri."
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Cangkir teh bermotif bunga berisi teh krisan pucat (air kekwa) dengan bunga yang sedang diseduh"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 Di antara minuman manis dan bersusu di kedai kopi Malaysia, **air kekwa** berdiri agak

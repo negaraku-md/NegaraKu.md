@@ -33,7 +33,7 @@ faq:
     a: "「喊標」（福物の競り）は盂蘭勝会の会食後によく見られる場面です。主催者は祭壇に並んだ縁起物の供物——果物、米、飲み物、そして「烏金」と呼ばれる炭などの「福物」——を一つずつ公開で競りにかけ、最高額を提示した者が各品を「落札」します。収益は多く行事の費用に充てられ、華語学校などの公益に寄付されるため、マレーシアの中元節は地域の相互扶助と慈善の色合いも濃く帯びています。"
 
 lang: "ja"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "旧暦七月（七月一日の「鬼門開」から月末の「鬼門関」まで）で、七月十五日（中元の正日）が祭祀のピークとなる。"
   holiday: "マレーシアの全国的にも各州においても祝日ではない。祭祀、盂蘭勝会、そして歌台（ステージ公演）は、仕事を終えた後の夕方や夜間に行われることが多い。"
   etiquette: "歌台の最前列の席は目に見えない客のために意図的に空けられており、観客は一般に最前列には座らない。民間にはまた、路傍の供え物を踏まないこと、地面に落ちている金品をむやみに拾わないことといった言い伝えもある。"
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: '夜の中元節の歌台。赤いネオンの弧、星型のパネル、スクロールする中国語のLED看板で輝く、天幕下の祭りの舞台'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: マレーシアの中元節の期間中、燃える線香・果物・香炉を供えた祭壇の上にそびえ立つ、青い衣をまとった大士爺の紙製の像
+    kind: actual
+    origin: third-party
+    subject: クダ州アロースターのトウブーキョン寺院で、供物の祭壇の上にそびえる巨大な大士爺（守護神）の像
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: 中元節の供物として草地に並べられた、米・料理・果物・飲み物の盆。それぞれに火のついた赤い線香が刺さっている
+    kind: representative
+    origin: third-party
+    subject: 旧暦七月の中元節に、さまよう霊のために路傍に供えられた食べ物と線香
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 旧暦七月に入ると、ペナン、クラン、ジョホールの多くの街角の夜の光景がひそかに変わります。道端に小さな机が並べられ、その上には果物、ご飯、茶、そして積み重ねられた金銀紙が置かれ、線香とろうそくが夕暮れの中で明滅します。地域の空き地には、高さ数メートルの厳めしい顔の紙製神像が立てられ、その向かいに舞台が組まれます。夜になると照明が煌々とつき、歌声が響き渡ります——ところが舞台下の最前列の椅子は一列まるごと、終始空いたままです。

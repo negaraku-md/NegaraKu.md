@@ -34,7 +34,7 @@ faq:
     a: "Les Lignes directrices pour le développement durable des centres de données du MITI (30 décembre 2024) exigent des exploitants qu'ils déclarent le PUE, le WUE et le CUE de conception selon les normes ISO/IEC 30134, et qu'ils envisagent des sites de la Malaisie péninsulaire présentant un indice de stress hydrique (WSI) inférieur à 0,8, selon la formulation de la condition d'implantation de la ligne directrice."
 
 lang: "fr"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'Des rangées de baies de serveurs aux voyants d''état bleus allumés remplissent l''allée d''un centre de données.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: De longues rangées de baies de serveurs et d'équipements remplissent une grande salle de centre de données avec confinement structuré d'allée froide.
+    kind: representative
+    origin: third-party
+    subject: Une salle de centre de données avec des rangées de baies d'équipements
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: Des faisceaux denses de câblage réseau courent à l'arrière des baies de serveurs dans un centre de données.
+    kind: representative
+    origin: third-party
+    subject: Câblage réseau derrière les baies de serveurs d'un centre de données
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 En 2019, Singapour a cessé d'approuver de grands nouveaux centres de données. En quatre ans, les serveurs qu'elle avait refusés avaient bâti une nouvelle industrie à vingt minutes de l'autre côté du Causeway — et Johor est passé d'un paisible État malaisien au marché de centres de données le plus actif d'Asie du Sud-Est.

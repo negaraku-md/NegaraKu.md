@@ -24,7 +24,7 @@ appliesTo: "Sesiapa sahaja di Malaysia yang berhadapan dengan konsultasi pakar a
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 
 status: "published"
 aiAssisted: true
@@ -69,6 +69,33 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'Fasad merah dan putih Sunway Medical Centre Tower C, sebuah bangunan hospital swasta Malaysia moden, dengan papan tanda tertulis Sunway Medical Centre'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: Bangunan moden Prince Court Medical Centre di Kuala Lumpur, dengan logo kata emasnya pada fasad dan papan tanda jalan bandar di latar depan
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, sebuah hospital swasta di Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: Bangunan Sunway Medical Centre pada waktu senja di sisi stesen transit bertingkat berbumbung, dengan papan tanda SunMed menyala
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre dan stesen BRT/LRT bersebelahan di Bandar Sunway
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 Anda masuk untuk satu prosedur dan keluar dengan apa yang terasa seperti dua bil yang disepitkan bersama. Satu daripada pakar bedah. Satu daripada hospital. Kedua-duanya jarang sepadan dari segi jumlah, dan hampir tiada siapa yang menerangkan sebabnya kedua-duanya berasingan sejak awal lagi.

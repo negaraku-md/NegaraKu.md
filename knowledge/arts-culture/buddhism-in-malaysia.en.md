@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,32 @@ faq:
   - q: What does Wesak commemorate? Is it a public holiday?
     a: Wesak (Wesak Day) commemorates the birth, enlightenment and passing into nirvana of the Buddha, and is a nationwide public holiday in Malaysia. Devotees go to temples to offer flowers, light lamps and give alms. Religious freedom is protected by Article 11 of the Federal Constitution; although Article 3 establishes Islam as the religion of the Federation, it does not prevent other religions from being practised in peace.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'The hillside Kek Lok Si Buddhist temple in Penang, with its sweeping gold-tiled roof, tiered terraces lined with red lanterns and a pagoda fountain in the courtyard.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: The ornate gilded and tiled facade and roofs of a Thai Buddhist temple against a blue sky in Penang
+    kind: actual
+    origin: third-party
+    subject: Wat Chaiya Mangkalaram, a Thai Theravada Buddhist temple in George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: A seated Buddha statue surrounded by masses of yellow, white and pink chrysanthemums on a Wesak festival float
+    kind: actual
+    origin: third-party
+    subject: A flower-decked Buddha image on a Wesak Day float at Wat Nikrodharam, Alor Setar, Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 On the hills of Penang, the silhouette of Kek Lok Si looks down over George Town;

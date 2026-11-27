@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "id"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: Mengapa lebih banyak umat Hindu tinggal di negara bagian seperti Negeri Sembilan, Selangor, dan Perak?
     a: Negara-negara bagian ini bertepatan dengan bekas kawasan perkebunan karet dan pertambangan bijih timah — di sanalah banyak buruh India menetap pada masa Inggris. Dalam sensus 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%), dan Perak (~9,7%) mencatat proporsi yang lebih tinggi. Sebagian besar dari mereka adalah keturunan orang-orang yang datang dari India Selatan untuk bekerja di perkebunan di bawah sistem kangani.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'Menara gopuram Kuil Sri Mahamariamman yang tinggi dan dipahat berwarna-warni di pusat Kuala Lumpur, dipenuhi patung dewa-dewi Hindu di atas pintu masuk kuil tempat pengunjung berdiri.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: Menara gopuram bertingkat Kuil Murugan Kallumalai di Ipoh, Perak, yang dicat cerah dan penuh arca dewa-dewi Hindu.
+    kind: actual
+    origin: third-party
+    subject: Gopuram berwarna-warni Kuil Murugan Kallumalai, Ipoh, Perak
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: Sebuah kolam yang rumit dan berwarna-warni dihampar di atas lantai untuk Deepavali, perayaan utama Hindu di Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Sebuah kolam Deepavali (seni lantai), Malaysia
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 Di kota mana pun di Malaysia, di tepi perkebunan karet tua atau di jalan bersejarah

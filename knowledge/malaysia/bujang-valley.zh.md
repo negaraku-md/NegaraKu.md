@@ -21,7 +21,7 @@ appliesTo: "希望了解马来半岛上早期文明起源——早于马来苏�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,6 +74,32 @@ faq:
   - q: 武吉巴也谷的candi（庙宇）自古以来是否仍保持原状？
     a: 没有。如今可以参观的大多数candi都是由考古学家根据原始遗迹重建（复原）的，而不是保持完好的原有结构。武吉峇都巴辖庙（Candi Bukit Batu Pahat）是唯一在其原址上重建的遗迹，而彭加兰武吉庙（Candi Pengkalan Bujang）现已在博物馆附近重建。根据马来西亚国家档案馆（Arkib Negara Malaysia），这些candi估计建于公元四世纪至十二世纪之间。
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: '吉打州布央谷（Lembah Bujang）考古遗址上一座修复后的红土石块阶梯式寺庙台基，坐落在修剪整齐的草坪上，背后是茂密的绿色丛林。'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: 一座以红褐色红土砖砌成的方形阶梯式庙宇基座立于裸露的地面上，上方是一座开放式的木构瓦顶保护棚，远处可见绿色的山丘与森林。
+    kind: actual
+    origin: third-party
+    subject: 吉打州布央谷考古群中一座复原的印度教—佛教庙宇基座（candi）
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: 四件出土的陶器与釉陶器皿——一只高高的深色带流罐、一只圆形白罐和两只小碗——陈列在明亮展柜内的透明托架上。
+    kind: actual
+    origin: third-party
+    subject: 吉打州布央谷出土的陶瓷器皿，陈列于考古博物馆
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 在Gunung Jerai附近的一片平原上，稻田与油棕园之间，散布着比马六甲成为港口还早数百年砌成的古砖。有些砖块构成了印度教庙宇的基座，有些则是冶铁用的炼炉。曾在此统治的苏丹，如今已无人能叫出名字——但建造这些庙宇与炼炉的社群所留下的痕迹，使布秧谷成为东南亚最重要的考古遗址之一。

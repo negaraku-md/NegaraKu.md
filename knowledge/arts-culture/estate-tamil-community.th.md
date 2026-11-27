@@ -32,7 +32,7 @@ faq:
   - q: "ปัจจุบันใครทำงานในสวน?"
     a: "ปัจจุบันแรงงานในสวนของมาเลเซียส่วนใหญ่เป็นแรงงานย้ายถิ่นชาวต่างชาติ สำหรับชุมชนทมิฬแล้ว การย้ายถิ่นครั้งใหญ่จากสวนสู่เมืองเสร็จสิ้นไปเป็นส่วนใหญ่เมื่อหลายทศวรรษก่อน ชุมชนในปัจจุบันได้กลายเป็นชุมชนเมืองและกึ่งเมืองเป็นส่วนใหญ่"
 lang: "th"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'อาคารเตี้ย ๆ ของโรงเรียน SJK(T) Ladang Sungai Getah โรงเรียนประถมที่ใช้ภาษาทมิฬเป็นสื่อการสอนตามชื่อบนป้าย ให้บริการชุมชนสวนยางพารา มองจากริมถนน'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: คนงานกรีดน้ำยางจากต้นยางพาราในสวนยางที่มะละกาในปี 1946 ชวนให้นึกถึงแรงงานในไร่ที่หล่อหลอมชุมชนไร่ของมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: การกรีดยางในสวนยางพาราที่มะละกา (ปี 1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'นิทรรศการในพิพิธภัณฑ์ที่ศูนย์มรดกอินเดียในยะโฮร์บาห์รู ชื่อ ''อาชีพยุคแรก: การกรีดยาง'' มีหุ่นสวมผ้าส่าหรี ถังน้ำยาง และภาพถ่ายสวนยางในอดีตพร้อมคำบรรยายภาษาทมิฬ'
+    kind: actual
+    origin: third-party
+    subject: 'นิทรรศการ ''อาชีพยุคแรก: การกรีดยาง'' ว่าด้วยมรดกไร่ของชาวทมิฬมาเลเซีย ที่ศูนย์มรดกอินเดีย ยะโฮร์บาห์รู'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 ตามชายขอบของเมืองเก่าหลายแห่งในมาเลเซีย สวนยางพาราที่ครั้งหนึ่งเคยแผ่เขียวขจี บัดนี้ได้กลายเป็นเขตที่อยู่อาศัยที่เต็มไปด้วยบ้านเรือนและแถวร้านค้า ท่ามกลางอาคารใหม่เหล่านั้น บางครั้งยังมีวัดอัมมันเก่า ๆ หรือโรงเรียนทมิฬเล็ก ๆ หลงเหลือตั้งอยู่ — ดั่งรอยประทับที่ไม่จางหายของชุมชนหนึ่งที่ถูกโยกย้ายไป

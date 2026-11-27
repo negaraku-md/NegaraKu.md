@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया GBS निवेशकों को कौन-से प्रोत्साहन प्रदान करता है?
     a: मुख्य मार्ग Malaysia Digital (MD) स्थिति है, जो MDEC द्वारा प्रशासित है, और जो स्वीकृत डिजिटल और सेवा गतिविधियों के लिए कर प्रोत्साहन खोल सकती है। 2024 में MDEC ने दो परिणाम-आधारित योजनाएँ पेश कीं — New Investment Incentive और Expansion Incentive — जिनके आवेदन 2027 तक खुले हैं। शर्तें बदलती हैं, इसलिए वर्तमान पात्रता की पुष्टि MDEC या एक कर सलाहकार से करें।
 lang: hi
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - Malaysia Digital
   - ऑफशोरिंग
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'साइबरजया में एक आधुनिक कॉर्पोरेट कार्यालय भवन, जो प्रौद्योगिकी और वैश्विक व्यापार सेवाओं के लिए मलेशिया के प्रमुख केंद्रों में से एक है।'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: मलेशिया के सेलांगोर स्थित साइबरजया बिज़नेस पार्क में काँच और कंक्रीट की एक आधुनिक मध्यम-ऊँचाई की कॉर्पोरेट कार्यालय इमारत।
+    kind: representative
+    origin: third-party
+    subject: मलेशिया के वैश्विक-सेवा केंद्र साइबरजया में कॉर्पोरेट कार्यालय इमारत
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: एक बहुत बड़े खुले-लेआउट कॉल-सेंटर फ़्लोर पर कंप्यूटर वर्कस्टेशनों पर एजेंटों की कतारें।
+    kind: representative
+    origin: third-party
+    subject: बड़ा कॉल-सेंटर कार्यालय फ़्लोर (प्रतिनिधि साझा-सेवा/BPO कार्यस्थल)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 अभी इसी समय साइबरजया या कुआलालंपुर में कहीं, एक एकाउंटेंट लंदन में मुख्यालय वाली किसी कंपनी की मासिक बहियाँ बंद कर रहा है, एक हेल्प-डेस्क एजेंट सिडनी में किसी ग्राहक का टिकट हल कर रहा है, और एक डेटा विश्लेषक जर्मनी में किसी कारखाने के लिए एक डैशबोर्ड बना रहा है। इनमें से कोई भी नियोक्ता मलेशिया में कुछ नहीं बनाता। जो वे यहाँ चलाते हैं वह कुछ कम दृश्य पर तेज़ी से मूल्यवान है: उनका वैश्विक बैक-ऑफिस।

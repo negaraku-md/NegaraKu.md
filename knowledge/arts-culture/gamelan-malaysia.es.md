@@ -33,7 +33,7 @@ faq:
     a: "El juego de gamelán original fue devuelto a Pahang en 1973 y se exhibe en el Museo de Pahang, en Pekan."
 
 lang: "es"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelán Terengganu", "gamelán Pahang", "joget gamelan", "Tengku Ampuan Mariam", "música de corte", "patrimonio nacional"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'Un conjunto completo de gamelan malayo dispuesto bajo una luz cálida, con filas de gongs de caldero de bronce (bonang), un metalófono (saron) y grandes gongs colgantes sobre armazones de madera tallada'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: Un conjunto completo de gamelán malayo dispuesto sobre una alfombra de motivos, con gongs de caldero de bronce, metalófonos, un gong colgante y un tambor sobre soportes de madera tallada
+    kind: actual
+    origin: third-party
+    subject: Conjunto completo de Gamelan Melayu dispuesto en un centro de artes y patrimonio de Malasia
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: Un músico con túnica naranja arrodillado ante un metalófono saron rojo y dorado, golpeando sus barras de bronce con un mazo de madera
+    kind: representative
+    origin: third-party
+    subject: Músico golpeando un metalófono saron (gamelán indonesio, de la misma familia de instrumentos que el Gamelan Melayu)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 El juego de gamelán pasó de una corte a otra no por una venta ni por una confiscación — sino por un matrimonio. Cuando una princesa se trasladaba al palacio de su esposo, los instrumentos, los bailarines y las canciones se trasladaban con ella. Así fue como el gamelán se convirtió en propiedad de las cortes malayas.

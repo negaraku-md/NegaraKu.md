@@ -38,7 +38,7 @@ faq:
     a: "La forma más sencilla es el tren eléctrico KTM ETS desde KL Sentral, que llega a Ipoh en aproximadamente dos a dos horas y media según el servicio, con una opción exprés más rápida introducida en 2024 (Wikipedia; Malay Mail). Conducir por la Autopista Norte-Sur lleva un tiempo similar. Confirma los horarios y tarifas vigentes con KTMB antes de viajar."
 
 lang: "es"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,39 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Conviene a viajeros de patrimonio y gastronomía y a familias que quieren un casco antiguo colonial recorrible a pie, templos en cuevas de piedra caliza y la célebre escena gastronómica de kopitiam de Perak.'
+  getThere: 'Llegue a Ipoh en el tren eléctrico KTM ETS desde KL Sentral hasta la estación del casco antiguo, o conduzca por la autopista Norte-Sur; también hay autobuses exprés que dan servicio a la ciudad.'
+  permit: 'Los templos en cuevas son lugares de culto en activo, así que vista con modestia (cubra hombros y rodillas) y guarde silencio en su interior.'
+  watch: 'A pesar de lo que diga cierta publicidad turística imprecisa, el valle de Kinta es un geoparque nacional, no un Geoparque Mundial de la UNESCO.'
+  next: 'Confirme los horarios y las tarifas vigentes de los trenes con KTMB antes de viajar.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'Vista sobre el verde Padang de Ipoh y el centro histórico de la ciudad con colinas dentadas de piedra caliza elevándose detrás bajo un cielo azul brumoso'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Jardín ajardinado con un estanque y arbustos en flor enclavado entre acantilados kársticos de piedra caliza cubiertos de selva en Kek Lok Tong, Ipoh
+    kind: actual
+    origin: third-party
+    subject: El jardín junto al lago del templo-cueva Kek Lok Tong, rodeado de imponentes acantilados de piedra caliza al sur de Ipoh
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: Fachada con columnata de ladrillo rojo envejecido del Castillo de Kellie con arcos moriscos contra un cielo azul brillante
+    kind: actual
+    origin: third-party
+    subject: El Castillo de Kellie, la inacabada mansión colonial de estilo morisco en Batu Gajah, en el Valle de Kinta
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 El estaño hizo a Ipoh, y luego casi la deshizo. Una aldea sobre el río Kinta se convirtió en una de las ciudades más ricas de la Malaya británica gracias al mineral enterrado bajo el valle de Kinta, se construyó un grandioso centro colonial, y luego vio escaparse el dinero cuando el precio del estaño se desplomó. Lo que conservó fue la arquitectura, las colinas de piedra caliza acribilladas de templos rupestres, y una cocina inusualmente buena. Hoy Ipoh es la escapada urbana de patrimonio y gastronomía más cómoda de Malasia — lo bastante cerca de Kuala Lumpur para una excursión de un día, lo bastante rica para recompensar un fin de semana. Esta guía cubre el paisaje y la historia que la moldearon, qué hay que ver en la ciudad y sus alrededores, la comida en breve, y lo práctico de cómo llegar.

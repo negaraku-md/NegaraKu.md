@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: '蓝天下吉兰丹大学预科学院（Kolej Matrikulasi Kelantan）的学术楼，这是一所提供大学预科途径的马来西亚预科学院。'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: 一所开办大学先修基础课程的马来西亚学院现代化的校园建筑
+    kind: representative
+    origin: third-party
+    subject: 开办大学先修／基础课程的马来西亚学院校园（KDU大学学院，白沙罗再也）
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: 马来西亚一所大学理学与科技学院的实验室大楼
+    kind: representative
+    origin: third-party
+    subject: 马来西亚国民大学理学与科技学院的科学实验室大楼
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 两名学生从同一间 SPM 考场走出来，成绩几乎不相上下。十八个月后，一个正在

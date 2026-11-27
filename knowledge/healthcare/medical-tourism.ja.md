@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'クアラルンプールの Prince Court Medical Centre の外観で、医療観光客に対応するマレーシア有数の私立病院である。'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: サバ州コタキナバルにあるガラス張りの正面を持つ近代的な私立病院の建物
+    kind: actual
+    origin: third-party
+    subject: グレンイーグルス病院、マレーシア・サバ州コタキナバルにある私立医療センター
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: マレーシアの私立病院の案内表示のある救急入口。ロビーや専門医の診療科へ導く案内板がある
+    kind: actual
+    origin: third-party
+    subject: パンタイ病院の救急入口とロビー案内板、ジョホール州バトゥパハの私立病院
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 ジャカルタのある家族は、父親の心臓バイパス手術のためにマレーシアへ飛んでくる。あるイギリス人夫婦は、自国の順番待ちリストが自分たちの妊孕可能期間を超えて延びているため、体外受精（IVF）を予約する。あるバングラデシュ人患者は、地元のクリニックでは実施できない定期健康診断のためにやって来る。

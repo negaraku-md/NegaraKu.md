@@ -36,7 +36,7 @@ socialTitle: "कैसे लातिन वर्णमाला मलय �
 lang: "hi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -78,6 +78,33 @@ verificationNeeded:
   - "मलेशिया में 1972 की वर्तनी प्रणाली का आधिकारिक नाम: विभिन्न स्रोत 'Ejaan Rumi Baharu' और 'Ejaan Rumi Bersama' का उल्लेख करते हैं — DBP के आधिकारिक दिशानिर्देशों के विरुद्ध पुष्टि आवश्यक है"
   - "Za'ba वर्तनी प्रणाली का वर्ष: कुछ स्रोत इसे 1924 में प्रस्तुत बताते हैं और कुछ अन्य इसे 1933 में पूर्ण रूप से संकलित बताते हैं — प्राथमिक स्रोतों के विरुद्ध पुष्टि आवश्यक है"
 framework: history-culture
+wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'एक नीला मलेशियाई सड़क संकेत जिस पर ऊपर जावी लिपि में और नीचे रूमी (लैटिन) अक्षरों में Jalan Pasir Puteh लिखा है, इसके बगल से एक आदमी मोटरसाइकिल पर गुजर रहा है।'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: केलंतान में एक सड़क के किनारे एक नीला सड़क-नाम चिन्ह, जिस पर Jawi लिपि में उसी नाम के नीचे रोमनीकृत Rumi अक्षरों में 'Jalan Pasir Puteh' लिखा है।
+    kind: actual
+    origin: third-party
+    subject: Jawi और Rumi में द्विभाषी सड़क-नाम चिन्ह, केलंतान
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: एक हरा मलेशियाई सड़क चिन्ह, जिस पर रोमनीकृत मलय (Rumi) अक्षरों में 'Persiaran Greentown 4C, Poskod 30450 Ipoh' लिखा है।
+    kind: actual
+    origin: third-party
+    subject: Rumi लिपि में मलय सड़क-नाम चिन्ह, इपोह
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 जब हम आज कोई मलय शब्द पढ़ते हैं — सड़क के संकेत-पट्ट पर, समाचार-पत्र में, फ़ोन की स्क्रीन पर — तो हम उसे उन्हीं अक्षरों में पढ़ते हैं जो अंग्रेज़ी वर्णमाला में हैं: a, b, c, d और आगे। उस लिपि को रूमी लिपि कहते हैं। यह इतनी सामान्य है कि बहुतों को यह एहसास ही नहीं कि रूमी मलय भाषा की मूल लिपि नहीं है, और आज इसका जो स्वच्छ और एकरूप रूप है वह सौ वर्ष से अधिक समय तक चले मानकीकरण के प्रयास का फल है।

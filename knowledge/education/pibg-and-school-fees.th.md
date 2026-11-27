@@ -29,7 +29,7 @@ faq:
     a: "ไม่ การศึกษาที่โรงเรียนประถมและมัธยมรัฐบาลไม่เก็บค่าเล่าเรียน ส่วนค่าธรรมเนียมพิเศษถูกยกเลิกตั้งแต่ปี 2008 ผ่าน SPI ฉบับที่ 13/2007"
 
 lang: "th"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'อาคารหลังคาแดงเตี้ยและสนามหญ้าสีเขียวของโรงเรียนประถมในย่านบริกฟิลด์ส กัวลาลัมเปอร์ โดยมีเส้นขอบฟ้าตึกสูงของ KL Sentral เป็นฉากหลัง'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: อาคารโรงเรียนมัธยมมาเลเซียหลายชั้นพร้อมลานเข้าแถวปูพื้น
+    kind: representative
+    origin: third-party
+    subject: อาคารโรงเรียนมัธยมแห่งชาติมาเลเซีย (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: ผู้ปกครองและครูมารวมตัวกันในหอประชุมโรงเรียนเพื่อประชุมสมาคมผู้ปกครองและครู (PIBG)
+    kind: representative
+    origin: third-party
+    subject: การประชุมใหญ่ของสมาคมผู้ปกครองและครู (PIBG) ที่โรงเรียนมาเลเซีย
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 บุตรของคุณลงทะเบียนเข้าโรงเรียนรัฐบาลที่ "ฟรี" — แต่แบบฟอร์ม PIBG และรายการค่าใช้จ่ายก็ยังส่งมาถึงบ้าน แล้วอะไรกันแน่ที่ต้องจ่าย และอะไรที่ไม่ต้อง?

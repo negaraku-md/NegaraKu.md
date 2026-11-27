@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -76,6 +76,34 @@ festivalFacts:
   when: "Hari pertama bulan pertama kalendar lunar; tarikh Masihi yang sepadan berubah setiap tahun mengikut kalendar lunar, dan tertakluk kepada pengumuman warta rasmi."
   holiday: "Dua hari pertama Tahun Baharu Cina merupakan cuti umum di seluruh negara, dengan asas perundangannya ialah Akta Cuti 1951 (Holidays Act 1951, Act 369) serta warta setiap negeri."
   etiquette: "\"Rumah terbuka\" yang merentas kaum membolehkan saudara-mara dan rakan daripada pelbagai etnik saling berkunjung untuk mengucapkan selamat tahun baharu; hadiah tangan dan sampul merah yang dibawa ketika berkunjung lazimnya dalam jumlah genap sebagai lambang tuah, dan umumnya mengelakkan nombor yang mengandungi angka \"empat\"."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Beratus-ratus tanglung merah dan emas digantung dalam barisan memancar di bawah bumbung berhias Tokong Thean Hou di Kuala Lumpur bertentangan langit biru cerah semasa Tahun Baru Cina'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: Tokong Kek Lok Si di Pulau Pinang bergemerlapan dengan beribu-ribu lampu kelip-kelip berwarna dan tanglung merah pada waktu malam ketika pancaran lampu Tahun Baharu Cina
+    kind: actual
+    origin: third-party
+    subject: Tokong Kek Lok Si di Pulau Pinang bergemerlapan untuk Tahun Baharu Cina
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: Kostum tarian singa putih dan perak mengimbang di atas tiang sambil membuat persembahan di luar rumah kedai di Chinatown Kuala Lumpur ketika Tahun Baharu Cina
+    kind: actual
+    origin: third-party
+    subject: Tarian singa dipersembahkan di atas tiang di Chinatown Kuala Lumpur ketika Tahun Baharu Cina
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 Pada malam tahun baharu, banyak kedai tutup awal, dan lebuh raya dipenuhi kenderaan menuju ke kampung halaman. Menjelang malam, keluarga berkumpul di satu meja — terdapat ikan (melambangkan "lebihan setiap tahun"), seekor ayam utuh, bebola daging yang melambangkan perhimpunan keluarga, serta hidangan yee sang sejuk yang perlu dikacau tinggi dengan penyepit. Makan malam perhimpunan keluarga pada malam tahun baharu ini dianggap oleh ramai keluarga Cina Malaysia sebagai lebih penting daripada hari pertama tahun baharu itu sendiri.

@@ -35,7 +35,7 @@ verificationNeeded:
   - "Confirm current MRT Kajang Line length/station count directly with MRT Corp or Rapid Rail before publication — Ministry of Transport and Rapid Rail's own line page give slightly different figures (51km/31 stations vs 46km/29 stations), which this article has avoided repeating verbatim pending reconciliation."
 
 lang: "es"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["tren Valle de Klang", "Rapid KL", "Línea MRT Kajang", "Línea MRT Putrajaya", "Línea LRT Kelana Jaya", "Monorraíl KL", "KTM Komuter", "Línea Shah Alam", "LRT3", "KL Sentral", "moverse por Kuala Lumpur sin coche", "Klang Valley rail"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'Un elegante tren de la MRT Putrajaya Line rojo y blanco sobre un viaducto elevado contra un cielo dramático: metro moderno del valle de Klang'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: 'Andén subterráneo de MRT moderno y limpio (Tun Razak Exchange) con puertas de andén y una pantalla de llegada de trenes: la vista del interior de la estación. Sin rostros identificables.'
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: 'Un tren del Monorriel de KL trazando una curva en su viaducto elevado pasando junto a una mezquita y el perfil de la ciudad: añade un segundo modo ferroviario y contexto del valle de Klang. Distinto del hero (metro elevado) y del body-1 (estación subterránea).'
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 Mire por primera vez un mapa ferroviario del Valle de Klang y se lee como una

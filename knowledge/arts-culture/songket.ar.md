@@ -33,7 +33,7 @@ faq:
     a: "النساء، تقليديًا. تسجّل اليونسكو أن نسج السونغكيت كان دائمًا في أيدي النساء، بينما يشارك الرجال في الممارسة بصنع أدوات النسج. وتُورَّث المعرفة داخل الأُسر والقرى، كما تقدّم بعض المؤسسات برامج تدريب."
 
 lang: "ar"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,34 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["سونغكيت", "songket", "نسج السونغكيت", "نول الكيك", "kek tenun", "خيط الذهب", "benang emas", "سونغكيت تيرينغانو", "سونغكيت كلنتن"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'لقطة مقرّبة مفصّلة لقماش سونغكيت منسوج يدويًا، حرير أحمر غامق مغطّى بزخارف زهرية ومعيّنة كثيفة مطرّزة بخيط ذهبي لامع، مع لوحة مركزية متباينة'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: قطعة سونغكيت مستطيلة كاملة معروضة مسطّحة، بلوحتين جانبيتين حمراوين بزخارف زهرية من الخيط الذهبي تحيطان بلوحة مركزية ذهبية أفتح
+    kind: actual
+    origin: third-party
+    subject: لفافة ورك سونغكيت ماليزية كاملة (كاين) من تيرينغانو مسطّحة، تُظهر حقل البروكار الذهبي واللوحة المركزية
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: غطاء رأس ملايوي مثلّث مطوي (تنجق) مصنوع من قماش سونغكيت أخضر ذهبي يتلألأ بالخيط المعدني المنسوج، معروض على حامل
+    kind: actual
+    origin: third-party
+    subject: تنجق، غطاء رأس ملايوي مطوي مصنوع من قماش السونغكيت الذهبي، من تيرينغانو
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 الصوت الأكثر تردّدًا في ورشة سونغكيت ليس صوت آلة. إنه صوت خشب يُضغَط، وخيط يُسحَب، وعود خيزران يُدخَل ثم يُسحَب خارجًا — مرّة بعد مرّة، صفّ نقش واحد في كل مرّة، طوال اليوم.

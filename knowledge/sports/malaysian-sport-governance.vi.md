@@ -38,7 +38,7 @@ faq:
     a: "Viện Thể thao Quốc gia (ISN). Nó được đặt trên cơ sở luật định bởi Luật Viện Thể thao Quốc gia 2011 [Act 729] và có chức năng cung cấp dịch vụ, tư vấn và cố vấn về khoa học thể thao cũng như y học thể thao, tiến hành nghiên cứu, và cố vấn cho Bộ trưởng về các khía cạnh khoa học của thành tích vận động viên."
 
 lang: "vi"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }
-related: []
+related: ["badminton-in-malaysia", "football-in-malaysia", "sukma-games"]
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'Mặt tiền bằng lá chớp màu bạc của Sân vận động Quốc gia Bukit Jalil vươn lên phía trên một khoảng sân trống.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: Mặt ngoài tòa nhà Hội đồng Thể thao Quốc gia Malaysia (Majlis Sukan Negara) trong khu phức hợp thể thao Bukit Jalil.
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Hội đồng Thể thao Quốc gia Malaysia (Majlis Sukan Negara) ở Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: Trung tâm Thể thao Dưới nước Quốc gia, một phần của khu phức hợp thể thao quốc gia KL Sports City ở Bukit Jalil, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Trung tâm Thể thao Dưới nước Quốc gia trong khu phức hợp thể thao quốc gia KL Sports City
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 Một câu lạc bộ bóng đá mới ở Johor có thể mua áo đấu, thuê sân và đăng ký cầu thủ — nhưng nó vẫn không thể hợp pháp cử bất kỳ ai đại diện cho "Malaysia" đến bất kỳ giải đấu nào. Lý do không phải tiền bạc hay tài năng. Đó là vấn đề ai cho phép. Ở Malaysia, quyền tồn tại như một cơ quan thể thao, quyền được tài trợ, và quyền mang tên đất nước đến từ bốn thiết chế khác nhau thường bị nhầm lẫn là một.

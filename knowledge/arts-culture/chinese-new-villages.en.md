@@ -32,7 +32,7 @@ faq:
   - q: "What contemporary issues do the New Villages face?"
     a: "Common issues include land tenure (some plots held on a Temporary Occupation Licence / TOL or a 99-year leasehold title rather than freehold), an ageing population and youth out-migration, and ageing infrastructure. Recent years have also seen initiatives to list New Villages as heritage and to revitalise the communities through murals, food trails and village histories."
 lang: "en"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'A weathered single-storey timber-and-zinc house typical of a Malaysian Chinese New Village, fronting a quiet residential street with cars parked alongside.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: The ornamental entrance archway marking the way into Broga, a Chinese new village in Negeri Sembilan, with hills behind.
+    kind: actual
+    origin: third-party
+    subject: Entrance archway of Broga New Village, Negeri Sembilan
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: A street corner in Seri Setia New Village, Petaling Jaya, with a painted wall mural and red Chinese New Year lanterns and decorations.
+    kind: actual
+    origin: third-party
+    subject: Wall mural and Chinese New Year decorations at Seri Setia New Village, Petaling Jaya, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 Walk into Semenyih, Kampar or Sekinchan today and what you mostly see is the ordinary face of a small town: rows of shophouses, a Chinese primary school, temples and clan associations, roadside kopitiams and sundry shops. But many of these places share a common identity — they are "New Villages". Behind this seemingly plain label lies a history of the [Malayan Emergency](/en/malaysia/the-emergency), counter-insurgency and mass relocation.

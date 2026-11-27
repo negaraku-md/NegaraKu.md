@@ -29,7 +29,7 @@ faq:
     a: "இது NADMA அறிவுறுத்தல் எண் 1 (Arahan NADMA No. 1) ஆல் மாற்றப்பட்டுள்ளது; இது 1 August 2024 அன்று பிரதமர் தலைமையில் நடைபெற்ற தேசிய பாதுகாப்பு மன்ற (Majlis Keselamatan Negara, MKN) கூட்டத்தில் அங்கீகரிக்கப்பட்டது."
 
 lang: "ta"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'மலேசியாவின் சபாவில் உள்ள சண்டகானில் கடுமையான பருவமழையின் போது வெள்ள நீர் ஒரு கிராமப்புற பகுதியை மூழ்கடிக்கிறது.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: ஒரு தேடுதல் மற்றும் மீட்பு நடவடிக்கையின்போது வெள்ள நீரைக் கடக்கும் தட்டையான அடிப்பகுதி படகில் உள்ள ஒரு நீர் மீட்புக் குழு
+    kind: representative
+    origin: third-party
+    subject: ஒரு தேடுதல் நடவடிக்கையின்போது படகில் உள்ள வெள்ள மீட்புக் குழு (பிரதிநிதித்துவக் காட்சி)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: ஒரு கட்டிடத்தைச் சுற்றி உயரும் வெள்ள நீரைத் தடுக்க எழுப்பப்பட்ட மணல் மூட்டைகளின் ஒரு பாதுகாப்புச் சுவர்
+    kind: representative
+    origin: third-party
+    subject: மணல் மூட்டை வெள்ளத் தடுப்பு அரண் (பிரதிநிதித்துவக் காட்சி)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 பல மாநிலங்களைப் பெரும் வெள்ளம் ஒரே நேரத்தில் தாக்கும்போது, இராணுவம், தீயணைப்புப் படை, காவல்துறை மற்றும் தன்னார்வலர்களை ஒரே கட்டளையின் கீழ் ஒருங்கிணைக்க யார் பொத்தானை அழுத்துகிறார்கள்? மலேசியாவில், அதற்கான பதில் NADMA.

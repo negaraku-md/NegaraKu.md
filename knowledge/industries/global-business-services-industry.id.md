@@ -31,7 +31,7 @@ faq:
   - q: Insentif apa yang ditawarkan Malaysia kepada investor GBS?
     a: Jalur utamanya adalah status Malaysia Digital (MD), yang dikelola oleh MDEC, yang dapat membuka insentif pajak bagi aktivitas digital dan jasa yang disetujui. Pada 2024 MDEC memperkenalkan dua skema berbasis-hasil — New Investment Incentive dan Expansion Incentive — dengan permohonan terbuka hingga 2027. Ketentuan berubah, jadi konfirmasikan kelayakan terkini dengan MDEC atau penasihat pajak.
 lang: id
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - Malaysia Digital
   - offshoring
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'Sebuah gedung perkantoran korporat modern di Cyberjaya, salah satu pusat utama Malaysia untuk teknologi dan layanan bisnis global.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: Sebuah gedung kantor korporat kaca dan beton bertingkat sedang yang modern di kawasan bisnis Cyberjaya, Selangor, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Gedung kantor korporat di Cyberjaya, pusat layanan global Malaysia
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Deretan agen di stasiun kerja komputer di seluruh lantai pusat panggilan berdenah terbuka yang sangat besar.
+    kind: representative
+    origin: third-party
+    subject: Lantai kantor pusat panggilan yang besar (mewakili tempat kerja layanan bersama/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 Di suatu tempat di Cyberjaya atau Kuala Lumpur saat ini, seorang akuntan sedang menutup pembukuan bulanan bagi sebuah perusahaan yang berkantor pusat di London, seorang agen help-desk sedang menyelesaikan tiket bagi pelanggan di Sydney, dan seorang analis data sedang membangun dasbor bagi sebuah pabrik di Jerman. Tak satu pun dari pemberi kerja itu memproduksi apa pun di Malaysia. Yang mereka jalankan di sini adalah sesuatu yang kurang kasatmata tetapi kian bernilai: back office global mereka.

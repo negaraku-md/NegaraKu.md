@@ -31,7 +31,7 @@ faq:
   - q: सरकार रसायन उद्योग का समर्थन कैसे करती है?
     a: मलेशियन इन्वेस्टमेंट डेवलपमेंट अथॉरिटी (MIDA), अपने Chemical and Advanced Material Division के माध्यम से, विनिर्माण लाइसेंसों का मूल्यांकन करती है और Pioneer Status तथा Investment Tax Allowance जैसे प्रोत्साहन प्रदान करती है। पेट्रोलियम और पेट्रोरसायन परियोजनाएँ Petroleum Development Act 1974 के अंतर्गत भी शासित होती हैं। Chemical Industry Roadmap 2030 और New Industrial Master Plan 2030 विशिष्ट, उच्च-मूल्य रसायनों की ओर रणनीतिक दिशा तय करते हैं।
 lang: hi
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'रात में रोशन एक विशाल पेट्रोरसायन रिफाइनरी परिसर, जिसके आसवन स्तंभ और पाइपलाइन चमक रहे हैं, जलमार्ग के पास गैस जलाती एक फ्लेयर स्टैक के बगल में।'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: नेगेरी सेम्बिलन में पोर्ट डिक्सन के पूर्व में स्थित Hengyuan तेल रिफ़ाइनरी के आसवन स्तंभ और भंडारण टंकियाँ, दिन के उजाले में।
+    kind: actual
+    origin: third-party
+    subject: नेगेरी सेम्बिलन में पोर्ट डिक्सन स्थित Hengyuan तेल रिफ़ाइनरी
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: साबाह के किमानिस में Sabah Oil and Gas Terminal (SOGT) का फ़्लेयर स्टैक और प्रसंस्करण संरचनाएँ, दिन के आकाश के नीचे।
+    kind: actual
+    origin: third-party
+    subject: किमानिस में Sabah Oil & Gas Terminal (SOGT)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 प्लास्टिक, उर्वरक, डिटर्जेंट, सिंथेटिक रबर, सौंदर्य-प्रसाधन, पेंट और आपके फ़ोन के कवर के भीतर की रेज़िन — ये सब रसायनों के रूप में शुरू होते हैं — और इनका, या इनके निर्माण-खंडों का, एक आश्चर्यजनक हिस्सा मलेशिया में बनता है। देश की बेहतर-ज्ञात तेल-और-गैस तथा पाम-तेल कहानियों के पीछे एक बड़ा, चुपचाप रणनीतिक रसायन एवं पेट्रोरसायन उद्योग बैठा है जो कच्चे हाइड्रोकार्बन और वनस्पति तेलों को उन सामग्रियों में बदलता है जिन पर आधुनिक जीवन निर्भर करता है।

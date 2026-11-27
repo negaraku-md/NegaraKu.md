@@ -41,7 +41,7 @@ faq:
     a: "正確な日付には議論がある。全国統括団体の設立を1926年とする記録もあれば、シンガポールを拠点とするマラヤサッカー協会（Football Association of Malaya）がマラヤカップの運営を引き継いだ1933年を指す記録もある。明確で確認できるのは、今日における全国統括団体としての役割、AFC加盟団体としての立場、そして1984年のAFF創設団体としての地位である。"
 
 lang: "ja"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: '照明に照らされ観客で埋め尽くされたブキ・ジャリル国立競技場が、進行中のサッカーの試合を見下ろしている。'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: ヌグリ・スンビラン州スレンバン、パロイのスタジアム・トゥアンク・アブドゥル・ラーマンのピッチで行われるサッカーの試合。
+    kind: actual
+    origin: third-party
+    subject: ヌグリ・スンビラン州パロイのスタジアム・トゥアンク・アブドゥル・ラーマンでのサッカーの試合
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: スランゴール州プタリン・ジャヤ、コタ・ダマンサラの住宅街にある屋外の公共フットサルコート。
+    kind: actual
+    origin: third-party
+    subject: スランゴール州コタ・ダマンサラの地域のフットサルコート。マレーシアの競技を支える草の根の舞台
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 1921年、シンガポールはマラヤで行われた新しいサッカー大会の決勝でスランゴールを2対1で破った。それから1世紀以上を経た今も、その大会——現在はマレーシアカップとして知られる——は、この国で最も愛されるスポーツにおける最も権威ある栄冠であり続けている。

@@ -60,6 +60,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: 'Bức phù điêu sơn màu quốc huy Malaysia, với hai con hổ đứng hai bên một chiếc khiên bên dưới hình trăng lưỡi liềm và ngôi sao, phía trên là phương châm Bersekutu Bertambah Mutu.'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jata Negara: Đọc tấm khiên quốc gia của Malaysia, từng yếu tố một

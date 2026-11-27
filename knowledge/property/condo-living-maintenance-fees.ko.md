@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "반도 말레이시아 또는 연방 직할지 라부안에서 콘도미니엄, 아파트, 기타 구분소유(strata) 부동산의 세대를 소유·매수·임차하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,32 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: '쿠알라룸푸르의 푸른 하늘을 배경으로 솟아 있는 빨간색과 흰색의 고층 주거용 콘도미니엄 타워.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: 쿠알라룸푸르 암팡 위로 여러 콘도미니엄 타워가 함께 솟아 있다. 이 고층 단지의 입주민들은 엘리베이터·수영장·경비를 유지하는 관리비를 함께 분담한다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 암팡의 콘도미니엄 타워 군집
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: NKVE(북부 클랑밸리 고속도로)에서 바라보면 Riana Green 콘도미니엄의 여러 타워가 페탈링자야의 녹음 속에 나란히 솟아 있다. 출입이 통제되는 스트라타(strata) 개발 단지로, 입주민들이 관리비와 적립기금(sinking fund)을 함께 분담한다.
+    kind: actual
+    origin: third-party
+    subject: NKVE에서 바라본 페탈링자야 Riana Green 콘도미니엄 군집
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 당신은 세대를 샀습니다. 엘리베이터, 경비실, 수영장, 이웃과 공유하는 벽 속을 지나는 배관을 산 것은 아닙니다. 그럼에도 누군가는 그 모든 것에 대한 비용을 내야 합니다 — 그리고 법은 그 청구서를 법적으로 분리해 두어야 하는 두 개의 계좌로 나눕니다.

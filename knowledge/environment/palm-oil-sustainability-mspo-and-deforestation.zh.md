@@ -34,7 +34,7 @@ faq:
     a: "EUDR 于 2023 年 6 月 29 日生效。经多次延期后，相关义务自 2026 年 12 月 30 日起适用于大型经营者和贸易商，自 2027 年 6 月 30 日起适用于微型和小型企业。"
 
 lang: "zh"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: '一条土路旁，一排排枝叶繁茂的油棕覆盖着山坡，背后是雾气缭绕的绿色群山'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: 航拍景观：几何形的油棕地块和裸露的开垦地紧逼着残存的深绿色森林
+    kind: actual
+    origin: third-party
+    subject: 航拍婆罗洲雨林中被开辟出的油棕空地，展现森林因种植园扩张而消失
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: 连绵起伏的绿色丘陵种满幼年油棕，在明亮的蓝天下一直延伸到远处的山脊
+    kind: actual
+    origin: third-party
+    subject: 柔佛丰盛港县（Mersing）覆盖起伏丘陵的广袤油棕种植园
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 马来西亚生产全球约五分之一的棕榈油，长期以来，该行业因与森林砍伐的关联而饱受欧洲及非政府组织活动人士的批评。作为回应，该国如今推行一项强制性的、由国家支持的认证方案，而欧盟已于 2025 年 9 月 5 日在一份联合声明中认可了这一方案。本文将说明 MSPO 如何运作、它能证明与不能证明什么，以及棘手的难题仍集中在何处。

@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana คือพจนานุกรมอ้างอิงดิจิทัลทางการของ DBP ซึ่งเป็นส่วนหนึ่งของวาระการเปลี่ยนผ่านสู่ดิจิทัลเพื่อจัดเตรียมแพลตฟอร์มอ้างอิงภาษามลายูที่ครอบคลุมและเข้าถึงได้ฟรีที่ kamus.dbp.gov.my"
 
 lang: "th"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'อาคารหอคอยสูง Dewan Bahasa dan Pustaka ในกัวลาลัมเปอร์ในชั่วโมงทอง ชื่อและตราสัญลักษณ์อยู่บนยอดอาคารเหนือสนามหญ้าที่เรียงรายด้วยต้นไม้'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: ภาพโมเสกสไตล์คิวบิสม์ขนาดใหญ่หลากสีที่แสดงวิถีชีวิตมาเลเซียบนด้านหน้าอาคารเดวันบาฮาซาดันปุสตากา โดยมีอาคารสำนักงานตั้งตระหง่านอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: ภาพโมเสกขนาดใหญ่บนฐานอาคารเดวันบาฮาซาดันปุสตากาพร้อมป้าย 'Bahasa Bangsa Negara' และอาคารสูงด้านหลัง กัวลาลัมเปอร์
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: ซุ้มทางเข้าหลังคาจั่วอันสง่างามของอาคารเดวันบาฮาซาดันปุสตากา กรุด้วยแผ่นสลักลายมลายูอันวิจิตรเหนือบันไดกว้าง
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าหลักของเดวันบาฮาซาดันปุสตากาพร้อมแผ่นสลักลายมลายูและบันไดอันสง่างาม กัวลาลัมเปอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 ทุกครั้งที่คุณตรวจสอบการสะกดของคำมลายู พบศัพท์วิทยาศาสตร์ใหม่ หรืออ่านตำแหน่งของนักวรรณศิลป์แห่งชาติ มีสถาบันหนึ่งอยู่เบื้องหลัง นั่นคือ เดวันบาฮาซาดันปุสตากา

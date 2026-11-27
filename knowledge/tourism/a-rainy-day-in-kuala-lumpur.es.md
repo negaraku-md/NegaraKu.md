@@ -33,7 +33,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["día lluvioso Kuala Lumpur", "qué hacer bajo techo en KL", "KL en transporte público", "paso KLCC Bukit Bintang", "Suria KLCC tren", "Aquaria KLCC cómo llegar", "Petrosains", "Muzium Negara MRT", "centros comerciales de KL en tren"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'Un aguacero tropical cayendo en línea sobre un viejo edificio comercial de tejado de tejas en Jalan Panggong, en el casco antiguo de Kuala Lumpur'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: La fachada Art Déco azul pálido del Central Market (Pasar Seni) de Kuala Lumpur, con el rótulo 'Central Market Since 1888'
+    kind: actual
+    origin: third-party
+    subject: Fachada Art Déco del Central Market (Pasar Seni), Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: La concurrida galería cubierta de dos niveles dentro del Central Market de Kuala Lumpur, flanqueada por puestos de artesanía y batik bajo banderas estatales colgantes
+    kind: actual
+    origin: third-party
+    subject: Interior de la galería cubierta de artesanía del Central Market, Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 La lluvia en Kuala Lumpur llega rápida y fuerte, y un plan al aire libre puede

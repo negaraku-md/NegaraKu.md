@@ -30,7 +30,7 @@ faq:
     a: "Les élèves des SJKC et des SJKT peuvent poursuivre dans une école secondaire nationale (SMK, avec le malais comme langue d'enseignement) ou, pour certains élèves de SJKC, dans une école secondaire de type national (SMJK), qui est elle aussi une école publique/subventionnée par l'État. La transition de la langue d'enseignement du primaire au secondaire national est accompagnée par des classes de transition pour les élèves qui en ont besoin."
 
 lang: "fr"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'Le bâtiment de plain-pied de la Sekolah Kebangsaan Tungku, une école primaire nationale malaisienne à Sabah, arborant le drapeau de la Malaisie, avec la devise de l''école peinte sur son mur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: Bâtiment et panneau d'une école primaire chinoise de type national, la SJK(C) Chong San.
+    kind: actual
+    origin: third-party
+    subject: Une école chinoise de type national, la SJK(C) Chong San à Bagan Datuk, Perak
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: Bâtiment et panneau d'une école primaire tamoule de type national, la SJK(T) Saraswathy.
+    kind: actual
+    origin: third-party
+    subject: Une école tamoule de type national, la SJK(T) Saraswathy à Sungai Buloh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 Chaque année, à l'ouverture de la période d'inscription, des parents de toute la Malaisie se connectent au portail idMe du ministère de l'Éducation de Malaisie (KPM) pour inscrire leur enfant en 1re année. L'un des premiers choix qu'ils doivent faire : SK, SJKC ou SJKT ?

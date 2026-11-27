@@ -35,7 +35,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["大学定金 马来西亚", "MQA 认证查核", "MQR mqr.gov.my", "我的课程认证了吗", "学院退款政策 马来西亚", "双联 3+0 颁发机构", "私立大学 马来西亚 IPTS", "Act 555", "缴付大学学费之前"]
 framework: how-to
+stayFacts:
+  who: '这适用于已持有学院录取通知、即将缴付订金或注册费的学生与家长——这往往是最先投入、且常常不可退还的一笔钱。'
+  how: '在缴付之前，以书面形式查证五件事：确切的课程已列入MQR；该院校是注册在案的办学机构（根据Private Higher Educational Institutions Act 1996 (Act 555)（1996年私立高等教育机构法令〔Act 555〕）注册的IPTS，或获承认的公立大学或分校）；若属双联（twinning）或3+0课程，最终证书由谁颁发；整个课程完整的书面收费明细；以及退款与退学条款。'
+  cost: '订金只是其中一小部分——请索取整个课程完整的书面收费明细（注册费、每学期学费、资源费、考试费、保险费与国际学生费），而不只是第一年的，并确认订金可抵扣哪一项费用。'
+  watch: '订金往往不可退还，且全国并无法定的冷静期（cooling-off）权利——你能拿回多少，取决于院校自身的书面政策。所谓「保证升读Year 3」是合作大学的决定，而非本地学院说了算；务必取得书面凭证。'
+  next: '在任何款项离开你的账户之前，把向院校提出的每一项查核都以书面形式确认并保留回复；并先在MQR上查证确切的课程。参阅MQA认证说明。'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: '黄昏时分泰莱大学（Taylor''s University）湖畔校区的塔楼倒映在湖中，主楼上有红色的「TAYLOR''S UNI」标志。'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI与UCD马来西亚校区的玻璃幕墙外观，这类私立大学通常会要求新生缴付入学订金。
+    kind: actual
+    origin: third-party
+    subject: 槟城RCSI与UCD马来西亚校区（RUMC）
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: 双威大学校园内一座现代化教学楼，申请者在报读这所私立学府前，会先权衡学费与订金。
+    kind: actual
+    origin: third-party
+    subject: 双威镇双威大学校园大楼
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 定金通常是一个家庭交给学院的第一笔钱——而且一旦缴出，它往往是最难拿回来的。

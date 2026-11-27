@@ -59,6 +59,32 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Densely forested green mountain ridges rolling into successive paler blue ridgelines toward the horizon, under a bright blue sky dotted with white clouds.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: Neatly contoured rows of bright green tea bushes blanketing the rolling hills of the Bharat plantation in the Cameron Highlands under a soft sky.
+    kind: actual
+    origin: third-party
+    subject: The Bharat tea plantation in the Cameron Highlands, part of the Titiwangsa Range, Pahang
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: Tudor-style cottages and a restaurant nestled among lush green forested slopes at the Fraser's Hill station in the Titiwangsa mountains.
+    kind: actual
+    origin: third-party
+    subject: Fraser's Hill (Bukit Fraser), a colonial-era hill station in the Titiwangsa Range, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 Drop a coconut on the west side of a ridge in central Perak and, eventually, its rot will reach the Strait of Malacca. Drop one a few hundred metres east, on the other side of the same ridge, and it ends up in the South China Sea. Nothing else about the landscape changes. Just which side of the line it fell on.

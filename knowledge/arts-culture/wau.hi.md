@@ -35,7 +35,7 @@ verificationNeeded:
   - "'राष्ट्रीय वाउ' की सूची जो अक्सर मजलिस पेलायांग मलेशिया (Majlis Pelayang Malaysia) से जोड़ी जाती है (वाउ बुलान, वाउ कुचिंग, वाउ जाला बुदी) — इसके बारे में कोई आधिकारिक प्रकाशन नहीं मिला।"
 
 lang: "hi"
-sourceContentHash: "dca70ac2ef9b33e2"
+sourceContentHash: "f93dc2d235555992"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "वाउ", "वाउ बुलान", "पारंपरिक पतंग", "layang-layang tradisional", "केलंतान शिल्प", "Adiguru Kraf wau"]
 framework: history-culture
+hero: '/media/arts-culture/wau/hero.webp'
+heroAlt: 'एक हल्की दीवार पर लगा एक बड़ा सजावटी वाउ बुलान पतंग, जिसका चौड़ा अर्धचंद्राकार शरीर चमकते सुनहरे, गुलाबी और नीले पन्नी के फूलदार नक़्शों से ढका है, ऊपर झालरदार फुँदना और नीचे WAU BULAN लिखा लेबल'
+heroCredit: 'D.W. Fisher-Freberg / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: एक वाउ की सतह का निकट दृश्य जिसमें एक गहरे काग़ज़ी पृष्ठभूमि पर काले से रेखांकित इंद्रधनुषी फ़िरोज़ी और सुनहरे पन्नी में हाथ से काटी गई पुष्प और पत्ती की आकृतियाँ हैं, और निचले दाएँ कोने में एक मैजेंटा फूल है
+    kind: actual
+    origin: third-party
+    subject: एक केलंतान वाउ पर जटिल कटे-काग़ज़ और पन्नी की पुष्प सजावट का निकट दृश्य
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: एक लकड़ी की कार्यशाला के अंदर, गुलाबी, सुनहरी और टील पन्नी में बने कई पूर्ण वाउ पैनल एक पतले बाँस के पतंग-ढाँचे के बगल में लटके हैं जो तनी हुई डोरियों से बँधा है, पृष्ठभूमि में एक मेज़ पर निर्माता आंशिक रूप से दिख रहा है
+    kind: actual
+    origin: third-party
+    subject: एक पतंग-निर्माता की कार्यशाला में तैयार वाउ के शरीर और एक खाली बाँस का वाउ-ढाँचा
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 वाउ को देखने से पहले आप उसे सुनते हैं। एक ठीक से बना पारंपरिक वाउ पूरे समय गुनगुनाता रहता है जब तक वह हवा में रहता है — हवा की आवाज़ नहीं, बल्कि जानबूझकर उसकी बनावट में गढ़ा गया एक स्वर।

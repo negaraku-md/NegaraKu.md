@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 
 status: "published"
 aiAssisted: true
@@ -61,9 +61,35 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'クアラルンプールの近代的なガラス張りの専門病院で、前を軽量鉄道の列車が通過している。'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: マレーシアの政府病院の高層タワー棟。登録を受けた医療従事者や医療関連専門職が働くような施設を表している
+    kind: actual
+    origin: third-party
+    subject: クイーン・エリザベス病院、サバ州コタキナバルにある政府の三次医療病院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: バイオセーフティキャビネットと機器を備えた実験室で2人の保健科学スタッフが談笑しており、登録を要する医療関連専門職と検査技師の職種を表している
+    kind: representative
+    origin: third-party
+    subject: マレーシアの医学研究所でバイオセーフティキャビネットのそばで話す検査室スタッフ
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 白衣をまとい、診療所の壁に証書を掛け、自らを「医師」と名乗ることは誰にでもできる——しかし、その資格を本当に裏付けるものはただ一つ、その名前が公式の登録簿に存在することだけである。マレーシアでは、すべての医師、看護師、薬剤師、理学療法士は、それぞれの専門職を規制する監督機関に登録しなければならない。朗報は、これを自分自身で、無料で確認できることである。

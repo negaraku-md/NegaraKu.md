@@ -64,9 +64,35 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'A truck loaded with large tropical hardwood logs travels along a wet road beside rainforest in Sarawak.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: Aerial view of oil palm plantations covering cleared forest land in Sarawak, Borneo
+    kind: actual
+    origin: third-party
+    subject: Oil palm plantations on former forest land, Sarawak
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: Stacked tropical hardwood logs at a timber storage and shipping yard in Kalabakan, Sabah
+    kind: actual
+    origin: third-party
+    subject: Timber log storage yard, Kalabakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 A longhouse community says a stretch of forest has belonged to it for generations. A timber or plantation company holds a licence, issued by the state, that covers the same ground. Both point to the law. In Sarawak and Sabah, that collision has been argued in courtrooms for more than two decades — and the courts have not always agreed on where the line falls.

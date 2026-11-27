@@ -32,7 +32,7 @@ faq:
     a: "El Departamento de Territorios Federales (JWP), dependiente del Departamento del Primer Ministro, coordina la política y el desarrollo en los tres territorios a nivel federal, mientras que DBKL, la Corporación de Putrajaya y la Corporación de Labuan son las autoridades locales que llevan a cabo los asuntos cotidianos como la concesión de licencias, la planificación urbana y los servicios municipales en sus respectivos territorios."
 
 lang: "es"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Territorio Federal", "Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "sin Asamblea Legislativa Estatal", "Alcalde nombrado", "DBKL Corporación de Putrajaya Corporación de Labuan", "Departamento de Territorios Federales", "Artículo 1 de la Constitución Federal", "administración de los territorios federales", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'Putrajaya al otro lado del lago, con la Mezquita Putra de cúpula rosada y su alto alminar a la izquierda y el complejo gubernamental Perdana Putra de cúpula verde a la derecha bajo un cielo nublado.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: El edificio administrativo de la Corporación de Putrajaya, la autoridad local que gobierna el territorio federal de Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Sede de Perbadanan Putrajaya (Corporación de Putrajaya), la autoridad local del territorio federal de Putrajaya
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: La fachada abovedada del Palacio de Justicia de Putrajaya, con el escudo federal de Malasia, un edificio gubernamental del territorio federal
+    kind: actual
+    origin: third-party
+    subject: Palacio de Justicia (Istana Kehakiman), un edificio del gobierno federal en Putrajaya
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 En un estado hay un Sultán o Yang di-Pertua Negeri, hay un Menteri Besar o Ministro Principal, y hay una Asamblea Legislativa Estatal elegida por el pueblo. En Kuala Lumpur, Putrajaya y Labuan no existe nada de eso. Estos tres lugares no son estados — son Territorios Federales, y son administrados directamente por el Gobierno Federal.

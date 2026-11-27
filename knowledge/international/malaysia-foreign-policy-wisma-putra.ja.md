@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,25 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'ウィスマ・プトラへのヤシ並木の進入路。Wisma Putra Kementerian Luar Negeri Malaysiaの看板と、その先の省のタワーが見える'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: プトラジャヤにある、州旗と門衛所を備えたWisma Putra複合施設の入口を広く見渡した様子
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤのWisma Putraの入口と門衛所を広く見た様子
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 アメリカがマレーシア経済における最大の外国投資家であり、一方で中国が最大の貿易相手国であるとき、開放的な小国にはどちらかに肩入れする余裕はない。だからこそ、マレーシアの外交政策は何十年もの間、口にするのはたやすいが守るのは難しい一つの言葉——中立——に基づいてきた。その均衡を日々守る任務を担う省庁が、Wisma Putraである。

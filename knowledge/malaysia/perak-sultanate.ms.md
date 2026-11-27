@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang mencari gambaran bersumber tent
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "Tarikh tepat sistem penggiliran gelaran-takhta mula ditubuhkan: sumber naratif menjejaki asal usulnya kepada abad ke-17 tetapi tidak memberikan satu tarikh pengasasan berwibawa tunggal; susunan moden bersandarkan satu ketetapan bertarikh 25 Februari 1953."
   - "Tahun pengasasan tepat lazimnya diberikan sebagai 1528 (tahun Mahmud Shah Melaka mangkat di Kampar), tetapi sesetengah salasilah meletakkan pertabalan Muzaffar Shah I beberapa tahun lebih awal atau lewat."
 framework: history-culture
+hero: '/media/malaysia/perak-sultanate/hero.webp'
+heroAlt: 'Sebuah istana diraja putih yang dimahkotai kubah bawang bersalut emas berdiri di belakang pagar sempadan hitam putih yang berukir di atas bukit hijau di bawah langit cerah.'
+heroCredit: 'Gerd Fahrenhorst / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: Masjid putih yang dinobatkan dengan kubah besar berbentuk bawang keemasan diapit kubah bersalut emas yang lebih kecil dan empat menara ramping, berkilauan di bawah langit cerah; Masjid Ubudiah diraja di Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: Masjid Ubudiah, masjid diraja Perak di Kuala Kangsar, dengan kubah keemasannya
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: Istana era kolonial berwarna krim yang anggun dengan tingkap berlengkung, susur tangga berhias dan fasad simetri dimahkotai menara kecil, terletak di belakang halaman rumput di bawah langit cerah; Istana Hulu di Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: Istana Hulu, bekas istana diraja Perak di Kuala Kangsar, kini Galeri Sultan Azlan Shah
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 Apabila Melaka jatuh kepada meriam Portugis pada 1511, dinasti yang telah menjadikan Selat itu masyhur tidak mati bersama kota itu. Sultan terakhirnya, Mahmud Shah, berundur ke hulu kepulauan dan meninggalkan dua orang putera; seorang akan mengasaskan semula wangsa diraja di hilir di Johor, seorang lagi akan membawa mahkota Melaka lama ke utara, ke sebuah lembah sunyi yang dialiri sebatang sungai yang beting pasirnya berkilauan dengan bijih timah. Kerajaan utara itu menjadi Perak, dan hampir lima abad kemudian ia masih diperintah oleh keturunan darah yang sama, kini oleh seorang sultan yang takhtanya diwariskan bukan daripada bapa kepada anak tetapi di sepanjang satu tangga putera yang bergerak. Inilah kisah bagaimana sebuah dinasti yang kalah bertahan hidup, menjadi kaya dengan bijih timah, kehilangan kedaulatannya kepada Britain menerusi satu perjanjian, dan bertahan hingga ke hari ini.

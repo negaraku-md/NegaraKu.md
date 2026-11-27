@@ -33,7 +33,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "マレーシアにおける会計の学習・資格取得ルート"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'マレーシアで会計士になる方法を検討している学生やキャリアチェンジを目指す人で、学位、ACCA、CIMA、またはその他の専門職ルートを比較している人向け。'
+  how: 'まず到達点を定めること：Accountants Act 1967 に基づき、マレーシア会計士協会（MIA、Malaysian Institute of Accountants）の会員となったとき、法的に専門職会計士となる。MIAに至る道は3つある——承認された学位＋実務経験；承認された専門職団体（ACCA、CIMAなど）＋実務経験；またはMIA資格試験（MIA Qualifying Examination）＋実務経験。ACCAは監査・会計事務所での実務や国際的な通用性に向いており、CIMAは管理会計や事業会社に向いている。'
+  cost: '費用、試験の科目数、認証を受けた学位に付与される免除の数は、いずれも認証サイクルごとに変わる。そのため、現在の数字は専門職団体、受験対策の教育機関、大学のそれぞれから自分で集計すること——どこかで示された免除の数に頼ってはならない。'
+  watch: 'ACCAやCIMAそれ自体では、マレーシアの会計士にはなれない——会計士となるのはMIAの会員資格によってであり、資格＋実務経験がそこに至るルートである。免除の数は、このテーマの中で最も変わりやすい事実であるため、課程ごとに確認すること。'
+  next: '自分が働きたい場所に、その典型的な進路が合致する団体を選び、それが現在MIAの会員資格につながること、そしてどのような実務経験が求められるかを確認したうえで、入口、学習形態、免除を最適化すること。詳しくは「カレッジの保証金を払う前に」を参照のこと。'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'マレーシアの大学の講義棟群で、「KOMPLEKS DEWAN KULIAH」と書かれた看板のそばに、えび茶色の校舎と屋根付きの通路がある。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: マレーシアの大学講堂に段状に並ぶ座席。学位課程や専門会計課程の学生が授業を受ける類の講堂である。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・サバ大学の大学講堂
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: マラヤ大学図書館に静かに並ぶ個人用の学習机。学生が学位課程やACCA・CIMAの試験に取り組む場である。
+    kind: representative
+    origin: third-party
+    subject: マラヤ大学図書館の学習机
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 マレーシアで会計士になる方法を考える人は、誰もがアルファベットの羅列にぶつかります——**MIA、ACCA、CIMA、MICPA、ICAEW、CPA Australia、CA(M)、CGMA、QE。** それは、どれかを選ばねばならない競合資格のメニューに見えます。しかし実は、**一つのゴールと、そこへ至るいくつかの道**と捉えたほうがよいのです——そしてゴールが見えれば、選択は自ずと定まります。

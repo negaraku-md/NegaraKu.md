@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "fr"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
   - { rel: "related-to", to: "melaka-sultanate" }
-related: []
+related: ["iskandar-malaysia-guide", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'La mosquée d''État Sultan Abu Bakar de style victorien et de couleur blanche, avec deux hautes tours de minaret jumelles et des dômes noirs sous un ciel couvert.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: Un long rivage de sable doré bordé de filaos rencontre les vagues calmes de la mer de Chine méridionale à Desaru, sur la côte est de Johor.
+    kind: actual
+    origin: third-party
+    subject: Plage de Desaru, Johor
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: Du sable blanc et des eaux peu profondes d'un turquoise limpide bordent le rivage boisé et planté de palmiers de l'île de Pulau Rawa, au large de la côte est de Johor.
+    kind: actual
+    origin: third-party
+    subject: Pulau Rawa (île de Rawa), Johor
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 L'économie de Johor est définie par son voisin. En tant qu'État le plus méridional de la

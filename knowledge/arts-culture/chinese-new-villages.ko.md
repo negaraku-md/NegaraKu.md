@@ -32,7 +32,7 @@ faq:
   - q: "신촌은 어떤 오늘날의 과제에 직면해 있나요?"
     a: "흔한 과제로는 토지 보유(일부 필지는 영구 소유권이 아니라 임시 점유 허가 / TOL 또는 99년 임차 권리증으로 보유됨), 인구 고령화와 청년 유출, 노후한 사회 기반 시설 등이 있습니다. 최근에는 신촌을 문화유산으로 등재하고, 벽화·음식 탐방로·마을 역사를 통해 공동체를 재활성화하려는 움직임도 나타나고 있습니다."
 lang: "ko"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: '비바람에 바랜 단층 목조·함석 주택으로, 말레이시아 화인 신촌(新村)의 전형적인 모습이며 차들이 늘어서 주차된 조용한 주택가 거리를 마주하고 있다.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: 중국계 신촌 브로가로 들어가는 길을 표시한 장식 입구 패루(아치), 뒤로 구릉이 펼쳐진다
+    kind: actual
+    origin: third-party
+    subject: 브로가 신촌 입구의 패루, 느그리슴빌란주
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: 프탈링자야 스리스티아 신촌의 길모퉁이에 벽화와 붉은 설 등불과 장식이 있다
+    kind: actual
+    origin: third-party
+    subject: 스리스티아 신촌의 벽화와 설 장식, 슬랑오르주 프탈링자야
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 오늘날 스메니(Semenyih), 캄파르(Kampar), 혹은 스킨찬(Sekinchan)에 발을 들이면 대개 보이는 것은 평범한 소도시의 풍경입니다. 늘어선 상점주택, 화문 초등학교, 사원과 회관, 길가의 커피숍과 잡화점. 그러나 이 가운데 많은 곳은 하나의 공통된 정체성을 공유합니다——그곳들은 "신촌"입니다. 겉보기에 평범해 보이는 이 이름 뒤에는 [말라야 비상사태](/ko/malaysia/the-emergency)와 대반란, 그리고 대규모 이주에 관한 역사가 있습니다.

@@ -42,6 +42,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "kerajaan Melayu awal", "sejarah purba Kedah", "Lang-ya-xiu", "Malaysia pra-Islam"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: 'Fondasi batu candi berundak yang rendah di atas tanah lapang berumput, dikelilingi pohon palem dan bukit hijau di Lembah Bujang.'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pada abad ketujuh, seorang sejarawan istana Tiongkok yang menyusun Kitab Liang mencatat apa yang telah dilaporkan oleh utusan terdahulu tentang sebuah kerajaan jauh di selatan: sebuah kota berdinding, seorang raja yang menunggang gajah, sebuah istana tempat para pejabat tunduk dengan tangan bertangkup di hadapan rajanya. Sejarawan itu menamai tempat itu "Lang-ya-xiu." Hampir pasti ia sedang menggambarkan Langkasuka — dan kalimat itu, terkubur dalam sebuah sejarah dinasti yang disusun untuk tujuan yang sama sekali berbeda, adalah salah satu dari segelintir gambaran terperinci tentang tempat ini yang masih bertahan di mana pun.

@@ -22,7 +22,7 @@ verificationNeeded:
   - "Nama tepat perusahaan air negeri untuk Pahang, Negeri Sembilan dan Kedah tercantum di laman span.gov.my tetapi tidak dapat diekstrak sepenuhnya saat penyusunan draf ini; perlu ditinjau ulang langsung di span.gov.my."
   - "Kerangka perundang-undangan khusus Sabah dan Sarawak (nama enakmen/ordinan negeri bersangkutan) tidak dipastikan secara langsung pada sumber resmi saat penyusunan draf ini; PAAB memastikan pengecualian umum kedua negeri dari model PAAB, tetapi rincian perundang-undangan lengkap perlu ditinjau ulang."
 lang: "id"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'Waduk Bendungan Babagon di Sabah, sumber air baku untuk pasokan air minum olahan, dengan papan informasi di tepi air.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: Sebuah bendung beton kecil dan struktur pengendali air berpintu yang melintasi Sungai Padang Matsirat di Langkawi, bagian dari infrastruktur pasokan air Malaysia
+    kind: representative
+    origin: third-party
+    subject: Bendung sungai dan struktur pengendali air di Sungai Padang Matsirat, Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: Sebuah menara air tinggi berwarna putih berukuran besar bertanda Taman Setia Tropika di Johor, menampung air olahan untuk pasokan setempat
+    kind: representative
+    origin: third-party
+    subject: Menara air tinggi di Taman Setia Tropika, Johor
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 Anda pindah dari Selangor ke Johor. Akun bank sama. Saluran telepon bisa dibawa serta. Tapi akun air Anda? Ia tidak ikut — karena perusahaan yang memasok air ke rumah baru Anda sama sekali bukan perusahaan yang sama.

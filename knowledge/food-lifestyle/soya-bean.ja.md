@@ -84,6 +84,14 @@ drinkFacts:
   halal: "soya bean の飲み物は植物由来でノンアルコール——大豆、水、砂糖——で、自然に乳製品不使用なので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の屋台で確認すべきだ。"
   served: "温かく、または氷の上に、軽く甘く供される。よくある組み合わせ——デザートの一組として tau foo fah（やわらかい豆腐プリン）とともに、あるいは黒い仙草ゼリーに注いで「soya cincau」（「Michael Jackson」）として。ペナン式の版は pandan とブラウンシュガーに寄り、現代の豆乳カフェは黒豆、黒ごま、小豆の変種を出す。"
   where: "全国の kopitiam の屋台、屋台街、pasar malam、大豆専門店で見かけ——しばしば豆乳と tau foo fah だけを売る屋台から——スーパーでは瓶詰めでも売られる。"
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "大豆を添えた、淡い色の豆乳の背の高いグラス"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 数えきれないマレーシアのコーヒー店で、ある一つの屋台が大豆だけを商っている。片側には

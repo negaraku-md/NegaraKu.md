@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0212
 title: "ฮุสเซน ออน"
-seoTitle: ฮุสเซน ออน
+seoTitle: "ฮุสเซน ออน: นายกรัฐมนตรีคนที่สามของมาเลเซีย (1976–1981)"
 slug: "hussein-onn"
 category: "malaysia"
 subcategory: ["modern"]

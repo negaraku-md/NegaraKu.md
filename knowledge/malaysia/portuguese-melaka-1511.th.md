@@ -19,7 +19,7 @@ keyTakeaways:
   - "ราชวงศ์รัฐสุลต่านมะละกาสืบทอดการปกครองที่ยะโฮร์ลามาในปี 1528 และราชวงศ์นั้นดำรงอยู่จนถึงปี 1699"
 appliesTo: "ผู้อ่านที่ต้องการเข้าใจสาเหตุทางเทคนิคและการเมืองเบื้องหลังการล่มสลายของมะละกาปี 1511 และสิ่งที่เกิดขึ้นกับสถาบันและราชวงศ์มะละกาหลังเมืองนั้นหายไป"
 lang: "th"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'ประตูหินซานติอาโก (Porta de Santiago) ที่ปรักหักพังของป้อมอาฟาโมซาในมะละกา กำแพงดินลูกรังและปูนฉาบที่ผุกร่อนมีป้อมเล็กที่ทรุดโทรมอยู่ด้านบน และปืนใหญ่ทองสัมฤทธิ์เก่าแก่ตั้งอยู่บนฐานอิฐด้านหน้า'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: ซากโบสถ์เซนต์ปอลที่สร้างขึ้นในปี ค.ศ. 1521 ตั้งอยู่บนยอดเนินเขาเซนต์ปอลในมะละกา กำแพงศิลาแลงไร้หลังคาและช่องหน้าต่างที่ว่างเปล่าตั้งตระหง่านอยู่ใต้ท้องฟ้าโล่งกว้าง
+    kind: actual
+    origin: third-party
+    subject: ซากโบสถ์เซนต์ปอลบนเนินเขาเซนต์ปอล เมืองมะละกา
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: ซุ้มประตูทางเข้าสีครีมสู่จัตุรัสโปรตุเกส ขนาบด้วยอาคารหลังคากระเบื้องดินเผาและป้ายร้านอาหาร เปิดออกสู่ลานด้านหน้าในหมู่บ้านโปรตุเกสของมะละกา
+    kind: actual
+    origin: third-party
+    subject: จัตุรัสโปรตุเกสในหมู่บ้านโปรตุเกส (กัมปงโปรตุกิส) เมืองมะละกา
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 สิบวัน นั่นคือระยะห่างระหว่างการมาถึงของกองทัพโปรตุเกสในน่านน้ำมะละกาเมื่อวันที่ 10 สิงหาคม 1511 กับช่วงเวลาที่เมืองนั้นเปลี่ยนมือเมื่อวันที่ 24 สิงหาคม

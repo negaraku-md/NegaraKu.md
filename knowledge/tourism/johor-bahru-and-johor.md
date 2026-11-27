@@ -112,6 +112,39 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'Best for day-trippers and weekenders from Singapore and for families — drawn by value shopping and food, the Legoland and theme-park cluster, the Desaru Coast beaches, and the mountains and mangroves inland.'
+  getThere: 'Reached from Singapore by the Johor–Singapore Causeway or the Second Link (plus the KTM Shuttle Tebrau train), and from the rest of Malaysia by long-distance bus, KTM intercity/ETS rail, or Senai International Airport just north of the city.'
+  permit: 'Every crossing is an international border, so carry a valid passport and clear immigration on both sides.'
+  watch: 'The Causeway clogs on Friday evenings, weekends, Singapore school holidays and public-holiday eves, so cross early, avoid peak return times, and switch to the Second Link when it is jammed.'
+  next: 'Confirm current crossing, RTS Link and park-permit arrangements with the official Malaysian and Singaporean transport authorities and the relevant park authority before you travel.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'The white Victorian-Moorish Sultan Abu Bakar State Mosque in Johor Bahru, with its tall minaret-towers and black domes under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: The brightly coloured Lego-brick facade of the Legoland Malaysia Resort hotel in Johor
+    kind: actual
+    origin: third-party
+    subject: Legoland Malaysia Resort hotel, Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: A white-sand beach on the Johor coast with turquoise water, a rocky outcrop topped by a red flag, and blue sky
+    kind: actual
+    origin: third-party
+    subject: A white-sand beach on the Johor coast
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 Most visitors meet Johor at a border queue — in a car on the Causeway, on a bus at the Second Link, or on the short shuttle train into JB Sentral — and treat the city as a shopping-and-food detour from Singapore. That sells it short. Johor Bahru is the capital of Malaysia's southernmost state and the gateway where the peninsula meets the island republic across the water, with a walkable heritage core, one of Asia's biggest family theme-park clusters on its doorstep, and a whole state behind it: beaches on the east, mangroves at the southern tip, and mountains and rainforest inland. This guide covers how the crossings work, what to do in the city, the theme parks, the coast and the interior, who Johor suits, and the one mistake that catches almost everyone — getting the crossing timing wrong.

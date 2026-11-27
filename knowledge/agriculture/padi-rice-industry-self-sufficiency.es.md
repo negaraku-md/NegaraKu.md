@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) posee el rol de único importador de arroz del país, un rol heredado de la Junta Nacional del Padi y el Arroz (LPN), que asumió las importaciones de arroz y se convirtió en el único importador en 1974 tras la crisis alimentaria mundial de 1973. BERNAS también gestiona el stock de reserva nacional de arroz y apoya a los molineros bumiputera. Fue privatizada el 12 de enero de 1996."
 
 lang: "es"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,32 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'Un arrozal verde con un espantapájaros y colinas boscosas al fondo en Langkawi, Malasia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: Una cosechadora amarilla segando arroz dorado maduro en un arrozal de Kelantan
+    kind: actual
+    origin: third-party
+    subject: Una cosechadora segando arroz maduro en Kelantan
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: Un campo de arroz dorado maduro listo para la cosecha con una colina boscosa al fondo, en Langkawi, Kedah
+    kind: actual
+    origin: third-party
+    subject: Un arrozal dorado y maduro listo para la cosecha en Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 Cada vez que suben los precios del arroz o se vacían los estantes de los supermercados, una vieja pregunta vuelve a atormentar a Malasia: ¿por qué un país tan rico en campos de padi todavía necesita importar casi la mitad de su arroz? La respuesta reside en una industria impulsada por los subsidios, protegida por precios garantizados y perseguida por una meta de autosuficiencia que aún no se ha alcanzado.

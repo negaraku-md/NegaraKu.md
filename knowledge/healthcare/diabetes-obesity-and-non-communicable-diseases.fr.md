@@ -32,7 +32,7 @@ faq:
     a: "Les bénéficiaires de la Sumbangan Tunai Rahmah (STR) âgés de 40 ans et plus ont droit à un dépistage gratuit dans le cadre de PeKa B40, dans des cliniques publiques ou privées enregistrées. Les cliniques de santé publiques proposent également des bilans de base."
 
 lang: "fr"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "administered-by", to: "ministry-of-health" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "smoking-and-vaping-law-act-852"]
 keywords: ["diabète", "obésité", "MNT", "maladies non transmissibles", "NHMS 2023", "taxe sur le sucre", "PeKa B40", "Logo du choix plus sain", "dépistage de santé"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'L''extérieur de la Klinik Kesihatan Sungai-Sungai, une clinique de santé publique rurale de Malaisie, avec les drapeaux de la Malaisie et de Sabah et une ambulance.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: Un tensiomètre numérique automatique avec son brassard, le type d'appareil utilisé pour le dépistage de routine de l'hypertension artérielle
+    kind: representative
+    origin: third-party
+    subject: Un tensiomètre automatique de bras avec brassard utilisé pour le dépistage de santé
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: Un parc paysager au bord d'un lac à Kuala Lumpur avec la ligne d'horizon de la ville en arrière-plan, représentant l'activité physique et le mode de vie sain qui aident à prévenir les maladies non transmissibles
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa, un parc de loisirs public au bord d'un lac à Kuala Lumpur
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 Plus de la moitié des adultes de Malaisie portent aujourd'hui un poids qui pourrait raccourcir leur vie — et un sur six vit déjà avec le diabète, souvent sans s'en rendre compte. C'est l'épidémie silencieuse qui pèse sur les hôpitaux, les familles et l'économie nationale bien plus que n'importe quelle maladie infectieuse.

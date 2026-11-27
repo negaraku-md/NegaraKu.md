@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "Participación del 44,15% en LPI Capital Bhd — confirmar la participación actual y los detalles de cualquier finalización."
   - "Liderazgo: Tay Ah Lek como director gerente y consejero delegado, y el presidente en ejercicio — confirmar los cargos actuales del consejo."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'La torre escalonada Menara Public Bank resplandeciendo con un cálido tono dorado contra un cielo crepuscular, con el logotipo rojo y amarillo de Public Bank iluminado en su cima y el nombre PUBLIC BANK iluminado sobre la entrada'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: Una esbelta torre blanca de Public Bank contra un cielo azul, con el logotipo octagonal rojo de Public Bank cerca de su parte superior y un letrero rojo PUBLIC BANK sobre la entrada de la sucursal en la planta baja
+    kind: actual
+    origin: third-party
+    subject: Public Bank Tower en Johor Bahru, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: La torre escalonada Menara Public Bank, revestida de piedra tostada, bajo un cielo pálido, con el logotipo octagonal rojo de Public Bank exhibido en un panel cerca de su corona piramidal
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank, la torre sede de 170 m revestida de piedra, Jalan Ampang, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Pocas empresas malasias están tan estrechamente ligadas a un solo fundador como lo está Public Bank a Tan Sri Teh Hong Piow. Empezando con una sucursal en el centro de Kuala Lumpur en 1966, construyó un prestamista que creció hasta convertirse en uno de los mayores grupos bancarios del país — y uno famoso menos por su tamaño que por su prudencia, al registrar los menores ratios de préstamos morosos del sector bancario década tras década.

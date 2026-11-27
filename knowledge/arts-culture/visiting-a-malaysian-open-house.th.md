@@ -33,7 +33,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["มารยาทงานเปิดบ้านมาเลเซีย", "มารยาท rumah terbuka", "แขกงานเปิดบ้านมาเลเซีย", "มารยาทงานเปิดบ้านฮารีรายอ", "แต่งตัวไปงานเปิดบ้านมาเลเซีย", "duit raya ang pow แขก", "มารยาทบ้านฮาลาลมาเลเซีย", "ธรรมเนียมการไปเยือนบ้านมาเลเซีย"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'ภาพมุมสูงของสำรับอาหารฉลองฮารีรายอ (Hari Raya) บนโต๊ะ มีหม้อเรินดังเนื้อ (rendang) และแกงผัก จานซัมบัล (sambal) และจานเกอตูปัต (ketupat) ที่สานด้วยใบมะพร้าวพร้อมข้าวอัดหั่นเป็นชิ้น'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: แขกในชุดผ้าบาติกและบาจูกุรุงยิ้มและจับมือทักทายกันที่ประตูบ้านในงานเปิดบ้านฮารีรายอ ออิดิลฟิตรี
+    kind: representative
+    origin: third-party
+    subject: แขกทักทายเจ้าภาพในงานเปิดบ้านฮารีรายอ ออิดิลฟิตรี
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: กลุ่มเปลือกข้าวเกอตูปัตที่สานจากใบปาล์มมัดรวมกัน อาหารหลักของการต้อนรับในงานเปิดบ้านฮารีรายอของมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: เกอตูปัต (ketupat) ที่สานไว้สำหรับฮารีรายอ
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 คุณได้รับเชิญไปร่วมงาน *rumah terbuka* (บ้านที่เปิดต้อนรับ) หรืองานเปิดบ้าน

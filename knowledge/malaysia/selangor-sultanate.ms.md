@@ -21,7 +21,7 @@ appliesTo: "Pelajar, guru, penyelidik dan pembaca umum yang ingin memahami asal 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "Tahun tepat Residen British pertama Selangor (James Guthrie Davidson) menyandang jawatan itu: sumber memberikan kedua-dua 1874 dan 1875. Sahkan dengan sebuah sejarah akademik seperti karya J.M. Gullick tentang Selangor."
   - "Tarikh kemangkatan Sultan Salehuddin Shah (sumber memberikan 1778 dan 1782) dan butiran tepat pertabalan 1766 di Kota Lumut; sahkan dengan sebuah sejarah ilmiah Selangor."
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: 'Sebuah istana zaman kolonial dua tingkat bercat putih dengan bumbung berjubin merah dan beranda berpagar susur luas berdiri di atas hamparan rumput terurus yang dikelilingi pokok kelapa.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: Bangunan warisan bergaya kolonial yang megah berwarna putih dan krim dengan tingkap berlengkung dan bumbung berjubin, terletak di belakang halaman rumput, menempatkan galeri diraja Selangor di Klang.
+    kind: actual
+    origin: third-party
+    subject: Galeri Diraja Sultan Abdul Aziz di Klang, Selangor
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: Masjid diraja biru-putih yang anggun dengan kubah tengah yang besar, kubah sampingan dan menara ramping yang menjulang di bawah langit cerah di Klang.
+    kind: actual
+    origin: third-party
+    subject: Masjid Diraja Sultan Sulaiman di Klang, Selangor
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 Di pantai barat Semenanjung Tanah Melayu, di mana Sungai Klang dan Sungai Selangor mengalir ke dalam Selat Melaka, satu bangsa pelaut dari seberang kepulauan membina salah satu negeri terkaya di semenanjung. Harta mereka tidak dibina atas rempah atau emas tetapi atas bijih timah — bijih kelabu yang terkubur dalam lembah-lembah yang, dalam satu abad, akan menyeret kesultanan muda itu ke dalam satu perang merebut kekayaannya sendiri dan, akhirnya, di bawah bayang seorang Residen British. Inilah kisah Kesultanan Selangor, sebuah dinasti Bugis yang barisannya masih bersemayam di atas takhta hari ini.

@@ -29,7 +29,7 @@ faq:
     a: "主要管辖权在于州伊斯兰宗教局／宗教理事会，因为伊斯兰宗教事务在宪法下属于州权事项。伊斯兰发展局（JAKIM）在联邦层面进行协调，而建筑安全要求则涉及地方政府（Pihak Berkuasa Tempatan）与消防局。"
 
 lang: "zh"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: '一列身穿蓝色 baju kurung 和黑色头巾的学生走进马来西亚宗教中学 Sekolah Menengah Agama Al-Maarif，经过椰子树。'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: 柔佛峇株巴辖一所可兰经背诵学校（tahfiz）宁静的外观，学生在此寄宿，一边求学一边背诵可兰经。
+    kind: actual
+    origin: third-party
+    subject: 柔佛峇株巴辖哈米迪亚可兰经背诵学校（Madrasah Tahfiz al-Quran Hamidiah）
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: 马六甲Peringgit一所宗教小学（sekolah agama）朴实的校舍，孩子们在午间时段在此修读伊斯兰课程。
+    kind: actual
+    origin: third-party
+    subject: 马六甲Peringgit宗教小学
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 在马来西亚，一名孩子可能上午在国民学校度过，下午在清真寺的 KAFA 课程上课，青少年时期则在达菲兹（Tahfiz）宿舍里度过——这是三个由不同监管者、不同课程与不同法律管辖的教育环境。伊斯兰宗教教育各类型与国家教育体系并行运作，但它并非单一的整体。理解谁注册什么、谁对什么负责，是公正解读有关此话题公共辩论的关键。

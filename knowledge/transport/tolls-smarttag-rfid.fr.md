@@ -29,7 +29,7 @@ faq:
     a: "Le RFID exige encore qu'un véhicule passe par une voie signalée dotée d'une barrière qui se lève après une lecture réussie. L'ANPR tel que JustGO PLUS identifie les véhicules au moyen d'une caméra qui lit la plaque d'immatriculation, ce qui permet aux véhicules enregistrés de passer par n'importe quelle voie sans aucun badge physique — un pas de plus vers un système entièrement sans barrière (MLFF)."
 
 lang: "fr"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'Une voiture passe de nuit sous deux panneaux jaunes lumineux de voie SmartTAG à un poste de péage d''autoroute malaisienne.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: Une vaste gare de péage autoroutière vue en plein jour, avec une rangée de cabines de péage et des auvents de voie suspendus couvrant plusieurs voies de paiement
+    kind: actual
+    origin: third-party
+    subject: une gare de péage autoroutière de jour, à plusieurs voies et cabines, près d'Ipoh, Perak
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: Une voie de sortie de gare de péage signalisée pour le paiement par RFID, avec une barrière de voie et un portique de lecture suspendu au-dessus de la route près de Kota Damansara
+    kind: actual
+    origin: third-party
+    subject: une voie de sortie RFID à la gare de péage de Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 La voiture devant vous dans la voie RFID freine brusquement parce que la vignette sur son phare n'a pas été détectée — alors que beaucoup de gens supposent que RFID signifie « vous n'avez absolument rien à faire ». En réalité, la Malaisie exploite actuellement au moins quatre générations de technologie de péage simultanément sur différentes autoroutes, et confondre l'une avec l'autre est une cause fréquente de voitures bloquées à la barrière.

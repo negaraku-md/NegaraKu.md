@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,33 @@ verificationNeeded:
   - "収益——2024年度（2024年12月31日に終了した会計年度）のグループ収益約RM244億、純利益約RM26.6億、IHH の決算リリースによる。新たな年次／四半期報告ごとに数字と基準を再確認する。"
   - "株主構成——三井物産は（MBK Healthcare Management を通じて）約32～33%を、Khazanah Nasional が相当規模の少数持分を保有するとされる。正確な比率は売り出しや買い増しとともに変わる；数字を引用する前に最新の Bursa Malaysia／SGX 開示に照らして検証する。"
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: '青空を背にしたグレンイーグルス病院ペナンの高いクリーム・赤・青のファサード。青い「Gleneagles PENANG」の名称が下の壁と屋上のパラペットの両方に掲げられる'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: 夜に照らされたPantai Hospital Kuala Lumpurの湾曲した入口。玄関ポーチの上に照明に照らされた'PANTAI HOSPITAL KUALA LUMPUR'の標示があり、前庭には紫色に照らされた噴水がある
+    kind: actual
+    origin: third-party
+    subject: 夜のPantai Hospital Kuala Lumpur——IHH HealthcareのPantai Hospitalsネットワークの一部
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: クアラルンプールにあるPrince Court Medical Centreの灰色の近代的な棟。上層のファサードに金色の'PRINCE COURT'の文字と金色のエンブレムがあり、下には街路の緑と標示が見える
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのJalan Kia PengにあるPrince Court Medical Centre——IHH Healthcareが所有
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 クアラルンプールの Pantai や Gleneagles の病院、シンガポールの Mount Elizabeth の病棟、イスタンブールの Acibadem のクリニック、あるいはデリーの Fortis のセンターに足を踏み入れると、同じ企業ファミリーに入ることになる。そのファミリーが IHH Healthcare Berhad——マレーシアに本社を置き、世界最大級の民間病院運営会社のひとつへと成長した会社——である。

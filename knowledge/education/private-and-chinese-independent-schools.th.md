@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ผู้ปกครองและนักเรียนในมาเลเซียที่กำลังเลือกระหว่างโรงเรียนแห่งชาติ โรงเรียนเอกชนหลักสูตรแห่งชาติ และโรงเรียนมัธยมเอกชนจีน และผู้ที่พยายามเข้าใจว่า SMJK, โรงเรียนเอกชน หรือประกาศนียบัตร UEC แท้จริงแล้วหมายถึงอะไร"
 
 lang: "th"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'อาคารหลักของ Papar Middle School โรงเรียนมัธยมอิสระภาษาจีนในรัฐซาบะฮ์ มีชื่อโรงเรียนแสดงเป็นภาษาจีนและอังกฤษบนด้านหน้าอาคาร'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: ด้านหน้าของ Sekolah Menengah Chung Ling (Persendirian) / โรงเรียนมัธยมจงลิง (เอกชน) ในรัฐปีนัง อาคารสีขาวหลายชั้นมีเสาและชื่อโรงเรียนเขียนเป็นภาษามลายู จีน และอังกฤษ
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนมัธยมจงลิง (เอกชน) โรงเรียนมัธยมจีนอิสระในรัฐปีนัง
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: อาคารหลักหลายชั้นขนาดใหญ่ของโรงเรียนมัธยมคุนเฉิงในกัวลาลัมเปอร์ มีชื่อโรงเรียนแสดงเป็นภาษาจีน (坤成中学) และอังกฤษที่แนวหลังคา
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนมัธยมคุนเฉิง โรงเรียนมัธยมจีนอิสระในกัวลาลัมเปอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 ลองถามผู้ปกครองชาวมาเลเซียว่า "โรงเรียนเอกชน" คืออะไร เขาอาจหมายถึงสามสิ่งที่ต่างกันโดยสิ้นเชิง: โรงเรียนเก็บค่าเล่าเรียนที่ใช้หลักสูตรเดียวกันเป๊ะกับโรงเรียนรัฐบาลข้างถนน โรงเรียนนานาชาติที่สอน Cambridge หรือ IB หรือโรงเรียนมัธยมเอกชนจีนที่ดำเนินการสอบที่คนส่วนใหญ่นอกชุมชนการศึกษาจีนไม่เคยได้ยิน มีเพียงหนึ่งในสามนั้นที่สอบ SPM มีเพียงหนึ่งเดียวที่สอบ UEC การสับสนระหว่างทั้งสามเป็นวิธีที่ง่ายที่สุดในการประเมินทางเลือกของเด็กเมื่ออายุ 18 ปีผิดพลาด

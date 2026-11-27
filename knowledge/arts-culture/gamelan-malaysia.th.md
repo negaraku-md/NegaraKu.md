@@ -33,7 +33,7 @@ faq:
     a: "ชุดกาเมลันดั้งเดิมถูกส่งคืนปะหังในปี 1973 และจัดแสดงที่พิพิธภัณฑ์ปะหังในเปอกัน"
 
 lang: "th"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'วงกาเมลันมลายูเต็มวงจัดวางใต้แสงอบอุ่น พร้อมแถวฆ้องหม้อสำริด (โบนัง) ระนาดโลหะ (ซารน) และฆ้องแขวนขนาดใหญ่บนกรอบไม้แกะสลัก'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: ชุดกาเมลันมลายูครบชุดจัดวางบนพรมลวดลาย ประกอบด้วยฆ้องเล็กสำริด ระนาดโลหะ ฆ้องแขวน และกลองบนขาตั้งไม้แกะสลัก
+    kind: actual
+    origin: third-party
+    subject: ชุดกาเมลันเมอลายูครบชุดจัดวางในศูนย์ศิลปะและมรดกของมาเลเซีย
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: นักดนตรีในชุดคลุมสีส้มคุกเข่าอยู่หน้าระนาดโลหะซารนสีแดงทอง ตีลูกระนาดสำริดด้วยไม้ตี
+    kind: representative
+    origin: third-party
+    subject: นักดนตรีตีระนาดโลหะซารน (กาเมลันอินโดนีเซีย เครื่องดนตรีตระกูลเดียวกับกาเมลันเมอลายู)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 ชุดกาเมลันนั้นย้ายจากราชสำนักหนึ่งไปยังอีกราชสำนักหนึ่งไม่ใช่เพราะการซื้อขายหรือการยึด — แต่เพราะการอภิเษกสมรส เมื่อเจ้าหญิงย้ายไปยังวังของพระสวามี เครื่องดนตรี นักรำ และบทเพลงก็ย้ายตามไปด้วย นั่นคือวิธีที่กาเมลันกลายเป็นสมบัติของราชสำนักมลายู

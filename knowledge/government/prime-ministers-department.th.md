@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามเข้าใจว่าสำนักนายกรัฐมนตรีคืออะไรจริง เหตุใดหน่วยงานสหพันธ์ที่ดูเหมือนไม่เกี่ยวข้องกันจำนวนมากจึงอยู่ภายใต้ และต่างจากกระทรวงทั่วไปอย่างไร"
 
 lang: "th"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,34 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: 'อาคาร Perdana Putra ทรงโดม ที่ทำการสำนักนายกรัฐมนตรีมาเลเซีย ใต้ท้องฟ้าครึ้มดราม่าในปุตราจายา'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: ภาพด้านหน้าแบบสมมาตรของ Perdana Putra พร้อมธงชาติมาเลเซียเรียงรายตามถนนใหญ่ทางเข้า
+    kind: actual
+    origin: third-party
+    subject: ด้านหน้าของ Perdana Putra จากถนนใหญ่พิธีการ ปุตราจายา
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: โดมสีเขียวของ Perdana Putra ตั้งตระหง่านเหนือถนนใหญ่พิธีการที่มีต้นไม้เรียงรายในปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: Perdana Putra มองจากถนนทางเข้าที่จัดภูมิทัศน์ไว้ ปุตราจายา
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 มาเลเซียไม่มีกระทรวงเดียวที่ดำเนินกลไกนโยบายประจำวันของประเทศ แต่มีหน่วยงานหนึ่ง — และหน่วยงานนั้นใหญ่กว่ากระทรวงส่วนใหญ่รวมกัน

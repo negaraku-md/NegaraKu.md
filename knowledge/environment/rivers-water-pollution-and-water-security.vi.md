@@ -34,7 +34,7 @@ faq:
     a: "Theo báo cáo của Macaranga, sửa đổi năm 2023 đối với Đạo luật Chất lượng Môi trường 1974 quy định mức phạt tối thiểu RM5,000 và tối đa lên đến RM10 triệu, cùng án phạt tù bắt buộc không quá năm năm cho các hành vi phạm tội ô nhiễm. Đối với các hành vi phạm tội dưới chế độ khu dành riêng ven sông của Selangor (Section 48(1) của Sắc lệnh LUAS 1999), hình phạt là mức phạt không quá RM50,000 hoặc phạt tù không quá hai năm, hoặc cả hai. Các con số sửa đổi Đạo luật 1974 này đến từ một báo cáo thứ cấp và nên được xác nhận so với văn bản Công báo chính thức."
 
 lang: "vi"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,33 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'Một con sông rộng màu nâu trải dài tới một chân trời rừng phẳng dưới bầu trời nhạt vằn mây'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: Một dòng sông hẹp chảy qua một kênh bê tông rộng giữa những tòa nhà cao tầng trong thành phố và một lối đi lát đá ven sông
+    kind: actual
+    origin: third-party
+    subject: Sông Klang bị bó trong một kênh bê tông giữa những tòa nhà cao tầng ở trung tâm Kuala Lumpur, minh họa áp lực lên chất lượng nước sông đô thị
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: Một hồ nước rộng lớn, phẳng lặng phản chiếu mặt trời thấp, phía sau là bóng những quả đồi rừng lúc hoàng hôn
+    kind: actual
+    origin: third-party
+    subject: Hồ chứa phía sau đập Batang Ai ở Sarawak, một nguồn trữ nước thô lớn và nguồn thủy điện
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 Mở vòi vào sáng thứ Hai và thấy nó khô — không phải vì vòi hỏng, mà vì một nhà máy ở thượng nguồn đã xả chất thải có mùi hôi thối vào con nhánh sông cung cấp nước thô cho thành phố của bạn. Đây là thực tế lặp đi lặp lại ở Thung lũng Klang, và nó giải thích vì sao "chất lượng sông" không chỉ là một vấn đề sinh thái, mà là một vấn đề an ninh cấp nước cho hàng triệu ngôi nhà.

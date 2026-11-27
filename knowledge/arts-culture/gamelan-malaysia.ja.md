@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,34 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: '暖かな光の下に並べられたマレーのガムラン一式。青銅の鍋型ゴング(ボナン)の列、鉄琴(サロン)、彫刻された木枠に吊るされた大きなゴング'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: 模様のある絨毯の上に並べられた完全なマレー・ガムランのセット。青銅の釜型ゴング、メタロフォン、吊り下げられたゴング、太鼓が彫刻の施された木製の台に乗っている
+    kind: actual
+    origin: third-party
+    subject: マレーシアの芸術・文化遺産センターに並べられた完全なガムラン・ムラユのセット
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: オレンジ色のチュニックを着た演奏者が赤と金のサロン・メタロフォンの前に膝をつき、木槌で青銅の鍵盤を叩いている様子
+    kind: representative
+    origin: third-party
+    subject: サロン・メタロフォンを演奏する奏者（インドネシアのガムラン、ガムラン・ムラユと同じ楽器系統）
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 そのガムラン一式が一つの宮廷から別の宮廷へと渡ったのは、売買や略奪によってではない——婚姻によってである。王女が夫の宮殿へと嫁ぐとき、楽器も、踊り手も、楽曲も、彼女とともに渡った。こうしてガムランはマレー宮廷の所有物となったのである。

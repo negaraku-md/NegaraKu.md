@@ -37,7 +37,7 @@ faq:
     a: "Secara unik, taman ini diatur oleh tiga enakmen negara bagian era kolonial — Enakmen Taman Negara (Pahang) 1939, (Kelantan) 1938 dan (Terengganu) 1939 — dan bukan Akta Taman Negara 1980 federal. Ini karena tanah dan kehutanan adalah urusan negara bagian di bawah Konstitusi Federal Malaysia, jadi Akta federal itu tidak berlaku untuk ketiga negara bagian tersebut."
 
 lang: "id"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'Pelancong yang mencari hutan hujan tropis purba — jembatan kanopi puncak pohon, trek hutan, persembunyian satwa liar, dan perjalanan sungai — berpangkalan di gerbang Kuala Tahan di Pahang.'
+  getThere: 'Bepergianlah melalui jalan darat ke Jerantut di Pahang, lalu naik perahu menyusuri Sungai Tembeling dari dermaga Kuala Tembeling ke Kuala Tahan, dengan tautan jalan langsung sebagai alternatif.'
+  permit: 'Setiap pengunjung mendaftar untuk izin masuk PERHILITAN saat tiba di dermaga atau loket taman, membayar lisensi kamera terpisah, dan harus menggunakan pemandu berlisensi untuk pendakian Gunung Tahan.'
+  watch: 'Musim angin timur laut dapat membuat sungai meluap serta mengganggu perahu dan jalur, jembatan kanopi pernah ditutup, dan lintah serta kelembapan konstan — konfirmasikan akses dan pesan pemandu di muka.'
+  next: 'Konfirmasikan aturan dan biaya izin serta masuk terkini dengan kantor Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) di Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Perbukitan bergelombang hutan hujan tropis lebat membentang hingga ke cakrawala di bawah langit biru di Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Seorang pengunjung menyeberangi jembatan kanopi sempit dari tali dan papan yang tergantung di antara pepohonan hutan hujan tinggi di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Jembatan gantung kanopi tinggi di puncak hutan hujan di Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Perahu panjang kayu di Sungai Tembeling di samping tepi sungai berhutan dengan kabut di atas perbukitan di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sungai Tembeling dengan perahu panjang di dermaga Taman Negara dalam kabut pagi
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Berdiri di jeti Kuala Tahan pada waktu subuh, mengamati kabut naik dari sebuah sungai yang lebih tua daripada Pegunungan Himalaya, mudah untuk lupa bahwa Anda hanya sejauh setengah hari dari Kuala Lumpur. Taman Negara bukanlah daya tarik buatan. Ia sebuah hutan hujan tropis yang hidup, yang telah berdiri, umumnya tanpa gangguan, selama puluhan juta tahun — dan memasukinya lebih murah dan lebih mudah daripada yang diperkirakan hampir semua pelancong.

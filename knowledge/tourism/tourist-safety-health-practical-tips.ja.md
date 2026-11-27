@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: '夜のクアラルンプールのペタリン通り。赤い提灯が吊るされ、屋根付きのショップハウスの間で人々が灯りのともる果物の屋台や市場の露店を見て回っている。'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 着陸したはいいものの、時差ぼけで、スマートフォンは圏外を示している。完璧なナシレマッを気にする前に、退屈だが重要なことを片付けておこう——使えるSIM、正しい緊急通報番号、そして空が今にも崩れそうかどうかを知っておくことだ。以下は検証済みの要点リストである。

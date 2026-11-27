@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Coloridos fuegos artificiales estallando sobre las Petronas Twin Towers y el horizonte de la ciudad de Kuala Lumpur de noche.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: Un gran kolam con forma de pavo real, de colores vivos y hecho con polvo de colores, dispuesto en el suelo para Deepavali en KL Sentral, en Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Un kolam de suelo con forma de pavo real por Deepavali en KL Sentral, Kuala Lumpur
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: Varias cabezas de disfraz de danza del león, de vivos colores rosa, amarillo y blanco, se agrupan frente a un local durante una celebración callejera del Año Nuevo Chino en Malasia, con un intérprete de gran cabeza roja entre ellas.
+    kind: actual
+    origin: third-party
+    subject: Comparsa de danza del león del Año Nuevo Chino en Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 Planifica un viaje, el lanzamiento de un producto o una ejecución de nómina en toda Malasia y pronto descubrirás algo que toma por sorpresa a los de fuera: un día que es festivo en Kuala Lumpur puede ser un día laborable normal en Kuching, y viceversa. Malasia no tiene tanto una lista nacional de días festivos como una capa nacional y trece capas estatales apiladas una sobre otra.

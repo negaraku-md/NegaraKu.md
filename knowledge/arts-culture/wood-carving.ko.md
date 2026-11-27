@@ -33,7 +33,7 @@ faq:
     a: "고전 아완 라랏 설계 원칙은 실제로 사람이나 동물의 형상을 문양의 주요 요소로 삼는 것을 피합니다. 그러나 말레이 목조각에는 파우나 문양이라는 독자적 범주도 있어 — 닭, 코뿔소, 오리 모양처럼 — 반복되는 아완 라랏 문양과는 별도로 쓰입니다."
 
 lang: "ko"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: '말레이 아완 라랏 양식으로 대칭적으로 흐르는 잎사귀와 말려 올라간 잎 덩굴, 덩굴 두루마리 무늬를 투각한 어둡고 직사각형인 액자형 목판이 옅은 색 박물관 벽에 걸린 모습'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: 금박 잎 장식을 조각하고 뚫어 만든 높은 금박 차양과 꼭대기 첨탑이 달린, 초록 기도 카펫 위 붉은-금색 조각 계단 위로 솟은 화려한 목조 모스크 민바르
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 말라카의 틍케라(트랑케라) 모스크의 금박을 입혀 정교하게 조각한 목조 민바르(설교단)
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: 갈색 널빤지로 지은 전통 말레이 가옥의 지붕 아래 목재 처마판을 따라 이어지는, 불꽃 모양의 잎 형태로 뚫어 새긴 투각 조각 띠, 초록 잎과 하늘을 배경으로 한 모습
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 훌루 랑앗의 전통 말레이 목조 가옥 지붕선을 장식하는 투각 처마판(파판 크라왕)
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 옛 말레이 가옥 창문의 나무 판을 자세히 들여다보고, 그 문양이 어디에서 시작하는지 찾아보십시오. 찾지 못할 것입니다. 당신의 눈 탓이 아니라 — 원래 그렇게 만들어진 것입니다.

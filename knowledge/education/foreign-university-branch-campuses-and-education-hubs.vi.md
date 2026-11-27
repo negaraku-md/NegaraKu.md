@@ -34,7 +34,7 @@ faq:
     a: "Không. Trong khi Monash, Nottingham, Xiamen và Heriot-Watt tập trung quanh Klang Valley và Putrajaya, EduCity Iskandar tập trung một số cơ sở ở Johor gần Singapore, và Curtin cùng Swinburne hoạt động ở Sarawak."
 
 lang: "vi"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,6 +107,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'Dành cho sinh viên và phụ huynh đang cân nhắc một phân hiệu của trường đại học nước ngoài — một cơ sở ở hải ngoại thuộc sở hữu hoàn toàn (Monash, Nottingham, Xiamen, Heriot-Watt và những trường khác) cấp chính tấm bằng của trường mẹ ngay tại Malaysia.'
+  how: 'Hãy chọn theo thương hiệu trường mẹ, vị trí cơ sở và thế mạnh chuyên ngành; các phân hiệu nằm ở Thung lũng Klang, Putrajaya, khu EduCity Iskandar ở Johor và ở Sarawak. Bằng cấp được cấp chính là tấm bằng giống hệt của trường mẹ, được giảng dạy trên một cơ sở tại Malaysia.'
+  cost: 'Điểm hấp dẫn là có được một tấm bằng phương Tây hoặc Trung Quốc với học phí và chi phí sinh hoạt địa phương, thấp hơn nhiều so với học tại trường mẹ ở nước ngoài — nhưng học phí khác nhau tùy cơ sở và chương trình, vì vậy hãy xác nhận con số hiện hành với từng cơ sở.'
+  watch: 'Tấm bằng thì mang theo được nhưng trải nghiệm lại mang tính địa phương — sĩ số lớp, cơ sở vật chất và đời sống học đường khác nhau rất nhiều giữa một cơ sở độc lập và một cơ sở trong khu đô thị giáo dục dùng chung. Các chương trình của phân hiệu vẫn cần được MQA kiểm định và xuất hiện trên MQR.'
+  next: 'Hãy lập danh sách rút gọn theo chuyên ngành và vị trí, kiểm chứng đúng chương trình trên MQR, và xác nhận việc được phép tuyển sinh quốc tế với cơ sở. Xem bài Du học tại Malaysia và bài Đại học công lập so với tư thục.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'Một tòa nhà đại học theo trường phái hiện đại màu trắng với một tháp đồng hồ vươn lên phía xa một hồ nước xanh tĩnh lặng như gương viền cây cối rủ xanh dưới một bầu trời ấn tượng'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Những khối nhà khuôn viên màu be lớn nối với nhau bằng một cầu nối trên cao lắp kính, với phù hiệu Monash trên một tòa tháp và những cây cọ trong sân trong
+    kind: representative
+    origin: third-party
+    subject: các tòa nhà của phân hiệu Đại học Monash Malaysia nối với nhau bằng cầu nối kính, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Những tòa nhà khuôn viên màu trắng với mái kiểu Trung Hoa đỏ nhiều tầng phía sau một quảng trường lối vào có cổng dưới bầu trời có mây rải rác
+    kind: representative
+    origin: third-party
+    subject: cổng chính mái đỏ và tòa tháp hành chính của Đại học Hạ Môn Malaysia, phân hiệu hải ngoại đầu tiên của một trường đại học Trung Quốc, ở Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 Năm 1998, một sinh viên ở Kuala Lumpur có thể lấy một tấm bằng Monash của Úc mà không cần rời khỏi đất nước — và trả giá Malaysia cho nó. Sự sắp xếp duy nhất đó đã khởi động một mô hình mà đất nước đã xây dựng dựa vào kể từ đó: nhập khẩu đại học, không phải sinh viên.

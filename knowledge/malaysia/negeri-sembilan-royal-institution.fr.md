@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs, étudiants et chercheurs cherchant à comprendre les institutions royales de Malaisie, la monarchie constitutionnelle et l'héritage minangkabau distinctif du Negeri Sembilan."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -59,6 +59,32 @@ verificationNeeded:
   - "Le différend de succession de 2025-2026 est une affaire en développement avec des récits contradictoires ; le statut de l'Undang de Sungai Ujong, la déclaration de destitution du 19 avril 2026 et la proclamation rivale devraient être revérifiés auprès de sources officielles de l'État avant que tout détail ne soit considéré comme établi."
   - "La date exacte d'installation/proclamation de Tuanku Muhriz comme 11e Yang di-Pertuan Besar (communément donnée comme le 29 décembre 2008) devrait être confirmée auprès du portail royal de l'État."
 framework: history-culture
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: 'Un majestueux palais en bois sombre, couronné d''une haute tour à étages et de vastes toits en bardeaux, se dresse devant des collines boisées au-delà d''un large champ vert.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: Un majestueux palais royal couleur crème aux ailes symétriques et aux deux tours jumelles à pignon, dressé derrière des jardins soignés au pied de collines boisées à Seri Menanti.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar Seri Menanti, l'actuel palais royal de Negeri Sembilan
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: Une haute tour gouvernementale moderne coiffée de spectaculaires toits minangkabau en cornes de buffle relevées, s'élevant au-dessus d'ailes plus basses et de pelouses au centre de Seremban.
+    kind: actual
+    origin: third-party
+    subject: Wisma Negeri, le bâtiment administratif de l'État au toit minangkabau, à Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 Au cœur de la Malaisie péninsulaire se trouve un royaume qui enfreint toutes les règles de la monarchie malaise. Son souverain n'est pas né pour le trône mais choisi pour lui. Ses grandes familles font remonter leur descendance non par les pères mais par les mères. Et son nom même, Negeri Sembilan, l'« État des Neuf », se souvient non d'une seule maison royale mais d'une confédération de districts cousus ensemble à travers les collines de l'intérieur. Comprendre comment cette institution singulière vit le jour, c'est suivre une lignée de migrants minangkabau qui traversèrent le détroit de Malacca depuis Sumatra, emportèrent une coutume avec eux, et finirent par faire venir un prince pour les gouverner.

@@ -101,9 +101,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 신발 한 켤레를 석 달 할부로 갚거나, 10% 계약금으로 새 차를 몰고 집으로 돌아가는 일 — 말레이시아 국민에게 익숙한 두 가지 신용 거래이지만, 최근까지도 서로 크게 다른 법적 세계의 지배를 받아 왔습니다. 이제 두 가지가 거의 동시에 재정비되고 있습니다.

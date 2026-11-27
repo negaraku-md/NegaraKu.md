@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "वह कोई भी जिसे यह पहचानना हो कि कोई विशेष मलेशियाई आव्रजन दस्तावेज़ — पासपोर्ट, वीज़ा, पास या परमिट — कौन-सा प्राधिकरण जारी करता है, और कौन-सा लेख प्रत्येक प्रक्रिया को समझाता है।"
 
 lang: "hi"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,34 @@ relations:
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["मलेशियाई आव्रजन विभाग", "Jabatan Imigresen Malaysia", "JIM", "imigresen", "मलेशियाई पासपोर्ट", "मलेशिया वीज़ा", "सामाजिक भेंट पास", "प्रवेश परमिट", "ESD", "MDAC", "imi.gov.my"]
 framework: profile
+hero: '/media/government/imigresen/hero.webp'
+heroAlt: 'पुत्रजया में मलेशिया आव्रजन विभाग मुख्यालय का पत्थर का अग्रभाग, एक प्रवेश-छत्र के पीछे उठती इसकी स्तरित इस्लामी-नक़्श मीनार जिस पर Jabatan Imigresen Malaysia शब्द और विभाग का प्रतीक है'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: Immigration Department of Malaysia मुख्यालय के प्रवेश का निकट दृश्य, जिसमें Jabatan Imigresen Malaysia अक्षर और अपने माला तथा Imigresen Malaysia रिबन के साथ सुनहरा-हरा विभागीय प्रतीक दिख रहा है
+    kind: actual
+    origin: third-party
+    subject: Immigration Department of Malaysia मुख्यालय, पुत्रजया का प्रवेश साइनबोर्ड और प्रतीक
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: एक मलेशियाई आव्रजन सीमा परिसर जिसमें Kompleks Imigresen अंकित एक पीली इमारत, कार, मोटरसाइकिल और बस चिह्नों से चिह्नित ड्राइव-थ्रू निरीक्षण लेन, चमकीले बादल भरे आसमान के नीचे
+    kind: actual
+    origin: third-party
+    subject: Kompleks Imigresen Rantau Panjang, केलंतन के Rantau Panjang में मलेशियाई आव्रजन सीमा चौकी
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 हर वह व्यक्ति जो मलेशिया की सीमा पार करता है — पासपोर्ट नवीनीकरण करवाता कोई

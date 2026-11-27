@@ -86,6 +86,13 @@ drinkFacts:
   halal: "air mata kucing نباتيّ وخالٍ من الكحول — ثمرة مجفَّفة وفاكهة الراهب وقرع شمعيّ وسكر صخريّ في الماء — فالمشروب نفسه حلال. ويتعلّق ضمان الحلال بالمحل، فعلى مَن يحتاج اعتمادًا أن يتحقّق من الكشك المعنيّ."
   served: "يُقدَّم عادةً مثلَّجًا، مسكوبًا من موزِّع كبير مبرَّد؛ ويمكن كذلك شربه دافئًا أو بحرارة الغرفة. وهو حلو منعش وخالٍ من الكافيين طبيعيًّا، ما يجعله مشروبًا سهلًا في أيّ وقت لا منبّهًا صباحيًّا."
   where: "يوجد في أكشاك الباعة ومحلات الحلويات والأسواق الليلية، وأشهر ما يكون من كشك عريق في Jalan Petaling (Petaling Street) في حيّ Chinatown بكوالالمبور، حيث يُسكَب مثلَّجًا من موزِّع معدنيّ كبير لحشود السوق المارّة."
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "وعاء من مشروب اللونجان الداكن air mata kucing في كشك بائع ماليزي مع لافتة ثنائية اللغة"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 انزل عند ممرّ السوق المزدحم في Petaling Street بحيّ Chinatown في كوالالمبور، وثمّة

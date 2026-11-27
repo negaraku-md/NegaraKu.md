@@ -29,7 +29,7 @@ faq:
     a: "2020年12月3日の特別協議会議（Muzakarah Khas）は、COVID-19ワクチンの使用は許容であり、政府が指定する層にはその接種が義務であると裁定した。ただし、使用されるワクチンがハラルかつタイイブ（tayyiban）であることを条件とする。"
 
 lang: "ja"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ entity: "Jawatankuasa Muzakarah Fatwa Kebangsaan bagi Hal Ehwal Ugama Islam Mala
 relations:
   - { rel: "related-to", to: "national-immunisation-programme-malaysia" }
   - { rel: "related-to", to: "halal-certification-jakim" }
-related: []
+related: ["halal-certification-in-malaysia", "public-healthcare-system-malaysia", "traditional-and-complementary-medicine"]
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: '鮮やかな赤い伝統的なショップハウスにあるマレーシアの薬局（farmasi）で、町の通りの角に位置している。'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: 街角に立つマレーシアの現代的な地域薬局。看板には「Big Pharmacy」とあり、ジョホール州クルアンにある
+    kind: actual
+    origin: third-party
+    subject: ジョホール州クルアンの町中心部にある小売チェーン「Big Pharmacy」の店舗
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: 薬局の棚にきちんと積み重ねられた薬の箱の列。包装された医薬品とそのラベル表示を表している
+    kind: representative
+    origin: third-party
+    subject: 薬局の棚に並べられたジェネリック医薬品の箱
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 一本のワクチンびんには、安定剤としてごく少量のゼラチンが含まれていることがある——そのわずかな成分から、マレーシアのムスリム家庭が最も頻繁に発する宗教上の問いの一つが生まれる。それはハラルなのか、という問いである。答えは単純な「はい」か「いいえ」ではなく、ファトワ機関、科学的研究、そしていくつかの特有のフィクフ（fiqh）原則が関わる、体系立った評価プロセスの結果として導かれる。

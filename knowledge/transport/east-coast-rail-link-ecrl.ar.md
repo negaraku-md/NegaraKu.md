@@ -37,7 +37,7 @@ faq:
     a: "كلاهما. فقد صُمِّم خطاً مزدوج الاستخدام: خدمات ركاب بسرعة تصل إلى 160 كم/س إلى جانب خدمات شحن بسرعة 80 كم/س. ومن أهدافه المحورية أن يعمل جسراً برياً ينقل البضائع عبر شبه الجزيرة بين ميناء كلانغ وموانئ الساحل الشرقي مثل كوانتان، ليوفّر بديلاً عن الطريق البحري الدائر حول سنغافورة ومضيق ملقا."
 
 lang: "ar"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,31 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["السكة الحديدية للساحل الشرقي", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "قطار CCCC ماليزيا", "تكلفة وإنجاز ECRL", "قطار كوتا بهارو ميناء كلانغ", "East Coast Rail Link"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'قطار كهربائي CR200J أزرق وفضي بشعار زهرة ECRL على مقدمته، واقف على مسارات مستودع، مع طقم KTM Komuter أصفر بجانبه'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: بوّابتا النفق التوأم لـ'Terowong 2 Serendah' المحفورتان في تلّة خضراء، مع لافتة مشروع MRL/ECRL أعلاهما وخطّ سكّة جديد مُرصّع يبرز في المقدّمة — الخطّ قيد الإنشاء عبر سلسلة تيتيوانغسا. لقطة بنية تحتية توثيقية (2025).
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: جسر علوي لخط ECRL قيد الإنشاء في سونغاي توا — دعامات خرسانية ترتفع على تلّة مُزالة مع مقطع عارضة صندوقية مُطلَق خلف سياج الموقع. يُظهر مرحلة المحاذاة المرفوعة من المشروع، ويختلف عن مشهد النفق وقطار البطل المكتمل.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 على مدى عقود، كانت أسرع طريقة للتنقل بين كوالالمبور وولايات الساحل الشرقي تعني رحلة برية طويلة عبر الجبال. ومشروع السكة الحديدية للساحل الشرقي هو رهان ماليزيا على أن خطاً واحداً من القضبان قادر على تغيير ذلك — وأن يعيد في الوقت نفسه توزيع المواضع التي يتحقق فيها نمو البلاد.

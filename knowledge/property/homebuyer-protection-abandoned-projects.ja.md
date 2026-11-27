@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 
 status: "published"
 aiAssisted: true
@@ -85,9 +85,35 @@ entity: "Housing Development (Control and Licensing) Act 1966"
 relations:
   - { rel: "governs", to: "property-developers-malaysia" }
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
-related: []
+related: ["housing-developers-act-hda", "affordable-housing-schemes", "strata-management-jmb-mc"]
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'ゴンバックの、緑に覆われた荒廃した未完成の多層階コンクリート建物で、手前にマレーシア国旗がある。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: 雑草が生い茂り、むき出しのれんがが残る、放置された未完成の平屋
+    kind: actual
+    origin: third-party
+    subject: セランゴール州Desa Subang Permaiの放置された未完成の家
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: 塗装が剥がれ、窓の開口部が空いたまま風化した、マラッカの廃屋
+    kind: actual
+    origin: third-party
+    subject: マラッカの使われなくなった廃墟の建物
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 あなたは手付金を支払い、売買契約（SPA）に署名し、家の鍵を待っている——ところが建設現場は何か月も静まり返ったままだ。半島マレーシアで新築住宅を購入する人にとって、法律は実際、こうした事態が起こる前、その最中、そしてその後に、いくつかの層の保護を用意している。肝心なのは、何が保護されているのか、そして問題が起きたときにどこへ向かえばよいのかを知っておくことである。

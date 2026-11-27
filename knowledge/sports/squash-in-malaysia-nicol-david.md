@@ -86,9 +86,35 @@ entity: "Nicol David"
 wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'Malaysian squash champion Nicol David stretches to play a forehand during a tournament match.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: A floodlit all-glass squash show court erected inside an arena for a professional tournament, viewed from the surrounding tiered seating.
+    kind: representative
+    origin: third-party
+    subject: A glass show court set up for a professional squash tournament
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: Two players competing on a glass-walled squash court surrounded by spectators in a grand hall at a major squash tournament.
+    kind: representative
+    origin: third-party
+    subject: A professional squash match on a glass court before a packed crowd
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 For nine straight years, the best squash player on the planet came from Penang. Nicol David did not just win in Malaysia's most successful individual sport — she rewrote what dominance in it looks like, holding the world No. 1 ranking for **108 consecutive months** until September 2015, the longest unbroken reign the game has ever seen.

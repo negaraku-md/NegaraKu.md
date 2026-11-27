@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,34 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: '羽の帽子とビーズの衣装をまとった入れ墨のあるオラン・ウルの演奏者が、ボルネオの大胆な赤と黒の渦巻き模様を描いた大きなサペの琴を奏でる'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: 青い木製の台に乗った大きなルバナ・ウビの太鼓の列。胴体と枠には赤・緑・黄・ピンクの鮮やかな花模様が描かれている
+    kind: actual
+    origin: third-party
+    subject: マレーシア、クランタンの大きなルバナ・ウビの枠太鼓の列
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: オレンジ色のシャツを着た年配の男性がスルナイの複簧の管楽器を吹いており、背後の床にはマレーの枠太鼓が列をなして並んでいる様子
+    kind: actual
+    origin: third-party
+    subject: マレーシア、クランタンの自宅でスルナイの複簧の笛を演奏する年配の楽師
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 同じ音が、マレーシアのほとんどすべての芸能公演の背後で繰り返されている——婚礼で大勢が打ち鳴らす山羊皮の鼓の連打、ワヤン・クリットの幕開けを飾る甲高く物悲しい笛の音、そしてサラワク州のロングハウスで人の心を落ち着かせる木の弦の爪弾き。これらの音を生み出す楽器は、多くの芸術関連記事に繰り返し登場する——そこで本ページは、それらを一か所にまとめている。

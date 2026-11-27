@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["المجلس الديني الإسلامي للولاية", "Majlis Agama Islam Negeri", "MAIN", "الزكاة zakat", "الوقف wakaf", "الفتوى fatwa", "المادة 3", "قائمة الولاية", "الإدارة الإسلامية"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: 'مسجد الولاية الأبيض الحديث بخطوط سقفه المنحنية المقعّرة الممتدّة ومآذنه الخرسانية الثلاث العالية تحت سماء غائمة جزئياً في سيرمبان.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 اسأل مَن يدير الزكاة والوقف والمساجد في ولايتك، فلن يكون الجواب وزارة في بوتراجايا — بل

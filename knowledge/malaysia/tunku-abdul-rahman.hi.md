@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "तुन्कू अब्दुल रहमान"
-seoTitle: तुन्कू अब्दुल रहमान
+seoTitle: "तुन्कू अब्दुल रहमान: मलेशिया के पहले प्रधानमंत्री (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]
@@ -67,6 +67,13 @@ verificationNeeded:
   - "संवेदनशील: 13 मई 1969 की जातीय अशांति (जाति) और मलय शासकों (राजत्व) को छूता है। सभी चित्रण तटस्थ रूप से सारांशित; प्राथमिक स्रोतों के विरुद्ध पुनः जाँच करें और प्रकाशन से पूर्व एक योग्य मानवीय समीक्षक से अनुमोदन लें।"
   - "सटीक तिथियों (प्रधानमंत्रित्व, जन्म, मृत्यु) की पेर्दाना लीडरशिप फ़ाउंडेशन और प्रधानमंत्री कार्यालय के विरुद्ध पुष्टि करें।"
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: 'तुंकू अब्दुल रहमान काले सोंगकोक, हॉर्न-रिम्ड चश्मे और गहरे रंग के ओवरकोट व टाई में, 1960 की एक यात्रा के दौरान एक विमान के सामने श्वेत-श्याम में।'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 31 अगस्त 1957 की सुबह, कुआला लंपुर के खचाखच भरे मेर्देका स्टेडियम के समक्ष,

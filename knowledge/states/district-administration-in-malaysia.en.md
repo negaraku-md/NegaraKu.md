@@ -75,9 +75,16 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: 'A single-storey district office with a blue roof and a wall reading ''Pejabat Daerah Sipitang'', flanked by rows of Malaysian and Sabah flags.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Between the state you vote for and the village where you live, there is one layer of government that is rarely mentioned yet the one you encounter most often when dealing with land, development projects or emergency assistance: the district. This is where state policy turns into actual services, and its centre is the District Office.

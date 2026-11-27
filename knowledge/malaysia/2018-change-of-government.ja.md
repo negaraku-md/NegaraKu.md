@@ -62,6 +62,13 @@ relations:
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
 framework: history-culture
+hero: '/media/malaysia/2018-change-of-government/hero.webp'
+heroAlt: 'マレーシアの投票日に投票所として使われている校舎。有権者向けの案内標識が立っている。'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_general_election_polling_station,_Kajang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1957年の独立後最初の連邦選挙から2018年までの61年間、マレーシアの歴代連邦政府はすべて一つの連立——[アライアンス](/malaysia/the-alliance)、そして1970年代からはその後継である[バリサン・ナショナル](/malaysia/barisan-nasional)——によって組成されてきた。第14回総選挙において、この連続性は終わった：異なる連立が下院の議席の過半数を獲得したのである。

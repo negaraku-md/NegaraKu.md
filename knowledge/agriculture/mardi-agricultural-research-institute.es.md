@@ -31,7 +31,7 @@ faq:
     a: "Entre muchas, MARDI ha liberado la serie MR (como MR 297 y MR 219), las variedades aromáticas MRQ y KADARIA 1, el primer arroz híbrido de Malasia."
 
 lang: "es"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ wikidata: "Q6741932"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-and-food-security" }
   - { rel: "related-to", to: "malaysia-rice-industry" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["MARDI", "investigación agrícola", "agricultural research", "variedades de arroz", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "agricultura Malasia", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'La puerta de entrada principal del instituto de investigación agrícola MARDI en Malasia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: Hileras de plantas de fresa cultivadas en bandejas de sustrato elevadas dentro de un invernadero en Cameron Highlands
+    kind: representative
+    origin: third-party
+    subject: Cultivo protegido de fresas bajo invernadero en Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: Hileras de bancales con acolchado plateado, plántulas jóvenes y cubiertas de invernadero contra la lluvia en la granja de investigación de la Facultad de Agricultura de la Universiti Putra Malaysia
+    kind: representative
+    origin: third-party
+    subject: Bancales de cultivo e invernaderos en una granja de investigación agrícola de una universidad malasia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 Casi cada tazón de arroz local en Malasia se remonta a una variedad mejorada en una estación de campo de MARDI. Detrás del arroz paddy, las aves de corral, la fruta tropical y los estantes de alimentos procesados del país se encuentra un instituto federal cuyo trabajo es convertir la ciencia en mayores rendimientos.

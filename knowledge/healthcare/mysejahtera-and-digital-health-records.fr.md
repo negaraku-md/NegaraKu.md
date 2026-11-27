@@ -29,7 +29,7 @@ faq:
     a: "Le Rapport de l'Auditeur général présenté au Parlement en février 2023 a révélé que les informations personnelles de 3 millions de bénéficiaires de vaccins avaient été téléchargées via un compte « Super Admin » du système MyVAS entre le 28 et le 31 octobre 2021."
 
 lang: "fr"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,35 @@ wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'Un avis imprimé avec code QR d''enregistrement MySejahtera dans un magasin malaisien, élément de la plateforme de santé numérique de la Malaisie.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: Une personne tient un téléphone intelligent affichant une liste de boutique d'applications de santé et de médecine, illustrant les outils numériques de santé grand public sur un téléphone
+    kind: representative
+    origin: third-party
+    subject: Une main tient un téléphone intelligent affichant une liste d'applications personnelles de santé
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: Un clinicien assis à un poste de travail doté de plusieurs écrans affichant un tracé d'ECG, une image d'échographie et un flux vidéo, représentant un système hospitalier de dossiers de santé numériques et d'informatique
+    kind: representative
+    origin: third-party
+    subject: Un clinicien à un poste de travail d'informatique médicale à plusieurs écrans examinant des données numériques de patients
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 Beaucoup de gens ont supprimé MySejahtera de leur téléphone lorsque la pandémie s'est calmée — mais l'application n'a pas disparu. Elle a simplement changé de métier.

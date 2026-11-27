@@ -29,7 +29,7 @@ faq:
     a: "是的。双威医疗控股（Sunway Healthcare Holdings）已于2026年3月18日以代号SUNMED在马来西亚交易所主板上市。此前，新加坡政府投资公司（GIC）已于2021年6月同意投资7.5亿令吉，取得该医疗业务16%的股权。"
 
 lang: "zh"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: '阴云天空下，双威金字塔购物中心巨大的石雕狮头地标和金字塔形屋顶，身后高耸着标有SUNWAY的高楼'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: 近距离拍摄的 Sunway Pyramid 埃及主题立面，带有一个大型金字塔屋顶和一座坐姿狮身人面像，旁边是 'Shopping Mall / Theme Park' 入口标识
+    kind: actual
+    origin: third-party
+    subject: Sunway Pyramid 购物中心正面立面，可见金字塔和狮头人面像，Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Bandar Sunway 市镇的鸟瞰图，可见 Sunway Pyramid 商场、度假酒店、泻湖和成片的住宅高层塔楼，位于巴生谷
+    kind: actual
+    origin: third-party
+    subject: Sunway Group 一体化 Bandar Sunway 市镇的鸟瞰图，可见金字塔商场、度假村、泻湖和住宅塔楼，雪兰莪
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 双威集团将土地变成完整的城镇——在同一份总体规划下建起住宅、商场、医院、大学和主题公园——然后继续经营自己所建成的一切。

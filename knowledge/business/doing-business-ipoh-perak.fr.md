@@ -41,7 +41,7 @@ verificationNeeded:
   - "Investissements approuvés du Perak pour l'ensemble de 2024 et 2025 et son rang — MIDA ne nomme que les cinq premiers États"
 
 lang: "fr"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,34 @@ keywords:
   - "Perak GDP"
   - "Ipoh cost of doing business"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'Vue diurne du centre-ville d''Ipoh avec de modernes tours de bureaux commerciales et un terrain vert, adossé à des collines de calcaire sous un ciel partiellement nuageux'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: Le bâtiment blanc de la gare ferroviaire coloniale d'Ipoh avec ses dômes et ses arcades en arche, vu depuis son parvis pavé sous un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: La gare ferroviaire d'Ipoh, Perak — le bâtiment emblématique à dômes de l'époque coloniale sur son parvis
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: Vue en hauteur du cœur commercial de la ville d'Ipoh, densément rempli de boutiques traditionnelles et de blocs de bureaux, avec une tour de bureaux en verre et des collines calcaires en arrière-plan
+    kind: actual
+    origin: third-party
+    subject: Le cœur commercial de la ville d'Ipoh, Perak — des boutiques traditionnelles et blocs de bureaux denses avec une tour de bureaux en verre et des collines calcaires derrière
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 Ceci est une page courte à dessein. Le régime juridique du Perak est le même que celui du Selangor,

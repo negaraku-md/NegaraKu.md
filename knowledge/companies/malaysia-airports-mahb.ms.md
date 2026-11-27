@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,7 @@ sources:
     publisher: "The Star"
 
 entity: "Malaysia Airports Holdings Berhad (MAHB)"
+wikidata: "Q4202182"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["genting-group"]
@@ -78,6 +79,33 @@ keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airp
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
+hero: '/media/companies/malaysia-airports-mahb/hero.webp'
+heroAlt: 'Menara kawalan trafik udara KLIA berbentuk silinder putih tinggi menjulang bertentangan langit senja dramatik, dengan jalan terminal melengkung di sebelah kanan'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: Laluan pejalan kaki dalaman KLIA Terminal 1 dengan siling berkubah berbilah kayu melengkung, papan tanda arah pintu berwarna biru dan sebuah travelator, seorang pengembara berjalan bersendirian menyusuri lantai berkilat
+    kind: actual
+    origin: third-party
+    subject: Konkors dalaman KLIA Terminal 1, Lapangan Terbang Antarabangsa Kuala Lumpur
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: Konkors KLIA Terminal 1 menunjukkan tiang keluli bumbung putih terbentang lapangan terbang hutan berlatarkan dinding kaca tinggi, dengan papan penghadang naik taraf Malaysia Airports berwarna biru menyusuri laluan
+    kind: actual
+    origin: third-party
+    subject: Konkors KLIA Terminal 1 dengan penjenamaan Malaysia Airports (MAHB)
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 Hampir setiap kali pengembara mendarat di Malaysia, mereka tiba di sebuah lapangan terbang yang dikendalikan oleh satu syarikat. Malaysia Airports Holdings Berhad (MAHB) mengendalikan Lapangan Terbang Antarabangsa Kuala Lumpur — kini berjenama KLIA Terminal 1 dan Terminal 2 — dan, mengikut kiraannya sendiri, 39 lapangan terbang merentasi negara ini, serta satu pintu masuk luar negara di Istanbul. Pada 2025 ia juga menjadi sesuatu yang luar biasa bagi pengendali lapangan terbang kebangsaan: bukan lagi syarikat awam.

@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아는 철강 외의 금속에도 강한가요?
     a: 그렇습니다. 비철금속에서 말레이시아는 세계적으로 경쟁력이 있습니다. 사라왁에 본거지를 둔 Press Metal은 동남아시아 최대의 통합 알루미늄 생산자이고, Malaysia Smelting Corporation은 이 나라의 오랜 주석 채광 역사의 유산으로서 세계 최상위 정제 주석 생산자 중 하나입니다.
 lang: ko
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: '용광로와 높은 굴뚝, 흰 증기 기둥을 갖춘 큰 일관제철소, 뒤로 숲 언덕과 집들이 있는 모습'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: 맑고 푸른 하늘을 배경으로 덕트와 굴뚝에서 흰 증기를 내뿜는 두 개의 키 큰 제철 용광로
+    kind: representative
+    origin: third-party
+    subject: 잉글랜드 스컨소프 제철소의 용광로
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: 제강 공장 내부에서 상부 갠트리, 배관, 강철 통로 위의 작업자들과 함께 있는 대형 전기 아크로
+    kind: representative
+    origin: third-party
+    subject: 룩셈부르크 디페르당주 ProfilARBED 제철소의 전기 아크로 제강 공장 내부
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 말레이시아의 거의 모든 건물·다리·고속도로 뒤에는, 그 모든 것을 떠받치는 금속을 만드는 더 조용한 산업이 있습니다. 철과 철강은 반도체나 팜유처럼 머리기사를 장식하는 일이 드물지만 토대적입니다. 콘크리트 기둥 속의 철근, 케이블 속의 선재, 자동차 문짝의 시트가 그렇습니다. 말레이시아는 이 가운데 상당량을 스스로 만들며 — 몇몇 금속에서는 진정 세계 정상급입니다. 그러나 이야기의 철강 쪽 절반은 이 나라에서 가장 골치 아픈 제조 부문 중 하나이기도 한데, 생산할 수 있는 양과 시장이 실제로 필요로 하는 양 사이의 고질적 불일치로 규정됩니다.

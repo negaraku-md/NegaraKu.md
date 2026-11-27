@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 날씨와 홍수 위험이 계절에 따라 왜 달라지는지 이해하려는 모든 이 — 해안 지역 주민, 여행자, 재난 계획가, 지리 전공 학생, 그리고 MetMalaysia의 기상 경보를 확인하는 누구든."
 
 lang: "ko"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ faq:
   - q: 북동 몬순은 11월부터 3월까지 내내 똑같이 심각합니까?
     a: 아닙니다. 2024/2025 시즌에 대한 국가안전보장회의(MKN)의 공식 자료는 최고 위험 지역이 단계에 따라 바뀐다는 것을 보여줍니다. 초기 단계(11월~12월)에는 클란탄, 트렝가누, 파항, 조호르, 사라왁, 사바가 영향을 받았습니다. 후기 단계(1월~2월)에는 초점이 파항, 조호르, 사라왁, 사바로 옮겨갔고 — 클란탄과 트렝가누는 더 이상 최고 위험 지역으로 분류되지 않았습니다. 시즌 전체로는 5~7회의 폭우가 기록될 것으로 예상됩니다.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: '바람에 몰아치는 비가 인적 없이 물에 젖어 번들거리는 도심 광장 위로 휘어진 야자수 무리를 후려치고, 납빛 하늘 아래 잎사귀들이 옆으로 나부끼며 고층 빌딩들이 폭우 속으로 흐릿하게 사라진다.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: 거센 열대 폭우 속에서 자동차 한 대가 거리를 뒤덮은 황갈색 홍수 물을 가르며 물보라를 일으킨다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 잘란 라자 출란을 침수시킨 폭우
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: 탁한 홍수 물에 잠긴 마을 길에 세찬 비가 쏟아지고, 물속에 바나나 나무와 전봇대가 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 사바주 산다칸의 캄풍 도로를 뒤덮은 몬순 홍수
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 해마다 11월이면, 뉴스를 확인하기도 전에 코타바루(Kota Bharu), 쿠알라트렝가누(Kuala Terengganu), 콴탄(Kuantan)의 많은 주민이 집 근처 강의 수위를 살피기 시작합니다. 이는 예기치 못한 재난에서 생겨난 습관이 아닙니다. 해마다 되풀이되는 예측 가능한 일정이며, 그 원인은 서해안이 언제 마르는지를 함께 결정하는 바로 그 같은 계절풍 체계입니다.

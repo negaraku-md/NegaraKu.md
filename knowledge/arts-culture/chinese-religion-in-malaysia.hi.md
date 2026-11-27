@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "hi"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: तुआ पेक कोंग कौन हैं, और सबसे पुराना तुआ पेक कोंग मंदिर कहाँ है?
     a: तुआ पेक कोंग (Tua Pek Kong, 大伯公) एक सशक्त स्थानीय स्वरूप वाले देवता हैं, जिनकी पूजा मलेशिया भर के चीनी मंदिरों में व्यापक रूप से होती है। कहा जाता है कि सबसे पुराना तुआ पेक कोंग मंदिर पेनांग के तंजुंग तोकोंग (Tanjung Tokong) में है, और यह आस्था बाद में मलेशिया, सिंगापुर और इंडोनेशिया के विभिन्न भागों में फैली। मलय भाषा में ऐसे मंदिर को tokong कहते हैं; अन्य प्रसिद्ध मंदिरों में मलक्का का चेंग हून तेंग (Cheng Hoon Teng) और कुआलालंपुर का थियान हो मंदिर (Thean Hou) शामिल हैं।
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'कुआलालंपुर में चीनी थियान होउ मंदिर की ऊपर की ओर मुड़ी, ड्रैगनों से सजी छतें, नीले आकाश की पृष्ठभूमि में लटकती लाल लालटेनों की कतारों से घिरी हुई।'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: जोहोर बाहरू पुराने चीनी मंदिर का अलंकृत अग्रभाग, जिसमें छत पर ड्रैगन की मूर्तियाँ, चीनी-मिट्टी की उभरी कलाकृतियाँ और प्रवेश पर लाल लालटेन हैं।
+    kind: actual
+    origin: third-party
+    subject: जोहोर बाहरू पुराना चीनी मंदिर, एक चीनी लोक-धर्म मंदिर
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: पेनांग के जॉर्ज टाउन में करुणा-देवी मंदिर के सामने धुआँ उठाती जलती अगरबत्तियों के गुच्छे, एक लंबे समय से स्थापित चीनी पूजा-स्थल।
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में करुणा-देवी मंदिर (Goddess of Mercy Temple) में जलती अगरबत्तियाँ
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 मलेशिया के किसी भी चीनी मंदिर में जाएँ, तो बहुत संभव है कि एक ही स्थान में बुद्ध,

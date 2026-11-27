@@ -72,7 +72,7 @@ sources:
 
 entity: "Retail Pharmacy Business (Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "start-private-clinic-malaysia", "business-licence-malaysia"]
 keywords: ["فتح صيدلية في ماليزيا", "رخصة السموم من النوع A", "رخصة صيدلية تجزئة ماليزيا", "صيدلي مسجَّل ماليزيا", "شهادة الاستبقاء السنوية للصيدلي", "قانون السموم 1952", "تأسيس صيدلية مجتمعية", "open pharmacy malaysia", "type A poisons licence malaysia", "registered pharmacist malaysia", "poisons act 1952 malaysia", "pharmacy enforcement division"]
 social:
   hashtags:

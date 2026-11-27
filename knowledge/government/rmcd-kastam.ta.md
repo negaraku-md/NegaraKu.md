@@ -36,7 +36,7 @@ verificationNeeded:
   - "MySST மற்றும் ezHS-ஐத் தாண்டிய போர்ட்டல் பட்டியல் (MyTTx, MyDLV, வரி முத்திரை அமைப்பு, MNTR) மேற்கோள் காட்டப்பட்ட RMCD பக்கத்திற்கு எதிராக உறுதிப்படுத்தப்படவில்லை; Customs Duties Order-இன் தற்போதைய பதிப்பும், ezHS-இல் உள்ள முன்னுரிமை FTA அட்டவணைகளின் எண்ணிக்கையும் இதேபோல் உறுதிப்படுத்தப்படாதவை, மேலும் அவை பண்பு ரீதியாக விவரிக்கப்பட்டுள்ளன"
 
 lang: "ta"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,34 @@ relations:
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
 framework: profile
+hero: '/media/government/rmcd-kastam/hero.webp'
+heroAlt: 'Sabah Lahad Datu-வில், பச்சை மரங்களுக்கிடையே, தெளிந்த நீல வானத்திற்குக் கீழே ஒரு பிரகாசமான வான்நீல அரசாங்கக் கட்டிடம்; அதன் முக்கோண முன்பக்கம் தங்க எழுத்துக்களில் Kastam Diraja Malaysia எனப் படிக்கும் எழுத்துக்களுக்கு மேல் மலேசிய அரச சுங்கச் சின்னம்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: புத்ராஜெயாவில் உள்ள கிரீம் நிற பல-மாடி மலேசிய அரச சுங்கத் துறை தலைமையகக் கட்டிடம்; அதன் மேல் முகப்பில் Jabatan Kastam Diraja Malaysia எனப் பொறிக்கப்பட்டு, சாலையோர மரங்களின் திரை வழியே தெருவிலிருந்து பார்த்த காட்சி
+    kind: actual
+    origin: third-party
+    subject: கூட்டாட்சி நிர்வாக மையமான புத்ராஜெயாவில் உள்ள மலேசிய அரச சுங்கத் துறை தலைமையகம்
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: Wisma Kastam Sabah மற்றும் Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department பலகைகளைச் சுமக்கும் பீச்-கிரீம் நிற இரு-மாடி சுங்கக் கட்டிடம், கோட்டா கினபாலுவில் நீல நிற நினைவுத்தூண் பலகை மற்றும் மேற்கூரையுடன் கூடிய வாகனப் பாதையுடன், வெப்பமான ஒளியில்
+    kind: actual
+    origin: third-party
+    subject: சபா மாநிலம் கோட்டா கினபாலுவில் உள்ள மலேசிய அரச சுங்கத் துறை மாநிலக் கட்டிடமான Wisma Kastam Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 இரண்டு நிறுவனங்கள், ஒரே அமைச்சு, மற்றும் முதல் முயற்சியில் யாருமே சரியாக

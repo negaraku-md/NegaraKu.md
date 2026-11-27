@@ -27,7 +27,7 @@ verificationNeeded:
   - "การยกเว้น/ส่วนลดค่าบริการเฉพาะสำหรับพลเมืองอายุ 60 ปีขึ้นไป — ได้รับรายงานอย่างแพร่หลายว่าเป็นการยกเว้นค่าลงทะเบียนคลินิกผู้เชี่ยวชาญ RM5 และลด 50% ของค่าบริการชั้น 3 — ไม่สามารถตรวจสอบได้โดยตรงบนเว็บไซต์ทางการ moh.gov.my (403 Forbidden ขณะพยายามเข้าถึง) ดังนั้นตัวเลขเหล่านั้นจึงจงใจไม่ระบุเป็นข้อเท็จจริงที่ตรวจสอบแล้ว; อธิบายเฉพาะกลไกโดยทั่วไป"
   - "สถิติเวลารอคอย (เช่น จำนวนวัน/ชั่วโมงเฉลี่ยสำหรับการนัดหมายผู้เชี่ยวชาญหรือการผ่าตัดเชิงเลือก) ไม่ได้ระบุเพราะไม่พบตัวเลขทางการของ KKM ที่สามารถตรวจสอบได้ ณ ขณะเขียน; ความจริงของเวลารอคอยอธิบายเชิงคุณภาพเท่านั้น"
 lang: "th"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,33 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'ภายนอกของอาคารแพทย์เฉพาะทางและบริการแบบไปกลับที่โรงพยาบาลกัวลาลัมเปอร์ ซึ่งเป็นโรงพยาบาลรัฐของมาเลเซีย พร้อมตราเสี้ยววงเดือนแดงบนด้านหน้าสีขาว'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: อาคารแผนกสูติกรรมสไตล์โมเดิร์นสีชมพูของ Hospital Kuala Lumpur มองผ่านต้นไม้ มีตึกระฟ้าของเมืองกัวลาลัมเปอร์อยู่ไกลออกไป
+    kind: actual
+    origin: third-party
+    subject: อาคารแผนกสูติกรรม (Hospital Bersalin) ที่ Hospital Kuala Lumpur พร้อมเส้นขอบฟ้า KLCC เป็นฉากหลัง
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: อาคารแผนกชั้นเดียวที่ Hospital Kuala Lumpur มีป้ายภาษามลายูสีน้ำเงินเขียนว่า Jabatan Perubatan Rehabilitasi และรถจอดอยู่ด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: อาคารแผนกเวชศาสตร์ฟื้นฟู (Jabatan Perubatan Rehabilitasi) ที่ Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 ตั๋วคิวอยู่ในมือ หมายเลขข้างหน้าคุณมากกว่า 80 คนแล้ว และป้ายดิจิทัลบนผนังยังคงแสดงหมายเลขที่ต่างกันมาก — หลายคนเคยประสบช่วงเวลานี้ที่โรงพยาบาลรัฐ แต่ข้างป้ายนั้นก็ติดรายการค่าบริการที่แสดงว่าเหตุใดหลายคนจึงยังกลับมา คือการมาพบแพทย์ที่คลินิกเอกชนอาจมีราคาหลายสิบริงกิต แต่ที่นี่เพียง RM1 คำถามไม่ใช่ว่าโรงพยาบาลรัฐคุ้มค่าหรือไม่ — แต่คือวิธีการใช้จริง ๆ อย่างไรให้ค่าบริการที่ได้รับการอุดหนุนนั้นมีผลบังคับใช้ และอะไรเป็นตัวกำหนดว่าคน ๆ หนึ่งต้องรอนานเท่าใด

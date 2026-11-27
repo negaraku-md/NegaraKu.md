@@ -43,7 +43,7 @@ sources:
     publisher: "PubMed"
 
 lang: "ms"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ drinkFacts:
   halal: "Jus soursop ialah isi buah yang diadun dengan air atau susu dan gula, tanpa alkohol, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidang sejuk, diadun segar bila dipesan — lebih ringan dengan air, lebih pekat dengan susu sebagai smoothie. Minuman buah yang menyegarkan; nikmatinya sebagai itu, dan perhatikan bahawa dakwaan kesihatan dan 'anti-kanser' yang dikaitkan dengan soursop tidak terbukti pada manusia dan bukan pengganti rawatan perubatan."
   where: "Terdapat di bar jus, gerai jaja dan gerai buah di seluruh negara, di mana sahaja jus buah tropika segar diadun."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'Longgokan buah durian belanda hijau berduri segar di sebuah gerai pasar, dengan betik dan pisang di latar belakang'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: Buah durian belanda hijau berduri di dalam mangkuk logam di sebelah bakul biru berisi limau nipis hijau cerah di pasar
+    kind: actual
+    origin: third-party
+    subject: buah durian belanda utuh di sebelah bakul limau nipis segar di gerai buah
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 Berduri, hijau dan berat, **soursop** kelihatan pada pandangan pertama seperti durian

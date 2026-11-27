@@ -31,7 +31,7 @@ faq:
     a: "Après deux reports, il s'applique aux grands et moyens opérateurs à partir du 30 décembre 2026, et aux micro et petites entreprises à partir du 30 juin 2027. La date limite de déforestation est le 31 décembre 2020."
 
 lang: "fr"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'Une plantation de palmiers à huile soignée et bien gérée s''étendant sur un terrain vallonné et vert sous un ciel vif dans le district de Mersing, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: Deux ouvriers de plantation en bottes debout près de palmiers à huile, l'un tenant un régime de fruits fraîchement coupé sur une faucille de récolte, à Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Ouvriers de plantation avec un régime de fruits frais récolté dans une plantation de palmiers à huile à Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: Rangées ordonnées de jeunes plants de palmier à huile poussant dans des sacs en plastique noirs dans une pépinière de plantation à Sungai Mangis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Plants de palmier à huile élevés en sacs plastiques dans une pépinière commerciale à Sungai Mangis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 Un seul envoi d'huile de palme malaisienne doit désormais répondre à trois corpus de règles différents à la fois : un programme national obligatoire au pays, un club volontaire d'acheteurs dans la salle du conseil, et une loi européenne sur la déforestation qui peut le bloquer au port. Pour une industrie qui a expédié 22.30 millions de tonnes d'huile de palme et de produits à base de palme durant les dix premiers mois de 2024 à eux seuls — rapportant RM89.39 milliards — la paperasse n'est plus une formalité. C'est l'accès au marché.

@@ -107,6 +107,12 @@ keywords:
   - "do I need a company secretary"
   - "company secretary requirements Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Tout propriétaire d''une société malaisienne, y compris les sociétés en sommeil et sans activité, puisque le Companies Act 2016 ne prévoit aucune exemption de l''obligation de secrétaire au titre de la petite taille, du chiffre d''affaires ou de l''inactivité.'
+  how: 'Votre société doit avoir au moins un secrétaire qui soit une personne physique, âgée de 18 ans ou plus, de nationalité malaisienne ou résident permanent résidant habituellement en Malaisie, et qui franchisse un second filtre : soit l''appartenance à un organisme professionnel figurant à la Fourth Schedule, soit une licence de la SSM. Cette personne doit aussi être enregistrée auprès du Registrar et détenir un certificat d''exercice valide. Le conseil d''administration doit nommer le premier secrétaire dans les 30 jours de la constitution, et le poste ne peut rester vacant plus de 30 jours d''affilée.'
+  cost: 'Il n''existe aucun barème officiel des honoraires de secrétariat, de sorte qu''aucun prix ne peut être cité ; c''est l''étendue de la mission, et non un prix, qui détermine le devis, tandis que les frais de dépôt statutaires propres à la SSM sont refacturés à l''identique et publiés séparément. Demandez la lettre de mission par écrit et vérifiez les frais statutaires de la SSM en vigueur dans la ROC Table of Fees (barème des frais) de la SSM.'
+  watch: 'La loi prescrit qui peut être secrétaire, non les services qu''il doit fournir, de sorte que l''étendue de la mission est contractuelle et non légale, et deux devis très différents correspondent généralement à deux étendues différentes, non à l''un honnête et l''autre cupide. Un administrateur étranger peut croire qu''il peut occuper la fonction, mais le critère du secrétaire exige la nationalité ou la résidence permanente, ce qui est plus strict que le critère de résidence de l''administrateur. Vérifier le certificat d''exercice relève du risque propre de l''administrateur, et non du seul secrétaire.'
+  next: 'Obtenez la lettre de mission et lisez les exclusions avant les inclusions, puis vérifiez le numéro de certificat d''exercice du secrétaire dans le registre des secrétaires de la SSM avant de le nommer.'
 ---
 
 Presque tout ce qui a été écrit sur les secrétaires généraux en Malaisie a été écrit par des

@@ -33,7 +33,7 @@ faq:
     a: "清明は一年のうち義山が最もにぎわう日です。清明の前後およそ十日間、華人の家庭はしばしば一家そろって義山へ墓参りに行き、祖先を祀ります——草を取り、墓石を清め、薄れた刻字を描き直し、供え物を並べます。広東では墓参りを俗に「拝山」と呼び、この言い方も移民とともに南洋へ伝わりました。近年では、一部の義山の管理者が環境に配慮した簡素なあり方やごみの適切な処理を勧めており、一部の家庭は納骨堂への参拝やオンラインでの追悼によってこの日を過ごすようになっています。"
 
 lang: "ja"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'マラッカの三宝山（Bukit China）墓地の丘にある、金文字の碑文と彫刻を施した側壁を備えた大きな馬蹄形の華人の墓。木立の中の草に覆われた塚に築かれている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: サラワクの草地に並ぶ、墓石と祭壇を備えたタイル張りのオメガ型（馬蹄形）の華人墓
+    kind: actual
+    origin: third-party
+    subject: サラワク州クチン近郊の華人墓地にあるタイル張りの馬蹄形の華人墓
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: 清明の墓参りの折、草の盛り土の墓に色紙の帯を重ねて置き、傍らに墓石が立つ
+    kind: representative
+    origin: third-party
+    subject: ブキッ・ブラウン墓地での清明（墓掃除）の際、墓の盛り土に重しとして置かれた色紙
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 清明の前後、空がすっかり明るくなる前から、マラッカの三宝山（ブキッ・チナ）のふもとにはすでに車がびっしりと停まっています。家族連れが生花・線香・ろうそく・供え物を手に、起伏のある斜面を自家の祖先の墓へと登っていきます。まず墓のかたわらの「后土」と刻まれた小さな石の祠に線香を上げ、それから向きを変えて祖先の墓石を手入れする人もいます——草を取り、薄れた刻字を描き直し、供え物を並べます。斜面にびっしりと並び、向きのそろった墓は、代々南へ渡ってきた華人たちの安らぎの地です。

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "லபுவான் அமைப்பு ஒன்றை மதிப்பிடும் நிறுவனர்கள், வரி ஆலோசகர்கள் மற்றும் நிதிக் குழுக்கள், மேலும் மலேசியாவின் மற்றப் பகுதிகளிலிருந்து லபுவான் ஏன் வேறுபட்டு நடத்தப்படுகிறது என்பதைப் புரிந்துகொள்ள விரும்பும் வாசகர்களுக்கு."
 
 lang: "ta"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,9 +67,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'பிரகாசமான வானத்திற்குக் கீழே பனை மரங்களுக்கு மேல் உயரும் Financial Park Labuan வளாகத்தின் நவீன வளைந்த நீல-கண்ணாடி மற்றும் வெள்ளி கோபுரங்கள்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: அடர்-நீல வானத்தை எதிர்த்து நிற்கும் Labuan-இன் உயரமான சிவப்பு-செங்கல் Chimney கோபுரம், அதன் அடிவாரத்தைச் சுற்றி தென்னை மரங்கள் மற்றும் பச்சைப் புல்வெளியுடன்
+    kind: actual
+    origin: third-party
+    subject: தென்னை மரங்களுக்கு அருகில் ஒரு புல்வெளியில் நிற்கும், Labuan-இன் உயரமான சிவப்பு-செங்கல் காலனித்துவ காலத்து அடையாளமான The Chimney
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: துறைமுகத்திலிருந்து பார்க்கப்பட்ட Labuan நகரத்தின் படகுத்துறை மற்றும் கடற்கரையோர கட்டிடங்கள், மேகமூட்டமான நீல வானத்தின் கீழ் படகுகள் மற்றும் தீவு வானளாவிய காட்சியுடன்
+    kind: actual
+    origin: third-party
+    subject: கடலிலிருந்து துறைமுகத்திற்கு அப்பால் தெரியும் Labuan-இன் படகுத்துறை முனையப் படகுத்துறை மற்றும் கடற்கரையோர நகரம்
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 இரண்டு நிறுவனங்கள், ஒரே உரிமையாளர்கள், ஒரே வாடிக்கையாளர்கள். ஒன்று கோலாலம்பூரில்

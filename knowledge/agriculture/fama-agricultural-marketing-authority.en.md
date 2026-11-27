@@ -31,7 +31,7 @@ faq:
     a: "Producers can market directly to consumers through FAMA channels such as Permanent Farmers' Markets, Agrobazaar, My Farm Outlet and Fresh Fruit Stalls, or take part in programmes such as Contract Farming and RANTAI. Participation details are confirmed at fama.gov.my."
 
 lang: "en"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'Rows of canopy stalls at a Pasar Tani farmers'' market in Putrajaya, Malaysia.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: A handcart stall heaped with rambutan and langsat, draped with the Malaysian flag, at Central Market, Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Street fruit vendor selling rambutan and langsat in Kuala Lumpur
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: A market stall displaying asparagus, avocados, mangoes and pumpkins priced in ringgit at Kea Farm, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Fresh local produce on sale at a Kea Farm market stall, Cameron Highlands
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 A vegetable farmer in the [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) may grow the finest produce, yet the

@@ -86,9 +86,35 @@ relations:
   - { rel: "related-to", to: "stpm-vs-matriculation" }
   - { rel: "related-to", to: "tvet-malaysia" }
   - { rel: "related-to", to: "public-universities-malaysia" }
-related: []
+related: ["muet-and-university-entrance-tests"]
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: 'A group of smiling Malaysian secondary-school students posing together in their school uniforms, including white shirts, headscarves and house tracksuits.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: Schoolchildren in uniform using tablet computers at desks in a Malaysian school smart library
+    kind: representative
+    origin: third-party
+    subject: Malaysian primary pupils learning with tablets in a school smart library
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: Multi-storey Malaysian secondary school building with covered walkways under a blue sky
+    kind: representative
+    origin: third-party
+    subject: A Malaysian national secondary school building (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 Ask three Malaysians to describe "the education system" and you'll get three different maps. One talks about SK versus SJKC. Another talks about STPM versus matriculation. A third mentions an SKM certificate that nobody outside technical training has heard of. All three are describing the same system — just from different branches of it.

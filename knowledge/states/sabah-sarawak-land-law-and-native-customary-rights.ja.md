@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'サラワクの田舎の緑豊かな森の川岸沿いに、波型金属屋根を持つ木造の細長いイバン族のロングハウスが、高床の杭の上に建っている。'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 クアラルンプールで家を買えば、あなたの権原は一つの連邦成文法によって規律される。クチンやコタキナバルで同じことをすれば、あなたはまったく別の法律の世界に足を踏み入れることになる——独自の法令、独自の土地区分、そしていかなる紙の文書によっても創られなかった保有形態を持つ世界、すなわち先住民慣習権（Native Customary Rights）である。

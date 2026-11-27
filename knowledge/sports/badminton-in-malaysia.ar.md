@@ -37,7 +37,7 @@ faq:
     a: "استقال زي جيا من BAM في يناير 2022 ليصبح لاعبًا مستقلًا بعد نحو عقد مع الهيئة منذ سن الثالثة عشرة. أراد التركيز على تدريبه الخاص وتحسين تصنيفه، وشدّد على أنه سواء أكان لاعبًا وطنيًا أم لاعبًا مستقلًا، فإنهم ما زالوا يرفعون العلم الماليزي (Jalur Gemilang)."
 
 lang: "ar"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "الريشة الطائرة ماليزيا"
   - "badminton Malaysia"
@@ -101,6 +101,32 @@ keywords:
   - "Lee Zii Jia"
   - "أبطال أول إنجلترا"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'نجم الريشة الطائرة الماليزي لي تشونغ وي يندفع لأداء ضربة أمامية خلال مباراة أولمبية.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: استاد Axiata Arena المغلق في كوالالمبور، وهو المكان الذي استُخدم لمباريات تنس الريشة في دورة SEA Games 2017.
+    kind: actual
+    origin: third-party
+    subject: Axiata Arena، الملعب الوطني لتنس الريشة في مجمّع Bukit Jalil الرياضي
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: لاعب تنس الريشة الماليزي Hafiz Hashim يندفع لضرب الكرة خلال مباراة في بطولة Malaysia Open 2008.
+    kind: actual
+    origin: third-party
+    subject: لاعب الفردي الماليزي Hafiz Hashim يتنافس في بطولة Malaysia Open 2008
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 في مايو 1992، توقّفت الأمة كلها لحظةً. ففي ستاد نيغارا بكوالالمبور، هزم فريقٌ من الشباب بقيادة الإخوة سيدك إندونيسيا ليرفع كأس توماس — وكما قال داتوك راشد سيدك، «انتشرت ماليزيا كلها كالنار في الهشيم وأراد الجميع أن يلعبوا الريشة الطائرة». وبعد ثلاثة عقود، لم يعد الكأس بعد. قصة الريشة الطائرة الماليزية قصة مجدٍ مبكر، وجفافٍ موجع، وبطلٍ أو اثنين يحملان آمال أمة على كتفيهما.

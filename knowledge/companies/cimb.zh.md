@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,35 @@ verificationNeeded:
   - "作为马来西亚按资产计第二大银行以及东盟最大五家银行集团之一的排名——属位置性且随时间变动；对照同业当前的资产负债表重新确认。"
   - "客户数目（第三方简介所引数字差异甚大，例如零售约1,350万相较于总计约2,500万）——在公布任何数字前对照 CIMB 自身当前的报告核实。"
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: '一座古铜色玻璃办公塔楼顶着巨大的红色CIMB BANK招牌，侧面挂着红色CIMB BANK和CIMB ISLAMIC横幅，耸立于吉隆坡街道之上'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: 一座玻璃幕墙的现代大楼，顶部附近有红色 CIMB 徽标，矗立在 KL Sentral 的 Q Sentral 大楼旁，被深色树叶环绕
+    kind: actual
+    origin: third-party
+    subject: 位于 Kuala Lumpur Sentral 的现代 CIMB 大楼，从 Perdana 植物园望去
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: 一座白色殖民时期的两层历史建筑，内设 CIMB Bank 分行，底层入口上方挂有红色 CIMB BANK 标识
+    kind: actual
+    origin: third-party
+    subject: 位于马六甲市 Bendahara 街一栋历史建筑内的 CIMB Bank 分行
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 在马来西亚的商业活动中，几乎转身即可遇见 CIMB——而且在东南亚各地也日益如此。它是一家综合银行，意即从受薪者的储蓄账户到数十亿令吉的债券发行与跨境收购，无所不做，而且不仅在马来西亚，也透过在印度尼西亚、泰国与新加坡的庞大业务进行。

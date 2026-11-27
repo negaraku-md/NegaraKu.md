@@ -100,6 +100,7 @@ dishFacts:
   halal: "Traditional Chinese-style versions are not halal: cubes of congealed pig's blood and fried lard are classic additions, and Penang's bowl often includes the coagulated pig's blood that enriches and darkens the broth. Many Muslim-run, halal versions leave the pork out. Because recipes vary from stall to stall, it is best to check the individual stall."
   eat: "The heat usually arrives separately -- a spoonful of chilli paste (or sambal) is stirred in or served on the side so each diner can adjust it. In the Kuala Lumpur and central curry-laksa style the chilli paste is often stirred straight into the soup, while Penang curry mee is typically served with chilli paste on the side and finished with a sprig of fresh mint."
   where: "Curry mee is sold nationwide at kopitiam (coffee shops), hawker centres and street stalls, as a breakfast and all-day staple. Penang's George Town is the best-known hunting ground, with long-running stalls building reputations over generations, while the Klang Valley and other peninsular cities serve the curry-laksa version in equal abundance."
+wikidata: "Q391082"
 ---
 
 Order "curry mee" in George Town and you get a mild, fragrant bowl of coconut

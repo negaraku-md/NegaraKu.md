@@ -33,7 +33,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "मलेशिया में अकाउंटिंग अध्ययन और योग्यता के मार्ग"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'यह उन छात्रों और करियर-बदलने वालों के लिए है जो मलेशिया में अकाउंटेंट बनने का तरीक़ा तय कर रहे हैं, और डिग्री, ACCA, CIMA या किसी अन्य पेशेवर मार्ग के बीच तुलना कर रहे हैं।'
+  how: 'पहले गंतव्य तय करें: आप कानूनी रूप से तभी पेशेवर अकाउंटेंट होते हैं जब आप Accountants Act 1967 के अंतर्गत मलेशियाई अकाउंटेंट संस्थान (MIA) के सदस्य हों। MIA तक तीन रास्ते पहुँचते हैं — कोई मान्यता-प्राप्त डिग्री और अनुभव; कोई मान्यता-प्राप्त पेशेवर निकाय (ACCA, CIMA और अन्य) और अनुभव; या MIA Qualifying Examination और अनुभव। ACCA का झुकाव ऑडिट, सार्वजनिक प्रैक्टिस और वैश्विक पोर्टेबिलिटी की ओर है; CIMA का प्रबंधन लेखांकन और उद्योग की ओर।'
+  cost: 'शुल्क, परीक्षाओं की संख्या और किसी प्रत्यायित डिग्री पर मिलने वाली छूटें, सभी प्रत्येक प्रत्यायन चक्र के साथ बदलती हैं, इसलिए वर्तमान आँकड़ों का कुल जोड़ स्वयं निकाय, शिक्षण प्रदाता और विश्वविद्यालय से निकालें — किसी बताई गई छूट-संख्या पर कभी भरोसा न करें।'
+  watch: 'अकेले ACCA या CIMA आपको मलेशियाई अकाउंटेंट नहीं बनाते — MIA सदस्यता बनाती है, और योग्यता तथा अनुभव ही उस तक पहुँचने का मार्ग है। छूट-संख्या इस विषय का सबसे ज़्यादा बदलने वाला तथ्य है; इसे प्रति कार्यक्रम पुष्टि करें।'
+  next: 'उस निकाय को चुनें जिसका सामान्य गंतव्य आपके इच्छित कार्यक्षेत्र से मेल खाता हो, पुष्टि करें कि वह वर्तमान में MIA सदस्यता तक ले जाता है और क्या अनुभव अपेक्षित है, फिर अपने प्रवेश-बिंदु, अध्ययन-विधि और छूटों को अनुकूलित करें। देखें कॉलेज डिपॉज़िट भरने से पहले।'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'मलेशियाई विश्वविद्यालय का व्याख्यान-कक्ष परिसर, जिस पर "KOMPLEKS DEWAN KULIAH" लिखा चिह्न है, मैरून रंग की शैक्षणिक इमारतों और ढकी हुई पैदल राह के साथ।'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: किसी मलेशियाई विश्वविद्यालय का व्याख्यान-कक्ष, जहाँ सीढ़ीनुमा सीटों की पंक्तियाँ हैं और जिस तरह के कक्ष में डिग्री तथा पेशेवर लेखांकन के विद्यार्थी कक्षाओं के लिए बैठते हैं।
+    kind: actual
+    origin: third-party
+    subject: Universiti Malaysia Sabah का एक विश्वविद्यालय व्याख्यान-कक्ष
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: University of Malaya के एक पुस्तकालय में अलग-अलग अध्ययन-मेजों की शांत पंक्तियाँ, जहाँ विद्यार्थी डिग्री तथा ACCA या CIMA के पेपरों पर मेहनत करते हैं।
+    kind: representative
+    origin: third-party
+    subject: University of Malaya के एक पुस्तकालय में अध्ययन-मेजें
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 मलेशिया में अकाउंटेंट कैसे बनें, यह तय करने वाला कोई भी व्यक्ति सीधे एक अक्षर-सूप से टकराता है: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE।** यह प्रतिस्पर्धी योग्यताओं के एक मेन्यू जैसा दिखता है जिनमें से आपको चुनना है। इसे बेहतर यूँ समझा जाता है कि **एक ही मंज़िल है जिस तक पहुँचने के कई रास्ते हैं** — और जैसे ही आप मंज़िल देख लेते हैं, विकल्प अपनी-अपनी जगह बैठ जाते हैं।

@@ -20,7 +20,7 @@ keyTakeaways:
   - "Anglo-Dutch Treaty of 17 March 1824 nhượng Melaka vĩnh viễn cho Anh để đổi lấy Bencoolen; việc chuyển giao thực tế có hiệu lực vào ngày 1 tháng 3 năm 1825"
 appliesTo: "Độc giả đã biết Melaka đổi chủ từ tay người Bồ Đào Nha sang Hà Lan rồi sang Anh, và muốn hiểu vì sao 184 năm ở giữa lại trông khác biệt đến vậy so với 130 năm trước đó và 121 năm sau đó — cùng với việc chuyển giao cho Anh thực sự đã diễn ra như thế nào."
 lang: "vi"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: Melaka có chuyển từ tay người Hà Lan sang người Anh trong một lần bàn giao gọn gàng không?
     a: Không. Nó đã đổi chủ về mặt hành chính bốn lần trong ba mươi năm. Anh chiếm đóng Melaka năm 1795 theo các Thư Kew (Kew Letters) để giữ nó khỏi rơi vào tay Pháp, Melaka được trả lại cho người Hà Lan năm 1818, Hiệp ước Anh-Hà Lan 1824 (ký ngày 17 tháng 3 năm 1824) nhượng vĩnh viễn nó cho Anh để đổi lấy Bencoolen ở Sumatra, và việc chuyển giao thực tế có hiệu lực vào ngày 1 tháng 3 năm 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'Tòa nhà Stadthuys thời thuộc địa Hà Lan màu đỏ sẫm và tháp đồng hồ đỏ của nó tại Quảng trường Hà Lan ở Melaka, với bùng binh đầy hoa và biển chỉ đường phía trước.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: Mặt tiền gạch đỏ sẫm của Christ Church Melaka, với một cây thánh giá trắng và một chiếc đồng hồ gắn trên đầu hồi, vươn lên trên nền trời.
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka, nhà thờ do người Hà Lan xây năm 1753
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: Một cổng vòm quét vôi trắng mang tấm biển 'Kubur Belanda / The Dutch Graveyard' mở ra một khu nghĩa trang thời thuộc địa rợp bóng cây trên đồi St Paul ở Melaka.
+    kind: actual
+    origin: third-party
+    subject: Nghĩa trang Hà Lan (Kubur Belanda) trên đồi St Paul, Melaka
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 Một công ty bỏ ra bảy tháng và một liên minh với một vương triều nước ngoài để chinh phục một hải cảng. Rồi nó dành một thế kỷ rưỡi tiếp theo để bảo đảm hải cảng đó không bao giờ giàu có.

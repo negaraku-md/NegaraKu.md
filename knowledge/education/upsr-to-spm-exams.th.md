@@ -21,7 +21,7 @@ verificationNeeded:
   - "รายละเอียดเต็มของรูปแบบและวิชาของ Matriks Pembelajaran ชั้นมัธยมปีที่ 3 (เริ่ม 2027) ยังไม่ได้รับการยืนยันอย่างละเอียดบนเว็บไซต์ทางการของคณะกรรมการการสอบในระหว่างการจัดทำร่างนี้; ยืนยันเฉพาะตารางชั้นปีที่ 4 ปี 2026 (4 วิชาแกน) ตรวจสอบซ้ำที่ lp.moe.gov.my เมื่อร่างชั้นมัธยมปีที่ 3 เผยแพร่"
   - "ว่าสภาที่ปรึกษาการศึกษาแห่งชาติ (MPPK) ได้เผยแพร่รายงานฉบับเต็มของการทบทวน UPSR/PT3 ต่อคณะรัฐมนตรีแล้วหรือไม่ ไม่สามารถยืนยันได้จากแหล่งข้อมูลทางการในระหว่างการจัดทำร่างนี้; คำแถลงของรัฐมนตรีในเดือนมกราคม 2026 ถือเป็นจุดยืนล่าสุดที่มีอยู่"
 lang: "th"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'ภาพภายในหอประชุมโรงเรียน (dewan) ของ SMK Gajah Berang ในมาเลเซีย โดยนักเรียนนั่งเป็นแถวบนเก้าอี้หันหน้าเข้าหาเวที ซึ่งเป็นหอประชุมประเภทที่ใช้สำหรับการชุมนุมและการสอบสาธารณะ'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: หอประชุม (dewan) สีฟ้าและเหลืองสดใสของ SMK Bugaya II ในรัฐซาบะฮ์ หอประชุมประเภทที่ใช้จัดสอบระดับชาติเช่น SPM
+    kind: representative
+    origin: third-party
+    subject: หอประชุม (dewan) ของโรงเรียนมัธยมมาเลเซียประเภทที่ใช้สอบระดับชาติ
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: อาคารเรียนหลายชั้นของ SMK Sapulut โรงเรียนมัธยมรัฐบาลในรัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนมัธยมมาเลเซีย (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 ถ้าบุตรของคุณตอนนี้อยู่ชั้นปีที่ 6 เขาจะไม่สอบ UPSR ถ้าเด็กคนนั้นอยู่ชั้นมัธยมปีที่ 3 ก็ไม่มี PT3 รออยู่ การสอบใหญ่ที่แต่ก่อนกำหนดเส้นทางการเรียนทั้งหมด — ที่พ่อแม่ของคุณเองอาจผ่านมาด้วยความเครียดเต็มที่ — หายไปแล้วตั้งแต่หลายปีก่อน แต่ผู้ปกครองจำนวนมากยังสับสน: อะไรมาแทนที่มัน มันจะถูกนำกลับมาหรือไม่ และอะไรกันแน่ที่เกิดขึ้นในโรงเรียนของบุตรตอนนี้ทุกวัน

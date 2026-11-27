@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया में जहाज़-निर्माण तेल और गैस से इतना क्यों जुड़ा है?
     a: मलेशियाई शिपयार्ड जो वाणिज्यिक बेड़ा बनाते और मरम्मत करते हैं, उसका अधिकांश हिस्सा — ऑफ़शोर सपोर्ट पोत, एंकर हैंडलर और वर्कबोट — मलेशियाई जल में ऑफ़शोर तेल और गैस प्लेटफ़ॉर्मों की सेवा के लिए मौजूद है। जब ऊर्जा खर्च मज़बूत होता है, तो ऑर्डर बढ़ते हैं; जब तेल की कीमत गिरती है, तो शिपयार्ड अतिक्षमता का सामना करते हैं। तेल और गैस सेवा एवं उपकरण उद्योग पर संबंधित मार्गदर्शिका देखें।
 lang: hi
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'ऊँची लाल गैंट्री क्रेनों और निर्माणाधीन बड़े जहाज़ों वाला एक तटवर्ती शिपयार्ड'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: मलेशिया में एक बड़ी सफ़ेद नाव-निर्माण फैक्ट्री का हवाई दृश्य, जिसके एक खुले बे दरवाज़े पर एक पोत का ढाँचा दिख रहा है
+    kind: actual
+    origin: third-party
+    subject: Pasir Gudang, जोहोर, मलेशिया में Grand Banks Yachts नाव-निर्माण फैक्ट्री
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: एक नदी किनारे की मलेशियाई शिपयार्ड के बड़े निर्माण हॉलों और यार्ड का ऊपर से हवाई दृश्य
+    kind: actual
+    origin: third-party
+    subject: जोहोर, मलेशिया में एक नदी के किनारे Grand Banks Yachts शिपयार्ड का ऊपर से दृश्य
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 मलेशिया दुनिया के दो सबसे व्यस्त समुद्री मार्गों पर बैठा है और अपनी आजीविका का एक बड़ा हिस्सा समुद्र से कमाता है — फिर भी इसका जहाज़-निर्माण एवं जहाज़-मरम्मत (SBSR) उद्योग राष्ट्रीय अर्थव्यवस्था के शांत कोनों में से एक है। यह वास्तविक, दीर्घ-स्थापित और रणनीतिक रूप से महत्वपूर्ण है, लेकिन खंडित, चक्रीय और अपेक्षाकृत छोटे शिपयार्डों के प्रभुत्व वाला भी। यह मार्गदर्शिका बताती है कि उद्योग क्या बनाता है, कहाँ, यह कितना बड़ा है, और क्यों एक नौसैनिक कार्यक्रम सार्वजनिक बहस में पूरे क्षेत्र पर छा गया है।

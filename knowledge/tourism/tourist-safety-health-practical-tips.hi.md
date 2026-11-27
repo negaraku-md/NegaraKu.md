@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["मलेशिया यात्रा सुझाव", "999 आपातकालीन मलेशिया", "मलेशिया SIM कार्ड पर्यटक", "मलेशिया मानसून मौसम", "मलेशिया यात्रा टीकाकरण", "मलेशिया में टिप देना", "Malaysia travel tips", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'रात में कुआलालंपुर की पेटालिंग स्ट्रीट, लाल लालटेनों से सजी, जहाँ लोग ढके हुए शॉपहाउस के बीच एक रोशन फलों की गाड़ी और बाज़ार की दुकानों को देख रहे हैं।'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 आप उतर चुके हैं, आपको जेट-लैग है, और आपका फ़ोन कोई सिग्नल नहीं दिखाता। उत्तम nasi lemak की चिंता करने से पहले, उबाऊ-पर-महत्वपूर्ण चीज़ें सुलझाएँ — एक चालू SIM, सही आपातकालीन नंबर, और यह जानना कि आसमान फटने वाला है या नहीं। यहाँ सत्यापित छोटी सूची है।

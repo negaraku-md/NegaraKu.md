@@ -34,7 +34,7 @@ faq:
     a: "Il a décliné au milieu du XXe siècle en raison de la concurrence de la radio, du cinéma et de la télévision. À la fin des années 1930, de nombreuses salles de bangsawan furent converties en cinémas, et après la guerre l'industrie perdit sa source de financement."
 
 lang: "fr"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,34 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/bangsawan/hero.webp'
+heroAlt: 'Photographie sépia des années 1890 d''une troupe de bangsawan, l''opéra malais, en costume royal sur une scène à toile de fond peinte, les artistes en couronnes et habits ornés assis et debout sur une estrade à trône tandis qu''une foule regarde d''en bas'
+heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: Extérieur du théâtre Panggung Bangsawan à Melaka, une façade moderne crème et brune avec l'enseigne rouge « Panggung Bangsawan Melaka » sous un ciel bleu dégagé
+    kind: actual
+    origin: third-party
+    subject: Panggung Bangsawan, le théâtre dédié au bangsawan dans la ville de Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: Vue depuis le coin de la rue du théâtre Panggung Bangsawan à Melaka avec sa haute enseigne verticale rouge « Panggung », des palmiers et des immeubles de la ville à l'arrière sous un ciel couvert
+    kind: actual
+    origin: third-party
+    subject: Vue de rue du Panggung Bangsawan, le théâtre dédié au bangsawan à Melaka
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 Avant qu'il n'y ait des films, il y avait des scènes éclairées, des rideaux peints à la main et un orchestre capable de passer des mélodies fluides d'une cour malaise à un rythme du Moyen-Orient au cours d'une même représentation nocturne. C'était cela, le bangsawan — l'opéra scénique qui fut jadis le divertissement urbain le plus animé de la Péninsule, et qui livra plus tard ses acteurs et ses chanteurs à la toute jeune industrie du cinéma malais.

@@ -32,7 +32,7 @@ faq:
   - q: "เทวสถานฮินดูในมาเลเซียทั้งหมดเป็นเทวสถานมุรุกันหรือมาริอัมมันหรือไม่?"
     a: "แม้เทวสถานส่วนใหญ่จะอุทิศแด่พระศิวะ มุรุกัน (ลัทธิไศวะ) หรืออัมมัน/มาริอัมมัน (การบูชาศักติ) แต่ก็ไม่ได้มีเพียงเท่านั้น ยังมีเทวสถานไวษณพที่อุทิศแด่พระวิษณุ เทวสถานตามธรรมเนียมมลยาฬีและอินเดียเหนือ และคุรุทวาราของศาสนาซิกข์ในมาเลเซีย รายละเอียดทางสถาปัตยกรรมก็แตกต่างกันบ้างตามธรรมเนียมการสักการะ"
 lang: "th"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: 'โคปุรัมของเทวสถานอินเดียใต้ทรงพีระมิดสูงตระหง่านขึ้นไปเป็นยอดแหลม ทุกชั้นแน่นไปด้วยประติมากรรมเทพเจ้าฮินดู ม้า และรูปปั้นหลากสีทั้งแดง เขียว น้ำเงินและทอง ถ่ายภาพมองขึ้นชันตัดกับท้องฟ้าสีครามมีเมฆ'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: ด้านหน้าหลากสีของวัดฮินดูอินเดียใต้ที่มีหอสลักอยู่เหนือทางเข้า ขนาบด้วยรูปปั้นทาสีขนาดใหญ่ขององค์พระพิฆเนศและเทพเจ้าใต้ซุ้มปิดทอง ประดับด้วยธงรูปสามเหลี่ยมในบรรยากาศเทศกาลตัดกับท้องฟ้าสีฟ้าใส
+    kind: actual
+    origin: third-party
+    subject: ด้านหน้าของวัดศรีมหามาริอัมมันในย่านจอร์จทาวน์ ปีนัง พร้อมโคปุรัมสลักและทางเข้าที่ขนาบด้วยรูปปั้นขนาดใหญ่ขององค์พระพิฆเนศและพระมุรุกัน
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: หอศาลเจ้าวัดฮินดูหลากสีอันวิจิตรที่มีรูปสลักเทพเจ้าอยู่บนยอดตั้งอยู่ภายในถ้ำหินปูนขนาดใหญ่ ผนังหินสูงชันประดับด้วยพรรณไม้สีเขียวที่ห้อยลงมาและส่องด้วยแสงกลางวันจากด้านบน
+    kind: actual
+    origin: third-party
+    subject: หอศาลเจ้าฮินดูหลากสีอันวิจิตรภายในวัดถ้ำบาตูหินปูนใกล้กัวลาลัมเปอร์ ตัดกับผนังถ้ำสูงตระหง่านที่ปกคลุมด้วยพรรณไม้สีเขียว
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 เมื่อคุณเข้าใกล้ย่านใด ๆ ในเมืองของมาเลเซียที่ชุมชนทมิฬหยั่งรากลงไว้ หอที่ปกคลุมด้วยประติมากรรมซึ่งทะยานขึ้นสู่ท้องฟ้าจะสะดุดตาตั้งแต่ไกล หอประตูนั้นที่มีเทวรูปหลากสีเรียงซ้อนกันเป็นชั้น ๆ มิได้เกิดขึ้นโดยบังเอิญ — มันคือความต่อเนื่องของธรรมเนียมสถาปัตยกรรมอายุนับพันปี เป็นเครื่องหมายของมรดกทางวัฒนธรรมที่ผู้สืบเชื้อสายทมิฬอินเดียใต้นำติดตัวมาสู่มาเลเซีย

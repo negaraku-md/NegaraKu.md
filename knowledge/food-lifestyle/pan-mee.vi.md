@@ -96,6 +96,7 @@ dishFacts:
   halal: "Tô truyền thống không halal: nó được phủ thịt heo băm xào và nước dùng thường được làm đậm bằng cách ninh cá cơm với xương heo. Chilli pan mee có thể dùng thịt gà băm thay cho thịt heo, nên nên hỏi từng quán."
   eat: "Nó có hai cách. Phiên bản nước dọn mì và nước dùng cá cơm cùng nhau trong một tô, ấm và dịu; phiên bản khô để nước dùng riêng một bên và trộn mì với một loại gia vị như xì dầu đen, sốt XO hoặc sambal. Với chilli pan mee, trứng chần thường được đánh đều vào để lòng đỏ bao lấy sợi mì, rồi thực khách thêm ớt khô giã từ một hũ theo khẩu vị."
   where: "Bạn tìm thấy nó ở các quán cà phê khắp trung và nam bán đảo Malaysia, gồm Kuala Lumpur, Seremban và Ipoh, nơi một quầy nặn bột bằng tay. Chilli pan mee thường được giới truyền thông ẩm thực quy riêng cho Restoran Kin Kin ở Kuala Lumpur, dù sự quy công chính xác đó không được ghi nhận chắc chắn."
+wikidata: "Q4856836"
 ---
 
 Bước vào một quán cà phê ở Kuala Lumpur, Seremban hay Ipoh, bạn sẽ thấy một quầy

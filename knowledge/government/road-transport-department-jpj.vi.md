@@ -31,7 +31,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09b2906afbab7e08"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,11 +86,29 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'Các quầy phục vụ của một chi nhánh Cục Giao thông Đường bộ JPJ, với huy hiệu JPJ và biển hiệu ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' phía trên sảnh quầy tường kính'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: Biển báo đường bộ Malaysia màu xanh lá đề dòng chữ vàng 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' với biểu tượng cân trọng tải 'Timbang' hình xe tải màu xanh, chỉ đường đến trạm thực thi của JPJ
+    kind: actual
+    origin: third-party
+    subject: Biển báo chỉ đường đến trạm thực thi JPJ đề 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' với biểu tượng cân trọng tải xe tải
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 Hầu hết mọi người gặp **Cục Giao thông Đường bộ** vào một thời điểm duy nhất — gia hạn thuế đường bộ, thi lấy bằng lái, hoặc chuyển nhượng một chiếc xe cũ. Nhưng JPJ là cục đứng sau mỗi một trong những giao dịch đó. **Cục Giao thông Đường bộ** (*Jabatan Pengangkutan Jalan*, hay **JPJ**) là một cơ quan trực thuộc **Bộ Giao thông (MOT)** của Malaysia. Nó đăng ký phương tiện cơ giới và tài xế, cấp giấy phép lái xe, thuế đường bộ và biển số, cấp phép cho phương tiện thương mại, và thực thi các luật quy định cách phương tiện và tài xế sử dụng đường công cộng.

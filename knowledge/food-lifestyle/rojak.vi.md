@@ -97,6 +97,7 @@ dishFacts:
   halal: "Bài viết phân biệt hai nhánh: rojak trái cây (kiểu Hoa) mang một loại sốt làm trên mắm tôm lên men — một loại mắm hải sản, không phải thịt heo — trong khi phiên bản mamak hay pasembur là rojak đồ chiên của người Hồi giáo gốc Ấn do các đầu bếp mamak làm và bán tại các quầy mamak khắp cả nước."
   eat: "Mọi thứ được cắt thành miếng vừa ăn, trộn trong sốt cho áo đều, và hoàn thiện với đậu phộng rang giã; rojak trái cây ăn nguội như một món vặt hoặc đĩa chia sẻ, được quý trọng ở cách mỗi nguyên liệu vẫn giữ nét riêng dù đã được sốt phủ bóng, trong khi phiên bản mamak là một đĩa nóng, no bụng, chan đẫm nước sốt."
   where: "Rojak đan dệt vào văn hóa ẩm thực đường phố và chợ đêm của Malaysia, nơi nhiều dạng của nó được bán cạnh nhau — rojak trái cây gắn nhiều nhất với người bán rong gốc Hoa, còn phiên bản mamak/pasembur là món cố định của các quầy mamak khắp cả nước, với Penang được ngợi khen vì kiểu địa phương chua, sậm vị caramel của riêng mình."
+wikidata: "Q720230"
 ---
 
 Gọi "rojak" ở một quầy, bạn nhận được một mớ nguội gồm trái cây và quẩy phủ một lớp nước

@@ -31,7 +31,7 @@ faq:
   - q: "Qu'est-ce que l'industrie malaisienne du contenu créatif et de l'animation ?"
     a: "C'est l'activité de production de films, de programmes de télévision, d'animation, de musique et de jeux — de plus en plus pour l'exportation autant que pour le marché intérieur. L'animation malaisienne en particulier a connu un succès international, l'exemple le plus connu étant la série pour enfants Upin & Ipin, produite par Les' Copaque. Le gouvernement soutient le secteur par des fonds et des agences telles que MyCreative Ventures et FINAS."
 lang: fr
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'Le complexe de radiodiffusion Angkasapuri à Kuala Lumpur, siège du radiodiffuseur public national de la Malaisie.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: Des réalisateurs devant une batterie d'écrans et de tables de mixage dans la régie d'un studio de télévision pendant une émission en direct.
+    kind: representative
+    origin: third-party
+    subject: Régie de diffusion pendant une production télévisée en direct (représentative)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: Le plateau d'un studio de diffusion télévisée avec des caméras, un éclairage de studio et un bureau de présentateur.
+    kind: representative
+    origin: third-party
+    subject: Plateau d'un studio de diffusion télévisée avec caméras et bureau de présentateur (représentatif)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 Quand les Malaisiens parlent des « médias », ils entendent généralement l'un de quelques noms familiers : la parabole satellite d'Astro boulonnée au flanc de la maison, le bulletin d'information de TV3, une émission de radio matinale sur le trajet du travail, ou — de plus en plus — ce qui passe sur un téléphone pendant le trajet. Ces points de contact du quotidien appartiennent à une seule industrie tentaculaire : les médias et la radiodiffusion. C'est l'un des secteurs de services les plus visibles du pays, et aussi l'un des plus bousculés.

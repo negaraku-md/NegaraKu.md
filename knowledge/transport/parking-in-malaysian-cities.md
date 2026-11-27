@@ -82,9 +82,35 @@ entity: "Letak kereta bandar (PBT) Malaysia"
 relations:
   - { rel: "administered-by", to: "dewan-bandaraya-kuala-lumpur" }
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
-related: []
+related: ["local-government-councils", "cycling-and-walkability", "e-hailing-grab"]
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'Sebuah meter letak kereta kembar hijau beroperasi dengan syiling dengan arahan dalam bahasa Melayu berdiri di sebelah jeriji merah di jalan George Town, Pulau Pinang.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: Sebuah bangunan tempat letak kereta bertingkat konkrit yang tinggi dengan dek letak kereta terbuka berpagar jejaring bertindan beberapa tingkat, dilihat dari jalan di pinggir bandar Malaysia
+    kind: actual
+    origin: third-party
+    subject: sebuah bangunan tempat letak kereta bertingkat di Taman Segar, Cheras, Kuala Lumpur
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: Beberapa papan tanda logam larangan letak kereta dan notis tepi jalan yang dipasang berdekatan pada tiang di depan dinding usang di sepanjang jalan di George Town
+    kind: actual
+    origin: third-party
+    subject: sekumpulan papan tanda larangan letak kereta dan letak kereta tepi jalan di sebuah jalan di George Town, Pulau Pinang
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 Anda cari duit syiling di dalam kereta untuk mesin tiket — tetapi mesin itu sudah tiada sejak 2020. Meletak kereta di bandar besar Malaysia kini bermula dengan telefon pintar, bukan lagi tabung syiling di tepi jalan.

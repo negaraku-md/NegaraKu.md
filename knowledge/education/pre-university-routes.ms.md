@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'Blok akademik Kolej Matrikulasi Kelantan, sebuah kolej matrikulasi Malaysia yang menawarkan laluan prauniversiti, di bawah langit biru.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: Bangunan kampus moden sebuah kolej di Malaysia yang menawarkan program asasi prauniversiti
+    kind: representative
+    origin: third-party
+    subject: Kampus sebuah kolej di Malaysia yang menawarkan program prauniversiti / asasi (KDU University College, Damansara Jaya)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: Bangunan makmal fakulti sains dan teknologi sebuah universiti di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Bangunan makmal sains, Fakulti Sains dan Teknologi, Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 Dua pelajar keluar dari dewan SPM yang sama dengan keputusan yang hampir serupa.

@@ -31,7 +31,7 @@ faq:
   - q: ¿Por qué prohíbe Malasia la exportación de tierras raras en bruto?
     a: El gobierno afirma que la moratoria —en vigor desde el inicio de 2024— pretende impedir que los recursos de tierras raras del país se exporten sin procesar, y forzar que el valor se aporte en el país mediante refinación local e industrias aguas abajo. Los funcionarios la han descrito como la protección de un recurso estratégico; los términos exactos de la política han cambiado con el tiempo y deberían cotejarse con la declaración gubernamental más reciente.
 lang: es
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'La draga de extracción de estaño TT5 conservada, erguida junto a un antiguo estanque minero en Perak, Malasia, reliquia de la era del dragado de estaño del país.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: Un frente rocoso expuesto y los bancos trabajados de una cantera de piedra en Jalan Sukau, en el distrito de Kinabatangan, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Cantera de roca en Jalan Sukau, distrito de Kinabatangan, Sabah, Malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: Un molino improvisado de trituración de piedra, con cintas transportadoras y montones de grava, procesando roca cerca de Salarom, Sabah, Malasia.
+    kind: actual
+    origin: third-party
+    subject: Molino de piedra (kilang batu) triturando roca en grava cerca de Salarom, Sabah, Malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 La economía moderna de Malasia fue, literalmente, excavada del suelo. Mucho antes del aceite de palma, la electrónica o los semiconductores, fue el **estaño** lo que hizo que la península importara al mundo: financió ferrocarriles, hizo crecer ciudades como Ipoh y Kuala Lumpur y atrajo a generaciones de mineros migrantes. La minería es la historia industrial más antigua del país y, aunque ya no domina la economía, se está reescribiendo discretamente en torno a un premio muy moderno: los elementos de tierras raras.

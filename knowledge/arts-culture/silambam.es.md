@@ -29,7 +29,7 @@ faq:
   - q: "¿Está reconocido el silambam como deporte en Malasia?"
     a: "El silambam se practica en Malasia tanto como arte marcial como deporte de competición; se han celebrado competiciones nacionales, campeonatos internacionales y ha habido participación en los Juegos de Malasia (SUKMA) en algunos años. No obstante, las asociaciones y la condición administrativa del deporte pueden cambiar con el tiempo; verifique la situación actual en las fuentes oficiales."
 lang: "es"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'Niños y un instructor con camisetas naranjas de Silambam Asia practicando posturas de lucha con palos usando largos bastones de bambú en una demostración al aire libre'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: Mujer con un sari rojo haciendo una estocada en una postura baja de combate, sosteniendo una espada curva en una mano y un escudo metálico redondo en la otra
+    kind: representative
+    origin: third-party
+    subject: Forma de espada y escudo del Silambam (vaal y kedaiyam), una variante con armas del arte marcial tamil
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: Panel expositivo montado en la pared con las armas del Silambam, incluidos largos bastones, espadas curvas, escudos redondos y dagas
+    kind: representative
+    origin: third-party
+    subject: Panel expositivo de armas del Silambam, incluidos bastones, espadas, escudos y dagas
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 En una festividad de un templo o en una celebración del [Año Nuevo tamil](/es/arts-culture/tamil-new-year) en Malasia, puede que vea a un joven hacer girar un largo bastón de bambú por encima de la cabeza y alrededor del cuerpo a una velocidad de vértigo, al compás de los tambores. Ese giro no es solo por vistosidad — es el emblema del silambam, un arte marcial tamil con más de mil quinientos años de antigüedad.

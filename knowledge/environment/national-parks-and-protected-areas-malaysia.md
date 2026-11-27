@@ -80,9 +80,36 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'Sebatang sungai hutan yang tenang memantulkan hutan hujan hijau padat di kedua-dua tebing dengan rabung berhutan menjulang di belakang di Taman Negara Endau-Rompin'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: Pandangan dari haluan bot merentasi air tasik yang tenang ke arah bukit berhutan di bawah langit biru di Taman Negeri Royal Belum
+    kind: actual
+    origin: third-party
+    subject: Menjelajah pantai berhutan Taman Negeri Royal Belum dengan bot
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: Kabus pagi naik dari lereng gunung berhutan dengan sebatang pokok gondol tinggi di latar depan di Taman Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Awan rendah terbentuk di atas hutan hujan pergunungan di Taman Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 Tanya sesiapa di mana letaknya "taman negara Malaysia" dan mereka akan menunjuk ke satu tempat. Hakikatnya, Malaysia tidak mempunyai satu taman negara — ia mempunyai tiga sistem undang-undang yang berasingan sama sekali, dan salah satunya bahkan tidak merangkumi tempat yang paling terkenal dengan nama "[Taman Negara](/tourism/taman-negara-ecotourism-guide)". Memahami peta perundangan ini adalah kunci untuk merancang lawatan, menjalankan penyelidikan, atau sekadar memahami cara Malaysia melindungi hutan hujannya yang berusia 130 juta tahun.

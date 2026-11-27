@@ -31,7 +31,7 @@ faq:
   - q: "Mengapa akuakultur penting bagi sekuriti makanan Malaysia?"
     a: "Ikan ialah sumber protein haiwan utama Malaysia, dan tangkapan liar telah mendatar. Akuakultur ialah tuas utama untuk meningkatkan nisbah sara diri ikan negara — kira-kira 90.7% pada 2025 — dan Dasar Agromakanan Negara secara jelas mengutamakan ikan ternak berbanding ikan tangkapan untuk memenuhi permintaan masa depan."
 lang: ms
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'Barisan sangkar jaring terapung untuk ternakan ikan disusun merentasi permukaan tasik yang tenang, dengan pondok penjaga di satu hujungnya.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: Sebuah kolam akuakultur air tawar yang tenang dikelilingi tumbuhan hijau di Kampung Tiang, Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Kolam akuakultur ikan di Kampung Tiang, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: Sebuah kolam ikan akuakultur bertanah yang digunakan untuk kelas amali di ladang Fakulti Universiti Putra Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Kolam ikan pengajaran akuakultur di Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 Kebanyakan ikan di pinggan makan malam rakyat Malaysia masih datang dari laut — tetapi bahagian yang semakin membesar kini datang dari sebuah kolam, sangkar atau rakit tali panjang. Itulah akuakultur: penternakan hidupan akuatik yang disengajakan, berbeza daripada menangkap apa yang berenang di alam liar. Apabila tangkapan liar Malaysia mendatar dan permintaan protein meningkat, akuakultur telah menjadi tuas utama negara untuk mengekalkan ikan di atas meja. Artikel ini meneliti secara mendalam bahagian ternak perniagaan ini; untuk gambaran yang lebih luas, termasuk armada perikanan, kebajikan nelayan dan penguatkuasaan, lihat [gambaran keseluruhan industri perikanan](/agriculture/malaysian-fisheries-industry/).

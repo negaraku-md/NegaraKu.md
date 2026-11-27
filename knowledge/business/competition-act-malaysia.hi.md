@@ -76,7 +76,7 @@ wikidata: "Q110133506"
 relations:
   - { rel: "administered-by", to: "malaysia-competition-commission" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }
-related: []
+related: ["competition-act-2010", "ministry-of-domestic-trade-kpdn", "price-control-anti-profiteering-act"]
 keywords: ["Competition Act 2010", "MyCC", "cartel", "price fixing", "bid rigging", "abuse of dominant position", "Competition Amendment Bill 2026", "प्रतिस्पर्धा अधिनियम 2010", "कार्टेल", "प्रभुत्व का दुरुपयोग"]
 framework: rules
 ---

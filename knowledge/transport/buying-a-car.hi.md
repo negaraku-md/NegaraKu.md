@@ -30,7 +30,7 @@ faq:
     a: "बैंक या वित्त कंपनी को ऋण की अवधि भर किराया-खरीद अधिनियम 1967 (Hire-Purchase Act 1967) के तहत वाहन के कानूनी मालिक के रूप में पंजीकृत किया जाता है। खरीदार पंजीकृत धारक होता है जिसके पास वाहन का रोज़मर्रा का उपयोग होता है, और वह ऋण पूरी तरह चुकता होने और वित्तदाता द्वारा रिहाई जारी करने पर ही पंजीकृत मालिक बनता है।"
 
 lang: "hi"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["मलेशिया में कार खरीदना", "मलेशिया में किराया-खरीद", "JPJ स्वामित्व हस्तांतरण", "Proton Perodua राष्ट्रीय कार", "मलेशिया में कार ऋण", "buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'सुबांग जया में ''Wakil Jualan dan Servis'' लिखा एक नीला प्रोटॉन डीलरशिप, जिसके सामने कई कारें खड़ी हैं।'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: मलेशिया के पेनांग में एक Perodua ब्रांड शोरूम के अंदर तेज़ रोशनी में कतार में खड़ी नई Perodua कारें।
+    kind: actual
+    origin: third-party
+    subject: पेनांग में Perodua डीलरशिप शोरूम
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: सेलांगोर के शाह आलम में एक सड़क पर खड़ी काली Proton Perdana सेडान, जो मलेशिया में बनी राष्ट्रीय-ब्रांड कार है।
+    kind: actual
+    origin: third-party
+    subject: शाह आलम में Proton Perdana सेडान
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 मलेशिया में कार खरीदिए तो आप एक सौदे पर हस्ताक्षर करते हैं, पर असल में आप एक साथ तीन अलग-अलग रिश्तों में प्रवेश करते हैं: एक उसके साथ जिसने आपको कार बेची, एक उसके साथ जो इसका वित्तपोषण कर रहा है, और एक JPJ के साथ, वह विभाग जो तय करता है कि वाहन पर असल में किसका नाम है। तीनों में से किसी में एक भी चरण चूक जाइए, और जिस कार के लिए आपने पैसे दिए वह कानूनी रूप से अब भी पूरी तरह आपकी नहीं है।

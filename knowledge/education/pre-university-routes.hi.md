@@ -22,7 +22,7 @@ verificationNeeded:
   - "STPM, मैट्रिकुलेशन और A-Level समूहों के लिए वर्तमान वार्षिक प्रवेश क्षमता (स्थानों की संख्या) यहाँ नहीं बताई गई है — ये हर प्रवेश चक्र में बदलती हैं; किसी विशिष्ट संख्या पर निर्भर होने से पहले वर्तमान सत्र के आँकड़ों की सीधे MPM, मैट्रिकुलेशन प्रभाग, या संबंधित कॉलेज से पुष्टि करें।"
   - "फाउंडेशन कार्यक्रम संरचना पर MQA के दिशानिर्देश (Garis Panduan Kurikulum Asasi) इस लेख के लिए पूरी तरह निकाले नहीं जा सके — फाउंडेशन कार्यक्रमों के लिए MQA द्वारा निर्धारित न्यूनतम क्रेडिट-घंटा या अवधि नियम यहाँ केवल सामान्य शब्दों में वर्णित है; उद्धृत करने से पहले सटीक आँकड़ों की MQA या प्रस्तावकर्ता संस्थान से पुष्टि करें।"
 lang: "hi"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM बनाम Matrikulasi", "पूर्व-विश्वविद्यालय मलेशिया", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "डिप्लोमा से डिग्री", "UPU प्रवेश श्रेणियाँ", "SPM के बाद पूर्व-विश्वविद्यालय मार्ग"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'नीले आसमान के नीचे कोलेज मैट्रिकुलासी केलंतान का शैक्षणिक खंड, जो एक मलेशियाई मैट्रिकुलेशन कॉलेज है और पूर्व-विश्वविद्यालय मार्ग प्रदान करता है।'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: एक मलेशियाई कॉलेज के आधुनिक परिसर भवन, जो पूर्व-विश्वविद्यालय फाउंडेशन कार्यक्रम प्रदान करता है।
+    kind: representative
+    origin: third-party
+    subject: पूर्व-विश्वविद्यालय / फाउंडेशन कार्यक्रम प्रदान करने वाले एक मलेशियाई कॉलेज का परिसर (KDU University College, दमनसारा जया)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: किसी मलेशियाई विश्वविद्यालय के विज्ञान एवं प्रौद्योगिकी संकाय का प्रयोगशाला भवन।
+    kind: representative
+    origin: third-party
+    subject: विज्ञान प्रयोगशाला भवन, विज्ञान एवं प्रौद्योगिकी संकाय, Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 दो छात्र लगभग समान परिणामों के साथ एक ही SPM कक्ष से बाहर निकलते हैं। अठारह

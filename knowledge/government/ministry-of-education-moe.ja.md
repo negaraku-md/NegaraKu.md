@@ -28,7 +28,7 @@ faq:
   - q: "教育省の予算規模はどのくらいか？"
     a: "2026年予算のもと、KPMはRM662億——全連邦省の中で最大の配分——を受け、2025年のRM642億から増加した。この配分には、老朽化した520校余りの改修と、新校38校の建設のための約RM20億が含まれる。"
 lang: "ja"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,9 +81,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: '尖塔付きの小塔とそびえ立つアーチ型の中央ベイをもつ、ムーア・イスラム様式の壮大な左右対称の黄褐色の政府タワー。入口の上にKEMENTERIAN PENDIDIKAN MALAYSIAの文字、雲の多い空の下、低い両翼に挟まれる'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: 教育省ビルのアーチ型の玄関ポーチの接写。扉の上に青いKEMENTERIAN PENDIDIKAN MALAYSIAの文字と金色の国章が掲げられ、ポールにはマレーシア国旗と州旗がはためく
+    kind: actual
+    origin: third-party
+    subject: KEMENTERIAN PENDIDIKAN MALAYSIAの標示と国章を掲げた、プトラジャヤのマレーシア教育省本部の正面入口
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: 進入路から見たマレーシア教育省本部の段状になった全景。装飾的な中央の塔と左右対称の翼棟にマレーシア国旗が並び、明るい曇り空の下、手前に駐車場が広がる
+    kind: actual
+    origin: third-party
+    subject: 進入路から望む、プトラジャヤのマレーシア教育省本部複合施設の正面全景
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 マレーシアの学童に関わる事柄——学んでいるカリキュラム、机の上の教科書、受験する全国試験、あるいは教壇に立つ公立学校の教師——であれば、それは教育省の所管である。マレー語では**Kementerian Pendidikan Malaysia**と呼ばれ、ほぼ常に**KPM**と略される、この連邦省が国の高等教育前教育制度を運営している。KPMが運営して*いない*のが大学である——これは非常に多くの人を混乱させる境界線である。

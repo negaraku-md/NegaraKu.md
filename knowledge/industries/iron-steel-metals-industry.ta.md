@@ -31,7 +31,7 @@ faq:
   - q: எஃகு தவிர மற்ற உலோகங்களில் மலேசியா வலுவானதா?
     a: ஆம். இரும்பல்லாத உலோகங்களில் மலேசியா உலகளவில் போட்டியிடுகிறது. Sarawak ஐ தளமாகக் கொண்ட Press Metal தென்கிழக்கு ஆசியாவின் மிகப்பெரிய ஒருங்கிணைந்த அலுமினிய உற்பத்தியாளர், மற்றும் Malaysia Smelting Corporation உலகின் முன்னணி சுத்திகரிக்கப்பட்ட-தகர உற்பத்தியாளர்களில் ஒன்று, இது நாட்டின் நீண்ட தகர-சுரங்க வரலாற்றின் மரபு.
 lang: ta
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'உலைகள், உயர்ந்த புகைபோக்கிகள், வெள்ளை ஆவி மேகங்கள் கொண்ட பெரிய ஒருங்கிணைந்த எஃகு ஆலை; அப்பால் காட்டடர்ந்த மலைகளும் வீடுகளும்'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: தெளிவான நீல வானத்தை எதிர்த்து வெண்மையான நீராவியை வெளியேற்றும் டக்டிங் மற்றும் புகைபோக்கியுடன் கூடிய இரண்டு உயரமான எஃகு உலைகள் (blast furnaces)
+    kind: representative
+    origin: third-party
+    subject: இங்கிலாந்தின் Scunthorpe Steelworks-இல் உள்ள உலைகள் (blast furnaces)
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: ஒரு எஃகு உருக்காலைக்குள், மேற்புற காண்ட்ரி, குழாய்கள் மற்றும் எஃகு நடைபாதைகளில் தொழிலாளர்களுடன் கூடிய ஒரு பெரிய மின் ஆர்க் உலை (electric arc furnace)
+    kind: representative
+    origin: third-party
+    subject: லக்சம்பர்க்கின் Differdange-இல் உள்ள ProfilARBED எஃகு ஆலையின் மின் ஆர்க் உலை உருக்காலையின் உட்புறம்
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 மலேசியாவில் ஏறக்குறைய ஒவ்வொரு கட்டிடம், பாலம் மற்றும் நெடுஞ்சாலைக்குப் பின்னால், அவை அனைத்தையும் தாங்கி நிற்கும் உலோகத்தைத் தயாரிக்கும் ஒரு அமைதியான தொழில் உள்ளது. அரைக்கடத்திகள் அல்லது பனை எண்ணெய் செய்வது போல இரும்பு மற்றும் எஃகு அரிதாகவே தலைப்புச் செய்தியாகின்றன, இருப்பினும் அவை அடித்தளமானவை: ஒரு கான்கிரீட் தூணுக்குள் உள்ள வலுவூட்டும் கம்பி, ஒரு கேபிளில் உள்ள கம்பி, ஒரு கார் கதவில் உள்ள தாள். மலேசியா இதில் பெரும்பகுதியைத் தானே தயாரிக்கிறது — மேலும், சில உலோகங்களில், உண்மையிலேயே உலகத் தரத்தில் உள்ளது. ஆனால் எஃகு பாதிக் கதை நாட்டின் மிகவும் சிக்கலான உற்பத்தித் துறைகளில் ஒன்றாகும், அது எவ்வளவு உற்பத்தி செய்ய முடியும் மற்றும் சந்தைக்கு உண்மையில் எவ்வளவு தேவை என்பதற்கிடையிலான ஒரு பிடிவாதமான பொருந்தாமையால் வரையறுக்கப்படுகிறது.

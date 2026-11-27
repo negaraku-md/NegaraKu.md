@@ -99,6 +99,14 @@ drinkFacts:
   halal: "Teh tarik là một loại trà không cồn được bán tại các quầy mamak — quán ăn của người Hồi giáo gốc Ấn — và tại kopitiam, và trong bối cảnh mamak đó nó là một đồ uống halal, đây là một phần lý do khiến nó trở thành đồ uống xã giao chung giữa các cộng đồng. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quán."
   served: "Phục vụ nóng và đầy bọt, được kéo giữa hai chiếc bình để làm nguội, trộn và sục khí. Món 'teh tarik' mặc định có vị ngọt với sữa đặc; gọi 'teh-O' để lấy trà đen không sữa, 'teh-C' để lấy sữa cô đặc không đường, 'kurang manis' để giảm đường, hoặc 'teh ais'/'teh peng' để lấy phiên bản đá."
   where: "Tìm thấy tại các quầy mamak, quán cà phê kopitiam và pasar malam khắp cả nước, nơi nó là đồ uống xã giao hằng ngày; 'jom teh tarik' ('đi làm ly teh tarik nào') ít nói về trà mà hơn hết là một lời mời ngồi lại và trò chuyện."
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Cốc thủy tinh trong đựng teh tarik, trà sữa nâu kéo nổi bọt, trên bàn đá cẩm thạch"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 Khung cảnh này là một phần cố định của đời sống Malaysia: một người đàn ông tại quầy

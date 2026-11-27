@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, double médaillé olympique (bronze en 2016, argent en 2020) et champion du monde de keirin en 2017."
 
 lang: "fr"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q120467697"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "azizulhasni-awang" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-venues", "national-sports-council-msn"]
 keywords: ["velodrom nasional", "Nilai", "cyclisme sur piste", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'La façade anguleuse rouge, grise et blanche du Vélodrome national de Nilai se dresse au-dessus d''un parking vide.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: La piste ovale en bois relevée, l'intérieur de l'anneau et les tribunes bondées à l'intérieur d'un vélodrome couvert lors d'un championnat du monde de cyclisme sur piste.
+    kind: representative
+    origin: third-party
+    subject: L'intérieur d'un vélodrome lors d'un championnat du monde de cyclisme sur piste
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: Deux coureurs sur piste, sur des vélos aérodynamiques à roues lenticulaires, luttant côte à côte en remontant les planches bleues et rouges très relevées d'un vélodrome.
+    kind: representative
+    origin: third-party
+    subject: Des sprinteurs sur piste s'élançant sur les planches relevées d'un vélodrome
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 Une longue arène couverte à la périphérie de Nilai est désormais le lieu où les cyclistes les plus rapides de la Malaisie affûtent leurs sprints — et elle a été construite spécifiquement pour produire davantage de champions du monde sur piste.

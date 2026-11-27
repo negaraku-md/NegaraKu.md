@@ -27,7 +27,7 @@ faq:
   - q: "Un diplôme ou une voie TVET est-il moins bien que d'aller à l'université ?"
     a: "Non. Un diplôme ou une voie TVET mène à un emploi qualifié et employable et laisse généralement une voie ouverte de retour vers une licence par transfert de crédits ou par une catégorie d'admission distincte. Pour de nombreux domaines — métiers de l'ingénierie, hôtellerie, informatique, design — c'est une voie plus rapide et plus directe vers l'emploi qu'une licence généraliste. La meilleure question n'est pas quelle voie a le statut le plus élevé, mais laquelle mène là où vous voulez aller."
 lang: "fr"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'Le portail principal blanc en arc de l''Universiti Malaya à Kuala Lumpur, portant l''inscription "UNIVERSITI MALAYA" et les armoiries de l''université, enjambant la voie d''entrée du campus.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: Un bâtiment de faculté de l'Universiti Malaya, l'une des filières de licence en université publique auxquelles un étudiant peut aspirer après le SPM.
+    kind: actual
+    origin: third-party
+    subject: Bâtiment de la faculté d'éducation, Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: Les bâtiments de faculté, de bibliothèque et d'administration du campus de l'antenne UiTM Rembau, une filière d'enseignement supérieur public ouverte aux diplômés du SPM.
+    kind: actual
+    origin: third-party
+    subject: Campus de l'UiTM Rembau, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 L'enveloppe s'ouvre et la vraie question arrive avec elle. Non pas *comment

@@ -33,7 +33,7 @@ const ogHash = (a, overdue, tv) =>
     .update(JSON.stringify([
       a.lang, a.title, a.summary, a.category,
       Array.isArray(a.subcategory) ? a.subcategory[0] : null,
-      a.mode, a.sensitivity, a.published, a.reviewed, a.updated, a.reviewDue, overdue, tv,
+      a.mode, a.sensitivity, a.published, a.reviewed, a.updated, a.reviewDue, overdue, a.hero ?? null, tv,
     ]))
     .digest('hex').slice(0, 16);
 
@@ -159,6 +159,33 @@ function wrapText(text, { maxLatin, maxCjk, maxLines }) {
   return lines;
 }
 
+// The top-corner brand lockup — the official NegaraKu.md logo's proportions,
+// measured from the master artwork: hexagon HEIGHT = 5.48 × the wordmark
+// font-size (logo hexagon 612px : wordmark cap ≈ 112px), and the gap from the
+// hexagon's bottom to the wordmark = 0.108 × hexagon height. This makes the mark
+// dominant over the wordmark exactly as the real logo (hexagon : wordmark width
+// ≈ 1 : 1.4), instead of the old small-icon-over-big-text lockup. `cx` is the
+// shared centre of the stacked badge + wordmark; `topY` is the badge's top edge.
+function brandLockup(cx, font, ink, topY) {
+  const bs = Math.round(5.48 * font);                 // hexagon size (height)
+  const cy = topY + bs / 2;                           // badge() wants its centre
+  const wy = Math.round(cy + bs / 2 + 0.108 * bs + 0.72 * font); // wordmark baseline
+  // Solid dark PLATE behind the lockup, so the logo always sits on its own near-
+  // black background — exactly like the master logo artwork — and never washes out
+  // on a bright or same-colour hero photo (e.g. a gold-background portrait). This is
+  // the robust fix over a soft scrim. Barely visible on the dark text card.
+  const hexW = 0.882 * bs, wordW = 6.8 * font;        // widths of the two elements
+  const padX = Math.round(font * 1.25);
+  const plateW = Math.round(Math.max(hexW, wordW) + padX * 2);
+  const top = Math.round(topY - font * 0.85);
+  const bottom = Math.round(wy + font * 0.3 + font * 0.85); // wordmark baseline + descender + pad
+  const plateX = Math.round(cx - plateW / 2);
+  const r = Math.round(font * 0.9);
+  return `<rect x="${plateX}" y="${top}" width="${plateW}" height="${bottom - top}" rx="${r}" ry="${r}" fill="#0A0A0A" fill-opacity="0.72"/>
+  ${badge(cx, cy, bs)}
+  <text x="${cx}" y="${wy}" text-anchor="middle" font-family="${TITLE_FONT}" font-size="${font}" font-weight="700" fill="${ink}">NegaraKu<tspan fill="#FFC000">.md</tspan></text>`;
+}
+
 function articleSvg(a) {
   const lang = a.lang;
   const cjkTitle = /[㐀-鿿一-龥]/.test(a.title || '');
@@ -169,7 +196,12 @@ function articleSvg(a) {
   // per-script fonts cover Latin + digits too, so a mixed CJK+Latin summary
   // renders entirely from one font with NO fallback (deterministic). Latin
   // languages keep the Lato stack unchanged.
-  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+  // Chain ALL regional CJK variants: the Debian fonts-noto-cjk OTC sometimes
+  // exposes some regional families to fontconfig/librsvg but not others (the
+  // Korean 'KR' regular was rendering as tofu boxes while the bold title fell
+  // back fine). All four share the full CJK+Hangul+Kana glyph set, so whichever
+  // variant actually resolves renders the text — no more per-script tofu.
+  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Noto Sans CJK KR'", ja: "'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK KR'", ko: "'Noto Sans CJK KR', 'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
   const bodyFont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + BODY_FONT;
   const pillarId = CAT_PILLAR[a.category];
   // Breadcrumb: pillar / category / subcategory — localized from the real taxonomy.
@@ -224,7 +256,7 @@ function articleSvg(a) {
   const sStart = tStart + (tLines.length - 1) * tLh + 54;
   const sLines = wrapText(a.summary || '', { maxLatin: 70, maxCjk: 34, maxLines: 3 });
   const sSpans = sLines.map((l, i) => `<tspan x="${EDGE}" dy="${i === 0 ? 0 : 34}">${esc(l)}</tspan>`).join('');
-  const RX = RTL ? 120 : 1080;         // badge + wordmark lockup side
+  const RX = RTL ? 175 : 1025;         // badge + wordmark lockup side (inboard of FB's feed-edge crop)
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>${RTL ? AR_FONTS : ""}<radialGradient id="glow" cx="12%" cy="0%" r="70%">
     <stop offset="0%" stop-color="#FFC000" stop-opacity="0.10"/><stop offset="100%" stop-color="#FFC000" stop-opacity="0"/>
@@ -237,9 +269,45 @@ function articleSvg(a) {
   ${chips.join('\n  ')}
   <text x="${EDGE}" y="${tStart}" text-anchor="${ANCHOR}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
   <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${bodyFont}" font-size="25" font-weight="400" fill="#9A9AB8">${sSpans}</text>
-  ${badge(RX, 70, 78)}
-  <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Terokai Malaysia, mesra AI', 'Explore Malaysia, AI-friendly', '探索马来西亚，对 AI 友好', 'மலேசியாவை ஆராயுங்கள், AI-நட்பு', 'マレーシアを探索、AIフレンドリー', '말레이시아 탐색, AI 친화적', 'สำรวจมาเลเซีย เป็นมิตรกับ AI', 'Khám phá Malaysia, thân thiện với AI', 'Jelajahi Malaysia, ramah AI', 'استكشف ماليزيا، صديقة لـ AI', 'मलेशिया को एक्सप्लोर करें, AI-अनुकूल', 'Explora Malasia, compatible con la IA', "Explorez la Malaisie, adaptée à l'IA")}</text>
+  ${brandLockup(RX, 14, '#F4F4F8', 24)}
+</svg>`;
+}
+
+// Photo-backed OG overlay: the article's hero photo sits underneath (composited
+// by sharp in the loop); this SVG lays a dark scrim + gold bar + localized
+// breadcrumb + title + wordmark lockup over it. Used when the article has a
+// hero; otherwise articleSvg()'s branded card is the fallback. 吃喝玩乐 and other
+// place/food pages thus preview as a real photo on social, not a text card.
+function photoOverlaySvg(a) {
+  const lang = a.lang;
+  const RTL = lang === 'ar';
+  const EDGE = RTL ? 1130 : 70;
+  const ANCHOR = RTL ? 'end' : 'start';
+  const pillarId = CAT_PILLAR[a.category];
+  const crumb = [
+    pillarId && loc(NAMES[pillarId], lang),
+    loc(NAMES[a.category], lang) || titleCase(a.category),
+  ].filter(Boolean).join('  ·  ');
+  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Noto Sans CJK KR'", ja: "'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Noto Sans CJK KR'", ko: "'Noto Sans CJK KR', 'Noto Sans CJK JP', 'Noto Sans CJK SC', 'Noto Sans CJK TC'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+  const tfont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + TITLE_FONT;
+  const bfont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + BODY_FONT;
+  const tLines = wrapText(a.title || '', { maxLatin: 30, maxCjk: 15, maxLines: 2 });
+  const tSize = 54, tLh = 62;
+  const baseY = 560 - (tLines.length - 1) * tLh;
+  const tSpans = tLines.map((l, i) => `<text x="${EDGE}" y="${baseY + i * tLh}" text-anchor="${ANCHOR}" font-family="${tfont}" font-size="${tSize}" font-weight="800" fill="#FFFFFF">${esc(l)}</text>`).join('\n  ');
+  const crumbY = baseY - tLines.length * tLh + 2;
+  const RX = RTL ? 165 : 1035;         // inboard of FB's feed-edge crop (was 1090 → ".md" clipped)
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>${RTL ? AR_FONTS : ''}
+    <linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#05050A" stop-opacity="0"/><stop offset="48%" stop-color="#05050A" stop-opacity="0.18"/><stop offset="100%" stop-color="#05050A" stop-opacity="0.92"/></linearGradient>
+    <linearGradient id="topscrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#05050A" stop-opacity="0.5"/><stop offset="100%" stop-color="#05050A" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="210" fill="url(#topscrim)"/>
+  <rect width="1200" height="630" fill="url(#scrim)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
+  ${brandLockup(RX, 14, '#FFFFFF', 26)}
+  <text x="${EDGE}" y="${crumbY}" text-anchor="${ANCHOR}" font-family="${bfont}" font-size="25" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
+  ${tSpans}
 </svg>`;
 }
 
@@ -305,12 +373,50 @@ async function main() {
   // cuts ~75% of the bytes (~42 KB PNG → ~10 KB) — a big saving on every listing
   // page (home/explore/latest/most-read/sections/search) for the mobile audience.
   const toThumb = (svg, file) => sharp(Buffer.from(svg)).resize(640, 336).webp({ quality: 72, effort: 6 }).toFile(file);
+  // --- Font-presence guard (self-healing, non-blocking) ------------------------
+  // The box-glyph bug (CJK/Tamil/Thai/Arabic/Devanagari titles rendering as □□□)
+  // happens when a build runs without the required Noto script fonts resolving:
+  // libvips then types that run's non-Latin cards as fallback boxes, and the stale
+  // boxed cards stick on R2 (their content hash never changes, so they are never
+  // re-rendered). sharp/libvips render deterministically, so re-rendering the same
+  // card in-build can't recover it. Probe each script (its own font vs a Latin-only
+  // fallback): if they render to ~the same byte size, the "glyphs" are boxes and the
+  // font is missing. We then return the set of missing scripts and SKIP those
+  // languages' cards for this run (leaving any prior card untouched — never shipping
+  // a fresh corpus of boxes), rather than throwing: OG social-card fonts must never
+  // block the site deploy (deploy.yml says the same). The deploy logs a ::warning::
+  // so the font gap is visible and gets fixed; a build-og edit bumps the template
+  // hash below, so the next run WITH fonts present re-renders (and repairs) them.
+  const probeMissingFonts = async () => {
+    const PROBE = { zh: '测试文字', ja: 'テスト文字', ko: '테스트문자', ta: 'சோதனை', th: 'ทดสอบ', ar: 'اختبار', hi: 'परीक्षण' };
+    const FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+    const render = (text, family) => sharp(Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140"><rect width="100%" height="100%" fill="#000"/><text x="12" y="96" font-family="${family}" font-size="72" fill="#fff">${text}</text></svg>`)).png().toBuffer();
+    const missing = new Set();
+    for (const [lang, text] of Object.entries(PROBE)) {
+      try {
+        const [withFont, latin] = await Promise.all([render(text, FONT[lang] + ', sans-serif'), render(text, 'sans-serif')]);
+        if (withFont.length <= latin.length * 1.05) missing.add(lang); // script font ≈ Latin boxes → not resolving
+      } catch { missing.add(lang); }
+    }
+    if (missing.size) {
+      const inCI = process.env.CI === 'true' || process.env.GITHUB_ACTIONS === 'true';
+      const msg = `[og] script fonts not resolving: ${[...missing].join(', ')} — these languages' cards are LEFT UNCHANGED this run (not re-rendered as box glyphs). Install Noto fonts (deploy.yml: fonts-noto-cjk/-core + fc-cache) to render them.`;
+      console.warn(inCI ? `::warning::${msg}` : `${msg} (dev: local cards are not deployed)`);
+    }
+    return missing;
+  };
+  // Probe BEFORE any card render so the default + per-article loops can skip the
+  // scripts whose font is missing (see the render loop below).
+  const missingFonts = await probeMissingFonts();
+
   // Localized default cards: /og/default.png (ms) + /og/{en,zh}/default.png.
+  // The zh default carries Chinese text, so skip it when the CJK font is missing
+  // (keep whatever default is already there) — ms/en are Latin and always safe.
   await mkdir(path.join(OUT_DIR, 'en'), { recursive: true });
   await mkdir(path.join(OUT_DIR, 'zh'), { recursive: true });
   await toPng(defaultCard('ms'), path.join(OUT_DIR, 'default.png'));
   await toPng(defaultCard('en'), path.join(OUT_DIR, 'en', 'default.png'));
-  await toPng(defaultCard('zh'), path.join(OUT_DIR, 'zh', 'default.png'));
+  if (!missingFonts.has('zh')) await toPng(defaultCard('zh'), path.join(OUT_DIR, 'zh', 'default.png'));
 
   let manifest = [];
   try {
@@ -320,7 +426,13 @@ async function main() {
     console.warn('[og] manifest not found — wrote default.png only. Run `npm run sync` first.');
     return;
   }
-  const items = manifest.filter((a) => a.lang && a.category && a.slug && a.title);
+  let items = manifest.filter((a) => a.lang && a.category && a.slug && a.title);
+  // OG_ONLY=cat/slug[,cat/slug…] limits the render to those articles (all langs,
+  // or restrict with OG_ONLY_LANGS=en,ms). Used to build + ship a SAMPLE card to
+  // R2 for confirmation before regenerating the whole corpus. Empty = all.
+  const onlySet = new Set((process.env.OG_ONLY || '').split(',').map((s) => s.trim()).filter(Boolean));
+  const onlyLangs = new Set((process.env.OG_ONLY_LANGS || '').split(',').map((s) => s.trim()).filter(Boolean));
+  if (onlySet.size) items = items.filter((a) => onlySet.has(`${a.category}/${a.slug}`) && (!onlyLangs.size || onlyLangs.has(a.lang)));
 
   // Template version: a change to this renderer or the logo regenerates every card.
   let tv = '0';
@@ -345,14 +457,18 @@ async function main() {
   const next = {};
   const wanted = new Set();
   const failed = [];
-  let made = 0, cached = 0;
+  let made = 0, cached = 0, skippedFont = 0;
   const CONC = 10;
   let batchNo = 0;
   for (let i = 0; i < items.length; i += CONC) {
     await Promise.all(
       items.slice(i, i + CONC).map(async (a) => {
         const key = `${a.lang}/${a.category}/${a.slug}`;
-        wanted.add(key);
+        wanted.add(key); // added before any skip so a prior good card is never pruned
+        // Font for this card's script is missing — leave any existing card as-is and
+        // don't record it in `next`, so the next run (with fonts present) re-renders
+        // it. Never render it now: that would stamp a box glyph over a good card.
+        if (missingFonts.has(a.lang)) { skippedFont++; return; }
         const overdue = a.reviewDue ? new Date(a.reviewDue) < NOW : false;
         const hash = ogHash(a, overdue, tv);
         const file = path.join(OUT_DIR, a.lang, a.category, `${a.slug}.png`);
@@ -367,9 +483,22 @@ async function main() {
         // so a later run can retry it.
         try {
           await mkdir(path.dirname(file), { recursive: true });
-          const svg = articleSvg(a);
-          if (!pngOk) await toPng(svg, file);          // social og:image (unchanged)
-          if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
+          const heroFile = a.hero ? path.join(ROOT, 'public', String(a.hero).replace(/^\/+/, '')) : null;
+          if (heroFile && existsSync(heroFile)) {
+            // Photo-backed card: hero photo (cover) under the brand overlay. The
+            // 640px thumb is derived from the same composited buffer.
+            const overlay = Buffer.from(photoOverlaySvg(a));
+            const png = await sharp(heroFile)
+              .resize(1200, 630, { fit: 'cover', position: 'attention' })
+              .composite([{ input: overlay, top: 0, left: 0 }])
+              .png({ compressionLevel: 9 }).toBuffer();
+            if (!pngOk) await writeFile(file, png);
+            if (!thumbOk || !pngOk) await sharp(png).resize(640, 336).webp({ quality: 72, effort: 6 }).toFile(thumb);
+          } else {
+            const svg = articleSvg(a);
+            if (!pngOk) await toPng(svg, file);          // social og:image
+            if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
+          }
           next[key] = hash;
           made++;
         } catch (e) {
@@ -381,22 +510,27 @@ async function main() {
     // Resume checkpoint: persist the cache every ~20 batches so a mid-run SIGSEGV
     // doesn't throw away the work. build-og-safe.mjs reruns us; the hash check
     // then skips everything already rendered and we continue where we left off.
-    if (++batchNo % 20 === 0) {
+    if (!onlySet.size && ++batchNo % 20 === 0) {
       try { await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next })); } catch { /* best-effort */ }
     }
   }
 
   // Prune cards for articles that no longer exist (keep the default cards).
-  const keep = new Set(['default', 'en/default', 'zh/default']);
+  // SKIP pruning entirely in OG_ONLY/sample mode — `wanted` only holds the sample
+  // article(s), so pruning would delete every other card. Also skip persisting the
+  // cache in sample mode, so a sample build never marks the corpus as up to date.
   let pruned = 0;
-  for (const p of await collectCards(OUT_DIR)) {
-    const rel = path.relative(OUT_DIR, p).split(path.sep).join('/').replace(/\.thumb\.webp$/, '').replace(/\.png$/, '');
-    if (keep.has(rel) || wanted.has(rel)) continue;
-    try { await unlink(p); pruned++; } catch { /* ignore */ }
+  if (!onlySet.size) {
+    const keep = new Set(['default', 'en/default', 'zh/default']);
+    for (const p of await collectCards(OUT_DIR)) {
+      const rel = path.relative(OUT_DIR, p).split(path.sep).join('/').replace(/\.thumb\.webp$/, '').replace(/\.png$/, '');
+      if (keep.has(rel) || wanted.has(rel)) continue;
+      try { await unlink(p); pruned++; } catch { /* ignore */ }
+    }
+    await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next }));
   }
-
-  await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next }));
-  console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned, ${failed.length} skipped`);
+  console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned, ${failed.length} error-skipped, ${skippedFont} font-skipped`);
+  if (skippedFont) console.warn(`[og] ${skippedFont} card(s) left unchanged — missing script font(s): ${[...missingFonts].join(', ')}. Fix the font install to render them next run.`);
   if (failed.length) console.warn(`[og] skipped cards (${failed.length}): ${failed.slice(0, 30).join(', ')}${failed.length > 30 ? ' …' : ''}`);
 }
 

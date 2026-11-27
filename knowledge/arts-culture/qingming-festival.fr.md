@@ -33,7 +33,7 @@ faq:
     a: "Brûler du papier cérémoniel (monnaie en papier) et des effigies en papier est une manière courante d'honorer les ancêtres, qui symbolise l'« envoi » d'argent et d'objets du quotidien aux aînés pour qu'ils en usent dans l'autre monde ; outre la monnaie en papier et les vêtements en papier, les effigies modernes comprennent aussi des maisons en papier et des voitures en papier. Comme cela implique une flamme nue et de la fumée, certains cimetières et parcs du souvenir désignent des zones de combustion ou établissent des règles, et ces dernières années certaines personnes se sont tournées vers des méthodes plus respectueuses de l'environnement."
 
 lang: "fr"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Elle correspond à « Qingming », l'un des vingt-quatre termes solaires du calendrier lunaire ; la date grégorienne est assez fixe, généralement autour du 4 ou du 5 avril ; les familles locales répartissent souvent les visites aux tombes sur une dizaine de jours autour de cette période."
   holiday: "La fête de Qingming n'est pas un jour férié en Malaisie, et la plupart des commerces fonctionnent normalement ce jour-là."
   etiquette: "Comme le brûlage du papier-monnaie et des offrandes en papier implique flammes et fumée, certains cimetières et parcs commémoratifs délimitent des zones de brûlage ou édictent des règles, et ces dernières années certaines personnes adoptent des méthodes plus respectueuses de l'environnement."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'Une grande tombe chinoise en pierre grise à enceinte incurvée en forme d''oméga et cour de recueillement en tuiles rouges sur une colline herbeuse à Bukit Cina à Melaka, avec une tombe du dieu de la terre à dôme séparée à proximité et un passant marchant entre les arbres'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: Une table d'offrandes funéraires garnie de poulets entiers cuits à la vapeur, de poisson, de porc rôti, de bols de riz blanc avec des baguettes, de tasses de thé et de théières, avec des faisceaux de bâtonnets d'encens rouges plantés verticalement dans des gourdes et brûlant devant un autel de pierre
+    kind: representative
+    origin: third-party
+    subject: un assortiment d'offrandes de nourriture et d'encens qui brûle devant une tombe pendant le balayage des tombes de Qingming
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: Un lion gardien en pierre doré perché au sommet d'un pilier funéraire en granit gravé de caractères chinois dorés, sur fond de tertre funéraire herbeux et d'un arbre étalé sous un ciel couvert au cimetière chinois de Bukit Cina à Melaka
+    kind: actual
+    origin: third-party
+    subject: un pilier funéraire orné d'un lion gardien doré inscrit de noms de famille chinois au cimetière chinois (Bukit Cina) à Melaka, en Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 Un petit matin de début avril, le long des sentiers du cimetière, des familles entières commencent à apparaître. Les uns portent des seaux et des faucilles ; les autres, des paniers remplis de plats cuisinés, de fruits et de monnaie en papier. Une fois la tombe familiale trouvée, les plus jeunes se mettent à arracher les mauvaises herbes et à balayer les feuilles, tandis que les aînés indiquent comment repeindre, trait après trait, les caractères délavés de la stèle ; ce n'est qu'une fois la tombe propre que l'on dispose les offrandes, allume l'encens et rend hommage, avant de brûler enfin la monnaie en papier sur un terrain dégagé voisin. Entre la fumée et les flammes, le Qingming annuel passe ainsi.

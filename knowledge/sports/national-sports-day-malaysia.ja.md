@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 
 status: "published"
 aiAssisted: true
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'クアラルンプールの夜のロードレースで、ランナーの群れがライトアップされたスルタン・アブドゥル・サマド・ビルの前を流れるように走り過ぎていく。'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: クアラルンプールのカーフリーデーで、あらゆる年代の大勢のサイクリストが夜明けの封鎖された通りを埋め尽くし、頭上には祝祭の垂れ幕が掲げられている。
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールのカーフリーデーの朝に集う大勢のサイクリスト
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: マレーシアの郡対抗学校陸上選手権で、若いアスリートと役員がスタジアムの赤いトラックに集まり、背後には照明塔とスタンドが見える。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの郡対抗学校陸上選手権でトラックに立つアスリートたち
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 毎年10月の第2土曜日には、マレーシア全国の競技場、公園、体育館が人でにぎわうはず——それが国家スポーツの日の狙いである。

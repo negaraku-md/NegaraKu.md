@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 
 status: "published"
 aiAssisted: true
@@ -82,9 +82,42 @@ wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["pahang"]
+related: ["pahang", "genting-highlands", "frasers-hill", "ipoh-and-the-kinta-valley"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Tanah Rata அல்லது Brinchang-ஐத் தளமாகக் கொண்டு, தேயிலைத் தோட்டங்கள், ஸ்ட்ராபெர்ரி மற்றும் மலர் பண்ணைகள், மேலும் வழிகாட்டப்பட்ட Orang Asli கிராமம் அல்லது Mossy Forest நடை ஆகியவற்றை இணைத்து இரண்டு முதல் மூன்று நாட்கள் குளிர்ந்த தட்பவெப்ப மலைவாசத் தங்கல் விரும்பும் பயணத் திட்டமிடுபவர்களுக்கு ஏற்றது.'
+  getThere: 'பீடபூமியை விமான நிலையமோ ரயில்பாதையோ அடைவதில்லை — Tapah இலிருந்தோ Raub/Kuala Lipis பக்கத்திலிருந்தோ (Ringlet-இல் இணைந்து) அல்லது வடக்கில் Simpang Pulai இலிருந்தோ சாலை வழியாக நீங்களே ஓட்டிச் செல்கிறீர்கள் அல்லது அழைத்துச் செல்லப்படுகிறீர்கள், Tapah இலிருந்து Tanah Rata வரை பொதுப் பேருந்துகளும் இயங்குகின்றன.'
+  permit: 'நுழைய பூங்கா அனுமதிச்சீட்டு தேவையில்லை; BOH தேயிலைத் தோட்டத் தொழிற்சாலை சுற்றுலாக்கள் இலவசம், ஆனால் Orang Asli கிராம வருகைகள் நம்பகமான உள்ளூர் வழிகாட்டி அல்லது இயக்குநர் மூலம் செய்யப்பட வேண்டும்.'
+  watch: 'அதை ஒரே நகரமாகக் கருதாதீர்கள் — இவை வெவ்வேறு பங்குகள் கொண்ட மூன்று குடியிருப்புகள் — மேலும் தேயிலைத் தோட்டங்கள் திங்கட்கிழமைகளில் மூடப்பட்டிருக்கும், பீடபூமி வானிலையும் விரைவாக மாறுகிறது, எனவே நாள் திட்டங்கள் மாறலாம்.'
+  next: 'தற்போதைய திறக்கும் நேரங்களையும் திங்கள் மூடல்களையும் ஒவ்வொரு இடத்துடனும் நேரடியாக உறுதிப்படுத்துங்கள் — தேயிலைத் தோட்டங்களுக்கு BOH Plantations-இன் அதிகாரப்பூர்வ தளம் (bohtea.com) மற்றும் பண்ணை-மலர்த்தோட்ட ஈர்ப்புகளுக்கு Cameron Highlands District Council (MDCH).'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'மேகங்களுடன் நீல வானத்திற்குக் கீழே Cameron Highlands மலைகளை மூடும் துடிப்பான பச்சை உருளும் தேயிலைத் தோட்ட படிநிலைகள்'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Cameron Highlands-இன் மூடுபனி நிறைந்த Mossy Forest-இல் முடிச்சுப்பட்ட பாசி மூடிய மரங்கள் மற்றும் வேர்களுக்கு இடையே வளைந்து செல்லும் ஒரு குறுகிய பாதை
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands-இன் Mossy Forest-இல் பாசி மூடிய மரங்களுக்கு இடையேயான பாதை
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Cameron Highlands ஸ்ட்ராபெர்ரி பண்ணையில் ஒரு பசுமைக்குடிலினுள் பழுத்த சிவப்புப் பழங்களைத் தாங்கிய ஸ்ட்ராபெர்ரி செடிகளின் நீண்ட உயர்த்தப்பட்ட தொட்டிகள்
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands ஸ்ட்ராபெர்ரி பண்ணையில் ஒரு பசுமைக்குடிலில் ஸ்ட்ராபெர்ரி செடி வரிசைகள்
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 தானா ராத்தாவில் பேருந்திலிருந்து இறங்கியவுடன் நீங்கள் முதலில் கவனிப்பது உங்கள் சொந்த மூச்சைத்தான் — பூமத்திய ரேகையிலும்கூட ஒரு ஸ்வெட்டர் அபத்தமாகத் தோன்றாத அளவுக்கு காற்று குளிர்ச்சியாக இருக்கும். அதுதான் கேமரன் ஹைலண்ட்ஸின் முழு நோக்கம்: வெப்பமண்டல மலேசியாவின் மேலே அடுக்கப்பட்ட மிதவெப்பமண்டல மலைப்பகுதியின் ஒரு துண்டு, அங்கே தேயிலை மலைமுகடுகளின் மேல் நேர்த்தியான பச்சை வரிகளாக வளர்கிறது, ஸ்ட்ராபெரிகள் சாலையோர பாலிடன்னல்களில் பழுக்கின்றன.

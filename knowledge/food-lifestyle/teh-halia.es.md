@@ -82,7 +82,15 @@ drinkFacts:
   origin: "Una variante malasia con jengibre del teh tarik —«halia» significa «jengibre» en malayo— estirada de la misma manera cuando se hace como teh tarik halia. Parte de la familia del teh tarik del mostrador del kopitiam y el mamak, no una tradición aparte."
   halal: "Té, jengibre y leche, sin alcohol, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada puesto de kopitiam o mamak."
   served: "Se sirve caliente por su calidez reconfortante, y también helado. Dulce por la leche condensada; pídelo menos dulce si lo prefieres. A menudo estirado (tarik) como el teh tarik; una taza reconfortante popular y una bebida habitual del suhoor durante el Ramadán."
-  where: "Se encuentra en los locales kopitiam y mamak por todo el país, vertido desde el mismo mostrador que el teh tarik y el kopi; también se vende en sobres instantáneos de té con leche y jengibre."
+  where: "Se encuentra en los locales kopitiam y mamak por todo el país, vertido desde el mismo mostrador que el teh tarik y el kopi; también se vende en sobres instantáneos de té con leche y jengibre."
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Tazas de vidrio con té con leche y jengibre (teh halia) sobre una mesa de madera"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Toma la bebida más famosa del país, añade un toque cálido de jengibre y tienes el **teh

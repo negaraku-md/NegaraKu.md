@@ -33,7 +33,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["말레이시아 오픈 하우스 예절", "루마 터부카 예절", "오픈 하우스 말레이시아 손님", "하리 라야 오픈 하우스 예절", "말레이시아 오픈 하우스 복장", "두잇 라야 앙 파우 손님", "할랄 가정 예절 말레이시아", "말레이시아 가정 방문 관습"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: '위에서 내려다본 하리 라야(Hari Raya) 잔칫상으로, 소고기 른당(rendang)과 채소 커리 냄비, 삼발(sambal) 한 접시, 그리고 엮은 커투팟(ketupat) 껍질과 썰어놓은 압착 쌀떡 접시가 놓여 있다.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: 바틱과 바주 쿠룽을 입은 손님들이 하리 라야 아이딜피트리 오픈하우스 문간에서 미소 지으며 악수로 인사를 나눈다
+    kind: representative
+    origin: third-party
+    subject: 하리 라야 아이딜피트리 오픈하우스에서 집주인에게 인사하는 손님들
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: 야자잎으로 엮어 함께 묶은 크투팟(ketupat) 쌀떡 껍질 한 묶음, 말레이시아 하리 라야 오픈하우스 접대의 주식이다
+    kind: actual
+    origin: third-party
+    subject: 하리 라야를 위해 준비한 엮은 크투팟(ketupat)
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 여러분은 *루마 터부카*(rumah terbuka) — 오픈 하우스에 초대받았습니다. 어쩌면

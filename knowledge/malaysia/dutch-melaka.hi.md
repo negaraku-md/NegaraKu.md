@@ -20,7 +20,7 @@ keyTakeaways:
   - "17 मार्च 1824 की एंग्लो-डच संधि ने बेनकूलन के बदले मलक्का को स्थायी रूप से ब्रिटेन को सौंप दिया; वास्तविक हस्तांतरण 1 मार्च 1825 को प्रभावी हुआ"
 appliesTo: "वे पाठक जो पहले से जानते हैं कि मलक्का पुर्तगालियों से डचों और फिर अंग्रेज़ों के हाथों में गया, और यह समझना चाहते हैं कि बीच के 184 वर्ष उससे पहले के 130 वर्षों और बाद के 121 वर्षों से इतने अलग क्यों दिखते हैं — साथ ही यह कि ब्रिटेन को हस्तांतरण वास्तव में कैसे हुआ।"
 lang: "hi"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: क्या मलक्का डचों से अंग्रेज़ों को एक ही साफ-सुथरे हस्तांतरण में सौंपा गया?
     a: नहीं। तीस वर्षों में यह प्रशासनिक रूप से चार बार हाथ बदला। ब्रिटेन ने 1795 में मलक्का को फ्रांस के हाथ में जाने से रोकने के लिए क्यू पत्रों (Kew Letters) के तहत उस पर कब्ज़ा किया, 1818 में मलक्का डचों को लौटा दिया गया, 1824 की आंग्ल-डच संधि (17 मार्च 1824 को हस्ताक्षरित) ने सुमात्रा के बेनकूलेन (Bencoolen) के बदले इसे स्थायी रूप से ब्रिटेन को सौंप दिया, और वास्तविक हस्तांतरण 1 मार्च 1825 को प्रभावी हुआ।
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'मलक्का के डच स्क्वायर में गहरे लाल रंग की डच औपनिवेशिक इमारत स्टैडथुइस और उसका लाल घड़ी-मीनार, जिसके सामने फूलों से भरा एक गोलचक्कर और दिशा-सूचक खंभा है।'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: गहरे लाल ईंटों वाला Christ Church Melaka का अग्रभाग, जिसके त्रिकोणाकार शीर्ष (गेबल) में एक सफेद क्रॉस और एक घड़ी जड़ी है, आसमान की ओर उठता है।
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka, सन् 1753 में डचों द्वारा बनाया गया गिरजाघर
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: '''Kubur Belanda / The Dutch Graveyard'' लिखा हुआ सफेद पुता मेहराबदार प्रवेश द्वार मेलाका की सेंट पॉल पहाड़ी पर पेड़ों की छाया में बसे एक औपनिवेशिक कब्रिस्तान की ओर खुलता है।'
+    kind: actual
+    origin: third-party
+    subject: मेलाका में सेंट पॉल पहाड़ी पर डच कब्रिस्तान (Kubur Belanda)
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 एक कंपनी एक बंदरगाह जीतने के लिए सात महीने और एक विदेशी सल्तनत के साथ गठबंधन लगा देती है। फिर वह अगली डेढ़ सदी यह सुनिश्चित करने में बिता देती है कि वह बंदरगाह कभी समृद्ध न हो।

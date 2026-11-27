@@ -30,7 +30,7 @@ faq:
     a: "El número de la comunidad ha caído drásticamente —de unas 400 familias en los años ochenta a menos de 50 familias hoy, según el Consejo Nacional del Patrimonio de Singapur (Roots)—, mientras que un reportaje de Free Malaysia Today estima que solo quedan unas 20 a 30 familias viviendo en Kampung Chetti. Los investigadores vinculan este declive a los matrimonios mixtos, la emigración y el hecho de que las generaciones más jóvenes pierden cada vez más contacto con sus raíces chetti."
 
 lang: "es"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'Un arco de entrada rosado de estilo indio coronado por dos figuras blancas de elefante que marca el callejón hacia Kampung Chetti en Melaka, con un pequeño templo hindú de cúpula crema a la derecha y casas del pueblo con un letrero de Kampung Chetti a lo largo de la calle tranquila bajo un cielo azul'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: Una tradicional casa de madera oscura de dos plantas al estilo malayo que sirve de Museo Chetti en Melaka, con un cartel azul que reza Muzium Chetti The Chetti Museum sobre el porche, una fila de plantas en maceta tras una valla baja y banderas de Malasia y de Melaka ondeando a su lado
+    kind: actual
+    origin: third-party
+    subject: el Museo Chetti (Muzium Chetti) en Kampung Chetti, Melaka, que documenta la comunidad Chetti Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: La fachada amarilla del templo Sri Poyyatha Vinayagar Moorthi en la Calle de la Armonía de Melaka, una modesta torre escalonada con hornacinas de deidades que se eleva sobre el tejado alicatado del porche y puertas turquesa, iluminada por el sol bajo de la mañana contra un cielo azul intenso
+    kind: actual
+    origin: third-party
+    subject: El templo Sri Poyyatha Vinayagar Moorthi en Melaka, el histórico templo hindú fundado por la comunidad Chetti en 1781
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 En un viejo pueblo de la calle Jalan Gajah Berang, en Melaka, hay un grupo de familias que rezan al dios Shivá, visten como malayos, cocinan curris fragantes de leche de coco y hablan un malayo salpicado de palabras tamiles. No son indios, ni malayos, ni chinos: son los chetti melaka, y su número es cada vez menor.

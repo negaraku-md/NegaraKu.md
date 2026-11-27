@@ -36,7 +36,7 @@ faq:
     a: "아닙니다. 2026년 3월 7일 CelcomDigi와 Maxis가 각각 RM327,872,640.28에 DNB의 재무부 지분 매입을 완료했으며, 이는 정부의 5G 도매 사업 철수를 의미하고 DNB를 통신사들과 YTL이 소유하는 완전한 민간 기업으로 전환했습니다."
 
 lang: "ko"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: '주황과 파란 일몰 하늘을 배경으로 실루엣을 드러낸, 말레이시아 빈툴루 부킷 냐바우의 두 격자 통신탑'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: 교외 지붕 위로 맑고 푸른 하늘을 배경으로 서 있는, 이동통신 안테나와 5G 장비를 꼭대기에 단 키 큰 회색 모노폴 이동전화 기지국 탑
+    kind: representative
+    origin: third-party
+    subject: 맑고 푸른 하늘을 배경으로 5G 안테나를 단 모노폴 이동전화 기지국 탑
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: 푸른 하늘 아래 저층 도시 위로 솟은, 흰색 패널 안테나·마이크로파 접시·기지국 캐비닛을 갖춘 옥상 통신 마스트
+    kind: representative
+    origin: third-party
+    subject: 도시 위로 패널 안테나와 마이크로파 접시를 갖춘 옥상 5G 기지국 탑
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 말레이시아 사람 두 명에게 이 나라의 이동통신 네트워크가 어떻게 운영되는지 물어보면, 흔히 서로 다르면서도 절반씩만 맞는 두 가지 답을 듣게 됩니다 — 사실은 서로 얽힌 두 개의 별개 이야기가 있기 때문입니다. 하나는 대부분의 사람이 정부 현수막에서 본 적이 있는 이름을 가진 광대역 커버리지 계획입니다. 다른 하나는 누가 5G 회선을 소유할지를 둘러싼 빠르게 전개되는 싸움입니다. 오늘날의 말레이시아 통신을 이해하려면 이 두 이야기를 분명히 구분해야 합니다.

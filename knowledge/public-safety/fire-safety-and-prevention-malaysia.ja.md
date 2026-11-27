@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 
 status: "published"
 aiAssisted: true
@@ -68,9 +68,36 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: '暖かな午後の光の中、消防署の開いたシャッターの下から出てくる、正面に「BOMBA」の文字、側面に装備ロッカー、青い警光灯バーをつけた鮮やかな赤いメルセデス・ベンツ・アテゴのボンバ消防車'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: 赤い「Bomba dan Penyelamat」消防車の側面。収納扉が開き、きちんと収められた巻きホース、ホースリール、呼吸器、可搬式発電機ほかの救助器材を見せる
+    kind: actual
+    origin: third-party
+    subject: 消火・救助器材を見せる、マレーシアのBomba消防車の開いた側面の収納庫
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: 黄色いBOMBAの文字と部門の紋章を付けた「Bomba dan Penyelamat」塗装の赤いトヨタ・ハイエースBomba救助車が、農村の集落で木々のそばの草地に駐車
+    kind: actual
+    origin: third-party
+    subject: サバ州ラナウの農村のカンポンに配備された、赤いBomba緊急救助車
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 火は警告してくれない。数分のうちに、過負荷のコンセントから飛んだ一つの火花や、放置された鍋が一軒の家をなぎ倒しうる——2025年だけでも、[マレーシア消防救助局](/government/fire-and-rescue-department-bomba)（JBPM）は16,111件の火災を記録し、98人が死亡、財産損失は推定20.9億リンギットに達した。良い知らせは、そのほとんどが予防できるということだ。あなたの居間であれ、工場の現場であれ。

@@ -33,7 +33,7 @@ faq:
     a: "تحتفل الأُسر المسيحية باليوم دينياً عبر القدّاسات الكنسية. وإلى جانب ذلك، يُحتفى بعيد الميلاد على نطاق أوسع في الحياة العامة — إذ تضع المجمّعات التجارية والفنادق الزينة وتقيم تخفيضات موسمية، ويشيع تقليد البيت المفتوح في استضافة ضيوف من أي خلفية لتناول وجبة مشتركة. والمشاركة في الجانب الاجتماعي الأوسع من الموسم لا تقتصر على المسيحيين."
 
 lang: "ar"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,34 @@ festivalFacts:
   when: "يقع يوم عيد الميلاد في 25 ديسمبر من كل عام، مع موسم للزينة والتسوّق يبدأ من أواخر نوفمبر تقريبًا."
   holiday: "يوم عيد الميلاد، 25 ديسمبر، عطلة رسمية على مستوى البلاد في جميع الولايات والأقاليم الاتحادية (الجدول الأول من Holidays Act 1951 (Act 369) في شبه الجزيرة؛ ومراسيم الولايات في Sabah وSarawak). كما تُدرِج Sabah ليلة عيد الميلاد، 24 ديسمبر، عطلةً رسمية للولاية بموجب Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "يُطبَّق تقليد البيت المفتوح (open house) في استضافة الضيوف من أي خلفية لتناول وجبة مشتركة على عيد الميلاد كما على سائر الأعياد؛ والعائلات المسيحية المضيفة ترحّب عادةً بضيوف من أديان أخرى، وتجري الزيارات في الاتجاهين عبر رزنامة الأعياد."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'شجرة عيد ميلاد مزيّنة شاهقة ترتفع عبر بهو مركز بافيليون كوالالمبور، محاطة بفوانيس ذهبية معلّقة ودوّامة خيل وحشود من المتسوقين على سجادة حمراء'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: عرض عيد ميلاد مجيد فخم بطابع أرض الحلوى في أحد مراكز التسوق بكوالالمبور، بمسرح أحمر وأبيض بنمط حلوى النعناع وبيوت خبز الزنجبيل وصفوف من أشجار عيد الميلاد المضاءة بأضواء الزينة فوق الحشود
+    kind: actual
+    origin: third-party
+    subject: عرض عيد ميلاد بطابع أرض الحلوى مع بيوت خبز الزنجبيل وأشجار مضاءة في أحد مراكز التسوق بكوالالمبور
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: كاتدرائية القديسة مريم الأنجليكانية ذات الجدران البيضاء والسقف القرميدي الأحمر في وسط كوالالمبور، بصليب على جملونها وعلم ماليزي أمامها، وأبراج مكاتب حديثة ترتفع خلفها
+    kind: actual
+    origin: third-party
+    subject: كاتدرائية القديسة مريم الأنجليكانية، كنيسة بيضاء تاريخية في وسط كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 في مساء 24 ديسمبر، تمتلئ كنيسة في كوتا كينابالو أو كوتشينغ بروّاد قدّاسٍ متأخّر، بينما يكون التاريخ نفسه على بُعد بضع مئات من الكيلومترات في شبه الجزيرة يومَ خميسٍ عاديّ للعمل. وفي صباح اليوم التالي، 25 ديسمبر، تتوقّف البلاد كلها عن العمل. وهذا الانقسام — تاريخ واحد، وحالتان مختلفتان تماماً — هو أوضح طريقة لفهم موقع عيد الميلاد في ماليزيا: عيد ديني لجالية واحدة، وعطلة رسمية للجميع، وموسم أبوابٍ مفتوحة يشارك فيه كثيرون بصرف النظر عن المعتقد.

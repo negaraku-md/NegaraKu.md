@@ -16,7 +16,7 @@ keyTakeaways:
   - "이 회사는 1979년 슬랑오르 술탄의 왕실 인가(royal warrant)를 받은 뒤, 1992년에야 현재의 이름을 갖게 되었습니다."
 appliesTo: "말레이시아 공예 전통, 주석 채굴의 역사, 또는 로열 슬랑오르에 관심 있는 모든 사람"
 lang: "ko"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: '보라 머리수건과 앞치마를 두른 여성 장인이 작업대 위로 몸을 숙여 강철 지그에 고정된 백랍 술잔을 작은 망치로 두드리고, 뒤로 백랍 머그잔들이 줄지어 있는 모습'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: 선반(旋盤)에서 돌아가는 탱커드에 공구를 대고 작업하는 백랍 장인. 금속 부스러기가 말려 떨어지고, 나무 작업대 위에는 광택을 낸 은빛 백랍 탱커드 몸체 아홉 개가량이 모여 있다
+    kind: actual
+    origin: third-party
+    subject: 선반에서 탱커드를 깎는 말레이시아 백랍 장인, 작업대 위에 완성된 백랍 탱커드들이 놓여 있다
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: 옅은 배경을 뒤로 하고 빛을 받아 거울처럼 반짝이는 은빛 표면의, 두툼한 손잡이와 가로 띠 장식이 있는 광택을 낸 백랍 탱커드 한 개
+    kind: actual
+    origin: third-party
+    subject: 손잡이가 달린 완성되어 광택을 낸 백랍 탱커드
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 주석 위에 세워진 도시가 결국 세계에 금속 공예를 선사했습니다. 쿠알라룸푸르가 존재하는 것은 탐광자들이 클랑강(Klang)과 곰박강(Gombak)이 만나는 곳에서 주석 광석을 발견했기 때문입니다. 수십 년 뒤, 바로 그 주석 경제에서 일하러 온 십 대 주석 세공인이 사원 제단을 위한 향로를 두드려 만들기 시작했는데 — 그가 연 작업장은 이제 지구에서 가장 큰 백랍 제작사입니다.

@@ -28,7 +28,7 @@ faq:
   - q: "DOF บังคับใช้กฎหมายใด?"
     a: "กฎหมายหลักคือพระราชบัญญัติการประมง (Fisheries Act 1985, Act 317) ครอบคลุมการอนุรักษ์ การจัดการ และการพัฒนาการประมงและกิจการประมงในน่านน้ำมาเลเซีย รวมถึงการออกใบอนุญาต การเพาะเลี้ยงสัตว์น้ำ สัตว์เลี้ยงลูกด้วยนมในน้ำ และเต่า"
 lang: "th"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'อาคารตลาดปลาทรงกลมพร้อมเรือประมงที่จอดเทียบอยู่ริมท่าเรือในซันดากัน ประเทศมาเลเซีย'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: คนงานคัดแยกปลาสดลงลังข้างเรือประมงที่จอดเทียบท่าในศูนย์ประมงที่กวนตัน รัฐปะหัง
+    kind: actual
+    origin: third-party
+    subject: คนงานคัดแยกปลาสดที่ท่าขึ้นปลาในกวนตัน รัฐปะหัง
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: กระชังเลี้ยงกุ้งลอยน้ำขนาดใหญ่ผูกจอดอยู่บนแม่น้ำสิตมปกที่ขนาบด้วยป่าชายเลนที่กัวลาเปอญู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: กระชังเลี้ยงกุ้งลอยน้ำบนแม่น้ำป่าชายเลนสิตมปก รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 เรือทุกลำที่ทอดแหอย่างถูกกฎหมายในน่านน้ำมาเลเซีย ท้ายที่สุดแล้วต้องขึ้นตรงต่อหน่วยงานเดียว **กรมประมงมาเลเซีย (Department of Fisheries Malaysia, DOF)** — *Jabatan Perikanan Malaysia* — คือหน่วยงานระดับสหพันธรัฐที่บริหารจัดการทรัพยากรทางทะเลและการเพาะเลี้ยงสัตว์น้ำของประเทศ และออกใบอนุญาตกิจกรรมการประมงทั้งหมด กรมนี้ดำเนินงานภายใต้ **กระทรวงเกษตรและความมั่นคงทางอาหาร (MAFS)** บังคับใช้ **พระราชบัญญัติการประมง (Fisheries Act 1985, Act 317)** และมี **อธิบดีกรมประมง (Director-General of Fisheries)** เป็นผู้นำ สำนักงานใหญ่ตั้งอยู่ที่ Wisma Tani เมืองปุตราจายา (Putrajaya) โดยมีเครือข่ายสำนักงานระดับรัฐและระดับอำเภอสนับสนุน

@@ -31,7 +31,7 @@ faq:
   - q: Apakah ini sama dengan industri furnitur Malaysia?
     a: Tidak. Panduan ini mencakup sektor sumber daya hulu — hutan, penebangan, dan produk primer seperti kayu gelondongan, kayu gergajian, dan kayu lapis. Sektor furnitur dan produk kayu jadi adalah ujung hilir dan manufaktur yang mengubah produk primer itu menjadi barang bernilai lebih tinggi untuk ekspor. Keduanya terkait tetapi biasanya diperlakukan sebagai industri terpisah.
 lang: id
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: 'Sebuah wheel loader dan para pekerja mengolah kayu keras yang baru ditebang di halaman penggergajian kayu di Sabah, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: Tumpukan papan dan gelondongan kayu keras yang telah digergaji di bawah atap terbuka sebuah penggergajian kayu pedesaan di Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Penggergajian kayu di Kampung Mempakad, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: Sebuah loader beroda memindahkan gelondongan kayu keras tropis menuju unit pemotongan di sebuah pabrik kayu lapis di Sandakan, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Area tumpukan gelondongan pabrik kayu lapis di Sandakan, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 Malaysia bertengger di atas sebagian hutan hujan tertua di Bumi, dan untuk sebagian besar sejarah modernnya, perdagangan kayu keras tropis adalah salah satu pilar perekonomian nasional. Dunia hulu itu — hutan itu sendiri, lisensi untuk menebangnya, dan pengolahan awal kayu gelondongan mentah menjadi kayu — adalah industri yang berbeda dari pabrik furnitur dan eksportir produk kayu di hilir rantai. Panduan ini mencakup **sektor kehutanan dan sumber daya kayu**: dari mana kayu berasal, siapa yang menguasainya, bagaimana ia diekspor, serta tekanan keberlanjutan dan pasar yang kini membentuknya ulang.

@@ -35,7 +35,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'சிவப்பு பிறையுடன், ஹொஸ்பிட்டல் குவாலாலம்பூரில் உள்ள கொம்ப்ளெக்ஸ் பாக்கார் டான் ராவத்தான் ஹாரியான் (சிறப்பு மற்றும் பகல் பராமரிப்பு வளாகம்) வெளிப்புறம்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: ஒரு மலேசிய அரசு மருத்துவமனையில் பதிவு மற்றும் விசாரணை பணியிடம், நோயாளிகளை சரியான வரிசைக்கு வழிநடத்தும் அறிவிப்புப் பலகைகள், எந்த நோயாளியும் தெரியவில்லை
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசிய அரசு மருத்துவமனைக்குள் (Hospital Tengku Anis, Pasir Puteh, Kelantan) பதிவு மற்றும் விசாரணை பணியிடம்
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: பினாங்கில் உள்ள ஒரு பெரிய இலாப நோக்கற்ற சிறப்பு மருத்துவமனையின் முதன்மை பல மாடி கட்டிடம், பரிந்துரை பாதையின் மருத்துவமனை நிலையைக் குறிக்கிறது
+    kind: actual
+    origin: third-party
+    subject: பினாங்கில் உள்ள இலாப நோக்கற்ற சிறப்பு மருத்துவமனையான Lam Wah Ee Hospital இன் முதன்மை கட்டிடம்
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 ஒரு ரெஃபரல் என்பது எவரது பராமரிப்பிலும் ஒரு திருப்புமுனை தருணம்: உங்கள் பிரச்சினைக்கு ஒரு நிபுணர் தேவை என்று உங்கள் மருத்துவர் தீர்மானித்துவிட்டார் — அல்லது பரிந்துரைத்துவிட்டார் — திடீரென்று நீங்கள் சுகாதார அமைப்பின் வேறொரு பகுதியில் வழிசெலுத்துகிறீர்கள். இந்த வழிகாட்டி சரியாக அங்கேயே தொடங்குகிறது. உங்களுக்கு ஒரு நிபுணர் தேவையா என்று இது உங்களுக்குச் சொல்ல**வில்லை**; அந்தத் தீர்மானம் உங்கள் மருத்துவரைச் சேர்ந்தது. இது செய்வது என்னவெனில், **மலேசியாவில் ரெஃபரல்கள் உண்மையில் எப்படி வேலை செய்கின்றன, என்ன தயாரிக்க வேண்டும்** என்பதை விளக்குவது; இதனால் கிளினிக்கிலிருந்து நிபுணர் வரையிலான ஒப்படைப்பு முடிந்தவரை சுமூகமாக இருக்கும்.

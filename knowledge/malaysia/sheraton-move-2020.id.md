@@ -66,6 +66,13 @@ sources:
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["Langkah Sheraton", "Sheraton Move", "krisis politik Malaysia 2020", "Perikatan Nasional", "perubahan kerajaan 2020"]
 framework: history-culture
+hero: '/media/malaysia/sheraton-move-2020/hero.webp'
+heroAlt: 'Gedung Perdana Putra yang menampung Kantor Perdana Menteri Malaysia di Putrajaya, dengan kubah hijaunya.'
+heroCredit: 'Stress 043 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Draf — sensitif.** Artikel ini adalah ringkasan netral yang masih dalam

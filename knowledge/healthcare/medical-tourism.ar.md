@@ -32,7 +32,7 @@ faq:
     a: "تمنح وزارة الصحة التراخيص للمرافق الصحية الخاصة، ويسجّل المجلس الطبي الماليزي (Malaysian Medical Council) الأطباء ويؤدّبهم. كما يحمل كثير من المستشفيات اعتماداً اختيارياً من الجمعية الماليزية لجودة الرعاية الصحية (MSQH) أو من اللجنة الدولية المشتركة (JCI). ويقع MHTC خارج تلك السلسلة التنظيمية."
 
 lang: "ar"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["السياحة العلاجية ماليزيا", "medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "مسافرو الرعاية الصحية ماليزيا", "كلفة السفر الصحي ماليزيا", "لماذا يأتي المرضى إلى ماليزيا للعلاج"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'واجهة مركز برينس كورت الطبّي في كوالالمبور، وهو مستشفى خاص ماليزي رائد يخدم السيّاح الباحثين عن العلاج.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: مبنى مستشفى خاص حديث بواجهة زجاجية في Kota Kinabalu بولاية Sabah
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital، مركز طبي خاص في Kota Kinabalu بولاية Sabah، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: مدخل الطوارئ المُعلَّم لمستشفى خاص ماليزي، مع لوحة دليل تشير إلى البهو وعيادات الاختصاصيين
+    kind: actual
+    origin: third-party
+    subject: مدخل الطوارئ ولوحة دليل البهو في Pantai Hospital، وهو مستشفى خاص في Batu Pahat بولاية Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 تسافر عائلة من جاكرتا جواً لإجراء عملية مجازة قلبية (bypass) للأب. ويحجز زوجان بريطانيان عملية أطفال أنابيب (IVF) لأن قائمة الانتظار في بلدهما تمتد إلى ما بعد نافذة الخصوبة لديهما. ويأتي مريض من بنغلاديش لإجراء فحص صحي روتيني لا تستطيع عيادة بلدته إجراءه.

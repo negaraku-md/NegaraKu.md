@@ -32,7 +32,7 @@ faq:
     a: "首相署辖下的联邦直辖区局（JWP）在联邦层面协调这三个直辖区的政策与发展，而吉隆坡市政局、布城机构和纳闽机构则是地方政府，负责各自直辖区内的日常事务，如发照、城市规划和市政服务。"
 
 lang: "zh"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: '湖对岸的布城（Putrajaya），左侧是拥有粉红色圆顶和高耸宣礼塔的布特拉清真寺（Masjid Putra），右侧是绿色圆顶的首相署行政大楼佩达纳布特拉（Perdana Putra），背景是阴云密布的天空。'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: 布城机构(Putrajaya Corporation)行政大楼,管辖布城联邦直辖区的地方政府
+    kind: actual
+    origin: third-party
+    subject: 布城机构(Putrajaya Corporation)总部,布城联邦直辖区的地方政府
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: 布城司法宫的圆顶立面,印有马来西亚联邦国徽,是联邦直辖区的一座政府建筑
+    kind: actual
+    origin: third-party
+    subject: 司法宫(Istana Kehakiman),布城的一座联邦政府建筑
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 在一个州属，有苏丹或州元首，有州务大臣或首席部长，还有由人民选出的州立法议会。而在吉隆坡、布城和纳闽，这些一样也没有。这三个地方都不是州属——它们是联邦直辖区，由联邦政府直接管辖。

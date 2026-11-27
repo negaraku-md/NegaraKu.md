@@ -40,7 +40,7 @@ faq:
     a: "พิพิธภัณฑ์ที่ 48 และ 50 จาลันตุนตันเชงลอก ปิดวันอังคาร เปิด 10:00น. ถึง 16:15น. ในวันธรรมดา (ยกเว้นวันอังคาร) และ 10:00น. ถึง 16:45น. ในวันหยุดสุดสัปดาห์ เนื่องจากเวลาและราคาอาจเปลี่ยนแปลง ให้ยืนยันบนเว็บไซต์ทางการของพิพิธภัณฑ์ก่อนมาเยือน"
 
 lang: "th"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางที่ต้องการแกนมรดก UNESCO ที่กะทัดรัดและเดินเที่ยวได้ — สถานที่สำคัญของสุลต่านมลายู โปรตุเกส และดัตช์ พร้อมอาหารเปอรานากัน (Baba Nyonya) แบบ Nyonya — ทำเป็นทริปสุดสัปดาห์ได้ง่าย'
+  getThere: 'เข้าถึงทางถนนจากกัวลาลัมเปอร์ ขับรถราวสองชั่วโมง เป็นทริปสุดสัปดาห์ที่นิยม'
+  watch: 'วางแผนตามวันในสัปดาห์ — ตลาดกลางคืน Jonker Street เปิดเฉพาะเย็นวันศุกร์ถึงวันอาทิตย์ และในวันธรรมดาเป็นเพียงถนนตึกแถวธรรมดา — และอย่าสับสนประตูประวัติศาสตร์ A Famosa ที่เข้าชมฟรีกับสวนสนุก A''Famosa Resort ที่แยกต่างหากนอกเมือง'
+  next: 'ตรวจสอบวันและเวลาเปิดทำการปัจจุบันกับเว็บไซต์ทางการของ Baba & Nyonya Heritage Museum ก่อนเยี่ยมชม เนื่องจากสิ่งเหล่านี้เปลี่ยนแปลง'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'อาคารสตัดเธยส์สมัยดัตช์สีแดงเข้มด้านหลังน้ำพุวิกตอเรียและแผงตลาดบนจัตุรัสดัตช์ของมะละกา'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: เรือล่องแม่น้ำแล่นผ่านตึกแถวมรดกสีสันสดใสและต้นไม้ไปตามแม่น้ำมะละกาสีเทอร์ควอยซ์ในเมืองเก่า
+    kind: actual
+    origin: third-party
+    subject: ล่องเรือแม่น้ำมะละกาผ่านตึกแถวในเมืองเก่า
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: ซุ้มประตูทางเข้าจองเกอร์วอล์ก (Jonker Walk) เป็นเครื่องหมายทางเข้าถนนไชนาทาวน์ของมะละกา ข้างโบสถ์เมธอดิสต์ทมิฬปี 1908
+    kind: actual
+    origin: third-party
+    subject: ซุ้มประตูจองเกอร์วอล์กข้างโบสถ์เมธอดิสต์ทมิฬ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 ยืนอยู่ในจัตุรัสดัตช์ยามพลบค่ำ แล้วคุณจะอ่านห้าศตวรรษได้ในสายตาเดียว ศาลากลางเมืองดัตช์สีแดงแซลมอนด้านหนึ่ง ซากโบสถ์ยุคโปรตุเกสบนเนินเหนือขึ้นไป ประตูหินที่ครั้งหนึ่งเคยยึดโยงป้อมปราการที่อังกฤษพยายามรื้อถอน และในระยะเดินสองนาที ตรอกบ้านทาวน์เฮาส์จีน-มลายูที่ตอนนี้สว่างไสวสำหรับตลาดคืนวันศุกร์ มะละกาไม่ได้กระจายประวัติศาสตร์ไปทั่วเมืองใหญ่ หากอัดมันไว้ในพื้นที่ราวหนึ่งตารางไมล์ที่คุณเดินได้ในบ่ายเดียว ต่อไปนี้คือวิธีอ่านมัน และวิธีวางแผนการมาเยือนรอบ ๆ มัน

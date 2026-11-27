@@ -36,7 +36,7 @@ faq:
     a: "Kedua-duanya wujud. Tempat seperti Annah Rais berhampiran Kuching ialah komuniti rumah panjang Bidayuh yang masih didiami keluarga, manakala Kampung Budaya Sarawak berhampiran Santubong ialah muzium hidup yang dibina khas. Melawat rumah panjang yang masih didiami paling baik diatur terlebih dahulu dan selalunya melalui pemandu pelancong yang boleh mentafsir lawatan itu dengan hormat."
 
 lang: "ms"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara yang mencari alam semula jadi Borneo dan budaya Dayak yang hidup, menggunakan Kuching yang santai dan boleh dijelajahi dengan berjalan kaki sebagai pangkalan untuk orangutan separa liar Semenggoh dan rumah panjang Bidayuh, dengan gua Warisan Dunia dan hutan hujan Gunung Mulu sebagai tambahan utama.'
+  getThere: 'Terbang masuk ke Kuching sebagai hab utama, dengan Gunung Mulu hanya boleh dicapai menerusi penerbangan MASwings (dari Miri, Kuching atau Kota Kinabalu) kerana tiada jalan yang praktikal ke taman itu.'
+  permit: 'Sarawak mengendalikan imigresennya sendiri, jadi semua orang — termasuk rakyat Malaysia dari Semenanjung — dilepasi dan dikeluarkan pas kemasukan ketika ketibaan (warga asing mendapat cap Sarawak berasingan di samping kemasukan Malaysia mereka, dan kebanyakannya mesti mengisi MDAC dalam talian terlebih dahulu), dan penerbangan Mulu serta lawatan gua berpandu sebaiknya ditempah lebih awal.'
+  watch: 'Pesawat kecil Mulu kerap lewat atau dibatalkan akibat cuaca, jadi sediakan hari penimbal dan jangan sekali-kali menempah sambungan seterusnya yang ketat keluar dari taman.'
+  next: 'Sahkan keperluan visa dan MDAC semasa untuk kewarganegaraan anda dengan Jabatan Imigresen Malaysia.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'Sebuah hutan menara batu kapur kelabu bergerigi menembusi hutan hujan hijau dan kabus di Taman Negara Gunung Mulu, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Orang utan berbulu merah bergayut dan menghulur antara tali di tengah hutan hujan hijau tebal di Pusat Semula Jadi Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Orang utan liar bergerak di atas tali di hutan hujan Pusat Semula Jadi Semenggoh berhampiran Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Rumah panjang Iban kayu memanjang berdiri atas tiang dengan bumbung merah, berlatar hutan hujan di cerun bukit Sarawak
+    kind: actual
+    origin: third-party
+    subject: Rumah panjang Iban tradisional berdiri atas tiang di tebing sungai berhutan di Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kuching dalam masa kurang dua jam, tidak pernah meninggalkan negara anda sendiri, namun masih dicop melalui imigresen di hujung sana. Kejutan di dewan ketibaan itulah perkara paling penting yang perlu difahami tentang Sarawak: ia sebuah negeri Malaysia yang mengendalikan sempadannya sendiri.

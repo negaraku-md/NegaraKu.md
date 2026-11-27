@@ -24,7 +24,7 @@ appliesTo: "மலேசியாவின் மக்கள் தொகை, �
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,32 @@ faq:
   - q: மலேசியாவின் நகர்ப்புற வளர்ச்சியின் பெரும்பகுதி எங்கே குவிந்தது?
     a: கிள்ளான் பள்ளத்தாக்கில் (Klang Valley). 2020 மக்கள்தொகைக் கணக்கெடுப்பில், நான்கு அடுத்தடுத்த மாவட்டங்கள் — கோலாலம்பூர் (1,982,112), பெட்டாலிங் (2,298,130), உலு லங்காட் (1,400,461) மற்றும் கிள்ளான் (1,088,942) — சேர்ந்து சுமார் 6.77 மில்லியன் மக்களைக் கொண்டிருந்தன; இது 32.4 மில்லியன் தேசிய மக்கள்தொகையில் ஐந்தில் ஒரு பங்குக்கு மேலாகும். சிலாங்கூர் தற்போது 6,994,423 மக்களுடன் அதிக மக்கள்தொகை கொண்ட மாநிலமாகவும், 95.8% நகர்ப்புறமாகவும் உள்ளது; அதேவேளையில் கிளந்தான் 44.1% உடன் மிகக் குறைவாக நகரமயமாக்கப்பட்ட மாநிலமாகும்.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'பிரகாசமான மேகமூட்டமான வானத்தின் கீழ் கோலாலம்பூரின் அடர்த்தியான நகர வானளாவிய காட்சி, ஊசி நுனி கொண்ட கே.எல். கோபுரம், கூட்டமாக அமைந்த வானளாவிய கட்டிடங்கள் மற்றும் பச்சை மரங்களின் உச்சிக்கு மேல் உயரும் நீல நிற மசூதி குவிமாடம்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: வளைவான ஐந்தடி நடைபாதை மண்டபங்களும், மரச் சட்டக ஜன்னல்கள் கொண்ட மேல் தளங்களும் கொண்ட இரண்டு மாடி காலனித்துவ கால கடைவீடுகளின் வரிசை, அமைதியான பழைய நகரத் தெருவில் வரிசையாக நிற்கிறது.
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு, ஜார்ஜ் டவுனில் உள்ள பாரம்பரிய கடைவீட்டுத் தெரு
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: சாம்பல் வானத்தின் கீழ், நடுத்தர உயர குடியிருப்புத் தொகுதிகளின் வரிசைகளுக்கு முன்பு, ஏரி ஒன்றைக் கடந்து பாய்மர வடிவ வெண்ணிற கேபிள் தொங்கு பாலம் விரிகிறது.
+    kind: actual
+    origin: third-party
+    subject: திட்டமிட்டு அமைக்கப்பட்ட கூட்டாட்சி நகரமான புத்ராஜெயாவில் உள்ள ஸ்ரீ வாவாசான் பாலம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## நான்கில் மூவர் மலேசியர்கள் இப்போது DOSM “நகர்ப்புறம்” எனச் சொல்லும் இடத்தில் வாழ்கிறார்கள்

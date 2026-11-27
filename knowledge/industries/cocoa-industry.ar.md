@@ -31,7 +31,7 @@ faq:
   - q: أين ما زال الكاكاو يُزرع في ماليزيا؟
     a: "غالباً في صباح، خصوصاً المناطق الداخلية وإقليم Tawau، الذي قاد ازدهار الثمانينيات ولا يزال يمثّل غالبية المساحة المزروعة والإنتاج المتبقيين."
 lang: ar
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'ثمرتان كبيرتان خضراوان من الكاكاو تنموان مباشرةً من جذع شجرة كاكاو في مزرعة مظلّلة.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: حبوب كاكاو مخمّرة مفروشة في صينية خشبية لتجفّ تحت أشعة الشمس المكشوفة.
+    kind: representative
+    origin: third-party
+    subject: حبوب كاكاو تجفّ في الشمس
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: كومة من حبوب الكاكاو المحمّصة الداكنة جاهزة لإدخالها في مطحنة الطحن أثناء تصنيع الشوكولاتة.
+    kind: representative
+    origin: third-party
+    subject: حبوب كاكاو محمّصة جاهزة للتصنيع
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 ماليزيا من كبار معالجي الكاكاو في العالم رغم أنها كادت تتوقف عن زراعته. ففي جيل واحد، انتقلت البلاد من كونها من أكبر أربعة منتجين للحبوب، تثقل القرون سفوحها في صباح وشبه الجزيرة الماليزية، إلى مكان يستورد الحبوب بالشحنات ولا يكاد يحصد بضع مئات من الأطنان من إنتاجه. أما ما بقي وازدهر فهو الطرف الصناعي: مطاحن الطحن والمصافي وخطوط الشوكولاتة التي تحوّل الحبوب المستوردة إلى زبدة كاكاو ومسحوق وسائل وحلويات جاهزة للتصدير. والنتيجة "مفارقة الكاكاو" - صناعة نهائية عالمية المستوى تقوم على مرحلة أولية اختفت تقريباً.

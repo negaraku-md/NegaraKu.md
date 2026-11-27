@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar es el programa preuniversitario de fundamento de la UKM para estudiantes superdotados y talentosos, ofrecido en tres corrientes: Perdana, Commercial e International."
 
 lang: "es"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'La escalera exterior y la entrada de un edificio con la inscripción "PUSAT SUMBER PERMATAPINTAR", el centro de recursos del programa nacional de educación para superdotados de Malasia.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: Alumnos sentados en filas de ordenadores de sobremesa durante una clase en el laboratorio de informática de una escuela secundaria malasia.
+    kind: representative
+    origin: third-party
+    subject: Alumnos trabajando en el laboratorio de informática de una escuela malasia
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: Un laboratorio de investigación universitario de la UTM en Johor, equipado con vehículos e instrumentos, el tipo de instalación avanzada que estimula a los estudiantes de alta capacidad.
+    kind: representative
+    origin: third-party
+    subject: Laboratorio de ingeniería avanzada de la Universiti Teknologi Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 Un niño de 10 años capaz de resolver matemáticas de Form Five no siempre destaca en un aula ordinaria — y en Malasia, el único centro nacional diseñado para encontrar y cultivar mentes como estas es PERMATApintar.

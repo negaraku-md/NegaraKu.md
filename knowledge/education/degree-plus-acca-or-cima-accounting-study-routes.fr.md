@@ -33,7 +33,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "Parcours d'études et de qualification en comptabilité en Malaisie"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'Ceci s''adresse aux étudiants et aux personnes en reconversion qui décident comment devenir comptable en Malaisie, en comparant une licence, l''ACCA, le CIMA ou une autre voie professionnelle.'
+  how: 'Fixez d''abord la destination : vous êtes légalement comptable professionnel lorsque vous êtes membre du MIA (Institut malaisien des comptables) au titre de l''Accountants Act 1967. Trois voies mènent au MIA — une licence reconnue assortie d''une expérience ; un organisme professionnel reconnu (ACCA, CIMA et d''autres) assorti d''une expérience ; ou l''examen de qualification du MIA assorti d''une expérience. L''ACCA penche vers l''audit, l''exercice en cabinet et la portabilité mondiale ; le CIMA vers la comptabilité de gestion et l''industrie.'
+  cost: 'Les frais, le nombre d''examens et les dispenses que confère une licence accréditée évoluent tous à chaque cycle d''accréditation ; faites donc vous-même le total des montants actuels auprès de l''organisme, du prestataire de formation et de l''université — ne vous fiez jamais à un nombre de dispenses annoncé.'
+  watch: 'L''ACCA ou le CIMA à eux seuls ne font pas de vous un comptable malaisien — c''est l''adhésion au MIA qui le fait, et la qualification assortie d''une expérience en est la voie. Le nombre de dispenses est le fait le plus variable du sujet ; vérifiez-le programme par programme.'
+  next: 'Choisissez l''organisme dont la destination habituelle correspond à l''endroit où vous souhaitez travailler, confirmez qu''il mène actuellement à l''adhésion au MIA et quelle expérience est requise, puis optimisez votre point d''entrée, votre mode d''études et vos dispenses. Voir Avant de payer un acompte à un collège.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'Un complexe d''amphithéâtres d''une université malaisienne avec un panneau indiquant "KOMPLEKS DEWAN KULIAH" à côté de bâtiments universitaires bordeaux et d''une allée couverte.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: Des rangées de sièges en gradins dans un amphithéâtre d'université malaisienne, du type où les étudiants en licence et en comptabilité professionnelle suivent leurs cours.
+    kind: actual
+    origin: third-party
+    subject: Amphithéâtre universitaire à l'Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: De paisibles rangées de bureaux d'étude individuels dans une bibliothèque de la University of Malaya, où les étudiants planchent sur les épreuves de licence et de l'ACCA ou du CIMA.
+    kind: representative
+    origin: third-party
+    subject: Bureaux d'étude dans une bibliothèque de la University of Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 Toute personne qui décide comment devenir comptable en Malaisie se heurte d'emblée à une soupe d'acronymes : **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Cela ressemble à un menu de qualifications concurrentes entre lesquelles il faudrait trancher. Il vaut mieux y voir **une seule destination avec plusieurs routes qui y mènent** — et une fois la destination en vue, les choix se mettent en place.

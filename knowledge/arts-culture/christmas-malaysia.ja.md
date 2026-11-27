@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,34 @@ festivalFacts:
   when: "クリスマスは毎年12月25日にあたり、11月下旬ごろから装飾・小売のシーズンが始まる。"
   holiday: "12月25日のクリスマスは、すべての州および連邦直轄領にわたる全国的な祝日である（半島部ではHolidays Act 1951 (Act 369)の第一附則；サバ州・サラワク州では州の条例による）。サバ州はさらに、12月24日のクリスマスイブをSabah Holidays Ordinance (Cap. 56)に基づく州の祝日として官報告示している。"
   etiquette: "どんな背景の客も食事に招くオープンハウスの伝統は、他の祭日と同様にクリスマスにも適用される。もてなす側のキリスト教徒の家庭は他宗教の客を迎え入れることが多く、訪問は祭日のカレンダーを通じて双方向に行われる。"
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'パビリオン・クアラルンプールの吹き抜けを貫いてそびえる、飾り付けられた巨大なクリスマスツリー。吊るされた金の提灯、メリーゴーランド、赤いカーペット上の買い物客の群れに囲まれている'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: クアラルンプールのショッピングモールの手の込んだキャンディランドのクリスマス装飾。赤と白のペパーミント渦巻き模様の舞台、ジンジャーブレッドの家、群衆の上に電飾を施したクリスマスツリーの列がある
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのモールの、ジンジャーブレッドの家とライトアップされたツリーのあるキャンディランドをテーマにしたクリスマス装飾
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: クアラルンプール中心部の白壁に赤い瓦屋根のセント・メアリー聖公会大聖堂。切妻に十字架を掲げ、前にマレーシアの旗が立ち、背後に近代的なオフィスタワーがそびえている
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール中心部の歴史ある白い教会、セント・メアリー聖公会大聖堂
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 12月24日の夕方、コタキナバルやクチンの教会は遅い時間の礼拝に集まる人々で満たされるが、そこから数百キロメートル離れた半島では、同じ日はごく普通の木曜日の勤務日にすぎない。翌朝、12月25日には、国中が休みになる。この分裂——同じ日付でありながら、まったく異なる二つの位置づけ——こそが、マレーシアにおけるクリスマスの立ち位置を理解する最も的確な方法である：ある一つの共同体にとっては宗教的な祭日であり、すべての人にとっては公共の祝日であり、そして信仰を問わず多くの人が参加する、扉を開いた季節でもある。

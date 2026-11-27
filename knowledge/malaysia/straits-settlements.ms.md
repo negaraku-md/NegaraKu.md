@@ -29,7 +29,7 @@ faq:
   - q: "Apa yang berlaku kepada Negeri-Negeri Selat pada akhirnya?"
     a: "Ia dibubarkan pada 1 April 1946. Pulau Pinang dan Melaka dilipat ke dalam Malayan Union bersama-sama negeri-negeri Bersekutu dan Tidak Bersekutu, manakala Singapura diasingkan menjadi sebuah Tanah Jajahan Mahkota yang berasingan tersendiri."
 lang: "ms"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,32 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'Sebuah pintu gerbang berbumbung kayu yang bercahaya hangat di antara dinding batu lusuh bersinar pada waktu senja, dengan papan tandanya yang bercahaya tertera ''Fort Cornwallis 1786 Penang'' di atas laluan terbuka yang menuju ke kawasan kota.'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: Bangunan kolonial dua tingkat yang bercat putih dan megah dengan beranda bertiang tinggi, tingkap berlengkung dan fasad simetri, terletak di belakang halaman rumput hijau yang terurus di bawah langit biru di George Town, Pulau Pinang.
+    kind: actual
+    origin: third-party
+    subject: Dewan Bandaraya Pulau Pinang era kolonial yang bercat putih di George Town, sebuah bangunan pentadbiran Negeri-Negeri Selat
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: Fasad berhias sebuah rumah agam besar yang dicat biru nila terang, dengan bidai kayu berjalur hijau, cucur atap berhias dan deretan pintu berlengkung, sebuah rumah berhalaman Cina Selat yang menjadi mercu tanda di George Town, Pulau Pinang.
+    kind: actual
+    origin: third-party
+    subject: Rumah Agam Cheong Fatt Tze berwarna biru nila, sebuah rumah berhalaman saudagar Cina Selat di George Town, Pulau Pinang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 Tiga pelabuhan, empat perubahan taraf pentadbiran, dan empat puluh satu tahun. Itulah Negeri-Negeri Selat — sebelum ia langsung menyentuh negeri-negeri Melayu.

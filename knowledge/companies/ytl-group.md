@@ -80,6 +80,33 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: 'The distinctive faceted dark-and-bronze geometric facade of Starhill Gallery luxury mall on Bukit Bintang, with the JW Marriott hotel tower rising behind it'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: A quiet palm-lined boulevard running through Sentul Park with tall banner pylons reading SENTUL PARK and SENTUL WORKS along the roadside
+    kind: representative
+    origin: third-party
+    subject: Tree-lined boulevard through Sentul Park, the urban-regeneration development by YTL Land (YTL Corporation's property arm), Kuala Lumpur — SENTUL PARK / SENTUL WORKS banners visible; YTL parent name not shown in-frame
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: Street-level view of the Lot 10 shopping centre entrance with its green facade, the Isetan The Japan Store signage above and an H&M store at ground level
+    kind: representative
+    origin: third-party
+    subject: Lot 10 shopping centre on Jalan Bukit Bintang, a YTL Corporation-owned retail landmark (housing Isetan The Japan Store), Kuala Lumpur — confirmed YTL property, YTL parent name not shown in-frame
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL is one of Malaysia's largest diversified groups, best understood not as a single company but as a family of listed and unlisted businesses built around infrastructure.

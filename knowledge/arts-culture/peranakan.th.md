@@ -18,7 +18,7 @@ keyTakeaways:
   - "เกอบายา (kebaya) ซึ่งเป็นหัวใจของเครื่องแต่งกายยอนยา ได้รับการขึ้นทะเบียนในบัญชีมรดกที่จับต้องไม่ได้ของ UNESCO ในปี 2024 ในการเสนอชื่อร่วมกันของบรูไน อินโดนีเซีย มาเลเซีย สิงคโปร์ และไทย"
 appliesTo: "ผู้ที่ต้องการภาพรวมเชิงข้อเท็จจริงและเคารพว่าชาวเปอรานากัน (บาบา-ยอนยา) เป็นใคร และจะจดจำอาหาร เครื่องแต่งกาย และมรดกทางวัตถุของพวกเขาในมะละกาและปีนังได้อย่างไร"
 lang: "th"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -61,6 +61,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'ห้องรับรองแบบเปอรานากัน (Peranakan) ที่พิพิธภัณฑ์มรดกบาบ๋าหญ่าหยา (Baba Nyonya Heritage Museum) ในมะละกา มีฉากไม้มะเกลือแกะสลักปิดทอง เฟอร์นิเจอร์ฝังมุก โต๊ะกลมหน้าหินอ่อน และแผงภาพวาดนกและดอกไม้บนผนัง'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: ด้านหน้าชั้นบนของช็อปเฮาส์แบบเปอรานากันในมะละกา พร้อมบานเกล็ดโค้งสีเทอร์ควอยซ์ ลวดลายปูนปั้นนูน และแถบกระเบื้องเคลือบ
+    kind: actual
+    origin: third-party
+    subject: ด้านหน้าช็อปเฮาส์แบบเปอรานากัน (Peranakan) มะละกา
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: ถ้วยน้ำชากระเบื้องเคลือบเปอรานากันพร้อมฝา เขียนลายดอกโบตั๋นสีชมพูและนกฟีนิกซ์บนพื้นขาว จัดแสดงในตู้
+    kind: representative
+    origin: third-party
+    subject: เครื่องกระเบื้องชุดน้ำชาเปอรานากัน (nyonyaware) ลายดอกไม้และนก
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 เดินเข้าไปในเรือนแถวเก่าบนถนนฮีเริน (Heeren Street) ของมะละกา แล้วเรื่องราวจะถูกบอกเล่าผ่านวัตถุก่อนที่ใครจะเอ่ยคำใด เสื้อลูกไม้เข้ารูปที่กลัดด้านหน้าด้วยเข็มกลัดทองสามชิ้น รองเท้าคู่หนึ่งที่ปลายเท้าปกคลุมด้วยลูกปัดแก้วเล็ก ๆ นับพันเม็ด แต่ละเม็ดร้อยด้วยมือ โต๊ะยาวหน้าหินอ่อนที่จัดสำรับซึ่งไม่ค่อยเป็นจีนแท้และไม่ค่อยเป็นมลายูแท้ สิ่งเหล่านี้เป็นของชาวเปอรานากัน — บาบา-ยอนยา — ชุมชนที่สร้างวัฒนธรรมขึ้นจากการดำรงอยู่ระหว่างสองโลก

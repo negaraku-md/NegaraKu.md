@@ -32,7 +32,7 @@ faq:
     a: "Penerima Sumbangan Tunai Rahmah (STR) berusia 40 tahun ke atas layak mendapat skrining gratis di bawah PeKa B40 di klinik pemerintah atau swasta yang terdaftar. Klinik Kesihatan publik juga menawarkan pemeriksaan dasar."
 
 lang: "id"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "administered-by", to: "ministry-of-health" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "smoking-and-vaping-law-act-852"]
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'Bagian luar Klinik Kesihatan Sungai-Sungai, sebuah klinik kesehatan pemerintah Malaysia di pedesaan, dengan bendera Malaysia dan Sabah serta sebuah ambulans.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: Monitor tekanan darah otomatis digital dengan manset lengannya, jenis perangkat yang digunakan dalam skrining rutin untuk tekanan darah tinggi
+    kind: representative
+    origin: third-party
+    subject: Monitor tekanan darah otomatis lengan atas dan manset yang digunakan untuk skrining kesehatan
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: Taman di tepi danau yang ditata asri di Kuala Lumpur dengan garis langit kota di kejauhan, mewakili aktivitas fisik dan gaya hidup sehat yang membantu mencegah penyakit tidak menular
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa, sebuah taman rekreasi umum di tepi danau di Kuala Lumpur
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 Lebih dari separuh orang dewasa Malaysia hari ini membawa berat badan yang dapat memperpendek usia mereka — dan satu dari enam sudah hidup dengan diabetes, banyak tanpa menyadarinya. Inilah wabah senyap yang membebani rumah sakit, keluarga, dan ekonomi negara jauh lebih berat daripada penyakit menular mana pun.

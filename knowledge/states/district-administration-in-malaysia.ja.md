@@ -75,9 +75,16 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: '青い屋根の平屋の県事務所で、壁に「Pejabat Daerah Sipitang」と書かれ、両脇にマレーシアとサバの旗が並んでいる。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 あなたが投票する州と、あなたが暮らす村との間には、めったに語られることはないが、土地、開発プロジェクトや緊急支援に関わるときに最も頻繁に接することになる政府の層がある——それが県（daerah）である。ここでこそ州の政策が実際のサービスへと姿を変え、その中心にあるのが県事務所（Pejabat Daerah）である。

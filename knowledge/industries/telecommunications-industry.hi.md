@@ -31,7 +31,7 @@ faq:
   - q: क्या मलेशिया का दूरसंचार बाज़ार अब भी बढ़ रहा है?
     a: ग्राहक वृद्धि काफी हद तक स्थिर हो गई है क्योंकि बाज़ार लगभग-संतृप्त है। भविष्य की वृद्धि नए उपयोगकर्ताओं की बड़ी संख्या को साइन अप करने के बजाय उच्च-मूल्य सेवाओं — 5G, फ़ाइबर उन्नयन, एंटरप्राइज़ कनेक्टिविटी और डिजिटल सेवाओं — से आने की उम्मीद है।
 lang: hi
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'साफ आसमान के सामने कई पैनल एंटीना वाले एक सेलुलर दूरसंचार टावर।'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: एक बड़ा गहरा प्रदर्शनी बूथ जिसके शीर्ष पर एक प्रकाशित CelcomDigi लोगो और ब्रांड नाम है और एक चमकता नीला पैनल है जिस पर CelcomDigi fibre, Ultra Smooth Low Latency लिखा है, नीचे फ़ेस मास्क पहने आगंतुक जमा हैं।
+    kind: actual
+    origin: third-party
+    subject: फ़ाइबर ब्रॉडबैंड को बढ़ावा देता एक CelcomDigi प्रदर्शनी स्टैंड, जो एक मलेशियाई मोबाइल और ब्रॉडबैंड ऑपरेटर की उपभोक्ता उपस्थिति दिखाता है
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: रैक-माउंटेड कंप्यूटर सर्वरों की एक लंबी दीवार एक कोण पर पीछे जाती हुई, प्रत्येक स्तर गहरे धातु के कैबिनेटों के विरुद्ध चमकती नीली स्थिति रोशनियों से जड़ा हुआ।
+    kind: representative
+    origin: third-party
+    subject: एक डेटा सेंटर में नीली संकेतक रोशनियों से चमकते नेटवर्किंग और सर्वर उपकरण की कतारें, वह अवसंरचना जो दूरसंचार नेटवर्कों को आधार देती है
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 मलेशिया में लगभग हर कोई एक मोबाइल कनेक्शन रखता है, और अधिकांश घरों में किसी न किसी रूप में ब्रॉडबैंड है। यह दूरसंचार को देश के सबसे महत्वपूर्ण और सबसे परिपक्व उद्योगों में से एक बनाता है — डिजिटल अर्थव्यवस्था, ऑनलाइन बैंकिंग, ई-गवर्नमेंट और रोज़मर्रा के जीवन के नीचे की अदृश्य नलसाज़ी। फिर भी परिचित ब्रांड नामों के पीछे एक ऐसा बाज़ार बैठा है जो हाल के वर्षों में नाटकीय रूप से बदल गया है: कम ऑपरेटर, बड़े विलय और 5G बनाने के तरीके पर एक राष्ट्रीय प्रयोग।

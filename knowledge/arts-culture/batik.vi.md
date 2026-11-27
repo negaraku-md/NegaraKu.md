@@ -33,7 +33,7 @@ faq:
     a: "Hãy lật tấm vải lại. Batik chống-sáp đích thực — dù là canting vẽ tay hay blok in khối — được nhuộm bằng cách ngâm vải, nên họa tiết và màu thấm xuyên qua cả hai mặt và hiện ra gần như rõ nét ở mặt sau. Vải in lụa hoặc in kỹ thuật số chỉ mang họa tiết trên một mặt và trông nhạt màu ở mặt trái. Các đường nét cũng là một dấu hiệu: canting để lại những đường không đều không bao giờ lặp lại hoàn hảo, blok cho họa tiết lặp lại gọn gàng với những đường nối mờ, còn in máy lặp lại chính xác mà không để lại dấu vết nào của sáp."
 
 lang: "vi"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -79,6 +79,34 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'Một nghệ nhân batik cúi mình trên tấm vải trắng căng trên khung, dùng cọ mảnh vẽ tay những bông hoa đỏ rực kiểu dâm bụt cùng lá xanh và đường viền vàng, trong một xưởng treo đầy ảnh'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: Cận cảnh tấm vải batik với một bông hoa đỏ thẫm nổi bật, viền trắng mảnh được tạo bằng kỹ thuật chắn sáp cùng các chi tiết chấm điểm, trên nền xanh chàm đậm
+    kind: actual
+    origin: third-party
+    subject: cận cảnh tấm vải batik Malaysia vẽ tay từ Terengganu với một bông hoa đỏ lớn được viền bằng những đường chắn sáp màu trắng
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: Nhiều tấm vải batik treo thành hàng, với các sắc đỏ, tím, hồng, xanh lá và cam rực rỡ, mỗi tấm in một hoa văn hoa lá và hình học khác nhau tạo bằng kỹ thuật chắn sáp
+    kind: actual
+    origin: third-party
+    subject: những tấm vải batik Malaysia nhiều màu sắc với hoa văn được trưng bày trên giá tại một hội chợ thủ công ở Terengganu
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 Một tấm vải trắng trơn được đặt lên một khung. Một người thợ nhúng một cây bút đồng nhỏ — một cây canting, đầu vòi không rộng hơn đầu một cây bút chì — vào một nồi sáp lỏng, rồi bắt đầu vẽ trực tiếp lên vải: không phải bằng chất màu, mà bằng sáp sẽ từ chối tiếp nhận màu. Chỉ sau khi sáp nguội và cứng lại thì tấm vải mới được nhúng vào bể thuốc nhuộm. Nơi nào có sáp, thuốc nhuộm không thể chạm tới — và khi sáp về sau được luộc ra, điều còn lại là một họa tiết được vẽ không phải bằng màu, mà bằng sự vắng mặt của nó.

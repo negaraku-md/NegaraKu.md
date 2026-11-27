@@ -65,6 +65,34 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'The National Museum of Malaysia, a large pale building crowned with a steep Minangkabau-style gabled roof in deep red, its long facade decorated with colourful mural panels and lined with Malaysian flags, seen from across a road'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: A rounded dome clad in glazed turquoise tiles covered with white, green and gold floral arabesque patterns, topped by a small gold finial, rising against a pale blue sky
+    kind: actual
+    origin: third-party
+    subject: a turquoise tiled dome of the Islamic Arts Museum Malaysia in Kuala Lumpur, decorated with intricate floral arabesque patterning
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: A historic two-storey colonial museum building painted cream with grey stone quoins and window surrounds, steep gabled roofs and decorative finials, flanked by tall palm trees under a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: the historic colonial-era Sarawak Museum building in Kuching, a cream two-storey structure with grey stone quoins and gabled roofs
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 Ask most visitors which is Malaysia's oldest museum, and they'll guess Muzium Negara — the palace-roofed building that anchors Kuala Lumpur's museum row. They'd be off by eighty years. That title belongs to a modest gallery in Taiping, built while Muzium Negara's site was still occupied by its predecessor.

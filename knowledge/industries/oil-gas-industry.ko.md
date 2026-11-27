@@ -38,7 +38,7 @@ faq:
     a: "2024년 PETRONAS는 RM320억 링깃 배당을 포함해 배당, 세금, 현금 지급, 기타 약정으로 RM724억 링깃을 기여했습니다. 이는 이 부문의 다른 계약자와 서비스 기업이 낸 세금에 더해진 것입니다."
 
 lang: "ko"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: '사라왁 빈툴루 LNG 수출 선착장의 항공 전경: 강철 말뚝 위 콘크리트 플랫폼이 터키석빛 바다 위로 높은 선적 암과 배관 군집을 지고 있고, 뒤로 항만과 가스 공장 스카이라인이 있는 모습'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: 사바주 키마니스의 Sabah Oil and Gas Terminal에서, 배관 선반과 뒤편의 크로커 산맥을 배경으로 흐린 하늘 아래 밝은 주황색 가스 불꽃을 내뿜는 키 큰 홍백색 강철 플레어 스택
+    kind: actual
+    origin: third-party
+    subject: 사바주 키마니스의 Sabah Oil and Gas Terminal(SOGT) 플레어 스택 꼭대기에서 타오르는 가스 플레어
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: 뿌연 저녁 하늘 아래, 포트딕슨 인근 풀밭 너머 지평선에 보이는 정유 공장의 증류탑, 굴뚝, 저장 탱크
+    kind: actual
+    origin: third-party
+    subject: 연방도로 5호선에서 공터 너머로 바라본, 느그리슴빌란주 포트딕슨 동쪽의 정유 공장
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 말레이시아 땅과 해저 아래의 모든 석유 배럴과 모든 세제곱피트의 가스는, 법에 따라, 단 하나의 기업에 속합니다. 국가가 직접도, 유전 발견자도, 그것을 시추하는 다국적 기업도 아니라 — 나라의 석유를 신탁으로 보유하기 위해 만들어진 국영 석유 기업 PETRONAS입니다. 그 한 가지 사실을 이해하면 말레이시아 석유·가스 산업의 나머지 — 그것이 어떻게 규제되고, 자금이 조달되고, 과세되고, 분배되는지 — 가 제자리를 찾습니다.

@@ -87,6 +87,14 @@ drinkFacts:
   halal: "말레이시아 주요 체인은 JAKIM 할랄 인증을 보유한다 — Chatime Malaysia가 그것을 받았고, JAKIM은 2019년 Tealive가 할랄임을 공개적으로 확인했다 — 이는 bubble tea가 여러 공동체가 함께 나누는 음료가 되도록 도왔다. 할랄 보증은 인증된 특정 업소에 결부되므로, 모든 bubble tea가 인증되었다고 단정하기보다 개별 가게에 게시된 인증서를 확인할 것."
   served: "전통 kopitiam이 아니라 전용 체인 매장과 쇼핑몰 키오스크에서 얼음에 차게 낸다(뜨거운 버전도 있다). 카운터에서 맞춤할 수 있다: 당도(예컨대 50%, '덜 달게'), 얼음 양, 토핑을 고른다. Pearls는 상징적인 굵은 빨대로 빨아 올린다."
   where: "전국의 쇼핑몰, 번화가, 드라이브스루에 있는 전용 bubble tea 체인(Tealive, Chatime 등 다수)에서 찾을 수 있다 — kopitiam 고전들과는 구별되는 현대적·도시적 음료다."
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "바닥에 검은 타피오카 펄이 두껍게 깔린, 키 큰 잔의 밀크티(bubble tea)"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 말레이시아의 어느 쇼핑몰이든 걸어 보면 몇 분 안에 그 앞을 지나게 된다: 앞에 줄이 늘어선

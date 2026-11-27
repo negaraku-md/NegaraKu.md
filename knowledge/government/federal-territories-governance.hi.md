@@ -32,7 +32,7 @@ faq:
     a: "प्रधानमंत्री विभाग के अधीन संघीय क्षेत्र विभाग (JWP) तीनों क्षेत्रों में नीति और विकास का समन्वय संघीय स्तर पर करता है, जबकि DBKL, पुत्रजया निगम और लाबुआन निगम वे स्थानीय प्राधिकरण हैं जो अपने-अपने क्षेत्रों में अनुज्ञापन, नगर नियोजन और नगरपालिका सेवाओं जैसे दैनंदिन मामलों को निभाते हैं।"
 
 lang: "hi"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["संघीय क्षेत्र", "Wilayah Persekutuan", "कुआलालंपुर पुत्रजया लाबुआन", "कोई राज्य विधान सभा नहीं", "नियुक्त मेयर", "DBKL पुत्रजया निगम लाबुआन निगम", "संघीय क्षेत्र विभाग", "संघीय संविधान का अनुच्छेद 1", "संघीय क्षेत्रों का प्रशासन", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'झील के उस पार पुत्राजया, जहाँ बाईं ओर गुलाबी गुंबद और ऊँची मीनार वाली पुत्रा मस्जिद (Masjid Putra) और दाईं ओर हरे गुंबद वाला प्रधानमंत्री कार्यालय परिसर पेरदाना पुत्रा (Perdana Putra) बादलों भरे आसमान के नीचे दिखाई देता है।'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: पुत्राजया निगम की प्रशासनिक इमारत, पुत्राजया संघीय क्षेत्र का शासन करने वाला स्थानीय प्राधिकरण
+    kind: actual
+    origin: third-party
+    subject: Perbadanan Putrajaya (पुत्राजया निगम) मुख्यालय, पुत्राजया संघीय क्षेत्र का स्थानीय प्राधिकरण
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: पुत्राजया में न्याय के महल का गुंबदाकार अग्रभाग, जिस पर मलेशियाई संघीय राजचिह्न अंकित है, संघीय क्षेत्र की एक सरकारी इमारत
+    kind: actual
+    origin: third-party
+    subject: न्याय का महल (Istana Kehakiman), पुत्राजया में एक संघीय सरकारी इमारत
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 किसी राज्य में एक सुल्तान या यांग दी-पर्तुआ नेगरी (Yang di-Pertua Negeri) होता है, एक मेंतेरी बेसार (Menteri Besar) या मुख्यमंत्री (Chief Minister) होता है, और जनता द्वारा निर्वाचित एक राज्य विधान सभा होती है। कुआलालंपुर, पुत्रजया और लाबुआन में इनमें से कुछ भी नहीं है। ये तीनों स्थान राज्य नहीं हैं — वे संघीय क्षेत्र हैं, और उनका प्रशासन सीधे संघीय सरकार द्वारा होता है।

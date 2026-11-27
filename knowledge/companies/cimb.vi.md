@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,35 @@ verificationNeeded:
   - "Thứ hạng là ngân hàng lớn thứ hai của Malaysia về tài sản và nằm trong năm tập đoàn ngân hàng lớn nhất ASEAN — mang tính vị trí và thay đổi theo thời gian; cần xác nhận lại đối chiếu với bảng cân đối kế toán hiện hành của các đối thủ."
   - "Số lượng khách hàng (các con số được nêu trong các hồ sơ của bên thứ ba dao động rộng, ví dụ ~13,5 triệu khách hàng bán lẻ so với ~25 triệu tổng cộng) — cần xác minh đối chiếu với báo cáo hiện hành của chính CIMB trước khi công bố một con số."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'Một tòa cao ốc văn phòng kính màu đồng trên đỉnh có biển CIMB BANK đỏ lớn, với biểu ngữ CIMB BANK và CIMB ISLAMIC màu đỏ dọc bên hông, vươn lên trên đường phố Kuala Lumpur'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: Một tòa tháp hiện đại ốp kính mang biểu tượng CIMB màu đỏ gần đỉnh đứng cạnh tòa nhà Q Sentral tại KL Sentral, được viền bởi tán cây sẫm màu
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp CIMB hiện đại tại Kuala Lumpur Sentral, nhìn từ Vườn Bách thảo Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: Một tòa nhà di sản hai tầng màu trắng thời thuộc địa là nơi đặt chi nhánh CIMB Bank, với biển CIMB BANK màu đỏ phía trên lối vào tầng trệt
+    kind: actual
+    origin: third-party
+    subject: Chi nhánh CIMB Bank trong một tòa nhà di sản trên phố Bendahara, thành phố Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB là ngân hàng mà bạn gặp ở gần như mọi nơi bạn quay đầu lại trong thương mại Malaysia — và ngày càng nhiều trên khắp Đông Nam Á. Nó là một ngân hàng tổng hợp, nghĩa là nó làm mọi thứ từ tài khoản tiết kiệm của một người làm công ăn lương cho đến các đợt phát hành trái phiếu trị giá hàng tỷ ringgit và các thương vụ mua lại xuyên biên giới, và nó làm vậy không chỉ ở Malaysia mà qua các hoạt động lớn ở Indonesia, Thái Lan và Singapore.

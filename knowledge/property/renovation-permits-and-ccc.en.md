@@ -28,7 +28,7 @@ faq:
     a: "The CCC confirms that the house was built in accordance with the approved plans and is safe to occupy. Without the CCC, the building is officially not fit for occupation and utility supply can be affected."
 
 lang: "en"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'Interior of a two-storey terraced house under renovation in Selangor, Malaysia, with a neighbouring house visible through the doorway.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: Cement-rendered walls with newly formed window openings and bags of building material during a Malaysian terrace-house renovation
+    kind: representative
+    origin: third-party
+    subject: Freshly plastered walls and new window openings during a terrace-house renovation in Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: A metal skip filled with timber offcuts and building debris outside a Malaysian terrace house undergoing renovation
+    kind: representative
+    origin: third-party
+    subject: A skip of construction debris at a terrace-house renovation site in Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 You want to add a kitchen at the back of the house or build an upper floor — and suddenly a neighbour says "you have to apply to the council first". Is that true? For most renovation work, yes.

@@ -85,11 +85,29 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'Service counters of a JPJ Road Transport Department branch office, with the JPJ crest and ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' signage above the glass-walled counter hall'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: Green Malaysian road sign reading 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' in yellow lettering with a blue lorry 'Timbang' weighbridge symbol, pointing to the JPJ enforcement station
+    kind: actual
+    origin: third-party
+    subject: JPJ enforcement-station directional road sign reading 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' with a lorry-weighbridge symbol
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 Most people meet the **Road Transport Department** at a single moment — renewing road tax, sitting a driving test, or transferring a used car. But JPJ is the department that stands behind every one of those transactions. The **Road Transport Department** (*Jabatan Pengangkutan Jalan*, or **JPJ**) is an agency under Malaysia's **Ministry of Transport (MOT)**. It registers motor vehicles and drivers, issues driving licences, road tax and number plates, licenses commercial vehicles, and enforces the laws that govern how vehicles and drivers use public roads.

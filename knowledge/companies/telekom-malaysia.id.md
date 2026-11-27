@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global",
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
+hero: '/media/companies/telekom-malaysia/hero.webp'
+heroAlt: 'Pencakar langit Menara TM yang melengkung meruncing menjulang dengan latar langit biru dan awan kumulus, tulang punggungnya yang vertikal seperti bilah membawa logo TM merah dan biru serta teras langit berbentuk cakram menjorok dari lantai atas'
+heroCredit: 'Shesmax / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: Menara TM yang khas dengan bentuk miring dan melengkung, logo TM pada tulang punggung bagian atasnya dan teras langit berbentuk piring, menjulang di sebelah kanan dengan latar langit biru di samping menara perkantoran segi delapan, sebuah jembatan layang rel melintasi latar depan
+    kind: actual
+    origin: third-party
+    subject: Menara TM dilihat di samping menara tetangga dari seberang jalan tol layang, logo TM tampak pada menaranya, Lembah Pantai, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: Keseluruhan lengkungan fasad perak Menara TM dan puncak berbilahnya yang dipuncaki teras langit berbentuk cakram, dengan latar langit mendung kelabu pekat di atas bangunan-bangunan kota yang lebih rendah
+    kind: actual
+    origin: third-party
+    subject: Pemandangan ketinggian penuh Menara TM dan teras langitnya yang berbentuk piring terbang di bawah langit kelabu yang muram, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 Hampir setiap jalur broadband fiber, sirkuit enterprise, dan kabel data bawah laut di Malaysia menyentuh satu perusahaan sebelum sampai ke siapa pun. Telekom Malaysia Berhad (TM) adalah incumbent nasional — operator yang membangun sebagian besar jaringan tetap negara ini dan masih memiliki tulang punggung yang diandalkan para pesaing dan pengangkut internasional.

@@ -30,7 +30,7 @@ faq:
     a: "FIFA는 선수의 자격 및 귀화 서류 위조와 관련하여 FIFA 징계규정 제22조를 언급했다."
 
 lang: "ko"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: '노란색 물결의 하리마우 말라야 팬들이 부킷잘릴 국립경기장을 가득 메우고, 그 위로 말레이시아 호랑이가 그려진 전광판이 있다.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: 1972년 하계 올림픽 축구 경기에서 말레이시아 골키퍼 웡 캄푹이 서독 공격수를 막아내는 장면.
+    kind: actual
+    origin: third-party
+    subject: 1972년 하계 올림픽에서 서독과 맞붙은 말레이시아 축구 국가대표팀
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: 2014년 AFF 챔피언십 말레이시아 대표팀 경기 중 샤알람 스타디움 관중석에서 바라본 광경.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 대표팀 축구 경기가 열리는 샤알람 스타디움 내부
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 외국 태생 선수 7명이 2025년 6월 하리마우 말라야의 유니폼을 입었습니다. 채 1년도 지나지 않아, 세계 최고의 스포츠 중재 기관이 이들에게 말레이시아 대표 자격을 부여한 서류가 위조되었음을 확인했습니다. 이 사건은 일련의 FIFA 징계 절차, CAS(Court of Arbitration for Sport)로의 항소, 그리고 말레이시아에서의 경찰 신고를 촉발했습니다.

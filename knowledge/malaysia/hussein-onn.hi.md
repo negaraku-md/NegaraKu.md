@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0212
 title: "हुसैन ओन"
-seoTitle: हुसैन ओन
+seoTitle: "हुसैन ओन: मलेशिया के तीसरे प्रधानमंत्री (1976–1981)"
 slug: "hussein-onn"
 category: "malaysia"
 subcategory: ["modern"]

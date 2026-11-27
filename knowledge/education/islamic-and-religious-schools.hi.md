@@ -29,7 +29,7 @@ faq:
     a: "प्राथमिक अधिकार-क्षेत्र राज्य इस्लामी धार्मिक विभागों/परिषदों के पास है, क्योंकि संविधान के अंतर्गत इस्लामी धार्मिक मामले एक राज्य का विषय हैं। JAKIM संघीय स्तर पर समन्वय करता है, जबकि भवन सुरक्षा आवश्यकताओं में स्थानीय प्राधिकरण और अग्निशमन विभाग (Bomba) शामिल होते हैं।"
 
 lang: "hi"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'नीली बाजू कुरुंग और काले सिर के दुपट्टों में विद्यार्थियों की एक पंक्ति नारियल के पेड़ों के पास से होते हुए एक मलेशियाई धार्मिक माध्यमिक विद्यालय, सेकोलाह मेनेंगाह अगामा अल-मारिफ़ में प्रवेश करती हुई।'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: जोहोर के बातू पाहाट में एक तहफ़िज़ विद्यालय का शांत बाहरी दृश्य, जहाँ विद्यार्थी अपनी पढ़ाई के साथ-साथ कुरआन कंठस्थ करने के लिए आवासित रहते हैं।
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah, बातू पाहाट, जोहोर
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: मेलाका के पेरिंगिट में एक धार्मिक प्राथमिक विद्यालय (sekolah agama) का साधारण भवन, जहाँ बच्चे दोपहर के सत्र में इस्लामी अध्ययन करते हैं।
+    kind: actual
+    origin: third-party
+    subject: Peringgit धार्मिक प्राथमिक विद्यालय, मेलाका
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 मलेशिया में एक बच्चा सुबह किसी राष्ट्रीय स्कूल में, दोपहर किसी मस्जिद की KAFA कक्षा में, और अपने किशोरावस्था के वर्ष किसी तहफ़ीज़ छात्रावास में बिता सकता है — तीन अलग-अलग शैक्षिक वातावरण जिनके पर्यवेक्षक, पाठ्यक्रम और कानून अलग-अलग हैं। इस्लामी धार्मिक शिक्षा की धारा राष्ट्रीय प्रणाली के समानांतर चलती है, लेकिन यह एक एकल खंड नहीं है। कौन क्या पंजीकृत करता है, और कौन किसके लिए ज़िम्मेदार है, इसे समझना इस विषय पर सार्वजनिक बहस को निष्पक्ष रूप से पढ़ने की कुंजी है।

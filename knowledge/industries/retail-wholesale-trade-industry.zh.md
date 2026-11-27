@@ -31,7 +31,7 @@ faq:
   - q: 电子商务如何改变了马来西亚零售业？
     a: 网购快速增长，由 Shopee 与 Lazada 等平台引领，而随着传统零售商增设配送、线上下单到店自取与网店，线上与实体零售之间的界线日益模糊。DOSM 的电子商务收入数字高达数万亿令吉，不过该总额涵盖制造业与服务业，并非仅指零售。
 lang: zh
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: '马来西亚吉隆坡NU Sentral购物中心多层中庭内的购物者、商店和零售摊位。'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: 一条长长的超市货架通道，白色货架上摆满袋装糖、食用油和包装商品，上方绿色货架指示牌写着GULA AGAR-AGAR 21，洁净的瓷砖地面向远处延伸
+    kind: actual
+    origin: third-party
+    subject: 马来西亚雪兰莪哥打白沙罗一家Giant霸级市场内摆满商品的食品货架通道，这是马来西亚零售业的主流业态
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: 一座狭长的单层开放式市场棚屋，屋顶呈陈旧的棕色，一辆载满农产品的罗里和两辆较小的卡车停在前方阳光照射的柏油空地上，天空湛蓝明亮
+    kind: actual
+    origin: third-party
+    subject: 马来西亚柔佛再也一座有罗里运送新鲜农产品的传统敞开式巴刹，是马来西亚批发与零售食品贸易的一部分
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 几乎每一令吉马来西亚人花在实体商品上的钱——杂货、一部手机、一辆车、一瓶食用油——都要经过零售与批发贸易。它是日常消费的「管道系统」：由进口商、批发商、分销商、商店、市场与网店组成的网络，把产品从制造之处送到购买之处。官方把这一网络称为**分销贸易**，它是马来西亚经济中规模最大、也最显眼的部分之一。

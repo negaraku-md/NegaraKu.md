@@ -32,7 +32,7 @@ faq:
     a: "Di antara yang paling menonjol adalah Cheah Liek Hou (bulu tangkis SU5, emas Tokyo 2020 dan Paris 2024), Bonnie Bunyau Gustin (angkat berat, emas Tokyo 2020 dan Paris 2024) dan Abdul Latif Romly (lompat jauh T20, emas Rio 2016 dan Tokyo 2020)."
 
 lang: "id"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ wikidata: "Q6742000"
 relations:
   - { rel: "related-to", to: "malaysia-olympic-council" }
   - { rel: "governs", to: "malaysia-para-athletics" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'Seorang perenang para melaju dengan kayuhan gaya punggung menyeberangi lintasan kolam pertandingan.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: Para pria bertanding dalam lari cepat para-atletik 100 meter di lintasan luar ruangan pada Bislett Games 2024.
+    kind: representative
+    origin: third-party
+    subject: Para-atlet berlari cepat dalam nomor 100 meter putra di sebuah kejuaraan para-atletik internasional
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: Seorang atlet lintasan tunanetra berlari cepat di samping pelari pemandunya selama sebuah perlombaan di Paralimpiade Sydney 2000.
+    kind: representative
+    origin: third-party
+    subject: Seorang pelari cepat tunanetra berlari terikat dengan pelari pemandu di Paralimpiade
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 Ketika Cheah Liek Hou mempertahankan emas bulu tangkis SU5-nya di Paris 2024, keberhasilan itu menegaskan bahwa para olahraga Malaysia kini memiliki barisan juara yang lebih mantap, bukan lagi pencapaian sesekali. Di balik momen itu terdapat sebuah struktur tata kelola tersendiri, terpisah dari dunia Olimpik yang lebih terkenal.

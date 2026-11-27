@@ -30,7 +30,7 @@ faq:
     a: "그것을 원자료가 아니라 번역으로 취급하십시오. LHDN의 영어 페이지는 기계 번역이며 의미를 뒤집는 확인된 오류를 포함하고 있습니다. 중요한 사항은 말레이어 원문 페이지를 읽고 그것에서 인용하십시오."
 
 lang: "ko"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-invoicing"]
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
 framework: profile
+hero: '/media/government/lhdn/hero.webp'
+heroAlt: '사바주 산다칸의 밝은 파란 하늘을 배경으로, 길게 휜 캔틸레버 지붕과 삼각형 Hasil 로고 옆에 파란 ''WISMA HASIL'' 간판이 있는 현대식 사무 건물'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: 사라왁주 쿠칭의 거리에서 바라본, 입구 위에 HASIL과 Lembaga Hasil Dalam Negeri 간판을 단 적갈색 저층부와 높은 청록색 유리 오피스 타워
+    kind: actual
+    origin: third-party
+    subject: 사라왁주 쿠칭에 있는 내국세청(LHDN / Lembaga Hasil Dalam Negeri) 타워
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: 사바주 코타키나발루의 가로수 길 위로 솟아, 지붕선 근처에 파란색 HASIL 워드마크를 내건 흰색과 청록색 유리의 고층 오피스 건물
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루에 있는 말레이시아 내국세청(LHDN) 건물인 Wisma Hasil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## 한눈에 보기

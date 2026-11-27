@@ -21,7 +21,7 @@ appliesTo: "循线探寻马来西亚东海岸马来王室如何形成的读者�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "Wan Ahmad 被宣告为苏丹的确切日期在各资料中记述不一——称号在1881年采用，正式宣告据报在1881年9月8日，而较后的正式登基则定于1884年；其确切次序应对照一部学术著作加以确认，例如 Linehan 的《彭亨史》（A History of Pahang）。"
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: '一座宏伟的白色殖民时期宫殿，红瓦屋顶，拱形入口上方刻有爪夷文，倒映在一池静水之中，水池两侧立有鹤形雕塑，天空多云。'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: 关丹的苏丹阿末沙州立清真寺以一座巨大的中央圆顶为顶，两侧矗立着高耸的宣礼塔，从正面全景拍摄。
+    kind: actual
+    origin: third-party
+    subject: 彭亨关丹的苏丹阿末沙州立清真寺
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: 一座对称的白色殖民时期建筑，红瓦屋顶，中央是拱形大门，倒映在一池立有仙鹤雕塑的静水之中，这里是北根的苏丹阿布巴卡博物馆。
+    kind: actual
+    origin: third-party
+    subject: 彭亨北根的苏丹阿布巴卡博物馆（前皇家宫殿）
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 沿着彭亨河，在古老的王城北根（Pekan）仍坐落于河口附近之处，一座沉寂了两个世纪的王座被再度扶起。1881年，彭亨的酋长们聚集起来，并非为了加冕一个外人，而是为了恢复他们这片土地曾经拥有的一个称号——而他们宣告为苏丹的那个人，是用艰难的方式赢得这份权利的：他在一场漫长而惨烈的战争中击败了自己的同父异母兄长。这是一个关于彭亨的王冠如何在一个更大的帝国内失落、又如何由一位首席大臣之子把它带回来的故事。

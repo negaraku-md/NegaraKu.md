@@ -29,7 +29,7 @@ faq:
     a: "Lesen balak dan pajakan ladang yang dikeluarkan oleh negeri boleh meliputi kawasan yang dituntut oleh komuniti sebagai tanah adat. Apabila pihak-pihak berselisih sama ada sesuatu kawasan itu tanah NCR, pertikaian tersebut selalunya diputuskan di mahkamah."
 
 lang: "ms"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'Sebuah lori yang dimuati balak kayu keras tropika yang besar bergerak di sepanjang jalan basah di tepi hutan hujan di Sarawak.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: Pandangan udara ladang kelapa sawit yang menutupi tanah hutan yang diteroka di Sarawak, Borneo
+    kind: actual
+    origin: third-party
+    subject: Ladang kelapa sawit di atas bekas tanah hutan, Sarawak
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: Balak kayu keras tropika yang disusun di kawasan penyimpanan dan penghantaran balak di Kalabakan, Sabah
+    kind: actual
+    origin: third-party
+    subject: Kawasan simpanan balak, Kalabakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 Sebuah komuniti rumah panjang berkata sebidang hutan telah menjadi milik mereka sejak turun-temurun. Sebuah syarikat balak atau ladang pula memegang lesen, yang dikeluarkan oleh negeri, yang meliputi kawasan yang sama. Kedua-duanya merujuk kepada undang-undang. Di Sarawak dan Sabah, pertembungan itu telah dihujahkan di ruang mahkamah selama lebih dua dekad — dan mahkamah tidak sentiasa sependapat tentang di mana garisan itu jatuh.

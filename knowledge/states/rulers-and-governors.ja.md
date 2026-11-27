@@ -75,6 +75,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: '国立王宮（イスタナ・ヌガラ）の壮大な金色ドームの式典アーチ門で、背後にドーム屋根の王宮と高層ビルの都市のスカイラインがある。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアには13の州があるが、王位はわずか九つしかない。残る四つの州は、王位に就くことのない人物によって統治されている——その人物は任命され、限られた任期のあいだ職務を務め、その後は一般市民として戻っていく。

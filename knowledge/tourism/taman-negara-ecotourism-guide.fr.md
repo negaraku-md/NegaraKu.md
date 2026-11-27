@@ -37,7 +37,7 @@ faq:
     a: "De façon singulière, le parc est régi par trois ordonnances d'État de l'époque coloniale — la Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 et (Terengganu) 1939 — plutôt que par la National Parks Act 1980 fédérale. Cela s'explique par le fait que la terre et la sylviculture sont des compétences des États en vertu de la Constitution fédérale de Malaisie, de sorte que la loi fédérale ne s'applique pas aux trois États."
 
 lang: "fr"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "passerelle de canopée", "gunung tahan", "perhilitan", "parc national malaisie", "randonnée en jungle", "forêt tropicale"]
 framework: explainer
+visitFacts:
+  bestFor: 'Voyageurs en quête d''une forêt tropicale ancestrale — la passerelle dans la canopée, le trek en jungle, les affûts d''observation de la faune et les sorties en rivière — depuis la porte d''entrée de Kuala Tahan au Pahang.'
+  getThere: 'Rejoignez par la route Jerantut au Pahang, puis prenez un bateau remontant le Sungai Tembeling depuis la jetée de Kuala Tembeling jusqu''à Kuala Tahan, une liaison routière directe constituant l''alternative.'
+  permit: 'Chaque visiteur s''enregistre pour un permis d''entrée PERHILITAN à l''arrivée à la jetée ou au guichet du parc, paie une licence d''appareil photo distincte, et doit recourir à un guide agréé pour l''ascension du Gunung Tahan.'
+  watch: 'La mousson du nord-est peut faire gonfler les rivières et perturber les bateaux et les sentiers, les passerelles de la canopée ont déjà connu des fermetures, et les sangsues et l''humidité sont constantes — confirmez l''accès et réservez les guides à l''avance.'
+  next: 'Confirmez les règles et tarifs en vigueur de permis et d''entrée auprès du bureau du Département de la faune et des parcs nationaux (PERHILITAN) à Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Des collines vallonnées de dense forêt tropicale s''étendant jusqu''à l''horizon sous un ciel bleu à Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Un visiteur traversant une étroite passerelle de canopée en cordes et planches suspendue parmi de grands arbres de la forêt tropicale à Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Passerelle suspendue de canopée au sommet des arbres de la forêt tropicale à Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Pirogues en bois sur la rivière Tembeling au bord d'une berge boisée, avec de la brume sur les collines, à Taman Negara
+    kind: actual
+    origin: third-party
+    subject: La rivière Tembeling et ses pirogues à l'embarcadère de Taman Negara dans la brume matinale
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Debout à l'embarcadère de Kuala Tahan à l'aube, à regarder la brume se lever d'une rivière plus ancienne que l'Himalaya, il est facile d'oublier que vous n'êtes qu'à une demi-journée de Kuala Lumpur. Taman Negara n'est pas une attraction fabriquée. C'est une forêt tropicale vivante qui est restée, en grande partie intacte, pendant des dizaines de millions d'années — et y entrer est moins cher et plus simple que presque aucun voyageur ne l'imagine.

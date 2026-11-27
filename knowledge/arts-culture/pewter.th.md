@@ -16,7 +16,7 @@ keyTakeaways:
   - "บริษัทใช้ชื่อปัจจุบันในปี 1992 เท่านั้น หลังได้รับตราตั้งพระราชทาน (royal warrant) ในปี 1979 จากสุลต่านแห่งสลังงอร์"
 appliesTo: "ผู้ที่สนใจประเพณีหัตถกรรมของมาเลเซีย ประวัติศาสตร์การทำเหมืองดีบุก หรือรอยัลสลังงอร์"
 lang: "th"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'ช่างฝีมือหญิงในผ้าคลุมศีรษะสีม่วงและผ้ากันเปื้อนก้มตัวเหนือโต๊ะทำงาน เคาะค้อนเล็กๆ ลงบนเหยือกพิวเตอร์ที่ยึดบนแท่นเหล็ก มีแถวแก้วพิวเตอร์อยู่ด้านหลังเธอ'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: ช่างทำพิวเตอร์ใช้เครื่องมือกดกับเหยือกที่กำลังหมุนบนเครื่องกลึง เศษโลหะม้วนหลุดออกมา โดยมีตัวเหยือกพิวเตอร์สีเงินขัดเงาราวเก้าใบรวมกันอยู่บนโต๊ะทำงานไม้
+    kind: actual
+    origin: third-party
+    subject: ช่างพิวเตอร์ชาวมาเลเซียกำลังกลึงเหยือกบนเครื่องกลึง พร้อมเหยือกพิวเตอร์ที่เสร็จแล้วจัดวางบนโต๊ะ
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: เหยือกพิวเตอร์ขัดเงาเพียงใบเดียว มีหูจับหนาและลายเส้นแนวนอน พื้นผิวสีเงินเงางามราวกระจกสะท้อนแสง ตัดกับพื้นหลังสีอ่อน
+    kind: actual
+    origin: third-party
+    subject: เหยือกพิวเตอร์ขัดเงาที่เสร็จสมบูรณ์พร้อมหูจับ
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 เมืองที่สร้างขึ้นบนดีบุกกลับมอบงานหัตถกรรมโลหะให้แก่โลก กัวลาลัมเปอร์ (Kuala Lumpur) ดำรงอยู่ได้เพราะนักสำรวจแร่พบสินแร่ดีบุกตรงที่แม่น้ำกลัง (Klang) และกอมบัก (Gombak) บรรจบกัน หลายทศวรรษต่อมา ช่างดีบุกวัยรุ่นที่มาทำงานในเศรษฐกิจดีบุกเดียวกันนั้นได้เริ่มตีกระถางธูปสำหรับแท่นบูชาในศาลเจ้า — และโรงงานที่เขาเปิดขึ้นปัจจุบันเป็นผู้ผลิตพิวเตอร์ที่ใหญ่ที่สุดในโลก

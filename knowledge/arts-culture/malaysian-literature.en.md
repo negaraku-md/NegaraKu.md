@@ -31,7 +31,7 @@ faq:
     a: "Recipients receive a National Letter of Honour, RM60,000 in cash, a publishing allocation worth up to RM500,000 (up to 50,000 copies), free first-class-ward medical treatment at government hospitals, and a monthly allowance of RM5,000."
 
 lang: "en"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'The Dewan Bahasa dan Pustaka building in Kuala Lumpur, its curved facade covered by a large mural of Malaysian life and its name partly visible on the red office tower beside it.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: Crowds of readers browsing rows of publisher stalls stacked with books at Malaysia's international book fair
+    kind: actual
+    origin: third-party
+    subject: Visitors browsing stalls at the Kuala Lumpur International Book Fair (Pesta Buku Antarabangsa Kuala Lumpur) 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: The National Library of Malaysia building in Kuala Lumpur, topped by a distinctive blue songket-patterned roof
+    kind: actual
+    origin: third-party
+    subject: The National Library of Malaysia (Perpustakaan Negara Malaysia) in Kuala Lumpur, with its songket-inspired tent roof
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 Before there were novels and before there was a language council, a storyteller was already composing Malay heroes in the courtyard of the Malaccan palace. It is from that oral tradition that one of the richest literary heritages in the region grew — a tradition that today is celebrated with a national title, hundreds of thousands of ringgit and a seat of honour in the nation's civilisation.

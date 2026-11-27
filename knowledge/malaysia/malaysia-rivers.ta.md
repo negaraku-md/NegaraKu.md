@@ -22,7 +22,7 @@ appliesTo: "மலேசிய புவியியல் மற்றும்
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'அடர்ந்த பச்சை மழைக்காடுகள் மற்றும் உயரமான நாணல்கள் நிறைந்த கரைகளுக்கு இடையே வளைந்து செல்லும் அகலமான சேறு நிறைந்த பழுப்பு நிற வெப்பமண்டல நதி, சிதறிய மேகங்களுடன் கூடிய பிரகாசமான நீல வானத்தின் கீழ்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: ராஜாங் ஆற்றின் அகன்ற, அமைதியான நீர்ப்பரப்பு பொன்னிற மாலை வானத்தைப் பிரதிபலிக்கிறது, தொலைவில் மறையும் சரவாக்கின் தாழ்வான காடுகள் சூழ்ந்த கரைகளால் எல்லைப்படுத்தப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: சரவாக்கில் அந்தி வேளையில் ராஜாங் ஆறு, மலேசியாவின் மிக நீளமான ஆறு
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: மலாக்காவின் வரலாற்றுப் பழைய நகரில் வண்ணமயமான ஆற்றங்கரை கடை-வீடுகளுக்கும் நீர்முக நடைபாதைகளுக்கும் இடையே பாயும் குறுகிய மலாக்கா ஆறு.
+    kind: actual
+    origin: third-party
+    subject: மலாக்கா நகரின் வரலாற்றுச் சிறப்புமிக்க பழைய நகரைக் கடந்து வளைந்து செல்லும் மலாக்கா ஆறு
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 பான் பொர்னியோ நெடுஞ்சாலை (Lebuhraya Pan Borneo) அல்லது MASwings விமானங்கள் தோன்றுவதற்கு முன், சரவாக்கின் உட்பகுதியை அடைவதற்கான ஒரே வழி, பல நாட்களாக ஆற்றின் வழியே பயணிப்பதுதான். இன்றைய பெரிய நகரங்கள் — சிபு, கபிட், சண்டாக்கான், பிக்கான் — தற்செயலாக அவற்றின் இடங்களில் உருவாகவில்லை. ஒவ்வொன்றும் ஆற்றால் தீர்மானிக்கப்பட்ட இடத்தில் அமைந்துள்ளது: முகத்துவாரத்தில், இரு ஆறுகள் சந்திக்கும் சங்கமத்தில், அல்லது கப்பல் இன்னும் மேலோட்டமாகச் செல்லக்கூடிய தொலைதூரப் புள்ளியில். மூன்று ஆறுகள் — ராஜாங், கினபத்தாங்கன் மற்றும் பகாங் — இந்த வடிவத்தை மிகத் தெளிவாகக் காட்டுகின்றன.

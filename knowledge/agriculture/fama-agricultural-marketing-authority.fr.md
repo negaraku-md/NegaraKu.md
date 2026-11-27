@@ -31,7 +31,7 @@ faq:
     a: "Les producteurs peuvent commercialiser directement auprès des consommateurs par le biais des canaux de la FAMA, tels que les marchés permanents de producteurs, Agrobazaar, My Farm Outlet et les étals de fruits frais, ou participer à des programmes comme l'agriculture sous contrat et RANTAI. Les modalités de participation sont confirmées sur fama.gov.my."
 
 lang: "fr"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Autorité fédérale de commercialisation agricole", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "marché de producteurs", "My Farm Outlet", "Agrobazaar", "commercialisation agricole", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'Des rangées d''étals sous auvent dans un marché de producteurs Pasar Tani à Putrajaya, en Malaisie.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: Un étal sur charrette débordant de ramboutans et de langsats, drapé du drapeau malaisien, au Central Market de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Vendeur de fruits ambulant proposant des ramboutans et des langsats à Kuala Lumpur
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: Un étal de marché présentant asperges, avocats, mangues et potirons affichés en ringgit à Kea Farm, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Produits locaux frais en vente sur un étal du marché de Kea Farm, Cameron Highlands
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 Un maraîcher des [Cameron Highlands](/tourism/cameron-highlands-visitor-guide) peut cultiver les meilleurs produits, et pourtant le

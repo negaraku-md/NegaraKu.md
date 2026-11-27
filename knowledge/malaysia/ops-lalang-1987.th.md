@@ -90,9 +90,16 @@ entity: "Operation Lalang"
 wikidata: "Q1015909"
 relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
-related: []
+related: ["mahathir-mohamad", "barisan-nasional", "sedition-act"]
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: 'อาคารพระราชวังยุติธรรม (Palace of Justice) ในปุตราจายา ซึ่งเป็นที่ตั้งของศาลสูงของมาเลเซีย'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในคืนที่การจับกุมเริ่มขึ้นในปลายเดือนตุลาคม 1987 ประตูที่ปิดลงไม่ได้มีเพียงประตูห้องขัง หนังสือพิมพ์สามฉบับดับลงภายในไม่กี่วัน และวลี "Ops Lalang" ได้เข้าสู่ความทรงจำทางการเมืองของมาเลเซียในฐานะคำย่อสำหรับการควบคุมตัวโดยไม่มีการพิจารณาคดี เกือบสี่ทศวรรษต่อมา มันยังคงถูกถกเถียง คือ มันป้องกันอะไร มันปิดปากอะไร และมันบอกอะไรเกี่ยวกับอำนาจที่รัฐอาจมีเหนือพลเมืองของตน

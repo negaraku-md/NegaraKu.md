@@ -89,9 +89,16 @@ entity: "Operation Lalang"
 wikidata: "Q1015909"
 relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
-related: []
+related: ["mahathir-mohamad", "barisan-nasional", "sedition-act"]
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: 'The Palace of Justice building in Putrajaya, home of Malaysia''s superior courts.'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 On the night the arrests began in late October 1987, the doors that closed were not only cell doors — three newspapers went dark within days, and the phrase "Ops Lalang" entered Malaysian political memory as shorthand for detention without trial. Nearly four decades later, it is still argued over: what it prevented, what it silenced, and what it says about the powers a state may hold over its citizens.

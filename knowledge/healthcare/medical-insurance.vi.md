@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Người lao động đang cân nhắc giữa bảo hiểm y tế của người sử dụng lao động và một thẻ y tế cá nhân, cùng bất kỳ ai đang cố hiểu 'đồng chi trả' nghĩa là gì trước khi mua hoặc gia hạn một hợp đồng."
 
 lang: "vi"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ faq:
   - q: Một hợp đồng bảo hiểm y tế 'không đồng chi trả (no co-payment)' có tự động tốt hơn hợp đồng có đồng chi trả không?
     a: Không hẳn — bài viết liệt kê đây là một sai lầm phổ biến. Gói không đồng chi trả có phí bảo hiểm cao hơn cho cùng các hạn mức quyền lợi. Theo cơ chế đồng chi trả (co-payment), bạn đồng ý trước việc gánh một phần xác định của mỗi hóa đơn bệnh viện đủ điều kiện để đổi lấy phí bảo hiểm thấp hơn. Việc đánh đổi đó có đáng hay không phụ thuộc vào việc bạn có thể tự chi trả bao nhiêu trong hóa đơn; hãy kiểm tra bản công bố thông tin sản phẩm (product disclosure sheet) để biết tỷ lệ phần trăm, bất kỳ mức trần nào, và các khoản điều trị được miễn trừ.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Cổng vào một khu nội trú tại một bệnh viện của chính phủ Malaysia, một bối cảnh chăm sóc y tế trung tính.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Một góc nhìn từ trên cao về một tòa nhà bệnh viện tư nhân hiện đại lớn ở Seberang Perai, Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, một bệnh viện tư nhân ở Seberang Perai, Penang, Malaysia
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Một bàn tiếp đón bệnh viện cong trong một sảnh vào sáng sủa, đại diện cho việc tiếp nhận và thanh toán viện phí, với vài người ở phía xa
+    kind: representative
+    origin: third-party
+    subject: Một quầy tiếp đón và tiếp nhận bệnh nhân của bệnh viện ở sảnh vào chính
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Hai người lao động bước vào cùng một bệnh viện tư với cùng một cánh tay gãy. Một người đưa ra một tấm thẻ và ra về mà không trả một sen nào khi xuất viện. Người kia tự trả một phần hóa đơn, bởi hợp đồng cô mua sáu tháng trước rẻ hơn chính vì lý do đó.

@@ -33,7 +33,7 @@ faq:
     a: "Keluarga Kristian menyambut hari ini secara keagamaan menerusi ibadah gereja. Selain itu, Krismas turut disambut secara lebih meluas dalam kehidupan awam — pusat beli-belah dan hotel memasang hiasan serta menganjurkan jualan bermusim, dan tradisi rumah terbuka yang menjemput tetamu pelbagai latar belakang untuk makan bersama turut menjadi lumrah. Penyertaan dalam aspek sosial dan meriah musim ini tidak terhad kepada penganut Kristian sahaja."
 
 lang: "ms"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Hari Krismas jatuh pada 25 Disember setiap tahun, dengan musim hiasan dan runcit bermula sekitar akhir November."
   holiday: "Hari Krismas, 25 Disember, merupakan cuti umum di seluruh negara di semua negeri dan wilayah persekutuan (Jadual Pertama Holidays Act 1951 (Act 369) di Semenanjung; ordinan negeri di Sabah dan Sarawak). Sabah turut mewartakan Christmas Eve, 24 Disember, sebagai cuti umum negeri di bawah Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "Tradisi rumah terbuka menjamu tetamu daripada apa-apa latar belakang untuk sesi jamuan bersama turut diamalkan pada Krismas sebagaimana perayaan lain; keluarga Kristian yang menjadi tuan rumah lazimnya mengalu-alukan tetamu daripada agama lain, dan kunjung-mengunjung berlaku dua hala sepanjang kalendar perayaan."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'Sebatang pokok Krismas berhias tinggi menjulang menerusi atrium Pavilion Kuala Lumpur, dikelilingi tanglung emas tergantung, sebuah karusel dan orang ramai yang membeli-belah di atas permaidani merah'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: Pameran Krismas bertemakan candyland yang rumit di sebuah pusat beli-belah Kuala Lumpur, dengan pentas berpusar pudina merah dan putih, rumah roti halia dan deretan pokok Krismas berlampu kelip-kelip di atas orang ramai
+    kind: actual
+    origin: third-party
+    subject: Pameran Krismas bertemakan candyland dengan rumah roti halia dan pokok berlampu di sebuah pusat beli-belah Kuala Lumpur
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: Katedral Anglican St Mary's yang berdinding putih dan berbumbung jubin merah di tengah Kuala Lumpur, dengan salib pada bumbung berkabung dan bendera Malaysia di hadapan, menara pejabat moden menjulang di belakang
+    kind: actual
+    origin: third-party
+    subject: Katedral Anglican St Mary's, sebuah gereja putih bersejarah di tengah Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 Pada malam 24 Disember, sebuah gereja di Kota Kinabalu atau Kuching penuh sesak untuk satu ibadah lewat malam, sementara beberapa ratus kilometer jauhnya di Semenanjung, tarikh yang sama merupakan hari Khamis bekerja biasa. Pada pagi esoknya, 25 Disember, seluruh negara bercuti. Perbezaan itu — satu tarikh, dua status yang amat berbeza — adalah cara paling jelas untuk memahami kedudukan Krismas di Malaysia: satu perayaan keagamaan bagi satu komuniti, cuti umum bagi semua orang, dan satu musim pintu terbuka yang disertai ramai orang tanpa mengira agama.

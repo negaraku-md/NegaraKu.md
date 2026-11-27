@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 
 status: "published"
 aiAssisted: true
@@ -124,6 +124,34 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: '商業オフィスビルやショッピング施設が青い水際の湾と島々のそばに立つ、明るい昼間のコタキナバル中心部'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: 手前にポールに掲げられたマレーシアの州旗があり、明るい青空の下、湾の向こうにコタキナバルの街のスカイラインがそびえる
+    kind: actual
+    origin: third-party
+    subject: サバ州議会議事堂から湾越しに望むコタキナバル中心部のスカイライン、サバ州
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: ヤシの木の背後に立つガラス張りの近代的なSabah Ports本部ビル。明るい空の下、門のある入口にSabah Portsの標示がある
+    kind: actual
+    origin: third-party
+    subject: コタキナバルのSepanggarにあるSabah Ports本部——ガラス張りの企業向け港湾ビル
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 マレーシアでのビジネスに関する全国的なガイドのほぼすべてが、サバについて誤っており、しかも毎回同じ誤り方をしている——SSMがあなたの企業を登録し、1976年地方政府法（Local Government Act 1976）があなたの営業場所に発行し、走廊主管機関が連邦の法定機関であると想定しているのである。南シナ海の東側では、この三つのどれも真実ではない。

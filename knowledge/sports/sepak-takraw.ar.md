@@ -34,7 +34,7 @@ faq:
     a: "كان آخر فوز لماليزيا بلقب الريغو الجماعي في كأس الملك عام 1988. وبحلول 2024 بلغ هذا الانتظار نحو 36 عامًا حين خسرت ماليزيا 0-2 أمام المستضيفة تايلاند في ناخون راتشاسيما."
 
 lang: "ar"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,9 +99,35 @@ wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "sukma-games", "national-sports-council-msn"]
 keywords: ["سيباك تاكرو", "sepak takraw", "سيباك راغا", "sepak raga", "الرياضة الوطنية الماليزية", "قواعد السيباك تاكرو", "كأس الملك", "اتحاد السيباك تاكرو الماليزي", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'لاعب شاب في ماليزيا يرفع ركلة عالية نحو كرة السيباك تاكراو (sepak takraw) المصنوعة من الروطان المضفور في الهواء.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: لاعبو sepak takraw يقفزون لركل كرة الخيزران عبر الشبكة في تبادل متقارب خلال مباراة للسيدات في Asian Games.
+    kind: representative
+    origin: third-party
+    subject: لاعبو sepak takraw يتنافسون عند الشبكة خلال مباراة في Asian Games
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: لقطة مقرّبة لكرات sepak takraw المنسوجة من الخيزران، وهي الكرة المتشابكة التقليدية التي تُلعب بها اللعبة.
+    kind: representative
+    origin: third-party
+    subject: كرات sepak takraw المنسوجة من الخيزران
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 تخيّل الكرة الطائرة، ثم انزع يدَي كل لاعب. ما يتبقّى — الضربة الساحقة بقلبة خلفية بارتفاع الرأس، والتمريرة بالصدر، والإرسال الذي يُقذَف عاليًا في الهواء ويُضرَب بالعَقِب — هو السيباك تاكرو: إحدى أكثر الرياضات بهلوانيةً في العالم، وإحدى أوثقها ارتباطًا بهوية العالم الملايوي.

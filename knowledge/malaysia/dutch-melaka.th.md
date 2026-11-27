@@ -20,7 +20,7 @@ keyTakeaways:
   - "สนธิสัญญาอังกฤษ-ดัตช์วันที่ 17 มีนาคม 1824 ยกมะละกาให้อังกฤษอย่างถาวรเพื่อแลกกับเบนคูเลน การถ่ายโอนจริงมีผลในวันที่ 1 มีนาคม 1825"
 appliesTo: "ผู้อ่านที่รู้อยู่แล้วว่ามะละกาเปลี่ยนมือจากโปรตุเกสสู่ดัตช์สู่อังกฤษ และต้องการเข้าใจว่าเหตุใด 184 ปีตรงกลางจึงดูแตกต่างจาก 130 ปีก่อนหน้าและ 121 ปีหลังจากนั้นมากนัก รวมทั้งการถ่ายโอนสู่อังกฤษเกิดขึ้นได้อย่างไรจริง ๆ"
 lang: "th"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: มะละกาถูกส่งมอบจากชาวดัตช์ไปยังอังกฤษในการส่งมอบครั้งเดียวที่เรียบร้อยหรือไม่?
     a: ไม่ มันเปลี่ยนมือในทางการปกครองถึงสี่ครั้งในสามสิบปี อังกฤษเข้ายึดครองมะละกาในปี ค.ศ. 1795 ภายใต้จดหมายคิว (Kew Letters) เพื่อไม่ให้ตกไปอยู่ในมือฝรั่งเศส มะละกาถูกคืนให้ชาวดัตช์ในปี ค.ศ. 1818 สนธิสัญญาอังกฤษ-ดัตช์ ค.ศ. 1824 (ลงนามเมื่อ 17 มีนาคม ค.ศ. 1824) ยกมะละกาให้อังกฤษอย่างถาวรเพื่อแลกกับเบงกูลู (Bencoolen) ในสุมาตรา และการถ่ายโอนจริงมีผลในวันที่ 1 มีนาคม ค.ศ. 1825
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'อาคารสตัดธุยส์ (Stadthuys) สมัยอาณานิคมดัตช์สีแดงเข้มและหอนาฬิกาสีแดง ณ จัตุรัสดัตช์ในมะละกา ด้านหน้ามีวงเวียนที่เต็มไปด้วยดอกไม้และป้ายบอกทาง'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: ผนังอิฐสีแดงเข้มด้านหน้าของโบสถ์ไครสต์เชิร์ชมะละกาตั้งตระหง่านตัดกับท้องฟ้า โดยมีไม้กางเขนสีขาวและนาฬิกาฝังอยู่บนหน้าจั่ว
+    kind: actual
+    origin: third-party
+    subject: โบสถ์ไครสต์เชิร์ชมะละกา โบสถ์ที่ชาวดัตช์สร้างขึ้นในปี ค.ศ. 1753
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: ซุ้มประตูโค้งทาสีขาวที่มีป้าย 'Kubur Belanda / The Dutch Graveyard' เปิดออกสู่สุสานยุคอาณานิคมที่ร่มรื่นด้วยต้นไม้บนเนินเขาเซนต์ปอลในมะละกา
+    kind: actual
+    origin: third-party
+    subject: สุสานชาวดัตช์ (กูบูร์เบลันดา) บนเนินเขาเซนต์ปอล เมืองมะละกา
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 บริษัทหนึ่งใช้เวลาเจ็ดเดือนและพันธมิตรกับรัฐสุลต่านต่างชาติเพื่อพิชิตเมืองท่าหนึ่ง จากนั้นก็ใช้เวลาศตวรรษครึ่งต่อมาเพื่อทำให้แน่ใจว่าเมืองท่านั้นจะไม่มั่งคั่งอีก

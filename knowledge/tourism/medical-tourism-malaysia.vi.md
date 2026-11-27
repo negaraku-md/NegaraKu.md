@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'Tòa nhà mái cong của Prince Court Medical Centre ở Kuala Lumpur, với tên trên mặt tiền cùng một biển báo đường màu xanh lá và biển hiệu Cấp cứu phía trước.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một gia đình Indonesia bay đến Penang để làm phẫu thuật bắc cầu tim, một cặp đôi từ vùng Vịnh đến để thụ tinh trong ống nghiệm, và một người về hưu từ Úc đặt một buổi khám toàn thân mà sẽ tốn gấp ba lần ở quê nhà. Cùng nhau họ là một phần của một ngành thầm lặng đã đưa hơn 1.6 triệu người đến Malaysia trong một năm — không phải để ngắm cảnh, mà để khỏe lại.

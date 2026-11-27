@@ -29,7 +29,7 @@ faq:
     a: "การสมัครทำทางออนไลน์ผ่านพอร์ทัลของ KPM และนักเรียนถูกคัดกรองผ่านการประเมินการรับเข้าโรงเรียนเฉพาะทาง (PKSK) ควบคู่กับผลการเรียนและกิจกรรมนอกหลักสูตร"
 
 lang: "th"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'ทางเข้าและป้ายของ Maktab Rendah Sains MARA (MRSM) Batu Pahat ในรัฐยะโฮร์ ซึ่งเป็นวิทยาลัยวิทยาศาสตร์แบบประจำเต็มรูปแบบของมาเลเซีย โดยมีธงชาติและธงรัฐเรียงรายอยู่ริมประตู'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: ป้ายทางเข้าและประตูของวิทยาลัยวิทยาศาสตร์เยาวชนมารา (MRSM) เกอเมินเชะ ข้างถนนชนบท
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าหลักของวิทยาลัยวิทยาศาสตร์เยาวชนมารา (MRSM) เกอเมินเชะ
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: ภาพพาโนรามาของอาคารและพื้นที่วิทยาเขตของโรงเรียนประจำเต็มรูปแบบของมาเลเซียในรัฐมะละกา
+    kind: actual
+    origin: third-party
+    subject: วิทยาเขตของโรงเรียนประจำเต็มรูปแบบ Sekolah Berasrama Penuh Integrasi (SBPI) รัฐมะละกา
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 สองชื่อมักปรากฏขึ้นเมื่อครอบครัวมาเลเซียพูดถึงโรงเรียนประจำ "ที่ดีที่สุด" สำหรับบุตร: MRSM และ SBP ทั้งสองเป็นวิทยาลัยประจำเต็มรูปแบบแบบคัดเลือก ทั้งสองแข่งขันกันอย่างเข้มข้นเพื่อชิงที่นั่ง — แต่บริหารโดยสองหน่วยงานที่ต่างกัน ภายใต้สองอาณัตินโยบายที่ต่างกัน

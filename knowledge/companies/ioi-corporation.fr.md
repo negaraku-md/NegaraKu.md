@@ -30,7 +30,7 @@ faq:
     a: "En Malaisie (notamment Johor, Malacca, Negeri Sembilan, Pahang, Sabah et Sarawak) et en Indonésie (Kalimantan occidental et central)."
 
 lang: "fr"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'L''entrée principale incurvée en verre et métal de l''IOI City Mall avec l''enseigne rouge « ioiCITYMALL » au-dessus des portes, flanquée de hautes tours de bureaux à miroirs sous un ciel nuageux spectaculaire'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: Une tour bleue de raffinerie industrielle d'huile de palme marquée d'un grand « IOI » et du panneau logo « IOI EDIBLE OILS » à Sandakan, Sabah, adossée à des collines boisées avec des palmiers au premier plan
+    kind: actual
+    origin: third-party
+    subject: Le complexe de raffinerie d'huile de palme IOI Edible Oils à Sandakan, Sabah, partie de la fabrication fondée sur les ressources d'IOI Corporation
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: L'atrium intérieur à plusieurs niveaux de l'IOI City Mall 2, de hautes banderoles promotionnelles roses « IOi CiTY MALL 2 » suspendues au-dessus de balcons incurvés bordés de boutiques
+    kind: actual
+    origin: third-party
+    subject: L'atrium intérieur de l'IOI City Mall 2, la deuxième phase de l'IOI City Mall, Putrajaya
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 Une entreprise qui a débuté en vendant des gaz industriels cultive désormais assez de palmier à huile pour remplir une réserve foncière de la taille d'un petit district, et transforme ces fruits en tout, de l'huile de cuisine aux acides gras à l'intérieur de votre savon.

@@ -32,7 +32,7 @@ faq:
     a: "Ya. Oxford English Dictionary telah menambah beberapa perkataan Bahasa Inggeris Malaysia dalam kemas kini yang berturutan, termasuk lepak, shiok dan teh tarik pada 2016, beberapa istilah Manglish dan makanan Malaysia termasuk mamak, kopitiam dan atas kemudian pada tahun yang sama, serta perkataan seperti boleh, agak-agak dan wayang dalam satu kemas kini berikutnya — mengiktiraf penggunaan Malaysia yang telah lama tertubuh dan bukannya mencipta bahasa Inggeris baharu."
 
 lang: "ms"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,32 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'Papan tanda jingga dan biru yang dicat tangan bertulis PETALING STREET KUALA LUMPUR pada sebuah kotak utiliti yang dipenuhi grafiti, dengan jalan dan bangunan bandar di belakangnya.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: Sebuah jalan rumah kedai di George Town yang kedai-kedainya membawa papan tanda dalam bahasa Inggeris, Tamil, Cina dan Melayu bersebelahan
+    kind: actual
+    origin: third-party
+    subject: Sebuah jalan Little India di George Town, Pulau Pinang, dipenuhi papan tanda kedai dalam beberapa bahasa dan aksara
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: Pembeli berjalan melepasi deretan gerai makanan dan barangan di sebuah pasar malam Malaysia yang sibuk pada waktu petang
+    kind: actual
+    origin: third-party
+    subject: Sebuah pasar malam di Seri Kembangan, Selangor, satu suasana jalanan Malaysia yang berbilang bahasa sehari-hari
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

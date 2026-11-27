@@ -92,6 +92,31 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'A blue-and-silver CR200J electric trainset with the ECRL flower logo on its nose, standing on depot tracks, a yellow KTM Komuter set beside it'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: The twin tunnel portals of 'Terowong 2 Serendah' bored into a green hillside, with the MRL/ECRL project banner above and new ballasted track emerging in the foreground — the line being built through the Titiwangsa range. Documentary infrastructure shot (2025).
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: An ECRL viaduct under construction at Sungai Tua — concrete piers rising on a cleared hillside with a launched box-girder span behind the site hoarding. Shows the elevated-alignment stage of the project, distinct from the tunnel body and the finished trainset hero.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 For decades the fastest way between Kuala Lumpur and the east-coast states meant a long haul over the mountains by road. The East Coast Rail Link is Malaysia's bet that a single line of track can change that — and, in the process, rebalance where the country's growth happens.

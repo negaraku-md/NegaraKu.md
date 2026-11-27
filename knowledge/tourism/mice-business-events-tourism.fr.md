@@ -81,6 +81,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaisie", "événements d'affaires", "MyCEB", "bureau des congrès", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "expositions"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'Le Centre de congrès de Kuala Lumpur la nuit, son toit en forme de vague et sa façade de verre chaleureusement éclairés au-dessus d''un parvis pavé mouillé aux colonnes d''acier inclinées.'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Lorsque 3,2 millions de délégués arrivent en avion pour une conférence, ils réservent des hôtels, engagent des traducteurs, remplissent les restaurants et concluent des accords — et la Malaisie a consacré plus d'une décennie à construire les sites et le bureau pour les capter.

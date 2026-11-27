@@ -32,7 +32,7 @@ faq:
     a: "Theo một phúc đáp trước nghị viện, Malaysia đã xuất khẩu 115,359 tấn sầu riêng trị giá RM6.37 tỷ sang Trung Quốc trong khoảng từ 2018 đến giữa 2025. Riêng xuất khẩu sầu riêng tươi nguyên trái đạt 773 tấn (gần RM50 triệu) trong nửa đầu năm 2025."
 
 lang: "vi"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,33 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'Đống sầu riêng xanh đầy gai còn nguyên quả, một quả được bổ đôi để lộ phần cơm vàng óng mịn như kem, tại một sạp trái cây ở Penang'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: Cận cảnh một quả sầu riêng được tách vỏ để lộ những múi thịt mềm vàng óng nằm trong lớp vỏ đầy gai
+    kind: actual
+    origin: third-party
+    subject: một quả sầu riêng Musang King được tách ra cho thấy phần thịt vàng óng, béo ngậy bên trong lớp vỏ đầy gai
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: Khay sầu riêng gai góc xếp cạnh tấm bảng giá viết tay ghi mã giống và giá RM, bên cạnh là những quả măng cụt
+    kind: actual
+    origin: third-party
+    subject: những quả sầu riêng nguyên trái được phân loại theo mã giống và niêm yết giá bằng ringgit mỗi kilogram tại một chợ trái cây ở Kota Kinabalu, Sabah
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 Trong hơn một thập kỷ, sầu riêng Malaysia chỉ có thể vào Trung Quốc nếu nó được đông lạnh hoặc chế biến thành cơm và nhân. Rồi, vào giữa năm 2024, Malaysia giành được quyền tiếp cận mà họ đã tìm kiếm trong nhiều năm: quyền vận chuyển sầu riêng tươi nguyên trái vào thị trường sầu riêng lớn nhất trên trái đất.

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Pelajar geografi dan sejarah Malaysia, serta siapa pun yang ingin memahami mengapa kota-kota utama di Sarawak, Sabah, dan Pahang terletak di posisi sungai tertentu."
 
 lang: "id"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'Sungai tropis lebar berwarna cokelat berlumpur berkelok di antara tepian yang dipenuhi hutan hujan tropis hijau lebat dan rumpun gelagah tinggi, di bawah langit biru cerah dengan awan yang tersebar.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: Bentangan luas dan tenang Sungai Rajang memantulkan langit senja keemasan, dibatasi tebing berhutan rendah Sarawak yang memudar ke kejauhan.
+    kind: actual
+    origin: third-party
+    subject: Sungai Rajang pada waktu senja di Sarawak, sungai terpanjang di Malaysia
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: Sungai Melaka yang sempit mengalir di antara ruko tepi sungai berwarna-warni dan jalur pejalan kaki tepi air di kota tua bersejarah Melaka.
+    kind: actual
+    origin: third-party
+    subject: Sungai Melaka berkelok menyusuri kota tua bersejarah Kota Melaka
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 Sebelum ada Lebuhraya Pan Borneo atau penerbangan MASwings, satu-satunya cara untuk sampai ke pedalaman Sarawak adalah menyusuri sungai selama berhari-hari. Kota-kota besar hari ini — Sibu, Kapit, Sandakan, Pekan — bukan ada secara kebetulan di lokasi masing-masing. Masing-masing berada di tempat yang ditentukan oleh sungai: di muara, di simpang pertemuan dua sungai, atau di titik terjauh yang masih dapat dilayari kapal. Tiga sungai — Rajang, Kinabatangan, dan Pahang — menunjukkan pola ini paling jelas.

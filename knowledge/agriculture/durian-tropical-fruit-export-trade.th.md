@@ -32,7 +32,7 @@ faq:
     a: "ตามคำตอบในรัฐสภา มาเลเซียส่งออกทุเรียน 115,359 ตัน มูลค่า RM6.37 พันล้าน สู่จีนในช่วงปี 2018 ถึงกลางปี 2025 การส่งออกทุเรียนสดทั้งลูกแตะ 773 ตัน (เกือบ RM50 ล้าน) เฉพาะในครึ่งแรกของปี 2025 เพียงช่วงเดียว"
 
 lang: "th"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,33 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'กองทุเรียนทั้งลูกเปลือกหนามสีเขียว โดยมีลูกหนึ่งผ่าออกเผยให้เห็นเนื้อสีเหลืองสดคล้ายคัสตาร์ด ที่แผงผลไม้ในปีนัง'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: ภาพระยะใกล้ของทุเรียนที่ผ่าออก เผยเนื้อนุ่มสีเหลืองทองอ่อนในเปลือกหนาม
+    kind: actual
+    origin: third-party
+    subject: ทุเรียนมูซังคิงที่ผ่าออก เผยเนื้อครีมสีเหลืองทองเข้มภายในเปลือกหนาม
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: ถาดทุเรียนหนามวางซ้อนกันข้างป้ายราคาเขียนมือระบุรหัสสายพันธุ์และราคาริงกิต มีมังคุดวางอยู่ข้างๆ
+    kind: actual
+    origin: third-party
+    subject: ทุเรียนทั้งลูกจัดระดับตามรหัสสายพันธุ์และตั้งราคาเป็นริงกิตต่อกิโลกรัมที่ตลาดผลไม้ในโกตากีนาบาลู รัฐซาบาห์
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 เป็นเวลากว่าทศวรรษที่ทุเรียนมาเลเซียเข้าสู่จีนได้เฉพาะเมื่อแช่แข็งหรือแปรรูปเป็นเนื้อทุเรียนและทุเรียนกวนเท่านั้น จากนั้นในกลางปี 2024 มาเลเซียก็ได้สิทธิที่แสวงหามาหลายปี นั่นคือ สิทธิในการส่งทุเรียนสดทั้งลูกเข้าสู่ตลาดทุเรียนที่ใหญ่ที่สุดในโลก

@@ -36,7 +36,7 @@ faq:
     a: "Không. Vào ngày 7 tháng 3 năm 2026, CelcomDigi và Maxis mỗi bên hoàn tất việc mua cổ phần của Bộ Tài chính trong DNB với giá RM327,872,640.28, đánh dấu việc chính phủ rút khỏi hoạt động bán buôn 5G và biến DNB thành một thực thể hoàn toàn tư nhân do các nhà mạng và YTL sở hữu."
 
 lang: "vi"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'Hai tháp viễn thông dạng mạng lưới ở Bukit Nyabau tại Bintulu, Malaysia, in bóng trên nền trời hoàng hôn màu cam và xanh'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: Một trụ tháp viễn thông dạng cột đơn màu xám cao có ăng-ten mạng di động và thiết bị 5G trên đỉnh, đứng trên nền trời xanh trong phía trên những mái nhà ngoại ô
+    kind: representative
+    origin: third-party
+    subject: Một trụ tháp viễn thông dạng cột đơn mang ăng-ten 5G trên nền trời xanh trong
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: Một cột viễn thông trên mái nhà gắn các ăng-ten tấm màu trắng, đĩa vi ba và tủ trạm gốc, vươn lên trên một thành phố thấp tầng dưới bầu trời xanh
+    kind: representative
+    origin: third-party
+    subject: Một trạm phát sóng 5G trên mái nhà với ăng-ten tấm và đĩa vi ba trên một thành phố
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 Hỏi hai người Malaysia về cách các mạng di động của đất nước được vận hành và bạn sẽ thường nhận được hai câu trả lời khác nhau, đúng một nửa — bởi vì thực ra có hai câu chuyện riêng biệt bị đan xen vào nhau. Một là kế hoạch phủ sóng băng thông rộng với một cái tên mà hầu hết mọi người đã thấy trên một tấm băng rôn của chính phủ. Câu chuyện kia là một cuộc chiến diễn biến nhanh về việc ai được sở hữu đường ống 5G. Hiểu về kết nối hiện đại của Malaysia có nghĩa là giữ hai câu chuyện này tách bạch.

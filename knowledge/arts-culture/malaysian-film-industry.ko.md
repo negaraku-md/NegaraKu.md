@@ -34,7 +34,7 @@ faq:
     a: "흔히 「말레이시아 뉴 웨이브(Malaysian New Wave)」로 불리는, 2000년대 초의 독립 영화 제작자들의 물결입니다. 2004년 탄추이무이(Tan Chui Mui), 아미르 무함마드(Amir Muhammad), 제임스 리(James Lee), 리우셍탓(Liew Seng Tat)이 설립한 다황 픽처스(Da Huang Pictures)가 그 중심 가운데 하나가 되었습니다. 탄의 영화 『러브 컨커스 올(Love Conquers All)』은 2006년 부산국제영화제에서 뉴 커런츠(New Currents)상과 FIPRESCI상을, 로테르담에서 타이거상을 받았습니다."
 
 lang: "ko"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,32 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: '복원된 전통 말레이식 목조 가옥으로, 영화계의 전설 P. 람리(P. Ramlee)의 생가이며 현재는 기념관이 되었고, 초가지붕과 벽돌을 깐 앞마당의 기념 명판이 있다.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: 쿠알라룸푸르 중심부에 있는 전전(戰前) 시기 단관 극장인 옛 콜로세움 시네마의 거리 쪽 정면과 차양 간판
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 잘란 퉁쿠 압둘 라만에 있는 역사적인 콜로세움 시네마, 말레이시아에 현존하는 가장 오래된 극장 중 하나
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: 쿠알라룸푸르의 한 쇼핑몰 안에 있는 현대식 멀티플렉스 극장의 환하게 밝혀진 로비와 간판
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 파빌리온 부킷 빈탕에 있는 현대식 멀티플렉스 극장 입구
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 1955년, 싱가포르 잘란 암파스 8번지의 한 스튜디오에서 클래퍼(clapper) 조수이자 보조 카메라맨이던 한 사람이 스물여섯 나이에 처음으로 감독 의자에 앉았습니다. 그 영화가 『프나렉 베차(Penarek Becha)』입니다. 그의 이름은 P. 람리입니다. 말레이시아 영화 산업의 이야기는 쿠알라룸푸르가 아니라 상하이 출신 두 형제가 소유한 싱가포르의 한 스튜디오에서 시작되었고 — 그 이후로 아직 멈춘 적이 없습니다.

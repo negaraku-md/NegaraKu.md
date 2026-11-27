@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,33 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: 'ブキッ・ビンタンのスターヒル・ギャラリー高級モールの特徴的な多面体の濃い色とブロンズの幾何学的ファサード。背後にJWマリオットホテルのタワーがそびえる'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: Sentul Parkを貫く静かなヤシ並木の大通り。沿道にSENTUL PARKとSENTUL WORKSと記された高いバナー塔が立つ
+    kind: representative
+    origin: third-party
+    subject: YTL Land（YTL Corporationの不動産部門）による都市再生開発Sentul Parkを貫く並木の大通り、クアラルンプール——SENTUL PARK／SENTUL WORKSのバナーが見える。親会社YTLの名称は画面内に写っていない
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: Lot 10ショッピングセンターの入口を通りの高さから見た眺め。緑のファサード、その上のIsetan The Japan Storeの標示、1階のH&M店舗が見える
+    kind: representative
+    origin: third-party
+    subject: Jalan Bukit BintangにあるLot 10ショッピングセンター。YTL Corporationが所有する小売のランドマーク（Isetan The Japan Storeが入居）、クアラルンプール——YTL所有物件と確認済み、親会社YTLの名称は画面内に写っていない
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTLはマレーシア最大級の多角化グループの一つであり、単一の企業としてではなく、インフラを中心に構築された上場・非上場事業の集合体として捉えるのが適切である。

@@ -104,6 +104,7 @@ dishFacts:
   halal: "La versión tradicional no es halal: clásicamente se fríe en manteca de cerdo, a menudo con tropezones de grasa de cerdo, e incluye berberechos de sangre. Los cocineros musulmanes de Malasia y Singapur preparan versiones halal que prescinden del cerdo y la manteca y pueden usar pollo o ternera; conviene preguntar en cada puesto."
   eat: "Se come recién salido del wok con una bebida fría, a menudo servido sobre una hoja de plátano; se fríe en pequeñas tandas, con grados 'special' (gambas, berberechos o huevo de más) y 'gourmet' (cangrejo o galeras)."
   where: "Una comida callejera de puestos de hawker y cafeterías (kopitiam); a Penang se la considera ampliamente su hogar espiritual, con un estilo más ligero y menos dulce, mientras que la versión de Singapur tira hacia lo hokkien."
+wikidata: "Q5073693"
 ---
 
 Pocos platos capturan la comida callejera malaya tan por completo como el char

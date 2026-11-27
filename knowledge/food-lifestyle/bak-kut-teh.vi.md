@@ -104,6 +104,7 @@ dishFacts:
   halal: "Là một món thịt heo, bak kut teh không halal: nó được xây quanh sườn và xương heo, nên người Hồi giáo không ăn, và nó được nấu và bán ở các quán cà phê người Hoa chứ không phải cơ sở có chứng nhận halal. Với những người không ăn thịt heo nhưng muốn trải nghiệm súp thảo mộc, một số đầu bếp thỉnh thoảng làm phiên bản gà có biệt danh 'chik kut teh' — một món riêng chứ không phải bak kut teh có chứng nhận halal."
   eat: "Đây là bữa ăn ngồi tại chỗ, dùng chung, thường ăn vào bữa sáng hoặc trưa. Nước dùng và thịt được dọn trong nồi đất hoặc bát cùng cơm trắng, và các miếng you char kway (quẩy chiên) xé ra chấm vào súp. Một đĩa nhỏ xì dầu đen với ớt padi và tỏi dùng để chấm thịt, trong khi một bình trà Trung Hoa, thường là ô long rang, được rót suốt bữa để cắt bớt độ béo."
   where: "Klang ở Selangor là cái nôi của nó tại Malaysia, nhưng bạn tìm thấy nó được nấu và bán ở các quán cà phê và nhà hàng người Hoa chứ không phải tại các nơi halal như chợ Ramadan. Tháng 2 năm 2024 nó được công bố là món ăn di sản quốc gia của Malaysia theo National Heritage Act 2005 (Act 645)."
+wikidata: "Q983160"
 ---
 
 Hiếm có món ăn nào tự giới thiệu bản thân rõ rệt như bak kut teh. Trước khi nhìn thấy nó,

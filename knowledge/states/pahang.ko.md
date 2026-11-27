@@ -41,7 +41,7 @@ verificationNeeded:
   - "주(州) 관광 포털은 면적을 35,960km²로, 주(州) 정부 포털은 35,965km²로 언급함; 단일 공식 수치를 파항 주(州) 정부 사무국에 확인."
 
 lang: "ko"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,32 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: '흐린 하늘 아래, 카메론 하이랜드 농원의 푸른 차나무 계단밭이 숲으로 덮인 언덕 사이로 굽이쳐 펼쳐져 있다.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: 파항주 해안 콴탄 인근에서 숲을 등진 텔룩 쩜파닥의 모래 만에 밀려온 파도가 검은 바위를 적시고 있다.
+    kind: actual
+    origin: third-party
+    subject: 파항주 콴탄 텔룩 쩜파닥 해변
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: 파항주의 연꽃으로 뒤덮인 호수이자 유네스코 생물권 보전지역인 타식 치니에서 잔잔한 담수가 숲으로 덮인 언덕 사이로 펼쳐져 있다.
+    kind: actual
+    origin: third-party
+    subject: 파항주 치니 호수(Tasik Chini)
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 파항(Pahang)은 말레이시아 반도 육지의 4분의 1 이상을 차지하지만, 말레이시아인 20명 가운데 겨우 한 명만이 그곳에 삽니다.

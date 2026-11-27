@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Sabah மாநிலத்தின் Kunak மாவட்டத்தில், தோட்ட சாலையுடன் மலைச்சரிவு வழியே ஏறிச்செல்லும் முதிர்ந்த எண்ணெய்ப் பனை தோட்டம்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: எண்ணெய்ப் பனை மலைகளுக்கு நடுவே அமைந்த பனை எண்ணெய் ஆலை வளாகம் (நீல கொட்டகைகள் + புகையும் புகைபோக்கிகள்) — வணிகத்தின் பதப்படுத்தல் பக்கம். மக்கள் இல்லை.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: ஆலை வாயிலில் ('Kilang Apas Balung') புதிய பழக் குலைகள் (FFB) நிறைத்த சாய்வு வண்டி — அறுவடை/போக்குவரத்துப் பகுதி. விளிம்பில் அடையாளம் காண முடியாத மிகச்சிறிய தொழிலாளி மட்டும்.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 2012-ல் அது சந்தையின் செல்லப்பிள்ளையாக இருந்தது — சிறிது காலம் உலகில் Facebook-க்குப் பின் இரண்டாவது இடத்தைப் பிடித்த ஒரு மாபெரும் பட்டியலிடல். பதின்மூன்று ஆண்டுகளுக்குப் பிறகு அதே நிறுவனம் அதன் அறிமுக விலையின் ஒரு சிறு பகுதிக்கு அமைதியாக Bursa Malaysia-விலிருந்து விலகியது, அதை சந்தைக்குக் கொண்டுவந்த அதே ஆணையத்தால் மீண்டும் வாங்கப்பட்டது.

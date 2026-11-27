@@ -34,7 +34,7 @@ faq:
     a: "Selon un rapport de Macaranga, les amendements de 2023 à la Loi sur la qualité de l'environnement de 1974 ont fixé une amende minimale de RM5,000 et un maximum pouvant atteindre RM10 millions, assortis d'une peine d'emprisonnement obligatoire ne dépassant pas cinq ans pour les infractions de pollution. Pour les infractions relevant du régime des réserves fluviales de Selangor (article 48(1) de la Promulgation LUAS de 1999), la sanction est une amende ne dépassant pas RM50,000 ou une peine d'emprisonnement ne dépassant pas deux ans, ou les deux. Les chiffres relatifs aux amendements de la Loi de 1974 proviennent d'un rapport secondaire et doivent être vérifiés par rapport au texte officiel du Journal officiel."
 
 lang: "fr"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,33 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan", "pollution des rivières", "indice de qualité de l'eau", "sécurité de l'eau"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'Une large rivière brune s''étendant vers un horizon plat et boisé sous un ciel pâle strié de nuages'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: Une rivière étroite s'écoulant dans un large canal en béton entre de hauts immeubles urbains et une promenade pavée en bord de rivière
+    kind: actual
+    origin: third-party
+    subject: La rivière Klang canalisée dans un chenal en béton entre des tours au centre de Kuala Lumpur, illustrant la pression sur la qualité de l'eau des rivières urbaines
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: Un lac calme et étendu reflétant le soleil bas, adossé à des collines boisées en contre-jour au crépuscule
+    kind: actual
+    origin: third-party
+    subject: Le réservoir derrière le barrage de Batang Ai au Sarawak, importante réserve d'eau brute et source d'hydroélectricité
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 Ouvrez le robinet un lundi matin et trouvez-le à sec — non parce que le robinet est cassé, mais parce qu'une usine en amont a rejeté des déchets nauséabonds dans l'affluent qui fournit l'eau brute à votre localité. C'est une réalité récurrente dans la vallée de Klang, et cela explique pourquoi la « qualité de la rivière » n'est pas seulement une question écologique, mais une affaire de sécurité de l'approvisionnement en eau pour des millions de foyers.

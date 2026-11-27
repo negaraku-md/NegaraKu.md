@@ -41,7 +41,7 @@ verificationNeeded:
   - "พอร์ทัลการท่องเที่ยวของรัฐระบุพื้นที่ 35,960 ตารางกิโลเมตร ขณะที่พอร์ทัลรัฐบาลรัฐระบุ 35,965 ตารางกิโลเมตร ยืนยันตัวเลขทางการตัวเดียวกับสำนักงานเลขาธิการรัฐบาลปะหัง"
 
 lang: "th"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,32 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'ไร่ชาขั้นบันไดสีเขียวของคาเมรอนไฮแลนด์สที่ทอดคดเคี้ยวระหว่างเนินเขาที่ปกคลุมด้วยป่าใต้ท้องฟ้าที่มีเมฆมาก'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: คลื่นซัดก้อนหินสีเข้มบนอ่าวทรายที่มีป่าเป็นฉากหลังของเตอโละฌัมปาดักใกล้กวนตันบนชายฝั่งรัฐปะหัง
+    kind: actual
+    origin: third-party
+    subject: หาดเตอโละฌัมปาดัก กวนตัน รัฐปะหัง
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: น้ำจืดนิ่งแผ่กว้างระหว่างเนินเขาที่ปกคลุมด้วยป่าที่ตาซิกฌีนี ทะเลสาบที่ปกคลุมด้วยดอกบัวของรัฐปะหังและเขตสงวนชีวมณฑลยูเนสโก
+    kind: actual
+    origin: third-party
+    subject: ทะเลสาบฌีนี (Tasik Chini) รัฐปะหัง
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 ปะหังครอบคลุมมากกว่าหนึ่งในสี่ของผืนแผ่นดินคาบสมุทรมาเลเซีย แต่มีเพียงหนึ่งในทุก ๆ 20 คนของชาวมาเลเซียที่อาศัยอยู่ที่นั่น

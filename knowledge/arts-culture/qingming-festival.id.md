@@ -33,7 +33,7 @@ faq:
     a: "Membakar kertas emas-perak (uang kertas) dan replika kertas adalah cara memuja leluhur yang lazim, melambangkan 'pengiriman' uang dan barang sehari-hari kepada nenek moyang untuk digunakan di dunia lain; selain uang kertas dan pakaian kertas, replika kertas modern juga mencakup rumah kertas dan mobil kertas. Karena melibatkan api dan asap, sebagian pemakaman dan taman pemakaman menetapkan area pembakaran atau membuat aturan, dan belakangan ini sebagian orang beralih ke cara yang lebih ramah lingkungan."
 
 lang: "id"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Bersesuaian dengan 「Qingming」 dalam dua puluh empat musim (jieqi) penanggalan Imlek, dengan tanggal Masehinya cukup tetap, biasanya sekitar tanggal 4 atau 5 April; keluarga setempat kebanyakan menyebar kegiatan ziarah dalam rentang sekitar sepuluh hari sebelum dan sesudah masa perayaan."
   holiday: "Qingming bukan hari libur umum di Malaysia, dan pada hari itu kebanyakan rumah usaha beroperasi seperti biasa."
   etiquette: "Karena membakar kertas emas-perak dan persembahan kertas melibatkan api terbuka dan asap, sebagian pemakaman dan taman peringatan menetapkan zona pembakaran atau membuat aturan, dan dalam beberapa tahun terakhir ada pula orang yang beralih ke cara yang lebih ramah lingkungan."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'Makam Tionghoa besar dari batu abu-abu dengan pembatas melengkung berbentuk omega dan halaman sembahyang bergenting merah berada di puncak bukit berumput di Bukit Cina, Melaka, dengan makam dewa bumi berkubah terpisah di dekatnya dan seorang pejalan kaki berjalan di antara pepohonan'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: Meja persembahan di makam yang ditata dengan ayam kukus utuh, ikan, babi panggang, mangkuk nasi putih dengan sumpit, cangkir teh dan teko, dengan ikatan dupa merah ditancapkan tegak dalam labu dan menyala di depan sebuah altar batu
+    kind: representative
+    origin: third-party
+    subject: hidangan persembahan makanan dan dupa yang menyala di depan makam sewaktu ziarah kubur Qingming
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: Patung singa penjaga batu bersepuh emas bertengger di atas tiang makam granit yang diukir aksara Tionghoa berwarna emas, dengan latar gundukan makam berumput dan pohon rindang di bawah langit mendung di permakaman Tionghoa Bukit Cina di Melaka
+    kind: actual
+    origin: third-party
+    subject: tiang makam berhias singa penjaga bersepuh emas bertuliskan marga Tionghoa di Permakaman Tionghoa (Bukit Cina) di Melaka, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 Pada suatu pagi awal April, di jalan-jalan setapak pemakaman mulai bermunculan keluarga demi keluarga. Ada yang menjinjing ember dan sabit, ada yang membawa keranjang penuh makanan matang, buah-buahan, dan uang kertas. Setelah menemukan makam keluarga sendiri, yang muda mulai mencabut rumput liar dan menyapu daun, sementara yang tua menunjukkan cara mengecat ulang satu per satu aksara yang memudar di batu nisan; hanya setelah makam bersih barulah sesaji ditata, dupa dinyalakan dan penghormatan diberikan, dan akhirnya uang kertas dibakar di tanah lapang di dekatnya. Di antara asap dan nyala api, Qingming yang datang setahun sekali pun berlalu begitu saja.

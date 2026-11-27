@@ -35,7 +35,7 @@ seoTitle: "오랑 아슬리: 세 주요 집단, 18개 부족, 그리고 JAKOA"
 socialTitle: "오랑 아슬리는 누구인가 — 세 집단, 18개 부족, 그리고 그들을 돌보는 기관"
 
 lang: "ko"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: '''Selamat Datang ke KOA Lubuk Legong''이라고 적힌 알록달록한 벽화가 기와지붕의 마을 학교 건물 앞에 있고, 주위를 푸른 나무들이 둘러싸고 있다.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: 마 메리 공연자가 조각한 나무 조상령 가면과 주름진 야자잎 의상을 걸치고 쿠알라룸푸르의 야외 문화 공연에서 관객 앞에 마인 조오 춤을 춘다
+    kind: actual
+    origin: third-party
+    subject: 마 메리(Mah Meri)의 마인 조오 가면춤, 쿠알라룸푸르의 한 문화 공연에서 상연
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: 쿠알라룸푸르 오랑 아슬리 공예박물관 입구로, 간판 옆에 큰 나무 조각 오랑 아슬리 상이 서 있고 주위에 열대 식재가 우거져 있다
+    kind: actual
+    origin: third-party
+    subject: 오랑 아슬리 공예박물관(Muzium Seni Kraf Orang Asli), 쿠알라룸푸르
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 말레이시아라는 이름이 지도에 있기 훨씬 전부터, 반도의 숲과 고지대와 해안에 살던 사람들이 있었습니다. 오늘날 그들은 통틀어 오랑 아슬리(Orang Asli)로 불리는데 — '본래의 사람' 또는 '원주민'을 뜻하는 말레이어 표현입니다.

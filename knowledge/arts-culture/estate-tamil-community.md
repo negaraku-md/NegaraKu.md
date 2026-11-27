@@ -77,6 +77,32 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'SJK(T) Ladang Sungai Getah-இன் தாழ்வான கட்டிடங்கள்; இது ஒரு ரப்பர் தோட்ட சமூகத்திற்குச் சேவையாற்றும் தமிழ்வழி தொடக்கப் பள்ளி என அதன் பெயர்ப்பலகையில் குறிக்கப்பட்டுள்ளது, சாலையோரத்திலிருந்து தெரிகிறது.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: 1946-இல் மலாக்காவில் ஒரு எஸ்டேட்டில் ரப்பர் மரத்திலிருந்து பாலைச் சீவி எடுக்கும் ஒரு தொழிலாளி, மலேசியாவின் எஸ்டேட் சமூகங்களை வடிவமைத்த தோட்டத் தொழிலாளர்களை நினைவுறுத்துகிறது.
+    kind: representative
+    origin: third-party
+    subject: மலாக்காவில் ஒரு ரப்பர் தோட்டத்தில் ரப்பர் சீவுதல் (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'ஜொகூர் பாரு இந்திய பாரம்பரிய மையத்தில் "ஆரம்பக் கால தொழில்கள்: ரப்பர் சீவுதல்" எனும் தலைப்பில் ஒரு அருங்காட்சியக காட்சி, புடவை அணிந்த உருவம், ரப்பர் பால் வாளிகள் மற்றும் தமிழ் தலைப்புகளுடன் கூடிய வரலாற்று எஸ்டேட் புகைப்படங்களுடன்.'
+    kind: actual
+    origin: third-party
+    subject: 'தமிழ் மலேசிய எஸ்டேட் பாரம்பரியம் குறித்த "ஆரம்பக் கால தொழில்கள்: ரப்பர் சீவுதல்" கண்காட்சி, இந்திய பாரம்பரிய மையம், ஜொகூர் பாரு'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 மலேசியாவின் பல பழைய நகரங்களின் விளிம்பில், ஒரு காலத்தில் பசுமையாகப் பரந்திருந்த

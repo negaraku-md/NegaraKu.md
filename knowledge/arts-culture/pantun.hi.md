@@ -36,7 +36,7 @@ socialTitle: "मलय लोगों का सबसे पुराना �
 lang: "hi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "पंतुन कला की उत्पत्ति की सटीक तिथि निश्चित नहीं की जा सकती; विद्वानों का सबसे प्रबल मत इसे लगभग 15वीं शताब्दी से जोड़ता है, अर्थात Sejarah Melayu (~1612) से पहले। यह आँकड़ा अभी भी विवादित है और कोई निश्चित तिथि नहीं है।"
   - "लंबे-छंद वाले पंतुन की अधिकतम लंबाई की सीमा स्रोतों के बीच भिन्न है (कुछ 16 पंक्तियों तक, कुछ अन्य लगभग 22 पंक्तियों तक का उल्लेख करते हैं); निश्चित संख्या एकरूप नहीं है।"
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'हरे और सुनहरे पारंपरिक परिधान और अलंकृत शिरोवस्त्र पहने मलय कलाकार, एक दिकिर बारात प्रस्तुति के दौरान जमीन पर बैठकर समकालिक हाथ के इशारे कर रहे हैं, उनके सामने हाथ के ढोल रखे हैं।'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: एक केलंतान-पातानी wayang kulit प्रस्तुति के दौरान पौराणिक पात्रों की बारीकी से तराशी गई चमड़े की छाया-कठपुतलियाँ एक दमकते परदे पर तीखी परछाइयाँ डालती हुईं।
+    kind: actual
+    origin: third-party
+    subject: केलंतान-पातानी शैली का wayang kulit छाया-नाट्य
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: कुआलालंपुर के संगीत संग्रहालय में प्रदर्शित काँसे के घंटों, केतली-घंटों और लकड़ी के मेटालोफ़ोनों का एक अलंकृत रूप से तराशा गया मलय gamelan वाद्यवृंद।
+    kind: actual
+    origin: third-party
+    subject: संगीत संग्रहालय में मलय gamelan वाद्यवृंद, कुआलालंपुर
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

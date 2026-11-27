@@ -26,7 +26,7 @@ verificationNeeded:
   - "Details of additional/optional vaccines (for example, non-mandatory vaccines provided for a fee) could not be verified against KKM's official sources at the time of writing, and are therefore not specifically stated in this article."
 
 lang: "es"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["inmunización infantil Malasia", "Calendario Nacional de Inmunización", "Programa Nacional de Inmunización KKM", "vacunas gratuitas clínica de salud", "libreta de registro de salud del lactante y el niño", "vacunas infantiles KKM", "Immunise4Life Malaysia", "inmunización gratuita Malasia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'Un centro de vacunación del Ministerio de Salud de Malasia habilitado para niños, con un mural infantil que dice ''Estoy vacunado''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: Un centro de vacunación infantil del Ministerio de Salud de Malasia con la marca KKM y filas de sillas de espera, con apenas unas pocas personas visibles solo a lo lejos
+    kind: actual
+    origin: third-party
+    subject: Centro de vacunación infantil del Ministerio de Salud (PPV PICKids) en Pavilion Bukit Jalil, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: Un vial de vacuna tapado junto a una jeringa de vacuna precargada, que representa las vacunas administradas según un calendario de inmunización
+    kind: representative
+    origin: third-party
+    subject: Un vial de vacuna y una jeringa de vacuna antigripal precargada sobre una superficie lisa
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 Cada bebé nacido en una clínica u hospital público en Malasia vuelve a casa con algo más que un certificado de nacimiento temporal — vuelve a casa con una pequeña libreta que se llevará a *cada* visita a la clínica durante los próximos seis años. Esa libreta, y el calendario de vacunación que registra, forma parte de uno de los programas de salud pública de más larga trayectoria del país.

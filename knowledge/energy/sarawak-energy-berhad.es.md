@@ -30,7 +30,7 @@ faq:
     a: "La Central Hidroeléctrica de Bakun, con una capacidad disponible de 2,520MW, es la mayor instalación de generación de Sarawak."
 
 lang: "es"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'Una presa hidroeléctrica de hormigón con un aliviadero situada entre tierras altas boscosas en Murum, Sarawak.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: Un enorme muro de presa hidroeléctrica con cara de hormigón que desciende hacia un desfiladero fluvial, con un aliviadero escalonado y una central al pie, rodeado de laderas despejadas y colinas cubiertas de selva tropical
+    kind: actual
+    origin: third-party
+    subject: la presa hidroeléctrica de Bakun en Sarawak, la gigantesca presa de escollera con cara de hormigón en el corazón del sistema eléctrico del estado
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: Una alta presa de hormigón que atraviesa un valle fluvial con compuertas de aliviadero y una carretera en la coronación, agua de embalse verde oscuro a un lado y montañas boscosas alzándose por todas partes
+    kind: actual
+    origin: third-party
+    subject: la presa hidroeléctrica de Murum en el interior de Sarawak, parte de la cascada de presas hidroeléctricas del estado
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 Mientras la Malasia Peninsular depende de Tenaga Nasional Berhad, Sarawak enciende sus propias lámparas a través de una única empresa cuya red no está en absoluto conectada a la red nacional, y que se genera casi por completo con las caídas de agua de las gigantescas represas del interior.

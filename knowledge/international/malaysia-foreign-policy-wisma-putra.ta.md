@@ -37,7 +37,7 @@ faq:
     a: "ஆசியான் மலேசிய வெளியுறவுக் கொள்கையின் மூலாதாரம் அல்லது அடித்தளம் ஆகும். மலேசியா ஆசியானின் நிறுவன நாடுகளில் ஒன்று; அது ஆசியானின் ஒருமைப்பாட்டையும் மையத்தன்மையையும் (centrality) தொடர்ந்து முன்னுரிமைப்படுத்துகிறது, அதே வேளையில் ஐக்கிய நாடுகள் சபை (United Nations, UN), இஸ்லாமிய ஒத்துழைப்பு அமைப்பு (OIC) மற்றும் அணிசேரா நாடுகள் இயக்கம் (NAM) போன்ற பிற மன்றங்களிலும் தீவிரமாக இயங்குகிறது."
 
 lang: "ta"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'Wisma Putra-வுக்கான பனை வரிசை அணுகுமுறை; Wisma Putra Kementerian Luar Negeri Malaysia பலகையும் அப்பால் அமைச்சுக் கோபுரமும்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Putrajaya-வில் மாநிலக் கொடிகள் மற்றும் வாயில்காப்புக் கூடத்துடன் கூடிய Wisma Putra வளாக நுழைவாயிலின் அகன்ற காட்சி
+    kind: actual
+    origin: third-party
+    subject: Putrajaya-வில் Wisma Putra நுழைவாயில் மற்றும் வாயில்காப்புக் கூடத்தின் அகன்ற காட்சி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 அமெரிக்க ஐக்கிய நாடுகள் மலேசியப் பொருளாதாரத்தில் மிகப்பெரிய வெளிநாட்டு முதலீட்டாளராக இருக்கும்போது, ஆனால் சீனா அதன் மிகப்பெரிய வர்த்தகக் கூட்டாளராக இருக்கும்போது, ஒரு சிறிய, திறந்த நாட்டால் எந்தப் பக்கமும் சார முடியாது. அதனால்தான் மலேசியாவின் வெளியுறவுக் கொள்கை பல தசாப்தங்களாக, சொல்வதற்கு எளிதாகவும் காப்பாற்றுவதற்குக் கடினமாகவும் இருக்கும் ஒரே ஒரு சொல்லைப் பற்றிப் பிடித்துக் கொண்டுள்ளது: நடுநிலை. அந்தச் சமநிலையை நாள்தோறும் பேணும் பணியில் ஈடுபட்டுள்ள அமைச்சு Wisma Putra ஆகும்.

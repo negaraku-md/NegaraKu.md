@@ -23,7 +23,7 @@ appliesTo: "マレーシア半島、サバまたはサラワクで住宅物件�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,32 @@ faq:
   - q: 賃借人が退去を拒んだ場合、貸主は鍵を交換したり、公共料金（水道・電気）を止めたりできますか。
     a: いいえ。1950年特定救済法（Specific Relief Act 1950）第7(2)条は、貸主が自力で立ち退かせること（自力救済）を禁じています——賃借人がまだ占有している間に、鍵を交換したり、電気や水を止めたり、所有物を持ち出したりしてはなりません。占有を回復するには裁判所の命令が必要です。未払賃料については、貸主は賃借人に直接対峙するのではなく、1951年差押法（Distress Act 1951）に基づき賃借人の動産を差し押さえる差押令状を裁判所に申請します。
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'クアラルンプールの Taman Miharja の LRT 路線沿いにある高層アパート住宅。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: クアラルンプールの川沿いに密集する高層アパートのフラット群。マレーシアの賃貸住宅を表す。
+    kind: representative
+    origin: third-party
+    subject: クアラルンプール・Abdullah Hukumの高層アパートフラット
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: ペナン州ジョージタウン郊外の中高層アパート群。マレーシアで賃貸に出される住宅の典型だ。
+    kind: representative
+    origin: third-party
+    subject: ペナン州ジョージタウン郊外のアパート群
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 マレーシアの貸主と借主に、どの法律が自分たちを守ってくれるのかと尋ねれば、大半は間違って答えるだろう。援用できる「住宅賃貸借法」は存在しない——通知期間を定め、保証金に上限を設け、退去時に貸主が何をでき何をできないかを明記する、単一の成文法は存在しない。

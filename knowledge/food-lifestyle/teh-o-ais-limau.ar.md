@@ -85,6 +85,13 @@ drinkFacts:
   halal: "teh-O ais limau شاي أسود وماء وسكر وثلج وليمون، بلا حليب وبلا كحول، فالمشروب نفسه حلال. ويتعلّق ضمان الحلال بالمحل، فعلى مَن يحتاج اعتمادًا أن يتحقّق من المامك أو المقهى المعنيّ."
   served: "يُقدَّم مثلَّجًا ('ais')، غالبًا في كوب طويل مع عصر الليمون فيه. اطلب 'teh-O limau panas' للنسخة الساخنة، أو أضف 'kosong' لبلا سكر. والنسخة الافتراضية تأتي حلوة، فـ'kurang manis' (أقلّ حلاوة) طلب شائع."
   where: "يوجد في أكشاك المامك ومقاهي الكوبيتيام وأسواق pasar malam في عموم البلاد، حيث هو أحد طلبات الطقس الحارّ الافتراضية — البديل الخفيف حين يبدو teh tarik دسمًا أكثر من اللازم."
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "كوب طويل من الشاي الأسود المثلّج مع شرائح الليمون وبدون حليب"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 اطلب "teh tarik" فتحصل على أيقونة المقهى الماليزي الدسمة المرغية الحليبية. واطلب

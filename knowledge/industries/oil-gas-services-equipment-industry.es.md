@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué es el Plan Nacional de la Industria OGSE?
     a: Lanzado en abril de 2021 y revisado a medio término en 2024, es el plan a 10 años (2021-2030) del gobierno para hacer el sector más competitivo, resiliente y sostenible. Sus objetivos incluyen duplicar los ingresos por exportación, sostener una contribución al PIB de aproximadamente RM50 mil millones y empujar a las firmas hacia servicios de transición energética como la captura de carbono, el hidrógeno y las renovables.
 lang: es
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,34 @@ keywords:
   - buques de apoyo en alta mar
   - Plan Nacional de la OGSE
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'Una plataforma de perforación marina semisumergible vista de frente en el mar, con su cubierta rectangular y su alta torre de perforación central sostenidas sobre dos pontones sumergidos, con líneas de anclaje descendiendo al agua y buques de suministro lejanos en el horizonte'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: Una gran plataforma petrolera de producción en alta mar bajo una luz dorada, con su grúa de cubierta bajando una carga a un buque de suministro mar adentro que mantiene su posición en el mar azul abierto a su lado
+    kind: representative
+    origin: third-party
+    subject: un buque de suministro mar adentro trabajando junto a una plataforma de producción, con la grúa de la plataforma transfiriendo una carga
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: Un buque de apoyo mar adentro azul y blanco llamado Island Chieftain amarrado en un muelle, con su alto puente de proa y su larga cubierta de carga plana y abierta visibles, con montañas detrás
+    kind: representative
+    origin: third-party
+    subject: un buque de suministro a plataformas y de apoyo mar adentro amarrado en un muelle, mostrando su cubierta de carga de popa abierta
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 Cuando la gente se imagina la riqueza petrolera y gasística de Malasia, suele pensar en el crudo y el gas bajo el lecho marino frente a Terengganu, Sarawak y Sabah, las reservas que hicieron de PETRONAS una de las mayores empresas energéticas de Asia. Pero los hidrocarburos no se elevan solos del subsuelo. Detrás de cada yacimiento en producción se sitúa un pequeño ejército de contratistas: los astilleros que sueldan plataformas de acero, las plataformas que perforan los pozos, los buques que transportan tripulaciones y carga a alta mar, los ingenieros que diseñan las instalaciones y los técnicos que lo mantienen todo en marcha. Ese ecosistema es la **industria de servicios y equipos de petróleo y gas (OGSE)**, y es una gran industria malasia por derecho propio.

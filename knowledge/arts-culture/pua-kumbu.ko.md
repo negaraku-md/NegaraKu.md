@@ -34,7 +34,7 @@ faq:
     a: "이 천은 탄생부터 죽음까지의 삶의 통과의례, 신성한 의식과 치유 의식에 쓰이며, 전통적으로 이반 전사의 전통과 이어져 있습니다. 그 무늬는 여성의 사롱, 남성의 샅바, 무당의 예복으로도 짜입니다."
 
 lang: "ko"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,24 @@ relations:
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
+hero: '/media/arts-culture/pua-kumbu/hero.webp'
+heroAlt: '사라왁 롱하우스 안 나무 등걸이 베틀에 팽팽히 걸린 금빛 문양의 긴 붉은 푸아 쿰부 천, 가까이에 짠 돗자리와 조각된 이반족 수납함이 있는 모습'
+heroCredit: 'BarbicanMan / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: 긴 머리의 이반족 직조공 실물 크기 인형이 배대기 베틀에 기대어, 날실이 보는 이 쪽으로 부챗살처럼 펼쳐진 녹슨 붉은색과 크림색 이캇 푸아 쿰부를 짜는 모습
+    kind: actual
+    origin: third-party
+    subject: 사라왁 쿠칭 직물박물관의, 배대기 베틀에서 녹슨 색의 푸아 쿰부를 짜는 이반족 여성 직조 전시물
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 짜는 이가 '허락' 없이는 감히 만들려 하지 않는 한 장의 천 — 그 무늬는 꿈에서 온다고 하며, 한때는 그것을 만든 사회의 전사 전통과 긴밀히 얽혀 있었습니다. 그것이 바로 푸아 쿰부입니다.

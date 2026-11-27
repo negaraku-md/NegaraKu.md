@@ -29,7 +29,7 @@ faq:
     a: "不。停车罚单由地方政府（PBT）根据相关路边停车交通法令发出，而针对驾驶违规的交通传票则由警方（PDRM）或陆路交通局（JPJ）发出。"
 
 lang: "zh"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ entity: "Letak kereta bandar (PBT) Malaysia"
 relations:
   - { rel: "administered-by", to: "dewan-bandaraya-kuala-lumpur" }
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
-related: []
+related: ["local-government-councils", "cycling-and-walkability", "e-hailing-grab"]
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: '槟城乔治市街头一台绿色双联投币式停车收费表，附有马来文说明，旁边是一道红色栅栏。'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: 一座高耸的混凝土多层停车楼，数层敞开、正面装有栅格的停车层层叠而上，从马来西亚一处郊区的街道望去。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡蕉赖 Taman Segar 的一座多层停车楼
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: 数块金属制的禁止停车和路边告示牌紧挨着安装在立杆上，背靠槟城乔治市一条街道上一面斑驳的墙。
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市街道上一组禁止停车与路边停车标志
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 你在车里翻找硬币准备喂售票机——但那些机器早在2020年就消失了。如今在马来西亚大城市停车，是从智能手机开始，而不再是路边的投币箱。

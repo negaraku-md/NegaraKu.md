@@ -29,7 +29,7 @@ faq:
     a: "ไม่ RTS Link เป็นบริการรถรับส่งข้ามพรมแดนระยะสั้นระหว่างยะโฮร์บาห์รู (Johor Bahru) และวูดแลนด์ส (Woodlands) มีเป้าหมายเปิดให้บริการในปี 2026 ส่วน HSR เป็นเส้นทางรถไฟความเร็วสูงระยะประมาณ 350 กม. ที่แยกต่างหากซึ่งวางแผนไว้ระหว่างกัวลาลัมเปอร์และสิงคโปร์"
 
 lang: "th"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'ขบวนรถไฟความเร็วสูงสีขาว-ส้มรูปทรงเพรียวจอดอยู่ที่ชานชาลาสถานีขณะผู้โดยสารกำลังขึ้นรถ'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: ขบวนรถไฟความเร็วสูงไต้หวันจอดอยู่ที่ชานชาลาสถานี แสดงเป็นตัวอย่างทางรถไฟความเร็วสูงในภูมิภาคที่เทียบเคียงได้
+    kind: representative
+    origin: third-party
+    subject: รถไฟความเร็วสูงที่ให้บริการในภูมิภาค (รถไฟความเร็วสูงไต้หวัน) แทนรถไฟความเร็วสูงกัวลาลัมเปอร์-สิงคโปร์ในอนาคต
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: รถไฟความเร็วสูงชินคันเซ็นรุ่นN700จอดอยู่ที่สถานีฮิโรชิมาในญี่ปุ่น แสดงเป็นตัวอย่างทางรถไฟความเร็วสูงในภูมิภาคที่เทียบเคียงได้
+    kind: representative
+    origin: third-party
+    subject: รถไฟความเร็วสูงที่ให้บริการในภูมิภาค (ชินคันเซ็นN700ของญี่ปุ่น) แทนรถไฟความเร็วสูงกัวลาลัมเปอร์-สิงคโปร์ในอนาคต
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 รถไฟหัวกระสุนที่สามารถพาคุณจากกัวลาลัมเปอร์ไปยังสิงคโปร์ในเวลาประมาณ 90 นาที ได้ถูกลงนาม ระงับ ยกเลิก ไว้อาลัย และฟื้นคืนชีพ — ทั้งหมดนี้โดยที่ยังไม่มีการวางรางแม้แต่รางเดียว นี่คือสถานะที่แท้จริงของโครงการที่เปิด ๆ ปิด ๆ นี้

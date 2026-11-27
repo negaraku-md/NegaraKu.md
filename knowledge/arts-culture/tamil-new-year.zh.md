@@ -32,7 +32,7 @@ faq:
   - q: "芒果苦楝花什锦（pachadi）有何特别之处？"
     a: "它是泰米尔新年的标志性食物。做法是把生芒果（酸）、棕榈糖（甜）、苦楝花（苦）、罗望子等混在一起。把甜、苦、酸融于一道菜中，被视为一种提醒：接受来年将是苦乐交织的。"
 lang: "zh"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,35 @@ festivalFacts:
   when: "Chithirai 月的第一天——通常在 4 月 14 日前后；同一天也迎来马拉雅利人（Malayali）的 Vishu，以及锡克人的 Vaisakhi。"
   holiday: "并非联邦公共假期；任何州属通常也不会将其宣布为假期（不像屠妖节（Deepavali）与大宝森节（Thaipusam））。"
   etiquette: "人们习惯互道「新年祝福」（Puthaandu Vaazhthukkal）；在 Chithirai 当天，吉隆坡（Kuala Lumpur）的小印度、庙宇及社区活动中可见节庆景象。"
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: '吉隆坡十五碑（Brickfields）一场露天泰米尔新年（Puthandu）庆典上，一位身着绿色与褐红纱丽的年轻马来西亚印度裔女子双手合十行合十礼，身后是节庆帐篷和城市天际线'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: 一只银罐顶端供着椰子、芒果叶和黄花，两侧立着点燃的黄铜油灯，布置成一座吉祥的泰米尔新年祭坛
+    kind: representative
+    origin: third-party
+    subject: 传统泰米尔新年的圣罐（kalasam），银罐顶供椰子、芒果叶和花，旁边配黄铜油灯
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: 马杜赖（Madurai）米纳克希安曼庙（Meenakshi Amman Temple）高耸、雕刻精细、彩绘鲜艳的塔门（gopuram），耸立在庙内柱廊和水池之上
+    kind: representative
+    origin: third-party
+    subject: 马杜赖米纳克希安曼庙高耸的雕花塔门（gopuram），奇特赖节（Chithirai）的发源地
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 齐特莱月的第一个破晓。在许多泰米尔人家中，前一夜就已备好一个托盘——芒果、香蕉、槟榔叶、一点金饰、一面镜子。清晨睁眼时，在看任何其他东西之前，要先看到这个托盘。这就是**卡尼（kanni）**——相信新年当天第一眼看到的景象会为一整年定下基调的一种体现。

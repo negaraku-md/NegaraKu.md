@@ -37,7 +37,7 @@ faq:
     a: "Caminar los senderos naturales de jungla (Bishop, Maxwell, Rompin y Kindersley están entre los más conocidos), visitar la zona recreativa de la Cascada de Jeriau, pasear por el pueblo neotudor en torno a la torre del reloj, y simplemente disfrutar del ritmo fresco y lento (Wikipedia). Hay un campo de golf y algo de patrimonio de la época colonial que ver, pero por diseño hay muy poca vida nocturna."
 
 lang: "es"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,39 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Observadores de aves y amantes de la naturaleza que buscan un refugio tranquilo de clima fresco en las tierras altas, con senderos de selva y un encanto colonial desvanecido, antes que vida nocturna o grandes atracciones.'
+  getThere: 'Ni aeropuerto ni ferrocarril: se sube en coche por una carretera de montaña sinuosa desde Kuala Kubu Bharu hasta The Gap, donde empieza el tramo final de ascenso, con el tráfico de subida y de bajada ahora repartido entre dos carreteras (la carretera original de un solo carril funcionaba históricamente en sentido único por horas).'
+  watch: 'La carretera de montaña, estrecha y sinuosa, es lenta y propensa a cierres tras las lluvias, los desprendimientos o la caída de árboles, y la propia montaña suele estar brumosa y húmeda, con opciones limitadas de comida y suministros.'
+  next: 'Confirme la disposición de acceso vigente por carretera y cualquier cierre con la autoridad de carreteras (JKR) antes de viajar.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Torre de reloj de piedra engalanada con banderas malayas junto a un edificio de estilo Tudor de entramado de madera bajo una niebla gris y altos pinos en Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: Hotel de estilo Tudor con entramado de madera en blanco y marrón, ventanas cálidamente iluminadas y hiedra, enmarcado por altos pinos al anochecer
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, un hotel colonial de estilo neo-Tudor en Fraser's Hill iluminado al atardecer
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: Jardín ajardinado de montaña con palmeras que desciende hacia una densa selva verde, con cordilleras azules neblinosas al fondo
+    kind: actual
+    origin: third-party
+    subject: Un jardín en ladera aterrazada con vistas al fresco y neblinoso valle selvático y las lejanas cordilleras de Fraser's Hill
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 La mayoría de las estaciones de montaña de Malasia te venden algo — un casino, una finca de té, una granja de fresas, un parque temático. Fraser's Hill te vende la ausencia de todo eso. Repartida por un conjunto de crestas boscosas en la [cordillera de Titiwangsa](/es/malaysia/titiwangsa-range), es una pequeña, tranquila y envuelta en bruma estación de la época colonial donde lo más ruidoso que oirás es el canto de los pájaros, y donde un jersey deja de parecer ridículo incluso en el ecuador. Para los observadores de aves es casi tierra sagrada; para todos los demás es la alternativa lenta y de bajo perfil a sus vecinas de montaña más llamativas. Esta guía cubre qué es en realidad Fraser's Hill, por qué vienen los observadores de aves, qué hay que ver, cómo funciona la sinuosa carretera de subida, y a quién conviene y a quién no el lugar.

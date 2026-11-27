@@ -31,7 +31,7 @@ faq:
     a: "CIMB menggambarkan dirinya sebagai kumpulan berfokuskan ASEAN yang beroperasi di pelbagai pasaran termasuk Malaysia, Indonesia, Singapura dan Thailand. RHB beroperasi di tujuh pasaran serantau. Maybank merangkumi tiga pasaran utama — Malaysia, Singapura dan Indonesia — serta operasi merentasi ASEAN dan pusat kewangan global yang penting."
 
 lang: "ms"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,32 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'Kaki langit bangunan tinggi di pusat bandar Kuala Lumpur, daerah kewangan utama Malaysia, didominasi oleh Menara Berkembar Petronas.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: Sebuah pencakar langit putih yang tinggi dengan sepasang menara melengkung berbentuk bilah membentuk ibu pejabat Maybank, menjulang di atas pepohonan dan jalan bandar di sekeliling dengan latar langit biru
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank, menara ibu pejabat Malayan Banking (Maybank) di tengah Kuala Lumpur, bank terbesar Malaysia
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: Sebuah bangunan bertingkat dengan cawangan CIMB Bank dan papan tanda CIMB merahnya di aras jalan, fasad kaca dan pejalan kaki lalu di laluan pejalan kaki di hadapannya di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Sebuah cawangan CIMB Bank di aras jalan Bangunan UMNO, dengan CIMB merupakan salah satu bank terbesar Malaysia dari segi aset
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 Barislah lima nama yang mendominasi hampir setiap deretan kedai utama di Malaysia — [Maybank](/companies/maybank), CIMB, Public Bank, RHB dan Hong Leong — dan anda sedang melihat teras sesebuah sistem perbankan yang menjelaskan gaji, gadai janji dan perdagangan negara. Kesemuanya diperbadankan di Malaysia, kesemuanya tersenarai di Bursa Malaysia, dan kesemuanya dilesenkan oleh bank pusat yang sama. Selain itu, ia berbeza dengan ketara: satu jauh mengatasi yang lain dari segi skala, sebahagiannya secara berkesan ditunjangi kerajaan, dan dua lagi masih dipandu oleh keluarga yang mengasaskannya.

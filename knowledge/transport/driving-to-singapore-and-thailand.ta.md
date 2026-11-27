@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "தங்கள் சொந்த காரை Causeway அல்லது Second Link வழியாக சிங்கப்பூருக்குள், அல்லது வடக்கு நில எல்லை வழியாக தாய்லாந்துக்குள் ஓட்டச் செல்லத் திட்டமிடும் மலேசிய வாகன ஓட்டிகள்."
 
 lang: "ta"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "PIAM Endorsement 101", "Thailand temporary vehicle import"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'நீரிணையைக் கடக்கும் ஜொகூர்-சிங்கப்பூர் கோஸ்வே (Causeway) வாகனங்களால் நிரம்பியுள்ளது, மலேசியப் பக்கத்தில் ''I love Johor'' விளம்பரப் பலகையுடன்.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: தஞ்சோங் குப்பாங்கிற்கும் துவாஸிற்கும் இடையே ஜொகூர் ஜலசந்தியைக் கடக்கும் மலேசியா-சிங்கப்பூர் Second Link சாலைப் பாலம்.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா-சிங்கப்பூர் Second Link பாலம் (துவாஸ்)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: கெடாவில் மலேசியா-தாய்லாந்து எல்லையில் உள்ள புக்கிட் காயு ஹிதாம் தரை எல்லைக் கடவுக்குச் செல்லும் சாலை.
+    kind: actual
+    origin: third-party
+    subject: புக்கிட் காயு ஹிதாம்-சடாவோ மலேசியா-தாய்லாந்து எல்லைக் கடவு
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 இரண்டு அண்டை நாடுகள், இரண்டு நில எல்லைகள், ஒரே காருக்கு முற்றிலும் வேறுபட்ட இரண்டு அமைப்புகள்.

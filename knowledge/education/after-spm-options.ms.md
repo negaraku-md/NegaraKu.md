@@ -27,7 +27,7 @@ faq:
   - q: "Adakah laluan diploma atau TVET lebih buruk daripada pergi ke universiti?"
     a: "Tidak. Laluan diploma atau TVET membawa ke kerja mahir dan boleh diambil bekerja, dan lazimnya mengekalkan laluan terbuka untuk kembali ke ijazah melalui pemindahan kredit atau kategori kemasukan berasingan. Bagi banyak bidang — bidang kejuruteraan, hospitaliti, IT, reka bentuk — ia adalah laluan yang lebih pantas dan lebih langsung ke alam pekerjaan berbanding ijazah umum. Soalan yang lebih baik bukanlah laluan mana yang lebih tinggi statusnya, tetapi yang mana satu membawa ke tempat anda mahu pergi."
 lang: "ms"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'Pintu gerbang utama berlengkung putih Universiti Malaya di Kuala Lumpur, bertuliskan "UNIVERSITI MALAYA" dengan jata universiti, merentangi jalan masuk kampus.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: Sebuah bangunan fakulti di Universiti Malaya, salah satu laluan ijazah universiti awam yang boleh disasarkan oleh pelajar selepas SPM.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Fakulti Pendidikan, Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: Blok fakulti, perpustakaan dan pentadbiran di kampus cawangan UiTM Rembau, sebuah laluan pengajian tinggi awam yang terbuka kepada lepasan SPM.
+    kind: actual
+    origin: third-party
+    subject: Kampus UiTM Rembau, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 Sampul itu dibuka dan soalan sebenar tiba bersamanya. Bukan *bagaimana keputusan

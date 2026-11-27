@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Pengunjung yang merencanakan itinerari kunjungan museum, pelajar dan peneliti yang menginginkan sejarah institusi di balik koleksi-koleksi utama Malaysia, dan siapa saja yang menganggap Muzium Negara adalah museum tertua negara."
 
 lang: "id"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,34 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'Muzium Negara Malaysia, gedung pucat besar bermahkota atap pelana bergaya Minangkabau curam berwarna merah tua, fasad panjangnya dihias panel mural warna-warni dan dijajari bendera Malaysia, dilihat dari seberang jalan'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: Kubah membulat yang berlapis ubin biru kehijauan berglasir bertabur motif arabes bunga putih, hijau dan emas, dimahkotai pucuk emas kecil, menjulang dengan latar langit biru pucat
+    kind: actual
+    origin: third-party
+    subject: kubah berubin biru kehijauan Islamic Arts Museum Malaysia di Kuala Lumpur, berhias motif arabes bunga yang rumit
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: Bangunan museum kolonial dua lantai bersejarah yang dicat krem dengan sudut batu abu-abu dan bingkai jendela, atap pelana curam dan pucuk hias, diapit pohon palem tinggi di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: bangunan Muzium Sarawak era kolonial bersejarah di Kuching, sebuah bangunan dua lantai berwarna krem dengan sudut batu abu-abu dan atap pelana
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 Tanya kebanyakan pengunjung museum mana yang tertua di Malaysia, dan mereka akan menebak Muzium Negara — bangunan beratap istana yang menjadi ikon barisan museum di Kuala Lumpur. Tebakan mereka meleset delapan puluh tahun. Gelar itu sebenarnya milik sebuah galeri sederhana di Taiping, yang dibangun ketika tapak Muzium Negara masih diduduki oleh pendahulunya.

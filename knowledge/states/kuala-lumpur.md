@@ -67,9 +67,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'Menara Berkembar Petronas yang menyala menjulang di atas kaki langit daerah KLCC bertentangan langit senja keemasan di Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: Pandangan luas panorama bandar Kuala Lumpur dengan Menara KL berpuncak jarum dan bangunan pencakar langit berkelompok di bawah awan putih besar dan kawasan taman hijau di latar depan
+    kind: actual
+    origin: third-party
+    subject: Panorama bandar Kuala Lumpur dengan Menara KL di bawah langit berawan yang cerah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: Bangunan Sultan Abdul Samad bergaya Moor dengan menara jamnya yang tinggi dan kubah tembaga yang berkilau di tengah bandar Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Abdul Samad era penjajahan dengan menara jam berkubah tembaganya, tengah bandar Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 Kuala Lumpur ialah ibu negara Malaysia, tetapi dari segi perlembagaan ia bukan sebuah

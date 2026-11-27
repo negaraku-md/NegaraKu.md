@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "马来西亚的会计进修与资格路径"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: '这适用于正在抉择如何在大马取得会计师资格的学生与转行者，在学位、ACCA、CIMA或其他专业途径之间做权衡。'
+  how: '先锚定终点：当你根据Accountants Act 1967（1967年会计师法令）成为马来西亚会计师公会（Malaysian Institute of Accountants，MIA）会员时，你在法律上才是专业会计师。通往MIA有三条路——获承认的学位加经验；获承认的专业机构（ACCA、CIMA等）加经验；或MIA资格考试加经验。ACCA偏向审计与公共执业以及全球可携性；CIMA偏向管理会计与业界。'
+  cost: '费用、考试科目数量，以及一个获认证学位所带来的豁免（exemption），都会随每一轮认证周期而变动，因此请自行向专业机构、培训提供者与大学汇总当前数字——切勿依赖某个报出的豁免科目数。'
+  watch: '单凭ACCA或CIMA并不能使你成为马来西亚会计师——MIA会员资格才能，而取得会员资格的途径是专业资格加经验。豁免科目数是本主题中最易变动的单一事实；请按课程逐一查证。'
+  next: '挑选其典型出路与你想从事的领域相符的专业机构，确认它目前确实通往MIA会员资格以及所需经验，再优化你的入门起点、修读方式与豁免。参阅《缴付学院订金前》。'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: '一座马来西亚大学的讲堂建筑群，标志上写着「KOMPLEKS DEWAN KULIAH」，旁边是栗红色的学术楼和一条有盖走廊。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: 马来西亚一所大学讲堂内层层叠起的座位，学位生与专业会计课程的学生在此类讲堂上课。
+    kind: actual
+    origin: third-party
+    subject: 沙巴大学的一间大学讲堂
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: 马来亚大学图书馆内一排排安静的个人自习桌，学生在此埋头苦读学位课程及ACCA或CIMA的试卷。
+    kind: representative
+    origin: third-party
+    subject: 马来亚大学图书馆内的自习桌
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 任何在思考如何于马来西亚成为会计师的人，都会一头撞进一堆英文缩写：**MIA、ACCA、CIMA、MICPA、ICAEW、CPA Australia、CA(M)、CGMA、QE。** 它看起来像一份让你必须从中挑选的、彼此竞争的资格菜单。更好的理解方式是：**一个终点，通往它的几条道路**——而一旦看清了终点，各种选择就会各就各位。

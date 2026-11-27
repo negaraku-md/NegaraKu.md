@@ -22,7 +22,7 @@ appliesTo: "மலேசியாவின் அரசியலமைப்ப�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -36,7 +36,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "மலாயா யூனியன் — இன்றைய மற்றும் எதிர்கால தலைமுறைக்கான படிப்பினை (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "மலாயா யூனியன் குடியுரிமை: மலாயாவில் அரசியலமைப்பு மாற்றமும் சர்ச்சையும், 1942–48 (Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48)"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "அரசர்களை ஆளுதல் (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "மலேசிய வழக்கறிஞர் மன்றம் (Malaysian Bar)"
+  - title: "மலாயன் யூனியனும் அதன் தாக்கமும் (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "மலேசிய வழக்கறிஞர் மன்றம் (Malaysian Bar)"
+  - title: "‘நினைவுநிலக்காட்சி’: 1946 மலாயன் யூனியனை நினைவுகூர்தல் (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -82,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'கிரீம் நிற சுவர்களும் சிவப்பு ஓட்டு கூரையும் கொண்ட ஒரு பிரமாண்டமான காலனித்துவ மாளிகை, நேர்த்தியாக பராமரிக்கப்பட்ட புல்வெளிகளுக்கும் வெப்பமண்டல பசுமைக்கும் இடையே அமைந்துள்ளது.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு வருடம் பத்து மாதங்களுக்கு, தனா மலாயு (Tanah Melayu) அதன் பெயரைத் தவிர இன்று யாருக்கும் அறிமுகமில்லாத ஒரு அரசியலமைப்பின் கீழ் ஆளப்பட்டது. மலாயன் யூனியன் 1 ஏப்ரல் 1946 அன்று தொடங்கி 31 ஜனவரி 1948 அன்று முடிவடைந்தது — கட்டிடங்களையோ, நாணயத்தையோ, அல்லது தனக்கென்று ஒரு தலைமுறை நிர்வாகிகளையோ விட்டுச்செல்ல முடியாத அளவுக்கு மிகவும் குறுகியது.
@@ -125,6 +141,8 @@ framework: history-culture
 அறிவுஜீவிகள் இந்தப் பிரச்சினையை *Utusan Melayu* மற்றும் *Majlis* போன்ற மலாய் மொழி பத்திரிகைகளின் பக்கங்களுக்குக் கொண்டுவந்தனர். முதலாவது மலாய் காங்கிரஸ் (Kongres Melayu) 1 முதல் 4 மார்ச் 1946 வரை Kelab Sultan Sulaiman-இல் நடத்தப்பட்டது, அதில் 41 மலாய் அமைப்புகள் கலந்துகொண்டன. அந்தச் செயல்முறையிலிருந்து, ஐக்கிய மலாய் தேசிய அமைப்பு (Pertubuhan Kebangsaan Melayu Bersatu) 11 மே 1946 அன்று Istana Besar, Johor Bahru-இல் Dato' Onn Jaafar தலைமையில் நிறுவப்பட்டது.
 
 அரசர்கள் மாநாட்டின் (Majlis Raja-Raja) அதிகாரப்பூர்வ இணையதளம், அந்தக் கட்டமைப்பை அமல்படுத்துவதை எதிர்ப்பதில் மலாய் அரசர்களும் மக்களுடன் சேர்ந்து எழுந்தனர் எனப் பதிவு செய்கிறது. மலேசிய நாடாளுமன்றம் (Parlimen Malaysia) தன் பங்கிற்கு, மலாயன் யூனியன் Dato' Onn Jaafar தலைமையிலான மலாய் மக்களால் கடுமையாக எதிர்க்கப்பட்டது எனப் பதிவு செய்கிறது.
+
+மிகவும் நினைவில் நிற்கும் எதிர்ப்புச் செயல்களில் ஒன்று, அமல்படுத்தப்பட்ட அந்த நாளிலேயே நிகழ்ந்தது. 1 ஏப்ரல் 1946 அன்று கோலாலம்பூரில் உள்ள சபை மண்டபத்தில் (Dewan Majlis, Council Chamber) மலாயன் யூனியன் தொடங்கப்பட்டு, Sir Edward Gent அதன் முதல் கவர்னராகப் பதவியேற்றபோது, மலாய் அரசர்கள் அந்தப் பதவியேற்பு விழாவில் கலந்துகொள்ளவில்லை — அந்தக் கட்டமைப்புக்கு எதிரான அவர்களது எதிர்ப்பு இன்னும் முடிவு செய்யப்படாத நிலையில், Onn Jaafar தலைமையிலான UMNO-வின் வலியுறுத்தலின் பேரில் எடுக்கப்பட்ட மறுப்பு இது. அரசர்கள் தங்கியிருந்த இடத்தில் மக்களும் கூடி ஆதரவைத் தெரிவித்தனர். பதவியேற்பு விழாவிலும் ஆலோசனைக் குழு கூட்டங்களிலும் கலந்துகொள்ள மறுத்த இந்தச் செயல், மலாயன் யூனியனை எதிர்த்த இயக்கத்தைக் குறித்த குடிமை ஒத்துழையாமையின் (civil disobedience) வடிவங்களில் ஒன்றாக அமைந்தது.
 
 1948 பதிலீட்டு கட்டமைப்பில் இருந்த மிகவும் கடுமையான குடியுரிமை நிபந்தனைகள் பிற்பாடு, 1946 முன்மொழிவுடன் ஒப்பிடும்போது தங்களது தகுதி சுருங்கியதைக் கண்ட மலாய் அல்லாதோர் உட்பட, மற்ற தரப்பினரிடமிருந்து எதிர்ப்பிற்கான அடிப்படையாக மாறியது என்பதையும் குறிப்பிட வேண்டும்.
 

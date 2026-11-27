@@ -32,7 +32,7 @@ seoTitle: "ภรตนาฏยัมในมาเลเซีย: อธิ�
 socialTitle: "นาฏศิลป์คลาสสิกของอินเดียใต้หยั่งรากในมาเลเซียอย่างไร"
 
 lang: "th"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,34 @@ relations:
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
+hero: '/media/arts-culture/bharatanatyam/hero.webp'
+heroAlt: 'นักรำภรตนาฏยัมในชุดผ้าไหมสีส้มปนทอง ประดับเครื่องประดับแบบเทวสถานและดอกมะลิ ย่อตัวลงในท่านั่งต่ำ แขนข้างหนึ่งยื่นไปข้างหน้าพร้อมยกฝ่ามือเป็นมุทรา สายตาแสดงอารมณ์ตามมือของเธอบนฉากหลังสีเข้ม'
+heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: นักเต้นภรตนาฏยัมรุ่นเยาว์ในชุดผ้าไหมสีชมพูทอง กระพรวนข้อเท้า และเครื่องประดับแบบเทวสถาน ทรงตัวบนขาเดียว ยกมือทั้งสองขึ้นทำมุทราคล้ายกรรไกรใกล้ศีรษะ ยิ้มตัดกับฉากเวทีสีเข้มเรียบ
+    kind: representative
+    origin: third-party
+    subject: นักเต้นภรตนาฏยัมรุ่นเยาว์ยืนขาเดียวพร้อมทำมุทราด้วยมือทั้งสองข้างศีรษะ
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: นักเต้นภรตนาฏยัมในเสื้อสีดำและผ้าไหมคลุมสีแดงทองหมุนตัวกลางก้าว แขนข้างหนึ่งโค้งขึ้นสูงเหนือศีรษะและอีกข้างชี้ขวางลำตัว กระโปรงจีบบานตัดกับฉากหลังสีดำ
+    kind: representative
+    origin: third-party
+    subject: นักเต้นภรตนาฏยัมขณะหมุนตัวพร้อมยกแขนข้างหนึ่งและกระโปรงสะบัด
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 เท้าของนักรำกระทบพื้นเป็นลวดลายที่รวดเร็วและแม่นยำ กระดิ่งดังขานรับจังหวะของกลองมฤทังคัม (mridangam) มือของเธอก่อรูปเป็นรูปทรงหนึ่ง — กวาง ดอกบัว คำถาม — และดวงตาของเธอมองตามก่อนที่สีหน้าจะตอบด้วยอารมณ์ที่ผู้ชมควรรู้สึก ไม่ใช่เพียงมองดู แล้วจังหวะก็คลี่คลาย เธอค้างท่วงท่าราวประติมากรรม และดนตรีเงียบลง

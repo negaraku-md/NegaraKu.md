@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 
 status: "published"
 aiAssisted: true
@@ -78,9 +78,36 @@ wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: []
+related: ["national-parks-and-protected-areas-malaysia"]
 keywords: ["Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "totally protected wildlife", "protected wildlife", "wildlife licence Malaysia", "special permit", "wildlife trafficking Malaysia", "Department of Wildlife and National Parks"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: '柔らかな緑の葉を背にした、マレートラの縞模様のオレンジと黒の顔と肩の近い横顔'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: 暗い森で、落ち葉と若木の間に立つ白黒のマレーバク
+    kind: actual
+    origin: third-party
+    subject: 夜、森の林床で採食するマレーバク。生息地の喪失に脅かされる保護種
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: 緑の葉の間の枝にとまる、鮮やかな赤とオレンジの反り返った冠を持つ大きな黒いサイチョウ
+    kind: actual
+    origin: third-party
+    subject: サバ州タビン野生生物保護区の熱帯雨林の林冠にとまる野生のオナガサイチョウ
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 マレートラの毛皮を車のトランクに入れておけば、待っているのは罰金と厳しい警告の手紙ではない——数年間の禁錮と、数十万リンギット単位の罰金である。これが2010年野生生物保全法の切れ味鋭い一面であり、半島マレーシアにおいてどの動物に触れ、飼育し、売り、研究してよいか、そしてどの動物には国からの書面による許可なしには近づいてはならないかを決める法律である。

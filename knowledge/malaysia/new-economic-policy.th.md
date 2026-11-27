@@ -21,7 +21,7 @@ keyTakeaways:
   - "NEP ถูกกำหนดหลังเหตุการณ์ 13 พฤษภาคม 1969 และถูกสืบทอดโดยนโยบายการพัฒนาแห่งชาติในปี 1991"
 appliesTo: "ผู้อ่านที่ต้องการวัตถุประสงค์ เป้าหมาย และกรอบเวลาที่มีการบันทึกของนโยบายเศรษฐกิจใหม่ตามที่ระบุในตัวบทแผนทางการของมาเลเซีย มากกว่าบันทึกที่เข้าข้างฝ่ายใด"
 lang: "th"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'มัสยิดปุตราโดมสีชมพูและอาคารบริหารเปอร์ดานาปุตราอันโอ่อ่า มองลงสู่ทะเลสาบอันสงบนิ่งในปุตราจายา เมืองหลวงฝ่ายบริหารของรัฐบาลกลางที่มาเลเซียวางผังสร้างขึ้นโดยเฉพาะ'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: เสาสะพานทรงใบเรือสีขาวของสะพานขึงเคเบิล Seri Wawasan Bridge ตั้งตระหง่านเหนือผืนน้ำอันสงบของทะเลสาบ Putrajaya โดยมีสายเคเบิลเหล็กแผ่เป็นรูปพัดไปยังพื้นสะพาน
+    kind: actual
+    origin: third-party
+    subject: Seri Wawasan Bridge ข้ามทะเลสาบ Putrajaya ในเมืองหลวงฝ่ายบริหารของสหพันธรัฐ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: Putra Bridge ที่ได้แรงบันดาลใจจากเมืองอิสฟาฮาน ทอดโค้งข้ามทะเลสาบ Putrajaya โดยมีตอม่อคล้ายหอคอยสุเหร่าประดับกระเบื้องและซุ้มโค้งแหลมสะท้อนเงาในน้ำใต้ท้องฟ้าสีคราม
+    kind: actual
+    origin: third-party
+    subject: Putra Bridge (Jambatan Putra) ข้ามทะเลสาบ Putrajaya ในเมืองหลวงฝ่ายบริหารของสหพันธรัฐ
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 นโยบายเศรษฐกิจใหม่มักถูกจดจำในคำเดียว คือ "การปรับโครงสร้าง" และถูกถกเถียงกันตั้งแต่นั้นมา แต่นโยบายระบุจุดมุ่งหมายของตนเองเป็นลายลักษณ์อักษรในแผนของรัฐบาลที่เสนอต่อรัฐสภา และจุดมุ่งหมายเหล่านั้นมีสองข้อ ไม่ใช่หนึ่ง โดยมีแนวคิดที่สามอยู่เหนือทั้งสอง บทความนี้นำเสนอสิ่งที่เอกสารกล่าว ในลำดับที่เอกสารกล่าว

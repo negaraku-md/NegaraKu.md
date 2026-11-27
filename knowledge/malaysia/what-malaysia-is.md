@@ -55,6 +55,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'A political map of Malaysia showing Peninsular Malaysia to the west and Sabah and Sarawak on Borneo to the east, labelled with major cities.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: A red-and-gold Chinese gateway arch topped with golden dragons bears a blue signboard reading JALAN PETALING / PETALING STREET above a multilingual welcome banner, in Kuala Lumpur’s Chinatown.
+    kind: actual
+    origin: third-party
+    subject: The ornamental Petaling Street gateway in Kuala Lumpur's Chinatown
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: A towering gold statue of Lord Murugan stands beside a steep flight of brightly coloured steps climbing a jungle-clad limestone cliff as visitors ascend.
+    kind: actual
+    origin: third-party
+    subject: The golden Lord Murugan statue and rainbow stairway at Batu Caves, Selangor
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 Malaysia is not one place with one government. It is a federation — a single country stitched together from thirteen states and three federal territories, sitting on two land masses that are separated by several hundred kilometres of the South China Sea. Understanding that structure first makes almost everything else about the country easier to follow.

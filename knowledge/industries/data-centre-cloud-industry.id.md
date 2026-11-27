@@ -34,7 +34,7 @@ faq:
     a: "Pedoman Pembangunan Berkelanjutan Pusat Data MITI (30 Desember 2024) mengharuskan operator mendeklarasikan desain PUE, WUE, dan CUE sesuai standar ISO/IEC 30134, dan mempertimbangkan lokasi di Semenanjung Malaysia yang memiliki indeks tekanan air (WSI) kurang dari 0.8, sebagaimana pedoman itu merumuskan syarat penempatannya."
 
 lang: "id"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'Deretan rak server dengan lampu status biru menyala memenuhi lorong sebuah pusat data.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: Deretan panjang rak server dan peralatan memenuhi sebuah aula pusat data yang besar dengan kontainmen lorong dingin terstruktur.
+    kind: representative
+    origin: third-party
+    subject: Aula pusat data dengan deretan rak peralatan
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: Ikatan padat kabel jaringan membentang di bagian belakang rak server dalam penerapan pusat data.
+    kind: representative
+    origin: third-party
+    subject: Pengkabelan jaringan di belakang rak server pusat data
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 Pada tahun 2019, Singapura berhenti menyetujui pusat data baru berskala besar. Dalam waktu empat tahun, server yang ditolaknya telah membangun sebuah industri baru dua puluh menit di seberang Tambak — dan Johor beralih dari sebuah negeri Malaysia yang tenang menjadi pasar pusat data paling sibuk di Asia Tenggara.

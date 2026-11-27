@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "ربح المجموعة حتى تاريخه قدره 403.3 مليون رينغيت للأشهر التسعة المنتهية في 30 سبتمبر 2025 (نُشر في 27 نوفمبر 2025) — يُتحقق منه مقابل النتائج الربع سنوية والسنوية التالية."
   - "عبارة «ما يفوق 150 مليون عميل» مبنية على رقم شركة لعام 2019 إضافةً إلى نمو السوق اللاحق؛ يُتحقق من إجمالي عملاء المجموعة الحالي مقابل آخر تقرير سنوي."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'المدخل الأمامي لحلبة أكسياتا في كوالالمبور، واجهتها الفضية المثقّبة تحمل اسم ''axiata arena'' الكبير بالأزرق والأرجواني وشعارها المثلّث'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: أشخاص متجمهرون خارج المدخل الرئيسي لـ Axiata Arena تحت لافتة 'axiata arena' العملاقة الزرقاء والأرجوانية خلال حدث رياضي
+    kind: actual
+    origin: third-party
+    subject: حشود عند المدخل الرئيسي لـ Axiata Arena، بوكيت جليل، خلال حدث
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: الداخل المكتظ لـ Axiata Arena خلال مباراة ريشة طائرة في ألعاب جنوب شرق آسيا 2017، والمتفرجون يملؤون المدرجات الزرقاء المتدرّجة حول الملعب
+    kind: actual
+    origin: third-party
+    subject: داخل Axiata Arena خلال فعالية الريشة الطائرة في ألعاب جنوب شرق آسيا 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 أكبر قصة اتصالات في ماليزيا ليست شبكة واحدة بل شركة قابضة تملك حصصًا من مشغّلي جوال في ست دول. فمجموعة أكسياتا برهاد (Axiata Group Berhad) تقع في برج مكاتب في كوالالمبور سنترال (Kuala Lumpur Sentral) وتسيطر على، أو تشارك في ملكية، أو تدير معًا الحوامل التي تصل مئات الملايين من الناس عبر جنوب وجنوب شرق آسيا.

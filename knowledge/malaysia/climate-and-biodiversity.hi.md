@@ -18,7 +18,7 @@ keyTakeaways:
   - "प्रायद्वीपीय मलेशिया और बोर्नियो (सबाह और सारावाक) दक्षिण चीन सागर द्वारा अलग किए गए हैं और भिन्न प्रजाति-समूहों की मेज़बानी करते हैं, जिसमें बोर्नियो देश के अधिकांश पीट दलदल और मैंग्रोव वन रखता है।"
 appliesTo: "राष्ट्रीय"
 lang: "hi"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'लहरदार पहाड़ियों को ढकती हरी-भरी वर्षावन-छत्र की एक विशाल चादर, जो दूरी में धुंधली नीली पर्वत-रेखाओं में विलीन होती है, धुँधले पीले आकाश के नीचे।'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: जंग-नारंगी रंग का एक युवा बोर्नियन ओरंगुटान पेड़ों के बीच बंधी रस्सी से एक बांह के सहारे लटका है, दूसरे हाथ से रस्सी थामे हुए, घने हरे वर्षावन के पत्तों की पृष्ठभूमि के सामने।
+    kind: actual
+    origin: third-party
+    subject: एक युवा बोर्नियन ओरंगुटान (Pongo pygmaeus), एक महाकपि जो केवल बोर्नियो के वर्षावनों में पाया जाता है
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: पत्तों से बिखरे वन-तल पर पूरी तरह खुला एक रैफ्लेसिया फूल पड़ा है, इसकी पाँच मोटी लाल-भूरी पंखुड़ियाँ हल्के मस्से जैसे धब्बों से ढकी हैं जो एक गहरे खुले केंद्रीय कटोरे को घेरती हैं।
+    kind: actual
+    origin: third-party
+    subject: सबाह में वन-तल पर पूर्ण खिली एक रैफ्लेसिया (Rafflesia), दुनिया के सबसे बड़े फूलों में से एक और बोर्नियो वर्षावन का एक परजीवी पौधा
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # मलेशिया विश्व के महा-जैवविविध देशों में से एक क्यों है

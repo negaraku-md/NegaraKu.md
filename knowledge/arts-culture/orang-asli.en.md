@@ -37,7 +37,7 @@ socialTitle: "Who Orang Asli are — three groups, 18 subgroups, and the agency 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 
 status: "published"
 aiAssisted: true
@@ -94,6 +94,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'A colourful painted wall mural reading Selamat Datang ke KOA Lubuk Legong in front of a village school building with a tiled roof, framed by green trees.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: A Mah Meri performer in a carved wooden ancestral-spirit mask and pleated palm-leaf costume dances the Mayin Jo'oh before an audience at an open-air cultural showcase.
+    kind: actual
+    origin: third-party
+    subject: Mah Meri Mayin Jo'oh masked dance performed at a cultural showcase in Kuala Lumpur
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: The entrance of the Orang Asli Craft Museum in Kuala Lumpur, a large carved wooden Orang Asli sculpture standing beside the signboard amid tropical planting.
+    kind: actual
+    origin: third-party
+    subject: Orang Asli Craft Museum (Muzium Seni Kraf Orang Asli), Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 Long before the name Malaysia existed on any map, communities already inhabited the forests, highlands and coasts of the Peninsula. Today they are known collectively as Orang Asli — a Malay term meaning "original people" or "original inhabitants".

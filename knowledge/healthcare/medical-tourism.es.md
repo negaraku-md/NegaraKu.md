@@ -32,7 +32,7 @@ faq:
     a: "El Ministerio de Salud concede licencias a las instalaciones sanitarias privadas y el Malaysian Medical Council registra y sanciona a los médicos. Muchos hospitales también cuentan con la acreditación voluntaria de la Malaysian Society for Quality in Health (MSQH) o de la Joint Commission International (JCI). El MHTC queda fuera de esa cadena reguladora."
 
 lang: "es"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'El exterior del Prince Court Medical Centre en Kuala Lumpur, un destacado hospital privado malasio que atiende a turistas médicos.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: Un moderno edificio de hospital privado con fachada de cristal en Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital, un centro médico privado en Kota Kinabalu, Sabah, Malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: La entrada de urgencias señalizada de un hospital privado de Malasia, con un tablero de directorio que indica el vestíbulo y las consultas de los especialistas
+    kind: actual
+    origin: third-party
+    subject: La entrada de urgencias y el directorio del vestíbulo del Pantai Hospital, un hospital privado en Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 Una familia de Yakarta vuela para el baipás cardíaco de un padre. Una pareja británica reserva una FIV porque la lista de espera en casa se extiende más allá de su ventana de fertilidad. Un paciente bangladesí viene para un cribado de salud rutinario que la clínica de su ciudad no puede realizar.

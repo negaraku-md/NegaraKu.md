@@ -34,7 +34,7 @@ faq:
     a: "ليس بالضرورة. فقد وجد المسح أن الأعداد في الغابات المُدارة جيدًا والمقطوعة قطعًا مستدامًا مثل ديراماكوت وسيغاما بقيت مستقرة على مدى 15 عامًا، مما يُظهر أن إنسان الغاب يمكن أن يستمر في غابات الإنتاج عندما تُدار بعناية وتبقى متصلة."
 
 lang: "ar"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,33 @@ relations:
 related: ["sabah"]
 keywords: ["إنسان الغاب البورنيوي", "Bornean orangutan", "صباح", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "حماية الموائل", "نوع محمي حماية كاملة", "ممر الحياة البرية"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: 'أم إنسان الغاب البورنيّ البري ورضيعها يستريحان بين أغصان مظلّة غابة مطيرة استوائية'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: أنثى إنسان الغاب البورنيوي مع صغيرين يتدلّيان من الأغصان عاليًا في مظلّة الغابة المطيرة
+    kind: actual
+    origin: third-party
+    subject: مجموعة عائلية من إنسان الغاب البورنيوي البري تتدلّى وتتغذّى في أشجار الغابة المطيرة، بورنيو
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: صورة مقرّبة لوجه معبّر لإنسان الغاب البورنيوي البري يحيط به فراؤه المائل إلى الاحمرار
+    kind: actual
+    origin: third-party
+    subject: صورة مقرّبة لوجه إنسان الغاب البورنيوي البري في الغابة المطيرة، بورنيو
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 يحتاج إنسان الغاب البري إلى كثير من الغابات، وإلى غابات متصلة. وفي الأراضي المنخفضة شرقي صباح، أصبح ذلك أندر ما يكون: فالأشجار التي كانت تتيح يومًا لقرد عظيم أن يسافر كيلومترات دون أن يلمس الأرض تتوقف الآن عند حافة مزرعة زيت نخيل. وبقاء إنسان الغاب البورنيوي في هذا المشهد هو، إلى حد بعيد، مسألة قانون وأرض وممرات.

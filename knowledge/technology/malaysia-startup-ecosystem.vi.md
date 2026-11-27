@@ -36,7 +36,7 @@ faq:
     a: "KL20 là kế hoạch hành động 2024 của chính phủ, công bố tại KL20 Summit ở Kuala Lumpur, để củng cố năng lực cạnh tranh khởi nghiệp của Malaysia. Nó nêu ra các sáng kiến trên ba lĩnh vực trọng tâm quan trọng — vốn, nhân tài và chất lượng của các startup — và nhắm mục tiêu biến Malaysia thành một trung tâm khởi nghiệp top-20 toàn cầu với RM400 tỷ định giá khởi nghiệp vào năm 2030. Nó phù hợp với Malaysia Venture Capital Roadmap 2024-2030 và mục tiêu biến Malaysia thành một trung tâm vốn mạo hiểm khu vực được ưa chuộng vào năm 2030."
 
 lang: "vi"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: Mọi người làm việc trên laptop và trò chuyện tại những chiếc bàn gỗ dài dùng chung trong một không gian làm việc chung ấm cúng theo phong cách công nghiệp với cửa sổ lớn và ghế sofa da
+    kind: representative
+    origin: third-party
+    subject: Mọi người làm việc trên laptop và trò chuyện tại những chiếc bàn dùng chung trong một không gian làm việc chung phong cách công nghiệp
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: Một nhóm nhỏ các nhà sáng lập startup đứng thành vòng tròn trong một văn phòng làm việc chung, chăm chú lắng nghe một người trong nhóm trình bày quan điểm tại một sự kiện công nghệ
+    kind: representative
+    origin: third-party
+    subject: Một nhóm nhỏ các nhà sáng lập startup trò chuyện cùng nhau tại một sự kiện vườn ươm công nghệ
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'Một tòa nhà văn phòng công nghệ hiện đại nhiều tầng ở Cyberjaya, Malaysia, với mặt tiền kính và kim loại chớp ngang cùng bảng hiệu ''TM Innovation Centre'' (Trung tâm Đổi mới TM), dưới bầu trời trong xanh.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 Hãy hỏi mười nhà sáng lập Malaysia tiền khởi nghiệp của chính phủ đến từ đâu và bạn sẽ nhận được mười từ viết tắt khác nhau. Bộ máy là có thật và hào phóng, nhưng nó được trải khắp các cơ quan mà mỗi cơ quan sở hữu một lát cắt — tài trợ ở đây, không gian phòng thí nghiệm ở kia, vốn mạo hiểm ở một nơi khác nữa — và biết cần gõ cửa nào tiết kiệm hàng tháng trời.

@@ -31,7 +31,7 @@ faq:
   - q: Siapa yang mengatur dan mempromosikan industri ini?
     a: Lembaga Pembangunan Pelaburan Malaysia (MIDA), di bawah Kementerian Pelaburan, Perdagangan dan Industri (MITI), mempromosikan dan menyetujui investasi manufaktur serta mengelola insentif pajak utama; MATRADE memantau kinerja ekspor.
 lang: id
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'Lantai pabrik panel surya yang terang dengan mesin perakitan modul dan pekerja berjaring rambut dan bermasker di sepanjang lini produksi'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: Barisan modul surya PV abu-abu pada jalur produksi konveyor dengan dua pekerja memeriksa panel
+    kind: representative
+    origin: third-party
+    subject: Modul PV jadi bergerak di sepanjang jalur pengepakan submodul di pabrik First Solar, Perrysburg, Ohio
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: Barisan panjang panel surya gelap yang terpasang pada rangka logam di ladang hijau di bawah langit biru dengan awan yang tersebar
+    kind: representative
+    origin: third-party
+    subject: Larik fotovoltaik surya terpasang di tanah pada ladang berumput di bawah langit biru
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 Sedikit orang menyadari bahwa ketika seorang pemilik rumah atau utilitas Amerika memasang susunan panel surya, panel itu boleh jadi dibuat di Malaysia. Selama lebih dari satu dekade negara ini diam-diam menjadi salah satu produsen sel dan modul fotovoltaik (PV) surya terbesar dunia — bukan untuk menggerakkan jaringan listriknya sendiri, melainkan untuk diekspor. Ini adalah industri pabrik, bukan feed-in tariff.

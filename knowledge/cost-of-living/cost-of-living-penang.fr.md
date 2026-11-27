@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui compare le coût de la vie de Penang à celui de la vallée de Klang, ou qui choisit entre l'île de Penang et Seberang Perai avant de déménager, de louer ou d'ouvrir une entreprise."
 
 lang: "fr"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'La silhouette dense de George Town au crépuscule, avec la tour Komtar illuminée s''élevant au-dessus du centre-ville de Penang'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: Immeubles résidentiels en hauteur sur Maccalum Street, à George Town, Penang, illustrant le logement urbain
+    kind: actual
+    origin: third-party
+    subject: Immeubles de logements sociaux en hauteur sur Maccalum Street, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: Vendeurs et étals au marché de produits frais de Sungai Bakap, à Penang
+    kind: actual
+    origin: third-party
+    subject: Marché de produits frais à Sungai Bakap, Penang
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 Penang est le seul État malaisien où le « coût de la vie » ne peut recevoir une

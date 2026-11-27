@@ -90,6 +90,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: A round 300-millimetre silicon wafer seen from above, covered in a regular grid of rectangular chip dies with rainbow diffraction colours across its surface
+    kind: representative
+    origin: third-party
+    subject: A 12-inch (300 mm) silicon wafer patterned with a grid of chip dies
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: A spinning silicon wafer covered in a glossy pool of dark-red photoresist on a spin-coater, with resist flung outward in a fine spray
+    kind: representative
+    origin: third-party
+    subject: A silicon wafer being spin-coated with photoresist during chip fabrication
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Almost every phone, laptop and car on Earth carries a chip that spent part of its life in Malaysia — packaged, tested and shipped from a factory in Penang or the Klang Valley. Yet for fifty years the country did the least glamorous, lowest-margin slice of that work: the back end. The National Semiconductor Strategy is Malaysia's attempt to change which part of the chip it owns.

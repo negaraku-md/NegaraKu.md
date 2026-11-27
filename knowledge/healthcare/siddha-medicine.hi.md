@@ -32,7 +32,7 @@ faq:
   - q: "सिद्ध चिकित्सक के रूप में कौन पंजीकरण करा सकता है?"
     a: "अधिनियम 775 के तहत, जो लोग पारंपरिक भारतीय चिकित्सा क्षेत्र में काम करना चाहते हैं उन्हें T&CM परिषद में पंजीकरण कराना होगा। यह अधिनियम चरणबद्ध रूप से लागू किया गया; अंतरिम संक्रमण अवधि के बाद, जो पंजीकृत नहीं हैं उन्हें मान्यता-प्राप्त क्षेत्रों में सेवाएँ देने से रोका गया है। कृपया प्रकाशन के समय वर्तमान आवश्यकताओं की पुष्टि मंत्रालय के T&CM प्रभाग से करें।"
 lang: "hi"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,32 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: 'तैयार किया जा रहा एक लेह्यम (लेकियम) हर्बल मिश्रण, सिद्ध पद्धति की एक पारंपरिक औषधि।'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: एक पारंपरिक दक्षिण भारतीय हर्बल-औषधि औषधालय का साधारण दुकान-मुख, जो Siddha के समान एक पारंपरिक भारतीय चिकित्सा पद्धति का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: एक पारंपरिक दक्षिण भारतीय हर्बल-औषधि औषधालय (vaidyasala) का दुकान-मुख
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: एक हथेली में रखी अदरक lehyam का एक गहरा गोला, एक पारंपरिक तमिल Siddha हर्बल पेस्ट तैयारी, एक खुले हाथ में
+    kind: representative
+    origin: third-party
+    subject: एक हथेली में रखी एक तैयार अदरक lehyam, एक तमिल Siddha हर्बल तैयारी
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 मलेशिया की पुरानी बागान-भूमियों में, और शहरों की तमिल गलियों में, आपको एक जड़ी-बूटी की दुकान मिल सकती है — सूखी जड़ी-बूटियाँ, चूर्ण (choornam) और तेल अलमारियों पर पंक्तिबद्ध सजे हुए। ये संयोग नहीं हैं; ये डेढ़ सदी से भी अधिक पुरानी एक चिकित्सा परंपरा के अवशेष हैं।

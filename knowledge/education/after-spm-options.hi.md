@@ -27,7 +27,7 @@ faq:
   - q: "क्या डिप्लोमा या TVET मार्ग विश्वविद्यालय जाने से ख़राब है?"
     a: "नहीं। एक डिप्लोमा या TVET मार्ग कुशल, रोज़गार-योग्य काम की ओर ले जाता है और आमतौर पर क्रेडिट ट्रांसफर या एक अलग प्रवेश श्रेणी के माध्यम से डिग्री तक वापसी का मार्ग खुला रखता है। कई क्षेत्रों के लिए — इंजीनियरिंग शिल्प, आतिथ्य, IT, डिज़ाइन — यह एक सामान्य डिग्री की तुलना में काम तक पहुँचने का एक तेज़ और अधिक सीधा मार्ग है। बेहतर प्रश्न यह नहीं है कि कौन-सा मार्ग अधिक प्रतिष्ठित है, बल्कि यह कि कौन-सा वहाँ ले जाता है जहाँ आप जाना चाहते हैं।"
 lang: "hi"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'कुआलालंपुर में यूनिवर्सिटी मलाया का सफ़ेद मेहराबदार मुख्य द्वार, जिस पर "UNIVERSITI MALAYA" लिखा है और विश्वविद्यालय का प्रतीक-चिह्न है, परिसर के प्रवेश मार्ग पर फैला हुआ।'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: Universiti Malaya का एक संकाय भवन, जो SPM के बाद किसी विद्यार्थी के लिए उपलब्ध सार्वजनिक-विश्वविद्यालय डिग्री मार्गों में से एक है।
+    kind: actual
+    origin: third-party
+    subject: शिक्षा संकाय भवन, Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: UiTM रेम्बाऊ शाखा परिसर के संकाय, पुस्तकालय और प्रशासन खंड — SPM उत्तीर्ण छात्रों के लिए खुला एक सार्वजनिक तृतीयक मार्ग।
+    kind: actual
+    origin: third-party
+    subject: UiTM रेम्बाऊ परिसर, नेगेरी सेम्बिलान
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 लिफ़ाफ़ा खुलता है और उसके साथ असली सवाल आ पहुँचता है। *मैंने कैसा किया* नहीं —

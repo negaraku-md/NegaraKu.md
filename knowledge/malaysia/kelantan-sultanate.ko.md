@@ -21,7 +21,7 @@ appliesTo: "켈란탄 군주제의 기원, 그 파타니와 시암의 맥락, �
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "롱 유누스(Long Yunus)가 켈란탄 왕좌를 차지한 정확한 연도는 자료마다 다르게 제시됩니다(약 1760년, 1763년, 1764년, 약 1774년이 모두 등장합니다); 이 글은 '1760년대'를 사용하며, 단일 연도를 단언하기 전에 전문 역사 연구와 대조하여 조정해야 합니다."
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: '원형 벽돌 앞마당에 세워진 고풍스러운 마차 뒤로, 노란 기둥과 조각된 처마 장식, 겹겹의 지붕을 갖춘 화려한 검은 목조 궁전이 솟아 있다.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: 우아한 연노랑빛 1930년대 왕실 저택으로, 넓은 아치형 베란다, 덧문이 달린 창, 낮은 기와지붕을 갖추었으며, 현재는 클란탄 왕실 박물관으로 쓰이고 코타바루 왕실 구역의 잔디밭 뒤에 자리한다.
+    kind: actual
+    origin: third-party
+    subject: 코타바루(Kota Bharu)에 있는 이스타나 바투(Istana Batu, 클란탄 왕실 박물관／Muzium DiRaja)
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: 크림색과 흰색의 웅장한 주립 모스크로, 넓은 중앙 돔과 모서리의 작은 돔들, 하늘로 솟은 미너렛을 갖추었으며, 푸른 하늘 아래 철제 난간 너머 거리에서 바라본 모습이다.
+    kind: actual
+    origin: third-party
+    subject: 코타바루에 있는 클란탄 주립 모스크, 마스지드 무하마디(Masjid Muhammadi)
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 말레이반도 북동쪽 어깨, 강물이 남중국해로 흘러들고 해안이 한때 말레이 중심부만큼이나 옛 파타니(Patani) 왕국 쪽을 바라보던 그곳에서, 하나의 왕좌가 내전으로부터 벼려졌습니다. 그 창건자는 왕으로 태어나지 않았습니다. 그는 경쟁자들보다 오래 버틴 파타니 혈통의 군벌이었고, 그가 연 왕조 — 롱 유누스 가문(House of Long Yunus) — 는 두 세기 반이 넘은 오늘날에도 켈란탄에서 통치하고 있습니다.

@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos apoyan la inversión en textiles y confección?
     a: La MIDA administra las aprobaciones de licencias de fabricación y los incentivos fiscales para el subsector, que es un área prioritaria bajo el Nuevo Plan Maestro Industrial (NIMP) 2030. A partir del primer trimestre de 2026, las inversiones que reúnan los requisitos quedan bajo un nuevo Marco de Incentivos a la Inversión basado en resultados, con incentivos escalonados ligados a resultados como la tecnología, las competencias y los vínculos locales. Confirme las tasas y condiciones vigentes con la MIDA.
 lang: es
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Trabajadores cosiendo y rematando prendas a lo largo de una línea de montaje dentro de una fábrica de confección.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: Un primer plano de un tejido ricamente estampado con un panel central rojo de denso brocado floral dorado, flanqueado por orillos granates con motivos dorados de rombos y estrellas.
+    kind: actual
+    origin: third-party
+    subject: Un detalle de una tela de songket malaya de Terengganu tejida con hilo metálico dorado, una artesanía emblemática del patrimonio textil de Malasia
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: Un telar manual de madera en un taller de paredes de ladrillo, con su bastidor tendido de hilos de urdimbre y una fila de bobinas de hilo rojo, verde y azul, y un tejedor parcialmente visible trabajando al fondo.
+    kind: representative
+    origin: third-party
+    subject: Un tejedor manejando un telar de madera cargado de bobinas de hilo de colores en un taller de tejido, en representación del tejido de telas en la industria textil
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 Mucho antes de que Malasia fuera conocida por los chips de ordenador y el aceite de palma, fabricaba tela y ropa. La industria textil, de confección y calzado es uno de los sectores manufactureros modernos más antiguos del país: ese tipo de negocio intensivo en mano de obra y orientado a la exportación que ayudó a poner en marcha la industrialización en las décadas de 1970 y 1980. Hoy es una porción más pequeña de una economía mucho más grande, pero sigue siendo un empleador real, un exportador estable y un sector que el gobierno intenta reinventar activamente.

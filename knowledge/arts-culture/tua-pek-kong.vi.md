@@ -33,7 +33,7 @@ faq:
     a: "'Thỉnh hỏa' (请火, Chneah Hoay, tiếng Phúc Kiến nghĩa là 'nhìn lửa') là nghi lễ do Bảo Phúc Xã ở Penang lưu truyền hơn trăm năm, tổ chức từ ngày 14 đến 16 tháng Giêng âm lịch tại miếu Tua Pek Kong Hải Châu Dữ ở Tanjong Tokong, với nghi thỉnh hỏa chính thức diễn ra vào giờ Tý đêm Nguyên Tiêu. Trong lễ, mọi đèn và nến trong miếu đều tắt; hội viên lấy lửa từ lư than trong gánh hương rồi quạt, đoán vận năm tới qua độ mạnh yếu của ngọn lửa, làm liên tiếp ba lần ứng với ba mùa trong năm; theo truyền thống chỉ hội viên nam tham gia. Sau khi lễ xong và thắp đèn lại, công chúng mới được vào miếu lễ bái. Bài viết này chỉ mô tả trình tự và không phán xét ý nghĩa tôn giáo của nó."
 
 lang: "vi"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'Cổng chào trang trí công phu màu đỏ và vàng của đền Tua Pek Kong ở Sibu, hai bên là những con sư tử canh giữ mạ vàng, phía sau là một ngôi bảo tháp bảy tầng cao vút vươn lên trên nền trời xanh.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: Mặt tiền đỏ và mái lát gạch men lộng lẫy của đền Tua Pek Kong ở Tanjung Tokong, Penang, với sư tử canh cổng và những cây nến đỏ cao ở lối vào.
+    kind: actual
+    origin: third-party
+    subject: Đền Tua Pek Kong Tanjung Tokong, Penang
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: Một tượng thần Tua Pek Kong có râu, dát vàng ngồi trên bàn thờ với các vị hầu cận hai bên, phía trước là những ngọn nến cháy và những bó nhang nghi ngút khói.
+    kind: actual
+    origin: third-party
+    subject: Bàn thờ thần Tua Pek Kong tại Ping Sien Si, Perak
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 Bên bờ biển ở Tanjung Tokong (丹絨道光) tại Penang có một ngôi miếu không mấy to lớn, phần lớn thời gian trong năm đều yên ắng. Nhưng vào dịp Nguyên Tiêu, mọi thứ hoàn toàn khác: gánh hương, chiêng trống và dòng người dài dằng dặc từ George Town kéo về; ban đêm mọi ngọn đèn và cây nến trong miếu đều tắt, một đám đông vây quanh lư than, nín thở quạt lửa — ngọn lửa bùng cao đến đâu được xem là một "lời dự báo" cho năm tới. Ngôi miếu này, trong tâm trí nhiều người, chính là cội nguồn của tín ngưỡng Tua Pek Kong.

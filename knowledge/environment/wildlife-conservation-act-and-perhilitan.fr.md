@@ -36,7 +36,7 @@ faq:
     a: "Non. L'article 2 exclut expressément la faune sauvage relevant de la Liste II de la neuvième annexe de la Constitution fédérale et de la Loi sur la pêche de 1985 (Fisheries Act 1985), de sorte que les espèces marines et la plupart des espèces halieutiques sont régies par d'autres textes."
 
 lang: "fr"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,36 @@ wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: []
+related: ["national-parks-and-protected-areas-malaysia"]
 keywords: ["Loi sur la conservation de la faune sauvage", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "faune sauvage totalement protégée", "totally protected wildlife", "faune sauvage protégée", "licence de faune sauvage", "permis spécial", "special permit", "trafic de faune sauvage", "Département de la faune sauvage et des parcs nationaux"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Profil rapproché du visage et de l''épaule rayés orange et noir d''un tigre de Malaisie sur fond de feuillage vert doux'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: Un tapir de Malaisie noir et blanc debout parmi la litière de feuilles et les jeunes pousses dans une forêt sombre
+    kind: actual
+    origin: third-party
+    subject: Un tapir de Malaisie fourrageant sur le sol de la forêt la nuit, espèce protégée menacée par la perte d'habitat
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: Un grand calao noir au casque rouge et orange relevé, perché sur une branche parmi des feuilles vertes
+    kind: actual
+    origin: third-party
+    subject: Un calao rhinocéros sauvage perché dans la canopée de la forêt tropicale de la réserve faunique de Tabin, Sabah
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 Gardez la peau d'un tigre de Malaisie dans le coffre de votre voiture et vous ne risquez pas une amende et une lettre sévère — vous risquez des années de prison et une amende mesurée en centaines de milliers de ringgit. C'est l'extrémité tranchante de la Loi sur la conservation de la faune sauvage de 2010, la loi qui décide quels animaux de la Malaisie péninsulaire vous pouvez toucher, garder, vendre ou étudier, et desquels vous ne pouvez même pas vous approcher sans autorisation écrite de l'État.

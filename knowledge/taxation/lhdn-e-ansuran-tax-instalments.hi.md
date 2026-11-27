@@ -65,7 +65,7 @@ sources:
     publisher: "मलेशिया का आंतरिक राजस्व बोर्ड (LHDN)"
 
 relations: []
-related: []
+related: ["income-tax-individuals", "income-tax-act-1967", "dividend-tax-malaysia"]
 keywords: ["e-ansuran lhdn", "pay income tax instalments malaysia", "tax arrears instalment malaysia", "CP500 vs CP204", "byrhasil fpx payment", "mytax instalment", "section 107c cp204", "late payment penalty tax malaysia"]
 social:
   hashtags:

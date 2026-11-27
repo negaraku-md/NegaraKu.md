@@ -36,7 +36,7 @@ verificationNeeded:
   - "لم يُؤكَّد جرد البوابات بما يتجاوز MySST وezHS (أي MyTTx وMyDLV ونظام طوابع الضريبة وMNTR) مقابل صفحة من صفحات RMCD مذكورة؛ كما أن الإصدار الحالي من Customs Duties Order وعدد الجداول التفضيلية لاتفاقات التجارة الحرة (FTA) في ezHS غير مؤكّدين بالمثل، ووُصفا وصفًا نوعيًا"
 
 lang: "ar"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,34 @@ relations:
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "الجمارك الماليزية", "customs duty Malaysia", "SST Customs", "excise duty Malaysia", "رسم المكوس ماليزيا"]
 framework: profile
+hero: '/media/government/rmcd-kastam/hero.webp'
+heroAlt: 'مبنى حكومي أزرق سماوي زاهٍ تحت سماء زرقاء صافية، واجهته ذات الجملون تحمل شعار الجمارك الملكية الماليزية فوق حروف ذهبية تقرأ Kastam Diraja Malaysia، وسط أشجار خضراء في لاهاد داتو، صباح'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: مبنى مقر دائرة الجمارك الملكية الماليزية متعدد الطوابق بلون كريمي في بوتراجايا، وعلى واجهته العلوية كتابة Jabatan Kastam Diraja Malaysia، يُرى من الشارع عبر ستار من أشجار الطريق
+    kind: actual
+    origin: third-party
+    subject: مقر دائرة الجمارك الملكية الماليزية في المركز الإداري الفيدرالي، بوتراجايا
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: مبنى جمارك من طابقين بلون خوخي وكريمي في ضوء دافئ يحمل لافتتَي Wisma Kastam Sabah و Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department، مع نصب لافتة أزرق وممر مسقوف للمركبات في كوتا كينابالو
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah، مبنى دائرة الجمارك الملكية الماليزية في ولاية صباح بكوتا كينابالو
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 وكالتان، ووزارة واحدة، وخطّ فاصل لا يكاد أحد يرسمه بصواب من المحاولة الأولى.

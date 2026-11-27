@@ -34,7 +34,7 @@ faq:
     a: "There is no HIV-specific law. General Penal Code provisions such as Sections 269 and 270 may apply to the spread of dangerous diseases, but there have been no known HIV prosecutions to date."
 
 lang: "en"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'A red awareness ribbon, the international symbol of HIV/AIDS awareness, on a plain white background'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: A rapid HIV test cassette, buffer bottle and supplies arranged on a clean paper-covered table, handled by gloved hands, with no faces shown
+    kind: representative
+    origin: third-party
+    subject: An HIV rapid test kit laid out on a table before testing, with gloved hands
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: A low public sexual-health clinic building on a street corner, with awareness banners on its facade and no people present
+    kind: representative
+    origin: third-party
+    subject: The exterior of a public sexual-health clinic with health-awareness banners
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 A person anxious after a risky night can walk into a government Klinik Kesihatan in Malaysia, get an HIV test for free and confidentially, and — if needed — go home with preventive medication within a few hours. Yet that same path also intersects with questions of confidentiality, law, religion and stigma that make HIV one of the most sensitive health topics in the country.

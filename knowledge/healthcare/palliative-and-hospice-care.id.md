@@ -29,7 +29,7 @@ faq:
     a: "Perawatan paliatif berfokus pada kenyamanan dan pengendalian gejala bagi pasien dengan penyakit yang membatasi usia harapan hidup, tanpa memandang umur, bahkan termasuk anak-anak. Perawatan lansia justru merupakan perawatan umum untuk orang tua yang mungkin tidak mengidap penyakit tahap akhir."
 
 lang: "id"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'Sebuah papan tanda pintu rumah sakit bertuliskan Ruang Konferensi Keluarga Kedokteran Paliatif, sebuah gambaran perawatan paliatif yang netral dan tidak grafis.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: Bangunan hospis yang rendah dengan taman di depan, dengan tiang bendera dan jalan masuk yang tenang, mewakili sebuah fasilitas perawatan hospis yang damai
+    kind: representative
+    origin: third-party
+    subject: Sebuah bangunan perawatan hospis satu lantai yang tenang dengan taman di bawah langit cerah
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: Pintu masuk unit perawatan paliatif rumah sakit modern dengan beranda kaca dan bedeng tanaman, mewakili lingkungan perawatan paliatif spesialis
+    kind: representative
+    origin: third-party
+    subject: Pintu masuk bertaman sebuah unit perawatan paliatif khusus
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 Ketika perawatan tidak lagi bertujuan menyembuhkan, fokus beralih ke satu hal: memastikan pasien nyaman dan bermartabat. Itulah inti perawatan paliatif — dan di Malaysia, ia dapat diakses melalui tiga jalur yang berbeda.

@@ -30,7 +30,7 @@ faq:
     a: "Những ngọn đèn — đèn nhỏ bằng đất sét hoặc kim loại thường gọi là diya — là trọng tâm thị giác của một «lễ hội ánh sáng». Từng hàng đèn được thắp lên ở ngưỡng cửa và cửa sổ, hô ứng với ý nghĩa của tên lễ hội, «một hàng đèn»."
 
 lang: "vi"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ festivalFacts:
   when: "Được ấn định theo lịch âm của Ấn Độ giáo (Tamil), thường vào tháng Mười hoặc tháng Mười một; ngày công bố thay đổi mỗi năm và được ghi chú là có thể thay đổi."
   holiday: "Là ngày nghỉ lễ công cộng liên bang được công bố, áp dụng ở mọi bang và Lãnh thổ Liên bang trừ Sarawak, nơi giữ lịch nghỉ lễ công cộng riêng của mình."
   etiquette: "Khách được chào đón tại các nhà mở cửa; hãy ăn mặc kín đáo, cởi giày trước khi vào nhà hoặc đền, và một món quà nhỏ là bánh kẹo ngọt là cử chỉ theo thông lệ."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'Một hình kolam con công đầy màu sắc làm từ bột màu, viền trắng bao quanh và điểm xuyết những ngọn đèn dầu đất nung nhỏ thắp sáng, dịp Deepavali ở Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: Những dãy đèn lồng trang trí Deepavali màu vàng tươi treo trên khu sảnh đông đúc hành khách tại ga KL Sentral ở Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Đèn lồng Deepavali treo lủng lẳng và dòng người tấp nập tại ga KL Sentral
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: Một bức kolam hình công khổng lồ với màu sắc rực rỡ được rắc bằng bột màu trên nền sàn bóng loáng của ga KL Sentral mừng Deepavali
+    kind: actual
+    origin: third-party
+    subject: Bức kolam sàn lớn hình công tại ga KL Sentral mừng Deepavali
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 Trong một đêm, ngọn đèn cất lời. Từng hàng đèn đất sét nhỏ được xếp dọc theo ngưỡng cửa và bệ cửa sổ, một hoa văn trên nền bằng gạo màu hoặc bột được vẽ ở lối vào, và một ngôi nhà tối đen cách đó một giờ nay được viền quanh bằng ngọn lửa. Đó là nơi lễ hội có tên gọi của mình: *Deepavali* đến từ tiếng Phạn nghĩa là «một hàng hoặc một chuỗi đèn».

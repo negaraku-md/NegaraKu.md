@@ -35,7 +35,7 @@ verificationNeeded:
   - "Confirm current MRT Kajang Line length/station count directly with MRT Corp or Rapid Rail before publication — Ministry of Transport and Rapid Rail's own line page give slightly different figures (51km/31 stations vs 46km/29 stations), which this article has avoided repeating verbatim pending reconciliation."
 
 lang: "hi"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["क्लांग वैली रेल", "Rapid KL", "MRT Kajang लाइन", "MRT Putrajaya लाइन", "LRT Kelana Jaya लाइन", "KL मोनोरेल", "KTM Komuter", "Shah Alam लाइन", "LRT3", "KL Sentral", "बिना कार के कुआलालंपुर में घूमना", "Klang Valley rail"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'एक नाटकीय आसमान के सामने एक ऊँचे वायाडक्ट पर एक चिकनी लाल-सफ़ेद MRT Putrajaya Line ट्रेन — आधुनिक क्लांग घाटी मेट्रो'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: साफ़ आधुनिक भूमिगत MRT प्लेटफ़ॉर्म (Tun Razak Exchange), प्लेटफ़ॉर्म-स्क्रीन दरवाज़े और ट्रेन-आगमन डिस्प्ले के साथ — स्टेशन-भीतरी दृश्य। कोई पहचान योग्य चेहरा नहीं
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: KL Monorail ट्रेन एक मस्जिद और शहर की क्षितिज-रेखा के पास अपने ऊँचे गाइडवे पर मुड़ती हुई — एक दूसरा रेल मोड और Klang Valley संदर्भ जोड़ती है
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 क्लांग वैली का रेल नक्शा पहली बार देखें तो वह वर्णमाला के सूप जैसा लगता है — MRT, LRT, KTM, ERL, एक गुलाबी मोनोरेल लाइन, और मध्य-2026 से एक बिल्कुल नई Shah Alam लाइन जो इन सबके बीच पिरोई हुई है। सहज प्रवृत्ति यही होती है कि इसे रंगों की एक उलझन-भरी संख्या वाली एक ही ट्रेन प्रणाली मान लिया जाए। लेकिन यह वैसी नहीं है। ये तीन अलग-अलग नेटवर्क हैं, जिन्हें तीन अलग-अलग कंपनियाँ चलाती हैं, और जो मुट्ठी भर साझा स्टेशनों पर एक-दूसरे का रास्ता काटते हैं। एक बार जब आप जान जाते हैं कि कौन-सी कंपनी क्या चलाती है — और पैदल-चलने-योग्य मुफ़्त ट्रांसफ़र असल में कहाँ हैं — तो बिना कार के कुआलालंपुर में घूमना डरावना रहना बंद हो जाता है और रोज़मर्रा की बात बन जाता है।

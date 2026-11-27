@@ -74,9 +74,36 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Awan rendah dan kabus berarak di atas bukit berhutan hujan hijau padat di atas tasik tenang di Royal Belum, Perak'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: Pelepah palma disinari matahari dan tumbuhan bawah menghijau padat di sepanjang denai teduh dalam hutan hujan dara Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Tumbuhan bawah palma dan sarap daun di dasar hutan hujan dara di Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: Bukit-bukau berselimut hutan hujan tropika padat pudar menjadi jerebu biru di bawah langit mendung, dilihat dari Bukit Terisek di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Bukit berhutan Taman Negara yang tidak terputus dilihat dari Bukit Terisek
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Sekeping tanah berhutan di Malaysia bukan "dilindungi" hanya kerana ia dipenuhi pokok — perlindungannya bermula pada hari nama tanah itu tersiar dalam Warta. Tanpa pewartaan itu, hutan yang sama boleh diberi lesen untuk pembangunan pada bila-bila masa. Inilah asas seluruh sistem Hutan Simpanan Kekal (HSK) Malaysia.

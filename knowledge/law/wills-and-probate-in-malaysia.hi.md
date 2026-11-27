@@ -87,7 +87,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
-related: []
+related: ["faraid-and-islamic-inheritance", "law-reform-marriage-and-divorce-act-1976", "property-inheritance-faraid-distribution"]
 keywords: ["वसीयत", "प्रोबेट", "संपत्ति-उत्तराधिकार", "पुसाका", "डिस्ट्रिब्यूशन एक्ट 1958", "विल्स एक्ट 1959", "प्रशासन-पत्र", "गैर-मुस्लिम", "Distribution Act 1958", "Wills Act 1959", "Probate and Administration Act 1959", "probate", "wills"]
 framework: explainer
 ---

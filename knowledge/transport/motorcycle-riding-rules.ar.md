@@ -29,7 +29,7 @@ faq:
     a: "حتى تاريخ النشر، لا يوجد قيد ساري المفعول على سعة المحرك؛ ولم تتحول بعد إلى قانون المقترحات الرامية إلى تقييد الوصول إلى الطرق السريعة بحسب سعة المحرك."
 
 lang: "ar"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,9 +77,35 @@ sources:
 
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
-related: []
+related: ["road-transport-act-1987", "road-safety-in-malaysia", "road-transport-department-jpj"]
 keywords: ["قواعد الدراجات النارية ماليزيا", "مسار الدراجات النارية", "Lebuhraya Persekutuan", "الخوذة", "المادة 79(2)", "Section 79(2)", "دراجات نارية طريق سريع", "MS 1", "سعة المحرك"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'سائق يرتدي خوذة على دراجة نارية من نوع أندربون مزودة بصندوق توصيل ينتظر عند مفترق طرق في غيلوغور، بينانغ.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: مسار منفصل للدراجات النارية يمتد بمحاذاة الطريق الرئيسي قرب ساحة رسوم Sungai Petani Utara في Kedah.
+    kind: actual
+    origin: third-party
+    subject: مسار مخصّص للدراجات النارية قرب محطة رسوم Sungai Petani Utara، Kedah
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: صف من الدراجات النارية والسكوترات متوقفة على طول شارع في Little India، George Town، بما يعكس الاستخدام الكثيف للمركبات ذات العجلتين في ماليزيا.
+    kind: representative
+    origin: third-party
+    subject: دراجات نارية وسكوترات مصطفّة على طول شارع في George Town، Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 تدخل بدراجتك النارية إلى الطريق الفيدرالي (Federal Highway)، فترى لافتة «مسار الدراجات النارية» تتفرّع إلى اليسار — وتتساءل هل أنت مُلزَم باتباعها أم يجوز لك البقاء على الطريق الرئيسي. والجواب يتوقف على كلمة واحدة: *الصدور بالجريدة الرسمية*.

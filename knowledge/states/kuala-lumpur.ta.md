@@ -33,7 +33,7 @@ verificationNeeded:
   - "வெளியீட்டிற்கு முன், கோலாலம்பூர் மற்றும் Greater Kuala Lumpur மக்கள்தொகை புள்ளிவிவரங்களையும், தனிநபர் GDP தரவரிசையையும் சமீபத்திய DOSM வெளியீடுகளுக்கு எதிராக உறுதிப்படுத்தவும்."
 
 lang: "ta"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'Kuala Lumpur-ல் பொன் அந்தி வானத்திற்கு எதிரே, KLCC பகுதி வானோரத்திற்கு மேல் உயரும் ஒளிரும் Petronas Twin Towers'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: ஊசி-உச்சி கொண்ட KL Tower மற்றும் கொத்தான உயர்-மாடிக் கட்டிடங்களுடன் கூடிய Kuala Lumpur வானளாவிய காட்சியின் அகன்ற பார்வை, பெரிய வெள்ளை மேகங்களுக்குக் கீழே மற்றும் முன்னணியில் பச்சை பூங்காவுடன்
+    kind: actual
+    origin: third-party
+    subject: பிரகாசமான மேகமூட்டமான வானத்தின் கீழ் KL Tower-உடன் கூடிய Kuala Lumpur நகர வானளாவிய பரந்த காட்சி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: மத்திய Kuala Lumpur-இல் உயரமான கடிகார கோபுரம் மற்றும் பளபளக்கும் செப்பு குவிமாடத்துடன் கூடிய மூரிஷ்-பாணி Sultan Abdul Samad கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: மத்திய Kuala Lumpur-இல் அதன் செப்பு-குவிமாட கடிகார கோபுரத்துடன் காலனித்துவ காலத்து Sultan Abdul Samad கட்டிடம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 கோலாலம்பூர் (Kuala Lumpur) மலேசியாவின் தேசியத் தலைநகரம், ஆனால் அரசியலமைப்பு

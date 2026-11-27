@@ -35,7 +35,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["عربون الكلية ماليزيا", "التحقق من اعتماد MQA", "MQR mqr.gov.my", "هل مساقي معتمد", "سياسة استرداد الكلية ماليزيا", "جهة منح التوأمة 3+0", "جامعة خاصة ماليزيا IPTS", "Act 555", "قبل دفع رسوم الكلية"]
 framework: how-to
+stayFacts:
+  who: 'هذا موجَّه إلى الطلاب وأولياء الأمور الذين بيدهم عرض قبول من كلية وهم على وشك دفع عربون أو رسم تسجيل — وهو غالباً أوّل مبلغ يُلتزَم به، وكثيراً ما يكون غير قابل للاسترداد.'
+  how: 'قبل الدفع، تحقّق كتابةً من خمسة أمور: أن البرنامج المحدد مدرَج في السجلّ الماليزي للمؤهّلات (MQR)؛ وأن المؤسسة مزوّد مسجَّل (مؤسسة IPTS بموجب Private Higher Educational Institutions Act 1996 (Act 555)، أو جامعة عامة أو حرم فرعي معترف به)؛ وفي برنامج التوأمة (twinning) أو برنامج 3+0، مَن يمنح الشهادة النهائية؛ وجدول الرسوم الكامل مكتوباً للبرنامج بأكمله؛ وبند الاسترداد والانسحاب.'
+  cost: 'العربون ليس إلّا جزءاً — اطلب جدول الرسوم الكامل مكتوباً للبرنامج بأكمله (التسجيل، والرسوم الدراسية لكل فصل، ورسوم الموارد، والامتحانات، والتأمين، ورسوم الطلاب الدوليين)، لا السنة الأولى فحسب، وتأكّد مما يُحتسَب العربون مقابله.'
+  watch: 'كثيراً ما تكون العرابين غير قابلة للاسترداد، ولا يوجد حق قانوني وطني في مهلة تراجُع (cooling-off) — فما يمكنك استرداده تحدّده السياسة المكتوبة للمؤسسة نفسها. و«ضمان الانتقال إلى السنة الثالثة» قرار يعود للجامعة الشريكة لا للكلية المحلية؛ فاحصل عليه كتابةً.'
+  next: 'اطرح كل استفسار على المؤسسة كتابةً واحتفظ بالردود قبل أن يغادر أي مبلغ حسابك؛ وتحقّق من البرنامج المحدد في السجلّ الماليزي للمؤهّلات (MQR) أوّلاً. راجع شرح اعتماد MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'أبراج حرم جامعة تايلورز ليكسايد منعكسةً في بحيرة عند الغسق، مع لافتة حمراء كُتب عليها "TAYLOR''S UNI" على المبنى الرئيسي.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: الواجهة الزجاجية لـ RCSI and UCD Malaysia Campus، وهي جامعة خاصة من النوع الذي يطلب من الطلاب الجدد دفع عربون التسجيل.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC)، بينانغ
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: مبنى تدريس حديث في حرم Sunway University، وهي مؤسسة خاصة يوازن فيها المتقدمون بين الرسوم والعرابين قبل الالتزام.
+    kind: actual
+    origin: third-party
+    subject: مبنى حرم Sunway University، بندر صنواي
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 العربون عادةً هو أول مبلغ تسلِّمه الأسرة للكلية — وبمجرد دفعه، كثيرًا ما يكون

@@ -34,7 +34,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["premier pasar malam", "comment pasar malam", "guide pasar malam Malaisie", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam halal", "marché de nuit Malaisie comment commander", "places assises pasar malam", "sécurité alimentaire pasar malam"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'Un vendeur servant un client à un étal de marché nocturne (pasar malam) vivement éclairé, des vitrines pleines d''en-cas frits et de tofu avec des étiquettes de prix manuscrites'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: Brochettes en bambou de grignotines grillées et glacées grésillant et fumant sur une plaque chaude noire à un étal de marché nocturne
+    kind: actual
+    origin: third-party
+    subject: brochettes de grignotines grillées façon satay fumant sur une plaque chaude à un marché nocturne
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 La première fois dans un pasar malam peut être déroutante : un fleuve compact et

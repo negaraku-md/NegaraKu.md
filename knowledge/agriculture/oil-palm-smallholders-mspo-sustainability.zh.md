@@ -32,7 +32,7 @@ faq:
     a: "欧盟《零毁林法规》（EUDR）将产品定义为'零毁林'的条件是：种植于 2020 年 12 月 31 日之后未遭毁林的土地（法规 (EU) 2023/1115 第 2 条）。它要求提供地块级别的地理定位——对于面积超过 4 公顷的地块需进行多边形测绘，面积为 4 公顷或以下的地块则允许使用单个 GPS 点——而对于地处偏远、往往年事已高的小农来说，靠自己完成这项工作在技术上十分困难。"
 
 lang: "zh"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: '马来西亚丰盛港一片覆盖起伏地势的年轻油棕种植园。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: 沙巴丹南县,一名油棕园收割工肩扛长镰杆穿行于成熟的油棕之间,地上放着一串刚割下的鲜果串
+    kind: actual
+    origin: third-party
+    subject: 沙巴丹南一名种植园工人在成熟油棕间扛着收割杆
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: 沙巴基马尼斯园丘一棵油棕树冠处,红中带色的鲜果串逐渐成熟的特写
+    kind: actual
+    origin: third-party
+    subject: 沙巴基马尼斯园丘一棵油棕上成熟中的鲜果串
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 一位民都鲁（Bintulu）的农民能凭记忆走遍自己油棕地块的每一处边界，如今却必须把这些"脑中地图"转化为 GPS 多边形，欧洲的买家才愿意接手他的果实。这道鸿沟——在了解自己的土地与将其记录到令审计员满意之间——正是马来西亚小农棕榈油经济背后那段无声的故事。

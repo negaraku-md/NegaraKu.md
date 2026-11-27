@@ -35,7 +35,7 @@ faq:
     a: "Sipadan ditutup setiap November untuk pemulihan terumbu, jadi rancang perjalanan menyelam antara Disember dan Oktober. Di tempat lain, bulan-bulan Monsun Timur Laut yang lebih lembap (kira-kira November hingga Mac) membawa lebih banyak hujan ke Borneo."
 
 lang: "ms"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara yang mengutamakan alam semula jadi dan mencari pengalaman utama Borneo — mendaki Mount Kinabalu, menyelam terumbu terlindung Sipadan, dan melihat orangutan serta hidupan liar sungai di sekitar Sandakan.'
+  getThere: 'Terbang ke Kota Kinabalu International Airport, pintu masuk udara utama Sabah, kemudian naik penerbangan domestik singkat seterusnya ke Sandakan, Tawau dan wilayah menyelam.'
+  permit: 'Sabah mengawal imigresennya sendiri di bawah Perjanjian Malaysia 1963, jadi setiap ketibaan — termasuk rakyat Malaysia yang terbang masuk dari Semenanjung — melepasi pusat pemeriksaan dan menerima pas lawatan, manakala pendakian Mount Kinabalu dan penyelaman Sipadan masing-masing dikawal oleh permit Sabah Parks yang terhad.'
+  watch: 'Tempah tarikan utama yang terhad dan dikawal permit itu jauh lebih awal dan rancang mengikut penutupan tahunan Sipadan pada bulan November untuk pemulihan terumbu, kerana bahagian-bahagian ini habis dijual dan tidak boleh diperoleh ketika ketibaan.'
+  next: 'Sahkan peraturan kemasukan, pas lawatan dan permit semasa dengan Jabatan Imigresen Malaysia dan Sabah Parks sebelum anda mengembara.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'Puncak granit St. John''s Peak di Gunung Kinabalu bercahaya merah jambu pada waktu subuh di atas lautan awan'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Pandangan dekat monyet belanda berbulu keemasan pucat dan hidung panjang berlatar hutan hijau kabur di Labuk Bay, Sabah
+    kind: actual
+    origin: third-party
+    subject: Monyet belanda, endemik Borneo, dirakam di Labuk Bay di Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Matahari terbenam jingga menyala di atas laut di Kota Kinabalu, dengan siluet bot nelayan dan sebuah pulau di kaki langit
+    kind: actual
+    origin: third-party
+    subject: Matahari terbenam keemasan di atas perairan Kota Kinabalu dengan siluet bot nelayan di laut dan pulau di kaki langit
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 Anda boleh terbang dari Kuala Lumpur ke Kota Kinabalu tanpa meninggalkan negara ini dan tetap beratur di kaunter imigresen semasa mendarat. Kejutan itu menimpa ramai pelawat kali pertama — dan ia merupakan perkara paling penting untuk difahami sebelum anda merancang perjalanan ke Sabah. Panduan ini menerangkan pintu masuk, tarikan utama, dan peraturan masuk yang menjadikan Sabah seolah-olah tempat tersendiri, kerana dalam satu erti kata yang sangat nyata, memang begitulah keadaannya.

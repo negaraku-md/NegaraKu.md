@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया प्लास्टिक प्रदूषण के बारे में क्या कर रहा है?
     a: पर्यावरण मंत्रालय के नेतृत्व में Malaysia Plastics Sustainability Roadmap 2021–2030, समस्याग्रस्त एकल-उपयोग प्लास्टिक को चरणबद्ध रूप से समाप्त करने, पुनर्चक्रण दर और पुनर्चक्रित सामग्री बढ़ाने, और प्लास्टिक पैकेजिंग को पुनर्चक्रण-योग्य बनाने के लक्ष्य तय करता है। यह एक Extended Producer Responsibility (EPR) योजना भी शुरू करता है जो उत्पादकों को संग्रह और पुनर्चक्रण के वित्तपोषण में मदद करने के लिए बाध्य करती है।
 lang: hi
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'एक कारखाने में रोबोट भुजा से लैस एक इंजेक्शन-मोल्डिंग मशीन, जो ताजे ढाले गए प्लास्टिक ट्रे को कन्वेयर पर रखती है।'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: ऊपर एक फ़नल के आकार का हॉपर और एक लंबी क्षैतिज गर्म बैरल, जिस पर तारें लिपटी हैं, वाली एक हरी और क्रीम रंग की औद्योगिक एक्सट्रूज़न मशीन, जो नीली और सफ़ेद कारखाने की दीवार के सामने दाईं ओर चलती है।
+    kind: representative
+    origin: third-party
+    subject: एक फ़ीड हॉपर और गर्म बैरल वाली एक प्लास्टिक एक्सट्रूज़न लाइन जो निरंतर प्लास्टिक स्टॉक बनाती है, प्लास्टिक और पैकेजिंग उद्योग की एक मुख्य प्रक्रिया
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: चपटी पारदर्शी प्लास्टिक बोतलों के बड़े घनाकार गट्ठर, रंगीन ढक्कनों और लेबलों से चितकबरे, टार की सड़क पर एक जंग लगे धातु के डिब्बे के बगल में दो और तीन ऊँचे ढेर किए गए, पीछे पेड़ और धूसर आकाश।
+    kind: representative
+    origin: third-party
+    subject: नए प्लास्टिक फ़ीडस्टॉक में पुनर्चक्रण के लिए ढेर किए गए कुचली हुई पारदर्शी PET पेय बोतलों के कसकर दबाए गए गट्ठर
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 मलेशियाई फ़ैक्टरी से निकलने वाला लगभग हर भौतिक उत्पाद — इंस्टेंट नूडल्स का एक पैकेट, एक स्मार्टफ़ोन, एक कार बंपर, पानी के पाइप का एक टुकड़ा — उस प्लास्टिक पर निर्भर करता है जिसे देश में कहीं आकार दिया गया था। प्लास्टिक मलेशिया की शांत औद्योगिक शक्तियों में से एक है: अर्धचालकों से कम आकर्षक, लेकिन लगभग हर दूसरे विनिर्माण क्षेत्र में बुना हुआ और, बढ़ते हुए, अपशिष्ट तथा स्थिरता के बारे में राष्ट्रीय बहस में।

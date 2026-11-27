@@ -70,6 +70,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "drapeau de la Malaisie", "14 bandes", "étoile à 14 branches", "croissant de lune", "Mohamed bin Hamzah", "signification des couleurs du drapeau de la Malaisie"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'Le drapeau malaisien à rayures rouges et blanches, son canton bleu portant un croissant jaune et une étoile à quatorze branches, flotte entièrement déployé au sommet d''un haut mât blanc sur un ciel bleu.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jalur Gemilang : pourquoi 14 bandes pour 13 États

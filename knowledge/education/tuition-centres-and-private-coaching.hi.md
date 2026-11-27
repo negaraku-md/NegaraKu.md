@@ -65,7 +65,7 @@ relations:
   - { rel: "governs", to: "education-act-1996" }
   - { rel: "administered-by", to: "ministry-of-education" }
   - { rel: "related-to", to: "national-education-system" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "international-schools"]
 keywords: ["pusat tuisyen", "ट्यूशन केंद्र", "tuition centre", "निजी कोचिंग", "Akta Pendidikan 1996", "IPS पंजीकरण", "permit mengajar", "JPN"]
 framework: rules
 ---

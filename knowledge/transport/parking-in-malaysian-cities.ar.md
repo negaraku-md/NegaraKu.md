@@ -29,7 +29,7 @@ faq:
     a: "لا. تصدر الغرامات التصالحية لركن السيارات عن السلطات المحلية (PBT) بموجب أوامر المرور على الطرق المتعلقة بالركن، بينما تصدر مخالفات المرور الخاصة بمخالفات القيادة عن الشرطة الماليزية (PDRM) أو دائرة النقل البري (JPJ)."
 
 lang: "ar"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ entity: "Letak kereta bandar (PBT) Malaysia"
 relations:
   - { rel: "administered-by", to: "dewan-bandaraya-kuala-lumpur" }
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
-related: []
+related: ["local-government-councils", "cycling-and-walkability", "e-hailing-grab"]
 keywords: ["ركن السيارات", "e-parking", "غرامة ركن السيارات التصالحية", "DBKL", "Smart Selangor Parking", "EZ Smart Park", "letak kereta"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'عداد وقوف سيارات مزدوج أخضر يعمل بالعملات المعدنية وعليه تعليمات بالماليزية يقف بجوار بوابة حديدية حمراء في شارع بجورج تاون، بينانغ.'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: مبنى موقف سيارات خرساني مرتفع متعدد الطوابق بطوابق مواقف مفتوحة ذات واجهات شبكية مكدّسة فوق عدة طوابق، يُرى من الشارع في ضاحية ماليزية
+    kind: actual
+    origin: third-party
+    subject: مبنى موقف سيارات متعدد الطوابق في Taman Segar، Cheras، Kuala Lumpur
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: عدة لافتات معدنية لمنع الوقوف وإشعارات جانب الطريق مثبّتة متقاربة على أعمدة أمام جدار متهالك على طول شارع في George Town
+    kind: actual
+    origin: third-party
+    subject: مجموعة من لافتات منع الوقوف والوقوف على جانب الطريق في شارع في George Town، Penang
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 تنقّب في سيارتك عن قطع نقدية لجهاز التذاكر — لكن تلك الأجهزة اختفت منذ عام 2020. فركن السيارات في المدن الكبرى بماليزيا يبدأ الآن بهاتف ذكي، لا بجرّة من القطع النقدية على جانب الطريق.

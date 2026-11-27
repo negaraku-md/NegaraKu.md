@@ -29,7 +29,7 @@ faq:
     a: "من بينها معدل إعادة تدوير للعبوات البلاستيكية نسبته 25% بحلول 2025، ومعدل جمع لإعادة التدوير (CFR) متوسطه 76% بحلول 2030، ومحتوى معاد تدويره متوسطه 15% بحلول 2030. ويُستهدف بلوغ معدل إعادة تدوير 100% بحلول 2050."
 
 lang: "ar"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["البلاستيك ذو الاستخدام الواحد", "رسم الكيس البلاستيكي", "التلوث البلاستيكي", "خارطة طريق البلاستيك ماليزيا", "استدامة البلاستيك 2021-2030", "single-use plastics", "plastic bag charge"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'زجاجات بلاستيكية مهملة ونفايات أخرى متناثرة على رمال شاطئ بجانب البحر.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: نفايات بلاستيكية وركام بحري يتجمّع على طول خطّ المدّ على شاطئ
+    kind: representative
+    origin: third-party
+    subject: نفايات بلاستيكية بحرية جرفتها المياه إلى شاطئ (صورة توضيحية)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: زجاجات بلاستيكية مستعملة مجموعة في نقطة تجميع لإرسالها لإعادة التدوير
+    kind: representative
+    origin: third-party
+    subject: نقطة تجميع للزجاجات البلاستيكية لإعادة التدوير (صورة توضيحية)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 الأكياس البلاستيكية الرقيقة عند صندوق الدفع تُستخدم عادةً للحظة واحدة فقط، ومع ذلك يمكن أن تبقى في البيئة مدة طويلة جداً. ولمعالجة هذه المسألة، لم تختر ماليزيا حظراً واحداً شاملاً وفورياً — بل تعتمد خارطة طريق متدرجة تتحرك من رسوم صغيرة إلى حظر أوسع.

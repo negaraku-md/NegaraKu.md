@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามเข้าใจว่าเหตุใดสภาพอากาศและความเสี่ยงน้ำท่วมของมาเลเซียจึงเปลี่ยนไปตามฤดูกาล คือ ผู้อยู่อาศัยในพื้นที่ชายฝั่ง นักท่องเที่ยว นักวางแผนภัยพิบัติ นักเรียนภูมิศาสตร์ และผู้ที่ตรวจสอบคำเตือนสภาพอากาศของ MetMalaysia"
 
 lang: "th"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ faq:
   - q: มรสุมตะวันออกเฉียงเหนือรุนแรงเท่ากันตลอดช่วงเดือนพฤศจิกายนถึงมีนาคมหรือไม่?
     a: ไม่ใช่ ข้อมูลทางการของสภาความมั่นคงแห่งชาติ (MKN) สำหรับฤดูกาล 2024/2025 แสดงให้เห็นว่าพื้นที่เสี่ยงสูงสุดเปลี่ยนไปตามระยะ ในระยะแรก (พฤศจิกายน–ธันวาคม) กลันตัน ตรังกานู ปาหัง ยะโฮร์ ซาราวัก และซาบาห์ ได้รับผลกระทบ ในระยะหลัง (มกราคม–กุมภาพันธ์) จุดเน้นเปลี่ยนไปที่ปาหัง ยะโฮร์ ซาราวัก และซาบาห์ — กลันตันและตรังกานูไม่ถูกจัดอยู่ในพื้นที่เสี่ยงสูงสุดอีกต่อไป คาดว่าตลอดฤดูกาลจะมีฝนตกหนัก 5 ถึง 7 ครั้ง
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'ฝนที่ลมพัดกระหน่ำซัดใส่กลุ่มต้นปาล์มที่โน้มเอนอยู่เหนือลานเมืองร้างผู้คนและเปียกลื่น ใบปาล์มสะบัดปลิวไปด้านข้างใต้ท้องฟ้าสีเทาตะกั่ว ขณะที่ตึกสูงเลือนหายไปในสายฝนที่เทกระหน่ำ'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: รถยนต์คันหนึ่งสาดน้ำกระเซ็นขณะขับผ่านน้ำท่วมสีน้ำตาลที่ท่วมถนนในเมืองระหว่างฝนตกหนักในเขตร้อน
+    kind: actual
+    origin: third-party
+    subject: ฝนตกหนักจนท่วมถนนราจาชูลัน กรุงกัวลาลัมเปอร์
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: สายฝนกระหน่ำลงบนตรอกในหมู่บ้านที่จมอยู่ใต้น้ำท่วมขุ่น โดยมีต้นกล้วยและเสาไฟฟ้ายืนอยู่ในน้ำ
+    kind: actual
+    origin: third-party
+    subject: น้ำท่วมจากมรสุมท่วมถนนในหมู่บ้านที่เมืองซันดากัน รัฐซาบะฮ์
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 ทุกเดือนพฤศจิกายน ก่อนตรวจข่าว ผู้อยู่อาศัยในโกตาบารู (Kota Bharu) กัวลาตรังกานู (Kuala Terengganu) และกวนตัน (Kuantan) จำนวนมากเริ่มตรวจระดับน้ำในแม่น้ำใกล้บ้านของตน นี่ไม่ใช่นิสัยที่เกิดจากภัยพิบัติที่ไม่คาดคิด มันเป็นตารางที่คาดเดาได้ เกิดซ้ำทุกปี และสาเหตุของมันคือระบบลมตามฤดูกาลเดียวกันที่กำหนดว่าเมื่อใดชายฝั่งตะวันตกของคาบสมุทรจะแล้ง

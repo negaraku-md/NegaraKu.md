@@ -106,6 +106,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'Pandangan udara benteng kelabu lebar Empangan Bakun bertanda BAKUN, saluran limpahnya yang panjang dan rumah janakuasa di tepi sungai, berlatar takungan luas dan bukit berhutan Sarawak'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'Dalam rumah jana kuasa Empangan Murum: barisan unit penjana hidro berbentuk silinder biru bernombor 1 dan 2 berdiri di lantai berkilat di bawah dewan tinggi dengan kren gantung kuning'
+    kind: actual
+    origin: third-party
+    subject: pedalaman rumah jana kuasa Empangan Murum menunjukkan unit penjana hidroelektrik
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: Dinding konkrit Empangan Murum dan dua pelimpah kembar menahan takungan, dilihat dari jauh merentasi bukit hutan hujan Sarawak yang menghijau
+    kind: actual
+    origin: third-party
+    subject: empangan hidroelektrik Murum di Sarawak dilihat merentasi bukit berhutan
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 Air yang mengalir turun dari banjaran hujan Borneo kini memutar turbin yang membekalkan kilang aluminium — dan itulah teras strategi tenaga boleh baharu Malaysia. Namun jalan menuju ke situ ditandai empangan mega, tasik seluas ratusan kilometer persegi, dan ribuan keluarga peribumi yang terpaksa berpindah.

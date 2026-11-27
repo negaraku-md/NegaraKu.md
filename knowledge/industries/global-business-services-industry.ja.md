@@ -31,7 +31,7 @@ faq:
   - q: マレーシアはGBS投資家にどのような優遇措置を提供していますか。
     a: 主な経路はMDECが運営するMalaysia Digital（MD）ステータスで、承認されたデジタル・サービス活動に税優遇を解放できます。2024年、MDECは二つの成果連動型制度――New Investment IncentiveとExpansion Incentive――を導入し、2027年まで申請を受け付けています。条件は変わるため、現行の適格要件をMDECまたは税務アドバイザーに確認してください。
 lang: ja
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - Malaysia Digital
   - offshoring
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'マレーシアのサイバージャヤにある近代的な企業オフィスビル。サイバージャヤはマレーシアの技術とグローバル・ビジネス・サービスの主要拠点の一つである。'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: マレーシア・スランゴール州のサイバージャヤ・ビジネスパークにある、現代的なガラスとコンクリート造の中層企業オフィスビル。
+    kind: representative
+    origin: third-party
+    subject: マレーシアのグローバルサービス拠点サイバージャヤの企業オフィスビル
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: 非常に大きなオープンプランのコールセンターフロアで、コンピューターの作業席に並ぶオペレーターたち。
+    kind: representative
+    origin: third-party
+    subject: 大規模なコールセンターのオフィスフロア（シェアードサービス／BPO職場の代表例）
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 いまこの瞬間、Cyberjayaかクアラルンプールのどこかで、一人の会計士がロンドンに本社を置く企業の月次決算を締め、ヘルプデスクの担当者がシドニーの顧客のチケットを解決し、データアナリストがドイツの工場向けのダッシュボードを作っている。これらの雇用主のいずれも、マレーシアで何かを製造しているわけではない。彼らがここで運営しているのは、より目立たないが、ますます価値を増すもの――グローバルなバックオフィスである。

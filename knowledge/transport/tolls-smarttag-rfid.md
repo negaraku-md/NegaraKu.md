@@ -76,6 +76,32 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'Sebuah kereta melintas pada waktu malam di bawah dua papan tanda lorong SmartTAG kuning bercahaya di plaza tol lebuhraya Malaysia.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: Plaza tol lebuh raya yang luas dilihat pada waktu siang, dengan sebaris pondok tol dan kanopi lorong di atas yang merentasi beberapa lorong pembayaran
+    kind: actual
+    origin: third-party
+    subject: plaza tol lebuh raya pada waktu siang dengan berbilang lorong dan pondok berhampiran Ipoh, Perak
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: Lorong keluar plaza tol yang ditanda untuk bayaran RFID, dengan palang lorong dan gantri pembaca di atas jalan berhampiran Kota Damansara
+    kind: actual
+    origin: third-party
+    subject: lorong keluar RFID di Plaza Tol Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 Kereta di depan anda di lorong RFID berhenti mengejut kerana pelekat pada lampu utamanya tidak dikesan — padahal ramai orang menyangka RFID bermakna "tidak perlu buat apa-apa langsung." Kenyataannya, Malaysia kini menjalankan sekurang-kurangnya empat generasi teknologi tol serentak di lebuh raya yang berbeza, dan mengelirukan satu dengan yang lain punca biasa kereta tersekat di gerbang.

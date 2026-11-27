@@ -49,6 +49,7 @@ relations:
 related: ["sdn-bhd", "companies-act-2016", "register-sdn-bhd"]
 keywords: ["capital libéré Malaisie", "paid-up capital Malaysia", "modal berbayar", "share capital Sdn Bhd", "capitalisation d'une société"]
 framework: explainer
+wikidata: "Q7124665"
 ---
 
 **Bahasa Malaysia:** Modal Berbayar · **English:** Paid-up Capital · **中文:** 实缴资本

@@ -28,7 +28,7 @@ faq:
   - q: "DOF는 어떤 법을 관장합니까?"
     a: "주된 법령은 수산법 1985(Fisheries Act 1985, Act 317)로, 말레이시아 수역에서의 어로 및 수산업의 보전, 관리, 개발을 다루며, 허가, 양식, 수생 포유류와 거북을 포함합니다."
 lang: "ko"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: '말레이시아 산다칸의 원형 어시장 건물과 그 옆 부두에 정박한 어선들.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: 파항주 쿠안탄의 수산단지에서 정박한 어선 옆에 신선한 생선을 상자에 담아 분류하는 작업자들
+    kind: actual
+    origin: third-party
+    subject: 파항주 쿠안탄의 어획물 하역장에서 당일 어획물을 분류하는 작업자
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: 사바주 쿠알라페뉴, 맹그로브로 둘러싸인 시톰폭강에 정박한 대형 부유식 새우 양식 가두리 플랫폼
+    kind: actual
+    origin: third-party
+    subject: 사바주 시톰폭강 맹그로브 하천에 떠 있는 새우 양식 가두리
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 말레이시아 수역에서 합법적으로 그물을 던지는 모든 배는 결국 하나의 기관에 답합니다. **말레이시아 수산청(DOF)** — *Jabatan Perikanan Malaysia* — 은 국가의 해양 및 양식 자원을 관리하고 모든 어업 활동을 허가하는 연방 기구입니다. **농업식량안보부(MAFS)** 산하에서 운영되며, **수산법 1985(Fisheries Act 1985, Act 317)**를 관장하고, **수산청장(Director-General of Fisheries)**이 이끕니다. 본부는 푸트라자야(Putrajaya)의 Wisma Tani에 있으며, 주 및 구 사무소 네트워크가 이를 뒷받침합니다.

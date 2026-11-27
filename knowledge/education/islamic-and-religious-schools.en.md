@@ -29,7 +29,7 @@ faq:
     a: "Primary jurisdiction lies with the state Islamic religious departments/councils, because Islamic religious affairs are a state matter under the Constitution. JAKIM coordinates at the federal level, while building safety requirements involve the Local Authorities and the Fire Department."
 
 lang: "en"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'A line of students in blue baju kurung and black headscarves walking into Sekolah Menengah Agama Al-Maarif, a Malaysian religious secondary school, past coconut palms.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: The quiet exterior of a tahfiz school in Batu Pahat, Johor, where students board to memorise the Quran alongside their studies.
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: The modest building of a religious primary school (sekolah agama) in Peringgit, Melaka, where children take Islamic studies in the afternoon session.
+    kind: actual
+    origin: third-party
+    subject: Peringgit Religious Primary School, Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 A child in Malaysia might spend the morning at a national school, the afternoon in a mosque KAFA class, and their teenage years in a tahfiz dormitory — three different educational environments with different supervisors, curricula and laws. The Islamic religious education stream runs parallel to the national system, but it is not a single bloc. Understanding who registers what, and who is responsible for what, is the key to reading public debate on this topic fairly.

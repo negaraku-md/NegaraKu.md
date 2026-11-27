@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09b2906afbab7e08"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,11 +86,29 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'JPJ(陸上交通局)支局のサービスカウンター。ガラス張りのカウンターホールの上にJPJの紋章と「Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan」の看板'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: 黄色い文字で'Stesen Penguatkuasa Jabatan Pengangkutan Jalan'と記され、青いトラックの'Timbang'計量所の記号を添えた緑色のマレーシアの道路標識。JPJ取締りステーションへの方向を示す
+    kind: actual
+    origin: third-party
+    subject: トラックの計量所記号を添え'Stesen Penguatkuasa Jabatan Pengangkutan Jalan'と記されたJPJ取締りステーションへの案内道路標識
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 多くの人が**道路交通局**に出会うのは、たった一つの瞬間である——道路税を更新するとき、運転試験を受けるとき、あるいは中古車を移転するとき。しかし JPJ は、そうした取引の一つひとつの背後に立つ局である。**道路交通局**（*Jabatan Pengangkutan Jalan*、すなわち **JPJ**）はマレーシアの**運輸省（MOT）**傘下の機関である。自動車と運転者を登録し、運転免許、道路税、ナンバープレートを発行し、商用車両に免許を与え、車両と運転者が公道をどう使うかを定める法律を執行する。

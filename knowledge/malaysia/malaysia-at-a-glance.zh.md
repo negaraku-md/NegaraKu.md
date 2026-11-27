@@ -23,7 +23,7 @@ appliesTo: "任何需要马来西亚基本事实——人口、面积、首都�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -77,6 +77,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: '夜晚灯火通明的吉隆坡天际线，国家石油双子塔及周围的摩天大楼最为突出。'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: 一条热闹的夜市美食街在红灯笼的映照下流光溢彩，食客坐满了大排档旁的红色塑料桌，一旁还有一辆榴梿车。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡的亚罗街（Jalan Alor）夜市大排档美食街
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: 从一处山顶空地越过茂密的雨林树冠望去，连绵不绝的丛林覆盖的群山在阴云密布的天空下渐渐隐入蓝色的雾霭之中。
+    kind: actual
+    origin: third-party
+    subject: 从彭亨的德里塞山（Bukit Terisek）眺望国家公园（Taman Negara）的雨林群山
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 问「马来西亚有多大」或「马来西亚人口有多少」，你会得到不同的答案，视乎你打开的是哪个网站——有些引用2020年人口普查数字，有些引用已经过时两次修订的世界银行估计值。本页的目的正是要解决这个问题：以下每一个数字，都来自一个具名的官方发布，并附有日期，让你能清楚看到它有多新，也能自行核实。

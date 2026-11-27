@@ -78,6 +78,34 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'Sebuah keluarga Melayu bertiga tersenyum berpose di anjung rumah pada Hari Raya dengan pakaian kuning pucat sepadan, lelaki berbaju Melayu diapit dua wanita berbaju kurung dan bertudung'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: Satu perhimpunan besar lelaki Melayu yang duduk membaca al-Quran, setiap seorang memakai baju Melayu berlainan warna dan songkok baldu hitam, memenuhi dewan masjid bermaidani merah
+    kind: actual
+    origin: third-party
+    subject: deretan lelaki Melayu berbaju Melayu berwarna-warni dan bersongkok hitam pada majlis doa perkahwinan diraja di Selangor, Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: Seorang lelaki berdiri dengan latar putih memakai baju Melayu biru diraja berkolar cekak musang, songkok baldu hitam dan samping songket bunga biru berkilat yang dilipat di atas seluar
+    kind: actual
+    origin: third-party
+    subject: seorang lelaki memperagakan set baju Melayu lelaki yang lengkap, baju biru diraja yang dipakai dengan songkok hitam dan samping songket, dengan latar studio putih
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 Perhatikan seorang lelaki bersiap untuk hari raya atau majlis perkahwinan. Baju longgar sudah dipakai, seluar sudah masuk — tetapi dia belum selesai. Yang tinggal ialah dua benda yang menentukan sama ada dia kelihatan bersalin lengkap atau separuh jalan: sehelai kain samping yang dililit di pinggang, dan sebuah songkok di kepala. Tanpa dua benda itu, baju Melayu belum benar-benar baju Melayu.

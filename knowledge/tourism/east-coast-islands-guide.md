@@ -68,9 +68,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Beach-and-reef travellers — snorkellers and divers after marine-park island trips, from backpacker beaches to package resorts.'
+  getThere: 'Boat from each island''s own mainland jetty: Merang for Redang, Kuala Besut for Perhentian and Marang for Kapas in Terengganu, and Mersing or Tanjung Gemok for Tioman in Pahang.'
+  permit: 'A compulsory marine-park conservation charge, paid at a counter in the mainland jetty terminal before boarding and separate from your boat fare.'
+  watch: 'No single mandated closure, but most island operators shut voluntarily for the northeast monsoon, so near those months confirm boat transfers before paying.'
+  next: 'Confirm current conservation fees and marine-park rules with the Department of Fisheries Malaysia.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Empty white-sand beach with weathered granite boulders, a lone tree and turquoise shallows under a blue sky with cumulus clouds on the Perhentian Islands'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Broad white-sand beach curving toward a small forested rocky islet with turquoise water and palms on Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: The long white-sand beach of Pulau Redang with its offshore rocky islet and turquoise water, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Elevated view over rustic chalet rooftops and palms to a brilliant turquoise bay dotted with small boats and a forested headland on the Perhentian Islands
+    kind: actual
+    origin: third-party
+    subject: Elevated view over a beach village and its turquoise bay dotted with boats on the Perhentian Islands, a popular snorkelling base
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Turn up at a Redang beach resort in December and you will likely find the boats gone, the jetty quiet and the dive shop shuttered. The east-coast islands run on a calendar written by the sea, not the tourist brochure — and by a set of marine-park rules most first-timers only discover at the ticket counter.

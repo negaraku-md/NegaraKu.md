@@ -98,6 +98,7 @@ dishFacts:
   halal: "The traditional bowl is not halal: it is topped with fried minced pork and the broth is often deepened by simmering the anchovies with pork bones. Chilli pan mee can use minced chicken instead of pork, so check the individual stall."
   eat: "It comes two ways. The soup version serves the noodles and anchovy broth together in one bowl, warm and mild; the dry version keeps the broth on the side and tosses the noodles with a seasoning such as dark soy sauce, XO sauce or sambal. For chilli pan mee the poached egg is usually stirred through so the yolk coats the noodles, then diners add pounded dried-chilli flakes from a jar to taste."
   where: "You find it at coffee shops across central and southern Peninsular Malaysia, including Kuala Lumpur, Seremban and Ipoh, where a stall shapes the dough by hand. Chilli pan mee is often attributed in food media specifically to Restoran Kin Kin in Kuala Lumpur, though that precise attribution is not firmly documented."
+wikidata: "Q4856836"
 ---
 
 Walk into a coffee shop in Kuala Lumpur, Seremban or Ipoh and you will find a

@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'Đài tưởng niệm quốc gia Tugu Negara bằng đồng ở Kuala Lumpur, một nhóm tượng người lính giương cao lá cờ, đứng trên nền trời rộng mở.'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia tuyên bố Tình trạng Khẩn cấp cộng sản đầu tiên của mình kết thúc vào ngày 31 tháng 7 năm 1960 — rồi đối phó với một cuộc nổi dậy thứ hai trong phần lớn ba thập niên tiếp theo. Đạo quân du kích mà chính phủ đã đẩy ra rìa bán đảo đã không giải tán khi giao tranh được tuyên bố kết thúc. Nó rút qua biên giới Thái Lan, tập hợp lại ở đó, và tám năm sau nối lại các hoạt động.

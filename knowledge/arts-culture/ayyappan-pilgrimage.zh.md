@@ -32,7 +32,7 @@ faq:
   - q: "「Swamiye Saranam Ayyappa」是什么意思？"
     a: "这是阿雅帕神信仰最主要的皈依圣咏——意为将自身托付于神明，苦修者与朝圣者会不断诵念。它在苦修期间、朝圣途中以及颂赞中回响不绝。"
 lang: "zh"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: '夜晚灯火通明的阿雅潘（Ayyappan）印度教寺庙，有喀拉拉风格的层叠屋顶、金色灯光照亮的柱子，入口顶端有一座供奉该神祇的小神龛。'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: 身着黑衣、头缠布巾的朝圣者行走在通往沙巴里马拉（Sabarimala）的林间小径上
+    kind: representative
+    origin: third-party
+    subject: 身着黑衣的阿雅潘（Ayyappan）信徒徒步穿越林间小径，前往沙巴里马拉圣殿
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: 地面上以彩色粉末绘成的阿雅潘神大型图案（kalam），四周环绕点燃的黄铜油灯与花环，后方有一名盘坐的鼓手
+    kind: representative
+    origin: third-party
+    subject: 阿雅潘仪式地画（kalam），配以黄铜油灯与鼓手，是敬奉阿雅潘神的虔诚传统
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 在一年将尽的那几个月里，马来西亚许多城镇都会出现这样一幅景象：身着黑衣或蓝衣、颈上佩戴 rudraksha 念珠、留着胡须的男子彼此以「Swami」相称。他们是奉行阿雅帕苦修的人——其中许多人正准备前往喀拉拉邦的萨巴里马拉。本文以中立的方式描述这一信仰与苦修传统；既不阐释，也不评断任何信仰。

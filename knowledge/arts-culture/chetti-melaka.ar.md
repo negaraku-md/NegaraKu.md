@@ -31,7 +31,7 @@ faq:
     a: "تراجعت أعداد الجالية تراجعاً حاداً — من نحو 400 أسرة في الثمانينيات إلى أقل من 50 أسرة اليوم، بحسب مجلس التراث الوطني في سنغافورة (Roots) — في حين يقدّر تقرير لـ Free Malaysia Today أن نحو 20 إلى 30 أسرة فقط ما زالت تعيش في كامبونغ تشيتي. ويربط الباحثون هذا التراجع بالزواج المختلط والهجرة إلى الخارج وفقدان الأجيال الأصغر صلتها بجذورها التشيتية على نحو متزايد."
 
 lang: "ar"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["تشيتي ملقا", "Chetti Melaka", "Chitty Melaka", "البيراناكان الهندية", "Peranakan India", "Kampung Chetti", "Gajah Berang", "الهندوسية الشيفية", "تراث ملقا"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'قوس مدخل وردي بالطراز الهندي تعلوه تمثالا فيلين أبيضين يحدّد الزقاق المؤدي إلى كامبونغ تشيتي في ملقا، ومعبد هندوسي صغير بقبة كريمية إلى اليمين ومنازل قروية مع لافتة Kampung Chetti على طول الشارع الهادئ تحت سماء زرقاء'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: منزل تقليدي من طابقين على الطراز الملايوي بخشب داكن يُستخدم كمتحف تشيتي في ملاكا، فوق مدخله لافتة زرقاء كُتب عليها Muzium Chetti The Chetti Museum، وصف من النباتات في الأصص خلف سياج منخفض، وعلما ماليزيا وملاكا يرفرفان بجانبه
+    kind: actual
+    origin: third-party
+    subject: متحف تشيتي (موزيوم تشيتي) في كامبونغ تشيتي بملاكا، الموثّق لمجتمع تشيتي ملاكا
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: الواجهة الصفراء لمعبد سري بوياثا ڤينياغار مورثي في شارع الوئام بملاكا، برج متواضع متدرّج فيه محاريب للآلهة يعلو سقف رواق مبلّط وأبواب فيروزية، تضيئه شمس الصباح المنخفضة أمام سماء زرقاء غامقة
+    kind: actual
+    origin: third-party
+    subject: معبد سري بوياثا ڤينياغار مورثي في ملاكا، المعبد الهندوسي التاريخي الذي أسّسه مجتمع تشيتي عام 1781
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 في قرية قديمة على Jalan Gajah Berang بملقا، ثمة عنقود من الأسر تصلّي للإله شيفا، وتلبس كالملايويين، وتطبخ أطباق كاري عبقة بحليب جوز الهند، وتتحدّث ملايوية مشرَّبة بكلمات تاميلية. ليسوا هنوداً ولا ملايويين ولا صينيين — إنهم تشيتي ملقا، وأعدادهم تتضاءل أكثر فأكثر.

@@ -34,7 +34,7 @@ faq:
     a: "राष्ट्रीय उद्यान अधिनियम 1980 की धारा 10 किसी राष्ट्रीय उद्यान के भीतर खनन और प्रॉस्पेक्टिंग को निषिद्ध करती है, जब तक कि राज्य प्राधिकरण, मंत्री से परामर्श के बाद, यह न पाए कि ऐसा असाधारण रूप से समृद्ध खनिज निक्षेप मौजूद है।"
 
 lang: "hi"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,36 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO", "तामान नेगारा", "संरक्षित क्षेत्र", "राष्ट्रीय उद्यान अधिनियम 1980", "किनाबालू उद्यान", "समुद्री उद्यान", "यूनेस्को विश्व धरोहर"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'एंडाउ-रोम्पिन राष्ट्रीय उद्यान में दोनों किनारों पर घने हरे वर्षावन को प्रतिबिंबित करती एक शांत जंगल नदी, पीछे उठती एक जंगली पर्वतश्रेणी'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: Royal Belum State Park में एक नाव की अगली नोक से नीले आकाश के नीचे झील के शांत जल के पार जंगली पहाड़ियों की ओर का दृश्य
+    kind: actual
+    origin: third-party
+    subject: नाव से Royal Belum State Park के जंगली किनारों की खोज
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: Kinabalu Park, Sabah में जंगली पर्वत ढलानों से उठती सुबह की धुंध, अग्रभूमि में एक अकेला ऊँचा नंगा पेड़
+    kind: actual
+    origin: third-party
+    subject: Kinabalu Park, Sabah के पर्वतीय वर्षावन के ऊपर बनते नीचे बादल
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 किसी से भी पूछिए कि «मलेशिया का राष्ट्रीय उद्यान» कहाँ है और वह एक ही जगह की ओर इशारा करेगा। वास्तव में, मलेशिया के पास एक भी राष्ट्रीय उद्यान नहीं है — इसके पास तीन कानूनी प्रणालियाँ हैं जो पूरी तरह अलग हैं, और उनमें से एक «[तामान नेगारा](/hi/tourism/taman-negara-ecotourism-guide)» नाम से सबसे प्रसिद्ध जगह को तक कवर नहीं करती। इस कानूनी मानचित्र को समझना किसी यात्रा की योजना बनाने, शोध करने, या बस यह समझने की कुंजी है कि मलेशिया अपने 13 करोड़ वर्ष पुराने वर्षावनों की रक्षा कैसे करता है।

@@ -74,9 +74,16 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["Patrimoine mondial UNESCO Malaisie", "tourisme patrimonial Malaisie", "programme de homestay Malaisie", "George Town Melaka", "étiquette dans les mosquées Malaisie", "tourisme culturel"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'Une rue étroite de George Town bordée de vieilles maisons-boutiques peintes, de lanternes rouges et d''un panneau du musée de la peinture batik, avec des étals de souvenirs et des touristes le long de la galerie couverte.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Six sites dans un seul pays portent aujourd'hui le label de l'UNESCO — et vous pouvez arpenter le matin une place coloniale néerlandaise plusieurs fois centenaire et, après un vol, vous tenir à l'intérieur d'une vaste chambre souterraine bornéenne. Le patrimoine de la Malaisie n'est pas un musée que l'on regarde ; c'est une rue vivante que l'on peut traverser en mangeant, en dormant et en priant.

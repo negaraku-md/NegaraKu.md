@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كلّ من يشتري عقارًا في ماليزيا أو يبيعه أو يقيّمه ويحتاج إلى فهم ما يلزمه به نوع الحيازة ونوع السند في قائمة ما فعلًا."
 
 lang: "ar"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,32 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["الملكية الحرّة مقابل الحقّ الإيجاري في ماليزيا", "السند الطبقي في ماليزيا", "السند الفردي مقابل السند الطبقي", "العقار التابعي في ماليزيا", "هيئة الإدارة في ماليزيا", "National Land Code tenure", "Strata Titles Act 1985", "ضريبة القطعة في ماليزيا", "freehold vs leasehold Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'برجا كوندومينيوم متوأمان على الواجهة البحرية في مجمّع جيسيلتون ريزيدنسز بجوار مرسى والبحر في كوتا كينابالو بولاية صباح.'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: تقع فيلا منفصلة واحدة على قطعة أرض مسوّرة خاصة بها في Johor Bahru، وهي النموذج الأصيل للعقار الأرضي الذي يحمل سند ملكية أرض فرديًا لا حصّة ستراتا.
+    kind: actual
+    origin: third-party
+    subject: فيلا منفصلة في Johor Bahru
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: تقف مبانٍ من شقق PPR العامة المنخفضة التكلفة في Bukit Jalil، كوالالمبور، حيث تُملَك كل وحدة بموجب سند ستراتا مع ملكية مشتركة للأملاك العامة.
+    kind: actual
+    origin: third-party
+    subject: شقق عامة منخفضة التكلفة (PPR) في Bukit Jalil، كوالالمبور
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 بيتان متلاصقان شبه متطابقين في الشارع نفسه قد يحملان وعدين مختلفين تمامًا من الولاية: أحد السندين يقول «ملكية حرّة»، والآخر «حقّ إيجاري، 99 عامًا، ينتهي 2118». وسؤال ثانٍ لا علاقة له بالأوّل يحدّد ما إذا كنت تشترك أيضًا في ملكية ردهة مصعد ومسبح مع أربعين أسرة أخرى، أم أنّ الممرّ والسقف مشكلتك وحدك تمامًا. وعادةً ما يدمج المشترون السؤالين في واحد — «هل هو ملكية حرّة أم شقّة سكنية؟» — بينما العقار يجيب دائمًا عن كليهما، بشكل مستقلّ.

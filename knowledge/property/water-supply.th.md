@@ -22,7 +22,7 @@ verificationNeeded:
   - "ชื่อที่ถูกต้องของบริษัทน้ำประปาระดับรัฐสำหรับปะหัง (Pahang), เนกรีเซมบีลัน (Negeri Sembilan) และเกอดะฮ์ (Kedah) มีระบุอยู่ที่เว็บไซต์ span.gov.my แต่ไม่สามารถดึงข้อมูลได้ครบถ้วนระหว่างการจัดทำร่างนี้ ต้องตรวจสอบอีกครั้งโดยตรงที่ span.gov.my"
   - "กรอบกฎหมายเฉพาะของซาบาห์และซาราวัก (ชื่อกฎหมาย/ข้อบัญญัติของรัฐที่เกี่ยวข้อง) ไม่ได้รับการยืนยันโดยตรงจากแหล่งข้อมูลทางการระหว่างการจัดทำร่างนี้ PAAB ยืนยันการยกเว้นทั่วไปของทั้งสองรัฐจากรูปแบบ PAAB แต่รายละเอียดกฎหมายฉบับเต็มต้องตรวจสอบอีกครั้ง"
 lang: "th"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'อ่างเก็บน้ำเขื่อน Babagon ในรัฐซาบะฮ์ ซึ่งเป็นแหล่งน้ำดิบสำหรับการประปาน้ำดื่มที่ผ่านการบำบัด โดยมีป้ายข้อมูลอยู่ริมน้ำ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: ฝายคอนกรีตขนาดเล็กและโครงสร้างควบคุมน้ำแบบมีประตูระบายที่คร่อม Sungai Padang Matsirat ในลังกาวี อันเป็นส่วนหนึ่งของโครงสร้างพื้นฐานการประปาของมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: ฝายและโครงสร้างควบคุมระดับน้ำบน Sungai Padang Matsirat ในลังกาวี
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: ถังเก็บน้ำยกสูงสีขาวขนาดใหญ่ที่มีข้อความ Taman Setia Tropika ในรัฐยะโฮร์ ซึ่งกักเก็บน้ำประปาที่ผ่านการบำบัดไว้สำหรับการจ่ายน้ำในท้องถิ่น
+    kind: representative
+    origin: third-party
+    subject: ถังเก็บน้ำยกสูงที่ Taman Setia Tropika รัฐยะโฮร์
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 คุณย้ายจากสลังงอร์ (Selangor) ไปยะโฮร์ (Johor) บัญชีธนาคารเหมือนเดิม เบอร์โทรศัพท์ก็ย้ายตามไปได้ แต่บัญชีน้ำประปาของคุณล่ะ? มันไม่ตามไปด้วย เพราะบริษัทที่จ่ายน้ำให้บ้านใหม่ของคุณไม่ใช่บริษัทเดียวกันเลย

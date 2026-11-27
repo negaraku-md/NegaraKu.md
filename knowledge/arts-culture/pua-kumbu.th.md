@@ -34,7 +34,7 @@ faq:
     a: "ใช้ในพิธีกรรมช่วงเปลี่ยนผ่านของชีวิตตั้งแต่การเกิดจนถึงการตาย ในพิธีศักดิ์สิทธิ์และการรักษาโรค ตลอดจนตามธรรมเนียมผูกพันกับประเพณีนักรบอีบัน ลวดลายของมันยังถูกทอเป็นผ้าโสร่งของหญิง ผ้าเตี่ยวของชาย และเสื้อคลุมของหมอผี (pawang)"
 
 lang: "th"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ relations:
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
+hero: '/media/arts-culture/pua-kumbu/hero.webp'
+heroAlt: 'ผ้าปัวกุมบูสีแดงยาวลวดลายสีทองขึงบนกี่คาดเอวไม้ภายในบ้านยาวซาราวัก พร้อมเสื่อทอและกล่องเก็บของอิบันแกะสลักอยู่ใกล้ๆ'
+heroCredit: 'BarbicanMan / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: หุ่นขนาดเท่าตัวจริงของช่างทอผ้าชาวอีบันผมยาวเอนหลังพิงกี่ทอแบบคาดหลัง กำลังทอปูวากุมบูมัดหมี่สีแดงสนิมและครีมที่เส้นด้ายยืนแผ่ออกมาทางผู้ชม
+    kind: actual
+    origin: third-party
+    subject: การจัดแสดงในพิพิธภัณฑ์ของหญิงชาวอีบันทอปูวากุมบูสีแดงสนิมบนกี่ทอแบบคาดหลัง พิพิธภัณฑ์สิ่งทอกูชิง รัฐซาราวัก
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 ผ้าผืนหนึ่งที่ผู้ทอไม่กล้าสร้างขึ้นโดยปราศจาก "การอวยพร" — ลวดลายของมันว่ากันว่ามาในความฝัน และครั้งหนึ่งในอดีตมันผูกพันแนบแน่นกับประเพณีนักรบของชุมชนที่สร้างมันขึ้น นั่นคือปัวกุมบู

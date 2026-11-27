@@ -32,7 +32,7 @@ faq:
     a: "Según una respuesta parlamentaria, Malasia exportó 115,359 toneladas de durián por valor de RM6.37 mil millones a China entre 2018 y mediados de 2025. Las exportaciones de durián entero fresco alcanzaron 773 toneladas (casi RM50 millones) solo en el primer semestre de 2025."
 
 lang: "es"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,33 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["exportación de durián Malasia", "Musang King", "Black Thorn durian", "protocolo durián China", "indicación geográfica durián", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'Montón de durianes verdes y espinosos enteros, con uno abierto que muestra la pulpa amarilla y cremosa, en un puesto de frutas de Penang'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: Primer plano de un durián abierto con ricos lóbulos de pulpa blanda de color amarillo dorado anidados en la cáscara espinosa
+    kind: actual
+    origin: third-party
+    subject: un durián Musang King abierto que muestra su cremosa pulpa de intenso amarillo dorado dentro de la cáscara espinosa
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: Bandeja de duriánes espinosos apilados junto a una tarjeta de precios manuscrita con los códigos de clon y los precios en RM, con mangostanes al lado
+    kind: actual
+    origin: third-party
+    subject: duriánes enteros clasificados por código de clon y con precio en ringgit por kilogramo en un mercado de frutas de Kota Kinabalu, Sabah
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 Durante más de una década, el durián malasio solo podía entrar en China si estaba congelado o procesado en pulpa y pasta. Entonces, a mediados de 2024, Malasia obtuvo el acceso que había buscado durante años: el derecho a enviar durián entero y fresco al mayor mercado de durián del planeta.

@@ -21,7 +21,7 @@ appliesTo: "القرّاء والطلاب والباحثون الباحثون ع
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -59,6 +59,32 @@ verificationNeeded:
   - "نزاع الخلافة في 2025–2026 مسألة متطوّرة بروايات متضاربة؛ وينبغي إعادة التحقق من وضع أوندانغ سونغاي أوجونغ، وإعلان العزل في 19 أبريل 2026، والإعلان المنافس، مقابل مصادر الولاية الرسمية قبل اعتبار أي تفصيل حاسمًا."
   - "ينبغي تأكيد تاريخ تنصيب/إعلان توانكو محريز يانغ دي-بيرتوان بيسار الحادي عشر (يُعطى شيوعًا 29 ديسمبر 2008) مقابل البوابة الملكية للولاية."
 framework: history-culture
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: 'قصر فخم مبني من الخشب الداكن يعلوه برج مرتفع متعدد الطبقات وأسطح واسعة مغطاة بألواح خشبية، يقف أمام تلال تكسوها الغابات خلف حقل أخضر واسع.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: قصر ملكي مهيب بلون كريمي، بجناحين متناظرين وبرجين توأمين مجمَّلين، يقع خلف حدائق مشذَّبة أسفل تلال كثيفة الأشجار في سري مننتي.
+    kind: actual
+    origin: third-party
+    subject: إستانا بيسار سري مننتي، القصر الملكي الحالي لنݢري سمبيلان
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: برج حكومي حديث شاهق تعلوه أسقف ميننݢكاباو المميزة المرتفعة على هيئة قرون الجاموس، يرتفع فوق أجنحة أدنى ومروج في وسط سريمبان.
+    kind: actual
+    origin: third-party
+    subject: ويسما نݢري، المبنى الإداري للولاية بسقف ميننݢكاباو، في سريمبان
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 في قلب شبه جزيرة ماليزيا تجلس مملكة تكسر كل قواعد الملكية الملايوية. فحاكمها لا يُولد للعرش بل يُختار له. وأسرها الكبرى تتتبّع نسبها لا عبر الآباء بل عبر الأمهات. واسمها نفسه، نغري سمبيلان، «ولاية التسع»، لا يستذكر بيتًا ملكيًّا واحدًا بل اتحادًا من مناطق خِيطت معًا عبر تلال الداخل. وفهم كيف نشأت هذه المؤسسة الفريدة هو تتبّع خطٍّ من مهاجري الميناﭬكاباو عبروا مضيق ملقا من سومطرة، حملوا عرفًا معهم، ثم أرسلوا في الوقت المناسب طلبًا لأمير يحكمهم.

@@ -27,7 +27,7 @@ verificationNeeded:
   - "Việc miễn/giảm phí riêng cho công dân từ 60 tuổi trở lên — được đưa tin rộng rãi là miễn phí đăng ký phòng khám chuyên khoa RM5 và giảm 50% phí Hạng 3 — không thể xác minh trực tiếp trên trang chính thức moh.gov.my (403 Forbidden khi thử truy cập), do đó con số này cố ý không được nêu như một sự thật đã xác minh; chỉ mô tả cơ chế một cách khái quát."
   - "Số liệu thống kê thời gian chờ (ví dụ số ngày/giờ trung bình cho lịch hẹn chuyên khoa hoặc phẫu thuật theo kế hoạch) không được nêu vì không tìm thấy con số chính thức nào của KKM có thể xác minh tại thời điểm soạn thảo; thực tế thời gian chờ chỉ được mô tả một cách định tính."
 lang: "vi"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,33 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'Bên ngoài khối chuyên khoa và điều trị ban ngày tại Hospital Kuala Lumpur, một bệnh viện chính phủ Malaysia, với biểu tượng trăng lưỡi liềm đỏ trên mặt tiền trắng'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: Tòa nhà sản khoa kiến trúc hiện đại màu hồng của Hospital Kuala Lumpur nhìn qua những hàng cây, với những tòa tháp của thành phố Kuala Lumpur ở phía xa
+    kind: actual
+    origin: third-party
+    subject: Khối sản khoa (Hospital Bersalin) tại Hospital Kuala Lumpur, với đường chân trời KLCC phía sau
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Một tòa nhà khoa một tầng tại Hospital Kuala Lumpur với biển hiệu tiếng Mã Lai màu xanh ghi Jabatan Perubatan Rehabilitasi và các xe đỗ phía trước
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Khoa Phục hồi chức năng (Jabatan Perubatan Rehabilitasi) tại Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 Cầm trên tay tấm phiếu số thứ tự, còn hơn 80 người phía trước, và bảng điện tử trên tường vẫn hiển thị một con số cách xa — nhiều người đã từng trải qua khoảnh khắc này tại bệnh viện công. Nhưng bên cạnh tấm bảng đó cũng dán một biểu phí cho thấy vì sao nhiều người vẫn quay lại: một lần khám ở phòng khám tư có thể tốn hàng chục ringgit, còn ở đây chỉ RM1. Câu hỏi không phải là liệu bệnh viện công có đáng hay không — mà là cách sử dụng nó thực sự thế nào để mức phí trợ giá đó áp dụng, và điều gì quyết định một người phải chờ bao lâu.

@@ -37,7 +37,7 @@ faq:
     a: "บินเข้าท่าอากาศยานนานาชาติกูชิง (KCH) ประตูอากาศหลักสู่ซาราวักตอนใต้ พร้อมการเชื่อมต่อจากกัวลาลัมเปอร์และศูนย์กลางอื่น (Wikipedia) เนื่องจากซาราวักควบคุมการตรวจคนเข้าเมืองของตนเอง ทุกคนถูกตรวจเมื่อมาถึง ชาวมาเลเซียจากรัฐอื่นได้รับบัตรผ่านบน MyKad และชาวต่างชาติถูกประทับตราเข้าซาราวักแยกต่างหาก จึงพกหนังสือเดินทางแม้ในเที่ยวบินที่ดูเหมือนภายในประเทศ ดูคู่มือซาราวักสำหรับกฎการเข้าฉบับเต็ม"
 
 lang: "th"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางครั้งแรกและแบบอิสระ ครอบครัว และผู้รักมรดกหรือสัตว์ป่าที่ต้องการเมืองมรดกริมแม่น้ำที่เดินเที่ยวได้ เป็นฐานผ่อนคลายสำหรับทริปวันเดียวสู่ป่าฝนบอร์เนียว อุรังอุตัง และอุทยานแห่งชาติ'
+  getThere: 'บินเข้าสู่สนามบินนานาชาติ Kuching (KCH) ประตูทางอากาศหลักสู่ Sarawak ตอนใต้ พร้อมเที่ยวบินเชื่อมจากกัวลาลัมเปอร์และศูนย์กลางอื่น ๆ ของมาเลเซียและภูมิภาค'
+  permit: 'Sarawak ดำเนินการตรวจคนเข้าเมืองของตนเอง ทุกคนจึงผ่านด่านตรวจเมื่อมาถึงแม้เป็นเที่ยวบินในประเทศจากคาบสมุทรมาเลเซีย — ชาวต่างชาติได้รับตราเข้า Sarawak แยกต่างหาก จึงควรพกหนังสือเดินทางไว้ตลอด'
+  watch: 'การพบอุรังอุตังที่ Semenggoh ไม่เคยรับประกัน เพราะลิงกึ่งป่าเหล่านี้หากินอิสระในป่าโดยรอบ จึงควรถือว่าการพบเห็นเป็นโบนัส ไม่ใช่คำสัญญา'
+  next: 'ตรวจสอบข้อกำหนดการเข้า Sarawak ปัจจุบันและช่วงเวลาอุทยานหรือเทศกาลกับ Sarawak Tourism Board และผู้ประกอบการทางการของอุทยานก่อนเดินทาง'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'อาคารสภานิติบัญญัติรัฐซาราวักหลังคาทรงร่มตั้งตระหง่านข้ามแม่น้ำซาราวักจากริมน้ำกูชิงยามพลบค่ำ'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: The Astana พระราชวังอาณานิคมสีขาวซุ้มโค้งแบบโกธิกพร้อมประตูประดับ ริมฝั่งเหนือของแม่น้ำซาราวักในกูชิง
+    kind: actual
+    origin: third-party
+    subject: The Astana พระราชวังสีขาวริมแม่น้ำอันเก่าแก่ของอดีตราชาผิวขาว (White Rajahs) ในกูชิง (Kuching)
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: ซุ้มประตูจีนอันวิจิตรที่แขวนโคมไฟแดงเป็นเครื่องหมายถนนในย่านไชนาทาวน์เก่าของกูชิง
+    kind: actual
+    origin: third-party
+    subject: ซุ้มประตูพิธีการแบบจีนในย่านไชนาทาวน์เก่าของกูชิง (บริเวณถนน Jalan Attap) พร้อมโคมไฟแดงและป้ายร้านตึกแถว
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 คุณเดินตลอดความยาวริมแม่น้ำของกูชิงได้ในเย็นเดียว ผ่านป้อมอาณานิคม พระราชวังของราชา และวัดจีนระหว่างทาง กินหนึ่งในชามก๋วยเตี๋ยวที่ยอดเยี่ยมของบอร์เนียว และโพสท่ากับรูปปั้นแมวยักษ์ ทั้งหมดโดยไม่ออกจากเมือง กูชิงเป็นเมืองหลวงและเมืองใหญ่ที่สุดของซาราวัก ตั้งอยู่บนแม่น้ำซาราวักที่ปลายตะวันตกเฉียงใต้ของรัฐบนเกาะบอร์เนียว ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)) เป็นฐานเมืองแม่น้ำที่ผ่อนคลายซึ่งทริปซาราวักส่วนใหญ่เริ่มต้น คู่มือนี้ครอบคลุมตัวเมืองเอง ริมน้ำ ประวัติศาสตร์ยุคบรูก ไชนาทาวน์และพิพิธภัณฑ์ และแมว และมันทำงานอย่างไรในฐานะฐานปล่อยตัวสู่ป่าฝนและสัตว์ป่าที่ล้อมรอบ

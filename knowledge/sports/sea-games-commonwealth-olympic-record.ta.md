@@ -34,7 +34,7 @@ faq:
     a: "Kuala Lumpur-இல் 1998 Games-ஐ நடத்தியது; அங்கு அது 10 தங்கப் பதக்கங்கள் என்ற தனது சிறந்த அறுவடையைப் பதிவு செய்து, ஒட்டுமொத்தமாக நான்காவது இடத்தில் நின்றது. அது ஆசியாவில் நடத்தப்பட்ட முதல் Commonwealth Games-ம் ஆகும்."
 
 lang: "ta"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: '2008 ஒலிம்பிக் தொடக்க விழாவில் ஆரஞ்சு நிற பாரம்பரிய உடை அணிந்த மலேசிய அணி ஜாலூர் ஜெமிலாங் (Jalur Gemilang) கொடிக்குப் பின்னால் அணிவகுத்துச் செல்கிறது.'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: 2017 கோலாலம்பூர் SEA Games-இல் ஒரு ஒத்திசைவுக் குதிப்பு இறுதிப் போட்டியின்போது காற்றில் நிலைகொண்ட இரு குதிப்பு வீரர்கள், அவர்களுக்குப் பின்னால் சுவரில் போட்டியின் முத்திரை.
+    kind: actual
+    origin: third-party
+    subject: 2017 கோலாலம்பூர் SEA Games-இல் ஒத்திசைவுக் குதிப்பு இறுதி
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: பர்மிங்காம் 2022 காமன்வெல்த் கேம்ஸில் மைதானத்தில் சிவப்பு அணிந்த வேல்ஸுக்கு எதிராக வெள்ளை மற்றும் கருப்பு அணிந்த மலேசியாவின் ரக்பி சேவன்ஸ் வீரர்கள் அணிவகுக்கின்றனர்.
+    kind: actual
+    origin: third-party
+    subject: 2022 காமன்வெல்த் கேம்ஸில் வேல்ஸுக்கு எதிராக மலேசியா ரக்பி சேவன்ஸ் விளையாடுகிறது
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 மலேசியா ஒலிம்பிக் பரிசு மேடையில் பதினைந்து முறை ஏறியுள்ளது — ஆனால் ஒவ்வொரு முறையும் வேறு நாட்டின் தேசியக் கீதம் ஒலிப்பதைத்தான் கேட்டுள்ளது.

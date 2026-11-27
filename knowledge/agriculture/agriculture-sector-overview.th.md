@@ -35,7 +35,7 @@ faq:
     a: "เพราะทั้งสองถูกจัดการเป็นธุรกิจที่แตกต่างกัน ปาล์มเป็นสินค้าโภคภัณฑ์ส่งออกขนาดใหญ่ที่ทำกำไรได้บนที่ดินที่เหมาะสม ขณะที่ข้าวเปลือกเป็นพืชอาหารที่มีอัตรากำไรต่ำซึ่งพึ่งพาเงินอุดหนุนและการชลประทาน ที่ดิน ทุน และแรงงานมีแนวโน้มไหลไปสู่พืชโภคภัณฑ์ที่ทำกำไรมากกว่า"
 
 lang: "th"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,32 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'นาข้าวเขียวชอุ่มพร้อมคลองชลประทานที่ทอดยาวไปจนสุดขอบฟ้าในเซอกินจัง ประเทศมาเลเซีย'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: แปลงผักขั้นบันไดและโรงเรือนพลาสติกบนไหล่เขาของหุบเขาเบอร์ตัมในคาเมรอนไฮแลนด์ รัฐปะหัง
+    kind: actual
+    origin: third-party
+    subject: ฟาร์มผักบนที่สูงในหุบเขาแม่น้ำเบอร์ตัม คาเมรอนไฮแลนด์ รัฐปะหัง
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: แปลงผักใบขั้นบันไดต้องแสงแดดเหนือหมู่บ้านบนที่สูงที่กัมปงราชา คาเมรอนไฮแลนด์
+    kind: actual
+    origin: third-party
+    subject: ฟาร์มผักกลางแจ้งที่กัมปงราชา คาเมรอนไฮแลนด์ รัฐปะหัง
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 ในปี 2024 มาเลเซียผลิตทะลายปาล์มสดกว่า 100 ล้านตัน — ราว 100.2 ล้านตันตามกรมสถิติมาเลเซีย (DOSM) — เพียงพอที่จะรักษาตำแหน่งหนึ่งในสองผู้ผลิตน้ำมันปาล์มรายใหญ่ที่สุดของโลก ในปีเดียวกัน ประเทศนี้นำเข้าข้าวเกือบครึ่งหนึ่งของที่ประชาชนบริโภค

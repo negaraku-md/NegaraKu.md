@@ -74,9 +74,16 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'Sebuah jalan sempit di George Town yang dipenuhi rumah toko tua bercat, lampion merah, dan papan nama Museum Lukisan Batik, dengan kios suvenir dan wisatawan di sepanjang kaki lima.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Enam situs dalam satu negara kini menyandang cap UNESCO — dan Anda bisa menyusuri sebuah lapangan kolonial Belanda berusia berabad-abad pada pagi hari lalu berdiri di dalam sebuah ruang gua Borneo yang luas setelah satu penerbangan. Warisan Malaysia bukan museum yang hanya dipandang; ia jalan hidup yang bisa Anda santap, tiduri, dan jadikan tempat beribadah sepanjang perjalanan.

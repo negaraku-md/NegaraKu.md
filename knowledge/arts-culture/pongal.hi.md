@@ -32,7 +32,7 @@ faq:
   - q: "थाई पोंगल के चार दिन कौन-से हैं?"
     a: "Bhogi (पुराने को हटाना और घर की सफाई), Thai Pongal या Surya Pongal (सूर्य को धन्यवाद देना और पोंगल अर्पित करना), Mattu Pongal (जुताई में सहायक मवेशियों का सम्मान), और Kaanum Pongal (रिश्तेदारों से मिलना और सैर पर जाना) — ये ही वे चार दिन हैं।"
 lang: "hi"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "तमिल महीने Thai के आरंभ का दिन — ग्रेगोरियन पंचांग में आम तौर पर जनवरी के मध्य (14 या 15)।"
   holiday: "मलेशिया में संघीय स्तर पर या किसी भी राज्य स्तर पर यह राजपत्रित सार्वजनिक अवकाश नहीं है। (केवल दीपावली संघीय सार्वजनिक अवकाश है — सरवाक को छोड़कर; Thaipusam कुछ ही राज्यों में अवकाश है।)"
   etiquette: "यह मुख्यतः फसल आधारित एक सांस्कृतिक त्योहार है, धर्मनिरपेक्ष है (2020 में एक मलेशियाई मंत्री ने स्पष्ट किया); सामाजिक संगठन और मंदिर कई बर्तनों में एक साथ पोंगल पकाकर, कला प्रदर्शनों के साथ सार्वजनिक उत्सव आयोजित करते हैं।"
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'थाई पोंगल के दौरान गेंदे की माला से घिरे मिट्टी के बर्तन में भाप उठती पोंगल चावल को हिलाती बैंगनी-सुनहरी साड़ी में एक मुस्कुराती महिला, एक हिंदू मंदिर में खुले में पकाती हुई'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: ज़मीन पर रंगीन पाउडर से बनाया गया एक बड़ा रंगीन पोंगल कोलम, जिसमें गन्ने के डंठल, चमकीले फूल और एक उफनता उत्सव-पात्र दिख रहा है, एक घर के फाटक के बाहर
+    kind: representative
+    origin: third-party
+    subject: एक सड़क पर गन्ने, फूलों और उफनते-पात्र की आकृति वाला रंगीन पोंगल कोलम
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: लाल किनारों वाले दो गोल मिट्टी के पात्र, सफ़ेद में रंगीन टेढ़ी-मेढ़ी और बिंदी आकृतियों से हाथ से चित्रित, फ़सल-उत्सव के दौरान पोंगल पकाने के लिए तैयार
+    kind: representative
+    origin: third-party
+    subject: फ़सल-उत्सव के लिए सजाए गए दो हाथ से चित्रित मिट्टी के पोंगल पात्र
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 थाई माह के उदय की भोर में, मलेशिया भर के तमिल परिवारों के आँगन और द्वार पर भारी

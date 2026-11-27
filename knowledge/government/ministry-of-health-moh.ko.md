@@ -27,7 +27,7 @@ faq:
   - q: "KKM이 민간 병원을 운영합니까?"
     a: "아닙니다. KKM은 공공 병원과 진료소를 운영하며, 이와 별도로 민간의료시설·서비스법(Private Healthcare Facilities and Services Act 1998, Act 586)에 따라 민간 의료를 규제합니다. 이 법은 최소 품질·안전 기준을 정하고 의사가 시술에 대해 청구할 수 있는 수수료에 상한을 둡니다."
 lang: "ko"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,9 +79,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: '열린 사각 꼭대기를 인 높은 사암·초록 유리의 정부 타워, 입구 차양 위에 ''KEMENTERIAN KESIHATAN MALAYSIA'' 문구와 국가 문장이 있고 흐린 하늘을 배경으로 선 모습'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: 날카로운 각을 이룬 다면체 날개와 외팔보 지붕을 가진 선명한 녹색 유리 정부 건물, 타일 광장 위로 오른쪽 면에 긴 세로형 말레이시아 국기가 드리워져 있다
+    kind: actual
+    origin: third-party
+    subject: 푸트라자야 KKM 복합단지 내 말레이시아 보건부 교육관리과 건물
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 말레이시아 정부 진료소에 들어가 RM1짜리 지폐를 건네고 진료와 약을 모두 받은 채 나온다면, 여러분은 세계에서 가장 많이 보조되는 보건 체계 가운데 하나를 이용하는 것입니다. 그것을 운영하는 곳이 **말레이시아 보건부** — *Kementerian Kesihatan Malaysia*(**KKM**), 영어로 **MOH** — 로, 공중보건, 의료, 의학 연구, 건강 증진, 의약품·의료기기 규제, 치과 진료, 환자 안전을 담당하는 연방 부처입니다. 본부는 연방정부 행정중심지 62590 Putrajaya의 Complex E(블록 E1, E3, E6, E7, E10)에 있습니다.

@@ -78,6 +78,34 @@ verificationNeeded:
   - "Group YTD profit of RM403.3 million for the nine months to 30 Sep 2025 (published 27 Nov 2025) — verify against the next quarterly and annual results."
   - "'Well over 150 million customers' is based on a 2019 company figure plus subsequent market growth; verify the current group customer total against the latest annual report."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Front entrance of Axiata Arena in Kuala Lumpur, its perforated silver facade carrying the large blue-and-magenta ''axiata arena'' name and triangular logo'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: People gathered outside Axiata Arena's main entrance beneath the giant blue-and-magenta 'axiata arena' signage during a sporting event
+    kind: actual
+    origin: third-party
+    subject: Crowds at the main entrance of Axiata Arena, Bukit Jalil, during an event
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: Packed interior of Axiata Arena during a badminton match at the 2017 SEA Games, spectators filling the tiered blue stands around the court
+    kind: actual
+    origin: third-party
+    subject: Interior of Axiata Arena during the 2017 SEA Games badminton event
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 Malaysia's biggest telecoms story is not a single network but a holding company that owns pieces of mobile operators in six countries. Axiata Group Berhad sits in an office tower at Kuala Lumpur Sentral and controls, part-owns or jointly runs the carriers that connect hundreds of millions of people across South and Southeast Asia.

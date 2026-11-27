@@ -84,6 +84,14 @@ drinkFacts:
   halal: "El lassi es yogur, agua o leche, y azúcar o fruta —sin carne y sin alcohol—, así que es vegetariano y, en sí mismo, halal, y un acompañante natural de las comidas vegetarianas de arroz en hoja de plátano. La garantía halal corresponde al establecimiento, así que los comensales que necesiten certificación deben comprobarlo en cada restaurante."
   served: "Se sirve frío, a menudo en un vaso alto, espumoso del batido. Pídelo dulce, salado o como lassi de mango (u otra fruta); es un acompañamiento clásico de un curry picante o una comida de arroz en hoja de plátano, que refresca el paladar entre bocados."
   where: "Se encuentra en los restaurantes indios, las casas de arroz en hoja de plátano, los puestos de lassi especializados y muchos locales mamak por todo el país, sobre todo donde se sirve comida del sur y el norte de la India."
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Lassi de yogur helado, cremoso y blanco, en una taza estampada con una pajita"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Siéntate ante un plato ardiente de arroz en hoja de plátano o un rico curry del norte

@@ -93,7 +93,7 @@ entity: "Akta Kesatuan Sekerja 1959"
 relations:
   - { rel: "governs", to: "trade-unions-malaysia" }
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
-related: []
+related: ["labour-department-jtksm", "employment-act-1955-guide", "retrenchment-malaysia"]
 keywords: ["sindicatos en malasia", "sindicato", "Ley de Sindicatos de 1959", "Ley 262", "JHEKS", "e-TUIS", "enmienda de 2024", "negociación colectiva", "Director General de Sindicatos", "kesatuan sekerja", "trade union", "Akta 262"]
 framework: explainer
 ---

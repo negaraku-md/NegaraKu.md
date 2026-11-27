@@ -41,7 +41,7 @@ faq:
     a: "Ngày chính xác còn gây tranh cãi. Một số ghi chép đặt việc thành lập cơ quan chủ quản quốc gia vào năm 1926, trong khi các ghi chép khác nhắc đến năm 1933, khi Football Association of Malaya có trụ sở tại Singapore tiếp quản việc điều hành Cúp Malaya. Điều rõ ràng và có thể xác nhận là vai trò của nó ngày nay với tư cách cơ quan chủ quản quốc gia, thành viên AFC, và sáng lập viên AFF vào năm 1984."
 
 lang: "vi"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'Sân vận động Quốc gia Bukit Jalil rực sáng đèn pha chật kín khán giả nhìn xuống một trận bóng đá đang diễn ra.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: Một trận bóng đá đang diễn ra trên mặt sân của Sân vận động Tuanku Abdul Rahman ở Paroi, Seremban, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Một trận bóng đá tại Sân vận động Tuanku Abdul Rahman ở Paroi, Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: Một sân futsal công cộng ngoài trời trong một khu dân cư ở Kota Damansara, Petaling Jaya, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Một sân futsal cộng đồng ở Kota Damansara, Selangor, bối cảnh phong trào của bóng đá Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 Vào năm 1921, Singapore đánh bại Selangor 2-1 trong trận chung kết của một giải bóng đá mới ở Malaya. Hơn một thế kỷ sau, giải đấu đó — nay được biết đến là Cúp Malaysia — vẫn là vương miện danh giá nhất trong môn thể thao được yêu thích nhất của đất nước.

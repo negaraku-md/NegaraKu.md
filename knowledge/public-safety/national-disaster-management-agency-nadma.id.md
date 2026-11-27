@@ -29,7 +29,7 @@ faq:
     a: "Arahan ini telah digantikan oleh Arahan NADMA No. 1, yang disetujui dalam rapat Majlis Keselamatan Negara (MKN) yang dipimpin Perdana Menteri pada 1 Agustus 2024."
 
 lang: "id"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'Air banjir menggenangi daerah pedesaan saat hujan monsun deras di Sandakan, Sabah, Malaysia.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: Sebuah tim penyelamat air dalam perahu berdasar rata menerjang air banjir saat operasi pencarian dan penyelamatan
+    kind: representative
+    origin: third-party
+    subject: Tim penyelamat banjir dalam perahu saat operasi pencarian (ilustrasi)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: Sebuah dinding pelindung dari karung pasir yang dibangun untuk menahan air banjir yang naik di sekeliling sebuah bangunan
+    kind: representative
+    origin: third-party
+    subject: Barikade pelindung banjir dari karung pasir (ilustrasi)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 Ketika banjir besar melanda beberapa negeri sekaligus, siapa yang menekan tombol untuk mengoordinasikan militer, Bomba, polisi, dan sukarelawan di bawah satu komando? Di Malaysia, jawabannya adalah NADMA.

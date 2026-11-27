@@ -76,6 +76,33 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'Menara tinggi Dewan Bahasa dan Pustaka di Kuala Lumpur pada waktu senja keemasan, nama dan lambangnya di mahkota bangunan di atas padang berpagar pokok'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: Mural mozek bergaya kubisme yang besar dan berwarna-warni menggambarkan kehidupan rakyat Malaysia pada fasad bangunan Dewan Bahasa dan Pustaka, dengan menara pejabat menjulang di belakang
+    kind: actual
+    origin: third-party
+    subject: Mural mozek besar pada blok podium DBP dengan sepanduk 'Bahasa Bangsa Negara' dan menara di belakang, Kuala Lumpur
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: Serambi pintu masuk bumbung berpaksi yang megah pada bangunan Dewan Bahasa dan Pustaka, dihadapi panel bermotif Melayu berukir halus di atas tangga yang luas
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama DBP dengan panel berukir bermotif Melayu dan tangga megahnya, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 Setiap kali anda menyemak ejaan sesuatu perkataan Melayu, menemui istilah sains yang baharu, atau membaca gelaran seorang Sasterawan Negara, ada satu institusi di sebalik tabir: Dewan Bahasa dan Pustaka.

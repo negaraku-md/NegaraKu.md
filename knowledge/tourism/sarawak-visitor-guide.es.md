@@ -36,7 +36,7 @@ faq:
     a: "Existen ambas. Lugares como Annah Rais, cerca de Kuching, son comunidades bidayuh vivas de longhouse donde las familias todavía residen, mientras que el Sarawak Cultural Village, cerca de Santubong, es un museo vivo construido a tal fin. Visitar una longhouse en funcionamiento se organiza mejor con antelación y a menudo a través de un guía que pueda interpretar la visita con respeto."
 
 lang: "es"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que buscan la naturaleza de Borneo y la cultura dayak viva, usando la relajada y recorrible Kuching como base para los orangutanes semisalvajes de Semenggoh y las casas comunales bidayuh, con las cuevas y la selva Patrimonio Mundial de Gunung Mulu como gran complemento estrella.'
+  getThere: 'Vuele a Kuching como nudo principal, con Gunung Mulu accesible solo en vuelos de MASwings (desde Miri, Kuching o Kota Kinabalu), ya que no hay una carretera practicable hasta el parque.'
+  permit: 'Sarawak gestiona su propia inmigración, así que a todo el mundo — malasios de la Península incluidos — se le controla y se le expide un pase de entrada a la llegada (los extranjeros reciben un sello aparte de Sarawak además de su entrada a Malasia, y la mayoría deben presentar la MDAC en línea de antemano), y los vuelos a Mulu y las visitas guiadas a las cuevas deberían reservarse con antelación.'
+  watch: 'Las avionetas de Mulu sufren con frecuencia retrasos o cancelaciones por el tiempo, así que prevea días de margen y nunca reserve una conexión de salida ajustada desde el parque.'
+  next: 'Confirme los requisitos vigentes de visado y de MDAC para su nacionalidad con el Departamento de Inmigración de Malasia (Immigration Department of Malaysia).'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'Un bosque de agujas de piedra caliza gris dentadas perforando la selva tropical verde y la niebla en el Parque Nacional de Gunung Mulu, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Un orangután pelirrojo colgando y estirándose entre cuerdas en medio de una densa selva verde en la Reserva Natural de Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Un orangután salvaje desplazándose por cuerdas en la selva de la Reserva Natural de Semenggoh, cerca de Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Una larga casa comunal iban de madera elevada sobre pilotes con tejado rojo, con selva de fondo en una ladera de Sarawak
+    kind: actual
+    origin: third-party
+    subject: Una casa comunal iban tradicional elevada sobre pilotes junto a una ribera boscosa en Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Puedes volar de Kuala Lumpur a Kuching en menos de dos horas, no salir nunca de tu propio país y aun así recibir un sello de inmigración al otro extremo. Esa sorpresa en la sala de llegadas es lo más importante que hay que entender sobre Sarawak: es un estado malasio que gestiona su propia frontera.

@@ -32,7 +32,7 @@ faq:
   - q: "九皇爺誕は中元節や旧正月と同じですか。"
     a: "同じではありません。九皇爺誕は旧暦九月に九皇大帝を専ら祀る道教の祭りで、請水・食斎・送駕を中心とします。中元節（盂蘭盆）は旧暦七月で、彷徨う魂の普度・済度を主題とします。旧正月は家族の団らんを中心とする季節の文化的な祭りです。三者は時期・対象・意味がそれぞれ異なり、混同すべきではありません。"
 lang: "ja"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ festivalFacts:
   who: "マレーシアの華人コミュニティの信者。著名な廟には、スランゴール州アンパン（安邦）の南天宮、ペナンの香港巷斗母宮、そしてバターワース（北海）の斗母宮が含まれる。"
   when: "旧暦九月一日から九日まで、連続九日間（一日の前夜に請水を行い、九日の送駕で締めくくる）。"
   etiquette: "多くの信者は「食斎」（斎戒）を守り、一日、三日、あるいは全九日間を通じて精進し、伝統的に五辛を避ける。多くが白い衣服を着て、腰に黄色の帯を締める。節期にはしばしば遊境（遊神）が街路を巡行し、一部の廟では過火（火渡り）や扎口（頬・口を貫く行）などの苦行があるが、やり方は廟によって異なる。"
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'イポー（Ipoh）の九皇爺祭り（Nine Emperor Gods Festival）で、龍に挟まれ黄色い提灯が吊るされた寺院の祭壇の前で線香を手にする参拝者の群れ。手前では香の煙が立ち上る。'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: 九皇爺祭の折に飾り付けられたクパラ・バタスの寺院。提灯、黄色の幟、供物が見られる
+    kind: actual
+    origin: third-party
+    subject: ペナン州クパラ・バタスの寺院で営まれる九皇爺祭（Kew Ong Yah）
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: バターワースの斗母宮九皇爺廟の境内へと続く、華麗な儀礼用の牌楼
+    kind: actual
+    origin: third-party
+    subject: ペナン州バターワースの斗母宮（Tow Boo Kong）九皇爺廟の飾られた牌楼
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 旧暦九月一日の前夜、白衣をまとい腰に黄色の帯を締めた信者の一列が、清らかな線香を手に廟から次々と出て、最も近い川辺や海辺へと向かう。前には鉦と太鼓、後ろには線香の煙――彼らは「請水」「迎駕」のため、九皇大帝を廟へ迎えに行くのだ。続く九日間、廟の中では香火が絶えず、廟の外では精進料理の香りが漂う。そして九日の夜には、同じ行列が再び水辺に並び、神を送り届ける。

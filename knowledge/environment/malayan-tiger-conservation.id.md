@@ -33,7 +33,7 @@ faq:
     a: "Penyebab utama adalah perburuan liar dan perdagangan satwa liar ilegal untuk bagian tubuh harimau, degradasi hutan dan kehilangan habitat, kematian di jalan raya dan konflik manusia–harimau, serta kekurangan mangsa buruan."
 
 lang: "id"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,36 @@ wikidata: "Q215836"
 relations:
   - { rel: "administered-by", to: "perhilitan" }
   - { rel: "located-in", to: "taman-negara" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'Harimau Malaya beristirahat dengan latar dedaunan tropis hijau, menatap kamera'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: Seekor harimau Malaya berbaring di rumput di bawah sinar matahari belang-belang, bulu lorengnya memantulkan cahaya
+    kind: actual
+    origin: third-party
+    subject: harimau Malaya (Panthera tigris jacksoni) berbaring di bawah sinar matahari belang-belang di antara rumput dan dedaunan
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: Potret samping jarak dekat kepala harimau Malaya, memperlihatkan loreng wajah hitam-oranye yang khas dan kumisnya
+    kind: actual
+    origin: third-party
+    subject: Potret samping harimau Malaya (Panthera tigris jacksoni) yang memperlihatkan corak wajahnya
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 Harimau muncul pada lambang negara Malaysia, tetapi hewan itu sendiri kini tergolong di antara kucing besar paling langka di dunia. Ketika Malaysia menyelesaikan sensus nasional pertamanya terhadap harimau liar, hasilnya lebih rendah dari yang diperkirakan oleh banyak pihak: kurang dari 150.

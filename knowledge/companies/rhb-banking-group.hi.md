@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,24 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: 'एक तीन-मंज़िला कोने की बैंक इमारत जिसकी भूतल एक चमकीली नीली पट्टी से लिपटी है जिस पर RHB Bank, RHB Islamic और RHB Bank लिखा है, हर एक पर लाल-हीरा RHB लोगो, हल्की आसमान के नीचे सामने खड़ी एक लाल कार'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: RHB Bank की एक सफ़ेद दो-मंज़िला कोने की शाखा एक ईंट-पक्की चौराहे के पार देखी गई, उसके नीले साइनबोर्ड पट्टी पर लाल-हीरे लोगो के साथ RHB Islamic और RHB Bank पढ़ा जा रहा है, साफ़ नीले आसमान के नीचे प्रांगण पर बाज़ार की छतरियाँ लगी हुई
+    kind: actual
+    origin: third-party
+    subject: Seremban 2, नेगरी सेम्बिलान में एक RHB Bank शाखा, चमकीले नीले आसमान के नीचे RHB Bank और RHB Islamic साइनबोर्ड के साथ
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB उन नामों में से एक है जिसे अधिकांश मलेशियाई किसी हाई-स्ट्रीट बैंक शाखा, ATM कार्ड या गृह-ऋण ब्रोशर पर पहचानते हैं — फिर भी इसके पीछे का समूह खुदरा बैंकिंग से कहीं आगे, इस्लामिक वित्त, निवेश बैंकिंग, बीमा और दक्षिण-पूर्व एशिया के बाज़ारों तक पहुँचता है। यह पृष्ठ इस बात का एक तटस्थ, तथ्यात्मक अवलोकन है कि RHB बैंकिंग समूह क्या है, यह कैसे संरचित है, इसका स्वामित्व किसके पास है और यह क्यों मायने रखता है।

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "라부안 구조를 검토하는 창업자, 세무 자문가, 재무 팀, 그리고 라부안이 말레이시아의 나머지 지역과 왜 다르게 취급되는지 이해하고자 하는 독자."
 
 lang: "ko"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,9 +67,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: '밝은 하늘 아래 야자수 위로 솟은, 파이낸셜 파크 라부안 단지의 현대식 곡선형 파란 유리·은빛 타워들'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: 밑동 주변의 코코넛 야자수와 녹색 잔디밭과 함께 짙푸른 하늘을 배경으로 서 있는 라부안의 키 큰 붉은 벽돌 Chimney 탑
+    kind: actual
+    origin: third-party
+    subject: 코코넛 야자수 옆 잔디밭에 서 있는, 라부안의 키 큰 붉은 벽돌 식민지 시대 랜드마크 The Chimney
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: 구름 낀 푸른 하늘 아래 항구에서 바라본 라부안 시가지의 부두와 해안가 건물들로, 배들과 섬 스카이라인이 보인다
+    kind: actual
+    origin: third-party
+    subject: 바다에서 항구 너머로 본 라부안의 페리 터미널 부두와 해안가 시가지
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 두 회사, 같은 소유주, 같은 고객. 하나는 쿠알라룸푸르에 설립되어 「소득세법 1967」에 따라 법인세를 냅니다. 다른 하나는 사바 해안에서 10km 떨어진 섬에 설립되어 완전히 다른 의회 법률에 따라 3%로 과세됩니다.

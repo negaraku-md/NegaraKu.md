@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'A satellite ground station with a dish antenna, a yagi antenna and a radome used to track and communicate with spacecraft.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: Engineers in pale green and white cleanroom coveralls and caps work around a tall white conical rocket fairing suspended by yellow lifting gear on a wheeled platform in a brightly lit cleanroom
+    kind: representative
+    origin: third-party
+    subject: technicians in cleanroom suits preparing an encapsulated satellite on its launch-vehicle upper composite, representing satellite build and launch preparation
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: A dark night sky over calm water crossed by two luminous curved streaks of light, one rising steeply from a brightly lit launch pad on the left and a fainter one descending to land on the right
+    kind: representative
+    origin: third-party
+    subject: a long-exposure night rocket launch, with the bright arc of ascent and a second arc of the booster returning to land, representing launch services
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 Malaysia does not launch rockets of its own, yet it has flown an astronaut, built and operated microsatellites, and passed a law to license private space activity before most of its neighbours. Its space sector is small and quietly strategic — threaded through broadband policy, defence, disaster monitoring and national prestige. This guide maps the agency, the law, the satellites and the ambitions that make up Malaysia's space economy.

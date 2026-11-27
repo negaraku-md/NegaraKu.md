@@ -28,7 +28,7 @@ faq:
   - q: "Comment m'enregistrer comme OKU (personne handicapée) ?"
     a: "Les citoyens malaisiens certifiés par un expert médical du gouvernement déposent le formulaire d'enregistrement BPPOKU (Amendement 2/2019) avec un rapport de vérification médicale et une copie du MyKad (ou l'acte de naissance pour les demandeurs de moins de 12 ans), soit à un guichet du JKM, soit en ligne via le portail MyDaftar OKU. Le demandeur approuvé reçoit une carte OKU indiquant sa catégorie de handicap."
 lang: "fr"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,36 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Département de la protection sociale", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "carte OKU", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'L''agence de district du Département de la protection sociale (JKM) à Pontian, Johor, précédée d''un grand panneau jaune indiquant « Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian » avec le logo JKM et une adresse e-mail jkm.gov.my, à côté d''un drapeau malaisien'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: L'enseigne et les locaux d'une association d'aide sociale pour enfants handicapés à Johor Bahru, un service de protection sociale communautaire
+    kind: representative
+    origin: third-party
+    subject: Centre d'aide sociale pour enfants handicapés à Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: Un foyer d'aide sociale à Batu Pahat, Johor, un établissement d'hébergement social
+    kind: actual
+    origin: third-party
+    subject: Foyer d'aide sociale (rumah kebajikan) à Batu Pahat, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 Le **Département de la protection sociale** — *Jabatan Kebajikan Masyarakat*, connu partout par

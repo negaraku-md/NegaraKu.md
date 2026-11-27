@@ -27,7 +27,7 @@ verificationNeeded:
   - "Tidak ada indeks sewa resmi khusus untuk Johor Bahru yang dapat ditemukan; pernyataan tentang tekanan sewa dari permintaan terkait Singapura bersifat kualitatif, tidak didukung oleh angka yang diterbitkan."
 
 lang: "id"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,33 @@ relations:
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
+heroAlt: 'Kaki langit kota Johor Bahru pada malam hari dengan menara bercahaya di tepi Tambak Johor-Singapura dan jejak cahaya lalu lintas'
+heroCredit: 'Lionel Lim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: Lapak hasil tani segar di pasar mingguan di Bukit Indah, Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Pasar mingguan hasil tani segar di Bukit Indah, Johor Bahru
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: Toko-toko dan pembeli di sepanjang Jalan Wong Ah Fook, jalan komersial utama di pusat Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Jalan Wong Ah Fook, jalan komersial utama Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 Seorang pekerja yang menerima gaji minimum penuh nasional Malaysia, RM1,700

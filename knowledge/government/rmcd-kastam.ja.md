@@ -38,7 +38,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 
 status: "published"
 aiAssisted: true
@@ -117,6 +117,34 @@ relations:
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
 framework: profile
+hero: '/media/government/rmcd-kastam/hero.webp'
+heroAlt: '晴れた青空の下、サバ州ラハダトゥの緑の木々の間に立つ明るい空色の政府庁舎。切妻の正面にマレーシア王立関税局の紋章と、Kastam Diraja Malaysiaと記す金色の文字を掲げる'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: プトラジャヤにあるクリーム色の多層階のマレーシア王立関税局本部ビル。上層のファサードにJabatan Kastam Diraja Malaysiaの文字があり、沿道の木立越しに通りから見える
+    kind: actual
+    origin: third-party
+    subject: 連邦行政都市プトラジャヤにあるマレーシア王立関税局本部
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: 温かな光に包まれた桃色とクリーム色の2階建ての関税局ビル。Wisma Kastam SabahとJabatan Kastam Diraja Malaysia / Royal Malaysian Customs Departmentの標示を掲げ、コタキナバルには青い記念看板と屋根付きの車寄せがある
+    kind: actual
+    origin: third-party
+    subject: サバ州コタキナバルにあるマレーシア王立関税局の州ビル、Wisma Kastam Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 二つの機関、一つの省、そしてほとんどの人が最初は正しく引けない境界線がある。

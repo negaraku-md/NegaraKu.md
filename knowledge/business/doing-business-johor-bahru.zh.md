@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 
 status: "published"
 aiAssisted: true
@@ -122,6 +122,34 @@ keywords:
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
 framework: profile
+hero: '/media/business/doing-business-johor-bahru/hero.webp'
+heroAlt: '隔着柔佛海峡望去的新山市天际线，办公与银行大楼林立，滨水处沿着长堤架设着输水管道'
+heroCredit: 'ペウゲオト / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: 俯瞰车辆繁忙穿越海峡的新柔长堤的高视角，马来西亚一侧有新山市建筑和一个 'I love Johor' 标识
+    kind: actual
+    origin: third-party
+    subject: 车流密集的新柔长堤跨越海峡，紧邻新山市，这是连接新山与新加坡的日常门户
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: 新山城市景观的宽幅全景，成群的商业和住宅高层塔楼映衬多云天空
+    kind: actual
+    origin: third-party
+    subject: 新山城市核心区的宽幅全景——商业高楼和住宅塔楼遍布全城
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 新山是马来西亚唯一一座工资底线、人力规划与交付时程全都由一个你并不在其中经营的国家所设定的城市。

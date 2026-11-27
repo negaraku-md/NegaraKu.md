@@ -86,6 +86,7 @@ relations:
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Companies Act 2016", "Act 777", "Act A1701", "droit des sociétés Malaisie", "cadre juridique SSM"]
 framework: data-reference
+wikidata: "Q142235973"
 ---
 
 Cette page est la fiche du statut pour l'Act 777 — son identité, son administration et sa chaîne d'amendements. Les procédures qu'il crée sont documentées article par article dans les groupes de secrétariat de société et d'entreprise ; cette page ne les répète pas.

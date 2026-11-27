@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 
 status: "published"
 aiAssisted: true
@@ -106,6 +106,32 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'Rolling green tea-bush terraces of a Cameron Highlands plantation winding between forested hills under a cloudy sky.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: Waves wash over dark boulders on the forest-backed sandy bay of Teluk Cempedak near Kuantan on Pahang's coast.
+    kind: actual
+    origin: third-party
+    subject: Teluk Cempedak beach, Kuantan, Pahang
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: Still freshwater spreads between forested hills at Tasik Chini, Pahang's lotus-covered lake and a UNESCO biosphere reserve.
+    kind: actual
+    origin: third-party
+    subject: Tasik Chini (Lake Chini), Pahang
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 Pahang covers more than a quarter of the land area of Peninsular Malaysia, yet

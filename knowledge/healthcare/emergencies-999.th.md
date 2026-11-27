@@ -31,7 +31,7 @@ faq:
     a: "รถพยาบาลของรัฐถูกส่งฟรีผ่านสายด่วน 999 และจัดการโดย KKM ร่วมกับองค์กรอาสาสมัคร เช่น St John Ambulance และสภาเสี้ยววงเดือนแดงมาเลเซีย ส่วนรถพยาบาลเอกชนดำเนินการโดยบริษัทหรือโรงพยาบาลเอกชนผ่านสายด่วนของตน และเรียกเก็บค่าบริการตามความจำเป็นของการเรียก"
 
 lang: "th"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'รถพยาบาลของกระทรวงสาธารณสุขมาเลเซียบนทางด่วน ติดคำว่า "Ambulans" และหมายเลขฉุกเฉิน 999'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: สถานีกรมดับเพลิงและกู้ภัย(Bomba)ของมาเลเซียซึ่งเป็นหนึ่งในบริการฉุกเฉินที่ติดต่อได้ผ่านสายโทรศัพท์999
+    kind: actual
+    origin: third-party
+    subject: สถานีกรมดับเพลิงและกู้ภัย(Bomba,JBPM)ที่ปาโกะห์รัฐยะโฮร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: รถพยาบาลเซนต์จอห์นแอมบูแลนซ์มาเลเซียบนถนนในมะละกาซึ่งเป็นหนึ่งในบริการการแพทย์ฉุกเฉินอาสาสมัครที่ดำเนินงานควบคู่กับการตอบสนองของรัฐ
+    kind: actual
+    origin: third-party
+    subject: รถพยาบาลฉุกเฉินเซนต์จอห์นแอมบูแลนซ์มาเลเซียที่จอดอยู่ในมะละกา
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 คุณกด 999 เสียงที่ปลายสายถามชื่อ สถานที่ และสิ่งที่เกิดขึ้น — และภายในเวลาที่ตั้งเป้าไว้ ทีมรถพยาบาลควรอยู่ระหว่างทางแล้ว แต่หลายคนไม่รู้ว่าเบื้องหลังการโทรนั้นเกิดอะไรขึ้น ใครเป็นผู้รับสายจริง ๆ มันฟรีหรือไม่ และเหตุใดผู้ป่วยอื่นที่มาถึงโรงพยาบาลช้ากว่าจึงบางครั้งได้รับการรักษาก่อนคุณ

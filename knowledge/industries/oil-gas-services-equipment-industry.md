@@ -97,6 +97,34 @@ keywords:
   - offshore support vessels
   - National OGSE Blueprint
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'A semi-submersible offshore drilling rig seen head-on at sea, its boxy deck and tall central derrick supported on two submerged pontoons, with anchor lines running to the water and distant supply ships on the horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: A large offshore oil production platform in golden light with its deck crane lowering a load to an offshore supply vessel holding station on the open blue sea alongside
+    kind: representative
+    origin: third-party
+    subject: an offshore supply vessel working alongside a production platform, with the platform crane transferring a load
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: A blue-and-white offshore support vessel named Island Chieftain moored at a quay, its tall forward bridge and long flat open cargo deck visible, with mountains behind
+    kind: representative
+    origin: third-party
+    subject: a platform supply and offshore support vessel moored at a quay, showing its open cargo afterdeck
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 When people picture Malaysia's oil and gas wealth, they usually think of the crude and gas beneath the seabed off Terengganu, Sarawak and Sabah — the reserves that made PETRONAS one of Asia's largest energy companies. But hydrocarbons do not lift themselves out of the ground. Behind every producing field sits a small army of contractors: the yards that weld steel platforms, the rigs that drill the wells, the vessels that ferry crews and cargo offshore, the engineers who design the facilities, and the technicians who keep it all running. That ecosystem is the **oil & gas services and equipment (OGSE) industry**, and it is a major Malaysian industry in its own right.

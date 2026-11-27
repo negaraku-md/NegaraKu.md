@@ -37,7 +37,7 @@ faq:
     a: "मलेशियाई पाम ऑयल बोर्ड (MPOB), बागान एवं जिंस मंत्रालय के अधीन एक वैधानिक निकाय, रोपण से लेकर निर्यात तक हर चरण को लाइसेंस देता और उसकी देखरेख करता है, और उद्योग का अनुसंधान व विकास चलाता है।"
 
 lang: "hi"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,34 @@ relations:
 related: ["rubber-industry"]
 keywords: ["पाम ऑयल", "palm oil", "क्रूड पाम ऑयल", "crude palm oil", "CPO", "MPOB", "FELDA", "छोटे किसान", "smallholders", "ऑयल पाम", "oil palm", "रिफ़ाइनरियाँ", "refineries", "ओलियोकेमिकल्स", "oleochemicals", "MSPO", "बायोडीज़ल", "biodiesel", "निर्यात", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'सबा के कुनाक में एक बागान सड़क के किनारे पहाड़ियों को ढकते परिपक्व ताड़-तेल के पेड़ों की कतारें'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: Tawau, सबा में Apas Balung ताड़-तेल मिल के गेट पर खड़ा लाल ताड़ के ताज़े फल गुच्छों से लदा एक ट्रक
+    kind: actual
+    origin: third-party
+    subject: Apas Balung ताड़-तेल मिल, Tawau, सबा पर ताज़े फल गुच्छों से लदा ट्रक
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: Kunak, सबा में बादल भरे आसमान के नीचे ताड़-तेल बागान के विशाल सागर के बीच स्थित एक भाप छोड़ती चिमनी वाली ताड़-तेल मिल
+    kind: actual
+    origin: third-party
+    subject: ताड़-तेल बागान से घिरी IOI Baturong ताड़-तेल मिल, Kunak ज़िला, सबा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 पाम ऑयल दुनिया का सबसे अधिक व्यापार होने वाला वनस्पति तेल है, और मलेशिया — इंडोनेशिया के पीछे — इसका दूसरा सबसे बड़ा उत्पादक है, जो जोहोर से लेकर सारावाक की पहाड़ियों तक उगाए गए एक काँटेदार लाल फल-गुच्छे को परिशोधित खाना-पकाने के तेल, साबुन-सामग्री और बायोडीज़ल में बदलकर एशिया, अफ़्रीका और यूरोप भर के बाज़ारों में भेजता है। मलेशियाई पाम ऑयल परिषद (MPOC) के अनुसार, यह उद्योग प्रत्यक्ष और अप्रत्यक्ष रूप से 30 लाख से अधिक मलेशियाई लोगों को सहारा देता है, जिनमें लगभग 500,000 छोटे किसान शामिल हैं। यह रही वह मशीन कैसे बनी है, पेड़ से टैंकर तक।

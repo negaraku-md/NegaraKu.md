@@ -103,6 +103,7 @@ dishFacts:
   origin: "Secara luas dianggap sebagai hidangan Melayu dengan akar yang dalam pada pola makan masyarakat desa Melayu, di mana memasak nasi dengan krim kelapa mengubah pati sederhana menjadi sesuatu yang mengenyangkan; namanya berbahasa Melayu, 'lemak' berarti gurih atau berlemak. Dulunya sarapan Melayu, kini menjadi makanan pokok sepanjang hari lintas komunitas yang dianggap sebagai hidangan nasional Malaysia dan diakui sebagai bagian dari 'Budaya sarapan di Malaysia', tercantum dalam Daftar Representatif Warisan Budaya Takbenda UNESCO pada 2024."
   eat: "Dalam bentuk tertuanya disajikan sebagai nasi lemak bungkus, dilipat dalam bungkus daun pisang untuk sarapan sambil bepergian; di atas piring nasinya ditumpuk di tengah dengan sambal dan pelengkap di sekelilingnya, diaduk saat disantap. Umumnya dilengkapi dengan rendang, ayam goreng, sambal sotong, atau kerang."
   where: "Dijual dari gerobak dorong, pasar pagi, gerai pinggir jalan, dan kantin sekolah, disajikan di gerai mamak hingga lewat tengah malam dan di bufet hotel; gaya daerah bervariasi (nasi berwarna kuning di sekitar Alor Setar, tuna di Terengganu)."
+wikidata: "Q1420553"
 ---
 
 Sebelum matahari benar-benar terbit, aromanya lebih dulu sampai ke jalanan: nasi yang

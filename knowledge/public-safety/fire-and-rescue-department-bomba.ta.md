@@ -31,7 +31,7 @@ faq:
     a: "JBPM ஆனது வீட்டுவசதி மற்றும் உள்ளூர் அரசாங்க அமைச்சின் (KPKT) கீழுள்ள ஒரு திணைக்களமாகப் பட்டியலிடப்பட்டுள்ளது. மலேசியாவில் அமைச்சுப் பொறுப்புகள் அவ்வப்போது மறுசீரமைக்கப்படுகின்றன; எனவே அதிகாரப்பூர்வ ஆவணங்களில் இதைச் சார்ந்திருப்பதற்கு முன், தற்போதைய அமைப்பை kpkt.gov.my அல்லது bomba.gov.my இல் உறுதிப்படுத்தவும்."
 
 lang: "ta"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,33 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'தெளிந்த நீல வானத்திற்குக் கீழே, ஒரு நிலையக் கட்டிடத்திற்கு அருகே திறந்தவெளியில், ஒரே மாதிரியான ''Bomba dan Penyelamat'' அடையாளத்துடன் முன்பு-பின்பு நேர்த்தியான வரிசையில் நிறுத்தப்பட்ட பல ஒரே மாதிரியான பிரகாசமான-சிவப்பு Scania Bomba தீயணைப்பு வாகனங்கள்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: கேன்வாஸ் மூடிய பின் தளத்துடனும் கதவில் துறையின் சின்னத்துடனும் கூடிய சிவப்பு Bomba நாற்சக்கர தீயணைப்பு-மீட்பு வண்டி, பின்னால் ஒரு பனைமரத்துடன் சிவப்பு கூரை கொண்ட தீயணைப்பு நிலையத்தின் முன்முற்றத்தில் நிறுத்தப்பட்டு
+    kind: actual
+    origin: third-party
+    subject: சபா, சண்டகானில் தீயணைப்பு நிலையத்தில் நிறுத்தப்பட்ட ஒற்றை சிவப்பு Bomba கனரக மீட்பு வண்டி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: '''Balai Bomba dan Penyelamat Jalan Kubu'' எனப் படிக்கும் பலகைக்குக் கீழே BOMBA எனப் பெரிய சிவப்பு எழுத்துகளில் எழுதிய உருளைச் சட்டங்களின் வரிசையுடன், பழுப்பு-செங்கல் நிறத்தில் வர்ணம் பூசிய மூன்று தள தீயணைப்பு நிலையத்தின் முன்புறம், முகப்பெங்கும் சிவப்பு விளக்குமாலைகள் கட்டப்பட்டு'
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவில் Jalan Kubu தீயணைப்பு நிலையத்தின் (Balai Bomba dan Penyelamat) முகப்பு, அதன் இயந்திர-அறை உருளைச் சட்டங்களில் BOMBA என்ற சொல் பெரிதாக எழுதப்பட்டு
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 ஒரு வீடு தீப்பிடிக்கும்போது, ஒரு கார் வெள்ளத்தில் சிக்கிக்கொள்ளும்போது,

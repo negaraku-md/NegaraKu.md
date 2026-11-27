@@ -34,7 +34,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 
 status: "published"
 aiAssisted: true
@@ -92,9 +92,35 @@ wikidata: "Q6742000"
 relations:
   - { rel: "related-to", to: "malaysia-olympic-council" }
   - { rel: "governs", to: "malaysia-para-athletics" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'A para-swimmer powers through a backstroke stroke across a competition pool lane.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: Men competing in a 100-metre para-athletics sprint on an outdoor track at the 2024 Bislett Games.
+    kind: representative
+    origin: third-party
+    subject: Para-athletes sprinting the men's 100 metres at an international para-athletics meet
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: A visually-impaired track athlete sprinting alongside his guide runner during a race at the 2000 Sydney Paralympic Games.
+    kind: representative
+    origin: third-party
+    subject: A visually-impaired sprinter running tethered to a guide runner at the Paralympic Games
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 When Cheah Liek Hou defended his SU5 badminton gold at Paris 2024, the triumph confirmed that Malaysian para sport now has a more solid line-up of champions, no longer just an occasional achievement. Behind that moment lies a distinct governance structure, separate from the more famous Olympic world.

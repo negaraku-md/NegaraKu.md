@@ -25,7 +25,7 @@ verificationNeeded:
   - "ما إذا كان شرطٌ محدّد خاص بالسائق (مثل حدّ أدنى للسنّ) ينطبق ينبغي تأكيده مع JPJ أو مع مشغّل النقل التشاركي المعني، إذ لم يُذكَر بصيغة يمكن تأكيدها على الصفحات الرسمية التي جرى الرجوع إليها"
 
 lang: "ar"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["النقل التشاركي في ماليزيا", "تنظيم Grab في ماليزيا", "رخصة PSV للنقل التشاركي", "e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "تصريح مركبة النقل التشاركي APAD", "كيف يعمل Grab في ماليزيا", "رخصة سائق النقل التشاركي ماليزيا"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'سيارة هيونداي أيونيك إلكتريك بيضاء تحمل شعار Grab Electric الأخضر وعبارة "0 percent emisi" على الطريق.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: سيارة سيدان مغلّفة بطلاء Grab الأخضر لخدمة طلب الركوب وأعلام ماليزية تسير في شارع في Kota Kinabalu، Sabah.
+    kind: actual
+    origin: third-party
+    subject: سيارة بطلاء Grab في Kota Kinabalu، Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: فرقة تحمل علامة Grab تسير في عرض اليوم الوطني لعام 2023 في Kota Kinabalu، Sabah.
+    kind: actual
+    origin: third-party
+    subject: فرقة Grab في عرض اليوم الوطني في Kota Kinabalu
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 افتح Grab، أو Bolt، أو inDrive، في كوالالمبور واضغط «احجز». لا شيء في تلك اللحظة يبدو منظَّمًا. لكن الرحلة التي تصل قائمة على ثلاث رخص منفصلة كان لا بدّ أن توجد قبل أن يتمكّن سائقك من قبول أجرتك بشكل قانوني — وليست أيٌّ منها ملكًا للتطبيق وحده.

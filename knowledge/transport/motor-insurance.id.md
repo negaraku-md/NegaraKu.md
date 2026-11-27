@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pemilik dan pengemudi kendaraan bermotor di Malaysia — mobil, sepeda motor dan kendaraan komersial — yang ingin memahami jenis perlindungan asuransi dan persyaratan undang-undangnya."
 
 lang: "id"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -63,6 +63,32 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'Mobil mengantre rapat dalam kemacetan lalu lintas di Federal Highway Malaysia di bawah jembatan penyeberangan pejalan kaki.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: Sebuah truk derek kota berwarna biru di Kuala Lumpur, jenis yang menarik kendaraan setelah mogok atau kecelakaan.
+    kind: actual
+    origin: third-party
+    subject: Truk derek di Kuala Lumpur, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: Mobil berdempetan dalam kemacetan lalu lintas sore hari di Jalan Bundusan di Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Kemacetan lalu lintas sore hari di jalan kota, Kota Kinabalu, Sabah
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 Anda boleh mengemudikan mobil yang tidak pernah dicuci, berban aus dan AC-nya rusak — dan itu semua sah di sisi undang-undang. Tetapi mengemudi tanpa satu lembar dokumen, yaitu polis asuransi pihak ketiga, adalah tindak pidana.

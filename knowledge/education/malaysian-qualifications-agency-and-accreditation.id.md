@@ -32,7 +32,7 @@ faq:
     a: "Ya. Program yang ditawarkan oleh penyedia pendidikan tinggi mana pun yang beroperasi di Malaysia, termasuk kampus cabang asing, dijamin kualitasnya di bawah MQF dan tercantum dalam MQR. Sebagian universitas mapan memegang status swaakreditasi, yang memberi kewenangan kepada mereka untuk mengakreditasi program mereka sendiri pada MQF dan mendaftarkan program tersebut dalam MQR."
 
 lang: "id"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'Ini untuk calon mahasiswa, orang tua, dan pemberi kerja yang memeriksa apakah suatu kualifikasi pascamenengah Malaysia diakui secara resmi.'
+  how: 'Cari di Malaysian Qualifications Register (MQR, Daftar Kualifikasi Malaysia) yang gratis menurut nama program, jenjang, dan kampus penyelenggara yang tepat, lalu pastikan program itu memegang Provisional atau Full Accreditation. Pengakuan untuk profesi teregulasi atau untuk pekerjaan sektor publik diverifikasi secara terpisah dengan badan terkait.'
+  cost: 'Pencarian MQR gratis; pengakuan yang mungkin Anda andalkan — lisensi profesi, pekerjaan pemerintah, atau studi di luar negeri — masing-masing bisa memerlukan verifikasi terpisah dengan badannya sendiri.'
+  watch: 'Akreditasi melekat pada program dan tahun penerimaan tertentu, bukan pada institusi — universitas yang bereputasi pun masih bisa menjalankan program baru, provisional, atau yang belum terdaftar. Klaim ''MQA-approved'' pada brosur bukanlah daftar resminya; pastikan sendiri entri yang aktif, dan ingat bahwa status provisional itu sah, bukan kelas dua.'
+  next: 'Cari program Anda yang tepat di MQR sebelum membayar deposit apa pun; untuk profesi teregulasi, pastikan jalur bagi lulusan dengan badan profesi tersebut. Lihat panduan Sebelum membayar deposit kolej.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Papan nama terpasang di dinding bergambar lambang dan tulisan "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" pada dinding berlapis batu.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Para akademisi bertoga kebesaran menganugerahkan gelar di atas panggung saat upacara wisuda di Universiti Kebangsaan Malaysia
+    kind: representative
+    origin: third-party
+    subject: Upacara wisuda khusus penganugerahan gelar di Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: Gedung canselori Canselori Putra yang melengkung milik Universiti Putra Malaysia di samping sebuah plaza bertata taman
+    kind: representative
+    origin: third-party
+    subject: Gedung Canselori (balai administrasi) Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Dua orang pelajar lulus dengan diploma yang terdengar sama. Seorang layak untuk pekerjaan pemerintah dan tempat studi sarjana; seorang lagi ditolak di pintu masuk. Perbedaannya sering kali terletak pada satu baris dalam daftar publik: apakah Agensi Kualifikasi Malaysia telah mengakreditasi program tersebut.

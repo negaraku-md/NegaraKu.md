@@ -41,7 +41,7 @@ verificationNeeded:
   - "Le nombre de sièges à l'Assemblée législative de l'État et au Parlement n'est délibérément pas indiqué car il n'a pas pu être confirmé par rapport aux sources officielles de la SPR au moment de la préparation de ce brouillon."
 
 lang: "fr"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,9 +98,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'Le palais Istana Jahar, en bois traditionnel richement orné de noir et de jaune, à Kota Bharu, avec une calèche garée sur son parvis pavé.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: Le long bâtiment colonial au toit rouge du musée de l'État de Kelantan se dresse derrière un grand palmier sous un ciel bleu limpide à Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Musée de l'État de Kelantan (Muzium Negeri Kelantan), Kota Bharu
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: Des marchands vendent des produits frais parmi les étals bondés du marché central Pasar Siti Khadijah, à étages et vivement éclairé, à Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Pasar Siti Khadijah, Kota Bharu, Kelantan
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 L'économie de la Malaisie se raconte habituellement à travers l'usine. Le Kelantan en

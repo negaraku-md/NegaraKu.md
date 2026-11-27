@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -109,9 +109,35 @@ sources:
     publisher: "可持续能源发展局（SEDA）"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: '马来西亚一座校园湖面上的浮动太阳能光伏阵列，旁边是一条有顶棚的走道。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: 一片开辟出的草地上,成排深蓝色太阳能光伏板架设在低矮的金属支架上,有围栏,向远处的树线延伸,晴朗的蓝天上飘着零散的云
+    kind: actual
+    origin: third-party
+    subject: 沙巴双溪双溪一座地面安装的太阳能光伏电场,为乡村电网发电
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: 一座弧形大坝将绿色水库拦蓄于林木覆盖的群山之间,坝面设有溢洪道与取水结构,周围山坡覆盖着茂密的热带丛林
+    kind: actual
+    origin: third-party
+    subject: 吉兰丹的柏高水电站与水库,马来西亚半岛的一座可再生水电工程
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 如果你尝试了解马来西亚的可再生能源（RE），你很可能已经碰到三个不同的目标数字——31%、40% 和 70%——以及一堆缩写：FiT、NEM、LSS、CGPP、CRESS、SELCO。这些内容并不矛盾；它们只是分散在六个左右的机构之间，每个机构只记录自己负责的那一块。本指南将整个格局汇集于一处：国家目标及其背后的路线图、各类计划，以及大多数资料略过的部分——哪一项计划实际上是为业主、企业还是开发商而设的。

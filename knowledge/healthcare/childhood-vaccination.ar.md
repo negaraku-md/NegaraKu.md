@@ -26,7 +26,7 @@ verificationNeeded:
   - "تعذّر التحقق من تفاصيل اللقاحات الإضافية/الاختيارية (مثل اللقاحات غير الإلزامية المقدَّمة مقابل رسوم) مقابل المصادر الرسمية لـ KKM وقت الكتابة، ولذلك لم تُذكر على وجه التحديد في هذا المقال."
 
 lang: "ar"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["تطعيم الأطفال في ماليزيا", "جدول التطعيم الوطني", "البرنامج الوطني للتطعيم", "National Immunisation Programme", "لقاحات مجانية في العيادات الصحية", "دفتر السجل الصحي للرضّع والأطفال", "Immunise4Life Malaysia", "تطعيم مجاني ماليزيا"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'مركز تطعيم تابع لوزارة الصحة الماليزية مُهيّأ للأطفال، مع جدارية ملائمة للأطفال كُتب عليها ''I''m vaccinated''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: مركز لتطعيم الأطفال تابع لوزارة الصحة الماليزية يحمل شعار KKM وصفوفًا من كراسي الانتظار، مع ظهور عدد قليل من الأشخاص من بعيد فقط
+    kind: actual
+    origin: third-party
+    subject: مركز وزارة الصحة لتطعيم الأطفال (PPV PICKids) في Pavilion Bukit Jalil بـ Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: قارورة لقاح مُغطّاة تقف بجانب حقنة لقاح مملوءة مسبقًا، تمثّلان اللقاحات التي تُعطى ضمن جدول التطعيم
+    kind: representative
+    origin: third-party
+    subject: قارورة لقاح وحقنة لقاح إنفلونزا مملوءة مسبقًا على سطح بسيط
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 كل مولود يولد في عيادة أو مستشفى حكومي في ماليزيا يعود إلى البيت بأكثر من مجرد شهادة ميلاد مؤقتة — إذ يعود ومعه دفتر صغير سيُحمَل إلى *كل* زيارة للعيادة طوال السنوات الست المقبلة. وهذا الدفتر، وجدول التطعيم الذي يسجّله، جزء من أحد أطول برامج الصحة العامة عمراً في البلاد.

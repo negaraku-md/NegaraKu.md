@@ -28,7 +28,7 @@ faq:
   - q: "DOF quản lý luật nào?"
     a: "Đạo luật chính của cục là Fisheries Act 1985 (Act 317), bao trùm việc bảo tồn, quản lý và phát triển đánh bắt cá và nghề cá trong vùng nước Malaysia, bao gồm cấp phép, nuôi trồng thủy sản, động vật có vú dưới nước và rùa."
 lang: "vi"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'Một khu chợ cá hình tròn với những chiếc thuyền đánh cá neo đậu bên bến tàu ở Sandakan, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: Công nhân phân loại cá tươi vào các thùng bên cạnh chiếc thuyền đánh cá neo đậu tại khu phức hợp thủy sản ở Kuantan, Pahang
+    kind: actual
+    origin: third-party
+    subject: Công nhân phân loại mẻ cá tươi tại bến cá ở Kuantan, Pahang
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: Những bệ lồng nuôi tôm nổi lớn neo đậu trên dòng Sungai Sitompok viền rừng ngập mặn tại Kuala Penyu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Những lồng nuôi tôm nổi trên con sông ngập mặn ở Sungai Sitompok, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 Mỗi con thuyền hợp pháp thả lưới trong vùng nước Malaysia rốt cuộc đều chịu trách nhiệm trước một cơ quan. **Cục Thủy sản Malaysia (Department of Fisheries Malaysia, DOF)** — *Jabatan Perikanan Malaysia* — là cơ quan liên bang quản lý tài nguyên biển và nuôi trồng thủy sản của quốc gia và cấp phép cho mọi hoạt động đánh bắt cá. Cơ quan này hoạt động dưới **Bộ Nông nghiệp và An ninh Lương thực (Ministry of Agriculture and Food Security, MAFS)**, quản lý **Fisheries Act 1985 (Act 317)**, và được lãnh đạo bởi **Tổng Giám đốc Thủy sản**. Trụ sở của cục đặt tại Wisma Tani, Putrajaya, được hỗ trợ bởi một mạng lưới các văn phòng bang và huyện.

@@ -65,7 +65,7 @@ sources:
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
 
 relations: []
-related: []
+related: ["income-tax-individuals", "income-tax-act-1967", "dividend-tax-malaysia"]
 keywords: ["e-ansuran lhdn", "سداد ضريبة الدخل بالأقساط في ماليزيا", "pay income tax instalments malaysia", "متأخرات الضريبة بالأقساط", "tax arrears instalment malaysia", "CP500 vs CP204", "byrhasil fpx payment", "mytax instalment", "section 107c cp204"]
 social:
   hashtags:

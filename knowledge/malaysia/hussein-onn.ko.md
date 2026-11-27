@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0212
 title: "후세인 온"
-seoTitle: 후세인 온
+seoTitle: "후세인 온: 말레이시아의 제3대 총리 (1976–1981)"
 slug: "hussein-onn"
 category: "malaysia"
 subcategory: ["modern"]

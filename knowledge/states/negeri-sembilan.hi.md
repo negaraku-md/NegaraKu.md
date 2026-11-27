@@ -38,7 +38,7 @@ verificationNeeded:
   - "आधिकारिक राज्य पोर्टल पर जातीय संरचना प्रतिशतों (मलय 61.5%, चीनी 22.9%, भारतीय 15.1%, अन्य 0.5%) की तिथि और आधार की पुष्टि करें — यह आँकड़ा अदिनांकित है और 2020 जनगणना की वर्गीकरण संरचना से मेल नहीं खाता, जो गैर-नागरिकों को एक अलग श्रेणी के रूप में रिपोर्ट करती है।"
 
 lang: "hi"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["नेगेरी सेम्बिलान", "Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "नेगेरी सेम्बिलान के luak", "सेरेम्बान", "Seremban", "सेरी मेनांती", "मातृवंशीय मिनांगकाबाउ"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'परतदार नुकीली मीनांगकाबाउ छतों वाला गहरे रंग की लकड़ी का सेरी मेनांती राजमहल, हरी घास पर एक लाल मंडप और पीछे वनाच्छादित पहाड़ियों के साथ।'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: नेगेरी सेम्बिलान के पोर्ट डिक्सन में ताड़ के पेड़ों से घिरा धीरे-धीरे मुड़ता रेतीला समुद्र तट शांत मलक्का जलडमरूमध्य के सामने है।
+    kind: actual
+    origin: third-party
+    subject: पोर्ट डिक्सन समुद्र तट, नेगेरी सेम्बिलान
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: सेरेम्बान में नेगेरी सेम्बिलान राज्य संग्रहालय के परिसर में भैंस-सींग जैसी घुमावदार छतों वाले लकड़ी के मीनांगकाबाउ घर खड़े हैं।
+    kind: actual
+    origin: third-party
+    subject: मुज़ियम नेगेरी सेम्बिलान, सेरेम्बान में मीनांगकाबाउ शैली के पारंपरिक घर
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 अन्य आठ मलय राज्यों में, «अगला उत्तराधिकारी कौन है» इस प्रश्न का उत्तर वंश द्वारा

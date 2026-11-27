@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: 왜 느그리슴빌란, 슬랑오르, 페락 같은 주에 힌두교도가 더 많이 사나요?
     a: 이 주들은 과거의 고무 농장과 주석 광산 지역과 일치합니다 — 영국 식민지 시대에 인도인 노동자들이 대거 정착한 곳이 바로 그곳이었습니다. 2020년 인구조사에서 느그리슴빌란(~13.1%), 슬랑오르(~10.3%), 페락(~9.7%)이 더 높은 비율을 보였습니다. 이들 대부분은 캉가니(kangani) 제도 아래 농장 노동을 위해 남인도에서 온 사람들의 후손입니다.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: '쿠알라룸푸르 중심부 스리 마하마리암만 사원(Sri Mahamariamman Temple)의 높고 화려하게 조각된 고푸람(gopuram) 탑으로, 방문객들이 서 있는 사원 입구 위로 힌두교 신상들이 빼곡히 들어차 있다.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: 페락주 이포의 칼루말라이 무루간 사원의 층층이 쌓인 선명한 색채의 탑문(고푸람)으로, 힌두교 신들의 조각상으로 뒤덮여 있다
+    kind: actual
+    origin: third-party
+    subject: 페락주 이포 칼루말라이 무루간 사원의 화려한 탑문(고푸람)
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: 디파발리를 맞아 바닥에 그린 정교하고 색이 선명한 콜람. 말레이시아의 주요 힌두교 축제이다
+    kind: actual
+    origin: third-party
+    subject: 디파발리(Deepavali)의 콜람(바닥 그림), 말레이시아
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 말레이시아의 어느 도시에서든 오래된 고무 플랜테이션 가장자리나 도심의 유서 깊은

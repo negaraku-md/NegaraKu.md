@@ -33,7 +33,7 @@ faq:
     a: "Liên đoàn Khúc côn cầu Malaysia (Malaysian Hockey Confederation, MHC) là cơ quan chủ quản quốc gia đối với các đội tuyển khúc côn cầu trên sân và trong nhà, nam và nữ. Nó liên kết với Liên đoàn Khúc côn cầu Châu Á (AHF) và FIH, và hoạt động từ Sân vận động Khúc côn cầu Quốc gia ở Bukit Jalil, Kuala Lumpur."
 
 lang: "vi"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,32 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'Các cầu thủ khúc côn cầu trên sân đuổi theo bóng trong một trận đấu của Malaysia tại World Cup Khúc côn cầu.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: Các cầu thủ trong trận khúc côn cầu trên sân, Malaysia gặp Hà Lan, tại World Cup Khúc côn cầu 1973 ở Amstelveen.
+    kind: actual
+    origin: third-party
+    subject: Đội tuyển khúc côn cầu trên sân quốc gia Malaysia thi đấu tại World Cup Khúc côn cầu 1973
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: Mặt sân và khán đài của Sân vận động Khúc côn cầu Taman Daya ở Johor Bahru, Johor, một địa điểm khúc côn cầu trên sân tại Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Sân vận động Khúc côn cầu Taman Daya ở Johor Bahru, một địa điểm khúc côn cầu trên sân của Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 Vào ngày 15 tháng 3 năm 1975, một sân vận động ở Kuala Lumpur chứng kiến Ấn Độ nâng Cúp Thế giới khúc côn cầu nam lần duy nhất trong lịch sử của họ — và chủ nhà không phải Ấn Độ, mà là Malaysia. Nửa thế kỷ sau, cũng chính quốc gia đó vẫn mời các cường quốc khúc côn cầu thế giới đến Ipoh mỗi năm. Khúc côn cầu trên sân có thể không phải môn thể thao phổ biến nhất ở Malaysia ngày nay, nhưng nó có lẽ là di sản thể thao được tôn trọng nhất của đất nước ở tầm quốc tế.

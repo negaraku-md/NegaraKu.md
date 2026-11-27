@@ -29,7 +29,7 @@ faq:
     a: "These include those involved in high-risk activities, female donors who are pregnant/menstruating/breastfeeding, anyone who lived in the UK for 6 months or more (cumulative) between 1980 and 1996, or who has lived in a European country for 5 years or more (cumulative) from 1980 to the present — both on account of vCJD risk."
 
 lang: "en"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ entity: "Pusat Darah Negara"
 wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "hiv-aids-and-sexual-health-services"]
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'A Malaysian blood donor seated in a donation chair beside a smiling nurse holding a filled blood bag'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: A bright blood-donation hall lined with empty reclining donor couches, instrument trolleys and a reception desk, with no donors present
+    kind: representative
+    origin: third-party
+    subject: Interior of a blood-donation centre with a row of empty reclining donor couches and equipment
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: A hand holding a filled, sealed blood-collection bag with its donation-record label and tubing, representing the equipment used to collect and store donated blood
+    kind: representative
+    origin: third-party
+    subject: A sealed collection bag holding a unit of donated whole blood at a donation session
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 According to PDN, a single blood donation can save at least three lives — because whole blood is processed into red blood cells, platelets and plasma for different patients.

@@ -33,7 +33,7 @@ faq:
     a: "是的。DNB 依据《1998 年通讯及多媒体法令》获发牌照，并受 MCMC 监管。单一批发网络模式已经结束：政府于 2023 年决定转向双网络模式，U Mobile 获选为第二个 5G 网络（于 2026 年 1 月投入服务）。MCMC 对两个网络均进行监管。"
 
 lang: "zh"
-sourceContentHash: "5e417b42cf91ed1a"
+sourceContentHash: "304ac686ae9ba86c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,33 @@ relations:
   - { rel: "governs", to: "digital-nasional-berhad" }
 related: ["online-safety-act-malaysia"]
 keywords: ["MCMC", "SKMM", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen kelas", "spektrum", "JENDELA", "Digital Nasional Berhad", "5G"]
+hero: '/media/technology/mcmc-malaysia/hero.webp'
+heroAlt: '马来西亚赛城Shaftsbury Square现代玻璃办公塔楼和商业建筑'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shaftsburry_Square_Cyberjaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Office towers at Shaftsbury Square in Cyberjaya, the corporate district where MCMC is headquartered'
+images:
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-1.webp
+    alt: Telekom Malaysia Research and Development 办公楼，一座位于 Cyberjaya 的现代科技建筑
+    kind: representative
+    origin: third-party
+    subject: 位于 Cyberjaya 的 Telekom Malaysia Research & Development（TMR&D）办公楼——MCMC 所监管领域内的一座电信业建筑
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-2.webp
+    alt: Cyberjaya 的天际线，住宅和办公高楼矗立在绿色园林之上
+    kind: representative
+    origin: third-party
+    subject: 马来西亚通信与多媒体枢纽 Cyberjaya 的天际线
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skylines_of_Cyberjaya_(221225)_01.jpg
 ---
 
 每当你的手机从 4G 跳到 5G、连上家里的 Wi-Fi，或架起卫星天线，这些活动都在同一个机构所监管的法律框架内运行——那就是 MCMC。它决定谁可以建设网络、谁可以在网络之上销售服务，以及哪些无线电频率可以使用。

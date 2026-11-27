@@ -75,9 +75,16 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: '一座蓝色屋顶的单层县署，墙上写着"Pejabat Daerah Sipitang"，两侧列着成排的马来西亚和沙巴旗帜。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在你投票选出的州与你居住的村庄之间，有一层很少被提及、却是你办理土地、发展项目或紧急援助时最常打交道的政府层级：县。就是在这里，州的政策转化为实际的服务，而其核心就是县署。

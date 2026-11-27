@@ -75,6 +75,32 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'The nine-tiered umbrella-roofed Sarawak State Legislative Assembly building beside the brown Sarawak River with a wooden boat passing in front.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sarawak/body-1.webp
+    alt: The white former royal palace known as the Astana stands across the Sarawak River from the Kuching Waterfront.
+    kind: actual
+    origin: third-party
+    subject: The Astana seen from Kuching Waterfront, Sarawak
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_(17772477902).jpg
+  - role: scene
+    src: /media/states/sarawak/body-2.webp
+    alt: A sandy beach backed by jungle-clad cliffs fronts the sea at the park headquarters of Bako National Park near Kuching in Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Beach below the park headquarters at Bako National Park, Sarawak
+    credit: Sgroey / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beach_outside_park_HQ_at_Bako_NP.jpg
 ---
 
 Sarawak is Malaysia in a different key. It is by far the largest state in the

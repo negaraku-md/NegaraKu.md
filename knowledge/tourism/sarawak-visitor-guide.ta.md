@@ -38,7 +38,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 
 status: "published"
 aiAssisted: true
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'போர்னியோ இயற்கை மற்றும் வாழும் Dayak பண்பாட்டைத் தேடும் பயணிகளுக்கு ஏற்றது — Semenggoh-இன் அரை-காட்டு ஒராங்குட்டான்கள் மற்றும் Bidayuh நீள்வீடுகளுக்கு நிதானமான, நடந்து செல்லக்கூடிய Kuching-ஐத் தளமாகப் பயன்படுத்தி, Gunung Mulu-இன் உலகப் பாரம்பரியக் குகைகளும் மழைக்காடும் தலைப்புச்செய்தி சேர்க்கையாக.'
+  getThere: 'முதன்மை மையமாக Kuching-க்குப் பறந்து செல்லுங்கள், பூங்காவுக்கு நடைமுறையான சாலை எதுவும் இல்லாததால் Gunung Mulu MASwings விமானங்கள் மூலம் மட்டுமே (Miri, Kuching அல்லது Kota Kinabalu இலிருந்து) அடையப்படுகிறது.'
+  permit: 'Sarawak தனது சொந்த குடிவரவை நடத்துகிறது, எனவே அனைவரும் — தீபகற்பத்திலிருந்து வரும் மலேசியர்கள் உட்பட — வருகையில் சோதிக்கப்பட்டு நுழைவுச் சீட்டு வழங்கப்படுகிறார்கள் (வெளிநாட்டவர்கள் தங்கள் மலேசிய நுழைவுக்கு மேல் தனி Sarawak முத்திரை பெறுகிறார்கள், மேலும் பெரும்பாலானோர் முன்பே MDAC-ஐ இணையத்தில் தாக்கல் செய்ய வேண்டும்), மேலும் Mulu விமானங்களும் வழிகாட்டப்பட்ட குகை சுற்றுலாக்களும் முன்பே முன்பதிவு செய்யப்பட வேண்டும்.'
+  watch: 'Mulu-இன் சிறிய விமானங்கள் வானிலையால் வழக்கமாகத் தாமதமாகின்றன அல்லது ரத்து செய்யப்படுகின்றன, எனவே கூடுதல் நாட்களை ஒதுக்குங்கள், பூங்காவிலிருந்து வெளியேறும் இறுக்கமான தொடர் இணைப்பை ஒருபோதும் முன்பதிவு செய்யாதீர்கள்.'
+  next: 'உங்கள் நாட்டினருக்கான தற்போதைய விசா மற்றும் MDAC தேவைகளை Immigration Department of Malaysia-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'Sarawak Gunung Mulu National Park-ல் பச்சை மழைக்காட்டையும் மூடுபனியையும் துளைக்கும் கூரான சாம்பல் சுண்ணாம்புக்கல் சிகரங்களின் காடு'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Semenggoh Nature Reserve-இல் அடர்த்தியான பச்சை மழைக்காட்டுக்கு இடையே கயிறுகளுக்கு இடையே தொங்கி நீளும் ஒரு சிவப்பு-முடி ஒராங்குட்டான்
+    kind: actual
+    origin: third-party
+    subject: Kuching-க்கு அருகில் Semenggoh Nature Reserve-இல் மழைக்காட்டில் கயிறுகளின் வழியே நகரும் ஒரு காட்டு ஒராங்குட்டான்
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Sarawak மலைச்சரிவில் மழைக்காட்டால் பின்னணியாக, சிவப்புக் கூரையுடன் கம்பங்களில் உயர்த்தப்பட்ட ஒரு நீண்ட மரத்தாலான Iban நீள்வீடு
+    kind: actual
+    origin: third-party
+    subject: Sarawak-இல் காடு மூடிய ஆற்றங்கரையோரம் கம்பங்களில் உயர்த்தப்பட்ட ஒரு பாரம்பரிய Iban நீள்வீடு
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 கோலாலம்பூரிலிருந்து குச்சிங்கிற்கு இரண்டு மணிநேரத்திற்குள் பறக்கலாம், உங்கள் சொந்த நாட்டை ஒருபோதும் விட்டு வெளியேறாமலேயே, இருந்தாலும் மறுமுனையில் குடிவரவின் வழியாக முத்திரையிடப்படுவீர்கள். வருகை மண்டபத்தில் ஏற்படும் அந்த ஆச்சரியம்தான் சரவாக்கைப் புரிந்துகொள்வதில் மிக முக்கியமான ஒற்றை விஷயம்: இது தன் சொந்த எல்லையை நடத்தும் ஒரு மலேசிய மாநிலம்.

@@ -23,7 +23,7 @@ verificationNeeded:
   - "لا يذكر هذا المقال أعداد القبول في البرامج، أو نسب الحصص، أو أرقام رسوم محددة لأيّ مؤسسة — فهذه تختلف بحسب البرنامج والحرم الجامعي وتتغيّر كل دفعة؛ تأكّد مباشرة من e-Panduan التابع لـ UPU (للجامعات العامة) أو من المؤسسة المعنية (للجامعات الخاصة) قبل التقديم."
   - "لم يُذكر هنا العدد الحالي الدقيق لمزوّدي IPTS المسجَّلين لأن جداول الإحصاءات المنشورة من MOHE (Statistik Pendidikan Tinggi) لم تُفتح بالكامل لهذا المقال — للحصول على رقم دقيق وحالي ارجع مباشرة إلى منشور Statistik Pendidikan Tinggi الصادر عن MOHE."
 lang: "ar"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,39 @@ faq:
   - q: برنامج ما "معتمَد مؤقتًا" فحسب — هل يعني ذلك أنه غير معتمَد؟
     a: لا. بموجب مدونة ممارسات اعتماد البرامج الصادرة عن MQA، يؤكد الاعتماد المؤقت (Provisional Accreditation) أن البرنامج قد استوفى الحد الأدنى من متطلبات الجودة ليُقدَّم بصورة قانونية، وهو في حد ذاته شرط لموافقة الوزارة. أما الاعتماد الكامل (Full Accreditation) فهو التقييم الأشمل الذي يُجرى بعد أن تجتاز الدفعة الأولى البرنامج. والبرنامج المعتمَد مؤقتًا شرعي ويمكن تقديمه قانونيًا؛ غاية الأمر أنه لم يُكمِل بعدُ تقييم الدورة الكاملة.
 framework: explainer
+stayFacts:
+  who: 'هذا موجَّه إلى حاملي SPM أو STPM أو التأهيلي (matriculation) أو الأساسي (foundation) أو UEC أو A-Level أو الدبلوم ممّن يختارون بين جامعة عامة (IPTA/Universiti Awam) وجامعة خاصة (IPTS).'
+  how: 'تقبل الجامعات العامة طلابها كلهم تقريباً عبر UPU (الوحدة المركزية للجامعات)، وهو النظام الإلكتروني المركزي للوزارة — إذ ترتّب تفضيلاتك من البرامج وتُطابَق بالجدارة مع مقاعد محدودة قائمة على الحصص. أما المؤسسات الخاصة فهي خارج UPU، وتدير قبولها المباشر المستمرّ بنفسها، وتقبل مزيجاً أوسع من المؤهّلات.'
+  cost: 'طلب UPU نفسه مجاني، وإن كان عليك شراء معرّف Unik ID من 12 رقماً من بنك سيمبانان الوطني (BSN) لتسجيل الدخول؛ أما رسوم المؤسسات الخاصة فتُحدَّد لكل برنامج وتتغيّر، لذا تأكّد من الأرقام الحالية عبر e-Panduan التابع لـ UPU أو لدى المؤسسة.'
+  watch: 'لا يخبرك تصنيف IPTA/IPTS بذاته إن كانت الشهادة معترفاً بها — فذلك يتوقّف على ما إذا كان البرنامج المحدد معتمَداً من MQA ومدرَجاً في السجلّ الماليزي للمؤهّلات (MQR)، وهو ما ينبغي أن تتحقّق منه لسنة التحاقك بالضبط. ولا يمكنك التقديم إلى جامعة خاصة عبر UPU.'
+  next: 'قرِّر انطلاقاً من المؤهّل الذي تحمله، ثم تحقّق من البرنامج وسنة الالتحاق بالضبط في السجلّ الماليزي للمؤهّلات قبل التسجيل في أيٍّ من النوعين. راجع شرح اعتماد MQA، ومقال قبل دفع عربون الكلية.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'قاعة حداثية طويلة من الخرسانة الخام مع حروف ''Dewan Tunku Canselor'' زرقاء ودرج خارجي، أمامها حدائق تشذيب وطريق خالٍ'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: مبنى إدارة جامعية متعدّد الطوابق بزجاج أزرق وبرج مركزي مقوّس على تلّة منسّقة، تصعد إليه درجات مدرّجة تصطفّ عليها الأعلام
+    kind: representative
+    origin: third-party
+    subject: مبنى المستشارية الزجاجي الحديث لـ Universiti Teknologi MARA (UiTM)، إحدى أكبر الجامعات الحكومية في ماليزيا
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: بوّابة مدخل جامعة بأعمدة حجرية تحمل لافتة 'Universiti Sains Malaysia'، تحفّها سواري الأعلام وخضرة كثيفة تحت سماء غائمة
+    kind: representative
+    origin: third-party
+    subject: بوّابة المدخل الرئيسي لـ Universiti Sains Malaysia (USM)، جامعة بحثية حكومية، في نيبونغ تيبال، بينانغ
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 طالبتان بالنتيجة نفسها في امتحان SPM تنتهيان في نظامين مختلفين تماماً. تملأ إحداهما استمارة مركزية واحدة وتنتظر أشهراً لتُخبَر بأيّ جامعة وأيّ تخصّص خُصِّص لها. وتتقدّم الأخرى مباشرة إلى ثلاث جامعات خاصة في الأسبوع نفسه، فتحصل على عرض خلال أيام، وتختار أيّها شاءت. ولا مسار منهما «أفضل» بالإطلاق — لكن الخلط في كيفية عملهما هو أكثر خطأ شائع يرتكبه خرّيجو المدارس عند التخطيط بعد SPM.

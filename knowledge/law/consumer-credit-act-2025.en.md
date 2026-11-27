@@ -101,9 +101,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 Paying three monthly instalments for a pair of shoes, or driving home a new car with a 10% deposit — two credit transactions that are commonplace for Malaysians, yet until recently were governed by very different legal worlds. Now, both are being reorganised at nearly the same time.

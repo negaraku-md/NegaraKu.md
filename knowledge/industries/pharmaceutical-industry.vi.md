@@ -31,7 +31,7 @@ faq:
   - q: Những công ty dược phẩm chính của Malaysia là ai?
     a: Các nhà sản xuất nội địa nổi tiếng nhất là Pharmaniaga (nhà sản xuất, phân phối tích hợp và bên nắm nhượng quyền của chính phủ), Duopharma Biotech (lớn lên từ tập đoàn CCM và làm biosimilar), CCM, Kotra Pharma và Hovid. Các đa quốc gia như Pfizer, Novartis và GSK chủ yếu tập trung vào thuốc có bằng sáng chế thay vì sản xuất nội địa quy mô lớn.
 lang: vi
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - đóng chai-hoàn thiện vaccine
   - GMP PIC/S
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Các lọ thuốc đã đậy nắp di chuyển trên băng chuyền tự động của một dây chuyền sản xuất dược phẩm.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: Vài công nhân mặc áo khoác và đội mũ màu xanh đứng quanh một bàn làm việc phủ đầy các dãy chai thuốc nhỏ sẫm màu xếp sát nhau, cầm và kiểm tra chúng, trong một nhà máy dược phẩm sáng sủa với những tủ mặt kính dọc theo tường
+    kind: representative
+    origin: third-party
+    subject: công nhân mặc đồng phục xanh và đội mũ trùm tóc kiểm tra và đóng gói những dãy chai thuốc đã được chiết trên bàn tại bộ phận đóng gói dược phẩm
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: Một đôi tay đeo găng nitrile xanh và mặc áo blouse trắng đang đặt một khay nhựa trong suốt đựng thuốc viên lên một thiết bị phòng thí nghiệm bằng thép không gỉ có dán nhãn cảnh báo về bề mặt nóng
+    kind: representative
+    origin: third-party
+    subject: một kỹ thuật viên đeo găng tay đưa khay mẫu viên thuốc vào thiết bị thử nghiệm trong phòng thí nghiệm kiểm soát chất lượng dược phẩm
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 Mỗi lần một người Malaysia mua một đơn thuốc kháng sinh, một viên giảm đau hay một viên hạ huyết áp, có khả năng tốt rằng loại thuốc đó được làm ra ở Malaysia — không được phát minh ở đây, mà được bào chế, dập viên, đóng và đóng gói trong một nhà máy nội địa làm việc theo các tiêu chuẩn sản xuất quốc tế. Đó là trái tim của ngành dược phẩm Malaysia: một nền tảng chế tạo vững chắc, dẫn dắt bởi thuốc gốc, giữ cho tủ thuốc quốc gia luôn đầy, đi kèm hai canh bạc tham vọng hơn — dược phẩm halal và sản xuất vaccine — mà đất nước hy vọng sẽ đưa mình lên chuỗi giá trị.

@@ -34,7 +34,7 @@ faq:
     a: "تعمل هنا أسماء عالمية مثل Intel وAMD وBroadcom وBosch وOSRAM، إلى جانب شركات التصنيع التعاقدي (EMS) مثل Jabil وFlex وPlexus وSanmina وBenchmark، وشركات محلية المنشأ من بينها Inari Amertron."
 
 lang: "ar"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["صناعة E&E", "E&E industry", "الكهرباء والإلكترونيات", "electrical and electronics", "التصنيع في ماليزيا", "Malaysia manufacturing", "إلكترونيات بينانغ", "Penang electronics", "أشباه الموصلات", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'لقطة مقرّبة للوحة دارات مطبوعة خضراء مكتظّة بمكثّفات برتقالية زاهية ومكثّفات إلكتروليتية أسطوانية ورقائق دارات متكاملة سوداء ومقاومات ذات أشرطة ملوّنة'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: يد تمسك أداة لحام وملقطاً دقيقاً تعمل على مكوّن صغير بتقنية التركيب السطحي على لوحة دوائر مطبوعة خضراء مكتظة بالرقائق والمسارات
+    kind: representative
+    origin: third-party
+    subject: يد تستخدم ملقطاً دقيقاً ومكواة لحام لإعادة تركيب مكوّن سطحي على لوحة دوائر
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: لوحة دوائر مطبوعة خضراء مصوّرة من الأعلى مباشرة، مزوّدة بعدة رقائق دوائر متكاملة سوداء مُعلّمة ووحدات ذاكرة وصفوف من مكوّنات التركيب السطحي الصغيرة
+    kind: representative
+    origin: third-party
+    subject: منظر علوي للوحة دوائر مطبوعة مكتملة التجميع لجهاز إلكترونيات استهلاكية
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 افتح أي حاسوب محمول أو هاتف ذكي أو سيارة صُنعت في العقد الأخير تقريباً، وثمة احتمال معقول أن جزءاً منها مرّ عبر ماليزيا. فالرقاقة بداخلها ربما اختُبرت وغُلِّفت في بينانغ (Penang)؛ وربما جُمِّع محوّل الطاقة أو الإضاءة الخلفية LED أو لوحة الدوائر في كوليم أو ملقا أو وادي كلانغ. وبالنسبة إلى بلد يبلغ عدد سكانه نحو 34.1 مليون نسمة (2024، DOSM)، تقع ماليزيا عند نقطة مركزية على نحو مفاجئ في سلسلة توريد الإلكترونيات العالمية — وذلك في معظمه قصة صناعة واحدة.

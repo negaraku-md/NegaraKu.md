@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["राज्य इस्लामी धार्मिक परिषद", "Majlis Agama Islam Negeri", "MAIN", "ज़कात zakat", "वक़्फ़ wakaf", "फ़तवा fatwa", "अनुच्छेद 3", "राज्य सूची", "इस्लामी प्रशासन"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: 'सेरेम्बान में आंशिक रूप से बादल भरे आसमान के नीचे फैली अवतल घुमावदार छत-रेखाओं और तीन ऊँची कंक्रीट मीनारों वाली आधुनिकतावादी सफेद राज्य मस्जिद।'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 पूछिए कि आपके राज्य में ज़कात, वक़्फ़ और मस्जिदों का प्रबंधन कौन करता है, तो उत्तर पुत्रजया में स्थित कोई मंत्रालय नहीं होगा — बल्कि एक राज्य वैधानिक निकाय होगा जो स्वयं उस राज्य के शासक के प्रति उत्तरदायी है। वह निकाय है राज्य इस्लामी धार्मिक परिषद (MAIN), और हर राज्य में इसका अस्तित्व एक ही संवैधानिक सिद्धांत से उपजता है: इस्लामी धार्मिक मामले एक राज्य विषय हैं, कोई संघीय विषय नहीं।

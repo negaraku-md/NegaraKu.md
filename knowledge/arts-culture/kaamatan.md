@@ -85,6 +85,33 @@ festivalFacts:
   when: "30 and 31 May, with celebrations running through much of May district by district before the state-level finale on those two days."
   holiday: "A public holiday in the state of Sabah and the federal territory of Labuan on 30 and 31 May; not a nationwide public holiday."
   etiquette: "Understand the Unduk Ngadau as a cultural pageant honouring the Huminodun legend, not an ordinary beauty contest, and treat the Bambaazon belief and Huminodun legend respectfully as the community's own tradition rather than asserted fact."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Kadazan-Dusun bobohizan priests and priestesses in black and gold traditional costume performing a Kaamatan ritual on a star-lit stage in Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: The Unduk Ngadau winner crowned among six finalists in traditional black-and-gold Kadazan-Dusun costume on stage at the Kaamatan festival in Penampang, Sabah
+    kind: actual
+    origin: third-party
+    subject: The Unduk Ngadau winner and finalists at the Kaamatan festival pageant
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: Young Kadazan-Dusun dancers in black costume with red and silver trim performing a traditional dance with gongs at a Kaamatan harvest celebration in Sabah
+    kind: actual
+    origin: third-party
+    subject: Kadazan-Dusun youths performing a harvest-festival dance with gongs
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 The festival is named after a single idea: the harvest. *Kaamatan* means exactly that in the Kadazandusun language, and everything else in the celebration — the ritual, the rice wine, the pageant crowned on the last evening — grows out of that one act of bringing in the rice.

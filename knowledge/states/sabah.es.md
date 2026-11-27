@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Lectores que buscan un perfil factual de Sabah — su geografía, economía y gobierno — y un relato neutral de su posición constitucional bajo el Acuerdo de Malasia de 1963."
 
 lang: "es"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "monte Kinabalu", "Acuerdo de Malasia de 1963", "Tierra Bajo el Viento", "economía de Sabah", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'Los escarpados picos de granito gris del Monte Kinabalu que se alzan sobre las estribaciones boscosas y las copas verdes de los árboles bajo un cielo azul.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: La mezquita de la ciudad de Kota Kinabalu, blanca y dorada, refleja sus cúpulas en la laguna artificial que la rodea en la costa de Sabah.
+    kind: actual
+    origin: third-party
+    subject: Mezquita de la ciudad de Kota Kinabalu, Sabah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: Una playa pálida salpicada de madera a la deriva rodea las aguas someras turquesas de la isla de Mataking, frente a Semporna, en Sabah.
+    kind: actual
+    origin: third-party
+    subject: Isla de Mataking, cerca de Semporna, Sabah
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 Sabah no se unió a Malasia como un estado que se incorpora a un país. Se unió como

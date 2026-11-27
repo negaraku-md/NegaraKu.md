@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "安华·依布拉欣"
+seoTitle: "安华·依布拉欣：马来西亚第十任首相（2022年至今）"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]
@@ -72,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["安华·依布拉欣", "马来西亚第十任首相", "烈火莫熄", "MADANI政府", "希望联盟"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: '安华·依布拉欣身穿深色西装，系着蓝色领带，面向镜头，这是一张在正式国事访问中拍摄的上半身肖像。'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 安华·依布拉欣（1947 年 8 月 10 日出生）是马来西亚**第十任首相**，自 2022 年

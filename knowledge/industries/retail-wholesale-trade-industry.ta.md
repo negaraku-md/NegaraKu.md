@@ -31,7 +31,7 @@ faq:
   - q: மின்-வணிகம் மலேசிய சில்லறை விற்பனையை எவ்வாறு மாற்றியுள்ளது?
     a: Shopee மற்றும் Lazada போன்ற தளங்களால் வழிநடத்தப்பட்டு, ஆன்லைன் ஷாப்பிங் விரைவாக வளர்ந்துள்ளது, மேலும் பாரம்பரிய சில்லறை விற்பனையாளர்கள் டெலிவரி, கிளிக்-அண்ட்-கலெக்ட் மற்றும் ஆன்லைன் ஸ்டோர்ஃப்ரண்ட்களைச் சேர்த்ததால் ஆன்லைன் மற்றும் உடல்-ரீதியான சில்லறைக்கு இடையிலான எல்லை மங்கலாகிவிட்டது. DOSM இன் மின்-வணிக வருமான எண்கள் டிரில்லியன் கணக்கான ரிங்கிட் வரை செல்கின்றன, இருப்பினும் அந்த மொத்தம் உற்பத்தி மற்றும் சேவைகளை உள்ளடக்கியது, சில்லறை மட்டுமல்ல.
 lang: ta
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'மலேசியாவின் கோலாலம்பூரில் உள்ள NU Sentral ஷாப்பிங் மால்லின் பல அடுக்கு மைய மண்டபம் முழுவதும் பரவியுள்ள வாங்குபவர்கள், கடைகள் மற்றும் சில்லறை விற்பனை நிலையங்கள்.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: நீண்ட பல்பொருள் அங்காடி நடைபாதை, வெள்ளை அடுக்குகளில் பைகளில் அடைக்கப்பட்ட சர்க்கரை, சமையல் எண்ணெய் மற்றும் பொதியிடப்பட்ட பொருட்கள் நிறைந்து, GULA AGAR-AGAR 21 என எழுதப்பட்ட பச்சை நடைபாதை பலகையின் கீழ், சுத்தமான ஓடு பதித்த தரை தூரத்தில் நீள்கிறது
+    kind: actual
+    origin: third-party
+    subject: சிலாங்கூர், கோட்டா டமன்சாராவில் உள்ள ஜயன்ட் ஹைப்பர்மார்க்கெட்டில் பொருட்கள் நிறைந்த மளிகை நடைபாதை, மலேசியாவின் சில்லறை வர்த்தகத்தின் ஒரு முக்கிய வடிவம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: நீண்ட ஒற்றைத் தள திறந்த சந்தைக் கொட்டகை, காலத்தால் மங்கிய பழுப்பு கூரையுடன், விளைபொருட்கள் நிறைந்த ஒரு லாரியும் இரண்டு சிறிய லாரிகளும் முன்பக்கம் வெயில் படர்ந்த தார்த் தளத்தில் நிறுத்தப்பட்டுள்ளன, தெளிந்த நீல வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: ஜோகூர் ஜெயாவில் லாரிகள் புதிய விளைபொருட்களை வழங்கும் ஒரு பாரம்பரிய திறந்த-பக்க ஈர சந்தை, மலேசியாவின் மொத்த மற்றும் சில்லறை உணவு வர்த்தகத்தின் ஒரு பகுதி
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 ஒரு மலேசியர் உடல்-ரீதியான பொருட்களுக்கு — மளிகை, ஒரு தொலைபேசி, ஒரு கார், ஒரு பாட்டில் சமையல் எண்ணெய் — செலவழிக்கும் ஏறக்குறைய ஒவ்வொரு ரிங்கிட்டும் சில்லறை மற்றும் மொத்த வர்த்தகத்தின் வழியாகச் செல்கிறது. இது அன்றாட நுகர்வின் குழாய் அமைப்பு: தயாரிக்கப்படும் இடத்திலிருந்து வாங்கப்படும் இடத்திற்கு பொருட்களை நகர்த்தும் இறக்குமதியாளர்கள், மொத்த விற்பனையாளர்கள், விநியோகஸ்தர்கள், கடைகள், சந்தைகள் மற்றும் ஆன்லைன் அங்காடிகளின் வலையமைப்பு. அதிகாரிகள் இந்த வலையமைப்பை **விநியோக வர்த்தகம்** என அழைக்கின்றனர், மேலும் இது மலேசியப் பொருளாதாரத்தின் மிகப்பெரிய மற்றும் மிகத் தெரியும் பகுதிகளில் ஒன்றாகும்.

@@ -28,7 +28,7 @@ faq:
     a: "Ya era reconocido en todo el país, tenía un color y una forma atractivos, un nombre uniforme, estaba fácilmente disponible y no era todavía la flor nacional de ningún otro país en aquel momento."
 
 lang: "es"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "flor nacional", "hibisco", "Hibiscus rosa-sinensis", "símbolos nacionales de Malasia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: 'Una vibrante flor de hibisco roja en plena floración, con pétalos ondulados y una columna estaminal central de punta amarilla, sobre un fondo de hojas verdes y brillantes.'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: Una flor de hibisco de color rojo intenso vista en ángulo, con sus pétalos ondulados enmarcando una larga columna estaminal roja que se arquea hacia abajo, rematada con polen amarillo brillante y pequeños lóbulos rojos del estigma, sobre un fondo de suave follaje verde.
+    kind: actual
+    origin: third-party
+    subject: La bunga raya roja (Hibiscus rosa-sinensis), la flor nacional de Malasia, mostrando su larga columna estaminal
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: Un hibisco de un rojo vivo florece en un arbusto frondoso en el jardín de un pueblo de Malasia, con su larga columna estaminal de color rojo rosado colgando, y cocoteros y un césped abierto iluminado por el sol al fondo.
+    kind: actual
+    origin: third-party
+    subject: Una bunga raya roja (Hibiscus rosa-sinensis) floreciendo en un arbusto en el jardín de un pueblo de Malasia
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 Siete tipos de flor compitieron en su día por representar a una nación recién independizada — y la ganadora no fue la más fragante ni la más rara, sino la más familiar en cada ciudad y pueblo. Esa flor es el bunga raya, el hibisco.

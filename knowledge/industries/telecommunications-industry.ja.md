@@ -31,7 +31,7 @@ faq:
   - q: マレーシアの通信市場はまだ成長していますか。
     a: 市場が飽和に近いため、加入者の伸びはおおむね頭打ちになっています。今後の成長は、多数の新規利用者の獲得ではなく、より付加価値の高いサービス――5G、光ファイバーの高速化、企業向け接続、デジタルサービス――から生まれると見込まれます。
 lang: ja
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: '複数のパネルアンテナを搭載した移動体通信の電波塔が、晴れた空を背景に立っている。'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: 上部にCelcomDigiのロゴとブランド名が光る大きな暗色の展示ブースと、CelcomDigi fibre, Ultra Smooth Low Latencyと記された青く光るパネル。その下にマスクを着けた来場者が集まっている。
+    kind: actual
+    origin: third-party
+    subject: 光ファイバーブロードバンドを宣伝するCelcomDigiの展示ブース。マレーシアの移動体通信・ブロードバンド事業者の消費者向けの存在を示す
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: ラックマウント式のコンピューターサーバーの長い壁が斜めに奥へと続き、各段が暗い金属製のキャビネットを背景にきらめく青いステータスランプで埋め尽くされている。
+    kind: representative
+    origin: third-party
+    subject: 電気通信網を支えるインフラである、データセンターで青いインジケーターランプを灯して並ぶネットワークおよびサーバー機器
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 マレーシアでは、ほとんど誰もがモバイル接続を携え、大半の家庭が何らかのブロードバンドを持っている。それが電気通信を、同国で最も重要かつ最も成熟した産業の一つにしている――デジタル経済、オンラインバンキング、電子政府、日々の暮らしの下にある、目に見えない配管である。だが、おなじみのブランド名の背後には、近年劇的に変化した市場が控えている。事業者の減少、大型合併、そして5Gをどう築くかという国家的な実験だ。

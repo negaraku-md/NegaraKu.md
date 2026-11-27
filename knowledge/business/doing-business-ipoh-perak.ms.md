@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,34 @@ keywords:
   - "KDNK Perak"
   - "kos berniaga di Ipoh"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'Pemandangan siang pusat bandar Ipoh dengan menara pejabat komersial moden dan padang hijau, berlatar bukit batu kapur di bawah langit berawan sebahagian'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: Bangunan stesen keretapi Ipoh kolonial putih dengan kubah dan arked bergerbang, dilihat merentasi laman hadapannya yang berturap di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Stesen keretapi Ipoh, Perak — bangunan mercu tanda berkubah zaman kolonial di laman hadapannya
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: Pandangan tinggi melintasi teras komersial bandar Ipoh yang padat dengan rumah kedai dan blok pejabat, dengan sebuah menara pejabat kaca dan bukit batu kapur di latar belakang
+    kind: actual
+    origin: third-party
+    subject: Teras komersial bandar Ipoh, Perak — blok rumah kedai dan pejabat yang padat dengan menara pejabat kaca dan bukit batu kapur di belakang
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 Halaman ini sengaja dibuat pendek. Rejim undang-undang Perak sama seperti Selangor, majlis-majlisnya menerbitkan sedikit maklumat, dan cerita sebenar Perak muat dalam lapan ratus perkataan berbanding dua ribu. Apa yang benar-benar tempatan ialah struktur kos — dan berapa kos itu kepada anda.

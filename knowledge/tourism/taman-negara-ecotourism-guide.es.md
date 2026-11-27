@@ -37,7 +37,7 @@ faq:
     a: "De forma singular, el parque se rige por tres ordenanzas estatales de la época colonial — la Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 y (Terengganu) 1939 — en lugar de la National Parks Act 1980 federal. Esto se debe a que la tierra y la silvicultura son competencias estatales según la Constitución Federal de Malasia, por lo que la ley federal no se aplica a los tres estados."
 
 lang: "es"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "pasarela elevada", "gunung tahan", "perhilitan", "parque nacional malasia", "senderismo jungla", "selva tropical"]
 framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que buscan una selva tropical ancestral — la pasarela por las copas de los árboles, el senderismo por la jungla, los escondites de observación de fauna y las travesías fluviales — con base en el acceso de Kuala Tahan, en Pahang.'
+  getThere: 'Viaje por carretera hasta Jerantut, en Pahang, y tome luego un barco río arriba por el Sungai Tembeling desde el embarcadero de Kuala Tembeling hasta Kuala Tahan, con un enlace directo por carretera como alternativa.'
+  permit: 'Cada visitante se registra para obtener un permiso de entrada de PERHILITAN a la llegada en el embarcadero o el mostrador del parque, paga aparte una licencia de cámara y debe usar un guía autorizado para la ascensión al Gunung Tahan.'
+  watch: 'El monzón del nordeste puede crecer los ríos y alterar los barcos y los senderos, las pasarelas por las copas han sufrido cierres, y las sanguijuelas y la humedad son constantes — confirme el acceso y reserve los guías con antelación.'
+  next: 'Confirme las normas y tarifas vigentes de permisos y entrada con la oficina del Departamento de Fauna y Parques Nacionales (Department of Wildlife and National Parks, PERHILITAN) en Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Colinas onduladas de densa selva tropical que se extienden hasta el horizonte bajo un cielo azul en Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Un visitante cruzando una estrecha pasarela de cuerda y tablones suspendida entre altos árboles de la selva en Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Pasarela colgante del dosel entre las copas de los árboles de la selva en Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Barcas largas de madera en el río Tembeling junto a una ribera boscosa con niebla sobre las colinas en Taman Negara
+    kind: actual
+    origin: third-party
+    subject: El río Tembeling con barcas largas en el embarcadero de Taman Negara entre la niebla matinal
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 De pie en el embarcadero de Kuala Tahan al amanecer, viendo la bruma levantarse de un río más antiguo que el Himalaya, es fácil olvidar que estás a apenas medio día de Kuala Lumpur. Taman Negara no es una atracción fabricada. Es una selva tropical viva que ha permanecido, en gran medida intacta, durante decenas de millones de años — y entrar en ella es más barato y sencillo de lo que casi cualquier viajero espera.

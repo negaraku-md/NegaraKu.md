@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "อันวาร์ อิบราฮิม"
+seoTitle: "อันวาร์ อิบราฮิม: นายกรัฐมนตรีคนที่ 10 ของมาเลเซีย (2022–ปัจจุบัน)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]
@@ -72,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: 'อันวาร์ อิบราฮิม สวมสูทสีเข้มและเนกไทสีน้ำเงิน หันหน้าเข้ากล้องในภาพพอร์ตเทรตช่วงบนลำตัวที่ถ่ายระหว่างการเยือนอย่างเป็นทางการระดับรัฐ'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 อันวาร์ อิบราฮิม (Anwar Ibrahim) (เกิด 10 สิงหาคม 1947) เป็น **นายกรัฐมนตรีคนที่สิบ** ของมาเลเซีย

@@ -32,7 +32,7 @@ faq:
   - q: 이 산업이 직면한 주요 과제는 무엇인가?
     a: 이 부문은 고령화하는 농가 인구, 변동성 큰 세계 가격, 기후 스트레스, 그리고 베트남·인도네시아·인도 같은 대형 생산국과의 치열한 경쟁에 대처하고 있다. 낮은 기계화와 원두 수출 의존이 마진을 얇게 유지하며, 그래서 정책은 이제 재식, 기술, 하류 가공을 강조한다.
 lang: ko
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: '말레이시아 사라왁주의 농장에서 나무 지지대를 타고 자란 후추 덩굴이 줄지어 있으며, 사라왁은 말레이시아 주요 후추 재배 주이다.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: 후추나무의 클로즈업으로, 둥근 초록 후추 열매가 빽빽이 달린 채 늘어진 여러 이삭이 크고 윤기 나는 짙은 녹색 잎에 둘러싸여 있고, 뒤로는 흐릿한 초록빛 농원이 펼쳐져 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 후추 산업의 중심지 사라왁의 한 후추 농원에서, 검은 후추나무에 긴 이삭을 이루며 익어 가는 초록 후추 열매 송이들이 늘어져 있는 모습
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: 낮은 난간으로 둘러싸인 흰색으로 칠한 옥상에 짙은 색으로 말라 가는 후추 열매를 담은 네모난 그물 쟁반 여러 개가 펼쳐져 있고, 뒤로는 바나나와 야자나무, 푸른 하늘 아래 숲으로 덮인 언덕이 솟아 있다
+    kind: representative
+    origin: third-party
+    subject: 수확한 후추 열매를 옥상의 그물 쟁반에 펼쳐 햇볕에 말리는 모습으로, 초록 열매를 검은 후추로 바꾸는 건조 단계
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 후추는 말레이시아에서 가장 오래되고 가장 지리적으로 특색 있는 농산물 중 하나다. 인도 아대륙과 수마트라에서 들여온 이 덩굴은 사라왁의 습하고 배수가 잘되는 언덕에서 이상적 보금자리를 찾았고, 그곳에서 수천 소규모 농가의 중추가 되었다. 말레이시아는 세계 물량 기준으로는 미미한 주자이지만, 안목 있는 시장에 프리미엄 원산지 인증 "사라왁 후추(Sarawak Pepper)"를 팔며 명성에서는 체급 이상의 실력을 발휘한다. 이 글은 독립 산업으로서 이 부문의 구조, 지리, 교역, 전망을 다룬다.

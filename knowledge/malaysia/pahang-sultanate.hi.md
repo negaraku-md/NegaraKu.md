@@ -21,7 +21,7 @@ appliesTo: "वे पाठक जो यह जानना चाहते �
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "वान अहमद के सुल्तान के रूप में घोषित होने की सटीक तिथि स्रोतों में असंगत रूप से दी गई है — उपाधि 1881 में धारण की गई, औपचारिक घोषणा 8 सितंबर 1881 को और बाद का औपचारिक राज्याभिषेक 1884 का बताया जाता है; सटीक क्रम को लाइनहान की A History of Pahang जैसे किसी विद्वत्तापूर्ण स्रोत के विरुद्ध पुष्ट किया जाना चाहिए।"
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: 'लाल खपरैल की छतों और अपने मेहराबदार प्रवेशद्वार के ऊपर जावी लिपि वाला एक भव्य सफ़ेद औपनिवेशिक-कालीन महल, बादलों भरे आकाश के नीचे सारस की मूर्तियों से घिरे एक शांत जलाशय में प्रतिबिंबित होता है।'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: कुआंतान स्थित Sultan Ahmad Shah State Mosque, जिसके शीर्ष पर एक बड़ा केंद्रीय गुंबद है और दोनों ओर ऊँची मीनारें हैं, पूरी तरह सामने से दिखाई देती है।
+    kind: actual
+    origin: third-party
+    subject: Sultan Ahmad Shah State Mosque, कुआंतान, पहांग
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: लाल खपरैल वाली छत और मेहराबदार केंद्रीय द्वार वाली एक सममित श्वेत औपनिवेशिक-कालीन इमारत, जो बगुले की मूर्तियों वाले एक शांत जलाशय में प्रतिबिंबित होती है, Pekan में Sultan Abu Bakar Museum को समेटे हुए है।
+    kind: actual
+    origin: third-party
+    subject: Sultan Abu Bakar Museum (पूर्व शाही महल), Pekan, पहांग
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 पहांग नदी के किनारे, जहाँ पुराना राजकीय नगर पेकान आज भी नदी के मुहाने के पास बसा है, एक सिंहासन जो दो शताब्दियों से शांत पड़ा था, फिर से उठाया गया। 1881 में पहांग के सरदार किसी अजनबी का राज्याभिषेक करने नहीं बल्कि एक ऐसी उपाधि को पुनर्स्थापित करने के लिए एकत्र हुए जो कभी उनकी भूमि के पास थी — और जिस व्यक्ति को उन्होंने सुल्तान घोषित किया उसने वह अधिकार कठिन तरीके से जीता था, एक लंबे और कटु युद्ध में अपने ही सौतेले भाई को पराजित करके। यह उसी कहानी है कि कैसे पहांग का मुकुट एक बड़े साम्राज्य के भीतर खो गया, और कैसे एक मुख्यमंत्री के पुत्र ने उसे वापस लाया।

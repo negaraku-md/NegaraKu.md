@@ -37,7 +37,7 @@ faq:
     a: "Prenez l'avion jusqu'à l'aéroport international de Kuching (KCH), la principale porte aérienne du sud du Sarawak, avec des correspondances depuis Kuala Lumpur et d'autres pôles (Wikipedia). Comme le Sarawak contrôle sa propre immigration, tout le monde est contrôlé à l'arrivée — les Malaisiens d'autres États reçoivent un laissez-passer sur leur MyKad, et les étrangers sont tamponnés séparément à l'entrée du Sarawak, munissez-vous donc de votre passeport même sur un vol d'apparence intérieure. Voir le guide du Sarawak pour les règles d'entrée complètes."
 
 lang: "fr"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'Voyageurs venant pour la première fois et voyageurs indépendants, familles et amateurs de patrimoine ou de faune qui souhaitent une ville patrimoniale au bord du fleuve parcourable à pied, comme base détendue pour des excursions à la journée dans la forêt tropicale de Bornéo, à la rencontre des orangs-outans et dans les parcs nationaux.'
+  getThere: 'Prenez un vol vers l''aéroport international de Kuching (KCH), la principale porte d''entrée aérienne du sud du Sarawak, avec des correspondances depuis Kuala Lumpur et d''autres pôles malaisiens et régionaux.'
+  permit: 'Le Sarawak gère sa propre immigration, de sorte que chacun passe un contrôle frontalier à l''arrivée même sur un vol intérieur depuis la Malaisie péninsulaire — les étrangers reçoivent un tampon d''entrée du Sarawak distinct, gardez donc votre passeport sur vous en permanence.'
+  watch: 'L''observation des orangs-outans à Semenggoh n''est jamais garantie, puisque les grands singes semi-sauvages sont libres de fourrager dans la forêt environnante — considérez toute observation comme un bonus, non comme une promesse.'
+  next: 'Confirmez les conditions d''entrée au Sarawak en vigueur et les horaires des parcs ou festivals auprès du Sarawak Tourism Board et des opérateurs officiels des parcs avant de voyager.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'Le bâtiment de l''Assemblée législative de l''État de Sarawak au toit en parasol s''élevant de l''autre côté du fleuve Sarawak depuis le front de mer de Kuching au crépuscule'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: The Astana, un palais colonial blanc aux arches gothiques avec une grille ornementale, sur la rive nord de la rivière Sarawak à Kuching
+    kind: actual
+    origin: third-party
+    subject: The Astana, l'historique palais blanc en bord de rivière des anciens Rajahs blancs à Kuching
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Un portail d'arche chinoise ornementée orné de lanternes rouges marquant une rue du vieux quartier chinois de Kuching
+    kind: actual
+    origin: third-party
+    subject: Portail d'arche cérémonielle chinoise dans le vieux quartier chinois de Kuching (secteur de Jalan Attap), avec lanternes rouges et enseignes de boutiques traditionnelles
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 Vous pouvez parcourir toute la longueur du front de mer de Kuching en une soirée, passer devant un fort colonial, un palais de Rajah et un temple chinois en chemin, manger l'un des grands bols de nouilles de Bornéo, et poser avec une statue de chat géante — le tout sans quitter la ville. Kuching est la capitale et la plus grande ville du Sarawak, située sur la rivière Sarawak à la pointe sud-ouest de l'État sur l'île de Bornéo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching) ; [Wikidata](https://www.wikidata.org/wiki/Q220445)). C'est la base détendue de ville fluviale d'où commencent la plupart des voyages au Sarawak. Ce guide couvre la ville elle-même — son front de mer, son histoire de l'ère Brooke, son quartier chinois et ses musées, et ses chats — et comment elle fonctionne comme tremplin vers la forêt tropicale et la faune qui l'entourent.

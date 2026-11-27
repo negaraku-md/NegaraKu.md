@@ -14,9 +14,17 @@ straight from `public/`.
 | `heroCredit` | yes | attribution shown in the caption — `"Photo: Jane Doe"`, `"Wikimedia Commons"`, `"AI-generated"` |
 | `heroLicense` | yes | `"CC BY-SA 4.0"`, `"CC0"`, `"AI-generated"`, `"© 1company"`, … |
 | `heroSource` | recommended | provenance URL (where the image came from) |
+| `heroKind` | **yes, when `hero` is set** | `actual` (depicts THIS article's subject) or `representative` (a stand-in) — food articles **fail the build** (`validate-food-standard` [F5]) without it |
+| `heroOrigin` | **yes, when `hero` is set** | `editorial` (our own) · `owner` (shop-supplied) · `third-party` (e.g. Wikimedia) |
+| `heroSubject` | recommended | what the hero depicts, e.g. `"Khoo Kongsi, George Town"` |
 
-The hero renders in `ArticleView.astro` as a 16:9 `<figure>` with a credit caption;
-`ArticleCard.astro` reuses `hero` + `heroAlt` for the list thumbnail.
+Any quote style is fine (`heroKind: actual`, `'actual'` or `"actual"` all parse) — the
+validators read these quote-agnostically. The hero renders in `ArticleView.astro` as a
+16:9 `<figure>` with a credit caption; `ArticleCard.astro` reuses `hero` + `heroAlt` for
+the list thumbnail. In-body photos go in `images[]` (same provenance grammar: `src`, `alt`,
+`kind`, `origin`, `subject`, `credit`, `license`, `sourceUrl`) and render as a gallery after
+the body — their `alt`/`subject` **cascade to translations** (unlike `heroAlt`), so translate
+them and run `npm run translate:stamp`.
 
 ## 2. File storage
 

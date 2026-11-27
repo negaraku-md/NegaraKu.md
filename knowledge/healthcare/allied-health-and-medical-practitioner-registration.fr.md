@@ -29,7 +29,7 @@ faq:
     a: "Les infirmiers sont enregistrés par l'Ordre des infirmiers de Malaisie en vertu de la Loi sur les infirmiers de 1950 ; les pharmaciens par l'Ordre des pharmaciens de Malaisie en vertu de la Loi sur l'enregistrement des pharmaciens de 1951 (Act 371) ; et les professions de santé associées telles que la kinésithérapie par le MAHPC en vertu de la Loi sur les professions de santé associées de 2016 (Act 774)."
 
 lang: "fr"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,9 +61,35 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'Un hôpital spécialisé moderne revêtu de verre à Kuala Lumpur avec un train léger passant devant.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: Le bloc-tour de plusieurs étages d'un hôpital gouvernemental malaisien, le type de cadre où exercent les praticiens médicaux et les professionnels paramédicaux agréés
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, un hôpital tertiaire public à Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: Deux membres du personnel des sciences de la santé dans un laboratoire doté d'une enceinte de sécurité biologique et d'équipements, représentant les professions paramédicales et de laboratoire soumises à l'enregistrement
+    kind: representative
+    origin: third-party
+    subject: Du personnel de laboratoire discutant près d'une enceinte de sécurité biologique dans un laboratoire de recherche médicale en Malaisie
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 N'importe qui peut enfiler une blouse blanche, accrocher un certificat au mur de la clinique et se dire «médecin» — mais une seule chose confirme vraiment ses qualifications : que son nom figure dans le registre officiel. En Malaisie, tout médecin, infirmier, pharmacien et kinésithérapeute doit être enregistré auprès de l'organisme qui réglemente sa profession. La bonne nouvelle, c'est que vous pouvez le vérifier vous-même, gratuitement.

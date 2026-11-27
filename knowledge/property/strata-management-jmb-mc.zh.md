@@ -35,7 +35,7 @@ faq:
     a: "不遵守裁决属第123条下的刑事罪——罚款不超过 RM250,000 或监禁不超过 3 年或两者兼施，持续违犯者每日另处最高 RM5,000 罚款。投诉向建筑物专员（COB）提出。"
 
 lang: "zh"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: '吉隆坡的 Orion Condominium 和 Sky Residences 分层地契高层建筑。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: 北海（Butterworth）Harbour View的一组现代分层（strata）公寓高楼，正是这类由联合管理机构（JMB）或管理机构（MC）运营的发展项目
+    kind: representative
+    origin: third-party
+    subject: 北海Harbour View的一组分层公寓高楼
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: 槟城垄尾（Gelugor）The Oasis分层公寓的围篱入口、守卫亭与公共会所楼，其后方是住宅高楼
+    kind: representative
+    origin: third-party
+    subject: 槟城垄尾The Oasis公寓的守卫入口与会所
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 你买下一个共管公寓单位，但究竟谁拥有电梯、游泳池和停车走道——又是谁有权向你征收每月的费用？答案藏在一层买家往往在纠纷出现前从不细读的治理架构之中：《2013年分层管理法令》（第757号法令）的框架。

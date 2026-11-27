@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,34 @@ relations:
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
 framework: profile
+hero: '/media/government/matrade/hero.webp'
+heroAlt: 'Kuala Lumpur-ல் உள்ள Menara MATRADE-ன் உயர்ந்த இருண்ட முகப்பு; மிகப்பெரிய கூரான-வளைவுத் துளையால் துளைக்கப்பட்டு, மேலே விலாக்கோடிட்ட குவிமாடம்'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: உயரமான கண்ணாடி Menara MITI மற்றும் வெள்ளி நிற கண்காட்சி-மண்டப குவிமாடத்தின் அருகில் உள்ள வளைவு வடிவ Menara MATRADE கோபுரம், சாம்பல் வானத்தின் கீழ் மெஜந்தா நிற மலர்களின் வரிசைக்கு அப்பால் காணப்படுகிறது
+    kind: actual
+    origin: third-party
+    subject: Menara MATRADE-இன் வளைவு கோபுரம், கண்ணாடி Menara MITI மற்றும் MITEC குவிமாடத்துடன் கூடிய MATRADE வளாகத்தின் தெருக் காட்சி, கோலாலம்பூர்
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: அடர்ந்த வளைவு-நுழைவாயில் கொண்ட Menara MATRADE கோபுரத்தையும், அதன் அருகில் உள்ள பெரிய வெள்ளி நிற சங்கு-வடிவ MITEC கண்காட்சி மண்டபத்தையும் காட்டும், கோலாலம்பூர் மீதான வான்வழிக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரின் KL Metropolis பகுதியில் உள்ள Menara MATRADE மற்றும் சங்கு-வடிவ MITEC கண்காட்சி மையத்தின் வான்வழிக் காட்சி
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 முதன்முறையாக ஏற்றுமதி செய்பவரிடம் அவரது வர்த்தகக் கண்காட்சி அரங்கை எந்த

@@ -31,7 +31,7 @@ faq:
   - q: Chính phủ hỗ trợ ngành hóa chất như thế nào?
     a: Cơ quan Phát triển Đầu tư Malaysia (MIDA), thông qua Phân ban Hóa chất và Vật liệu Tiên tiến, đánh giá các giấy phép sản xuất và đưa ra các ưu đãi như Vị thế Tiên phong (Pioneer Status) và Trợ cấp Thuế Đầu tư (Investment Tax Allowance). Các dự án dầu mỏ và hóa dầu cũng được điều chỉnh theo Đạo luật Phát triển Dầu khí 1974 (Petroleum Development Act 1974). Lộ trình Ngành Hóa chất 2030 và Kế hoạch Tổng thể Công nghiệp Mới 2030 đặt ra định hướng chiến lược hướng tới hóa chất đặc chủng, giá trị cao hơn.
 lang: vi
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'Một tổ hợp nhà máy lọc hóa dầu rộng lớn sáng đèn vào ban đêm, các tháp chưng cất và hệ thống đường ống rực sáng bên cạnh một ống đuốc đốt khí gần bờ nước.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: Các tháp chưng cất và bồn chứa của nhà máy lọc dầu Hengyuan ở phía đông Port Dickson, Negeri Sembilan, nhìn thấy vào ban ngày.
+    kind: actual
+    origin: third-party
+    subject: Nhà máy lọc dầu Hengyuan tại Port Dickson, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: Ống đuốc đốt và các kết cấu xử lý của Trạm Dầu khí Sabah tại Kimanis, Sabah, dưới bầu trời ban ngày.
+    kind: actual
+    origin: third-party
+    subject: Trạm Dầu khí Sabah (SOGT) tại Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 Nhựa, phân bón, chất tẩy rửa, cao su tổng hợp, mỹ phẩm, sơn và các loại nhựa resin bên trong vỏ điện thoại của bạn đều bắt đầu từ hóa chất — và một tỷ lệ đáng ngạc nhiên trong số đó, hoặc các khối cấu thành của chúng, được làm ra ở Malaysia. Đằng sau những câu chuyện quen thuộc hơn về dầu khí và dầu cọ của đất nước là một ngành hóa chất và hóa dầu lớn, chiến lược một cách lặng lẽ, biến hydrocarbon thô và dầu thực vật thành những vật liệu mà cuộc sống hiện đại phụ thuộc vào.

@@ -34,7 +34,7 @@ faq:
     a: "มาตรา 10 แห่งพระราชบัญญัติอุทยานแห่งชาติ ปี 1980 ห้ามการทำเหมืองและการสำรวจแร่ในอุทยานแห่งชาติ เว้นแต่องค์กรอำนาจรัฐ หลังจากปรึกษากับรัฐมนตรี พบว่ามีแหล่งแร่ที่อุดมสมบูรณ์มาก"
 
 lang: "th"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,36 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'แม่น้ำในป่าที่สงบนิ่งสะท้อนป่าฝนสีเขียวหนาแน่นทั้งสองฝั่ง พร้อมสันเขาป่าตั้งตระหง่านด้านหลังในอุทยานแห่งชาติเอนเดา-รมปิน'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: มุมมองจากหัวเรือข้ามผืนน้ำนิ่งของทะเลสาบไปยังเนินเขาป่าใต้ท้องฟ้าสีฟ้าที่อุทยานแห่งรัฐรอยัลเบลุม
+    kind: actual
+    origin: third-party
+    subject: สำรวจชายฝั่งป่าของอุทยานแห่งรัฐรอยัลเบลุมด้วยเรือ
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: หมอกยามเช้าลอยขึ้นจากเนินเขาป่า มีต้นไม้สูงเปลือยต้นเดียวอยู่ด้านหน้าที่อุทยานกีนาบาลู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: เมฆต่ำก่อตัวเหนือป่าฝนบนภูเขาในอุทยานกีนาบาลู รัฐซาบาห์
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 ถามใครก็ตามว่า "อุทยานแห่งชาติของมาเลเซีย" อยู่ที่ไหน แล้วพวกเขาจะชี้ไปที่แห่งเดียว ความจริงคือมาเลเซียไม่มีอุทยานแห่งชาติเพียงแห่งเดียว แต่มีระบบกฎหมายที่แยกต่างหากอย่างสิ้นเชิงสามระบบ และหนึ่งในนั้นถึงกับไม่ครอบคลุมสถานที่ที่มีชื่อเสียงที่สุดในนาม "[Taman Negara](/th/tourism/taman-negara-ecotourism-guide)" ด้วยซ้ำ การเข้าใจแผนที่ทางกฎหมายนี้เป็นกุญแจสำคัญในการวางแผนการเยือน การทำวิจัย หรือเพียงเพื่อเข้าใจวิธีที่มาเลเซียคุ้มครองป่าฝนอายุ 130 ล้านปีของตน

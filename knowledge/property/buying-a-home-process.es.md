@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Ciudadanos malasios, residentes permanentes, compradores de primera vivienda y compradores extranjeros (sujetos a restricciones y tasas de impuesto adicionales)"
 
 lang: "es"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,32 @@ faq:
   - q: ¿Por qué los compradores suelen acabar pagando dos conjuntos de honorarios legales en una sola compra?
     a: Porque dos documentos distintos avanzan en paralelo, gestionados en nombre de clientes diferentes. Un abogado redacta y timbra el Contrato de Compraventa que transmite el inmueble; otro — designado por el banco, a veces el mismo despacho con un segundo rol — prepara el Contrato de Préstamo y la Garantía Hipotecaria (Formulario 16A) que asegura el interés del banco. El abogado del banco protege la garantía del banco, no la señal del comprador, por lo que sus funciones y honorarios son distintos.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'La entrada señalizada y la caseta de vigilancia del desarrollo residencial Cassia Homes en Seremban al anochecer, con casas adosadas detrás.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: Casas recién construidas y tierra desnuda marcan una nueva promoción de viviendas que se levanta en Kepayang Heights, el tipo de proyecto en el que los compradores se inscriben a partir del plano de una galería de ventas.
+    kind: representative
+    origin: third-party
+    subject: Nueva promoción de viviendas en construcción en Kepayang Heights, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: Una calle recién terminada de viviendas con terreno uniformes en Taman Idaman, Penang, el tipo de promoción acabada en la que un comprador se instala tras la entrega de llaves.
+    kind: representative
+    origin: third-party
+    subject: Viviendas con terreno ya terminadas en Taman Idaman, Seberang Perai Selatan, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 Normalmente dos abogados intervienen en la compra de una vivienda en Malasia, y la mayoría de los compradores nunca se dan cuenta de que son dos personas distintas. Uno redacta y timbra el Contrato de Compraventa que traslada el inmueble. El otro — designado por el banco, a veces la misma firma — redacta y timbra el préstamo y la carga que permiten al banco apropiarse del inmueble si el préstamo no se paga. Los compradores que piensan en «el abogado» como un único personaje de esta historia suelen ser los que luego se confunden al ver por qué aparecieron dos juegos de honorarios legales, o por qué las llaves no llegaron el día en que se aprobó el préstamo.

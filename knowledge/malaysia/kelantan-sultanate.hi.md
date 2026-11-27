@@ -21,7 +21,7 @@ appliesTo: "वे पाठक, विद्यार्थी और शोध
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "वह सटीक वर्ष जब लोंग युनुस ने केलंतन का सिंहासन लिया, स्रोतों में भिन्न रूप से दिया गया है (लगभग 1760, 1763, 1764, और लगभग 1774 सभी प्रकट होते हैं); यह लेख '1760 के दशक' का उपयोग करता है और किसी एकल वर्ष को प्रतिपादित करने से पहले इसे किसी समर्पित ऐतिहासिक अध्ययन के विरुद्ध मिलाया जाना चाहिए।"
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'पीले खंभों, नक्काशीदार बाजूओं और बहु-स्तरीय छतों वाला काली लकड़ी का एक अलंकृत महल, एक गोलाकार ईंट के अहाते में खड़ी पुराने ज़माने की घोड़ा-गाड़ी के पीछे ऊपर उठता है।'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: वर्ष 1930 के दशक का एक सुंदर हल्के-पीले रंग का शाही निवास जिसमें चौड़े मेहराबदार बरामदे, झिलमिली वाली खिड़कियाँ और एक नीची टाइल वाली छत है, जो अब कोटा भारू के शाही क्षेत्र में एक लॉन के पीछे स्थित केलंतन शाही संग्रहालय है।
+    kind: actual
+    origin: third-party
+    subject: इस्ताना बातु (केलंतन शाही संग्रहालय / मुज़ियम दिराजा) कोटा भारू में
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: एक भव्य क्रीम-और-सफ़ेद राजकीय मस्जिद जिसमें एक चौड़ा केंद्रीय गुंबद, कोनों पर छोटे गुंबद और एक ऊँची मीनार है, जो नीले आकाश के नीचे लोहे की रेलिंग के पीछे सड़क से दिखाई देती है।
+    kind: actual
+    origin: third-party
+    subject: मस्जिद मुहम्मदी, केलंतन की राजकीय मस्जिद, कोटा भारू में
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 मलय प्रायद्वीप के उत्तर-पूर्वी कंधे पर, जहाँ नदियाँ दक्षिण चीन सागर की ओर उतरती हैं और तट कभी मलय हृदयभूमि की ओर जितना, उतना ही पुराने पतानी राज्य की ओर देखता था, एक सिंहासन गृहयुद्ध से गढ़ा गया। उसका संस्थापक राजा पैदा नहीं हुआ था। वह पतानी-वंशी एक सरदार था जो अपने प्रतिद्वंद्वियों से अधिक टिका रहा, और जो राजवंश उसने आरंभ किया — लोंग युनुस का राजघराना — आज भी केलंतन में शासन करता है, ढाई शताब्दी से अधिक बाद।

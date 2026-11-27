@@ -29,7 +29,7 @@ faq:
     a: "官方校历每年在学年开始前通过教育部通函（Surat Siaran KPM）及门户网站 moe.gov.my 发布。由于日期每年都会变动，请以官方来源为准以取得准确日期。"
 
 lang: "zh"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: '一栋现代化的三层马来西亚国民小学校舍，设有有盖门廊，晴朗蓝天下校外停放着汽车。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: 马来西亚一所学校空荡荡的集会广场，四周旗帜林立，学生每天清晨在此集合，然后开始当天的第一堂课。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚学校的升旗集会场（tapak perhimpunan）
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: 当天的上课时段结束后，两名身穿校服的女学生骑着摩托车，沿兰卡威的公路回家。
+    kind: representative
+    origin: third-party
+    subject: 兰卡威放学后骑车回家的校服女生
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 在年初筹划家庭旅行时，你会很快察觉到一件事：住在吉兰丹的邻居家孩子比你在雪兰莪的孩子早一天开学。这并不是弄错了——这正是马来西亚学校校历的设计方式。

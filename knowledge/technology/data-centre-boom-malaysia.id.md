@@ -36,7 +36,7 @@ faq:
     a: "Sebuah kebijakan yang diluncurkan oleh Kementerian Digital pada 2025 untuk menjadikan Malaysia hub awan bertaraf dunia menjelang 2030, berlandaskan kedaulatan data — prinsip bahwa data yang dihasilkan di Malaysia diatur oleh undang-undang Malaysia — bersama awan AI berdaulat yang direncanakan."
 
 lang: "id"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'Dinding rak server di sebuah pusat data, setiap barisnya diterangi deretan lampu indikator biru cerah yang menjauh ke dalam kegelapan'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: Lorong sempit yang membentang di antara dua dinding lemari server hitam yang tinggi, dengan barisan yang mengerucut menuju pintu bercahaya di ujung sana
+    kind: representative
+    origin: third-party
+    subject: Lorong simetris di antara lemari server hitam yang tinggi di pusat data universitas
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: Tampak udara kompleks pusat data saat senja, dengan barisan panjang unit pendingin di atap dan bangunan di sebelahnya yang masih dalam pembangunan
+    kind: representative
+    origin: third-party
+    subject: Tampak udara unit pendingin atap di kompleks pusat data besar yang sedang dibangun
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 Dalam waktu kurang tiga tahun, sebidang lahan di selatan Johor melintasi tambak dari Singapura telah menjadi salah satu tempat paling dicari di dunia untuk memasang server. Raksasa awan, operator kolokasi dan perusahaan rintisan AI telah membanjiri kawasan itu — dan kini Malaysia mendapati bahwa jalur listrik dan pipa air di bawah ledakan itu memiliki batas.

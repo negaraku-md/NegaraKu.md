@@ -28,7 +28,7 @@ faq:
   - q: "Berapa besar belanjawan Kementerian Pendidikan?"
     a: "Di bawah Belanjawan 2026, KPM menerima RM66.2 miliar — alokasi terbesar dibandingkan kementerian federal mana pun — meningkat dari RM64.2 miliar pada 2025. Alokasi itu termasuk hampir RM2 miliar untuk menaikkan taraf lebih dari 520 buah sekolah usang dan membangun 38 buah sekolah baru."
 lang: "id"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,9 +82,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'Menara pemerintah simetris megah berwarna cokelat kekuningan bergaya Moor-Islami dengan menara kecil berpucuk dan teluk tengah melengkung menjulang, bertuliskan KEMENTERIAN PENDIDIKAN MALAYSIA di atas pintu masuknya, diapit sayap yang lebih rendah di bawah langit berawan'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: Pandangan dekat serambi pintu masuk berlengkung gedung Kementerian Pendidikan Malaysia, tulisan biru KEMENTERIAN PENDIDIKAN MALAYSIA dan lambang negara berwarna emas di atas pintu, dengan bendera Malaysia dan bendera negeri berkibar di tiang
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama kantor pusat Kementerian Pendidikan Malaysia, Putrajaya, dengan papan nama KEMENTERIAN PENDIDIKAN MALAYSIA dan lambang negara
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: Fasad bertingkat penuh kantor pusat Kementerian Pendidikan Malaysia dilihat dari jalan masuk, menara tengahnya yang berornamen dan sayap-sayap simetris berjajar bendera Malaysia di atas tempat parkir di bawah langit cerah berawan
+    kind: actual
+    origin: third-party
+    subject: Pemandangan depan lebar kompleks kantor pusat Kementerian Pendidikan Malaysia dari jalan masuk, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 Jika ia melibatkan seorang anak sekolah Malaysia — kurikulum yang mereka pelajari, buku teks di atas meja mereka, ujian nasional yang mereka ikuti, atau guru sekolah negeri di depan kelas — ia berada di bawah Kementerian Pendidikan. Dikenal sebagai **Kementerian Pendidikan Malaysia** dan hampir selalu disingkat menjadi **KPM**, ia adalah kementerian federal yang menjalankan sistem pendidikan pra-tersier negara. Apa yang *tidak* dijalankannya adalah universitas — satu batas yang sering mengelirukan banyak orang.

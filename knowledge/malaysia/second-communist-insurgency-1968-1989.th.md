@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'อนุสาวรีย์แห่งชาติ (Tugu Negara) ทำด้วยทองสัมฤทธิ์ในกรุงกัวลาลัมเปอร์ กลุ่มรูปปั้นทหารกำลังชูธงยืนตัดกับท้องฟ้าโล่งกว้าง'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียประกาศว่าภาวะฉุกเฉินคอมมิวนิสต์ครั้งแรกสิ้นสุดเมื่อวันที่ 31 กรกฎาคม 1960 แล้วต้องรับมือกับการก่อความไม่สงบครั้งที่สองตลอดสามทศวรรษต่อมาเกือบทั้งหมด กองทัพกองโจรที่รัฐบาลได้ผลักไปยังขอบของคาบสมุทรไม่ได้ยุบเมื่อการสู้รบถูกประกาศว่าสิ้นสุด มันถอนตัวข้ามพรมแดนไทย รวมกลุ่มใหม่ที่นั่น และแปดปีต่อมากลับมาปฏิบัติการ

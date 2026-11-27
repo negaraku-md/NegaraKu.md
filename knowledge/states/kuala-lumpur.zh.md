@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 
 status: "published"
 aiAssisted: true
@@ -68,9 +68,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL federal territory", "Bursa Malaysia", "Petronas Twin Towers", "Klang Valley"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: '吉隆坡金色暮空下，亮灯的国油双峰塔耸立于KLCC区天际线之上'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: 吉隆坡天际线的广阔景观，针尖般的 KL Tower 和密集的高楼矗立在大片白云之下，前景是绿色园林
+    kind: actual
+    origin: third-party
+    subject: 明亮多云天空下吉隆坡城市天际线全景，可见 KL Tower
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: 位于吉隆坡市中心的摩尔风格 Sultan Abdul Samad Building，带有高耸的钟楼和闪亮的铜质穹顶
+    kind: actual
+    origin: third-party
+    subject: 带铜质穹顶钟楼的殖民时期 Sultan Abdul Samad Building，吉隆坡市中心
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 吉隆坡是马来西亚的国家首都，但在宪制上它并不是一个州属——它是联邦直辖区，1974 年从雪兰莪划出，由联邦政府直接管辖，而不是由州统治者或民选州议会管辖。

@@ -87,6 +87,14 @@ drinkFacts:
   halal: "Les grandes chaînes malaisiennes détiennent la certification halal du JAKIM — Chatime Malaisie l'a obtenue, et le JAKIM a confirmé publiquement que Tealive était halal en 2019 — ce qui a contribué à faire du bubble tea une boisson partagée entre les communautés. La garantie halal porte sur l'établissement certifié précis, alors vérifiez le certificat affiché de chaque boutique plutôt que de supposer que tout bubble tea est certifié."
   served: "Servi froid sur glace (des versions chaudes existent) dans des boutiques de chaîne dédiées et des kiosques de centres commerciaux, et non dans les kopitiam traditionnels. Personnalisable au comptoir : choisissez le niveau de sucre (par exemple 50 %, « moins sucré »), le niveau de glace et les garnitures. Les perles s'aspirent à travers la grosse paille caractéristique."
   where: "On le trouve dans les chaînes de bubble tea dédiées (Tealive, Chatime et bien d'autres) dans les centres commerciaux, les artères commerçantes et les drive de tout le pays — une boisson moderne, urbaine, distincte des classiques des kopitiam."
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un grand verre de thé au lait avec une épaisse couche de perles de tapioca noires au fond"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Traversez n'importe quel centre commercial malaisien et vous les croiserez en quelques minutes :

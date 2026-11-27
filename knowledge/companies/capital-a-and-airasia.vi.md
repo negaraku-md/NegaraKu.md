@@ -30,7 +30,7 @@ faq:
     a: "Sau khi chuyển nhượng hãng hàng không, Capital A là một tập đoàn dịch vụ hàng không và số được xây dựng quanh năm hoạt động kinh doanh: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next và Santan."
 
 lang: "vi"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: 'Một chiếc Airbus A320 của AirAsia sơn màu đỏ (số đăng ký 9M-AGP) mang khẩu hiệu "Now Everyone Can Fly", đỗ tại một cửa ra máy bay ở Sân bay Quốc tế Kuala Lumpur.'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: Một chiếc máy bay phản lực thân hẹp Airbus A320 của AirAsia khoác bộ sơn kỷ niệm đặc biệt với dòng chữ airasia dọc thân máy bay, đang đứng trên sân đỗ tại sân bay Langkawi dưới bầu trời quang đãng
+    kind: actual
+    origin: third-party
+    subject: Một chiếc Airbus A320 của AirAsia (đăng ký Malaysia 9M-AQH) trong bộ sơn kỷ niệm đặc biệt tại Sân bay Quốc tế Langkawi
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: Những chiếc máy bay AirAsia sơn màu đỏ xếp hàng tại các cửa lên máy bay của nhà ga hàng không giá rẻ klia2, tòa nhà ga dài và các cầu ống lồng trải dọc sân đỗ dưới bầu trời nhiệt đới
+    kind: actual
+    origin: third-party
+    subject: Máy bay AirAsia tại klia2, nhà ga hàng không giá rẻ của Sân bay Quốc tế Kuala Lumpur và là trung tâm hoạt động chính của hãng tại Malaysia
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 Trong nhiều năm, "AirAsia" và "Capital A" được dùng gần như thay thế cho nhau. Sau một cuộc tái cơ cấu kéo dài nhiều năm, chúng nay mô tả hai công ty niêm yết khác nhau.

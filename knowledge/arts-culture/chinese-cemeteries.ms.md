@@ -33,7 +33,7 @@ faq:
     a: "Qingming ialah hari paling sibuk dalam setahun di yishan. Dalam kira-kira sepuluh hari sekitar Qingming, keluarga Cina sering pergi sekeluarga ke yishan untuk membersihkan kubur dan menghormati nenek moyang — mencabut rumpai, membersihkan batu nisan, mewarnakan semula ukiran aksara yang pudar dan menghidangkan sajian. Di Guangdong, membersihkan kubur dipanggil 'bai shan' (memberi hormat di bukit), dan ungkapan ini turut dibawa ke rantau Nanyang bersama para migran. Dalam tahun-tahun kebelakangan ini, sebahagian pihak pengurusan yishan menggalakkan cara yang lebih ringkas dan mesra alam serta pengurusan sampah yang betul, dan sebahagian keluarga kini meraikan hari itu melalui kunjungan ke relung abu atau peringatan dalam talian."
 
 lang: "ms"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'Sebuah kubur Cina besar berbentuk ladam kuda dengan tulisan bersalut emas dan panel sisi berukir, dibina pada busut berumput di antara pepohon di bukit perkuburan Bukit China di Melaka.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: Barisan kubur Cina berbentuk omega yang berjubin, lengkap dengan batu nisan dan altar, di sebuah tanah perkuburan berumput di Sarawak
+    kind: actual
+    origin: third-party
+    subject: Kubur Cina berjubin berbentuk ladam kuda di sebuah tanah perkuburan Cina berhampiran Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: Jalur kertas berwarna disusun melintang di atas sebuah busut kubur berumput di sebelah batu nisan semasa perayaan membersih kubur Qingming
+    kind: representative
+    origin: third-party
+    subject: Kertas berwarna diberatkan di atas busut kubur semasa Qingming (membersih kubur) di Tanah Perkuburan Bukit Brown
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 Sekitar Qingming, sebelum langit betul-betul cerah, kaki Bukit Cina di Melaka sudah dipenuhi kenderaan yang diletakkan. Sebuah demi sebuah keluarga membawa bunga segar, colok, lilin dan sajian sambil mendaki lereng yang berombak menuju kubur nenek moyang mereka. Ada yang mula-mula membakar colok di sebuah relung batu kecil di sisi kubur yang terukir aksara "Houtu", kemudian berpaling membersihkan batu nisan nenek moyang — mencabut rumpai, mewarnakan semula ukiran aksara yang pudar, lalu menghidangkan sajian. Kubur yang padat di sepanjang lereng, semuanya menghadap arah yang sama, ialah tempat beradu generasi demi generasi orang Cina yang datang ke selatan.

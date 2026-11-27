@@ -42,7 +42,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 sources:
   - title: "马来西亚法律 - 第804号法令 - 2018年牙科法令（AGC联邦立法门户网站）(Laws of Malaysia - Act 804 - Dental Act 2018 (AGC Federal Legislation Portal))"
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=804"
@@ -76,6 +76,32 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: '马来西亚一家牙科诊所 Klinik Pergigian Yap 的临街门面，招牌上列有牙科服务项目。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: 整洁的牙科诊室内一张空置的牙科治疗椅，配有头顶检查灯、操作显示屏和漱口盆
+    kind: representative
+    origin: third-party
+    subject: 诊所诊室内一张牙科治疗椅，配有头顶照明灯、患者监视屏和漱口盆
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: 一间无人的牙科诊室，展示治疗椅、手机器械输送推车、X光片观片灯以及氧气和负压墙壁接口
+    kind: representative
+    origin: third-party
+    subject: 一间牙科治疗室，配有牙科治疗椅、器械输送装置、X光观片灯和墙壁气体接口
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 许多人以为「牙科诊所」只是一回事——补蛀牙或拔智齿的地方。但在马来西亚，

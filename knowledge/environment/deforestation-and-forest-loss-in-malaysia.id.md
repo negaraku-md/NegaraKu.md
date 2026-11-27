@@ -34,7 +34,7 @@ faq:
     a: "Kehilangan tutupan pohon menghitung segala penyingkiran kanopi pohon — termasuk pemanenan hutan tanaman, kerusakan kebakaran dan badai — jadi ini termasuk kehilangan yang kemudian tumbuh kembali. Kehilangan hutan primer hanya menghitung pembukaan hutan asli matang yang memiliki biodiversitas dan karbon yang tidak dapat diganti, dan merupakan indikator yang lebih baik bagi kehilangan ekologi permanen."
 
 lang: "id"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'Kabut melayang di antara pepohonan tinggi dan paku-pakuan pohon di hutan hujan tropis lebat yang tak terjamah di Taman Kinabalu, Borneo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: Pemandangan udara pulau kecil hutan hujan asli yang gelap dikelilingi barisan teratur perkebunan kelapa sawit di Sabah, Kalimantan Malaysia
+    kind: actual
+    origin: third-party
+    subject: Sepetak sisa hutan hujan asli yang dikelilingi perkebunan kelapa sawit di Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: Pemandangan udara dari ketinggian hutan hujan yang dibelah jaringan jalan pembalakan pucat dan petak-petak oranye yang telah dibuka di Sabah, Kalimantan Malaysia
+    kind: actual
+    origin: third-party
+    subject: Hutan yang dibelah jalan pembalakan dan lahan yang dibuka untuk kelapa sawit di Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 Tanya tiga sumber yang dapat dipercaya tentang berapa banyak kawasan Malaysia yang masih berhutan, dan Anda bisa mendapat tiga jawaban yang berbeda sebanyak sepuluh poin persentase — semuanya dapat dipertahankan, semuanya mengukur sesuatu yang sedikit berbeda. Jurang itu bukan kesalahan pembulatan; ini adalah keseluruhan argumen tentang deforestasi Malaysia dalam bentuk kecil.

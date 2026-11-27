@@ -67,9 +67,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'A white Hyundai Ioniq Electric car marked with green Grab Electric livery and the slogan 0 percent emisi on a road.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: A sedan wrapped in green Grab ride-hailing livery and Malaysian flags drives along a street in Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Grab-liveried car in Kota Kinabalu, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: A Grab-branded contingent marching in the 2023 National Day parade in Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Grab contingent at a National Day parade in Kota Kinabalu
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 Open Grab, or Bolt, or inDrive, in Kuala Lumpur and tap "book". Nothing about

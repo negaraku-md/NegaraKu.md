@@ -34,7 +34,7 @@ faq:
     a: "Tiongkok adalah destinasi terbesar sejauh ini, mengambil sekitar 49% dari ekspor karet alam pada Desember 2024, diikuti Jerman (12.9%), Uni Emirat Arab (7.3%), Amerika Serikat dan Portugal."
 
 lang: "id"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'Pohon karet dengan sayatan toreh diagonal segar, lateks putih menetes di sepanjang batang ke dalam mangkuk hitam yang terikat di pangkalnya'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: Barisan teratur pohon karet ramping dengan batang pucat berbelang memanjang ke kejauhan melintasi lantai perkebunan berumput, mangkuk lateks gelap kecil terpasang rendah pada beberapa batang
+    kind: actual
+    origin: third-party
+    subject: barisan rapi pohon karet dewasa yang dilengkapi mangkuk penampung lateks di sebuah perkebunan di Johor, tulang punggung industri karet Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: Seorang pria berbaju abu-abu mengarahkan selembar lateks putih yang telah ditekan di antara rol-rol berat sebuah mesin penggiling besi tuang berwarna kuning di tepi kebun karet, sebuah rol beralur kedua di sampingnya
+    kind: representative
+    origin: third-party
+    subject: seorang pekerja memasukkan lembaran lateks beku melalui mesin giling lembaran karet yang diengkol tangan, sebuah langkah penting dalam mengolah karet alam
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 Karet yang membangun Tanah Melayu zaman penjajahan tidak lagi memberi hasil di perkebunan — ia memberi hasil di lantai pabrik. Malaysia masih menyadap pohon, tetapi kekayaan karetnya kini bergantung pada sarung tangan medis, ban dan barang lateks yang diproduksinya, satu bisnis yang memproses lebih banyak karet daripada yang ditanam oleh negara itu sendiri.

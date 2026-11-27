@@ -87,9 +87,10 @@ entity: "Law Reform (Marriage and Divorce) Act 1976"
 relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
-related: []
+related: ["islamic-family-law-malaysia", "wills-and-probate-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["Akta 164", "perkahwinan sivil", "perceraian bukan Islam", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "seksyen 76", "Jabatan Pendaftaran Negara"]
 framework: rules
+wikidata: "Q142235988"
 ---
 
 여러분이 비무슬림이고 말레이시아에서 혼인한다면, 그 혼인이 유효한지, 어떻게 종료될 수 있는지, 그리고 그것이 끝날 때 누가 무엇을 받는지를 결정하는 것은 단 하나의 법입니다 — 법률개혁(혼인 및 이혼)법 1976(Law Reform (Marriage and Divorce) Act 1976), 즉 더 잘 알려진 이름으로 Act 164입니다.

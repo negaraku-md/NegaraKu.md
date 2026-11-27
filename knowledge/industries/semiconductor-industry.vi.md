@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'Một tấm bán dẫn silic vuông trên bàn thí nghiệm, bề mặt lấp lánh ánh cầu vồng màu hồng cánh sen, hồng và vàng từ một lớp phủ màng mỏng'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: Một kỹ thuật viên mặc bộ đồ bảo hộ trắng, mũ trùm và khẩu trang cầm một tấm bán dẫn silicon tròn trong bàn tay đeo găng bên trong một phòng sạch bán dẫn chiếu ánh sáng vàng
+    kind: representative
+    origin: third-party
+    subject: Một kỹ thuật viên mặc đồ bảo hộ cầm một tấm bán dẫn silicon trong phòng sạch quang khắc chiếu ánh sáng vàng
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: Một kỹ thuật viên mặc bộ đồ phòng sạch trắng toàn thân, mũ trùm, khẩu trang và găng tay đang làm việc trên các linh kiện kim loại đánh bóng tại bàn bên trong một phòng sạch sáng
+    kind: representative
+    origin: third-party
+    subject: Một kỹ thuật viên lắp ráp mặc đồ bảo hộ đang làm việc trên phần cứng chính xác bên trong một phòng sạch
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Nếu bạn đang đọc bài này trên điện thoại hoặc máy tính xách tay, có khả năng thật sự rằng một trong những con chip của thiết bị đó đã trải qua một phần vòng đời của nó tại Malaysia — không phải được phát minh hay in ra, mà được biến từ một lát silicon trần thành một linh kiện hoàn chỉnh, đã đóng gói, sẵn sàng để hàn lên bảng mạch. Bước đi lặng lẽ, không hào nhoáng đó chính là nơi Malaysia đã xây dựng một trong những vị thế quan trọng nhất trong toàn bộ thế giới điện tử.

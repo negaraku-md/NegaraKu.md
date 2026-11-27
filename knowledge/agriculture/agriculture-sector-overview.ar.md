@@ -35,7 +35,7 @@ faq:
     a: "لأن الاثنين يُداران كعملين مختلفين. فزيت النخيل سلعة تصدير واسعة النطاق ومربحة على أرض مناسبة، في حين أن الأرز محصول غذائي ضئيل الهامش يعتمد على الدعم والري. وتميل الأرض ورأس المال والعمالة إلى التدفق نحو محاصيل السلع الأكثر ربحية."
 
 lang: "ar"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,32 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["القطاع الزراعي الماليزي", "الأغذية الزراعية في ماليزيا", "السياسة الوطنية للأغذية الزراعية", "معدل الاكتفاء الذاتي الغذائي", "KPKM", "KPK", "زيت النخيل الأرز المطاط", "الأمن الغذائي في ماليزيا"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'حقل أرز أخضر وارف تمتد فيه قناة ري حتى الأفق في سيكينتشان بماليزيا.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: مزارع خضروات مدرَّجة وأنفاق بلاستيكية على سفوح وادي Bertam في Cameron Highlands، Pahang
+    kind: actual
+    origin: third-party
+    subject: مزارع الخضروات المرتفعة في وادي نهر Bertam، Cameron Highlands، Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: قطع أرض مدرَّجة من الخضروات الورقية تغمرها الشمس فوق قرية مرتفعة في Kampung Raja، Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: مزرعة خضروات في حقل مكشوف في Kampung Raja، Cameron Highlands، Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 في 2024، أنتجت ماليزيا أكثر من 100 مليون طن من عناقيد ثمار النخيل الطازجة — نحو 100.2 مليون طن بحسب دائرة الإحصاء الماليزية (DOSM) — بما يكفي للحفاظ على موقعها بين أكبر منتجَين لزيت النخيل في العالم. وفي السنة ذاتها، استوردت البلاد نحو نصف الأرز الذي أكله شعبها.

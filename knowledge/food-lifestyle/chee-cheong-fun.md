@@ -100,6 +100,7 @@ dishFacts:
   halal: "The name 猪肠粉 ('pig-intestine noodle') describes the rolled shape, not the contents — the plain noodle has no pork and is vegetarian in itself. But the dressings carry the caveat: Penang's uses prawn-paste hae ko (seafood), and the dim-sum style wraps char siu (barbecued pork). Check the stall and its sauces."
   eat: "Served warm as a hawker breakfast or snack. In Penang the sliced rolls come dressed in sweet sauce, hae ko, chilli and a scattering of toasted sesame and oil, with no filling or gravy. In Kuala Lumpur and Ipoh they are eaten alongside yong tau foo or doused in a soupy curry or mushroom gravy; the dim-sum roll is finished with light, sweetened soy sauce."
   where: "A fixture of Malaysian hawker stalls, found in sharply different regional styles: the prawn-paste plate in Penang and the north, the yong-tau-foo pairing in Kuala Lumpur's Klang Valley, and 'dry' or 'wet' curry versions in Ipoh, Perak. The filled dim-sum roll appears on dim-sum trolleys and in Cantonese restaurants."
+wikidata: "Q3275558"
 ---
 
 Order "chee cheong fun" in George Town and you get cool, silky rolls of rice

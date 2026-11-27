@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 
 status: "published"
 aiAssisted: true
@@ -87,9 +87,35 @@ entity: "Nicol David"
 wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'マレーシアのスカッシュ王者ニコル・デビッドが、トーナメントの試合で体を伸ばしてフォアハンドを打っている。'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: プロのスカッシュ大会のためにアリーナ内に設けられた、照明に照らされた総ガラスのショーコート。周囲の段状の客席から見た様子。
+    kind: representative
+    origin: third-party
+    subject: プロのスカッシュ大会のために設けられたガラスのショーコート
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: 主要なスカッシュ大会で、壮大なホール内のガラス張りのコートで競う2人の選手を観客が取り囲む様子。
+    kind: representative
+    origin: third-party
+    subject: 満員の観客の前でガラスコートで行われるプロのスカッシュの試合
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 9年連続で、世界最高のスカッシュ選手はペナン出身だった。ニコル・デビッドはマレーシアで最も成功した個人競技で勝ち続けただけではない——彼女はこの競技における支配とは何かを塗り替え、2015年9月まで **108か月連続** で世界ランキング1位を守り、これはこの競技が経験した中で最も長い途切れない在位となった。

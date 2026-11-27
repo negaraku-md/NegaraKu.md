@@ -33,7 +33,7 @@ verificationNeeded:
   - "प्रकाशन से पहले पेनांग की वर्तमान जनसंख्या की पुष्टि DOSM के नवीनतम राज्य जनसंख्या विमोचन से करें।"
 
 lang: "hi"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,37 @@ wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["पेनांग मलेशिया", "Penang Malaysia", "जॉर्ज टाउन यूनेस्को", "George Town UNESCO", "बायान लेपास", "Bayan Lepas", "पेनांग इलेक्ट्रॉनिक्स", "Penang electronics", "पूर्व की सिलिकॉन वैली", "silicon valley of the east"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: 'पेनांग के जॉर्ज टाउन में मेहराबदार खिड़कियों और झिलमिली अग्रभाग वाली एक औपनिवेशिक-युगीन कोने की धरोहर इमारत, क्रीम रंग की 1923 की जॉर्ज टाउन डिस्पेंसरी'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: George Town, पेनांग में एक सड़क के किनारे लकड़ी के शटर वाली खिड़कियों और स्तंभ-युक्त फ़ाइव-फ़ुट वे वाले दो-मंज़िला विरासत शॉपहाउस की धूप में नहाई कतार
+    kind: actual
+    origin: third-party
+    subject: George Town की एक सड़क के किनारे ऐतिहासिक दो-मंज़िला विरासत टेरेस घरों की एक कतार, पेनांग
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: George Town, पेनांग में Chew कुल घाट पर एक स्टिल्ट वाले तटवर्ती घर के बगल में बँधी अपक्षयित लकड़ी की मछली पकड़ने वाली नावें, पार Weld Quay फ़ेरी टर्मिनल की ओर देखती हुई
+    kind: actual
+    origin: third-party
+    subject: George Town तट पर Chew कुल घाट पर लकड़ी की नावें और स्टिल्ट घर, पेनांग
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 पेनांग अपने आकार से कहीं बढ़कर प्रभाव रखता है। यह भूमि क्षेत्र की दृष्टि से मलेशिया

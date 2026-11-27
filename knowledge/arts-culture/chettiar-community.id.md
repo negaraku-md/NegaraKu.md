@@ -32,7 +32,7 @@ faq:
   - q: "Bagaimana keadaan komunitas Chettiar di Malaysia saat ini?"
     a: "Pada pertengahan abad ke-20, perubahan undang-undang keuangan dan pergeseran politik menyusutkan usaha peminjaman uang tradisional. Banyak yang beralih ke dunia usaha, profesi, dan bidang-bidang terkait pendidikan. Meski komunitas yang kecil jumlahnya, mereka memelihara identitas budaya yang khas melalui kuil, perayaan, makanan, dan tradisi keluarga."
 lang: "id"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'Menara gopuram putih Kuil Nattukottai Chettiar Waterfall Hilltop yang menjulang dari hutan hijau lebat di lereng bukit di Penang.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: Gopuram kuil India Selatan yang berwarna-warni penuh arca pahatan, berlatar langit cerah di Penang
+    kind: actual
+    origin: third-party
+    subject: Kuil Sivan Nagarathar (Nattukottai Chettiar) di George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: Sebuah kereta kencana kuil yang tinggi bersepuh emas dan digantungi untaian bunga bergerak di sebuah jalan di Penang saat senja di tengah kerumunan umat
+    kind: actual
+    origin: third-party
+    subject: Kereta kencana emas dan para umat saat prosesi Thaipusam di Penang, sebuah perayaan yang turut dilestarikan oleh masyarakat Chettiar
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 Pada hari Thaipusam di Penang, sebuah kereta megah yang terbuat dari perak akan berangkat dari Jalan Lebuh Penang menuju kuil Murugan di atas bukit. Kereta itu, dan komunitas yang telah menjalankannya selama lebih dari satu abad, bukanlah kebetulan — keduanya menuturkan kisah sebuah tradisi perdagangan-perbankan yang menempuh perjalanan dari Chettinad ke Malaya.

@@ -32,7 +32,7 @@ faq:
     a: "Amendemen itu mewajibkan penyelidikan publik sebelum suatu HSK dibatalkan warta, dan menaikkan denda menjadi antara RM20,000 hingga RM5 juta serta penjara antara 7 hingga 20 tahun. Ia berlaku di Wilayah Persekutuan mulai 1 Februari 2025."
 
 lang: "id"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,36 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Awan rendah dan kabut bergulung di atas bukit berhutan hujan hijau lebat di atas danau yang tenang di Royal Belum, Perak'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: Pelepah palem yang tersinari matahari dan semak bawah hijau lebat di sepanjang jalur teduh di dalam hutan hujan primer Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Semak bawah palem dan serasah daun di lantai hutan hujan primer di Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: Perbukitan bergelombang yang diselimuti hutan hujan tropis lebat memudar ke dalam kabut biru di bawah langit mendung, dilihat dari Bukit Terisek di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Perbukitan berhutan Taman Negara yang tak terputus dilihat dari Bukit Terisek
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Sebidang tanah berhutan di Malaysia bukan "dilindungi" hanya karena ia dipenuhi pohon — perlindungannya dimulai pada hari nama tanah itu tersiar dalam Warta. Tanpa pewartaan itu, hutan yang sama dapat diberi lisensi untuk pembangunan kapan saja. Inilah dasar seluruh sistem Hutan Simpanan Kekal (HSK) Malaysia.

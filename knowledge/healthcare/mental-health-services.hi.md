@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में कोई भी व्यक्ति — नागरिक, निवासी या आगंतुक — जो अपने या किसी और के मानसिक स्वास्थ्य को लेकर चिंतित है, और ठोस रूप से जानना चाहता है कि कहाँ से शुरू करे: एक क्लीनिक, एक अस्पताल, एक निजी चिकित्सक, एक NGO, या एक हेल्पलाइन।"
 
 lang: "hi"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,32 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["मानसिक-स्वास्थ्य सेवाएँ मलेशिया", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI क्लीनिक मलेशिया", "मनोरोग अस्पताल मलेशिया", "MMHA Malaysian Mental Health Association", "परामर्श मलेशिया", "मलेशिया में मानसिक-स्वास्थ्य मदद कहाँ पाएँ", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'हरे जागरूकता रिबन और कलंक-समाप्ति के संदेश के साथ एक विश्व मानसिक स्वास्थ्य दिवस का पोस्टर, मानसिक स्वास्थ्य के लिए एक सम्मानजनक जन-स्वास्थ्य प्रतीक।'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: एक शांत, स्वागतपूर्ण परामर्श कक्ष जिसमें एक छोटी मेज़ के चारों ओर तीन आरामकुर्सियाँ और एक पौधा है, कोई व्यक्ति मौजूद नहीं
+    kind: representative
+    origin: third-party
+    subject: बातचीत चिकित्सा के लिए सज्जित एक शांत परामर्श कक्ष, आरामकुर्सियों और मुलायम साज-सज्जा के साथ
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: Johor Bahru में एक मलेशियाई सरकारी मनोरोग एवं मानसिक-स्वास्थ्य अस्पताल का अग्रभाग
+    kind: actual
+    origin: third-party
+    subject: Johor Bahru में Hospital Permai, एक मलेशियाई सरकारी मानसिक-स्वास्थ्य अस्पताल
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 मदद माँगने का निर्णय अक्सर सबसे कठिन हिस्सा होता है। यह पता लगाना कि *कहाँ* माँगें, वह हिस्सा है जिसे लगभग कोई नहीं समझाता — और यही अंतराल अकेले लोगों को कभी फ़ोन करने से रोक देता है।

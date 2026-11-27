@@ -34,7 +34,7 @@ faq:
     a: "Guidelines for Sustainable Development of Data Centre của MITI (30 tháng 12 năm 2024) yêu cầu các bên vận hành khai báo PUE, WUE và CUE thiết kế so với các tiêu chuẩn ISO/IEC 30134, và cân nhắc các địa điểm ở Bán đảo Malaysia có chỉ số căng thẳng nước (water stress index, WSI) dưới 0.8, theo cách hướng dẫn diễn đạt điều kiện chọn địa điểm của nó."
 
 lang: "vi"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'Những hàng tủ rack máy chủ với đèn trạng thái màu xanh lấp lánh lấp đầy lối đi của một trung tâm dữ liệu.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: Những dãy dài tủ rack máy chủ và thiết bị lấp đầy một sảnh trung tâm dữ liệu rộng lớn với hệ thống ngăn luồng khí lạnh có cấu trúc.
+    kind: representative
+    origin: third-party
+    subject: Một sảnh trung tâm dữ liệu với các dãy tủ rack thiết bị
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: Những bó cáp mạng dày đặc chạy dọc phía sau các tủ rack máy chủ trong một hệ thống trung tâm dữ liệu.
+    kind: representative
+    origin: third-party
+    subject: Hệ thống cáp mạng phía sau các tủ rack máy chủ của trung tâm dữ liệu
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 Vào năm 2019, Singapore ngừng phê duyệt các trung tâm dữ liệu lớn mới. Trong vòng bốn năm, các máy chủ mà nó từ chối đã xây nên một ngành công nghiệp mới cách hai mươi phút bên kia Causeway — và Johor đi từ một bang Malaysia yên tĩnh trở thành thị trường trung tâm dữ liệu bận rộn nhất Đông Nam Á.

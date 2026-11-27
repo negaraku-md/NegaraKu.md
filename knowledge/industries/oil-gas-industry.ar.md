@@ -38,7 +38,7 @@ faq:
     a: "في 2024، أسهمت بتروناس بـ RM72.4 مليار في صورة توزيعات أرباح وضرائب ومدفوعات نقدية والتزامات أخرى، بما في ذلك توزيع أرباح قدره RM32.0 مليار. وهذا فوق الضرائب التي يدفعها المتعاقِدون وشركات الخدمات الأخرى في القطاع."
 
 lang: "ar"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["النفط والغاز في ماليزيا", "oil and gas Malaysia", "PETRONAS", "بتروناس", "عقد تقاسم الإنتاج", "production sharing contract", "PSC", "قانون تطوير البترول 1974", "Petroleum Development Act 1974", "إدارة البترول الماليزية", "Malaysia Petroleum Management", "المنبع", "upstream", "المصبّ", "downstream", "LNG", "ضريبة دخل البترول", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: 'منظر جوي لرصيف تصدير الغاز الطبيعي المسال في بينتولو، ساراواك: منصة خرسانية على ركائز فولاذية تحمل مجموعات من أذرع التحميل البحرية الطويلة والأنابيب فوق بحر فيروزي، مع أفق الميناء ومصنع الغاز خلفها'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: برج شعلة فولاذي عالٍ أحمر وأبيض ينفث لهباً غازياً برتقالياً ساطعاً أمام سماء غائمة، مع رفوف أنابيب وسلسلة جبال Crocker Range خلفه، في محطة صباح للنفط والغاز في Kimanis
+    kind: actual
+    origin: third-party
+    subject: شعلة غاز تحترق فوق برج الشعلة في محطة صباح للنفط والغاز (SOGT) في Kimanis، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: أبراج التقطير والمداخن وخزانات التخزين لمصفاة نفط على الأفق خلف حقل عشبي قرب Port Dickson، تحت سماء مسائية ضبابية
+    kind: actual
+    origin: third-party
+    subject: مصفاة نفط شرق Port Dickson، نيغري سمبيلان، تُرى عبر أرض مفتوحة من الطريق الفيدرالي 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 كل برميل نفط وكل قدم مكعبة من الغاز تحت تراب ماليزيا وقاع بحرها يعود، بحكم القانون، إلى شركة واحدة. لا إلى الدولة مباشرةً، ولا إلى مكتشفي الحقول، ولا إلى الشركات متعددة الجنسيات التي تحفرها — بل إلى بتروناس (PETRONAS)، شركة النفط الوطنية التي أُنشئت لتحتفظ ببترول الأمة على سبيل الأمانة. افهم تلك الحقيقة الواحدة، وسيقع سائر صناعة النفط والغاز في ماليزيا — كيف تُنظَّم وتُموَّل وتُفرَض عليها الضريبة وتُتقاسَم — في موضعه.

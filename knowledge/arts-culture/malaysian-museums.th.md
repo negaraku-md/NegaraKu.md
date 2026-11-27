@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ผู้มาเยือนที่กำลังวางแผนเส้นทางเที่ยวพิพิธภัณฑ์ นักเรียนและนักวิจัยที่ต้องการประวัติเชิงสถาบันเบื้องหลังคอลเลกชันหลักของมาเลเซีย และผู้ที่เคยเข้าใจว่ามูเซียมเนอการาเป็นพิพิธภัณฑ์ที่เก่าแก่ที่สุดของประเทศ"
 
 lang: "th"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,34 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'พิพิธภัณฑ์แห่งชาติมาเลเซีย อาคารสีซีดขนาดใหญ่ยอดหลังคาจั่วสไตล์มีนังกาเบาสูงชันสีแดงเข้ม ด้านหน้ายาวประดับด้วยแผงจิตรกรรมฝาผนังหลากสีและเรียงรายด้วยธงมาเลเซีย มองจากฝั่งตรงข้ามถนน'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: โดมทรงมนหุ้มด้วยกระเบื้องเคลือบสีเทอร์ควอยซ์ปกคลุมด้วยลวดลายอาหรับรูปดอกไม้สีขาว เขียว และทอง ยอดประดับด้วยลูกแก้วทองเล็ก ตั้งตระหง่านตัดกับท้องฟ้าสีฟ้าอ่อน
+    kind: actual
+    origin: third-party
+    subject: โดมกระเบื้องสีเทอร์ควอยซ์ของพิพิธภัณฑ์ศิลปะอิสลามมาเลเซียในกัวลาลัมเปอร์ ประดับด้วยลวดลายอาหรับรูปดอกไม้อันวิจิตร
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: อาคารพิพิธภัณฑ์ยุคอาณานิคมสองชั้นประวัติศาสตร์ทาสีครีมพร้อมมุมหินสีเทาและกรอบหน้าต่าง หลังคาจั่วลาดชันและยอดประดับ ขนาบด้วยต้นปาล์มสูงใต้ท้องฟ้าสีฟ้าสดใส
+    kind: actual
+    origin: third-party
+    subject: อาคารพิพิธภัณฑ์ซาราวักยุคอาณานิคมประวัติศาสตร์ในเมืองกูชิง อาคารสีครีมสองชั้นพร้อมมุมหินสีเทาและหลังคาจั่ว
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 ถามผู้มาเยือนส่วนใหญ่ว่าพิพิธภัณฑ์ใดเก่าแก่ที่สุดในมาเลเซีย พวกเขาจะเดาว่ามูเซียมเนอการา (Muzium Negara) — อาคารหลังคาทรงวังที่เป็นหลักยึดของแถวพิพิธภัณฑ์ในกัวลาลัมเปอร์ พวกเขาคลาดเคลื่อนไปแปดสิบปี เพราะตำแหน่งนั้นเป็นของห้องจัดแสดงเล็ก ๆ ในไทปิง (Taiping) ที่สร้างขึ้นขณะที่พื้นที่ของมูเซียมเนอการายังถูกครอบครองโดยพิพิธภัณฑ์รุ่นก่อนหน้า

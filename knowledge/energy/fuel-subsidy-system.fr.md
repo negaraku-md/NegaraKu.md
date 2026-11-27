@@ -37,7 +37,7 @@ faq:
     a: "Le diesel à Sabah, au Sarawak et à Labuan est maintenu à RM2.15 par litre et n'est pas laissé flotter comme dans la péninsule. Le prix du RON95 subventionné de RM1.99 s'applique aux citoyens éligibles dans tout le pays."
 
 lang: "fr"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -133,6 +133,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'Le parvis d''une station-service Petronas avec des pompes à carburant sous un auvent en Malaisie.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: Une station-service de marque Shell avec un auvent à liseré rouge couvrant plusieurs îlots de pompes, le logo jaune du pecten Shell sur le totem en bord de route, et des commerces et des voitures à proximité sous un ciel lumineux
+    kind: actual
+    origin: third-party
+    subject: l'aire d'une station-service Shell à Taman Pelangi, Johor Bahru, avec des îlots de pompes à carburant sous un auvent
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: L'aire d'une station-service sous un large auvent plat abritant les pompes, un haut totem lumineux d'affichage des prix dressé au bord de la route et un bâtiment de supérette à côté par temps couvert
+    kind: actual
+    origin: third-party
+    subject: une station-service de marque FIVE à Ijok, Selangor, l'une des chaînes indépendantes de distribution de carburant de Malaisie, avec son aire et son totem de prix
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 Pendant des décennies, tout le monde en Malaisie — millionnaire ou saigneur d'hévéas — payait le même prix pour l'essence à la pompe. Le 30 septembre 2025, cet arrangement a pris fin. Un litre de RON95 peut désormais vous coûter RM1.99 mais presque le double à votre voisin, et ce qui en décide n'est pas le prix mondial du pétrole mais la carte d'identité que vous insérez dans le terminal.

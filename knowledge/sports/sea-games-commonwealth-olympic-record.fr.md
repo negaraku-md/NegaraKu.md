@@ -34,7 +34,7 @@ faq:
     a: "L'organisation des Jeux de 1998 à Kuala Lumpur, où elle a enregistré son meilleur butin de 10 médailles d'or et terminé quatrième au classement général. Ce furent aussi les premiers Jeux du Commonwealth jamais tenus en Asie."
 
 lang: "fr"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: 'L''équipe de Malaisie en tenue traditionnelle orange défile derrière le drapeau Jalur Gemilang lors de la cérémonie d''ouverture des Jeux olympiques de 2008.'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: Deux plongeurs saisis en plein vol lors d'une finale de plongeon synchronisé aux SEA Games de Kuala Lumpur 2017, le logo des Jeux visible sur le mur derrière eux.
+    kind: actual
+    origin: third-party
+    subject: Finale de plongeon synchronisé aux SEA Games de Kuala Lumpur 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: Les joueurs de rugby à sept de la Malaisie, en blanc et noir, s'alignent face au pays de Galles en rouge sur le terrain des Commonwealth Games de Birmingham 2022.
+    kind: actual
+    origin: third-party
+    subject: La Malaisie disputant le rugby à sept contre le pays de Galles aux Commonwealth Games de 2022
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 La Malaisie est montée sur un podium olympique quinze fois — et a entendu retentir l'hymne national d'une autre nation à chacune de ces fois.

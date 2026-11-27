@@ -25,7 +25,7 @@ appliesTo: "Sesiapa di Malaysia yang sedang hamil, merancang untuk hamil, atau m
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 
 status: "published"
 aiAssisted: true
@@ -63,6 +63,32 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'Bahagian luar blok bersalin (Hospital Bersalin) Hospital Kuala Lumpur, dengan kaki langit bandar di belakang.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: Bilik bersalin yang bersih dan moden menunjukkan katil hospital yang kosong dan katil bayi baru lahir lutsinar, tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Bilik wad bersalin dengan katil hospital dan buaian bayi baru lahir lutsinar di sebelahnya
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: Bilik menunggu klinik antenatal hospital yang kemas dan kosong dengan kerusi kelabu dan perkataan Antenatal Clinic pada dinding
+    kind: representative
+    origin: third-party
+    subject: Ruang menunggu klinik antenatal yang kosong dengan deretan tempat duduk dan tulisan Antenatal Clinic pada dinding
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 Keputusan ujian kehamilan yang positif memulakan dua "jam" pada masa yang sama, dan hampir tiada sesiapa menjelaskan perkara ini terlebih dahulu. Satu jam berkaitan dengan kehamilan itu sendiri — bila hendak mendaftar, di mana, dan apa berlaku pada setiap lawatan. Satu lagi hanya bermula selepas bayi lahir, dan ia tiada kaitan langsung dengan hospital: ia adalah pendaftaran undang-undang dengan jabatan yang sama sekali berbeza.

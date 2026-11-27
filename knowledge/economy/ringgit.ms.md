@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang terdedah kepada kadar pertukaran — pengimport, pengek
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,34 @@ faq:
   - q: Mengapa kadar yang diberikan oleh bank atau pengurup wang saya lebih buruk daripada kadar yang diterbitkan BNM?
     a: Kerana kadar rujukan USD/MYR KL BNM ialah penanda aras pasaran yang dikira daripada pasaran antara bank, digunakan untuk kontrak dan penilaian — bukan harga runcit. Bank dan pengurup wang menambah spread mereka sendiri di atasnya, jadi anda akan sentiasa berurus niaga pada kadar yang lebih buruk daripada rujukan. Kadar rujukan ialah 4.0841 pada 23 Oktober 2026, tetapi itu penanda aras, bukan apa yang pelanggan sebenarnya bayar di kaunter.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'Bahagian hadapan wang kertas seratus ringgit Malaysia tertulis BANK NEGARA MALAYSIA dan SERATUS RINGGIT, dengan angka 100 ungu besar, denominasi RM dan potret Yang di-Pertuan Agong pertama berhiasan kepala diraja'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Pandangan dekat syiling sepuluh sen Malaysia berwarna perak yang terukir BANK NEGARA MALAYSIA dengan angka besar 10, perkataan SEN, tahun 2006 dan motif bunga, terletak di atas permukaan kelabu
+    kind: actual
+    origin: third-party
+    subject: Syiling 10 sen Malaysia, duit pecahan ringgit
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: Sekeping wang kertas ringgit yang difoto di bawah cahaya ultralembayung sehingga motif wau (layang-layang tradisional) hijau bercahaya dan tanda keselamatan BNM tersembunyi berpendarfluor pada kertas yang gelap
+    kind: actual
+    origin: third-party
+    subject: Sekeping wang kertas ringgit Malaysia di bawah cahaya ultralembayung, mendedahkan reka bentuk keselamatannya yang tersembunyi
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## Sekilas pandang

@@ -19,7 +19,7 @@ keyTakeaways:
   - "Institusi kesultanan diteruskan dalam Konstitusi melalui sembilan Raja Melayu, Majlis Raja-Raja, dan Yang di-Pertuan Agong"
 appliesTo: "Siapa pun yang ingin memahami struktur dan peran institusi kesultanan Melayu tradisional dan bagaimana ia bersambung dengan sistem monarki konstitusional hari ini."
 lang: "id"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'Istana kayu Melayu tradisional dengan dinding bambu anyaman, atap genting curam dan gevel berukir berdiri di bawah langit cerah.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: Gerbang upacara berkubah emas berukir milik Istana Negara, bertuliskan 'Istana Negara', berdiri dalam cahaya siang yang terang dengan bangunan istana berkubah keemasan di atas bukit hijau di belakangnya dan cakrawala kota Kuala Lumpur di kejauhan.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, istana nasional di Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: Sebilah keris Melayu upacara yang panjang terbaring di samping sarungnya yang ramping di atas permukaan museum, dengan label cetak bertuliskan 'Keris Alang Pahang'.
+    kind: actual
+    origin: third-party
+    subject: Keris Alang Pahang, keris upacara kerajaan lambang kekuasaan
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Bayangkan sebuah negeri tanpa berkas, tanpa formulir, tanpa departemen bernomor. Perintah dibawa dengan lidah, keadilan dijatuhkan di balairung, dan seluruh susunan masyarakat bergantung pada satu kata yang tidak dapat diterjemahkan dengan tepat ke dalam bahasa modern: *daulat*. Itulah dunia kesultanan Melayu — sebuah sistem yang menyusun ribuan jiwa di sepanjang pantai dan sungai selama berabad-abad, dan yang bayangnya masih tampak dalam Konstitusi Malaysia hari ini.

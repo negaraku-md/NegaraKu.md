@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -125,9 +125,35 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["ministry-of-health-moh", "klinik-kesihatan", "peka-b40-and-health-schemes", "health-white-paper-and-system-reform"]
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: 'コタキナバルの Queen Elizabeth Hospital の外観で、公的医療制度における大規模なマレーシアの政府病院である。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: マレーシアの公立病院、バトゥパハのスルタナ・ノラ・イスマイル病院の、ベッドが並ぶ無人の入院病棟
+    kind: actual
+    origin: third-party
+    subject: バトゥパハのスルタナ・ノラ・イスマイル病院の公立病院病棟
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: クママン病院の外観。マレーシア保健省が運営する公立病院
+    kind: actual
+    origin: third-party
+    subject: クママン病院、マレーシアの公立病院の建物
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 マレーシアの政府クリニックに足を踏み入れると、窓口での支払いはほとんどゼロに近い——一般外来登録で**RM1**である。これは慈善ではなく、制度設計である。マレーシアは**二層構造の医療制度**を運用している。**保健省（MOH、*Kementerian Kesihatan Malaysia*、KKM）**が管理する政府運営の公共サービスと、規模の大きい民間セクターが並存する構造である。公共側は**一般税収のみで財源が賄われ、強制的な国民保険料の拠出はない**ため、医療は保険料ではなく、大幅に補助された名目料金で提供される。このモデルは、国民所得に占める割合が控えめな中で、ほぼ全国民への医療アクセスを実現してきた——しかし今や、家庭の費用負担の増大と、実際の供給圧力を抱えている。本ガイドでは、この制度をどのように利用するか、費用はいくらか、誰が対象となるか、そしてどこに無理が生じているかを、平易な言葉で説明する。

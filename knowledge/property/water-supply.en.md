@@ -38,7 +38,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 sources:
   - title: "Laman rasmi — senarai syarikat air negeri di bawah seliaan SPAN"
     url: "https://www.span.gov.my/"
@@ -62,6 +62,32 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'The Babagon Dam reservoir in Sabah, a raw-water source for treated drinking-water supply, with an information signboard at the waterside.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: A small concrete weir and gated water-control structure spanning Sungai Padang Matsirat in Langkawi, part of Malaysia's water-supply infrastructure
+    kind: representative
+    origin: third-party
+    subject: A river weir and water-control structure on Sungai Padang Matsirat, Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: A large white elevated water storage tank marked Taman Setia Tropika in Johor, holding treated water for the local supply
+    kind: representative
+    origin: third-party
+    subject: An elevated water storage tank at Taman Setia Tropika, Johor
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 You move from Selangor to Johor. Your bank account stays the same. Your phone line can come with you. But your water account? It doesn't follow — because the company supplying water to your new home is a completely different company altogether.

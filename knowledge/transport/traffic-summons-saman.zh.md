@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: '一名马来西亚交通警察站在他白色的“POLIS”巡逻摩托车旁书写，身处繁忙的吉隆坡市区十字路口。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: 身穿制服的警员站在道路上的路障处，在车辆减速停下通过检查站时进行检查。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚一处警方路障，警员在此拦停并检查车辆
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: 一名身穿反光背心、戴头盔的马来西亚交警站在城市街道上疏导过往车辆。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡街头一名执勤指挥交通的交警
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 驾车人士可能会收到四种表面上看起来相似的罚单——但它们其实来自四个不同的单位，也必须在四个不同的地方查询。许多人只知道其中一个门户网站，于是误以为自己的罚单「消失」了，实际上它正静静躺在另一个系统里。

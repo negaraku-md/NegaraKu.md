@@ -29,7 +29,7 @@ faq:
     a: "அதிகாரப்பூர்வ நாட்காட்டி ஒவ்வோர் ஆண்டும் கல்வி ஆண்டு தொடங்குவதற்கு முன் Surat Siaran KPM மற்றும் moe.gov.my வலைவாயில் மூலம் வெளியிடப்படுகிறது. தேதிகள் ஒவ்வோர் ஆண்டும் மாறுவதால், துல்லியமான தேதிகளுக்கு அதிகாரப்பூர்வ ஆதாரங்களைப் பாருங்கள்."
 
 lang: "ta"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'தெளிவான நீல வானத்தின் கீழ், கூரையிட்ட வாகன நிறுத்துமிடமும் வெளியே நிறுத்தப்பட்ட கார்களும் கொண்ட நவீன மூன்று மாடி மலேசிய தேசியத் தொடக்கப் பள்ளிக் கட்டிடம்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: கொடிகள் வரிசையாக நிற்கும் காலியான கூட்ட மைதானம்; மலேசியப் பள்ளியொன்றில் அன்றைய முதல் பாடம் தொடங்குவதற்கு முன் ஒவ்வொரு காலையும் மாணவர்கள் இங்கே ஒன்றுகூடுகிறார்கள்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு மலேசியப் பள்ளியின் காலைக் கூட்ட மைதானம் (tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: அன்றைய பள்ளி அமர்வு முடிந்ததும், சீருடை அணிந்த இரு பள்ளி மாணவிகள் லங்காவிச் சாலையொன்றில் மோட்டார் சைக்கிளில் வீடு திரும்புகிறார்கள்.
+    kind: representative
+    origin: third-party
+    subject: லங்காவியில் வகுப்பு முடிந்து சீருடையில் வீடு திரும்பும் பள்ளி மாணவிகள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 ஆண்டின் தொடக்கத்தில் ஒரு குடும்பப் பயணத்தைத் திட்டமிடுங்கள், உடனே ஒரு விஷயம் புரியும்: கிளந்தானில் உள்ள அண்டை வீட்டுக் குழந்தை, சிலாங்கூரில் உள்ள உங்கள் குழந்தையை விட ஒரு நாள் முன்னதாகப் பள்ளிக்குச் செல்லத் தொடங்குகிறது. அது தவறு அல்ல — மலேசியப் பள்ளி கல்வி நாட்காட்டி வடிவமைக்கப்பட்டிருக்கும் விதம் அதுதான்.

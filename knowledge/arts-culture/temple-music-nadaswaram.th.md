@@ -32,7 +32,7 @@ faq:
   - q: ดนตรีนี้ดำรงอยู่ในมาเลเซียได้อย่างไร?
     a: "ผู้บรรเลงในเทวาลัย วงนาทัสวารัม–ทวิล และวงอุรุมิ เมลัมจำนวนมาก สืบทอดธรรมเนียมนี้ต่อไป เยาวชนเริ่มฝึกตั้งแต่อายุยังน้อย หลายวงใช้รายได้ไปกับชุด เครื่องดนตรี และอาหารของสมาชิก โดยดำเนินการในลักษณะบริการที่ไม่แสวงหากำไร ทุกวันนี้ธรรมเนียมนี้ยังบรรเลงนอกเทวาลัยในงานเทศกาลและงานต้อนรับด้วย"
 lang: "th"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
 framework: history-culture
+hero: '/media/arts-culture/temple-music-nadaswaram/hero.webp'
+heroAlt: 'นักดนตรีนั่งสองคนในโธตีสีขาวเล่นนาทัสวารัมเครื่องเป่าสีดำยาวปากบานไม้ บนเสื่อลวดลายสว่าง'
+heroCredit: 'PJeganathan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_in_South_Indian_Marriage_JEG6722.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: ที่วัดฮินดู ชายคนหนึ่งนั่งเป่าปี่นาคสวรัมที่ยาว ขณะอีกคนตีกลองสองหน้าทวิลในแนวนอน
+    kind: representative
+    origin: third-party
+    subject: นักดนตรีนาคสวรัมและทวิลแสดงที่วัดศรีมาริอัมมัน สิงคโปร์
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: ชายหนุ่มถือเครื่องเป่านาคสวรัมที่มีปลายบานออกอยู่ข้างชายอีกคนที่อุ้มกลองสองหน้าทวิลทรงกลมที่ร้อยด้วยเชือกสีเหลือง
+    kind: representative
+    origin: third-party
+    subject: นักดนตรีนาคสวรัมคู่กับนักตีกลองสองหน้าทวิล คู่ดนตรีวัดอินเดียใต้แบบมาตรฐาน
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 ที่แถวหน้าสุดของขบวนแห่ไทปูซัม ในชั่วขณะที่รถศึกของเทวาลัยเริ่มเคลื่อน หรือที่ประตูทางเข้าหอจัดงานแต่งงาน — ในงานฮินดูทมิฬใด ๆ ของมาเลเซีย สิ่งแรกที่แทรกเข้ามาในอากาศคือเสียงเฉพาะอย่างหนึ่งเสมอ นั่นคือทำนองอันยาวของนาทัสวารัม (nadaswaram) และเสียงกระหึ่มของทวิล (thavil) เสียงนั้นไม่ได้เกิดขึ้นโดยบังเอิญ — มันคือเครื่องหมายของธรรมเนียม **mangala vadyam** (เครื่องดนตรีมงคล) ที่เดินทางมากับชุมชนนี้มากว่าศตวรรษ

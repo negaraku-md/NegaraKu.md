@@ -92,6 +92,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'Mural dinding berwarna-warni bertulis Selamat Datang ke KOA Lubuk Legong di hadapan sebuah bangunan sekolah kampung berbumbung jubin, dibingkai pepohon hijau.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: Seorang penari Mah Meri bertopeng kayu roh leluhur yang berukir dan berpakaian daun palma berlipat menarikan Mayin Jo'oh di hadapan penonton pada sebuah pameran kebudayaan terbuka.
+    kind: actual
+    origin: third-party
+    subject: Tarian bertopeng Mayin Jo'oh suku Mah Meri yang dipersembahkan pada sebuah pameran kebudayaan di Kuala Lumpur
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: Pintu masuk Muzium Seni Kraf Orang Asli di Kuala Lumpur, dengan sebuah arca kayu Orang Asli yang besar berukir berdiri di sebelah papan tanda di tengah-tengah tanaman tropika.
+    kind: actual
+    origin: third-party
+    subject: Muzium Seni Kraf Orang Asli, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 Jauh sebelum nama Malaysia wujud pada peta, sudah ada masyarakat yang mendiami hutan, tanah tinggi dan pesisir Semenanjung. Hari ini mereka dikenali secara kolektif sebagai Orang Asli — istilah bahasa Melayu yang bermaksud "manusia asal" atau "penduduk asal".

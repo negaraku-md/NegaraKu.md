@@ -87,6 +87,14 @@ drinkFacts:
   halal: "Air kelapa 是单一的植物原料——椰水——除了有时加点冰或一点糖浆外别无添加，因此饮料本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别摊档查问。"
   served: "冰凉供应，通常就着椰壳插一根吸管喝，或连同刮下的嫩椰肉一起加冰倒进杯里或袋里。有人偏爱喝原味；有时会提供一点糖浆，但其实并不需要。Kelapa bakar 是炙烤的变化款；冷冻「沙冰」袋装则是现代的新花样。"
   where: "遍布全国的路边摊、巴刹与夜市、美食广场和海滩都有——凡是摊贩能堆放并冰镇嫩椰的地方皆是——店里也有瓶装与冷冻的。"
+hero: "/media/food/air-kelapa/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "街边小贩用砍刀劈开一颗青嫩椰子（air kelapa），旁边堆着椰子"
+heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 在马来西亚的路边，很少有什么比一个小贩对着一堆绿椰挥动 parang（巴冷刀）、削去一颗的

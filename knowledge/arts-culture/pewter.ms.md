@@ -32,7 +32,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: "2026-07-24"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 sources:
   - title: "Tentang Piuter (About Pewter)"
     url: "https://www.royalselangor.com/intl/about-pewter"
@@ -58,6 +58,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'Seorang tukang wanita bertudung ungu dan berapron membongkok di atas meja kerja, mengetuk tukul kecil pada sebuah mug piuter yang dipasang pada jig keluli, dengan barisan mug piuter di belakangnya'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: Seorang tukang piuter menggunakan alat pada sebuah mug yang berputar di atas mesin larik, serpihan logam melengkung terkupas, dengan kira-kira sembilan badan mug piuter berkilat keperakan dikumpulkan di atas meja kerja kayu
+    kind: actual
+    origin: third-party
+    subject: seorang tukang piuter Malaysia melarik sebuah mug di atas mesin larik, dengan mug piuter siap tersusun di atas meja
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: Sebuah mug piuter tunggal yang digilap dengan pemegang tebal dan jalur mendatar, permukaan keperakannya yang bagai cermin memantulkan cahaya pada latar pucat
+    kind: actual
+    origin: third-party
+    subject: sebuah mug piuter siap yang telah digilap dengan pemegang
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 Sebuah bandar yang dibina atas timah akhirnya mengurniakan dunia satu kraf logam. Kuala Lumpur wujud kerana pelombong menemui bijih timah di pertemuan Sungai Klang dan Sungai Gombak. Beberapa dekad kemudian, seorang tukang timah remaja yang datang untuk bekerja dalam ekonomi timah yang sama mula menempa pedupaan untuk mazbah tokong — dan bengkel yang dibukanya kini menjadi pengeluar pewter terbesar di dunia.

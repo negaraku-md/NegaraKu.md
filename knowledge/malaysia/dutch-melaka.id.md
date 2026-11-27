@@ -20,7 +20,7 @@ keyTakeaways:
   - "Perjanjian Inggris-Belanda pada 17 Maret 1824 menyerahkan Melaka secara permanen kepada Inggris sebagai pertukaran dengan Bencoolen; pemindahan sebenarnya berlaku pada 1 Maret 1825"
 appliesTo: "Pembaca yang sudah mengetahui bahwa Melaka berpindah tangan dari Portugis ke Belanda ke Inggris, dan ingin memahami mengapa 184 tahun di tengah-tengah itu tampak begitu berbeda dibandingkan 130 tahun sebelumnya dan 121 tahun sesudahnya — ditambah bagaimana pemindahan kepada Inggris sebenarnya terjadi."
 lang: "id"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: Apakah Melaka berpindah dari Belanda ke Inggris dalam satu serah terima yang mulus?
     a: Tidak. Secara administratif ia berpindah tangan empat kali dalam tiga puluh tahun. Inggris menduduki Melaka pada 1795 di bawah Surat-Surat Kew (Kew Letters) untuk mencegahnya jatuh ke tangan Prancis, Melaka dikembalikan kepada Belanda pada 1818, Perjanjian Inggris-Belanda 1824 (ditandatangani 17 Maret 1824) menyerahkannya secara permanen kepada Inggris sebagai ganti Bencoolen di Sumatra, dan pengalihan yang sesungguhnya berlaku pada 1 Maret 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'Bangunan Stadthuys kolonial Belanda berwarna merah tua dan menara jamnya yang merah di Dutch Square (Alun-alun Belanda) di Melaka, dengan bundaran yang dipenuhi bunga dan papan penunjuk arah di depannya.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: Fasad bata merah tua Christ Church Melaka, dengan salib putih dan jam yang terpasang pada bagian atas pelananya, menjulang menghadap langit.
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka, gereja buatan Belanda tahun 1753
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: Gapura melengkung berwarna putih bertuliskan 'Kubur Belanda / The Dutch Graveyard' membuka ke area pemakaman kolonial yang teduh oleh pepohonan di Bukit St Paul, Melaka.
+    kind: actual
+    origin: third-party
+    subject: Makam Belanda (Kubur Belanda) di Bukit St Paul, Melaka
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 Sebuah perusahaan menghabiskan tujuh bulan dan sebuah aliansi dengan sebuah kesultanan asing untuk menaklukkan sebuah pelabuhan. Kemudian ia menghabiskan satu setengah abad berikutnya memastikan pelabuhan itu tidak pernah menjadi kaya.

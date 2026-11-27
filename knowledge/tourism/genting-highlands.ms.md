@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -85,9 +85,42 @@ wikidata: "Q1144734"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
+related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists", "frasers-hill"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk keluarga, pelancong sehari dan pengunjung hujung minggu dari Kuala Lumpur yang mahukan taman tema, cuaca tanah tinggi yang sejuk, membeli-belah dan persembahan dan bukan alam semula jadi yang tenang.'
+  getThere: 'Kira-kira sejam pemanduan dari Kuala Lumpur menaiki lebuh raya dan jalan gunung, atau letak kereta di pertengahan bukit berhampiran Genting Highlands Premium Outlets dan naik gondola Awana SkyWay ke puncak SkyAvenue.'
+  permit: 'Kasino hanya membenarkan bukan Islam masuk, dan memerlukan had umur minimum, semakan identiti serta kod pakaian.'
+  watch: 'Puncaknya sering diselubungi awan, sejuk dan lembap dengan pemandangan yang datang dan pergi, dan hujung minggu serta cuti umum membawa orang ramai yang sesak dan beratur panjang.'
+  next: 'Sahkan peraturan kemasukan taman tema, kereta kabel dan kasino semasa dengan Resorts World Genting.'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Pemandangan luas dari bumbung tokong Cina ke atas gunung hutan hujan berselimut awan dengan resort Genting di kejauhan'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: Wakaf tokong Cina merah-emas dengan bumbung melentik di sebelah pagoda tinggi bertingkat-tingkat di dataran puncak bukit berjubin
+    kind: actual
+    origin: third-party
+    subject: Wakaf berukir dan pagoda bertingkat Tokong Gua Chin Swee di Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: Fasad hotel peranginan putih menjulang di atas pintu masuk bumbung coklat bersudut tajam yang mengibarkan bendera negara
+    kind: actual
+    origin: third-party
+    subject: Menara hotel-kasino puncak bukit Resorts World Genting dengan porte-cochere bercerun uniknya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 Pandu menaiki jalan gunung keluar dari kepanasan Kuala Lumpur dan, di suatu tempat selepas tanda separuh jalan, tingkap mula berkabus dan udara bertukar sejuk. Dalam masa sejam meninggalkan ibu kota anda boleh berdiri dalam awan pada hampir 1,800 meter, di hadapan bandar peranginan neon yang disusun di atas puncak gunung. Kontras itu — tanah pamah tropika di bawah, puncak sejuk berkabus di atas, boleh dicapai dalam satu pagi — ialah keseluruhan tawaran Genting Highlands. Panduan ini merangkumi apa sebenarnya ia, cara naik ke sana, apa yang ada untuk dilakukan, cara menangani kasino dengan bijak, serta kesilapan yang memerangkap pelawat kali pertama.

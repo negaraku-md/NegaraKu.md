@@ -30,7 +30,7 @@ faq:
     a: "Un patrimonio pequeño que contiene bienes inmuebles y está valorado en menos de RM5 millones lo gestiona el Administrador de Tierras a través de la Oficina de Tierras de Distrito (District Land Office), que emite una Orden de Distribución (Distribution Order)."
 
 lang: "es"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ sources:
 relations:
   - { rel: "related-to", to: "property-buying-a-home-guide" }
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
-related: []
+related: ["faraid-and-islamic-inheritance", "wills-and-probate-in-malaysia", "real-property-gains-tax"]
 keywords: ["faraid", "herencia de propiedad", "Ley de Distribución 1958", "Distribution Act 1958", "Amanah Raya", "certificado de faraid", "patrimonio pequeño", "Oficina de Tierras"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'Una hilera de consolidadas casas adosadas detrás del letrero del vecindario Taman Idaman en Malasia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: Una casa malaya tradicional de madera sobre pilotes con tejado a dos aguas en un entorno rural
+    kind: representative
+    origin: third-party
+    subject: Una casa malaya tradicional de madera de kampung, un tipo de vivienda familiar que suele heredarse
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: Una envejecida casa con terreno de una sola planta en Temoh, Perak, del tipo que a menudo se transmite a los herederos
+    kind: representative
+    origin: third-party
+    subject: Una antigua casa familiar con terreno en Temoh, Perak
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 Cuando alguien fallece en Malasia, quién hereda su vivienda depende primero de una cuestión fundamental: si el fallecido era musulmán o no musulmán. Dos sistemas jurídicos distintos rigen la respuesta, y ambos pasan por autoridades diferentes antes de que cualquier título de terreno pueda cambiar de nombre.

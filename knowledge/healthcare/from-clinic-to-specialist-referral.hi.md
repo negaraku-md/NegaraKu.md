@@ -35,7 +35,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'लाल अर्धचंद्र के साथ, हॉस्पिटल कुआलालंपुर में कोम्प्लेक्स पाकार दान रावातन हारियान (विशेषज्ञ एवं दिवा-देखभाल परिसर) का बाहरी दृश्य।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: एक मलेशियाई सरकारी अस्पताल में एक भीतरी पंजीकरण और पूछताछ काउंटर, जिसमें रोगियों को सही कतार की ओर निर्देशित करने वाले साइनबोर्ड हैं, कोई रोगी दृश्य में नहीं
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई सरकारी अस्पताल (Hospital Tengku Anis, Pasir Puteh, Kelantan) के भीतर पंजीकरण और पूछताछ काउंटर
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: Penang में एक बड़े गैर-लाभकारी विशेषज्ञ अस्पताल की मुख्य बहुमंज़िला इमारत, जो रेफ़रल मार्ग के अस्पताल स्तर का प्रतिनिधित्व करती है
+    kind: actual
+    origin: third-party
+    subject: Lam Wah Ee Hospital की मुख्य इमारत, Penang में एक गैर-लाभकारी विशेषज्ञ अस्पताल
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 रेफ़रल किसी के भी इलाज में एक मोड़ का क्षण होता है: आपके डॉक्टर ने तय किया है — या सुझाया है — कि आपकी समस्या के लिए किसी विशेषज्ञ की ज़रूरत है, और अचानक आप स्वास्थ्य प्रणाली के एक अलग हिस्से में रास्ता तलाश रहे होते हैं। यह मार्गदर्शिका ठीक यहीं से शुरू होती है। यह आपको **नहीं** बताती कि आपको विशेषज्ञ की ज़रूरत है या नहीं; वह निर्णय आपके चिकित्सक का है। यह जो करती है वह यह समझाना है कि **मलेशिया में रेफ़रल वास्तव में कैसे काम करता है, और क्या तैयारी करनी है**, ताकि क्लिनिक से विशेषज्ञ तक का हस्तांतरण जितना सहज हो सके उतना हो।

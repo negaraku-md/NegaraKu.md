@@ -95,6 +95,7 @@ dishFacts:
   halal: "Mee siam là một món chủ lực của ẩm thực Malay, và riêng loại khô mee siam goreng thì, theo một ghi chép, 'thường do cộng đồng Malay bán nhiều hơn' và đặc biệt gắn với các quán Malay."
   eat: "Được hoàn thiện với một bộ topping quen thuộc — trứng luộc (cắt đôi), tôm, đậu phụ chiên phồng (tau pok), hẹ (kucai), giá giòn và một miếng tắc (limau kasturi) hay chanh vắt lên ngay trước khi ăn, với một thìa sambal để bên cạnh để tăng độ cay theo ý thích. Topping chính xác khác nhau tùy từng quán."
   where: "Được nấu xuyên hơn một truyền thống — một món chủ lực của các quán Malay, nơi đặc biệt tìm thấy loại khô goreng, và một món được yêu thích của bếp Nyonya (Peranakan). Về vùng miền, phong cách xào khô gắn với Johor còn một phiên bản ướt là món ưa thích ở Melaka."
+wikidata: "Q1886310"
 ---
 
 Gọi "mee siam" thì món ra tùy quầy. Ở một quầy, bạn được một đĩa bún gạo sợi mảnh

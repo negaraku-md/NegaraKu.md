@@ -29,7 +29,7 @@ faq:
     a: "हाँ। Sunway Healthcare Holdings को 18 मार्च 2026 को Bursa Malaysia के मुख्य बाज़ार में SUNMED के रूप में सूचीबद्ध किया गया। सिंगापुर के GIC ने इससे पहले जून 2021 में स्वास्थ्यसेवा व्यवसाय में 16% हिस्सेदारी के लिए RM750 मिलियन निवेश करने पर सहमति दी थी।"
 
 lang: "hi"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "मलेशियाई समूह", "एकीकृत टाउनशिप", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'सनवे पिरामिड शॉपिंग मॉल का विशाल पत्थर का शेर-मुख स्मारक और पिरामिडनुमा छत, बादल भरी आसमान के नीचे पीछे उठती SUNWAY अंकित गगनचुंबी इमारतों के साथ'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Sunway Pyramid के मिस्री-थीम वाले मुखौटे का निकट दृश्य जिसमें एक बड़ी पिरामिड छत और 'Shopping Mall / Theme Park' प्रवेश साइन के बगल में एक बैठा हुआ शेर-स्फिंक्स है
+    kind: actual
+    origin: third-party
+    subject: Bandar Sunway में पिरामिड और शेर-सिर स्फिंक्स दिखाता Sunway Pyramid शॉपिंग केंद्र का सामने का मुखौटा
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Bandar Sunway टाउनशिप का हवाई दृश्य जिसमें Sunway Pyramid मॉल, रिज़ॉर्ट होटल, लैगून और Klang Valley में गुच्छेदार आवासीय ऊँची मीनारें दिख रही हैं
+    kind: actual
+    origin: third-party
+    subject: Sunway Group की एकीकृत Bandar Sunway टाउनशिप का हवाई दृश्य जिसमें पिरामिड मॉल, रिज़ॉर्ट, लैगून और आवासीय मीनारें, सेलांगोर
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 संवे समूह भूमि को पूरे टाउनशिप में बदल देता है — घर, मॉल, अस्पताल, विश्वविद्यालय और थीम पार्क, सब एक ही मास्टर प्लान पर — और फिर जो बनाता है उसे संचालित भी करता रहता है।

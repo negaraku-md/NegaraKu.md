@@ -31,7 +31,7 @@ faq:
   - q: Qui réglemente et promeut l'industrie ?
     a: L'Autorité malaisienne de développement des investissements (MIDA), relevant du ministère de l'Investissement, du Commerce et de l'Industrie (MITI), promeut et approuve l'investissement manufacturier et administre les principales incitations fiscales ; MATRADE suit les performances à l'exportation.
 lang: fr
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'Une usine de panneaux solaires lumineuse avec des machines d''assemblage de modules et des ouvriers en charlottes et masques le long de la chaîne de production'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: Rangées de modules photovoltaïques gris sur une ligne de production à convoyeur avec deux ouvriers inspectant les panneaux
+    kind: representative
+    origin: third-party
+    subject: Modules photovoltaïques finis avançant sur la ligne de conditionnement des sous-modules de l'usine First Solar à Perrysburg, Ohio
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: Une longue rangée de panneaux solaires sombres montés sur des cadres métalliques dans un champ verdoyant sous un ciel bleu aux nuages épars
+    kind: representative
+    origin: third-party
+    subject: Un parc solaire photovoltaïque monté au sol dans un champ herbeux sous un ciel bleu
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 Peu de gens réalisent que lorsqu'un propriétaire ou un service public américain installe un système solaire, les panneaux ont bien pu être fabriqués en Malaisie. Depuis plus d'une décennie, le pays est discrètement l'un des plus grands producteurs mondiaux de cellules et modules solaires photovoltaïques (PV) — non pas pour alimenter son propre réseau, mais pour exporter. C'est une industrie d'usines, pas de tarifs de rachat.

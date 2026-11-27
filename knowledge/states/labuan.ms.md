@@ -24,7 +24,7 @@ appliesTo: "Pengasas, penasihat cukai dan pasukan kewangan yang menilai struktur
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 
 status: "published"
 aiAssisted: true
@@ -68,9 +68,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'Menara kaca biru dan perak melengkung moden kompleks Financial Park Labuan menjulang di atas pokok palma di bawah langit terang'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: Menara Chimney bata merah tinggi di Labuan yang berdiri berlatarkan langit biru gelap dengan pokok kelapa dan laman hijau di sekeliling tapaknya
+    kind: actual
+    origin: third-party
+    subject: The Chimney, mercu tanda bata merah era penjajahan Labuan yang tinggi, berdiri di atas laman di sebelah pokok kelapa
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: Jeti dan bangunan tepi laut pekan Labuan dilihat dari pelabuhan, dengan bot dan panorama pulau di bawah langit biru berawan
+    kind: actual
+    origin: third-party
+    subject: Jeti terminal feri dan pekan tepi laut Labuan dilihat merentasi pelabuhan dari laut
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 Dua syarikat, pemilik yang sama, pelanggan yang sama. Satu diperbadankan di Kuala

@@ -33,7 +33,7 @@ faq:
   - q: "ในที่สุดสองกลุ่มนี้เกิดอะไรขึ้น"
     a: "ทั้งรัฐมลายูที่รวมสหพันธ์และที่ไม่รวมสหพันธ์ถูกยุบเข้าสู่สหภาพมลายาเมื่อวันที่ 1 เมษายน 1946 ซึ่งเองก็ถูกแทนที่ภายในไม่กี่ปีด้วยสหพันธรัฐมลายา (Federation of Malaya)"
 lang: "th"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'ด้านหน้าอาคารทรงมัวร์ยาวด้วยอิฐสีเหลืองอมน้ำตาลและซุ้มโค้งสีขาว ยอดประดับด้วยโดมทองแดงและหอนาฬิกากลางสูงตระหง่านใต้ท้องฟ้าสีคราม'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: สถานีรถไฟอีโปห์ยุคอาณานิคมสีขาวเปล่งประกาย อาคารสไตล์เอ็ดเวิร์ด-มัวร์หลังยาวที่มีระเบียงเสาโค้งและหอโดม สร้างขึ้นภายใต้การปกครองของอังกฤษในรัฐเประ
+    kind: actual
+    origin: third-party
+    subject: สถานีรถไฟอีโปห์ (Ipoh Railway Station) สถานที่สำคัญยุคอาณานิคมอังกฤษในรัฐเประ (Perak)
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: ด้านหน้าสีขาววิจิตรของสถานีรถไฟกัวลาลัมเปอร์เก่า อาคารยุคอาณานิคมอังกฤษที่มีซุ้มโค้งเกือกม้าแบบมัวร์ โดมเล็ก และยอดแหลมคล้ายหอคอยสุเหร่า สร้างเสร็จในปี 1910
+    kind: actual
+    origin: third-party
+    subject: สถานีรถไฟกัวลาลัมเปอร์เก่า (ปี 1910) สถานีปลายทางยุคอังกฤษสไตล์มัวร์
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 เก้ารัฐมลายู หนึ่งมหาอำนาจจักรวรรดิ ทว่าไม่ใช่ข้อตกลงเดียวแต่เป็นสอง การแบ่งนั้นคือสิ่งที่บทสรุปเกี่ยวกับมลายาอาณานิคมส่วนใหญ่ข้ามผ่าน และมันคือประเด็นทั้งหมดของบทความนี้

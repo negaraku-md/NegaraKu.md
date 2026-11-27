@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,33 @@ verificationNeeded:
   - "الإيرادات — للسنة المالية 2024 (المنتهية في 31 ديسمبر 2024) إيرادات مجموعة نحو 24.4 مليار رينغيت وصافي ربح نحو 2.66 مليار رينغيت، بحسب إصدار نتائج آي إتش إتش. أعِد التأكد من الرقم والأساس مقابل كل تقرير سنوي/ربعي جديد."
   - "المساهمة — يُستشهد بميتسوي وشركاه (Mitsui & Co) بوصفه يملك نحو 32–33% (عبر إم بي كيه لإدارة الرعاية الصحية MBK Healthcare Management) وبخزانة ناسيونال (Khazanah Nasional) بوصفها أقلية كبيرة. وتتبدّل النسب الدقيقة مع عمليات الطرح والشراء؛ تحقق منها مقابل أحدث إفصاحات بورصة ماليزيا / بورصة سنغافورة قبل الاستشهاد برقم."
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: 'الواجهة الطويلة الكريمية والحمراء والزرقاء لمستشفى غلينيغلز بينانغ أمام سماء زرقاء، واسم ''Gleneagles PENANG'' الأزرق مثبّت على الجدار السفلي وعلى حاجز السطح'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: المدخل المنحني لـ Pantai Hospital Kuala Lumpur مضاءً ليلًا، مع لافتة 'PANTAI HOSPITAL KUALA LUMPUR' المضاءة فوق الرواق ونافورة مضاءة بالأرجواني في الساحة الأمامية
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital Kuala Lumpur ليلًا — جزء من شبكة Pantai Hospitals التابعة لـ IHH Healthcare
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: الكتلة الرمادية الحديثة لـ Prince Court Medical Centre في كوالالمبور مع كتابة 'PRINCE COURT' الذهبية وشعار ذهبي على واجهته العلوية، مع مساحات خضراء ولافتات الشارع أسفله
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre، شارع Jalan Kia Peng، كوالالمبور — مملوك لـ IHH Healthcare
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 ادخل مستشفى بانتاي (Pantai) أو غلينيغلز (Gleneagles) في كوالالمبور، أو جناح ماونت إليزابيث (Mount Elizabeth) في سنغافورة، أو عيادة أجي بادم (Acibadem) في إسطنبول، أو مركز فورتِس (Fortis) في دلهي، فأنت تطأ العائلة المؤسسية نفسها. تلك العائلة هي آي إتش إتش للرعاية الصحية برهاد (IHH Healthcare Berhad) — شركة مقرها ماليزيا نمت لتصبح إحدى أكبر مشغّلي المستشفيات الخاصة في العالم.

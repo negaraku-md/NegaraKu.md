@@ -40,7 +40,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -85,9 +85,42 @@ wikidata: "Q1144734"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
+related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists", "frasers-hill"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'कुआलालंपुर के उन परिवारों, दिन-यात्रियों और सप्ताहांत-यात्रियों के लिए जो शांत प्रकृति के बजाय थीम पार्क, ठंडा पहाड़ी मौसम, ख़रीदारी और शो चाहते हैं।'
+  getThere: 'कुआलालंपुर से लगभग एक घंटे की ड्राइव, राजमार्ग और पहाड़ी सड़क पर ऊपर, या Genting Highlands Premium Outlets के पास पहाड़ी के बीच में पार्क करके Awana SkyWay गंडोला से SkyAvenue शिखर तक जाएँ।'
+  permit: 'कैसीनो केवल ग़ैर-मुस्लिमों को प्रवेश देता है, और एक न्यूनतम आयु, पहचान-जाँच और वस्त्र-संहिता अपेक्षित करता है।'
+  watch: 'शिखर अक्सर बादलों से घिरा, ठंडा और गीला रहता है जहाँ दृश्य आते-जाते रहते हैं, और सप्ताहांत व सार्वजनिक अवकाश भारी भीड़ और लंबी क़तारें लाते हैं।'
+  next: 'वर्तमान थीम-पार्क, केबल-कार और कैसीनो प्रवेश नियम Resorts World Genting से पुष्ट करें।'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'एक चीनी मंदिर की छत से बादल-ढके वर्षावन पहाड़ों पर दूरी में गेंटिंग रिसॉर्ट का विस्तृत दृश्य'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: टाइल वाले पहाड़ी-चोटी के प्रांगण में ऊँचे बहु-स्तरीय pagoda के साथ उठे हुए किनारों वाला लाल-सुनहरा चीनी मंदिर मंडप
+    kind: actual
+    origin: third-party
+    subject: Genting Highlands पर Chin Swee Caves Temple का अलंकृत मंडप और बहु-स्तरीय pagoda
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: राष्ट्रीय झंडे लहराते नाटकीय कोणीय भूरे छतरी-प्रवेशद्वार के ऊपर उठता विशाल सफ़ेद रिज़ॉर्ट होटल का अग्रभाग
+    kind: actual
+    origin: third-party
+    subject: Resorts World Genting का पहाड़ी-चोटी वाला कैसीनो-होटल टावर अपने विशिष्ट नुकीले porte-cochere के साथ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 कुआलालंपुर की गर्मी से बाहर पहाड़ी सड़क पर ऊपर गाड़ी चलाएँ और, आधे रास्ते से कहीं आगे, खिड़कियाँ धुंधलाने लगती हैं और हवा ठंडी हो जाती है। राजधानी छोड़ने के एक घंटे के भीतर आप लगभग 1,800 मीटर पर बादल में खड़े हो सकते हैं, एक पहाड़-शिखर पर जमे एक नियॉन रिज़ॉर्ट शहर के सामने। वह विरोधाभास — नीचे उष्णकटिबंधीय तराई, ऊपर ठंडा धुंधला शिखर, एक सुबह में पहुँच योग्य — गेंटिंग हाइलैंड्स का पूरा प्रस्ताव है। यह गाइड शामिल करती है कि यह वास्तव में क्या है, वहाँ कैसे पहुँचें, करने के लिए क्या है, कैसीनो को समझदारी से कैसे संभालें, और वे ग़लतियाँ जो पहली बार आने वालों को पकड़ती हैं।

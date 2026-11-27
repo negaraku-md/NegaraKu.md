@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "كل من في ماليزيا — بوذياً كان أو غير بوذي — يريد عرضاً واضحاً ودقيقاً لما هو يوم ويساك، ومتى يقع، وكيف يُحتفل به، بما في ذلك أصحاب العمل والعاملون الذين يتحقّقون من تاريخ العطلة الرسمية."
 
 lang: "ar"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,34 @@ festivalFacts:
   when: "يوم اكتمال القمر من الشهر القمري Vesakha — عمومًا في أبريل أو مايو؛ ولأنه يتبع التقويم القمري فإن تاريخه الميلادي يتغيّر كل عام."
   holiday: "عطلة رسمية وطنية في جميع الولايات والأقاليم الاتحادية، أُعلنت عطلةً رسمية لأول مرة في 1962؛ وبموجب Employment Act 1955، إذا وقع في يوم راحة تُطبَّق عطلة بديلة مدفوعة الأجر."
   etiquette: "يتمحور الإحياء حول المعبد؛ ويرتدي كثير من المؤمنين الأبيض ويلتزمون نظامًا نباتيًا طوال اليوم، وأشهر فعالية عامة هي موكب عربات Wesak في Kuala Lumpur انطلاقًا من المعبد البوذي Maha Vihara في Brickfields، وتشاهده حشود كبيرة من المؤمنين والمتفرجين."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'تمثال بوذا ذهبي جالس مزيّن بأكاليل أزهار القطيفة الصفراء أمام هالة برتقالية وزرقاء وذهبية زاهية على عربة احتفالية، محاط بأكوام من أزهار الأقحوان البيضاء والصفراء والوردية تحت مظلّة خلال يوم ويساك في ألور ستار'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: صف طويل من الفوانيس الصغيرة المعلقة بألوان فيروزية وخضراء ليموني ووردية وبيضاء، يحمل كل منها شمعة مشتعلة وقصاصة ورقية وردية تحمل أمنيات طيبة، معلّقة تحت خيمة في احتفال بيوم ويساك في ماليزيا مع زوّار يسيرون خلفها
+    kind: actual
+    origin: third-party
+    subject: صفوف من فوانيس البركة الملونة للمتعبّدين تحمل قصاصات الأمنيات الطيبة في احتفال بيوم ويساك في ألور ستار، ماليزيا
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: مئات من مصابيح الشمع الصغيرة المضاءة على شكل زهرة لوتس مرتّبة في صفوف منتظمة على طاولات مغطاة بأقمشة وردية وصفراء، تؤدّي إلى تمثال صغير لبوذا تحيط به الأزهار أمام خلفية مرسومة لسماء زرقاء داخل خيمة
+    kind: actual
+    origin: third-party
+    subject: مذبح تعبّدي بمئات من مصابيح شمع اللوتس المضاءة أمام تمثال لبوذا في يوم ويساك بألور ستار، ماليزيا
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 اسأل متى يقع يوم ويساك، فلا جواب ثابت — إنه يتحرّك. ففي 2026 يقع في 31 مايو، وفي 2027 في 20 مايو، وفي 2028 في 9 مايو. والسبب بسيط: ويساك يحدّده القمر لا تاريخ التقويم، والتقويمان القمري والميلادي ينحرف أحدهما عن الآخر كل عام.

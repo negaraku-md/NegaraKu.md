@@ -32,7 +32,7 @@ faq:
     a: "Pemerintah menegaskan tidak. Inisiatif seperti Rakan KKM dibingkai sebagai model untuk mempertahankan pakar di sektor publik, bukan penswastaan, meskipun sebagian pengamat tetap berhati-hati terhadap dampak jangka panjangnya."
 
 lang: "id"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 entity: "Kertas Putih Kesihatan"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "covid-19-pandemic-response-and-legacy"]
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'Sebuah gedung Kementerian Kesehatan Malaysia modern berfasad kaca di Putrajaya yang berhiaskan sebuah bendera Malaysia yang besar.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: Sebuah gedung kantor pemerintah federal Malaysia di Putrajaya yang menampung salah satu divisi Kementerian Kesihatan
+    kind: actual
+    origin: third-party
+    subject: Sebuah gedung Kementerian Kesihatan Malaysia di Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: Dua pejabat di meja penandatanganan di aula penerimaan Kementerian Kesihatan Malaysia, dengan nama kementerian dan lambang negara Malaysia di dinding belakang
+    kind: actual
+    origin: third-party
+    subject: Sebuah pertemuan resmi di Kementerian Kesihatan Malaysia, di bawah wordmark Kementerian Kesihatan Malaysia dan lambang negara
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 Klinik pemerintah menampung hampir dua pertiga kunjungan pasien rawat jalan nasional — tetapi hanya mewakili sekitar satu dari empat fasilitas perawatan primer. Ketidakseimbangan inilah, antara lain, yang mendorong Kementerian Kesehatan Malaysia (KKM) menulis dokumen kebijakan paling penting dalam satu generasi: Kertas Putih Kesihatan.

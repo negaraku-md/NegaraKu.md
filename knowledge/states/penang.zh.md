@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 
 status: "published"
 aiAssisted: true
@@ -72,9 +72,37 @@ wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang electronics", "silicon valley of the east"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: '槟城乔治市，奶油色的1923年乔治市药房（George Town Dispensary），一座殖民时代的转角文物转角建筑，带有拱形窗和百叶立面'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: 槟城 George Town 一条街道旁阳光照耀下的一排两层传统店屋，带有木百叶窗和柱廊式的五脚基
+    kind: actual
+    origin: third-party
+    subject: 槟城 George Town 街道旁一排历史悠久的两层传统排屋
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: 风化的木制渔船停泊在槟城 George Town Chew 姓氏桥的一座水上高脚屋旁，隔水望向 Weld Quay 渡轮码头
+    kind: actual
+    origin: third-party
+    subject: 槟城 George Town 海滨 Chew 姓氏桥的木船和高脚屋
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 槟城的分量远超它的体型。它是马来西亚面积最小的州属之一，却也是全国最重要的制造业经济体之一，以及游客最多的旅游目的地之一。

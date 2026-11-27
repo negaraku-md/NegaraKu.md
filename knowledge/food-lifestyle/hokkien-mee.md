@@ -96,6 +96,7 @@ dishFacts:
   halal: "Both traditional versions are typically pork-based and not halal. KL Hokkien mee uses pork and is finished with crisp pork-lard croutons (zhu you zha); Penang Hokkien mee is simmered from prawn heads, shells and pork ribs, with pork lard traditionally added to the soup (though this is less common now). There is no mention of halal adaptations, so check the individual stall."
   eat: "KL Hokkien mee is a 'dry' dish, not a soup — the dark soy sauce coats the thick noodles rather than drowning them, best cooked over a fierce charcoal flame for a faint smoky char, and usually eaten for dinner or supper. Penang Hokkien mee is served as a soup, combining rice vermicelli with thicker yellow egg noodles in the spicy prawn broth, topped with sliced prawns, pork, hard-boiled egg, kangkung (water spinach), bean sprouts and fried shallots, with chilli sambal stirred in for heat; a soup-less 'dry' version also exists."
   where: "KL-style Hokkien mee is found at roadside stalls and kopitiam across Kuala Lumpur and the Klang Valley. Penang Hokkien mee is a staple of the island's hawker scene, served at its night markets and street-food stalls. Outside Penang, ask for the prawn soup as 'prawn mee' or 'hae mee', since the words 'Hokkien mee' there already mean the dark fried noodles."
+wikidata: "Q1624233"
 ---
 
 Ask for "Hokkien mee" in Kuala Lumpur and you get a plate of thick yellow

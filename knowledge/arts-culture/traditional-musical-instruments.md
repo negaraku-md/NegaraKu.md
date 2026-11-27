@@ -71,6 +71,34 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: 'Seorang pemuzik Orang Ulu bertatu bertopi berbulu dan berkostum bermanik memainkan sape besar bercat motif pusaran Borneo merah dan hitam yang berani'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: Sederet gendang rebana ubi yang besar di atas kaki kayu biru, badan dan rangkanya dicat dengan corak bunga yang terang berwarna merah, hijau, kuning dan merah jambu
+    kind: actual
+    origin: third-party
+    subject: Deretan gendang rebana ubi besar dari Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: Seorang lelaki tua berbaju oren memainkan serunai iaitu seruling tiup berlidah dua, dengan deretan gendang rebana Melayu tersusun di atas lantai di belakangnya
+    kind: actual
+    origin: third-party
+    subject: Pemuzik tua memainkan serunai berlidah dua di rumahnya di Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 Bunyi yang sama berulang di sebalik hampir setiap persembahan seni Malaysia: rentak kulit kambing yang dipalu berkumpulan di majlis kahwin, seruling tinggi yang mendayu membuka babak wayang kulit, dan petikan tali kayu yang menenangkan di rumah panjang Sarawak. Alat yang menghasilkannya sering muncul dalam banyak artikel seni — jadi halaman ini mengumpulkannya di satu tempat.

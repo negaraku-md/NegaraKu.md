@@ -27,7 +27,7 @@ faq:
   - q: "Ai lãnh đạo Bộ Tài chính?"
     a: "Tính đến tháng 8 năm 2026, Bộ trưởng Tài chính là Dato' Seri Anwar bin Ibrahim, với Datuk Seri Amir Hamzah bin Azizan là Bộ trưởng Tài chính thứ II và Datuk Johan Mahmood bin Merican là Tổng Thư ký Kho bạc. Những người giữ chức vụ thay đổi theo các lần cải tổ Nội các, nên hãy xác minh tên hiện tại tại mof.gov.my."
 lang: "vi"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -71,6 +71,33 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'Mặt tiền lõm uốn cong của tòa nhà Bộ Tài chính Malaysia ở Putrajaya, nhìn qua một thác nước trang trí'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Cảnh nhìn chéo của tòa nhà Bộ Tài chính cho thấy biển hiệu Perbendaharaan Malaysia Federal Treasury và biểu tượng MOF
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Bộ Tài chính với biển hiệu 'Perbendaharaan Malaysia / Federal Treasury', Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: Cảnh nhìn từ phía trước của mặt tiền hình vòm trải rộng của tòa nhà Bộ Tài chính Malaysia tại Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Mặt trước của tòa nhà Bộ Tài chính và sân trước, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 Mỗi đồng ringgit mà chính phủ liên bang thu và chi đều đi qua một thể chế: Bộ Tài chính. Đó là bộ của Chính phủ Malaysia được giao trách nhiệm về cả chi tiêu của chính phủ lẫn việc huy động nguồn thu — nó xây dựng chính sách kinh tế, soạn Ngân sách liên bang của Malaysia, và giám sát pháp luật cùng việc điều chỉnh về tài chính. Trong tiếng Mã Lai nó là Kementerian Kewangan, và bộ máy cốt lõi của nó là Kho bạc Liên bang, hay Perbendaharaan. Trang này giải thích thể chế đó rồi gỡ rối nó khỏi thứ riêng biệt mà người ta muốn nói khi tìm kiếm "đăng ký MOF".

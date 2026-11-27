@@ -29,7 +29,7 @@ faq:
     a: "Según los resúmenes jurídicos, un delito de soborno se castiga con una pena de prisión de hasta 20 años y una multa no inferior a cinco veces el valor de la gratificación o RM10,000, lo que sea mayor. Estos detalles deben volver a comprobarse con el texto completo de la Ley."
 
 lang: "es"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
-related: []
+related: ["fam-heritage-players-controversy", "malaysia-cup-domestic-football-leagues", "malaysian-sport-governance"]
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'Un campo de fútbol vacío se extiende ante una grada desierta bajo un cielo encapotado.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: Un árbitro con equipación oscura dirigiendo el juego sobre el campo durante un partido de fútbol.
+    kind: representative
+    origin: third-party
+    subject: Un árbitro de partido dirigiendo el juego sobre el campo durante un partido de fútbol
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: Un árbitro lanzando una moneda con los dos capitanes de los equipos en el círculo central antes del inicio de un partido de fútbol.
+    kind: representative
+    origin: third-party
+    subject: Un árbitro realizando el sorteo con moneda previo al partido con los capitanes de los equipos
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 Cuando más de 100 futbolistas fueron detenidos por la policía durante la temporada 1993-1994, no se trató simplemente de una crisis deportiva, sino que abrió una cuestión legal que aún hoy no está plenamente resuelta: ¿cómo aborda un país que prohíbe casi todas las apuestas deportivas un delito nacido de esas mismas apuestas?

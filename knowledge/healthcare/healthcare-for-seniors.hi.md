@@ -22,7 +22,7 @@ appliesTo: "मलेशिया में वयस्क संतान औ�
 verificationNeeded:
   - "यह लेख निजी नर्सिंग होम शुल्क, बिस्तर क्षमता, या Rumah Seri Kenangan के लिए प्रतीक्षा-सूची की लंबाई नहीं बताता, क्योंकि ये अक्सर बदलते हैं और लिखते समय किसी आधिकारिक स्रोत पर पुष्ट नहीं थे — वर्तमान शुल्क और उपलब्धता की पुष्टि सीधे संचालक या ज़िला समाज कल्याण कार्यालय (Jabatan Kebajikan Masyarakat Daerah) से करें।"
 lang: "hi"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["मलेशिया बुज़ुर्ग देखभाल", "मलेशिया नर्सिंग होम", "Rumah Seri Kenangan", "Rumah Ehsan", "मलेशिया जराचिकित्सा देखभाल", "PeKa B40", "मलेशिया वृद्ध देखभाल", "Care Centres Act 1993", "warga emas", "मलेशिया दीर्घकालिक देखभाल"]
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: 'एक मलेशियाई वृद्धजन आश्रय (रुमाह वर्गा एमास) का द्वारबंद प्रवेश और भवन।'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: पेड़ों के बीच कम-प्रभाव वाली फ़िटनेस मशीनों के साथ एक बाहरी वरिष्ठ-नागरिक व्यायाम क्षेत्र, कोई व्यक्ति मौजूद नहीं
+    kind: representative
+    origin: third-party
+    subject: दक्षिण-पूर्व एशियाई आवासीय क्षेत्र में बुज़ुर्गों के लिए व्यायाम मशीनों वाला एक बाहरी फ़िटनेस कोना
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: बुज़ुर्गों के लिए एक एकमंज़िला मलेशियाई देखभाल गृह का प्रवेश और साइनबोर्ड, जिसके सामने मलेशियाई और Sabah के झंडे फहरा रहे हैं
+    kind: actual
+    origin: third-party
+    subject: Rumah Sri Pritchard, Kinarut, Papar ज़िला, Sabah, मलेशिया में एक वृद्धाश्रम
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 यह क्षण आमतौर पर चुपचाप आता है। जो माता-पिता अकेले ठीक से सँभाल लेते थे, वे गैस

@@ -19,7 +19,7 @@ keyTakeaways:
   - "La forme artistique est liée à une tradition de dikir du sud de la Thaïlande qui fut adaptée au Kelantan avec l'ajout du pantun et du dialecte kelantanais"
 appliesTo: "Toute personne souhaitant comprendre la forme scénique du Dikir Barat, les rôles du Tukang Karut et du Tok Juara, et la structure d'une troupe."
 lang: "fr"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,34 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "arts du spectacle", "patrimoine national"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'Deux artistes de dikir barat en costume vert et or et hautes coiffes recourbées assis par terre exécutant des gestes de bras synchronisés en souriant, des tambours à main rebana posés devant eux et des fleurs roses derrière'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: Une rangée d'interprètes de dikir barat assis en costumes vert et or et hautes coiffes frappent des mains à l'unisson et sourient lors d'une représentation nocturne, des tambours à main rebana posés au sol devant eux
+    kind: representative
+    origin: third-party
+    subject: Rangée d'interprètes de dikir barat assis (awok-awok) frappant des mains à l'unisson (tradition malaise partagée, Chingay, Singapour)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: Une chanteuse principale chante dans un microphone tandis qu'une rangée d'élèves assis en noir avec des bandeaux rouges frappent des mains à l'unisson, avec un tambour rebana et un gong, dans une salle d'école malaisienne
+    kind: actual
+    origin: third-party
+    subject: Groupe scolaire de dikir barat avec une chanteuse principale, un chœur awok-awok frappant des mains et des percussions, en Malaisie
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 Deux groupes sont assis jambes croisées, face à face sur la scène. Il n'y a pas de script. Lorsque le premier groupe termine une série de [pantun](/fr/arts-culture/pantun) satiriques sur la hausse des prix, le second groupe n'a que quelques secondes pour composer une réplique — qui doit rimer, doit tomber sur le temps et, idéalement, doit être plus mordante que le vers d'origine.

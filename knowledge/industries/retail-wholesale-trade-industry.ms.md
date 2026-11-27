@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana e-dagang telah mengubah runcit Malaysia?
     a: Beli-belah dalam talian telah berkembang pesat, diterajui platform seperti Shopee dan Lazada, dan sempadan antara runcit dalam talian dan fizikal telah kabur apabila peruncit tradisional menambah penghantaran, click-and-collect dan gedung dalam talian. Angka pendapatan e-dagang DOSM mencecah lingkungan trilion ringgit, walaupun jumlah itu merangkumi pembuatan dan perkhidmatan, bukan runcit sahaja.
 lang: ms
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Pembeli-belah, kedai dan kiosk runcit di sepanjang atrium berbilang tingkat pusat beli-belah NU Sentral di Kuala Lumpur, Malaysia.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: Sebuah lorong pasar raya yang panjang dengan rak putih yang penuh dengan gula berbungkus, minyak masak dan barangan berbungkus di bawah papan tanda lorong hijau bertulis GULA AGAR-AGAR 21, dengan lantai berjubin bersih yang menganjur ke kejauhan
+    kind: actual
+    origin: third-party
+    subject: lorong barangan runcit yang penuh dengan stok di hipermarket Giant di Kota Damansara, Selangor, satu format tunggak perdagangan runcit Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: Sebuah bangsal pasar terbuka setingkat yang panjang dengan bumbung coklat lusuh, sebuah lori yang dipenuhi hasil tani dan dua buah trak lebih kecil diletakkan di hadapan di atas kawasan tarmak bermandikan cahaya matahari di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: sebuah pasar basah tradisional terbuka di Johor Jaya dengan lori menghantar hasil segar, sebahagian daripada perdagangan makanan borong dan runcit Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 Hampir setiap ringgit yang dibelanjakan rakyat Malaysia ke atas barangan fizikal — barangan runcit, telefon, kereta, sebotol minyak masak — melalui perdagangan runcit dan borong. Ia ialah paip kepada penggunaan harian: rangkaian pengimport, pemborong, pengedar, kedai, pasar dan gedung dalam talian yang menggerakkan produk daripada tempat ia dibuat ke tempat ia dibeli. Pegawai memanggil rangkaian ini **perdagangan edaran**, dan ia ialah salah satu bahagian ekonomi Malaysia yang terbesar dan paling ketara.

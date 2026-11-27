@@ -84,9 +84,15 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: '適切なパスを選ぶ雇用主、またはマレーシアで就労するルートを比較している外国人のための内容です。マレーシアには単一の就労ビザは存在しません。'
+  how: 'スポンサーと仕事の種類にパスを選ばせましょう。雇用主がスポンサーとなる駐在員はESDを通じてEmployment Passを取得し、短期の国外払いプロジェクトはProfessional Visit Passを取得し、国外の雇用主を持つリモートワーカーはMDECを通じてDE Rantau Nomad Passを取得し、長年勤続した駐在員はTalentCorpを通じて持ち運び可能なResidence Pass-Talentを取得し、肉体労働者は別枠のクオータ制度のもとでPLKSを取得します。どれが当てはまるかは職名ではなくスポンサーが決めます。'
+  cost: '各パスには給与下限、所得基準、または有効期間がそれぞれ定められており、これらは時とともに改定されます。Employment Passの給与区分は近年改定されたため、引用された数字ではなく発行機関（ESDとImmigration、MDEC、またはTalentCorp）に最新の数値を確認してください。'
+  watch: 'Dependant Passには就労権がなく、Employment Passへの切り替えが必要です。DE Rantauを含むProfessional Visit Passは人数に上限があり、国外から支払いを受ける状態が続きます。雇用主の間で持ち運べるのはResidence Pass-Talentだけです。Employment Passはスポンサーに紐づいており、雇用主を変えると有効期間のカウントがリセットされます。'
+  next: 'スポンサーと仕事の種類を特定し、そのパスの最新の給与または所得の下限と有効期間を発行機関に確認したうえで、その機関を通じて申請してください。Employment Pass、DE Rantau、ビジネスビザの比較の解説記事をご覧ください。'
 ---
 
 マレーシアに就労ビザというものは存在しない。あるのは四つの異なる機関が運用する八つか九つの異なる制度であり、どれが必要かを決めるのは**誰が給与を払っているか**であって、職種の呼び名ではない。

@@ -97,6 +97,7 @@ dishFacts:
   halal: "Mee siam is a staple of Malay cuisine, and the dry mee siam goreng in particular is, by one account, 'more often sold by the Malay community' and especially associated with Malay stalls."
   eat: "Finished with a familiar set of toppings — hard-boiled egg (halved), prawns, fried tofu puffs (tau pok), chives (kucai), crunchy bean sprouts and a wedge of calamansi (limau kasturi) or lime squeezed over just before eating, with a spoonful of sambal on the side to push the heat up to taste. Exact toppings vary from stall to stall."
   where: "Cooked across more than one tradition — a staple of Malay stalls, where the dry goreng version is especially found, and a beloved dish of the Nyonya (Peranakan) kitchen. Regionally, the dry-fried style is associated with Johor and a wet version is a favourite in Melaka."
+wikidata: "Q1886310"
 ---
 
 Order "mee siam" and the result depends on the stall. At one you get a plate of

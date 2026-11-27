@@ -19,7 +19,7 @@ keyTakeaways:
   - "सामुदायिक कॉलेज अधिक लचीले प्रवेश के साथ निचले-स्तर के प्रमाणपत्रों पर ध्यान केंद्रित करते हैं, जबकि पॉलिटेक्निक डिप्लोमा पर ध्यान केंद्रित करते हैं — दोनों की देखरेख उच्च शिक्षा मंत्रालय के अधीन JPPKK करता है"
 appliesTo: "फॉर्म 3 या SPM के बाद के छात्र, अपने बच्चे के करियर की योजना बनाने वाले माता-पिता, और वे वयस्क कर्मचारी जो SKM के ज़रिए मौजूदा कौशलों को प्रमाणित करना चाहते हैं।"
 lang: "hi"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'कोलेज वोकेशनल सुंगाई बुलोह का प्रवेश-द्वार और नाम-पट्ट, जो तकनीकी और कौशल (TVET) प्रशिक्षण के लिए एक मलेशियाई व्यावसायिक महाविद्यालय है।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: Montfort Youth Training Centre का ढका हुआ केंद्रीय हॉल, सबाह के किनारुत में एक व्यावसायिक कौशल-प्रशिक्षण परिसर, जिसके मंच पर 'Through Work Achieve Success' लिखा एक बैनर है।
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई युवा कौशल-प्रशिक्षण केंद्र का भीतरी दृश्य
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: सबाह के Politeknik Kota Kinabalu में एक घुमावदार ढका हुआ प्रवेश-मार्ग और आधुनिक शैक्षणिक खंड।
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई पॉलिटेक्निक परिसर (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 कई फॉर्म 3 छात्र और उनके माता-पिता माध्यमिक विद्यालय के बाद केवल एक रास्ता देखते हैं: SPM, STPM, एक डिग्री। पर देश वास्तव में एक पूरी दूसरी शिक्षा प्रणाली चलाता है — अपने स्वयं के संस्थानों, अपने स्वयं के प्रमाणपत्रों और अपने स्वयं के कानूनों के साथ — जिसे शायद ही कभी ठीक से समझाया जाता है: TVET, या तकनीकी और व्यावसायिक शिक्षा एवं प्रशिक्षण।

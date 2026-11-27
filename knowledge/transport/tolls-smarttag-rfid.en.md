@@ -75,8 +75,34 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'A car passes at night beneath two illuminated yellow SmartTAG lane signs at a Malaysian expressway toll plaza.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: A wide highway toll plaza seen in daylight, with a row of toll booths and overhead lane canopies spanning several payment lanes
+    kind: actual
+    origin: third-party
+    subject: a daytime highway toll plaza with multiple lanes and booths near Ipoh, Perak
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: A toll plaza exit lane marked for RFID payment, with a lane barrier and overhead reader gantry above the road near Kota Damansara
+    kind: actual
+    origin: third-party
+    subject: an RFID exit lane at Kota Damansara Toll Plaza, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 The car ahead of you in the RFID lane brakes suddenly because the sticker on its headlamp wasn't detected — even though many people assume RFID means "you don't need to do anything at all." In reality, Malaysia currently runs at least four generations of toll technology simultaneously across different highways, and confusing one for another is a common cause of cars getting stuck at the gate.

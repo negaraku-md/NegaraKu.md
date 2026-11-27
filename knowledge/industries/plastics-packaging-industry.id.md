@@ -31,7 +31,7 @@ faq:
   - q: Apa yang dilakukan Malaysia terhadap polusi plastik?
     a: Malaysia Plastics Sustainability Roadmap 2021–2030, dipimpin kementerian lingkungan, menetapkan target untuk menghapus bertahap plastik sekali pakai yang bermasalah, menaikkan tingkat daur ulang dan kandungan daur ulang, serta membuat kemasan plastik dapat didaur ulang. Ia juga memperkenalkan skema Extended Producer Responsibility (EPR) yang membuat produsen ikut mendanai pengumpulan dan daur ulang.
 lang: id
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'Sebuah mesin cetak injeksi yang dilengkapi lengan robot menempatkan nampan plastik yang baru dicetak ke atas konveyor di sebuah pabrik.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: Sebuah mesin ekstrusi industri berwarna hijau dan krem dengan corong berbentuk cerobong di atasnya dan tabung horizontal berpemanas yang panjang dibalut kabel, menjulur ke arah kanan di depan dinding pabrik biru dan putih
+    kind: representative
+    origin: third-party
+    subject: sebuah lini ekstrusi plastik dengan corong umpan dan tabung berpemanas yang membentuk stok plastik berkesinambungan, sebuah proses inti dalam industri plastik dan pengemasan
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: Bal berbentuk kubus besar berisi botol plastik transparan yang dipipihkan, berbintik tutup dan label berwarna, ditumpuk dua dan tiga tingkat di atas aspal di samping tong logam berkarat, dengan pepohonan dan langit kelabu di belakang
+    kind: representative
+    origin: third-party
+    subject: bal botol minuman PET bening yang dihancurkan dan dipadatkan rapat, ditumpuk untuk didaur ulang menjadi bahan baku plastik baru
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 Hampir setiap produk fisik yang keluar dari pabrik Malaysia — sebungkus mi instan, sebuah ponsel pintar, bemper mobil, sepotong pipa air — bergantung pada plastik yang dibentuk di suatu tempat di negara ini. Plastik adalah salah satu kekuatan industri Malaysia yang senyap: kurang glamor daripada semikonduktor, tetapi terjalin ke hampir setiap sektor manufaktur lain dan, kian lama, ke dalam perdebatan nasional tentang sampah dan keberlanjutan.

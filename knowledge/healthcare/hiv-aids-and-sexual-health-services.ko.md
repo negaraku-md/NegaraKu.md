@@ -34,7 +34,7 @@ faq:
     a: "HIV에 관한 별도의 법은 없습니다. 형법 제269조와 제270조 같은 일반 조항이 위험한 질병의 전파에 적용될 수 있으나, 지금까지 알려진 HIV 관련 기소는 없습니다."
 
 lang: "ko"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: '순백색 배경 위의 빨간색 인식 리본으로, HIV／AIDS 인식의 국제적 상징이다.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: 깨끗한 종이를 깐 탁자 위에 놓인 HIV 신속검사 카세트, 완충액 병, 소모품을 장갑 낀 손이 다루고 있으며 얼굴은 보이지 않는다
+    kind: representative
+    origin: third-party
+    subject: 검사 전 탁자에 놓인 HIV 신속검사 키트, 장갑 낀 손으로 다루는 모습
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: 길모퉁이에 자리한 저층 공공 성 건강 진료소로, 외벽에 홍보 현수막이 걸려 있고 사람은 없다
+    kind: representative
+    origin: third-party
+    subject: 건강 홍보 현수막이 걸린 공공 성 건강 진료소의 외관
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 위험한 하룻밤 뒤 불안해진 사람은 말레이시아의 정부 클리닉 크시하탄에 걸어 들어가, 무료이고 비밀이 보장되는 HIV 검사를 받고 — 필요하다면 — 몇 시간 안에 예방약을 가지고 돌아갈 수 있습니다. 그러나 그 같은 길은 HIV를 이 나라에서 가장 민감한 건강 주제 중 하나로 만드는 기밀 유지, 법률, 종교, 낙인의 문제와도 교차합니다.

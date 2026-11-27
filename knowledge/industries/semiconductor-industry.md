@@ -95,6 +95,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'A square silicon wafer on a lab bench, its surface shimmering with magenta, pink and gold iridescence from a thin-film coating'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: A technician in a white bunny-suit, hood and mask holds a round silicon wafer in a gloved hand inside a yellow-lit semiconductor cleanroom
+    kind: representative
+    origin: third-party
+    subject: A gowned technician holds a silicon wafer in a yellow-lit photolithography cleanroom
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: A technician in a full white cleanroom suit, hood, mask and gloves works on polished metal components at a bench inside a bright clean room
+    kind: representative
+    origin: third-party
+    subject: A bunny-suited assembly technician works on precision hardware inside a clean room
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 If you are reading this on a phone or laptop, there is a real chance one of its chips spent part of its life in Malaysia — not being invented or printed, but being turned from a bare slice of silicon into a finished, packaged component ready to solder onto a circuit board. That quiet, unglamorous step is where Malaysia has built one of the most consequential positions in the entire electronics world.

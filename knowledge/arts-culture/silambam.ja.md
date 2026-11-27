@@ -29,7 +29,7 @@ faq:
   - q: "シランバムはマレーシアでスポーツとして認められていますか。"
     a: "シランバムはマレーシアで武術としても競技スポーツとしても行われており、国内競技会、国際選手権、一部の年のマレーシア競技大会（SUKMA）への参加がいずれも行われてきました。ただし、協会やこの競技の運営上の地位は時とともに変わることがあります。現在の状況は公式の情報源で確認してください。"
 lang: "ja"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: '屋外の演武で、オレンジのSilambam AsiaのTシャツを着た子どもたちと指導者が、長い竹の棒でシランバムの棒術の構えを練習する'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: 赤いサリーを着た女性が低い戦いの構えで踏み込み、片手に曲刀を、もう片方の手に丸い金属の盾を持っている様子
+    kind: representative
+    origin: third-party
+    subject: タミルの武術の武器を使った変化形である、シランバムの剣と盾（ヴァールとケダイヤム）の型
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: 長い棒、曲刀、丸い盾、短剣など、シランバムの武器を配した壁掛けの展示板
+    kind: representative
+    origin: third-party
+    subject: 棒・剣・盾・短剣を含むシランバムの武器の展示板
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 マレーシアの寺院の祭礼や[タミル正月](/ja/arts-culture/tamil-new-year)の催しで、太鼓の拍子に合わせ、一人の若者が長い竹の棒を頭上や体のまわりに稲妻のような速さで回すさまを目にすることがある。その回転はただ見栄えのためではない——それは、一千五百年を超える歴史をもつタミル武術、シランバムの象徴である。

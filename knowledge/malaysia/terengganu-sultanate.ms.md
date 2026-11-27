@@ -21,7 +21,7 @@ appliesTo: "Sesiapa yang ingin memahami bagaimana salah satu pusat tamadun Melay
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "Tahun pengasasan tepat kesultanan — sumber pelbagai memberikan 1708 (pertabalan oleh tuan punya Johor) dan 1724/1725 (kemerdekaan penuh); tarikh tepat harus disemak dengan sebuah sejarah ilmiah seperti Sejarah Terengganu karya Haji Buyong Adil."
 framework: history-culture
+hero: '/media/malaysia/terengganu-sultanate/hero.webp'
+heroAlt: 'Istana bergaya kolonial berwarna krim dan emas dengan menara berbumbung genting merah dan selasar berlengkung terletak dimandikan cahaya matahari di bawah langit biru pekat di seberang laman luas.'
+heroCredit: 'Abie Sudiono / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: Sebuah masjid putih berkilau dengan kubah pusat besar berwarna emas diapit kubah-kubah lebih kecil dan sebuah menara tinggi, terletak di belakang laman berpagar di bawah langit tropika yang cerah.
+    kind: actual
+    origin: third-party
+    subject: Masjid Abidin, bekas masjid diraja negeri Terengganu, di Kuala Terengganu
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: Sebuah jambatan angkat moden yang panjang merentangi sungai yang luas, disokong oleh gerbang putih melengkung antara dua menara tinjauan tinggi, dengan kaki langit pekan di sepanjang tebing seberang.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Angkat Kuala Terengganu merentasi Sungai Terengganu
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 Jauh sebelum mana-mana sultan bersemayam di atas takhtanya, sebongkah granit di tebing sungai di pedalaman Terengganu sudah pun menulis takdir negeri itu di atas batu. Batu Bersurat Terengganu — Batu Tersurat Terengganu — membawa satu tarikh yang terbaca sebagai tahun 1303, dan pada permukaannya yang lapuk, dalam huruf berbentuk gelung berasal Arab bagi [tulisan Jawi](/arts-culture/jawi-script), seorang pemerintah memerintahkan rakyatnya berpegang teguh kepada Islam. Ia ialah bukti bertarikh tertua tulisan Jawi dan undang-undang Islam di mana-mana di dunia Melayu. Kesultanan yang akhirnya akan memikul nama tanah itu tiba lebih empat abad kemudian — tetapi iman yang akan dipertahankannya telah terukir di sini terlebih dahulu.

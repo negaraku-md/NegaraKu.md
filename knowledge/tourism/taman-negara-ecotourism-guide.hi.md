@@ -37,7 +37,7 @@ faq:
     a: "विशिष्ट रूप से, पार्क तीन औपनिवेशिक-युग के राज्य अधिनियमों द्वारा नियंत्रित है — तामान नेगारा अधिनियम (पहांग) 1939, (केलंतान) 1938 और (तेरेंगानु) 1939 — न कि संघीय National Parks Act 1980 द्वारा। इसका कारण यह है कि मलेशिया के संघीय संविधान के तहत भूमि और वानिकी राज्य के मामले हैं, इसलिए संघीय अधिनियम तीनों राज्यों पर लागू नहीं होता।"
 
 lang: "hi"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["तामान नेगारा", "कुआला ताहान", "कैनोपी वॉकवे", "गुनुंग ताहान", "taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'ऐसे यात्रियों के लिए जो एक प्राचीन उष्णकटिबंधीय वर्षावन चाहते हैं — वृक्ष-शीर्ष कैनोपी वॉकवे, जंगल ट्रेकिंग, वन्यजीव-ओट और नदी-यात्राएँ — Pahang में Kuala Tahan प्रवेशद्वार पर ठिकाना बनाते हुए।'
+  getThere: 'Pahang में Jerantut तक सड़क मार्ग से यात्रा करें, फिर Kuala Tembeling जेटी से Sungai Tembeling पर ऊपर Kuala Tahan तक नाव लें, और एक सीधा सड़क-संपर्क विकल्प के रूप में उपलब्ध है।'
+  permit: 'हर आगंतुक जेटी या पार्क काउंटर पर आगमन पर एक PERHILITAN प्रवेश-परमिट के लिए पंजीकरण कराता है, एक अलग कैमरा-लाइसेंस चुकाता है, और Gunung Tahan की चढ़ाई के लिए एक लाइसेंसी गाइड का उपयोग करना होता है।'
+  watch: 'उत्तर-पूर्वी मानसून नदियों को उफ़ना सकता है और नावों व पगडंडियों को बाधित कर सकता है, कैनोपी वॉकवे बंदी का सामना कर चुके हैं, और जोंक व नमी निरंतर रहती हैं — पहुँच पुष्ट करें और गाइड पहले से बुक करें।'
+  next: 'वर्तमान परमिट और प्रवेश नियम व शुल्क Taman Negara Pahang के Department of Wildlife and National Parks (PERHILITAN) कार्यालय से पुष्ट करें।'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'तामन नेगारा में नीली आसमान के नीचे क्षितिज तक फैले घने उष्णकटिबंधीय वर्षावन की लहरदार पहाड़ियाँ'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Taman Negara में ऊँचे वर्षावन के पेड़ों के बीच लटके एक संकरे रस्सी-और-तख़्ते वाले canopy walkway को पार करता एक आगंतुक
+    kind: actual
+    origin: third-party
+    subject: Taman Negara में वर्षावन की चोटी पर ऊँचा canopy walkway झूला-पुल
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Taman Negara में पहाड़ियों पर धुंध के साथ जंगली नदी-तट के किनारे Tembeling River पर लकड़ी की longboat
+    kind: actual
+    origin: third-party
+    subject: सुबह की धुंध में Taman Negara घाट पर longboat के साथ Tembeling River
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 भोर में कुआला ताहान घाट पर खड़े होकर, हिमालय से पुरानी एक नदी से कोहरा उठते देखते हुए, यह भूल जाना आसान है कि आप कुआलालंपुर से बमुश्किल आधे दिन की दूरी पर हैं। तामान नेगारा कोई निर्मित आकर्षण नहीं है। यह एक जीवित उष्णकटिबंधीय वर्षावन है जो मोटे तौर पर अछूता, करोड़ों सालों से खड़ा रहा है — और इसमें प्रवेश करना लगभग किसी भी यात्री की अपेक्षा से सस्ता और सरल है।

@@ -22,7 +22,7 @@ appliesTo: "Anyone who wants to understand how gasing is played, the difference 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 
 status: "published"
 aiAssisted: true
@@ -63,6 +63,34 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Two disc-shaped Malay gasing tops of red-lacquered wood, each tightly wound with white launching cord, resting on a carved black box and a vivid purple-and-gold batik cloth, with a plain heavier gasing beside them'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: Two pale, freshly turned wooden gasing tops with the classic flat disc body and raised central knob, lying on a bed of wood shavings beside their smooth cylindrical launching handles in warm sunlight
+    kind: actual
+    origin: third-party
+    subject: two newly wood-turned Malay-style gasing spinning tops with their launching pegs
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: A boy in an orange tracksuit leans forward as he hurls a spinning top from a long white cord onto a wooden board, a spun top already resting on the plank while a crowd of onlookers watches closely behind him
+    kind: representative
+    origin: third-party
+    subject: a young competitor launching a gasing by its cord at a traditional spinning-top contest
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 The sound arrives first — heavy wood striking heavy wood, followed by cheers. On a village field around Kuala Nerus, Terengganu, two groups stand facing each other. One player throws his top with a cord; another is already spinning, waiting on the ground. The winner is not the fastest — it is the one whose top is still spinning after the strike.

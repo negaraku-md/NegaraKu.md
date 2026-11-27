@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่เช่าหรือปล่อยเช่าอสังหาริมทรัพย์ที่อยู่อาศัยในมาเลเซีย ทั้งผู้เช่าที่ลงนามในสัญญาเช่าครั้งแรก และเจ้าของบ้านที่ร่างสัญญา ในคาบสมุทรมาเลเซีย ซาบาห์ หรือซาราวัก"
 
 lang: "th"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ faq:
   - q: เจ้าของบ้านสามารถเปลี่ยนกุญแจหรือตัดสาธารณูปโภคได้หรือไม่ หากผู้เช่าปฏิเสธที่จะย้ายออก?
     a: ไม่ได้ มาตรา 7(2) ของพระราชบัญญัติการเยียวยาเฉพาะ ค.ศ. 1950 (Specific Relief Act 1950) ห้ามเจ้าของบ้านขับไล่ด้วยตนเอง — ห้ามเปลี่ยนกุญแจ ตัดไฟหรือน้ำ หรือเคลื่อนย้ายทรัพย์สินในขณะที่ผู้เช่ายังครอบครองอยู่ การเอาคืนการครอบครองต้องอาศัยคำสั่งศาล สำหรับค่าเช่าที่ค้างชำระ เจ้าของบ้านต้องยื่นคำร้องต่อศาลเพื่อขอหมายยึดทรัพย์ตามพระราชบัญญัติการยึดทรัพย์ ค.ศ. 1951 (Distress Act 1951) เพื่อยึดทรัพย์สินที่เคลื่อนย้ายได้ของผู้เช่า แทนที่จะเผชิญหน้ากับผู้เช่าโดยตรง
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'แฟลตอพาร์ตเมนต์สูงข้างเส้นทางรถไฟ LRT ที่ Taman Miharja กัวลาลัมเปอร์'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: อาคารอพาร์ตเมนต์สูงหนาแน่นริมแม่น้ำในกัวลาลัมเปอร์ ซึ่งแทนที่พักอาศัยสำหรับเช่าในมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: อาคารอพาร์ตเมนต์สูงที่ Abdullah Hukum กัวลาลัมเปอร์
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: อาคารอพาร์ตเมนต์ระดับกลางถึงสูงในย่านชานเมืองของจอร์จทาวน์ รัฐปีนัง อันเป็นแบบฉบับของบ้านที่เปิดให้เช่าในมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: อาคารอพาร์ตเมนต์ในย่านชานเมืองจอร์จทาวน์ รัฐปีนัง
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 ถามเจ้าของบ้านและผู้เช่าในมาเลเซียว่ากฎหมายใดคุ้มครองพวกเขา ส่วนใหญ่จะเดาผิด ไม่มี "พระราชบัญญัติการเช่าที่อยู่อาศัย" ให้อ้างถึง ไม่มีกฎหมายฉบับเดียวที่กำหนดระยะเวลาบอกกล่าว จำกัดเงินมัดจำ หรือระบุว่าเจ้าของบ้านทำอะไรได้และทำอะไรไม่ได้เมื่อย้ายออก

@@ -28,7 +28,7 @@ faq:
   - q: "मैं OKU (दिव्यांग व्यक्ति) के रूप में कैसे पंजीकरण कराऊँ?"
     a: "किसी सरकारी चिकित्सा विशेषज्ञ द्वारा प्रमाणित मलेशियाई नागरिक BPPOKU पंजीकरण फ़ॉर्म (संशोधन 2/2019) को एक चिकित्सकीय सत्यापन रिपोर्ट और MyKad की प्रति (या 12 वर्ष से कम आयु के आवेदकों के लिए जन्म प्रमाणपत्र) के साथ, या तो किसी JKM काउंटर पर या MyDaftar OKU पोर्टल के माध्यम से ऑनलाइन प्रस्तुत करते हैं। सफल आवेदक को एक OKU कार्ड मिलता है जो उनकी दिव्यांगता-श्रेणी दर्शाता है।"
 lang: "hi"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,36 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "समाज कल्याण विभाग", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU कार्ड", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'जोहोर के पोंतियान में JKM समाज कल्याण विभाग का ज़िला कार्यालय, सामने JKM लोगो और एक jkm.gov.my ईमेल के साथ ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' पढ़ता एक बड़ा पीला साइनबोर्ड, बगल में एक मलेशियाई झंडा'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: जोहोर बाहरू में विकलांग बच्चों के लिए एक कल्याण-देखभाल संघ का साइनबोर्ड और परिसर, एक सामुदायिक कल्याण सेवा
+    kind: representative
+    origin: third-party
+    subject: जोहोर बाहरू में विकलांग बच्चों के लिए कल्याण-देखभाल केंद्र
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: बातू पाहात, जोहोर में एक कल्याण गृह, एक आवासीय कल्याण संस्थान
+    kind: actual
+    origin: third-party
+    subject: बातू पाहात, जोहोर में कल्याण गृह (rumah kebajikan)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **समाज कल्याण विभाग** — *Jabatan Kebajikan Masyarakat*, हर जगह अपने संक्षिप्त रूप **JKM**

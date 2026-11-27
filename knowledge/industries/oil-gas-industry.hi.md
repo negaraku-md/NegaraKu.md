@@ -38,7 +38,7 @@ faq:
     a: "2024 में, PETRONAS ने RM32.0 बिलियन के लाभांश सहित, लाभांश, कर, नक़द भुगतान और अन्य प्रतिबद्धताओं के रूप में RM72.4 बिलियन का योगदान दिया। यह क्षेत्र के अन्य ठेकेदारों और सेवा-कंपनियों द्वारा चुकाए गए करों के अतिरिक्त है।"
 
 lang: "hi"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["मलेशिया तेल और गैस", "oil and gas Malaysia", "PETRONAS", "उत्पादन-साझेदारी अनुबंध", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "अपस्ट्रीम", "upstream", "डाउनस्ट्रीम", "downstream", "LNG", "पेट्रोलियम आय कर", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: 'सारावाक में बिंतुलु LNG निर्यात घाट का हवाई दृश्य: फ़िरोज़ी समुद्र के ऊपर ऊँची समुद्री लोडिंग भुजाओं और पाइपवर्क के समूहों को धारण करता इस्पात के खंभों पर एक कंक्रीट मंच, पीछे बंदरगाह और गैस-संयंत्र की क्षितिज-रेखा'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: Kimanis में Sabah Oil and Gas Terminal पर बादल भरे आसमान के सामने एक चमकीली नारंगी गैस की लौ छोड़ता एक ऊँचा लाल-सफ़ेद इस्पात फ़्लेयर स्टैक, पीछे पाइप रैक और Crocker Range हैं
+    kind: actual
+    origin: third-party
+    subject: Kimanis, सबा में Sabah Oil and Gas Terminal (SOGT) के फ़्लेयर स्टैक के शीर्ष पर जलती गैस की लौ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: धुंधले संध्या आसमान के नीचे Port Dickson के पास एक घास के मैदान के पार क्षितिज पर एक तेल रिफ़ाइनरी के आसवन टावर, चिमनियाँ और भंडारण टैंक
+    kind: actual
+    origin: third-party
+    subject: Federal Route 5 से खुले मैदान के पार देखी गई Port Dickson, Negeri Sembilan के पूर्व में एक तेल रिफ़ाइनरी
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 मलेशियाई धरती और समुद्र-तल के नीचे तेल का हर बैरल और गैस का हर घन फुट, क़ानून के अनुसार, एक ही कंपनी का है। सीधे राज्य का नहीं, न क्षेत्रों के खोजकर्ताओं का, न उन बहुराष्ट्रीय कंपनियों का जो उन्हें खोदती हैं — बल्कि PETRONAS का, वह राष्ट्रीय तेल कंपनी जो राष्ट्र के पेट्रोलियम को न्यास में रखने के लिए बनाई गई। उस एक तथ्य को समझ लीजिए और मलेशिया के तेल और गैस उद्योग का बाक़ी सब कुछ — उसका विनियमन, वित्तपोषण, कराधान और बँटवारा कैसे होता है — जगह पर बैठ जाता है।

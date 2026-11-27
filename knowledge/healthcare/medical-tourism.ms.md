@@ -32,7 +32,7 @@ faq:
     a: "Kementerian Kesihatan memberi lesen kepada kemudahan penjagaan kesihatan swasta dan Majlis Perubatan Malaysia mendaftar serta mendisiplinkan doktor. Banyak hospital juga memegang akreditasi sukarela daripada Malaysian Society for Quality in Health (MSQH) atau Joint Commission International (JCI). MHTC berada di luar rantaian kawal selia itu."
 
 lang: "ms"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'Bahagian luar Prince Court Medical Centre di Kuala Lumpur, sebuah hospital swasta Malaysia terkemuka yang melayani pelancong perubatan.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: Sebuah bangunan hospital swasta moden dengan fasad kaca di Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital, sebuah pusat perubatan swasta di Kota Kinabalu, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: Pintu masuk kecemasan bertanda sebuah hospital swasta Malaysia, dengan papan direktori menunjuk ke arah lobi dan klinik pakar
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk kecemasan dan direktori lobi Pantai Hospital, sebuah hospital swasta di Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 Sebuah keluarga dari Jakarta terbang masuk untuk pembedahan pintasan jantung bapa mereka. Sepasang suami isteri dari United Kingdom menempah IVF kerana senarai menunggu di negara mereka melangkaui tempoh kesuburan mereka. Seorang pesakit dari Bangladesh datang untuk saringan kesihatan rutin yang tidak dapat dijalankan oleh klinik di kampung halamannya.

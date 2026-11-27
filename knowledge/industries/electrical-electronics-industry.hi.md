@@ -34,7 +34,7 @@ faq:
     a: "Intel, AMD, Broadcom, Bosch और OSRAM जैसे वैश्विक नाम यहाँ संचालित होते हैं, साथ ही Jabil, Flex, Plexus, Sanmina और Benchmark जैसे अनुबंध निर्माता (EMS), और Inari Amertron समेत स्वदेशी फर्में।"
 
 lang: "hi"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E उद्योग", "E&E industry", "विद्युत और इलेक्ट्रॉनिक्स", "electrical and electronics", "मलेशिया विनिर्माण", "Malaysia manufacturing", "पेनांग इलेक्ट्रॉनिक्स", "Penang electronics", "सेमीकंडक्टर", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'चमकीले-नारंगी कैपेसिटर, बेलनाकार इलेक्ट्रोलाइटिक कैपेसिटर, काली एकीकृत-परिपथ चिप और रंग-धारीदार प्रतिरोधकों से घनी भरी एक हरी मुद्रित परिपथ बोर्ड का नज़दीकी दृश्य'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: एक हाथ सोल्डरिंग उपकरण और महीन चिमटी पकड़े हुए चिप्स और ट्रेस से भरे एक हरे प्रिंटेड सर्किट बोर्ड पर एक छोटे सरफेस-माउंट कंपोनेंट पर काम कर रहा है
+    kind: representative
+    origin: third-party
+    subject: एक हाथ महीन चिमटी और सोल्डरिंग आयरन से एक सर्किट बोर्ड पर सरफेस-माउंट कंपोनेंट की मरम्मत कर रहा है
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: एक हरा प्रिंटेड सर्किट बोर्ड ठीक ऊपर से लिया गया, जिस पर कई लेबल वाले काले इंटीग्रेटेड-सर्किट चिप्स, मेमोरी पैकेज और छोटे सरफेस-माउंट पुर्ज़ों की पंक्तियाँ लगी हैं
+    kind: representative
+    origin: third-party
+    subject: पूरी तरह असेंबल किए गए कंज़्यूमर-इलेक्ट्रॉनिक्स प्रिंटेड सर्किट बोर्ड का ऊपर से दृश्य
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 पिछले दशक में बना लगभग कोई भी लैपटॉप, स्मार्टफ़ोन या कार खोलिए और एक अच्छी संभावना है कि उसका कोई हिस्सा मलेशिया से होकर गुज़रा हो। अंदर की चिप शायद पेनांग (Penang) में परखी और पैक की गई हो; पावर एडॉप्टर, LED बैकलाइट या सर्किट बोर्ड कुलिम, मेलाका या क्लांग वैली में असेंबल हुआ हो सकता है। लगभग 3.41 करोड़ (34.1 मिलियन) लोगों (2024, DOSM) के देश के लिए, मलेशिया दुनिया की इलेक्ट्रॉनिक्स आपूर्ति-शृंखला में आश्चर्यजनक रूप से केंद्रीय स्थान पर बैठता है — और यह लगभग पूरी तरह एक ही उद्योग की कहानी है।

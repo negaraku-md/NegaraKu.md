@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังซื้อ ขาย หรือประเมินอสังหาริมทรัพย์ในมาเลเซียที่ต้องเข้าใจว่าประเภทการถือครองและประเภทกรรมสิทธิ์ในประกาศผูกมัดพวกเขาไว้จริงกับอะไร"
 
 lang: "th"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,32 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'ตึกคอนโดมิเนียมแฝดริมน้ำ Jesselton Residences ข้างท่าจอดเรือและทะเลในเมืองโกตากีนาบาลู รัฐซาบะฮ์'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: บ้านเดี่ยวหลังหนึ่งตั้งอยู่บนที่ดินมีรั้วรอบของตนเองในยะโฮร์บาห์รู เป็นอสังหาริมทรัพย์แบบมีที่ดินต้นแบบที่ถือครองด้วยโฉนดที่ดินแยกรายแปลง ไม่ใช่ส่วนแบ่งแบบสตราตา(strata)
+    kind: actual
+    origin: third-party
+    subject: บ้านเดี่ยวหลังหนึ่งในยะโฮร์บาห์รู
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: อาคารแฟลตการเคหะราคาประหยัด(PPR)ตั้งอยู่ในบูกิตจาลิล กัวลาลัมเปอร์ ซึ่งแต่ละยูนิตถือครองภายใต้โฉนดแบบสตราตา(strata title)โดยเป็นเจ้าของร่วมในทรัพย์ส่วนกลาง
+    kind: actual
+    origin: third-party
+    subject: แฟลตการเคหะราคาประหยัด(PPR)ในบูกิตจาลิล กัวลาลัมเปอร์
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 บ้านทาวน์เฮาส์สองหลังที่แทบเหมือนกันบนถนนสายเดียวกันอาจมีคำมั่นสัญญาจากรัฐที่แตกต่างกันมาก: โฉนดหนึ่งระบุว่า "กรรมสิทธิ์สมบูรณ์" อีกโฉนดหนึ่งระบุว่า "สิทธิการเช่า 99 ปี หมดอายุ 2118" คำถามที่สองที่ไม่เกี่ยวข้องกันเป็นตัวกำหนดว่าคุณยังร่วมเป็นเจ้าของล็อบบี้ลิฟต์และสระว่ายน้ำกับอีกสี่สิบครัวเรือนหรือไม่ หรือว่าทางเข้ารถและหลังคาเป็นปัญหาของคุณเองทั้งหมด ผู้ซื้อมักยุบทั้งสองคำถามเป็นข้อเดียว "มันเป็นกรรมสิทธิ์สมบูรณ์หรือเป็นคอนโด?" ในเมื่ออสังหาริมทรัพย์ตอบทั้งสองข้ออย่างเป็นอิสระต่อกันเสมอ

@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'Bangunan beratap melengkung Prince Court Medical Centre di Kuala Lumpur, dengan namanya pada fasad serta papan tanda jalan hijau dan papan tanda Kecemasan di hadapan.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebuah keluarga Indonesia terbang ke Pulau Pinang untuk pembedahan pintasan jantung, sepasang suami isteri dari Teluk datang untuk IVF, dan seorang pesara dari Australia menempah pemeriksaan seluruh badan yang harganya tiga kali ganda di negara sendiri. Bersama-sama, mereka adalah sebahagian daripada industri senyap yang membawa lebih 1.6 juta orang ke Malaysia dalam satu tahun — bukan untuk melancong, tetapi untuk mendapatkan rawatan.

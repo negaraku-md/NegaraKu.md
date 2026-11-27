@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "fr"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: Qui est Tua Pek Kong, et où se trouve le plus ancien temple de Tua Pek Kong ?
     a: Tua Pek Kong (大伯公) est une divinité au fort caractère local, largement vénérée dans les temples chinois de toute la Malaisie. Le plus ancien temple de Tua Pek Kong se trouverait à Tanjung Tokong, à Penang, et le culte s'est ensuite répandu dans toute la Malaisie, à Singapour et en Indonésie. En malais, un tel temple s'appelle tokong ; parmi les autres temples réputés figurent Cheng Hoon Teng à Malacca et le temple Thean Hou à Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Les toits de tuiles relevés et surmontés de dragons du temple chinois Thean Hou à Kuala Lumpur, encadrés par des rangées de lanternes rouges suspendues sur un ciel bleu.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: La façade ornementée de l'Ancien Temple chinois de Johor Bahru, avec des sculptures de dragons sur le toit, des reliefs en céramique et des lanternes rouges à l'entrée.
+    kind: actual
+    origin: third-party
+    subject: L'Ancien Temple chinois de Johor Bahru, un temple de la religion populaire chinoise
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Des faisceaux de bâtons d'encens allumés dégageant de la fumée devant le temple de la Déesse de la Miséricorde à George Town, Penang, un lieu de culte chinois de longue tradition.
+    kind: actual
+    origin: third-party
+    subject: Bâtons d'encens allumés au temple de la Déesse de la Miséricorde, George Town, Penang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 En entrant dans n'importe quel temple chinois de Malaisie, vous verrez très

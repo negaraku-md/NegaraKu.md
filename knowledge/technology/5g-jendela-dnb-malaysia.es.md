@@ -36,7 +36,7 @@ faq:
     a: "No. El 7 de marzo de 2026, CelcomDigi y Maxis completaron cada una la compra de las acciones del Ministerio de Finanzas en DNB por RM327,872,640.28, marcando la salida del gobierno del negocio mayorista de 5G y convirtiendo a DNB en una entidad totalmente privada de propiedad de las operadoras y YTL."
 
 lang: "es"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz", "5G Malasia", "plan nacional de banda ancha", "modelo de red dual"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'Dos torres de telecomunicaciones de celosía en Bukit Nyabau, en Bintulu, Malasia, recortadas contra un cielo al atardecer naranja y azul'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: Una alta torre de telefonía móvil de monoposte gris rematada con antenas de red móvil y equipos 5G, erguida contra un cielo azul despejado sobre los tejados de las afueras
+    kind: representative
+    origin: third-party
+    subject: Una torre de telefonía móvil de monoposte con antenas 5G contra un cielo azul despejado
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: Un mástil de telecomunicaciones en una azotea equipado con antenas de panel blancas, antenas parabólicas de microondas y gabinetes de estación base, que se eleva sobre una ciudad de baja altura bajo un cielo azul
+    kind: representative
+    origin: third-party
+    subject: Una torre de telefonía 5G en una azotea con antenas de panel y antenas parabólicas de microondas sobre una ciudad
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 Pregunte a dos malasios cómo se gestionan las redes móviles del país y a menudo

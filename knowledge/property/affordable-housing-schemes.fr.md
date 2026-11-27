@@ -32,7 +32,7 @@ faq:
     a: "Un moratoire est une période durant laquelle il vous est interdit de revendre le logement sans approbation. Residensi Wilayah impose un moratoire de 10 ans et Rumah Selangorku un moratoire de 5 ans, afin d'éviter la spéculation et d'assurer que les logements restent disponibles pour le groupe cible."
 
 lang: "fr"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,9 +84,36 @@ entity: "Skim Rumah Mampu Milik Kerajaan"
 relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "home-loan-financing" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "ministry-of-housing-local-government-kpkt", "property-agents-and-fees"]
 keywords: ["logement abordable", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "logement abordable Malaisie"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Deux hautes barres de logements sociaux malaisiens à Bukit Jalil, l''une crème et l''autre rose à toits rouges, leurs balcons ornés de linge et équipés d''antennes paraboliques, s''élevant au-dessus d''une ligne d''arbres verts sous un ciel bleu vif'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: Une longue rangée de tours de logements sociaux crème à toit rouge à Bukit Jalil, chaque unité portant une lettre, avec des voitures garées le long de la voie de la résidence, de la verdure et une ligne d'horizon urbaine au loin
+    kind: actual
+    origin: third-party
+    subject: une rangée d'immeubles du Programme de logement populaire (PPR) avec un parking de résidents à Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: Un immeuble de logements sociaux moutarde et blanc à Kota Damansara vu d'en bas contre un ciel couvert, ses nombreuses unités identiques équipées de grilles de fenêtres et de climatiseurs, encadré par une branche d'arbre
+    kind: actual
+    origin: third-party
+    subject: un immeuble de logements sociaux PPR (Gugusan Kemuning) à Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 Votre salaire est de RM4,000 par mois et le prix d'une maison en rangée en ville a déjà atteint un demi-million de ringgit — par où devriez-vous même commencer à chercher ? La réponse n'est pas un programme unique, mais un éventail de programmes gouvernementaux, chacun visant une tranche de revenu distincte. Choisir le mauvais signifie gaspiller des mois à attendre le tirage au sort d'un logement pour lequel vous n'étiez de toute façon jamais admissible.

@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,9 +75,35 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'Fasad tinggi berhias ibu pejabat Jabatan Imigresen Malaysia di Putrajaya, memaparkan nama Jabatan Imigresen Malaysia dan jata jabatan, dengan bendera berkibar di atas pintu masuk.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: Pejabat cawangan Jabatan Imigresen di Semporna, Sabah
+    kind: actual
+    origin: third-party
+    subject: Pejabat cawangan Jabatan Imigresen di Semporna, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: Sebuah cop pasport imigresen Malaysia, yang dikeluarkan di pusat pemeriksaan Jabatan Imigresen
+    kind: actual
+    origin: third-party
+    subject: Cop pasport masuk/keluar imigresen Malaysia
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 Satu agensi berdiri di sebalik hampir setiap dokumen yang membolehkan seseorang melintasi sempadan Malaysia, tinggal di sini, atau bekerja di sini. **Jabatan Imigresen Malaysia** (**JIM**) ialah badan di bawah **Kementerian Dalam Negeri** yang mengeluarkan pasport kepada warganegara, memberikan visa dan pas kepada warga asing, menempatkan kakitangan di setiap kaunter lapangan terbang dan sempadan darat, serta menguatkuasakan undang-undang imigresen. Ia berkhidmat untuk warganegara Malaysia, penduduk tetap dan pelawat asing, dan ia telah beroperasi sejak **21 Julai 1922**. Cabaran bagi pendatang baharu ialah perkhidmatannya bertaburan merentasi beberapa laman web rasmi — halaman ini memetakannya.

@@ -31,7 +31,7 @@ faq:
   - q: "La biotechnologie est-elle une part importante de l'économie de la Malaisie ?"
     a: "C'est un secteur stratégique mais encore émergent plutôt que dominant. La Bioeconomy Corporation a fait état d'une contribution cumulée d'environ RM39,9 milliards au PIB sur ses deux premières décennies. La biotech importe davantage pour son potentiel futur — en sécurité alimentaire, santé et bioéconomie — que pour sa part actuelle de la production."
 lang: fr
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'Un scientifique vêtu d''une blouse de protection, de gants et d''une visière utilise une pipette pour transférer des échantillons dans des flacons à l''intérieur d''une enceinte de biosécurité de laboratoire.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: Des rangées de récipients de culture stériles sous un éclairage contrôlé dans le laboratoire de culture de tissus végétaux de l'Universiti Malaysia Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Laboratoire de culture de tissus végétaux à l'Universiti Malaysia Terengganu
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: Un bioréacteur en acier inoxydable et en verre, équipé de tuyaux et d'instruments de contrôle, faisant tourner une culture cellulaire vivante dans un laboratoire.
+    kind: representative
+    origin: third-party
+    subject: Un bioréacteur de laboratoire faisant tourner une culture cellulaire
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 La Malaisie n'a pas les universités de recherche de pointe ni la profondeur de capital-risque d'un Boston ou d'un Shanghai, mais elle possède trois atouts qui font de la biotechnologie un pari logique à long terme : l'un des trésors de biodiversité tropicale les plus riches au monde, un flux énorme de biomasse d'huile de palme et agricole, et une autorité mondialement reconnue en matière de certification halal. Depuis plus de deux décennies, le gouvernement s'efforce de transformer ces dotations en une industrie moderne des sciences de la vie. Ce guide explique comment cet effort est organisé, ce qu'il a bâti, et vers où il se dirige.

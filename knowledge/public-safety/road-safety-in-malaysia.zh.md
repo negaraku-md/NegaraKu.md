@@ -37,7 +37,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 
 status: "published"
 aiAssisted: true
@@ -108,9 +108,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: '马来西亚南北大道上的车流行驶在分隔式公路上，晴朗的天空下设有车道标线、防撞护栏和路边广告牌。'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: 柔佛居銮附近,沿双线道的居銮-哥打丁宜路(91号联邦公路)向北望去的景象
+    kind: actual
+    origin: third-party
+    subject: 柔佛居銮的双线联邦公路(91号公路)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: 雪兰莪哥打白沙罗夜间一处路口的标线行人过路处
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪哥打白沙罗一处路口的行人过路处
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 每一天，马来西亚的道路上约有 18 条生命消逝。这个数字使道路成为该国最显著的非自然死亡原因之一，也是当局动用法律、摄像头与专责机构加以应对的主要原因。

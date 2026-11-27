@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar is UKM's pre-university foundation programme for gifted and talented students, offered in three streams: Perdana, Commercial and International."
 
 lang: "en"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'The exterior stairway and entrance of a building lettered "PUSAT SUMBER PERMATAPINTAR", the resource centre of Malaysia''s national gifted-education programme.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: Pupils seated at rows of desktop computers during a lesson in a Malaysian secondary-school computer lab.
+    kind: representative
+    origin: third-party
+    subject: Students at work in a Malaysian school computer lab
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: A university research laboratory at UTM in Johor fitted with vehicles and instruments, the kind of advanced facility that stretches high-ability learners.
+    kind: representative
+    origin: third-party
+    subject: An advanced engineering laboratory at Universiti Teknologi Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 A 10-year-old who can solve Form Five mathematics does not always stand out in an ordinary classroom — and in Malaysia, the only national centre designed to find and nurture minds like these is PERMATApintar.

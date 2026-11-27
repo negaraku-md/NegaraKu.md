@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Owners and drivers of motor vehicles in Malaysia — cars, motorcycles and commercial vehicles — who want to understand the types of insurance cover and the legal requirements."
 
 lang: "en"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -63,6 +63,32 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'Cars queued bumper to bumper in a traffic jam on the Federal Highway in Malaysia beneath a pedestrian overpass.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: A blue city tow truck in Kuala Lumpur, the kind that recovers vehicles after a breakdown or accident.
+    kind: actual
+    origin: third-party
+    subject: Tow truck in Kuala Lumpur, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: Cars bumper to bumper in an evening traffic jam on Jalan Bundusan in Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Evening traffic jam on a city road, Kota Kinabalu, Sabah
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 You can legally drive a car that has never been washed, has worn-out tyres and a broken air conditioner. But driving without a single piece of paper — a third-party insurance policy — is a criminal offence.

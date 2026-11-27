@@ -44,7 +44,7 @@ sources:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,34 @@ drinkFacts:
   halal: "فاكهة محفوظة؛ ومشروبات asam boi فاكهة وسكر وماء بلا كحول، فهي حلال في ذاتها. ويتعلّق الضمان بالمحل لمشروب كشك، أو بعلامة الاعتماد على منتج معبّأ — فابحث عنها بدلًا من الافتراض."
   served: "أكثره كلاسيكيةً هو limau asam boi — ليمون الكالامانسي مع شراب البرقوق الحامض، فوق الثلج، مع بضع قطع من البرقوق وأحيانًا رشّة ملح. ويُضاف أيضًا إلى المشروبات الغازية (Sprite asam boi) وإلى Ribena. ويُؤكَل وحده وجبةً خفيفة كذلك."
   where: "يوجد في أكشاك مشروبات المامك والكوبيتيام وأكشاك الباعة ومتاجر السلع المجفَّفة في عموم البلاد؛ وasam boi المعبّأ يُباع في الأسواق والمتاجر العامة."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'طبق من البرقوق المجفّف المحفوظ البني المتجعّد المغطّى بطبقة ملح، المعروف بأسم بوي (asam boi)'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: لقطة قريبة لحبتي برقوق مجفف مُحفوظ متجعّد ومغطى بالملح
+    kind: actual
+    origin: third-party
+    subject: لقطة قريبة لحبتي برقوق مملّح محفوظ (buay khem / asam boi)
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: وعاء زجاجي شفاف مكدّس بحبات برقوق مجفف محفوظ مغطى بطبقة من الملح
+    kind: actual
+    origin: third-party
+    subject: وعاء من البرقوق المجفف المملّح المحفوظ (buai khem / asam boi)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 بعض النكهات يصعب نسيانها، و**asam boi** إحداها: برقوقة حامضة مجفَّفة صغيرة مجعَّدة،

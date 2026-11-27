@@ -32,7 +32,7 @@ faq:
     a: "有时可以。MMC 倾向于将虚拟问诊作为已有医患关系之后的复诊，但也允许首次在线问诊，尤其是在基层医疗中，前提是医生记录理由。医生被要求对未曾亲自检查的病人开处方保持谨慎，并在在线媒介不足以安全评估你时转介你进行面对面就诊。"
 
 lang: "zh"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: '一名医生在远程医疗工作站前，透过视频屏幕查看远程病人，旁边有诊断监视器。'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: 一名医生坐在办公桌前接听电话并做记录，身后衣架上挂着白大褂，代表远程电话医疗咨询
+    kind: representative
+    origin: third-party
+    subject: 一名医生在办公桌前通过电话进行远程问诊
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: 双手拿着一部运行远程医疗视频咨询应用的智能手机，旁边有一支手持式超声探头，代表远程在线诊断
+    kind: representative
+    origin: third-party
+    subject: 通过智能手机应用进行的远程视频引导超声检查
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 你打开一个App，从沙发上视频呼叫一位医生，一个小时后一张处方就送进了你的收件箱。在马来西亚，这完全合法——但背后的规则手册并不是你可能以为的那部法律。

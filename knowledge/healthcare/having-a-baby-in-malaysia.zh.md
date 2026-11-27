@@ -24,7 +24,7 @@ appliesTo: "适用于马来西亚境内正在怀孕、计划怀孕，或在怀�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 
 status: "published"
 aiAssisted: true
@@ -62,6 +62,32 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'Hospital Kuala Lumpur 的产科大楼（Hospital Bersalin）外观，背景是城市天际线。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: 一间整洁现代的产科病房，有一张空置的病床和一旁透明的新生儿小床，无人在场
+    kind: representative
+    origin: third-party
+    subject: 一间产科病房，有一张病床和一旁透明的新生儿小床
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: 一间整洁空旷的医院产前检查候诊室，摆放着灰色座椅，墙上写着Antenatal Clinic字样
+    kind: representative
+    origin: third-party
+    subject: 一间空置的产前检查候诊区，成排座椅，墙上写着Antenatal Clinic字样
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 验孕结果呈阳性，会同时启动两个「时钟」，而几乎没有人事先把这一点说清楚。第一个时钟关乎怀孕本身——什么时候登记、去哪里登记、每次检查会发生什么。另一个则要等到婴儿出生后才开始，而且与医院完全无关：那是向另一个完全不同的部门办理的法定登记。

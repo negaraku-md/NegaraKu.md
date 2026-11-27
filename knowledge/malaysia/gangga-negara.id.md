@@ -57,6 +57,13 @@ relations:
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
 framework: explainer
+hero: '/media/malaysia/gangga-negara/hero.webp'
+heroAlt: 'Arca bodhisattva perunggu yang ramping dan berlengan banyak, menghijau karena usia, disinari dengan latar museum yang gelap.'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Kalau Anda mencari "Gangga Negara" di internet, Anda akan menemukan peta yang jelas: sebuah kerajaan emas di tepi Sungai Perak, didirikan abad kedua Masehi, dihancurkan tentara Chola dari India pada 1025. Tanggal yang begitu tepat seharusnya berarti ada catatan tertulis sezaman di suatu tempat — sebuah prasasti, selembar dokumen kerajaan. Masalahnya: ketika prasasti yang selalu dikaitkan dengan keruntuhan itu — inskripsi Thanjavur milik Rajendra Chola I sendiri — ditelaah baris demi baris, nama "Gangga Negara" sama sekali tidak ada di situ.

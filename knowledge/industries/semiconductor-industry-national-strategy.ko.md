@@ -36,7 +36,7 @@ faq:
     a: "NSS는 6만 명의 고숙련 말레이시아 엔지니어 훈련·역량 강화를 목표로 합니다 — 약 3만 명은 교육부를 통해, 약 3만 명은 다른 부처의 기술·직업(TVET) 인재입니다."
 
 lang: "ko"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: '복잡한 은빛·보라빛 온칩 회로를 드러낸 집적회로 다이의 극도 근접 촬영, 가는 금 본딩 와이어가 금빛 패키지 리드로 부채꼴로 뻗은 모습'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: 위에서 본 둥근 300밀리미터 실리콘 웨이퍼로, 표면 전체에 무지개빛 회절 색을 띠며 직사각형 칩 다이가 규칙적인 격자로 덮여 있다
+    kind: representative
+    origin: third-party
+    subject: 칩 다이 격자가 패턴화된 12인치(300mm) 실리콘 웨이퍼
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: 스핀 코터 위에서 짙은 빨간색 포토레지스트가 윤기 나게 고인 실리콘 웨이퍼가 회전하며, 레지스트가 가는 분무로 바깥으로 흩뿌려지고 있다
+    kind: representative
+    origin: third-party
+    subject: 칩 제조 공정 중 포토레지스트를 스핀 코팅하는 실리콘 웨이퍼
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 지구상 거의 모든 휴대폰, 노트북, 자동차는 수명의 일부를 말레이시아에서 보낸 칩을 담고 있습니다 — 페낭이나 클랑 밸리의 공장에서 패키징되고, 검사되고, 실려 나간 것입니다. 그러나 50년 동안 이 나라는 그 작업에서 가장 화려하지 않고 마진이 가장 낮은 조각, 즉 후공정을 했습니다. 국가반도체전략은 말레이시아가 칩의 어느 부분을 소유할지를 바꾸려는 시도입니다.

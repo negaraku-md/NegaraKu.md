@@ -41,7 +41,7 @@ verificationNeeded:
   - "पूरे वर्ष 2024 और 2025 के लिए पेराक का अनुमोदित निवेश और उसका स्थान — MIDA केवल शीर्ष पांच राज्यों का नाम लेता है"
 
 lang: "hi"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ keywords:
   - "MBI business licence"
   - "Perak GDP"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'आंशिक रूप से बादल भरी आसमान के नीचे चूना-पत्थर की पहाड़ियों के पीछे आधुनिक व्यावसायिक कार्यालय मीनारों और एक हरे मैदान के साथ इपोह शहर केंद्र का दिन का दृश्य'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: गुंबदों और मेहराबदार बरामदों वाली सफ़ेद औपनिवेशिक Ipoh रेलवे स्टेशन इमारत, नीले आसमान के नीचे उसके पक्के प्रांगण के पार देखी गई
+    kind: actual
+    origin: third-party
+    subject: Ipoh रेलवे स्टेशन, पेराक — अपने प्रांगण पर औपनिवेशिक-युग की गुंबददार ऐतिहासिक इमारत
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: Ipoh के वाणिज्यिक नगर केंद्र के ऊपर ऊँचा दृश्य जो शॉपहाउस और कार्यालय ब्लॉकों से भरा है, पृष्ठभूमि में एक काँच की कार्यालय मीनार और चूना-पत्थर की पहाड़ियाँ
+    kind: actual
+    origin: third-party
+    subject: Ipoh नगर वाणिज्यिक केंद्र, पेराक — घने शॉपहाउस और कार्यालय ब्लॉक जिनके पीछे एक काँच की कार्यालय मीनार और चूना-पत्थर की पहाड़ियाँ
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 यह जानबूझकर एक छोटा पृष्ठ है। पेराक की विधिक व्यवस्था सेलांगोर जैसी ही है, इसकी परिषदें

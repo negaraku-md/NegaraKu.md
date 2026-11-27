@@ -82,7 +82,14 @@ drinkFacts:
   origin: "मलेशियाई mamak और kopitiam काउंटरों का एक मुख्य ताज़ा-नींबू ठंडा पेय, जो किसी एक आविष्कारक के बजाय स्थानीय नींबुओं (calamansi/limau kasturi, limau nipis) पर टिका है। limau asam boi संस्करण खट्टे-मीठे-नमकीन गहरेपन के लिए सूखा खट्टा आलूबुखारा मिलाता है।"
   halal: "नींबू, चीनी और पानी, बिना किसी शराब के, इसलिए पेय स्वयं हलाल है। हलाल का आश्वासन परिसर से जुड़ा होता है, इसलिए जिन्हें प्रमाणन चाहिए उन्हें अलग-अलग ठेले की जाँच कर लेनी चाहिए।"
   served: "ठंडा, बर्फ़ पर, ताज़ा निचोड़कर परोसा गया; कम मीठे के लिए 'kurang manis' माँगें। इसे सादा ऑर्डर करें, या सूखे खट्टे आलूबुखारे और एक चुटकी नमक के साथ limau asam boi के रूप में। teh O ais limau से अलग, जो बर्फ़ वाली नींबू-चाय है।"
-  where: "देश भर के mamak आउटलेट, kopitiam और हॉकर पेय-ठेलों पर मिलता है — सबसे अधिक ऑर्डर किए जाने वाले रोज़मर्रा के ठंडे पेयों में से एक।"
+  where: "देश भर के mamak आउटलेट, kopitiam और हॉकर पेय-ठेलों पर मिलता है — सबसे अधिक ऑर्डर किए जाने वाले रोज़मर्रा के ठंडे पेयों में से एक।"
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "ऊपर से दिखता, ताज़े नींबू के टुकड़े वाला बर्फ़ीले नींबू रस (air limau ais) का गिलास"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 लगभग किसी भी मलेशियाई mamak पर कोई ठंडा पेय माँगिए और एक जवाब कभी नहीं चूकता: **air

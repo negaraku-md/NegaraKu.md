@@ -32,7 +32,7 @@ faq:
   - q: "क्या मलेशिया के सभी हिंदू मंदिर मुरुगन या मरियम्मन मंदिर हैं?"
     a: "यद्यपि अधिकांश मंदिर शिव, मुरुगन (शैव) या अम्मन/मरियम्मन (शक्ति उपासना) को समर्पित हैं, पर वे ही अकेले नहीं हैं। मलेशिया में विष्णु को समर्पित वैष्णव मंदिर, मलयाली और उत्तर भारतीय परंपराओं के मंदिर, तथा सिख गुरुद्वारे भी हैं। उपासना की परंपरा के अनुसार स्थापत्य के ब्योरों में भी कुछ भिन्नताएँ होती हैं।"
 lang: "hi"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: 'शिखर तक उठता एक विशाल दक्षिण भारतीय पिरामिडनुमा मंदिर गोपुरम, हर मंज़िल लाल, हरे, नीले और सुनहरे रंगों में तराशे रंगीन हिंदू देवताओं, घोड़ों और आकृतियों से भरी, बादलों वाली नीली आसमान के सामने तीव्र कोण से ऊपर की ओर खींची तस्वीर'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: एक दक्षिण भारतीय हिंदू मंदिर का रंगीन अग्रभाग, जिसके प्रवेश-द्वार के ऊपर एक मूर्तियुक्त मीनार है, दोनों ओर सुनहरी छतरियों के नीचे गणेश और एक देवता की बड़ी चित्रित प्रतिमाएँ हैं, एक साफ़ नीले आकाश के सामने उत्सवी त्रिकोणीय झंडी-मालाओं से सजा हुआ
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में श्री महामारिअम्मन मंदिर का सामने का अग्रभाग, जिसका उकेरा हुआ गोपुरम और प्रवेश-द्वार के दोनों ओर गणेश और मुरुगन की बड़ी प्रतिमाएँ हैं
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: एक विशाल चूना-पत्थर की गुफा के अंदर खड़ी मूर्तियुक्त देवताओं से सजी एक अलंकृत रंगीन हिंदू मंदिर-मंदिरिका, जिसकी खड़ी चट्टानी दीवारों पर लटकते हरे पौधे हैं और ऊपर से दिन के उजाले से प्रकाशित
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर के पास बाटू गुफाओं के चूना-पत्थर मंदिर के अंदर एक अलंकृत रंगीन हिंदू मंदिर-मीनार, हरियाली से लिपटी ऊँची गुफा-दीवारों के सामने
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 मलेशिया के किसी भी शहर के उस हिस्से के पास जाते ही जहाँ कोई तमिल समुदाय जड़ें जमा चुका है, आकाश की ओर उठता हुआ मूर्तियों से भरा एक गोपुर दूर से ही आँखों में बस जाता है। रंग-बिरंगी देव-मूर्तियों की परत-दर-परत सजी वह द्वार-मीनार कोई संयोग नहीं है — यह एक हज़ार वर्ष पुरानी स्थापत्य परंपरा का सिलसिला है; उस सांस्कृतिक विरासत का चिह्न जिसे दक्षिण भारतीय तमिल मूल के लोग अपने साथ मलेशिया लाए।

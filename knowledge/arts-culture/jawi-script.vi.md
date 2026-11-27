@@ -34,7 +34,7 @@ seoTitle: "Chữ Jawi: lịch sử, hệ thống và địa vị hiện nay"
 socialTitle: "Hệ chữ Ả Rập viết tiếng Mã Lai suốt bảy thế kỷ — câu chuyện của chữ Jawi"
 
 lang: "vi"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,34 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'Tấm biển hiệu màu xanh navy sẫm với huy hiệu hoàng gia Terengganu và dòng chữ ''Istana Maziah'' viết bằng chữ Jawi vàng (chữ Mã Lai gốc Ả Rập)'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: Hai trang bản thảo đối diện ghi chữ Jawi được viền bằng họa tiết hoa văn trang trí mạ vàng, xanh và đỏ cầu kỳ
+    kind: actual
+    origin: third-party
+    subject: Những trang mở đầu được trang trí của tác phẩm văn học Mã Lai Taj al-Salatin, viết tay bằng chữ Jawi
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: Một cuốn bản thảo cũ mở trong tủ trưng bày, các trang đối diện phủ kín chữ Jawi viết tay uyển chuyển
+    kind: actual
+    origin: third-party
+    subject: Bản thảo mở của Hukum Kanun Melaka (bộ luật Malacca) viết bằng chữ Jawi, trưng bày trong bảo tàng
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 Trên một tấm bia đá được tìm thấy ở Terengganu có khắc những chữ tiếng Mã Lai — không phải bằng thứ chữ ta dùng ngày nay, mà bằng hệ chữ Ả Rập được điều chỉnh cho những âm của tiếng Mã Lai. Tấm bia ấy, Bia đá Terengganu, mang niên đại 702 Hijra, thường được tương ứng với năm 1303 Công nguyên.

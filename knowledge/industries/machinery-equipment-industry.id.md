@@ -31,7 +31,7 @@ faq:
   - q: Dukungan pemerintah apa yang ada untuk sektor M&E?
     a: M&E adalah industri teknologi-tinggi prioritas MIDA yang memenuhi syarat untuk insentif investasi, dan ia sentral bagi kebijakan Industry 4.0 nasional Industry4WRD, yang menawarkan hibah seperti Industry4WRD Intervention Fund dan Domestic Investment Strategic Fund bagi perusahaan yang mengadopsi otomasi dan teknologi canggih.
 lang: id
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -93,6 +93,32 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'Lantai pabrik yang dipenuhi mesin perkakas CNC dan para pekerja, khas industri manufaktur mesin dan peralatan.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: Mesin konstruksi berat berwarna kuning yang sebagian terakit berjajar di dalam sebuah aula manufaktur industri yang besar.
+    kind: representative
+    origin: third-party
+    subject: Pabrik pembuatan mesin berat (mewakili produksi mesin industri)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: Sebuah lini pengelasan robotik otomatis menyambung panel baja besar pada lini perakitan di dalam sebuah pabrik alat berat.
+    kind: representative
+    origin: third-party
+    subject: Lini perakitan pengelasan robotik di sebuah pabrik alat berat (mewakili)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 Setiap pabrik berjalan di atas mesin — dan mesin-mesin itu harus dibangun oleh seseorang. Industri mesin & peralatan (M&E) adalah bagian dari manufaktur yang membuat lini produksi, mesin proses, perkakas pengerjaan logam, sistem daya, dan otomasi yang menjadi sandaran setiap industri *lain*. Ia adalah industri besar yang paling tak kasatmata dalam ekonomi dan, justru karena alasan itu, salah satu yang paling strategis.

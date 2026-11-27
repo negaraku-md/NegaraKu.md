@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "أولياء أمور ومقدّمو رعاية لطفل في ماليزيا مشخَّص بإعاقة أو صعوبة تعلّم ممّن يحاولون تحديد الإلحاق المدرسي وخطوات التسجيل المنطبقة."
 
 lang: "ar"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -60,9 +60,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["التعليم الخاص ماليزيا", "special education Malaysia", "برنامج PPKI", "التعليم الدامج PPI", "بطاقة OKU للأطفال", "sekolah pendidikan khas", "دعم صعوبات التعلّم ماليزيا", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'صورة جماعية لمعلّمي ومساعدي إدارة الطلاب في برنامج دمج التعليم الخاص (PPKI) في مدرسة ثانوية ماليزية، SMK تامان يونيفرسيتي.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: مدخل وقوس ترحيب لمدرسة SK Pendidikan Khas Batu Pahat، وهي مدرسة ابتدائية حكومية للتربية الخاصة في ولاية جوهور، بلوحات بالملايوية عند البوابة.
+    kind: actual
+    origin: third-party
+    subject: مدرسة ماليزية وطنية للتربية الخاصة
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: مبنى صفوف خشبي من طابق واحد لمدرسة ابتدائية حكومية ريفية في بنسيانغان بولاية صباح، تظهر خلفه تلال كثيفة الأشجار.
+    kind: representative
+    origin: third-party
+    subject: مبنى مدرسة ابتدائية حكومية ماليزية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 التشخيص ليس إلا المحادثة الأولى. أما الثانية — وهي غالباً أكثر إرباكاً — فهي أيّ مسار مدرسي يدخل إليه طفلك فعلاً، ولماذا يبدو أن بطاقة OKU تهمّ قبل المدرسة. فنظام ماليزيا يضمّ ثلاثة مسارات عامة، وعملية تسجيل إعاقة منفصلة تغذّيها جميعاً، وعالماً موازياً من العلاج الخاص وعلاج المنظمات غير الحكومية يكتشفه معظم أولياء الأمور بالتناقل الشفهي لا عبر صفحة رسمية واحدة.

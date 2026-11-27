@@ -42,7 +42,7 @@ sources:
     publisher: "PubMed"
 
 lang: "ko"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ drinkFacts:
   halal: "soursop 주스는 과육을 물이나 우유, 설탕과 간 것으로 알코올이 없으므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 노점을 확인해야 한다."
   served: "차갑게, 주문 즉시 갓 갈아서 낸다 — 물로 하면 더 가볍고, 우유로 하면 더 진한 스무디다. 상쾌한 과일 음료이니 그렇게 즐기되, soursop에 붙은 건강·'항암' 주장은 사람에게서 입증되지 않았으며 의료의 대체물이 아님을 유념하라."
   where: "전국의 주스 바, 노점, 과일 가게에서, 신선한 열대 과일 주스를 가는 곳이라면 어디서든 찾을 수 있다."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: '시장 가판대에 쌓인 신선한 초록 가시 과일 사워솝, 뒤로 파파야와 바나나가 있는 모습'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: 시장에서 금속 그릇에 담긴 가시 돋친 녹색 소스숍 열매 옆에 밝은 녹색 라임이 담긴 파란 바구니
+    kind: actual
+    origin: third-party
+    subject: 과일 노점에서 신선한 라임 바구니 옆에 놓인 통째의 소스숍 열매
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 가시 돋치고 초록빛에 묵직한 **soursop**은 첫눈에 작은 durian처럼 보인다 — 바로 그래서

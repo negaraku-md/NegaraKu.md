@@ -29,7 +29,7 @@ faq:
     a: "Ambos momentos son reales. El traspaso legal de la soberanía entró en vigor a medianoche del 31 de agosto de 1957, marcado por la ceremonia de la bandera en el padang de Kuala Lumpur. La ceremonia pública de proclamación, con el séptuple grito de «Merdeka», tuvo lugar esa misma mañana, más tarde, en el Stadium Merdeka."
 
 lang: "es"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -64,6 +64,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'Tunku Abdul Rahman se encuentra ante una multitud, con la mano en alto, en la histórica proclamación de independencia Merdeka de 1957.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: La tribuna curva y el óvalo abierto del Stadium Merdeka en Kuala Lumpur bajo un cielo luminoso, el histórico recinto donde se declaró la independencia de Malaya.
+    kind: actual
+    origin: third-party
+    subject: El Stadium Merdeka, en Kuala Lumpur, donde se proclamó la independencia el 31 de agosto de 1957
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: El imponente mástil blanco de Dataran Merdeka se eleva por encima del césped verde de la plaza Merdeka en Kuala Lumpur, donde la Union Jack fue arriada a medianoche en 1957.
+    kind: actual
+    origin: third-party
+    subject: El gigantesco mástil de Dataran Merdeka (plaza Merdeka), en Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 Unos minutos pasada la medianoche del 31 de agosto de 1957, en el padang frente al antiguo Selangor Club de Kuala Lumpur, la Union Jack bajó y la bandera de la nueva Federación de Malaya subió. Es la imagen que la mayoría de la gente conserva de la Merdeka — pero el verdadero trabajo de la independencia se había terminado meses antes, en salas de comités de Londres y Kuala Lumpur, por personas que negociaban cláusulas de una constitución que el año anterior ni siquiera existía.

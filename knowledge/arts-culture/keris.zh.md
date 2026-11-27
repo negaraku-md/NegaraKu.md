@@ -41,7 +41,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,34 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: '一把礼仪用的马来短剑（keris）平放在暗色表面上，波浪形钢刃与剑柄根部饰有鎏金花卉koftgari工艺，雕花象牙色剑柄之下，配套的银饰木鞘搁于其下方'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: 数把古董皇室马来短剑在昏暗的博物馆展柜中直立陈列，长长的银质剑鞘雕有花纹，顶端配以精铸的鸟首剑柄，灯光令金属工艺在幽暗的背景中熠熠生辉
+    kind: actual
+    origin: third-party
+    subject: 一组皇室马来短剑，配有华丽的银质鸟首剑柄，与柔佛-廖内苏丹王朝相关
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: 一把直刃礼仪马来短剑与其细长的木质剑鞘并排放在浅色台面上，短剑配有深色雕花剑柄，下方的博物馆说明卡写着 KERIS ALANG PAHANG
+    kind: actual
+    origin: third-party
+    subject: 彭亨的阿朗短剑（Keris Alang），一把象征酋长权威的礼仪马来短剑，与其木质剑鞘并排陈列
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 一片如火舌般呈锯齿状的剑身，由铸剑师（empu）之手将铁与镍折叠数百次锻打而成——马来短剑不只是一件兵器，更是马来文明的脉搏。它别在武士的腰间，在王室典礼中被高高举起，并作为家族传家宝代代相传。直到今天，马来短剑始终是主权、勇气与民族身份认同的象征。

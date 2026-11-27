@@ -31,7 +31,7 @@ faq:
   - q: 저탄소모빌리티 청사진이란 무엇인가요?
     a: 환경부와 말레이시아 녹색기술공사(MGTC)가 이끄는 말레이시아의 2021–2030 청정 교통 로드맵입니다. EV 보급과 충전 인프라에 대한 목표를 정하고, EV 구매자와 제조사에 제공되는 세제 인센티브의 근거가 됩니다.
 lang: ko
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - 삼성SDI
   - EV 보급
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: '말레이시아 고속도로 휴게소의 전기차 전용 구획 주차 공간에 DC 급속 충전기가 설치되어 있다.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: 18650과 더 큰 21700 규격의 원통형 리튬이온 배터리 셀 두 개를 나란히 세워 놓은 모습.
+    kind: representative
+    origin: third-party
+    subject: 원통형 리튬이온 배터리 셀
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: 모듈식 셀 배치를 보여 주기 위해 전시한 전기차의 납작한 리튬이온 구동 배터리 팩.
+    kind: representative
+    origin: third-party
+    subject: 전기차의 리튬이온 구동 배터리 팩
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 말레이시아는 반세기 동안 자동차를 만들어 왔습니다. 이제 이 나라는 그것을 전동화하려 하고 있으며 — 그만큼 중요하게, 전기차가 의존하는 배터리를 만들고 충전망을 구축하려 합니다. 이는 주로 휘발유·경유 차량에 관한 [말레이시아 자동차 산업](/ko/industries/automotive-industry/) 가이드가 전하는 이야기와는 다릅니다. 여기서 다루는 주제는 EV·배터리 *생태계*입니다. 차량, 인센티브, 충전기, 그리고 말레이시아가 전기 모빌리티로 얼마나 빨리 전환할지를 함께 결정하는 공장들입니다.

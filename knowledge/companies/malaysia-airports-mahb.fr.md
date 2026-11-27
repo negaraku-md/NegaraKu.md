@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,7 @@ sources:
     publisher: "The Star"
 
 entity: "Malaysia Airports Holdings Berhad (MAHB)"
+wikidata: "Q4202182"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["genting-group"]
@@ -78,6 +79,33 @@ keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airp
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
+hero: '/media/companies/malaysia-airports-mahb/hero.webp'
+heroAlt: 'La haute tour de contrôle aérien cylindrique blanche de KLIA s''élevant contre un ciel du soir spectaculaire, avec une bretelle de terminal s''incurvant à droite'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: Passage intérieur du Terminal 1 de KLIA avec son plafond voûté à lattes de bois incurvées, ses panneaux d'orientation bleus vers les portes et un tapis roulant, un voyageur solitaire marchant sur le sol poli
+    kind: actual
+    origin: third-party
+    subject: Hall intérieur du Terminal 1 de KLIA, Aéroport international de Kuala Lumpur
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: Le hall du Terminal 1 de KLIA montrant les colonnes évasées du toit en acier blanc de l'« aéroport forêt » devant de hautes parois de verre, avec une palissade bleue de rénovation Malaysia Airports longeant le passage
+    kind: actual
+    origin: third-party
+    subject: Le hall du Terminal 1 de KLIA aux couleurs de Malaysia Airports (MAHB)
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 Presque chaque fois qu'un voyageur atterrit en Malaisie, il arrive dans un aéroport géré par une seule entreprise. Malaysia Airports Holdings Berhad (MAHB) exploite le Kuala Lumpur International Airport — désormais commercialisé sous le nom de KLIA Terminal 1 et Terminal 2 — et, selon son propre décompte, 39 aéroports à travers le pays, plus une porte d'entrée à l'étranger à Istanbul. En 2025, elle est aussi devenue quelque chose d'inhabituel pour un exploitant aéroportuaire national : plus une société cotée.

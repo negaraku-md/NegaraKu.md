@@ -29,7 +29,7 @@ faq:
     a: "พยาบาลขึ้นทะเบียนโดยคณะกรรมการพยาบาลมาเลเซีย (Nursing Board Malaysia) ภายใต้พระราชบัญญัติพยาบาล (Nurses Act 1950); เภสัชกรโดยคณะกรรมการเภสัชกรรมมาเลเซีย (Pharmacy Board Malaysia) ภายใต้พระราชบัญญัติการขึ้นทะเบียนเภสัชกร (Registration of Pharmacists Act 1951, Act 371); และวิชาชีพสหเวชศาสตร์เช่นกายภาพบำบัดโดย MAHPC ภายใต้พระราชบัญญัติวิชาชีพสหเวชศาสตร์ (Allied Health Professions Act 2016, Act 774)"
 
 lang: "th"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,9 +61,35 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'โรงพยาบาลเฉพาะทางกรุกระจกสมัยใหม่ในกัวลาลัมเปอร์ โดยมีรถไฟฟ้ารางเบาวิ่งผ่านด้านหน้า'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: อาคารหอสูงหลายชั้นของโรงพยาบาลรัฐในมาเลเซียซึ่งเป็นสถานที่ทำงานของผู้ประกอบวิชาชีพเวชกรรมและสหเวชศาสตร์ที่ขึ้นทะเบียน
+    kind: actual
+    origin: third-party
+    subject: โรงพยาบาลควีนเอลิซาเบธโรงพยาบาลตติยภูมิของรัฐในโกตากีนาบาลูรัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: เจ้าหน้าที่วิทยาศาสตร์สุขภาพสองคนในห้องปฏิบัติการที่มีตู้ชีวนิรภัยและอุปกรณ์แทนวิชาชีพสหเวชศาสตร์และห้องปฏิบัติการที่ต้องขึ้นทะเบียน
+    kind: representative
+    origin: third-party
+    subject: เจ้าหน้าที่ห้องปฏิบัติการสนทนากันข้างตู้ชีวนิรภัยในห้องปฏิบัติการวิจัยทางการแพทย์ในมาเลเซีย
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 ใครสักคนอาจสวมเสื้อกาวน์สีขาว แขวนใบประกาศนียบัตรไว้บนผนังคลินิก และเรียกตัวเองว่า "หมอ" — แต่มีเพียงสิ่งเดียวเท่านั้นที่ยืนยันคุณสมบัติของเขาได้จริง คือชื่อของเขาปรากฏอยู่ในทะเบียนทางการ ในมาเลเซีย แพทย์ พยาบาล เภสัชกร และนักกายภาพบำบัดทุกคนต้องขึ้นทะเบียนกับหน่วยงานกำกับดูแลวิชาชีพของตน ข่าวดีคือ คุณสามารถตรวจสอบได้ด้วยตนเองโดยไม่มีค่าใช้จ่าย

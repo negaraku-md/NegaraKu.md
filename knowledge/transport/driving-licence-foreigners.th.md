@@ -23,7 +23,7 @@ verificationNeeded:
   - "บทความนี้ไม่ได้อ้างค่าธรรมเนียมที่แน่นอนสำหรับหลักสูตร Class D ของโรงเรียนสอนขับรถเอกชน หรือตารางค่าธรรมเนียมที่แน่นอนของ JPJ สำหรับเส้นทาง LDL/PDL/CDL เพราะไม่พบตารางค่าธรรมเนียมทางการเพียงหนึ่งเดียวของ JPJ ในระหว่างการตรวจสอบ — ยืนยันค่าธรรมเนียมปัจจุบันโดยตรงที่เคาน์เตอร์ JPJ หรือโรงเรียนสอนขับรถที่ได้รับอนุญาตก่อนจัดทำงบประมาณ"
   - "ถ้อยคำที่แน่นอนของมาตรา 28 ของพระราชบัญญัติการขนส่งทางบก (Road Transport Act 1987) ได้รับการยืนยันผ่านบทสรุปทุติยภูมิของพระราชบัญญัติแทนการอ่านไฟล์ PDF ที่ JPJ จัดเก็บทีละบรรทัดโดยตรง (เลี่ยงไว้ที่นี่เพื่อควบคุมการใช้บริบท) — หมายเลขมาตราและผลในสาระสำคัญได้รับการยืนยันข้ามแหล่งข้อมูลอิสระหลายแหล่ง แต่ยืนยันถ้อยคำที่แน่นอนกับไฟล์ PDF ของ Act 333 ที่ JPJ จัดเก็บหากร่างสิ่งใดที่ต้องอาศัยกฎหมายนี้"
 lang: "th"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'ทางแยกบนทางหลวงกลางของมาเลเซียใกล้เปนังเซ็นทรัล มีป้ายเตือนสีเหลือง สัญญาณไฟจราจร และรถยนต์'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: ป้ายจราจรควบคุมจำกัดความสูงของมาเลเซียติดตั้งอยู่เหนือถนนในกัวลาลัมเปอร์ใกล้ทางเข้าด่านเก็บเงิน
+    kind: representative
+    origin: third-party
+    subject: ป้ายจราจรควบคุมของมาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: สัญญาณไฟจราจรและเส้นแบ่งช่องทางตลอดทางหลวงสหพันธ์มาเลเซียหมายเลข91ที่มุ่งขึ้นเหนือผ่านเมืองกลวง รัฐยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: ทางหลวงสหพันธ์ผ่านเมืองกลวง รัฐยะโฮร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 ผู้เกษียณ MM2H ที่ขับรถในต่างประเทศมาสามสิบปี พนักงานใหม่ที่ถือ Employment Pass ที่ไม่เคยจับเกียร์ธรรมดา และนักท่องเที่ยวที่มาเที่ยวสองสัปดาห์ ต่างถามคำถามเดียวกันกับ JPJ และได้รับคำตอบที่แตกต่างกันสามแบบ ตั้งแต่วันที่ 19 พฤษภาคม 2025 ช่องว่างนั้นกว้างขึ้น: JPJ หยุดการแปลงใบอนุญาตของชาวต่างชาติส่วนใหญ่ไปทั้งหมด และคำแนะนำจำนวนมากที่ยังคงหมุนเวียนอยู่ในออนไลน์ถูกเขียนขึ้นก่อนการเปลี่ยนแปลงนั้น

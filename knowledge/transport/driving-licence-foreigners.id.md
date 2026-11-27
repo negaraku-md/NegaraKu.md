@@ -23,7 +23,7 @@ verificationNeeded:
   - "Artikel ini tidak menyebut biaya pasti untuk kursus Kelas D di sekolah mengemudi swasta, atau jadwal biaya JPJ yang pasti untuk jalur LDL/PDL/CDL, karena tiada satu jadwal biaya resmi JPJ ditemukan saat verifikasi — verifikasi biaya saat ini langsung di konter JPJ atau sekolah mengemudi berlisensi sebelum menyusun anggaran."
   - "Kata-kata pasti Pasal 28 Road Transport Act 1987 diverifikasi melalui ringkasan sekunder Undang-Undang itu alih-alih pembacaan baris demi baris langsung terhadap PDF yang dihosting JPJ (dihindari di sini untuk menghemat penggunaan konteks) — nomor pasal dan dampak substantifnya didukung di berbagai sumber independen, tetapi verifikasi kata-kata pasti terhadap PDF Act 333 yang dihosting JPJ jika menyusun sesuatu yang bergantung secara hukum kepadanya."
 lang: "id"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'Sebuah persimpangan di jalan raya federal Malaysia dekat Penang Sentral dengan rambu peringatan kuning, lampu lalu lintas dan mobil.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: Sebuah rambu pengatur pembatasan ketinggian Malaysia yang dipasang di atas jalan di Kuala Lumpur dekat jalan masuk gerbang tol.
+    kind: representative
+    origin: third-party
+    subject: Rambu pengatur jalan Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: Lampu lalu lintas dan marka lajur di sepanjang Jalur Federal 91 Malaysia yang mengarah ke utara melintasi Kluang, Johor.
+    kind: actual
+    origin: third-party
+    subject: Jalan raya federal yang melintasi Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 Seorang pensiunan MM2H yang telah mengemudi selama tiga puluh tahun di luar negeri,

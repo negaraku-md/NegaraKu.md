@@ -31,7 +31,7 @@ faq:
   - q: 전자상거래는 말레이시아 소매업을 어떻게 바꿨나요?
     a: Shopee와 Lazada 같은 플랫폼을 선두로 온라인 쇼핑이 빠르게 성장했고, 전통 소매상들이 배송·클릭앤콜렉트·온라인 매장을 더하면서 온라인과 오프라인 소매의 경계가 흐려졌습니다. DOSM의 전자상거래 수입 수치는 수조 링깃에 이르지만, 그 합계는 소매만이 아니라 제조업과 서비스업을 아우릅니다.
 lang: ko
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: '말레이시아 쿠알라룸푸르 NU Sentral 쇼핑몰의 여러 층으로 된 아트리움에 걸쳐 있는 쇼핑객과 상점, 소매 키오스크.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: 긴 슈퍼마켓 통로에 흰색 진열대가 봉지 설탕, 식용유, 포장 상품으로 가득 차 있고, GULA AGAR-AGAR 21이라고 적힌 초록색 통로 표지판 아래로 깨끗한 타일 바닥이 멀리 이어진다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 슬랑오르주 코타 다만사라의 Giant 하이퍼마켓에 상품이 가득 찬 식품 통로로, 말레이시아 소매업의 주류 업태이다
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: 빛바랜 갈색 지붕을 얹은 길고 단층인 개방형 시장 건물. 농산물을 가득 실은 로리 한 대와 소형 트럭 두 대가 햇볕이 드는 아스팔트 공터에 밝고 푸른 하늘 아래 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 조호르 자야에서 로리가 신선한 농산물을 들여오는 전통 개방형 시장으로, 말레이시아 도매·소매 식품 거래의 한 부분이다
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 말레이시아인이 실물 상품에 쓰는 거의 모든 링깃 — 식료품, 휴대폰, 자동차, 식용유 한 병 — 은 소매·도매업을 거칩니다. 이는 일상 소비의 배관(配管)과도 같습니다. 즉 상품을 만든 곳에서 사는 곳으로 옮기는 수입업자·도매상·유통업자·상점·시장·온라인 매장의 연결망입니다. 당국은 이 연결망을 **유통업(distributive trade)**이라 부르며, 이는 말레이시아 경제에서 가장 크고 가장 눈에 띄는 부분 중 하나입니다.

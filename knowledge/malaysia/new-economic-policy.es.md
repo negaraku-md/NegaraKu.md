@@ -21,7 +21,7 @@ keyTakeaways:
   - "La NEP se formuló tras los sucesos del 13 de mayo de 1969 y fue sucedida por la Política Nacional de Desarrollo en 1991"
 appliesTo: "Lectores que quieran los objetivos, metas y marco temporal documentados de la Nueva Política Económica tal como se declaran en los textos oficiales de los planes de Malasia, y no un relato partidista de la misma."
 lang: "es"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'La mezquita Putra, de cúpula rosada, y el grandioso complejo administrativo Perdana Putra se asoman a un lago tranquilo en Putrajaya, la capital federal de Malasia construida expresamente para tal fin.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: El pilón blanco en forma de vela del puente atirantado Seri Wawasan se eleva sobre las tranquilas aguas del lago Putrajaya, con cables de acero desplegándose en abanico hacia su tablero.
+    kind: actual
+    origin: third-party
+    subject: El puente Seri Wawasan sobre el lago Putrajaya, en la capital administrativa federal
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: El puente Putra, de inspiración isfahaní, se arquea sobre el lago Putrajaya, con sus pilares alicatados semejantes a alminares y sus arcos apuntados reflejados en el agua bajo un cielo azul.
+    kind: actual
+    origin: third-party
+    subject: El puente Putra (Jambatan Putra) sobre el lago Putrajaya, en la capital administrativa federal
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 La Nueva Política Económica suele recordarse con una sola palabra — «reestructuración» — y se ha discutido desde entonces. Pero la política declaró sus propios fines por escrito, en un plan gubernamental presentado ante el Parlamento, y esos fines fueron dos, no uno, con una tercera idea situada por encima de ambos. Este artículo expone lo que dicen los documentos, en el orden en que los documentos lo dicen.

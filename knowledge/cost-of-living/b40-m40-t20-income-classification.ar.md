@@ -61,7 +61,7 @@ entity: "Jabatan Perangkaan Malaysia (DOSM)"
 wikidata: "Q7354425"
 relations:
   - { rel: "related-to", to: "kos-sara-hidup-malaysia" }
-related: []
+related: ["income-inequality-poverty-line", "padu-central-database", "belanjawanku-reference-budget"]
 keywords: ["B40", "M40", "T20", "دخل الأسرة", "pendapatan isi rumah", "DOSM", "تكلفة المعيشة", "الدخل الوسيط", "median pendapatan"]
 framework: explainer
 ---

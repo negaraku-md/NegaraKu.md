@@ -36,7 +36,7 @@ faq:
     a: "Penang es un destino de todo el año con un clima tropical cálido y húmedo. Puede llover en cualquier mes, pero las lluvias tienden a ser más intensas en torno a los periodos intermonzónicos (aproximadamente abril–mayo y septiembre–noviembre); la ventana más seca y fresca en torno a diciembre–febrero es popular. Las mañanas y el final de la tarde son los momentos más cómodos para caminar."
 
 lang: "es"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que quieren explorar a pie un núcleo patrimonial de la UNESCO recorrible, de tiendas-vivienda, casas de clanes, el arte callejero de Ernest Zacharevic y comida multicultural de hawker.'
+  getThere: 'Vuele al Aeropuerto Internacional de Penang, al sur de George Town, o llegue a la isla por tierra a través del Puente de Penang y el Puente Sultan Abdul Halim Muadzam Shah, o tome el Rapid Ferry desde Butterworth hasta el frente marítimo de George Town.'
+  watch: 'Tome el arte callejero como una puerta de entrada más que como la historia entera, ya que son las casas de clanes, los templos y las calles de tiendas-vivienda lo que la declaración de la UNESCO protege en realidad.'
+  next: 'Confirme los horarios y las normas vigentes del funicular con la Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Farolillos chinos rojos colgados sobre Armenian Street, flanqueada por coloridas tiendas tradicionales históricas y cafés, en George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Una hilera de triciclos de pasajeros vistosamente decorados con flores y sombrillas alineados frente a edificios históricos en George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Triciclos de George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Aterriza en la isla, sal del aire acondicionado y lo primero que te golpea es el olor: humo de wok, incienso de un templo chino, flor de frangipani y la sal del Estrecho de Malaca. George Town es un lugar que se lee con los pies: una trama compacta de shophouses centenarias donde una mezquita, una casa de clan y una iglesia colonial pueden compartir una sola manzana. Esta guía cubre qué ver, dónde comer, cómo llegar a las playas y a la colina, y cuánto tiempo dedicar a una ciudad que recompensa la lentitud.

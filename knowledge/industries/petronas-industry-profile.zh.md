@@ -29,7 +29,7 @@ faq:
     a: "2024 年，国家石油公司向马来西亚政府派发了 320 亿令吉股息。根据国家石油公司自身的报告，当年对政府的综合贡献（包括税款和现金付款）共计 724 亿令吉。"
 
 lang: "zh"
-sourceContentHash: "c50114eafce2228c"
+sourceContentHash: "dc1cda0b30f573db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,33 @@ relations:
   - { rel: "part-of", to: "oil-and-gas-industry-malaysia" }
 related: ["petroleum-development-act-1974", "oil-gas-industry"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Petroleum Development Act 1974", "national oil company", "Malaysia oil and gas", "federal revenue", "government dividend"]
+hero: '/media/industries/petronas-industry-profile/hero.webp'
+heroAlt: '橙蓝色暮空下，亮灯的国油双峰塔矗立于密集的吉隆坡天际线中央，由空中天桥相连，高耸于Suria KLCC商场之上'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the PETRONAS Twin Towers, the national oil company''s headquarters, rising over the Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-1.webp
+    alt: 一座 PETRONAS 加油站，青绿色的前场顶棚和加油机旁立着一块高大的价格牌，上面是绿色的 PETRONAS 水滴标志以及 Primax 97、Primax 95 和 Dynamic Diesel 的价格，四周环绕着油棕树
+    kind: actual
+    origin: third-party
+    subject: 柔佛 Labis 一座 PETRONAS 品牌加油站，可见其前场顶棚和油价牌
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-2.webp
+    alt: 特写展示连接 PETRONAS Twin Towers 两座带肋立面的玻璃钢制双层天桥，由斜向支撑杆加固，背景是晴朗的蓝天
+    kind: actual
+    origin: third-party
+    subject: 连接 PETRONAS Twin Towers 两座塔楼的双层天桥特写，背景为晴空
+    credit: Andy Mitchell / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skybridge_between_Petronas_Towers,_Kuala_Lumpur_(4447656063).jpg
 ---
 
 在马来西亚境内任何地方生产的每一桶石油和每一立方英尺天然气，依法都归属于同一家公司——而这家公司每年向联邦政府开出的，是政府收到的最大单笔支票之一。

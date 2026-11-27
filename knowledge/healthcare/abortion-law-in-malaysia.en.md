@@ -31,7 +31,7 @@ faq:
     a: "The Ministry of Health's 2012 guidelines define termination of pregnancy as a procedure at a gestational age of under 22 weeks, or, where the age is unknown, where the fetus is estimated to weigh less than 500 grams."
 
 lang: "en"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ entity: "Seksyen 312 Kanun Keseksaan (Akta 574)"
 relations:
   - { rel: "governs", to: "abortion-law-in-malaysia" }
   - { rel: "related-to", to: "medical-act-1971" }
-related: []
+related: ["public-healthcare-system-malaysia", "hiv-aids-and-sexual-health-services", "ministry-of-health-moh"]
 keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kanun Keseksaan", "penamatan kehamilan", "Akta Perubatan 1971", "garis panduan KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'Exterior of Klinik Kesihatan Nilai, a Malaysian government health clinic with Ministry of Health signage and red crescent'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: A single-storey government health clinic building with a covered entrance, used here as a neutral illustration of the public clinics where reproductive-health care and counselling are provided
+    kind: representative
+    origin: third-party
+    subject: Exterior of a Malaysian government health clinic (Klinik Kesihatan) at Lekir, Perak
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: A roadside signboard marking a Malaysian district public health clinic, standing in neutrally for the public health system without naming any facility that provides a specific service
+    kind: representative
+    origin: third-party
+    subject: Signboard of a district government health clinic (Klinik Kesihatan Daerah Raub), Pahang
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 Many assume that abortion is entirely prohibited in Malaysia — in reality, the law places it in a more complicated space: a criminal offence with one important medical exception. Understanding where that line is drawn requires us to read the actual text of the Penal Code, not general impressions.

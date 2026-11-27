@@ -18,7 +18,7 @@ keyTakeaways:
   - "تندرج الأراضي المرتفعة في السلسلة ضمن أشدّ مستويات حماية المناطق الحسّاسة بيئيًا في ماليزيا صرامةً، وهي الحماية التي تصون النظم البيئية المرتفعة والجبلية من التطوير العمراني"
 appliesTo: "القرّاء الراغبون في تفسير واضح وموثَّق لماهية سلسلة تيتيوانجسا، وأين تمتدّ، ولماذا تقسم أنهار شبه جزيرة ماليزيا ومناخها ونمط استيطانها إلى جانبٍ ساحلي غربي وجانبٍ ساحلي شرقي."
 lang: "ar"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -60,6 +60,32 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["سلسلة تيتيوانجسا", "Titiwangsa Range", "Banjaran Titiwangsa", "السلسلة الرئيسية ماليزيا", "Main Range Malaysia", "جبال شبه جزيرة ماليزيا", "خط تقسيم المياه ماليزيا", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'سلاسل جبلية خضراء كثيفة الأشجار تتدحرج نحو سلاسل متتالية أفتح زُرقةً باتجاه الأفق، تحت سماء زرقاء ساطعة تتخللها غيوم بيضاء.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: صفوف مرتبة ومتعرجة من شجيرات الشاي الخضراء الزاهية تغطي التلال المتموجة لمزرعة بهارات في مرتفعات كاميرون تحت سماء هادئة.
+    kind: actual
+    origin: third-party
+    subject: مزرعة شاي بهارات في مرتفعات كاميرون، جزء من سلسلة تيتيوانغسا، بَهَانغ
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: أكواخ على الطراز التيودوري ومطعم تتوسط منحدرات خضراء غنّاء مكسوة بالغابات في مصيف تل فريزر، في جبال تيتيوانغسا.
+    kind: actual
+    origin: third-party
+    subject: تل فريزر (بوكيت فريزر)، مصيف جبلي من الحقبة الاستعمارية في سلسلة تيتيوانغسا، بَهَانغ
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 أسقِط جوزة هند على الجانب الغربي من سلسلة جبلية في وسط بيراك، وفي نهاية المطاف سيبلغ ما يتحلّل منها مضيق ملقا. وأسقِط أخرى على بُعد بضع مئات من الأمتار شرقًا، على الجانب الآخر من السلسلة نفسها، فتنتهي في بحر الصين الجنوبي. لا شيء آخر في المشهد الطبيعي يتغيّر. فقط أي جانب من الخطّ سقطت عليه.

@@ -30,7 +30,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 
 status: "published"
 aiAssisted: true
@@ -66,9 +66,35 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'ஜொகூர், பத்து பாஹாத்தில் தாமான் சோகா சுத்தேரா வளர்ச்சி அடையாளப் பலகைக்குப் பின்னால் உள்ள நவீன அரை-தனி வீடுகள்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: Taman Sri Serdang குடியிருப்புப் பகுதியின் நுழைவாயிலைக் குறிக்கும் சாலையோர பெயர்ப்பலகை
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், Seri Kembangan, Taman Sri Serdang இல் ஒரு குடியிருப்புப் பகுதி பெயர்ப்பலகை
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: ஜொகூர், க்லுவாங்கில் Jalan Anggerik இல் முன்புற முற்றமும் ஒரு பனை மரமும் கொண்ட ஒற்றைத் தள புறநகர் வீடு
+    kind: representative
+    origin: third-party
+    subject: ஜொகூர், க்லுவாங்கில் ஒரு குடியிருப்புத் தெருவில் அமைந்த புறநகர் நிலத்துடன் கூடிய வீடு
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 அந்த முகவரின் மார்பு அடையாள அட்டையில் உள்ள எண் ஒரு அலங்காரம் அல்ல — சட்டப்பூர்வமான ஒரு பேச்சுவார்த்தையாளரை, தன்னை முகவர் என்று வெறுமனே கூறிக்கொள்பவரிடமிருந்து வேறுபடுத்திக் காட்டும் ஒரே விரைவான வழி அதுவேயாகும். மலேசியாவில், உங்கள் சார்பாக யார் சொத்தை விற்கலாம், வாடகைக்கு விடலாம் அல்லது பேச்சுவார்த்தை நடத்தலாம் என்பது சட்டத்தால் இறுக்கமாகக் கட்டுப்படுத்தப்படுகிறது.

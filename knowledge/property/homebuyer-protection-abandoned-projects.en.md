@@ -33,7 +33,7 @@ faq:
     a: "A Tribunal award is final and binding and can be enforced like a court order. Failure to comply with an award is an offence punishable by a fine of RM10,000 to RM50,000 or imprisonment of up to two years, or both."
 
 lang: "en"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ entity: "Housing Development (Control and Licensing) Act 1966"
 relations:
   - { rel: "governs", to: "property-developers-malaysia" }
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
-related: []
+related: ["housing-developers-act-hda", "affordable-housing-schemes", "strata-management-jmb-mc"]
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'A derelict unfinished concrete multi-storey building overgrown with greenery, with Malaysian flags in the foreground, in Gombak.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: A derelict single-storey house left abandoned, with overgrown vegetation and bare brickwork
+    kind: actual
+    origin: third-party
+    subject: An abandoned, unfinished house in Desa Subang Permai, Selangor
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: A weathered abandoned building with peeling paint and empty window openings in Melaka
+    kind: actual
+    origin: third-party
+    subject: A disused, abandoned building in Melaka
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 You have paid the deposit, signed the Sale and Purchase Agreement, and are waiting for the keys — then the construction site falls silent for months. For buyers of new residential homes in Peninsular Malaysia, the law actually provides several layers of protection before, during, and after a situation like this arises. The key is knowing what is protected and where to turn when something goes wrong.

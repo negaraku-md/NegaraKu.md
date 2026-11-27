@@ -31,7 +31,7 @@ faq:
     a: "نقلت MFL الرزنامة لمواءمة صيغة AFC. فبدأ الموسم الجديد في مايو 2024 وانتهى في أبريل 2025، مع مراعاة كأس آسيا AFC، وتصفيات كأس العالم 2026، وشهر رمضان."
 
 lang: "ar"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["الدوري الممتاز", "كأس ماليزيا", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "كرة القدم الماليزية"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'مشجعو فريق بيراك لكرة القدم المرتدون الأصفر يملؤون مدرجات الملعب خلال مباراة في كأس ماليزيا 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: لاعبون يتنافسون على الكرة خلال نصف نهائي Malaysia Cup 2012 بين Kelantan وSelangor.
+    kind: actual
+    origin: third-party
+    subject: نصف نهائي Malaysia Cup 2012 بين Kelantan وSelangor
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: منظر لمدرّجات المقاعد وأرضية الملعب داخل Stadium Sultan Ibrahim في Iskandar Puteri بولاية Johor.
+    kind: actual
+    origin: third-party
+    subject: المنظر الداخلي لـ Stadium Sultan Ibrahim، معقل أحد أبرز أندية الدوري الماليزي
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 على مدى قرن تقريبًا، كانت هيئة واحدة — الاتحاد الكروي الماليزي (FAM) — تنظّم كل مباراة في الدوري الوطني. ثم، في خطوة أعادت تشكيل اللعبة، سُلِّمت سلطةُ إدارة الدوريات إلى شركة تجارية. هذا هو الأساس الذي تقوم عليه كرة القدم المحلية الماليزية اليوم.

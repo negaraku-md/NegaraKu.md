@@ -33,7 +33,7 @@ faq:
     a: "பாரம்பரிய awan larat வடிவமைப்புக் கொள்கை மனிதர்கள் அல்லது விலங்குகளை முதன்மை வடிவக் கூறாகச் சித்தரிப்பதை உண்மையிலேயே தவிர்க்கிறது. இருப்பினும் மலாய் மரச்செதுக்கலுக்குத் தனித்துவமான விலங்கு (fauna) மையக்கரு வகையும் உள்ளது — கோழி, காண்டாமிருகம் மற்றும் வாத்து வடிவங்கள் போன்றவை — இவை மீண்டும் வரும் awan larat வடிவத்திலிருந்து தனியாகப் பயன்படுத்தப்படுகின்றன."
 
 lang: "ta"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: 'மலாய் awan larat பாணியில், சமச்சீர் வளைந்த இலைகள், சுருண்ட இலைக் கொடிகள், கொடிச் சுருள்களுடன் துளைவேலைப்பாட்டில் செதுக்கப்பட்ட, சட்டகமிட்ட இருண்ட செவ்வக மரப்பலகை; வெளிறிய அருங்காட்சியக சுவரில் பொருத்தப்பட்டுள்ளது'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: பச்சை பிரார்த்தனைக் கம்பளத்தின் மேல் சிவப்பு-தங்க செதுக்கப்பட்ட படிக்கட்டுக்கு மேலே உயரும், தங்க இலைவேலைப்பாடுகளால் செதுக்கப்பட்டு துளையிடப்பட்ட, முகட்டு நுனி கொண்ட உயரமான பொன் பூசப்பட்ட மேற்கூரையுடன் கூடிய அலங்கார மரப் பள்ளிவாசல் மிம்பர்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, மலாக்காவின் தெங்கேரா (டிராங்கேரா) பள்ளிவாசலின் பொன் பூசப்பட்ட, நுணுக்கமாகச் செதுக்கப்பட்ட மர மிம்பர் (சொற்பொழிவு மேடை)
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: பச்சைப் பசுமையாலும் வானத்தாலும் சூழப்பட்ட, பழுப்பு பலகை கொண்ட ஒரு பாரம்பரிய மலாய் வீட்டின் கூரைக்குக் கீழே உள்ள மர விளிம்புப் பலகையில் ஓடும், தீ போன்ற இலை வடிவங்களில் துளையிடப்பட்ட அலங்கார செதுக்கல் பட்டை
+    kind: actual
+    origin: third-party
+    subject: சிலாங்கூர், ஹுலு லங்காட்டில் உள்ள ஒரு பாரம்பரிய மலாய் மர வீட்டின் கூரை விளிம்பை அலங்கரிக்கும் செதுக்கப்பட்ட அலங்கார விளிம்புப் பலகை (பாபான் கெராவாங்)
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 ஒரு பழைய மலாய் வீட்டின் ஜன்னலில் உள்ள மரப் பலகையை உற்றுப் பாருங்கள், அதன் வடிவம் எங்கே தொடங்குகிறது என்று கண்டுபிடிக்க முயலுங்கள். உங்களால் கண்டுபிடிக்க முடியாது. அது உங்கள் கண்களின் தவறு அல்ல — அது வேண்டுமென்றே அப்படி வடிவமைக்கப்பட்டது.

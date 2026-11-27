@@ -30,7 +30,7 @@ faq:
     a: "Sí. El malayo es una asignatura obligatoria en el sistema UEC. Muchos alumnos del UEC también se presentan al SPM como candidatos privados; Dong Zong informa que la tasa de aprobados en malayo del SPM entre los alumnos de las Escuelas Secundarias Chinas Independientes superó el 96% en los años 2022–2024 (97.38% en 2022, 97.11% en 2023 y 96.65% en 2024), utilizando el mismo examen del SPM que los demás candidatos."
 
 lang: "es"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'El letrero de entrada y el recinto de la Sabah Chinese High School (Sekolah Tinggi Cina Sabah) en Tawau, una escuela secundaria independiente china cuyos alumnos presentan el Unified Examination Certificate.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: El arco de entrada y el rótulo de la Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) en Johor Bahru, con la bandera del estado de Johor y el emblema de la escuela.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School, una escuela secundaria china independiente en Johor Bahru
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: El edificio de la biblioteca de varias plantas (Perpustakaan) de la Foon Yew High School en Johor Bahru, con su nombre en malayo y chino sobre un porche de baldosas.
+    kind: actual
+    origin: third-party
+    subject: El edificio de la biblioteca de la Foon Yew High School
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 Tres letras —UEC— bastan para desatar un debate que lleva más de medio siglo en la política educativa malasia. Para unos, es un certificado reconocido internacionalmente que abre la puerta a las principales universidades del mundo; para otros, toca la posición de la lengua nacional y la política educativa del país. Ambas visiones coexisten, y hay que entender ambas para ver el panorama completo.

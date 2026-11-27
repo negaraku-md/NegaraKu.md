@@ -116,9 +116,16 @@ sources:
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
-related: []
+related: ["malaysia-entry-visa-requirements", "e-hailing-grab", "domestic-ferries-and-island-transport"]
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'นักเดินทางพร้อมกระเป๋าเดินทางมีล้อยืนอยู่ที่เคาน์เตอร์จำหน่ายตั๋วรถไฟสนามบิน KLIA Ekspres สีชมพูในสถานี KL Sentral โดยมีเจ้าหน้าที่ให้บริการผ่านกระจก'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 คุณลงเครื่องที่ท่าอากาศยานนานาชาติกัวลาลัมเปอร์ตอนเที่ยงคืน เจ็ตแล็ก และคนเรียกแท็กซี่กำลังวนเวียนอยู่แล้ว ข่าวดีคือ มาเลเซียมีระบบขนส่งที่เป็นมิตรกับนักท่องเที่ยวที่สุดแห่งหนึ่งในเอเชียตะวันออกเฉียงใต้ และคุณสามารถหลีกเลี่ยงความยุ่งยากได้ทั้งหมด ทั้งรถไฟสนามบินที่รวดเร็วราคาคงที่ แอปในโทรศัพท์ที่เรียกรถแบบมีมิเตอร์ และเที่ยวบินภายในประเทศราคาถูกที่ทำให้บอร์เนียวกลายเป็นการกระโดดไปเที่ยวสุดสัปดาห์ เคล็ดลับคือการรู้ว่าจะเลือกรูปแบบใด และเมื่อใด

@@ -32,7 +32,7 @@ faq:
     a: "가장 두드러진 선수로는 Cheah Liek Hou(배드민턴 SU5, 2020년 도쿄 및 2024년 파리 금메달), Bonnie Bunyau Gustin(파워리프팅, 2020년 도쿄 및 2024년 파리 금메달), Abdul Latif Romly(멀리뛰기 T20, 2016년 리우 및 2020년 도쿄 금메달)를 들 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ wikidata: "Q6742000"
 relations:
   - { rel: "related-to", to: "malaysia-olympic-council" }
   - { rel: "governs", to: "malaysia-para-athletics" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: '장애인 수영 선수가 경기용 수영장 레인에서 배영 동작을 힘차게 이어가고 있다.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: 2024년 비슬레트 게임스의 야외 트랙에서 남자 100미터 장애인 육상 단거리를 겨루는 선수들.
+    kind: representative
+    origin: third-party
+    subject: 국제 장애인 육상 대회에서 남자 100미터를 질주하는 장애인 선수들
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: 2000년 시드니 패럴림픽 경기에서 가이드 러너와 나란히 질주하는 시각장애 트랙 선수.
+    kind: representative
+    origin: third-party
+    subject: 패럴림픽에서 가이드 러너와 끈으로 연결해 함께 달리는 시각장애 단거리 선수
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 Cheah Liek Hou가 2024년 파리 대회에서 배드민턴 SU5 금메달을 방어했을 때, 그 성취는 말레이시아 장애인 스포츠가 이제 더 이상 이따금씩 나오는 성과가 아니라 한층 탄탄한 챔피언 진용을 갖추었음을 확인해 주었습니다. 그 순간 이면에는, 더 널리 알려진 올림픽 세계와 분리된 독자적인 거버넌스 구조가 있습니다.

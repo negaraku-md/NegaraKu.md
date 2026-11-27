@@ -34,7 +34,7 @@ faq:
     a: "Intel, AMD, Broadcom, Bosch மற்றும் OSRAM போன்ற உலகப் பெயர்கள் இங்கு இயங்குகின்றன; அத்துடன் Jabil, Flex, Plexus, Sanmina மற்றும் Benchmark போன்ற ஒப்பந்த உற்பத்தியாளர்களும் (EMS), Inari Amertron உட்பட உள்நாட்டு நிறுவனங்களும் உள்ளன."
 
 lang: "ta"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'பிரகாசமான ஆரஞ்சு capacitor-கள், உருளை எலக்ட்ரோலிடிக் capacitor-கள், கருப்பு ஒருங்கிணைந்த-சுற்று சில்லுகள், வண்ண-பட்டை resistor-கள் அடர்த்தியாக நிறைந்த பச்சை அச்சிடப்பட்ட சுற்றுப் பலகையின் நெருக்கமான காட்சி'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: சில்லுகள் மற்றும் கடத்திகள் நிறைந்த பச்சை நிற அச்சிடப்பட்ட சர்க்யூட் போர்டின் மீது ஒரு சிறிய மேற்பரப்பு-ஏற்று கூறில், சொல்டரிங் கருவி மற்றும் நுண் இடுக்கிகளைப் பிடித்த ஒரு கை பணியாற்றுகிறது
+    kind: representative
+    origin: third-party
+    subject: சர்க்யூட் போர்டின் மீது மேற்பரப்பு-ஏற்று கூறை நுண் இடுக்கி மற்றும் சொல்டரிங் இரும்பால் ஒரு கை சரிசெய்கிறது
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: நேரடியாக மேலிருந்து படம் பிடிக்கப்பட்ட பச்சை நிற அச்சிடப்பட்ட சர்க்யூட் போர்டு, பல லேபிளிடப்பட்ட கருப்பு ஒருங்கிணைந்த-சர்க்யூட் சில்லுகள், நினைவக தொகுப்புகள் மற்றும் சிறிய மேற்பரப்பு-ஏற்று பாகங்களின் வரிசைகளுடன் நிரப்பப்பட்டுள்ளது
+    kind: representative
+    origin: third-party
+    subject: முழுமையாக கூட்டமைக்கப்பட்ட நுகர்வோர்-மின்னணு அச்சிடப்பட்ட சர்க்யூட் போர்டின் மேல்-நோக்கு காட்சி
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 கடந்த பத்தாண்டுகளில் தயாரிக்கப்பட்ட ஏறக்குறைய எந்த மடிக்கணினியையோ, ஸ்மார்ட்போனையோ அல்லது காரையோ திறந்து பாருங்கள் — அதன் ஒரு பகுதி மலேசியாவைக் கடந்து சென்றிருக்க நல்ல வாய்ப்பு உண்டு. உள்ளே இருக்கும் சிப் Penang-இல் சோதிக்கப்பட்டு பொட்டலமிடப்பட்டிருக்கலாம்; மின்சக்தி அடாப்டர், LED பின்னொளி அல்லது சுற்று வாரியம் Kulim, Melaka அல்லது Klang Valley-இல் சேர்க்கப்பட்டிருக்கலாம். சுமார் 34.1 மில்லியன் மக்கள் (2024, DOSM) கொண்ட ஒரு நாட்டைப் பொறுத்தவரை, உலகின் மின்னணுவியல் விநியோகச் சங்கிலியில் மலேசியா ஆச்சரியமளிக்கும் அளவுக்கு மையமான ஒரு புள்ளியில் அமர்ந்திருக்கிறது — அது கிட்டத்தட்ட முழுவதுமாக ஒரே தொழிலின் கதைதான்.

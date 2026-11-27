@@ -97,6 +97,34 @@ keywords:
   - "Perak GDP"
   - "Ipoh cost of doing business"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'Daytime view of Ipoh city centre with modern commercial office towers and a green field, backed by limestone hills under a partly cloudy sky'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: The white colonial Ipoh railway station building with domes and arched arcades, seen across its paved forecourt under a blue sky
+    kind: actual
+    origin: third-party
+    subject: Ipoh railway station, Perak — the colonial-era domed landmark building on its forecourt
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: Elevated view over Ipoh's commercial town core packed with shophouses and office blocks, with a glass office tower and limestone hills in the background
+    kind: actual
+    origin: third-party
+    subject: Ipoh town commercial core, Perak — dense shophouse and office blocks with a glass office tower and limestone hills behind
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 This is a short page on purpose. Perak's legal regime is the same as Selangor's, its

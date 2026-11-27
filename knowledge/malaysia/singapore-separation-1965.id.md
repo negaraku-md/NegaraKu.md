@@ -79,6 +79,13 @@ relations:
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
 framework: history-culture
+hero: '/media/malaysia/singapore-separation-1965/hero.webp'
+heroAlt: 'Tambak Johor membentang rendah melintasi Selat Johor yang berkilau, membawa jalan raya dan jalur kereta api menuju garis pantai Singapura di cakrawala, dilihat dari sisi Malaysia.'
+heroCredit: 'Ralff Nestor Nacor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sebuah negara kehilangan sebuah negeri pendiri dalam waktu satu akhir pekan saja. Perjanjian itu ditandatangani pada hari Sabtu, amandemen konstitusi itu disahkan pada hari Senin, dan menjelang pukul 10 pagi pada Senin yang sama sebuah proklamasi kemerdekaan sedang dibacakan di Radio Singapura. Kebanyakan federasi yang berpecah melakukannya secara perlahan dan penuh gejolak. Yang ini dibubarkan — dari segi hukum — dalam waktu sekitar empat puluh delapan jam, melalui dokumen yang dirancang secara rahasia dan ditandatangani oleh lima belas menteri.

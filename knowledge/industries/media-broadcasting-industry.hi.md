@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया का क्रिएटिव-कंटेंट एवं एनिमेशन उद्योग क्या है?
     a: यह फ़िल्में, टेलीविज़न कार्यक्रम, एनिमेशन, संगीत और गेम बनाने का व्यवसाय है — जो घरेलू बाज़ार के साथ-साथ निर्यात के लिए भी बढ़ता जा रहा है। मलेशियाई एनिमेशन को विशेष रूप से अंतरराष्ट्रीय सफलता मिली है, जिसका सबसे प्रसिद्ध उदाहरण है बच्चों की शृंखला Upin & Ipin, जिसे Les' Copaque ने बनाया। सरकार MyCreative Ventures और FINAS जैसे कोषों और एजेंसियों के माध्यम से इस क्षेत्र का समर्थन करती है।
 lang: hi
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'कुआलालंपुर में अंगकासापुरी प्रसारण परिसर, जो मलेशिया के राष्ट्रीय सार्वजनिक प्रसारक का मुख्यालय है।'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: एक लाइव प्रसारण के दौरान एक टेलीविज़न स्टूडियो कंट्रोल रूम में मॉनिटरों और मिक्सिंग डेस्क की पंक्ति पर प्रोड्यूसर।
+    kind: representative
+    origin: third-party
+    subject: एक लाइव टेलीविज़न प्रोडक्शन के दौरान प्रसारण कंट्रोल रूम (प्रतिनिधि)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: कैमरों, स्टूडियो प्रकाश व्यवस्था और एक प्रस्तुतकर्ता डेस्क के साथ एक टेलीविज़न प्रसारण स्टूडियो सेट।
+    kind: representative
+    origin: third-party
+    subject: कैमरों और प्रस्तुतकर्ता डेस्क के साथ टेलीविज़न प्रसारण स्टूडियो सेट (प्रतिनिधि)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 जब मलेशियावासी "मीडिया" की बात करते हैं, तो उनका आशय आमतौर पर कुछ परिचित नामों में से एक होता है: घर की दीवार से लगी Astro की सैटेलाइट डिश, TV3 का समाचार बुलेटिन, काम पर जाते समय सुना जाने वाला सुबह का रेडियो शो, या — बढ़ते हुए — आवागमन के दौरान फ़ोन पर जो कुछ भी चल रहा हो। ये रोज़मर्रा के संपर्क-बिंदु एक अकेले, विशाल उद्योग से संबंधित हैं: मीडिया एवं प्रसारण। यह देश के अधिक दृश्यमान सेवा क्षेत्रों में से एक है, और सबसे अधिक बाधित होने वालों में से भी।

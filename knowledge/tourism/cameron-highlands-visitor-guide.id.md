@@ -31,7 +31,7 @@ faq:
     a: "Ini adalah tur budaya berpemandu ke perkampungan Semai, biasanya dengan demonstrasi sumpit dan penjelasan tentang kehidupan hutan. Pergilah bersama pemandu lokal yang bereputasi baik, minta izin sebelum mengambil gambar orang, dan anggaplah sebagai pertukaran budaya yang penuh hormat dan bukan tontonan."
 
 lang: "id"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,42 @@ wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["pahang"]
+related: ["pahang", "genting-highlands", "frasers-hill", "ipoh-and-the-kinta-valley"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Perencana perjalanan yang menginginkan liburan stasiun bukit beriklim sejuk selama dua hingga tiga hari, berpangkalan di Tanah Rata atau Brinchang dan memadukan kebun teh, perkebunan stroberi dan bunga, serta kunjungan berpemandu ke desa Orang Asli atau jalan-jalan di Mossy Forest.'
+  getThere: 'Tidak ada bandara atau jalur kereta api yang mencapai dataran tinggi ini — Anda berkendara atau diantar naik melalui jalan darat dari Tapah atau sisi Raub/Kuala Lipis (bertemu di Ringlet) atau dari Simpang Pulai di utara, dengan bus umum yang beroperasi naik dari Tapah ke Tanah Rata.'
+  permit: 'Tidak ada izin taman untuk masuk; tur pabrik kebun teh BOH gratis, sedangkan kunjungan ke desa Orang Asli sebaiknya dilakukan melalui pemandu atau operator lokal yang tepercaya.'
+  watch: 'Jangan menganggapnya sebagai satu kota — ini adalah tiga permukiman dengan peran berbeda — dan perhatikan bahwa kebun teh tutup pada hari Senin sementara cuaca dataran tinggi berubah dengan cepat, sehingga rencana harian bisa berubah.'
+  next: 'Konfirmasikan jam buka terkini dan penutupan hari Senin langsung dengan setiap situs — situs resmi BOH Plantations (bohtea.com) untuk kebun teh dan Majlis Daerah Cameron Highlands (MDCH) untuk atraksi perkebunan-dan-taman.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Terasering perkebunan teh hijau cerah yang bergelombang menyelimuti perbukitan Cameron Highlands di bawah langit biru berawan'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Jalur sempit yang berkelok di antara pepohonan bergelombang berlumut dan akar-akar di Mossy Forest yang berkabut di Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Jalur menembus pepohonan berlumut di Mossy Forest, Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Palung panjang berisi tanaman stroberi yang berbuah merah matang di dalam rumah kaca di kebun stroberi Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Deretan tanaman stroberi dalam rumah kaca di kebun stroberi Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Turun dari bus di Tanah Rata dan hal pertama yang Anda sadari adalah napas Anda sendiri — udaranya cukup sejuk sehingga sehelai jaket tidak lagi terasa janggal, meski di garis khatulistiwa. Itulah intisari Cameron Highlands: sebongkah dataran tinggi beriklim sedang yang bertumpuk di atas Malaysia tropis, tempat teh tumbuh berbaris hijau bagai korduroi di atas perbukitan dan stroberi matang dalam terowongan plastik di tepi jalan.

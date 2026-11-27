@@ -38,7 +38,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 
 status: "published"
 aiAssisted: true
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'கடைவீடுகள், குல மண்டபங்கள், Ernest Zacharevic-இன் தெரு ஓவியம் மற்றும் பல்பண்பாட்டு ஹாக்கர் உணவு கொண்ட நடந்து செல்லக்கூடிய UNESCO பாரம்பரிய மையத்தை கால்நடையாக ஆராய விரும்பும் பயணிகளுக்கு ஏற்றது.'
+  getThere: 'George Town-க்குத் தெற்கே உள்ள Penang International Airport-க்குப் பறந்து செல்லுங்கள், அல்லது Penang Bridge மற்றும் Sultan Abdul Halim Muadzam Shah Bridge வழியாக தரை மூலம் தீவை அடையுங்கள், அல்லது Butterworth இலிருந்து George Town ஆற்றங்கரைக்கு Rapid Ferry எடுத்துக் கொள்ளுங்கள்.'
+  watch: 'தெரு ஓவியத்தை முழுக் கதையாக அல்லாமல் ஒரு நுழைவாயிலாகக் கருதுங்கள், ஏனெனில் குல மண்டபங்கள், கோயில்கள் மற்றும் கடைவீட்டுத் தெருக்களே UNESCO பட்டியல் உண்மையில் பாதுகாப்பவை.'
+  next: 'தற்போதைய ஃபுனிகுலர் (funicular) அட்டவணைகளையும் விதிகளையும் Penang Hill Corporation-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Penang-இன் George Town-இல் வண்ணமயமான பாரம்பரிய கடைகள் மற்றும் கஃபேக்கள் நிறைந்த Armenian Street-க்கு மேலாகக் கட்டப்பட்ட சிவப்பு சீன விளக்குகள்
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Penang-இன் George Town-இல் பாரம்பரியக் கட்டிடங்களுக்கு முன்னால் வரிசையாக நிற்கும் பூக்கள் மற்றும் குடைகளால் பிரகாசமாக அலங்கரிக்கப்பட்ட பயணிகள் முச்சக்கர வண்டிகளின் வரிசை
+    kind: actual
+    origin: third-party
+    subject: George Town முச்சக்கர வண்டிகள்
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 தீவில் இறங்கி, குளிரூட்டப்பட்ட அறையிலிருந்து வெளியே காலடி எடுத்து வைத்ததும், முதலில் உங்களைத் தாக்குவது வாசனைதான் — கடாய் புகை, சீனக் கோயிலின் அகில் நறுமணம், அரளி மலர், மற்றும் மலாக்கா நீரிணையின் உப்புக் காற்று. George Town என்பது நீங்கள் உங்கள் கால்களால் படிக்கும் ஒரு இடம்: ஒரு மசூதி, ஒரு குலமன்றம் மற்றும் ஒரு காலனித்துவ தேவாலயம் ஒரே தெருத்தொகுதியைப் பகிர்ந்துகொள்ளக்கூடிய, நூற்றாண்டு பழமையான கடைவீடுகளின் ஒரு நெருக்கமான வலைப்பின்னல். என்ன பார்ப்பது, எங்கே உண்பது, கடற்கரைகளையும் மலையையும் எப்படி அடைவது, மேலும் நிதானத்திற்குப் பரிசளிக்கும் ஒரு நகரத்திற்கு எவ்வளவு நேரம் ஒதுக்குவது என்பதை இந்த வழிகாட்டி உள்ளடக்குகிறது.

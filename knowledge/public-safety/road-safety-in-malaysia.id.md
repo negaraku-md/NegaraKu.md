@@ -35,7 +35,7 @@ faq:
     a: "Institut Penyelidikan Keselamatan Jalan Raya Malaysia (MIROS), yang didirikan pada 2007, menangani penelitian berbasis bukti, sementara Bahagian Keselamatan Jalan Raya JPJ (dahulu JKJR) memimpin advokasi dan kesadaran. Keduanya di bawah Kementerian Pengangkutan."
 
 lang: "id"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Lalu lintas di jalan tol berpembatas North-South Expressway di Malaysia, dengan marka lajur, pagar pengaman, dan papan reklame tepi jalan di bawah langit cerah.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: Pemandangan ke arah utara di sepanjang Jalan Kluang-Kota Tinggi dua lajur (Rute Federal 91) dekat Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Jalan raya federal dua lajur (Rute 91), Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: Penyeberangan pejalan kaki bertanda di persimpangan jalan pada malam hari di Kota Damansara, Selangor
+    kind: actual
+    origin: third-party
+    subject: Penyeberangan pejalan kaki di persimpangan jalan, Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 Setiap hari, sekitar 18 nyawa melayang di jalan raya Malaysia. Angka itu menjadikan jalan raya salah satu penyebab kematian tidak wajar yang paling menonjol di negara ini, dan alasan utama undang-undang, kamera, dan lembaga khusus dikerahkan untuk menanganinya.

@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: Why do more Hindus live in states such as Negeri Sembilan, Selangor and Perak?
     a: These states coincide with the former rubber-plantation and tin-mining areas — where Indian labourers settled in large numbers during the British era. In the 2020 census, Negeri Sembilan (~13.1%), Selangor (~10.3%) and Perak (~9.7%) had the higher proportions. Most are descendants of those who came from South India for plantation work under the kangani system.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'The tall, colourfully sculpted gopuram tower of the Sri Mahamariamman Temple in central Kuala Lumpur, crowded with Hindu deity figures above the temple entrance where visitors stand.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: The tiered, brightly painted gopuram tower of the Kallumalai Murugan Temple in Ipoh, Perak, covered with sculpted Hindu deities.
+    kind: actual
+    origin: third-party
+    subject: Colourful gopuram of the Kallumalai Murugan Temple, Ipoh, Perak
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: An intricate, brightly coloured kolam laid out on the floor for Deepavali, the main Hindu festival in Malaysia.
+    kind: actual
+    origin: third-party
+    subject: A Deepavali kolam (floor art), Malaysia
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 In almost any Malaysian town you can find a Mariamman temple — at the edge of an

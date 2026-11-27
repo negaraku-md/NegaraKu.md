@@ -33,7 +33,7 @@ faq:
   - q: "Cuối cùng điều gì đã xảy ra với hai nhóm này?"
     a: "Cả các Bang Mã Lai Liên hiệp và Không Liên hiệp đều bị giải thể vào Malayan Union vào ngày 1 tháng 4 năm 1946, mà bản thân nó trong vòng vài năm được thay thế bằng Liên bang Malaya (Federation of Malaya)."
 lang: "vi"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'Mặt tiền kiểu Moor dài bằng gạch màu đất son và những vòm trắng, bên trên là các mái vòm đồng và một tháp đồng hồ trung tâm cao vút dưới bầu trời xanh.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: Nhà ga Ipoh thuộc địa màu trắng sáng lấp lánh, một tòa nhà dài phong cách Edwardian-Moor với hàng cột vòm và những tháp mái vòm được xây dựng dưới thời cai trị của Anh ở Perak.
+    kind: actual
+    origin: third-party
+    subject: Nhà ga Ipoh, một địa danh thời thuộc địa Anh ở Perak
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: Mặt tiền trắng chạm trổ công phu của nhà ga Kuala Lumpur cũ, một công trình thuộc địa Anh theo phong cách Moor với những vòm móng ngựa, mái vòm nhỏ và chóp nhọn tựa tháp giáo đường hoàn thành năm 1910.
+    kind: actual
+    origin: third-party
+    subject: Nhà ga Kuala Lumpur cũ (1910), một ga cuối thời Anh theo phong cách Moor
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 Chín bang Mã Lai, một cường quốc đế quốc — thế mà không phải một sự sắp đặt mà là hai. Sự phân chia đó là điều mà hầu hết các bản tóm tắt về Malaya thuộc địa bỏ qua, và nó là toàn bộ chủ đề của bài viết này.

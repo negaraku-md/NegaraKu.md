@@ -33,7 +33,7 @@ faq:
     a: "Baliklah kainnya. Batik rintang lilin yang sejati — baik canting lukisan tangan maupun blok yang dicap — dicelup dengan merendam kain, sehingga corak dan warna meresap menembus kedua sisi dan tampak hampir sama jelasnya di bagian belakang. Kain yang dicetak sablon atau dicetak digital hanya membawa motif pada satu permukaan saja dan terlihat pudar di bagian sebaliknya. Garis-garisnya juga menjadi petunjuk: canting meninggalkan garis tidak rata yang tidak pernah berulang sempurna, blok memberi perulangan rapi dengan sambungan samar, sedangkan cetakan mesin berulang dengan presisi tanpa jejak lilin."
 
 lang: "id"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -79,6 +79,34 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'Seorang perajin batik membungkuk di atas sehelai kain putih yang direntangkan pada bingkai, menggunakan kuas halus untuk melukis tangan bunga kembang sepatu merah cerah dengan daun hijau dan garis tepi emas, di bengkel yang dihiasi foto-foto'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: Tampak dekat kain batik yang menampilkan bunga merah tua yang mencolok dengan garis tepi putih halus hasil teknik tahan lilin dan detail bertitik-titik, berlatar warna biru nila yang pekat
+    kind: actual
+    origin: third-party
+    subject: tampak dekat kain batik tulis Malaysia dari Terengganu yang menampilkan bunga merah besar dengan garis tepi putih hasil teknik tahan lilin
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: Banyak helai kain batik yang digantung berbaris, dalam warna merah, ungu, merah muda, hijau, dan oranye yang pekat, masing-masing bermotif bunga, daun, dan geometri hasil teknik tahan lilin yang berbeda-beda
+    kind: actual
+    origin: third-party
+    subject: helaian kain batik Malaysia bermotif warna-warni yang dipajang pada rak di sebuah karnaval kerajinan di Terengganu
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 Sehelai kain putih polos diletakkan pada bingkai. Seorang perajin mencelup pena tembaga kecil — sebuah canting, moncongnya tidak lebih lebar dari ujung pensil — ke dalam periuk lilin cair, lalu mulai melukis langsung pada kain: bukan dengan pigmen, tetapi dengan lilin yang akan menolak menerima warna. Hanya setelah lilin mendingin dan mengeras barulah kain itu dimasukkan ke dalam bak pewarna. Di mana lilin berada, pewarna tidak dapat sampai — dan ketika lilin kemudian direbus keluar, apa yang tersisa adalah corak yang dilukis bukan dengan warna, tetapi dengan ketiadaannya.

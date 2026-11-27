@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,38 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'オファーを受諾して学生ビザ手続きを始める前に、マレーシアの教育機関と課程を選ぼうとしている外国人留学希望者向け。'
+  how: 'まず2つの別個の関門をクリアすること：その課程がマレーシア資格機構（MQA）の認証を受け、マレーシア資格登録簿（MQR）に登録されていること、そして教育機関自体が外国人学生を受け入れることを高等教育省（MOHE）から承認されていること。学生パス（Student Pass）の手続きが始まるのは、こうした機関が署名したオファーレター（入学許可書）を発行したときだけであり、その申請はあなたではなく機関がEducation Malaysia Global Services（EMGS）に提出する。'
+  cost: '学費は機関や課程によって大きく異なり、学生パスには別途EMGSおよびビザの費用がかかり、これらは随時改定される。そのため、どこかで示された金額に頼るのではなく、現在の金額を機関およびEMGSポータル（educationmalaysia.gov.my）で確認すること。'
+  watch: 'MQAによる課程の認証と、外国人学生を受け入れるための機関の承認は、別々の2つの確認事項である——完全認証を受けた課程であっても、あなたを受け入れる資格のない機関に置かれていることがありうる。英語による授業は、EMGSが別途求める英語能力の証明に代わるものではない。'
+  next: '2つの関門を機関の国際学生課（International Office）に書面で確認し、オファーを受諾したうえで、EMGSを通じて学生パスの手続きを進めること。詳しくは「学生パス」「マレーシアで学ぶ」、およびMQA認証の解説記事を参照のこと。'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'モナッシュ大学マレーシア校（Monash University Malaysia）キャンパスの入口で、屋根付き通路に「MONASH University」の看板があり、ガラスのスカイブリッジが二つのベージュの校舎をつないでいる。'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: 緑に縁取られ、看板が掲げられたノッティンガム大学マレーシア校の正門。多くの留学生を受け入れる英国大学の分校である。
+    kind: actual
+    origin: third-party
+    subject: ノッティンガム大学マレーシア校の正門
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: 列柱の並ぶ厦門大学マレーシア校の本館に差し込む午後の陽光。クアラルンプール近郊にあり、海外から学生を集める中国の大学の分校である。
+    kind: actual
+    origin: third-party
+    subject: 厦門大学マレーシア校のキャンパス（スパン）
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 誤った種類の教育機関から発行されたオファーレターは、たとえそのプログラム自体が完全に認定されていたとしても、ビザ申請においては何の役にも立たない。「認定されたプログラム」と「留学生受け入れを承認された教育機関」というこの区別こそが、EMGS（Education Malaysia Global Services）の申請書に誰かが記入するよりもずっと前の段階で、多くの混乱が生まれる起点となっている。

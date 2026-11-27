@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "67bfea3efd0d9496"
+sourceContentHash: "919f05faaa650f3e"
 status: "archived"
 aiAssisted: true
 reviewer: null
@@ -83,6 +83,24 @@ wikidata: "Q7354404"
 relations: []
 related: []
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]
+hero: '/media/government/national-registration-department-jpn/hero.webp'
+heroAlt: '蓝天下布城国民登记局（JPN）总部层叠的浅石色塔楼，塔身上部有''JPN''标志'
+heroCredit: 'Farishhamka / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_bagi_ibu_pejabat_Jabatan_Pendaftaran_Negara_(JPN)_%E2%80%93_WP_Putrajaya,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Headquarters of the National Registration Department (Jabatan Pendaftaran Negara, JPN) in Putrajaya, with ''JPN'' logos on the tower'
+images:
+  - role: scene
+    src: /media/government/national-registration-department-jpn/body-1.webp
+    alt: 正面全景拍摄的布城 National Registration Department (JPN) 总部，一座阶梯式装饰艺术风格的石砌建筑，塔楼上有 'JPN' 徽标，入口上方有 'Jabatan Pendaftaran Negara' 标识
+    kind: actual
+    origin: third-party
+    subject: 布城 National Registration Department (JPN) 总部大楼正面视角，可见塔楼上的 'JPN' 徽标和基座处的 'Jabatan Pendaftaran Negara' 标识
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_JPN_Putrajaya-30_Disember_2022.jpg
 ---
 
 大多数关于**国民登记局**的指南都只回答一个柜台问题——如何补办遗失的身份证，或孩子满 12 岁时该带什么。但 JPN 远不止任何单一手续那么简单：它是记录一位马来西亚人整段法律人生的机构。**国民登记局**（*Jabatan Pendaftaran Negara*，即 **JPN**）是隶属**内政部**（*Kementerian Dalam Negeri*，KDN）的机构。它登记每个人一生中的重要事件——出生、死亡、收养、结婚与离婚——确定公民身份，并向符合条件的个人签发身份证件。

@@ -33,7 +33,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -75,6 +75,32 @@ entity: "إمكانية وصول الكراسي المتحركة على سكك �
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'مصعد ركاب من الفولاذ المقاوم للصدأ عليه علامة زرقاء لإتاحة الوصول لذوي الكراسي المتحركة وبلاطات أرضية ملموسة في محطة KLCC للـ LRT في كوالالمبور.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: صف من بلاطات التوجيه الملموسة الصفراء الزاهية ذات الأشرطة البارزة يمتد على طول حافة رصيف محطة MRT نظيف لإرشاد الركاب المكفوفين
+    kind: actual
+    origin: third-party
+    subject: بلاط إرشادي ملموس على رصيف محطة Surian MRT في Kota Damansara، ضمن Klang Valley
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: رصيف محطة MRT واسع ومستوٍ بأبواب حاجزة كاملة الارتفاع على طول حافة السكة وبلاط ملموس يحدّد مناطق الصعود
+    kind: actual
+    origin: third-party
+    subject: رصيف مزوّد بأبواب حاجزة على الرصيف في محطة Hospital Kuala Lumpur MRT ضمن Klang Valley
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 بالنسبة لمستخدم الكرسي المتحرك، ليست شبكة سكك وادي كلانج نظاماً واحداً بل عدّة أنظمة، بُنيت في عقود مختلفة ووفق معايير شديدة التباين — وهذا مفتاح التخطيط لرحلة جيّدة. فأنفع قرار تتّخذه هو **أي وسيلة تسافر عليها**؛ وبعد ذلك تنجح الرحلة أو تفشل بناءً على أمرين لا تُظهرهما الخرائط اللامعة أبداً: **هل مصعد بعينه يعمل في ذلك اليوم**، و**كيف تتّصل نقاط التبادل فعلاً**. وهذا الدليل يتناول كيفية التخطيط حول هذه الحقائق. وهو عمداً *ليس* قائمة محطة بمحطة لإمكانية الوصول — فتلك الأحوال تتغيّر أسرع مما يمكن لأي مقالة مواكبته — لذا عامِل ما يلي بأكمله على أنّه *ما بُنيت المحطة لتوفيره*، وتأكّد من الحالة الفعلية لدى المشغّل قبل أن تعتمد عليها.

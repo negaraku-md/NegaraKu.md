@@ -29,7 +29,7 @@ faq:
   - q: "锡拉邦在马来西亚被认可为一项体育运动吗？"
     a: "锡拉邦在马来西亚既作为武术、也作为竞技体育而开展；全国赛事、国际锦标赛，以及在某些年份参与马来西亚运动会（SUKMA）都曾举行。不过，各协会以及该运动的行政地位可能不时变动；请以官方来源核实当前情况。"
 lang: "zh"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: '户外示范活动中，身着橙色Silambam Asia T恤的孩子们与一名教练手持长竹棍练习棍术招式'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: 一名身穿红色纱丽的女子摆出低姿格斗架势弓步前倾，一手持弯刀，另一手持圆形金属盾
+    kind: representative
+    origin: third-party
+    subject: 席兰邦（Silambam）剑盾（vaal 与 kedaiyam）套路，这门泰米尔武术的一种兵器变式
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: 一块壁挂展示板上陈列着席兰邦的各式兵器，包括长棍、弯刀、圆盾和匕首
+    kind: representative
+    origin: third-party
+    subject: 席兰邦兵器展示板，包括长棍、刀、盾和匕首
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 在马来西亚的庙会或[泰米尔新年](/zh/arts-culture/tamil-new-year)活动上，你或许会看到一名青年随着鼓乐的节拍，以迅雷般的速度将一根长竹棍在头顶上方与身体四周旋转。那旋转并非徒为美观——它是锡拉邦的标志，一门已有一千五百余年历史的泰米尔武术。

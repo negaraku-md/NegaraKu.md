@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "Mahathir Mohamad"
+seoTitle: "Mahathir Mohamad: 4th & 7th Prime Minister of Malaysia (1981–2003, 2018–2020)"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]
@@ -71,6 +72,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: 'Silver-haired Mahathir Mohamad smiles warmly in a grey suit bearing a ''Mahathir'' name tag before an intricately carved wooden screen.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mahathir Mohamad (born 10 July 1925) is Malaysia's longest-serving Prime

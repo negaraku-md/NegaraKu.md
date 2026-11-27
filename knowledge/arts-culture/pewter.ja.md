@@ -31,7 +31,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: "2026-07-24"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 sources:
   - title: "ピューターについて (About Pewter)"
     url: "https://www.royalselangor.com/intl/about-pewter"
@@ -57,6 +57,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: '紫の頭巾とエプロンをつけた女性職人が作業台にかがみ込み、鋼の治具に据えたピューターのジョッキを小さなハンマーで叩く。背後にピューターのマグの列'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: ピューター職人が旋盤で回転するタンカード(大型ジョッキ)に工具を当て、金属の削りくずが巻き上がっており、木製の作業台には研磨された銀色のピューター製タンカードの本体が約9個まとめて置かれている
+    kind: actual
+    origin: third-party
+    subject: 旋盤でタンカードを削り出すマレーシアのピューター職人。作業台には仕上がったピューター製タンカードが並んでいる
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: 太い取っ手と水平の帯状装飾を持つ、研磨された一つのピューター製タンカード。鏡のような銀色の表面が淡い背景の中で光を受けている
+    kind: actual
+    origin: third-party
+    subject: 取っ手の付いた、仕上げ研磨済みのピューター製タンカード
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 錫の上に築かれた都市が、やがて世界に金属工芸をもたらすことになった。クアラルンプールが存在するのは、クラン川とゴンバック川が合流する地点で探鉱者たちが錫鉱石を発見したからである。数十年後、その同じ錫経済に加わるためにやって来た十代の錫職人が、寺院の神台用の香炉を打ち始めた——そして彼が開いた工房は、今日、地球上最大のピューターメーカーとなっている。

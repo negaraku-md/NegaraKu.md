@@ -35,7 +35,7 @@ faq:
     a: "截至 2026 年，外交部长是拿督斯里乌达玛莫哈末哈山（Dato' Seri Utama Mohamad Hasan）。内阁职务会随改组而变动，因此请在 kln.gov.my 上确认现任任职者。"
 
 lang: "zh"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,34 @@ relations:
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
 framework: profile
+hero: '/media/government/ministry-of-foreign-affairs-wisma-putra/hero.webp'
+heroAlt: '马来西亚外交部Wisma Putra的入口，有绿色马来式屋顶、旗帜以及Wisma Putra Kementerian Luar Negeri的招牌'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: 通往 Wisma Putra 的棕榈树夹道引道，可见 Wisma Putra Kementerian Luar Negeri Malaysia 标识牌，远处是该部大楼
+    kind: actual
+    origin: third-party
+    subject: Wisma Putra 引道及其入口标识牌，布城
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: Wisma Putra 建筑群入口的宽景，布城，可见州旗和门楼
+    kind: actual
+    origin: third-party
+    subject: Wisma Putra 入口及门楼的较宽视角，布城
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 当一名马来西亚人滞留海外，当马来西亚在联合国投票，或当一位新任大使在外国首都递交国书时，

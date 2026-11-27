@@ -23,7 +23,7 @@ appliesTo: "Pengembara, perniagaan dan sesiapa sahaja yang cuba memahami mengapa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'Peta wilayah Malaysia dengan Semenanjung Malaysia dan Malaysia Timur di Borneo ditunjukkan sebagai blok berasingan berkod warna merentasi Laut China Selatan.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: Hamparan sawah padi hijau menyala yang rata terbentang hingga ke kaki langit rendah berbaris pokok di bawah langit biru pucat yang luas.
+    kind: actual
+    origin: third-party
+    subject: Sawah padi tanah rendah di Sekinchan, Selangor (Semenanjung Malaysia)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: Sebatang sungai hutan hujan yang lebar dan berwarna perang berlumpur membelok di antara tebing hutan tebal, dengan bot kayu hijau kecil ditambat di sebuah jeti kayu.
+    kind: actual
+    origin: third-party
+    subject: Sungai Kinabatangan di Sukau, Sabah (Malaysia Borneo)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 Naik penerbangan domestik dari Kuala Lumpur ke Kota Kinabalu, dan anda mendarat di negara yang sama seperti yang anda tinggalkan. Mata wang yang sama, pasport yang sama, bendera yang sama pada sirip ekor pesawat. Namun begitu, di dewan ketibaan, anda beratur di satu kaunter bergaya imigresen dan seseorang menyemak kad pengenalan atau pasport anda sebelum anda dibenarkan lalu. Tiada penerbangan lain di dalam Malaysia yang berfungsi sedemikian.

@@ -38,7 +38,7 @@ faq:
     a: "المعهد الوطني للرياضة (ISN). وُضِع على أساس نظامي بموجب قانون المعهد الوطني للرياضة لسنة 2011 [Act 729]، ويعمل على تقديم خدمات علوم الرياضة والطب الرياضي والمشورة والاستشارة، وإجراء البحوث، وإسداء المشورة إلى الوزير بشأن الجوانب العلمية لأداء الرياضيين."
 
 lang: "ar"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }
-related: []
+related: ["badminton-in-malaysia", "football-in-malaysia", "sukma-games"]
 keywords: ["حوكمة الرياضة في ماليزيا", "Majlis Sukan Negara", "مفوّض الرياضة", "قانون تطوير الرياضة 1997", "المجلس الأولمبي الماليزي", "وزارة الشباب والرياضة", "المعهد الوطني للرياضة"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'الواجهة الفضية المشرّعة بشرائح لملعب بوكيت جليل الوطني ترتفع فوق ساحة أمامية خالية.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: واجهة مبنى National Sports Council of Malaysia (Majlis Sukan Negara) في مجمّع Bukit Jalil الرياضي.
+    kind: actual
+    origin: third-party
+    subject: مبنى National Sports Council of Malaysia (Majlis Sukan Negara) في Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: National Aquatic Centre، وهو جزء من مجمّع KL Sports City الرياضي الوطني في Bukit Jalil بكوالالمبور.
+    kind: actual
+    origin: third-party
+    subject: National Aquatic Centre داخل مجمّع KL Sports City الرياضي الوطني
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 يستطيع نادٍ جديد لكرة القدم في جوهور شراء القمصان واستئجار ملعب وتسجيل اللاعبين — ومع ذلك لا يزال لا يستطيع قانونيًا إرسال أحد ليمثّل «ماليزيا» في أي مسابقة. والسبب ليس المال ولا الموهبة. إنه مسألة مَن يمنح الإذن. ففي ماليزيا، يأتي حقّ الوجود هيئةً رياضية، وحقّ التمويل، وحقّ حمل اسم الأمة، من أربع مؤسسات مختلفة كثيرًا ما يُظَنّ أنها واحدة.

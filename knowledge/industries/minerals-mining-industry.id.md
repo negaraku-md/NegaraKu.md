@@ -31,7 +31,7 @@ faq:
   - q: Mengapa Malaysia melarang ekspor tanah jarang mentah?
     a: Pemerintah menyatakan moratorium itu — berlaku sejak awal 2024 — dimaksudkan untuk menghentikan sumber daya tanah jarang negara diekspor tanpa diolah, dan memaksa nilai ditambahkan di dalam negeri melalui pemurnian lokal dan industri hilir. Pejabat menggambarkannya sebagai melindungi sumber daya strategis; ketentuan kebijakan persisnya telah bergeser dari waktu ke waktu dan sebaiknya diperiksa terhadap pernyataan pemerintah terbaru.
 lang: id
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'Kapal keruk timah TT5 yang terpelihara berdiri di samping bekas kolam penambangan di Perak, Malaysia, peninggalan era pengerukan timah negeri ini.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: Permukaan batu yang tersingkap dan jenjang kerja sebuah tambang batu di Jalan Sukau di distrik Kinabatangan, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Tambang batu di Jalan Sukau, distrik Kinabatangan, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: Sebuah pabrik penghancur batu darurat dengan konveyor dan tumpukan kerikil yang mengolah batu dekat Salarom, Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Pabrik batu (kilang batu) yang menghancurkan batu menjadi kerikil dekat Salarom, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 Ekonomi modern Malaysia, secara harfiah, digali dari dalam tanah. Jauh sebelum minyak sawit, elektronik, atau semikonduktor, **timah**-lah yang membuat semenanjung ini penting bagi dunia — membiayai rel kereta, menumbuhkan kota-kota seperti Ipoh dan Kuala Lumpur, serta menarik generasi demi generasi penambang migran. Pertambangan adalah kisah industri tertua negara ini, dan meski tak lagi mendominasi ekonomi, ia diam-diam ditulis ulang di seputar hadiah yang sangat modern: unsur tanah jarang.

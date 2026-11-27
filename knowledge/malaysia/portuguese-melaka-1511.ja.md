@@ -19,7 +19,7 @@ keyTakeaways:
   - "マラッカ王国の王統はジョホール・ラマで1528年に統治を再開し、その王朝は1699年まで存続した"
 appliesTo: "1511年のマラッカ陥落の背後にある技術的・政治的要因、そしてその都市が失われた後にマラッカの制度と王統に何が起きたのかを理解したい読者向け。"
 lang: "ja"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'マラッカのア・ファモサ要塞の崩れ落ちた石造りのサンチャゴ門（ポルタ・デ・サンチャゴ）で、風化したラテライトと漆喰の壁の上に崩れかけた小塔が載り、その手前のレンガ台座に古い青銅の大砲が据えられている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: 1521年に建てられたセントポール教会跡が、マラッカのセントポールの丘の頂に立つ。屋根のないラテライトの壁と空いた窓の開口部が、開けた空の下に残されている。
+    kind: actual
+    origin: third-party
+    subject: マラッカのセントポールの丘に立つセントポール教会跡
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: ポルトガル広場へのクリーム色の入口門が、テラコッタ屋根の建物とレストランの看板に縁取られ、マラッカのポルトガル人集落の前庭へと開けている。
+    kind: actual
+    origin: third-party
+    subject: マラッカのポルトガル人集落（カンポン・ポルトギス）内のポルトガル広場
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 十日間。これが、ポルトガル艦隊が1511年8月10日にマラッカ海域へ到着してから、8月24日にこの都市が陥落するまでの間隔である。

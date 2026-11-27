@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre les différences d'origine, de musique et de mouvement entre le Joget et le Zapin en tant que deux danses folkloriques malaises distinctes."
 
 lang: "fr"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,34 @@ relations:
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/joget-and-zapin/hero.webp'
+heroAlt: 'Quatre danseurs malais en plein zapin sur une scène en bois : deux hommes en baju Melayu magenta et orange avec coiffes tengkolok noires gesticulent des mains ouvertes tandis que deux femmes en songket violet et voiles légers prennent de gracieuses poses de bras sous une lumière chaude.'
+heroCredit: 'ScribblingGeek / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: Un groupe de danseurs malais en costumes de sarong rose vif, verts et dorés lèvent les bras et tournent les poignets dans un joget enlevé, les hommes en hauts assortis et les femmes avec des fleurs dans les cheveux, lors d'un événement en plein air à Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Groupe de danseurs folkloriques malais exécutant une danse enlevée de style joget à Kuala Lumpur, en Malaisie
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: Des dizaines de danseurs malais en baju kurung, sarong et calottes songkok lèvent les deux mains au-dessus de la tête à l'unisson lors d'un zapin de masse en plein air, emplissant une rue devant un pavillon en bois par une journée couverte.
+    kind: representative
+    origin: third-party
+    subject: Danse zapin (jepin) de masse par des danseurs malais en tenue traditionnelle lors d'une fête urbaine à Pontianak, en Indonésie
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 Deux danseurs se meuvent avec rapidité au rythme du gendang — les pieds frappent le sol, les mains dansent avec douceur. Beaucoup de ceux qui regardent se contentent de parler de «danse malaise», sans distinguer ce qui relève du Joget et ce qui relève du Zapin. Demandez d'où vient chacune, et la réponse nous mène à deux coins du monde : l'une depuis le pont d'un navire marchand portugais à Melaka, l'autre depuis une caravane de prédicateurs arabes venus de l'Hadramaout.

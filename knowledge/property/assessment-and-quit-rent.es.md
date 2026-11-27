@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Propietarios de viviendas, propietarios de tierras y compradores de propiedades en la Malasia Peninsular que necesiten entender sus facturas anuales de impuestos a la propiedad."
 
 lang: "es"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "impuesto de evaluación Malasia", "renta de la tierra Malasia", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'Una hilera de modernas casas adosadas de dos plantas detrás de una valla en una urbanización malasia, en Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: Una hilera de casas adosadas de dos plantas se alinea en una tranquila calle residencial malasia, el tipo de propiedad con terreno por la que se cobran las tasas municipales (assessment) y el impuesto sobre la tierra (quit rent).
+    kind: representative
+    origin: third-party
+    subject: Casas adosadas de dos plantas en un taman malasio
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: Una panorámica aérea sobre la urbanización Mutiara Rini, en Iskandar Puteri, muestra miles de viviendas con terreno en calles cuadriculadas, cada una una propiedad gravable en el registro del consejo local.
+    kind: representative
+    origin: third-party
+    subject: Vista aérea de la urbanización Mutiara Rini, Iskandar Puteri, Johor
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 Muchos propietarios primerizos se sobresaltan al recibir una segunda factura que no esperaban. Ya han pagado el «impuesto a la tierra» este año — entonces, ¿por qué el concejo municipal también envía una notificación de requerimiento?

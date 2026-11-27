@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "말레이시아 지리·역사를 배우는 학생, 그리고 사라왁(Sarawak), 사바(Sabah), 파항(Pahang)의 주요 도시들이 왜 특정 강가에 자리하는지 이해하고자 하는 모든 이."
 
 lang: "ko"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: '넓은 흙빛 열대 강이 울창한 녹색 열대우림과 키 큰 갈대로 둘러싸인 양쪽 기슭 사이를 굽이쳐 흐르고, 드문드문 구름이 떠 있는 밝고 푸른 하늘이 그 위로 펼쳐져 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: 라장강의 넓고 잔잔한 수면이 황금빛 저녁 하늘을 비추고, 숲으로 뒤덮인 사라왁의 낮은 강기슭이 멀리 희미하게 사라져 간다.
+    kind: actual
+    origin: third-party
+    subject: 해 질 녘 사라왁주를 흐르는 라장강, 말레이시아에서 가장 긴 강
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: 좁은 믈라카강이 말라카의 역사적인 구시가지의 알록달록한 강변 숍하우스와 수변 산책로 사이를 흐르고 있다.
+    kind: actual
+    origin: third-party
+    subject: 말라카시의 역사적인 구시가지를 굽이쳐 흐르는 믈라카강
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 판보르네오 고속도로(Lebuhraya Pan Borneo)나 매스윙스(MASwings) 항공편이 있기 전, 사라왁 내륙에 이르는 유일한 방법은 며칠에 걸쳐 강을 거슬러 오르는 것이었습니다. 오늘날의 큰 도시들 — 시부(Sibu), 카핏(Kapit), 산다칸(Sandakan), 프칸(Pekan) — 은 각자의 위치에 우연히 생겨난 것이 아닙니다. 저마다 강이 정한 자리, 곧 하구, 두 강이 만나는 합류점, 또는 배가 아직 거슬러 오를 수 있는 가장 먼 지점에 자리합니다. 세 강 — 라장, 키나바탕안, 파항 — 이 이 양상을 가장 뚜렷하게 보여 줍니다.

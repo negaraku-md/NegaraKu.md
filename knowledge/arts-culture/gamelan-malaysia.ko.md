@@ -33,7 +33,7 @@ faq:
     a: "본래의 가믈란 한 벌은 1973년 파항으로 반환되어 프칸의 파항 박물관(Muzium Pahang)에 전시되어 있습니다."
 
 lang: "ko"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: '따뜻한 조명 아래 배치된 말레이 가믈란 합주단, 청동 솥 모양 공(보낭)의 줄과 금속타악기(사론), 조각된 나무 틀에 매단 큰 공들이 있는 모습'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: 무늬 있는 카펫 위에 펼쳐 놓은 완전한 말레이 가믈란 한 벌로, 청동 솥 모양 징, 메탈로폰, 매단 징, 그리고 조각된 나무 받침대 위의 북이 놓여 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 예술문화유산센터에 배치된 완전한 가믈란 믈라유 한 벌
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: 주황색 튜닉을 입은 연주자가 붉은-금색 사론 메탈로폰 앞에 무릎을 꿇고 나무 채로 청동 건반을 두드리는 모습
+    kind: representative
+    origin: third-party
+    subject: 사론 메탈로폰을 연주하는 연주자(인도네시아 가믈란으로, 가믈란 믈라유와 같은 악기 계열)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 그 가믈란 한 벌은 매매나 약탈이 아니라 — 혼인 때문에 한 궁정에서 다른 궁정으로 옮겨 갔습니다. 한 공주가 남편의 궁으로 옮겨 갈 때, 악기와 무용수와 노래가 함께 따라갔습니다. 그렇게 하여 가믈란은 말레이 궁정의 것이 되었습니다.

@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Air tebu adalah jus tebu, es, dan mungkin jeruk nipis, tanpa alkohol, sehingga minumannya sendiri halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai."
   served: "Disajikan dingin di atas es, diperas segar sesuai pesanan. Mintalah polos atau dengan perasan jeruk nipis untuk memecah rasa manis; sebagian gerai menambahkan sedikit asam boi atau sejumput garam. Tinggi gula alami — pendingin manis, paling baik dinikmati secukupnya."
   where: "Ditemukan di pasar malam, pasar pagi, gerai kaki lima di pinggir jalan, pusat jajanan, dan kedai jus di seluruh negeri — carilah tumpukan batang tebu di samping mesin giling berpenggulung bermotor."
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Penjual kaki lima memeras tebu melalui mesin giling di samping teko jus tebu hijau segar (air tebu)"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 Pada siang hari yang panas di Malaysia, sedikit hal yang mampu menembus terik seperti

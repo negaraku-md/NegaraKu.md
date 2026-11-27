@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai ở Malaysia — theo Phật giáo hay không — muốn có một trình bày rõ ràng, chính xác về Ngày Wesak là gì, rơi vào khi nào, và được cử hành ra sao, bao gồm cả người sử dụng lao động và người lao động kiểm tra ngày nghỉ lễ công cộng."
 
 lang: "vi"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,34 @@ festivalFacts:
   when: "Ngày trăng tròn của tháng âm lịch Vesakha — thường vào tháng 4 hoặc tháng 5; vì theo âm lịch nên ngày dương lịch thay đổi mỗi năm."
   holiday: "Là ngày lễ công cộng toàn quốc tại tất cả các bang và lãnh thổ liên bang, lần đầu được tuyên bố là ngày lễ công cộng vào năm 1962; theo Employment Act 1955, nếu rơi vào ngày nghỉ thì áp dụng một ngày nghỉ bù có lương."
   etiquette: "Việc cử hành tập trung tại chùa; nhiều tín đồ mặc áo trắng và ăn chay trong ngày, và sự kiện công cộng nổi tiếng nhất là đoàn rước xe hoa Wesak ở Kuala Lumpur xuất phát từ chùa Phật giáo Maha Vihara ở Brickfields, được đông đảo tín đồ và người xem theo dõi."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'Một tượng Phật ngồi bằng vàng khoác vòng hoa cúc vạn thọ vàng đặt trước một vầng hào quang màu cam, xanh dương và vàng rực rỡ trên một chiếc xe hoa, bao quanh bởi những dải hoa cúc trắng, vàng và hồng dưới một mái che trong dịp Lễ Wesak ở Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: Một dãy dài những chiếc đèn lồng nhỏ treo màu xanh ngọc, xanh chanh, hồng và trắng, mỗi chiếc giữ một ngọn nến đang cháy và một mảnh giấy hồng ghi lời chúc tốt lành, treo dưới một chiếc lều tại một lễ Phật Đản ở Malaysia với khách viếng thăm đi lại phía sau
+    kind: actual
+    origin: third-party
+    subject: những dãy đèn lồng cầu phúc đầy màu sắc của tín đồ với lời chúc tốt lành tại một lễ Phật Đản ở Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: Hàng trăm chiếc đèn nến hình hoa sen nhỏ xíu đang cháy được xếp thành những hàng ngay ngắn trên các dãy bàn phủ vải hồng và vàng, dẫn lên một pho tượng Phật nhỏ hai bên có hoa, trên nền phông vẽ bầu trời xanh bên trong một chiếc lều
+    kind: actual
+    origin: third-party
+    subject: một bàn thờ với hàng trăm đèn nến hoa sen đang cháy trước một tượng Phật trong lễ Phật Đản ở Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 Hỏi Ngày Wesak rơi vào lúc nào và không có câu trả lời cố định — nó dịch chuyển. Năm 2026 nó rơi vào ngày 31 tháng 5, năm 2027 vào ngày 20 tháng 5, năm 2028 vào ngày 9 tháng 5. Lý do đơn giản: Wesak được ấn định theo mặt trăng, chứ không phải theo một ngày trên lịch, và lịch âm cùng lịch dương trôi lệch nhau mỗi năm.

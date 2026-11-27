@@ -29,7 +29,7 @@ faq:
     a: "대개 불가능합니다. 많은 동해안 리조트와 선박 운영자가 북동 몬순으로 인한 험한 바다 때문에 대략 10월부터 2월까지 자발적으로 서비스를 중단합니다."
 
 lang: "ko"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,9 +85,33 @@ sources:
 
 relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
-related: []
+related: ["getting-around-malaysia-for-tourists", "klang-valley-and-city-buses", "e-hailing-grab"]
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: '뒤로 초록 석회암 언덕을 끼고 랑카위 선착장의 지붕 덮인 승강 통로에 접안한 빨강·흰색 고속 쌍동선 페리 ''SANI 1'' — 섬으로 가는 전형적인 말레이시아 여객 페리'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: 랑카위의 수상 쿠아 여객 페리 터미널. 청록빛 해협 위로 긴 갈매기 날개 형태의 지붕에 'TERMINAL FERI PENUMPANG KUAH'가 적혀 있다 — 섬 페리 여정의 선착장/터미널 쪽. 히어로(선박)와 body-2(작은 섬 보트)와 구별됨.
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: 프르헨티안 브사르의 맑은 청록빛 물에서 기둥 위에 세워진 섬 선착장 옆에 정박한 작은 지붕 덮인 해양공원 보트 — 작은 보트로 하는 마지막 구간 섬 이동. 자동차 페리 히어로와 터미널 body와 구별되는 두 번째 섬 교통 장면을 더함.
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 말레이시아에는 단일한 국가 페리 노선이 없습니다. 섬에 닿는다는 것은 어느 짧은

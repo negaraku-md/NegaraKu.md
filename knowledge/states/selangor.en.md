@@ -33,7 +33,7 @@ verificationNeeded: []
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 
 status: "published"
 aiAssisted: true
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "Klang Valley economy"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'The illuminated blue-domed Sultan Salahuddin Abdul Aziz Mosque with its four tall minarets glowing against a deep blue dusk sky in Shah Alam.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: The lighthouse crowns the historic hilltop fort of Bukit Melawati overlooking Kuala Selangor in Selangor.
+    kind: actual
+    origin: third-party
+    subject: Kuala Selangor lighthouse on Bukit Melawati, Selangor
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: Trees and walkways glow with coloured LED lights at the i-City theme park in Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: i-City light park, Shah Alam, Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 Selangor is the state that Malaysia's economy quietly runs on. It fully encircles the

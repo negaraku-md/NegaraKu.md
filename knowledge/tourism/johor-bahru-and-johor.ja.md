@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 
 status: "published"
 aiAssisted: true
@@ -113,6 +113,39 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'シンガポールからの日帰り客や週末旅行者、そして家族連れに最適——お得な買い物と食、Legolandとテーマパークの集積、Desaru Coastのビーチ、そして内陸の山々とマングローブに惹かれる人向け。'
+  getThere: 'シンガポールからはJohor–Singapore CausewayまたはSecond Link（加えてKTM Shuttle Tebrau列車）で、マレーシア各地からは長距離バス、KTMの都市間／ETS鉄道、あるいは市のすぐ北にあるSenai International Airportで到達できる。'
+  permit: 'いずれの渡航も国際的な国境越えであるため、有効なパスポートを携行し、双方の側で出入国審査を通過すること。'
+  watch: 'Causewayは金曜の夕方、週末、シンガポールの学校休暇、祝日の前夜に混雑するため、早めに渡り、ピークの帰宅時間帯を避け、渋滞しているときはSecond Linkに切り替えること。'
+  next: '出発前に、現在の渡航、RTS Link、公園許可の取り決めを、マレーシアとシンガポールの公式な交通当局および該当する公園当局で確認すること。'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: '曇り空の下、背の高いミナレット塔と黒いドームをもつ、ジョホールバルの白いビクトリアン・ムーア様式のスルタン・アブ・バカル州立モスク'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: ジョホール州のレゴランド・マレーシア・リゾートのホテルの、色とりどりのレゴブロックのファサード
+    kind: actual
+    origin: third-party
+    subject: レゴランド・マレーシア・リゾートのホテル、ジョホール州
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: ターコイズブルーの海、赤い旗を掲げた岩の露頭、青空のある、ジョホール海岸の白砂のビーチ
+    kind: actual
+    origin: third-party
+    subject: ジョホール海岸の白砂のビーチ
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 ほとんどの訪問者は国境の行列でジョホールと出会い——コーズウェイの車の中で、セカンド・リンクのバスで、あるいはJBセントラルへの短いシャトル列車で——そして街をシンガポールからのショッピングと食の寄り道として扱います。それはこの街を安く見積もっています。ジョホールバルはマレーシア最南端の州の州都で、半島が水を挟んで島国と出会う玄関口であり、歩きやすい遺産の中核、その目の前にアジア有数の家族向けテーマパーク群、そして背後に州まるごと——東にビーチ、南端にマングローブ、内陸に山と熱帯雨林——を持っています。本ガイドは、国境越えの仕組み、街で何ができるか、テーマパーク、海岸と内陸、ジョホール州が誰に向いているか、そしてほぼ全員を引っかける一つの間違い——国境越えのタイミングを誤ること——を扱います。

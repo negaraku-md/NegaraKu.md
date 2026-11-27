@@ -29,7 +29,7 @@ faq:
     a: "MISC 그룹은 2024 회계연도 매출 RM132.375억을 보고했으며, 이는 2023 회계연도의 RM142.717억 대비 7.2% 감소한 것으로, 세후이익은 RM12.332억이었습니다."
 
 lang: "ko"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,6 +66,25 @@ relations:
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
 framework: profile
+hero: '/media/companies/misc-berhad/hero.webp'
+heroAlt: '붉은 선저에 검은 선체의 큰 LNG 운반선, 뱃머리에 ''SERI AYU''와 측면에 ''LNG''라고 쓰여 있고 신호기로 장식된 안벽에 정박했으며, 앞쪽 레드카펫 단상에 셔츠와 넥타이 차림의 남자가 선 모습'
+heroCredit: 'Emran Kassim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: 청록색 물 위의 콘크리트 선창을 공중에서 내려다본 전경, 높은 회색 해양 선적 암과 배관이 줄지어 있고 전경에는 계류 돌핀이, 건너편 기슭에는 크레인과 저장 탱크가 있는 항구가 보인다
+    kind: representative
+    origin: third-party
+    subject: MISC 같은 선사가 말레이시아 액화천연가스를 선적하는 사라왁주 빈툴루 LNG 수출 터미널의 해양 선적 암
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad는 말레이시아 에너지 경제의 해양 부문 — 국가의 가스와 석유를 세계의 대양을 가로질러 실어 나르는 그룹 — 입니다.

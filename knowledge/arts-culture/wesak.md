@@ -69,6 +69,34 @@ festivalFacts:
   when: "The full-moon day of the lunar month Vesakha — generally April or May; because it follows the lunar calendar, the Gregorian date shifts each year."
   holiday: "A national public holiday in all states and federal territories, first declared a public holiday in 1962; under the Employment Act 1955, if it falls on a rest day a substitute paid holiday applies."
   etiquette: "Observance centres on the temple; many devotees wear white and keep a vegetarian diet for the day, and the best-known public event is the Kuala Lumpur Wesak float procession from the Buddhist Maha Vihara in Brickfields, watched by large crowds of devotees and onlookers."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'A golden seated Buddha statue draped with yellow marigold garlands sits before a brightly coloured orange, blue and gold aureole on a festival float, surrounded by banks of white, yellow and pink chrysanthemums under an awning during Wesak Day in Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: A long row of small hanging lanterns in turquoise, lime green, pink and white, each holding a lit candle and a pink paper slip of good wishes, strung up under a tent at a Malaysian Wesak Day celebration with visitors walking behind
+    kind: actual
+    origin: third-party
+    subject: rows of colourful devotee blessing lanterns with good-wish slips at a Wesak Day celebration in Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: Hundreds of tiny lit lotus-shaped candle lamps laid out in neat rows across pink and yellow cloth-covered tables, leading up to a small Buddha statue flanked by flowers against a painted blue-sky backdrop inside a tent
+    kind: actual
+    origin: third-party
+    subject: a devotional altar with hundreds of lit lotus candle lamps before a Buddha image at Wesak Day in Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 Ask when Wesak Day falls and there is no fixed answer — it moves. In 2026 it lands on 31 May, in 2027 on 20 May, in 2028 on 9 May. The reason is simple: Wesak is set by the moon, not by a calendar date, and the lunar and Gregorian calendars drift against each other every year.

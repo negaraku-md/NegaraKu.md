@@ -31,7 +31,7 @@ faq:
   - q: "Pourquoi la Malaisie interdit-elle l'exportation de terres rares brutes ?"
     a: "Le gouvernement affirme que le moratoire — en vigueur depuis le début de 2024 — vise à empêcher que les ressources de terres rares du pays soient exportées sans transformation, et à forcer l'ajout de valeur sur place par le raffinage local et les industries en aval. Les responsables l'ont décrit comme protégeant une ressource stratégique ; les termes exacts de la politique ont évolué au fil du temps et devraient être vérifiés par rapport à la dernière déclaration gouvernementale."
 lang: fr
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'La drague d''extraction d''étain TT5 conservée, dressée à côté d''un ancien bassin minier à Perak, en Malaisie, vestige de l''ère du dragage de l''étain du pays.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: Un front rocheux à nu et les gradins exploités d'une carrière de pierre à Jalan Sukau, dans le district de Kinabatangan, dans le Sabah.
+    kind: actual
+    origin: third-party
+    subject: Carrière de roche à Jalan Sukau, district de Kinabatangan, Sabah, Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: Un concasseur de pierre de fortune, avec convoyeurs et tas de gravier, traitant de la roche près de Salarom, dans le Sabah, en Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Concasseur de pierre (kilang batu) broyant la roche en gravier près de Salarom, Sabah, Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 L'économie moderne de la Malaisie a été, au sens propre, tirée du sol. Bien avant l'huile de palme, l'électronique ou les semi-conducteurs, c'est l'**étain** qui a rendu la péninsule importante pour le monde — finançant les chemins de fer, faisant croître des villes telles qu'Ipoh et Kuala Lumpur, et attirant des générations de mineurs migrants. L'exploitation minière est le plus ancien récit industriel du pays, et bien qu'elle ne domine plus l'économie, elle se réécrit discrètement autour d'un prix très moderne : les éléments de terres rares.

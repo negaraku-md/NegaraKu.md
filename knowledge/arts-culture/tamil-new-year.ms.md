@@ -32,7 +32,7 @@ faq:
   - q: "Apakah keistimewaan pachadi mangga-bunga semambu?"
     a: "Ia ialah hidangan simbolik Tahun Baharu Tamil. Ia dibuat dengan menggabungkan mangga mentah (masam), gula merah (manis), bunga semambu (pahit), asam jawa dan seumpamanya. Gabungan manis, pahit dan masam dalam satu hidangan dianggap sebagai peringatan untuk menerima bahawa tahun yang mendatang akan bercampur antara suka dan duka."
 lang: "ms"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,35 @@ festivalFacts:
   when: "Hari pertama bulan Chithirai — biasanya sekitar 14 April; pada hari yang sama jatuhnya Vishu masyarakat Malayalee dan Vaisakhi masyarakat Sikh."
   holiday: "Bukan cuti umum persekutuan; tiada mana-mana negeri yang lazimnya mengisytiharkannya sebagai cuti (tidak seperti Deepavali dan Thaipusam)."
   etiquette: "Lazimnya orang bertukar ucapan \"Puthandu Vazhthukkal\" (Selamat Tahun Baharu); pada hari Chithirai, suasana perayaan kelihatan di Little India Kuala Lumpur, kuil-kuil dan acara masyarakat."
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'Seorang wanita India Malaysia muda bersari hijau dan merah marun mencantumkan tapak tangan dalam ucapan namaste pada sambutan Tamil Puthandu di tempat terbuka di Brickfields, Kuala Lumpur, dengan khemah perayaan dan kaki langit bandar di belakang'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: Sebuah periuk perak dipuncaki kelapa, daun mangga dan bunga kuning, diapit pelita tembaga yang menyala, disusun sebagai altar Tahun Baharu Tamil yang bertuah
+    kind: representative
+    origin: third-party
+    subject: Kalasam Tahun Baharu Tamil tradisional berupa periuk perak yang dipuncaki kelapa, daun mangga dan bunga di sebelah pelita tembaga
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: Menara gopuram Kuil Meenakshi Amman di Madurai yang tinggi, berukir halus dan dicat terang menjulang di atas koridor bertiang dan kolam kuil itu
+    kind: representative
+    origin: third-party
+    subject: Gopuram berukir yang menjulang di Kuil Meenakshi Amman di Madurai, tempat asal perayaan Chithirai
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 Subuh pertama bulan Chithirai. Di banyak rumah Tamil, sebuah dulang telah pun

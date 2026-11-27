@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 
 status: "published"
 aiAssisted: true
@@ -98,9 +98,42 @@ sources:
 
 entity: "Sipadan"
 wikidata: "Q1412482"
-related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
+related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: '世界レベルの深いウォール・ダイビングを求める認定スキューバダイバーに——マレーシア唯一の外洋島の沖で、ウミガメ、バラクーダの渦、サンゴ礁のサメに出会える。'
+  getThere: 'Tawau空港に飛び、陸路で玄関口の町Sempornaへ移動し、そこからボートで島々とダイビングポイントへ出る。'
+  permit: 'SipadanでのダイビングにはSabah Parksの許可が必要で、1日ごとの発行数は厳しく制限され、公認のダイビング業者を通じてのみ割り当てられる——十分に前もって予約すること。'
+  watch: 'サバ東部の島々は指定の安全区域（ESSZONE）内にあり、許可は決して保証されず、保全上の制限（毎年の閉鎖を含む）が適用されるため、情報を踏まえて旅し、最新の公式勧告を確認すること。'
+  next: '現在のSipadanの許可の上限、料金、保全のための閉鎖の有無は、Sabah Parksまたは公認のダイビング業者で確認すること。'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'サバ州スンポルナ近くのトゥン・サカラン海洋公園で、明るく雲の点在する空の下、緑の島々に囲まれた鮮やかなターコイズのサンゴ礁のラグーンの空撮'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: 下から見上げた、陽光に照らされたターコイズブルーの海を頭上で泳ぐアオウミガメ
+    kind: actual
+    origin: third-party
+    subject: 明るいターコイズブルーの海を進むアオウミガメ。シパダン周辺のダイビングを象徴する光景のひとつ
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: シパダンでのダイビング中、青い海に差し込む太陽光とともに、サンゴ礁のそばで渦を巻く銀色の魚の巨大な群れ
+    kind: actual
+    origin: third-party
+    subject: 世界有数のダイビングスポットであるシパダンでのダイビングで見られる、サンゴの上を舞う密集した魚の群れと太陽光
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 セレベス海の海底からまっすぐ600メートルそびえる、サンゴに覆われた単一の尖塔で、ウミガメとバラクーダの竜巻が渦巻いています——シパダンは、本格的なダイバーがサバ州東部をリストに加える理由であり、小さな町スンポルナの周りに丸ごと一つの旅行経済が育った理由です。しかしそこは、ふらりと現れて潜れる場所ではありません。シパダンは、定員制の1日の許可を持ち、島自体に宿泊施設がなく、周辺の海岸に治安区域という背景がある、厳しく保護された海洋公園であり、初めての人はそれを冷静かつ事実に即して理解する必要があります。本ガイドは、何がそのダイビングを世界レベルにしているか、許可と1日の定員が実際どう機能するか、どこに滞在するか、シパダンが近くのトゥン・サカラン海洋公園とどう違うか、この地域が誰に向いているか、そしていつ行くべきかを扱います。

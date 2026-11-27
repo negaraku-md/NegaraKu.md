@@ -86,6 +86,25 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: 'A large roadside ''Iskandar Puteri'' landmark sign on a landscaped roundabout, with office and commercial towers and construction cranes on the skyline behind'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: Aerial view of Forest City in Johor showing waterfront high-rise towers under construction and rows of white villa blocks along a reclaimed beach beside the strait
+    kind: actual
+    origin: third-party
+    subject: Forest City, the flagship cross-border development in Johor on the Johor Strait, with towers and villa blocks under construction facing the water toward Singapore
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 Two countries agreed to share a tax code across a border. That is the

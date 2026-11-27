@@ -98,6 +98,14 @@ drinkFacts:
   halal: "一款以玫瑰糖浆、牛奶与水调成的不含酒精饮品，长久以来在婚宴与斋月开斋等马来穆斯林场合供应，因此其成分是清真的；严格遵守教规者或许仍会查看所用糖浆与牛奶的具体品牌。Bandung soda 变化款只加入一款普通的碳酸软饮料，同样不含酒精。"
   served: "加冰、呈鲜粉红色，往往带泡沫。既是节庆饮品也是日常饮品：在婚宴与 kenduri 上倾倒，在斋月开斋时端出，在家庭聚会与餐馆里搭配 nasi beriani 或 rendang 等浓郁菜肴冷饮供应。"
   where: "遍布马来西亚各地的 mamak 摊档、小贩中心、kopitiam 与 pasar malam 夜市的常备饮品，通常点作「sirap bandung」（加 peng 或 ais 要冰的）。各种变化款——bandung soda、加仙草的 bandung cincau——会出现在同样的摊档与节庆餐桌上。"
+hero: "/media/food/sirap-bandung/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "两高杯插着吸管的粉红色玫瑰糖浆冰奶（sirap bandung）"
+heroCredit: "Kyle Lam / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 在马来西亚咖啡店饮品板上的所有饮品当中，sirap bandung 是你最先注意到的那一款。它

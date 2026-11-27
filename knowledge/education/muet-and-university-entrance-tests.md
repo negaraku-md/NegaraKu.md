@@ -82,9 +82,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: 'Ini untuk pelajar prauniversiti (STPM, matrikulasi, asasi atau diploma) yang memohon ijazah sarjana muda, yang bagi mereka MUET ialah pintu kecekapan bahasa Inggeris yang wajib di universiti awam.'
+  how: 'Duduki empat kertas MUET — Listening, Speaking, Reading dan Writing — melalui Majlis Peperiksaan Malaysia (MPM); markah agregat anda dipetakan kepada sesuatu band, dan Senat setiap universiti menetapkan band minimum yang diperlukan bagi setiap program.'
+  cost: 'Yuran ditetapkan oleh MPM dan lebih tinggi bagi bukan warganegara serta bagi versi MUET on Demand berasaskan komputer, dan ia berubah — sahkan yuran semasa di portal MPM (mpm.edu.my) dan bukan angka yang dipetik.'
+  watch: 'Tiada satu band lulus tunggal — minimumnya berbeza mengikut program dan ditetapkan oleh Senat setiap universiti. Keputusan sah selama lima tahun, jadi menduduki terlalu awal boleh menyebabkannya luput sebelum anda memohon.'
+  next: 'Semak band minimum program sasaran anda di laman web universiti, daftar awal melalui MPM, dan jejaki tempoh sah lima tahun itu. Lihat perbandingan Universiti awam vs swasta.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Barisan pelajar yang duduk di meja masing-masing menduduki peperiksaan di sebuah dewan universiti di Malaysia, dengan seorang pengawas peperiksaan berjalan di antara lorong.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Bahagian dalam sebuah dewan sekolah yang luas di Malaysia yang digunakan sebagai tempat peperiksaan, lengkap dengan pentas dan deretan ruang lantai
+    kind: representative
+    origin: third-party
+    subject: Dewan sekolah di Malaysia yang digunakan untuk menduduki peperiksaan
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Pemandangan udara kompleks dewan kuliah di kampus sebuah universiti di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Kompleks dewan kuliah di Universiti Pendidikan Sultan Idris (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Anda boleh cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu keputusan lagi, borang permohonan ijazah anda masih tidak lengkap. Keputusan itu ialah MUET — dan ramai pelajar hanya menyedari kepentingannya apabila tarikh tutup permohonan universiti sudah menjelang.

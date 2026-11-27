@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "குடியிருப்பாளர்கள், திட்டமிடுநர்கள், மற்றும் மலேசிய நகரங்களின் நடைவசதி மற்றும் மிதிவண்டி உள்கட்டமைப்பை மற்ற நாடுகளுடன் ஒப்பிடும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -64,9 +64,35 @@ entity: "Active mobility (walking and cycling)"
 relations:
   - { rel: "related-to", to: "klang-valley-rail" }
   - { rel: "related-to", to: "e-hailing-grab" }
-related: []
+related: ["e-scooters-and-personal-mobility-devices", "klang-valley-and-city-buses", "parking-in-malaysian-cities"]
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'நீல வானத்தின் கீழ், வெள்ளை மிதிவண்டி சின்னம் வரையப்பட்ட, மிதிவண்டி நிறுத்துமிடங்கள் மற்றும் மரங்களுடன் கூடிய சிவப்பு தளம் போடப்பட்ட மிதிவண்டி ஓட்டும் மற்றும் ஓடும் பாதை.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: பினாங்கின் ஜார்ஜ் டவுனில் பரபரப்பான பிரதான சாலையோரமாகச் செல்லும் மிதிவண்டி ஓட்டுவதற்கும் நடப்பதற்கும் பகிர்ந்து பயன்படுத்தப்படும் தரை அமைக்கப்பட்ட பாதை.
+    kind: actual
+    origin: third-party
+    subject: ஜார்ஜ் டவுன், பினாங்கில் பகிர்ந்த மிதிவண்டி மற்றும் நடைபாதை
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: கோலாலம்பூர் நடுநகரில் ஜாலான் துன் ரசாக் அருகே பசுமையால் சூழப்பட்ட கூரையிட்ட அகலமான நடைபாதை.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் ஜாலான் துன் ரசாக் நடைபாதை
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 பிற்பகல் 1 மணிக்கு Klang Valley-இன் ஒரு LRT நிலையத்திலிருந்து வெளியே

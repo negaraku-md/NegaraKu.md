@@ -21,7 +21,7 @@ appliesTo: "كل من يريد فهم كيف صار أحد أقدم مراكز �
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "العام الدقيق لتأسيس السلطنة — تعطي المصادر بصور متنوعة عام 1708 (التنصيب على يد أسياد جوهور) و1724/1725 (الاستقلال الكامل)؛ وينبغي التحقق من التاريخ الدقيق مقابل تاريخ علمي مثل «سجارا ترنغكانو» للحاج بويونغ عادل."
 framework: history-culture
+hero: '/media/malaysia/terengganu-sultanate/hero.webp'
+heroAlt: 'قصر بالطراز الاستعماري بلونين كريمي وذهبي، بأبراج مكسوة بالقرميد الأحمر وأروقة مقوسة، يقف مغموراً بأشعة الشمس تحت سماء زرقاء صافية خلف مرج واسع.'
+heroCredit: 'Abie Sudiono / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: مسجد أبيض لامع تعلوه قبة ذهبية مركزية كبيرة تحيط بها قباب أصغر ومئذنة شاهقة، يقع خلف فناء مسوَّر تحت سماء استوائية مشرقة.
+    kind: actual
+    origin: third-party
+    subject: مسجد عابدين، المسجد الملكي القديم لولاية تيرينغانو، في كوالا تيرينغانو
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: جسر رفعي حديث طويل يمتد فوق نهر واسع، محمول على أقواس بيضاء منسابة بين برجَي مراقبة شاهقين، مع أفق البلدة على الضفة البعيدة.
+    kind: actual
+    origin: third-party
+    subject: جمباتان أنغكات (جسر كوالا تيرينغانو الرفعي) فوق نهر تيرينغانو
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 قبل أن يجلس أي سلطان على عرشها بزمن طويل، كان لوح من الغرانيت على ضفة نهر في داخل ترنغكانو قد كتب بالفعل مصير الولاية في الحجر. فحجر باتو بيرسورات ترنغكانو (Batu Bersurat Terengganu) — حجر ترنغكانو المنقوش — يحمل تاريخًا يُقرأ على أنه سنة 1303، وعلى وجوهه المُتآكلة، بالحروف الملتوية المشتقة من العربية لخطّ [الجاوي](/ar/arts-culture/jawi-script)، يأمر حاكمٌ شعبه بالتمسك بالإسلام. وهو أقدم دليل مؤرَّخ على الكتابة بالجاوي وعلى الشريعة الإسلامية في أي مكان من العالم الملايوي. أما السلطنة التي ستحمل في النهاية اسم الأرض فقد وصلت بعد أكثر من أربعة قرون — لكن العقيدة التي ستدافع عنها كانت قد نُقشت هنا أولًا.

@@ -29,7 +29,7 @@ faq:
     a: "主要な管轄権は州宗教局または州イスラム宗教理事会（Majlis Agama Islam Negeri、MAIN）にある。これは、憲法のもとでイスラム宗教事務が州の権限事項であるためである。JAKIMは連邦レベルで調整を行い、建物の安全要件には地方自治体と消防局（Bomba）が関わる。"
 
 lang: "ja"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: '青いバジュ・クルンと黒いヘッドスカーフを着た生徒たちが、ココヤシの木の脇を通り、マレーシアの宗教系中等学校 Sekolah Menengah Agama Al-Maarif に入っていく。'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: ジョホール州バトゥ・パハにあるタヒフィズ学校（tahfiz）の静かな外観。学生はここに寄宿し、学業と並行してクルアーンを暗記する。
+    kind: actual
+    origin: third-party
+    subject: マドラサ・タヒフィズ・アルクルアーン・ハミディア（ジョホール州バトゥ・パハ）
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: マラッカ州プリンギッにある宗教小学校（sekolah agama）の質素な校舎。子どもたちは午後の部でイスラム学を学ぶ。
+    kind: actual
+    origin: third-party
+    subject: プリンギッ宗教小学校（マラッカ州）
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 マレーシアの子どもは、午前を国民学校で過ごし、午後をモスクのKAFA授業で過ごし、そして思春期をタヒフィズの寮で過ごすことがある――監督者、カリキュラム、適用法がそれぞれ異なる三つの教育環境である。イスラム宗教教育の各類型は国民教育制度と並行して運営されているが、それは単一の枠組みではない。誰が何を登録し、誰が何に責任を負うのかを理解することが、この話題をめぐる公共の議論を公正に読み解く鍵となる。

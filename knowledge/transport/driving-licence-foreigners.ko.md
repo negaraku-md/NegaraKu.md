@@ -23,7 +23,7 @@ verificationNeeded:
   - "이 글은 사립 운전학원의 D종(Class D) 과정에 대한 정확한 수강료나, LDL/PDL/CDL 경로에 대한 JPJ의 정확한 수수료 표를 인용하지 않습니다. 검증 과정에서 단일한 JPJ 공식 수수료 표를 찾지 못했기 때문입니다 — 예산을 세우기 전에 현재 수수료를 JPJ 창구나 인가된 운전학원에서 직접 확인하십시오."
   - "도로교통법(Road Transport Act 1987) 제28조의 정확한 문구는 JPJ가 호스팅하는 PDF를 한 줄 한 줄 직접 읽는 대신(맥락 사용량 관리를 위해 여기서는 피함) 이 법에 대한 2차 요약을 통해 확인했습니다 — 조항 번호와 실질적 효력은 여러 독립적 출처에서 교차 확인되지만, 법적 근거로 삼는 문서를 작성할 경우 JPJ가 호스팅하는 Act 333 PDF 원문과 정확한 문구를 대조하십시오."
 lang: "ko"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: '페낭 센트럴 인근 말레이시아 연방 고속도로의 교차로로, 노란색 경고 표지판과 신호등, 자동차들이 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: 쿠알라룸푸르 도로 위, 톨게이트 진입로 인근에 설치된 말레이시아 높이 제한 규제 표지판.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 도로 규제 표지판
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: 조호르주 클루앙을 북쪽으로 관통하는 말레이시아 연방도로 91호선을 따라 설치된 신호등과 차선 표시.
+    kind: actual
+    origin: third-party
+    subject: 조호르주 클루앙을 지나는 연방도로
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 해외에서 30년을 운전해 온 MM2H 은퇴자, 수동 변속기를 한 번도 만져 본 적

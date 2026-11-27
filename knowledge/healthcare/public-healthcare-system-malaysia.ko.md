@@ -27,7 +27,7 @@ faq:
   - q: "PeKa B40란 무엇입니까?"
     a: "PeKa B40(Skim Peduli Kesihatan untuk Kumpulan B40)는 ProtectHealth Corporation이 운영하는 MOH 제도입니다. 40세 이상 자격 있는 저소득 말레이시아 국민 — 라흐마 현금 지원(STR) 수급자와 그 배우자 — 에게 무료 건강 검진, 최대 RM20,000의 의료기기 지원, RM1,000의 암 치료 인센티브, 교통 지원을 제공합니다. 2025년 3월 31일 기준, 약 690만 명의 자격 수급자 중 약 160만 명이 검진을 받았습니다."
 lang: "ko"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -126,9 +126,35 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["ministry-of-health-moh", "klinik-kesihatan", "peka-b40-and-health-schemes", "health-white-paper-and-system-reform"]
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: '코타키나발루의 Queen Elizabeth Hospital 외관으로, 공공 의료 체계에 속한 대형 말레이시아 정부 병원이다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: 말레이시아 공공 병원인 바투파핫 술타나 노라 이스마일 병원의 침상이 줄지어 있는 빈 입원 병동
+    kind: actual
+    origin: third-party
+    subject: 바투파핫 술타나 노라 이스마일 병원의 공공 병원 병동
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: 크마만 병원의 외관으로, 말레이시아 보건부가 운영하는 공공 병원이다
+    kind: actual
+    origin: third-party
+    subject: 크마만 병원, 말레이시아 공공 병원 건물
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 말레이시아 정부 클리닉에 들어서면 창구에서의 청구액은 거의 없는 것에 가깝습니다 — 일반 외래 등록 **RM1**입니다. 이는 자선이 아니라 설계입니다. 말레이시아는 **2단계 보건 체계**를 운영합니다: 보건부(MOH, *Kementerian Kesihatan Malaysia*, KKM)가 관리하는 정부 운영 공공 서비스와, 그 곁의 큰 민간 부문입니다. 공공 측은 **오로지 일반 조세로 재원을 대며, 의무적 국가 보험 기여가 없으므로**, 보험료가 아니라 높은 보조금의 명목 요금으로 진료가 제공됩니다. 이 모델은 국가 소득의 완만한 비중으로 거의 보편적인 접근을 낳았습니다 — 그러나 이제 늘어나는 가계 비용 부담과 실질적인 공급 압박을 안고 있습니다. 이 안내는 당신이 이 체계에 어떻게 접근하는지, 비용은 얼마인지, 누구를 보장하는지, 어디에 무리가 가고 있는지를 쉬운 말로 설명합니다.

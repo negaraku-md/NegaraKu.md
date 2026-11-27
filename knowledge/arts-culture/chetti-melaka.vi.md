@@ -30,7 +30,7 @@ faq:
     a: "Số lượng của cộng đồng này giảm mạnh — từ khoảng 400 gia đình vào những năm 1980 xuống dưới 50 gia đình ngày nay theo Lembaga Warisan Negara Singapura (Roots) — trong khi một báo cáo của Free Malaysia Today ước tính chỉ còn khoảng 20 đến 30 gia đình vẫn sống ở Kampung Chetti. Các nhà nghiên cứu gắn sự suy giảm này với hôn nhân khác cộng đồng, di cư ra ngoài, và thế hệ trẻ ngày càng mất kết nối với gốc rễ Chetti."
 
 lang: "vi"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'Một cổng vòm kiểu Ấn Độ màu hồng với đôi tượng voi trắng trên đỉnh đánh dấu lối vào Kampung Chetti ở Melaka, một ngôi đền Hindu nhỏ với mái vòm kem bên phải cùng những ngôi nhà làng và tấm biển Kampung Chetti dọc con phố yên tĩnh dưới bầu trời xanh'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: Một ngôi nhà gỗ sẫm màu kiểu Mã Lai hai tầng truyền thống đóng vai trò Bảo tàng Chetti ở Melaka, với tấm biển xanh đề Muzium Chetti The Chetti Museum phía trên hiên nhà, một hàng cây trong chậu sau một hàng rào thấp và cờ Malaysia cùng cờ Melaka bay bên cạnh
+    kind: actual
+    origin: third-party
+    subject: Bảo tàng Chetti (Muzium Chetti) ở Kampung Chetti, Melaka, ghi lại lịch sử cộng đồng Chetti Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: Mặt tiền màu vàng của đền Sri Poyyatha Vinayagar Moorthi trên phố Harmony ở Melaka, một tháp tầng khiêm tốn với những hốc thờ các vị thần vươn lên trên mái hiên lợp ngói và những cánh cửa màu xanh ngọc lam, được chiếu sáng bởi ánh nắng sớm dịu trên nền trời xanh thẳm
+    kind: actual
+    origin: third-party
+    subject: Đền Sri Poyyatha Vinayagar Moorthi ở Melaka, ngôi đền Hindu lịch sử do cộng đồng Chetti sáng lập năm 1781
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 Tại một ngôi làng cổ ở Jalan Gajah Berang, Melaka, có một nhóm gia đình cầu nguyện với Thần Siva, ăn mặc như người Mã Lai, nấu món cà ri thơm nước cốt dừa, và nói một thứ tiếng Mã Lai được điểm xuyết bằng các từ Tamil. Họ không phải người Ấn Độ, không phải người Mã Lai, không phải người Hoa — họ là Chetti Melaka, và số lượng của họ ngày càng ít.

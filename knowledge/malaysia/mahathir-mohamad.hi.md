@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "महातिर मोहम्मद"
+seoTitle: "महातिर मोहम्मद: मलेशिया के चौथे और सातवें प्रधानमंत्री"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]
@@ -72,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: 'चाँदी जैसे बालों वाले महाथिर मोहमद भूरे रंग के सूट में ''Mahathir'' नाम-पट्टी पहने, बारीक नक्काशीदार लकड़ी की स्क्रीन के सामने गर्मजोशी से मुस्कुराते हुए।'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 महातिर मोहम्मद (जन्म 10 जुलाई 1925) मलेशिया के सबसे लंबे समय तक सेवा देने वाले

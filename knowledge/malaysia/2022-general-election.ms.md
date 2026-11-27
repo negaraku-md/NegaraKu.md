@@ -66,6 +66,13 @@ sources:
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["PRU15", "pilihan raya umum 2022 Malaysia", "parlimen tergantung", "kerajaan perpaduan", "Undi18"]
 framework: history-culture
+hero: '/media/malaysia/2022-general-election/hero.webp'
+heroAlt: 'Jari telunjuk kiri seorang pengundi bernoda dakwat kekal ungu selepas membuang undi.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam

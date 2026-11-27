@@ -29,7 +29,7 @@ faq:
     a: "Los cuidados paliativos se centran en el confort y el control de los síntomas de pacientes con enfermedades que limitan la vida, con independencia de la edad, incluidos los niños. La atención geriátrica, en cambio, es una atención general para personas mayores que pueden no tener una enfermedad en fase terminal."
 
 lang: "es"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'Un letrero en la puerta de un hospital que dice Sala de Reuniones Familiares de Medicina Paliativa, una representación neutral y no explícita de los cuidados paliativos.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: El edificio bajo con jardín al frente de un hospicio, con astas de bandera y una entrada tranquila para vehículos, que representa una instalación apacible de cuidados paliativos
+    kind: representative
+    origin: third-party
+    subject: Un apacible edificio de hospicio de una sola planta con jardines bajo un cielo despejado
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: La entrada de una moderna unidad hospitalaria de cuidados paliativos con un porche de cristal y parterres plantados, que representa un entorno especializado de cuidados paliativos
+    kind: representative
+    origin: third-party
+    subject: La entrada ajardinada de una unidad dedicada de cuidados paliativos
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 Cuando el tratamiento ya no busca curar, la atención se desplaza hacia una sola cosa: mantener al paciente cómodo y con dignidad. Esa es la esencia de los cuidados paliativos — y en Malasia se puede acceder a ellos por tres canales distintos.

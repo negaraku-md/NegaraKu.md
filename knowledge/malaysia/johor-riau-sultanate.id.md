@@ -19,7 +19,7 @@ keyTakeaways:
   - "Perjanjian Inggris-Belanda 1824 dan susulannya membagi wilayah ini: Riau-Lingga di bawah Belanda, Johor di bawah lingkup Inggris"
 appliesTo: "Siapa saja yang ingin memahami bagaimana institusi kerajaan Melayu Melaka bersambung tanpa putus ke negara-negara bagian Melayu modern, khususnya Johor."
 lang: "id"
-sourceContentHash: "e2e07f7bcea9fc14"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -34,7 +34,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Sejarah Kesultanan Johor"
     url: "https://kemahkotaan.johor.gov.my/pengenalan/sejarah-kesultanan-johor/"
@@ -50,6 +50,9 @@ sources:
     publisher: "Arsip Nasional Malaysia"
   - title: "Sejarah Melayu (Sulalatus Salatin)"
     publisher: "Arsip Nasional Malaysia"
+  - title: "Kesultanan Johor (Johor Sultanate)"
+    url: "https://en.wikipedia.org/wiki/Johor_Sultanate"
+    publisher: "Wikipedia"
 entity: "Kesultanan Johor-Riau"
 wikidata: "Q1150344"
 relations:
@@ -60,6 +63,32 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'Sebuah masjid putih bergaya Victoria yang megah dengan sepasang menara berpucuk runcing dan kubah biru-hitam menjulang di atas taman yang tertata di bawah langit mendung.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: Istana Besar Johor yang putih, dengan fasadnya yang anggun dan menara beratap hijau, terlihat menyeberangi air dari tepi laut Selat Johor.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar (kini Museum Diraja Abu Bakar) di Johor Bahru, Johor
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: Bangunan Sultan Ibrahim kelabu yang megah menjulang di atas bukit, blok pemerintahan simetris yang panjang dimahkotai menara jam-dan-Saracen tengah yang tinggi, dilihat dari sudut.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Ibrahim, bekas sekretariat negeri Johor di Johor Bahru
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 Pada 1511, meriam Portugis meruntuhkan sebuah kota — tetapi bukan sebuah takhta. Ketika Kota Melaka tumbang, Sultan Mahmud Shah, sultan Melaka terakhir, tidak menyerah. Baginda mundur ke selatan bersama keluarga kerajaan, para pembesar, dan yang paling penting, keseluruhan susunan institusi yang menjadikan Melaka sebuah kesultanan. Kota itu hilang; kesultanan itu bergerak.
@@ -106,6 +135,16 @@ Peristiwa ini menjadi titik peralihan besar. Karena tidak ada pewaris langsung d
 
 Menurut catatan resmi kesultanan, peralihan-peralihan takhta Johor ini terjadi "melalui perundingan, muhibah, dan perdamaian" — tanpa konflik atau kerugian yang berarti.
 
+## Abad yang bergolak: Belanda, Jambi, dan Bugis
+
+Jika silsilah takhta berpindah tangan secara damai menurut catatan kerajaan, dunia di sekeliling takhta itu jauh lebih bergejolak. Abad ke-17 dan awal abad ke-18 menyaksikan Johor diuji oleh peperangan luar dan politik kekuasaan yang membentuk ulang siapa yang sebenarnya memerintah.
+
+**Persekutuan dengan Belanda dan jatuhnya Melaka Portugis (1641).** Dalam persaingan segitiga antara Johor, Portugis di Melaka, dan Kesultanan Acheh, Johor akhirnya berpihak kepada Perserikatan Dagang Hindia Timur Belanda (VOC) yang juga bermusuhan dengan Portugal. Pada 14 Januari 1641, pasukan gabungan Belanda dan Johor — yang dipimpin Bendahara Skudai — merebut Kota Melaka dari tangan Portugis, mengakhiri 130 tahun pemerintahan Portugis atas kota itu. Melaka kemudian menjadi milik Belanda hingga Perjanjian Inggris-Belanda 1824. Sebelum itu, Acheh di bawah Sultan Iskandar Muda pernah menyerang Johor pada 1613 dan 1615; puncak persaingan dengan Acheh adalah pertempuran di Sungai Duyong pada 1629.
+
+**Perang Johor-Jambi.** Perdamaian tidak bertahan lama. Suatu persekutuan perkawinan yang direncanakan antara pewaris takhta Johor dengan putri pembesar Jambi batal ketika putra raja justru menikahi putri Laksamana Abdul Jamil. Dari perselisihan itu meletus perang selama 13 tahun yang bermula pada 1666. Pada 1673, pasukan Jambi menyerang dan menghancurkan ibu kota Johor di Batu Sawar; Sultan Abdul Jalil Shah III mundur ke Pahang dan mangkat tidak lama kemudian. Di bawah Sultan Ibrahim Shah (memerintah 1677–1685), Johor meminta bantuan pahlawan Bugis dan merebut kembali kedudukannya menjelang 1679.
+
+**Kebangkitan Bugis.** Para pahlawan Bugis yang didatangkan itu enggan pulang, dan pengaruh mereka berakar di Johor. Setelah garis keturunan Melaka berakhir pada 1699, campur tangan Bugis semakin dalam di tengah perebutan takhta. Ketika Raja Kecil dari Siak — yang mengaku dirinya putra Sultan Mahmud Shah II — merebut takhta, golongan Bugis mendukung Raja Sulaiman untuk menggulingkannya pada 1722. Sultan Sulaiman naik takhta, tetapi kekuasaan pemerintahan yang sebenarnya berada pada pemimpin Bugis yang memegang jabatan Yang Dipertuan Muda (Yamtuan Muda). Antara tahun 1760 hingga 1784, golongan Bugis menguasai pemerintahan kesultanan, dengan sultan sebagai lambang kedaulatan dan Yang Dipertuan Muda sebagai pemegang kekuasaan yang sebenarnya.
+
 ## Perpecahan wilayah: Perjanjian 1824
 
 Kesatuan wilayah Johor-Riau tidak bertahan. Perjanjian Inggris-Belanda 1824 (Perjanjian London), yang ditandatangani antara Inggris dan Belanda, membagi lingkup pengaruh kedua kekuatan Eropa itu di kawasan ini.
@@ -138,6 +177,4 @@ Ketika Konstitusi Federal hari ini memelihara institusi Raja-Raja Melayu, atau k
 
 *Artikel ini diklasifikasikan sebagai sensitif (3R+1: royalty) di bawah kebijakan
 editorial NegaraKu.md, karena subjeknya menyentuh kesinambungan institusi kerajaan
-Melayu. Ia ditulis secara deskriptif dan penuh hormat kepada institusi kerajaan,
-serta ditahan dalam status draf sambil menunggu peninjauan manusia sebelum
-diterbitkan.*
+Melayu. Ia ditulis secara deskriptif dan penuh hormat kepada institusi kerajaan.*

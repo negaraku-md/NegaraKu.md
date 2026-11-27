@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang perlu mengidentifikasi otoritas yang mengeluarkan suatu dokumen imigrasi Malaysia — paspor, visa, pas atau permit — dan artikel mana yang menjelaskan setiap prosesnya."
 
 lang: "id"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,34 @@ relations:
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
 framework: profile
+hero: '/media/government/imigresen/hero.webp'
+heroAlt: 'Fasad batu kantor pusat Jabatan Imigresen Malaysia di Putrajaya, menara bermotif Islami bertingkatnya menjulang di belakang kanopi pintu masuk yang bertuliskan Jabatan Imigresen Malaysia dan lambang jabatan'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: Pandangan dekat pintu masuk kantor pusat Jabatan Imigresen Malaysia yang memperlihatkan tulisan Jabatan Imigresen Malaysia dan lambang departemen berwarna emas-hijau dengan karangan daun serta pita Imigresen Malaysia
+    kind: actual
+    origin: third-party
+    subject: Papan nama pintu masuk dan lambang kantor pusat Jabatan Imigresen Malaysia, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: Kompleks perbatasan imigrasi Malaysia dengan bangunan kuning bertanda Kompleks Imigresen, jalur pemeriksaan lintas kendaraan bertanda simbol mobil, sepeda motor, dan bus, di bawah langit cerah berawan
+    kind: actual
+    origin: third-party
+    subject: Kompleks Imigresen Rantau Panjang, pos pemeriksaan perbatasan imigrasi Malaysia di Rantau Panjang, Kelantan
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 Setiap orang yang melintasi perbatasan Malaysia — rakyat yang memperbarui

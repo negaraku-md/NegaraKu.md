@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,9 +75,36 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'Pejabat daerah Jabatan Kebajikan Masyarakat JKM di Pontian, Johor, di hadapannya papan tanda kuning besar tertulis ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' dengan logo JKM dan e-mel jkm.gov.my, di sebelah bendera Malaysia'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: Papan tanda dan premis sebuah persatuan jagaan kebajikan kanak-kanak kurang upaya di Johor Bahru, sebuah perkhidmatan kebajikan masyarakat
+    kind: representative
+    origin: third-party
+    subject: Pusat jagaan kebajikan kanak-kanak kurang upaya di Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: Sebuah rumah kebajikan di Batu Pahat, Johor, sebuah institusi kebajikan kediaman
+    kind: actual
+    origin: third-party
+    subject: Rumah kebajikan di Batu Pahat, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **Jabatan Kebajikan Masyarakat** — dikenali di mana-mana dengan akronimnya **JKM** — ialah agensi persekutuan yang menyambut rakyat Malaysia ketika mereka jatuh. Ia ditubuhkan pada tahun **1946**, pada mulanya sebagai tindak balas terhadap masalah sosial yang berpunca daripada Perang Dunia Kedua, dan peranannya kemudian berkembang kepada **perlindungan, pemulihan, pencegahan, pembangunan dan integrasi masyarakat**. Hasil carian untuk JKM didominasi oleh blog "cara menuntut bantuan" bertanda tahun dan halaman perkhidmatan yang ringkas; halaman ini sebaliknya menerangkan JKM sebagai sebuah institusi dan bagaimana perkhidmatannya berkait rentas seluruh kitaran hidup — daripada kanak-kanak kepada orang kurang upaya kepada warga emas.

@@ -23,7 +23,7 @@ appliesTo: "Pekerja yang menimbang perlindungan perubatan majikan berbanding kad
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,32 @@ faq:
   - q: Adakah polisi perubatan 'tanpa bayaran bersama' secara automatik lebih baik daripada yang mempunyai bayaran bersama?
     a: Tidak semestinya — artikel ini menyenaraikannya sebagai satu kesilapan biasa. Pelan tanpa bayaran bersama mengenakan premium yang lebih tinggi untuk had faedah yang sama. Di bawah bayaran bersama (co-payment), anda bersetuju dari awal untuk menanggung bahagian tertentu bagi setiap bil hospital yang layak sebagai pertukaran untuk premium yang lebih rendah. Sama ada pertukaran itu berbaloi bergantung pada berapa banyak daripada bil yang mampu anda tanggung sendiri; semak helaian pendedahan produk untuk peratusannya, sebarang had, dan rawatan yang dikecualikan.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Pintu pagar masuk ke wad pesakit dalam di sebuah hospital kerajaan Malaysia, sebuah suasana rawatan perubatan yang neutral.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Pemandangan udara sebuah bangunan hospital swasta moden yang besar di Seberang Perai, Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, sebuah hospital swasta di Seberang Perai, Pulau Pinang, Malaysia
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Meja penerimaan hospital yang melengkung di dewan masuk yang terang, mewakili kemasukan dan pengebilan, dengan beberapa orang di kejauhan
+    kind: representative
+    origin: third-party
+    subject: Kaunter penerimaan dan kemasukan hospital di lobi pintu masuk utama
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Dua orang pekerja masuk ke hospital swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kad dan keluar tanpa membayar sesen pun semasa discaj. Seorang lagi membayar sebahagian daripada bil itu sendiri, kerana polisi yang dibelinya enam bulan lalu lebih murah atas sebab itu tepat.

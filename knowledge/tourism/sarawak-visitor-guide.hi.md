@@ -36,7 +36,7 @@ faq:
     a: "दोनों मौजूद हैं। कुचिंग के पास Annah Rais जैसे स्थान जीवित Bidayuh लॉन्गहाउस समुदाय हैं जहाँ परिवार अब भी रहते हैं, जबकि Santubong के पास सारावाक सांस्कृतिक गाँव एक उद्देश्य-निर्मित जीवित संग्रहालय है। एक कार्यरत लॉन्गहाउस की यात्रा पहले से व्यवस्थित करना सबसे अच्छा है और अक्सर एक गाइड के माध्यम से जो यात्रा की सम्मानपूर्वक व्याख्या कर सके।"
 
 lang: "hi"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["सारावाक यात्रा", "सारावाक आव्रजन", "कुचिंग गाइड", "Gunung Mulu National Park", "Iban लॉन्गहाउस", "Bidayuh लॉन्गहाउस", "सारावाक प्रवेश पास", "बोर्नियो यात्रा", "Sarawak travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'बोर्नियो की प्रकृति और जीवंत Dayak संस्कृति चाहने वाले यात्रियों के लिए, Semenggoh के अर्ध-जंगली ओरंगुटान और Bidayuh लॉन्गहाउसों हेतु आरामदायक, पैदल-चलने योग्य Kuching को ठिकाने के रूप में उपयोग करते हुए, Gunung Mulu की विश्व धरोहर गुफाओं और वर्षावन के प्रमुख अतिरिक्त आकर्षण के साथ।'
+  getThere: 'मुख्य केंद्र के रूप में Kuching तक उड़ान भरें, और Gunung Mulu केवल MASwings उड़ानों (Miri, Kuching या Kota Kinabalu से) द्वारा पहुँचा जा सकता है क्योंकि पार्क तक कोई व्यावहारिक सड़क नहीं है।'
+  permit: 'Sarawak अपना स्वयं का आप्रवासन चलाता है, इसलिए हर कोई — प्रायद्वीप से आने वाले मलेशियाई सहित — आगमन पर जाँचा जाता है और एक प्रवेश-पास दिया जाता है (विदेशियों को अपने मलेशियाई प्रवेश के ऊपर एक अलग Sarawak मुहर मिलती है, और अधिकांश को पहले से MDAC ऑनलाइन भरना होता है), और Mulu उड़ानें तथा निर्देशित गुफा-टूर पहले से बुक किए जाने चाहिए।'
+  watch: 'Mulu के छोटे विमान मौसम के कारण नियमित रूप से विलंबित या रद्द होते हैं, इसलिए बफ़र दिन रखें और पार्क से बाहर कोई तंग आगे की कनेक्शन कभी बुक न करें।'
+  next: 'अपनी राष्ट्रीयता के लिए वर्तमान वीज़ा और MDAC आवश्यकताएँ Immigration Department of Malaysia से पुष्ट करें।'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'सारावाक के गुनुंग मुलु राष्ट्रीय उद्यान में हरे वर्षावन और धुंध को भेदते नुकीले धूसर चूना-पत्थर के शिखरों का एक वन'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Semenggoh Nature Reserve में घने हरे वर्षावन के बीच रस्सियों पर लटकता और पहुँचता एक लाल बालों वाला orangutan
+    kind: actual
+    origin: third-party
+    subject: Kuching के पास Semenggoh Nature Reserve में वर्षावन में रस्सियों पर चलता एक जंगली orangutan
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: लाल छत वाला खंभों पर उठा एक लंबा लकड़ी का Iban longhouse, Sarawak की एक पहाड़ी पर वर्षावन से घिरा
+    kind: actual
+    origin: third-party
+    subject: Sarawak में एक जंगली नदी-तट के किनारे खंभों पर उठा एक पारंपरिक Iban longhouse
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 आप कुआलालंपुर से कुचिंग तक दो घंटे से कम में उड़ान भर सकते हैं, कभी अपना देश नहीं छोड़ते, और फिर भी दूसरे छोर पर आव्रजन से मुहर लगवाकर गुज़रते हैं। आगमन हॉल में वह आश्चर्य सारावाक के बारे में समझने योग्य सबसे महत्वपूर्ण एकल बात है: यह एक मलेशियाई राज्य है जो अपनी ख़ुद की सीमा चलाता है।

@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: '芙蓉局部多云的天空下，一座现代主义风格的白色州清真寺有着舒展的凹形曲线屋顶和三座高耸的混凝土尖塔。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 试问是谁在管理你所在州属的天课（zakat）、宗教捐产（wakaf）与清真寺，答案并不是布城（Putrajaya）的某个部门——而是一个对该州统治者负责的州级法定机构。这个机构就是州伊斯兰宗教理事会（Majlis Agama Islam Negeri，MAIN），它之所以存在于每一个州，源自一项宪法原则：伊斯兰教事务属于州事务，而非联邦事务。

@@ -65,7 +65,7 @@ sources:
 entity: "Local Government Act 1976 (Act 171)"
 wikidata: "Q25475395"
 relations: []
-related: []
+related: ["local-government-councils", "ministry-of-housing-local-government-kpkt", "federal-constitution"]
 keywords: ["قانون الحكومة المحلية 1976", "السلطة المحلية", "ضريبة التقييم", "انتخابات المجالس المحلية", "Local Government Act 1976", "Act 171", "Akta Kerajaan Tempatan 1976", "local authority Malaysia", "PBT", "Pihak Berkuasa Tempatan", "majlis perbandaran", "majlis daerah", "assessment tax", "cukai pintu", "local council elections Malaysia", "appointed councillors", "National Council for Local Government", "third vote Malaysia"]
 framework: explainer
 ---

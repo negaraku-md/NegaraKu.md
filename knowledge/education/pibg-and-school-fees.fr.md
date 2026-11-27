@@ -29,7 +29,7 @@ faq:
     a: "Non. L'enseignement dans les écoles publiques primaires et secondaires ne comporte pas de frais de scolarité. Les frais spéciaux, quant à eux, sont supprimés depuis 2008 par la SPI no 13/2007."
 
 lang: "fr"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'Les bâtiments bas à toit rouge et le terrain vert d''une école primaire à Brickfields, Kuala Lumpur, sur fond de gratte-ciel de KL Sentral.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: Bâtiment d'un collège-lycée malaisien à plusieurs étages, avec une cour de rassemblement pavée.
+    kind: representative
+    origin: third-party
+    subject: Bâtiment d'un collège-lycée national malaisien (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: Des parents et des enseignants réunis dans la salle d'une école pour une réunion de l'association de parents d'élèves et d'enseignants (PIBG).
+    kind: representative
+    origin: third-party
+    subject: Une assemblée générale de l'association de parents d'élèves et d'enseignants (PIBG) dans une école malaisienne
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 Votre enfant est inscrit dans une école publique « gratuite » — et pourtant, le formulaire du PIBG et une liste de paiements arrivent quand même à votre porte. Alors, que faut-il payer exactement et que ne faut-il pas payer ?

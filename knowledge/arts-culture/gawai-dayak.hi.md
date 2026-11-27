@@ -35,7 +35,7 @@ faq:
     a: "ये एक साझा विषय वाले अलग-अलग पर्व हैं। गावाई दायक सारावाक का दायक फसल पर्व है, जो 1 और 2 जून को होता है। कामातान (Kaamatan) सबाह का कादाज़ानदुसुन फसल पर्व है, जो 30 और 31 मई को होता है। दोनों धान की फसल के लिए आभार व्यक्त करते हैं, पर समुदाय, रस्में और तिथियाँ भिन्न हैं।"
 
 lang: "hi"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "हर वर्ष 1 और 2 जून को; अनुष्ठान 31 मई की शाम को शुरू होता है, और व्यापक Gawai मौसम औपचारिक रूप से जून के अंत की ओर ngiling tikai ('चटाई को लपेटना') के साथ समाप्त होता है।"
   holiday: "सरवाक राज्य में सार्वजनिक अवकाश (25 सितंबर 1964 को राजपत्रित)।"
   etiquette: "लॉन्गहाउस का द्वार खुला रखा जाता है — आने वाले परिवार, पड़ोसियों और मेहमानों का आतिथ्य त्योहार का हिस्सा है; एक आम अभिवादन है 'Gayu Guru, Gerai Nyamai' (दीर्घायु, स्वास्थ्य, समृद्धि), या 'Selamat Hari Gawai'। यह सबसे पहले एक पारिवारिक और लॉन्गहाउस अनुष्ठान है, कोई पर्यटक तमाशा नहीं।"
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'पारंपरिक दयाक भित्तिचित्र पृष्ठभूमि वाले मंच पर हॉर्नबिल-पंख वाले शिरोभूषण और फ़र बनियान पहने एक इबान योद्धा नर्तक नगाजात नृत्य करता हुआ'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: सरवाक के कुचिंग में गावाई दायक परेड के दौरान जटिल चाँदी के शिरोभूषण, मनके का काम और पंखों के मुकुट पहने इबान और ओरांग उलु कलाकार
+    kind: actual
+    origin: third-party
+    subject: कुचिंग में गावाई दायक परेड में पूरी वेशभूषा में दायक कलाकार
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: सरवाक के एक इबान लॉन्गहाउस के अंदर की लंबी लकड़ी की सामुदायिक दीर्घा (रुआई), जहाँ गावाई दायक मनाया जाता है
+    kind: actual
+    origin: third-party
+    subject: सरवाक के एक इबान लॉन्गहाउस की सामुदायिक दीर्घा
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 मई के अंतिम दिन अभी आधी रात नहीं हुई है, और सारावाक की किसी नदी के किनारे एक लॉन्गहाउस में घंटानाद प्रतीक्षा कर रहा है। धान आ चुका है। बरामदा बुहारा जा चुका है और उस पर ताज़ा चटाइयाँ लटकाई गई हैं। तुआक का एक घड़ा तैयार रखा है। जब घंटानाद अंततः बजता है, तो लॉन्गहाउस प्रमुख एक प्याला उठाएँगे, और लंबे सामुदायिक बरामदे के सिरे तक हर कोई उन्हीं तीन शब्दों के लिए पिएगा: दीर्घायु, स्वास्थ्य, समृद्धि।

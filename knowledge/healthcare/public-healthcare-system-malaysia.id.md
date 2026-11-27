@@ -27,7 +27,7 @@ faq:
   - q: "Apa itu PeKa B40?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) adalah skema MOH yang dikelola oleh ProtectHealth Corporation. Ia memberi rakyat Malaysia berpenghasilan rendah yang memenuhi syarat berumur 40 tahun ke atas — penerima Sumbangan Tunai Rahmah dan pasangan mereka — pemeriksaan kesehatan gratis, bantuan alat medis hingga RM20,000, insentif perawatan kanker RM1,000, dan bantuan transportasi. Hingga 31 Maret 2025, sekitar 1.6 juta dari sekitar 6.9 juta penerima yang memenuhi syarat telah menjalani pemeriksaan."
 lang: "id"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -126,9 +126,35 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["ministry-of-health-moh", "klinik-kesihatan", "peka-b40-and-health-schemes", "health-white-paper-and-system-reform"]
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: 'Pemandangan luar Queen Elizabeth Hospital di Kota Kinabalu, sebuah rumah sakit pemerintah Malaysia yang besar dalam sistem layanan kesehatan publik.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: Sebuah bangsal rawat inap yang kosong dengan deretan tempat tidur di sebuah rumah sakit umum Malaysia, Hospital Sultanah Nora Ismail di Batu Pahat
+    kind: actual
+    origin: third-party
+    subject: Sebuah bangsal rumah sakit umum di Hospital Sultanah Nora Ismail, Batu Pahat
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: Bagian luar Hospital Kemaman, sebuah rumah sakit umum yang dikelola oleh Kementerian Kesihatan Malaysia
+    kind: actual
+    origin: third-party
+    subject: Hospital Kemaman, sebuah bangunan rumah sakit umum Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 Melangkah masuk ke klinik pemerintah Malaysia dan tagihan di loket hampir tidak ada — **RM1** untuk pendaftaran pasien rawat jalan umum. Itu bukan sedekah — itu rancangan. Malaysia menjalankan **sistem perawatan kesehatan dua jenjang**: layanan publik yang dikelola pemerintah di bawah **Kementerian Kesehatan (MOH, *Kementerian Kesihatan Malaysia*, KKM)** di samping sektor swasta yang besar. Bagian publik **dibiayai sepenuhnya oleh pajak umum, tanpa iuran asuransi nasional wajib**, jadi perawatan disampaikan dengan biaya nominal yang disubsidi tinggi dan bukan premi. Model itu telah menghasilkan akses hampir universal dengan porsi pendapatan negara yang sederhana — tetapi ia kini membawa beban biaya rumah tangga yang meningkat serta tekanan pasokan yang nyata. Panduan ini menjelaskan, dalam istilah sederhana, cara Anda mengakses sistem ini, berapa biayanya, siapa yang dilindunginya, dan di mana ia tertekan.

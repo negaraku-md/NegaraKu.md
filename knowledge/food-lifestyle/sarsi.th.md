@@ -42,7 +42,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "th"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,24 @@ drinkFacts:
   halal: "ในฐานะน้ำอัดลมเชิงพาณิชย์จากผู้ผลิตรายใหญ่ Sarsi มีเครื่องหมายรับรองฮาลาล; การตรวจสอบที่แน่นอนที่สุดคือเครื่องหมายฮาลาลที่พิมพ์บนขวดหรือกระป๋อง มองหามันบนบรรจุภัณฑ์"
   served: "เสิร์ฟเย็นจากขวดหรือกระป๋อง เวอร์ชันท้องถิ่นที่เป็นที่รักคือ 'Sarsi susu' — Sarsi ที่เทนมระเหย นมข้น หรือนมสดลงไปเพื่อทำเป็นโฟลตรสครีม หวานและซ่า; เป็นของอร่อยจากน้ำอัดลม ไม่ใช่เครื่องดื่มชงของโกปี๊เตี่ยม"
   where: "พบได้ในร้านขายของชำ ซูเปอร์มาร์เก็ต ร้านโกปี๊เตี่ยม และงานรวมญาติทั่วประเทศ — ของประจำอันชวนคิดถึงบนชั้นวางแช่เย็น"
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'แก้วมัคกระจกสูงลายหลุมใส่น้ำอัดลมซาร์ซาพาริลลา (ซาร์ซี) สีเข้มซ่าพร้อมฟองนุ่ม ท่ามกลางแสงแดด'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: แก้วที่เต็มไปด้วยน้ำอัดลมซาร์ซาพาริลลา (ซาร์เซ) สีน้ำตาลแดงเข้ม
+    kind: actual
+    origin: third-party
+    subject: แก้วน้ำอัดลมซาร์ซาพาริลลา Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 ไม่ใช่ทุกเครื่องดื่มบนโต๊ะมาเลเซียที่ชง ชัก หรือคั้น บางอย่างมาจากขวด — และน้อยอย่างที่

@@ -29,7 +29,7 @@ faq:
     a: "The Special Muzakarah on 3 December 2020 ruled that the use of COVID-19 vaccines is permissible and obligatory for groups designated by the government, on condition that the vaccines used are halal and wholesome (tayyiban)."
 
 lang: "en"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ entity: "Jawatankuasa Muzakarah Fatwa Kebangsaan bagi Hal Ehwal Ugama Islam Mala
 relations:
   - { rel: "related-to", to: "national-immunisation-programme-malaysia" }
   - { rel: "related-to", to: "halal-certification-jakim" }
-related: []
+related: ["halal-certification-in-malaysia", "public-healthcare-system-malaysia", "traditional-and-complementary-medicine"]
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'A bright red heritage shophouse housing a Malaysian pharmacy (farmasi) on a town street corner'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: A modern Malaysian community pharmacy on a street corner, its signage reading Big Pharmacy, in Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: A branch of the Big Pharmacy retail chain in Kluang town centre, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: Rows of medicine boxes neatly stacked on pharmacy shelves, representing packaged medicines and their labelling
+    kind: representative
+    origin: third-party
+    subject: Boxes of generic medicines arranged on pharmacy shelves
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 A single vial of vaccine may contain a little gelatine as a stabiliser — and from that tiny detail arises one of the religious questions most frequently asked by Muslim families in Malaysia: is it halal? The answer is not merely "yes" or "no", but the outcome of a structured assessment process involving fatwa bodies, scientific research, and several specific principles of fiqh.

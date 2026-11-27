@@ -27,7 +27,7 @@ faq:
   - q: "ما القوانين التي تستخدمها KPDN لضبط الأسعار؟"
     a: "تعتمد أساسًا على قانون ضبط الإمدادات لسنة 1961 (Control of Supplies Act 1961) وقانون ضبط الأسعار ومكافحة الاستغلال لسنة 2011 (Price Control and Anti-Profiteering Act 2011)، اللذين يتيحان لها فرض سقوف للأسعار، وإلزام عرض الأسعار، واتخاذ إجراءات ضد الأرباح المرتفعة بصورة غير معقولة."
 lang: "ar"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,8 +48,14 @@ verificationNeeded:
   - "أرقام قنوات شكاوى المستهلكين (1-800-886-800؛ واتساب 019-848 8000؛ eaduan.kpdn.gov.my؛ Ez ADU؛ e-aduan@kpdn.gov.my) — تحقق من تحديثها على kpdn.gov.my/bantuan، إذ تتغير الخطوط الساخنة أحيانًا."
   - "العدد الدقيق للأقسام (bahagian) والعدد الإجمالي للقوانين التي تديرها — تأكد قبل ذكر رقم ثابت."
   - "نائب الوزير والأمين العام الحاليان — تحقق من استمرارهما في المنصب عند النشر."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
+  - title: "وزير التجارة الداخلية وتكاليف المعيشة (ماليزيا) — تاريخ اسم الوزارة (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "عملية Ops Pantau التابعة لـ KPDN تضمن غياب التلاعب بالأسعار طوال الموسم الاحتفالي (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "بريتا هاريان (Berita Harian)"
   - title: "الخلفية - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
     publisher: "وزارة التجارة الداخلية وتكلفة المعيشة (KPDN)"
@@ -77,9 +83,37 @@ sources:
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
-related: []
+related: ["competition-act-2010", "price-control-anti-profiteering-act", "franchise-registration-malaysia"]
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "وزارة التجارة الداخلية وتكلفة المعيشة", "شكاوى KPDN", "Price Control and Anti-Profiteering Act 2011", "قانون ضبط الأسعار", "Ez ADU KPDN", "محكمة مطالبات المستهلكين TTPM", "الخط الساخن KPDN", "ضبط أسعار السلع", "حماية المستهلك في ماليزيا", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'منظر أمامي عريض لمبنى وزارة KPDN الطويل من الحجر الرملي في بوتراجايا، مع حروف ''Kementerian Perdagangan Dalam Negeri'' فوق المدخل المركزي وكتلة مكاتب أطول تحمل شعار K المعيّن في الطرف الأيمن'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: منظر بزاوية ثلاثة أرباع لمبنى وزارة KPDN الحجري الرملي في بوتراجايا، مع كتابة 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' الذهبية على القاعدة الغرانيتية الداكنة وحافلة بألوان الوزارة متوقفة عند المدخل
+    kind: actual
+    origin: third-party
+    subject: منظر مائل لمدخل مبنى KPDN مع لافتة الوزارة وحافلة الوزارة، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: منظر من زاوية منخفضة للبرج الحجري الرملي المتدرّج بطراز الآرت ديكو لوزارة KPDN في بوتراجايا، تعلوه شعار الوزارة على هيئة حرف K ماسي أزرق وذهبي أمام سماء غائمة جزئيًا
+    kind: actual
+    origin: third-party
+    subject: البرج المتدرّج لمبنى وزارة KPDN الذي يحمل شعار حرف K الماسي، بوتراجايا
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 عندما يُغالي أحد التجار في سعر زيت الطهي الذي يبيعه لك، أو يبيع سلعة خاضعة للرقابة فوق سقف سعرها، أو يرفض الوفاء بمسؤوليته تجاه منتج معيب، فإن الجهة الاتحادية التي مهمتها أن تتصرف نيابةً عنك هي **KPDN** — **وزارة التجارة الداخلية وتكلفة المعيشة** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). تُطوّر الوزارة التجارة الداخلية، وتضبط أسعار السلع الأساسية اليومية، وتحمي المستهلكين، مدعومةً بتشريعات فعلية وقنوات شكاوى نشطة ومحكمة مطالبات صغيرة مُصمّمة للمتسوقين العاديين.
@@ -89,6 +123,12 @@ framework: profile
 **تأسست KPDN في 27 أكتوبر 1990**. وهدفها المعلن هو النهوض بتجارة داخلية «قابلة للنمو وتنافسية ومستدامة»، لا سيما في قطاع تجارة التوزيع، مع حماية مصالح المستهلكين وحقوقهم. وعمليًّا، ينقسم عملها إلى شقّين: صياغة السياسة التجارية — بما في ذلك تحديد أسعار السلع الأساسية ومراقبتها وضبط بيع وتوزيع السلع الأساسية والمنتجات النفطية والبتروكيميائية — وحماية المستهلك، التي تشمل تثقيف المستهلك وتوعيته وحمايته ودعم الحركة الاستهلاكية.
 
 اعتمدت الوزارة اسمها الحالي، بإضافة التركيز على «تكلفة المعيشة»، في **ديسمبر 2022**. ويقع مقرها الرئيسي في No. 13, Persiaran Perdana, الحي 2 (Precinct 2)، مركز الإدارة الحكومية الاتحادية، 62623 بوتراجايا. والوزير هو **Datuk Armizan Mohd Ali**، الذي يقود الوزارة منذ 30 يوليو 2023.
+
+## أسماء KPDN السابقة: أربعة أسماء منذ 1990
+
+حملت KPDN أربعة أسماء رسمية، يعكس كلٌّ منها الحقيبة التي تولّتها في حينه. فقد تأسست في 27 أكتوبر 1990 باسم وزارة التجارة الداخلية وشؤون المستهلك (Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna، KPDNHEP)، منفصلةً عن وزارة التجارة والصناعة. وفي 2009 ضمّت حقيبة التعاونيات لتصبح وزارة التجارة الداخلية والتعاونيات وحماية المستهلك (KPDNKK، وتُكتب MDTCC بالإنجليزية). وفي 2018 خرجت التعاونيات مجددًا فعادت إلى اسم KPDNHEP. وأخيرًا، في 3 ديسمبر 2022، اتخذت اسمها الحالي وتفويضًا صريحًا بشأن تكلفة المعيشة: وزارة التجارة الداخلية وتكلفة المعيشة (KPDN).
+
+ولم يتغيّر الخيط الناظم للأسماء الأربعة قطّ — التجارة الداخلية وحماية المستهلك — غير أن تغيير الاسم في 2022 أشار إلى أن كبح أسعار السلع الأساسية اليومية صار المهمة العامة المميِّزة للوزارة. فإن صادفتَ الاختصارات الأقدم KPDNHEP أو KPDNKK أو MDTCC في الوثائق أو الأخبار، فهي تشير إلى الوزارة نفسها في مرحلة سابقة.
 
 ## ما القوانين التي تستخدمها KPDN لضبط الأسعار؟
 
@@ -105,6 +145,10 @@ framework: profile
 | قانون الامتياز التجاري لسنة 1998 (Franchise Act 1998) [Act 590] | يُسجّل الامتيازات التجارية وينظّمها |
 
 باستخدام Act 122 وAct 723، تعمل KPDN على تثبيت أسعار السلع الأساسية كالأرز والبيض وزيت الطهي والدجاج. وتُنفّذ عمليات إنفاذ تشمل **Ops Pantau** و**Ops Menu**، وتفرض **برامج الحد الأقصى للأسعار في المواسم الاحتفالية** (*Skim Harga Maksimum Musim Perayaan*) التي تُحدّد سقوفًا لأسعار سلع مختارة خاضعة للرقابة خلال الاحتفالات — كما في برنامج [ديوالي](/arts-culture/deepavali) في أكتوبر 2025. وبموجب المادة 10 من Act 723، يجوز للوزير أن يُلزم أي بائع سلع أو خدمات بعرض الأسعار.
+
+## من يُنفّذ القواعد فعليًّا؟
+
+خلف تلك العمليات يقف قسم الإنفاذ (Bahagian Penguatkuasaan) في الوزارة، وهو الذراع النظامي الذي يعمل ضباطه من مكاتب على مستوى الولايات في أنحاء البلاد. ويعملون أساسًا بموجب قانون ضبط الأسعار ومكافحة الاستغلال لسنة 2011 (Price Control and Anti-Profiteering Act 2011) وقانون ضبط الإمدادات لسنة 1961 (Control of Supplies Act 1961)، فيفتّشون المحال، ويُلزمون بعرض الأسعار، ويصادرون السلع، ويرفعون دعاوى ضد التجار الذين يخالفون الأسعار القصوى أو يستغلّون. وخلال حملة احتفالية واحدة مثل Ops Pantau، يمكن للقسم أن يحشد آلاف الضباط — إذ نشرت عملية 2026 أكثر من 2,400 ضابط — ما يجعله وجه الوزارة الذي يلتقيه معظم التجار فعليًّا. ويقع هذا القسم ضمن وزارة مُنظَّمة في نحو عشرة أقسام ووحدات، تشمل تطوير التجارة الداخلية، ومراقبة تكلفة المعيشة، وحماية المستهلك، والوظائف القانونية ووظائف المحكمة الموصوفة أدناه.
 
 ## كيف تستفيد فعليًّا من KPDN عند تعرضك للغش؟
 

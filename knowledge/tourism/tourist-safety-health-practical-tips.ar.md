@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["نصائح السفر إلى ماليزيا", "طوارئ 999 ماليزيا", "شريحة SIM للسياح في ماليزيا", "الموسم المطير في ماليزيا", "تطعيمات السفر إلى ماليزيا", "البقشيش في ماليزيا", "Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'شارع بيتالينغ في كوالالمبور ليلاً، مزيّن بالفوانيس الحمراء، حيث يتصفّح الناس عربة فاكهة مضيئة وأكشاك السوق بين بيوت المتاجر المسقوفة.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 لقد هبطت لتوّك، وأنت مُنهَك من فارق التوقيت، وهاتفك لا يُظهر أي إشارة. وقبل أن تقلق بشأن طبق الناسي ليماك المثالي، رتّب الأمور المملّة لكن المهمة — شريحة SIM تعمل، ورقم الطوارئ الصحيح، ومعرفة ما إذا كانت السماء على وشك أن تمطر. وإليك القائمة القصيرة الموثَّقة.

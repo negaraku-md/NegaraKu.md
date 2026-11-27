@@ -31,7 +31,7 @@ faq:
   - q: Mengapa pembuatan kapal begitu terkait dengan minyak dan gas di Malaysia?
     a: Sebagian besar armada komersial yang dibangun dan direparasi galangan Malaysia — kapal pendukung lepas pantai, anchor handler, dan kapal kerja — ada untuk melayani anjungan minyak dan gas lepas pantai di perairan Malaysia. Ketika belanja energi kuat, pesanan naik; ketika harga minyak turun, galangan menghadapi kelebihan kapasitas. Lihat panduan terkait tentang industri jasa dan peralatan minyak dan gas.
 lang: id
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'Galangan kapal tepi perairan dengan derek gantry merah menjulang dan kapal-kapal besar yang sedang dibangun'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: Tampak udara sebuah pabrik pembuatan kapal putih besar di Malaysia, dengan lambung kapal terlihat di pintu teluk yang terbuka
+    kind: actual
+    origin: third-party
+    subject: Pabrik pembuatan kapal Grand Banks Yachts di Pasir Gudang, Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: Tampak udara dari atas aula fabrikasi besar dan halaman sebuah galangan kapal Malaysia di tepi sungai
+    kind: actual
+    origin: third-party
+    subject: Tampak dari atas galangan kapal Grand Banks Yachts di tepi sungai di Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 Malaysia berada di dua jalur laut tersibuk di dunia dan memperoleh sebagian besar nafkahnya dari laut — namun industri pembuatan dan reparasi kapal (SBSR)-nya adalah salah satu sudut yang lebih senyap dari perekonomian nasional. Ia nyata, sudah lama mapan, dan penting secara strategis, tetapi juga terfragmentasi, siklis, dan didominasi galangan yang relatif kecil. Panduan ini menjelaskan apa yang dibangun industri ini, di mana, seberapa besar, dan mengapa satu program angkatan laut telah membayangi seluruh sektor dalam perdebatan publik.

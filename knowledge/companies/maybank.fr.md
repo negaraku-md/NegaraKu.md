@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,33 @@ verificationNeeded:
   - "Pourcentages de participation des fonds gérés par PNB et de l'EPF — changent à chaque déclaration auprès de Bursa Malaysia."
   - "Nombre de pays d'exploitation (les dix États de l'ASEAN plus les centres financiers mondiaux) — peut changer."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'La tour Menara Maybank à double cylindre blanc s''élevant au-dessus de la silhouette de Kuala Lumpur, avec le logo et le logotype bleus de Maybank sur un panneau près de son sommet'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: Toute la hauteur de la tour blanche Menara Maybank sur un ciel bleu, une enseigne jaune Maybank et le logo à tête de tigre montés à sa couronne au-dessus des toits de la ville
+    kind: actual
+    origin: third-party
+    subject: La Menara Maybank vue depuis le stade Chin Woo sur un ciel bleu, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: Des escaliers mécaniques jumeaux sous un auvent en dôme menant à la Menara Maybank, avec un logo jaune Maybank sur un panneau d'accueil nommant l'agence principale de KL au pied des marches
+    kind: actual
+    origin: third-party
+    subject: L'entrée par escalier mécanique de la Menara Maybank avec un panneau d'accueil Maybank, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 Ouvrez un compte courant presque n'importe où en Malaisie et il y a de fortes chances qu'il porte le logo à tête de tigre de Maybank. Malayan Banking Berhad est la plus grande banque du pays — par les actifs de son bilan et par ce que le marché boursier estime qu'elle vaut — et l'un des plus grands groupes bancaires d'Asie du Sud-Est. Ce profil expose ce que fait le groupe, où il opère et à qui il appartient.

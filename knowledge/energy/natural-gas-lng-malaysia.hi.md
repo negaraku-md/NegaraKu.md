@@ -34,7 +34,7 @@ faq:
     a: "तृतीय-पक्ष पहुँच (TPA) योग्य शिपरों को, केवल PETRONAS को नहीं, पुनर्गैसीकरण टर्मिनलों, संचरण पाइपलाइनों और वितरण पाइपलाइनों पर समान शर्तों पर क्षमता आरक्षित करने देती है। यह Gas Supply (Amendment) Act 2016 के तहत 16 जनवरी 2017 को शुरू हुई और इसे ऊर्जा आयोग विनियमित करता है।"
 
 lang: "hi"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,32 @@ relations:
 related: ["petronas"]
 keywords: ["प्राकृतिक गैस मलेशिया", "LNG मलेशिया", "बिंटुलु LNG", "Peninsular Gas Utilisation", "PGU पाइपलाइन", "पुनर्गैसीकरण टर्मिनल", "तृतीय-पक्ष पहुँच", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'मलेशिया के बिंतुलु में उथले तटीय पानी के ऊपर पाइपलाइन और घाटों वाला एक अपतटीय द्रवीकृत प्राकृतिक गैस लदान टर्मिनल।'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: खुले पानी पर चलता एक बड़ा तरलीकृत-प्राकृतिक-गैस वाहक जहाज़, जिसके लंबे डेक पर बड़े रोधित कार्गो-टैंक ढाँचे और पाइपलाइनें कतार में हैं, साफ़ आकाश के नीचे अपने पीछे लहर छोड़ता हुआ
+    kind: representative
+    origin: third-party
+    subject: तरलीकृत प्राकृतिक गैस का एक वाहक, जिस प्रकार का जहाज़ मलेशियाई LNG विदेशी खरीदारों तक पहुँचाता है
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: ऊँचे आसवन स्तंभों, चाँदी के भंडारण गोलों, फ्लेयर स्टैक और पाइपलाइनों के घने जाल वाला एक विशाल तटवर्ती गैस-प्रसंस्करण टर्मिनल, साफ़ की गई तटीय ज़मीन पर, पीछे पहाड़ियाँ
+    kind: actual
+    origin: third-party
+    subject: किमानिस, सबा स्थित सबा ऑयल एंड गैस टर्मिनल (SOGT), एक Petronas तटवर्ती गैस-प्रसंस्करण सुविधा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 हर बार जब सेलांगोर में कोई बिजली संयंत्र चालू होता है या पिनांग में कोई दस्ताना कारखाना अपनी भट्टियाँ गरम करता है, तो गैस ने सबसे अधिक संभावना सैकड़ों किलोमीटर दूर, ट्रेंगानु के अपतट या दक्षिण चीन सागर के पार सारावाक में अपनी यात्रा शुरू की थी। मलेशिया एक साथ एक भारी-भरकम गैस निर्यातक है और, बढ़ते तौर पर, एक गैस आयातक भी, और जो पाइप तथा टर्मिनल इन दो तथ्यों में सामंजस्य बिठाते हैं, वे देश की सबसे मूल्यवान ऊर्जा परिसंपत्तियों में से हैं।

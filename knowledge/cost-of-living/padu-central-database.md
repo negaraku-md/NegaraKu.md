@@ -68,7 +68,7 @@ wikidata: "Q124170682"
 relations:
   - { rel: "administered-by", to: "kementerian-ekonomi" }
   - { rel: "related-to", to: "str-sumbangan-tunai-rahmah" }
-related: []
+related: ["b40-m40-t20-income-classification", "income-inequality-poverty-line", "fuel-pricing-mechanism"]
 keywords: ["PADU", "Pangkalan Data Utama", "subsidi bersasar", "padu.gov.my", "Kementerian Ekonomi", "DOSM"]
 framework: explainer
 ---

@@ -29,7 +29,7 @@ faq:
     a: "HSN là ngày cao điểm của lễ kỷ niệm. Kể từ năm 2019, KBS mở rộng lễ kỷ niệm suốt tháng 10 với tên gọi Tháng Thể thao Quốc gia (BSN)."
 
 lang: "vi"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'Một đám đông người chạy lướt qua Tòa nhà Sultan Abdul Samad rực sáng đèn pha trong một cuộc chạy đường phố ban đêm ở Kuala Lumpur.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: Một đám đông lớn những người đạp xe ở mọi lứa tuổi lấp đầy một con phố Kuala Lumpur bị đóng lúc rạng đông trong sự kiện Ngày Không Xe Hơi, bên dưới một tấm biểu ngữ lễ hội.
+    kind: representative
+    origin: third-party
+    subject: Những người đạp xe tham gia đông đảo trong buổi sáng Ngày Không Xe Hơi ở Kuala Lumpur
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: Các vận động viên trẻ và quan chức tụ tập trên đường chạy màu đỏ của một sân vận động Malaysia trong giải điền kinh học đường cấp huyện, với đèn pha và khán đài chính phía sau.
+    kind: representative
+    origin: third-party
+    subject: Các vận động viên trên đường chạy tại một giải điền kinh học đường cấp huyện ở Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 Mỗi thứ Bảy của tuần thứ hai tháng 10, các sân bãi, công viên và nhà thi đấu thể thao khắp Malaysia lẽ ra phải chật kín người — đó chính là thiết kế của Ngày Thể thao Quốc gia.

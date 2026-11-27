@@ -68,9 +68,22 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: []
+related: ["sipadan-and-semporna", "east-coast-islands-guide", "langkawi-visitor-guide", "sabah-visitor-guide"]
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
-framework: rules
+framework: rules
+visitFacts:
+  bestFor: '말레이시아 해양공원 여행을 계획하는 레크리에이션 다이버와 스노클러(그리고 이들을 예약하는 업체)에게 적합합니다 — 접근이 쉬운 반도의 산호초부터 정원이 제한된 시파단(Sipadan) 다이빙까지.'
+  getThere: '티오만, 레당, 프렌티안, 텡골 같은 반도 공원은 본토 선착장에서 보트로 가고, 사바의 시파단은 마불(Mabul)이나 카파라이(Kapalai) 같은 인근 섬에 머물며 면허 업체의 허가로 당일 건너가 다이빙합니다.'
+  permit: '시파단은 면허 업체만 보유하는 일일 허가 정원 상한제로 운영되어 직접 구입할 수 없고 할당량을 가진 업체를 통해 예약해야 하며, 연방(수산청) 해양공원은 대신 선착장에서 징수하는 보존 요금을 부과합니다.'
+  watch: '시파단은 직접 예약할 수 없고 최소 어드밴스드 오픈워터 자격이 필요하며, 정원과 다이빙 규정이 주기적으로 개정되므로 계획 전에 업체에 현재 한도를 확인하십시오.'
+  next: '현재의 요금, 허가, 정원은 반도 공원은 말레이시아 수산청(Department of Fisheries Malaysia)에, 시파단은 Sabah Parks에 확인하십시오.'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: '시파단의 수중 풍경. 산호초 옆에서 은빛 물고기 떼가 빽빽이 소용돌이치고, 암초에는 주황색 안티아스가 있으며, 푸른 물을 통과한 햇살이 비친다.'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 가장 맑은 물은 또한 가장 다다르기 어렵습니다. [시파단(Sipadan)](/ko/tourism/sipadan-and-semporna)의 벽면으로 뛰어들려면 아무리 많은 돈을 내도 직접 살 수 없는 정부 허가증이 필요합니다. 이 하나의 사실이 이 나라가 다이빙 관광을 운영하는 방식을 잘 보여줍니다 — 출입은 배분되고, 요금이 매겨지며, 어느 바다로 내려가고 싶은지에 따라 매우 다른 두 관할권으로 나뉩니다.

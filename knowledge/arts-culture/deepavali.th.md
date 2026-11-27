@@ -30,7 +30,7 @@ faq:
     a: "ตะเกียง — ตะเกียงดินเผาหรือโลหะเล็ก ๆ ที่มักเรียกว่าดิยา (diya) — คือหัวใจทางสายตาของ 'เทศกาลแห่งแสงไฟ' มีการจุดเป็นแถวที่ประตูและหน้าต่าง สะท้อนความหมายของชื่อเทศกาล 'แถวของแสงไฟ'"
 
 lang: "th"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ festivalFacts:
   when: "กำหนดโดยปฏิทินฮินดู (ทมิฬ) ตามจันทรคติ โดยปกติอยู่ในเดือนตุลาคมหรือพฤศจิกายน วันที่ประกาศในราชกิจจานุเบกษาขยับไปในแต่ละปีและระบุไว้ว่าอาจเปลี่ยนแปลงได้"
   holiday: "เป็นวันหยุดราชการสหพันธ์ที่ประกาศในราชกิจจานุเบกษา ถือปฏิบัติในทุกรัฐและดินแดนสหพันธ์ ยกเว้น Sarawak ซึ่งใช้ตารางวันหยุดราชการของตนเอง"
   etiquette: "ผู้มาเยือนได้รับการต้อนรับในงานเปิดบ้าน ควรแต่งกายสุภาพ ถอดรองเท้าก่อนเข้าบ้านหรือวัด และของฝากเล็ก ๆ น้อย ๆ เป็นขนมหวานถือเป็นธรรมเนียมที่นิยมปฏิบัติ"
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'โกลัมรูปนกยูงหลากสีทำจากผงสี มีขอบสีขาวล้อมรอบ และรายล้อมด้วยตะเกียงดินเผาจุดไฟเล็กๆ สำหรับเทศกาลดีปาวลีในมาเลเซีย'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: โคมไฟประดับดีปาวลีสีเหลืองสดใสเรียงรายแขวนอยู่เหนือโถงทางเดินที่คลาคล่ำด้วยผู้โดยสารที่สถานีเคแอลเซ็นทรัลในกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: โคมไฟดีปาวลีที่แขวนอยู่และฝูงชนในบรรยากาศเทศกาลที่สถานีเคแอลเซ็นทรัล
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: โกลัมรูปนกยูงขนาดยักษ์สีสันสดใสที่ทำจากผงสีวาดลงบนพื้นขัดเงาของสถานีเคแอลเซ็นทรัลเนื่องในเทศกาลดีปาวลี
+    kind: actual
+    origin: third-party
+    subject: โกลัมบนพื้นลายนกยูงขนาดใหญ่ที่สถานีเคแอลเซ็นทรัลเนื่องในเทศกาลดีปาวลี
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 เป็นเวลาหนึ่งคืน ตะเกียงคือผู้พูด ตะเกียงดินเผาเล็ก ๆ วางเรียงตามประตูและขอบหน้าต่าง ลวดลายพื้นด้วยข้าวสีหรือผงสีถูกวางไว้ที่ธรณีประตู และบ้านที่มืดเมื่อชั่วโมงก่อนถูกตีเส้นด้วยเปลวไฟ นั่นคือที่มาของชื่อเทศกาล กล่าวคือ *ดีปาวลี (Deepavali)* มาจากภาษาสันสกฤตที่แปลว่า "แถวหรือชุดของแสงไฟ"

@@ -23,7 +23,7 @@ appliesTo: "在马来西亚面临专科会诊或私立机构住院的任何人�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 
 status: "published"
 aiAssisted: true
@@ -68,6 +68,33 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: '双威医疗中心C座红白相间的立面，一座现代马来西亚私立医院建筑，招牌写着Sunway Medical Centre'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: 吉隆坡太子阁医疗中心（Prince Court Medical Centre）的现代大楼，立面上有金色标志字，前景是一块城市路牌
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡的私立医院太子阁医疗中心（Prince Court Medical Centre）
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: 黄昏时分双威医疗中心（Sunway Medical Centre）的建筑群，旁边是一座有顶棚的高架轨道车站，SunMed 标志灯光亮起
+    kind: actual
+    origin: third-party
+    subject: 位于双威镇（Bandar Sunway）的双威医疗中心及相邻的 BRT/LRT 车站
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 你为了一项手术入院，出院时却好像拿到两份订在一起的账单。一份来自外科医生，一份来自医院。两者的金额几乎从不相符，而且几乎没有人一开始就解释清楚它们为何是分开的。

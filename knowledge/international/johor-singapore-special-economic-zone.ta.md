@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia என்பது 2000-களில் தொடங்கப்பட்ட ஒரு மலேசிய வளர்ச்சி வழித்தடம்; இது JS-SEZ பரப்பிற்குள் அமைந்துள்ளது. JS-SEZ மிகவும் விரிவானது மற்றும் இருதரப்பு தன்மை கொண்டது: இது சிங்கப்பூரைக் கூட்டு-கையொப்பமிடுநராகச் சேர்க்கிறது, மண்டலத்தை Pengerang வரை நீட்டிக்கிறது, மேலும் அதன் மேல் பகிர்ந்த ஊக்கத்தொகை மற்றும் எளிதாக்கல் கட்டமைப்பை அடுக்குகிறது."
 
 lang: "ta"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: 'அழகுபடுத்தப்பட்ட வட்டச்சுற்றில் பெரிய சாலையோர ''Iskandar Puteri'' அடையாளப் பலகை; பின்னணி வானோரத்தில் அலுவலக மற்றும் வணிக கோபுரங்களும் கட்டுமானக் கிரேன்களும்'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: ஜோகூரில் Forest City-இன் வான்வழிக் காட்சி, கட்டுமானத்தில் உள்ள கடற்கரையோர உயர்-மாடிக் கோபுரங்கள் மற்றும் மீட்கப்பட்ட கடற்கரையோரம் வரிசையான வெள்ளை வில்லா தொகுதிகளைக் காட்டுகிறது
+    kind: actual
+    origin: third-party
+    subject: Johor Strait-இல் ஜோகூரில் உள்ள கொடிமுனை எல்லை-கடந்த மேம்பாடான Forest City, சிங்கப்பூரை நோக்கி நீரை முன்னோக்கி கட்டுமானத்தில் உள்ள கோபுரங்கள் மற்றும் வில்லா தொகுதிகளுடன்
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 ஒரு எல்லையைக் கடந்து ஒரே வரிக் கட்டமைப்பைப் பகிர்ந்துகொள்ள இரு

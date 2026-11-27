@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami perbedaan asal usul, musik, dan gerakan antara Joget dan Zapin sebagai dua tarian rakyat Melayu yang terpisah."
 
 lang: "id"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,34 @@ relations:
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/joget-and-zapin/hero.webp'
+heroAlt: 'Empat penari Melayu menari zapin di panggung kayu: dua pria berbaju Melayu magenta dan oranye dengan tengkolok hitam bergerak dengan telapak terbuka sementara dua wanita bersongket ungu dan berkerudung tipis membentuk pose lengan yang anggun di bawah cahaya hangat'
+heroCredit: 'ScribblingGeek / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: Sekelompok penari Melayu berkostum sarung merah muda, hijau dan emas mencolok mengangkat lengan dan memutar pergelangan tangan dalam joget yang rancak, para penari pria berbaju serasi dan para penari wanita berbunga di rambut, pada sebuah acara terbuka di Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Sekelompok penari rakyat Melayu membawakan tarian bergaya joget yang rancak di Kuala Lumpur, Malaysia
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: Puluhan penari Melayu berbaju kurung, sarung dan songkok mengangkat kedua tangan ke atas kepala secara serentak sewaktu zapin massal di tempat terbuka, memenuhi sebuah jalan di depan pendopo kayu pada hari mendung.
+    kind: representative
+    origin: third-party
+    subject: Tarian zapin (jepin) massal oleh para penari Melayu berpakaian tradisional pada sebuah festival kota di Pontianak, Indonesia
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 Dua penari bergerak cepat mengikuti irama gendang — kaki menghentak, tangan menari lembut. Banyak yang menontonnya langsung menyebutnya "tarian Melayu" tanpa membedakan mana Joget dan mana Zapin. Tanyakan dari mana masing-masing datang, dan jawabannya membawa kita ke dua penjuru dunia: satu dari geladak kapal dagang Portugis di Melaka, satu lagi dari kafilah pendakwah Arab dari Hadhramaut.

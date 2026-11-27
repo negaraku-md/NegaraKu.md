@@ -87,9 +87,10 @@ entity: "Law Reform (Marriage and Divorce) Act 1976"
 relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
-related: []
+related: ["islamic-family-law-malaysia", "wills-and-probate-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["Act 164", "الزواج المدني", "طلاق غير المسلمين", "الأموال الزوجية", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "المادة 76", "دائرة التسجيل الوطني"]
 framework: rules
+wikidata: "Q142235988"
 ---
 
 إذا كنت من غير المسلمين وتزوجت في ماليزيا، فإن قانونًا واحدًا هو الذي يحدّد ما إذا كان الزواج صحيحًا، وكيف يمكن إنهاؤه، ومن يحصل على ماذا عند انتهائه — هو قانون إصلاح القانون (الزواج والطلاق) لسنة 1976، المعروف أكثر باسم Act 164.

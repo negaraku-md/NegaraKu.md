@@ -97,9 +97,10 @@ relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "explained-in", to: "tribunal-tuntutan-pembeli-rumah" }
   - { rel: "related-to", to: "strata-titles-act-1985" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["HDA", "Act 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "APDL", "Tribunal Tuntutan Pembeli Rumah", "قانون تطوير الإسكان", "حماية مشتري المنزل"]
 framework: rules
+wikidata: "Q142235984"
 ---
 
 تدفع وديعة قدرها 10% عن شقة فاخرة لا توجد إلا بوصفها رسمًا لمهندس معماري، ثم تنتظر ثلاث سنوات وأنت تسدّد أقساط قرضك. فما الذي يمنع المطوّر من الفرار بأموالك، أو البناء ببطء، أو تسليم وحدة معيبة؟ الجواب قانون يزيد عمره على نصف قرن: قانون تطوير الإسكان (الرقابة والترخيص) لسنة 1966 (Housing Development (Control and Licensing) Act 1966) — المعروف اختصارًا بـ HDA أو Act 118.

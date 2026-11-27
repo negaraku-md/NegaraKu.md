@@ -22,7 +22,7 @@ appliesTo: "வயதான பெற்றோர் அல்லது உற�
 verificationNeeded:
   - "இக்கட்டுரை தனியார் தாதி இல்லங்களின் கட்டணங்கள், படுக்கை வசதி எண்ணிக்கை, அல்லது Rumah Seri Kenangan-க்கான காத்திருப்புப் பட்டியல் நீளம் ஆகியவற்றைக் கூறவில்லை; இவை அடிக்கடி மாறுவதோடு, எழுதப்பட்ட நேரத்தில் அதிகாரப்பூர்வ ஆதாரத்தில் உறுதிப்படுத்தப்படவில்லை — தற்போதைய கட்டணங்களையும் கிடைப்பையும் நேரடியாக இயக்குநரிடமோ அல்லது மாவட்ட சமூக நல அலுவலகத்திடமோ (Jabatan Kebajikan Masyarakat Daerah) உறுதிப்படுத்திக் கொள்ளுங்கள்."
 lang: "ta"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: 'ஒரு மலேசிய முதியோர் இல்லத்தின் (ருமா வர்கா எமாஸ்) வாயிலிட்ட நுழைவாயிலும் கட்டிடமும்.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: மரங்களுக்கு இடையே குறைந்த தாக்க உடற்பயிற்சி இயந்திரங்களுடன் கூடிய வெளிப்புற முதியோர் உடற்பயிற்சி பகுதி, யாரும் இல்லை
+    kind: representative
+    origin: third-party
+    subject: ஒரு தென்கிழக்காசிய குடியிருப்புப் பகுதியில் முதியோருக்கான உடற்பயிற்சி இயந்திரங்களுடன் கூடிய வெளிப்புற உடற்தகுதி மூலை
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: முன்பக்கத்தில் மலேசியா மற்றும் சபா கொடிகள் பறக்க, ஒரு மாடி மலேசிய முதியோர் பராமரிப்பு இல்லத்தின் நுழைவாயிலும் பெயர்ப்பலகையும்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, பாப்பார் மாவட்டம், கினருட் இல் உள்ள முதியோர் இல்லமான Rumah Sri Pritchard
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 அந்த தருணம் பொதுவாக அமைதியாகவே வந்துவிடுகிறது. தனியாக நன்றாகச் சமாளித்து வந்த ஒரு பெற்றோர், அடுப்பு எரிந்துகொண்டிருப்பதை மறக்கத் தொடங்குகிறார், அல்லது அடிக்கடி விழத் தொடங்குகிறார்; இதற்கு ஒருபோதும் திட்டமிடாத ஒரு குடும்பம், அடுத்து என்ன செய்வது என்பதை அவசரமாக முடிவெடுக்க வேண்டியிருக்கிறது. மலேசியாவில் இதற்கான ஒரு அமைப்பு இருக்கிறது — ஆனால் அது ஏற்கனவே முதியோரைச் சந்திக்கும் ஒரு சுகாதார கிளினிக்கிற்கும், பெரும்பாலான குடும்பங்கள் தேடத் தொடங்கும்போது மட்டுமே கண்டறியும் ஒரு நல அமைப்பிற்கும் இடையே பிரிக்கப்பட்டுள்ளது.

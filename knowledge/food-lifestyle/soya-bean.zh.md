@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Soya bean 这款饮料属植物性、不含酒精——黄豆、水和糖——且天然不含乳制品，因此饮料本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别档口查问。"
   served: "热饮或加冰，带点甜味。常见的搭配：与 tau foo fah（嫩豆腐布丁）凑成一份甜品组合，或淋在黑凉粉上做成「soya cincau」（即「Michael Jackson」）。槟城风味的版本倚重 pandan 与红糖；现代的豆浆咖啡馆则提供黑豆、黑芝麻与红豆等变化款。"
   where: "遍布全国的 kopitiam 档口、小贩中心、pasar malam 与专门的黄豆店都有——常出自一个只卖豆浆与 tau foo fah 的档口——超市里也有瓶装。"
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "一高杯淡色豆奶（soya bean），旁边放着黄豆"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 在无数马来西亚咖啡店里，总有一个档口只做豆：一边是一大桶温热的新鲜豆浆，另一边是

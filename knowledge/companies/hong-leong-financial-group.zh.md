@@ -79,6 +79,7 @@ keywords: ["Hong Leong Financial Group", "HLFG", "Hong Leong Bank", "HLB", "Quek
 social:
   hashtags: ["HongLeong", "HLFG", "HongLeongBank", "MalaysiaBanking", "QuekLengChan"]
 framework: profile
+wikidata: "Q139387760"
 ---
 
 马来西亚人从一家银行分行、一辆摩托车，或是一个股价上认得丰隆这个名字——但其银行业务坐落在一个常令读者困惑的双层上市架构之中。顶端是丰隆金融集团有限公司（Hong Leong Financial Group Berhad，HLFG），即金融控股公司；其下是丰隆银行有限公司（Hong Leong Bank Berhad，HLB），即大多数客户实际打交道的商业银行。

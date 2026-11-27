@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚的造船为何与油气如此紧密相连？
     a: 马来西亚船厂建造与维修的大部分商业船队——海洋支援船、锚作船与工作船——都是为服务马来西亚水域的海上油气平台而存在。当能源开支强劲时，订单上升；当油价下跌时，船厂面临产能过剩。参见关于油气服务与设备产业的相关指南。
 lang: zh
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: '一座滨水造船厂，高耸的红色门式起重机和正在建造的大型船只'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: 俯瞰马来西亚一座大型白色造船厂房，可见一个敞开的船坞门口露出船体
+    kind: actual
+    origin: third-party
+    subject: 马来西亚柔佛 Pasir Gudang 的 Grand Banks Yachts 造船厂房
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: 从高空俯瞰一座临河的马来西亚造船厂的大型建造厂房和船坞
+    kind: actual
+    origin: third-party
+    subject: 俯瞰马来西亚柔佛河畔的 Grand Banks Yachts 造船厂
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 马来西亚坐落在全球最繁忙的两条海上航道之上，其生计有很大一部分来自海洋——然而它的造船与修船（SBSR）产业却是国民经济中较安静的角落之一。它真实、历史悠久且具战略重要性，但同时也分散、周期性强，且以相对较小的船厂为主。本指南将说明这个产业建造什么、在哪里建造、规模有多大，以及一个海军项目为何在公共辩论中盖过了整个领域。

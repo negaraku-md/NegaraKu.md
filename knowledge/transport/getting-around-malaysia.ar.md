@@ -33,7 +33,7 @@ verificationNeeded:
   - "تاريخ نهاية 2026 المستهدَف لـRTS Link هو الهدف المُعلَن من المشغّلين أنفسهم حتى كتابة هذا النص، وينبغي إعادة تأكيده قرب موعد النشر، إذ كثيرًا ما تتأخّر عمليات افتتاح البنية التحتية العابرة للحدود."
 
 lang: "ar"
-sourceContentHash: "cd13a733d0e3f471"
+sourceContentHash: "ea3244a7c962cd1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,30 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["التنقّل في ماليزيا", "نظرة عامة على النقل في ماليزيا", "النقل العام في ماليزيا", "كيفية السفر في ماليزيا", "النقل في وادي كلانغ", "الرحلات الجوية الداخلية في ماليزيا", "القيادة في ماليزيا", "getting around Malaysia", "KTM ETS", "express bus Malaysia"]
 framework: journey-hub
+hero: '/media/transport/getting-around-malaysia/hero.webp'
+heroAlt: 'منظر جوي لقطار KTM ETS الكهربائي بين المدن وهو يسير على طول الخط الرئيسي للساحل الغربي عبر ريف أخضر، وتحته مجمعات سكنية وملعب للأطفال'
+heroCredit: 'Hiroki.loh.st / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-1.webp
+    alt: منظر من عين السائق لطريق كاراك السريع يقترب من تقاطع كاراك، لافتات علوية خضراء تشير إلى تيميرلوه وكوانتان و'Lebuhraya Pantai Timur'، مع دراج ناري وسيارات — التنقّل في ماليزيا برًا. يضيف نمط الطريق السريع/القيادة المختلف عن صور السكك.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-2.webp
+    alt: قطار KTM ETS من الفئة 93 بين المدن بطلاء حملة ملوّن متوقّف عند رصيف مرفوع حديث (سونغاي بولوه)، مع أسلاك كهربائية علوية — منظر المحطة/الصعود للسكك الماليزية بين المدن. سياق مختلف عن المنظر الجوي المفتوح لصورة البطل.
+    kind: actual
+    origin: third-party
+    credit: Takeshi Aida / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg
 ---
 
 اسأل مَن عاش في كلٍّ من كوالالمبور و— لنقل — إيبوه عن كيفية تنقّله، تحصل على إجابتين مختلفتين تمامًا. يتحدّث أحدهما عن تمرير بطاقته عند بوابة LRT وطلب سيارة Grab للكيلومتر الأخير. ويتحدّث الآخر عن أي طريق سريع يسلك وأين يركن سيارته. وكلاهما يصف البلد نفسه. فماليزيا ليس لديها نظام نقل واحد — بل لديها نظام صغير كثيف في وادي كلانغ، ونظام أكبر بكثير قائم على السيارة في كل مكان آخر، تربطه قطارات بين المدن وحافلات، وطائرة حين تصبح المسافات جدّية.

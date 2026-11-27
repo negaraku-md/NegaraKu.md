@@ -105,9 +105,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "majlis-raja-raja" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'Tangkai berbiji rumput keemasan dan sawah padi hijau yang terbentang hingga ke ufuk rata di bawah langit mendung yang luas berhampiran Kangar.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: Laluan kayu tergantung menyusuri terowong batu kapur Gua Kelam berhampiran Kaki Bukit di Perlis.
+    kind: actual
+    origin: third-party
+    subject: Laluan gua Gua Kelam, Perlis
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: Terminal feri di Kuala Perlis, pintu masuk tanah besar untuk bot ke Langkawi, berdiri di tepi Selat Melaka.
+    kind: actual
+    origin: third-party
+    subject: Terminal feri Kuala Perlis, Perlis
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 Ada satu soalan yang hampir setiap orang Malaysia pernah tersilap jawab: siapakah

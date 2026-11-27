@@ -35,7 +35,7 @@ faq:
     a: "அதை வர்த்தமானியில் வெளியிடும் மாநிலங்களிலும் கூட்டரசு பிரதேசங்களிலும் மட்டுமே. இது கோலாலம்பூர் (Kuala Lumpur), புத்ராஜெயா (Putrajaya), சிலாங்கூர் (Selangor), பினாங்கு (Penang), பேராக் (Perak), நெகிரி செம்பிலான் (Negeri Sembilan), ஜொகூர் (Johor) மற்றும் கெடா (Kedah) உள்ளிட்ட இடங்களில் பொது விடுமுறையாக அனுசரிக்கப்படுகிறது, மேலும் இது நாடு தழுவிய கூட்டரசு விடுமுறையாக வர்த்தமானியில் வெளியிடப்படவில்லை. இது ஒவ்வொரு அதிகார எல்லைக்கும் தனித்தனியாக நிர்ணயிக்கப்படுவதால், சரியான பட்டியல் ஆண்டுக்கு ஆண்டு வேறுபடலாம் — தொடர்புடைய மாநிலத்தின் அதிகாரப்பூர்வ விடுமுறை அறிவிப்பை எப்போதும் சரிபார்க்கவும்."
 
 lang: "ta"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ festivalFacts:
   when: "தமிழ் மாதமான தை — ஆண்டுதோறும் ஜனவரி பிற்பகுதி அல்லது பிப்ரவரி வாக்கில்; சரியான தேதி தமிழ் நாட்காட்டியைப் பின்பற்றுகிறது."
   holiday: "இதை அரசிதழில் அறிவிக்கும் மாநிலங்கள் மற்றும் கூட்டரசுப் பிரதேசங்களில் மட்டுமே (Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor மற்றும் Kedah உள்ளிட்டவை) பொது விடுமுறை — நாடு முழுவதற்குமான கூட்டரசு விடுமுறை அல்ல."
   etiquette: "இந்துக்கள் அல்லாதவர்கள் ஊர்வலங்களையும் படியேற்றத்தையும் பார்வையிட வரவேற்கப்படுகிறார்கள்; கோயிலுக்கு அருகில் அடக்கமான உடை அணியவும், தேவைப்படும் இடங்களில் காலணிகளைக் கழற்றவும், காவடி சுமக்கும் பக்தர்களைப் புகைப்படம் எடுப்பதற்கு முன் அனுமதி கேட்கவும்."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'தைப்பூசத்தின்போது, உயர்ந்த சுண்ணாம்புக்கல் பாறைகளுக்குக் கீழே அலங்கார குகைக் கோயில் சன்னதி நோக்கி, Batu Caves-ன் வானவில் வர்ணம் தீட்டிய படிக்கட்டுகளில் ஏறும் பக்தர்கள்'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: தைப்பூசத்தின் போது பத்து மலை (பத்து குகைகள்) நடைபாதையை நிரப்பிய அடர்த்தியான யாத்ரீகர் கூட்டம், உயர்ந்த தங்க நிற முருகன் சிலைக்கும் காடடர்ந்த சுண்ணாம்புக்கல் மலைகளுக்கும் கீழே நிற்கிறது
+    kind: actual
+    origin: third-party
+    subject: பத்து மலையில் தங்க நிற முருகன் சிலைக்குக் கீழே கூடியிருக்கும் தைப்பூச யாத்ரீகர் கூட்டம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: பேராக், இப்போவில் வண்ணமயமான இந்துக் கோயில் கோபுரத்திற்கு முன்னால், மணிகள் தொங்கும் காவடிக் கம்பத்தைத் தோளில் சுமந்து, வெள்ளிப் பால்குடம் ஏந்திச் செல்லும் தைப்பூச பக்தரை பின்னால் இருந்து காணப்படுகிறது
+    kind: actual
+    origin: third-party
+    subject: இப்போவில் நடந்த தைப்பூச ஊர்வலத்தில் பால்குடம் சுமந்து செல்லும் காவடி ஏந்தியவர்
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 விடியலுக்கு முன்பே, கோலாலம்பூரின் (Kuala Lumpur) வடக்கு விளிம்பில் உள்ள ஒரு சுண்ணாம்புக்கல் மலை ஒலியால் நிறைகிறது — மேளங்கள், மந்திரங்கள், கல்லின் மீது நூறாயிரக்கணக்கான வெறுங்கால்களின் நகர்வு. 272 படிக்கட்டுகள் கொண்ட ஒரு படிக்கட்டின் அடிவாரத்தில் பதினான்கு மாடிக் கட்டிடத்தைவிட உயரமான ஒரு தங்க நிற உருவம் நிற்கிறது. ஏற்றம் தொடங்கிவிட்டது, அது ஒரு நாளின் பெரும்பகுதிக்கு நிற்காது.

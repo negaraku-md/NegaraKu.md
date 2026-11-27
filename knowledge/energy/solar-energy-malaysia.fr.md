@@ -31,7 +31,7 @@ faq:
     a: "La Commission de l'énergie (Suruhanjaya Tenaga) est le principal régulateur. La SEDA Malaisie met en œuvre le NEM, tandis que le Single Buyer (sous l'égide de TNB) coordonne les programmes de marché tels que CGPP, CRESS et CREAM."
 
 lang: "fr"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,9 +90,36 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
-related: []
+related: ["seda-malaysia", "energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition"]
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'Une longue installation solaire flottante de panneaux photovoltaïques bleus sur une passerelle couverte s''étendant à travers un lac de campus calme, avec des bâtiments et de la verdure derrière'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: Longues rangées de panneaux solaires inclinés montés au sol s'étendant sur un terrain défriché, avec la forêt tropicale à l'horizon sous un ciel voilé
+    kind: actual
+    origin: third-party
+    subject: rangées de panneaux solaires photovoltaïques montés au sol dans une ferme solaire près de Bukit Merah, en Malaisie
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: Un auvent à ossature d'acier couvert de panneaux solaires à côté d'un panneau de projet solaire-hybride du gouvernement malaisien, dans une école rurale de Sabah, avec des voitures garées et des poules au premier plan
+    kind: actual
+    origin: third-party
+    subject: une installation d'énergie solaire-hybride rurale dans une école de Sabah, en Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 Les panneaux solaires sur le toit d'une maison sont devenus une décision financière étroitement liée à la politique gouvernementale en Malaisie. Mais « passer au solaire » signifie quelque chose de très différent pour un propriétaire à Ipoh par rapport à une usine à Pasir Gudang ou à un centre de données qui veut une énergie 100 % verte. Chaque groupe de consommateurs a son propre dispositif.

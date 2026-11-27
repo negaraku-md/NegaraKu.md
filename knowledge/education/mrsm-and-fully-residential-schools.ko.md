@@ -29,7 +29,7 @@ faq:
     a: "신청은 교육부 포털을 통해 온라인으로 이루어지며, 학생은 학업 성취와 교과외 활동과 더불어 특수학교 입학 평가(PKSK)로 선발됩니다."
 
 lang: "ko"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: '조호르주 Maktab Rendah Sains MARA(MRSM) Batu Pahat의 입구와 간판으로, 말레이시아 전원 기숙 이과 학교이며 정문을 따라 국기와 주기가 늘어서 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: 시골길 옆에 자리한 마라 주니어 과학대학(MRSM) 그멘체의 입구 표지판과 정문
+    kind: actual
+    origin: third-party
+    subject: 마라 주니어 과학대학(MRSM) 그멘체의 정문
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: 믈라카주에 있는 말레이시아 전원 기숙학교의 캠퍼스 건물과 부지 전경
+    kind: actual
+    origin: third-party
+    subject: 전원 기숙학교 캠퍼스, 통합 전원 기숙학교(SBPI) 믈라카
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 말레이시아 가정이 자녀를 위한 「최고의」 기숙학교를 이야기할 때 두 이름이 자주 등장합니다. MRSM과 SBP입니다. 둘 다 선발제 전기숙 칼리지이고, 둘 다 치열하게 경쟁해 들어가야 하지만, 이들은 서로 다른 두 기구가 서로 다른 두 정책 임무 아래 운영합니다.

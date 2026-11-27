@@ -18,7 +18,7 @@ keyTakeaways:
   - "Los órganos consultivos de la UNESCO lo describen como la montaña más alta entre el Himalaya y Nueva Guinea, y alberga unas 5,000-6,000 especies de plantas vasculares, incluidas aproximadamente 1,000 especies de orquídeas"
 appliesTo: "Lectores que quieran la altitud verificada y el estatus de área protegida del Monte Kinabalu, y una explicación sencilla de por qué una montaña de granito en Sabah es geológicamente tan joven."
 lang: "es"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,32 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'La amplia corona de granito gris de la cima del monte Kinabalu, con su cresta salpicada de agujas dentadas, alzándose sobre verdes colinas boscosas y una hilera de árboles bajo un cielo azul despejado.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: La aguja desnuda y dentada de granito gris del Pico Low, el punto más alto del monte Kinabalu, que se eleva abruptamente contra un cielo despejado sobre la árida meseta de la cumbre.
+    kind: actual
+    origin: third-party
+    subject: El Pico Low (4.095 m), la cumbre del monte Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: Primer plano de la jarra redondeada y profundamente acanalada de color rojo anaranjado de la planta carnívora Nepenthes villosa, con la boca bordeada por un reborde dentado, que crece en el bosque brumoso de las tierras altas del Parque de Kinabalu.
+    kind: actual
+    origin: third-party
+    subject: Nepenthes villosa, una planta carnívora de jarra endémica de las tierras altas del monte Kinabalu, en el Parque de Kinabalu
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 Durante décadas, cada libro de referencia daba el mismo número: el Monte Kinabalu, la cima más alta de Malasia, se alzaba 4,101 metros sobre el nivel del mar. Luego, en 1997, un equipo de topografía apuntó satélites hacia la cumbre en lugar de teodolitos, y el número cambió. No por un error de redondeo — por seis metros. La montaña no había encogido. La medición antigua simplemente había estado equivocada, y nadie había tenido la herramienta para demostrarlo hasta que el GPS hizo posible la corrección.

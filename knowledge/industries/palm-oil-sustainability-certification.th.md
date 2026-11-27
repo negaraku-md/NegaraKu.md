@@ -31,7 +31,7 @@ faq:
     a: "หลังการเลื่อนสองครั้ง มันใช้กับผู้ดำเนินการรายใหญ่และรายกลางตั้งแต่วันที่ 30 December 2026 และกับวิสาหกิจขนาดจิ๋วและขนาดเล็กตั้งแต่วันที่ 30 June 2027 วันตัดของการตัดไม้ทำลายป่าคือวันที่ 31 December 2020"
 
 lang: "th"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'สวนปาล์มน้ำมันที่เป็นระเบียบและบริหารจัดการดีทอดข้ามพื้นที่สีเขียวลูกคลื่นใต้ท้องฟ้าสดใสในอำเภอเมอร์ซิง รัฐยะโฮร์'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: คนงานในสวนสองคนสวมรองเท้าบูทยืนอยู่ข้างต้นปาล์มน้ำมัน คนหนึ่งถือทะลายปาล์มที่เพิ่งตัดบนเคียวเก็บเกี่ยว ในเมือง Kimanis รัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: คนงานสวนปาล์มกับทะลายปาล์มสดที่เก็บเกี่ยวได้บนสวนปาล์มน้ำมันในเมือง Kimanis รัฐซาบะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: ต้นกล้าปาล์มน้ำมันเรียงเป็นแถวอย่างเป็นระเบียบเติบโตในถุงพลาสติกสีดำที่เรือนเพาะชำของสวนในเมือง Sungai Mangis รัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: ต้นกล้าปาล์มน้ำมันที่เพาะในถุงพลาสติกที่เรือนเพาะชำเชิงพาณิชย์ในเมือง Sungai Mangis รัฐซาบะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 การขนส่งน้ำมันปาล์มมาเลเซียเพียงครั้งเดียวปัจจุบันต้องตอบกฎสามชุดที่ต่างกันพร้อมกัน: โครงการระดับชาติภาคบังคับที่บ้าน สโมสรผู้ซื้อแบบสมัครใจในห้องประชุม และกฎหมายการตัดไม้ทำลายป่าของยุโรปที่สามารถกักมันที่ท่าเรือได้ สำหรับอุตสาหกรรมที่ส่งน้ำมันปาล์มและผลิตภัณฑ์จากปาล์ม 22.30 ล้านตันในสิบเดือนแรกของปี 2024 เพียงอย่างเดียว — สร้างรายได้ RM89.39 พันล้าน — เอกสารไม่ได้เป็นเพียงพิธีการอีกต่อไป มันคือการเข้าถึงตลาด

@@ -30,7 +30,7 @@ faq:
     a: "أشار الفيفا إلى المادة 22 من اللائحة التأديبية للفيفا المتعلقة بتزوير وثائق تأهيل اللاعبين وتجنيسهم."
 
 lang: "ar"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["التجنيس", "لاعبو الأصول", "FAM", "FIFA", "CAS", "Harimau Malaya", "وثائق مزورة", "المادة 22", "كأس آسيا 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'حشد أصفر غفير من مشجعي هاريماو مالايا يملأ ملعب بوكيت جليل الوطني تحت لوحة النتائج التي تحمل شعار النمر الماليزي.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: حارس المرمى الماليزي Wong Kam Fook أثناء تصديه لمهاجم من ألمانيا الغربية خلال مباراة ماليزيا في كرة القدم بدورة Olympics الصيفية 1972.
+    kind: actual
+    origin: third-party
+    subject: منتخب ماليزيا الوطني لكرة القدم يواجه ألمانيا الغربية في دورة Olympics الصيفية 1972
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: منظر من المدرّجات داخل Shah Alam Stadium خلال مباراة لمنتخب ماليزيا الوطني لكرة القدم في بطولة AFF Championship 2014.
+    kind: actual
+    origin: third-party
+    subject: المنظر الداخلي لـ Shah Alam Stadium خلال مباراة لمنتخب ماليزيا الوطني لكرة القدم
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 ارتدى سبعة لاعبين مولودين خارج البلاد قميص نمور مالايا (Harimau Malaya) في يونيو 2025. وبعد أقل من عام، أكّدت أعلى هيئة تحكيم رياضي في العالم أن الوثائق التي أهّلتهم للعب لماليزيا قد زُوِّرت. وأطلقت القضية سلسلةً من الإجراءات التأديبية للفيفا، واستئنافًا أمام محكمة التحكيم الرياضية (CAS)، وبلاغًا للشرطة في ماليزيا.

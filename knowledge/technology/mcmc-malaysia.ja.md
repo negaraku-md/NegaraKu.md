@@ -33,7 +33,7 @@ faq:
     a: "はい。DNBは1998年通信・マルチメディア法のもとで免許を受けており、MCMCの監督下にある。単一卸売ネットワークモデルは終了した。政府は2023年にデュアルネットワークモデルへの移行を決定し、U Mobileが第2の5Gネットワークとして選定された（2026年1月に開始）。MCMCは両方のネットワークを規制している。"
 
 lang: "ja"
-sourceContentHash: "5e417b42cf91ed1a"
+sourceContentHash: "304ac686ae9ba86c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,34 @@ relations:
   - { rel: "governs", to: "digital-nasional-berhad" }
 related: ["online-safety-act-malaysia"]
 keywords: ["MCMC", "SKMM", "Akta Komunikasi dan Multimedia 1998", "Akta 588", "Akta 589", "lesen kelas", "spektrum", "JENDELA", "Digital Nasional Berhad", "5G"]
+hero: '/media/technology/mcmc-malaysia/hero.webp'
+heroAlt: 'マレーシアのサイバージャヤのシャフツベリー・スクエアの近代的なガラスのオフィスタワーと商業建物'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shaftsburry_Square_Cyberjaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Office towers at Shaftsbury Square in Cyberjaya, the corporate district where MCMC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-1.webp
+    alt: サイバージャヤにある近代的なテックビル、Telekom Malaysia研究開発オフィスビル
+    kind: representative
+    origin: third-party
+    subject: サイバージャヤにあるTelekom Malaysia研究開発（TMR&D）オフィスビル — MCMCが規制する回廊内の通信分野のビル
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg
+  - role: scene
+    src: /media/technology/mcmc-malaysia/body-2.webp
+    alt: 緑の公園の上に住宅と高層オフィスビルがそびえるサイバージャヤのスカイライン
+    kind: representative
+    origin: third-party
+    subject: マレーシアの通信・マルチメディアの拠点、サイバージャヤのスカイライン
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skylines_of_Cyberjaya_(221225)_01.jpg
 ---
 
 あなたの携帯電話が4Gから5Gへ切り替わるたび、自宅のWi-Fiに接続するたび、あるいは衛星アンテナを設置するたびに、その活動はたったひとつの機関が管理する法的枠組みの中で動いている——それがMCMCだ。誰がネットワークを構築できるか、誰がその上でサービスを販売できるか、そしてどの無線周波数を使用できるかを、MCMCが定める。

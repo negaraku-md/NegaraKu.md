@@ -27,7 +27,7 @@ faq:
   - q: "¿De dónde proviene el arroz importado de Malasia?"
     a: "El grueso de las importaciones proviene de Vietnam, Tailandia, Pakistán, India y Myanmar, según BERNAS."
 lang: "es"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -98,9 +98,36 @@ sources:
     publisher: "Padiberas Nasional Berhad (BERNAS)"
 entity: "Padi and rice industry in Malaysia"
 relations: []
-related: []
+related: ["food-security-self-sufficiency-policy", "agricultural-subsidies-farm-input-support", "ministry-of-agriculture-food-security-and-agencies"]
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'Arrozales de un verde brillante a ambos lados de una estrecha acequia de riego inundada que avanza recta hacia un horizonte brumoso'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: Campo de arroz madurando con un espantapájaros de tela en un poste, colinas boscosas y casas de aldea detrás bajo un cielo azul despejado
+    kind: actual
+    origin: third-party
+    subject: arrozal dorado-verde madurando con un sencillo espantapájaros, con colinas calizas boscosas y un kampung de fondo en Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: Pequeño grupo de personas en un sendero de hierba entre amplios arrozales de un verde brillante bajo un cielo nublado
+    kind: actual
+    origin: third-party
+    subject: visitantes caminando por un dique entre vívidos arrozales verdes en Sekinchan, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 El arroz es el único alimento que Malasia se niega a dejar en manos del libre mercado. El Estado concentra dónde se cultiva, amortigua a los agricultores que lo cultivan, autoriza a una sola empresa a importar el déficit y mantiene una reserva de emergencia frente a las sacudidas del suministro. Sin embargo, tras décadas de este arreglo, el país todavía cultiva solo alrededor de la mitad del arroz que consume.

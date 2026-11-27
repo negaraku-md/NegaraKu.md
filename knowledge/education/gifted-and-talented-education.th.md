@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar คือหลักสูตรเตรียมเข้ามหาวิทยาลัยของ UKM สำหรับนักเรียนปัญญาเลิศ เสนอเป็นสามสายคือ Perdana, Komersial และ Antarabangsa"
 
 lang: "th"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'บันไดภายนอกและทางเข้าของอาคารที่สลักคำว่า "PUSAT SUMBER PERMATAPINTAR" ซึ่งเป็นศูนย์ทรัพยากรของโครงการการศึกษาผู้มีความสามารถพิเศษแห่งชาติมาเลเซีย (PERMATApintar)'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: นักเรียนนั่งอยู่หน้าคอมพิวเตอร์ตั้งโต๊ะที่เรียงเป็นแถวระหว่างคาบเรียนในห้องคอมพิวเตอร์ของโรงเรียนมัธยมในมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: นักเรียนกำลังเรียนในห้องคอมพิวเตอร์ของโรงเรียนมาเลเซีย
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: ห้องปฏิบัติการวิจัยในมหาวิทยาลัยเทคโนโลยีมาเลเซีย (UTM) รัฐยะโฮร์ ที่ติดตั้งยานพาหนะและเครื่องมือ ซึ่งเป็นสิ่งอำนวยความสะดวกขั้นสูงประเภทที่ท้าทายศักยภาพผู้เรียนความสามารถสูง
+    kind: representative
+    origin: third-party
+    subject: ห้องปฏิบัติการวิศวกรรมขั้นสูงที่มหาวิทยาลัยเทคโนโลยีมาเลเซีย (UTM)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 เด็กอายุ 10 ปีที่ทำโจทย์คณิตศาสตร์ระดับมัธยมปีที่ 5 ได้ไม่ได้โดดเด่นเสมอไปในชั้นเรียนทั่วไป — และในมาเลเซีย ศูนย์แห่งชาติเพียงแห่งเดียวที่ออกแบบมาเพื่อค้นหาและขัดเกลาสติปัญญาเช่นนี้คือ PERMATApintar

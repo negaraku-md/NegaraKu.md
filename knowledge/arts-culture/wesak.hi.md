@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में हर व्यक्ति — बौद्ध हो या न हो — जो इस बात का एक सरल, सटीक विवरण चाहता है कि वेसाक दिवस क्या है, यह कब पड़ता है, और इसे कैसे मनाया जाता है, जिसमें सार्वजनिक-अवकाश की तिथि जाँचने वाले नियोक्ता और कर्मचारी भी शामिल हैं।"
 
 lang: "hi"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,34 @@ festivalFacts:
   when: "चंद्र महीने Vesakha की पूर्णिमा का दिन — आम तौर पर अप्रैल या मई; चूँकि यह चंद्र पंचांग का अनुसरण करता है, इसकी ग्रेगोरियन तारीख हर वर्ष बदलती है।"
   holiday: "सभी राज्यों और संघीय क्षेत्रों में एक राष्ट्रीय सार्वजनिक अवकाश, जिसे पहली बार 1962 में सार्वजनिक अवकाश घोषित किया गया; Employment Act 1955 के अंतर्गत, यदि यह किसी विश्राम दिवस पर पड़े तो एक प्रतिस्थापित सवेतन अवकाश लागू होता है।"
   etiquette: "अनुष्ठान मंदिर पर केंद्रित होता है; कई श्रद्धालु उस दिन श्वेत वस्त्र पहनते हैं और शाकाहारी आहार रखते हैं, और सबसे प्रसिद्ध सार्वजनिक आयोजन कुआलालंपुर की Wesak झाँकी यात्रा है जो Brickfields के बौद्ध Maha Vihara से निकलती है, जिसे श्रद्धालुओं और दर्शकों की बड़ी भीड़ देखती है।"
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'आलोर सेतार में वेसाक दिवस के दौरान एक छत के नीचे एक उत्सव रथ पर चटख नारंगी, नीले और सुनहरे आभामंडल के सामने पीली गेंदे की मालाओं से लिपटी एक सुनहरी बैठी बुद्ध प्रतिमा, सफ़ेद, पीले और गुलाबी गुलदाउदी के ढेरों से घिरी'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: फ़िरोज़ी, नींबू-हरे, गुलाबी और सफ़ेद रंग की छोटी लटकती लालटेनों की एक लंबी कतार, हर एक में एक जलती मोमबत्ती और शुभकामनाओं की एक गुलाबी काग़ज़ी पर्ची, एक मलेशियाई वेसाक दिवस समारोह में एक तंबू के नीचे टँगी हुई, पीछे आगंतुक चलते हुए
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के अलोर सेतार में एक वेसाक दिवस समारोह में शुभकामना-पर्चियों के साथ रंगीन भक्तों की आशीर्वाद-लालटेनों की कतारें
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: गुलाबी और पीले कपड़े से ढँकी मेज़ों पर करीने की कतारों में रखे सैकड़ों छोटे जलते कमल-आकार के मोमबत्ती-दीपक, एक तंबू के अंदर एक चित्रित नीले-आकाश पृष्ठभूमि के सामने फूलों से घिरी एक छोटी बुद्ध प्रतिमा तक जाते हुए
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के अलोर सेतार में वेसाक दिवस पर एक बुद्ध प्रतिमा के सामने सैकड़ों जलते कमल मोमबत्ती-दीपकों वाली एक भक्ति-वेदी
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 पूछिए कि वेसाक दिवस कब पड़ता है और कोई निश्चित उत्तर नहीं है — यह बदलता रहता है। 2026 में यह 31 मई को पड़ता है, 2027 में 20 मई को, 2028 में 9 मई को। कारण सरल है: वेसाक चंद्रमा द्वारा तय होता है, किसी पंचांग-तिथि से नहीं, और चांद्र तथा ग्रेगोरियन पंचांग हर वर्ष एक-दूसरे के सापेक्ष खिसकते रहते हैं।

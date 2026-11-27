@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,32 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: '病院の戸口の標識で、「Palliative Medicine Family Conference Room（緩和医療 家族相談室）」と記された、緩和ケアの中立的で非描写的な表現である。'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: 庭に面した低層のホスピス。旗ざおと静かな車寄せがあり、穏やかなホスピスケア施設を表している
+    kind: representative
+    origin: third-party
+    subject: 晴れた空の下、庭に囲まれた静かな平屋建てのホスピスケア施設
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: ガラス張りのポーチと植え込みのある近代的な病院の緩和ケア病棟の入口。専門的な緩和ケアの場を表している
+    kind: representative
+    origin: third-party
+    subject: 緩和ケア専用病棟の庭側の入口
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 治療がもはや治癒を目的としなくなったとき、焦点は一つのことに移る——患者が快適で尊厳を保てるようにすることだ。それが緩和ケアの核心である——そしてマレーシアでは、三つの異なる経路を通じてこれにアクセスできる。

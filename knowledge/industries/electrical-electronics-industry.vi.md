@@ -34,7 +34,7 @@ faq:
     a: "Các tên toàn cầu như Intel, AMD, Broadcom, Bosch và OSRAM hoạt động ở đây, cùng với các nhà sản xuất theo hợp đồng (EMS) như Jabil, Flex, Plexus, Sanmina và Benchmark, và các hãng nội địa bao gồm Inari Amertron."
 
 lang: "vi"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Cận cảnh một bảng mạch in màu xanh lá chật kín những tụ điện màu cam sáng, tụ điện phân hình trụ, chip mạch tích hợp màu đen và điện trở có vạch màu'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: Một bàn tay cầm mỏ hàn và nhíp mảnh đang làm việc trên một linh kiện gắn bề mặt nhỏ xíu trên một bo mạch in màu xanh lá dày đặc chip và đường mạch
+    kind: representative
+    origin: third-party
+    subject: Một bàn tay dùng nhíp mảnh và mỏ hàn để sửa lại một linh kiện gắn bề mặt trên bo mạch
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: Một bo mạch in màu xanh lá chụp từ trên thẳng xuống, gắn đầy nhiều chip mạch tích hợp màu đen có nhãn, các gói bộ nhớ và các hàng linh kiện gắn bề mặt nhỏ
+    kind: representative
+    origin: third-party
+    subject: Góc nhìn từ trên xuống của một bo mạch in điện tử tiêu dùng đã lắp ráp hoàn chỉnh
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 Mở gần như bất kỳ chiếc laptop, điện thoại thông minh hay ô tô nào được chế tạo trong thập kỷ qua và có một khả năng đáng kể rằng một phần của nó đã đi qua Malaysia. Con chip bên trong có thể đã được kiểm tra và đóng gói ở Penang; bộ chuyển đổi nguồn, đèn nền LED hay bảng mạch có thể đã được lắp ráp ở Kulim, Melaka hay Thung lũng Klang. Đối với một quốc gia khoảng 34.1 triệu người (2024, DOSM), Malaysia ngồi ở một điểm trung tâm đáng ngạc nhiên trong chuỗi cung ứng điện tử của thế giới — và đó gần như hoàn toàn là câu chuyện của một ngành.

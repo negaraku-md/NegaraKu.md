@@ -33,7 +33,7 @@ faq:
     a: "चिंगमिंग वर्ष भर में यीशान का सबसे व्यस्त दिन है। चिंगमिंग के आसपास लगभग दस दिनों में, चीनी परिवार प्रायः पूरे परिवार के साथ यीशान जाकर कब्र-सफाई करते और पूर्वजों को सम्मान देते हैं — खरपतवार हटाना, समाधि-शिला साफ़ करना, फीके पड़े उकेरे अक्षरों को फिर से रंगना, और भेंट सजाना। क्वांगदोंग में कब्र-सफाई को आम बोली में 'बाई शान' (拜山, पहाड़ पर सम्मान देना) कहते हैं, और यह अभिव्यक्ति भी प्रवासियों के साथ नानयांग क्षेत्र में पहुँची। हाल के वर्षों में कुछ यीशान प्रबंधन सरल, पर्यावरण-अनुकूल तरीके और कचरे के समुचित निपटान को बढ़ावा देते हैं, और कुछ परिवार अब कक्ष-दर्शन या ऑनलाइन स्मरण के ज़रिये यह दिन मनाते हैं।"
 
 lang: "hi"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'मेलाका की बुकित चीना कब्रिस्तान पहाड़ी पर पेड़ों के बीच घास वाले टीले में बना एक बड़ा घोड़े की नाल के आकार का चीनी मकबरा, जिस पर सुनहरे शिलालेख और नक्काशीदार बगल के पैनल हैं।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: सरवाक के एक घासदार कब्रिस्तान में शिलालेखों और वेदियों के साथ टाइलदार ओमेगा-आकार की चीनी कब्रों की पंक्तियाँ
+    kind: actual
+    origin: third-party
+    subject: सरवाक के कुचिंग के पास एक चीनी कब्रिस्तान में टाइलदार घोड़े की नाल के आकार की चीनी कब्रें
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: Qingming कब्र-सफ़ाई उत्सव के दौरान एक शिलालेख के पास घासदार कब्र के टीले पर बिछाई गई रंगीन कागज़ की पट्टियाँ
+    kind: representative
+    origin: third-party
+    subject: बुकित ब्राउन कब्रिस्तान में Qingming (कब्र-सफ़ाई) के दौरान एक कब्र के टीले पर दबाए गए रंगीन कागज़
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 चिंगमिंग के आसपास, आकाश पूरी तरह उजला होने से पहले ही, मलक्का की बुकित चीना की तलहटी खड़ी गाड़ियों से भर जाती है। एक के बाद एक परिवार ताज़े फूल, अगरबत्ती, मोमबत्तियाँ और भेंट लिए उबड़-खाबड़ ढलानों पर अपने पूर्वजों की कब्रों की ओर चढ़ते हैं। कुछ लोग पहले कब्र के पास 'होउतू' अक्षर उकेरी एक छोटी पत्थर की कोठरी पर अगरबत्ती चढ़ाते हैं, फिर पलटकर पूर्वज की समाधि-शिला की देखभाल करते हैं — खरपतवार हटाते, फीके पड़े उकेरे अक्षरों को फिर से रंगते, और भेंट सजाते हैं। ढलान पर घनी, एक ही दिशा में मुख किए कब्रें, दक्षिण की ओर आए पीढ़ी-दर-पीढ़ी चीनियों का विश्राम-स्थल हैं।

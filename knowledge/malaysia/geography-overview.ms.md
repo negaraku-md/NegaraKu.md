@@ -20,7 +20,7 @@ appliesTo: "Sesiapa yang cuba memahami mengapa populasi, bandar dan risiko banji
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,32 @@ faq:
   - q: Mengapa kebanyakan rakyat Malaysia tinggal berhampiran pantai berbanding pedalaman?
     a: Setiap jisim daratan didominasi oleh tulang belakang gunung di tengah — Banjaran Titiwangsa di Semenanjung, Banjaran Crocker di Sabah — yang diapit hanya oleh dataran pantai yang sempit. Tanah tinggi itu menolak penempatan keluar ke dataran pantai dan lembah sungai, meninggalkan pedalaman bergunung yang kurang penduduk. Dataran pantai barat Semenanjung yang terlindung, ditenangkan oleh Selat Melaka, menampung kebanyakan penduduknya dan bandar-bandar terbesar seperti Kuala Lumpur dan George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'Pemandangan udara dataran pantai tropika tempat sungai berliku mengalir ke laut, dengan pekan dan petak ladang terbentang ke pedalaman serta tanah tebus guna pucat di pinggir pantai di bawah awan berselerak.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: Cenuram karst batu kapur kelabu yang curam berselaput hutan menjulang terus dari sebuah tasik zamrud yang tenang, dengan permukaannya terbayang pada air yang gelap.
+    kind: actual
+    origin: third-party
+    subject: Cenuram karst batu kapur di Tasik Cermin, Ipoh, Perak
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: Sebuah teluk kecil berpasir putih yang dipagari pokok kelapa dan chalet kayu bertemu air pirus yang jernih di sebuah pulau tropika kecil.
+    kind: actual
+    origin: third-party
+    subject: Pantai tropika di Pulau Perhentian Kecil, Terengganu
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 Terbang ke Kuala Lumpur dari Kota Kinabalu dan anda melintasi lebih daripada sekadar sempadan dalaman — anda melintasi beberapa ratus kilometer laut terbuka. Malaysia adalah satu negara yang disatukan merentasi dua daratan yang berasingan, dan hakikat bentuk muka bumi yang mudah ini telah senyap-senyap menentukan hampir segala-galanya yang lain: di mana bandar-bandar berada, di mana sawah padi berada, dan pantai mana yang dilanda banjir setiap bulan Disember.

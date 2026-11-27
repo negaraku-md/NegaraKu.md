@@ -33,7 +33,7 @@ faq:
     a: "Conformément à la tendance mondiale du secteur de la presse, la diffusion papier de la presse chinoise de Malaisie a globalement reculé au cours des deux dernières décennies, les lecteurs — en particulier les jeunes générations — s'informant de plus en plus par le téléphone mobile et internet. Les journaux ont donc développé des plateformes numériques telles que des sites d'actualité, des éditions électroniques et des applications mobiles, une partie des contenus étant aussi diffusée sur les réseaux sociaux. La question de savoir si le papier disparaîtra totalement, et quand, reste incertaine, et cet article ne fait aucune prédiction."
 
 lang: "fr"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'L''immeuble de bureaux blanc du journal de langue chinoise Sin Chew Daily à Miri, son nom affiché en anglais et en caractères chinois sur la façade et le mur du portail.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: Une des premières unes du quotidien chinois de Penang Kwong Wah Yit Poh, titrée en caractères chinois et en anglais, disposée parmi d'autres pages de journaux chinois anciens.
+    kind: actual
+    origin: third-party
+    subject: Une de Kwong Wah Yit Poh, le plus ancien quotidien en langue chinoise de Malaisie (Penang)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: Un bureau de Nanyang Siang Pau à Johor Bahru, dont la façade porte le nom du journal en caractères chinois verts et en lettres latines au-dessus d'une devanture.
+    kind: actual
+    origin: third-party
+    subject: Les bureaux du journal Nanyang Siang Pau avec l'enseigne de sa manchette, Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 Au kopitiam (café) de bon matin, un journal chinois déplié voisine souvent avec une tasse de café. Le lecteur parcourt les grandes nouvelles nationales et internationales de la une, puis se dirige en général droit vers les pages qu'il connaît le mieux : certains regardent d'abord, dans les nouvelles locales, quelle école primaire chinoise a encore organisé une vente de charité ; d'autres feuillettent le supplément littéraire et la page d'opinion ; et d'autres ne cherchent que les avis de décès, les petites annonces et les résultats de la loterie. Pour beaucoup de Chinois de Malaisie, le journal chinois n'est pas seulement de l'information, mais aussi une habitude quotidienne de lecture en chinois.

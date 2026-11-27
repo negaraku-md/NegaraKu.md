@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 
 status: "published"
 aiAssisted: true
@@ -98,9 +98,42 @@ sources:
 
 entity: "Sipadan"
 wikidata: "Q1412482"
-related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
+related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'உலகத் தரம் வாய்ந்த ஆழ-சுவர் டைவிங்கைத் தேடும் சான்றளிக்கப்பட்ட ஸ்கூபா டைவர்களுக்கு ஏற்றது — மலேசியாவின் ஒரே கடல்சார் தீவுக்கு அப்பால் ஆமைகள், பாரகூடா சுழல்கள் மற்றும் பவளப்பாறை சுறாக்கள்.'
+  getThere: 'Tawau Airport-க்குப் பறந்து, நுழைவாயில் நகரான Semporna-க்கு சாலை வழியாகச் சென்று, பின்னர் தீவுகளுக்கும் டைவ் தளங்களுக்கும் படகில் செல்லுங்கள்.'
+  permit: 'Sipadan-இல் டைவிங் செய்ய Sabah Parks அனுமதிச்சீட்டு தேவை, ஒவ்வொரு நாளும் வழங்கப்படும் எண்ணிக்கை கண்டிப்பாக வரம்பிடப்பட்டு உரிமம் பெற்ற டைவ் இயக்குநர்கள் மூலம் மட்டுமே ஒதுக்கப்படுகிறது — நன்கு முன்பே முன்பதிவு செய்யுங்கள்.'
+  watch: 'கிழக்கு Sabah-இன் தீவுகள் நியமிக்கப்பட்ட பாதுகாப்பு மண்டலத்தில் (ESSZONE) அமைந்துள்ளன, அனுமதிச்சீட்டுகள் ஒருபோதும் உத்தரவாதம் அளிக்கப்படுவதில்லை, மேலும் பாதுகாப்பு வரம்புகள் (வருடாந்திர மூடல் உட்பட) பொருந்தும் — தகவல் பெற்றுப் பயணியுங்கள், தற்போதைய அதிகாரப்பூர்வ ஆலோசனையைச் சரிபார்க்கவும்.'
+  next: 'தற்போதைய Sipadan அனுமதிச்சீட்டு வரம்பு, கட்டணங்கள் மற்றும் ஏதேனும் பாதுகாப்பு மூடலை Sabah Parks அல்லது உங்கள் உரிமம் பெற்ற டைவ் இயக்குநருடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Sabah Semporna அருகே Tun Sakaran Marine Park-ல், மேகம் புள்ளியிட்ட பிரகாசமான வானத்திற்குக் கீழே பச்சை தீவுகளால் சூழப்பட்ட துடிப்பான துருக்கிநீல பவளப்பாறை நீர்நிலையின் வான்வழிக் காட்சி'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: கீழிருந்து பார்த்தபடி, சூரிய ஒளி படர்ந்த பசுமையான நீரின் வழியே மேலே நீந்தும் பச்சைக் கடல் ஆமை
+    kind: actual
+    origin: third-party
+    subject: Sipadan-ஐச் சுற்றிய டைவிங்கின் தனிச்சிறப்பு காட்சிகளில் ஒன்றான, பிரகாசமான பசுமையான நீரின் வழியே மெதுவாக நகரும் ஒரு பச்சைக் கடல் ஆமை
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Sipadan-இல் டைவிங் செய்யும்போது நீல நீரின் வழியே சூரியக் கதிர்கள் ஊடுருவ, ஒரு பவளப்பாறைக்கு அருகில் சுழலும் பிரமாண்டமான வெள்ளி மீன் கூட்டம்
+    kind: actual
+    origin: third-party
+    subject: உலகின் சிறந்த டைவிங் தளங்களில் ஒன்றான Sipadan-இல் ஒரு டைவின்போது பவளத்திற்கு மேலாக அடர்த்தியான பாறை மீன் கூட்டம் மற்றும் சூரியக் கதிர்கள்
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 செலிபிஸ் கடலின் தரையிலிருந்து நேராக அறுநூறு மீட்டர் எழும் ஒரு பவளம் மூடிய ஒற்றைச் சிகரம், ஆமைகளாலும் barracuda சூறாவளிகளாலும் சுழலும் — சிபாடான்தான் தீவிர நீர்மூழ்குபவர்கள் கிழக்கு சபாவைத் தங்கள் பட்டியலில் வைக்கக் காரணம், மேலும் செம்போர்னா என்ற சிறிய நகரத்தைச் சுற்றி ஒரு முழு பயணப் பொருளாதாரம் வளரக் காரணம். ஆனால் இது நீங்கள் வெறுமனே வந்து நீர்மூழ்கக்கூடிய இடம் அல்ல. சிபாடான் ஒரு கண்டிப்பாகப் பாதுகாக்கப்பட்ட கடல் பூங்கா, ஒரு வரம்பிடப்பட்ட ஒரு நாளைய அனுமதிச் சீட்டுடன், தீவிலேயே தங்குமிடம் இல்லாமல், மேலும் சுற்றியுள்ள கடற்கரையில் முதல்-முறையினர் அமைதியாகவும் உண்மையாகவும் புரிந்துகொள்ள வேண்டிய ஒரு பாதுகாப்பு-மண்டலச் சூழலுடன். இந்த வழிகாட்டி நீர்மூழ்கலை உலகத் தரம் வாய்ந்ததாக ஆக்குவது எது, அனுமதிச் சீட்டும் ஒரு நாளைய வரம்பும் உண்மையில் எவ்வாறு இயங்குகின்றன, நீங்கள் எங்கே தங்குகிறீர்கள், சிபாடான் அருகிலுள்ள Tun Sakaran கடல் பூங்காவிலிருந்து எவ்வாறு வேறுபடுகிறது, இப்பகுதி யாருக்குப் பொருந்தும், மேலும் எப்போது செல்வது ஆகியவற்றை உள்ளடக்குகிறது.

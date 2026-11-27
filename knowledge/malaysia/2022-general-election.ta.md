@@ -66,6 +66,13 @@ sources:
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "2022 general election Malaysia", "hung parliament", "unity government", "Undi18"]
 framework: history-culture
+hero: '/media/malaysia/2022-general-election/hero.webp'
+heroAlt: 'வாக்களித்த பிறகு ஊதா நிற அழியாத மையால் கறைபட்ட வாக்காளரின் இடது சுட்டுவிரல்.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **வரைவு — உணர்திறன் வாய்ந்தது.** இக்கட்டுரை ஒரு நடுநிலையான, பணி

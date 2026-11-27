@@ -30,7 +30,7 @@ faq:
     a: "Có, nếu muốn dùng tính năng nạp lại NFC. Quy trình đăng ký liên quan đến việc xác minh danh tính (KYC) để số dư của thẻ được liên kết với tài khoản eWallet của bạn — điều này cũng mang lại một lớp bảo vệ bổ sung nếu thẻ bị mất, so với thẻ chưa đăng ký mà số dư có thể được dùng bởi bất kỳ ai tìm thấy nó."
 
 lang: "vi"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Các biển làn trên cao ghi "Touch ''n GO", "MyRFID" và "SmartTAG" đánh dấu các trạm thu phí không tiền mặt tại Trạm thu phí Gombak, với chữ "RFID" được sơn trên mặt đường.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: Một thẻ RFID dán kính chắn gió Touch 'n Go tại làn thu phí, với thanh chắn làn và giàn đầu đọc RFID phía trên cabin thu phí
+    kind: actual
+    origin: third-party
+    subject: thẻ RFID Touch 'n Go được đọc tại làn thu phí MyRFID ở Trạm thu phí Gombak, Selangor
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: Một hàng cổng soát vé tự động tại lối vào ga tàu, với đầu đọc thẻ trên mỗi cổng và sảnh trung tâm thương mại hiện ra phía xa
+    kind: representative
+    origin: third-party
+    subject: cổng soát vé tại ga LRT KLCC nơi quẹt các thẻ đi lại như Touch 'n Go
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 Nhiều người giữ một thẻ Touch 'n Go trong ví và ứng dụng Touch 'n Go eWallet trong điện thoại, rồi cho rằng cả hai là cùng một thứ với hai mặt. Không phải vậy. Số dư trong thẻ của bạn và số dư trong ứng dụng của bạn được lưu hoàn toàn tách biệt — nạp đầy cái này không thêm một sen nào cho cái kia. Hiểu lầm này là nguyên nhân thường gặp khiến xe kẹt lại tại cổng thu phí vì người lái tin chắc "tiền trong điện thoại là đủ", trong khi cái mà máy thu phí đọc là chiếc thẻ.

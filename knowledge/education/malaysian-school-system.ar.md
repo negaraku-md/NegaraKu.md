@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: 2026-10-26
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'منظر جوّي لمدرسة سكولاه مننغه كبانجسان سكسيين 3 بندر كينرارا، يُظهر فناء المدرسة المربّع المحاط بكتل الفصول الدراسية وملعبًا رياضيًا وحيًّا سكنيًّا.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: واجهة مبنى مدرسة ثانوية ماليزية بسارية علم وساحة أمامية.
+    kind: representative
+    origin: third-party
+    subject: مبنى مدرسة ثانوية وطنية ماليزية (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: مجموعة من طلاب مدرسة ثانوية ماليزية يرتدون زيّهم المدرسي المميّز في الهواء الطلق.
+    kind: representative
+    origin: third-party
+    subject: طلاب مدرسة ثانوية ماليزية بزيّهم المدرسي (سانداكان، صباح)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 بالنسبة لطفل ينشأ في ماليزيا، يحمل سؤال "أي مدرسة؟" معنى أكبر مما في كثير من البلدان. فهو جزئيًا عن المسافة والسمعة، كما في كل مكان — لكنه أيضًا اختيار بين مدرسة وطنية تدرّس أساسًا بلغة الملايو ومدرسة من النوع الوطني تدرّس بالصينية أو التاميلية. وكلتاهما جزء من النظام الحكومي نفسه، وتتبعان المنهج الوطني نفسه، وتؤديان إلى الامتحانات الوطنية نفسها. وفهم كيفية تلاؤم هذا النظام معًا هو الخطوة الأولى للتنقل فيه.

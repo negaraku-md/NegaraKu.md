@@ -31,7 +31,7 @@ faq:
   - q: "Le marché télécom de la Malaisie est-il encore en croissance ?"
     a: "La croissance des abonnés a largement atteint un plateau parce que le marché est proche de la saturation. La croissance future devrait venir de services à plus forte valeur ajoutée — 5G, mises à niveau de la fibre, connectivité d'entreprise et services numériques — plutôt que de l'inscription d'un grand nombre de nouveaux utilisateurs."
 lang: fr
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'Une tour de télécommunications cellulaire portant plusieurs antennes panneaux sur fond de ciel dégagé.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: Un grand stand d'exposition sombre portant en haut le logo et le nom de marque CelcomDigi éclairés et un panneau bleu lumineux indiquant CelcomDigi fibre, Ultra Smooth Low Latency, avec des visiteurs masqués rassemblés en dessous.
+    kind: actual
+    origin: third-party
+    subject: Un stand d'exposition CelcomDigi faisant la promotion du haut débit par fibre, illustrant la présence grand public d'un opérateur malaisien de mobile et de haut débit
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: Un long mur de serveurs informatiques montés en baie s'éloignant en biais, chaque niveau constellé de voyants d'état bleus scintillants sur les armoires métalliques sombres.
+    kind: representative
+    origin: third-party
+    subject: Des rangées d'équipements réseau et de serveurs scintillant de voyants bleus dans un centre de données, l'infrastructure qui sous-tend les réseaux de télécommunications
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 Presque tout le monde en Malaisie porte une connexion mobile, et la plupart des foyers disposent d'une forme de haut débit. Cela fait des télécommunications l'une des industries les plus importantes et les plus matures du pays — la plomberie invisible sous l'économie numérique, la banque en ligne, l'administration électronique et la vie quotidienne. Pourtant, derrière les noms de marque familiers se trouve un marché qui a profondément changé ces dernières années : moins d'opérateurs, de plus grandes fusions et une expérience nationale sur la façon de construire la 5G.

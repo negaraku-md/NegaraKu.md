@@ -80,6 +80,13 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
 framework: history-culture
+hero: '/media/malaysia/1mdb-scandal/hero.webp'
+heroAlt: 'ตึกระฟ้าเอ็กซ์เชนจ์ 106 ที่ตั้งตระหง่านเหนือย่านการเงินตุนราซักเอ็กซ์เชนจ์ในกัวลาลัมเปอร์'
+heroCredit: 'Henrywky961122 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **1Malaysia Development Berhad (1MDB)** เป็นกองทุนการลงทุนที่รัฐบาลมาเลเซียเป็นเจ้าของ

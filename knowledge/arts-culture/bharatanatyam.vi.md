@@ -32,7 +32,7 @@ seoTitle: "Bharatanatyam ở Malaysia: Giải thích hình thức múa cổ đi�
 socialTitle: "Điệu múa cổ điển của Nam Ấn bén rễ ở Malaysia ra sao"
 
 lang: "vi"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,34 @@ relations:
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
+hero: '/media/arts-culture/bharatanatyam/hero.webp'
+heroAlt: 'Một vũ công Bharatanatyam trong trang phục lụa cam-vàng với trang sức đền thờ và hoa nhài hạ thấp xuống tư thế ngồi, một cánh tay vươn về phía trước lòng bàn tay ngửa tạo mudra, ánh mắt biểu cảm dõi theo bàn tay trên nền tối.'
+heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: Một vũ công Bharatanatyam trẻ tuổi trong bộ trang phục lụa hồng pha vàng, chuông đeo cổ chân và trang sức kiểu đền chùa giữ thăng bằng trên một chân, hai tay giơ lên trong tư thế mudra hình kéo gần đầu, mỉm cười trên nền sân khấu sẫm màu trơn.
+    kind: representative
+    origin: third-party
+    subject: Vũ công Bharatanatyam trẻ đứng trên một chân với hai tay trong tư thế mudra bên cạnh đầu
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: Một vũ công Bharatanatyam trong áo đen và khăn choàng lụa đỏ pha vàng xoay giữa động tác, một cánh tay cong cao qua đầu và tay kia chỉ ngang người, chiếc váy xếp nếp xòe ra trên nền đen.
+    kind: representative
+    origin: third-party
+    subject: Vũ công Bharatanatyam bắt khoảnh khắc đang xoay với một tay giơ lên và váy xoáy tròn
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 Đôi chân của một vũ công gõ xuống sàn theo một họa tiết nhanh, chính xác. Những chiếc chuông reo theo nhịp trống mridangam. Đôi tay cô tạo thành một hình dạng — một con nai, một bông sen, một câu hỏi — và đôi mắt cô dõi theo nó trước khi khuôn mặt cô đáp lại bằng một cảm xúc mà khán giả được kỳ vọng cảm nhận, không chỉ xem. Rồi nhịp điệu kết lại, cô giữ một tư thế như một pho tượng, và âm nhạc lắng xuống thành im lặng.

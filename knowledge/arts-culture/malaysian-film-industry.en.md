@@ -34,7 +34,7 @@ faq:
     a: "It is often referred to as the 'Malaysian New Wave', a wave of independent filmmakers in the early 2000s. Da Huang Pictures, founded in 2004 by Tan Chui Mui, Amir Muhammad, James Lee and Liew Seng Tat, became one of its hubs; Tan's film Love Conquers All won the New Currents and FIPRESCI Awards at the 2006 Busan International Film Festival and the Tiger Award at Rotterdam."
 
 lang: "en"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,32 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'The restored traditional Malay timber house that is the birthplace of film legend P. Ramlee, now a memorial, with a thatched roof and a commemorative plaque on its brick forecourt.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: The street facade and marquee of the old Coliseum Cinema, a pre-war single-screen movie hall in central Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: The historic Coliseum Cinema on Jalan Tuanku Abdul Rahman, Kuala Lumpur, one of Malaysia's oldest surviving movie halls
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: The brightly lit foyer and signage of a contemporary multiplex cinema inside a Kuala Lumpur shopping mall
+    kind: actual
+    origin: third-party
+    subject: The entrance of a modern multiplex cinema at Pavilion Bukit Bintang, Kuala Lumpur
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 In 1955, a former clapper boy and assistant cameraman at a studio at No. 8 Jalan Ampas, Singapore, sat in the director's chair for the first time at the age of 26. The film was *Penarek Becha*. His name was P. Ramlee. The story of the Malaysian film industry begins not in Kuala Lumpur, but in a Singapore studio owned by two brothers from Shanghai — and it has not stopped moving since.

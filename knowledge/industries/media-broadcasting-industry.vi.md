@@ -31,7 +31,7 @@ faq:
   - q: Ngành nội dung sáng tạo và hoạt hình của Malaysia là gì?
     a: Đó là lĩnh vực sản xuất phim, chương trình truyền hình, hoạt hình, âm nhạc và trò chơi — ngày càng hướng xuất khẩu cũng như thị trường nội địa. Hoạt hình Malaysia nói riêng đã có thành công quốc tế, ví dụ nổi tiếng nhất là loạt phim thiếu nhi Upin & Ipin, do Les' Copaque sản xuất. Chính phủ hỗ trợ lĩnh vực này qua các quỹ và cơ quan như MyCreative Ventures và FINAS.
 lang: vi
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'Khu phức hợp phát thanh truyền hình Angkasapuri ở Kuala Lumpur, trụ sở của đài truyền hình công cộng quốc gia Malaysia.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: Các nhà sản xuất tại dãy màn hình và bàn trộn trong phòng điều khiển của một trường quay truyền hình trong lúc phát sóng trực tiếp.
+    kind: representative
+    origin: third-party
+    subject: Phòng điều khiển phát sóng trong một buổi sản xuất truyền hình trực tiếp (minh họa)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: Một phim trường phát sóng truyền hình với máy quay, ánh sáng trường quay và bàn người dẫn chương trình.
+    kind: representative
+    origin: third-party
+    subject: Phim trường phát sóng truyền hình với máy quay và bàn người dẫn chương trình (minh họa)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 Khi người Malaysia nói về "truyền thông," họ thường muốn nói đến một trong vài cái tên quen thuộc: chảo vệ tinh Astro gắn bên hông nhà, bản tin TV3, một chương trình phát thanh buổi sáng trên đường đi làm, hoặc — ngày càng nhiều — bất cứ thứ gì đang phát trên điện thoại khi di chuyển. Những điểm chạm hằng ngày đó thuộc về một ngành duy nhất, rộng lớn: truyền thông và phát sóng. Nó là một trong những khu vực dịch vụ dễ thấy hơn của đất nước, và cũng là một trong những khu vực bị xáo trộn nhiều nhất.

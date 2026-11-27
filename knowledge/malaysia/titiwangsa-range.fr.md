@@ -18,7 +18,7 @@ keyTakeaways:
   - "Le terrain de haute altitude de la chaîne relève du niveau le plus strict des protections de Zone écologiquement sensible de la Malaisie, qui préservent les écosystèmes de hautes terres et de montagne face au développement"
 appliesTo: "Lecteurs qui veulent une explication claire et vérifiée de ce qu'est la chaîne de Titiwangsa, par où elle passe et pourquoi elle divise les fleuves, le climat et le schéma de peuplement de la Malaisie péninsulaire en un côté côte ouest et un côté côte est."
 lang: "fr"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -60,6 +60,32 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["chaîne de Titiwangsa", "Banjaran Titiwangsa", "chaîne principale de Malaisie", "montagnes de la Malaisie péninsulaire", "ligne de partage des eaux de Malaisie", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Des chaînes de montagnes vertes et densément boisées se fondant en crêtes successivement plus bleutées vers l''horizon, sous un ciel d''un bleu éclatant parsemé de nuages blancs.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: Des rangées soigneusement dessinées de théiers d'un vert vif recouvrent les collines ondoyantes de la plantation Bharat dans les Cameron Highlands sous un ciel doux.
+    kind: actual
+    origin: third-party
+    subject: La plantation de thé Bharat dans les Cameron Highlands, partie de la chaîne de Titiwangsa, Pahang
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: Des cottages de style Tudor et un restaurant nichés parmi de luxuriantes pentes boisées verdoyantes à la station de Fraser's Hill, dans les montagnes de Titiwangsa.
+    kind: actual
+    origin: third-party
+    subject: Fraser's Hill (Bukit Fraser), une station de montagne de l'époque coloniale dans la chaîne de Titiwangsa, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 Laissez tomber une noix de coco du côté ouest d'une crête au centre de Perak et, avec le temps, sa décomposition atteindra le détroit de Malacca. Laissez-la tomber quelques centaines de mètres plus à l'est, de l'autre côté de la même crête, et elle finit dans la mer de Chine méridionale. Rien d'autre dans le paysage ne change. Seulement le côté de la ligne où elle est tombée.

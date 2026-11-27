@@ -32,7 +32,7 @@ faq:
     a: "Le « lo hei » (yee sang, ou 捞鱼生) est une coutume du Nouvel An populaire en Malaisie, à Singapour et dans la région du Nanyang en général, généralement pratiquée lors du repas de réunion ou d'un rassemblement du Nouvel An : tous se réunissent autour de la table et utilisent les baguettes pour faire voltiger bien haut et ensemble des légumes et des fruits en julienne, des tranches de poisson cru et des ingrédients variés, en prononçant des formules propices comme « que ta fortune s'élève comme le vent et l'eau » et « plus tu le soulèves haut, plus tu prospères ». C'est très populaire localement, mais c'est généralement considéré comme une pratique développée par la communauté chinoise de la région du Nanyang, et non comme une coutume originaire de la Chine ancienne."
 
 lang: "fr"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,34 @@ festivalFacts:
   when: "Le premier jour du premier mois du calendrier lunaire ; la date grégorienne correspondante varie chaque année selon le calendrier lunaire et fait foi telle qu'elle est publiée au journal officiel."
   holiday: "Les deux premiers jours du Nouvel An lunaire sont un jour férié national, dont le fondement juridique est le Holidays Act 1951 (Act 369) et les journaux officiels de chaque État."
   etiquette: "La « maison ouverte » (rumah terbuka) interethnique permet à des parents et amis d'origines diverses de se rendre visite pour présenter leurs vœux ; les cadeaux d'accompagnement et les enveloppes rouges apportés lors de ces visites sont généralement en nombre pair, signe de bon augure, et l'on évite couramment les nombres contenant le « quatre »."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Des centaines de lanternes rouges et or suspendues en lignes rayonnantes sous les toits ornés du temple Thean Hou à Kuala Lumpur contre un ciel bleu limpide pendant le Nouvel An chinois'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: Le temple Kek Lok Si à Penang illuminé la nuit par des milliers de guirlandes lumineuses colorées et de lanternes rouges pendant les illuminations du Nouvel An chinois
+    kind: actual
+    origin: third-party
+    subject: Le temple Kek Lok Si à Penang illuminé pour le Nouvel An chinois
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: Un costume de danse du lion blanc et argenté en équilibre au sommet de perches, exécuté devant des maisons-boutiques dans le quartier chinois de Kuala Lumpur pendant le Nouvel An chinois
+    kind: actual
+    origin: third-party
+    subject: Danse du lion exécutée sur des perches dans le quartier chinois de Kuala Lumpur pendant le Nouvel An chinois
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 Au réveillon du Nouvel An, beaucoup de commerces ferment tôt et les autoroutes se remplissent de voitures qui prennent la route des villages natals. À la tombée du soir, la famille se réunit autour d'une même table, avec du poisson dessus (pour « un surplus chaque année »), un poulet entier, des boulettes qui symbolisent la réunion et un plat froid de yee sang, conçu pour être soulevé bien haut avec les baguettes. Beaucoup de familles chinoises de Malaisie considèrent ce repas de réunion du réveillon comme plus important que le premier jour de la nouvelle année lui-même.

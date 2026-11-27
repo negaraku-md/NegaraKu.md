@@ -30,7 +30,7 @@ faq:
     a: "ส่วนใหญ่ในเทศกาลวัฒนธรรม โครงการของพิพิธภัณฑ์และมรดก และการแสดงเพื่อการท่องเที่ยว มากกว่าจะเป็นความบันเทิงในหมู่บ้าน กรมวัฒนธรรมและศิลปะแห่งชาติ (National Department for Culture and Arts) และหน่วยงานวัฒนธรรมระดับรัฐเป็นจุดเริ่มต้นที่ใช้ได้จริงในการค้นหาตารางการแสดง"
 
 lang: "th"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,34 @@ relations:
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
 framework: history-culture
+hero: '/media/arts-culture/wayang-kulit/hero.webp'
+heroAlt: 'หนังตะลุงหนังสัตว์ฉลุลายวิจิตรเรียงกันเปล่งแสงบนจอที่ส่องด้วยตะเกียง ในรูปแบบวายังกูลิตมลายูกลันตัน-ปตานี'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: ภาพระยะใกล้ของตัวหนังวายังกูลิตที่สลักอย่างวิจิตรและทาสีสดใสในโทนสีส้ม เขียว และม่วง ติดบนไม้ไผ่เรียวบาง
+    kind: actual
+    origin: third-party
+    subject: ภาพระยะใกล้ของตัวหนังวายังกูลิตเกอลันตันที่ทาสีสดใสบนก้านบังคับ พิพิธภัณฑ์รัฐเกอลันตัน ประเทศมาเลเซีย
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: ตัวหนังเงาสองตัวสีสันสดใสตั้งอยู่หน้ากลองดั้งเดิมและป้ายข้อมูลภายในกระท่อมจัดแสดงที่สานด้วยไม้ไผ่
+    kind: actual
+    origin: third-party
+    subject: ตัวหนังวายังกูลิตเกอลันตันและกลองกาเมลันจัดแสดงในกระท่อมมุงจากพร้อมป้ายคำอธิบาย พิพิธภัณฑ์รัฐเกอลันตัน ประเทศมาเลเซีย
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 ตะเกียงถูกจุดขึ้นก่อน หลังจอผ้าฝ้ายสีขาวที่ขึงตึงบนกรอบไม้ ชายคนหนึ่งนั่งขัดสมาธิ มีหุ่นหนังแบนวางซ้อนกันอยู่ในระยะที่เอื้อมถึงทั้งสองข้างของเขา วงดนตรีเล็ก ๆ ที่มีกลอง ฆ้อง และเซอรูไน (serunai) ลิ้นคู่เสียงแหลมรออยู่ด้านหลังเขา เขาจะไม่ลุกจากจุดนั้นตลอดทั้งคืน กว่าเงาสุดท้ายจะข้ามจอไปในอีกหลายชั่วโมงข้างหน้า เขาจะได้พากย์เสียงกษัตริย์ อสูร ตัวตลก และเจ้าหญิง บรรยายการเปลี่ยนฉาก และให้จังหวะแก่นักดนตรีทุกคน — เพียงลำพัง

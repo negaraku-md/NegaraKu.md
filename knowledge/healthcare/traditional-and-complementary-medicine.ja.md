@@ -56,10 +56,36 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'マレーシアの伝統医薬・健康店の店頭看板で、補完・伝統医学の実践を表している。'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: 大きさの目安として硬貨を添え、台の上に置かれた4本の細い鍼。補完療法としての鍼治療を表している
+    kind: representative
+    origin: third-party
+    subject: 大きさの比較用に硬貨を添えて示した鍼
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: 瓶詰めのjamu（伝統的な薬草の強壮薬）の入った木箱。琥珀色の液体が入り、葉で栓をした瓶が並び、薬草による補完医学を表している
+    kind: representative
+    origin: third-party
+    subject: jamu（伝統的なマレー・インドネシアの薬草強壮薬）の瓶
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 2025年3月1日以降、マレーシアの伝統マッサージ師、中国伝統医療の施術者、ホメオパシー施術者、そしてカイロプラクターは、たった一枚の書類――登録証明書――なしにはクリニックの扉を開けなくなった。「経験だけを頼りに施術する」時代は終わった。

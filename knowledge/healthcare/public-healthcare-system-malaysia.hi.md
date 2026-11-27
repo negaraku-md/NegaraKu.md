@@ -27,7 +27,7 @@ faq:
   - q: "PeKa B40 क्या है?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) एक MOH योजना है जिसे ProtectHealth Corporation द्वारा चलाया जाता है। यह 40 वर्ष व उससे अधिक आयु के योग्य कम-आय वाले मलेशियाई लोगों — Sumbangan Tunai Rahmah प्राप्तकर्ताओं और उनके जीवनसाथी — को निःशुल्क स्वास्थ्य जाँच, RM20,000 तक की चिकित्सा-उपकरण सहायता, RM1,000 का कैंसर-उपचार प्रोत्साहन, और यातायात सहायता देती है। 31 मार्च 2025 तक, लगभग 6.9 मिलियन योग्य प्राप्तकर्ताओं में से लगभग 1.6 मिलियन की जाँच हो चुकी थी।"
 lang: "hi"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -126,9 +126,35 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["ministry-of-health-moh", "klinik-kesihatan", "peka-b40-and-health-schemes", "health-white-paper-and-system-reform"]
 keywords: ["मलेशिया सार्वजनिक स्वास्थ्य देखभाल प्रणाली", "मलेशिया स्वास्थ्य मंत्रालय", "MOH", "KKM", "klinik kesihatan", "सरकारी अस्पताल मलेशिया", "RM1 क्लीनिक शुल्क", "सार्वजनिक अस्पताल शुल्क", "PeKa B40", "सार्वभौमिक स्वास्थ्य देखभाल", "Malaysia public healthcare system", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: 'कोता किनाबालू में क्वीन एलिज़ाबेथ अस्पताल का बाहरी दृश्य, सार्वजनिक स्वास्थ्य प्रणाली में एक बड़ा मलेशियाई सरकारी अस्पताल।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: एक मलेशियाई सार्वजनिक अस्पताल, Batu Pahat में Hospital Sultanah Nora Ismail में बिस्तरों की कतारों वाला एक खाली आंतरिक रोगी वार्ड
+    kind: actual
+    origin: third-party
+    subject: Batu Pahat में Hospital Sultanah Nora Ismail में एक सार्वजनिक अस्पताल वार्ड
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: Hospital Kemaman का बाहरी भाग, मलेशिया के स्वास्थ्य मंत्रालय द्वारा संचालित एक सार्वजनिक अस्पताल
+    kind: actual
+    origin: third-party
+    subject: Hospital Kemaman, एक मलेशियाई सार्वजनिक अस्पताल इमारत
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 किसी मलेशियाई सरकारी क्लीनिक में जाएँ और काउंटर पर बिल लगभग कुछ भी नहीं होता — सामान्य बाह्य-रोगी पंजीकरण के लिए **RM1**। यह दान नहीं है — यह डिज़ाइन है। मलेशिया एक **दो-स्तरीय स्वास्थ्य देखभाल प्रणाली** चलाता है: **स्वास्थ्य मंत्रालय (MOH, *Kementerian Kesihatan Malaysia*, KKM)** द्वारा प्रबंधित एक सरकार-संचालित सार्वजनिक सेवा, साथ ही एक बड़ा निजी क्षेत्र। सार्वजनिक पक्ष **पूरी तरह सामान्य कराधान से वित्तपोषित है, जिसमें कोई अनिवार्य राष्ट्रीय बीमा अंशदान नहीं है**, इसलिए देखभाल प्रीमियम के बजाय भारी सब्सिडी-प्राप्त, नाममात्र शुल्कों पर प्रदान की जाती है। इस मॉडल ने राष्ट्रीय आय के एक मामूली हिस्से पर लगभग सार्वभौमिक पहुँच उत्पन्न की है — लेकिन यह अब एक बढ़ता घरेलू लागत बोझ और वास्तविक आपूर्ति दबाव ढोता है। यह मार्गदर्शिका सरल शब्दों में बताती है कि आप प्रणाली तक कैसे पहुँचते हैं, इसकी लागत क्या है, यह किसे कवर करती है, और यह कहाँ तनावग्रस्त है।

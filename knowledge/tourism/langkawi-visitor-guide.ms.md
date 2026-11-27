@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk pengunjung kali pertama, keluarga dan pengembara berbilang minat yang mencari pantai, membeli-belah bebas cukai dan UNESCO Geopark — kereta kabel SkyCab, SkyBridge dan menjelajah pulau paya bakau — lebih daripada penyelaman bertaraf dunia.'
+  getThere: 'Terbang ke Langkawi International Airport (LGK), atau menyeberang dengan feri penumpang ke Jeti Kuah dari jeti tanah besar di Kuala Kedah dan Kuala Perlis.'
+  permit: 'Harga bebas cukai Langkawi terpakai hanya di pulau; barangan yang dibawa balik ke tanah besar tertakluk kepada elaun pengembara kebangsaan Malaysia, yang menetapkan tempoh menginap minimum yang layak dan mengehadkan alkohol, tembakau serta cenderamata yang boleh anda bawa balik bebas cukai.'
+  watch: 'Jangan membeli arak bebas cukai berlebihan untuk dibawa pulang — harga murah itu untuk dinikmati di pulau, dan hanya elaun yang terhad melepasi kastam di tanah besar.'
+  next: 'Sahkan jadual feri semasa dengan pengendali feri, dan elaun bebas cukai dengan Jabatan Kastam Diraja Malaysia (RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'Jambatan Langkawi Sky Bridge yang melengkung tergantung tinggi antara puncak gunung berhutan di atas Laut Andaman'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Pokok palma dan batu gelap membingkai pasir putih Pantai Cenang di sebelah air biru kehijauan, sebuah layar terbang di udara
+    kind: actual
+    origin: third-party
+    subject: Pantai Cenang dengan pokok palma dan laut biru kehijauan
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Gondola SkyCab merah meluncur di atas hutan hujan tebal menghadap marina dan teluk biru kehijauan di pulau Langkawi
+    kind: actual
+    origin: third-party
+    subject: Kereta kabel Langkawi SkyCab di atas hutan dan marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Sembilan puluh sembilan pulau, batuan yang lebih tua daripada ikan, wiski murah dan sebuah kereta kabel yang tergantung di sisi gunung yang dibina daripada batuan yang dianggarkan berusia lebih 550 juta tahun — Langkawi memuatkan jumlah yang luar biasa banyak ke dalam satu kepulauan di hujung barat laut Malaysia. Ia merupakan pulau percutian utama pantai barat negara, dan ia berfungsi mengikut logik yang hampir bertentangan dengan pulau-pulau menyelam berpokok palma di seberang semenanjung. Panduan ini merangkumi perkara yang benar-benar penting sebelum anda pergi: peraturan bebas cukai yang sering mengelirukan orang, geopark UNESCO yang memberikan latar belakang kepada pemandangannya, SkyCab dan SkyBridge, pelayaran bot yang berbaloi diambil, dan cara memilih antara Langkawi dengan pantai timur.

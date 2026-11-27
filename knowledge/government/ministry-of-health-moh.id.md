@@ -27,7 +27,7 @@ faq:
   - q: "Apakah KKM mengelola rumah sakit swasta?"
     a: "Tidak. KKM mengelola rumah sakit dan klinik publik serta mengatur pelayanan kesehatan swasta secara terpisah di bawah Private Healthcare Facilities and Services Act 1998 (Act 586), yang menetapkan standar kualitas dan keselamatan minimum serta membatasi biaya yang dapat dikenakan oleh dokter untuk suatu prosedur."
 lang: "id"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,9 +79,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: 'Menara pemerintah tinggi dari batu pasir dan kaca hijau dipuncaki mahkota persegi terbuka, dengan tulisan KEMENTERIAN KESIHATAN MALAYSIA dan lambang negara di atas kanopi pintu masuknya dengan latar langit berawan'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: Gedung pemerintah berbahan kaca hijau yang mencolok dengan sayap-sayap bersegi tajam dan atap kantilever, bendera Malaysia vertikal panjang terjuntai di sisi kanannya di atas plaza berubin
+    kind: actual
+    origin: third-party
+    subject: Gedung Divisi Manajemen Pelatihan Kementerian Kesehatan Malaysia di kompleks KKM, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 Ketika Anda melangkah masuk ke sebuah klinik pemerintah Malaysia, menyerahkan satu keping uang RM1, dan keluar dengan konsultasi serta obat Anda ditanggung, Anda sebenarnya menggunakan salah satu sistem kesehatan yang paling banyak disubsidi di dunia. Yang mengelolanya adalah **Kementerian Kesehatan Malaysia** (**KKM**), atau **MOH** dalam bahasa Inggris — kementerian federal yang bertanggung jawab atas kesehatan publik, perawatan medis, penelitian medis, promosi kesehatan, regulasi farmasi dan alat kesehatan, perawatan gigi, dan keselamatan pasien. Kantor pusatnya terletak di Kompleks E (Blok E1, E3, E6, E7, dan E10) di Pusat Administrasi Pemerintah Federal, 62590 Putrajaya.

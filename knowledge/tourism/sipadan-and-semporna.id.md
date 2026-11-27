@@ -37,7 +37,7 @@ faq:
     a: "Menyelam mungkin sepanjang tahun, tetapi laut paling tenang dan air paling jernih umumnya jatuh dalam rentang yang lebih kering dari sekitar April hingga sekitar Oktober–Desember, dengan visibilitas paling jernih sering di awal jendela itu (dive-the-world; PADI). Izin paling sulit didapat pada bulan-bulan tersibuk, jadi pesan jauh di muka (Malaysia Travel)."
 
 lang: "id"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,9 +98,42 @@ sources:
 
 entity: "Sipadan"
 wikidata: "Q1412482"
-related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
+related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'Penyelam scuba bersertifikat yang mencari penyelaman dinding dalam kelas dunia — penyu, pusaran barakuda, dan hiu karang di lepas pantai satu-satunya pulau samudra Malaysia.'
+  getThere: 'Terbanglah ke Bandara Tawau, pindah dengan jalan darat ke kota gerbang Semporna, lalu naik perahu keluar ke pulau-pulau dan lokasi selam.'
+  permit: 'Menyelami Sipadan memerlukan izin Sabah Parks, dan jumlah yang dikeluarkan setiap hari dibatasi ketat serta dialokasikan hanya melalui operator selam berlisensi — pesanlah jauh-jauh hari.'
+  watch: 'Pulau-pulau di Sabah timur berada dalam zona keamanan yang ditetapkan (ESSZONE), izin tidak pernah dijamin, dan batasan konservasi (termasuk penutupan tahunan) berlaku — bepergianlah dengan informasi dan periksa nasihat resmi terkini.'
+  next: 'Konfirmasikan kuota izin, biaya, dan penutupan konservasi Sipadan terkini dengan Sabah Parks atau operator selam berlisensi Anda.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Pemandangan udara laguna terumbu toska semarak yang dikelilingi pulau-pulau hijau di bawah langit cerah bertitik awan di Taman Laut Tun Sakaran dekat Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: Penyu hijau berenang di atas melalui air biru toska yang disinari matahari, dilihat dari bawah
+    kind: actual
+    origin: third-party
+    subject: Seekor penyu hijau meluncur di air biru toska cerah, salah satu pemandangan khas menyelam di sekitar Sipadan
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Kawanan ikan keperakan yang besar berputar di samping terumbu karang dengan sinar matahari menembus air biru saat menyelam di Sipadan
+    kind: actual
+    origin: third-party
+    subject: Kawanan padat ikan karang dan sinar matahari di atas karang saat menyelam di Sipadan, salah satu lokasi selam terbaik dunia
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 Satu menara tunggal berselimut karang yang menjulang enam ratus meter lurus dari dasar Laut Sulawesi, berpusar dengan penyu dan tornado barakuda — Sipadan adalah alasan penyelam serius menaruh Sabah timur dalam daftar mereka, dan alasan sebuah ekonomi perjalanan utuh tumbuh di sekitar kota kecil Semporna. Tetapi ia bukan tempat yang bisa Anda datangi dan selami begitu saja. Sipadan adalah taman laut yang dilindungi ketat dengan izin harian berkuota, tanpa penginapan di pulau itu sendiri, dan konteks zona keamanan di pantai sekitarnya yang perlu dipahami pendatang pertama kali secara tenang dan faktual. Panduan ini mencakup apa yang menjadikan penyelaman bertaraf dunia, bagaimana izin dan kuota harian sebenarnya bekerja, di mana Anda menginap, bagaimana Sipadan berbeda dari Taman Laut Tun Sakaran yang berdekatan, siapa yang cocok untuk kawasan ini, dan kapan pergi.

@@ -35,7 +35,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ entity: "เงินมัดจำค่าเช่าที่ถูกย�
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'แฟลตอพาร์ตเมนต์สูง Puncak Desa ในย่านเกอปง กัวลาลัมเปอร์ ซึ่งเป็นอาคารที่อยู่อาศัยให้เช่าแบบทั่วไปของมาเลเซีย'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: อาคารแฟลตสาธารณะแบบเดินขึ้นเตี้ยๆ รุ่นเก่าที่มีผ้าซักตากห้อยจากหน้าต่างในกัวลาลัมเปอร์
+    kind: representative
+    origin: third-party
+    subject: แฟลตเช่าแบบเดินขึ้นรุ่นเก่า (Pekeliling Flats) ในกัวลาลัมเปอร์
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: แถวบ้านทาวน์เฮาส์ชั้นเดียวริมถนนย่านที่พักอาศัยใน Rasa รัฐเซอลาโงร์
+    kind: representative
+    origin: third-party
+    subject: แถวบ้านทาวน์เฮาส์ใน Rasa รัฐเซอลาโงร์ ซึ่งเป็นบ้านเช่าประเภทที่พบได้ทั่วไป
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 มีไม่กี่อย่างที่ทำให้ช่วงท้ายของการเช่าขมขื่นได้เท่ากับเจ้าของบ้านที่ยึดเงินมัดจำไว้ มันมักเป็นเงินก้อนที่มีความหมาย มักรู้สึกว่าไม่เป็นธรรม และความอยากที่จะยกระดับเรื่องทันทีก็สูง ก่อนที่คุณจะทำเช่นนั้น การเข้าใจข้อเท็จจริงหนึ่งเดียวที่กำหนดทุกอย่างเกี่ยวกับข้อพิพาทเรื่องเงินมัดจำในมาเลเซียจะช่วยได้ — เพราะมันไม่ใช่สิ่งที่ผู้เช่าหลายคนสันนิษฐาน

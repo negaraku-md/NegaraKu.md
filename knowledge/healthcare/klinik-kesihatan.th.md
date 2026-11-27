@@ -27,7 +27,7 @@ verificationNeeded:
   - "ความแตกต่างโดยละเอียดระหว่างคลินิกสุขภาพ คลินิกชุมชน และคลินิกชนบท ในแง่ของบุคลากรและขอบเขตการรักษาที่แน่นอนไม่สามารถยืนยันได้ครบถ้วนบนแหล่งข้อมูลทางการของ KKM ณ ขณะเขียน; บทความนี้เพียงระบุว่าทั้งสามเป็นสถานพยาบาลที่แยกต่างหาก"
 
 lang: "th"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,6 +68,32 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'ทางเข้าและป้ายของ Klinik Kesihatan Jalan Lanang คลินิกสุขภาพชุมชนของกระทรวงสาธารณสุขมาเลเซีย พร้อมธงชาติและธงรัฐ'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: อาคารหลักของคลินิกสุขภาพของรัฐ(KlinikKesihatan)ในมาเลเซียพร้อมทางเข้ารถแบบมีหลังคาคลุม
+    kind: actual
+    origin: third-party
+    subject: อาคารหลักของKlinikKesihatanJalanLanangคลินิกสุขภาพของรัฐในซีบูรัฐซาราวัก
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: คลินิกสุขภาพหมู่บ้านชั้นเดียวขนาดเล็ก(KlinikDesa)บนเกาะซึ่งเป็นสถานบริการสุขภาพแห่งเดียวที่นั่น
+    kind: actual
+    origin: third-party
+    subject: KlinikDesaPulauAmanคลินิกสุขภาพชนบทแห่งเดียวบนเกาะปูเลาอามันรัฐปีนัง
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 ไข้ไม่ลด ลูกต้องฉีดวัคซีน หรือความดันโลหิตต้องติดตามทุกเดือน — และคำถามแรกที่เกิดขึ้นมักไม่ใช่ "รักษาอย่างไร" แต่คือ "จะไปคลินิกไหนดี" คลินิกเอกชนรวดเร็วแต่แพง โรงพยาบาลของรัฐแออัดสำหรับปัญหาเล็ก ๆ และ "คลินิกของรัฐ" เองจริง ๆ แล้วไม่ใช่สถานพยาบาลประเภทเดียว — หลายคนไม่รู้ว่าคลินิกสุขภาพ คลินิกชุมชน และคลินิกทันตกรรม เป็นสถานพยาบาลที่แยกต่างหากสามแห่งภายใต้หลังคาเดียวกัน

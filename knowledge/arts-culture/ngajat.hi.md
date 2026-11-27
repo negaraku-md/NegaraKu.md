@@ -30,7 +30,7 @@ faq:
     a: "JKKN द्वारा दर्ज किए गए प्रकारों में Ngajat Lesong (जिसे पुरुष एक लकड़ी के ओखली को दाँतों से पकड़कर करते हैं), Ngajat Indu (जिसे महिलाएँ pua kumbu बुनने की नकल करती गतियों के साथ करती हैं), Ngajat Pua Kumbu (pua kumbu कपड़े का उपयोग करते हुए) और Ngajat Ngiling Tikai शामिल हैं, जो Gawai Dayak उत्सव के समापन का प्रतीक है।"
 
 lang: "hi"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
 framework: history-culture
+hero: '/media/arts-culture/ngajat/hero.webp'
+heroAlt: 'पंख वाले शिरोभूषण, पशु-फ़र बनियान और पीली हॉर्नबिल-नक़्श लँगोटी में एक इबान पुरुष नर्तक मुद्रा में झुकता है, एक हाथ में लंबी तलवार और दूसरे में नक्काशीदार लकड़ी की ढाल लहराता हुआ, गर्म मंच-रोशनी में चित्रित सारावाक लॉन्गहाउस पृष्ठभूमि के सामने'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: एक ऊँचे चाँदी के सुगु तिंग्गी शिरोभूषण और एक सिक्का-जड़ित काली कोर्सेट में एक युवा इबान महिला अपने ठोड़ी के पास दोनों हाथ एक नाज़ुक मुद्रा में किए हुए है, नारंगी-फुँदनों वाले मनके के कॉलर से घिरी हुई, एक गहरे नीले मंच के सामने।
+    kind: actual
+    origin: third-party
+    subject: बोर्नियो, मलेशिया के सरवाक कल्चरल विलेज में पूरी औपचारिक वेशभूषा में एक महिला इबान नर्तकी
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: चाँदी के मुकुट शिरोभूषणों, लाल मनके के ऊपरी वस्त्रों और सिक्का-फुँदनेदार स्कर्टों में महिला इबान नर्तकियों की एक कतार एक चमकीले प्रकाशित उत्सव-मंच पर एक साथ चलती हैं, हर एक एक छोटा लाल कपड़ा पकड़े, अग्रभूमि में छायाचित्रित दर्शकों के साथ।
+    kind: actual
+    origin: third-party
+    subject: मलेशिया में एक उत्सव-मंच पर सायाउ नगाजत प्रस्तुत करती महिला इबान नर्तकियों की मंडली
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 सारावाक के किसी longhouse की दीर्घा में, सिर पर धनेश के पंख धारण किए एक व्यक्ति छलाँग लगाता है, घूमता है और फर्श पर पैर पटकता है — एक हाथ में तलवार, दूसरे में ढाल। यह है **Ngajat**, वह नृत्य जो कभी रणभूमि से लौटते योद्धाओं का स्वागत करता था।

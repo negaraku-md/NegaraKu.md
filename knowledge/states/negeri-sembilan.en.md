@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 
 status: "published"
 aiAssisted: true
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'The dark timber Seri Menanti royal palace with tiered pointed Minangkabau roofs set on a green lawn with a red pavilion and forested hills behind.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: A gently curving sandy beach lined with palms fronts the calm Strait of Malacca at Port Dickson in Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Port Dickson beach, Negeri Sembilan
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: Timber Minangkabau houses with sweeping buffalo-horn roofs stand on the grounds of the Negeri Sembilan State Museum in Seremban.
+    kind: actual
+    origin: third-party
+    subject: Minangkabau-style traditional houses at Muzium Negeri Sembilan, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 In the other eight Malay states, the question "who is next in line" is answered by

@@ -42,6 +42,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["लांगकासुका", "Langkasuka", "आरंभिक मलय राज्य", "early Malay kingdoms", "केदाह का प्राचीन इतिहास", "Lang-ya-xiu", "इस्लाम-पूर्व मलेशिया"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: 'बुजांग घाटी में ताड़ के पेड़ों और हरी पहाड़ियों से घिरे एक घास के मैदान पर नीची सीढ़ीनुमा पत्थर की मंदिर चौकी।'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 सातवीं शताब्दी में, लियांग की पुस्तक की सामग्री संकलित करते हुए एक चीनी दरबारी इतिहासकार ने वह दर्ज किया जो पूर्ववर्ती दूतों ने सुदूर दक्षिण के एक राज्य के बारे में बताया था: एक परकोटे वाला नगर, एक राजा जो हाथी पर सवार होता था, एक दरबार जहाँ अधिकारी अपने शासक के सम्मुख हाथ जोड़कर झुकते थे। इतिहासकार ने उस स्थान को «लांग-या-शियू» कहा। वह लगभग निश्चित रूप से लांगकासुका का वर्णन कर रहा था — और वह वाक्य, जो पूरी तरह भिन्न प्रयोजनों के लिए संकलित एक राजवंशीय इतिहास में दबा है, इस स्थान के बारे में कहीं भी शेष बचे उन गिने-चुने विस्तृत विवरणों में से एक है।

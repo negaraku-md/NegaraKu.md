@@ -43,7 +43,7 @@ verificationNeeded:
   - "MBPJ annual premise licence rates — the by-law PDF published by MBPJ is a scanned image with no text layer, so no ringgit rate is machine-readable"
 
 lang: "es"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,34 @@ keywords:
   - "Selangor council licensing"
   - "Port Klang TEU"
 framework: profile
+hero: '/media/business/doing-business-selangor/hero.webp'
+heroAlt: 'Filas de altas grúas pórtico azules de muelle cargando un buque portacontenedores en Northport, en Port Klang, con contenedores apilados y un camión portacontenedores en la vía del muelle'
+heroCredit: 'Hafiz343 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: La alta y angular torre de oficinas Wisma MBSA junto al edificio de cúpula azul Dataran Shah Alam bajo un cielo azul brillante en Shah Alam, Selangor
+    kind: actual
+    origin: third-party
+    subject: La torre de oficinas Wisma MBSA y Dataran Shah Alam en el núcleo comercial y administrativo de la capital estatal de Selangor
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: Un edificio comercial de oficinas de varios pisos de cristal y blanco con altas ventanas arqueadas en el Mentari Business Park de Selangor, visto desde la carretera
+    kind: actual
+    origin: third-party
+    subject: Un bloque de oficinas comercial en el Mentari Business Park en Bandar Sunway, parte del denso cinturón de parques empresariales de Selangor
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 Kuala Lumpur tiene una autoridad de licencias. Selangor, que lo rodea, tiene doce — y una

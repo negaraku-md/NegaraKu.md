@@ -74,9 +74,16 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: '乔治市一条狭窄的街道，两旁是漆色斑驳的老店屋、红灯笼和一块蜡染绘画博物馆招牌，五脚基上有纪念品摊和游客。'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 同一个国家有六处遗产如今都印上了联合国教科文组织的印记——你可以在清晨漫步于一座数百年历史的荷兰殖民广场，再乘一趟航班便置身于婆罗洲一座宏大的洞穴大厅之中。马来西亚的遗产不是一座供人观看的博物馆；它是一条鲜活的街道，你可以在其中一路吃、一路睡、一路祈祷。

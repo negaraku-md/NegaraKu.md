@@ -35,7 +35,7 @@ faq:
     a: "Hanya di negeri dan wilayah persekutuan yang mewartakannya. Ia dirayakan sebagai libur umum di tempat-tempat termasuk Kuala Lumpur, Putrajaya, Selangor, Pulau Pinang, Perak, Negeri Sembilan, Johor, dan Kedah, dan tidak diwartakan sebagai libur persekutuan seluruh negara. Karena ia ditetapkan menurut yurisdiksi masing-masing, daftar tepatnya dapat berbeda dari tahun ke tahun — selalu periksa pengumuman libur resmi bagi negeri terkait."
 
 lang: "id"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ festivalFacts:
   when: "Bulan Tamil Thai — sekitar akhir Januari atau Februari setiap tahun; tanggal persisnya mengikuti kalender Tamil."
   holiday: "Hari libur umum hanya di negara bagian dan wilayah persekutuan yang menetapkannya dalam warta (termasuk Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor dan Kedah) — bukan hari libur persekutuan secara nasional."
   etiquette: "Non-Hindu dipersilakan menyaksikan arak-arakan dan pendakian; berpakaianlah sopan di dekat kuil, lepaskan alas kaki di tempat yang mengharuskannya, dan mintalah izin sebelum memotret umat yang membawa kavadi."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Para pemuja menaiki tangga berwarna pelangi di Batu Caves menuju kuil gua yang berhias di bawah tebing kapur yang menjulang saat Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: Kerumunan padat peziarah memenuhi jalan setapak di Batu Caves di bawah patung emas Dewa Murugan yang menjulang dan perbukitan kapur berhutan sewaktu Thaipusam
+    kind: actual
+    origin: third-party
+    subject: Kerumunan peziarah Thaipusam di bawah patung emas Dewa Murugan di Batu Caves
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: Seorang pemuja Thaipusam dilihat dari belakang memikul kavadi bertiang yang digantungi lonceng dan membawa sebuah pot susu perak di depan gopuram kuil Hindu yang berwarna-warni di Ipoh, Perak
+    kind: actual
+    origin: third-party
+    subject: Pembawa kavadi membawa pot susu dalam prosesi Thaipusam di Ipoh
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 Sebelum subuh, sebuah bukit batu kapur di pinggir utara Kuala Lumpur dipenuhi bunyi — gendang, nyanyian, hentakan beratus ribu kaki telanjang di atas batu. Di kaki tangga bertingkat 272, berdiri sebuah patung emas yang lebih tinggi daripada bangunan empat belas lantai. Pendakian dimulai, dan ia tidak akan berhenti hampir sepanjang hari.

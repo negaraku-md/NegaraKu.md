@@ -31,7 +31,7 @@ faq:
   - q: மலேசியாவில் கோகோ இன்னும் எங்கு பயிரிடப்படுகிறது?
     a: "பெரும்பாலும் சபாவில்; குறிப்பாக உள்பகுதி மற்றும் தாவாவு பகுதியில், இது வரலாற்று ரீதியாக 1980களின் ஏற்றத்தை இயக்கியது; மீதமுள்ள பயிரிடப்பட்ட பரப்பிலும் உற்பத்தியிலும் பெரும்பகுதியை இன்னும் கொண்டுள்ளது."
 lang: ta
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'நிழலான தோட்டத்தில் ஒரு கொக்கோ மரத்தின் அடிமரத்திலிருந்து நேரடியாக வளரும் இரண்டு பெரிய பச்சை கொக்கோ காய்கள்.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: புளிக்கவைக்கப்பட்ட கோகோ விதைகள் திறந்த வெயிலில் உலர்த்துவதற்காக மரத் தட்டில் பரப்பப்பட்டுள்ளன.
+    kind: representative
+    origin: third-party
+    subject: வெயிலில் உலர்த்தப்படும் கோகோ விதைகள்
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: சாக்லேட் பதப்படுத்தும்போது அரைக்கும் ஆலையில் இடுவதற்குத் தயாராக வறுக்கப்பட்ட, கரும்பழுப்பு கோகோ விதைகளின் குவியல்.
+    kind: representative
+    origin: third-party
+    subject: பதப்படுத்தத் தயாராக வறுக்கப்பட்ட கோகோ விதைகள்
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 மலேசியா, கோகோ பயிரிடுவதை கிட்டத்தட்ட நிறுத்திவிட்ட உலகின் மாபெரும் கோகோ பதப்படுத்தும் நாடுகளில் ஒன்று. ஒரே தலைமுறையில், சபா மற்றும் தீபகற்ப மலேசியாவின் மலைச்சரிவுகள் கொட்டைகளால் நிறைந்த, முதல் நான்கு கொட்டை உற்பத்தியாளர் ஒருவராக இருந்த நிலையிலிருந்து, கப்பல் கணக்கில் கொட்டைகளை இறக்குமதி செய்து தனது சொந்த அறுவடையாக சில நூறு டன்களை மட்டுமே பெறும் இடமாக அந்நாடு மாறிவிட்டது. தங்கி, செழித்தது தொழிற்சாலைப் பகுதிதான்: இறக்குமதி செய்யப்படும் கொட்டைகளை ஏற்றுமதிக்கான கோகோ வெண்ணெய், தூள், சாறு மற்றும் முடிக்கப்பட்ட இனிப்புகளாக மாற்றும் அரைக்கும் ஆலைகள், சுத்திகரிப்பகங்கள் மற்றும் சாக்லேட் உற்பத்தி வரிசைகள். இதன் விளைவு ஒரு "கோகோ முரண்பாடு" - கிட்டத்தட்ட மறைந்துவிட்ட ஒரு மேல்மட்டத்தின் மேல் அமர்ந்திருக்கும் உலகத்தரம் வாய்ந்த கீழ்மட்டத் தொழில்.

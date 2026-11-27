@@ -87,9 +87,10 @@ entity: "Law Reform (Marriage and Divorce) Act 1976"
 relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
-related: []
+related: ["islamic-family-law-malaysia", "wills-and-probate-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["Akta 164", "नागरिक विवाह", "ग़ैर-मुस्लिम तलाक", "वैवाहिक संपत्ति", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "धारा 76", "राष्ट्रीय पंजीकरण विभाग"]
 framework: rules
+wikidata: "Q142235988"
 ---
 
 यदि आप ग़ैर-मुस्लिम हैं और मलेशिया में विवाह करते हैं, तो एक ही कानून यह तय करता है कि विवाह वैध है या नहीं, इसे कैसे समाप्त किया जा सकता है, और इसके समाप्त होने पर किसे क्या मिलता है — कानून सुधार (विवाह और तलाक) अधिनियम 1976, जो Act 164 के नाम से अधिक जाना जाता है।

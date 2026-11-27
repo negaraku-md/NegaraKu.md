@@ -34,7 +34,7 @@ faq:
     a: "PETRA (el Ministerio de Transición Energética y Transformación del Agua) es el ministerio que formula la política nacional de energía y agua e impulsa la transición hacia las emisiones netas cero para 2050. La Comisión de Energía es el organismo regulador legal, dependiente de PETRA, que concede licencias, fija tarifas y hace cumplir las leyes que rigen el suministro de electricidad y gas."
 
 lang: "es"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'Una vista aérea de una central eléctrica de carbón costera con chimeneas y embarcaderos que se adentran en el mar.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: Una central eléctrica a gas con salas de turbinas, chimeneas metálicas de escape y una subestación vallada de transformadores y pórticos de acero, en un terreno despejado con colinas boscosas y un cielo luminoso al fondo
+    kind: actual
+    origin: third-party
+    subject: la central eléctrica de Rugading, cerca de Kota Kinabalu, Sabah, una planta de generación a gas que alimenta la red de Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: Una central eléctrica costera con edificios industriales bajos, conductos metálicos y una alta chimenea tras una valla perimetral, con palmeras y terreno abierto cerca bajo un cielo brumoso
+    kind: actual
+    origin: third-party
+    subject: la central eléctrica de Tanjung Kling en la costa de Melaka, parte del parque de generación de la Malasia peninsular
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 Pulse un interruptor de la luz en Kuala Lumpur, llene el depósito de RON95 en Ipoh o instale paneles solares en un tejado de Johor: detrás de cada uno de esos actos hay una red de instituciones, leyes y políticas que los consumidores rara vez ven. El sector energético de Malasia no es una sola cosa; son cuatro mundos que se solapan: electricidad, petróleo y gas, combustibles y energía renovable. Esta guía traza quién controla qué y cómo encaja todo.

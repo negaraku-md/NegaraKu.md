@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 
 status: "published"
 aiAssisted: true
@@ -75,9 +75,36 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'ペラ州のロイヤル・ブルムで、穏やかな湖の上の密な緑の熱帯雨林に覆われた丘に広がる低い雲と霧'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: タマンヌガラの原生熱帯雨林内、日の当たるヤシの葉と、木陰の小道沿いに密生する緑の下層植生
+    kind: actual
+    origin: third-party
+    subject: タマンヌガラの原生熱帯雨林の林床にあるヤシの下層植生と落ち葉
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: タマンヌガラのブキッ・テリセクから見た、曇り空の下、青い霞に溶け込む密な熱帯雨林に覆われたなだらかな丘
+    kind: actual
+    origin: third-party
+    subject: ブキッ・テリセクから見た、タマンヌガラの途切れることなく森に覆われた丘
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 マレーシアの森林地は、木々に覆われているというだけで「保護されている」わけではない――その保護は、その土地の名称が官報に掲載された日から始まる。その官報告示がなければ、同じ森林はいつでも開発のための許可を与えられ得る。これこそが、マレーシアの永久保存林（PRF）制度全体の基盤である。

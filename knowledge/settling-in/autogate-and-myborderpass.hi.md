@@ -1,0 +1,171 @@
+---
+topicId: MY-LIV-0914
+title: "Autogate और MyBorderPass: यात्री मलेशिया की आप्रवासन जाँच कैसे पार करते हैं"
+seoTitle: "Autogate और MyBorderPass: मलेशिया के आप्रवासन ई-गेट का उपयोग"
+slug: "autogate-and-myborderpass"
+category: "settling-in"
+subcategory: ["immigration"]
+summary: "Autogate मलेशिया का स्वचालित आप्रवासन ई-गेट है। 2024 से 63 देशों के विदेशी पासपोर्ट धारक इसका उपयोग कर सकते हैं, MyBorderPass ऐप मलेशियावासियों को KLIA पर QR-कोड लेन देता है, और एक अलग ऐप, MyNIISe, विदेशी यात्रियों के लिए शुरू किया जा रहा है। यहाँ बताया गया है कि कौन पात्र है और नामांकन कैसे करें।"
+
+tier: "3"
+mode: "practical"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "Autogate एक स्वचालित आप्रवासन गेट है जो आपके पासपोर्ट चिप को पढ़ता है और आपके चेहरे का मिलान करता है, बिना किसी अधिकारी के सेकंडों में आपको पार करा देता है। वर्षों तक केवल मलेशियाई नागरिक, स्थायी निवासी, MM2H प्रतिभागी और दीर्घकालिक पास धारक ही इसका उपयोग कर सकते थे, लेकिन 2024 से मलेशिया ने 63 पात्र देशों के विदेशी पासपोर्ट धारकों के लिए Autogate खोल दिया। नाम भ्रम पैदा करते हैं: MyBorderPass KLIA पर मलेशियावासियों के लिए एक QR-कोड ऐप है, जबकि MyNIISe विदेशी यात्रियों के लिए शुरू किया जा रहा एक अलग ऐप है। विदेशी आगंतुकों को पहले Malaysia Digital Arrival Card (MDAC) जमा करनी होती है और, पहली यात्रा पर, Autogate द्वारा पहचाने जाने से पहले किसी कर्मचारी-युक्त काउंटर पर अपना पासपोर्ट पंजीकृत कराना होता है। भौतिक पासपोर्ट अब भी हर गेट पर काम करता है, इसलिए 2026 की शुरुआत तक इनमें से कोई भी ऐप अनिवार्य नहीं है।"
+keyTakeaways:
+  - "Autogate आपके पासपोर्ट चिप को स्कैन करके और आपके चेहरे का मिलान करके आपको पार कराता है — लगभग 15-25 सेकंड, या नए QR लेन में 5-7 सेकंड।"
+  - "2024 से 63 पात्र देशों के विदेशी पासपोर्ट धारक मलेशियाई Autogate का उपयोग कर सकते हैं; इससे पहले यह केवल नागरिकों, PR, MM2H और दीर्घकालिक पास धारकों के लिए था।"
+  - "MyBorderPass मलेशियावासियों के लिए एक QR-कोड ऐप है (जनवरी 2025 में शुरू, KLIA टर्मिनल 1 और 2 पर 40 लेन) — यह विदेशी पर्यटकों के लिए ऐप नहीं है।"
+  - "MyNIISe विदेशी यात्रियों के लिए शुरू किया जा रहा ऐप है: NFC से पासपोर्ट चिप स्कैन करें, एक सेल्फी लें, फिर गेट पर उपयोग करने के लिए एक QR कोड बनाएँ।"
+  - "विदेशी आगंतुकों को आगमन से पहले Malaysia Digital Arrival Card (MDAC) जमा करनी होती है और, पहली यात्रा पर, आमतौर पर Autogate का उपयोग करने से पहले एक मैनुअल काउंटर पर अपना पासपोर्ट पंजीकृत कराना होता है।"
+  - "2026 की शुरुआत तक कोई भी ऐप अनिवार्य नहीं है — भौतिक पासपोर्ट अब भी हर Autogate और मैनुअल काउंटर पर स्वीकार किया जाता है।"
+appliesTo: "विदेशी पर्यटक, व्यावसायिक यात्री और निवासी, साथ ही मलेशियावासी, जो मलेशिया में प्रवेश करते या बाहर निकलते समय स्वचालित आप्रवासन लेन का उपयोग करना चाहते हैं।"
+
+faq:
+  - q: "क्या विदेशी मलेशिया के Autogate का उपयोग कर सकते हैं?"
+    a: "हाँ। 2024 से, 63 पात्र देशों के विदेशी पासपोर्ट धारक मलेशियाई हवाई अड्डों पर Autogate का उपयोग कर सकते हैं, बशर्ते उन्होंने Malaysia Digital Arrival Card जमा की हो और, पहली यात्रा पर, अपना पासपोर्ट पंजीकृत कराया हो। 2024 से पहले ये गेट नागरिकों, स्थायी निवासियों, MM2H और दीर्घकालिक पास धारकों तक सीमित थे। यात्रा से पहले आप्रवासन विभाग की साइट पर वर्तमान पात्र-देश सूची देखें।"
+  - q: "क्या MyBorderPass विदेशियों के लिए है?"
+    a: "नहीं। MyBorderPass मलेशियाई नागरिकों के लिए एक QR-कोड ऐप है, जो जनवरी 2025 में KLIA टर्मिनल 1 और 2 पर शुरू हुआ। विदेशी यात्रियों को इसके बजाय एक अलग ऐप, MyNIISe (राष्ट्रीय एकीकृत आप्रवासन प्रणाली ऐप), में शामिल किया जाता है। विदेशी MyBorderPass के लिए पंजीकरण नहीं करते।"
+  - q: "एक विदेशी के रूप में Autogate का उपयोग करने के लिए मैं नामांकन कैसे करूँ?"
+    a: "आगमन से तीन दिन के भीतर Malaysia Digital Arrival Card जमा करें। अपने पहले प्रवेश पर आप आम तौर पर एक कर्मचारी-युक्त काउंटर पर आप्रवासन पार करते हैं ताकि आपका पासपोर्ट और बायोमेट्रिक्स पंजीकृत हो जाएँ; उसके बाद आप प्रस्थान पर और बाद की यात्राओं में Autogate का उपयोग कर सकते हैं। नए QR लेन का उपयोग करने के लिए, MyNIISe ऐप में पंजीकरण करें, अपने पासपोर्ट चिप को स्कैन करें और एक सेल्फी लें, फिर गेट पर एक QR कोड बनाएँ।"
+  - q: "किन हवाई अड्डों और सीमाओं पर Autogate हैं?"
+    a: "Autogate KLIA टर्मिनल 1 और टर्मिनल 2 पर तथा प्रमुख स्थल एवं समुद्री क्रॉसिंग पर संचालित होते हैं। QR-कोड लेन KLIA पर (मलेशियावासियों के लिए MyBorderPass) शुरू हुए, और विदेशियों के लिए MyNIISe रोलआउट के लिए, जोहोर स्थल क्रॉसिंग पर — Bangunan Sultan Iskandar (BSI) और Kompleks Sultan Abu Bakar (KSAB) — शुरू हुए, जिसमें KLIA, पेनांग, कुचिंग और कोटा किनाबालु तक विस्तार की योजना है। यात्रा से पहले पुष्टि करें कि कौन-से लेन चालू हैं।"
+  - q: "क्या मुझे अब भी अपने भौतिक पासपोर्ट की आवश्यकता है?"
+    a: "हाँ, हमेशा। ऐप और QR कोड गेट को तेज़ करते हैं, लेकिन वे आपके यात्रा दस्तावेज़ की जगह नहीं लेते। 2026 की शुरुआत तक कोई भी ऐप अनिवार्य नहीं है, और Autogate तथा मैनुअल काउंटर अब भी भौतिक पासपोर्ट स्वीकार करते हैं। कम से कम छह महीने की पासपोर्ट वैधता बनाए रखें।"
+
+lang: "hi"
+sourceContentHash: "fe905739669d5516"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "published"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-11-22
+reviewDue: 2027-11-22
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-11-22
+    change: "Reviewed and published."
+    reviewer: "ashton-tan"
+verificationNeeded:
+  - "वर्तमान में उन देशों की सूची जिनके नागरिक Autogate का उपयोग कर सकते हैं (दिसंबर 2024 में पुष्ट 63 देश) और क्या यह तब से बदली है — मलेशिया आप्रवासन विभाग से पुष्टि करें।"
+  - "क्या पहली बार आने वाले विदेशी यात्रियों को Autogate का उपयोग करने से पहले अब भी मैनुअल काउंटर पर पंजीकरण करना पड़ता है — रिपोर्टें असंगत हैं, कुछ यात्री कहते हैं कि आगमन पर पंजीकरण अब आवश्यक नहीं; वर्तमान प्रक्रिया की आप्रवासन से पुष्टि करें।"
+  - "क्या विदेशी यात्रियों के लिए MyNIISe QR सुविधा जोहोर क्रॉसिंग (BSI, KSAB) और KLIA टर्मिनल 1 से आगे घोषित अन्य स्थानों तक विस्तृत हुई है, और इसकी वर्तमान अनिवार्य/वैकल्पिक स्थिति।"
+  - "Autogate उपयोग के लिए कोई न्यूनतम-आयु नियम और बच्चों एवं परिवारों के लिए प्रक्रिया — यहाँ पुष्ट नहीं; आप्रवासन से सत्यापित करें।"
+  - "Autogate पात्रता के लिए वर्तमान पासपोर्ट-वैधता आवश्यकता (व्यापक रूप से कम से कम छह महीने बताई गई) को आधिकारिक मार्गदर्शन के विरुद्ध।"
+
+updated: 2026-11-22
+sources:
+  - title: "मलेशिया आप्रवासन विभाग (आधिकारिक पोर्टल) (Immigration Department of Malaysia (official portal))"
+    url: "https://www.imi.gov.my/index.php/en/"
+    publisher: "मलेशिया आप्रवासन विभाग (JIM)"
+  - title: "मलेशिया डिजिटल आगमन कार्ड (MDAC) (Malaysia Digital Arrival Card (MDAC))"
+    url: "https://imigresen-online.imi.gov.my/mdac/main"
+    publisher: "मलेशिया आप्रवासन विभाग (JIM)"
+  - title: "KLIA पर QR कोड आप्रवासन क्लीयरेंस के उपयोग से पहले MyBorderPass पंजीकरण आवश्यक (MyBorderPass registration needed before using QR code Immigration clearance at KLIA)"
+    url: "https://www.thestar.com.my/news/nation/2025/01/04/myborderpass-registration-needed-before-using-qr-code-immigration-clearance-at-klia"
+    publisher: "The Star"
+  - title: "मलेशिया के प्रवेश द्वार पर 53 और देशों को Autogate सुविधा दी गई (53 more countries given autogate facility at Malaysia's entrance)"
+    url: "https://www.thestar.com.my/news/nation/2024/12/02/53-more-countries-given-autogate-facility-at-malaysia039s-entrance"
+    publisher: "The Star"
+  - title: "आप्रवासन पार करने के लिए उपलब्ध विकल्प (Options available to clear immigration)"
+    url: "https://www.thestar.com.my/news/nation/2026/01/15/options-available-to-clear-immigration"
+    publisher: "The Star"
+  - title: "आप्रवासन पार करने के लिए MyNIISe और MyDigital ID अनिवार्य नहीं, Autogate अब भी भौतिक पासपोर्ट स्वीकार करता है (MyNIISe and MyDigital ID not compulsory to clear immigration, autogate still accepts physical passport)"
+    url: "https://soyacincau.com/2026/01/14/myniise-and-mydigital-id-not-compulsory-to-clear-immigration-autogate-still-accepts-physical-passport/"
+    publisher: "SoyaCincau"
+  - title: "अधिक नागरिक Autogate के लिए पात्र (More Nationals Eligible For Autogate)"
+    url: "https://www.fragomen.com/insights/malaysia-more-nationals-eligible-for-autogate.html"
+    publisher: "Fragomen"
+
+entity: "Autogate and MyBorderPass"
+relations:
+  - { rel: "related-to", to: "malaysia-entry-visa-requirements-by-nationality" }
+  - { rel: "related-to", to: "immigration-department-jim" }
+  - { rel: "related-to", to: "driving-to-singapore-and-thailand" }
+  - { rel: "related-to", to: "mykad-and-identity-documents" }
+related: ["malaysia-entry-visa-requirements-by-nationality", "immigration-department-jim", "driving-to-singapore-and-thailand", "mykad-and-identity-documents"]
+keywords: ["Malaysia autogate", "MyBorderPass", "MyNIISe", "autogate foreigners Malaysia", "KLIA QR code immigration", "Malaysia e-gate eligibility", "autogate 63 countries", "Malaysia Digital Arrival Card"]
+framework: profile
+hero: '/media/settling-in/autogate-and-myborderpass/hero.webp'
+heroAlt: 'एक चमकीले हवाई अड्डे के आव्रजन हॉल में काँच की बाधाओं और स्कैनिंग कियोस्क वाले स्वचालित स्व-सेवा पासपोर्ट ई-गेटों की एक कतार।'
+heroCredit: 'Devilfighter_de; derivative work by Bonus bon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0 de'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: कुआलालंपुर अंतर्राष्ट्रीय हवाई अड्डा टर्मिनल 1 का आगमन हॉल, जहाँ यात्री आव्रजन से गुज़रते हैं
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर अंतर्राष्ट्रीय हवाई अड्डा टर्मिनल 1 का आगमन हॉल
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: जोहोर बाहरू के ज़मीनी सीमा-पारगमन पर Bangunan Sultan Iskandar आव्रजन चौकी परिसर
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Iskandar CIQ परिसर, सिंगापुर के लिए जोहोर बाहरू का ज़मीनी सीमा-पारगमन
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
+---
+
+**Autogate** एक स्वचालित आप्रवासन गेट है: यह आपके पासपोर्ट में लगे चिप को पढ़ता है, आपके चेहरे का फोटो से मिलान करता है, और खुल जाता है — कोई अधिकारी नहीं, कोई स्याही की मुहर नहीं, आमतौर पर आधे मिनट से भी कम में। नए QR-कोड लेन और भी तेज़ हैं, जो एक यात्री को लगभग पाँच से सात सेकंड में पार करा देते हैं। जो कोई भी मलेशियाई सीमा नियमित रूप से पार करता है, उसके लिए यह जानना कि आपको कौन-सा लेन उपयोग करने की अनुमति है, वास्तविक समय बचाता है।
+
+नामकरण ही वह जगह है जहाँ अधिकांश लोग भ्रमित होते हैं, तो यहाँ से शुरू करें: **MyBorderPass मलेशियावासियों के लिए है, और विदेशी यात्री एक अलग मार्ग का उपयोग करते हैं।** यह मार्गदर्शिका स्पष्ट करती है कि कौन क्या उपयोग कर सकता है।
+
+## Autogate का उपयोग कौन कर सकता है
+
+वर्षों तक मलेशिया के Autogate **मलेशियाई नागरिकों, स्थायी निवासियों, MM2H प्रतिभागियों और दीर्घकालिक पास धारकों** (जैसे रोज़गार पास धारक) के लिए आरक्षित थे। यह 2024 में बदल गया, जब मलेशिया ने **63 पात्र देशों के विदेशी पासपोर्ट धारकों** के लिए गेट खोल दिए — इस विस्तार की पुष्टि गृह मंत्रालय ने दिसंबर 2024 में की।
+
+| यात्री | Autogate का उपयोग कर सकता है? | कैसे |
+| --- | --- | --- |
+| मलेशियाई नागरिक | हाँ | पासपोर्ट चिप, या KLIA पर MyBorderPass QR ऐप |
+| PR / MM2H / दीर्घकालिक पास धारक | हाँ | गेट पर पासपोर्ट चिप |
+| पात्र देश से विदेशी आगंतुक | हाँ, नामांकन के बाद | MDAC + पहली-यात्रा पासपोर्ट पंजीकरण; जहाँ उपलब्ध हो वहाँ MyNIISe QR |
+| गैर-सूचीबद्ध देश से विदेशी आगंतुक | अभी नहीं | कर्मचारी-युक्त मैनुअल काउंटर का उपयोग करें |
+
+पात्र देशों की सूची बदल सकती है, इसलिए गेट पर निर्भर होने से पहले [मलेशिया आप्रवासन विभाग](/hi/settling-in/immigration-department-jim/) की साइट पर अपनी राष्ट्रीयता की पुष्टि करें।
+
+## MyBorderPass बनाम MyNIISe
+
+दो ऐप शामिल हैं, और वे परस्पर विनिमेय नहीं हैं:
+
+- **MyBorderPass** — **मलेशियाई नागरिकों** के लिए एक QR-कोड ऐप, जो जनवरी 2025 में **KLIA टर्मिनल 1 और टर्मिनल 2** पर 40 समर्पित लेन के साथ शुरू हुआ। मलेशियावासी अपना विवरण पंजीकृत करते हैं, चेहरे की जाँच पूरी करते हैं, और सेकंडों में पार करने के लिए एक QR कोड स्कैन करते हैं।
+- **MyNIISe** (राष्ट्रीय एकीकृत आप्रवासन प्रणाली ऐप) — **विदेशी यात्रियों** के लिए शुरू किया जा रहा ऐप। आप NFC का उपयोग करके फोन के ऊपर अपने पासपोर्ट चिप को स्कैन करते हैं, अपनी पहचान सत्यापित करने के लिए एक सेल्फी लेते हैं, फिर गेट पर स्कैन करने के लिए एक QR कोड बनाते हैं। QR कोड समाप्त हो जाता है, इसलिए आवश्यकता पड़ने पर आप इसे पुनः बनाते हैं।
+
+2026 की शुरुआत तक, **कोई भी ऐप अनिवार्य नहीं है** — Autogate और मैनुअल काउंटर अब भी भौतिक पासपोर्ट स्वीकार करते हैं।
+
+## एक विदेशी यात्री के रूप में नामांकन: चरण दर चरण
+
+1. **अपनी पात्रता जाँचें।** पुष्टि करें कि आपकी राष्ट्रीयता वर्तमान Autogate सूची में है और आपके पासपोर्ट की वैधता कम से कम छह महीने है।
+2. **Malaysia Digital Arrival Card (MDAC) जमा करें।** आपके पहुँचने से तीन दिन के भीतर आधिकारिक आप्रवासन पोर्टल पर इसे दाखिल करें। यह लगभग हर यात्रा पर लागू होता है — देखें [मलेशिया में प्रवेश के लिए किसे वीज़ा चाहिए](/hi/settling-in/malaysia-entry-visa-requirements-by-nationality/)।
+3. **पहला प्रवेश मैनुअल काउंटर पर पार करें।** पहली यात्रा पर, आप आम तौर पर अब भी एक कर्मचारी-युक्त काउंटर पर कतार में खड़े होते हैं ताकि आपका पासपोर्ट और बायोमेट्रिक्स सिस्टम में पंजीकृत हो जाएँ।
+4. **उसके बाद Autogate का उपयोग करें।** एक बार नामांकित होने पर, आप प्रस्थान पर और बाद की यात्राओं में Autogate का उपयोग कर सकते हैं।
+5. **QR लेन के लिए, MyNIISe में पंजीकरण करें।** जहाँ QR सुविधा चालू है, ऐप को पहले से सेट करें, अपने पासपोर्ट चिप को स्कैन करें, अपनी सेल्फी जोड़ें, और गेट पर एक QR कोड बनाएँ।
+
+## गेट कहाँ हैं
+
+Autogate **KLIA टर्मिनल 1 और टर्मिनल 2** पर तथा प्रमुख स्थल एवं समुद्री क्रॉसिंग पर संचालित होते हैं। विदेशियों के लिए QR रोलआउट (MyNIISe) व्यस्त **जोहोर स्थल क्रॉसिंग** पर शुरू हुआ — **Bangunan Sultan Iskandar (BSI)** और **Kompleks Sultan Abu Bakar (KSAB)** — जिसमें KLIA, पेनांग, कुचिंग और कोटा किनाबालु तक विस्तार की घोषणा की गई है। यदि आप [सिंगापुर की ओर गाड़ी चला रहे हैं](/hi/transport/driving-to-singapore-and-thailand/), तो जोहोर कॉज़वे और Second Link ठीक वही जगहें हैं जहाँ ये लेन सबसे अधिक मायने रखते हैं।
+
+## आम चूक
+
+- **पहली ही यात्रा पर Autogate के काम करने की अपेक्षा करना।** पहली बार के लिए एक मैनुअल काउंटर की योजना बनाएँ ताकि आपका पासपोर्ट पंजीकृत हो जाए।
+- **गलत ऐप डाउनलोड करना।** विदेशी MyBorderPass का उपयोग नहीं करते; वह मलेशियावासियों के लिए है। MyNIISe खोजें।
+- **ऐसा पासपोर्ट जिसे गेट पढ़ न सके।** Autogate को एक बायोमेट्रिक (चिप वाला) पासपोर्ट चाहिए; बिना चिप वाला पुराना दस्तावेज़, क्षतिग्रस्त चिप, या घिसा हुआ फोटो पृष्ठ आपको काउंटर पर भेज सकता है।
+- **बच्चे और परिवार।** Autogate उपयोग के लिए आयु और परिवार संबंधी नियम एक समान नहीं हैं — छोटे बच्चों के साथ काउंटर का उपयोग करने के लिए तैयार रहें।
+- **ऐप को हवाई अड्डे तक टालना।** गेट तक पहुँचने से पहले अपना QR कोड पंजीकृत करें और बनाएँ; ऐप साइन-अप और NFC स्कैनिंग एक स्थिर कनेक्शन पर आसान होती है।
+
+## आगे क्या
+
+मलेशिया स्वचालित क्लीयरेंस को लगातार व्यापक बना रहा है, इसलिए पात्र-देश सूची और ऐप आवश्यकताएँ दोनों गतिशील लक्ष्य हैं। यात्रा से पहले, [मलेशिया आप्रवासन विभाग](/hi/settling-in/immigration-department-jim/) से वर्तमान नियमों की पुष्टि करें, अपना MDAC जमा करें, और एक चिप वाला पासपोर्ट साथ रखें। सीमा पार करने के बाद मलेशिया के भीतर पहचान और स्थिति के प्रमाण के लिए, देखें [MyKad और पहचान दस्तावेज़](/hi/settling-in/mykad-and-identity-documents/)।
+
+यह भी देखें: [मलेशिया में प्रवेश के लिए किसे वीज़ा चाहिए](/hi/settling-in/malaysia-entry-visa-requirements-by-nationality/), [आप्रवासन विभाग (JIM)](/hi/settling-in/immigration-department-jim/), [सिंगापुर और थाईलैंड की ओर गाड़ी चलाना](/hi/transport/driving-to-singapore-and-thailand/)।

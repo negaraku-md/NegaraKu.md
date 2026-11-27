@@ -23,7 +23,7 @@ verificationNeeded:
   - "Bài viết này không nêu số lượng tuyển sinh của chương trình, tỷ lệ chỉ tiêu, hay con số học phí cụ thể cho bất kỳ cơ sở nào — những điều này thay đổi theo chương trình và cơ sở và thay đổi mỗi đợt tuyển; hãy xác nhận trực tiếp với e-Panduan của UPU (đối với các trường đại học công lập) hoặc từng cơ sở (đối với các trường đại học tư thục) trước khi nộp đơn."
   - "Con số chính xác hiện tại của các cơ sở IPTS đã đăng ký không được nêu ở đây vì các bảng thống kê công bố của MOHE (Statistik Pendidikan Tinggi) chưa được mở đầy đủ cho bài viết này — để có một con số chính xác, hiện hành, hãy tham khảo trực tiếp ấn phẩm Statistik Pendidikan Tinggi của MOHE."
 lang: "vi"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,39 @@ faq:
   - q: Một chương trình chỉ được "kiểm định tạm thời" — điều đó có nghĩa là nó chưa được kiểm định không?
     a: Không. Theo Bộ Quy tắc Thực hành Kiểm định Chương trình của MQA, Kiểm định Tạm thời (Provisional Accreditation) xác nhận rằng một chương trình đã đáp ứng các yêu cầu chất lượng tối thiểu để được phép giảng dạy hợp pháp, và bản thân nó là một điều kiện để Bộ phê duyệt. Kiểm định Đầy đủ (Full Accreditation) là đánh giá toàn diện hơn, được thực hiện sau khi khóa sinh viên đầu tiên đã hoàn thành chương trình. Một chương trình được kiểm định tạm thời là hợp pháp và có thể giảng dạy hợp pháp; nó chỉ đơn giản là chưa hoàn thành đánh giá trọn chu kỳ.
 framework: explainer
+stayFacts:
+  who: 'Dành cho những người có SPM, STPM, dự bị đại học (matriculation), asasi, UEC, A-Level hoặc bằng diploma đang chọn giữa một trường đại học công lập (IPTA/Universiti Awam) và một trường đại học tư thục (IPTS).'
+  how: 'Các trường đại học công lập tuyển sinh gần như hoàn toàn qua UPU, hệ thống trực tuyến tập trung của Bộ — bạn xếp hạng các nguyện vọng chương trình và được ghép theo năng lực so với số chỗ có hạn theo chỉ tiêu. Các cơ sở tư thục nằm ngoài UPU, tự tổ chức tuyển sinh cuốn chiếu trực tiếp, và chấp nhận một tập hợp bằng cấp rộng hơn.'
+  cost: 'Bản thân việc nộp đơn UPU là miễn phí, dù bạn phải mua một Unik ID gồm 12 chữ số từ Bank Simpanan Nasional (BSN) để đăng nhập; học phí của cơ sở tư thục được đặt theo từng chương trình và thay đổi, vì vậy hãy xác nhận con số hiện hành với e-Panduan của UPU hoặc với cơ sở.'
+  watch: 'Nhãn IPTA/IPTS không cho bạn biết một tấm bằng có được công nhận hay không — điều đó phụ thuộc vào việc chương trình cụ thể có được MQA kiểm định trên MQR hay không, bạn nên tra cứu đúng năm nhập học của mình. Bạn không thể nộp đơn vào một trường đại học tư thục qua UPU.'
+  next: 'Hãy quyết định dựa trên bằng cấp bạn đang có, rồi kiểm chứng đúng chương trình và đợt nhập học trên Malaysian Qualifications Register trước khi ghi danh vào bất kỳ loại trường nào. Xem bài giải thích về kiểm định của MQA và bài Trước khi đóng tiền đặt cọc cho trường.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'Một sảnh dài theo trường phái hiện đại bằng bê tông thô với dòng chữ ''Dewan Tunku Canselor'' màu xanh và một cầu thang bên ngoài, phía trước là những vườn cây cắt tỉa và một con đường vắng'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Một tòa nhà hành chính đại học nhiều tầng bằng kính xanh với tháp trung tâm bo tròn trên một ngọn đồi được tạo cảnh, dẫn lên bằng các bậc thềm xếp tầng trưng cờ
+    kind: representative
+    origin: third-party
+    subject: tòa nhà Văn phòng Hiệu trưởng bằng kính hiện đại của Universiti Teknologi MARA (UiTM), một trong những đại học công lập lớn nhất Malaysia
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Một cổng vào đại học có trụ đá mang biển 'Universiti Sains Malaysia', hai bên là các cột cờ và cây xanh rậm rạp dưới bầu trời u ám
+    kind: representative
+    origin: third-party
+    subject: cổng chính của Universiti Sains Malaysia (USM), một đại học nghiên cứu công lập, ở Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Hai học sinh có cùng kết quả SPM lại kết thúc trong hai hệ thống hoàn toàn khác nhau.

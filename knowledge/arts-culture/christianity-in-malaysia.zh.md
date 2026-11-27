@@ -26,7 +26,7 @@ appliesTo: "任何想了解马来西亚基督教的人 — 包括其人口、集
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: 什么是马来西亚基督教联合会?它联合了哪些机构?
     a: 马来西亚基督教联合会(Christian Federation of Malaysia,CFM)成立于1985年,是主要的伞形组织。它联合了马来西亚基督教的三大脉络:天主教主教团(Catholic Bishops' Conference)、马来西亚教会理事会(Council of Churches of Malaysia,主流新教)以及全国福音派基督徒团契(National Evangelical Christian Fellowship)。CFM表示,它代表全国超过95%的教会,其中许多是沙巴与砂拉越讲马来语的会众。
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: '马六甲圣保罗山（St Paul''s Hill）上16世纪圣保罗教堂（St Paul''s Church）粉白的石砌遗迹，前景立着圣方济各·沙勿略（St Francis Xavier）的大理石雕像。'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: 白色哥特复兴式的圣玛利亚座堂，一座坐落于吉隆坡独立广场旁的圣公会教堂
+    kind: actual
+    origin: third-party
+    subject: 圣玛利亚圣公会座堂，吉隆坡
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: 沙巴斗湖现代风格的圣三一天主教堂，代表着东马的基督徒社群
+    kind: actual
+    origin: third-party
+    subject: 圣三一天主教堂，沙巴斗湖
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 马来西亚的基督教故事有两个重心，而它们都不在首都。一个可追溯至将近五个世纪前葡萄牙人在马六甲的堡垒；另一个则坐落在南中国海的另一端 — 在沙巴与砂拉越的长屋与山区社群里，基督教根本不是少数信仰，而是整片地区日常生活的宗教。

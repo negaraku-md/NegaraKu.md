@@ -22,7 +22,7 @@ appliesTo: "小学校入学（Tahun 1）前の保育・幼児教育の選択肢�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 
 status: "published"
 aiAssisted: true
@@ -69,6 +69,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'ジョホール州のマレーシアの幼稚園 Tadika Al-Falah の正面で、歓迎の看板と壁に沿って描かれたアルファベットの壁画がある。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: サバ州タワウにあるTadika Holy Trinityの入口と前庭。看板、色とりどりの三角旗、描かれたアニメの壁画があり、遠くの遊び場には幼い子どもたちが数人見える。
+    kind: representative
+    origin: third-party
+    subject: 色とりどりの三角旗とアニメの壁画で飾られたマレーシアのtadika（幼稚園）の正面
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: サバ州クニンガウにあるTadika St. Francis Xavierの街並み。緑の柵に囲まれた平屋建ての幼稚園で、壁には花やミツバチ、キノコの壁画が描かれている。
+    kind: representative
+    origin: third-party
+    subject: 子ども向けの壁画が描かれたマレーシアの幼稚園の校舎
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 多くの親は近所の「幼稚園（tadika）」に子どもを通わせる——申込書を出し、費用を払えば、それで済んだと思っている。しかし、めったに問われない疑問がある。その幼稚園は、いったいどこに登録されているのか。この答えは些細な問題ではない。子どもの年齢と施設の種類によって、まったく異なる二つの省庁のいずれかの所管となり、適用される法令、規則、執行方法もそれぞれ異なる。

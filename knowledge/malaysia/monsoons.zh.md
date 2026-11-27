@@ -70,7 +70,7 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 faq:
   - q: 为什么半岛东海岸发生水灾时,西海岸却同时保持干燥?
     a: 答案在于地理。东海岸直接面向南中国海,因此在东北季候风的潮湿气流抵达吉兰丹、登嘉楼、彭亨和柔佛之前,没有任何屏障阻挡它。西海岸则受到由北到南贯穿半岛的蒂迪旺沙山脉(Banjaran Titiwangsa)的保护;这道山脉迫使潮湿空气上升,并在气流抵达西侧之前,将大部分雨水降在东坡上。
@@ -79,6 +79,32 @@ faq:
   - q: 东北季候风在整个11月至3月期间都同样严重吗?
     a: 不是。国家安全理事会(MKN)针对2024/2025季节的官方数据显示,风险最高的地区会随阶段而变化。在初期阶段(11月至12月),吉兰丹、登嘉楼、彭亨、柔佛、砂拉越和沙巴受到影响;在后期阶段(1月至2月),重点转移到彭亨、柔佛、砂拉越和沙巴——吉兰丹和登嘉楼不再被列为风险最高地区。预计整个季节将录得5至7次强降雨。
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: '狂风裹挟暴雨抽打着一丛在空荡湿滑的城市广场上弯折的棕榈树，树叶在铅灰色天空下被吹得横向飞舞，高楼大厦消隐于倾盆大雨之中。'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: 在一场倾盆热带暴雨中，一辆汽车驶过淹没街道的黄褐色洪水，溅起水花。
+    kind: actual
+    origin: third-party
+    subject: 暴雨淹没了吉隆坡的拉惹朱兰路（Jalan Raja Chulan）
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: 倾盆大雨落在一条被浑浊洪水淹没的乡村小路上，水中立着香蕉树和一根电线杆。
+    kind: actual
+    origin: third-party
+    subject: 季风洪水漫过沙巴山打根的一条甘榜道路
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 每年11月，在查看新闻之前，哥打巴鲁（Kota Bharu）、瓜拉登嘉楼（Kuala Terengganu）与关丹（Kuantan）的许多居民就已开始查看住家附近的河流水位。这并非源自突发灾难的习惯——而是一份可以预测、年复一年重演的时间表，其成因是同一套季节性风系，也正是它决定了半岛西海岸何时转为干燥。

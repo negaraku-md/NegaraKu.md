@@ -28,7 +28,7 @@ faq:
     a: "2020년 결정에 따라 통행료는 2020년 2월 1일부터 18% 인하되었으며, 2058년까지의 연장 콘세션 기간 동안 통행료 인상은 예정되어 있지 않습니다."
 
 lang: "ko"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 framework: profile
+hero: '/media/companies/plus-malaysia/hero.webp'
+heroAlt: '흩어진 구름 낀 파란 하늘 아래, 가벼운 교통량의 남북고속도로 다차선 구간, 왼쪽 갓길에 노란 ''IKUT KIRI Kecuali Memotong'' 표지판이 있고 초록 가로수와 낮은 숲 언덕이 양옆에 있는 모습'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: 흐린 저녁 하늘 아래 PLUS 고속도로 톨게이트로 접근하며 앞유리 너머로 본 장면, 요금소 위에 Touch 'n Go와 SmartTAG 차로 표지판이 걸리고 빨강과 흰색 차로 분리대가 차량을 유도한다
+    kind: actual
+    origin: third-party
+    subject: PLUS가 운영하는 남북고속도로 235번 출구의 Tangkak 톨게이트
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: 흐린 잿빛 하늘 아래, 남북고속도로 차로를 가로질러 주황색 가변 정보 표시판을 떠받친 철골 고가 갠트리, 앞쪽에 한산한 교통과 공사용 콘, 길가 나무들이 보인다
+    kind: actual
+    origin: third-party
+    subject: 남북고속도로(PLUS)를 가로지르는 고가 가변 정보 표시 갠트리
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 북쪽의 부킷 카유 히탐(Bukit Kayu Hitam)에서 남쪽의 조호르바루(Johor Bahru)까지 신호등에 멈추지 않고 운전할 때마다, 여러분은 사실 한 회사의 자산을 지나는 것입니다. 바로 PLUS Malaysia Berhad입니다. 그것은 정부 기관도 아니지만 평범한 민간 회사도 아닙니다 — 정부와의 장기 협정 아래 국가 도로망의 근간을 운영하는 콘세션 보유자입니다.

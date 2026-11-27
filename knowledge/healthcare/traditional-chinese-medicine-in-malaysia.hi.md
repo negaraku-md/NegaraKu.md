@@ -32,7 +32,7 @@ faq:
   - q: "चीनी चिकित्सा का पाठ्यक्रम कहाँ पढ़ा जा सकता है?"
     a: "अब कई स्थानीय उच्च-शिक्षा संस्थान चीनी चिकित्सा स्नातक (ऑनर्स) पाठ्यक्रम प्रदान करते हैं, जिनमें से कुछ मलेशियाई योग्यता एजेंसी (MQA) से मान्यता-प्राप्त हैं, जैसे जोहोर के स्कुडाई स्थित Southern University College। स्नातक होना केवल पहला कदम है: चीनी चिकित्सक के रूप में अभ्यास के लिए अब भी पारंपरिक एवं पूरक चिकित्सा परिषद की पंजीकरण-शर्तें पूरी करनी होती हैं। प्रत्येक पाठ्यक्रम की मान्यता-स्थिति और प्रवेश-शर्तों के लिए संस्थान की आधिकारिक वेबसाइट और MQA की आधिकारिक सूची को आधार मानना चाहिए।"
 lang: "hi"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'पेनांग के जॉर्ज टाउन में एक पारंपरिक चीनी औषधि दुकान के भीतर, नामांकित जड़ी-बूटी दराज़ों और सूखी औषधीय जड़ी-बूटियों के साथ।'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: एक पारंपरिक चीनी चिकित्सा क्लिनिक की खिड़की जो जड़ी-बूटी दराज़ों की एक दीवार, एक एक्यूपंक्चर मॉडल और उपचार पोस्टर दिखा रही है, जो TCM पद्धति का प्रतिनिधित्व करती है
+    kind: representative
+    origin: third-party
+    subject: जड़ी-बूटी दराज़ों और चिकित्सा चार्टों वाली एक पारंपरिक चीनी चिकित्सा दुकान की खिड़की
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: एक पारंपरिक चीनी चिकित्सा दुकान के काउंटर पर एक छोटे तराज़ू पर तौली जा रही सूखी चीनी औषधीय जड़ी-बूटियाँ
+    kind: representative
+    origin: third-party
+    subject: एक चीनी चिकित्सा दुकान पर एक तराज़ू पर तौली जा रही सूखी जड़ी-बूटियाँ
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 कई पुराने शहरों के नुक्कड़ पर हमेशा एक चीनी औषधि-दुकान होती है: लकड़ी की अलमारियों की दीवार पर छोटी-छोटी दराज़ें सघन रूप से सजी रहती हैं, हवा में अंजेलिका जड़ (当归), सूखे संतरे के छिलके (陈皮) और मुलेठी (甘草) की मिली-जुली गंध रहती है; काउंटर के पीछे, बुज़ुर्ग वैद्य ग्राहक से यह सुनते हुए कि कहाँ तकलीफ़ है, औषधीय सामग्री एक-एक कर काग़ज़ में तौलते जाते हैं और फिर एक पुड़िया बाँध देते हैं। ऐसी दुकानें मलेशिया के चीनी समुदायों में सौ साल से अधिक से मौजूद हैं।

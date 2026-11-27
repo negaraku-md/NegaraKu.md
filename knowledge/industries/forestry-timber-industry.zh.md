@@ -31,7 +31,7 @@ faq:
   - q: 这与马来西亚的家具产业是同一回事吗？
     a: 不是。本指南涵盖上游资源领域——森林、采伐，以及原木、锯材与胶合板等初级产品。家具与成品木制品领域是下游制造端，把那些初级产品变成供出口的更高价值商品。两者相连，但通常被视为不同产业。
 lang: zh
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: '在马来西亚沙巴一处锯木场料场，一台轮式装载机和工人正在处理刚砍伐的硬木原木。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: 马来西亚沙巴一座乡村锯木厂的开敞屋顶下，堆叠着一垛垛锯好的硬木板材与原木。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚沙巴甘榜曼巴卡（Kampung Mempakad）的锯木厂
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: 在沙巴山打根一家胶合板厂，一台轮式装载机正将热带硬木原木运往修边车间。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚沙巴山打根胶合板厂的原木堆场
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 马来西亚横跨地球上一些最古老的雨林，在其现代历史的很长一段时间里，热带硬木贸易是国民经济的支柱之一。那个上游世界——森林本身、采伐它们的执照，以及把原木初步加工成木材——是一个与产业链更下游的家具工厂和木制品出口商截然不同的产业。本指南涵盖**林业与木材资源领域**：木材从哪里来、由谁掌控、如何出口，以及如今正重塑它的可持续性与市场压力。

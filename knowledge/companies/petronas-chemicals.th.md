@@ -31,7 +31,7 @@ faq:
     a: "การเข้าซื้อ Perstorp ของสวีเดนในปี 2022 เป็นศูนย์กลางของกลยุทธ์ 'stepping-out' (ก้าวออกไป) ของ PCG ในการกระจายตัวให้พ้นจากปิโตรเคมีสินค้าโภคภัณฑ์ไปสู่เคมีภัณฑ์พิเศษที่มีมูลค่าสูงกว่า เพิ่มผลิตภัณฑ์เช่นวัสดุขั้นสูง โภชนาการสัตว์ และโซลูชันที่ขับเคลื่อนด้วยความยั่งยืน"
 
 lang: "th"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,7 @@ sources:
     publisher: "StockAnalysis.com"
 
 entity: "Petronas Chemicals Group (PCG)"
+wikidata: "Q139388026"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "petronas" }
@@ -82,6 +83,33 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'มุมมองทางอากาศของคอมเพล็กซ์ปิโตรเคมีและโรงกลั่นชายฝั่งขนาดใหญ่ที่เปิงเงอรัง รัฐยะโฮร์ พร้อมถังเก็บสีขาวเป็นตาราง หน่วยกระบวนการ ชั้นวางท่อและท่าเทียบเรือทอดสู่ทะเลใต้ท้องฟ้าหมอกควัน'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: โรงงานปุ๋ยปิโตรเคมีขนาดใหญ่มองข้ามแม่น้ำ มีแถวหอหล่อเย็นยาว ท่อกระบวนการสีน้ำเงินและปล่องไฟแดง-ขาว ตั้งอยู่ตัดกับพรรณไม้สีเขียวและท้องฟ้าที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: โรงงาน ASEAN Bintulu Fertiliser ในรัฐซาราวัก โรงงานปิโตรเคมีผลิตแอมโมเนียและยูเรียที่ดำเนินการโดย PETRONAS Chemicals
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: ถังเก็บทรงกระบอกสีขาวขนาดใหญ่หลังรั้วลวดตาข่าย มีตัวอักษร 'PETRONAS 90 MLC' ข้างโลโก้หยดน้ำสีเขียวของ PETRONAS พร้อมท่อและโครงสร้างโรงงานอยู่ด้านข้างใต้ท้องฟ้าสีฟ้าที่มีเมฆบาง
+    kind: actual
+    origin: third-party
+    subject: ถังเก็บตราสินค้า PETRONAS ที่ Pengerang Integrated Complex ในรัฐยะโฮร์
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 ปุ๋ยเกือบทุกถุงที่โปรยบนไร่นาของมาเลเซีย และเรซินพลาสติกส่วนใหญ่ที่หล่อขึ้นในโรงงานของประเทศ ล้วนสืบย้อนกลับไปถึงบริษัทหนึ่ง: Petronas Chemicals Group Berhad มันเป็นแขนงเคมีภัณฑ์ของบริษัทน้ำมันแห่งชาติ เป็นผู้ผลิตเคมีภัณฑ์แบบบูรณาการที่ใหญ่ที่สุดในมาเลเซีย และ — ซึ่งผิดปกติสำหรับธุรกิจที่เชื่อมโยงกับรัฐ — เป็นบริษัทที่จดทะเบียนแยกต่างหากที่ใครก็ซื้อหุ้นได้

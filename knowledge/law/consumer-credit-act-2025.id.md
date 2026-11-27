@@ -101,9 +101,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 Bayar cicilan tiga bulan untuk sepasang sepatu, atau bawa pulang mobil baru dengan deposit 10% — dua transaksi kredit yang lazim bagi rakyat Malaysia, tetapi hingga baru-baru ini diatur oleh dunia hukum yang jauh berbeda. Kini, keduanya sedang disusun ulang pada waktu yang hampir bersamaan.

@@ -32,7 +32,7 @@ faq:
     a: "أحيانًا. يفضّل MMC أن تكون الاستشارات الافتراضية للمتابعة بعد علاقة قائمة بين الطبيب والمريض، لكنه يسمح باستشارة أولى عبر الإنترنت، خاصة في الرعاية الأولية، إذا وثّق الطبيب الأسباب. ويُوجَّه الأطباء إلى توخّي الحذر في وصف الدواء لمرضى لم يفحصوهم شخصيًا، وإلى إحالتك حضوريًا حين لا يكفي الوسيط الإلكتروني لتقييمك بأمان."
 
 lang: "ar"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["الطب عن بُعد", "telemedicine Malaysia", "طبيب عبر الإنترنت", "online doctor", "الاستشارة عن بُعد", "teleconsultation", "DoctorOnCall", "إرشادات MMC", "الوصفة الإلكترونية", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'طبيب في محطّة عمل للطبّ عن بُعد يراجع مريضًا بعيدًا على شاشة فيديو إلى جانب شاشات تشخيصية.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: طبيبة إلى مكتبها تتحدّث عبر الهاتف وتدوّن ملاحظات، وخلفها معطف أبيض على حامل، يمثّل استشارة طبية هاتفية عن بُعد
+    kind: representative
+    origin: third-party
+    subject: طبيبة تُجري استشارة عن بُعد عبر الهاتف إلى مكتبها
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: أيدٍ تمسك هاتفًا ذكيًّا يشغّل تطبيق استشارة مرئية للصحة عن بُعد إلى جانب مسبار موجات فوق صوتية محمول، يمثّل التشخيص عبر الإنترنت عن بُعد
+    kind: representative
+    origin: third-party
+    subject: فحص بالموجات فوق الصوتية مُوجَّه بالفيديو عن بُعد يُجرى عبر تطبيق على هاتف ذكي
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 تفتح تطبيقًا، وتجري مكالمة فيديو مع طبيب من أريكتك، وتصل وصفة طبية إلى بريدك الوارد بعد ساعة. في ماليزيا هذا قانوني تمامًا — لكن دفتر القواعد الذي يقف خلفه ليس القانون الذي قد تتوقعه.

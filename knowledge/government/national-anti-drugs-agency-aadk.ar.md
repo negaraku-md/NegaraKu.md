@@ -73,7 +73,7 @@ entity: "National Anti-Drugs Agency (Agensi Antidadah Kebangsaan, AADK)"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["ministry-of-home-affairs-kdn", "public-healthcare-system-malaysia", "social-welfare-department-jkm"]
 keywords: ["AADK", "Agensi Antidadah Kebangsaan", "National Anti-Drugs Agency", "drug rehabilitation Malaysia", "Cure and Care", "Puspen", "NADA Malaysia", "voluntary drug treatment", "Drug Dependants Act 1983"]
 social:
   hashtags: ["#AADK", "#NegaraKu", "#DrugRehabilitation", "#MalaysiaHomeAffairs"]

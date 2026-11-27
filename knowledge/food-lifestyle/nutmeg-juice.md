@@ -84,6 +84,7 @@ drinkFacts:
   halal: "Nutmeg juice is plant-based and non-alcoholic — nutmeg fruit, sugar, water and often a preserved plum — so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual stall or maker."
   served: "Served ice-cold against Penang's heat. Two common styles: a fresh 'white' juice from the raw fruit, and a darker, sweeter boiled version. Ask for 'asam' (preserved sour plum) to sharpen the balance; concentrate is also sold to mix at home."
   where: "Found at Penang fruit-juice and drink stalls, markets and food courts — most associated with George Town and the nutmeg-farming area of Balik Pulau — and sold as a bottled concentrate from Penang nutmeg makers."
+wikidata: "Q83165"
 ---
 
 Most people meet nutmeg as a hard brown seed grated over a custard or a curry. In

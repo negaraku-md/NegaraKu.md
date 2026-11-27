@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 
 status: "published"
 aiAssisted: true
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
-related: []
+related: ["fam-heritage-players-controversy", "malaysia-cup-domestic-football-leagues", "malaysian-sport-governance"]
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'どんよりとした空の下、無人の観客席の前に空のサッカー場が広がっている。'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: 暗い色のユニフォームを着た審判が、サッカーの試合中にフィールドで判定を下す様子。
+    kind: representative
+    origin: third-party
+    subject: サッカーの試合中、ピッチで判定を下す主審
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: サッカーの試合開始前、センターサークルで両チームのキャプテンとコイントスを行う審判。
+    kind: representative
+    origin: third-party
+    subject: 両チームのキャプテンと試合前のコイントスを行う審判
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 1993〜1994年シーズンに100名を超えるサッカー選手が警察に連行されたとき、それは単なるスポーツの危機ではなかった——それは今日でもなお完全には解決されていない一つの法的問題を明るみに出した。ほぼすべてのスポーツ賭博を禁止する国が、その賭博そのものから生まれる犯罪にどう対処するのか、という問題である。

@@ -20,7 +20,7 @@ keyTakeaways:
   - "Liên bang 1948 lập nên Hội đồng các Quốc vương, Hội đồng Lập pháp Liên bang và Hội đồng Hành pháp, nhưng quyền hành pháp vẫn ở Cao ủy người Anh"
 appliesTo: "Học sinh, các nhà nghiên cứu và độc giả phổ thông muốn hiểu nguồn gốc hiến pháp của Malaysia — đặc biệt là cách vị thế của các Quốc vương Mã Lai và các điều kiện quyền công dân bắt đầu được diễn đạt thành văn trước Merdeka."
 lang: "vi"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,7 +36,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Liên hiệp Malaya — Bài học cho thế hệ hiện tại và tương lai (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "Quyền công dân Liên hiệp Malaya: Thay đổi Hiến pháp và Tranh cãi ở Malaya, 1942–48 (Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48)"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "Cai trị những người cai trị (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "Đoàn Luật sư Malaysia (Malaysian Bar)"
+  - title: "Malayan Union và tác động của nó (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "Đoàn Luật sư Malaysia (Malaysian Bar)"
+  - title: "Một 'Cảnh quan ký ức': Tưởng nhớ Malayan Union 1946 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -82,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'Một dinh thự thuộc địa nguy nga với tường màu kem và mái ngói đỏ, nằm giữa những bãi cỏ được cắt tỉa gọn gàng và cây xanh nhiệt đới.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Trong một năm mười tháng, Tanah Melayu được cai trị dưới một hiến pháp mà ngày nay hầu như không ai biết đến ngoài cái tên của nó. Malayan Union bắt đầu vào ngày 1 tháng 4 năm 1946 và kết thúc vào ngày 31 tháng 1 năm 1948 — đủ ngắn để không kịp để lại các tòa nhà, đồng tiền hay một thế hệ các nhà quản lý riêng của mình.
@@ -125,6 +141,8 @@ Sự phản đối diễn ra qua nhiều kênh cùng lúc, và mang tính công 
 Giới trí thức đưa vấn đề đó lên các trang báo tiếng Mã Lai như *Utusan Melayu* và *Majlis*. Đại hội Mã Lai đầu tiên được tổ chức từ ngày 1 đến ngày 4 tháng 3 năm 1946 tại Kelab Sultan Sulaiman, có 41 tổ chức Mã Lai tham dự. Từ quá trình đó, Tổ chức Dân tộc Mã Lai Thống nhất được thành lập vào ngày 11 tháng 5 năm 1946 tại Istana Besar, Johor Bahru, dưới sự lãnh đạo của Dato' Onn Jaafar.
 
 Cổng thông tin chính thức của Hội đồng các Quốc vương ghi rằng các Quốc vương Mã Lai cũng đứng lên cùng cư dân trong việc phản đối việc thực hiện khung đó. Còn Nghị viện Malaysia ghi rằng Malayan Union bị người Mã Lai phản đối kịch liệt dưới sự lãnh đạo của Dato' Onn Jaafar.
+
+Một trong những hành động phản đối được ghi nhớ nhất diễn ra vào chính ngày thực thi. Khi Malayan Union được khánh thành tại Phòng Hội đồng (Dewan Majlis) ở Kuala Lumpur vào ngày 1 tháng 4 năm 1946 và Sir Edward Gent được bổ nhiệm làm Thống đốc đầu tiên của nó, các Quốc vương Mã Lai đã không dự lễ bổ nhiệm — một sự từ chối được thực hiện theo lời thúc giục của UMNO dưới sự lãnh đạo của Onn Jaafar, trong khi sự phản đối của họ đối với khung đó vẫn chưa được định đoạt. Dân chúng cũng tụ tập tại nơi các Quốc vương lưu trú để bày tỏ sự ủng hộ. Việc từ chối dự lễ bổ nhiệm và các cuộc họp hội đồng cố vấn này đã trở thành một trong những hình thức bất tuân dân sự đánh dấu phong trào chống lại Malayan Union.
 
 Cũng cần lưu ý rằng các điều kiện quyền công dân chặt chẽ hơn trong khung thay thế 1948 về sau trở thành cơ sở phản đối từ phía khác, bao gồm những người không phải Mã Lai vốn thấy tư cách đủ điều kiện của mình bị thu hẹp so với đề xuất năm 1946.
 

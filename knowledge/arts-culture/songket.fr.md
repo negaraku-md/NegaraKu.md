@@ -33,7 +33,7 @@ faq:
     a: "Traditionnellement, les femmes. L'UNESCO enregistre que le tissage du songket a toujours été entre les mains des femmes, tandis que les hommes participent à la pratique en fabriquant les outils de tissage. Le savoir se transmet au sein des familles et des villages, et certaines institutions proposent également des programmes de formation."
 
 lang: "fr"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,34 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tissage songket", "kek tenun", "fil d'or", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'Un gros plan détaillé d''un tissu songket tissé à la main, soie rouge profond couverte de denses motifs floraux et de losanges brochés de fil d''or scintillant, avec un panneau central contrastant'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: Une étoffe de songket rectangulaire complète présentée à plat, deux panneaux latéraux rouges aux motifs floraux en fil d'or encadrant un panneau central doré plus clair
+    kind: actual
+    origin: third-party
+    subject: un songket malaisien complet (kain) du Terengganu, posé à plat, montrant le champ de brocart d'or et le panneau central
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: Une coiffe malaise triangulaire pliée (tanjak) faite d'étoffe de songket vert et or qui scintille de fil métallique tissé, présentée sur un support
+    kind: actual
+    origin: third-party
+    subject: un tanjak, coiffe malaise pliée faite d'étoffe de songket doré, du Terengganu
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 Le son que l'on entend le plus souvent dans un atelier de songket n'est pas celui d'une machine. C'est celui du bois que l'on presse, du fil que l'on tire et d'une pointe de bambou qui se glisse puis se retire, encore et encore, une rangée de motif à la fois, toute la journée.

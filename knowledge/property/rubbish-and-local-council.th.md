@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่อาศัยอยู่ในมาเลเซียและต้องเข้าใจว่าใครเก็บขยะในพื้นที่ของพวกเขา ต้องแยกขยะที่ต้นทางหรือไม่ และมีความเสี่ยงอะไรหากไม่ทำ"
 
 lang: "th"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,6 +68,32 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'รถเก็บขยะ KDEB Waste Management กำลังเก็บขยะหน้าอาคารแฟลตในโกตาดามันซารา รัฐเซอลาโงร์'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: ถังขยะสาธารณะสีน้ำเงินที่มีตราสัญลักษณ์ของสภาท้องถิ่น MBPJ ตั้งอยู่บนขอบสนามหญ้าในโกตาดามันซารา รัฐเซอลาโงร์
+    kind: representative
+    origin: third-party
+    subject: ถังขยะของสภาท้องถิ่นที่มีตราสัญลักษณ์ MBPJ (สภาเทศบาลนครเปอตาลิงจายา) ในโกตาดามันซารา
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: ถังรีไซเคิลติดป้ายสี่ใบเรียงกันสำหรับกระดาษ กระป๋องและพลาสติก แก้ว และขยะที่รีไซเคิลไม่ได้ ณ สถานที่สาธารณะในกัวลาลัมเปอร์
+    kind: representative
+    origin: third-party
+    subject: ถังรีไซเคิลแยกประเภทสำหรับกระดาษ กระป๋องและพลาสติก แก้ว และขยะที่รีไซเคิลไม่ได้ในกัวลาลัมเปอร์
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 ถังขยะของคุณถูกเก็บสัปดาห์ละสองครั้ง แต่คุณเคยถามหรือไม่ว่าใครเป็นผู้เก็บจริง สภาท้องถิ่น หรือบริษัทอื่นที่สภาแต่งตั้ง? และเหตุใดเพื่อนบ้านของคุณในรัฐข้าง ๆ อาจถูกปรับเพราะไม่แยกขวดพลาสติกออกจากเศษอาหาร ในขณะที่คุณไม่ถูกปรับ?

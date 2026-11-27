@@ -36,7 +36,7 @@ faq:
     a: "تمتد الفترة الأكثر جفافاً وهدوءاً نحو نوفمبر إلى مارس، وهي الأفضل لتنقّل الجزر والتلفريك ووقت الشاطئ. ويميل سبتمبر وأكتوبر إلى أن يكونا أرطب الأشهر، وإن كان المطر عادةً زخات مدارية قصيرة لا طمساً طوال اليوم."
 
 lang: "ar"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["لنكاوي", "Langkawi", "جزيرة معفاة من الرسوم", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "تنقّل الجزر", "Dayang Bunting", "بحر أندامان"]
 framework: profile
+visitFacts:
+  bestFor: 'الزوّار لأول مرة والعائلات والمسافرون متعدّدو الاهتمامات الباحثون عن الشواطئ والتسوّق المعفى من الرسوم وجيوبارك اليونسكو (UNESCO Geopark) — تلفريك SkyCab وSkyBridge والتجوال بين جزر المنغروف — أكثر من الغوص عالمي المستوى.'
+  getThere: 'طِر إلى مطار Langkawi الدولي (LGK)، أو اعبر بعبّارة الركّاب إلى رصيف Kuah من أرصفة البرّ الرئيسي في Kuala Kedah وKuala Perlis.'
+  permit: 'تنطبق أسعار Langkawi المعفاة من الرسوم على الجزيرة فقط؛ وتخضع البضائع المنقولة إلى البرّ الرئيسي لبدل المسافر الوطني الماليزي، الذي يحدّد حدّاً أدنى لمدة الإقامة المؤهِّلة ويقيّد ما يمكنك إعادته معفى من الرسوم من كحول وتبغ وهدايا تذكارية.'
+  watch: 'لا تُفرط في شراء الخمور المعفاة من الرسوم لأخذها معك — فالأسعار الزهيدة للاستمتاع بها على الجزيرة، ولا يمرّ عبر الجمارك على البرّ الرئيسي سوى بدل محدود.'
+  next: 'تأكّد من جداول العبّارات الحالية مع مشغّلي العبّارات، ومن بدلات الإعفاء من الرسوم مع دائرة الجمارك الملكية الماليزية (RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'جسر لنكاوي السماوي المنحني معلّق عاليًا بين قمم جبلية مغطّاة بالغابات فوق بحر أندامان'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: أشجار نخيل وصخور داكنة تؤطّر الرمال البيضاء في Pantai Cenang بجوار مياه فيروزية، ومظلة شراعية تحلّق في الأعلى
+    kind: actual
+    origin: third-party
+    subject: شاطئ Pantai Cenang بالنخيل والبحر الفيروزي
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: عربات تلفريك SkyCab حمراء تنزلق فوق غابة مطيرة كثيفة تطل على مرسى وخلجان فيروزية في جزيرة Langkawi
+    kind: actual
+    origin: third-party
+    subject: تلفريك Langkawi SkyCab فوق الأدغال والمرسى
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 تسع وتسعون جزيرة، وصخور أقدم من الأسماك، وويسكي رخيص، وتلفريك يتدلّى من جانب جبل تكوّن من صخر يُقدَّر عمره بأكثر من 550 مليون سنة — تحشر لنكاوي قدراً غير عادي في أرخبيل واحد قبالة الطرف الشمالي الغربي لماليزيا. فهي جزيرة العطلات الرائدة على الساحل الغربي للبلاد، وتعمل بمنطق يكاد يكون معاكساً لجزر الغوص المحفوفة بالنخيل على الجانب الآخر من شبه الجزيرة. يتناول هذا الدليل ما يهمّ فعلاً قبل أن تذهب: قواعد الإعفاء الجمركي التي تُعثِر الناس، وجيوبارك اليونسكو الذي يمنح المشهد قصّته الخلفية، وتلفريك SkyCab وجسر SkyBridge، وجولات القوارب الجديرة بالخوض، وكيف تقرّر بين لنكاوي والساحل الشرقي.

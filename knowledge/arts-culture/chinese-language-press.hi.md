@@ -33,7 +33,7 @@ faq:
     a: "वैश्विक अख़बार उद्योग के रुझान के अनुरूप, मलेशिया के चीनी अख़बार का छपाई प्रसार पिछले लगभग दो दशकों में आम तौर पर घटा है, और पाठक — ख़ासकर युवा पीढ़ी — तेज़ी से मोबाइल फ़ोन और इंटरनेट के ज़रिए ख़बरें पाने लगे हैं। इसलिए अख़बारों ने समाचार वेबसाइट, ई-पेपर और मोबाइल ऐप जैसे डिजिटल मंच विकसित किए हैं, और कुछ सामग्री सोशल मीडिया पर भी फैलाई जाती है। छपा हुआ संस्करण पूरी तरह लुप्त होगा या नहीं, और कब, यह अब भी अनिश्चित है, और यह लेख कोई भविष्यवाणी नहीं करता।"
 
 lang: "hi"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'मिरी में चीनी भाषा के अखबार सिन च्यू डेली की सफेद कार्यालय इमारत, जिसका नाम अग्रभाग और गेट की दीवार पर अंग्रेजी और चीनी अक्षरों में दर्शाया गया है।'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: पेनांग के चीनी दैनिक Kwong Wah Yit Poh का एक आरंभिक मुखपृष्ठ, जिसका शीर्षक चीनी अक्षरों और अंग्रेज़ी में है, अन्य पुराने चीनी समाचारपत्र पृष्ठों के बीच रखा हुआ।
+    kind: actual
+    origin: third-party
+    subject: Kwong Wah Yit Poh का मुखपृष्ठ, मलेशिया का सबसे पुराना चीनी-भाषा दैनिक (पेनांग)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: जोहोर बाहरू में एक Nanyang Siang Pau कार्यालय, जिसके अग्रभाग पर एक दुकान के ऊपर हरे चीनी अक्षरों और रोमन अक्षरों में समाचारपत्र का नाम अंकित है।
+    kind: actual
+    origin: third-party
+    subject: मास्टहेड साइनबोर्ड के साथ Nanyang Siang Pau समाचारपत्र कार्यालय, जोहोर बाहरू
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 सुबह-सुबह कोपितियाम (kopitiam, चाय-कॉफ़ी की दुकान) में, फैला हुआ एक चीनी अख़बार अक्सर एक कप कॉफ़ी के साथ रखा होता है। पाठक पहले पन्ने की देशी-विदेशी बड़ी ख़बरों को पलटकर आम तौर पर सीधे अपने सबसे जाने-पहचाने पन्ने की ओर जाते हैं — कोई पहले स्थानीय ख़बरों में देखता है कि किस चीनी प्राथमिक स्कूल ने फिर से दान-मेला लगाया, कोई साहित्यिक परिशिष्ट और विचार-पृष्ठ पलटता है, और कोई केवल शोक-सूचना, वर्गीकृत विज्ञापन और लॉटरी परिणामों के लिए अख़बार देखता है। बहुत से मलेशियाई चीनियों के लिए चीनी अख़बार केवल ख़बर नहीं, बल्कि हर दिन चलने वाली चीनी पढ़ने की आदत भी है।

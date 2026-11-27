@@ -25,7 +25,7 @@ verificationNeeded:
   - "집행 권한(예: 이행하지 않는 대출자에 대한 해외 출국 제한)에 대한 언급은 Akta 566에 따른 권한의 존재에 근거하여 일반적으로만 언급됨; 구체적 조문 번호와 그 발동 조건(예: 연체 기간)은 법 본문이나 공식 포털에서 직접 확인되지 않았으며 재확인이 필요함."
 
 lang: "ko"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,6 +66,32 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: '말레이시아 공과대학교 쿠알라룸푸르 캠퍼스(Universiti Teknologi Malaysia Kuala Lumpur)의 입구 문으로, 진입로 위 아치에 UTM 교장이 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: 마라공과대학교(UiTM)의 본부동으로, 유리와 콘크리트로 지은 대형 현대식 국립대학 건물이며 조경된 언덕 위에 서 있고 앞에는 깃발이 늘어서 있다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 국립대학 캠퍼스(마라공과대학교 UiTM)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: 코타키나발루에 있는 사바대학교의 푸른색과 크림색이 돋보이는 본부동(Canselori)으로, 조경된 잔디밭 위에 자리한 국립대학의 랜드마크이다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 국립대학의 랜드마크(사바대학교 본부동)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 많은 학생이 같은 가정을 품고 PTPTN 제안 서류에 서명합니다. 「이거 장학금 같은 거지?」 아닙니다. 그리고 바로 이 오해가 가장 흔히 문제를 불러옵니다 — 여러 해 뒤, 졸업 후 첫 상환 통지가 도착할 때입니다.

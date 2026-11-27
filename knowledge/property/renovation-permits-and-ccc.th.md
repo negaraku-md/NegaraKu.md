@@ -28,7 +28,7 @@ faq:
     a: "CCC รับรองว่าบ้านสร้างตามแบบที่อนุมัติและปลอดภัยที่จะเข้าอยู่อาศัย หากไม่มี CCC อาคารอย่างเป็นทางการจะไม่มีคุณสมบัติที่จะเข้าอยู่อาศัยและการจ่ายสาธารณูปโภคอาจได้รับผลกระทบ"
 
 lang: "th"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'ภายในบ้านแฝดสองชั้นที่กำลังปรับปรุงในรัฐเซอลาโงร์ โดยมองเห็นบ้านข้างเคียงผ่านช่องประตู'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: ผนังฉาบปูนและช่องหน้าต่างที่เพิ่งเจาะใหม่ พร้อมถุงวัสดุก่อสร้างระหว่างการปรับปรุงบ้านทาวน์เฮาส์ในรัฐเซอลาโงร์
+    kind: representative
+    origin: third-party
+    subject: ผนังที่เพิ่งฉาบปูนและช่องหน้าต่างใหม่ระหว่างการปรับปรุงบ้านทาวน์เฮาส์ในรัฐเซอลาโงร์
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: ถังขยะโลหะ(skip)ที่เต็มไปด้วยเศษไม้และเศษวัสดุก่อสร้างนอกบ้านทาวน์เฮาส์ที่กำลังปรับปรุงในรัฐเซอลาโงร์
+    kind: representative
+    origin: third-party
+    subject: ถังขยะโลหะ(skip)ที่เต็มไปด้วยเศษวัสดุก่อสร้างที่ไซต์ปรับปรุงบ้านทาวน์เฮาส์ในรัฐเซอลาโงร์
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 คุณอยากต่อเติมครัวด้านหลังบ้านหรือต่อเติมชั้น แล้วจู่ ๆ เพื่อนบ้านก็บอกว่า "ต้องขอที่สภาก่อน" จริงหรือ? สำหรับงานปรับปรุงส่วนใหญ่ ใช่

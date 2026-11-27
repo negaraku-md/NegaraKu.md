@@ -100,6 +100,7 @@ dishFacts:
   halal: "Popiah không nhất loạt halal: công thức khác nhau rất nhiều tùy cộng đồng, và ở một số bối cảnh hàng rong không halal có thêm mỡ heo chiên, trong khi các cuộn thịnh soạn hơn có thể gồm lạp xưởng Trung Hoa. Như một quy tắc bền vững, nên hỏi từng quán — có các phiên bản nền rau và tôm bên cạnh các loại chứa thịt heo."
   eat: "Một cuốn popiah được bày lắp ghép nhiều ngang với nấu: lớp vỏ được quệt sốt ngọt và ớt, xếp lớp xà lách, sengkuang ấm, trứng, giá, đậu phộng và hành, rồi cuộn thành một ống tròn đầy đặn và cắt thành các miếng vừa ăn. Nó thường là một sự kiện chung — một 'tiệc popiah' nơi các loại nhân được bày ra và mỗi người tự cuốn một cuộn theo khẩu vị riêng."
   where: "Popiah là một phần của thế giới ẩm thực đường phố hàng rong và pasar malam của Malaysia, song cũng là một món nhà không kém. Ở Penang nó được bán rộng rãi bởi các hàng rong người Hoa dưới tên 'poh piah'; ở Melaka, từ lâu là một đất gốc Peranakan, cuộn tươi gắn mạnh với ẩm thực Nyonya, với một số quán đủ nổi tiếng đến mức khách quen đặt cuộn trước."
+wikidata: "Q3092677"
 ---
 
 Gọi một món chả giò ở Malaysia và bạn có thể nhận được một trong hai thứ rất khác nhau.

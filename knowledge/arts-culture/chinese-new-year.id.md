@@ -32,7 +32,7 @@ faq:
     a: "'Lo hei' (yee sang, atau 捞鱼生) adalah praktik tahun baru yang populer di Malaysia, Singapura, dan kawasan Nanyang yang lebih luas, biasanya dilakukan saat makan malam reuni keluarga atau acara tahun baru: semua orang berkumpul mengelilingi meja dan menggunakan sumpit untuk mengaduk sayur-sayuran dan buah-buahan yang diiris halus, irisan ikan mentah, serta berbagai bahan tinggi-tinggi ke udara bersama-sama, sambil mengucapkan ungkapan pembawa keberuntungan seperti 'semoga rezeki mengalir bagai angin dan air' dan 'semakin tinggi diaduk, semakin makmur jadinya'. Praktik ini sangat populer di sini, tetapi umumnya dianggap sebagai praktik yang dikembangkan oleh komunitas Tionghoa di kawasan Nanyang, bukan yang berasal dari Tiongkok kuno."
 
 lang: "id"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,34 @@ festivalFacts:
   when: "Hari pertama bulan pertama kalender imlek; tanggal Masehi yang bersesuaian berubah setiap tahun mengikuti kalender imlek, dengan acuan pengumuman warta resmi."
   holiday: "Dua hari pertama Tahun Baru Imlek adalah hari libur umum nasional, dengan dasar hukum Holidays Act 1951 (Act 369) serta warta masing-masing negara bagian."
   etiquette: "\"Rumah terbuka\" (rumah terbuka) lintas etnis memungkinkan kerabat dan teman dari berbagai etnis saling berkunjung untuk mengucapkan selamat tahun baru; buah tangan dan angpau untuk kunjungan biasanya dalam jumlah genap yang dianggap membawa keberuntungan, dan umumnya menghindari angka yang mengandung \"empat\"."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Ratusan lampion merah dan emas dibentangkan dalam garis-garis memancar di bawah atap berhias Kuil Thean Hou di Kuala Lumpur dengan langit biru cerah saat Tahun Baru Imlek'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: Kuil Kek Lok Si di Penang bercahaya dengan ribuan lampu hias berwarna-warni dan lampion merah pada malam hari sewaktu iluminasi Tahun Baru Imlek
+    kind: actual
+    origin: third-party
+    subject: Kuil Kek Lok Si di Penang yang diterangi lampu untuk Tahun Baru Imlek
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: Kostum barongsai putih dan perak yang menyeimbangkan diri di atas tiang-tiang sambil beraksi di depan rumah toko di Chinatown Kuala Lumpur sewaktu Tahun Baru Imlek
+    kind: actual
+    origin: third-party
+    subject: Pertunjukan barongsai di atas tiang di Chinatown Kuala Lumpur sewaktu Tahun Baru Imlek
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 Pada malam tahun baru, banyak kedai tutup lebih awal, dan jalan raya dipenuhi kendaraan menuju kampung halaman. Menjelang malam, keluarga berkumpul di satu meja — ada ikan (melambangkan "kelebihan setiap tahun"), seekor ayam utuh, bola daging yang melambangkan reuni keluarga, serta hidangan yee sang dingin yang perlu diaduk tinggi-tinggi dengan sumpit. Makan malam reuni keluarga pada malam tahun baru ini dianggap oleh banyak keluarga Tionghoa Malaysia sebagai lebih penting daripada hari pertama tahun baru itu sendiri.

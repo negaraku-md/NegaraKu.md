@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 
 status: "published"
 aiAssisted: true
@@ -103,6 +103,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'クアラルンプールのマレーシアの銀行ビル外の緑化された広場にある、赤い Public Bank Berhad と Public Investment Bank の看板。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: スレンバンの町の中心、ショップロット（店舗付き建物）が並ぶ一角に建つStandard Chartered銀行支店のストリートビュー
+    kind: representative
+    origin: third-party
+    subject: ヌグリ・スンビラン州スレンバンの目抜き通りに建つStandard Chartered銀行の支店
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: ジョホール州クルアンのショップロットが並ぶ一角に建つBank Muamalat（イスラム銀行）支店のストリートビュー
+    kind: representative
+    origin: third-party
+    subject: ジョホール州クルアンのBank Muamalat（イスラム銀行）の支店
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 夢のマイホームは価格RM450,000かもしれないが、銀行は、あなたが今後30年にわたって返済できると確信するまで、その資金を渡してはくれない。担保融資の世界はまさにそこから始まる——融資比率、返済負担率、保険、KWSP（従業員積立基金）の貯蓄、そして印紙税、これらすべてが、その家の鍵があなたの手に渡るかどうかを決めるのだ。

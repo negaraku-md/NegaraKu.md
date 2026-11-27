@@ -29,7 +29,7 @@ faq:
     a: "Entre ellas se encuentran una tasa de reciclaje del 25% para los envases de plástico en 2025, una tasa media de recogida para reciclaje (CFR) del 76% en 2030, y un contenido reciclado medio del 15% en 2030. Se fija como meta una tasa de reciclaje del 100% en 2050."
 
 lang: "es"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030", "plásticos de un solo uso", "cargo por bolsas de plástico", "contaminación por plásticos"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Botellas de plástico desechadas y otros desperdicios esparcidos por la arena de una playa junto al mar.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: Basura plástica y residuos marinos acumulándose a lo largo de la línea de marea de una playa
+    kind: representative
+    origin: third-party
+    subject: Residuos plásticos marinos arrastrados a una playa (imagen representativa)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: Botellas de plástico usadas reunidas en un punto de recogida para ser enviadas a reciclaje
+    kind: representative
+    origin: third-party
+    subject: Punto de recogida de botellas de plástico para reciclaje (imagen representativa)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 Las bolsas de plástico finas de la caja del supermercado suelen usarse solo un instante, pero pueden persistir en el medioambiente durante muchísimo tiempo. Para abordar este problema, Malasia no ha optado por una única prohibición radical e inmediata — en su lugar, utiliza una hoja de ruta por fases que avanza desde pequeños cargos hasta prohibiciones más amplias.

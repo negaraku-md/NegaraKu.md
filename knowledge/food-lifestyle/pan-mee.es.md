@@ -96,6 +96,7 @@ dishFacts:
   halal: "El cuenco tradicional no es halal: se corona con cerdo picado y frito y el caldo a menudo se profundiza cociendo las anchoas con huesos de cerdo. El chilli pan mee puede usar pollo picado en lugar de cerdo, así que conviene preguntar en cada puesto."
   eat: "Viene de dos maneras. La versión de sopa sirve los fideos y el caldo de anchoa juntos en un cuenco, templados y suaves; la versión seca mantiene el caldo aparte y mezcla los fideos con un aderezo como salsa de soja oscura, salsa XO o sambal. Para el chilli pan mee el huevo escalfado suele removerse de modo que la yema cubra los fideos, y luego los comensales añaden copos de chile seco machacado de un tarro al gusto."
   where: "Se encuentra en cafeterías de todo el centro y sur de la Malasia Peninsular, incluidas Kuala Lumpur, Seremban e Ipoh, donde un puesto da forma a la masa a mano. El chilli pan mee se atribuye a menudo en los medios gastronómicos específicamente al Restoran Kin Kin de Kuala Lumpur, aunque esa atribución precisa no está firmemente documentada."
+wikidata: "Q4856836"
 ---
 
 Entra en un café de Kuala Lumpur, Seremban o Ipoh y encontrarás un puesto dando forma

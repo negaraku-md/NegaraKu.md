@@ -38,7 +38,7 @@ faq:
     a: "Institut Sukan Negara (ISN). Ia diletakkan di atas landasan undang-undang oleh National Sports Institute Act 2011 [Act 729] dan berfungsi menyediakan layanan, nasihat dan konsultasi sains olahraga serta kedokteran olahraga, menjalankan penelitian, dan menasihati Menteri tentang aspek saintifik prestasi atlet."
 
 lang: "id"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }
-related: []
+related: ["badminton-in-malaysia", "football-in-malaysia", "sukma-games"]
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'Fasad bilah perak Stadion Nasional Bukit Jalil menjulang di atas halaman depan yang kosong.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: Bagian luar gedung Majlis Sukan Negara Malaysia (Dewan Olahraga Nasional) di kompleks olahraga Bukit Jalil.
+    kind: actual
+    origin: third-party
+    subject: Gedung Majlis Sukan Negara Malaysia (Dewan Olahraga Nasional) di Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: Pusat Akuatik Nasional, bagian dari kompleks olahraga nasional KL Sports City di Bukit Jalil, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Pusat Akuatik Nasional di dalam kompleks olahraga nasional KL Sports City
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 Sebuah klub sepak bola baru di Johor dapat membeli jersi, menyewa lapangan dan mendaftarkan pemain — tetapi ia masih tidak boleh secara sah mengirim siapa pun mewakili "Malaysia" ke kompetisi mana pun. Sebabnya bukan uang atau bakat. Ini soal siapa yang memberi izin. Di Malaysia, hak untuk berdiri sebagai badan olahraga, hak untuk dibiayai, dan hak untuk memakai nama negara berasal dari empat institusi berbeda yang sering dianggap keliru sebagai satu.

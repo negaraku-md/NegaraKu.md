@@ -33,7 +33,7 @@ faq:
   - q: "Apakah pemujaan Mariamman merupakan agama tersendiri?"
     a: "Tidak. Pemujaan Mariamman merupakan bagian dari agama Hindu yang lebih luas, khususnya tradisi Shakta (Shakti). Amman sering dipuja bersama wujud dewi Kali dan Durga. Dalam komunitas Hindu Malaysia, pemujaan Amman berjalan seiring dengan pemujaan Shiva dan Murugan."
 lang: "id"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'Gopuram berpahat yang menjulang pada Kuil Sri Maha Mariamman di Kuala Lumpur, papan namanya menyebutkan nama kuil di atas barisan patung dewa-dewi Hindu berwarna, dengan jalan dan lalu lintas di depannya.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: Menara gopuram berpahat kuil Mariamman di George Town, penuh figur dewa-dewi Hindu yang dicat cerah
+    kind: actual
+    origin: third-party
+    subject: Kuil Sri Mahamariamman di George Town, Penang, kuil Hindu tertua di kota itu yang didedikasikan kepada Dewi Mariamman
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: Ruang ibadah bagian dalam bertiang sebuah kuil Mariamman, dengan langit-langit berlukis dan tempat pemujaan menghadap ke ruang suci
+    kind: actual
+    origin: third-party
+    subject: Ruang ibadah bagian dalam kuil Mariamman di George Town, Penang
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 Di dekat hampir setiap perkebunan karet tua di Malaysia, dan di sepanjang jalan-jalan tua di pusat kota, Anda dapat menemukan sebuah kuil Mariamman. Patung Amman berwajah kuning oker, dan perayaan yang digelar menjelang musim hujan, bukanlah kebetulan — semuanya mengandung lebih dari satu setengah abad sejarah dan tradisi keyakinan sebuah komunitas Tamil.

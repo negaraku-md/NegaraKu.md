@@ -26,7 +26,7 @@ appliesTo: "كل من يرغب في فهم المسيحية في ماليزيا 
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: ما هو الاتحاد المسيحي لماليزيا، وأي الهيئات يجمع؟
     a: 'الاتحاد المسيحي لماليزيا (Christian Federation of Malaysia، CFM)، الذي تأسس عام 1985، هو الهيئة المظلّة الرئيسية. وهو يوحّد التيارات الثلاثة للمسيحية الماليزية: مؤتمر الأساقفة الكاثوليك (Catholic Bishops'' Conference)، ومجلس كنائس ماليزيا (Council of Churches of Malaysia، البروتستانتية التقليدية)، والزمالة المسيحية الإنجيلية الوطنية (National Evangelical Christian Fellowship). ويقول الاتحاد إنه يمثل أكثر من 95% من كنائس البلاد، وكثير منها جماعات ناطقة باللغة الماليزية في صباح وساراواك.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'أطلال كنيسة القديس بولس الحجرية المطليّة بالأبيض من القرن السادس عشر على تلة القديس بولس في ملقا، ويقف في المقدمة تمثال رخامي للقديس فرنسيس كسفاريوس.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: كاتدرائية القديسة مريم البيضاء بطراز القوطية الجديدة، وهي كنيسة أنغليكانية بجوار ميدان Merdeka في Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: كاتدرائية القديسة مريم الأنغليكانية، Kuala Lumpur
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: كنيسة الثالوث الأقدس الكاثوليكية الحديثة في Tawau، Sabah، التي تمثّل المجتمعات المسيحية في ماليزيا الشرقية.
+    kind: actual
+    origin: third-party
+    subject: كنيسة الثالوث الأقدس الكاثوليكية، Tawau، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 لقصة المسيحية في ماليزيا مركزا ثقل، وليس أيٌّ منهما في العاصمة. يمتد أحدهما إلى

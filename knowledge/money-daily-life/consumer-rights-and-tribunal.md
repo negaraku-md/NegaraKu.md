@@ -1,7 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "Your Product Broke and the Shop Won't Refund You: How to Actually Get Your Money Back"
-seoTitle: Your Product Broke and the Shop Won't Refund You
+seoTitle: "Consumer Rights & the Tribunal in Malaysia"
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

@@ -19,7 +19,7 @@ appliesTo: "マラッカがマラッカ海峡を支配する以前に何がそ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -62,6 +62,32 @@ faq:
   - q: 古マレー語で知られている最古の碑文は何であり、それはシュリーヴィジャヤとどう関係しているのですか?
     a: それはクドゥカン・ブキット碑文(Kedukan Bukit inscription)で、西暦682年のものとされ、シュリーヴィジャヤの軍事的・儀礼的な遠征を記録しています。スマトラの歴史という枠を越えて、それは古マレー語で書かれた既知最古の碑文として重要です——古マレー語は現代マレー語と現代インドネシア語の双方の直接の祖先です。シュリーヴィジャヤの交易網が拡大するにつれ、古マレー語はいかなるスルタン国が存在するよりも何世紀も前に、実用的な共通語(リンガ・フランカ)として諸島全体に広がりました。
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: '風化した灰色の花崗岩の仏像。脚を失いながらも、スリウィジャヤ旧都の聖なる丘で緑の木々を背に静かに立っている。'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: 古い古マレー語の文字が何行にもわたって刻まれた小さな丸みのある灰色の石で、シュリーヴィジャヤ時代のクドゥカン・ブキット碑文が、博物館の台に展示されている。
+    kind: actual
+    origin: third-party
+    subject: クドゥカン・ブキット碑文（Kedukan Bukit、683年）、シュリーヴィジャヤの古マレー語の石碑
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: ペラ州のビドールで発見された八臂の青銅製観音菩薩（アヴァローキテーシュヴァラ）像が、クアラルンプールの国立博物館に直立して展示されている。
+    kind: actual
+    origin: third-party
+    subject: ビドール出土の青銅製観音菩薩像（8〜9世紀）、クアラルンプール国立博物館
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 1396年、パラメスワラがテマセクを逃れ、のちにマラッカとなる河岸にたどり着いたとき、彼は無から現れた無名の人物ではなかった。マラッカ州政府は今なお、彼のことを率直に「パレンバン出身の王族の王子」と記録している。パレンバンは、スマトラ島南部のムシ川（Musi River）沿いにあり、パラメスワラが生まれる約六百年前から、マラッカ海峡を支配していた海上強国の都であった——その王国はシュリーヴィジャヤ王国（Srivijaya）と呼ばれた。パラメスワラが半島にたどり着いた頃には、その王国の政治的権力はすでに失われていた。しかし、彼が建国したマラッカ王国は、その血統を——そしておそらくは、マレーの交易港がどうあるべきかという型そのものを——シュリーヴィジャヤ王国の廃墟から直接受け継いでいた。

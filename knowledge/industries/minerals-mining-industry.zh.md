@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚为何禁止原稀土出口？
     a: 政府称该禁令——自 2024 年初起生效——旨在阻止本国稀土资源未经加工即被出口，并迫使价值通过本地精炼与下游产业在本土增加。官员将其描述为保护一项战略资源；确切的政策条款随时间有所变动，应对照最新的政府声明查核。
 lang: zh
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - 莱纳斯
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: '马来西亚霹雳州一座昔日矿湖旁矗立着保存下来的TT5采锡挖泥船，是该国锡矿挖掘时代的遗迹。'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: 马来西亚沙巴京那巴当岸县苏考路（Jalan Sukau）一处采石场裸露的岩壁与开采作业的台阶。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚沙巴京那巴当岸县苏考路的采石场
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: 马来西亚沙巴沙拉伦（Salarom）附近一座临时搭建的碎石厂，配有传送带和一堆堆碎石，正在加工石料。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚沙巴沙拉伦附近将石料碾碎成砾石的碎石厂（kilang batu）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 马来西亚的现代经济，确确实实是从地里挖出来的。早在棕榈油、电子或半导体之前，是**锡**让这片半岛对世界举足轻重——它为铁路融资、催生了怡保与吉隆坡等城镇，并吸引了一代又一代的移民矿工。采矿是这个国家最古老的工业故事，尽管它已不再主宰经济，却正围绕一个非常现代的奖赏——稀土元素——被悄悄改写。

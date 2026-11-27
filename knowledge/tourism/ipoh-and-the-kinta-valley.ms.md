@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -114,6 +114,39 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk pelancong warisan dan makanan serta keluarga yang mahukan Pekan Lama kolonial yang boleh dijelajahi dengan berjalan kaki, kuil gua batu kapur, dan pentas makanan kopitiam Perak yang terkenal.'
+  getThere: 'Sampai ke Ipoh dengan kereta api elektrik KTM ETS dari KL Sentral ke stesen Pekan Lama, atau memandu di Lebuhraya Utara-Selatan; bas ekspres juga menyinggah di bandar ini.'
+  permit: 'Kuil gua adalah tempat ibadat yang aktif, jadi berpakaian sopan (tutup bahu dan lutut) dan senyap di dalamnya.'
+  watch: 'Walaupun bahan promosi pelancongan menyebut secara longgar, Lembah Kinta ialah geopark kebangsaan, bukan UNESCO Global Geopark.'
+  next: 'Sahkan jadual waktu dan tambang kereta api semasa dengan KTMB sebelum mengembara.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'Pemandangan ke atas Padang hijau Ipoh dan pusat bandar warisan dengan bukit batu kapur bergerigi menjulang di belakang di bawah langit biru berjerebu'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Taman berlandskap dengan kolam dan pokok renek berbunga terletak antara tebing karst batu kapur berhutan di Kek Lok Tong, Ipoh
+    kind: actual
+    origin: third-party
+    subject: Taman tepi tasik tokong gua Kek Lok Tong yang dikelilingi tebing batu kapur menjulang di selatan Ipoh
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: Fasad bertiang bata merah lapuk Kellie's Castle dengan gerbang Moor berlatar langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, banglo kolonial gaya Moor yang tidak siap dibina di Batu Gajah, Lembah Kinta
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Bijih timah membina Ipoh, dan kemudian hampir meruntuhkannya. Sebuah kampung di Sungai Kinta bertukar menjadi salah satu bandar terkaya Tanah Melayu British atas kekuatan bijih yang terkubur di bawah Lembah Kinta, membina sendiri pusat kolonial yang megah, dan kemudian menyaksikan wang itu terkuras apabila harga bijih timah jatuh. Apa yang dikekalkannya ialah seni bina, bukit batu kapur yang berlubang dengan tokong gua, dan dapur yang luar biasa baik. Hari ini Ipoh ialah percutian bandar warisan-dan-makanan paling selesa di Malaysia — cukup dekat dengan Kuala Lumpur untuk lawatan sehari, cukup kaya untuk memberi ganjaran kepada hujung minggu. Panduan ini merangkumi landskap dan sejarah yang membentuknya, apa yang ada untuk dilihat di dalam dan sekitar bandar, makanan secara ringkas, serta hal praktikal untuk sampai ke sana.

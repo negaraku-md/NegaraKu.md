@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/environment/northeast-monsoon/hero.webp'
+heroAlt: 'Pandangan udara kawasan kejiranan kediaman di Klang, Malaysia dengan rumah-rumah dikelilingi air banjir berwarna perang.'
+heroCredit: 'AiMediaMY / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: Air banjir bertakung merentasi jalan persekutuan K151 selepas sungai naik secara mengejut di Kampung Padang Pusing, Pendang, Kedah
+    kind: actual
+    origin: third-party
+    subject: Air banjir di atas jalan selepas sungai naik secara mengejut, Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: Awan ribut monsun gelap berkumpul di atas landskap tropika
+    kind: representative
+    origin: third-party
+    subject: Awan ribut monsun (perwakilan)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 Setiap tahun, sekitar waktu seluruh dunia menuju musim sejuk, pantai timur Malaysia bersiap sedia. Bot ditarik ke darat, resort pulau menutup pintu, pusat bantuan banjir disediakan, dan keluarga di pekan kawasan rendah memerhatikan sungai. Inilah **monsun timur laut** — pengaruh tunggal terbesar ke atas cuaca Malaysia, dan sebab negara ini sebenarnya mempunyai musim lembap yang tersendiri dan bukannya hujan tropika yang seragam sepanjang tahun.

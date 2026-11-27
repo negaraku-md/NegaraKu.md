@@ -33,7 +33,7 @@ faq:
     a: "High pole lion dance originates from the Chinese community's traditional awakening-lion customs, and some troupes are based at temples or named after them, and may hold traditional rites such as dotting the eyes before opening the poles. But as a sport and a performance, it is today more often regarded as a cultural activity and a sport, and some modern troupes also play down the religious element in their training. This article only describes the custom and the sport themselves, and does not pass judgment on any belief."
 
 lang: "en"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'A white and gold lion-dance costume with two performers inside caught mid-leap in the air above a row of tall metal poles at a competition'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: A white lion-dance lion perched on tall red poles above a street crowd in Kuala Lumpur, with Chinese shop signage behind
+    kind: actual
+    origin: third-party
+    subject: High-pole lion dance performed on jong poles in a Kuala Lumpur street before a crowd, Malaysia
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: A brightly decorated white lion-dance head and body balanced across the tops of several tall poles, facing forward under stage lighting
+    kind: representative
+    origin: third-party
+    subject: White competition lion crouched and balanced across several high jong poles, lion head facing the camera
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 As the drumbeat tightens, the lion springs into the air, its front paws landing firmly on a steel pole no thicker than the rim of a bowl, the tail following at once — two performers leaping and posing among a row of poles set at varying heights, two or three metres off the ground, the crowd holding its breath, until the lion, now seemingly "alive", steadies itself on the highest pole of all and the applause breaks out. This is not the festive lion dance on the ground, but a sport with scores, champions and world rankings — high pole lion dance.

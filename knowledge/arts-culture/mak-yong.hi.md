@@ -33,7 +33,7 @@ faq:
     a: "केलंतान में सार्वजनिक प्रस्तुतियाँ 1998 में पारित एक राज्य मनोरंजन नियंत्रण अधिनियम के अंतर्गत प्रतिबंधित हैं। 25 सितंबर 2019 को, केलंतान के उप मेंतेरी बेसार दातुक मोहम्मद अमर निक अब्दुल्ला (Datuk Mohd Amar Nik Abdullah) ने घोषणा की कि प्रस्तुतियाँ राज्य सरकार द्वारा निर्धारित शरीयत-अनुरूप शर्तों के अधीन अनुमत हैं, जिनमें पूजा के तत्वों का अभाव और औरत (सतर) ढकने की अपेक्षा शामिल है, तथा राज्य सरकार और राज्य धार्मिक प्राधिकरणों द्वारा सतत निगरानी की जाती है।"
 
 lang: "hi"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,34 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["माक योंग", "Mak Yong", "पारंपरिक नृत्य-नाट्य", "अमूर्त सांस्कृतिक विरासत", "यूनेस्को मलेशिया", "UNESCO", "रबाब", "rebab", "केलंतान", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'अँधेरे मंच पर सुनहरी-मैरून पारंपरिक मलय पोशाक में चार माक योंग कलाकार, एक ऊँचा सुनहरा मुकुट पहने और एक सफ़ेद विदूषक मुखौटे में'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: काँच के पीछे पुतलों पर दो माक योंग पोशाकें, एक जड़ाऊ मुकुट के साथ सुनहरा कुरता और एक गहरे शिरोभूषण के साथ मैरून कुरता, केलंतान राज्य संग्रहालय में
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के केलंतान राज्य संग्रहालय में प्रदर्शित अलंकृत मुकुटों वाली माक योंग पोशाकें
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: गेंडांग ढोल और एक रेबाब वाद्य पकड़े बैठे पुरुष वादकों के बीच खड़ी एक ताज पहने माक योंग नर्तकी की सेपिया ऐतिहासिक तस्वीर
+    kind: representative
+    origin: third-party
+    subject: ढोल और रेबाब के साथ बैठे वादकों से घिरी एक ताज पहने माक योंग मुख्य कलाकार की ऐतिहासिक तस्वीर
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 पहली ध्वनि किसी कलाकार से नहीं आती। वह आती है तीन तारों वाली, नाशपाती के आकार की एक लकड़ी से — एक रबाब — जिसे खुले लकड़ी के मंच के किनारे धीरे-धीरे गज से बजाया जाता है। दर्शक तीन ओर बैठते हैं। छत ताड़ के पत्तों की होती है। और संवाद की एक भी पंक्ति बोले जाने से पहले ही एक राजकुमारी उस वाद्य की ओर झुककर एक ऐसा नृत्य कर चुकी होती है जिसका नाम ही सब कुछ कह देता है: **मेंगादप रबाब (Mengadap Rebab)**।

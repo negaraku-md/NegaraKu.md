@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "कोई भी व्यक्ति जो प्रायद्वीपीय मलेशिया या लाबुआन संघीय क्षेत्र में किसी मलेशियाई कॉन्डोमिनियम, अपार्टमेंट, या अन्य स्ट्रेटा (स्ट्रेटा-टाइटल वाली) संपत्ति में एक यूनिट का मालिक है, खरीद रहा है, या किराए पर ले रहा है।"
 
 lang: "hi"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "मलेशिया रखरखाव फ़ीस", "maintenance fee Malaysia", "सिंकिंग फ़ंड", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "शेयर यूनिट", "स्ट्रेटा प्रबंधन ट्रिब्यूनल", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'कुआलालंपुर में नीले आसमान की पृष्ठभूमि में एक ऊँची लाल-और-सफ़ेद आवासीय कॉन्डोमिनियम मीनार।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: कुआलालंपुर के अंपांग के ऊपर कई कोंडोमिनियम टावर एक साथ उठते हैं, एक ऊँची इमारतों का समूह जिसके निवासी उन रखरखाव शुल्कों को साझा करते हैं जो लिफ्ट, पूल और सुरक्षा को चालू रखते हैं।
+    kind: actual
+    origin: third-party
+    subject: अंपांग, कुआलालंपुर में कोंडोमिनियम टावरों का समूह
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: Riana Green Condominium के कई टावर पेटालिंग जया की हरियाली के बीच एक साथ उठते हैं, एक गेटेड स्ट्रेटा विकास जिसके निवासी रखरखाव शुल्क और एक सिंकिंग फंड साझा करते हैं।
+    kind: actual
+    origin: third-party
+    subject: NKVE से दिखता Riana Green Condominium समूह, पेटालिंग जया, सेलांगोर
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 आपने यूनिट खरीदी। आपने लिफ़्ट, गार्डहाउस, स्विमिंग पूल, या उस पाइप को नहीं खरीदा जो उस दीवार से होकर गुज़रता है जिसे आप अपने पड़ोसी के साथ साझा करते हैं। फिर भी किसी को उस सबके लिए भुगतान करना ही पड़ता है — और क़ानून इस बिल को दो खातों में बाँट देता है जिन्हें अलग रखने के लिए आप कानूनी रूप से बाध्य हैं।

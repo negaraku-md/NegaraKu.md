@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'クアラルンプールのプリンス・コート・メディカル・センターの曲線屋根の建物。外壁に名称が掲げられ、前には緑の道路標識と救急の看板がある。'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 インドネシアのある家族が心臓バイパス手術のためにペナンへ飛来し、湾岸地域のある夫婦は体外受精のために訪れ、オーストラリアのある退職者は自国では3倍の費用がかかる全身健康診断を予約する。彼らはみな、1年間で160万人を超える人々をマレーシアへ呼び寄せた、ある静かな産業の一部である——観光のためではなく、健康を取り戻すために。

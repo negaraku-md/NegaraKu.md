@@ -36,7 +36,7 @@ faq:
     a: "முத்திரை வரி Akta Setem 1949-இன் கீழ் கடன் தொகையில் 0.5%. எடுத்துக்காட்டாக, RM450,000 கடனுக்கு RM2,250 வரி விதிக்கப்படுகிறது. ஒப்பந்தம் கையெழுத்திடப்பட்ட தேதியிலிருந்து 30 நாட்களுக்குள் செலுத்த வேண்டும்."
 
 lang: "ta"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'குவாலாலம்பூரில் ஒரு மலேசிய வங்கிக் கட்டிடத்திற்கு வெளியே அழகுபடுத்தப்பட்ட முற்றத்தில் சிவப்பு நிற பப்ளிக் பேங்க் பெர்ஹாத் மற்றும் பப்ளிக் இன்வெஸ்ட்மென்ட் பேங்க் அடையாளப் பலகைகள்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: செரம்பான் நகர மையத்தில் கடைத் தொகுதி வரிசையில் அமைந்த ஒரு Standard Chartered Bank கிளையின் தெருக் காட்சி
+    kind: representative
+    origin: third-party
+    subject: நெகிரி செம்பிலான், செரம்பானின் பிரதான வீதியில் ஒரு Standard Chartered Bank கிளை
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: ஜொகூர், க்லுவாங்கில் கடைத் தொகுதி வரிசையில் அமைந்த Bank Muamalat இஸ்லாமிய வங்கிக் கிளையின் தெருக் காட்சி
+    kind: representative
+    origin: third-party
+    subject: ஜொகூர், க்லுவாங்கில் ஒரு Bank Muamalat (இஸ்லாமிய வங்கி) கிளை
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 கனவு வீடு RM450,000 ஆக இருக்கலாம், ஆனால் அடுத்த 30 ஆண்டுகளுக்கு அதைத் திரும்பச் செலுத்தும் திறன் உங்களுக்கு உண்டு என்று உறுதிப்படுத்திக் கொள்ளும் வரை வங்கி அந்தப் பணத்தைக் கையளிக்காது. அங்குதான் அடமானப் பணமளிப்பு உலகம் தொடங்குகிறது — மார்ஜின், கடன் சேவை விகிதம், காப்பீடு, KWSP சேமிப்பு மற்றும் முத்திரை வரி ஆகிய அனைத்தும் அந்த வீட்டின் சாவி உங்கள் கையுக்கு வருமா என்பதைத் தீர்மானிக்கின்றன.

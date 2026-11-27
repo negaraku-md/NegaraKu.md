@@ -83,6 +83,34 @@ relations:
 related: ["balik-kampung", "kampung", "public-holidays-malaysia", "religion-statistics"]
 keywords: ["Hari Raya Aidilfitri", "1 Syawal", "balik kampung", "duit raya", "rumah terbuka", "ziarah kubur", "zakat fitrah", "cuti umum Aidilfitri"]
 framework: history-culture
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Orang ramai berbaju Melayu beraya meninggalkan sebuah masjid kampung bermenara kembar selepas solat pagi Aidilfitri di Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: Ketupat palas yang dianyam daripada daun palas di sebelah sepinggan rendang daging, hidangan klasik Hari Raya Aidilfitri di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Ketupat palas dengan rendang daging, hidangan klasik Hari Raya
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: Pelita buluh menyala dengan api yang terang di dalam taman yang gelap ketika Hari Raya Aidilfitri di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Pelita buluh yang menyala pada waktu malam ketika Hari Raya
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 Pada malam terakhir Ramadan, seluruh negara seolah-olah bergerak sekali gus. Lebuh raya utara–selatan sesak berjam-jam, stesen bas penuh beg dan bekas kuih, dan lampu pelita menyala di beranda rumah dari bandar hingga ke pelosok kampung. Esoknya, 1 Syawal, sebulan berpuasa berakhir — dan Malaysia menyambut Hari Raya Aidilfitri.

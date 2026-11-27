@@ -69,6 +69,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "जालुर गेमिलांग", "मलेशिया का झंडा", "Malaysian flag", "14 धारियाँ", "14-कोणीय तारा", "अर्धचंद्र", "Mohamed bin Hamzah", "मलेशियाई झंडे के रंगों का अर्थ"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'नीले कैंटन में पीले अर्धचंद्र और चौदह-कोणीय तारे वाला लाल-सफ़ेद धारीदार मलेशियाई ध्वज एक ऊँचे सफ़ेद ध्वजदंड से नीले आकाश के सामने पूरी तरह फैला हुआ लहरा रहा है।'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # जालुर गेमिलांग: 13 राज्यों के लिए 14 धारियाँ क्यों

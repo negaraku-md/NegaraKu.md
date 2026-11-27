@@ -28,7 +28,7 @@ faq:
     a: "Sebuah RA adalah perkumpulan yang terdaftar di bawah Societies Act 1966, bukan badan statutori — ia tidak memiliki kuasa yang setara dengan Joint Management Body atau Management Corporation untuk memaksa pembayaran. Pengadilan telah mengizinkan sebuah RA meminta seorang penduduk yang tidak membayar untuk mengoperasikan sendiri palang jalan yang dibagi, tetapi menolak akses seorang penduduk secara total berisiko menjadi gangguan (nuisance) yang dapat digugat."
 
 lang: "id"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'Gapura masuk komunitas berpagar yang bercahaya bertuliskan ''Arden Hill Precinct 2'' dengan pos jaga dan palang portal saat senja, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, sebuah komunitas berpagar mewah di dalam kawasan Forest Heights di Seremban, menata rumah tapak di balik satu perimeter terkendali.
+    kind: actual
+    origin: third-party
+    subject: Komunitas berpagar mewah Arden Hill, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Rumah tapak dan hijauan tertata memenuhi kawasan berpagar dan berpenjaga Horizon Hills di Iskandar Puteri, Johor, sebuah enklave hunian besar yang dikelola keamanannya.
+    kind: actual
+    origin: third-party
+    subject: Kawasan hunian berpagar Horizon Hills, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 Dua kawasan perumahan dapat terlihat sama — pos jaga bata, palang jalan bergaris, penjaga berseragam memeriksa stiker kendaraan Anda. Satu berdiri di atas dasar hukum yang kukuh. Yang lain ada karena belum ada siapa pun yang menggugatnya.

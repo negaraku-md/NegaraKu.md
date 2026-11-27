@@ -98,6 +98,34 @@ keywords:
   - Food Act 1983
   - MIDA food incentives
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Thousands of green glass bottles travelling along winding stainless-steel conveyors on a brewery bottling line'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: Overhead view of a beverage bottling plant with multiple conveyor lines and packaging machinery
+    kind: representative
+    origin: third-party
+    subject: Overhead view of conveyors and packaging machinery in a winery bottling plant near Geyserville, California
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: Several large cylindrical grain silos and storage buildings of a food processing and logistics plant beside railway tracks
+    kind: representative
+    origin: third-party
+    subject: Large silos and storage halls of a food-grain processing and logistics plant at Bandel, India
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 Almost everyone in Malaysia touches this industry several times a day — a cup of Milo at breakfast, a packet of instant noodles at lunch, a bottle of mineral water in the afternoon, a bar of chocolate made from cocoa ground in Johor. Food & beverage (F&B) manufacturing is one of the country's quietest big industries: less glamorous than semiconductors, but deeply woven into daily life, national food security and a growing export story built around one powerful idea — halal.

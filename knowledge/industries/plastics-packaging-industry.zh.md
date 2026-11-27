@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚在塑料污染方面采取了什么措施？
     a: 由环境部牵头的《2021—2030 年马来西亚塑料可持续发展路线图》设定目标，逐步淘汰有问题的一次性塑料、提高回收率与再生含量，并使塑料包装可回收。它还引入了生产者延伸责任（EPR）机制，令生产者协助资助收集与回收。
 lang: zh
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: '工厂里一台配有机械臂的注塑机正把刚成型的塑料托盘放到传送带上。'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: 一台绿色与奶白色相间的工业挤出机，顶部有一个漏斗状加料斗，一根缠绕着布线的长型水平加热机筒向右延伸，背景是蓝白相间的厂房墙壁
+    kind: representative
+    origin: third-party
+    subject: 一条配有加料斗与加热机筒、连续成型塑料坯料的塑料挤出生产线，这是塑料与包装产业的核心工序
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: 一捆捆压扁的透明塑料瓶被压实成大型方块，点缀着彩色瓶盖和标签，两三层高地堆放在柏油地面上，旁边是一个生锈的金属箱，背后是树木与灰色天空
+    kind: representative
+    origin: third-party
+    subject: 一捆捆压实的碎透明PET饮料瓶，堆放待回收成新的塑料原料
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 几乎每一件走出马来西亚工厂的实物产品——一包即食面、一部智能手机、一个汽车保险杠、一段水管——都依赖于在这个国家某处成型的塑料。塑料是马来西亚安静的工业强项之一：不如半导体那般光鲜，却几乎编织进其他每一个制造业领域，而且日益深入关于废料与可持续性的全国辩论之中。

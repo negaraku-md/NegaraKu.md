@@ -26,7 +26,7 @@ appliesTo: "Sesiapa sahaja yang ingin memahami agama Kristian di Malaysia — de
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: Apakah Christian Federation of Malaysia, dan badan-badan manakah yang disatukannya?
     a: 'Persekutuan Kristian Malaysia (Christian Federation of Malaysia, CFM), yang ditubuhkan pada 1985, ialah badan payung utama. Ia menyatukan tiga aliran agama Kristian Malaysia: Persidangan Para Uskup Katolik (Catholic Bishops'' Conference), Majlis Gereja-Gereja Malaysia (Council of Churches of Malaysia, Protestan arus perdana) dan Persekutuan Kristian Evangelikal Kebangsaan (National Evangelical Christian Fellowship). CFM menyatakan bahawa ia mewakili lebih daripada 95% gereja di negara ini, kebanyakannya jemaah berbahasa Malaysia di Sabah dan Sarawak.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'Runtuhan batu berkapur putih Gereja St. Paul abad ke-16 di Bukit St. Paul, Melaka, dengan patung marmar St. Francis Xavier berdiri di latar depan.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: Katedral St Mary yang putih bergaya Gothic-revival, sebuah gereja Anglican di sisi Dataran Merdeka di Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Katedral Anglican St Mary, Kuala Lumpur
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: Gereja Katolik Holy Trinity yang moden di Tawau, Sabah, mewakili masyarakat Kristian di Malaysia Timur.
+    kind: actual
+    origin: third-party
+    subject: Gereja Katolik Holy Trinity, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 Kisah agama Kristian di Malaysia mempunyai dua pusat graviti, dan kedua-duanya

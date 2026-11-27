@@ -42,7 +42,7 @@ verificationNeeded:
   - "JS-SEZ ज्ञान-कार्यकर्ता प्रोत्साहन के लिए प्रशासक एजेंसी और आवेदन मार्ग MIDA दिशानिर्देश में नहीं बताया गया — स्नैपशॉट का Appendix B इसे बिना किसी मार्ग का नाम लिए अन्य प्रोत्साहनों के अंतर्गत सूचीबद्ध करता है। सलाह देने से पहले MIDA या IRDA से पुष्टि करें।"
 
 lang: "hi"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ keywords:
   - "MIDA JS-SEZ आवेदन"
   - "JS-SEZ tax incentive"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'इस्कंदर पुतेरी के मेदिनी में साफ़ आसमान के नीचे एक भूदृश्य उद्यान पथ के ऊपर उठती एक चिकनी गहरे काँच की कॉर्पोरेट कार्यालय मीनार'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: जोहोर में Forest City का हवाई दृश्य जिसमें निर्माणाधीन तटवर्ती ऊँची मीनारें और जलडमरूमध्य के बगल में एक पुनः-प्राप्त समुद्रतट के किनारे सफ़ेद विला ब्लॉकों की कतारें दिख रही हैं
+    kind: actual
+    origin: third-party
+    subject: Forest City, Johor Strait पर जोहोर में प्रमुख सीमा-पार विकास, सिंगापुर की ओर पानी का सामना करती निर्माणाधीन मीनारें और विला ब्लॉक
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: एक भूदृश्य वाले गोल-चक्कर पर एक बड़ा सड़क किनारे 'Iskandar Puteri' स्थल-चिह्न साइन, पीछे क्षितिज-रेखा पर कार्यालय तथा वाणिज्यिक मीनारें और निर्माण क्रेन
+    kind: actual
+    origin: third-party
+    subject: Iskandar Puteri प्रवेशद्वार स्थल-चिह्न साइन, पीछे क्षितिज-रेखा पर उठती इस क्षेत्र की वाणिज्यिक मीनारें और क्रेन
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 जोहोर-सिंगापुर विशेष आर्थिक क्षेत्र का हर सारांश एक ही संख्या से शुरू होता है: 15 वर्षों के लिए 5

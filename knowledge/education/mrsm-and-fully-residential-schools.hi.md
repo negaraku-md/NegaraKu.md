@@ -29,7 +29,7 @@ faq:
     a: "आवेदन KPM पोर्टल के माध्यम से ऑनलाइन किए जाते हैं, और छात्रों को विशेष विद्यालय प्रवेश मूल्यांकन (PKSK) के माध्यम से, शैक्षणिक और सह-पाठ्यचर्या उपलब्धि के साथ जाँचा जाता है।"
 
 lang: "hi"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "आवासीय विद्यालय", "बूमिपुत्र कोटा", "पूर्ण आवासीय विद्यालय मलेशिया"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'जोहोर में मकतब रेंदाह साइंस मारा (MRSM) बाटू पाहात का प्रवेश-द्वार और नाम-पट्ट, जो एक मलेशियाई पूर्ण आवासीय विज्ञान महाविद्यालय है, जहाँ द्वार के किनारे राष्ट्रीय और राज्य के झंडे लगे हैं।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: किसी ग्रामीण सड़क के किनारे MARA Junior Science College (MRSM) Gemencheh का प्रवेश-पट्ट और द्वार।
+    kind: actual
+    origin: third-party
+    subject: MARA Junior Science College (MRSM) Gemencheh का मुख्य प्रवेशद्वार
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: मेलाका में एक मलेशियाई पूर्ण-आवासीय विद्यालय के परिसर भवनों और प्रांगण का विहंगम दृश्य।
+    kind: actual
+    origin: third-party
+    subject: एक पूर्ण-आवासीय विद्यालय का परिसर, Sekolah Berasrama Penuh Integrasi (SBPI) मेलाका
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 जब मलेशियाई परिवार अपने बच्चों के लिए «सर्वश्रेष्ठ» आवासीय विद्यालयों की बात करते हैं, तो अक्सर दो नाम सामने आते हैं: MRSM और SBP। दोनों ही चयनात्मक पूर्ण आवासीय कॉलेज हैं, दोनों में प्रवेश पाना अत्यंत प्रतिस्पर्धी है — पर इन्हें दो अलग निकाय, दो अलग नीति-अधिदेशों के अंतर्गत चलाते हैं।

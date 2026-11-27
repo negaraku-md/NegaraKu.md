@@ -41,7 +41,7 @@ verificationNeeded:
   - "Kuala Lumpur share of national GDP as a published percentage — DOSM publishes the ringgit value and the ranking but not the KL share directly"
 
 lang: "es"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,6 +110,34 @@ keywords:
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
 framework: profile
+hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
+heroAlt: 'Denso conjunto de rascacielos de oficinas del distrito financiero central de Kuala Lumpur visto desde arriba, con las Torres Petronas elevándose en el borde izquierdo'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: Elegante torre de oficinas de cristal azul Mercu UEM en Kuala Lumpur con un tren monorraíl rojo cruzando una vía elevada en primer plano bajo un cielo brillante
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM, una torre corporativa de oficinas de cristal en el distrito de negocios de KL Sentral, con un tren monorraíl pasando por delante
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: El techo curvo de la estación KL Sentral en primer plano, rodeado por las torres de oficinas y hoteles del distrito de negocios de KL Sentral bajo un cielo nublado
+    kind: actual
+    origin: third-party
+    subject: El centro de transporte KL Sentral y el conjunto de torres de oficinas circundante del distrito de negocios de KL Sentral en Kuala Lumpur
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 Kuala Lumpur es el único lugar de Malasia donde puede leer su tasa de licencia en la gaceta

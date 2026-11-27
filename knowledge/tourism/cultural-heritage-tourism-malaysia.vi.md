@@ -74,9 +74,16 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'Một con phố hẹp ở George Town với những dãy nhà phố cũ sơn màu, đèn lồng đỏ và biển hiệu Bảo tàng Tranh Batik, cùng các quầy lưu niệm và du khách dọc theo lối đi năm bộ.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sáu địa điểm trong một quốc gia nay mang dấu ấn của UNESCO — và bạn có thể đi dạo qua một quảng trường thuộc địa Hà Lan hàng thế kỷ tuổi vào buổi sáng và đứng bên trong một hang động rộng lớn của Borneo sau một chuyến bay. Di sản của Malaysia không phải một bảo tàng để bạn ngắm nhìn; nó là một con phố sống động mà bạn có thể ăn, ngủ và cầu nguyện xuyên qua nó.

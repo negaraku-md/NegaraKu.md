@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 
 status: "published"
 aiAssisted: true
@@ -67,9 +67,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'クアラルンプールの黄金色の夕暮れの空を背に、KLCC地区のスカイラインの上にそびえるライトアップされたペトロナス・ツインタワー'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: 針状の頂部を持つKL Towerと密集する高層ビル群が、大きな白い雲の下に広がり、前景に緑の公園があるクアラルンプールのスカイラインを広く見渡した様子
+    kind: actual
+    origin: third-party
+    subject: 明るい曇り空の下、KL Towerを望むクアラルンプール市街のパノラマ・スカイライン
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: クアラルンプール中心部にある、高い時計塔と輝く銅製ドームを備えたムーア様式のSultan Abdul Samadビル
+    kind: actual
+    origin: third-party
+    subject: 銅製ドームの時計塔を備えた植民地時代のSultan Abdul Samadビル、クアラルンプール中心部
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 クアラルンプールはマレーシアの首都であるが、憲法上は州ではない——連邦直轄区（Wilayah Persekutuan）であり、1974年にセランゴールから分離され、州政府や民選の州議会ではなく連邦政府によって直接統治されている。

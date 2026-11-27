@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố đọc thống kê dân số, lao động hay bất động sản của Malaysia cho đúng — nhà nghiên cứu, nhà quy hoạch, và các doanh nghiệp đánh giá dân số và lực lượng lao động thực sự ở đâu."
 
 lang: "vi"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ faq:
   - q: Phần lớn tăng trưởng đô thị của Malaysia tập trung ở đâu?
     a: Ở Thung lũng Klang (Klang Valley). Tại cuộc Tổng điều tra dân số 2020, bốn quận giáp nhau — Kuala Lumpur (1.982.112), Petaling (2.298.130), Ulu Langat (1.400.461) và Klang (1.088.942) — cùng nhau có khoảng 6,77 triệu người, hơn một phần năm dân số cả nước là 32,4 triệu người. Selangor hiện là bang đông dân nhất với 6.994.423 người và có mức đô thị hóa 95,8%, trong khi Kelantan, ở mức 44,1%, là bang ít đô thị hóa nhất.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'Tầm nhìn rộng về đường chân trời dày đặc của thành phố Kuala Lumpur dưới bầu trời sáng nhiều mây, với Tháp KL đỉnh nhọn hình kim, những tòa nhà chọc trời san sát và mái vòm xanh của một thánh đường Hồi giáo vươn lên trên những tán cây xanh.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: Một dãy nhà phố hai tầng thời thuộc địa với hành lang vòm 'năm bộ' và tầng trên có cửa chớp gỗ nằm dọc một con phố phố cổ yên tĩnh.
+    kind: actual
+    origin: third-party
+    subject: Phố nhà phố di sản ở George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: Một cây cầu dây văng màu trắng hình cánh buồm bắc qua một hồ nước trước những dãy chung cư tầm trung dưới bầu trời xám.
+    kind: actual
+    origin: third-party
+    subject: Cầu Seri Wawasan ở thành phố liên bang quy hoạch Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Cứ ba trong bốn người Malaysia nay sống ở một nơi mà DOSM gọi là "đô thị"

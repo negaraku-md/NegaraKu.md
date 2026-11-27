@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +73,34 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'クアラルンプールのスルタン・アブドゥル・サマド・ビルのムーア様式の正面全体。高い中央の時計塔と銅の玉ねぎ形ドームの下にレンガアーチの長い回廊が連なり、淡い空の下、ムルデカ広場の人のいない舗装路から見る'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: マラッカのア・ファモサ要塞のポルタ・デ・サンティアゴ門の、風化したラテライトレンガの遺構。崩れかけたアーチの上には彫刻のレリーフが乗り、手前にはレンガの台座に据えられた古い青銅の大砲があり、青空を背に熱帯の木々が立っている
+    kind: actual
+    origin: third-party
+    subject: 国家遺産記念物に指定されている、マラッカのポルトガルの要塞ア・ファモサのポルタ・デ・サンティアゴ門
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: ペラ州バトゥガジャにあるケリーズ・キャッスルのピンクがかったレンガの正面。2階にアーチの列柱と細い柱が並び、レンガ敷きの中庭に面している。明るい曇り空の下、一部崩れた壁と熱帯の緑が見える
+    kind: actual
+    origin: third-party
+    subject: ペラ州バトゥガジャにある20世紀初頭の未完成の邸宅、保護遺産のケリーズ・キャッスル
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 ジョージタウンにある築100年の店舗兼住宅（ショップハウス）、1本のクリス（keris）、宮廷舞踊、そして今なお存命の[ソンケット](/arts-culture/songket)（songket）職人——この4つはいずれも、マレーシアにおいて同じ法的呼称を冠しうる：*国家遺産*（Warisan Kebangsaan）。これらを結びつけているのはUNESCOの一覧ではなく、その名がめったに語られることのない国内名録——**国家遺産名録**（Daftar Warisan Kebangsaan）である。

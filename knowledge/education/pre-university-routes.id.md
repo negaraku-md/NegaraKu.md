@@ -22,7 +22,7 @@ verificationNeeded:
   - "Kapasitas penerimaan tahunan terkini (jumlah tempat) bagi kohort STPM, Matrikulasi, dan A-Level tidak dinyatakan di sini — angka ini berubah setiap siklus penerimaan; pastikan angka sesi terkini langsung dengan MPM, Bagian Matrikulasi, atau kolej terkait sebelum bergantung pada angka tertentu."
   - "Pedoman MQA mengenai struktur program Asasi (Garis Panduan Kurikulum Asasi) tidak dapat diperoleh sepenuhnya untuk artikel ini — aturan minimum jam kredit atau masa yang ditetapkan oleh MQA bagi program Asasi dijelaskan di sini secara umum saja; pastikan angka sebenarnya dengan MQA atau institusi yang menawarkannya sebelum mengutipnya."
 lang: "id"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'Blok akademik Kolej Matrikulasi Kelantan, sebuah kolese matrikulasi Malaysia yang menawarkan jalur pra-universitas, di bawah langit biru.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: Gedung kampus modern sebuah perguruan tinggi di Malaysia yang menawarkan program foundation prauniversitas
+    kind: representative
+    origin: third-party
+    subject: Kampus sebuah perguruan tinggi di Malaysia yang menawarkan program prauniversitas / foundation (KDU University College, Damansara Jaya)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: Gedung laboratorium fakultas sains dan teknologi sebuah universitas di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Gedung laboratorium sains, Fakultas Sains dan Teknologi, Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 Dua pelajar keluar dari aula SPM yang sama dengan hasil yang nyaris serupa.

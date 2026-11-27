@@ -36,7 +36,7 @@ faq:
     a: "NSS nhắm tới việc đào tạo và nâng cao kỹ năng cho 60,000 kỹ sư Malaysia có kỹ năng cao — khoảng 30,000 được bồi dưỡng qua Bộ Giáo dục và khoảng 30,000 nhân tài kỹ thuật và dạy nghề (TVET) từ các bộ khác."
 
 lang: "vi"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Cận cảnh cực đại một đế vi mạch tích hợp cho thấy mạch điện trên chip tinh xảo màu bạc và tím, với những sợi dây nối vàng mảnh tỏa ra tới các chân mạ vàng của vỏ đóng gói'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: Một tấm bán dẫn silicon tròn đường kính 300 milimét nhìn từ trên xuống, phủ đầy một lưới đều đặn các die chip hình chữ nhật với các màu nhiễu xạ cầu vồng trên bề mặt
+    kind: representative
+    origin: third-party
+    subject: Một tấm bán dẫn silicon 12 inch (300 mm) được tạo họa tiết bằng lưới các die chip
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: Một tấm bán dẫn silicon đang quay phủ một lớp chất cản quang màu đỏ sẫm bóng trên máy quay phủ, với chất cản quang bắn ra ngoài thành những tia mảnh
+    kind: representative
+    origin: third-party
+    subject: Một tấm bán dẫn silicon đang được quay phủ chất cản quang trong quá trình chế tạo chip
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Gần như mọi điện thoại, laptop và ô tô trên Trái Đất đều mang một con chip đã trải qua một phần đời của nó ở Malaysia — được đóng gói, kiểm thử và vận chuyển từ một nhà máy ở Penang hay Thung lũng Klang. Tuy nhiên trong năm mươi năm đất nước làm lát cắt kém hào nhoáng nhất, biên lợi nhuận thấp nhất của công việc đó: hậu kỳ. Chiến lược Bán dẫn Quốc gia là nỗ lực của Malaysia nhằm thay đổi phần nào của con chip mà nó sở hữu.

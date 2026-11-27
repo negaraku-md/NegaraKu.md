@@ -8,6 +8,7 @@ import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
 import { getFramework } from '@/lib/frameworks';
+import { michelinTrajectory } from '@/lib/michelin';
 import { imageLabel, needsRepresentativeBadge, reviewSourceLabel } from '@/lib/imageProvenance';
 import { isolateRanges } from '@/lib/bidi';
 import TrustBadge from './TrustBadge.astro';
@@ -63,6 +64,10 @@ const heroRepBadge = d.hero && needsRepresentativeBadge(d.heroKind);
 // Attributed taste commentary — PLACE food articles only; an award alone is not a
 // review, so this renders only when a real food observation was authored.
 const reviews = (d.foodType === 'place' && Array.isArray(d.review)) ? d.review.filter((r) => (r.flavor?.length ?? 0) > 0) : [];
+// MICHELIN edition trajectory (restaurant's own page) — only for a michelin-guide
+// restaurant that appears in ≥2 editions, so there is a real record to show.
+const isMichelin = d.category === 'food-lifestyle' && (Array.isArray(d.subcategory) ? d.subcategory.includes('michelin-guide') : d.subcategory === 'michelin-guide');
+const mTrajectory = isMichelin ? michelinTrajectory(d.slug, locale) : null;
 const sourceById = new Map((d.sources ?? []).filter((s) => s.id).map((s) => [s.id as string, s]));
 const heroAltText = d.hero
   ? (d.heroAlt ?? '')
@@ -508,6 +513,20 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               <span class="sec-h"><span class="ico" set:html={ICON.place} />{L('Lokasi & penilaian', 'Where to find & ratings', '地点与评价', 'இடம் & மதிப்பீடுகள்', '場所と評価', '위치 및 평점', 'สถานที่และคะแนน', 'Địa điểm & đánh giá', 'Lokasi & penilaian', 'الموقع والتقييمات', 'स्थान और रेटिंग', 'Dónde encontrarlo y valoraciones', "Où le trouver et avis")}</span>
             </header>
             <div class="lb place">
+              {mTrajectory && (
+                <div class="mich-track">
+                  <span class="mich-track-h">{mTrajectory.heading}</span>
+                  <ol class="mich-steps">
+                    {mTrajectory.steps.map((s) => (
+                      <li class={s.current ? 'mich-step is-now' : 'mich-step'}>
+                        <span class="mich-yr">{s.year}</span>
+                        <span class="mich-dist">{s.dist}{s.greenStar ? ' 🌱' : ''}</span>
+                      </li>
+                    ))}
+                  </ol>
+                  <span class="mich-track-note">{mTrajectory.note}</span>
+                </div>
+              )}
               {d.place.nativeName && <p class="place-native">{d.place.nativeName}</p>}
               {d.place.address && (
                 <p class="place-row"><span class="place-ico" set:html={ICON.place} /><span>{d.place.address}{d.place.priceRange ? ` · ${d.place.priceRange}` : ''}</span></p>
@@ -774,6 +793,48 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
       {
+        d.visitFacts && (
+          <section class="layer l-facts">
+            <header>
+              <span class="sec-h"><span class="ico" set:html={ICON.facts} />{L('Sepintas lalu', 'At a glance', '速览', 'ஒரு பார்வையில்', 'ひと目でわかる', '한눈에 보기', 'โดยสังเขป', 'Nhìn nhanh', 'Sekilas', 'لمحة سريعة', 'एक नज़र में', 'De un vistazo', 'En bref')}</span>
+            </header>
+            <dl class="lb facts">
+              {d.visitFacts.bestFor && (
+                <div class="fact">
+                  <dt>{L('Sesuai untuk', 'Best for', '适合', 'யாருக்கு ஏற்றது', 'おすすめの人', '추천 대상', 'เหมาะกับ', 'Phù hợp với', 'Cocok untuk', 'مناسب لـ', 'किसके लिए उपयुक्त', 'Ideal para', 'Idéal pour')}</dt>
+                  <dd>{iso(d.visitFacts.bestFor)}</dd>
+                </div>
+              )}
+              {d.visitFacts.getThere && (
+                <div class="fact">
+                  <dt>{L('Cara ke sana', 'Getting there', '如何前往', 'எப்படிச் செல்வது', '行き方', '가는 법', 'การเดินทางไป', 'Cách đến', 'Cara ke sana', 'كيفية الوصول', 'कैसे पहुँचें', 'Cómo llegar', "Comment s'y rendre")}</dt>
+                  <dd>{iso(d.visitFacts.getThere)}</dd>
+                </div>
+              )}
+              {d.visitFacts.permit && (
+                <div class="fact">
+                  <dt>{L('Permit & bayaran', 'Permits & fees', '许可与费用', 'அனுமதி & கட்டணம்', '許可と料金', '허가·요금', 'ใบอนุญาตและค่าธรรมเนียม', 'Giấy phép & phí', 'Izin & biaya', 'التصاريح والرسوم', 'परमिट और शुल्क', 'Permisos y tarifas', 'Permis et frais')}</dt>
+                  <dd>{iso(d.visitFacts.permit)}</dd>
+                </div>
+              )}
+              {d.visitFacts.watch && (
+                <div class="fact">
+                  <dt>{L('Perlu diingat', 'What to watch', '注意事项', 'கவனிக்க வேண்டியவை', '注意点', '유의할 점', 'ข้อควรระวัง', 'Điều cần lưu ý', 'Yang perlu diperhatikan', 'ما يجب الانتباه إليه', 'ध्यान देने योग्य बात', 'A tener en cuenta', 'À surveiller')}</dt>
+                  <dd>{iso(d.visitFacts.watch)}</dd>
+                </div>
+              )}
+              {d.visitFacts.next && (
+                <div class="fact">
+                  <dt>{L('Langkah seterusnya', 'Next step', '下一步', 'அடுத்த படி', '次のステップ', '다음 단계', 'ขั้นต่อไป', 'Bước tiếp theo', 'Langkah berikutnya', 'الخطوة التالية', 'अगला कदम', 'Siguiente paso', 'Étape suivante')}</dt>
+                  <dd>{iso(d.visitFacts.next)}</dd>
+                </div>
+              )}
+            </dl>
+          </section>
+        )
+      }
+
+      {
         d.commonMisconception.length > 0 && (
           <section class="layer l-myth">
             <header>
@@ -812,6 +873,37 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         </header>
         <div class="lb prose"><Content /></div>
       </section>
+
+      {
+        d.images.length > 0 && (
+          <section class="layer art-gallery" data-pagefind-ignore>
+            {d.images.map((im) => {
+              const lbl = imageLabel(im.kind, im.origin, locale);
+              const rep = needsRepresentativeBadge(im.kind);
+              return (
+                <figure class="art-photo art-photo-inline">
+                  <img src={im.src} alt={iso(im.alt)} width="1600" height="900" loading="lazy" decoding="async" />
+                  {rep && <span class="art-photo-badge">{lbl}</span>}
+                  {(lbl || im.subject || im.caption || im.credit || im.sourceUrl || im.license) && (
+                    <figcaption>
+                      {lbl && <span class="prov">{lbl}</span>}
+                      {(im.caption || im.subject) && <span>{lbl ? ' · ' : ''}{iso(im.caption || im.subject)}</span>}
+                      {(im.credit || im.sourceUrl) && (
+                        <span>{(lbl || im.caption || im.subject) ? ' · ' : ''}
+                          {im.sourceUrl ? (
+                            <a href={im.sourceUrl} target="_blank" rel="noopener noreferrer">{im.credit ?? im.sourceUrl}</a>
+                          ) : (im.credit)}
+                        </span>
+                      )}
+                      {im.license && <span class="lic">{(lbl || im.caption || im.subject || im.credit || im.sourceUrl) ? ' · ' : ''}{im.license}</span>}
+                    </figcaption>
+                  )}
+                </figure>
+              );
+            })}
+          </section>
+        )
+      }
 
       {
         d.faq.length > 0 && (
@@ -1386,6 +1478,33 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .place-links a:hover { border-bottom-color: var(--gold); }
   .place-emoji { flex: 0 0 auto; width: 1.15em; margin-top: 0.05em; text-align: center; }
   .place-lbl { color: var(--ink); }
+  .mich-track {
+    display: flex; flex-direction: column; gap: 0.4rem;
+    padding: 0.7rem 0.85rem; border-radius: 9px;
+    background: color-mix(in srgb, var(--gold) 7%, var(--surface-2));
+    border: 1px solid color-mix(in srgb, var(--gold) 28%, var(--line));
+  }
+  .mich-track-h {
+    font-family: var(--font-title); font-weight: 700; font-size: 0.74rem;
+    text-transform: uppercase; letter-spacing: 0.07em; color: var(--gold);
+  }
+  .mich-steps {
+    list-style: none; margin: 0; padding: 0;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.55rem;
+  }
+  .mich-step {
+    display: inline-flex; align-items: baseline; gap: 0.35rem;
+    font-size: 0.9rem; color: var(--ink-soft); white-space: nowrap;
+  }
+  .mich-step + .mich-step::before {
+    content: "→"; margin-inline-end: 0.2rem; color: var(--ink-faint, var(--ink-soft)); opacity: 0.7;
+  }
+  :global([dir="rtl"]) .mich-step + .mich-step::before { content: "←"; }
+  .mich-yr { font-variant-numeric: tabular-nums; color: var(--ink-faint, var(--ink-soft)); font-size: 0.82rem; }
+  .mich-dist { color: var(--ink); font-weight: 600; }
+  .mich-step.is-now .mich-yr { color: var(--gold); font-weight: 700; }
+  .mich-step.is-now .mich-dist { color: var(--gold); }
+  .mich-track-note { font-size: 0.76rem; color: var(--ink-faint, var(--ink-soft)); opacity: 0.85; line-height: 1.45; }
   .halal-badge { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.2rem 0.65rem; border-radius: 999px; font-size: 0.84rem; font-weight: 700; line-height: 1.5; }
   .halal-ok { color: #8ff0b8; background: color-mix(in srgb, #10b981 16%, transparent); border: 1px solid color-mix(in srgb, #10b981 45%, transparent); }
   .halal-no { color: #ffb4b4; background: color-mix(in srgb, #f43f5e 15%, transparent); border: 1px solid color-mix(in srgb, #f43f5e 45%, transparent); }

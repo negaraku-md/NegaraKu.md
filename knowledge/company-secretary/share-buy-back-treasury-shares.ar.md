@@ -67,7 +67,7 @@ relations:
   - { rel: "part-of", to: "companies-act-2016" }
   - { rel: "related-to", to: "reduction-of-share-capital" }
   - { rel: "related-to", to: "solvency-statement" }
-related: []
+related: ["special-resolution", "share-capital-malaysia", "company-constitution-malaysia"]
 keywords: ["إعادة شراء الأسهم", "pembelian balik saham", "share buy-back", "أسهم الخزينة", "treasury shares", "القسم 127", "Seksyen 127", "قانون الشركات 2016", "Akta Syarikat 2016", "Bursa Malaysia", "الفصل 12", "Bab 12"]
 framework: rules
 ---

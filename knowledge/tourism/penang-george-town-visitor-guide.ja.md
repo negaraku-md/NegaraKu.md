@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 
 status: "published"
 aiAssisted: true
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: '歩いて回れるUNESCO世界遺産の中心地区——ショップハウス、宗族の会館、Ernest Zacharevicのストリートアート、そして多文化のホーカー料理——を徒歩で巡りたい旅行者に。'
+  getThere: 'George Town南部のPenang International Airportに飛ぶか、Penang BridgeとSultan Abdul Halim Muadzam Shah Bridgeを渡って陸路で島に入るか、ButterworthからGeorge Townの水辺までRapid Ferryに乗る。'
+  watch: 'ストリートアートは全体像ではなく入口と捉えること——UNESCOの登録が実際に守っているのは、宗族の会館、寺院、ショップハウスの通りだからである。'
+  next: '現在のケーブルカーの時刻と規則は、Penang Hill Corporationで確認すること。'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: ペナンのジョージタウンで、色とりどりの歴史的商店建築やカフェが並ぶアルメニアン通りの上に連なる赤い中国のランタン
+    kind: actual
+    origin: third-party
+    subject: アルメニアン通り、ジョージタウン
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: ペナンのジョージタウンで、歴史的建造物の前に並ぶ、花や傘で華やかに飾られた客用三輪車（トライショー）の列
+    kind: actual
+    origin: third-party
+    subject: ジョージタウンのトライショー
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 島に降り立ち、冷房から一歩外へ出ると、まず押し寄せてくるのは匂いだ——中華鍋の煙、華人寺院の線香、プルメリア、そしてマラッカ海峡の潮の香り。ジョージタウンは足で読む街である。築百年の店屋が密に並ぶ一角では、モスクと宗祠と植民地時代の教会がひとつの街区を分かち合っていることもある。本ガイドは、何を見るか、どこで食べるか、ビーチと丘へどう向かうか、そして、ゆっくり過ごす者に報いるこの街にどれだけの時間を割くべきかを取り上げる。

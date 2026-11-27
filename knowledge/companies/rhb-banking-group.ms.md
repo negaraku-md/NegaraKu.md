@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,24 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: 'Sebuah bangunan bank sudut tiga tingkat yang tingkat bawahnya diselubungi fasia biru terang tertulis RHB Bank, RHB Islamic dan RHB Bank, masing-masing dengan logo berlian merah RHB, sebuah kereta merah diletak di hadapan di bawah langit pucat'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: Sebuah cawangan sudut RHB Bank dua tingkat berwarna putih dilihat merentasi simpang berturap bata, dengan jalur papan tandanya bertulis RHB Islamic dan RHB Bank beserta logo berlian merah, kanopi pasar didirikan di laman hadapan di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Sebuah cawangan RHB Bank di Seremban 2, Negeri Sembilan, dengan papan tanda RHB Bank dan RHB Islamic di bawah langit biru cerah
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB ialah salah satu nama yang paling dikenali oleh kebanyakan rakyat Malaysia pada cawangan bank di pusat bandar, kad ATM atau risalah pinjaman perumahan — namun kumpulan di sebaliknya menjangkau jauh melangkaui perbankan runcit, ke dalam kewangan Islam, perbankan pelaburan, insurans dan pasaran di seluruh Asia Tenggara. Halaman ini ialah gambaran keseluruhan yang neutral dan berasaskan fakta tentang apa itu RHB Banking Group, bagaimana ia distrukturkan, siapa pemiliknya dan mengapa ia penting.

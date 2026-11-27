@@ -29,7 +29,7 @@ faq:
     a: "يصدر التقويم الرسمي عبر تعاميم KPM وبوابة moe.gov.my كل عام قبل بدء الجلسة. راجع المصادر الرسمية للحصول على التواريخ الدقيقة، فهي تتغير كل عام."
 
 lang: "ar"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["التقويم المدرسي", "العطلات المدرسية", "عطلة الفصل الدراسي", "المجموعة أ", "المجموعة ب", "KPM", "التقويم الأكاديمي", "school calendar Malaysia"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'مبنى مدرسة ابتدائية وطنية ماليزية حديث من ثلاثة طوابق بمدخل مُسقَّف وسيارات متوقّفة في الخارج تحت سماء زرقاء صافية.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: ساحة تجمّع فارغة تحفّها الأعلام في مدرسة ماليزية، حيث يتجمّع التلاميذ كل صباح قبل بدء أولى حصص اليوم.
+    kind: representative
+    origin: third-party
+    subject: ساحة تجمّع مدرسية ماليزية (tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: فتاتان مدرسيتان بالزيّ الرسمي تعودان إلى المنزل على دراجة نارية عبر أحد طرق لنكاوي بعد انتهاء الدوام المدرسي لليوم.
+    kind: representative
+    origin: third-party
+    subject: فتاتان مدرسيتان بالزيّ الرسمي تعودان إلى المنزل بعد الحصص في لنكاوي
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 خطّط لرحلة عائلية في مطلع العام، وسرعان ما تلاحظ أمرًا واحدًا: جارك في كلنتان يبدأ المدرسة قبل طفلك في سلانغور بيوم. وهذا ليس خطأً — بل هكذا صُمِّم التقويم المدرسي في ماليزيا.

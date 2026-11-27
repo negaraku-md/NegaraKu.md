@@ -25,7 +25,7 @@ appliesTo: "Sesiapa sahaja yang memiliki, sedang membeli, atau menyewa unit di s
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,32 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'Sebuah menara kondominium kediaman merah putih yang tinggi dengan latar langit biru di Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: Beberapa menara kondominium menjulang bersama di Ampang, Kuala Lumpur, sebuah kelompok bangunan tinggi yang penghuninya berkongsi yuran penyelenggaraan bagi memastikan lif, kolam dan keselamatan terus beroperasi.
+    kind: actual
+    origin: third-party
+    subject: Sekelompok menara kondominium di Ampang, Kuala Lumpur
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: Pelbagai menara Kondominium Riana Green menjulang bersama di tengah kehijauan di Petaling Jaya, sebuah pembangunan strata berpagar yang penghuninya berkongsi yuran penyelenggaraan dan kumpulan wang penjelas.
+    kind: actual
+    origin: third-party
+    subject: Kelompok Kondominium Riana Green dilihat dari NKVE, Petaling Jaya, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 Anda membeli unit itu. Anda tidak membeli lif, pondok pengawal, kolam renang, atau paip yang melalui dinding yang anda kongsi dengan jiran anda. Seseorang tetap perlu membayar untuk semua itu — dan undang-undang membahagikan bil itu kepada dua akaun yang menurut undang-undang mesti anda pisahkan.

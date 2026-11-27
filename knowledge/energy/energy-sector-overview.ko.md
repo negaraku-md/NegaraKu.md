@@ -34,7 +34,7 @@ faq:
     a: "PETRA(에너지전환수자원부, Ministry of Energy Transition and Water Transformation)는 국가 에너지 및 수자원 정책을 수립하고 2050년까지 탄소 중립으로의 전환을 추진하는 부처입니다. 에너지위원회는 PETRA 산하의 규제 법정 기관으로, 전력 및 가스 공급에 관한 면허 발급, 요금 설정, 법 집행을 담당합니다."
 
 lang: "ko"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: '굴뚝과 바다로 뻗은 부두를 갖춘 해안 석탄 화력발전소를 위에서 내려다본 모습.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: 터빈 건물, 금속 배기 굴뚝, 변압기와 철골 가대가 늘어선 울타리 친 개폐소를 갖춘 가스화력발전소. 개간된 땅에 자리하고 뒤로 숲으로 덮인 언덕과 밝은 하늘이 펼쳐진다
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루 인근의 루가딩 발전소. 사바 전력망에 전기를 공급하는 가스화력발전소
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: 경계 울타리 너머로 낮은 산업 건물, 금속 덕트, 높은 굴뚝이 솟은 해안 발전소. 인근에 야자수와 빈터가 있고 뿌연 하늘이 펼쳐진다
+    kind: actual
+    origin: third-party
+    subject: 믈라카 해안의 탄중클링 발전소. 반도 말레이시아 발전 설비의 일부
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 전등 스위치를 켜거나, 이포(Ipoh)에서 RON95 연료를

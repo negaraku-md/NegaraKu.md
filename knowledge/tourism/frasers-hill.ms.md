@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,38 @@ relations:
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk pemerhati burung dan pencinta alam semula jadi yang mencari percutian tanah tinggi yang tenang dan beriklim sejuk dengan denai hutan serta pesona kolonial yang pudar, dan bukan hiburan malam atau tarikan besar.'
+  getThere: 'Tiada lapangan terbang atau landasan kereta api — anda memandu naik jalan gunung yang berliku dari Kuala Kubu Bharu ke The Gap, tempat pendakian terakhir bermula, dengan lalu lintas menaik dan menurun kini dibahagikan antara dua jalan (jalan asal berlorong tunggal dahulunya beroperasi sebagai sehala mengikut masa).'
+  watch: 'Jalan gunung yang sempit dan berliku adalah perlahan serta mudah ditutup selepas hujan, tanah runtuh atau pokok tumbang, dan bukit itu sendiri sering berkabus dan lembap, dengan pilihan makan dan bekalan yang terhad.'
+  next: 'Sahkan susunan akses jalan dan sebarang penutupan semasa dengan pihak berkuasa jalan (JKR) sebelum anda mengembara.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Menara jam batu digantung bendera Malaysia di sebelah bangunan bergaya Tudor berkayu separa di bawah kabus kelabu dan pokok pain tinggi di Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: Hotel bergaya Tudor putih-coklat berkerangka kayu dengan tingkap bercahaya hangat dan tumbuhan menjalar, dibingkai pokok pain tinggi ketika senja
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, hotel kolonial gaya Tudor tiruan di Bukit Fraser diterangi cahaya ketika senja
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: Taman tanah tinggi berlandskap dengan pokok palma menurun ke hutan hujan hijau tebal dengan banjaran gunung biru berkabus di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Taman cerun berteres menghadap lembah hutan hujan sejuk berkabus dan banjaran gunung di kejauhan Bukit Fraser
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 Kebanyakan pusat peranginan bukit Malaysia menjual anda sesuatu — kasino, ladang teh, ladang strawberi, taman tema. Bukit Fraser menjual anda ketiadaan semua itu. Terbentang merentasi sekelompok rabung berhutan di [banjaran Titiwangsa](/malaysia/titiwangsa-range), ia stesen era kolonial yang kecil, tenang dan berselimut kabus tempat bunyi paling kuat yang akan anda dengar ialah kicauan burung, dan tempat sehelai baju sejuk berhenti terasa mengarut walaupun di khatulistiwa. Bagi pemerhati burung ia hampir tanah suci; bagi yang lain ia alternatif perlahan dan rendah suasana kepada jiran tanah tinggi yang lebih gah. Panduan ini merangkumi apa sebenarnya Bukit Fraser, mengapa peminat burung datang, apa yang ada untuk dilihat, cara jalan berliku naik berfungsi, serta untuk siapa tempat ini sesuai dan tidak sesuai.

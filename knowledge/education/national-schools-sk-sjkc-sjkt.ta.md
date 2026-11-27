@@ -38,7 +38,7 @@ reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 reviewDue: 2027-07-24
 publishedBy: "ashton-tan"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 revision: 0
 revisions:
   - revision: 0
@@ -68,6 +68,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'சபாவில் உள்ள மலேசிய தேசியத் தொடக்கப் பள்ளியான சேகோலா கெபாங்சான் துங்கு பள்ளியின் ஒற்றை மாடிக் கட்டிடம், மலேசியக் கொடியை ஏற்றி, அதன் சுவரில் பள்ளியின் குறிக்கோள் வாசகம் வரையப்பட்டுள்ளது.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: தேசிய வகை சீன மொழித் தொடக்கப் பள்ளியான SJK(C) Chong San-இன் கட்டிடமும் பெயர்ப் பலகையும்
+    kind: actual
+    origin: third-party
+    subject: ஒரு தேசிய வகை சீனப் பள்ளி, SJK(C) Chong San, Bagan Datuk, Perak
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: தேசிய வகை தமிழ் மொழித் தொடக்கப் பள்ளியான SJK(T) Saraswathy-இன் கட்டிடமும் பெயர்ப் பலகையும்
+    kind: actual
+    origin: third-party
+    subject: ஒரு தேசிய வகை தமிழ்ப் பள்ளி, SJK(T) Saraswathy, Sungai Buloh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 ஒவ்வொரு ஆண்டும், பதிவுக் காலம் திறக்கப்படும்போது, மலேசியா முழுவதிலும் உள்ள பெற்றோர் தங்கள் பிள்ளையை முதலாம் ஆண்டுக்குப் (Tahun 1) பதிவு செய்ய மலேசியக் கல்வி அமைச்சின் (Kementerian Pendidikan Malaysia, KPM) idMe வலைவாயிலைத் திறக்கிறார்கள். செய்ய வேண்டிய முதல் தேர்வுகளில் ஒன்று: SK, SJKC அல்லது SJKT?

@@ -33,7 +33,7 @@ verificationNeeded:
   - "ยืนยันตัวเลขประชากรของกัวลาลัมเปอร์และเกรตเทอร์กัวลาลัมเปอร์ และอันดับ GDP ต่อหัว กับข้อมูลฉบับล่าสุดของ DOSM ก่อนการเผยแพร่"
 
 lang: "th"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'ตึกแฝดเปโตรนาสที่ส่องไฟตั้งตระหง่านเหนือเส้นขอบฟ้าย่าน KLCC ตัดกับท้องฟ้ายามพลบค่ำสีทองในกัวลาลัมเปอร์'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: มุมมองกว้างของเส้นขอบฟ้ากัวลาลัมเปอร์ พร้อมหอคอย KL Tower ที่มียอดเป็นเข็มและกลุ่มอาคารสูงใต้เมฆสีขาวขนาดใหญ่ และสวนสาธารณะสีเขียวอยู่ด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: เส้นขอบฟ้าของเมืองกัวลาลัมเปอร์แบบพาโนรามาพร้อมหอคอย KL Tower ภายใต้ท้องฟ้าที่สว่างและมีเมฆ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: อาคาร Sultan Abdul Samad สไตล์มัวร์ที่มีหอนาฬิกาสูงและโดมทองแดงเป็นประกายในใจกลางกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: อาคาร Sultan Abdul Samad สมัยอาณานิคมพร้อมหอนาฬิกาโดมทองแดง ใจกลางกัวลาลัมเปอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 กัวลาลัมเปอร์เป็นเมืองหลวงของมาเลเซีย แต่ในทางรัฐธรรมนูญแล้วไม่ใช่รัฐ — เป็นดินแดนสหพันธ์ ซึ่งถูกแบ่งออกมาจากสลังงอร์ในปี 1974 และบริหารโดยรัฐบาลสหพันธรัฐโดยตรง ไม่ใช่โดยผู้ปกครองรัฐหรือสภานิติบัญญัติแห่งรัฐที่มาจากการเลือกตั้ง

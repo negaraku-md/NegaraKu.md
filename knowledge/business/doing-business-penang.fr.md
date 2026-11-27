@@ -41,7 +41,7 @@ verificationNeeded:
   - "Whether the Bayan Lepas and Perai free industrial zone declarations under the Free Zones Act 1990 have been amended, and the current gazetted zone boundaries"
 
 lang: "fr"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -120,6 +120,34 @@ keywords:
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
 framework: profile
+hero: '/media/business/doing-business-penang/hero.webp'
+heroAlt: 'Vue aérienne de la zone industrielle franche de Bayan Lepas à Penang, avec de grands bâtiments d''usines et de fabrication alignés le long d''une autoroute côtière près de la mer et de collines à l''arrière'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: Vue en hauteur du pont de Penang enjambant le chenal avec des voitures circulant dans les deux sens, la ville du continent et les collines visibles au loin
+    kind: actual
+    origin: third-party
+    subject: Le pont de Penang transportant la circulation à travers le chenal entre l'île de Penang et le continent, l'artère économique reliant l'île au pôle industriel de Seberang Perai
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: Vue en contre-plongée de la haute tour Komtar à George Town, Penang, s'élevant au-dessus du quartier commercial sur un ciel bleu éclatant
+    kind: actual
+    origin: third-party
+    subject: La tour Komtar à George Town, le plus haut bâtiment de Penang et un emblème commercial et gouvernemental central
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 La première question sur le fait de faire des affaires à Penang n'est pas de savoir quoi

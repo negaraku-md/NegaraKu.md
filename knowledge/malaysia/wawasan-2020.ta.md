@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,32 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'பிரகாசமான வானத்தின் கீழ், மின்னும் பெட்ரோனாஸ் இரட்டைக் கோபுரங்கள் கோலாலம்பூர் வானளாவிய காட்சிக்கு மேலே உயர்ந்து நிற்கின்றன.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: Taman KLCC-இல் உள்ள Symphony ஏரி நீரூற்றிலிருந்து வளைவாக எழும்பும் நீர்த்தாரைகள், பிரகாசமான வெப்பமண்டல வானத்தின் கீழ் நேர்த்தியாக பராமரிக்கப்பட்ட பசும்புல்வெளிகள் மற்றும் நிலத்தோற்ற நகரப் பசுமையால் சூழப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: Kuala Lumpur நகர மையத்தில் உள்ள Taman KLCC-இல் உள்ள நீரூற்று
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: மெல்லிய, வைர வடிவப் பட்டைகள் கொண்ட Merdeka 118 வானளாவிய கட்டிடம் Kuala Lumpur வானளாவிய காட்சிக்கு மேலே உயரமான சிகரமாகக் கூம்பி நிற்கிறது, உலகின் உயரமான கட்டிடங்களில் ஒன்று.
+    kind: actual
+    origin: third-party
+    subject: Kuala Lumpur-இல் உள்ள, உலகின் உயரமான கட்டிடங்களில் ஒன்றான Merdeka 118 கோபுரம்
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 1991ஆம் ஆண்டு பெப்ரவரி மாதத்தின் ஒரு காலை நேரத்தில், ஒரு பிரதமர் நாட்டின் முன்னணி வணிகப் பிரமுகர்கள் முன் நின்று அடுத்த 30 ஆண்டுகளுக்கான ஓர் இலக்கை வைத்தார்: 2020ஆம் ஆண்டுக்குள் மலேசியா முழுமையாக வளர்ச்சியடைந்த நாடாக மாற வேண்டும் — வெறும் பொருளாதார அளவில் மட்டுமல்ல, ஒற்றுமை, சமூக நீதி மற்றும் குடிமைச் சார் முதிர்ச்சி ஆகியவற்றிலும் கூட. அந்தத் தொலைநோக்குப் பார்வையே பின்னர் Wawasan 2020 என்று அறியப்பட்டது.

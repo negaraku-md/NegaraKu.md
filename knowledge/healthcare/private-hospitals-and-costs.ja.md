@@ -23,7 +23,7 @@ appliesTo: "マレーシアで専門医の診察や私立施設への入院に�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,33 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'Sunway Medical Centreの看板をもつ、近代的なマレーシアの私立病院、サンウェイ・メディカルセンターCタワーの赤と白のファサード'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: クアラルンプールのプリンス・コート・メディカル・センターの近代的な建物。ファサードに金色のワードマーク、手前に市街の道路標識
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールの私立病院、プリンス・コート・メディカル・センター
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: 夕暮れ時、屋根付きの高架交通駅の横に建つサンウェイ・メディカル・センターの建物。SunMedの看板が灯る
+    kind: actual
+    origin: third-party
+    subject: バンダル・サンウェイにあるサンウェイ・メディカル・センターと隣接するBRT/LRT駅
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 ある処置を受けるために入院し、退院するときには、まるで二枚の請求書がホチキス留めされているかのような感覚を味わう。一枚は執刀医から、もう一枚は病院からのものだ。両者の金額はめったに一致せず、そもそもなぜ別々になっているのかを説明してくれる人はほとんどいない。

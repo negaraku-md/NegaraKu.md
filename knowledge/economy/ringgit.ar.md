@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "كل من يتأثر بسعر الصرف — المستوردون والمصدّرون والمسافرون والطلاب في الخارج والمستثمرون."
 
 lang: "ar"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,34 @@ faq:
   - q: لماذا يكون السعر الذي يمنحني إياه مصرفي أو صرّاف العملة أسوأ من السعر الذي ينشره البنك المركزي الماليزي (BNM)؟
     a: لأن سعر BNM المرجعي لـ USD/MYR في كوالالمبور هو مؤشر سوقي يُحسب من سوق ما بين المصارف، ويُستخدم للعقود والتقييم — وليس سعرًا للتجزئة. فتضيف المصارف وصرّافو العملة هامشهم الخاص فوقه، لذا ستتعامل دائمًا بسعر أسوأ من السعر المرجعي. وكان السعر المرجعي 4.0841 كما في 23 أكتوبر 2026، لكن ذلك هو المؤشر، وليس ما يدفعه العميل فعليًا عند الشباك.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'واجهة ورقة نقدية ماليزية من مئة رينغيت مكتوب عليها BANK NEGARA MALAYSIA وSERATUS RINGGIT، مع رقم 100 أرجواني كبير وفئة RM وصورة أول يانغ دي-بيرتوان أغونغ بغطاء رأس ملكي'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: لقطة مقربة لعملة ماليزية فضية اللون فئة عشرة سِن منقوش عليها BANK NEGARA MALAYSIA مع رقم 10 كبير وكلمة SEN وسنة 2006 وزخرفة نباتية، موضوعة على سطح رمادي
+    kind: actual
+    origin: third-party
+    subject: عملة ماليزية فئة 10 سِن، العملة المعدنية الكسرية للرينغيت
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: ورقة رينغيت مصوّرة تحت الضوء فوق البنفسجي بحيث يتوهّج نقش طائرة ورقية تقليدية (wau) أخضر وعلامات أمان BNM الخفية أمام الورق المعتم
+    kind: actual
+    origin: third-party
+    subject: ورقة رينغيت ماليزية تحت الضوء فوق البنفسجي تكشف تصميمها الأمني الخفي
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## لمحة سريعة

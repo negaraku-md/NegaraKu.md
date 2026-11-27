@@ -46,7 +46,7 @@ verificationNeeded:
   - "ตัวบทฉบับรวมของ Sarawak Labour Ordinance Cap. 76 บน LawNet เป็นปัจจุบันเพียงถึง 31 กรกฎาคม 2006 และต้องอ่านประกอบกับ Act A1754 แทนที่จะแทนมัน"
 
 lang: "th"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,6 +113,34 @@ keywords:
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
 framework: explainer
+hero: '/media/business/sarawak-business-guide/hero.webp'
+heroAlt: 'อาคารสภานิติบัญญัติรัฐซาราวักหลังคาทรงร่มบนริมฝั่งแม่น้ำซาราวัก พร้อมเรือดั้งเดิมบนน้ำและอาคารสำนักงานในเมืองทางซ้าย'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: ซุ้มประตูจีนที่ประณีตคร่อมถนนในเมืองกูชิงที่เรียงรายด้วยตึกแถวและร้านค้า มีรถยนต์และคนเดินเท้าอยู่ใต้ท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: ถนนการค้าในเมืองกูชิง รัฐซาราวัก — ซุ้มประตูไชน่าทาวน์ที่ประณีตคร่อมถนนร้านค้าตึกแถว
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: ภาพมุมสูงของท่าเทียบเรือ LNG บินตูลูที่มีแขนขนถ่ายก๊าซสูง ท่อและแท่นผูกเรือเหนือน้ำสีเขียวอมฟ้า พร้อมถังเก็บและเครนอยู่ฝั่งตรงข้าม
+    kind: actual
+    origin: third-party
+    subject: ท่าเรือ LNG บินตูลู รัฐซาราวัก — ท่าเทียบเรือขนถ่ายอุตสาหกรรมพร้อมแขนขนถ่ายก๊าซและถังเก็บบนชายฝั่ง
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 เริ่มด้วยตัวเลขที่บอกคุณว่านี่เป็นสถานที่แบบใด ซาราวักใช้**ชุดการจัดเลข Chapter คู่ขนานสองชุด** และ

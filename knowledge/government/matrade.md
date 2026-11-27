@@ -76,6 +76,34 @@ relations:
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
 framework: profile
+hero: '/media/government/matrade/hero.webp'
+heroAlt: 'The towering dark facade of Menara MATRADE in Kuala Lumpur, pierced by an enormous pointed-arch opening and topped by a ribbed dome'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: The arched Menara MATRADE tower beside the tall glass Menara MITI and a silver exhibition-hall dome, seen past a bank of magenta flowers under a grey sky
+    kind: actual
+    origin: third-party
+    subject: Street view of the MATRADE complex with Menara MATRADE's arch tower, the glass Menara MITI and the MITEC dome, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: Aerial view over Kuala Lumpur showing the dark arch-portal Menara MATRADE tower and the large silver shell-shaped MITEC exhibition hall beside it
+    kind: actual
+    origin: third-party
+    subject: Aerial view of Menara MATRADE and the shell-shaped MITEC exhibition centre in the KL Metropolis district, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 Ask a first-time exporter which government agency handles their trade fair

@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,35 @@ verificationNeeded:
   - "Classement comme deuxième banque de Malaisie par les actifs et parmi les cinq plus grands groupes bancaires de l'ASEAN — positionnel et variable dans le temps ; à reconfirmer par rapport aux bilans actuels des pairs."
   - "Nombre de clients (les chiffres cités dans des profils tiers varient largement, par ex. ~13,5 millions de clients de détail contre ~25 millions au total) — à vérifier par rapport au reporting actuel de CIMB avant de publier un chiffre."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'Une tour de bureaux en verre bronze couronnée d''une grande enseigne rouge CIMB BANK, avec une banderole rouge CIMB BANK et CIMB ISLAMIC le long de son flanc, s''élevant au-dessus de la rue de Kuala Lumpur'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: Une tour moderne habillée de verre portant un logo CIMB rouge près de son sommet, dressée à côté du bâtiment Q Sentral à KL Sentral, encadrée par le feuillage sombre des arbres
+    kind: actual
+    origin: third-party
+    subject: La tour moderne CIMB à Kuala Lumpur Sentral, vue depuis le jardin botanique Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: Un bâtiment patrimonial de deux étages de l'époque coloniale, blanc, abritant une agence de CIMB Bank, avec une enseigne rouge CIMB BANK au-dessus de l'entrée du rez-de-chaussée
+    kind: actual
+    origin: third-party
+    subject: L'agence CIMB Bank dans un bâtiment patrimonial de la rue Bendahara, ville de Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB est la banque que l'on croise presque partout où l'on se tourne dans le commerce malaisien — et de plus en plus dans toute l'Asie du Sud-Est. C'est une banque universelle, ce qui signifie qu'elle fait tout, du compte d'épargne d'un salarié aux émissions obligataires de plusieurs milliards de ringgit et aux acquisitions transfrontalières, et elle le fait non seulement en Malaisie mais à travers de grandes opérations en Indonésie, en Thaïlande et à Singapour.

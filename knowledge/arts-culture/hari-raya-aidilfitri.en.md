@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,34 @@ festivalFacts:
   when: "1 Syawal in the lunar (qamari) calendar; its date moves about 11 days earlier each year on the Gregorian calendar and is set through the sighting of the new moon (rukyah anak bulan)."
   holiday: "The first and second days are gazetted as federal public holidays throughout Malaysia."
   etiquette: "Guests of all ethnicities are welcomed to the open house (rumah terbuka); dress modestly, and shoes are customarily removed before entering a home."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Crowds in festive baju Melayu leaving a twin-minaret village mosque after Aidilfitri morning prayers in Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: Woven palm-leaf ketupat palas rice packets beside a plate of beef rendang, a classic Hari Raya Aidilfitri dish in Malaysia
+    kind: actual
+    origin: third-party
+    subject: Ketupat palas with beef rendang, a classic Hari Raya dish
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: A bamboo pelita oil lamp burning with a bright flame in a dark garden during Hari Raya Aidilfitri in Malaysia
+    kind: actual
+    origin: third-party
+    subject: A lit bamboo pelita oil lamp at night during Hari Raya
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 On the last night of Ramadan, the whole country seems to move all at once. The North–South Expressway is jammed for hours, bus stations are full of bags and cookie tins, and pelita lamps are lit on verandas from the cities to the far corners of the kampung. The next day, 1 Syawal, a month of fasting ends — and Malaysia celebrates Hari Raya Aidilfitri.

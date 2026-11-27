@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يواجه في ماليزيا استشارة اختصاصي أو إقامة في مستشفى بمرفق خاص — المرضى ومقدّمو الرعاية والموظفون المعتمدون على البطاقات الطبية أو التأمين الذي توفّره جهة العمل."
 
 lang: "ar"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,33 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["المستشفيات الخاصة ماليزيا", "فاتورة المستشفى الخاص", "أتعاب استشارة الاختصاصي", "خطاب الضمان للمستشفى", "إيداع المستشفى", "الفاتورة المفصَّلة", "Act 586", "National Specialist Register", "تكاليف الرعاية الصحية الخاصة", "private hospital Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'الواجهة الحمراء والبيضاء لبرج C في مركز صنواي الطبي، مبنى مستشفى خاص ماليزي حديث، بلافتة تقرأ Sunway Medical Centre'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: المبنى الحديث لمركز Prince Court الطبي في كوالالمبور، باسمه المذهّب على الواجهة ولافتة طريق مدينية في المقدّمة
+    kind: actual
+    origin: third-party
+    subject: مركز Prince Court الطبي، مستشفى خاص في كوالالمبور
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: مباني Sunway Medical Centre عند الغسق بجانب محطّة نقل مرفوعة مُغطّاة، مع لافتة SunMed مضاءة
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre ومحطّة BRT/LRT المجاورة في بندر سنواي
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 تدخل لإجراء واحد وتخرج بما يشبه فاتورتين مدبَّستين معاً. واحدة من الجرّاح، وواحدة من المستشفى. ونادراً ما يتطابقان في الحجم، ويكاد لا أحد يشرح لماذا هما منفصلتان أصلاً.

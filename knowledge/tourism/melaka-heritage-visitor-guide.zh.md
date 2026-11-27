@@ -40,7 +40,7 @@ faq:
     a: "该博物馆位于陈祯禄街48及50号（48 & 50 Jalan Tun Tan Cheng Lock），逢周二闭馆。工作日（周二除外）开放时间为上午10:00至下午4:15，周末为上午10:00至下午4:45。由于时间和价格可能变动，参观前请在博物馆官方网站确认。"
 
 lang: "zh"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: '适合追求紧凑、可步行的 UNESCO 古迹核心区的旅人——马来苏丹王朝、葡萄牙与荷兰地标，加上土生华人（Baba Nyonya）的娘惹美食——轻松即可作为周末之旅完成。'
+  getThere: '从吉隆坡沿公路前往，车程约两小时——是常见的周末行程。'
+  watch: '请按星期几安排行程——鸡场街（Jonker Street）夜市仅在星期五至星期日傍晚开市，平日则是一条普通的店屋街——且别把免费的历史城门 A Famosa 与城外另一处的 A''Famosa Resort 主题公园混为一谈。'
+  next: '参观前请向峇峇娘惹古迹博物馆（Baba & Nyonya Heritage Museum）官方网站确认当前的开放日与开放时间，因为这些会有变动。'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: '马六甲荷兰广场，赭红色的荷兰红屋（Stadthuys）立于维多利亚喷泉和市集摊位之后'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: 一艘游船驶过老城碧绿马六甲河沿岸色彩缤纷的传统店屋与树木
+    kind: actual
+    origin: third-party
+    subject: 马六甲河游船穿行老城店屋间
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: 鸡场街牌楼标志着马六甲唐人街街道的入口，旁边是建于1908年的淡米尔卫理公会教堂
+    kind: actual
+    origin: third-party
+    subject: 鸡场街牌楼与淡米尔卫理公会教堂
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 黄昏时分站在荷兰红屋广场，你可以在一瞥之间读到五个世纪的历史：一侧是三文鱼红的荷兰市政厅，山上是葡萄牙时期教堂的遗迹，一座曾是要塞支点、英国人试图拆除的石门，以及——步行两分钟外——一条如今为周五夜市点亮灯火的华人马来排屋小巷。马六甲不把它的历史铺展在一座大城市里。它把历史层层堆叠进约一平方英里、你一个下午就能走完的范围内。以下是如何解读它，以及如何据此规划一次游览。

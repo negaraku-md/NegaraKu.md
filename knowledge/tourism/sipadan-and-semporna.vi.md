@@ -37,7 +37,7 @@ faq:
     a: "Lặn khả thi quanh năm, nhưng biển êm nhất và nước trong nhất nhìn chung rơi vào đoạn khô hơn từ khoảng tháng 4 đến chừng tháng 10–tháng 12, với tầm nhìn trong nhất thường vào đầu khung đó (dive-the-world; PADI). Giấy phép khó có được nhất vào các tháng bận rộn nhất, nên hãy đặt trước từ rất sớm (Malaysia Travel)."
 
 lang: "vi"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,9 +98,42 @@ sources:
 
 entity: "Sipadan"
 wikidata: "Q1412482"
-related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
+related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'Dành cho thợ lặn bình khí có chứng chỉ muốn lặn vách sâu đẳng cấp thế giới — rùa, lốc xoáy cá nhồng và cá mập rạn ngoài khơi hòn đảo đại dương duy nhất của Malaysia.'
+  getThere: 'Bay đến Tawau Airport, trung chuyển bằng đường bộ tới thị trấn cửa ngõ Semporna, rồi đi thuyền ra các đảo và điểm lặn.'
+  permit: 'Lặn Sipadan đòi hỏi một giấy phép Sabah Parks, và số lượng cấp mỗi ngày bị giới hạn nghiêm ngặt và chỉ phân bổ qua các nhà điều hành lặn có giấy phép — hãy đặt trước thật sớm.'
+  watch: 'Các đảo ở phía đông Sabah nằm trong một vùng an ninh được chỉ định (ESSZONE), giấy phép không bao giờ được bảo đảm, và các giới hạn bảo tồn (bao gồm một đợt đóng cửa thường niên) được áp dụng — hãy đi lại với đầy đủ thông tin và kiểm tra khuyến cáo chính thức hiện tại.'
+  next: 'Hãy xác nhận giới hạn giấy phép, phí Sipadan hiện tại và bất kỳ đợt đóng cửa bảo tồn nào với Sabah Parks hoặc nhà điều hành lặn có giấy phép của bạn.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên không một đầm rạn san hô xanh ngọc rực rỡ bao quanh bởi những hòn đảo xanh dưới bầu trời rực rỡ lốm đốm mây ở Công viên Hải dương Tun Sakaran gần Semporna, Sabah'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: Rùa biển xanh bơi phía trên qua làn nước xanh ngọc ngập nắng, nhìn từ bên dưới
+    kind: actual
+    origin: third-party
+    subject: Một con rùa biển xanh lướt qua làn nước xanh ngọc rực rỡ, một trong những cảnh tượng tiêu biểu khi lặn quanh Sipadan
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Đàn cá bạc khổng lồ xoáy tròn bên cạnh một rạn san hô với những tia nắng xuyên qua làn nước xanh khi lặn ở Sipadan
+    kind: actual
+    origin: third-party
+    subject: Một đàn cá rạn san hô dày đặc và những tia nắng trên san hô trong một chuyến lặn ở Sipadan, một trong những điểm lặn hàng đầu thế giới
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 Một đỉnh phủ san hô đơn lẻ vươn sáu trăm mét thẳng khỏi đáy Biển Celebes, cuộn xoáy với rùa và những cơn lốc cá nhồng — Sipadan là lý do những thợ lặn nghiêm túc đưa đông Sabah vào danh sách của họ, và là lý do cả một nền kinh tế du lịch đã mọc lên quanh thị trấn nhỏ Semporna. Nhưng nó không phải là một nơi bạn có thể chỉ đến và lặn. Sipadan là một công viên biển được bảo vệ nghiêm ngặt với một giấy phép hằng ngày bị giới hạn, không có chỗ ở trên chính hòn đảo, và một bối cảnh khu an ninh trên bờ biển xung quanh mà người lần đầu cần hiểu một cách bình tĩnh và dựa trên sự thật. Cẩm nang này bao gồm điều gì khiến nghề lặn đẳng cấp thế giới, hệ thống giấy phép và hạn ngạch hằng ngày thực sự vận hành ra sao, bạn lưu trú ở đâu, Sipadan khác với Công viên Biển Tun Sakaran lân cận như thế nào, ai phù hợp với khu vực, và khi nào nên đi.

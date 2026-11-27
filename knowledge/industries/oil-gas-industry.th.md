@@ -38,7 +38,7 @@ faq:
     a: "ในปี 2024 PETRONAS มีส่วนสนับสนุน RM72.4 พันล้านในรูปเงินปันผล ภาษี การชำระเงินสด และข้อผูกพันอื่น ๆ รวมถึงเงินปันผล RM32.0 พันล้าน นี่อยู่นอกเหนือจากภาษีที่จ่ายโดยผู้รับเหมาและบริษัทบริการอื่น ๆ ในภาคนี้"
 
 lang: "th"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: 'มุมมองทางอากาศของท่าเทียบเรือส่งออก LNG บินตูลูในซาราวัก แท่นคอนกรีตบนเสาเข็มเหล็กรองรับกลุ่มแขนขนถ่ายทางทะเลสูงและระบบท่อเหนือทะเลสีเทอร์คอยส์ พร้อมเส้นขอบฟ้าของท่าเรือและโรงแก๊สด้านหลัง'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: ปล่องเผาแก๊สเหล็กสูงสีแดงสลับขาวกำลังเผาเปลวแก๊สสีส้มสว่างตัดกับท้องฟ้าที่มีเมฆ พร้อมชั้นวางท่อและเทือกเขา Crocker อยู่ด้านหลัง ที่คลังน้ำมันและแก๊ส Sabah ในเมือง Kimanis
+    kind: actual
+    origin: third-party
+    subject: เปลวแก๊สกำลังเผาไหม้บนยอดปล่องเผาแก๊สที่คลังน้ำมันและแก๊ส Sabah (SOGT) ในเมือง Kimanis รัฐซาบะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: หอกลั่น ปล่องควัน และถังเก็บของโรงกลั่นน้ำมันที่เส้นขอบฟ้าเหนือทุ่งหญ้าใกล้เมือง Port Dickson ภายใต้ท้องฟ้ายามเย็นที่มัวหมอง
+    kind: actual
+    origin: third-party
+    subject: โรงกลั่นน้ำมันทางตะวันออกของ Port Dickson รัฐเนอเกอรีเซิมบีลัน มองข้ามพื้นที่โล่งจากทางหลวงกลางหมายเลข 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 น้ำมันทุกบาร์เรลและก๊าซทุกลูกบาศก์ฟุตใต้ผืนดินและพื้นทะเลของมาเลเซียเป็นของบริษัทเดียวตามกฎหมาย ไม่ใช่ของรัฐโดยตรง ไม่ใช่ของผู้ค้นพบแหล่ง ไม่ใช่ของบริษัทข้ามชาติที่ขุดเจาะ — แต่เป็นของ PETRONAS บริษัทน้ำมันแห่งชาติที่สร้างขึ้นเพื่อถือครองปิโตรเลียมของชาติในฐานะทรัสต์ เข้าใจข้อเท็จจริงเดียวนั้น แล้วส่วนที่เหลือของอุตสาหกรรมน้ำมันและก๊าซของมาเลเซีย — วิธีที่มันถูกกำกับ จัดหาเงินทุน เก็บภาษี และแบ่งปัน — ก็เข้าที่เข้าทาง

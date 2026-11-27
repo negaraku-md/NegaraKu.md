@@ -31,7 +31,7 @@ faq:
     a: "Setelah dua penundaan, ia berlaku untuk operator besar dan menengah mulai 30 Desember 2026, dan untuk usaha mikro dan kecil mulai 30 Juni 2027. Tanggal batas deforestasi adalah 31 Desember 2020."
 
 lang: "id"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'Kebun kelapa sawit rapi yang terkelola baik membentang di lahan hijau bergelombang di bawah langit cerah di Distrik Mersing, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: Dua pekerja perkebunan bersepatu bot berdiri di samping pohon kelapa sawit, salah satunya memegang tandan buah yang baru dipotong pada sabit pemanen, di Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Pekerja kebun dengan tandan buah segar hasil panen di perkebunan kelapa sawit di Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: Barisan rapi bibit muda kelapa sawit yang tumbuh dalam polibag hitam di pembibitan perkebunan di Sungai Mangis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Bibit kelapa sawit yang dibesarkan dalam polibag di pembibitan komersial di Sungai Mangis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 Satu pengiriman minyak sawit Malaysia kini terpaksa mematuhi tiga buku peraturan berbeda pada saat yang sama: skema nasional mandatori di dalam negara, klub pembeli sukarela di ruang direksi, dan undang-undang deforestasi Eropa yang dapat menghalanginya di pelabuhan. Bagi sebuah industri yang mengirim 22.30 juta ton minyak sawit dan produk berbasis sawit dalam sepuluh bulan pertama 2024 saja — memperoleh RM89.39 miliar — dokumen bukan lagi satu formalitas. Ia adalah akses pasar.

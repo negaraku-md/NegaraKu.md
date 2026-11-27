@@ -31,7 +31,7 @@ faq:
     a: "Taman laut Semenanjung diwartakan di bawah Fisheries Act 1985. Ia menciptakan zona perlindungan dua mil laut dari pulau, tempat aktivitas seperti mengganggu penyu bersarang dan memungut tukik dilarang."
 
 lang: "id"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,9 +95,36 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'Penyu hijau beristirahat di atas terumbu karang yang semarak di air biru jernih, dengan ikan karang berenang di atasnya'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: Seekor penyu hijau meluncur di atas terumbu karang di perairan biru lepas Sipadan, Malaysia
+    kind: actual
+    origin: third-party
+    subject: Penyu hijau (Chelonia mydas) berenang di atas terumbu karang di Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: Seekor penyu hijau beristirahat di bawah tonjolan terumbu berbatu dikelilingi karang berwarna-warni
+    kind: actual
+    origin: third-party
+    subject: Penyu hijau (Chelonia mydas) beristirahat di bawah tonjolan terumbu di Barracuda Point, Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 Pada akhir 1960-an, sekitar 2,000 penyu belimbing betina mendarat setiap tahun di sebuah pantai di Rantau Abang, Terengganu, meninggalkan hampir 10,000 sarang telur di atas pasir. Hari ini, tidak ada seekor pun. Kisah kemerosotan itu adalah salah satu kegagalan konservasi satwa liar yang paling mencolok di kawasan ini — dan ia membentuk cara Malaysia melindungi penyu hingga kini.

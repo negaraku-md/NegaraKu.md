@@ -29,7 +29,7 @@ faq:
     a: "그렇습니다. Sunway Healthcare Holdings는 2026년 3월 18일 Bursa Malaysia 메인마켓에 SUNMED로 상장되었습니다. 앞서 싱가포르의 GIC가 2021년 6월 의료 사업 지분 16%를 위해 RM7.5억을 투자하기로 합의했습니다."
 
 lang: "ko"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: '선웨이 피라미드 쇼핑몰의 거대한 돌 사자 머리 랜드마크와 피라미드형 지붕, 뒤로 흐린 하늘 아래 ''SUNWAY''라 표시된 고층 타워들이 솟은 모습'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: 큰 피라미드 지붕과, 'Shopping Mall / Theme Park' 입구 간판 옆에 앉은 사자 스핑크스가 있는 Sunway Pyramid의 이집트풍 정면 근접 장면
+    kind: actual
+    origin: third-party
+    subject: 피라미드와 사자 머리 스핑크스가 보이는 Sunway Pyramid 쇼핑센터 정면, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Sunway Pyramid 몰, 리조트 호텔, 석호, 그리고 밀집한 주거 고층 타워들이 보이는 클랑밸리 Bandar Sunway 타운십의 항공 전경
+    kind: actual
+    origin: third-party
+    subject: 피라미드 몰, 리조트, 석호, 주거 타워가 있는 Sunway Group의 통합 타운십 Bandar Sunway의 항공 전경, 슬랑오르
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Sunway 그룹은 토지를 통째로 타운십 — 하나의 마스터플랜 위의 주택, 몰, 병원, 대학, 테마파크 — 으로 바꾼 뒤, 자신이 지은 것을 계속 운영합니다.

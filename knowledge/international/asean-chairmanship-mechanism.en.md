@@ -82,7 +82,7 @@ wikidata: "Q7768"
 relations:
   - { rel: "related-to", to: "asean-overview" }
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
-related: []
+related: ["malaysia-foreign-policy-wisma-putra", "malaysia-free-trade-agreements-network", "malaysia-china-relations"]
 keywords: ["pengerusian ASEAN", "Piagam ASEAN", "Perkara 31", "giliran abjad", "Malaysia 2025", "Filipina 2026", "Sidang Kemuncak ASEAN"]
 framework: explainer
 ---

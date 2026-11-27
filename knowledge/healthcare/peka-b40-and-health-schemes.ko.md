@@ -21,7 +21,7 @@ verificationNeeded:
   - "이 글은 mySalam에서 자격이 인정되는 50가지 중증질환의 전체 목록을 기재하지 않았는데, 집필 시점에 공식 사이트 mysalam.com.my에서 세부 목록을 직접 확인할 수 없었기 때문입니다. 전체 목록은 mySalam 공식 포털을 확인하십시오."
   - "mySalam과 PeKa B40 제도의 유효 기간은 연간 예산안 결정에 따릅니다. 이 글의 수치와 조건은 집필 시점(2026년 7월)의 공식 사이트에 근거하여 확인되었으며 향후 예산안에서 갱신될 수 있습니다."
 lang: "ko"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: '야외 대기 공간이 있는 현대식 말레이시아 정부 보건 클리닉으로, B40 보건 계획 검진이 제공되는 종류의 Klinik Kesihatan이다.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: 클리닉 케시하탄 닐라이의 외관으로, 지역사회에 의료를 제공하는 말레이시아 보건부 공공 보건소이다
+    kind: actual
+    origin: third-party
+    subject: 클리닉 케시하탄 닐라이, 말레이시아 정부 보건소
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: 쿠알라룸푸르 클리닉 케시하탄 탕린의 외관으로, 말레이시아 공공 정부 보건소이다
+    kind: actual
+    origin: third-party
+    subject: 클리닉 케시하탄 탕린, 쿠알라룸푸르의 정부 보건소
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 많은 사람이 'PeKa B40'라는 이름을 들어 보았지만 그 이해는 제각각입니다 — 모든 병원비를 보장한다고 여기는 사람도 있고, mySalam과 혼동하는 사람도 있으며, 별도로 신청해야 한다고 생각하여 그냥 무시하는 사람도 있습니다. 세 가지 생각 모두 정확하지 않습니다. PeKa B40는 명확하고 한정된 범위를 가지며 — 그 범위를 아는 것은 곧 언제 이용할지, 그리고 언제 다른 지원을 찾아야 할지를 아는 것입니다.

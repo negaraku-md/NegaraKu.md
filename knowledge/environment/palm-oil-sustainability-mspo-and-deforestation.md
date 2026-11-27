@@ -91,6 +91,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: Aerial landscape where geometric oil palm plots and bare cleared patches press against remaining dark green forest
+    kind: actual
+    origin: third-party
+    subject: An aerial view of oil palm clearings cut into Borneo rainforest, showing forest loss to plantation expansion
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: Rolling green hills planted with young oil palms stretching to distant ridges under a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: A sweeping oil palm plantation covering rolling hills in Mersing District, Johor
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 Malaysia grows roughly a fifth of the world's palm oil, and the industry has long drawn criticism from European and NGO campaigners over its links to deforestation. In response, the country now runs a mandatory, state-backed certification scheme, and on 5 September 2025 the European Union acknowledged that scheme in a joint statement. This is how MSPO works, what it does and does not prove, and where the hard problems still sit.

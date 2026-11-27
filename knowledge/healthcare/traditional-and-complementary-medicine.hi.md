@@ -26,7 +26,7 @@ faq:
     a: "पहली गलती के लिए, RM30,000 से अनधिक जुर्माना या 2 वर्ष से अनधिक कारावास, या दोनों। उसके बाद की गलतियों पर RM50,000 तक या 3 वर्ष तक कारावास।"
 
 lang: "hi"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,9 +57,35 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["पारंपरिक चिकित्सा", "perubatan tradisional", "T&CM", "Act 775", "TCM", "कायरोप्रैक्टिक", "chiropractic", "होम्योपैथी", "homeopathy", "व्यवसायी पंजीकरण", "T&CM काउंसिल"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'एक मलेशियाई पारंपरिक-औषधि और स्वास्थ्य दुकान का दुकान-मुख नाम-पट्ट, पूरक और पारंपरिक चिकित्सा पद्धति का प्रतिनिधित्व करता हुआ।'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: एक सतह पर एक सिक्के के बगल में पैमाने के लिए रखी चार महीन एक्यूपंक्चर सुइयाँ, जो एक पूरक चिकित्सा के रूप में एक्यूपंक्चर का प्रतिनिधित्व करती हैं
+    kind: representative
+    origin: third-party
+    subject: पैमाने के लिए एक सिक्के के साथ दिखाई गई एक्यूपंक्चर सुइयाँ
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: बोतलबंद jamu की एक लकड़ी की पेटी, एक पारंपरिक हर्बल टॉनिक औषधि, पत्ती से बंद अम्बर तरल की बोतलों के साथ, जो हर्बल पूरक चिकित्सा का प्रतिनिधित्व करती है
+    kind: representative
+    origin: third-party
+    subject: jamu की बोतलें, एक पारंपरिक मलय-इंडोनेशियाई हर्बल टॉनिक औषधि
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 1 March 2025 से, मलेशिया में पारंपरिक मालिश करने वाले, चीनी चिकित्सा के व्यवसायी, होम्योपैथ और कायरोप्रैक्टर अब एक कागज़ के बिना अपने क्लिनिक के दरवाज़े नहीं खोल सकते — एक पंजीकरण प्रमाणपत्र। «अनुभव के नाम पर अभ्यास» का युग समाप्त हो गया है।

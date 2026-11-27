@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 
 status: "published"
 aiAssisted: true
@@ -120,6 +120,34 @@ keywords:
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
 framework: profile
+hero: '/media/business/doing-business-penang/hero.webp'
+heroAlt: 'Penang Bayan Lepas Free Industrial Zone-ன் வான்வழிக் காட்சி; கடலோரம் ஒரு கடற்கரை நெடுஞ்சாலையோரம் வரிசையாக பெரிய தொழிற்சாலை மற்றும் உற்பத்திக் கட்டிடங்கள், பின்னால் மலைகள்'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: இரு திசைகளிலும் கார்கள் செல்லும் Penang Bridge நீரிணையைக் கடப்பதன் மேல்நோக்கு காட்சி; தொலைவில் தீபகற்ப நகரமும் மலைகளும் தெரிகின்றன
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு தீவையும் தீபகற்பத்தையும் இணைக்கும் நீரிணையின் குறுக்கே போக்குவரத்தைச் சுமக்கும் Penang Bridge, தீவை Seberang Perai தொழில்துறை மையத்துடன் இணைக்கும் பொருளாதாரத் தமனி
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: பிரகாசமான நீல வானத்திற்கு எதிராக வணிக மாவட்டத்திற்கு மேலே உயர்ந்து நிற்கும், ஜார்ஜ் டவுன், பினாங்கில் உள்ள உயரமான Komtar கோபுரத்தின் கீழ்-கோணக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: பினாங்கின் மிக உயரமான கட்டிடமும், மைய வணிக மற்றும் அரசாங்க அடையாளமுமான ஜார்ஜ் டவுனில் உள்ள Komtar கோபுரம்
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 பினாங்கில் தொழில் நடத்துவது பற்றிய முதல் கேள்வி எதைப் பதிவு செய்வது என்பதல்ல. கடலிணையின்

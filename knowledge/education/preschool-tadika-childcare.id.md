@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Orang tua atau wali di Malaysia yang berupaya memahami pilihan penitipan dan pendidikan dini anak sebelum Tahun 1, serta siapa pun yang ingin mendirikan taska atau tadika dan perlu tahu otoritas yang berwenang."
 
 lang: "id"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'Bagian depan Tadika Al-Falah, sebuah taman kanak-kanak Malaysia di Johor, dengan papan tanda selamat datang dan mural alfabet yang dicat di sepanjang dinding.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: Pintu masuk dan halaman depan Tadika Holy Trinity di Tawau, Sabah, lengkap dengan papan nama, umbul-umbul warna-warni dan mural kartun; beberapa anak kecil terlihat di area bermain yang jauh.
+    kind: representative
+    origin: third-party
+    subject: Bagian depan sebuah taman kanak-kanak (TK) di Malaysia yang dihiasi umbul-umbul warna-warni dan mural kartun
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: Pemandangan dari jalan Tadika St. Francis Xavier di Keningau, Sabah, sebuah gedung taman kanak-kanak satu lantai dengan pagar hijau dan dinding bermural bunga, seekor lebah, dan jamur.
+    kind: representative
+    origin: third-party
+    subject: Bangunan prasekolah di Malaysia yang dicat dengan mural anak-anak
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 Banyak orang tua mendaftarkan anak ke "tadika" dekat rumah — kirim formulir, bayar biaya, selesai. Tetapi pertanyaan yang jarang diajukan adalah: tadika itu terdaftar pada siapa? Jawabannya bukan soal sepele. Tergantung usia anak dan jenis institusi, ia bisa berada di bawah dua kementerian yang sama sekali berbeda, dengan akta, peraturan, dan cara penegakan yang tidak sama.

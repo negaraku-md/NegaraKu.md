@@ -38,7 +38,7 @@ faq:
     a: "Tres cosas: subestimar el tiempo (la cima suele estar envuelta en nubes, fría y húmeda, así que lleva una capa y no esperes vistas despejadas a demanda), ir en fin de semana o festivo y sorprenderse por las aglomeraciones y las colas en el teleférico y las atracciones, y presentarse sin reservar hoteles, entradas al parque temático o la góndola con antelación en temporada alta. Comprobar qué atracciones concretas están abiertas antes de ir también evita decepciones."
 
 lang: "es"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,9 +85,42 @@ wikidata: "Q1144734"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
+related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists", "frasers-hill"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'Familias, excursionistas de un día y viajeros de fin de semana desde Kuala Lumpur que buscan parques temáticos, el clima fresco de las tierras altas, compras y espectáculos antes que naturaleza tranquila.'
+  getThere: 'A cerca de una hora en coche desde Kuala Lumpur por la autopista y la carretera de montaña, o aparque a media ladera junto a los Genting Highlands Premium Outlets y suba a la cima de SkyAvenue en el teleférico Awana SkyWay.'
+  permit: 'El casino admite solo a no musulmanes y exige una edad mínima, verificación de identidad y un código de vestimenta.'
+  watch: 'La cima suele estar envuelta en nubes, fría y húmeda, con vistas que van y vienen, y los fines de semana y festivos traen grandes multitudes y largas colas.'
+  next: 'Confirme las normas de entrada vigentes del parque temático, el teleférico y el casino con Resorts World Genting.'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'Amplia vista desde el tejado de un templo chino sobre montañas de selva tropical envueltas en nubes con el complejo Genting en la distancia'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: Pabellón de templo chino en rojo y dorado con aleros curvados junto a una alta pagoda escalonada en una plaza embaldosada en la cima de una colina
+    kind: actual
+    origin: third-party
+    subject: El ornamentado pabellón y la pagoda escalonada del Templo de las Cuevas Chin Swee en Genting Highlands
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: Imponente fachada de hotel-resort blanco sobre una espectacular marquesina angular marrón de entrada con banderas nacionales ondeando
+    kind: actual
+    origin: third-party
+    subject: La torre del casino-hotel en la cima de Resorts World Genting con su característica marquesina en punta
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 Sube por la carretera de montaña dejando atrás el calor de Kuala Lumpur y, en algún punto pasado el ecuador del trayecto, las ventanillas empiezan a empañarse y el aire se vuelve frío. En menos de una hora desde dejar la capital puedes estar de pie entre nubes a casi 1.800 metros, frente a una ciudad-resort de neón apilada en la cima de una montaña. Ese contraste — tierra baja tropical abajo, cima fresca y brumosa arriba, alcanzable en una mañana — es toda la propuesta de Genting Highlands. Esta guía cubre qué es en realidad, cómo subir, qué hay que hacer, cómo tratar el casino con sensatez, y los errores que pillan a los primerizos.

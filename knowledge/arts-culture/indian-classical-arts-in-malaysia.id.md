@@ -32,7 +32,7 @@ faq:
     a: "Tidak. Bharatanatyam adalah bentuk tari klasik; nadaswaram adalah tradisi musik instrumental yang dimainkan di kuil dan acara-acara yang dianggap membawa berkah. Keduanya termasuk dalam warisan seni komunitas Tamil tetapi berbeda; nadaswaram/musik kuil dibahas secara terpisah di sini, sedangkan artikel ini berfokus pada seni pertunjukan klasik panggung."
 
 lang: "id"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
+heroAlt: 'Penari klasik India muda berkostum Bharatanatyam biru dan emas berpose di sebuah pelataran, dengan kuil Tionghoa bertingkat merah menjulang di belakangnya'
+heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: Penari Odissi wanita berkostum biru cerah dan perhiasan kuil perak menahan pose bergaya yang anggun dengan latar panggung hitam
+    kind: representative
+    origin: third-party
+    subject: Penari klasik Odissi di tengah pose berkostum biru dan perhiasan perak
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: Wanita bersari sutra kuning dan ungu memainkan biola yang dipegang dengan gaya Karnatik sambil duduk, mencondongkan badan ke mikrofon di atas panggung
+    kind: representative
+    origin: third-party
+    subject: Pemain biola Karnatik tampil bersari sutra pada konser musik klasik
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 Pada suatu senja Deepavali atau hari perayaan kuil di kota besar mana pun di Malaysia, kita dapat menyaksikan seorang penari Bharatanatyam naik ke panggung, gelang kaki berbunyi, bergerak mengikuti irama mridangam. Langkah dan gerak tangan itu bukanlah kebetulan — semuanya menuturkan sebuah tradisi seni India Selatan yang berusia lebih dari seribu tahun, dan cara komunitas Tamil Malaysia memikulnya selama lebih dari satu setengah abad.

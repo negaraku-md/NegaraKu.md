@@ -23,7 +23,7 @@ verificationNeeded:
   - "이 기사는 어떤 기관의 프로그램 입학 인원, 쿼터 비율, 구체적 수수료 수치를 명시하지 않음 — 이는 프로그램과 캠퍼스에 따라 다르고 입학 회차마다 바뀜; 지원 전에 UPU의 e-Panduan(공립대학) 또는 개별 기관(사립대학)에 직접 확인할 것."
   - "등록된 IPTS 제공기관의 정확한 현재 수는 여기 명시하지 않았는데, MOHE의 공표 통계표(Statistik Pendidikan Tinggi)를 이 기사에서 전부 열어 보지 못했기 때문임 — 정확한 현재 수치는 MOHE의 Statistik Pendidikan Tinggi 발행물을 직접 참고할 것."
 lang: "ko"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,39 @@ faq:
   - q: 어떤 프로그램이 "잠정 인증"에 그친다면, 그것은 인증되지 않았다는 뜻인가?
     a: 아니다. MQA의 프로그램 인증 실무규범에 따르면, 잠정 인증(Provisional Accreditation)은 프로그램이 합법적으로 제공되기 위한 최소 품질 요건을 충족했음을 확인하는 것이며, 그 자체가 교육부 승인의 조건이다. 전면 인증(Full Accreditation)은 첫 기수 학생들이 프로그램을 마친 뒤에 수행되는 보다 충실한 평가다. 잠정 인증을 받은 프로그램은 정당하며 합법적으로 제공할 수 있다. 다만 전체 주기 평가를 아직 완료하지 않았을 뿐이다.
 framework: explainer
+stayFacts:
+  who: '공립대학(IPTA/Universiti Awam)과 사립대학(IPTS) 사이에서 결정하는 SPM, STPM, 매트리큘레이션, 예비 과정, UEC, A-Level 또는 디플로마 소지자를 위한 카드입니다.'
+  how: '공립대학은 거의 전적으로 고등교육부의 중앙 온라인 시스템인 UPU를 통해 입학시킵니다 — 지원자가 프로그램 선호 순위를 매기면 성적을 기준으로 쿼터로 한정된 자리에 매칭됩니다. 사립 교육기관은 UPU 밖에 있으며, 자체 상시 입학을 직접 운영하고 더 폭넓은 자격을 받습니다.'
+  cost: 'UPU 신청 자체는 무료이지만, 로그인을 위해 국민저축은행(Bank Simpanan Nasional, BSN)에서 12자리 Unik ID를 구매해야 합니다. 사립 교육기관의 학비는 프로그램별로 정해지고 바뀌므로, 현재 수치는 UPU의 e-Panduan이나 해당 기관에 확인하십시오.'
+  watch: 'IPTA/IPTS 라벨만으로는 학위가 인정되는지 알 수 없습니다 — 그것은 해당 특정 프로그램이 MQR에서 MQA 인증을 보유하는지에 달려 있으며, 본인이 지원할 정확한 입학 연도에 대해 직접 확인해야 합니다. 사립대학에는 UPU를 통해 지원할 수 없습니다.'
+  next: '자신이 보유한 자격을 기준으로 결정한 다음, 두 유형 중 어디에 등록하든 그 전에 말레이시아 자격 등록부에서 정확한 프로그램과 입학 회차를 확인하십시오. MQA 인증 해설 글과 대학 등록금 보증금을 내기 전에 글을 참고하십시오.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: '파란 ''Dewan Tunku Canselor'' 글자와 외부 계단이 있는 길고 노출 콘크리트의 모더니즘 양식 홀, 앞에 토피어리 정원과 텅 빈 도로가 있는 모습'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: 조경된 언덕 위에 선, 둥근 중앙 탑이 있는 다층 파란 유리 대학 행정 건물. 깃발이 늘어선 계단식 층계로 다가간다
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 최대 공립대학 중 하나인 마라 공과대학(UiTM)의 현대적인 유리 총장실 건물
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: '''Universiti Sains Malaysia'' 간판을 단 돌기둥 대학 입구 정문, 양옆에 깃대와 울창한 녹지가 있고 흐린 하늘 아래 있다'
+    kind: representative
+    origin: third-party
+    subject: 페낭주 니봉 테발의 공립 연구중심 대학인 말레이시아 과학대학(USM)의 정문
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 같은 SPM 성적을 가진 두 학생이 완전히 다른 시스템에 놓입니다. 한 명은 하나의 중앙 양식을 작성하고 어느 대학교와 과정에 배정되었는지 통보받기까지 몇 달을 기다립니다. 다른 한 명은 같은 주에 세 개의 사립대학에 직접 지원하여 며칠 안에 입학 허가를 받고, 마음에 드는 곳을 고릅니다. 어느 경로도 기본적으로 「더 낫지」 않습니다 — 그러나 그것들이 어떻게 작동하는지를 혼동하는 것이 SPM 이후를 계획할 때 졸업생이 저지르는 가장 흔한 실수입니다.

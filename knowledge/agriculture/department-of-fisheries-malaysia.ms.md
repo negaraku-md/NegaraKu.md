@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'Dewan pasar ikan berbentuk bulat dengan bot nelayan ditambat di sisi dermaga di Sandakan, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: Pekerja mengasingkan ikan segar ke dalam peti di sisi bot nelayan yang berlabuh di kompleks perikanan di Kuantan, Pahang
+    kind: actual
+    origin: third-party
+    subject: Pekerja mengasingkan hasil tangkapan segar di pangkalan perikanan di Kuantan, Pahang
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: Pelantar sangkar ternakan udang terapung yang besar berlabuh di Sungai Sitompok yang dipagari bakau di Kuala Penyu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Sangkar ternakan udang terapung di sungai bakau di Sungai Sitompok, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 Setiap bot yang menebar pukat secara sah di perairan Malaysia akhirnya bertanggungjawab kepada satu agensi. **Jabatan Perikanan Malaysia (DOF)** — *Department of Fisheries Malaysia* — ialah badan persekutuan yang menguruskan sumber marin dan akuakultur negara serta melesenkan semua aktiviti perikanan. Ia beroperasi di bawah **Kementerian Pertanian dan Keterjaminan Makanan (MAFS)**, mentadbir **Akta Perikanan 1985 (Akta 317)**, dan diketuai oleh **Ketua Pengarah Perikanan**. Ibu pejabatnya terletak di Wisma Tani, Putrajaya, disokong oleh rangkaian pejabat negeri dan daerah.

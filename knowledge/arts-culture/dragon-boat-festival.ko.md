@@ -33,7 +33,7 @@ faq:
     a: "페낭의 국제 드래곤보트 대회가 역사가 가장 길며, 여러 해 동안 뜰록 바항 댐에서 열리고 여러 나라와 지역의 팀을 불러 모읍니다. 푸트라자야, 말라카 등지에서도 대규모 드래곤보트 행사가 열린 적이 있습니다. 이러한 경주는 대개 주 정부나 관련 기관의 지원을 받으며, 경기 스포츠이자 관광 홍보의 성격을 함께 지닙니다. 구체적인 날짜와 장소는 해마다 다르며 주최 측의 발표에 따릅니다."
 
 lang: "ko"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "음력 5월 5일로 고정되어 있으며, 이에 대응하는 양력 날짜는 매년 음력에 따라 달라져 보통 양력 6월 중에 든다."
   holiday: "공휴일이 아니다 — 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니며, 일반적으로 평소대로 출근하고 등교한다."
   etiquette: "가정에서의 기념은 대개 명절 당일 쭝쯔를 먹는 한 끼에 집중된다. 용선 등 대규모 공개 행사는 사람들이 참여하기 편하도록 주말이나 가까운 날짜에 열리는 경우가 많다. 일부 가정은 문 앞에 쑥과 창포를 걸거나 명절 정오에 「달걀 세우기」를 시도하기도 하지만, 집집마다 방식은 다르다."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: '뱃머리에 조각된 용 머리와 불꽃 모양 꼬리를 단 길고 노랗고 주황빛 드래곤보트, 사바의 숲으로 덮인 곶 옆 선착장을 따라 구명조끼를 입은 노잡이들이 늘어선 모습'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: 붉은 모자와 흰 셔츠를 입은 노잡이들이 물에 노를 힘껏 내리꽂으며, 지붕을 씌운 용선 두 척이 관중이 지켜보는 수로를 따라 경주하는 모습
+    kind: representative
+    origin: third-party
+    subject: 단오절 경기에서 장식된 용선을 탄 팀들이 노로 물을 가르며 경주하는 모습
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: 대나무 잎에 싼 찹쌀 주먹밥을 풀어 조린 삼겹살, 밤, 소금에 절인 달걀노른자가 든 짭조름한 속을 드러낸 모습, 그 옆에 아직 싸여 있는 주먹밥
+    kind: representative
+    origin: third-party
+    subject: 삼겹살, 밤, 소금에 절인 달걀노른자가 보이도록 펼친 쫑쯔(박창)와 아직 대나무 잎에 싸여 있는 또 하나
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 음력 5월 5일이 다가올 무렵이면 화인 가정의 부엌에서는 쭝쯔 잎과 찹쌀의 향이 피어오릅니다. 주부들은 물에 불린 찹쌀과 고소하게 볶은 소를 깔때기 모양으로 접은 잎에 한 겹 한 겹 채우고, 골풀 끈으로 단단히 묶어, 한 줄 한 줄 솥에 내려 오래 삶습니다. 같은 때, 페낭섬 북서쪽 끝의 뜰록 바항 댐에서는 가느다란 드래곤보트들이 수면을 가르며 나아가고, 뱃머리에 선 북잡이가 박자를 두드리면 수십 명의 노잡이가 그 박자에 맞춰 일제히 노를 젓습니다 — 이것이 말레이시아 단오절의 두 얼굴입니다. 한쪽은 부엌의 쭝쯔 향기, 다른 한쪽은 수면 위의 경주입니다.

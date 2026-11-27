@@ -19,7 +19,7 @@ keyTakeaways:
   - "Le traité anglo-néerlandais de 1824 et ses suites divisèrent ce territoire : Riau-Lingga sous les Néerlandais, Johor dans la sphère britannique"
 appliesTo: "Quiconque souhaite comprendre comment l'institution royale malaise de Melaka s'est perpétuée sans interruption jusqu'aux États malais modernes, en particulier Johor."
 lang: "fr"
-sourceContentHash: "e2e07f7bcea9fc14"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -34,7 +34,7 @@ revisions:
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Histoire du Sultanat de Johor (Sejarah Kesultanan Johor)"
     url: "https://kemahkotaan.johor.gov.my/pengenalan/sejarah-kesultanan-johor/"
@@ -50,6 +50,9 @@ sources:
     publisher: "Archives nationales de la Malaisie (Arkib Negara Malaysia)"
   - title: "Sejarah Melayu (Sulalatus Salatin)"
     publisher: "Archives nationales de la Malaisie (Arkib Negara Malaysia)"
+  - title: "Sultanat de Johor (Johor Sultanate)"
+    url: "https://en.wikipedia.org/wiki/Johor_Sultanate"
+    publisher: "Wikipedia"
 entity: "Kesultanan Johor-Riau"
 wikidata: "Q1150344"
 relations:
@@ -60,6 +63,32 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Sultanat de Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "héritier du Sultanat de Melaka", "Johor Lama", "dynastie des Bendahara", "Riau-Lingga", "institution royale malaise"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'Une imposante mosquée blanche de style victorien, aux deux tours surmontées de flèches et aux coupoles d''un bleu-noir, s''élève au-dessus de jardins paysagers sous un ciel couvert.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: Le grand palais blanc Istana Besar de Johor, avec sa façade majestueuse et sa tour au toit vert, vu de l'autre côté de l'eau depuis le front de mer du détroit de Johor.
+    kind: actual
+    origin: third-party
+    subject: l'Istana Besar (le Grand Palais, aujourd'hui le Musée royal Abu Bakar) à Johor Bahru, Johor
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: L'imposant bâtiment Sultan Ibrahim, gris, se dressant sur une colline ; un long bloc gouvernemental symétrique couronné d'une haute tour-horloge centrale de style sarrasin, vu en angle.
+    kind: actual
+    origin: third-party
+    subject: le Bangunan Sultan Ibrahim (bâtiment Sultan Ibrahim), ancien secrétariat de l'État de Johor à Johor Bahru
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 En 1511, les canons portugais abattirent une ville — mais non un trône. Lorsque la forteresse de Melaka tomba, le Sultan Mahmud Shah, le dernier sultan de Melaka, ne se rendit pas. Il se retira vers le sud avec la famille royale, les ministres principaux et — surtout — tout l'ordre institutionnel qui faisait de Melaka un sultanat. La ville fut perdue ; le sultanat se déplaça.
@@ -106,6 +135,16 @@ Cet événement devint un tournant majeur. En l'absence d'héritier direct de la
 
 Selon les archives officielles du sultanat, ces transitions du trône de Johor se produisirent «par la négociation, la bonne volonté et la réconciliation» — sans conflit ni dommage significatifs.
 
+## Un siècle tumultueux : les Néerlandais, Jambi et les Bugis
+
+Si le lignage du trône passa de main en main pacifiquement selon la chronique royale, le monde qui entourait ce trône était bien plus tumultueux. Le XVIIe siècle et le début du XVIIIe virent Johor éprouvé par des guerres étrangères et une politique de puissance qui refaçonna qui gouvernait réellement.
+
+**L'alliance avec les Néerlandais et la chute de la Melaka portugaise (1641).** Dans la rivalité triangulaire entre Johor, les Portugais de Melaka et le Sultanat d'Acheh, Johor finit par se ranger du côté de la Compagnie néerlandaise des Indes orientales (VOC), elle aussi en guerre avec le Portugal. Le 14 janvier 1641, les forces conjointes néerlandaises et johoriennes — menées par le Bendahara Skudai — prirent la ville de Melaka aux Portugais, mettant fin à 130 ans de domination portugaise sur la ville. Melaka devint alors une possession néerlandaise jusqu'au traité anglo-néerlandais de 1824. Auparavant, Acheh, sous le Sultan Iskandar Muda, avait attaqué Johor en 1613 et 1615 ; le point culminant de la rivalité avec Acheh fut la bataille de la rivière Duyong en 1629.
+
+**La guerre de Johor-Jambi.** La paix ne dura pas. Une alliance matrimoniale projetée entre l'héritier de Johor et une fille d'un dignitaire de Jambi s'effondra lorsque le prince épousa à la place la fille du Laksamana Abdul Jamil. De cette brouille éclata une guerre de 13 ans qui commença en 1666. En 1673, les forces de Jambi attaquèrent et détruisirent la capitale de Johor à Batu Sawar ; le Sultan Abdul Jalil Shah III se retira à Pahang et mourut peu après. Sous le Sultan Ibrahim Shah (qui régna de 1677 à 1685), Johor fit appel aux guerriers Bugis et recouvra sa position vers 1679.
+
+**L'ascension des Bugis.** Les guerriers Bugis que l'on avait fait venir refusèrent de repartir, et leur influence prit racine à Johor. Après l'extinction de la lignée de Melaka en 1699, l'intervention des Bugis s'approfondit au cœur de la lutte pour le trône. Lorsque Raja Kecil de Siak — qui se disait fils du Sultan Mahmud Shah II — s'empara du trône, les Bugis soutinrent Raja Sulaiman pour le renverser en 1722. Le Sultan Sulaiman monta sur le trône, mais le véritable pouvoir de gouvernement revenait au chef bugis qui occupait la charge de Yang Dipertuan Muda (Yamtuan Muda). Entre 1760 et 1784, les Bugis dominèrent l'administration du sultanat, le sultan étant le symbole de la souveraineté et le Yang Dipertuan Muda le détenteur du pouvoir réel.
+
 ## Division territoriale : le traité de 1824
 
 L'unité territoriale de Johor-Riau ne dura pas. Le traité anglo-néerlandais de 1824 (le traité de Londres), signé entre la Grande-Bretagne et les Pays-Bas, divisa les sphères d'influence des deux puissances européennes dans la région.
@@ -139,5 +178,4 @@ Lorsque la Constitution fédérale d'aujourd'hui préserve l'institution des Sou
 *Cet article est classé comme sensible (3R+1 : royauté) selon la politique
 éditoriale de NegaraKu.md, parce que son sujet touche à la continuité de
 l'institution royale malaise. Il est rédigé de manière descriptive et avec un
-plein respect envers l'institution royale, et il est maintenu à l'état de
-brouillon en attendant la relecture humaine avant publication.*
+plein respect envers l'institution royale.*

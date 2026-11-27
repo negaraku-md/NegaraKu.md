@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que necesite identificar qué autoridad expide un determinado documento de inmigración malasio — pasaporte, visado, pase o permiso — y qué artículo explica cada proceso."
 
 lang: "es"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,34 @@ relations:
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Departamento de Inmigración de Malasia", "Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasaporte malasio", "visado Malasia", "pase de visita social", "Permiso de Entrada", "ESD", "MDAC", "imi.gov.my"]
 framework: profile
+hero: '/media/government/imigresen/hero.webp'
+heroAlt: 'La fachada de piedra de la sede del Departamento de Inmigración de Malasia en Putrajaya, con su torre escalonada de motivos islámicos elevándose detrás de una marquesina de entrada que luce las palabras Jabatan Imigresen Malaysia y el escudo del departamento'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: Vista cercana de la entrada de la sede del Departamento de Inmigración de Malasia que muestra el letrero Jabatan Imigresen Malaysia y el escudo dorado y verde del departamento con su corona y el lazo Imigresen Malaysia
+    kind: actual
+    origin: third-party
+    subject: Señalización y escudo de la entrada de la sede del Departamento de Inmigración de Malasia, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: Un complejo fronterizo de inmigración malasio con un edificio amarillo rotulado Kompleks Imigresen, carriles de inspección de paso marcados con símbolos de coche, motocicleta y autobús, bajo un cielo brillante y nublado
+    kind: actual
+    origin: third-party
+    subject: Kompleks Imigresen Rantau Panjang, el puesto fronterizo de inmigración malasio en Rantau Panjang, Kelantan
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 Todo el que cruza la frontera de Malasia — un ciudadano que renueva un pasaporte,

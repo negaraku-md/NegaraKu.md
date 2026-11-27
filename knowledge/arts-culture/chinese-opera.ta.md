@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் உள்ள பாரம்பரிய சீன நாடக வகைகளையும், கோயில் விழாக்களிலும் பண்டிகைகளிலும் “கடவுளுக்கு நன்றி செலுத்தும் நாடகம்” (酬神戏) ஆற்றும் பங்கையும் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,34 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: 'அலங்கார பின்னல் உடைகள், வர்ணம் பூசிய முகங்கள், அலங்கார தலையணிகளுடன் தங்க டிராகன் பின்னணிக்கு முன்னால் மேடையில் ஆறு சீன ஓபரா கலைஞர்கள்; உயர்ந்த மயிற்பீலி இறகுகளுடன் கருப்பு-தங்க கவசமணிந்த தளபதி நடுவில் நிற்கிறார்'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: இரவில் ஒரு விழா மேடையில் இரண்டு தியோச்சியூ ஓபரா கலைஞர்கள், நீல அங்கியில் ஆண் அறிஞரும் பிரகாசமான இளஞ்சிவப்பில் பெண் கதாபாத்திரமும், சீன எழுத்துகளால் நிறைந்த 'Penang Dialect Theater' பின்னணிக்கு முன்னால் நிற்கின்றனர்
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு, ஜார்ஜ் டவுன், 2024 சீனப் புத்தாண்டின் போது தியோச்சியூ தெரு ஓபரா
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: வெள்ளை அங்கியும் மணி பதித்த கறுப்புத் தொப்பியும் அணிந்த ஒரு சீன தெரு-ஓபரா கலைஞர், மேடை ஒப்பனையும் மூக்குக் கண்ணாடியும் அணிந்து, வெதுவெதுப்பான மங்கிய ஒளியில் மேடைக்குப் பின்னால் ஒரு சிறிய விளக்கை நோக்கிச் சாய்ந்து ஒரு திரைக்கதையைப் படிக்கிறார்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, மேடைக்குப் பின்னால் உடையில் ஒரு திரைக்கதையைப் படிக்கும் சீன தெரு-ஓபரா கலைஞர்
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 மேளதாளம் முழங்குகிறது, மேடையில் நீர்-கைகள் (水袖) அசைந்தாடுகின்றன — ஆனால் கீழே பார்வையாளர் இருக்கைகளில் பெரும்பாலும் ஒரு சிலரே அமர்ந்திருப்பர்; சில வேளைகளில் ஒருவர் கூட இருக்க மாட்டார். இது தோல்வியடைந்த நிகழ்ச்சி அல்ல; ஏனெனில் இந்த நாடகம் ஆரம்பத்திலிருந்தே மனிதர்களைப் பார்ப்பதற்காக நடத்தப்படுவதில்லை.

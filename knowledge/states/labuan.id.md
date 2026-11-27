@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pendiri, penasihat pajak dan tim keuangan yang menilai struktur Labuan, serta pembaca yang ingin memahami mengapa Labuan diperlakukan secara berbeda dari Malaysia lainnya."
 
 lang: "id"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'Menara berkaca biru dan perak melengkung modern kompleks Financial Park Labuan menjulang di atas pohon palem di bawah langit cerah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: Menara The Chimney dari bata merah yang tinggi di Labuan berdiri dengan latar langit biru tua dengan pohon kelapa dan rumput hijau di sekeliling dasarnya
+    kind: actual
+    origin: third-party
+    subject: The Chimney, penanda era kolonial Labuan dari bata merah yang tinggi, berdiri di atas rumput di samping pohon kelapa
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: Dermaga dan bangunan tepi laut kota Labuan dilihat dari pelabuhan, dengan perahu dan cakrawala pulau di bawah langit biru berawan
+    kind: actual
+    origin: third-party
+    subject: Dermaga terminal feri Labuan dan kota tepi laut terlihat melintasi pelabuhan dari laut
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 Dua perusahaan, pemilik yang sama, pelanggan yang sama. Satu didirikan di Kuala

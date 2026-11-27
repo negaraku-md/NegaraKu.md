@@ -97,9 +97,10 @@ relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "explained-in", to: "tribunal-tuntutan-pembeli-rumah" }
   - { rel: "related-to", to: "strata-titles-act-1985" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
 framework: rules
+wikidata: "Q142235984"
 ---
 
 ஒரு கட்டிடக் கலைஞரின் வரைபடமாக மட்டுமே இருக்கும் ஒரு கொண்டோமினியத்திற்கு நீங்கள் 10% வைப்புத்தொகை செலுத்துகிறீர்கள், பின்னர் கடன் தவணைகளைச் செலுத்திக்கொண்டே மூன்று ஆண்டுகள் காத்திருக்கிறீர்கள். உங்கள் பணத்துடன் அபிவிருத்தியாளர் ஓடிவிடுவதை, தாமதமாகக் கட்டுவதை, அல்லது குறைபாடுள்ள அலகை ஒப்படைப்பதை எது தடுக்கிறது? பதில் அரை நூற்றாண்டுக்கும் மேலான வயதுடைய ஒரு சட்டம்: Housing Development (Control and Licensing) Act 1966 — சுருக்கமாக HDA அல்லது Akta 118 என அறியப்படுகிறது.

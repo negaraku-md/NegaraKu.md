@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 sources:
   - title: "専門通達第4/2004号：保護者・教員協会（PIBG）規約 (Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/surat-pekeliling-iktisas-surat-pekeliling/556-surat-pekeliling-ikhtisas-bil-4-2004-perlembagaan-persatuan-ibu-bapa-guru/file"
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'クアラルンプールのブリックフィールズにある小学校の低い赤屋根の校舎と緑の運動場で、KL セントラルの高層ビル群のスカイラインを背景にしている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: 舗装された朝礼用の中庭を備えた多層階のマレーシアの中等学校校舎
+    kind: representative
+    origin: third-party
+    subject: マレーシアの国民中等学校の校舎（SMK Darulaman Heights）
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: 保護者教師会（PIBG）の会合のために学校の講堂に集まった保護者と教師
+    kind: representative
+    origin: third-party
+    subject: マレーシアの学校での保護者教師会（PIBG）総会
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 子どもは「無償」のはずの公立学校に登録されている——それなのに、PIBGの用紙や支払いリストが家に届く。では、実際に支払う義務があるのは何で、義務がないのは何なのか。

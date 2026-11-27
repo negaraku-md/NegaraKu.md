@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0212
 title: "フセイン・オン"
-seoTitle: フセイン・オン
+seoTitle: "フセイン・オン: マレーシアの第3代首相 (1976–1981)"
 slug: "hussein-onn"
 category: "malaysia"
 subcategory: ["modern"]

@@ -35,7 +35,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 sources:
   - title: "பதிவு (ஆண்டு 1 மாணவர் பதிவு) (Pendaftaran (Pendaftaran Murid Tahun 1))"
     url: "https://www.moe.gov.my/pendaftaran-sr"
@@ -67,6 +67,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'செலாங்கூர் மாநிலம் செப்பாங்கில் உள்ள சேகோலா கெபாங்சான் கோத்தா வாரிசான் பள்ளியின் இளஞ்சிவப்பு பல மாடிக் கட்டிடம், அதன் முகப்பில் பெயர்ப் பலகையுடனும் சாலையோரம் வேலியிடப்பட்ட வளாகத்துடனும்.'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: Melaka மாநிலம் Ayer Keroh-வில் உள்ள ஒரு தேசியத் தொடக்கப் பள்ளியின் முதன்மைக் கற்பித்தல் தொகுதி; பெரும்பாலான குடும்பங்கள் தங்கள் குழந்தைகளைச் சேர்க்கும் வகை அரசுப் பள்ளி.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, Melaka
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: மலேசியக் கொடிகள் இருபுறமும் நிற்கும் கூரையிட்ட நடைபாதை அரசுப் பள்ளியின் வாயிலை நோக்கிச் செல்கிறது; முதல் சேர்க்கை நாளில் புதிய மாணவர்கள் கடக்கும் பாதை.
+    kind: representative
+    origin: third-party
+    subject: மலேசிய அரசுப் பள்ளியொன்றின் கொடிகள் வரிசையான நுழைவு நடைபாதை
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 பல பெற்றோர்கள், முன்பு ஆண்டு 1 (Tahun 1) இற்குப் பதிவு செய்ததுபோல் தங்கள் குழந்தையைப் படிவம் 1 (Tingkatan 1) இற்கு "பதிவு செய்ய" முடியாது என்பதை அறியும்போது வியப்படைகிறார்கள். நிரப்புவதற்கு இணைய படிவம் எதுவும் இல்லை, உள்நுழைவதற்கு இணையவாயிலும் இல்லை. காரணம் எளிது: இந்த இரண்டு அரசுப் பள்ளிப் படிநிலைகளும் முற்றிலும் வேறுபட்ட இரண்டு அமைப்புகளைப் பயன்படுத்துகின்றன; இந்த இரண்டையும் குழப்பிக்கொள்வதுதான், "என் குழந்தையின் பதிவே கிடைக்கவில்லையே" என்று பெற்றோர் தலைகுனிந்து யோசிப்பதற்கான மிகவும் பொதுவான காரணம்.

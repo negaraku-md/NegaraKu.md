@@ -30,7 +30,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,32 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: '夜間、マレーシアの高速道路の料金所で、点灯した2つの黄色いSmartTAGレーン標識の下を車が通過している。'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: 日中に見た幅広の高速道路料金所。一列に並ぶ料金ブースと、複数の支払いレーンにまたがる頭上のレーン用屋根。
+    kind: actual
+    origin: third-party
+    subject: ペラ州イポー近くの、複数レーンとブースを備えた日中の高速道路料金所
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: RFID支払い用に表示された料金所の出口レーン。レーン遮断機と、コタ・ダマンサラ付近の道路上方の読取り用ガントリーを備える。
+    kind: actual
+    origin: third-party
+    subject: セランゴール州コタ・ダマンサラ料金所のRFID出口レーン
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 RFID レーンであなたの前の車が急停止するのは、ヘッドライトに貼られたステッカーが感知されなかったからだ——多くの人が RFID は「まったく何もしなくてよい」という意味だと思い込んでいるにもかかわらず。実際には、マレーシアは今、異なる高速道路で少なくとも4世代の通行料技術を同時に運用しており、そのうちの一つを別のものと取り違えることが、車両が料金所で立ち往生する典型的な原因である。

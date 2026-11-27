@@ -84,6 +84,13 @@ drinkFacts:
   halal: "Fleurs, eau et sucre uniquement — sans viande, sans produits animaux, sans alcool — c'est donc végétarien et, en soi, halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient vérifier la boutique ou l'étiquette de la bouteille."
   served: "Servi chaud ou glacé ; demandez-le moins sucré si vous préférez. On le boit couramment pour contrebalancer la nourriture « échauffante », frite ou riche et le temps chaud — une croyance culturelle sur l'équilibre, non une allégation médicale. Aussi vendu en bouteille et en canette comme thé au chrysanthème prêt à boire."
   where: "On le trouve dans les kopitiam, les stands de tisanes et de liang cha, et en bouteille ou en canette dans les magasins et les supermarchés de tout le pays."
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Une tasse à motifs floraux de thé de chrysanthème pâle (air kekwa) avec des fleurs en infusion"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 Parmi les boissons sucrées et lactées du café malaisien, l'**air kekwa** se tient un

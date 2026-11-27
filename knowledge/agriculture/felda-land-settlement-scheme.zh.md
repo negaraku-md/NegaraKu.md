@@ -32,7 +32,7 @@ faq:
     a: "联土全球创投（今FGV控股）是管理FELDA种植园的投资臂膀。它于2012年6月28日在马来西亚交易所上市，IPO当时管理着约500,000公顷、由约112,600名垦殖民经营的土地。"
 
 lang: "zh"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
-related: []
+related: ["palm-oil-industry", "rubber-industry", "agricultural-subsidies-farm-input-support"]
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: '马来西亚一座路边拱门，标示着 FELDA 亚依淡垦殖区的入口。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: 柔佛古来FELDA武吉巴都垦殖区内,一条两旁栽种大王椰子、排列垦殖民住宅的宁静道路
+    kind: actual
+    origin: third-party
+    subject: 柔佛FELDA武吉巴都棕榈夹道旁的垦殖民住宅
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: 沙巴FELDA沙哈巴垦殖综合区内,竖着烟囱的Fajar Harapan棕油厂
+    kind: actual
+    origin: third-party
+    subject: 沙巴FELDA沙哈巴综合区内的Fajar Harapan棕油厂
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 想象一个贫困家庭被迁往一片刚被砍伐的森林，获分一块土地和一份月薪，然后被要求等上数年，直到他们的橡胶或油棕树成熟。这正是那份改变了马来西亚十多万乡村家庭生活的安排——而它的引擎就是FELDA。

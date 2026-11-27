@@ -29,7 +29,7 @@ faq:
     a: "कानूनी सारांशों के अनुसार, रिश्वत अपराध 20 वर्ष तक के कारावास और रिश्वत के मूल्य के पाँच गुना से कम नहीं या RM10,000, जो भी अधिक हो, के जुर्माने से दंडनीय है। इन विवरणों की अधिनियम के पूर्ण पाठ के विरुद्ध पुनः जाँच की जानी चाहिए।"
 
 lang: "hi"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
-related: []
+related: ["fam-heritage-players-controversy", "malaysia-cup-domestic-football-leagues", "malaysian-sport-governance"]
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'बादलों भरे आसमान के नीचे सुनसान मुख्य दीर्घा की सीटों के सामने एक खाली फुटबॉल मैदान है।'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: गहरे रंग की वर्दी में एक रेफरी एक फुटबॉल मैच के दौरान मैदान पर निर्णय देते हुए।
+    kind: representative
+    origin: third-party
+    subject: एक फुटबॉल मैच के दौरान मैदान पर निर्णय देता एक मैच रेफरी
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: एक रेफरी एक फुटबॉल मैच शुरू होने से पहले सेंटर सर्कल पर दो टीम कप्तानों के साथ सिक्का उछालते हुए।
+    kind: representative
+    origin: third-party
+    subject: एक रेफरी टीम कप्तानों के साथ मैच-पूर्व सिक्का उछाल करते हुए
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 जब 1993–1994 के सीज़न में पुलिस ने 100 से अधिक फुटबॉल खिलाड़ियों को घेर लिया, तो यह केवल एक खेल संकट नहीं था — इसने एक कानूनी सवाल खोल दिया जो आज तक पूरी तरह हल नहीं हुआ है: एक ऐसा देश जो लगभग सभी खेल सट्टेबाज़ी को प्रतिबंधित करता है, उसी सट्टेबाज़ी से जन्मे अपराध से कैसे निपटता है?

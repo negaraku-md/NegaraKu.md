@@ -36,7 +36,7 @@ faq:
     a: "No. El artículo 2 excluye expresamente la fauna silvestre comprendida en la Lista II del Noveno Anexo de la Constitución Federal y en la Ley de Pesca de 1985 (Fisheries Act 1985), de modo que las especies marinas y la mayoría de las pesqueras se rigen por otra normativa."
 
 lang: "es"
-sourceContentHash: "d1666cc3087284f3"
+sourceContentHash: "3360a9a5053da7d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,36 @@ wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: []
+related: ["national-parks-and-protected-areas-malaysia"]
 keywords: ["Ley de Conservación de la Vida Silvestre", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "vida silvestre totalmente protegida", "totally protected wildlife", "vida silvestre protegida", "licencia de vida silvestre", "permiso especial", "special permit", "tráfico de vida silvestre", "Departamento de Vida Silvestre y Parques Nacionales"]
 framework: rules
+hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
+heroAlt: 'Perfil lateral en primer plano del rostro y hombro rayados en naranja y negro de un tigre malayo contra un suave follaje verde'
+heroCredit: 'Jean from Shelbyville, KY / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law'
+images:
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp
+    alt: Un tapir malayo blanco y negro de pie entre la hojarasca y los retoños en un bosque oscuro
+    kind: actual
+    origin: third-party
+    subject: Un tapir malayo forrajeando en el suelo del bosque de noche, una especie protegida amenazada por la pérdida de hábitat
+    credit: Bernard DUPONT from FRANCE / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg
+  - role: scene
+    src: /media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp
+    alt: Un gran cálao negro con un casco curvado hacia arriba de rojo y naranja brillante posado en una rama entre hojas verdes
+    kind: actual
+    origin: third-party
+    subject: Un cálao rinoceronte salvaje posado en el dosel de la selva de la Reserva de Vida Silvestre de Tabin, Sabah
+    credit: Apocru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg
 ---
 
 Guarde la piel de un tigre malayo en el maletero de su coche y no estará ante una multa y una carta severa — estará ante años de prisión y una multa medida en cientos de miles de ringgit. Ese es el extremo afilado de la Ley de Conservación de la Vida Silvestre de 2010, la ley que decide qué animales de la Malasia peninsular puede tocar, mantener, vender o estudiar, y a cuáles no puede siquiera acercarse sin permiso escrito del Estado.

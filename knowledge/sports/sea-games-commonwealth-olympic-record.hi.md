@@ -34,7 +34,7 @@ faq:
     a: "कुआलालंपुर में 1998 के खेलों की मेज़बानी, जहाँ उसने 10 स्वर्ण पदकों की अपनी सर्वश्रेष्ठ झोली दर्ज की और समग्र रूप से चौथे स्थान पर रहा। यह एशिया में अब तक आयोजित पहला राष्ट्रमंडल खेल भी था।"
 
 lang: "hi"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["मलेशिया ओलंपिक पदक", "Malaysia Olympic medals", "SEA Games", "राष्ट्रमंडल खेल 1998", "Commonwealth Games 1998", "ली चोंग वेई", "Lee Chong Wei", "मलेशिया स्वर्ण पदक", "पदक तालिका"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: '2008 ओलंपिक उद्घाटन समारोह में नारंगी पारंपरिक पोशाक में मलेशिया की टीम जालुर गेमिलांग ध्वज के पीछे परेड करती है।'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: 2017 Kuala Lumpur SEA Games में एक सिंक्रनाइज़्ड डाइविंग फाइनल के दौरान हवा में बीच में दो गोताखोर, उनके पीछे दीवार पर Games की ब्रांडिंग।
+    kind: actual
+    origin: third-party
+    subject: 2017 Kuala Lumpur SEA Games में सिंक्रनाइज़्ड डाइविंग फाइनल
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: Birmingham 2022 Commonwealth Games के मैदान पर सफेद और काले रंग में मलेशिया के रग्बी सेवन्स खिलाड़ी लाल रंग में Wales के विरुद्ध पंक्तिबद्ध।
+    kind: actual
+    origin: third-party
+    subject: मलेशिया 2022 Commonwealth Games में Wales के विरुद्ध रग्बी सेवन्स खेलते हुए
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 मलेशिया पंद्रह बार ओलंपिक पोडियम पर चढ़ा है — और हर एक बार उसने किसी और का राष्ट्रगान बजते सुना है।

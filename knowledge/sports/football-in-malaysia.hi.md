@@ -41,7 +41,7 @@ faq:
     a: "सटीक तिथि विवादित है। कुछ रिकॉर्ड राष्ट्रीय संचालक निकाय की स्थापना 1926 में रखते हैं, जबकि अन्य 1933 का उल्लेख करते हैं, जब सिंगापुर-आधारित फुटबॉल एसोसिएशन ऑफ मलाया ने मलाया कप का संचालन संभाला। जो स्पष्ट और सत्यापन-योग्य है वह है राष्ट्रीय संचालक निकाय, AFC के सदस्य, और 1984 में AFF के संस्थापक के रूप में इसकी आज की भूमिका।"
 
 lang: "hi"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["मलेशियाई फुटबॉल", "मलेशिया कप", "हरिमाउ मलाया", "FAM", "सुपर लीग", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'फ्लडलाइट से रोशन, प्रशंसकों से भरा बुकित जलिल राष्ट्रीय स्टेडियम चल रहे एक फुटबॉल मैच को देखता है।'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: Paroi, Seremban, Negeri Sembilan में Stadium Tuanku Abdul Rahman के मैदान पर चल रहा एक फुटबॉल मैच।
+    kind: actual
+    origin: third-party
+    subject: Paroi, Negeri Sembilan में Stadium Tuanku Abdul Rahman में एक फुटबॉल मैच
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: Kota Damansara, Petaling Jaya, Selangor के एक रिहायशी मोहल्ले में खुला सार्वजनिक फुटसल कोर्ट।
+    kind: actual
+    origin: third-party
+    subject: Kota Damansara, Selangor में एक सामुदायिक फुटसल कोर्ट, मलेशियाई खेल का एक जमीनी स्तर का परिवेश
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 1921 में, मलाया में एक नए फुटबॉल टूर्नामेंट के फाइनल में सिंगापुर ने सेलंगोर को 2-1 से हराया। एक सदी से भी अधिक समय बाद, वह प्रतियोगिता — जिसे अब मलेशिया कप के रूप में जाना जाता है — देश के सबसे प्रिय खेल का सबसे प्रतिष्ठित ताज बनी हुई है।

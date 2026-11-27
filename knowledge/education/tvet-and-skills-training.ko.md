@@ -18,7 +18,7 @@ keyTakeaways:
   - "커뮤니티 칼리지는 더 유연한 입학으로 더 낮은 단계의 자격증에 중점을 두고, 폴리테크닉은 디플로마에 중점을 둡니다 — 둘 다 고등교육부 JPPKK가 감독합니다"
 appliesTo: "폼 3 또는 SPM 이후의 학생, 자녀의 진로를 계획하는 학부모, 그리고 SKM을 통해 기존 기능을 인증받으려는 성인 노동자."
 lang: "ko"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'Kolej Vokasional Sungai Buloh의 입구와 간판으로, 기술 및 숙련(TVET) 훈련을 제공하는 말레이시아 직업 대학이다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: 사바주 키나룻에 있는 직업 기능훈련 캠퍼스 Montfort 청소년훈련센터의 지붕 덮인 중앙 홀로, 무대 현수막에 'Through Work Achieve Success'라고 적혀 있다.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 청소년 기능훈련센터 내부
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: 사바주 Politeknik Kota Kinabalu의 곡선형 지붕 덮인 입구 통로와 현대식 학술 건물.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 폴리테크닉(Politeknik) 캠퍼스(코타키나발루 폴리테크닉)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 많은 폼 3 학생과 그 학부모는 중등학교 이후 하나의 경로만 봅니다. SPM, STPM, 학위입니다. 그러나 이 나라는 실제로 또 하나의 온전한 교육 제도를 운영합니다 — 자체 기관, 자체 자격증, 자체 법을 갖추고 — 그것이 좀처럼 제대로 설명되지 않는 TVET, 즉 기술직업교육훈련입니다.

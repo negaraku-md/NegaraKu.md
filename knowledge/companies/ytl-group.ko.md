@@ -30,7 +30,7 @@ faq:
     a: "YTL Power는 조호르 쿨라이에 대규모 데이터센터 단지를 건설 중이며, 2025년 10월 말 가동으로 발표된 첫 엔비디아 기반 AI 시설을 완공했습니다."
 
 lang: "ko"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,33 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: '부킷 빈탕의 스타힐 갤러리 고급 쇼핑몰의 독특한 각진 짙은 청동빛 기하학 전면, 뒤로 JW 메리어트 호텔 타워가 솟은 모습'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: 길가를 따라 SENTUL PARK와 SENTUL WORKS라고 쓰인 높은 배너 기둥이 늘어선, Sentul Park를 가로지르는 야자수 길의 한적한 대로
+    kind: representative
+    origin: third-party
+    subject: YTL Land(YTL Corporation의 부동산 부문)가 조성한 도시 재생 개발지 Sentul Park를 가로지르는 가로수 대로, 쿠알라룸푸르 — SENTUL PARK / SENTUL WORKS 배너가 보이며 화면에는 YTL 모기업 이름이 나오지 않음
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: 녹색 정면에 위로 Isetan The Japan Store 간판이 걸리고 1층에 H&M 매장이 있는 Lot 10 쇼핑센터 입구의 거리 높이 전경
+    kind: representative
+    origin: third-party
+    subject: Jalan Bukit Bintang의 Lot 10 쇼핑센터, YTL Corporation 소유의 소매 명소(Isetan The Japan Store 입점), 쿠알라룸푸르 — YTL 소유 확인됨, 화면에는 YTL 모기업 이름이 나오지 않음
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL은 말레이시아 최대의 다각화 그룹 중 하나로, 단일 회사가 아니라 인프라를 중심으로 세워진 상장 및 비상장 사업들의 가족으로 이해하는 것이 가장 좋습니다.

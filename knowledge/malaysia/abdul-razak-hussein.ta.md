@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "Abdul Razak Hussein"
-seoTitle: Abdul Razak Hussein
+seoTitle: "Abdul Razak Hussein: மலேசியாவின் இரண்டாவது பிரதமர் (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]
@@ -71,6 +71,13 @@ verificationNeeded:
   - "துல்லியமான தேதிகளை (பதவிக்காலம், பிறப்பு, மரணம்) Perdana Leadership Foundation மற்றும் மலேசியப் பிரதமர் அலுவலகத்திற்கு எதிராக உறுதிப்படுத்தவும்."
   - "Barisan Nasional-இன் நிறுவுதல் ஆண்டு குறித்து ஆதாரங்கள் வேறுபடுகின்றன (கூட்டணி 1973இல் வடிவம் பெற்று 1974இல் முறையாகப் பதிவுசெய்யப்பட்டது); அதை நம்புவதற்கு முன் துல்லியமான தேதியையும் சொற்றொடரையும் உறுதிப்படுத்தவும்."
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: 'Abdul Razak Hussein கருப்பு songkok மற்றும் அடர் நிற சூட், வடிவமைப்புள்ள நீல டை அணிந்து, தங்க நிற ப்ரோக்கேட் திரைச்சீலையை பின்னணியாகக் கொண்ட அதிகாரப்பூர்வ உருவப்படத்தில் முன்னோக்கி நேராகப் பார்க்கிறார்.'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 சில கொந்தளிப்பான ஆண்டுகளுக்குள், Tun Abdul Razak Hussein, அவசர ஆட்சியின் கீழ் இருந்த ஒரு தேசத்தின் அரசியலமைப்புக் காவலாளியிலிருந்து, அதன் நவீன பொருளாதார ஒழுங்கின் தலைமை வடிவமைப்பாளராக நகர்ந்தார். மலேசியாவின் இரண்டாவது பிரதமர் வெறும் ஐந்து ஆண்டுகள் ஆட்சி புரிந்தார், ஆயினும் அவர் கட்டிய கட்டமைப்பு — ஒரு உறுதிப்படுத்தும்-நடவடிக்கைப் பொருளாதாரம், ஒரு ஆதிக்கக் கூட்டணி மற்றும் ஒரு நடைமுறைசார் வெளியுறவுக் கொள்கை — அவரது திடீர் மரணத்திற்குப் பின் தசாப்தங்களாக நாட்டை வடிவமைத்தது. பல மலேசியர்களுக்கு அவர் இன்னும் வெறுமனே **Bapa Pembangunan**, வளர்ச்சியின் தந்தை.

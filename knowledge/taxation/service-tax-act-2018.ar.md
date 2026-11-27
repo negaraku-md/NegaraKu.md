@@ -99,7 +99,7 @@ sources:
     publisher: "Lexology"
 entity: "Service Tax Act 2018 (Act 807)"
 relations: []
-related: []
+related: ["sales-and-service-tax", "royal-malaysian-customs-rmcd", "sst-02-filing"]
 keywords: ["Service Tax Act 2018", "قانون ضريبة الخدمات 2018", "Act 807", "ضريبة الخدمات ماليزيا", "SST", "معدل ضريبة الخدمات", "ضريبة خدمات 8%", "ضريبة خدمات 6%", "عتبة تسجيل SST", "SST-02", "الخدمات الخاضعة للضريبة", "توسيع نطاق ضريبة الخدمات 2025", "دائرة الجمارك الملكية الماليزية", "MySST", "الخدمات الخاضعة للضريبة المستورَدة", "ضريبة الخدمات الرقمية ماليزيا"]
 framework: rules
 ---

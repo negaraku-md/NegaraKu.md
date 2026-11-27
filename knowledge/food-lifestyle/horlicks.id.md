@@ -83,6 +83,7 @@ drinkFacts:
   halal: "Minuman berbahan dasar susu dan bebas alkohol; Horlicks kemasan di Malaysia umumnya diproduksi untuk membawa sertifikasi halal. Pemeriksaan yang andal adalah tanda halal pada kemasan, atau sertifikasi tempat usahanya untuk minuman yang dicampur di gerai — cari tandanya alih-alih berasumsi."
   served: "Disajikan panas secara baku, atau 'ais Horlicks' di atas es. Biasanya dimaniskan dengan susu kental manis atau susu evaporasi ala kopitiam; minta kurang manis bila lebih suka. Berdiri di samping Milo, kopi, dan teh pada papan kedai kopi."
   where: "Ditemukan di gerai kopitiam dan mamak di seluruh negeri, dan dijual sebagai serbuk di toko dan supermarket untuk cangkir buatan rumah."
+wikidata: "Q2719710"
 ---
 
 Di samping kaleng Milo di setiap rak kedai kopi Malaysia berdiri satu lagi kegemaran

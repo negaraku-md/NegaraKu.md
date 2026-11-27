@@ -22,7 +22,7 @@ appliesTo: "الأبناء البالغون وأفراد الأسرة في ما�
 verificationNeeded:
   - "لا يذكر هذا المقال رسوم دور الرعاية الخاصة، أو عدد الأسِرّة، أو طول قائمة الانتظار لـ Rumah Seri Kenangan، لأن هذه تتغيّر كثيرًا ولم تُؤكَّد من مصدر رسمي وقت الكتابة — تأكّد من الرسوم والتوافر الحاليَّين مباشرةً مع المُشغِّل أو مكتب الرعاية الاجتماعية في المقاطعة (Jabatan Kebajikan Masyarakat Daerah)."
 lang: "ar"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["رعاية المسنين في ماليزيا", "دار رعاية المسنين", "Rumah Seri Kenangan", "Rumah Ehsan", "رعاية الشيخوخة", "PeKa B40", "Care Centres Act 1993", "warga emas", "الرعاية طويلة الأمد في ماليزيا", "elderly care Malaysia", "geriatric care Malaysia"]
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: 'المدخل المسوّر ومبنى دار لرعاية المسنّين الماليزية (روماه وارغا إيماس).'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: منطقة تمارين خارجية لكبار السنّ بأجهزة لياقة منخفضة الشدّة بين الأشجار، دون وجود أشخاص
+    kind: representative
+    origin: third-party
+    subject: ركن لياقة خارجي بأجهزة تمارين لكبار السنّ في مجمّع سكني بجنوب شرق آسيا
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: مدخل ولافتة دار رعاية ماليزية من طابق واحد لكبار السنّ، ترفرف أمامها أعلام ماليزيا وولاية Sabah
+    kind: actual
+    origin: third-party
+    subject: Rumah Sri Pritchard، دار لرعاية المسنّين في Kinarut بمنطقة Papar، ولاية Sabah، ماليزيا
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 عادةً ما تأتي اللحظة بهدوء. فأحد الوالدين الذي كان يدبّر أموره وحده بخير يبدأ بنسيان الموقد مُشعَلًا، أو يتعرّض للسقوط أكثر من اللازم، وتجد أسرة لم تخطّط لهذا قطّ نفسها مضطرّة إلى أن تقرّر، على عجل، ما الخطوة التالية. وماليزيا لديها بالفعل نظام لهذا الأمر — غير أنه موزّع بين عيادة صحية تتعامل أصلًا مع المسنين ونظام رعاية اجتماعية لا تكتشفه معظم الأسر إلا حين تبدأ البحث عنه.

@@ -30,7 +30,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,9 +75,36 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: '柔佛笨珍的JKM社会福利局县办事处，门前一块大黄色招牌写着''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian''，配JKM标志和jkm.gov.my电邮，旁边飘扬一面马来西亚国旗'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: 新山一家残障儿童福利关怀协会的招牌与会所,一项社区福利服务
+    kind: representative
+    origin: third-party
+    subject: 新山的残障儿童福利关怀中心
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: 柔佛峇株巴辖的一家福利之家,一所收容型福利机构
+    kind: actual
+    origin: third-party
+    subject: 柔佛峇株巴辖的福利之家(rumah kebajikan)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **社会福利局**——*Jabatan Kebajikan Masyarakat*，处处以其缩写 **JKM** 为人所知——是在马来西亚人跌落时接住他们的联邦机构。它于 **1946 年**成立，最初是为应对第二次世界大战所带来的社会问题，其职能后来扩展至**保护、复健、预防、发展与社区融合**。搜索 JKM 的结果多被标注年份的「如何申领援助」博客与内容单薄的服务页面所占据；本页面则将 JKM 作为一个机构来说明，并阐述其服务如何贯穿整个生命周期——从儿童到残障人士再到年长者。

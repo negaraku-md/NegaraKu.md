@@ -42,7 +42,7 @@ sources:
     publisher: "Nyonya Cooking"
 
 lang: "id"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ drinkFacts:
   halal: "Buah yang diawetkan; minuman asam boi adalah buah, gula, dan air tanpa alkohol, sehingga halal dengan sendirinya. Jaminan melekat pada tempat usahanya untuk minuman gerai, atau tanda sertifikasi pada produk kemasan — cari tandanya alih-alih berasumsi."
   served: "Paling klasik sebagai limau asam boi — jeruk calamansi dengan sirup plum asam, di atas es, dengan beberapa potong plum dan kadang sejumput garam. Juga ditambahkan ke minuman ringan (Sprite asam boi) dan ke Ribena. Dimakan sendiri sebagai camilan juga."
   where: "Ditemukan di konter minuman mamak dan kopitiam, gerai kaki lima, dan toko barang kering di seluruh negeri; asam boi kemasan dijual di supermarket dan toko kelontong."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'Sajian asam boi, buah plum yang diawetkan dan dikeringkan berwarna cokelat keriput berselimut kristal garam'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: Tampak dekat dua buah plum kering keriput yang berlapis garam dan diawetkan
+    kind: actual
+    origin: third-party
+    subject: tampak dekat dua plum asin yang diawetkan (buay khem / asam boi)
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: Mangkuk kaca bening berisi tumpukan plum kering awetan berselimut garam
+    kind: actual
+    origin: third-party
+    subject: semangkuk plum kering asin yang diawetkan (buai khem / asam boi)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 Sebagian rasa sukar dilupakan, dan **asam boi** adalah salah satunya: plum asam kecil,

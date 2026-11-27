@@ -32,7 +32,7 @@ faq:
     a: "《语文出版局大词典》（Kamus Dewan Perdana）是 DBP 的官方数字参考词典，是数字转型议程的一部分，旨在提供一个全面且可免费查阅的马来语参考平台，网址为 kamus.dbp.gov.my。"
 
 lang: "zh"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: '黄金时分，吉隆坡国家语文出版局高塔，其名称与徽章位于楼顶，下方是林木成行的草坪'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: 语文出版局（Dewan Bahasa dan Pustaka）大楼立面上一幅大型彩色立体派风格的马赛克壁画，描绘马来西亚生活，背后耸立着办公大楼
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡语文出版局（DBP）裙楼上的大型马赛克壁画，配「Bahasa Bangsa Negara」横幅，背后是主楼
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: 语文出版局大楼气派的斜顶入口门廊，宽阔楼梯上方饰以雕刻精细的马来纹样镶板
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡语文出版局（DBP）主入口，配马来纹样雕花镶板和气派的楼梯
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 每当你查证某个马来词汇的拼写、遇到一个新的科学术语，或读到某位国家文学家的称号时，幕后都有一个机构在运作：语文出版局（Dewan Bahasa dan Pustaka）。

@@ -34,7 +34,7 @@ faq:
     a: "ஆம். பிரிவு 4(2)(d), எந்தவொரு தடுப்புக்காவல் இடம், நிறுவனம் மற்றும் பிற இடங்களுக்கும் விஜயம் செய்து தேவையான பரிந்துரைகளை வழங்கும் அதிகாரத்தை SUHAKAM-க்கு வழங்குகிறது. 2024 திருத்தத்தால் சேர்க்கப்பட்ட பிரிவு 4(3), நிர்ணயிக்கப்பட்ட நடைமுறைகள் பின்பற்றப்படும் வரை, சம்பந்தப்பட்ட இடத்திற்குப் பொறுப்பான நபரால் அத்தகைய விஜயத்தை மறுக்க முடியாது என்று கூறுகிறது."
 
 lang: "ta"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,33 @@ relations:
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
 framework: profile
+hero: '/media/government/suhakam-human-rights-commission/hero.webp'
+heroAlt: 'Kuala Lumpur-ல் SUHAKAM தலைமையகம் அமைந்துள்ள வளைந்த வானுயர் அலுவலக கோபுரமான Menara TH Perdana; முக்கியமான ''MENARA TH PERDANA'' பலகையும் கண்ணாடி மேற்கூரையிட்ட நுழைவாயிலும்'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: கோலாலம்பூரில் ஒரு அமைதியான சிவில் சமூகப் பேரணியில் பங்கேற்பாளர்கள், மனித உரிமைகள் சூழலைச் சித்தரிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூரில் சிவில் சமூகக் கூட்டம் (மனித உரிமைகள் சூழல்)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: இரவில் ஒரு கோலாலம்பூர் தெருவை நிரப்பும் ஒரு அமைதியான பொதுக் கூட்டம், மனித உரிமைகள் ஆணையம் மேற்பார்வையிடும் சுதந்திரங்களைச் சித்தரிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூர் தெருவில் அமைதியான பொதுக் கூட்டம் (மனித உரிமைகள் சூழல்)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 SUHAKAM-க்கு ஒருவர் மனித உரிமை மீறல் பற்றிய முறையீட்டைச் சமர்ப்பிக்கும்போது,

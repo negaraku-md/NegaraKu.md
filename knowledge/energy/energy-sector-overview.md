@@ -97,6 +97,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'Pandangan udara stesen janakuasa arang batu di pinggir laut dengan cerobong asap dan jeti yang menganjur ke laut.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: Sebuah stesen janakuasa berasaskan gas dengan dewan turbin, serombong ekzos logam dan halaman suis berpagar yang penuh dengan pengubah dan gantri keluli, terletak di atas tanah yang diteroka dengan bukit berhutan dan langit cerah di latar belakang
+    kind: actual
+    origin: third-party
+    subject: Stesen janakuasa Rugading berhampiran Kota Kinabalu, Sabah, sebuah loji janakuasa berasaskan gas yang membekal grid Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: Sebuah stesen janakuasa pesisir dengan bangunan industri rendah, saluran logam dan sebuah serombong tinggi di sebalik pagar sempadan, dengan pokok palma dan tanah lapang berdekatan di bawah langit berjerebu
+    kind: actual
+    origin: third-party
+    subject: Stesen janakuasa Tanjung Kling di pantai Melaka, sebahagian daripada armada penjanaan Semenanjung Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 Nyalakan suis lampu di Kuala Lumpur, isi minyak RON95 di Ipoh, atau pasang panel

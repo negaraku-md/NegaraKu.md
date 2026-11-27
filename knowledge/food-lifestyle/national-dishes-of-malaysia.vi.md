@@ -4,7 +4,7 @@ title: "Các Món ăn Quốc gia của Malaysia: Nasi Lemak, Roti Canai, Char Ku
 seoTitle: "Các Món ăn Quốc gia của Malaysia — Nasi Lemak, Roti Canai, Laksa"
 slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: 'Một phần nasi lemak gói lá chuối với sambal, cá cơm chiên, lạc rang, dưa chuột và một quả trứng luộc'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

@@ -102,7 +102,7 @@ relations:
   - { rel: "governs", to: "chartered-accountant-malaysia" }
   - { rel: "related-to", to: "audit-oversight-board" }
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
-related: []
+related: ["audit-oversight-board-pie-registration", "maicsa", "micpa"]
 keywords: ["MIA", "Institut Akauntan Malaysia", "Akta Akauntan 1967", "Chartered Accountant Malaysia", "CA(M)", "sijil amalan", "lesen audit"]
 framework: profile
 ---

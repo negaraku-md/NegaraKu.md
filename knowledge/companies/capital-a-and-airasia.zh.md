@@ -30,7 +30,7 @@ faq:
     a: "在出售航空业务后，Capital A 成为一家围绕五项业务构建的航空服务与数字业务集团：Asia Digital Engineering、Teleport、AirAsia MOVE、AirAsia Next 和 Santan。"
 
 lang: "zh"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: '一架红色涂装的亚洲航空空中客车A320（注册号9M-AGP）印有“Now Everyone Can Fly”标语，停靠在吉隆坡国际机场的登机口。'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: 一架亚航空客A320窄体客机,机身沿途印有airasia字样并涂着特别纪念涂装,停在浮罗交怡机场停机坪上,天空晴朗
+    kind: actual
+    origin: third-party
+    subject: 一架亚航空客A320(马来西亚注册号9M-AQH)以特别纪念涂装停在浮罗交怡国际机场
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: 红色涂装的亚航客机在吉隆坡国际机场klia2廉价航站楼的登机口排列,长长的航站楼与登机廊桥沿停机坪延伸,热带天空下
+    kind: actual
+    origin: third-party
+    subject: 亚航客机停在klia2,即吉隆坡国际机场的廉价航空航站楼,也是该航空公司在马来西亚的主要枢纽
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 多年来，“AirAsia（亚洲航空）”和“Capital A”几乎被当作可以互换的名称。经过历时数年的重组，如今它们指的是两家不同的上市公司。

@@ -28,7 +28,7 @@ faq:
     a: "2020 के निर्णय के तहत, टोल दरें 1 फरवरी 2020 से 18% घटा दी गईं, और 2058 तक की विस्तारित रियायत अवधि भर में कोई टोल वृद्धि निर्धारित नहीं है।"
 
 lang: "hi"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 framework: profile
+hero: '/media/companies/plus-malaysia/hero.webp'
+heroAlt: 'हल्के यातायात वाला उत्तर-दक्षिण एक्सप्रेसवे का एक साफ़ बहु-लेन हिस्सा, बाईं कंधे पर ''IKUT KIRI Kecuali Memotong'' साइन, बिखरे बादलों वाली नीली आसमान के नीचे हरे किनारे के पेड़ों और निचली जंगली पहाड़ियों से घिरा'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: PLUS एक्सप्रेसवे पर एक टोल प्लाज़ा के पास पहुँचते हुए विंडस्क्रीन से देखा गया दृश्य, बूथों के ऊपर Touch 'n Go और SmartTAG लेन साइन, यातायात को दिशा देते लाल-और-सफ़ेद लेन विभाजक, एक मेघाच्छादित शाम के आसमान के नीचे
+    kind: actual
+    origin: third-party
+    subject: PLUS-संचालित North-South Expressway पर Exit 235 पर Tangkak टोल प्लाज़ा
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: एक इस्पात ऊपरी गैन्ट्री जो North-South Expressway के कैरिजवे पर फैले एक नारंगी परिवर्तनशील-संदेश डिस्प्ले को वहन करती है, आगे हल्के यातायात और सड़क-कार्य शंकुओं के साथ, धूसर बादल भरे आसमान के नीचे सड़क के किनारे पेड़
+    kind: actual
+    origin: third-party
+    subject: North-South Expressway (PLUS) पर फैली एक ऊपरी परिवर्तनशील-संदेश गैन्ट्री
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 हर बार जब आप उत्तर में Bukit Kayu Hitam से दक्षिण में Johor Bahru तक बिना किसी ट्रैफिक सिग्नल पर रुके गाड़ी चलाते हैं, तो आप वास्तव में एक ही कंपनी की परिसंपत्तियों पर यात्रा कर रहे होते हैं: PLUS Malaysia Berhad। यह कोई सरकारी एजेंसी नहीं है, पर यह कोई साधारण निजी कंपनी भी नहीं है — यह एक रियायतग्राही है जो सरकार के साथ एक दीर्घकालिक समझौते के तहत देश की सड़क-रीढ़ का संचालन करती है।

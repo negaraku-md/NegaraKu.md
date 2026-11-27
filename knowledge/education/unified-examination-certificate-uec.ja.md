@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,32 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'タワウのサバ中華高級中学（Sekolah Tinggi Cina Sabah）の入口看板と校庭で、生徒が統一試験（UEC）を受ける華文独立中学の一つである。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: ジョホールバルのフーニュー中学（Sekolah Menengah Foon Yew、寬柔中學）の入口のアーチと校名板。ジョホール州旗と校章が添えられている。
+    kind: actual
+    origin: third-party
+    subject: フーニュー中学（寛柔中学、ジョホールバルの華文独立中学）
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: ジョホールバルのフーニュー中学の多層階の図書館棟（Perpustakaan）。タイル張りのポーチの上にマレー語と中国語で名称が掲げられている。
+    kind: actual
+    origin: third-party
+    subject: フーニュー中学の図書館棟
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 UECというわずか3文字が、マレーシアの教育政治において半世紀以上続く論争を引き起こしてきた。ある人々にとって、それは世界の有力大学への扉を開く国際水準の証明書である。別の人々にとって、それは国語の地位と国の教育政策に関わる問題である。この二つの見方は同時に存在しており、全体像を理解するにはその両方を知る必要がある。

@@ -36,7 +36,7 @@ faq:
     a: "Thuế trước bạ là 0,5% trên tổng khoản vay theo Luật Thuế trước bạ 1949 (Stamp Act 1949). Ví dụ, khoản vay RM450,000 chịu thuế RM2,250. Việc nộp phải được thực hiện trong vòng 30 ngày kể từ ngày ký hợp đồng."
 
 lang: "vi"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'Bảng hiệu màu đỏ của Public Bank Berhad và Public Investment Bank trên quảng trường có cảnh quan bên ngoài một tòa nhà ngân hàng Malaysia ở Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: Cảnh đường phố một chi nhánh Standard Chartered Bank trên dãy nhà phố thương mại ở trung tâm thị trấn Seremban
+    kind: representative
+    origin: third-party
+    subject: Một chi nhánh Standard Chartered Bank trên con phố chính ở Seremban, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: Cảnh đường phố một chi nhánh ngân hàng Hồi giáo Bank Muamalat trên dãy nhà phố thương mại ở Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Một chi nhánh Bank Muamalat (ngân hàng Hồi giáo) ở Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 Căn nhà mơ ước có thể có giá RM450,000, nhưng ngân hàng sẽ không trao số tiền đó cho đến khi tin chắc rằng bạn có khả năng trả lại trong 30 năm tới. Đó là nơi thế giới tài trợ thế chấp bắt đầu — biên độ, tỷ lệ phục vụ nợ, bảo hiểm, tiết kiệm KWSP và thuế trước bạ, tất cả đều quyết định liệu chiếc chìa khóa ngôi nhà đó có sang tay bạn hay không.

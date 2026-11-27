@@ -33,7 +33,7 @@ faq:
     a: "The 'fire-requesting' ritual (请火, Chneah Hoay, 'gazing at the fire' in Hokkien) is a rite carried on for over a century by Poh Hock Seah in Penang, held from the 14th to the 16th day of the first lunar month at the Hai Choo Soo Tua Pek Kong Temple in Tanjong Tokong, with the formal fire-requesting taking place at midnight of the Lantern Festival. During the ritual all lamps and candles in the temple are extinguished; members draw fire from a brazier carried in the incense-pole baskets and fan it, divining the coming year's fortunes from the strength of the flames, three times in succession corresponding to the three seasons of the year; traditionally only male members take part. Once the rite is complete the lights are relit and the public may then enter to worship. This article only describes the procedure and does not pass judgment on its religious meaning."
 
 lang: "en"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'The red and gold ornate gateway of the Tua Pek Kong Temple in Sibu, flanked by gilded guardian lions, with a tall seven-storey pagoda rising behind it against a blue sky.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: The red facade and ornate tiled roof of the Tua Pek Kong temple at Tanjung Tokong, Penang, with guardian lions and tall red joss candles at the entrance.
+    kind: actual
+    origin: third-party
+    subject: Tanjung Tokong Tua Pek Kong Temple, Penang
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: A gilded, bearded Tua Pek Kong deity figure seated on an altar flanked by attendants, with lit candles and bundles of incense rising before it.
+    kind: actual
+    origin: third-party
+    subject: Tua Pek Kong deity altar at Ping Sien Si, Perak
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 On the seashore at Tanjung Tokong in Penang stands a temple of no great size, quiet for most of the year. But around the Lantern Festival things are wholly different: incense-pole baskets, gongs and drums, and long lines of people come all the way from George Town; at night every lamp and candle in the temple is put out, and a crowd gathers around a brazier, fanning the fire with held breath — how high the flames leap is taken as a "forecast" for the coming year. This temple is, in many people's minds, the fountainhead of Tua Pek Kong worship.

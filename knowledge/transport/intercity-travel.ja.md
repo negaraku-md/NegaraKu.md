@@ -36,7 +36,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,33 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["intercity travel Malaysia", "KTM ETS", "KTM Intercity", "express bus Malaysia", "Terminal Bersepadu Selatan", "TBS", "domestic flights Malaysia", "AirBorneo", "MASwings", "Rural Air Service", "Sabah Sarawak flights", "travelling between cities Malaysia"]
 framework: explainer
+hero: '/media/transport/intercity-travel/hero.webp'
+heroAlt: '乗客が待つ駅のホームに停車する、黄色と青のKTM ETSクラス93都市間電車'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: Terminal Bersepadu Selatanの広々としたコンコース。クアラルンプールの統合長距離バスターミナル。
+    kind: actual
+    origin: third-party
+    subject: Terminal Bersepadu Selatan（TBS）長距離バスターミナルのコンコース、クアラルンプール
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: KTMの都市間鉄道網の拠点であるKLセントラルのホームに停車するETS都市間列車。
+    kind: actual
+    origin: third-party
+    subject: KLセントラルのKTM都市間鉄道ホーム
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 古晋（クチン）へ飛び、関丹（クアンタン）へバスで行き、バターワース

@@ -41,7 +41,7 @@ verificationNeeded:
   - "ما إذا كانت إعلانات المنطقة الصناعية الحرة في بايان ليباس وبيراي بموجب قانون المناطق الحرة لسنة 1990 (Free Zones Act 1990) قد عُدِّلت، وحدود المناطق المنشورة الحالية"
 
 lang: "ar"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,34 @@ keywords:
   - "doing business in Penang"
   - "MBPP business licence"
 framework: profile
+hero: '/media/business/doing-business-penang/hero.webp'
+heroAlt: 'منظر جوي لمنطقة بايان ليباس الصناعية الحرة في بينانغ، مع مبانٍ ضخمة للمصانع والتصنيع مصطفّة على طول طريق ساحلي بجانب البحر وتلال خلفها'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: منظر مرتفع لجسر Penang الممتد عبر القناة مع سيارات تتدفق في كلا الاتجاهين، وبلدة البر الرئيسي والتلال ظاهرة في البعد
+    kind: actual
+    origin: third-party
+    subject: جسر Penang وهو يحمل الحركة عبر القناة بين جزيرة Penang والبر الرئيسي، الشريان الاقتصادي الذي يربط الجزيرة بمحور Seberang Perai الصناعي
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: منظر من زاوية منخفضة لبرج Komtar المرتفع في جورج تاون، Penang، يرتفع فوق المنطقة التجارية أمام سماء زرقاء زاهية
+    kind: actual
+    origin: third-party
+    subject: برج Komtar في جورج تاون، أطول مبنى في Penang ومعلمها التجاري والحكومي المركزي
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 السؤال الأول عن ممارسة الأعمال في بينانغ ليس ماذا تسجّل. بل على أي جانب من المضيق أنت.

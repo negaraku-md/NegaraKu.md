@@ -34,7 +34,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 sources:
   - title: "Perlembagaan Persekutuan — Undang-Undang Malaysia (Perkara 1, 4, 32, 38, 44, 45, 71, Jadual Kesembilan) (Federal Constitution — Laws of Malaysia (Article 1, 4, 32, 38, 44, 45, 71, Ninth Schedule))"
     url: "https://lom.agc.gov.my/"
@@ -56,6 +56,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'Peta politik Malaysia menunjukkan Semenanjung Malaysia di sebelah barat serta Sabah dan Sarawak di Borneo di sebelah timur, berlabelkan bandar-bandar utama.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: Pintu gerbang Cina berwarna merah dan emas yang dihiasi naga emas membawa papan tanda biru bertulis JALAN PETALING / PETALING STREET di atas sepanduk aluan pelbagai bahasa, di Chinatown Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Pintu gerbang hiasan Jalan Petaling di Pekan Cina Kuala Lumpur
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: Patung emas Dewa Murugan yang menjulang berdiri di sebelah anak tangga curam berwarna-warni terang yang mendaki cenuram batu kapur berselaput hutan ketika pengunjung mendaki.
+    kind: actual
+    origin: third-party
+    subject: Patung Dewa Murugan keemasan dan tangga pelangi di Batu Caves, Selangor
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 Malaysia bukanlah satu tempat dengan satu kerajaan. Ia adalah sebuah persekutuan — sebuah negara tunggal yang dijalin daripada tiga belas buah negeri dan tiga wilayah persekutuan, terletak di atas dua daratan yang dipisahkan oleh beberapa ratus kilometer Laut China Selatan. Memahami struktur itu terlebih dahulu menjadikan hampir semua perkara lain tentang negara ini lebih mudah difahami.

@@ -31,7 +31,7 @@ faq:
     a: "தீபகற்ப கடல் பூங்காக்கள் Akta Perikanan 1985-இன் கீழ் வர்த்தமானியில் வெளியிடப்படுகின்றன. இது தீவிலிருந்து இரண்டு கடல்மைல் பாதுகாப்பு மண்டலத்தை உருவாக்குகிறது, அங்கு முட்டையிடும் ஆமைகளைத் தொந்தரவு செய்தல், குஞ்சுகளைச் சேகரித்தல் போன்ற செயல்பாடுகள் தடைசெய்யப்பட்டுள்ளன."
 
 lang: "ta"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,9 +95,36 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'தெளிந்த நீல நீரில் துடிப்பான பவளப்பாறையில் ஓய்வெடுக்கும் பச்சை கடல் ஆமை; மேலே நீந்தும் பாறை மீன்கள்'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: மலேசியாவின் சிபாடான் அருகே நீல நீரில் பவளப் பாறையின் மேல் மெதுவாக நீந்தும் பச்சைக் கடல் ஆமை
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, சிபாடானில் பவளப் பாறையின் மேல் நீந்தும் பச்சைக் கடல் ஆமை (Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: வண்ணமயமான பவளங்களால் சூழப்பட்ட பாறைப் பவள விளிம்பின் கீழ் ஓய்வெடுக்கும் பச்சைக் கடல் ஆமை
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, சிபாடான், பாராகுடா பாயிண்டில் பவள விளிம்பின் கீழ் ஓய்வெடுக்கும் பச்சைக் கடல் ஆமை (Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 1960-களின் பிற்பகுதியில், ஒவ்வொரு ஆண்டும் சுமார் 2,000 பெண் தோல்முதுகு ஆமைகள் Terengganu-வின் Rantau Abang-இல் ஒரே கடற்கரைப் பகுதிக்கு கரையேறி, மணலில் ஏறத்தாழ 10,000 முட்டைக் கூடுகளை விட்டுச் சென்றன. இன்று, ஒன்று கூட இல்லை. அந்த வீழ்ச்சியின் கதை இப்பகுதியின் மிகவும் வெளிப்படையான வனவிலங்கு பாதுகாப்புத் தோல்விகளில் ஒன்று — மேலும் அது இன்றுவரை மலேசியா கடல் ஆமைகளை எப்படிப் பாதுகாக்கிறது என்பதை வடிவமைத்துள்ளது.

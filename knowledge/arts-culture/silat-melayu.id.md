@@ -37,7 +37,7 @@ faq:
     a: "UNESCO menyebut Silat Harimau sebagai contoh gaya yang meniru gerak estetik harimau dalam seni menyerang dan bertahan. Ia salah satu dari banyak gaya yang dinamai berdasarkan hewan atau unsur alam."
 
 lang: "id"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,34 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
 framework: history-culture
+hero: '/media/arts-culture/silat-melayu/hero.webp'
+heroAlt: 'Dua pesilat Melayu berpakaian silat hitam saling mengunci dalam cengkeraman dinamis di atas matras, satu berlutut dan mencengkeram lengan lawan sementara sebilah keris melengkung terangkat di antara mereka, dengan latar gelap bertuliskan Silat Performance dan Silat Seni Gayong Club'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at_ESEAP_Conference_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: Dua pesilat Melayu bertelanjang kaki berpakaian silat hitam dan penutup kepala hitam saling berhadapan dalam kuda-kuda bertarung rendah di atas paving abu-abu, salah satunya memegang sebilah pisau pendek, dengan latar dinding bangunan berwarna hijau kebiruan
+    kind: actual
+    origin: third-party
+    subject: dua pesilat berpakaian silat hitam saling berhadapan dalam kuda-kuda bertarung sewaktu latihan Silat Gayong di Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: Seorang pesilat Melayu berpakaian silat hitam melompat melancarkan tendangan tinggi yang ditangkis pasangannya yang merunduk, keduanya bertelanjang kaki di atas paving abu-abu dengan latar dinding hijau kebiruan, di tengah aksi sewaktu latih tanding silat
+    kind: actual
+    origin: third-party
+    subject: seorang pesilat melancarkan tendangan sambil melompat ke pasangan latih tandingnya sewaktu latihan Silat Gayong di Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 Seorang pesilat yang baik dapat mematahkan tulang lawan — atau menari di depan pengantin tanpa menyentuh siapa pun. Keduanya silat. Itulah yang paling sulit dipahami tentang seni ini: ia bukan sekadar metode bertarung, dan bukan sekadar tarian acara. Ia keduanya, dalam tubuh yang sama, digerakkan oleh langkah yang sama.

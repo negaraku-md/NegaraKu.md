@@ -29,7 +29,7 @@ faq:
     a: "総額RM724億であり、内訳はRM320億の配当、RM268億の税金、RM131億の現金支払いに加え、国家信託基金へのRM5億の拠出である。"
 
 lang: "ja"
-sourceContentHash: "e12c19b490e99672"
+sourceContentHash: "d81a777a6a7ec6c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,33 @@ relations:
   - { rel: "related-to", to: "national-trust-fund" }
 related: ["petroleum-development-act-1974"]
 keywords: ["petronas", "petroliam nasional berhad", "malaysia oil and gas", "petroleum development act 1974", "national oil company"]
+hero: '/media/energy/petronas/hero.webp'
+heroAlt: 'オレンジと青の夕暮れの空の下、クアラルンプールの密集したスカイラインの中心に立つライトアップされたペトロナス・ツインタワー。基部にスリアKLCCモール'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Petronas Twin Towers rising over the Kuala Lumpur city skyline at dusk'
+images:
+  - role: scene
+    src: /media/energy/petronas/body-1.webp
+    alt: ターコイズグリーンの前庭キャノピーと給油ポンプを備えたペトロナスのガソリンスタンド。傍らにPrimax 97、Primax 95、Dynamic Dieselを記した高い料金板、周囲にアブラヤシの木
+    kind: actual
+    origin: third-party
+    subject: 前庭キャノピーと燃料料金板のある、マレーシアのペトロナス系ガソリンスタンド
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/energy/petronas/body-2.webp
+    alt: サバ州石油ガスターミナルで、曇りの青空を背に、赤白の鋼製フレアスタックが鮮やかなオレンジ色のガス炎を上げる
+    kind: actual
+    origin: third-party
+    subject: キマニスのサバ州石油ガスターミナルで、スタックの上端で燃えるガスフレア
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
 ---
 
 一つの企業が、マレーシアの石油資源を保管し、それらを採掘する上流産業を監督し、その収益のかなりの部分を、自社を全額所有する政府へと還元している。

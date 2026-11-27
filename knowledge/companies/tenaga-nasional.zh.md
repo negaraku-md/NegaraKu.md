@@ -30,7 +30,7 @@ faq:
     a: "TNB 拥有并运营国家电网，而这一电网需要升级以吸纳可再生能源，与国家能源转型路线图（NETR）的目标保持一致。"
 
 lang: "zh"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,37 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-commission-suruhanjaya-tenaga", "glc-dominance-malaysian-economy"]
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: '鸟瞰肯逸水坝灰色堆石坝体，坝面上标有巨大的白色KENYIR字样，坝脚是水电站和输电线，身后是绵延的肯逸湖'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: 位于吉隆坡 Bangsar 的 Tenaga Nasional Berhad 总部，一座高大的灰色办公楼，楼顶有红色 TNB 徽标和灯光 'TENAGA NASIONAL' 标识，高于城市天际线
+    kind: actual
+    origin: third-party
+    subject: 位于吉隆坡 Bangsar 的 Tenaga Nasional Berhad 总部大楼
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: 位于巴生的 Connaught Bridge 发电站，一座长条形红砖发电厂房，带有一根红白条纹的高烟囱，映衬明亮蓝天
+    kind: actual
+    origin: third-party
+    subject: TNB 位于雪兰莪巴生的 Connaught Bridge 发电站
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 每当你在半岛的家中亮起灯，这股电流很可能是流经一家公司独有的电线：国家能源有限公司（Tenaga Nasional Berhad）。它是全国最大的电力公用事业公司，截至 2025 年 9 月 30 日，在马来西亚半岛、沙巴和纳闽拥有超过 1100 万名用户。

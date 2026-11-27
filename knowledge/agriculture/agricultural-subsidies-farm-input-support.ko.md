@@ -34,7 +34,7 @@ faq:
     a: "농업식량안보부(KPKM)가 벼산업개발부서를 통해 관리하며, 농민조직청(LPP), MADA, KADA 같은 시행 기관이 각자의 곡창지대에서 집행합니다."
 
 lang: "ko"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,9 +100,36 @@ wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: '밝은 대낮, 물이 찬 논의 진흙 둑에서 몸을 굽혀 일하며 진흙을 튀기는 농부'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: 해 질 녘, 야자수가 늘어선 지평선을 배경으로 노란색 콤바인 수확기가 그루터기만 남은 물 고인 논을 가로지르며 벼를 베고 있다
+    kind: actual
+    origin: third-party
+    subject: 케다주 랑카위에서 해 질 녘 진흙 논의 벼를 베는 콤바인 수확기
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: 머릿수건을 두른 여성이 작은 낫으로 황금빛 벼 이삭을 베어 노란 대나무 바구니에 모으고 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 쿠닷 지역에서 두순족 여성이 잘 익은 벼 이삭을 손으로 베어 대나무 바구니에 담고 있다
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 그날 아침 벼 농가가 논으로 짊어지고 간 비료 포대는 자신의 돈으로 산 것이 아니었습니다 — 그것은 대가 없이, 수십 년 동안 연방정부가 부담해 온 것이었습니다. 이것이 말레이시아 벼 농업 보조금의 진짜 모습입니다: 수표나 계좌 입금이 아니라, 농장 비용의 상당 부분을 보전하는 비료, 농약, 장려금입니다.

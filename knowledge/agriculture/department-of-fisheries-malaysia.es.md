@@ -28,7 +28,7 @@ faq:
   - q: "¿Qué ley administra el DOF?"
     a: "Su estatuto principal es la Ley de Pesca de 1985 (Act 317), que abarca la conservación, gestión y desarrollo de la pesca y las pesquerías en aguas malasias, incluidas las licencias, la acuicultura, los mamíferos acuáticos y las tortugas."
 lang: "es"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Departamento de Pesca de Malasia", "DOF", "Jabatan Perikanan Malaysia", "Ley de Pesca de 1985", "Fisheries Act 1985", "licencia de pesca Malasia", "acuicultura Malasia", "dof.gov.my", "estadísticas pesqueras Malasia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'Una lonja de pescado circular con barcas de pesca amarradas junto al muelle en Sandakan, Malasia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: Trabajadores clasificando pescado fresco en cajas junto a un barco pesquero amarrado en un complejo pesquero de Kuantan, Pahang
+    kind: actual
+    origin: third-party
+    subject: Trabajadores clasificando la pesca fresca en un desembarcadero pesquero de Kuantan, Pahang
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: Grandes plataformas de jaulas flotantes para cría de langostinos amarradas en el Sungai Sitompok, bordeado de manglares, en Kuala Penyu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Jaulas flotantes de cría de langostinos en un río de manglar en Sungai Sitompok, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 Toda embarcación que lanza legalmente una red en aguas malasias responde, en última instancia, ante una sola agencia. El **Departamento de Pesca de Malasia (DOF)** — *Jabatan Perikanan Malaysia* — es el organismo federal que gestiona los recursos marinos y acuícolas del país y otorga licencias a toda actividad pesquera. Opera bajo el **Ministerio de Agricultura y Seguridad Alimentaria (MAFS)**, administra la **Ley de Pesca de 1985 (Act 317)** y está dirigido por el **Director General de Pesca**. Su sede se encuentra en Wisma Tani, Putrajaya, respaldada por una red de oficinas estatales y de distrito.

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần các dữ kiện cơ bản của Malaysia — dân số, diện tích, thủ đô, đồng tiền, ngôn ngữ, GDP — với mỗi con số được quy về bản công bố chính thức cụ thể công bố nó, chứ không phải một bản tóm tắt không nguồn."
 
 lang: "vi"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'Đường chân trời Kuala Lumpur rực sáng về đêm, nổi bật với Tháp đôi Petronas và những tòa nhà chọc trời xung quanh.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: Một con phố ẩm thực chợ đêm nhộn nhịp rực sáng dưới những chiếc đèn lồng giấy đỏ khi thực khách ngồi kín các bàn nhựa đỏ bên những quầy hàng rong và một xe đẩy sầu riêng.
+    kind: actual
+    origin: third-party
+    subject: Phố ẩm thực đêm Jalan Alor, Kuala Lumpur
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: Những ngọn đồi phủ rừng rậm trải dài vô tận mờ dần vào lớp sương xanh dưới bầu trời u ám, nhìn qua tán rừng mưa rậm rạp từ một khoảng trống trên đỉnh đồi.
+    kind: actual
+    origin: third-party
+    subject: Những ngọn đồi rừng mưa của Taman Negara nhìn từ Bukit Terisek, Pahang
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Hỏi "Malaysia lớn cỡ nào" hay "dân số Malaysia là bao nhiêu" và bạn sẽ nhận được một câu trả lời khác nhau tùy theo trang web bạn truy cập — một số trích dẫn con số điều tra dân số năm 2020, một số trích dẫn một ước tính của World Bank chậm hai lần cập nhật. Trang này tồn tại để khắc phục điều đó: mỗi con số bên dưới đến từ một bản công bố chính thức được nêu tên, có ngày, để bạn có thể thấy chính xác nó hiện hành đến đâu và tự kiểm tra nó.

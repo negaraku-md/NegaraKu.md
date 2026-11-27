@@ -87,6 +87,14 @@ verificationNeeded:
   - "sugee 케이크의 어원과 분류(세몰리나와 버터로 만든 축하 케이크; 그 이름은 흔히 세몰리나를 뜻하는 남아시아 단어에서 유래했다고 보며, 레시피는 영국 Madeira 케이크에 비견된다)——요리사 자료로 확인할 것."
   - "Portuguese Settlement의 설립 연도(흔히 1933년으로 제시됨)와 pang susi 및 내장 요리 같은 여러 가정 요리가 드물어지고 있다는 주장——일차 자료 또는 유산 자료로 확인할 것."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: '흰 접시에 포크와 함께 놓인, 황금빛 겉면의 촉촉한 수지(세몰리나) 케이크 한 조각'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 믈라카의 말레이 주방에서 카레를 주문하면 코코넛과 레몬그라스의 맛이 난다. 두

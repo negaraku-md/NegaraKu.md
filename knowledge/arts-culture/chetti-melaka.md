@@ -74,6 +74,33 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'Sebuah gerbang pintu masuk gaya India berwarna merah jambu dipuncaki dua patung gajah putih menandakan lorong masuk ke Kampung Chetti di Melaka, sebuah kuil Hindu kecil berkubah krim di sebelah kanan dan rumah-rumah kampung dengan papan tanda Kampung Chetti di sepanjang jalan yang tenang di bawah langit biru'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: Sebuah rumah bergaya Melayu tradisional dua tingkat daripada kayu gelap yang berfungsi sebagai Muzium Chetti di Melaka, dengan papan tanda biru bertulis Muzium Chetti The Chetti Museum di atas anjung, sederet pokok dalam pasu di belakang pagar rendah dan bendera Malaysia serta Melaka berkibar di sebelahnya
+    kind: actual
+    origin: third-party
+    subject: Muzium Chetti di Kampung Chetti, Melaka, yang mendokumentasikan masyarakat Chetti Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: Fasad kuning Kuil Sri Poyyatha Vinayagar Moorthi di Harmony Street di Melaka, sebuah menara bertingkat yang sederhana dengan ceruk dewa menjulang di atas bumbung anjung berjubin dan pintu biru kehijauan, disinari cahaya matahari pagi yang rendah dengan latar langit biru pekat
+    kind: actual
+    origin: third-party
+    subject: Kuil Sri Poyyatha Vinayagar Moorthi di Melaka, kuil Hindu bersejarah yang diasaskan oleh masyarakat Chetti pada tahun 1781
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 Di sebuah kampung tua di Jalan Gajah Berang, Melaka, ada sekumpulan keluarga yang bersembahyang kepada Dewa Siva, berpakaian seperti orang Melayu, memasak kari beraroma santan, dan bertutur dalam bahasa Melayu yang disendat perkataan Tamil. Mereka bukan India, bukan Melayu, bukan Cina — mereka Chetti Melaka, dan bilangan mereka semakin sedikit.

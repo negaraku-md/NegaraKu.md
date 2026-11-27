@@ -42,7 +42,7 @@ verificationNeeded:
   - "29ஆவது Sultan Kedah-இன் முடிசூட்டு விழாத் தேதியை Istana Anak Bukit-இன் அதிகாரப்பூர்வ பதிவுக்கு எதிராக உறுதிப்படுத்தவும்; மாநில அரசின் அதிகாரப்பூர்வப் பக்கம் அறிவிப்புத் தேதியை மட்டுமே குறிப்பிடுகிறது."
 
 lang: "ta"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'அலோர் ஸ்டாரில் தெளிவான நீல வானத்தை எதிர்கொண்டு பெரிய கருப்பு வெங்காய குவிமாடங்களின் கொத்தும் மெல்லிய மினாரெட்டும் கொண்ட கிரீம் நிற ஜாஹிர் மசூதி.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: கெடாவில் உள்ள புலாவ் லங்காவி தீவில், காடுகள் நிறைந்த மலைப் பள்ளத்தாக்கை வளைந்த லங்காவி வான் பாலம் கம்பிகளில் தொங்கி உயரத்தில் வளைந்து செல்கிறது.
+    kind: actual
+    origin: third-party
+    subject: லங்காவி வான் பாலம், கெடா
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: மலேசியாவின் நெற்களஞ்சியமான கெடாவில் உள்ள பெண்டாங்கில், தட்டையான பசுமையான நெல் வயல்கள் விரிந்த வானத்தின் கீழ் அடிவானம் வரை பரவியுள்ளன.
+    kind: actual
+    origin: third-party
+    subject: பெண்டாங்கில் நெல் வயல் சமவெளிகள், கெடா
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 2024-இல், மின்சார, மின்னணுவியல் மற்றும் ஒளியியல் பொருட்கள் கெடாவின் உற்பத்தித்

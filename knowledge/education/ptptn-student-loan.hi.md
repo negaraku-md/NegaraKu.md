@@ -25,7 +25,7 @@ verificationNeeded:
   - "प्रवर्तन शक्तियों का उल्लेख (उदाहरण के लिए, चुकौती में चूक करने वाले उधारकर्ताओं पर विदेश यात्रा प्रतिबंध) यहाँ केवल सामान्य रूप में किया गया है, जो Act 566 के अंतर्गत ऐसी शक्तियों के अस्तित्व पर आधारित है; विशिष्ट धारा संख्या और इसके प्रवर्तन की शर्तें (जैसे बकाया की अवधि) अधिनियम के पाठ या आधिकारिक पोर्टल से सीधे सत्यापित नहीं की गई हैं और इन्हें पुनः जाँचने की आवश्यकता है।"
 
 lang: "hi"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,6 +66,32 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "शिक्षा ऋण", "PTPTN पात्रता", "PTPTN चुकौती", "Act 566", "मलेशिया उच्च शिक्षा वित्तपोषण", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'यूनिवर्सिटी टेक्नोलॉजी मलेशिया कुआलालंपुर परिसर का प्रवेश-द्वार, जिसमें वाहन-मार्ग के ऊपर मेहराब पर UTM का प्रतीक-चिह्न है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: Universiti Teknologi MARA (UiTM) का कुलाधिपति-भवन, एक बड़ा आधुनिक काँच-और-कंक्रीट का सार्वजनिक विश्वविद्यालय भवन जो एक सुसज्जित ऊँचाई पर खड़ा है और जिसके सामने झंडे लगे हैं।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई सार्वजनिक विश्वविद्यालय परिसर (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: कोटा किनाबालू में Universiti Malaysia Sabah का विशिष्ट नीले-और-क्रीम रंग का कुलाधिपति-भवन (Canselori), एक सुसज्जित लॉन के ऊपर स्थित एक सार्वजनिक विश्वविद्यालय का प्रतीक-चिह्न।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई सार्वजनिक विश्वविद्यालय का प्रतीक-चिह्न (Universiti Malaysia Sabah कुलाधिपति-भवन)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 कई छात्र अपने PTPTN प्रस्ताव दस्तावेज़ों पर एक ही धारणा के साथ हस्ताक्षर करते हैं: «यह मूल रूप से एक छात्रवृत्ति ही है, है न?» ऐसा नहीं है। और यही ग़लतफ़हमी अक्सर सबसे अधिक परेशानी का कारण बनती है — वर्षों बाद, जब स्नातक होने के बाद पहली चुकौती सूचना आती है।

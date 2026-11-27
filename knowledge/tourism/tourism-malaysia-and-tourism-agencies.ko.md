@@ -78,9 +78,16 @@ relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-and-culture-motac" }
   - { rel: "governs", to: "tourism-industry-act-1992" }
   - { rel: "related-to", to: "sarawak-tourism-board" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "getting-around-malaysia-for-tourists", "department-of-national-heritage"]
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
 framework: profile
+hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'
+heroAlt: '''Pusat Pelancongan Malaysia / Malaysia Tourism Centre''라고 적히고 MaTiC 히비스커스 로고가 있는 돌 기념물. 야자수로 둘러싸인 층층이 쌓인 항아리 분수 위에 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 "말레이시아, 진정한 아시아(Malaysia Truly Asia)" 광고가 눈길을 끌 때, 그 비용을 낸 것은 하나의 법정 기구입니다 — 그러나 여러분의 여행을 맡은 투어 운영업체가 애초에 이를 판매할 수 있는지는 다른 부처가 결정합니다. 말레이시아 관광은 분업으로 돌아가며, 누가 무엇을 하는지 아는 것이 많은 혼란을 덜어줍니다.

@@ -37,7 +37,7 @@ faq:
     a: "东盟是马来西亚外交政策的支柱或基础。马来西亚是东盟创始国之一，始终以东盟的完整性与中心地位（centrality）为优先，同时也活跃于联合国（UN）、伊斯兰合作组织（OIC）与不结盟运动（NAM）等其他论坛。"
 
 lang: "zh"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: '通往Wisma Putra的棕榈成行的大道，可见Wisma Putra Kementerian Luar Negeri Malaysia招牌和身后的部门塔楼'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: 宽广视角下的 Wisma Putra 建筑群入口，可见国旗和位于 Putrajaya 的门楼
+    kind: actual
+    origin: third-party
+    subject: 更广视角下的 Wisma Putra 入口和门楼，Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 当美国是马来西亚经济中最大的外国投资者，而中国却是它最大的贸易伙伴时，一个开放的小国无从选边站。这正是为什么数十年来，马来西亚的外交政策始终紧扣一个说来容易、守起来却很难的词：中立。每天负责维系这份平衡的部门，就是 Wisma Putra（外交部）。

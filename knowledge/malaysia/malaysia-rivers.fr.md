@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Les étudiants en géographie et en histoire de la Malaisie, et toute personne souhaitant comprendre pourquoi les principales villes du Sarawak, du Sabah et du Pahang se situent à des emplacements précis le long de leurs fleuves."
 
 lang: "fr"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'Une large rivière tropicale aux eaux brunes et boueuses serpentant entre des berges bordées de forêt tropicale verte et dense et de hauts roseaux, sous un ciel bleu éclatant aux nuages épars.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: La vaste et calme étendue de la rivière Rajang reflète un ciel du soir doré, bordée par les basses rives boisées du Sarawak qui s'estompent au loin.
+    kind: actual
+    origin: third-party
+    subject: La rivière Rajang au crépuscule dans le Sarawak, le plus long cours d'eau de Malaisie
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: L'étroite rivière Melaka s'écoule entre des maisons-boutiques colorées en bord de rivière et des promenades au fil de l'eau dans la vieille ville historique de Malacca.
+    kind: actual
+    origin: third-party
+    subject: La rivière Melaka serpentant à travers la vieille ville historique de Malacca
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 Avant l'existence de l'autoroute Pan Borneo ou des vols de MASwings, le seul moyen d'atteindre l'intérieur du Sarawak était de remonter le fleuve pendant des jours entiers. Les grandes villes d'aujourd'hui — Sibu, Kapit, Sandakan, Pekan — ne sont pas apparues à leur emplacement par hasard. Chacune se situe là où le fleuve en a décidé : à une embouchure, au confluent de deux cours d'eau, ou au point le plus éloigné encore navigable par bateau. Trois fleuves — le Rajang, le Kinabatangan et le Pahang — illustrent ce schéma avec la plus grande clarté.

@@ -99,6 +99,14 @@ drinkFacts:
   halal: "El teh tarik es un té sin alcohol que se vende en puestos mamak —comidas indomusulmanas— y en kopitiam, y en ese entorno mamak es una bebida halal, lo que es parte de por qué se convirtió en una bebida social compartida entre las comunidades. La garantía halal corresponde al establecimiento, así que los comensales que necesiten certificación deben comprobarlo en cada local."
   served: "Se sirve caliente y espumoso, estirado entre dos recipientes para enfriarlo, mezclarlo y airearlo. El «teh tarik» por defecto viene dulce con leche condensada; pide «teh-O» para té negro sin leche, «teh-C» para leche evaporada, «kurang manis» para menos azúcar, o «teh ais»/«teh peng» para la versión helada."
   where: "Se encuentra en puestos mamak, cafeterías kopitiam y pasar malam por todo el país, donde es la bebida social de cada día; «jom teh tarik» («vamos a por un teh tarik») tiene menos que ver con el té que con una invitación a sentarse a charlar."
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Una taza de vidrio transparente con té con leche espumoso (teh tarik) sobre una mesa de mármol"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 La escena es un elemento fijo de la vida malasia: un hombre en un puesto mamak sosteniendo

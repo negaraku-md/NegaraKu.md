@@ -96,6 +96,7 @@ dishFacts:
   halal: "Semangkuk tradisionalnya tidak halal: ia diberi topping daging babi cincang goreng dan kaldunya sering diperdalam dengan merebus ikan teri bersama tulang babi. Chilli pan mee dapat memakai ayam cincang alih-alih babi, jadi tanyakan ke tiap gerai."
   eat: "Hidangan ini hadir dengan dua cara. Versi sup menyajikan mi dan kaldu ikan teri bersama dalam satu mangkuk, hangat dan ringan; versi kering memisahkan kaldu di sisi dan mengaduk mi dengan bumbu seperti kecap asin gelap, saus XO, atau sambal. Untuk chilli pan mee, telur rebus setengah matang biasanya diaduk sehingga kuning telurnya melapisi mi, lalu penyantap menambahkan serpihan cabai kering tumbuk dari toples sesuai selera."
   where: "Anda menemukannya di kedai kopi di seluruh Semenanjung Malaysia bagian tengah dan selatan, termasuk Kuala Lumpur, Seremban, dan Ipoh, tempat sebuah gerai membentuk adonannya dengan tangan. Chilli pan mee sering dikaitkan dalam media kuliner secara khusus dengan Restoran Kin Kin di Kuala Lumpur, meski atribusi tepat itu tidak terdokumentasi dengan kokoh."
+wikidata: "Q4856836"
 ---
 
 Masuklah ke sebuah kedai kopi di Kuala Lumpur, Seremban, atau Ipoh dan Anda akan

@@ -36,7 +36,7 @@ socialTitle: "Puisi lisan tertua orang Melayu — kisah pantun dan warisan UNESC
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "Tanggal pasti asal usul seni berpantun tidak dapat dipastikan; pandangan sarjana yang paling kuat mengaitkannya dengan sekitar abad ke-15, yaitu sebelum Sejarah Melayu (~1612). Angka ini masih diperdebatkan dan bukan tanggal yang final."
   - "Batas panjang maksimum pantun berbait panjang berbeda antarsumber (sebagian menyebut hingga 16 baris, sebagian lain hingga sekitar 22 baris); jumlah yang pasti tidak seragam."
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Para penampil Melayu berbusana tradisional hijau dan emas dengan tutup kepala berhias, duduk di tanah dan melakukan gerakan tangan yang serempak saat pertunjukan dikir barat, dengan gendang di depan mereka.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: Wayang kulit berukir rumit yang menggambarkan tokoh mitos membentuk siluet tajam pada sebuah layar bercahaya saat pertunjukan wayang kulit Kelantan-Patani.
+    kind: actual
+    origin: third-party
+    subject: Wayang kulit gaya Kelantan-Patani
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: Sebuah ansambel gamelan Melayu berukir indah terdiri dari gong perunggu, gong berpencu, dan metalofon kayu yang dipajang di Museum Musik, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Ansambel gamelan Melayu di Museum Musik, Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

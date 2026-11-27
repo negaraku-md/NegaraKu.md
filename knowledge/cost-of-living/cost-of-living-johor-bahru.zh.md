@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,33 @@ relations:
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
+heroAlt: '夜晚的新山市天际线，一座亮灯的高楼立于新柔长堤旁，车流拖出光轨'
+heroCredit: 'Lionel Lim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: 新山武吉英达每周市集上一排排新鲜农产品摊位
+    kind: actual
+    origin: third-party
+    subject: 新山武吉英达的每周新鲜农产品市集
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: 新山市中心主要商业街黄亚福街沿街的商店与顾客
+    kind: actual
+    origin: third-party
+    subject: 黄亚福街,新山的主要商业街
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 在马来西亚全国最低薪金（每月 RM1,700）下工作的一名员工，可能就住在两条街外

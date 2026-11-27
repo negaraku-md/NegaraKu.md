@@ -33,7 +33,7 @@ faq:
     a: "दोनों प्रकार अंतरराष्ट्रीय विद्यार्थियों को लेने के लिए स्वीकृत हो सकते हैं, लेकिन वे विद्यार्थी पास ढाँचे के अलग-अलग हिस्सों के अंतर्गत आते हैं और आमतौर पर इसमें भिन्न होते हैं कि कौन-से कार्यक्रम और प्रवेश-क्षमता विदेशी आवेदकों बनाम घरेलू आवेदकों के लिए खुली है। आवेदन करने से पहले संस्थान के अंतरराष्ट्रीय कार्यालय से सीधे पुष्टि करें कि आपके लक्षित कार्यक्रमों में से कौन-सा गैर-नागरिक नामांकन के लिए खुला है।"
 
 lang: "hi"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,38 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'यह उस भावी अंतरराष्ट्रीय छात्र के लिए है जो ऑफर स्वीकार करने और छात्र-वीज़ा की प्रक्रिया शुरू करने से पहले किसी मलेशियाई संस्थान और कार्यक्रम का चयन कर रहा है।'
+  how: 'सबसे पहले दो अलग-अलग द्वार पार करें: कार्यक्रम मलेशियाई योग्यता एजेंसी (MQA) द्वारा मलेशियाई योग्यता रजिस्टर (MQR) पर प्रत्यायित हो, और संस्थान स्वयं उच्च शिक्षा मंत्रालय (MOHE) द्वारा विदेशी छात्रों को दाख़िला देने के लिए अनुमोदित हो। ऐसे ही किसी संस्थान का हस्ताक्षरित ऑफर लेटर ही Student Pass की प्रक्रिया शुरू करता है, जिसे Education Malaysia Global Services (EMGS) के पास संस्थान जमा करता है — आप नहीं।'
+  cost: 'शिक्षण शुल्क संस्थान और कार्यक्रम के अनुसार बहुत भिन्न होता है, और Student Pass के साथ अलग EMGS तथा वीज़ा शुल्क जुड़े होते हैं जो समय-समय पर संशोधित होते हैं, इसलिए किसी बताए गए आँकड़े के बजाय वर्तमान राशियों की पुष्टि संस्थान और EMGS पोर्टल (educationmalaysia.gov.my) से करें।'
+  watch: 'MQA कार्यक्रम प्रत्यायन और विदेशी छात्रों को दाख़िला देने की संस्थागत अनुमति दो अलग-अलग जाँचें हैं — एक पूरी तरह प्रत्यायित कार्यक्रम किसी ऐसे संस्थान में हो सकता है जिसे आपको दाख़िला देने की अनुमति नहीं है। अंग्रेज़ी माध्यम में पढ़ाई EMGS के अलग अंग्रेज़ी-दक्षता प्रमाण की जगह नहीं लेती।'
+  next: 'संस्थान के अंतरराष्ट्रीय कार्यालय से दोनों द्वारों की लिखित पुष्टि करें, ऑफर स्वीकार करें, फिर EMGS के ज़रिए Student Pass की प्रक्रिया अपनाएँ। देखें Student Pass, मलेशिया में पढ़ाई, और MQA प्रत्यायन की व्याख्या।'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'मोनाश यूनिवर्सिटी मलेशिया परिसर का प्रवेश-द्वार, जिसमें "MONASH University" लिखी ढकी हुई पैदल राह दो बेज रंग के शैक्षणिक खंडों को काँच के आकाश-सेतु से जोड़ती है।'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: University of Nottingham Malaysia का नामांकित, हरियाली से घिरा मुख्य प्रवेशद्वार, एक ब्रिटिश शाखा परिसर जो कई अंतरराष्ट्रीय विद्यार्थियों को प्रवेश देता है।
+    kind: actual
+    origin: third-party
+    subject: University of Nottingham Malaysia का मुख्य प्रवेशद्वार
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Xiamen University Malaysia के स्तंभ-युक्त मुख्य भवन पर दोपहर की धूप, कुआलालंपुर के निकट एक चीनी शाखा परिसर जो विदेशों से विद्यार्थियों को आकर्षित करता है।
+    kind: actual
+    origin: third-party
+    subject: Xiamen University Malaysia परिसर, सेपांग
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 गलत प्रकार के संस्थान का प्रस्ताव-पत्र वीज़ा के लिए बेकार है, भले ही कार्यक्रम स्वयं पूरी तरह मान्यता-प्राप्त हो। वही अंतर — मान्यता-प्राप्त कार्यक्रम बनाम अंतरराष्ट्रीय-विद्यार्थियों-के-लिए-स्वीकृत संस्थान — वहाँ है जहाँ से अधिकांश उलझन शुरू होती है, किसी के EMGS फ़ॉर्म भरने से काफ़ी पहले।

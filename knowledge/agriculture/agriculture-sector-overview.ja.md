@@ -37,7 +37,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 
 status: "published"
 aiAssisted: true
@@ -103,6 +103,32 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'マレーシアのスキンチャンにある青々とした水田と、地平線まで続く灌漑用水路。'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: パハン州キャメロンハイランドのベルタム渓谷の斜面に広がる段々畑の野菜農場とビニールトンネル
+    kind: actual
+    origin: third-party
+    subject: パハン州キャメロンハイランド、ベルタム川流域の高地野菜農場
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: キャメロンハイランドのカンポン・ラジャにある高地の村を見下ろす、陽光を浴びた段々の葉物野菜畑
+    kind: actual
+    origin: third-party
+    subject: パハン州キャメロンハイランド、カンポン・ラジャの露地野菜農場
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 2024年、マレーシアは1億トンを超えるアブラヤシの生果房（FFB）を生産した——マレーシア統計局（Jabatan Perangkaan Malaysia、DOSM）によれば約1億20万トン——これは同国が世界二大パーム油生産国の一角であり続けるのに十分な量である。同じ年、この国は国民が食べる米のほぼ半分を輸入した。

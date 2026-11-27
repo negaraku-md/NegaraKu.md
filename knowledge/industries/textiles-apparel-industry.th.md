@@ -31,7 +31,7 @@ faq:
   - q: มีสิทธิประโยชน์อะไรสนับสนุนการลงทุนด้านสิ่งทอและเครื่องนุ่งห่ม?
     a: MIDA บริหารการอนุมัติใบอนุญาตการผลิตและสิทธิประโยชน์ทางภาษีสำหรับกลุ่มย่อยนี้ ซึ่งเป็นพื้นที่สำคัญภายใต้แผนแม่บทอุตสาหกรรมฉบับใหม่ 2030 (NIMP 2030) ตั้งแต่ไตรมาสแรกของปี 2026 การลงทุนที่เข้าเกณฑ์อยู่ภายใต้กรอบสิทธิประโยชน์การลงทุนใหม่ (New Investment Incentive Framework) ที่อิงผลลัพธ์ โดยมีสิทธิประโยชน์เป็นลำดับขั้นผูกกับผลลัพธ์ เช่น เทคโนโลยี ทักษะ และการเชื่อมโยงในประเทศ ควรยืนยันอัตราและเงื่อนไขปัจจุบันกับ MIDA
 lang: th
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'คนงานกำลังเย็บและตกแต่งเสื้อผ้าตามสายการประกอบภายในโรงงานตัดเย็บเสื้อผ้า'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: ภาพระยะใกล้ของผ้าทอลวดลายวิจิตร มีแผงสีแดงตรงกลางเป็นลายดอกไม้ยกทองหนาแน่น ขนาบด้วยขอบสีแดงเลือดหมูที่มีลายข้าวหลามตัดและดาวสีทอง
+    kind: actual
+    origin: third-party
+    subject: รายละเอียดของผ้าซงเก็ต (songket) ของชาวมลายูจากตรังกานูที่ทอด้วยด้ายโลหะสีทอง งานหัตถกรรมชั้นนำของมรดกสิ่งทอมาเลเซีย
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: กี่ทอมือไม้ในโรงงานผนังอิฐ โครงขึงด้วยเส้นด้ายยืนและมีหลอดด้ายสีแดง เขียวและน้ำเงินเรียงเป็นแถว โดยมองเห็นช่างทอบางส่วนกำลังทำงานอยู่อีกฝั่งหนึ่ง
+    kind: representative
+    origin: third-party
+    subject: ช่างทอกำลังทำงานกับกี่ไม้ที่ขึงด้วยหลอดด้ายสีต่าง ๆ ในโรงทอผ้า แทนการทอผ้าในอุตสาหกรรมสิ่งทอ
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 นานก่อนที่มาเลเซียจะเป็นที่รู้จักในเรื่องชิปคอมพิวเตอร์และน้ำมันปาล์ม ประเทศนี้ผลิตผ้าและเสื้อผ้า อุตสาหกรรมสิ่งทอ เครื่องนุ่งห่ม และรองเท้าเป็นหนึ่งในภาคการผลิตสมัยใหม่ที่เก่าแก่ที่สุดของประเทศ — ธุรกิจแบบใช้แรงงานเข้มข้นและมุ่งส่งออกที่ช่วยจุดชนวนการพัฒนาอุตสาหกรรมในทศวรรษ 1970 และ 1980 ทุกวันนี้มันเป็นส่วนเล็กกว่าของเศรษฐกิจที่ใหญ่กว่ามาก แต่ยังคงเป็นนายจ้างจริง ผู้ส่งออกที่มั่นคง และเป็นภาคที่รัฐบาลกำลังพยายามปรับโฉมอย่างแข็งขัน

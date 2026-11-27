@@ -29,7 +29,7 @@ faq:
     a: "இல்லை. அரசாங்க தொடக்கப் பள்ளி மற்றும் இடைநிலைப் பள்ளிக் கல்வி கல்விக் கட்டணம் விதிப்பதில்லை. சிறப்புக் கட்டணமோ SPI Bil. 13/2007 மூலம் 2008 முதல் ஒழிக்கப்பட்டுவிட்டது."
 
 lang: "ta"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'குவாலாலம்பூர் பிரிக்ஃபீல்ட்ஸில் உள்ள ஒரு தொடக்கப் பள்ளியின் சிவப்பு கூரையிட்ட தாழ்ந்த கட்டிடங்களும் பசுமையான மைதானமும், கேஎல் சென்ட்ரலின் வானுயர்ந்த கட்டிடத் தொடுவானத்தைப் பின்னணியாகக் கொண்டு.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: கல் பதித்த கூட்ட முற்றத்துடன் கூடிய பல மாடி மலேசிய இடைநிலைப் பள்ளிக் கட்டிடம்
+    kind: representative
+    origin: third-party
+    subject: மலேசியத் தேசிய இடைநிலைப் பள்ளிக் கட்டிடம் (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: பெற்றோர்-ஆசிரியர் சங்கத்தின் (PIBG) கூட்டத்திற்காகப் பெற்றோரும் ஆசிரியர்களும் பள்ளி மண்டபத்தில் ஒன்றுகூடியிருக்கிறார்கள்
+    kind: representative
+    origin: third-party
+    subject: மலேசியப் பள்ளியொன்றில் பெற்றோர்-ஆசிரியர் சங்கத்தின் (PIBG) பொதுக் கூட்டம்
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 உங்கள் குழந்தை “இலவச” அரசாங்கப் பள்ளியில் பதிவு செய்யப்பட்டுள்ளது — ஆனால் PIBG படிவங்களும் கட்டணப் பட்டியல்களும் வீட்டுக்கு வந்து சேர்கின்றன. அப்படியானால் உண்மையில் எது கட்டாயம் செலுத்த வேண்டியது, எது அல்ல?

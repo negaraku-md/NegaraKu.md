@@ -34,7 +34,7 @@ faq:
     a: "มาเลเซียอยู่อันดับ 26 ในดัชนีสมรรถนะโลจิสติกส์ของธนาคารโลก 2023 เพิ่มขึ้นจากอันดับ 41 ในปี 2018 และอันดับสองในบรรดาชาติอาเซียนรองจากสิงคโปร์"
 
 lang: "th"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'เครนยกตู้สินค้าหน้าท่าเรียงเป็นแถวกำลังขนถ่ายตู้คอนเทนเนอร์ที่ท่าเรือตันจุงเปเลปัสในรัฐยะโฮร์ ประเทศมาเลเซีย'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: เครนคานล้อยางคร่อมแถวตู้คอนเทนเนอร์ที่วางซ้อนกันที่ท่าเทียบเรือตู้สินค้านานาชาติบินตูลู รัฐซาราวัก ประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: เครนคานล้อยางคร่อมตู้คอนเทนเนอร์ที่ท่าเทียบเรือตู้สินค้านานาชาติบินตูลู รัฐซาราวัก ประเทศมาเลเซีย
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: ตู้คอนเทนเนอร์หลากสีวางซ้อนกันบนดาดฟ้าเรือบรรทุกตู้สินค้าที่เทียบท่าที่ท่าเรือกลัง รัฐเซอลาโงร์ ประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: ตู้คอนเทนเนอร์ที่บรรทุกบนเรือที่ท่าเรือกลัง ประเทศมาเลเซีย
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang ขนย้ายตู้คอนเทนเนอร์ 15.14 ล้านตู้ในปี 2025 — มากพอที่จะแซงฮ่องกงและทะลุเข้าสู่กลุ่มท่าเรือที่คึกคักที่สุดสิบอันดับแรกของโลกเป็นครั้งแรก ท่าเรือมาเลเซียแห่งที่สองคือ Tanjung Pelepas ขนย้ายอีก 14 ล้านตู้ ตัวเลขทั้งสองไม่ได้บรรยายถึงประเทศที่ผลิตสินค้าเหล่านั้นเป็นส่วนใหญ่ แต่บรรยายถึงประเทศที่ตั้งอยู่ในที่ที่ถูกต้องและได้เรียนรู้ที่จะเก็บค่าเช่าจากการค้าของโลก

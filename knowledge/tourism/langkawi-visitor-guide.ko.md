@@ -36,7 +36,7 @@ faq:
     a: "더 건조하고 잔잔한 구간은 대략 11월부터 3월까지로, 섬 호핑, 케이블카, 해변 시간에 가장 좋습니다. 9월과 10월은 대체로 가장 비가 많은 달이지만, 비는 보통 온종일 쏟아지기보다 짧은 열대성 소나기입니다."
 
 lang: "ko"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: '세계적 수준의 다이빙보다 해변, 면세 쇼핑, UNESCO 지질공원 — 스카이캡(SkyCab) 케이블카, 스카이브리지(SkyBridge), 맹그로브 섬 호핑 — 을 원하는 첫 방문자, 가족, 다양한 관심사의 여행자에게 적합합니다.'
+  getThere: '랑카위 국제공항(LGK)으로 들어오거나, 본토 선착장인 쿠알라 크다(Kuala Kedah)와 쿠알라 프를리스(Kuala Perlis)에서 여객 페리로 쿠아 선착장(Kuah Jetty)으로 건너갑니다.'
+  permit: '랑카위의 면세 가격은 섬 안에서만 적용되며, 본토로 가지고 돌아가는 물품은 최소 체류 요건을 두고 면세로 들여올 수 있는 주류·담배·기념품을 제한하는 말레이시아 국가 여행자 면세 한도의 적용을 받습니다.'
+  watch: '집으로 가져갈 면세 주류를 과하게 사지 마십시오 — 저렴한 가격은 섬에서 즐기라는 것이고, 본토에서는 제한된 한도만 통관됩니다.'
+  next: '현재의 페리 시간표는 페리 운영사에, 면세 한도는 말레이시아 관세청(RMCD)에 확인하십시오.'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: '안다만해 위 정글로 덮인 산봉우리들 사이에 높이 매달린 곡선형 랑카위 스카이 브리지'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: 청록빛 바다 옆 판타이 쯔낭의 백사장을 야자수와 검은 바위가 감싸고 머리 위로 패러세일이 떠 있는 풍경
+    kind: actual
+    origin: third-party
+    subject: 야자수와 청록빛 바다가 어우러진 판타이 쯔낭 해변
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: 랑카위 섬에서 울창한 열대우림 위를 미끄러지며 마리나와 청록빛 만을 내려다보는 빨간 스카이캡 곤돌라
+    kind: actual
+    origin: third-party
+    subject: 정글과 마리나 위를 지나는 랑카위 스카이캡 케이블카
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 99개의 섬, 물고기보다 오래된 암석, 저렴한 위스키, 그리고 5억 5천만 년 이상으로 추정되는 암석으로 이루어진 산 옆구리에 매달린 케이블카 — 랑카위는 말레이시아 북서쪽 끝 앞바다의 한 군도에 이례적으로 많은 것을 담고 있습니다. 이곳은 이 나라의 대표적인 서해안 휴양 섬으로, 반도 반대편의 야자수로 둘러싸인 다이빙 섬들과는 거의 정반대의 논리로 움직입니다. 이 가이드는 출발 전에 실제로 중요한 것을 다룹니다. 사람들이 걸려드는 면세 규정, 풍경에 배경 이야기를 주는 유네스코 지질공원, 스카이캡과 스카이브리지, 가볼 만한 보트 투어, 그리고 랑카위와 동해안 사이에서 결정하는 법입니다.

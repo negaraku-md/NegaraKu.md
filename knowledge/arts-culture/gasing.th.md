@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจวิธีการเล่นกาสิง ความแตกต่างระหว่างกาสิงปังกะฮ์กับกาสิงอูรี และความเชื่อมโยงกับมรดกของชายฝั่งตะวันออก"
 
 lang: "th"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,34 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "permainan tradisional Melayu", "warisan kebangsaan", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'ลูกข่างกาซิงมลายูทรงจานสองลูกทำจากไม้เคลือบแลคเกอร์สีแดง แต่ละลูกพันแน่นด้วยเชือกเหวี่ยงสีขาว วางบนกล่องสีดำแกะสลักและผ้าบาติกสีม่วงปนทองสดใส พร้อมลูกข่างกาซิงเรียบที่หนักกว่าวางข้างๆ'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: ลูกข่างไม้กลึงใหม่สองลูกสีอ่อนทรงจานแบนคลาสสิกพร้อมปุ่มนูนตรงกลาง วางอยู่บนกองขี้กบไม้ข้างด้ามจับทรงกระบอกเรียบสำหรับเหวี่ยง ท่ามกลางแสงแดดอบอุ่น
+    kind: actual
+    origin: third-party
+    subject: ลูกข่างกาซิงแบบมลายูที่กลึงใหม่สองลูกพร้อมด้ามสำหรับเหวี่ยง
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: เด็กชายในชุดวอร์มสีส้มโน้มตัวไปข้างหน้าขณะเหวี่ยงลูกข่างออกจากเชือกสีขาวยาวลงบนแผ่นไม้ โดยมีลูกข่างที่หมุนอยู่แล้ววางอยู่บนแผ่นไม้ ขณะฝูงผู้ชมเฝ้าดูอย่างใกล้ชิดอยู่ด้านหลัง
+    kind: representative
+    origin: third-party
+    subject: ผู้เข้าแข่งขันรุ่นเยาว์เหวี่ยงลูกข่างกาซิงด้วยเชือกในการแข่งขันลูกข่างแบบดั้งเดิม
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 เสียงมาถึงก่อน — เสียงกระแทกของไม้หนักปะทะไม้หนัก ตามด้วยเสียงเชียร์ ที่ลานกลางหมู่บ้านแห่งหนึ่งรอบกัวลาเนอรุส (Kuala Nerus) รัฐตรังกานู กลุ่มสองกลุ่มยืนประจันหน้ากัน คนหนึ่งขว้างลูกข่างของตนด้วยเชือก อีกลูกหนึ่งกำลังหมุนรออยู่บนพื้น ผู้ชนะไม่ใช่คนที่เร็วที่สุด — แต่คือคนที่ลูกข่างยังคงหมุนอยู่หลังถูกกระแทก

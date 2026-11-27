@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 
 status: "published"
 aiAssisted: true
@@ -87,9 +87,35 @@ entity: "Nicol David"
 wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: '马来西亚壁球冠军妮科尔·戴维（Nicol David）在一场锦标赛中伸展身体击出一记正手球。'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: 为一项职业壁球赛事在竞技馆内搭建的全玻璃表演球场，灯光通明，从四周层叠的看台望去。
+    kind: representative
+    origin: third-party
+    subject: 为一项职业壁球赛事搭建的玻璃表演球场
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: 一场大型壁球赛事中，两名选手在一座宏伟大厅内的玻璃壁球场上对决，四周挤满观众。
+    kind: representative
+    origin: third-party
+    subject: 在挤满观众的玻璃球场上进行的一场职业壁球比赛
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 连续九年，全球最出色的壁球选手都来自槟城。妮科尔·大卫不仅在马来西亚最成功的个人项目中屡屡夺冠——她更重新定义了何谓在这项运动中的统治力，连续 **108个月** 位居世界第一，直至2015年9月，创下这项运动有史以来最长的不间断纪录。

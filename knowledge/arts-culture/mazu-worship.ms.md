@@ -29,7 +29,7 @@ faq:
   - q: "Adakah memuja Mazu tergolong dalam Taoisme atau Buddhisme?"
     a: "Mazu terutamanya tergolong dalam Taoisme dan kepercayaan rakyat Cina, dan sering dipuja bersama dewa-dewa lain; dalam sesetengah konteks Buddha juga terdapat pemujaan terhadap Mazu. Ramai orang Cina dari segi amalan tidak membezakan secara ketat antara Taoisme, Buddhisme dan kepercayaan rakyat, selaras dengan keadaan kepercayaan orang Cina Malaysia yang umumnya saling bercampur. Rencana ini hanya menerangkan fenomena kepercayaan dan tidak menilai maksud keagamaannya."
 lang: "ms"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'Tokong Thean Hou di Kuala Lumpur dengan ratusan tanglung merah tergantung berjuntai dari bumbung bertingkatnya, sebuah perasapan dihiasi naga di laman depan dan para penyembah di dewan utama.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: Bumbung dan fasad indah sebuah tokong Mazu Cina bersejarah di Kuala Terengganu, dengan hiasan naga di perabung
+    kind: actual
+    origin: third-party
+    subject: Ho Ann Kiong, sebuah tokong Mazu (Tian Hou, dewi laut) di Kuala Terengganu, antara tokong Cina tertua di Terengganu
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: Dewan altar utama sebuah tokong Mazu Hainan di George Town, dengan tanglung tergantung, colok dan kelengkapan altar bersadur emas
+    kind: actual
+    origin: third-party
+    subject: Altar dalaman Tokong Hainan di George Town, Pulau Pinang, sebuah tokong yang memuja dewi laut Mazu
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 Di atas sebuah bukit kecil di Robson Heights, Kuala Lumpur, berdiri sebuah tokong enam tingkat bertiang merah dan berbumbung genting berkaca yang menghadap bandar — inilah Thean Hou Temple, yang memuja dewi laut paling masyhur dalam dunia Cina: Mazu. Pada masa lalu, orang Cina yang datang ke selatan melalui laut kerap berdoa kepadanya memohon keselamatan sebelum dan selepas mengharungi lautan; hari ini, ia merupakan tokong tempat penganut menyemai colok, dan juga tempat anak jati Hainan berkumpul serta pelancong bergambar.

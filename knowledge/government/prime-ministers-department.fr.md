@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre ce qu'est réellement le Département du Premier ministre, pourquoi tant d'organismes fédéraux apparemment sans lien en relèvent, et en quoi il diffère d'un ministère ordinaire."
 
 lang: "fr"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,34 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Département du Premier ministre Malaisie", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "département du gouvernement fédéral Malaisie"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: 'Le bâtiment Perdana Putra à dôme, siège du Département du Premier ministre de Malaisie, sous un ciel nuageux spectaculaire à Putrajaya'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: Vue frontale symétrique de Perdana Putra avec des drapeaux malaisiens bordant le boulevard d'accès
+    kind: actual
+    origin: third-party
+    subject: Façade avant de Perdana Putra depuis le boulevard cérémoniel, Putrajaya
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: Le dôme vert de Perdana Putra s'élevant au-dessus d'un boulevard cérémoniel bordé d'arbres à Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Perdana Putra vu depuis l'allée d'accès paysagée, Putrajaya
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 La Malaisie ne dispose pas d'un ministère unique qui ferait tourner la machinerie

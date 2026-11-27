@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cha mẹ hoặc người giám hộ tại Malaysia đang cố hiểu các lựa chọn trông nom và giáo dục mầm non trước Lớp 1, cùng bất kỳ ai muốn thành lập một taska hoặc tadika và cần biết cơ quan chức năng liên quan."
 
 lang: "vi"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'Mặt trước của Tadika Al-Falah, một trường mầm non Malaysia ở Johor, với bảng chào mừng và bức tranh tường vẽ bảng chữ cái dọc theo bức tường.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: Lối vào và sân trước của Tadika Holy Trinity ở Tawau, Sabah, với biển hiệu, cờ dây đầy màu sắc và tranh tường hoạt hình được sơn vẽ; thấp thoáng vài em nhỏ ở sân chơi phía xa.
+    kind: representative
+    origin: third-party
+    subject: Mặt trước của một trường mẫu giáo (tadika) Malaysia trang trí cờ dây đầy màu sắc và tranh tường hoạt hình
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: Góc nhìn từ phố của Tadika St. Francis Xavier ở Keningau, Sabah, một tòa nhà mẫu giáo một tầng với hàng rào xanh và những bức tường vẽ tranh hoa, một con ong và một cây nấm.
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà một trường mầm non Malaysia được vẽ tranh tường thiếu nhi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 Nhiều cha mẹ đăng ký con vào "tadika" cạnh nhà — nộp biểu mẫu, trả học phí, xong. Nhưng câu hỏi hiếm khi được hỏi là: tadika đó đăng ký với ai? Câu trả lời không phải chuyện nhỏ nhặt. Tùy vào tuổi của trẻ và loại cơ sở, nó có thể nằm dưới hai bộ hoàn toàn khác nhau, với các luật, quy định và cách thực thi không giống nhau.

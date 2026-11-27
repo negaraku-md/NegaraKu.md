@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: '整備されたロータリーの大きな道路沿いの「Iskandar Puteri」のランドマーク看板。背後のスカイラインにオフィスや商業タワーと建設用クレーン'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: ジョホールのForest Cityを上空から見た様子で、建設中の海沿いの高層タワーと、海峡沿いの埋立地のビーチに並ぶ白いヴィラ棟の列が見える
+    kind: actual
+    origin: third-party
+    subject: ジョホール海峡沿いにあるジョホールの旗艦的な越境開発プロジェクトForest Cityで、シンガポールへ向かって水辺に面して建設中のタワーとヴィラ棟
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 二つの国が、国境を越えて一つの税制を共有することに合意した。それこそが、

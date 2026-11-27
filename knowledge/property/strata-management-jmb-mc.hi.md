@@ -35,7 +35,7 @@ faq:
     a: "किसी अधिनिर्णय का पालन न करना धारा 123 के तहत एक आपराधिक अपराध है — RM250,000 से अधिक न होने वाला जुर्माना या 3 वर्ष से अधिक न होने वाला कारावास या दोनों, तथा निरंतर अपराध के लिए प्रति दिन RM5,000 तक का अतिरिक्त जुर्माना। शिकायत भवन आयुक्त (COB) को की जाती है।"
 
 lang: "hi"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "प्रबंधन निगम", "संयुक्त प्रबंधन निकाय", "स्ट्रेटा प्रबंधन अधिकरण", "स्ट्रेटा प्रबंधन अधिनियम 2013", "रखरखाव शुल्क", "सिंकिंग फंड", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'कुआलालंपुर में ओरायन कॉन्डोमिनियम और स्काई रेजिडेंसेज की स्ट्रेटा गगनचुंबी इमारतें।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: बटरवर्थ, पेनांग में Harbour View पर आधुनिक स्ट्रेटा कोंडोमिनियम टावरों का एक समूह, वह प्रकार का विकास जिसे एक JMB या प्रबंधन निगम चलाता है
+    kind: representative
+    origin: third-party
+    subject: Harbour View, बटरवर्थ में स्ट्रेटा कोंडोमिनियम ऊँची इमारतों का एक समूह
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: गेलुगोर, पेनांग में The Oasis स्ट्रेटा कोंडोमिनियम का गेटेड प्रवेश, गार्डहाउस और साझा क्लबहाउस ब्लॉक, जिसके पीछे इसके आवासीय टावर हैं
+    kind: representative
+    origin: third-party
+    subject: गेलुगोर, पेनांग में The Oasis कोंडोमिनियम का पहरेदार प्रवेश और क्लबहाउस
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 आप एक कोंडोमिनियम यूनिट खरीदते हैं, लेकिन लिफ्ट, स्विमिंग पूल और कार-पार्क ड्राइववे का वास्तविक स्वामी कौन है — और किसे आपसे मासिक शुल्क वसूलने का अधिकार है? इसका उत्तर शासन की एक ऐसी परत में निहित है जिसके बारे में खरीदार विवाद उठने तक शायद ही कभी पढ़ते हैं: स्ट्रेटा प्रबंधन अधिनियम 2013 (Strata Management Act 2013 / Act 757) का ढाँचा।

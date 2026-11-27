@@ -32,7 +32,7 @@ faq:
     a: "FGV es un agronegocio integrado que abarca plantación (palma aceitera, caucho y energía renovable), aceites y grasas, azúcar, logística y servicios de apoyo, y productos de consumo. Según sus propias cifras, aporta alrededor del 3% de la producción mundial de aceite de palma crudo."
 
 lang: "es"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "exclusión de FGV", "privatización de FELDA", "aceite de palma Malasia", "Bursa Malaysia", "empresa de plantaciones", "colonos de FELDA"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Extenso palmeral de aceite maduro que asciende por una ladera con un camino de finca, distrito de Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: 'Un complejo de molino de aceite de palma (naves azules + chimeneas humeantes) enclavado entre colinas de palma aceitera: la parte de procesamiento del negocio. Sin personas.'
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: 'Un camión volquete cargado de racimos de fruta fresca (RFF) a la entrada de un molino («Kilang Apas Balung»): el tramo de cosecha/logística. Solo un trabajador diminuto y no identificable en el borde del encuadre.'
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 En 2012 era la niña mimada del mercado — una megacotización que durante un breve tiempo ocupó el segundo puesto del mundo por detrás de Facebook. Trece años después, la misma empresa se deslizó discretamente fuera de Bursa Malaysia a una fracción de su precio de debut, recomprada por la misma autoridad que la había sacado a bolsa.

@@ -32,7 +32,7 @@ faq:
     a: "रोक वह अवधि है जिसके दौरान आपको बिना स्वीकृति के घर दोबारा बेचने से मना किया जाता है। Residensi Wilayah 10-वर्षीय रोक और Rumah Selangorku 5-वर्षीय रोक लगाती है, ताकि सट्टेबाज़ी रुके और घर लक्षित समूह के लिए उपलब्ध बने रहें।"
 
 lang: "hi"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,9 +84,36 @@ entity: "Skim Rumah Mampu Milik Kerajaan"
 relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "home-loan-financing" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "ministry-of-housing-local-government-kpkt", "property-agents-and-fees"]
 keywords: ["किफ़ायती आवास", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "मलेशिया किफ़ायती आवास"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'बुकित जालिल में मलेशियाई सार्वजनिक-आवास फ़्लैटों के दो ऊँचे खंड, एक क्रीम और एक गुलाबी लाल छतों के साथ, जिनकी बालकनियाँ कपड़ों से लदी और सैटेलाइट डिशों से सजी हैं, चमकीली नीली आसमान के नीचे हरे पेड़ों की कतार के ऊपर उठते हुए'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: Bukit Jalil में क्रीम रंग, लाल छत वाले सार्वजनिक-आवास टावर ब्लॉकों की एक लंबी कतार, प्रत्येक इकाई पर अक्षर अंकित, कॉलोनी की सड़क किनारे खड़ी कारें, दूर हरियाली और शहर की क्षितिज-रेखा
+    kind: actual
+    origin: third-party
+    subject: Bukit Jalil, Kuala Lumpur में निवासी पार्किंग के साथ People's Housing Programme (PPR) ऊँचे फ़्लैटों की एक कतार
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: Kota Damansara में एक अकेला सरसों-सफ़ेद सार्वजनिक-आवास अपार्टमेंट ब्लॉक, बादल भरे आकाश के सामने नीचे से देखा गया, उसकी कई एक-जैसी इकाइयों पर खिड़की-ग्रिल और एयर-कंडीशनर, एक पेड़ की टहनी से घिरा
+    kind: actual
+    origin: third-party
+    subject: Kota Damansara, Selangor में एक PPR सार्वजनिक-आवास ब्लॉक (Gugusan Kemuning)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 आपका वेतन महीने का RM4,000 है और शहर में एक टैरेस घर की क़ीमत पहले ही आधे मिलियन रिंगिट पर पहुँच चुकी है — तो आपको ढूँढना कहाँ से शुरू करना चाहिए? इसका उत्तर कोई एक योजना नहीं, बल्कि सरकारी योजनाओं की एक सूची है, जिनमें से प्रत्येक एक भिन्न आय-बैंड को लक्ष्य करती है। ग़लत योजना चुनने का मतलब है ऐसे घर की बैलट का महीनों इंतज़ार करके समय बरबाद करना जिसके लिए आप शुरू से पात्र ही नहीं थे।

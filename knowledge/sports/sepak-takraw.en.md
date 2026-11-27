@@ -36,7 +36,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 
 status: "published"
 aiAssisted: true
@@ -99,9 +99,35 @@ wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "sukma-games", "national-sports-council-msn"]
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'A young player in Malaysia raises a high kick to the woven rattan sepak takraw ball in mid-air.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: Sepak takraw players leaping to kick a rattan ball across the net in a tight exchange during a women's match at the Asian Games.
+    kind: representative
+    origin: third-party
+    subject: Sepak takraw players contesting the net during an Asian Games match
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: Close-up of woven rattan sepak takraw balls, the traditional interlaced ball used to play the sport.
+    kind: representative
+    origin: third-party
+    subject: Woven rattan sepak takraw balls
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 Picture volleyball, then take away every player's hands. What remains — the

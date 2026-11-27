@@ -60,6 +60,32 @@ social:
 verificationNeeded: []
 framework: history-culture
 wikidata: "Q887803"
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: 'A golden-domed white mosque with a tall minaret glows above its lagoon and ceremonial stone barge at dusk.'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: Clusters of wooden stilt houses and connecting walkways spread across the calm Brunei River, the centuries-old water village at the historic heart of Brunei's capital.
+    kind: actual
+    origin: third-party
+    subject: Kampong Ayer, the historic stilt water village on the Brunei River, Bandar Seri Begawan
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: The Lapau, Brunei's royal ceremonial hall where the sultans are crowned, set among landscaped gardens and flowering shrubs in Bandar Seri Begawan.
+    kind: actual
+    origin: third-party
+    subject: The Lapau, Brunei's royal ceremonial hall, in Bandar Seri Begawan
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 Stand on the waterfront at Bandar Seri Begawan today and Brunei looks small: a wealthy, oil-rich sultanate wrapped around two slivers of the Borneo coast, close enough to drive across in an afternoon. It is easy to forget that this is the surviving fragment of an empire — that five centuries ago a Sultan of Brunei could claim tribute from harbours strung along most of the island's northern and western shores, and that two of the Malaysian states you can reach from here by road, Sarawak and Sabah, were once his to give away. The story of how a Borneo sea-kingdom rose, reached its peak, and then handed over those coasts piece by piece is one of the essential threads of Malaysian history — even though Brunei itself never became part of Malaysia.

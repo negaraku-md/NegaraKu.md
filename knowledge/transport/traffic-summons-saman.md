@@ -72,6 +72,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'Seorang pegawai polis trafik Malaysia berdiri menulis di sebelah motosikal peronda POLIS putihnya di persimpangan bandar Kuala Lumpur yang sibuk.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: Pegawai polis berpakaian seragam berdiri di sekatan jalan raya di atas jalan, memeriksa kenderaan ketika kenderaan perlahan hingga berhenti di pusat pemeriksaan
+    kind: actual
+    origin: third-party
+    subject: sekatan jalan raya polis Malaysia tempat pegawai menghentikan dan memeriksa kenderaan
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: Seorang pegawai polis trafik Malaysia memakai jaket pemantul cahaya dan topi keledar berdiri di jalan bandar mengawal kenderaan yang lalu
+    kind: actual
+    origin: third-party
+    subject: seorang pegawai polis trafik bertugas mengawal lalu lintas di sebuah jalan di Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 Seorang pemandu boleh menerima empat jenis saman yang kelihatan serupa di atas kertas — tetapi datang daripada empat pihak yang berbeza, dan mesti disemak di empat tempat yang berbeza. Ramai yang cuma tahu satu portal, lalu menyangka saman mereka "hilang" sedangkan ia sebenarnya duduk di sistem lain.

@@ -26,7 +26,7 @@ appliesTo: "マレーシアのキリスト教——その人口、どこに集�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: マレーシア・キリスト教連盟とは何で、どの団体をまとめているのですか?
     a: 1985年に結成されたマレーシア・キリスト教連盟(Christian Federation of Malaysia、CFM)は、主要な統括団体です。マレーシアのキリスト教の三つの潮流、すなわちカトリック司教協議会(Catholic Bishops' Conference)、マレーシア教会協議会(Council of Churches of Malaysia、主流派プロテスタント)、全国福音主義キリスト教フェローシップ(National Evangelical Christian Fellowship)をまとめています。CFMは、国内の教会の95%以上を代表しているとしており、その多くはサバ州とサラワク州のマレー語を話す会衆です。
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'マラッカのセントポールの丘（St Paul''s Hill）に立つ16世紀のセントポール教会（St Paul''s Church）の白く塗られた石造りの廃墟。手前には聖フランシスコ・ザビエル（St Francis Xavier）の大理石像が立つ。'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: クアラルンプールのムルデカ広場の傍らに建つ、白いゴシック・リバイバル様式の聖マリア座堂（聖公会の教会）
+    kind: actual
+    origin: third-party
+    subject: 聖マリア聖公会座堂、クアラルンプール
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: サバ州タワウにある現代的な聖三位一体カトリック教会。東マレーシアのキリスト教徒社会を象徴する
+    kind: actual
+    origin: third-party
+    subject: 聖三位一体カトリック教会、サバ州タワウ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 マレーシアのキリスト教の物語には二つの重心があり、そのどちらも首都にはない。

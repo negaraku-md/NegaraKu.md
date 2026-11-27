@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara yang mencari hutan hujan tropika purba — laluan kanopi puncak pokok, pendakian hutan, pondok memerhati hidupan liar dan perjalanan sungai — berpangkalan di pintu masuk Kuala Tahan di Pahang.'
+  getThere: 'Mengembara melalui jalan darat ke Jerantut di Pahang, kemudian naik bot menyusur Sungai Tembeling dari jeti Kuala Tembeling ke Kuala Tahan, dengan sambungan jalan terus sebagai alternatif.'
+  permit: 'Setiap pelawat mendaftar untuk permit masuk PERHILITAN ketika ketibaan di jeti atau kaunter taman, membayar lesen kamera yang berasingan, dan mesti menggunakan pemandu berlesen untuk pendakian Gunung Tahan.'
+  watch: 'Monsun timur laut boleh membuak sungai serta mengganggu bot dan denai, laluan kanopi pernah ditutup, dan lintah serta kelembapan sentiasa ada — sahkan akses dan tempah pemandu lebih awal.'
+  next: 'Sahkan peraturan dan yuran permit serta kemasukan semasa dengan pejabat Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) di Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Bukit berhutan hujan tropika padat terbentang ke ufuk di bawah langit biru di Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Seorang pengunjung merentasi laluan kanopi sempit bertali dan berpapan yang tergantung antara pokok hutan hujan tinggi di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Jambatan gantung laluan kanopi tinggi di puncak pokok hutan hujan di Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Perahu panjang kayu di Sungai Tembeling di sebelah tebing sungai berhutan dengan kabus di atas bukit di Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sungai Tembeling dengan perahu panjang di jeti Taman Negara pada kabus pagi
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Berdiri di jeti Kuala Tahan pada waktu subuh, memerhati kabus mengangkat dari sebatang sungai yang lebih tua daripada Banjaran Himalaya, mudah untuk lupa bahawa anda hanya sejauh setengah hari dari Kuala Lumpur. Taman Negara bukanlah tarikan buatan. Ia sebuah hutan hujan tropika yang hidup, yang telah berdiri, secara amnya tanpa gangguan, selama berpuluh-puluh juta tahun — dan memasukinya lebih murah dan lebih mudah daripada yang dijangkakan oleh hampir mana-mana pengembara.

@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "압둘라 아맛 바다위"
-seoTitle: 압둘라 아맛 바다위
+seoTitle: "압둘라 아맛 바다위: 말레이시아의 제5대 총리 (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]
@@ -70,6 +70,13 @@ verificationNeeded:
   - "최근 정치 인물; 이슬람 하다리(Islam Hadhari) 개념(종교)과 선거 결과는 중립적으로 요약되었습니다 — 1차 자료와 다시 대조하고 발행 전 사람 검토자의 승인을 요구하십시오."
   - "그의 사망 날짜(2025년 4월 14일, 쿠알라룸푸르 국립심장센터에서 85세로 보고됨 — 주의: 처음 제공된 2025년 4월 20일 날짜는 잘못된 것으로 보임)와 모든 재임 날짜를 발행 전에 1차 자료와 대조하여 확인하십시오."
 framework: profile
+hero: '/media/malaysia/abdullah-ahmad-badawi/hero.webp'
+heroAlt: '침착한 표정의 압둘라 아마드 바다위가 짙은 색 정장과 오픈칼라 셔츠 차림으로 세계경제포럼 배경 앞에 앉아 생각에 잠긴 듯 위를 바라보고 있다.'
+heroCredit: 'World Economic Forum / swiss-image.ch / Gian Vaitl / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abdullah_Badawi_2007.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 [마하티르 모하맛(Mahathir Mohamad)](/ko/malaysia/mahathir-mohamad)의 길고 강력한 총리직에 뒤이어, 2003년 말 말레이시아는 사뭇 다른 유형의 지도자를 물려받았습니다: 명령보다 협의를, 대형 프로젝트보다 깨끗한 정부를, 그리고 더 부드러운 공적 어조를 약속한, 페낭(Penang) 출신의 조용한 전직 공무원이었습니다. 거의 모두에게 그저 **"팍 라(Pak Lah)"**로 불린 압둘라 아맛 바다위(Abdullah Ahmad Badawi)는 호의의 물결을 타고 이 나라의 **제5대 총리**가 되어, 말레이시아 역사상 가장 큰 선거 위임 가운데 하나를 얻었고, 그로부터 5년 뒤에는 나라의 정치를 재편한 선거를 주재했습니다.

@@ -28,7 +28,7 @@ faq:
     a: "아닙니다. 세팡은 2017년까지 포뮬러 1 그랑프리를 개최했으며, 현재 서킷은 MotoGP와 기타 모터스포츠 행사에 주력하고 있습니다."
 
 lang: "ko"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,36 @@ entity: "Gelanggang sukan utama Malaysia"
 relations:
   - { rel: "administered-by", to: "perbadanan-stadium-malaysia" }
   - { rel: "related-to", to: "kl-sports-city" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "malaysia-cup-domestic-football-leagues"]
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: '부킷 잘릴 국립경기장의 웅장한 회색·흰색 입구 아치, 꼭대기에 ''STADIUM BUKIT JALIL'' 글자가 있고 무어 양식의 타공 스크린 아치가 흐린 하늘 아래 뒤편 경기장 보울을 감싸는 모습'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: 밤의 부킷 잘릴 국립경기장 드넓은 내부. 초록 경기장과 빨간 육상 트랙을 빙 둘러 가득 찬 관중 위로 휘어진 흰색 장력 지붕에 조명이 들어와 있다
+    kind: actual
+    origin: third-party
+    subject: 밤 경기를 위해 가득 찬 부킷 잘릴 국립경기장의 내부 그릇과 장력 지붕
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: 곡선 유리 입구 위로 Axiata arena 이름과 로고를 단, 부킷 잘릴 악시아타 아레나의 은빛 루버 외벽. 회색 하늘 아래 어린나무들이 양옆에 서 있다
+    kind: actual
+    origin: third-party
+    subject: 부킷 잘릴 국립스포츠단지의 실내 경기장 악시아타 아레나의 외관
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 축구 결승전 밤에 85,500명의 관중이 TM 국립경기장의 3층 곡선 스탠드를 가득 메울 때, 그들은 말레이시아 스포츠 기반시설의 가장 거대한 상징 안에 앉아 있는 셈입니다. 그러나 이곳은 국가의 주요 행사를 담당하는 여러 경기장 가운데 하나일 뿐입니다.

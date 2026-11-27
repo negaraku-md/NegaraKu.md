@@ -102,9 +102,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 为一双鞋分三个月付款，或以10%首付把新车开回家——这是马来西亚人两种常见的信贷交易，但直到最近，它们分别受截然不同的法律世界所管辖。如今，两者几乎在同一时间被重新整顿。

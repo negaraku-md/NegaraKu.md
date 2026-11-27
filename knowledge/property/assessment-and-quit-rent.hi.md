@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "प्रायद्वीपीय मलेशिया के घर-स्वामी, भूमि-स्वामी और संपत्ति-ख़रीदार जिन्हें अपने वार्षिक संपत्ति-कर बिलों को समझना है।"
 
 lang: "hi"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["संपत्ति मूल्यांकन कर", "cukai pintu", "भूमि-कर", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "राष्ट्रीय भूमि संहिता", "Kanun Tanah Negara", "स्थानीय प्राधिकरण", "भूमि कार्यालय"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'सेरेम्बान में एक मलेशियाई आवासीय बस्ती में बाड़ के पीछे आधुनिक दोमंज़िला कतारबद्ध मकानों की एक पंक्ति।'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: दो-मंज़िला टैरेस मकानों की एक कतार एक शांत मलेशियाई आवासीय गली के किनारे खड़ी है, यह वही प्रकार की भू-संपत्ति है जिस पर निर्धारण दर (assessment) और भू-लगान (quit rent) लगाया जाता है।
+    kind: representative
+    origin: third-party
+    subject: मलेशियाई तमन में दो-मंज़िला टैरेस मकान
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: इस्कंदर पुतेरी में Mutiara Rini टाउनशिप के ऊपर एक हवाई दृश्य ग्रिड वाली गलियों पर हज़ारों भू-स्वामित्व वाले घर दिखाता है, जिनमें से हर एक स्थानीय परिषद की सूची में कर-योग्य संपत्ति है।
+    kind: representative
+    origin: third-party
+    subject: Mutiara Rini टाउनशिप, इस्कंदर पुतेरी, जोहोर का हवाई दृश्य
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 कई नए घर-स्वामी एक ऐसा दूसरा बिल पाकर चौंक जाते हैं जिसकी उन्हें अपेक्षा नहीं थी। वे इस वर्ष पहले ही «भूमि कर» चुका चुके हैं — तो नगरपालिका परिषद भी एक माँग-सूचना क्यों भेज रही है?

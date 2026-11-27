@@ -22,7 +22,7 @@ appliesTo: "Anak dewasa dan anggota keluarga di Malaysia yang sedang menimbang p
 verificationNeeded:
   - "Artikel ini tidak menyatakan biaya panti perawatan swasta, kapasitas tempat tidur, atau lama daftar tunggu bagi Rumah Seri Kenangan, karena angka-angka ini sering berubah dan tidak disahkan dari sumber resmi pada saat penulisan — konfirmasikan biaya dan ketersediaan terkini langsung dengan pengelola atau Departemen Kesejahteraan Masyarakat Daerah."
 lang: "id"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
 framework: explainer
+hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
+heroAlt: 'Pintu masuk berpagar dan bangunan sebuah panti wreda Malaysia (Rumah Warga Emas).'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: Area olahraga lansia di luar ruangan dengan mesin kebugaran berdampak rendah di antara pepohonan, tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Sudut kebugaran luar ruangan dengan mesin olahraga untuk lansia di sebuah perumahan Asia Tenggara
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: Pintu masuk dan papan nama sebuah panti perawatan lansia Malaysia satu lantai, dengan bendera Malaysia dan Sabah berkibar di depan
+    kind: actual
+    origin: third-party
+    subject: Rumah Sri Pritchard, sebuah panti jompo di Kinarut, distrik Papar, Sabah, Malaysia
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 Saat itu biasanya tiba secara diam-diam. Seorang ibu atau ayah yang selama ini mampu mengurus diri sendiri mulai lupa kompor masih menyala, atau jatuh terlalu sering, dan sebuah keluarga yang tidak pernah merencanakan keadaan ini terpaksa membuat keputusan, dengan segera, tentang apa yang perlu dilakukan selanjutnya. Malaysia memang memiliki sistem untuk keadaan ini — hanya saja ia terbagi antara klinik kesehatan yang sudah biasa melayani lansia dan sistem kesejahteraan yang kebanyakan keluarga baru temui ketika mereka mulai mencarinya.

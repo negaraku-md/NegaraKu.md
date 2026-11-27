@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus เริ่มเปลี่ยน 19 เส้นทางที่มีผู้โดยสารน้อย — รถป้อน MRT 16 เส้นทางและเส้นทางมาตรฐาน 3 เส้นทาง ประมาณ 7% ของเครือข่าย — ให้เป็นบริการรถตู้ Rapid KL On-Demand ที่สามารถจองได้"
 
 lang: "th"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,9 +72,33 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: 'รถบัสสองชั้น Rapid KL สีแดง/ครีม/น้ำเงินสดใสจอดอยู่ที่ชานชาลา (สาย 751 จุดเปลี่ยนรถ Hab Pasar Seni) พร้อมป้ายบอกชานชาลา'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: รถบัสเมืองไฟฟ้าฟรี GO KL สีน้ำเงินเขียวจอดเทียบที่ป้าย/ศาลารอรถริมทาง ('100% Clean Energy / Perkhidmatan Bas Percuma') — มุมมองรถบัสที่ป้าย ลวดลาย/รูปแบบที่แตกต่าง มีผู้โดยสารตัวเล็กมากสองคนที่ศาลา ระบุตัวตนไม่ได้
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: ภาพด้านข้างชัดเจนของรถบัสชั้นเดียว Rapid KL (ลวดลายแดง/ครีม/น้ำเงิน) ที่ KL Sentral — เสริมกับรถบัสสองชั้นหลักและรถไฟฟ้า GO KL ไม่มีใบหน้า
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 รถไฟพาคุณไปถึงสถานี แต่แทบไม่เคยพาคุณกลับถึงบ้าน ช่องว่างนั้น — จากชานชาลา MRT หรือ LRT ไปยังหน้าประตูบ้าน อาคารสำนักงาน หรือตลาดสดที่อยู่ห่างออกไปสองย่าน — ถูกเติมเต็มด้วยกองยานพาหนะที่ผู้โดยสารส่วนใหญ่แทบไม่ได้นึกถึง นั่นคือรถประจำทาง Rapid KL

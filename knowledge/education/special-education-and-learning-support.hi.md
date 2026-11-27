@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में किसी निदानित दिव्यांगता या अधिगम कठिनाई वाले बच्चे के माता-पिता और देखभालकर्ता जो यह जानने का प्रयास कर रहे हैं कि कौन-सा विद्यालय नियोजन और कौन-से पंजीकरण चरण लागू होते हैं।"
 
 lang: "hi"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -60,9 +60,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["विशेष शिक्षा मलेशिया", "special education Malaysia", "PPKI कार्यक्रम", "PPI समावेशी शिक्षा", "OKU कार्ड बच्चे", "sekolah pendidikan khas", "अधिगम दिव्यांगता सहायता मलेशिया", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'एक मलेशियाई माध्यमिक विद्यालय, SMK तामन यूनिवर्सिटी में विशेष-शिक्षा एकीकरण कार्यक्रम (PPKI) के शिक्षकों और छात्र-प्रबंधन सहायकों का सामूहिक चित्र।'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: SK Pendidikan Khas Batu Pahat का प्रवेशद्वार और स्वागत-तोरण, जोहोर में एक सरकारी विशेष-शिक्षा प्राथमिक विद्यालय, जिसके द्वार पर मलय-भाषा के नाम-पट्ट हैं।
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई राष्ट्रीय विशेष-शिक्षा विद्यालय
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: सबाह के पेनसियांगन में एक ग्रामीण सरकारी प्राथमिक विद्यालय का एक मंज़िला लकड़ी का कक्षा-खंड, जो वनाच्छादित पहाड़ियों की पृष्ठभूमि में स्थित है।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई सरकारी प्राथमिक विद्यालय भवन
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 निदान केवल पहली बातचीत है। दूसरी — जो अक्सर अधिक भ्रमित करने वाली होती है — यह है कि आपका बच्चा असल में किस विद्यालय ट्रैक में जाता है, और OKU कार्ड विद्यालय से पहले क्यों मायने रखता प्रतीत होता है। मलेशिया की प्रणाली में तीन सार्वजनिक ट्रैक हैं, इन सभी को आपूर्ति करने वाली एक अलग दिव्यांगता-पंजीकरण प्रक्रिया है, और निजी तथा NGO चिकित्सा की एक समानांतर दुनिया है जिसे अधिकांश माता-पिता किसी एक आधिकारिक पृष्ठ से नहीं, बल्कि सुनी-सुनाई बातों से खोज पाते हैं।

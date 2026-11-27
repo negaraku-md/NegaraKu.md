@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -64,9 +64,35 @@ sources:
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []
-related: []
+related: ["malaysian-sport-governance", "national-sports-policy-podium-programme", "national-sports-venues"]
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'マレーシア国家スポーツ評議会（Majlis Sukan Negara Malaysia）の色鮮やかな本部ビルがブキ・ジャリルに建ち、壁にはその名称が記されている。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: ブキ・ジャリルにある国立スポーツ研究所（ISN）の建物。ガラス張りのファサードに「Where Legends Are Made」の垂れ幕が掲げられ、前には人けのない前庭が広がる。
+    kind: representative
+    origin: third-party
+    subject: ブキ・ジャリルの国立スポーツ研究所（ISN）の建物。マレーシアの国家スポーツ機構の一部
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: ブキ・ジャリルのKLスポーツシティ複合施設の空撮。楕円形の国立競技場、屋内アリーナ、アクアティックセンターが、薄いもやの中で周囲の建物の間に見える。
+    kind: representative
+    origin: third-party
+    subject: ブキ・ジャリルのKLスポーツシティ国立スポーツ複合施設の空撮
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 マレーシアの短距離走者がオリンピックのスタートラインに立つとき、あるいは若きサッカー選手がスカウトされて代表チームに入るとき、彼らをそこまで導いた訓練・指導・施設を背後で支える一つの政府機関がある。それが**マレーシア国家スポーツ評議会**であり、マレー語では **Majlis Sukan Negara（MSN）** と呼ばれる。国家のスポーツ政策を実際のアスリートへと変える法定機関である。

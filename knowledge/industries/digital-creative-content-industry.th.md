@@ -35,7 +35,7 @@ faq:
     a: "อีสปอร์ตได้รับการยอมรับเป็นสาขาการแข่งขันและถูกบรรจุในซีเกมส์ งบประมาณ 2020 จัดสรร RM20 ล้าน และ KBS จัดตั้ง Esports Integrated ในปี 2020 เพื่อขับเคลื่อนแผนงานอีสปอร์ตระดับชาติและการพัฒนานักกีฬา"
 
 lang: th
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 
@@ -114,6 +114,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'สตูดิโอผลิตโมชันแคปเจอร์ที่มีเวทีจับภาพแบบตาราง ชุดกล้องเหนือศีรษะติดตั้งบนโครงทรัส และเวิร์กสเตชันของผู้ควบคุมพร้อมจอภาพหลายจอ'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: นักพัฒนาทำงานที่โต๊ะหลายจอทั่วพื้นที่สตูดิโอแบบเปิดโล่งของบริษัทพัฒนาวิดีโอเกม
+    kind: representative
+    origin: third-party
+    subject: พื้นที่สตูดิโอพัฒนาวิดีโอเกม
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: แท็บเล็ตวาดภาพและปากกาสไตลัสวางอยู่หน้าจอที่แสดงภาพวาดดิจิทัล ณ โต๊ะทำงานของผู้สร้างคอนเทนต์
+    kind: representative
+    origin: third-party
+    subject: โต๊ะทำงานของศิลปินดิจิทัลสำหรับสร้างภาพวาดดิจิทัล
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 เมื่อ _Upin & Ipin Universe_ ของ Les' Copaque ไปถึงเครื่องคอนโซลทั่วโลกในวันที่ **17 กรกฎาคม 2025** มันได้ปิดวงจรที่เริ่มต้นด้วยซีรีส์แอนิเมชันสั้นเกี่ยวกับฝาแฝดจอมซนสองคน การ์ตูนมาเลเซียได้กลายเป็นวิดีโอเกมที่เผยแพร่ระดับโลก — และเป็นภาพประกอบที่ชัดเจนของสิ่งที่อุตสาหกรรมเนื้อหาสร้างสรรค์ดิจิทัลของประเทศได้สร้างขึ้นอย่างเงียบ ๆ ตลอดสองทศวรรษ

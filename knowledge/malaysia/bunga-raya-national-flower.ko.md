@@ -28,7 +28,7 @@ faq:
     a: "그것은 이미 전국적으로 알려져 있었고, 빛깔과 형태가 매력적이며, 이름이 통일되어 있고, 쉽게 구할 수 있었으며, 당시 다른 어느 나라의 국화도 아니었기 때문입니다."
 
 lang: "ko"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: '선명한 붉은 히비스커스 꽃이 활짝 피어 물결치는 꽃잎과 끝이 노란 중앙의 수술 기둥을 드러내며, 윤기 나는 녹색 잎을 배경으로 하고 있다.'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: 짙은 붉은색 하이비스커스 꽃을 비스듬히 바라본 모습. 주름진 꽃잎이 아래로 굽은 긴 붉은 수술대를 감싸고 있으며, 그 끝에는 선명한 노란색 꽃가루와 붉은 암술머리 조각들이 달려 있고, 부드러운 초록 잎을 배경으로 하고 있다.
+    kind: actual
+    origin: third-party
+    subject: 붉은 붕아라야(하이비스커스, Hibiscus rosa-sinensis), 말레이시아의 국화로 긴 수술대가 드러나 있다
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: 선명한 붉은색 하이비스커스가 말레이시아 시골 마을 정원의 잎이 무성한 관목에 피어 있고, 길고 분홍빛 도는 붉은 수술대가 늘어져 있으며, 배경에는 코코넛야자와 햇살이 비치는 탁 트인 잔디밭이 보인다.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 시골 마을 정원의 관목에 피어난 붉은 붕아라야(하이비스커스, Hibiscus rosa-sinensis)
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 일곱 종류의 꽃이 갓 독립한 나라를 대표하기 위해 경쟁한 적이 있습니다. 그리고 승자는 가장 향기롭거나 가장 희귀한 꽃이 아니라, 모든 읍내와 마을에서 가장 잘 알려진 꽃이었습니다. 그것이 바로 붕아 라야입니다.

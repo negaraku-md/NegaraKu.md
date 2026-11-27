@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar प्रतिभाशाली और मेधावी छात्रों के लिए UKM का पूर्व-विश्वविद्यालय फाउंडेशन कार्यक्रम है, जो तीन धाराओं में पेश किया जाता है: Perdana, Commercial और International।"
 
 lang: "hi"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "प्रतिभाशाली और मेधावी", "murid pintar berbakat", "मलेशिया प्रतिभाशाली शिक्षा", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'मलेशिया के राष्ट्रीय प्रतिभाशाली-शिक्षा कार्यक्रम के संसाधन केंद्र, "PUSAT SUMBER PERMATAPINTAR" लिखी इमारत की बाहरी सीढ़ी और प्रवेश-द्वार।'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: किसी मलेशियाई माध्यमिक विद्यालय की कंप्यूटर प्रयोगशाला में एक पाठ के दौरान डेस्कटॉप कंप्यूटरों की पंक्तियों पर बैठे विद्यार्थी।
+    kind: representative
+    origin: third-party
+    subject: किसी मलेशियाई विद्यालय की कंप्यूटर प्रयोगशाला में काम करते विद्यार्थी
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: जोहोर में UTM की एक विश्वविद्यालय अनुसंधान प्रयोगशाला, जो वाहनों और उपकरणों से सुसज्जित है — वही प्रकार की उन्नत सुविधा जो उच्च-क्षमता वाले शिक्षार्थियों को आगे बढ़ाती है।
+    kind: representative
+    origin: third-party
+    subject: Universiti Teknologi Malaysia की एक उन्नत अभियांत्रिकी प्रयोगशाला
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 एक 10 वर्षीय बच्चा जो फॉर्म फाइव का गणित हल कर सकता है, एक सामान्य कक्षा में हमेशा अलग नहीं दिखता — और मलेशिया में, ऐसी प्रतिभाओं को खोजने और पोषित करने के लिए बनाया गया एकमात्र राष्ट्रीय केंद्र PERMATApintar है।

@@ -22,7 +22,7 @@ appliesTo: "雇用主の医療保障と個人の医療カードを比較検討�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,32 @@ faq:
   - q: 「自己負担なし（no co-payment）」の医療保険は、自己負担ありのものより自動的に優れているのですか?
     a: 必ずしもそうではありません。この記事はこれをよくある誤解として挙げています。自己負担なしのプランは、同じ給付限度額に対してより高い保険料がかかります。自己負担（co-payment）では、より低い保険料と引き換えに、対象となる各入院費の一定割合をあらかじめ負担することに同意します。そのトレードオフが見合うかどうかは、請求額のどれだけを自分で負担できるかによります。割合、上限の有無、対象外の治療については、商品開示シート（product disclosure sheet）を確認してください。
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'マレーシアの政府病院の入院病棟の入口ゲートで、中立的な医療の場面である。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: ペナン州スベラン・プライにある大規模で近代的な私立病院の建物を上空から見た様子
+    kind: actual
+    origin: third-party
+    subject: サンウェイ・メディカル・センター、マレーシア・ペナン州スベラン・プライにある私立病院
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: 明るいエントランスホールにある曲線状の病院受付カウンター。入院受付と会計を表しており、遠くに数人の姿がある
+    kind: representative
+    origin: third-party
+    subject: 正面エントランスのロビーにある病院の受付・入院カウンター
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 二人の従業員が、同じ骨折を抱えて同じ私立病院を訪れる。一人はカードを差し出し、退院時に1センも支払わずに帰っていく。もう一人は自分で請求額の一部を支払う——半年前に加入した保険が、まさにその理由で保険料が安かったからだ。

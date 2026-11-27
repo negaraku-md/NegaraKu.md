@@ -33,7 +33,7 @@ faq:
     a: "मूल गेमेलान सेट 1973 में पहांग लौटाया गया और पेकान स्थित पहांग संग्रहालय में प्रदर्शित है।"
 
 lang: "hi"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "मलय गेमेलान", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "दरबारी संगीत", "राष्ट्रीय विरासत"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'गर्म रोशनी में सजा एक पूर्ण मलय गेमलान वाद्यवृंद, जिसमें नक्काशीदार लकड़ी के ढाँचों पर काँसे के कटोरा-घंटों (बोनांग) की पंक्तियाँ, एक धातुफ़ोन (सारोन) और बड़े टँगे घंटे हैं'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: एक आकृतिदार कालीन पर बिछाया गया एक पूरा मलय गमेलान सेट, जिसमें काँसे के कलश-घंटे, धातु-स्वरवाद्य, एक लटकता घंटा और उकेरे हुए लकड़ी के स्टैंडों पर एक ढोल है
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई कला-एवं-विरासत केंद्र में सजाया गया पूरा गमेलान मेलायु सेट
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: नारंगी कुरते में एक वादक एक लाल-और-सुनहरे सारोन धातु-स्वरवाद्य के सामने घुटनों के बल बैठकर उसके काँसे के पट्टों को एक लकड़ी के हथौड़े से बजा रहा है
+    kind: representative
+    origin: third-party
+    subject: एक सारोन धातु-स्वरवाद्य बजाता वादक (इंडोनेशियाई गमेलान, गमेलान मेलायु जैसा ही वाद्य-परिवार)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 गेमेलान सेट एक दरबार से दूसरे दरबार में किसी बिक्री या ज़ब्ती के कारण नहीं गया — बल्कि विवाह के कारण। जब कोई राजकुमारी अपने पति के महल में जाती, तो वाद्ययंत्र, नर्तक और गीत उसके साथ चले जाते। इसी प्रकार गेमेलान मलय दरबारों की संपत्ति बना।

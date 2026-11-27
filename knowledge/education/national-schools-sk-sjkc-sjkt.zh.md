@@ -37,7 +37,7 @@ reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 reviewDue: 2027-07-24
 publishedBy: "ashton-tan"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 revision: 0
 revisions:
   - revision: 0
@@ -67,6 +67,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: '沙巴州一所马来西亚国民小学 Sekolah Kebangsaan Tungku 的单层校舍，升着马来西亚国旗，墙上绘有校训。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: 国民型华文小学崇山华小（SJK(C) Chong San）的校舍与标识
+    kind: actual
+    origin: third-party
+    subject: 国民型华文小学，霹雳峇眼拿督崇山华小 SJK(C) Chong San
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: 国民型淡米尔小学SJK(T) Saraswathy的校舍与标识
+    kind: actual
+    origin: third-party
+    subject: 国民型淡米尔小学，双溪毛糯SJK(T) Saraswathy
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 每年，当报名期开放时，全马来西亚的父母都会打开大马教育部（KPM）的 idMe 门户网站，为孩子报名就读一年级。其中一项必须最先做出的选择就是：SK、SJKC 还是 SJKT？

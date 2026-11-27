@@ -85,6 +85,7 @@ drinkFacts:
   halal: "El jugo de nuez moscada es de origen vegetal y sin alcohol —fruto de nuez moscada, azúcar, agua y a menudo una ciruela en conserva—, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, así que los comensales que necesiten certificación deben comprobarlo en cada puesto o fabricante."
   served: "Se sirve bien fría contra el calor de Penang. Dos estilos comunes: un jugo fresco «blanco» del fruto crudo y una versión hervida más oscura y dulce. Pide «asam» (ciruela ácida en conserva) para afinar el equilibrio; también se vende concentrado para mezclar en casa."
   where: "Se encuentra en los puestos de jugos de fruta y bebidas, mercados y patios de comidas de Penang —más asociado a George Town y a la zona de cultivo de nuez moscada de Balik Pulau— y se vende como concentrado embotellado de los fabricantes de nuez moscada de Penang."
+wikidata: "Q83165"
 ---
 
 La mayoría de la gente conoce la nuez moscada como una semilla marrón y dura rallada

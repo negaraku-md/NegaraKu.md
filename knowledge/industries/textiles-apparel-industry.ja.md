@@ -31,7 +31,7 @@ faq:
   - q: 繊維・アパレル投資にはどのような優遇措置がありますか。
     a: MIDAがこのサブ部門の製造免許の承認と税制優遇を所管しており、同部門は新産業マスタープラン（NIMP）2030のもとで優先分野となっています。2026年第1四半期からは、適格投資が新しい成果連動型の新投資優遇枠組みの対象となり、技術・技能・現地連携といった成果に結びついた段階的な優遇措置が設けられます。現行の税率と条件はMIDAに確認してください。
 lang: ja
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: '縫製工場の組立ラインで、作業員が衣類を縫い、仕上げをしている。'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: 豊かな文様の織物のクローズアップ。中央に金色の花柄ブロケードが密に織り込まれた赤い帯があり、金色の菱形と星の文様が入ったマルーン色の縁取りが両側を挟む。
+    kind: actual
+    origin: third-party
+    subject: マレーシアの繊維遺産を代表する工芸である、金色の金属糸で織られたトレンガヌ産のマレーのsongket布の細部
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: レンガ壁の工房にある木製の手織り機。その枠に経糸が張られ、赤・緑・青の糸巻きが一列に並び、織り手が向こう側で半ば見える姿で作業している。
+    kind: representative
+    origin: third-party
+    subject: 繊維産業における布の織りを表す、色とりどりの糸巻きを張った木製の織り機で作業する織り手
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 マレーシアがコンピュータチップやパーム油で知られるようになるはるか以前、同国は布と衣服を作っていた。繊維・アパレル・履物産業は、同国最古の近代製造業の一つである――1970年代から1980年代にかけて工業化の口火を切るのを助けた、労働集約的で輸出志向の事業だ。今日でははるかに大きな経済のなかの小さな一片になったが、それでも実際の雇用主であり、安定した輸出者であり、政府が積極的に作り変えようとしている部門であり続けている。

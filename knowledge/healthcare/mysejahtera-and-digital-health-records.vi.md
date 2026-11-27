@@ -29,7 +29,7 @@ faq:
     a: "Báo cáo của Tổng Kiểm toán Nhà nước được trình lên Quốc hội vào tháng 2 năm 2023 tiết lộ rằng thông tin cá nhân của 3 triệu người tiêm vắc-xin đã bị tải xuống qua tài khoản 'Super Admin' của hệ thống MyVAS trong khoảng từ 28 đến 31 tháng 10 năm 2021."
 
 lang: "vi"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,35 @@ wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'Một thông báo mã QR check-in MySejahtera được in tại một cửa hàng ở Malaysia, một phần của nền tảng y tế số của Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: Một người cầm điện thoại thông minh hiển thị danh sách cửa hàng các ứng dụng sức khỏe và y tế, minh họa các công cụ sức khỏe số dành cho người dùng trên điện thoại
+    kind: representative
+    origin: third-party
+    subject: Một bàn tay cầm điện thoại thông minh hiển thị danh sách các ứng dụng sức khỏe cá nhân
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: Một bác sĩ ngồi tại trạm làm việc với nhiều màn hình hiển thị đường điện tâm đồ, hình ảnh siêu âm và một luồng video, đại diện cho hệ thống hồ sơ sức khỏe số và công nghệ thông tin của bệnh viện
+    kind: representative
+    origin: third-party
+    subject: Một bác sĩ tại trạm làm việc công nghệ thông tin y tế nhiều màn hình đang xem xét dữ liệu bệnh nhân số
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 Nhiều người xóa MySejahtera khỏi điện thoại khi đại dịch lắng xuống — nhưng ứng dụng đó không biến mất. Nó chỉ đổi công việc.

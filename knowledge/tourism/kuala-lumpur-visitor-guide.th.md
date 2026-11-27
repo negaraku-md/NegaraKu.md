@@ -36,7 +36,7 @@ faq:
     a: "ปกปิดไหล่และเข่าของคุณ โดยทั่วไปมีผ้าโสร่งให้ยืมหรือเช่าที่ทางเข้าหากเสื้อผ้าของคุณเปิดเผยเกินไป รองเท้าที่สบายช่วยกับบันไดยาวขึ้นสู่ถ้ำวัดหลัก"
 
 lang: "th"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: 'เหมาะสำหรับผู้มาเยือนต่างชาติครั้งแรกที่ต้องการพักในเมืองระยะสั้นแบบง่าย ๆ และนักเดินทางที่ใช้กัวลาลัมเปอร์เป็นฐานก่อนไปที่อื่นในมาเลเซีย'
+  getThere: 'จากท่าอากาศยานนานาชาติกัวลาลัมเปอร์ (KLIA) นั่งรถไฟ KLIA Ekspres แบบไม่จอดสู่ศูนย์กลาง KL Sentral แล้วเชื่อมต่อต่อด้วย MRT, LRT, Monorail หรือ Grab'
+  permit: 'การเข้าชม Petronas Twin Towers ใช้ตั๋วแบบกำหนดเวลาโดยมีจำนวนจำกัดต่อวัน จึงควรจองออนไลน์ล่วงหน้าแทนการพึ่งการเดินเข้าไปในวันนั้น'
+  watch: 'การจราจรในใจกลางเมืองหนาแน่นในชั่วโมงเร่งด่วน รถไฟจึงมักเร็วกว่ารถยนต์สำหรับการเดินทางข้ามเมือง'
+  next: 'ตรวจสอบเวลาเปิดทำการและการจำหน่ายตั๋วปัจจุบันของ Petronas Twin Towers กับเว็บไซต์ทางการ PETRONAS Twin Towers (petronastwintowers.com.my)'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'ตึกแฝดเปโตรนาสที่ส่องไฟตั้งตระหง่านเหนือใจกลางกัวลาลัมเปอร์ใต้ท้องฟ้ายามพระอาทิตย์ตกสีทอง'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: อาคารสุลต่านอับดุลซามัด (Sultan Abdul Samad Building) และสนามหญ้าจัตุรัสเมอร์เดกา (Merdeka Square) ที่เรียงรายด้วยต้นปาล์มในใจกลางกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: อาคารสุลต่านอับดุลซามัดและจัตุรัสเมอร์เดกา
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: แถวโคมไฟจีนสีแดงเรืองแสงแขวนเหนือตลาดถนนเปอตาลิง (Petaling Street) ในย่านไชนาทาวน์ของกัวลาลัมเปอร์ยามค่ำคืน
+    kind: actual
+    origin: third-party
+    subject: โคมไฟแดงไชนาทาวน์ถนนเปอตาลิงยามค่ำคืน
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 ลงเครื่องที่ท่าอากาศยานนานาชาติกัวลาลัมเปอร์ยามรุ่งสาง และภายในหนึ่งชั่วโมง คุณสามารถยืนอยู่ใต้ตึกสีเงินสองตึกที่ครั้งหนึ่งเคยครองเส้นขอบฟ้าของโลก โดยไม่ต้องเช่ารถ ไม่ต้องวางแผนซับซ้อน เพียงรถไฟและบัตรแตะเข้า ความง่ายนั้นคือประเด็นทั้งหมดของ KL เป็นประตูหน้าของมาเลเซีย เมืองหลวงที่กะทัดรัดและราคาไม่แพงที่สถานที่พาดหัวอยู่ห่างกันเพียงนั่งรถไฟสั้น ๆ และที่ซึ่งเกือบทุกการเดินทางต่อในประเทศเริ่มต้น

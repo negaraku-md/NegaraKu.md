@@ -28,7 +28,7 @@ faq:
   - q: "OKU (இயலாமையுள்ள நபர்) ஆக எவ்வாறு பதிவு செய்வது?"
     a: "அரசு மருத்துவ நிபுணரால் சான்றளிக்கப்பட்ட மலேசியக் குடிமக்கள், BPPOKU பதிவுப் படிவத்தை (Amendment 2/2019) மருத்துவ சரிபார்ப்பு அறிக்கை மற்றும் MyKad நகலுடன் (12 வயதுக்குட்பட்ட விண்ணப்பதாரர்களுக்குப் பிறப்புச் சான்றிதழ்) சமர்ப்பிக்கிறார்கள், இது JKM கவுண்டரில் அல்லது MyDaftar OKU போர்டல் வழியாக இணையத்தில் செய்யப்படலாம். வெற்றிகரமான விண்ணப்பதாரர் தமது இயலாமை வகையைக் காட்டும் OKU அட்டையைப் பெறுகிறார்."
 lang: "ta"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,36 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'Johor Pontian-ல் JKM சமூக நலத்துறை மாவட்ட அலுவலகம்; JKM சின்னமும் jkm.gov.my மின்னஞ்சலும் கொண்ட, ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' எனப் படிக்கும் பெரிய மஞ்சள் பலகை, அருகே மலேசியக் கொடி'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: ஜொகூர் பாருவில் மாற்றுத்திறனாளி குழந்தைகளுக்கான ஒரு நலன்புரி பராமரிப்புச் சங்கத்தின் பலகையும் வளாகமும், ஒரு சமூக நலன்புரி சேவை
+    kind: representative
+    origin: third-party
+    subject: ஜொகூர் பாருவில் மாற்றுத்திறனாளி குழந்தைகளுக்கான நலன்புரி பராமரிப்பு மையம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: ஜொகூர், பத்து பாஹாட்டில் ஒரு நலன்புரி இல்லம், ஒரு தங்குமிட நலன்புரி நிறுவனம்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், பத்து பாஹாட்டில் நலன்புரி இல்லம் (ரூமா கெபாஜிகான்)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **சமூக நல்லுறுதித் துறை** — *Jabatan Kebajikan Masyarakat*, எங்கும் அதன் சுருக்கப்பெயரான **JKM** என்றே அறியப்படுகிறது — என்பது மலேசியர்கள் வீழும்போது அவர்களைத் தாங்கிப் பிடிக்கும் கூட்டரசு முகமையாகும். இது **1946**-இல் நிறுவப்பட்டது, தொடக்கத்தில் இரண்டாம் உலகப் போரினால் ஏற்பட்ட சமூகப் பிரச்சினைகளுக்குப் பதிலளிக்கும் வகையில்; அதன் பங்கு பின்னர் **பாதுகாப்பு, மறுவாழ்வு, தடுப்பு, மேம்பாடு மற்றும் சமூக ஒருங்கிணைப்பு** வரை விரிவடைந்தது. JKM-க்கான தேடல் முடிவுகள் ஆண்டு-முத்திரையிடப்பட்ட “உதவியை எப்படிக் கோருவது” வலைப்பதிவுகள் மற்றும் வெறும் சேவைப் பக்கங்களால் ஆதிக்கம் செலுத்தப்படுகின்றன; இந்தப் பக்கம் அதற்குப் பதிலாக JKM-ஐ ஒரு நிறுவனமாக விளக்குகிறது, மேலும் அதன் சேவைகள் முழு வாழ்க்கைச் சுழற்சி முழுவதும் — குழந்தைகளிலிருந்து இயலாமையுள்ளோர் வழியாக முதியோர் வரை — எவ்வாறு இணைக்கப்படுகின்றன என்பதை விளக்குகிறது.

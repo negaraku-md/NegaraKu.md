@@ -29,7 +29,7 @@ faq:
     a: "いいえ。駐車の過料は地方自治体（PBT）が駐車に関する道路交通令に基づいて発行しますが、運転違反に対する交通違反切符はPDRM（警察）またはJPJ（陸運局）が発行します。"
 
 lang: "ja"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ entity: "Letak kereta bandar (PBT) Malaysia"
 relations:
   - { rel: "administered-by", to: "dewan-bandaraya-kuala-lumpur" }
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
-related: []
+related: ["local-government-councils", "cycling-and-walkability", "e-hailing-grab"]
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
+hero: '/media/transport/parking-in-malaysian-cities/hero.webp'
+heroAlt: 'ペナンのジョージタウンの通りで、マレー語の説明書きが付いた緑色のツイン式コイン投入パーキングメーターが、赤い柵の横に立っている。'
+heroCredit: 'yeowatzup / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: 高くそびえるコンクリート造の立体駐車場。格子状の正面をもつ開放型の駐車フロアが幾層にも積み重なり、マレーシアの郊外の街路から見た光景。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール・チェラスのTaman Segarにある立体駐車場
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: ペナン・ジョージタウンの街路沿い、風化した壁を背に、支柱に寄せ合って取り付けられた複数の金属製の駐車禁止・路側告知標識。
+    kind: actual
+    origin: third-party
+    subject: ペナン・ジョージタウンの街路に集まった駐車禁止・路側駐車標識
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 あなたは発券機に入れる小銭を車内で探している——だがその機械は2020年からもう存在しない。マレーシアの大都市での駐車は、今や路肩の小銭入れではなく、スマートフォンから始まる。

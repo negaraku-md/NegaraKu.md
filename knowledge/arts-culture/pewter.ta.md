@@ -17,7 +17,7 @@ keyTakeaways:
   - "1979இல் சிலாங்கூர் சுல்தானிடமிருந்து அரச உரிமச்சான்று (royal warrant) பெற்றதைத் தொடர்ந்து, 1992இல்தான் நிறுவனம் தனது தற்போதைய பெயரை ஏற்றது."
 appliesTo: "மலேசிய கைவினை மரபுகள், தகர சுரங்க வரலாறு அல்லது Royal Selangor குறித்து ஆர்வமுள்ள எவருக்கும்"
 lang: "ta"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -59,6 +59,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'ஊதா தலைக்கட்டும் முன்னங்கியும் அணிந்த ஒரு பெண் கலைஞர், எஃகு பிடிமானத்தில் பொருத்தப்பட்ட pewter கோப்பையின் மீது சிறிய சுத்தியலைத் தட்டி, பணிமேடையின் மீது குனிகிறார்; அவருக்குப் பின்னால் pewter கிண்ணங்களின் வரிசைகள்'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: ஒரு பியூட்டர் கைவினைஞர் கடைசல் இயந்திரத்தில் சுழலும் ஒரு தம்ளரில் ஒரு கருவியைப் பயன்படுத்துகிறார், உலோகத் துகள்கள் சுருண்டு வெளியேறுகின்றன, சுமார் ஒன்பது மெருகூட்டப்பட்ட வெள்ளி நிற பியூட்டர் தம்ளர் உடல்கள் மரப் பணிமேசையில் குழுவாக வைக்கப்பட்டுள்ளன
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசிய பியூட்டர் தொழிலாளி கடைசல் இயந்திரத்தில் ஒரு தம்ளரைக் கடைந்து செய்கிறார், முடிக்கப்பட்ட பியூட்டர் தம்ளர்கள் பணிமேசையில் அடுக்கப்பட்டுள்ளன
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: தடித்த கைப்பிடியும் கிடைமட்டப் பட்டைகளும் கொண்ட ஒரு மெருகூட்டப்பட்ட பியூட்டர் தம்ளர், வெளிறிய பின்னணிக்கு எதிராக அதன் கண்ணாடி போன்ற வெள்ளி நிற மேற்பரப்பு ஒளியைப் பிரதிபலிக்கிறது
+    kind: actual
+    origin: third-party
+    subject: கைப்பிடியுடன் கூடிய, முடிக்கப்பட்ட, மெருகூட்டப்பட்ட பியூட்டர் தம்ளர்
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 தகரத்தின் மீது கட்டியெழுப்பப்பட்ட ஒரு நகரம், இறுதியில் உலகிற்கு ஒரு உலோகக் கைவினையை வழங்கியது. கிள்ளான் மற்றும் கோம்பாக் (Gombak) ஆறுகள் சந்திக்கும் இடத்தில் தகர அயிரு இருப்பதை ஆய்வாளர்கள் கண்டறிந்ததாலேயே கோலாலம்பூர் உருவானது. பல தசாப்தங்களுக்குப் பிறகு, அதே தகரப் பொருளாதாரத்தில் வேலை செய்ய வந்த ஒரு இளம் தகரக் கைவினைஞர், கோயில் பீடங்களுக்கான சாம்பிராணிக் கலசங்களை அடித்துச் செய்யத் தொடங்கினார் — அவர் திறந்த பட்டறை இன்று பூமியிலேயே மிகப் பெரிய பியூட்டர் தயாரிப்பாளராக உள்ளது.

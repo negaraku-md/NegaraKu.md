@@ -132,6 +132,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'Laman stesen minyak Petronas dengan pam minyak di bawah kanopi di Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: Sebuah stesen minyak berjenama Shell dengan kanopi berbingkai merah di atas beberapa pulau pam minyak, logo pecten Shell kuning pada papan tanda pylon di tepi jalan, serta deretan kedai dan kereta berdekatan di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Perkarangan stesen minyak Shell di Taman Pelangi, Johor Bahru, dengan pulau pam minyak di bawah kanopi
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: Perkarangan stesen minyak di bawah kanopi rata yang luas melindungi pam minyak, sebuah pylon papan harga tinggi bercahaya berdiri di tepi jalan dan sebuah bangunan kedai serbaneka di sebelahnya pada hari mendung
+    kind: actual
+    origin: third-party
+    subject: Sebuah stesen minyak berjenama FIVE di Ijok, Selangor, salah satu rangkaian runcit minyak bebas Malaysia, dengan perkarangan dan pylon harganya
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 Selama berdekad, setiap orang di Malaysia — jutawan mahupun penoreh getah — membayar harga petrol yang sama di pam. Pada 30 September 2025, susunan itu berakhir. Kini seliter RON95 boleh berharga RM1.99 untuk anda tetapi hampir dua kali ganda untuk jiran anda, dan yang menentukannya bukan harga minyak dunia, tetapi kad pengenalan yang anda selit ke terminal.

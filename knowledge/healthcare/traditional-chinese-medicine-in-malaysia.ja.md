@@ -32,7 +32,7 @@ faq:
   - q: "中医の課程はどこで学べますか。"
     a: "国内では複数の高等教育機関が中医学士（優等）課程を提供しており、一部はマレーシア資格機構（MQA）の認定を受けています。例えばジョホール州スクダイにある南方大学学院（Southern University College）です。卒業は第一歩にすぎません。中医師として施術するには、なお伝統・補完医療評議会の登録要件を満たす必要があります。各課程の認定状況や入学条件は、各校の公式サイトおよびMQAの公式名簿を基準としてください。"
 lang: "ja"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'ペナンのジョージタウンにある中医薬店の店内で、ラベル付きの生薬の引き出しと乾燥生薬がある。'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: 伝統中国医学クリニックのショーウィンドウ。一面の生薬の引き出し、鍼灸の人体模型、治療のポスターが見え、TCM（中医学）の診療を表している
+    kind: representative
+    origin: third-party
+    subject: 生薬の引き出しと治療図表が並ぶ伝統中国医学の薬店のショーウィンドウ
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: 中医薬店のカウンターで、乾燥させた中国の生薬を小さなはかりで計量している様子
+    kind: representative
+    origin: third-party
+    subject: 中医薬店で小さなはかりにかけて計量される乾燥生薬
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 多くの古い町の街角には、必ずといっていいほど漢方薬店がある。木製の棚の壁には小さな引き出しがびっしりと並び、空気には当帰（当归）、陳皮（陈皮）、甘草（甘草）が混ざり合った匂いが漂う。カウンターの奥では、老店主が客の不調を聞きながら、生薬を一味ずつ量ってクラフト紙に入れ、一包の薬として包んでいく。こうした店はマレーシアの華人社会に百年以上も存在してきた。

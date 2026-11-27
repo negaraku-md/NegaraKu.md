@@ -79,6 +79,7 @@ keywords: ["Hong Leong Financial Group", "HLFG", "Hong Leong Bank", "HLB", "Quek
 social:
   hashtags: ["HongLeong", "HLFG", "HongLeongBank", "MalaysiaBanking", "QuekLengChan"]
 framework: profile
+wikidata: "Q139387760"
 ---
 
 Warga Malaysia mengenal nama Hong Leong dari sebuah cabang bank, sepeda motor, atau harga saham — namun bisnis perbankannya berada di dalam struktur tercatat dua lapis yang sering membingungkan pembaca. Di puncak ada Hong Leong Financial Group Berhad (HLFG), perusahaan induk keuangan; di bawahnya ada Hong Leong Bank Berhad (HLB), bank komersial yang sebenarnya dihadapi sebagian besar nasabah.

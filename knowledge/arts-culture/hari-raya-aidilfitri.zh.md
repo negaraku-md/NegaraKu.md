@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,34 @@ festivalFacts:
   when: "伊斯兰历(太阴历)的 1 Syawal;其日期在公历上每年约提早 11 天,并通过观测新月(rukyah)来确定。"
   holiday: "首日与第二日在全马来西亚被列入宪报,定为联邦公共假期。"
   etiquette: "欢迎各族宾客到开放门户(rumah terbuka)作客;衣着应端庄,并通常在进屋前脱鞋。"
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: '霹雳州Alor Pongsu，开斋节晨祷后，身着节日巴迪马来服的人群走出一座双宣礼塔的乡村清真寺'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: 用棕榈叶编织的椰叶粽（ketupat palas）旁放着一盘仁当牛肉（beef rendang），这是马来西亚开斋节的经典佳肴
+    kind: actual
+    origin: third-party
+    subject: 椰叶粽配仁当牛肉，经典的开斋节美食
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: 马来西亚开斋节期间，夜晚漆黑的花园里一盏竹制油灯（pelita）燃着明亮的火焰
+    kind: actual
+    origin: third-party
+    subject: 开斋节夜晚点燃的竹制油灯（pelita）
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 在斋戒月（Ramadan）的最后一夜，整个国家仿佛同时行动起来。南北大道塞车数小时，巴士站挤满行囊与饼干盒，从城市到偏远乡村（kampung）的屋前走廊都点起了油灯（pelita）。翌日，开斋月初一（1 Syawal），一个月的斋戒结束——马来西亚迎来开斋节（Hari Raya Aidilfitri）。

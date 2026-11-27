@@ -40,7 +40,7 @@ verificationNeeded:
   - "Update the population and GDP figures when a more recent DOSM release is published."
 
 lang: "es"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,9 +111,35 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["Perak", "Perak Darul Ridzuan", "Tratado de Pangkor", "Perjanjian Pangkor", "Residente británico", "British Resident", "Sultán de Perak", "Ipoh", "Valle de Kinta", "mineral de estaño", "Valle de Lenggong", "Asamblea del Estado de Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'El edificio blanco y abovedado de la estación de tren de Ipoh, de la época colonial, con columnatas en arco bajo un cielo despejado.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: La mansión y la torre inacabadas de ladrillo rojo de Kellie's Castle se alzan entre la vegetación cerca de Batu Gajah, en Perak.
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Batu Gajah, Perak
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: Estalactitas iluminadas y formaciones de colada calcárea llenan la vasta cámara de piedra caliza de Gua Tempurung, cerca de Gopeng, en Perak.
+    kind: actual
+    origin: third-party
+    subject: Cueva de piedra caliza de Gua Tempurung, Gopeng, Perak
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 El 20 de enero de 1874 se firmó un tratado en las aguas cercanas a la isla de Pangkor.

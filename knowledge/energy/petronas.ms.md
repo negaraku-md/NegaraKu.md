@@ -29,7 +29,7 @@ faq:
     a: "RM72.4 bilion secara keseluruhan, terdiri daripada RM32.0 bilion dividen, RM26.8 bilion cukai dan RM13.1 bilion bayaran tunai, ditambah sumbangan RM500 juta kepada Kumpulan Wang Amanah Negara."
 
 lang: "ms"
-sourceContentHash: "e12c19b490e99672"
+sourceContentHash: "d81a777a6a7ec6c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,33 @@ relations:
   - { rel: "related-to", to: "national-trust-fund" }
 related: ["petroleum-development-act-1974"]
 keywords: ["petronas", "petroliam nasional berhad", "malaysia oil and gas", "petroleum development act 1974", "national oil company"]
+hero: '/media/energy/petronas/hero.webp'
+heroAlt: 'Menara Berkembar Petronas yang menyala berdiri di tengah kaki langit Kuala Lumpur yang padat, dengan pusat membeli-belah Suria KLCC di kakinya, di bawah langit senja jingga dan biru'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Petronas Twin Towers rising over the Kuala Lumpur city skyline at dusk'
+images:
+  - role: scene
+    src: /media/energy/petronas/body-1.webp
+    alt: Stesen minyak Petronas dengan kanopi medan hadapan biru kehijauan dan pam minyak di sisi papan harga tinggi menyenaraikan Primax 97, Primax 95 dan Dynamic Diesel, dilingkungi pokok kelapa sawit
+    kind: actual
+    origin: third-party
+    subject: stesen minyak berjenama Petronas di Malaysia dengan kanopi medan hadapan dan papan harga minyaknya
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/energy/petronas/body-2.webp
+    alt: Menara suar keluli merah-putih menyemburkan nyala gas jingga terang berlatarkan langit biru berawan di Terminal Minyak dan Gas Sabah
+    kind: actual
+    origin: third-party
+    subject: suar gas menyala di atas menara di Terminal Minyak dan Gas Sabah di Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
 ---
 
 Sebuah syarikat tunggal memegang jagaan sumber petroleum Malaysia, menyelia industri huluan yang mengeluarkannya, dan memulangkan bahagian besar hasilnya kepada kerajaan yang memilikinya sepenuhnya.

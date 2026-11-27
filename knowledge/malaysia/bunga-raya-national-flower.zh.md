@@ -28,7 +28,7 @@ faq:
     a: "因为它已在全国广为人知、颜色与形态吸引、名称统一、随处可得，且当时尚未成为任何其他国家的国花。"
 
 lang: "zh"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: '一朵鲜艳的红色大红花盛开，花瓣边缘呈波状褶皱，中央的雄蕊柱顶端呈黄色，映衬在光亮的绿叶之前。'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: 一朵深红色的朱槿花斜侧展示，褶皱的花瓣环绕着一条向下弯曲的红色细长雄蕊柱，柱端点缀着鲜黄色花粉和红色的小柱头裂片，衬着柔和的绿叶。
+    kind: actual
+    origin: third-party
+    subject: 红色大红花（朱槿，Hibiscus rosa-sinensis），马来西亚国花，图中可见其细长的雄蕊柱
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: 一朵鲜红色的朱槿在马来西亚乡村花园一丛枝叶繁茂的灌木上绽放，细长的粉红色雄蕊柱垂悬着，背景是椰子树和洒满阳光的开阔草坪。
+    kind: actual
+    origin: third-party
+    subject: 一株马来西亚乡村花园灌木上盛开的红色大红花（朱槿，Hibiscus rosa-sinensis）
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 七种花卉曾竞相代表一个刚刚独立的国家——而胜出的既不是最芳香的，也不是最稀有的，而是每一个市镇和乡村都最熟悉的那一种。那就是大红花。

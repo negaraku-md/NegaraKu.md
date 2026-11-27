@@ -82,7 +82,7 @@ relations:
   - { rel: "governs", to: "labuan-companies-act-1990" }
   - { rel: "related-to", to: "foreign-company-registration-ssm" }
   - { rel: "compares-with", to: "labuan-company-formation" }
-related: []
+related: ["labuan-company-vs-sdn-bhd", "foreign-branch-audited-accounts-filing", "starting-a-business-in-malaysia"]
 keywords: ["redomiciliation", "re-domiciliation", "continuance", "Labuan", "Labuan Companies Act 1990", "section 16", "foreign company", "domicile", "Companies Act 2016", "Labuan FSA"]
 framework: explainer
 ---

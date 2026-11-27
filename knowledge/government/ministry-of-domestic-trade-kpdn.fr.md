@@ -27,7 +27,7 @@ faq:
   - q: "Quelles lois KPDN utilise-t-il pour contrôler les prix ?"
     a: "Il s'appuie principalement sur la loi de 1961 sur le contrôle des approvisionnements (Control of Supplies Act 1961) et la loi de 2011 sur le contrôle des prix et contre les profits abusifs (Price Control and Anti-Profiteering Act 2011), qui lui permettent de fixer des plafonds de prix, d'exiger l'affichage des prix et d'agir contre des profits anormalement élevés."
 lang: "fr"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,8 +48,14 @@ verificationNeeded:
   - "Consumer complaint channel numbers (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — verify current on kpdn.gov.my/bantuan, as hotlines occasionally change."
   - "Exact number of divisions/bahagian and the total count of Acts administered — confirm before stating a hard number."
   - "Current Deputy Minister and Secretary-General — verify still in office at publication."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
+  - title: "Ministre du Commerce intérieur et des Coûts de la vie (Malaisie) — historique du nom du poste (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau de KPDN garantit l'absence de manipulation des prix durant toute la saison festive (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
   - title: "Contexte - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
     publisher: "Ministère du Commerce intérieur et du Coût de la vie (KPDN)"
@@ -77,9 +83,37 @@ sources:
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
-related: []
+related: ["competition-act-2010", "price-control-anti-profiteering-act", "franchise-registration-malaysia"]
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'Vue frontale large du long bâtiment ministériel KPDN en grès à Putrajaya, avec l''inscription « Kementerian Perdagangan Dalam Negeri » au-dessus de l''entrée centrale et un immeuble de bureaux plus haut portant le logo K en losange à l''extrémité droite'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: Vue de trois quarts du bâtiment du ministère KPDN en grès à Putrajaya, l'inscription dorée « Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan » sur le socle en granit sombre et un bus aux couleurs du ministère stationné à l'entrée
+    kind: actual
+    origin: third-party
+    subject: Vue en angle de l'entrée du bâtiment KPDN avec l'enseigne du ministère et un bus du ministère, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: Vue en contre-plongée de la tour en grès à gradins de style art déco du ministère KPDN à Putrajaya, surmontée de l'emblème du ministère en losange bleu et or avec la lettre K, sur un ciel partiellement nuageux
+    kind: actual
+    origin: third-party
+    subject: La tour à gradins du bâtiment du ministère KPDN portant le logo en losange K, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 Lorsqu'un commerçant vous surfacture l'huile de cuisson, vend un article contrôlé au-dessus de son prix plafond ou refuse de répondre d'un produit défectueux, l'organisme fédéral dont le travail est d'agir en votre faveur est **KPDN** — le **Ministère du Commerce intérieur et du Coût de la vie** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). Il développe le commerce intérieur, maintient sous contrôle les prix des produits essentiels du quotidien et protège les consommateurs, appuyé par de véritables lois, des canaux de réclamation actifs et un tribunal de petites créances conçu pour les acheteurs ordinaires.
@@ -89,6 +123,12 @@ Lorsqu'un commerçant vous surfacture l'huile de cuisson, vend un article contr�
 KPDN a été **établi le 27 octobre 1990**. Son objectif déclaré est de promouvoir un commerce intérieur « viable, compétitif et durable », en particulier dans le secteur du commerce de distribution, tout en protégeant les intérêts et les droits des consommateurs. En pratique, son travail se divise en deux volets : la formulation de la politique commerciale — qui comprend la détermination et le suivi des prix des biens essentiels ainsi que le contrôle de la vente et de la distribution des biens essentiels, du pétrole et des produits pétrochimiques — et le consumérisme, qui couvre l'éducation, la sensibilisation, la protection des consommateurs et le soutien au mouvement des consommateurs.
 
 Le ministère a adopté son nom actuel, en ajoutant l'accent sur le « Coût de la vie », en **décembre 2022**. Son siège se trouve au No. 13, Persiaran Perdana, Precinct 2, Centre administratif du gouvernement fédéral, 62623 Putrajaya. Le ministre est **Datuk Armizan Mohd Ali**, qui dirige le ministère depuis le 30 juillet 2023.
+
+## Comment KPDN s'appelait avant : quatre noms depuis 1990
+
+KPDN a porté quatre noms officiels, chacun reflétant le portefeuille qu'il détenait à l'époque. Il a été établi le 27 octobre 1990 sous le nom de Ministère du Commerce intérieur et des Affaires des consommateurs (Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna, KPDNHEP), détaché du ministère du commerce et de l'industrie. En 2009, il a absorbé le portefeuille des coopératives pour devenir le Ministère du Commerce intérieur, des Coopératives et du Consumérisme (KPDNKK, rendu MDTCC en anglais). En 2018, les coopératives en sont ressorties et il est revenu à KPDNHEP. Enfin, le 3 décembre 2022, il a pris son nom actuel et un mandat explicite sur le coût de la vie : le Ministère du Commerce intérieur et du Coût de la vie (KPDN).
+
+Le fil conducteur des quatre noms n'a jamais changé — le commerce intérieur et la protection des consommateurs —, mais le changement de nom de 2022 a signalé que contenir le prix des produits essentiels du quotidien était devenu la tâche publique qui définit le ministère. Ainsi, si vous rencontrez les abréviations plus anciennes KPDNHEP, KPDNKK ou MDTCC dans des documents ou des articles, elles désignent le même ministère à un stade antérieur.
 
 ## Quelles lois KPDN utilise-t-il pour maintenir les prix sous contrôle ?
 
@@ -105,6 +145,10 @@ KPDN et ses organismes administrent un ensemble de lois commerciales et de conso
 | Loi de 1998 sur les franchises (Franchise Act 1998) [Act 590] | Enregistre et réglemente les franchises |
 
 En s'appuyant sur l'Act 122 et l'Act 723, KPDN œuvre à stabiliser les prix des produits essentiels comme le riz, les œufs, l'huile de cuisson et le poulet. Il mène des opérations de répression telles qu'**Ops Pantau** et **Ops Menu**, et impose des **dispositifs festifs de prix maximum** (*Skim Harga Maksimum Musim Perayaan*) qui plafonnent les prix de certains articles contrôlés pendant les célébrations — comme lors du dispositif de [Deepavali](/arts-culture/deepavali) d'octobre 2025. En vertu de l'article 10 de l'Act 723, le ministre peut exiger de tout vendeur de biens ou de services qu'il affiche les prix.
+
+## Qui fait réellement respecter les règles ?
+
+Derrière ces opérations se tient la Division de l'application (Bahagian Penguatkuasaan) du ministère, le bras en uniforme dont les agents travaillent depuis des bureaux au niveau des États dans tout le pays. Agissant principalement en vertu de la loi de 2011 sur le contrôle des prix et contre les profits abusifs (Price Control and Anti-Profiteering Act 2011) et de la loi de 1961 sur le contrôle des approvisionnements (Control of Supplies Act 1961), ils inspectent les locaux, imposent l'affichage des prix, saisissent des marchandises et engagent des poursuites contre les commerçants qui enfreignent les prix plafonds ou réalisent des profits abusifs. Lors d'une seule campagne festive comme Ops Pantau, la division peut mobiliser des milliers d'agents — l'opération de 2026 en a déployé plus de 2 400 —, ce qui en fait le visage du ministère que la plupart des commerçants rencontrent concrètement. Cette division s'inscrit dans un ministère organisé en une douzaine de divisions et d'unités environ, couvrant le développement du commerce intérieur, le suivi du coût de la vie, le consumérisme et les fonctions juridiques et de tribunal décrites ci-dessous.
 
 ## Comment utiliser concrètement KPDN lorsque vous êtes trompé ?
 

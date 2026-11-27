@@ -22,7 +22,7 @@ verificationNeeded:
   - "La capacité d'admission annuelle actuelle (nombre de places) pour les cohortes de STPM, de matriculation et d'A-Level n'est pas indiquée ici — ces chiffres changent à chaque cycle d'admission ; confirmez les chiffres de la session actuelle directement auprès du MPM, de la Division de la matriculation ou du collège concerné avant de vous fier à un chiffre précis."
   - "Les directives de la MQA sur la structure des programmes de foundation (Garis Panduan Kurikulum Asasi) n'ont pas pu être extraites intégralement pour cet article — la règle précise d'heures de crédit minimales ou de durée fixée par la MQA pour les programmes de foundation n'est décrite ici qu'en termes généraux ; confirmez les chiffres exacts auprès de la MQA ou de l'établissement offrant le programme avant de les citer."
 lang: "fr"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pré-universitaire Malaisie", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaisie", "Foundation Asasi Malaisie", "Diploma vers licence Malaisie", "catégories d'admission UPU", "voies pré-universitaires après SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'Le bloc universitaire du Kolej Matrikulasi Kelantan, un collège de matriculation malaisien proposant une filière pré-universitaire, sous un ciel bleu.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: Les bâtiments modernes du campus d'un collège universitaire malaisien proposant des programmes de mise à niveau préuniversitaires.
+    kind: representative
+    origin: third-party
+    subject: Campus d'un collège malaisien proposant des programmes préuniversitaires / de mise à niveau (KDU University College, Damansara Jaya)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: Bâtiment de laboratoires de la faculté des sciences et technologies d'une université malaisienne.
+    kind: representative
+    origin: third-party
+    subject: Bâtiment du laboratoire de sciences, Faculté des sciences et technologies, Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 Deux étudiants sortent de la même salle du SPM avec des résultats quasi

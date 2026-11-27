@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "고정 브로드밴드를 연결해야 하는, 말레이시아에서 집을 임차·매수하거나 이사하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,32 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: '쿠알라룸푸르에서 길가 통신 케이블 분배함 작업을 하는 Telekom Malaysia 기술자.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: 푸트라자야에 있는 Telekom Malaysia(TM) 사옥. 전국 유선 및 광섬유 사업자다.
+    kind: representative
+    origin: third-party
+    subject: 푸트라자야의 Telekom Malaysia(TM) 사옥
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: 집 안 벽에 설치된 FiberHome 브랜드의 Unifi 광섬유 모뎀
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 가정에 설치된 Unifi 광섬유 브로드밴드 모뎀(FiberHome ONT)
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 가격을 1링깃이라도 비교하기 전에, 더 중요한 질문이 있습니다: 광섬유가 애초에 당신의 현관까지 도달하기는 합니까? 그것을 확인하지 않고 2년 계약에 서명하면, 설치 당일에 기술자가 실제로는 당신의 세대로 회선을 끌어올 수 없다는 것을 알게 될 수도 있습니다.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "تُغرِق الرياح الموسمية الشمالية الشرقية (نوفمبر–مارس) الساحل الشرقي لشبه الجزيرة وغرب ساراواك وشمال صباح؛ أما الرياح الموسمية الجنوبية الغربية (مايو–سبتمبر) فأكثر جفافاً نسبياً — إيقاعٌ ما زال يشكّل موسم الفيضان وتقاويم الزراعة (الهيئة الماليزية للأرصاد الجوية)"
 appliesTo: "كل من يحاول فهم سبب تمركز سكان ماليزيا ومدنها وخطر الفيضان فيها حيث هي — الطلاب والوافدون الجدد والمخطّطون، أو كل من حيّره كيف يعني «موسم الرياح الموسمية» أشياء مختلفة على سواحل مختلفة."
 lang: "ar"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: لماذا يعيش معظم الماليزيين قرب السواحل بدلًا من الداخل؟
     a: تهيمن على كل كتلة أرضية سلسلة جبلية مركزية — سلسلة تيتيوانغسا في شبه الجزيرة، وسلسلة كروكر في صباح — ولا يحفّ بها سوى سهول ساحلية ضيقة. تدفع تلك المرتفعات الاستيطان إلى الخارج نحو السهول الساحلية ووديان الأنهار، تاركةً الداخل الجبلي قليل السكان. ويحتضن السهل الساحلي الغربي لشبه الجزيرة، المحمي الذي هدّأه مضيق ملقا، معظم سكانها وأكبر مدنها مثل كوالالمبور وجورج تاون.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'منظر جوّي لسهل ساحلي استوائي حيث يصبّ نهر متعرّج في البحر، وتنتشر البلدات وقطع المزارع نحو الداخل، وتحفّ أرضٌ مستصلَحة فاتحة اللون خطَّ الشاطئ تحت غيوم متناثرة.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: جرف كلسي كارستي رمادي شديد الانحدار تكسوه الأدغال ينتصب مباشرة من بحيرة ساكنة بلون الزمرد، وتنعكس واجهته في الماء الداكن.
+    kind: actual
+    origin: third-party
+    subject: جرف كلسي كارستي عند Tasik Cermin (Mirror Lake)، إيبوه، بيراق
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: خليج صغير ذو رمال بيضاء تحفّه أشجار جوز الهند وأكواخ خشبية يلتقي بمياه فيروزية صافية في جزيرة استوائية صغيرة.
+    kind: actual
+    origin: third-party
+    subject: شاطئ استوائي في Pulau Perhentian Kecil، تيرينغانو
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 سافر جواً إلى كوالالمبور من كوتا كينابالو وستعبر أكثر من حدٍّ داخلي — ستعبر بضع مئات من الكيلومترات من البحر المفتوح. فماليزيا بلدٌ واحد مُثبَّت معاً عبر كتلتين أرضيتين منفصلتين، وهذه الحقيقة البسيطة في الشكل قرّرت في هدوء كل شيء آخر تقريباً: أين المدن، وأين حقول الأرز، وأي ساحل يغمره الفيض كل ديسمبر.

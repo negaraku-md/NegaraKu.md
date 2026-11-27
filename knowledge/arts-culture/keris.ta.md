@@ -39,7 +39,7 @@ faq:
     a: "ஆம், ஆனால் திறமையான எம்பு (empu) களின் எண்ணிக்கை கடுமையாகக் குறைந்து வருகிறது, இது அறிவைக் கடத்துவதை கடினமாக்குகிறது. இந்த வீழ்ச்சியை கீரிஸின் நிலைத்தன்மைக்கான முக்கிய சவாலாக UNESCO பட்டியலிட்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,34 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'இருண்ட மேற்பரப்பில் கிடக்கும் சடங்கு மலாய் keris; அதன் அலையலையான எஃகு கத்தியும் அடிப்பகுதியும் செதுக்கிய தந்த நிற பிடிக்கு கீழே பொன்முலாம் பூ வேலைப்பாட்டில் உறையிடப்பட்டுள்ளது; கீழே பொருந்தும் வெள்ளி-பொறிப்பு மர உறை'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: இருண்ட அருங்காட்சியகக் கண்ணாடிப் பெட்டியில் நேராக நிறுத்தப்பட்ட பல பழமையான அரச கிரிஸ்கள், அவற்றின் நீளமான செதுக்கப்பட்ட வெள்ளி உறைகளின் மேல் நுட்பமாக வார்க்கப்பட்ட பறவைத் தலை பிடிகள் அமைந்துள்ளன, நிழலான பின்னணிக்கு எதிராக உலோக வேலைப்பாடு மின்னும்படி ஒளியூட்டப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர்-ரியாவ் சுல்தானகத்துடன் தொடர்புடைய அலங்கார வெள்ளிப் பறவைத் தலை பிடிகளைக் கொண்ட அரச மலாய் கிரிஸ்களின் தொகுப்பு
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: நேரான கத்தியைக் கொண்ட ஒரு சடங்குக் கிரிஸ், இருண்ட செதுக்கப்பட்ட பிடியுடன், வெளிறிய மேற்பரப்பில் அதன் நீளமான மெல்லிய மரம் உறையின் அருகில் கிடத்தப்பட்டுள்ளது, அவற்றுக்குக் கீழே KERIS ALANG PAHANG என எழுதப்பட்ட அருங்காட்சியக விளக்க அட்டை உள்ளது
+    kind: actual
+    origin: third-party
+    subject: பகாங்கின் கிரிஸ் அலாங், தலைமைத்துவ அதிகாரத்தைக் குறிக்கும் ஒரு சடங்குக் கிரிஸ், அதன் மர உறையின் அருகில் கிடத்தப்பட்டுள்ளது
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 நெருப்பு நாக்கு போல் பற்களுடன் கூடிய ஒரு கத்தி, ஒரு எம்பு (empu) வின் கையால் இரும்பு மற்றும் நிக்கலை நூற்றுக்கணக்கான முறை மடித்து உருக்கப்பட்டது — கீரிஸ் வெறும் ஆயுதம் மட்டுமல்ல, மலாய் நாகரிகத்தின் நாடித்துடிப்பு. இது வீரர்களின் இடுப்பில் செருகப்பட்டது, அரச சம்பிரதாயங்களில் உயர்த்திப் பிடிக்கப்பட்டது, மேலும் குடும்பப் பாரம்பரியச் சொத்தாக தலைமுறை தலைமுறையாக கடத்தப்பட்டது. இன்றுவரை, கீரிஸ் இறையாண்மை, துணிச்சல் மற்றும் இன அடையாளத்தின் சின்னமாகவே நிலைத்திருக்கிறது.

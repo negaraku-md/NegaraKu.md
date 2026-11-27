@@ -82,6 +82,33 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'Pandangan sudut rendah fasad putih bertembok ganjil Gurdwara Sahib Sikh di Johor Bahru, lambang Khanda Sikh emas dan tulisan Gurmukhi di bahagian hadapannya, bendera Malaysia berkibar dari balkoni dan sebuah bangunan tinggi bandar menjulang di belakangnya bertentangan langit biru'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: Fasad berkabung kuning terang dan putih Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, lambang Khanda Sikh di atas pintu masuk, bendera Nishan Sahib berwarna kunyit di bumbung dan sebuah kubah bawang emas di sebelah kanan, dilihat merentasi laman hadapan berjubin corak dam
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, sebuah kuil Sikh di Shah Alam, Selangor, Malaysia
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: Fasad putih bermenara banyak yang tinggi pada Gurdwara Sahib Kuching dengan kubah berpuncak emas dan menara di penjuru, lambang Khanda Sikh mengapit papan tanda kuning bertulis Gurdwara Sahib Kuching, bendera Malaysia dan Sarawak berkibar dari tiang tengah, di bawah langit biru
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Sahib Kuching, gurdwara Persatuan Kuil Sikh Sarawak di Kuching, Sarawak, Malaysia
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 Di barisan polis dan kubu-kubu British di Tanah Melayu abad ke-19, ramai pegawai yang berserban dan berjanggut lebat itu bukan orang tempatan — mereka orang Sikh yang dibawa ribuan batu dari Punjab di barat laut India. Daripada tugas menjaga keselamatan itulah tumbuhnya salah satu komuniti minoriti Malaysia yang paling kecil tetapi paling mudah dikenali.

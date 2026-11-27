@@ -31,7 +31,7 @@ faq:
     a: "El JBPM figura como un departamento dependiente del Ministerio de Vivienda y Gobierno Local (KPKT). Las carteras ministeriales en Malasia se reorganizan de vez en cuando, así que confirme la disposición vigente en kpkt.gov.my o bomba.gov.my antes de basarse en ella en documentos oficiales."
 
 lang: "es"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,33 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Departamento de Bomberos y Rescate", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'Varios camiones de bomberos Scania Bomba de un rojo brillante idénticos con la misma librea ''Bomba dan Penyelamat'' estacionados en fila, uno tras otro, en un terreno abierto junto a un edificio de estación, bajo un cielo azul despejado'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: Un camión de bomberos y rescate Bomba rojo con tracción a las cuatro ruedas, con una caja trasera cubierta de lona y el escudo del departamento en la puerta, aparcado en la explanada de un parque de bomberos de tejado rojo con una palmera detrás
+    kind: actual
+    origin: third-party
+    subject: un único camión de rescate pesado Bomba rojo aparcado en el parque de bomberos de Sandakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: La fachada de un parque de bomberos de tres plantas pintado de beige y terracota, con su hilera de persianas que deletrean BOMBA en grandes letras rojas bajo un cartel que reza «Balai Bomba dan Penyelamat Jalan Kubu», con guirnaldas de farolillos rojos tendidas por la fachada
+    kind: actual
+    origin: third-party
+    subject: la fachada del parque de bomberos de Jalan Kubu (Balai Bomba dan Penyelamat) en Melaka, con la palabra BOMBA deletreada en grande en las persianas de la cochera
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 Cuando una casa se incendia, un coche queda atrapado en una inundación o un

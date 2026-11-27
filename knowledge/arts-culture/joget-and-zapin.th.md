@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจความแตกต่างของต้นกำเนิด ดนตรี และท่วงท่าระหว่างโจเกตและซาปินในฐานะการรำพื้นบ้านมลายูสองชนิดที่แยกจากกัน"
 
 lang: "th"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,34 @@ relations:
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/joget-and-zapin/hero.webp'
+heroAlt: 'นักเต้นมลายูสี่คนกำลังรำซาปินบนเวทีไม้ ชายสองคนในชุดบาจูมลายูสีแดงอมม่วงปนส้มสวมหมวกเติงโกลกสีดำทำท่ามือเปิด ขณะหญิงสองคนในผ้าซงเกตสีม่วงและผ้าคลุมโปร่งทำท่าแขนอ่อนช้อยใต้แสงอบอุ่น'
+heroCredit: 'ScribblingGeek / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: กลุ่มนักเต้นมลายูในชุดโสร่งสีชมพู เขียว และทองสดใสยกแขนและบิดข้อมือในการเต้นโจเก็ตอันมีชีวิตชีวา ชายสวมเสื้อเข้าชุดและหญิงประดับดอกไม้ที่ผม ในงานกลางแจ้งที่กัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: กลุ่มนักเต้นพื้นบ้านมลายูแสดงการเต้นสไตล์โจเก็ตอันมีชีวิตชีวาที่กัวลาลัมเปอร์ ประเทศมาเลเซีย
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: นักเต้นมลายูหลายสิบคนในชุดบาจูกุรง โสร่ง และหมวกซงก๊กยกมือทั้งสองขึ้นเหนือศีรษะพร้อมกันระหว่างการเต้นซาปินหมู่กลางแจ้ง เต็มถนนหน้าศาลาไม้ในวันที่ท้องฟ้ามืดครึ้ม
+    kind: representative
+    origin: third-party
+    subject: การเต้นซาปิน (เจปิน) หมู่โดยนักแสดงมลายูในชุดดั้งเดิมในงานเทศกาลของเมืองที่เมืองปนตียานัก ประเทศอินโดนีเซีย
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 นักรำสองคนเคลื่อนไหวอย่างรวดเร็วตามจังหวะเกินดัง — เท้ากระทืบ มือร่ายรำอย่างอ่อนช้อย หลายคนที่ชมมันเรียกทันทีว่า "การรำมลายู" โดยไม่แยกว่าอันไหนคือโจเกตและอันไหนคือซาปิน ถามว่าแต่ละอย่างมาจากไหน แล้วคำตอบจะพาเราไปสู่สองมุมของโลก กล่าวคือ อย่างหนึ่งมาจากดาดฟ้าเรือค้าขายของโปรตุเกสในมะละกา อีกอย่างมาจากกองคาราวานของนักเผยแผ่ศาสนาชาวอาหรับจากฮัฎเราะเมาต์

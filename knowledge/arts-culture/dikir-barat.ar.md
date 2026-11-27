@@ -18,7 +18,7 @@ keyTakeaways:
   - "يرتبط هذا الفنّ بتقليد «ذِكر» من جنوب تايلاند جرى تكييفه في كلنتان بإضافة البانتون واللهجة الكلنتانية"
 appliesTo: "كل من يريد فهم شكل أداء ديكير بارات، ودوري توكانغ كاروت وتوك جوارا، وبنية الفرقة."
 lang: "ar"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,34 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "ديكير بارات", "tukang karut", "tok juara", "awok-awok", "Kelantan", "كلنتان", "pantun berbalas", "فنون الأداء", "التراث الوطني"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'مؤدّيا ديكير بارات بزي أخضر وذهبي وأغطية رأس طويلة منحنية يجلسان على الأرض يؤديان حركات ذراع متزامنة مبتسمَين، وطبول رباعية يدوية على الأرض أمامهما وأزهار وردية خلفهما'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: صف من أدّاء ديكير بارات الجالسين بأزياء خضراء وذهبية وأغطية رأس عالية يصفّقون في انسجام ويبتسمون خلال عرض ليلي، مع طبول ربانة يدوية على الأرض أمامهم
+    kind: representative
+    origin: third-party
+    subject: صف من أدّاء ديكير بارات الجالسين (أووك-أووك) يصفّقون في انسجام (تقليد ملايوي مشترك، تشينغاي، سنغافورة)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: مغنّية رئيسية تغنّي في ميكروفون بينما يصفّق صف جالس من الأدّاء الطلاب بالأسود مع عصابات رأس حمراء في انسجام، مع طبل ربانة وغونغ، في قاعة مدرسة ماليزية
+    kind: actual
+    origin: third-party
+    subject: فرقة ديكير بارات مدرسية بمغنّية رئيسية وجوقة أووك-أووك تصفّق وإيقاع، ماليزيا
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 تجلس مجموعتان متربّعتين، تواجه إحداهما الأخرى على المسرح. لا نصّ مكتوب هناك. وحين تُنهي المجموعة الأولى جولةً من [البانتون](/ar/arts-culture/pantun) (pantun) الساخر عن ارتفاع الأسعار، لا يكون أمام المجموعة الثانية سوى ثوانٍ معدودة لتأليف ردّ — ردٍّ لا بدّ أن يكون مُقَفّى، وأن يأتي على الإيقاع، ويُستحسن أن يكون أكثر حدّةً من البيت الأصلي.

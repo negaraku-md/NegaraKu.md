@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 
 status: "published"
 aiAssisted: true
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'கடற்கரை-மற்றும்-பவளப்பாறைப் பயணிகளுக்கு ஏற்றது — பயணிகள் கடற்கரைகள் முதல் தொகுப்பு ரிசார்ட்டுகள் வரை கடல் பூங்காத் தீவுப் பயணங்களைத் தேடும் ஸ்னார்க்கலர்கள் மற்றும் டைவர்கள்.'
+  getThere: 'ஒவ்வொரு தீவின் சொந்த நிலப்பகுதித் துறைமுகத்திலிருந்து படகு: Terengganu-இல் Redang-க்கு Merang, Perhentian-க்கு Kuala Besut மற்றும் Kapas-க்கு Marang, மேலும் Pahang-இல் Tioman-க்கு Mersing அல்லது Tanjung Gemok.'
+  permit: 'கட்டாய கடல் பூங்கா பாதுகாப்புக் கட்டணம், படகில் ஏறுவதற்கு முன் நிலப்பகுதித் துறைமுக முனையத்தில் ஒரு கவுண்டரில் செலுத்தப்படுகிறது, உங்கள் படகுக் கட்டணத்திலிருந்து தனியானது.'
+  watch: 'ஒரே கட்டாய மூடல் எதுவும் இல்லை, ஆனால் பெரும்பாலான தீவு இயக்குநர்கள் வடகிழக்கு பருவமழைக்கு தன்னார்வமாக மூடுகிறார்கள், எனவே அந்த மாதங்களுக்கு அருகில் பணம் செலுத்துவதற்கு முன் படகுப் பயணங்களை உறுதிப்படுத்துங்கள்.'
+  next: 'தற்போதைய பாதுகாப்புக் கட்டணங்களையும் கடல் பூங்கா விதிகளையும் Department of Fisheries Malaysia-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Perhentian தீவுகளில், மேகங்களுடன் நீல வானத்திற்குக் கீழே, காலநிலைத் தேய்ந்த கிரானைட் பாறைகள், ஒரு தனி மரம், துருக்கிநீல ஆழமற்ற நீருடன் வெறிச்சோடிய வெள்ளை மணல் கடற்கரை'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Pulau Redang-இல் பசுமையான நீர் மற்றும் பனைமரங்களுடன், ஒரு சிறிய காடு மூடிய பாறைத் தீவை நோக்கி வளையும் அகலமான வெண்மணல் கடற்கரை
+    kind: actual
+    origin: third-party
+    subject: Pulau Redang-இன் நீண்ட வெண்மணல் கடற்கரை, அதன் கடல்சார் பாறைத் தீவு மற்றும் பசுமையான நீருடன், தெரங்கானு
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Perhentian தீவுகளில் எளிய சலெட் கூரைகள் மற்றும் பனைமரங்களுக்கு மேலாக, சிறிய படகுகள் மற்றும் காடு மூடிய முனை நிறைந்த பிரகாசமான பசுமையான விரிகுடாவைப் பார்க்கும் உயரக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: Perhentian தீவுகளில் ஒரு கடற்கரை கிராமம் மற்றும் படகுகள் நிறைந்த அதன் பசுமையான விரிகுடாவின் உயரக் காட்சி, பிரபலமான ஸ்னார்க்கலிங் தளம்
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 டிசம்பரில் Redang கடற்கரை ரிசார்ட் ஒன்றுக்குச் சென்றால், படகுகள் மறைந்திருப்பதையும், ஜெட்டி அமைதியாக இருப்பதையும், மூழ்கல் கடை மூடப்பட்டிருப்பதையும் நீங்கள் பெரும்பாலும் காண்பீர்கள். கிழக்குக் கடற்கரைத் தீவுகள் சுற்றுலாத் துண்டுப்பிரசுரத்தால் அல்ல, கடலால் எழுதப்பட்ட ஒரு நாட்காட்டியின்படி இயங்குகின்றன — மேலும் பெரும்பாலான புதியவர்கள் டிக்கெட் கவுன்டரில்தான் கண்டுபிடிக்கும் கடல் பூங்கா விதிகளின் தொகுப்பின்படியும் இயங்குகின்றன.

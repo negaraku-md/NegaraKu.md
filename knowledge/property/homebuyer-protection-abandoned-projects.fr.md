@@ -33,7 +33,7 @@ faq:
     a: "Une décision du Tribunal est définitive et contraignante et peut être exécutée comme une ordonnance de justice. Le non-respect d'une décision est une infraction passible d'une amende de RM10,000 à RM50,000 ou d'un emprisonnement maximal de deux ans, ou des deux."
 
 lang: "fr"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ entity: "Housing Development (Control and Licensing) Act 1966"
 relations:
   - { rel: "governs", to: "property-developers-malaysia" }
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
-related: []
+related: ["housing-developers-act-hda", "affordable-housing-schemes", "strata-management-jmb-mc"]
 keywords: ["HDA", "Akta 118", "APDL", "licence de promoteur", "Tribunal des réclamations de l'acheteur de logement", "projets abandonnés", "SPNB", "KPKT", "protection de l'acheteur de logement"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'Un bâtiment en béton à plusieurs étages inachevé et à l''abandon, envahi par la végétation, avec des drapeaux malaisiens au premier plan, à Gombak.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: Une maison délabrée de plain-pied laissée à l'abandon, envahie par la végétation et aux briques nues
+    kind: actual
+    origin: third-party
+    subject: Une maison abandonnée et inachevée à Desa Subang Permai, Selangor
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: Un bâtiment abandonné rongé par les intempéries, à la peinture écaillée et aux ouvertures de fenêtres vides, à Melaka
+    kind: actual
+    origin: third-party
+    subject: Un bâtiment désaffecté et abandonné à Melaka
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 Vous avez versé le dépôt, signé le Contrat de vente et vous attendez les clés — et soudain le chantier reste silencieux pendant des mois. Pour les acheteurs de logements résidentiels neufs en Malaisie péninsulaire, la loi offre en réalité plusieurs couches de protection avant, pendant et après qu'une telle situation survienne. L'essentiel est de savoir ce qui est protégé et vers qui se tourner lorsque quelque chose tourne mal.

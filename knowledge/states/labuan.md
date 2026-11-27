@@ -66,9 +66,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'The modern curved blue-glass and silver towers of the Financial Park Labuan complex rising above palm trees under a bright sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: The tall red-brick Chimney tower of Labuan standing against a deep-blue sky with coconut palms and green lawn around its base
+    kind: actual
+    origin: third-party
+    subject: The Chimney, Labuan's tall red-brick colonial-era landmark, standing on a lawn beside coconut palms
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: The jetty and waterfront buildings of Labuan town viewed from the harbour, with boats and the island skyline under a cloudy blue sky
+    kind: actual
+    origin: third-party
+    subject: Labuan's ferry terminal jetty and waterfront town seen across the harbour from the sea
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 Two companies, same owners, same customers. One is incorporated in Kuala Lumpur and

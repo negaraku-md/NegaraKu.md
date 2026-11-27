@@ -32,7 +32,7 @@ faq:
     a: "이스칸다르 말레이시아는 2000년대에 출범한 말레이시아 개발 회랑으로 JS-SEZ 범위 안에 자리합니다. JS-SEZ는 더 넓고 양자적입니다: 싱가포르를 공동 서명국으로 추가하고, 구역을 펜게랑까지 확장하며, 그 위에 공유 인센티브 및 지원 골격을 층으로 쌓습니다."
 
 lang: "ko"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: '조경된 로터리에 선 큰 도로변 ''Iskandar Puteri'' 랜드마크 간판, 뒤로 사무·상업 타워와 건설 크레인이 스카이라인에 있는 모습'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: 조호르의 Forest City를 공중에서 본 모습으로, 공사 중인 해안가 고층 타워들과 해협 옆 간척 해변을 따라 늘어선 흰색 빌라 단지들이 보인다
+    kind: actual
+    origin: third-party
+    subject: 조호르 해협에 자리한 조호르의 대표 접경 개발지 Forest City로, 싱가포르 쪽 물가를 향해 공사 중인 타워와 빌라 단지들이 있다
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 두 국가가 국경을 넘어 세제를 공유하기로 합의하였습니다. 그것이 바로 조호르-싱가포르 경제특구의 조용한 참신함입니다 — 새로운 산업단지가 아니라, 조호르 남부와 싱가포르가 세계 투자자들에게 하나의 사업 주소로 스스로를 홍보할 수 있게 하는 양자 간 합의입니다.

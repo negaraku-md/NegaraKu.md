@@ -31,7 +31,7 @@ faq:
   - q: มีการสนับสนุนจากรัฐบาลอะไรบ้างสำหรับภาค M&E?
     a: M&E เป็นอุตสาหกรรมเทคโนโลยีขั้นสูงที่ MIDA ให้ความสำคัญ มีสิทธิได้รับสิทธิประโยชน์การลงทุน และเป็นแกนกลางของนโยบาย Industry 4.0 แห่งชาติ Industry4WRD ซึ่งเสนอเงินช่วยเหลือ เช่น Industry4WRD Intervention Fund และ Domestic Investment Strategic Fund สำหรับบริษัทที่รับระบบอัตโนมัติและเทคโนโลยีขั้นสูง
 lang: th
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -94,6 +94,32 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'พื้นโรงงานที่เรียงรายด้วยเครื่องมือกลซีเอ็นซีและคนงาน ซึ่งเป็นภาพทั่วไปของอุตสาหกรรมการผลิตเครื่องจักรและอุปกรณ์'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: เครื่องจักรก่อสร้างหนักสีเหลืองที่ประกอบบางส่วนเรียงรายอยู่ภายในโรงงานผลิตอุตสาหกรรมขนาดใหญ่
+    kind: representative
+    origin: third-party
+    subject: โรงงานผลิตเครื่องจักรหนัก (ตัวอย่างการผลิตเครื่องจักรอุตสาหกรรม)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: สายการเชื่อมด้วยหุ่นยนต์อัตโนมัติเชื่อมแผ่นเหล็กขนาดใหญ่บนสายการประกอบภายในโรงงานอุปกรณ์หนัก
+    kind: representative
+    origin: third-party
+    subject: สายการประกอบด้วยการเชื่อมด้วยหุ่นยนต์ในโรงงานอุปกรณ์หนัก (ตัวอย่าง)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 ทุกโรงงานทำงานบนเครื่องจักร — และเครื่องจักรเหล่านั้นต้องมีคนสร้าง อุตสาหกรรมเครื่องจักรและอุปกรณ์ (M&E) คือส่วนหนึ่งของการผลิตที่สร้างสายการผลิต เครื่องจักรกระบวนการ เครื่องมืองานโลหะ ระบบพลังงาน และระบบอัตโนมัติที่ทุกอุตสาหกรรม *อื่น ๆ* พึ่งพา มันเป็นอุตสาหกรรมใหญ่ที่มองเห็นได้น้อยที่สุดในเศรษฐกิจ และด้วยเหตุผลนั้นเองจึงเป็นหนึ่งในที่สำคัญเชิงยุทธศาสตร์ที่สุด

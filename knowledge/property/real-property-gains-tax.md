@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'Menara kondominium Verdana menjulang di atas kawasan kediaman North Kiara di Kuala Lumpur.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: Pavilion galeri jualan tepi jalan dan papan tanda bertulisan besar pembangunan kediaman Riana Dutamas di Segambut, Kuala Lumpur, tempat rumah baharu dipasarkan dan dijual
+    kind: representative
+    origin: third-party
+    subject: Galeri jualan dan papan tanda pembangunan kediaman Riana Dutamas, Segambut, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Sebuah rumah kampung Malaysia berasingan moden dengan bumbung logam, mewakili rumah bertanah yang pelupusannya boleh mencetuskan cukai keuntungan harta tanah
+    kind: representative
+    origin: third-party
+    subject: Sebuah rumah kampung berasingan moden di Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 Anda menjual rumah dengan untung — tetapi sebelum wang masuk ke akaun, kerajaan mahu bahagiannya. Itulah RPGT, cukai yang sering terlepas pandang oleh penjual sehingga peguam menahan beribu-ribu ringgit di meja penyelesaian.

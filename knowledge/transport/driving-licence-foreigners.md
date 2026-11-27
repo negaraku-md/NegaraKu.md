@@ -68,6 +68,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'A junction on a Malaysian federal highway near Penang Sentral with yellow warning signs, traffic lights and cars.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: A Malaysian height-restriction regulatory road sign mounted above a Kuala Lumpur road near a toll approach.
+    kind: representative
+    origin: third-party
+    subject: Malaysian road regulatory sign
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: Traffic lights and lane markings along Malaysia Federal Route 91 running north through Kluang, Johor.
+    kind: actual
+    origin: third-party
+    subject: Federal highway through Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 An MM2H retiree who has driven for thirty years overseas, a new Employment Pass

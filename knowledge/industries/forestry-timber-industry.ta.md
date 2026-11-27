@@ -31,7 +31,7 @@ faq:
   - q: இது மலேசியாவின் தளபாடத் தொழிலைப் போன்றதா?
     a: இல்லை. இந்த வழிகாட்டி மேல்நிலை வளத் துறையை உள்ளடக்கியது — வனங்கள், மரம் வெட்டுதல் மற்றும் மரக்கட்டைகள், அறுத்த மரம் மற்றும் ஒட்டுப்பலகை போன்ற முதன்மைப் பொருட்கள். தளபாடம் மற்றும் முடிக்கப்பட்ட மரப்-பொருட்கள் துறை அந்த முதன்மைப் பொருட்களை அதிக-மதிப்பு பொருட்களாக ஏற்றுமதிக்கு மாற்றும் கீழ்நிலை, உற்பத்தி முனை. இரண்டும் இணைக்கப்பட்டவை ஆனால் பொதுவாக தனித் தொழில்களாகக் கருதப்படுகின்றன.
 lang: ta
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: 'மலேசியாவின் சபாவில் உள்ள ஒரு மரவெட்டு முற்றத்தில் புதிதாக வெட்டப்பட்ட கடின மரக் கட்டைகளை ஒரு சக்கர லோடரும் தொழிலாளர்களும் பதப்படுத்துகின்றனர்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: மலேசியா, சபாவில் உள்ள ஒரு கிராமப்புற மரவெட்டு ஆலையின் திறந்த கூரையின் கீழ் அறுக்கப்பட்ட கடின மரப் பலகைகள் மற்றும் மரக்கட்டைகளின் குவியல்கள்.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, காம்போங் மெம்பகாட்டில் மரவெட்டு ஆலை
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: சபா, சண்டாக்கானில் உள்ள ஒரு பிளைவுட் தொழிற்சாலையில் சக்கர ஏற்றி ஒன்று வெப்பமண்டல கடின மரக்கட்டைகளை வெட்டும் பிரிவை நோக்கி நகர்த்துகிறது.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, சண்டாக்கானில் பிளைவுட் தொழிற்சாலையின் மரக்கட்டை முற்றம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 மலேசியா பூமியிலுள்ள சில பழமையான மழைக்காடுகளின் மீது அமர்ந்துள்ளது, மேலும் அதன் நவீன வரலாற்றின் பெரும்பகுதிக்கு வெப்பமண்டல கடினமரத்தின் வர்த்தகம் தேசியப் பொருளாதாரத்தின் தூண்களில் ஒன்றாக இருந்தது. அந்த மேல்நிலை உலகம் — வனங்களே, அவற்றை வெட்டும் உரிமங்கள், மற்றும் கச்சா மரக்கட்டைகளை மரமாக முதல் செயலாக்கம் செய்தல் — சங்கிலியின் கீழே உள்ள தளபாடத் தொழிற்சாலைகள் மற்றும் மரப்-பொருட்கள் ஏற்றுமதியாளர்களிலிருந்து தனித்த ஒரு தொழில். இந்த வழிகாட்டி **வனவியல் மற்றும் மர வளத் துறையை** உள்ளடக்கியது: மரம் எங்கிருந்து வருகிறது, யார் அதைக் கட்டுப்படுத்துகிறார்கள், அது எவ்வாறு ஏற்றுமதி செய்யப்படுகிறது, மற்றும் இப்போது அதை மறுவடிவமைக்கும் நிலைத்தன்மை மற்றும் சந்தை அழுத்தங்கள்.

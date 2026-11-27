@@ -32,7 +32,7 @@ faq:
   - q: "오늘날 말레이시아의 체티아르 공동체는 어떤 상황입니까?"
     a: "20세기 중엽, 금융 관련 법 개정과 정치 변동으로 전통적 대금업이 위축되었습니다. 많은 이가 상업, 전문직, 교육 관련 분야로 옮겨 갔습니다. 수는 적은 공동체이지만, 사원·축제·음식·가족 전통을 통해 독특한 문화 정체성을 지켜 가고 있습니다."
 lang: "ko"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: '페낭 산비탈의 울창한 초록 정글에서 솟아오른 나투코타이 체티아르(Nattukottai Chettiar) 폭포 언덕 사원의 하얀 고푸람(gopuram) 탑.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: 조각상으로 뒤덮인 화려한 남인도식 사원 탑문(고푸람)이 페낭의 맑은 하늘을 배경으로 서 있다
+    kind: actual
+    origin: third-party
+    subject: 나가라타르(나투코타이 체티아르) 시바 사원, 페낭 조지타운
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: 꽃목걸이를 두른 높다란 금빛 사원 수레가 해질 녘 페낭 거리를 신자들의 인파 속으로 지나간다
+    kind: actual
+    origin: third-party
+    subject: 페낭 타이푸삼 행렬의 금색 수레와 신자들, 체티아르(Chettiar) 공동체가 이어가는 축제
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 페낭 타이푸삼 날, 은으로 만든 웅장한 마차가 르부 페낭 거리에서 출발하여 언덕 위 무루간 사원을 향해 나아갑니다. 그 마차도, 한 세기 넘게 그것을 이끌어 온 공동체도 우연이 아닙니다 — 둘 다 체티나두에서 말라야로 건너온 상업·금융 전통의 이야기를 들려줍니다.

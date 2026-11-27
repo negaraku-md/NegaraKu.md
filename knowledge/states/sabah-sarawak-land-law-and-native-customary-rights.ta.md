@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'கிராமப்புற சரவாக்கில் பசுமையான, காடுகள் நிறைந்த ஆற்றங்கரையோரம் தூண்களின் மீது உயர்த்தப்பட்ட, அலைவடிவ உலோகக் கூரையுடைய ஒரு நீண்ட மரத்தாலான இபான் நீள்வீடு.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கோலாலம்பூரில் (Kuala Lumpur) ஒரு வீட்டை வாங்குங்கள் — உங்கள் உரிமையை ஒரே ஒரு கூட்டரசு சட்டம் ஆளும். அதையே கூச்சிங்கிலோ (Kuching) அல்லது கோட்டா கினபாலுவிலோ (Kota Kinabalu) செய்யுங்கள் — முற்றிலும் வேறுபட்ட ஒரு சட்ட உலகத்திற்குள் நீங்கள் அடியெடுத்து வைக்கிறீர்கள்: தனக்கே உரிய ஆணைகள், தனக்கே உரிய நில வகைகள், மற்றும் எந்தத் தாளும் உருவாக்காத ஒரு வகை உடைமை — பூர்வீக வழக்காற்று உரிமைகள் (Native Customary Rights).

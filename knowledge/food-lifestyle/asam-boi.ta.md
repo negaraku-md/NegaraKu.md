@@ -42,7 +42,7 @@ sources:
     publisher: "Nyonya Cooking"
 
 lang: "ta"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ drinkFacts:
   halal: "பதப்படுத்தப்பட்ட பழம்; asam boi பானங்கள் பழம், சர்க்கரை மற்றும் தண்ணீர் மது இல்லாமல், எனவே அவை தம்மளவிலேயே ஹலால். உத்தரவாதம் ஒரு கடை பானத்துக்கு வளாகத்துடனும், ஒரு பேக்கேஜ் செய்யப்பட்ட பொருளின் சான்றிதழ் முத்திரையுடனும் தொடர்புடையது — கருதிக்கொள்வதற்குப் பதிலாக அதைத் தேடுங்கள்."
   served: "மிகவும் செந்நெறியாக limau asam boi ஆக — calamansi எலுமிச்சை புளிப்பு-பிளம் கரைசலுடன், ஐஸ் மேல், சில பிளம் துண்டுகளுடனும் சில நேரங்களில் ஒரு சிட்டிகை உப்புடனும். குளிர்பானங்களிலும் (Sprite asam boi) Ribena-விலும் சேர்க்கப்படுகிறது. தனியாக ஒரு சிற்றுண்டியாகவும் உண்ணப்படுகிறது."
   where: "நாடு முழுவதுமுள்ள மாமாக் மற்றும் கோபிதியாம் பானக் கவுண்டர்கள், ஹாக்கர் கடைகள் மற்றும் உலர்-பொருட்கள் கடைகளில் காணப்படுகிறது; பேக்கேஜ் செய்யப்பட்ட asam boi பேரங்காடிகளிலும் சில்லறைக் கடைகளிலும் விற்கப்படுகிறது."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'asam boi எனப்படும் சுருக்கம் விழுந்த, உப்பு படிந்த பழுப்பு உலர் ஊறுகாய் பிளம் பழங்களின் உணவு'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: சுருக்கமான, உப்பு பூசிய இரண்டு உலர்ந்த ஊறுகாய் பிளம்களின் நெருங்கிய காட்சி
+    kind: actual
+    origin: third-party
+    subject: இரண்டு உப்பிட்ட ஊறுகாய் பிளம்களின் நெருங்கிய காட்சி (buay khem / asam boi)
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: உப்பு படிந்த உலர்ந்த ஊறுகாய் பிளம்கள் குவிக்கப்பட்ட ஒரு தெளிவான கண்ணாடிக் கிண்ணம்
+    kind: actual
+    origin: third-party
+    subject: உப்பிட்ட உலர்ந்த ஊறுகாய் பிளம்கள் நிறைந்த ஒரு கிண்ணம் (buai khem / asam boi)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 சில சுவைகளை மறப்பது கடினம், மேலும் **asam boi** அவற்றுள் ஒன்று: ஒரே நேரத்தில் இனிப்பு,

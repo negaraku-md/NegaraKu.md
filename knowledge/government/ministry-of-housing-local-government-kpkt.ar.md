@@ -27,7 +27,7 @@ faq:
   - q: "ماذا كان اسم KPKT من قبل، ومتى تغيّر الاسم؟"
     a: "كانت وزارة تطوير الحكومة المحلية؛ وقرّر مجلس الوزراء إعادة تسميتها وزارة الإسكان والحكومة المحلية في 13 ديسمبر 2023، وأُعلن ذلك في 26 ديسمبر 2023."
 lang: "ar"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,37 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "وزارة الإسكان والحكومة المحلية ماليزيا", "Ministry of Housing and Local Government Malaysia", "وظائف KPKT", "وكالات KPKT", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "محكمة الإسكان وإدارة الطبقات", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "الإسكان الميسور ماليزيا B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'برج حكومي طويل منحنٍ من الرمادي والزجاج في بوتراجايا يرتفع فوق نصب لافتة أسود يقرأ Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (وزارة رفاه المدن والإسكان والحكومة المحلية) مع شعار المنزل KPKT'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: لقطة قريبة لنصب لافتة حجري أسود يحمل شعار النبالة الماليزي، وعبارة Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government، وعنوان الموقع kpkt.gov.my وشعار KPKT الملوّن على هيئة منزل
+    kind: actual
+    origin: third-party
+    subject: نصب لافتة KPKT عند مدخل مبنى الوزارة، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: منظر أمامي لبرج KPKT الحكومي في بوتراجايا، وواجهته المركزية مزدانة بأعلام Jalur Gemilang الوطنية العمودية الطويلة، تؤطّرها نخيل مروحية أمام سماء غائمة
+    kind: actual
+    origin: third-party
+    subject: برج KPKT في بوتراجايا مزيّنًا بالأعلام الماليزية العمودية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 حين لا تُجمَع نفاياتك، وحين تحين شهادة السلامة من الحرائق، وحين يسلّمك مطوّر شقتك

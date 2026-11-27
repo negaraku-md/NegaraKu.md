@@ -81,6 +81,32 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'A long timber Iban longhouse raised on wooden stilts along a forested hillside above a river in Sarawak, the communal home of a Dayak community.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: Young people in black-and-gold Kadazan costume and conical hats, holding bamboo instruments, at an outdoor cultural event in Sabah
+    kind: actual
+    origin: third-party
+    subject: Kadazan Tangara community in traditional dress at a Kaamatan harvest celebration in Papar, Sabah
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: A man and woman in Orang Ulu ceremonial attire and beaded headgear standing against a wall painted with swirling Borneo motifs
+    kind: actual
+    origin: third-party
+    subject: An Orang Ulu couple in traditional dress before a painted longhouse mural, Sarawak
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 Fly over the interior of Borneo and you cross more languages in an hour than most countries hold in total. A river valley in Sabah's highlands, a longhouse on the upper Baram in Sarawak, a coastal fishing village — each may greet you in a tongue the next valley barely understands.

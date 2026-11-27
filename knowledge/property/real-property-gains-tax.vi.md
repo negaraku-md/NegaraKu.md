@@ -35,7 +35,7 @@ faq:
     a: "Có. Các khoản chi phí làm tăng hoặc bảo tồn giá trị bất động sản, như chi phí cải tạo và nâng cấp, có thể được khấu trừ miễn là được hỗ trợ bằng biên lai và giấy tờ hợp lệ."
 
 lang: "vi"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'Những tòa tháp chung cư Verdana vươn lên trên khu dân cư North Kiara của Kuala Lumpur.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: Gian phòng trưng bày bán hàng bên đường và biển hiệu chữ lớn của dự án nhà ở Riana Dutamas tại Segambut, Kuala Lumpur, nơi những ngôi nhà mới được quảng bá và rao bán
+    kind: representative
+    origin: third-party
+    subject: Phòng trưng bày bán hàng và biển hiệu của dự án nhà ở Riana Dutamas, Segambut, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Một ngôi nhà làng (kampung) Malaysia đơn lập hiện đại với mái tôn, tiêu biểu cho nhà gắn liền với đất mà việc chuyển nhượng có thể phát sinh thuế lợi nhuận bất động sản (RPGT)
+    kind: representative
+    origin: third-party
+    subject: Một ngôi nhà làng đơn lập hiện đại ở Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 Bạn bán nhà có lãi — nhưng trước khi tiền vào tài khoản, chính phủ muốn phần của mình. Đó là RPGT, khoản thuế mà người bán thường bỏ sót cho đến khi luật sư giữ lại hàng nghìn ringgit tại bàn hoàn tất giao dịch.

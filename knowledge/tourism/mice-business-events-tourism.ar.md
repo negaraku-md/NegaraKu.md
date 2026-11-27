@@ -81,6 +81,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["سياحة MICE ماليزيا", "الفعاليات التجارية", "MICE Malaysia", "business events", "MyCEB", "مكتب المؤتمرات", "KLCC", "MITEC", "مركز بورنيو للمؤتمرات كوتشينغ", "المعارض"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'مركز كوالالمبور للمؤتمرات ليلاً، سقفه الموجيّ وواجهته الزجاجيّة مضاءان بدفء فوق ساحة أماميّة مرصوفة مبلّلة بأعمدة فولاذيّة مائلة.'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 عندما يصل 3.2 مليون مندوب جوًّا لحضور مؤتمر، فإنهم يحجزون الفنادق ويستأجرون المترجمين ويملؤون المطاعم ويوقّعون الصفقات — وقد أمضت ماليزيا أكثر من عقد في بناء المنشآت والمكتب اللازمين لاستقطابهم.

@@ -73,7 +73,7 @@ sources:
 relations:
   - { rel: "related-to", to: "property-sale-purchase-agreement" }
   - { rel: "governs", to: "national-land-code-1965" }
-related: []
+related: ["property-agents-and-fees", "real-property-gains-tax", "homebuyer-protection-abandoned-projects"]
 keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamation of sale", "LACA auction", "order for sale", "reserve price", "reserve price deposit"]
 framework: explainer
 ---

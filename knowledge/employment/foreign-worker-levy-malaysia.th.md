@@ -88,7 +88,7 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "requires", to: "hiring-foreign-workers-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["hiring-foreign-workers-malaysia"]
+related: ["hiring-foreign-workers-malaysia", "work-passes-malaysia"]
 keywords: ["foreign worker levy malaysia", "levi pekerja asing", "multi tier levy", "mtlm", "levy rates by sector", "plks levy sabah sarawak"]
 framework: data-reference
 ---

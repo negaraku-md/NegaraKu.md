@@ -42,7 +42,7 @@ verificationNeeded:
   - "The administering agency and application route for the JS-SEZ knowledge worker incentive is not stated in the MIDA guideline — Appendix B of the snapshot lists it under other incentives without naming a route. Confirm with MIDA or IRDA before advising."
 
 lang: "fr"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ keywords:
   - "demande MIDA JS-SEZ"
   - "JS-SEZ tax incentive"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'Une élégante tour de bureaux en verre sombre à Medini, Iskandar Puteri, s''élevant au-dessus d''une allée de parc paysagée sous un ciel dégagé'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: Vue aérienne de Forest City à Johor montrant des tours de grande hauteur en bord de mer en construction et des rangées de blocs de villas blanches le long d'une plage artificielle à côté du détroit
+    kind: actual
+    origin: third-party
+    subject: Forest City, le projet phare transfrontalier à Johor sur le détroit de Johor, avec des tours et des blocs de villas en construction face à l'eau en direction de Singapour
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: Un grand panneau emblématique « Iskandar Puteri » en bord de route sur un rond-point paysager, avec des tours de bureaux et commerciales et des grues de construction sur la ligne d'horizon derrière
+    kind: actual
+    origin: third-party
+    subject: Le panneau emblématique d'entrée d'Iskandar Puteri avec les tours commerciales et les grues de la zone s'élevant sur la ligne d'horizon derrière
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 Tout résumé de la Zone économique spéciale Johor-Singapour commence par le même chiffre : 5 pour cent

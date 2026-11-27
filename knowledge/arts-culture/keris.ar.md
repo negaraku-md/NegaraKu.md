@@ -39,7 +39,7 @@ faq:
     a: "نعم، لكن عدد الإمبو المهرة يتراجع تراجعًا حادًا، مما يصعّب توريث المعرفة. وتدرج اليونسكو هذا التراجع بوصفه تحديًا رئيسًا لاستدامة الكريس."
 
 lang: "ar"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,34 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["الكريس", "الإمبو", "البامور", "اللوك", "التراث الملايوي", "تامينغ ساري", "الكريس الملايوي", "قانون التراث الوطني 2005", "ثقافة نوسانتارا", "keris", "empu", "pamor", "luk", "Taming Sari"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'كريس ملايوي احتفالي على سطح داكن، نصله الفولاذي المتموّج وقاعدته مغلّفان بزخرفة زهرية مذهّبة (koftgari) أسفل مقبض عاجي اللون منحوت، مع الغمد الخشبي الفضّي المنقوش المطابق أسفله'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: عدة خناجر كريس ملكية قديمة منتصبة في خزانة متحفية داكنة، أغمادها الفضية الطويلة المنقوشة تعلوها مقابض مصبوبة بدقة على هيئة رؤوس طيور، مضاءة بحيث يتلألأ شغل المعدن أمام الخلفية المظلّلة
+    kind: actual
+    origin: third-party
+    subject: مجموعة من خناجر الكريس الملكية المالاوية بمقابض فضية مزخرفة على هيئة رؤوس طيور، مرتبطة بسلطنة جوهور-رياو
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: خنجر كريس احتفالي ذو نصل مستقيم ومقبض محفور داكن، ممدود بجانب غمده الخشبي الطويل النحيل على سطح فاتح، وتحتهما بطاقة تعريف متحفية مكتوب عليها KERIS ALANG PAHANG
+    kind: actual
+    origin: third-party
+    subject: كريس آلانغ في باهانغ، خنجر كريس احتفالي يرمز إلى سلطة الزعامة، ممدود بجانب غمده الخشبي
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 نصلٌ مسنَّن كلسان من لهب، مطروقٌ من حديد ونيكل مطويَّين مئات المرات بيد إمبو — الكريس ليس مجرد سلاح، بل نبض حضارة الملايو. كان يُدسّ في خصر المحاربين، ويُرفع عاليًا في المراسم الملكية، ويُورَّث جيلًا بعد جيل بوصفه إرثًا عائليًا. وإلى يومنا هذا، يظل الكريس رمزًا للسيادة والشجاعة وهوية الشعب.

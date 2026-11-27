@@ -32,7 +32,7 @@ faq:
   - q: "สี่วันของไทยปงกัลคือวันใดบ้าง?"
     a: "Bhogi (กำจัดของเก่าและทำความสะอาดบ้าน), Thai Pongal หรือ Surya Pongal (ขอบคุณดวงอาทิตย์และถวายปงกัล), Mattu Pongal (ยกย่องวัวที่ช่วยไถนา) และ Kaanum Pongal (เยี่ยมญาติและออกไปเที่ยว) — นี่คือสี่วันนั้น"
 lang: "th"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "วันขึ้นต้นเดือน Thai ของทมิฬ — ตามปฏิทินเกรโกเรียนโดยทั่วไปอยู่กลางเดือนมกราคม (14 หรือ 15)"
   holiday: "ไม่ใช่วันหยุดราชการที่ประกาศในราชกิจจานุเบกษาทั้งในระดับสหพันธ์หรือระดับรัฐใด ๆ ในมาเลเซีย (มีเพียง Deepavali เท่านั้นที่เป็นวันหยุดราชการระดับสหพันธ์ — ยกเว้นซาราวัก ส่วน Thaipusam เป็นวันหยุดเฉพาะในบางรัฐเท่านั้น)"
   etiquette: "เป็นเทศกาลเชิงวัฒนธรรมที่เกี่ยวกับการเก็บเกี่ยวเป็นหลัก ไม่อิงศาสนา (รัฐมนตรีมาเลเซียชี้แจงไว้ในปี 2020) องค์กรชุมชนและวัดต่างหุง Pongal พร้อมกันในหม้อหลายใบ และจัดการเฉลิมฉลองสาธารณะพร้อมการแสดงศิลปวัฒนธรรม"
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'หญิงยิ้มในส่าหรีสีม่วงปนทองกำลังคนข้าวปงกัลที่กำลังเดือดในหม้อดินที่ล้อมด้วยพวงมาลัยดาวเรือง ปรุงกลางแจ้งที่เทวสถานฮินดูในช่วงไทปงกัล'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: โกลัมปงกัลขนาดใหญ่หลากสีที่วาดด้วยผงสีบนพื้น แสดงลำต้นอ้อย ดอกไม้สดใส และหม้อเทศกาลที่ล้นปรี่ อยู่หน้าประตูบ้าน
+    kind: representative
+    origin: third-party
+    subject: โกลัมปงกัลหลากสีลายอ้อย ดอกไม้ และหม้อล้นปรี่บนถนน
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: หม้อดินทรงกลมสองใบขอบสีแดง วาดด้วยมือเป็นสีขาวพร้อมลายซิกแซกและจุดสีสันสดใส เตรียมไว้สำหรับหุงปงกัลในช่วงเทศกาลเก็บเกี่ยว
+    kind: representative
+    origin: third-party
+    subject: หม้อดินปงกัลสองใบที่วาดด้วยมือตกแต่งสำหรับเทศกาลเก็บเกี่ยว
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 ในยามรุ่งสางที่เดือนไทเริ่มต้นขึ้น ลานบ้านและหน้าประตูของครอบครัวชาวทมิฬทั่ว

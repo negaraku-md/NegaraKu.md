@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'Wafer silikon persegi di atas meja laboratorium, permukaannya berkilau dengan iridesensi magenta, merah muda, dan emas dari lapisan film tipis'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: Seorang teknisi dengan baju bunny-suit putih, tudung, dan masker memegang wafer silikon bundar dengan tangan bersarung tangan di dalam ruang bersih semikonduktor berpencahayaan kuning
+    kind: representative
+    origin: third-party
+    subject: Seorang teknisi berpakaian pelindung memegang wafer silikon di ruang bersih fotolitografi berpencahayaan kuning
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: Seorang teknisi dengan pakaian ruang bersih putih lengkap, tudung, masker, dan sarung tangan mengerjakan komponen logam yang dipoles di meja kerja di dalam ruang bersih yang terang
+    kind: representative
+    origin: third-party
+    subject: Seorang teknisi perakitan berbaju bunny-suit mengerjakan perangkat keras presisi di dalam ruang bersih
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Jika Anda membaca ini di ponsel atau laptop, ada kemungkinan nyata bahwa salah satu chip-nya pernah menghabiskan sebagian masa hidupnya di Malaysia — bukan ditemukan atau dicetak, melainkan diubah dari sekadar irisan silikon menjadi komponen jadi yang terkemas, siap disolder ke papan sirkuit. Langkah yang tenang dan tidak glamor itulah tempat Malaysia membangun salah satu posisi paling berpengaruh di seluruh dunia elektronik.

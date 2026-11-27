@@ -30,7 +30,7 @@ faq:
     a: "हाँ। UEC प्रणाली में मलय एक अनिवार्य विषय है। कई UEC विद्यार्थी निजी अभ्यर्थियों के रूप में SPM भी देते हैं; Dong Zong की रिपोर्ट है कि चीनी स्वतंत्र उच्च विद्यालयों के विद्यार्थियों के बीच SPM मलय उत्तीर्ण दर 2022–2024 के वर्षों में 96% से अधिक रही (2022 में 97.38%, 2023 में 97.11% और 2024 में 96.65%), अन्य अभ्यर्थियों के समान ही SPM प्रश्नपत्र का प्रयोग करते हुए।"
 
 lang: "hi"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "एकीकृत परीक्षा प्रमाणपत्र", "Dong Zong", "चीनी निजी माध्यमिक विद्यालय", "UEC मान्यता", "IPTA", "राष्ट्रभाषा"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'तवाउ में सबाह चीनी उच्च विद्यालय (सेकोलाह तिंगगी सीना सबाह) का प्रवेश नाम-पट्ट और परिसर, जो एक चीनी स्वतंत्र उच्च विद्यालय है जिसके विद्यार्थी एकीकृत परीक्षा प्रमाणपत्र की परीक्षा देते हैं।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: जोहोर बाहरू में Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) का प्रवेश-तोरण और नाम-पट्ट, जिसके साथ जोहोर राज्य का झंडा और विद्यालय का प्रतीक-चिह्न है।
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School, जोहोर बाहरू का एक चीनी स्वतंत्र हाई स्कूल
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: जोहोर बाहरू में Foon Yew High School का बहुमंजिला पुस्तकालय भवन (Perpustakaan), जिसका नाम एक टाइल वाले बरामदे के ऊपर मलय और चीनी में दर्शाया गया है।
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School का पुस्तकालय भवन
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 तीन अक्षर — UEC — मलेशिया की शिक्षा-राजनीति में आधी सदी से भी अधिक समय से चली आ रही एक बहस को भड़काने के लिए पर्याप्त हैं। कुछ के लिए यह एक अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रमाणपत्र है जो दुनिया के अग्रणी विश्वविद्यालयों का द्वार खोलता है; दूसरों के लिए यह राष्ट्रभाषा की प्रतिष्ठा और देश की शिक्षा-नीति को छूता है। दोनों दृष्टिकोण साथ-साथ मौजूद हैं, और पूरी तस्वीर देखने के लिए दोनों को समझना आवश्यक है।

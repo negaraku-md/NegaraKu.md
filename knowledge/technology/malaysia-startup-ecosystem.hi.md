@@ -36,7 +36,7 @@ faq:
     a: "KL20 सरकार की 2024 की कार्य योजना है, जिसका अनावरण कुआलालंपुर में KL20 शिखर सम्मेलन में किया गया, मलेशिया की स्टार्टअप प्रतिस्पर्धात्मकता को मजबूत करने के लिए। यह तीन महत्वपूर्ण फोकस क्षेत्रों — पूँजी, प्रतिभा और स्टार्टअप की गुणवत्ता — में पहलों की रूपरेखा देती है और 2030 तक मलेशिया को RM400 बिलियन के स्टार्टअप मूल्यांकन के साथ शीर्ष-20 वैश्विक स्टार्टअप केंद्र बनाने को लक्षित करती है। यह मलेशिया वेंचर कैपिटल रोडमैप 2024-2030 और 2030 तक मलेशिया को एक पसंदीदा क्षेत्रीय वेंचर-कैपिटल केंद्र बनाने के लक्ष्य के साथ संरेखित है।"
 
 lang: "hi"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "मलेशिया स्टार्टअप पारिस्थितिकी तंत्र", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: बड़ी खिड़कियों और एक चमड़े के सोफ़े वाले एक गर्म, औद्योगिक-शैली के को-वर्किंग स्थल में लंबी साझा लकड़ी की मेज़ों पर लैपटॉप पर काम करते और बातें करते लोग
+    kind: representative
+    origin: third-party
+    subject: एक औद्योगिक-शैली के को-वर्किंग स्थल में साझा मेज़ों पर लैपटॉप पर काम करते और बातें करते लोग
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: एक को-वर्किंग कार्यालय में एक घेरे में खड़े स्टार्टअप संस्थापकों का एक छोटा समूह, जो एक टेक आयोजन के दौरान उनमें से एक की बात ध्यान से सुन रहा है
+    kind: representative
+    origin: third-party
+    subject: एक टेक इनक्यूबेटर आयोजन में एक साथ बातचीत करते स्टार्टअप संस्थापकों का एक छोटा समूह
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'मलेशिया के साइबरजया में एक आधुनिक बहुमंजिला प्रौद्योगिकी कार्यालय भवन, जिसके मुखौटे पर क्षैतिज काँच-और-धातु की झिलमिली पट्टियाँ और ''TM Innovation Centre'' (टीएम इनोवेशन सेंटर) का साइनबोर्ड है, साफ़ नीले आसमान के नीचे।'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 दस मलेशियाई संस्थापकों से पूछें कि सरकारी स्टार्टअप पैसा कहाँ से आता है और आपको दस अलग-अलग संक्षिप्त नाम मिलेंगे। मशीनरी वास्तविक और उदार है, लेकिन यह उन एजेंसियों में फैली है जिनमें से प्रत्येक एक हिस्सा रखती है — अनुदान यहाँ, प्रयोगशाला स्थान वहाँ, वेंचर कैपिटल फिर कहीं और — और यह जानना कि किस दरवाजे पर दस्तक देनी है महीनों बचाता है।

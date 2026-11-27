@@ -27,7 +27,7 @@ verificationNeeded:
   - "ตัวเลข 47 สำนักงานในต่างประเทศได้รับการยืนยันจากรายงานข่าวปี 2026 สองฉบับที่ลงวันที่แยกกันและอ้างประธานและประธานเจ้าหน้าที่บริหารของ MATRADE เอง แต่ยังไม่ได้ตรวจสอบไขว้กับหน้าสารบบสำนักงานที่ MATRADE จัดทำ ซึ่งความพยายามในการดึงข้อมูลของบทความนี้ไม่สามารถดึงมาได้อย่างครบถ้วน"
 
 lang: "th"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
 framework: profile
+hero: '/media/government/matrade/hero.webp'
+heroAlt: 'ด้านหน้าสีเข้มสูงตระหง่านของ Menara MATRADE ในกัวลาลัมเปอร์ เจาะด้วยช่องโค้งแหลมขนาดมหึมาและยอดโดมเป็นสัน'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: อาคาร Menara MATRADE ทรงโค้งข้างอาคารกระจกสูง Menara MITI และโดมอาคารนิทรรศการสีเงิน มองผ่านแนวดอกไม้สีม่วงบานเย็นใต้ท้องฟ้าสีเทา
+    kind: actual
+    origin: third-party
+    subject: ภาพถนนของคอมเพล็กซ์ MATRADE พร้อมอาคารทรงโค้ง Menara MATRADE อาคารกระจก Menara MITI และโดม MITEC กัวลาลัมเปอร์
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: ภาพมุมสูงเหนือกัวลาลัมเปอร์ แสดงอาคารทรงโค้งประตูสีเข้ม Menara MATRADE และอาคารนิทรรศการ MITEC ทรงเปลือกหอยสีเงินขนาดใหญ่ข้างกัน
+    kind: actual
+    origin: third-party
+    subject: ภาพมุมสูงของ Menara MATRADE และศูนย์นิทรรศการ MITEC ทรงเปลือกหอยในย่าน KL Metropolis กัวลาลัมเปอร์
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 ถามผู้ส่งออกมือใหม่ว่าหน่วยงานรัฐใดจัดการบูทงานแสดงสินค้าของตน ราวครึ่งหนึ่งจะตอบว่า MIDA แต่ MIDA ไม่ได้ทำ นั่นเป็นหน้าที่ของ MATRADE — และสองหน่วยงานทำงานคนละปลายของความสัมพันธ์ทางการค้าเดียวกัน

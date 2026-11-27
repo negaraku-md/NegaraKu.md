@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 
 status: "published"
 aiAssisted: true
@@ -95,9 +95,36 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: A green sea turtle gliding over a coral reef in the blue waters off Sipadan, Malaysia
+    kind: actual
+    origin: third-party
+    subject: Green sea turtle (Chelonia mydas) swimming over a coral reef at Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: A green sea turtle resting beneath a rocky reef ledge surrounded by colourful corals
+    kind: actual
+    origin: third-party
+    subject: Green sea turtle (Chelonia mydas) resting under a reef ledge at Barracuda Point, Sipadan, Sabah, Malaysia
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 In the late 1960s, around 2,000 female leatherback turtles came ashore each year on a single stretch of beach at Rantau Abang, Terengganu, leaving nearly 10,000 nests of eggs in the sand. Today, there is not a single one. That story of decline is one of the region's most conspicuous wildlife conservation failures — and it has shaped how Malaysia protects sea turtles to this day.

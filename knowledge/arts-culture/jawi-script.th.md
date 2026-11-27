@@ -34,7 +34,7 @@ seoTitle: "อักษรยาวี: ประวัติ ระบบ แ�
 socialTitle: "อักษรอาหรับที่เขียนภาษามลายูมาเจ็ดศตวรรษ — เรื่องราวของอักษรยาวี"
 
 lang: "th"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,34 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'ป้ายสีน้ำเงินกรมท่าเข้มพร้อมตราประจำราชวงศ์ตรังกานูและคำว่า ''Istana Maziah'' สะกดด้วยอักษรยาวี (อักษรมลายูที่ดัดแปลงจากอาหรับ) สีทอง'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: หน้ากระดาษต้นฉบับอักษรยาวีสองหน้าที่หันเข้าหากัน ล้อมกรอบด้วยลวดลายดอกไม้ประดับสีทอง น้ำเงิน และแดงอันวิจิตร
+    kind: actual
+    origin: third-party
+    subject: หน้าเปิดที่ประดับลวดลายของวรรณกรรมมลายูเรื่องตัจญ์อัลซาลาติน เขียนด้วยลายมืออักษรยาวี
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: หนังสือต้นฉบับเก่าที่เปิดอยู่ในตู้จัดแสดง หน้าที่หันเข้าหากันปกคลุมด้วยอักษรยาวีที่เขียนด้วยลายมืออย่างพลิ้วไหว
+    kind: actual
+    origin: third-party
+    subject: ต้นฉบับที่เปิดอยู่ของฮูกุมกานุนเมอลากา (ประมวลกฎหมายมะละกา) เขียนด้วยอักษรยาวี จัดแสดงในพิพิธภัณฑ์
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 บนจารึกหินก้อนหนึ่งที่พบในตรังกานู มีคำมลายูสลักอยู่ — ไม่ใช่ในอักษรที่เราใช้ในปัจจุบัน แต่ในอักษรอาหรับที่ปรับให้เข้ากับเสียงของภาษามลายู จารึกนั้น คือศิลาจารึกตรังกานู (Batu Bersurat Terengganu) มีอายุ 702 ฮิจเราะฮ์ ซึ่งโดยทั่วไปตรงกับปี ค.ศ. 1303

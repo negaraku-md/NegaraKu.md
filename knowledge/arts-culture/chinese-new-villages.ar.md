@@ -32,7 +32,7 @@ faq:
   - q: "ما القضايا المعاصرة التي تواجهها القرى الجديدة؟"
     a: "من القضايا الشائعة حيازة الأرض (تُحاز بعض القطع برخصة الإشغال المؤقت / TOL أو بسند ملكية إيجاري مدته 99 عامًا بدلًا من الملكية الحرة)، وشيخوخة السكان وهجرة الشباب إلى الخارج، والبنية التحتية المتقادمة. وظهرت في السنوات الأخيرة أيضًا مبادرات لإدراج القرى الجديدة ضمن التراث وإحياء المجتمعات عبر الجداريات ومسارات الطعام وتاريخ القرى."
 lang: "ar"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'منزل قديم من طابق واحد مبني من الخشب والصفيح، نموذجي للقرى الصينية الجديدة في ماليزيا، يطلّ على شارع سكني هادئ تصطفّ بجانبه السيارات.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: بوابة مدخل مزخرفة تحدّد الطريق إلى Broga، وهي قرية صينية جديدة في Negeri Sembilan، وخلفها تلال.
+    kind: actual
+    origin: third-party
+    subject: بوابة مدخل قرية Broga الجديدة، Negeri Sembilan
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: زاوية شارع في قرية Seri Setia الجديدة، Petaling Jaya، مع جدارية مرسومة وفوانيس وزينة حمراء لرأس السنة الصينية.
+    kind: actual
+    origin: third-party
+    subject: جدارية وزينة رأس السنة الصينية في قرية Seri Setia الجديدة، Petaling Jaya، Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 حين تدخل اليوم إلى سيمينيه أو كامبار أو سيكينشان (Sekinchan)، فإنّ ما تراه في الغالب هو منظر بلدة صغيرة عادية: صفوف من المتاجر السكنية، ومدرسة ابتدائية صينية، ومعابد وجمعيات، ومقاهٍ على جانب الطريق ودكاكين متنوعة. لكنّ كثيرًا من هذه الأماكن تجمعها هوية واحدة مشتركة — فهي "قرى جديدة". وخلف هذا الاسم الذي يبدو عاديًا يكمن تاريخ من [طوارئ الملايو](/ar/malaysia/the-emergency) ومكافحة التمرّد والترحيل الواسع.

@@ -31,7 +31,7 @@ faq:
     a: "في معظمها إلى المطامر. تشغّل ماليزيا 135 مطمراً — 114 مكبّاً مفتوحاً و22 مطمراً صحياً — ويبقى الطمر الأسلوب السائد للتخلص من النفايات في البلاد."
 
 lang: "ar"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,9 +103,35 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["القانون 672", "SWCorp", "إعادة التدوير", "النفايات الصلبة", "مطمر النفايات", "فصل النفايات من المصدر", "الاقتصاد الدائري", "Act 672", "recycling"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'مركز لجمع مواد إعادة التدوير في سوق كبير في جوهور بماليزيا، بحاويات تحمل لافتات بالملايوية للملابس والورق والبلاستيك والزجاج والألمنيوم.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: موقع مكبّ النفايات الصحّي Bukit Tagar قرب Kampung Sepakat، Hulu Selangor، Selangor
+    kind: actual
+    origin: third-party
+    subject: مكبّ النفايات الصحّي Bukit Tagar، Hulu Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: شاحنة بلدية لجمع القمامة يشغّلها المجلس المحلي في Kudat، Sabah
+    kind: actual
+    origin: third-party
+    subject: شاحنة بلدية لجمع القمامة، Kudat، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 ارمِ نفاياتك في جوهور فتصبح شأناً من شؤون الحكومة الاتحادية؛ وارمِ النفايات نفسها في بينانغ فتظل من شؤون المجلس المحلي. تلك هي الخصوصية الجوهرية في طريقة إدارة ماليزيا لنفاياتها الصلبة — قانون اتحادي واحد ضخم، لكنه لا يسري إلا في الأماكن التي وافقت على تبنّيه.

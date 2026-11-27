@@ -35,7 +35,7 @@ faq:
     a: "يُغلق سيبادان كل نوفمبر لتعافي الشعاب، فخطّط لرحلات الغوص بين ديسمبر وأكتوبر. وفي أماكن أخرى، تجلب أشهر الرياح الموسمية الشمالية الشرقية الأكثر رطوبةً (نحو نوفمبر إلى مارس) مزيدًا من المطر إلى بورنيو."
 
 lang: "ar"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["دليل سفر صباح", "Sabah travel guide", "كوتا كينابالو", "Kota Kinabalu", "تصريح تسلّق جبل كينابالو", "Mount Kinabalu climb permit", "متنزّه كينابالو اليونسكو", "Kinabalu Park UNESCO", "تصريح الغوص سيبادان", "Sipadan diving permit", "إنسان الغاب Sepilok", "نقطة تفتيش هجرة صباح", "شروط دخول صباح"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'المسافرون الذين يضعون الطبيعة أولاً الباحثون عن أبرز تجارب بورنيو — تسلّق Mount Kinabalu، والغوص في شعاب Sipadan المحمية، ورؤية إنسان الغاب والحياة البرية النهرية حول Sandakan.'
+  getThere: 'طِر إلى مطار Kota Kinabalu الدولي، البوابة الجوية الرئيسية لصباح، ثم خذ قفزات داخلية قصيرة إلى Sandakan وTawau ومنطقة الغوص.'
+  permit: 'تتحكّم صباح بهجرتها الخاصة بموجب اتفاقية ماليزيا 1963 (Malaysia Agreement 1963)، فيجتاز كل قادم — بمن فيهم الماليزيون الطائرون من شبه الجزيرة — نقطة تفتيش ويتلقّى تصريح زيارة، بينما يخضع تسلّق Mount Kinabalu والغوص في Sipadan كلٌّ منهما لتصاريح محدودة من Sabah Parks.'
+  watch: 'احجز الأبرز الشحيح المحدّد بتصاريح مبكراً وخطّط حول إغلاق Sipadan السنوي في نوفمبر لتعافي الشعاب، لأن هذه الأجزاء تنفد ولا يمكن تأمينها عند الوصول.'
+  next: 'تأكّد من قواعد الدخول وتصريح الزيارة والتصاريح الحالية مع دائرة الهجرة الماليزية (Immigration Department of Malaysia) وSabah Parks قبل أن تسافر.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'قمة سانت جونز الغرانيتية في جبل كينابالو تتوهّج بالوردي عند الفجر فوق بحر من الغيوم'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: لقطة قريبة لقرد الخرطوم ذي الفراء الذهبي الشاحب والأنف الطويل على خلفية غابة خضراء ضبابية في Labuk Bay، Sabah
+    kind: actual
+    origin: third-party
+    subject: قرد الخرطوم، المتوطّن في Borneo، مصوّراً في Labuk Bay بـ Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: غروب برتقالي ناري فوق البحر في Kota Kinabalu، مع صور ظلية لقوارب صيد وجزيرة في الأفق
+    kind: actual
+    origin: third-party
+    subject: غروب ذهبي فوق واجهة Kota Kinabalu البحرية مع صور ظلية لقوارب الصيد على البحر وجزر في الأفق
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 بإمكانك أن تطير من كوالالمبور إلى كوتا كينابالو دون مغادرة البلد ومع ذلك تقف في طابور عند منضدة الهجرة حين تهبط. تلك المفاجأة تباغت كثيرًا من الزوّار لأول مرة — وهي أهمّ أمر مفرد ينبغي فهمه قبل أن تخطّط لرحلة إلى صباح. ويمرّ هذا الدليل بالبوّابة، والمعالم البارزة، وقواعد الدخول التي تجعل صباح تبدو كأنها مكان قائم بذاته، لأنها كذلك بمعنى واقعي جدًّا.

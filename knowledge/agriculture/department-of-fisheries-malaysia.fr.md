@@ -28,7 +28,7 @@ faq:
   - q: "Quelle loi le DOF administre-t-il ?"
     a: "Son statut principal est la loi sur la pêche de 1985 (Act 317), qui couvre la conservation, la gestion et le développement de la pêche et des pêcheries dans les eaux malaisiennes, y compris les licences, l'aquaculture, les mammifères aquatiques et les tortues."
 lang: "fr"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Département des pêches de Malaisie", "DOF", "Jabatan Perikanan Malaysia", "Loi sur la pêche de 1985", "Fisheries Act 1985", "licence de pêche Malaisie", "aquaculture Malaisie", "dof.gov.my", "statistiques halieutiques Malaisie", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'Une halle aux poissons circulaire avec des bateaux de pêche amarrés le long du quai à Sandakan, en Malaisie.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: Des ouvriers trient du poisson frais dans des caisses près d'un bateau de pêche amarré dans un complexe de pêche à Kuantan, Pahang
+    kind: actual
+    origin: third-party
+    subject: Des ouvriers trient la pêche fraîche sur un point de débarquement de poisson à Kuantan, Pahang
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: De grandes plateformes de cages flottantes d'élevage de crevettes amarrées sur le Sungai Sitompok bordé de mangrove, à Kuala Penyu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Cages flottantes d'élevage de crevettes sur une rivière de mangrove à Sungai Sitompok, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 Toute embarcation qui lance légalement un filet dans les eaux malaisiennes répond, en fin de compte, à une seule agence. Le **Département des pêches de Malaisie (DOF)** — *Jabatan Perikanan Malaysia* — est l'organisme fédéral qui gère les ressources marines et aquacoles du pays et délivre les licences de toute activité de pêche. Il relève du **ministère de l'Agriculture et de la Sécurité alimentaire (MAFS)**, administre la **loi sur la pêche de 1985 (Act 317)** et est dirigé par le **Directeur général des pêches**. Son siège se trouve à Wisma Tani, Putrajaya, soutenu par un réseau de bureaux d'État et de district.

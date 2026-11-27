@@ -29,7 +29,7 @@ faq:
     a: "Elle a été remplacée par la Directive NADMA no 1, approuvée lors d'une réunion du Conseil national de sécurité (MKN) présidée par le Premier ministre le 1er août 2024."
 
 lang: "fr"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "gestion des catastrophes", "Directive NADMA no 1", "Directive MKN 20", "inondation", "SMART", "Département du Premier ministre"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'Les eaux de crue submergent une zone rurale lors de fortes pluies de mousson à Sandakan, Sabah, en Malaisie.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: Une équipe de secours nautique dans une embarcation à fond plat naviguant dans les eaux de crue lors d'une opération de recherche et de sauvetage
+    kind: representative
+    origin: third-party
+    subject: Équipe de secours en inondation dans une embarcation lors d'une opération de recherche (image représentative)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: Un mur protecteur de sacs de sable dressé pour contenir la montée des eaux de crue autour d'un bâtiment
+    kind: representative
+    origin: third-party
+    subject: Barrière de protection contre les inondations en sacs de sable (image représentative)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 Lorsqu'une inondation majeure frappe plusieurs États à la fois, qui appuie sur le

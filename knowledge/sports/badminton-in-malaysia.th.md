@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia ลาออกจาก BAM ในเดือนมกราคม 2022 เพื่อเป็นนักกีฬาอิสระหลังอยู่กับองค์กรนั้นเกือบทศวรรษตั้งแต่อายุ 13 ปี เขาต้องการมุ่งเน้นการฝึกซ้อมและยกอันดับของตนเอง และยืนยันว่าไม่ว่านักกีฬาทีมชาติหรือนักกีฬาอิสระ พวกเขาก็ชูธง Jalur Gemilang เหมือนกัน"
 
 lang: "th"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "badminton Malaysia"
   - "Persatuan Badminton Malaysia"
@@ -100,6 +100,32 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'ลี ชอง เหว่ย นักแบดมินตันชื่อดังของมาเลเซีย พุ่งตัวเพื่อตีลูกโฟร์แฮนด์ระหว่างการแข่งขันโอลิมปิก'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: สนามในร่มอักเซียตาอารีนาในกรุงกัวลาลัมเปอร์ซึ่งใช้เป็นสถานที่แข่งขันแบดมินตันในกีฬาซีเกมส์ปี2017
+    kind: actual
+    origin: third-party
+    subject: อักเซียตาอารีนาสนามแบดมินตันแห่งชาติภายในศูนย์กีฬาบูกิตจาลิล
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: ฮาฟิซฮาชิมนักแบดมินตันชาวมาเลเซียพุ่งตัวเข้ารับลูกระหว่างการแข่งขันในรายการมาเลเซียโอเพนปี2008
+    kind: actual
+    origin: third-party
+    subject: ฮาฟิซฮาชิมนักแบดมินตันประเภทเดี่ยวชาวมาเลเซียลงแข่งในรายการมาเลเซียโอเพนปี2008
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 ในเดือนพฤษภาคม 1992 ทั้งประเทศหยุดนิ่งชั่วขณะ ที่สนามกีฬาแห่งชาติ กัวลาลัมเปอร์ ทีมของชายหนุ่มที่นำโดยพี่น้อง Sidek เอาชนะอินโดนีเซียเพื่อยกถ้วยโธมัส และดังคำของ Datuk Rashid Sidek "ทั้งมาเลเซียกลายเป็นไวรัลและทุกคนอยากเล่นแบดมินตัน" สามทศวรรษต่อมา ถ้วยนั้นยังไม่กลับมา เรื่องราวแบดมินตันมาเลเซียเป็นเรื่องราวของความรุ่งโรจน์ยุคแรก ช่วงแล้งที่เจ็บปวด และแชมป์หนึ่งหรือสองคนที่แบกความหวังของทั้งประเทศไว้บนบ่า

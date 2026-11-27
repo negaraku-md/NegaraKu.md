@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus ने कम सवारी वाले 19 मार्गों — 16 MRT फीडर मार्ग और 3 मानक मार्ग, यानी नेटवर्क का लगभग 7% — को एक बुक-करने-योग्य Rapid KL On-Demand वैन सेवा में बदलना शुरू किया।"
 
 lang: "hi"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,9 +72,33 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["Rapid KL बस", "MRT फीडर बस", "क्लांग वैली बस", "Rapid Bus", "Rapid KL On-Demand", "कुआलालंपुर सिटी बस", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: 'अपने प्लेटफ़ॉर्म पर खड़ी चटख लाल/क्रीम/नीली Rapid KL डबल-डेकर बस (रूट 751, Hab Pasar Seni इंटरचेंज) के साथ प्लेटफ़ॉर्म सूचना-पट्ट'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: एक नीली-हरी GO KL मुफ़्त इलेक्ट्रिक सिटी बस एक किनारे के स्टॉप/शेल्टर ('100% Clean Energy / Perkhidmatan Bas Percuma') पर रुक रही है — स्टॉप पर बस का दृश्य। शेल्टर पर दो छोटे, अपहचान योग्य यात्री
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: KL Sentral पर एक सिंगल-डेक Rapid KL बस (लाल/क्रीम/नीली लिवरी) का साफ़ साइड-प्रोफ़ाइल दृश्य — डबल-डेकर और इलेक्ट्रिक GO KL दृश्यों का पूरक। कोई चेहरा नहीं
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 ट्रेन आपको स्टेशन तक पहुँचाती है। वह शायद ही कभी आपको घर तक पहुँचाती है। वह अंतराल — MRT या LRT के प्लेटफ़ॉर्म से लेकर आपके दरवाज़े, आपके ऑफ़िस पार्क, या दो मोहल्ले दूर की गीली मंडी तक — एक ऐसे बेड़े से भरा जाता है जिसके बारे में अधिकांश यात्री शायद ही सोचते हैं: Rapid KL की बसें।

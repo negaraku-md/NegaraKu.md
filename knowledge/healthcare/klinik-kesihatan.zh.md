@@ -26,7 +26,7 @@ verificationNeeded:
   - "健康诊所、社区诊所与乡村诊所（Klinik Desa）在人员编制及确切治疗范围上的详细差异，在撰写本文期间无法于KKM官方来源完全查证；本文仅说明三者为各自独立的设施。"
 
 lang: "zh"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'Klinik Kesihatan Jalan Lanang 的入口和招牌，这是一所马来西亚卫生部社区卫生诊所，有国旗和州旗。'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: 一座马来西亚政府健康诊所（Klinik Kesihatan）的主楼，设有带顶棚的入口车道
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Jalan Lanang主楼，砂拉越州诗巫的一所政府健康诊所
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: 一座岛上小型单层乡村健康诊所（Klinik Desa），是岛上唯一的卫生设施
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman，槟城安曼岛上唯一的乡村健康诊所
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 发烧不退、孩子该打疫苗了，或是血压需要每月监测——这时候第一个浮现的问题，

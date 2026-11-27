@@ -24,7 +24,7 @@ appliesTo: "需要了解每年房产税账单的马来西亚半岛屋主、地�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 
 status: "published"
 aiAssisted: true
@@ -66,6 +66,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: '芙蓉（Seremban）一处马来西亚住宅区内，围栏后方一排现代化的双层排屋。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: 一排双层排屋沿着一条安静的马来西亚住宅街道延伸，正是这类有地房产需缴纳门牌税（assessment）与地税（quit rent）。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚taman（花园住宅区）里的双层排屋
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: 从空中俯瞰柔佛依斯干达公主城（Iskandar Puteri）的Mutiara Rini住宅区，数以千计的有地房屋排列在棋盘式街道上，每一栋都是地方议会税册上的应课税房产。
+    kind: representative
+    origin: third-party
+    subject: 柔佛依斯干达公主城Mutiara Rini住宅区的空中俯瞰图
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 许多新屋主收到第二张账单时都吓了一跳——他们根本没想到会有这张账单存在。他们今年明明已经缴了「地税」——为什么市议会还寄来追讨通知？

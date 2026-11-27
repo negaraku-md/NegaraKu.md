@@ -39,7 +39,7 @@ faq:
     a: "हाँ, लेकिन कुशल एम्पू की संख्या तेज़ी से घट रही है, जिससे ज्ञान का हस्तांतरण कठिन होता जा रहा है। UNESCO इस गिरावट को केरिस की स्थायित्व के लिए एक प्रमुख चुनौती के रूप में सूचीबद्ध करता है।"
 
 lang: "hi"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,34 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["केरिस", "एम्पू", "पामोर", "लुक", "मलय धरोहर", "तामिंग सारी", "मलय केरिस", "राष्ट्रीय धरोहर अधिनियम 2005", "नुसंतारा संस्कृति", "keris", "empu", "pamor", "luk", "Taming Sari"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'एक गहरे तल पर रखा एक औपचारिक मलय केरिस, जिसकी लहरदार इस्पात की धार और आधार नक्काशीदार हाथीदाँत रंग की मूठ के नीचे सुनहरे फूलदार कोफ़्तगारी काम से मढ़े हैं, नीचे रखी मेल खाती चाँदी-उभरी लकड़ी की म्यान'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: एक गहरे रंग की संग्रहालय अलमारी में सीधे खड़े कई प्राचीन शाही क्रिस, जिनकी लंबी उकेरी हुई चांदी की म्यानों के ऊपर बारीकी से ढली पक्षी-सिर वाली मूठें हैं, जिन्हें ऐसे रोशन किया गया है कि धातु का काम छायादार पृष्ठभूमि के विपरीत चमकता है
+    kind: actual
+    origin: third-party
+    subject: जोहोर-रियाउ सल्तनत से जुड़ी अलंकृत चांदी की पक्षी-सिर वाली मूठों वाले शाही मलय क्रिसों का एक संग्रह
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: एक सीधे-फलक वाला औपचारिक क्रिस जिसकी गहरे रंग की उकेरी हुई मूठ है, एक हल्के रंग की सतह पर अपनी लंबी पतली लकड़ी की म्यान के बगल में रखा हुआ, जिनके नीचे एक संग्रहालय शीर्षक कार्ड पर लिखा है KERIS ALANG PAHANG
+    kind: actual
+    origin: third-party
+    subject: पहांग का क्रिस अलंग, सरदारी अधिकार का एक औपचारिक क्रिस, अपनी लकड़ी की म्यान के बगल में रखा हुआ
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 लपट की जीभ-सा दंतुर एक फलक, लोहे और निकल से एम्पू के हाथों सैकड़ों बार मोड़कर गढ़ा गया — केरिस केवल एक हथियार नहीं, बल्कि मलय सभ्यता की धड़कन है। यह योद्धाओं की कमर में खोंसा जाता था, राजकीय समारोहों में ऊँचा उठाया जाता था, और एक पारिवारिक विरासत के रूप में पीढ़ियों तक सौंपा जाता था। आज तक, केरिस संप्रभुता, साहस और एक जन की पहचान का प्रतीक बना हुआ है।

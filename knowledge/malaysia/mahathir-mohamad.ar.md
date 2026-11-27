@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0201
 title: "مهاتير محمد"
+seoTitle: "مهاتير محمد: رئيس الوزراء الـ4 والـ7 لماليزيا"
 slug: "mahathir-mohamad"
 category: "malaysia"
 subcategory: ["modern"]
@@ -72,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["مهاتير محمد", "Mahathir Mohamad", "تون مهاتير", "Tun Mahathir", "رئيس الوزراء الرابع ماليزيا", "fourth prime minister Malaysia", "رؤية 2020", "Vision 2020", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: 'مهاتير محمد ذو الشعر الفضي يبتسم بدفء مرتديًا بدلة رمادية تحمل بطاقة اسم ''Mahathir'' أمام حاجز خشبي منحوت بدقة.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 مهاتير محمد (وُلد في 10 يوليو 1925) هو رئيس وزراء ماليزيا الأطول خدمةً وأحد

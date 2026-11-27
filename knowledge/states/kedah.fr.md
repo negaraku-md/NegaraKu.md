@@ -42,7 +42,7 @@ verificationNeeded:
   - "Vérifier la date de la cérémonie d'intronisation du 29e Sultan de Kedah par rapport aux archives officielles de l'Istana Anak Bukit ; la page officielle du gouvernement de l'État n'indique que la date de proclamation."
 
 lang: "fr"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'La mosquée Zahir, de couleur crème, avec un ensemble de grands dômes bulbeux noirs et un minaret élancé sur un ciel bleu dégagé à Alor Setar.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: Le Langkawi Sky Bridge incurvé s'arque sur des câbles bien au-dessus d'une gorge montagneuse boisée sur l'île de Pulau Langkawi, dans le Kedah.
+    kind: actual
+    origin: third-party
+    subject: Langkawi Sky Bridge, Kedah
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: De plates rizières vertes s'étendent jusqu'à l'horizon sous un vaste ciel à Pendang, dans le Kedah, le grenier à riz de la Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Plaines de rizières à Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 En 2024, les produits électriques, électroniques et optiques ont représenté 51,1 pour

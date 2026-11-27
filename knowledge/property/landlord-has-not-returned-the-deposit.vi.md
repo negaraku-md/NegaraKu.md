@@ -35,7 +35,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ entity: "Một khoản tiền cọc thuê nhà bị giữ lại ở Malaysia"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'Các căn hộ chung cư cao tầng Puncak Desa ở Kepong, Kuala Lumpur, một khối nhà cho thuê điển hình của Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: Một khối chung cư công cộng kiểu cũ, thấp tầng, không thang máy với quần áo phơi treo bên cửa sổ ở Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Chung cư cho thuê kiểu cũ không thang máy (khu Flat Pekeliling) ở Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: Một dãy nhà phố liền kề một tầng dọc theo con đường dân cư ở Rasa, Selangor
+    kind: representative
+    origin: third-party
+    subject: Một dãy nhà phố liền kề ở Rasa, Selangor, một loại nhà cho thuê phổ biến
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 Ít điều làm cay đắng cái kết của một kỳ thuê nhà như một người chủ nhà giữ lại tiền cọc. Đó thường là một khoản đáng kể, nó thường khiến người ta thấy bất công, và cám dỗ là leo thang ngay lập tức. Trước khi làm vậy, sẽ có ích nếu hiểu một sự thật định hình mọi thứ về một tranh chấp tiền cọc ở Malaysia — vì nó không giống điều mà nhiều người thuê nhà vẫn nghĩ.

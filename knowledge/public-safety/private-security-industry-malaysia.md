@@ -75,7 +75,7 @@ entity: "Industri keselamatan swasta Malaysia"
 relations:
   - { rel: "governs", to: "akta-agensi-persendirian-1971" }
   - { rel: "related-to", to: "royal-malaysia-police" }
-related: []
+related: ["rela-peoples-volunteer-corps", "ministry-of-home-affairs-kdn"]
 keywords: ["agensi keselamatan swasta", "lesen agensi persendirian", "polis bantuan", "Akta Agensi Persendirian 1971", "pengawal keselamatan Malaysia", "KDN eSIMS", "kawasan berpagar"]
 framework: profile
 ---

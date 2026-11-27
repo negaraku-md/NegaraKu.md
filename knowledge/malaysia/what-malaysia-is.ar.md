@@ -18,7 +18,7 @@ keyTakeaways:
   - "تُقسَّم سلطة سنّ القوانين بين الاتحاد والولايات عبر القوائم الاتحادية والولائية والمشتركة في الجدول التاسع (Ninth Schedule)"
 appliesTo: "كل من هو جديد على ماليزيا ويرغب في فهم أي نوع من البلدان هي دستوريًا، قبل التعمّق في أي مؤسسة بعينها."
 lang: "ar"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["ما هي ماليزيا", "what is Malaysia", "اتحاد ماليزيا الفيدرالي", "federation of Malaysia", "13 ولاية 3 أقاليم اتحادية", "الملكية الانتخابية", "elective monarchy Malaysia", "البنية الفيدرالية", "Yang di-Pertuan Agong", "الدستور الاتحادي", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'خريطة سياسية لماليزيا تُظهر شبه جزيرة ماليزيا في الغرب وصباح وساراواك على جزيرة بورنيو في الشرق، مع تسمية المدن الكبرى.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: بوابة صينية حمراء وذهبية يعلوها تنينان ذهبيان، تحمل لوحة زرقاء كُتب عليها JALAN PETALING / PETALING STREET فوق لافتة ترحيب متعددة اللغات، في الحي الصيني بكوالالمبور.
+    kind: actual
+    origin: third-party
+    subject: بوابة Petaling Street المزخرفة في الحي الصيني بكوالالمبور
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: تمثال ذهبي شاهق للإله Murugan يقف بجانب درج شديد الانحدار بألوان زاهية يتسلّق جرفًا كلسيًا تكسوه الأدغال، فيما يصعد الزوّار.
+    kind: actual
+    origin: third-party
+    subject: تمثال Lord Murugan الذهبي ودرج قوس القزح في Batu Caves، سلانغور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 ماليزيا ليست مكانًا واحدًا بحكومة واحدة. إنها اتحاد فيدرالي — بلد واحد نُسِج من ثلاث عشرة ولاية وثلاثة أقاليم اتحادية، يقع على كتلتين بريّتين يفصل بينهما بضع مئات من الكيلومترات من بحر الصين الجنوبي. وفهم هذه البنية أولًا يجعل تتبّع كل شيء آخر تقريبًا عن البلد أيسر بكثير.

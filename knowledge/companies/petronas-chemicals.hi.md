@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,7 @@ sources:
     publisher: "StockAnalysis.com"
 
 entity: "Petronas Chemicals Group (PCG)"
+wikidata: "Q139388026"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "petronas" }
@@ -82,6 +83,33 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'जोहोर के पेंगेरांग में एक विशाल तटीय पेट्रोरसायन और रिफ़ाइनरी परिसर का हवाई दृश्य, धुंधली आसमान के नीचे समुद्र तक फैले सफ़ेद भंडारण टैंकों, प्रक्रिया इकाइयों, पाइप रैकों और घाटों की कतारें'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: एक नदी के पार देखा गया एक बड़ा पेट्रोकेमिकल उर्वरक संयंत्र, जिसमें शीतलन-टावर कोशिकाओं की एक लंबी कतार, नीली प्रक्रिया पाइपिंग और एक लाल-और-सफ़ेद चिमनी है, हरी वनस्पति और बादल भरे आसमान के विरुद्ध स्थापित
+    kind: actual
+    origin: third-party
+    subject: सारावाक में ASEAN Bintulu Fertiliser संयंत्र, एक PETRONAS Chemicals-संचालित अमोनिया और यूरिया पेट्रोकेमिकल सुविधा
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: एक जंजीर-कड़ी की बाड़ के पीछे एक बड़ा सफ़ेद बेलनाकार भंडारण टैंक, हरे PETRONAS बूँद लोगो के बगल में 'PETRONAS 90 MLC' अंकित, एक ओर पाइपिंग और संयंत्र संरचनाओं के साथ हल्के बादल वाले नीले आसमान के नीचे
+    kind: actual
+    origin: third-party
+    subject: जोहोर में Pengerang Integrated Complex पर एक PETRONAS-ब्रांडेड भंडारण टैंक
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 मलेशियाई खेत पर फैलाए गए उर्वरक का लगभग हर बोरा, और देश की फ़ैक्ट्रियों में ढाले गए प्लास्टिक रेज़िन का एक बड़ा हिस्सा, एक कंपनी तक जाता है: Petronas Chemicals Group Berhad। यह राष्ट्रीय तेल कंपनी की रसायन शाखा है, मलेशिया की सबसे बड़ी एकीकृत रसायन उत्पादक, और — एक राज्य-जुड़े व्यवसाय के लिए असामान्य रूप से — एक अलग से सूचीबद्ध कंपनी जिसमें कोई भी शेयर खरीद सकता है।

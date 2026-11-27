@@ -77,6 +77,33 @@ verificationNeeded:
   - "Shareholding percentages for PNB-managed funds and EPF — change with each Bursa Malaysia filing."
   - "Number of countries of operation (all ten ASEAN states plus global financial centres) — may change."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'The white twin-cylinder Menara Maybank tower rising above the Kuala Lumpur skyline, with the blue Maybank logo and wordmark on a panel near its summit'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: The full height of the white Menara Maybank tower against a blue sky, a yellow Maybank sign and tiger-head logo mounted at its crown above the city rooftops
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank seen from Chin Woo Stadium against a blue sky, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: Twin escalators under a domed canopy leading up to Menara Maybank, with a yellow Maybank logo on a welcome board naming the KL Main Branch at the foot of the steps
+    kind: actual
+    origin: third-party
+    subject: The escalator entrance to Menara Maybank with a Maybank welcome sign, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 Open a current account almost anywhere in Malaysia and there is a good chance it carries the tiger's-head logo of Maybank. Malayan Banking Berhad is the country's largest bank — by the assets on its balance sheet and by what the stock market says it is worth — and one of the biggest banking groups in Southeast Asia. This profile sets out what the group does, where it operates and who owns it.

@@ -19,7 +19,7 @@ keyTakeaways:
   - "Bán đảo Malaysia và Borneo (Sabah và Sarawak) bị Biển Đông ngăn cách và là nơi cư trú của những tập hợp loài riêng biệt, với Borneo giữ phần lớn rừng đầm lầy than bùn và rừng ngập mặn của đất nước."
 appliesTo: "national"
 lang: "vi"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -64,6 +64,32 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'Một thảm rừng mưa xanh tươi bạt ngàn phủ kín những ngọn đồi nhấp nhô, mờ dần thành các dãy núi xanh mờ sương phía xa, dưới bầu trời nhợt nhạt u ám.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: Một con đười ươi Borneo non màu cam gỉ sét đu một tay trên sợi dây căng giữa các cây, tay kia nắm lấy dây, trên nền tán lá rừng mưa xanh rậm rạp.
+    kind: actual
+    origin: third-party
+    subject: Một con đười ươi Borneo non (Pongo pygmaeus), loài vượn lớn chỉ có ở các khu rừng mưa Borneo
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: Một bông hoa Rafflesia nở hoàn toàn nằm trên nền rừng phủ đầy lá rụng, năm thùy dày màu nâu đỏ phủ những đốm nhạt sần sùi bao quanh một chiếc chén trung tâm sâu và mở rộng.
+    kind: actual
+    origin: third-party
+    subject: Một bông Rafflesia nở rộ trên nền rừng ở Sabah, một trong những loài hoa lớn nhất thế giới và là loài cây ký sinh của rừng mưa Borneo
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # Vì sao Malaysia là một trong những quốc gia đa dạng sinh học bậc nhất thế giới

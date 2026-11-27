@@ -29,7 +29,7 @@ faq:
     a: "舒缓治疗专注于为患有限制寿命疾病的病患提供舒适与症状控制，无论年龄大小，甚至包括儿童。乐龄照护则是为可能并未患末期疾病的年长者提供的一般照护。"
 
 lang: "zh"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: '一块医院门口标牌，上面写着「Palliative Medicine Family Conference Room」（姑息治疗家属会议室），是对姑息护理的中性、非图像化呈现。'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: 一座矮层、临花园而建的安宁疗护（hospice）建筑，设有旗杆和一条静谧的车道，代表安宁祥和的临终关怀设施
+    kind: representative
+    origin: third-party
+    subject: 一座宁静的单层安宁疗护（hospice）建筑，庭园环绕，天空晴朗
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: 一处现代化医院纾缓疗护单位入口，带有玻璃门廊和种植花床，代表专科纾缓疗护的场所
+    kind: representative
+    origin: third-party
+    subject: 一处专设纾缓疗护单位的花园入口
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 当治疗不再以治愈为目标时，重心便转向一件事：确保病患舒适而有尊严。这正是舒缓治疗的核心——而在马来西亚，它可以透过三个不同的途径获得。

@@ -27,7 +27,7 @@ faq:
   - q: "Trước đây KPKT được gọi là gì, và tên được đổi khi nào?"
     a: "Đó là Bộ Phát triển Chính quyền Địa phương; Nội các đã quyết định đổi tên thành Bộ Nhà ở và Chính quyền Địa phương vào ngày 13 tháng 12 năm 2023, công bố vào ngày 26 tháng 12 năm 2023."
 lang: "vi"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,37 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'Một tòa tháp chính phủ cao uốn cong màu xám và kính ở Putrajaya vươn lên trên một đài biển hiệu màu đen ghi Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Bộ Phúc lợi Đô thị, Nhà ở và Chính quyền Địa phương) với logo ngôi nhà KPKT'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: Cận cảnh một tấm bia biển hiệu bằng đá đen mang quốc huy Malaysia, dòng chữ Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government, địa chỉ web kpkt.gov.my và biểu tượng ngôi nhà KPKT nhiều màu sắc
+    kind: actual
+    origin: third-party
+    subject: Tấm bia biển hiệu KPKT ở lối vào tòa nhà của bộ, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: Cảnh nhìn từ phía trước của tòa tháp chính phủ KPKT tại Putrajaya, mặt tiền trung tâm treo những lá quốc kỳ Jalur Gemilang dọc dài, được điểm những cây cọ quạt trên nền trời nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp KPKT tại Putrajaya được trang trí bằng cờ Malaysia treo dọc
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 Khi rác của bạn không được thu gom, khi giấy chứng nhận an toàn cháy nổ đến hạn, và khi một chủ đầu tư bàn giao căn hộ của bạn trễ hai năm — cùng một bộ liên bang đứng sau cả ba việc đó. **Bộ Nhà ở và Chính quyền Địa phương**, *Kementerian Perumahan dan Kerajaan Tempatan*, được biết đến phổ biến là **KPKT**, là bộ liên bang của Malaysia phụ trách nhà ở giá phải chăng, chính quyền địa phương, quy hoạch đô thị, cứu hỏa và cứu nạn, chất thải rắn, cảnh quan, và tín dụng cộng đồng. Trụ sở của bộ đặt tại No. 51, Persiaran Perdana, Precinct 4, Trung tâm Hành chính Chính phủ Liên bang, 62100 Putrajaya. Bộ trưởng là **Nga Kor Ming** và Thứ trưởng là **Datuk Hajah Aiman Athirah binti Sabu**.

@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 
 status: "published"
 aiAssisted: true
@@ -83,9 +83,37 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-commission-suruhanjaya-tenaga", "glc-dominance-malaysian-economy"]
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: '灰色のロックフィル堤体に巨大な白い文字でKENYIRと記されたケニール・ダムの空撮。その基部に水力発電所と送電線、背後にケニール湖が広がる'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: クアラルンプールのBangsarにあるTenaga Nasional Berhad本部。灰色の高層オフィスビルで、屋上には赤いTNBのロゴと、街のスカイラインの上に照明に照らされた'TENAGA NASIONAL'の標示が掲げられている
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのBangsarにあるTenaga Nasional Berhad本部ビル
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: クランにあるConnaught Bridge発電所。晴れた青空の下、赤白縞模様の高い煙突を備えた長い赤レンガ造りの発電棟
+    kind: actual
+    origin: third-party
+    subject: セランゴール州クランにあるTNBのConnaught Bridge発電所
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 半島であなたの家の明かりがつくたびに、その電気は十中八九、一社だけが所有する電線を通って流れている——Tenaga Nasional Berhadである。同社はマレーシア最大の電力公益事業体であり、2025年9月30日時点でマレーシア半島、サバ、ラブアンに1,100万人以上の顧客を抱える。

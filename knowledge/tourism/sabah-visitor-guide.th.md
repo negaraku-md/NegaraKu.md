@@ -35,7 +35,7 @@ faq:
     a: "สิปาดันปิดทุกเดือนพฤศจิกายนเพื่อการฟื้นฟูแนวปะการัง จึงวางแผนทริปดำน้ำระหว่างเดือนธันวาคมถึงตุลาคม ที่อื่น เดือนมรสุมตะวันออกเฉียงเหนือที่ฝนตกชุกกว่า (ราวเดือนพฤศจิกายนถึงมีนาคม) นำฝนมากขึ้นสู่บอร์เนียว"
 
 lang: "th"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางสายธรรมชาติที่ต้องการประสบการณ์พาดหัวของบอร์เนียว — การปีน Mount Kinabalu การดำน้ำแนวปะการังคุ้มครองของ Sipadan และการชมอุรังอุตังกับสัตว์ป่าริมแม่น้ำรอบ Sandakan'
+  getThere: 'บินเข้าสู่สนามบินนานาชาติ Kota Kinabalu ประตูทางอากาศหลักของ Sabah แล้วนั่งเที่ยวบินในประเทศระยะสั้นต่อไปยัง Sandakan, Tawau และเขตดำน้ำ'
+  permit: 'Sabah ควบคุมการตรวจคนเข้าเมืองของตนเองภายใต้ Malaysia Agreement 1963 ทุกคนที่มาถึง — รวมถึงชาวมาเลเซียที่บินมาจากคาบสมุทร — จึงผ่านด่านตรวจและรับบัตรอนุญาตเยี่ยม ขณะที่การปีน Mount Kinabalu และการดำน้ำ Sipadan แต่ละอย่างถูกควบคุมด้วยใบอนุญาตจำกัดจำนวนของ Sabah Parks'
+  watch: 'จองสถานที่พาดหัวที่หายากและควบคุมด้วยใบอนุญาตไว้ล่วงหน้านาน และวางแผนเลี่ยงการปิด Sipadan ประจำปีในเดือนพฤศจิกายนเพื่อฟื้นฟูแนวปะการัง เพราะส่วนเหล่านี้ขายหมดและไม่สามารถจองได้เมื่อมาถึง'
+  next: 'ตรวจสอบกฎการเข้าประเทศ บัตรอนุญาตเยี่ยม และใบอนุญาตปัจจุบันกับสำนักงานตรวจคนเข้าเมืองมาเลเซีย (Immigration Department of Malaysia) และ Sabah Parks ก่อนเดินทาง'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'ยอดหินแกรนิตของยอด St. John''s Peak บนภูเขาคินาบาลูเปล่งแสงสีชมพูยามรุ่งอรุณเหนือทะเลเมฆ'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: ภาพระยะใกล้ของลิงจมูกยาวขนสีทองอ่อนและจมูกยาวตัดกับป่าเขียวที่เบลอที่อ่าวลาบุก (Labuk Bay) รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: ลิงจมูกยาว สัตว์เฉพาะถิ่นของเกาะบอร์เนียว ถ่ายที่อ่าวลาบุกในรัฐซาบาห์
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: พระอาทิตย์ตกสีส้มเพลิงเหนือทะเลที่โกตากีนาบาลู (Kota Kinabalu) พร้อมเรือประมงเป็นเงาตัดแสงและเกาะที่เส้นขอบฟ้า
+    kind: actual
+    origin: third-party
+    subject: พระอาทิตย์ตกสีทองเหนือริมน้ำโกตากีนาบาลูพร้อมเรือประมงเป็นเงาตัดแสงบนทะเลและเกาะที่เส้นขอบฟ้า
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 คุณบินจากกัวลาลัมเปอร์ไปโกตากีนาบาลูได้โดยไม่ต้องออกนอกประเทศ และยังต้องต่อคิวที่เคาน์เตอร์ตรวจคนเข้าเมืองเมื่อลงเครื่อง ความประหลาดใจนั้นทำให้ผู้มาเยือนครั้งแรกหลายคนสะดุด และเป็นสิ่งสำคัญที่สุดที่ต้องเข้าใจก่อนคุณวางแผนทริปสู่ซาบาห์ คู่มือนี้เดินผ่านประตู แหล่งท่องเที่ยวพาดหัว และกฎการเข้าที่ทำให้ซาบาห์รู้สึกเหมือนเป็นที่ของตัวเอง เพราะในแง่หนึ่งที่เป็นจริงมาก มันเป็นเช่นนั้น

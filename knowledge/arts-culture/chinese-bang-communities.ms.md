@@ -33,7 +33,7 @@ faq:
     a: "Garis pemisah antara bang jelas telah pudar. Dengan perkahwinan campur merentas bang, urbanisasi, serta bahasa Mandarin menjadi lingua franca merentas dialek melalui pendidikan bahasa Cina, kesedaran generasi muda tentang asal usul nenek moyang kebanyakannya lebih lemah berbanding nenek moyang mereka. Namun bang tidak hilang sepenuhnya: persatuan kongsi, persatuan sekampung, rumah abu dan tanah perkuburan di seluruh negara masih beroperasi, ramai orang masih mengetahui asal usul nenek moyang mereka, dan pengaruhnya masih dapat dilihat pada majlis seperti Qingming (menyapu kubur). Bang beransur-ansur beralih daripada menjadi 'tulang belakang yang menyusun masyarakat' kepada 'kenangan budaya dan sejarah'."
 
 lang: "ms"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,32 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'Tokong persatuan kaum Leong San Tong Khoo Kongsi yang berukir indah di George Town, Pulau Pinang, rabung bumbungnya dipenuhi naga dan patung berwarna di atas dewan sembahyang yang berukir halus dan bersalut emas.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: Sebuah bangunan rumah kedai pra-perang berwarna kuning dan merah yang menempatkan sebuah persatuan kongsi Hokkien di sebuah jalan utama Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bangunan Persatuan Hokkien Selangor (persatuan kongsi dialek Hokkien) di Jalan Hang Lekiu, Kuala Lumpur
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: Sebuah rumah kedai Neoklasik tiga tingkat yang berhias, yang pernah menempatkan sebuah persatuan kongsi Hakka di tengah bandar Seremban
+    kind: actual
+    origin: third-party
+    subject: Bekas bangunan Persatuan Fui Chiu (Hakka Huizhou), sebuah rumah kongsi dialek Hakka di Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 Di lorong-lorong lama Pulau Pinang, kedai-kedai yang menyokong sebaris penuh deretan muka kedai kebanyakannya ialah perniagaan milik orang Hokkien; di bandar-bandar yang bangkit kerana bijih timah seperti Kuala Lumpur dan Ipoh, lombong dan persatuan kraf dipenuhi orang Kantonis dan Hakka; dan ke mana sahaja bandar yang anda masuki, kedai kopi lama yang menjual kopi Hainan serta roti bakar dengan mentega dan kaya itu, di belakang kaunternya sering berdiri seorang Hainan.

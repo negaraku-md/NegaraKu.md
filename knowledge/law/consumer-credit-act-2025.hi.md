@@ -101,9 +101,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["उपभोक्ता ऋण अधिनियम 2025", "Consumer Credit Act", "BNPL मलेशिया", "उपभोक्ता ऋण आयोग", "किराया-खरीद अधिनियम 1967", "प्रभावी ब्याज दर", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 जूतों की एक जोड़ी के लिए तीन मासिक किस्तें चुकाना, या 10% जमा के साथ एक नई कार घर ले जाना — दो ऋण लेनदेन जो मलेशियाई लोगों के लिए आम हैं, फिर भी हाल तक बहुत अलग-अलग कानूनी दुनियाओं द्वारा नियंत्रित थे। अब, दोनों को लगभग एक ही समय पर पुनर्गठित किया जा रहा है।

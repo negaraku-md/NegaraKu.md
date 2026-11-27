@@ -46,7 +46,7 @@ verificationNeeded:
   - "The LawNet consolidated text of the Sarawak Labour Ordinance Cap. 76 is current only to 31 July 2006 and must be read with Act A1754 rather than instead of it."
 
 lang: "es"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,34 @@ keywords:
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
 framework: explainer
+hero: '/media/business/sarawak-business-guide/hero.webp'
+heroAlt: 'El edificio de la Asamblea Legislativa del Estado de Sarawak, con su tejado en forma de paraguas, a orillas del río Sarawak, con una embarcación tradicional en el agua y una torre de oficinas de la ciudad a la izquierda'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: Ornamentado arco chino que cruza una calle de la ciudad de Kuching bordeada de tiendas-vivienda y negocios, con coches y un peatón bajo un cielo azul
+    kind: actual
+    origin: third-party
+    subject: Calle comercial de la ciudad de Kuching, Sarawak — el ornamentado arco del barrio chino sobre una calle de negocios de tiendas-vivienda
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: Vista aérea del embarcadero del puerto de GNL de Bintulu con altos brazos de carga de gas, tuberías y plataformas de amarre sobre agua turquesa, con tanques de almacenamiento y grúas en la orilla opuesta
+    kind: actual
+    origin: third-party
+    subject: Puerto de GNL de Bintulu, Sarawak — el embarcadero industrial de carga con brazos de carga de gas y tanques de almacenamiento en la costa
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 Empieza por un número que te dice qué clase de lugar es este. Sarawak lleva **dos series

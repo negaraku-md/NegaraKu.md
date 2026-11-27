@@ -31,7 +31,7 @@ faq:
     a: "تُدرج JBPM كدائرة تابعة لوزارة الإسكان والحكومة المحلية (KPKT). ويُعاد تنظيم الحقائب الوزارية في ماليزيا من وقت لآخر، لذا تأكد من الترتيب الحالي على kpkt.gov.my أو bomba.gov.my قبل الاعتماد عليه في الوثائق الرسمية."
 
 lang: "ar"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,33 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "دائرة الإطفاء والإنقاذ الماليزية", "Fire and Rescue Department", "قانون خدمات الإطفاء 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'عدة شاحنات إطفاء سكانيا حمراء زاهية متطابقة بطلاء ''Bomba dan Penyelamat'' متوقّفة متلاصقة في صفّ مرتّب على أرض مفتوحة بجانب مبنى المركز، تحت سماء زرقاء صافية'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: شاحنة إطفاء وإنقاذ حمراء رباعية الدفع من Bomba بصندوق خلفي مغطّى بالقماش وشعار الإدارة على بابها، متوقّفة على فناء محطّة إطفاء بسقف أحمر مع نخلة خلفها
+    kind: actual
+    origin: third-party
+    subject: شاحنة إنقاذ ثقيلة حمراء وحيدة من Bomba متوقّفة في محطّة الإطفاء بسانداكان، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: واجهة محطّة إطفاء من ثلاثة طوابق مطلية بالبيج والطيني، صفّ أبوابها الدوّارة يهجّئ BOMBA بأحرف حمراء كبيرة تحت لافتة تقرأ 'Balai Bomba dan Penyelamat Jalan Kubu'، مع خيوط فوانيس حمراء ممتدّة عبر الواجهة
+    kind: actual
+    origin: third-party
+    subject: واجهة محطّة إطفاء Jalan Kubu (Balai Bomba dan Penyelamat) في ملقا، مع كلمة BOMBA مكتوبة كبيرة عبر أبواب حظيرة آليّاتها
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 حين يشبّ حريق في منزل، أو تحتجز سيارةٌ في فيضان، أو ينحشر عامل في حيّز

@@ -109,6 +109,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Rows of black-pepper vines trained up wooden climbing poles on a Sarawak plantation, Malaysia''s main pepper-growing state.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: Close-up of a pepper plant with several drooping spikes densely strung with round green peppercorns, framed by large glossy dark-green leaves, with a blurred green farm beyond
+    kind: actual
+    origin: third-party
+    subject: clusters of ripening green peppercorns hanging in long spikes on a black-pepper plant at a pepper farm in Sarawak, the heart of Malaysia's pepper industry
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: A whitewashed rooftop edged by a low balustrade with several square mesh trays of dark drying peppercorns laid out, banana and coconut palms and forested hills rising behind under a blue sky
+    kind: representative
+    origin: third-party
+    subject: harvested peppercorns spread out to dry in the sun on mesh trays on a rooftop, the drying stage that turns green berries into black pepper
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 Pepper is one of Malaysia's oldest and most geographically distinctive agricultural commodities: a vine imported from the Indian subcontinent and Sumatra that found its ideal home in the humid, well-drained hills of Sarawak, where it became the backbone of thousands of rural smallholdings. Though Malaysia is a modest player by global volume, it punches above its weight on reputation, selling a premium, origin-certified "Sarawak Pepper" into discerning markets. This article profiles the structure, geography, trade and prospects of the sector as a standalone industry.

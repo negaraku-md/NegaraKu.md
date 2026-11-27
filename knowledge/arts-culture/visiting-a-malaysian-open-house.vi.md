@@ -33,7 +33,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["phép lịch sự nhà mở Malaysia", "phép xã giao rumah terbuka", "khách dự nhà mở Malaysia", "phép lịch sự nhà mở Hari Raya", "mặc gì khi dự nhà mở Malaysia", "khách lì xì duit raya ang pow", "phép lịch sự nhà halal Malaysia", "phong tục thăm nhà người Malaysia"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên xuống của một mâm tiệc Hari Raya bày trên bàn, với những nồi rendang bò và cà ri rau, một đĩa sambal, và những đĩa vỏ ketupat đan và cơm nén cắt lát.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: Khách mặc batik và baju kurung mỉm cười và bắt tay chào hỏi ở ngưỡng cửa một buổi tiếp khách mở nhà dịp Hari Raya Aidilfitri.
+    kind: representative
+    origin: third-party
+    subject: Khách chào hỏi thân mật với chủ nhà tại một buổi mở nhà Hari Raya Aidilfitri
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: Một chùm vỏ bánh gạo ketupat đan bằng lá cọ buộc lại với nhau, một món đặc trưng trong lòng hiếu khách mở nhà dịp Hari Raya của Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Bánh ketupat đan cho dịp Hari Raya
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 Bạn vừa được mời đến một *rumah terbuka* (nhà mở). Có thể là Hari Raya của một

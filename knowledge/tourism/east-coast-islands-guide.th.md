@@ -31,7 +31,7 @@ faq:
     a: "ไม่ได้ การตกปลาต้องห้ามภายในแนวเขตอุทยานทางทะเล และผู้มาเยือนไม่สามารถเก็บส่วนใดของสิ่งมีชีวิตทางทะเล ไม่ว่ามีชีวิตหรือตายแล้ว รวมถึงชิ้นส่วนปะการังและเปลือกหอย ทั้งไม่สามารถแตะต้อง ยืนบน หรือทำลายปะการังด้วยประการอื่นใด"
 
 lang: "th"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางสายชายหาดและแนวปะการัง — นักดำน้ำตื้นและนักดำน้ำที่ต้องการทริปเกาะในอุทยานทางทะเล ตั้งแต่ชายหาดแบ็กแพ็กเกอร์ไปจนถึงรีสอร์ตแบบแพ็กเกจ'
+  getThere: 'เรือจากท่าเรือแผ่นดินใหญ่ของแต่ละเกาะ: Merang สำหรับ Redang, Kuala Besut สำหรับ Perhentian และ Marang สำหรับ Kapas ในรัฐ Terengganu และ Mersing หรือ Tanjung Gemok สำหรับ Tioman ในรัฐ Pahang'
+  permit: 'ค่าธรรมเนียมอนุรักษ์อุทยานทางทะเลภาคบังคับ ชำระที่เคาน์เตอร์ในอาคารท่าเรือแผ่นดินใหญ่ก่อนขึ้นเรือ และแยกต่างหากจากค่าโดยสารเรือ'
+  watch: 'ไม่มีการปิดบังคับแบบเดียวกันทั้งหมด แต่ผู้ประกอบการบนเกาะส่วนใหญ่ปิดโดยสมัครใจในช่วงมรสุมตะวันออกเฉียงเหนือ จึงควรยืนยันการรับส่งด้วยเรือก่อนชำระเงินเมื่อใกล้เดือนเหล่านั้น'
+  next: 'ตรวจสอบค่าธรรมเนียมอนุรักษ์และกฎอุทยานทางทะเลปัจจุบันกับกรมประมงมาเลเซีย (Department of Fisheries Malaysia)'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'ชายหาดทรายขาวว่างเปล่าพร้อมก้อนหินแกรนิตสึกกร่อน ต้นไม้โดดเดี่ยวและน้ำตื้นสีเทอร์คอยส์ใต้ท้องฟ้าสีครามมีเมฆคิวมูลัสที่หมู่เกาะเปอร์เฮนเตียน'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: หาดทรายขาวกว้างโค้งไปสู่เกาะหินเล็กๆ ปกคลุมด้วยป่า พร้อมน้ำทะเลสีเทอร์ควอยซ์และต้นปาล์มบนเกาะเรอดัง (Pulau Redang)
+    kind: actual
+    origin: third-party
+    subject: หาดทรายขาวทอดยาวของเกาะเรอดังกับเกาะหินนอกชายฝั่งและน้ำทะเลสีเทอร์ควอยซ์ รัฐตรังกานู
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: มุมมองจากที่สูงเหนือหลังคากระท่อมแบบชนบทและต้นปาล์ม ลงไปยังอ่าวสีเทอร์ควอยซ์สดใสที่มีเรือเล็กและแหลมป่าไม้บนหมู่เกาะเปอร์เฮนเตียน (Perhentian Islands)
+    kind: actual
+    origin: third-party
+    subject: มุมมองจากที่สูงเหนือหมู่บ้านริมหาดและอ่าวสีเทอร์ควอยซ์ที่มีเรือบนหมู่เกาะเปอร์เฮนเตียน ฐานดำน้ำตื้นยอดนิยม
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 หากคุณไปถึงรีสอร์ตชายหาดในเรดังเดือนธันวาคม คุณมีแนวโน้มจะพบว่าเรือหายไป ท่าเรือเงียบสงบ และร้านดำน้ำปิดสนิท หมู่เกาะชายฝั่งตะวันออกดำเนินตามปฏิทินที่เขียนขึ้นโดยท้องทะเล ไม่ใช่โบรชัวร์ท่องเที่ยว และดำเนินตามชุดกฎอุทยานทางทะเลที่ผู้มาเยือนครั้งแรกส่วนใหญ่เพิ่งค้นพบที่เคาน์เตอร์จำหน่ายตั๋ว

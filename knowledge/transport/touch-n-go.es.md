@@ -30,7 +30,7 @@ faq:
     a: "Sí, si quiere usar la función de recarga por NFC. El registro implica una verificación de identidad (KYC) para que el saldo de la tarjeta quede vinculado a su cuenta eWallet; esto también añade una capa de protección si se pierde la tarjeta, en comparación con una tarjeta no registrada cuyo saldo puede ser utilizado por quien la encuentre."
 
 lang: "es"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Letreros de carril elevados que dicen Touch ''n GO, MyRFID y SmartTAG marcan cabinas de peaje sin efectivo en la Plaza de Peaje de Gombak, con RFID pintado a lo ancho de la calzada.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: Una etiqueta RFID Touch 'n Go en el parabrisas en un carril de peaje, con la barrera del carril y un pórtico lector RFID elevado en la cabina de peaje
+    kind: actual
+    origin: third-party
+    subject: lectura de una etiqueta RFID Touch 'n Go en un carril de peaje MyRFID en la plaza de peaje de Gombak, Selangor
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: Una hilera de tornos de acceso automáticos en la entrada de una estación de tren, con lectores de tarjeta en cada torno y el vestíbulo de un centro comercial visible al fondo
+    kind: representative
+    origin: third-party
+    subject: tornos de acceso en la estación de LRT de KLCC donde se validan tarjetas de transporte como Touch 'n Go
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 Mucha gente guarda una tarjeta Touch 'n Go en la cartera y la aplicación Touch 'n Go eWallet en el teléfono, y da por sentado que ambas son lo mismo con dos caras distintas. No lo son. El saldo de la tarjeta y el saldo de la aplicación se mantienen completamente separados: recargar uno por completo no añade ni un solo sen al otro. Este malentendido es una causa común de que los coches queden atascados en los pórticos de peaje porque el conductor está convencido de que «hay suficiente dinero en el teléfono», cuando lo que la máquina de peaje lee en realidad es la tarjeta.

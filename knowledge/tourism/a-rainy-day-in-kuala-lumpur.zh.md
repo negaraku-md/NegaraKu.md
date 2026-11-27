@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["吉隆坡雨天", "KL 室内活动", "吉隆坡公共交通", "KLCC Bukit Bintang 步行道", "Suria KLCC 轨道", "Aquaria KLCC 怎么去", "Petrosains", "Muzium Negara MRT", "吉隆坡商场轨道"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: '吉隆坡老城区茨厂街（Jalan Panggong）一座瓦顶老店屋上空，热带暴雨划过天际'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: 吉隆坡中央艺术坊（Pasar Seni）淡蓝色的装饰艺术风格立面，上书「Central Market Since 1888」
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央艺术坊（Pasar Seni）装饰艺术风格立面
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: 吉隆坡中央艺术坊内熙攘的双层有顶拱廊，两旁排列着手工艺与蜡染摊位，上方悬挂着各州旗帜
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央艺术坊有顶手工艺拱廊内部
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 吉隆坡的雨来得又快又猛，一个露天的计划可能几分钟内就泡汤。但这不一定要毁掉一整天。

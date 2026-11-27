@@ -32,7 +32,7 @@ faq:
     a: "ไม่ใช่ ภารตนาฏยัมเป็นรูปแบบการรำคลาสสิก ส่วนนาฑัสวรัมเป็นธรรมเนียมดนตรีบรรเลงที่เล่นในวัดและงานมงคล ทั้งสองต่างอยู่ในมรดกทางศิลปะของชุมชนทมิฬ แต่เป็นคนละสิ่งกัน นาฑัสวรัม/ดนตรีประจำวัดกล่าวถึงแยกต่างหากในที่นี้ ขณะที่บทความนี้มุ่งเน้นที่ศิลปะคลาสสิกบนเวที"
 
 lang: "th"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
+heroAlt: 'นักรำคลาสสิกอินเดียสาวในชุดภรตนาฏยัมสีน้ำเงินปนทองทำท่ารำบนลานกว้าง โดยมีวัดจีนหลายชั้นสีแดงตั้งอยู่ด้านหลังเธอ'
+heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: นักเต้นโอดิสซีหญิงในชุดสีน้ำเงินสดและเครื่องประดับเงินแบบเทวสถานทำท่าทางอันสง่างามตัดกับฉากหลังเวทีสีดำ
+    kind: representative
+    origin: third-party
+    subject: นักเต้นคลาสสิกโอดิสซีขณะทำท่าในชุดสีน้ำเงินและเครื่องประดับเงิน
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: หญิงในชุดส่าหรีผ้าไหมสีเหลืองและม่วงเล่นไวโอลินที่ถือในท่านั่งแบบคาร์นาฏิก โน้มตัวเข้าหาไมโครโฟนบนเวที
+    kind: representative
+    origin: third-party
+    subject: นักไวโอลินคาร์นาฏิกแสดงในชุดส่าหรีผ้าไหมในคอนเสิร์ตดนตรีคลาสสิก
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 ในเมืองใหญ่เมืองใดก็ตามของมาเลเซีย ในค่ำคืนดีปาวลีหรือในวันงานวัด เราจะได้เห็นนักรำภารตนาฏยัมขึ้นสู่เวที พร้อมเสียงกำไลข้อเท้าดังกังวาน เคลื่อนไหวไปตามจังหวะมฤทังคัม ท่าเท้าและท่ามือเหล่านั้นมิใช่สิ่งที่เกิดขึ้นโดยบังเอิญ — มันบอกเล่าถึงธรรมเนียมศิลปะอินเดียใต้ที่มีอายุมากกว่าหนึ่งพันปี และถึงวิธีที่ชุมชนทมิฬมาเลเซียแบกรับมันมานานกว่าหนึ่งศตวรรษครึ่ง

@@ -19,7 +19,7 @@ keyTakeaways:
   - "Chiếc kebaya, trung tâm của trang phục Nyonya, được ghi vào danh sách di sản phi vật thể của UNESCO năm 2024 trong một hồ sơ đề cử chung của Brunei, Indonesia, Malaysia, Singapore và Thái Lan"
 appliesTo: "Bất kỳ ai muốn có một tổng quan thực tế, tôn trọng về người Peranakan (Baba-Nyonya) là ai, và cách nhận ra ẩm thực, trang phục và di sản vật chất của họ ở Malacca và Penang."
 lang: "vi"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'Một gian tiếp khách Peranakan tại Bảo tàng Di sản Baba Nyonya ở Melaka, với những tấm bình phong gỗ mun chạm khắc mạ vàng, đồ nội thất khảm xà cừ, một chiếc bàn tròn mặt cẩm thạch và những tấm panel vẽ hình chim và hoa trên tường.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: Phần mặt tiền phía trên của một căn nhà phố Peranakan ở Malacca, với cửa chớp hình vòm màu ngọc lam, phù điêu đúc và một dải gạch men bóng.
+    kind: actual
+    origin: third-party
+    subject: Mặt tiền nhà phố kiểu Peranakan, Malacca
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: Một chiếc bát trà sứ Peranakan cùng nắp được vẽ hoa mẫu đơn hồng và chim phượng hoàng trên nền trắng, trưng bày trong tủ kính.
+    kind: representative
+    origin: third-party
+    subject: Sứ trà Peranakan (đồ nyonya) với họa tiết hoa và chim
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 Bước vào một dãy nhà phố cổ trên phố Heeren của Malacca, câu chuyện được kể qua các vật thể trước khi có ai nói một lời. Một chiếc áo ren ôm sát cài phía trước bằng một bộ trâm vàng ba mảnh. Một đôi dép mà phần mũi phủ hàng nghìn hạt cườm thủy tinh li ti, mỗi hạt được khâu bằng tay. Một chiếc bàn dài mặt đá cẩm thạch bày cho một bữa ăn không hẳn Hoa cũng không hẳn Mã Lai. Những thứ này thuộc về người Peranakan — Baba-Nyonya — một cộng đồng đã tạo nên một nền văn hóa từ việc sống giữa hai thế giới.

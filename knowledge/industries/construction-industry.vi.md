@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 là chính sách được ra mắt tại ICW 2021, sau khi kết thúc Chương trình Chuyển đổi Ngành Xây dựng (CITP) 2016–2020. Nó phác thảo sáu trụ cột chiến lược để chuyển đổi khu vực xây dựng về phía kỷ nguyên số vào năm 2030, bao gồm mục tiêu số hóa 50% chu trình ngành."
 
 lang: "vi"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Hố đào móng sâu tại một công trường xây nhà cao tầng ở Kuala Lumpur, với các cần cẩu tháp, thanh chống đỏ và công nhân, phía sau là đường chân trời thành phố.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: Những cần cẩu tháp vươn cao trên một tòa nhà cao tầng đang được xây dựng ở trung tâm Kuala Lumpur, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Công trường xây dựng nhà cao tầng ở Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: Một tòa căn hộ dịch vụ bằng bê tông cốt thép đang được xây dựng trên đường Jalan Kuda Emas gần Bukit Jalil, Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Công trình xây dựng căn hộ dịch vụ gần Bukit Jalil, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 Thử dựng một hàng rào trường học trị giá RM250,000 mà không có chứng nhận đăng ký nhà thầu, và dự án của bạn có thể bị lệnh dừng ngay lập tức — trước khi cả cây cọc đầu tiên được cắm. Tại Malaysia, quyền xây dựng không bắt đầu với máy móc hay lao động; nó bắt đầu với một sổ đăng ký.

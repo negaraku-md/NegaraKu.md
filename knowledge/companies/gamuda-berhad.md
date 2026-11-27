@@ -76,6 +76,33 @@ relations:
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
 framework: profile
+hero: '/media/companies/gamuda-berhad/hero.webp'
+heroAlt: 'Large sculptural entrance sign spelling GAMUDA in tall white letters against angled timber slats beside a curving access road into the Gamuda Gardens township'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: Entrance monument reading GAMUDA GARDENS in large white letters with the green teardrop logo, set against sculptural timber posts and greenery
+    kind: actual
+    origin: third-party
+    subject: GAMUDA GARDENS wordmark and teardrop logo on the township entrance monument, Rawang, Selangor
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Elevated Mass Rapid Transit railway track leading into Kwasa Damansara MRT station, with grey concrete viaduct piers and a canopied platform under a bright cloudy sky
+    kind: representative
+    origin: third-party
+    subject: Kwasa Damansara MRT station, an elevated station on the Klang Valley MRT lines whose underground works were delivered by MMC-Gamuda (Gamuda Berhad's rail-engineering joint venture)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda started with a Malaysian expressway and grew into one of the region's biggest tunnelling and rail contractors. Today, a rising share of its work sits outside Malaysia.

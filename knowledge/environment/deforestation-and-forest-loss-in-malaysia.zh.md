@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: '婆罗洲神山公园（Kinabalu Park）茂密未经扰动的热带雨林中，雾气在高大的树木和树蕨间飘荡'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: 航拍：一座孤立的深色原生雨林岛屿被规整成行的油棕种植园环绕，位于马来西亚婆罗洲沙巴
+    kind: actual
+    origin: third-party
+    subject: 沙巴州一片被油棕种植园包围的原生雨林残片
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: 高空航拍：马来西亚婆罗洲沙巴的雨林被纵横交错的浅色伐木道路和橙色裸露地块切割
+    kind: actual
+    origin: third-party
+    subject: 沙巴州被伐木道路和为油棕开辟的空地切割的森林
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 向三个可信的来源询问马来西亚还有多少土地覆盖着森林，你可能会得到三个相差十个百分点的答案——每一个都站得住脚，每一个都在衡量略有不同的东西。这个差距不是四舍五入的误差；它是马来西亚森林砍伐这整场争论的缩影。

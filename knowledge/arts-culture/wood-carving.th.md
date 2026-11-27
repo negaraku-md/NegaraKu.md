@@ -33,7 +33,7 @@ faq:
     a: "หลักการออกแบบอาวันลารัตแบบคลาสสิกหลีกเลี่ยงการวาดคนหรือสัตว์เป็นองค์ประกอบหลักของลายจริง แต่การแกะสลักไม้มลายูก็มีประเภทลายสัตว์ของตนเอง — เช่น รูปไก่ แรด และเป็ด — ที่ใช้แยกต่างหากจากลายอาวันลารัตซ้ำ"
 
 lang: "th"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: 'แผงไม้ทรงสี่เหลี่ยมในกรอบสีเข้มแกะสลักฉลุลายใบไม้พลิ้วไหว เถาใบม้วนและเครือเถาแบบอาวันลารัตมลายู ติดบนผนังพิพิธภัณฑ์สีซีด'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: มิมบัรไม้มัสยิดอันวิจิตรพร้อมหลังคาซุ้มปิดทองสูงที่สลักและฉลุเป็นลายใบไม้สีทองและยอดประดับ ตั้งขึ้นเหนือบันไดสลักสีแดงทองบนพรมละหมาดสีเขียว
+    kind: actual
+    origin: third-party
+    subject: มิมบัร (ธรรมาสน์) ไม้ปิดทองสลักอย่างวิจิตรของมัสยิดเติงเกอรา (ตรันเกอรา) ในเมืองมะละกา ประเทศมาเลเซีย
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: แถบลวดลายฉลุฉลักรูปใบไม้คล้ายเปลวไฟทอดยาวตามแผ่นชายคาไม้ใต้หลังคาของบ้านมลายูไม้แบบแผ่นสีน้ำตาล ล้อมกรอบด้วยพรรณไม้สีเขียวและท้องฟ้า
+    kind: actual
+    origin: third-party
+    subject: แผ่นชายคาฉลุ (ปาปันเกอรวัง) ที่ประดับแนวหลังคาของบ้านมลายูไม้แบบดั้งเดิมในฮูลูลังัต รัฐเซอลาโงร์
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 มองให้ดีที่แผงไม้ที่หน้าต่างของบ้านมลายูเก่าหลังหนึ่ง แล้วลองหาว่าลวดลายเริ่มต้นที่ใด คุณจะไม่พบ นั่นไม่ใช่ความผิดพลาดของตาคุณ — มันถูกออกแบบมาเช่นนั้นจริง

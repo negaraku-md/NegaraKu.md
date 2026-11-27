@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'クアラルンプールにある青銅製の国家記念碑（トゥグ・ヌガラ）。旗を掲げる兵士像の一群が、広々とした空を背に立っている。'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアは1960年7月31日に最初の共産主義者による非常事態の終結を宣言した——だが、その後およそ三十年にわたり、大部分の期間を第二の蜂起への対処に費やすことになった。政府が半島の辺境へと追い詰めたゲリラ軍は、戦闘の終結が宣言されても解散しなかった。それはタイ国境を越えて撤退し、そこで再結集し、八年後に活動を再開した。

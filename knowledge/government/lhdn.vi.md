@@ -30,7 +30,7 @@ faq:
     a: "Hãy coi chúng là một bản dịch, không phải một nguồn. Các trang tiếng Anh của LHDN được dịch bằng máy và chứa các lỗi đã được xác nhận làm đảo ngược nghĩa. Với bất kỳ điều gì mang tính then chốt, hãy đọc trang gốc tiếng Mã Lai và trích dẫn từ đó."
 
 lang: "vi"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-invoicing"]
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
 framework: profile
+hero: '/media/government/lhdn/hero.webp'
+heroAlt: 'Một tòa nhà văn phòng hiện đại với mái đua uốn cong rộng và biển hiệu màu xanh ghi WISMA HASIL bên cạnh logo Hasil hình tam giác, trên nền trời xanh rực rỡ ở Sandakan, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: Một tòa tháp văn phòng kính màu xanh lam-lục cao với phần đế màu nâu đỏ mang các biển HASIL và Lembaga Hasil Dalam Negeri phía trên lối vào, nhìn từ đường phố ở Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp của Cục Thuế nội địa (LHDN / Lembaga Hasil Dalam Negeri) tại Kuching, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: Một tòa nhà văn phòng cao tầng màu trắng và kính xanh ngọc trưng bày biểu tượng chữ HASIL màu xanh gần mái, vươn lên trên một con đường hai bên trồng cây ở Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil, tòa nhà của Cục Thuế nội địa Malaysia (LHDN) tại Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## Nhìn thoáng qua

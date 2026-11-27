@@ -68,9 +68,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Botol plastik terbuang dan sampah lain berselerak di atas pasir pantai di tepi laut.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: Sampah plastik dan serpihan marin yang berkumpul di sepanjang garis pasang surut sebuah pantai
+    kind: representative
+    origin: third-party
+    subject: Serpihan plastik marin yang terdampar di pantai (perwakilan)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: Botol plastik terpakai yang dikumpulkan di pusat pengumpulan untuk dihantar bagi kitar semula
+    kind: representative
+    origin: third-party
+    subject: Pusat pengumpulan botol plastik untuk kitar semula (perwakilan)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 Beg plastik nipis di kaunter pembayaran lazimnya digunakan sebentar sahaja, tetapi boleh kekal di alam sekitar untuk tempoh yang lama. Untuk menangani isu ini, Malaysia tidak memilih satu larangan menyeluruh serta-merta — sebaliknya satu peta jalan berperingkat yang bergerak daripada caj kecil kepada larangan yang lebih luas.

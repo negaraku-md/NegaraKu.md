@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Parents et élèves en Malaisie qui choisissent entre les écoles nationales, les écoles privées à programme national et les écoles secondaires chinoises indépendantes, et toute personne cherchant à comprendre ce que représentent réellement une SMJK, une école privée ou un certificat UEC."
 
 lang: "fr"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ keywords:
   - "Unified Examination Certificate"
   - "division de l'éducation privée Malaisie"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'Le bâtiment principal de la Papar Middle School, une école secondaire indépendante chinoise à Sabah, avec son nom affiché en chinois et en anglais sur la façade.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: Façade de la Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School à Penang, un bâtiment blanc à plusieurs étages avec des colonnes et le nom de l'école en malais, chinois et anglais.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling (Private) High School, un lycée chinois indépendant à Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: Le grand bâtiment principal à plusieurs étages de la Kuen Cheng High School à Kuala Lumpur, avec son nom en chinois (坤成中学) et en anglais sur la ligne de toit.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School, un lycée chinois indépendant à Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 Demandez à un parent malaisien ce qu'est une « école privée », et il pourrait

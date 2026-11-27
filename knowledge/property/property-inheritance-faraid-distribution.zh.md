@@ -30,7 +30,7 @@ faq:
     a: "包含不动产且价值低于 500 万令吉的小额遗产，由土地管理官（Pentadbir Tanah）透过县土地局处理，并发出分配令（Perintah Pembahagian）。"
 
 lang: "zh"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ sources:
 relations:
   - { rel: "related-to", to: "property-buying-a-home-guide" }
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
-related: []
+related: ["faraid-and-islamic-inheritance", "wills-and-probate-in-malaysia", "real-property-gains-tax"]
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: '马来西亚 Taman Idaman 社区招牌后方一排老旧的排屋。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: 一栋传统的高脚木造马来屋，有坡形屋顶，坐落在乡村环境中
+    kind: representative
+    origin: third-party
+    subject: 传统的木造马来甘榜（kampung）屋，一种常被继承的家庭住宅类型
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: 霹雳Temoh一栋老旧的单层有地房屋，是常传给后代继承的那一类
+    kind: representative
+    origin: third-party
+    subject: 霹雳Temoh一栋老旧的有地祖屋
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 在马来西亚，当一个人去世后，谁继承他的房子首先取决于一个根本问题：死者是穆斯林还是非穆斯林。两套不同的法律体系主导着这个答案，而且在任何土地地契能够转名之前，两者都要经过不同的主管机构处理。

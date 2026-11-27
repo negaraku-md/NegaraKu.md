@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: 'ஜப்பானிய ஆட்சியின் முடிவைக் குறிக்கும் 1945 ஆம் ஆண்டு அணிவகுப்பின்போது, ஒரு இராணுவ வாத்திய இசைக்குழு தெருவில் அணிவகுத்துச் செல்லும் பொதுமக்கள் கூட்டத்தை வழிநடத்துகிறது.'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 எட்டு வாரங்கள். கிளந்தான் கடற்கரையில் ஜப்பானியப் படைகள் முதன்முதலில் இறங்கிய நாளுக்கும் மலாயா முழுவதும் ஜப்பானியர் கையில் வந்த நாளுக்கும் இடையிலான இடைவெளி அதுதான் — ஒன்றரை நூற்றாண்டுக்கும் மேலாக பல்வேறு வடிவங்களில் பிரித்தானியரால் ஆளப்பட்ட ஒரு பிரதேசம்.

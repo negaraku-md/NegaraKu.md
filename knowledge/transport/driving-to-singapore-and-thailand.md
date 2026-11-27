@@ -66,6 +66,32 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "PIAM Endorsement 101", "Thailand temporary vehicle import"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'The Johor-Singapore Causeway crossing the strait packed with vehicles, with an I love Johor billboard on the Malaysian side.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: The Malaysia-Singapore Second Link road bridge spanning the Straits of Johor between Tanjung Kupang and Tuas.
+    kind: actual
+    origin: third-party
+    subject: Malaysia-Singapore Second Link bridge (Tuas)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: The road approach to the Bukit Kayu Hitam land crossing on the Malaysia-Thailand border in Kedah.
+    kind: actual
+    origin: third-party
+    subject: Bukit Kayu Hitam-Sadao Malaysia-Thailand border crossing
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 Two neighbours, two land borders, two completely different systems for the same car.

@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 
 status: "published"
 aiAssisted: true
@@ -76,9 +76,36 @@ wikidata: "Q215836"
 relations:
   - { rel: "administered-by", to: "perhilitan" }
   - { rel: "located-in", to: "taman-negara" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: '一只马来亚虎依着绿色热带植物背景休憩，凝视镜头'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: 一只马来亚虎卧在草丛中，斑斓的皮毛在斑驳阳光下闪光
+    kind: actual
+    origin: third-party
+    subject: 马来亚虎（Panthera tigris jacksoni）卧在草丛与枝叶间斑驳的阳光下
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: 马来亚虎头部的侧脸特写，展现其标志性的黑橙面部条纹和胡须
+    kind: actual
+    origin: third-party
+    subject: 马来亚虎（Panthera tigris jacksoni）侧脸特写，展现其面部纹路
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 老虎出现在马来西亚的国徽上，但这种动物如今已跻身世界上最稀有的大型猫科动物之列。当马来西亚完成首次全国野生老虎普查时，结果比许多人预期的还要低：不到150只。

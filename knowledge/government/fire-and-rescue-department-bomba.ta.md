@@ -29,7 +29,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,11 +69,38 @@ entity: "Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Ma
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["fire-safety-and-prevention-malaysia", "mers-999-emergency-numbers", "civil-defence-force-apm"]
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
 framework: profile
+hero: '/media/government/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'ஐந்து உருளும்-மறைப்புக் கதவுகளில் பெரிய சிவப்பு BOMBA என்ற சொல் எழுதப்பட்ட மலேசிய தீயணைப்பு நிலையத்தின் முன்பக்கம்; அவற்றுக்கு மேல் Balai Bomba dan Penyelamat Jalan Kubu எனப் படிக்கும் மஞ்சள் பலகையும் சிவப்பு விளக்குகளும்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: கூரை மீது மடக்கப்பட்ட வான்வழி ஏணியுடன், BOMBA எனப் பதிக்கப்பட்ட பிரகாசமான சிவப்பு நிற Scania தீயணைப்பு வாகனம், மலேசிய தேசிய தின அணிவகுப்பின் போது பனை மரங்கள் வரிசையாக நிற்கும் பெருந்தெருவில் நிறுத்தப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: பகாங் மாநிலம் குவாந்தனில் நடந்த 2023 தேசிய தின அணிவகுப்பில் மலேசியாவின் Bomba-வின் சிவப்பு நிற Scania வான்வழி-ஏணி தீயணைப்பு வாகனம்
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: கடற்படை நீல நிற டி-சர்ட்டுகள் மற்றும் ஆரஞ்சு-உருமறைப்பு கால்சட்டைகள் அணிந்த மலேசிய தீயணைப்பு வீரர்கள் குழு, தங்கள் தீயணைப்பு நிலையப் பகுதிகளுக்குள் BOMBA எனப் பதிக்கப்பட்ட இரண்டு சிவப்பு தீயணைப்பு வாகனங்களுக்கு முன் நின்றும் குந்தியும் இருக்கின்றனர்
+    kind: actual
+    origin: third-party
+    subject: சபா மாநிலம் சண்டாக்கானில் உள்ள Balai Bomba Sandakan-இல் தங்கள் சிவப்பு BOMBA தீயணைப்பு வாகனங்களுக்கு முன் நிற்கும் மலேசிய தீயணைப்பு வீரர்கள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 ஒரு கட்டிடம் எரியும்போது அல்லது ஒருவர் சிக்கிக்கொள்ளும்போது யாரை அழைப்பது என்று மலேசியாவில் யாரிடம் கேட்டாலும், பதில் ஒரே சொல்தான்: **Bomba**. **மலேசியத் தீயணைப்பு மற்றும் மீட்புத் துறை** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), கிட்டத்தட்ட அனைவருக்கும் வெறுமனே **BOMBA** என அறியப்படுகிறது — என்பது நாடு முழுவதும் தீயணைப்பு, மீட்பு, அபாயகரமான-பொருள் மறுமொழி மற்றும் தீப்பாதுகாப்பு அமலாக்கத்திற்குப் பொறுப்பான கூட்டாட்சி நிறுவனம். இது [**வீட்டுவசதி மற்றும் உள்ளூராட்சி அமைச்சின்**](/ta/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) கீழுள்ள நிறுவனம்; அவசரநிலையில் **999**-ஐ அழைப்பதன் மூலம் தொடர்பு கொள்ளலாம்.

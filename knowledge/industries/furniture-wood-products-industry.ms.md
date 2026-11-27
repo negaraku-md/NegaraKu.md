@@ -31,7 +31,7 @@ faq:
   - q: Siapakah pelanggan utama perabot Malaysia?
     a: Amerika Syarikat setakat ini pasaran tunggal terbesar — mengambil hampir separuh eksport perabot pada 2024 — diikuti pasaran seperti Singapura, Australia, Jepun dan United Kingdom. Penumpuan Amerika Syarikat yang berat ini juga menjadikan industri sensitif terhadap permintaan perumahan dan dasar tarif Amerika.
 lang: ms
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: Bangunan penjuru merah-putih yang menonjol milik kedai perabot Home Best di Kluang, Johor, dengan papan tandanya tertera Pusat Perabot Home Best Furniture dalam bahasa Melayu dan Cina berlatarkan langit biru cerah.
+    kind: actual
+    origin: third-party
+    subject: Sebuah peruncit perabot, Pusat Perabot Home Best, di Jalan Manggis di pekan Kluang, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: Barisan papan kayu tropika yang baru digergaji disusun kemas memenuhi sebuah depoh kayu beratap bersisi terbuka di Sandakan, Sabah, dengan ira kayunya berwarna madu hangat dan perang kemerahan disinari matahari petang.
+    kind: actual
+    origin: third-party
+    subject: Longgokan papan kayu tropika yang digergaji dijual di sebuah depoh kayu di Sandakan, Sabah, Malaysia
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 Di suatu tempat dalam rumah di Texas atau California, ada kemungkinan besar kerusi makan, rangka katil atau rak buku itu dibuat di Malaysia — sangat mungkin di dalam dan sekitar satu pekan, daripada kayu pokok getah yang pernah menghasilkan lateks untuk sarung tangan dan tayar. Industri perabot dan produk kayu Malaysia ialah salah satu gergasi senyap ekonomi pembuatannya: tidak glamor, tetapi pengeksport global sepuluh teratas yang konsisten yang telah menukar hasil sampingan sektor ladang menjadi barangan siap yang dijual di seluruh dunia.

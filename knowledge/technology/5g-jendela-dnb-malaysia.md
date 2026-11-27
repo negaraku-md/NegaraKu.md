@@ -99,6 +99,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'Two lattice telecommunications towers at Bukit Nyabau in Bintulu, Malaysia, silhouetted against an orange and blue sunset sky'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: A tall grey monopole mobile-phone tower topped with mobile-network antennas and 5G equipment, standing against a clear blue sky above suburban rooftops
+    kind: representative
+    origin: third-party
+    subject: A monopole mobile-phone tower carrying 5G antennas against a clear blue sky
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: A rooftop telecom mast fitted with white panel antennas, microwave dishes and base-station cabinets, rising above a low-rise city under a blue sky
+    kind: representative
+    origin: third-party
+    subject: A rooftop 5G cell tower with panel antennas and microwave dishes over a city
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 Ask two Malaysians how the country's mobile networks are run and you will often get two different, half-right answers — because there are actually two separate stories tangled together. One is a broadband coverage plan with a name most people have seen on a government banner. The other is a fast-moving fight over who gets to own the 5G pipe. Understanding modern Malaysian connectivity means keeping these two stories straight.

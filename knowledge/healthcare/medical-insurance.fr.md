@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Les salariés qui mettent en balance la couverture médicale de l'employeur et une carte médicale personnelle, et toute personne qui cherche à comprendre ce que signifie « coassurance » avant d'acheter ou de renouveler une police."
 
 lang: "fr"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ faq:
   - q: Une police médicale « sans ticket modérateur (no co-payment) » est-elle automatiquement meilleure qu'une police avec ticket modérateur ?
     a: Pas nécessairement — l'article la cite comme une erreur courante. Un plan sans ticket modérateur comporte une prime plus élevée pour les mêmes plafonds de garanties. Avec le ticket modérateur (co-payment), vous acceptez d'emblée de prendre en charge une part déterminée de chaque facture hospitalière admissible en échange d'une prime plus basse. Que ce compromis en vaille la peine dépend de la part d'une facture que vous pourriez assumer vous-même ; consultez la fiche d'information produit (product disclosure sheet) pour connaître le pourcentage, tout plafond éventuel et les traitements exclus.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Les portes d''entrée d''un service d''hospitalisation dans un hôpital public malaisien, un cadre de soins médicaux neutre.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Une vue aérienne d'un grand bâtiment d'hôpital privé moderne à Seberang Perai, Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, un hôpital privé à Seberang Perai, Penang, Malaisie
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Un comptoir d'accueil d'hôpital incurvé dans un hall d'entrée lumineux, représentant les admissions et la facturation, avec quelques personnes au loin
+    kind: representative
+    origin: third-party
+    subject: Un comptoir d'accueil et d'admission d'hôpital dans le hall de l'entrée principale
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Deux salariés entrent dans le même hôpital privé avec le même bras cassé. L'un présente une carte et ressort sans payer un sen à sa sortie. L'autre règle elle-même une partie de la facture, parce que la police qu'elle a souscrite il y a six mois était moins chère précisément pour cette raison.

@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아에서 코코아는 아직 어디에서 재배되는가?
     a: "대부분 사바, 특히 1980년대 붐을 이끈 내륙 지역과 타와우(Tawau) 지역에서 재배되며, 이 지역이 여전히 남은 재배 면적과 생산량의 대부분을 차지한다."
 lang: ko
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: '그늘진 농장에서 카카오 나무의 줄기에서 직접 자라고 있는 두 개의 큰 초록색 카카오 꼬투리.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: 발효를 거친 카카오 콩을 나무 쟁반에 펼쳐 노천의 햇볕 아래 말리는 모습.
+    kind: representative
+    origin: third-party
+    subject: 햇볕에 말리는 카카오 콩
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: 초콜릿 가공 과정에서 분쇄기에 투입될 준비가 된, 볶은 짙은 색 카카오 콩 더미.
+    kind: representative
+    origin: third-party
+    subject: 가공을 앞둔 볶은 카카오 콩
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 말레이시아는 코코아 재배를 거의 멈춘, 세계 굴지의 코코아 가공국이다. 한 세대 만에 이 나라는 사바와 반도 말레이시아의 언덕이 꼬투리로 가득했던 세계 4대 원두 생산국에서, 원두를 선박 단위로 수입하면서 자국 원두는 연간 수백 톤밖에 수확하지 못하는 나라로 바뀌었다. 남아서 번창한 것은 공장 쪽, 즉 수입 원두를 코코아버터, 분말, 리큐어, 완제품 과자로 바꿔 수출하는 분쇄 공장, 정제소, 초콜릿 생산라인이었다. 그 결과가 "코코아 역설"이다 - 거의 사라진 상류 부문 위에 세계적 수준의 하류 산업이 올라앉아 있다.

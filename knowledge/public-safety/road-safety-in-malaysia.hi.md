@@ -35,7 +35,7 @@ faq:
     a: "2007 में स्थापित मलेशियाई सड़क सुरक्षा अनुसंधान संस्थान (MIROS) साक्ष्य-आधारित अनुसंधान संभालता है, जबकि JPJ का सड़क सुरक्षा प्रभाग (पूर्व में JKJR) पैरोकारी और जागरूकता का नेतृत्व करता है। दोनों परिवहन मंत्रालय के अधीन आते हैं।"
 
 lang: "hi"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["सड़क सुरक्षा", "मलेशिया सड़क दुर्घटनाएँ", "नशे में वाहन चलाना", "AES", "KEJARA", "MIROS", "Road Transport Act 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'मलेशिया में साफ आसमान के नीचे विभाजित उत्तर-दक्षिण एक्सप्रेसवे पर यातायात, जिसमें लेन चिह्न, क्रैश बैरियर और सड़क किनारे होर्डिंग हैं।'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: क्लुआंग, जोहोर के पास दो-लेन जालान क्लुआंग-कोटा तिंगगी (संघीय रूट 91) के साथ उत्तर की ओर का दृश्य
+    kind: actual
+    origin: third-party
+    subject: दो-लेन संघीय राजमार्ग (रूट 91), क्लुआंग, जोहोर
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: कोटा दमनसरा, सेलांगोर में रात को एक सड़क चौराहे पर एक चिह्नित पैदल-पार पथ
+    kind: actual
+    origin: third-party
+    subject: एक सड़क चौराहे पर पैदल-पार पथ, कोटा दमनसरा, सेलांगोर
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 हर दिन मलेशिया की सड़कों पर लगभग 18 जानें चली जाती हैं। यह आँकड़ा सड़कों को देश में अप्राकृतिक मृत्यु के सबसे बड़े कारणों में से एक बनाता है, और यही मुख्य कारण है कि इससे निपटने के लिए समर्पित कानून, कैमरे और एजेंसियाँ तैनात की गई हैं।

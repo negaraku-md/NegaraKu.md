@@ -34,7 +34,7 @@ faq:
     a: "चीन अब तक का सबसे बड़ा गंतव्य है, जिसने दिसंबर 2024 में प्राकृतिक-रबर निर्यात का लगभग 49% लिया, इसके बाद जर्मनी (12.9%), संयुक्त अरब अमीरात (7.3%), संयुक्त राज्य अमेरिका और पुर्तगाल हैं।"
 
 lang: "hi"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'एक ताज़े तिरछे टैपिंग-कट वाला एक रबर का पेड़, जिसके तने से सफ़ेद लेटेक्स टपककर आधार पर बँधे एक काले कप में गिर रहा है'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: पतले रबर के पेड़ों की व्यवस्थित कतारें जिनके तने हल्के चितकबरे हैं, एक घासदार एस्टेट फ़र्श के पार दूरी में पीछे जाती हुईं, कई तनों पर नीचे लगे छोटे गहरे रंग के लेटेक्स कप।
+    kind: actual
+    origin: third-party
+    subject: जोहोर के एक बागान एस्टेट में लेटेक्स संग्रह कपों से लैस परिपक्व रबर के पेड़ों की सुथरी कतारें, जो मलेशिया के रबर उद्योग की रीढ़ है
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: एक रबर के उपवन के किनारे पर भूरे कमीज़ में एक आदमी एक पीली ढलवाँ-लोहे की शीटिंग मशीन के भारी रोलरों के बीच दबाए गए लेटेक्स की एक सफ़ेद शीट को मार्गदर्शित करता है, उसके बगल में एक दूसरा खाँचेदार रोलर।
+    kind: representative
+    origin: third-party
+    subject: एक श्रमिक एक हाथ से घुमाई जाने वाली रबर शीटिंग मैंगल के बीच से जमे हुए लेटेक्स की एक शीट डालते हुए, प्राकृतिक रबर के प्रसंस्करण में एक प्रमुख चरण
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 जिस रबर ने औपनिवेशिक मलाया को खड़ा किया, वह अब वृक्षारोपण में अपनी रोटी नहीं कमाता — वह कारखाने के फर्श पर कमाता है। मलेशिया अब भी पेड़ों का दोहन करता है, लेकिन इसका रबर-भाग्य अब उन चिकित्सा दस्ताने, टायर और लेटेक्स उत्पादों पर सवार है जो यह बनाता है, एक ऐसा कारोबार जो देश द्वारा उगाए जाने वाले रबर से अधिक रबर खपाता है।

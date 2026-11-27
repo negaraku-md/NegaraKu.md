@@ -19,7 +19,7 @@ keyTakeaways:
   - "Các chất hướng thần theo Biểu Thứ ba của Poisons Act 1952 chịu các quy định riêng, với hình phạt lên tới RM100,000 hoặc năm năm tù cho hành vi không được phép (Mục 30)"
 appliesTo: "Bất kỳ ai mua thuốc ở nhà thuốc chính phủ hoặc tư nhân tại Malaysia, và muốn hiểu vì sao một số thuốc cần đơn trong khi các thuốc khác thì không, cùng vai trò của dược sĩ đã đăng ký trong quá trình đó."
 lang: "vi"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,33 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'Một ngôi nhà phố góc màu đỏ tươi từ năm 1955 là nơi đặt một cửa hàng BIG Pharmacy (Farmasi) ở Kluang, Malaysia, với biển hiệu Farmasi song ngữ'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: Một nhà thuốc cộng đồng độc lập một tầng với biển hiệu Farmasi Sinar màu xanh, xe đỗ bên ngoài dưới bầu trời trong ở Malaysia
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar, một nhà thuốc cộng đồng khu phố độc lập ở Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: Lối vào nhà thuốc ngoại trú bên trong một bệnh viện công của Malaysia, với các biển Farmasi màu vàng và xanh cùng biểu ngữ Ngày Dược sĩ Thế giới, không có người
+    kind: actual
+    origin: third-party
+    subject: Lối vào nhà thuốc ngoại trú (Farmasi) tại Hospital Sultanah Nora Ismail, một bệnh viện công ở Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 Một khách hàng xin thuốc ho ở quầy dược và được phục vụ ngay. Một khách hàng khác xin kháng sinh cho chứng đau họng và được yêu cầu trình đơn của bác sĩ trước. Cả hai giao dịch đó diễn ra tại cùng một nhà thuốc, trong cùng một ngày — sự khác biệt nằm ở luật phân loại thuốc đó, chứ không phải ở sự tùy nghi của dược sĩ.

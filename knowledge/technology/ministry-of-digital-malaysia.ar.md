@@ -76,7 +76,7 @@ relations:
   - { rel: "related-to", to: "cybersecurity-malaysia" }
   - { rel: "related-to", to: "digital-nasional-berhad" }
   - { rel: "related-to", to: "personal-data-protection-act-2010" }
-related: []
+related: ["mdec-digital-economy-corporation", "national-ai-office-malaysia", "digital-economy-overview"]
 keywords: ["الوزارة الرقمية", "الوزارة الرقمية الماليزية", "Kementerian Digital", "Ministry of Digital Malaysia", "Gobind Singh Deo", "MDEC", "JDN", "CyberSecurity Malaysia", "الاقتصاد الرقمي", "ekonomi digital"]
 framework: profile
 ---

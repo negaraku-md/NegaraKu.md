@@ -30,7 +30,7 @@ faq:
     a: "Jumlah komunitas ini menyusut drastis — dari sekitar 400 keluarga pada 1980-an menjadi kurang dari 50 keluarga saat ini menurut Badan Warisan Nasional Singapura (Roots) — sementara sebuah laporan Free Malaysia Today memperkirakan hanya sekitar 20 hingga 30 keluarga yang masih tinggal di Kampung Chetti. Para peneliti mengaitkan kemerosotan ini dengan perkawinan campur, migrasi keluar, dan generasi muda yang semakin kehilangan hubungan dengan akar Chetti."
 
 lang: "id"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'Gapura masuk bergaya India berwarna merah muda yang dipuncaki sepasang patung gajah putih menandai gang menuju Kampung Chetti di Melaka, sebuah kuil Hindu kecil berkubah krem di sebelah kanan dan rumah-rumah desa dengan papan nama Kampung Chetti di sepanjang jalan yang tenang di bawah langit biru'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: Sebuah rumah bergaya Melayu dua lantai dari kayu gelap tradisional yang berfungsi sebagai Muzium Chetti di Melaka, papan nama biru bertuliskan Muzium Chetti The Chetti Museum di atas serambi, sederet tanaman pot di belakang pagar rendah dan bendera Malaysia serta Melaka berkibar di sampingnya
+    kind: actual
+    origin: third-party
+    subject: Muzium Chetti di Kampung Chetti, Melaka, yang mendokumentasikan komunitas Chetti Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: Fasad kuning Kuil Sri Poyyatha Vinayagar Moorthi di Harmony Street di Melaka, sebuah menara bertingkat sederhana dengan relung-relung dewa menjulang di atas atap serambi berubin dan pintu-pintu biru kehijauan, disinari matahari pagi rendah dengan latar langit biru pekat
+    kind: actual
+    origin: third-party
+    subject: Kuil Sri Poyyatha Vinayagar Moorthi di Melaka, kuil Hindu bersejarah yang didirikan komunitas Chetti pada tahun 1781
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 Di sebuah kampung tua di Jalan Gajah Berang, Melaka, ada sekelompok keluarga yang bersembahyang kepada Dewa Siwa, berpakaian seperti orang Melayu, memasak kari beraroma santan, dan berbicara dalam bahasa Melayu yang disisipi kata-kata Tamil. Mereka bukan India, bukan Melayu, bukan Tionghoa — mereka Chetti Melaka, dan jumlah mereka semakin sedikit.

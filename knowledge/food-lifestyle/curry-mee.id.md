@@ -98,6 +98,7 @@ dishFacts:
   halal: "Versi gaya Tionghoa tradisional tidak halal: dadu darah babi beku dan lemak babi goreng adalah tambahan klasik, dan mangkuk Penang sering memuat darah babi beku yang memperkaya dan menggelapkan kuah. Banyak versi halal yang dikelola Muslim menghilangkan babi. Karena resepnya bervariasi dari gerai ke gerai, sebaiknya tanyakan ke tiap gerai."
   eat: "Pedasnya biasanya datang terpisah — sesendok pasta cabai (atau sambal) diaduk atau disajikan di samping agar tiap penyantap bisa menyesuaikannya. Dalam gaya curry laksa Kuala Lumpur dan tengah, pasta cabai sering diaduk langsung ke sup, sedangkan curry mee Penang biasanya disajikan dengan pasta cabai di samping dan diakhiri setangkai daun mint segar."
   where: "Curry mee dijual di seluruh negeri di kopitiam (kedai kopi), pusat penjaja, dan gerai jalanan, sebagai makanan pokok sarapan dan sepanjang hari. George Town Penang adalah tempat berburu paling terkenal, dengan gerai lawas yang membangun reputasi lintas generasi, sedangkan Lembah Klang dan kota semenanjung lain menyajikan versi curry laksa dalam jumlah yang sama berlimpah."
+wikidata: "Q391082"
 ---
 
 Pesan "curry mee" di George Town dan Anda akan mendapat semangkuk mi santan yang

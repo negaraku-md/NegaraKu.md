@@ -66,6 +66,13 @@ sources:
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["Sheraton Move", "Langkah Sheraton", "2020 political crisis Malaysia", "Perikatan Nasional", "change of government 2020"]
 framework: history-culture
+hero: '/media/malaysia/sheraton-move-2020/hero.webp'
+heroAlt: 'பச்சை நிற குவிமாடத்துடன், புத்ராஜெயாவில் மலேசியப் பிரதமர் அலுவலகத்தைக் கொண்டுள்ள பெர்தானா புத்ரா கட்டிடம்.'
+heroCredit: 'Stress 043 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **வரைவு — உணர்வுபூர்வமானது.** இந்தக் கட்டுரை ஒரு நடுநிலையான, பணியில் உள்ள

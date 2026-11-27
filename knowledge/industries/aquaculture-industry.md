@@ -102,6 +102,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'Rows of floating net cages for fish farming arranged across the calm surface of a lake, with a caretaker''s hut at one end.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: A still freshwater aquaculture pond fringed by greenery at Kampung Tiang in Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Fish aquaculture pond at Kampung Tiang, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: An earthen aquaculture fish pond used for practical classes at the Faculty farm of Universiti Putra Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Aquaculture teaching fish pond at Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 Most of the fish on a Malaysian dinner plate still comes from the sea — but a fast-growing share now comes from a pond, a cage or a long-line raft. That is aquaculture: the deliberate farming of aquatic life, as opposed to catching what swims in the wild. As Malaysia's wild catch plateaus and demand for protein climbs, aquaculture has become the country's main lever for keeping fish on the table. This article goes deep on the farmed side of the business; for the wider picture, including the fishing fleet, fishermen's welfare and enforcement, see the [fisheries industry overview](/en/agriculture/malaysian-fisheries-industry/).

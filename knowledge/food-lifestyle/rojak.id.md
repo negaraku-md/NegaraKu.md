@@ -97,6 +97,7 @@ dishFacts:
   halal: "Artikel membedakan dua cabang: rojak buah (Tionghoa) memakai saus berbahan dasar terasi udang fermentasi — pasta makanan laut, bukan babi — sedangkan versi mamak atau pasembur adalah rojak gorengan Muslim-India yang dibuat juru masak mamak dan dijual di gerai mamak di seluruh negeri."
   eat: "Semuanya dipotong seukuran sekali gigit, diaduk dalam saus hingga terlapisi, dan diakhiri kacang tanah sangrai tumbuk; rojak buah disantap dingin sebagai camilan atau piring berbagi, dihargai karena cara tiap bahan tetap berbeda meski dilumuri saus, sedangkan versi mamak adalah piring hangat yang mengenyangkan disiram kuah."
   where: "Rojak terjalin dalam budaya jajanan jalanan dan pasar malam Malaysia, tempat beberapa bentuknya dijual berdampingan — rojak buah paling lekat dengan penjaja Tionghoa, dan versi mamak/pasembur ikon gerai mamak yang ditemukan di seluruh negeri, dengan Penang dirayakan karena olahan lokalnya sendiri yang asam dan gelap seperti toffee."
+wikidata: "Q720230"
 ---
 
 Pesan "rojak" di satu gerai, Anda akan memperoleh tumpukan dingin buah dan cakwe yang

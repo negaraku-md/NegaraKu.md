@@ -25,7 +25,7 @@ verificationNeeded:
   - "क्या चालक से जुड़ी कोई विशिष्ट शर्त (जैसे न्यूनतम आयु) लागू होती है, इसकी पुष्टि JPJ या संबंधित ई-हेलिंग संचालक से की जानी चाहिए, क्योंकि यह जिन आधिकारिक पृष्ठों को देखा गया उन पर पुष्टि-योग्य रूप में नहीं बताई गई थी"
 
 lang: "hi"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["ई-हेलिंग मलेशिया", "Grab विनियमन मलेशिया", "PSV लाइसेंस ई-हेलिंग", "e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD ई-हेलिंग वाहन परमिट", "Grab मलेशिया में कैसे काम करता है", "ई-हेलिंग चालक लाइसेंस मलेशिया"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'सड़क पर हरे Grab Electric रंग-रूप और ''0 percent emisi'' नारे के साथ चिह्नित एक सफेद Hyundai Ioniq Electric कार।'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: हरे Grab राइड-हेलिंग लिवरी और मलेशियाई झंडों से ढकी एक सेडान कोटा किनाबालु, सबाह की एक सड़क पर चलती हुई।
+    kind: actual
+    origin: third-party
+    subject: कोटा किनाबालु, सबाह में Grab लिवरी वाली कार
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: सबाह के कोटा किनाबालु में 2023 की राष्ट्रीय दिवस परेड में मार्च करता Grab-ब्रांड वाला दल।
+    kind: actual
+    origin: third-party
+    subject: कोटा किनाबालु में राष्ट्रीय दिवस परेड में Grab का दल
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 कुआलालंपुर में Grab, या Bolt, या inDrive खोलिए और «बुक» पर टैप कीजिए। उस पल में कुछ भी

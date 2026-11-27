@@ -29,7 +29,7 @@ faq:
     a: "आमतौर पर नहीं। JPA और MARA जैसी पूर्ण छात्रवृत्तियाँ आमतौर पर विद्यार्थियों से अध्ययन के उसी स्तर के लिए PTPTN छोड़ने की माँग करती हैं। संबंधित प्रायोजक के समझौते की शर्तें जाँचें।"
 
 lang: "hi"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'रेम्बाउ में एक UiTM परिसर की आधुनिक पीली-और-धूसर संकाय इमारतें, जो एक मलेशियाई सार्वजनिक विश्वविद्यालय है, जहाँ विद्यार्थी परिसर की सड़क पर चल रहे हैं।'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Universiti Sains Malaysia के अभियांत्रिकी परिसर में आधुनिक शैक्षणिक भवन और सुसज्जित परिसर-भूमि।
+    kind: representative
+    origin: third-party
+    subject: Universiti Sains Malaysia का अभियांत्रिकी परिसर, एक मलेशियाई सार्वजनिक अनुसंधान विश्वविद्यालय
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: किसी मलेशियाई विश्वविद्यालय के दीक्षांत समारोह में शैक्षणिक गाउन और टोपियों में बैठे स्नातक होने वाले विद्यार्थियों की पंक्तियाँ।
+    kind: representative
+    origin: third-party
+    subject: किसी मलेशियाई विश्वविद्यालय के दीक्षांत समारोह में गाउन पहने स्नातक (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 SPM में 9A+ अंक प्राप्त करना स्वतः एक पूर्ण विदेशी छात्रवृत्ति की गारंटी नहीं देता — क्योंकि मलेशिया में, सार्वजनिक प्रायोजन केवल अंकों के बारे में नहीं है, बल्कि इस बारे में भी है कि आप किस योजना में आवेदन करते हैं, उससे जुड़ी सेवा-शर्तें क्या हैं, और प्रत्येक निधि को नियंत्रित करने वाली नीति क्या है। प्रायोजकों के इस मानचित्र को समझना मायने रखता है, क्योंकि गलत चुनाव का अर्थ हज़ारों रिंगिट हो सकता है जो आपको बाद में चुकाने पड़ सकते हैं।

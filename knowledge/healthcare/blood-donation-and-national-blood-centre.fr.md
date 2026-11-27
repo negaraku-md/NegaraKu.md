@@ -29,7 +29,7 @@ faq:
     a: "Il s'agit notamment des personnes qui participent à des activités à haut risque, des donneuses enceintes, menstruées ou allaitantes, de toute personne ayant vécu au Royaume-Uni pendant 6 mois ou plus (cumulés) entre 1980 et 1996, ou ayant vécu dans un pays européen pendant 5 ans ou plus (cumulés) de 1980 à aujourd'hui, dans les deux cas en raison du risque de vMCJ."
 
 lang: "fr"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ entity: "Pusat Darah Negara"
 wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "hiv-aids-and-sexual-health-services"]
 keywords: ["don de sang", "Centre national du sang", "Pusat Darah Negara", "PDN", "conditions pour donner son sang", "privilèges du donneur", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'Un donneur de sang malaisien assis dans un fauteuil de don à côté d''une infirmière souriante tenant une poche de sang remplie.'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: Une salle de don du sang lumineuse bordée de fauteuils inclinables vides pour donneurs, de chariots à instruments et d'un comptoir d'accueil, sans aucun donneur présent
+    kind: representative
+    origin: third-party
+    subject: Intérieur d'un centre de don du sang avec une rangée de fauteuils inclinables vides pour donneurs et des équipements
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: Une main tient une poche de prélèvement sanguin remplie et scellée avec son étiquette d'enregistrement du don et sa tubulure, représentant le matériel servant à prélever et à conserver le sang donné
+    kind: representative
+    origin: third-party
+    subject: Une poche de prélèvement scellée contenant une unité de sang total donné lors d'une séance de don
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 Selon le PDN, un seul don de sang peut sauver au moins trois vies, car le sang total est transformé en globules rouges, plaquettes et plasma destinés à différents patients.

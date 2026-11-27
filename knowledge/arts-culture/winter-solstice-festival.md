@@ -78,6 +78,34 @@ festivalFacts:
   when: "依二十四节气而定，落在每年公历十二月廿一至廿三日前后（约十二月廿二日），为一年中白昼最短的一天。"
   holiday: "不是公共假期——冬至在马来西亚并非全国或任何州属的公共假期。"
   etiquette: "华人多在家中低调庆祝，一家人围坐搓汤圆、共进一餐，而非举行大型公共活动；部分家庭会先以汤圆祭祖、拜神再合家共食，做法因家庭与方言群而异。"
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: '一只白碗盛着漂浮在清甜糖水中的粉、紫、黄色糯米汤圆，碗内搁着一把蓝边瓷勺'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: 一碗近景的汤圆，晶莹半透明，有白色、淡紫和翠绿三色，在清甜的糖水中浮动
+    kind: representative
+    origin: third-party
+    subject: 白、紫、绿三色晶皮汤圆浮在糖水碗中的特写
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: 俯视镜头，四颗饱满的紫色汤圆浸在蓝边碗里清澈滚烫的糖水中，热气袅袅升起
+    kind: representative
+    origin: third-party
+    subject: 俯视一碗浸在滚烫糖水中、冒着热气的紫色汤圆
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 十二月下旬的一个傍晚，厨房里糯米粉的香气混着姜汤的甜味。一家人围在桌边，把一小团一小团的糯米搓成圆子——有白的，也有染成粉红、浅绿的。孩子手里的圆子大小不一，大人边搓边说：吃了汤圆，就又长了一岁。这一天是冬至。

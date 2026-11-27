@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 
 status: "published"
 aiAssisted: true
@@ -116,6 +116,34 @@ keywords:
   - "Selangor council licensing"
   - "Port Klang TEU"
 framework: profile
+hero: '/media/business/doing-business-selangor/hero.webp'
+heroAlt: 'ポートクランのノースポートでコンテナ船に積み込む背の高い青いガントリークレーンの列。埠頭の道にコンテナが積まれコンテナトラックが走る'
+heroCredit: 'Hafiz343 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: セランゴール州シャアラムで、明るい青空の下、青いドーム型のDataran Shah Alamの建物の隣に立つ、高く角張ったWisma MBSAオフィスタワー
+    kind: actual
+    origin: third-party
+    subject: セランゴール州都の商業・行政中心部にあるWisma MBSAオフィスタワーとDataran Shah Alam
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: セランゴール州Mentari Business Parkにある、高いアーチ型の窓を備えたガラスと白を基調とした多層階の商業オフィスビルを、沿道から望む
+    kind: actual
+    origin: third-party
+    subject: Bandar SunwayのMentari Business Parkにある商業オフィス棟。セランゴール州の密集したビジネスパーク地帯の一部
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 クアラルンプールには発行機関が一つしかない。それを取り囲むセランゴールには十二ある——シャアラムの工場、プタリンジャヤの店舗、アンパンジャヤの事務所は、それぞれ異なる三つの法規に管轄され、三つの異なる日に失効する。

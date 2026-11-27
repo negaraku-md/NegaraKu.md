@@ -35,7 +35,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ entity: "मलेशिया में एक रोकी गई किरा
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'कुआलालंपुर के केपोंग में पुंचक देसा की ऊँची अपार्टमेंट इमारतें, एक विशिष्ट मलेशियाई किराये का आवासीय खंड।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: कुआलालंपुर में पुराने निचले सार्वजनिक वॉक-अप फ्लैटों का एक ब्लॉक, जिसकी खिड़कियों से कपड़े लटके हुए हैं
+    kind: representative
+    origin: third-party
+    subject: कुआलालंपुर में पुराने वॉक-अप किराये के फ्लैट (Pekeliling Flats)
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: Rasa, सेलांगोर में एक आवासीय गली के किनारे एक-मंज़िला टैरेस मकानों की एक कतार
+    kind: representative
+    origin: third-party
+    subject: Rasa, सेलांगोर में टैरेस मकानों की एक कतार, किराये के घर का एक आम प्रकार
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 किरायेदारी के अंत को ऐसे मकान मालिक से अधिक और कुछ कड़वा नहीं बनाता जो जमा राशि अपने पास रख लेता है। यह आमतौर पर एक बड़ी रकम होती है, अक्सर अन्यायपूर्ण लगती है, और तुरंत मामला बढ़ा देने का मन करता है। ऐसा करने से पहले, उस एक तथ्य को समझना मददगार है जो मलेशिया में एक जमा विवाद के बारे में सब कुछ तय करता है — क्योंकि यह वह नहीं है जो कई किरायेदार मान लेते हैं।

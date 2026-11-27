@@ -83,7 +83,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "governs", to: "federal-constitution-citizenship" }
   - { rel: "related-to", to: "applying-for-malaysian-citizenship-article-15" }
-related: []
+related: ["malaysian-citizenship-by-registration", "renouncing-malaysian-citizenship", "immigration-department-jim"]
 keywords: ["वंश के आधार पर नागरिकता", "citizenship by descent", "अनुच्छेद 14(1)(b)", "Article 14(1)(b)", "फ़ॉर्म D", "Form D", "विदेश में जन्म", "JPN", "दूसरी अनुसूची", "संविधान संशोधन 2024", "अनुच्छेद 15(2)"]
 framework: explainer
 ---

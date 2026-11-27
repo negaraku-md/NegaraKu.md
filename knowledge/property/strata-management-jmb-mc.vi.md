@@ -35,7 +35,7 @@ faq:
     a: "Việc không tuân thủ phán quyết là một hành vi phạm tội theo Mục 123 — phạt không quá RM250,000 hoặc phạt tù không quá 3 năm hoặc cả hai, với mức phạt bổ sung đến RM5,000 mỗi ngày cho hành vi phạm tội tiếp diễn. Khiếu nại được gửi đến Ủy viên Xây dựng (COB)."
 
 lang: "vi"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'Các tòa nhà cao tầng sở hữu phân tầng Orion Condominium và Sky Residences ở Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: Một cụm tháp chung cư strata hiện đại tại Harbour View, Butterworth, Penang, loại dự án do JMB hoặc công ty quản lý (management corporation) điều hành
+    kind: representative
+    origin: third-party
+    subject: Một cụm chung cư strata cao tầng tại Harbour View, Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: Lối vào có cổng, chòi bảo vệ và khối nhà câu lạc bộ chung của chung cư strata The Oasis ở Gelugor, Penang, với các tòa tháp căn hộ phía sau
+    kind: representative
+    origin: third-party
+    subject: Lối vào có bảo vệ và nhà câu lạc bộ của chung cư The Oasis ở Gelugor, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 Bạn mua một căn chung cư, nhưng ai thực sự sở hữu thang máy, hồ bơi và lối đậu xe — và ai có quyền thu phí hàng tháng từ bạn? Câu trả lời nằm ở một lớp quản trị mà người mua hiếm khi đọc cho đến khi phát sinh tranh chấp: khuôn khổ của Luật Quản lý Phân tầng 2013 (Strata Management Act 2013) (Luật 757).

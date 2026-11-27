@@ -36,7 +36,7 @@ faq:
     a: "La NSS tiene como meta formar y recualificar a 60,000 ingenieros malasios altamente cualificados — unos 30,000 cultivados a través del Ministerio de Educación y unos 30,000 talentos técnicos y vocacionales (TVET) de otros ministerios."
 
 lang: "es"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Primer plano extremo de un troquel de circuito integrado que muestra intrincada circuitería plateada y púrpura sobre el chip, con finos hilos de conexión dorados abriéndose en abanico hacia los terminales dorados del encapsulado'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: Una oblea de silicio redonda de 300 milímetros vista desde arriba, cubierta por una cuadrícula regular de troqueles de chip rectangulares con colores de difracción iridiscentes en su superficie
+    kind: representative
+    origin: third-party
+    subject: Una oblea de silicio de 12 pulgadas (300 mm) estampada con una cuadrícula de troqueles de chip
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: Una oblea de silicio girando cubierta por una charco brillante de fotorresistencia de color rojo oscuro sobre un recubridor por centrifugado, con la resina proyectada hacia afuera en una fina pulverización
+    kind: representative
+    origin: third-party
+    subject: Una oblea de silicio siendo recubierta por centrifugado con fotorresistencia durante la fabricación de chips
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Casi todos los teléfonos, portátiles y coches de la Tierra llevan un chip que pasó parte de su vida en Malasia — empaquetado, probado y enviado desde una fábrica en Penang o el valle de Klang. Sin embargo, durante cincuenta años el país hizo la porción menos glamurosa y de menor margen de ese trabajo: el back-end. La Estrategia Nacional de Semiconductores es el intento de Malasia de cambiar qué parte del chip posee.

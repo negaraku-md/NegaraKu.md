@@ -29,7 +29,7 @@ faq:
     a: "من بينهم المنخرطون في أنشطة عالية الخطورة، والمتبرعات الحوامل أو الحائضات أو المرضعات، ومن أقام في المملكة المتحدة (UK) 6 أشهر أو أكثر (تراكمياً) بين 1980 و1996، أو من أقام في دولة أوروبية 5 سنوات أو أكثر (تراكمياً) من 1980 حتى الآن — وكلا الأمرين بسبب خطر مرض كروتزفيلد-ياكوب المتغيّر (vCJD)."
 
 lang: "ar"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ entity: "Pusat Darah Negara"
 wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "hiv-aids-and-sexual-health-services"]
 keywords: ["التبرع بالدم", "المركز الوطني للدم", "Pusat Darah Negara", "PDN", "شروط التبرع بالدم", "امتيازات المتبرعين", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'متبرّع بالدم ماليزي يجلس على كرسي التبرّع بجوار ممرّضة مبتسمة تحمل كيس دم ممتلئًا.'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: قاعة تبرّع بالدم مضاءة تصطفّ فيها أرائك تبرّع مائلة فارغة وعربات أدوات ومكتب استقبال، دون وجود أي متبرّعين
+    kind: representative
+    origin: third-party
+    subject: المظهر الداخلي لمركز تبرّع بالدم به صفّ من أرائك المتبرّعين المائلة الفارغة والمعدات
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: يد تمسك كيس جمع دم مملوءًا ومُحكَم الإغلاق مع بطاقة سجلّ التبرّع والأنابيب، يمثّل الأدوات المستخدمة في جمع الدم المتبرَّع به وتخزينه
+    kind: representative
+    origin: third-party
+    subject: كيس جمع مُحكَم الإغلاق يحوي وحدة من الدم الكامل المتبرَّع به في إحدى جلسات التبرّع
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 وفقاً لـ PDN، يمكن لتبرع واحد بالدم أن يُنقذ ثلاثة أرواح على الأقل — لأن الدم الكامل يُعالَج ليُحوَّل إلى خلايا دم حمراء وصفائح دموية وبلازما لمرضى مختلفين.

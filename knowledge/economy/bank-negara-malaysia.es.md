@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "es"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,33 @@ relations:
 related: ["opr-monetary-policy", "ringgit", "foreign-exchange-policy-malaysia", "payment-regulation-malaysia"]
 keywords: ["Bank Negara Malaysia", "BNM", "Central Bank of Malaysia Act 2009", "banco central de Malasia", "Comité de Política Monetaria Malasia"]
 framework: profile
+hero: '/media/economy/bank-negara-malaysia/hero.webp'
+heroAlt: 'La marquesina de la entrada principal de la sede del Bank Negara Malaysia con las letras doradas BANK NEGARA MALAYSIA y el emblema del kijang, flanqueada por una fila de banderas de los estados malayos y altas palmeras'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-0916).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: La torre de hormigón gris con bandas horizontales de la sede de Bank Negara Malaysia, rematada por el emblema azul del kijang, que se eleva sobre un parque verde contra un cielo azul moteado, con el perfil urbano de Kuala Lumpur detrás
+    kind: actual
+    origin: third-party
+    subject: La torre escalonada de hormigón de la sede de Bank Negara Malaysia vista a través del parque, en el centro de Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: La fachada angular de cristal oscuro y metal del Museo y Galería de Arte de Bank Negara Malaysia, con su revestimiento geométrico afilado que sobresale sobre una entrada ajardinada
+    kind: actual
+    origin: third-party
+    subject: El Museo y Galería de Arte de Bank Negara Malaysia, parte del complejo Sasana Kijang, Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## De un vistazo

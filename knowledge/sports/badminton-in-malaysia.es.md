@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia renunció a la BAM en enero de 2022 para convertirse en jugador independiente tras casi una década con el organismo desde los 13 años. Quería centrarse en su propio entrenamiento y mejorar su clasificación, y subrayó que, ya sea como jugador nacional o independiente, siguen enarbolando la Jalur Gemilang."
 
 lang: "es"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "bádminton Malasia"
   - "Persatuan Badminton Malaysia"
@@ -100,6 +100,32 @@ keywords:
   - "Lee Zii Jia"
   - "campeón All England Malasia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'La estrella malasia del bádminton Lee Chong Wei se lanza para ejecutar un golpe de derecha durante un partido olímpico.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: El estadio cubierto Axiata Arena en Kuala Lumpur, sede utilizada para el bádminton en los SEA Games de 2017.
+    kind: actual
+    origin: third-party
+    subject: Axiata Arena, la sede nacional de bádminton en el complejo deportivo de Bukit Jalil
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: El jugador de bádminton malasio Hafiz Hashim se lanza a por un golpe durante un partido en el Malaysia Open de 2008.
+    kind: actual
+    origin: third-party
+    subject: El jugador malasio de individuales Hafiz Hashim compitiendo en el Malaysia Open de 2008
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 En mayo de 1992, toda la nación se detuvo por un instante. En el Stadium Negara, Kuala Lumpur, un equipo de jóvenes liderado por los hermanos Sidek venció a Indonesia para levantar la Copa Thomas, y, como lo expresó Datuk Rashid Sidek, «toda Malasia se volvió viral y todo el mundo quería jugar al bádminton». Tres décadas después, el trofeo todavía no ha regresado. La historia del bádminton malasio es una historia de gloria temprana, una dolorosa sequía y uno o dos campeones que cargan sobre sus hombros las esperanzas de una nación.

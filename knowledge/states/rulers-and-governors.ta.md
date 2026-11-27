@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: 'இஸ்தானா நெகராவின் கம்பீரமான தங்க குவிமாடமுடைய விழா வளைவுவாயில், பின்னால் குவிமாடமுடைய அரச அரண்மனையும் உயர்ந்த கட்டிடங்கள் நிறைந்த நகர வானக்கோட்டுடன்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் 13 மாநிலங்கள் உள்ளன, ஆனால் அரியணைகள் ஒன்பதே. மற்ற நான்கு

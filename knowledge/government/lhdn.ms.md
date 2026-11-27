@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,34 @@ relations:
 related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-invoicing"]
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
 framework: profile
+hero: '/media/government/lhdn/hero.webp'
+heroAlt: 'Sebuah bangunan pejabat moden dengan bumbung julur melengkung dan papan tanda biru tertulis WISMA HASIL di sebelah logo segi tiga Hasil, berlatar langit biru cerah di Sandakan, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: Sebuah menara pejabat kaca biru-hijau yang tinggi dengan podium merah marun membawa papan tanda HASIL dan Lembaga Hasil Dalam Negeri di atas pintu masuk, dilihat dari jalan di Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Menara Lembaga Hasil Dalam Negeri (LHDN) di Kuching, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: Sebuah bangunan pejabat pencakar langit putih dan berkaca pirus memaparkan logo perkataan HASIL berwarna biru berhampiran garisan bumbungnya, menjulang di atas jalan berbaris pokok di Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Wisma Hasil, bangunan Lembaga Hasil Dalam Negeri (LHDN) di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## Sekilas pandang

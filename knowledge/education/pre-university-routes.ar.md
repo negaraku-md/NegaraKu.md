@@ -22,7 +22,7 @@ verificationNeeded:
   - "الطاقة الاستيعابية السنوية الحالية (عدد المقاعد) لدفعات STPM والتهيئة الجامعية وA-Level غير مذكورة هنا — فهذه تتغيّر كل دورة قبول؛ تأكّد من أرقام الدورة الحالية مباشرةً مع MPM أو قسم التهيئة الجامعية أو الكلية المعنية قبل الاعتماد على رقم بعينه."
   - "لم يتسنَّ استخراج الخطوط الإرشادية الكاملة لـ MQA بشأن بنية برنامج السنة التأسيسية (Garis Panduan Kurikulum Asasi) لهذا المقال — فقاعدة الحد الأدنى من الساعات المعتمدة أو المدة التي يحدّدها MQA لبرامج السنة التأسيسية موصوفة هنا بعبارات عامة فحسب؛ تأكّد من الأرقام الدقيقة مع MQA أو المؤسسة المقدِّمة قبل الاستشهاد بها."
 lang: "ar"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM مقابل Matrikulasi", "ما قبل الجامعة ماليزيا", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "الدبلوم إلى الدرجة الجامعية", "فئات قبول UPU", "مسارات ما قبل الجامعة بعد SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'المبنى الأكاديمي لكلّية كوليج ماتريكولاسي كلنتان، وهي كلّية تأهيلية ماليزية تتيح مسارًا تحضيريًا للجامعة، تحت سماء زرقاء.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: مباني الحرم الحديثة لكلّية ماليزية تقدّم برامج التأسيس لما قبل الجامعة.
+    kind: representative
+    origin: third-party
+    subject: حرم كلّية ماليزية تقدّم برامج التأسيس لما قبل الجامعة (KDU University College، دامانسارا جايا)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: مبنى مختبرات كلّية العلوم والتكنولوجيا في جامعة ماليزية.
+    kind: representative
+    origin: third-party
+    subject: مبنى مختبر العلوم، كلّية العلوم والتكنولوجيا، Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 يخرج طالبان من قاعة SPM نفسها بنتائج شبه متطابقة. وبعد ثمانية عشر شهرًا،

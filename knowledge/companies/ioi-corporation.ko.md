@@ -30,7 +30,7 @@ faq:
     a: "말레이시아(조호르, 말라카, 느그리슴빌란, 파항, 사바, 사라왁 포함)와 인도네시아(서부 및 중부 칼리만탄)에서입니다."
 
 lang: "ko"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: '극적인 구름 낀 하늘 아래, 문 위에 붉은 ''ioiCITYMALL'' 간판이 있는 IOI 시티몰의 곡선 유리·금속 정문, 양옆으로 높은 거울 유리 사무 타워가 선 모습'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: 큰 'IOI' 표식과 'IOI EDIBLE OILS' 로고판을 단 사바주 산다칸의 파란색 산업용 팜유 정제탑, 앞에는 야자나무가 있고 뒤로는 숲이 우거진 언덕이 보인다
+    kind: actual
+    origin: third-party
+    subject: IOI Corporation의 자원 기반 제조 사업의 일부인 사바주 산다칸의 IOI Edible Oils 팜유 정제 복합시설
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: 상점들이 늘어선 곡선형 발코니 위로 분홍색 'IOi CiTY MALL 2' 홍보 배너가 높이 걸린, IOI City Mall 2의 다층 내부 아트리움
+    kind: actual
+    origin: third-party
+    subject: IOI City Mall의 2단계 시설인 IOI City Mall 2의 내부 아트리움, 푸트라자야
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 산업용 가스를 판매하며 출발한 한 회사가 이제는 작은 구(district) 크기의 토지를 채울 만큼의 오일팜을 재배하고, 그 열매를 식용유부터 비누 속 지방산에 이르기까지 온갖 것으로 바꿔 냅니다.

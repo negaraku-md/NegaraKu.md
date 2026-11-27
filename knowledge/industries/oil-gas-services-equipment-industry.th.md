@@ -31,7 +31,7 @@ faq:
   - q: แผนแม่บทอุตสาหกรรม OGSE แห่งชาติคืออะไร?
     a: เปิดตัวในเดือนเมษายน 2021 และทบทวนกลางเทอมในปี 2024 เป็นแผน 10 ปี (2021-2030) ของรัฐบาลเพื่อทำให้ภาคส่วนแข่งขันได้ ยืดหยุ่น และยั่งยืนมากขึ้น เป้าหมายรวมถึงการเพิ่มรายได้ส่งออกเป็นสองเท่า รักษาส่วนร่วมต่อจีดีพีราว RM50 พันล้าน และผลักดันบริษัทเข้าสู่บริการการเปลี่ยนผ่านพลังงาน เช่น การดักจับคาร์บอน ไฮโดรเจน และพลังงานหมุนเวียน
 lang: th
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,34 @@ keywords:
   - เรือสนับสนุนนอกชายฝั่ง
   - แผนแม่บท OGSE แห่งชาติ
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'แท่นขุดเจาะนอกชายฝั่งแบบกึ่งจมน้ำมองจากด้านหน้าในทะเล ดาดฟ้าทรงกล่องและหอเจาะกลางสูงตั้งอยู่บนทุ่นลอยจมน้ำสองอัน พร้อมสายสมอทอดลงน้ำและเรือสนับสนุนที่เส้นขอบฟ้า'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: แท่นผลิตน้ำมันนอกชายฝั่งขนาดใหญ่ในแสงสีทอง พร้อมเครนบนดาดฟ้ากำลังหย่อนของลงสู่เรือสนับสนุนนอกชายฝั่งที่จอดเทียบอยู่ข้างๆ บนทะเลสีน้ำเงินเปิดโล่ง
+    kind: representative
+    origin: third-party
+    subject: เรือสนับสนุนนอกชายฝั่งกำลังทำงานเทียบข้างแท่นผลิต โดยเครนของแท่นกำลังถ่ายโอนของ
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: เรือสนับสนุนนอกชายฝั่งสีน้ำเงินสลับขาวชื่อ Island Chieftain จอดเทียบท่า เห็นสะพานเดินเรือสูงด้านหน้าและดาดฟ้าบรรทุกสินค้าเปิดโล่งแบนยาว พร้อมภูเขาอยู่ด้านหลัง
+    kind: representative
+    origin: third-party
+    subject: เรือส่งกำลังบำรุงแท่นและเรือสนับสนุนนอกชายฝั่งจอดเทียบท่า เห็นดาดฟ้าบรรทุกสินค้าท้ายเรือที่เปิดโล่ง
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 เมื่อผู้คนนึกถึงความมั่งคั่งน้ำมันและก๊าซของมาเลเซีย มักนึกถึงน้ำมันดิบและก๊าซใต้พื้นทะเลนอกชายฝั่งตรังกานู ซาราวัก และซาบะฮ์ — สำรองที่ทำให้ PETRONAS เป็นหนึ่งในบริษัทพลังงานที่ใหญ่ที่สุดของเอเชีย แต่ไฮโดรคาร์บอนไม่ได้ยกตัวเองขึ้นจากพื้นดิน เบื้องหลังทุกแหล่งผลิตมีกองทัพผู้รับเหมาเล็ก ๆ: ลานที่เชื่อมแท่นเหล็ก แท่นที่ขุดเจาะหลุม เรือที่ขนลูกเรือและสินค้าออกนอกชายฝั่ง วิศวกรที่ออกแบบสิ่งอำนวยความสะดวก และช่างเทคนิคที่ทำให้ทุกอย่างเดินเครื่อง ระบบนิเวศนั้นคือ **อุตสาหกรรมบริการและอุปกรณ์น้ำมันและก๊าซ (OGSE)** และเป็นอุตสาหกรรมมาเลเซียรายใหญ่ในตัวเอง

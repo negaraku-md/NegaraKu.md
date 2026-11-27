@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจต้นกำเนิดของอารยธรรมยุคแรกบนแผ่นดินมลายูก่อนที่จะมีบรรดารัฐสุลต่านมลายู หรือผู้ที่วางแผนเยี่ยมชมแหล่งและพิพิธภัณฑ์โบราณคดีในเกอดะฮ์"
 
 lang: "th"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ faq:
   - q: จันดี (candi, เทวสถาน) ในหุบเขาบูจังยังคงอยู่ในสภาพดั้งเดิมจากยุคโบราณหรือไม่?
     a: ไม่ จันดีส่วนใหญ่ที่สามารถเยี่ยมชมได้ในปัจจุบันได้รับการสร้างขึ้นใหม่ (บูรณะ) โดยนักโบราณคดีโดยอาศัยซากปรักหักพังดั้งเดิม ไม่ใช่โครงสร้างที่ยังคงสภาพสมบูรณ์ จันดีบูกิตบาตูปาฮัต (Candi Bukit Batu Pahat) เป็นซากปรักหักพังแห่งเดียวที่ได้รับการบูรณะในที่ตั้งดั้งเดิม ขณะที่จันดีเปิงกาลันบูจัง (Candi Pengkalan Bujang) ปัจจุบันถูกสร้างขึ้นใหม่ใกล้กับพิพิธภัณฑ์ ตามข้อมูลของหอจดหมายเหตุแห่งชาติมาเลเซีย (Arkib Negara Malaysia) คาดว่าจันดีเหล่านี้ถูกสร้างขึ้นระหว่างคริสต์ศตวรรษที่ 4 ถึงที่ 12
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'ฐานวิหารหินทรงขั้นบันไดที่บูรณะแล้วทำจากหินดินลูกรังสีแดง ณ แหล่งโบราณคดีหุบเขาบูจัง (เลิมบะฮ์บูจัง) ในรัฐเกอดะฮ์ ตั้งอยู่บนสนามหญ้าที่ตัดเรียบ มีป่าทึบเขียวขจีเป็นฉากหลัง'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: ฐานศาสนสถานทรงสี่เหลี่ยมแบบขั้นบันไดที่ก่อด้วยก้อนศิลาแลงสีแดง ตั้งอยู่บนพื้นดินเปลือยใต้เพิงคุ้มครองแบบเปิดโล่งที่ทำจากไม้และกระเบื้อง โดยมีเนินเขาเขียวขจีและป่าปรากฏอยู่เบื้องหลัง
+    kind: actual
+    origin: third-party
+    subject: จันดี (candi) ฐานศาสนสถานฮินดู-พุทธที่ได้รับการบูรณะ ณ แหล่งโบราณคดีหุบเขาบูจัง รัฐเกอดะฮ์
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: ภาชนะดินเผาและเครื่องเคลือบที่ขุดพบสี่ชิ้น ได้แก่ ไหสีเข้มทรงสูงมีพวย หม้อกลมสีขาว และชามเล็กสองใบ จัดแสดงบนแท่นใสในตู้พิพิธภัณฑ์ที่มีแสงส่อง
+    kind: actual
+    origin: third-party
+    subject: ภาชนะเครื่องปั้นดินเผาที่ขุดพบ ณ หุบเขาบูจัง รัฐเกอดะฮ์ จัดแสดงอยู่ในพิพิธภัณฑ์โบราณคดี
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 บนที่ราบเรียบใกล้ภูเขาเจอไร (Gunung Jerai) ระหว่างนาข้าวกับสวนปาล์มน้ำมัน มีอิฐโบราณที่เรียงกันไว้หลายศตวรรษก่อนที่มะละกา (Melaka) จะปรากฏขึ้นในฐานะเมืองท่า บางส่วนก่อเป็นฐานของเทวสถานฮินดู บางส่วนเป็นเตาถลุงเหล็ก ไม่มีสุลต่านองค์ใดที่เคยปกครองจากที่นี่ซึ่งชื่อเป็นที่รู้จักในปัจจุบัน แต่สิ่งที่สังคมผู้สร้างเทวสถานและเตาเหล่านั้นทิ้งไว้ทำให้หุบเขาบูจังเป็นหนึ่งในแหล่งโบราณคดีที่สำคัญที่สุดในเอเชียตะวันออกเฉียงใต้

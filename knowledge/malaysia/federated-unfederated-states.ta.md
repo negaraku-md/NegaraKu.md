@@ -33,7 +33,7 @@ faq:
   - q: "இறுதியில் இந்த இரு குழுக்களுக்கும் என்ன நடந்தது?"
     a: "கூட்டமைப்பு மற்றும் கூட்டமைப்பற்ற மலாய் மாநிலங்கள் இரண்டும் 1946 ஏப்ரல் 1 அன்று மலாயன் யூனியனுக்குள் கலைக்கப்பட்டன; மலாயன் யூனியனே சில ஆண்டுகளுக்குள் மலாயா கூட்டமைப்பினால் (Federation of Malaya) மாற்றப்பட்டது."
 lang: "ta"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'ஓக்கர் நிற செங்கல் மற்றும் வெண்ணிற வளைவுகளால் அமைந்த நீண்ட மூரிஷ் முகப்பு, செம்பு குவிமாடங்களும் உயரமான மைய கடிகார கோபுரமும் நீல வானத்தின் கீழ் அதை முடிசூட்டுகின்றன.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: ஒளிரும் வெள்ளை நிற காலனித்துவ ஈப்போ ரயில் நிலையம், வளைவுத் தூண் வரிசைகளும் கோபுரக் குமிழ்களும் கொண்ட நீளமான எட்வர்டியன்-மூரிஷ் பாணிக் கட்டிடம், பேராக்கில் பிரிட்டிஷ் ஆட்சியின் கீழ் கட்டப்பட்டது.
+    kind: actual
+    origin: third-party
+    subject: பேராக்கில் உள்ள பிரிட்டிஷ் காலனித்துவ காலத்தின் அடையாளச் சின்னமான ஈப்போ ரயில் நிலையம்
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: பழைய கோலாலம்பூர் ரயில் நிலையத்தின் அலங்கார வெள்ளை முகப்பு, குதிரைக்குளம்பு வளைவுகள், சிறு குமிழ்கள் மற்றும் மினாரத் போன்ற சிகரங்களைக் கொண்ட, 1910-இல் முடிக்கப்பட்ட மூரிஷ் பாணி பிரிட்டிஷ் காலனித்துவக் கட்டிடம்.
+    kind: actual
+    origin: third-party
+    subject: பழைய கோலாலம்பூர் ரயில் நிலையம் (1910), மூரிஷ் பாணி பிரிட்டிஷ் கால முனையம்
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 ஒன்பது மலாய் மாநிலங்கள், ஒரே ஏகாதிபத்திய சக்தி — இருப்பினும் ஒரே ஏற்பாடு அல்ல, இரண்டு. காலனித்துவ மலாயா பற்றிய பெரும்பாலான சுருக்கங்கள் தவிர்த்துச் செல்லும் விஷயம் இந்தப் பிரிவினைதான்; அதுவே இக்கட்டுரையின் முழுக் கருத்தும் ஆகும்.

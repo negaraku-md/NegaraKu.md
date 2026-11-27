@@ -37,7 +37,7 @@ faq:
     a: "Ambos. Está diseñada como línea de uso dual: servicios de pasajeros de hasta 160 km/h junto a servicios de carga a 80 km/h. Un objetivo central es actuar como puente terrestre que lleve mercancías a través de la península entre Port Klang y los puertos de la costa este, como Kuantan, ofreciendo una alternativa a la ruta marítima que rodea Singapur y cruza el estrecho de Malaca."
 
 lang: "es"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,31 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC ferrocarril Malasia", "coste finalizacion ECRL", "tren Kota Bharu Port Klang", "ferrocarril ECER"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'Un tren eléctrico CR200J azul y plateado con el logotipo de flor del ECRL en su morro, parado en las vías de la cochera, con un tren amarillo KTM Komuter a su lado'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: 'Los dos portales gemelos del túnel «Terowong 2 Serendah» perforados en una ladera verde, con el cartel del proyecto MRL/ECRL arriba y la nueva vía sobre balasto emergiendo en primer plano: la línea en construcción a través de la cordillera de Titiwangsa. Toma documental de infraestructura (2025).'
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: 'Un viaducto del ECRL en construcción en Sungai Tua: pilares de hormigón alzándose en una ladera desbrozada con un tramo de viga cajón lanzado detrás del cerramiento de obra. Muestra la fase de alineación elevada del proyecto, distinta del body del túnel y del hero del tren terminado.'
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 Durante décadas, la forma más rápida de ir entre Kuala Lumpur y los estados de la costa este pasaba por un largo trayecto por carretera atravesando las montañas. El East Coast Rail Link es la apuesta de Malasia por que una sola línea de vía pueda cambiar eso y, de paso, reequilibrar dónde ocurre el crecimiento del país.

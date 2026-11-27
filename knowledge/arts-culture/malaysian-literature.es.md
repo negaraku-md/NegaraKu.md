@@ -31,7 +31,7 @@ faq:
     a: "Los galardonados reciben una Carta Nacional de Honor, RM60,000 en efectivo, una asignación editorial de hasta RM500,000 (hasta 50,000 ejemplares), tratamiento médico gratuito en sala de primera clase en los hospitales públicos y una asignación mensual de RM5,000."
 
 lang: "es"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'El edificio del Dewan Bahasa dan Pustaka en Kuala Lumpur, con su fachada curva cubierta por un gran mural de la vida malasia y su nombre parcialmente visible en la torre de oficinas roja contigua.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: Multitudes de lectores recorriendo hileras de estands de editoriales repletos de libros en la feria internacional del libro de Malasia
+    kind: actual
+    origin: third-party
+    subject: Visitantes recorriendo los estands en la Feria Internacional del Libro de Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: El edificio de la Biblioteca Nacional de Malasia en Kuala Lumpur, coronado por un característico tejado azul con motivos de songket
+    kind: actual
+    origin: third-party
+    subject: La Biblioteca Nacional de Malasia (Perpustakaan Negara Malaysia) en Kuala Lumpur, con su tejado en forma de carpa inspirado en el songket
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 Antes de que hubiera novelas y antes de que hubiera un consejo de la lengua, un narrador ya componía héroes malayos en el patio del palacio de Malaca. De esa tradición oral creció uno de los patrimonios literarios más ricos de la región, una tradición que hoy se celebra con un título nacional, cientos de miles de ringgit y un sitial de honor en la civilización de la nación.

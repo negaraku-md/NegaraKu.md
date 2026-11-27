@@ -31,7 +31,7 @@ faq:
     a: "ใช่ RHB ให้บริการธนาคารที่สอดคล้องกับหลักชะรีอะฮ์ผ่านบริษัทลูก RHB Islamic Bank Berhad การเงินอิสลามคิดเป็นสัดส่วนที่สำคัญของสินเชื่อภายในประเทศของกลุ่ม — RHB รายงานการเงินอิสลามที่ 46.4% ของสินเชื่อภายในประเทศทั้งหมดสำหรับปีงบประมาณ 2025"
 
 lang: "th"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,24 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: 'อาคารธนาคารหัวมุมสามชั้นที่ชั้นล่างหุ้มด้วยแผงสีน้ำเงินสดใสเขียนว่า RHB Bank, RHB Islamic และ RHB Bank แต่ละป้ายมีโลโก้ RHB ทรงเพชรสีแดง มีรถสีแดงจอดอยู่ด้านหน้าใต้ท้องฟ้าซีด'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: สาขามุมถนนสองชั้นสีขาวของธนาคาร RHB มองข้ามทางแยกปูอิฐ มีแถบป้ายสีน้ำเงินข้อความ RHB Islamic และ RHB Bank พร้อมโลโก้เพชรสีแดง มีเต็นท์ตลาดตั้งอยู่ที่ลานด้านหน้าใต้ท้องฟ้าสีฟ้าใส
+    kind: actual
+    origin: third-party
+    subject: สาขาธนาคาร RHB ที่ Seremban 2 รัฐเนกรีเซมบีลัน พร้อมป้าย RHB Bank และ RHB Islamic ใต้ท้องฟ้าสีฟ้าสดใส
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB เป็นหนึ่งในชื่อที่ชาวมาเลเซียส่วนใหญ่จดจำได้บนสาขาธนาคารริมถนนใหญ่ บัตร ATM หรือโบรชัวร์สินเชื่อบ้าน — ทว่ากลุ่มที่อยู่เบื้องหลังมันขยายออกไปไกลเกินกว่าธนาคารรายย่อย เข้าสู่การเงินอิสลาม วาณิชธนกิจ ประกันภัย และตลาดต่าง ๆ ทั่วเอเชียตะวันออกเฉียงใต้ หน้านี้เป็นภาพรวมที่เป็นกลางและเชิงข้อเท็จจริงเกี่ยวกับว่า RHB Banking Group คืออะไร มีโครงสร้างอย่างไร ใครเป็นเจ้าของ และเหตุใดจึงสำคัญ

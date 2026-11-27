@@ -34,7 +34,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -80,6 +80,33 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: 'Du sambal belacan rouge vif fraîchement pilé au pilon dans un mortier de granit, avec des citrons verts et des piments rouges à côté'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: Un plat de cincalok rosé (minuscules crevettes fermentées) mélangé à des échalotes émincées et du piment rouge
+    kind: actual
+    origin: third-party
+    subject: Cincalok servi en condiment avec des échalotes émincées et du piment
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: Un bol en verre de sauce budu aux anchois brun foncé avec des lamelles de mangue verte, des échalotes et du piment rouge
+    kind: actual
+    origin: third-party
+    subject: Sauce budu (sauce d'anchois fermentés) en trempette avec mangue émincée, échalotes et piment
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 Parcourez n'importe quel marché humide malaisien, cuisine de kampung ou rayon de condiments en bouteille d'un kedai runcit, et vous rencontrerez le même trio de noms : **belacan**, **cincalok** et **budu**. Ils ont l'air et l'odeur d'appartenir à une même famille — tous salés, tous puissants, tous obtenus en laissant fermenter de petites créatures marines dans du sel — et dans les menus comme dans les recettes, les noms s'emploient de façon approximative. Mais ce sont trois choses distinctes, faites différemment, à partir de points de départ différents, et utilisées de façons différentes. Savoir lequel est lequel vous évite de griller quelque chose qui devrait se manger cru, ou de verser une sauce de poisson là où il faut une pâte de crevettes.

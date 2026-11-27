@@ -100,9 +100,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'First-timers, families and mixed-interest travellers after beaches, duty-free shopping and the UNESCO Geopark — the SkyCab cable car, SkyBridge and mangrove island-hopping — more than world-class diving.'
+  getThere: 'Fly into Langkawi International Airport (LGK), or cross by passenger ferry to Kuah Jetty from the mainland jetties at Kuala Kedah and Kuala Perlis.'
+  permit: 'Langkawi''s duty-free prices apply only on the island; goods carried back to the mainland fall under Malaysia''s national traveller allowance, which sets a minimum qualifying stay and caps the alcohol, tobacco and souvenirs you can bring back duty-free.'
+  watch: 'Don''t over-buy duty-free liquor to take home — the cheap prices are for enjoying on the island, and only a limited allowance clears customs on the mainland.'
+  next: 'Confirm current ferry schedules with the ferry operators, and duty-free allowances with the Royal Malaysian Customs Department (RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'The curved Langkawi Sky Bridge suspended high between jungle-covered mountain peaks above the Andaman Sea'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Palm trees and dark rocks framing the white sand of Pantai Cenang beside turquoise water, a parasail overhead
+    kind: actual
+    origin: third-party
+    subject: Pantai Cenang beach with palms and turquoise sea
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Red SkyCab gondolas gliding above dense rainforest overlooking a marina and turquoise bays on Langkawi island
+    kind: actual
+    origin: third-party
+    subject: Langkawi SkyCab cable car over jungle and marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Ninety-nine islands, rocks older than fish, cheap whisky and a cable car that hangs off the side of a mountain built from rock estimated at over 550 million years old — Langkawi packs an unusual amount into one archipelago off Malaysia's northwest tip. It is the country's flagship west-coast holiday island, and it works on almost the opposite logic to the palm-fringed diving islands on the other side of the peninsula. This guide covers what actually matters before you go: the duty-free rules that trip people up, the UNESCO geopark that gives the scenery its backstory, the SkyCab and SkyBridge, the boat tours worth taking, and how to decide between Langkawi and the east coast.

@@ -36,7 +36,7 @@ faq:
     a: "둘 다 존재합니다. 쿠칭 인근의 안나 라이스(Annah Rais) 같은 곳은 여전히 가족이 거주하는 살아 있는 비다유(Bidayuh) 롱하우스 공동체이며, 산투봉(Santubong) 인근의 사라왁 문화 마을(Sarawak Cultural Village)은 목적형으로 지어진 살아 있는 박물관입니다. 실제 운영되는 롱하우스 방문은 미리, 흔히 방문을 존중하는 태도로 해설해 줄 가이드를 통해 준비하는 것이 가장 좋습니다."
 
 lang: "ko"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: '보르네오 자연과 살아 있는 다약(Dayak) 문화를 찾는 여행자에게 적합합니다 — 느긋하고 걸어서 둘러보는 쿠칭을 거점으로 스믕고의 반야생 오랑우탄과 비다유(Bidayuh) 롱하우스를 보고, 구눙 멀루(Gunung Mulu)의 세계유산 동굴과 우림을 대표적인 추가 코스로 삼습니다.'
+  getThere: '주요 허브인 쿠칭으로 들어오며, 구눙 멀루는 공원으로 가는 실질적인 도로가 없어 MASwings 항공편(미리, 쿠칭 또는 코타키나발루발)으로만 닿습니다.'
+  permit: '사라왁은 자체 출입국 관리를 운영하므로 반도의 말레이시아인을 포함해 모두가 도착 시 심사를 거쳐 입국 패스를 받고(외국인은 말레이시아 입국에 더해 별도의 사라왁 도장을 받으며 대부분 사전에 MDAC를 온라인으로 제출해야 합니다), 멀루 항공편과 가이드 동반 동굴 투어는 미리 예약하는 것이 좋습니다.'
+  watch: '멀루의 소형 항공기는 날씨로 자주 지연되거나 결항되므로 여유 일정을 두고, 공원을 나가는 빠듯한 연결편은 절대 예약하지 마십시오.'
+  next: '본인 국적에 해당하는 현재의 비자 및 MDAC 요건을 말레이시아 이민청(Immigration Department of Malaysia)에 확인하십시오.'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: '사라왁 구눙 물루 국립공원에서 초록 우림과 안개를 뚫고 솟은 들쭉날쭉한 회색 석회암 피너클 숲'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: 스멩고 자연보호구역에서 울창한 녹색 열대우림 속 밧줄 사이를 매달려 손을 뻗는 붉은 털 오랑우탄
+    kind: actual
+    origin: third-party
+    subject: 쿠칭 인근 스멩고 자연보호구역의 열대우림에서 밧줄을 따라 이동하는 야생 오랑우탄
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: 사라왁의 한 언덕에서 열대우림을 등지고 기둥 위에 올린 붉은 지붕의 긴 목조 이반족 롱하우스
+    kind: actual
+    origin: third-party
+    subject: 사라왁의 숲 덮인 강가를 따라 기둥 위에 지은 전통 이반족 롱하우스
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 쿠알라룸푸르에서 쿠칭(Kuching)까지 두 시간 이내에 날아가, 자기 나라를 떠난 적이 없으면서도 반대편에 도착해 출입국 스탬프를 받게 됩니다. 도착장에서의 그 의외의 일이 사라왁에 대해 이해해야 할 가장 중요한 한 가지입니다. 사라왁은 자체 국경을 운영하는 말레이시아 주입니다.

@@ -33,7 +33,7 @@ faq:
     a: "ليس بالضرورة. بعض العائلات تقدّم التانغيوان أولًا قربانًا للأسلاف أو الآلهة قبل أن تأكله العائلة مجتمعة؛ وكثير من العائلات تعدّ الانقلاب الشتوي مجرد يوم لأكل التانغيوان ولمّ الشمل، دون أي تقديم قرابين. وتختلف ممارسات كتقديم القرابين للأسلاف والآلهة بحسب معتقد كل عائلة وعادتها. ويصف هذا المقال العادات نفسها فحسب، ولا يصدر حكمًا على أي معتقد ديني."
 
 lang: "ar"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ festivalFacts:
   when: "يُحدَّد وفق المصطلحات الشمسية الأربعة والعشرين، ويقع نحو 21 إلى 23 ديسمبر من كل عام ميلادي (قرابة 22 ديسمبر)، وهو أقصر أيام السنة نهارًا."
   holiday: "ليس عطلة رسمية — الانقلاب الشتوي في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية."
   etiquette: "يحتفل الصينيون غالبًا في البيوت باحتشام، إذ تجلس الأسرة معًا لصنع tangyuan وتناول وجبة مشتركة، بدلًا من إقامة فعاليات عامة كبيرة؛ وتقدّم بعض الأسر tangyuan للأسلاف والآلهة أولًا قبل أن تأكل الأسرة كلها معًا، وتختلف العادات باختلاف الأسرة والمجموعة اللهجية."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'وعاء أبيض من كريات الأرز اللزج بألوان وردية وبنفسجية وصفراء باهتة تطفو في شراب حلو صافٍ مع ملعقة خزفية بحافة زرقاء مستقرّة فيه'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: لقطة مقرّبة لوعاء من كرات الأرز اللزج اللامعة شبه الشفافة بالأبيض والليلكي والأخضر اليشمي تطفو في حساء حلو صافٍ
+    kind: representative
+    origin: third-party
+    subject: لقطة مقرّبة لكرات تانغ يوان البلورية الشفافة بالأبيض والأرجواني والأخضر تطفو في وعاء من الشراب
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: منظر من أعلى لأربع كرات تانغ يوان ممتلئة أرجوانية من الأرز اللزج في شراب ساخن صافٍ داخل وعاء بحافة زرقاء، مع خيوط من البخار المتصاعد
+    kind: representative
+    origin: third-party
+    subject: وعاء من كرات الأرز اللزج الأرجوانية في شراب ساخن، مرئي من أعلى مع بخار متصاعد
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 في أمسية من أواخر ديسمبر، يمتزج في المطبخ عبيرُ دقيق الأرز اللزج بحلاوة حساء الزنجبيل. تجلس العائلة حول المائدة، تُشكّل كُتلًا صغيرة من عجين الأرز اللزج كُريةً كُريةً — منها الأبيض، ومنها المصبوغ بالوردي والأخضر الفاتح. والكُريات في أيدي الأطفال متفاوتة الأحجام، والكبار يقولون وهم يُشكّلون: من أكل التانغيوان فقد كبر سنة أخرى. هذا اليوم هو الانقلاب الشتوي.

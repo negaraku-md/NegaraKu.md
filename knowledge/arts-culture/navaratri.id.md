@@ -32,7 +32,7 @@ faq:
   - q: "Apakah Navaratri hanya dirayakan oleh orang Tamil?"
     a: "Tidak. Meskipun Golu dan Saraswati/Ayudha Puja menonjol dalam tradisi India Selatan-Tamil, komunitas Gujarat dan India Utara di Malaysia merayakan Navaratri dengan tarian Garba dan Dandiya, dan komunitas Bengali menggelar Durga Puja. Praktik setiap komunitas berbeda-beda."
 lang: "id"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: 'Pajangan Kolu Navaratri bertingkat yang diselimuti kain hijau, anak tangga teratas menampilkan sepuluh awatara Wisnu dan anak tangga bawah dipenuhi patung dewa-dewi Hindu dan arca berwarna cerah.'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: Penari berbusana tradisional warna-warni bergerak melingkar saat tarian Garba Navaratri yang meriah
+    kind: representative
+    origin: third-party
+    subject: Tarian rakyat Garba yang dipentaskan saat Navaratri, salah satu perayaan komunal yang menjadi ciri khas festival itu
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: Patung-patung burung dan figur hias kecil disusun dengan cermat di tangga bertingkat sebuah pajangan golu Navaratri
+    kind: representative
+    origin: third-party
+    subject: Tampak dekat patung-patung yang disusun pada sebuah pajangan boneka golu (kolu) festival Navaratri
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 Selama Navaratri, di sepanjang salah satu sisi dinding ruang tamu sebuah rumah Hindu Tamil di Malaysia, undakan bertingkat didirikan dalam jumlah ganjil. Pada undakan berlapis kain itu, arca dewa dan boneka yang menceritakan adegan dari mitologi disusun berjajar. Menjelang petang, sanak saudara dan tetangga datang melihat **Golu** itu; nyanyian berkumandang; dan tamu yang pulang diberi thamboolam serta manisan. Ini bukan acara satu hari — ia adalah penanda sebuah perayaan yang berlangsung sepanjang sembilan malam.

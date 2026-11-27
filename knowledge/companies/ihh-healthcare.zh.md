@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,33 @@ verificationNeeded:
   - "营收——2024财政年（截至2024年12月31日止年度）集团营收约 RM24.4 billion、净利约 RM2.66 billion，据 IHH 业绩发布。对照每份新的常年／季度报告重新确认数字与基准。"
   - "持股——三井物产（Mitsui & Co）被引述持有约32%至33%（透过 MBK Healthcare Management），国库控股（Khazanah Nasional）持有相当比例的少数股权。确切百分比会随配售与增持而变动；在引用数字之前对照最新的 Bursa Malaysia／SGX 披露核实。"
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: '蓝天下，槟城鹰阁医院米色、红色与蓝色相间的高大立面，蓝色''Gleneagles PENANG''字样装在底层外墙和楼顶女儿墙上'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: Pantai Hospital Kuala Lumpur 弧形入口在夜间灯火通明，门廊上方是灯光 'PANTAI HOSPITAL KUALA LUMPUR' 标识，前庭有一座紫色灯光喷泉
+    kind: actual
+    origin: third-party
+    subject: 夜间的 Pantai Hospital Kuala Lumpur——IHH Healthcare 旗下 Pantai Hospitals 网络的一部分
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: 吉隆坡 Prince Court Medical Centre 的灰色现代大楼，上部立面有金色 'PRINCE COURT' 字样和金色徽标，下方是街道绿植和标识
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre，位于吉隆坡 Jalan Kia Peng——由 IHH Healthcare 拥有
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 走进吉隆坡的 Pantai 或 Gleneagles 医院、新加坡的一间 Mount Elizabeth 病房、伊斯坦布尔的一家 Acibadem 诊所，或是德里的一间 Fortis 中心，你就踏进了同一个企业大家庭。那个大家庭就是 IHH Healthcare Berhad——一家总部设于马来西亚、已成长为世界上最大的私人医院运营商之一的公司。

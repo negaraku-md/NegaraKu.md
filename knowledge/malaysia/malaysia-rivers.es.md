@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Estudiantes de geografía e historia de Malasia, y cualquiera que quiera entender por qué las principales ciudades de Sarawak, Sabah y Pahang se sitúan en puntos concretos a lo largo de sus ríos."
 
 lang: "es"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'Un ancho río tropical de aguas pardas y turbias que serpentea entre orillas cubiertas de densa selva verde y altos juncos, bajo un cielo azul brillante con nubes dispersas.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: La amplia y tranquila extensión del río Rajang refleja un cielo vespertino dorado, bordeada por las bajas orillas boscosas de Sarawak que se desvanecen en la distancia.
+    kind: actual
+    origin: third-party
+    subject: El río Rajang al atardecer en Sarawak, el río más largo de Malasia
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: El estrecho río Melaka fluye entre coloridas casas-tienda ribereñas y paseos junto al agua en el casco histórico de Malaca.
+    kind: actual
+    origin: third-party
+    subject: El río Melaka serpenteando por el casco histórico de la ciudad de Malaca
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 Antes de que existieran la Autopista Pan Borneo o los vuelos de MASwings, la única manera de llegar al interior de Sarawak era remontar el río durante días enteros. Las principales ciudades de hoy — Sibu, Kapit, Sandakan, Pekan — no surgieron en sus emplazamientos por casualidad. Cada una se asienta donde el río lo decidió: en la desembocadura de un río, en la confluencia de dos ríos, o en el punto más lejano todavía navegable por barco. Tres ríos — el Rajang, el Kinabatangan y el Pahang — muestran este patrón con la mayor claridad.

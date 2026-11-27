@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "东姑阿都拉曼"
-seoTitle: 东姑阿都拉曼
+seoTitle: "东姑阿都拉曼: 马来西亚首任首相 (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]
@@ -67,6 +67,13 @@ verificationNeeded:
   - "敏感：涉及1969年5月13日的种族骚乱（种族）与马来统治者（王权）。所有定性均以中立方式概述；请对照一手资料重新核实，并在刊发前由一位合资格的人工审核者签核。"
   - "对照首相领袖基金会与首相署，确认确切日期（首相任期、出生、逝世）。"
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: '东姑阿都拉曼头戴黑色songkok帽，戴着角质框眼镜，身穿深色大衣并系着领带，在1960年一次访问中于一架飞机前拍摄的黑白照片。'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1957年8月31日清晨，在吉隆坡挤满人潮的默迪卡体育场前，一位吉打王子举起手，带领群众七度高呼

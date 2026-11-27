@@ -33,7 +33,7 @@ faq:
     a: "「請火」（请火、Chneah Hoay、閩南語で「火を見る」）は、ペナンの宝福社が百年以上受け継ぐ儀礼で、旧暦正月十四日から十六日にタンジョン・トコンの海珠嶼大伯公廟で行われ、正式な請火は元宵節の子の刻に行われます。儀礼の際は廟内の灯りとろうそくがすべて消され、会員は香擔（香を担ぐ籠）の中の火鼎から火を取り、扇であおぎ、炎の強弱から来る年の運勢を占います。これを続けて三回行い、それぞれ一年の三つの時季に対応させます。伝統的に参加は男性会員に限られます。儀礼が終わり灯りが戻されてから、一般の人が廟に入って参拝できます。本稿はその手順のみを記述し、その宗教的意味については判断を下しません。"
 
 lang: "ja"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'シブ（Sibu）の大伯公廟（Tua Pek Kong Temple）の赤と金で装飾された門。両脇に金色の守護獅子が構え、背後には青空を背に高さ七階の塔がそびえる。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: ペナンのタンジュン・トコンにある大伯公廟の赤い正面と華麗なタイル張りの屋根。入口には守護の獅子像と背の高い赤い線香蝋燭が置かれている
+    kind: actual
+    origin: third-party
+    subject: タンジュン・トコン大伯公廟、ペナン
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: 金箔を施した長い髭の大伯公の神像が祭壇に坐し、両脇に従神を従える。その前には灯された蝋燭と束になった線香が立ち上る
+    kind: actual
+    origin: third-party
+    subject: 平線寺（Ping Sien Si）の大伯公の祭壇、ペラ州
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 ペナンのタンジョン・トコン（丹絨道光、Tanjung Tokong）の海辺に、さほど大きくない廟が建っている。一年の大半は静かだが、元宵節のころになると様相は一変する。香擔、銅鑼と太鼓、人の列がジョージタウンから続々とやって来る。夜になると廟内の灯りとろうそくがすべて消され、人々が火鼎を囲み、息を詰めて火をあおぐ——炎がどれほど高く立ち上がるかが、来る年への一つの「予報」と見なされる。この廟こそ、多くの人にとって大伯公信仰の源とされる場所である。

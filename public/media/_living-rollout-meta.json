@@ -1,0 +1,1265 @@
+{
+  "agriculture/agricultural-subsidies-farm-input-support": {
+    "hero": {
+      "file": "/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah",
+      "alt": "Farmer bending to work the muddy bund of a water-filled rice paddy, splashing mud, under bright daylight",
+      "kb": 151
+    },
+    "body": [
+      {
+        "file": "/media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a combine harvester cutting rice in a muddy paddy field at dusk on Langkawi, Kedah",
+        "alt": "Operator driving a yellow combine harvester through a wet, stubbled paddy field at dusk with palms on the skyline",
+        "kb": 167
+      },
+      {
+        "file": "/media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a Dusun woman harvesting ripe rice ears by hand into a woven basket in Kudat District, Sabah",
+        "alt": "Woman in a headscarf cutting golden rice panicles with a small blade and gathering them into a yellow woven basket",
+        "kb": 164
+      }
+    ]
+  },
+  "environment/bornean-orangutan-and-habitat-protection": {
+    "hero": {
+      "file": "/media/environment/bornean-orangutan-and-habitat-protection/hero.webp",
+      "credit": "Thomas Fuhrmann / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo",
+      "alt": "A wild Bornean orangutan mother and her infant resting among the branches of a tropical rainforest canopy",
+      "kb": 167
+    },
+    "body": [
+      {
+        "file": "/media/environment/bornean-orangutan-and-habitat-protection/body-1.webp",
+        "credit": "Thomas Fuhrmann / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wild Bornean orangutan family group hanging and feeding in rainforest trees, Borneo",
+        "alt": "A female Bornean orangutan with two young hanging from branches high in the rainforest canopy",
+        "kb": 178
+      },
+      {
+        "file": "/media/environment/bornean-orangutan-and-habitat-protection/body-2.webp",
+        "credit": "Thomas Fuhrmann / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Close-up portrait of a wild Bornean orangutan's face in the rainforest, Borneo",
+        "alt": "Close-up portrait of a wild Bornean orangutan's expressive face framed by its reddish fur",
+        "kb": 161
+      }
+    ]
+  },
+  "cost-of-living/cost-of-living-johor-bahru": {
+    "hero": {
+      "file": "/media/cost-of-living/cost-of-living-johor-bahru/hero.webp",
+      "credit": "Lionel Lim / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Johor Bahru skyline and the Johor–Singapore Causeway at night",
+      "alt": "The Johor Bahru city skyline at night with a lit tower beside the Johor–Singapore Causeway and traffic light trails",
+      "kb": 171,
+      "source": "https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg"
+    },
+    "body": []
+  },
+  "cost-of-living/cost-of-living-penang": {
+    "hero": {
+      "file": "/media/cost-of-living/cost-of-living-penang/hero.webp",
+      "credit": "HundenvonPenang / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "George Town skyline at dusk, Penang",
+      "alt": "The dense George Town skyline at dusk, with the lit Komtar tower rising over the Penang city centre",
+      "kb": 168,
+      "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg"
+    },
+    "body": []
+  },
+  "environment/deforestation-and-forest-loss-in-malaysia": {
+    "hero": {
+      "file": "/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp",
+      "credit": "Dukeabruzzi / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake",
+      "alt": "Mist drifting between tall trees and tree ferns in dense, undisturbed tropical rainforest in Kinabalu Park, Borneo",
+      "kb": 166
+    },
+    "body": [
+      {
+        "file": "/media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp",
+        "credit": "T. R. Shankar Raman / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A remnant patch of native rainforest surrounded by oil palm plantations in Sabah",
+        "alt": "Aerial view of an isolated island of dark native rainforest encircled by the regular rows of an oil palm plantation in Sabah, Malaysian Borneo",
+        "kb": 172
+      },
+      {
+        "file": "/media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp",
+        "credit": "T. R. Shankar Raman / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Forest cut by logging roads and clearings for oil palm in Sabah",
+        "alt": "High aerial view of rainforest cut through by a web of pale logging roads and orange cleared patches in Sabah, Malaysian Borneo",
+        "kb": 175
+      }
+    ]
+  },
+  "transport/domestic-ferries-and-island-transport": {
+    "hero": {
+      "file": "/media/transport/domestic-ferries-and-island-transport/hero.webp",
+      "credit": "Sharon Hahn Darlin / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "",
+      "alt": "The red-and-white high-speed catamaran ferry 'SANI 1' berthed alongside a covered gangway at a Langkawi jetty, with green limestone hills behind — the classic Malaysian passenger ferry to the islands. Strong left-side subject, open sky top-right for overlay.",
+      "kb": 143
+    },
+    "body": [
+      {
+        "file": "/media/transport/domestic-ferries-and-island-transport/body-1.webp",
+        "credit": "Sharon Hahn Darlin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "The over-water Kuah passenger ferry terminal in Langkawi, its long gull-wing roof reading 'TERMINAL FERI PENUMPANG KUAH' above the turquoise channel — the jetty/terminal end of an island ferry trip. Distinct from the hero (vessel) and body-2 (small island boat).",
+        "kb": 160
+      },
+      {
+        "file": "/media/transport/domestic-ferries-and-island-transport/body-2.webp",
+        "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "A small covered Marine Park boat moored beside a stilted island jetty in clear turquoise water at Perhentian Besar — the last-mile island hop by small boat. Adds a second island-transport scene distinct from the car-ferry hero and the terminal body.",
+        "kb": 179
+      }
+    ]
+  },
+  "agriculture/durian-tropical-fruit-export-trade": {
+    "hero": {
+      "file": "/media/agriculture/durian-tropical-fruit-export-trade/hero.webp",
+      "credit": "The Wandering Angel / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh",
+      "alt": "Pile of whole green thorny durians with one cut open showing bright yellow custard-like flesh at a Penang fruit stall",
+      "kb": 177
+    },
+    "body": [
+      {
+        "file": "/media/agriculture/durian-tropical-fruit-export-trade/body-1.webp",
+        "credit": "irrational_cat / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "an opened Musang King durian showing its deep golden-yellow creamy flesh inside the thorny shell",
+        "alt": "Close-up of a cracked-open durian with rich golden-yellow lobes of soft flesh nestled in the spiky husk",
+        "kb": 80
+      },
+      {
+        "file": "/media/agriculture/durian-tropical-fruit-export-trade/body-2.webp",
+        "credit": "Suyash Dwivedi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "whole durians graded by clone code and priced in ringgit per kilogram at a fruit market in Kota Kinabalu, Sabah",
+        "alt": "Tray of spiky durians stacked beside a handwritten price card listing clone codes and RM prices, with mangosteens alongside",
+        "kb": 168
+      }
+    ]
+  },
+  "transport/east-coast-rail-link-ecrl": {
+    "hero": {
+      "file": "/media/transport/east-coast-rail-link-ecrl/hero.webp",
+      "credit": "Oblivionis / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "",
+      "alt": "The actual ECRL rolling stock: a blue-and-silver CR200J electric trainset with the ECRL flower logo on its nose, standing on depot tracks (a yellow KTM Komuter set beside it). The one ECRL-specific train photo on Commons — unmistakably this new east-coast line. Wide landscape, train filling the right of frame.",
+      "kb": 127
+    },
+    "body": [
+      {
+        "file": "/media/transport/east-coast-rail-link-ecrl/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "The twin tunnel portals of 'Terowong 2 Serendah' bored into a green hillside, with the MRL/ECRL project banner above and new ballasted track emerging in the foreground — the line being built through the Titiwangsa range. Documentary infrastructure shot (2025).",
+        "kb": 164
+      },
+      {
+        "file": "/media/transport/east-coast-rail-link-ecrl/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "An ECRL viaduct under construction at Sungai Tua — concrete piers rising on a cleared hillside with a launched box-girder span behind the site hoarding. Shows the elevated-alignment stage of the project, distinct from the tunnel body and the finished trainset hero.",
+        "kb": 149
+      }
+    ]
+  },
+  "agriculture/fgv-holdings-plantation-restructuring": {
+    "hero": {
+      "file": "/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "",
+      "alt": "Mature oil-palm estate climbing a hillside with an estate road, Kunak District, Sabah — unmistakably oil palm, 16:9, clean sky band for overlay.",
+      "kb": 184
+    },
+    "body": [
+      {
+        "file": "/media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "A palm-oil mill complex (blue sheds + steaming chimneys) set amid hills of oil palm — the processing side of the business. No people.",
+        "kb": 167
+      },
+      {
+        "file": "/media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "A tipper truck heaped with fresh fruit bunches (FFB) at a mill gate ('Kilang Apas Balung') — the harvest/logistics leg. Only a tiny, non-identifiable worker at frame edge.",
+        "kb": 177
+      }
+    ]
+  },
+  "transport/getting-around-malaysia": {
+    "hero": {
+      "file": "/media/transport/getting-around-malaysia/hero.webp",
+      "credit": "Hiroki.loh.st / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "",
+      "alt": "An aerial view of a KTM ETS intercity electric train running along the West Coast main line through green countryside, with housing estates and a playground below — 'moving around Malaysia' by fast national rail. Clean daylight establishing shot, train crossing the upper third.",
+      "kb": 234
+    },
+    "body": [
+      {
+        "file": "/media/transport/getting-around-malaysia/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "A driver's-eye view of the Karak Expressway approaching the Karak Interchange, green gantry signs pointing to Temerloh, Kuantan and 'Lebuhraya Pantai Timur', with a motorcyclist and cars — getting around Malaysia by road. Adds the highway/driving mode distinct from the rail images.",
+        "kb": 78
+      },
+      {
+        "file": "/media/transport/getting-around-malaysia/body-2.webp",
+        "credit": "Takeshi Aida / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "A KTM ETS Class 93 intercity train in a colourful campaign livery drawn up at a modern elevated platform (Sungai Buloh), catenary overhead — the station/boarding view of Malaysian intercity rail. Distinct context from the hero's open-country aerial.",
+        "kb": 174
+      }
+    ]
+  },
+  "energy/hydropower-malaysia": {
+    "hero": {
+      "file": "/media/energy/hydropower-malaysia/hero.webp",
+      "credit": "TheHolySnail / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse",
+      "alt": "Aerial view of Bakun Dam's broad grey embankment marked BAKUN, its long spillway chute and riverside powerhouse, backed by a wide reservoir and forested Sarawak hills",
+      "kb": 174
+    },
+    "body": [
+      {
+        "file": "/media/energy/hydropower-malaysia/body-1.webp",
+        "credit": "UNIMAS Sarawak / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "interior of the Murum Dam powerhouse showing the hydroelectric generator units",
+        "alt": "Inside the Murum Dam powerhouse: rows of blue cylindrical hydro generator units numbered 1 and 2 standing on a polished floor beneath a tall hall with a yellow overhead crane",
+        "kb": 90
+      },
+      {
+        "file": "/media/energy/hydropower-malaysia/body-2.webp",
+        "credit": "UNIMAS Sarawak / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Murum hydroelectric dam in Sarawak seen across forested hills",
+        "alt": "The concrete Murum Dam wall and twin spillway chutes holding back a reservoir, viewed from a distance across dense green Sarawak rainforest hills",
+        "kb": 162
+      }
+    ]
+  },
+  "transport/intercity-travel": {
+    "hero": {
+      "file": "/media/transport/intercity-travel/hero.webp",
+      "credit": "Slleong / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "KTM ETS intercity train at a platform",
+      "alt": "A yellow-and-blue KTM ETS Class 93 intercity electric train at a station platform with passengers waiting",
+      "kb": 165,
+      "source": "https://commons.wikimedia.org/wiki/File:ETS_5.jpg"
+    },
+    "body": []
+  },
+  "transport/klang-valley-and-city-buses": {
+    "hero": {
+      "file": "/media/transport/klang-valley-and-city-buses/hero.webp",
+      "credit": "Wiki Farazi / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "",
+      "alt": "A bold red/cream/blue Rapid KL double-decker at its bay (route 751, Hab Pasar Seni interchange) with the bay signboard — instantly reads as a KL city bus at an interchange. Subject is the bus; no identifiable faces.",
+      "kb": 168
+    },
+    "body": [
+      {
+        "file": "/media/transport/klang-valley-and-city-buses/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "A blue-green GO KL free electric city bus pulling in at a kerbside stop/shelter ('100% Clean Energy / Perkhidmatan Bas Percuma') — a bus-at-a-stop view and a distinct livery/mode. Two tiny, non-identifiable commuters at the shelter.",
+        "kb": 174
+      },
+      {
+        "file": "/media/transport/klang-valley-and-city-buses/body-2.webp",
+        "credit": "Simon_sees from Australia / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "A clean side-profile of a single-deck Rapid KL bus (red/cream/blue livery) at KL Sentral — complements the double-decker hero and electric GO KL body. No faces.",
+        "kb": 104
+      }
+    ]
+  },
+  "transport/klang-valley-rail": {
+    "hero": {
+      "file": "/media/transport/klang-valley-rail/hero.webp",
+      "credit": "LegendaryLim / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "",
+      "alt": "A sleek red-and-white MRT Putrajaya Line train on an elevated viaduct against a dramatic sky — modern Klang Valley metro, strong sky band for overlay.",
+      "kb": 99
+    },
+    "body": [
+      {
+        "file": "/media/transport/klang-valley-rail/body-1.webp",
+        "credit": "Renek78 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "Clean modern underground MRT platform (Tun Razak Exchange) with platform-screen doors and a train-arrival display — the station-interior view. No identifiable faces.",
+        "kb": 63
+      },
+      {
+        "file": "/media/transport/klang-valley-rail/body-2.webp",
+        "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "",
+        "alt": "KL Monorail train curving on its elevated guideway past a mosque and the city skyline — adds a second rail mode and Klang Valley context. Distinct from hero (elevated metro) and body-1 (underground station).",
+        "kb": 106
+      }
+    ]
+  },
+  "environment/malayan-tiger-conservation": {
+    "hero": {
+      "file": "/media/environment/malayan-tiger-conservation/hero.webp",
+      "credit": "Tu7uh / Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia",
+      "alt": "A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera",
+      "kb": 139
+    },
+    "body": [
+      {
+        "file": "/media/environment/malayan-tiger-conservation/body-1.webp",
+        "credit": "Charles Barilleaux / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Malayan tiger (Panthera tigris jacksoni) lying in dappled sunlight amid grass and foliage",
+        "alt": "A Malayan tiger lying in grass under dappled sunlight, its striped coat catching the light",
+        "kb": 141
+      },
+      {
+        "file": "/media/environment/malayan-tiger-conservation/body-2.webp",
+        "credit": "Jean from Shelbyville, KY / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Profile portrait of a Malayan tiger (Panthera tigris jacksoni) showing its facial markings",
+        "alt": "Close profile portrait of a Malayan tiger's head, showing its distinctive black-and-orange facial stripes and whiskers",
+        "kb": 140
+      }
+    ]
+  },
+  "environment/malaysias-rainforests-and-permanent-forest-reserves": {
+    "hero": {
+      "file": "/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp",
+      "credit": "Ckpixel / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Mist drifting over the lush canopy of the Royal Belum rainforest, Perak",
+      "alt": "Low cloud and mist rolling over dense green rainforest-covered hills above a calm lake at Royal Belum, Perak",
+      "kb": 168
+    },
+    "body": [
+      {
+        "file": "/media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp",
+        "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Palm understorey and leaf litter on the floor of primary rainforest in Taman Negara",
+        "alt": "Sunlit palm fronds and dense green understorey along a shaded trail inside the primary rainforest of Taman Negara",
+        "kb": 188
+      },
+      {
+        "file": "/media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp",
+        "credit": "Danielt. / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Unbroken forested hills of Taman Negara seen from Bukit Terisek",
+        "alt": "Rolling hills blanketed in dense tropical rainforest fading into blue haze under an overcast sky, viewed from Bukit Terisek in Taman Negara",
+        "kb": 160
+      }
+    ]
+  },
+  "environment/national-parks-and-protected-areas-malaysia": {
+    "hero": {
+      "file": "/media/environment/national-parks-and-protected-areas-malaysia/hero.webp",
+      "credit": "Ondřej Žváček / Wikimedia Commons",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Kincin.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Kincin River flanked by rainforest in Endau-Rompin National Park",
+      "alt": "A calm jungle river reflecting dense green rainforest on both banks with a forested ridge rising behind in Endau-Rompin National Park",
+      "kb": 175
+    },
+    "body": [
+      {
+        "file": "/media/environment/national-parks-and-protected-areas-malaysia/body-1.webp",
+        "credit": "Evelyn Tai / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Exploring the forested shores of Royal Belum State Park by boat",
+        "alt": "View from the bow of a boat across the still waters of a lake toward forested hills under a blue sky at Royal Belum State Park",
+        "kb": 102
+      },
+      {
+        "file": "/media/environment/national-parks-and-protected-areas-malaysia/body-2.webp",
+        "credit": "kallerna / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Low cloud forming over montane rainforest in Kinabalu Park, Sabah",
+        "alt": "Morning mist rising off forested mountain slopes with a single tall bare tree in the foreground at Kinabalu Park, Sabah",
+        "kb": 125
+      }
+    ]
+  },
+  "agriculture/padi-and-rice-industry": {
+    "hero": {
+      "file": "/media/agriculture/padi-and-rice-industry/hero.webp",
+      "credit": "Hashvina / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor",
+      "alt": "Bright green rice paddies on both sides of a narrow water-filled irrigation ditch running straight to a hazy horizon",
+      "kb": 157
+    },
+    "body": [
+      {
+        "file": "/media/agriculture/padi-and-rice-industry/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "ripening golden-green padi with a simple scarecrow, backed by forested limestone hills and a kampung on Langkawi, Kedah",
+        "alt": "Ripening rice field with a cloth scarecrow on a pole, forested hills and village houses behind under a clear blue sky",
+        "kb": 178
+      },
+      {
+        "file": "/media/agriculture/padi-and-rice-industry/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "visitors walking along a bund through vivid green paddy fields at Sekinchan, Selangor",
+        "alt": "Small group of people on a grassy path amid wide bright-green rice fields under an overcast sky",
+        "kb": 96
+      }
+    ]
+  },
+  "environment/palm-oil-sustainability-mspo-and-deforestation": {
+    "hero": {
+      "file": "/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah",
+      "alt": "Ranks of leafy oil palm trees blanketing a hillside beside a dirt road under misty green mountains",
+      "kb": 184
+    },
+    "body": [
+      {
+        "file": "/media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp",
+        "credit": "T. R. Shankar Raman / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "An aerial view of oil palm clearings cut into Borneo rainforest, showing forest loss to plantation expansion",
+        "alt": "Aerial landscape where geometric oil palm plots and bare cleared patches press against remaining dark green forest",
+        "kb": 175
+      },
+      {
+        "file": "/media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A sweeping oil palm plantation covering rolling hills in Mersing District, Johor",
+        "alt": "Rolling green hills planted with young oil palms stretching to distant ridges under a bright blue sky",
+        "kb": 174
+      }
+    ]
+  },
+  "energy/petronas": {
+    "hero": {
+      "file": "/media/energy/petronas/hero.webp",
+      "credit": "James Kerwin / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "the Petronas Twin Towers rising over the Kuala Lumpur city skyline at dusk",
+      "alt": "The illuminated Petronas Twin Towers standing at the centre of the dense Kuala Lumpur skyline, with the Suria KLCC mall at their base, under an orange and blue dusk sky",
+      "kb": 170
+    },
+    "body": [
+      {
+        "file": "/media/energy/petronas/body-1.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a Petronas-branded petrol station in Malaysia with its forecourt canopy and fuel price board",
+        "alt": "A Petronas petrol station with a turquoise-green forecourt canopy and fuel pumps beside a tall price board listing Primax 97, Primax 95 and Dynamic Diesel, fringed by oil-palm trees",
+        "kb": 173
+      },
+      {
+        "file": "/media/energy/petronas/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a gas flare burning atop a stack at the Sabah Oil and Gas Terminal in Kimanis",
+        "alt": "A red-and-white steel flare stack venting a bright orange gas flame against a cloudy blue sky at the Sabah Oil and Gas Terminal",
+        "kb": 36
+      }
+    ]
+  },
+  "environment/rivers-water-pollution-and-water-security": {
+    "hero": {
+      "file": "/media/environment/rivers-water-pollution-and-water-security/hero.webp",
+      "credit": "Slleong / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The broad, sediment-laden Pahang River, Peninsular Malaysia's longest river, under an overcast sky",
+      "alt": "A wide brown river stretching to a flat forested horizon under a pale, cloud-streaked sky",
+      "kb": 81
+    },
+    "body": [
+      {
+        "file": "/media/environment/rivers-water-pollution-and-water-security/body-1.webp",
+        "credit": "Gary Houston / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Klang River confined in a concrete channel between high-rise buildings in central Kuala Lumpur, illustrating pressure on urban river water quality",
+        "alt": "A narrow river running through a wide concrete channel between tall city buildings and a paved riverside walkway",
+        "kb": 146
+      },
+      {
+        "file": "/media/environment/rivers-water-pollution-and-water-security/body-2.webp",
+        "credit": "Hashvina / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The reservoir behind Batang Ai Dam in Sarawak, a major store of raw water and source of hydropower",
+        "alt": "A calm, expansive lake reflecting the low sun, backed by silhouetted forested hills at dusk",
+        "kb": 87
+      }
+    ]
+  },
+  "environment/sea-turtles-and-marine-conservation-malaysia": {
+    "hero": {
+      "file": "/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp",
+      "credit": "Avoini / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia",
+      "alt": "A green sea turtle resting on a vibrant coral reef in clear blue water, with reef fish swimming above",
+      "kb": 172
+    },
+    "body": [
+      {
+        "file": "/media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp",
+        "credit": "Bernard DUPONT / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Green sea turtle (Chelonia mydas) swimming over a coral reef at Sipadan, Sabah, Malaysia",
+        "alt": "A green sea turtle gliding over a coral reef in the blue waters off Sipadan, Malaysia",
+        "kb": 165
+      },
+      {
+        "file": "/media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp",
+        "credit": "Bernard DUPONT / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Green sea turtle (Chelonia mydas) resting under a reef ledge at Barracuda Point, Sipadan, Sabah, Malaysia",
+        "alt": "A green sea turtle resting beneath a rocky reef ledge surrounded by colourful corals",
+        "kb": 170
+      }
+    ]
+  },
+  "energy/solar-energy-malaysia": {
+    "hero": {
+      "file": "/media/energy/solar-energy-malaysia/hero.webp",
+      "credit": "Wee Hong / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a floating solar photovoltaic array on a lake at Universiti Putra Malaysia",
+      "alt": "A long floating solar installation of blue photovoltaic panels on a covered walkway stretching across a calm campus lake, with buildings and greenery behind",
+      "kb": 165
+    },
+    "body": [
+      {
+        "file": "/media/energy/solar-energy-malaysia/body-1.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "rows of ground-mounted solar photovoltaic panels at a solar farm near Bukit Merah, Malaysia",
+        "alt": "Long rows of angled ground-mounted solar panels spread across a cleared field with rainforest on the horizon under a hazy sky",
+        "kb": 140
+      },
+      {
+        "file": "/media/energy/solar-energy-malaysia/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a rural solar-hybrid power installation at a school in Sabah, Malaysia",
+        "alt": "A steel-framed canopy roofed with solar panels beside a Malaysian government solar-hybrid project signboard at a rural Sabah school, with parked cars and chickens in the foreground",
+        "kb": 171
+      }
+    ]
+  },
+  "environment/wildlife-conservation-act-and-perhilitan": {
+    "hero": {
+      "file": "/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp",
+      "credit": "Jean from Shelbyville, KY / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A critically endangered Malayan tiger (Panthera tigris jacksoni), a totally protected species under Malaysian wildlife law",
+      "alt": "Close side profile of a Malayan tiger's striped orange-and-black face and shoulder against soft green foliage",
+      "kb": 140
+    },
+    "body": [
+      {
+        "file": "/media/environment/wildlife-conservation-act-and-perhilitan/body-1.webp",
+        "credit": "Bernard DUPONT from FRANCE / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malayan_Tapir_(Tapirus_indicus)_(8729168612).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Malayan tapir foraging on the forest floor at night, a protected species threatened by habitat loss",
+        "alt": "A black-and-white Malayan tapir standing among leaf litter and saplings in dark forest",
+        "kb": 169
+      },
+      {
+        "file": "/media/environment/wildlife-conservation-act-and-perhilitan/body-2.webp",
+        "credit": "Apocru / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rhinoceros_hornbill_sunning_with_outstretched_wings_(Tabin_Wildlife_Reserve,_April_2025).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A wild rhinoceros hornbill perched in the rainforest canopy of Tabin Wildlife Reserve, Sabah",
+        "alt": "A large black hornbill with a bright red-and-orange upturned casque perched on a branch among green leaves",
+        "kb": 160
+      }
+    ]
+  },
+  "healthcare/government-hospitals": {
+    "hero": {
+      "file": "/media/healthcare/government-hospitals/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital",
+      "alt": "Exterior of the specialist and daycare block at Hospital Kuala Lumpur, a Malaysian government hospital, with a red crescent emblem on the white facade",
+      "kb": 166
+    },
+    "body": [
+      {
+        "file": "/media/healthcare/government-hospitals/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Maternity block (Hospital Bersalin) at Hospital Kuala Lumpur, with the KLCC skyline behind",
+        "alt": "The pink modernist maternity building of Hospital Kuala Lumpur seen past trees, with Kuala Lumpur city towers in the distance",
+        "kb": 172
+      },
+      {
+        "file": "/media/healthcare/government-hospitals/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Rehabilitation Medicine Department (Jabatan Perubatan Rehabilitasi) building at Hospital Kuala Lumpur",
+        "alt": "A single-storey department building at Hospital Kuala Lumpur with a blue Malay signboard reading Jabatan Perubatan Rehabilitasi and cars parked in front",
+        "kb": 180
+      }
+    ]
+  },
+  "healthcare/private-hospitals-and-costs": {
+    "hero": {
+      "file": "/media/healthcare/private-hospitals-and-costs/hero.webp",
+      "credit": "*angys* / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor",
+      "alt": "The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre",
+      "kb": 113
+    },
+    "body": [
+      {
+        "file": "/media/healthcare/private-hospitals-and-costs/body-1.webp",
+        "credit": "Vano111ru / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Prince Court Medical Centre, a private hospital in Kuala Lumpur",
+        "alt": "The modern building of Prince Court Medical Centre in Kuala Lumpur, with its gold wordmark on the facade and a city road sign in the foreground",
+        "kb": 179
+      },
+      {
+        "file": "/media/healthcare/private-hospitals-and-costs/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sunway Medical Centre and the adjoining BRT/LRT station in Bandar Sunway",
+        "alt": "Sunway Medical Centre buildings at dusk beside a covered elevated transit station, with the SunMed signage lit up",
+        "kb": 130
+      }
+    ]
+  },
+  "healthcare/buying-medicine-pharmacies": {
+    "hero": {
+      "file": "/media/healthcare/buying-medicine-pharmacies/hero.webp",
+      "credit": "Dominic Nelson / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor",
+      "alt": "A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage",
+      "kb": 150
+    },
+    "body": [
+      {
+        "file": "/media/healthcare/buying-medicine-pharmacies/body-1.webp",
+        "credit": "Dominic Nelson / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Farmasi Sinar, an independent neighbourhood community pharmacy in Kluang, Johor",
+        "alt": "A single-storey independent community pharmacy with blue Farmasi Sinar signage, cars parked outside under a clear sky in Malaysia",
+        "kb": 180
+      },
+      {
+        "file": "/media/healthcare/buying-medicine-pharmacies/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Outpatient pharmacy (Farmasi) entrance at Hospital Sultanah Nora Ismail, a government hospital in Batu Pahat, Johor",
+        "alt": "The outpatient pharmacy entrance inside a Malaysian government hospital, with yellow and blue Farmasi signs and a World Pharmacist Day banner, no people visible",
+        "kb": 93
+      }
+    ]
+  },
+  "property/affordable-housing-schemes": {
+    "hero": {
+      "file": "/media/property/affordable-housing-schemes/hero.webp",
+      "credit": "Brownc / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "People's Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur",
+      "alt": "Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky",
+      "kb": 179
+    },
+    "body": [
+      {
+        "file": "/media/property/affordable-housing-schemes/body-1.webp",
+        "credit": "Brownc / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a row of People's Housing Programme (PPR) high-rise flats with a resident car park in Bukit Jalil, Kuala Lumpur",
+        "alt": "A long row of cream, red-roofed public-housing tower blocks in Bukit Jalil, each unit lettered, with cars parked along the estate road and greenery and a city skyline in the distance",
+        "kb": 147
+      },
+      {
+        "file": "/media/property/affordable-housing-schemes/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a PPR public-housing block (Gugusan Kemuning) in Kota Damansara, Selangor",
+        "alt": "A single mustard-and-white public-housing apartment block in Kota Damansara seen from below against an overcast sky, its many identical units fitted with window grilles and air-conditioners, framed by a tree branch",
+        "kb": 168
+      }
+    ]
+  },
+  "property/finding-a-rental": {
+    "hero": {
+      "file": "/media/property/finding-a-rental/hero.webp",
+      "credit": "Pradana Aumars / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "a modern residential condominium tower in North Kiara, Kuala Lumpur",
+      "alt": "A tall, white modern condominium tower rising above hills and a spread of landed suburban housing in North Kiara, Kuala Lumpur, under a cloudy blue sky",
+      "kb": 157
+    },
+    "body": [
+      {
+        "file": "/media/property/finding-a-rental/body-1.webp",
+        "credit": "philip.mallis / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "mid-market residential apartment blocks in suburban George Town, Penang",
+        "alt": "Two large cream-and-maroon residential apartment blocks with rows of balconies and air-conditioner units in suburban George Town, Penang, their lower floors screened by trees",
+        "kb": 169
+      },
+      {
+        "file": "/media/property/finding-a-rental/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "modern high-rise condominium towers (Orion Condominium and Sky Residences) in Kuala Lumpur",
+        "alt": "A cluster of tall modern condominium towers with tiered balconies in Kuala Lumpur, seen from street level against a pale overcast sky",
+        "kb": 174
+      }
+    ]
+  },
+  "sports/national-sports-venues": {
+    "hero": {
+      "file": "/media/sports/national-sports-venues/hero.webp",
+      "credit": "*angys* / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur",
+      "alt": "The grand grey-and-white entrance archway of the Bukit Jalil National Stadium, topped with the lettering STADIUM BUKIT JALIL, its Moorish-style pierced-screen arches framing the stadium bowl behind under an overcast sky",
+      "kb": 175
+    },
+    "body": [
+      {
+        "file": "/media/sports/national-sports-venues/body-1.webp",
+        "credit": "Phalinn Ooi / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the interior bowl and tensile roof of the Bukit Jalil National Stadium packed for a match at night",
+        "alt": "The vast interior of the Bukit Jalil National Stadium at night, its sweeping white tensile roof lit over a full house of spectators ringing the green pitch and red running track",
+        "kb": 174
+      },
+      {
+        "file": "/media/sports/national-sports-venues/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the exterior of Axiata Arena, the indoor arena of the National Sports Complex in Bukit Jalil",
+        "alt": "The silver louvred facade of Axiata Arena in Bukit Jalil, carrying the Axiata arena name and logo above its curved glass entrance, flanked by young trees under a grey sky",
+        "kb": 171
+      }
+    ]
+  },
+  "sports/sepang-circuit-motorsport-legacy": {
+    "hero": {
+      "file": "/media/sports/sepang-circuit-motorsport-legacy/hero.webp",
+      "credit": "Morio / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue's signature architecture, seen from trackside",
+      "alt": "The vast pale fan-shaped tensile roof canopy of Sepang International Circuit's main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky",
+      "kb": 121
+    },
+    "body": [
+      {
+        "file": "/media/sports/sepang-circuit-motorsport-legacy/body-1.webp",
+        "credit": "Morio / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Formula One field racing wheel-to-wheel down the Sepang circuit at the start of the 2015 Malaysian Grand Prix",
+        "alt": "A tightly packed pack of Formula One cars in team liveries fanning across the wide asphalt of Sepang's start-finish stretch on the opening lap, their tyres leaving dark marks on the track under bright sun",
+        "kb": 157
+      },
+      {
+        "file": "/media/sports/sepang-circuit-motorsport-legacy/body-2.webp",
+        "credit": "CK Tan / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "an aerial view of the full Sepang International Circuit showing its distinctive looping track layout and paddock, with Kuala Lumpur International Airport beyond",
+        "alt": "A high aerial shot of the Sepang International Circuit set in green countryside, its grey ribbon of track winding in sweeping loops around the central grandstand and pit complex, with the runways and terminals of KLIA visible in the hazy distance above",
+        "kb": 65
+      }
+    ]
+  },
+  "public-safety/fire-and-rescue-department-bomba": {
+    "hero": {
+      "file": "/media/public-safety/fire-and-rescue-department-bomba/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah",
+      "alt": "Several identical bright-red Scania Bomba fire engines in matching 'Bomba dan Penyelamat' livery parked nose-to-tail in a neat row on open ground beside a station building, under a clear blue sky",
+      "kb": 176
+    },
+    "body": [
+      {
+        "file": "/media/public-safety/fire-and-rescue-department-bomba/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a single red Bomba heavy rescue truck parked at the fire station in Sandakan, Sabah",
+        "alt": "A red Bomba four-wheel-drive fire-and-rescue truck with a canvas-covered rear bed and the department crest on its door, parked on the forecourt of a red-roofed fire station with a palm tree behind",
+        "kb": 141
+      },
+      {
+        "file": "/media/public-safety/fire-and-rescue-department-bomba/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the facade of the Jalan Kubu fire station (Balai Bomba dan Penyelamat) in Melaka, with the word BOMBA spelt large across its engine-bay shutters",
+        "alt": "The front of a three-storey fire station painted beige and terracotta, its row of roller shutters spelling out BOMBA in large red letters beneath a sign reading 'Balai Bomba dan Penyelamat Jalan Kubu', with strings of red lanterns strung across the facade",
+        "kb": 114
+      }
+    ]
+  },
+  "public-safety/fire-safety-and-prevention-malaysia": {
+    "hero": {
+      "file": "/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond",
+      "alt": "A bright-red Mercedes-Benz Atego Bomba fire engine with 'BOMBA' lettering across its front, equipment lockers down its side and a blue light bar, rolling out from under the open shutter of a fire station in warm afternoon light",
+      "kb": 168
+    },
+    "body": [
+      {
+        "file": "/media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the open side lockers of a Malaysian Bomba fire engine displaying its firefighting and rescue equipment",
+        "alt": "The side of a red 'Bomba dan Penyelamat' fire engine with its roller compartments open to show neatly stowed coiled hoses, a hose reel, breathing apparatus, a portable generator and other rescue gear",
+        "kb": 171
+      },
+      {
+        "file": "/media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a red Bomba emergency rescue van deployed in a rural kampung in Ranau, Sabah",
+        "alt": "A red Toyota Hiace Bomba rescue van in 'Bomba dan Penyelamat' livery with yellow BOMBA lettering and the department crest, parked on grass beside trees in a rural village setting",
+        "kb": 172
+      }
+    ]
+  },
+  "education/international-schools": {
+    "hero": {
+      "file": "/media/education/international-schools/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor",
+      "alt": "A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky",
+      "kb": 163
+    },
+    "body": [
+      {
+        "file": "/media/education/international-schools/body-1.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Help_International_School.JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the curved modern main building of HELP International School, an international school in Subang Bestari, Selangor",
+        "alt": "A multi-storey international-school building with a rounded glass-and-stone facade in red and grey, cars and motorcycles parked in front",
+        "kb": 141
+      },
+      {
+        "file": "/media/education/international-schools/body-2.webp",
+        "credit": "Mushamir / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the covered drive-through entrance of the International School of Kuala Lumpur's Ampang Hilir campus",
+        "alt": "A clean modern steel-and-glass school entrance canopy and guardhouse beside a crossing, framed by trees under a bright sky",
+        "kb": 174
+      }
+    ]
+  },
+  "education/foreign-university-branch-campuses-and-education-hubs": {
+    "hero": {
+      "file": "/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp",
+      "credit": "Faizalrahmat85 / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor",
+      "alt": "A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky",
+      "kb": 153
+    },
+    "body": [
+      {
+        "file": "/media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp",
+        "credit": "Cmglee / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the Monash University Malaysia branch campus buildings linked by a glass skybridge, Sunway City, Selangor",
+        "alt": "Large beige campus blocks joined by a glazed elevated skybridge, with the Monash crest on a tower and palms in the courtyard",
+        "kb": 126
+      },
+      {
+        "file": "/media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the red-roofed main gate and administration tower of Xiamen University Malaysia, the first overseas branch campus of a Chinese university, in Sepang, Selangor",
+        "alt": "White campus buildings with tiered red Chinese-style roofs behind a gated entrance plaza under a partly cloudy sky",
+        "kb": 136
+      }
+    ]
+  },
+  "education/public-vs-private-universities": {
+    "hero": {
+      "file": "/media/education/public-vs-private-universities/hero.webp",
+      "credit": "Wiki Farazi / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia's oldest public university, in Kuala Lumpur",
+      "alt": "A long raw-concrete modernist hall with blue 'Dewan Tunku Canselor' lettering and an external staircase, fronted by topiary gardens and an empty road",
+      "kb": 109
+    },
+    "body": [
+      {
+        "file": "/media/education/public-vs-private-universities/body-1.webp",
+        "credit": "Hayatiar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the modern glass Chancellery building of Universiti Teknologi MARA (UiTM), one of Malaysia's largest public universities",
+        "alt": "A multi-storey blue-glass university administration building with a rounded central tower on a landscaped hill, approached by terraced steps lined with flags",
+        "kb": 160
+      },
+      {
+        "file": "/media/education/public-vs-private-universities/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the main entrance gate of Universiti Sains Malaysia (USM), a public research university, in Nibong Tebal, Penang",
+        "alt": "A stone-pillared university entrance gate carrying the 'Universiti Sains Malaysia' sign, flanked by flagpoles and dense greenery under an overcast sky",
+        "kb": 64
+      }
+    ]
+  }
+}

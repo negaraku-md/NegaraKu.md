@@ -93,7 +93,7 @@ entity: "Akta Kesatuan Sekerja 1959"
 relations:
   - { rel: "governs", to: "trade-unions-malaysia" }
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
-related: []
+related: ["labour-department-jtksm", "employment-act-1955-guide", "retrenchment-malaysia"]
 keywords: ["النقابات العمالية في ماليزيا", "نقابة عمالية", "قانون النقابات العمالية 1959", "القانون رقم 262", "JHEKS", "e-TUIS", "تعديل 2024", "المفاوضة الجماعية", "المدير العام للنقابات العمالية", "kesatuan sekerja", "trade union", "Akta 262"]
 framework: explainer
 ---

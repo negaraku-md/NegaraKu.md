@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "كل من يقارن تكاليف المعيشة في بينانغ بوادي كلانغ، أو من يختار بين جزيرة بينانغ وسيبيرانغ بيراي قبل الانتقال أو الاستئجار أو فتح عمل تجاري."
 
 lang: "ar"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["تكلفة المعيشة بينانغ", "cost of living Penang", "بينانغ مقابل وادي كلانغ", "Penang vs Klang Valley cost of living", "إيجار جورج تاون", "سيبيرانغ بيراي", "جزيرة بينانغ مقابل البرّ الرئيسي", "دخل الأسرة بينانغ"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'أفق جورج تاون الكثيف عند الغسق، مع برج كومتار المضاء يرتفع فوق مركز مدينة بينانغ'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: شقق سكنية شاهقة في Maccalum Street في George Town، Penang، توضّح السكن الحضري
+    kind: actual
+    origin: third-party
+    subject: شقق سكنية عامة شاهقة في Maccalum Street، George Town، Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: باعة وأكشاك في سوق Sungai Bakap للمواد الطازجة في Penang
+    kind: actual
+    origin: third-party
+    subject: سوق للمواد الطازجة في Sungai Bakap، Penang
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 بينانغ هي الولاية الماليزية الوحيدة التي لا يمكن الإجابة فيها عن سؤال «تكلفة

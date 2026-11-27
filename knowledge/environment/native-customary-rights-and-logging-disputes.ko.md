@@ -29,7 +29,7 @@ faq:
     a: "주가 발급한 목재 라이선스와 플랜테이션 임차가 공동체가 관습지로 주장하는 지역을 포함할 수 있습니다. 어떤 지역이 NCR 토지인지에 대해 당사자들이 이견을 보이는 경우, 그 분쟁은 흔히 법정에서 결정됩니다."
 
 lang: "ko"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: '말레이시아 사라왁에서 큰 열대 활엽수 원목을 가득 실은 트럭이 열대우림 옆 젖은 도로를 달리는 모습.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: 보르네오 사라왁주에서 벌채된 산림지를 뒤덮은 기름야자 농장의 항공 전경
+    kind: actual
+    origin: third-party
+    subject: 사라왁주의 옛 산림지에 들어선 기름야자 농장
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: 사바주 칼라바칸의 목재 저장·선적장에 쌓아 올린 열대 활엽수 원목
+    kind: actual
+    origin: third-party
+    subject: 사바주 칼라바칸의 원목 저장장
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 한 롱하우스(longhouse) 공동체는 어떤 산림 지대가 여러 세대에 걸쳐 자신들의 것이었다고 말합니다. 한 목재 또는 플랜테이션 기업은 주가 발급한, 같은 땅을 포함하는 라이선스를 보유합니다. 양측 모두 법을 근거로 듭니다. 사라왁과 사바에서 그 충돌은 20년 넘게 법정에서 다투어져 왔고 — 법원이 그 경계가 어디에 있는지에 항상 의견을 같이한 것은 아닙니다.

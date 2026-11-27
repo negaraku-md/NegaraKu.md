@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Lassi adalah yoghurt, air atau susu, serta gula atau buah — tanpa daging dan bebas alkohol — jadi ia vegetarian dan, dalam dirinya sendiri, halal, serta pasangan alami bagi santapan daun pisang vegetarian. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap restoran."
   served: "Disajikan dingin, sering dalam gelas tinggi, berbuih dari pengocokan. Pesan ia manis, asin, atau sebagai mango lassi (atau buah lain); ia adalah pendamping klasik bagi kari pedas atau santapan nasi daun pisang, menyejukkan lidah di antara suapan."
   where: "Ditemukan di restoran India, rumah makan nasi daun pisang, gerai lassi khusus, dan banyak gerai mamak di seluruh negeri, terutama tempat makanan India Selatan dan India Utara disajikan."
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Lassi yogurt dingin putih lembut dalam cangkir bermotif dengan sedotan"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Duduklah menghadapi sepiring nasi daun pisang yang membara atau kari India Utara yang

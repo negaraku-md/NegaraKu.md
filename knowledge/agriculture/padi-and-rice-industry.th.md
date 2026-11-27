@@ -27,7 +27,7 @@ faq:
   - q: "ข้าวนำเข้าของมาเลเซียมาจากไหน?"
     a: "การนำเข้าส่วนใหญ่มาจากเวียดนาม ไทย ปากีสถาน อินเดีย และเมียนมา ตามข้อมูลของ BERNAS"
 lang: "th"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -98,9 +98,36 @@ sources:
     publisher: "Padiberas Nasional Berhad (BERNAS)"
 entity: "Padi and rice industry in Malaysia"
 relations: []
-related: []
+related: ["food-security-self-sufficiency-policy", "agricultural-subsidies-farm-input-support", "ministry-of-agriculture-food-security-and-agencies"]
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'นาข้าวสีเขียวสดทั้งสองฝั่งของร่องชลประทานที่เต็มไปด้วยน้ำ ทอดตรงไปสู่เส้นขอบฟ้าที่พร่ามัว'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: นาข้าวที่กำลังสุกมีหุ่นไล่กาผ้าบนเสา มีเนินเขาป่าและบ้านในหมู่บ้านอยู่ด้านหลังใต้ท้องฟ้าสีฟ้าใส
+    kind: actual
+    origin: third-party
+    subject: นาข้าวสีเขียวทองกำลังสุกพร้อมหุ่นไล่กาเรียบง่าย มีเนินเขาหินปูนป่าและหมู่บ้านเป็นฉากหลังที่ลังกาวี รัฐเกดะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: กลุ่มคนเล็กๆ บนทางเดินหญ้าท่ามกลางนาข้าวสีเขียวสดกว้างใหญ่ใต้ท้องฟ้ามืดครึ้ม
+    kind: actual
+    origin: third-party
+    subject: นักท่องเที่ยวเดินตามคันนาผ่านนาข้าวสีเขียวสดที่เซกินจัง รัฐสลังงอร์
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 ข้าวคืออาหารชนิดเดียวที่มาเลเซียปฏิเสธที่จะปล่อยให้เป็นไปตามกลไกตลาดเสรี รัฐกระจุกจุดที่ปลูก หนุนชาวนาที่ปลูก อนุญาตให้บริษัทเดียวนำเข้าส่วนที่ขาด และถือครองข้าวสำรองฉุกเฉินเพื่อรับมือแรงกระแทกด้านอุปทาน แต่หลังจากการจัดการเช่นนี้มาหลายทศวรรษ ประเทศก็ยังคงปลูกข้าวได้เพียงราวครึ่งหนึ่งของที่บริโภค

@@ -74,9 +74,16 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'ジョージタウンの細い通り。古い塗装のショップハウスが並び、赤い提灯やバティック絵画博物館の看板が掲げられ、歩廊に土産物屋と観光客がいる。'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ひとつの国にある六つの遺産が、いまやユネスコの印を刻んでいる——朝には数百年の歴史をもつオランダ植民地時代の広場を歩き、飛行機で一っ飛びすれば、ボルネオの広大な洞窟ホールの中に立つこともできる。マレーシアの遺産は、眺めるための博物館ではない。それは、食べ、眠り、祈りながら通り抜けられる、生きた街路である。

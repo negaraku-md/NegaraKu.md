@@ -38,7 +38,7 @@ verificationNeeded:
   - "Xác nhận ngày tháng và cơ sở của tỷ lệ phần trăm thành phần dân tộc trên cổng chính thức của bang (Mã Lai 61.5%, Hoa 22.9%, Ấn 15.1%, khác 0.5%) — con số đó không có ngày tháng và không khớp với cơ cấu phân tích của Điều tra Dân số 2020 vốn tách riêng người không phải công dân."
 
 lang: "vi"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'Cung điện hoàng gia Seri Menanti bằng gỗ sẫm màu với những mái nhọn xếp tầng kiểu Minangkabau nằm trên bãi cỏ xanh với một đình màu đỏ và những ngọn đồi rừng phía sau.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: Bãi biển cát cong nhẹ viền hàng cọ hướng ra eo biển Malacca lặng sóng tại Port Dickson, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Bãi biển Port Dickson, Negeri Sembilan
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: Những ngôi nhà gỗ Minangkabau với mái cong vút hình sừng trâu đứng trong khuôn viên Bảo tàng Bang Negeri Sembilan (Muzium Negeri Sembilan) tại Seremban.
+    kind: actual
+    origin: third-party
+    subject: Nhà truyền thống kiểu Minangkabau tại Muzium Negeri Sembilan, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Ở tám bang Mã Lai khác, câu hỏi "vị vua tiếp theo là ai" được trả lời bởi

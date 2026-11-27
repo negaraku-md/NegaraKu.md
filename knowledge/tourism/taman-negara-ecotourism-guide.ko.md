@@ -37,7 +37,7 @@ faq:
     a: "독특하게도, 이 공원은 연방 국립공원법 1980(National Parks Act 1980)이 아니라 세 개의 식민지 시대 주 조례 — 타만 네가라 조례(파항) 1939, (클란탄) 1938, (트렝가누) 1939 — 가 규율합니다. 이는 말레이시아 연방헌법상 토지와 임업이 주 사항이므로 연방법이 그 세 주에 적용되지 않기 때문입니다."
 
 lang: "ko"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: '원시 열대우림을 찾는 여행자에게 적합합니다 — 파항의 쿠알라 타한(Kuala Tahan) 관문을 거점으로 수관(樹冠) 캐노피 워크웨이, 밀림 트레킹, 야생동물 관찰대, 강 여행을 즐길 수 있습니다.'
+  getThere: '파항의 즈란투트(Jerantut)까지 도로로 이동한 뒤 쿠알라 틈블링 선착장(Kuala Tembeling jetty)에서 틈블링강(Sungai Tembeling)을 거슬러 보트로 쿠알라 타한까지 가며, 직통 도로 연결이 대안입니다.'
+  permit: '모든 방문객은 선착장이나 공원 창구 도착 시 PERHILITAN 입장 허가를 등록하고 별도의 카메라 라이선스를 납부하며, 구눙 타한(Gunung Tahan) 등반에는 면허 가이드를 이용해야 합니다.'
+  watch: '북동 몬순은 강을 불어나게 해 보트와 트레일을 방해할 수 있고, 캐노피 워크웨이는 폐쇄된 적이 있으며, 거머리와 습기가 상존하니 접근 여부를 확인하고 가이드를 미리 예약하십시오.'
+  next: '현재의 허가, 입장 규정, 요금은 타만 느가라 파항(Taman Negara Pahang)의 야생동물국립공원부(PERHILITAN) 사무소에 확인하십시오.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: '타만 네가라의 파란 하늘 아래 지평선까지 뻗은 울창한 열대우림의 완만한 언덕들'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: 타만 네가라에서 키 큰 열대우림 나무들 사이에 매달린 좁은 밧줄과 널빤지 캐노피 산책로를 건너는 방문객
+    kind: actual
+    origin: third-party
+    subject: 타만 네가라의 열대우림 나무 꼭대기 높이 걸린 캐노피 산책로 현수교
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: 타만 네가라에서 언덕 위로 안개가 낀 숲 덮인 강가 옆, 템벨링 강 위의 목조 긴 배들
+    kind: actual
+    origin: third-party
+    subject: 아침 안개 속 타만 네가라 선착장의 긴 배들이 떠 있는 템벨링 강
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 새벽에 쿠알라 타한(Kuala Tahan) 부두에 서서 히말라야보다 오래된 강 위로 안개가 걷히는 것을 바라보면, 쿠알라룸푸르에서 반나절도 채 떨어져 있지 않다는 사실을 잊기 쉽습니다. 타만 네가라(Taman Negara)는 인위적으로 만든 명소가 아닙니다. 수천만 년 동안 대체로 손대지 않은 채 서 있던 살아 있는 열대우림이며 — 그 안으로 들어가는 것은 거의 모든 여행자가 예상하는 것보다 저렴하고 간단합니다.

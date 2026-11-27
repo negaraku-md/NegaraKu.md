@@ -29,7 +29,7 @@ faq:
     a: "لا. التعليم في المدارس الابتدائية والثانوية الحكومية لا يحمل رسوم تعليم. أما الرسوم الخاصة فقد أُلغيت منذ 2008 بموجب SPI رقم 13/2007."
 
 lang: "ar"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "رابطة الآباء والمعلمين", "رسوم المدرسة", "الرسوم الخاصة", "مساهمة PIBG", "المدرسة الحكومية", "تكلفة الدراسة"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'مبانٍ منخفضة ذات أسقف حمراء وملعب أخضر لمدرسة ابتدائية في بريكفيلدز بكوالالمبور، على خلفية أفق ناطحات السحاب في كيه إل سنترال.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: مبنى مدرسة ثانوية ماليزية متعدّد الطوابق بساحة تجمّع مرصوفة.
+    kind: representative
+    origin: third-party
+    subject: مبنى مدرسة ثانوية وطنية ماليزية (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: أولياء أمور ومعلّمون مجتمعون في قاعة مدرسية لاجتماع جمعية الآباء والمعلّمين (PIBG).
+    kind: representative
+    origin: third-party
+    subject: اجتماع عام لجمعية الآباء والمعلّمين (PIBG) في مدرسة ماليزية
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 طفلك مُلتحق بمدرسة حكومية «مجانية» — ومع ذلك يصلك نموذج PIBG وقائمة مدفوعات إلى بابك. فما الذي يجب دفعه فعلًا، وما الذي لا يجب؟

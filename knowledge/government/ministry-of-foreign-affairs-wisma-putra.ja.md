@@ -35,7 +35,7 @@ faq:
     a: "2026年現在、外務大臣はダト・スリ・ウタマ・モハマド・ハサン（Dato' Seri Utama Mohamad Hasan）である。内閣の担当分野は改造のたびに変わるため、現在の在任者はkln.gov.myで確認すること。"
 
 lang: "ja"
-sourceContentHash: "e91cf1913840a424"
+sourceContentHash: "4e089ebc894a7ebe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,34 @@ relations:
 related: ["miti", "matrade"]
 keywords: ["Wisma Putra", "Ministry of Foreign Affairs Malaysia", "Kementerian Luar Negeri", "kln.gov.my", "Malaysian embassies", "consular assistance Malaysia", "Malaysian high commissions", "Malaysia foreign policy"]
 framework: profile
+hero: '/media/government/ministry-of-foreign-affairs-wisma-putra/hero.webp'
+heroAlt: 'マレーシア外務省ウィスマ・プトラの入口。緑のマレー様式の屋根、旗、Wisma Putra Kementerian Luar Negeriの看板'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra, the Ministry of Foreign Affairs (Kementerian Luar Negeri) headquarters, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-1.webp
+    alt: Wisma Putraへ続くヤシ並木の進入路。Wisma Putra Kementerian Luar Negeri Malaysiaの看板と、その奥の省庁タワーが見える
+    kind: actual
+    origin: third-party
+    subject: 入口看板のあるWisma Putraへの進入路、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-foreign-affairs-wisma-putra/body-2.webp
+    alt: プトラジャヤにあるWisma Putra複合施設の入口を広く捉えた眺め。州旗と守衛所が見える
+    kind: actual
+    origin: third-party
+    subject: Wisma Putraの入口と守衛所を広く捉えた眺め、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 マレーシア人が海外で立ち往生したとき、マレーシアが国連で票を投じるとき、あるいは

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังเปรียบเทียบค่าครองชีพของปีนังกับหุบเขากลัง หรือกำลังตัดสินใจระหว่างเกาะปีนังและเซอเบอรังเปอไรก่อนการย้าย เช่า หรือเปิดธุรกิจ"
 
 lang: "th"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'เส้นขอบฟ้าจอร์จทาวน์หนาแน่นยามพลบค่ำ พร้อมหอคอมตาร์ (Komtar) ส่องไฟตั้งตระหง่านเหนือใจกลางเมืองปีนัง'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: แฟลตที่พักอาศัยสูงบนถนนมักกาลัมในจอร์จทาวน์ รัฐปีนัง แสดงถึงที่อยู่อาศัยในเมือง
+    kind: actual
+    origin: third-party
+    subject: แฟลตการเคหะสูงบนถนนมักกาลัม จอร์จทาวน์ รัฐปีนัง
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: พ่อค้าแม่ค้าและแผงลอยที่ตลาดสดซูไงบากัป รัฐปีนัง
+    kind: actual
+    origin: third-party
+    subject: ตลาดสดที่ซูไงบากัป รัฐปีนัง
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 ปีนัง (Penang) เป็นรัฐมาเลเซียหนึ่งเดียวที่ "ค่าครองชีพ" ไม่สามารถตอบด้วยตัวเลขเดียว เพราะปีนังไม่ใช่ที่เดียว มันเป็นเกาะและแถบแผ่นดินใหญ่ เชื่อมด้วยสะพานสองแห่งและเรือข้ามฟาก โดยมีแกนมรดกโลก UNESCO อยู่ด้านหนึ่งและเมืองอุตสาหกรรมท่าเรือคอนเทนเนอร์อยู่อีกด้าน ตัวเลขใด ๆ ที่ปรับ "ปีนัง" ให้เป็นบรรทัดเดียวได้ทิ้งข้อมูลที่มีประโยชน์ที่สุดไปแล้ว

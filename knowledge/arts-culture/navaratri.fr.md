@@ -32,7 +32,7 @@ faq:
   - q: "La Navaratri n'est-elle célébrée que par les Tamouls ?"
     a: "Non. Bien que le Golu et le Saraswati/Ayudha Puja soient marquants dans la tradition sud-indienne tamoule, les communautés goudjaratie et nord-indienne de Malaisie célèbrent la Navaratri par les danses Garba et Dandiya, et la communauté bengalie tient le Durga Puja. La pratique de chaque communauté diffère."
 lang: "fr"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: 'Une présentation en gradins de Kolu de Navaratri drapée de tissu vert, le degré supérieur portant les dix avatars de Vishnou et les degrés inférieurs remplis de figures de divinités hindoues vivement peintes et de figurines.'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: Des danseurs en costumes traditionnels colorés évoluant en cercle lors d'une danse Garba animée de Navaratri
+    kind: representative
+    origin: third-party
+    subject: Une danse folklorique Garba exécutée pendant Navaratri, l'une des célébrations communautaires emblématiques de la fête
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: De petites poupées décoratives d'oiseaux et de personnages soigneusement disposées sur les gradins d'une présentation golu de Navaratri
+    kind: representative
+    origin: third-party
+    subject: Vue rapprochée de figurines disposées sur une présentation de poupées du festival golu (kolu) de Navaratri
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 Pendant la Navaratri, le long de l'un des murs latéraux du salon d'une maison hindoue tamoule de Malaisie, on dresse des gradins en nombre impair. Sur ces gradins recouverts de tissu, des figurines de divinités et des poupées qui racontent des scènes des mythes sont disposées en rangées. Au soir, parents et voisins viennent contempler le **Golu** ; les chants résonnent ; et aux invités qui s'en vont l'on offre le thamboolam et des douceurs. Ce n'est pas un événement d'un seul jour : c'est la marque d'une fête qui s'étend sur neuf nuits.

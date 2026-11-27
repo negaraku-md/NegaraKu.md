@@ -88,6 +88,32 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'The high-rise skyline of Kuala Lumpur''s city centre, Malaysia''s main financial district, dominated by the Petronas Twin Towers.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: A tall white skyscraper whose paired curved blade-like towers form the Maybank headquarters, rising above surrounding trees and city streets against a blue sky
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank, the headquarters tower of Malayan Banking (Maybank) in central Kuala Lumpur, Malaysia's largest bank
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: A multi-storey building with a CIMB Bank branch and its red CIMB signage at street level, a glass frontage and pedestrians passing on the walkway in front under a clear sky
+    kind: actual
+    origin: third-party
+    subject: a CIMB Bank branch at street level of Bangunan UMNO, CIMB being one of Malaysia's largest banks by assets
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 Line up the five names that dominate almost every Malaysian high street — [Maybank](/companies/maybank), CIMB, Public Bank, RHB and Hong Leong — and you are looking at the core of a banking system that clears the country's salaries, mortgages and trade. They are all Malaysian-incorporated, all listed on Bursa Malaysia, and all licensed by the same central bank. Beyond that, they diverge sharply: one dwarfs the rest in scale, some are effectively government-anchored, and two are still steered by the families that founded them.

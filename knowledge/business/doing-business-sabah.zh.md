@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 
 status: "published"
 aiAssisted: true
@@ -125,6 +125,34 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: '明亮日间的亚庇市中心，商业办公楼和购物商场临着蔚蓝的滨海湾与岛屿'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: 前景中旗杆上的马来西亚州旗，亚庇市天际线越过海湾升起，映衬明亮蓝天
+    kind: actual
+    origin: third-party
+    subject: 从沙巴州议会大楼隔海湾望向亚庇市中心天际线，沙巴
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: 现代玻璃幕墙的 Sabah Ports 总部大楼矗立在棕榈树后方，有闸门入口处有 Sabah Ports 标识，映衬明亮天空
+    kind: actual
+    origin: third-party
+    subject: 位于亚庇 Sepanggar 的 Sabah Ports 总部——玻璃幕墙的企业港务大楼
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 几乎每一份关于在马来西亚经商的全国性指南都把沙巴写错了，而且每次都错在同一处：它假定

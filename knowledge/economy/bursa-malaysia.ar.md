@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "المؤسسون والمديرون الماليون الذين يدرسون طرحًا عامًا أوليًا (IPO)، والمستشارون والرعاة، والمستثمرون الذين يحاولون قراءة ما يشير إليه الإدراج في لوح ما فعليًا."
 
 lang: "ar"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,34 @@ relations:
 related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-overview", "ringgit"]
 keywords: ["Bursa Malaysia", "بورصة ماليزيا", "متطلبات إدراج السوق الرئيسية", "Main Market listing requirements", "ACE Market", "LEAP Market", "FBM KLCI", "مكونات KLCI الثلاثون", "الطرح العام الأولي في ماليزيا", "IPO Malaysia", "ألواح بورصة ماليزيا"]
 framework: profile
+hero: '/media/economy/bursa-malaysia/hero.webp'
+heroAlt: 'برج Exchange Square ما بعد الحداثي ذو الأعمدة الذي يضمّ بورصة ماليزيا، واجهته الحجرية الكريمية وتاجاه ذوا الجملونين مضاءان بالذهبي الدافئ من الشمس الغاربة، مؤطّرَين بأوراق شجر داكنة'
+heroCredit: 'Travelpleb / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: منظر من الأسفل لأعمدة Exchange Square الحجرية المحزّزة العالية وتاجه الكلاسيكي الحديث يرتفع أمام سماء شاحبة، مع نخيل مروحي عند قاعدته
+    kind: actual
+    origin: third-party
+    subject: مبنى Exchange Square، مقر Bursa Malaysia، كوالالمبور
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: مبنى Exchange Square ذو السقف الأحمر والأعمدة الذي يضم Bursa Malaysia يُرى من الأعلى عبر مظلة الأشجار، مع ظهور منحدر الوصول والفناء الأمامي أسفله
+    kind: actual
+    origin: third-party
+    subject: منظر مرتفع لمبنى Exchange Square لبورصة Bursa Malaysia وسط الخضرة، Bukit Kewangan، كوالالمبور
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## لمحة سريعة

@@ -96,6 +96,13 @@ relations:
 related: ["sabah"]
 keywords: ["مطالبة صباح", "Sabah claim", "سلطنة سولو", "Sulu Sultanate", "لاهاد داتو", "Lahad Datu", "اتفاق 1878", "1878 agreement", "بورنيو الشمالية", "North Borneo", "تحكيم سولو", "Sulu arbitration", "الفلبين صباح", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: 'دوّار ومبانٍ منخفضة في وسط بلدة لاهد داتو بولاية صباح، تحت سماء ساطعة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 كلمة ملايوية واحدة كُتبت في عقد يرجع إلى الحقبة الاستعمارية عام 1878 لا تزال تشكِّل نزاعًا دبلوماسيًّا قائمًا، وتوغُّلًا مسلَّحًا دمويًّا عام 2013، وتحكيمًا بمليارات الدولارات بلغ قاعات المحاكم في مدريد ولوكسمبورغ ولاهاي وباريس. تلك الكلمة هي *padjak*، وكيفية ترجمتها تقع في صميم مسألة ما إذا كانت صباح قد أُجِّرت أو جرى التنازل عنها.

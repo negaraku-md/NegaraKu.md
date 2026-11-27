@@ -31,7 +31,7 @@ faq:
   - q: மலேசியாவில் உணவு உற்பத்தி எவ்வாறு ஒழுங்குபடுத்தப்படுகிறது?
     a: உணவுப் பாதுகாப்பு மற்றும் லேபிளிடுதல் 1983 ஆம் ஆண்டு உணவுச் சட்டம் மற்றும் அதன் துணை விதிகள் (1985 ஆம் ஆண்டு உணவு விதிமுறைகள் மற்றும் 2009 ஆம் ஆண்டு உணவு சுகாதார விதிமுறைகள் போன்றவை) ஆல் ஆளப்படுகின்றன, இவை சுகாதார அமைச்சகத்தால் நிர்வகிக்கப்படுகின்றன. ஹலால் கூற்றுகள் தனியாக மலேசிய இஸ்லாமிய மேம்பாட்டுத் துறையால் (JAKIM) கட்டுப்படுத்தப்படுகின்றன, இது அதிகாரபூர்வ ஹலால் சான்றிதழை வழங்குகிறது.
 lang: ta
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ keywords:
   - உணவுச் சட்டம் 1983
   - MIDA உணவு ஊக்கத்தொகைகள்
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'ஒரு மதுபான பாட்டில் தயாரிப்பு வரிசையில், வளைந்த துருப்பிடியா எஃகு கடத்திகளில் செல்லும் ஆயிரக்கணக்கான பச்சை கண்ணாடிப் பாட்டில்கள்'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: பல கன்வேயர் வரிசைகள் மற்றும் பேக்கேஜிங் இயந்திரங்களுடன் கூடிய ஒரு பானம் புட்டியிடும் ஆலையின் மேல்-நோக்கு காட்சி
+    kind: representative
+    origin: third-party
+    subject: கலிபோர்னியாவில் Geyserville அருகே உள்ள ஒரு ஒயின் தயாரிப்பகத்தின் புட்டியிடும் ஆலையில் கன்வேயர்கள் மற்றும் பேக்கேஜிங் இயந்திரங்களின் மேல்-நோக்கு காட்சி
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: ரயில் பாதைகளுக்கு அருகில் ஒரு உணவு பதப்படுத்தல் மற்றும் தளவாட ஆலையின் பல பெரிய உருளை வடிவ தானிய சைலோக்கள் மற்றும் சேமிப்புக் கட்டிடங்கள்
+    kind: representative
+    origin: third-party
+    subject: இந்தியாவின் Bandel-இல் உள்ள ஒரு உணவு-தானிய பதப்படுத்தல் மற்றும் தளவாட ஆலையின் பெரிய சைலோக்கள் மற்றும் சேமிப்புக் கூடங்கள்
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 மலேசியாவில் கிட்டத்தட்ட அனைவரும் ஒரு நாளைக்குப் பலமுறை இந்தத் தொழிலைத் தொடுகிறார்கள் — காலை உணவில் ஒரு கப் Milo, மதிய உணவில் ஒரு பாக்கெட் உடனடி நூடுல்ஸ், மதியம் ஒரு பாட்டில் கனிம நீர், Johor இல் அரைக்கப்பட்ட கோகோவிலிருந்து தயாரிக்கப்பட்ட ஒரு சாக்லேட் பார். உணவு மற்றும் பானங்கள் (F&B) உற்பத்தி நாட்டின் அமைதியான பெரிய தொழில்களில் ஒன்று: குறைக்கடத்திகளை விட குறைவான கவர்ச்சியானது, ஆனால் அன்றாட வாழ்க்கை, தேசிய உணவுப் பாதுகாப்பு மற்றும் ஒரு சக்திவாய்ந்த யோசனையைச் சுற்றிக் கட்டமைக்கப்பட்ட வளர்ந்து வரும் ஏற்றுமதிக் கதையில் ஆழமாகப் பின்னப்பட்டுள்ளது — ஹலால்.

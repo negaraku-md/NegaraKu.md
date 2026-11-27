@@ -90,6 +90,33 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'Beberapa buah jentera bomba Scania Bomba merah terang yang serupa dalam liveri ''Bomba dan Penyelamat'' sepadan diletak hidung ke ekor dalam barisan kemas di tanah lapang di tepi bangunan balai, di bawah langit biru cerah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: Trak bomba pacuan empat roda Bomba merah dengan bahagian belakang berbumbung kanvas dan jata jabatan pada pintunya, diletak di medan hadapan balai bomba berbumbung merah dengan pokok palma di belakang
+    kind: actual
+    origin: third-party
+    subject: sebuah trak menyelamat berat Bomba merah diletak di balai bomba di Sandakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: Bahagian hadapan balai bomba tiga tingkat bercat krim dan terakota, barisan pintu gulungnya mengeja BOMBA dengan huruf merah besar di bawah papan tanda bertulis 'Balai Bomba dan Penyelamat Jalan Kubu', dengan untaian tanglung merah direntang di fasad
+    kind: actual
+    origin: third-party
+    subject: fasad Balai Bomba dan Penyelamat Jalan Kubu di Melaka, dengan perkataan BOMBA dieja besar merentasi pintu gulung ruang jentera
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 Apabila sebuah rumah terbakar, sebuah kereta terperangkap dalam banjir, atau

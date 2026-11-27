@@ -42,7 +42,7 @@ verificationNeeded:
   - "제29대 크다 술탄 즉위식 일자를 이스타나 아낙 부킷(Istana Anak Bukit) 공식 기록에 대조하여 확인; 주(州) 정부 공식 페이지는 선포 일자만 명시함."
 
 lang: "ko"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: '알로르스타르의 맑고 푸른 하늘을 배경으로, 크림색 자히르 모스크가 커다란 검은 양파형 돔 무리와 가느다란 첨탑을 보이고 있다.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: 케다주 랑카위섬에서 곡선을 그리는 랑카위 스카이 브리지가 케이블에 매달려 숲으로 덮인 산악 협곡 위를 높이 가로지른다.
+    kind: actual
+    origin: third-party
+    subject: 케다주 랑카위 스카이 브리지
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: 말레이시아의 곡창지대인 케다주 펜당에서 평평한 녹색 논이 드넓은 하늘 아래 지평선까지 펼쳐져 있다.
+    kind: actual
+    origin: third-party
+    subject: 케다주 펜당의 논 평야
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 2024년, 전기·전자·광학 제품은 크다(Kedah) 제조 부문 부가가치의 51.1퍼센트를 차지했습니다. 벼는 농업에서 나온 주(州) GDP 10.6퍼센트의 일부만을 차지했습니다.

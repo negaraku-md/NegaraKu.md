@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué es la industria de contenidos creativos y animación de Malasia?
     a: Es el negocio de producir películas, programas de televisión, animación, música y videojuegos, cada vez más para la exportación además del mercado interno. La animación malasia en particular ha tenido éxito internacional, siendo el ejemplo más conocido la serie infantil Upin & Ipin, producida por Les' Copaque. El gobierno apoya el sector a través de fondos y agencias como MyCreative Ventures y FINAS.
 lang: es
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'El complejo de radiodifusión Angkasapuri en Kuala Lumpur, sede de la emisora pública nacional de Malasia.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: Realizadores ante un conjunto de monitores y mesas de mezclas en la sala de control de un estudio de televisión durante una emisión en directo.
+    kind: representative
+    origin: third-party
+    subject: Sala de control de emisión durante una producción televisiva en directo (representativa)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: El plató de un estudio de emisión televisiva con cámaras, iluminación de estudio y una mesa de presentador.
+    kind: representative
+    origin: third-party
+    subject: Plató de un estudio de emisión televisiva con cámaras y mesa de presentador (representativo)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 Cuando los malasios hablan de "los medios", suelen referirse a uno de unos pocos nombres familiares: la antena parabólica de Astro atornillada al costado de la casa, el boletín de noticias de TV3, un programa matinal de radio camino del trabajo o —cada vez más— lo que sea que esté reproduciéndose en un teléfono durante el trayecto. Esos puntos de contacto cotidianos pertenecen a una sola industria, vasta y dispersa: los medios y la radiodifusión. Es uno de los sectores de servicios más visibles del país, y también uno de los más disrumpidos.

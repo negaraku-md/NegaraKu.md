@@ -31,7 +31,7 @@ faq:
     a: "是的。《牛津英语词典》在历次更新中已收录若干马来西亚英语词汇，包括2016年收录的lepak、shiok和teh tarik，同年稍后更新中收录的多个Manglish及马来西亚饮食用语，包括mamak、kopitiam和atas，以及在更近一次更新中收录的boleh、agak-agak和wayang——这体现了词典对既有马来西亚用法的确认，而非凭空创造新英语词汇。"
 
 lang: "zh"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: '一个涂有涂鸦的电箱上，手绘的橙蓝两色招牌写着“PETALING STREET KUALA LUMPUR”，背后是城市街道和建筑。'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: 乔治市一条店屋街，店面招牌以英文、泰米尔文、中文和马来文并列呈现
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市一条小印度街道，沿街店铺招牌以多种语言与文字书写
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: 傍晚时分，顾客走过马来西亚一处热闹夜市里成排的食品与货品摊档
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪沙登（Seri Kembangan）的夜市（pasar malam），马来西亚日常多语环境的街头一景
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

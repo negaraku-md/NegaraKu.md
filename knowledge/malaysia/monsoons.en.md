@@ -71,7 +71,7 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 faq:
   - q: Why does the east coast of the Peninsula flood while the west coast stays dry at the same time?
     a: The answer lies in geography. The east coast faces the South China Sea directly, so nothing blocks the moist winds of the Northeast Monsoon before they reach Kelantan, Terengganu, Pahang and Johor. The west coast, on the other hand, is sheltered by the Titiwangsa Range that splits the Peninsula from north to south; this range forces the moist air to rise and drops most of its rain on the eastern slopes before it reaches the western side.
@@ -80,6 +80,32 @@ faq:
   - q: Is the Northeast Monsoon equally severe throughout November to March?
     a: No. Official data from the National Security Council (MKN) for the 2024/2025 season shows that the highest-risk areas shift by phase. In the early phase (November–December) Kelantan, Terengganu, Pahang, Johor, Sarawak and Sabah were affected; in the late phase (January–February) the focus shifted to Pahang, Johor, Sarawak and Sabah — Kelantan and Terengganu were no longer listed as highest-risk. The whole season is expected to record 5 to 7 episodes of heavy rain.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'Wind-driven rain lashes a cluster of palm trees bending over a deserted, water-slicked city plaza, their fronds streaming sideways beneath a leaden grey sky as high-rise towers fade into the downpour.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: A car throws up a spray as it drives through brown floodwater covering a city street during a heavy tropical downpour.
+    kind: actual
+    origin: third-party
+    subject: A downpour flooding Jalan Raja Chulan, Kuala Lumpur
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: Driving rain falls on a village lane submerged under muddy floodwater, with banana trees and a power pole standing in the water.
+    kind: actual
+    origin: third-party
+    subject: Monsoon floodwater over a kampung road in Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 Every November, before checking the news, many residents of Kota Bharu, Kuala Terengganu and Kuantan start checking the water levels of rivers near their homes. This is not a habit born of unexpected disaster — it is a predictable schedule that repeats every year, and its cause is the same seasonal wind system that also determines when the west coast of the Peninsula turns dry.

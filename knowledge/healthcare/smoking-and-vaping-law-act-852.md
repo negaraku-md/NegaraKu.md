@@ -64,9 +64,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'Sebuah papan tanda dilarang merokok dalam bahasa Melayu, Cina dan Inggeris (Dilarang Merokok / No Smoking) di Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: Tanda larangan merokok dipamerkan pada dinding di dalam sebuah restoran di Johor Bahru, Malaysia, menandakan premis bebas asap rokok
+    kind: actual
+    origin: third-party
+    subject: Notis larangan merokok dipaparkan di sebuah restoran di Johor Bahru, Malaysia
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: Pandangan dekat sebelah tangan memegang peranti vape berhampiran mulut seseorang, menggambarkan penggunaan rokok elektronik yang dikawal di bawah undang-undang
+    kind: representative
+    origin: third-party
+    subject: Seseorang memegang peranti rokok elektronik (vape)
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 Buat pertama kali, sebatang rokok dan sebuah peranti vape tertakluk pada undang-undang yang sama di Malaysia — dan larangan menjual kepada remaja bukan lagi sekadar dasar, tetapi kesalahan yang boleh didenda beribu-ribu ringgit.

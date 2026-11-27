@@ -29,7 +29,7 @@ faq:
     a: "سوكما هي منصة الولايات التي يُظهِر فيها الرياضيون الشباب مواهبهم. ويمكن ترقية الرياضيين ذوي الإمكانات إلى برامج تطوير المواهب والاحتياط التابعة لـ MSN، ومنها إلى برنامج المنصة (Podium Programme) التابع لـ ISN، الذي يُعِدّ الرياضيين النخبة للألعاب الدولية."
 
 lang: "ar"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,8 +49,29 @@ verificationNeeded:
   - "بنية برامج تطوير MSN وأسماؤها الدقيقة (برنامج المواهب/Program Bakat؛ برنامج الاحتياط للولاية/الإقليم/الوطني/Program Pelapis) — يُرجى تأكيد التسمية الأحدث."
   - "معايير الاختيار المحدّدة للرياضيين إلى برنامج المنصة (Podium Programme) التابع لـ ISN — التفاصيل غير مدرَجة على الموقع الرسمي."
   - "العبارة العامة عن استثمار البنية التحتية للمستضيف وأفضلية الأرض — لم تُدعَم بعد بمصدر محدّد؛ يُرجى التأكيد أو الحذف."
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
+  - title: "الألعاب الماليزية (سوكما) — التاريخ وقائمة النسخ (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "ويكيبيديا (Wikipedia)"
+  - title: "سوكما يجب أن تبقى بطولة لمن هم دون 21 عامًا، بحسب NSC (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "نيو ستريتس تايمز (New Straits Times)"
+  - title: "سوكما 2026 ستضمّ 474 حدثًا، الأعلى في تاريخ البطولة (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "برناما (Bernama)"
+  - title: "كيف أنقذت سوكما مسيرة Pandelela في الغطس بعد أن كادت تعتزل عام 2004 (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "مالاي ميل (Malay Mail)"
+  - title: "Jin Wei تُذهِل Li Lian وتحرز ذهبية سوكما (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "ذا ستار (The Star)"
+  - title: "Welson يصنع حدثًا كبيرًا في سوكما الخامسة عشرة (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "ذا بورنيو بوست (The Borneo Post)"
+  - title: "Khairul Hafiz يحطّم الرقم القياسي الوطني في 100 متر (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "ذا ستار (The Star)"
   - title: "10,000 رياضي سيُضفون الحيوية على سوكما الثانية والعشرين وبارا سوكما سيلانغور 2026 (10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026)"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
     publisher: "RTM (Radio Televisyen Malaysia, berita.rtm.gov.my)"
@@ -75,9 +96,35 @@ wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "football-in-malaysia"]
 keywords: ["سوكما", "SUKMA", "الألعاب الماليزية", "Sukan Malaysia", "المجلس الوطني للرياضة", "Majlis Sukan Negara", "برنامج المنصة", "Program Podium", "الرياضيون الناشئون", "تطوير الرياضة", "المعهد الوطني للرياضة", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'وفود الولايات تحمل أعلامها ولافتات أسمائها خلال حفل افتتاح دورة ألعاب سوكما في ماليزيا.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: المدرّج الرئيسي والملعب الأخضر والمضمار الأحمر لاستاد ولائي ماليزي بمقاعد زرقاء وصفراء خالية، وهو نموذجي لمكان يستضيف SUKMA.
+    kind: representative
+    origin: third-party
+    subject: استاد ولائي ماليزي بمضمار ألعاب قوى، من نوع الأماكن التي تستضيف فعاليات SUKMA
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: منظر جوي لـ Likas Sports Complex في Kota Kinabalu، يُظهر استاد ألعاب القوى وصالة مغلقة بقبة ومرافق رياضية محيطة وسط المدينة.
+    kind: representative
+    origin: third-party
+    subject: منظر جوي لـ Likas Sports Complex في Sabah، مكان لألعاب متعددة الرياضات
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 كل سنتين، يتقدّم آلاف الرياضيين الشباب إلى ملعب ولاية مستضيفة — لا من أجل ميداليات عالمية، بل من أجل كرامة ولاياتهم، وبالنسبة للأكثر موهبةً، تذكرة إلى منصة النخبة الوطنية. تلك هي سوكما.
@@ -92,7 +139,13 @@ framework: explainer
 
 أُقيمت أول دورة سوكما في كوالالمبور في أبريل 1986. ومنذ ذلك الحين، تُنظَّم **كل سنتين** — مرة كل عامين — بالتناوب مع دورة ألعاب جنوب شرق آسيا، مع تناوب الولايات على الاستضافة.
 
-ويُدار تنظيمها بواسطة **[المجلس الوطني للرياضة في ماليزيا](/sports/national-sports-council-msn) (MSN)** مع مجالس الرياضة في الولايات، ومجلس رياضة المدارس الماليزية (MSSM)، ومجلس رياضة الجامعات الماليزية (MASUM)، ومجلس رياضة الشرطة الملكية الماليزية. والنسخة الأحدث، **سوكما الثانية والعشرون سيلانغور 2026**، مقرّر إقامتها من 15 إلى 24 أغسطس 2026. أما الألعاب المخصّصة للرياضيين ذوي الإعاقة، **بارا سوكما (Para SUKMA)**، فمقرّرة بشكل منفصل من 5 إلى 14 سبتمبر 2026.
+ويُدار تنظيمها بواسطة **[المجلس الوطني للرياضة في ماليزيا](/sports/national-sports-council-msn) (MSN)** مع مجالس الرياضة في الولايات، ومجلس رياضة المدارس الماليزية (MSSM)، ومجلس رياضة الجامعات الماليزية (MASUM)، ومجلس رياضة الشرطة الملكية الماليزية. والنسخة الأحدث، **سوكما الثانية والعشرون سيلانغور 2026**، مقرّر إقامتها من 15 إلى 24 أغسطس 2026. أما الألعاب المخصّصة للرياضيين ذوي الإعاقة، **بارا سوكما (Para SUKMA)**، فمقرّرة بشكل منفصل من 5 إلى 14 سبتمبر 2026. كما سجّلت نسخة 2026 رقمًا قياسيًا خاصًّا بها: جرى التنافس في 474 حدثًا — وهو أكبر عدد من الأحداث في تاريخ سوكما حتى الآن.
+
+## من 1986 حتى اليوم: حدّ العمر، والأبطال، والأرقام القياسية
+
+سوكما بطولة مخصّصة لمن هم دون سنّ الحادية والعشرين (U-21)، وحدّ العمر هذا هو سمتها المميّزة، ويدافع عنه المجلس الوطني للرياضة (MSN) لإبقاء الألعاب مركّزةً على تطوير الرياضيين الشباب. والاستثناء الوحيد حتى الآن كان نسخة 2022 (سوكما العشرون)، التي سُمِح لها برفع الحدّ إلى دون سنّ الثالثة والعشرين (U-23) لأن ألعاب 2020 أُلغِيت بسبب جائحة كوفيد-19.
+
+ومنذ النسخة الأولى في كوالالمبور عام 1986 — التي جمعت نحو 4,500 رياضي من 16 بعثة — تنقّلت الألعاب بين الولايات، من كوتشينغ وجوهور بهرو إلى ألور ستار وكوالا ترغكانو وكوتا كينابالو. وسيلانغور هي البعثة الأكثر نجاحًا، إذ تُوِّجت بطلةً عامة تسع مرات، تليها ترغكانو وساراواك. كما يعود الرقم القياسي لأكبر عدد من الميداليات الذهبية في نسخة واحدة إلى سيلانغور، بـ 80 ذهبية في سوكما السابعة عام 1998.
 
 ## كيف تغذّي سوكما جهاز المواهب النخبة؟
 
@@ -105,6 +158,17 @@ framework: explainer
 أُطلِق **برنامج المنصة (Podium Programme)** في 2 فبراير 2016 تحت وزارة الشباب والرياضة، ويديره **المعهد الوطني للرياضة (ISN)**. وهو مصمَّم خصيصًا لإعداد الرياضيين النخبة لتحقيق أداء عالمي المستوى في الألعاب الدولية الكبرى مثل الألعاب الأولمبية ودورة الألعاب الآسيوية وألعاب الكومنولث. ويتولّى ISN اختيار الرياضيين لبرنامج المنصة بناءً على معايير الاختيار التي يضعها.
 
 وبعبارة أخرى، توفّر سوكما مجمّع المواهب الخام، بينما يُصفّي برنامجا الاحتياط والمنصة تلك المواهب ويصقلانها إلى رياضيين عاليي الأداء.
+
+## دليل ساحة المواهب: هم بدأوا في سوكما
+
+النظرية بسيطة؛ والدليل في الأسماء. فقد برز عدد من الرياضيين الوطنيين المعروفين أول مرة في سوكما قبل أن يمثّلوا ماليزيا دوليًا:
+
+- **Pandelela Rinong** (الغطس، ساراواك) — أصبحت لاحقًا أول ماليزية تحرز ميدالية أولمبية في الغطس (برونزية، منصة 10 أمتار فردي، لندن 2012؛ وفضية، غطس متزامن، ريو 2016). وقد قالت إن سوكما أحيَت مسيرتها: فبعد أن كادت تعتزل عام 2004، أعادت عودتها بثلاث ميداليات ذهبية في سوكما قدح 2006 إشعال شغفها بالرياضة.
+- **Goh Jin Wei** (الريشة الطائرة، بينانغ) — أحرزت ذهبية فردي السيدات في سوكما 2014 وعمرها 14 عامًا، قبل أن تصبح بطلة العالم للناشئين لدى BWF (2015 و2018) وأول ماليزية تحرز ذهبية في دورة الألعاب الأولمبية للشباب.
+- **Welson Sim** (السباحة، ساراواك) — نال ذهبية في سوكما الخامسة عشرة (2012) قبل أن يشارك في أولمبياد ريو 2016 ويفوز في دورة ألعاب جنوب شرق آسيا.
+- **Khairul Hafiz Jantan** (ألعاب القوى، ملقا) — سجّل الرقم القياسي الوطني في سباق 100 متر (10.18 ثانية) في سوكما الثامنة عشرة 2016، محطّمًا رقم Watson Nyambek الذي صمد 18 عامًا، ثم ارتقى إلى المنتخب الوطني.
+
+وهذه القائمة ليست محض مصادفة: فهي تُظهِر الوظيفة الحقيقية لسوكما بوصفها مشتلًا، حيث تُختبَر مواهب الولايات أول مرة قبل تصفيتها صعودًا إلى مستويات أعلى.
 
 ## لماذا تتنافس الولايات على الاستضافة؟
 

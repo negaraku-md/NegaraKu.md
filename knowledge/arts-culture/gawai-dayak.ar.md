@@ -35,7 +35,7 @@ faq:
     a: "هما مهرجانان منفصلان يتقاسمان الموضوع نفسه. فغاواي داياك مهرجان حصاد الداياك في ساراواك، يُقام في 1 و2 يونيو. أما كامتان (Kaamatan) فمهرجان حصاد الكادازاندوسون (Kadazandusun) في صباح، يُقام في 30 و31 مايو. وكلاهما يقدّم الشكر على حصاد الأرزّ، لكن المجتمعات والطقوس والتواريخ تختلف."
 
 lang: "ar"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "في 1 و2 يونيو من كل عام؛ يبدأ الإحياء مساء 31 مايو، ويُختتم موسم Gawai الأوسع رسميًا بـ ngiling tikai («طيّ الحصيرة») قرب نهاية يونيو."
   holiday: "عطلة رسمية في ولاية Sarawak (أُدرِجت في الجريدة الرسمية في 25 سبتمبر 1964)."
   etiquette: "يُفتح باب البيت الطويل على مصراعيه — فاستضافة الأقارب الزائرين والجيران والضيوف جزء من العيد؛ ومن التحيات الشائعة 'Gayu Guru, Gerai Nyamai' (طول العمر والصحة والازدهار) أو 'Selamat Hari Gawai'. وهو في المقام الأول إحياء عائلي وداخل البيت الطويل، لا عرضًا سياحيًا."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'راقص محارب من الإيبان بغطاء رأس من ريش طائر البوقير وسترة فراء يؤدي رقصة النجات على مسرح بخلفية جدارية داياكية تقليدية'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: أدّاءٌ من قومَي الإيبان وأورانغ أولو بأغطية رأس فضية فاخرة وزينة خرزية وتيجان من الريش خلال موكب غاواي داياك في كوتشينغ بساراواك
+    kind: actual
+    origin: third-party
+    subject: أدّاء من الداياك بكامل الزينة التقليدية في موكب غاواي داياك بكوتشينغ
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: الرواق الخشبي الجماعي الطويل (الرواي) داخل مسكن إيباني طويل في ساراواك، حيث يُحتفل بغاواي داياك
+    kind: actual
+    origin: third-party
+    subject: الرواق الجماعي في مسكن إيباني طويل بساراواك
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 لم تُعلِن الساعة منتصف الليل بعدُ في آخر أيام مايو، وفي بيت طويل على ضفّة نهر ما في ساراواك، يكون الغونغ منتظِراً. فقد جُمِع الأرزّ. وكُنِس الرواق وعُلِّقت فيه حُصُر جديدة. ويقف جرّة من التواك جاهزاً. وحين يُقرَع الغونغ أخيراً، يرفع رئيس البيت الطويل كأساً، ويشرب كلّ من على امتداد الرواق المشترك الطويل نخب الكلمات الثلاث نفسها: طول العمر، والصحة، والازدهار.

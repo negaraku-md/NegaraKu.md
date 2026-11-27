@@ -29,7 +29,7 @@ faq:
     a: "高リスク行為に関わっている者、妊娠中／生理中／授乳中の女性献血者、1980年から1996年の間に英国に通算6カ月以上滞在したことがある者、または1980年から現在までにヨーロッパの国に通算5年以上滞在したことがある者などが含まれる——いずれもvCJDのリスクによるものである。"
 
 lang: "ja"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ entity: "Pusat Darah Negara"
 wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "hiv-aids-and-sexual-health-services"]
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: '献血椅子に座るマレーシアの献血者と、その脇で血液の入った血液バッグを持つ笑顔の看護師。'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: 空の採血用リクライニングベッド、器具トロリー、受付カウンターが並ぶ明るい献血ホール。献血者はいない
+    kind: representative
+    origin: third-party
+    subject: 献血センターの内部。一列に並ぶ空の採血用リクライニングベッドと機器
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: 献血記録ラベルとチューブの付いた、血液で満たされ密封された採血バッグを手に持っている様子。献血された血液を採取・保管するための器材を表している
+    kind: representative
+    origin: third-party
+    subject: 献血会場で、全血1単位分の献血血液が入った密封済みの採血バッグ
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 PDNによれば、一度の献血で少なくとも3人の命を救うことができる——全血は赤血球、血小板、血漿に加工され、それぞれ異なる患者のために使用されるためである。

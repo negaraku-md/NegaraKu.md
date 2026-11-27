@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente leer correctamente las estadísticas malasias de población, trabajo o propiedad — investigadores, planificadores y empresas que evalúan dónde están realmente la población y la fuerza laboral."
 
 lang: "es"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ faq:
   - q: ¿Dónde se concentró la mayor parte del crecimiento urbano de Malasia?
     a: En el Valle de Klang (Klang Valley). En el Censo de 2020, cuatro distritos contiguos —Kuala Lumpur (1.982.112), Petaling (2.298.130), Ulu Langat (1.400.461) y Klang (1.088.942)— reunían en conjunto unos 6,77 millones de personas, más de una quinta parte de la población nacional de 32,4 millones. Selangor es ahora el estado más poblado, con 6.994.423 habitantes, y es 95,8% urbano, mientras que Kelantan, con un 44,1%, es el estado menos urbanizado.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'Una amplia vista del denso horizonte urbano de Kuala Lumpur bajo un cielo luminoso y nublado, con la Torre KL de remate en aguja, rascacielos agrupados y una cúpula azul de mezquita que se alzan sobre las copas verdes de los árboles.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: Una hilera de shophouses de dos plantas de la época colonial, con arcadas de «paso de cinco pies» y pisos superiores de postigos de madera, bordea una tranquila calle del casco antiguo.
+    kind: actual
+    origin: third-party
+    subject: Calle de shophouses patrimoniales en George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: Un puente atirantado blanco en forma de vela cruza un lago frente a hileras de bloques de apartamentos de altura media bajo un cielo gris.
+    kind: actual
+    origin: third-party
+    subject: Puente Seri Wawasan en la ciudad federal planificada de Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Tres de cada cuatro malasios viven ahora en un lugar que el DOSM llama «urbano»

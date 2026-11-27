@@ -27,7 +27,7 @@ faq:
     a: "An electric bicycle is exempt only if it is a pedal-assist type that complies with Malaysian Standard MS2514, has no throttle, and has pedals that remain permanently attached. An unapproved throttle-equipped electric bicycle is classified as a PMD or moped and is banned."
 
 lang: "en"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Three purple Beam shared electric scooters parked on a paved park path in Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: A shared Beam e-scooter parked at a micromobility bay beside a hotel near Merdeka MRT station in Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Shared Beam e-scooter parking near Merdeka MRT, Kuala Lumpur
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: A purple shared Beam Mobility e-scooter parked on a path at Taman Rekreasi Tasik Y in Batu Pahat, Johor.
+    kind: actual
+    origin: third-party
+    subject: Shared Beam e-scooter at a lakeside park in Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 You buy an e-scooter to get to the office, but the moment its wheels touch a public road, you are already breaking the law. That has been the reality of micromobility in Malaysia since the end of 2021.

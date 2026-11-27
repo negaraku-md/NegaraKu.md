@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 
 status: "published"
 aiAssisted: true
@@ -122,6 +122,33 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'Kanopi bumbung tegangan pucat berbentuk kipas yang luas menara gerai utama Litar Antarabangsa Sepang menggelembung di atas dek tontonan bulat, dengan trek lumba yang lengang dan gerai penonton melengkung di kedua-dua belah di bawah langit biru'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: Kumpulan kereta Formula One berlivery pasukan rapat merebak merentasi asfalt lebar bahagian mula-selesai Sepang pada pusingan pembukaan, tayarnya meninggalkan kesan gelap di trek di bawah matahari terang
+    kind: actual
+    origin: third-party
+    subject: barisan Formula One berlumba roda ke roda menuruni litar Sepang pada permulaan Grand Prix Malaysia 2015
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: Pandangan udara tinggi Litar Antarabangsa Sepang terletak di kawasan luar bandar menghijau, reben trek kelabunya berliku dalam gelung melengkung mengelilingi pavilion utama dan kompleks pit, dengan landasan dan terminal KLIA kelihatan dalam jerebu di kejauhan
+    kind: actual
+    origin: third-party
+    subject: pandangan udara keseluruhan Litar Antarabangsa Sepang menunjukkan susun atur trek bergelung yang tersendiri dan padoknya, dengan Lapangan Terbang Antarabangsa Kuala Lumpur di seberang
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 Pada Oktober 2026, kereta Formula 1 akan berlumba di Sepang buat kali pertama dalam tempoh sembilan tahun — dan papan tanda di tepi litar akan tertera *Grand Prix Bahrain*. Malaysia bukan hos di atas kertas, tidak akan membayar yuran lesen, dan tidak melobi untuk kembali ke kalendar perlumbaan. Ia hanya mempunyai satu perkara yang tiba-tiba diperlukan oleh Formula 1: sebuah litar bertaraf tertinggi yang kosong dan sedia digunakan.

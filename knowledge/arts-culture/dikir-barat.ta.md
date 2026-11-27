@@ -19,7 +19,7 @@ keyTakeaways:
   - "இக்கலை வடிவம், தென் தாய்லாந்தைச் சேர்ந்த திக்கிர் மரபுடன் தொடர்புடையது; அது கிளந்தானில் பந்தூன் மற்றும் கிளந்தான் பேச்சுவழக்கு சேர்க்கப்பட்டு தழுவப்பட்டது"
 appliesTo: "திக்கிர் பாராட்டின் நிகழ்த்து வடிவத்தையும், துக்காங் காருட் மற்றும் தோக் ஜுவாராவின் பாத்திரங்களையும், ஒரு குழுவின் அமைப்பையும் புரிந்துகொள்ள விரும்பும் எவரும்."
 lang: "ta"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,34 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'பச்சை-தங்க உடையும் உயர்ந்த வளைந்த தலையணியும் அணிந்த இரு dikir barat கலைஞர்கள் தரையில் அமர்ந்து, சீரான கை அசைவுகளுடன் சிரித்துக்கொண்டிருக்கிறார்கள்; அவர்களுக்கு முன் தரையில் rebana தம்பட்டங்கள், பின்னால் இளஞ்சிவப்பு மலர்கள்'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: பச்சை-தங்க நிற உடைகளும் உயரமான தலைக்கவசங்களும் அணிந்து அமர்ந்திருக்கும் டிகிர் பாராட் கலைஞர்களின் வரிசை, இரவு நிகழ்ச்சியின் போது ஒருங்கிணைந்து கைதட்டி புன்னகைக்கிறார்கள், அவர்களுக்கு முன்னால் தரையில் ரெபானா கை-மேளங்கள் உள்ளன
+    kind: representative
+    origin: third-party
+    subject: ஒருங்கிணைந்து கைதட்டி அமர்ந்திருக்கும் டிகிர் பாராட் கலைஞர்களின் (அவோக்-அவோக்) வரிசை (பகிரப்பட்ட மலாய் பாரம்பரியம், சிங்கை, சிங்கப்பூர்)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: ஒரு மலேசியப் பள்ளி மண்டபத்தில், கறுப்பு உடையும் சிவப்புத் தலைப்பட்டையும் அணிந்து அமர்ந்திருக்கும் மாணவக் கலைஞர்களின் வரிசை ஒருங்கிணைந்து கைதட்ட, ஒரு பெண் முதன்மைப் பாடகி ஒரு ஒலிவாங்கியில் பாடுகிறார்; ஒரு ரெபானா மேளமும் ஒரு கெங்கும் உள்ளன
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, முதன்மைப் பாடகி, கைதட்டும் அவோக்-அவோக் பாடகர் குழு மற்றும் தாளக் கருவிகளுடன் கூடிய பள்ளி டிகிர் பாராட் குழு
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 இரு குழுக்கள் மேடையில் ஒன்றையொன்று பார்த்தபடி சம்மணமிட்டு அமர்ந்திருக்கின்றன. எந்த எழுத்துப் பிரதியும் இல்லை. விலைவாசி உயர்வு பற்றிய கிண்டல் நிறைந்த [பந்தூன்](/ta/arts-culture/pantun) ஒன்றை முதல் குழு பாடி முடித்ததும், பதிலைப் பாட இரண்டாவது குழுவிற்கு சில வினாடிகள் மட்டுமே இருக்கும் — அது எதுகை மோனையுடன் இருக்க வேண்டும், தாளத்திற்குப் பொருந்த வேண்டும், முடிந்தால் மூல பந்தூனை விடக் கூர்மையாகவும் இருக்க வேண்டும்.

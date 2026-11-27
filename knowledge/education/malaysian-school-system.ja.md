@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara の俯瞰図で、教室棟に囲まれた中庭、運動場、住宅街が見える。'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: 旗竿と前庭を備えたマレーシアの中等学校校舎の正面
+    kind: representative
+    origin: third-party
+    subject: マレーシアの国民中等学校の校舎（SMK Cheras）
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: 特徴的な制服を着て屋外に立つマレーシアの中等学校の生徒たち
+    kind: representative
+    origin: third-party
+    subject: 制服姿のマレーシアの中等学校の生徒たち（サバ州サンダカン）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 マレーシアで育つ子どもにとって、「どの学校か」という問いは、多くの国におけるよりも大きな意味を帯びている。それはどこでもそうであるように、距離や評判の問題でもある――だが同時に、主にマレー語で教える国民学校と、華語またはタミル語で教える国民型学校との間の選択でもある。どちらも同じ公教育制度の一部であり、同じ国家カリキュラムに従い、同じ国家試験へとつながる。その制度がどう組み合わさっているかを理解することが、それをたどる第一歩となる。

@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar là chương trình dự bị đại học của UKM dành cho học sinh năng khiếu tài năng, được cung cấp trong ba phân ban là Perdana, Komersial và Antarabangsa."
 
 lang: "vi"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'Cầu thang bên ngoài và lối vào của một tòa nhà có dòng chữ "PUSAT SUMBER PERMATAPINTAR", trung tâm nguồn lực của chương trình giáo dục năng khiếu quốc gia Malaysia.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: Học sinh ngồi tại những dãy máy tính để bàn trong một tiết học tại phòng máy tính của một trường trung học Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Học sinh làm bài trong phòng máy tính của một trường học Malaysia
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: Một phòng thí nghiệm nghiên cứu đại học tại UTM ở Johor được trang bị xe cộ và thiết bị, loại cơ sở tiên tiến thử thách những người học có năng lực cao.
+    kind: representative
+    origin: third-party
+    subject: Phòng thí nghiệm kỹ thuật tiên tiến tại Universiti Teknologi Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 Một đứa trẻ 10 tuổi giải được toán lớp mười một không phải lúc nào cũng nổi bật trong một lớp học bình thường — và tại Malaysia, trung tâm quốc gia duy nhất được thiết kế để tìm và mài giũa những trí tuệ như thế này là PERMATApintar.

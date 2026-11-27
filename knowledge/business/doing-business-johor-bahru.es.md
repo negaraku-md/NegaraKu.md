@@ -44,7 +44,7 @@ verificationNeeded:
   - "RTS Link fare structure and confirmed first day of passenger service — MRT Corp publishes an end-2026 infrastructure completion target and a January 2027 service start, while Singapore LTA phrases it as service by December 2026"
 
 lang: "es"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,34 @@ keywords:
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
 framework: profile
+hero: '/media/business/doing-business-johor-bahru/hero.webp'
+heroAlt: 'El horizonte de la ciudad de Johor Bahru con torres de oficinas y bancos visto a través del estrecho de Johor, con la tubería de agua de la Calzada recorriendo la ribera'
+heroCredit: 'ペウゲオト / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: Vista elevada de la Calzada Johor-Singapur llena de vehículos que cruzan el estrecho, con los edificios de la ciudad de Johor Bahru y un letrero 'I love Johor' en el lado malasio
+    kind: actual
+    origin: third-party
+    subject: La Calzada Johor-Singapur, congestionada de tráfico, cruzando el estrecho junto a la ciudad de Johor Bahru, la puerta de enlace diaria que conecta JB con Singapur
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: Amplia panorámica del paisaje urbano de Johor Bahru con grupos de torres comerciales y residenciales de gran altura bajo un cielo nublado
+    kind: actual
+    origin: third-party
+    subject: Amplia panorámica del núcleo urbano de Johor Bahru — rascacielos comerciales y torres residenciales repartidos por la ciudad
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 Johor Bahru es la única ciudad malasia cuyo suelo salarial, plan de personal y ventana de entrega

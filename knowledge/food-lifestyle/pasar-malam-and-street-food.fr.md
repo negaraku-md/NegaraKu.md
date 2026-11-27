@@ -86,7 +86,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "malaysian-street-food" }
-related: []
+related: ["your-first-pasar-malam", "dining-etiquette-tipping-and-service-charge", "durian-culture-and-varieties"]
 keywords: ["pasar malam", "pasar tani", "pasar basah", "cuisine de rue", "FAMA", "notation de l'hygiène des établissements de restauration", "marchand ambulant"]
 framework: explainer
 ---

@@ -4,7 +4,7 @@ title: "マレーシアの国民食：ナシ・レマク、ロティ・チャナ
 seoTitle: "マレーシアの国民食 — ナシ・レマク、ロティ・チャナイ、ラクサ"
 slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: 'サンバル、揚げた煮干し、ロースト落花生、きゅうり、ゆで卵を添えた、バナナの葉に盛ったナシ・レマッ'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

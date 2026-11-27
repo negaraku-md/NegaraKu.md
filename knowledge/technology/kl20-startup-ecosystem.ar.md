@@ -36,7 +36,7 @@ faq:
     a: "قادت وزارة الاقتصاد الخطة عند الإطلاق، بمشاركة وزارة العلوم والتكنولوجيا والابتكار (MOSTI) ووزارة الرقمنة. ومن وكالات التنفيذ المسمّاة حول القمة Cradle Fund لدعم الشركات الناشئة وللنافذة الواحدة، وMRANTI لحزام الابتكار، وKhazanah Nasional لصندوق الصناديق الوطني."
 
 lang: "ar"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,35 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: برج Exchange 106 وحي Tun Razak Exchange المالي في كوالالمبور، يُرى من KL Tower
+    kind: representative
+    origin: third-party
+    subject: برج Exchange 106 وحي Tun Razak Exchange (TRX) المالي في كوالالمبور
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: أفق مدينة كوالالمبور مع KL Tower ومباني مكاتب عالية الارتفاع تحت سماء زرقاء
+    kind: representative
+    origin: third-party
+    subject: أفق مدينة كوالالمبور مع KL Tower ومباني مكاتب عالية الارتفاع متجمّعة
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'برجا بتروناس التوأم يرتفعان في وسط أفق مركز مدينة كوالالمبور الواضح، مع مركز التسوق وحديقة KLCC في الأسفل وأبراج شاهقة محيطة تحت سماء صافية.'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 في أبريل 2024، كفّت ماليزيا عن الحديث عن شركاتها الناشئة بلغة الأمل وبدأت تتحدّث بلغة المراتب. وكان العرض صريحاً: أدخِلوا كوالالمبور إلى أفضل 20 منظومة شركات ناشئة في العالم بحلول 2030، أو اعترفوا بأن البلاد كانت تسير بلا جهد.

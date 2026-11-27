@@ -30,7 +30,7 @@ faq:
     a: "YTL Power, Johor-இன் Kulai-இல் ஒரு பெரிய தரவு மையப் பூங்காவைக் கட்டமைத்து வருகிறது, மேலும் 2025 அக்டோபர் இறுதியில் இயக்கத்தில் இருப்பதாக அறிவிக்கப்பட்ட முதல் Nvidia-இயங்கும் AI வசதியை நிறைவு செய்துள்ளது."
 
 lang: "ta"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,33 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: 'Bukit Bintang-ல் உள்ள Starhill Gallery ஆடம்பர வணிக வளாகத்தின் தனித்துவமான பட்டை வெட்டப்பட்ட கரும்-வெண்கல வடிவியல் முகப்பு; பின்னால் JW Marriott ஹோட்டல் கோபுரம் உயர்கிறது'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: Sentul Park வழியே செல்லும் அமைதியான, பனை மரங்கள் வரிசையாக நிற்கும் பெருந்தெரு; சாலையோரம் SENTUL PARK மற்றும் SENTUL WORKS என எழுதப்பட்ட உயரமான பதாகைத் தூண்களுடன்
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூரில் YTL Land (YTL Corporation-இன் சொத்துப் பிரிவு) ஆல் மேற்கொள்ளப்பட்ட நகர்ப்புற-புதுப்பிப்பு மேம்பாடான Sentul Park வழியே மரங்கள் வரிசையாக நிற்கும் பெருந்தெரு — SENTUL PARK / SENTUL WORKS பதாகைகள் தெரிகின்றன; YTL தாய்நிறுவன பெயர் காட்சியில் இல்லை
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: Lot 10 கடைவளாக நுழைவாயிலின் தெரு-மட்டக் காட்சி; அதன் பச்சை நிற முகப்பு, மேலே Isetan The Japan Store பலகை மற்றும் தரைத்தளத்தில் H&M கடையுடன்
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூர் Jalan Bukit Bintang-இல் உள்ள Lot 10 கடைவளாகம், YTL Corporation-க்கு சொந்தமான சில்லறை வர்த்தக அடையாளம் (Isetan The Japan Store-ஐ இடம்பெறச் செய்கிறது) — உறுதிப்படுத்தப்பட்ட YTL சொத்து, YTL தாய்நிறுவன பெயர் காட்சியில் இல்லை
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL என்பது மலேசியாவின் மிகப்பெரிய பன்முகப்படுத்தப்பட்ட குழுமங்களில் ஒன்று; இதை ஒரு தனி நிறுவனமாக அல்ல, மாறாக உட்கட்டமைப்பை மையமாகக் கொண்டு உருவாக்கப்பட்ட பட்டியலிடப்பட்ட மற்றும் பட்டியலிடப்படாத வணிகங்களின் ஒரு குடும்பமாகப் புரிந்துகொள்வதே சிறந்தது.

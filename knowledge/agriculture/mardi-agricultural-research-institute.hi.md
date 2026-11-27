@@ -31,7 +31,7 @@ faq:
     a: "अनेक में से, MARDI ने MR शृंखला (जैसे MR 297 और MR 219), सुगंधित MRQ किस्में, और मलेशिया का पहला संकर चावल KADARIA 1 जारी किया है।"
 
 lang: "hi"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ wikidata: "Q6741932"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-and-food-security" }
   - { rel: "related-to", to: "malaysia-rice-industry" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["MARDI", "कृषि अनुसंधान", "agricultural research", "चावल किस्में", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "मलेशिया कृषि", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'मलेशिया में MARDI कृषि अनुसंधान संस्थान का मुख्य प्रवेश द्वार।'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: कैमरन हाइलैंड्स में एक ग्रीनहाउस के अंदर ऊँची सब्सट्रेट क्यारियों में उगाए गए स्ट्रॉबेरी के पौधों की कतारें
+    kind: representative
+    origin: third-party
+    subject: कैमरन हाइलैंड्स में ग्रीनहाउस के भीतर संरक्षित स्ट्रॉबेरी की खेती
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: Universiti Putra Malaysia के कृषि संकाय अनुसंधान फार्म पर चाँदी-मल्च वाली क्यारियाँ, नन्हे पौधे और ग्रीनहाउस वर्षा-आश्रय की कतारें
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई विश्वविद्यालय के कृषि अनुसंधान फार्म पर फसल क्यारियाँ और ग्रीनहाउस
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 मलेशिया में स्थानीय चावल का लगभग हर कटोरा MARDI के किसी क्षेत्र स्टेशन में नस्ल की गई किस्म तक जाता है। देश के धान, कुक्कुट, उष्णकटिबंधीय फल और प्रसंस्कृत-खाद्य शेल्फों के पीछे एक संघीय संस्थान बैठा है जिसका काम विज्ञान को उच्च उपज में बदलना है।

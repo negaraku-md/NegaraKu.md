@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아 국민, 영주권자, 생애 첫 주택 매수인, 그리고 외국인 매수인(추가 제한 및 세율 적용 대상)"
 
 lang: "ko"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ faq:
   - q: 매수인은 왜 한 번의 구입에서 두 세트의 법무 비용을 내게 되는 경우가 많습니까?
     a: 서로 다른 의뢰인을 대리하여 처리되는 두 개의 별도 문서가 병행으로 진행되기 때문입니다. 한 변호사는 부동산을 이전하는 매매계약을 작성하고 인지를 붙이며, 다른 한 변호사는 — 은행이 선임하며 때로는 같은 법무법인이 두 번째 역할을 맡기도 합니다 — 은행의 이익을 담보하는 대출계약과 저당권 설정(양식 16A)을 준비합니다. 은행 측 변호사는 매수인의 계약금이 아니라 은행의 저당권을 보호하므로, 양측의 역할과 비용은 별개입니다.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: '황혼 무렵 스름반 Cassia Homes 주택 개발지의 표지판이 있는 입구와 경비실로, 뒤편에 연립주택이 있다.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: 갓 지은 집들과 드러난 맨땅이 느그리슴빌란주 Kepayang Heights에 들어서는 신규 주택 개발을 보여준다. 구매자가 분양 갤러리의 도면을 보고 청약하는, 바로 그런 유형의 프로젝트다.
+    kind: representative
+    origin: third-party
+    subject: 느그리슴빌란주 Kepayang Heights에서 건설 중인 신규 주택 개발
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: 페낭주 스브랑 프라이 슬라탄의 Taman Idaman에 막 완공된, 모양이 균일한 유지 주택이 늘어선 거리. 열쇠를 넘겨받은 뒤 구매자가 입주하는 이런 완성 개발의 전형이다.
+    kind: representative
+    origin: third-party
+    subject: 페낭주 스브랑 프라이 슬라탄 Taman Idaman의 완공된 유지 주택
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 말레이시아의 주택 매수에는 보통 두 명의 변호사가 관여하지만, 대다수 매수인은 그들이 서로 다른 사람이라는 사실을 알아차리지 못합니다. 한 명은 부동산을 이전하는 매매계약을 작성하고 날인합니다. 다른 한 명은 — 은행이 지정하며, 때로는 같은 로펌이 — 대출이 상환되지 않을 경우 은행이 부동산을 압류할 수 있게 하는 대출과 담보권을 작성하고 날인합니다. 「그 변호사」를 이 이야기 속 한 명의 등장인물로만 생각하는 매수인은, 나중에 왜 두 벌의 법률 비용이 청구되었는지, 또는 왜 대출 승인 당일에 열쇠가 오지 않았는지 혼란스러워하는 사람이 되기 쉽습니다.

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Độc giả muốn nhận diện chín bang có Quân vương của Malaysia và hiểu vị thế hiến định của các Quân vương một cách mô tả — học sinh sinh viên, nhà nghiên cứu, nhà báo, công chức và độc giả phổ thông."
 
 lang: "vi"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'Cổng vòm nguy nga của Cung điện Quốc gia, với hai mái vòm củ hành vàng song sinh và cánh cổng mạ vàng mang huy hiệu hoàng gia, đứng trước bầu trời xanh trong.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: Toàn cảnh ban ngày cung điện quốc gia của Malaysia, một quần thể dài màu kem và trắng đội những mái vòm củ hành vàng óng nằm trên gò đất được tạo cảnh quan sau hàng rào bao quanh.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, cung điện quốc gia trên đường Jalan Tuanku Abdul Halim, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: Istana Negara cũ, một cung điện màu kem trang nghiêm với mái vòm nổi bật và mặt tiền vòm giữa cây xanh nhiệt đới, cung điện quốc gia trước đây của Malaysia nay được bảo tồn làm Bảo tàng Hoàng gia.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara cũ trên đường Jalan Istana, Kuala Lumpur, nay là Bảo tàng Hoàng gia (Muzium Diraja)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 Malaysia có mười ba bang, nhưng chỉ chín bang trong số đó có Quân vương trị vì. Bốn bang còn lại — Melaka, Pulau Pinang, Sabah và Sarawak — do các Thống đốc bang (Yang di-Pertua Negeri) được bổ nhiệm đứng đầu, chứ không phải một Quân vương.

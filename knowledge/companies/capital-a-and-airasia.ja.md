@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 
 status: "published"
 aiAssisted: true
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: '赤い塗装のエアアジアのエアバスA320（登録記号9M-AGP）が「Now Everyone Can Fly」のスローガンを掲げ、クアラルンプール国際空港のゲートに駐機している。'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: 機体にairasiaの文字を記し特別記念塗装をまとったエアアジアのエアバスA320ナローボディ機が、晴れた空の下、ランカウイ空港のエプロンに駐機する
+    kind: actual
+    origin: third-party
+    subject: 特別記念塗装をまとったエアアジアのエアバスA320(マレーシア登録記号9M-AQH)がランカウイ国際空港に駐機
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: 赤い塗装のエアアジア機がklia2格安航空ターミナルの搭乗ゲートに並び、長いターミナル建屋とボーディングブリッジが熱帯の空の下、エプロンに沿って延びる
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール国際空港の格安航空ターミナルklia2に駐機するエアアジア機。同社のマレーシアの主要拠点
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 長年、「AirAsia」と「Capital A」はほぼ同義語として使われてきた。数年にわたる再編を経て、現在はこの二つが別々の上場企業を指すようになっている。

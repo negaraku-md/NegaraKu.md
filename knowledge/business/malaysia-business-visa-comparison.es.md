@@ -105,6 +105,12 @@ keywords:
   - "MM2H platinum trabajo"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: 'Esto es para un empresario, inversor o jubilado extranjero que compara pases de largo plazo, en especial quien haya oído que MM2H le permitirá dirigir una empresa malasia.'
+  how: 'Haz coincidir el pase con la actividad que de verdad necesitas. El empleo por una empresa malasia se tramita a través del Employment Pass patrocinado por el empleador. La mayoría de los niveles de MM2H prohíben la actividad empresarial y profesional, mientras que el nivel superior la permite. La vía de visitante premium permite trabajar y hacer negocios legalmente. El titular de un Dependant Pass debe convertirlo en un Employment Pass para trabajar, porque solo puedes tener un pase a la vez; el cónyuge extranjero de un ciudadano malasio, en cambio, obtiene el derecho al trabajo mediante una anotación en un Long Term Social Visit Pass.'
+  cost: 'Cada vía conlleva sus propios umbrales de depósito fijo, cuota de participación, ingresos o salario, que se revisan con el tiempo, así que confirma las cifras vigentes en la página del propio organismo emisor —MOTAC para los niveles de MM2H y el PVIP, ESD e Immigration para el Employment Pass y el Dependant Pass— en lugar de una cifra citada.'
+  watch: '"MM2H te deja trabajar" solo es cierto para el nivel superior y es falso para el resto. Un Professional Visit Pass, incluido el DE Rantau, está limitado por cupo y no conlleva salario local, pues al titular se le sigue pagando desde el extranjero. Solo puedes tener un pase a la vez, de modo que un Dependant Pass es una conversión, no un añadido.'
+  next: 'Decide a partir de la actividad que necesitas —empleo, tu propia empresa, jubilación o condición de dependiente—, confirma que el pase la permite actualmente en la página del organismo emisor y luego solicítalo a través de ese organismo. Consulta las explicaciones del Employment Pass, MM2H y PVIP.'
 ---
 
 La pregunta detrás de cada uno de estos programas es la misma: **¿puedo trabajar realmente, o

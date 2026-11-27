@@ -22,7 +22,7 @@ verificationNeeded:
   - "The exact names of the state water companies for Pahang, Negeri Sembilan and Kedah are listed on the span.gov.my website but could not be fully extracted while this draft was prepared; this needs to be checked again directly at span.gov.my."
   - "The specific legislative frameworks of Sabah and Sarawak (the names of the relevant state enactments/ordinances) were not directly verified against an official source while this draft was prepared; PAAB confirms the general exclusion of both states from the PAAB model, but the full legislative details need to be re-checked."
 lang: "es"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["suministro de agua Malasia", "Air Selangor", "Ranhill SAJ", "PBAPP", "abrir cuenta de agua", "empresa estatal de agua", "factura de agua Malasia", "SPAN", "nueva conexión de agua"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'El embalse de la presa de Babagon en Sabah, una fuente de agua cruda para el suministro de agua potable tratada, con un letrero informativo junto al agua.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: Un pequeño azud de hormigón y una estructura de control de agua con compuertas que cruza el Sungai Padang Matsirat en Langkawi, parte de la infraestructura de abastecimiento de agua de Malasia
+    kind: representative
+    origin: third-party
+    subject: Un azud fluvial y una estructura de control de agua en Sungai Padang Matsirat, Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: Un gran depósito de agua elevado de color blanco marcado con Taman Setia Tropika en Johor, que almacena agua tratada para el abastecimiento local
+    kind: representative
+    origin: third-party
+    subject: Un depósito de agua elevado en Taman Setia Tropika, Johor
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 Te mudas de Selangor a Johor. Tu cuenta bancaria sigue siendo la misma. Tu línea telefónica puede venir contigo. ¿Pero tu cuenta de agua? Esa no te sigue — porque la empresa que suministra agua a tu nuevo hogar es una empresa completamente distinta.

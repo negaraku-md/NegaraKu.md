@@ -34,7 +34,7 @@ faq:
     a: "Nó được dùng trong các nghi thức chuyển tiếp của đời người từ sinh đến tử, trong các nghi lễ thiêng và nghi thức chữa bệnh, và theo truyền thống gắn với truyền thống chiến binh Iban. Họa tiết của nó cũng được dệt thành sarong của phụ nữ, khố của đàn ông và áo choàng của pháp sư."
 
 lang: "vi"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ relations:
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
+hero: '/media/arts-culture/pua-kumbu/hero.webp'
+heroAlt: 'Một dải vải pua kumbu đỏ dài với họa tiết vàng được căng trên một khung dệt thắt lưng bằng gỗ bên trong một nhà dài Sarawak, với những chiếc chiếu dệt và một chiếc hộp đựng đồ Iban chạm khắc gần đó'
+heroCredit: 'BarbicanMan / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: Một mô hình người thật kích cỡ của một người thợ dệt Iban tóc dài ngả lưng vào một khung cửi thắt lưng, đang dệt một tấm pua kumbu ikat màu đỏ gỉ sắt và kem có những sợi dọc xòe ra về phía người xem
+    kind: actual
+    origin: third-party
+    subject: một mô hình trưng bày trong bảo tàng về một phụ nữ Iban đang dệt một tấm pua kumbu màu đỏ gỉ trên khung cửi thắt lưng, Bảo tàng Dệt Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 Một tấm vải mà người dệt không dám tạo ra nếu không có «sự cho phép» — hoa văn của nó được cho là đến trong giấc mơ, và có một thời nó gắn chặt với truyền thống chiến binh của cộng đồng tạo ra nó. Đó là pua kumbu.

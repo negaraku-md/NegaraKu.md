@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang ingin memahami jenis-jenis wayang Cina tradisional di M
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -63,6 +63,34 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: 'Enam pelakon opera Cina berkostum bersulam rumit dengan muka berinai dan hiasan kepala berhias di atas pentas berlatar naga emas; seorang jeneral berperisai hitam dan emas dengan bulu burung kuang tinggi berdiri di tengah'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: Dua pelakon opera Teochew di atas pentas festival pada waktu malam, seorang sarjana lelaki berjubah biru dan seorang watak wanita berwarna merah jambu terang, di hadapan latar 'Penang Dialect Theater' yang dipenuhi aksara Cina
+    kind: actual
+    origin: third-party
+    subject: Opera jalanan Teochew ketika Tahun Baharu Cina, George Town, Pulau Pinang, 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: Seorang pelakon opera jalanan Cina berjubah putih dan bertopi hitam bermanik, bersolek pentas dan bercermin mata, mencondongkan badan ke arah lampu kecil untuk membaca skrip di belakang pentas dalam cahaya malap yang hangat
+    kind: actual
+    origin: third-party
+    subject: Pelakon opera jalanan Cina berkostum mengkaji skrip di belakang pentas, Malaysia
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 Gong dan gendang berbunyi, lengan baju panjang yang melambai-lambai di atas pentas — namun tempat duduk penonton di bawah selalunya hanya diisi oleh beberapa orang sahaja, kadangkala tiada seorang pun. Ini bukan persembahan yang gagal, kerana wayang ini sememangnya bukan dipentaskan untuk ditonton manusia.

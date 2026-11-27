@@ -25,7 +25,7 @@ verificationNeeded:
   - "ஒரு குறிப்பிட்ட ஓட்டுநர் தேவை (எடுத்துக்காட்டாக, குறைந்தபட்ச வயது) பொருந்துமா என்பதை JPJ அல்லது தனிப்பட்ட இ-ஹெய்லிங் இயக்குநரிடம் உறுதிசெய்ய வேண்டும்; ஏனெனில் ஆய்வு செய்யப்பட்ட அதிகாரப்பூர்வப் பக்கங்களில் அது உறுதிசெய்யக்கூடிய வடிவில் குறிப்பிடப்படவில்லை"
 
 lang: "ta"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'சாலையில் பச்சை நிற Grab Electric அலங்காரம் மற்றும் ''0 percent emisi'' என்ற கோஷத்துடன் குறிக்கப்பட்ட ஒரு வெள்ளை ஹூண்டாய் ஐயோனிக் எலெக்ட்ரிக் (Hyundai Ioniq Electric) கார்.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: சபாவின் கோத்தா கினபாலுவில் ஒரு தெருவில் பச்சை நிற Grab வாகன அழைப்பு சேவை அடையாள மூடி மற்றும் மலேசியக் கொடிகளுடன் செல்லும் ஒரு சேடான்.
+    kind: actual
+    origin: third-party
+    subject: சபா, கோத்தா கினபாலுவில் Grab அடையாள வண்ண கார்
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: சபாவின் கோத்தா கினபாலுவில் 2023 தேசிய தின அணிவகுப்பில் அணிவகுத்துச் செல்லும் Grab நிறுவன அடையாளக் குழு.
+    kind: actual
+    origin: third-party
+    subject: கோத்தா கினபாலுவில் தேசிய தின அணிவகுப்பில் Grab குழு
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 கோலாலம்பூரில் Grab-ஐயோ, Bolt-ஐயோ, அல்லது inDrive-ஐயோ திறந்து “பதிவு செய்”

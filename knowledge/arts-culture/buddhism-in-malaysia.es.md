@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,32 @@ faq:
   - q: ¿Qué conmemora el Wesak? ¿Es un día festivo?
     a: El Wesak (Día de Wesak) conmemora el nacimiento, la iluminación y el paso al nirvana de Buda, y es un día festivo de ámbito nacional en Malasia. Los fieles acuden a los templos para ofrecer flores, encender lámparas y dar limosna. La libertad religiosa está protegida por el Artículo 11 de la Constitución Federal; aunque el Artículo 3 establece el islam como religión de la Federación, no impide que otras religiones se practiquen en paz.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'El templo budista Kek Lok Si en una ladera de Penang, con su amplio tejado de tejas doradas, terrazas escalonadas adornadas con farolillos rojos y una fuente-pagoda en el patio.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: La fachada y los tejados dorados y revestidos de azulejos, profusamente ornamentados, de un templo budista tailandés contra un cielo azul en Penang
+    kind: actual
+    origin: third-party
+    subject: Wat Chaiya Mangkalaram, un templo budista Theravada tailandés en George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: Una estatua sedente de Buda rodeada de abundantes crisantemos amarillos, blancos y rosados en una carroza de la festividad de Wesak
+    kind: actual
+    origin: third-party
+    subject: Una imagen de Buda engalanada con flores en una carroza del Día de Wesak en Wat Nikrodharam, Alor Setar, Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 En las laderas de Penang, la silueta de las pagodas del templo Kek Lok Si domina

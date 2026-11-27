@@ -34,7 +34,7 @@ faq:
     a: "Non. Bien que Monash, Nottingham, Xiamen et Heriot-Watt se regroupent autour de la vallée de Klang et de Putrajaya, EduCity Iskandar concentre plusieurs campus à Johor, près de Singapour, et Curtin et Swinburne opèrent au Sarawak."
 
 lang: "fr"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'Ceci s''adresse aux étudiants et aux parents qui évaluent un campus délocalisé d''université étrangère — un campus à l''étranger détenu à 100 % (Monash, Nottingham, Xiamen, Heriot-Watt et d''autres) qui délivre en Malaisie le diplôme propre de l''université d''origine.'
+  how: 'Choisissez en fonction de la marque de l''université d''origine, de l''emplacement du campus et de la spécialité ; les campus délocalisés se trouvent dans la Klang Valley, à Putrajaya, dans la zone EduCity Iskandar à Johor et à Sarawak. Le diplôme délivré est identique à celui de l''établissement d''origine, dispensé sur un campus malaisien.'
+  cost: 'L''attrait est d''obtenir un diplôme occidental ou chinois à des coûts locaux de scolarité et de vie, bien inférieurs à ceux d''études sur le campus d''origine à l''étranger — mais les frais varient selon l''établissement et le programme, confirmez donc les montants actuels auprès de chaque campus.'
+  watch: 'Le diplôme est transférable mais l''expérience est locale — la taille des classes, les installations et la vie de campus diffèrent largement entre un campus autonome et un campus partagé au sein d''une cité de l''éducation. Les programmes des campus délocalisés doivent eux aussi être accrédités par la MQA et figurer sur le MQR.'
+  next: 'Présélectionnez par spécialité et emplacement, vérifiez le programme exact sur le MQR, et confirmez l''agrément pour l''inscription d''étudiants internationaux auprès du campus. Voir Étudier en Malaisie et Universités publiques vs privées.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'Un bâtiment universitaire moderniste blanc à tour-horloge s''élevant au-delà d''un lac vert lisse comme un miroir bordé de verdure retombante et d''arbres sous un ciel spectaculaire'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: De grands blocs de campus beiges reliés par une passerelle surélevée vitrée, avec l'écusson Monash sur une tour et des palmiers dans la cour
+    kind: representative
+    origin: third-party
+    subject: les bâtiments du campus de l'antenne de Monash University Malaysia reliés par une passerelle vitrée, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Des bâtiments de campus blancs aux toits étagés de style chinois rouge derrière une place d'entrée à portail, sous un ciel partiellement nuageux
+    kind: representative
+    origin: third-party
+    subject: le portail principal à toit rouge et la tour administrative de la Xiamen University Malaysia, le premier campus outre-mer d'une université chinoise, à Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 En 1998, un étudiant à Kuala Lumpur pouvait obtenir un diplôme australien de Monash sans quitter le pays — et le payer aux prix malaisiens. Cet unique arrangement a lancé un modèle sur lequel le pays bâtit depuis : importer l'université, pas l'étudiant.

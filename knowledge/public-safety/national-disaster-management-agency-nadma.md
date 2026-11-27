@@ -78,6 +78,32 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'Air banjir menenggelamkan kawasan luar bandar semasa hujan monsun lebat di Sandakan, Sabah, Malaysia.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: Sebuah pasukan penyelamat air dalam bot berdasar rata meredah air banjir semasa operasi mencari dan menyelamat
+    kind: representative
+    origin: third-party
+    subject: Pasukan penyelamat banjir dalam bot semasa operasi mencari (perwakilan)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: Sebuah tembok perlindungan guni pasir yang dibina untuk menahan air banjir yang meningkat di sekeliling sebuah bangunan
+    kind: representative
+    origin: third-party
+    subject: Benteng perlindungan banjir guni pasir (perwakilan)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 Bila banjir besar melanda beberapa negeri sekaligus, siapa yang menekan butang untuk menyelaras tentera, bomba, polis dan sukarelawan di bawah satu arahan? Di Malaysia, jawapannya ialah NADMA.

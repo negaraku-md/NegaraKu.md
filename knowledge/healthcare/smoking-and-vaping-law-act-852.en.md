@@ -30,7 +30,7 @@ faq:
     a: "No. Act 852 bans the sale of all tobacco and vape products through online platforms and vending machines."
 
 lang: "en"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'A no-smoking sign in Malay, Chinese and English (Dilarang Merokok / No Smoking) in Malaysia'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: A no-smoking sign posted on a wall inside a restaurant in Johor Bahru, Malaysia, signalling a smoke-free premises
+    kind: actual
+    origin: third-party
+    subject: A no-smoking notice displayed in a restaurant in Johor Bahru, Malaysia
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: A close-up of a hand holding a vape device near a person's mouth, illustrating electronic cigarette use regulated under the law
+    kind: representative
+    origin: third-party
+    subject: A person holding an electronic cigarette (vape) device
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 For the first time, a cigarette and a vape device are subject to the same law in Malaysia — and the ban on selling to teenagers is no longer merely policy, but an offence punishable by thousands of ringgit in fines.

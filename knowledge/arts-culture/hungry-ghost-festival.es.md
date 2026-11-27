@@ -33,7 +33,7 @@ faq:
     a: "La 'puja' (puja por los objetos de la bendición) es una parte habitual de la cena posterior a la asamblea Ullambana: los organizadores sacan a subasta pública, una por una, las auspiciosas ofrendas de las mesas —fruta, arroz, bebidas y las barras de carbón llamadas 'oro negro', todos ellos 'objetos de la bendición'—, y quien ofrece el precio más alto se 'adjudica' cada una. Los ingresos se destinan en su mayoría a cubrir el costo del evento y a apoyar obras benéficas como las escuelas chinas, por lo que en Malasia el Festival de los Fantasmas Hambrientos tiene también un fuerte matiz de ayuda mutua comunitaria y beneficencia."
 
 lang: "es"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "El séptimo mes lunar (desde el primer día, cuando «se abre la puerta de los fantasmas», hasta el final del mes, cuando «se cierra la puerta de los fantasmas»); el día quince (día principal de Zhongyuan) marca el punto culminante de las ofrendas."
   holiday: "No es fiesta pública ni a nivel nacional ni en ningún estado de Malasia; las ofrendas, las ceremonias de Yulan Shenghui y los espectáculos de getai se celebran en su mayoría al atardecer y por la noche, tras la jornada laboral."
   etiquette: "En los espectáculos de getai, la primera fila de asientos se deja deliberadamente vacía, reservada a los invitados invisibles, y el público por lo general no se sienta en ella; la tradición popular también aconseja no pisar las ofrendas colocadas al borde del camino ni recoger objetos de valor que se encuentren en el suelo."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'Un escenario de festival bajo una carpa iluminado con arcos de neón rojo, paneles en forma de estrella y un letrero LED con caracteres chinos en movimiento por la noche durante el getai del séptimo mes'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: Una imponente efigie de papel de la deidad Da Shi Ye, con túnica azul, alzándose sobre un altar de varillas de incienso ardiendo, fruta y una urna de incienso durante el Festival de los Fantasmas Hambrientos en Malasia
+    kind: actual
+    origin: third-party
+    subject: Una gigantesca efigie de la deidad guardiana Da Shi Ye (Tai Su Yeah) sobre un altar de ofrendas en el templo Tow Boo Keong, Alor Setar, Kedah
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: Bandejas de arroz, platos, fruta y bebidas sobre la hierba, cada una atravesada por varillas de incienso rojas encendidas, dispuestas como ofrendas para el Festival de los Fantasmas Hambrientos
+    kind: representative
+    origin: third-party
+    subject: Ofrendas de comida al borde del camino con varillas de incienso dispuestas para los espíritus errantes durante el Festival del Séptimo Mes de los Fantasmas Hambrientos
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 Cuando llega el séptimo mes lunar, la escena nocturna de muchas esquinas de Penang, Klang y Johor cambia en silencio: al borde de la calle se disponen mesitas con fruta, arroz, té y fajos de papel dorado y plateado, mientras el incienso y las velas titilan en la penumbra del atardecer. En un descampado del barrio se levanta una efigie de papel de un dios de varios metros de alto y rostro severo, y frente a ella se monta un escenario; al caer la noche las luces se encienden con fuerza y resuenan los cantos, pero toda la primera fila de sillas al pie del escenario permanece vacía de principio a fin.

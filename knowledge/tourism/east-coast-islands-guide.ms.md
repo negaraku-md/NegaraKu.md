@@ -31,7 +31,7 @@ faq:
     a: "Tidak. Memancing dilarang di dalam sempadan taman laut, dan pengunjung tidak boleh mengutip mana-mana bahagian organisma marin — hidup atau mati — termasuk kepingan batu karang dan cangkerang, serta tidak boleh menyentuh, memijak atau merosakkan batu karang."
 
 lang: "ms"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pelancong pantai-dan-terumbu — penyelam snorkel dan penyelam yang mencari perjalanan pulau taman marin, dari pantai backpacker hingga resort pakej.'
+  getThere: 'Bot dari jeti tanah besar setiap pulau: Merang untuk Redang, Kuala Besut untuk Perhentian dan Marang untuk Kapas di Terengganu, dan Mersing atau Tanjung Gemok untuk Tioman di Pahang.'
+  permit: 'Caj pemuliharaan taman marin yang wajib, dibayar di kaunter dalam terminal jeti tanah besar sebelum menaiki bot dan berasingan daripada tambang bot anda.'
+  watch: 'Tiada penutupan wajib tunggal, tetapi kebanyakan pengendali pulau tutup secara sukarela sepanjang monsun timur laut, jadi menghampiri bulan-bulan itu sahkan pemindahan bot sebelum membayar.'
+  next: 'Sahkan yuran pemuliharaan dan peraturan taman marin semasa dengan Jabatan Perikanan Malaysia.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Pantai pasir putih yang lengang dengan batu granit lusuh, sepohon pokok dan air cetek biru kehijauan di bawah langit biru berawan kumulus di Pulau Perhentian'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Pantai pasir putih luas melengkung ke arah pulau kecil berbatu berhutan dengan air biru kehijauan dan pokok palma di Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: Pantai pasir putih panjang Pulau Redang dengan pulau batu di persisiran dan air biru kehijauan, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Pemandangan dari atas meliputi bumbung chalet kampung dan pokok palma ke teluk biru kehijauan cerah yang ditaburi bot kecil serta tanjung berhutan di Pulau Perhentian
+    kind: actual
+    origin: third-party
+    subject: Pemandangan dari atas kampung pantai dan teluk biru kehijauannya yang ditaburi bot di Pulau Perhentian, lokasi snorkel yang popular
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Sampai di sebuah resort pantai Redang pada bulan Disember dan besar kemungkinan anda akan mendapati bot telah tiada, jeti sunyi dan kedai menyelam tertutup. Pulau-pulau pantai timur beroperasi mengikut kalendar yang ditulis oleh laut, bukan oleh risalah pelancongan — dan mengikut satu set peraturan taman laut yang kebanyakan pengunjung kali pertama hanya ketahui di kaunter tiket.

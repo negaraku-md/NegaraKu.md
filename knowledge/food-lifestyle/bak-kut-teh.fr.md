@@ -104,6 +104,7 @@ dishFacts:
   halal: "En tant que plat de porc, le bak kut teh n'est pas halal : il est construit autour de côtes et d'os de porc, les musulmans n'en mangent donc pas, et il est cuisiné et vendu dans les cafés chinois plutôt que dans des établissements certifiés halal. Pour ceux qui ne mangent pas de porc mais veulent l'expérience de la soupe aux herbes, certains cuisiniers préparent une version au poulet parfois surnommée 'chik kut teh' — un plat distinct plutôt qu'un bak kut teh certifié halal."
   eat: "C'est un repas partagé, pris assis, généralement au petit-déjeuner ou au déjeuner. Le bouillon et la viande arrivent dans une marmite en terre cuite ou un bol avec du riz blanc nature, et l'on y trempe des morceaux déchirés de you char kway (beignets de pâte frits). Une soucoupe de sauce soja foncée au piment padi et à l'ail sert à tremper la viande, tandis qu'une théière de thé chinois, souvent un oolong torréfié, est versée tout au long du repas pour trancher la richesse."
   where: "Klang, dans le Selangor, en est le cœur malaisien, mais on le trouve cuisiné et vendu dans les cafés et restaurants chinois plutôt que dans des lieux halal comme les bazars du Ramadan. En février 2024, il a été classé nourriture du patrimoine national malaisien au titre de la Loi sur le patrimoine national de 2005 (Act 645)."
+wikidata: "Q983160"
 ---
 
 Peu de plats s'annoncent comme le bak kut teh. Avant de le voir, on le sent : un nuage

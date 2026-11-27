@@ -31,7 +31,7 @@ faq:
     a: "得奖者获颁国家荣誉状（Warkah Penghormatan Negara）、现金RM60,000、价值高达RM500,000（多达50,000册）的出版拨款、在政府医院头等病房的免费医疗，以及每月RM5,000的津贴。"
 
 lang: "zh"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: '吉隆坡的语文出版局（Dewan Bahasa dan Pustaka）大楼，弧形外墙上绘有一幅描绘马来西亚生活的大型壁画，旁边红色办公塔楼上能看到部分名称。'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: 成群读者在马来西亚国际书展上翻阅一排排堆满书籍的出版社摊位
+    kind: actual
+    origin: third-party
+    subject: 参观者在 2023 年吉隆坡国际书展（Pesta Buku Antarabangsa Kuala Lumpur）摊位前选购
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: 吉隆坡的马来西亚国家图书馆大楼，顶部覆有一幅别具一格的蓝色宋吉（songket）纹样屋顶
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡马来西亚国家图书馆（Perpustakaan Negara Malaysia），以宋吉（songket）为灵感的帐篷式屋顶
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 早在小说出现之前，也早在语文局成立之前，一位说书人（penglipur lara）就已在马六甲宫廷的庭院里传颂马来英雄。正是从那口头传统中，孕育出这一地区最丰厚的文学遗产之一——一个如今以国家封号、数十万令吉奖金以及在民族文明中的尊荣席位来礼赞的传统。

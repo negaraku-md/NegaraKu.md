@@ -30,7 +30,7 @@ faq:
     a: "Menurut JKKN, DKK 1971 menjadi landasan bagi Dasar Kebudayaan Negara (DAKEN) 2021 yang berlandaskan tujuh pilar dengan masa pelaksanaan 2021-2025. JKKN turut menyatakan DKK 1971 tidak pernah disahkan secara resmi di tingkat Kabinet, meskipun ia memandu administrasi selama kira-kira 50 tahun."
 
 lang: "id"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'Pintu masuk utama Istana Budaya, teater nasional, dengan atap sirih junjung yang melengkung luas, lambang teratai emas dan tangga lebar menuju pintu kayu berukir.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: Sekelompok penari berbusana tradisional Sarawak mementaskan tarian rakyat di atas panggung untuk penonton
+    kind: actual
+    origin: third-party
+    subject: Penampil berbusana tradisional mementaskan tarian rakyat Sarawak pada sebuah pergelaran budaya di Malaysia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: Bagian depan Museum Nasional Malaysia, sebuah bangunan dengan atap melengkung gaya Minangkabau dan panel mural mozaik yang besar
+    kind: actual
+    origin: third-party
+    subject: Museum Nasional Malaysia (Muzium Negara) di Kuala Lumpur, dengan atap gaya Minangkabau dan mural mozaik warisan
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 Pada 1971, kira-kira dua tahun setelah [peristiwa 13 Mei 1969](/id/malaysia/13-may-1969), sekelompok sarjana, pegiat seni, dan pemimpin berkumpul di Universiti Malaya untuk menjawab satu pertanyaan yang sulit bagi sebuah negara multietnis: apa yang dimaksud dengan "kebudayaan kebangsaan"? Jawaban yang dihasilkan — Dasar Kebudayaan Kebangsaan (DKK) — masih menjadi rujukan kebijakan hingga saat ini, sekaligus masih menjadi bahan perdebatan.

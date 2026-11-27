@@ -37,7 +37,7 @@ faq:
     a: "Presque tout le monde prend l'avion. Aucune route ne mène dans le parc, aussi les visiteurs prennent-ils un court vol en petit avion jusqu'à l'aéroport de Mulu, le plus souvent depuis Miri au Sarawak, d'autres services le reliant à la région. À l'arrivée, vous vous enregistrez au siège du parc près de l'aéroport. Comme les sièges, les chambres et les activités guidées sont limités, réservez vols, hébergement et circuits ensemble et bien à l'avance (mulupark.com ; Wikipedia)."
 
 lang: "fr"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,9 +81,42 @@ sources:
 
 entity: "Gunung Mulu National Park"
 wikidata: "Q61535"
-related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "sabah-visitor-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'Spéléologues, randonneurs aventureux et voyageurs amoureux de la nature qui composent un itinéraire à Bornéo — karst classé au patrimoine mondial de l''UNESCO, grottes aménagées aux dimensions record et sortie des chauves-souris de la Deer Cave.'
+  getThere: 'Uniquement par petit avion — aucune route n''y mène : prenez un vol pour l''aéroport de Mulu (en général le court saut depuis Miri), puis inscrivez-vous au quartier général du parc.'
+  permit: 'Inscrivez-vous au QG du parc ; les grottes aménagées, la spéléologie d''aventure et les Pinnacles exigent tous des guides agréés et une réservation anticipée — réservez des semaines, voire des mois à l''avance.'
+  watch: 'Forêt tropicale équatoriale sans saison sèche fiable — l''ascension des Pinnacles et la sortie des chauves-souris dépendent de la météo et sont annulées en cas de fortes pluies, prévoyez donc des jours de battement, et les limites de bagages des petits avions s''appliquent.'
+  next: 'Confirmez les vols, hébergements, règles d''activités guidées et tarifs en vigueur auprès du site officiel du parc (mulupark.com) et du Sarawak Tourism Board.'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Un champ de pinacles de calcaire gris déchiquetés perçant la forêt tropicale verte sur un flanc de montagne brumeux au parc national de Gunung Mulu, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Énorme bouche de grotte sombre s'ouvrant dans des falaises calcaires abruptes drapées de forêt tropicale, à Deer Cave, parc national du Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: La vaste entrée de Deer Cave, l'un des plus grands passages de grotte au monde, encadrée par de hautes falaises calcaires couvertes de jungle au Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Salle de caverne doucement éclairée aux parois de roche claire et lisse, avec une rivière souterraine paisible à l'intérieur de Clearwater Cave, Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: L'intérieur éclairé de Clearwater Cave avec sa rivière souterraine, qui fait partie de l'un des plus longs réseaux de grottes d'Asie du Sud-Est au Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 Au cœur de la forêt tropicale du Sarawak, là où des montagnes calcaires s'élèvent tout droit hors de la jungle et où aucune route n'arrive, se trouve l'un des paysages les plus extraordinaires de Malaisie — et l'une des régions de grottes les plus étudiées de la planète. Le parc national du Gunung Mulu est l'endroit où l'on trouve la plus grande chambre de grotte du monde, un passage de grotte assez grand pour y faire voler un gros-porteur, un fleuve nocturne de millions de chauves-souris, et une forêt de sommet de lames calcaires assez acérées pour déchiqueter une chaussure. Il est aussi véritablement reculé : vous arrivez en petit avion, vous allez presque partout avec un guide, et vous réservez des mois à l'avance. Ce guide couvre ce qu'est Mulu, ce qu'il y a à voir sous et sur terre, les deux grands treks, le fonctionnement de l'accès, et les erreurs des débutants.

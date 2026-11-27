@@ -87,6 +87,14 @@ verificationNeeded:
   - "أصل تسمية كعكة sugee وتصنيفها (كعكة احتفالية من السميد والزبدة؛ يُرجَع اسمها عادةً إلى الكلمة الجنوب آسيوية التي تعني السميد، وتُقارَن الوصفة بكعكة Madeira البريطانية) — تحقَّق بمصدر في تاريخ الطهو."
   - "سنة تأسيس Portuguese Settlement (يُذكَر عادةً 1933) والادّعاء بأن عدة أطباق منزلية مثل pang susi وأطباق الأحشاء باتت نادرة — تحقَّق بمصدر أوّلي أو تراثي."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'شريحة من كعكة السوجي (السميد) الرطبة ذات القشرة الذهبية على طبق أبيض مع شوكة'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 اطلب كاريًا في مطبخ ملايوي بملقا فتتذوّق جوز الهند وعشبة الليمون. اطلب آخر على بُعد

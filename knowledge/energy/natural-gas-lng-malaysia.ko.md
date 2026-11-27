@@ -34,7 +34,7 @@ faq:
     a: "제3자 접근(Third Party Access, TPA)은 PETRONAS뿐 아니라 자격 있는 수송사가 동일한 조건으로 재기화 터미널, 송출 파이프라인, 배급 파이프라인의 용량을 예약할 수 있게 합니다. 2017년 1월 16일 가스공급(개정)법(Gas Supply (Amendment) Act 2016) 아래 시작되었으며 에너지위원회가 규제합니다."
 
 lang: "ko"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,32 @@ relations:
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: '말레이시아 빈툴루의 얕은 연안 바다 위로 배관과 부두가 설치된 해상 액화천연가스 선적 터미널.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: 트인 수면을 항해하는 대형 액화천연가스 운반선. 긴 갑판에 큰 단열 화물탱크 구조물과 배관이 늘어서 있고 맑은 하늘 아래 항적을 남긴다
+    kind: representative
+    origin: third-party
+    subject: 말레이시아산 LNG를 해외 수요처로 실어 나르는 유형의 액화천연가스 운반선
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: 높은 증류탑, 은색 구형 저장탱크, 플레어스택, 빽빽한 배관망을 갖춘 광활한 육상 가스 처리 터미널. 개간된 해안 부지에 자리하고 뒤로 언덕이 펼쳐진다
+    kind: actual
+    origin: third-party
+    subject: 사바주 키마니스의 사바 석유가스 터미널(SOGT). 페트로나스의 육상 가스 처리 시설
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 슬랑오르의 발전소가 가동되거나 페낭의 장갑 공장이 오븐을 데울 때마다, 그 가스는 대개 수백 킬로미터 떨어진 곳 — 트렝가누 앞바다나 남중국해 건너 사라왁 — 에서 여정을 시작했을 것입니다. 말레이시아는 동시에 헤비급 가스 수출국이자 점점 더 가스 수입국이며, 그 두 사실을 조화시키는 파이프와 터미널은 이 나라에서 가장 값진 에너지 자산에 속합니다.

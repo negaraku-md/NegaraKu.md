@@ -33,7 +33,7 @@ faq:
   - q: "Apa yang terjadi pada kedua kelompok itu pada akhirnya?"
     a: "Baik Negeri-Negeri Melayu Bersekutu maupun Tidak Bersekutu dibubarkan ke dalam Malayan Union pada 1 April 1946, yang sendirinya digantikan dalam beberapa tahun oleh Persekutuan Tanah Melayu."
 lang: "id"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'Fasad Moor yang panjang dari bata oker dan lengkungan putih, dimahkotai kubah tembaga dan menara jam tengah yang tinggi di bawah langit biru.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: Stasiun Kereta Api Ipoh kolonial berwarna putih berkilau, sebuah bangunan panjang bergaya Edwardian-Moor dengan barisan tiang berlengkung dan menara berkubah yang dibangun di bawah pemerintahan Britania di Perak.
+    kind: actual
+    origin: third-party
+    subject: Stesen Keretapi Ipoh, penanda era kolonial Britania di Perak
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: Fasad putih berornamen Stasiun Kereta Api Kuala Lumpur lama, sebuah bangunan kolonial Britania bergaya Moor dengan lengkungan tapal kuda, kubah kecil dan puncak menara menyerupai minaret yang rampung pada 1910.
+    kind: actual
+    origin: third-party
+    subject: Stesen Keretapi Kuala Lumpur lama (1910), sebuah terminus era Britania bergaya Moor
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 Sembilan negara bagian Melayu, satu kuasa penjajah — namun bukan satu susunan melainkan dua. Pembagian itulah hal yang paling kerap dilewati oleh kebanyakan ringkasan mengenai Tanah Melayu zaman kolonial, dan itulah keseluruhan inti artikel ini.

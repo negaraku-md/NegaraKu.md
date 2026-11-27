@@ -33,7 +33,7 @@ faq:
   - q: "¿Es el culto a Mariamman una religión aparte?"
     a: "No. El culto a Mariamman forma parte del hinduismo más amplio y, en particular, de la tradición shakta (shakti). A menudo se venera a Amman junto con las formas de la diosa Kali y Durga. En la comunidad hindú de Malasia, el culto a Amman se practica junto con el culto a Shiva y Murugan."
 lang: "es"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'El imponente gopuram esculpido del templo Sri Maha Mariamman en Kuala Lumpur, con su letrero que nombra el templo sobre hileras de figuras pintadas de deidades hindúes, con una calle y el tráfico delante.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: La torre gopuram esculpida del templo de Mariamman en George Town, cubierta de figuras de deidades hindúes pintadas con vivos colores
+    kind: actual
+    origin: third-party
+    subject: El templo Sri Mahamariamman en George Town, Penang, el templo hindú más antiguo de la ciudad dedicado a la diosa Mariamman
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: La sala de oración interior con columnas de un templo de Mariamman, con techos pintados y santuarios hacia el sanctasanctórum
+    kind: actual
+    origin: third-party
+    subject: La sala de oración interior del templo de Mariamman en George Town, Penang
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 Cerca de casi cualquier plantación de caucho antigua de Malasia, y a lo largo de las calles veteranas de los centros urbanos, se puede encontrar un templo de Mariamman. La estatua de Amman con su rostro de color amarillo ocre, y las fiestas que se celebran antes de la temporada de lluvias, no son casuales: llevan consigo más de un siglo y medio de historia y de tradición de fe de una comunidad tamil.

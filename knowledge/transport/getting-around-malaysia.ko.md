@@ -32,7 +32,7 @@ verificationNeeded:
   - "RTS Link의 2026년 말 목표일은 이 글 작성 시점의 운영사 자체 명시 목표이며, 국경 간 인프라 개통은 흔히 지연되므로 발행에 가까워졌을 때 다시 확인해야 함."
 
 lang: "ko"
-sourceContentHash: "cd13a733d0e3f471"
+sourceContentHash: "ea3244a7c962cd1b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,30 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
 framework: journey-hub
+hero: '/media/transport/getting-around-malaysia/hero.webp'
+heroAlt: '푸른 전원 지대를 가로지르는 West Coast 본선을 달리는 KTM ETS 도시 간 전동 열차의 공중 전경, 아래로 주택 단지와 놀이터가 보임'
+heroCredit: 'Hiroki.loh.st / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-1.webp
+    alt: 카락 분기점으로 다가가는 카락 고속도로를 운전자 시점으로 본 모습. 트멀로, 콴탄, 'Lebuhraya Pantai Timur'를 가리키는 초록 갠트리 표지판과 오토바이 운전자, 자동차들 — 도로로 말레이시아를 다니기. 철도 이미지와 구별되는 고속도로/운전 방식을 더함.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-2.webp
+    alt: 현대적인 고가 승강장(숭아이 불로)에 들어선, 화려한 캠페인 도색을 한 KTM ETS 93급 도시간 열차. 머리 위로 전차선이 지난다 — 말레이시아 도시간 철도의 역/승차 장면. 히어로의 탁 트인 전원 항공 전경과 다른 맥락.
+    kind: actual
+    origin: third-party
+    credit: Takeshi Aida / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg
 ---
 
 쿠알라룸푸르와, 이를테면 이포(Ipoh) 두 곳에서 모두 살아 본 사람에게 어떻게

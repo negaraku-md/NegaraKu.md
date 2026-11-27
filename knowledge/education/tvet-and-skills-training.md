@@ -65,6 +65,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'Pintu masuk dan papan tanda Kolej Vokasional Sungai Buloh, sebuah kolej vokasional Malaysia untuk latihan teknikal dan kemahiran (TVET).'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: Dewan tengah berbumbung Montfort Youth Training Centre, sebuah kampus latihan kemahiran vokasional di Kinarut, Sabah, dengan sepanduk pentas bertulis 'Through Work Achieve Success'.
+    kind: actual
+    origin: third-party
+    subject: Bahagian dalam sebuah pusat latihan kemahiran belia di Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: Laluan masuk berbumbung melengkung dan blok akademik moden di Politeknik Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Kampus sebuah politeknik di Malaysia (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 Ramai pelajar Tingkatan 3 dan ibu bapa mereka hanya nampak satu laluan selepas

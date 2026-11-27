@@ -33,7 +33,7 @@ faq:
     a: "Perlumbaan perahu naga antarabangsa Pulau Pinang mempunyai sejarah paling lama, diadakan selama bertahun-tahun di Empangan Teluk Bahang, menarik pasukan dari banyak negara dan wilayah; Putrajaya, Melaka dan tempat lain juga pernah mengadakan acara perahu naga yang besar. Perlumbaan sebegini kebanyakannya disokong oleh kerajaan negeri atau badan berkaitan, berfungsi sekaligus sebagai sukan pertandingan dan promosi pelancongan. Tarikh dan lokasi sebenar berbeza setiap tahun dan tertakluk kepada pengumuman penganjur."
 
 lang: "ms"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "Ditetapkan pada hari kelima bulan kelima kalendar lunar; tarikh dalam kalendar Gregorian berubah setiap tahun mengikut kalendar lunar, biasanya jatuh sekitar bulan Jun."
   holiday: "Bukan cuti umum — ia bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia, dan kebiasaannya kerja serta persekolahan berjalan seperti biasa."
   etiquette: "Sambutan keluarga kebanyakannya tertumpu pada satu jamuan zongzi pada hari perayaan; acara awam berskala besar seperti perlumbaan perahu naga sering diadakan pada hujung minggu atau hari berhampiran untuk memudahkan penyertaan orang ramai. Sesetengah keluarga menggantung 艾草 dan 菖蒲 di muka pintu, atau mencuba amalan menegakkan telur (立蛋) pada tengah hari perayaan, tetapi amalannya berbeza-beza antara keluarga."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'Sebuah perahu naga panjang kuning dan jingga dengan kepala naga berukir di haluan dan ekor berbentuk nyalaan, dipenuhi pendayung berjaket keselamatan di sepanjang jeti di tepi tanjung berhutan di Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: Deretan pendayung bertopi merah dan berbaju putih menolak pendayung mereka ke dalam air sambil dua perahu naga berkanopi berlumba di sepanjang terusan diperhatikan oleh orang ramai
+    kind: representative
+    origin: third-party
+    subject: Pasukan berlumba perahu naga berhias, pendayung memecah air, ketika regatta Perayaan Perahu Naga
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: Sebiji zongzi, dumpling pulut berbalut daun buluh, dibuka untuk menampakkan inti berperisa daripada perut babi masak, buah berangan dan kuning telur masin, di sebelah satu lagi yang masih berbalut
+    kind: representative
+    origin: third-party
+    subject: Sebiji zongzi (bak chang) dumpling pulut yang dibuka menunjukkan daging babi, buah berangan dan kuning telur masin, di sebelah satu lagi yang masih berbalut daun buluh
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 Menjelang hari kelima bulan kelima kalendar lunar, bau daun buluh dan pulut mula berlegar di dapur keluarga Cina. Para suri rumah menyusun pulut yang telah direndam serta inti yang digoreng harum lapis demi lapis ke dalam daun yang dilipat berbentuk corong, kemudian mengikatnya ketat dengan tali rumput, dan menurunkan rangkaian demi rangkaian ke dalam periuk untuk direbus lama. Sementara itu, di Empangan Teluk Bahang di hujung barat laut Pulau Pinang, perahu naga yang langsing membelah permukaan air; seorang pemukul gendang berdiri di haluan menabuh irama, dan berpuluh pendayung mendayung serentak mengikut rentak — inilah dua wajah Pesta Perahu Naga di Malaysia: di satu pihak keharuman zongzi di dapur, di pihak lain perlumbaan di atas air.

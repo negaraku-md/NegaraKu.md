@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre comment se joue le gasing, la différence entre le gasing pangkah et le gasing uri, et son lien avec le patrimoine de la Côte Est."
 
 lang: "fr"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -63,6 +63,34 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "jeu traditionnel malais", "patrimoine national", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Deux toupies malaises gasing en forme de disque en bois laqué rouge, chacune enroulée serré d''une corde de lancement blanche, posées sur une boîte noire sculptée et un tissu batik violet et or éclatant, avec une gasing plus lourde et unie à côté'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: Deux toupies gasing en bois clair fraîchement tournées, avec le classique corps en disque plat et le bouton central saillant, posées sur un lit de copeaux de bois à côté de leurs poignées de lancement cylindriques et lisses, baignées d'une lumière chaude
+    kind: actual
+    origin: third-party
+    subject: deux toupies gasing de style malais fraîchement tournées avec leurs piquets de lancement
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: Un garçon en survêtement orange se penche en avant tandis qu'il lance une toupie à l'aide d'une longue corde blanche sur une planche de bois, une toupie déjà en train de tourner reposant sur la planche, une foule de spectateurs l'observant attentivement derrière lui
+    kind: representative
+    origin: third-party
+    subject: un jeune concurrent lançant un gasing par sa corde lors d'un concours traditionnel de toupies
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 Le son arrive d'abord — du bois lourd frappant du bois lourd, suivi d'acclamations. Sur un terrain de village autour de Kuala Nerus, au Terengganu, deux groupes se font face. Un joueur lance sa toupie à l'aide d'une cordelette ; une autre tourne déjà, en attente au sol. Le gagnant n'est pas le plus rapide — c'est celui dont la toupie tourne encore après la frappe.

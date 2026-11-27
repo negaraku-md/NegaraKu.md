@@ -84,6 +84,13 @@ drinkFacts:
   halal: "air tebu はサトウキビの汁、氷、せいぜいライムで、アルコールを含まないので、飲み物そのものはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は個々の屋台で確認すべきだ。"
   served: "氷の上に冷たく、注文を受けて搾りたてで供される。素のまま、あるいは甘さを抑えるライムをひと搾りして頼む。塩漬けの梅を少し、または塩をひとつまみ加える屋台もある。天然の糖分が高い——甘い暑気払いの一杯で、ほどほどが一番だ。"
   where: "全国の pasar malam（夜市）、朝市、路傍の屋台、フードコート、ジュースバーで見かける——モーター式のローラー圧搾機のそばに積まれたサトウキビの茎の山を探すとよい。"
+hero: "/media/food/air-tebu/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "新鮮な緑のサトウキビジュース（air tebu）の水差しの横で、サトウキビを圧搾機で搾る屋台の売り子"
+heroCredit: "Gunawan Kartapranata / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG"
 ---
 
 マレーシアの暑い午後、一杯の **air tebu**——茎から搾りたてにされ、氷の塔の上に淡い緑色で

@@ -29,7 +29,7 @@ faq:
   - q: "JPJ กับ PUSPAKOM ต่างกันอย่างไร?"
     a: "JPJ เป็นกรมของรัฐที่จดทะเบียนยานพาหนะ ออกใบอนุญาตผู้ขับขี่ ออกภาษีถนน และบังคับใช้กฎหมายการขนส่งทางถนน ส่วน PUSPAKOM ไม่ใช่กรม — แต่เป็นผู้ให้บริการตรวจสภาพยานพาหนะที่ได้รับอนุญาต ซึ่งดำเนินการตรวจสภาพความพร้อมใช้งานบนถนนทางกายภาพที่ยานพาหนะเชิงพาณิชย์และยานพาหนะบางประเภทต้องผ่านก่อนที่ JPJ จะต่อภาษีถนนให้ JPJ อาศัยผลการตรวจสภาพ มันไม่ได้ตรวจสภาพยานพาหนะเอง"
 lang: "th"
-sourceContentHash: "09b2906afbab7e08"
+sourceContentHash: "900f59ff9bbb0ab3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,11 +86,29 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'เคาน์เตอร์บริการของสำนักงานสาขากรมการขนส่งทางบก JPJ พร้อมตรา JPJ และป้าย ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' เหนือห้องเคาน์เตอร์ผนังกระจก'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: ป้ายถนนมาเลเซียสีเขียวข้อความ 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' ตัวอักษรสีเหลือง พร้อมสัญลักษณ์รถบรรทุกสีน้ำเงิน 'Timbang' สะพานชั่งน้ำหนัก ชี้ไปยังสถานีบังคับใช้กฎหมายของ JPJ
+    kind: actual
+    origin: third-party
+    subject: ป้ายบอกทางสถานีบังคับใช้กฎหมายของ JPJ ข้อความ 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' พร้อมสัญลักษณ์รถบรรทุก-สะพานชั่งน้ำหนัก
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 คนส่วนใหญ่พบ **กรมการขนส่งทางถนน** ในช่วงเวลาเดียว — ตอนต่อภาษีถนน สอบใบขับขี่ หรือโอนรถมือสอง แต่ JPJ คือกรมที่อยู่เบื้องหลังทุกธุรกรรมเหล่านั้น **กรมการขนส่งทางถนน** (*Jabatan Pengangkutan Jalan* หรือ **JPJ**) เป็นหน่วยงานภายใต้ **กระทรวงคมนาคม (MOT)** ของมาเลเซีย มันจดทะเบียนยานยนต์และผู้ขับขี่ ออกใบขับขี่ ภาษีถนน และป้ายทะเบียน ออกใบอนุญาตยานพาหนะเชิงพาณิชย์ และบังคับใช้กฎหมายที่กำกับว่ายานพาหนะและผู้ขับขี่ใช้ถนนสาธารณะอย่างไร

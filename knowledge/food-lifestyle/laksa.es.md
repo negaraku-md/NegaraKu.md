@@ -100,6 +100,7 @@ dishFacts:
   halal: "Los estilos que describe el artículo se construyen sobre pescado, gambas y pollo más que sobre cerdo, y varios —como el laksa de Johor, de raíz malaya y asociado a la cocina del sultán Abu Bakar— se sitúan de lleno en la corriente halal. Pero con la herencia chino-peranakan presente en gran parte de la familia, la preparación varía según el cocinero, así que conviene preguntar en cada puesto."
   eat: "Cada cuenco se sirve sobre fideos —fideos gruesos de arroz para el asam laksa, fideos amarillos de huevo o vermicelli para el curry laksa, finos 'bihun' para el laksa de Sarawak, espaguetis para el laksa de Johor y láminas enrolladas y planas de harina de arroz para el laksam— y coronado con sus propias guarniciones de hierbas, brotes, marisco o pollo desmenuzado, con chile, sambal belacan o lima al gusto. El laksa de Johor se come a menudo con la mano."
   where: "El laksa se encuentra por toda Malasia, y cada estado se apoya en su propia despensa: Penang, en el norte, para el agrio asam laksa (y un 'curry mee' de coco); el Valle de Klang y Melaka para el curry laksa / laksa lemak; Kuching, en Sarawak, para el laksa de Sarawak de sambal belacan; Johor, en el sur, para el laksa de Johor a base de espaguetis; y Kelantan y Terengganu, en la costa este, para el laksam enrollado."
+wikidata: "Q934095"
 ---
 
 Pide un "laksa" en Penang y te sirven un caldo de pescado ácido y punzante que

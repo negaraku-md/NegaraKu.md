@@ -30,7 +30,7 @@ faq:
     a: "SJKC और SJKT के विद्यार्थी राष्ट्रीय माध्यमिक विद्यालय (SMK, जिसका शिक्षण माध्यम बहासा मलेशिया है) में या, कुछ SJKC विद्यार्थियों के लिए, राष्ट्रीय-प्रकार माध्यमिक विद्यालय (SMJK) में आगे बढ़ सकते हैं, जो एक सरकारी/सरकार-सहायता-प्राप्त विद्यालय भी है। प्राथमिक विद्यालय से राष्ट्रीय माध्यमिक विद्यालय में शिक्षण माध्यम का संक्रमण उन विद्यार्थियों के लिए संक्रमण कक्षाओं द्वारा समर्थित है जिन्हें इनकी आवश्यकता होती है।"
 
 lang: "hi"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "शिक्षण माध्यम", "KPM", "KSSR", "मलेशिया प्राथमिक विद्यालय"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'सबाह में एक मलेशियाई राष्ट्रीय प्राथमिक विद्यालय, सेकोलाह केबांगसान तुंगकू का एकमंज़िला भवन, जिस पर मलेशियाई झंडा फहरा रहा है और दीवार पर विद्यालय का आदर्श-वाक्य चित्रित है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: एक राष्ट्रीय-प्रकार के चीनी प्राथमिक विद्यालय, SJK(C) Chong San का भवन और नाम-पट्ट।
+    kind: actual
+    origin: third-party
+    subject: एक राष्ट्रीय-प्रकार का चीनी विद्यालय, पेराक के बागान दातोह में SJK(C) Chong San
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: एक राष्ट्रीय-प्रकार के तमिल प्राथमिक विद्यालय, SJK(T) Saraswathy का भवन और नाम-पट्ट।
+    kind: actual
+    origin: third-party
+    subject: एक राष्ट्रीय-प्रकार का तमिल विद्यालय, सुंगई बुलोह में SJK(T) Saraswathy
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 हर वर्ष, जब पंजीकरण अवधि खुलती है, पूरे मलेशिया में अभिभावक अपने बच्चे को वर्ष 1 के लिए पंजीकृत करने हेतु मलेशिया शिक्षा मंत्रालय (KPM) का idMe पोर्टल खोलते हैं। पहले जो चुनाव उन्हें करने होते हैं उनमें से एक है: SK, SJKC या SJKT?

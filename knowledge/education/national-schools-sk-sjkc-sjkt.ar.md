@@ -30,7 +30,7 @@ faq:
     a: "يمكن لتلاميذ SJKC وSJKT الاستمرار إلى مدرسة ثانوية وطنية (SMK، لغة تدريسها الملايوية) أو، لبعض تلاميذ SJKC، إلى مدرسة ثانوية وطنية نوعية (SMJK)، وهي كذلك مدرسة حكومية/مدعومة من الحكومة. والانتقال في لغة التدريس من المدرسة الابتدائية إلى المدرسة الثانوية الوطنية مدعوم بصفوف انتقالية للتلاميذ الذين يحتاجونها."
 
 lang: "ar"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["المدرسة الوطنية", "SJKC", "SJKT", "sekolah jenis kebangsaan", "لغة التدريس", "KPM", "KSSR", "المدارس الابتدائية الماليزية"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'مبنى من طابق واحد لمدرسة سكولاه كبانجسان تونغكو، وهي مدرسة ابتدائية وطنية ماليزية في ولاية صباح، يرفرف عليها العلم الماليزي، وشعار المدرسة مرسوم على جدارها.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: مبنى ولوحة اسم مدرسة ابتدائية صينية من النوع الوطني، SJK(C) Chong San.
+    kind: actual
+    origin: third-party
+    subject: مدرسة صينية من النوع الوطني، SJK(C) Chong San في باغان داتوك، بيراك
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: مبنى ولوحة اسم مدرسة ابتدائية تاميلية من النوع الوطني، SJK(T) Saraswathy.
+    kind: actual
+    origin: third-party
+    subject: مدرسة تاميلية من النوع الوطني، SJK(T) Saraswathy في سونغاي بولوه
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 في كل عام، حين تُفتح فترة التسجيل، يفتح أولياء الأمور في أنحاء ماليزيا بوابة idMe التابعة لوزارة التعليم الماليزية (KPM) لتسجيل أبنائهم في السنة الأولى. وأحد أول الخيارات التي عليهم اتخاذها: SK أم SJKC أم SJKT؟

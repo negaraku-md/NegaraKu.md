@@ -30,7 +30,7 @@ faq:
     a: "TNB เป็นเจ้าของและดำเนินการเครือข่ายกริดแห่งชาติที่ต้องได้รับการยกระดับเพื่อรองรับพลังงานหมุนเวียน สอดคล้องกับเป้าหมายของแผนที่การเปลี่ยนผ่านพลังงานแห่งชาติ (NETR)"
 
 lang: "th"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,9 +77,37 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-commission-suruhanjaya-tenaga", "glc-dominance-malaysian-economy"]
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: 'มุมมองทางอากาศของเขื่อนเกินเยอร์ คันดินหินถมสีเทาประดับคำว่า KENYIR สีขาวขนาดยักษ์ โรงไฟฟ้าพลังน้ำและสายส่งที่ฐาน พร้อมทะเลสาบเกินเยอร์ทอดอยู่ด้านหลัง'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: สำนักงานใหญ่ Tenaga Nasional Berhad ในย่านบังซาร์ กัวลาลัมเปอร์ เป็นอาคารสำนักงานสูงสีเทา บนหลังคามีโลโก้ TNB สีแดงและป้าย 'TENAGA NASIONAL' ส่องสว่างเหนือเส้นขอบฟ้าของเมือง
+    kind: actual
+    origin: third-party
+    subject: อาคารสำนักงานใหญ่ Tenaga Nasional Berhad ในย่านบังซาร์ กัวลาลัมเปอร์
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: โรงไฟฟ้า Connaught Bridge ในกลัง เป็นโรงไฟฟ้าอิฐแดงทอดยาวพร้อมปล่องไฟลายทางแดง-ขาวสูงใต้ท้องฟ้าสีฟ้าสดใส
+    kind: actual
+    origin: third-party
+    subject: โรงไฟฟ้า Connaught Bridge ของ TNB ในกลัง รัฐสลังงอร์
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 ทุกครั้งที่ไฟในบ้านของคุณสว่างขึ้นในคาบสมุทร มีความเป็นไปได้สูงที่ไฟฟ้านั้นไหลผ่านสายไฟที่เป็นของบริษัทเดียวเท่านั้น: Tenaga Nasional Berhad มันเป็นการไฟฟ้าที่ใหญ่ที่สุดของประเทศ ด้วยลูกค้ากว่า 11 ล้านรายในคาบสมุทรมาเลเซีย ซาบาห์ และลาบวน ณ วันที่ 30 กันยายน 2025

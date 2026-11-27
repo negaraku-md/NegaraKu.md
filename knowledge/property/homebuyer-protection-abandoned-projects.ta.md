@@ -33,7 +33,7 @@ faq:
     a: "தீர்ப்பாயத்தின் தீர்ப்பு இறுதியானதும் கட்டுப்படுத்தும் தன்மை கொண்டதும் ஆகும், மேலும் நீதிமன்ற உத்தரவைப் போல அமல்படுத்தப்படலாம். தீர்ப்பைப் பின்பற்றத் தவறுவது ஒரு குற்றமாகும், இதற்கு RM10,000 முதல் RM50,000 வரை அபராதம் அல்லது இரண்டு ஆண்டுகள் வரை சிறைத்தண்டனை, அல்லது இரண்டும் விதிக்கப்படலாம்."
 
 lang: "ta"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ entity: "Housing Development (Control and Licensing) Act 1966"
 relations:
   - { rel: "governs", to: "property-developers-malaysia" }
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
-related: []
+related: ["housing-developers-act-hda", "affordable-housing-schemes", "strata-management-jmb-mc"]
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'கொம்பாக்கில், முன்புறத்தில் மலேசியக் கொடிகளுடன், பசுமையால் மூடப்பட்ட கைவிடப்பட்ட முழுமையடையாத காங்கிரீட் பல மாடிக் கட்டிடம்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: மண்டிக் கிடக்கும் செடிகளுடனும் வெளித்தெரியும் செங்கல் சுவருடனும், கைவிடப்பட்டு பாழடைந்த ஒரு ஒற்றைத் தள வீடு
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், Desa Subang Permai இல் கைவிடப்பட்ட, முடிக்கப்படாத வீடு
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: மலாக்காவில் உரிந்த வண்ணப்பூச்சுடனும் வெற்று ஜன்னல் திறப்புகளுடனும் பழுதடைந்த ஒரு கைவிடப்பட்ட கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவில் பயன்பாடற்ற, கைவிடப்பட்ட கட்டிடம்
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 நீங்கள் வைப்புத்தொகையைச் செலுத்திவிட்டீர்கள், விற்பனை மற்றும் கொள்முதல் ஒப்பந்தத்தில் கையெழுத்திட்டீர்கள், வீட்டின் சாவிக்காகக் காத்திருக்கிறீர்கள் — பிறகு கட்டுமான தளம் பல மாதங்களாக அமைதியாக இருக்கிறது. தீபகற்ப மலேசியாவில் புதிய குடியிருப்பு வீடு வாங்குவோருக்கு, இதுபோன்ற ஒரு நிலை ஏற்படுவதற்கு முன்பும், அப்போதும், பின்பும் சட்டம் உண்மையில் பல அடுக்கு பாதுகாப்பை வழங்குகிறது. முக்கியமானது என்னவென்றால், எது பாதுகாக்கப்படுகிறது என்பதையும், ஏதேனும் தவறு நேரும்போது எங்கு செல்ல வேண்டும் என்பதையும் அறிந்திருப்பதே.

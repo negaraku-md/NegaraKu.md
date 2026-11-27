@@ -30,7 +30,7 @@ faq:
     a: "APM beroperasi di bawah Akta Pertahanan Awam 1951 (Akta 221), yang menetapkan tugasnya pada masa damai dan masa perang untuk melindungi nyawa dan harta benda."
 
 lang: "id"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'Sebuah truk penyelamat Angkatan Pertahanan Awam Malaysia (Pasukan Pertahanan Sipil Malaysia) yang membawa lambang APM, dengan seorang relawan berseragam di atasnya, saat parade di Kuantan, Malaysia.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: Sebuah menara pengawas penyelamat pantai Angkatan Pertahanan Awam (APM) di pesisir Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Menara pengawas penyelamat pantai APM (Angkatan Pertahanan Awam/Pasukan Pertahanan Sipil), Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: Sebuah menara penjaga pantai dan penyelamat pesisir Angkatan Pertahanan Awam yang menghadap pantai terbuka di Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Menara penjaga pantai pesisir APM yang menghadap pantai, Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 Ketika banjir besar melanda atau sebuah bangunan runtuh, salah satu pasukan pertama yang tiba dengan perahu, tali, dan peralatan penyelamat sering kali berseragam oranye APM. Angkatan Pertahanan Awam Malaysia (APM) adalah tulang punggung bantuan kemanusiaan negara — hadir sebelum, selama, dan setelah suatu bencana.

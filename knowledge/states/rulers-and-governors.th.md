@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: 'ซุ้มประตูพิธีการทรงโค้งโดมสีทองอันโอ่อ่าของพระราชวังอิสตานาเนอการา โดยมีพระราชวังหลวงทรงโดมและเส้นขอบฟ้าเมืองที่เต็มไปด้วยตึกสูงอยู่ด้านหลัง'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียมี 13 รัฐ แต่มีเพียงเก้าราชบัลลังก์ อีกสี่รัฐนำโดยบุคคลที่ไม่ได้ประทับบนราชบัลลังก์โดยตรง — เขาได้รับการแต่งตั้ง ดำรงตำแหน่งเป็นระยะเวลาจำกัด แล้วกลับไปเป็นสามัญชน

@@ -33,7 +33,7 @@ faq:
     a: "La course internationale de bateaux-dragons de Penang a l'histoire la plus longue ; elle se tient depuis des années au barrage de Teluk Bahang et attire des équipes de nombreux pays et régions ; Putrajaya, Malacca et d'autres lieux ont également accueilli de grands événements de bateaux-dragons. Ces courses bénéficient le plus souvent du soutien des gouvernements des États ou d'organismes associés, et allient le caractère de sport de compétition à la promotion touristique. Les dates et lieux exacts varient chaque année et dépendent des annonces des organisateurs."
 
 lang: "fr"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "Fixé au cinquième jour du cinquième mois du calendrier lunaire ; la date grégorienne correspondante varie chaque année selon le calendrier lunaire et tombe généralement au cours du mois de juin grégorien."
   holiday: "Ce n'est pas un jour férié — ce n'est un jour férié ni au niveau national ni dans aucun État de Malaisie ; le travail et les cours se déroulent normalement."
   etiquette: "Les célébrations familiales se concentrent surtout sur un repas de zongzi le jour même de la fête ; les grands événements publics comme les courses de bateaux-dragons sont souvent organisés le week-end ou à des dates voisines pour faciliter la participation du public. Certaines familles accrochent de l'armoise et de l'acore à leur porte, ou tentent de « faire tenir un œuf debout » à midi le jour de la fête, mais les pratiques varient d'une famille à l'autre."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'Un long bateau-dragon jaune et orange à tête de dragon sculptée à la proue et queue en forme de flamme, aligné de pagayeurs en gilets de sauvetage le long d''une jetée près d''un promontoire boisé à Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: Des rangées de pagayeurs coiffés de bonnets rouges et vêtus de chemises blanches plongent leurs pales dans l'eau tandis que deux bateaux-dragons à auvent s'affrontent le long d'un chenal devant une foule
+    kind: representative
+    origin: third-party
+    subject: Des équipes s'affrontent sur des bateaux-dragons décorés, pagaies brassant l'eau, lors d'une régate de la Fête des Bateaux-Dragons
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: Une boulette de riz gluant enveloppée de feuilles de bambou, ouverte pour révéler une garniture salée de poitrine de porc braisée, de châtaigne et de jaune d'œuf salé, à côté d'une boulette encore nouée
+    kind: representative
+    origin: third-party
+    subject: Un zongzi (bak chang), boulette de riz gluant, ouvert laissant voir le porc, la châtaigne et le jaune d'œuf salé, à côté d'un autre encore enveloppé de feuilles de bambou
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 À l'approche du cinquième jour du cinquième mois lunaire, l'arôme des feuilles de bambou et du riz gluant s'élève des cuisines des familles chinoises. Les maîtresses de maison garnissent, couche après couche, des feuilles pliées en entonnoir de riz gluant trempé et de garniture sautée et parfumée, puis les ficellent bien serré avec de la cordelette de jonc et les descendent dans la marmite, chapelet après chapelet, pour une longue cuisson. Au même moment, au barrage de Teluk Bahang, à la pointe nord-ouest de l'île de Penang, de minces bateaux-dragons fendent la surface de l'eau ; un tambour, debout à la proue, bat la mesure, et des dizaines de rameurs rament à l'unisson au rythme du tambour — ce sont là les deux visages de la fête des bateaux-dragons en Malaisie : d'un côté le parfum des zongzi dans la cuisine, de l'autre la course sur l'eau.

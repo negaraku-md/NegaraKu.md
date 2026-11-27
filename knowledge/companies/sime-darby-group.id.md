@@ -29,7 +29,7 @@ faq:
     a: "Dana investasi negara Malaysia, Permodalan Nasional Berhad (PNB), merupakan pemegang saham utama di seluruh perusahaan Sime Darby, dan PNB adalah penjual kepemilikan UMW yang diakuisisi Sime Darby Berhad. Persentase kepemilikan saham yang tepat berubah dari waktu ke waktu dan perlu diperiksa terhadap pengajuan Bursa Malaysia terkini setiap perusahaan."
 
 lang: "id"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,34 @@ relations:
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "Sime Darby demerger", "Permodalan Nasional Berhad", "UMW Holdings", "Bursa Malaysia conglomerate"]
 framework: profile
+hero: '/media/companies/sime-darby-group/hero.webp'
+heroAlt: 'Pilar masuk Sime Darby Plantation berwarna putih dan merah berlogo merah Sime Darby di tepi jalan masuk kebun, dibingkai deretan kelapa sawit di bawah langit biru cerah'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Ladang_Salak_Divisyen_Sendayan_(220709).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: Tangki penyimpanan minyak sawit mentah kelabu besar berlogo Sime Darby merah di sebuah kompleks industri di Kunak, Sabah, dengan sebatang pohon kelapa di latar depan
+    kind: actual
+    origin: third-party
+    subject: Tangki penyimpanan minyak sawit mentah (CPO) Sime Darby di Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: Tiang penanda Sime Darby Plantation putih berlogo Sime Darby merah berdiri di atas tanaman penutup tanah hijau di depan dinding pohon sawit, dengan kabel listrik membentang di atasnya
+    kind: actual
+    origin: third-party
+    subject: Penanda perkebunan Sime Darby Plantation di tepi jalan pada ruas jalan Sandakan–Lahad Datu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 Salah satu nama korporat tertua Malaysia kini menjadi tiga perusahaan, bukan satu.

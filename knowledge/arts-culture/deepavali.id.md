@@ -30,7 +30,7 @@ faq:
     a: "Pelita-pelita itu — pelita kecil dari tanah liat atau logam yang sering disebut diya — adalah inti visual sebuah 'pesta cahaya'. Sederetan pelita dinyalakan di pintu masuk dan jendela, mencerminkan makna nama pesta ini, 'sederetan cahaya'."
 
 lang: "id"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ festivalFacts:
   when: "Ditetapkan oleh kalender Hindu (Tamil) lunar, biasanya Oktober atau November; tanggal yang diwartakan bergeser setiap tahun dan ditandai sebagai dapat berubah."
   holiday: "Hari libur umum persekutuan yang diwartakan dan diamati di setiap negara bagian dan Wilayah Persekutuan kecuali Sarawak, yang mempertahankan jadwal hari libur umumnya sendiri."
   etiquette: "Pengunjung disambut di rumah terbuka; berpakaianlah sopan, lepaskan alas kaki sebelum memasuki rumah atau kuil, dan sedikit buah tangan berupa manisan merupakan isyarat yang lazim."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'Kolam merak warna-warni dari bubuk berwarna, dibingkai tepi putih dan dikelilingi pelita tanah liat kecil yang menyala, untuk Deepavali di Malaysia'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: Deretan lampion hias Deepavali berwarna kuning cerah tergantung di atas lorong ramai yang dipenuhi para pelancong di stasiun KL Sentral, Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Lampion Deepavali yang tergantung dan keramaian meriah di stasiun KL Sentral
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: Kolam raksasa bertema merak dengan warna mencolok yang dibuat dari serbuk berwarna di lantai mengkilap KL Sentral untuk Deepavali
+    kind: actual
+    origin: third-party
+    subject: Kolam lantai besar bertema merak di KL Sentral untuk Deepavali
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 Untuk satu malam, pelitalah yang berbicara. Sederetan pelita tanah liat kecil disusun di sepanjang pintu masuk dan bibir jendela, sebuah corak lantai dari beras atau serbuk berwarna dilukis di ambang pintu, dan sebuah rumah yang gelap sejam sebelumnya kini bergaris cahaya api. Di situlah asal nama pesta ini: *Deepavali* berasal dari kata Sanskerta bagi "sederetan atau rangkaian cahaya."

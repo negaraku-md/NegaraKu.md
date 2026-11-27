@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global",
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
+hero: '/media/companies/telekom-malaysia/hero.webp'
+heroAlt: 'ناطحة سحاب ميناره TM المنحنية المتناقصة ترتفع أمام سماء زرقاء وغيوم ركامية، عمودها الفقري الشفري العمودي يحمل شعار TM الأحمر والأزرق وشرفة سماء قرصية الشكل تبرز من الطوابق العليا'
+heroCredit: 'Shesmax / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: برج Menara TM المميّز المائل المنحني مع شعار TM على عموده العلوي ومنصة سماء على هيئة طبق، يرتفع على اليمين أمام سماء زرقاء بجوار برج مكاتب ثماني الأضلاع، مع جسر سكة حديد مرتفع يعبر المقدمة
+    kind: actual
+    origin: third-party
+    subject: Menara TM كما يُرى بجوار برج مجاور عبر طريق سريع مرتفع، مع ظهور شعار TM على قمته، Lembah Pantai، كوالالمبور
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: المنظر الكامل لواجهة Menara TM الفضية المنحنية وقمته الشفرية التي تعلوها منصة سماء على هيئة قرص، أمام سماء رمادية ملبّدة كثيفة فوق مبانٍ أقل ارتفاعًا في المدينة
+    kind: actual
+    origin: third-party
+    subject: منظر بالارتفاع الكامل لـ Menara TM ومنصة السماء على هيئة طبق طائر تحت سماء رمادية كئيبة، كوالالمبور
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 تكاد كل خط نطاق عريض بالألياف، ودائرة مؤسسية، وكابل بيانات تحت البحر في ماليزيا يمرّ بشركة واحدة قبل أن يصل إلى أي أحد آخر. تيليكوم ماليزيا برهاد (Telekom Malaysia Berhad، TM) هي الشركة الراسخة الوطنية — المشغّل الذي بنى معظم الشبكة الثابتة في البلاد ولا يزال يملك العمود الفقري الذي يعتمد عليه المنافسون والناقلون الدوليون.

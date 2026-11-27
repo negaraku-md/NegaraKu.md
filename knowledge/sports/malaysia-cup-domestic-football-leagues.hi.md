@@ -31,7 +31,7 @@ faq:
     a: "MFL ने AFC प्रारूप के साथ संरेखित करने के लिए कैलेंडर स्थानांतरित किया। नया सीज़न मई 2024 में शुरू हुआ और अप्रैल 2025 में समाप्त हुआ, जिसमें AFC एशियन कप, 2026 विश्व कप क्वालीफिकेशन और रमज़ान के महीने को ध्यान में रखा गया।"
 
 lang: "hi"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: '2017 मलेशिया कप मैच के दौरान पीले वस्त्र पहने पेराक फुटबॉल समर्थक स्टेडियम की दीर्घाओं को भर देते हैं।'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: Kelantan और Selangor के बीच Malaysia Cup 2012 के सेमीफाइनल के दौरान गेंद के लिए जूझते खिलाड़ी।
+    kind: actual
+    origin: third-party
+    subject: Kelantan और Selangor के बीच Malaysia Cup 2012 का एक सेमीफाइनल
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: Iskandar Puteri, Johor में Stadium Sultan Ibrahim के भीतर बैठने की कतारों और मैदान का दृश्य।
+    kind: actual
+    origin: third-party
+    subject: Stadium Sultan Ibrahim का भीतरी हिस्सा, एक अग्रणी मलेशियाई लीग क्लब का घरेलू मैदान
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 लगभग एक सदी तक, एक ही निकाय — मलेशिया फुटबॉल एसोसिएशन (FAM) — प्रत्येक राष्ट्रीय लीग मैच का आयोजन करता था। फिर, खेल को नया रूप देने वाले एक कदम में, लीगों को चलाने की शक्ति एक वाणिज्यिक कंपनी को सौंप दी गई। यही वह नींव है जिस पर मलेशियाई घरेलू फुटबॉल आज काम करता है।

@@ -25,7 +25,7 @@ verificationNeeded:
   - "Việc một yêu cầu cụ thể đối với người lái (như tuổi tối thiểu) có áp dụng hay không nên được xác nhận với JPJ hoặc đơn vị vận hành gọi xe điện tử riêng lẻ, vì nó không được nêu ở dạng xác nhận được trên các trang chính thức đã tham khảo"
 
 lang: "vi"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'Một chiếc xe Hyundai Ioniq Electric màu trắng mang màu sơn Grab Electric màu xanh lá và khẩu hiệu "0 percent emisi" trên đường.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: Một chiếc sedan dán decal màu xanh lá của dịch vụ gọi xe Grab cùng cờ Malaysia chạy trên một con phố ở Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Xe mang màu sơn Grab ở Kota Kinabalu, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: Một đoàn mang thương hiệu Grab diễu hành trong lễ diễu hành Ngày Quốc khánh năm 2023 ở Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Đoàn diễu hành Grab tại lễ diễu hành Ngày Quốc khánh ở Kota Kinabalu
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 Mở Grab, hoặc Bolt, hoặc inDrive, ở Kuala Lumpur và bấm "đặt xe". Không có gì về

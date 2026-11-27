@@ -36,7 +36,7 @@ lang: "ja"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -78,6 +78,34 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: '写真が飾られた工房で、枠に張った白い布に身をかがめ、細い筆で鮮やかな赤いハイビスカス風の花を緑の葉と金の輪郭とともに手描きするバティック職人'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: バティック布のクローズアップ。深い藍色の背景に、白い蝋防染の細い輪郭線と点状の装飾で描かれた、鮮やかな深紅の花が映える
+    kind: actual
+    origin: third-party
+    subject: トレンガヌ産の手描きマレーシア・バティック生地のクローズアップ。白い蝋防染の線で輪郭取りされた大きな赤い花が見える
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: 鮮やかな赤、紫、ピンク、緑、オレンジの多数のバティック布が列をなして吊るされ、それぞれ異なる花・葉・幾何学模様の蝋防染柄が施されている
+    kind: actual
+    origin: third-party
+    subject: トレンガヌの工芸カーニバルで棚に展示された、色とりどりの柄物マレーシア・バティック生地の反物
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 一枚の無地の白い布が枠に張られる。職人が小さな銅製のペン——canting、その筆先は鉛筆の先ほどの太さしかない——を、溶けた蝋の入った鍋に浸し、布地に直接描き始める。顔料ではなく、色を受け付けない蝋で描くのだ。蝋が冷えて固まってはじめて、布は染め液の中に入れられる。蝋のある場所には、染料は届かない——そして後にその蝋を煮て取り除くと、そこに残るのは色によって描かれた模様ではなく、色の不在によって描かれた模様である。

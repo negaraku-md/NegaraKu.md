@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,33 @@ relations:
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
 framework: profile
+hero: '/media/government/suhakam-human-rights-commission/hero.webp'
+heroAlt: 'クアラルンプールの曲線的な高層オフィスタワー、ムナラTHプルダナ。目立つ「MENARA TH PERDANA」の看板とガラス天蓋の入口をもち、SUHAKAM本部が入る'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: クアラルンプールの平和的な市民社会集会の参加者。人権の文脈を示す
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールの市民社会の集会(人権の文脈)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: 夜にクアラルンプールの通りを埋め尽くす平和的な公開集会。人権委員会が監督する諸自由を示す
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールの街路での平和的な公開集会(人権の文脈)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 何者かがSUHAKAMに人権侵害の苦情を申し立てたとき、この委員会は実際に何ができ、

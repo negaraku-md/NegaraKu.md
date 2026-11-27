@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "페낭 생활비를 클랑밸리와 비교하는 사람, 또는 이주, 임차, 창업에 앞서 페낭섬과 스브랑프라이 사이에서 결정하는 사람."
 
 lang: "ko"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: '황혼의 빽빽한 조지타운 스카이라인, 페낭 도심 위로 조명을 받은 콤타르 타워가 솟은 모습'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: 페낭주 조지타운 마칼럼 거리의 고층 주택. 도시 주거 모습을 보여 준다
+    kind: actual
+    origin: third-party
+    subject: 페낭주 조지타운 마칼럼 거리의 고층 공공주택
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: 페낭주 숭아이바캅 재래시장의 상인과 노점
+    kind: actual
+    origin: third-party
+    subject: 페낭주 숭아이바캅의 재래시장
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 페낭은 「생활비」를 단일 숫자로 답할 수 없는 유일한 말레이시아 주인데, 페낭이 한

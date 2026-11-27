@@ -37,7 +37,7 @@ faq:
     a: "ज़ी जिया ने 13 वर्ष की आयु से निकाय के साथ लगभग एक दशक रहने के बाद January 2022 में एक स्वतंत्र खिलाड़ी बनने के लिए BAM से इस्तीफा दे दिया। वह अपने प्रशिक्षण और अपनी रैंकिंग सुधारने पर ध्यान केंद्रित करना चाहते थे, और इस बात पर ज़ोर दिया कि चाहे राष्ट्रीय खिलाड़ी हो या स्वतंत्र खिलाड़ी, वे अब भी जलूर गेमिलांग (Jalur Gemilang) फहराते हैं।"
 
 lang: "hi"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "बैडमिंटन मलेशिया"
   - "badminton Malaysia"
@@ -101,6 +101,32 @@ keywords:
   - "Lee Zii Jia"
   - "ऑल इंग्लैंड चैंपियन मलेशिया"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'मलेशियाई बैडमिंटन सितारा ली चोंग वेई एक ओलंपिक मैच के दौरान फोरहैंड खेलने के लिए झपटते हैं।'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: कुआलालंपुर में Axiata Arena इनडोर स्टेडियम, 2017 SEA Games में बैडमिंटन के लिए इस्तेमाल किया गया स्थल।
+    kind: actual
+    origin: third-party
+    subject: Axiata Arena, Bukit Jalil खेल परिसर में राष्ट्रीय बैडमिंटन स्थल
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: मलेशियाई बैडमिंटन खिलाड़ी Hafiz Hashim 2008 Malaysia Open के एक मैच में शॉट के लिए झपटते हुए।
+    kind: actual
+    origin: third-party
+    subject: मलेशियाई एकल खिलाड़ी Hafiz Hashim 2008 Malaysia Open में खेलते हुए
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 May 1992 में, पूरा राष्ट्र एक पल के लिए ठहर गया। स्टेडियम नेगारा, कुआलालंपुर में, सिदेक बंधुओं के नेतृत्व में युवाओं की एक टीम ने इंडोनेशिया को हराकर थॉमस कप उठाया — और जैसा दातुक राशिद सिदेक ने कहा, "पूरा मलेशिया वायरल हो गया और हर कोई बैडमिंटन खेलना चाहता था।" तीन दशक बाद, ट्रॉफी अब भी नहीं लौटी है। मलेशियाई बैडमिंटन की कहानी शुरुआती गौरव, एक पीड़ादायक सूखे, और एक राष्ट्र की उम्मीदों को अपने कंधों पर उठाने वाले एक-दो चैंपियनों की कहानी है।

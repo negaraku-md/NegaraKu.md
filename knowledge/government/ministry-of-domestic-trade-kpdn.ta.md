@@ -27,7 +27,7 @@ faq:
   - q: "விலைகளைக் கட்டுப்படுத்த KPDN எந்தச் சட்டங்களைப் பயன்படுத்துகிறது?"
     a: "இது முக்கியமாக Control of Supplies Act 1961 மற்றும் Price Control and Anti-Profiteering Act 2011 ஆகியவற்றை நம்பியுள்ளது; இவை விலை உச்சவரம்புகளை நிர்ணயிக்கவும், விலைக் காட்சிப்படுத்தலைக் கோரவும், நியாயமற்ற உயர்லாபங்களுக்கு எதிராகச் செயல்படவும் அனுமதிக்கின்றன."
 lang: "ta"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "நுகர்வோர் புகார் வழி எண்கள் (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — ஹாட்லைன்கள் அவ்வப்போது மாறுவதால், kpdn.gov.my/bantuan-இல் தற்போதையவை என உறுதிப்படுத்தவும்."
   - "பிரிவுகளின்/bahagian துல்லியமான எண்ணிக்கை மற்றும் நிர்வகிக்கப்படும் சட்டங்களின் மொத்த எண்ணிக்கை — ஒரு உறுதியான எண்ணைக் கூறும் முன் உறுதிப்படுத்தவும்."
   - "தற்போதைய துணை அமைச்சர் மற்றும் செயலாளர்-நாயகம் — வெளியீட்டின் போது இன்னும் பதவியில் இருக்கிறார்களா என உறுதிப்படுத்தவும்."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "பின்னணி - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -74,12 +74,46 @@ sources:
   - title: "நுகர்வோரைப் பாதுகாத்தல் - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
+  - title: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சர் (மலேசியா) — பதவிப் பெயர் வரலாறு (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "பண்டிகைக் காலம் முழுவதும் விலை கையாடல் இல்லை என்பதை Ops Pantau KPDN உறுதிசெய்கிறது (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
-related: []
+related: ["competition-act-2010", "price-control-anti-profiteering-act", "franchise-registration-malaysia"]
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'Putrajaya-வில் நீண்ட மணற்கல் KPDN அமைச்சுக் கட்டிடத்தின் அகலமான முன்காட்சி; நடு நுழைவுக்கு மேல் ''Kementerian Perdagangan Dalam Negeri'' எழுத்துக்கள், வலது ஓரத்தில் வைர K சின்னம் கொண்ட உயரமான அலுவலகத் தொகுதி'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: புத்ராஜெயாவில் உள்ள மணற்கல் நிற KPDN அமைச்சகக் கட்டிடத்தின் முக்கால்-பகுதிக் காட்சி; அடர் கிரானைட் அடித்தளத்தில் தங்க நிற 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' எழுத்துகளுடன், நுழைவாயிலில் அமைச்சக-வண்ண பேருந்து நிறுத்தப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: அமைச்சக பலகை மற்றும் அமைச்சக பேருந்துடன் கூடிய KPDN கட்டிட நுழைவாயிலின் சாய்வுக் காட்சி, புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: புத்ராஜெயாவில் உள்ள KPDN அமைச்சகத்தின் படிநிலை, ஆர்ட்-டெகோ பாணி மணற்கல் கோபுரத்தின் கீழ்-கோணக் காட்சி; ஓரளவு மேகமூட்டமான வானத்திற்கு எதிராக அதன் மேலே நீல-தங்க வைர K அமைச்சக சின்னம்
+    kind: actual
+    origin: third-party
+    subject: வைர K சின்னத்தைச் சுமக்கும் KPDN அமைச்சகக் கட்டிடத்தின் படிநிலைக் கோபுரம், புத்ராஜெயா
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 சமையல் எண்ணெய்க்கு ஒரு வியாபாரி உங்களிடம் அதிக விலை வசூலிக்கும்போது, கட்டுப்பாட்டுப் பொருள் ஒன்றை அதன் உச்சவரம்பு விலைக்கு மேல் விற்கும்போது, அல்லது குறைபாடுள்ள ஒரு பொருளை மதிக்க மறுக்கும்போது — உங்கள் சார்பாகச் செயல்படுவதைப் பணியாகக் கொண்ட மத்திய அமைப்பு **KPDN** — அதாவது **உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*). இது உள்நாட்டு வர்த்தகத்தை வளர்க்கிறது, அன்றாட அத்தியாவசியப் பொருட்களின் விலைகளைக் கட்டுக்குள் வைக்கிறது, மேலும் நுகர்வோரைப் பாதுகாக்கிறது — உண்மையான சட்டங்கள், நேரடிப் புகார் வழிகள், மற்றும் சாதாரண வாங்குவோருக்காக உருவாக்கப்பட்ட ஒரு சிறு-உரிமைகோரல் தீர்ப்பாயம் ஆகியவற்றால் ஆதரிக்கப்படுகிறது.
@@ -89,6 +123,12 @@ framework: profile
 KPDN **27 அக்டோபர் 1990 அன்று நிறுவப்பட்டது**. விநியோக-வர்த்தகத் துறையில் குறிப்பாக, நுகர்வோரின் நலன்களையும் உரிமைகளையும் பாதுகாக்கும் அதே வேளையில், “நிலைத்தன்மையுள்ள, போட்டித்தன்மையுள்ள மற்றும் நீடித்த” உள்நாட்டு வர்த்தகத்தை மேம்படுத்துவதே அதன் அறிவிக்கப்பட்ட நோக்கமாகும். நடைமுறையில் அதன் பணி இரண்டு பகுதிகளாகப் பிரிகிறது: வர்த்தகக் கொள்கையை உருவாக்குதல் — அத்தியாவசியப் பொருட்களின் விலைகளை நிர்ணயித்து கண்காணிப்பதும், அத்தியாவசியப் பொருட்கள், பெட்ரோலியம் மற்றும் பெட்ரோ-வேதிப் பொருட்களின் விற்பனை மற்றும் விநியோகத்தைக் கட்டுப்படுத்துவதும் உட்பட — மற்றும் நுகர்வோர்மையம், இது நுகர்வோர் கல்வி, விழிப்புணர்வு, பாதுகாப்பு, மற்றும் நுகர்வோர் இயக்கத்திற்கான ஆதரவை உள்ளடக்குகிறது.
 
 அமைச்சு அதன் தற்போதைய பெயரை, “வாழ்க்கைச் செலவு” என்ற வலியுறுத்தலைச் சேர்த்து, **டிசம்பர் 2022-இல்** ஏற்றுக்கொண்டது. அதன் தலைமையகம் No. 13, Persiaran Perdana, Precinct 2, Federal Government Administrative Centre, 62623 Putrajaya-இல் உள்ளது. அமைச்சர் **Datuk Armizan Mohd Ali**, இவர் 30 ஜூலை 2023 முதல் அமைச்சை வழிநடத்தி வருகிறார்.
+
+## KPDN முன்பு என்ன பெயரில் இருந்தது: 1990 முதல் நான்கு பெயர்கள்
+
+KPDN நான்கு அதிகாரப்பூர்வ பெயர்களைச் சுமந்துள்ளது; ஒவ்வொன்றும் அந்தந்தக் காலத்தில் அது வகித்த பொறுப்புகளை பிரதிபலிக்கிறது. 27 அக்டோபர் 1990 அன்று வர்த்தகம்-தொழில்துறை அமைச்சிலிருந்து பிரிக்கப்பட்டு, உள்நாட்டு வர்த்தகம் மற்றும் நுகர்வோர் விவகார அமைச்சாக (Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna, KPDNHEP) நிறுவப்பட்டது. 2009-இல் கூட்டுறவுப் பொறுப்பை உள்வாங்கி, உள்நாட்டு வர்த்தகம், கூட்டுறவு மற்றும் நுகர்வோர்மைய அமைச்சாக (KPDNKK, ஆங்கிலத்தில் MDTCC எனக் குறிப்பிடப்படுகிறது) மாறியது. 2018-இல் கூட்டுறவு மீண்டும் வெளியேறி, அது KPDNHEP-க்குத் திரும்பியது. இறுதியாக, 3 டிசம்பர் 2022 அன்று, அது தற்போதைய பெயரையும் வாழ்க்கைச் செலவு குறித்த வெளிப்படையான பொறுப்பையும் ஏற்றது: உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN).
+
+நான்கு பெயர்கள் வழியாகவும் ஓடிய இழை ஒருபோதும் மாறவில்லை — உள்நாட்டு வர்த்தகமும் நுகர்வோர் பாதுகாப்பும் — ஆனால் 2022 பெயர்மாற்றம், அன்றாட அத்தியாவசியப் பொருட்களின் விலையைக் கட்டுக்குள் வைப்பது அந்த அமைச்சின் தனித்துவமான பொதுப் பணியாக மாறிவிட்டது என்பதைச் சுட்டிக்காட்டியது. எனவே ஆவணங்களிலோ செய்திகளிலோ KPDNHEP, KPDNKK அல்லது MDTCC என்ற பழைய சுருக்கங்களை நீங்கள் சந்தித்தால், அவை அதே அமைச்சையே அதன் முந்தைய கட்டத்தில் குறிக்கின்றன.
 
 ## விலைகளைக் கட்டுக்குள் வைக்க KPDN எந்தச் சட்டங்களைப் பயன்படுத்துகிறது?
 
@@ -105,6 +145,10 @@ KPDN மற்றும் அதன் முகமைகள் வர்த்
 | Franchise Act 1998 [Act 590] | உரிமையக (franchise) பதிவு மற்றும் ஒழுங்குமுறை |
 
 Act 122 மற்றும் Act 723-ஐப் பயன்படுத்தி, அரிசி, முட்டை, சமையல் எண்ணெய் மற்றும் கோழி போன்ற அத்தியாவசியப் பொருட்களின் விலைகளை நிலைப்படுத்த KPDN செயல்படுகிறது. இது **Ops Pantau** மற்றும் **Ops Menu** உள்ளிட்ட அமல்படுத்தல் செயல்பாடுகளை நடத்துகிறது, மேலும் பண்டிகைக் காலங்களில் தேர்ந்தெடுக்கப்பட்ட கட்டுப்பாட்டுப் பொருட்களின் விலைகளை மட்டுப்படுத்தும் பண்டிகைக்கால **Maximum Price Schemes** (*Skim Harga Maksimum Musim Perayaan*)-ஐ விதிக்கிறது — அக்டோபர் 2025 [தீபாவளி](/ta/arts-culture/deepavali) திட்டத்தின் போது நடந்தது போல. Act 723-இன் Section 10-இன் கீழ், பொருட்கள் அல்லது சேவைகளை விற்கும் எவரும் விலைகளைக் காட்சிப்படுத்த வேண்டும் என அமைச்சர் கோரலாம்.
+
+## விதிகளை உண்மையில் யார் அமல்படுத்துகிறார்கள்?
+
+அந்தச் செயல்பாடுகளுக்குப் பின்னால் அமைச்சின் அமல்படுத்தல் பிரிவு (Bahagian Penguatkuasaan) அமர்ந்துள்ளது; இது நாடு முழுவதும் மாநில அளவிலான அலுவலகங்களிலிருந்து செயல்படும் சீருடை அணிந்த அதிகாரிகளைக் கொண்ட பிரிவு. முக்கியமாக Price Control and Anti-Profiteering Act 2011 மற்றும் Control of Supplies Act 1961-இன் கீழ் செயல்பட்டு, அவர்கள் வளாகங்களைச் சோதித்து, விலைக் காட்சிப்படுத்தலைக் கட்டாயப்படுத்தி, பொருட்களைப் பறிமுதல் செய்து, உச்சவரம்பு விலைகளை மீறும் அல்லது அதிக லாபம் ஈட்டும் வியாபாரிகள் மீது வழக்குத் தொடர்கின்றனர். Ops Pantau போன்ற ஒரே பண்டிகைக்கால சோதனையின்போது, இந்தப் பிரிவு ஆயிரக்கணக்கான அதிகாரிகளைக் களமிறக்க முடியும் — 2026 செயல்பாட்டில் 2,400-க்கும் மேற்பட்டோர் பணியமர்த்தப்பட்டனர் — இதனால் பெரும்பாலான வியாபாரிகள் உண்மையில் சந்திக்கும் அமைச்சின் முகமாக இது அமைகிறது. உள்நாட்டு-வர்த்தக மேம்பாடு, வாழ்க்கைச் செலவுக் கண்காணிப்பு, நுகர்வோர்மையம், மற்றும் கீழே விவரிக்கப்படும் சட்ட மற்றும் தீர்ப்பாயப் பணிகள் ஆகியவற்றை உள்ளடக்கி, ஏறக்குறைய ஒரு டஜன் பிரிவுகளும் அலகுகளுமாக ஒழுங்கமைக்கப்பட்ட அமைச்சுக்குள் இந்தப் பிரிவு அமைந்துள்ளது.
 
 ## நீங்கள் ஏமாற்றப்படும்போது KPDN-ஐ உண்மையில் எப்படிப் பயன்படுத்துவது?
 

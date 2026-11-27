@@ -35,7 +35,7 @@ faq:
     a: "Chỉ ở các bang và lãnh thổ liên bang công bố công báo nó. Nó được nghỉ như ngày nghỉ lễ công cộng ở những nơi gồm Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor và Kedah, và không được công bố công báo là ngày nghỉ liên bang toàn quốc. Vì nó được ấn định theo từng đơn vị hành chính, danh sách chính xác có thể khác nhau qua từng năm — hãy luôn kiểm tra thông báo ngày nghỉ chính thức của bang liên quan."
 
 lang: "vi"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ festivalFacts:
   when: "Tháng Thai theo lịch Tamil — khoảng cuối tháng Một hoặc tháng Hai mỗi năm; ngày chính xác theo lịch Tamil."
   holiday: "Chỉ là ngày nghỉ lễ công cộng ở những bang và lãnh thổ liên bang có công bố (gồm Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor và Kedah) — không phải ngày nghỉ lễ liên bang trên toàn quốc."
   etiquette: "Người không theo Ấn Độ giáo được chào đón đến xem các đoàn rước và cuộc leo bậc thang; hãy ăn mặc kín đáo khi ở gần đền, cởi giày nơi được yêu cầu, và xin phép trước khi chụp ảnh những tín đồ mang kavadi."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Các tín đồ leo lên bậc thang sơn bảy sắc cầu vồng của Batu Caves hướng về ngôi đền trong hang động cầu kỳ bên dưới những vách đá vôi cao sừng sững trong dịp Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: Một đám đông dày đặc những người hành hương lấp đầy lối đi ở Batu Caves bên dưới pho tượng vàng khổng lồ của thần Murugan và những ngọn đồi đá vôi phủ rừng cây trong dịp Thaipusam
+    kind: actual
+    origin: third-party
+    subject: Đám đông người hành hương Thaipusam bên dưới pho tượng vàng thần Murugan ở Batu Caves
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: Một tín đồ Thaipusam nhìn từ phía sau vác trên vai một chiếc đòn kavadi treo lủng lẳng những chiếc chuông và mang một bình sữa bằng bạc trước một tháp cổng gopuram đền Hindu đầy màu sắc ở Ipoh, Perak
+    kind: actual
+    origin: third-party
+    subject: Một người vác kavadi mang bình sữa trong đoàn rước Thaipusam ở Ipoh
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 Trước bình minh, một ngọn đồi đá vôi ở rìa phía bắc Kuala Lumpur tràn ngập âm thanh — tiếng trống, tiếng tụng niệm, tiếng lê bước của hàng trăm nghìn bàn chân trần trên đá. Ở chân một cầu thang 272 bậc đứng một dáng hình vàng cao hơn một tòa nhà mười bốn tầng. Cuộc leo đã bắt đầu, và nó sẽ không dừng lại trong gần cả một ngày.

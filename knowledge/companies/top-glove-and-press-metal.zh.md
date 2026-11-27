@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: '手套生产线特写，一排手形模具涂着湿润的蓝色乳胶，滴入下方的蓝色液体盘中，背景是刚浸好的套在模具上的白色手套'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: 一名身穿白色实验室大褂、戴着护目镜和蓝色丁腈手套的技术员举起一只注满清水的透明手套检查是否渗漏，身后是实验室测试架上成排悬挂的手套
+    kind: representative
+    origin: third-party
+    subject: 实验室内一次性医用手套的质量检查（示意手套行业的质量测试；并非 Top Glove 的设施）
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 两家马来西亚公司在各自领域引领全球。一家是全球最大的一次性手套制造商；另一家是东南亚最大的原铝冶炼企业。在投资圈之外，两者都算不上家喻户晓，但顶级手套（Top Glove）与齐力工业（Press Metal）却展示了一个中等规模的经济体如何能够孕育出单一行业的全球领导者。

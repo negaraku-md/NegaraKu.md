@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera entender cómo se juega el gasing, la diferencia entre el gasing pangkah y el gasing uri, y su vínculo con el patrimonio de la Costa Este."
 
 lang: "es"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -63,6 +63,34 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "gasing uri", "gasing pangkah", "juego tradicional malayo", "patrimonio nacional", "Kuala Nerus", "gasing Kelantan", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'Dos trompos malayos gasing en forma de disco de madera laqueada en rojo, cada uno firmemente enrollado con cordel blanco de lanzamiento, apoyados sobre una caja negra tallada y una vívida tela de batik púrpura y dorada, con un gasing liso más pesado junto a ellos'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: Dos gasing (peonzas) de madera pálida recién torneada, con el clásico cuerpo de disco plano y la perilla central elevada, reposando sobre un lecho de virutas de madera junto a sus mangos de lanzamiento cilíndricos y lisos bajo una cálida luz solar
+    kind: actual
+    origin: third-party
+    subject: dos gasing (peonzas) de estilo malayo recién torneadas en madera con sus clavijas de lanzamiento
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: Un niño con chándal naranja se inclina hacia delante mientras lanza una peonza desde un largo cordel blanco sobre una tabla de madera; una peonza ya gira sobre el tablón mientras una multitud de espectadores observa atentamente tras él
+    kind: representative
+    origin: third-party
+    subject: un joven competidor lanzando un gasing con su cordel en un concurso tradicional de peonzas
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 El sonido llega primero — madera pesada golpeando madera pesada, seguido de vítores. En el campo de una aldea en torno a Kuala Nerus, Terengganu, dos grupos se plantan frente a frente. Un jugador lanza su trompo con una cuerda; otro ya está girando, esperando en el suelo. El ganador no es el más rápido — es aquel cuyo trompo sigue girando después del golpe.

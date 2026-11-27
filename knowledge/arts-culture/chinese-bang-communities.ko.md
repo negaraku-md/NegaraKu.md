@@ -33,7 +33,7 @@ faq:
     a: "방의 경계는 뚜렷이 흐려졌습니다. 방을 넘나드는 통혼, 도시화, 그리고 화어(표준중국어)가 화문 교육을 통해 방언을 넘어선 공통어가 되면서, 젊은 세대의 출신지 의식은 대체로 조부모 세대보다 약합니다. 그러나 방이 완전히 사라진 것은 아닙니다. 각지의 회관·동향회·종사(宗祠)·의산은 여전히 운영되고, 많은 사람이 자신의 출신지를 알고 있으며, 청명(성묘) 같은 자리에서도 그 영향이 보입니다. 방은 '사회를 조직하는 골격'에서 점차 '문화와 역사의 기억'으로 옮겨가고 있다고 할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,32 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: '페낭 조지타운(George Town)에 있는 화려하게 장식된 룡산통 쿠콩시(Leong San Tong Khoo Kongsi) 종친회 사당으로, 지붕 용마루에는 채색된 용과 인물상이 빼곡하고 그 아래에는 정교하게 조각되고 금박을 입힌 제례 전당이 있다.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: 쿠알라룸푸르 중심가에 자리한, 푸젠(복건) 회관이 들어선 전전(戰前) 시기의 노랑과 빨강 숍하우스 건물
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르 푸젠 회관(푸젠 방언 집단의 동향 회관) 건물, 쿠알라룸푸르 잘란 항 레키우
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: 스렘반 도심에 자리한, 한때 하카(객가) 회관이 들어섰던 화려한 신고전주의 양식의 3층 숍하우스
+    kind: actual
+    origin: third-party
+    subject: 옛 후이저우(혜주 하카) 회관 건물, 스렘반에 있는 하카 방언 집단의 동향 회관
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 페낭의 옛 거리에서 한 상점가를 통째로 떠받치는 것은 대개 푸젠인이 연 상점들입니다. 쿠알라룸푸르나 이포처럼 주석으로 흥한 도시에서는 광산과 동업 조합이 광부인과 커자인으로 북적였습니다. 그리고 어느 도시에 들어서든, 하이난 커피와 버터·카야를 바른 토스트를 파는 오래된 커피점 간판 뒤에는 흔히 하이난인이 서 있습니다.

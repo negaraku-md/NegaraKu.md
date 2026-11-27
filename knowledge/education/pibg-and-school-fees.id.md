@@ -29,7 +29,7 @@ faq:
     a: "Tidak. Pendidikan di sekolah dasar dan menengah negeri tidak mengenakan biaya pengajaran. Biaya khusus pun telah dihapus sejak 2008 melalui SPI Bil. 13/2007."
 
 lang: "id"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'Bangunan beratap merah yang rendah dan lapangan hijau sebuah sekolah dasar di Brickfields, Kuala Lumpur, berlatar cakrawala gedung pencakar langit KL Sentral.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: Gedung sekolah menengah bertingkat di Malaysia dengan halaman upacara berpaving
+    kind: representative
+    origin: third-party
+    subject: Gedung sekolah menengah kebangsaan di Malaysia (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: Para orang tua dan guru berkumpul di aula sekolah untuk rapat Persatuan Ibu Bapa dan Guru (PIBG)
+    kind: representative
+    origin: third-party
+    subject: Rapat umum Persatuan Ibu Bapa dan Guru (PIBG) di sebuah sekolah di Malaysia
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 Anak Anda didaftarkan ke sekolah negeri yang "gratis" — tetapi formulir PIBG dan daftar pembayaran tetap sampai ke rumah. Jadi apa sebenarnya yang wajib dibayar, dan apa yang tidak?

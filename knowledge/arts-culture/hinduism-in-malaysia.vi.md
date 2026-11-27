@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "vi"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: Vì sao người Hindu sống nhiều hơn ở các bang như Negeri Sembilan, Selangor và Perak?
     a: Các bang này trùng với những vùng đồn điền cao su và mỏ thiếc xưa — nơi công nhân Ấn Độ định cư với số lượng lớn trong thời kỳ thuộc Anh. Trong điều tra dân số năm 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%) và Perak (~9,7%) có tỷ lệ cao hơn. Phần lớn họ là con cháu của những người từ Nam Ấn sang làm việc tại đồn điền theo chế độ kangani.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'Tháp gopuram cao lớn, chạm khắc nhiều màu sắc của đền Sri Mahamariamman ở trung tâm Kuala Lumpur, dày đặc những tượng thần Hindu phía trên lối vào đền nơi du khách đứng.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: Tháp gopuram nhiều tầng của Đền Murugan Kallumalai ở Ipoh, Perak, được sơn màu rực rỡ và phủ kín các tượng thần Hindu.
+    kind: actual
+    origin: third-party
+    subject: Tháp gopuram nhiều màu sắc của Đền Murugan Kallumalai, Ipoh, Perak
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: Một hình kolam tinh xảo, nhiều màu sắc được bày trên sàn nhà cho dịp Deepavali, lễ hội Hindu chính ở Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Một hình kolam Deepavali (nghệ thuật trên sàn), Malaysia
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 Ở bất kỳ thành phố nào của Malaysia, bên rìa một đồn điền cao su cũ hay trên một

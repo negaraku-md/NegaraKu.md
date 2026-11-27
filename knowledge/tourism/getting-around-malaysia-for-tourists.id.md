@@ -116,9 +116,16 @@ sources:
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
-related: []
+related: ["malaysia-entry-visa-requirements", "e-hailing-grab", "domestic-ferries-and-island-transport"]
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'Seorang pelancong dengan koper beroda berdiri di loket tiket kereta bandara KLIA Ekspres berwarna merah muda di stasiun KL Sentral, dilayani petugas melalui kaca.'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anda mendarat di Bandara Internasional Kuala Lumpur pada tengah malam, lelah akibat jet lag, dan calo taksi sudah mulai berkeliaran. Kabar baiknya: Malaysia memiliki salah satu sistem transportasi paling ramah wisatawan di Asia Tenggara, dan Anda bisa menghindari kerumitan sepenuhnya — kereta api bandara yang cepat dan berharga tetap, aplikasi ponsel yang memanggil mobil bermeter, dan penerbangan domestik murah yang menjadikan Borneo hanya lompatan akhir pekan. Rahasianya adalah mengetahui moda mana yang perlu dipilih, dan kapan.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "Địa hình cao của dãy nằm dưới tầng bảo vệ nghiêm ngặt nhất của các quy định Khu vực Nhạy cảm về Môi trường của Malaysia, che chở các hệ sinh thái vùng cao và núi khỏi phát triển"
 appliesTo: "Độc giả muốn một giải thích rõ ràng, đã được kiểm chứng về Dãy Titiwangsa là gì, nó chạy ở đâu, và vì sao nó chia các con sông, khí hậu và khuôn mẫu định cư của Bán đảo Malaysia thành một phía bờ tây và một phía bờ đông."
 lang: "vi"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -60,6 +60,32 @@ relations:
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
 framework: profile
+hero: '/media/malaysia/titiwangsa-range/hero.webp'
+heroAlt: 'Những dãy núi xanh rậm rạp rừng cây nhấp nhô thành các đường sống núi xanh nhạt dần nối tiếp nhau về phía chân trời, dưới bầu trời xanh tươi điểm những đám mây trắng.'
+heroCredit: 'Fahmi Rosli / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: Những hàng cây trà xanh tươi uốn lượn ngay ngắn phủ kín các ngọn đồi thoai thoải của đồn điền Bharat ở Cao nguyên Cameron dưới bầu trời dịu nhẹ.
+    kind: actual
+    origin: third-party
+    subject: Đồn điền trà Bharat ở Cao nguyên Cameron, một phần của dãy Titiwangsa, Pahang
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: Những ngôi nhà gỗ kiểu Tudor và một nhà hàng nép mình giữa các sườn đồi rừng xanh tươi tốt tại trạm nghỉ Đồi Fraser, trong dãy núi Titiwangsa.
+    kind: actual
+    origin: third-party
+    subject: Đồi Fraser (Bukit Fraser), một trạm nghỉ mát trên núi thời thuộc địa thuộc dãy Titiwangsa, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 Thả một trái dừa xuống phía tây của một sống núi ở trung tâm Perak và, cuối cùng, phần mục rữa của nó sẽ đến Eo biển Malacca. Thả một trái cách đó vài trăm mét về phía đông, ở phía bên kia của cùng sống núi, và nó kết thúc ở Biển Đông. Không có gì khác về cảnh quan thay đổi. Chỉ là nó rơi xuống phía nào của lằn ranh.

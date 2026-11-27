@@ -78,6 +78,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'A sleek white and orange high-speed rail trainset stopped at a station platform as passengers board.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: A Taiwan High Speed Rail trainset at a station platform, shown as a comparable regional high-speed railway.
+    kind: representative
+    origin: third-party
+    subject: Operating high-speed train in the region (Taiwan High Speed Rail), representative of a future KL-Singapore HSR
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: An N700-series Shinkansen high-speed train at Hiroshima Station in Japan, shown as a comparable regional high-speed railway.
+    kind: representative
+    origin: third-party
+    subject: Operating high-speed train in the region (Japan's N700 Shinkansen), representative of a future KL-Singapore HSR
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 A bullet train that could whisk you from Kuala Lumpur to Singapore in about 90 minutes has been signed, suspended, terminated, mourned, and resurrected — all without a single track being laid. Here is where the on-again, off-again project actually stands.

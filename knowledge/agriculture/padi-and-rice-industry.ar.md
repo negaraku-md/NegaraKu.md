@@ -27,7 +27,7 @@ faq:
   - q: "من أين يأتي الأرز المستورَد إلى ماليزيا؟"
     a: "تأتي غالبية الواردات من فيتنام وتايلاند وباكستان والهند وميانمار، بحسب BERNAS."
 lang: "ar"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -98,9 +98,36 @@ sources:
     publisher: "Padiberas Nasional Berhad (BERNAS)"
 entity: "Padi and rice industry in Malaysia"
 relations: []
-related: []
+related: ["food-security-self-sufficiency-policy", "agricultural-subsidies-farm-input-support", "ministry-of-agriculture-food-security-and-agencies"]
 keywords: ["padi", "الأرز غير المقشور", "rice industry Malaysia", "صناعة الأرز في ماليزيا", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "مزارعو الأرز في ماليزيا"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'حقول أرز خضراء زاهية على جانبي قناة ري ضيقة مغمورة بالماء تمتد مستقيمة نحو أفق ضبابي'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: حقل أرز ناضج مع فزّاعة قماشية على عمود، وتلال مكسوّة بالغابات وبيوت قرية خلفه تحت سماء زرقاء صافية
+    kind: actual
+    origin: third-party
+    subject: أرز (بادي) ذهبي-أخضر ناضج مع فزّاعة بسيطة، تسنده تلال جيرية مكسوّة بالغابات وكمبونغ في لنكاوي، قدح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: مجموعة صغيرة من الناس على مسار عشبي وسط حقول أرز واسعة خضراء زاهية تحت سماء غائمة
+    kind: actual
+    origin: third-party
+    subject: زوّار يمشون على جسر ترابي عبر حقول أرز خضراء زاهية في سيكينشان، سلانغور
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 الأرز هو الغذاء الوحيد الذي ترفض ماليزيا تركه للسوق الحرة. فالدولة تركّز مكان

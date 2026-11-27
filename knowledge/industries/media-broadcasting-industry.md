@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'The Angkasapuri broadcasting complex in Kuala Lumpur, home of Malaysia''s national public broadcaster.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: Producers at a bank of monitors and mixing desks in a television studio control room during a live broadcast.
+    kind: representative
+    origin: third-party
+    subject: Broadcast control room during a live television production (representative)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: A television broadcast studio set with cameras, studio lighting and a presenter desk.
+    kind: representative
+    origin: third-party
+    subject: Television broadcast studio set with cameras and presenter desk (representative)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 When Malaysians talk about "the media," they usually mean one of a few familiar names: Astro's satellite dish bolted to the side of the house, the TV3 news bulletin, a morning radio show on the drive to work, or — increasingly — whatever is playing on a phone during the commute. Those everyday touchpoints belong to a single, sprawling industry: media and broadcasting. It is one of the more visible service sectors in the country, and also one of the most disrupted.

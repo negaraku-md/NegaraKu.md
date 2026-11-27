@@ -36,7 +36,7 @@ faq:
     a: "Pulau Pinang adalah destinasi sepanjang tahun dengan iklim tropis yang panas dan lembap. Hujan bisa turun pada bulan mana pun tetapi cenderung paling lebat sekitar periode peralihan monsun (kira-kira April–Mei dan September–November); periode yang lebih kering dan sejuk sekitar Desember hingga Februari populer. Pagi hari dan sore hari adalah waktu paling nyaman untuk berjalan kaki."
 
 lang: "id"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'Pelancong yang ingin menjelajahi inti warisan UNESCO yang mudah dijelajahi dengan berjalan kaki berupa rumah toko, rumah marga, seni jalanan Ernest Zacharevic, dan kuliner jajanan multikultural dengan berjalan kaki.'
+  getThere: 'Terbanglah ke Bandara Internasional Penang di selatan George Town, atau capai pulau melalui jalan darat lewat Jembatan Penang dan Jembatan Sultan Abdul Halim Muadzam Shah, atau naik Rapid Ferry dari Butterworth ke tepi laut George Town.'
+  watch: 'Perlakukan seni jalanan sebagai gerbang, bukan keseluruhan cerita, karena rumah marga, kuil, dan jalan rumah toko itulah yang sebenarnya dilindungi oleh penetapan UNESCO.'
+  next: 'Konfirmasikan jadwal dan aturan funikular terkini dengan Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Lampion merah Tionghoa tergantung di atas Armenian Street, dipenuhi ruko warisan dan kafe berwarna-warni, di George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Deretan beca penumpang yang dihias meriah dengan bunga dan payung berjejer di depan bangunan warisan di George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Beca George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Mendarat di pulau, melangkah keluar dari pendingin udara, dan hal pertama yang menerpa Anda adalah bau — asap wajan, wangi dupa dari kelenteng Tionghoa, kamboja, dan garam Selat Melaka. George Town adalah tempat yang Anda baca dengan kaki: satu grid padat rumah toko berusia seabad tempat masjid, rumah kongsi dan gereja kolonial bisa berbagi satu blok yang sama. Panduan ini merangkum apa yang perlu dilihat, di mana makan, cara mencapai pantai dan bukit, dan berapa lama waktu yang perlu diberikan kepada sebuah kota yang menghargai kelambatan.

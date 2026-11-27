@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "Tỷ lệ nắm giữ 44,15% trong LPI Capital Bhd — xác nhận tỷ lệ sở hữu cổ phần hiện hành và mọi chi tiết hoàn tất."
   - "Ban lãnh đạo: Tay Ah Lek làm giám đốc điều hành và Tổng Giám đốc, cùng chủ tịch đương nhiệm — xác nhận các vị trí hiện hành trong hội đồng quản trị."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'Tòa tháp Menara Public Bank hình bậc thang phát sáng vàng ấm trên nền trời hoàng hôn, logo Public Bank đỏ-vàng thắp sáng ở đỉnh và chữ PUBLIC BANK rọi sáng phía trên lối vào'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: Một tòa tháp Public Bank màu trắng thanh mảnh trên nền trời xanh, biểu tượng Public Bank hình bát giác màu đỏ gần đỉnh và một biển PUBLIC BANK màu đỏ phía trên lối vào chi nhánh ở tầng trệt
+    kind: actual
+    origin: third-party
+    subject: Tháp Public Bank ở Johor Bahru, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: Tòa tháp Menara Public Bank phân tầng ốp đá màu nâu nhạt dưới bầu trời nhạt màu, biểu tượng Public Bank hình bát giác màu đỏ hiển thị trên một tấm bảng gần đỉnh hình kim tự tháp
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank, tòa tháp trụ sở chính ốp đá cao 170 m, Jalan Ampang, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Ít có công ty Malaysia nào gắn bó mật thiết với một người sáng lập duy nhất như Public Bank gắn với Tan Sri Teh Hong Piow. Bắt đầu với một chi nhánh ở trung tâm Kuala Lumpur năm 1966, ông đã xây dựng một đơn vị cho vay phát triển thành một trong những tập đoàn ngân hàng lớn nhất của đất nước — và một tập đoàn nổi tiếng ít vì quy mô mà hơn vì sự thận trọng, ghi nhận các tỷ lệ nợ xấu thấp nhất ngành ngân hàng hết thập kỷ này sang thập kỷ khác.

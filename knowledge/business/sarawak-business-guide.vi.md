@@ -46,7 +46,7 @@ verificationNeeded:
   - "Văn bản hợp nhất trên LawNet của Sarawak Labour Ordinance Cap. 76 chỉ cập nhật đến ngày 31 tháng 7 năm 2006 và phải được đọc cùng với Act A1754 chứ không phải thay cho nó."
 
 lang: "vi"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,6 +113,34 @@ keywords:
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
 framework: explainer
+hero: '/media/business/sarawak-business-guide/hero.webp'
+heroAlt: 'Tòa nhà Hội đồng Lập pháp Bang Sarawak có mái hình chiếc ô bên bờ sông Sarawak, với một chiếc thuyền truyền thống trên mặt nước và một tòa cao ốc văn phòng thành phố bên trái'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: Cổng vòm Trung Hoa cầu kỳ bắc ngang một con phố ở thành phố Kuching hai bên là các dãy nhà phố và cơ sở kinh doanh, với xe cộ và một người đi bộ bên dưới bầu trời xanh
+    kind: actual
+    origin: third-party
+    subject: Con phố thương mại ở thành phố Kuching, Sarawak — cổng vòm Phố người Hoa cầu kỳ bắc ngang một con phố kinh doanh với các dãy nhà phố
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: Cảnh nhìn từ trên không của cầu tàu cảng LNG Bintulu với các cánh tay bốc dỡ khí cao, đường ống và các nền móng neo trên mặt nước xanh lục lam, với các bồn chứa và cần cẩu ở bờ xa
+    kind: actual
+    origin: third-party
+    subject: Cảng LNG Bintulu, Sarawak — cầu tàu bốc dỡ công nghiệp với các cánh tay bốc dỡ khí và bồn chứa trên bờ biển
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 Hãy bắt đầu với một con số cho bạn biết đây là loại nơi nào. Sarawak vận hành **hai loạt

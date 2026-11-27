@@ -23,7 +23,7 @@ appliesTo: "பள்ளியின் முதலாம் ஆண்டுக
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'ஜொகூரில் உள்ள மலேசிய மழலையர் பள்ளியான தாடிகா அல்-ஃபலாஹ்வின் முகப்பு, வரவேற்பு பலகையுடனும் சுவரோரம் வரையப்பட்ட எழுத்துக்கள் சுவரோவியத்துடனும்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: Sabah மாநிலம் Tawau-வில் உள்ள Tadika Holy Trinity-இன் நுழைவாயிலும் முன்முற்றமும்; பெயர்ப் பலகை, வண்ணமயமான கொடித் தொடர்கள், வர்ணம் தீட்டப்பட்ட கார்ட்டூன் சுவரோவியங்கள் ஆகியவற்றுடன்; தொலைவில் உள்ள விளையாட்டுத் திடலில் சில சிறு குழந்தைகள் தெரிகிறார்கள்.
+    kind: representative
+    origin: third-party
+    subject: வண்ணமயமான கொடித் தொடர்களாலும் கார்ட்டூன் சுவரோவியங்களாலும் அலங்கரிக்கப்பட்ட மலேசிய மழலையர் பள்ளியின் (tadika) முன்புறம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: Sabah மாநிலம் Keningau-வில் உள்ள Tadika St. Francis Xavier-இன் தெருக் காட்சி; பச்சை வேலியும், மலர்கள், ஒரு தேனீ, ஒரு காளான் ஆகியவற்றின் சுவரோவியங்கள் தீட்டப்பட்ட சுவர்களும் கொண்ட ஒரு மாடி மழலையர் பள்ளிக் கட்டிடம்.
+    kind: representative
+    origin: third-party
+    subject: குழந்தைகளுக்கான சுவரோவியங்களால் வர்ணம் தீட்டப்பட்ட மலேசிய மழலையர் பள்ளிக் கட்டிடம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 பல பெற்றோர்கள் வீட்டருகிலுள்ள "tadika"-வில் தங்கள் குழந்தையைச் சேர்க்கிறார்கள் — படிவத்தை அனுப்புகிறார்கள், கட்டணம் செலுத்துகிறார்கள், முடிந்தது. ஆனால் அரிதாகவே கேட்கப்படும் கேள்வி இதுதான்: அந்த tadika யாருடன் பதிவு செய்யப்பட்டுள்ளது? பதில் அற்பமான விஷயம் அல்ல. குழந்தையின் வயது மற்றும் நிறுவனத்தின் வகையைப் பொறுத்து, அது முற்றிலும் வேறுபட்ட இரு அமைச்சுகளின் கீழ் வரலாம் — சட்டங்கள், விதிமுறைகள் மற்றும் அமலாக்க முறைகள் ஒரே மாதிரி இல்லாமல்.

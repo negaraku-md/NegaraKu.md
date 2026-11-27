@@ -34,7 +34,7 @@ faq:
     a: "ชัยชนะแชมป์ประเภททีมชุดคิงส์คัพครั้งสุดท้ายของมาเลเซียคือในปี 1988 เมื่อถึงปี 2024 การรอคอยนั้นถึงราว 36 ปีเมื่อมาเลเซียแพ้ 0-2 ต่อเจ้าภาพไทยที่นครราชสีมา"
 
 lang: "th"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,9 +99,35 @@ wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "sukma-games", "national-sports-council-msn"]
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'ผู้เล่นรุ่นเยาว์ในมาเลเซียยกขาเตะสูงไปยังลูกตะกร้อหวายสานที่ลอยอยู่กลางอากาศ'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: นักกีฬาเซปักตะกร้อกระโดดเตะลูกหวายข้ามเน็ตในจังหวะโต้กันอย่างดุเดือดระหว่างการแข่งขันประเภทหญิงในเอเชียนเกมส์
+    kind: representative
+    origin: third-party
+    subject: นักกีฬาเซปักตะกร้อโต้กันคร่อมเน็ตระหว่างการแข่งขันในเอเชียนเกมส์
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: ภาพระยะใกล้ของลูกเซปักตะกร้อสานจากหวายลูกสานแบบดั้งเดิมที่ใช้เล่นกีฬาชนิดนี้
+    kind: representative
+    origin: third-party
+    subject: ลูกเซปักตะกร้อสานจากหวาย
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 ลองนึกภาพวอลเลย์บอล แล้วตัดมือของผู้เล่นทุกคนออก สิ่งที่เหลืออยู่ คือการตบด้วยส้นเท้าสูงระดับศีรษะ การชงด้วยอก การเสิร์ฟที่ปล่อยขึ้นสูงในอากาศแล้วเตะด้วยส้น นั่นคือเซปักตะกร้อ หนึ่งในกีฬาที่ผาดโผนที่สุดในโลก และเป็นหนึ่งในกีฬาที่ผูกพันแนบแน่นที่สุดกับอัตลักษณ์ของโลกมลายู

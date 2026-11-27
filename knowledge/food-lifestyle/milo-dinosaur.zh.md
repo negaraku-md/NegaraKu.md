@@ -100,6 +100,14 @@ drinkFacts:
   halal: "按通常的做法，Milo dinosaur 是清真的：一款以 Milo 粉末、牛奶与水加冰调成、不含肉与酒精的不含酒精饮品。在马来西亚出售的 Milo 由 Nestlé Malaysia 获 JAKIM 认证为清真，而这饮品是 mamak（印度裔穆斯林）摊档的常备饮品，这类摊档通常是清真的。与任何摊档食物一样，保证取决于具体的店面与配料。"
   served: "加冰、盛在高杯里冷饮，顶上戴着一勺干 Milo 粉末——有时还有一根插穿那堆粉末的吸管。更浓郁的 Milo godzilla 是在同一款饮品上加一勺冰淇淋与／或鲜奶油；「Milo tabur」（马来语「撒上」之意）是那款堆满粉末版本的另一个名字。Milo kosong 则是不加糖制作的。"
   where: "遍布马来西亚各地的 mamak 摊档、kopitiam（咖啡店）、pasar malam 饮品推车与美食广场，在新加坡也广为可见。它是一款日常、廉价的点单，而非专业咖啡馆的饮品，凡是饮品板上有 Milo 的地方都能找到它。"
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "一杯美禄冰（Milo）上面堆着厚厚一层未溶化的美禄粉"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 在马来西亚的 mamak 点一杯 Milo，你会得到一杯冰凉、香甜、带巧克力味的饮品。点一杯

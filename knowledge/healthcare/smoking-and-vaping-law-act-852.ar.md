@@ -30,7 +30,7 @@ faq:
     a: "لا. يحظر Act 852 بيع جميع منتجات التبغ والسجائر الإلكترونية (vape) عبر المنصات الإلكترونية وآلات البيع الذاتي."
 
 lang: "ar"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Act 852", "قانون مراقبة التدخين", "السجائر الإلكترونية", "vape", "التبغ", "النيكوتين", "الحد الأدنى لسن التدخين", "generational endgame", "مناطق حظر التدخين"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'لافتة منع تدخين بالماليزية والصينية والإنجليزية (Dilarang Merokok / No Smoking) في ماليزيا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: لافتة منع التدخين مثبّتة على جدار داخل مطعم في Johor Bahru بماليزيا، تشير إلى أنّ المكان خالٍ من التدخين
+    kind: actual
+    origin: third-party
+    subject: إشعار منع التدخين معروض في مطعم في Johor Bahru، ماليزيا
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: لقطة مقرّبة ليد تمسك جهاز vape قرب فم شخص، توضّح استخدام السجائر الإلكترونية الخاضع للتنظيم بموجب القانون
+    kind: representative
+    origin: third-party
+    subject: شخص يمسك جهاز سيجارة إلكترونية (vape)
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 لأول مرة، تخضع السيجارة وجهاز السجائر الإلكترونية للقانون نفسه في ماليزيا — ولم يعد حظر البيع للمراهقين مجرد سياسة، بل أصبح جريمة يُعاقَب عليها بغرامات تبلغ آلاف الرينغيت.

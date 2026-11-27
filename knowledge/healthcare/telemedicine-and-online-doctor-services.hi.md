@@ -32,7 +32,7 @@ faq:
     a: "कभी-कभी। MMC यह पसंद करती है कि आभासी परामर्श किसी स्थापित डॉक्टर-रोगी संबंध के बाद अनुवर्ती रूप में हों, पर यह पहला ऑनलाइन परामर्श भी अनुमत करती है — विशेषकर प्राथमिक देखभाल में — यदि डॉक्टर कारण दस्तावेज़ कर ले। डॉक्टरों को कहा गया है कि जिन रोगियों की उन्होंने स्वयं जाँच नहीं की है उन्हें दवा लिखने में सावधानी बरतें और जब ऑनलाइन माध्यम आपका सुरक्षित मूल्यांकन करने के लिए पर्याप्त न हो तो आपको प्रत्यक्ष रूप से रेफर करें।"
 
 lang: "hi"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["टेलीमेडिसिन मलेशिया", "telemedicine Malaysia", "ऑनलाइन डॉक्टर", "online doctor", "टेलीपरामर्श", "teleconsultation", "DoctorOnCall", "MMC दिशानिर्देश", "ई-नुस्खा", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'एक टेलीमेडिसिन कार्यस्थल पर एक डॉक्टर, निदान-मॉनिटरों के साथ-साथ एक वीडियो स्क्रीन पर एक दूरस्थ मरीज़ की समीक्षा करता हुआ।'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: एक डॉक्टर अपनी मेज़ पर फ़ोन पर बात करते हुए नोट्स ले रही है, जिसके पीछे एक स्टैंड पर एक सफ़ेद कोट है, जो एक दूरस्थ टेलीफ़ोन चिकित्सा परामर्श का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: अपनी मेज़ पर फ़ोन द्वारा एक दूरस्थ परामर्श देती एक डॉक्टर
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: हाथ एक टेलीहेल्थ वीडियो-परामर्श ऐप चलाते एक स्मार्टफ़ोन को एक हैंडहेल्ड अल्ट्रासाउंड प्रोब के साथ पकड़े हुए हैं, जो दूरस्थ ऑनलाइन निदान का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: एक स्मार्टफ़ोन ऐप के माध्यम से किया गया एक दूरस्थ वीडियो-निर्देशित अल्ट्रासाउंड
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 आप एक ऐप खोलते हैं, अपने सोफ़े से किसी डॉक्टर के साथ वीडियो-कॉल करते हैं, और एक घंटे बाद एक नुस्खा आपके इनबॉक्स में आ जाता है। मलेशिया में यह पूरी तरह कानूनी है — पर इसके पीछे का नियम-पुस्तक वह कानून नहीं है जिसकी आप शायद अपेक्षा करें।

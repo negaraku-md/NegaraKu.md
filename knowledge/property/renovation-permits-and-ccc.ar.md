@@ -28,7 +28,7 @@ faq:
     a: "تؤكّد شهادة CCC أن المنزل بُني وفق المخططات المعتمَدة وأنه آمن للسكنى. وبدونها، يكون المبنى رسميًا غير صالح للسكنى وقد يتأثّر توصيل المرافق."
 
 lang: "ar"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "شهادة الإنجاز والامتثال", "تجديد المنزل", "موافقة PBT", "Akta 133", "تصريح التجديد", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'داخل منزل متلاصق من طابقين قيد التجديد في سلانجور بماليزيا، مع ظهور منزل مجاور عبر المدخل.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: جدران مكسوّة بالإسمنت بفتحات نوافذ حديثة التشكيل وأكياس من مواد البناء أثناء تجديد منزل صفّي ماليزي
+    kind: representative
+    origin: third-party
+    subject: جدران حديثة التلييس وفتحات نوافذ جديدة أثناء تجديد منزل صفّي في سلانجور
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: حاوية معدنية مملوءة بقصاصات الخشب ومخلفات البناء خارج منزل صفّي ماليزي قيد التجديد
+    kind: representative
+    origin: third-party
+    subject: حاوية نفايات (skip) مملوءة بمخلفات البناء في موقع تجديد منزل صفّي في سلانجور
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 تريد إضافة مطبخ خلف المنزل أو بناء طابق علوي — وفجأةً يقول لك جار «عليك التقدّم إلى المجلس أولًا». أذلك صحيح؟ بالنسبة إلى معظم أعمال التجديد، نعم.

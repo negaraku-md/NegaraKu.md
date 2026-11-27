@@ -27,7 +27,7 @@ faq:
   - q: "Combien coûte le nouveau passeport de 10 ans ?"
     a: "Le passeport de 10 ans coûte RM350 pour les demandeurs de 18 à 59 ans, RM175 pour les plus de 60 ans et est gratuit pour les titulaires de carte OKU (handicap) de 18 ans et plus, au titre de l'Ordonnance sur les frais (passeports et visas) (modification) de 2026."
 lang: "fr"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,35 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "renouvellement passeport Malaisie", "frais passeport Malaisie", "passeport 10 ans Malaisie", "Malaysia eVisa", "visa pass permis Malaisie", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'La haute façade ornementée du siège du Département de l''Immigration de Malaisie à Putrajaya, portant le nom Jabatan Imigresen Malaysia et l''écusson du département, avec des drapeaux flottant au-dessus de l''entrée.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: Le bureau local du Département de l'immigration à Semporna, Sabah
+    kind: actual
+    origin: third-party
+    subject: Bureau local du Département de l'immigration (Jabatan Imigresen) à Semporna, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: Un cachet de passeport de l'immigration malaisienne, apposé à un poste de contrôle du Département de l'immigration
+    kind: actual
+    origin: third-party
+    subject: Cachet de passeport d'entrée/sortie de l'immigration malaisienne
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 Une seule agence est à l'origine de presque tous les documents qui permettent à une personne de franchir la frontière de la Malaisie, d'y vivre ou d'y travailler. Le **Département de l'immigration de Malaisie** — *Jabatan Imigresen Malaysia* (**JIM**) — est l'organisme relevant du **Ministère de l'intérieur** qui délivre les passeports aux citoyens, accorde les visas et pass aux étrangers, dote en personnel chaque guichet d'aéroport et de frontière terrestre, et fait appliquer les lois sur l'immigration. Il sert les citoyens malaisiens, les résidents permanents et les visiteurs étrangers, et fonctionne depuis le **21 July 1922**. La difficulté pour les nouveaux arrivants est que ses services sont dispersés entre plusieurs sites web officiels — cette page les met en ordre sur une carte.

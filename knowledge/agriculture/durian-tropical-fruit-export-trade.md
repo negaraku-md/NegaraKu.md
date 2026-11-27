@@ -102,6 +102,33 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: 'Pile of whole green thorny durians with one cut open showing bright yellow custard-like flesh at a Penang fruit stall'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: Close-up of a cracked-open durian with rich golden-yellow lobes of soft flesh nestled in the spiky husk
+    kind: actual
+    origin: third-party
+    subject: an opened Musang King durian showing its deep golden-yellow creamy flesh inside the thorny shell
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: Tray of spiky durians stacked beside a handwritten price card listing clone codes and RM prices, with mangosteens alongside
+    kind: actual
+    origin: third-party
+    subject: whole durians graded by clone code and priced in ringgit per kilogram at a fruit market in Kota Kinabalu, Sabah
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 For more than a decade, Malaysian durian could enter China only if it was frozen or processed into pulp and paste. Then, in mid-2024, Malaysia won access it had sought for years: the right to ship whole, fresh durian into the largest durian market on earth.

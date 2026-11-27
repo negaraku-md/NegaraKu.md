@@ -32,7 +32,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,32 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'சரவாக்கின் முருமில் காடடர்ந்த மலைப்பகுதிகளுக்கு நடுவே உள்ள நீர்வழிபாதையுடன் கூடிய கான்கிரீட் நீர்மின் அணை.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: ஒரு ஆற்றுப் பள்ளத்தாக்கிற்குள் இறங்கும் ஒரு மாபெரும் கான்கிரீட் முக நீர்மின் அணைச் சுவர், அதன் அடிப்பகுதியில் ஒரு படிநிலை நீர்வழிப்பாதையும் மின் உற்பத்தி கூடமும், சுற்றிலும் திறக்கப்பட்ட சரிவுகளும் மழைக்காடு மூடிய குன்றுகளும்
+    kind: actual
+    origin: third-party
+    subject: சரவாக்கில் உள்ள பகுன் நீர்மின் அணை, மாநிலத்தின் மின் அமைப்பின் மையமாக விளங்கும் ஒரு பிரம்மாண்டமான கான்கிரீட் முக பாறை நிரப்பு அணை
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: நீர்வழிப் பாதை வாயில்களும் உச்சியில் ஒரு சாலையும் கொண்டு ஒரு ஆற்றுப் பள்ளத்தாக்கை குறுக்காக அமைக்கப்பட்ட ஒரு உயரமான கான்கிரீட் அணை, ஒரு பக்கத்தில் கடும் பச்சை நிற நீர்த்தேக்க நீர், சுற்றிலும் காடுசூழ் மலைகள் எழும்புகின்றன
+    kind: actual
+    origin: third-party
+    subject: சரவாக் உள்நாட்டில் உள்ள முரும் நீர்மின் அணை, மாநிலத்தின் படிநிலை நீர்மின் அணைத் தொடரின் ஒரு பகுதி
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 மலேசியத் தீபகற்பம் Tenaga Nasional Berhad-ஐ நம்பியிருக்கும் அதே வேளையில், சரவாக் தன் சொந்த விளக்குகளை ஏற்றிக்கொள்கிறது — அதன் மின்வலையமைப்பு தேசிய மின்வலையமைப்புடன் அறவே இணைக்கப்படாத ஒரு பயன்பாட்டு நிறுவனத்தின் வழியாக, மேலும் கிட்டத்தட்ட முழுவதும் உள்நாட்டுப் பகுதியிலுள்ள மாபெரும் அணைகளின் வீழ்நீரால் உற்பத்தி செய்யப்படுகிறது.

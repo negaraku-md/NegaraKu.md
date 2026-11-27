@@ -36,7 +36,7 @@ faq:
     a: "いいえ。2026 年 3 月 7 日、CelcomDigi と Maxis がそれぞれ RM327,872,640.28 で財務省の DNB 株式の買収を完了し、政府の 5G 卸売事業からの退出を示すとともに、DNB を通信各社と YTL が保有する完全な民間事業体へと転換させました。"
 
 lang: "ja"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'マレーシアのビンツルのブキッ・ニャバウにある2基の格子状の電気通信塔。オレンジと青の夕焼け空にシルエットで浮かぶ'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: モバイルネットワークのアンテナと5G機器を頂部に備えた、郊外の屋根の上の澄んだ青空にそびえる灰色の高いモノポール型の携帯電話塔
+    kind: representative
+    origin: third-party
+    subject: 澄んだ青空を背景に5Gアンテナを搭載したモノポール型の携帯電話塔
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: 青空の下、低層の街並みの上にそびえる、白いパネルアンテナ、マイクロ波アンテナ、基地局キャビネットを備えた屋上の通信マスト
+    kind: representative
+    origin: third-party
+    subject: 街の上空、パネルアンテナとマイクロ波アンテナを備えた屋上の5G基地局塔
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 マレーシア人 2 人にこの国の携帯ネットワークがどのように運営されているかを尋ねると、しばしば異なる、それぞれ半分だけ正しい答えが返ってくる——実は、絡み合った 2 つの別々の物語があるからだ。1 つは、大半の人が政府の横断幕で見たことのある名前を持つブロードバンド・カバレッジ計画である。もう 1 つは、5G のパイプを誰が所有するのかをめぐる、急速に動く争いである。現代マレーシアの接続性を理解するとは、この 2 つの物語をきちんと区別し続けることを意味する。

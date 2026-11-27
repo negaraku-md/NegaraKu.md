@@ -31,7 +31,7 @@ faq:
     a: "Phần lớn đến các bãi chôn lấp. Malaysia vận hành 135 bãi chôn lấp — 114 bãi đổ lộ thiên và 22 bãi chôn lấp hợp vệ sinh — và bãi chôn lấp vẫn là phương pháp xử lý chủ đạo của đất nước."
 
 lang: "vi"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,9 +103,35 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'Một trung tâm thu gom tái chế tại siêu thị ở Johor, Malaysia, với các thùng được dán nhãn bằng tiếng Mã Lai cho quần áo, giấy, nhựa, thủy tinh và nhôm.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: Khu bãi chôn lấp rác hợp vệ sinh Bukit Tagar gần Kampung Sepakat, Hulu Selangor, Selangor
+    kind: actual
+    origin: third-party
+    subject: Bãi chôn lấp rác hợp vệ sinh Bukit Tagar, Hulu Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: Một chiếc xe tải thu gom rác đô thị do hội đồng địa phương vận hành tại Kudat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Xe tải thu gom rác đô thị, Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 Vứt rác ở Johor và nó trở thành công việc của chính phủ liên bang; vứt cùng loại rác đó ở Penang và nó vẫn là công việc của hội đồng địa phương. Đó là điều kỳ lạ cốt lõi của cách Malaysia quản lý chất thải rắn của mình — một luật liên bang hoành tráng, nhưng chỉ có hiệu lực ở nơi đồng ý áp dụng nó.

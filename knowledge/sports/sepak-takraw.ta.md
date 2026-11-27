@@ -34,7 +34,7 @@ faq:
     a: "மலேசியாவின் கடைசி King's Cup அணி regu பட்ட வெற்றி 1988-இல் நிகழ்ந்தது. 2024 வாக்கில், Nakhon Ratchasima-வில் தாய்லாந்திற்கு 0-2 என்ற கணக்கில் மலேசியா தோற்றபோது அந்தக் காத்திருப்பு சுமார் 36 ஆண்டுகளை எட்டியிருந்தது."
 
 lang: "ta"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,9 +99,35 @@ wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "sukma-games", "national-sports-council-msn"]
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'மலேசியாவில் ஒரு இளம் வீரர் காற்றில் உள்ள பின்னப்பட்ட பிரம்பு சேபாக் டக்ரா (sepak takraw) பந்தை நோக்கி உயரமாக உதைக்கிறார்.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: ஆசிய விளையாட்டில் ஒரு பெண்கள் போட்டியின்போது நெருக்கமான பந்து பரிமாற்றத்தில் பிரம்புப் பந்தை வலைக்கு மேலாக உதைக்கக் குதிக்கும் செபக் தக்ராவ் வீரர்கள்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு ஆசிய விளையாட்டுப் போட்டியின்போது வலையில் போட்டியிடும் செபக் தக்ராவ் வீரர்கள்
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: பின்னப்பட்ட பிரம்பு செபக் தக்ராவ் பந்துகளின் நெருக்கமான காட்சி, இந்த விளையாட்டை விளையாடப் பயன்படும் பாரம்பரிய பின்னல் பந்து.
+    kind: representative
+    origin: third-party
+    subject: பின்னப்பட்ட பிரம்பு செபக் தக்ராவ் பந்துகள்
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 கைப்பந்தை கற்பனை செய்துபாருங்கள், பிறகு ஒவ்வொரு வீரரின் கைகளையும் அகற்றிவிடுங்கள்.

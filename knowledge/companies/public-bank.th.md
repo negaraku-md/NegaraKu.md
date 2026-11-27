@@ -31,7 +31,7 @@ faq:
     a: "มี Public Islamic Bank Berhad เป็นบริษัทลูกธนาคารอิสลามเต็มรูปแบบที่ถือหุ้นทั้งหมด ให้บริการเงินฝาก การจัดหาเงินทุน และผลิตภัณฑ์อื่น ๆ ที่สอดคล้องกับหลักชะรีอะฮ์ ดำเนินงานเคียงข้างธุรกิจธนาคารตามแบบแผนของกลุ่ม"
 
 lang: "th"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ verificationNeeded:
   - "การถือหุ้น 44.15% ใน LPI Capital Bhd — ยืนยันการถือหุ้นปัจจุบันและรายละเอียดการดำเนินการที่แล้วเสร็จ"
   - "ผู้นำ: Tay Ah Lek ในฐานะกรรมการผู้จัดการและซีอีโอ และประธานที่ดำรงตำแหน่งอยู่ — ยืนยันตำแหน่งในคณะกรรมการปัจจุบัน"
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'อาคาร Menara Public Bank ทรงลดหลั่นเปล่งแสงสีทองอบอุ่นตัดกับท้องฟ้ายามพลบค่ำ โลโก้ Public Bank สีแดงปนเหลืองส่องไฟที่ยอดและตราคำ PUBLIC BANK ส่องสว่างเหนือทางเข้า'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: อาคาร Public Bank สีขาวเรียวบางตัดกับท้องฟ้าสีฟ้า มีโลโก้ Public Bank แปดเหลี่ยมสีแดงใกล้ยอดและป้าย PUBLIC BANK สีแดงเหนือทางเข้าสาขาชั้นล่าง
+    kind: actual
+    origin: third-party
+    subject: Public Bank Tower ในยะโฮร์บาห์รู รัฐยะโฮร์
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: อาคาร Menara Public Bank หุ้มหินสีแทนแบบเป็นชั้นใต้ท้องฟ้าซีด มีโลโก้ Public Bank แปดเหลี่ยมสีแดงแสดงบนแผงใกล้ยอดทรงพีระมิด
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank อาคารสำนักงานใหญ่หุ้มหินสูง 170 เมตร ถนน Ampang กัวลาลัมเปอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 มีบริษัทมาเลเซียไม่กี่แห่งที่ผูกพันกับผู้ก่อตั้งคนเดียวแน่นแฟ้นเท่า Public Bank ผูกพันกับ Tan Sri Teh Hong Piow เริ่มต้นด้วยสาขาเดียวในใจกลางกัวลาลัมเปอร์ในปี 1966 เขาสร้างผู้ปล่อยกู้ที่เติบโตเป็นหนึ่งในกลุ่มธนาคารที่ใหญ่ที่สุดของประเทศ — และมีชื่อเสียงไม่ใช่เพราะขนาดมากเท่ากับความระมัดระวัง โดยรายงานอัตราสินเชื่อเสียต่ำที่สุดในภาคธนาคารทศวรรษแล้วทศวรรษเล่า

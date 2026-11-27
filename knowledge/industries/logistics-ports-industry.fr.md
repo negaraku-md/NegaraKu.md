@@ -34,7 +34,7 @@ faq:
     a: "La Malaisie s'est classée 26e dans l'Indice de performance logistique 2023 de la Banque mondiale, contre 41e en 2018, et deuxième parmi les nations de l'ASEAN après Singapour."
 
 lang: "fr"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'Des rangées de grues portiques de quai manutentionnant des conteneurs au port de Tanjung Pelepas, dans le Johor, en Malaisie.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: Un portique sur pneus enjambant des rangées de conteneurs de transport empilés au Bintulu International Container Terminal, dans le Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Portique sur pneus au-dessus de conteneurs empilés au Bintulu International Container Terminal, Sarawak, Malaisie
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: Des conteneurs de transport colorés empilés sur le pont d'un porte-conteneurs à quai à Port Klang, dans le Selangor, en Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Conteneurs de transport chargés sur un navire à Port Klang, Malaisie
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang a déplacé 15.14 millions de conteneurs maritimes en 2025 — de quoi devancer Hong Kong et entrer pour la première fois parmi les dix ports les plus actifs du monde. Un deuxième port malaisien, Tanjung Pelepas, en a déplacé 14 millions de plus. Aucun de ces chiffres ne décrit un pays qui fabrique la plupart de ces marchandises. Ils décrivent un pays qui est au bon endroit et qui a appris à percevoir une rente sur le commerce du monde.

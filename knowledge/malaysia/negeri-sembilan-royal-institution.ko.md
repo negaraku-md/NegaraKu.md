@@ -21,7 +21,7 @@ appliesTo: "말레이시아의 왕실 제도, 입헌군주제, 그리고 느그�
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -59,6 +59,32 @@ verificationNeeded:
   - "2025~2026년 왕위 계승 분쟁은 상충하는 설명이 있는 진행 중인 사안입니다; 숭아이 우종(Sungai Ujong) 우당의 지위, 2026년 4월 19일의 폐위 선언, 그리고 경쟁 선포는 어떤 세부도 확정으로 다루기 전에 공식 주 자료와 대조하여 재확인해야 합니다."
   - "투안쿠 무흐리즈(Tuanku Muhriz)가 제11대 양 디페르투안 브사르로 즉위/선포된 정확한 날짜(흔히 2008년 12월 29일로 주어짐)는 주 왕실 포털과 대조하여 확인해야 합니다."
 framework: history-culture
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: '넓은 녹색 들판 너머로 높이 솟은 다층 탑과 겹겹이 이어진 너와지붕을 얹은 웅장한 짙은 목조 궁전이 숲으로 뒤덮인 언덕을 배경으로 서 있다.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: 위엄 있는 크림색 왕궁으로, 좌우 대칭의 양 날개와 박공을 얹은 쌍둥이 탑을 갖추었으며, 스리므난티의 잘 손질된 정원 뒤, 숲이 우거진 언덕 아래 자리한다.
+    kind: actual
+    origin: third-party
+    subject: 느그리슴빌란(Negeri Sembilan)의 현 왕궁, 이스타나 브사르 스리므난티(Istana Besar Seri Menanti)
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: 미낭카바우 물소 뿔 모양으로 극적으로 치켜 올라간 지붕을 얹은 높은 현대식 정부 청사로, 스름반 도심의 낮은 부속동과 잔디밭 위로 솟아 있다.
+    kind: actual
+    origin: third-party
+    subject: 스름반(Seremban)에 있는 미낭카바우식 지붕의 주 행정 청사, 위스마 느그리(Wisma Negeri)
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 말레이반도 한가운데에 말레이 군주제의 모든 규칙을 깨는 한 왕국이 자리합니다. 그 통치자는 왕좌에서 태어나는 것이 아니라 그 자리에 선출됩니다. 그 대가문들은 아버지가 아니라 어머니를 통해 혈통을 짚습니다. 그리고 그 이름 자체 — "아홉의 주"를 뜻하는 느그리슴빌란(Negeri Sembilan) — 는 단일한 왕실 가문이 아니라 내륙의 언덕에 걸쳐 꿰매어진 지구들의 연합을 기억합니다. 이 독특한 제도가 어떻게 생겨났는지 이해하는 것은 말라카 해협(Strait of Malacca)을 건너 수마트라(Sumatra)에서 온 미낭카바우(Minangkabau) 이주민들의 계보를 — 하나의 관습을 지니고 와서, 때가 되자 자신들을 다스릴 왕자를 본국에 청한 이들을 — 따라가는 일입니다.

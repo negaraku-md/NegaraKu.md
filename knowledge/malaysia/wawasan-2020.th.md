@@ -32,7 +32,7 @@ faq:
     a: "วิสัยทัศน์ความมั่งคั่งร่วม 2030 (WKB 2030) ถูกเปิดตัวในเดือนตุลาคม 2019 ในฐานะแนวคิดผู้สืบทอดที่มุ่งความมั่งคั่งที่เป็นธรรมสำหรับช่วงปี 2021 ถึง 2030"
 
 lang: "th"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'ตึกแฝดเปโตรนาสที่ส่องประกายตระหง่านเหนือเส้นขอบฟ้าของกัวลาลัมเปอร์ภายใต้ท้องฟ้าสดใส'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: สายน้ำพุ่งเป็นเส้นโค้งจากน้ำพุ Symphony Lake ใน KLCC Park รายล้อมด้วยสนามหญ้าเขียวขจีที่ตัดแต่งอย่างดีและพื้นที่สีเขียวในเมืองที่จัดภูมิทัศน์ ภายใต้ท้องฟ้าเขตร้อนอันสดใส
+    kind: actual
+    origin: third-party
+    subject: น้ำพุที่ KLCC Park ใจกลางเมืองกัวลาลัมเปอร์
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: ตึกระฟ้า Merdeka 118 ทรงเพรียวที่มีผิวเหลี่ยมมุมคล้ายเพชร ค่อย ๆ เรียวขึ้นสู่ยอดแหลมสูงเหนือเส้นขอบฟ้ากัวลาลัมเปอร์ หนึ่งในอาคารที่สูงที่สุดในโลก
+    kind: actual
+    origin: third-party
+    subject: อาคาร Merdeka 118 ในกัวลาลัมเปอร์ หนึ่งในอาคารที่สูงที่สุดในโลก
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 ในเช้าวันหนึ่งของเดือนกุมภาพันธ์ 1991 นายกรัฐมนตรีคนหนึ่งยืนอยู่ต่อหน้านักธุรกิจชั้นนำของประเทศและวางเป้าหมายหนึ่งสำหรับ 30 ปีข้างหน้า คือ ภายในปี 2020 มาเลเซียพึงกลายเป็นประเทศที่พัฒนาแล้วอย่างสมบูรณ์ ไม่เพียงในแง่เศรษฐกิจ แต่ยังในแง่ความสามัคคี ความยุติธรรมทางสังคม และวุฒิภาวะของพลเมือง แนวคิดนั้นเองที่ต่อมาเป็นที่รู้จักในชื่อวิสัยทัศน์ 2020

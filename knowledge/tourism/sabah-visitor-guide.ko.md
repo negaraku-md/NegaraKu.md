@@ -35,7 +35,7 @@ faq:
     a: "시파단은 산호초 회복을 위해 매년 11월에 폐쇄되므로, 다이빙 여행은 12월부터 10월 사이로 계획하십시오. 그 밖에도 더 비가 많은 북동 몬순(대략 11월부터 3월) 기간에는 보르네오에 비가 더 많습니다."
 
 lang: "ko"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: '보르네오의 대표 경험을 찾는 자연 우선 여행자에게 적합합니다 — 키나발루산 등반, 시파단의 보호된 산호초 다이빙, 그리고 산다칸 일대의 오랑우탄과 강 야생동물 관찰.'
+  getThere: '사바의 주요 항공 관문인 코타키나발루 국제공항으로 들어온 뒤, 산다칸, 타와우, 다이빙 지역으로 짧은 국내선으로 이어서 이동합니다.'
+  permit: '사바는 1963년 말레이시아 협정(Malaysia Agreement 1963)에 따라 자체 출입국 관리를 하므로 반도에서 들어오는 말레이시아인을 포함해 모든 입국자가 검문소를 거쳐 방문 패스를 받으며, 키나발루산 등반과 시파단 다이빙은 각각 정원이 제한된 Sabah Parks 허가로 통제됩니다.'
+  watch: '허가제로 희소한 대표 명소는 넉넉히 앞서 예약하고, 산호초 회복을 위한 시파단의 연례 11월 휴장에 맞춰 계획하십시오. 이 자리들은 매진되고 도착해서는 확보할 수 없기 때문입니다.'
+  next: '출발 전에 현재의 입국·방문 패스 및 허가 규정을 말레이시아 이민청(Immigration Department of Malaysia)과 Sabah Parks에 확인하십시오.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: '새벽, 구름바다 위에서 분홍빛으로 빛나는 키나발루산 세인트존스 봉의 화강암 정상'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: 사바 라북 베이에서 흐릿한 녹색 숲을 배경으로 한, 옅은 황금빛 털과 긴 코를 지닌 코주부원숭이 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 사바 라북 베이에서 촬영한, 보르네오 고유종 코주부원숭이
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: 코타키나발루의 바다 위로 어선들과 수평선의 섬이 실루엣으로 드러난 불타는 주황빛 노을
+    kind: actual
+    origin: third-party
+    subject: 어선들이 실루엣으로 떠 있고 수평선에 섬들이 보이는 코타키나발루 해안가의 황금빛 노을
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 쿠알라룸푸르에서 코타키나발루(Kota Kinabalu)까지 나라를 떠나지 않고 비행하고도 착륙하면 출입국 창구에 줄을 서게 됩니다. 이 의외의 사실은 많은 첫 방문객을 놀라게 하며 — 사바 여행을 계획하기 전에 이해해야 할 가장 중요한 한 가지입니다. 이 가이드는 관문, 주요 명소, 그리고 사바를 그 자체의 고유한 곳으로 느끼게 하는 입국 규정을 살펴봅니다. 어떤 매우 실질적인 의미에서 사바는 실제로 그러하기 때문입니다.

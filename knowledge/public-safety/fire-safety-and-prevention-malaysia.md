@@ -67,9 +67,36 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'Sebuah jentera bomba Mercedes-Benz Atego Bomba merah terang dengan tulisan ''BOMBA'' merentasi hadapannya, almari peralatan di sisinya dan palang lampu biru, keluar dari bawah penutup terbuka sebuah balai bomba dalam cahaya petang yang hangat'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: Sisi jentera bomba merah 'Bomba dan Penyelamat' dengan ruang gulungnya dibuka menunjukkan hos bergulung tersusun kemas, gelendong hos, radas pernafasan, penjana mudah alih dan peralatan menyelamat lain
+    kind: actual
+    origin: third-party
+    subject: lokar sisi terbuka sebuah jentera bomba Bomba Malaysia memaparkan peralatan memadam kebakaran dan menyelamatnya
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: Van menyelamat Bomba Toyota Hiace merah berlivery 'Bomba dan Penyelamat' dengan tulisan BOMBA kuning dan jata jabatan, diletak di rumput di sisi pokok dalam suasana kampung luar bandar
+    kind: actual
+    origin: third-party
+    subject: van menyelamat kecemasan Bomba merah dikerah di sebuah kampung luar bandar di Ranau, Sabah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 Api tidak memberi amaran. Dalam masa beberapa minit, satu percikan dari soket terlebih beban atau kuali yang ditinggalkan boleh meratakan sebuah rumah — dan pada 2025 sahaja, [Jabatan Bomba dan Penyelamat Malaysia](/government/fire-and-rescue-department-bomba) (JBPM) merekodkan 16,111 kes kebakaran dengan 98 kematian dan kerugian harta benda dianggarkan RM2.09 bilion. Berita baiknya: hampir kesemuanya boleh dicegah, sama ada di ruang tamu anda atau di lantai kilang.

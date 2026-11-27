@@ -85,9 +85,15 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["تصاريح العمل في ماليزيا", "تصريح الزيارة المهنية", "تصريح البُدّو الرقميين", "تصريح الإقامة للمواهب", "تصريح المُعال", "تصريح المستثمر", "malaysia work pass", "employment pass", "de rantau nomad pass", "residence pass talent"]
 framework: decision
+stayFacts:
+  who: 'هذا موجّه إلى صاحب عمل يختار التصريح الصحيح، أو إلى مواطن أجنبي يقارن مسارات العمل في ماليزيا — فليس هناك تأشيرة عمل ماليزية واحدة.'
+  how: 'دع الراعي ونوع العمل يحدّدان التصريح. فالوافد الذي يرعاه صاحب عمل يأخذ Employment Pass عبر ESD؛ والمشروع القصير المموّل من الخارج يأخذ Professional Visit Pass؛ والعامل عن بُعد الذي يتبع صاحب عمل أجنبي يأخذ DE Rantau Nomad Pass عبر MDEC؛ والوافد الطويل الخدمة يأخذ Residence Pass-Talent القابل للنقل عبر TalentCorp؛ والعامل اليدوي يأخذ PLKS ضمن نظام حصص منفصل. فالراعي، لا المسمّى الوظيفي، هو من يحدّد أيّها ينطبق.'
+  cost: 'يحدّد كل تصريح حدّه الأدنى الخاص للراتب أو عتبة الدخل أو المدة، وهذه تُراجَع مع الوقت — فقد جرى تعديل فئات راتب Employment Pass مؤخرًا — لذا تحقّق من الأرقام الحالية لدى الجهة المُصدِرة (ESD وImmigration، أو MDEC، أو TalentCorp) بدلًا من رقم مُقتبَس.'
+  watch: 'لا يحمل Dependant Pass أي حق في العمل — فعليك تحويله إلى Employment Pass. وتصريح Professional Visit Pass، ومنه DE Rantau، محدود بسقف ويُبقيك تتقاضى أجرك من الخارج. ووحده Residence Pass-Talent قابل للنقل بين أصحاب العمل؛ أمّا Employment Pass فمرتبط براعيه، وتغيير صاحب العمل يعيد تشغيل عدّاد المدة من جديد.'
+  next: 'حدّد راعيك ونوع العمل، وتحقّق من الحدّ الأدنى الحالي للراتب أو الدخل ومن مدة ذلك التصريح لدى جهته المُصدِرة، ثم تقدّم عبر تلك الجهة. راجِع شروحات Employment Pass وDE Rantau ومقارنة تأشيرات الأعمال.'
 ---
 
 ليس ثمّة تأشيرة عمل ماليزية واحدة. فهناك ثمانية أو تسعة أدوات مختلفة، تديرها أربع جهات مختلفة، والذي تحتاجه يحدّده **مَن يدفع الراتب** — لا ما يُسمّى به العمل.

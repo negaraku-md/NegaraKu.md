@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 
 status: "published"
 aiAssisted: true
@@ -66,6 +66,32 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: '马来西亚工艺大学吉隆坡校区（Universiti Teknologi Malaysia Kuala Lumpur）的入口门楼，车道上方的拱门有 UTM 校徽。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: 玛拉工艺大学（UiTM）的行政大楼，一座以玻璃和混凝土建成的大型现代化公立大学建筑，矗立在园林绿化的高地上，楼前插着旗帜。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚公立大学校园（玛拉工艺大学 UiTM）
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: 位于亚庇的沙巴大学标志性的蓝白行政大楼（Canselori），这座公立大学地标坐落在园林草坪之上。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚公立大学地标（沙巴大学行政楼）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 许多学生在签署 PTPTN 献议文件时，都抱持同一个假设：「这不就像奖学金吗？」

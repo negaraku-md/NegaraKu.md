@@ -29,7 +29,7 @@ faq:
     a: "The official calendar is issued through MOE Circulars and the moe.gov.my portal each year before the session begins. Refer to official sources for the exact dates, as they change every year."
 
 lang: "en"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'A modern three-storey Malaysian national primary school building with a covered porch and cars parked outside under a clear blue sky.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: An empty flag-lined assembly square at a Malaysian school where pupils gather each morning before the day's first lessons begin.
+    kind: representative
+    origin: third-party
+    subject: A Malaysian school assembly ground (tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: Two schoolgirls in uniform ride a motorbike home along a Langkawi road once the school session has ended for the day.
+    kind: representative
+    origin: third-party
+    subject: Uniformed schoolgirls heading home after class in Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 Plan a family trip for early in the year, and you quickly notice one thing: your neighbour in Kelantan starts school a day earlier than your child in Selangor. That is not a mistake — that is how Malaysia's school calendar is designed.

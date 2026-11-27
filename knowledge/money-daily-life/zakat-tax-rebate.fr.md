@@ -62,7 +62,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "zakat-pendapatan" }
-related: []
+related: ["income-tax-individuals", "lhdn-e-ansuran-tax-instalments", "faraid-and-islamic-inheritance"]
 keywords: ["ristourne d'impôt zakat", "Section 6A", "Loi de 1967 sur l'impôt sur le revenu", "ristourne d'impôt zakat LHDN", "zakat contre abattement fiscal", "organisme d'État de zakat", "Seksyen 6A", "badan zakat negeri"]
 framework: explainer
 ---

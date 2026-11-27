@@ -21,7 +21,7 @@ appliesTo: "Sesiapa yang cuba memahami bagaimana Sarawak dan Sabah menjadi sebah
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,32 @@ social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
 framework: history-culture
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: 'Masjid putih berkubah emas dengan menara azan tinggi bersinar di atas tasik dan tongkang batu istiadatnya pada waktu senja.'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: Kelompok rumah kayu bertiang dan laluan penghubung terbentang di seberang Sungai Brunei yang tenang, kampung air berusia berabad-abad di jantung bersejarah ibu kota Brunei.
+    kind: actual
+    origin: third-party
+    subject: Kampong Ayer, kampung air bertiang bersejarah di Sungai Brunei, Bandar Seri Begawan
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: Lapau, dewan istiadat diraja Brunei tempat sultan ditabalkan, terletak di tengah taman berlandskap dan pokok renek berbunga di Bandar Seri Begawan.
+    kind: actual
+    origin: third-party
+    subject: Lapau, dewan istiadat diraja Brunei, di Bandar Seri Begawan
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 Berdiri di tepi laut di Bandar Seri Begawan hari ini dan Brunei kelihatan kecil: sebuah kesultanan kaya, kaya minyak yang terbalut sekeliling dua jalur pantai Borneo, cukup dekat untuk dipandu merentasinya dalam satu petang. Mudah dilupakan bahawa inilah serpihan yang masih tinggal daripada sebuah empayar — bahawa lima abad yang lalu seorang Sultan Brunei boleh menuntut ufti daripada pelabuhan-pelabuhan yang berjajar di sepanjang hampir keseluruhan pesisir utara dan barat pulau itu, dan bahawa dua negeri Malaysia yang boleh anda capai dari sini menerusi jalan raya, Sarawak dan Sabah, pernah menjadi miliknya untuk dikurniakan. Kisah bagaimana sebuah kerajaan laut Borneo bangkit, mencapai kemuncaknya, dan kemudian menyerahkan pesisir-pesisir itu sekeping demi sekeping ialah salah satu benang penting sejarah Malaysia — walaupun Brunei sendiri tidak pernah menjadi sebahagian daripada Malaysia.

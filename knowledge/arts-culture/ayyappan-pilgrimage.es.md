@@ -32,7 +32,7 @@ faq:
   - q: "¿Qué significa 'Swamiye Saranam Ayyappa'?"
     a: "Es el principal canto de súplica de la devoción a Ayyappan: una frase que significa la entrega de uno mismo al Swami, repetida sin cesar por devotos y peregrinos. Resuena a lo largo del voto, en la peregrinación y en los bhajans."
 lang: "es"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'Un templo hindú de Ayyappan brillantemente iluminado de noche, con tejados escalonados al estilo de Kerala, pilares iluminados en dorado y un pequeño santuario de la deidad que corona la entrada.'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: Peregrinos vestidos de negro, con la cabeza cubierta de tela, caminando por un sendero del bosque en la peregrinación a Sabarimala
+    kind: representative
+    origin: third-party
+    subject: Devotos de Ayyappan vestidos de negro recorriendo un sendero forestal hacia el santuario de Sabarimala
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: Una gran pintura de suelo en polvo de colores que representa a la deidad Ayyappa, rodeada de lámparas de aceite de latón encendidas y guirnaldas de flores, con un tamborilero sentado detrás
+    kind: representative
+    origin: third-party
+    subject: Pintura ritual de suelo de Ayyappan (kalam) con lámparas de aceite de latón y un tamborilero, una tradición devocional dedicada al Señor Ayyappa
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 En los últimos meses del año, una escena se repite en muchas localidades de Malasia: hombres vestidos de negro o azul, con un rosario de rudraksha al cuello y la barba crecida, que se dirigen entre sí como "Swami". Son los devotos del voto de Ayyappan, muchos de ellos preparándose para viajar a Sabarimala, en Kerala. Este artículo describe esa devoción y las tradiciones del voto de manera neutral; no explica ni evalúa creencia alguna.

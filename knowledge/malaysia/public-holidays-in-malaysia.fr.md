@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Des feux d''artifice colorés éclatant au-dessus des Petronas Twin Towers et de la ligne d''horizon de Kuala Lumpur la nuit.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: Un grand kolam en forme de paon, aux couleurs vives et réalisé avec de la poudre colorée, disposé au sol pour Deepavali à KL Sentral, à Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Un kolam au sol en forme de paon pour Deepavali à KL Sentral, Kuala Lumpur
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: Plusieurs têtes de costume de danse du lion aux couleurs vives, rose, jaune et blanc, se regroupent devant une devanture lors d'une fête de rue du Nouvel An chinois en Malaisie, parmi lesquelles un artiste à grosse tête rouge.
+    kind: actual
+    origin: third-party
+    subject: Troupe de danse du lion du Nouvel An chinois à Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 Planifiez un voyage, un lancement de produit ou une paie à travers la Malaisie et vous découvrez vite une chose qui prend les étrangers au dépourvu : un jour qui est férié à Kuala Lumpur peut être un jour ouvrable ordinaire à Kuching, et inversement. La Malaisie n'a pas tant une liste de jours fériés nationale qu'une couche nationale et treize couches d'État empilées les unes sur les autres.

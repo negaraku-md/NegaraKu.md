@@ -32,7 +32,7 @@ faq:
     a: "El Kamus Dewan Perdana es el diccionario de referencia digital oficial de la DBP, parte de la agenda de transformación digital para ofrecer una plataforma integral de referencia de la lengua malaya de acceso libre en kamus.dbp.gov.my."
 
 lang: "es"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "lengua malaya", "kamus dewan", "sasterawan negara", "organismo estatutario"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'La alta torre del Dewan Bahasa dan Pustaka en Kuala Lumpur a la hora dorada, con su nombre y emblema en la cima del edificio sobre un campo bordeado de árboles'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: Un gran mural de mosaico de estilo cubista y colorido que representa la vida malasia en la fachada del edificio Dewan Bahasa dan Pustaka, con la torre de oficinas alzándose detrás
+    kind: actual
+    origin: third-party
+    subject: El gran mural de mosaico en el bloque podio del DBP con la pancarta 'Bahasa Bangsa Negara' y la torre detrás, Kuala Lumpur
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: El grandioso pórtico de entrada con tejado inclinado del edificio Dewan Bahasa dan Pustaka, revestido de intrincados paneles tallados con motivos malayos sobre una amplia escalera
+    kind: actual
+    origin: third-party
+    subject: La entrada principal del DBP con sus paneles tallados de motivos malayos y su grandiosa escalera, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 Cada vez que compruebas la ortografía de una palabra malaya, te topas con un nuevo término científico o lees el título de un Laureado Nacional, hay una institución detrás de bambalinas: Dewan Bahasa dan Pustaka.

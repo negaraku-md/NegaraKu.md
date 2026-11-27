@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana என்பது DBP இன் அதிகாரப்பூர்வ டிஜிட்டல் குறிப்பு அகராதியாகும்; இது விரிவான மலாய் மொழிக் குறிப்பு தளத்தை வழங்குவதற்கான டிஜிட்டல் மாற்ற நிகழ்ச்சி நிரலின் ஒரு பகுதியாகும், மேலும் kamus.dbp.gov.my இல் இலவசமாக அணுகக்கூடியது."
 
 lang: "ta"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'பொன்னேரத்தில், மரங்கள் சூழ்ந்த வயலுக்கு மேல் கட்டிடத்தின் உச்சியில் பெயரும் சின்னமும் பொறிக்கப்பட்ட Kuala Lumpur-ன் உயரமான Dewan Bahasa dan Pustaka கோபுரம்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: டேவான் பஹாசா டான் புஸ்தாகா கட்டிடத்தின் முகப்பில் மலேசிய வாழ்வைச் சித்தரிக்கும் பெரிய வண்ணமயமான கியூபிஸ்ட் பாணி ஓவியக் கலைப்படைப்பு, பின்னால் அலுவலக கோபுரம் உயர்கிறது
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில், 'Bahasa Bangsa Negara' பதாகையுடன் கூடிய DBP தளக் கட்டிடத்தின் பெரிய ஓவியக் கலைப்படைப்பு, பின்னால் கோபுரம்
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: டேவான் பஹாசா டான் புஸ்தாகா கட்டிடத்தின் பிரமாண்டமான சாய்வுக் கூரை நுழைவு நடைமண்டபம், ஒரு அகன்ற படிக்கட்டுக்கு மேலே நுணுக்கமாகச் செதுக்கப்பட்ட மலாய்-வடிவப் பலகைகளால் முகப்பு அமைக்கப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில், DBP-யின் மலாய்-வடிவச் செதுக்கப் பலகைகளும் பிரமாண்டமான படிக்கட்டும் கொண்ட முதன்மை நுழைவாயில்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 ஒரு மலாய் சொல்லின் எழுத்துக்கூட்டலைச் சரிபார்க்கும் ஒவ்வொரு முறையும், புதிய அறிவியல் சொல்லைச் சந்திக்கும்போது, அல்லது ஒரு தேசிய இலக்கியவாதியின் (Sasterawan Negara) பட்டத்தைப் படிக்கும்போது, திரைக்குப் பின்னால் ஒரு நிறுவனம் உள்ளது: Dewan Bahasa dan Pustaka.

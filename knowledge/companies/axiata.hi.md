@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "30 सितंबर 2025 तक नौ महीनों के लिए समूह का YTD लाभ RM403.3 million (27 नवंबर 2025 को प्रकाशित) — अगले तिमाही और वार्षिक परिणामों के विरुद्ध सत्यापित करें।"
   - "'Well over 150 million customers' 2019 की एक कंपनी-संख्या तथा बाद की बाज़ार-वृद्धि पर आधारित है; मौजूदा समूह ग्राहक-कुल को नवीनतम वार्षिक रिपोर्ट के विरुद्ध सत्यापित करें।"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'कुआलालंपुर में एक्सियाटा एरीना का मुख्य प्रवेश, जिसके छिद्रित चाँदी के अग्रभाग पर बड़ा नीला-मैजेंटा ''axiata arena'' नाम और त्रिकोणीय लोगो है'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: एक खेल आयोजन के दौरान विशाल नीले-और-मैजेंटा 'axiata arena' साइनबोर्ड के नीचे Axiata Arena के मुख्य प्रवेश के बाहर जमा लोग
+    kind: actual
+    origin: third-party
+    subject: एक आयोजन के दौरान Axiata Arena, Bukit Jalil के मुख्य प्रवेश पर भीड़
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: 2017 SEA Games में एक बैडमिंटन मैच के दौरान Axiata Arena का खचाखच भरा भीतरी भाग, दर्शक कोर्ट के चारों ओर स्तरित नीली दीर्घाओं को भरते हुए
+    kind: actual
+    origin: third-party
+    subject: 2017 SEA Games बैडमिंटन आयोजन के दौरान Axiata Arena का भीतरी दृश्य
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 मलेशिया की सबसे बड़ी दूरसंचार कहानी कोई एकल नेटवर्क नहीं, बल्कि एक होल्डिंग कंपनी है जो छह देशों में मोबाइल ऑपरेटरों के हिस्से रखती है। Axiata Group Berhad Kuala Lumpur Sentral के एक कार्यालय-भवन में बैठती है और उन वाहकों को नियंत्रित करती है, आंशिक रूप से स्वामी है या संयुक्त रूप से चलाती है जो दक्षिण और दक्षिण-पूर्व एशिया भर में करोड़ों लोगों को जोड़ते हैं।

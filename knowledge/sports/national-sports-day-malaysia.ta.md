@@ -29,7 +29,7 @@ faq:
     a: "HSN என்பது கொண்டாட்டத்தின் உச்சக்கட்ட நாள். 2019 முதல், KBS இக்கொண்டாட்டத்தை அக்டோபர் மாதம் முழுவதும் தேசிய விளையாட்டு மாதமாக (Bulan Sukan Negara, BSN) விரிவுபடுத்தியுள்ளது."
 
 lang: "ta"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'கோலாலம்பூரில் ஒரு இரவு சாலை ஓட்டப் போட்டியின் போது ஒளிவெள்ளத்தில் மூழ்கிய சுல்தான் அப்துல் சமாத் கட்டிடத்தை (Sultan Abdul Samad) கடந்து ஓட்டக்காரர்களின் கூட்டம் ஓடுகிறது.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: வாகனமற்ற நாள் நிகழ்வின்போது விடியற்காலையில் மூடப்பட்ட கோலாலம்பூர் தெரு ஒன்றை நிரப்பிய பல்வேறு வயதினரைக் கொண்ட பெரும் கூட்டமான மிதிவண்டி ஓட்டிகள், ஒரு கொண்டாட்ட அறிவிப்புப் பலகைக்குக் கீழே.
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூர் வாகனமற்ற நாள் காலையில் பெருந்திரளாகப் பங்கேற்கும் மிதிவண்டி ஓட்டிகள்
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: மாவட்டப் பள்ளி தடகளப் போட்டியின்போது ஒரு மலேசிய அரங்கத்தின் சிவப்பு ஓட்டத் தடத்தில் கூடியிருக்கும் இளம் வீரர்களும் அதிகாரிகளும், பின்னால் வெள்ளொளி விளக்குகளும் முதன்மை மேடைகளும்.
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவில் ஒரு மாவட்டப் பள்ளி தடகளப் போட்டியில் தடத்தில் உள்ள வீரர்கள்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 ஒவ்வொரு அக்டோபர் இரண்டாவது வார சனிக்கிழமையிலும், மலேசியா முழுவதும் உள்ள மைதானங்கள், பூங்காக்கள் மற்றும் விளையாட்டு அரங்குகள் மக்களால் நிரம்பி வழிய வேண்டும் — அதுவே தேசிய விளையாட்டு தினத்தின் வடிவமைப்பு.

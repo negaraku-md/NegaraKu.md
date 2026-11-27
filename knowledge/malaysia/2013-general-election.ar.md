@@ -66,6 +66,13 @@ sources:
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "PRU13", "الانتخابات العامة 2013 ماليزيا", "Barisan Nasional", "Pakatan Rakyat", "الأصوات الشعبية"]
 framework: history-culture
+hero: '/media/malaysia/2013-general-election/hero.webp'
+heroAlt: 'موظف انتخابات يضع حبراً لا يُمحى على ظفر ناخب في مركز اقتراع ماليزي.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **مسودة — حساسة.** هذه المقالة ملخّص محايد قيد الإعداد ولم تُراجَع للنشر. تتعلق

@@ -27,7 +27,7 @@ faq:
     a: "Xe đạp điện chỉ được miễn trừ nếu nó thuộc loại trợ lực đạp tuân thủ Tiêu chuẩn Malaysia MS2514 không có tay ga (throttle) và có bàn đạp gắn cố định. Xe đạp điện có tay ga chưa được phê duyệt được phân loại là PMD hoặc moped và bị cấm."
 
 lang: "vi"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Ba chiếc xe scooter điện dùng chung Beam màu tím đỗ trên lối đi lát trong công viên ở Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: Một chiếc xe scooter điện Beam dùng chung đỗ tại ô đỗ xe di chuyển cá nhân bên cạnh một khách sạn gần ga MRT Merdeka ở Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Bãi đỗ xe scooter điện Beam dùng chung gần ga MRT Merdeka, Kuala Lumpur
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: Một chiếc xe scooter điện Beam Mobility dùng chung màu tím đỗ trên lối đi tại Taman Rekreasi Tasik Y ở Batu Pahat, Johor.
+    kind: actual
+    origin: third-party
+    subject: Xe scooter điện Beam dùng chung tại công viên ven hồ ở Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 Bạn mua một e-scooter để đi làm, nhưng khoảnh khắc bánh xe chạm đường công cộng, bạn đã vi phạm pháp luật. Đó là thực tế của vi di chuyển ở Malaysia kể từ cuối năm 2021.

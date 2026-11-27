@@ -31,7 +31,7 @@ faq:
     a: "ตาม JPJ หนังสือแจ้ง AwAS ที่ไม่ได้ชำระภายในระยะเวลา 60 วันนับจากวันที่ออกอาจนำไปสู่การดำเนินคดีในศาล โดยมีค่าปรับระหว่าง RM300 ถึง RM2,000 หากถูกตัดสินว่ามีความผิด"
 
 lang: "th"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'เจ้าหน้าที่ตำรวจจราจรมาเลเซียยืนเขียนบันทึกข้างรถจักรยานยนต์สายตรวจสีขาวที่มีคำว่า “POLIS” ที่สี่แยกอันพลุกพล่านในกัวลาลัมเปอร์'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: เจ้าหน้าที่ตำรวจในเครื่องแบบยืนอยู่ที่ด่านตรวจบนถนน คอยตรวจยานพาหนะขณะชะลอหยุดที่จุดตรวจ
+    kind: actual
+    origin: third-party
+    subject: ด่านตรวจของตำรวจมาเลเซียที่เจ้าหน้าที่เรียกหยุดและตรวจยานพาหนะ
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: เจ้าหน้าที่ตำรวจจราจรมาเลเซียสวมเสื้อสะท้อนแสงและหมวกนิรภัยยืนอยู่กลางถนนในเมืองคอยจัดการยานพาหนะที่ผ่านไปมา
+    kind: actual
+    origin: third-party
+    subject: เจ้าหน้าที่ตำรวจจราจรปฏิบัติหน้าที่โบกรถบนถนนในกัวลาลัมเปอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 ผู้ขับขี่คนหนึ่งอาจได้รับใบสั่งสี่ประเภทที่ดูคล้ายกันบนกระดาษ — แต่มาจากสี่หน่วยงานที่แตกต่างกัน และต้องตรวจสอบในสี่ที่ที่แตกต่างกัน หลายคนรู้จักเพียงพอร์ทัลเดียว แล้วเข้าใจว่าใบสั่งของตน "หายไป" ทั้งที่จริงแล้วมันอยู่ในระบบอื่น

@@ -35,7 +35,7 @@ faq:
     a: "نعم. يمكن خصم المصروفات التي تزيد قيمة العقار أو تحافظ عليها، مثل تكاليف التجديد والتحسين، بشرط أن تكون مدعومة بإيصالات ووثائق صحيحة."
 
 lang: "ar"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "ضريبة أرباح العقارات", "CKHT", "LHDN", "التصرّف في العقار", "معدل RPGT", "إعفاء RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'أبراج كوندومينيوم فيردانا الشاهقة فوق منطقة نورث كيارا السكنية في كوالالمبور.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: جناح معرض البيع على جانب الطريق واللافتة الكبيرة بحروف بارزة لمشروع Riana Dutamas السكني في Segambut، كوالالمبور، حيث تُسوَّق المنازل الجديدة وتُباع
+    kind: representative
+    origin: third-party
+    subject: معرض البيع ولافتات مشروع Riana Dutamas السكني، Segambut، كوالالمبور
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: منزل كامبونغ ماليزي حديث منفصل بسقف معدني، يمثّل منزلًا أرضيًا قد يستوجب التصرّف فيه ضريبة أرباح العقارات (real property gains tax)
+    kind: representative
+    origin: third-party
+    subject: منزل قروي حديث منفصل في Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 تبيع منزلًا بربح — لكن قبل أن يصل المال إلى حسابك، تريد الحكومة حصّتها. تلك هي RPGT، ضريبة كثيرًا ما يغفل عنها البائعون إلى أن يحجز المحامي آلاف الرينغيت على طاولة التسوية.

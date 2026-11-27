@@ -19,7 +19,7 @@ keyTakeaways:
   - "Vương tộc hiện nay là hậu duệ của dòng Bugis; vị vua đang trị vì là Sultan Sharafuddin Idris Shah, Sultan thứ chín, trên ngai vàng từ năm 2001."
 appliesTo: "Học sinh - sinh viên, giáo viên, nhà nghiên cứu và độc giả phổ thông muốn hiểu nguồn gốc và lịch sử hiện đại của một trong chín vương tộc của Malaysia."
 lang: "vi"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "Năm chính xác vị Công sứ Anh đầu tiên của Selangor (James Guthrie Davidson) nhậm chức: các nguồn đưa ra cả 1874 lẫn 1875. Xác nhận với một công trình lịch sử học thuật như công trình của J.M. Gullick về Selangor."
   - "Ngày mất của Sultan Salehuddin Shah (các nguồn đưa ra 1778 và 1782) và các chi tiết lễ đăng quang chính xác năm 1766 tại Kota Lumut; xác nhận với một công trình lịch sử học thuật về Selangor."
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: 'Một cung điện thời thuộc địa hai tầng quét vôi trắng với mái ngói đỏ và hiên rộng có lan can đứng trên bãi cỏ được chăm chút viền quanh bởi những cây dừa.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: Một tòa nhà di sản phong cách thuộc địa bề thế màu trắng và kem với cửa sổ hình vòm và mái ngói, nằm sau các bãi cỏ, là nơi đặt phòng trưng bày hoàng gia Selangor ở Klang.
+    kind: actual
+    origin: third-party
+    subject: Galeri Diraja Sultan Abdul Aziz (Phòng trưng bày Hoàng gia Sultan Abdul Aziz) ở Klang, Selangor
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: Một thánh đường hoàng gia màu xanh-trắng thanh lịch với một mái vòm trung tâm lớn, các mái vòm hai bên và những ngọn tháp mảnh mai vươn lên trên bầu trời quang đãng ở Klang.
+    kind: actual
+    origin: third-party
+    subject: Masjid Diraja Sultan Sulaiman (Thánh đường Hoàng gia Sultan Sulaiman) ở Klang, Selangor
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 Trên bờ tây của Bán đảo Mã Lai, nơi các con sông Klang và Selangor đổ vào Eo biển Malacca, một dân tộc đi biển từ phía bên kia quần đảo đã dựng nên một trong những bang giàu có nhất của bán đảo. Vận may của họ không được dựng trên gia vị hay vàng mà trên thiếc — thứ quặng xám chôn trong các thung lũng mà, trong vòng một thế kỷ, sẽ kéo vương quốc Hồi giáo non trẻ vào một cuộc chiến giành chính sự giàu có của nó và, cuối cùng, vào dưới bóng một Công sứ Anh. Đây là câu chuyện về Vương quốc Hồi giáo Selangor, một vương triều Bugis mà dòng dõi vẫn còn ngồi trên ngai vàng ngày nay.

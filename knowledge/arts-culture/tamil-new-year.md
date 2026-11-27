@@ -76,6 +76,35 @@ festivalFacts:
   when: "சித்திரை மாதத்தின் முதல் நாள் — பொதுவாக ஏப்ரல் 14-ஐ ஒட்டி; அதே நாளில் மலையாளிகளின் விஷு, சீக்கியரின் வைசாகியும் வருகின்றன."
   holiday: "கூட்டரசுப் பொது விடுமுறை அல்ல; எந்த மாநிலமும் வழக்கமாக விடுமுறையாக அறிவிப்பதில்லை (தீபாவளி, தைப்பூசம் போலன்று)."
   etiquette: "\"புத்தாண்டு வாழ்த்துகள்\" எனப் பரிமாறிக் கொள்வது வழக்கம்; சித்திரை நாளில் கோலாலம்பூர் சிறிய இந்தியா, கோயில்கள், சமூக நிகழ்வுகளில் விழாத் தோற்றம் காணப்படுகிறது."
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'Kuala Lumpur Brickfields-ல் திறந்தவெளி தமிழ்ப் புத்தாண்டு கொண்டாட்டத்தில், பச்சை-மெரூன் சேலையணிந்த இளம் மலேசிய இந்தியப் பெண் கைகூப்பி வணக்கம் செய்கிறார்; பின்னால் திருவிழா கூடாரங்களும் நகர வானோரமும்'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: தேங்காய், மாவிலைகள் மற்றும் மஞ்சள் மலர்களால் மேலே அலங்கரிக்கப்பட்ட ஒரு வெள்ளிப் பானை, எரியும் பித்தளை எண்ணெய் விளக்குகளால் இருபுறமும் சூழப்பட்டு, ஒரு மங்கலகரமான தமிழ்ப் புத்தாண்டு பலிபீடமாக அமைக்கப்பட்டுள்ளது
+    kind: representative
+    origin: third-party
+    subject: தேங்காய், மாவிலைகள் மற்றும் மலர்களால் மேலே அலங்கரிக்கப்பட்ட வெள்ளிப் பானையும் பித்தளை எண்ணெய் விளக்குகளும் கொண்ட பாரம்பரிய தமிழ்ப் புத்தாண்டு கலசம்
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: மதுரையில் உள்ள மீனாட்சி அம்மன் கோயிலின் உயரமான, நுணுக்கமாகச் செதுக்கப்பட்டு பிரகாசமாக வர்ணம் பூசப்பட்ட கோபுரங்கள், கோயிலின் தூண் வரிசை நடைகூடங்களுக்கும் குளத்துக்கும் மேலே உயர்கின்றன
+    kind: representative
+    origin: third-party
+    subject: சித்திரை திருவிழாவின் இருப்பிடமான, மதுரையில் உள்ள மீனாட்சி அம்மன் கோயிலின் உயரமான செதுக்கப்பட்ட கோபுரங்கள்
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 சித்திரை மாதத்தின் முதல் விடியல். பல தமிழ் வீடுகளில் நேற்றிரவே ஒரு தட்டு

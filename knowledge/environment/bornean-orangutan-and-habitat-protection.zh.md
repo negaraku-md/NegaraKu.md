@@ -34,7 +34,7 @@ faq:
     a: "不一定。调查发现，在德拉马科特与实马当等管理良好、可持续伐木的森林中，种群在15年间保持稳定，显示只要森林受到审慎管理并保持连通，猩猩便能在生产林中继续生存。"
 
 lang: "zh"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,33 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: '一只野生婆罗洲猩猩母亲与幼崽在热带雨林树冠的枝条间休憩'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: 一只雌性婆罗洲红毛猩猩带着两只幼崽，高悬在雨林树冠的枝条上
+    kind: actual
+    origin: third-party
+    subject: 婆罗洲野生红毛猩猩一家在雨林树上攀挂取食
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: 一只野生婆罗洲红毛猩猩富有表情的脸部特写，红褐色的毛发环绕其间
+    kind: actual
+    origin: third-party
+    subject: 婆罗洲雨林中一只野生红毛猩猩的脸部特写
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 一只野生猩猩需要大片森林，而且是连通的森林。在沙巴东部的低地，这已成为最稀有的东西：曾经让一只猿类不必落地便能穿行数公里的树木，如今在油棕园的边缘戛然而止。婆罗洲猩猩能否在这片地景中存续，很大程度上是一个关于法律、土地与走廊的问题。

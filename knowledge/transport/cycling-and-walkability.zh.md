@@ -22,7 +22,7 @@ appliesTo: "居民、规划师，以及任何想把马来西亚城市的步行�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 
 status: "published"
 aiAssisted: true
@@ -63,9 +63,35 @@ entity: "Active mobility (walking and cycling)"
 relations:
   - { rel: "related-to", to: "klang-valley-rail" }
   - { rel: "related-to", to: "e-hailing-grab" }
-related: []
+related: ["e-scooters-and-personal-mobility-devices", "klang-valley-and-city-buses", "parking-in-malaysian-cities"]
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: '一条红色铺面的自行车与慢跑道，路面漆有白色自行车标志，旁有自行车停放架和树木，天空湛蓝。'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: 一条铺砌的自行车与步行共用道，沿着槟城乔治市一条繁忙的主干道延伸。
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市的自行车与行人共用道
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: 一条宽敞的有盖人行道，两旁绿意盎然，位于吉隆坡市中心敦拉萨路旁。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡敦拉萨路人行道
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 下午一点从巴生谷的一座轻快铁（LRT）站走出来，试着步行剩下的 500 米到你

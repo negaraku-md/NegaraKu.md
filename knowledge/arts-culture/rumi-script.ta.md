@@ -36,7 +36,7 @@ socialTitle: "லத்தீன் அகரவரிசை எவ்வாற�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -78,6 +78,33 @@ verificationNeeded:
   - "1972 எழுத்துப்பிழை முறையின் மலேசியாவிலான அதிகாரப்பூர்வப் பெயர்: வெவ்வேறு ஆதாரங்கள் 'Ejaan Rumi Baharu' மற்றும் 'Ejaan Rumi Bersama' என்று குறிப்பிடுகின்றன — DBP-யின் அதிகாரப்பூர்வ வழிகாட்டுதலுடன் உறுதிப்படுத்த வேண்டும்"
   - "Za'ba எழுத்துப்பிழை முறையின் ஆண்டு: சில ஆதாரங்கள் 1924-இல் அறிமுகப்படுத்தப்பட்டது என்றும், சில 1933-இல் முழுமையாகத் தொகுக்கப்பட்டது என்றும் குறிப்பிடுகின்றன — முதன்மை ஆதாரத்துடன் உறுதிப்படுத்த வேண்டும்"
 framework: history-culture
+wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'மேலே ஜாவி எழுத்திலும் கீழே ரூமி (லத்தீன்) எழுத்திலும் Jalan Pasir Puteh என வாசிக்கப்படும் ஒரு நீல நிற மலேசிய தெருப் பலகை, அதன் அருகே ஒரு மனிதர் மோட்டார் சைக்கிளில் கடந்து செல்கிறார்.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: கெலந்தானில் ஒரு சாலையோரத்தில், ஜாவி எழுத்தில் அதே பெயருக்குக் கீழே 'ஜாலான் பாசிர் புத்தே' என ரோமானிய ரூமி எழுத்தில் எழுதப்பட்ட ஒரு நீல சாலைப் பெயர்ப் பலகை.
+    kind: actual
+    origin: third-party
+    subject: ஜாவி-ரூமி இருமொழி சாலைப் பெயர்ப் பலகை, கெலந்தான்
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: '''பெர்சியாரான் கிரீன்டவுன் 4C, போஸ்கோட் 30450 ஈப்போ'' என ரோமானிய மலாய் (ரூமி) எழுத்தில் எழுதப்பட்ட ஒரு பச்சை மலேசிய சாலைப் பலகை.'
+    kind: actual
+    origin: third-party
+    subject: ரூமி எழுத்தில் மலாய் சாலைப் பெயர்ப் பலகை, ஈப்போ
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 இன்று நாம் மலாய்ச் சொற்களைப் படிக்கும்போது — சாலை அடையாளப் பலகைகளில், செய்தித்தாள்களில், தொலைபேசித் திரையில் — அவற்றை ஆங்கில அகரவரிசையின் அதே எழுத்துகளில் படிக்கிறோம்: a, b, c, d என்று தொடர்ந்து. அந்த எழுத்து ரூமி எழுத்து என்று அழைக்கப்படுகிறது. அது மிகவும் சாதாரணமாகிவிட்டதால், ரூமி மலாய் மொழியின் தாயக எழுத்து அல்ல என்பதையும், இன்று அதன் நேர்த்தியான, ஒரே தரமான வடிவம் நூறு ஆண்டுகளுக்கு மேல் நீடித்த தரப்படுத்தல் முயற்சியின் விளைவு என்பதையும் பலர் உணராமல் இருக்கின்றனர்.

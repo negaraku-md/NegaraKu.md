@@ -38,7 +38,7 @@ verificationNeeded:
   - "Vérifier la date et la base des pourcentages de composition ethnique figurant sur le portail officiel de l'État (Malais 61.5 %, Chinois 22.9 %, Indiens 15.1 %, autres 0.5 %) — le chiffre n'est pas daté et ne correspond pas à la structure de ventilation du recensement de 2020, qui comptabilise les non-citoyens comme une catégorie distincte."
 
 lang: "fr"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak de Negeri Sembilan", "Seremban", "Seri Menanti", "matrilinéaire minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'Le palais royal Seri Menanti, en bois sombre, aux toits Minangkabau étagés et pointus, posé sur une pelouse verte avec un pavillon rouge et des collines boisées à l''arrière.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: Une plage de sable doucement incurvée et bordée de palmiers fait face au calme détroit de Malacca à Port Dickson, dans le Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Plage de Port Dickson, Negeri Sembilan
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: Des maisons minangkabau en bois aux toits galbés en cornes de buffle se dressent dans l'enceinte du musée de l'État de Negeri Sembilan à Seremban.
+    kind: actual
+    origin: third-party
+    subject: Maisons traditionnelles de style minangkabau au Muzium Negeri Sembilan, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Dans les huit autres États malais, la question « qui est le prochain dans l'ordre de

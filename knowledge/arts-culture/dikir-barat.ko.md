@@ -18,7 +18,7 @@ keyTakeaways:
   - "이 예술 형식은 태국 남부의 디키르(dikir) 전통과 연관되며, 클란탄(Kelantan)에서 판툰과 클란탄 방언이 더해져 변용되었습니다"
 appliesTo: "디키르 바랏의 공연 형식, 투캉 카룻과 톡 주아라의 역할, 그리고 한 무리의 구성을 이해하고자 하는 모든 사람."
 lang: "ko"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,34 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: '초록과 금빛 의상에 높이 휘어진 머리장식을 쓴 두 명의 디키르 바랏 공연자가 땅에 앉아 맞춰 팔 동작을 하며 웃고 있고, 앞 바닥에 르바나 손북이 놓이고 뒤에는 분홍 꽃이 있는 모습'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: 초록-금색 의상과 높은 머리장식을 한 디키르 바랏 공연자들이 줄지어 앉아 야간 공연에서 일제히 손뼉을 치며 웃고, 앞 바닥에는 르바나 손북이 놓인 모습
+    kind: representative
+    origin: third-party
+    subject: 일제히 손뼉을 치며 줄지어 앉은 디키르 바랏 공연자들(아욱아욱)(공통 말레이 전통, 싱가포르 칭게이)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: 말레이시아의 한 학교 강당에서 여성 선창자가 마이크에 노래하고, 검은 옷에 붉은 머리띠를 한 학생 공연자들이 줄지어 앉아 르바나 북과 징과 함께 일제히 손뼉을 치는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아의 선창자, 손뼉 치는 아욱아욱 합창단, 타악기로 이루어진 학교 디키르 바랏 그룹
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 두 무리가 무대 위에서 책상다리로 마주 앉습니다. 대본은 없습니다. 첫 번째 무리가 물가 상승을 풍자하는 [판툰](/ko/arts-culture/pantun)을 주고받기를 마치면, 두 번째 무리에게는 응수를 지어낼 몇 초의 시간밖에 없습니다 — 그것은 운(韻)이 맞아야 하고, 박자가 맞아야 하며, 가능하다면 원래 판툰보다 더 날카로워야 합니다.

@@ -36,7 +36,7 @@ faq:
     a: "अपने कंधे और घुटने ढकें। यदि आपके कपड़े बहुत खुले हों तो प्रवेश द्वार पर आमतौर पर उधार लेने या किराए पर लेने के लिए सारोंग उपलब्ध होते हैं। मुख्य गुफा मंदिर तक की लंबी सीढ़ियों में आरामदायक जूते मदद करते हैं।"
 
 lang: "hi"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["कुआलालंपुर", "kuala lumpur", "पेट्रोनास ट्विन टावर्स", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "चाइनाटाउन कुआलालंपुर", "klia ekspres", "कुआलालंपुर यात्रा गाइड"]
 framework: profile
+visitFacts:
+  bestFor: 'पहली बार आने वाले अंतरराष्ट्रीय आगंतुकों के लिए जो एक छोटा, सहज शहर-प्रवास चाहते हैं, और मलेशिया में अन्यत्र जाने से पहले कुआलालंपुर को एक ठिकाने के रूप में उपयोग करने वाले यात्रियों के लिए।'
+  getThere: 'Kuala Lumpur International Airport (KLIA) से, KLIA Ekspres ट्रेन द्वारा बिना रुके KL Sentral केंद्र तक जाएँ, फिर आगे MRT, LRT, Monorail या Grab से जुड़ें।'
+  permit: 'Petronas Twin Towers का प्रवेश समयबद्ध टिकटों पर चलता है जिनकी दैनिक संख्या सीमित है, इसलिए वहीं पहुँचकर प्रवेश पाने के बजाय पहले से ऑनलाइन बुक करें।'
+  watch: 'शहर-केंद्र का यातायात व्यस्त घंटों में भारी रहता है, इसलिए शहर भर की यात्राओं के लिए ट्रेनें आमतौर पर कार से तेज़ होती हैं।'
+  next: 'Petronas Twin Towers के वर्तमान खुलने के समय और टिकटिंग आधिकारिक PETRONAS Twin Towers साइट (petronastwintowers.com.my) से पुष्ट करें।'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'सुनहरी सूर्यास्त आसमान के नीचे मध्य कुआलालंपुर के ऊपर उठती प्रकाशित पेट्रोनास ट्विन टावर्स'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: मध्य Kuala Lumpur में Sultan Abdul Samad Building और ताड़ के पेड़ों से घिरा Merdeka Square का मैदान
+    kind: actual
+    origin: third-party
+    subject: Sultan Abdul Samad Building और Merdeka Square
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: रात में Kuala Lumpur के Chinatown में Petaling Street बाज़ार के ऊपर लटकी चमकती लाल चीनी लालटेनों की कतारें
+    kind: actual
+    origin: third-party
+    subject: रात में Petaling Street Chinatown की लाल लालटेनें
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 भोर में कुआलालंपुर अंतरराष्ट्रीय हवाई अड्डे पर उतरिए और, एक घंटे के भीतर, आप दो चाँदी के टावरों के नीचे खड़े हो सकते हैं जो कभी दुनिया के क्षितिज पर राज करते थे — न किराए की कार, न जटिल योजना, बस एक ट्रेन और एक टैप-इन कार्ड। वही आसानी कुआलालंपुर का पूरा सार है: यह मलेशिया का सामने का दरवाज़ा है, एक सघन और सस्ती राजधानी जहाँ मुख्य दर्शनीय स्थल एक छोटी रेल सवारी की दूरी पर हैं, और जहाँ देश की लगभग हर आगे की यात्रा शुरू होती है।

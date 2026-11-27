@@ -36,7 +36,7 @@ faq:
     a: "Tras la enmienda de 2019 a la Ley de Pesca de 1985 (Ley A1601), la multa máxima para el propietario o patrón de una embarcación extranjera intrusa se elevó de RM1 millón a RM6 millones, y para cada tripulante de RM100,000 a RM600,000."
 
 lang: "es"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ relations:
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "lkim" }
   - { rel: "related-to", to: "mmea" }
-related: []
+related: ["department-of-fisheries-malaysia", "ministry-of-agriculture-food-security-and-agencies", "food-security-self-sufficiency-policy"]
 keywords: ["industria pesquera de Malasia", "producción de pescado de Malasia", "acuicultura Malasia", "aquaculture Malaysia", "LKIM", "Departamento de Pesca de Malasia", "Ley de Pesca 1985", "Fisheries Act 1985", "intrusión de embarcaciones pesqueras extranjeras", "IUU fishing Malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'Arrastreros de pesca de madera amarrados en un embarcadero frente a la isla de Penang, Malasia.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: Barcos de pesca amarrados a lo largo del río junto a las casas sobre pilotes de la aldea pesquera de Kuala Kedah
+    kind: actual
+    origin: third-party
+    subject: Barcos de pesca y una aldea costera en Kuala Kedah
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: Una hilera de pescado local fresco dispuesto para la venta en el mercado de fin de semana de Satok, en Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Pescado local fresco expuesto en el mercado de Satok, Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 Antes del amanecer, en los embarcaderos a lo largo del estrecho de Malaca y

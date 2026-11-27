@@ -30,7 +30,7 @@ faq:
     a: "ใช่ ศูนย์มรดกโลกบันทึกแหล่งสามแห่งในบัญชีเบื้องต้นของมาเลเซีย ได้แก่ อุทยานแห่งชาติ (ตามันเนอการา) ของคาบสมุทรมาเลเซีย สันควอตซ์กอมบักสลังงอร์ และสถานพยาบาลโรคเรื้อนซูไงบูโละฮ์ การอยู่ในบัญชีเบื้องต้นเป็นการประกาศเจตนาที่จะเสนอชื่อ ไม่ใช่การขึ้นทะเบียน"
 
 lang: "th"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'อาคารสตัดเธยส์สมัยดัตช์สีแดงอิฐเข้มและหอนาฬิกาทรงสี่เหลี่ยมในมะละกา ล้อมรอบด้วยวงเวียนปลูกไม้ประดับสีแดงและเขียว พร้อมป้ายบอกทางอยู่เบื้องหน้าใต้ท้องฟ้าครึ้มสว่าง'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: ถนนมรดกแคบ ๆ ในย่านจอร์จทาวน์ ปีนัง เรียงรายด้วยตึกแถวสองชั้นเก่าแก่ที่แขวนโคมไฟสีแดงและป้ายพิพิธภัณฑ์ภาพวาดบาติก มีป้ายถนนสีน้ำเงินเขียนว่า Lebuh Armenian อยู่ทางขวาและถนนเงียบสงบที่มีทางม้าลายสีเหลือง
+    kind: actual
+    origin: third-party
+    subject: ถนนเลอบุฮ์อาร์เมเนียน (ถนนอาร์เมเนียน) ในย่านมรดกจอร์จทาวน์ของปีนัง ส่วนหนึ่งของแหล่งมรดกโลกยูเนสโก
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: เทือกหินแกรนิตสีเทาของเขาคินาบาลูในรัฐซาบะฮ์ สันเขาขรุขระสูงขึ้นเหนือเนินป่า พร้อมต้นไม้สีเขียวร่มรื่นและลาดหญ้าเบื้องหน้าใต้ท้องฟ้าสีฟ้าใส
+    kind: actual
+    origin: third-party
+    subject: เขาคินาบาลูที่ตั้งตระหง่านเหนืออุทยานคินาบาลูในรัฐซาบะฮ์ แหล่งมรดกโลกยูเนสโก
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 ถามว่ามาเลเซียมีแหล่งมรดกโลกกี่แห่ง แล้วแหล่งข้อมูลส่วนใหญ่จะบอกคุณว่าสี่ นั่นเป็นจริงจนถึงปี 2024 กลุ่มถ้ำเนียะฮ์ได้รับการขึ้นทะเบียนในเดือนกรกฎาคมปีนั้น และสวนป่าสถาบันวิจัยป่าไม้มาเลเซียสลังงอร์ตามมาในปี 2025 — ทำให้ยอดรวมเป็นหก

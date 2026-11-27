@@ -26,7 +26,7 @@ verificationNeeded:
   - "Số lượng chính xác các lĩnh vực chuyên khoa nha khoa tại bệnh viện KKM và chi tiết phạm vi của phòng khám nha khoa chuyên khoa không thể được xác nhận trực tiếp vì trang chính thức hq.moh.gov.my/ohp không thể truy cập (connection refused) tại thời điểm viết; các mô tả trong bài viết này giữ ở mức chung và không nêu con số cụ thể."
   - "Chính sách miễn phí cho người cao tuổi, trẻ em và các nhóm nhất định tại các phòng khám nha khoa chính phủ được đề cập rộng rãi trong các nguồn thứ cấp, nhưng không được xác nhận ở đây vì bài viết này cố ý không nêu phí — vui lòng tham khảo quầy đăng ký của phòng khám liên quan để có thông tin hiện hành."
 lang: "vi"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'Mặt tiền đường phố của một phòng khám nha khoa Malaysia, Klinik Pergigian Yap, với bảng hiệu liệt kê các dịch vụ nha khoa.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: Một ghế điều trị nha khoa trống với đèn khám phía trên, màn hình của bác sĩ và bồn súc miệng trong một phòng nha khoa gọn gàng
+    kind: representative
+    origin: third-party
+    subject: Một ghế điều trị nha khoa với đèn chiếu phía trên, màn hình theo dõi bệnh nhân và bồn nhổ trong phòng điều trị của phòng khám
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: Một phòng nha khoa không có người với ghế điều trị, xe đẩy cấp tay khoan, đèn đọc phim X-quang cùng các đầu ra oxy và hút chân không trên tường
+    kind: representative
+    origin: third-party
+    subject: Một phòng điều trị nha khoa với ghế nha khoa, bộ cấp dụng cụ, đèn đọc phim X-quang và các đầu ra khí trên tường
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 Nhiều người cho rằng «phòng khám nha khoa» chỉ là một thứ — nơi để trám răng sâu hoặc nhổ răng khôn. Nhưng ở Malaysia, chăm sóc nha khoa thực ra chạy trên hai đường ray riêng biệt: một do chính phủ điều hành qua Bộ Y tế Malaysia (KKM), một do khu vực tư nhân — và phạm vi điều trị giữa hai bên không giống nhau.

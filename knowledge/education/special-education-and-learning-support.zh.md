@@ -21,7 +21,7 @@ appliesTo: "适用于马来西亚境内、孩子被诊断有残疾或学习困�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 
 status: "published"
 aiAssisted: true
@@ -59,9 +59,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: '马来西亚一所中学 SMK Taman Universiti 特殊教育融合计划（PPKI）的教师和学生管理助理合影。'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: 柔佛峇株巴辖特殊教育国小（SK Pendidikan Khas Batu Pahat）的入口与欢迎拱门，这是一所政府特殊教育小学，校门处设有马来文招牌。
+    kind: actual
+    origin: third-party
+    subject: 一所马来西亚国民特殊教育学校
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: 沙巴Pensiangan一所乡村政府小学的单层木造教室楼，背靠林木葱郁的山丘。
+    kind: representative
+    origin: third-party
+    subject: 一座马来西亚政府小学校舍
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 诊断只是第一场对话。第二场对话——往往更令人困惑——是你的孩子究竟会进入哪条学校途径，以及为什么 OKU 卡似乎比学校本身更早就变得重要。马来西亚的体系有三条公立途径、一套为这三条途径共同输送资格的独立残疾登记流程，以及一个私人与非政府组织治疗并行的世界，多数父母是靠口耳相传得知的，而不是靠任何单一的官方页面。

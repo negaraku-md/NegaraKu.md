@@ -29,7 +29,7 @@ faq:
   - q: "هل عبادة مازو طاوية أم بوذية؟"
     a: "تنتمي مازو أساسًا إلى نطاق الطاوية والمعتقدات الشعبية الصينية، وكثيرًا ما تُكرَّم إلى جانب آلهة أخرى؛ وفي بعض السياقات البوذية يُشاهد أيضًا تكريم مازو. وفي الممارسة لا يميّز كثير من الصينيين تمييزًا صارمًا بين الطاوية والبوذية والمعتقدات الشعبية، وهذا يتوافق مع حال معتقدات الصينيين في ماليزيا التي يمتزج بعضها ببعض عمومًا. وهذا المقال يصف ظاهرة المعتقد فحسب، ولا يصدر حكمًا على معناه الديني."
 lang: "ar"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'معبد ثيان هو في كوالالمبور، وتتدلّى من سقفه المتدرّج مئات الفوانيس الحمراء على شكل شلّالات، ومبخرة مزيّنة بالتنانين في الفناء الأمامي ومصلّون في القاعة الرئيسية.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: السقف والواجهة المزخرفان لمعبد Mazu صيني تاريخي في Kuala Terengganu، بزخارف تنانين على حافة السقف
+    kind: actual
+    origin: third-party
+    subject: Ho Ann Kiong، معبد Mazu (Tian Hou، إلهة البحر) في Kuala Terengganu، من أقدم المعابد الصينية في Terengganu
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: قاعة المذبح الرئيسية لمعبد Mazu الهايناني في George Town، مع فوانيس معلّقة وبخور وتجهيزات مزار مذهّبة
+    kind: actual
+    origin: third-party
+    subject: المذبح الداخلي لمعبد Hainan (Tokong Hainan) في George Town، Penang، وهو معبد يكرّم إلهة البحر Mazu
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 على تلة صغيرة في مرتفعات روبسون (Robson Heights) في كوالالمبور، ينتصب معبد من ستة طوابق بأعمدة حمراء وقِرميد مزجّج يطلّ على المدينة — هذا هو معبد تيان هو، المكرَّس لأشهر إلهة بحر في العالم الصيني: مازو. في الماضي كان الصينيون الوافدون جنوبًا عبر البحر يدعونها طلبًا للسلامة قبل عبور المحيط وبعده؛ أما اليوم فهو في آنٍ واحد معبد يقدّم فيه المؤمنون البخور، وملتقى لأبناء هاينان، ومكان يلتقط فيه السياح صورهم.

@@ -31,7 +31,7 @@ faq:
   - q: ใครกำกับดูแลและส่งเสริมอุตสาหกรรม?
     a: สำนักงานพัฒนาการลงทุนมาเลเซีย (MIDA) ภายใต้กระทรวงการลงทุน การค้า และอุตสาหกรรม (MITI) ส่งเสริมและอนุมัติการลงทุนด้านการผลิตและบริหารจัดการสิทธิประโยชน์ทางภาษีหลัก; MATRADE ติดตามผลการดำเนินงานด้านการส่งออก
 lang: th
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'พื้นโรงงานผลิตแผงโซลาร์ที่สว่างพร้อมเครื่องประกอบโมดูลและคนงานสวมหมวกคลุมผมและหน้ากากตามสายการผลิต'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: แผงโซลาร์เซลล์ PV สีเทาเรียงเป็นแถวบนสายการผลิตแบบสายพานลำเลียง พร้อมคนงานสองคนกำลังตรวจสอบแผง
+    kind: representative
+    origin: third-party
+    subject: แผงโซลาร์เซลล์ PV ที่ผลิตเสร็จเคลื่อนไปตามสายบรรจุซับโมดูลที่โรงงาน First Solar เมือง Perrysburg รัฐโอไฮโอ
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: แผงโซลาร์เซลล์สีเข้มเรียงเป็นแถวยาวติดตั้งบนโครงโลหะในทุ่งหญ้าสีเขียวภายใต้ท้องฟ้าสีฟ้าที่มีเมฆกระจาย
+    kind: representative
+    origin: third-party
+    subject: ชุดแผงเซลล์แสงอาทิตย์ติดตั้งบนพื้นดินในทุ่งหญ้าภายใต้ท้องฟ้าสีฟ้า
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 น้อยคนจะตระหนักว่าเมื่อเจ้าของบ้านหรือการไฟฟ้าในอเมริกาติดตั้งแผงโซลาร์ แผงเหล่านั้นอาจผลิตในมาเลเซีย เป็นเวลากว่าทศวรรษที่ประเทศนี้เป็นหนึ่งในผู้ผลิตเซลล์และโมดูลโฟโตโวลตาอิก (PV) สำหรับพลังงานแสงอาทิตย์รายใหญ่ที่สุดของโลกอย่างเงียบ ๆ — ไม่ใช่เพื่อป้อนไฟฟ้าให้โครงข่ายของตนเอง แต่เพื่อการส่งออก นี่คืออุตสาหกรรมของโรงงาน ไม่ใช่ feed-in tariff

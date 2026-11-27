@@ -33,7 +33,7 @@ faq:
     a: "Les familles chrétiennes observent ce jour religieusement par les offices religieux. Au-delà, Noël est marqué plus largement dans la vie publique : les centres commerciaux et les hôtels installent des décorations et organisent des soldes de saison, et la tradition de la maison ouverte, qui consiste à recevoir des invités de toute origine pour un repas partagé, est courante. La participation au versant social, plus large, de la saison ne se limite pas aux chrétiens."
 
 lang: "fr"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Le jour de Noël tombe le 25 décembre chaque année, avec une saison décorative et commerciale à partir de la fin novembre environ."
   holiday: "Le jour de Noël, le 25 décembre, est un jour férié dans tout le pays, dans tous les États et territoires fédéraux (First Schedule of the Holidays Act 1951 (Act 369) dans la Péninsule ; ordonnances des États au Sabah et au Sarawak). Le Sabah inscrit en outre au journal officiel la veille de Noël, le 24 décembre, comme jour férié de l'État en vertu de la Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "La tradition de la journée portes ouvertes (open house), consistant à recevoir des invités de tout horizon pour un repas partagé, s'applique à Noël comme aux autres fêtes ; les familles chrétiennes qui reçoivent accueillent généralement des invités d'autres confessions, et les visites se font dans les deux sens tout au long du calendrier des fêtes."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'Un immense sapin de Noël décoré s''élevant dans l''atrium du Pavilion Kuala Lumpur, entouré de lanternes dorées suspendues, d''un carrousel et de foules d''acheteurs sur un tapis rouge'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: Une élaborée décoration de Noël sur le thème du pays des bonbons dans un centre commercial de Kuala Lumpur, avec une scène en spirales de menthe poivrée rouge et blanche, des maisons en pain d'épice et des rangées de sapins de Noël illuminés au-dessus des foules
+    kind: actual
+    origin: third-party
+    subject: Décoration de Noël sur le thème du pays des bonbons avec maisons en pain d'épice et sapins illuminés dans un centre commercial de Kuala Lumpur
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: La cathédrale anglicane Sainte-Marie aux murs blancs et au toit de tuiles rouges au centre de Kuala Lumpur, avec une croix sur son pignon et un drapeau malaisien devant, des tours de bureaux modernes s'élevant derrière
+    kind: actual
+    origin: third-party
+    subject: La cathédrale anglicane Sainte-Marie, une église blanche historique au centre de Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 Le soir du 24 décembre, une église de Kota Kinabalu ou de Kuching se remplit pour un office nocturne, tandis qu'à quelques centaines de kilomètres de là, dans la péninsule, cette même date est un jeudi ouvrable ordinaire. Le lendemain matin, le 25 décembre, tout le pays est en congé. Ce clivage — une date, deux statuts très différents — est la manière la plus nette de comprendre la place de Noël en Malaisie : une fête religieuse pour une communauté, un jour férié pour tous, et une saison de portes ouvertes à laquelle beaucoup participent, quelle que soit leur foi.

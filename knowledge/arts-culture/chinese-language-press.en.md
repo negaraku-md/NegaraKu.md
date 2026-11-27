@@ -33,7 +33,7 @@ faq:
     a: "In line with global newspaper trends, the print circulation of Malaysia's Chinese-language press has generally declined over the past two decades, with readers — especially the younger generation — increasingly getting their news via mobile phones and the internet. The papers have therefore developed digital platforms such as news websites, e-papers and mobile apps, with some content also spread on social media. Whether and when print will disappear entirely remains uncertain, and this article makes no prediction."
 
 lang: "en"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'The white office building of the Chinese-language newspaper Sin Chew Daily in Miri, its name shown in English and Chinese characters on the facade and gate wall.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: An early front page of the Penang Chinese daily Kwong Wah Yit Poh, headed in Chinese characters and English, laid among other vintage Chinese newspaper pages.
+    kind: actual
+    origin: third-party
+    subject: Front page of Kwong Wah Yit Poh, Malaysia's oldest Chinese-language daily (Penang)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: A Nanyang Siang Pau office in Johor Bahru, its facade carrying the newspaper's name in green Chinese characters and Roman letters above a shopfront.
+    kind: actual
+    origin: third-party
+    subject: Nanyang Siang Pau newspaper office with masthead signage, Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 In the morning kopitiam, an open Chinese-language newspaper often sits beside a cup of coffee. Readers flip past the front-page headlines from home and abroad and usually head straight for the pages they know best — some turn first to local news about which Chinese primary school has held a fundraising fair, some go to the literary supplement and opinion pages, and some are only after the obituaries, classified ads and the lottery results. For many Malaysian Chinese, the Chinese press is not just news but a daily habit of reading Chinese.

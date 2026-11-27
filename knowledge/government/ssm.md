@@ -76,6 +76,16 @@ relations:
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: The KL Sentral skyline of office and hotel towers rising behind the green lake of Kuala Lumpur's Perdana Botanical Gardens
+    kind: representative
+    origin: third-party
+    subject: The Kuala Lumpur Sentral (KL Sentral) transport-hub precinct where SSM's headquarters, Menara SSM@Sentral, is located, seen across the Perdana Botanical Gardens lake
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## At a glance

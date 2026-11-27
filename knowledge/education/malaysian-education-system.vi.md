@@ -34,7 +34,7 @@ faq:
     a: "Giáo dục kỹ thuật và nghề nghiệp chạy một phần qua các cao đẳng nghề của Bộ Giáo dục và một phần qua một tuyến chứng nhận riêng biệt — Chứng chỉ Kỹ năng Malaysia (Malaysian Skills Certificate, SKM) và Diploma Kỹ năng Malaysia (DKM/DLKM) — được cấp bởi Cục Phát triển Kỹ năng (Jabatan Pembangunan Kemahiran) thuộc Bộ Nhân lực, không phải Bộ Giáo dục hay Bộ Giáo dục Đại học."
 
 lang: "vi"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ relations:
   - { rel: "related-to", to: "stpm-vs-matriculation" }
   - { rel: "related-to", to: "tvet-malaysia" }
   - { rel: "related-to", to: "public-universities-malaysia" }
-related: []
+related: ["muet-and-university-entrance-tests"]
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: 'Một nhóm học sinh trung học Malaysia tươi cười tạo dáng cùng nhau trong đồng phục nhà trường, gồm áo sơ mi trắng, khăn trùm đầu và bộ đồ thể thao của các nhà.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: Học sinh mặc đồng phục dùng máy tính bảng tại bàn trong thư viện thông minh của một trường học Malaysia
+    kind: representative
+    origin: third-party
+    subject: Học sinh tiểu học Malaysia học bằng máy tính bảng trong thư viện thông minh của trường
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: Tòa nhà trường trung học Malaysia nhiều tầng với các lối đi có mái che dưới bầu trời xanh
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà một trường trung học quốc gia Malaysia (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 Hãy hỏi ba người Malaysia mô tả "hệ thống giáo dục" và bạn sẽ nhận được ba bản đồ khác nhau. Một người nói về SK so với SJKC. Người khác nói về STPM so với matriculation. Người thứ ba đề cập đến một chứng chỉ SKM mà không ai ngoài giới đào tạo kỹ thuật từng nghe đến. Cả ba đều đang mô tả cùng một hệ thống — chỉ là từ các nhánh khác nhau của nó.

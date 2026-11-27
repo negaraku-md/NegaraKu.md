@@ -31,7 +31,7 @@ faq:
   - q: 주요 말레이시아 제약회사는 어디인가요?
     a: 가장 잘 알려진 현지 제조사는 파마니아가(통합 제조·유통사 겸 정부 특허권자), 두오파마 바이오텍(CCM 그룹에서 성장했고 바이오시밀러를 만듦), CCM, 코트라 파마, 호비드입니다. 화이자, 노바티스, GSK 같은 다국적 기업은 대규모 현지 생산보다 주로 특허 의약품에 집중합니다.
 lang: ko
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - 백신 충전·완제
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: '뚜껑을 닫은 약병이 제약 제조 라인의 자동 컨베이어를 따라 이동하고 있다.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: 파란 상의와 모자를 쓴 작업자 여러 명이 짙은 색 작은 약병이 빽빽이 늘어선 작업대를 둘러서서 약병을 집어 확인하고 있고, 벽을 따라 유리문 수납장이 늘어선 밝은 제약 공장 안이다
+    kind: representative
+    origin: third-party
+    subject: 제약 포장 부서의 작업대에서 줄지어 놓인 충전 완료된 약병을 검사하고 포장하는, 파란 제복과 헤어캡을 쓴 작업자들
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: 파란 니트릴 장갑과 흰 실험복 차림의 두 손이 고온 표면 경고가 표시된 스테인리스강 실험 기기에 투명 플라스틱 알약 트레이를 올려놓고 있다
+    kind: representative
+    origin: third-party
+    subject: 제약 품질관리 실험실에서 알약 샘플 트레이를 검사 장비에 장착하는 장갑 낀 기술자
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 말레이시아인이 항생제, 진통제, 혈압약 처방을 받을 때마다, 그 약이 말레이시아에서 만들어졌을 가능성이 큽니다 — 이곳에서 발명된 것이 아니라, 국제 제조 표준에 맞춰 일하는 현지 공장에서 배합·압축·충전·포장된 것으로서 말입니다. 그것이 말레이시아 제약 산업의 핵심입니다. 국가의 상비약장을 채워 두는 탄탄한 제네릭 중심 제조 기반에, 이 나라가 가치사슬을 올라가게 해 주기를 바라는 두 가지 더 야심찬 베팅 — 할랄 의약품과 백신 생산 — 이 더해진 것입니다.

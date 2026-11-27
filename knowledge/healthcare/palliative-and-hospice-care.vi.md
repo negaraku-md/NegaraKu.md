@@ -29,7 +29,7 @@ faq:
     a: "Chăm sóc giảm nhẹ tập trung vào sự thoải mái và kiểm soát triệu chứng cho bệnh nhân mắc bệnh giới hạn tuổi thọ, bất kể tuổi tác, kể cả trẻ em. Còn chăm sóc người cao tuổi là chăm sóc chung cho người già mà có thể không mắc bệnh giai đoạn cuối."
 
 lang: "vi"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["healthcare-for-seniors"]
 keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap hujung hayat", "penjagaan di rumah", "KKM"]
 framework: explainer
+hero: '/media/healthcare/palliative-and-hospice-care/hero.webp'
+heroAlt: 'Một bảng hiệu trên cửa phòng bệnh viện ghi "Palliative Medicine Family Conference Room", một hình ảnh trung tính và không trực quan về chăm sóc giảm nhẹ.'
+heroCredit: 'Ashashyou / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: Tòa nhà thấp tầng có vườn phía trước của một cơ sở chăm sóc cuối đời, với cột cờ và lối xe vào yên tĩnh, đại diện cho một cơ sở chăm sóc cuối đời thanh bình
+    kind: representative
+    origin: third-party
+    subject: Một tòa nhà chăm sóc cuối đời một tầng yên bình với vườn cây dưới bầu trời quang đãng
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: Lối vào một đơn vị chăm sóc giảm nhẹ của bệnh viện hiện đại với mái hiên kính và luống cây, đại diện cho một cơ sở chăm sóc giảm nhẹ chuyên khoa
+    kind: representative
+    origin: third-party
+    subject: Lối vào có vườn của một đơn vị chăm sóc giảm nhẹ chuyên biệt
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 Khi việc điều trị không còn nhằm chữa khỏi, trọng tâm chuyển sang một điều: bảo đảm bệnh nhân được thoải mái và có nhân phẩm. Đó là cốt lõi của chăm sóc giảm nhẹ — và tại Malaysia, nó có thể được tiếp cận qua ba tuyến khác nhau.

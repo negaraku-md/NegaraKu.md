@@ -29,7 +29,7 @@ faq:
     a: "सेरुनाई को वृत्तीय श्वसन (circular breathing) तकनीक से बजाया जाता है, जो इसकी ध्वनि को बिना किसी बाधा के निरंतर बनाए रखती है, जिससे यह नोबात में धुन का मुख्य वाहक बन जाता है।"
 
 lang: "hi"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,34 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["पारंपरिक वाद्ययंत्र", "alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "मलय संगीत", "muzik Melayu", "बोर्नियो संगीत", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: 'पंख वाली टोपी और मनकों की पोशाक में एक गुदे-चित्रित ओरांग उलु संगीतकार बोल्ड लाल-काले बोर्नियन सर्पिल नक़्शों से चित्रित एक बड़ा सापे वीणा बजाता हुआ'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: नीले लकड़ी के स्टैंडों पर बड़े रेबाना उबि ढोलों की एक कतार, जिनके शरीर और ढाँचे लाल, हरे, पीले और गुलाबी रंग की चमकीली पुष्प आकृतियों से रँगे हैं
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के केलंतान से बड़े रेबाना उबि फ़्रेम-ढोलों की कतार
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: नारंगी कमीज़ में एक बुज़ुर्ग व्यक्ति एक सेरुनाई दोहरी-रीड वायु-पाइप बजाता है, उसके पीछे फ़र्श पर मलय फ़्रेम-ढोलों की कतारें लगी हैं
+    kind: actual
+    origin: third-party
+    subject: मलेशिया के केलंतान में अपने घर पर सेरुनाई दोहरी-रीड पाइप बजाता एक बुज़ुर्ग वादक
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 लगभग हर मलेशियाई प्रदर्शन कला के पीछे वही ध्वनियाँ बार-बार लौटती हैं: किसी विवाह में समूह में पीटी जाने वाली बकरी की खाल की थाप, छाया-कठपुतली के किसी दृश्य का आरंभ करने वाली ऊँची, करुण बाँसुरी, और सारावाक के किसी लॉन्गहाउस में लकड़ी के तारों की सुकून देने वाली झंकार। इन्हें उत्पन्न करने वाले वाद्ययंत्र कई कला-लेखों में आते हैं — इसलिए यह पृष्ठ उन्हें एक ही स्थान पर एकत्र करता है।

@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ko"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: '샤알람의 짙푸른 황혼 하늘을 배경으로, 조명이 켜진 푸른 돔의 술탄 살라후딘 압둘 아지즈 모스크와 네 개의 높은 첨탑이 빛나고 있다.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: 등대가 슬랑오르주 쿠알라슬랑오르를 내려다보는 부킷 믈라와티의 유서 깊은 언덕 위 요새 꼭대기에 솟아 있다.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 부킷 믈라와티의 쿠알라슬랑오르 등대
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: 슬랑오르주 샤알람의 i-City 테마파크에서 나무와 산책로가 색색의 LED 불빛으로 빛나고 있다.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 샤알람 i-City 빛 공원
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 슬랑오르(Selangor)는 말레이시아 경제가 조용히 기대고 있는 주(州)입니다. 그것은 연방 수도 쿠알라룸푸르와 행정 수도 푸트라자야를 완전히 에워싸며, 이 셋이 함께 클랑 밸리(Lembah Klang) — 이 나라에서 가장 큰 도시·산업 집합체 — 를 이룹니다.

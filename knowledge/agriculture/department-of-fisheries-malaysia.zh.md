@@ -30,7 +30,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysia", "Fisheries Act 1985", "fishing licence Malaysia", "aquaculture Malaysia", "dof.gov.my", "fisheries statistics Malaysia", "fishing zones Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: '马来西亚山打根一座圆形鱼市场大厅，渔船停泊在旁边的码头。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: 彭亨关丹一处渔业综合中心内,工人在停泊的渔船旁将鲜鱼分装入箱
+    kind: actual
+    origin: third-party
+    subject: 工人在彭亨关丹的渔业卸货点分拣当天渔获
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: 沙巴瓜拉班尤红树林环绕的西通波河上停泊着大型浮动养虾网箱平台
+    kind: actual
+    origin: third-party
+    subject: 沙巴西通波河红树林河道上的浮动养虾网箱
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 在马来西亚水域合法撒网捕鱼的每一艘船，归根到底都要向同一个机构负责。**马来西亚渔业局（DOF）**——*Jabatan Perikanan Malaysia*——是负责管理国家海洋与水产养殖资源、并为所有捕鱼活动发放执照的联邦机构。它隶属于**农业及粮食安全部（MAFS）**，执行**《1985年渔业法令》（第317号法令）**，并由**渔业总监**领导。其总部位于布城的 Wisma Tani，并由遍布各州与县的办事处网络提供支持。

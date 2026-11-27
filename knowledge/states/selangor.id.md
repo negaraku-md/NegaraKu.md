@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "id"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'Masjid Sultan Salahuddin Abdul Aziz yang berkubah biru dan bercahaya dengan empat menaranya yang tinggi bersinar dengan latar langit senja biru pekat di Shah Alam.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: Mercusuar memahkotai benteng bersejarah di puncak bukit Bukit Melawati yang menghadap Kuala Selangor di Selangor.
+    kind: actual
+    origin: third-party
+    subject: Mercusuar Kuala Selangor di Bukit Melawati, Selangor
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: Pepohonan dan jalur pejalan kaki bersinar dengan lampu LED warna-warni di taman hiburan i-City di Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Taman cahaya i-City, Shah Alam, Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 Selangor adalah negara bagian tempat ekonomi Malaysia bergantung secara diam-diam.

@@ -28,7 +28,7 @@ faq:
   - q: "ฉันจะลงทะเบียนเป็นผู้พิการ (OKU) อย่างไร?"
     a: "พลเมืองมาเลเซียที่ได้รับการรับรองโดยผู้เชี่ยวชาญทางการแพทย์ของรัฐบาลยื่นแบบฟอร์มการจดทะเบียน BPPOKU (แก้ไข 2/2019) พร้อมรายงานการตรวจสอบทางการแพทย์และสำเนา MyKad (หรือสูติบัตรสำหรับผู้ยื่นคำขออายุต่ำกว่า 12 ปี) ทั้งที่เคาน์เตอร์ JKM หรือออนไลน์ผ่านพอร์ทัล MyDaftar OKU ผู้ยื่นคำขอที่สำเร็จได้รับบัตร OKU ที่แสดงหมวดความพิการของตน"
 lang: "th"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,36 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'สำนักงานอำเภอกรมสวัสดิการสังคม JKM ในปนเตียน รัฐยะโฮร์ ด้านหน้ามีป้ายสีเหลืองขนาดใหญ่เขียนว่า ''Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian'' พร้อมโลโก้ JKM และอีเมล jkm.gov.my ข้างธงมาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: ป้ายและอาคารของสมาคมสงเคราะห์เด็กพิการในยะโฮร์บาห์รู บริการสวัสดิการชุมชน
+    kind: representative
+    origin: third-party
+    subject: ศูนย์สงเคราะห์เด็กพิการในยะโฮร์บาห์รู
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: บ้านสงเคราะห์ในบาตูปาฮัต รัฐยะโฮร์ สถานสงเคราะห์แบบพักอาศัย
+    kind: actual
+    origin: third-party
+    subject: บ้านสงเคราะห์ (rumah kebajikan) ในบาตูปาฮัต รัฐยะโฮร์
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **กรมสวัสดิการสังคม** — *Jabatan Kebajikan Masyarakat* ที่รู้จักกันทั่วไปด้วยอักษรย่อ **JKM** — เป็นหน่วยงานระดับสหพันธ์ที่รองรับชาวมาเลเซียเมื่อล้มลง จัดตั้งขึ้นในปี **1946** ในตอนแรกเพื่อตอบสนองต่อปัญหาสังคมที่เกิดจากสงครามโลกครั้งที่สอง และบทบาทต่อมาได้ขยายมาสู่ **การคุ้มครอง การฟื้นฟู การป้องกัน การพัฒนา และการบูรณาการชุมชน** ผลการค้นหาสำหรับ JKM ถูกครอบงำด้วยบล็อก "วิธีขอความช่วยเหลือ" ที่ประทับปีและหน้าบริการเปล่า ๆ; หน้านี้อธิบาย JKM ในฐานะสถาบันและวิธีที่บริการเชื่อมโยงกันตลอดวงจรชีวิตทั้งหมดแทน — ตั้งแต่เด็กถึงผู้พิการถึงผู้สูงอายุ

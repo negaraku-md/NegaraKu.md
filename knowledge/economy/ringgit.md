@@ -70,6 +70,34 @@ faq:
   - q: Why is the rate my bank or money changer gives me worse than BNM's published rate?
     a: Because BNM's KL USD/MYR reference rate is a market benchmark computed from the interbank market, used for contracts and valuation — not a retail price. Banks and money changers add their own spread on top, so you will always transact at a worse rate than the reference. The reference rate was 4.0841 as at 23 October 2026, but that is the benchmark, not what a customer actually pays at the counter.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'The front of a Malaysian one-hundred ringgit note reading BANK NEGARA MALAYSIA and SERATUS RINGGIT, with a large purple 100, the RM denomination and a portrait of the first Yang di-Pertuan Agong in royal headdress'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Close-up of a silver-coloured Malaysian ten sen coin inscribed BANK NEGARA MALAYSIA with a large numeral 10, the word SEN, the year 2006 and a floral motif, resting on a grey surface
+    kind: actual
+    origin: third-party
+    subject: A Malaysian 10 sen coin, the ringgit's fractional coinage
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: A ringgit note photographed under ultraviolet light so that a glowing green wau (traditional kite) motif and hidden BNM security markings fluoresce against the darkened paper
+    kind: actual
+    origin: third-party
+    subject: A Malaysian ringgit banknote under ultraviolet light, revealing its hidden security design
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## At a glance

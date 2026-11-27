@@ -29,7 +29,7 @@ faq:
     a: "주된 관할권은 주 이슬람 종교부/위원회에 있습니다. 이슬람 종교 사안이 헌법상 주(州) 사안이기 때문입니다. JAKIM은 연방 차원에서 조정하며, 건물 안전 요건은 지방 당국과 소방청이 관여합니다."
 
 lang: "ko"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: '파란색 바주 쿠룽과 검은색 히잡을 착용한 학생들이 코코넛 야자수를 지나 말레이시아 종교 중등학교 Sekolah Menengah Agama Al-Maarif로 걸어 들어가고 있다.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: 조호르주 바투파핫에 있는 타흐피즈(tahfiz) 학교의 고요한 외관으로, 학생들이 이곳에 기숙하며 학업과 함께 꾸란을 암송한다.
+    kind: actual
+    origin: third-party
+    subject: 마드라사 타흐피즈 알꾸란 하미디아(조호르주 바투파핫)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: 믈라카주 프링깃에 있는 종교초등학교(sekolah agama)의 소박한 건물로, 아이들이 오후반에 이슬람 과목을 배운다.
+    kind: actual
+    origin: third-party
+    subject: 프링깃 종교초등학교, 믈라카주
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 말레이시아의 한 아동은 오전을 국민학교에서, 오후를 모스크의 KAFA 수업에서, 그리고 청소년기를 타흐피즈 기숙사에서 보낼 수 있습니다. 감독 주체, 교육과정, 법이 서로 다른 세 교육 환경입니다. 이슬람 종교 교육 갈래는 국가 제도와 나란히 운영되지만, 하나의 단일 덩어리가 아닙니다. 누가 무엇을 등록하고 누가 무엇을 책임지는지를 이해하는 것이 이 주제에 관한 공적 논의를 공정하게 읽는 열쇠입니다.

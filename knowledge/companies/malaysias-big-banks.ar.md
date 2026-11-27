@@ -31,7 +31,7 @@ faq:
     a: "يصف CIMB نفسه بأنه مجموعة تركّز على آسيان (ASEAN) تعمل في أسواق منها ماليزيا وإندونيسيا وسنغافورة وتايلند. ويعمل RHB في سبعة أسواق إقليمية. ويمتد Maybank عبر ثلاثة أسواق رئيسية — ماليزيا وسنغافورة وإندونيسيا — إضافةً إلى عمليات عبر آسيان والمراكز المالية العالمية الكبرى."
 
 lang: "ar"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,32 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "بنوك ماليزيا", "Bank Negara Malaysia", "بنك نيغارا ماليزيا", "القطاع المصرفي"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'أفق ناطحات السحاب في وسط مدينة كوالالمبور، الحيّ المالي الرئيسي في ماليزيا، تهيمن عليه برجا بتروناس التوأمان.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: ناطحة سحاب بيضاء شاهقة يشكّل برجاها المنحنيان المتقابلان الشبيهان بالنصل المقرّ الرئيسي لـ Maybank، ترتفع فوق الأشجار المحيطة وشوارع المدينة أمام سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: برج Menara Maybank، المقرّ الرئيسي لبنك Malayan Banking (Maybank) في وسط Kuala Lumpur، أكبر بنك في ماليزيا
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: مبنى متعدّد الطوابق به فرع لبنك CIMB Bank ولافتته الحمراء CIMB في الطابق الأرضي، بواجهة زجاجية ومارّة يعبرون على الممشى أمامه تحت سماء صافية
+    kind: actual
+    origin: third-party
+    subject: فرع لبنك CIMB Bank في الطابق الأرضي من Bangunan UMNO، وCIMB من أكبر بنوك ماليزيا من حيث الأصول
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 ضَع في صف واحد الأسماء الخمسة التي تهيمن على كل شارع رئيسي ماليزي تقريبًا — [Maybank](/ar/companies/maybank) وCIMB وPublic Bank وRHB وHong Leong — فتكون أمام نواة نظام مصرفي يُقاصّ رواتب البلاد وقروضها العقارية ومعاملاتها التجارية. جميعها مؤسَّسة في ماليزيا، وجميعها مدرجة في بورصة ماليزيا (Bursa Malaysia)، وجميعها مرخَّصة من البنك المركزي نفسه. وفيما عدا ذلك، تتباين تباينًا حادًا: واحد يقزّم البقية حجمًا، وبعضها مرتكز فعليًا على الحكومة، واثنان لا تزال توجّههما العائلتان اللتان أسّستاهما.

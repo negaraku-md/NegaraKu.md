@@ -34,7 +34,7 @@ faq:
     a: "वृक्ष-आवरण हानि वृक्ष-छतरी के किसी भी हटाव को गिनती है — जिसमें बागानों की कटाई, आग और तूफ़ान से क्षति शामिल है — इसलिए इसमें वे हानियाँ भी शामिल हैं जो बाद में फिर उग आती हैं। प्राथमिक वन-हानि केवल अपूरणीय जैव-विविधता और कार्बन वाले परिपक्व प्राकृतिक वन के कटान को गिनती है, और स्थायी पारिस्थितिक हानि का बेहतर सूचक है।"
 
 lang: "hi"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch", "मलेशिया वन-कटान", "वन-हानि", "वन-आवरण", "प्राथमिक वन"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'बोर्नियो के किनाबालू पार्क में घने, अछूते उष्णकटिबंधीय वर्षावन में ऊँचे पेड़ों और वृक्ष-फ़र्न के बीच तैरती धुंध'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: Sabah, Malaysian Borneo में ताड़ के बागान की नियमित कतारों से घिरे गहरे मूल वर्षावन के एक अलग-थलग द्वीप का हवाई दृश्य
+    kind: actual
+    origin: third-party
+    subject: Sabah में ताड़ के बागानों से घिरा मूल वर्षावन का बचा हुआ टुकड़ा
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: Sabah, Malaysian Borneo में फीके रंग की लॉगिंग सड़कों के जाल और नारंगी साफ़ किए गए हिस्सों से कटा वर्षावन का ऊँचा हवाई दृश्य
+    kind: actual
+    origin: third-party
+    subject: Sabah में लॉगिंग सड़कों और ताड़ के लिए साफ़ किए गए हिस्सों से कटा जंगल
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 तीन विश्वसनीय स्रोतों से पूछें कि मलेशिया का कितना हिस्सा अभी भी वन है, और आपको ऐसी तीन उत्तर मिल सकते हैं जो दस प्रतिशत बिंदु अलग हों — सभी बचाव-योग्य, सभी थोड़ी भिन्न चीज़ मापते हुए। वह अंतर कोई राउंडिंग त्रुटि नहीं है; यह लघु रूप में मलेशियाई वन-कटान के बारे में पूरी बहस है।

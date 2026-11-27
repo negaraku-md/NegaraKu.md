@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Les lecteurs qui veulent identifier les neuf États royaux de la Malaisie et comprendre la position constitutionnelle des Souverains en termes descriptifs — étudiants, chercheurs, journalistes, agents publics et lecteurs en général."
 
 lang: "fr"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'Le grand portail en arc du Palais national, couronné de deux coupoles bulbeuses dorées et d''une grille dorée portant les armoiries royales, se dresse sous un ciel bleu dégagé.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: Une large vue diurne du palais national de Malaisie, un long complexe crème et blanc couronné de coupoles bulbeuses dorées, posé sur une éminence paysagée derrière une clôture périmétrique.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, le palais national sur Jalan Tuanku Abdul Halim, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: L'ancien Istana Negara, un majestueux palais couleur crème à la coupole proéminente et à la façade en arcades parmi une végétation tropicale, ancien palais national de la Malaisie aujourd'hui préservé en Musée royal.
+    kind: actual
+    origin: third-party
+    subject: L'ancien Istana Negara sur Jalan Istana, Kuala Lumpur, aujourd'hui le Musée royal (Muzium Diraja)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 La Malaisie compte treize États, mais seuls neuf d'entre eux ont un Souverain régnant. Les quatre autres États — Melaka, Penang, Sabah et Sarawak — sont dirigés par un Yang di-Pertua Negeri nommé, et non par un Souverain.

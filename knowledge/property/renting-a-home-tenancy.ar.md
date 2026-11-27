@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يستأجر أو يؤجّر عقارًا سكنيًا في ماليزيا — المستأجرون الذين يوقّعون أول اتفاقية إيجار لهم، والمُلّاك الذين يصوغونها، في شبه جزيرة ماليزيا أو صباح أو ساراواك."
 
 lang: "ar"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ faq:
   - q: هل يحق لصاحب العقار تغيير الأقفال أو قطع المرافق إذا رفض المستأجر المغادرة؟
     a: لا. يمنع البند 7(2) من قانون الإنصاف المحدد لسنة 1950 (Specific Relief Act 1950) صاحب العقار من الإخلاء بالقوة الذاتية — فلا يجوز تغيير الأقفال أو قطع الكهرباء أو الماء أو إخراج المتعلقات ما دام المستأجر لا يزال شاغلًا للعقار. واستعادة الحيازة تتطلب أمرًا من المحكمة. أما عن الإيجار غير المدفوع، فيتقدم صاحب العقار إلى المحكمة بطلب أمر حجز بموجب قانون الحجز لسنة 1951 (Distress Act 1951) لحجز المنقولات الخاصة بالمستأجر، بدلًا من مواجهة المستأجر مباشرة.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'شقق سكنية شاهقة بجوار خطّ قطار خفيف (LRT) في تامان ميهارجا بكوالالمبور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: شقق سكنية شاهقة كثيفة بجانب نهر في كوالالمبور، تمثّل الإسكان الإيجاري في ماليزيا
+    kind: representative
+    origin: third-party
+    subject: شقق سكنية شاهقة في Abdullah Hukum، كوالالمبور
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: مبانٍ سكنية متوسطة وشاهقة الارتفاع في ضواحي George Town، بينانغ، نموذجية للمنازل المعروضة للإيجار في ماليزيا
+    kind: representative
+    origin: third-party
+    subject: مبانٍ سكنية في ضواحي George Town، بينانغ
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 اسأل مالكًا ومستأجرًا في ماليزيا عن القانون الذي يحميهما، وسيخطئ معظمهم في التخمين. فلا يوجد «قانون لإيجار المساكن» يُلجأ إليه — لا قانون واحد يحدد مُدد الإشعار، أو يضع حدًّا أقصى للودائع، أو يبيّن ما يجوز للمالك وما لا يجوز له فعله عند إخلاء المسكن.

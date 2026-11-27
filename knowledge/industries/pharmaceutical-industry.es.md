@@ -31,7 +31,7 @@ faq:
   - q: ¿Cuáles son las principales empresas farmacéuticas malasias?
     a: Los fabricantes locales más conocidos son Pharmaniaga (una productora, distribuidora y concesionaria del gobierno integrada), Duopharma Biotech (que surgió del grupo CCM y fabrica biosimilares), CCM, Kotra Pharma y Hovid. Multinacionales como Pfizer, Novartis y GSK se centran principalmente en medicamentos patentados y no en gran producción local.
 lang: es
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - llenado y acabado de vacunas
   - BPM PIC/S
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Viales de medicamento tapados avanzando por una cinta transportadora automatizada en una línea de fabricación farmacéutica.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: Varios trabajadores con batas y gorros azules de pie alrededor de una mesa de trabajo cubierta de filas muy juntas de pequeños frascos de medicina oscuros, manipulándolos y revisándolos, en una luminosa planta farmacéutica con vitrinas a lo largo de la pared.
+    kind: representative
+    origin: third-party
+    subject: Trabajadores con uniforme azul y gorros para el cabello inspeccionando y envasando filas de frascos de medicina llenos sobre una mesa en una división de envasado farmacéutico
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: Un par de manos con guantes de nitrilo azules y bata blanca de laboratorio colocando una bandeja de plástico transparente con pastillas sobre un instrumento de laboratorio de acero inoxidable etiquetado con una advertencia sobre superficies calientes.
+    kind: representative
+    origin: third-party
+    subject: Un técnico con guantes cargando una bandeja de muestra de comprimidos en un equipo de ensayo en un laboratorio farmacéutico de control de calidad
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 Cada vez que un malasio surte una receta de un antibiótico, un analgésico o una pastilla para la tensión, hay buenas probabilidades de que el medicamento se fabricara en Malasia: no inventado aquí, pero sí formulado, prensado, llenado y envasado en una fábrica local que trabaja conforme a normas internacionales de fabricación. Ese es el corazón de la industria farmacéutica de Malasia: una base de fabricación sólida y liderada por los genéricos que mantiene surtido el botiquín nacional, emparejada con dos apuestas más ambiciosas —los fármacos halal y la producción de vacunas— que el país espera que lo lleven a ascender en la cadena de valor.

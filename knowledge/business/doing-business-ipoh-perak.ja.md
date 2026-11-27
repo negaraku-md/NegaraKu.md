@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,34 @@ keywords:
   - "Perak GDP"
   - "Ipoh cost of doing business"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: '部分的に曇った空の下、近代的な商業オフィスビルと緑の原、背後に石灰岩の丘を望む、昼間のイポー市街中心部'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: ドームとアーチ型のアーケードを備えた白い植民地様式のイポー駅舎を、青空の下、舗装された前庭越しに望む
+    kind: actual
+    origin: third-party
+    subject: ペラ州のイポー駅——前庭に立つ植民地時代のドーム型ランドマーク建築
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: ショップハウスとオフィスビルが密集するイポーの商業中心部を上空から見た眺め。背後にガラス張りのオフィスタワーと石灰岩の丘がある
+    kind: actual
+    origin: third-party
+    subject: ペラ州イポーの商業中心部——密集したショップハウスとオフィスビル、背後にガラス張りのオフィスタワーと石灰岩の丘
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 このページは意図的に短くしています。ペラの法制度はセランゴールと同じで、地方自治体が

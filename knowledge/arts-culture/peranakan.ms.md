@@ -19,7 +19,7 @@ keyTakeaways:
   - "Kebaya, yang menjadi tunjang pakaian Nyonya, disenaraikan dalam senarai warisan tidak ketara UNESCO pada 2024 melalui pencalonan bersama oleh Brunei, Indonesia, Malaysia, Singapura dan Thailand"
 appliesTo: "Sesiapa yang ingin mendapatkan gambaran yang tepat dan penuh hormat tentang siapa Peranakan (Baba-Nyonya), dan cara mengenali masakan, pakaian dan warisan kebendaan mereka di Melaka dan Pulau Pinang."
 lang: "ms"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'Dewan tetamu Peranakan di Muzium Warisan Baba Nyonya di Melaka, dengan sekatan kayu hitam berukir bersalut emas, perabot bertatah ibu mutiara, meja bulat beralas marmar dan panel burung-dan-bunga bercat pada dindingnya.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: Fasad bahagian atas sebuah rumah kedai Peranakan di Melaka, dengan bidai berdaun berbentuk lengkung berwarna pirus, relief acuan dan sejalur kerja jubin berkilat.
+    kind: actual
+    origin: third-party
+    subject: Fasad rumah kedai gaya Peranakan, Melaka
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: Sebuah mangkuk teh porselin Peranakan berserta tudungnya dicat dengan bunga peoni merah jambu dan burung feniks pada dasar putih, dipamerkan di dalam almari kaca.
+    kind: representative
+    origin: third-party
+    subject: Porselin teh Peranakan (barangan nyonya) dengan motif bunga dan burung
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 Masuk ke sebuah rumah kedai lama di Heeren Street, Melaka, dan cerita itu disampaikan melalui objek sebelum sesiapa pun berkata sepatah. Sehelai blaus renda yang ketat, disemat di bahagian depan dengan kerongsang emas tiga keping. Sepasang kasut yang hujung jarinya diselaputi beribu-ribu manik kaca halus, dijahit satu demi satu dengan tangan. Sebuah meja panjang berpermukaan marmar tersedia untuk satu hidangan yang bukan sepenuhnya Cina mahupun sepenuhnya Melayu. Semua ini kepunyaan Peranakan — Baba-Nyonya — sebuah komuniti yang membina satu budaya daripada kehidupan di antara dua dunia.

@@ -23,7 +23,7 @@ verificationNeeded:
   - "This article does not quote the exact fee for a private driving school's Class D course, or the exact JPJ fee schedule for the LDL/PDL/CDL pathway, because no single official JPJ fee table was found during verification — confirm current fees directly at a JPJ counter or licensed driving school before budgeting."
   - "The precise wording of section 28 of the Road Transport Act 1987 was confirmed through secondary summaries of the Act rather than a direct line-by-line read of the JPJ-hosted PDF (avoided here to control context use) — the section number and substantive effect are corroborated across multiple independent sources, but confirm exact wording against the JPJ-hosted Act 333 PDF if drafting anything with legal reliance on it."
 lang: "es"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'Un cruce en una autopista federal de Malasia cerca de Penang Sentral con señales de advertencia amarillas, semáforos y coches.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: Una señal de tráfico reglamentaria malasia de limitación de altura montada sobre una carretera de Kuala Lumpur, cerca del acceso a un peaje.
+    kind: representative
+    origin: third-party
+    subject: Señal de tráfico reglamentaria de Malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: Semáforos y marcas viales a lo largo de la Ruta Federal 91 de Malasia, que discurre hacia el norte por Kluang, Johor.
+    kind: actual
+    origin: third-party
+    subject: Autovía federal a su paso por Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 Un jubilado de MM2H que ha conducido treinta años en el extranjero, un recién

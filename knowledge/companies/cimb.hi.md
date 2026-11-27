@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,35 @@ verificationNeeded:
   - "परिसंपत्ति की दृष्टि से मलेशिया के दूसरे सबसे बड़े बैंक और ASEAN के पाँच सबसे बड़े बैंकिंग समूहों में से एक के रूप में रैंकिंग — स्थिति-आधारित और समय-परिवर्तनशील; मौजूदा प्रतिस्पर्धी तुलन-पत्रों के विरुद्ध पुनः पुष्टि करें।"
   - "ग्राहक संख्या (तृतीय-पक्ष प्रोफ़ाइलों में उद्धृत आँकड़े व्यापक रूप से भिन्न हैं, उदाहरण के लिए ~13.5 million खुदरा बनाम ~25 million कुल) — कोई संख्या प्रकाशित करने से पहले CIMB की अपनी मौजूदा रिपोर्टिंग के विरुद्ध सत्यापित करें।"
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'एक काँसे-काँच की कार्यालय मीनार जिसके शीर्ष पर बड़ा लाल CIMB BANK साइन है, उसकी बगल में नीचे लटकता लाल CIMB BANK और CIMB ISLAMIC बैनर, कुआलालंपुर की सड़क के ऊपर उठती हुई'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: एक काँच से ढकी आधुनिक मीनार जिसके शीर्ष के पास एक लाल CIMB लोगो है, जो KL Sentral में Q Sentral इमारत के बगल में खड़ी है, गहरे पेड़ों के पत्तों से घिरी हुई
+    kind: actual
+    origin: third-party
+    subject: Kuala Lumpur Sentral में आधुनिक CIMB मीनार, Perdana Botanical Garden से देखी गई
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: एक सफ़ेद औपनिवेशिक-युग की दो-मंज़िला विरासत इमारत जिसमें एक CIMB Bank शाखा है, भूतल के प्रवेश के ऊपर एक लाल CIMB BANK साइन के साथ
+    kind: actual
+    origin: third-party
+    subject: मलक्का नगर की Bendahara Street पर एक विरासत इमारत में CIMB Bank शाखा
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB वह बैंक है जिससे आप मलेशियाई वाणिज्य में लगभग हर मोड़ पर मिलते हैं — और बढ़ते हुए दक्षिण-पूर्व एशिया भर में। यह एक सार्वभौमिक बैंक है, अर्थात यह एक वेतनभोगी कर्मचारी के बचत खाते से लेकर अरबों-रिंगिट के बॉन्ड निर्गमों और सीमा-पार अधिग्रहणों तक सब कुछ करता है, और यह न केवल मलेशिया में बल्कि इंडोनेशिया, थाईलैंड और सिंगापुर में बड़े संचालनों के माध्यम से भी ऐसा करता है।

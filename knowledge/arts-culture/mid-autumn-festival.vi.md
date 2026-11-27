@@ -33,7 +33,7 @@ faq:
     a: "Đây là một trong những truyền thuyết về mặt trăng của Trung Thu được lưu truyền rộng rãi nhất: tương truyền Hậu Nghệ có được thuốc trường sinh bất tử, và vợ ông là Hằng Nga trong một hoàn cảnh nhất định đã uống thuốc tiên ấy, thân thể nhẹ bẫng bay lên, cuối cùng lên sống ở cung trăng, từ đó cách biệt với cõi người. Câu chuyện có nhiều dị bản với chi tiết khác nhau, nói chung được xem là truyền thuyết dân gian giải thích 'ngắm trăng dịp Trung Thu và có người sống trên cung trăng', chứ không phải sự thật lịch sử; bài viết này chỉ thuật lại một cách ngắn gọn."
 
 lang: "vi"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Cố định vào ngày 15 tháng 8 âm lịch, ngày mà mặt trăng tròn và sáng nhất, tượng trưng cho sự đoàn viên; ngày dương lịch tương ứng thay đổi mỗi năm theo âm lịch, thường rơi vào tháng 9 hoặc tháng 10."
   holiday: "Không phải ngày lễ công cộng. Tết Trung Thu tại Malaysia không phải ngày lễ công cộng trên toàn quốc hay của bất kỳ bang nào, các cửa hàng và cơ quan nhà nước vẫn hoạt động bình thường (khác với Tết Nguyên Đán vốn được nghỉ lễ công cộng hai ngày đầu)."
   etiquette: "Các lễ mừng công khai do hội quán người Hoa, đền chùa (như Thiên Hậu Cung ở Lạc Thánh Lĩnh, Kuala Lumpur) và các tổ chức cộng đồng tổ chức — như dạ hội lồng đèn, biểu diễn văn nghệ — thường chào đón cư dân thuộc các sắc tộc khác cùng tham gia, thưởng lãm, mang một khía cạnh chia sẻ liên sắc tộc."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'Một tác phẩm đèn lồng lụa lớn phát sáng hình một người đàn ông tươi cười mặc áo khoác tím và quần đỏ nâng một chiếc đèn lồng hình quả cầu xanh-vàng vào ban đêm, với những hàng đèn lồng đỏ và vàng thắp sáng dọc lối đi phía sau trong một lễ Trung thu ở Malaysia'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: Những dãy bánh trung thu nướng vàng nâu in họa tiết thỏ ngọc và hoa văn, bày ra để nguội trên một khay kim loại đục lỗ, lớp vỏ bóng bẩy bắt sáng
+    kind: representative
+    origin: third-party
+    subject: bánh trung thu thỏ ngọc mới nướng, món bánh đặc trưng của Tết Trung Thu
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: Một chiếc đèn lồng giấy đỏ hình xếp đàn accordion in những ngôi sao trắng và bóng chú thỏ, treo trước tán lá xanh và hoa hồng phấn, loại đèn lồng giấy xếp gọn kinh điển mà trẻ em xách trong dịp Trung Thu
+    kind: representative
+    origin: third-party
+    subject: một chiếc đèn lồng giấy đỏ xếp nếp truyền thống kiểu trẻ em thường xách trong dịp Tết Trung Thu
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 Khi màn đêm buông xuống vào ngày rằm tháng Tám âm lịch, sảnh giữa của trung tâm thương mại treo đầy lồng đèn đỏ rực, còn ở công viên khu dân cư, từng tốp hai ba đứa trẻ rước những chiếc lồng đèn thắp sáng đi lại. Trên bàn ăn ở nhà, một hộp bánh trung thu cắt thành từng miếng nhỏ đặt cạnh một ấm trà nóng, bên cạnh là một quả bưởi đã bóc vỏ. Cả nhà khiêng ghế ra ngoài, ngẩng đầu ngắm vầng trăng tròn nhất trong năm — đó là một đêm Trung Thu điển hình của một gia đình người Hoa Malaysia.

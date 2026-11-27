@@ -35,7 +35,7 @@ faq:
     a: "Targets are tied to the cycle of major games — the Olympics, the Asian Games and the Commonwealth Games — and focus is given to sports identified as having a high chance of success, in line with Objective 8 of the National Sports Policy. Funding is channelled on a cyclical basis (for example RM60 million a year for four years), coordinated by the National Sports Council and supported by sports science from the National Sports Institute."
 
 lang: "en"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "institut-sukan-negara" }
   - { rel: "part-of", to: "dasar-sukan-negara-2009" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-day-malaysia"]
 keywords:
   - "Dasar Sukan Negara 2009"
   - "Program Podium Malaysia"
@@ -93,6 +93,32 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'Medal-winning gymnasts stand on the podium at the 2017 Kuala Lumpur SEA Games as a Malaysian athlete holds the national flag.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: Malaysian para-badminton player Cheah Liek Hou, in Malaysia's yellow kit, moving to the net during the men's SU5 singles final at the Paris 2024 Paralympics.
+    kind: actual
+    origin: third-party
+    subject: Malaysian elite athlete Cheah Liek Hou competing at the Paris 2024 Paralympics
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: The Pandelela Rinong Aquatic Centre in Kuching, a modern red-and-green diving and swimming venue named after Malaysia's Olympic diving medallist.
+    kind: representative
+    origin: third-party
+    subject: Pandelela Rinong Aquatic Centre, a Malaysian elite sports venue named after an Olympic medallist
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 Every time a Malaysian athlete steps onto the Olympic podium, two different systems are in fact at work behind them — one that tries to get the whole population moving, and another that concentrates vast resources on the small handful capable of winning. Both live under the same policy document, but they are funded and measured in very different ways.

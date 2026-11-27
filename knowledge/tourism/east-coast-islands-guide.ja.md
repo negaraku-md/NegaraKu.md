@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 
 status: "published"
 aiAssisted: true
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'ビーチとリーフを楽しむ旅行者に——バックパッカー向けのビーチからパッケージ型リゾートまで、海洋公園の島を巡りたいシュノーケラーやダイバー向け。'
+  getThere: '各島それぞれの本土側の桟橋からボートで渡る：トレンガヌではRedangへMerang、PerhentianへKuala Besut、KapasへMarang、パハンではTiomanへMersingまたはTanjung Gemok。'
+  permit: '乗船前に本土の桟橋ターミナルの窓口で支払う、ボート料金とは別の義務的な海洋公園保全料。'
+  watch: '一律に定められた閉鎖期間はないが、ほとんどの島の業者は北東モンスーンの時期に自主的に休業するため、その時期が近い場合は支払う前にボートの運航を確認すること。'
+  next: '現在の保全料と海洋公園の規則は、Department of Fisheries Malaysiaで確認すること。'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'ペルヘンティアン島の、積雲のある青空の下、風化した花崗岩の巨石、一本の木、ターコイズの浅瀬のある人のいない白砂のビーチ'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: ルダン島の、ターコイズブルーの海とヤシの木とともに、小さな森に覆われた岩の小島へと弧を描く広い白砂のビーチ
+    kind: actual
+    origin: third-party
+    subject: 沖合の岩の小島とターコイズブルーの海を望むルダン島の長い白砂ビーチ、トレンガヌ州
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: ルダン島のプルフンティアン諸島で、素朴なシャレーの屋根とヤシの木越しに、小舟が点在する鮮やかなターコイズブルーの入り江と森に覆われた岬を見下ろす高所からの眺め
+    kind: actual
+    origin: third-party
+    subject: プルフンティアン諸島のビーチの集落と、小舟が点在するターコイズブルーの入り江を見下ろす高所からの眺め。人気のシュノーケリング拠点
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 12月にルダンのビーチリゾートに現れると、ボートは姿を消し、桟橋は静まり返り、ダイビングショップはシャッターを下ろしているのに出くわす公算が大きい。東海岸の島々は、旅行パンフレットではなく海が書いたカレンダーに従って動いている——そして、多くの初心者がチケットカウンターで初めて知ることになる一連の海洋公園のルールにも従っている。

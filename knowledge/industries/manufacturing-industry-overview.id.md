@@ -34,7 +34,7 @@ faq:
     a: "Jabatan Perangkaan Malaysia (DOSM) menerbitkan statistik manufaktur bulanan dan tahunan serta data PDB. Lembaga Pembangunan Pelaburan Malaysia (MIDA) mempromosikan dan menyetujui investasi manufaktur, sementara Kementerian Pelaburan, Perdagangan dan Industri (MITI) memiliki NIMP 2030."
 
 lang: "id"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,9 +77,37 @@ relations:
   - { rel: "related-to", to: "electrical-electronics-industry-overview" }
   - { rel: "related-to", to: "automotive-industry-overview" }
   - { rel: "administered-by", to: "mida" }
-related: []
+related: ["aerospace-industry", "construction-industry", "malaysia-free-trade-agreements"]
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'Lini perakitan mobil modern dengan beberapa bodi mobil berjajar di bawah penerangan pabrik yang terang dan konveyor gantung'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: Beberapa lengan robot oranye menyusun peti kuning secara paletisasi pada jalur produksi otomatis di sebuah pabrik
+    kind: representative
+    origin: third-party
+    subject: Lengan robot industri oranye menyusun kemasan makanan secara paletisasi pada jalur pabrik otomatis
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: Seorang teknisi dengan pakaian pelindung putih seluruh tubuh, masker, dan sarung tangan mengerjakan komponen logam presisi di ruang bersih berubin yang terang
+    kind: representative
+    origin: third-party
+    subject: Seorang teknisi berpakaian pelindung putih merakit peralatan presisi di dalam ruang bersih berteknologi tinggi
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Sebut "pabrik Malaysia" dan kebanyakan orang membayangkan ruang bersih semikonduktor di Pulau Pinang atau lini produksi Proton di Shah Alam. Itu memang ada, dan ia besar — tetapi ia hanya duduk di atas fondasi perindustrian yang jauh lebih luas. Pada 2024 keseluruhan sektor ini menggerakkan penjualan RM1.9 triliun dan mempertahankan sekitar 2.4 juta orang dalam pekerjaan, dan sebagian besar darinya datang dari mesin, plastik, karet, alat kesehatan, bahan kimia dan makanan di rak pasar swalayan.

@@ -23,7 +23,7 @@ verificationNeeded:
   - "Artikel ini tidak menyatakan jumlah penerimaan program, tingkat kuota, atau angka biaya khusus bagi institusi mana pun — ini berbeda menurut program dan kampus serta berubah pada setiap penerimaan; pastikan langsung dengan e-Panduan UPU (bagi universitas negeri) atau institusi terkait (bagi universitas swasta) sebelum melamar."
   - "Jumlah sebenarnya penyedia IPTS terdaftar terkini tidak dinyatakan di sini karena tabel statistik yang diterbitkan oleh MOHE (Statistik Pendidikan Tinggi) tidak dibuka sepenuhnya untuk artikel ini — untuk angka yang tepat dan terkini, rujuk langsung penerbitan Statistik Pendidikan Tinggi MOHE."
 lang: "id"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,39 @@ faq:
   - q: Suatu program hanya "terakreditasi sementara" — apakah itu berarti ia tidak terakreditasi?
     a: Tidak. Berdasarkan Kode Praktik Akreditasi Program MQA, Akreditasi Sementara memastikan bahwa suatu program telah memenuhi persyaratan mutu minimum untuk ditawarkan secara sah, dan itu sendiri merupakan syarat bagi persetujuan Kementerian. Akreditasi Penuh adalah penilaian yang lebih menyeluruh yang dilakukan setelah angkatan pertama menyelesaikan program tersebut. Program yang terakreditasi sementara adalah sah dan dapat ditawarkan secara sah; ia hanya belum menyelesaikan penilaian siklus penuh.
 framework: explainer
+stayFacts:
+  who: 'Ini untuk pemegang SPM, STPM, matrikulasi, asasi, UEC, A-Level, atau diploma yang sedang memutuskan antara universitas negeri (IPTA/Universiti Awam) dan universitas swasta (IPTS).'
+  how: 'Universitas negeri menerima mahasiswa hampir sepenuhnya melalui UPU (Unit Pusat Universiti), sistem daring terpusat milik Kementerian — Anda menyusun peringkat pilihan program dan dicocokkan menurut merit terhadap tempat yang terbatas kuota. Institusi swasta berada di luar UPU, menjalankan penerimaan berkelanjutan mereka sendiri secara langsung, dan menerima gabungan kualifikasi yang lebih luas.'
+  cost: 'Permohonan UPU itu sendiri gratis, meskipun Anda membeli Unik ID 12 digit dari Bank Simpanan Nasional (BSN) untuk masuk; biaya institusi swasta ditetapkan per program dan berubah, jadi pastikan angka terkini dengan e-Panduan UPU atau institusi terkait.'
+  watch: 'Label IPTA/IPTS tidak memberi tahu apakah suatu gelar diakui — itu tergantung apakah program tertentu tersebut terakreditasi MQA di dalam MQR, yang sebaiknya Anda periksa untuk tahun penerimaan Anda yang tepat. Anda tidak dapat melamar ke universitas swasta melalui UPU.'
+  next: 'Putuskan berdasarkan kualifikasi yang Anda pegang, lalu verifikasi program dan tahun penerimaan yang tepat di Malaysian Qualifications Register sebelum mendaftar pada salah satu jenis institusi. Lihat penjelasan akreditasi MQA dan panduan Sebelum membayar deposit kolej.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'Aula modernis beton ekspos panjang bertuliskan ''Dewan Tunku Canselor'' biru dan tangga luar, berlatar taman topiari dan jalan yang lengang'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Gedung administrasi universitas berlantai banyak berkaca biru dengan menara pusat melengkung di atas bukit bertaman, dicapai lewat tangga berundak berjajar bendera
+    kind: representative
+    origin: third-party
+    subject: gedung Kanselori modern berkaca Universiti Teknologi MARA (UiTM), salah satu universitas negeri terbesar di Malaysia
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Gerbang pintu masuk universitas berpilar batu bertuliskan 'Universiti Sains Malaysia', diapit tiang bendera dan hijauan lebat di bawah langit mendung
+    kind: representative
+    origin: third-party
+    subject: gerbang pintu masuk utama Universiti Sains Malaysia (USM), universitas riset negeri, di Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Dua orang pelajar dengan hasil SPM yang sama dapat berakhir dalam dua sistem

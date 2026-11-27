@@ -89,7 +89,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-insolvensi-malaysia" }
   - { rel: "governs", to: "insolvency-act-1967" }
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
-related: []
+related: ["akpk-debt-management", "credit-reports-ccris-ctos", "bank-negara-malaysia"]
 keywords: ["दिवालियापन", "kebankrapan", "bankrap", "दिवाला", "insolvensi", "दिवाला अधिनियम 1967", "Insolvency Act 1967", "MDI", "महानिदेशक दिवाला", "दिवालियापन से उन्मुक्ति", "धारा 33C", "AKPK", "DMP"]
 framework: explainer
 ---

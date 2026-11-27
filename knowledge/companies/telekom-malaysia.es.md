@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global",
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
+hero: '/media/companies/telekom-malaysia/hero.webp'
+heroAlt: 'El rascacielos curvo y ahusado Menara TM elevándose contra un cielo azul con nubes cúmulo, con su columna vertebral en forma de hoja luciendo el logotipo rojo y azul de TM y una terraza panorámica en forma de disco que sobresale de los pisos superiores'
+heroCredit: 'Shesmax / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: La distintiva torre curvada e inclinada Menara TM, con el logotipo de TM en su espina superior y una terraza panorámica en forma de platillo, elevándose a la derecha contra un cielo azul junto a una torre de oficinas octagonal, con un viaducto ferroviario elevado cruzando en primer plano
+    kind: actual
+    origin: third-party
+    subject: Menara TM vista junto a una torre vecina al otro lado de una autopista elevada, con el logotipo de TM visible en su aguja, Lembah Pantai, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: Toda la extensión de la fachada plateada curvada de Menara TM y su aguja en forma de hoja coronada por una terraza panorámica en forma de disco, contra un pesado cielo gris encapotado sobre edificios urbanos más bajos
+    kind: actual
+    origin: third-party
+    subject: Vista de altura completa de Menara TM y su terraza panorámica en forma de platillo volante bajo un cielo gris sombrío, Kuala Lumpur
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 Casi cada línea de banda ancha de fibra, circuito empresarial y cable de datos submarino en Malasia toca a una sola empresa antes de llegar a nadie más. Telekom Malaysia Berhad (TM) es el operador histórico nacional: el que construyó la mayor parte de la red fija del país y aún posee la red troncal de la que dependen los rivales y los transportistas internacionales.

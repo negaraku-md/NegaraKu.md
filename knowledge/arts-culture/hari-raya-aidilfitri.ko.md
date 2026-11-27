@@ -33,7 +33,7 @@ faq:
     a: "루마 트르부카(rumah terbuka)는 친지, 이웃, 친구 — 다른 종족과 종교의 사람들을 포함하여 — 를 샤왈 기간 내내 집으로 초대해 음식을 대접하는 관행입니다. 이는 말레이시아에서 널리 퍼진 사회적 특징이 되었으며, 개인 가정뿐 아니라 정부 기관과 기업도 자주 엽니다."
 
 lang: "ko"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,34 @@ festivalFacts:
   when: "음력(qamari)의 1 Syawal이며, 그 날짜는 그레고리력에서 매년 약 11일씩 앞당겨지고 초승달 관측(rukyah)을 통해 정해진다."
   holiday: "첫째 날과 둘째 날은 말레이시아 전역에서 연방 공공 공휴일로 관보에 고시된다."
   etiquette: "여러 민족의 손님을 개방 가옥에 환영하며, 단정하게 옷을 입고, 대개 집에 들어가기 전에 신발을 벗는다."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: '페락주 알로르 퐁수에서 하리라야 아이딜피트리 아침 예배를 마치고 축제용 바주 믈라유를 입고 쌍첨탑 마을 모스크를 나서는 인파'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: 말레이시아의 대표적인 하리 라야 아이딜피트리 음식인 소고기 른당 한 접시 옆에 놓인, 야자 잎으로 엮은 크투팟 팔라스 밥 꾸러미
+    kind: actual
+    origin: third-party
+    subject: 대표적인 하리 라야 음식인 크투팟 팔라스와 소고기 른당
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: 말레이시아의 하리 라야 아이딜피트리 기간에 어두운 정원에서 환한 불꽃을 내며 타오르는 대나무 플리타 기름등
+    kind: actual
+    origin: third-party
+    subject: 하리 라야 기간 밤에 불을 밝힌 대나무 플리타 기름등
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 라마단의 마지막 밤, 온 나라가 한꺼번에 움직이는 듯합니다. 남북 고속도로는 몇 시간씩 막히고, 버스 정류장은 가방과 과자 통으로 가득하며, 도시에서 시골 구석까지 집 베란다에 플리타 등불이 켜집니다. 이튿날인 샤왈 1일, 한 달간의 단식이 끝나고 — 말레이시아는 하리 라야 아이딜피트리를 맞이합니다.

@@ -34,7 +34,7 @@ verificationNeeded:
   - "Pastikan angka penduduk Kuala Lumpur dan Greater Kuala Lumpur, serta peringkat KDNK per kapita, terhadap rilis DOSM terkini sebelum penerbitan."
 
 lang: "id"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'Menara Kembar Petronas yang bercahaya menjulang di atas kaki langit distrik KLCC dengan latar langit senja keemasan di Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: Pandangan luas cakrawala Kuala Lumpur dengan KL Tower berpuncak jarum dan gedung-gedung tinggi berkelompok di bawah awan putih besar serta taman hijau di latar depan
+    kind: actual
+    origin: third-party
+    subject: Cakrawala kota Kuala Lumpur panoramik dengan KL Tower di bawah langit berawan yang cerah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: Bangunan Sultan Abdul Samad bergaya Moor dengan menara jam tinggi dan kubah tembaga berkilaunya di pusat Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Abdul Samad era kolonial dengan menara jam berkubah tembaga, pusat Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 Kuala Lumpur adalah ibu kota Malaysia, tetapi dari segi konstitusi ia bukan sebuah

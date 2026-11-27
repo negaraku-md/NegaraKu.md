@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 
 status: "published"
 aiAssisted: true
@@ -88,6 +88,34 @@ relations:
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "Sime Darby demerger", "Permodalan Nasional Berhad", "UMW Holdings", "Bursa Malaysia conglomerate"]
 framework: profile
+hero: '/media/companies/sime-darby-group/hero.webp'
+heroAlt: '農園進入路のそばの、赤いサイム・ダービーのロゴを掲げた白と赤のサイム・ダービー・プランテーションの入口の柱。明るい青空の下、アブラヤシの列に縁取られる'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Ladang_Salak_Divisyen_Sendayan_(220709).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: サバ州Kunakの工業複合施設にある、赤いSime Darbyのロゴを掲げた大きな灰色の粗パーム油貯蔵タンク。手前にはココヤシの木がある
+    kind: actual
+    origin: third-party
+    subject: サバ州KunakにあるSime Darbyの粗パーム油（CPO）貯蔵タンク
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: 赤いSime Darbyのロゴを掲げた白いSime Darby Plantationの標柱が、アブラヤシの壁を背に緑の地被植物の中に立ち、上空に送電線がある
+    kind: actual
+    origin: third-party
+    subject: サバ州のサンダカン＝ラハダトゥ道路沿いにあるSime Darby Plantation農園の標柱
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 マレーシア最古の企業名の一つが、今では1社ではなく3社になっている。

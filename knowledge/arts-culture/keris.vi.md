@@ -39,7 +39,7 @@ faq:
     a: "Có, nhưng số empu lành nghề suy giảm mạnh, khiến việc truyền nghề khó khăn. UNESCO liệt kê sự suy giảm này là thách thức chính đối với sự bền vững của keris."
 
 lang: "vi"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,34 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: 'Một thanh keris nghi lễ của người Mã Lai nằm trên bề mặt tối, lưỡi thép gợn sóng và phần gốc bọc trong hoa văn koftgari hoa lá mạ vàng bên dưới chuôi màu ngà chạm khắc, với bao gỗ dập bạc tương xứng đặt bên dưới'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: Vài thanh keris hoàng gia cổ dựng thẳng trong tủ trưng bày tối màu của bảo tàng, bao kiếm bạc dài chạm khắc được gắn chuôi đúc tinh xảo hình đầu chim, ánh sáng làm phần kim loại ánh lên trên nền tối
+    kind: actual
+    origin: third-party
+    subject: một bộ sưu tập keris hoàng gia Mã Lai với chuôi bạc hình đầu chim cầu kỳ, gắn liền với Vương quốc Hồi giáo Johor-Riau
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: Một thanh keris nghi lễ lưỡi thẳng với chuôi chạm khắc màu tối nằm bên cạnh bao kiếm gỗ dài thanh mảnh trên một mặt phẳng sáng màu, phía dưới có tấm chú thích bảo tàng ghi KERIS ALANG PAHANG
+    kind: actual
+    origin: third-party
+    subject: Keris Alang của Pahang, một thanh keris nghi lễ tượng trưng cho quyền uy của tù trưởng, đặt bên cạnh bao kiếm gỗ
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Một lưỡi dao răng cưa như lưỡi lửa, được rèn từ sắt và niken gấp lại hàng trăm lần bởi bàn tay một empu — keris không chỉ là vũ khí, mà là nhịp đập của nền văn minh Mã Lai. Nó được giắt bên hông chiến binh, được nâng cao trong nghi lễ hoàng gia, và được truyền lại đời này qua đời khác như báu vật gia đình. Đến tận ngày nay, keris vẫn là biểu tượng của chủ quyền, lòng dũng cảm và bản sắc dân tộc.

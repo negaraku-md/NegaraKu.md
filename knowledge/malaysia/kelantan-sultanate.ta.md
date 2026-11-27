@@ -21,7 +21,7 @@ appliesTo: "கிளந்தானின் முடியாட்சிய�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "Long Yunus கிளந்தான் அரியணையை ஏற்ற சரியான ஆண்டு ஆதாரங்களுக்கு இடையே வேறுபட்டுக் கொடுக்கப்படுகிறது (c. 1760, 1763, 1764, மற்றும் c. 1774 அனைத்தும் தோன்றுகின்றன); இந்தக் கட்டுரை '1760கள்' என்பதைப் பயன்படுத்துகிறது, மேலும் ஒரே ஓர் ஆண்டு உறுதிப்படுத்தப்படுவதற்கு முன் ஒரு பிரத்யேக வரலாற்று ஆய்வுக்கு எதிராக இணக்கப்படுத்தப்பட வேண்டும்."
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'மஞ்சள் தூண்கள், செதுக்கப்பட்ட விளிம்புப் பலகைகள் மற்றும் அடுக்கடுக்கான கூரைகளைக் கொண்ட அலங்காரமான கருப்பு மர அரண்மனை, வட்ட வடிவ செங்கல் முற்றத்தில் நிறுத்தப்பட்டுள்ள பழங்கால குதிரை வண்டிக்குப் பின்னால் உயர்ந்து நிற்கிறது.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: 1930-களைச் சேர்ந்த அழகிய வெளிர் மஞ்சள் நிற அரச மாளிகை, அகலமான வளைவுத் திண்ணைகள், தட்டிச் சாளரங்கள் மற்றும் தாழ்வான ஓட்டு கூரையுடன், இப்போது கிளந்தான் அரச அருங்காட்சியகமாக, கோட்டா பாரு அரச பகுதியில் புல்வெளியின் பின்னால் அமைந்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: கோட்டா பாருவில் உள்ள இஸ்தானா பாத்து (கிளந்தான் அரச அருங்காட்சியகம் / முசியம் டிராஜா)
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: அகலமான மைய கோபுரம், மூலைக் குமிழ்கள் மற்றும் வானளாவிய மினாரத்துடன் கூடிய கிரீம்-வெள்ளை நிற பிரமாண்டமான மாநிலப் பள்ளிவாசல், நீல வானத்தின் கீழ் இரும்பு வேலியின் பின்னால் தெருவிலிருந்து காணப்படுகிறது.
+    kind: actual
+    origin: third-party
+    subject: கோட்டா பாருவில் உள்ள கிளந்தான் மாநிலப் பள்ளிவாசலான மஸ்ஜித் முஹம்மதி
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 மலாய் தீபகற்பத்தின் வடகிழக்குத் தோளில், ஆறுகள் தெற்கு சீனக் கடலுக்கு இறங்கி ஓடும், மேலும் கடற்கரை ஒரு காலத்தில் மலாய் இதயப்பகுதியை நோக்கிப் பார்த்த அளவுக்கு பழைய Patani இராச்சியத்தை நோக்கியும் பார்த்த இடத்தில், ஒரு அரியணை ஒரு உள்நாட்டுப் போரிலிருந்து வார்க்கப்பட்டது. அதன் நிறுவனர் ஒரு மன்னராகப் பிறக்கவில்லை. அவர் தனது எதிரிகளைத் தாண்டி வாழ்ந்த, Patani வம்சாவளியைச் சேர்ந்த ஒரு போர்த்தலைவர், மேலும் அவர் தொடங்கிய வம்சம் — House of Long Yunus — இரண்டரை நூற்றாண்டுகளுக்கும் மேலாக, இன்றும் கிளந்தானில் ஆட்சி புரிகிறது.

@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "Abdullah Ahmad Badawi"
-seoTitle: Abdullah Ahmad Badawi
+seoTitle: "Abdullah Ahmad Badawi: Perdana Menteri kelima Malaysia (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]
@@ -70,6 +70,13 @@ verificationNeeded:
   - "Tokoh politik baru-baru ini; konsep Islam Hadhari (agama) dan hasil-hasil pemilu dirangkum secara netral — periksa ulang terhadap sumber primer dan wajibkan persetujuan peninjau manusia sebelum publikasi."
   - "KONFIRMASIKAN tanggal kematiannya (dilaporkan 14 April 2025, di Institut Jantung Negara di Kuala Lumpur, pada usia 85 — catatan: tanggal 20 April 2025 yang semula disediakan tampaknya keliru) dan semua tanggal jabatan terhadap sumber primer sebelum publikasi."
 framework: profile
+hero: '/media/malaysia/abdullah-ahmad-badawi/hero.webp'
+heroAlt: 'Abdullah Ahmad Badawi yang tenang dalam setelan gelap dan kemeja berkerah terbuka menatap ke atas dengan penuh renungan sambil duduk di depan latar World Economic Forum.'
+heroCredit: 'World Economic Forum / swiss-image.ch / Gian Vaitl / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abdullah_Badawi_2007.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setelah masa jabatan [Mahathir Mohamad](/id/malaysia/mahathir-mohamad) yang panjang dan kuat, Malaysia pada akhir 2003 mewarisi seorang pemimpin yang sangat berbeda jenisnya: seorang mantan pegawai negeri yang lembut bicaranya dari Penang yang menjanjikan permusyawaratan alih-alih perintah, pemerintahan yang bersih alih-alih proyek-proyek megah, dan nada publik yang lebih lembut. Abdullah Ahmad Badawi — yang dikenal oleh hampir semua orang hanya sebagai **"Pak Lah"** — menjadi **Perdana Menteri kelima** negara itu di atas gelombang niat baik, memenangkan salah satu mandat pemilu terbesar dalam sejarah Malaysia, dan kemudian, lima tahun kemudian, mengetuai pemilu yang membentuk ulang politik bangsa itu.

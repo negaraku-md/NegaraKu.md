@@ -33,7 +33,7 @@ faq:
     a: "உயர் தூண் சிங்க நடனம் சீன சமூகத்தின் பாரம்பரிய விழிப்புச் சிங்க வழக்கத்திலிருந்து உருவானது; சில சிங்கக் குழுக்கள் கோயில்களில் அமைந்துள்ளன அல்லது கோயில்களின் பெயரால் அழைக்கப்படுகின்றன; தூண் ஏறுவதற்கு முன் கண் திறப்பு போன்ற பாரம்பரியச் சடங்குகள் நடைபெறலாம். ஆனால் விளையாட்டாகவும் நிகழ்ச்சியாகவும் இன்று இது பெரும்பாலும் ஒரு பண்பாட்டு நடவடிக்கையாகவும் விளையாட்டாகவும் கருதப்படுகிறது; சில நவீன சிங்கக் குழுக்கள் தங்கள் பயிற்சியில் மத அம்சத்தைக் குறைத்தும் வைக்கின்றன. இந்தக் கட்டுரை வழக்கத்தையும் விளையாட்டையும் மட்டுமே விவரிக்கிறது, எந்த நம்பிக்கைக்கும் தீர்ப்பு வழங்கவில்லை."
 
 lang: "ta"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'ஒரு போட்டியில், உயர்ந்த உலோகக் கம்பங்களின் வரிசைக்கு மேல் காற்றில் தாவும் நிலையில் பிடிக்கப்பட்ட, இரு கலைஞர்கள் உள்ளே இருக்கும் வெள்ளை-தங்க சிங்க நடன உடை'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: கோலாலம்பூரில் தெருக் கூட்டத்திற்கு மேலே உயரமான சிவப்புக் கம்பங்களின் மேல் அமர்ந்துள்ள வெள்ளை நிற சிங்க நடன சிங்கம், பின்னால் சீனக் கடை பலகைகள்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, கோலாலம்பூர் தெருவில் கூட்டத்திற்கு முன் ஜோங் கம்பங்களின் மேல் நிகழ்த்தப்படும் உயர்-கம்ப சிங்க நடனம்
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: பிரகாசமாக அலங்கரிக்கப்பட்ட வெள்ளை சிங்க நடன சிங்கத்தின் தலையும் உடலும் மேடை ஒளியின் கீழ் முன்னோக்கிப் பல உயரமான கம்பங்களின் உச்சியில் சமநிலைப்படுத்தப்பட்டுள்ளது
+    kind: representative
+    origin: third-party
+    subject: பல உயர்-ஜோங் கம்பங்களின் மேல் குனிந்து சமநிலைப்படுத்தப்பட்ட, தலை கேமராவை நோக்கியுள்ள வெள்ளைப் போட்டி சிங்கம்
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 மேளம் இறுகியதும், சிங்கம் காற்றில் தாவுகிறது; அதன் முன்னங்கால்கள் ஒரு கிண்ணத்தின் விளிம்பளவு மெல்லிய எஃகுத் தூணின் மேல் உறுதியாக இறங்குகின்றன; சிங்கத்தின் வால் உடனே பின்தொடர்கிறது — இரு கலைஞர்கள் தரையிலிருந்து இரண்டு மூன்று மீட்டர் உயரத்தில், வெவ்வேறு உயரங்களில் அமைந்த ஒரு வரிசைத் தூண்களுக்கு இடையே தாவி நிலைநிறுத்துகின்றனர்; பார்வையாளர்கள் மூச்சடக்கிக் காத்திருக்கின்றனர்; 'உயிர் பெற்ற' அந்தச் சிங்கம் மிக உயரமான தூணின் மேல் உறுதியாக நிலைநிற்கும் வரை. பின்னரே கைதட்டல் வெடிக்கிறது. இது தரையில் ஆடப்படும் புத்தாண்டு வாழ்த்துச் சிங்க நடனம் அல்ல; மாறாக மதிப்பெண், சாம்பியன்கள், உலகத் தரவரிசை கொண்ட ஒரு விளையாட்டு — உயர் தூண் சிங்க நடனம்.

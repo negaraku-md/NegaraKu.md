@@ -35,7 +35,7 @@ faq:
     a: "Karena keduanya dikelola sebagai bisnis yang berbeda. Sawit adalah komoditas ekspor berskala besar yang menguntungkan di tanah yang sesuai, sedangkan padi adalah tanaman pangan bermargin rendah yang bergantung pada subsidi dan irigasi. Tanah, modal dan tenaga kerja cenderung mengalir ke tanaman komoditas yang lebih menguntungkan."
 
 lang: "id"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,32 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'Sawah padi hijau subur dengan saluran irigasi yang membentang hingga cakrawala di Sekinchan, Malaysia.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: Perkebunan sayur berterasering dan terowongan plastik (polytunnel) di lereng bukit Lembah Bertam, Cameron Highlands, Pahang
+    kind: actual
+    origin: third-party
+    subject: Perkebunan sayur dataran tinggi di Lembah Sungai Bertam, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: Petak-petak berterasering sayuran berdaun yang disinari matahari di atas sebuah kampung dataran tinggi di Kampung Raja, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Perkebunan sayur lahan terbuka di Kampung Raja, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 Pada 2024, Malaysia memproduksi lebih dari 100 juta ton tandan buah segar sawit — sekitar 100.2 juta ton menurut Departemen Statistik Malaysia (DOSM) — cukup untuk mempertahankan posisinya di antara dua produsen minyak sawit terbesar dunia. Pada tahun yang sama, negara ini mengimpor hampir separuh dari beras yang disantap rakyatnya.

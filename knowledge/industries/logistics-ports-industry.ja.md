@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'マレーシア・ジョホール州のタンジュン・ペレパス港で、岸壁ガントリークレーンが列をなしてコンテナを荷役している。'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: マレーシア・サラワク州ビントゥル国際コンテナターミナルで、積み上げられたコンテナの列をまたぐラバータイヤ式ガントリークレーン。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・サラワク州ビントゥル国際コンテナターミナルで積み上げられたコンテナをまたぐラバータイヤ式ガントリークレーン
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: マレーシア・スランゴール州ポートクランに接岸したコンテナ船の甲板に積み上げられた色とりどりのコンテナ。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・ポートクランで船に積み込まれたコンテナ
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 ポートクラン（Port Klang）は2025年に1,514万個の海上コンテナを動かした——香港を追い抜き、世界十大最繁忙港に初めて食い込むのに十分な量である。もう一つのマレーシアの港、タンジュン・ペレパス港（PTP）も、さらに1,400万個を動かした。どちらの数字も、それらの貨物の大半を自ら作り出している国を表してはいない。それが表しているのは、正しい場所に位置し、世界貿易から家賃を取り立てる術を身につけた国である。

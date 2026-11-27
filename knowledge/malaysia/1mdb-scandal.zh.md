@@ -80,6 +80,13 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "一个马来西亚发展有限公司", "纳吉·拉萨", "刘特佐", "马来西亚金融丑闻"]
 framework: history-culture
+hero: '/media/malaysia/1mdb-scandal/hero.webp'
+heroAlt: '吉隆坡敦拉萨国际贸易中心金融区中拔地而起的Exchange 106摩天大楼。'
+heroCredit: 'Henrywky961122 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **一个马来西亚发展有限公司（1MDB）**是一只马来西亚政府拥有的投资基金，于 2009

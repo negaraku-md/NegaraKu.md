@@ -67,7 +67,7 @@ wikidata: "Q141851356"
 relations:
   - { rel: "administered-by", to: "kementerian-perdagangan-dalam-negeri-kpdn" }
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
-related: []
+related: ["ministry-of-domestic-trade-kpdn", "competition-act-2010", "gas-supply-piped-cooking-gas"]
 keywords: ["مكافحة الاستغلال", "مراقبة الأسعار", "الربح المفرط", "Akta 723", "Op Catut", "KPDN", "استغلال الأسعار"]
 framework: rules
 ---

@@ -30,7 +30,7 @@ faq:
     a: "Di antara jenis yang direkam JKKN adalah Ngajat Lesong (ditarikan laki-laki sambil menggigit lesung kayu), Ngajat Indu (ditarikan perempuan dengan gerakan menenun pua kumbu), Ngajat Pua Kumbu (menggunakan kain pua kumbu), dan Ngajat Ngiling Tikai yang menandai berakhirnya perayaan Gawai Dayak."
 
 lang: "id"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
 framework: history-culture
+hero: '/media/arts-culture/ngajat/hero.webp'
+heroAlt: 'Seorang penari Iban berhiasan kepala bulu, rompi bulu binatang, dan cawat bermotif enggang kuning menerjang dalam pose, mengayunkan pedang panjang di satu tangan dan perisai kayu berukir di tangan lain, dengan latar rumah panjang Sarawak yang dilukis di bawah cahaya panggung hangat'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: Seorang wanita muda Iban dengan hiasan kepala sugu tinggi perak yang menjulang dan korset hitam berlapis koin menyatukan kedua tangannya dalam mudra lembut di dekat dagunya, dibingkai kerah manik-manik berumbai oranye dengan latar panggung biru tua.
+    kind: actual
+    origin: third-party
+    subject: Penari wanita Iban berpakaian adat lengkap di Sarawak Cultural Village, Borneo, Malaysia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: Sederet penari wanita Iban berhiasan kepala mahkota perak, baju manik-manik merah dan rok berumbai koin bergerak serentak melintasi panggung festival yang terang benderang, masing-masing memegang sehelai kain merah kecil, dengan penonton bersiluet di latar depan.
+    kind: actual
+    origin: third-party
+    subject: Rombongan penari wanita Iban membawakan tarian sayau ngajat di panggung festival, Malaysia
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 Di galeri sebuah rumah panjang di Sarawak, seorang laki-laki dengan bulu rangkong di kepalanya melompat, berputar, dan menghentak lantai — pedang di satu tangan, perisai di tangan yang lain. Itulah **Ngajat**, tarian yang dahulu menyambut pahlawan pulang dari medan perang.

@@ -31,7 +31,7 @@ faq:
   - q: "ما أبرز شركات الأدوية الماليزية؟"
     a: "أشهر المصنّعين المحليين Pharmaniaga (مصنّع وموزّع متكامل وصاحب امتياز حكومي)، وDuopharma Biotech (التي نشأت من مجموعة CCM وتصنع مستحضرات حيوية مماثلة)، وCCM، وKotra Pharma، وHovid. وتركّز شركات عالمية مثل Pfizer وNovartis وGSK أساسًا على الأدوية المسجَّلة ببراءة لا على إنتاج محلي كبير."
 lang: ar
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,32 @@ keywords:
   - "vaccine fill-finish"
   - "PIC/S GMP"
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'قوارير أدوية مُغطّاة بأغطية تتحرّك على سير ناقل آلي في خطّ تصنيع صيدلاني.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: عدة عمّال بمعاطف وأغطية رأس زرقاء يقفون حول طاولة عمل مغطّاة بصفوف متراصّة من زجاجات دواء صغيرة داكنة، يتناولونها ويفحصونها، في مصنع أدوية ساطع الإضاءة مع خزائن زجاجية الواجهة على طول الجدار.
+    kind: representative
+    origin: third-party
+    subject: عمّال بزيّ أزرق وأغطية شعر يفحصون ويعبّئون صفوفًا من زجاجات الدواء المعبّأة على طاولة في قسم تعبئة بمصنع أدوية
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: يدان بقفّازي نتريل زرقاوين ومعطف مختبر أبيض تضعان صينية بلاستيكية شفافة من الحبوب على جهاز مختبري من الفولاذ المقاوم للصدأ عليه ملصق تحذير من الأسطح الساخنة.
+    kind: representative
+    origin: third-party
+    subject: فنّي يرتدي قفّازات يُدخل صينية عيّنة أقراص في جهاز فحص في مختبر مراقبة الجودة بصناعة الأدوية
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 في كل مرة يصرف فيها ماليزي وصفة لمضاد حيوي أو مسكّن أو قرص لضغط الدم، ثمة احتمال جيد أن الدواء صُنع في ماليزيا — لم يُخترع هنا، لكنه صِيغ وكُبِس وعُبِّئ وغُلِّف في مصنع محلي يعمل وفق معايير تصنيع دولية. وهذا هو جوهر صناعة الأدوية في ماليزيا: قاعدة تصنيع متينة تقودها الأدوية الجنيسة تبقي خزانة دواء البلاد مزوّدة، مقترنةً برهانين أكثر طموحًا — الأدوية الحلال وإنتاج اللقاحات — تأمل البلاد أن يرقيا بها في سلسلة القيمة.

@@ -21,7 +21,7 @@ appliesTo: "Sarawak மற்றும் Sabah எப்படி மலேச�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,32 @@ social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
 framework: history-culture
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: 'தங்க குவிமாடமும் உயரமான கோபுரமும் கொண்ட வெண்ணிற பள்ளிவாசல், அந்தி நேரத்தில் அதன் ஏரிக்கும் சம்பிரதாயக் கல் படகுக்கும் மேலே ஒளிர்கிறது.'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: அமைதியான புருணை ஆற்றின் குறுக்கே பரவியுள்ள மரக் கம்பத் தூண் வீடுகளும் இணைப்பு நடைபாதைகளும் கொண்ட தொகுதிகள், புருணையின் தலைநகரின் வரலாற்று மையத்தில் நூற்றாண்டுகள் பழமையான நீர்க்கிராமம்.
+    kind: actual
+    origin: third-party
+    subject: பந்தர் செரி பெகவானில், புருணை ஆற்றின் மேல் உள்ள வரலாற்று மிக்க தூண் நீர்க்கிராமமான கம்போங் ஆயர்
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: சுல்தான்கள் முடிசூட்டப்படும் புருணையின் அரச விழா மண்டபமான லாபாவ், பந்தர் செரி பெகவானில் நிலத்தோற்றம் அமைக்கப்பட்ட தோட்டங்களுக்கும் பூக்கும் புதர்களுக்கும் இடையே அமைந்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: பந்தர் செரி பெகவானில் உள்ள புருணையின் அரச விழா மண்டபமான லாபாவ்
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 இன்று Bandar Seri Begawan-இன் நீர்முனையில் நின்றால், புரூணை சிறியதாகத் தெரிகிறது: Borneo கடற்கரையின் இரண்டு துண்டுகளைச் சுற்றி வளைந்த, ஒரு மாலைப்பொழுதில் கார் ஓட்டிக் கடக்கக்கூடிய அளவுக்கு நெருக்கமான, செல்வந்தமான, எண்ணெய் வளமிக்க ஒரு சுல்தானகம். இது ஒரு பேரரசின் தப்பிப்பிழைத்த துண்டு என்பதை மறப்பது எளிது — ஐந்து நூற்றாண்டுகளுக்கு முன், ஒரு Sultan of Brunei, தீவின் வட மற்றும் மேற்குக் கரைகளின் பெரும்பகுதியில் வரிசையாக அமைந்த துறைமுகங்களிடமிருந்து கப்பம் கோர முடிந்தது, மேலும் இங்கிருந்து சாலை வழியாக நீங்கள் அடையக்கூடிய இரண்டு மலேசிய மாநிலங்களான Sarawak மற்றும் Sabah, ஒரு காலத்தில் அவரால் விட்டுக்கொடுக்கப்பட முடிந்தவை. ஒரு Borneo கடல்-இராச்சியம் எப்படி எழுந்தது, உச்சத்தை அடைந்தது, பின்னர் அந்தக் கரைகளைத் துண்டுதுண்டாக ஒப்படைத்தது என்பதன் கதை, மலேசிய வரலாற்றின் அத்தியாவசிய நூலிழைகளில் ஒன்று — புரூணை தானே மலேசியாவின் ஒரு பகுதியாக ஒருபோதும் ஆகவில்லை என்றாலும்.

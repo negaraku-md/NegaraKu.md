@@ -67,6 +67,13 @@ relations:
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["ماليزيا 1998", "الأزمة المالية الآسيوية", "ضوابط رأس المال", "تثبيت الرينغيت RM3.80", "ضوابط الصرف الانتقائية", "Reformasi", "أنور إبراهيم 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "التعويم المُدار 2005"]
 framework: history-culture
+hero: '/media/malaysia/1998-reformasi/hero.webp'
+heroAlt: 'مبنى البنك المركزي بنك نيغارا ماليزيا في كوالالمبور.'
+heroCredit: 'Kaihsu Tai / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في غضون أسبوع واحد من سبتمبر 1998، فعلت ماليزيا أمرين سيُجادَل في كلٍّ منهما سنوات. فقد أغلقت السوق الخارجية لعملتها وثبّتت الرينغيت مقابل الدولار الأمريكي — في قطيعة مع العُرف الذي كان صندوق النقد الدولي يحثّ المنطقة عليه. وأقالت الرجل الذي كان نائبًا لرئيس الوزراء ووزيرًا للمالية في آن، فأطلقت حركة احتجاج اتخذت اسم الإصلاح (Reformasi).

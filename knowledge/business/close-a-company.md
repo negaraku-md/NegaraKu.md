@@ -65,6 +65,12 @@ relations:
 related: ["strike-off-company-malaysia", "members-voluntary-winding-up", "creditors-voluntary-winding-up", "corporate-rescue-malaysia", "sell-business-malaysia", "register-sdn-bhd", "annual-return", "statutory-registers"]
 keywords: ["close sdn bhd", "strike off company Malaysia", "winding up company", "tutup syarikat sdn bhd", "deregister company SSM", "close company malaysia"]
 framework: decision
+stayFacts:
+  who: 'Directors and shareholders of a Sdn Bhd that has stopped operating, is being wound down deliberately, is in financial distress, or is being sold.'
+  how: 'There is no single way to close a Sdn Bhd: five exits exist, and your situation (not your preference) decides which is open. Two questions sort it out — can the company pay its debts in full, and does it still own anything. A dormant company with no assets, liabilities, charges or litigation can be struck off; a solvent company that still holds assets, paid-up capital or a subsidiary is pushed to a members'' voluntary winding up; a company that cannot pay its debts goes to a creditors'' voluntary winding up unless the business is still viable, where corporate rescue (judicial management, a scheme of arrangement, or a corporate voluntary arrangement) applies; and a profitable business is usually sold rather than closed.'
+  cost: 'Striking off is the cheapest route and winding up (needing a liquidator) costs more, but each route''s exact fees and statutory timelines live on its own route page — confirm the current figure and timeline with SSM or the liquidator before acting.'
+  watch: 'Stopping trading is not closing — annual returns and financial statements stay due and penalties keep accruing until the company is formally dissolved. Strike-off is refused most often (a return of capital, being a holding company, or being a guarantor corporation disqualifies you), and even a struck-off company can be reinstated by Court for seven years, with directors and members still liable as if it existed.'
+  next: 'Answer the two questions honestly, then go to the single route page that matches (strike-off, members'' or creditors'' voluntary winding up, corporate rescue, or selling the business), each of which carries the fees, statutory clocks and sources. The register and the governing rules are administered by SSM (ssm.com.my) under the Companies Act 2016.'
 ---
 
 Stopping trading is not closing a company. A quiet Sdn Bhd still exists, still

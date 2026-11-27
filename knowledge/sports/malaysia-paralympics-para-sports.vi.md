@@ -32,7 +32,7 @@ faq:
     a: "Trong số nổi bật nhất là Cheah Liek Hou (cầu lông SU5, vàng Tokyo 2020 và Paris 2024), Bonnie Bunyau Gustin (cử tạ, vàng Tokyo 2020 và Paris 2024) và Abdul Latif Romly (nhảy xa T20, vàng Rio 2016 và Tokyo 2020)."
 
 lang: "vi"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ wikidata: "Q6742000"
 relations:
   - { rel: "related-to", to: "malaysia-olympic-council" }
   - { rel: "governs", to: "malaysia-para-athletics" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'Một vận động viên bơi khuyết tật rẽ nước mạnh mẽ bằng kiểu bơi ngửa dọc theo một làn trong hồ bơi thi đấu.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: Các vận động viên nam tranh tài ở nội dung chạy nước rút para-điền kinh 100 mét trên đường chạy ngoài trời tại Bislett Games 2024.
+    kind: representative
+    origin: third-party
+    subject: Các vận động viên khuyết tật chạy nước rút nội dung 100 mét nam tại một giải para-điền kinh quốc tế
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: Một vận động viên điền kinh khiếm thị chạy nước rút bên cạnh người dẫn đường của mình trong một cuộc đua tại Paralympic Sydney 2000.
+    kind: representative
+    origin: third-party
+    subject: Một vận động viên chạy nước rút khiếm thị chạy buộc dây cùng người dẫn đường tại Thế vận hội Người khuyết tật
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 Khi Cheah Liek Hou bảo vệ huy chương vàng cầu lông SU5 của mình tại Paris 2024, thành công đó xác nhận rằng thể thao người khuyết tật của Malaysia nay có một dàn nhà vô địch vững chắc hơn, không còn là một thành tích thi thoảng nữa. Đằng sau khoảnh khắc đó là một cấu trúc quản trị riêng biệt, tách khỏi thế giới Olympic nổi tiếng hơn.

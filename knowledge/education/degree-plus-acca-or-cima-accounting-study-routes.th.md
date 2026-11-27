@@ -33,7 +33,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "เส้นทางการเรียนและการได้คุณวุฒิทางบัญชีในมาเลเซีย"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'สำหรับนักศึกษาและผู้เปลี่ยนสายอาชีพที่กำลังตัดสินใจว่าจะมีคุณสมบัติเป็นนักบัญชีในมาเลเซียอย่างไร โดยชั่งน้ำหนักระหว่างปริญญา ACCA CIMA หรือเส้นทางวิชาชีพอื่น'
+  how: 'กำหนดปลายทางให้ชัดก่อน: คุณเป็นนักบัญชีวิชาชีพตามกฎหมายเมื่อเป็นสมาชิกของสถาบันนักบัญชีมาเลเซีย (MIA — Malaysian Institute of Accountants) ภายใต้ Accountants Act 1967 มีสามเส้นทางสู่ MIA — ปริญญาที่ได้รับการยอมรับบวกประสบการณ์; องค์กรวิชาชีพที่ได้รับการยอมรับ (ACCA, CIMA และอื่น ๆ) บวกประสบการณ์; หรือการสอบ MIA Qualifying Examination บวกประสบการณ์ ACCA โน้มไปทางงานตรวจสอบบัญชีและการประกอบวิชาชีพสาธารณะและการใช้ได้ทั่วโลก; CIMA โน้มไปทางบัญชีบริหารและภาคอุตสาหกรรม'
+  cost: 'ค่าธรรมเนียม จำนวนวิชาสอบ และจำนวนวิชาที่ได้รับการยกเว้นจากปริญญาที่ได้รับการรับรอง ล้วนเปลี่ยนแปลงในแต่ละรอบการรับรอง จึงควรรวมตัวเลขปัจจุบันเองจากองค์กรวิชาชีพ ผู้ให้บริการติว และมหาวิทยาลัย — อย่าอาศัยจำนวนวิชายกเว้นที่มีผู้บอกต่อ'
+  watch: 'ACCA หรือ CIMA เพียงอย่างเดียวไม่ได้ทำให้คุณเป็นนักบัญชีมาเลเซีย — การเป็นสมาชิก MIA ต่างหากที่ทำ และคุณวุฒิบวกประสบการณ์คือเส้นทางสู่การเป็นสมาชิกนั้น จำนวนวิชาที่ได้รับการยกเว้นเป็นข้อเท็จจริงที่เปลี่ยนแปลงมากที่สุดในเรื่องนี้ ให้ยืนยันเป็นรายหลักสูตร'
+  next: 'เลือกองค์กรวิชาชีพที่ปลายทางโดยทั่วไปตรงกับที่ที่คุณต้องการทำงาน ยืนยันว่าปัจจุบันนำไปสู่การเป็นสมาชิก MIA ได้และต้องมีประสบการณ์เท่าใด แล้วจึงเลือกจุดเริ่มต้น รูปแบบการเรียน และการยกเว้นวิชาให้ดีที่สุด ดูเรื่องก่อนจ่ายเงินมัดจำวิทยาลัย'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'กลุ่มอาคารห้องบรรยายของมหาวิทยาลัยมาเลเซีย มีป้ายเขียนว่า "KOMPLEKS DEWAN KULIAH" ข้างอาคารวิชาการสีแดงเลือดหมูและทางเดินมีหลังคา'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: ที่นั่งเรียงเป็นชั้นลดหลั่นในห้องบรรยายของมหาวิทยาลัยมาเลเซียประเภทที่นักศึกษาระดับปริญญาและนักศึกษาวิชาชีพบัญชีเข้าเรียน
+    kind: actual
+    origin: third-party
+    subject: ห้องบรรยายในมหาวิทยาลัยมาเลเซียซาบะฮ์
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: โต๊ะอ่านหนังสือเดี่ยวเรียงเป็นแถวอย่างเงียบสงบในห้องสมุดมหาวิทยาลัยมาลายา ที่ซึ่งนักศึกษามุ่งมั่นอ่านตำราปริญญาและข้อสอบ ACCA หรือ CIMA
+    kind: representative
+    origin: third-party
+    subject: โต๊ะอ่านหนังสือในห้องสมุดมหาวิทยาลัยมาลายา
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 ใครก็ตามที่กำลังตัดสินใจว่าจะเป็นนักบัญชีในมาเลเซียอย่างไร ย่อมเจอกับซุปตัวอักษรเต็ม ๆ: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE** มันดูเหมือนเมนูคุณวุฒิที่แข่งขันกันซึ่งคุณต้องเลือก แต่เข้าใจได้ดีกว่าว่าเป็น **จุดหมายปลายทางหนึ่งเดียวที่มีถนนหลายสายไปถึง** — และเมื่อคุณเห็นจุดหมายปลายทางแล้ว ตัวเลือกต่าง ๆ ก็เข้าที่เข้าทาง

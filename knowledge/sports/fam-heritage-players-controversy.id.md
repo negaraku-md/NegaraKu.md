@@ -30,7 +30,7 @@ faq:
     a: "FIFA merujuk Pasal 22 Kode Disiplin FIFA terkait pemalsuan dokumen kelayakan dan naturalisasi pemain."
 
 lang: "id"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'Kerumunan suporter Harimau Malaya berbaju kuning yang padat memenuhi Stadion Nasional Bukit Jalil di bawah papan skor harimau Malaysia.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: Penjaga gawang Malaysia Wong Kam Fook beraksi melawan penyerang Jerman Barat dalam pertandingan sepak bola Malaysia di Olimpiade Musim Panas 1972.
+    kind: actual
+    origin: third-party
+    subject: Tim sepak bola nasional Malaysia melawan Jerman Barat di Olimpiade Musim Panas 1972
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: Pemandangan dari tribune penonton di dalam Stadion Shah Alam selama pertandingan sepak bola tim nasional Malaysia pada Piala AFF 2014.
+    kind: actual
+    origin: third-party
+    subject: Bagian dalam Stadion Shah Alam selama pertandingan sepak bola tim nasional Malaysia
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 Tujuh pemain kelahiran luar negeri mengenakan jersi Harimau Malaya pada Juni 2025. Kurang dari setahun kemudian, badan arbitrase olahraga tertinggi dunia menguatkan bahwa dokumen yang melayakkan mereka bermain untuk Malaysia telah dipalsukan. Kasus ini menggerakkan serangkaian proses disiplin FIFA, satu banding ke Court of Arbitration for Sport (CAS), dan sebuah laporan polisi di Malaysia.

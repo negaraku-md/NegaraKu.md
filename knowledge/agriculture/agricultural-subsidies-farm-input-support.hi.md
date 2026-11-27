@@ -34,7 +34,7 @@ faq:
     a: "कृषि एवं खाद्य सुरक्षा मंत्रालय (KPKM), धान उद्योग विकास प्रभाग के माध्यम से, किसान संगठन प्राधिकरण (LPP), MADA और KADA जैसी कार्यान्वयन एजेंसियों के साथ, जो अपने-अपने अन्न-भंडार क्षेत्रों में काम करती हैं।"
 
 lang: "hi"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,9 +100,36 @@ wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["धान उर्वरक सब्सिडी", "SBPKP", "SIPP", "धान उत्पादन प्रोत्साहन", "कृषि सब्सिडी", "किसान इनपुट सहायता"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'तेज़ धूप में पानी भरे धान के खेत की कीचड़ भरी मेड़ पर झुककर काम करता और कीचड़ उछालता किसान'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: शाम के समय ऑपरेटर एक पीली कम्बाइन हार्वेस्टर को गीले, कटे हुए धान के खेत में चला रहा है, क्षितिज पर ताड़ के पेड़
+    kind: actual
+    origin: third-party
+    subject: Langkawi, Kedah में शाम के समय कीचड़ भरे धान के खेत में कम्बाइन हार्वेस्टर से धान की कटाई
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: सिर पर स्कार्फ़ बाँधे एक महिला छोटे चाकू से सुनहरी धान की बालियाँ काटकर उन्हें पीली बुनी हुई टोकरी में इकट्ठा कर रही है
+    kind: actual
+    origin: third-party
+    subject: Kudat District, Sabah में एक Dusun महिला हाथ से पकी धान की बालियाँ काटकर बुनी हुई टोकरी में भर रही है
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 उस सुबह धान किसान जो उर्वरक की बोरी कंधे पर खेत तक ले जाता है, वह उसके अपने पैसे से नहीं

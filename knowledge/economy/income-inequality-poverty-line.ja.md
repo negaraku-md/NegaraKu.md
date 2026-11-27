@@ -89,7 +89,7 @@ wikidata: "Q7354425"
 relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
-related: []
+related: ["b40-m40-t20-income-classification", "belanjawanku-reference-budget", "padu-central-database"]
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
 framework: data-reference
 ---

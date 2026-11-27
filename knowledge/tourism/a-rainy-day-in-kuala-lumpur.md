@@ -78,6 +78,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["rainy day Kuala Lumpur", "indoor things to do KL", "KL by public transport", "KLCC Bukit Bintang walkway", "Suria KLCC rail", "Aquaria KLCC how to get there", "Petrosains", "Muzium Negara MRT", "KL malls by rail"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'A tropical downpour streaking over an old tile-roofed shophouse on Jalan Panggong in Kuala Lumpur''s old quarter'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: The pale-blue Art Deco facade of Central Market (Pasar Seni) in Kuala Lumpur, reading 'Central Market Since 1888'
+    kind: actual
+    origin: third-party
+    subject: Central Market (Pasar Seni) Art Deco facade, Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: The bustling two-level covered arcade inside Central Market in Kuala Lumpur, lined with craft and batik stalls under hanging state flags
+    kind: actual
+    origin: third-party
+    subject: Inside the covered craft arcade of Central Market, Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 Rain in Kuala Lumpur arrives fast and heavy, and an open-air plan can collapse in

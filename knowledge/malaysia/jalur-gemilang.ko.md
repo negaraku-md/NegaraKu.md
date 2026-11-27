@@ -69,6 +69,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bendera Malaysia", "14 jalur", "bintang pecah 14", "bulan sabit", "Mohamed bin Hamzah", "maksud warna bendera Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: '파란 칸톤 안에 노란 초승달과 십사각 별이 들어간 빨강과 하양 줄무늬의 말레이시아 국기가 푸른 하늘을 배경으로 높다란 하얀 깃대에서 활짝 펄럭이고 있다.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # 잘루르 그밀랑: 왜 13개 주에 14개의 줄무늬인가

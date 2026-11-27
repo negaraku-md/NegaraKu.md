@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "Anwar Ibrahim"
+seoTitle: "Anwar Ibrahim: Perdana Menteri Malaysia ke-10 (2022–sekarang)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]
@@ -72,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "perdana menteri kesepuluh Malaysia", "Reformasi", "kerajaan MADANI", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: 'Anwar Ibrahim dalam setelan gelap dan dasi biru menghadap kamera dalam potret setengah badan yang diambil saat sebuah kunjungan kenegaraan resmi.'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anwar Ibrahim (lahir 10 Agustus 1947) adalah **Perdana Menteri Malaysia yang

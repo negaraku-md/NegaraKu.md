@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 
 status: "published"
 aiAssisted: true
@@ -113,6 +113,39 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: '싱가포르발 당일치기·주말 여행자와 가족에게 가장 적합합니다 — 알뜰한 쇼핑과 음식, 레고랜드와 테마파크 밀집지, 드사루 코스트(Desaru Coast) 해변, 그리고 내륙의 산과 맹그로브에 이끌립니다.'
+  getThere: '싱가포르에서는 조호르–싱가포르 코즈웨이(Causeway)나 세컨드 링크(Second Link)로(그리고 KTM 셔틀 트바우 열차로), 말레이시아 다른 지역에서는 장거리 버스, KTM 시외/ETS 철도, 또는 도시 바로 북쪽의 세나이 국제공항(Senai International Airport)으로 들어옵니다.'
+  permit: '모든 통행이 국제 국경 통과이므로 유효한 여권을 지참하고 양쪽에서 출입국 심사를 거치십시오.'
+  watch: '코즈웨이는 금요일 저녁, 주말, 싱가포르 학교 방학, 공휴일 전날에 막히므로 일찍 건너고 혼잡한 귀환 시간대를 피하며, 막힐 때는 세컨드 링크로 바꾸십시오.'
+  next: '출발 전에 현재의 국경 통행, RTS Link, 공원 허가 사항을 말레이시아와 싱가포르의 공식 교통 당국 및 해당 공원 당국에 확인하십시오.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: '흐린 하늘 아래, 높은 첨탑 타워와 검은 돔을 갖춘 조호르바루의 흰 빅토리아-무어 양식 술탄 아부 바카르 주 모스크'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: 조호르의 레고랜드 말레이시아 리조트 호텔의 알록달록한 레고 블록 정면
+    kind: actual
+    origin: third-party
+    subject: 레고랜드 말레이시아 리조트 호텔, 조호르
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: 청록빛 바다와 붉은 깃발을 꽂은 바위 돌출부, 푸른 하늘이 어우러진 조호르 해안의 백사장
+    kind: actual
+    origin: third-party
+    subject: 조호르 해안의 백사장
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 대부분의 방문객은 조호르를 국경 대기 줄에서 만납니다 — 코즈웨이의 차 안에서, 세컨드 링크의 버스에서, 또는 JB 센트럴로 들어가는 짧은 셔틀 열차에서 — 그리고 도시를 싱가포르에서의 쇼핑·음식 우회로쯤으로 대합니다. 그것은 이곳을 과소평가하는 것입니다. 조호르바루는 말레이시아 최남단 주의 주도이자 반도가 물 건너 섬나라 공화국과 만나는 관문으로, 걷기 좋은 유산 핵심, 문 앞의 아시아 최대 가족 테마파크 군집 중 하나, 그리고 그 뒤의 주 전체 — 동쪽의 해변, 남쪽 끝의 맹그로브, 내륙의 산과 열대우림 — 를 지녔습니다. 이 가이드는 통로가 어떻게 작동하는지, 도시에서 무엇을 할지, 테마파크, 해안과 내륙, 조호르가 누구에게 맞는지, 그리고 거의 모두가 저지르는 한 가지 실수 — 통로 시간을 잘못 잡는 것 — 를 다룹니다.

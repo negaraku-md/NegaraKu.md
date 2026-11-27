@@ -30,7 +30,7 @@ faq:
     a: "हाँ, यदि आप NFC टॉप-अप सुविधा का उपयोग करना चाहते हैं। पंजीकरण में पहचान सत्यापन (KYC) शामिल होता है ताकि कार्ड का शेष आपके eWallet खाते से जुड़ा रहे — यह कार्ड खो जाने पर सुरक्षा की एक परत भी जोड़ता है, एक गैर-पंजीकृत कार्ड की तुलना में जिसका शेष उसे पाने वाला कोई भी उपयोग कर सकता है।"
 
 lang: "hi"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "Enhanced NFC कार्ड", "kad Enhanced NFC", "मलेशिया प्रीपेड टोल कार्ड", "TNG Digital", "ई-वॉलेट"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'गोम्बाक टोल प्लाजा पर ''Touch ''n GO'', ''MyRFID'' और ''SmartTAG'' लिखे ऊपरी लेन संकेत नकदरहित टोल बूथों को चिह्नित करते हैं, सड़क पर ''RFID'' पेंट किया गया है।'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: एक टोल लेन पर विंडस्क्रीन पर लगा एक Touch 'n Go RFID टैग, जिसमें टोल बूथ पर लेन बैरियर और एक ऊपरी RFID रीडर गैंट्री है।
+    kind: actual
+    origin: third-party
+    subject: सेलांगोर के Gombak टोल प्लाज़ा पर एक MyRFID टोल लेन पर पढ़ा जाता एक Touch 'n Go RFID टैग
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: एक रेल स्टेशन के प्रवेश द्वार पर स्वचालित फ़ेयर गेटों की एक कतार, जिसमें हर गेट पर कार्ड रीडर हैं और आगे एक शॉपिंग मॉल का कॉनकोर्स दिख रहा है।
+    kind: representative
+    origin: third-party
+    subject: KLCC LRT स्टेशन पर फ़ेयर गेट जहाँ Touch 'n Go जैसे यात्रा कार्ड टैप किए जाते हैं
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 बहुत से लोग अपनी जेब में एक Touch 'n Go कार्ड और अपने फ़ोन पर Touch 'n Go eWallet ऐप रखते हैं, और मान लेते हैं कि दोनों दो चेहरों वाली एक ही चीज़ हैं। ऐसा नहीं है। आपके कार्ड का शेष और आपके ऐप का शेष पूरी तरह अलग रखे जाते हैं — एक को पूरा टॉप-अप करने से दूसरे में एक भी सेन नहीं जुड़ता। यह गलतफ़हमी टोल गैंट्री पर कारों के फँस जाने का एक आम कारण है क्योंकि चालक को भरोसा होता है कि «फ़ोन में पर्याप्त पैसा है», जबकि टोल मशीन असल में जो पढ़ती है वह कार्ड है।

@@ -31,7 +31,7 @@ faq:
   - q: "ماذا تفعل ماليزيا بشأن تلوّث البلاستيك؟"
     a: "تضع خارطة طريق استدامة البلاستيك الماليزية 2021–2030، بقيادة وزارة البيئة، أهدافًا للتخلّص التدريجي من البلاستيك الإشكالي أحادي الاستخدام، ورفع معدّلات إعادة التدوير والمحتوى المُعاد تدويره، وجعل التغليف البلاستيكي قابلًا لإعادة التدوير. كما تُدخل نظام المسؤولية الممتدّة للمنتج (EPR) الذي يجعل المنتجين يساعدون في تمويل الجمع وإعادة التدوير."
 lang: ar
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'آلة حقن القوالب مزوّدة بذراع آليّة تضع صواني بلاستيكية مشكّلة حديثًا على سير ناقل داخل مصنع.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: آلة بثق صناعية بلون أخضر وكريمي ذات قادوس على شكل قمع في الأعلى وبرميل أفقي طويل ساخن ملفوف بالأسلاك، ممتدّة نحو اليمين أمام جدار مصنع أزرق وأبيض.
+    kind: representative
+    origin: third-party
+    subject: خطّ بثق بلاستيكي بقادوس تغذية وبرميل ساخن يشكّل مادة بلاستيكية مستمرّة، عملية أساسية في صناعة البلاستيك والتغليف
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: بالات مكعّبة كبيرة من زجاجات بلاستيكية شفافة مفلطحة، منقّطة بأغطية وملصقات ملوّنة، مكدّسة بارتفاع طبقتين وثلاث على الإسفلت بجانب حاوية معدنية صدئة، وخلفها أشجار وسماء رمادية.
+    kind: representative
+    origin: third-party
+    subject: بالات مضغوطة بإحكام من زجاجات مشروبات PET شفافة مسحوقة مكدّسة لإعادة تدويرها إلى مادة بلاستيكية خام جديدة
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 يكاد كل منتج مادي يغادر مصنعًا ماليزيًا — علبة نودلز سريعة، أو هاتف ذكي، أو مصدّ سيارة، أو طول أنبوب ماء — يعتمد على بلاستيك شُكّل في مكان ما داخل البلاد. فالبلاستيك أحد نقاط القوة الصناعية الهادئة في ماليزيا: أقلّ بريقًا من أشباه الموصّلات، لكنه منسوج في كل قطاع تصنيعي آخر تقريبًا، وبصورة متزايدة في النقاش الوطني حول النفايات والاستدامة.

@@ -31,7 +31,7 @@ faq:
   - q: ตลาดโทรคมนาคมของมาเลเซียยังเติบโตอยู่หรือไม่?
     a: การเติบโตของผู้ใช้ส่วนใหญ่ทรงตัวเพราะตลาดเกือบอิ่มตัว การเติบโตในอนาคตคาดว่าจะมาจากบริการที่มีมูลค่าสูงขึ้น — 5G การยกระดับไฟเบอร์ การเชื่อมต่อองค์กร และบริการดิจิทัล — มากกว่าการสมัครผู้ใช้ใหม่จำนวนมาก
 lang: th
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'เสาสัญญาณโทรคมนาคมเซลลูลาร์ที่ติดตั้งเสาอากาศแบบแผงหลายต้นตัดกับท้องฟ้าแจ่มใส'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: บูธนิทรรศการสีเข้มขนาดใหญ่มีโลโก้และชื่อแบรนด์ CelcomDigi ส่องสว่างอยู่ด้านบนและแผงสีน้ำเงินเรืองแสงที่เขียนว่า CelcomDigi fibre, Ultra Smooth Low Latency โดยมีผู้เยี่ยมชมสวมหน้ากากอนามัยรวมตัวกันอยู่ด้านล่าง
+    kind: actual
+    origin: third-party
+    subject: บูธนิทรรศการ CelcomDigi ที่โปรโมตบรอดแบนด์ไฟเบอร์ แสดงการมีอยู่ในตลาดผู้บริโภคของผู้ให้บริการมือถือและบรอดแบนด์ของมาเลเซีย
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: กำแพงยาวของเซิร์ฟเวอร์คอมพิวเตอร์แบบติดตั้งในแร็กทอดยาวเฉียงออกไป แต่ละชั้นประดับด้วยไฟสถานะสีน้ำเงินระยิบระยับตัดกับตู้โลหะสีเข้ม
+    kind: representative
+    origin: third-party
+    subject: แถวอุปกรณ์เครือข่ายและเซิร์ฟเวอร์ที่เรืองแสงด้วยไฟแสดงสถานะสีน้ำเงินในศูนย์ข้อมูล โครงสร้างพื้นฐานที่รองรับเครือข่ายโทรคมนาคม
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 เกือบทุกคนในมาเลเซียพกการเชื่อมต่อมือถือ และบ้านส่วนใหญ่มีบรอดแบนด์รูปแบบใดรูปแบบหนึ่ง นั่นทำให้โทรคมนาคมเป็นหนึ่งในอุตสาหกรรมที่สำคัญและโตเต็มวัยที่สุดของประเทศ — ท่อประปาที่มองไม่เห็นใต้เศรษฐกิจดิจิทัล ธนาคารออนไลน์ รัฐบาลอิเล็กทรอนิกส์ และชีวิตประจำวัน กระนั้น เบื้องหลังชื่อแบรนด์ที่คุ้นเคยคือตลาดที่เปลี่ยนแปลงอย่างมากในช่วงปีที่ผ่านมา: ผู้ให้บริการน้อยลง การควบรวมใหญ่ขึ้น และการทดลองระดับชาติในวิธีสร้าง 5G

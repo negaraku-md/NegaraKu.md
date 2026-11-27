@@ -36,7 +36,7 @@ faq:
     a: "Penang là điểm đến quanh năm với khí hậu nhiệt đới nóng ẩm. Mưa có thể rơi vào bất kỳ tháng nào nhưng thường nặng hạt nhất vào các giai đoạn giao mùa (khoảng tháng 4–5 và tháng 9–11); khoảng thời gian khô ráo, mát mẻ hơn từ tháng 12 đến tháng 2 được ưa chuộng. Buổi sáng và cuối chiều là những thời điểm dễ chịu nhất để đi bộ."
 
 lang: "vi"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách muốn khám phá một lõi di sản UNESCO đi bộ được gồm các nhà phố, nhà tông tộc, nghệ thuật đường phố của Ernest Zacharevic và ẩm thực hàng rong đa văn hóa bằng chân.'
+  getThere: 'Bay vào Penang International Airport ở phía nam George Town, hoặc đến đảo bằng đường bộ qua Penang Bridge và Sultan Abdul Halim Muadzam Shah Bridge, hoặc đi Rapid Ferry từ Butterworth tới bờ sông George Town.'
+  watch: 'Hãy coi nghệ thuật đường phố là một cánh cửa dẫn vào thay vì toàn bộ câu chuyện, vì các nhà tông tộc, đền chùa và các con phố nhà phố mới là những gì danh mục UNESCO thực sự bảo vệ.'
+  next: 'Hãy xác nhận thời gian biểu và quy định tàu leo núi hiện tại với Penang Hill Corporation.'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Những đèn lồng Trung Hoa đỏ treo trên phố Armenian Street, hai bên là những nhà phố di sản và quán cà phê đầy màu sắc, ở George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Phố Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Một hàng xe xích lô chở khách trang trí rực rỡ với hoa và dù xếp hàng trước những tòa nhà di sản ở George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Xe xích lô George Town
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 Đặt chân lên đảo, bước ra khỏi không gian điều hòa, và điều đầu tiên đập vào bạn là mùi hương — khói chảo, hương trầm từ một ngôi đền Hoa, hoa đại, và vị mặn của Eo biển Malacca. George Town là một nơi bạn đọc bằng đôi chân của mình: một mạng lưới nhỏ gọn các nhà phố trăm năm tuổi nơi một nhà thờ Hồi giáo, một hội quán dòng họ và một nhà thờ thời thuộc địa có thể cùng chung một dãy phố. Cẩm nang này giới thiệu những gì để xem, nơi để ăn, cách đến các bãi biển và ngọn đồi, cùng nên dành bao nhiêu thời gian cho một thành phố tưởng thưởng sự chậm rãi.

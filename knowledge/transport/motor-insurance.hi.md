@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में मोटर वाहनों के मालिक और चालक — कारें, मोटरसाइकिलें और वाणिज्यिक वाहन — जो बीमा कवर के प्रकार और क़ानूनी आवश्यकताओं को समझना चाहते हैं।"
 
 lang: "hi"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -63,6 +63,32 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["मलेशिया में मोटर बीमा", "तृतीय-पक्ष बीमा", "सड़क परिवहन अधिनियम 1987", "व्यापक बीमा", "सड़क कर", "धारा 90", "PIAM", "मोटरसाइकिल बीमा", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'मलेशिया में फेडरल हाईवे पर एक पैदल यात्री ओवरपास के नीचे ट्रैफिक जाम में बम्पर से बम्पर कतार में खड़ी कारें।'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: कुआलालंपुर में एक नीला शहरी टो ट्रक, वैसा जो ख़राबी या दुर्घटना के बाद वाहनों को उठाकर ले जाता है।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर, मलेशिया में टो ट्रक
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: सबाह के कोटा किनाबालु में जालान बुंदुसान पर शाम के ट्रैफ़िक जाम में बंपर-से-बंपर खड़ी कारें।
+    kind: actual
+    origin: third-party
+    subject: कोटा किनाबालु, सबाह में एक शहरी सड़क पर शाम का ट्रैफ़िक जाम
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 आप क़ानूनी रूप से एक ऐसी कार चला सकते हैं जो कभी धुली ही न हो, जिसके टायर घिसे हुए हों और एयर कंडीशनर टूटा हो। लेकिन एक अकेले काग़ज़ के बिना गाड़ी चलाना — एक तृतीय-पक्ष बीमा पॉलिसी — एक आपराधिक अपराध है।

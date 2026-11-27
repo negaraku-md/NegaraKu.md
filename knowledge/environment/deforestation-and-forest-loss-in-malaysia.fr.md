@@ -34,7 +34,7 @@ faq:
     a: "La perte de couvert arboré compte toute suppression du couvert arboré — y compris la récolte des plantations et les dommages causés par les incendies et les tempêtes — et inclut donc des pertes qui repoussent ensuite. La perte de forêt primaire ne compte que le défrichement de forêt naturelle mature, à la biodiversité et au carbone irremplaçables, et constitue le meilleur indicateur de la perte écologique permanente."
 
 lang: "fr"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'De la brume dérivant entre de grands arbres et des fougères arborescentes dans une dense forêt tropicale intacte du parc de Kinabalu, Bornéo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: Vue aérienne d'un îlot isolé de forêt tropicale indigène sombre encerclé par les rangées régulières d'une plantation de palmiers à huile à Sabah, Bornéo malaisien
+    kind: actual
+    origin: third-party
+    subject: Un vestige de forêt tropicale indigène entouré de plantations de palmiers à huile à Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: Vue aérienne en hauteur d'une forêt tropicale traversée par un réseau de pistes forestières claires et de parcelles orange défrichées à Sabah, Bornéo malaisien
+    kind: actual
+    origin: third-party
+    subject: Forêt entaillée par des pistes d'exploitation et des défrichements pour le palmier à huile à Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 Demandez à trois sources crédibles quelle part de la Malaisie est encore forêt et vous pouvez obtenir trois réponses séparées de dix points de pourcentage — toutes défendables, toutes mesurant quelque chose de légèrement différent. Cet écart n'est pas une erreur d'arrondi ; c'est, en miniature, tout le débat sur la déforestation malaisienne.

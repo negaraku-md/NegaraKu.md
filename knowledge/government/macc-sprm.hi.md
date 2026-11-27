@@ -33,7 +33,7 @@ faq:
     a: "हाँ। धारा 17A, जिसे 2018 के संशोधन (Act A1567) द्वारा शामिल किया गया और जो 1 जून 2020 से प्रभावी है, किसी वाणिज्यिक संगठन को उस स्थिति में उत्तरदायी बनाती है जब उससे जुड़ा कोई व्यक्ति व्यवसाय प्राप्त करने या बनाए रखने के लिए भ्रष्ट रूप से कोई परितोषण देता या देने का प्रस्ताव करता है। अलग से, धारा 3 में अधिनियम की «लोक निकाय» (public body) की परिभाषा उन कंपनियों और सहायक कंपनियों तक पहुँचती है जिनमें किसी लोक निकाय की नियंत्रणकारी शक्ति या हित हो।"
 
 lang: "hi"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "मलेशियाई भ्रष्टाचार-रोधी आयोग", "MACC Act 2009", "Act 694", "भ्रष्टाचार-रोधी सलाहकार बोर्ड", "Anti-Corruption Advisory Board", "भ्रष्टाचार पर विशेष समिति", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'हरे पेड़ों के परदे के ऊपर उठती एक लंबी लाल-ईंट की सरकारी इमारत, जिसके ऊपरी अग्रभाग पर मेहराबदार खिड़कियों की कतारों के ऊपर सुनहरे SPRM (MACC) अक्षर और प्रतीक, छोटे मलेशियाई झंडों से सजे'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: गहरे पट्टीदार काँच की एक जहाज़-की-नोक के आकार की विशाल मीनार ऊँचे सफ़ेद स्तंभों पर उठी हुई, पुत्रजया में बिखरे बादलों के साथ चमकीले नीले आसमान के नीचे शाही ताड़ के पेड़ों से घिरी हुई
+    kind: actual
+    origin: third-party
+    subject: Malaysian Anti-Corruption Commission (MACC) मुख्यालय, पुत्रजया की घुमावदार गहरे-काँच की मीनार (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 MACC के अधिकांश विवरण «मलेशिया की भ्रष्टाचार-रोधी एजेंसी» पर ही रुक जाते हैं। अधिक

@@ -36,7 +36,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,33 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["intercity travel Malaysia", "KTM ETS", "KTM Intercity", "express bus Malaysia", "Terminal Bersepadu Selatan", "TBS", "domestic flights Malaysia", "AirBorneo", "MASwings", "Rural Air Service", "Sabah Sarawak flights", "travelling between cities Malaysia"]
 framework: explainer
+hero: '/media/transport/intercity-travel/hero.webp'
+heroAlt: '黄蓝相间的KTM ETS Class 93城际电动列车停在站台旁，有乘客等候'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: 南部综合终站（TBS）宽敞的候车大厅——吉隆坡的综合长途巴士总站。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡南部综合终站（TBS）长途巴士总站大厅
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: 一列 ETS 城际列车停靠在吉隆坡中央车站的月台——KTM 城际铁路网的枢纽。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央车站的 KTM 城际铁路月台
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 飞去古晋、搭巴士去关丹，或搭火车去北海——同一个国家里的三趟旅程，运作方式

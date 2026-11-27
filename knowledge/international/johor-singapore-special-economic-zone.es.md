@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia es un corredor de desarrollo malasio lanzado en la década de 2000 y se sitúa dentro del perímetro de la JS-SEZ. La JS-SEZ es más amplia y bilateral: añade a Singapur como cosignatario, extiende la zona hasta Pengerang y superpone un marco compartido de incentivos y facilitación."
 
 lang: "es"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: 'Un gran letrero emblemático de ''Iskandar Puteri'' al borde de la carretera en una rotonda ajardinada, con torres de oficinas y comerciales y grúas de construcción en el horizonte al fondo'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: Vista aérea de Forest City en Johor que muestra torres de gran altura frente al mar en construcción e hileras de bloques de villas blancas a lo largo de una playa ganada al mar junto al estrecho
+    kind: actual
+    origin: third-party
+    subject: Forest City, el desarrollo transfronterizo emblemático en Johor sobre el estrecho de Johor, con torres y bloques de villas en construcción de cara al agua en dirección a Singapur
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 Dos países acordaron compartir un código fiscal a través de una frontera. Esa es la silenciosa novedad de la Zona Económica Especial Johor-Singapur — no un nuevo parque industrial, sino un pacto bilateral que permite al sur de Johor y a Singapur promocionarse ante los inversores globales como una única dirección de negocio.

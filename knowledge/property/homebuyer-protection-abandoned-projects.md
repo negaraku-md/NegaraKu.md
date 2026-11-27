@@ -84,9 +84,35 @@ entity: "Housing Development (Control and Licensing) Act 1966"
 relations:
   - { rel: "governs", to: "property-developers-malaysia" }
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
-related: []
+related: ["housing-developers-act-hda", "affordable-housing-schemes", "strata-management-jmb-mc"]
 keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli Rumah", "projek terbengkalai", "SPNB", "KPKT", "perlindungan pembeli rumah"]
 framework: explainer
+hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'
+heroAlt: 'Sebuah bangunan konkrit berbilang tingkat yang tidak siap dan terbiar ditumbuhi tumbuhan hijau, dengan bendera Malaysia di latar depan, di Gombak.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: Sebuah rumah setingkat yang usang dibiarkan terbengkalai, dengan tumbuhan yang meliar dan dinding bata yang terdedah
+    kind: actual
+    origin: third-party
+    subject: Rumah terbengkalai yang tidak siap di Desa Subang Permai, Selangor
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: Sebuah bangunan terbengkalai yang lusuh dengan cat terkelupas dan bukaan tingkap yang kosong di Melaka
+    kind: actual
+    origin: third-party
+    subject: Bangunan terbengkalai yang tidak lagi digunakan di Melaka
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 Anda sudah bayar deposit, tandatangan Perjanjian Jual Beli, dan tunggu kunci rumah — kemudian tapak pembinaan senyap sunyi selama berbulan-bulan. Untuk pembeli rumah kediaman baharu di Semenanjung Malaysia, undang-undang sebenarnya menyediakan beberapa lapisan perlindungan sebelum, semasa, dan selepas keadaan seperti ini berlaku. Kuncinya ialah mengetahui apa yang dilindungi dan ke mana hendak pergi apabila sesuatu tidak kena.

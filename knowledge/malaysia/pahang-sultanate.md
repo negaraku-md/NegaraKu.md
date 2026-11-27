@@ -61,6 +61,32 @@ verificationNeeded:
   - "The exact date of Wan Ahmad's proclamation as sultan is given inconsistently across sources — the title was assumed in 1881, with a formal proclamation reported on 8 September 1881 and a later formal installation dated to 1884; the precise sequence should be confirmed against a scholarly source such as Linehan's A History of Pahang."
 framework: history-culture
 wikidata: "Q30592233"
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: 'A grand white colonial-era palace with red-tiled roofs and Jawi script above its arched entrance, mirrored in a still reflecting pool flanked by crane sculptures under a cloudy sky.'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: The Sultan Ahmad Shah State Mosque in Kuantan, crowned by a large central dome and flanked by tall minarets, seen in full frontal view.
+    kind: actual
+    origin: third-party
+    subject: Sultan Ahmad Shah State Mosque, Kuantan, Pahang
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: A symmetrical white colonial-era building with a red-tiled roof and an arched central doorway, mirrored in a still reflecting pool with crane sculptures, housing the Sultan Abu Bakar Museum in Pekan.
+    kind: actual
+    origin: third-party
+    subject: Sultan Abu Bakar Museum (former royal palace), Pekan, Pahang
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 Along the Pahang River, where the old royal town of Pekan still sits near the river mouth, a throne that had been quiet for two centuries was raised again. In 1881 the chiefs of Pahang gathered not to crown a stranger but to restore a title their land had once held — and the man they proclaimed sultan had won that right the hard way, by defeating his own half-brother in a long and bitter war. This is the story of how Pahang's crown was lost inside a larger empire, and how a chief minister's son brought it back.

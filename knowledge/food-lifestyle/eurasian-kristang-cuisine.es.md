@@ -87,6 +87,14 @@ verificationNeeded:
   - "La etimología y la clasificación del pastel sugee (un pastel de celebración de sémola y mantequilla; el nombre se suele rastrear hasta la palabra surasiática para sémola y la receta se compara con el pastel Madeira británico) — confírmese con una fuente de historia culinaria."
   - "El año de fundación del Portuguese Settlement (indicado habitualmente como 1933) y la afirmación de que varios platos caseros como el pang susi y los de vísceras se están volviendo raros — confírmese con una fuente primaria o patrimonial."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'Una porción de pastel de sémola (sugee) húmedo con corteza dorada en un plato blanco con un tenedor'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 Pide un curry en una cocina malaya de Melaka y saboreas coco y hierba de limón.

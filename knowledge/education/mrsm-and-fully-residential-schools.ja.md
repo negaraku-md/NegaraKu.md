@@ -29,7 +29,7 @@ faq:
     a: "申請はKPMのポータルを通じてオンラインで行われ、生徒は特別学校入学評価（PKSK）を通じて、学業成績や課外活動とあわせて選抜される。"
 
 lang: "ja"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'ジョホール州の Maktab Rendah Sains MARA（MRSM）Batu Pahat の入口と看板で、マレーシアの全寮制理科学院であり、門の両脇に国旗と州旗が並んでいる。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: 田舎道のそばにあるマラ・ジュニア・サイエンス・カレッジ(MRSM)ゲメンチェの入口の看板と門
+    kind: actual
+    origin: third-party
+    subject: マラ・ジュニア・サイエンス・カレッジ(MRSM)ゲメンチェの正門
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: マラッカ州にあるマレーシアの全寮制学校のキャンパス建物と敷地のパノラマ
+    kind: actual
+    origin: third-party
+    subject: 全寮制学校のキャンパス、総合全寮制学校（SBPI、マラッカ州）
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 マレーシアの家庭が子どものための「最良の」寄宿学校について話すとき、頻繁に登場する2つの名前がある。MRSMとSBPである。どちらも選抜制の全寮制カレッジであり、どちらも熾烈な争奪戦になるが、運営するのは異なる2つの機関であり、それぞれ異なる政策上の使命の下にある。

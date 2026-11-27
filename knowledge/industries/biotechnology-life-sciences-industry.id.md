@@ -31,7 +31,7 @@ faq:
   - q: Apakah bioteknologi bagian besar dari ekonomi Malaysia?
     a: Ia adalah sektor strategis tetapi masih berkembang ketimbang dominan. Bioeconomy Corporation telah melaporkan kontribusi kumulatif kira-kira RM39,9 miliar ke PDB selama dua dekade pertamanya. Biotek lebih berarti karena potensi masa depannya — dalam ketahanan pangan, kesehatan, dan bioekonomi — ketimbang pangsa keluarannya saat ini.
 lang: id
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'Seorang ilmuwan yang mengenakan gaun pelindung, sarung tangan, dan pelindung wajah menggunakan pipet untuk memindahkan sampel ke dalam vial di dalam kabinet biosafety laboratorium.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: Rak-rak wadah kultur steril di bawah pencahayaan terkendali di laboratorium kultur jaringan tumbuhan di Universiti Malaysia Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Laboratorium kultur jaringan tumbuhan di Universiti Malaysia Terengganu
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: Sebuah bioreaktor baja nirkarat dan kaca dengan selang serta instrumen kendali yang menjalankan kultur sel hidup di dalam laboratorium.
+    kind: representative
+    origin: third-party
+    subject: Bioreaktor laboratorium yang menjalankan kultur sel
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 Malaysia tidak memiliki universitas riset yang mendalam atau kedalaman modal ventura seperti Boston atau Shanghai, tetapi ia memiliki tiga hal yang menjadikan bioteknologi taruhan jangka panjang yang logis: salah satu khazanah keanekaragaman hayati tropis terkaya di dunia, aliran biomassa minyak sawit dan pertanian yang sangat besar, serta otoritas yang diakui secara global dalam sertifikasi halal. Selama lebih dari dua dekade pemerintah telah berupaya mengubah anugerah itu menjadi industri ilmu hayati modern. Panduan ini menjelaskan bagaimana upaya itu diorganisasi, apa yang telah dibangunnya, dan ke mana arahnya.

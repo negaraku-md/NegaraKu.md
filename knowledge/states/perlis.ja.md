@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 
 status: "published"
 aiAssisted: true
@@ -104,9 +104,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "majlis-raja-raja" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: 'カンガル近郊の広い曇り空の下、金色の草の穂と緑の水田が平らな地平線まで広がっている。'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: プルリス州カキ・ブキット近くで、吊り下げられた木製の遊歩道がグア・クラムの石灰岩トンネルを縫うように通っている。
+    kind: actual
+    origin: third-party
+    subject: プルリス州、グア・クラム（Gua Kelam）の遊歩道
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: ランカウイ行きの船が出る本土側の玄関口であるクアラ・プルリスのフェリーターミナルが、マラッカ海峡のほとりに建っている。
+    kind: actual
+    origin: third-party
+    subject: プルリス州、クアラ・プルリスのフェリーターミナル
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 ほぼすべてのマレーシア人が一度は答えを誤る質問がある——パーリスのスルタンとは誰か。

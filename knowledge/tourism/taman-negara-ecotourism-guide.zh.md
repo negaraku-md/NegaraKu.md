@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: '适合追求远古热带雨林的旅人——树冠吊桥、丛林徒步、野生动物观察屋与河流之旅——以彭亨的瓜拉大汉（Kuala Tahan）门户为基地。'
+  getThere: '陆路前往彭亨的珍拿律（Jerantut），再从瓜拉淡美灵（Kuala Tembeling）码头沿淡美灵河（Sungai Tembeling）乘船上行至瓜拉大汉，另有直达公路可作替代选择。'
+  permit: '每位访客抵达时都须在码头或公园柜台办理 PERHILITAN 入园准证登记，另缴一笔相机准证费，攀登大汉山（Gunung Tahan）则须聘用持牌向导。'
+  watch: '东北季候风可能使河水上涨、扰乱船只与步道，树冠吊桥曾面临封闭，而蚂蟥与潮湿更是常态——请确认通行情况并提前预订向导。'
+  next: '请向国家野生动物与国家公园局（PERHILITAN）设于彭亨国家公园的办事处确认当前的准证与入园规定及收费。'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: '蓝天下，大汉山国家公园（Taman Negara）起伏的茂密热带雨林山丘伸向地平线'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: 国家公园（Taman Negara）内，一名游客正走过悬于高大雨林树木间、狭窄的绳索木板树冠步道
+    kind: actual
+    origin: third-party
+    subject: 国家公园雨林树冠高处的树顶吊桥步道
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: 国家公园（Taman Negara）淡美岭河上的木制长舟停靠在林木河岸旁，群山笼罩着晨雾
+    kind: actual
+    origin: third-party
+    subject: 晨雾中国家公园码头淡美岭河上的长舟
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 黎明时分站在瓜拉大汉码头，望着薄雾从一条比喜马拉雅山还要古老的河流上升腾，你很容易忘记自己距离吉隆坡不过半日路程。国家公园并非人工打造的景点。它是一片活生生的热带雨林，数千万年来大致未受干扰地屹立至今——而进入它，比几乎任何旅客所预期的都更便宜、更简单。

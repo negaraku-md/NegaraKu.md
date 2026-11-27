@@ -23,7 +23,7 @@ appliesTo: "Pembaca yang mahukan objektif, sasaran dan rangka masa Dasar Ekonomi
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'Masjid Putra berkubah merah jambu dan kompleks pentadbiran Perdana Putra yang megah menghadap tasik yang tenang di Putrajaya, ibu kota persekutuan Malaysia yang dibina khas.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: Tiang menara putih berbentuk layar bagi Jambatan Seri Wawasan yang berkabel menjulang di atas air tenang Tasik Putrajaya, dengan kabel keluli terbentang seperti kipas ke dek jambatan.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Seri Wawasan di atas Tasik Putrajaya, di pusat pentadbiran persekutuan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: Jambatan Putra yang diilhamkan oleh Isfahan melengkung merentasi Tasik Putrajaya, dengan tiang seperti menara berjubin dan lengkungan tajamnya terpantul di air di bawah langit biru.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Putra di atas Tasik Putrajaya, di pusat pentadbiran persekutuan
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 Dasar Ekonomi Baru biasanya diingati dengan satu perkataan sahaja — "penyusunan semula" — dan telah diperdebatkan sejak itu. Namun dasar ini menyatakan matlamatnya sendiri secara bertulis, dalam sebuah rancangan kerajaan yang dibentangkan di Parlimen, dan matlamat itu ada dua, bukan satu, dengan satu idea ketiga yang berada di atas kedua-duanya. Rencana ini mengemukakan apa yang dinyatakan oleh dokumen-dokumen itu, mengikut susunan sebagaimana dokumen-dokumen itu menyatakannya.

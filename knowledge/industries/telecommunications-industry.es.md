@@ -31,7 +31,7 @@ faq:
   - q: ¿Sigue creciendo el mercado de telecomunicaciones de Malasia?
     a: El crecimiento de abonados se ha estancado en gran medida porque el mercado está casi saturado. Se espera que el crecimiento futuro provenga de servicios de mayor valor —5G, mejoras de fibra, conectividad empresarial y servicios digitales— y no de dar de alta a grandes cantidades de nuevos usuarios.
 lang: es
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'Una torre de telecomunicaciones celular que sostiene múltiples antenas de panel contra un cielo despejado.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: Un gran estand de exposición oscuro con el logotipo y el nombre de marca CelcomDigi iluminados en la parte superior y un panel azul brillante que dice CelcomDigi fibre, Ultra Smooth Low Latency, con visitantes con mascarilla reunidos debajo.
+    kind: actual
+    origin: third-party
+    subject: Un estand de exposición de CelcomDigi que promociona la banda ancha por fibra, muestra de la presencia de consumo de un operador malasio de móvil y banda ancha
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: Una larga pared de servidores informáticos montados en bastidor que se aleja en ángulo, cada nivel tachonado de luces de estado azules centelleantes sobre los oscuros armarios metálicos.
+    kind: representative
+    origin: third-party
+    subject: Filas de equipos de redes y servidores que brillan con luces indicadoras azules en un centro de datos, la infraestructura que sustenta las redes de telecomunicaciones
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 Casi todo el mundo en Malasia lleva una conexión móvil, y la mayoría de los hogares tienen alguna forma de banda ancha. Eso hace de las telecomunicaciones una de las industrias más importantes y más maduras del país: la fontanería invisible bajo la economía digital, la banca en línea, el gobierno electrónico y la vida cotidiana. Sin embargo, detrás de los nombres de marca familiares se sitúa un mercado que ha cambiado drásticamente en años recientes: menos operadores, fusiones más grandes y un experimento nacional sobre cómo construir el 5G.

@@ -38,7 +38,7 @@ verificationNeeded:
   - "ยืนยันวันที่และฐานของเปอร์เซ็นต์องค์ประกอบชาติพันธุ์บนพอร์ทัลทางการของรัฐ (มลายู 61.5% จีน 22.9% อินเดีย 15.1% อื่น ๆ 0.5%) — ตัวเลขนั้นไม่มีวันที่และไม่ตรงกับโครงสร้างการแยกส่วนของสำมะโน 2020 ที่แยกผู้ที่ไม่ใช่พลเมืองออกมา"
 
 lang: "th"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'พระราชวังเสรีเมนันตีไม้สีเข้มที่มีหลังคาทรงมินังกาเบาปลายแหลมซ้อนชั้น ตั้งอยู่บนสนามหญ้าสีเขียว มีศาลาสีแดงและเนินเขาที่ปกคลุมด้วยป่าอยู่ด้านหลัง'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: ชายหาดทรายโค้งอ่อนช้อยเรียงรายด้วยต้นปาล์มทอดตัวหน้าช่องแคบมะละกาอันสงบที่พอร์ตดิกสันในรัฐเนอเกอรีเซิมบีลัน
+    kind: actual
+    origin: third-party
+    subject: หาดพอร์ตดิกสัน รัฐเนอเกอรีเซิมบีลัน
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: เรือนไม้แบบมีนังกาเบาที่มีหลังคาโค้งรูปเขาควายตั้งอยู่ในบริเวณพิพิธภัณฑ์รัฐเนอเกอรีเซิมบีลันที่เซอเริมบัน
+    kind: actual
+    origin: third-party
+    subject: เรือนแบบมีนังกาเบาที่พิพิธภัณฑ์รัฐเนอเกอรีเซิมบีลัน (Muzium Negeri Sembilan) เซอเริมบัน
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 ในแปดรัฐมลายูอื่น คำถามที่ว่า "ใครจะเป็นราชาองค์ต่อไป" ตอบโดยสายเลือด ในเนอเกอรีเซิมบีลัน มันตอบโดยผู้นำจารีตประเพณีสี่คน

@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 
 status: "published"
 aiAssisted: true
@@ -66,6 +66,32 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'உனிவெர்சிட்டி தெக்னோலோஜி மலேசியா குவாலாலம்பூர் வளாகத்தின் நுழைவு வாயில், வாகனப் பாதைக்கு மேலே உள்ள வளைவில் UTM சின்னத்துடன்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: Universiti Teknologi MARA (UiTM)-இன் நிர்வாகக் கட்டிடம்; கண்ணாடியும் கான்கிரீட்டும் கொண்ட பெரிய நவீன அரசுப் பல்கலைக்கழகக் கட்டிடம், முன்பக்கம் கொடிகளுடன் நிலக்காட்சி அமைக்கப்பட்ட மேட்டின் மீது நிற்கிறது.
+    kind: representative
+    origin: third-party
+    subject: மலேசிய அரசுப் பல்கலைக்கழக வளாகம் (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: Kota Kinabalu-வில் உள்ள Universiti Malaysia Sabah-இன் தனித்துவமான நீல-கிரீம் நிற நிர்வாகக் கட்டிடம் (Canselori); நிலக்காட்சி அமைக்கப்பட்ட புல்வெளிக்கு மேலே அமைந்த அரசுப் பல்கலைக்கழக அடையாளச் சின்னம்.
+    kind: representative
+    origin: third-party
+    subject: மலேசிய அரசுப் பல்கலைக்கழக அடையாளச் சின்னம் (Universiti Malaysia Sabah நிர்வாகக் கட்டிடம்)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 பல மாணவர்கள் ஒரே அனுமானத்துடன் தங்கள் PTPTN சலுகை ஆவணங்களில்

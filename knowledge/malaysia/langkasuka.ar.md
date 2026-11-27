@@ -42,6 +42,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["لانغكاسوكا", "Langkasuka", "الممالك الملايوية المبكرة", "early Malay kingdoms", "تاريخ قدح القديم", "Lang-ya-xiu", "ماليزيا قبل الإسلام"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: 'قاعدة معبد حجرية منخفضة متدرّجة في ساحة عشبية يحيط بها النخيل والتلال الخضراء في وادي بوجانغ.'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في القرن السابع، دوّن مؤرخ في البلاط الصيني كان يجمع مادة «كتاب ليانغ» ما كان قد نقله مبعوثون سابقون عن مملكة بعيدة في الجنوب: مدينة محاطة بالأسوار، وملك يمتطي فيلًا، وبلاط ينحني فيه الموظفون بأيدٍ مطويّة أمام سيّدهم. وسمّى المؤرخ ذلك المكان «لانغ يا شيو». ولا شكّ تقريبًا أنه كان يصف لانغكاسوكا — وتلك الجملة، المدفونة في تاريخ سلالي جُمع لأغراض مختلفة تمامًا، هي واحدة من الأوصاف التفصيلية القليلة جدًا الباقية عن هذا المكان في أي مكان.

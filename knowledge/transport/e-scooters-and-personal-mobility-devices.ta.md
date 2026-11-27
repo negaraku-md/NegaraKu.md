@@ -27,7 +27,7 @@ faq:
     a: "ஒரு மின்சார சைக்கிள் Standard Malaysia MS2514-ஐ பின்பற்றும் pedal-assist வகையாக இருந்து, த்ரோட்டில் (throttle) இல்லாமல், நிரந்தரமாகப் பொருத்தப்பட்ட மிதிவண்டிகளைக் (pedal) கொண்டிருந்தால் மட்டுமே விலக்கு அளிக்கப்படுகிறது. அனுமதிக்கப்படாத த்ரோட்டில் பொருத்தப்பட்ட மின்சார சைக்கிள் PMD அல்லது மொபெட் (moped) என வகைப்படுத்தப்பட்டு தடைசெய்யப்பட்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'ஜொகூர் மாநிலம் பத்து பாகாத்தில் (Batu Pahat) தளம் போடப்பட்ட பூங்காப் பாதையில் நிறுத்தப்பட்ட மூன்று ஊதா நிற Beam பகிர்வு மின்சார ஸ்கூட்டர்கள்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: கோலாலம்பூரில் Merdeka MRT நிலையத்திற்கு அருகே ஒரு ஹோட்டலுக்குப் பக்கத்தில் உள்ள நுண்-நடமாட்டப் பகுதியில் நிறுத்தப்பட்டுள்ள பகிர்ந்த Beam மின்-ஸ்கூட்டர்.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், Merdeka MRT அருகே பகிர்ந்த Beam மின்-ஸ்கூட்டர் நிறுத்துமிடம்
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: ஜொகூரின் பத்து பகாட்டில் உள்ள தாமான் ரெக்ரியாசி தாசிக் Y இல் ஒரு பாதையில் நிறுத்தப்பட்டுள்ள ஊதா நிற பகிர்ந்த Beam Mobility மின்-ஸ்கூட்டர்.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், பத்து பகாட்டில் ஏரிக்கரை பூங்காவில் பகிர்ந்த Beam மின்-ஸ்கூட்டர்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 அலுவலகத்திற்குச் செல்ல நீங்கள் ஒரு இ-ஸ்கூட்டரை வாங்குகிறீர்கள், ஆனால் அதன் சக்கரங்கள் பொது சாலையைத் தொடும் நொடியே நீங்கள் சட்டத்தை மீறிவிட்டீர்கள். 2021 ஆம் ஆண்டின் இறுதி முதல் மலேசியாவில் மைக்ரோமொபிலிட்டியின் நிதர்சனம் இதுதான்.

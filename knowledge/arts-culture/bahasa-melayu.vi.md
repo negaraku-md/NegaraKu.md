@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu: Ngôn ngữ Quốc gia theo Điều 152"
 socialTitle: "Tiếng Mã Lai trở thành ngôn ngữ quốc gia ra sao — và chuyển từ Jawi sang Rumi"
 
 lang: "vi"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -94,6 +94,32 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'Tòa tháp Dewan Bahasa dan Pustaka cao lớn ở Kuala Lumpur, tên của nó được ghi trên bệ, trụ sở của cơ quan ngôn ngữ và văn học quốc gia nhìn từ đường.'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: Tấm biển treo ghi 'Sách tiếng Mã Lai' phía trên những chiếc bàn chất đầy sách bìa mềm tiếng Mã Lai khi khách tham quan xem sách tại hội chợ sách Malaysia
+    kind: actual
+    origin: third-party
+    subject: Khu sách tiếng Mã Lai tại một hội chợ sách ở Malaysia
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: Một bản thảo viết tay bằng chữ Jawi đã cũ, mở ra và trưng bày trên giá trong tủ kính
+    kind: actual
+    origin: third-party
+    subject: Một bản thảo tiếng Mã Lai mở bằng chữ Jawi (bộ luật Hukum Kanun Melaka), Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 Ở Kuala Berang, Terengganu, người ta tìm thấy một bia đá mà trên đó khắc những từ tiếng Mã Lai — không phải bằng các chữ cái mà chúng ta biết ngày nay, mà bằng chữ Ả Rập được điều chỉnh cho các âm tiếng Mã Lai. Theo Cục Lưu trữ Quốc gia Malaysia (Arkib Negara Malaysia), bia đá đó có niên đại năm 1303 sau Công nguyên.

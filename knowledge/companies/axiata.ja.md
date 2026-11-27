@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "2025年9月30日までの9か月のグループ年初来純利益RM4.033億（2025年11月27日公表）——次の四半期・年次決算に照らして確認する。"
   - "「1億5,000万人をはるかに超える顧客」は、2019年の会社の数字にその後の市場成長を加えたものに基づく；現在のグループ顧客総数を最新の年次報告書に照らして確認する。"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'クアラルンプールのアシアタ・アリーナの正面入口。穴あきの銀色のファサードに大きな青とマゼンタの「axiata arena」の名称と三角のロゴを掲げる'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: スポーツイベント中、青とマゼンタの巨大な'axiata arena'の看板の下に広がるAxiata Arenaの正面入口に集まる人々
+    kind: actual
+    origin: third-party
+    subject: イベント中、ブキッジャリルのAxiata Arena正面入口に集まる群衆
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: 2017年東南アジア競技大会のバドミントン試合で満員となったAxiata Arenaの内部。コートを囲む段状の青い客席を観客が埋め尽くす
+    kind: actual
+    origin: third-party
+    subject: 2017年東南アジア競技大会のバドミントン競技中のAxiata Arena内部
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 マレーシア最大の通信の物語は、単一のネットワークではなく、六か国のモバイル事業者の一部を所有する一つの持株会社である。Axiata Group Berhad はクアラルンプール・セントラルのオフィスタワーに座し、南アジアと東南アジア全域で何億もの人々をつなぐ通信事業者を、支配し、一部を所有し、あるいは共同で運営している。

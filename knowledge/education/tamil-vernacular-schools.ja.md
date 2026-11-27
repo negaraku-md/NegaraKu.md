@@ -32,7 +32,7 @@ faq:
   - q: "タミル語学校ではマレー語と英語が教えられていますか？"
     a: "はい。SJKTでの教授言語はタミル語ですが、マレー語（Bahasa Melayu）と英語は必修科目として教えられます。これにより児童は、タミル語で基礎教育を受けると同時に、国民中等学校へ進むためにマレー語でも備えることになります。"
 lang: "ja"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,32 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: 'ジョホール州のマレーシアのタミル語国民型小学校（淡小）Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi の門と多層階校舎。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: ケダ州のSJK(T) Changlun（S.J.K (Tamil) Changlun）の青い入口看板。校名がタミル語とマレー語で記され、校章も添えられている。
+    kind: actual
+    origin: third-party
+    subject: タミル語の国民型学校SJK(T) Changlunの校名板
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: ケダ州のSJK(T) Changlunの教室棟と中庭。屋根付きの通路沿いに教室の出入口、掲示板、旗が並んでいる。
+    kind: actual
+    origin: third-party
+    subject: タミル語学校SJK(T) Changlunの教室棟
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 マレーシアのどの片隅でも——古いゴム園の端や、町のはずれで——小さなタミル語学校を見かけることができる。それらの学校の多くは一世紀を超える歴史をもち、単なる建物ではなく、ある共同体の移住、労働、言語の証人でもある。

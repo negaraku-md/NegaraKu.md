@@ -21,7 +21,7 @@ appliesTo: "マレーシア華人の伝統戯曲の種類や、「酬神劇（�
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -61,6 +61,34 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: '金の龍を背景にした舞台上の、精巧な刺繍衣装に隈取りと華やかな冠をつけた6人の中国劇の演者。中央に黒と金の甲冑と長いキジの羽飾りをつけた将軍が立つ'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: 夜の祭りの舞台に立つ2人の潮州オペラの演者。漢字で覆われた「Penang Dialect Theater」の背景幕の前で、青い衣の男性の学者役と鮮やかなピンクの女性役が演じている
+    kind: actual
+    origin: third-party
+    subject: 2024年、ペナン、ジョージタウンの旧正月の路上の潮州オペラ
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: 白い衣とビーズの黒い帽子を身につけ、舞台化粧をして眼鏡をかけた中国の路上オペラの演者が、温かい薄暗い光の中で舞台裏で台本を読もうと小さなランプに身を寄せている様子
+    kind: actual
+    origin: third-party
+    subject: マレーシアの、衣装をまとい舞台裏で台本を読む中国の路上オペラの演者
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 銅鑼と太鼓が鳴り響き、舞台の上では水袖（すいしゅう、長い袖の舞衣装）が翻る——それでも客席に座っているのはたいてい数人だけで、時には一人もいないこともある。これは公演の失敗ではない。なぜなら、この芝居はそもそも人に見せるために上演されているのではないからだ。

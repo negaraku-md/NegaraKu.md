@@ -19,7 +19,7 @@ keyTakeaways:
   - "Keturunan Kesultanan Melaka melanjutkan pemerintahan di Johor Lama pada 1528 dan dinasti itu bertahan hingga 1699"
 appliesTo: "Pembaca yang ingin memahami sebab teknis dan politik di balik kejatuhan Melaka 1511, dan apa yang terjadi pada institusi serta keturunan diraja Melaka setelah kota itu hilang."
 lang: "id"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'Gerbang batu Porta de Santiago yang runtuh dari benteng A Famosa di Melaka, dinding laterit dan plesternya yang lapuk dimahkotai menara kecil yang runtuh, dengan meriam perunggu tua berdiri di atas alas bata di depannya.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: Tembok laterit tanpa atap dan bukaan jendela yang kosong pada reruntuhan Gereja St Paul tahun 1521 berdiri di puncak Bukit St Paul di Melaka di bawah langit terbuka.
+    kind: actual
+    origin: third-party
+    subject: Reruntuhan Gereja St Paul di Bukit St Paul, Melaka
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: Gerbang masuk berwarna krem menuju Lapangan Portugis, diapit bangunan beratap terakota dan papan nama restoran, membuka ke sebuah pelataran di Permukiman Portugis Melaka.
+    kind: actual
+    origin: third-party
+    subject: Lapangan Portugis di Permukiman Portugis (Kampung Portugis), Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 Sepuluh hari. Itulah jarak antara kedatangan armada Portugis di perairan Melaka pada 10 Agustus 1511 dan saat kota itu berpindah tangan pada 24 Agustus.

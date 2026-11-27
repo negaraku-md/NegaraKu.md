@@ -97,6 +97,14 @@ drinkFacts:
   halal: "A non-alcoholic drink of rose syrup, milk and water, long served at Malay Muslim occasions such as wedding receptions and Ramadan iftar, so its composition is halal; strict observers may still check the specific syrup and milk brands. The bandung soda variant adds only an ordinary carbonated soft drink and is likewise non-alcoholic."
   served: "Iced and bright pink, often frothy. A festive and everyday drink: poured at wedding receptions and kenduri, broken out at Ramadan iftar, and served cold at family gatherings and restaurants alongside rich dishes such as nasi beriani or rendang."
   where: "A staple of mamak stalls, hawker centres, kopitiam and pasar malam night markets across Malaysia, where it is commonly ordered as 'sirap bandung' (add peng or ais for iced). Variants — bandung soda, bandung cincau with grass jelly — turn up at the same stalls and at festive tables."
+hero: "/media/food/sirap-bandung/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Two tall glasses of pink iced rose-syrup milk (sirap bandung) with straws"
+heroCredit: "Kyle Lam / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 Of all the drinks on a Malaysian coffee-shop board, sirap bandung is the one you

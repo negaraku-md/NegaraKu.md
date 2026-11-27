@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,34 @@ keywords:
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: '晴天の下、整備された公園の遊歩道の上にそびえる、イスカンダル・プテリのメディニの洗練された濃いガラス張りの企業オフィスタワー'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: ジョホール州のForest Cityを上空から見た眺め。建設中の水辺の高層タワーと、海峡沿いに埋め立てられた砂浜に並ぶ白いヴィラ棟が見える
+    kind: actual
+    origin: third-party
+    subject: ジョホール海峡に面したジョホール州の旗艦的な越境開発Forest City。シンガポールの方向に水辺を望み、タワーとヴィラ棟が建設中
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: 整備されたロータリーにある大きな沿道の'Iskandar Puteri'ランドマーク標示。背後のスカイラインにはオフィスと商業のタワー群と建設クレーンが立つ
+    kind: actual
+    origin: third-party
+    subject: Iskandar Puteriの玄関口のランドマーク標示。背後のスカイラインにはゾーンの商業タワー群とクレーンがそびえる
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 ジョホール・シンガポール経済特区についてのあらゆる要約は、同じ一つの数字——15年間の5%——から

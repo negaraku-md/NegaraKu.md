@@ -20,7 +20,7 @@ appliesTo: "中三或 SPM 之后的学生、为孩子规划升学与职业路径
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -65,6 +65,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'Kolej Vokasional Sungai Buloh 的入口和招牌，这是一所马来西亚职业学院，提供技术与技能（TVET）培训。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: Montfort青年培训中心有盖的中央大厅，这是沙巴Kinarut一所职业技能培训校园，舞台横幅上写着“Through Work Achieve Success”。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚青年技能培训中心内部
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: 沙巴亚庇理工学院（Politeknik Kota Kinabalu）弧形的有盖入口走道与现代化教学楼。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚理工学院校园（亚庇理工学院 Politeknik Kota Kinabalu）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 许多中三学生和他们的家长，往往以为中学毕业后只有一条路：SPM、STPM、学位。但这个国家实际上还运作着另一整套教育体系——有自己的机构、自己的证书、自己的法令——却很少被正确解释清楚：那就是 TVET，即技术与职业教育培训（Pendidikan dan Latihan Teknikal dan Vokasional）。

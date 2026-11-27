@@ -41,7 +41,7 @@ verificationNeeded:
   - "Cổng du lịch của bang nêu diện tích 35,960 km vuông trong khi cổng chính quyền bang nêu 35,965 km vuông; xác nhận một con số chính thức duy nhất với Văn phòng Thư ký Chính quyền Pahang."
 
 lang: "vi"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,32 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'Những bậc thang đồi chè xanh mướt của một đồn điền ở Cao nguyên Cameron uốn lượn giữa các ngọn đồi rừng dưới bầu trời nhiều mây.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: Sóng vỗ qua những tảng đá sẫm màu trên vịnh cát lưng tựa rừng của Teluk Cempedak gần Kuantan trên bờ biển Pahang.
+    kind: actual
+    origin: third-party
+    subject: Bãi biển Teluk Cempedak, Kuantan, Pahang
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: Mặt nước ngọt tĩnh lặng trải rộng giữa những ngọn đồi rừng rậm tại hồ Tasik Chini, hồ phủ sen của Pahang và là khu dự trữ sinh quyển UNESCO.
+    kind: actual
+    origin: third-party
+    subject: Hồ Tasik Chini (Lake Chini), Pahang
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 Pahang bao trùm hơn một phần tư đất liền của Bán đảo Malaysia, nhưng chỉ

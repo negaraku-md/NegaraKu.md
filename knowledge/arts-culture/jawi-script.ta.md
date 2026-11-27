@@ -34,7 +34,7 @@ seoTitle: "ஜாவி எழுத்து: வரலாறு, அமைப�
 socialTitle: "ஏழு நூற்றாண்டுகளாக மலாய் மொழியை எழுதிய அரபு எழுத்துகள் — ஜாவி எழுத்தின் கதை"
 
 lang: "ta"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,34 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'Terengganu அரச சின்னமும், தங்க Jawi (அரபி-தோற்ற மலாய்) எழுத்தில் ''Istana Maziah'' என்ற சொற்களும் பொறிக்கப்பட்ட கரும்நீல பலகை'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: அலங்கார தங்கம், நீலம் மற்றும் சிவப்பு மலர் ஒளிவேலைப்பாட்டால் சட்டமிடப்பட்ட ஜாவி எழுத்தின் எதிரெதிரான இரண்டு கையெழுத்துப் பிரதி பக்கங்கள்
+    kind: actual
+    origin: third-party
+    subject: ஜாவியில் கையால் எழுதப்பட்ட மலாய் இலக்கியப் படைப்பான தாஜ் அல்-சலாதீனின் ஒளிவேலைப்பாடு கொண்ட தொடக்கப் பக்கங்கள்
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: ஒரு காட்சிப் பெட்டியில் பழமையான திறந்த கையெழுத்துப் பிரதி நூல், அதன் எதிரெதிரான பக்கங்கள் ஒழுகும் கையெழுத்து ஜாவி எழுத்தால் நிறைந்துள்ளன
+    kind: actual
+    origin: third-party
+    subject: அருங்காட்சியக காட்சியில், ஜாவியில் எழுதப்பட்ட ஹுகும் கானுன் மெலாக்கா (மலாக்கா சட்டத் தொகுப்பு) என்ற திறந்த கையெழுத்துப் பிரதி
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 ட்ரெங்கானுவில் கண்டெடுக்கப்பட்ட ஒரு கல் கல்வெட்டில், மலாய்ச் சொற்கள் செதுக்கப்பட்டுள்ளன — இன்று நாம் பயன்படுத்தும் எழுத்துகளில் அல்ல, மாறாக மலாய் மொழியின் ஒலிகளுக்கு ஏற்றவாறு மாற்றியமைக்கப்பட்ட அரபு எழுத்துகளில். அந்தக் கல்வெட்டு, ட்ரெங்கானு கல்வெட்டு (Batu Bersurat Terengganu), 702 ஹிஜ்ரி என்ற தேதியைத் தாங்கியுள்ளது; இது பொதுவாக 1303 கிபி ஆண்டுடன் பொருத்தப்படுகிறது.

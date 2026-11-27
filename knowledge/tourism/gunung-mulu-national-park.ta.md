@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -81,9 +81,42 @@ sources:
 
 entity: "Gunung Mulu National Park"
 wikidata: "Q61535"
-related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "sabah-visitor-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'போர்னியோ (Borneo) பயணத்திட்டத்தை உருவாக்கும் குகை ஆர்வலர்கள், சாகசத் தடம்-நடப்பவர்கள் மற்றும் இயற்கைப் பயணிகளுக்கு ஏற்றது — UNESCO உலகப் பாரம்பரிய சுண்ணாம்புக்கல் நிலப்பரப்பு, சாதனைப் படைத்த காட்சிக் குகைகள் மற்றும் Deer Cave-இன் வௌவால் வெளியேற்றம்.'
+  getThere: 'சிறிய விமானம் மூலம் மட்டுமே — உள்ளே செல்ல சாலை எதுவும் இல்லை. Mulu Airport-க்கு (பொதுவாக Miri-இலிருந்து ஒரு குறுகிய பயணம்) பறந்து, பின்னர் பூங்கா தலைமையகத்தில் பதிவு செய்யுங்கள்.'
+  permit: 'பூங்கா தலைமையகத்தில் பதிவு செய்யுங்கள்; காட்சிக் குகைகள், சாகசக் குகை உலா மற்றும் Pinnacles ஆகிய அனைத்திற்கும் உரிமம் பெற்ற வழிகாட்டிகளும் முன்பதிவும் தேவை — வாரங்கள் முதல் மாதங்கள் முன்பே முன்பதிவு செய்யுங்கள்.'
+  watch: 'நம்பகமான வறண்ட பருவம் இல்லாத பூமத்திய ரேகை மழைக்காடு — Pinnacles ஏற்றமும் வௌவால் வெளியேற்றமும் வானிலையைச் சார்ந்தவை, கனமழையில் ரத்து செய்யப்படுகின்றன, எனவே கூடுதல் நாட்களை ஒதுக்குங்கள். சிறிய விமானச் சாமான் வரம்புகள் பொருந்தும்.'
+  next: 'தற்போதைய விமானங்கள், அறைகள், வழிகாட்டப்பட்ட செயல்பாட்டு விதிகள் மற்றும் கட்டணங்களை அதிகாரப்பூர்வ பூங்கா தளம் (mulupark.com) மற்றும் Sarawak Tourism Board-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Sarawak Gunung Mulu National Park-ல், மூடுபனி சூழ்ந்த மலைச்சரிவில் பச்சை மழைக்காட்டைத் துளைக்கும் கூரான சாம்பல் சுண்ணாம்புக்கல் சிகரங்களின் தொகுதி'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Gunung Mulu தேசியப் பூங்காவின் Deer Cave-இல் மழைக்காட்டால் போர்த்தப்பட்ட செங்குத்தான சுண்ணாம்புக்கல் பாறைகளில் அமைந்த மிகப்பெரிய இருண்ட குகை வாய்
+    kind: actual
+    origin: third-party
+    subject: Gunung Mulu-இல் உயரமான காடு மூடிய சுண்ணாம்புக்கல் பாறைகளால் சூழப்பட்ட, உலகின் மிகப்பெரிய குகைப் பாதைகளில் ஒன்றான Deer Cave-இன் விசாலமான நுழைவாயில்
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Gunung Mulu-இன் Clearwater Cave-இனுள் மென்மையான வெளிர் பாறைச் சுவர்கள் மற்றும் அசையாத நிலத்தடி ஆறுடன் மெதுவாக ஒளிரும் குகை அறை
+    kind: actual
+    origin: third-party
+    subject: Clearwater Cave-இன் ஒளிரும் உட்புறம், அதன் நிலத்தடி ஆற்றுடன், Gunung Mulu-இல் தென்கிழக்கு ஆசியாவின் மிக நீளமான குகை அமைப்புகளில் ஒன்றின் பகுதி
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 சரவாக்கின் மழைக்காட்டின் ஆழத்தில், சுண்ணாம்பு மலைகள் காட்டிலிருந்து நேராக எழுந்து எந்தச் சாலையும் அடையாத இடத்தில், மலேசியாவின் மிக அசாதாரணமான நிலப்பரப்புகளில் ஒன்று — மேலும் கிரகத்தின் மிக ஆய்வுசெய்யப்பட்ட குகைப் பகுதிகளில் ஒன்று — அமர்ந்துள்ளது. குனுங் முலு தேசியப் பூங்கா என்பது உலகின் மிகப் பெரிய குகை அறை, ஒரு ஜம்போ ஜெட்டை பறக்க வைக்கும் அளவுக்குப் பெரிய ஒரு குகை வழித்தடம், மில்லியன் கணக்கான வௌவால்களின் ஒரு இரவுநேர ஆறு, மேலும் ஒரு பூட்டைக் கிழிக்கும் அளவுக்குக் கூரிய சுண்ணாம்பு கத்திகளின் ஒரு குன்றுமுகட்டுக் காட்டை நீங்கள் காணும் இடம். இது உண்மையிலேயே தொலைதூரமானதும் கூட: நீங்கள் ஒரு சிறிய விமானத்தில் வந்து, கிட்டத்தட்ட எல்லா இடங்களுக்கும் ஒரு வழிகாட்டியுடன் செல்கிறீர்கள், மேலும் மாதங்களுக்கு முன்பே முன்பதிவு செய்கிறீர்கள். இந்த வழிகாட்டி முலு என்ன, தரைக்குக் கீழே மற்றும் மேலே பார்க்க என்ன உள்ளது, இரண்டு பெரிய நடைகள், அணுகல் எவ்வாறு இயங்குகிறது, மேலும் முதல்-முறையினர் செய்யும் தவறுகள் ஆகியவற்றை உள்ளடக்குகிறது.

@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 是在 ICW 2021 上推出的政策，紧接建筑工业转型计划（CITP）2016–2020 结束之后。它列出六大战略支柱，以推动建筑领域在 2030 年前迈向数码时代，包括将 50% 产业周期数码化的目标。"
 
 lang: "zh"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: '吉隆坡一处高层建筑工地的深基坑开挖，设有塔吊、红色支撑支架和工人，背后是城市天际线。'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: 塔式起重机耸立在马来西亚吉隆坡市中心一栋在建高层建筑之上。
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡的一处高层建筑工地
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: 吉隆坡武吉加里尔附近金马路（Jalan Kuda Emas）上一栋在建的钢筋混凝土服务式公寓大楼。
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡武吉加里尔附近的服务式公寓建设
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 试着在没有持有承包商注册证书的情况下建造一道价值 RM250,000 的校园围栏，你的项目就可能被立即勒令停工——甚至在第一根柱子还没埋下之前。在马来西亚，建造的权利并非从机器或劳工开始；它从一份注册开始。

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne ayant besoin des données de base de la Malaisie — population, superficie, capitale, monnaie, langue, PIB — avec chaque chiffre attribué à la publication officielle précise qui le publie, plutôt qu'à un résumé sans source."
 
 lang: "fr"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'La ligne d''horizon illuminée de Kuala Lumpur la nuit, dominée par les Petronas Twin Towers et les gratte-ciel environnants.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: Une rue animée de nourriture de marché nocturne rougeoie sous des lanternes de papier rouges, tandis que les convives remplissent des tables en plastique rouges près des étals de hawkers et d'une charrette de durian.
+    kind: actual
+    origin: third-party
+    subject: La rue de restauration de hawkers nocturne Jalan Alor, Kuala Lumpur
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: D'innombrables collines couvertes de jungle s'estompent dans une brume bleue sous un ciel nuageux, vues au-dessus de la dense canopée de forêt tropicale depuis une clairière au sommet d'une colline.
+    kind: actual
+    origin: third-party
+    subject: Collines de forêt tropicale du Taman Negara vues depuis Bukit Terisek, Pahang
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Demandez « quelle est la taille de la Malaisie ? » ou « quelle est la population de la Malaisie ? » et vous obtiendrez une réponse différente selon le site web sur lequel vous atterrissez — certains citant les chiffres du recensement de 2020, d'autres citant une estimation de la Banque mondiale en retard de deux révisions. Cette page existe pour corriger cela : chaque chiffre ci-dessous provient d'une publication officielle nommée, datée, afin que vous puissiez voir exactement à quel point il est actuel et le vérifier vous-même.

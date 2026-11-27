@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يحتاج إلى الوقائع الأساسية عن ماليزيا — عدد السكان، والمساحة، والعاصمة، والعملة، واللغة، والناتج المحلي الإجمالي — مع إسناد كل رقم إلى الإصدار الرسمي المُحدَّد الذي ينشره، بدلاً من ملخص بلا مصدر."
 
 lang: "ar"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["وقائع ماليزيا", "عدد سكان ماليزيا", "مساحة ماليزيا", "الرينغيت الماليزي", "عاصمة كوالالمبور", "بوتراجايا", "اللغة الملايوية", "الناتج المحلي الإجمالي لماليزيا", "DOSM", "Bank Negara Malaysia", "Malaysia facts", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'أفق كوالالمبور المضاء ليلاً، تتوسطه برجا بتروناس التوأمان وناطحات السحاب المحيطة.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: شارع طعام مزدحم في سوق ليلي يتوهّج تحت فوانيس ورقية حمراء بينما يملأ روّاد الطعام طاولات بلاستيكية حمراء بجانب أكشاك الباعة الجائلين وعربة دوريان.
+    kind: actual
+    origin: third-party
+    subject: شارع طعام الباعة الليلي Jalan Alor، كوالالمبور
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: تلال لا نهاية لها تكسوها الأدغال تتلاشى في ضباب أزرق تحت سماء غائمة، مشاهَدة فوق مظلّة كثيفة من الغابة المطيرة من فسحة على قمة تل.
+    kind: actual
+    origin: third-party
+    subject: تلال الغابة المطيرة في Taman Negara كما تُرى من Bukit Terisek، باهانغ
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 اسأل «ما حجم ماليزيا؟» أو «كم عدد سكان ماليزيا؟» وستحصل على إجابة مختلفة بحسب الموقع الذي تصل إليه — فبعضها يقتبس أرقام تعداد 2020، وبعضها يقتبس تقديراً للبنك الدولي متأخراً بمراجعتين. وُجدت هذه الصفحة لتصحيح ذلك: كل رقم أدناه مأخوذ من إصدار رسمي مُسمّى ومؤرَّخ، كي ترى بدقة مدى حداثته وتتحقق منه بنفسك.

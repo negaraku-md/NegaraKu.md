@@ -43,7 +43,7 @@ sources:
     publisher: "PubMed"
 
 lang: "fr"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ drinkFacts:
   halal: "Le jus de corossol, c'est de la pulpe de fruit mixée avec de l'eau ou du lait et du sucre, sans alcool, donc la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand."
   served: "Servi froid, mixé frais à la commande — plus léger avec de l'eau, plus riche avec du lait en smoothie. Une boisson de fruit rafraîchissante ; savourez-la comme telle, et notez que les allégations de santé et « anticancer » attachées au corossol ne sont pas prouvées chez l'humain et ne remplacent pas un soin médical."
   where: "On le trouve dans les bars à jus, les stands de rue et les étals de fruits de tout le pays, partout où l'on mixe des jus de fruits tropicaux frais."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'Un tas de corossols frais, verts et épineux sur un étal de marché, avec des papayes et des bananes à l''arrière-plan'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: Fruit de corossol vert et épineux dans un bol en métal à côté d'un panier bleu de citrons verts éclatants sur un marché
+    kind: actual
+    origin: third-party
+    subject: corossol entier à côté d'un panier de citrons verts frais à un étal de fruits
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 Épineux, vert et lourd, le **corossol** ressemble au premier coup d'œil à un petit

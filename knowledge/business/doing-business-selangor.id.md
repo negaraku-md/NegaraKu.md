@@ -43,7 +43,7 @@ verificationNeeded:
   - "Tarif lisensi premis tahunan MBPJ — PDF undang-undang kecil yang diterbitkan oleh MBPJ adalah gambar pindaian tanpa lapisan teks, jadi tidak ada tarif ringgit yang dapat dibaca mesin"
 
 lang: "id"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -116,6 +116,34 @@ keywords:
   - "Selangor council licensing"
   - "Port Klang TEU"
 framework: profile
+hero: '/media/business/doing-business-selangor/hero.webp'
+heroAlt: 'Deretan derek gantry kapal-ke-darat biru tinggi memuat kapal peti kemas di Northport, Pelabuhan Klang, dengan peti kemas yang ditumpuk dan truk kontainer di jalan dermaga'
+heroCredit: 'Hafiz343 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: Menara perkantoran Wisma MBSA yang tinggi dan bersudut di samping gedung Dataran Shah Alam berkubah biru di bawah langit biru cerah di Shah Alam, Selangor
+    kind: actual
+    origin: third-party
+    subject: Menara perkantoran Wisma MBSA dan Dataran Shah Alam di inti komersial dan administratif ibu kota negeri Selangor
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: Gedung perkantoran komersial bertingkat berbahan kaca dan putih dengan jendela-jendela berlengkung tinggi di Mentari Business Park di Selangor, dilihat dari tepi jalan
+    kind: actual
+    origin: third-party
+    subject: Sebuah blok perkantoran komersial di Mentari Business Park di Bandar Sunway, bagian dari sabuk taman bisnis Selangor yang padat
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 Kuala Lumpur memiliki satu otoritas perizinan. Selangor, yang mengelilinginya,

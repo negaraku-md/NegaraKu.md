@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global",
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
+hero: '/media/companies/telekom-malaysia/hero.webp'
+heroAlt: '蓝天积云下，渐缩的弧形Menara TM摩天大楼高耸而立，其刀刃状竖脊上标有红蓝色TM标志，上层楼面伸出一个圆盘状的空中平台'
+heroCredit: 'Shesmax / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: 造型独特的倾斜弧形 Menara TM 大楼，上部脊线有 TM 徽标和一个碟形空中平台，在右侧映衬蓝天，旁边是一座八角形办公楼，前景有高架轨道交叉而过
+    kind: actual
+    origin: third-party
+    subject: Menara TM 与一座相邻大楼隔高架公路相望，塔尖上可见 TM 徽标，吉隆坡 Lembah Pantai
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: Menara TM 弧形银色立面和刀刃状塔尖的全貌，顶部是碟形空中平台，映衬城市低矮建筑上方沉重的灰色阴天
+    kind: actual
+    origin: third-party
+    subject: Menara TM 及其飞碟形空中平台的全貌视图，映衬阴郁的灰色天空，吉隆坡
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 马来西亚几乎每一条光纤宽带线路、每一条企业电路以及每一条海底数据电缆，在抵达任何人之前都会先经过一家公司。马来西亚电信有限公司（Telekom Malaysia Berhad，TM）是国家主导的电信商——它建成了该国大部分的固网，并至今拥有竞争对手与国际电信商都依赖的骨干网。

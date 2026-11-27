@@ -33,7 +33,7 @@ faq:
     a: "Qingming est le jour le plus fréquenté de l'année au yishan. Dans la dizaine de jours entourant Qingming, les familles chinoises se rendent souvent en famille au yishan pour nettoyer les tombes et honorer leurs ancêtres : arracher les herbes, nettoyer la stèle, repeindre les caractères gravés passés et disposer les offrandes. Au Guangdong, le nettoyage des tombes se dit couramment « bai shan » (拜山, rendre hommage à la colline), expression qui a elle aussi gagné la région du Nanyang avec les migrants. Ces dernières années, certaines administrations de yishan encouragent une approche plus sobre et respectueuse de l'environnement et une bonne gestion des déchets, et certaines familles vivent désormais cette journée par une visite à la niche ou un hommage en ligne."
 
 lang: "fr"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'Une grande tombe chinoise en forme de fer à cheval, aux inscriptions dorées et aux panneaux latéraux sculptés, nichée dans un tertre herbeux parmi les arbres sur la colline funéraire de Bukit China à Melaka.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: Des rangées de tombes chinoises carrelées en forme d'oméga, avec stèles et autels, dans un cimetière herbeux au Sarawak
+    kind: actual
+    origin: third-party
+    subject: Tombes chinoises carrelées en forme de fer à cheval dans un cimetière chinois près de Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: Des bandes de papier coloré déposées sur un tertre funéraire herbeux à côté d'une stèle pendant la fête du balayage des tombes Qingming
+    kind: representative
+    origin: third-party
+    subject: Papiers colorés lestés sur un tertre funéraire pendant Qingming (le balayage des tombes) au cimetière de Bukit Brown
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 À l'approche de Qingming, avant que le ciel ne soit tout à fait clair, le pied de Bukit Cina, à Malacca, est déjà rempli de voitures en stationnement. Famille après famille, on gravit les versants ondulés, chargé de fleurs fraîches, d'encens, de bougies et d'offrandes, en direction des tombes de ses ancêtres. Certains brûlent d'abord de l'encens devant une petite niche de pierre, à côté de la tombe, gravée des caractères de « Houtu », puis se tournent pour entretenir la stèle de l'ancêtre : arracher les herbes, repeindre les caractères gravés passés, puis disposer les offrandes. Les tombes serrées le long du versant, toutes orientées dans le même sens, sont le lieu de repos de génération après génération de Chinois venus vers le sud.

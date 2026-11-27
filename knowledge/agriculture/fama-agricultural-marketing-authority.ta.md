@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 
 status: "published"
 aiAssisted: true
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'மலேசியாவின் புத்ராஜெயாவில் பாசார் தானி விவசாயிகள் சந்தையில் விதானமிட்ட கடைகளின் வரிசைகள்.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: கோலாலம்பூர், சென்ட்ரல் மார்க்கெட்டில் ரம்புட்டான் மற்றும் லங்சாட் பழங்கள் குவிந்த, மலேசியக் கொடி அணிவித்த ஒரு கைவண்டிக் கடை
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் ரம்புட்டான் மற்றும் லங்சாட் பழங்களை விற்கும் தெரு பழ வியாபாரி
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: கேமரூன் ஹைலண்ட்ஸ், கியா ஃபார்மில் ரிங்கிட்டில் விலையிடப்பட்ட அஸ்பாரகஸ், அவகேடோ, மாம்பழம் மற்றும் பூசணிகளைக் காட்சிப்படுத்தும் ஒரு சந்தைக் கடை
+    kind: actual
+    origin: third-party
+    subject: கேமரூன் ஹைலண்ட்ஸ், கியா ஃபார்ம் சந்தைக் கடையில் விற்பனைக்கு வைக்கப்பட்டுள்ள புதிய உள்ளூர் விளைபொருட்கள்
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 [Cameron Highlands](/ta/tourism/cameron-highlands-visitor-guide)-இல் உள்ள ஒரு காய்கறி

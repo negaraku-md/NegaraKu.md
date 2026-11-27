@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Meskipun Monash, Nottingham, Xiamen, dan Heriot-Watt berkelompok di sekitar Lembah Klang dan Putrajaya, EduCity Iskandar memusatkan beberapa kampus di Johor dekat Singapura, dan Curtin serta Swinburne beroperasi di Sarawak."
 
 lang: "id"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -108,6 +108,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'Ini untuk mahasiswa dan orang tua yang mempertimbangkan kampus cabang universitas asing — kampus di luar negeri yang dimiliki sepenuhnya (Monash, Nottingham, Xiamen, Heriot-Watt, dan lainnya) yang memberikan gelar milik universitas asalnya sendiri di Malaysia.'
+  how: 'Pilih berdasarkan merek universitas asal, lokasi kampus, dan bidang keahlian; kampus cabang berada di Lembah Klang, Putrajaya, zona EduCity Iskandar di Johor, dan di Sarawak. Gelar yang diberikan adalah gelar yang identik dengan institusi asal, hanya disampaikan di kampus Malaysia.'
+  cost: 'Daya tariknya adalah kredensial Barat atau Tiongkok dengan biaya kuliah dan biaya hidup lokal, jauh lebih rendah daripada kuliah di kampus asal di luar negeri — tetapi biaya bervariasi menurut institusi dan program, jadi pastikan angka terkini dengan masing-masing kampus.'
+  watch: 'Gelarnya portabel, tetapi pengalamannya bersifat lokal — ukuran kelas, fasilitas, dan kehidupan kampus sangat berbeda antara kampus mandiri dan kampus yang berbagi di kota pendidikan. Program kampus cabang tetap memerlukan akreditasi MQA dan muncul di MQR.'
+  next: 'Susun daftar pendek berdasarkan bidang keahlian dan lokasi, verifikasi program yang tepat di MQR, dan pastikan persetujuan penerimaan mahasiswa internasional dengan kampus tersebut. Lihat Kuliah di Malaysia dan Universitas negeri vs swasta.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'Bangunan universitas modernis putih dengan menara jam menjulang di seberang danau hijau yang tenang seperti cermin, bertepikan tanaman hijau menjuntai dan pepohonan di bawah langit yang dramatis'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Blok-blok kampus besar berwarna krem yang dihubungkan jembatan layang berkaca, dengan lambang Monash di sebuah menara dan pohon palem di halaman
+    kind: representative
+    origin: third-party
+    subject: gedung-gedung kampus cabang Monash University Malaysia yang dihubungkan jembatan layang kaca, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: Gedung-gedung kampus putih dengan atap bertingkat merah bergaya Tionghoa di balik plaza pintu masuk bergerbang di bawah langit berawan sebagian
+    kind: representative
+    origin: third-party
+    subject: gerbang utama beratap merah dan menara administrasi Xiamen University Malaysia, kampus cabang luar negeri pertama universitas Tiongkok, di Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 Pada 1998, seorang mahasiswa di Kuala Lumpur dapat memperoleh ijazah Monash Australia tanpa perlu meninggalkan negara ini — dan membayar harga Malaysia untuknya. Pengaturan tunggal itu meluncurkan satu model yang terus dikembangkan oleh negara sejak itu: mengimpor universitas, bukan mahasiswa.

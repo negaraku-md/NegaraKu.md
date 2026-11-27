@@ -70,6 +70,13 @@ relations:
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
 framework: explainer
+hero: '/media/states/state-government-structure/hero.webp'
+heroAlt: '沙巴州立法议会大楼白色帆形的蓝色玻璃幕墙，被棕榈树和修剪整齐的花园环绕。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 拿掉国家皇宫（Istana Negara），把首相换个称呼，再把国会缩减为一院制——呈现在眼前的就是一个马来西亚州政府。全部13个州属都运作着联邦体制的缩小版本：一位统而不治的州元首、一位因能掌控多数而获选的政府首长、一个对民选议员集体负责的行政议会，以及一个可被解散并交还选民重新表决的议会。头衔因州而异，蓝图却始终如一。

@@ -31,7 +31,7 @@ faq:
   - q: Apakah ini sama dengan artikel Gig Workers Act?
     a: 'Tidak. Artikel Gig Workers Act 2025 menjelaskan undang-undangnya sendiri — hak, kontrak, dan tribunal. Artikel ini mencakup sektor ekonominya — seberapa besar ekonomi gig dan platform, siapa platform utamanya, dan bagaimana ia cocok dalam ekonomi digital yang lebih luas.'
 lang: id
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'Seorang pengantar makanan mengendarai sepeda motor dengan kotak pengiriman berinsulasi menunggu di persimpangan jalan di Penang, Malaysia.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Seorang kurir pengiriman makanan berjaket dan berhelm foodpanda merah muda mengendarai sepeda motor bebek (kapcai) sambil membawa kotak pengiriman berinsulasi foodpanda merah muda yang besar saat berhenti di tengah lalu lintas jalan.
+    kind: representative
+    origin: third-party
+    subject: Pengendara pengiriman makanan sepeda motor Foodpanda dengan kotak pengiriman berinsulasi merah muda (pekerjaan platform gig yang mewakili; non-Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Seorang kurir pengiriman makanan platform berdiri di trotoar mengenakan ransel pengiriman makanan berinsulasi berukuran besar.
+    kind: representative
+    origin: third-party
+    subject: Kurir pengiriman makanan dengan tas pengiriman platform berinsulasi (non-Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 Setiap hari, jutaan transaksi di Malaysia diatur bukan oleh toko, kantor, atau pangkalan taksi, melainkan oleh sebuah aplikasi: sebuah mobil dipanggil ke tepi jalan, sekantong makanan dibawa menyeberangi kota dengan sepeda motor, sebuah logo dirancang untuk klien yang tak akan pernah ditemui si pekerja lepas. Inilah ekonomi gig dan platform — kerja yang dimediasi platform digital — dan dalam waktu sedikit lebih dari satu dekade ia telah berpindah dari kebaruan menjadi salah satu fitur kehidupan kerja Malaysia yang paling terlihat.

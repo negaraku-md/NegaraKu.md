@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "vi"
-sourceContentHash: "1f58c985aa078563"
+sourceContentHash: "df209791e7052635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: 'Tòa nhà Hội đồng Lập pháp bang Sarawak chín tầng mái hình chiếc ô bên cạnh dòng sông Sarawak màu nâu với một chiếc thuyền gỗ đi qua phía trước ở Kuching.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sarawak/body-1.webp
+    alt: Cung điện hoàng gia cũ màu trắng được gọi là Astana đứng bên kia sông Sarawak, đối diện bờ sông Kuching Waterfront.
+    kind: actual
+    origin: third-party
+    subject: Astana nhìn từ bờ sông Kuching Waterfront, Sarawak
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_(17772477902).jpg
+  - role: scene
+    src: /media/states/sarawak/body-2.webp
+    alt: Bãi biển cát lưng tựa vách núi rừng rậm hướng ra biển tại trụ sở công viên của Vườn quốc gia Bako gần Kuching ở Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Bãi biển dưới trụ sở công viên tại Vườn quốc gia Bako, Sarawak
+    credit: Sgroey / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beach_outside_park_HQ_at_Bako_NP.jpg
 ---
 
 Sarawak là Malaysia ở một cung bậc khác. Nó cho đến nay là bang lớn nhất trong

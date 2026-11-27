@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0212
 title: "胡先翁"
-seoTitle: 胡先翁
+seoTitle: "胡先翁: 马来西亚第三任首相 (1976–1981)"
 slug: "hussein-onn"
 category: "malaysia"
 subcategory: ["modern"]

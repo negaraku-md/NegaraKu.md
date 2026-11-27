@@ -26,7 +26,7 @@ verificationNeeded:
   - "จำนวนสาขาความเชี่ยวชาญทันตกรรมที่แน่นอนในโรงพยาบาล KKM และรายละเอียดขอบเขตของคลินิกทันตกรรมผู้เชี่ยวชาญไม่สามารถตรวจสอบได้โดยตรง เนื่องจากเว็บไซต์ทางการ hq.moh.gov.my/ohp ไม่สามารถเข้าถึงได้ (connection refused) ณ ขณะเขียน; คำอธิบายในบทความนี้จึงยังคงเป็นแบบทั่วไปและไม่ระบุจำนวนเฉพาะ"
   - "นโยบายยกเว้นค่าบริการสำหรับผู้สูงอายุ เด็ก และกลุ่มบางกลุ่มที่คลินิกทันตกรรมของรัฐถูกกล่าวถึงอย่างแพร่หลายในแหล่งข้อมูลทุติยภูมิ แต่ไม่ได้ยืนยันในที่นี้เพราะบทความนี้จงใจไม่ระบุค่าบริการ — โปรดปรึกษาเคาน์เตอร์ลงทะเบียนของคลินิกที่เกี่ยวข้องสำหรับข้อมูลปัจจุบัน"
 lang: "th"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'หน้าร้านริมถนนของคลินิกทันตกรรมมาเลเซีย Klinik Pergigian Yap พร้อมป้ายแสดงรายการบริการทันตกรรม'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: เก้าอี้ทำฟันว่างพร้อมโคมไฟตรวจเหนือศีรษะจอมอนิเตอร์สำหรับผู้ปฏิบัติงานและอ่างบ้วนปากในห้องทำฟันที่สะอาดเป็นระเบียบ
+    kind: representative
+    origin: third-party
+    subject: เก้าอี้ทำฟันในห้องตรวจของคลินิกพร้อมโคมไฟเหนือศีรษะจอมอนิเตอร์สำหรับผู้ป่วยและอ่างบ้วนปาก
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: ห้องทำฟันที่ไม่มีผู้ใช้งานแสดงเก้าอี้ทำฟันรถเข็นจ่ายหัวกรอเครื่องอ่านฟิล์มเอกซเรย์และช่องจ่ายออกซิเจนและแรงดูดที่ผนัง
+    kind: representative
+    origin: third-party
+    subject: ห้องทำฟันพร้อมเก้าอี้ทำฟันชุดจ่ายเครื่องมือเครื่องอ่านภาพเอกซเรย์และช่องจ่ายแก๊สที่ผนัง
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 หลายคนคิดว่า "คลินิกทันตกรรม" เป็นสิ่งเดียว — ที่สำหรับอุดฟันที่เป็นรูหรือถอนฟันคุด แต่ในมาเลเซีย การดูแลทันตสุขภาพจริง ๆ แล้วดำเนินไปบนสองรางที่แยกจากกัน รางหนึ่งดำเนินการโดยรัฐบาลผ่านกระทรวงสาธารณสุขมาเลเซีย (KKM) อีกรางหนึ่งโดยภาคเอกชน — และขอบเขตการรักษาระหว่างทั้งสองไม่เหมือนกัน

@@ -87,7 +87,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
-related: []
+related: ["faraid-and-islamic-inheritance", "law-reform-marriage-and-divorce-act-1976", "property-inheritance-faraid-distribution"]
 keywords: ["testamento", "legalización testamentaria", "probate", "herencia", "sucesión", "Distribution Act 1958", "Wills Act 1959", "cartas de administración", "no musulmán"]
 framework: explainer
 ---

@@ -36,7 +36,7 @@ socialTitle: "Kelantan की बोली, उत्तरी बोली, Sar
 lang: "hi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,32 @@ social:
 verificationNeeded:
   - "बोली समूहों की संख्या और सीमाएँ बोलीविज्ञानियों की योजना के अनुसार भिन्न होती हैं (Ismail Hussein 1973 के चार समूह; Asmah Haji Omar के सात समूह; अधिक विस्तृत सूचियाँ) और इन पर पूरी तरह सहमति नहीं है। मानक मलय भाषा की 'Johor-Riau पर आधारित' होने की स्थिति तथा मानक उच्चारण बनाम Johor-Riau उच्चारण की नीति के इतिहास की DBP के आधिकारिक प्रकाशनों से जाँच आवश्यक है। Negeri Sembilan बोली का Minangkabau भाषा से संबंध (प्रवासी वंश बनाम मानक मलय भाषा से भाषावैज्ञानिक निकटता) और Baba Melayu की क्रियोल भाषा के रूप में स्थिति अभी भी विद्वानों के बीच विवादित है।"
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: 'हरे लॉन पर स्थित एक पारंपरिक पहांग मलय लकड़ी का घर, जो खंभों पर खड़ा है, जिसमें ढलुआं टाइल वाली छत, नक्काशीदार गैबल पट्टी और एक ढकी हुई लकड़ी की सीढ़ी है।'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: Rumah Warisan Haji Su, कुआला तेरेंगानु की पूर्वी-तट शैली में बने लकड़ी के पारंपरिक मलय घरों की एक जोड़ी।
+    kind: actual
+    origin: third-party
+    subject: पारंपरिक तेरेंगानु मलय घर (Rumah Warisan Haji Su), कुआला तेरेंगानु
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: सेरेम्बान के राज्य संग्रहालय परिसर में प्रदर्शित, ऊपर की ओर उठी मिनांगकाबाउ-शैली की छतों वाले पारंपरिक नेगेरी सेम्बिलान घर।
+    kind: actual
+    origin: third-party
+    subject: राज्य संग्रहालय में मिनांगकाबाउ शैली के नेगेरी सेम्बिलान पारंपरिक घर, सेरेम्बान
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Kota Bharu का एक वक्ता, Alor Setar का एक और Kuching का एक — तीनों भले ही कहें कि वे मलय भाषा बोलते हैं, पर जब वे अपने-अपने गाँव में सहज रूप से बातचीत करते हैं, तो आवाज़ इतनी भिन्न हो सकती है कि एक-दूसरे को समझने के लिए थोड़ा समायोजन करना पड़े। इसी अंतर को बोली कहते हैं, या रोज़मर्रा की भाषा में, loghat।

@@ -33,7 +33,7 @@ faq:
     a: "«المزايدة» (المزايدة على الأغراض المباركة) جزء شائع من المأدبة التي تعقب مجمع أولامبانا: يعرض المنظمون القرابين ذات الطالع الحسن الموضوعة على الموائد — من فاكهة وأرز ومشروبات، وأعواد فحم تُسمى «الذهب الأسود»، وكلها «أغراض مباركة» — في مزاد علني قطعة قطعة، فيفوز بكل قطعة من يقدّم أعلى سعر. وتُستخدم العائدات غالبًا لتغطية تكاليف الفعالية والتبرع لأعمال خيرية كمدارس اللغة الصينية، ولذلك يحمل مهرجان الأشباح الجائعة في ماليزيا طابعًا قويًّا من التكافل المجتمعي والعمل الخيري."
 
 lang: "ar"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "الشهر السابع من التقويم القمري (من اليوم الأول حين «تُفتح بوابة الأشباح» إلى نهاية الشهر حين «تُغلق بوابة الأشباح»)، وتبلغ القرابين ذروتها في اليوم الخامس عشر (يوم Zhongyuan الرئيسي)."
   holiday: "ليس عطلة رسمية على مستوى ماليزيا كلها ولا في أي ولاية؛ وتُقام القرابين ومجامع Yulan وعروض المسرح الغنائي (getai / 歌台) غالبًا في المساء والليل بعد ساعات العمل."
   etiquette: "تُترك الصفوف الأمامية في عروض getai خالية عمدًا للضيوف غير المرئيين، فلا يجلس الجمهور عادةً في الصف الأول؛ ويتداول العامة أيضًا أقوالًا مثل عدم الدوس على القرابين الموضوعة على جوانب الطرق، وعدم التقاط ما يقع أرضًا من مال."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'مسرح احتفالي تحت خيمة يتوهّج بأقواس نيون حمراء وألواح نجمية ولوحة LED متحركة بأحرف صينية ليلاً خلال getai الشهر السابع'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: تمثال ورقي ضخم بثوب أزرق للإله دا شي يه يعلو مذبحاً من أعواد البخور المشتعلة والفواكه ومبخرة خلال مهرجان الأشباح الجائعة في ماليزيا
+    kind: actual
+    origin: third-party
+    subject: تمثال ضخم للإله الحارس دا شي يه (تاي سو يه) فوق مذبح للقرابين في معبد تاو بو كيونغ بألور ستار، قدح
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: صوانٍ من الأرز والأطباق والفواكه والمشروبات على العشب، غُرست في كل منها أعواد بخور حمراء مشتعلة، قُدِّمت كقرابين خلال مهرجان الأشباح الجائعة
+    kind: representative
+    origin: third-party
+    subject: قرابين طعام على جانب الطريق مع أعواد بخور معدّة للأرواح الهائمة خلال مهرجان الأشباح الجائعة في الشهر السابع
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 ما إن يحلّ الشهر السابع القمري حتى يتغير مشهد المساء في كثير من زوايا الشوارع في بينانغ وكلانغ وجوهور تغيرًا هادئًا: تُنصب موائد صغيرة على جانب الطريق، عليها فاكهة وأرز وشاي وأكوام من الورق الذهبي والفضي، والبخور والشموع تتراقص في عتمة الغسق. وفي ساحة فارغة بالحي تُرفع تمثال إله ورقي يبلغ ارتفاعه عدة أمتار بوجه مهيب، ويُنصب أمامه مسرح؛ وما إن يحل الظلام حتى تتوهج الأضواء ويعلو الغناء — ومع ذلك يظل صفٌّ كامل من الكراسي أمام المسرح فارغًا طوال الوقت.

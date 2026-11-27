@@ -78,6 +78,32 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "Jabatan Kecemasan", "triage zon merah kuning hijau", "ambulans percuma", "caj kecemasan hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'Sebuah ambulans Kementerian Kesihatan Malaysia di lebuh raya, ditanda ''Ambulans'' dan nombor kecemasan 999.'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: Sebuah balai Jabatan Bomba dan Penyelamat Malaysia (Bomba), salah satu perkhidmatan kecemasan yang boleh dihubungi melalui talian panggilan 999
+    kind: actual
+    origin: third-party
+    subject: Balai Jabatan Bomba dan Penyelamat (Bomba, JBPM) di Pagoh, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: Sebuah ambulans St John Ambulance Malaysia di sebuah jalan di Melaka, salah satu perkhidmatan perubatan kecemasan sukarela yang beroperasi bersama-sama tindak balas kerajaan
+    kind: actual
+    origin: third-party
+    subject: Ambulans kecemasan St John Ambulance Malaysia yang diletakkan di Melaka
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 Anda tekan 999. Suara di hujung talian tanya nama, lokasi, dan apa yang berlaku — dan dalam masa yang disasarkan, sepasukan ambulans sepatutnya sudah dalam perjalanan. Tetapi ramai yang tidak tahu apa berlaku di sebalik panggilan itu: siapa sebenarnya menjawab, adakah ia percuma, dan kenapa pesakit lain yang tiba lebih lewat di hospital kadangkala dirawat dahulu daripada anda.

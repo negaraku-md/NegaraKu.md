@@ -27,7 +27,7 @@ faq:
   - q: "말레이시아의 수입 쌀은 어디서 옵니까?"
     a: "BERNAS에 따르면, 수입의 대부분은 베트남, 태국, 파키스탄, 인도, 미얀마에서 조달됩니다."
 lang: "ko"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -98,9 +98,36 @@ sources:
     publisher: "Padiberas Nasional Berhad (BERNAS)"
 entity: "Padi and rice industry in Malaysia"
 relations: []
-related: []
+related: ["food-security-self-sufficiency-policy", "agricultural-subsidies-farm-input-support", "ministry-of-agriculture-food-security-and-agencies"]
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: '좁은 관개 수로 양쪽으로 뻗은 선명한 초록빛 논이 흐릿한 지평선까지 곧게 이어진 모습'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: 장대에 세운 천 허수아비가 있는 익어가는 논, 뒤로 맑고 파란 하늘 아래 숲 덮인 구릉과 마을 집들이 있다
+    kind: actual
+    origin: third-party
+    subject: 케다주 랑카위에서 숲 덮인 석회암 구릉과 캄풍을 배경으로, 소박한 허수아비가 선 익어가는 황록빛 논
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: 흐린 하늘 아래 넓고 밝은 초록빛 논 사이 풀이 난 길 위에 있는 소규모 사람들 무리
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 스킨찬에서 선명한 초록 논 사이 논둑을 따라 걷는 방문객들
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 쌀은 말레이시아가 자유 시장에 맡기기를 거부하는 유일한 식품입니다. 국가는 어디서 재배할지를 집중시키고, 재배하는 농가를 완충하며, 부족분을 수입할 단일 회사를 허가하고, 공급 충격에 대비해 비상 비축을 보유합니다. 그러나 수십 년간의 이 체제 후에도, 이 나라는 여전히 먹는 쌀의 약 절반만 재배합니다.

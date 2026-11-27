@@ -29,7 +29,7 @@ faq:
     a: "HSN هو اليوم المحوري للاحتفال. ومنذ 2019، وسّعت KBS الاحتفال طوال شهر أكتوبر بوصفه الشهر الوطني للرياضة (BSN)."
 
 lang: "ar"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["اليوم الوطني للرياضة", "hari sukan negara", "HSN", "الشهر الوطني للرياضة", "bulan sukan negara", "وزارة الشباب والرياضة", "kementerian belia dan sukan", "أمة رياضية", "negara bersukan", "نمط حياة نشط"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'حشد من العدّائين يتدفق مارًّا بمبنى سلطان عبد الصمد المضاء بالأضواء الكاشفة خلال سباق طريق ليلي في كوالالمبور.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: حشد كبير من راكبي الدراجات من كل الأعمار يملؤون شارعًا مغلقًا في كوالالمبور عند الفجر خلال فعالية Car Free Day، تحت لافتة احتفالية.
+    kind: representative
+    origin: third-party
+    subject: راكبو دراجات في فعالية جماهيرية صباح Car Free Day في كوالالمبور
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: رياضيون شباب ومسؤولون يتجمعون على المضمار الأحمر لاستاد ماليزي خلال بطولة ألعاب القوى لمدارس إحدى المقاطعات، وخلفهم كشافات الإضاءة والمدرّجات.
+    kind: representative
+    origin: third-party
+    subject: رياضيون على المضمار في بطولة ألعاب القوى لمدارس إحدى المقاطعات الماليزية
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 في كل سبت من الأسبوع الثاني من أكتوبر، يُفترَض أن تمتلئ الملاعب والحدائق والصالات في جميع أنحاء ماليزيا — تلك هي الغاية من اليوم الوطني للرياضة.

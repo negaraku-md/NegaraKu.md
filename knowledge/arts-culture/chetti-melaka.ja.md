@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: '青空の下、ムラカのカンポン・チェティへの路地を示す、双子の白い象の像を頂くピンクのインド風入口アーチ。右手にクリーム色のドームの小さなヒンドゥー寺院、静かな通り沿いにカンポン・チェティの看板と村の家々'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: マラッカのチェティ博物館として使われている、伝統的な2階建ての濃い色の木造マレー式家屋。玄関ポーチの上には「Muzium Chetti The Chetti Museum」と書かれた青い看板があり、低い柵の奥に鉢植えが並び、脇にはマレーシアとマラッカの旗が掲げられている
+    kind: actual
+    origin: third-party
+    subject: チェティ・ムラカのコミュニティを記録する、マラッカのカンポン・チェティにあるチェティ博物館（ムジウム・チェティ）
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: マラッカのハーモニー・ストリートにあるスリ・ポヤタ・ヴィナヤガ・モールティ寺院の黄色の正面。タイル張りのポーチ屋根の上に神像のくぼみを備えた控えめな階層状の塔がそびえ、ターコイズの扉があり、深い青空を背に低い朝日に照らされている
+    kind: actual
+    origin: third-party
+    subject: 1781年にチェティのコミュニティによって創建された歴史あるヒンドゥー寺院、マラッカのスリ・ポヤタ・ヴィナヤガ・モールティ寺院
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 マラッカのJalan Gajah Berangにある古い村に、シヴァ神に祈りを捧げ、マレー人のような服を着て、ココナッツミルクの香り立つカレーを作り、タミル語の単語が随所に混じるマレー語を話す家族たちが暮らしている。彼らはインド人でも、マレー人でも、華人でもない——彼らはChetti Melakaであり、その数は年々少なくなっている。

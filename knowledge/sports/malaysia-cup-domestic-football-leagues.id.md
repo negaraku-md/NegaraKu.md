@@ -31,7 +31,7 @@ faq:
     a: "MFL mengalihkan kalender agar sejalan dengan format AFC. Musim baru dimulai Mei 2024 dan berakhir April 2025, dengan mempertimbangkan Piala Asia AFC, kualifikasi Piala Dunia 2026, dan bulan Ramadan."
 
 lang: "id"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'Suporter sepak bola Perak berpakaian kuning memadati tribun stadion selama pertandingan Piala Malaysia 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: Pemain berebut bola selama semifinal Piala Malaysia 2012 antara Kelantan dan Selangor.
+    kind: actual
+    origin: third-party
+    subject: Semifinal Piala Malaysia 2012 antara Kelantan dan Selangor
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: Pemandangan tingkat tribune dan lapangan di dalam Stadion Sultan Ibrahim di Iskandar Puteri, Johor.
+    kind: actual
+    origin: third-party
+    subject: Bagian dalam Stadion Sultan Ibrahim, markas sebuah klub liga Malaysia terkemuka
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 Selama hampir satu abad, badan tunggal — Persatuan Sepak Bola Malaysia (FAM) — menyelenggarakan setiap pertandingan liga negara. Kemudian, dalam satu langkah yang mengubah bentuk olahraga tersebut, kewenangan untuk menjalankan liga diserahkan kepada sebuah perusahaan komersial. Inilah dasar dari cara sepak bola domestik Malaysia bekerja hari ini.

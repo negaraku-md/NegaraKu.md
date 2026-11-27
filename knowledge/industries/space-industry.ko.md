@@ -31,7 +31,7 @@ faq:
   - q: "말레이시아의 우주 산업은 항공우주(aerospace) 산업과 구별되는가?"
     a: "그렇다. 항공우주 산업은 항공, 정비·수리·분해정비(MRO), 항공기용 기체구조를 다룬다. 우주 산업은 위성, 발사, 우주 규제, 그리고 위성통신과 원격탐사 같은 하류 서비스를 다룬다."
 lang: ko
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: '접시형 안테나와 야기 안테나, 레이돔을 갖춘 위성 지상국으로, 우주선을 추적하고 교신하는 데 사용된다.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: 연한 초록색과 흰색 클린룸 작업복과 모자를 착용한 기술자들이 밝은 클린룸 안에서 노란색 인양 장비로 매달려 바퀴 달린 받침대에 놓인, 높고 흰 원뿔형 로켓 페어링 주위에서 작업하고 있다
+    kind: representative
+    origin: third-party
+    subject: 위성 제작과 발사 준비를 나타내는, 발사체 상단 복합체에 캡슐화된 위성을 준비하는 클린룸 작업복 차림의 기술자들
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: 잔잔한 수면 위로 펼쳐진 어두운 밤하늘을 가로지르는 두 줄기의 밝고 휘어진 빛의 궤적으로, 하나는 왼쪽의 환히 밝혀진 발사대에서 가파르게 솟아오르고 다른 하나는 더 희미하게 오른쪽으로 내려와 착륙한다
+    kind: representative
+    origin: third-party
+    subject: 발사 서비스를 나타내는, 밝은 상승 궤적과 부스터가 착륙을 위해 되돌아오는 두 번째 궤적을 담은 장노출 야간 로켓 발사
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 말레이시아는 자체 로켓을 발사하지 않지만, 우주비행사를 비행시켰고, 초소형위성을 제작·운영했으며, 대부분의 이웃 나라보다 먼저 민간 우주 활동에 면허를 부여하는 법을 통과시켰다. 그 우주 부문은 작지만 조용히 전략적이다 - 광대역 정책, 국방, 재난 감시, 국가 위신에 엮여 있다. 이 가이드는 말레이시아 우주 경제를 구성하는 기관, 법, 위성, 포부를 짚는다.

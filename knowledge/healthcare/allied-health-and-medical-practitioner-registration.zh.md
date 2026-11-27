@@ -29,7 +29,7 @@ faq:
     a: "护士由马来西亚护士局根据《1950 年护士法令》注册；药剂师由马来西亚药剂局根据《1951 年药剂师注册法令》（第 371 号法令）注册；而物理治疗等联合医疗专业则由 MAHPC 根据《2016 年联合医疗专业法令》（第 774 号法令）监管。"
 
 lang: "zh"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,9 +61,35 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: '吉隆坡一座现代玻璃幕墙专科医院，前方有一列轻快铁列车经过。'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: 一座马来西亚政府医院的多层塔楼，正是注册医疗与专职医疗人员工作的那类场所
+    kind: actual
+    origin: third-party
+    subject: 伊丽莎白女皇医院，位于沙巴州亚庇的一所政府三级医院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: 两名卫生科学人员在设有生物安全柜与设备的实验室内，代表需要注册的专职医疗与化验专业
+    kind: representative
+    origin: third-party
+    subject: 马来西亚一所医学研究实验室内，化验人员在生物安全柜旁交谈
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 一个人可以穿上白大褂、在诊所墙上挂满证书，并自称"医生"——但真正能证明其资格的只有一件事：他的名字确实存在于官方注册名册中。在马来西亚，每一位医生、护士、药剂师和物理治疗师都必须向其专业的监管机构注册。好消息是，您可以自己免费查询。

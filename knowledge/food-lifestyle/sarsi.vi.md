@@ -44,7 +44,7 @@ sources:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,24 @@ drinkFacts:
   halal: "Là một loại nước ngọt thương mại từ một nhà sản xuất lớn, Sarsi có chứng nhận halal; cách kiểm tra chắc chắn nhất là dấu halal in trên chai hoặc lon. Hãy tìm nó trên bao bì."
   served: "Phục vụ ướp lạnh từ chai hoặc lon. Một biến thể địa phương được yêu thích là 'Sarsi susu' — Sarsi pha thêm sữa đặc không đường, sữa đặc có đường hoặc sữa tươi để thành một ly float béo ngậy. Ngọt và có ga; một món nước ngọt chứ không phải một thức pha kopitiam."
   where: "Tìm thấy trong các cửa hàng tạp hóa, siêu thị, kopitiam và tại các buổi họp mặt gia đình khắp cả nước — một món chủ lực đầy hoài niệm của kệ mát."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'Một chiếc cốc thủy tinh cao có vân lõm đựng nước ngọt sarsaparilla (sarsi) màu sẫm có ga với lớp bọt, dưới ánh nắng'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: Một ly đầy nước giải khát sarsaparilla (sarsae) có ga màu nâu đỏ sẫm
+    kind: actual
+    origin: third-party
+    subject: ly nước giải khát sarsaparilla Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 Không phải thức uống nào trên bàn ăn Malaysia cũng được pha, kéo hay ép. Có những món đến

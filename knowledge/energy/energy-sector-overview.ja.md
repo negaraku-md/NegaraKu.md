@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: '煙突と海へと延びる桟橋を備えた沿岸の石炭火力発電所を上空から捉えた眺め。'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: タービン建屋、金属製の排気煙突、変圧器と鉄構の並ぶフェンス付き開閉所を備えたガス火力発電所。切り開かれた土地に立ち、後方には森に覆われた丘と明るい空が広がる
+    kind: actual
+    origin: third-party
+    subject: サバ州コタキナバル近郊のルガディン発電所。サバの送電網に電力を供給するガス火力発電所
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: 境界フェンスの奥に低い工業建屋、金属ダクト、高い煙突のそびえる沿岸の発電所。近くにはヤシの木と空き地があり、かすんだ空が広がる
+    kind: actual
+    origin: third-party
+    subject: マラッカ沿岸のタンジュン・クリン発電所。半島マレーシアの発電設備群の一つ
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 クアラルンプールで照明のスイッチを入れる、イポーでRON95を給油する、あるいはジョホールの自宅の屋根に太陽光パネルを取り付ける——そのどの行動の背後にも、消費者がほとんど目にすることのない機関、法律、政策のネットワークが存在する。マレーシアのエネルギー部門は単一のものではない。それは電力、石油とガス、燃料、そして再生可能エネルギーという、互いに重なり合う四つの世界である。本ガイドは、誰が何を管轄しているのか、そしてそれらすべてがどのように連結しているのかを整理する。

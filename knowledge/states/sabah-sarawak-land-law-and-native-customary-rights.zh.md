@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: '砂拉越乡间一座绿树成荫的河岸边，一座架在高脚桩上的伊班长屋，木造狭长，顶覆波纹金属。'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在吉隆坡买一套房子，你的地契由一部联邦成文法管辖。在古晋或亚庇做同样的事，你却踏入了一个完全不同的法律世界——它有自己的法令、自己的土地分类，以及一种并非由任何纸面文件所创设的保有形式：原住民习俗权。

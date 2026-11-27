@@ -32,7 +32,7 @@ faq:
     a: "El Reglamento de la UE sobre Deforestación define los productos como «libres de deforestación» solo si se cultivan en tierras no deforestadas después del 31 de diciembre de 2020 (Reglamento (UE) 2023/1115, artículo 2). Exige geolocalización a nivel de parcela —cartografía de polígonos para las parcelas de más de 4 hectáreas, admitiéndose un único punto GPS para las parcelas de 4 hectáreas o menos—, algo técnicamente difícil de producir por sí mismos para agricultores pequeños, a menudo de edad avanzada y remotos."
 
 lang: "es"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "pequeños productores de palma aceitera", "MSPO certification", "certificación MSPO", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "aceite de palma sostenible Malasia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'Una joven plantación de palma aceitera que cubre un terreno ondulado en Mersing, Malasia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: Un cosechador de una finca de palma aceitera carga al hombro una larga pértiga con hoz entre palmas maduras, con un racimo de fruta fresca cortado en el suelo, en el distrito de Tenom, Sabah
+    kind: actual
+    origin: third-party
+    subject: Un trabajador de plantación con una pértiga de cosecha entre palmas aceiteras maduras en Tenom, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: Primer plano de racimos de fruta fresca rojizos madurando en la corona de una palma aceitera en Kimanis Estate, Sabah
+    kind: actual
+    origin: third-party
+    subject: Racimos de fruta fresca madurando en una palma aceitera en Kimanis Estate, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 Un agricultor de Bintulu que puede recorrer de memoria cada linde de su parcela de palma aceitera tiene ahora que convertir esos «mapas mentales» en polígonos GPS antes de que un comprador de Europa toque su fruto. Esa brecha — entre conocer tu tierra y documentarla a satisfacción de un auditor — es la historia silenciosa que hay detrás de la economía del aceite de palma de los pequeños productores de Malasia.

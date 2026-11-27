@@ -84,6 +84,14 @@ drinkFacts:
   halal: "kopi cham قهوة وشاي وماء وحليب، بلا كحول، فالمشروب نفسه حلال. ويتعلّق ضمان الحلال بالمحل، فعلى مَن يحتاج اعتمادًا أن يتحقّق من المقهى المعنيّ."
   served: "يُقدَّم ساخنًا بالافتراض؛ اطلب 'ais kopi cham' أو 'cham peng' للمثلَّج. يأتي حلوًا بالحليب المكثَّف؛ أضِف 'kosong' لبلا سكر أو 'kurang manis' لحلاوة أقل. يُطلَب عبر الشيفرة المعيارية نفسها (O، C، kosong، gao، peng) التي لـkopi وteh."
   where: "يوجد في مقاهي الكوبيتيام وأكشاك المامك في عموم البلاد، يُسكَب من المنضدة نفسها التي لـkopi وteh tarik — مشروب يوميّ لأيّ وقت لمن لا يقدر على الاختيار بين القهوة والشاي."
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "مزيج قهوة وشاي مُرغي (kopi cham) في فنجان وصحن كوبيتيام بنقوش زهرية"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 لمن يجلس في مقهى ماليزي ولا يقدر على الاختيار بين القهوة والشاي، للمنضدة جواب أنيق: خذهما معًا، في الكوب نفسه. **Kopi cham** — قهوة وشاي ممزوجان معًا، محلّيان بالحليب المكثَّف — أحد لمسات العبقرية الصغيرة في الكوبيتيام، ودرس أنيق في لغة طلب المقهى.

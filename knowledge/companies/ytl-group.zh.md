@@ -30,7 +30,7 @@ faq:
     a: "YTL Power正在柔佛古来建设一座大型数据中心园区，并已建成首座采用Nvidia芯片的AI设施，于2025年10月底宣布投入运营。"
 
 lang: "zh"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,33 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: '武吉免登Starhill Gallery奢华商场独特的深色与古铜色几何切面立面，身后耸立着JW万豪酒店塔楼'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: 一条安静的棕榈树夹道大道穿过 Sentul Park，路边高大的横幅塔架上写着 SENTUL PARK 和 SENTUL WORKS
+    kind: representative
+    origin: third-party
+    subject: 穿过 Sentul Park 的林荫大道，这是由 YTL Land（YTL Corporation 的地产部门）开发的城市更新项目，吉隆坡——可见 SENTUL PARK / SENTUL WORKS 横幅；画面中未显示 YTL 母公司名称
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: 街道视角拍摄的 Lot 10 购物中心入口，绿色立面，上方有 Isetan The Japan Store 标识，地面层是一家 H&M 店
+    kind: representative
+    origin: third-party
+    subject: 位于武吉免登路的 Lot 10 购物中心，一座 YTL Corporation 拥有的零售地标（内设 Isetan The Japan Store），吉隆坡——已确认为 YTL 物业，画面中未显示 YTL 母公司名称
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL是马来西亚规模最大的多元化企业集团之一，与其将它理解为一家单一公司，不如将它视为一个围绕基础设施构建、由上市与非上市业务组成的大家族。

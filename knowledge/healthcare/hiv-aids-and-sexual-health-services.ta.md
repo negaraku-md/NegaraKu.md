@@ -34,7 +34,7 @@ faq:
     a: "HIV-க்கு குறிப்பிட்ட சட்டம் எதுவும் இல்லை. ஆபத்தான நோய்களைப் பரப்புவதற்கு Kanun Keseksaan (Penal Code) இன் பொதுவான பிரிவுகளான Seksyen 269 மற்றும் 270 பொருந்தக்கூடும், ஆனால் இதுவரை அறியப்பட்ட HIV வழக்குத் தொடர்பான தண்டனை நடவடிக்கை எதுவும் இல்லை."
 
 lang: "ta"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'வெறும் வெள்ளைப் பின்னணியில், HIV/AIDS விழிப்புணர்வின் சர்வதேச சின்னமான ஒரு சிவப்பு விழிப்புணர்வு ரிப்பன்.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: சுத்தமான காகிதம் விரிக்கப்பட்ட மேசையில் அடுக்கப்பட்ட HIV விரைவு சோதனை கேசட், பஃபர் பாட்டில் மற்றும் பொருட்கள், கையுறை அணிந்த கைகளால் கையாளப்படுகிறது, முகங்கள் எதுவும் காட்டப்படவில்லை
+    kind: representative
+    origin: third-party
+    subject: கையுறை அணிந்த கைகளுடன், சோதனைக்கு முன் மேசையில் அடுக்கப்பட்ட HIV விரைவு சோதனை கிட்
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: ஒரு தெரு மூலையில் உள்ள தாழ்வான பொது பாலியல் சுகாதார கிளினிக் கட்டிடம், அதன் முகப்பில் விழிப்புணர்வு பதாகைகளுடன், யாரும் இல்லை
+    kind: representative
+    origin: third-party
+    subject: சுகாதார விழிப்புணர்வு பதாகைகளுடன் கூடிய ஒரு பொது பாலியல் சுகாதார கிளினிக்கின் வெளிப்புறம்
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 மலேசியாவில் ஆபத்தான ஒரு இரவுக்குப் பிறகு கவலைப்படும் ஒருவர், ஒரு அரசாங்க Klinik Kesihatan-க்குள் நடந்து சென்று, இலவசமாகவும் இரகசியமாகவும் HIV பரிசோதனை செய்துகொண்டு — தேவைப்பட்டால் — சில மணி நேரங்களுக்குள் தடுப்பு மருந்துடன் வீடு திரும்பலாம். இருப்பினும் அதே பாதை, HIV-ஐ நாட்டின் மிக உணர்திறன் வாய்ந்த சுகாதார தலைப்புகளில் ஒன்றாக மாற்றும் இரகசியத்தன்மை, சட்டம், மதம் மற்றும் களங்கம் தொடர்பான கேள்விகளுடனும் குறுக்கிடுகிறது.

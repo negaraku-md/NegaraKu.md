@@ -30,7 +30,7 @@ faq:
     a: "Nhà máy Thủy điện Bakun với công suất có sẵn 2,520MW là cơ sở phát điện lớn nhất ở Sarawak."
 
 lang: "vi"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: 'Một đập thủy điện bê tông có đập tràn nằm giữa vùng cao nguyên rừng ở Murum, Sarawak.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: Một bức tường đập thủy điện mặt bê tông đồ sộ đổ xuống một hẻm núi sông, với một đập tràn bậc thang và nhà máy điện ở chân đập, bao quanh là những sườn dốc đã phát quang và những ngọn đồi phủ rừng mưa nhiệt đới
+    kind: actual
+    origin: third-party
+    subject: Đập thủy điện Bakun ở Sarawak, con đập đá đổ mặt bê tông khổng lồ ở trung tâm hệ thống điện của bang
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: Một con đập bê tông cao bắc ngang một thung lũng sông với các cửa xả tràn và một tuyến đường trên đỉnh đập, nước hồ chứa xanh thẫm ở một bên và những ngọn núi rừng nhô lên xung quanh
+    kind: actual
+    origin: third-party
+    subject: Đập thủy điện Murum ở vùng nội địa Sarawak, một phần trong chuỗi đập thủy điện bậc thang của bang
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 Trong khi Bán đảo Malaysia phụ thuộc vào Tenaga Nasional Berhad, Sarawak thắp sáng đèn của riêng mình qua một tiện ích có lưới điện hoàn toàn không kết nối với lưới quốc gia — và gần như toàn bộ được phát điện bởi dòng nước đổ từ các đập khổng lồ ở vùng sâu.

@@ -30,7 +30,7 @@ faq:
     a: "Among the types recorded by JKKN are Ngajat Lesong (performed by men while biting a wooden mortar), Ngajat Indu (performed by women with movements that mimic weaving pua kumbu), Ngajat Pua Kumbu (using the pua kumbu cloth) and Ngajat Ngiling Tikai, which marks the end of the Gawai Dayak celebration."
 
 lang: "en"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,33 @@ relations:
 related: ["gawai-dayak", "sarawak"]
 keywords: ["Ngajat", "tarian Ngajat", "Iban", "Sarawak", "Burung Kenyalang", "enggang", "Hari Gawai", "rumah panjang", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
 framework: history-culture
+hero: '/media/arts-culture/ngajat/hero.webp'
+heroAlt: 'A male Iban dancer in a feathered headdress, animal-fur vest and yellow hornbill-motif loincloth lunges mid-pose, brandishing a long sword in one hand and a carved wooden shield in the other, against a painted Sarawak longhouse backdrop under warm stage light.'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: A young Iban woman in a towering silver sugu tinggi headdress and a coin-plated black corset holds both hands in a delicate mudra near her chin, framed by an orange-pompom beaded collar against a dark blue stage.
+    kind: actual
+    origin: third-party
+    subject: Female Iban dancer in full ceremonial regalia at Sarawak Cultural Village, Borneo, Malaysia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: A row of female Iban dancers in silver crown headdresses, red beaded tops and coin-tasselled skirts move in unison across a brightly lit festival stage, each holding a small red cloth, with silhouetted onlookers in the foreground.
+    kind: actual
+    origin: third-party
+    subject: Troupe of female Iban dancers performing the sayau ngajat on a festival stage, Malaysia
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 In the gallery of a longhouse in Sarawak, a man with hornbill feathers on his head leaps, spins and stamps the floor — a sword in one hand, a shield in the other. This is **Ngajat**, the dance that once welcomed warriors home from the battlefield.

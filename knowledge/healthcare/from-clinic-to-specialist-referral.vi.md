@@ -35,7 +35,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'Bên ngoài Kompleks Pakar dan Rawatan Harian (Khu Chuyên khoa và Chăm sóc Ban ngày) tại Bệnh viện Kuala Lumpur, với biểu tượng lưỡi liềm đỏ.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: Một quầy đăng ký và tư vấn bên trong một bệnh viện công Malaysia, biển chỉ dẫn hướng bệnh nhân đến đúng hàng chờ, không có bệnh nhân nào trong tầm nhìn
+    kind: actual
+    origin: third-party
+    subject: Quầy đăng ký và tư vấn bên trong một bệnh viện công Malaysia (Hospital Tengku Anis, Pasir Puteh, Kelantan)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: Tòa nhà chính nhiều tầng của một bệnh viện chuyên khoa phi lợi nhuận lớn ở Penang, đại diện cho cấp bệnh viện trong hệ thống chuyển tuyến
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà chính của Lam Wah Ee Hospital, một bệnh viện chuyên khoa phi lợi nhuận ở Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 Một lần chuyển tuyến là thời khắc bản lề trong quá trình chăm sóc của bất kỳ ai: bác sĩ của bạn đã quyết định — hoặc gợi ý — rằng vấn đề của bạn cần đến một bác sĩ chuyên khoa, và bỗng nhiên bạn phải điều hướng qua một phần khác của hệ thống y tế. Hướng dẫn này bắt đầu đúng ngay chỗ đó. Nó **không** cho bạn biết liệu bạn có cần bác sĩ chuyên khoa hay không; phán đoán ấy thuộc về người thầy thuốc của bạn. Điều nó làm là giải thích **cách chuyển tuyến thực sự vận hành tại Malaysia, và cần chuẩn bị gì**, để việc bàn giao từ phòng khám đến bác sĩ chuyên khoa diễn ra suôn sẻ nhất có thể.

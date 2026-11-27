@@ -80,6 +80,32 @@ revisions:
     contributor: null
     reviewer: ashton-tan
 framework: explainer
+hero: '/media/education/malaysian-school-system/hero.webp'
+heroAlt: 'An aerial view of Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara, showing the school''s quadrangle of classroom blocks, a sports field and a residential neighbourhood.'
+heroCredit: 'Benlol98 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: Facade of a Malaysian secondary school building with a flagpole and forecourt
+    kind: representative
+    origin: third-party
+    subject: A Malaysian national secondary school building (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: A group of Malaysian secondary school students wearing their distinctive school uniforms outdoors
+    kind: representative
+    origin: third-party
+    subject: Malaysian secondary-school students in their school uniforms (Sandakan, Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 For a child growing up in Malaysia, the question "which school?" carries more meaning than in many countries. It is partly about distance and reputation, as everywhere — but it is also a choice between a national school that teaches mainly in Malay and a national-type school that teaches in Chinese or Tamil. Both are part of the same public system, follow the same national curriculum, and lead to the same national examinations. Understanding how that system fits together is the first step to navigating it.

@@ -27,7 +27,7 @@ faq:
   - q: "Di mana MSN berkantor pusat?"
     a: "Di Kompleks Sukan Negara, Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Ia juga mengelola kompleks pelatihan di beberapa negeri lain."
 lang: "id"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,9 +65,35 @@ sources:
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []
-related: []
+related: ["malaysian-sport-governance", "national-sports-policy-podium-programme", "national-sports-venues"]
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'Gedung kantor pusat Majlis Sukan Negara Malaysia yang berwarna-warni berdiri di Bukit Jalil dengan namanya pada dinding.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: Gedung Institut Olahraga Nasional di Bukit Jalil, fasad kacanya membawa spanduk 'Where Legends Are Made', dengan halaman depan yang lengang.
+    kind: representative
+    origin: third-party
+    subject: Gedung Institut Olahraga Nasional (ISN) di Bukit Jalil, bagian dari perangkat olahraga nasional Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: Pemandangan udara kompleks KL Sports City di Bukit Jalil, memperlihatkan stadion nasional berbentuk oval, sebuah arena dalam ruangan dan pusat akuatik di antara gedung-gedung sekitarnya dalam kabut tipis.
+    kind: representative
+    origin: third-party
+    subject: Pemandangan udara kompleks olahraga nasional KL Sports City di Bukit Jalil
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 Ketika seorang pelari cepat Malaysia bersiap di Olimpiade atau seorang pemain sepak bola muda dipilih ke dalam skuad nasional, ada satu badan pemerintah yang berdiri di balik pelatihan, kepelatihan dan fasilitas yang membawa mereka ke tingkat itu: **Majlis Sukan Negara Malaysia**, yang dikenal dalam bahasa Inggris sebagai **National Sports Council (MSN)**. Ia merupakan agensi berkanun yang menerjemahkan kebijakan olahraga nasional menjadi atlet nyata.

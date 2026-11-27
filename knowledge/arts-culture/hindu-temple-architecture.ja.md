@@ -32,7 +32,7 @@ faq:
   - q: "マレーシアのヒンドゥー寺院はすべてムルガン寺院かマリアマン寺院ですか？"
     a: "多くの寺院はシヴァ、ムルガン（シヴァ派）、あるいはアンマン/マリアマン（シャクティ崇拝）を祀っていますが、それだけではありません。ヴィシュヌを祀るヴィシュヌ派の寺院、マラヤーリや北インドの伝統の寺院、そしてシク教のグルドワラもマレーシアにはあります。礼拝の伝統に応じて、建築の細部にもいくらかの違いがあります。"
 lang: "ja"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: '頂点に向かってそびえる南インド式のピラミッド型の寺院ゴプラム。各層に赤、緑、青、金の色鮮やかに彫刻されたヒンドゥーの神々、馬、人物像がぎっしりと並び、雲のある青空を背に急角度で見上げて撮影'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: 入口の上に彫刻の施された塔を備えた南インドのヒンドゥー寺院の色鮮やかな正面。金箔の天蓋の下に大きく彩色されたガネーシャと神の像が左右に配され、澄んだ青空を背に祝祭用の三角形の旗の飾りが張り渡されている
+    kind: actual
+    origin: third-party
+    subject: 彫刻の施されたゴープラムと、ガネーシャとムルガンの大きな像が入口を挟むペナン、ジョージタウンのスリ・マハマリアマン寺院の正面
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: 広大な石灰岩の洞窟の中に立つ、彫刻の施された神々を頂いた華やかで色鮮やかなヒンドゥー寺院の祠。切り立った岩壁には垂れ下がる緑の植物がかかり、上方からの日光に照らされている
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール近郊の石灰岩のバトゥ洞窟寺院内にある、緑に覆われたそびえ立つ洞窟の壁を背にした華やかで色鮮やかなヒンドゥーの祠の塔
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 マレーシアのどの町でも、タミル系の共同体が根を下ろした一角に近づくと、天に向かってそびえる彫像だらけの塔が、遠くからでも目に飛び込んできます。色とりどりの神像が幾重にも連なるその門塔は、偶然の産物ではありません——千年の歴史をもつ建築の伝統の継承であり、南インドのタミル系の人々がマレーシアへともに携えてきた文化的遺産の目印なのです。

@@ -28,7 +28,7 @@ verificationNeeded:
   - "The exact citation and year of the National Land Code amendment that closed the earlier industrial-land exemption from State Authority consent could not be confirmed against the amending Act's own text; it is described here based on convergent secondary legal commentary rather than a directly read primary clause."
 
 lang: "es"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,32 @@ stayFacts:
   cost: 'Dos puertas superpuestas más impuestos: un precio mínimo que cada estado fija y revisa por su cuenta (dividido por zona, por distrito, o según sea propiedad landed frente a strata), mientras que los Territorios Federales usan un mínimo aparte de la directriz de la EPU; por encima se sitúa un impuesto de timbre fijo sobre las transmisiones residenciales para no ciudadanos, y el RPGT a una tasa más alta y más plana en una venta posterior. Estas cifras cambian y varían según el estado, así que confirma los números vigentes con la oficina de tierras estatal correspondiente (Pejabat Tanah) o con la Directriz sobre la Adquisición de Propiedades de la Unidad de Planificación Económica (EPU).'
   watch: 'No existe un único mínimo nacional de RM1 millón — esa cifra es específica de los Territorios Federales bajo una directriz federal de 2014, y superar el precio mínimo de un estado no es lo mismo que obtener el consentimiento aparte y discrecional de la Autoridad Estatal exigido bajo la sección 433B antes de que el título pueda inscribirse a nombre de un extranjero.'
   next: 'Solicita por escrito (a través de un abogado de conveyancing) el consentimiento de la Autoridad Estatal una vez superado el precio mínimo y cuando la propiedad no esté excluida, incorporando el incierto tiempo de tramitación al calendario de la compra. Ten en cuenta que las compras del visado de estancia prolongada MM2H siguen igualmente este mismo proceso, y consulta El impuesto de evaluación y el quit rent para las obligaciones continuas una vez que se transfiere el título.'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'Modernas torres residenciales de gran altura revestidas de cristal (Ascott, 348 Sentral) en Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Hileras de condominios de gran altura y alto nivel abarrotan el perfil urbano de Mont Kiara en Kuala Lumpur, un enclave predilecto de expatriados donde los compradores extranjeros deben superar el umbral de precio fijado por el estado.
+    kind: actual
+    origin: third-party
+    subject: Perfil urbano de condominios de gran altura en Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Las torres de lujo frente al mar de Forest City se elevan sobre terreno ganado al mar en Johor, un megaproyecto comercializado intensamente entre compradores extranjeros cerca de la frontera con Singapur.
+    kind: actual
+    origin: third-party
+    subject: Promoción de lujo frente al mar Forest City en construcción, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 Un comprador de Hong Kong acuerda pagar RM1.8 millones por una casa pareada en Petaling Jaya. La financiación está arreglada, el vendedor está dispuesto, el precio supera todos los umbrales que alguien citó en internet. Aun así, la operación no puede cerrarse hasta que una oficina del gobierno estatal en Shah Alam decida — a su propia discreción — si permite que un extranjero ostente ese título en absoluto.

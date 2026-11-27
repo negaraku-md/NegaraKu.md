@@ -31,7 +31,7 @@ faq:
   - q: Di manakah koko masih ditanam di Malaysia?
     a: "Kebanyakannya di Sabah, terutamanya kawasan pedalaman dan wilayah Tawau, yang secara sejarahnya memacu ledakan 1980-an dan masih menyumbang majoriti kawasan tanaman dan pengeluaran yang tinggal."
 lang: ms
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'Dua buah koko hijau besar tumbuh terus dari batang pokok kakao di ladang yang teduh.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: Biji koko yang telah ditapai dibiarkan di dalam dulang kayu untuk dikeringkan di bawah cahaya matahari terbuka.
+    kind: representative
+    origin: third-party
+    subject: Biji koko dikeringkan di bawah matahari
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: Timbunan biji koko gelap yang telah dipanggang, sedia dimasukkan ke dalam pengisar semasa pemprosesan coklat.
+    kind: representative
+    origin: third-party
+    subject: Biji koko dipanggang sedia untuk diproses
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 Malaysia ialah salah satu pemproses koko terhebat dunia yang hampir berhenti menanam koko. Dalam satu generasi sahaja, negara ini beralih daripada pengeluar biji koko empat teratas, dengan lereng bukitnya di Sabah dan Semenanjung Malaysia sarat dengan buah koko, kepada sebuah tempat yang mengimport biji koko dengan kapal demi kapal dan hampir-hampir tidak menuai beberapa ratus tan hasilnya sendiri. Apa yang kekal, dan berkembang maju, ialah bahagian kilang: kilang pengisaran, penapisan dan talian coklat yang menukar biji koko import menjadi lemak koko, serbuk, likur dan konfeksi siap untuk eksport. Hasilnya ialah satu "paradoks koko" - industri hiliran bertaraf dunia yang duduk di atas sektor huluan yang hampir lenyap sepenuhnya.

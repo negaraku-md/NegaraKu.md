@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai phơi nhiễm với tỷ giá hối đoái — nhà nhập khẩu, nhà xuất khẩu, người đi du lịch, du học sinh và nhà đầu tư."
 
 lang: "vi"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,34 @@ faq:
   - q: Vì sao tỷ giá mà ngân hàng hay quầy đổi tiền của tôi đưa ra lại tệ hơn tỷ giá BNM công bố?
     a: Bởi vì tỷ giá tham chiếu USD/MYR tại KL của BNM là một chuẩn mực thị trường được tính từ thị trường liên ngân hàng, dùng cho hợp đồng và định giá — không phải giá bán lẻ. Ngân hàng và quầy đổi tiền cộng thêm phần chênh lệch (spread) riêng của họ lên trên, nên bạn luôn giao dịch ở mức tệ hơn tỷ giá tham chiếu. Tỷ giá tham chiếu là 4.0841 tính đến ngày 23 tháng 10 năm 2026, nhưng đó là chuẩn mực, không phải cái mà khách hàng thực sự trả tại quầy.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'Mặt trước một tờ tiền một trăm ringgit Malaysia ghi BANK NEGARA MALAYSIA và SERATUS RINGGIT, với số 100 lớn màu tím, mệnh giá RM và chân dung Yang di-Pertuan Agong đầu tiên đội mũ hoàng gia'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Cận cảnh một đồng xu mười sen Malaysia màu bạc khắc chữ BANK NEGARA MALAYSIA với số 10 lớn, chữ SEN, năm 2006 và một họa tiết hoa, đặt trên một bề mặt màu xám
+    kind: actual
+    origin: third-party
+    subject: Một đồng xu 10 sen Malaysia, đơn vị tiền lẻ của đồng ringgit
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: Một tờ tiền ringgit chụp dưới ánh sáng tử ngoại khiến một họa tiết wau (diều truyền thống) màu xanh lá phát sáng và các dấu bảo an ẩn của BNM huỳnh quang trên nền giấy tối
+    kind: actual
+    origin: third-party
+    subject: Một tờ tiền ringgit Malaysia dưới ánh sáng tử ngoại, để lộ thiết kế bảo an ẩn của nó
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## Tổng quan nhanh

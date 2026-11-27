@@ -35,7 +35,7 @@ faq:
     a: "Le rumah terbuka est la pratique consistant à inviter parents, voisins et amis — y compris d'autres communautés et religions — à venir rendre visite et partager un repas tout au long de la période de Syawal. C'est devenu un trait social très répandu en Malaisie, souvent organisé aussi par les agences gouvernementales et les entreprises, et pas seulement dans les foyers privés."
 
 lang: "fr"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,34 @@ festivalFacts:
   when: "Le 1 Syawal du calendrier lunaire ; sa date avance d'environ 11 jours chaque année dans le calendrier grégorien et est fixée par l'observation du croissant de lune."
   holiday: "Les premier et deuxième jours sont déclarés jours fériés fédéraux dans toute la Malaisie."
   etiquette: "Les invités de toutes origines sont les bienvenus aux maisons ouvertes ; habillez-vous avec sobriété, et il est d'usage de retirer ses chaussures avant d'entrer dans une maison."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Des foules en baju Melayu de fête quittant une mosquée villageoise à deux minarets après la prière du matin de l''Aidilfitri à Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: Des paquets de riz ketupat palas tressés en feuilles de palmier à côté d'une assiette de rendang de bœuf, un plat classique du Hari Raya Aidilfitri en Malaisie
+    kind: actual
+    origin: third-party
+    subject: Ketupat palas avec rendang de bœuf, un plat classique du Hari Raya
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: Une lampe à huile en bambou pelita brûlant d'une flamme vive dans un jardin sombre pendant le Hari Raya Aidilfitri en Malaisie
+    kind: actual
+    origin: third-party
+    subject: Une lampe à huile en bambou pelita allumée la nuit pendant le Hari Raya
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 La dernière nuit du Ramadan, le pays tout entier semble se mettre en mouvement d'un seul coup. L'autoroute Nord–Sud est bloquée pendant des heures, les gares routières se remplissent de sacs et de boîtes de biscuits, et des lampes pelita s'allument sur les vérandas, des villes jusqu'aux coins les plus reculés du kampung. Le lendemain, 1er Syawal, un mois de jeûne s'achève — et la Malaisie célèbre le Hari Raya Aidilfitri.

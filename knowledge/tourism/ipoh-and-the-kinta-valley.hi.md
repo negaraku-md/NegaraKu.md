@@ -40,7 +40,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -114,6 +114,39 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'विरासत और भोजन यात्रियों तथा उन परिवारों के लिए उपयुक्त जो एक पैदल-चलने योग्य औपनिवेशिक Old Town, चूना-पत्थर की गुफा-मंदिर, और Perak के प्रसिद्ध kopitiam भोजन-दृश्य चाहते हैं।'
+  getThere: 'Ipoh तक KL Sentral से KTM ETS विद्युत ट्रेन द्वारा Old Town स्टेशन तक पहुँचें, या North-South Expressway पर ड्राइव करें; एक्सप्रेस बसें भी शहर तक जाती हैं।'
+  permit: 'गुफा-मंदिर सक्रिय पूजा-स्थल हैं, इसलिए मर्यादित वस्त्र पहनें (कंधे और घुटने ढकें) और भीतर शांत रहें।'
+  watch: 'ढीली पर्यटन-सामग्री के बावजूद, Kinta Valley एक राष्ट्रीय जियोपार्क है, UNESCO Global Geopark नहीं।'
+  next: 'यात्रा से पहले वर्तमान ट्रेन समय-सारणी और किराए KTMB से पुष्ट करें।'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'धुंधली नीली आसमान के नीचे पीछे उठती नुकीली चूना-पत्थर की पहाड़ियों के साथ इपोह के हरे पडांग और धरोहर शहर केंद्र का दृश्य'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Ipoh के Kek Lok Tong में जंगली चूना-पत्थर की karst चट्टानों के बीच बसा तालाब और फूलदार झाड़ियों वाला सुसज्जित बगीचा
+    kind: actual
+    origin: third-party
+    subject: Ipoh के दक्षिण में ऊँची चूना-पत्थर की चट्टानों से घिरा Kek Lok Tong गुफा मंदिर का झीलतटीय बगीचा
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: चमकीले नीले आकाश के सामने Moorish मेहराबों वाला Kellie's Castle का मौसम-मारा लाल-ईंट का स्तंभयुक्त अग्रभाग
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Kinta Valley में Batu Gajah पर अधूरी Moorish-शैली की औपनिवेशिक हवेली
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 टिन ने इपोह को बनाया, और फिर इसने इसे लगभग बिगाड़ भी दिया। किंता नदी पर एक गाँव किंता घाटी के नीचे दबे अयस्क के बल पर ब्रिटिश मलाया के सबसे धनी शहरों में से एक में बदल गया, अपने लिए एक भव्य औपनिवेशिक केंद्र बनाया, और फिर जब टिन की क़ीमत गिरी तो पैसे को बहते देखा। जो इसने रखा वह था स्थापत्य, गुफा मंदिरों से छलनी चूना-पत्थर पहाड़ियाँ, और एक असामान्य रूप से अच्छी रसोई। आज इपोह मलेशिया का सबसे आरामदायक विरासत-और-भोजन शहर ब्रेक है — कुआलालंपुर से एक दिन-यात्रा के लिए पर्याप्त क़रीब, एक सप्ताहांत को पुरस्कृत करने के लिए पर्याप्त समृद्ध। यह गाइड उस भूदृश्य और इतिहास को शामिल करती है जिसने इसे आकार दिया, शहर में और इर्द-गिर्द देखने के लिए क्या है, संक्षेप में भोजन, और वहाँ पहुँचने की व्यावहारिकताएँ।

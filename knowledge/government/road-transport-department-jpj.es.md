@@ -31,7 +31,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09b2906afbab7e08"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,11 +86,29 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'Mostradores de atención de una oficina sucursal del Departamento de Transporte Terrestre JPJ, con el escudo de la JPJ y la señalización ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' sobre la sala de mostradores de paredes de cristal'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: Señal de carretera verde de Malasia que dice 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' en letras amarillas con un símbolo azul de camión 'Timbang' de báscula, señalando la estación de control del JPJ
+    kind: actual
+    origin: third-party
+    subject: Señal direccional de carretera hacia la estación de control del JPJ que dice 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' con un símbolo de camión-báscula
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 La mayoría de la gente se encuentra con el **Departamento de Transporte por Carretera** en un solo momento — al renovar el impuesto de circulación, al pasar un examen de conducir o al transferir un coche usado. Pero la JPJ es el departamento que está detrás de cada una de esas gestiones. El **Departamento de Transporte por Carretera** (*Jabatan Pengangkutan Jalan*, o **JPJ**) es un organismo dependiente del **Ministerio de Transporte (MOT)** de Malasia. Matricula vehículos de motor y conductores, concede permisos de conducir, el impuesto de circulación y las matrículas, concede licencias a los vehículos comerciales y hace cumplir las leyes que rigen el uso de las vías públicas por vehículos y conductores.

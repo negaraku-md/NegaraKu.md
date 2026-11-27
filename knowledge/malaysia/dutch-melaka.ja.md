@@ -22,7 +22,7 @@ appliesTo: "マラッカがポルトガルからオランダへ、そして英�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,6 +74,32 @@ faq:
   - q: マラッカはオランダからイギリスへ一度のきれいな引き渡しで移ったのですか？
     a: いいえ。30年間に行政上4回も持ち主が替わりました。イギリスは1795年、フランスの手に渡るのを防ぐためキュー書簡（Kew Letters）に基づきマラッカを占領し、1818年にマラッカはオランダに返還され、1824年の英蘭協約（1824年3月17日署名）がスマトラのベンクーレン（Bencoolen）と引き換えにこれを恒久的にイギリスへ割譲し、実際の移管は1825年3月1日に発効しました。
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'マラッカのオランダ広場に立つ、深紅色をしたオランダ植民地時代の建物スタダイス（Stadthuys）と赤い時計塔で、その前には花で満たされたロータリーと方向案内の標柱がある。'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: マラッカのクライストチャーチの深紅のレンガ造りの正面が空に向かってそびえ、切妻には白い十字架と時計がはめ込まれている。
+    kind: actual
+    origin: third-party
+    subject: マラッカのクライストチャーチ、1753年にオランダ人が建てた教会
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: 「Kubur Belanda / The Dutch Graveyard」と記された白塗りのアーチ門が、マラッカのセントポールの丘にある木陰の植民地時代の墓地へと開けている。
+    kind: actual
+    origin: third-party
+    subject: マラッカのセントポールの丘にあるオランダ人墓地（クブール・ブランダ）
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 ある会社が、港を一つ征服するために七か月と外国のスルタン国との同盟を費やす。そしてその後の一世紀半を、その港を決して豊かにさせないために費やす。

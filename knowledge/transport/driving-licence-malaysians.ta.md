@@ -27,7 +27,7 @@ verificationNeeded:
   - "CDL விண்ணப்பத்தை இப்போது MyJPJ செயலி வழியாக முழுமையாக ஆன்லைனில் செய்ய முடியுமா — சரிபார்க்கப்பட்ட JPJ சேவைப் பக்கம் விண்ணப்பங்கள் மாநில JPJ கவுண்டரில் மட்டுமே செய்யப்படுகின்றன எனக் கூறுகிறது, ஆனால் இது சரிபார்க்கப்பட்ட தேதிக்குப் பிறகு மாறியிருக்கலாம்"
 
 lang: "ta"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: '''Pusat Latihan Memandu Sri Jaya'' என்று எழுதப்பட்ட, பெரிய நீல நிற L கற்போர் தட்டு அறிகுறிகளுடன் கூடிய ஒரு கடைமுக வாகன ஓட்டும் பள்ளி.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: கோலாலம்பூர், பந்தர் தாசிக் செலாத்தானில் உள்ள சாலைப் போக்குவரத்துத் துறை (JPJ) கிளையின் நுழைவாயிலும் காத்திருப்பு இடமும்.
+    kind: actual
+    origin: third-party
+    subject: JPJ (சாலைப் போக்குவரத்துத் துறை) கிளை அலுவலகம், கோலாலம்பூர்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: செலாங்கூரின் ராவாங்கில் அடையாளப் பலகைகளுடன் கூடிய பல பாதை போக்குவரத்து சுற்றுவட்டம், ஒவ்வொரு பயிற்சி ஓட்டுநரும் கரைதேற வேண்டிய ஒரு திறன்.
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், ராவாங்கில் உள்ள சுற்றுவட்டம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 பெரும்பாலான மக்கள் ‘ஓட்டுநர் உரிமம்’ என்பதை ஒரே ஆவணமாகக் கருதுகிறார்கள்.

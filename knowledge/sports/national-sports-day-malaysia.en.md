@@ -29,7 +29,7 @@ faq:
     a: "HSN is the highlight day of the celebration. Since 2019, KBS has expanded the celebration throughout the month of October as National Sports Month (BSN)."
 
 lang: "en"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'A crowd of runners streams past the floodlit Sultan Abdul Samad Building during a night road race in Kuala Lumpur.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: A large crowd of cyclists of all ages filling a closed Kuala Lumpur street at dawn during a Car Free Day event, beneath a festive banner.
+    kind: representative
+    origin: third-party
+    subject: Mass-participation cyclists at a Kuala Lumpur Car Free Day morning
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: Young athletes and officials gathered on the red running track of a Malaysian stadium during a district schools athletics championship, floodlights and grandstands behind.
+    kind: representative
+    origin: third-party
+    subject: Athletes on the track at a Malaysian district schools athletics championship
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 Every Saturday of the second week of October, sports fields, parks and halls across Malaysia are meant to be packed — that is the intent behind National Sports Day.

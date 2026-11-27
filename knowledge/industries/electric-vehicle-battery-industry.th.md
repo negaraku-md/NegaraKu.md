@@ -31,7 +31,7 @@ faq:
   - q: Low Carbon Mobility Blueprint คืออะไร?
     a: เป็นแผนที่นำทางปี 2021-2030 ของมาเลเซียสำหรับการขนส่งที่สะอาดกว่า นำโดยกระทรวงสิ่งแวดล้อมและบรรษัทเทคโนโลยีสีเขียวแห่งมาเลเซีย (MGTC) กำหนดเป้าหมายสำหรับการรับ EV และโครงสร้างพื้นฐานการชาร์จ และเป็นฐานของสิทธิประโยชน์ภาษีที่เสนอให้ผู้ซื้อและผู้ผลิต EV
 lang: th
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - Samsung SDI
   - การรับยานยนต์ไฟฟ้า
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'เครื่องชาร์จเร็วกระแสตรงตั้งอยู่ในช่องจอดสำหรับยานยนต์ไฟฟ้าที่มีเครื่องหมายกำกับ ณ จุดพักริมทางด่วนในมาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: เซลล์แบตเตอรี่ลิเธียมไอออนทรงกระบอกสองเซลล์ ขนาด 18650 และขนาด 21700 ที่ใหญ่กว่า ตั้งเรียงเคียงกัน
+    kind: representative
+    origin: third-party
+    subject: เซลล์แบตเตอรี่ลิเธียมไอออนทรงกระบอก
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: แพ็กแบตเตอรี่ขับเคลื่อนลิเธียมไอออนแบนของรถยนต์ไฟฟ้า จัดแสดงเพื่อให้เห็นการวางเซลล์แบบโมดูลาร์
+    kind: representative
+    origin: third-party
+    subject: แพ็กแบตเตอรี่ขับเคลื่อนลิเธียมไอออนของรถยนต์ไฟฟ้า
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 มาเลเซียใช้เวลาครึ่งศตวรรษสร้างรถยนต์ ตอนนี้กำลังพยายามเปลี่ยนให้เป็นไฟฟ้า — และที่สำคัญไม่แพ้กัน คือการผลิตแบตเตอรี่และสร้างเครือข่ายการชาร์จที่ยานยนต์ไฟฟ้าพึ่งพา นี่เป็นเรื่องราวที่ต่างจากที่เล่าในคู่มือ[อุตสาหกรรมยานยนต์ของมาเลเซีย](/th/industries/automotive-industry/) ซึ่งส่วนใหญ่เกี่ยวกับรถยนต์เบนซินและดีเซล ที่นี่หัวข้อคือ *ระบบนิเวศ* EV และแบตเตอรี่: ยานยนต์ สิทธิประโยชน์ เครื่องชาร์จ และโรงงานที่ร่วมกันกำหนดว่ามาเลเซียจะเปลี่ยนไปสู่การขับเคลื่อนด้วยไฟฟ้าเร็วเพียงใด

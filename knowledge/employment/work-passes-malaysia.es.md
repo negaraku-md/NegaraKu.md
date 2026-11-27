@@ -85,9 +85,15 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["permiso de trabajo malasia", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malasia", "investor pass malasia", "malaysia work pass", "employment pass"]
 framework: decision
+stayFacts:
+  who: 'Esto es para un empleador que elige el pase adecuado, o para un extranjero que compara vías para trabajar en Malasia: no existe un único visado de trabajo malasio.'
+  how: 'Deja que el patrocinador y el tipo de trabajo elijan el pase. Un expatriado patrocinado por un empleador toma el Employment Pass a través de la ESD; un proyecto corto pagado desde el extranjero toma un Professional Visit Pass; un trabajador remoto con empleador extranjero toma el DE Rantau Nomad Pass a través de MDEC; un expatriado de larga trayectoria toma el Residence Pass-Talent, portátil, a través de TalentCorp; un trabajador manual toma un PLKS bajo un régimen de cupos aparte. El patrocinador, no el cargo, decide cuál aplica.'
+  cost: 'Cada pase establece su propio salario mínimo, umbral de ingresos o duración, y estos se revisan con el tiempo —las bandas salariales del Employment Pass se revisaron recientemente—, así que confirma las cifras vigentes con el organismo emisor (ESD e Immigration, MDEC o TalentCorp) en lugar de una cifra citada.'
+  watch: 'Un Dependant Pass no conlleva derecho al trabajo: debes convertirlo en un Employment Pass. Un Professional Visit Pass, incluido el DE Rantau, está limitado por cupo y hace que se te siga pagando desde el extranjero. Solo el Residence Pass-Talent es portátil entre empleadores; un Employment Pass está ligado a su patrocinador, y cambiar de empleador reinicia el cómputo de la duración.'
+  next: 'Identifica tu patrocinador y el tipo de trabajo, confirma con su organismo emisor el salario o los ingresos mínimos vigentes y la duración de ese pase, y luego solicítalo a través de ese organismo. Consulta las explicaciones del Employment Pass, DE Rantau y la comparación de visados de negocios.'
 ---
 
 No existe una visa de trabajo malasia. Hay ocho o nueve instrumentos distintos, gestionados por cuatro organismos distintos, y el que necesitas lo decide **quién paga el salario** — no cómo se llama el empleo.

@@ -32,7 +32,7 @@ faq:
     a: "Masalah terkait listrik termasuk yang tertinggi bagi kebakaran hunian — pengabelan rusak, soket kelebihan beban, dan kabel sambungan aus. Aktivitas memasak yang ditinggalkan tanpa pengawasan dan kebocoran gas LPG turut menjadi penyumbang utama."
 
 lang: "id"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,36 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'Mobil pemadam kebakaran Mercedes-Benz Atego Bomba merah cerah bertuliskan ''BOMBA'' di depannya, lemari peralatan di sisinya, dan lampu rotator biru, keluar dari balik pintu stasiun pemadam yang terbuka dalam cahaya sore yang hangat'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: Sisi mobil pemadam 'Bomba dan Penyelamat' berwarna merah dengan kompartemen rolonya terbuka memperlihatkan selang gulung tersimpan rapi, gulungan selang, alat bantu pernapasan, generator portabel dan peralatan penyelamat lainnya
+    kind: actual
+    origin: third-party
+    subject: laci samping yang terbuka pada mobil pemadam Bomba Malaysia memperlihatkan peralatan pemadam kebakaran dan penyelamatnya
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: Van penyelamat Bomba Toyota Hiace merah dengan corak 'Bomba dan Penyelamat', tulisan BOMBA kuning dan lambang departemen, terparkir di rumput di samping pepohonan di latar desa pedesaan
+    kind: actual
+    origin: third-party
+    subject: van penyelamat darurat Bomba merah yang dikerahkan di sebuah kampung pedesaan di Ranau, Sabah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 Api tidak memberi peringatan. Dalam hitungan menit, satu percikan dari soket kelebihan beban atau wajan yang ditinggalkan dapat meratakan sebuah rumah — dan pada 2025 saja, [Jabatan Bomba dan Penyelamat Malaysia](/id/government/fire-and-rescue-department-bomba) (JBPM) mencatat 16,111 kasus kebakaran dengan 98 kematian dan kerugian harta benda diperkirakan RM2.09 miliar. Kabar baiknya: hampir semuanya dapat dicegah, baik di ruang tamu Anda maupun di lantai pabrik.

@@ -100,6 +100,14 @@ drinkFacts:
   halal: "보통 만들어지는 대로라면 Milo dinosaur는 할랄이다: Milo 가루, 우유, 물을 얼음에 넣은 무알코올 음료로 고기나 알코올이 없다. 말레이시아에서 파는 Milo는 Nestle Malaysia가 JAKIM 아래 할랄 인증을 받았으며, 이 음료는 보통 할랄인 mamak(인도계 무슬림) 노점의 단골이다. 어떤 노점 음식이든 그렇듯, 보증은 특정 업소와 재료에 달려 있다."
   served: "키 큰 잔에 얼음을 넣어 차게, 마른 Milo 가루 한 숟갈을 왕관처럼 얹어 — 때로는 그 무더기를 뚫고 빨대를 꽂아 — 낸다. 더 진한 Milo godzilla는 같은 음료에 아이스크림 또는 휘핑크림을 얹은 것이며; 'Milo tabur'(말레이어로 '뿌린')는 가루를 수북이 얹은 버전의 또 다른 이름이다. Milo kosong은 설탕을 더하지 않고 만든다."
   where: "말레이시아 전역의 mamak 노점, kopitiam(커피숍), pasar malam 음료 수레, 푸드코트, 그리고 싱가포르에서도 널리 있다. 전문 카페 음료라기보다 일상적이고 값싼 주문으로, Milo가 메뉴판에 있는 곳이면 어디서나 찾을 수 있다."
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "녹지 않은 밀로 가루가 두툼하게 쌓인, 아이스 밀로(Milo) 한 잔"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 말레이시아 mamak에서 Milo를 주문하면 차갑고 달콤하며 초콜릿 맛 나는 음료가 나온다.

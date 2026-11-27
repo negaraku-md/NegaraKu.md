@@ -36,7 +36,7 @@ faq:
     a: "KL20は、マレーシアのスタートアップ競争力を高めるために、政府がクアラルンプールのKL20 Summitで発表した2024年の行動計画である。資本、人材、スタートアップの質という三つの重要な重点領域にわたる取り組みを示し、2030年までにマレーシアを世界トップ20のスタートアップ拠点とし、スタートアップの評価額をRM4,000億とすることを目標に掲げる。これはMalaysia Venture Capital Roadmap 2024-2030、および2030年までにマレーシアを望ましい地域ベンチャーキャピタル拠点とする目標と整合している。"
 
 lang: "ja"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: 大きな窓と革張りのソファがある、暖かみのある工業的な雰囲気のコワーキングスペースで、長い共用木製テーブルに向かってノートパソコンで作業したり談笑したりする人々
+    kind: representative
+    origin: third-party
+    subject: 工業的な雰囲気のコワーキングスペースで、共用テーブルでノートパソコンで作業し談笑する人々
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: コワーキングオフィスで、テックイベントの最中に1人が意見を述べるのを熱心に聞きながら輪になって立つ、スタートアップ創業者の小グループ
+    kind: representative
+    origin: third-party
+    subject: テックインキュベーターのイベントで共に語り合うスタートアップ創業者の小グループ
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'マレーシアのサイバージャヤにある現代的な多層階のテクノロジーオフィスビル。水平に連なるガラスと金属のルーバー外壁を備え、「TM Innovation Centre」（TM イノベーションセンター）の看板が掲げられ、澄んだ青空の下に立つ。'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 マレーシアの創業者10人に政府のスタートアップ資金がどこから来るのかを尋ねれば、10通りの異なる略語が返ってくるだろう。この仕組みは実在し、しかも手厚いが、それぞれが一部分——助成金はここ、実験室はそこ、ベンチャーキャピタルはまた別のところ——を担う複数の機関に分散しており、どの扉を叩くべきかを知っていれば数か月を節約できる。

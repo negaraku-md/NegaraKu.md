@@ -23,7 +23,7 @@ appliesTo: "பயணிகள், வணிகங்கள், மற்று�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'தென் சீனக் கடலுக்கு இருபுறமும் தீபகற்ப மலேசியாவும் போர்னியோவில் உள்ள கிழக்கு மலேசியாவும் வெவ்வேறு வண்ணக் குறியீட்டுத் தொகுதிகளாகக் காட்டப்படும் மலேசியாவின் வட்டார வரைபடம்.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: பரந்த வெளிர் நீல வானத்தின் கீழ், மரங்கள் நிறைந்த தாழ்வான அடிவானம் வரை பசேலென்ற பச்சை நெல்வயல்களின் தட்டையான பரப்பு நீள்கிறது.
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், செக்கின்சானில் உள்ள தாழ்நிலப் பகுதி நெல்வயல்கள் (தீபகற்ப மலேசியா)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: அடர்ந்த காட்டுக் கரைகளுக்கு இடையே அகன்ற, சேற்று பழுப்பு நிற மழைக்காட்டு ஆறு வளைகிறது; ஒரு மரச் சிறு துறையில் சிறிய பச்சை மரப் படகுகள் கட்டப்பட்டுள்ளன.
+    kind: actual
+    origin: third-party
+    subject: சபா, சுக்காவில் உள்ள கினபட்டாங்கான் ஆறு (போர்னியோ மலேசியா)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 கோலாலம்பூரிலிருந்து கோட்டா கினபாலுவுக்கு உள்நாட்டு விமானத்தில் பறந்து செல்லுங்கள்; நீங்கள் புறப்பட்ட அதே நாட்டில்தான் இறங்குகிறீர்கள். அதே நாணயம், அதே கடவுச்சீட்டு, விமானத்தின் வால் பகுதியில் அதே கொடி. என்றாலும், வருகை மண்டபத்தில், ஒரு குடிவரவு பாணியிலான கவுண்ட்டரில் நீங்கள் வரிசையில் நிற்கிறீர்கள்; உங்களை உள்ளே அனுமதிப்பதற்கு முன் யாரோ ஒருவர் உங்கள் அடையாள அட்டையையோ கடவுச்சீட்டையோ சரிபார்க்கிறார். மலேசியாவுக்குள் வேறு எந்த விமானமும் அப்படி இயங்குவதில்லை.

@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: 'A wheel loader and workers process freshly cut hardwood logs at a sawmill yard in Sabah, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: Stacks of sawn hardwood boards and logs under the open roof of a rural sawmill in Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Sawmill at Kampung Mempakad, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: A wheeled loader moving tropical hardwood logs toward the trimming unit at a plywood factory in Sandakan, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Plywood factory log yard in Sandakan, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 Malaysia sits astride some of the oldest rainforest on Earth, and for much of its modern history the trade in tropical hardwood was one of the pillars of the national economy. That upstream world — the forests themselves, the licences to log them, and the first processing of raw logs into timber — is a distinct industry from the furniture factories and wood-products exporters further down the chain. This guide covers the **forestry and timber resource sector**: where the wood comes from, who controls it, how it is exported, and the sustainability and market pressures now reshaping it.

@@ -31,7 +31,7 @@ faq:
   - q: "هل هذا نفسه مقال قانون عمّال العمل الحرّ؟"
     a: "لا. فمقال قانون عمّال العمل الحرّ 2025 يشرح القانون نفسه — الحقوق والعقود والمحكمة. أما هذا المقال فيغطّي القطاع الاقتصادي — ما حجم اقتصاد العمل الحرّ والمنصّات، ومن هي المنصّات الرئيسية، وكيف يتلاءم مع الاقتصاد الرقمي الأوسع."
 lang: ar
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'سائق توصيل طعام على درّاجة نارية مزوّدة بصندوق توصيل معزول ينتظر عند تقاطع شارع في بينانغ بماليزيا.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: عامل توصيل طعام يرتدي سترة وخوذة Foodpanda وردية على دراجة نارية من نوع underbone (kapcai) يحمل صندوق توصيل Foodpanda معزولًا كبيرًا ورديًا بينما يتوقف في زحام الشارع.
+    kind: representative
+    origin: third-party
+    subject: عامل توصيل طعام على دراجة نارية من Foodpanda مع صندوق توصيل معزول وردي (عمل منصّات مثال؛ غير Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: عامل توصيل طعام عبر منصّة يقف على الرصيف مرتديًا حقيبة ظهر كبيرة معزولة لتوصيل الطعام.
+    kind: representative
+    origin: third-party
+    subject: عامل توصيل طعام بحقيبة توصيل معزولة لمنصّة (غير Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 كل يوم، تُرتَّب ملايين المعاملات في ماليزيا لا عبر متجر أو مكتب أو موقف سيارات أجرة، بل عبر تطبيق: سيارة تُستدعى إلى الرصيف، وكيس طعام يُحمل عبر المدينة على دراجة نارية، وشعار يُصمَّم لعميل لن يلتقيه المستقلّ أبدًا. هذا هو اقتصاد العمل الحرّ والمنصّات — عملٌ تتوسّطه المنصّات الرقمية — وفي ما يزيد قليلًا على عقد انتقل من طرافة إلى واحدة من أكثر سمات حياة العمل الماليزية ظهورًا.

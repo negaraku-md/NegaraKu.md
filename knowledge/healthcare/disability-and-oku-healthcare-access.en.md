@@ -31,7 +31,7 @@ faq:
     a: "Assistive/Prosthetic Device Aid (BAT) under JKM covers manual or electric wheelchairs, prosthetic legs and arms, hearing aids, white canes and braille machines, according to the fixed actual price of the device."
 
 lang: "en"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q7354381"
 relations:
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "public-healthcare-system" }
-related: []
+related: ["social-welfare-department-jkm", "persons-with-disabilities-employment-malaysia", "public-healthcare-system-malaysia"]
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'A platform wheelchair lift marked with an accessibility symbol at a disability rehabilitation centre in Johor, Malaysia'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: A gently sloping accessible ramp with handrails at a Malaysian LRT station, representing step-free access for persons with disabilities
+    kind: representative
+    origin: third-party
+    subject: A wheelchair-accessible ramp at a Malaysian public transit station
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: A parking bay painted with the blue international wheelchair symbol and reserved for persons with disabilities, representing OKU accessibility provisions
+    kind: representative
+    origin: third-party
+    subject: A reserved OKU (persons with disabilities) parking bay marked with the wheelchair symbol in Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 A single plastic card determines whether a child with autism receives early therapy, or whether an adult who has lost a leg can afford a prosthetic. In Malaysia, that OKU card is the gateway to almost every service and form of aid designed for persons with disabilities — and understanding how it works saves time, money and delayed treatment.

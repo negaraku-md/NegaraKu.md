@@ -31,7 +31,7 @@ faq:
     a: "卫生部为私立医疗机构发牌，马来西亚医药理事会（Malaysian Medical Council）负责医生的注册与纪律处分。许多医院也自愿取得马来西亚医疗品质协会（MSQH）或Joint Commission International（JCI）的认证。MHTC并不在这一监管链条之内。"
 
 lang: "zh"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: '吉隆坡 Prince Court Medical Centre 外观，这是一所领先的马来西亚私立医院，服务于医疗旅游者。'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: 位于沙巴州亚庇一座带玻璃幕墙的现代化私立医院建筑
+    kind: actual
+    origin: third-party
+    subject: 鹰阁医院（Gleneagles Hospital），马来西亚沙巴州亚庇的一所私立医疗中心
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: 马来西亚一所私立医院标有指示牌的急诊入口，设有指引至大厅和专科诊所的导示牌
+    kind: actual
+    origin: third-party
+    subject: 白沙罗医院（Pantai Hospital）的急诊入口与大厅导示牌，位于柔佛州峇株巴辖的一所私立医院
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 一个雅加达家庭飞来马来西亚，为父亲进行心脏搭桥手术。一对英国夫妇预约试管婴儿（IVF），因为家乡的等候名单已经超出他们的生育年龄窗口。一名孟加拉病患前来做一次例行健康检查，而他家乡的诊所做不了这项检查。

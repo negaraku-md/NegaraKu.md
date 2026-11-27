@@ -66,9 +66,16 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysian-federalism-explained" }
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
-related: []
+related: ["district-administration-in-malaysia", "state-assemblies-dun", "federal-constitution"]
 keywords: ["hasil negeri", "إيرادات الولاية", "geran perkapita", "منحة الرؤوس", "geran jalan raya negeri", "Jadual Kesepuluh", "الجدول العاشر", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "الإتاوات", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: 'قاعة احتفالات بسقف مينانغكاباوي بسقوفه المنحنية العالية ذات اللون الذهبي البنّي أمام برج ويسما نيغري الإداري الحديث للولاية في سيرمبان.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 حين تضع حكومة ولاية في ماليزيا ميزانيتها، تنطلق من واقع نادراً ما يُذكَر: الضرائب الأوفر حصيلةً — ضريبة الدخل، وضريبة المبيعات والخدمات، والجمارك — ليست من اختصاصها لتحصّلها. فتلك المصادر تقع ضمن الولاية القضائية الاتحادية. وما يتبقّى للولايات، وكيف تُسدّ الفجوة، مبيَّن بالحبر الأسود في الدستور الاتحادي.

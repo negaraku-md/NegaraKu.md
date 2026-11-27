@@ -32,7 +32,7 @@ faq:
     a: "기독교 가정은 교회 예배를 통해 이날을 종교적으로 지킵니다. 그 밖에도 크리스마스는 공공 생활에서 더 넓게 기려집니다 — 쇼핑몰과 호텔이 장식을 하고 계절 세일을 벌이며, 배경을 가리지 않고 손님을 맞아 함께 식사하는 오픈 하우스 전통이 흔합니다. 이 계절의 더 넓은 사회적 측면에 참여하는 것은 기독교도에게만 국한되지 않습니다."
 
 lang: "ko"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,34 @@ festivalFacts:
   when: "크리스마스는 매년 12월 25일이며, 장식과 소매 시즌은 대략 11월 말부터 시작된다."
   holiday: "크리스마스인 12월 25일은 모든 주와 연방직할구에서 전국적인 공휴일이다(반도에서는 1951년 공휴일법(제369호)의 제1부칙(First Schedule of the Holidays Act 1951 (Act 369)); 사바와 사라왁에서는 주 조례). 사바는 추가로 사바 공휴일 조례(Sabah Holidays Ordinance, Cap. 56)에 따라 12월 24일 크리스마스 이브를 주 공휴일로 관보에 공고한다."
   etiquette: "배경을 가리지 않고 손님을 초대해 함께 식사하는 오픈 하우스 전통은 다른 축제와 마찬가지로 크리스마스에도 적용되며, 손님을 맞이하는 기독교 가정은 흔히 다른 신앙의 손님을 환영하고, 방문은 축제 달력 전반에 걸쳐 양방향으로 이루어진다."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: '쿠알라룸푸르 파빌리온의 아트리움을 관통해 솟은 화려하게 장식된 거대한 크리스마스트리, 매달린 금빛 등롱과 회전목마, 붉은 카펫 위의 쇼핑객 무리에 둘러싸인 모습'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: 쿠알라룸푸르 쇼핑몰의 화려한 캔디랜드 크리스마스 장식으로, 빨강과 흰색 페퍼민트 소용돌이 무대, 진저브레드 집, 그리고 인파 위로 꼬마전구를 두른 크리스마스트리가 줄지어 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 쇼핑몰의 진저브레드 집과 조명 트리가 어우러진 캔디랜드 테마 크리스마스 장식
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: 쿠알라룸푸르 중심부의 흰 벽과 붉은 기와지붕을 가진 세인트메리 성공회 대성당으로, 박공에 십자가가 있고 앞에 말레이시아 국기가 있으며 뒤로 현대식 사무용 고층 빌딩이 솟은 모습
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 중심부의 역사적인 흰 교회, 세인트메리 성공회 대성당
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 12월 24일 저녁, 코타키나발루(Kota Kinabalu)나 쿠칭(Kuching)의 한 교회가 늦은 예배로 가득 차는 동안, 수백 킬로미터 떨어진 반도에서는 같은 날짜가 평범한 근무일인 목요일입니다. 이튿날 아침인 12월 25일에는 온 나라가 일을 쉽니다. 그 갈림 — 하나의 날짜, 매우 다른 두 지위 — 이 크리스마스가 말레이시아에 자리하는 방식을 이해하는 가장 깔끔한 방법입니다. 한 공동체에게는 종교 축제이고, 모두에게는 공휴일이며, 신앙과 무관하게 많은 이가 참여하는 열린 문의 철입니다.

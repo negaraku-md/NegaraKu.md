@@ -78,6 +78,7 @@ faq:
   - q: Apakah hukum Inggris mengatur kepemilikan tanah di Malaysia?
     a: Tidak. Pasal 6 (Section 6) Undang-Undang Hukum Perdata 1956 menyatakan bahwa tidak ada ketentuan dalam Undang-Undang ini yang memasukkan hukum Inggris yang berkaitan dengan penguasaan, pengalihan, jaminan, atau pewarisan harta tak bergerak. Hukum pertanahan Inggris sengaja dikecualikan sejak hari pertama. Sebaliknya, tanah di Malaysia berjalan di atas sistem Torrens yang berasal dari Australia, yang dikodifikasikan untuk Semenanjung Malaysia dalam Kitab Undang-Undang Tanah Nasional 1965 (National Land Code 1965, Act 56), di mana pendaftaran itu sendiri menciptakan dan membuktikan hak milik.
 framework: explainer
+wikidata: "Q142235975"
 ---
 
 Seorang hakim Malaysia yang memutus sengketa kontrak hari ini masih dapat

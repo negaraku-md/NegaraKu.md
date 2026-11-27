@@ -29,7 +29,7 @@ faq:
     a: "முதன்மை அதிகார எல்லை மாநில இஸ்லாமிய மதத் துறை/மன்றத்திடம் உள்ளது, ஏனெனில் அரசியலமைப்பின் கீழ் இஸ்லாமிய மத விவகாரங்கள் மாநிலப் பொருளாகும். JAKIM கூட்டாட்சி மட்டத்தில் ஒருங்கிணைக்கிறது, அதே நேரத்தில் கட்டிடப் பாதுகாப்புத் தேவைகள் உள்ளூர் ஆட்சி அமைப்பு (Pihak Berkuasa Tempatan) மற்றும் தீயணைப்புத் துறையை (Bomba) உள்ளடக்குகின்றன."
 
 lang: "ta"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'நீல நிற பாஜு குருங் உடையிலும் கருப்பு தலையணிகளிலும் உள்ள மாணவர்களின் வரிசை, தென்னை மரங்களைக் கடந்து, மலேசிய மதசார்பு இடைநிலைப் பள்ளியான சேகோலா மெனெங்கா அகாமா அல்-மாரிஃப் பள்ளிக்குள் நடந்து செல்கிறது.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: Johor மாநிலம் Batu Pahat-இல் உள்ள ஒரு தஹ்ஃபீஸ் பள்ளியின் அமைதியான வெளிப்புறம்; மாணவர்கள் தங்கள் படிப்போடு சேர்த்து குர்ஆனை மனனம் செய்ய இங்கே தங்கிப் படிக்கிறார்கள்.
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: Melaka மாநிலம் Peringgit-இல் உள்ள ஒரு மதத் தொடக்கப் பள்ளியின் (sekolah agama) எளிமையான கட்டிடம்; குழந்தைகள் மதியப் பிற்பகல் அமர்வில் இஸ்லாமியக் கல்வி பயிலும் இடம்.
+    kind: actual
+    origin: third-party
+    subject: Peringgit மத தொடக்கப் பள்ளி, Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 மலேசியாவில் ஒரு குழந்தை காலையை தேசியப் பள்ளியிலும், மதியத்தை பள்ளிவாசல் KAFA வகுப்பிலும், தனது இளமைப் பருவ ஆண்டுகளை தஹ்ஃபீஸ் விடுதியிலும் கழிக்கலாம் — வெவ்வேறு மேற்பார்வையாளர்கள், பாடத்திட்டங்கள் மற்றும் சட்டங்களைக் கொண்ட மூன்று வேறுபட்ட கல்விச் சூழல்கள். இஸ்லாமிய மதக் கல்விப் பிரிவு தேசிய அமைப்புக்கு இணையாக இயங்குகிறது, ஆனால் அது ஒரு ஒற்றைத் தொகுதி அல்ல. யார் எதைப் பதிவு செய்கிறார்கள், யார் எதற்குப் பொறுப்பு என்பதைப் புரிந்துகொள்வது இந்தத் தலைப்பு குறித்த பொது விவாதத்தை நியாயமாக வாசிப்பதற்கான திறவுகோலாகும்.

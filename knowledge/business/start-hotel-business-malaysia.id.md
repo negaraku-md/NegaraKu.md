@@ -68,7 +68,7 @@ sources:
     publisher: "Komisi Perusahaan Malaysia (SSM)"
 
 relations: []
-related: []
+related: ["register-sdn-bhd", "business-licence-malaysia"]
 keywords: ["start hotel business malaysia", "hotel licence malaysia", "MOTAC accommodation registration", "tourist accommodation premises registration", "Tourism Industry Act 1992", "PBT business premise licence hotel", "BOMBA fire certificate hotel", "hotel star rating malaysia MOTAC"]
 social:
   hashtags:

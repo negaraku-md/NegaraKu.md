@@ -33,7 +33,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,24 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: 'مبنى بنك زاوي من ثلاثة طوابق طابقه الأرضي مكسوّ بواجهة زرقاء زاهية مكتوب عليها RHB Bank وRHB Islamic وRHB Bank، كلٌّ منها بشعار RHB الأحمر المعيّن، وسيارة حمراء متوقفة أمامه تحت سماء شاحبة'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: فرع زاوية أبيض من طابقين لبنك RHB كما يُرى عبر تقاطع مرصوف بالطوب، مع شريط لافتاته الأزرق المكتوب عليه RHB Islamic و RHB Bank بشعار الماسة الحمراء، ومظلات سوق منصوبة في الساحة الأمامية تحت سماء زرقاء صافية
+    kind: actual
+    origin: third-party
+    subject: فرع لبنك RHB في Seremban 2، نجري سمبيلن، مع لافتتَي RHB Bank و RHB Islamic تحت سماء زرقاء زاهية
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 آر إتش بي من الأسماء التي يعرفها معظم الماليزيين على فرع بنك في الشارع الرئيسي، أو على بطاقة صرّاف آلي، أو في كتيّب قرض سكني — لكن المجموعة التي تقف وراءه تمتد إلى ما هو أبعد كثيرًا من صيرفة التجزئة، إلى التمويل الإسلامي والصيرفة الاستثمارية والتأمين والأسواق عبر جنوب شرق آسيا. هذا الملف نظرة محايدة وواقعية عمّا تكونه مجموعة آر إتش بي المصرفية (RHB Banking Group)، وكيف تنتظم، ومن يملكها، ولماذا تهم.

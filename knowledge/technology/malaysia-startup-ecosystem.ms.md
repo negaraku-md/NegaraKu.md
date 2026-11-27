@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 
 status: "published"
 aiAssisted: true
@@ -103,6 +103,33 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: Orang ramai bekerja dengan komputer riba dan berbual di meja kayu kongsi yang panjang di sebuah ruang kerja bersama bergaya industri yang mesra dengan tingkap besar dan sofa kulit
+    kind: representative
+    origin: third-party
+    subject: Orang ramai bekerja dengan komputer riba dan berbual di meja kongsi di sebuah ruang kerja bersama bergaya industri
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: Sekumpulan kecil pengasas syarikat pemula berdiri membentuk bulatan di sebuah pejabat kerja bersama, mendengar dengan teliti ketika seorang daripada mereka menyampaikan hujah pada sesuatu acara teknologi
+    kind: representative
+    origin: third-party
+    subject: Sekumpulan kecil pengasas syarikat pemula berbual bersama pada sesuatu acara inkubator teknologi
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'Sebuah bangunan pejabat teknologi moden bertingkat di Cyberjaya, Malaysia, dengan fasad kaca dan logam berbilah melintang serta papan tanda ''TM Innovation Centre'', di bawah langit cerah.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 Tanya sepuluh pengasas Malaysia dari mana datangnya wang startup kerajaan dan

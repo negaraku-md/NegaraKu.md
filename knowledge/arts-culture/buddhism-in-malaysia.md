@@ -70,6 +70,32 @@ faq:
   - q: 卫塞节纪念什么?它是公共假期吗?
     a: 卫塞节(卫塞日)纪念佛陀的诞生、成道与涅槃,是马来西亚的全国公共假期。信众会到寺院供花、点灯、布施。宗教自由受联邦宪法第11条保障;第3条虽将伊斯兰教定为联邦的宗教,但不妨碍其他宗教的和平奉行。
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: '槟城山坡上的极乐寺佛教寺庙，有舒展的金色琉璃瓦屋顶、挂满红灯笼的层层平台，以及庭院里的宝塔喷泉。'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: 槟城一座泰国佛寺华丽的鎏金贴瓷立面与屋顶，映衬蓝天
+    kind: actual
+    origin: third-party
+    subject: 卧佛寺（Wat Chaiya Mangkalaram），位于槟城乔治市的泰国上座部佛教寺院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: 一尊盘坐的佛像被大量黄、白、粉色菊花簇拥，置于卫塞节花车之上
+    kind: actual
+    origin: third-party
+    subject: 吉打亚罗士打 Wat Nikrodharam 卫塞节（Wesak）花车上花团锦簇的佛像
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 在槟城的山坡上,极乐寺的塔影俯瞰着乔治市;在吉隆坡的十五碑,一座上座部寺院里

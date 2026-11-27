@@ -29,7 +29,7 @@ faq:
     a: "Laporan Ketua Audit Negara yang dipresentasikan di Parlemen pada Februari 2023 mengungkapkan bahwa informasi pribadi 3 juta penerima vaksin telah diunduh melalui akun 'Super Admin' sistem MyVAS antara 28 hingga 31 Oktober 2021."
 
 lang: "id"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,35 @@ wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'Sebuah pemberitahuan QR check-in MySejahtera yang tercetak di sebuah toko Malaysia, bagian dari platform kesehatan digital Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: Seseorang memegang ponsel pintar yang menampilkan daftar toko aplikasi kesehatan dan medis, menggambarkan alat kesehatan digital konsumen di ponsel
+    kind: representative
+    origin: third-party
+    subject: Sebuah tangan memegang ponsel pintar yang menampilkan daftar aplikasi kesehatan pribadi
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: Seorang klinisi duduk di stasiun kerja dengan beberapa layar menampilkan rekam EKG, citra ultrasonografi dan umpan video, mewakili sistem rekam kesehatan digital dan TI rumah sakit
+    kind: representative
+    origin: third-party
+    subject: Seorang klinisi di stasiun kerja TI medis multi-monitor meninjau data pasien digital
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 Banyak yang menghapus MySejahtera dari telepon ketika pandemi mereda — tetapi aplikasi itu tidak hilang. Ia hanya berganti pekerjaan.

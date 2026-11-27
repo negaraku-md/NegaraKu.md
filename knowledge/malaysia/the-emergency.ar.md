@@ -85,6 +85,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["الطوارئ المالاياوية", "Malayan Emergency", "Darurat", "خطة بريغز", "Briggs Plan", "القرى الجديدة", "new villages", "kampung baru", "الحزب الشيوعي المالاياوي", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: 'صفٌّ من الجنود بالزيّ العسكري يخوضون عائدين عبر حقل أرز مغمور بالمياه نحو المعسكر بعد دورية في الأدغال.'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 كانت كلمة «طوارئ» خيارًا قانونيًا، لا وصفًا. فتسمية النزاع الذي دام اثني عشر عامًا في مالايا طوارئ لا حربًا أبقت مزارع المطّاط ومناجم القصدير قابلةً للتأمين بموجب وثائق تأمين لندنية تستثني أعمال الحرب. كان القتال حقيقيًا، وبلغت حصيلة القتلى الآلاف، وحملت الدولة التي خرجت منه أدواتٍ — بطاقات هوية، ومناطق إعادة توطين، وسلطات احتجاز — بقيت عقودًا بعد الطوارئ.

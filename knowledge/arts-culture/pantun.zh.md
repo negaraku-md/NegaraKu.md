@@ -36,7 +36,7 @@ socialTitle: "马来人最古老的口传诗歌——pantun 的故事及其 UNES
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "berpantun 艺术起源的确切年代无法确定；学者最有力的观点将其与约15世纪相联系，即《Sejarah Melayu》（约1612）之前。此一年代仍有争议，并非定论。"
   - "较长的多行 pantun 的最大长度在不同来源之间有所差异（部分称多达16行，另一些称约22行）；确切数字并不一致。"
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: '身着绿金两色传统服饰、佩戴华丽头饰的马来表演者席地而坐，在一场迪基巴拉（dikir barat）表演中做出整齐划一的手势，面前摆着手鼓。'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: 吉兰丹-北大年风格皮影戏（wayang kulit）表演中，雕刻精细的神话人物皮偶在发光的幕布上投下清晰的剪影
+    kind: actual
+    origin: third-party
+    subject: 吉兰丹-北大年风格的皮影戏（wayang kulit）
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: 一组雕饰精美的马来甘美兰（gamelan）乐器，由青铜锣、釜锣与木制排琴组成，陈列于吉隆坡音乐博物馆
+    kind: actual
+    origin: third-party
+    subject: 马来甘美兰（gamelan）乐队，吉隆坡音乐博物馆
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

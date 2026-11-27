@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e98b7dba06ff74b9"
+sourceContentHash: "ae1f74dd0bfa3f2c"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global",
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
 framework: profile
+hero: '/media/companies/telekom-malaysia/hero.webp'
+heroAlt: 'नीली आसमान और कपासी बादल के सामने उठती पतली घुमावदार मेनारा TM गगनचुंबी इमारत, उसकी खड़ी ब्लेडनुमा रीढ़ पर लाल-नीला TM लोगो और ऊपरी मंज़िलों से निकलती एक तश्तरीनुमा आकाश-छत'
+heroCredit: 'Shesmax / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara TM (Telekom Tower), the curved headquarters of Telekom Malaysia on Jalan Pantai Baharu, Kuala Lumpur, with the TM logo near its crown'
+images:
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-1.webp
+    alt: विशिष्ट झुकी हुई, घुमावदार Menara TM मीनार जिसकी ऊपरी रीढ़ पर TM लोगो और एक तश्तरी-आकार का आकाश-छज्जा है, दाईं ओर नीले आसमान के विरुद्ध एक अष्टभुजाकार कार्यालय मीनार के बगल में उठती हुई, अग्रभूमि में एक ऊँची रेल पुलिया को पार करते हुए
+    kind: actual
+    origin: third-party
+    subject: एक ऊँचे राजमार्ग के पार एक पड़ोसी मीनार के बगल में देखी गई Menara TM, उसके शिखर पर TM लोगो दिखता हुआ, Lembah Pantai, कुआलालंपुर
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg
+  - role: scene
+    src: /media/companies/telekom-malaysia/body-2.webp
+    alt: Menara TM के घुमावदार चाँदी-रंग के मुखौटे और एक तश्तरी-आकार के आकाश-छज्जे से ढके ब्लेडनुमा शिखर का पूरा विस्तार, निचली शहरी इमारतों के ऊपर एक भारी धूसर मेघाच्छादित आसमान के विरुद्ध
+    kind: actual
+    origin: third-party
+    subject: एक उदास धूसर आसमान के नीचे Menara TM और उसके उड़न-तश्तरी आकाश-छज्जे का पूरी-ऊँचाई का दृश्य, कुआलालंपुर
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-05-45.jpg
+wikidata: "Q1640639"
 ---
 
 मलेशिया में लगभग हर फ़ाइबर ब्रॉडबैंड लाइन, उद्यम सर्किट और समुद्री डेटा केबल किसी के पास पहुँचने से पहले एक कंपनी को छूती है। Telekom Malaysia Berhad (TM) राष्ट्रीय अग्रणी संस्था है — वह ऑपरेटर जिसने देश के अधिकांश फ़िक्स्ड नेटवर्क का निर्माण किया और अभी भी उस बैकबोन की स्वामी है जिस पर प्रतिद्वंद्वी और अंतरराष्ट्रीय वाहक निर्भर करते हैं।

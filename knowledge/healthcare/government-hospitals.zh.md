@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,33 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: '吉隆坡中央医院（马来西亚政府医院）专科及日间病房楼外观，白色立面上有红新月徽章'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: 透过树木望见吉隆坡中央医院粉色现代主义风格的妇产大楼，远处是吉隆坡的城市高楼
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央医院的妇产大楼（Hospital Bersalin），背后是 KLCC 天际线
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: 吉隆坡中央医院一座单层科室楼，蓝色马来文招牌写着 Jabatan Perubatan Rehabilitasi，门前停着汽车
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡中央医院的康复医学科（Jabatan Perubatan Rehabilitasi）大楼
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 排队号码单在手，号码显示前面还有 80 多人，墙上的电子显示板显示的号码却还差得

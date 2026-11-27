@@ -32,7 +32,7 @@ faq:
     a: "Đôi khi. MMC ưu tiên tư vấn ảo như một lần tái khám sau khi đã có mối quan hệ bác sĩ-bệnh nhân, nhưng cho phép một lần tư vấn trực tuyến đầu tiên, đặc biệt trong chăm sóc ban đầu, nếu bác sĩ ghi chép các lý do. Bác sĩ được yêu cầu thận trọng về việc kê đơn cho bệnh nhân họ chưa tự khám và chuyển bạn đến khám trực tiếp khi phương tiện trực tuyến không đủ để đánh giá bạn một cách an toàn."
 
 lang: "vi"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'Một bác sĩ tại trạm làm việc khám bệnh từ xa đang xem xét một bệnh nhân ở xa trên màn hình video bên cạnh các màn hình chẩn đoán.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: Một bác sĩ ngồi bàn nói chuyện điện thoại trong khi ghi chép, với chiếc áo blouse trắng treo trên giá phía sau, đại diện cho một buổi tư vấn y tế từ xa qua điện thoại
+    kind: representative
+    origin: third-party
+    subject: Một bác sĩ tư vấn từ xa qua điện thoại tại bàn làm việc của mình
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: Đôi tay cầm điện thoại thông minh chạy ứng dụng tư vấn video từ xa cùng với một đầu dò siêu âm cầm tay, đại diện cho chẩn đoán trực tuyến từ xa
+    kind: representative
+    origin: third-party
+    subject: Một ca siêu âm có hướng dẫn qua video từ xa được thực hiện bằng ứng dụng điện thoại thông minh
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 Bạn mở một ứng dụng, gọi video cho một bác sĩ từ chiếc ghế sofa của mình, và một đơn thuốc rơi vào hộp thư của bạn một giờ sau đó. Tại Malaysia điều đó hoàn toàn hợp pháp — nhưng bộ quy tắc đằng sau nó không phải là đạo luật bạn có thể trông đợi.

@@ -29,7 +29,7 @@ faq:
     a: "Trong đó có tỷ lệ tái chế bao bì nhựa 25% vào năm 2025, tỷ lệ thu-gom-để-tái-chế (CFR) trung bình 76% vào năm 2030, và hàm lượng tái chế trung bình 15% vào năm 2030. Mục tiêu tỷ lệ tái chế 100% được nhắm đến vào năm 2050."
 
 lang: "vi"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'Những chai nhựa bị vứt bỏ và rác thải khác nằm vương vãi trên cát của một bãi biển bên bờ biển.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: Rác thải nhựa và mảnh vụn từ biển dồn lại dọc theo ngấn nước thủy triều của một bãi biển
+    kind: representative
+    origin: third-party
+    subject: Rác thải nhựa đại dương dạt vào một bãi biển (ảnh minh họa)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: Những chai nhựa đã qua sử dụng được gom tại một điểm thu gom để gửi đi tái chế
+    kind: representative
+    origin: third-party
+    subject: Điểm thu gom chai nhựa để tái chế (ảnh minh họa)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 Chiếc túi nhựa mỏng ở quầy thanh toán thường chỉ được sử dụng trong chốc lát, nhưng có thể tồn tại trong môi trường trong một thời gian dài. Để giải quyết vấn đề này, Malaysia không chọn một lệnh cấm toàn diện ngay lập tức — mà thay vào đó là một lộ trình theo giai đoạn chuyển từ một khoản phí nhỏ sang các lệnh cấm rộng hơn.

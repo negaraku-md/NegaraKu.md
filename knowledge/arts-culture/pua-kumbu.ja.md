@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,25 @@ relations:
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
+hero: '/media/arts-culture/pua-kumbu/hero.webp'
+heroAlt: 'サラワクのロングハウス内で、木製の腰機に張られた金色の模様の赤いプア・クンブ布の長い帯。近くに織られた敷物と彫刻されたイバンの収納箱'
+heroCredit: 'BarbicanMan / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: 長い髪のイバン族の織り手の等身大の人形が背帯機に寄りかかり、縦糸が見る者の方に扇状に広がる錆色の赤とクリーム色のイカットのプア・クンブを織っている様子
+    kind: actual
+    origin: third-party
+    subject: サラワク州クチン繊維博物館の、背帯機で錆色のプア・クンブを織るイバン族の女性の博物館展示
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 織り手が「祝福」なしには創り出すことをためらう布——その文様は夢の中で授かるといわれ、かつてはそれを生み出した人々の戦士の伝統と固く結びついていた。それが**プア・クンブ**（*pua kumbu*）である。

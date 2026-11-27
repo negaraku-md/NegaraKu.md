@@ -31,7 +31,7 @@ faq:
     a: "Gateway Development Alliance 컨소시엄입니다: 말레이시아 앵커 주주로서 Khazanah Nasional과 직원공제기금(EPF), 그리고 Global Infrastructure Partners와 아부다비 투자청. 보고된 수치는 Khazanah를 최대 지분, EPF를 그다음, 이어 GIP와 ADIA로 놓습니다; 정부도 특별주를 유지합니다. 정확한 비율은 공식 공시와 대조하여 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -71,6 +71,7 @@ sources:
     publisher: "The Star"
 
 entity: "Malaysia Airports Holdings Berhad (MAHB)"
+wikidata: "Q4202182"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["genting-group"]
@@ -78,6 +79,33 @@ keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airp
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
+hero: '/media/companies/malaysia-airports-mahb/hero.webp'
+heroAlt: '극적인 저녁 하늘을 배경으로 솟은 KLIA 항공교통관제탑의 높고 흰 원통형 구조물, 오른쪽에 터미널 진입로가 곡선으로 지나가는 모습'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: 곡선형 목재 살 아치 천장, 파란색 게이트 방향 표지판과 무빙워크가 있는 KLIA 제1터미널 내부 통로, 한 명의 여행객이 반질반질한 바닥을 걸어가고 있다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 국제공항 KLIA 제1터미널 내부 콩코스
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: 높은 유리 벽을 배경으로 한 포레스트 공항 특유의 흰색 벌어진 철골 지붕 기둥이 보이고, 통로를 따라 파란색 Malaysia Airports 개보수 가림막이 늘어선 KLIA 제1터미널 콩코스
+    kind: actual
+    origin: third-party
+    subject: Malaysia Airports(MAHB) 브랜딩이 있는 KLIA 제1터미널 콩코스
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 여행자가 말레이시아에 착륙할 때마다 거의 매번, 그들은 한 회사가 운영하는 공항에 도착합니다. Malaysia Airports Holdings Berhad(MAHB)는 쿠알라룸푸르 국제공항 — 이제 KLIA 터미널 1과 터미널 2로 브랜딩됨 — 과, 자체 집계로 이 나라 전역 39개 공항, 그리고 이스탄불의 한 해외 관문을 운영합니다. 2025년에 그것은 또한 국가 공항 운영사로서는 이례적인 것이 되었습니다: 더 이상 공개 회사가 아닌 것.

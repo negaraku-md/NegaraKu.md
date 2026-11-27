@@ -32,7 +32,7 @@ faq:
   - q: "Apa saja empat hari Thai Pongal?"
     a: "Bhogi (membuang yang lama dan membersihkan rumah), Thai Pongal atau Surya Pongal (bersyukur kepada Matahari dan mempersembahkan pongal), Mattu Pongal (memuliakan ternak yang membantu membajak), dan Kaanum Pongal (mengunjungi kerabat dan keluar bertamasya) — itulah keempat hari tersebut."
 lang: "id"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Hari lahirnya bulan Tamil Thai — dalam penanggalan Gregorian umumnya pertengahan Januari (14 atau 15)."
   holiday: "Bukan hari libur umum yang diwartakan baik di tingkat persekutuan maupun di tingkat negeri mana pun di Malaysia. (Hanya Deepavali yang merupakan hari libur umum persekutuan — kecuali Sarawak; Thaipusam hanya libur di sebagian negeri.)"
   etiquette: "Terutama merupakan perayaan budaya terkait panen, bersifat sekuler (diklarifikasi oleh seorang menteri Malaysia pada 2020); organisasi komunitas dan kuil mengadakan perayaan publik dengan memasak pongal bersama dalam banyak periuk sekaligus, disertai pertunjukan seni."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'Seorang wanita tersenyum bersari ungu dan emas mengaduk nasi Pongal yang mengepul dalam pot tanah liat yang dikelilingi untaian bunga marigold, memasak di tempat terbuka di sebuah kuil Hindu saat Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: Kolam Pongal besar berwarna-warni yang digambar dengan serbuk berwarna di tanah, memperlihatkan batang tebu, bunga-bunga cerah dan periuk festival yang meluap, di luar gerbang rumah
+    kind: representative
+    origin: third-party
+    subject: Kolam Pongal berwarna-warni dengan tebu, bunga dan motif periuk meluap di sebuah jalan
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: Dua periuk tanah liat bulat bertepi merah, dilukis tangan dengan warna putih bermotif zigzag dan titik berwarna-warni, disiapkan untuk memasak Pongal sewaktu festival panen
+    kind: representative
+    origin: third-party
+    subject: Dua periuk tanah liat Pongal yang dilukis tangan untuk festival panen
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 Pada subuh hari ketika bulan Thai menjelang, halaman dan ambang pintu keluarga

@@ -29,7 +29,7 @@ faq:
   - q: "海峡殖民地最终的结局如何？"
     a: "它于1946年4月1日解体。槟城与马六甲连同马来联邦与非联邦马来属邦，一并并入马来亚联邦（Malayan Union），而新加坡则被划出，成为自身独立的一个直辖殖民地。"
 lang: "zh"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,32 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: '暮色中，一座木顶门楼在斑驳的石墙之间透出暖光，门上方亮着的招牌写着「Fort Cornwallis 1786 Penang」，下方敞开的通道通向堡垒内院。'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: 一座宏伟的两层白墙殖民建筑，设有高大的廊柱式回廊、拱形窗户和对称的立面，坐落在修剪整齐的绿茵草坪后方，蓝天之下的槟城乔治市。
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市白墙的殖民时代市政厅，一座海峡殖民地行政大楼
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: 一座大宅华丽的立面漆成鲜艳的靛蓝色，配有绿色百叶窗、雕饰的屋檐和一排拱形门洞，是槟城乔治市一座地标性的海峡华人庭院宅邸。
+    kind: actual
+    origin: third-party
+    subject: 靛蓝色的张弼士故居（蓝屋），槟城乔治市一座海峡华人商贾的庭院宅邸
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 三个港口，四次行政地位的变更，四十一年。这就是海峡殖民地——在它触及马来属邦之前的样貌。

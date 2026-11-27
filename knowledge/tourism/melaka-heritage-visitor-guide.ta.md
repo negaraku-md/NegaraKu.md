@@ -42,7 +42,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 
 status: "published"
 aiAssisted: true
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'ஒரு வார இறுதிப் பயணமாக எளிதில் முடிக்கக்கூடிய, சிறிய, நடந்து செல்லக்கூடிய UNESCO பாரம்பரிய மையத்தை விரும்பும் பயணிகளுக்கு ஏற்றது — மலாய்-சுல்தானகம், போர்த்துகீசிய மற்றும் டச்சு சின்னங்கள், மேலும் Peranakan (Baba Nyonya) நோன்யா உணவு.'
+  getThere: 'கோலாலம்பூரிலிருந்து சாலை வழியாக அடையப்படுகிறது, சுமார் இரண்டு மணி நேர ஓட்டம் — ஒரு பொதுவான வார இறுதிப் பயணம்.'
+  watch: 'வாரத்தின் நாளைச் சுற்றித் திட்டமிடுங்கள் — Jonker Street இரவுச் சந்தை வெள்ளி முதல் ஞாயிறு மாலைகளில் மட்டுமே இயங்குகிறது, வார நாட்களில் அது ஒரு சாதாரண கடைவீட்டுத் தெரு — மேலும் இலவச வரலாற்று A Famosa வாயிலை நகருக்கு வெளியே உள்ள தனி A''Famosa Resort தீம் பூங்காவுடன் தவறாகக் கருதாதீர்கள்.'
+  next: 'உங்கள் வருகைக்கு முன் தற்போதைய திறக்கும் நாட்களையும் நேரங்களையும் Baba & Nyonya Heritage Museum-இன் அதிகாரப்பூர்வ இணையதளத்துடன் உறுதிப்படுத்துங்கள், ஏனெனில் இவை மாறுகின்றன.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'Melaka Dutch Square-ல் Victoria நீரூற்றுக்கும் சந்தைக் கடைகளுக்கும் பின்னால் செங்கல்-சிவப்பு டச்சு Stadthuys கட்டிடம்'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: பழைய நகரில் பசுமையான Malacca ஆற்றின் வழியே வண்ணமயமான பாரம்பரிய கடைகள் மற்றும் மரங்களைக் கடந்து செல்லும் ஒரு ஆற்றுப் பயணப் படகு
+    kind: actual
+    origin: third-party
+    subject: பழைய-நகரக் கடைகளின் வழியே Malacca ஆற்றுப் பயணம்
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: 1908-ஆம் ஆண்டின் Tamil Methodist Church-க்கு அருகில் Melaka-வின் சைனாடவுன் தெருவின் நுழைவாயிலைக் குறிக்கும் Jonker Walk வாயில் வளைவு
+    kind: actual
+    origin: third-party
+    subject: Tamil Methodist Church-க்கு அருகில் Jonker Walk வாயில் வளைவு
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 மாலை நேரத்தில் Dutch Square இல் நின்றால், ஒரே பார்வையில் ஐந்து நூற்றாண்டுகளை நீங்கள் படிக்கலாம்: ஒரு பக்கத்தில் ஒரு சால்மன்-சிவப்பு டச்சு நகர மண்டபம், மேலே உள்ள மலையில் ஒரு போர்த்துகீசிய கால தேவாலயத்தின் இடிபாடுகள், பிரிட்டிஷார் இடிக்க முயன்ற ஒரு கோட்டையை ஒரு காலத்தில் நங்கூரமிட்ட ஒரு கல் வாயில், மற்றும் — இரண்டு நிமிட நடையில் — வெள்ளிக்கிழமை இரவுச் சந்தைக்காக இப்போது ஒளிரும் சீன-மலாய் நகர இல்லங்கள் நிறைந்த ஒரு சந்து. மலாக்கா தனது வரலாற்றை ஒரு பெரிய நகரம் முழுவதும் பரப்புவதில்லை. அதை நீங்கள் ஒரு பிற்பகலில் நடந்து செல்லக்கூடிய ஏறக்குறைய ஒரு சதுர மைல் பரப்பில் அடுக்கிவைக்கிறது. அதை எப்படிப் படிப்பது, அதைச் சுற்றி ஒரு வருகையை எப்படித் திட்டமிடுவது என்பது இங்கே.

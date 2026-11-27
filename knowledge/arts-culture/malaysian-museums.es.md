@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Visitantes que planifican un itinerario de museos, estudiantes e investigadores que buscan la historia institucional tras las principales colecciones de Malasia, y cualquiera que diera por supuesto que el Muzium Negara era el museo más antiguo del país."
 
 lang: "es"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,34 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'El Museo Nacional de Malasia, un gran edificio pálido coronado por un empinado tejado a dos aguas de estilo minangkabau en rojo intenso, su larga fachada decorada con coloridos paneles de mural y bordeada de banderas malayas, visto desde el otro lado de una carretera'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: Una cúpula redondeada revestida de azulejos vidriados turquesa cubiertos de motivos arabescos florales en blanco, verde y dorado, coronada por un pequeño remate dorado, alzándose contra un cielo azul pálido
+    kind: actual
+    origin: third-party
+    subject: una cúpula de azulejos turquesa del Museo de Arte Islámico de Malasia en Kuala Lumpur, decorada con un intrincado arabesco floral
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: Un histórico edificio museístico colonial de dos plantas pintado de crema, con esquineras y marcos de ventana de piedra gris, empinados tejados a dos aguas y remates decorativos, flanqueado por altas palmeras bajo un cielo azul brillante
+    kind: actual
+    origin: third-party
+    subject: el histórico edificio del Museo de Sarawak, de la época colonial, en Kuching, una estructura crema de dos plantas con esquineras de piedra gris y tejados a dos aguas
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 Pregúntale a la mayoría de los visitantes cuál es el museo más antiguo de Malasia y adivinarán el Muzium Negara, el edificio de techo palaciego que ancla la hilera de museos de Kuala Lumpur. Se equivocarían por ochenta años. Ese título pertenece a una modesta galería en Taiping, construida mientras el emplazamiento del Muzium Negara aún estaba ocupado por su predecesor.

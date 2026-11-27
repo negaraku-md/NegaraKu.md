@@ -86,6 +86,13 @@ drinkFacts:
   halal: "air mata kucing पौधे-आधारित और ग़ैर-मादक है — सूखा फल, monk fruit, winter melon और मिश्री पानी में — इसलिए पेय स्वयं हलाल है। हलाल का आश्वासन परिसर से जुड़ा होता है, इसलिए जिन्हें प्रमाणन चाहिए उन्हें अलग-अलग ठेले की जाँच कर लेनी चाहिए।"
   served: "आमतौर पर बर्फ़-ठंडा परोसा जाता है, एक बड़े ठंडे डिस्पेंसर से उड़ेलकर; इसे गर्म या कमरे के तापमान पर भी पिया जा सकता है। यह मीठा और तरोताज़ा करने वाला और स्वाभाविक रूप से कैफ़ीन-रहित है, जो इसे सुबह का स्फूर्तिदायक पेय नहीं बल्कि एक आसान किसी-भी-समय का पेय बनाता है।"
   where: "hawker ठेलों, मिठाई की दुकानों और रात के बाज़ारों पर मिलती है, और सबसे मशहूर रूप से KL के Chinatown में Jalan Petaling (Petaling Street) पर एक लंबे समय से चले आ रहे ठेले से, जहाँ इसे गुज़रती बाज़ार-भीड़ के लिए एक बड़े धातु डिस्पेंसर से बर्फ़-ठंडा उड़ेला जाता है।"
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "द्विभाषी बोर्ड के साथ, गहरे air mata kucing लोंगन पेय की मलेशियाई हॉकर स्टॉल की नांद"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 कुआलालंपुर के Chinatown में Petaling Street की भीड़भाड़ वाली बाज़ार-गली से क़दम रखिए और

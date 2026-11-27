@@ -18,7 +18,7 @@ keyTakeaways:
   - "Nó được các cơ quan cố vấn của UNESCO mô tả là ngọn núi cao nhất giữa dãy Himalaya và New Guinea, và là nơi cư trú của ước tính 5,000-6,000 loài thực vật có mạch bao gồm khoảng 1,000 loài lan"
 appliesTo: "Độc giả muốn có độ cao đã được kiểm chứng và tình trạng khu vực được bảo vệ của Núi Kinabalu, cùng một lời giải thích giản dị vì sao một ngọn núi granite ở Sabah lại trẻ đến vậy về mặt địa chất."
 lang: "vi"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,32 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'Vòng đỉnh granite xám rộng lớn của núi Kinabalu, sống núi lởm chởm những ngọn đá nhọn, vươn cao trên những ngọn đồi rừng xanh và hàng cây dưới bầu trời xanh trong.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: Chóp đá granit xám trơ trụi và lởm chởm của đỉnh Low, điểm cao nhất của núi Kinabalu, vươn lên sắc nét trên nền trời quang đãng phía trên cao nguyên đỉnh núi cằn cỗi.
+    kind: actual
+    origin: third-party
+    subject: Đỉnh Low (4.095 m), đỉnh cao nhất của núi Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: Cận cảnh chiếc ấm tròn có gân sâu màu đỏ cam của cây ăn thịt Nepenthes villosa, miệng ấm viền một gờ răng cưa, mọc trong khu rừng vùng cao sương mù của Vườn quốc gia Kinabalu.
+    kind: actual
+    origin: third-party
+    subject: Nepenthes villosa, một loài cây nắp ấm ăn thịt đặc hữu của vùng cao núi Kinabalu, tại Vườn quốc gia Kinabalu
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 Trong nhiều thập niên, mọi sách tham khảo đều đưa ra cùng một con số: Núi Kinabalu, đỉnh cao nhất Malaysia, cao 4,101 mét so với mực nước biển. Rồi vào năm 1997, một đội khảo sát chĩa vệ tinh vào đỉnh thay vì máy kinh vĩ, và con số thay đổi. Không phải bởi một sai số làm tròn — mà bởi sáu mét. Ngọn núi không co lại. Phép đo cũ đơn giản là đã sai, và không ai có công cụ để chứng minh điều đó cho đến khi GPS khiến sự đính chính trở nên khả thi.

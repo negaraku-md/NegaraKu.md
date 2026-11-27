@@ -42,6 +42,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "kerajaan Melayu awal", "sejarah purba Kedah", "Lang-ya-xiu", "Malaysia pra-Islam"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: 'ฐานวิหารหินทรงขั้นบันไดเตี้ยบนลานหญ้าในหุบเขาบูจัง ล้อมรอบด้วยต้นปาล์มและเนินเขาเขียวขจี'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในคริสต์ศตวรรษที่เจ็ด นักประวัติศาสตร์ราชสำนักจีนผู้เรียบเรียงคัมภีร์เหลียง (Liang Shu) ได้บันทึกสิ่งที่ทูตในยุคก่อนหน้ารายงานเกี่ยวกับอาณาจักรที่อยู่ไกลออกไปทางใต้ คือ เมืองที่มีกำแพงล้อม กษัตริย์ที่ทรงช้าง ราชสำนักที่ซึ่งเหล่าขุนนางก้มตัวพนมมือต่อหน้าพระราชาของตน นักประวัติศาสตร์ผู้นั้นเรียกที่แห่งนั้นว่า "Lang-ya-xiu" เกือบแน่นอนว่าเขากำลังบรรยายลังกาสุกะ และประโยคนั้น ซึ่งฝังอยู่ในประวัติศาสตร์ราชวงศ์ที่เรียบเรียงขึ้นเพื่อวัตถุประสงค์ที่แตกต่างกันโดยสิ้นเชิง เป็นหนึ่งในการบรรยายรายละเอียดเพียงไม่กี่ชิ้นเกี่ยวกับที่แห่งนี้ที่ยังหลงเหลืออยู่ที่ใดก็ตาม

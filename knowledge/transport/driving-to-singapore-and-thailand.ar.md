@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "سائقو السيارات الماليزيون الذين يخطّطون لقيادة سيارتهم عبر الجسر البري (Causeway) أو الرابط الثاني (Second Link) إلى سنغافورة، أو عبر الحدود البرية الشمالية إلى تايلاند."
 
 lang: "ar"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,6 +66,32 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP سنغافورة ماليزيا", "تصريح دخول المركبة سنغافورة", "القيادة إلى تايلاند من ماليزيا", "VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "ازدحام Causeway Second Link", "تأمين المركبات العابر للحدود ماليزيا", "معبر Bukit Kayu Hitam", "بطاقة Autopass سنغافورة", "PIAM Endorsement 101", "استيراد المركبة المؤقت تايلاند"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'معبر جوهور-سنغافورة (Causeway) الذي يعبر المضيق مزدحم بالمركبات، مع لوحة إعلانية "I love Johor" على الجانب الماليزي.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: جسر طريق Second Link الرابط بين ماليزيا وسنغافورة ويمتد فوق مضيق Johor بين Tanjung Kupang وTuas.
+    kind: actual
+    origin: third-party
+    subject: جسر Second Link بين ماليزيا وسنغافورة (Tuas)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: الطريق المؤدي إلى معبر Bukit Kayu Hitam البري على الحدود بين ماليزيا وتايلاند في Kedah.
+    kind: actual
+    origin: third-party
+    subject: معبر Bukit Kayu Hitam-Sadao الحدودي بين ماليزيا وتايلاند
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 جاران اثنان، وحدّان بريّان، ونظامان مختلفان تمامًا للسيارة نفسها.

@@ -29,7 +29,7 @@ faq:
     a: "州政府发出的木材执照与种植园租约，可能涵盖社群主张为习俗土地的地区。当各方对某地区是否为 NCR 土地存在分歧时，该纠纷往往交由法院裁决。"
 
 lang: "zh"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: '马来西亚砂拉越一辆满载大型热带硬木原木的卡车，沿着雨林旁一条湿滑的道路行驶。'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: 砂拉越(婆罗洲)油棕种植园覆盖已砍伐林地的鸟瞰图
+    kind: actual
+    origin: third-party
+    subject: 砂拉越昔日林地上的油棕种植园
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: 沙巴卡拉巴干一处木材堆放与装运场里堆叠的热带硬木原木
+    kind: actual
+    origin: third-party
+    subject: 沙巴卡拉巴干的木材堆场
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 一个长屋社群说，某片森林世世代代都属于它。一家木材或种植园公司持有由州政府发出、涵盖同一片土地的执照。双方都援引法律。在砂拉越与沙巴，这种冲突已在法庭上争论了二十多年——而法院对于界线究竟落在何处，并非总能取得一致。

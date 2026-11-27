@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 
 status: "published"
 aiAssisted: true
@@ -98,9 +98,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'The ornate black-and-yellow traditional timber Istana Jahar palace in Kota Bharu with a horse carriage parked on its paved forecourt.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: The long red-roofed colonial building of the Kelantan State Museum stands behind a tall palm under a clear blue sky in Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Kelantan State Museum (Muzium Negeri Kelantan), Kota Bharu
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: Traders sell fresh produce among crowded stalls inside the tiered, brightly lit Pasar Siti Khadijah central market in Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Pasar Siti Khadijah, Kota Bharu, Kelantan
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 Malaysia's economy is usually told through the factory. Kelantan is the

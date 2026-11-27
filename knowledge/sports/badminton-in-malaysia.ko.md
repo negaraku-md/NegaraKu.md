@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia는 13세부터 거의 10년간 소속되었던 BAM에서 2022년 1월 사임하여 독립 선수가 되었다. 그는 훈련에 집중하고 자신의 랭킹을 끌어올리고자 했으며, 국가대표 선수든 독립 선수든 모두 여전히 잘루르 그밀랑(말레이시아 국기)을 휘날린다고 강조했다."
 
 lang: "ko"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "badminton Malaysia"
   - "Persatuan Badminton Malaysia"
@@ -100,6 +100,32 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: '말레이시아 배드민턴 스타 리총웨이가 올림픽 경기에서 포핸드를 치기 위해 몸을 내뻗고 있다.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: 쿠알라룸푸르에 있는 악시아타 아레나 실내 경기장으로, 2017년 동남아시아 경기대회(SEA Games) 배드민턴 종목이 열린 장소다.
+    kind: actual
+    origin: third-party
+    subject: 부킷잘릴 스포츠 단지에 자리한 국립 배드민턴 경기장 악시아타 아레나
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: 말레이시아 배드민턴 선수 하피즈 하심이 2008년 말레이시아 오픈 경기 중 샷을 받으려 런지 자세를 취하는 모습.
+    kind: actual
+    origin: third-party
+    subject: 2008년 말레이시아 오픈에 출전한 말레이시아 단식 선수 하피즈 하심
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 1992년 5월, 온 나라가 잠시 멈춰 섰습니다. 쿠알라룸푸르 스타디움 느가라에서 Sidek 형제가 이끈 젊은 선수단이 인도네시아를 꺾고 토머스컵을 들어 올렸으며 — Datuk Rashid Sidek의 말처럼 "말레이시아 전체가 열광했고 모두가 배드민턴을 치고 싶어 했습니다". 30년이 지난 지금도 그 트로피는 아직 돌아오지 않았습니다. 말레이시아 배드민턴의 이야기는 초창기의 영광, 아픈 침체기, 그리고 한 나라의 희망을 어깨에 짊어진 한두 명의 챔피언에 관한 이야기입니다.

@@ -72,7 +72,7 @@ sources:
 entity: "Malaysian Accounting Standards Board (MASB)"
 wikidata: "Q141851366"
 relations: []
-related: []
+related: ["mfrs-18-presentation", "mfrs-vs-mpers", "securities-commission-malaysia"]
 keywords: ["MASB", "Conseil des normes comptables de Malaisie", "MFRS", "MPERS", "Financial Reporting Act 1997", "normes comptables approuvées Malaisie", "cadre MFRS", "Fondation d'information financière", "IFRS Malaisie", "MFRS 18", "norme d'information pour entités privées", "normes MASB force de loi"]
 framework: profile
 ---

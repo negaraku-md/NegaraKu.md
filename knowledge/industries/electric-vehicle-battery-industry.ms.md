@@ -31,7 +31,7 @@ faq:
   - q: Apakah Pelan Tindakan Mobiliti Rendah Karbon?
     a: Ia ialah pelan hala tuju 2021–2030 Malaysia untuk pengangkutan yang lebih bersih, diterajui kementerian alam sekitar dan Perbadanan Teknologi Hijau Malaysia (MGTC). Ia menetapkan sasaran untuk penggunaan EV dan infrastruktur pengecasan serta menyokong insentif cukai yang ditawarkan kepada pembeli dan pembuat EV.
 lang: ms
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - Samsung SDI
   - penggunaan EV
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Sebuah unit pengecas pantas DC berdiri di petak kenderaan elektrik bertanda di sebuah kawasan rehat lebuh raya di Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: Dua sel bateri litium-ion berbentuk silinder, satu format 18650 dan satu lagi format 21700 yang lebih besar, berdiri bersebelahan.
+    kind: representative
+    origin: third-party
+    subject: Sel bateri litium-ion berbentuk silinder
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: Pek bateri penggerak litium-ion rata sebuah kereta elektrik, dipamerkan untuk menunjukkan susun atur selnya yang bermodul.
+    kind: representative
+    origin: third-party
+    subject: Pek bateri penggerak litium-ion kenderaan elektrik
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 Malaysia telah menghabiskan setengah abad membina kereta. Kini ia cuba mengelektrikkannya — dan, sama pentingnya, membuat bateri serta membina rangkaian pengecasan yang menjadi sandaran kenderaan elektrik. Ini kisah yang berbeza daripada yang diceritakan dalam panduan kepada [industri automotif Malaysia](/industries/automotive-industry/), yang sebahagian besarnya tentang kereta petrol dan diesel. Di sini subjeknya ialah *ekosistem* EV dan bateri: kenderaan, insentif, pengecas dan kilang yang bersama-sama menentukan sepantas mana Malaysia beralih kepada mobiliti elektrik.

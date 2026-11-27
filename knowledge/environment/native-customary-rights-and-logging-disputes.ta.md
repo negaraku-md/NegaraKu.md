@@ -29,7 +29,7 @@ faq:
     a: "மாநிலத்தால் வழங்கப்படும் மரம் வெட்டு உரிமங்களும் தோட்டக் குத்தகைகளும், சமூகங்கள் வழக்காற்று நிலம் எனக் கோரும் பகுதிகளை உள்ளடக்கக்கூடும். ஒரு பகுதி NCR நிலமா என்பதில் தரப்புகள் உடன்படாத இடத்தில், அந்தப் பிணக்கு பெரும்பாலும் நீதிமன்றத்தில் தீர்மானிக்கப்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'சரவாக்கில் மழைக்காட்டின் அருகே ஈரமான சாலை வழியே பெரிய வெப்பமண்டல கடின மரக் கட்டைகளை ஏற்றிச் செல்லும் ஒரு லாரி.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: போர்னியோ, சரவாக்கில் திறக்கப்பட்ட வனநிலத்தை மூடியிருக்கும் எண்ணெய்ப் பனைத் தோட்டங்களின் வான்வழிக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: சரவாக், முன்னாள் வனநிலத்தில் அமைந்த எண்ணெய்ப் பனைத் தோட்டங்கள்
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: சபா, கலபாகானில் ஒரு மரச் சேமிப்பு மற்றும் ஏற்றுமதி முற்றத்தில் அடுக்கப்பட்ட வெப்பமண்டல கடின மரக் கட்டைகள்
+    kind: actual
+    origin: third-party
+    subject: சபா, கலபாகானில் மரக்கட்டை சேமிப்பு முற்றம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 ஒரு நீள்வீடு (longhouse) சமூகம், ஒரு பரப்பளவு காடு தலைமுறைகளாகத் தமக்குச் சொந்தமானது என்று கூறுகிறது. ஒரு மரம் வெட்டு அல்லது தோட்ட நிறுவனம், அதே நிலப்பரப்பை உள்ளடக்கிய, மாநிலத்தால் வழங்கப்பட்ட உரிமம் ஒன்றை வைத்திருக்கிறது. இருசாராரும் சட்டத்தைச் சுட்டிக்காட்டுகிறார்கள். சரவாக் (Sarawak) மற்றும் சபா (Sabah) மாநிலங்களில், அந்த மோதல் இரண்டு தசாப்தங்களுக்கும் மேலாக நீதிமன்ற அறைகளில் வாதிடப்பட்டு வருகிறது — எல்லைக்கோடு எங்கு விழுகிறது என்பதில் நீதிமன்றங்கள் எப்போதும் ஒருமித்த கருத்துடன் இருந்ததில்லை.

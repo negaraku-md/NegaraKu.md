@@ -32,7 +32,7 @@ faq:
     a: "ข้อห้ามขายคือช่วงเวลาที่คุณห้ามขายบ้านต่อโดยไม่ได้รับอนุญาต Residensi Wilayah กำหนดข้อห้ามขาย 10 ปี และ Rumah Selangorku 5 ปี เพื่อป้องกันการเก็งกำไรและทำให้แน่ใจว่าบ้านยังคงอยู่เพื่อกลุ่มเป้าหมาย"
 
 lang: "th"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,9 +84,36 @@ entity: "Skim Rumah Mampu Milik Kerajaan"
 relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "home-loan-financing" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "ministry-of-housing-local-government-kpkt", "property-agents-and-fees"]
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'แฟลตเคหะชุมชนของมาเลเซียสองอาคารสูงในบูกิตจาลิล อาคารหนึ่งสีครีมอีกอาคารสีชมพูหลังคาแดง ระเบียงแขวนผ้าซักและติดจานดาวเทียม ตั้งตระหง่านเหนือแนวต้นไม้สีเขียวใต้ท้องฟ้าสีครามสดใส'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: แถวยาวของอาคารที่พักอาศัยของรัฐสีครีมหลังคาแดงในบูกิตจาลิล แต่ละยูนิตมีตัวอักษรกำกับ มีรถจอดตามถนนในโครงการและพื้นที่สีเขียวกับเส้นขอบฟ้าเมืองอยู่ไกลออกไป
+    kind: actual
+    origin: third-party
+    subject: แถวแฟลตสูงโครงการที่อยู่อาศัยประชาชน (PPR) พร้อมที่จอดรถผู้พักอาศัยในบูกิตจาลิล กัวลาลัมเปอร์
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: อาคารอพาร์ตเมนต์ที่พักอาศัยของรัฐสีเหลืองมัสตาร์ดและขาวหลังเดียวในโกตาดามันซารา มองจากด้านล่างขึ้นสู่ท้องฟ้ามืดครึ้ม ยูนิตเหมือนกันจำนวนมากติดเหล็กดัดหน้าต่างและเครื่องปรับอากาศ กรอบด้วยกิ่งไม้
+    kind: actual
+    origin: third-party
+    subject: อาคารที่อยู่อาศัยของรัฐ PPR (Gugusan Kemuning) ในโกตาดามันซารา รัฐสลังงอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 เงินเดือนของคุณ RM4,000 ต่อเดือน และราคาบ้านทาวน์เฮาส์ในเมืองก็พุ่งถึงครึ่งล้านริงกิตแล้ว คุณควรเริ่มมองหาที่ไหน? คำตอบไม่ใช่โครงการเดียว แต่เป็นเมนูของโครงการรัฐบาลที่แต่ละโครงการมุ่งเป้าไปที่ช่วงรายได้ที่แตกต่างกัน การเลือกผิดหมายถึงการเสียเวลาหลายเดือนรอการจับสลากสำหรับบ้านที่คุณไม่มีคุณสมบัติอยู่แล้ว

@@ -33,7 +33,7 @@ faq:
     a: "Es una de las leyendas lunares del Medio Otoño más difundidas: se cuenta que Hou Yi obtuvo el elixir de la inmortalidad, y que su esposa Chang'e, en determinadas circunstancias, tomó el elixir, con lo que su cuerpo se volvió liviano y ascendió flotando hasta habitar la luna, separada del mundo humano desde entonces. El relato tiene muchas versiones con detalles distintos, y se considera por lo general una leyenda popular que explica 'la contemplación de la luna en el Medio Otoño y que alguien vive en la luna', no un hecho histórico; este artículo solo lo relata de forma breve."
 
 lang: "es"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Fijada en el decimoquinto día del octavo mes lunar, día en que la luna está más llena y brillante, símbolo de la reunión familiar; su fecha en el calendario gregoriano varía cada año según el calendario lunar y suele caer en septiembre u octubre."
   holiday: "No es fiesta pública. El Festival del Medio Otoño no es fiesta pública en Malasia ni a nivel nacional ni en ningún estado, y los comercios y los organismos gubernamentales funcionan con normalidad (a diferencia del Año Nuevo Lunar, cuyos dos primeros días son fiesta pública)."
   etiquette: "Las celebraciones públicas organizadas por las asociaciones chinas, los templos (como el templo Thean Hou de Kuala Lumpur) y las organizaciones comunitarias —veladas de faroles, representaciones artísticas y otras— suelen acoger la participación y la asistencia de residentes de otras etnias, con una dimensión de disfrute interétnico compartido."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'Una gran escultura luminosa de linterna de seda de un hombre sonriente con chaqueta púrpura y pantalones rojos que sostiene una linterna de globo azul y amarillo por la noche, con filas de linternas rojas y doradas colgantes encendidas a lo largo de un paseo detrás de él durante una celebración malaya del Festival de Medio Otoño'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: Hileras de pasteles de luna horneados de color dorado, marcados con motivos del conejo de jade y florales, dispuestos a enfriar sobre una bandeja metálica perforada, con sus brillantes superficies de masa captando la luz
+    kind: representative
+    origin: third-party
+    subject: pasteles de luna recién horneados con el conejo de jade, el alimento emblemático del Festival de Medio Otoño
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: Un farolillo de papel rojo y redondo, plegado en acordeón e impreso con estrellas blancas y la silueta de un conejo, colgado ante un follaje verde y flores rosadas; el clásico farolillo plegable de papel que llevan los niños en el Medio Otoño
+    kind: representative
+    origin: third-party
+    subject: un tradicional farolillo de papel plegable rojo del tipo que llevan los niños durante el Festival de Medio Otoño
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 Al caer la noche del decimoquinto día del octavo mes lunar, el atrio del centro comercial se llena de farolillos rojos encendidos, y en el parque de la zona residencial los niños, de dos en dos y de tres en tres, van de aquí para allá con farolillos encendidos. En la mesa de casa, una caja de pasteles de luna cortados en trozos pequeños acompaña una tetera de té caliente, con un pomelo pelado al lado. La familia saca sillas al exterior y alza la vista hacia la luna más redonda del año: esta es una típica noche de Medio Otoño en un hogar chino de Malasia.

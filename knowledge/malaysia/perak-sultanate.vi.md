@@ -19,7 +19,7 @@ keyTakeaways:
   - "Ngai vàng Perak tuân theo một cái thang xếp hạng các tước hiệu hoàng gia (Raja Muda, Raja di-Hilir, Raja Kecil Besar và thấp hơn); khi một sultan qua đời, mỗi người thừa kế tiến lên một bậc, nên vương miện luân chuyển giữa các chi nhánh thay vì truyền từ cha sang con."
 appliesTo: "Độc giả, học sinh - sinh viên và nhà nghiên cứu muốn có cái nhìn tổng quan có dẫn nguồn về lịch sử hoàng gia Perak, nguồn gốc của nền cai trị thực dân Anh tại các Bang Mã Lai, và cách thức hoạt động của vương quốc Hồi giáo luân phiên của Malaysia."
 lang: "vi"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "Niên đại chính xác khi hệ thống kế vị theo tước hiệu luân phiên lần đầu được thiết lập: các nguồn tường thuật truy nguồn gốc của nó về thế kỷ 17 nhưng không đưa ra một niên đại lập quốc có thẩm quyền duy nhất; trật tự hiện đại dựa trên một phán quyết ngày 25 tháng 2 năm 1953."
   - "Năm thành lập chính xác theo quy ước được đưa ra là 1528 (năm Mahmud Shah của Melaka qua đời tại Kampar), nhưng một số gia phả đặt lễ đăng quang của Muzaffar Shah I sớm hơn hoặc muộn hơn vài năm."
 framework: history-culture
+hero: '/media/malaysia/perak-sultanate/hero.webp'
+heroAlt: 'Một cung điện hoàng gia màu trắng được tô điểm bằng những mái vòm hình củ hành mạ vàng vươn lên phía sau hàng rào bao quanh đen trắng chạm trổ công phu trên sườn đồi xanh dưới bầu trời quang đãng.'
+heroCredit: 'Gerd Fahrenhorst / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: Một nhà thờ Hồi giáo màu trắng được tôn lên bởi một mái vòm lớn hình củ hành dát vàng, hai bên là những mái vòm mạ vàng nhỏ hơn và bốn ngọn tháp mảnh mai, lấp lánh dưới bầu trời quang đãng; thánh đường hoàng gia Ubudiah ở Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: Nhà thờ Hồi giáo Ubudiah, thánh đường hoàng gia Perak ở Kuala Kangsar, với mái vòm dát vàng
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: Một cung điện thời thuộc địa màu kem trang nghiêm với cửa sổ hình vòm, lan can trang trí và mặt tiền đối xứng được điểm những tháp canh nhỏ, nằm sau bãi cỏ dưới bầu trời trong sáng; Istana Hulu ở Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: Istana Hulu, cựu cung điện hoàng gia Perak ở Kuala Kangsar, nay là Phòng trưng bày Sultan Azlan Shah
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 Khi Melaka thất thủ trước đại bác Bồ Đào Nha năm 1511, vương triều đã làm nên danh tiếng của Eo biển không chết theo thành phố. Vị sultan cuối cùng của nó, Mahmud Shah, rút lui ngược lên quần đảo và để lại hai người con trai; một người sẽ tái lập dòng hoàng gia ở hạ lưu tại Johor, người kia sẽ mang vương miện Melaka cũ lên phương bắc, đến một thung lũng yên tĩnh được một con sông chảy xuyên qua mà những bãi cát của nó lấp lánh thiếc. Vương quốc phương bắc đó trở thành Perak, và gần năm thế kỷ sau nó vẫn được cai trị bởi cùng một huyết thống, nay bởi một sultan mà ngai vàng được truyền không phải từ cha sang con mà dọc theo một cái thang di động của các hoàng tử. Đây là câu chuyện về cách một vương triều bại trận đã sống sót, trở nên giàu có nhờ thiếc, mất chủ quyền vào tay Anh chỉ qua một hiệp ước, và trụ vững đến tận ngày nay.

@@ -38,7 +38,7 @@ verificationNeeded:
   - "ยืนยันจำนวนเขต (20) และตัวเลขพื้นที่ 4,931 เฮกตาร์กับสิ่งพิมพ์ทางการล่าสุดขององค์การปุตราจายา — รายงานประจำปี 2017 เคยบันทึกตัวเลขพื้นที่ที่แตกต่างกัน"
 
 lang: "th"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,34 @@ relations:
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
+hero: '/media/states/putrajaya/hero.webp'
+heroAlt: 'มัสยิดปุตราทรงโดมสีชมพูกุหลาบและหอสุเหร่าข้างอาคารราชการ Perdana Putra ทรงโดมสีเขียว สะท้อนในทะเลสาบที่ปุตราจายา'
+heroCredit: 'Mimihitam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: มัสยิด Putra สีชมพูและหอสุเหร่าเปล่งประกายในช่วงเวลาทอง สะท้อนอย่างสมบูรณ์บนผิวน้ำอันสงบนิ่งของทะเลสาบ Putrajaya
+    kind: actual
+    origin: third-party
+    subject: มัสยิด Putra สะท้อนบนผืนน้ำนิ่งของทะเลสาบ Putrajaya ในช่วงเวลาทอง
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: สะพาน Seri Wawasan สีขาวทันสมัยที่มีเสาเอียงคล้ายใบเรือและสายเคเบิลกางออกเป็นพัดข้ามทะเลสาบในปุตราจายา (Putrajaya)
+    kind: actual
+    origin: third-party
+    subject: สะพาน Seri Wawasan รูปทรงใบเรือทอดข้ามทะเลสาบในปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ในปี 1999 สำนักนายกรัฐมนตรีย้ายออกจากกัวลาลัมเปอร์ เมืองหลวงไม่ได้เปลี่ยน — สิ่งที่ย้ายคือกลไกการบริหารของมัน

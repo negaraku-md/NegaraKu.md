@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,32 @@ stayFacts:
   cost: '固定された数値ではなく、構造でとらえること。公共医療は市民と永住者には大幅に補助される一方、外国人は非市民向けの料金表のもとで相当に多く支払い、私立医療は施設が請求する額を自己負担または保険で支払う。正確なリンギットの金額はFees (Medical) Orderのもとで定められ定期的に改定されるため、引用された数字に依拠する前に、MOHが公表する同令で、または医療提供者に直接、現行の料金を確認すること。'
   watch: '市民向けの補助は外国人には及ばない——PeKa B40、MySalam、及び市民向け料金表は、市民権またはB40現金援助の受給資格に紐づいているため、私的保険を前提に計画すること（なお、証書を持つ外国人労働者は、就労許可を更新するために、雇用主が手配するSPIKPA入院保険への加入が義務づけられている）。'
   next: '自分がどの区分に該当するか（外国人労働者、外国人駐在員、または旅行者）を見極め、現地の制度に頼る前に適切な保障を整えること。詳細は関連ガイドの「マレーシアの医療保険」「私立病院と費用」、及び「Klinik Kesihatan」を参照。'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'Kuala Lumpur Hospital の専門・デイ治療棟の外観で、赤新月の紋章のあるマレーシアの政府病院である。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: サバ州コタキナバルで道路から見た、大規模で多層階のマレーシア政府病院の建物群
+    kind: actual
+    origin: third-party
+    subject: クイーン・エリザベス病院、サバ州コタキナバルにある大規模なマレーシア政府病院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: ペナン州ジョージタウンにある大規模なマレーシア政府病院の複数棟からなる建物群を上空から見た様子。背後に都市のスカイライン
+    kind: actual
+    origin: third-party
+    subject: ペナン総合病院（Hospital Pulau Pinang）、ペナン州ジョージタウンにある大規模なマレーシア政府病院
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 胸の痛みを訴えるマレーシア人の年金生活者が救急車を呼び、最寄りの政府病院に搬送される。そこで循環器専門医の診察を受けるが、その費用は実際のコストのごく一部にすぎない。彼の隣人、同じ症状を抱えるインドネシア出身の就労許可保持者も、同じ病院の救急部門に搬送される——だが、そのあとに届く請求書はまったく別の料金表にもとづいて計算される。なぜなら、保健省の目から見れば、この二人は同じ種類の患者ではないからである。

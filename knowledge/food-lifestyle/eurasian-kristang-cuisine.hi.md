@@ -87,6 +87,14 @@ verificationNeeded:
   - "sugee केक की व्युत्पत्ति और वर्गीकरण (सूजी और मक्खन से बना एक उत्सव-केक; इसका नाम आमतौर पर सूजी के लिए दक्षिण एशियाई शब्द से जोड़ा जाता है और रेसिपी ब्रिटिश Madeira केक से तुलना की जाती है) — किसी पाक-इतिहास स्रोत से पुष्टि करें।"
   - "Portuguese Settlement का स्थापना-वर्ष (आमतौर पर 1933 बताया जाता है) और यह दावा कि pang susi तथा अंतड़ी वाले व्यंजन जैसे कई घरेलू व्यंजन दुर्लभ होते जा रहे हैं — किसी प्राथमिक या विरासत स्रोत से पुष्टि करें।"
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'एक सफ़ेद प्लेट पर काँटे के साथ सुनहरी परत वाला नम सूजी केक का एक टुकड़ा'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 मलक्का की किसी मलय रसोई में करी मँगाइए, तो आपको नारियल और लेमनग्रास का स्वाद मिलता

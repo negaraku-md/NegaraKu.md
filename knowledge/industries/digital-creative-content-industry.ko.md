@@ -31,7 +31,7 @@ faq:
   - q: "말레이시아에서 e스포츠는 어떻게 지원되는가?"
     a: "e스포츠는 경쟁 종목으로 인정되며 SEA Games에서 정식 종목으로 치러졌다. 2020년 예산은 RM20 million을 배정했고, KBS는 2020년 Esports Integrated를 설립해 국가 e스포츠 로드맵과 선수 육성을 추동했다."
 lang: ko
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -106,6 +106,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: '격자가 그려진 캡처 스테이지, 트러스에 설치된 머리 위 카메라 리그, 여러 대의 모니터를 갖춘 오퍼레이터 워크스테이션이 있는 모션 캡처 제작 스튜디오.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: 개방형 비디오 게임 개발사 스튜디오 플로어에서 멀티 모니터 책상에 앉아 작업하는 개발자들.
+    kind: representative
+    origin: third-party
+    subject: 비디오 게임 개발 스튜디오 플로어
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: 콘텐츠 크리에이터의 작업 공간에서 디지털 페인팅이 표시된 모니터 앞에 놓인 그래픽 태블릿과 스타일러스.
+    kind: representative
+    origin: third-party
+    subject: 디지털 페인팅을 제작하는 디지털 아티스트의 작업 공간
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 Les' Copaque의 _Upin & Ipin Universe_가 **2025년 7월 17일** 전 세계 콘솔에 도달했을 때, 그것은 장난꾸러기 쌍둥이에 관한 짧은 애니메이션 시리즈로 시작된 고리를 닫았다. 말레이시아 만화가 세계적으로 출시된 비디오 게임이 된 것이다 - 그리고 이 나라의 디지털 크리에이티브 콘텐츠 산업이 20년에 걸쳐 조용히 쌓아 올린 것의 깔끔한 예시다.

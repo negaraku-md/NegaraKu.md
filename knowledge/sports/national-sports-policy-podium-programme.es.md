@@ -35,7 +35,7 @@ faq:
     a: "Los objetivos están vinculados al ciclo de los grandes juegos —los Juegos Olímpicos, los Juegos Asiáticos y los Juegos de la Commonwealth— y se da prioridad a los deportes identificados como de alta probabilidad de éxito, en consonancia con el Objetivo 8 de la Política Nacional del Deporte. La financiación se canaliza de forma cíclica (por ejemplo, RM60 millones al año durante cuatro años), coordinada por el Consejo Nacional del Deporte y respaldada por la ciencia deportiva del Instituto Nacional del Deporte."
 
 lang: "es"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "institut-sukan-negara" }
   - { rel: "part-of", to: "dasar-sukan-negara-2009" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-day-malaysia"]
 keywords:
   - "Dasar Sukan Negara 2009"
   - "Program Podium Malaysia"
@@ -93,6 +93,32 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'Gimnastas medallistas de pie en el podio en los Juegos del Sudeste Asiático de Kuala Lumpur 2017 mientras una atleta malasia sostiene la bandera nacional.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: El jugador malasio de para bádminton Cheah Liek Hou, con la equipación amarilla de Malasia, avanzando hacia la red durante la final de individuales SU5 masculino en los Juegos Paralímpicos de París 2024.
+    kind: actual
+    origin: third-party
+    subject: El atleta de élite malasio Cheah Liek Hou compitiendo en los Juegos Paralímpicos de París 2024
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: El Pandelela Rinong Aquatic Centre en Kuching, un moderno recinto rojo y verde de saltos y natación que lleva el nombre de la medallista olímpica malasia de saltos.
+    kind: representative
+    origin: third-party
+    subject: El Pandelela Rinong Aquatic Centre, un recinto deportivo de élite malasio que lleva el nombre de una medallista olímpica
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 Cada vez que un atleta malasio sube al podio olímpico, en realidad hay dos sistemas distintos trabajando tras él: uno que intenta poner en movimiento a toda la población, y otro que concentra enormes recursos en el pequeño puñado de personas capaces de ganar. Ambos viven bajo el mismo documento de política, pero se financian y se miden de formas muy diferentes.

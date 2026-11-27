@@ -27,7 +27,7 @@ faq:
     a: "บ้านมลายูโดยทั่วไปรองรับครอบครัวเดียว ขณะที่บ้านยาว (rumah panjang) รองรับหลายครอบครัวในสิ่งปลูกสร้างที่ทอดยาวหลังเดียว — แต่ละครอบครัวมีห้อง (bilek) ของตนเอง โดยใช้ระเบียงส่วนกลางที่เรียกว่ารูอาย (ruai) ร่วมกัน"
 
 lang: "th"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -62,9 +62,37 @@ sources:
 relations:
   - { rel: "related-to", to: "sarawak-longhouse" }
   - { rel: "related-to", to: "malay-woodcarving" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: 'วังมลายูไม้ทรงแปดเหลี่ยมวิจิตรพร้อมหลังคามุงกระเบื้องไม้ลดหลั่นสูงชัน ผนังเป็นไม้ไผ่สานลายข้าวหลามตัดสีดำ ขาวและทอง หน้าต่างลายขัดและสาหร่ายแกะสลักปิดทอง ตั้งบนสนามหญ้าใต้ท้องฟ้าครึ้ม'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: บ้านกัมปงไม้สีน้ำตาลเข้มยกพื้นบนเสาไม้ พร้อมหลังคาจั่วลาดชัน ชายคาหยักสลัก ผนังไม้แบบแผ่น และบันไดภายนอกขึ้นสู่ระเบียง ล้อมกรอบด้วยพรรณไม้สีเขียว
+    kind: actual
+    origin: third-party
+    subject: บ้านมลายูไม้ยกใต้ถุน (รูมะฮ์เมอลายู) แบบดั้งเดิม พร้อมหลังคาจั่วลาดชัน แผ่นหน้าจั่วสลัก และระเบียงยกพื้นที่ขึ้นด้วยบันไดไม้
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: พระราชวังมลายูไม้ยกพื้นยาวพร้อมหลังคาทรงมีนังกาเบาที่โค้งขึ้นจรดปลายแหลม ผนังไม้สีเข้มแบบแผ่นพร้อมหน้าต่างลูกกรง ตั้งอยู่บนเสาสลัก ข้างป้ายที่เขียนว่า Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: พระราชวังไม้เนอเกอรีเซิมบีลันอิสตานาอัมปังติงกีพร้อมหลังคาจั่วทรงเขาควายแบบมีนังกาเบาที่โค้งขึ้น
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 ยกบ้านหมู่บ้านเก่าหลังหนึ่งขึ้น ถอดจุดเชื่อมต่อของมันออก แล้วประกอบใหม่ที่พื้นที่ใหม่ — ส่วนใหญ่โดยไม่ต้องมีฐานคอนกรีตที่ตายตัว นั่นคือความชาญฉลาดของสถาปัตยกรรมมลายูดั้งเดิม บ้านที่ "อ่าน" ภูมิอากาศเขตร้อนได้ตั้งแต่ก่อนจะมีเครื่องปรับอากาศ

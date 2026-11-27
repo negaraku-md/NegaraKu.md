@@ -18,7 +18,7 @@ keyTakeaways:
   - "술탄 제도는 아홉 명의 말레이 통치자, 통치자 회의(Majlis Raja-Raja), 그리고 양 디페르투안 아공(Yang di-Pertuan Agong, 국왕)을 통해 헌법 안에서 이어지고 있습니다"
 appliesTo: "전통 말레이 술탄 제도의 구조와 역할, 그리고 그것이 오늘날의 입헌군주 제도와 어떻게 이어지는지 이해하고자 하는 모든 이."
 lang: "ko"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -61,6 +61,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: '대나무를 엮은 벽과 가파른 기와지붕, 조각된 박공을 갖춘 전통 말레이 목조 궁전이 밝은 하늘 아래 서 있다.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: '''Istana Negara''라고 새겨진 이스타나 느가라의 화려한 금빛 돔 의전 문루가 밝은 햇살 속에 서 있고, 뒤편 녹색 언덕에는 왕궁의 금빛 돔 건물들이, 그 너머로는 쿠알라룸푸르의 스카이라인이 펼쳐져 있다.'
+    kind: actual
+    origin: third-party
+    subject: 이스타나 느가라(Istana Negara), 쿠알라룸푸르 잘란 투안쿠 압둘 할림(잘란 두타)에 있는 국립 왕궁
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: 길쭉한 의전용 말레이 크리스(keris)가 가느다란 칼집과 나란히 박물관 전시대 위에 놓여 있고, 옆에는 'Keris Alang Pahang'이라고 인쇄된 라벨이 붙어 있다.
+    kind: actual
+    origin: third-party
+    subject: 파항의 크리스 알랑, 권위를 상징하는 왕실 의전용 크리스(keris)
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 서류도, 양식도, 번호가 붙은 부서도 없는 한 나라를 상상해 보십시오. 명령은 말로 전해지고, 정의는 궁정의 알현실에서 내려지며, 사회 전체의 질서가 현대어로 정확히 옮길 수 없는 한 단어에 달려 있습니다. 바로 *다울랏(daulat)*입니다. 그것이 말레이 술탄국의 세계였습니다. 수 세기 동안 해안과 강을 따라 수천의 삶을 짜 맞춘 체계이자, 그 그림자가 오늘날 말레이시아 헌법에서도 여전히 보이는 체계입니다.

@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: '夕暮れ時のスランバンの、ライトアップされた「Arden Hill Precinct 2」と書かれたゲーテッドコミュニティの入口アーチで、警備小屋と遮断バーがある。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hillは、スレンバンのForest Heights住宅団地内にある高級ゲーテッドコミュニティで、単一の管理された外周の内側に有地住宅を配している。
+    kind: actual
+    origin: third-party
+    subject: スレンバン、Forest HeightsのArden Hill高級ゲーテッドコミュニティ
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: 有地住宅と手入れされた緑が、ジョホール州イスカンダル・プトリのHorizon Hillsゲート＆ガード式住宅団地を満たす。警備が管理する大規模な住宅エンクレーブだ。
+    kind: actual
+    origin: third-party
+    subject: ジョホール州イスカンダル・プトリのHorizon Hillsゲーテッド住宅団地
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 二つの住宅地が、まったく同じに見えることがある——レンガ造りの守衛所、縞模様のブームゲート、あなたのステッカーを確認する制服姿の警備員。一方は堅固な法的基盤の上に立っている。もう一方は、まだ誰も異議を唱えていないという理由だけで存在している。

@@ -28,7 +28,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "facadf452f025faf"
+sourceContentHash: "525c926fd5a341fa"
 status: "archived"
 aiAssisted: true
 reviewer: null
@@ -66,6 +66,24 @@ wikidata: "Q14933204"
 relations: []
 related: []
 keywords: ["MITI", "Ministry of Investment Trade and Industry", "MITI Malaysia", "Kementerian Pelaburan Perdagangan dan Industri", "MITI agencies", "MIDA", "MATRADE", "MPC", "MITI minister", "NIMP 2030", "Ministry of International Trade and Industry", "KPDN"]
+hero: '/media/government/ministry-of-investment-trade-industry-miti/hero.webp'
+heroAlt: 'Pandangan sudut rendah Menara MITI, sebuah menara pejabat berkaca biru melengkung tinggi dengan mahkota meruncing, menjulang bertentangan langit berawan nipis di Kuala Lumpur'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_MITI,_Segambut_20230304_115907.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MITI, the Ministry of Investment, Trade and Industry tower at KL Metropolis, Segambut, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/government/ministry-of-investment-trade-industry-miti/body-1.webp
+    alt: 'Pandangan aras jalan daerah perdagangan KL Metropolis: menara kaca biru tinggi Menara MITI di sebelah kanan bersebelahan bangunan pameran gelap besar dengan bukaan bergerbang monumental, di bawah langit mendung'
+    kind: actual
+    origin: third-party
+    subject: Menara MITI (kanan) bersebelahan kompleks pameran bergerbang MITEC / MATRADE di KL Metropolis, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
 ---
 
 Perhatikan empat huruf itu dengan teliti dan anda akan nampak helahnya: **MITI** dahulu bermaksud Kementerian Perdagangan *Antarabangsa* dan Industri (Ministry of *International* Trade and Industry). Sejak April 2023, ia bermaksud Kementerian **Pelaburan**, Perdagangan dan Industri (Bahasa Malaysia: *Kementerian Pelaburan, Perdagangan dan Industri*) — akronim yang sama, satu perkataan yang berubah, mandat yang sedikit berubah. Inilah kementerian persekutuan Malaysia bagi pelaburan, perdagangan antarabangsa dan dasar perindustrian, dan halaman ini menerangkan apa yang dilakukannya, siapa yang menerajuinya, dan bagaimana ia berbeza daripada agensi-agensinya sendiri.

@@ -30,7 +30,7 @@ faq:
     a: "JPJ에 따르면, 발부일로부터 60일 이내에 해결되지 않은 AwAS 통지서는 법원 조치로 이어질 수 있으며, 유죄가 확정되면 RM300에서 RM2,000 사이의 벌금이 부과됩니다."
 
 lang: "ko"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: '번잡한 쿠알라룸푸르 시내 교차로에서 말레이시아 교통경찰관이 흰색 “POLIS” 순찰 오토바이 옆에 서서 무언가를 적고 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: 제복을 입은 경찰관들이 도로의 검문소에 서서, 차량이 검문소에서 속도를 줄여 멈추는 동안 차량을 점검하고 있다.
+    kind: actual
+    origin: third-party
+    subject: 경찰관이 차량을 세워 검문하는 말레이시아의 검문소
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: 반사 조끼와 헬멧을 착용한 말레이시아 교통경찰관이 도심 거리에 서서 지나가는 차량을 통제하고 있다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 거리에서 교통정리를 하는 교통경찰관
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 한 운전자가 서류상 비슷해 보이는 네 종류의 딱지를 받을 수 있습니다 — 그러나

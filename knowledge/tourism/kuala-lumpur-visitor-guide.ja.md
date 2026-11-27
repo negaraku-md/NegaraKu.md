@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 
 status: "published"
 aiAssisted: true
@@ -94,9 +94,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: '短く手軽な都市滞在を望む初めての海外からの訪問者、そしてマレーシアの他の地域へ向かう前にクアラルンプールを拠点として使う旅行者に。'
+  getThere: 'Kuala Lumpur International Airport（KLIA）からKLIA Ekspres列車にノンストップで乗り、交通ハブのKL Sentralまで行き、そこからMRT、LRT、モノレール、あるいはGrabで先へ乗り継ぐ。'
+  permit: 'Petronas Twin Towersの入場は1日ごとの人数上限がある時間指定チケット制のため、当日の飛び込みに頼らず、事前にオンラインで予約すること。'
+  watch: '市中心部の交通はピーク時に混雑するため、市内を横断する移動では列車のほうが車より速いのが普通である。'
+  next: 'Petronas Twin Towersの現在の開場時間とチケット情報は、PETRONAS Twin Towersの公式サイト（petronastwintowers.com.my）で確認すること。'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: '黄金色の夕焼け空の下、クアラルンプール中心部の上にそびえるライトアップされたペトロナス・ツインタワー'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: クアラルンプール中心部のスルタン・アブドゥル・サマド・ビルと、ヤシの木が並ぶムルデカ広場の芝生
+    kind: actual
+    origin: third-party
+    subject: スルタン・アブドゥル・サマド・ビルとムルデカ広場
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: 夜、クアラルンプールのチャイナタウンのプタリン通りの市場の上に連なって灯る、赤い中国のランタン
+    kind: actual
+    origin: third-party
+    subject: 夜のプタリン通りチャイナタウンの赤いランタン
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 夜明けにクアラルンプール国際空港に降り立てば、1時間以内に、かつて世界の摩天楼を支配した2本の銀色のタワーの足元に立つことができる——レンタカーも、複雑な計画も要らず、ただ列車1本とタップ式のカード1枚だけでよい。この手軽さこそがクアラルンプールの真骨頂である：ここはマレーシアの玄関口であり、主要な見どころが短い鉄道の乗車で隣り合う、コンパクトで安価な首都であり、そしてこの国のほぼすべての次なる旅がここから始まる。

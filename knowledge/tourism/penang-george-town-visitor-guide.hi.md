@@ -36,7 +36,7 @@ faq:
     a: "पिनांग एक गर्म, आर्द्र उष्णकटिबंधीय जलवायु वाला साल भर का गंतव्य है। बारिश किसी भी महीने में हो सकती है पर मानसून के बीच की अवधि (मोटे तौर पर अप्रैल–मई और सितंबर–नवंबर) के आसपास सबसे भारी होती है; दिसंबर से फरवरी के आसपास की सूखी, ठंडी खिड़की लोकप्रिय है। सुबह और देर दोपहर पैदल चलने के लिए सबसे आरामदायक समय हैं।"
 
 lang: "hi"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["पिनांग यात्रा गाइड", "Penang travel guide", "जॉर्ज टाउन यूनेस्को", "George Town UNESCO", "पिनांग स्ट्रीट आर्ट", "Penang street art", "पिनांग हिल फ़्यूनिक्युलर", "Penang Hill funicular", "पिनांग हॉकर भोजन", "जॉर्ज टाउन विरासत केंद्र", "Batu Ferringhi", "पिनांग में करने योग्य चीज़ें"]
 framework: explainer
+visitFacts:
+  bestFor: 'ऐसे यात्रियों के लिए जो शॉपहाउसों, वंश-गृहों (clan houses), Ernest Zacharevic की स्ट्रीट आर्ट और बहुसांस्कृतिक हॉकर भोजन के एक पैदल-चलने योग्य UNESCO विरासत केंद्र को पैदल घूमना चाहते हैं।'
+  getThere: 'George Town के दक्षिण में Penang International Airport तक उड़ान भरें, या Penang Bridge और Sultan Abdul Halim Muadzam Shah Bridge के रास्ते स्थल मार्ग से द्वीप तक पहुँचें, या Butterworth से George Town जलतट तक Rapid Ferry लें।'
+  watch: 'स्ट्रीट आर्ट को पूरी कहानी के बजाय एक प्रवेशद्वार मानें, क्योंकि वंश-गृह, मंदिर और शॉपहाउस की गलियाँ ही वे चीज़ें हैं जिन्हें UNESCO सूचीकरण वास्तव में संरक्षित करता है।'
+  next: 'वर्तमान फ़्युनिक्युलर समय-सारणियाँ और नियम Penang Hill Corporation से पुष्ट करें।'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: Penang के George Town में रंगीन विरासत shophouse और कैफ़े से घिरी Armenian Street के ऊपर लटकी लाल चीनी लालटेनें
+    kind: actual
+    origin: third-party
+    subject: Armenian Street, George Town
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: Penang के George Town में विरासत इमारतों के सामने कतार में खड़ी फूलों और छतरियों से चमकीले ढंग से सजी यात्री ट्राइशॉ की एक पंक्ति
+    kind: actual
+    origin: third-party
+    subject: George Town की ट्राइशॉ
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 द्वीप पर उतरें, वातानुकूलन से बाहर क़दम रखें, और पहली चीज़ जो आपको टकराती है वह है गंध — कड़ाही का धुआँ, किसी चीनी मंदिर से उठती धूप की सुगंध, फ्रैंजीपानी, और मलक्का जलडमरूमध्य का नमक। जॉर्ज टाउन एक ऐसी जगह है जिसे आप अपने पैरों से पढ़ते हैं: सदी भर पुराने शॉपहाउसों की एक सघन ग्रिड, जहाँ एक मस्जिद, एक कुल-गृह और एक औपनिवेशिक गिरजाघर एक ही ब्लॉक साझा कर सकते हैं। यह गाइड बताता है कि क्या देखें, कहाँ खाएँ, समुद्र तटों और पहाड़ी तक कैसे पहुँचें, और धीमेपन को पुरस्कृत करने वाले शहर को कितना समय दें।

@@ -32,7 +32,7 @@ faq:
     a: "EU 삼림파괴방지규정은 2020년 12월 31일 이후 삼림이 파괴되지 않은 토지에서 재배된 경우에만 제품을 '삼림파괴 없음'으로 정의합니다(Regulation (EU) 2023/1115, 제2조). 이는 필지 단위 위치 정보 — 4헥타르를 초과하는 필지는 폴리곤 지도, 4헥타르 이하의 필지는 단일 GPS 지점이 허용됨 — 를 요구하는데, 작고 종종 고령인 외진 농가가 스스로 만들어 내기에는 기술적으로 어렵습니다."
 
 lang: "ko"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: '말레이시아 머싱에서 완만한 구릉지를 뒤덮은 어린 기름야자 농장.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: 사바주 테놈 지구에서 다 자란 기름야자 사이로 긴 낫 장대를 둘러멘 수확 작업자와 바닥에 놓인 갓 잘라낸 신선 열매송이
+    kind: actual
+    origin: third-party
+    subject: 사바주 테놈에서 다 자란 기름야자 사이로 수확용 장대를 멘 농장 작업자
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: 사바주 키마니스 농원 기름야자 수관에서 붉은빛을 띠며 익어가는 신선 열매송이 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 사바주 키마니스 농원의 기름야자에서 익어가는 신선 열매송이
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 자기 기름야자 필지의 모든 경계를 기억만으로 걸을 수 있는 빈툴루(Bintulu)의 한 농가는 이제 유럽의 구매자가 그의 과일에 손을 대기 전에 그 "머릿속 지도"를 GPS 폴리곤으로 바꿔야 합니다. 그 간극 — 자기 땅을 아는 것과 감사인이 만족하도록 그것을 문서화하는 것 사이의 — 이 말레이시아 소규모 자작농 팜유 경제 뒤의 조용한 이야기입니다.

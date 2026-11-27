@@ -36,7 +36,7 @@ faq:
     a: "根据《1949年印花税法令》（Akta Setem 1949），印花税为贷款总额的0.5%。例如，RM450,000的贷款须缴付RM2,250的印花税。缴款须在协议签署之日起30天内完成。"
 
 lang: "zh"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: '吉隆坡一栋马来西亚银行大楼外绿化广场上的红色 Public Bank Berhad 和 Public Investment Bank 招牌。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: 芙蓉市中心一排店屋（shoplot）上渣打银行（Standard Chartered）分行的街景
+    kind: representative
+    origin: third-party
+    subject: 森美兰芙蓉主街上的渣打银行（Standard Chartered）分行
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: 柔佛居銮（Kluang）一排店屋上马来西亚慕阿马拉银行（Bank Muamalat，伊斯兰银行）分行的街景
+    kind: representative
+    origin: third-party
+    subject: 柔佛居銮的马来西亚慕阿马拉银行（Bank Muamalat，伊斯兰银行）分行
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 心仪的房子也许标价RM450,000，但在银行确信你有能力在未来30年内还清之前，它是不会把这笔钱交给你的。按揭融资的世界正是从这里开始——融资额度、偿债比率、保险、公积金储蓄和印花税，这一切都决定着那把房门钥匙能否落入你的手中。

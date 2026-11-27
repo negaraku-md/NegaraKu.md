@@ -83,6 +83,14 @@ drinkFacts:
   halal: "Lassi is yogurt, water or milk, and sugar or fruit — meat-free and non-alcoholic — so it is vegetarian and, in itself, halal, and a natural partner to vegetarian banana-leaf meals. Halal assurance attaches to the premises, so diners needing certification should check the individual restaurant."
   served: "Served cold, often in a tall glass, frothy from blending. Order it sweet, salted or as mango (or another fruit) lassi; it is a classic accompaniment to a spicy curry or a banana-leaf-rice meal, cooling the palate between bites."
   where: "Found at Indian restaurants, banana-leaf-rice houses, dedicated lassi stalls and many mamak outlets across the country, especially where South Indian and North Indian food is served."
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Creamy white iced yogurt lassi in a patterned cup with a straw"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 Sit down to a fiery plate of banana-leaf rice or a rich North Indian curry, and the

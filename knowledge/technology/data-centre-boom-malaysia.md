@@ -101,6 +101,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'A wall of server racks in a data centre, each row lit by rows of bright blue indicator lights receding into the dark'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: A narrow aisle running between two walls of tall black server cabinets, the rows converging toward a lit doorway at the far end
+    kind: representative
+    origin: third-party
+    subject: Symmetrical aisle between tall black server cabinets in a university data centre
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: Aerial view of a data-centre campus at dusk, with long rows of rooftop cooling units and an adjacent building still under construction
+    kind: representative
+    origin: third-party
+    subject: Aerial view of rooftop cooling units at a large data-centre campus under construction
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 In under three years, a strip of southern Johor across the causeway from Singapore has become one of the most sought-after places on earth to plug in a server. Cloud giants, colocation operators and AI start-ups have poured in — and now Malaysia is discovering that the power lines and water pipes underneath the boom have limits.

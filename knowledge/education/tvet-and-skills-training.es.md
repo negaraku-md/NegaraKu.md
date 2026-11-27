@@ -19,7 +19,7 @@ keyTakeaways:
   - "Los Colegios Comunitarios se centran en certificados de nivel inferior con un ingreso más flexible, mientras que los Politécnicos se centran en diplomas; ambos están supervisados por el JPPKK bajo el Ministerio de Educación Superior"
 appliesTo: "Estudiantes tras el Form 3 o el SPM, padres que planifican la carrera de su hijo y trabajadores adultos que desean certificar competencias existentes a través del SKM."
 lang: "es"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'La entrada y el letrero del Kolej Vokasional Sungai Buloh, un colegio vocacional malasio de formación técnica y profesional (TVET).'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: El vestíbulo central cubierto del Montfort Youth Training Centre, un campus de formación en competencias profesionales en Kinarut, Sabah, con una pancarta en el escenario que reza 'Through Work Achieve Success'.
+    kind: actual
+    origin: third-party
+    subject: Interior de un centro malasio de formación juvenil en competencias
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: Un paso de entrada cubierto y curvo y un bloque académico moderno en el Politeknik Kota Kinabalu, en Sabah.
+    kind: actual
+    origin: third-party
+    subject: Un campus de instituto politécnico malasio (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 Muchos estudiantes de Form 3 y sus padres solo ven un camino después de la

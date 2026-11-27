@@ -33,7 +33,7 @@ verificationNeeded: []
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 
 status: "published"
 aiAssisted: true
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "Klang Valley economy"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: '莎阿南深蓝色暮空下，灯光璀璨的蓝色圆顶苏丹沙拉胡丁阿都阿兹清真寺及其四座高耸的尖塔熠熠生辉。'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: 灯塔矗立在美拉华提山这座历史悠久的山顶堡垒上，俯瞰着雪兰莪的瓜拉雪兰莪。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪美拉华提山上的瓜拉雪兰莪灯塔
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: 雪兰莪莎阿南i-City主题公园内，树木与步道闪耀着彩色的LED灯光。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪莎阿南i-City灯光公园
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 雪兰莪是马来西亚经济默默运转所依靠的那个州属。它完全环绕着联邦首都吉隆坡与行政首都布城，三者共同构成巴生谷——全国最大的城市与工业连绵区。

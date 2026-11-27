@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang memerlukan fakta dasar Malaysia — populasi, luas, ibu kota, mata uang, bahasa, PDB — dengan setiap angka disandarkan pada rilis resmi tertentu yang menerbitkannya, dan bukan ringkasan tanpa sumber."
 
 lang: "id"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'Kaki langit Kuala Lumpur yang bercahaya pada malam hari, didominasi oleh Menara Kembar Petronas dan gedung-gedung pencakar langit di sekitarnya.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: Sebuah jalan jajanan pasar malam yang ramai bercahaya di bawah lampion kertas merah saat pengunjung memenuhi meja plastik merah di samping warung kaki lima dan sebuah gerobak durian.
+    kind: actual
+    origin: third-party
+    subject: Jalan jajanan kaki lima malam Jalan Alor, Kuala Lumpur
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: Perbukitan berselimut hutan tanpa ujung memudar menjadi kabut biru di bawah langit mendung, dilihat melintasi kanopi hutan hujan lebat dari sebuah tanah lapang di puncak bukit.
+    kind: actual
+    origin: third-party
+    subject: Perbukitan hutan hujan Taman Negara dilihat dari Bukit Terisek, Pahang
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Tanyakan "berapa besar Malaysia" atau "berapa populasi Malaysia" dan Anda akan mendapat jawaban berbeda-beda bergantung pada situs web mana yang Anda kunjungi — ada yang mengutip angka sensus 2020, ada yang mengutip perkiraan Bank Dunia yang sudah dua revisi tertinggal. Halaman ini ada untuk membetulkan keadaan itu: setiap angka di bawah berasal dari rilis resmi bernama, bertanggal, agar Anda dapat melihat dengan tepat betapa terkininya ia dan memeriksanya sendiri.

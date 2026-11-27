@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 
 status: "published"
 aiAssisted: true
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "badminton Malaysia"
   - "Persatuan Badminton Malaysia"
@@ -100,6 +100,32 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'マレーシアのバドミントン・スター、リー・チョンウェイがオリンピックの試合でフォアハンドを打つために踏み込む。'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: クアラルンプールにあるアシアタ・アリーナの屋内スタジアム。2017年東南アジア競技大会（SEA Games）のバドミントン会場として使用された。
+    kind: actual
+    origin: third-party
+    subject: アシアタ・アリーナ。ブキ・ジャリル・スポーツ複合施設にある国立バドミントン会場
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: マレーシアのバドミントン選手ハフィズ・ハシムが、2008年マレーシア・オープンの試合中にショットへ踏み込む様子。
+    kind: actual
+    origin: third-party
+    subject: 2008年マレーシア・オープンに出場するマレーシアのシングルス選手ハフィズ・ハシム
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 1992年5月、国全体が一瞬息を止めた。クアラルンプールのスタジアム・ネガラで、シデック（Sidek）三兄弟に率いられた若者たちのチームがインドネシアを破り、トマス杯を掲げた——そしてダトゥ・ラシド・シデックが言うように、「マレーシア中が沸き立ち、誰もがバドミントンをやりたがった」のだ。それから三十年、このトロフィーはいまだ戻ってきていない。マレーシアのバドミントンの物語は、初期の栄光、痛みを伴う不作、そして国の希望を双肩に背負ったひとり二人の王者の物語である。

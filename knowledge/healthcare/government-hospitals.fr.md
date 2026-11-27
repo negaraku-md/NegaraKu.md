@@ -27,7 +27,7 @@ verificationNeeded:
   - "L'exonération/réduction de frais spécifique pour les citoyens âgés de 60 ans et plus — largement rapportée comme une exonération des frais d'inscription de RM5 à la consultation de spécialistes et une réduction de 50 % sur les frais de Classe 3 — n'a pas pu être confirmée directement sur le site officiel moh.gov.my (403 Forbidden lors de la tentative d'accès), de sorte que ces chiffres ne sont délibérément pas présentés comme des faits confirmés ; seul le mécanisme est décrit en termes généraux."
   - "Les statistiques de délais d'attente (par exemple le nombre moyen de jours/heures pour un rendez-vous de spécialiste ou une chirurgie programmée) ne sont pas indiquées, car aucun chiffre officiel vérifiable du KKM n'a pu être trouvé au moment de la rédaction ; la réalité des délais d'attente est décrite de manière qualitative uniquement."
 lang: "fr"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,33 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hôpital public Malaisie", "frais hôpital public", "système d'orientation hospitalière", "frais salle Classe 3", "frais non-citoyens hôpital", "Akta Fee 1951", "hôpital spécialisé d'orientation", "délais d'attente hôpital public"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'L''extérieur du bloc des spécialistes et de l''hôpital de jour du Hospital Kuala Lumpur, un hôpital public malaisien, avec un emblème du croissant rouge sur la façade blanche'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: Le bâtiment moderniste rose de la maternité de l'Hospital Kuala Lumpur, aperçu entre les arbres, avec les tours de la ville de Kuala Lumpur au loin
+    kind: actual
+    origin: third-party
+    subject: Bloc de la maternité (Hospital Bersalin) à l'Hospital Kuala Lumpur, avec la ligne d'horizon du KLCC en arrière-plan
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Un bâtiment de service de plain-pied à l'Hospital Kuala Lumpur, avec un panneau bleu en malais indiquant Jabatan Perubatan Rehabilitasi et des voitures garées devant
+    kind: actual
+    origin: third-party
+    subject: Bâtiment du service de médecine de réadaptation (Jabatan Perubatan Rehabilitasi) à l'Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 Ticket de file d'attente en main, le numéro déjà à plus de 80 personnes devant

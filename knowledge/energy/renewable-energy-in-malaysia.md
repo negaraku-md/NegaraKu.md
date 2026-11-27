@@ -108,9 +108,35 @@ sources:
     publisher: "SEDA Malaysia"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'A floating solar photovoltaic array alongside a covered walkway on a campus lake in Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: Long rows of dark-blue solar photovoltaic panels on low metal frames across a cleared grassy field, fenced and stretching toward a distant tree line under a bright blue sky with scattered cloud
+    kind: actual
+    origin: third-party
+    subject: a ground-mounted solar photovoltaic farm at Sungai-Sungai, Sabah, generating electricity for the rural grid
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: A curved dam holding back a green reservoir among forested hills, with a spillway channel and intake structures at its face and dense tropical jungle covering the surrounding slopes
+    kind: actual
+    origin: third-party
+    subject: the Pergau hydroelectric dam and reservoir in Kelantan, a renewable hydropower scheme in Peninsular Malaysia
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 If you have tried to read up on renewable energy (RE) in Malaysia, you have probably hit three different target numbers — 31%, 40% and 70% — and a wall of acronyms: FiT, NEM, LSS, CGPP, CRESS, SELCO. None of it is contradictory; it is just spread across half a dozen agencies, each documenting only its own corner. This guide pulls the whole landscape into one place: the national targets and the roadmaps behind them, the family of schemes, and — the part most sources skip — which programme is actually meant for a homeowner, a business, or a developer.

@@ -36,7 +36,7 @@ verificationNeeded:
   - "รายการพอร์ทัลนอกเหนือจาก MySST และ ezHS (MyTTx, MyDLV, ระบบแสตมป์ภาษี, MNTR) ยังไม่ได้ยืนยันกับหน้า RMCD ที่อ้าง; ฉบับปัจจุบันของคำสั่งอากรศุลกากรและจำนวนบัญชีอัตราพิเศษ FTA ใน ezHS ก็ยังไม่ได้รับการยืนยันเช่นกันและอธิบายในเชิงคุณภาพ"
 
 lang: "th"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,34 @@ relations:
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
 framework: profile
+hero: '/media/government/rmcd-kastam/hero.webp'
+heroAlt: 'อาคารราชการสีฟ้าสดใสใต้ท้องฟ้าสีครามใส ด้านหน้าทรงจั่วประดับตราศุลกากรแห่งมาเลเซียเหนือตัวอักษรสีทองที่เขียนว่า Kastam Diraja Malaysia ตั้งอยู่ท่ามกลางต้นไม้สีเขียวในลาฮัดดาตู รัฐซาบาห์'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: อาคารสำนักงานใหญ่กรมศุลกากรมาเลเซียหลายชั้นสีครีมในปุตราจายา หน้าอาคารด้านบนมีตัวอักษร Jabatan Kastam Diraja Malaysia มองจากถนนผ่านแนวต้นไม้ริมทาง
+    kind: actual
+    origin: third-party
+    subject: สำนักงานใหญ่กรมศุลกากรมาเลเซียในศูนย์ราชการกลาง ปุตราจายา
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: อาคารศุลกากรสองชั้นสีพีช-ครีมในแสงอบอุ่น มีป้าย Wisma Kastam Sabah และ Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department พร้อมป้ายอนุสรณ์สีน้ำเงินและทางรถเข้ามีหลังคาในโกตากีนาบาลู
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah อาคารกรมศุลกากรมาเลเซียประจำรัฐในโกตากีนาบาลู รัฐซาบาห์
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 สองหน่วยงาน หนึ่งกระทรวง และเส้นแบ่งที่แทบไม่มีใครขีดถูกในครั้งแรก หากภาษีติดกับ **สิ่งที่ข้ามชายแดน สินค้าที่ออกจากโรงงาน หรือบริการที่ให้** นั่นคือศุลกากร หากติดกับ **รายได้ กำไร หรือเอกสาร** นั่นคือ LHDN

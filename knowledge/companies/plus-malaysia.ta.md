@@ -28,7 +28,7 @@ faq:
     a: "2020 முடிவின் கீழ், டோல் விகிதங்கள் 2020 பிப்ரவரி 1 முதல் 18% குறைக்கப்பட்டன, மேலும் 2058 வரையிலான நீட்டிக்கப்பட்ட சலுகைக் காலம் முழுவதும் எந்த டோல் உயர்வும் திட்டமிடப்படவில்லை."
 
 lang: "ta"
-sourceContentHash: "3030e02b122487e7"
+sourceContentHash: "4b102482b0b6f19c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
 framework: profile
+hero: '/media/companies/plus-malaysia/hero.webp'
+heroAlt: 'சிதறிய மேகங்களுடன் நீல வானத்திற்குக் கீழே, பச்சை சாலையோர மரங்களும் தாழ்ந்த காட்டு மலைகளும் சூழ, இலகு போக்குவரத்துடன் கூடிய North-South Expressway-ன் தெளிந்த பல-வழிப் பகுதி; இடது ஓரத்தில் மஞ்சள் ''IKUT KIRI Kecuali Memotong'' பலகை'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_4.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the North-South Expressway (Southern Route, E2), the toll expressway operated by PLUS Malaysia, under a bright sky'
+images:
+  - role: scene
+    src: /media/companies/plus-malaysia/body-1.webp
+    alt: PLUS நெடுஞ்சாலையில் ஒரு சுங்கச் சாவடியை நெருங்கும் முன் கண்ணாடி வழியே பார்த்த காட்சி; சாவடிகளுக்கு மேலே Touch 'n Go மற்றும் SmartTAG வழித்தட பலகைகளுடன், சிவப்பு-வெள்ளை வழித்தடப் பிரிப்பான்கள் போக்குவரத்தை வழிநடத்த, மேகமூட்டமான மாலை வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: PLUS-ஆல் இயக்கப்படும் வடக்கு-தெற்கு நெடுஞ்சாலையில் Exit 235-இல் உள்ள Tangkak சுங்கச் சாவடி
+    credit: Hazwan Amini / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangkak_Toll_Plaza_Exit_235_PLUS_Highway_GTR_R33_Gymkhana_-_panoramio.jpg
+  - role: scene
+    src: /media/companies/plus-malaysia/body-2.webp
+    alt: வடக்கு-தெற்கு நெடுஞ்சாலையின் பாதைகளை விரிவாக்கும், ஆரஞ்சு நிற மாறுபடும்-செய்தி காட்சியைச் சுமக்கும் எஃகு மேல்-கட்டமைப்பு வளைவு; முன்னால் லேசான போக்குவரத்து மற்றும் சாலைப்பணி கூம்புகளுடன், சாலையோர மரங்கள் சாம்பல் மேகமூட்டமான வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: வடக்கு-தெற்கு நெடுஞ்சாலையை (PLUS) விரிவாக்கும் மேல்-கட்டமைப்பு மாறுபடும்-செய்தி வளைவு
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_South_Expressway_6.jpg
+wikidata: "Q4384792"
 ---
 
 நீங்கள் வடக்கே Bukit Kayu Hitam-இலிருந்து தெற்கே Johor Bahru வரை ஒரு போக்குவரத்து விளக்கிலும் நிற்காமல் வாகனம் ஓட்டும் ஒவ்வொரு முறையும், உண்மையில் ஒரே ஒரு நிறுவனத்தின் சொத்துகள் வழியாகவே பயணிக்கிறீர்கள்: PLUS Malaysia Berhad. இது ஒரு அரசாங்க அமைப்பு அல்ல, ஆனால் சாதாரண தனியார் நிறுவனமும் அல்ல — இது அரசாங்கத்துடனான நீண்டகால ஒப்பந்தத்தின் கீழ் நாட்டின் சாலை முதுகெலும்பை இயக்கும் ஒரு சலுகை உரிமையாளர் (concessionaire) ஆகும்.

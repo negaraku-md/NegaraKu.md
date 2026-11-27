@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "hi"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
   - { rel: "related-to", to: "melaka-sultanate" }
-related: []
+related: ["iskandar-malaysia-guide", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Johor Malaysia", "जोहोर", "Johor Bahru", "जोहोर बहरू", "Iskandar Malaysia", "इस्कंदर मलेशिया", "Pengerang petrochemical", "पेंगेरांग पेट्रोरसायन", "Johor Singapore Causeway", "जोहोर सिंगापुर कॉज़वे"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'ऊँची जुड़वाँ मीनारों और काले गुंबदों वाली सफेद विक्टोरियन शैली की सुल्तान अबू बकर राज्य मस्जिद बादल भरे आसमान के नीचे।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: जोहोर के पूर्वी तट पर देसारू में कैसुरीना वृक्षों से घिरा एक लंबा सुनहरा रेतीला किनारा दक्षिण चीन सागर की शांत लहरों से मिलता है।
+    kind: actual
+    origin: third-party
+    subject: देसारू समुद्र तट, जोहोर
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: जोहोर के पूर्वी तट से दूर पुलाऊ रावा द्वीप के वनाच्छादित, ताड़ के पेड़ों से घिरे किनारे पर सफेद रेत और स्वच्छ फ़िरोज़ी उथला पानी फैला है।
+    kind: actual
+    origin: third-party
+    subject: पुलाऊ रावा (रावा द्वीप), जोहोर
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 जोहोर की अर्थव्यवस्था उसके पड़ोसी से परिभाषित होती है। प्रायद्वीप के सबसे दक्षिणी राज्य के रूप में, यह जोहोर जलडमरूमध्य के पार सीधे सिंगापुर के सामने स्थित है, और वह निकटता उसके श्रम बाज़ार से लेकर उसकी संपत्ति विकास रणनीति तक सब कुछ को आकार देती है।

@@ -29,7 +29,7 @@ faq:
     a: "네, NFC 충전 기능을 사용하려면요. 등록 과정은 신원 확인(KYC)을 포함하여 그 카드의 잔액이 당신의 e월렛 계정에 연동되게 합니다 — 이는 또한 카드를 분실했을 때, 잔액을 주운 사람 누구나 쓸 수 있는 미등록 카드에 비해 추가 보호 계층을 제공합니다."
 
 lang: "ko"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: '곰박 요금소에서 “Touch ''n GO”, “MyRFID”, “SmartTAG”라고 적힌 머리 위 차로 표지판이 무현금 요금소를 표시하고, 도로에는 “RFID”가 칠해져 있다.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: 요금소 차로에 있는 Touch 'n Go RFID 앞유리 태그로, 요금 부스에는 차로 차단기와 머리 위 RFID 판독기 갠트리가 설치되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 셀랑고르주 곰박 요금소의 MyRFID 차로에서 판독되는 Touch 'n Go RFID 태그
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: 철도역 입구에 늘어선 자동 개찰구로, 각 개찰구에 카드 판독기가 있고 뒤편으로 쇼핑몰 콘코스가 보인다.
+    kind: representative
+    origin: third-party
+    subject: Touch 'n Go 등 교통카드를 태그하는 KLCC LRT역의 개찰구
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 많은 사람들이 터치 앤 고(Touch 'n Go) 카드를 지갑에, 터치 앤 고 e월렛 앱을

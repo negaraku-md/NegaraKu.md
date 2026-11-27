@@ -38,7 +38,7 @@ faq:
     a: "สามอย่าง ประเมินสภาพอากาศต่ำเกินไป (ยอดมักถูกเมฆห่อ หนาว และเปียก จึงนำเสื้อผ้าเป็นชั้นและอย่าคาดหวังวิวแจ่มใสตามสั่ง) ไปในวันหยุดสุดสัปดาห์หรือวันหยุดราชการแล้วประหลาดใจกับฝูงชนและคิวที่กระเช้าและแหล่งท่องเที่ยว และโผล่มาโดยไม่จองโรงแรม ตั๋วเข้าสวนสนุก หรือกระเช้าล่วงหน้าในช่วงพีก การตรวจสอบว่าเครื่องเล่นและแหล่งท่องเที่ยวเฉพาะใดเปิดก่อนไปก็ช่วยเลี่ยงความผิดหวัง"
 
 lang: "th"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,9 +85,42 @@ wikidata: "Q1144734"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
+related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists", "frasers-hill"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'เหมาะสำหรับครอบครัว นักเที่ยวเช้าเย็นกลับ และนักเที่ยวสุดสัปดาห์จากกัวลาลัมเปอร์ที่ต้องการสวนสนุก อากาศเย็นบนที่สูง การช้อปปิง และการแสดง มากกว่าธรรมชาติอันเงียบสงบ'
+  getThere: 'ขับรถราวหนึ่งชั่วโมงจากกัวลาลัมเปอร์ขึ้นทางด่วนและถนนภูเขา หรือจอดรถกลางเขาใกล้ Genting Highlands Premium Outlets แล้วนั่งกระเช้า Awana SkyWay ขึ้นสู่ยอด SkyAvenue'
+  permit: 'คาสิโนรับเฉพาะผู้ที่ไม่ใช่มุสลิม และกำหนดอายุขั้นต่ำ การตรวจสอบตัวตน และกฎการแต่งกาย'
+  watch: 'ยอดเขามักถูกเมฆปกคลุม หนาวและเปียก พร้อมทิวทัศน์ที่มาแล้วก็ไป และวันหยุดสุดสัปดาห์กับวันหยุดราชการนำมาซึ่งฝูงชนหนาแน่นและแถวยาว'
+  next: 'ตรวจสอบกฎการเข้าสวนสนุก กระเช้า และคาสิโนปัจจุบันกับ Resorts World Genting'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'มุมมองกว้างจากหลังคาวัดจีนเหนือภูเขาป่าฝนที่ปกคลุมด้วยเมฆ พร้อมรีสอร์ทเก็นติงอยู่ไกลออกไป'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: ศาลาวัดจีนสีแดง-ทองพร้อมชายคางอนโค้ง ข้างเจดีย์หลายชั้นสูงบนลานปูกระเบื้องบนยอดเขา
+    kind: actual
+    origin: third-party
+    subject: ศาลาและเจดีย์หลายชั้นอันวิจิตรของวัดถ้ำชินสวี (Chin Swee Caves Temple) ที่เก็นติงไฮแลนด์ (Genting Highlands)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: ด้านหน้าโรงแรมรีสอร์ตสีขาวสูงตระหง่านเหนือทางเข้าหลังคาสีน้ำตาลเหลี่ยมมุมอันโดดเด่น ที่มีธงชาติโบกสะบัด
+    kind: actual
+    origin: third-party
+    subject: อาคารคาสิโน-โรงแรมบนยอดเขาของรีสอร์ตเวิลด์เก็นติง (Resorts World Genting) พร้อมโถงทางเข้าหลังคาแหลมอันเป็นเอกลักษณ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 ขับขึ้นถนนภูเขาออกจากความร้อนของกัวลาลัมเปอร์ และสักที่เลยจุดกึ่งกลาง กระจกเริ่มเป็นฝ้าและอากาศกลายเป็นเย็น ภายในหนึ่งชั่วโมงหลังออกจากเมืองหลวง คุณสามารถยืนอยู่ในเมฆที่เกือบ 1,800 เมตร หน้าเมืองรีสอร์ตไฟนีออนที่ซ้อนอยู่บนยอดเขา ความตัดกันนั้น ที่ราบลุ่มเขตร้อนด้านล่าง ยอดเย็นมีหมอกด้านบน ไปถึงได้ในหนึ่งเช้า คือข้อเสนอทั้งหมดของเกนติงไฮแลนด์ส คู่มือนี้ครอบคลุมว่ามันคืออะไรจริง ๆ ขึ้นไปอย่างไร มีอะไรทำ จัดการคาสิโนอย่างมีเหตุผลอย่างไร และข้อผิดพลาดที่ทำให้ผู้มาครั้งแรกสะดุด

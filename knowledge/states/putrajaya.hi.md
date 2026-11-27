@@ -38,7 +38,7 @@ verificationNeeded:
   - "प्रीसिंक्ट्स की संख्या (20) और 4,931 हेक्टेयर के क्षेत्रफल आँकड़े की पुष्टि पर्बादानन पुत्राजया के नवीनतम आधिकारिक प्रकाशन से करें — 2017 की वार्षिक रिपोर्ट ने एक बार एक भिन्न क्षेत्रफल आँकड़ा दर्ज किया था।"
 
 lang: "hi"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,34 @@ relations:
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["पुत्राजया", "Putrajaya", "संघीय क्षेत्र पुत्राजया", "Wilayah Persekutuan Putrajaya", "संघीय सरकार प्रशासनिक केंद्र", "पर्बादानन पुत्राजया", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
+hero: '/media/states/putrajaya/hero.webp'
+heroAlt: 'पुत्रजया में झील में प्रतिबिंबित हरे-गुंबद वाली पर्दाना पुत्रा सरकारी इमारत के बगल गुलाबी-गुंबद वाली पुत्रा मस्जिद और उसकी मीनार'
+heroCredit: 'Mimihitam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: सुनहरी घड़ी में चमकती गुलाबी Putra Mosque और इसकी मीनार, जो Putrajaya Lake की शांत सतह में पूरी तरह प्रतिबिंबित है
+    kind: actual
+    origin: third-party
+    subject: सुनहरी घड़ी में Putrajaya Lake के शांत पानी में प्रतिबिंबित Putra Mosque
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: Putrajaya में झील पार करता आधुनिक सफ़ेद Seri Wawasan Bridge, अपने कोणीय पाल जैसे खंभे और फैली हुई केबलों के साथ
+    kind: actual
+    origin: third-party
+    subject: Putrajaya में झील पर फैला पाल-आकार का Seri Wawasan Bridge
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 1999 में, प्रधानमंत्री कार्यालय कुआलालंपुर से बाहर स्थानांतरित हुआ। राजधानी नहीं

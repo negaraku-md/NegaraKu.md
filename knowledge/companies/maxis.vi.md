@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "Tỷ lệ sở hữu cổ phần hiện hành của tập đoàn mẹ (các lợi ích liên kết với Usaha Tegas và Saudi Telecom Company) — xác nhận đối chiếu với các công bố mới nhất của Bursa Malaysia."
   - "Tình trạng của mạng 5G thứ hai của Malaysia và vai trò của Maxis trong đó (U Mobile được chọn vào tháng 11 năm 2024) — xác minh chính sách và các dàn xếp 5G hiện hành với MCMC."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'Đỉnh uốn cong rọi đèn của Menara Maxis vào ban đêm, các tầng sân thượng phát sáng trắng trên nền trời đen, với biển logo maxis xanh-lục và một đồng hồ kỹ thuật số đỏ hiển thị 7:57 gắn gần đỉnh'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: Tòa tháp Menara Maxis bằng đá màu nâu nhạt và kính xanh lá uốn cong lên tới đỉnh hình vòm trên nền trời nhiều mây, biểu tượng maxis và một đồng hồ điện tử hiện rõ trên cao của mặt tiền, biểu tượng Suria KLCC trên phần đế bên dưới
+    kind: actual
+    origin: third-party
+    subject: Cảnh ban ngày của Menara Maxis vươn lên trên trung tâm mua sắm Suria KLCC, Kuala Lumpur, với biểu tượng maxis và đồng hồ gần đỉnh
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: Cảnh nhìn dốc ngược lên về đêm của mặt tiền thon nhọn được chiếu sáng của Menara Maxis, với một biểu ngữ quảng cáo cao được chiếu sáng mang biểu tượng maxis treo ngang các tầng dưới trên nền trời đen
+    kind: actual
+    origin: third-party
+    subject: Menara Maxis về đêm nhìn từ dưới chân, với một biểu ngữ quảng cáo lớn mang thương hiệu maxis trên mặt tiền tầng dưới, KLCC, Kuala Lumpur
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 Gần như mọi người Malaysia có điện thoại đều, vào một thời điểm nào đó, từng là khách hàng của Maxis hay Hotlink. Đằng sau hai thương hiệu quen thuộc đó là một công ty duy nhất — Maxis Berhad — nằm trong số các nhà khai thác viễn thông lớn nhất của đất nước và đã phát triển từ một nhà mạng chỉ cung cấp di động thành một nhà cung cấp hội tụ về di động, băng rộng gia đình và kết nối doanh nghiệp.

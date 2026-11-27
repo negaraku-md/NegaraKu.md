@@ -41,7 +41,7 @@ verificationNeeded:
   - "राज्य विधानसभा (DUN) और संसद की सीटों की संख्या जानबूझकर नहीं बताई गई है, क्योंकि इस मसौदे को तैयार करते समय इसकी पुष्टि आधिकारिक SPR स्रोतों के विरुद्ध नहीं हो सकी।"
 
 lang: "hi"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,9 +98,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["केलंतान", "Kelantan", "कोटा भारू", "Kota Bharu", "केलंतान की अर्थव्यवस्था", "केलंतान के हस्तशिल्प", "माक योंग", "mak yong", "Kelantan Darul Naim"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'कोटा भारू में सजी हुई काली-पीली पारंपरिक लकड़ी की इस्ताना जहर महल, जिसके पक्के प्रांगण में एक घोड़ा-गाड़ी खड़ी है।'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: कोटा भारू में एक स्वच्छ नीले आकाश के नीचे एक ऊँचे ताड़ के पेड़ के पीछे केलंतान राज्य संग्रहालय की लंबी, लाल छत वाली औपनिवेशिक इमारत खड़ी है।
+    kind: actual
+    origin: third-party
+    subject: केलंतान राज्य संग्रहालय (मुज़ियम नेगेरी केलंतान), कोटा भारू
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: कोटा भारू के बहुमंज़िले, चमकीली रोशनी वाले पासार सिती खदीजा केंद्रीय बाज़ार के भीतर भीड़भरे स्टॉलों के बीच व्यापारी ताज़ा उपज बेच रहे हैं।
+    kind: actual
+    origin: third-party
+    subject: पासार सिती खदीजा, कोटा भारू, केलंतान
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 मलेशिया की अर्थव्यवस्था की कहानी प्रायः कारखाने के माध्यम से कही जाती है।

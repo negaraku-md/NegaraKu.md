@@ -34,7 +34,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["pasar malam pertama", "cara ke pasar malam", "panduan pasar malam Malaysia", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam halal", "cara memesan di pasar malam Malaysia", "tempat duduk pasar malam", "keamanan pangan pasar malam"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'Seorang pedagang melayani pembeli di gerai pasar malam yang terang benderang, etalase kaca penuh gorengan dan tahu dengan papan harga tulisan tangan'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: Tusuk sate bambu berisi camilan panggang mengilap yang mendesis dan mengepul di atas pelat panas hitam di kios pasar malam
+    kind: actual
+    origin: third-party
+    subject: tusuk sate camilan panggang mengepul di atas pelat panas di pasar malam
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 Pertama kali di pasar malam bisa membingungkan: sungai manusia yang padat dan

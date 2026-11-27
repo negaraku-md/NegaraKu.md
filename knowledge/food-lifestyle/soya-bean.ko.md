@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Soya bean 음료는 식물성에 무알코올이며 — 콩, 물, 설탕 — 본래 유제품이 없으므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 노점을 확인해야 한다."
   served: "뜨겁게 또는 얼음에, 은은하게 달게 낸다. 흔한 조합: 디저트 세트로 tau foo fah(부드러운 두부 푸딩)와 함께, 또는 검은 풀잎 젤리 위에 부어 'soya cincau'('Michael Jackson')로. 페낭식 버전은 pandan과 흑설탕에 기대고; 현대의 두유 카페는 검은콩·흑임자·팥 변형을 낸다."
   where: "전국의 kopitiam 노점, 노점 거리, pasar malam, 전문 두유 가게에서 찾을 수 있으며 — 흔히 두유와 tau foo fah만 파는 노점에서 — 슈퍼마켓에서 병에 담겨서도 판다."
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "콩이 옆에 놓인, 연한 색 두유가 담긴 키 큰 잔"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 수많은 말레이시아 커피숍에서 한 노점은 오직 콩만 다룬다: 한쪽에는 따뜻하고 신선한

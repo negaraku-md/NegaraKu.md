@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,34 @@ relations:
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: '沙巴Kunak，一条种植园道路旁，成排的成熟油棕覆盖着山坡'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: 一辆满载偏红色油棕鲜果串的卡车停在沙巴 Tawau 的 Apas Balung 棕油厂门口
+    kind: actual
+    origin: third-party
+    subject: 满载鲜果串的卡车停在沙巴 Tawau 的 Apas Balung 棕油厂
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: 在沙巴 Kunak，一座烟囱冒着蒸汽的棕油厂坐落于多云天空下一望无际的油棕种植园中
+    kind: actual
+    origin: third-party
+    subject: 被油棕种植园环绕的 IOI Baturong 棕油厂，沙巴 Kunak 县
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 棕榈油是世界上交易量最大的植物油，而马来西亚是仅次于印尼的第二大生产国——把一串串从柔佛到砂拉越丘陵地带种出的多刺红色果实，加工成精炼食用油、肥皂原料和生物柴油，销往亚洲、非洲和欧洲各地市场。根据马来西亚棕榈油理事会（MPOC）的数据，该产业直接和间接支撑着超过300万马来西亚人，包括将近50万名小农。以下便是这台机器如何从树木一路运转到油轮的过程。

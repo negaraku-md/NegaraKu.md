@@ -71,6 +71,13 @@ sources:
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["نجيب رزاق", "Najib Razak", "Mohd Najib Abdul Razak", "رئيس وزراء ماليزيا السادس", "1MDB", "SRC International"]
 framework: profile
+hero: '/media/malaysia/najib-razak/hero.webp'
+heroAlt: 'نجيب رزاق يشير بيده في منتصف حديثه مرتديًا بدلة داكنة وربطة عنق حمراء منقوشة، جالسًا أمام خلفية زرقاء خافتة الإضاءة تحمل كلمة ''Forum''.'
+heroCredit: 'World Economic Forum / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **مسودة — حساسة.** هذه المقالة ملخص محايد قيد الإعداد ولم تُراجَع للنشر.

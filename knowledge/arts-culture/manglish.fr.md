@@ -32,7 +32,7 @@ faq:
     a: "Oui. L'Oxford English Dictionary a ajouté plusieurs mots de l'anglais malaisien au fil de mises à jour successives, dont lepak, shiok et teh tarik en 2016, plusieurs termes du manglish et de la cuisine malaisienne comme mamak, kopitiam et atas plus tard la même année, et des mots comme boleh, agak-agak et wayang dans une mise à jour ultérieure — reconnaissant ainsi des usages malaisiens déjà établis plutôt que d'inventer un nouvel anglais."
 
 lang: "fr"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,32 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'Un panneau orange et bleu peint à la main portant l''inscription PETALING STREET KUALA LUMPUR sur un boîtier technique couvert de graffitis, avec une rue de la ville et des bâtiments à l''arrière-plan.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: Une rue de maisons-boutiques de George Town où les devantures portent côte à côte des enseignes en anglais, tamoul, chinois et malais
+    kind: actual
+    origin: third-party
+    subject: Une rue de Little India à George Town, Penang, bordée d'enseignes de boutiques en plusieurs langues et écritures
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: Des clients passant devant des rangées d'étals de nourriture et de marchandises dans un marché de nuit malaisien animé, en soirée
+    kind: actual
+    origin: third-party
+    subject: Un pasar malam (marché de nuit) à Seri Kembangan, Selangor, une scène de rue malaisienne quotidienne et multilingue
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

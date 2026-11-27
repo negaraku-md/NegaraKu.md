@@ -88,9 +88,36 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
-related: []
+related: ["seda-malaysia", "energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition"]
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'Sebuah pemasangan solar terapung panjang panel fotovolta biru pada laluan berbumbung terbentang merentasi tasik kampus yang tenang, dengan bangunan dan hijauan di belakang'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: Barisan panjang panel solar condong dipasang di tanah terbentang merentasi padang terbuka dengan hutan hujan di kaki langit di bawah langit berjerebu
+    kind: actual
+    origin: third-party
+    subject: barisan panel fotovolta solar dipasang di tanah di sebuah ladang solar berhampiran Bukit Merah, Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: Kanopi berkerangka keluli berbumbung panel solar di sisi papan tanda projek solar-hibrid kerajaan Malaysia di sekolah luar bandar Sabah, dengan kereta diletak dan ayam di latar depan
+    kind: actual
+    origin: third-party
+    subject: pemasangan kuasa solar-hibrid luar bandar di sebuah sekolah di Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 Panel solar di atas bumbung rumah kini menjadi satu keputusan kewangan yang diikat kemas oleh dasar kerajaan di Malaysia. Tetapi "pergi solar" bermaksud perkara yang sangat berbeza bagi seorang pemilik rumah di Ipoh berbanding sebuah kilang di Pasir Gudang atau sebuah pusat data yang mahu 100% tenaga hijau. Setiap kumpulan pengguna mempunyai skim tersendiri.

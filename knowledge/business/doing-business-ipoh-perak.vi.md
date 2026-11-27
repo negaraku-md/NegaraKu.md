@@ -41,7 +41,7 @@ verificationNeeded:
   - "Đầu tư được phê duyệt của Perak cho cả năm 2024 và 2025 và thứ hạng của nó — MIDA chỉ nêu tên năm bang hàng đầu"
 
 lang: "vi"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,34 @@ keywords:
   - "Perak GDP"
   - "Ipoh cost of doing business"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'Cảnh ban ngày trung tâm thành phố Ipoh với những tòa cao ốc văn phòng thương mại hiện đại và một cánh đồng xanh, phía sau là những ngọn đồi đá vôi dưới bầu trời có mây rải rác'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: Tòa nhà ga xe lửa Ipoh màu trắng thời thuộc địa với các mái vòm và dãy hành lang vòm, nhìn qua sân trước lát gạch dưới bầu trời xanh
+    kind: actual
+    origin: third-party
+    subject: Ga xe lửa Ipoh, Perak — tòa nhà mốc thời thuộc địa có mái vòm trên sân trước
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: Cảnh nhìn trên cao qua trung tâm thương mại của thị trấn Ipoh chật kín các dãy nhà phố và khối văn phòng, với một tòa tháp văn phòng kính và những ngọn đồi đá vôi ở hậu cảnh
+    kind: actual
+    origin: third-party
+    subject: Trung tâm thương mại thị trấn Ipoh, Perak — các dãy nhà phố và khối văn phòng dày đặc với một tòa tháp văn phòng kính và đồi đá vôi phía sau
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 Đây là một trang ngắn có chủ đích. Chế độ pháp lý của Perak giống với của Selangor, các hội

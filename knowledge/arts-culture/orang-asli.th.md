@@ -35,7 +35,7 @@ seoTitle: "โอรังอัสลี: สามกลุ่มหลัก 
 socialTitle: "โอรังอัสลีคือใคร — สามกลุ่ม 18 ชนเผ่า และหน่วยงานที่ดูแล"
 
 lang: "th"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'ภาพจิตรกรรมฝาผนังสีสันสดใสเขียนว่า Selamat Datang ke KOA Lubuk Legong อยู่หน้าอาคารโรงเรียนประจำหมู่บ้านที่มีหลังคากระเบื้อง ล้อมรอบด้วยต้นไม้เขียวขจี'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: นักแสดงชาวมะฮ์เมอรีสวมหน้ากากไม้แกะสลักรูปวิญญาณบรรพชนและชุดใบปาล์มจีบ เต้นระบำมายินโจโอห์ต่อหน้าผู้ชมในงานแสดงวัฒนธรรมกลางแจ้ง
+    kind: actual
+    origin: third-party
+    subject: ระบำหน้ากากมายินโจโอห์ของชาวมะฮ์เมอรี แสดงในงานแสดงวัฒนธรรมที่กรุงกัวลาลัมเปอร์
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: ทางเข้าพิพิธภัณฑ์หัตถศิลป์โอรังอัสลีในกรุงกัวลาลัมเปอร์ มีรูปสลักไม้ขนาดใหญ่ของชาวโอรังอัสลียืนอยู่ข้างป้ายท่ามกลางพรรณไม้เขตร้อน
+    kind: actual
+    origin: third-party
+    subject: พิพิธภัณฑ์หัตถศิลป์โอรังอัสลี (Muzium Seni Kraf Orang Asli) กรุงกัวลาลัมเปอร์
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 นานก่อนที่ชื่อมาเลเซียจะปรากฏบนแผนที่ ก็มีชุมชนที่อาศัยอยู่ในป่า ที่สูง และชายฝั่งของคาบสมุทร ปัจจุบันพวกเขาเป็นที่รู้จักโดยรวมในชื่อโอรังอัสลี — คำภาษามลายูที่แปลว่า "มนุษย์ดั้งเดิม" หรือ "ผู้อยู่อาศัยดั้งเดิม"

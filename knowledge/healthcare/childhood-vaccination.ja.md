@@ -41,7 +41,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 sources:
   - title: "国家予防接種スケジュール（2023年8月更新）(Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023))"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/infografik/item/jadual-imunisasi-kebangsaan-kemaskini-ogos-2023.html"
@@ -70,6 +70,32 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: '子ども向けに設けられたマレーシア保健省の予防接種センターで、子どもに親しみやすい「予防接種しました」の壁画がある。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: KKM（保健省）のロゴが付いたマレーシア保健省の小児ワクチン接種センター。待合いすが並び、遠くに数名の人影が見えるのみ
+    kind: actual
+    origin: third-party
+    subject: 保健省の小児ワクチン接種センター（PPV PICKids）、クアラルンプールのパビリオン・ブキ・ジャリル
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: キャップの付いたワクチンバイアルがプレフィルド注射器の横に立っており、予防接種スケジュールに基づいて接種されるワクチンを表している
+    kind: representative
+    origin: third-party
+    subject: 無地の台の上に置かれたワクチンバイアルとプレフィルド式インフルエンザワクチン注射器
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 マレーシアの政府クリニックまたは病院で生まれた赤ちゃんは、仮出生証明書だけを持って帰るのではない——今後6年間、*あらゆる*クリニック受診のたびに携帯することになる一冊の小さな手帳も持ち帰るのである。その手帳と、そこに記録される接種スケジュールは、この国で最も長く続く公衆衛生プログラムの一つの一部である。

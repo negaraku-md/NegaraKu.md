@@ -28,7 +28,7 @@ faq:
     a: "أتعاب الإيجار بموجب الجدول الرسمي هي 1.25 إلى 1.75 من الإيجار الشهري الإجمالي (بحد أدنى للأتعاب قدره إيجار شهر واحد) بحسب مدة الإيجار؛ ومن يتحمّلها أمرٌ متروك للاتفاق بين الطرفين."
 
 lang: "ar"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["وكلاء العقارات", "REN", "LPEPH", "BOVAEP", "عمولة الوكيل", "أتعاب الإيجار", "مُفاوِض عقاري", "property agent Malaysia"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'منازل حديثة شبه منفصلة خلف لافتة مشروع تامان سوغا سوتيرا في باتو باهات بولاية جوهور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: لافتة على جانب الطريق تحدّد مدخل حيّ Taman Sri Serdang السكني
+    kind: representative
+    origin: third-party
+    subject: لافتة حيّ سكني في Taman Sri Serdang، Seri Kembangan، سلانجور
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: منزل من طابق واحد في الضواحي بفناء أمامي ونخلة على Jalan Anggerik، Kluang، جوهور
+    kind: representative
+    origin: third-party
+    subject: منزل أرضي في الضواحي على شارع سكني في Kluang، جوهور
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 الرقم على بطاقة صدر ذلك الوكيل ليس زينة — فهو السبيل السريع الوحيد للتمييز بين مُفاوِض نظامي وبين شخص يدّعي مجرد ادّعاء أنه وكيل. ففي ماليزيا، يخضع تحديد من يحق له بيع عقارك أو تأجيره أو التفاوض بشأنه نيابةً عنك لرقابة قانونية صارمة.

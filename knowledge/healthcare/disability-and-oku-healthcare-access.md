@@ -75,9 +75,35 @@ wikidata: "Q7354381"
 relations:
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "public-healthcare-system" }
-related: []
+related: ["social-welfare-department-jkm", "persons-with-disabilities-employment-malaysia", "public-healthcare-system-malaysia"]
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'Sebuah lif platform kerusi roda yang ditanda dengan simbol kebolehcapaian di sebuah pusat pemulihan orang kurang upaya di Johor, Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: Tanjakan boleh akses yang landai dengan pemegang tangan di sebuah stesen LRT Malaysia, mewakili akses tanpa anak tangga untuk orang kurang upaya
+    kind: representative
+    origin: third-party
+    subject: Tanjakan mesra kerusi roda di sebuah stesen pengangkutan awam Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: Petak letak kereta yang dicat dengan simbol kerusi roda antarabangsa berwarna biru dan dikhaskan untuk orang kurang upaya, mewakili peruntukan kebolehcapaian OKU
+    kind: representative
+    origin: third-party
+    subject: Petak letak kereta khas OKU (orang kurang upaya) yang ditandakan dengan simbol kerusi roda di Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 Sekeping kad plastik menentukan sama ada seorang kanak-kanak autisme mendapat terapi awal, atau seorang dewasa yang kehilangan kaki mampu memiliki kaki palsu. Di Malaysia, kad OKU itulah pintu masuk kepada hampir setiap perkhidmatan dan bantuan yang direka untuk orang kurang upaya — dan memahami cara ia berfungsi menjimatkan masa, wang serta rawatan yang tertangguh.

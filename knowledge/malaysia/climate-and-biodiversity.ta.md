@@ -21,7 +21,7 @@ appliesTo: "தேசிய"
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -64,6 +64,32 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'பசுமையான பச்சை மழைக்காட்டு விதானத்தின் பரந்த விரிப்பு, தொலைவில் மங்கலான நீல முகடுகளாக மறையும் உருளும் குன்றுகளை மூடியிருக்கிறது, மேகமூட்டமான வெளிறிய வானத்தின் கீழ்.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: துருப்பிடித்த செம்மஞ்சள் நிற இளம் போர்னியோ ஒராங்குட்டான் மரங்களுக்கிடையே கட்டப்பட்ட கயிற்றில் ஒரு கையால் தொங்குகிறது, மறு கையால் கயிற்றைப் பிடித்துள்ளது, அடர்ந்த பச்சை மழைக்காட்டு இலைகளைப் பின்னணியாகக் கொண்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: இளம் போர்னியோ ஒராங்குட்டான் (Pongo pygmaeus), போர்னியோவின் மழைக்காடுகளில் மட்டுமே காணப்படும் ஒரு பெரிய மனிதக்குரங்கு
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: உதிர்ந்த இலைகள் பரவிய காட்டுத் தரையில் முழுமையாக விரிந்த ஒரு ரஃப்ளேசியா மலர்; அதன் ஐந்து தடிமனான சிவப்பு-பழுப்பு இதழ்கள் வெளிர் மருக்கள் போன்ற புள்ளிகளால் மூடப்பட்டு, ஆழமான திறந்த மைய கிண்ணத்தைச் சூழ்ந்துள்ளன.
+    kind: actual
+    origin: third-party
+    subject: சபாவில் காட்டுத் தரையில் முழுமையாக மலர்ந்த ரஃப்ளேசியா, உலகின் மிகப்பெரிய மலர்களில் ஒன்றும் போர்னியோ மழைக்காட்டின் ஒரு ஒட்டுண்ணித் தாவரமும் ஆகும்
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # மலேசியா ஏன் உலகின் மாபெரும் பல்லுயிர்த்தன்மை (megadiverse) கொண்ட நாடுகளில் ஒன்றாக உள்ளது

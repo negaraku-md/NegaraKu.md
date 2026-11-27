@@ -38,7 +38,7 @@ faq:
     a: "国家スポーツ院（ISN）です。これは2011年国家スポーツ院法［Act 729］によって法定的地位を与えられ、運動科学および運動医学のサービス・助言・コンサルティングの提供、研究の実施、選手のパフォーマンスの科学的側面についての大臣への助言を職務としています。"
 
 lang: "ja"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }
-related: []
+related: ["badminton-in-malaysia", "football-in-malaysia", "sukma-games"]
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'ブキ・ジャリル国立競技場の銀色のルーバー状の外壁が、人けのない前庭の上にそびえている。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: ブキ・ジャリル・スポーツ複合施設にあるマレーシア国家スポーツ評議会（Majlis Sukan Negara）の建物の外観。
+    kind: actual
+    origin: third-party
+    subject: ブキ・ジャリルにあるマレーシア国家スポーツ評議会（Majlis Sukan Negara）の建物
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: クアラルンプール、ブキ・ジャリルのKLスポーツシティ国立スポーツ複合施設の一部である国立アクアティックセンター。
+    kind: actual
+    origin: third-party
+    subject: KLスポーツシティ国立スポーツ複合施設内の国立アクアティックセンター
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 ジョホールの新設サッカークラブは、ユニフォームを購入し、グラウンドを借り、選手を登録することができる——しかし、それでもなお、「マレーシア」を代表して誰かをいかなる大会にも合法的に送り出すことはできない。その理由は金でも才能でもない。誰が許可を与えるか、という問題である。マレーシアでは、スポーツ団体として存在する権利、資金を受ける権利、そして国名を名乗る権利は、しばしば一つと混同される四つの異なる機関から来ている。

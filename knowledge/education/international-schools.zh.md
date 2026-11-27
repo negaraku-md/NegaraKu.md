@@ -39,7 +39,7 @@ obligations: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 
 status: "published"
 aiAssisted: true
@@ -97,6 +97,33 @@ stayFacts:
   cost: '预期有常年学费，外加一次性费用，例如入学费或分班测试费与注册费，可退还按金上限为 RM5,000；发展费或建筑费则一律不得收取。教育部管制的是结构而非金额，因此收费因校、因课程、因地点而差异极大——请直接向每一所学校核实最新数字，而不要轻信比较文章或论坛中的任何数字。'
   watch: '由于没有任何收费由政府设定，即便是同龄的孩子，各校之间的实际价格也差异悬殊，而学费调涨上限为 30%，且每三年最多只可调涨一次。还要为一项 6% 的服务税做好打算：当孩子的常年学费超过 RM60,000 时，按每名学生、每学年征收——这是叠加在学费之上的税项，并非由学校设定。'
   next: '在编列预算之前，先筛选学校，并直接向每一所学校确认其现行收费表与 RM60,000 的税务门槛。关于相关规划，若要担保子女随外籍雇员一同前来，参见《受养人准证或长期社访签证》；若政府学校也在你的比较清单内，参见《申请就读政府学校》。'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: '一座现代国际学校入口大门，设有带雨篷的门卫岗亭、修剪整齐的树篱和繁茂的树木，身后是低矮的校园建筑，天空多云'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: 一栋多层的国际学校大楼，带有红灰相间的弧形玻璃与石材立面，门前停着汽车和摩托车
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪梳邦再也（Subang Bestari）的国际学校 HELP 国际学校（HELP International School）弧形现代主楼
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: 一座整洁现代的钢铁与玻璃学校入口顶棚和门卫亭，位于一处人行横道旁，晴空下由树木环绕
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡国际学校（ISKL）安邦希尔（Ampang Hilir）校区的有顶棚车道入口
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 一所英国课程学校与一所美国课程学校，即便分处同一小镇的两端，在纸面上也是由布城同一个部门发牌照。两者在法律上都不得向家长收取「建校基金」。两者一次调涨学费都不得超过30%。而且两者都不必公布任何由教育部本身设定的数字——因为在教育部所订立的所有规则当中，学额的实际价格从来都不在其中。

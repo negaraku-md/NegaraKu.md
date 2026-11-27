@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (अब FGV Holdings) वह निवेश शाखा है जो FELDA के बागानों का प्रबंधन करती है। इसे 28 जून 2012 को Bursa Malaysia पर सूचीबद्ध किया गया और, IPO के समय, यह लगभग 112,600 बसने वालों द्वारा जोते जाने वाले लगभग 500,000 हेक्टेयर का प्रबंधन करती थी।"
 
 lang: "hi"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
-related: []
+related: ["palm-oil-industry", "rubber-industry", "agricultural-subsidies-farm-input-support"]
 keywords: ["FELDA", "बसने वाले", "भूमि बसावट", "ताड़ तेल", "FGV Holdings", "भूमि अधिनियम 1960", "ग्रामीण ग़रीबी", "peneroka"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'मलेशिया में FELDA आयर हितम भूमि बंदोबस्त के प्रवेश द्वार को दर्शाता सड़क किनारे का तोरण।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: जोहोर के कुलाई स्थित FELDA बुकित बातू योजना में शाही ताड़ के पेड़ों और बसने वालों के घरों से घिरी एक शांत सड़क
+    kind: actual
+    origin: third-party
+    subject: जोहोर के FELDA बुकित बातू में ताड़ के पेड़ों वाली सड़क के किनारे बसने वालों के घर
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: सबा के FELDA सहाबात बस्ती परिसर में अपनी चिमनियों के साथ फजर हरापान पाम-ऑयल मिल
+    kind: actual
+    origin: third-party
+    subject: सबा के FELDA सहाबात परिसर में फजर हरापान पाम-ऑयल मिल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 कल्पना कीजिए एक ग़रीब परिवार जिसे ताज़ा साफ़ की गई वन-भूमि में बसाया गया, जिसे भूमि का एक टुकड़ा और मासिक मज़दूरी दी गई, और फिर उससे कहा गया कि वह वर्षों प्रतीक्षा करे जब तक उसके रबड़ या ताड़ तेल के पेड़ परिपक्व न हो जाएँ। यही वह प्रस्ताव था जिसने 100,000 से अधिक ग्रामीण मलेशियाई परिवारों का जीवन बदल दिया — और इसका इंजन FELDA था।

@@ -29,7 +29,7 @@ faq:
     a: "சட்ட சுருக்கங்களின்படி, லஞ்சக் குற்றத்திற்கு 20 ஆண்டுகள் வரை சிறைத்தண்டனையும், லஞ்சத்தின் மதிப்பைப் போல் ஐந்து மடங்குக்குக் குறையாத அல்லது RM10,000, இவற்றுள் எது அதிகமோ அதுவரையிலான அபராதமும் விதிக்கப்படலாம். இந்த விவரங்கள் Akta-வின் முழு உரைக்கு எதிராக மீண்டும் சரிபார்க்கப்பட வேண்டும்."
 
 lang: "ta"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
-related: []
+related: ["fam-heritage-players-controversy", "malaysia-cup-domestic-football-leagues", "malaysian-sport-governance"]
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'மேகமூட்டமான வானத்தின் கீழ் வெறிச்சோடிய பிரதான மேடை இருக்கைகளுக்கு முன் ஒரு காலியான கால்பந்து மைதானம் உள்ளது.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: ஒரு கால்பந்து போட்டியின்போது கரும் சீருடை அணிந்த நடுவர் மைதானத்தில் போட்டியை நடத்துகிறார்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு கால்பந்து போட்டியின்போது மைதானத்தில் போட்டியை நடத்தும் போட்டி நடுவர்
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: ஒரு கால்பந்து போட்டி தொடங்குவதற்கு முன் மைய வட்டத்தில் இரு அணித் தலைவர்களுடன் நாணயத்தைச் சுண்டி எறியும் நடுவர்.
+    kind: representative
+    origin: third-party
+    subject: அணித் தலைவர்களுடன் போட்டிக்கு முந்தைய நாணயச் சுண்டலை நடத்தும் நடுவர்
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 1993–1994 பருவத்தில் 100-க்கும் மேற்பட்ட கால்பந்து வீரர்கள் காவல்துறையினரால் அழைத்துச் செல்லப்பட்டபோது, அது வெறும் விளையாட்டு நெருக்கடி மட்டுமல்ல — இன்றுவரை முழுமையாகத் தீர்க்கப்படாத ஒரு சட்ட வினாவை அது திறந்து விட்டது: கிட்டத்தட்ட அனைத்து விளையாட்டு பந்தயங்களையும் தடைசெய்யும் ஒரு நாடு, அந்த பந்தயத்திலிருந்தே பிறக்கும் குற்றத்தை எவ்வாறு கையாள்கிறது?

@@ -36,7 +36,7 @@ faq:
     a: "KL20 என்பது மலேசியாவின் ஸ்டார்ட்அப் போட்டித்திறனை வலுப்படுத்த, கோலாலம்பூரில் KL20 Summit-இல் வெளியிடப்பட்ட 2024 அரசின் செயல்திட்டமாகும். இது மூன்று முக்கிய கவனப் பகுதிகளில் — மூலதனம், திறமை மற்றும் ஸ்டார்ட்அப்களின் தரம் — முன்முயற்சிகளை வரையறுக்கிறது, மேலும் 2030-க்குள் மலேசியாவை உலகின் முதல்-20 ஸ்டார்ட்அப் மையமாகவும் RM400 பில்லியன் ஸ்டார்ட்அப் மதிப்பீட்டுடனும் ஆக்குவதை இலக்காகக் கொண்டுள்ளது. இது Malaysia Venture Capital Roadmap 2024-2030 மற்றும் 2030-க்குள் மலேசியாவை ஒரு விருப்பமான பிராந்திய risk-முதலீட்டு மையமாக்கும் இலக்குடன் ஒத்திசைக்கப்பட்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: பெரிய ஜன்னல்கள் மற்றும் ஒரு தோல் சோஃபாவுடன் கூடிய ஒரு வெதுவெதுப்பான, தொழில்துறை-பாணி கூட்டுப் பணியிடத்தில், நீண்ட பகிர்ந்த மரமேசைகளில் மடிக்கணினிகளில் பணியாற்றி உரையாடும் மக்கள்
+    kind: representative
+    origin: third-party
+    subject: ஒரு தொழில்துறை-பாணி கூட்டுப் பணியிடத்தில் பகிர்ந்த மேசைகளில் மடிக்கணினிகளில் பணியாற்றி உரையாடும் மக்கள்
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: ஒரு கூட்டுப் பணியிட அலுவலகத்தில் வட்டமாக நின்று, ஒரு தொழில்நுட்ப நிகழ்வின்போது அவர்களில் ஒருவர் ஒரு கருத்தைச் சொல்லும்போது கவனமாகக் கேட்கும் ஒரு சிறிய தொடக்க நிறுவன நிறுவனர் குழு
+    kind: representative
+    origin: third-party
+    subject: ஒரு தொழில்நுட்ப இன்குபேட்டர் நிகழ்வில் ஒன்றாக உரையாடும் ஒரு சிறிய தொடக்க நிறுவன நிறுவனர் குழு
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'மலேசியாவின் சைபர்ஜெயாவில் உள்ள நவீன பல மாடி தொழில்நுட்ப அலுவலகக் கட்டிடம், கிடைமட்ட கண்ணாடி-உலோக ஜன்னல் தட்டிகள் கொண்ட முகப்பும் ''TM Innovation Centre'' (டிஎம் புத்தாக்க மையம்) பலகையும் கொண்டது, தெளிந்த நீல வானத்தின் கீழ்.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 பத்து மலேசிய நிறுவனர்களிடம் அரசு ஸ்டார்ட்அப் பணம் எங்கிருந்து வருகிறது என்று

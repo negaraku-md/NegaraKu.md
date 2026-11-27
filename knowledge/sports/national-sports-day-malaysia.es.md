@@ -29,7 +29,7 @@ faq:
     a: "El HSN es el día central de la celebración. Desde 2019, el KBS ha ampliado la celebración a todo el mes de octubre como Mes Nacional del Deporte (BSN)."
 
 lang: "es"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'Una multitud de corredores pasa junto al iluminado Edificio Sultan Abdul Samad durante una carrera nocturna de calle en Kuala Lumpur.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: Una gran multitud de ciclistas de todas las edades llenando una calle cerrada de Kuala Lumpur al amanecer durante un evento de Car Free Day, bajo una pancarta festiva.
+    kind: representative
+    origin: third-party
+    subject: Ciclistas de participación masiva en una mañana de Car Free Day en Kuala Lumpur
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: Jóvenes atletas y oficiales reunidos en la pista roja de un estadio malasio durante un campeonato de atletismo escolar de distrito, con focos y gradas al fondo.
+    kind: representative
+    origin: third-party
+    subject: Atletas en la pista en un campeonato de atletismo escolar de distrito en Malasia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 Cada sábado de la segunda semana de octubre, los campos deportivos, parques y pabellones de toda Malasia deberían estar abarrotados: esa es la intención que hay detrás del Día Nacional del Deporte.

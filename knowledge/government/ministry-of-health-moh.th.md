@@ -27,7 +27,7 @@ faq:
   - q: "KKM บริหารโรงพยาบาลเอกชนหรือไม่?"
     a: "ไม่ KKM ดำเนินการโรงพยาบาลและคลินิกของรัฐและกำกับดูแลการดูแลสุขภาพภาคเอกชนแยกต่างหากภายใต้พระราชบัญญัติสถานพยาบาลและบริการเอกชน 1998 (Private Healthcare Facilities and Services Act 1998, Act 586) ซึ่งกำหนดมาตรฐานคุณภาพและความปลอดภัยขั้นต่ำและกำหนดเพดานค่าธรรมเนียมที่แพทย์อาจเรียกเก็บสำหรับหัตถการ"
 lang: "th"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,9 +79,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: 'อาคารราชการหินทรายและกระจกสีเขียวสูงยอดประดับมงกุฎทรงสี่เหลี่ยมเปิด พร้อมคำว่า KEMENTERIAN KESIHATAN MALAYSIA และตราแผ่นดินเหนือหลังคาคลุมทางเข้าตัดกับท้องฟ้าครึ้ม'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: อาคารราชการกระจกสีเขียวเด่น มีปีกอาคารเหลี่ยมมุมแหลมและหลังคายื่น มีธงชาติมาเลเซียแนวตั้งยาวห้อยลงมาตามด้านขวาเหนือลานปูกระเบื้อง
+    kind: actual
+    origin: third-party
+    subject: อาคารกองบริหารการฝึกอบรมของกระทรวงสาธารณสุขมาเลเซียในคอมเพล็กซ์ KKM ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 เมื่อคุณเดินเข้าไปในคลินิกของรัฐบาลมาเลเซีย ยื่นธนบัตร RM1 หนึ่งใบ แล้วเดินออกมาโดยได้รับการปรึกษาและได้ยาครอบคลุมแล้ว คุณกำลังใช้หนึ่งในระบบสุขภาพที่ได้รับการอุดหนุนมากที่สุดในโลก ผู้บริหารระบบนี้คือ **กระทรวงสาธารณสุขมาเลเซีย** — *Kementerian Kesihatan Malaysia* (**KKM**) หรือ **MOH** ในภาษาอังกฤษ — กระทรวงระดับสหพันธ์ที่รับผิดชอบสาธารณสุข การรักษาพยาบาล การวิจัยทางการแพทย์ การส่งเสริมสุขภาพ การกำกับดูแลยาและเครื่องมือแพทย์ การดูแลทันตกรรม และความปลอดภัยของผู้ป่วย มีสำนักงานใหญ่ที่ Complex E (Blocks E1, E3, E6, E7 และ E10) ในศูนย์บริหารราชการสหพันธ์ 62590 Putrajaya

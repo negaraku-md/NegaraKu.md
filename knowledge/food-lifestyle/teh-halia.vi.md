@@ -82,7 +82,15 @@ drinkFacts:
   origin: "Một biến thể gừng của teh tarik ở Malaysia — 'halia' trong tiếng Mã Lai nghĩa là gừng — được kéo theo cùng một cách khi làm thành teh tarik halia. Một phần của gia đình teh tarik ở quầy kopitiam và mamak, không phải một truyền thống riêng biệt."
   halal: "Trà, gừng và sữa, không có cồn, nên bản thân thức uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quầy kopitiam hay mamak."
   served: "Phục vụ nóng để mang lại sự ấm áp dễ chịu, và cũng có cả đá. Ngọt vì sữa đặc; gọi ít ngọt hơn nếu muốn. Thường được kéo (tarik) như teh tarik; một ly êm dịu được ưa chuộng và là một thức uống suhoor phổ biến trong tháng Ramadan."
-  where: "Tìm thấy tại các quầy kopitiam và mamak khắp cả nước, rót từ cùng quầy với teh tarik và kopi; cũng được bán dưới dạng gói trà sữa gừng pha liền."
+  where: "Tìm thấy tại các quầy kopitiam và mamak khắp cả nước, rót từ cùng quầy với teh tarik và kopi; cũng được bán dưới dạng gói trà sữa gừng pha liền."
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Những cốc thủy tinh trà sữa gừng nâu (teh halia) trên bàn gỗ"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Lấy thức uống nổi tiếng nhất của đất nước, thêm một chút gừng ấm nóng, và bạn có **teh

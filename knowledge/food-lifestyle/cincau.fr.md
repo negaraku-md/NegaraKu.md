@@ -85,6 +85,14 @@ drinkFacts:
   halal: "Le cincau est d'origine végétale et sans alcool — herbes bouillies, eau et sucre — donc la gelée elle-même est halal. La garantie halal porte sur l'établissement et sur tout ce avec quoi il est mélangé (comme le lait dans un soya cincau bicolore), de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque établissement."
   served: "Servi froid. Seul, c'est l'« air cincau » — des cubes de gelée dans de l'eau glacée sucrée. Versé avec du lait de soja, il devient le « soya cincau », surnommé le « Michael Jackson » pour ses couches noir et blanc. C'est aussi une garniture classique du cendol, de l'ais kacang (ABC) et du leng chi kang aux ingrédients multiples."
   where: "On le trouve dans les kopitiam, les stands de rue, les boutiques de desserts et les pasar malam de tout le pays, et vendu prêt à boire en briques et en canettes (comme Yeo's) dans tous les supermarchés et épiceries."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Une boisson fraîche de gelée d'herbe (cincau) avec de la gelée foncée déposée au fond"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 Par un après-midi de chaleur dans un café malaisien, l'une des façons les moins

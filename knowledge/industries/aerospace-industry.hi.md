@@ -34,7 +34,7 @@ faq:
     a: "दोनों, पर इसका गुरुत्व-केंद्र सेवाएँ हैं। MRO और कंपोनेंट विनिर्माण का दबदबा है; मलेशिया संरचनाएँ, कंपोजिट और इंजन के पुर्ज़े बनाता है और विमानों का रखरखाव करता है, लेकिन इसकी विमान-स्तरीय डिज़ाइन और विकास क्षमता कमज़ोर है।"
 
 lang: "hi"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,9 +79,37 @@ sources:
 entity: "Malaysia aerospace industry"
 relations:
   - { rel: "related-to", to: "economy" }
-related: []
+related: ["manufacturing-industry-overview", "construction-industry"]
 keywords: ["एयरोस्पेस", "aerospace", "MRO", "रखरखाव मरम्मत ओवरहॉल", "एयरो-विनिर्माण", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'एक उजले, ऊँची-छत वाले विमान रखरखाव हैंगर के भीतर खड़े कई वाणिज्यिक जेट यात्री विमान'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: एक विशाल विमान असेंबली फैक्ट्री के भीतर हरे प्राइमर से रंगे एयरलाइनर धड़ कतार में खड़े हैं, जिनके भीतर कर्मचारी काम कर रहे हैं
+    kind: representative
+    origin: third-party
+    subject: एक बड़ी एयरोस्पेस फैक्ट्री के भीतर असेंबली लाइन पर विमान के धड़
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: एक हैंगर में दो विमान-रखरखाव तकनीशियन एक छोटे विमान के इंजन और चार-ब्लेड वाले प्रोपेलर पर काम कर रहे हैं
+    kind: representative
+    origin: third-party
+    subject: एक रखरखाव हैंगर में विमान के इंजन और प्रोपेलर की सर्विसिंग करते तकनीशियन
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 एक विमान तूलूज़ या सिएटल में बनाया जा सकता है, पर अपने तीस-वर्षीय जीवन में कहीं न कहीं उसके इंजन खोलने, उसकी संरचना की जाँच करने और उसके एवियॉनिक्स को ताज़ा करने की ज़रूरत पड़ेगी — और बढ़ते हुए, मलेशिया चाहता है कि वह काम सुबांग (Subang) या सिनाई (Senai) में हो। किसी भी असेंबली लाइन से अधिक, यही प्रवृत्ति देश के एयरोस्पेस क्षेत्र की आकृति को समझाती है।

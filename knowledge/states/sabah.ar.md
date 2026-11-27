@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "القرّاء الباحثون عن ملف وقائعي لصباح — جغرافيتها واقتصادها وحكومتها — وعن عرض محايد لوضعها الدستوري بموجب اتفاقية ماليزيا 1963."
 
 lang: "ar"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["صباح", "Sabah Malaysia", "كوتا كينابالو", "Kota Kinabalu", "جبل كينابالو", "Mount Kinabalu", "اتفاقية ماليزيا 1963", "Malaysia Agreement 1963", "أرض ما تحت الريح", "Land Below the Wind", "اقتصاد صباح", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'قمم جبل كينابالو الغرانيتية الرمادية الوعرة ترتفع فوق السفوح المكسوّة بالغابات وقمم الأشجار الخضراء تحت سماء زرقاء.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: يعكس مسجد مدينة كوتا كينابالو الأبيض والذهبي قبابه في البحيرة الاصطناعية التي تحيط به على ساحل صباح.
+    kind: actual
+    origin: third-party
+    subject: مسجد مدينة كوتا كينابالو، صباح
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: يحيط شاطئ شاحب اللون تتناثر عليه أخشاب الطفو بالمياه الضحلة الفيروزية لجزيرة Mataking قبالة سيمبورنا في صباح.
+    kind: actual
+    origin: third-party
+    subject: جزيرة Mataking قرب سيمبورنا، صباح
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 لم تنضمّ صباح إلى ماليزيا بوصفها ولايةً تنضمّ إلى دولة. بل انضمّت بوصفها أحد الأقاليم

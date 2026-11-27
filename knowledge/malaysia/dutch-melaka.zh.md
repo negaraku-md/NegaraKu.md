@@ -20,7 +20,7 @@ keyTakeaways:
   - "1824年3月17日签署的英荷条约将马六甲永久割让给英国，以换取Bencoolen；实际移交则于1825年3月1日生效"
 appliesTo: "已经了解马六甲曾从葡萄牙人手中转到荷兰人手中、再转到英国人手中的读者，想进一步了解为何中间那184年与之前的130年及之后的121年如此不同——以及移交英国的过程究竟是如何发生的。"
 lang: "zh"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: 马六甲是在一次干净利落的交接中从荷兰人转交给英国人的吗？
     a: 不是。它在三十年间行政上四次易手。英国于1795年根据《基尤信函》（Kew Letters）占领马六甲，以防其落入法国之手；1818年马六甲归还荷兰；1824年的《英荷条约》（于1824年3月17日签署）将其永久割让给英国，以换取苏门答腊的明古连（Bencoolen）；而实际移交于1825年3月1日生效。
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: '马六甲荷兰红屋广场上深红色的荷兰殖民时期建筑红屋（Stadthuys）及其红色钟楼，前方有一座繁花似锦的环岛和一根指路标牌。'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: 马六甲基督堂深红色的砖砌立面衬着天空，山墙上嵌着一个白色十字架和一座时钟。
+    kind: actual
+    origin: third-party
+    subject: 马六甲基督堂（Christ Church），1753年荷兰人所建的教堂
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: 一座粉白色的拱形门楼上写着「Kubur Belanda / The Dutch Graveyard」，门后是马六甲圣保罗山上绿树成荫的殖民时期墓园。
+    kind: actual
+    origin: third-party
+    subject: 马六甲圣保罗山上的荷兰坟场（Kubur Belanda）
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 一家公司花了七个月时间，并与一个外国苏丹国结盟，才征服了一座港口。此后，它又花了接下来的一个半世纪，确保这座港口永远无法致富。

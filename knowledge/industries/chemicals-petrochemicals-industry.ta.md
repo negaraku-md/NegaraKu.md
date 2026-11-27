@@ -31,7 +31,7 @@ faq:
   - q: இரசாயனத் தொழிலை அரசாங்கம் எவ்வாறு ஆதரிக்கிறது?
     a: மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (MIDA), அதன் Chemical and Advanced Material Division மூலம், உற்பத்தி உரிமங்களை மதிப்பிட்டு Pioneer Status மற்றும் Investment Tax Allowance போன்ற சலுகைகளை வழங்குகிறது. பெட்ரோலியம் மற்றும் பெட்ரோ இரசாயனத் திட்டங்கள் Petroleum Development Act 1974 இன் கீழும் ஆளப்படுகின்றன. Chemical Industry Roadmap 2030 மற்றும் New Industrial Master Plan 2030 சிறப்பு, அதிக-மதிப்பு இரசாயனங்களை நோக்கிய மூலோபாயத் திசையை அமைக்கின்றன.
 lang: ta
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'இரவில் வெளிச்சமூட்டப்பட்ட பரந்து விரிந்த பெட்ரோகெமிக்கல் சுத்திகரிப்பு வளாகம், அதன் வடித்தல் கோபுரங்களும் குழாய் அமைப்பும் ஒளிர்கின்றன, நீர்முகப்புக்கு அருகில் வாயுவை எரிக்கும் ஃப்ளேர் ஸ்டாக்கிற்கு அருகே.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: நெகிரி செம்பிலானின் போர்ட் டிக்சனுக்குக் கிழக்கே உள்ள ஹெங்யுவான் எண்ணெய் சுத்திகரிப்பு நிலையத்தின் வடித்தல் கோபுரங்களும் சேமிப்புத் தொட்டிகளும் பகல் வெளிச்சத்தில் காணப்படுகின்றன.
+    kind: actual
+    origin: third-party
+    subject: நெகிரி செம்பிலானின் போர்ட் டிக்சனில் ஹெங்யுவான் எண்ணெய் சுத்திகரிப்பு நிலையம்
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: சபாவின் கிமானிஸில் உள்ள சபா எண்ணெய் மற்றும் எரிவாயு முனையத்தின் சுடர் புகைபோக்கியும் பதப்படுத்தும் கட்டமைப்புகளும் பகல் வானத்தின் கீழ்.
+    kind: actual
+    origin: third-party
+    subject: கிமானிஸில் உள்ள சபா எண்ணெய் மற்றும் எரிவாயு முனையம் (SOGT)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 பிளாஸ்டிக்குகள், உரங்கள், சுத்திகரிப்பான்கள், செயற்கை ரப்பர், அழகுசாதனப் பொருட்கள், வர்ணங்கள் மற்றும் உங்கள் தொலைபேசி உறைக்குள் உள்ள பிசின்கள் அனைத்தும் இரசாயனங்களாகத் தொடங்குகின்றன — மேலும் அவற்றில் ஆச்சரியப்படும் அளவு பங்கு, அல்லது அவற்றின் கட்டுமானத் தொகுதிகள், மலேசியாவில் தயாரிக்கப்படுகின்றன. நாட்டின் நன்கறியப்பட்ட எண்ணெய்-மற்றும்-எரிவாயு மற்றும் பனை-எண்ணெய்க் கதைகளுக்குப் பின்னால், கச்சா ஹைட்ரோகார்பன்கள் மற்றும் தாவர எண்ணெய்களை நவீன வாழ்க்கை சார்ந்திருக்கும் பொருட்களாக மாற்றும் ஒரு பெரிய, அமைதியாக மூலோபாய ரீதியான இரசாயனங்கள் மற்றும் பெட்ரோ இரசாயனத் தொழில் அமர்ந்துள்ளது.

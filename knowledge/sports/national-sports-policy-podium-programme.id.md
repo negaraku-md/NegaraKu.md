@@ -35,7 +35,7 @@ faq:
     a: "Target dikaitkan dengan siklus pesta olahraga utama — Olimpiade, Asian Games dan Commonwealth Games — dan fokus diberikan kepada olahraga yang diidentifikasi memiliki peluang keberhasilan tinggi, sejalan dengan Tujuan 8 Dasar Sukan Negara. Pembiayaan disalurkan menurut siklus (contohnya RM60 juta setahun untuk empat tahun), dikoordinasi oleh Majlis Sukan Negara dan didukung sains olahraga oleh Institut Sukan Negara."
 
 lang: "id"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "institut-sukan-negara" }
   - { rel: "part-of", to: "dasar-sukan-negara-2009" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-day-malaysia"]
 keywords:
   - "Dasar Sukan Negara 2009"
   - "Program Podium Malaysia"
@@ -93,6 +93,32 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'Para pesenam peraih medali berdiri di atas podium pada SEA Games Kuala Lumpur 2017 saat seorang atlet Malaysia memegang bendera nasional.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: Pemain para-bulu tangkis Malaysia Cheah Liek Hou, dengan jersi kuning Malaysia, bergerak ke net selama final tunggal SU5 putra di Paralimpiade Paris 2024.
+    kind: actual
+    origin: third-party
+    subject: Atlet elite Malaysia Cheah Liek Hou bertanding di Paralimpiade Paris 2024
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: Pusat Akuatik Pandelela Rinong di Kuching, sebuah arena loncat indah dan renang modern berwarna merah dan hijau yang dinamai sesuai peraih medali loncat indah Olimpiade Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Pusat Akuatik Pandelela Rinong, sebuah arena olahraga elite Malaysia yang dinamai sesuai peraih medali Olimpiade
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 Setiap kali seorang atlet Malaysia melangkah ke podium Olimpiade, dua sistem yang berbeda sebenarnya sedang bekerja di belakangnya — satu yang berupaya mengajak seluruh rakyat bergerak, dan satu lagi yang memusatkan sumber daya besar kepada segelintir kecil yang mampu menang. Keduanya hidup di bawah satu dokumen kebijakan yang sama, tetapi dibiayai dan diukur dengan cara yang sangat berbeda.

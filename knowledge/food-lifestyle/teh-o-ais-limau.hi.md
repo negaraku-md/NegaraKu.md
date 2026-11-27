@@ -85,6 +85,13 @@ drinkFacts:
   halal: "teh-O ais limau काली चाय, पानी, चीनी, बर्फ़ और नींबू है, बिना दूध और बिना शराब के, इसलिए पेय स्वयं हलाल है। हलाल का आश्वासन परिसर से जुड़ा होता है, इसलिए जिन्हें प्रमाणन चाहिए उन्हें अलग-अलग mamak या कॉफ़ी शॉप की जाँच कर लेनी चाहिए।"
   served: "बर्फ़ीली ('ais') परोसी जाती है, अक्सर एक लंबे गिलास में नींबू निचोड़कर। गर्म संस्करण के लिए 'teh-O limau panas' ऑर्डर करें, या बिना चीनी के लिए 'kosong' जोड़ें। डिफ़ॉल्ट मीठा आता है, इसलिए 'kurang manis' (कम मीठा) एक आम अनुरोध है।"
   where: "देश भर के mamak ठेलों, kopitiam कॉफ़ी शॉपों और pasar malam पर मिलती है, जहाँ यह डिफ़ॉल्ट गर्म-मौसम ऑर्डरों में से एक है — वह हल्का विकल्प जब teh tarik बहुत समृद्ध लगे।"
+hero: "/media/food/teh-o-ais-limau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "नींबू के टुकड़ों वाली, बिना दूध की बर्फ़ीली काली चाय (teh o ais limau) का लंबा गिलास"
+heroCredit: "Lombroso / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG"
 ---
 
 "teh tarik" ऑर्डर कीजिए और आपको मलेशियाई कॉफ़ी शॉप का समृद्ध, झागदार, दूधिया प्रतीक मिलता है।

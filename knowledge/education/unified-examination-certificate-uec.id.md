@@ -30,7 +30,7 @@ faq:
     a: "Ya. Bahasa Melayu adalah mata pelajaran wajib dalam sistem UEC. Banyak pelajar UEC juga mengikuti SPM sebagai calon mandiri; Dong Zong melaporkan tingkat kelulusan Bahasa Melayu SPM di kalangan pelajar SMPC melebihi 96% untuk tahun 2022–2024 (97.38% pada 2022, 97.11% pada 2023, dan 96.65% pada 2024), menggunakan kertas SPM yang sama seperti calon lain."
 
 lang: "id"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'Papan tanda masuk dan halaman Sabah Chinese High School (Sekolah Tinggi Cina Sabah) di Tawau, sebuah sekolah menengah independen Tionghoa yang siswanya mengikuti Unified Examination Certificate.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: Gapura masuk dan papan nama Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) di Johor Bahru, dengan bendera negara bagian Johor dan lambang sekolah.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School, sebuah sekolah menengah independen Tionghoa di Johor Bahru
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: Gedung perpustakaan (Perpustakaan) Foon Yew High School yang bertingkat di Johor Bahru, dengan namanya ditampilkan dalam bahasa Melayu dan Mandarin di atas beranda berubin.
+    kind: actual
+    origin: third-party
+    subject: Gedung perpustakaan Foon Yew High School
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 Tiga huruf — UEC — mampu memicu perdebatan yang berkepanjangan lebih dari setengah abad dalam politik pendidikan Malaysia. Bagi sebagian pihak, ia sertifikat bertaraf internasional yang membuka pintu ke universitas terkemuka dunia; bagi yang lain, ia menyentuh kedudukan bahasa kebangsaan dan kebijakan pendidikan negara. Kedua pandangan ada secara bersamaan, dan keduanya perlu dipahami untuk melihat gambaran penuh.

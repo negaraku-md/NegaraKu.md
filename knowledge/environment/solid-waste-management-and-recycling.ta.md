@@ -31,7 +31,7 @@ faq:
     a: "பெரும்பாலும் நிலநிரப்பு தளங்களுக்கே. மலேசியா 135 நிலநிரப்பு தளங்களை இயக்குகிறது — 114 திறந்தவெளி கழிவு கொட்டும் தளங்கள் மற்றும் 22 சுகாதார நிலநிரப்பு தளங்கள் — மேலும் நிலநிரப்பு முறையே நாட்டின் முதன்மையான அகற்றல் முறையாக நீடிக்கிறது."
 
 lang: "ta"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,9 +103,35 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'மலேசியாவின் ஜொகூரில் ஆடை, காகிதம், பிளாஸ்டிக், கண்ணாடி மற்றும் அலுமினியத்திற்காக மலாய் மொழியில் பெயரிடப்பட்ட தொட்டிகளுடன் கூடிய பல்பொருள் அங்காடி மறுசுழற்சி சேகரிப்பு மையம்.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: செலாங்கூர், ஹுலு செலாங்கூர், காம்போங் செபாக்காத்துக்கு அருகே உள்ள புக்கிட் தாகர் சுகாதார குப்பைக் கிடங்கு தளம்
+    kind: actual
+    origin: third-party
+    subject: ஹுலு செலாங்கூர், புக்கிட் தாகர் சுகாதார குப்பைக் கிடங்கு
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: சபா, குடாட்டில் உள்ளூர் மன்றத்தால் இயக்கப்படும் ஒரு நகராட்சி குப்பை சேகரிப்பு லாரி
+    kind: actual
+    origin: third-party
+    subject: சபா, குடாட்டில் நகராட்சி குப்பை சேகரிப்பு லாரி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 Johor-இல் குப்பையைப் போடுங்கள், அது கூட்டரசு அரசாங்கத்தின் விவகாரமாகிறது; அதே குப்பையை Pulau Pinang-இல் போடுங்கள், அது இன்னும் உள்ளாட்சி சபையின் விவகாரமாகவே இருக்கிறது. மலேசியா தனது திடக்கழிவை நிர்வகிக்கும் விதத்தின் மையமான புதிரே இதுதான் — ஒரு பிரமாண்டமான கூட்டரசு சட்டம், ஆனால் அதை ஏற்றுக்கொள்ள ஒப்புக்கொண்ட இடங்களில் மட்டுமே அமலில் உள்ளது.

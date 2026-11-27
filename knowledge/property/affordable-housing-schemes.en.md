@@ -32,7 +32,7 @@ faq:
     a: "A moratorium is a period during which you are prohibited from reselling the home without approval. Residensi Wilayah imposes a 10-year moratorium and Rumah Selangorku a 5-year one, to prevent speculation and ensure the homes remain available for the target group."
 
 lang: "en"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,9 +84,36 @@ entity: "Skim Rumah Mampu Milik Kerajaan"
 relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "home-loan-financing" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "ministry-of-housing-local-government-kpkt", "property-agents-and-fees"]
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Two tall blocks of Malaysian public-housing flats in Bukit Jalil, one cream and one pink with red roofs, their balconies hung with laundry and fitted with satellite dishes, rising above a line of green trees under a bright blue sky'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: A long row of cream, red-roofed public-housing tower blocks in Bukit Jalil, each unit lettered, with cars parked along the estate road and greenery and a city skyline in the distance
+    kind: actual
+    origin: third-party
+    subject: a row of People's Housing Programme (PPR) high-rise flats with a resident car park in Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: A single mustard-and-white public-housing apartment block in Kota Damansara seen from below against an overcast sky, its many identical units fitted with window grilles and air-conditioners, framed by a tree branch
+    kind: actual
+    origin: third-party
+    subject: a PPR public-housing block (Gugusan Kemuning) in Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 Your salary is RM4,000 a month and the price of a terrace house in the city has already hit half a million ringgit — where should you even start looking? The answer is not a single scheme, but a menu of government schemes, each targeting a different income band. Picking the wrong one means wasting months waiting for a ballot on a home you were never eligible for in the first place.

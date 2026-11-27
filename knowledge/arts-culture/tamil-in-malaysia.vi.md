@@ -32,7 +32,7 @@ seoTitle: "Tiếng Tamil ở Malaysia: người nói, trường SJKT và địa 
 socialTitle: "Tiếng Tamil được nói, dạy học và bảo vệ ở Malaysia như thế nào"
 
 lang: "vi"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,32 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'Biển hiệu cổng của một trường dạy bằng tiếng Tamil ở Changlun, Kedah, viết bằng chữ Tamil phía trên tên tiếng Anh S.J.K (Tamil) Changlun, với tòa nhà trường học phía sau.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: Một biển 'Cấm vào' của Malaysia màu đỏ và trắng ghi 'Dilarang Masuk' với cùng lời cảnh báo bằng tiếng Anh, tiếng Hoa, tiếng Punjab và, ở dòng dưới cùng, chữ Tamil.
+    kind: actual
+    origin: third-party
+    subject: Biển báo đa ngôn ngữ của Malaysia có một dòng chữ Tamil, Kota Kinabalu
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: Dãy phòng học mở của một trường tiểu học quốc lập hệ Tamil ở Changlun, Kedah, với các ô cửa và đường mái treo cờ Malaysia dưới bầu trời trong.
+    kind: actual
+    origin: third-party
+    subject: Dãy phòng học của một trường tiểu học quốc lập hệ Tamil, Changlun, Kedah
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 Trên các đồn điền cao su xưa của Mã Lai, một số lớp học sớm nhất là những chiếc lán và túp lều, và các bài học được dạy bằng tiếng Tamil. Theo một nghiên cứu lịch sử đăng trên tạp chí của Hội Lịch sử Malaysia, một nền giáo dục tiểu học cơ bản bằng tiếng Tamil được cung cấp trên các đồn điền từ đầu thế kỷ 20, theo các bộ luật lao động thời bấy giờ và, trong một thời gian dài, được các nhân viên văn thư và người dạy bán thời gian đảm nhận thay vì giáo viên được đào tạo.

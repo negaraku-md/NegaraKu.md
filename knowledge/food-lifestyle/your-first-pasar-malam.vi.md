@@ -34,7 +34,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["pasar malam lần đầu", "cách đi pasar malam", "hướng dẫn pasar malam Malaysia", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam halal", "cách gọi món chợ đêm Malaysia", "chỗ ngồi pasar malam", "an toàn thực phẩm pasar malam"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'Một người bán hàng phục vụ khách tại một sạp chợ đêm rực sáng, tủ kính đầy đồ ăn vặt chiên và đậu phụ cùng những biển giá viết tay'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: Những xiên tre thịt nướng tẩm phủ bóng đang xèo xèo và bốc khói trên một vỉ nướng đen tại một quầy chợ đêm
+    kind: actual
+    origin: third-party
+    subject: những xiên món nướng kiểu satay bốc khói trên vỉ nướng tại một chợ đêm
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 Lần đầu đến một pasar malam có thể khiến bạn mất phương hướng: một dòng người

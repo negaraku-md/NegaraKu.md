@@ -27,7 +27,7 @@ faq:
   - q: "गृह मंत्री कौन हैं?"
     a: "2026 तक गृह मंत्री Datuk Seri Panglima Saifuddin Nasution bin Ismail हैं, जो 3 दिसंबर 2022 से पद पर हैं। मंत्रिमंडल के विभाग फेरबदल के साथ बदलते हैं, इसलिए वर्तमान पदधारी की पुष्टि moha.gov.my पर करें।"
 lang: "hi"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,9 +73,37 @@ sources:
 entity: "Ministry of Home Affairs (Malaysia) / Kementerian Dalam Negeri (KDN)"
 wikidata: "Q4294304"
 relations: []
-related: []
+related: ["immigration-department-jim", "national-anti-drugs-agency-aadk", "rela-peoples-volunteer-corps"]
 keywords: ["KDN", "Kementerian Dalam Negeri", "मलेशिया गृह मंत्रालय", "Ministry of Home Affairs Malaysia", "MOHA", "KDN एजेंसियाँ", "KDN विभाग", "agensi bawah KDN", "मलेशिया गृह मंत्री", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "फ़िल्म सेंसरशिप बोर्ड"]
 framework: profile
+hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'
+heroAlt: 'पुत्रजया में गृह मंत्रालय (KDN) की लाल-ईंट की इमारत का सामने का दृश्य, एक भव्य मेहराबदार प्रवेश के ऊपर मेहराबदार खिड़कियों से घिरी इसकी केंद्रीय मीनार, नीली आसमान के नीचे चौक को घेरते ताड़ के पेड़'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: पुत्रजया में लाल-ईंट की Ministry of Home Affairs मीनार के शीर्ष का निकट दृश्य, जहाँ छत के पास मंत्रालय प्रतीक और बड़े सफ़ेद 'KDN' अक्षर लगे हैं
+    kind: actual
+    origin: third-party
+    subject: मुखौटे पर 'KDN' प्रतीक और अक्षर दिखाती KDN इमारत की ऊपरी मंज़िलें, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: पुत्रजया में लाल-ईंट की Ministry of Home Affairs इमारत, एक सममित सीढ़ीदार चौक के पार देखी गई जिसमें एक सीढ़ीनुमा केंद्रीय जल-प्रपात और ताड़ के पेड़ों की कतारें हैं, बादल भरे नीले आसमान के नीचे
+    kind: actual
+    origin: third-party
+    subject: सीढ़ीदार जल-प्रपात चौक से देखी गई KDN इमारत, Block D1, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 जब कोई मलेशियाई पासपोर्ट नवीनीकृत कराता है, जब पुलिस गिरफ़्तारी करती है, जब किसी विदेशी कर्मचारी के परमिट की जाँच होती है, या जब किसी फ़िल्म को रिलीज़ के लिए रेटिंग दी जाती है — इन चारों के पीछे एक ही मंत्रालय खड़ा होता है। वह मंत्रालय **गृह मंत्रालय** है, जिसे मलय में **Kementerian Dalam Negeri (KDN)** और अंग्रेज़ी में **MOHA** के रूप में जाना जाता है।

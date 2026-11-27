@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 
 status: "published"
 aiAssisted: true
@@ -77,9 +77,37 @@ relations:
   - { rel: "related-to", to: "electrical-electronics-industry-overview" }
   - { rel: "related-to", to: "automotive-industry-overview" }
   - { rel: "administered-by", to: "mida" }
-related: []
+related: ["aerospace-industry", "construction-industry", "malaysia-free-trade-agreements"]
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: '一条现代汽车装配线，几具车身在明亮的工厂灯光和头顶传送带下排成一列'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: 数条橙色机械臂在工厂的自动化生产线上将黄色货箱码垛
+    kind: representative
+    origin: third-party
+    subject: 橙色工业机械臂在自动化工厂生产线上将包装食品码垛
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: 一名身穿白色全身防护服、戴口罩和手套的技师在明亮的瓷砖洁净室内加工精密金属部件
+    kind: representative
+    origin: third-party
+    subject: 一名身穿白色连体服的技师在高科技洁净室内组装精密设备
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 一提到「马来西亚工厂」，大多数人脑海中浮现的是槟城的半导体无尘车间，或雪邦莎阿南的 Proton 生产线。它们确实存在，规模也很大——但它们只是坐落在一个远为广阔的工业基础之上。2024 年，整个产业创造了 RM1.9 trillion 的销售额，维系着约 240 万人的就业，其中很大一部分来自机械、塑料、橡胶、医疗器械、化工，以及摆上超市货架的食品。

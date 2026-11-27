@@ -39,7 +39,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 
 status: "published"
 aiAssisted: true
@@ -90,7 +90,39 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'पक्षी-दर्शकों और प्रकृति-प्रेमियों के लिए जो नाइटलाइफ़ या बड़े आकर्षणों के बजाय जंगल-पगडंडियों और धुँधले औपनिवेशिक आकर्षण का एक शांत, ठंडी-जलवायु पहाड़ी विश्राम चाहते हैं।'
+  getThere: 'कोई हवाई अड्डा या रेलवे नहीं — आप Kuala Kubu Bharu से The Gap तक एक घुमावदार पहाड़ी सड़क पर ऊपर चढ़ते हैं, जहाँ अंतिम चढ़ाई शुरू होती है, और अब चढ़ाई-और-उतराई का यातायात दो सड़कों में बँटा है (मूल एकल-लेन सड़क ऐतिहासिक रूप से समयबद्ध एकतरफ़ा चलती थी)।'
+  watch: 'यह संकरी, घुमावदार पहाड़ी सड़क धीमी है और बारिश, भूस्खलन या गिरे पेड़ों के बाद बंदी की आशंका वाली है, और पहाड़ी स्वयं अक्सर कुहासे और नमी से भरी रहती है, सीमित भोजन और आपूर्ति के साथ।'
+  next: 'यात्रा से पहले वर्तमान सड़क-पहुँच व्यवस्था और किसी भी बंदी को सड़क प्राधिकरण (JKR) से पुष्ट करें।'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'फ़्रेज़र हिल में धूसर धुंध और ऊँचे चीड़ों के नीचे एक अर्ध-लकड़ी ट्यूडर-शैली इमारत के बगल मलेशियाई झंडों से टँगी पत्थर की घड़ी-मीनार'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: संध्या के समय ऊँचे चीड़ के पेड़ों से घिरा, गर्म रोशनी वाली खिड़कियों और लता से सजा आधा-लकड़ी का सफ़ेद-भूरा Tudor-शैली का होटल
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, Fraser's Hill पर शाम को रोशन एक नक़ली-Tudor औपनिवेशिक होटल
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: ताड़ के पेड़ों वाला सुसज्जित पहाड़ी बगीचा जो घने हरे वर्षावन में उतरता है, पीछे नीली धुंधली पर्वत श्रृंखलाएँ
+    kind: actual
+    origin: third-party
+    subject: Fraser's Hill की ठंडी धुंधली वर्षावन घाटी और दूर की पर्वत श्रृंखलाओं को निहारता एक सीढ़ीदार पहाड़ी बगीचा
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 मलेशिया के अधिकांश पहाड़ी स्टेशन आपको कुछ बेचते हैं — एक कैसीनो, एक चाय बाग़, एक स्ट्रॉबेरी फ़ार्म, एक थीम पार्क। फ़्रेज़र्स हिल आपको उस सब की अनुपस्थिति बेचता है। [Titiwangsa श्रेणी](/hi/malaysia/titiwangsa-range) पर वनाच्छादित मेड़ों के एक समूह में फैला, यह एक छोटा, शांत, धुंध-लिपटा औपनिवेशिक-युग का स्टेशन है जहाँ सबसे तेज़ चीज़ जो आप सुनेंगे वह पक्षी-गान है, और जहाँ एक स्वेटर भूमध्य रेखा पर भी हास्यास्पद महसूस होना बंद कर देता है। पक्षी-दर्शकों के लिए यह लगभग पवित्र भूमि के क़रीब है; बाक़ी सबके लिए यह इसके अधिक चमकीले पहाड़ी पड़ोसियों का धीमा, कम-कुंजी विकल्प है। यह गाइड शामिल करती है कि फ़्रेज़र्स हिल वास्तव में क्या है, पक्षी-दर्शक क्यों आते हैं, देखने के लिए क्या है, ऊपर की घुमावदार सड़क कैसे काम करती है, और जगह किसके लिए उपयुक्त है और किसके लिए नहीं।

@@ -31,7 +31,7 @@ faq:
   - q: Low Carbon Mobility Blueprint क्या है?
     a: यह स्वच्छ परिवहन के लिए मलेशिया का 2021–2030 रोडमैप है, जिसका नेतृत्व पर्यावरण मंत्रालय और Malaysian Green Technology Corporation (MGTC) करते हैं। यह EV अपनाने और चार्जिंग अवसंरचना के लिए लक्ष्य निर्धारित करता है और EV खरीदारों तथा निर्माताओं को दी जाने वाली कर प्रोत्साहनों का आधार है।
 lang: hi
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - Samsung SDI
   - EV अपनाना
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'मलेशिया के एक राजमार्ग विश्राम स्थल पर चिह्नित इलेक्ट्रिक-वाहन खंड में खड़ी एक DC फास्ट-चार्जिंग इकाई।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: दो बेलनाकार लिथियम-आयन बैटरी सेल, एक 18650 और एक बड़ा 21700 फ़ॉर्मेट, एक-दूसरे के बगल में खड़े।
+    kind: representative
+    origin: third-party
+    subject: बेलनाकार लिथियम-आयन बैटरी सेल
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: एक इलेक्ट्रिक कार का सपाट लिथियम-आयन ट्रैक्शन बैटरी पैक, इसके मॉड्यूलर सेल विन्यास को दिखाने के लिए प्रदर्शित।
+    kind: representative
+    origin: third-party
+    subject: एक इलेक्ट्रिक-वाहन लिथियम-आयन ट्रैक्शन बैटरी पैक
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 मलेशिया ने आधी सदी कारें बनाने में बिताई है। अब वह उन्हें विद्युतीकृत करने का प्रयास कर रहा है — और, उतना ही महत्वपूर्ण, बैटरियाँ बनाने और वह चार्जिंग नेटवर्क खड़ा करने का जिस पर इलेक्ट्रिक वाहन निर्भर करते हैं। यह [मलेशिया के ऑटोमोटिव उद्योग](/hi/industries/automotive-industry/) की मार्गदर्शिका में बताई गई कहानी से अलग है, जो मुख्यतः पेट्रोल और डीज़ल कारों के बारे में है। यहाँ विषय है EV और बैटरी *पारिस्थितिकी-तंत्र*: वाहन, प्रोत्साहन, चार्जर और कारखाने जो मिलकर तय करते हैं कि मलेशिया कितनी तेज़ी से इलेक्ट्रिक गतिशीलता की ओर बदलता है।

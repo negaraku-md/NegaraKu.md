@@ -98,6 +98,7 @@ dishFacts:
   halal: "Versi tradisional bergaya Cina tidak halal: ketulan darah babi beku dan lemak babi goreng ialah tambahan klasik, dan mangkuk Pulau Pinang sering mengandungi darah babi beku yang memperkaya dan menggelapkan kuah. Banyak versi halal yang dikendalikan Muslim meninggalkan babi. Kerana resipi berbeza dari gerai ke gerai, lebih baik semak gerai masing-masing."
   eat: "Kepedasan biasanya tiba berasingan — sesudu pes cili (atau sambal) dikacau masuk atau dihidangkan di tepi supaya setiap orang boleh melaraskannya. Dalam gaya curry laksa Kuala Lumpur dan tengah, pes cili sering dikacau terus ke dalam sup, manakala curry mee Pulau Pinang biasanya dihidangkan dengan pes cili di tepi dan disudahi dengan sejemput daun pudina segar."
   where: "Curry mee dijual di seluruh negara di kopitiam, pusat penjaja dan gerai jalanan, sebagai ruji sarapan dan sepanjang hari. George Town Pulau Pinang ialah tempat memburu paling terkenal, dengan gerai lama membina reputasi merentas generasi, manakala Lembah Klang dan bandar semenanjung lain menghidangkan versi curry laksa dengan limpahan yang sama."
+wikidata: "Q391082"
 ---
 
 Pesan "curry mee" di George Town dan anda akan mendapat semangkuk mi santan

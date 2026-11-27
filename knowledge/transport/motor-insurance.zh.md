@@ -23,7 +23,7 @@ appliesTo: "马来西亚机动车辆的车主与驾驶人——包括汽车、�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 
 status: "published"
 aiAssisted: true
@@ -62,6 +62,32 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: '马来西亚联邦大道上车辆首尾相接堵成一片，车流下方是一座人行天桥。'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: 吉隆坡的一辆蓝色城市拖车，正是在车辆抛锚或发生事故后前来拖车救援的那种车。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚吉隆坡的拖车
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: 车辆在沙巴亚庇 Jalan Bundusan 的傍晚交通堵塞中首尾相接、动弹不得。
+    kind: actual
+    origin: third-party
+    subject: 沙巴亚庇城市道路上的傍晚交通堵塞
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 你可以驾驶一辆从未清洗过、轮胎已磨损、冷气已损坏的汽车——这一切在法律上都完全合法。但没有一份文件——第三者保险单——却驾车上路，则是一项刑事罪行。

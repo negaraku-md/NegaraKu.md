@@ -86,6 +86,13 @@ drinkFacts:
   halal: "Air mata kucing có nguồn gốc thực vật và không cồn — quả khô, la hán quả, bí đao và đường phèn trong nước — nên bản thân đồ uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quầy."
   served: "Thường phục vụ lạnh buốt, rót từ một chiếc bình lớn ướp lạnh; cũng có thể uống ấm hoặc ở nhiệt độ phòng. Nó ngọt và giải khát và tự nhiên không chứa caffeine, điều khiến nó là một đồ uống dễ dùng bất cứ lúc nào chứ không phải một món 'đánh thức' buổi sáng."
   where: "Tìm thấy tại các quầy hàng rong, tiệm tráng miệng và chợ đêm, và nổi tiếng nhất là từ một quầy lâu đời trên Jalan Petaling (Petaling Street) ở khu Chinatown của KL, nơi nó được rót lạnh buốt từ một chiếc bình kim loại lớn cho những đám đông đi ngang khu chợ."
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Thùng nước nhãn long air mata kucing màu sẫm tại quầy hàng rong Malaysia với biển song ngữ"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 Bước ra khỏi con hẻm chợ đông đúc của Petaling Street ở khu Chinatown của Kuala

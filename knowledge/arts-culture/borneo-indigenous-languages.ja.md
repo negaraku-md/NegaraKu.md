@@ -34,7 +34,7 @@ faq:
     a: "はい、一部は教えられている。教育省の学生母語（Pupil's Own Language、POL）プログラムのもとで、通常は選択科目として教えられる。カダザンドゥスン語は1997年に始まった試験導入以来、サバ州の公立学校で教えられており、イバン語はサラワク州の学校で教えられている。開講の可否は需要と、政策で定められた最低クラス人数を満たすかどうかによって決まる。"
 
 lang: "ja"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,32 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'サラワクの川を見下ろす森に覆われた丘の斜面に、木の杭の上に建つ長いイバン（Iban）族の木造ロングハウス。ダヤク（Dayak）コミュニティの共同住居である。'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: 黒と金のカダザン衣装と円錐形の帽子を身につけ、竹製の楽器を手にした若者たちが、サバの野外文化イベントに参加している
+    kind: actual
+    origin: third-party
+    subject: 伝統衣装をまとったカダザン・タンガラ（Kadazan Tangara）の人々が、サバ州パパルの収穫祭カアマタン（Kaamatan）を祝う様子
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: オラン・ウルの儀礼衣装とビーズ飾りの頭飾りを身につけた男女が、ボルネオの渦巻き文様が描かれた壁の前に立っている
+    kind: actual
+    origin: third-party
+    subject: 伝統衣装をまとったオラン・ウル（Orang Ulu）の夫婦が、文様の描かれたロングハウスの壁画の前に立つ、サラワク州
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 ボルネオの内陸部を飛行機で越えれば、一時間のうちに、たいていの国が国内全体で抱える数より多くの言語を通り過ぎることになる。サバ州高地の川筋、サラワク州の上流バラム川沿いのロングハウス、沿岸の漁村——そのどこもが、隣の谷ではほとんど理解されない言葉であなたを迎えるかもしれない。

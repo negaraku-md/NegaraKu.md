@@ -35,7 +35,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -86,6 +86,34 @@ festivalFacts:
   when: "30 dan 31 Mei, dengan sambutan berlangsung sepanjang sebahagian besar bulan Mei daerah demi daerah sebelum kemuncak peringkat negeri pada dua hari tersebut."
   holiday: "Cuti umum di negeri Sabah dan Wilayah Persekutuan Labuan pada 30 dan 31 Mei; bukan cuti umum di peringkat kebangsaan."
   etiquette: "Fahami Unduk Ngadau sebagai pertandingan kebudayaan yang memperingati legenda Huminodun, bukan pertandingan ratu cantik biasa, dan layani kepercayaan Bambaazon serta legenda Huminodun dengan hormat sebagai tradisi masyarakat itu sendiri, bukan sebagai fakta yang diperakui."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Bobohizan lelaki dan perempuan Kadazan-Dusun berkostum tradisional hitam dan emas mempersembahkan ritual Kaamatan di atas pentas berlampu seperti bintang di Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: Pemenang Unduk Ngadau yang dinobatkan dalam kalangan enam finalis berpakaian tradisional Kadazan-Dusun hitam dan emas di atas pentas pada perayaan Kaamatan di Penampang, Sabah
+    kind: actual
+    origin: third-party
+    subject: Pemenang dan finalis Unduk Ngadau pada pertandingan ratu cantik perayaan Kaamatan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: Penari muda Kadazan-Dusun berpakaian hitam berbirai merah dan perak membuat persembahan tarian tradisional dengan gong pada sambutan menuai Kaamatan di Sabah
+    kind: actual
+    origin: third-party
+    subject: Belia Kadazan-Dusun membuat persembahan tarian perayaan menuai dengan gong
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 Pesta ini dinamakan sempena satu idea tunggal: penuaian. *Kaamatan* bermaksud tepat demikian dalam bahasa Kadazandusun, dan segala-galanya yang lain dalam sambutan ini — ritual, air tuak beras, pertandingan ratu cantik yang dinobatkan pada malam terakhir — tumbuh daripada satu tindakan mengutip hasil padi itu.

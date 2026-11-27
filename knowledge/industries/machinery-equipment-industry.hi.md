@@ -31,7 +31,7 @@ faq:
   - q: M&E क्षेत्र के लिए कौन-सा सरकारी समर्थन मौजूद है?
     a: M&E एक MIDA प्राथमिकता उच्च-प्रौद्योगिकी उद्योग है जो निवेश प्रोत्साहनों के लिए पात्र है, और यह Industry4WRD राष्ट्रीय Industry 4.0 नीति के केंद्र में है, जो स्वचालन और उन्नत प्रौद्योगिकी अपनाने वाली फर्मों के लिए Industry4WRD Intervention Fund और Domestic Investment Strategic Fund जैसे अनुदान प्रदान करती है।
 lang: hi
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -93,6 +93,32 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'मशीनरी और उपकरण निर्माण के लिए विशिष्ट, CNC मशीन टूल्स और मजदूरों से भरा एक कारखाने का फर्श।'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: एक बड़े औद्योगिक विनिर्माण हॉल के अंदर कतार में खड़ी आंशिक रूप से असेंबल की गई पीली भारी निर्माण मशीनरी।
+    kind: representative
+    origin: third-party
+    subject: भारी-मशीनरी विनिर्माण संयंत्र (प्रतिनिधि औद्योगिक मशीनरी उत्पादन)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: एक भारी-उपकरण कारखाने के अंदर असेंबली लाइन पर बड़े स्टील पैनलों को जोड़ती एक स्वचालित रोबोटिक वेल्डिंग लाइन।
+    kind: representative
+    origin: third-party
+    subject: एक भारी-उपकरण कारखाने में रोबोटिक वेल्डिंग असेंबली लाइन (प्रतिनिधि)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 हर कारखाना मशीनों पर चलता है — और उन मशीनों को किसी को बनाना पड़ता है। मशीनरी एवं उपकरण (M&E) उद्योग विनिर्माण का वह हिस्सा है जो उत्पादन लाइनें, प्रक्रिया मशीनरी, धातु-कार्य टूल, बिजली प्रणालियाँ और स्वचालन बनाता है जिन पर हर *दूसरा* उद्योग निर्भर करता है। यह अर्थव्यवस्था का सबसे कम दृश्य बड़ा उद्योग है और, ठीक इसी कारण से, सबसे अधिक रणनीतिक रूप से महत्वपूर्ण में से एक।

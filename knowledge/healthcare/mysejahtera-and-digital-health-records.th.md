@@ -29,7 +29,7 @@ faq:
     a: "รายงานของสำนักงานตรวจเงินแผ่นดินที่นำเสนอต่อรัฐสภาในเดือนกุมภาพันธ์ 2023 เปิดเผยว่าข้อมูลส่วนบุคคลของผู้รับวัคซีน 3 ล้านคนถูกดาวน์โหลดผ่านบัญชี 'Super Admin' ของระบบ MyVAS ระหว่างวันที่ 28 ถึง 31 ตุลาคม 2021"
 
 lang: "th"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,35 @@ wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: 'ป้ายคิวอาร์เช็กอิน MySejahtera ที่พิมพ์ไว้ในร้านค้าในมาเลเซีย ซึ่งเป็นส่วนหนึ่งของแพลตฟอร์มสุขภาพดิจิทัลของมาเลเซีย'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: บุคคลถือสมาร์ตโฟนที่แสดงรายการแอปสุขภาพและการแพทย์ในร้านค้าแสดงเครื่องมือสุขภาพดิจิทัลสำหรับผู้บริโภคบนโทรศัพท์
+    kind: representative
+    origin: third-party
+    subject: มือถือสมาร์ตโฟนที่แสดงรายการแอปสุขภาพส่วนบุคคล
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: แพทย์นั่งที่เวิร์กสเตชันซึ่งมีหลายจอแสดงกราฟคลื่นไฟฟ้าหัวใจภาพอัลตราซาวนด์และภาพวิดีโอแทนระบบบันทึกสุขภาพดิจิทัลและไอทีของโรงพยาบาล
+    kind: representative
+    origin: third-party
+    subject: แพทย์ที่เวิร์กสเตชันไอทีทางการแพทย์แบบหลายจอกำลังตรวจสอบข้อมูลผู้ป่วยแบบดิจิทัล
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 หลายคนลบ MySejahtera ออกจากโทรศัพท์เมื่อการระบาดซาลง — แต่แอปพลิเคชันนั้นไม่ได้หายไป มันเพียงเปลี่ยนงาน

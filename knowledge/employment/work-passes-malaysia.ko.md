@@ -84,9 +84,15 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: '적합한 패스를 고르는 고용주, 또는 말레이시아에서 일하기 위한 경로를 비교하는 외국인을 위한 내용입니다 — 말레이시아에는 단일한 취업 비자가 없습니다.'
+  how: '스폰서와 일의 종류가 패스를 고르게 하세요. 고용주가 스폰서하는 외국인 주재원은 ESD를 통해 Employment Pass를 받고, 단기 해외 급여 프로젝트는 Professional Visit Pass를 받으며, 외국 고용주를 둔 원격 근무자는 MDEC를 통해 DE Rantau Nomad Pass를 받고, 장기 근속 주재원은 TalentCorp를 통해 이전 가능한 Residence Pass-Talent를 받으며, 육체 노동자는 별도 쿼터 제도 하의 PLKS를 받습니다. 어느 것이 적용되는지는 직함이 아니라 스폰서가 결정합니다.'
+  cost: '각 패스는 자체 급여 하한, 소득 기준 또는 기간을 설정하며 이는 시간이 지나면서 개정됩니다 — Employment Pass 급여 구간은 최근 개정되었습니다 — 그러므로 인용된 수치보다는 발급 기관(ESD와 Immigration, MDEC, 또는 TalentCorp)에서 현재 수치를 확인하세요.'
+  watch: 'Dependant Pass에는 취업 권리가 없습니다 — Employment Pass로 전환해야 합니다. DE Rantau를 포함한 Professional Visit Pass는 한도가 정해져 있고 당신을 해외에서 급여를 받는 상태로 둡니다. 고용주 간 이전이 가능한 것은 Residence Pass-Talent뿐입니다. Employment Pass는 그 스폰서에 묶여 있으며, 고용주를 바꾸면 기간 시계가 처음부터 다시 시작됩니다.'
+  next: '스폰서와 일의 종류를 파악하고, 해당 패스의 현재 급여 또는 소득 하한과 기간을 발급 기관에 확인한 다음 그 기관을 통해 신청하세요. Employment Pass, DE Rantau, 비즈니스 비자 비교 해설을 참고하세요.'
 ---
 
 말레이시아 취업 비자는 없습니다. 여덟아홉 가지의 서로 다른 제도가 있으며, 네 개의 서로 다른 기관이 운영하고, 당신에게 필요한 것은 직무가 무엇으로 불리는지가 아니라 **누가 급여를 지급하는지**로 결정됩니다.

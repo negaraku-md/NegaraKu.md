@@ -85,6 +85,32 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'Bangunan fakulti moden berwarna kuning dan kelabu sebuah kampus UiTM di Rembau, sebuah universiti awam Malaysia, dengan pelajar berjalan di sepanjang jalan kampus.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Bangunan akademik moden dan kawasan berlanskap di Kampus Kejuruteraan Universiti Sains Malaysia
+    kind: representative
+    origin: third-party
+    subject: Kampus Kejuruteraan Universiti Sains Malaysia, sebuah universiti penyelidikan awam Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: Deretan graduan berjubah akademik dan bertopi mortarboard yang duduk pada majlis konvokesyen sebuah universiti di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Graduan berjubah pada majlis konvokesyen sebuah universiti di Malaysia (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 Dapat 9A+ dalam SPM belum tentu menjamin sekeping biasiswa penuh ke luar negara — kerana di Malaysia, penajaan awam bukan hanya soal markah, tetapi juga soal skim mana yang anda mohon, syarat perkhidmatan yang diikat, dan dasar yang mentadbir setiap dana. Memahami peta penaja ini penting kerana pilihan yang salah boleh bermakna beribu ringgit yang perlu dibayar balik kelak.

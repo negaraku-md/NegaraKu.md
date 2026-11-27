@@ -31,7 +31,7 @@ faq:
   - q: Vì sao Malaysia cấm xuất khẩu đất hiếm thô?
     a: Chính phủ nói lệnh cấm — có hiệu lực từ đầu năm 2024 — nhằm ngăn tài nguyên đất hiếm của đất nước bị xuất khẩu chưa qua chế biến, và buộc gia tăng giá trị trong nước qua tinh luyện nội địa và các ngành hạ nguồn. Các quan chức đã mô tả nó như việc bảo vệ một tài nguyên chiến lược; các điều khoản chính sách chính xác đã thay đổi theo thời gian và nên được kiểm tra với tuyên bố mới nhất của chính phủ.
 lang: vi
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'Chiếc tàu nạo vét khai thác thiếc TT5 được bảo tồn đứng bên cạnh một hồ khai thác cũ ở Perak, Malaysia, di tích của thời kỳ nạo vét thiếc của đất nước.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: Vách đá lộ thiên và các bậc khai thác của một mỏ đá tại Jalan Sukau ở huyện Kinabatangan, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Mỏ đá tại Jalan Sukau, huyện Kinabatangan, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: Một nhà máy nghiền đá tạm bợ với băng tải và các đống sỏi đang chế biến đá gần Salarom, Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Nhà máy nghiền đá (kilang batu) nghiền đá thành sỏi gần Salarom, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 Nền kinh tế hiện đại của Malaysia, theo nghĩa đen, được đào lên từ lòng đất. Rất lâu trước dầu cọ, điện tử hay bán dẫn, chính **thiếc** đã khiến bán đảo trở nên quan trọng với thế giới — tài trợ cho đường sắt, làm lớn các thị trấn như Ipoh và Kuala Lumpur, và thu hút các thế hệ thợ mỏ di cư. Khai khoáng là câu chuyện công nghiệp lâu đời nhất của đất nước, và dù không còn thống trị nền kinh tế, nó đang được viết lại một cách lặng lẽ quanh một phần thưởng rất hiện đại: các nguyên tố đất hiếm.

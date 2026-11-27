@@ -79,6 +79,34 @@ festivalFacts:
   when: "固定在农历五月初五，对应公历日期每年随农历变动，通常落在公历六月间。"
   holiday: "并非公共假期——在马来西亚并非全国或任何州属的公共假期，一般照常上班上课。"
   etiquette: "家庭庆祝多集中在节日当天的一餐粽子；龙舟等大型公共活动常安排在周末或邻近日子举行，方便民众参与。部分家庭会在门前悬挂艾草、菖蒲，或在节日正午尝试「立蛋」，但各家做法不尽相同。"
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: '沙巴一处林木岬角旁的码头边，一艘黄橙相间的长龙舟，船首雕有龙头、尾作火焰状，身着救生衣的桨手沿船排列'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: 一排排戴红帽、穿白衫的划手奋力将桨插入水中，两艘带篷的龙舟沿水道竞渡，岸边观众围观
+    kind: representative
+    origin: third-party
+    subject: 端午龙舟赛上各队划动彩绘龙舟、桨影翻起水花
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: 一只竹叶包裹的糯米粽被剥开，露出卤五花肉、栗子和咸蛋黄的咸香馅料，旁边放着一只尚未拆开的粽子
+    kind: representative
+    origin: third-party
+    subject: 一只剥开的咸肉粽（肉粽），可见五花肉、栗子和咸蛋黄，旁边是一只仍用竹叶包着的粽子
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 农历五月初五快到的时候，华人家庭的厨房里会飘出粽叶与糯米的香气。主妇们把浸泡过的糯米、炒香的馅料一层层填进折成漏斗状的叶子里，再用咸水草扎紧，一串串下锅久煮。与此同时，在槟城岛西北角的直落巴巷水坝，一艘艘细长的龙舟正划开水面，鼓手立于船头擂鼓，几十名桨手随着鼓点整齐挥桨——这是端午节在马来西亚的两张面孔：一边是厨房里的粽香，一边是水面上的竞渡。

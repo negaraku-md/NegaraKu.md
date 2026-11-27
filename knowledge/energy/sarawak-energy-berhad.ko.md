@@ -30,7 +30,7 @@ faq:
     a: "이용 가능 용량 2,520MW의 바쿤 수력발전소가 사라왁 최대의 발전 시설입니다."
 
 lang: "ko"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
 framework: profile
+hero: '/media/energy/sarawak-energy-berhad/hero.webp'
+heroAlt: '말레이시아 사라왁 무룸에서 숲으로 덮인 고지대에 자리한 여수로를 갖춘 콘크리트 수력발전 댐.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: 강 협곡으로 내려가는 거대한 콘크리트 차수벽형 수력발전 댐 벽. 하단에 계단식 여수로와 발전소가 있고 개간된 비탈과 열대우림으로 덮인 언덕에 둘러싸여 있다
+    kind: actual
+    origin: third-party
+    subject: 사라왁주 바쿤 수력발전 댐. 주 전력계통의 중심에 자리한 거대한 콘크리트 차수벽형 석괴댐
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: 강 계곡을 가로질러 선 높은 콘크리트 댐. 여수로 수문과 댐마루 도로를 갖추고 한쪽에 짙은 초록빛 저수지가 펼쳐지며 주위로 숲에 덮인 산들이 솟아 있다
+    kind: actual
+    origin: third-party
+    subject: 사라왁주 내륙의 무룸 수력발전 댐. 주의 계단식 수력발전 댐 연쇄의 일부
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 말레이시아 반도가 Tenaga Nasional Berhad에 의존하는 동안, 사라왁은 국가 전력망과 아예

@@ -34,7 +34,7 @@ faq:
     a: "Las universidades privadas también suelen exigir una prueba de dominio del inglés. Los estudiantes locales normalmente presentan los resultados del MUET, mientras que, según el programa y la institución, pueden aceptarse cualificaciones equivalentes como el IELTS o el TOEFL."
 
 lang: "es"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: 'Esto es para estudiantes preuniversitarios (STPM, matriculación, foundation o diploma) que solicitan un título de grado, para quienes el MUET es la puerta obligatoria de competencia en inglés en las universidades públicas.'
+  how: 'Examínate de las cuatro pruebas del MUET —Comprensión oral, Expresión oral, Comprensión lectora y Expresión escrita— a través del Consejo de Exámenes de Malasia (MPM); tu puntuación global se traduce en una banda, y el Senado de cada universidad fija la banda mínima exigida para cada programa.'
+  cost: 'Las tasas las fija el MPM y son más altas para quienes no son ciudadanos y para la versión informatizada MUET on Demand, y cambian: confirma la tasa actual en el portal del MPM (mpm.edu.my) en lugar de fiarte de una cifra citada.'
+  watch: 'No existe una única banda de aprobado: el mínimo varía según el programa y lo fija el Senado de cada universidad. Los resultados tienen una validez de cinco años, así que examinarse demasiado pronto puede hacer que caduquen antes de que solicites.'
+  next: 'Comprueba la banda mínima de tu programa objetivo en la web de la universidad, inscríbete pronto a través del MPM y controla la validez de cinco años. Consulta Universidades públicas vs privadas.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Filas de estudiantes sentados en pupitres individuales realizando un examen en un salón universitario de Malasia, con un supervisor caminando entre los pasillos.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Interior de un gran salón de actos de una escuela malasia usado como sede de exámenes, con escenario y filas de espacio en el suelo.
+    kind: representative
+    origin: third-party
+    subject: Salón de actos de una escuela malasia usado para realizar exámenes
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Vista aérea del complejo de aulas magnas en el campus de una universidad malasia.
+    kind: representative
+    origin: third-party
+    subject: Complejo de aulas magnas de la Sultan Idris Education University (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Puedes destacar en el STPM o en la matriculación, pero sin un resultado más tu formulario de solicitud de titulación sigue incompleto. Ese resultado es el MUET — y muchos estudiantes solo se dan cuenta de su importancia cuando la fecha límite de solicitud a la universidad ya está encima.

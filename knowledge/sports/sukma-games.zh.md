@@ -29,7 +29,7 @@ faq:
     a: "SUKMA是青少年运动员展现才华的州级舞台。有潜质的运动员可晋级到MSN的人才与后备培育计划，进而进入为国际赛事培养精英运动员的ISN“领奖台计划”。"
 
 lang: "zh"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,7 @@ verificationNeeded:
   - "MSN 发展计划的结构与确切名称（Program Bakat；Program Pelapis Negeri/Serantau/Kebangsaan）——请确认最新的命名。"
   - "运动员入选ISN Program Podium的具体遴选标准——官方网站未列出详情。"
   - "关于东道主基础设施投资及主场优势的笼统陈述——尚未有具体来源支持；须核实或删除。"
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
   - title: "一万名运动员将为2026年雪兰莪第二十二届马来西亚运动会及残疾人运动会增添热闹 (10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026)"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
@@ -69,15 +69,62 @@ sources:
   - title: "领奖台计划 — 国家体育学院 (Program Podium — Institut Sukan Negara)"
     url: "https://isn.gov.my/bahagian-podium/"
     publisher: "国家体育学院"
+  - title: "马来西亚运动会（SUKMA）——历史与历届一览 (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "Wikipedia"
+  - title: "SUKMA应维持为21岁以下赛事，国家体育理事会表示 (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "New Straits Times"
+  - title: "2026年SUKMA将设474个项目，为赛会史上最多 (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "Bernama"
+  - title: "SUKMA如何在Pandelela 2004年几乎退役后挽救了她的跳水生涯 (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "Malay Mail"
+  - title: "Jin Wei爆冷击败Li Lian夺得SUKMA金牌 (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "The Star"
+  - title: "Welson将在第十五届SUKMA大放异彩 (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "The Borneo Post"
+  - title: "Khairul Hafiz打破100米全国纪录 (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "The Star"
 
 entity: "Sukan Malaysia (SUKMA)"
 wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "football-in-malaysia"]
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: '在马来西亚一场 SUKMA 运动会开幕式上，各州代表队举着本州州旗和名牌入场。'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: 一座带田径跑道的马来西亚州级体育场，看台空置、呈蓝黄配色，设有看台、绿色球场与红色跑道，是典型的SUKMA主办场馆。
+    kind: representative
+    origin: third-party
+    subject: 一座带田径跑道的马来西亚州级体育场，正是举办SUKMA赛事的那类场馆
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: 沙巴（Sabah）亚庇（Kota Kinabalu）里卡士体育综合区（Likas Sports Complex）鸟瞰图，可见田径体育场、一座穹顶室内竞技馆及周边体育设施坐落于城中。
+    kind: representative
+    origin: third-party
+    subject: 沙巴里卡士体育综合区鸟瞰图，一处多项目运动会场馆
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 每隔两年，数以千计的青少年运动员就会列队走进主办州的体育场——争夺的不是世界奖牌，而是各自州属的荣誉；而对于那些最有天赋的人来说，则是一张通往国家精英舞台的入场券。这就是SUKMA。
@@ -94,6 +141,14 @@ SUKMA（马来西亚运动会）是一项以“小型奥运会”为理念的综
 
 其主办工作由**[马来西亚国家体育理事会](/sports/national-sports-council-msn)（MSN）**联同各州体育理事会、马来西亚学校体育理事会（MSSM）、马来西亚大学体育理事会（MASUM）以及皇家马来西亚警察体育理事会共同负责。最新一届，**第二十二届SUKMA雪兰莪2026**，定于2026年8月15日至24日举行。专为残障运动员而设的运动会，**Para SUKMA**，则另行定于2026年9月5日至14日举行。
 
+2026年这一届也创下了属于自己的纪录：共有474个项目列入竞赛——是SUKMA历来项目最多的一届。
+
+## 从1986年至今：年龄限制、冠军与纪录
+
+SUKMA是一项**21岁以下（U-21）**的赛事，而这一年龄上限正是它的核心特征——国家体育理事会（MSN）坚持这一年龄限制，以确保运动会聚焦于年轻运动员的培养。迄今为止唯一的例外是2022年那一届（第二十届SUKMA），因2020年运动会受COVID-19疫情影响而取消，故获准将年龄上限提高至23岁以下。
+
+自1986年首届在吉隆坡举办以来——那一届汇集了来自16个代表团、约4,500名运动员——这项运动会便在各州之间轮流举办，从古晋、新山，到亚罗士打、瓜拉登嘉楼和亚庇。**雪兰莪**是最成功的代表团，九度荣膺总冠军，其次是登嘉楼与砂拉越。单届夺得金牌最多的纪录同样由雪兰莪保持——在1998年第七届SUKMA上，共摘得80面金牌。
+
 ## SUKMA如何输送精英人才渠道？
 
 SUKMA处于马来西亚体育发展体系的第一级台阶。在这项运动会中脱颖而出的运动员，成为晋级下一层级的候选人：
@@ -105,6 +160,17 @@ SUKMA处于马来西亚体育发展体系的第一级台阶。在这项运动会
 **领奖台计划**于2016年2月2日在青年及体育部之下推出，并由**国家体育学院（ISN）**负责。它专为培养精英运动员而设，使其在奥运会、亚运会和英联邦运动会等主要国际赛事中达到世界级水平。进入领奖台计划的运动员由ISN根据其所制定的选拔标准挑选。
 
 换句话说，SUKMA提供原始的人才储备，而后备计划与领奖台计划则筛选并磨练这些人才，使之成为高水平运动员。
+
+## 人才输送渠道的证明：他们都从SUKMA起步
+
+道理很简单；证据就在这些名字里。几位家喻户晓的国家运动员，都是先在SUKMA的舞台上崭露头角，而后才代表马来西亚征战国际赛场：
+
+- **Pandelela Rinong**（跳水，砂拉越）——其后成为马来西亚首位夺得奥运跳水奖牌的运动员（2012年伦敦奥运个人10米跳台铜牌；2016年里约奥运双人同步银牌）。她曾说SUKMA让她的运动生涯重获新生：在2004年几乎萌生退意之后，她于2006年吉打SUKMA以三面金牌重返赛场，重新点燃了对这项运动的热情。
+- **Goh Jin Wei**（羽毛球，槟城）——在2014年SUKMA以14岁之龄夺得女子单打金牌，随后成为BWF世界青年锦标赛冠军（2015年与2018年），并是马来西亚首位青年奥运会金牌得主。
+- **Welson Sim**（游泳，砂拉越）——在第十五届SUKMA（2012年）夺金，之后出征2016年里约奥运，并在东南亚运动会上夺冠。
+- **Khairul Hafiz Jantan**（田径，马六甲）——在2016年第十八届SUKMA创下100米全国纪录（10.18秒），打破了Watson Nyambek保持18年的纪录，随后晋升国家队。
+
+这份名单绝非巧合：它展现了SUKMA作为人才苗圃的真正功能——州级人才在这里首次受到考验，而后才被筛选、输送到更高的层级。
 
 ## 为什么各州争相主办？
 

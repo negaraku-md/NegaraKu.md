@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,32 @@ faq:
   - q: ウェサックは何を記念する日ですか?公休日ですか?
     a: ウェサック(ウェサックデー)は仏陀の誕生、成道、涅槃を記念する日で、マレーシアの全国的な公休日です。信者は寺院を訪れ、花を供え、灯明をともし、布施を行います。信教の自由は連邦憲法第11条によって保障されており、第3条はイスラム教を連邦の宗教と定めていますが、他の宗教が平和的に信仰されることを妨げるものではありません。
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'ペナンの丘陵に立つ極楽寺（Kek Lok Si）仏教寺院。流れるような金色の瓦屋根、赤い提灯が並ぶ段々のテラス、中庭には塔の噴水がある。'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: 青空を背に、きらびやかに金箔を施しタイルで飾られたタイ仏教寺院の正面と屋根（ペナン）
+    kind: actual
+    origin: third-party
+    subject: ワット・チャイヤ・マンカラーラム、ペナン・ジョージタウンにあるタイ上座部仏教の寺院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: 黄・白・ピンクの菊の花に埋もれるように囲まれた坐像の仏が、ウェーサーカ祭の山車に安置されている
+    kind: actual
+    origin: third-party
+    subject: ケダ州アロースターのワット・ニクロダーラムでのウェーサーカ（Wesak）の山車に飾られた仏像
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 ペナンの丘の上では、極楽寺の塔影がジョージタウンを見下ろしている。クアラルンプール

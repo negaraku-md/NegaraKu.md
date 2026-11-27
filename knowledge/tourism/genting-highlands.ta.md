@@ -40,7 +40,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -85,9 +85,42 @@ wikidata: "Q1144734"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
+related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists", "frasers-hill"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: 'அமைதியான இயற்கையை விட, தீம் பூங்காக்கள், குளிர்ந்த மலைவாச வானிலை, ஷாப்பிங் மற்றும் நிகழ்ச்சிகளை விரும்பும் கோலாலம்பூரிலிருந்து வரும் குடும்பங்கள், நாள்-பயணிகள் மற்றும் வார இறுதிப் பயணிகளுக்கு ஏற்றது.'
+  getThere: 'கோலாலம்பூரிலிருந்து நெடுஞ்சாலையிலும் மலைச் சாலையிலும் சுமார் ஒரு மணி நேர ஓட்டம், அல்லது Genting Highlands Premium Outlets அருகே மலையின் நடுவில் வாகனத்தை நிறுத்தி, SkyAvenue உச்சி வரை Awana SkyWay கேபிள் கார் ஏறுங்கள்.'
+  permit: 'கேசினோ முஸ்லிம் அல்லாதவர்களை மட்டுமே அனுமதிக்கிறது, மேலும் குறைந்தபட்ச வயது, அடையாளச் சரிபார்ப்புகள் மற்றும் உடை நடைமுறையை வேண்டுகிறது.'
+  watch: 'உச்சி பெரும்பாலும் மேகத்தால் சூழப்பட்டு, குளிர்ந்தும் ஈரமாகவும் இருக்கும், காட்சிகள் வந்து போகும், மேலும் வார இறுதிகளும் பொது விடுமுறைகளும் அதிக கூட்டத்தையும் நீண்ட வரிசைகளையும் கொண்டுவருகின்றன.'
+  next: 'தற்போதைய தீம்-பூங்கா, கேபிள்-கார் மற்றும் கேசினோ நுழைவு விதிகளை Resorts World Genting-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: 'ஒரு சீனக் கோயில் கூரையிலிருந்து, மேகம் சூழ்ந்த மழைக்காட்டு மலைகளுக்கு மேல் தொலைவில் Genting ரிசார்ட்டுடன் கூடிய பரந்த காட்சி'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: ஓடு பதித்த மலையுச்சி வளாகத்தில் உயரமான படிநிலை பகோடாவுக்கு அருகில் மேல்நோக்கிய விளிம்புகளுடனான சிவப்பு-தங்க சீன கோயில் மண்டபம்
+    kind: actual
+    origin: third-party
+    subject: Genting Highlands-இல் Chin Swee Caves Temple-இன் அலங்கார மண்டபம் மற்றும் பல-படிநிலை பகோடா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: தேசியக் கொடிகளைப் பறக்கவிடும் நாடகீய கோணமான பழுப்பு விதான நுழைவாயிலுக்கு மேலாக உயரமான வெள்ளை ரிசார்ட் ஹோட்டல் முகப்பு
+    kind: actual
+    origin: third-party
+    subject: Resorts World Genting-இன் மலையுச்சி சூதாட்ட-ஹோட்டல் கோபுரம், அதன் தனித்துவமான கூரையுடனான வாகன நுழைவுத் தாழ்வாரத்துடன்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 கோலாலம்பூர் வெப்பத்திலிருந்து மலைச் சாலையில் மேலே ஓட்டுங்கள், மேலும் பாதி வழியைக் கடந்த எங்காவது ஒரு இடத்தில், ஜன்னல்கள் மூடுபனியாகத் தொடங்கி காற்று குளிர்கிறது. தலைநகரை விட்டு வெளியேறி ஒரு மணி நேரத்திற்குள் நீங்கள் கிட்டத்தட்ட 1,800 மீட்டர் உயரத்தில் மேகத்தில் நின்று, ஒரு மலைஉச்சியில் அடுக்கப்பட்ட ஒரு நியான் ரிசார்ட் நகரத்தின் முன் இருக்கலாம். அந்த வேறுபாடு — கீழே வெப்பமண்டலத் தாழ்நிலம், மேலே குளிர்ந்த மூடுபனி உச்சி, ஒரு காலையில் அடையக்கூடியது — தான் கெந்திங் ஹைலண்ட்ஸின் முழு வழங்கலும். இந்த வழிகாட்டி அது உண்மையில் என்ன, மேலே எப்படிச் செல்வது, என்ன செய்யலாம், கேசினோவை எப்படி விவேகமாகக் கையாளுவது, மேலும் முதல்-முறையினரைப் பிடிக்கும் தவறுகளை உள்ளடக்குகிறது.

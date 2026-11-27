@@ -66,9 +66,16 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysian-federalism-explained" }
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
-related: []
+related: ["district-administration-in-malaysia", "state-assemblies-dun", "federal-constitution"]
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: 'Một hội trường nghi lễ mái kiểu Minangkabau với những mái cong màu nâu vàng cao trước tòa tháp hành chính bang Wisma Negeri hiện đại ở Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Khi một chính quyền bang tại Malaysia lập ngân sách của mình, nó bắt đầu với một thực tế hiếm khi được nhắc đến: những khoản thuế cho nguồn thu lớn nhất — thuế thu nhập, thuế bán hàng và dịch vụ, hải quan — không phải của nó để thu. Các nguồn đó thuộc thẩm quyền của Liên bang. Cái còn lại cho bang, và cách khoảng cách đó được lấp, được quy định rõ ràng trắng đen trong Hiến pháp Liên bang.

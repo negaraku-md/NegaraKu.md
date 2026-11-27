@@ -44,7 +44,7 @@ verificationNeeded:
   - "POIC 라하드다투(POIC Lahad Datu)와 SOGIP 시피탕(SOGIP Sipitang)의 현행 입주 기업 수와 확정 투자액 — 운영자 사이트에는 2020년부터 2022년까지의 수치와 목표치가 실려 있습니다"
 
 lang: "ko"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,34 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: '파란 해안만과 섬들을 끼고 상업 사무 타워와 쇼핑 단지가 있는 코타키나발루 도심의 밝은 낮 풍경'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: 밝고 푸른 하늘 아래 전경에 깃대의 말레이시아 주기들이 있고 만 건너편으로 코타키나발루 도시 스카이라인이 솟아 있다
+    kind: actual
+    origin: third-party
+    subject: 사바 주의회 건물에서 만 건너편으로 바라본 코타키나발루 도심 스카이라인, 사바
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: 밝은 하늘 아래 야자나무 뒤로 현대식 유리 정면의 Sabah Ports 본부 건물, 출입 게이트에 Sabah Ports 간판이 보인다
+    kind: actual
+    origin: third-party
+    subject: 코타키나발루 Sepanggar의 Sabah Ports 본부 — 유리 정면의 기업 항만 건물
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 말레이시아에서 사업하기에 관한 거의 모든 전국 안내서는 사바에 대해 틀리며, 매번 같은 방식으로 틀립니다: SSM이 당신의 기업을 등록해 주고, 지방정부법 1976(Local Government Act 1976)이 당신의 사업장을 인허가하며, 회랑 당국이 연방 법정 기관이라고 가정하는 것입니다. 남중국해 동쪽에서는 이 셋 중 어느 것도 사실이 아닙니다.

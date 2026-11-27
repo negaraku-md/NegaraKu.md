@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne exposée au taux de change : importateurs, exportateurs, voyageurs, étudiants à l'étranger et investisseurs."
 
 lang: "fr"
-sourceContentHash: "3f4c12c7b0ab0483"
+sourceContentHash: "f67b4f4020151400"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,34 @@ faq:
   - q: Pourquoi le taux que me donne ma banque ou mon bureau de change est-il moins bon que le taux publié par la BNM ?
     a: Parce que le taux de référence USD/MYR de KL de la BNM est un indice de marché calculé à partir du marché interbancaire, utilisé pour les contrats et la valorisation — ce n'est pas un prix de détail. Les banques et les bureaux de change ajoutent leur propre écart (spread) par-dessus, de sorte que vous traiterez toujours à un taux moins favorable que le taux de référence. Le taux de référence était de 4.0841 au 23 octobre 2026, mais c'est l'indice, et non ce qu'un client paie réellement au guichet.
 framework: explainer
+hero: '/media/economy/ringgit/hero.webp'
+heroAlt: 'Le recto d''un billet malaisien de cent ringgit portant BANK NEGARA MALAYSIA et SERATUS RINGGIT, avec un grand 100 violet, la dénomination RM et un portrait du premier Yang di-Pertuan Agong en coiffe royale'
+heroCredit: 'Apitheart / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rm100-original.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Obverse of a Malaysian RM100 ringgit banknote showing the portrait of Tuanku Abdul Rahman'
+
+images:
+  - role: scene
+    src: /media/economy/ringgit/body-1.webp
+    alt: Gros plan d'une pièce malaisienne de dix sen de couleur argent portant l'inscription BANK NEGARA MALAYSIA avec un grand chiffre 10, le mot SEN, l'année 2006 et un motif floral, posée sur une surface grise
+    kind: actual
+    origin: third-party
+    subject: Une pièce malaisienne de 10 sen, la monnaie divisionnaire du ringgit
+    credit: Chatsam / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:10_sen_de_Malaisie_3.JPG
+  - role: scene
+    src: /media/economy/ringgit/body-2.webp
+    alt: Un billet de ringgit photographié sous lumière ultraviolette faisant luire un motif vert de wau (cerf-volant traditionnel) et des marques de sécurité BNM cachées qui fluorescent sur le papier assombri
+    kind: actual
+    origin: third-party
+    subject: Un billet de banque malaisien en ringgit sous lumière ultraviolette, révélant son dispositif de sécurité caché
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY_Ringgit_under_UV_light.jpg
 ---
 
 ## En un coup d'oeil

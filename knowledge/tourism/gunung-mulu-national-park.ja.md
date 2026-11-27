@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -81,9 +81,42 @@ sources:
 
 entity: "Gunung Mulu National Park"
 wikidata: "Q61535"
-related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "sabah-visitor-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'ボルネオの旅程を組む洞窟探検家、冒険的なトレッカー、自然派の旅行者に——UNESCO世界遺産のカルスト地形、記録破りの観光洞窟、そしてDeer Caveのコウモリの大群の飛び立ちが待っている。'
+  getThere: '道路は通じておらず、アクセスは小型機のみ——Mulu空港へ（通常はMiriからの短いフライト）飛び、公園本部で登録する。'
+  permit: '公園本部で登録を行い、観光洞窟、アドベンチャー・ケイビング、Pinnaclesはいずれも公認ガイドと事前予約が必須で、数週間から数か月前に押さえておくこと。'
+  watch: '確実な乾季のない赤道直下の熱帯雨林で、Pinnaclesの登攀とコウモリの飛び立ちは天候次第であり、豪雨の際は中止されるため、予備日を組み込んでおくこと。小型機には手荷物の重量制限が適用される。'
+  next: '現在のフライト、宿泊、ガイド付きアクティビティの規則と料金は、公園の公式サイト（mulupark.com）およびSarawak Tourism Boardで確認すること。'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'サラワク州のグヌン・ムル国立公園の、霧のかかった山腹で緑の熱帯雨林を貫く、ギザギザの灰色の石灰岩のピナクル(尖峰)の原'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: グヌン・ムル国立公園のディア洞窟で、熱帯雨林に覆われた切り立った石灰岩の崖にある巨大な暗い洞窟の入口
+    kind: actual
+    origin: third-party
+    subject: 世界最大級の洞窟通路のひとつであるディア洞窟の巨大な入口。グヌン・ムルの、ジャングルに覆われてそびえる石灰岩の崖に囲まれている
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: グヌン・ムルのクリアウォーター洞窟内の、滑らかな淡色の岩壁と静かな地下の川がある、柔らかく照らされた洞窟の空間
+    kind: actual
+    origin: third-party
+    subject: 地下の川を擁するクリアウォーター洞窟の照らされた内部。グヌン・ムルにある東南アジア最長級の洞窟系の一部
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 サラワクの熱帯雨林の奥深く、石灰岩の山々がジャングルからまっすぐそびえ、道路の届かないところに、マレーシアで最も並外れた景観の一つ——そして地球上で最もよく研究された洞窟地域の一つ——があります。グヌン・ムル国立公園は、世界最大の洞窟空間、ジャンボジェットが通り抜けられるほど大きな洞窟通路、夜ごとの数百万匹のコウモリの川、そしてブーツを切り裂くほど鋭い石灰岩の刃の森が、丘の上にある場所です。それはまた本当に辺境です。小型機で到着し、ほとんどどこへもガイドとともに行き、数か月前に予約します。本ガイドは、ムルとは何か、地下と地上に何が見られるか、二つの大きなトレック、アクセスの仕組み、そして初めての人が犯す間違いを扱います。

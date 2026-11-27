@@ -37,7 +37,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 
 status: "published"
 aiAssisted: true
@@ -88,9 +88,35 @@ relations:
   - { rel: "related-to", to: "stpm-vs-matriculation" }
   - { rel: "related-to", to: "tvet-malaysia" }
   - { rel: "related-to", to: "public-universities-malaysia" }
-related: []
+related: ["muet-and-university-entrance-tests"]
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: 'Sekumpulan pelajar sekolah menengah Malaysia yang tersenyum berpose bersama dalam pakaian seragam sekolah, termasuk baju putih, tudung dan baju trek rumah sukan.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: Kanak-kanak sekolah berpakaian seragam menggunakan komputer tablet di meja dalam perpustakaan pintar sebuah sekolah di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Murid sekolah rendah di Malaysia belajar menggunakan tablet di perpustakaan pintar sekolah
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: Bangunan sekolah menengah bertingkat di Malaysia dengan laluan berbumbung di bawah langit biru
+    kind: representative
+    origin: third-party
+    subject: Bangunan sekolah menengah kebangsaan di Malaysia (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 Minta tiga rakyat Malaysia menghuraikan "sistem pendidikan" dan anda akan mendapat tiga peta yang berbeza. Seorang bercakap tentang SK berbanding SJKC. Seorang lagi bercakap tentang STPM berbanding matrikulasi. Seorang lagi lagi menyebut sijil SKM yang tidak pernah didengari oleh sesiapa di luar latihan teknikal. Ketiga-tiganya menghuraikan sistem yang sama — cuma dari cabang yang berbeza.

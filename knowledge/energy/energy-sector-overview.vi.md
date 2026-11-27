@@ -34,7 +34,7 @@ faq:
     a: "PETRA (Bộ Chuyển đổi Năng lượng và Chuyển đổi Nước) là bộ soạn thảo chính sách năng lượng và nước của đất nước cùng thúc đẩy sự chuyển đổi hướng tới phát thải carbon bằng không vào năm 2050. Suruhanjaya Tenaga là cơ quan quản lý theo luật định trực thuộc PETRA cấp phép, đặt biểu giá và thực thi luật cung cấp điện và khí đốt."
 
 lang: "vi"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên cao của một nhà máy điện than ven biển với các ống khói và cầu cảng vươn ra biển.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: Một nhà máy điện chạy bằng khí đốt với các gian tua-bin, ống khói xả bằng kim loại và một trạm biến áp có hàng rào gồm các máy biến áp và giàn khung thép, nằm trên khu đất đã phát quang với những ngọn đồi rừng và bầu trời sáng phía sau
+    kind: actual
+    origin: third-party
+    subject: Nhà máy điện Rugading gần Kota Kinabalu, Sabah, một nhà máy phát điện chạy bằng khí đốt cấp điện cho lưới điện Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: Một nhà máy điện ven biển với các tòa nhà công nghiệp thấp, hệ thống ống dẫn kim loại và một ống khói cao phía sau hàng rào ranh giới, với những cây cọ và khu đất trống gần đó dưới bầu trời mờ sương
+    kind: actual
+    origin: third-party
+    subject: Nhà máy điện Tanjung Kling trên bờ biển Melaka, một phần của đội ngũ nhà máy phát điện của Bán đảo Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 Bật công tắc đèn ở Kuala Lumpur, đổ xăng RON95 ở Ipoh, hoặc lắp tấm pin mặt trời trên mái nhà ở Johor — đằng sau mỗi hành động đó là một mạng lưới các định chế, luật lệ và chính sách mà người tiêu dùng ít khi thấy. Ngành năng lượng Malaysia không phải là một thứ; nó là bốn thế giới chồng lấn: điện, dầu và khí, nhiên liệu, và năng lượng tái tạo. Cẩm nang này lập bản đồ ai kiểm soát điều gì, và cách tất cả ghép lại với nhau.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "Premi yang tepat dan batas perlindungan tahunan SPIKPA tidak disahkan pada sumber utama resmi (hanya sumber sekunder akademik dan broker asuransi yang ditemukan); artikel ini menjelaskan fungsi skema itu — asuransi wajib yang berkaitan dengan pembaruan izin kerja, disahkan pada laman Jabatan Imigresen sendiri — tanpa menyatakan premi atau jumlah perlindungan yang tidak disahkan."
 
 lang: "id"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,32 @@ stayFacts:
   cost: 'Pikirkan dari segi bentuk, bukan angka yang tetap: perawatan publik disubsidi secara besar-besaran bagi warga negara dan PR, sementara warga asing membayar jauh lebih banyak di bawah jadwal biaya non-warga negara, dan perawatan swasta dibayar langsung dari kantong atau melalui asuransi pada berapa pun yang dikenakan fasilitas. Jumlah ringgit yang tepat ditetapkan di bawah Fees (Medical) Order dan ditinjau ulang secara berkala, jadi pastikan biaya terkini dengan perintah yang diterbitkan MOH atau langsung dengan penyedia sebelum mengandalkan angka mana pun yang dikutip.'
   watch: 'Subsidi warga negara tidak menjangkau Anda sebagai warga asing — PeKa B40, MySalam, dan jadwal biaya warga negara terikat pada kewarganegaraan atau status bantuan tunai B40, jadi rencanakan asuransi swasta (dan perhatikan bahwa pekerja asing berdokumen harus memiliki asuransi rawat inap SPIKPA untuk memperbarui izin kerja, yang diatur oleh pemberi kerja).'
   next: 'Tentukan kategori mana yang Anda masuki (pekerja asing, ekspatriat, atau pengunjung) dan siapkan perlindungan yang tepat sebelum mengandalkan skema lokal apa pun. Untuk rinciannya, lihat panduan terkait Asuransi Medis di Malaysia, Rumah Sakit Swasta dan Biayanya, serta Klinik Kesihatan.'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'Bagian luar kompleks spesialis dan rawat jalan Hospital Kuala Lumpur, sebuah rumah sakit pemerintah Malaysia, dengan lambang bulan sabit merah.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Sebuah kompleks rumah sakit pemerintah Malaysia bertingkat yang besar dilihat dari jalan di Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, sebuah rumah sakit pemerintah Malaysia utama di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: Pemandangan udara kompleks multi-bangunan sebuah rumah sakit pemerintah Malaysia besar di George Town, Penang, dengan garis langit kota di belakang
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), sebuah rumah sakit pemerintah Malaysia utama di George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 Seorang pensiunan Malaysia yang mengalami nyeri dada memanggil ambulans dan dibawa ke rumah sakit pemerintah terdekat, tempat seorang spesialis kardiologi menanganinya dengan biaya yang hanya mencakup sebagian kecil dari biaya sebenarnya. Tetangganya, seorang pemegang izin kerja dari Indonesia dengan gejala yang sama, dibawa ke unit gawat darurat rumah sakit yang sama — tetapi tagihan yang menyusul dihitung menurut jadwal yang sama sekali berbeda, karena keduanya bukan, menurut pandangan kementerian, jenis pasien yang sama.

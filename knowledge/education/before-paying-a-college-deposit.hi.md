@@ -35,7 +35,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["कॉलेज डिपॉज़िट मलेशिया", "MQA मान्यता जाँच", "MQR mqr.gov.my", "क्या मेरा पाठ्यक्रम मान्यता प्राप्त है", "कॉलेज रिफ़ंड नीति मलेशिया", "ट्विनिंग 3+0 प्रदान करने वाला निकाय", "निजी विश्वविद्यालय मलेशिया IPTS", "Act 555", "कॉलेज शुल्क चुकाने से पहले"]
 framework: how-to
+stayFacts:
+  who: 'यह उन छात्रों और अभिभावकों के लिए है जिनके पास किसी कॉलेज का ऑफर है और जो डिपॉज़िट या पंजीकरण शुल्क भरने वाले हैं — अक्सर यह पहला, और कई बार वापस न होने वाला, धन होता है।'
+  how: 'भरने से पहले, पाँच बातें लिखित में पुष्टि करें: सटीक कार्यक्रम MQR पर है; संस्थान एक पंजीकृत प्रदाता है (Private Higher Educational Institutions Act 1996 (Act 555) के अंतर्गत कोई IPTS, या कोई मान्यता-प्राप्त सार्वजनिक विश्वविद्यालय या शाखा परिसर); किसी ट्विनिंग या 3+0 कार्यक्रम के लिए, अंतिम प्रमाणपत्र कौन प्रदान करता है; पूरे कार्यक्रम का संपूर्ण लिखित शुल्क-विवरण; और रिफंड तथा निकासी की शर्त।'
+  cost: 'डिपॉज़िट केवल एक अंश है — केवल पहले वर्ष का नहीं, बल्कि पूरे कार्यक्रम का संपूर्ण लिखित शुल्क-विवरण माँगें (पंजीकरण, प्रति-सेमेस्टर शिक्षण, संसाधन, परीक्षा, बीमा और अंतरराष्ट्रीय-छात्र शुल्क), और पुष्टि करें कि डिपॉज़िट किसके बदले समायोजित होता है।'
+  watch: 'डिपॉज़िट अक्सर वापस नहीं होते और कोई राष्ट्रीय वैधानिक कूलिंग-ऑफ अधिकार नहीं है — आपको जो वापस मिल सकता है वह संस्थान की अपनी लिखित नीति से तय होता है। ''तीसरे वर्ष में गारंटीशुदा स्थानांतरण'' साझेदार विश्वविद्यालय का निर्णय है, स्थानीय कॉलेज का नहीं; इसे लिखित में लें।'
+  next: 'संस्थान से हर जाँच को लिखित में रखें और आपके खाते से कोई धन निकलने से पहले उत्तर संभालकर रखें; पहले MQR पर सटीक कार्यक्रम की पुष्टि करें। देखें MQA प्रत्यायन की व्याख्या।'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'शाम के समय झील में प्रतिबिंबित टेलर्स यूनिवर्सिटी लेकसाइड कैंपस की मीनारें, मुख्य भवन पर लाल "TAYLOR''S UNI" का चिह्न।'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI और UCD Malaysia Campus का काँच का अग्रभाग, एक ऐसा निजी विश्वविद्यालय जो नए विद्यार्थियों से नामांकन जमा-राशि माँगता है।
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), पेनांग
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: Sunway University परिसर का एक आधुनिक शिक्षण खंड, एक ऐसा निजी संस्थान जहाँ आवेदक प्रतिबद्ध होने से पहले फीस और जमा-राशि को तौलते हैं।
+    kind: actual
+    origin: third-party
+    subject: Sunway University परिसर भवन, बंदर सनवे
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 डिपॉज़िट आमतौर पर वह पहली राशि होती है जो एक परिवार किसी कॉलेज को सौंपता है — और,

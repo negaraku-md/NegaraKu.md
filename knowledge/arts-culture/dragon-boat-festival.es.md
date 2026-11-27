@@ -33,7 +33,7 @@ faq:
     a: "La regata internacional de botes del dragón de Penang es la de más larga historia, celebrada desde hace años en la presa de Teluk Bahang y que atrae a equipos de muchos países y regiones; Putrajaya, Malaca y otros lugares también han organizado grandes eventos de botes del dragón. Tales regatas suelen contar con el apoyo de los gobiernos estatales o de entidades afines, y combinan el carácter de deporte competitivo con la promoción turística. Las fechas y lugares exactos varían cada año y dependen de los anuncios de los organizadores."
 
 lang: "es"
-sourceContentHash: "b3107f51cd27ab6c"
+sourceContentHash: "12abfcb0498a9739"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "Fijada en el quinto día del quinto mes del calendario lunar; su fecha en el calendario gregoriano varía cada año según el calendario lunar y suele caer en el mes de junio."
   holiday: "No es fiesta pública: en Malasia no es fiesta pública ni a nivel nacional ni en ningún estado, y generalmente se trabaja y se asiste a clase con normalidad."
   etiquette: "La celebración familiar se concentra sobre todo en una comida de zongzi el día de la fiesta; los grandes eventos públicos, como las regatas de barcos dragón, suelen programarse en fin de semana o en fechas cercanas para facilitar la participación del público. Algunas familias cuelgan artemisa y cálamo en la puerta, o intentan «poner un huevo de pie» al mediodía de la fiesta, aunque las costumbres varían de una familia a otra."
+hero: '/media/arts-culture/dragon-boat-festival/hero.webp'
+heroAlt: 'Un largo bote dragón amarillo y naranja con una cabeza de dragón tallada en la proa y una cola en forma de llama, alineado con remeros con chalecos salvavidas a lo largo de un embarcadero junto a un promontorio boscoso en Sabah'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jelajah_Wira_MADANI_Sandakan_2025_20250927_103745.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An ornate yellow dragon boat with carved dragon head and tail crewed by paddlers at a waterfront in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-1.webp
+    alt: Hileras de remeros con gorras rojas y camisas blancas hundiendo sus palas en el agua mientras dos barcos del dragón con toldo compiten por un canal ante la mirada de una multitud
+    kind: representative
+    origin: third-party
+    subject: Equipos compitiendo en barcos del dragón decorados, con las palas batiendo el agua, durante una regata del Festival del Bote del Dragón
+    credit: Newnujilb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dragon_Boat_Festival_in_Datang_002.jpg
+  - role: scene
+    src: /media/arts-culture/dragon-boat-festival/body-2.webp
+    alt: Una bola de arroz glutinoso envuelta en hoja de bambú, abierta para revelar un relleno salado de panceta de cerdo estofada, castaña y yema de huevo salada, junto a otra bola aún atada
+    kind: representative
+    origin: third-party
+    subject: Un zongzi (bak chang) de arroz glutinoso abierto que muestra cerdo, castaña y yema de huevo salada, junto a otro aún envuelto en hojas de bambú
+    credit: Stevenliuyi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg
 ---
 
 Cuando se acerca el quinto día del quinto mes lunar, de las cocinas de las familias chinas se eleva el aroma de las hojas de bambú y del arroz glutinoso. Las amas de casa rellenan, capa tras capa, hojas dobladas en forma de embudo con arroz glutinoso remojado y relleno salteado y fragante, luego lo atan firmemente con cuerda de junco y bajan a la olla, ristra tras ristra, para una larga cocción. Al mismo tiempo, en la presa de Teluk Bahang, en el extremo noroeste de la isla de Penang, esbeltos botes del dragón hienden la superficie del agua; un tamborilero de pie en la proa marca el ritmo, y decenas de remeros baten los remos al unísono siguiendo el compás: estas son las dos caras del Festival del Bote del Dragón en Malasia: por un lado, la fragancia del zongzi en la cocina; por otro, la regata sobre el agua.

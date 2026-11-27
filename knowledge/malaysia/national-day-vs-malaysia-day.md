@@ -68,6 +68,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'Pemain pancaragam tentera berpakaian seragam berbaris dalam formasi melepasi penonton semasa perarakan Hari Merdeka Malaysia di Dataran Merdeka.'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: Barisan pegawai berpakaian seragam berarak dalam formasi sambil membawa Jalur Gemilang berwarna merah, putih, biru dan kuning serta bendera lain semasa perarakan Hari Merdeka.
+    kind: actual
+    origin: third-party
+    subject: Kontinjen berpakaian seragam berarak dengan Jalur Gemilang pada sambutan Hari Merdeka ke-59
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: Orang ramai yang tersenyum di Kota Kinabalu, Sabah, dengan bangganya menaikkan dan mengibarkan bendera kebangsaan Malaysia semasa sambutan hari kebangsaan di tempat terbuka di Malaysia Timur.
+    kind: actual
+    origin: third-party
+    subject: Orang ramai mengibarkan Jalur Gemilang semasa sambutan hari kebangsaan di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 Setiap tahun kalendar Malaysia mengandungi dua tarikh yang mudah dikelirukan sebagai perkara yang sama: 31 Ogos dan 16 September. Kedua-duanya diraikan dengan bendera, perarakan dan lagu patriotik. Namun keduanya menandakan peristiwa yang berbeza, terpisah enam tahun, dan memerihalkan dua negara yang berlainan bentuk.

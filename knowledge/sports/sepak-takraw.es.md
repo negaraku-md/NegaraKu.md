@@ -34,7 +34,7 @@ faq:
     a: "La última victoria de Malasia en el título de regu por equipos de la Copa del Rey fue en 1988. Para 2024 esa espera había alcanzado unos 36 años, cuando Malasia perdió 0-2 ante la anfitriona Tailandia en Nakhon Ratchasima."
 
 lang: "es"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,9 +99,35 @@ wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "sukma-games", "national-sports-council-msn"]
 keywords: ["sepak takraw", "sepak raga", "deporte nacional de malasia", "reglas del sepak takraw", "copa del rey sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'Un joven jugador en Malasia levanta una patada alta hacia la pelota de sepak takraw de ratán trenzado en el aire.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: Jugadores de sepak takraw saltando para golpear una pelota de ratán por encima de la red en un intercambio reñido durante un partido femenino en los Juegos Asiáticos.
+    kind: representative
+    origin: third-party
+    subject: Jugadores de sepak takraw disputando la red durante un partido de los Juegos Asiáticos
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: Primer plano de pelotas de sepak takraw de ratán tejido, la pelota entrelazada tradicional con la que se practica el deporte.
+    kind: representative
+    origin: third-party
+    subject: Pelotas de sepak takraw de ratán tejido
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 Imagina el voleibol y, a continuación, quítale las manos a cada jugador. Lo que

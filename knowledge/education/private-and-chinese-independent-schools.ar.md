@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "أولياء الأمور والطلاب في ماليزيا الذين يختارون بين المدارس الوطنية والمدارس الخاصة ذات المنهج الوطني والمدارس الثانوية الصينية المستقلة، وكل من يحاول فهم ما يمثّله حقاً مفهوم SMJK أو المدرسة الخاصة أو شهادة UEC."
 
 lang: "ar"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ keywords:
   - "Unified Examination Certificate"
   - "قسم التعليم الخاص ماليزيا"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'المبنى الرئيسي لمدرسة بابار الإعدادية، وهي مدرسة ثانوية صينية مستقلّة في ولاية صباح، واسمها معروض بالصينية والإنجليزية على الواجهة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: الواجهة الأمامية لمدرسة Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School في بينانغ، مبنى أبيض متعدّد الطوابق بأعمدة واسم المدرسة بالملايوية والصينية والإنجليزية.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling (Private) High School، مدرسة ثانوية صينية مستقلّة في بينانغ
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: المبنى الرئيسي الكبير المتعدّد الطوابق لمدرسة Kuen Cheng High School في كوالالمبور، واسمها ظاهر بالصينية (坤成中学) والإنجليزية على حافة السطح.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School، مدرسة ثانوية صينية مستقلّة في كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 اسأل أيّ وليّ أمر ماليزي عن معنى «المدرسة الخاصة»، فقد يقصد ثلاثة أشياء مختلفة تماماً: مدرسة برسوم تُجري المنهج نفسه الذي تُجريه المدرسة الحكومية في الحيّ ذاته، أو مدرسة دولية تُدرّس منهج كامبريدج أو البكالوريا الدولية (IB)، أو مدرسة ثانوية صينية مستقلة تُجري امتحاناً لم يسمع به كثيرون خارج مجتمع التعليم الصيني. واحدة فقط من هذه الثلاث تُجري امتحان SPM. وواحدة فقط تُجري امتحان UEC. والخلط بينها أسهل طريقة لإساءة تقدير خيارات الطفل عند سنّ 18.

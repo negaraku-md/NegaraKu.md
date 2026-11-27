@@ -20,7 +20,7 @@ keyTakeaways:
   - "El Tratado Anglo-Neerlandés del 17 de marzo de 1824 cedió Melaka de forma permanente a Gran Bretaña a cambio de Bencoolen; el traspaso efectivo entró en vigor el 1 de marzo de 1825"
 appliesTo: "Lectores que ya saben que Melaka pasó de manos portuguesas a neerlandesas y luego británicas, y quieren entender por qué los 184 años intermedios se vieron tan distintos de los 130 años anteriores y los 121 posteriores — además de cómo ocurrió en realidad el traspaso a Gran Bretaña."
 lang: "es"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: ¿Pasó Melaka de los neerlandeses a los británicos en una sola entrega limpia?
     a: No. Cambió de manos administrativamente cuatro veces en treinta años. Gran Bretaña ocupó Melaka en 1795 en virtud de las Cartas de Kew (Kew Letters) para evitar que cayera en manos de Francia, Melaka fue devuelta a los neerlandeses en 1818, el Tratado Anglo-Neerlandés de 1824 (firmado el 17 de marzo de 1824) la cedió de forma permanente a Gran Bretaña a cambio de Bencoolen en Sumatra, y la transferencia efectiva entró en vigor el 1 de marzo de 1825.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'El Stadthuys (edificio colonial neerlandés) de color rojo intenso y su torre del reloj roja en la Plaza Holandesa de Malaca, con una rotonda llena de flores y un poste indicador de direcciones delante.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: La fachada de ladrillo rojo intenso de la Christ Church Melaka, con una cruz blanca y un reloj incrustados en su frontón, se alza contra el cielo.
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka, la iglesia construida por los neerlandeses en 1753
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: Una puerta arqueada encalada con el letrero 'Kubur Belanda / The Dutch Graveyard' da paso a un cementerio colonial a la sombra de los árboles en la colina de San Pablo, en Melaka.
+    kind: actual
+    origin: third-party
+    subject: El Cementerio Neerlandés (Kubur Belanda) en la colina de San Pablo, Melaka
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 Una compañía dedica siete meses y una alianza con un sultanato extranjero a conquistar un puerto. Luego dedica el siguiente siglo y medio a asegurarse de que ese puerto nunca se enriquezca.

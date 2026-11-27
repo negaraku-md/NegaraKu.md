@@ -32,7 +32,7 @@ faq:
   - q: 该行业面临的主要挑战是什么？
     a: 该行业面临农户老龄化、全球价格波动、气候压力，以及来自越南、印尼和印度等较大生产国的激烈竞争。低机械化程度和对原豆出口的依赖使利润微薄，这正是政策如今强调重植、技术和下游加工的原因。
 lang: zh
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: '马来西亚沙捞越一处种植园里，一排排黑胡椒藤蔓攀爬在木制支撑杆上，沙捞越是马来西亚主要的胡椒种植州。'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: 一株胡椒植物的特写，数串下垂的穗上密密地缀满圆润的绿色胡椒粒，衬以宽大油亮的深绿色叶片，背景是一片模糊的绿色农园
+    kind: actual
+    origin: third-party
+    subject: 在马来西亚胡椒产业核心地带砂拉越的一座胡椒农园，黑胡椒植株上一串串绿色胡椒粒结成长穗渐渐成熟垂挂着
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: 一处刷白的屋顶，边缘围着低矮的栏杆，上面摆放着数个方形网筛，筛中铺晒着深色的胡椒粒，背后蕉树、椰树与林木覆盖的山丘在蓝天下连绵起伏
+    kind: representative
+    origin: third-party
+    subject: 收获的胡椒粒摊放在屋顶的网筛上日晒，这一晾晒阶段将绿色浆果转化为黑胡椒
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 胡椒是马来西亚最古老、地理特色最鲜明的农产品之一：这种从印度次大陆和苏门答腊引进的藤蔓植物，在砂拉越湿润、排水良好的丘陵地带找到了理想的家园，成为数千个乡村小农园的支柱。尽管马来西亚按全球产量计算只是一个不起眼的角色，但它凭借声誉超越其体量，向识货的市场销售高端的、经原产地认证的"砂拉越胡椒"。本文将胡椒业作为一个独立产业，剖析其结构、地理、贸易与前景。

@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,34 @@ keywords:
   - "Perak GDP"
   - "Ipoh cost of doing business"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'பகுதி மேகமூட்ட வானத்திற்குக் கீழே, சுண்ணாம்புக்கல் மலைகளைப் பின்னணியாகக் கொண்ட, நவீன வணிக அலுவலக கோபுரங்களும் பச்சை வயலும் கொண்ட Ipoh நகர மையத்தின் பகல் காட்சி'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: குவிமாடங்கள் மற்றும் வளைவு மண்டபங்களுடன் கூடிய வெள்ளை நிற காலனித்துவ Ipoh ரயில் நிலையக் கட்டிடம், நீல வானத்தின் கீழ் அதன் கல்-பதித்த முன்முற்றத்தின் குறுக்கே பார்த்த காட்சி
+    kind: actual
+    origin: third-party
+    subject: பேராக் மாநிலம் இப்போ ரயில் நிலையம் — முன்முற்றத்தில் அமைந்த குவிமாடத்துடன் கூடிய காலனித்துவ-கால அடையாளக் கட்டிடம்
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: கடை-வீடுகள் மற்றும் அலுவலகக் கட்டிடங்களால் நிறைந்த இப்போவின் வணிக நகர மையத்தின் மேல்நோக்கு காட்சி; பின்னணியில் கண்ணாடி அலுவலக கோபுரமும் சுண்ணாம்பு மலைகளும்
+    kind: actual
+    origin: third-party
+    subject: பேராக் மாநிலம் இப்போ நகர வணிக மையம் — பின்னணியில் கண்ணாடி அலுவலக கோபுரம் மற்றும் சுண்ணாம்பு மலைகளுடன் அடர்ந்த கடை-வீடுகளும் அலுவலகக் கட்டிடங்களும்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 இது வேண்டுமென்றே எழுதப்பட்ட ஒரு குறுகிய பக்கம். Perak-இன் சட்ட அமைப்பு Selangor-இன்

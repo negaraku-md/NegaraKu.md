@@ -35,7 +35,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["acompte collège Malaisie", "vérification accréditation MQA", "MQR mqr.gov.my", "mon cours est-il accrédité", "politique de remboursement collège Malaisie", "organisme décernant twinning 3+0", "université privée Malaisie IPTS", "Act 555", "avant de payer les frais de collège"]
 framework: how-to
+stayFacts:
+  who: 'Ceci s''adresse aux étudiants et aux parents qui détiennent une offre d''un collège et sont sur le point de verser un acompte ou des frais d''inscription — souvent la première somme engagée, et fréquemment non remboursable.'
+  how: 'Avant de payer, vérifiez cinq choses par écrit : le programme exact figure sur le MQR ; l''établissement est un prestataire enregistré (un IPTS au titre du Private Higher Educational Institutions Act 1996 (Act 555), ou une université publique ou un campus délocalisé reconnu) ; pour un programme en jumelage ou 3+0, qui délivre le certificat final ; le barème complet des frais écrit pour l''ensemble du programme ; et la clause de remboursement et de désistement.'
+  cost: 'L''acompte n''est qu''une fraction — demandez le barème complet des frais écrit pour l''ensemble du programme (inscription, scolarité par semestre, frais de ressources, d''examens, d''assurance et d''étudiant international), et pas seulement la première année, et confirmez ce à quoi l''acompte est imputé.'
+  watch: 'Les acomptes sont fréquemment non remboursables et il n''existe aucun droit de rétractation légal national — ce que vous pouvez récupérer est défini par la politique écrite propre à l''établissement. Un « transfert garanti en 3ᵉ année » relève de la décision de l''université partenaire, et non du collège local ; obtenez-le par écrit.'
+  next: 'Adressez par écrit chaque vérification à l''établissement et conservez les réponses avant que le moindre argent ne quitte votre compte ; vérifiez d''abord le programme exact sur le MQR. Voir l''explication de l''accréditation MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Les tours du Lakeside Campus de la Taylor''s University se reflétant dans un lac au crépuscule, avec une enseigne rouge "TAYLOR''S UNI" sur le bâtiment principal.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: La façade vitrée du RCSI and UCD Malaysia Campus, une université privée du type qui demande aux nouveaux étudiants un acompte d'inscription.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), Penang
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: Un bloc d'enseignement moderne sur le campus de la Sunway University, un établissement privé où les candidats pèsent frais et acomptes avant de s'engager.
+    kind: actual
+    origin: third-party
+    subject: Bâtiment du campus de Sunway University, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 L'acompte est généralement le premier argent qu'une famille remet à un collège

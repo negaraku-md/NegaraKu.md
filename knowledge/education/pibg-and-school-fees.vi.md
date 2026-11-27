@@ -29,7 +29,7 @@ faq:
     a: "Không. Giáo dục tại các trường tiểu học và trung học công lập không thu học phí. Phí đặc biệt thì đã bị bãi bỏ từ năm 2008 qua SPI Bil. 13/2007."
 
 lang: "vi"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'Những tòa nhà thấp mái đỏ và sân cỏ xanh của một trường tiểu học ở Brickfields, Kuala Lumpur, trên nền đường chân trời cao tầng của KL Sentral.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: Tòa nhà trường trung học Malaysia nhiều tầng với sân tập trung lát gạch
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà một trường trung học quốc gia Malaysia (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: Phụ huynh và giáo viên tụ họp trong hội trường trường học cho một cuộc họp của Hội Phụ huynh - Giáo viên (PIBG)
+    kind: representative
+    origin: third-party
+    subject: Cuộc họp toàn thể của Hội Phụ huynh - Giáo viên (PIBG) tại một trường học Malaysia
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 Con bạn được đăng ký vào một trường công lập "miễn phí" — nhưng biểu mẫu PIBG và danh sách các khoản thanh toán vẫn đến tận nhà. Vậy điều gì thực sự bắt buộc phải trả, và điều gì thì không?

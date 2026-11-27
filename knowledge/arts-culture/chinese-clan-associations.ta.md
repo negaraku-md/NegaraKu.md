@@ -33,7 +33,7 @@ faq:
     a: "தற்காலச் சங்கங்களின் பரஸ்பர உதவிப் பங்கு பெரிதும் மாறிவிட்டது. பல சங்கங்கள் உதவித்தொகை மற்றும் கல்விக் கடன் வழங்குதல், பேச்சுமொழியையும் பாரம்பரியப் பண்பாட்டையும் பேணுதல், திருவிழாக்களையும் நட்புறவுக் கூட்டங்களையும் நடத்துதல், சமூக நலன்புரியை ஊக்குவித்தல் ஆகியவற்றுக்கு முக்கியத்துவம் தருகின்றன; சில பழமையான குல ஆலயங்களும் குலப் பாலங்களும் ஜியார்ஜ் டவுன் உலகப் பாரம்பரியக் களமாகப் பதிவுசெய்யப்பட்ட பிறகு பண்பாட்டுச் சுற்றுலா மற்றும் கட்டிடப் பேணலின் மையமாயின. ஒவ்வொரு சங்கத்தின் செயல்பாட்டளவும் முக்கியத்துவமும் வேறுபடுகின்றன."
 
 lang: "ta"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,34 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'Penang மாநிலத்தில், வண்ணமயமான பீங்கான் டிராகன்களும் உருவங்களும் நிறைந்த சாய்ந்த ஓட்டு கூரையுடன், முற்றத்திலிருந்து நீல வானத்திற்குக் கீழே காணப்படும் நுட்பமாகச் செதுக்கப்பட்ட Leong San Tong Khoo Kongsi குல மாளிகை'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: சீனப் புத்தாண்டுக்காக அந்தி வேளையில் ஒளிரும் கூ கொங்சி குல மண்டபம், சிவப்பு லாந்தர்கள் மற்றும் ஒளிரும் விளக்குச் சட்டகங்களால் அலங்கரிக்கப்பட்டு, முற்றத்தில் கூட்டம் கூடியுள்ளது
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு, ஜார்ஜ் டவுனில் 2024 சீனப் புத்தாண்டுக்காக சிவப்பு லாந்தர்களால் ஒளியூட்டப்பட்டு அலங்கரிக்கப்பட்ட கூ கொங்சி குல மண்டபம்
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: கூ கொங்சி குல மண்டபத்தின் கூரையை மேல்நோக்கிப் பார்க்கும் காட்சி, செங்கல்மண் ஓட்டு உத்திரங்கள், வர்ணம் பூசப்பட்ட உத்திரங்கள் மற்றும் செழுமையாக பொன் பூசப்பட்ட செதுக்கப்பட்ட அடைப்புக் கைகளைக் காட்டுகிறது
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு, ஜார்ஜ் டவுனில் உள்ள கூ கொங்சி குல மண்டபத்தின் வர்ணம் பூசப்பட்டு பொன் பூசப்பட்ட மரக் கூரை
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 பினாங் ஜியார்ஜ் டவுனில் கோர்ன்வாலிஸ் கோட்டையைச் சுற்றியுள்ள பகுதிக்குள் நுழைந்தால், தொடர் கடை-வீடுகளுக்கு (ஷாப்ஹவுஸ்) இடையே திடீரென வளைந்த கூரையும் நுட்பமான சிற்பவேலையும் வண்ணச் சித்திரங்களும் கொண்ட ஒரு குல ஆலயம் தோன்றும் — அதுவே லியோங் சான் தோங் கூ காங்சி. கடலை நோக்கி மேலும் சென்றால், மரக் கம்பங்கள் தாங்க நீரின் மேல் நீட்டிக்கொண்டிருக்கும் மரவீட்டுக் கிராமங்கள் வரிசையாக இருக்கும்; ஒவ்வொன்றும் ஒரு குடும்பப் பெயரால் அழைக்கப்படுகின்றன: சூ பாலம், லிம் பாலம், டான் பாலம். இக் கட்டிடங்கள் கோயில்களுமல்ல, வெறும் குடியிருப்புகளுமல்ல; சீனக் குடியேற்றச் சமூகத்தின் மிகப் பழமையான அமைப்பு வடிவங்களில் ஒன்று விட்டுச்சென்ற சான்றுகள் — குல மற்றும் சொந்த ஊர் சங்கங்கள்.

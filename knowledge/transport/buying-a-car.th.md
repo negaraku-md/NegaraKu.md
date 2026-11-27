@@ -30,7 +30,7 @@ faq:
     a: "ธนาคารหรือบริษัทการเงินได้รับการจดทะเบียนเป็นเจ้าของตามกฎหมายของยานพาหนะภายใต้พระราชบัญญัติเช่าซื้อ 1967 (Hire-Purchase Act 1967) ตลอดระยะเวลาของเงินกู้ ผู้ซื้อเป็นผู้ครอบครองที่จดทะเบียนที่ใช้ยานพาหนะในแต่ละวัน และจะกลายเป็นเจ้าของที่จดทะเบียนเมื่อชำระเงินกู้ครบถ้วนและผู้ให้เงินทุนออกการปลดปล่อยเท่านั้น"
 
 lang: "th"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'ร้านตัวแทนจำหน่าย Proton สีน้ำเงินที่ติดป้าย “Wakil Jualan dan Servis” ในเมืองซูบังจายา โดยมีรถหลายคันจอดอยู่หน้าร้าน'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: รถPeroduaคันใหม่จอดเรียงรายใต้แสงไฟสว่างภายในโชว์รูมแบรนด์Peroduaในปีนัง ประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: โชว์รูมตัวแทนจำหน่ายPeroduaในปีนัง
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: รถเก๋งProton Perdanaสีดำ รถแบรนด์ประจำชาติที่ผลิตในมาเลเซีย จอดอยู่ริมถนนในชาห์อาลัม รัฐสลังงอร์
+    kind: actual
+    origin: third-party
+    subject: รถเก๋งProton Perdanaในชาห์อาลัม รัฐสลังงอร์
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 ซื้อรถในมาเลเซียแล้วคุณลงนามในข้อตกลงหนึ่ง แต่แท้จริงแล้วคุณเข้าสู่ความสัมพันธ์สามอย่างที่แยกจากกันในคราวเดียว: หนึ่งกับผู้ที่ขายรถให้คุณ หนึ่งกับผู้ที่จัดหาเงินทุน และหนึ่งกับ JPJ ซึ่งเป็นกรมที่ตัดสินว่าชื่อของใครอยู่บนยานพาหนะจริง ๆ พลาดขั้นตอนใดในสามอย่างนี้ รถที่คุณจ่ายเงินไปตามกฎหมายก็ยังไม่เป็นของคุณอย่างสมบูรณ์

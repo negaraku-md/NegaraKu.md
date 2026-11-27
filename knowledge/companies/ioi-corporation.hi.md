@@ -30,7 +30,7 @@ faq:
     a: "मलेशिया में (जोहोर, मलक्का, नेगेरी सेम्बिलान, पहांग, सबाह और सारावाक सहित) और इंडोनेशिया में (पश्चिम और मध्य कालीमंतान)।"
 
 lang: "hi"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "ताड़ तेल मलेशिया", "ओलियोकेमिकल्स", "RSPO", "बागान कंपनी", "palm oil Malaysia", "oleochemicals", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'नाटकीय बादल भरी आसमान के नीचे दरवाज़ों के ऊपर लाल ''ioiCITYMALL'' साइन के साथ IOI सिटी मॉल का घुमावदार काँच-धातु का मुख्य प्रवेश, दोनों ओर ऊँची दर्पणी कार्यालय मीनारें'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: सबा के Sandakan में एक बड़े 'IOI' और 'IOI EDIBLE OILS' लोगो बोर्ड से चिह्नित एक नीली औद्योगिक पाम तेल रिफ़ाइनरी मीनार, पीछे वनाच्छादित पहाड़ियाँ और सामने ताड़ के पेड़
+    kind: actual
+    origin: third-party
+    subject: Sandakan, सबा में IOI Edible Oils पाम तेल रिफ़ाइनरी परिसर, IOI Corporation के संसाधन-आधारित विनिर्माण का हिस्सा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: IOI City Mall 2 का बहु-स्तरीय भीतरी आलिंद, घुमावदार बालकनियों के ऊपर लटके ऊँचे गुलाबी 'IOi CiTY MALL 2' प्रचार बैनर, जो दुकानों से घिरे हैं
+    kind: actual
+    origin: third-party
+    subject: IOI City Mall 2 का भीतरी आलिंद, IOI City Mall का दूसरा चरण, पुत्रजया
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 एक कंपनी जिसने अपनी शुरुआत औद्योगिक गैसें बेचकर की, अब इतना ताड़ उगाती है कि एक छोटे ज़िले के आकार का भूमि-भंडार भर जाए — और उस फल को खाना पकाने के तेल से लेकर आपके साबुन के अंदर के वसीय अम्लों तक हर चीज़ में बदल देती है।

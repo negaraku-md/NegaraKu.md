@@ -77,6 +77,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'Pintu masuk utama Istana Budaya, teater kebangsaan, dengan bumbung sirih junjung yang melengkung luas, lambang teratai emas dan anak tangga yang lebar menuju pintu kayu berukir.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: Sekumpulan penari berpakaian tradisional Sarawak mempersembahkan tarian rakyat di atas pentas kepada penonton
+    kind: actual
+    origin: third-party
+    subject: Penghibur berpakaian tradisional mempersembahkan tarian rakyat Sarawak pada sebuah pameran kebudayaan di Malaysia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: Bahagian hadapan Muzium Negara Malaysia, sebuah bangunan dengan bumbung melentik gaya Minangkabau dan panel mural mozek yang besar
+    kind: actual
+    origin: third-party
+    subject: Muzium Negara Malaysia di Kuala Lumpur, dengan bumbung gaya Minangkabau dan mural mozek warisan
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 Pada 1971, kira-kira dua tahun selepas [peristiwa 13 Mei 1969](/malaysia/13-may-1969), sekumpulan sarjana, penggiat seni dan pemimpin berkumpul di Universiti Malaya untuk menjawab satu soalan yang sukar bagi sebuah negara berbilang kaum: apakah yang dimaksudkan dengan "kebudayaan kebangsaan"? Jawapan yang terhasil — Dasar Kebudayaan Kebangsaan (DKK) — masih menjadi rujukan dasar sehingga hari ini, sekali gus masih menjadi bahan perbahasan.

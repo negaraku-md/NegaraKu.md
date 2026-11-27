@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يحاول فهم سبب تغيّر طقس ماليزيا ومخاطر الفيضان فيها مع الفصول — سكان المناطق الساحلية، والمسافرون، ومخطّطو مواجهة الكوارث، ودارسو الجغرافيا، وكل من يتابع تحذيرات MetMalaysia الجوية."
 
 lang: "ar"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ faq:
   - q: هل الرياح الموسمية الشمالية الشرقية بالشدة نفسها طوال الفترة من نوفمبر إلى مارس؟
     a: لا. تُظهر البيانات الرسمية لمجلس الأمن القومي (MKN) لموسم 2024/2025 أن المناطق الأعلى خطورة تتغير بحسب المرحلة. ففي المرحلة المبكرة (نوفمبر–ديسمبر) تأثرت كلنتان وترينغانو وباهانغ وجوهور وساراواك وصباح؛ وفي المرحلة المتأخرة (يناير–فبراير) انتقل التركيز إلى باهانغ وجوهور وساراواك وصباح — ولم تعد كلنتان وترينغانو مدرجتين ضمن الأعلى خطورة. ومن المتوقع أن يسجّل الموسم بأكمله من 5 إلى 7 نوبات من الأمطار الغزيرة.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'أمطار تدفعها الرياح تضرب مجموعة من أشجار النخيل المنحنية فوق ساحة مدينة مهجورة تلمع بالماء، وتتطاير سعفها جانبًا تحت سماء رمادية رصاصية بينما تتلاشى الأبراج الشاهقة في وابل المطر.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: سيارة ترفع رذاذًا وهي تشقّ مياه فيضان بنّية تغطّي شارعًا في المدينة خلال هطول مطري استوائي غزير.
+    kind: actual
+    origin: third-party
+    subject: هطول غزير يُغرق شارع Jalan Raja Chulan، كوالالمبور
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: مطر غزير يتساقط على زقاق قروي غمرته مياه فيضان موحلة، مع أشجار موز وعمود كهرباء ينتصبان في الماء.
+    kind: actual
+    origin: third-party
+    subject: مياه فيضان موسمية تغطّي طريقًا قرويًا (kampung) في سانداكان، صباح
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 كل نوفمبر، وقبل متابعة الأخبار، يبدأ كثير من سكان كوتا بارو (Kota Bharu) وكوالا ترِنغانو (Kuala Terengganu) وكوانتان (Kuantan) بمراقبة مناسيب مياه الأنهار القريبة من منازلهم. وليست هذه عادةً وُلدت من كارثة غير متوقعة — بل جدولٌ قابل للتوقّع يتكرّر كل عام، وسببه هو نظام الرياح الموسمي ذاته الذي يُحدّد أيضاً متى يجفّ الساحل الغربي لشبه الجزيرة.

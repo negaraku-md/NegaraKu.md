@@ -35,7 +35,7 @@ faq:
     a: "Viện Nghiên cứu An toàn Giao thông Đường bộ Malaysia (MIROS), được thành lập năm 2007, thực hiện nghiên cứu dựa trên bằng chứng, trong khi Vụ An toàn Giao thông Đường bộ của JPJ (trước đây là JKJR) dẫn dắt công tác vận động và nâng cao nhận thức. Cả hai đều thuộc Bộ Giao thông."
 
 lang: "vi"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Giao thông trên đường cao tốc Bắc-Nam có dải phân cách ở Malaysia, với vạch kẻ làn, rào chắn va chạm và biển quảng cáo ven đường dưới bầu trời quang đãng.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: Góc nhìn về hướng bắc dọc theo đường Jalan Kluang-Kota Tinggi hai làn xe (Tuyến Liên bang 91) gần Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Quốc lộ liên bang hai làn xe (Tuyến 91), Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: Một vạch sang đường cho người đi bộ có kẻ vạch tại một giao lộ vào ban đêm ở Kota Damansara, Selangor
+    kind: actual
+    origin: third-party
+    subject: Lối sang đường cho người đi bộ tại một giao lộ, Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 Mỗi ngày, khoảng 18 sinh mạng bị cướp đi trên đường sá Malaysia. Con số đó khiến giao thông đường bộ trở thành một trong những nguyên nhân tử vong không tự nhiên nổi bật nhất tại quốc gia này, và là lý do chính khiến luật pháp, camera và các cơ quan chuyên trách được huy động để đối phó.

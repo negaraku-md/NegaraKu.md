@@ -31,7 +31,7 @@ faq:
   - q: प्रमुख मलेशियाई फार्मास्युटिकल कंपनियाँ कौन-सी हैं?
     a: सबसे प्रसिद्ध स्थानीय निर्माता हैं Pharmaniaga (एक एकीकृत निर्माता, वितरक और सरकारी रियायत-धारक), Duopharma Biotech (जो CCM समूह से विकसित हुई और बायोसिमिलर बनाती है), CCM, Kotra Pharma और Hovid। Pfizer, Novartis और GSK जैसी बहुराष्ट्रीय कंपनियाँ बड़े स्थानीय उत्पादन के बजाय मुख्यतः पेटेंट दवाओं पर ध्यान केंद्रित करती हैं।
 lang: hi
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - वैक्सीन फिल-फिनिश
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'एक फार्मास्यूटिकल निर्माण लाइन पर स्वचालित कन्वेयर पर चलती ढक्कनदार दवा की शीशियाँ।'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: नीले कोट और टोपी पहने कई श्रमिक एक कार्यबेंच के चारों ओर खड़े हैं, जो छोटी गहरे रंग की दवा की शीशियों की सघन पंक्तियों से ढकी है, उन्हें संभालते और जाँचते हुए, एक उज्ज्वल फार्मास्युटिकल संयंत्र में जिसकी दीवार के साथ काँच-सामने वाली अलमारियाँ हैं।
+    kind: representative
+    origin: third-party
+    subject: एक फार्मास्युटिकल पैकिंग विभाग में नीली वर्दी और हेयर कैप पहने श्रमिक एक बेंच पर भरी हुई दवा की शीशियों की पंक्तियों का निरीक्षण और पैकिंग करते हुए
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: नीले नाइट्राइल दस्ताने और सफ़ेद लैब कोट में दोनों हाथ गोलियों की एक पारदर्शी प्लास्टिक ट्रे को गर्म सतहों के बारे में चेतावनी के साथ लेबल किए गए एक स्टेनलेस-स्टील प्रयोगशाला उपकरण पर रखते हुए।
+    kind: representative
+    origin: third-party
+    subject: एक फार्मास्युटिकल गुणवत्ता-नियंत्रण प्रयोगशाला में दस्ताने पहने एक तकनीशियन परीक्षण उपकरण में टैबलेट नमूना ट्रे लोड करते हुए
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 हर बार जब कोई मलेशियाई किसी एंटीबायोटिक, दर्द-निवारक या रक्तचाप की गोली के लिए पर्चा भरवाता है, तो इसकी अच्छी संभावना होती है कि वह दवा मलेशिया में बनी हो — यहाँ आविष्कृत नहीं, बल्कि अंतरराष्ट्रीय विनिर्माण मानकों पर काम करने वाले एक स्थानीय कारखाने में सूत्रबद्ध, दबाई, भरी और पैक की गई। यही मलेशिया के फार्मास्युटिकल उद्योग का केंद्र है: एक ठोस, जेनेरिक-नेतृत्व वाला विनिर्माण आधार जो राष्ट्रीय दवा-अलमारी को भरा रखता है, जिसके साथ दो अधिक महत्वाकांक्षी दाँव जुड़े हैं — हलाल फार्मास्युटिकल्स और वैक्सीन उत्पादन — जिनके बारे में देश को उम्मीद है कि वे उसे मूल्य शृंखला में ऊपर ले जाएँगे।

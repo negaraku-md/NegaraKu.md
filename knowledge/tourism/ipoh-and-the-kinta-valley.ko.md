@@ -40,7 +40,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -114,6 +114,39 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: '걸어서 둘러보는 식민지풍 올드타운, 석회암 동굴 사원, 그리고 페락이 자랑하는 코피티암 음식 문화를 원하는 유산·음식 여행자와 가족에게 적합합니다.'
+  getThere: 'KL 센트럴에서 KTM ETS 전기 열차로 올드타운역까지 들어오거나 남북 고속도로를 운전하며, 고속버스도 이 도시로 운행합니다.'
+  permit: '동굴 사원은 현재 예배가 이루어지는 곳이므로 단정하게 입고(어깨와 무릎을 가리고) 내부에서는 정숙하십시오.'
+  watch: '느슨한 관광 홍보 문구와 달리 킨타 밸리(Kinta Valley)는 국가 지질공원이지 UNESCO 세계지질공원이 아닙니다.'
+  next: '출발 전에 현재의 열차 시간표와 요금을 KTMB에 확인하십시오.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: '흐릿한 파란 하늘 아래 뒤로 들쭉날쭉한 석회암 언덕이 솟은, 이포의 초록 파당과 유산 도심을 내려다본 전경'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: 이포 켁 록 통에서 숲 덮인 석회암 카르스트 절벽 사이에 자리한 연못과 꽃피는 관목이 있는 조경 정원
+    kind: actual
+    origin: third-party
+    subject: 이포 남쪽, 높이 솟은 석회암 절벽에 둘러싸인 켁 록 통 동굴 사원의 호숫가 정원
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: 맑고 푸른 하늘을 배경으로 한, 무어식 아치를 지닌 켈리스 캐슬의 풍화된 붉은 벽돌 열주 정면
+    kind: actual
+    origin: third-party
+    subject: 킨타 밸리 바투 가자에 있는 미완성 무어 양식 식민지 시대 저택 켈리스 캐슬
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 주석이 이포를 만들었고, 그다음 거의 무너뜨릴 뻔했습니다. 킨타강의 한 마을이 킨타 밸리 아래 묻힌 광석의 힘으로 영국령 말라야에서 가장 부유한 도시 중 하나로 변해 웅장한 콜로니얼 중심부를 짓고는, 주석 가격이 붕괴하자 돈이 빠져나가는 것을 지켜보았습니다. 남은 것은 건축, 동굴 사원으로 벌집처럼 뚫린 석회암 언덕, 그리고 유난히 훌륭한 주방이었습니다. 오늘날 이포는 말레이시아에서 가장 편안한 유산·음식 도시 휴식지입니다 — 당일 여행으로 가기에 쿠알라룸푸르에 충분히 가깝고, 주말을 보낼 만큼 풍부합니다. 이 가이드는 그 땅을 빚은 경관과 역사, 도시 안팎에서 볼 것, 음식을 간략히, 그리고 가는 실용 사항을 다룹니다.

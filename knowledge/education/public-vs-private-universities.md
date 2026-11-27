@@ -76,6 +76,39 @@ faq:
   - q: A programme is only "provisionally accredited" — does that mean it isn't accredited?
     a: No. Under MQA's Code of Practice for Programme Accreditation, Provisional Accreditation confirms a programme has met the minimum quality requirements to be legally offered, and is itself a condition for Ministry approval. Full Accreditation is the fuller assessment carried out once a first cohort has gone through the programme. A provisionally accredited programme is legitimate and legally offerable; it simply hasn't yet completed the full-cycle assessment.
 framework: explainer
+stayFacts:
+  who: 'This is for SPM, STPM, matriculation, foundation, UEC, A-Level or diploma holders deciding between a public university (IPTA/Universiti Awam) and a private one (IPTS).'
+  how: 'Public universities admit almost entirely through UPU, the Ministry''s centralised online system — you rank programme preferences and are matched by merit against quota-limited places. Private institutions sit outside UPU, run their own rolling admissions directly, and accept a wider mix of qualifications.'
+  cost: 'The UPU application itself is free, though you buy a 12-digit Unik ID from Bank Simpanan Nasional (BSN) to log in; private-institution fees are set per programme and change, so confirm current figures with UPU''s e-Panduan or the institution.'
+  watch: 'The IPTA/IPTS label does not tell you whether a degree is recognised — that depends on whether the specific programme is MQA-accredited on the MQR, which you should check for your exact intake year. You cannot apply to a private university through UPU.'
+  next: 'Decide from the qualification you hold, then verify the exact programme and intake on the Malaysian Qualifications Register before enrolling at either type. See the MQA accreditation explainer and Before paying a college deposit.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'A long raw-concrete modernist hall with blue ''Dewan Tunku Canselor'' lettering and an external staircase, fronted by topiary gardens and an empty road'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: A multi-storey blue-glass university administration building with a rounded central tower on a landscaped hill, approached by terraced steps lined with flags
+    kind: representative
+    origin: third-party
+    subject: the modern glass Chancellery building of Universiti Teknologi MARA (UiTM), one of Malaysia's largest public universities
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: A stone-pillared university entrance gate carrying the 'Universiti Sains Malaysia' sign, flanked by flagpoles and dense greenery under an overcast sky
+    kind: representative
+    origin: third-party
+    subject: the main entrance gate of Universiti Sains Malaysia (USM), a public research university, in Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Two students with the same SPM results end up in completely different systems.

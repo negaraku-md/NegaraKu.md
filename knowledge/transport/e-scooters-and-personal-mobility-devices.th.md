@@ -27,7 +27,7 @@ faq:
     a: "จักรยานไฟฟ้าได้รับการยกเว้นเฉพาะเมื่อเป็นประเภทช่วยปั่นที่เป็นไปตามมาตรฐานมาเลเซีย MS2514 โดยไม่มีคันเร่ง (throttle) และมีบันไดปั่นที่ติดตั้งอยู่อย่างถาวร จักรยานไฟฟ้าที่มีคันเร่งซึ่งไม่ได้รับการอนุมัติถูกจัดประเภทเป็น PMD หรือโมเพ็ดและถูกห้าม"
 
 lang: "th"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'สกู๊ตเตอร์ไฟฟ้าแบ่งปัน Beam สีม่วงสามคันจอดอยู่บนทางเดินปูพื้นในสวนสาธารณะที่เมืองบาตูปาฮัต รัฐยะโฮร์'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: สกู๊ตเตอร์ไฟฟ้าBeamแบบแบ่งปันจอดอยู่ที่จุดจอดยานพาหนะขนาดเล็กข้างโรงแรมใกล้สถานีMRTเมอร์เดกาในกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: จุดจอดสกู๊ตเตอร์ไฟฟ้าBeamแบบแบ่งปันใกล้MRTเมอร์เดกา กัวลาลัมเปอร์
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: สกู๊ตเตอร์ไฟฟ้าBeam Mobilityแบบแบ่งปันสีม่วงจอดอยู่บนทางเดินที่สวนสาธารณะTaman Rekreasi Tasik Yในบาตูปาฮัต รัฐยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: สกู๊ตเตอร์ไฟฟ้าBeamแบบแบ่งปันที่สวนริมทะเลสาบในบาตูปาฮัต รัฐยะโฮร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 คุณซื้ออี-สกู๊ตเตอร์ไว้ใช้ไปทำงาน แต่วินาทีที่ล้อแตะถนนสาธารณะ คุณก็ทำผิดกฎหมายแล้ว นั่นคือความจริงของไมโครโมบิลิตีในมาเลเซียตั้งแต่ปลายปี 2021

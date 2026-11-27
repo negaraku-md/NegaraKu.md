@@ -62,6 +62,13 @@ relations:
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
 framework: profile
+hero: '/media/malaysia/reid-commission/hero.webp'
+heroAlt: 'マレーシアの国会議事堂が、クアラルンプールの美しく整えられた敷地に建ち、ほっそりとしたオフィス棟と彫刻のようなリブ状の議場が明るい日差しに輝く。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1956年初め、マラヤの指導者たちと英国政府が、独立を1957年8月までに実現させることで合意したとき、彼らは期限だけでは解決できない問題を抱えていた。新しい国にはまだ憲法がなかったのである。彼らは自らの手でそれを書き上げる代わりに、五人の法学者——そのいずれもマラヤ人ではなかった——にその仕事を委ね、自分たちが暮らすことのない国家の法的機構を、外部から設計するよう依頼した。

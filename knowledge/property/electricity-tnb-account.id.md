@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang pindah ke rumah atau premis baru di Malaysia dan perlu membuka, memindahkan, atau menutup akun pasokan listrik — baik di Semenanjung, Sabah maupun Sarawak."
 
 lang: "id"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'Sebuah meteran listrik Tenaga Nasional Berhad yang terpasang di dinding dengan kartu nomor akun yang ditulis tangan, di sebuah rumah di Malaysia.'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: Sebuah gardu listrik Tenaga Nasional berpagar di Bandar Utama, Petaling Jaya, satu mata rantai dalam jaringan yang memasok listrik ke setiap akun TNB rumah tangga di seluruh Selangor.
+    kind: actual
+    origin: third-party
+    subject: Gardu listrik Tenaga Nasional di Bandar Utama, Petaling Jaya
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Gardu pengambilan utama Tenaga Nasional di Bandar Utama dipenuhi switchgear dan gantri, tahap tegangan tinggi sebelum listrik sampai ke meteran di rumah konsumen.
+    kind: actual
+    origin: third-party
+    subject: Gardu induk transmisi pengambilan utama (PPU) Tenaga Nasional, Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 Anda mendapat kunci rumah baru, tapi sakelar lampu tidak berbuat apa-apa. Meter di luar masih berputar atas nama pemilik lama — dan sampai akun itu berganti nama, setiap kilowatt yang Anda pakai secara teknis masih tersangkut pada liabilitas orang lain. Banyak yang mengira "hubungi TNB" cukup untuk menyelesaikan masalah ini. Di Semenanjung, ya. Di Sabah dan Sarawak, itu nomor telepon yang sama sekali salah.

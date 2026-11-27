@@ -36,7 +36,7 @@ faq:
     a: "सूखी, शांत अवधि लगभग नवंबर से मार्च तक चलती है, जो द्वीप-भ्रमण, केबल कार और समुद्र-तट के समय के लिए सबसे अच्छी है। सितंबर और अक्टूबर आमतौर पर सबसे गीले महीने होते हैं, हालाँकि बारिश आमतौर पर पूरे दिन की बौछार के बजाय छोटी उष्णकटिबंधीय बारिश होती है।"
 
 lang: "hi"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["लंकावी", "Langkawi", "ड्यूटी-फ्री द्वीप", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "द्वीप-भ्रमण", "Dayang Bunting", "अंडमान सागर", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'पहली बार आने वालों, परिवारों और मिश्रित-रुचि यात्रियों के लिए जो विश्व-स्तरीय गोताख़ोरी से अधिक समुद्रतट, ड्यूटी-फ़्री ख़रीदारी और UNESCO Geopark चाहते हैं — SkyCab केबल कार, SkyBridge और मैंग्रोव द्वीप-भ्रमण।'
+  getThere: 'Langkawi International Airport (LGK) तक उड़ान भरें, या मुख्यभूमि की जेटियों Kuala Kedah और Kuala Perlis से यात्री फ़ेरी द्वारा Kuah Jetty तक पार जाएँ।'
+  permit: 'Langkawi की ड्यूटी-फ़्री क़ीमतें केवल द्वीप पर लागू होती हैं; मुख्यभूमि पर वापस ले जाया गया सामान मलेशिया के राष्ट्रीय यात्री-भत्ते के अंतर्गत आता है, जो एक न्यूनतम अर्हक प्रवास निर्धारित करता है और आपके वापस ला सकने वाले शराब, तंबाकू और स्मृति-चिह्नों को ड्यूटी-फ़्री सीमित करता है।'
+  watch: 'घर ले जाने के लिए ड्यूटी-फ़्री शराब अधिक न ख़रीदें — सस्ती क़ीमतें द्वीप पर आनंद लेने के लिए हैं, और मुख्यभूमि पर केवल एक सीमित भत्ता ही सीमा-शुल्क से पार होता है।'
+  next: 'वर्तमान फ़ेरी समय-सारणियाँ फ़ेरी ऑपरेटरों से, और ड्यूटी-फ़्री भत्ते Royal Malaysian Customs Department (RMCD) से पुष्ट करें।'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'अंडमान सागर के ऊपर जंगल-ढके पर्वत-शिखरों के बीच ऊँचाई पर लटका घुमावदार लंकावी स्काई ब्रिज'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: फ़िरोज़ी पानी के पास Pantai Cenang की सफ़ेद रेत को घेरते ताड़ के पेड़ और गहरी चट्टानें, ऊपर एक parasail
+    kind: actual
+    origin: third-party
+    subject: ताड़ के पेड़ों और फ़िरोज़ी समुद्र के साथ Pantai Cenang समुद्र तट
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Langkawi द्वीप पर एक marina और फ़िरोज़ी खाड़ियों को निहारते घने वर्षावन के ऊपर सरकती लाल SkyCab गोंडोले
+    kind: actual
+    origin: third-party
+    subject: जंगल और marina के ऊपर Langkawi SkyCab केबल कार
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 निन्यानबे द्वीप, मछलियों से भी पुरानी चट्टानें, सस्ती व्हिस्की, और एक केबल कार जो 550 मिलियन वर्ष से अधिक आयु अनुमानित चट्टान से बने पहाड़ की ढलान पर लटकी है — लंकावी मलेशिया के उत्तर-पश्चिमी छोर से दूर एक ही द्वीपसमूह में असाधारण मात्रा में चीज़ें समेट लेता है। यह देश का प्रमुख पश्चिमी-तट अवकाश द्वीप है, और यह प्रायद्वीप के दूसरी ओर ताड़ के पेड़ों से घिरे गोताखोरी द्वीपों के लगभग विपरीत तर्क पर काम करता है। यह गाइड उस बात को शामिल करती है जो जाने से पहले वास्तव में मायने रखती है: वे ड्यूटी-फ्री नियम जो लोगों को उलझा देते हैं, वह यूनेस्को जियोपार्क जो दृश्यावली को उसकी पृष्ठकथा देता है, SkyCab और SkyBridge, वे नाव यात्राएँ जो करने योग्य हैं, और लंकावी तथा पूर्वी तट के बीच कैसे निर्णय लें।

@@ -32,7 +32,7 @@ faq:
     a: "لا. البهاراتاناتيام شكل من أشكال الرقص الكلاسيكي؛ أما النادسفارام فهو تقليد موسيقي آلي يُعزف في المعابد والمناسبات الميمونة. وكلاهما ينتمي إلى التراث الفني لمجتمع التاميل لكنهما مختلفان؛ وتُتناول موسيقى النادسفارام/المعابد هنا على حدة، في حين يركّز هذا المقال على فنون المسرح الكلاسيكية."
 
 lang: "ar"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
+heroAlt: 'راقصة هندية كلاسيكية شابة بزي بهاراتاناتيام أزرق وذهبي تتخذ وضعية على ساحة، ويرتفع خلفها معبد صيني أحمر متدرّج الطبقات'
+heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: راقصة أوديسي بزيّ أزرق زاهٍ ومجوهرات معبدية فضية تتّخذ وضعية أنيقة منمّقة أمام خلفية مسرح سوداء
+    kind: representative
+    origin: third-party
+    subject: راقصة أوديسي كلاسيكية في منتصف الوضعية بزيّ أزرق ومجوهرات فضية
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: امرأة بساري حريري أصفر وأرجواني تعزف على كمان ممسوك بأسلوب الكارناتيك الجلوسي، منحنيةً نحو ميكروفون على المسرح
+    kind: representative
+    origin: third-party
+    subject: عازفة كمان كارناتيكية تؤدّي بساري حريري في حفل موسيقى كلاسيكية
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 في أيّ مدينة كبرى من مدن ماليزيا، في مساء ديبافالي أو في يوم احتفال بأحد المعابد، يمكنك أن ترى فنان بهاراتاناتيام يصعد إلى المسرح، وأجراس كاحليه ترنّ، وهو يتحرّك على إيقاع المريدانغام. وتلك الخطوات والإيماءات ليست وليدة الصدفة — إنها تحكي عن تقليد فنّي هندي جنوبي يتجاوز عمره ألف عام، وعن الطريقة التي حمله بها مجتمع التاميل الماليزي طوال أكثر من قرن ونصف.

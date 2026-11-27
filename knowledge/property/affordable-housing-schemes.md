@@ -83,9 +83,36 @@ entity: "Skim Rumah Mampu Milik Kerajaan"
 relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "home-loan-financing" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "ministry-of-housing-local-government-kpkt", "property-agents-and-fees"]
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'Dua blok tinggi pangsapuri perumahan awam Malaysia di Bukit Jalil, satu krim dan satu merah jambu berbumbung merah, balkoninya digantung pakaian dan dipasang cakera satelit, menjulang di atas sebaris pepohon hijau di bawah langit biru cerah'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: Barisan panjang blok menara perumahan awam krim berbumbung merah di Bukit Jalil, setiap unit berabjad, dengan kereta diletak di sepanjang jalan taman serta kehijauan dan garis langit bandar di kejauhan
+    kind: actual
+    origin: third-party
+    subject: barisan pangsapuri tinggi Program Perumahan Rakyat (PPR) dengan tempat letak kereta penghuni di Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: Sebuah blok pangsapuri perumahan awam kuning mustard dan putih di Kota Damansara dilihat dari bawah berlatarkan langit mendung, unit-unitnya yang serupa dipasang jejari tingkap dan penghawa dingin, dibingkai dahan pokok
+    kind: actual
+    origin: third-party
+    subject: blok perumahan awam PPR (Gugusan Kemuning) di Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 Gaji anda RM4,000 sebulan dan harga rumah teres di bandar sudah cecah setengah juta ringgit — di mana sepatutnya anda mula mencari? Jawapannya bukan satu skim, tetapi sebuah menu skim kerajaan yang setiap satunya menyasarkan jalur pendapatan berbeza. Memilih yang salah bererti membazir bulan menunggu undian untuk rumah yang anda memang tidak layak.

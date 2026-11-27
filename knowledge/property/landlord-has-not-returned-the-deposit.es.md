@@ -35,7 +35,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ entity: "Un depósito de alquiler retenido en Malasia"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'Los pisos de apartamentos de gran altura Puncak Desa en Kepong, Kuala Lumpur, un típico bloque de vivienda de alquiler malasio.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: Un bloque de antiguos pisos públicos de poca altura sin ascensor, con ropa tendida en las ventanas, en Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Antiguos pisos de alquiler sin ascensor (los Pekeliling Flats) en Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: Una hilera de casas adosadas de una sola planta a lo largo de una calle residencial en Rasa, Selangor
+    kind: representative
+    origin: third-party
+    subject: Una hilera de casas adosadas en Rasa, Selangor, un tipo habitual de vivienda de alquiler
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 Pocas cosas amargan tanto el final de un arrendamiento como un arrendador que se queda con el depósito. Suele ser una suma importante, a menudo parece injusto, y la tentación es escalar de inmediato. Antes de hacerlo, ayuda entender el único hecho que determina todo en una disputa de depósito en Malasia, porque no es lo que muchos inquilinos suponen.

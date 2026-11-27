@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'Barisan kren gantri kapal-ke-darat mengendalikan kontena di Pelabuhan Tanjung Pelepas di Johor, Malaysia.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: Sebuah kren gantri bertayar getah mengangkangi deretan kontena penghantaran bertindan di Terminal Kontena Antarabangsa Bintulu, Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Kren gantri bertayar getah di atas kontena bertindan di Terminal Kontena Antarabangsa Bintulu, Sarawak, Malaysia
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: Kontena penghantaran berwarna-warni bertindan di atas dek sebuah kapal kontena yang berlabuh di Pelabuhan Klang, Selangor, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Kontena penghantaran dimuatkan di atas kapal di Pelabuhan Klang, Malaysia
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang menggerakkan 15.14 juta kontena perkapalan pada 2025 — cukup untuk memintas Hong Kong dan menembusi sepuluh pelabuhan tersibuk di dunia buat pertama kali. Sebuah lagi pelabuhan Malaysia, Tanjung Pelepas, menggerakkan 14 juta lagi. Kedua-dua angka ini tidak menggambarkan sebuah negara yang menghasilkan kebanyakan barangan tersebut. Ia menggambarkan sebuah negara yang terletak di tempat yang betul dan telah belajar untuk mengenakan sewa ke atas perdagangan dunia.

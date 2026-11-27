@@ -32,7 +32,7 @@ faq:
   - q: "من يعمل في المزارع اليوم؟"
     a: "اليوم معظم عمال المزارع في ماليزيا عمال مهاجرون أجانب. أما بالنسبة إلى مجتمع التاميل، فإن النزوح الكبير من المزرعة إلى المدينة قد اكتمل في معظمه قبل عقود؛ وصار مجتمع اليوم مجتمعًا حضريًا وشبه حضري في معظمه."
 lang: "ar"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'المباني المنخفضة لمدرسة SJK(T) Ladang Sungai Getah، وهي مدرسة ابتدائية تعليمها بالتاميلية كما يبيّن اسمها على لافتتها، تخدم مجتمع مزرعة مطّاط، كما تُرى من جانب الطريق.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: عامل يستخرج اللاتكس من شجرة مطاط في مزرعة بـ Malacca عام 1946، مستحضرًا عمل المزارع الذي شكّل مجتمعات المزارع في ماليزيا.
+    kind: representative
+    origin: third-party
+    subject: استخراج المطاط في مزرعة مطاط في Malacca (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'معروضة متحفية في مركز التراث الهندي بـ Johor Bahru بعنوان ''المهن الأولى: استخراج المطاط''، تضمّ مجسّمًا يرتدي ساري ودلاء لاتكس وصورًا تاريخية للمزارع مع تعليقات بالتاميلية.'
+    kind: actual
+    origin: third-party
+    subject: 'معرض "المهن الأولى: استخراج المطاط" حول تراث مزارع التاميل الماليزيين، مركز التراث الهندي (Indian Heritage Centre)، Johor Bahru'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 على أطراف كثير من مدن ماليزيا القديمة، تحوّلت مزرعة مطاط كانت يومًا ما تمتدّ خضراء إلى منطقة سكنية تغصّ بالبيوت وصفوف المتاجر. وبين تلك المباني الجديدة، يبقى أحيانًا معبد أمّان قديم أو مدرسة تاميلية صغيرة قائمًا — أثرًا لا يبهت لمجتمع نزح عن مكانه.

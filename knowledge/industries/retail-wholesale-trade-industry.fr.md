@@ -31,7 +31,7 @@ faq:
   - q: "Comment le commerce électronique a-t-il transformé le commerce de détail malaisien ?"
     a: "Les achats en ligne ont connu une croissance rapide, portés par des plateformes telles que Shopee et Lazada, et la frontière entre détail en ligne et détail physique s'est estompée à mesure que les détaillants traditionnels ajoutent la livraison, le retrait en magasin (click-and-collect) et des vitrines en ligne. Les chiffres de revenu du commerce électronique de la DOSM atteignent des billions de ringgit, bien que ce total couvre la fabrication et les services, et non le seul détail."
 lang: fr
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Des clients, des boutiques et des kiosques de vente au détail répartis dans l''atrium à plusieurs niveaux du centre commercial NU Sentral à Kuala Lumpur, en Malaisie.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: Une longue allée de supermarché aux étagères blanches remplies de sucre en sachets, d'huile de cuisson et de produits emballés, sous un panneau d'allée vert indiquant GULA AGAR-AGAR 21, avec un sol carrelé propre s'éloignant au loin.
+    kind: actual
+    origin: third-party
+    subject: Une allée d'épicerie bien achalandée dans un hypermarché Giant à Kota Damansara, dans le Selangor, un format phare du commerce de détail de la Malaisie
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: Un long hangar de marché ouvert de plain-pied au toit brun patiné, avec un camion chargé de produits et deux camionnettes plus petites garés devant, sur un terrain bitumé ensoleillé sous un ciel bleu vif.
+    kind: actual
+    origin: third-party
+    subject: Un marché frais traditionnel à côtés ouverts à Johor Jaya où des camions livrent des produits frais, un maillon du commerce de gros et de détail alimentaire de la Malaisie
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 Presque chaque ringgit qu'un Malaisien dépense en biens physiques — des courses, un téléphone, une voiture, une bouteille d'huile de cuisson — transite par le commerce de détail et de gros. C'est la plomberie de la consommation quotidienne : le réseau d'importateurs, de grossistes, de distributeurs, de magasins, de marchés et de boutiques en ligne qui achemine les produits de leur lieu de fabrication jusqu'à leur lieu d'achat. Les autorités appellent ce réseau le **commerce de distribution**, et c'est l'une des composantes les plus vastes et les plus visibles de l'économie malaisienne.

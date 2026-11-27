@@ -26,7 +26,7 @@ faq:
     a: "初犯者，罚款不超过RM30,000或监禁不超过2年，或两者兼施。再犯者罚款最高RM50,000或最长3年监禁。"
 
 lang: "zh"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,9 +57,35 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: '马来西亚一家传统医药与保健店的店面招牌，代表补充与传统医学实践。'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: 四根细针灸针摆放在台面上，旁边放一枚硬币作比例参照，代表作为补充疗法的针灸
+    kind: representative
+    origin: third-party
+    subject: 针灸针与一枚硬币并置以示比例
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: 一个木箱中装着一瓶瓶jamu——一种传统草药补益药，瓶中为琥珀色液体、瓶口以叶片封塞，代表草药补充医学
+    kind: representative
+    origin: third-party
+    subject: 一瓶瓶jamu，一种传统马来—印尼草药补益药
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 自2025年3月1日起，马来西亚的传统按摩师、中医执业者、顺势疗法师与脊椎按摩师，再也无法在没有一纸文件——注册证书——的情况下开门营业。"凭经验行医"的时代已经结束。

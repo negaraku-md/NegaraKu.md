@@ -57,6 +57,32 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'The broad grey granite summit crown of Mount Kinabalu, its ridge studded with jagged pinnacles, towering over green forested hills and a line of trees under a clear blue sky.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: The bare, jagged grey-granite spire of Low's Peak, the highest point of Mount Kinabalu, rising sharply against a clear sky above the barren summit plateau.
+    kind: actual
+    origin: third-party
+    subject: Low's Peak (4,095 m), the summit of Mount Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: Close-up of a rounded, deeply ribbed orange-red pitcher of the carnivorous Nepenthes villosa plant, its mouth fringed with a toothed rim, growing in the misty highland forest of Kinabalu Park.
+    kind: actual
+    origin: third-party
+    subject: Nepenthes villosa, a carnivorous pitcher plant endemic to the highlands of Mount Kinabalu, in Kinabalu Park
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 For decades, every reference book gave the same number: Mount Kinabalu, Malaysia's highest peak, stood 4,101 metres above sea level. Then in 1997, a survey team pointed satellites at the summit instead of theodolites, and the number changed. Not by a rounding error — by six metres. The mountain hadn't shrunk. The old measurement had simply been wrong, and nobody had had the tool to prove it until GPS made the correction possible.

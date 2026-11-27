@@ -72,6 +72,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: 'இந்தோனேசியா-மலேசியா மோதலில் (Konfrontasi) கொல்லப்பட்டவர்களை நினைவுகூரும், அழகுபடுத்தப்பட்ட நகர்ப்புற பசுமை வெளியில் அமைக்கப்பட்ட ஒரு கல் நினைவுச்சின்னம்.'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியா 16 செப்டம்பர் 1963 அன்று, அதை அமைதியுடன் வரவேற்காத ஒரு பிராந்தியத்தில் பிறந்தது. மிகவும் பெரிய ஓர் அண்டை நாடு ஏற்கெனவே தனது எதிர்ப்பை அறிவித்திருந்தது; சில மாதங்களுக்குள் அந்தப் புதிய போர்னியோ எல்லை, போர் என உத்தியோகபூர்வமாக ஒருபோதும் பிரகடனப்படுத்தப்படாத — ஆனால் கிட்டத்தட்ட நான்கு ஆண்டுகள் நீடித்த — ஒரு ஆயுத மோதலின் முன்னணிக் களமாக மாறியது. அந்த மோதல் Konfrontasi என அறியப்படுகிறது.

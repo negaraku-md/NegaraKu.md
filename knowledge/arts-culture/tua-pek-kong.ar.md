@@ -33,7 +33,7 @@ faq:
     a: "'طلب النار' (请火، Chneah Hoay، ومعناها بلهجة الهوكيان 'النظر إلى النار') طقس تتوارثه جمعية بو هوك سيا ببينانغ منذ أكثر من مئة عام، يُقام من اليوم الرابع عشر إلى السادس عشر من الشهر القمري الأول في معبد توا بيك كونغ بهاي تشو سو في تانجونغ توكونغ، ويجري طلب النار الرسمي في منتصف ليلة عيد الفوانيس. وأثناء الطقس تُطفأ كل الأنوار والشموع في المعبد؛ ويأخذ الأعضاء النار من مجمرة في سلال حَمَلة البخور ويروّحونها بالمراوح، فيتكهّنون بحظ العام المقبل من قوة اللهب، ثلاث مرات متتالية تقابل كلٌّ منها فصلًا من فصول السنة الثلاثة؛ وتقليديًا لا يشارك إلا الأعضاء الذكور. وبعد انتهاء الطقس وإعادة إضاءة الأنوار، يحقّ للعموم الدخول للعبادة. ويقتصر هذا المقال على وصف الإجراء، ولا يصدر حكمًا على معناه الديني."
 
 lang: "ar"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'البوابة المزخرفة الحمراء والذهبية لمعبد توا بيك كونغ في سيبو، يحفّها أسدان حارسان مذهّبان، وخلفها باغودا شاهقة من سبعة طوابق ترتفع أمام سماء زرقاء.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: الواجهة الحمراء والسقف المبلّط المزخرف لمعبد Tua Pek Kong في Tanjung Tokong، Penang، مع أسود حارسة وشموع بخور حمراء طويلة عند المدخل.
+    kind: actual
+    origin: third-party
+    subject: معبد Tua Pek Kong في Tanjung Tokong، Penang
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: تمثال مذهّب للإله Tua Pek Kong ذي اللحية جالس على مذبح يحفّ به مرافقون، وأمامه شموع مشتعلة وحُزم من البخور المتصاعد.
+    kind: actual
+    origin: third-party
+    subject: مذبح الإله Tua Pek Kong في Ping Sien Si، Perak
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 على شاطئ تانجونغ توكونغ (丹絨道光) في بينانغ يقوم معبد ليس بالكبير، يظل هادئًا معظم العام. لكن في موسم عيد الفوانيس يتبدّل المشهد تمامًا: سلال حَمَلة البخور، والطبول والصنوج، وصفوف طويلة من الناس تأتي من جورج تاون؛ وفي الليل تُطفأ كل الأنوار والشموع في المعبد، ويحتشد الناس حول مجمرة، حابسين أنفاسهم وهم يروّحون النار — ويُعدّ ارتفاع اللهب 'تنبؤًا' للعام المقبل. هذا المعبد هو، في أذهان كثيرين، منبع عبادة توا بيك كونغ.

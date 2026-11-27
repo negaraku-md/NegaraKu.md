@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 
 status: "published"
 aiAssisted: true
@@ -65,9 +65,35 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'マレーシアのサラワク州で、大きな熱帯の硬材の丸太を満載したトラックが、熱帯雨林脇の濡れた道路を走る様子。'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: ボルネオのサラワク州で、切り開かれた森林地を覆うアブラヤシ農園の空撮
+    kind: actual
+    origin: third-party
+    subject: サラワク州のかつての森林地に広がるアブラヤシ農園
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: サバ州カラバカンの木材貯木・積出場に積み上げられた熱帯産広葉樹の丸太
+    kind: actual
+    origin: third-party
+    subject: サバ州カラバカンの木材貯木場
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 ある長屋（ロングハウス）コミュニティは、ある森林地帯が何世代にもわたって自分たちのものだったと主張する。木材会社や農園会社は、州政府が発行した、同じ土地を対象とするライセンスを保持している。双方とも法律を根拠としている。サラワクとサバでは、この衝突が20年以上にわたって法廷で争われてきた——そして裁判所は、どこに境界線を引くべきかについて、常に一致してきたわけではない。

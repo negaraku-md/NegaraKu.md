@@ -33,7 +33,7 @@ verificationNeeded:
   - "ยืนยันจำนวนประชากรปัจจุบันของปีนังกับข้อมูลประชากรระดับรัฐฉบับล่าสุดของ DOSM ก่อนการเผยแพร่"
 
 lang: "th"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,37 @@ wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: 'อาคาร George Town Dispensary สีครีมปี 1923 อาคารหัวมุมมรดกยุคอาณานิคมพร้อมหน้าต่างโค้งและด้านหน้าบานเกล็ด ในจอร์จทาวน์ ปีนัง'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: แถวตึกแถวเก่าแก่สองชั้นที่ต้องแสงแดด พร้อมหน้าต่างบานเกล็ดไม้และทางเดินเสาห้าฟุต (five-foot way) ริมถนนในจอร์จทาวน์ (George Town) ปีนัง
+    kind: actual
+    origin: third-party
+    subject: แถวบ้านแถวมรดกเก่าแก่สองชั้นริมถนนในจอร์จทาวน์ ปีนัง
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: เรือประมงไม้ผุกร่อนจอดเทียบข้างบ้านริมน้ำยกพื้นที่ท่าเทียบเรือตระกูล Chew (Chew clan jetty) มองข้ามไปยังท่าเรือเฟอร์รี Weld Quay ในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: เรือไม้และบ้านยกพื้นที่ท่าเทียบเรือตระกูล Chew ริมน้ำจอร์จทาวน์ ปีนัง
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 ปีนังมีอิทธิพลเกินขนาดของตนอย่างมาก รัฐนี้เป็นหนึ่งในรัฐที่มีพื้นที่เล็กที่สุดในมาเลเซีย แต่ก็เป็นหนึ่งในเศรษฐกิจการผลิตที่สำคัญที่สุดของประเทศและเป็นหนึ่งในจุดหมายปลายทางท่องเที่ยวที่มีผู้มาเยือนมากที่สุด

@@ -27,7 +27,7 @@ faq:
   - q: "내 건물에 BOMBA의 소방증명서가 필요합니까?"
     a: "지정된 고위험 건물은 소방안전 검사를 거친 뒤, 소방서비스법 1988에 따라 BOMBA가 발급하는 소방증명서(Perakuan Bomba)를 취득·유지해야 합니다. 특정 건물이 '지정 건물'인지와 현행 양식·수수료는 BOMBA 또는 인근 소방서에 확인해야 합니다."
 lang: "ko"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,11 +69,38 @@ entity: "Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Ma
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["fire-safety-and-prevention-malaysia", "mers-999-emergency-numbers", "civil-defence-force-apm"]
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
 framework: profile
+hero: '/media/government/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: '말레이시아 소방서 정면, 다섯 개 롤러셔터 문에 걸쳐 거대한 붉은 글자 ''BOMBA''가 적히고 그 위에 ''Balai Bomba dan Penyelamat Jalan Kubu''라는 노란 간판이 있으며 붉은 등롱이 걸린 모습'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: 지붕에 접이식 고가 사다리를 얹고 BOMBA 표식을 단 선명한 빨간색 Scania 소방차가 말레이시아 국경일 퍼레이드 중 야자수가 늘어선 대로에 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 2023년 파항주 쿠안탄 국경일 퍼레이드에 등장한 말레이시아 Bomba의 빨간색 Scania 고가 사다리 소방차
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: 감청색 티셔츠와 주황색 위장 무늬 바지를 입은 말레이시아 소방관들이 소방서 차고 안에서 BOMBA 표식을 단 빨간색 소방차 두 대 앞에 서거나 쭈그려 앉아 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 산다칸 Balai Bomba의 소방관들이 빨간색 BOMBA 소방차 앞에서 포즈를 취하고 있다
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 말레이시아에서 건물에 불이 났거나 누군가 갇혔을 때 누구에게 전화해야 하는지 아무에게나 물어보면, 대답은 한결같이 한 단어입니다: **봄바(Bomba)**. **말레이시아 소방구조청** — *Jabatan Bomba dan Penyelamat Malaysia*(**JBPM**), 거의 모두에게 그저 **BOMBA**로 알려진 — 는 전국의 소방, 구조, 유해물질 대응, 소방안전 집행을 담당하는 연방 기관입니다. [**주택지방정부부**](/ko/government/ministry-of-housing-local-government-kpkt)(*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT) 산하 기관이며, 긴급 시 **999**를 눌러 연결됩니다.

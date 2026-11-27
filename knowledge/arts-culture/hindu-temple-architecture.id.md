@@ -32,7 +32,7 @@ faq:
   - q: "Apakah semua kuil Hindu di Malaysia merupakan kuil Murugan atau Mariamman?"
     a: "Meskipun mayoritas kuil didedikasikan untuk Siwa, Murugan (aliran Saiwa), atau Amman/Mariamman (pemujaan Shakti), itu bukan satu-satunya jenis. Ada pula kuil Waisnawa yang didedikasikan untuk Wisnu, kuil tradisi Malayali dan India Utara, serta gurdwara Sikh di Malaysia. Detail arsitektur pun berbeda sedikit sesuai tradisi pemujaannya."
 lang: "id"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: 'Gopuram kuil India Selatan berbentuk piramida menjulang ke puncak, setiap tingkat dipadati patung dewa Hindu, kuda, dan sosok warna-warni berwarna merah, hijau, biru, dan emas, difoto dengan sudut mendongak tajam ke langit biru berawan'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: Bagian depan kuil Hindu India Selatan yang berwarna-warni dengan menara berpahat di atas pintu masuk, diapit patung-patung besar Ganesha dan seorang dewa yang dicat di bawah kanopi bersepuh emas, dihiasi untaian bendera segitiga meriah dengan latar langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: fasad depan Kuil Sri Mahamariamman di George Town, Penang, dengan gopuram berukirnya dan pintu masuk yang diapit patung-patung besar Ganesha dan Murugan
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: Menara kuil Hindu yang berwarna-warni dan berhias, dimahkotai patung-patung dewa berpahat, berdiri di dalam gua batu kapur yang luas, dinding batunya yang terjal digantungi tanaman hijau menjuntai dan disinari cahaya siang dari atas
+    kind: actual
+    origin: third-party
+    subject: menara kuil Hindu yang berhias dan berwarna-warni di dalam kuil batu kapur Batu Caves dekat Kuala Lumpur, dengan latar dinding gua menjulang yang ditutupi tanaman hijau
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 Saat Anda mendekati kawasan mana pun di sebuah kota Malaysia tempat komunitas Tamil telah berakar, sebuah menara penuh pahatan yang menjulang ke langit menarik perhatian dari kejauhan. Menara gerbang itu, dengan jenjang demi jenjang patung dewa-dewi beraneka warna, bukanlah kebetulan — ia adalah kelanjutan dari sebuah tradisi arsitektur berusia seribu tahun; tanda warisan budaya yang dibawa serta oleh mereka yang berketurunan Tamil India Selatan ke Malaysia.

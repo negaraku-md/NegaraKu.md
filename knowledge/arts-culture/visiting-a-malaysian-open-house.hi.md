@@ -33,7 +33,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["मलेशियाई ओपन हाउस शिष्टाचार", "रुमाह तरबुका शिष्टाचार", "ओपन हाउस मलेशिया मेहमान", "हरि राया ओपन हाउस शिष्टाचार", "मलेशिया ओपन हाउस में क्या पहनें", "दुइत राया आंग पाउ मेहमान", "मलेशिया हलाल घर शिष्टाचार", "मलेशियाई घर जाने के रिवाज़"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'मेज पर सजे एक हरि राया भोज का ऊपर से दृश्य, जिसमें बीफ रेंडांग और सब्जी करी के बर्तन, सांबल की एक तश्तरी, और बुने हुए केतुपत आवरण और कटे हुए संपीड़ित चावल की प्लेटें हैं।'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: batik और baju kurung पहने अतिथि एक Hari Raya Aidilfitri ओपन हाउस के दरवाज़े पर मुस्कुराते हुए अभिवादन में हाथ मिलाते हुए।
+    kind: representative
+    origin: third-party
+    subject: एक Hari Raya Aidilfitri ओपन हाउस में मेज़बानों का अभिवादन करते अतिथि
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: एक साथ बँधे बुने हुए ताड़-पत्ते के ketupat चावल-आवरणों का एक गुच्छा, मलेशियाई Hari Raya ओपन-हाउस आतिथ्य का एक अनिवार्य अंग।
+    kind: actual
+    origin: third-party
+    subject: Hari Raya के लिए बुने हुए ketupat चावल-पकवान
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 आपको एक *रुमाह तरबुका* (rumah terbuka) — एक खुले घर — में आमंत्रित किया गया है।

@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,6 +82,34 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: '暗い舞台上の、金と栗色の伝統的なマレー衣装をまとった4人のマ・ヨンの演者。1人は背の高い金の冠をかぶり、1人は白い道化の仮面をつける'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: クランタン州立博物館のガラスの奥、マネキンに着せられた2着のマッヨンの衣装。宝石をあしらった冠を備えた金色のチュニックと、暗い色の頭飾りを備えた栗色のチュニック
+    kind: actual
+    origin: third-party
+    subject: マレーシアのクランタン州立博物館に展示された、華やかな冠を備えたマッヨンの衣装
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: 冠をかぶったマッヨンの踊り手が、ゲンダンの太鼓とルバブの擦弦楽器を手にして座る男性の楽師たちの間に立つセピア色の歴史写真
+    kind: representative
+    origin: third-party
+    subject: 太鼓とルバブを持つ座った楽師たちに囲まれた、冠をかぶったマッヨンの主役の歴史写真
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 最初の音は演者から発せられるものではない。それは、洋梨形をした木片に三本の弦を張った楽器——ルバブ（rebab）——から生まれる。開かれた木造の舞台の縁で、ゆっくりと弓で弾かれるのだ。観客は三方に座る。屋根はヤシの葉で葺かれている。そして、ひと言のせりふが発せられるより前に、一人の王女がすでにその楽器に向かって身をかがめ、名前そのものがすべてを物語る舞を舞っている——**ムンガダップ・ルバブ（Mengadap Rebab）**。

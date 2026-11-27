@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚的电信市场还在增长吗？
     a: 由于市场近乎饱和，用户增长已大体见顶。未来增长预期将来自更高价值的服务——5G、光纤升级、企业连接与数字服务——而非签下大量新用户。
 lang: zh
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: '一座蜂窝电信塔承载着多个板状天线，映衬在晴朗的天空下。'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: 一个深色的大型展览展台，顶部亮着CelcomDigi的标志与品牌名，一块发光的蓝色展板写着CelcomDigi fibre, Ultra Smooth Low Latency，下方聚集着戴着口罩的参观者
+    kind: actual
+    origin: third-party
+    subject: 一个推广光纤宽带的CelcomDigi展览展台，展现一家马来西亚移动与宽带运营商的消费者形象
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: 一长排机架式计算机服务器以一定角度向远处延伸，每一层都密布着闪烁的蓝色状态指示灯，映衬着深色的金属机柜
+    kind: representative
+    origin: third-party
+    subject: 数据中心里一排排亮着蓝色指示灯的网络与服务器设备，这是支撑电信网络的基础设施
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 几乎每一个马来西亚人都带着一个移动连接，大多数家庭也有某种形式的宽带。这使电信成为该国最重要、也最成熟的产业之一——数字经济、网上银行、电子政务与日常生活之下那看不见的管道。然而，在熟悉的品牌名称背后，坐落着一个近年来剧变的市场：运营商更少、合并更大，以及一场关于如何建设 5G 的全国实验。

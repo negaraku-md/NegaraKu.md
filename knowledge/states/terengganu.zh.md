@@ -54,7 +54,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 
 sources:
   - title: "各州GDP按经济领域分类表(2015年不变价)(Jadual KDNK Negeri Mengikut Sektor Ekonomi (harga malar 2015))"
@@ -103,6 +103,32 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: '瓜拉登嘉楼蓝天下，银金两色圆顶的水晶清真寺有众多细长的尖塔和一座白色迎宾拱门。'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: 登嘉楼瓜拉登嘉楼附近，东姑登雅查哈拉清真寺仿佛漂浮在依拜潟湖之上。
+    kind: actual
+    origin: third-party
+    subject: 登嘉楼瓜拉登嘉楼东姑登雅查哈拉水上清真寺
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: 登嘉楼海岸外的热浪岛，清澈的碧绿海水轻拍着一道由森林环绕的白沙海滩。
+    kind: actual
+    origin: third-party
+    subject: 登嘉楼热浪岛海滩
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 登嘉楼最著名的两样东西，相距大约 60 公里，而且两者都不容易看见。

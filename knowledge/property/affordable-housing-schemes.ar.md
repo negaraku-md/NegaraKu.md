@@ -32,7 +32,7 @@ faq:
     a: "الحظر هو مدة يُمنَع خلالها بيع المنزل من جديد دون موافقة. يفرض Residensi Wilayah حظراً مدته 10 سنوات ويفرض Rumah Selangorku حظراً مدته 5 سنوات، منعاً للمضاربة وضماناً لبقاء المنازل متاحة للفئة المستهدفة."
 
 lang: "ar"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,9 +84,36 @@ entity: "Skim Rumah Mampu Milik Kerajaan"
 relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "home-loan-financing" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "ministry-of-housing-local-government-kpkt", "property-agents-and-fees"]
 keywords: ["الإسكان الميسّر", "rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "الإسكان الميسّر في ماليزيا"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: 'كتلتان طويلتان من شقق الإسكان العام الماليزي في بوكيت جليل، إحداهما كريمية والأخرى وردية بأسطح حمراء، شرفاتهما معلّق بها غسيل ومزوّدة بأطباق أقمار صناعية، ترتفعان فوق صفّ من الأشجار الخضراء تحت سماء زرقاء ساطعة'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: صفّ طويل من أبراج سكن عام كريمية بأسقف حمراء في بوكيت جليل، كل وحدة مرقّمة بحرف، مع سيارات متوقّفة على طول طريق المجمّع وخضرة وأفق مدينة في البعيد
+    kind: actual
+    origin: third-party
+    subject: صفّ من شقق برنامج إسكان الشعب (PPR) المرتفعة مع موقف سيارات للسكّان في بوكيت جليل، كوالالمبور
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: كتلة شقق سكن عام واحدة بلون خردلي وأبيض في كوتا دامانسارا مشاهَدة من الأسفل أمام سماء غائمة، وحداتها المتطابقة الكثيرة مزوّدة بحواجز نوافذ ومكيّفات، يؤطّرها غصن شجرة
+    kind: actual
+    origin: third-party
+    subject: كتلة سكن عام PPR (Gugusan Kemuning) في كوتا دامانسارا، سلانغور
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 راتبك RM4,000 شهرياً، وسعر منزل مصفوف (terrace) في المدينة بلغ أصلاً نصف مليون رينغيت — فمن أين ينبغي أن تبدأ البحث أصلاً؟ الجواب ليس برنامجاً واحداً، بل قائمة من البرامج الحكومية يستهدف كلٌّ منها شريحة دخل مختلفة. واختيار البرنامج الخطأ يعني إهدار أشهر في انتظار قرعة على منزل لم تكن مؤهَّلاً له من الأساس.

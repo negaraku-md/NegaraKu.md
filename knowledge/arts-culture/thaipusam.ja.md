@@ -35,7 +35,7 @@ faq:
     a: "官報告示を行った州および連邦直轄区に限られる。クアラルンプール、プトラジャヤ、セランゴール、ペナン、ペラ、ネグリ・スンビラン、ジョホール、ケダなどの地域で公共の祝日として祝われており、全国的な連邦祝日としては官報告示されていない。管轄区域ごとに定められているため、正確な一覧は年によって異なる場合がある——該当する州の公式な祝日告示を必ず確認すること。"
 
 lang: "ja"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ festivalFacts:
   when: "タミル暦のタイ(Thai)月——毎年1月下旬から2月ごろ。正確な日付はタミル暦に従う。"
   holiday: "これを官報で公示する州および連邦直轄領(クアラルンプール(Kuala Lumpur)、プトラジャヤ(Putrajaya)、セランゴール(Selangor)、ペナン(Penang)、ペラ(Perak)、ヌグリ・スンビラン(Negeri Sembilan)、ジョホール(Johor)、ケダ(Kedah)を含む)でのみ公休日となり、全国的な連邦の祝日ではない。"
   etiquette: "ヒンドゥー教徒でない人も行列や登拝を見学することができる。寺院の近くでは控えめな服装をし、必要な場所では靴を脱ぎ、カバディ(kavadi)を担ぐ参拝者を撮影する前には許可を求めること。"
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'タイプーサムの時、そびえ立つ石灰岩の崖の下、精巧な洞窟寺院の祠に向かってバトゥ洞窟の虹色に塗られた階段を登る信者たち'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: タイプーサムの期間中、バトゥ洞窟でそびえ立つ金色のムルガン神の像と森に覆われた石灰岩の丘の下、通路を埋め尽くす巡礼者の密集した群衆
+    kind: actual
+    origin: third-party
+    subject: バトゥ洞窟の金色のムルガン神の像の下に集まるタイプーサムの巡礼者の群衆
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: ペラ州イポーの色鮮やかなヒンドゥー寺院のゴープラムの前で、鈴を吊るしたカヴァディの棒を肩に担ぎ、銀のミルク壺を運ぶタイプーサムの信者を背後から見た様子
+    kind: actual
+    origin: third-party
+    subject: イポーのタイプーサムの行列でミルク壺を運ぶカヴァディの担ぎ手
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 夜明け前、クアラルンプール北端の石灰岩の丘は音であふれる——太鼓の音、詠唱、そして数十万もの裸足が石の上を擦る音。272段の階段の麓には、14階建てのビルよりも高い黄金の像が立っている。登拝はすでに始まっており、丸1日近く止まることはない。

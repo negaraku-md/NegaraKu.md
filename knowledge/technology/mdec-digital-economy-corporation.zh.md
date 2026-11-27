@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -65,9 +65,37 @@ sources:
 entity: "Malaysia Digital Economy Corporation (MDEC)"
 wikidata: "Q279453"
 relations: []
-related: []
+related: ["digital-economy-overview", "ministry-of-digital-malaysia", "mdec-digital-status"]
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
+hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
+heroAlt: '鸟瞰马来西亚科技走廊赛城（Cyberjaya）的全景，可见办公楼、高速公路和绿色园林'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Cyberjaya 一处景观水池和喷泉旁立着一块写有 'MSC Headquarters, Multimedia Development Corporation' 的指示牌
+    kind: actual
+    origin: third-party
+    subject: Cyberjaya 的 MSC Headquarters / Multimedia Development Corporation（MDEC 前身）指示牌
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: Cyberjaya 一处路边公园里一个带电路板图案、写着 'Cyberjaya Malaysia' 的大型红色雕塑字母 C
+    kind: representative
+    origin: third-party
+    subject: Cyberjaya 一处路边公园的 'Cyberjaya Malaysia' 雕塑式地标标识
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 搜索「Malaysia Digital Status」，几乎每一条结果都是在兜售申请服务的咨询公司——而且大多把三件不同的事混为一谈。它们分别是：**机构**（MDEC）、机构颁授的**地位**（MD Status），以及一项**税务激励**——后者是一项要求高得多、完全独立的申请。把它们区分清楚，就是 RM1,000 门槛与 RM50,000 门槛之间的差别。以下依据一手资料，逐层拆解。

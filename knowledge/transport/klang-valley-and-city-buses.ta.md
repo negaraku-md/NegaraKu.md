@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus, குறைந்த பயணிகள் கொண்ட 19 வழித்தடங்களை — 16 MRT ஃபீடர் வழித்தடங்கள் மற்றும் 3 நிலையான வழித்தடங்கள், வலையமைப்பின் சுமார் 7% — முன்பதிவு செய்யக்கூடிய Rapid KL On-Demand வேன் சேவையாக மாற்றத் தொடங்கியது."
 
 lang: "ta"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,9 +72,33 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: 'அதன் நிறுத்தத்தில் (751 வழித்தடம், Hab Pasar Seni பரிமாற்ற நிலையம்) நிற்கும் சிவப்பு/கிரீம்/நீல நிற Rapid KL இரட்டை அடுக்கு பேருந்து, நிறுத்த அறிவிப்புப் பலகையுடன்'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: சாலையோர நிறுத்தம்/தங்குமிடத்தில் ('100% Clean Energy / Perkhidmatan Bas Percuma') நிற்கும் நீல-பச்சை GO KL இலவச மின்சார நகரப் பேருந்து — தங்குமிடத்தில் அடையாளம் காண முடியாத இரு மிகச்சிறிய பயணிகள்
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: KL Sentral இல் ஒற்றைத்தளம் கொண்ட Rapid KL பேருந்தின் (சிவப்பு/கிரீம்/நீல நிறம்) தெளிவான பக்கவாட்டுத் தோற்றம் — முகங்கள் இல்லை
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 ரயில் உங்களை ஒரு நிலையத்திற்குக் கொண்டு செல்கிறது. ஆனால் அது எப்போதாவதுதான் உங்களை வீடு வரை கொண்டு செல்கிறது. அந்த இடைவெளி — MRT அல்லது LRT நடைமேடையிலிருந்து உங்கள் வீட்டு வாசல், உங்கள் அலுவலகப் பூங்கா, அல்லது இரண்டு அக்கம்பக்கங்களுக்கு அப்பால் உள்ள ஈரச் சந்தை வரை — பெரும்பாலான பயணிகள் அரிதாகவே நினைக்கும் ஒரு பேருந்து அணியால் நிரப்பப்படுகிறது: அவை Rapid KL பேருந்துகள்.

@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "teh-tarik",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Wiki Asmah / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg",
+    "alt": "A clear glass mug of frothy brown pulled milk tea (teh tarik) on a marble table",
+    "kb": 77
+  },
+  {
+    "slug": "teh-halia",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Schahryar / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg",
+    "alt": "Glass mugs of brown ginger milk tea (teh halia) on a wooden table",
+    "kb": 36
+  },
+  {
+    "slug": "teh-o-ais-limau",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Lombroso / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iced_lemon_tea_(2015-08-20).JPG",
+    "alt": "A tall glass of iced black tea with lemon slices and no milk",
+    "kb": 103
+  },
+  {
+    "slug": "kopi-cham",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Avlxyz / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg",
+    "alt": "A frothy coffee-and-tea mix (kopi cham) in a floral kopitiam cup and saucer",
+    "kb": 56
+  },
+  {
+    "slug": "sirap-bandung",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Kyle Lam / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg",
+    "alt": "Two tall glasses of pink iced rose-syrup milk (sirap bandung) with straws",
+    "kb": 120
+  },
+  {
+    "slug": "milo-dinosaur",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Pauloleong2002 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg",
+    "alt": "A glass of iced Milo topped with a thick mound of undissolved Milo powder",
+    "kb": 121
+  },
+  {
+    "slug": "air-kelapa",
+    "kind": "representative",
+    "origin": "third-party",
+    "credit": "Danumurthi Mahendra / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg",
+    "alt": "A street vendor opening a fresh green young coconut with a cleaver, beside a pile of coconuts",
+    "kb": 154
+  },
+  {
+    "slug": "air-kekwa",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Taman Renyah / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG",
+    "alt": "A floral teacup of pale chrysanthemum tea (air kekwa) with steeping flowers",
+    "kb": 113
+  },
+  {
+    "slug": "air-limau-ais",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg",
+    "alt": "A tumbler of iced lime juice (air limau ais) with a fresh lime wedge, seen from above",
+    "kb": 95
+  },
+  {
+    "slug": "air-tebu",
+    "kind": "representative",
+    "origin": "third-party",
+    "credit": "Gunawan Kartapranata / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Es_Air_Tebu_(Sugarcane_juice)_seller.JPG",
+    "alt": "A street vendor pressing sugarcane through a mill beside jugs of fresh green sugarcane juice (air tebu)",
+    "kb": 171
+  },
+  {
+    "slug": "lassi",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Rajeeb / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg",
+    "alt": "Creamy white iced yogurt lassi in a patterned cup with a straw",
+    "kb": 41
+  },
+  {
+    "slug": "bubble-tea",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Battlesnake1 / Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg",
+    "alt": "A tall glass of milk tea with a thick layer of black tapioca pearls at the base",
+    "kb": 176
+  },
+  {
+    "slug": "soya-bean",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "LinasD / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg",
+    "alt": "A tall glass of pale soybean milk with soybeans beside it",
+    "kb": 175
+  },
+  {
+    "slug": "cincau",
+    "kind": "actual",
+    "origin": "third-party",
+    "credit": "Supardisahabu / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cincau.jpg",
+    "alt": "A chilled grass-jelly (cincau) drink with dark jelly settled at the base",
+    "kb": 70
+  },
+  {
+    "slug": "air-mata-kucing",
+    "kind": "representative",
+    "origin": "third-party",
+    "credit": "Dr.Francostein1975 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg",
+    "alt": "A Malaysian hawker stall vat of dark air mata kucing longan drink with a bilingual sign",
+    "kb": 165
+  }
+]

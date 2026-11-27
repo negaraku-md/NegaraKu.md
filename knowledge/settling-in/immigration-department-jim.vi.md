@@ -27,7 +27,7 @@ faq:
   - q: "Hộ chiếu 10 năm mới giá bao nhiêu?"
     a: "Hộ chiếu 10 năm có giá RM350 cho người nộp đơn từ 18–59 tuổi, RM175 cho người cao tuổi từ 60 trở lên, và miễn phí cho người giữ thẻ OKU (khuyết tật) từ 18 tuổi trở lên, theo Fees (Passports and Visas) (Amendment) Order 2026."
 lang: "vi"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,35 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'Mặt tiền cao và trang trí công phu của trụ sở Cục Di trú Malaysia ở Putrajaya, mang tên Jabatan Imigresen Malaysia và huy hiệu của cục, với những lá cờ tung bay phía trên lối vào.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: Văn phòng chi nhánh Cục Di trú ở Semporna, Sabah
+    kind: actual
+    origin: third-party
+    subject: Văn phòng chi nhánh Cục Di trú (Jabatan Imigresen) ở Semporna, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: Một con dấu hộ chiếu của cơ quan di trú Malaysia, được đóng tại một trạm kiểm soát của Cục Di trú
+    kind: actual
+    origin: third-party
+    subject: Dấu nhập/xuất cảnh trên hộ chiếu của cơ quan di trú Malaysia
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 Một cơ quan đứng sau gần như mọi giấy tờ cho phép một người vượt biên giới Malaysia, sống ở đây, hoặc làm việc ở đây. **Cục Di trú Malaysia** — *Jabatan Imigresen Malaysia* (**JIM**) — là cơ quan thuộc **Bộ Nội vụ** cấp hộ chiếu cho công dân, cấp visa và giấy phép cho người nước ngoài, bố trí nhân sự tại mọi quầy sân bay và biên giới trên bộ, và thực thi luật di trú. Nó phục vụ công dân Malaysia, thường trú nhân và du khách nước ngoài, và đã hoạt động từ ngày **21 tháng 7 năm 1922**. Điều rắc rối đối với người mới đến là các dịch vụ của nó rải rác trên nhiều trang web chính thức — trang này lập bản đồ chúng.

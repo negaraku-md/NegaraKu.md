@@ -29,7 +29,7 @@ faq:
     a: "No. Education at government primary and secondary schools carries no tuition fees. Special fees, meanwhile, have been abolished since 2008 through SPI No. 13/2007."
 
 lang: "en"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'Low red-roofed buildings and green field of a primary school in Brickfields, Kuala Lumpur, set against the high-rise skyline of KL Sentral.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: Multi-storey Malaysian secondary school building with a paved assembly courtyard
+    kind: representative
+    origin: third-party
+    subject: A Malaysian national secondary school building (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: Parents and teachers gathered in a school hall for a Parent-Teacher Association (PIBG) meeting
+    kind: representative
+    origin: third-party
+    subject: A Parent-Teacher Association (PIBG) general meeting at a Malaysian school
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 Your child is enrolled at a "free" government school — yet the PIBG form and a list of payments still arrive at your door. So what exactly must be paid, and what must not?

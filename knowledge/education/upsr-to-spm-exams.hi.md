@@ -22,7 +22,7 @@ verificationNeeded:
   - "इस मसौदे की तैयारी के समय फॉर्म 3 लर्निंग मैट्रिक्स (2027 से शुरू) का पूरा प्रारूप और विषय विवरण मलेशिया परीक्षा बोर्ड की आधिकारिक वेबसाइट पर विस्तार से पुष्ट नहीं था; केवल वर्ष 4 की 2026 की अनुसूची (4 मुख्य विषय) पुष्ट थी। फॉर्म 3 का मसौदा प्रकाशित होने पर lp.moe.gov.my पर पुनः जाँच करें।"
   - "क्या राष्ट्रीय शिक्षा सलाहकार परिषद (MPPK) ने मंत्रिमंडल को UPSR/PT3 की पूरी समीक्षा रिपोर्ट प्रकाशित की है, इसकी पुष्टि इस मसौदे की तैयारी के समय आधिकारिक स्रोतों के विरुद्ध नहीं हो सकी; मंत्री के जनवरी 2026 के कथन को नवीनतम उपलब्ध स्थिति के रूप में लिया गया है।"
 lang: "hi"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR समाप्त", "PT3 समाप्त", "कक्षा-आधारित मूल्यांकन", "Pentaksiran Bilik Darjah", "PBD मलेशिया", "SPM मलेशिया", "मलेशिया लर्निंग मैट्रिक्स", "Matriks Pembelajaran Malaysia", "मलेशिया परीक्षा बोर्ड", "Lembaga Peperiksaan", "मलेशिया की स्कूल परीक्षाएँ", "PBS मलेशिया"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'मलेशिया में SMK गाजाह बेरांग के विद्यालय सभागार (देवान) का दृश्य, जहाँ विद्यार्थी मंच की ओर मुख किए कुर्सियों की पंक्तियों में बैठे हैं, यह उस प्रकार का सभागार है जो सभाओं और सार्वजनिक परीक्षाओं के लिए उपयोग होता है।'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: सबाह में SMK Bugaya II का रंगीन नीले-और-पीले रंग का विद्यालय हॉल (dewan), वही प्रकार का हॉल जिसमें SPM जैसी सार्वजनिक परीक्षाएँ दी जाती हैं।
+    kind: representative
+    origin: third-party
+    subject: सार्वजनिक परीक्षाओं के लिए उपयोग किए जाने वाले प्रकार का एक मलेशियाई माध्यमिक-विद्यालय हॉल
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: SMK Sapulut का एक बहुमंजिला कक्षा-खंड, सबाह में एक सरकारी माध्यमिक विद्यालय।
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई माध्यमिक विद्यालय (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 यदि आपका बच्चा अब वर्ष 6 में है, तो वह UPSR नहीं देगा। यदि वह बच्चा फॉर्म 3 में है, तो उसका कोई PT3 इंतज़ार नहीं कर रहा। वे बड़ी परीक्षाएँ जो कभी किसी विद्यार्थी की पूरी स्कूली यात्रा तय करती थीं — वही जिनसे शायद आपके अपने माता-पिता भारी दबाव में गुज़रे होंगे — अब कई वर्षों से समाप्त हो चुकी हैं। लेकिन कई अभिभावक अब भी असमंजस में हैं: इनके स्थान पर क्या आया, क्या इन्हें वापस लाया जाएगा, और अब उनके बच्चे के स्कूल में हर दिन वास्तव में क्या होता है।

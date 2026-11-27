@@ -31,7 +31,7 @@ faq:
     a: "Sebagian besar ke tempat pembuangan akhir. Malaysia mengoperasikan 135 tempat pembuangan akhir — 114 tempat pembuangan terbuka dan 22 tempat pembuangan akhir sanitasi — dan tempat pembuangan akhir tetap menjadi metode pembuangan dominan negara."
 
 lang: "id"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,9 +103,35 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'Pusat pengumpulan daur ulang supermarket di Johor, Malaysia, dengan tempat sampah berlabel dalam bahasa Melayu untuk pakaian, kertas, plastik, kaca dan aluminium.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: Lokasi tempat pembuangan akhir sampah sanitasi Bukit Tagar dekat Kampung Sepakat, Hulu Selangor, Selangor
+    kind: actual
+    origin: third-party
+    subject: Tempat pembuangan akhir sampah sanitasi Bukit Tagar, Hulu Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: Sebuah truk pengangkut sampah kota yang dioperasikan oleh pemerintah daerah di Kudat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Truk pengangkut sampah kota, Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 Buang sampah di Johor dan ia menjadi urusan pemerintah federal; buang sampah yang sama di Pulau Pinang dan ia masih urusan pemerintah daerah. Itulah keanehan inti cara Malaysia mengelola sampah padatnya — sebuah undang-undang federal yang megah, tetapi hanya berlaku di tempat yang setuju mengadopsinya.

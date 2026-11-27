@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne vivant en Malaisie qui a besoin de comprendre qui ramasse les ordures dans sa région, si elle est tenue de trier les déchets à la source et quel est le risque si elle ne le fait pas."
 
 lang: "fr"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,6 +68,32 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["ordures Malaisie", "recyclage Malaisie", "tri des déchets à la source", "ordures conseil local", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'Un camion poubelle de KDEB Waste Management ramassant les ordures devant un immeuble d''appartements à Kota Damansara, Selangor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: Une poubelle publique bleue marquée du blason du conseil local MBPJ sur un bas-côté herbeux à Kota Damansara, Selangor
+    kind: representative
+    origin: third-party
+    subject: Une poubelle municipale portant le blason du MBPJ (conseil municipal de Petaling Jaya) à Kota Damansara
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: Une rangée de quatre bacs de recyclage étiquetés pour le papier, les canettes et le plastique, le verre et les déchets non recyclables dans un lieu public de Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Bacs de recyclage séparés pour le papier, les canettes et le plastique, le verre et les déchets non recyclables à Kuala Lumpur
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 Votre poubelle est ramassée deux fois par semaine, mais vous êtes-vous déjà demandé qui la ramasse réellement — le conseil local, ou une autre entreprise que le conseil a désignée ? Et pourquoi votre voisin de l'État d'à côté peut être verbalisé pour ne pas avoir séparé les bouteilles en plastique des restes alimentaires, alors que vous ne l'êtes pas ?

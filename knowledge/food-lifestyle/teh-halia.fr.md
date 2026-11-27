@@ -83,7 +83,15 @@ drinkFacts:
   origin: "Une variante malaisienne au gingembre du teh tarik — « halia » signifie gingembre en malais — tirée de la même façon lorsqu'elle est préparée en teh tarik halia. Membre de la famille du teh tarik du comptoir kopitiam et mamak, et non une tradition distincte."
   halal: "Du thé, du gingembre et du lait, sans alcool, de sorte que la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque kopitiam ou stand mamak."
   served: "Servi chaud pour son réconfort réchauffant, et aussi glacé. Sucré au lait concentré ; demandez moins sucré si vous préférez. Souvent tiré (tarik) comme le teh tarik ; une tasse apaisante populaire et une boisson de suhoor courante pendant le Ramadan."
-  where: "On le trouve dans les kopitiam et les enseignes mamak à travers le pays, versé au même comptoir que le teh tarik et le kopi ; vendu aussi en sachets instantanés de thé au lait de gingembre."
+  where: "On le trouve dans les kopitiam et les enseignes mamak à travers le pays, versé au même comptoir que le teh tarik et le kopi ; vendu aussi en sachets instantanés de thé au lait de gingembre."
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Des chopes en verre de thé au lait au gingembre (teh halia) sur une table en bois"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Prenez la boisson la plus célèbre du pays, ajoutez-y un coup de chaleur de gingembre, et

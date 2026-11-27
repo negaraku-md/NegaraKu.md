@@ -39,7 +39,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 
 status: "published"
 aiAssisted: true
@@ -133,6 +133,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'A Petronas petrol station forecourt with fuel pumps beneath a canopy in Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: A Shell-branded petrol station with a red-trimmed canopy over several fuel-pump islands, the yellow Shell pecten logo on the roadside pylon sign, and shoplots and cars nearby under a bright sky
+    kind: actual
+    origin: third-party
+    subject: a Shell petrol station forecourt in Taman Pelangi, Johor Bahru, with fuel-pump islands under a canopy
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: A petrol station forecourt beneath a wide flat canopy sheltering fuel pumps, a tall illuminated price-board pylon standing at the roadside and a convenience-store building alongside on an overcast day
+    kind: actual
+    origin: third-party
+    subject: a FIVE-branded petrol station in Ijok, Selangor, one of Malaysia's independent fuel-retail chains, with its forecourt and price pylon
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 For decades, everyone in Malaysia — millionaire or rubber tapper — paid the same price for petrol at the pump. On 30 September 2025, that arrangement ended. A litre of RON95 can now cost RM1.99 for you but nearly double that for your neighbour, and what decides it is not the world oil price but the identity card you slot into the terminal.

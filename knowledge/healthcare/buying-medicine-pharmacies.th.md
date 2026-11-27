@@ -18,7 +18,7 @@ keyTakeaways:
   - "วัตถุออกฤทธิ์ต่อจิตประสาทภายใต้บัญชีที่สามของพระราชบัญญัติยาพิษ 1952 อยู่ภายใต้กฎระเบียบแยกต่างหาก โดยมีโทษสูงสุด RM100,000 หรือจำคุกห้าปีสำหรับความผิดที่ไม่ได้รับอนุญาต (มาตรา 30)"
 appliesTo: "ผู้ที่ซื้อยาในร้านยาของรัฐหรือเอกชนในมาเลเซีย และต้องการเข้าใจว่าเหตุใดยาบางชนิดจึงต้องมีใบสั่งยาในขณะที่ยาอื่นไม่ต้อง ตลอดจนบทบาทของเภสัชกรที่ขึ้นทะเบียนในกระบวนการนั้น"
 lang: "th"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -54,6 +54,33 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'อาคารตึกแถวหัวมุมสีแดงสดปี 1955 ที่เป็นที่ตั้งร้านขายยา BIG Pharmacy (Farmasi) ในกลวง มาเลเซีย พร้อมป้าย Farmasi สองภาษา'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: ร้านขายยาชุมชนอิสระชั้นเดียวมีป้าย Farmasi Sinar สีน้ำเงิน รถจอดอยู่ด้านนอกใต้ท้องฟ้าใสในมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar ร้านขายยาชุมชนย่านที่อยู่อาศัยแบบอิสระในกลวง รัฐยะโฮร์
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: ทางเข้าร้านขายยาผู้ป่วยนอกภายในโรงพยาบาลรัฐบาลมาเลเซีย มีป้าย Farmasi สีเหลืองและน้ำเงินและป้ายวันเภสัชกรโลก ไม่มีผู้คน
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าร้านขายยาผู้ป่วยนอก (Farmasi) ที่ Hospital Sultanah Nora Ismail โรงพยาบาลรัฐบาลในบาตูปาฮัต รัฐยะโฮร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 ลูกค้าคนหนึ่งขอยาแก้ไอที่เคาน์เตอร์ร้านยาและได้รับบริการทันที อีกคนขอยาปฏิชีวนะสำหรับอาการเจ็บคอและถูกขอให้แสดงใบสั่งแพทย์ก่อน ทั้งสองธุรกรรมเกิดขึ้นที่ร้านยาเดียวกันในวันเดียวกัน — ความแตกต่างอยู่ที่กฎหมายที่จัดประเภทยานั้น ไม่ใช่ที่ดุลพินิจของเภสัชกร

@@ -33,7 +33,7 @@ faq:
     a: "माग़ावाउ फ़सल के बाद चावल की आत्मा, बाम्बाज़ोन, का सम्मान करने और उसे 'घर बुलाने' का एक आभार अनुष्ठान है। इसका नेतृत्व परंपरागत रूप से एक बोबोहिज़ान (bobohizan, जिसे bobolian भी लिखा जाता है) करती है, जो अनुष्ठानिक मंत्रोच्चार करती है। यह कामातन के पुराने औपचारिक तत्वों में से एक है।"
 
 lang: "hi"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "30 और 31 मई, जिसमें उन दो दिनों पर राज्य-स्तरीय समापन से पहले, मई के अधिकांश भाग में ज़िले-दर-ज़िले उत्सव चलते हैं।"
   holiday: "30 और 31 मई को सबाह राज्य और लाबुआन संघीय क्षेत्र में सार्वजनिक अवकाश; यह देशव्यापी सार्वजनिक अवकाश नहीं है।"
   etiquette: "Unduk Ngadau को Huminodun किंवदंती का सम्मान करने वाली सांस्कृतिक प्रतियोगिता के रूप में समझें, न कि एक साधारण सौंदर्य प्रतियोगिता के रूप में, और Bambaazon विश्वास तथा Huminodun किंवदंती को समुदाय की अपनी परंपरा के रूप में सम्मानपूर्वक लें, न कि प्रतिपादित तथ्य के रूप में।"
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'सबा के पेनामपांग में तारों भरे मंच पर कामातान अनुष्ठान करते काली-सुनहरी पारंपरिक पोशाक में कादाज़ान-दुसुन बोबोहिज़ान पुजारी और पुजारिनें'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: सबाह के पेनाम्पांग में कामातान महोत्सव के मंच पर पारंपरिक काले-और-सुनहरे कादाज़ान-दुसुन पोशाक में छह फ़ाइनलिस्टों के बीच ताज पहनाई गई उन्दुक नगादाऊ विजेता
+    kind: actual
+    origin: third-party
+    subject: कामातान महोत्सव सौंदर्य-प्रतियोगिता में उन्दुक नगादाऊ विजेता और फ़ाइनलिस्ट
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: सबाह में एक कामातान फ़सल उत्सव में लाल और चाँदी की किनारी वाली काली पोशाक में युवा कादाज़ान-दुसुन नर्तक घंटों के साथ एक पारंपरिक नृत्य प्रस्तुत करते हुए
+    kind: actual
+    origin: third-party
+    subject: घंटों के साथ फ़सल-उत्सव नृत्य प्रस्तुत करते कादाज़ान-दुसुन युवा
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 इस उत्सव का नाम एक ही विचार पर रखा गया है: फ़सल। कादाज़ानदुसुन भाषा में *कामातन* (Kaamatan) का अर्थ ठीक यही है, और उत्सव की बाक़ी हर चीज़ — अनुष्ठान, चावल की मदिरा, अंतिम संध्या को ताजपोशी पाई प्रतियोगिता — उसी एक कर्म से, अर्थात् चावल को काटकर लाने से, उपजती है।

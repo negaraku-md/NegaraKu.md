@@ -44,7 +44,7 @@ verificationNeeded:
   - "أعداد المستأجرين الحالية والاستثمار الملتزَم به في POIC Lahad Datu وSOGIP Sipitang — فمواقع المشغّل تحمل أرقامًا مؤرّخة بين 2020 و2022 وإجماليات طموحة"
 
 lang: "ar"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -127,6 +127,34 @@ keywords:
   - "doing business in Sabah"
   - "Trades Licensing Ordinance Sabah Cap 144"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: 'منظر نهاري ساطع لوسط كوتا كينابالو مع أبراج مكاتب تجارية ومجمعات تسوّق بجانب خليج بحري أزرق وجزر'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: أعلام ولاية ماليزية على السواري في المقدمة مع أفق مدينة كوتا كينابالو يرتفع عبر الخليج تحت سماء زرقاء زاهية
+    kind: actual
+    origin: third-party
+    subject: أفق وسط مدينة كوتا كينابالو كما يُرى عبر الخليج من مبنى مجلس ولاية صباح التشريعي، صباح
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: مبنى مقر Sabah Ports الحديث ذو الواجهة الزجاجية خلف أشجار النخيل، مع لافتة Sabah Ports عند المدخل المسوّر تحت سماء زاهية
+    kind: actual
+    origin: third-party
+    subject: مقر Sabah Ports في Sepanggar، كوتا كينابالو — مبنى الميناء المؤسسي ذو الواجهة الزجاجية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 تقريبًا كل دليل وطني لممارسة الأعمال في ماليزيا مخطئ بشأن صباح، ومخطئ بالطريقة نفسها في

@@ -28,7 +28,7 @@ faq:
   - q: "ما القانون الذي تديره DOF؟"
     a: "تشريعها الرئيسي هو قانون مصايد الأسماك لسنة 1985 (Act 317)، الذي يشمل حفظ وإدارة وتنمية الصيد والمصايد في المياه الماليزية، بما في ذلك الترخيص والاستزراع المائي والثدييات المائية والسلاحف."
 lang: "ar"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,9 +74,35 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["إدارة مصايد الأسماك في ماليزيا", "DOF", "Jabatan Perikanan Malaysia", "مصايد الأسماك في ماليزيا", "Fisheries Act 1985", "رخصة الصيد في ماليزيا", "الاستزراع المائي في ماليزيا", "dof.gov.my", "fishing licence Malaysia", "Director-General of Fisheries"]
 framework: profile
+hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'
+heroAlt: 'قاعة سوق سمك دائرية ترسو بجانب رصيفها قوارب الصيد في سانداكان بماليزيا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: عمال يفرزون الأسماك الطازجة في صناديق بجانب قارب صيد راسٍ في مجمّع لمصايد الأسماك في Kuantan، Pahang
+    kind: actual
+    origin: third-party
+    subject: عمال يفرزون الصيد الطازج في مرسى لإنزال الأسماك في Kuantan، Pahang
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: منصّات أقفاص عائمة كبيرة لتربية الروبيان راسية على Sungai Sitompok المحاط بأشجار المانغروف في Kuala Penyu، Sabah
+    kind: actual
+    origin: third-party
+    subject: أقفاص عائمة لتربية الروبيان على نهر مانغروف عند Sungai Sitompok، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 كل قارب يلقي شبكته بصورة قانونية في المياه الماليزية يخضع، في نهاية المطاف، لوكالة واحدة. **إدارة مصايد الأسماك في ماليزيا (DOF)** — *Jabatan Perikanan Malaysia* — هي الهيئة الاتحادية التي تدير الموارد البحرية وموارد الاستزراع المائي في البلاد وترخّص جميع أنشطة الصيد. تعمل تحت إشراف **وزارة الزراعة والأمن الغذائي (MAFS)**، وتدير **قانون مصايد الأسماك لسنة 1985 (Act 317)**، ويرأسها **المدير العام لمصايد الأسماك**. ويقع مقرها الرئيسي في Wisma Tani ببوتراجايا، مدعومًا بشبكة من المكاتب الولائية والمحلية.

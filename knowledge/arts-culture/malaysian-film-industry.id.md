@@ -34,7 +34,7 @@ faq:
     a: "Ia sering disebut sebagai 'Malaysian New Wave', gelombang pembuat film independen awal 2000-an. Da Huang Pictures, yang didirikan pada 2004 oleh Tan Chui Mui, Amir Muhammad, James Lee, dan Liew Seng Tat, menjadi salah satu nadinya; film Tan, Love Conquers All, memenangi Penghargaan New Currents dan FIPRESCI di Festival Film Internasional Busan 2006 serta Penghargaan Tiger di Rotterdam."
 
 lang: "id"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,32 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'Rumah kayu Melayu tradisional yang telah dipugar, tempat kelahiran legenda film P. Ramlee, kini menjadi memorial, dengan atap rumbia dan plakat peringatan di halaman depan berbata.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: Fasad jalan dan papan marki Bioskop Coliseum tua, sebuah gedung bioskop layar tunggal pra-perang di pusat kota Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bioskop Coliseum bersejarah di Jalan Tuanku Abdul Rahman, Kuala Lumpur, salah satu gedung bioskop tertua yang masih bertahan di Malaysia
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: Lobi dan papan nama yang terang-benderang dari sebuah bioskop multipleks kontemporer di dalam sebuah mal perbelanjaan Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk sebuah bioskop multipleks modern di Pavilion Bukit Bintang, Kuala Lumpur
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 Pada 1955, seorang mantan *clapper* dan asisten juru kamera di sebuah studio di No. 8 Jalan Ampas, Singapura, duduk di kursi sutradara untuk pertama kali pada usia 26 tahun. Film itu *Penarek Becha*. Namanya P. Ramlee. Kisah industri film Malaysia bermula bukan di Kuala Lumpur, tetapi di sebuah studio Singapura yang dimiliki dua bersaudara dari Shanghai — dan ia belum berhenti bergerak sejak itu.

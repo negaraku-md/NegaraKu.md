@@ -26,7 +26,7 @@ verificationNeeded:
   - "Les détails des vaccins supplémentaires/facultatifs (par exemple, les vaccins non obligatoires fournis moyennant paiement) n'ont pas pu être vérifiés au regard des sources officielles du KKM au moment de la rédaction, et ne sont donc pas spécifiquement indiqués dans cet article."
 
 lang: "fr"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["vaccination infantile Malaisie", "Calendrier national de vaccination", "Programme national de vaccination KKM", "vaccins gratuits clinique de santé", "carnet de santé du nourrisson et de l'enfant", "vaccins infantiles KKM", "Immunise4Life Malaysia", "vaccination gratuite Malaisie"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'Un centre de vaccination du ministère de la Santé de Malaisie aménagé pour les enfants, avec une fresque adaptée aux enfants indiquant ''Je suis vacciné''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: Un centre de vaccination infantile du ministère de la Santé de Malaisie portant la marque KKM et des rangées de chaises d'attente, avec seulement quelques personnes visibles au loin
+    kind: actual
+    origin: third-party
+    subject: Centre de vaccination infantile du ministère de la Santé (PPV PICKids) au Pavilion Bukit Jalil, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: Un flacon de vaccin bouché posé à côté d'une seringue de vaccin préremplie, représentant les vaccins administrés selon un calendrier de vaccination
+    kind: representative
+    origin: third-party
+    subject: Un flacon de vaccin et une seringue de vaccin antigrippal préremplie sur une surface unie
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 Chaque bébé né dans une clinique ou un hôpital public en Malaisie rentre chez lui avec bien plus qu'un certificat de naissance temporaire — il rentre avec un petit carnet qui sera présenté à *chaque* visite en clinique pendant les six années suivantes. Ce carnet, et le calendrier de vaccination qu'il consigne, fait partie de l'un des programmes de santé publique les plus anciens du pays.

@@ -34,7 +34,7 @@ faq:
     a: "Las Directrices para el Desarrollo Sostenible de Centros de Datos del MITI (30 de diciembre de 2024) exigen a los operadores declarar el PUE, el WUE y el CUE de diseño conforme a las normas ISO/IEC 30134, y considerar emplazamientos de la Malasia peninsular con un índice de estrés hídrico (WSI) inferior a 0,8, según redacta la directriz su condición de ubicación."
 
 lang: "es"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'Hileras de racks de servidores con luces de estado azules encendidas llenan el pasillo de un centro de datos.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: Largas filas de bastidores de servidores y equipos llenan la gran sala de un centro de datos con contención estructurada de pasillo frío.
+    kind: representative
+    origin: third-party
+    subject: Una sala de centro de datos con filas de bastidores de equipos
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: Densos haces de cableado de red recorren la parte trasera de los bastidores de servidores en un centro de datos.
+    kind: representative
+    origin: third-party
+    subject: Cableado de red detrás de los bastidores de servidores de un centro de datos
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 En 2019, Singapur dejó de aprobar grandes centros de datos nuevos. En cuatro años, los servidores que rechazó habían levantado una nueva industria a veinte minutos al otro lado del Causeway — y Johor pasó de ser un tranquilo estado malasio al mercado de centros de datos más activo del Sudeste Asiático.

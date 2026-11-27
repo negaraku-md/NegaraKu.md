@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "Abdul Razak Hussein"
-seoTitle: Abdul Razak Hussein
+seoTitle: "Abdul Razak Hussein: Thủ tướng thứ hai của Malaysia (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]
@@ -71,6 +71,13 @@ verificationNeeded:
   - "Xác nhận các niên đại chính xác (nhiệm kỳ thủ tướng, ngày sinh, ngày mất) với Perdana Leadership Foundation và Văn phòng Thủ tướng."
   - "Các nguồn khác nhau về năm thành lập Barisan Nasional (liên minh định hình năm 1973 và được đăng ký chính thức năm 1974); xác nhận niên đại và cách diễn đạt chính xác trước khi dựa vào nó."
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: 'Abdul Razak Hussein đội songkok đen và mặc com-lê sẫm màu với cà vạt xanh hoa văn, nhìn thẳng về phía trước trong bức chân dung chính thức trên nền rèm gấm màu vàng.'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Chỉ trong khoảng vài năm đầy biến động, Tun Abdul Razak Hussein đã chuyển từ người trông coi theo hiến pháp của một quốc gia dưới sự cai trị khẩn cấp thành kiến trúc sư trưởng của trật tự kinh tế hiện đại của nó. Thủ tướng thứ hai của Malaysia cầm quyền chỉ vỏn vẹn năm năm, thế nhưng khuôn khổ ông dựng nên — một nền kinh tế hành động khẳng định, một liên minh thống trị và một chính sách đối ngoại thực dụng — đã định hình đất nước trong nhiều thập niên sau cái chết đột ngột của ông khi đang tại nhiệm. Đối với nhiều người Malaysia, ông vẫn đơn giản là **Bapa Pembangunan**, Cha của Sự Phát triển.

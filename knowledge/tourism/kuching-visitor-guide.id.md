@@ -37,7 +37,7 @@ faq:
     a: "Terbang ke Bandara Internasional Kuching (KCH), gerbang udara utama ke Sarawak selatan, dengan sambungan dari Kuala Lumpur dan hub lainnya (Wikipedia). Karena Sarawak mengontrol imigrasinya sendiri, setiap orang diperiksa saat kedatangan — orang Malaysia dari negara bagian lain diberi pas pada MyKad mereka, dan warga asing distempel masuk ke Sarawak secara terpisah, jadi bawa paspor Anda bahkan pada penerbangan yang tampak domestik. Lihat panduan Sarawak untuk aturan masuk lengkap."
 
 lang: "id"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'Pelancong pertama kali dan mandiri, keluarga, serta pencinta warisan atau satwa liar yang menginginkan kota warisan tepi sungai yang mudah dijelajahi dengan berjalan kaki sebagai pangkalan santai untuk perjalanan sehari ke hutan hujan Borneo, orangutan, dan taman nasional.'
+  getThere: 'Terbanglah ke Bandara Internasional Kuching (KCH), gerbang udara utama ke Sarawak selatan, dengan koneksi dari Kuala Lumpur serta hub Malaysia dan regional lainnya.'
+  permit: 'Sarawak menjalankan imigrasinya sendiri, jadi semua orang melewati pemeriksaan perbatasan saat tiba bahkan pada penerbangan domestik dari Semenanjung Malaysia — warga asing menerima cap masuk Sarawak tersendiri, jadi bawalah paspor Anda selama perjalanan.'
+  watch: 'Perjumpaan dengan orangutan di Semenggoh tidak pernah dijamin, karena kera setengah liar itu bebas mencari makan di hutan sekitarnya — anggaplah setiap perjumpaan sebagai bonus, bukan janji.'
+  next: 'Konfirmasikan persyaratan masuk Sarawak terkini dan jadwal taman atau festival dengan Sarawak Tourism Board dan operator resmi taman sebelum Anda bepergian.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'Gedung Dewan Undangan Negeri Sarawak beratap payung menjulang di seberang Sungai Sarawak dari tepi perairan Kuching saat senja'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: The Astana, istana kolonial putih berlengkung Gotik dengan gerbang hias, di tepi utara Sungai Sarawak di Kuching
+    kind: actual
+    origin: third-party
+    subject: The Astana, istana putih bersejarah di tepi sungai milik para Rajah Putih dahulu di Kuching
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Gerbang lengkung Tionghoa berornamen yang digantungi lampion merah menandai sebuah jalan di Chinatown lama Kuching
+    kind: actual
+    origin: third-party
+    subject: Gerbang lengkung upacara Tionghoa di Chinatown lama Kuching (kawasan Jalan Attap), dengan lampion merah dan papan nama ruko
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 Anda bisa menyusuri sepanjang tepi sungai Kuching dalam satu malam, melewati benteng kolonial, istana Rajah dan kuil Tionghoa di jalan, menyantap salah satu semangkuk mi terbaik Borneo, dan berpose dengan patung kucing raksasa — semua tanpa meninggalkan kota. Kuching adalah ibu kota dan kota terbesar Sarawak, terletak di Sungai Sarawak di ujung barat daya negara bagian di pulau Borneo ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). Ia pangkalan kota sungai yang santai tempat sebagian besar perjalanan Sarawak bermula. Panduan ini mencakup kota itu sendiri — tepi lautnya, sejarah era Brooke-nya, Chinatown dan museumnya, serta kucingnya — dan bagaimana ia berfungsi sebagai titik peluncuran bagi hutan hujan dan satwa liar yang mengelilinginya.

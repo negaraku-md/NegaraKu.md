@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "Lợi nhuận lũy kế từ đầu năm của tập đoàn là RM403,3 triệu cho chín tháng đến ngày 30 tháng 9 năm 2025 (công bố ngày 27 tháng 11 năm 2025) — xác minh đối chiếu với kết quả theo quý và thường niên tiếp theo."
   - "「Hơn 150 triệu khách hàng」 dựa trên một con số của công ty năm 2019 cộng với tăng trưởng thị trường sau đó; xác minh tổng số khách hàng hiện hành của tập đoàn đối chiếu với báo cáo thường niên mới nhất."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Lối vào chính của Axiata Arena ở Kuala Lumpur, mặt tiền bạc đục lỗ mang dòng chữ ''axiata arena'' màu xanh-đỏ tươi lớn và logo tam giác'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: Mọi người tụ tập bên ngoài lối vào chính của Axiata Arena bên dưới biển hiệu khổng lồ màu xanh-cánh sen 'axiata arena' trong một sự kiện thể thao
+    kind: actual
+    origin: third-party
+    subject: Đám đông ở lối vào chính của Axiata Arena, Bukit Jalil, trong một sự kiện
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: Bên trong chật kín của Axiata Arena trong một trận cầu lông tại SEA Games 2017, khán giả ngồi kín các khán đài màu xanh xếp tầng quanh sân
+    kind: actual
+    origin: third-party
+    subject: Bên trong Axiata Arena trong sự kiện cầu lông tại SEA Games 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 Câu chuyện viễn thông lớn nhất của Malaysia không phải là một mạng lưới đơn lẻ mà là một công ty mẹ sở hữu các phần của những nhà mạng di động ở sáu quốc gia. Axiata Group Berhad tọa lạc trong một tòa tháp văn phòng tại Kuala Lumpur Sentral và kiểm soát, sở hữu một phần hoặc cùng vận hành các nhà mạng kết nối hàng trăm triệu người trên khắp Nam Á và Đông Nam Á.

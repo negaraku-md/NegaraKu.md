@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,7 @@ sources:
     publisher: "The Star"
 
 entity: "Malaysia Airports Holdings Berhad (MAHB)"
+wikidata: "Q4202182"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["genting-group"]
@@ -78,6 +79,33 @@ keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airp
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
+hero: '/media/companies/malaysia-airports-mahb/hero.webp'
+heroAlt: 'நாடகீய மாலை வானத்திற்கு எதிரே உயரும் உயர்ந்த வெள்ளை உருளை வடிவ KLIA வான்போக்குவரத்துக் கட்டுப்பாட்டுக் கோபுரம்; வலப்புறம் வளைந்து செல்லும் முனைய சாலை'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: KLIA டெர்மினல் 1-இன் உள்புற நடைபாதை; அதன் வளைவு மர-பலகை வளைவுக் கூரை, நீல நிற நுழைவாயில் திசை பலகைகள் மற்றும் நடை-ஓட்டியுடன், பளபளப்பான தரையில் தனியாக ஒரு பயணி நடந்து செல்கிறார்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் சர்வதேச விமான நிலையத்தின் KLIA டெர்மினல் 1-இன் உள்புற கூடம்
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: காடு-விமான நிலையத்தின் வெள்ளை நிற விரிந்த எஃகு கூரைத் தூண்களை உயரமான கண்ணாடிச் சுவர்களுக்கு எதிராகக் காட்டும் KLIA டெர்மினல் 1 கூடம்; நடைபாதை வழியே நீல நிற Malaysia Airports மேம்பாட்டுத் தடுப்பு ஓடுகிறது
+    kind: actual
+    origin: third-party
+    subject: Malaysia Airports (MAHB) அடையாளத்துடன் கூடிய KLIA டெர்மினல் 1 கூடம்
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 ஒரு பயணி மலேசியாவில் தரையிறங்கும் கிட்டத்தட்ட ஒவ்வொரு முறையும், அவர்கள் ஒரே நிறுவனத்தால் நடத்தப்படும் ஒரு விமான நிலையத்திற்கு வந்து சேர்கிறார்கள். Malaysia Airports Holdings Berhad (MAHB) Kuala Lumpur International Airport-ஐ — இப்போது KLIA Terminal 1 மற்றும் Terminal 2 என பிராண்ட் செய்யப்பட்டுள்ளது — மற்றும், அதன் சொந்தக் கணக்கின்படி, நாடு முழுவதும் 39 விமான நிலையங்களை, கூடுதலாக இஸ்தான்புல்லில் ஒரு வெளிநாட்டு நுழைவாயிலையும் இயக்குகிறது. 2025-இல் இது ஒரு தேசிய விமான நிலைய இயக்குநருக்கு அசாதாரணமான ஒன்றாகவும் ஆனது: இனி ஒரு பொது நிறுவனம் அல்ல.

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: Siapakah Tua Pek Kong, dan di manakah tokong Tua Pek Kong yang tertua?
     a: Tua Pek Kong (大伯公) ialah dewa yang kuat berciri tempatan, dipuja secara meluas di tokong-tokong orang Cina di seluruh Malaysia. Tokong Tua Pek Kong yang tertua dikatakan terletak di Tanjung Tokong, Pulau Pinang, dan kepercayaannya kemudian tersebar ke seluruh Malaysia, Singapura dan Indonesia. Dalam bahasa Melayu, rumah ibadat sebegini dipanggil tokong; tokong terkenal yang lain termasuk Cheng Hoon Teng di Melaka dan Kuil Thean Hou di Kuala Lumpur.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'Bumbung berjubin yang melentik dan berhiaskan naga di Tokong Cina Thean Hou di Kuala Lumpur, dibingkai barisan tanglung merah tergantung berlatarkan langit biru.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: Fasad indah Tokong Lama Cina Johor Bahru, dengan arca naga di bumbung, relief seramik dan tanglung merah di pintu masuk.
+    kind: actual
+    origin: third-party
+    subject: Tokong Lama Cina Johor Bahru, sebuah tokong agama rakyat Cina
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Gugusan colok yang menyala mengepulkan asap di hadapan Tokong Dewi Kuan Yin di George Town, Pulau Pinang, sebuah rumah ibadat Cina yang lama tertegak.
+    kind: actual
+    origin: third-party
+    subject: Colok yang terbakar di Tokong Dewi Kuan Yin, George Town, Pulau Pinang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 Apabila anda melangkah ke dalam mana-mana kuil Cina di Malaysia, besar

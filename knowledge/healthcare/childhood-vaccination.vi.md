@@ -26,7 +26,7 @@ verificationNeeded:
   - "Chi tiết về vắc-xin bổ sung/tùy chọn (ví dụ vắc-xin không bắt buộc được cung cấp có tính phí) không thể được xác nhận trên nguồn chính thức của KKM tại thời điểm viết và do đó không được nêu cụ thể trong bài viết này."
 
 lang: "vi"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: 'Một trung tâm tiêm chủng của Bộ Y tế Malaysia được bố trí cho trẻ em, với bức tranh tường thân thiện với trẻ ghi ''I''m vaccinated''.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: Một trung tâm tiêm chủng trẻ em của Bộ Y tế Malaysia với thương hiệu KKM và các hàng ghế chờ, chỉ có vài người xuất hiện ở phía xa
+    kind: actual
+    origin: third-party
+    subject: Trung tâm tiêm chủng trẻ em của Bộ Y tế (PPV PICKids) tại Pavilion Bukit Jalil, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: Một lọ vắc-xin có nắp đứng cạnh một bơm tiêm vắc-xin đã nạp sẵn, đại diện cho các vắc-xin được tiêm theo lịch tiêm chủng
+    kind: representative
+    origin: third-party
+    subject: Một lọ vắc-xin và một bơm tiêm vắc-xin cúm đã nạp sẵn trên bề mặt trơn
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 Mỗi trẻ sơ sinh chào đời tại phòng khám hoặc bệnh viện chính phủ của Malaysia trở về nhà với nhiều hơn chỉ một giấy khai sinh tạm thời — chúng trở về với một cuốn sổ nhỏ sẽ được mang đến *mỗi* lần đến phòng khám trong sáu năm tới. Cuốn sổ đó, và lịch tiêm được ghi trong nó, là một phần của một trong những chương trình y tế công cộng chạy lâu đời nhất của đất nước.

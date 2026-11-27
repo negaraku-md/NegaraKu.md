@@ -28,7 +28,7 @@ faq:
     a: "அது நாடு முழுவதும் ஏற்கனவே நன்கு அறியப்பட்டிருந்தது, கவர்ச்சிகரமான நிறமும் வடிவமும் கொண்டிருந்தது, ஒரே சீரான பெயர் கொண்டிருந்தது, எளிதில் கிடைத்தது, மற்றும் அப்போது வேறு எந்த நாட்டின் தேசிய மலராகவும் ஆகியிருக்கவில்லை."
 
 lang: "ta"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: 'சுருக்கம் கொண்ட இதழ்களுடனும் மஞ்சள் நுனி கொண்ட மைய மகரந்தத் தண்டுடனும் முழுமையாக மலர்ந்த ஒரு பிரகாசமான சிவப்பு செம்பருத்தி மலர், பளபளப்பான பச்சை இலைகளை பின்னணியாகக் கொண்டுள்ளது.'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: ஒரு கோணத்தில் காணப்படும் அடர் சிவப்பு செம்பருத்தி மலர்; அதன் சுருக்கமான இதழ்கள் கீழ்நோக்கி வளையும் நீண்ட சிவப்பு மகரந்தத் தண்டைச் சூழ்கின்றன, அதன் நுனியில் பிரகாசமான மஞ்சள் மகரந்தமும் சிறிய சிவப்பு சூலக முனை மடல்களும் உள்ளன, மென்மையான பச்சை இலைகளைப் பின்னணியாகக் கொண்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: சிவப்பு பூங்கா ராயா (Hibiscus rosa-sinensis), மலேசியாவின் தேசிய மலர், அதன் நீண்ட மகரந்தத் தண்டைக் காட்டுகிறது
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: மலேசிய கிராமத் தோட்டத்தில் இலைகள் அடர்ந்த ஒரு புதரில் ஒரு பிரகாசமான சிவப்பு செம்பருத்தி மலர்கிறது, அதன் நீண்ட இளஞ்சிவப்பு மகரந்தத் தண்டு தொங்குகிறது, பின்னணியில் தென்னை மரங்களும் வெயில் படர்ந்த திறந்த புல்வெளியும் உள்ளன.
+    kind: actual
+    origin: third-party
+    subject: மலேசிய கிராமத் தோட்டத்தில் ஒரு புதரில் மலர்ந்த சிவப்பு பூங்கா ராயா (Hibiscus rosa-sinensis)
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 புதிதாக சுதந்திரம் பெற்ற ஒரு நாட்டைப் பிரதிநிதித்துவப்படுத்த ஏழு வகை மலர்கள் ஒரு காலத்தில் போட்டியிட்டன — வென்றது மிக நறுமணமானதோ மிக அரிதானதோ அல்ல, மாறாக ஒவ்வொரு பட்டணத்திலும் கிராமத்திலும் மிகவும் நன்கு அறியப்பட்டதே. அதுதான் bunga raya (செம்பருத்தி).

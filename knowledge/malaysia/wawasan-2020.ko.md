@@ -32,7 +32,7 @@ faq:
     a: "공동번영비전 2030(Wawasan Kemakmuran Bersama 2030, WKB 2030)이 2021년부터 2030년까지의 기간에 공평한 번영에 초점을 맞춘 후속 구상으로 2019년 10월 발표되었습니다."
 
 lang: "ko"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: '반짝이는 페트로나스 트윈 타워가 맑은 하늘 아래 쿠알라룸푸르의 스카이라인 위로 우뚝 솟아 있다.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: KLCC Park의 Symphony Lake 분수에서 호를 그리며 뿜어져 나오는 물줄기, 잘 손질된 푸른 잔디와 조경된 도심 녹지에 둘러싸인 밝은 열대 하늘 아래 풍경.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 도심의 KLCC Park 분수
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: 날렵하고 다이아몬드처럼 각진 초고층 빌딩 Merdeka 118이 높은 첨탑으로 좁아지며 쿠알라룸푸르 스카이라인 위로 솟아 있는, 세계에서 가장 높은 건물 중 하나.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르의 Merdeka 118 타워, 세계에서 가장 높은 건물 중 하나
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 1991년 2월 어느 아침, 한 총리가 나라의 주요 기업인들 앞에 서서 앞으로 30년을 위한 하나의 목표를 세웠습니다. 2020년까지 말레이시아(Malaysia)는 완전한 선진국이 되어야 한다 — 단지 경제적 측면뿐만 아니라, 통합, 사회 정의, 시민적 성숙의 측면에서도. 그 구상이 바로 훗날 와와산 2020으로 알려지게 된 것입니다.

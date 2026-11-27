@@ -32,7 +32,7 @@ faq:
     a: "Oui. Les deux sont cotées sur le Marché principal de Bursa Malaysia. Top Glove est en outre cotée sur le Mainboard du Singapore Exchange."
 
 lang: "fr"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "gants en caoutchouc", "rubber gloves", "fonderie d'aluminium", "aluminium smelter", "industrie manufacturière de Malaisie", "travail forcé", "forced labour", "Bursa Malaysia", "exportations", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: 'Un gros plan d''une ligne de production de gants où des formes de mains enduites de latex bleu humide sont suspendues en rangée et s''égouttent dans un bac de liquide bleu en dessous, avec des gants blancs fraîchement trempés sur des formes à l''arrière-plan'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: Un technicien en blouse blanche, lunettes de protection et gants en nitrile bleus tient un gant transparent rempli d'eau pour l'inspecter à la recherche de fuites, avec des rangées de gants suspendus à un support de test derrière lui dans un laboratoire
+    kind: representative
+    origin: third-party
+    subject: contrôle qualité de gants médicaux jetables dans un laboratoire (illustratif du contrôle qualité de l'industrie du gant ; pas une installation de Top Glove)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 Deux entreprises malaisiennes dominent leurs domaines à l'échelle mondiale. L'une est le plus grand fabricant de gants jetables au monde ; l'autre est la plus grande fonderie d'aluminium primaire d'Asie du Sud-Est. Ni l'une ni l'autre n'est un nom familier en dehors des milieux de l'investissement, et pourtant Top Glove et Press Metal montrent comment une économie de taille moyenne peut produire des leaders mondiaux mono-sectoriels.

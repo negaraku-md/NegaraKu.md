@@ -42,7 +42,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "ko"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,24 @@ drinkFacts:
   halal: "대형 제조사의 상업 청량 음료로서 Sarsi는 할랄 인증을 지닌다; 가장 확실한 확인은 병이나 캔에 찍힌 할랄 표시다. 포장에서 찾아보라."
   served: "병이나 캔에서 차갑게 낸다. 사랑받는 현지 변형은 'Sarsi susu' — 무가당 연유, 가당 연유, 또는 생우유를 부어 크리미한 플로트로 만든 Sarsi다. 달고 탄산이 든 — 우려낸 kopitiam 음료가 아니라 청량 음료 간식이다."
   where: "전국의 잡화점, 슈퍼마켓, kopitiam, 그리고 가족 모임에서 찾을 수 있다 — 냉장 선반의 향수 어린 붙박이다."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: '햇빛 속, 거품이 인 짙고 탄산이 들어간 사르사파릴라 탄산음료(사르시)가 담긴 길고 오목한 유리 머그잔'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: 짙은 적갈색 탄산 사르사파릴라(사르새) 청량음료가 가득 담긴 유리잔
+    kind: actual
+    origin: third-party
+    subject: 아시아 사르새 사르사파릴라 청량음료 한 잔
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 말레이시아 식탁의 모든 음료가 우리거나 당기거나 짜내는 것은 아니다. 어떤 것은 병에서

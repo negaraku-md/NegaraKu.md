@@ -63,6 +63,12 @@ relations:
 related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd", "register-enterprise-ezbiz", "partnership-malaysia", "llp-vs-sdn-bhd"]
 keywords: ["sole proprietorship vs sdn bhd", "enterprise vs sdn bhd", "perniagaan tunggal atau sdn bhd", "which business structure Malaysia", "sole proprietor tax Malaysia"]
 framework: decision
+stayFacts:
+  who: '在马来西亚半岛或纳闽（Labuan）首次创业的东主，正在决定要注册为独资经营（sole proprietorship）还是设立私人有限公司 Sdn Bhd。'
+  how: '先从一切结论都由此而来的那个事实出发：独资经营在法律上就是你本人以一个注册名称经商，因此它的债务和合约都由你个人承担；而 Sdn Bhd 是一个独立的法律主体，其责任仅限于你尚未缴清的股本。要在无限个人责任与 Sdn Bhd 持续的合规负担之间权衡。当生意规模小、责任风险低、而你又想把文书工作减到最少时，倾向独资经营；一旦生意开始承担实质责任，例如聘有员工、拥有营业场所、或有可能出问题的交付成果，或需要募集股本，或必须在股权变更后仍能延续，则倾向 Sdn Bhd。'
+  cost: '独资经营的注册续期费用低廉，且几乎没有持续的呈报义务；Sdn Bhd 则有较高的一次性设立成本，再加上必须委任一名本地居民董事和一名持牌秘书，须提交周年申报表、财务报表，通常还需审计，这会产生一笔经常性的合规开销，即使是休眠公司也照样要付。税务是另一项独立的考量：独资东主按个人累进税率缴税，Sdn Bhd 按公司税率缴税，在利润不高时独资经营往往缴得较少，公司税率的优势只有在利润持续较高时才显现，而其中小企业条件也比多数人想象的更为狭窄。每一项现行数字、税率和门槛，都要向 SSM（注册）和 LHDN（税务）核实。'
+  watch: '常见的陷阱是只看注册费来做决定：Sdn Bhd 的经常性合规成本远远盖过那一次性的费用差距，而独资经营的无限责任又远远盖过这两者。不要以为 Sdn Bhd 一定缴税较少，也不要指望结构能轻易转换（转换意味着另设一家新主体，并把合约、资产和执照重新转移，而名称与商誉并不会随之延续）；并请注意，独资经营这一半只适用于马来西亚半岛和纳闽，因为沙巴和砂拉越实行的是完全不同的制度。'
+  next: '依据责任和合规的契合度来做决定，然后向 SSM 和 LHDN 核实现行费用和税务数字。要注册独资经营，使用 SSM 的 EzBiz 门户；要设立 Sdn Bhd，按 SSM 的公司注册程序办理。在依赖公司税率之前，先向 LHDN 确认最新的中小企业税务条件。'
 ---
 
 多数人把这当成一道成本题来处理，于是得出错误答案。注册费的差距大约是一千令吉，而且只是

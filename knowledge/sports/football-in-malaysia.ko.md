@@ -41,7 +41,7 @@ faq:
     a: "정확한 날짜는 논란이 있다. 일부 기록은 전국 주무 기관의 설립을 1926년으로, 다른 기록은 싱가포르에 거점을 둔 Football Association of Malaya가 Piala Malaya 운영을 넘겨받은 1933년으로 본다. 분명하고 확인 가능한 것은 오늘날 전국 주무 기관, AFC 회원, 1984년 AFF 창립 회원으로서의 역할이다."
 
 lang: "ko"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: '조명이 환하게 켜지고 팬들로 가득 찬 부킷잘릴 국립경기장이 진행 중인 축구 경기를 내려다보고 있다.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: 느그리슴빌란주 스름반 파로이에 있는 스타디움 투안쿠 압둘 라만 경기장에서 진행 중인 축구 경기.
+    kind: actual
+    origin: third-party
+    subject: 느그리슴빌란주 파로이의 스타디움 투안쿠 압둘 라만에서 열린 축구 경기
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: 슬랑오르주 프탈링자야 코타 다만사라의 주택가에 있는 야외 공공 풋살 코트.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 코타 다만사라의 동네 풋살 코트, 말레이시아 축구의 풀뿌리 현장
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 1921년, 싱가포르가 말라야의 한 새로운 축구 대회 결승에서 슬랑오르를 2-1로 꺾었습니다. 그로부터 한 세기가 지난 지금도 그 대회는 — 이제 말레이시아 컵으로 알려진 — 나라에서 가장 사랑받는 스포츠의 가장 권위 있는 왕관으로 남아 있습니다.

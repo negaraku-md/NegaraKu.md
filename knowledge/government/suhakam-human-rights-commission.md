@@ -78,6 +78,33 @@ relations:
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
 framework: profile
+hero: '/media/government/suhakam-human-rights-commission/hero.webp'
+heroAlt: 'Menara TH Perdana, sebuah menara pejabat tinggi melengkung di Kuala Lumpur dengan papan tanda ''MENARA TH PERDANA'' yang menonjol dan pintu masuk berkanopi kaca, yang menempatkan ibu pejabat SUHAKAM'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: Peserta pada perhimpunan masyarakat sivil yang aman di Kuala Lumpur, menggambarkan konteks hak asasi manusia
+    kind: representative
+    origin: third-party
+    subject: Perhimpunan masyarakat sivil di Kuala Lumpur (konteks hak asasi manusia)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: Perhimpunan awam aman yang memenuhi sebuah jalan di Kuala Lumpur pada waktu malam, menggambarkan kebebasan yang diawasi oleh suruhanjaya hak asasi manusia
+    kind: representative
+    origin: third-party
+    subject: Perhimpunan awam aman di sebuah jalan di Kuala Lumpur (konteks hak asasi manusia)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 Apabila seseorang menghantar aduan pencabulan hak asasi kepada SUHAKAM, apa

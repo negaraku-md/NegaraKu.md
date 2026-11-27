@@ -31,7 +31,7 @@ faq:
     a: "ऊर्जा आयोग (Suruhanjaya Tenaga) मुख्य नियामक है। SEDA मलेशिया NEM को कार्यान्वित करता है, जबकि सिंगल बायर (TNB के अधीन) CGPP, CRESS और CREAM जैसे बाज़ार कार्यक्रमों का समन्वय करता है।"
 
 lang: "hi"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,9 +90,36 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
-related: []
+related: ["seda-malaysia", "energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition"]
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'एक शांत परिसर झील के पार फैले एक छत वाले पथ पर नीले फ़ोटोवोल्टिक पैनलों का एक लंबा तैरता सौर प्रतिष्ठान, पीछे इमारतें और हरियाली'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: धुंधले आकाश के नीचे एक साफ़ किए गए मैदान में फैलीं ज़मीन पर लगे झुके हुए सौर पैनलों की लंबी कतारें, क्षितिज पर वर्षावन
+    kind: actual
+    origin: third-party
+    subject: Bukit Merah, Malaysia के पास एक सौर फ़ार्म में ज़मीन पर लगे सौर फोटोवोल्टिक पैनलों की कतारें
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: ग्रामीण Sabah के एक स्कूल में एक मलेशियाई सरकारी सौर-हाइब्रिड परियोजना साइनबोर्ड के पास सौर पैनलों से ढकी स्टील-फ़्रेम कैनोपी, अग्रभूमि में खड़ी कारें और मुर्गियाँ
+    kind: actual
+    origin: third-party
+    subject: Sabah, Malaysia के एक स्कूल में एक ग्रामीण सौर-हाइब्रिड बिजली संस्थापन
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 किसी घर की छत पर सौर पैनल मलेशिया में सरकारी नीति से कसकर जुड़ा एक वित्तीय निर्णय बन गए हैं। लेकिन «सौर अपनाना» इपोह में एक गृहस्वामी के लिए पासिर गुडांग में एक कारखाने या 100% हरित बिजली चाहने वाले एक डेटा सेंटर की तुलना में बहुत भिन्न अर्थ रखता है। उपभोक्ताओं के प्रत्येक समूह की अपनी योजना है।

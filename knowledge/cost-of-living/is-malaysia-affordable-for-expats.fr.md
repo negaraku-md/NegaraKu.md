@@ -70,6 +70,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: 'Ceci s''adresse à un expatrié, un travailleur à distance ou un nouvel arrivant qui compare le coût de la vie en Malaisie à un salaire et à un niveau de dépenses occidental avant de s''y installer.'
+  how: 'Répartissez vos dépenses en deux paniers. Ce qui est produit ou assuré localement — l''alimentation, les transports intérieurs, les services de base et les soins de santé publics ou privés de gamme moyenne — bénéficie d''une forte décote par rapport à un niveau de référence occidental. Ce qui est comparé à l''échelle internationale — les biens importés et l''électronique, les soins dans les meilleurs hôpitaux privés, la scolarité en cursus international et l''immobilier urbain haut de gamme — ne se décote presque pas. Votre capacité à vous le permettre dépend de la part de ce second panier que votre mode de vie exige réellement, et non de la moyenne nationale.'
+  cost: 'Il n''existe pas de chiffre unique — tout dépend de votre propre panier, et les données officielles de revenu moyen, de dépenses et d''inflation évoluent d''une année à l''autre ; consultez donc les publications actuelles du DOSM plutôt qu''un chiffre cité. Une filière de résidence de longue durée telle que le MM2H a ses propres seuils financiers distincts, ce qui est une question différente de celle du coût de la vie quotidienne, mois après mois.'
+  watch: 'Le titre « la Malaisie est bon marché » ne vaut que pour le panier aux prix locaux ; la scolarité internationale, les meilleurs soins privés et l''immobilier haut de gamme de la Klang Valley suivent les prix mondiaux et peuvent effacer la décote. Le seuil financier d''un visa de résidence n''est pas une mesure du coût de la vie mensuel.'
+  next: 'Chiffrez votre propre panier — la scolarité, le niveau de soins de santé que vous souhaitez, le quartier d''habitation — en le comparant aux données locales actuelles, traitez les seuils des visas de résidence comme un calcul distinct, puis décidez. Consultez l''explication du visa de longue durée MM2H et les aperçus du coût de la vie.'
 ---
 
 ## En un coup d'œil

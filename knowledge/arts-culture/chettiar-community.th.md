@@ -32,7 +32,7 @@ faq:
   - q: "ปัจจุบันชุมชนเจตติยาร์ในมาเลเซียเป็นอย่างไร?"
     a: "ในช่วงกลางศตวรรษที่ 20 การเปลี่ยนแปลงกฎหมายการเงินและความผันผวนทางการเมืองทำให้ธุรกิจปล่อยเงินกู้แบบดั้งเดิมหดตัวลง หลายคนหันไปสู่ธุรกิจ วิชาชีพ และสาขาที่เกี่ยวข้องกับการศึกษา แม้จะเป็นชุมชนที่มีจำนวนไม่มาก แต่พวกเขาก็ยังรักษาเอกลักษณ์ทางวัฒนธรรมอันโดดเด่นไว้ผ่านวัด เทศกาล อาหาร และประเพณีของครอบครัว"
 lang: "th"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'หอโคปุรัม (gopuram) สีขาวของวัดนัตตุโกตไต เชฏฏิยาร์ (Nattukottai Chettiar) บนยอดเขาน้ำตก ตั้งตระหง่านขึ้นจากป่าเขียวครึ้มบนไหล่เขาในปีนัง'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: โคปุรัมของวัดอินเดียใต้ที่เต็มไปด้วยรูปปั้นแกะสลักและสีสันสดใส ตัดกับท้องฟ้าแจ่มใสที่ปีนัง
+    kind: actual
+    origin: third-party
+    subject: วัดศิวะนาคารธาร์ (นัตตุโกฏไฏ เจฏฏิยาร์) ในจอร์จทาวน์ รัฐปีนัง
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: ราชรถวัดปิดทองสูงตระหง่านประดับพวงมาลัยเคลื่อนไปตามถนนในปีนังยามพลบค่ำท่ามกลางฝูงชนผู้ศรัทธา
+    kind: actual
+    origin: third-party
+    subject: ราชรถทองคำและผู้ศรัทธาในขบวนไทปูซัมที่ปีนัง เทศกาลที่ชุมชนเจฏฏิยาร์ (Chettiar) ช่วยสืบสาน
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 ในวันไทปูซัมที่ปีนัง ราชรถอันงดงามที่ทำจากเงินจะเคลื่อนออกจากถนนเลอบูห์ปีนัง มุ่งหน้าสู่วัดมุรุกันบนเนินเขา ทั้งราชรถคันนั้น และชุมชนที่ดำเนินงานนี้มากว่าหนึ่งศตวรรษ ล้วนไม่ได้เกิดขึ้นโดยบังเอิญ — ทั้งสองบอกเล่าเรื่องราวของประเพณีการค้า-การธนาคารที่เดินทางจากเจตตินาฑูสู่มลายา

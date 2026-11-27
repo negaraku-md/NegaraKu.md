@@ -32,7 +32,7 @@ faq:
     a: "The main cause is land and forest fires — including peatland fires and slash-and-burn land clearing for agriculture — in Sumatra and Kalimantan, which become more frequent and severe during dry seasons influenced by the El Nino phenomenon."
 
 lang: "en"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'The Kuala Lumpur skyline obscured by thick grey haze, with the tall towers barely visible.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: Hazy, low-visibility air on a street beside a health clinic in Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Haze conditions near a Kuala Lumpur health clinic
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: Thick transboundary haze obscuring hills that are normally visible on the horizon
+    kind: representative
+    origin: third-party
+    subject: 2013 Southeast Asian transboundary haze over Singapore (representative)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 Every time the monsoon winds change direction during the dry season, the skies over the Klang Valley, Sarawak and much of the Peninsula can turn grey in a matter of days — the sun dims, the smell of smoke seeps into homes, and phones buzz with API alerts. This is transboundary haze: pollution not fully produced within the country, yet breathed in every year by millions of Malaysians.

@@ -84,6 +84,7 @@ drinkFacts:
   halal: "Barley water is plant-based and non-alcoholic — barley, water and sugar — so the drink itself is halal (not to be confused with the barley used to brew beer). Halal assurance attaches to the premises, so diners needing certification should check the individual stall."
   served: "Served hot or over ice. The plain version is lightly sweet; order 'barley limau' for a squeeze of lime, or look for barley with candied winter melon for a rounder sweetness. Often kept warm in an urn at the stall and poured on request."
   where: "Found at Chinese coffee shops, food courts, hawker centres and pasar malam across the country, and sold ready-made in cans (such as Yeo's) in every supermarket and provision shop."
+wikidata: "Q397762"
 ---
 
 Among the pale, modest drinks lined up at a Chinese coffee shop — soya bean, grass

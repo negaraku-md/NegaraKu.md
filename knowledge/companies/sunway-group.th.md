@@ -29,7 +29,7 @@ faq:
     a: "ใช่ Sunway Healthcare Holdings จดทะเบียนในตลาดหลักของ Bursa Malaysia ในชื่อ SUNMED เมื่อวันที่ 18 มีนาคม 2026 GIC ของสิงคโปร์ได้ตกลงก่อนหน้านี้ในเดือนมิถุนายน 2021 ที่จะลงทุน RM750 ล้านสำหรับส่วนได้เสีย 16% ในธุรกิจการดูแลสุขภาพ"
 
 lang: "th"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'หัวสิงโตหินยักษ์อันเป็นแลนด์มาร์กและหลังคาทรงพีระมิดของศูนย์การค้า Sunway Pyramid พร้อมอาคารสูงที่มีป้าย SUNWAY ตั้งตระหง่านด้านหลังใต้ท้องฟ้าครึ้ม'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: ภาพระยะใกล้ของหน้าอาคาร Sunway Pyramid ธีมอียิปต์ มีหลังคาทรงพีระมิดขนาดใหญ่และสฟิงซ์สิงโตนั่งข้างป้ายทางเข้า 'Shopping Mall / Theme Park'
+    kind: actual
+    origin: third-party
+    subject: ด้านหน้าของศูนย์การค้า Sunway Pyramid แสดงพีระมิดและสฟิงซ์หัวสิงโต บันดาร์ซันเวย์
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: ภาพมุมสูงของเมือง Bandar Sunway แสดงห้าง Sunway Pyramid โรงแรมรีสอร์ท ลากูน และกลุ่มอาคารที่พักอาศัยสูงในหุบเขากลัง
+    kind: actual
+    origin: third-party
+    subject: ภาพมุมสูงของเมืองครบวงจร Bandar Sunway ของ Sunway Group พร้อมห้างพีระมิด รีสอร์ท ลากูน และอาคารที่พักอาศัย รัฐสลังงอร์
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Sunway Group เปลี่ยนที่ดินเป็นเมืองทั้งเมือง ทั้งบ้าน ห้างสรรพสินค้า โรงพยาบาล มหาวิทยาลัย และสวนสนุก บนแผนแม่บทเดียว จากนั้นก็ดำเนินการต่อในสิ่งที่มันสร้าง

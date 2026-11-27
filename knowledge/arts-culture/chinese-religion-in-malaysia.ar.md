@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ar"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: من هو توا بيك كونغ، وأين يقع أقدم معبد لتوا بيك كونغ؟
     a: توا بيك كونغ (Tua Pek Kong، 大伯公) إله ذو طابع محلي قوي، يُعبد على نطاق واسع في المعابد الصينية في أنحاء ماليزيا. ويُقال إن أقدم معبد لتوا بيك كونغ يقع في تانجونغ توكونغ (Tanjung Tokong) بولاية بينانغ، ثم انتشرت عبادته لاحقًا في مختلف أنحاء ماليزيا وسنغافورة وإندونيسيا. ويُسمّى هذا النوع من المعابد في اللغة الملايوية tokong؛ ومن المعابد الشهيرة الأخرى تشينغ هون تنغ (Cheng Hoon Teng) في ملقا ومعبد ثيان هو (Thean Hou) في كوالالمبور.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'الأسقف القرميدية المرتفعة الأطراف والمتوّجة بالتنانين لمعبد ثيان هو الصيني في كوالالمبور، تحيط بها صفوف من الفوانيس الحمراء المعلّقة أمام سماء زرقاء.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: الواجهة المزخرفة للمعبد الصيني القديم في Johor Bahru، بتماثيل تنانين على السقف ونقوش خزفية وفوانيس حمراء عند المدخل.
+    kind: actual
+    origin: third-party
+    subject: المعبد الصيني القديم في Johor Bahru، معبد للدين الشعبي الصيني
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: حُزم من أعواد البخور المشتعلة تتصاعد منها الأدخنة أمام معبد إلهة الرحمة في George Town، Penang، وهو مكان عبادة صيني عريق.
+    kind: actual
+    origin: third-party
+    subject: أعواد بخور مشتعلة في معبد إلهة الرحمة (Goddess of Mercy Temple)، George Town، Penang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 حين تدخل أي معبد صيني في ماليزيا، فالأرجح أنك سترى في المكان الواحد نفسه بوذا

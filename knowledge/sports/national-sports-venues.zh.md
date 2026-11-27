@@ -28,7 +28,7 @@ faq:
     a: "不再举办。雪邦曾举办一级方程式大奖赛至2017年；如今该赛道以MotoGP及其他赛车运动赛事为重点。"
 
 lang: "zh"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,36 @@ entity: "Gelanggang sukan utama Malaysia"
 relations:
   - { rel: "administered-by", to: "perbadanan-stadium-malaysia" }
   - { rel: "related-to", to: "kl-sports-city" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "malaysia-cup-domestic-football-leagues"]
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: '阴云天空下，武吉加里尔国家体育场宏伟的灰白色入口拱门，顶部标有STADIUM BUKIT JALIL字样，其摩尔式镂空屏拱为背后的体育场碗形看台取景'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: 武吉加里尔国家体育场夜间的宏大内景，起伏的白色张拉膜顶棚被灯光照亮，环绕着绿色球场和红色跑道的看台座无虚席
+    kind: actual
+    origin: third-party
+    subject: 武吉加里尔国家体育场夜间一场比赛中座无虚席的内场碗状看台与张拉膜顶棚
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: 武吉加里尔明讯体育馆（Axiata Arena）银色百叶立面，弧形玻璃入口上方印着 Axiata arena 名称和标志，灰色天空下两侧是幼树
+    kind: actual
+    origin: third-party
+    subject: 武吉加里尔国家体育中心的室内场馆明讯体育馆（Axiata Arena）外观
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 当85,500名观众在足球决赛之夜挤满TM国家体育场三层看台的弧形结构时，他们正身处马来西亚体育基础设施最宏大的象征之中——但这只是承载国家重大赛事的几座场馆之一。

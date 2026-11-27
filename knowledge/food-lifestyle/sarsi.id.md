@@ -42,7 +42,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "id"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,24 @@ drinkFacts:
   halal: "Sebagai minuman ringan komersial dari produsen besar, Sarsi membawa sertifikasi halal; pemeriksaan yang paling pasti adalah tanda halal yang tercetak pada botol atau kaleng. Carilah pada kemasannya."
   served: "Disajikan dingin dari botol atau kaleng. Variasi lokal yang dicintai adalah 'Sarsi susu' — Sarsi dengan susu evaporasi, kental manis, atau segar yang dituang untuk membuat float yang lembut. Manis dan bersoda; sebuah camilan minuman ringan, bukan minuman seduhan kopitiam."
   where: "Ditemukan di kedai runcit, supermarket, kopitiam, dan kumpul keluarga di seluruh negeri — minuman pokok nostalgik dari rak pendingin."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'Mug kaca tinggi berlekuk berisi soda sarsaparila (sarsi) gelap bersoda dengan buih di atasnya, di bawah sinar matahari'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: Segelas minuman ringan sarsaparila (sarsi) bersoda berwarna cokelat kemerahan gelap
+    kind: actual
+    origin: third-party
+    subject: segelas minuman ringan sarsaparila Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 Tidak setiap minuman di meja Malaysia diseduh, ditarik, atau diperas. Sebagian datang

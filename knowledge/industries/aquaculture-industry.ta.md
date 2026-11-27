@@ -31,7 +31,7 @@ faq:
   - q: "மலேசியாவின் உணவுப் பாதுகாப்பிற்கு நீர்வாழ் வளர்ப்பு ஏன் முக்கியம்?"
     a: "மீன் மலேசியாவின் முக்கிய விலங்கு புரத மூலம், காட்டுப் பிடிப்பு மேட்டுநிலையை எட்டிவிட்டது. தேசிய மீன் தன்னிறைவு விகிதத்தை — 2025-ல் சுமார் 90.7% — உயர்த்துவதற்கான முக்கிய நெம்புகோல் நீர்வாழ் வளர்ப்பு, மேலும் தேசிய வேளாண்-உணவுக் கொள்கை எதிர்கால தேவையை பூர்த்தி செய்ய பிடிக்கப்பட்ட மீனை விட வளர்க்கப்பட்ட மீனை வெளிப்படையாக விரும்புகிறது."
 lang: ta
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'ஒரு ஏரியின் அமைதியான நீர்ப்பரப்பில் வரிசையாக அமைக்கப்பட்ட மீன் வளர்ப்புக்கான மிதக்கும் வலைக் கூண்டுகள், ஒரு முனையில் காவலாளியின் குடிசையுடன்.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: மலேசியாவின் சபாவில் உள்ள காம்போங் தியாங்கில் பசுமையால் சூழப்பட்ட அமைதியான நன்னீர் நீர்வாழ் வளர்ப்புக் குளம்.
+    kind: actual
+    origin: third-party
+    subject: காம்போங் தியாங், சபாவில் மீன் நீர்வாழ் வளர்ப்புக் குளம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: புத்ரா மலேசியா பல்கலைக்கழகத்தின் பீடப் பண்ணையில் நடைமுறை வகுப்புகளுக்குப் பயன்படுத்தப்படும் மண் நீர்வாழ் வளர்ப்பு மீன் குளம்.
+    kind: actual
+    origin: third-party
+    subject: புத்ரா மலேசியா பல்கலைக்கழகத்தில் நீர்வாழ் வளர்ப்புக் கற்பித்தல் மீன் குளம்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 மலேசிய இரவு உணவுத் தட்டில் உள்ள பெரும்பாலான மீன் இன்னும் கடலில் இருந்தே வருகிறது — ஆனால் இப்போது வேகமாக வளரும் ஒரு பங்கு ஒரு குளம், ஒரு கூண்டு அல்லது ஒரு நீள்-கயிறு மிதவையிலிருந்து வருகிறது. அதுதான் நீர்வாழ் வளர்ப்பு: காட்டில் நீந்துவதைப் பிடிப்பதற்குப் பதிலாக, நீர்வாழ் உயிர்களை வேண்டுமென்றே வளர்த்தல். மலேசியாவின் காட்டுப் பிடிப்பு மேட்டுநிலையை எட்டவும், புரதத்திற்கான தேவை உயரவும், நீர்வாழ் வளர்ப்பு மீனை மேசையில் வைத்திருப்பதற்கான நாட்டின் முக்கிய நெம்புகோலாக மாறியுள்ளது. இக்கட்டுரை, வணிகத்தின் வளர்க்கப்பட்ட பக்கத்தை ஆழமாகப் பார்க்கிறது; மீன்பிடிக் கப்பல் படை, மீனவர் நலன் மற்றும் அமலாக்கம் உள்ளிட்ட பரந்த படத்திற்கு, [மீன்வளத் தொழில் மேலோட்டத்தைப்](/ta/agriculture/malaysian-fisheries-industry/) பார்க்கவும்.

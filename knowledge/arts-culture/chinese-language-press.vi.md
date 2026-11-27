@@ -33,7 +33,7 @@ faq:
     a: "Phù hợp với xu thế của ngành báo toàn cầu, lượng phát hành bản in của báo tiếng Hoa Malaysia nhìn chung sụt giảm trong hai thập niên gần đây, với người đọc — nhất là thế hệ trẻ — ngày càng tiếp cận tin tức qua điện thoại di động và internet. Do đó các tờ báo đã phát triển các nền tảng số như trang tin tức, báo điện tử và ứng dụng di động, với một phần nội dung cũng được lan truyền trên mạng xã hội. Liệu bản in có biến mất hoàn toàn hay không, và khi nào, vẫn còn chưa chắc chắn, và bài viết này không đưa ra dự đoán."
 
 lang: "vi"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'Tòa nhà văn phòng màu trắng của nhật báo tiếng Hoa Sin Chew Daily ở Miri, tên của báo được ghi bằng chữ tiếng Anh và chữ Hán trên mặt tiền và tường cổng.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: Trang nhất thời kỳ đầu của nhật báo tiếng Hoa Penang Kwong Wah Yit Poh, tiêu đề bằng chữ Hán và tiếng Anh, xếp giữa những trang báo tiếng Hoa cũ khác.
+    kind: actual
+    origin: third-party
+    subject: Trang nhất của Kwong Wah Yit Poh, nhật báo tiếng Hoa lâu đời nhất Malaysia (Penang)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: Văn phòng Nanyang Siang Pau ở Johor Bahru, mặt tiền mang tên tờ báo bằng chữ Hán màu xanh lá và chữ La-tinh phía trên một cửa hàng.
+    kind: actual
+    origin: third-party
+    subject: Văn phòng báo Nanyang Siang Pau với bảng hiệu tiêu đề báo, Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 Trong quán kopitiam (tiệm cà phê) buổi sớm, một tờ báo tiếng Hoa mở rộng thường được đặt cạnh một tách cà phê. Người đọc lật qua những tin lớn trong và ngoài nước ở trang nhất, rồi thường đi thẳng đến trang mình quen thuộc nhất — có người xem trước tin địa phương về trường tiểu học Hoa nào lại tổ chức hội chợ gây quỹ, có người lật phụ san (mục văn nghệ) và trang bình luận, cũng có người chỉ cần mục cáo phó, rao vặt và kết quả xổ số. Với nhiều người Hoa Malaysia, báo tiếng Hoa không chỉ là tin tức mà còn là một thói quen đọc tiếng Hoa diễn ra mỗi ngày.

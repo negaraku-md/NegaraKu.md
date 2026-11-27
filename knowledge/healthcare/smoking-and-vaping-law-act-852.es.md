@@ -30,7 +30,7 @@ faq:
     a: "No. La Act 852 prohíbe la venta de todos los productos de tabaco y vapeo a través de plataformas en línea y máquinas expendedoras."
 
 lang: "es"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Act 852", "control del tabaco", "vape", "tabaco", "nicotina", "edad mínima para fumar", "generational endgame", "zona de prohibición de fumar"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'Un cartel de prohibido fumar en malayo, chino e inglés (Dilarang Merokok / No Smoking) en Malasia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: Un cartel de prohibido fumar colocado en una pared dentro de un restaurante en Johor Bahru, Malasia, que señala un local libre de humo
+    kind: actual
+    origin: third-party
+    subject: Un aviso de prohibido fumar expuesto en un restaurante en Johor Bahru, Malasia
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: Un primer plano de una mano que sostiene un dispositivo vape cerca de la boca de una persona, que ilustra el uso de cigarrillos electrónicos regulado por la ley
+    kind: representative
+    origin: third-party
+    subject: Una persona sosteniendo un dispositivo de cigarrillo electrónico (vape)
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 Por primera vez, un cigarrillo y un dispositivo de vapeo están sujetos a la misma ley en Malasia — y la prohibición de vender a adolescentes ya no es una mera política, sino un delito castigado con multas de miles de ringgit.

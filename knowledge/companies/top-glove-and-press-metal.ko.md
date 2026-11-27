@@ -32,7 +32,7 @@ faq:
     a: "그렇습니다. 둘 다 Bursa Malaysia 메인마켓에서 거래됩니다. Top Glove는 추가로 싱가포르 거래소(Singapore Exchange) 메인보드에도 상장되어 있습니다."
 
 lang: "ko"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: '젖은 파란 라텍스를 입힌 손 모양 성형틀이 줄지어 매달려 아래 파란 액체 트레이로 떨어지는 장갑 생산 라인의 근접 촬영, 뒤로 성형틀에 갓 담근 흰 장갑이 있는 모습'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: 흰 실험복과 보안경, 파란 니트릴 장갑을 착용한 기술자가 물을 채운 투명 검사용 장갑을 들어 올려 누수를 점검하고 있고, 뒤로는 실험실 검사 거치대에 장갑들이 걸려 있다
+    kind: representative
+    origin: third-party
+    subject: 실험실에서의 일회용 의료 장갑 품질 검사 (장갑 산업의 품질 시험을 보여주는 예시이며 Top Glove 시설이 아님)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 두 말레이시아 회사가 각자의 분야에서 세계를 선도합니다. 하나는 세계 최대의 일회용 장갑 제조사이고, 다른 하나는 동남아시아 최대의 1차 알루미늄 제련사입니다. 둘 다 투자업계 밖에서는 널리 알려진 이름이 아니지만, Top Glove와 Press Metal은 중견 규모의 경제가 어떻게 단일 부문 세계 선도 기업을 배출할 수 있는지를 보여 줍니다.

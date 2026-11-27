@@ -68,6 +68,32 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'Pintu gerbang berlengkung megah Istana Negara, bermahkotakan dua kubah bawang emas kembar dan pintu pagar bersalut emas yang membawa jata diraja, berdiri di hadapan langit biru cerah.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: Pemandangan siang yang luas Istana Negara Malaysia, sebuah kompleks panjang berwarna krim dan putih dimahkotai kubah bawang emas yang terletak di atas tanah tinggi berlandskap di belakang pagar sempadan.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara di Jalan Tuanku Abdul Halim, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: Bekas Istana Negara, sebuah istana berwarna krim yang anggun dengan kubah menonjol dan fasad bergerbang di tengah kehijauan tropika, bekas istana negara Malaysia yang kini dipelihara sebagai Muzium Diraja.
+    kind: actual
+    origin: third-party
+    subject: Bekas Istana Negara di Jalan Istana, Kuala Lumpur, kini Muzium Diraja
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 Malaysia mempunyai tiga belas negeri, tetapi hanya sembilan daripadanya mempunyai Raja pemerintah. Empat negeri yang lain — Melaka, Pulau Pinang, Sabah dan Sarawak — diketuai oleh Yang di-Pertua Negeri yang dilantik, bukan oleh seorang Raja.

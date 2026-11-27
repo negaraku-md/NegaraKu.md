@@ -32,7 +32,7 @@ faq:
   - q: "Quels sont les quatre jours du Thai Pongal ?"
     a: "Bhogi (se débarrasser du vieux et nettoyer la maison), Thai Pongal ou Surya Pongal (rendre grâce au Soleil et offrir le pongal), Mattu Pongal (honorer le bétail qui aide au labour) et Kaanum Pongal (rendre visite aux proches et sortir se promener) — voilà les quatre jours."
 lang: "fr"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Le premier jour du mois tamoul de Thai — dans le calendrier grégorien, généralement à la mi-janvier (le 14 ou le 15)."
   holiday: "Ce n'est pas un jour férié inscrit au journal officiel, ni au niveau fédéral ni dans aucun État de Malaisie. (Seul Deepavali est un jour férié fédéral — à l'exception du Sarawak ; Thaipusam n'est férié que dans certains États.)"
   etiquette: "Il s'agit avant tout d'une fête culturelle liée aux récoltes, de nature non religieuse (un ministre malaisien l'a précisé en 2020) ; les organisations communautaires et les temples préparent ensemble le pongal dans de nombreux pots et organisent des célébrations publiques accompagnées de spectacles artistiques."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'Une femme souriante en sari violet et or remue du riz Pongal fumant dans un pot en terre cuite ceint d''une guirlande de soucis, cuisinant en plein air dans un temple hindou pendant le Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: Un grand kolam de Pongal coloré tracé à la poudre colorée sur le sol, représentant des tiges de canne à sucre, des fleurs vives et une marmite de fête débordante, devant le portail d'une maison
+    kind: representative
+    origin: third-party
+    subject: Kolam de Pongal coloré avec canne à sucre, fleurs et motif de marmite débordante dans une rue
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: Deux marmites rondes en argile aux bords rouges, peintes à la main en blanc de motifs colorés en zigzag et à pois, préparées pour cuire le Pongal pendant la fête des moissons
+    kind: representative
+    origin: third-party
+    subject: Deux marmites en argile peintes à la main pour le Pongal, décorées pour la fête des moissons
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 À l'aube où commence le mois de Thai, les cours et les seuils des familles

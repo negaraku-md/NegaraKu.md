@@ -61,7 +61,7 @@ sources:
 entity: "Financial Services Act 2013"
 wikidata: "Q28163620"
 relations: []
-related: []
+related: ["bank-negara-malaysia", "securities-commission-malaysia", "consumer-credit-act-2025"]
 keywords: ["Financial Services Act 2013", "قانون الخدمات المالية 2013", "FSA 2013", "FSA Malaysia", "Act 758", "التنظيم المالي بنك نيغارا ماليزيا", "تنظيم المؤسسات المالية ماليزيا", "حماية المستهلك الخدمات المالية ماليزيا", "عقوبة العمل المالي غير المرخّص ماليزيا", "IFSA 2013", "تنظيم أنظمة الدفع ماليزيا"]
 framework: explainer
 ---

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "총리실(Prime Minister's Department)이 실제로 무엇인지, 왜 서로 무관해 보이는 그렇게 많은 연방 기관이 그 산하에 있는지, 그리고 그것이 일반 부처와 어떻게 다른지를 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,34 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: '푸트라자야의 극적인 구름 낀 하늘 아래, 말레이시아 총리실 소재지인 돔을 인 퍼르다나 푸트라 건물'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: 진입 대로에 말레이시아 국기가 늘어선 Perdana Putra의 대칭형 정면 전경
+    kind: actual
+    origin: third-party
+    subject: 의전 대로에서 바라본 Perdana Putra의 정면 외관, 푸트라자야
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: 푸트라자야의 가로수가 늘어선 의전 대로 위로 솟은 Perdana Putra의 녹색 돔
+    kind: actual
+    origin: third-party
+    subject: 조경된 진입로를 따라 바라본 Perdana Putra, 푸트라자야
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 말레이시아에는 나라의 일상적 정책 기구를 운영하는 단일 부처가 없습니다. 대신 하나의 부처가 있는데 — 그 부처는 대부분의 부처를 합친 것보다 큽니다.

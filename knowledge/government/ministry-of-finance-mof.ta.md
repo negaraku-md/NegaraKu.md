@@ -27,7 +27,7 @@ faq:
   - q: "நிதி அமைச்சை யார் தலைமை தாங்குகிறார்?"
     a: "ஆகஸ்ட் 2026 நிலவரப்படி, நிதி அமைச்சர் Dato' Seri Anwar bin Ibrahim ஆவார், நிதி அமைச்சர் II Datuk Seri Amir Hamzah bin Azizan மற்றும் கருவூலப் பொதுச் செயலாளர் Datuk Johan Mahmood bin Merican ஆவர். அமைச்சரவை மறுசீரமைப்புகளுடன் பதவி வகிப்போர் மாறுவதால், தற்போதைய பெயர்களை mof.gov.my-இல் சரிபார்க்கவும்."
 lang: "ta"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -71,6 +71,33 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'ஒரு அருவி நீர் அமைப்பின் அக்கரையிலிருந்து காணப்படும், Putrajaya-வில் உள்ள மலேசிய நிதி அமைச்சுக் கட்டிடத்தின் வளைந்த குழிவான முகப்பு'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Perbendaharaan Malaysia Federal Treasury பலகை மற்றும் MOF சின்னத்தைக் காட்டும் நிதி அமைச்சகக் கட்டிடத்தின் சாய்வுக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: '''Perbendaharaan Malaysia / Federal Treasury'' பலகையுடன் கூடிய நிதி அமைச்சகக் கட்டிடம், புத்ராஜெயா'
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: புத்ராஜெயாவில் உள்ள மலேசிய நிதி அமைச்சகக் கட்டிடத்தின் வளைவு முகப்பின் முன்புறக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: நிதி அமைச்சகக் கட்டிடத்தின் முன்புறமும் முற்றமும், புத்ராஜெயா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 கூட்டரசு அரசாங்கம் திரட்டி செலவிடும் ஒவ்வொரு ரிங்கிட்டும் ஒரே நிறுவனத்தின் வழியாகக் கடந்து செல்கிறது: நிதி அமைச்சு. இது அரசாங்கச் செலவு மற்றும் வருவாய் திரட்டல் ஆகிய இரண்டுக்கும் பொறுப்பான மலேசிய அரசாங்கத்தின் அமைச்சு ஆகும் — இது பொருளாதாரக் கொள்கையை வகுக்கிறது, மலேசியக் கூட்டரசுப் பட்ஜெட்டைத் தயாரிக்கிறது, மேலும் நிதிசார் சட்டங்களையும் ஒழுங்குமுறையையும் மேற்பார்வையிடுகிறது. மலாய் மொழியில் இது Kementerian Kewangan, அதன் மைய இயந்திரம் கூட்டரசுக் கருவூலம் அல்லது Perbendaharaan ஆகும். இந்தப் பக்கம் இந்த நிறுவனத்தை விளக்கி, பின்னர் மக்கள் “MOF பதிவு” எனத் தேடும்போது குறிப்பிடும் தனியான விஷயத்திலிருந்து அதைப் பிரித்துக் காட்டுகிறது.

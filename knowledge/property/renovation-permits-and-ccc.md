@@ -67,9 +67,35 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'Bahagian dalam sebuah rumah teres dua tingkat yang sedang diubah suai di Selangor, Malaysia, dengan rumah jiran kelihatan melalui pintu.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: Dinding bersalut simen dengan bukaan tingkap yang baru dibentuk dan beg bahan binaan semasa pengubahsuaian rumah teres di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Dinding yang baru diplaster dan bukaan tingkap baharu semasa pengubahsuaian rumah teres di Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: Sebuah tong logam besar penuh dengan cebisan kayu dan serpihan binaan di luar sebuah rumah teres di Malaysia yang sedang diubah suai
+    kind: representative
+    origin: third-party
+    subject: Tong sampah besar berisi serpihan pembinaan di tapak pengubahsuaian rumah teres di Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 Anda mahu tambah dapur di belakang rumah atau naik tingkat — dan tiba-tiba jiran kata "kena mohon kat majlis dulu". Betulkah? Untuk kebanyakan kerja ubah suai, ya.

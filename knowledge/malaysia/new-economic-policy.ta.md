@@ -23,7 +23,7 @@ appliesTo: "புதிய பொருளாதாரக் கொள்கை
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'இளஞ்சிவப்பு குவிமாடம் கொண்ட புத்ரா மசூதியும், கம்பீரமான பெர்டானா புத்ரா நிர்வாக வளாகமும், மலேசியாவின் திட்டமிட்டுக் கட்டப்பட்ட கூட்டாட்சித் தலைநகரான புத்ராஜெயாவில் அமைதியான ஏரியைப் பார்த்தபடி அமைந்துள்ளன.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: கம்பிகளால் தாங்கப்பட்ட Jambatan Seri Wawasan-இன் வெண்ணிற, பாய்மர வடிவத் தூண் Putrajaya ஏரியின் அமைதியான நீருக்கு மேல் உயர்கிறது, எஃகுக் கம்பிகள் அதன் தளத்தை நோக்கி விசிறி போல் விரிகின்றன.
+    kind: actual
+    origin: third-party
+    subject: கூட்டாட்சி நிர்வாகத் தலைநகரில், Putrajaya ஏரிக்கு மேல் அமைந்த Jambatan Seri Wawasan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: Isfahan-ஆல் உந்தப்பட்ட Jambatan Putra, Putrajaya ஏரியை வளைந்து கடக்கிறது, ஓடு பதித்த மினாரட் போன்ற தூண்களும் கூர்மையான வளைவுகளும் நீல வானத்தின் கீழ் நீரில் பிரதிபலிக்கின்றன.
+    kind: actual
+    origin: third-party
+    subject: கூட்டாட்சி நிர்வாகத் தலைநகரில், Putrajaya ஏரிக்கு மேல் அமைந்த Jambatan Putra (புத்ரா பாலம்)
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 புதிய பொருளாதாரக் கொள்கை (New Economic Policy, NEP) பொதுவாக ஒரே ஒரு சொல்லில் — "மறுசீரமைப்பு" (restructuring) — நினைவுகூரப்படுகிறது, அன்றிலிருந்து அதைப் பற்றிய விவாதங்கள் தொடர்ந்து வருகின்றன. ஆனால் இக்கொள்கை தனது நோக்கங்களைப் பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்ட ஓர் அரசாங்கத் திட்டத்தில், எழுத்துப்பூர்வமாக அறிவித்தது; அந்த நோக்கங்கள் ஒன்று அல்ல, இரண்டு; அவை இரண்டையும் விட மேலான மூன்றாவது கருத்தொன்றும் இருந்தது. இந்தக் கட்டுரை, ஆவணங்கள் கூறும் வரிசையிலேயே அவை கூறுவதை விவரிக்கிறது.

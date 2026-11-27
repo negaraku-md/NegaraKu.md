@@ -71,9 +71,36 @@ entity: "Gelanggang sukan utama Malaysia"
 relations:
   - { rel: "administered-by", to: "perbadanan-stadium-malaysia" }
   - { rel: "related-to", to: "kl-sports-city" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "malaysia-cup-domestic-football-leagues"]
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: 'Gerbang pintu masuk kelabu dan putih yang megah Stadium Nasional Bukit Jalil, dipuncaki tulisan STADIUM BUKIT JALIL, gerbang tabir tebuk gaya Moornya membingkai mangkuk stadium di belakang di bawah langit mendung'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: Pedalaman luas Stadium Nasional Bukit Jalil pada waktu malam, bumbung tegangan putihnya yang melengkung disinari di atas penonton sepenuh dewan mengelilingi padang hijau dan trek larian merah
+    kind: actual
+    origin: third-party
+    subject: mangkuk pedalaman dan bumbung tegangan Stadium Nasional Bukit Jalil penuh sesak untuk perlawanan pada waktu malam
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: Fasad bilah perak Axiata Arena di Bukit Jalil, membawa nama dan logo arena Axiata di atas pintu masuk kaca melengkungnya, diapit pokok muda di bawah langit kelabu
+    kind: actual
+    origin: third-party
+    subject: luaran Axiata Arena, arena tertutup Kompleks Sukan Negara di Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 Apabila 85,500 penonton memenuhi lengkung tiga tingkat TM Stadium Nasional pada malam final bola sepak, mereka sedang duduk di dalam simbol paling besar infrastruktur sukan Malaysia — tetapi ia hanyalah satu daripada beberapa gelanggang yang menanggung acara utama negara.

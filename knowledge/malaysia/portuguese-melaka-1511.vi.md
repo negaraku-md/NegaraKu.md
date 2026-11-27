@@ -19,7 +19,7 @@ keyTakeaways:
   - "Hậu duệ của Vương triều Melaka nối lại nền cai trị ở Johor Lama vào năm 1528 và triều đại đó tồn tại đến năm 1699"
 appliesTo: "Độc giả muốn hiểu các nguyên nhân kỹ thuật và chính trị đằng sau sự thất thủ của Melaka năm 1511, và điều gì đã xảy ra với các định chế cùng hoàng tộc Melaka sau khi thành đó mất."
 lang: "vi"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: 'Cổng đá Porta de Santiago đổ nát của pháo đài A Famosa ở Melaka, bức tường laterit và vữa phong hóa phía trên là một tháp canh nhỏ đang sụp đổ, một khẩu đại bác đồng cũ đặt trên bệ gạch phía trước.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: Những bức tường đá laterit không mái và các ô cửa sổ trống rỗng của phế tích Nhà thờ St Paul năm 1521 đứng trên đỉnh đồi St Paul ở Melaka dưới bầu trời rộng mở.
+    kind: actual
+    origin: third-party
+    subject: Phế tích Nhà thờ St Paul trên đồi St Paul, Melaka
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: Cổng vào màu kem của Quảng trường Bồ Đào Nha, hai bên là các tòa nhà mái ngói đất nung và biển hiệu nhà hàng, mở ra một khoảng sân trong Khu định cư Bồ Đào Nha ở Melaka.
+    kind: actual
+    origin: third-party
+    subject: Quảng trường Bồ Đào Nha trong Khu định cư Bồ Đào Nha (Kampung Portugis), Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 Mười ngày. Đó là khoảng cách giữa việc đạo quân Bồ Đào Nha đến vùng biển Melaka vào ngày 10 tháng 8 năm 1511 và thời khắc thành đó đổi chủ vào ngày 24 tháng 8.

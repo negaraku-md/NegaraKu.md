@@ -32,7 +32,7 @@ faq:
     a: "基督教家庭透过教堂仪式以宗教方式庆祝这一天。除此之外，圣诞节也更广泛地体现在公共生活之中——商场与酒店挂上装饰、推出季节性促销，而邀请任何背景的宾客共享美食的开放门户传统也十分普遍。参与这个季节较为社会性、广泛的一面，并不局限于基督教徒。"
 
 lang: "zh"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,34 @@ festivalFacts:
   when: "圣诞节在每年 12 月 25 日，装饰与零售节期大约自 11 月下旬开始。"
   holiday: "圣诞节（12 月 25 日）是全国各州与联邦直辖区的公共假期（半岛依据 1951 年假期法令（Act 369）第一附表；沙巴与砂拉越则依州法令）。沙巴另依《沙巴假期条例》（Cap. 56）将平安夜（12 月 24 日）宪报公布为州公共假期。"
   etiquette: "招待任何背景客人共进一餐的开放门户（open house）传统，如同其他节日一样也适用于圣诞节；设宴的基督徒家庭通常欢迎其他信仰的客人，而在整个节庆历中，互访是双向进行的。"
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: '一棵高耸的圣诞树装饰华丽，矗立于吉隆坡Pavilion商场中庭，四周环绕悬挂的金色灯笼、旋转木马和红毯上熙攘的购物人群'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: 吉隆坡一家购物商场里一组精致的糖果乐园圣诞布置，有红白薄荷旋纹舞台、姜饼屋和一排排挂满彩灯的圣诞树，矗立在人群上方
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡一家商场里以姜饼屋和亮灯圣诞树布置的糖果乐园主题圣诞景观
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: 吉隆坡市中心白墙红瓦的圣玛利亚圣公会座堂（St Mary's Anglican Cathedral），山墙上立着十字架，前方有一面马来西亚国旗，背后耸立着现代办公大楼
+    kind: actual
+    origin: third-party
+    subject: 圣玛利亚圣公会座堂，吉隆坡市中心一座历史悠久的白色教堂
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 12月24日傍晚，亚庇或古晋的一座教堂挤满了参加深夜仪式的信众，而在几百公里外的马来西亚半岛，同一天却只是普通的星期四工作日。到了隔天早上，也就是12月25日，全国都放假了。这种分野——同一个日期，两种截然不同的地位——是理解圣诞节在马来西亚所处位置最简明的方式：对某一个社群而言是宗教节日，对所有人而言是公共假期，也是一个不分信仰、许多人都参与其中的敞开门户的季节。

@@ -34,7 +34,7 @@ faq:
     a: "Oui, certaines le sont, dans le cadre du programme Pupil's Own Language (POL) du ministère de l'Éducation, généralement comme matière optionnelle. Le kadazandusun est enseigné dans les écoles publiques du Sabah depuis un projet pilote lancé en 1997, et l'iban est enseigné dans les écoles du Sarawak. La disponibilité dépend de la demande et de l'atteinte de l'effectif minimal de classe fixé par la politique en vigueur."
 
 lang: "fr"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,32 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'Une longue maison communautaire (longhouse) iban en bois, surélevée sur des pilotis en bois le long d''un versant boisé au-dessus d''une rivière au Sarawak, l''habitation communautaire d''une communauté dayak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: Des jeunes en costume kadazan noir et or et chapeaux coniques, tenant des instruments en bambou, lors d'un événement culturel en plein air à Sabah
+    kind: actual
+    origin: third-party
+    subject: La communauté Kadazan Tangara en tenue traditionnelle lors d'une célébration des moissons Kaamatan à Papar, Sabah
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: Un homme et une femme en tenue cérémonielle Orang Ulu et coiffes de perles, debout devant un mur peint de motifs tourbillonnants de Bornéo
+    kind: actual
+    origin: third-party
+    subject: Un couple Orang Ulu en tenue traditionnelle devant une fresque peinte de maison longue, Sarawak
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 Survolez l'intérieur de Bornéo et vous traverserez plus de langues en une heure que la plupart des pays n'en comptent au total. Une vallée fluviale dans les hautes terres du Sabah, une maison longue sur le haut Baram au Sarawak, un village de pêcheurs sur la côte : chacun peut vous saluer dans une langue que la vallée voisine comprend à peine.

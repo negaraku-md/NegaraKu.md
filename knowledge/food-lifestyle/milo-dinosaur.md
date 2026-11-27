@@ -99,6 +99,14 @@ drinkFacts:
   halal: "As normally made, the Milo dinosaur is halal: a non-alcoholic drink of Milo powder, milk and water over ice, with no meat or alcohol. Milo sold in Malaysia is certified halal by Nestle Malaysia under JAKIM, and the drink is a staple at mamak (Indian-Muslim) stalls, which are typically halal. As with any stall food, the assurance rests on the specific premises and ingredients."
   served: "Served cold in a tall glass, over ice, crowned with a spoonful of dry Milo powder — and sometimes a straw pushed through the heap. The richer Milo godzilla is the same drink topped with a scoop of ice cream and/or whipped cream; 'Milo tabur' (Malay for 'sprinkled') is another name for the powder-heaped version. A Milo kosong is made without added sugar."
   where: "Mamak stalls, kopitiam (coffee shops), pasar malam drink carts and food courts across Malaysia, and widely in Singapore too. It is an everyday, inexpensive order rather than a specialty-cafe drink, found wherever Milo is on the board."
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A glass of iced Milo topped with a thick mound of undissolved Milo powder"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 Order a Milo at a Malaysian mamak and you get a cold, sweet, chocolatey drink.

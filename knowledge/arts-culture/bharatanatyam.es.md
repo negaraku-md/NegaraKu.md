@@ -32,7 +32,7 @@ seoTitle: "Bharatanatyam en Malasia: la danza clásica explicada"
 socialTitle: "Cómo la danza clásica del sur de la India arraigó en Malasia"
 
 lang: "es"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,34 @@ relations:
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
+hero: '/media/arts-culture/bharatanatyam/hero.webp'
+heroAlt: 'Una bailarina de Bharatanatyam con traje de seda naranja y dorado, joyas de templo y flores de jazmín, desciende a una postura sentada baja, con un brazo extendido hacia adelante y la palma alzada en un mudra, la mirada expresiva siguiendo su mano sobre un fondo oscuro.'
+heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: Una joven bailarina de Bharatanatyam con un traje de seda rosa y dorado, cascabeles en los tobillos y joyas de templo se mantiene en equilibrio sobre una pierna, con ambas manos alzadas en mudras en forma de tijera junto a la cabeza, sonriendo ante un escenario oscuro y sobrio.
+    kind: representative
+    origin: third-party
+    subject: Joven bailarina de Bharatanatyam sosteniéndose sobre una pierna con ambas manos en mudra junto a la cabeza
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: Una bailarina de Bharatanatyam con blusa negra y un drapeado de seda roja y dorada gira a media zancada, con un brazo curvado en alto sobre la cabeza y el otro señalando a través del cuerpo, su falda plisada abriéndose ante un fondo negro.
+    kind: representative
+    origin: third-party
+    subject: Bailarina de Bharatanatyam captada a media vuelta con un brazo alzado y la falda ondeando
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 Los pies de una bailarina golpean el suelo en un patrón rápido y preciso. Los cascabeles suenan al compás del latido de un tambor mridangam. Sus manos forman una figura — un ciervo, un loto, una pregunta — y sus ojos la siguen antes de que su rostro responda con una emoción que el público ha de sentir, no solo contemplar. Entonces el ritmo se resuelve, ella sostiene una pose escultórica, y la música cae en silencio.

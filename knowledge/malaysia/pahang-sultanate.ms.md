@@ -21,7 +21,7 @@ appliesTo: "Pembaca yang menjejaki cara wangsa diraja Melayu pantai timur Malays
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "Tarikh tepat pertabalan Wan Ahmad sebagai sultan diberikan secara tidak konsisten merentasi sumber — gelaran itu disandang pada 1881, dengan pengisytiharan rasmi dilaporkan pada 8 September 1881 dan satu pertabalan rasmi kemudian ditarikhkan kepada 1884; urutan tepatnya harus disahkan dengan sumber ilmiah seperti A History of Pahang karya Linehan."
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: 'Sebuah istana zaman kolonial putih yang megah dengan bumbung berjubin merah dan tulisan Jawi di atas pintu masuk melengkungnya, terbayang di permukaan kolam pantulan yang tenang yang diapit arca bangau di bawah langit mendung.'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: Masjid Negeri Sultan Ahmad Shah di Kuantan, dimahkotai kubah utama yang besar dan diapit menara yang tinggi, dilihat dari pandangan hadapan penuh.
+    kind: actual
+    origin: third-party
+    subject: Masjid Negeri Sultan Ahmad Shah, Kuantan, Pahang
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: Sebuah bangunan putih era kolonial yang simetri dengan bumbung berjubin merah dan pintu tengah melengkung, terbayang pada kolam pantulan yang tenang berhias arca bangau, menempatkan Muzium Sultan Abu Bakar di Pekan.
+    kind: actual
+    origin: third-party
+    subject: Muzium Sultan Abu Bakar (bekas istana diraja), Pekan, Pahang
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 Di sepanjang Sungai Pahang, di mana bandar diraja lama Pekan masih duduk berhampiran muara sungai, satu takhta yang telah sunyi selama dua abad diangkat semula. Pada 1881 ketua-ketua Pahang berhimpun bukan untuk menobatkan orang asing tetapi untuk memulihkan satu gelaran yang pernah dimiliki tanah mereka — dan lelaki yang mereka tabalkan sebagai sultan telah memenangi hak itu dengan susah payah, dengan menewaskan saudara seayahnya sendiri dalam satu perang yang panjang dan pahit. Inilah kisah bagaimana mahkota Pahang hilang di dalam sebuah empayar yang lebih besar, dan bagaimana anak seorang menteri besar membawanya kembali.

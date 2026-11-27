@@ -41,7 +41,7 @@ verificationNeeded:
   - "Porsi Kuala Lumpur dari PDB negara sebagai persentase yang diterbitkan — DOSM menerbitkan nilai ringgit dan peringkat tetapi bukan porsi KL secara langsung"
 
 lang: "id"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,6 +110,34 @@ keywords:
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
 framework: profile
+hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
+heroAlt: 'Gugusan rapat gedung pencakar langit perkantoran pusat bisnis Kuala Lumpur dilihat dari atas, dengan Menara Kembar Petronas menjulang di tepi kiri'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: Menara perkantoran Mercu UEM berbahan kaca biru yang ramping di Kuala Lumpur dengan kereta monorel merah melintasi jalur layang di latar depan di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM, menara perkantoran korporat berbahan kaca di kawasan bisnis KL Sentral, dengan kereta monorel melintas di depannya
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: Atap melengkung stasiun KL Sentral di latar depan dikelilingi menara perkantoran dan hotel kawasan bisnis KL Sentral di bawah langit berawan
+    kind: actual
+    origin: third-party
+    subject: Pusat transportasi KL Sentral dan kelompok menara perkantoran di sekelilingnya di kawasan bisnis KL Sentral Kuala Lumpur
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 Kuala Lumpur adalah satu-satunya tempat di Malaysia di mana Anda dapat membaca fi lisensi

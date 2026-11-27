@@ -18,7 +18,7 @@ keyTakeaways:
   - "มันถูกอธิบายโดยองค์กรที่ปรึกษาของยูเนสโกว่าเป็นภูเขาที่สูงที่สุดในบริเวณระหว่างเทือกเขาหิมาลัยกับนิวกินี และเป็นที่อยู่ของพืชมีท่อลำเลียงประมาณ 5,000-6,000 ชนิดรวมถึงกล้วยไม้ราว 1,000 ชนิด"
 appliesTo: "ผู้อ่านที่ต้องการความสูงที่ผ่านการตรวจสอบและสถานะพื้นที่คุ้มครองของภูเขาคินาบาลู และคำอธิบายที่ตรงไปตรงมาว่าเหตุใดภูเขาหินแกรนิตในซาบาห์จึงอายุน้อยมากในทางธรณีวิทยา"
 lang: "th"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,32 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'ยอดเขาหินแกรนิตสีเทากว้างใหญ่ของภูเขาคินาบาลู สันเขาเต็มไปด้วยยอดหินแหลมคม ตั้งตระหง่านเหนือเนินเขาที่ปกคลุมด้วยป่าเขียวขจีและแนวต้นไม้ ภายใต้ท้องฟ้าสีครามสดใส'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: ยอดหินแกรนิตสีเทาที่เปลือยเปล่าและขรุขระของโลวส์พีก ซึ่งเป็นจุดสูงสุดของภูเขาคินาบาลู ตั้งตระหง่านขึ้นอย่างชันตัดกับท้องฟ้าแจ่มใสเหนือที่ราบสูงยอดเขาอันแห้งแล้ง
+    kind: actual
+    origin: third-party
+    subject: ยอดโลวส์พีก (Low's Peak) สูง 4,095 เมตร ยอดสูงสุดของภูเขาคินาบาลู รัฐซาบาห์
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: ภาพระยะใกล้ของกระเปาะดักแมลงสีส้มแดงทรงกลมที่มีสันร่องลึกของพืชกินแมลง Nepenthes villosa ปากกระเปาะมีขอบหยักคล้ายฟันล้อมรอบ เติบโตอยู่ในป่าที่สูงอันปกคลุมด้วยหมอกของอุทยานคินาบาลู
+    kind: actual
+    origin: third-party
+    subject: หม้อข้าวหม้อแกงลิงชนิด Nepenthes villosa พืชกินแมลงที่พบเฉพาะถิ่นบนที่สูงของภูเขาคินาบาลู ในอุทยานคินาบาลู
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 เป็นเวลาหลายทศวรรษ หนังสืออ้างอิงทุกเล่มให้ตัวเลขเดียวกัน คือ ภูเขาคินาบาลู ยอดเขาที่สูงที่สุดของมาเลเซีย สูง 4,101 เมตรเหนือระดับน้ำทะเล จากนั้นในปี 1997 ทีมสำรวจชี้ดาวเทียมไปที่ยอดแทนกล้องธีโอโดไลต์ และตัวเลขเปลี่ยนไป ไม่ใช่ด้วยความคลาดเคลื่อนจากการปัดเศษ แต่ด้วยหกเมตร ภูเขาไม่ได้หดตัว การวัดเก่าเพียงแค่ผิด และไม่มีใครมีเครื่องมือพิสูจน์จนกระทั่ง GPS ทำให้การแก้ไขเป็นไปได้

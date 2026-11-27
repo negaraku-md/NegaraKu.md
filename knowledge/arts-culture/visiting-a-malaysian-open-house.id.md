@@ -33,7 +33,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["etiket rumah terbuka Malaysia", "tata krama rumah terbuka", "tamu rumah terbuka Malaysia", "etiket rumah terbuka Hari Raya", "apa yang dikenakan di rumah terbuka Malaysia", "duit raya ang pow tamu", "etiket rumah halal Malaysia", "adat mengunjungi rumah Malaysia"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'Pemandangan dari atas hidangan pesta Hari Raya yang terbentang di atas meja, dengan panci rendang daging sapi dan kari sayur, sepiring sambal, serta piring-piring selongsong ketupat anyaman dan nasi himpit yang diiris.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: Tamu berbusana batik dan baju kurung tersenyum dan berjabat tangan memberi salam di ambang pintu sebuah open house Hari Raya Idulfitri.
+    kind: representative
+    origin: third-party
+    subject: Tamu bersalaman ramah dengan tuan rumah di sebuah open house Hari Raya Idulfitri
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: Seikat selongsong ketupat anyaman daun palem yang diikat bersama, sebuah sajian pokok keramahtamahan open house Lebaran Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Ketupat anyaman untuk Lebaran
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 Anda telah diundang ke sebuah *rumah terbuka* — open house. Mungkin itu Hari

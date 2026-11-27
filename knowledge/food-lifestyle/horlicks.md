@@ -82,6 +82,7 @@ drinkFacts:
   halal: "A milk-based, non-alcoholic drink; packaged Horlicks in Malaysia is generally produced to carry halal certification. The reliable check is the halal mark on the packaging, or the premises' certification for a stall-mixed drink — look for it rather than assume."
   served: "Served hot by default, or 'ais Horlicks' over ice. Typically sweetened with condensed or evaporated milk kopitiam-style; ask for less sweet if preferred. Sits beside Milo, kopi and teh on the coffee-shop board."
   where: "Found at kopitiam and mamak outlets across the country, and sold as a powder in shops and supermarkets for home-made cups."
+wikidata: "Q2719710"
 ---
 
 Beside the tin of Milo on every Malaysian coffee-shop shelf sits another malty

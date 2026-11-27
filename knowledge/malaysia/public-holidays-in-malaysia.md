@@ -80,6 +80,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Colourful fireworks bursting over the Petronas Twin Towers and the Kuala Lumpur city skyline at night.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: A large, vividly coloured peacock-shaped kolam made of coloured powder laid out on the floor for Deepavali at KL Sentral in Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: A Deepavali peacock kolam floor design at KL Sentral, Kuala Lumpur
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: Several brightly coloured lion-dance costume heads in pink, yellow and white cluster at a shopfront during a Malaysian Chinese New Year street celebration, with a red big-head performer among them.
+    kind: actual
+    origin: third-party
+    subject: Chinese New Year lion dance troupe in Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 Plan a trip, a product launch or a payroll run across Malaysia and you quickly discover something that catches outsiders off guard: a day that is a public holiday in Kuala Lumpur may be an ordinary working day in Kuching, and vice versa. Malaysia does not have one national holiday list so much as a national layer and thirteen state layers stacked on top of each other.

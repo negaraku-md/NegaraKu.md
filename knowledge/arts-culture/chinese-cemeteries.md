@@ -74,6 +74,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: '马六甲三宝山（Bukit China）墓葬山上，一座大型马蹄形的华人坟墓，刻有镀金碑文和雕花侧板，嵌在树木之间长满草的土丘中。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: 砂拉越一片草地上，成排铺砖的欧米茄形（马蹄形）华人坟墓，各有墓碑与供桌
+    kind: actual
+    origin: third-party
+    subject: 砂拉越古晋附近华人义山里铺砖的马蹄形华人坟墓
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: 清明扫墓时节，一座草坟上横放着一条条压着的彩色纸张，旁有墓碑
+    kind: representative
+    origin: third-party
+    subject: 武吉布朗坟场（Bukit Brown Cemetery）清明扫墓时，坟头压放的彩色挂纸
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 清明前后，天还没全亮，马六甲三宝山脚下已经停满了车。一家家人提着鲜花、香烛与祭品，沿着起伏的山坡走向自家祖坟。有人先在墓旁一方刻着「后土」的小石龛前上香，再转身清理先人的墓碑——除草、重描褪色的刻字，然后摆上供品。山坡上密密麻麻、坐向一致的坟墓，是一代又一代南来华人的安息之地。

@@ -33,7 +33,7 @@ faq:
     a: "अनिवार्य नहीं। कुछ परिवार पहले तांगयुआन से पूर्वजों या देवताओं को अर्पित करते हैं, फिर पूरा परिवार साथ खाता है; बहुत-से परिवार शीत संक्रांति को केवल तांगयुआन खाने और मिलकर बैठने का दिन मानते हैं, कोई पूजा नहीं करते। पूर्वज-पूजा और देव-पूजा जैसी रीतियाँ हर परिवार की आस्था और आदत के अनुसार अलग-अलग होती हैं। यह लेख केवल रीतियों का वर्णन करता है, किसी धार्मिक आस्था पर कोई निर्णय नहीं देता।"
 
 lang: "hi"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ festivalFacts:
   when: "चौबीस सौर-कालखंडों के अनुसार निश्चित, हर वर्ष ग्रेगोरियन 21 से 23 दिसंबर के आसपास (लगभग 22 दिसंबर) पड़ता है, जो वर्ष का सबसे छोटे दिन वाला दिन होता है।"
   holiday: "यह सार्वजनिक अवकाश नहीं है — मलेशिया में शीत संक्रांति देशव्यापी या किसी भी राज्य का सार्वजनिक अवकाश नहीं है।"
   etiquette: "चीनी लोग अधिकतर घर पर सादगी से मनाते हैं, पूरा परिवार साथ बैठकर tangyuan बनाता है और एक भोजन साझा करता है, न कि कोई बड़ा सार्वजनिक आयोजन करते हैं; कुछ परिवार पहले tangyuan से पूर्वजों और देवताओं की पूजा करते हैं फिर परिवार मिलकर खाता है, रीति परिवार और बोली-समूह के अनुसार भिन्न होती है।"
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'साफ़ मीठी चाशनी में तैरते हल्के गुलाबी, बैंगनी और पीले चिपचिपे चावल के गोलों का एक सफ़ेद कटोरा, जिसमें एक नीले किनारे वाला चीनी मिट्टी का चम्मच रखा है'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: सफ़ेद, बैंगनी और जेड-हरे रंग की चमकदार, अर्ध-पारदर्शी चिपचिपे चावल की लोइयों का एक निकट कटोरा स्पष्ट मीठे सूप में तैरता हुआ
+    kind: representative
+    origin: third-party
+    subject: शरबत के एक कटोरे में तैरती सफ़ेद, बैंगनी और हरे रंग की पारदर्शी क्रिस्टल-त्वचा वाली टांग युआन का निकट दृश्य
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: एक नीले-किनारे वाले कटोरे में गर्म शरबत में तैरती चार मोटी बैंगनी टांग युआन चिपचिपे चावल की लोइयों का ऊपर से दृश्य, भाप की लहरें उठती हुईं
+    kind: representative
+    origin: third-party
+    subject: गर्म शरबत में बैंगनी चिपचिपे चावल की लोइयों का एक कटोरा, ऊपर से देखा गया और भाप उठती हुई
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 दिसंबर के अंत की एक शाम, रसोई में चिपचिपे चावल के आटे की सुगंध अदरक के शोरबे की मिठास से घुल-मिल जाती है। पूरा परिवार मेज़ के चारों ओर बैठा है, चावल के आटे के छोटे-छोटे पिंडों को गोलियों में बदल रहा है — कुछ सफ़ेद, कुछ हल्के गुलाबी और हल्के हरे रंग में रंगी हुई। बच्चों के हाथ की गोलियाँ आकार में अलग-अलग हैं, और बड़े-बूढ़े गोलियाँ बनाते हुए कहते हैं: तांगयुआन खा लिया, तो एक वर्ष और बड़े हो गए। यही दिन शीत संक्रांति है।

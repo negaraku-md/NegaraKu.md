@@ -366,6 +366,30 @@ const knowledge = defineCollection({
       })
       .partial()
       .optional(),
+    /**
+     * Destination "plan your visit" quick-facts card — the 吃喝玩乐 study's 玩 (Play)
+     * move: the sourced bottom line for a Malaysian attraction / visitor destination
+     * (national parks, islands, hill stations, heritage cities). Sibling of
+     * dishFacts/drinkFacts/stayFacts for the tourism layer: who it is best for, how
+     * you get there, the durable permit/fee RULE, what to watch, and where to confirm
+     * current details. Same contract: all fields optional, freshness-neutral (NOT in
+     * TRANSLATED_FIELDS). CRITICAL — fees, permits, flight schedules and opening rules
+     * are REVISED, so `permit` states the DURABLE RULE (e.g. "licensed guide + park
+     * permit required, book ahead"; "daily diver-permit cap — reserve weeks ahead";
+     * "no permit — free public access"), NEVER a year-specific figure. Put "confirm
+     * current fees on <official site>" in `next` rather than a number that goes stale.
+     * Rendered as the "At a glance" card in ArticleView, just under the 30-second answer.
+     */
+    visitFacts: z
+      .object({
+        bestFor: z.string(),
+        getThere: z.string(),
+        permit: z.string(),
+        watch: z.string(),
+        next: z.string(),
+      })
+      .partial()
+      .optional(),
 
     // ---- title variants (HTS) ----------------------------------------
     /** ≤60 chars, head-term first. Falls back to `title`. */

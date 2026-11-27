@@ -34,7 +34,7 @@ faq:
     a: "Según un informe de Macaranga, las enmiendas de 2023 a la Ley de Calidad Ambiental de 1974 fijaron una multa mínima de RM5,000 y una máxima de hasta RM10 millones, junto con una pena de prisión obligatoria de no más de cinco años por delitos de contaminación. Para los delitos bajo el régimen de reservas fluviales de Selangor (artículo 48(1) de la Promulgación LUAS de 1999), la sanción es una multa no superior a RM50,000 o prisión no superior a dos años, o ambas. Las cifras de las enmiendas de la Ley de 1974 provienen de un informe secundario y deben verificarse frente al texto oficial de la Gaceta."
 
 lang: "es"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,33 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan", "contaminación de ríos", "índice de calidad del agua", "seguridad hídrica"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'Un ancho río marrón que se extiende hasta un horizonte llano y boscoso bajo un cielo pálido veteado de nubes'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: Un río estrecho discurriendo por un amplio canal de hormigón entre altos edificios de la ciudad y un paseo ribereño pavimentado
+    kind: actual
+    origin: third-party
+    subject: El río Klang encauzado en un canal de hormigón entre rascacielos en el centro de Kuala Lumpur, ilustrando la presión sobre la calidad del agua de los ríos urbanos
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: Un lago tranquilo y extenso que refleja el sol bajo, con colinas boscosas en silueta al atardecer de fondo
+    kind: actual
+    origin: third-party
+    subject: El embalse tras la presa de Batang Ai en Sarawak, una importante reserva de agua bruta y fuente de energía hidroeléctrica
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 Abra el grifo un lunes por la mañana y encuéntrelo seco — no porque el grifo esté roto, sino porque una fábrica río arriba ha vertido residuos malolientes en el afluente que suministra agua cruda a su localidad. Esta es una realidad recurrente en el Valle de Klang, y explica por qué la «calidad del río» no es meramente una cuestión ecológica, sino un asunto de seguridad del suministro de agua para millones de hogares.

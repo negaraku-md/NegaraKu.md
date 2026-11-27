@@ -37,7 +37,7 @@ faq:
     a: "Le TRX dispose de sa propre station ferroviaire, la station de MRT Tun Razak Exchange, en service depuis 2017 et desservie par deux lignes de MRT. L'accès routier est assuré par le réseau environnant du centre de Kuala Lumpur."
 
 lang: "fr"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ relations:
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
+hero: '/media/business/tun-razak-exchange-trx/hero.webp'
+heroAlt: 'La svelte tour supergratte-ciel Exchange 106 en verre bleu dominant un ensemble d''immeubles de bureaux du Tun Razak Exchange contre un ciel bleu vif aux nuages blancs'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: Vue en pleine hauteur de la tour supergratte-ciel Exchange 106 avec sa couronne argentée à facettes, flanquée de tours de bureaux TRX plus basses dont le bâtiment Affin sous un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: Détail rapproché de la tour Exchange 106 achevée, le supergratte-ciel du TRX, avec le siège d'Affin Bank à sa droite
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Une esplanade piétonne pavée dans le quartier du Tun Razak Exchange avec une sculpture en acier inoxydable et or à gauche et des tours de bureaux en verre réfléchissant s'élevant derrière
+    kind: actual
+    origin: third-party
+    subject: Esplanade au niveau de la rue et art public au sein du quartier du district financier Tun Razak Exchange, entouré de tours de bureaux en verre
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 Émergez de la station de MRT Tun Razak Exchange et la ligne d'horizon vous le dit : tout cela a été planifié, non pas poussé au hasard. Un ensemble de tours sur 70 acres, à la lisière orientale du centre de Kuala Lumpur, l'une d'elles franchissant les 450 mètres, disposées autour d'un parc posé sur le toit d'un centre commercial. C'est la tentative de la Malaisie de bâtir un quartier financier de toutes pièces.

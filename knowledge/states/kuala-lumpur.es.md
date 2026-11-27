@@ -33,7 +33,7 @@ verificationNeeded:
   - "Confirm the Kuala Lumpur and Greater Kuala Lumpur population figures, and the GDP per capita ranking, against the latest DOSM releases before publication."
 
 lang: "es"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL federal territory", "Bursa Malaysia", "Petronas Twin Towers", "Klang Valley"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'Las iluminadas Torres Petronas elevándose sobre el horizonte del distrito de KLCC contra un cielo crepuscular dorado en Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: Vista amplia del perfil urbano de Kuala Lumpur con la KL Tower rematada por una aguja y rascacielos agrupados bajo grandes nubes blancas y un parque verde en primer plano
+    kind: actual
+    origin: third-party
+    subject: Perfil urbano panorámico de la ciudad de Kuala Lumpur con la KL Tower bajo un cielo luminoso y nublado
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: El Sultan Abdul Samad Building de estilo morisco, con su alta torre del reloj y su reluciente cúpula de cobre, en el centro de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: El Sultan Abdul Samad Building de la época colonial, con su torre del reloj de cúpula de cobre, en el centro de Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 Kuala Lumpur es la capital nacional de Malasia, pero constitucionalmente no es un estado —

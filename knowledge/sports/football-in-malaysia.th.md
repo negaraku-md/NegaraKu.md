@@ -41,7 +41,7 @@ faq:
     a: "วันที่แท้จริงเป็นที่ถกเถียง บันทึกบางแหล่งวางการก่อตั้งองค์กรแม่ระดับชาติในปี 1926 ขณะที่บันทึกอื่นอ้าง 1933 เมื่อ Football Association of Malaya ที่มีฐานในสิงคโปร์เข้ารับช่วงการดำเนินการปิยาลามาลายา สิ่งที่ชัดเจนและยืนยันได้คือบทบาทในปัจจุบันในฐานะองค์กรแม่ระดับชาติ สมาชิก AFC และผู้ก่อตั้ง AFF ในปี 1984"
 
 lang: "th"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'สนามกีฬาแห่งชาติบูกิตจาลิลที่เปิดไฟสปอตไลต์และเต็มไปด้วยแฟนบอล มองลงมายังการแข่งขันฟุตบอลที่กำลังดำเนินอยู่'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: การแข่งขันฟุตบอลที่กำลังดำเนินอยู่บนสนามสเตเดียมตวนกูอับดุลเราะห์มานในปาโรยเมืองเซอเริมบันรัฐเนอเกอรีเซิมบีลัน
+    kind: actual
+    origin: third-party
+    subject: การแข่งขันฟุตบอลที่สเตเดียมตวนกูอับดุลเราะห์มานในปาโรยรัฐเนอเกอรีเซิมบีลัน
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: สนามฟุตซอลสาธารณะกลางแจ้งในย่านที่พักอาศัยของโกตาดามันซาราเมืองเปอตาลิงจายารัฐเซอลาโงร์
+    kind: actual
+    origin: third-party
+    subject: สนามฟุตซอลชุมชนในโกตาดามันซารารัฐเซอลาโงร์เวทีระดับรากหญ้าของเกมมาเลเซีย
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 ในปี 1921 สิงคโปร์เอาชนะสลังงอร์ 2-1 ในรอบชิงชนะเลิศของการแข่งขันฟุตบอลใหม่ในแหลมมลายู กว่าหนึ่งศตวรรษต่อมา การแข่งขันนั้น ปัจจุบันรู้จักในชื่อปิยาลามาเลเซีย ยังคงเป็นมงกุฎที่ทรงเกียรติที่สุดในกีฬาที่ได้รับความนิยมที่สุดของประเทศ

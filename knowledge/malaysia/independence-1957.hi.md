@@ -29,7 +29,7 @@ faq:
     a: "दोनों क्षण वास्तविक हैं। संप्रभुता का क़ानूनी हस्तांतरण 31 अगस्त 1957 को आधी रात से प्रभावी हुआ, जिसे कुआलालंपुर के पडांग (padang) में झंडा समारोह ने चिह्नित किया। सात बार «मेरदेका» के उद्घोष वाला सार्वजनिक उद्घोषणा समारोह उसी सुबह बाद में Stadium Merdeka में हुआ।"
 
 lang: "hi"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -64,6 +64,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'टुंकू अब्दुल रहमान 1957 के ऐतिहासिक मेरडेका स्वतंत्रता उद्घोषणा के अवसर पर हाथ उठाए भीड़ के सामने खड़े हैं।'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: उज्ज्वल आकाश के नीचे कुआलालंपुर में स्टेडियम मर्देका की घुमावदार दर्शक-दीर्घा और खुला अंडाकार मैदान, वह ऐतिहासिक स्थल जहाँ मलाया की स्वतंत्रता की घोषणा की गई थी।
+    kind: actual
+    origin: third-party
+    subject: स्टेडियम मर्देका, कुआलालंपुर, जहाँ 31 अगस्त 1957 को स्वतंत्रता की घोषणा की गई थी
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: कुआलालंपुर में मर्देका स्क्वायर के हरे मैदान से ऊँचा उठता दातारन मर्देका का विशाल सफ़ेद ध्वज-स्तंभ, जहाँ 1957 में आधी रात को यूनियन जैक उतारा गया था।
+    kind: actual
+    origin: third-party
+    subject: दातारन मर्देका (मर्देका स्क्वायर), कुआलालंपुर में विशाल ध्वज-स्तंभ
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 31 अगस्त 1957 को आधी रात के कुछ मिनट बाद, कुआलालंपुर में पुराने Selangor Club के सामने पडांग (padang) पर, यूनियन जैक (Union Jack) उतारा गया और नए मलाया संघ का झंडा फहराया गया। यही वह छवि है जो अधिकांश लोग मेरदेका की अपने मन में रखते हैं — लेकिन स्वतंत्रता का असली काम महीनों पहले ही पूरा हो चुका था, लंदन और कुआलालंपुर के समिति-कक्षों में, ऐसे लोगों द्वारा जो एक ऐसे संविधान की धाराओं पर बातचीत कर रहे थे जो एक साल पहले अस्तित्व में ही नहीं था।

@@ -31,7 +31,7 @@ faq:
     a: "Đây là các chuyến thăm văn hóa có hướng dẫn vào các làng Semai, thường có một màn trình diễn ống thổi và các buổi nói chuyện về sinh kế rừng. Hãy đi cùng một hướng dẫn viên địa phương uy tín, hỏi trước khi chụp ảnh người dân, và coi đó như một cuộc trao đổi văn hóa tôn trọng chứ không phải một màn trình diễn."
 
 lang: "vi"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,42 @@ wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["pahang"]
+related: ["pahang", "genting-highlands", "frasers-hill", "ipoh-and-the-kinta-valley"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "BOH tea", "strawberry farm", "Orang Asli", "Semai", "hill station", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Dành cho người lên kế hoạch chuyến đi muốn một kỳ nghỉ cao nguyên khí hậu mát hai đến ba ngày, đặt cơ sở tại Tanah Rata hoặc Brinchang và kết hợp các đồn điền trà, trang trại dâu và hoa, cùng một chuyến đi bộ có hướng dẫn tới làng Orang Asli hoặc Mossy Forest.'
+  getThere: 'Không có sân bay hay đường sắt lên cao nguyên — bạn tự lái hoặc được chở lên bằng đường bộ từ Tapah hoặc phía Raub/Kuala Lipis (hợp lại tại Ringlet) hoặc từ Simpang Pulai ở phía bắc, với xe buýt công cộng chạy lên từ Tapah đến Tanah Rata.'
+  permit: 'Không cần giấy phép công viên để vào; các tour tham quan nhà máy đồn điền trà BOH là miễn phí, trong khi các chuyến thăm làng Orang Asli nên thực hiện qua một hướng dẫn viên hoặc nhà điều hành địa phương uy tín.'
+  watch: 'Đừng coi nó là một thị trấn duy nhất — nó là ba khu định cư với vai trò khác nhau — và lưu ý rằng các vườn trà đóng cửa vào thứ Hai trong khi thời tiết cao nguyên thay đổi nhanh, nên các kế hoạch trong ngày có thể thay đổi.'
+  next: 'Hãy xác nhận giờ mở cửa hiện tại và việc đóng cửa thứ Hai trực tiếp với từng địa điểm — trang chính thức của BOH Plantations (bohtea.com) cho các vườn trà và Hội đồng Quận Cameron Highlands (MDCH) cho các điểm thu hút trang trại-và-vườn.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Những bậc thang đồn điền chè xanh mướt thoai thoải phủ kín các ngọn đồi của Cameron Highlands dưới bầu trời xanh có mây'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Một lối mòn hẹp uốn lượn giữa những thân cây sần sùi phủ rêu và rễ cây trong Rừng Rêu sương mù ở Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Lối mòn xuyên qua những thân cây phủ rêu của Rừng Rêu ở Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Những luống dâu tây nâng cao dài trĩu quả đỏ chín trong nhà kính tại một trang trại dâu tây ở Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Những hàng cây dâu tây trong nhà kính tại một trang trại dâu tây ở Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Bước xuống xe buýt tại Tanah Rata và điều đầu tiên bạn nhận thấy là hơi thở của chính mình — không khí đủ mát để một chiếc áo len không còn cảm thấy lố bịch, ngay cả ở xích đạo. Đó là toàn bộ mấu chốt của Cameron Highlands: một mảng đồi núi ôn đới xếp chồng lên trên Malaysia nhiệt đới, nơi trà mọc thành những luống xanh gọn gàng trên các dãy núi và dâu tây chín trong các nhà lưới ven đường.

@@ -35,7 +35,7 @@ faq:
     a: "இல்லை. Baju kurung என்பது உடல் வடிவத்தை மூடும் தளர்வான நீளமான மேலங்கி, kain உடன் அணியப்படுகிறது. Kebaya என்பதோ உடல் வடிவத்தை மேலும் ஒட்டி அமையும், முன்பக்கம் பிளவுள்ள மேலங்கி, kerongsang (brooch) அல்லது பொத்தான்களால் இணைக்கப்பட்டு, sarung உடன் ஜோடியாக அணியப்படுகிறது. Kebaya பொதுவாக baju kurung-ஐ விட உடலுக்கு ஒட்டி அமையும்."
 
 lang: "ta"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'ஹரி ராயா அன்று வீட்டுத் திண்ணையில் பொருந்திய வெளிர் மஞ்சள் உடைகளில் நிற்கும் மூன்று பேர் கொண்ட சிரிக்கும் மலாய் குடும்பம்; baju Melayu அங்கியும் கால்சட்டையும் அணிந்த ஆண்; இருபுறமும் baju kurung-ம் தலைக்கட்டும் அணிந்த இரு பெண்கள்'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: ஒவ்வொருவரும் வெவ்வேறு நிற பாஜு மெலாயுவும் கறுப்பு வெல்வெட் சோங்கோக் தொப்பியும் அணிந்து, குர்ஆனைப் படிக்கும் அமர்ந்திருக்கும் மலாய் ஆண்களின் பெரும் கூட்டம், சிவப்புக் கம்பளம் விரிந்த ஒரு பள்ளிவாசல் மண்டபத்தை நிரப்புகிறது
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சிலாங்கூரில் ஒரு அரச திருமண பிரார்த்தனைக் கூட்டத்தில் வண்ணமயமான பாஜு மெலாயுவும் கறுப்பு சோங்கோக்கும் அணிந்த மலாய் ஆண்களின் வரிசைகள்
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: மாண்டரின் காலர் கொண்ட அரச நீல நிற பாஜு மெலாயு, கறுப்பு வெல்வெட் சோங்கோக் மற்றும் கால்சட்டைக்கு மேல் மடித்த மினுமினுக்கும் நீல மலர் சோங்கெட் இடுப்புத் துணி (சம்பிங்) அணிந்து, வெள்ளைப் பின்னணிக்கு எதிராக நிற்கும் ஒரு மனிதர்
+    kind: actual
+    origin: third-party
+    subject: வெள்ளை ஸ்டூடியோ பின்னணியில், அரச நீல அங்கியுடன் கறுப்பு சோங்கோக்கும் சோங்கெட் சம்பிங்கும் அணிந்த, முழு ஆண்கள் பாஜு மெலாயு உடையை மாதிரி காட்டும் ஒரு மனிதர்
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 Hari Raya அல்லது திருமண விழாவுக்கு ஒரு ஆண் தயாராவதைக் கவனியுங்கள். தளர்வான மேலங்கி அணியப்பட்டு, கால்சட்டையும் அணிந்தாகிவிட்டது — ஆனால் அவர் இன்னும் முழுமையாகத் தயாராகவில்லை. மீதமிருப்பது, அவர் முழுமையாக உடையணிந்திருக்கிறாரா அல்லது பாதி வழியில் நிற்கிறாரா என்பதை நிர்ணயிக்கும் இரண்டு விஷயங்கள்: இடுப்பில் சுற்றப்படும் ஒரு kain samping, மற்றும் தலையில் ஒரு songkok. இந்த இரண்டு இல்லாமல், baju Melayu உண்மையில் baju Melayu அல்ல.

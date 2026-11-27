@@ -21,7 +21,7 @@ appliesTo: "वे पाठक, विद्यार्थी और शोध
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -59,6 +59,32 @@ verificationNeeded:
   - "2025-2026 का उत्तराधिकार विवाद परस्पर-विरोधी वृत्तांतों वाला एक विकासशील मामला है; सुंगई उजोंग के उंदांग की स्थिति, 19 अप्रैल 2026 की हटाने की घोषणा, और प्रतिद्वंद्वी उद्घोषणा को किसी भी विवरण को निर्धारित मानने से पहले आधिकारिक राज्य स्रोतों के विरुद्ध पुनः-सत्यापित किया जाना चाहिए।"
   - "तुआन्कू मुहरिज़ के 11वें यांग दि-पेर्तुआन बेसार के रूप में सटीक राज्याभिषेक/उद्घोषणा तिथि (सामान्यतः 29 दिसंबर 2008 दी जाती है) को राज्य के राजकीय पोर्टल के विरुद्ध पुष्ट किया जाना चाहिए।"
 framework: history-culture
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: 'गहरे रंग की लकड़ी से बना एक भव्य महल, जिसके ऊपर एक ऊँची बहु-स्तरीय मीनार और चौड़ी छप्पर जैसी ढलवाँ छतें हैं, एक विस्तृत हरे मैदान के पार जंगलों से भरी पहाड़ियों की पृष्ठभूमि में खड़ा है।'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: एक भव्य क्रीम रंग का शाही महल जिसमें सममित पंख और दो त्रिकोणीय शिखर वाले बुर्ज हैं, जो सेरी मेनंती में जंगली पहाड़ियों के नीचे सुव्यवस्थित बगीचों के पीछे स्थित है।
+    kind: actual
+    origin: third-party
+    subject: इस्ताना बेसार सेरी मेनंती, नेगेरी सेम्बिलान का वर्तमान शाही महल
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: एक ऊँचा आधुनिक सरकारी भवन जिसके ऊपर नाटकीय रूप से ऊपर की ओर मुड़ी मिनांगकाबाउ भैंस-सींग वाली छतें हैं, जो सेरेम्बान के केंद्र में निचले पंखों और लॉन के ऊपर उठा हुआ है।
+    kind: actual
+    origin: third-party
+    subject: विस्मा नेगेरी, मिनांगकाबाउ-छत वाला राजकीय प्रशासनिक भवन, सेरेम्बान में
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 प्रायद्वीपीय मलेशिया के हृदय में एक ऐसा राज्य बसा है जो मलय राजतंत्र के हर नियम को तोड़ता है। उसका शासक सिंहासन के लिए जन्म नहीं लेता बल्कि उसके लिए चुना जाता है। उसके महान परिवार अपना वंश पिताओं के माध्यम से नहीं बल्कि माताओं के माध्यम से खोजते हैं। और उसका नाम ही, नेगेरी सेम्बिलान, "नौ का राज्य", किसी एक राजघराने को नहीं बल्कि आंतरिक पहाड़ियों में सिले गए ज़िलों के एक परिसंघ को स्मरण कराता है। यह समझने के लिए कि यह अनन्य संस्था कैसे अस्तित्व में आई, मिनांगकाबाउ प्रवासियों की एक वंशावली का अनुसरण करना है जो सुमात्रा से मेलाका जलडमरूमध्य पार कर आए, अपने साथ एक प्रथा लाए, और समय के साथ अपने ऊपर शासन करने के लिए एक राजकुमार को बुलवाया।

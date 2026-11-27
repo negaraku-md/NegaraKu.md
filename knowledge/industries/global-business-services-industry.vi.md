@@ -31,7 +31,7 @@ faq:
   - q: Malaysia đưa ra những ưu đãi gì cho nhà đầu tư GBS?
     a: Lộ trình chính là vị thế Malaysia Digital (MD), do MDEC quản lý, có thể mở ra các ưu đãi thuế cho các hoạt động số và dịch vụ được duyệt. Năm 2024 MDEC giới thiệu hai chương trình dựa trên kết quả — Ưu đãi Đầu tư Mới và Ưu đãi Mở rộng — với thời gian nộp đơn mở đến năm 2027. Các điều khoản thay đổi, nên hãy xác nhận điều kiện hiện hành với MDEC hoặc một cố vấn thuế.
 lang: vi
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - Malaysia Digital
   - offshoring
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'Một tòa nhà văn phòng doanh nghiệp hiện đại ở Cyberjaya, một trong những trung tâm chính của Malaysia về công nghệ và dịch vụ kinh doanh toàn cầu.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: Một tòa nhà văn phòng doanh nghiệp bằng kính và bê tông tầm trung hiện đại trong khu kinh doanh Cyberjaya, Selangor, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà văn phòng doanh nghiệp ở Cyberjaya, trung tâm dịch vụ toàn cầu của Malaysia
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Những dãy nhân viên tại các bàn làm việc máy tính trên khắp một sàn tổng đài không gian mở rất lớn.
+    kind: representative
+    origin: third-party
+    subject: Sàn văn phòng tổng đài lớn (minh họa nơi làm việc dịch vụ dùng chung/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 Đâu đó ở Cyberjaya hay Kuala Lumpur ngay lúc này, một kế toán viên đang chốt sổ sách hàng tháng cho một công ty có trụ sở tại London, một nhân viên tổng đài đang giải quyết một yêu cầu cho một khách hàng ở Sydney, và một chuyên viên phân tích dữ liệu đang dựng một bảng điều khiển cho một nhà máy ở Đức. Không có nhà tuyển dụng nào trong số đó chế tạo bất cứ thứ gì ở Malaysia. Điều họ vận hành ở đây là một thứ ít hữu hình hơn nhưng ngày càng có giá trị: bộ phận hậu cần toàn cầu của họ.

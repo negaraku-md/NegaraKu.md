@@ -31,7 +31,7 @@ faq:
     a: "Principalement en décharge. La Malaisie exploite 135 décharges — 114 dépotoirs à ciel ouvert et 22 décharges sanitaires — et la mise en décharge reste la méthode d'élimination dominante du pays."
 
 lang: "fr"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,9 +103,35 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["Loi 672", "SWCorp", "recyclage", "déchets solides", "décharge", "séparation des déchets à la source", "économie circulaire", "Act 672", "recycling"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'Un centre de collecte de recyclage d''un supermarché à Johor, en Malaisie, avec des bacs étiquetés en malais pour les vêtements, le papier, le plastique, le verre et l''aluminium.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: Le site de la décharge sanitaire de Bukit Tagar près de Kampung Sepakat, Hulu Selangor, Selangor
+    kind: actual
+    origin: third-party
+    subject: Décharge sanitaire de Bukit Tagar, Hulu Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: Un camion municipal de collecte des ordures exploité par le conseil local à Kudat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Camion municipal de collecte des ordures, Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 Jetez des ordures à Johor et cela devient une affaire du gouvernement fédéral ; jetez les mêmes ordures à Penang et cela reste du ressort du conseil local. Telle est la particularité centrale de la manière dont la Malaisie gère ses déchets solides — une grande loi fédérale, mais une loi qui n'entre en vigueur que dans les lieux qui ont accepté de l'adopter.

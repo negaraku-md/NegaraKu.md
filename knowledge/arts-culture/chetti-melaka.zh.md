@@ -30,7 +30,7 @@ faq:
     a: "这个社群的人数急剧萎缩——据新加坡国家文物局（Roots）称，从 1980 年代约 400 户家庭减少到今天不足 50 户；而《今日自由大马》（Free Malaysia Today）的一篇报道则估计只有约 20 至 30 户家庭仍居住在哲蒂村。研究者将这种衰退归因于异族通婚、外迁，以及年轻一代与哲蒂根源的联系日益淡薄。"
 
 lang: "zh"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: '马六甲Kampung Chetti巷口一座粉色印度式门拱，顶端立着一对白象塑像，右侧是一座带奶油色圆顶的小型印度庙，寂静街道旁有村屋和Kampung Chetti村牌，蓝天如洗'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: 一栋传统两层深色木造马来式房屋，用作马六甲的峇峇娘惹吉蒂博物馆（Chetti Museum），门廊上方挂着蓝色招牌，写着「Muzium Chetti The Chetti Museum」，矮栏杆后排着一列盆栽，旁边飘扬着马来西亚和马六甲州旗
+    kind: actual
+    origin: third-party
+    subject: 马六甲甘榜吉蒂（Kampung Chetti）的吉蒂博物馆（Muzium Chetti），记录着吉蒂（Chetti Melaka）社群
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: 马六甲和谐街（Harmony Street）上斯里波雅达维纳雅加摩多庙（Sri Poyyatha Vinayagar Moorthi Temple）的黄色外墙，一座朴素的层塔上设有神龛，立在铺瓦门廊顶之上，配以青绿色大门，清晨低斜的阳光映照在深蓝天空下
+    kind: actual
+    origin: third-party
+    subject: 马六甲的斯里波雅达维纳雅加摩多庙，由吉蒂社群于1781年创建的历史悠久的印度庙
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 在马六甲牙也贝壤路（Jalan Gajah Berang）一座古老的村落里，住着一群家庭：他们向湿婆神祈祷，穿着如马来人一般，烹煮飘着椰浆香气的咖喱，讲着夹杂淡米尔语词汇的马来语。他们不是印度人，不是马来人，也不是华人——他们是马六甲哲蒂人（Chetti Melaka），而他们的人数正在日渐稀少。

@@ -27,7 +27,7 @@ faq:
   - q: "Apa nama KPKT sebelumnya, dan kapan nama itu diubah?"
     a: "Ia dahulunya adalah Kementerian Pembangunan Kerajaan Tempatan; Kabinet memutuskan untuk menamainya ulang menjadi Kementerian Perumahan dan Kerajaan Tempatan pada 13 Desember 2023, diumumkan pada 26 Desember 2023."
 lang: "id"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,37 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'Menara pemerintah abu-abu dan kaca melengkung tinggi di Putrajaya menjulang di atas monumen papan nama hitam bertuliskan Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan dengan logo rumah KPKT'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: Close-up monumen papan nama batu hitam yang menampilkan lambang negara Malaysia, tulisan Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government, alamat web kpkt.gov.my dan logo rumah KPKT yang berwarna-warni
+    kind: actual
+    origin: third-party
+    subject: Monumen papan nama KPKT di pintu masuk gedung kementerian, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: Pemandangan depan menara pemerintah KPKT di Putrajaya, fasad tengahnya digantungi bendera nasional Jalur Gemilang vertikal panjang, dibingkai pohon palem kipas dengan latar langit berawan
+    kind: actual
+    origin: third-party
+    subject: Menara KPKT di Putrajaya yang dihiasi bendera Malaysia vertikal
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 Ketika sampah Anda tidak diangkut, ketika sertifikat keselamatan kebakaran perlu diperbarui, dan ketika pengembang menyerahkan apartemen Anda terlambat dua tahun — kementerian federal yang sama berada di balik ketiga-tiganya. **Kementerian Perumahan dan Kerajaan Tempatan**, yang dikenal umum sebagai **KPKT**, adalah kementerian federal Malaysia bagi perumahan terjangkau, pemerintahan daerah, perencanaan kota, pemadam kebakaran dan penyelamatan, limbah padat, lanskap, serta kredit komunitas. Kantor pusatnya berada di No. 51, Persiaran Perdana, Presint 4, Pusat Administrasi Pemerintah Federal, 62100 Putrajaya. Menterinya adalah **Nga Kor Ming** dan Wakil Menterinya adalah **Datuk Hajah Aiman Athirah binti Sabu**.

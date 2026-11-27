@@ -28,7 +28,7 @@ faq:
     a: "Phí cho thuê theo biểu chính thức là 1,25 đến 1,75 tháng tiền thuê gộp (với phí tối thiểu 1 tháng tiền thuê) tùy theo thời hạn thuê; ai gánh chịu là vấn đề thỏa thuận giữa các bên."
 
 lang: "vi"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'Những ngôi nhà song lập hiện đại phía sau bảng hiệu khu phát triển Taman Soga Sutera ở Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: Một tấm bảng hiệu bên đường đánh dấu lối vào khu dân cư Taman Sri Serdang
+    kind: representative
+    origin: third-party
+    subject: Bảng hiệu khu dân cư tại Taman Sri Serdang, Seri Kembangan, Selangor
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: Một ngôi nhà vùng ven một tầng với sân trước và một cây cọ trên đường Jalan Anggerik, Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Một ngôi nhà gắn liền với đất ở vùng ven trên con phố dân cư tại Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 Con số trên bảng tên trên ngực của môi giới không phải để trang trí — nó là cách nhanh duy nhất để phân biệt một chuyên viên tư vấn hợp pháp với một người chỉ tự nhận mình là môi giới. Ở Malaysia, việc ai được phép bán, cho thuê hoặc thương lượng bất động sản thay bạn được luật pháp kiểm soát chặt chẽ.

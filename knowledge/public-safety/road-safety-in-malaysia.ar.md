@@ -35,7 +35,7 @@ faq:
     a: "يتولى المعهد الماليزي لأبحاث السلامة على الطرق (MIROS)، المُنشأ في 2007، الأبحاث القائمة على الأدلة، بينما تقود شعبة السلامة على الطرق في JPJ (JKJR سابقاً) أنشطة المناصرة والتوعية. وكلاهما تحت وزارة النقل."
 
 lang: "ar"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["السلامة على الطرق", "حوادث الطرق في ماليزيا", "القيادة تحت تأثير الكحول", "AES", "KEJARA", "MIROS", "Road Transport Act 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'حركة المرور على الطريق السريع الشمالي الجنوبي المقسّم في ماليزيا، مع علامات المسارات وحواجز الاصطدام ولوحات إعلانية على جانب الطريق تحت سماء صافية.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: منظر باتجاه الشمال على طول طريق Jalan Kluang-Kota Tinggi ذي المسارين (Federal Route 91) قرب Kluang، Johor
+    kind: actual
+    origin: third-party
+    subject: طريق اتحادي سريع بمسارين (Route 91)، Kluang، Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: ممرّ مشاة مُعلَّم عند تقاطع طرق ليلاً في Kota Damansara، Selangor
+    kind: actual
+    origin: third-party
+    subject: ممرّ مشاة عند تقاطع طرق، Kota Damansara، Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 كل يوم، تُزهَق نحو 18 نفساً على طرق ماليزيا. ويجعل هذا الرقمُ الطرقَ من أبرز أسباب الوفاة غير الطبيعية في البلاد، والسبب الرئيسي في تخصيص قوانين وكاميرات وجهات للتصدي له.

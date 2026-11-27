@@ -32,7 +32,7 @@ faq:
     a: "मुख्य कारण सुमात्रा और कालीमंतान में भूमि एवं वन अग्नि है — जिसमें पीटलैंड की आग और कृषि के लिए काटो-और-जलाओ भूमि-सफ़ाई शामिल है — जो एल नीनो परिघटना से प्रभावित शुष्क मौसमों के दौरान अधिक बार-बार और अधिक गंभीर हो जाती है।"
 
 lang: "hi"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["धुंध", "transboundary haze", "API", "वायु प्रदूषक सूचकांक", "सुमात्रा", "कालीमंतान", "आसियान", "पर्यावरण विभाग", "वायु गुणवत्ता", "haze"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'घने धूसर धुंध से ढका कुआलालंपुर का क्षितिज, जहाँ ऊँची मीनारें मुश्किल से दिखाई दे रही हैं।'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: कुआलालंपुर में एक स्वास्थ्य क्लिनिक के पास एक सड़क पर धुंधली, कम-दृश्यता वाली हवा
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर के एक स्वास्थ्य क्लिनिक के पास धुंध की स्थिति
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: आमतौर पर क्षितिज पर दिखने वाली पहाड़ियों को ढकती घनी सीमा-पार धुंध
+    kind: representative
+    origin: third-party
+    subject: 2013 का दक्षिण-पूर्व एशियाई सीमा-पार धुंध सिंगापुर के ऊपर (प्रतीकात्मक)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 शुष्क मौसम के दौरान हर बार जब मानसूनी हवाएँ अपनी दिशा बदलती हैं, क्लांग घाटी, सारावाक और प्रायद्वीप के अधिकांश हिस्से का आकाश कुछ ही दिनों में धूसर पड़ सकता है — सूरज मंद हो जाता है, धुएँ की गंध घरों में रिस आती है, और फ़ोन API चेतावनियों से गूँज उठते हैं। यह सीमा-पार धुंध है: प्रदूषण जो पूरी तरह देश के भीतर उत्पन्न नहीं होता, फिर भी हर वर्ष लाखों मलेशियावासियों द्वारा साँस में लिया जाता है।

@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: '夜晚的吉隆坡茨厂街，挂满红灯笼，人们在有顶棚的店屋之间逛着亮灯的水果摊和市集摊位。'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 你刚落地，还在倒时差，手机却毫无信号。在你操心那份完美的椰浆饭之前，先把无聊却重要的事情办妥——一张能用的SIM卡、正确的紧急号码，以及知道天空是否即将下起大雨。以下是这份经核实的精简清单。

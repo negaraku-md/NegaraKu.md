@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 
 status: "published"
 aiAssisted: true
@@ -132,6 +132,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'マレーシアのペトロナスのガソリンスタンドの前庭で、天蓋の下に給油機が並ぶ様子。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: 赤い縁取りの屋根が複数の給油アイランドを覆うシェルブランドのガソリンスタンド。路肩のポール看板には黄色いシェルのペクテン(帆立貝)ロゴがあり、近くには店舗と車が並び、空は明るい
+    kind: actual
+    origin: third-party
+    subject: ジョホールバルのタマン・プランギにあるシェルのガソリンスタンドの前庭。屋根の下に給油アイランドが並ぶ
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: 幅広く平らな屋根が給油機を覆うガソリンスタンドの前庭。路肩には高く光る価格表示ポールが立ち、傍らにコンビニ店舗が建つ曇り空の日
+    kind: actual
+    origin: third-party
+    subject: スランゴール州イジョクのFIVEブランドのガソリンスタンド。マレーシアの独立系燃料小売チェーンの一つで、前庭と価格ポールを備える
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 数十年にわたり、マレーシアのすべての人——大富豪であろうとゴム樹液採取者であろうと——は給油所で同じ価格のガソリンを支払ってきた。2025年9月30日、その仕組みは終わりを迎えた。今では1リットルのRON95があなたにとってはRM1.99でも、隣人にとってはほぼ倍の価格になり得る。それを決めるのは世界の原油価格ではなく、あなたが端末に挿入する身分証明書である。

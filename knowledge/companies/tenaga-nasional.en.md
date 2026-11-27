@@ -30,7 +30,7 @@ faq:
     a: "TNB owns and operates the national grid network, which must be upgraded to absorb renewable energy, in line with the targets of the National Energy Transition Roadmap (NETR)."
 
 lang: "en"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,36 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-commission-suruhanjaya-tenaga", "glc-dominance-malaysian-economy"]
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: 'Aerial view of Kenyir Dam''s grey rockfill embankment marked with the giant white word KENYIR, the hydroelectric power station and transmission lines at its base and Kenyir Lake stretching behind'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: The Tenaga Nasional Berhad headquarters in Bangsar, Kuala Lumpur, a tall grey office block whose rooftop carries the red TNB logo and the illuminated 'TENAGA NASIONAL' sign above the city skyline
+    kind: actual
+    origin: third-party
+    subject: Tenaga Nasional Berhad headquarters building in Bangsar, Kuala Lumpur
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: Connaught Bridge Power Station in Klang, a long red-brick power house with a tall red-and-white striped chimney stack under a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: TNB's Connaught Bridge Power Station in Klang, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 Every time the lights come on in your home in the Peninsular, there is a very good chance that electricity is flowing through wires owned by a single company: Tenaga Nasional Berhad. It is the country's largest electricity utility, with over 11 million customers across Peninsular Malaysia, Sabah and Labuan as of 30 September 2025.

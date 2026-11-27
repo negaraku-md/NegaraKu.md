@@ -31,7 +31,7 @@ faq:
   - q: ยังมีการปลูกโกโก้ที่ไหนในมาเลเซียบ้าง?
     a: "ส่วนใหญ่ในรัฐซาบาห์ โดยเฉพาะพื้นที่ตอนในและภูมิภาคตาเวา ซึ่งในอดีตเป็นแรงขับเคลื่อนช่วงเฟื่องฟูในทศวรรษ 1980 และยังคงเป็นสัดส่วนส่วนใหญ่ของพื้นที่เพาะปลูกและผลผลิตที่เหลืออยู่"
 lang: th
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'ฝักโกโก้สีเขียวขนาดใหญ่สองฝักเติบโตออกมาจากลำต้นของต้นคาเคาโดยตรงในสวนที่มีร่มเงา'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: เมล็ดโกโก้ที่ผ่านการหมักแผ่กระจายอยู่ในถาดไม้เพื่อตากแห้งกลางแดดจ้า
+    kind: representative
+    origin: third-party
+    subject: เมล็ดโกโก้ที่กำลังตากแดด
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: กองเมล็ดโกโก้สีเข้มที่คั่วแล้ว พร้อมป้อนเข้าเครื่องบดในกระบวนการแปรรูปช็อกโกแลต
+    kind: representative
+    origin: third-party
+    subject: เมล็ดโกโก้คั่วพร้อมสำหรับการแปรรูป
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 มาเลเซียเป็นหนึ่งในผู้แปรรูปโกโก้รายใหญ่ของโลกที่แทบจะหยุดปลูกโกโก้ไปแล้ว ภายในชั่วอายุคนเดียว ประเทศนี้เปลี่ยนจากผู้ผลิตเมล็ดโกโก้อันดับหนึ่งในสี่ของโลก ที่มีเนินเขาในรัฐซาบาห์และคาบสมุทรมาเลเซียเต็มไปด้วยฝักโกโก้ กลายเป็นประเทศที่นำเข้าเมล็ดโกโก้เป็นเรือ ๆ และเก็บเกี่ยวผลผลิตของตนเองได้เพียงไม่กี่ร้อยตัน สิ่งที่คงอยู่และเจริญรุ่งเรืองคือฝั่งโรงงาน: โรงบด โรงกลั่น และสายการผลิตช็อกโกแลตที่เปลี่ยนเมล็ดโกโก้นำเข้าเป็นเนยโกโก้ ผงโกโก้ ลิเคอร์ และขนมหวานสำเร็จรูปเพื่อการส่งออก ผลลัพธ์คือ "ความย้อนแย้งของโกโก้" - อุตสาหกรรมปลายน้ำระดับโลกที่ตั้งอยู่บนต้นน้ำที่แทบจะหายไปหมดแล้ว

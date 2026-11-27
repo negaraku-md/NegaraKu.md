@@ -33,7 +33,7 @@ faq:
     a: "Magavau என்பது அறுவடைக்குப் பிறகு நெல் ஆவியான Bambaazon-ஐப் போற்றி “வீட்டிற்கு அழைக்கும்” நன்றி செலுத்தும் சடங்கு ஆகும். இது பாரம்பரியமாக சடங்குப் பாடல்களை ஓதும் பூசாரிப் பெண்ணான bobohizan (bobolian எனவும் எழுதப்படும்) ஒருவரால் நடத்தப்படுகிறது. இது Kaamatan-இன் பழமையான சடங்கு கூறுகளில் ஒன்றாகும்."
 
 lang: "ta"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "மே 30 மற்றும் 31 ஆம் தேதிகள்; அந்த இரு நாட்களில் மாநில அளவிலான இறுதிக் கொண்டாட்டத்திற்கு முன் மே மாதம் பெரும்பகுதி முழுவதும் மாவட்டம் வாரியாகக் கொண்டாட்டங்கள் நடைபெறுகின்றன."
   holiday: "மே 30 மற்றும் 31 ஆம் தேதிகளில் சபா மாநிலம் மற்றும் Labuan கூட்டரசுப் பிரதேசத்தில் ஒரு பொது விடுமுறை; நாடளாவிய பொது விடுமுறை அல்ல."
   etiquette: "Unduk Ngadau-ஐ Huminodun புராணக்கதையைப் போற்றும் ஒரு பண்பாட்டு அணிவகுப்பாகப் புரிந்துகொள்ள வேண்டும், சாதாரண அழகுப் போட்டி அல்ல; மேலும் Bambaazon நம்பிக்கையையும் Huminodun புராணக்கதையையும் உறுதிப்படுத்தப்பட்ட உண்மையாக அன்றி, சமூகத்தின் சொந்த மரபாக மதிப்புடன் அணுக வேண்டும்."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Sabah மாநிலம் Penampang-ல், நட்சத்திர ஒளி மேடையில் Kaamatan சடங்கு செய்யும், கருப்பு-தங்க பாரம்பரிய உடையணிந்த Kadazan-Dusun bobohizan பூசாரிகளும் பூசாரிணிகளும்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: சபா, பெனம்பாங்கில் நடைபெற்ற காமாத்தன் விழாவில் மேடையில் பாரம்பரிய கறுப்பு-தங்க கடசான்-டுசுன் உடையில் ஆறு இறுதிப் போட்டியாளர்களுக்கு நடுவே மகுடம் சூட்டப்பட்ட உண்டுக் நகாவ் வெற்றியாளர்
+    kind: actual
+    origin: third-party
+    subject: காமாத்தன் விழா அழகிப் போட்டியில் உண்டுக் நகாவ் வெற்றியாளரும் இறுதிப் போட்டியாளர்களும்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: சபாவில் நடைபெற்ற காமாத்தன் அறுவடைக் கொண்டாட்டத்தில் சிவப்பு-வெள்ளி ஓரத்துடன் கறுப்பு உடை அணிந்து, கெங்களுடன் பாரம்பரிய நடனம் நிகழ்த்தும் இளம் கடசான்-டுசுன் நடனக் கலைஞர்கள்
+    kind: actual
+    origin: third-party
+    subject: கெங்களுடன் அறுவடை விழா நடனம் நிகழ்த்தும் கடசான்-டுசுன் இளைஞர்கள்
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 இத்திருவிழா ஒரே ஒரு கருத்தின் அடிப்படையில் பெயரிடப்பட்டுள்ளது: அறுவடை. Kadazandusun மொழியில் *Kaamatan* என்றால் சரியாக அதுவேதான் பொருள்; கொண்டாட்டத்தின் மற்ற அனைத்தும் — சடங்கு, நெல் மது, இறுதி மாலையில் மணிமுடி சூட்டப்படும் அணிவகுப்பு — நெல்லை அறுவடை செய்யும் அந்த ஒரே செயலிலிருந்து வளர்கின்றன.

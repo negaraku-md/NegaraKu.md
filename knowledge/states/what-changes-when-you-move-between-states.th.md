@@ -78,6 +78,13 @@ entity: "การย้ายถิ่นระหว่างรัฐใน�
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'รถยนต์บนทางด่วนหลายช่องจราจรแล่นผ่านป้ายบอกทางสีเขียวเหนือศีรษะที่ระบุเมืองกัวลาลัมเปอร์ มะละกา และยะโฮร์ ข้างสวนปาล์มน้ำมันและเนินเขา'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 การย้ายบ้านภายในมาเลเซียให้ความรู้สึกเหมือนว่าต้องก่อให้เกิดการลงทะเบียนใหม่จำนวนมหาศาล — เอกสารใหม่ เลขใหม่ เริ่มต้นใหม่กับทุกหน่วยงาน แต่ในความเป็นจริงส่วนใหญ่แล้วไม่เป็นเช่นนั้น เหตุผลเป็นเรื่องเชิงโครงสร้าง: **สิ่งส่วนใหญ่ที่รู้สึกว่าเป็นทางการในชีวิตคุณที่มาเลเซียล้วนเป็นเรื่องระดับสหพันธรัฐ** และระบบระดับสหพันธรัฐทำงานเหมือนกันทุกรัฐ จึงติดตามคุณไปเฉย ๆ สิ่งที่เปลี่ยนจริงคือชั้นที่เล็กกว่าและเป็นท้องถิ่นมากกว่า — และการรู้ว่าอะไรเป็นอะไรจะเปลี่ยนการย้ายที่น่าหวั่นใจให้กลายเป็นเช็กลิสต์สั้น ๆ

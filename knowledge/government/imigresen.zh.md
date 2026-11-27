@@ -23,7 +23,7 @@ appliesTo: "任何需要确认某项大马移民文件——护照、签证、�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ relations:
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
 framework: profile
+hero: '/media/government/imigresen/hero.webp'
+heroAlt: '布城马来西亚移民局总部的石材立面，层叠的伊斯兰纹样塔楼耸立于入口雨篷之后，雨篷上书有Jabatan Imigresen Malaysia字样和部门徽章'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: 近距离拍摄的 Jabatan Imigresen Malaysia 总部入口，可见 Jabatan Imigresen Malaysia 字样，以及带有花环和 Imigresen Malaysia 绶带的金绿色部门徽章
+    kind: actual
+    origin: third-party
+    subject: Jabatan Imigresen Malaysia 总部入口的标识和徽章，布城
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: 一座马来西亚移民边境综合大楼，黄色建筑上标有 Kompleks Imigresen 字样，设有以汽车、摩托车和巴士符号标记的车辆通行检查通道，天空明亮多云
+    kind: actual
+    origin: third-party
+    subject: Kompleks Imigresen Rantau Panjang，位于吉兰丹丹那巴冷的马来西亚移民边境关卡
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 每一个跨越大马边境的人——续领护照的国民、抵境的游客、前来工作的外籍专才——都要经过同一个部门。但它所签发的文件却常被彼此混淆，而这种混淆正是多数移民问题的根源。

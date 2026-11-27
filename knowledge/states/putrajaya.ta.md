@@ -38,7 +38,7 @@ verificationNeeded:
   - "பிரெசின்ட்களின் எண்ணிக்கை (20) மற்றும் 4,931 ஹெக்டேர் பரப்பளவு எண்ணிக்கையை Perbadanan Putrajaya இன் சமீபத்திய அதிகாரப்பூர்வ வெளியீட்டுடன் ஒப்பிட்டு உறுதிப்படுத்தவும் — 2017 ஆண்டு வருடாந்திர அறிக்கை ஒரு காலத்தில் வேறுபட்ட பரப்பளவு எண்ணிக்கையைப் பதிவு செய்திருந்தது."
 
 lang: "ta"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,34 @@ relations:
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
+hero: '/media/states/putrajaya/hero.webp'
+heroAlt: 'பச்சை குவிமாடம் கொண்ட Perdana Putra அரசாங்கக் கட்டிடத்திற்கு அருகே, இளஞ்சிவப்பு-ரோஸ் குவிமாடம் கொண்ட Putra Mosque-ம் அதன் மினாரெட்டும்; Putrajaya ஏரியில் பிரதிபலிக்கின்றன'
+heroCredit: 'Mimihitam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: பொன்னேரத்தில் ஒளிரும் இளஞ்சிவப்பு Putra Mosque மற்றும் அதன் மினாரெட், Putrajaya ஏரியின் அமைதியான மேற்பரப்பில் முழுமையாகப் பிரதிபலிக்கிறது
+    kind: actual
+    origin: third-party
+    subject: பொன்னேரத்தில் Putrajaya ஏரியின் அமைதியான நீரில் பிரதிபலிக்கும் Putra Mosque
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: Putrajaya-வில் ஏரியைக் கடக்கும், சாய்ந்த பாய்-போன்ற தூண் மற்றும் விசிறி போல் விரிந்த கேபிள்களுடன் கூடிய நவீன வெள்ளை Seri Wawasan Bridge
+    kind: actual
+    origin: third-party
+    subject: Putrajaya-வில் ஏரியை இணைக்கும் பாய்-வடிவ Seri Wawasan Bridge
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 1999-இல், பிரதமர் அலுவலகம் (Office of the Prime Minister) Kuala Lumpur இலிருந்து

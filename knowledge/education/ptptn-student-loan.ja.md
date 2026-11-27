@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 
 status: "published"
 aiAssisted: true
@@ -65,6 +65,32 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'マレーシア工科大学クアラルンプール校（Universiti Teknologi Malaysia Kuala Lumpur）の入口門で、車道の上のアーチに UTM の紋章がある。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: マラ工科大学(UiTM)の本部棟。ガラスとコンクリートでできた大型の近代的な国立大学の建物で、整えられた高台に立ち、正面には旗が並ぶ。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの国立大学キャンパス（マラ工科大学 UiTM）
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: コタキナバルにあるマレーシア・サバ大学の、青とクリーム色が特徴的な本部棟（Canselori）。整えられた芝生の上に立つ国立大学のランドマークである。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの国立大学のランドマーク（マレーシア・サバ大学本部棟）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 多くの学生は、PTPTNの契約書類にサインするとき、同じ思い込みを抱いている――「これは

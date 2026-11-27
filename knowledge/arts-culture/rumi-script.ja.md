@@ -36,7 +36,7 @@ socialTitle: "ラテン文字はいかにしてマレー語の公式な文字と
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -78,6 +78,33 @@ verificationNeeded:
   - "1972年綴字体系のマレーシアにおける正式名称：資料によって「Ejaan Rumi Baharu」と「Ejaan Rumi Bersama」が併記されており——DBP の公式規範に照らして確認する必要がある"
   - "Za'ba 綴字体系の年代：一部の資料は1924年に導入されたとし、他の資料は1933年に完全な形で整備されたとする——一次資料に照らして確認する必要がある"
 framework: history-culture
+wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: '青いマレーシアの道路標識。上部にジャウィ文字（Jawi）、下部にルミ（Rumi、ラテン文字）で「Jalan Pasir Puteh」と記され、傍らをバイクに乗った男性が通り過ぎる。'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: クランタンの路傍にある青い街路名の標識。ジャウィ文字の下に、ローマ字化されたルミ文字で「Jalan Pasir Puteh」と同じ名が記されている
+    kind: actual
+    origin: third-party
+    subject: ジャウィ文字とルミ文字を併記した二言語の街路名標識、クランタン
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: イポーにある緑色のマレーシアの街路標識。ローマ字化されたマレー語（ルミ）で「Persiaran Greentown 4C, Poskod 30450 Ipoh」と記されている
+    kind: actual
+    origin: third-party
+    subject: ルミ文字で書かれたマレー語の道路名標識、イポー
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 今日わたしたちがマレー語の単語を読むとき——道路標識で、新聞で、電話の画面で——それを英語のアルファベットと同じ文字で読んでいる。a, b, c, d……という具合に。その文字はルミ文字と呼ばれる。あまりにも当たり前になっているため、ルミ文字がマレー語本来の文字ではないこと、そして今日のその整然として統一された形が百年以上を要した標準化の努力の成果であることに、多くの人は気づいていない。

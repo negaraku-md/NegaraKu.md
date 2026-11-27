@@ -19,7 +19,7 @@ keyTakeaways:
   - "Bahan psikotropika di bawah Jadwal Ketiga Poisons Act 1952 tunduk pada peraturan terpisah, dengan hukuman hingga RM100,000 atau penjara lima tahun bagi pelanggaran tanpa izin (Pasal 30)"
 appliesTo: "Siapa saja yang membeli obat di farmasi pemerintah atau swasta di Malaysia, dan ingin memahami mengapa sebagian obat memerlukan resep sementara yang lain tidak, serta peran apoteker terdaftar dalam proses itu."
 lang: "id"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,33 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'Ruko sudut merah cerah tahun 1955 yang menampung gerai BIG Pharmacy (Farmasi) di Kluang, Malaysia, dengan papan nama Farmasi dwibahasa'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: Apotek komunitas independen satu lantai dengan papan nama biru Farmasi Sinar, mobil-mobil parkir di luar di bawah langit cerah di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar, apotek komunitas lingkungan independen di Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: Pintu masuk apotek rawat jalan di dalam rumah sakit pemerintah Malaysia, dengan papan Farmasi kuning dan biru serta spanduk Hari Apoteker Sedunia, tanpa orang yang terlihat
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk apotek rawat jalan (Farmasi) di Hospital Sultanah Nora Ismail, rumah sakit pemerintah di Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 Seorang pelanggan meminta obat batuk di loket farmasi dan langsung dilayani. Seorang lagi meminta antibiotik untuk sakit tenggorokan dan diminta menunjukkan resep dokter dahulu. Kedua transaksi itu terjadi di farmasi yang sama, pada hari yang sama — bedanya terletak pada undang-undang yang menggolongkan obat itu, bukan pada diskresi apoteker.

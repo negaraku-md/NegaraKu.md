@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: '数据中心里一整面服务器机柜墙，每一排都亮着成排的明蓝色指示灯，向暗处延伸'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: 一条狭窄的通道穿行于两排高大的黑色服务器机柜之间，机柜一排排向尽头一扇亮着灯的门口汇聚
+    kind: representative
+    origin: third-party
+    subject: 大学数据中心内高大黑色服务器机柜之间对称的通道
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: 黄昏时俯瞰一座数据中心园区，一长排屋顶冷却设备以及一旁仍在建造中的建筑
+    kind: representative
+    origin: third-party
+    subject: 俯瞰一座在建大型数据中心园区的屋顶冷却设备
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 不到三年时间，柔佛南部这条隔着柔佛海峡与新加坡相望的地带，已成为全球最抢手的服务器落地之地之一。云计算巨头、托管运营商和人工智能初创企业纷纷涌入——如今马来西亚正意识到，这股热潮之下的电力线路与水管都是有极限的。

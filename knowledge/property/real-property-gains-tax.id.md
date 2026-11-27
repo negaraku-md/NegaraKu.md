@@ -35,7 +35,7 @@ faq:
     a: "Ya. Pengeluaran yang menambah atau memelihara nilai properti, seperti biaya renovasi dan perbaikan, dapat dikurangi asalkan didukung dengan bukti dan dokumen yang sah."
 
 lang: "id"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'Menara kondominium Verdana menjulang di atas kawasan hunian North Kiara di Kuala Lumpur.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: Paviliun galeri penjualan di tepi jalan dan papan bertuliskan huruf besar proyek hunian Riana Dutamas di Segambut, Kuala Lumpur, tempat rumah baru dipasarkan dan dijual
+    kind: representative
+    origin: third-party
+    subject: Galeri penjualan dan papan penanda proyek hunian Riana Dutamas, Segambut, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Sebuah rumah kampung Malaysia terpisah modern dengan atap logam, mewakili rumah tapak yang penjualannya dapat memicu pajak keuntungan atas properti (real property gains tax)
+    kind: representative
+    origin: third-party
+    subject: Sebuah rumah kampung terpisah modern di Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 Anda menjual rumah dengan untung — tetapi sebelum uang masuk ke rekening, pemerintah ingin bagiannya. Itulah RPGT, pajak yang sering terlewatkan oleh penjual sampai pengacara menahan ribuan ringgit di meja penyelesaian.

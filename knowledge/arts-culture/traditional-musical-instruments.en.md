@@ -29,7 +29,7 @@ faq:
     a: "The serunai is played using the circular breathing technique, which allows its sound to continue without interruption, making it the main carrier of the melody in the Nobat."
 
 lang: "en"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,33 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: 'A tattooed Orang Ulu musician in a feathered hat and beaded costume plays a large sape lute painted with bold red and black Bornean spiral motifs'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: A row of large rebana ubi drums on blue wooden stands, their bodies and frames painted with vivid floral patterns in red, green, yellow and pink
+    kind: actual
+    origin: third-party
+    subject: Row of large rebana ubi frame drums from Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: An elder man in an orange shirt plays a serunai double-reed wind pipe, with rows of Malay frame drums lined up on the floor behind him
+    kind: actual
+    origin: third-party
+    subject: Elder musician playing the serunai double-reed pipe at his home in Kelantan, Malaysia
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 The same sounds recur behind almost every Malaysian performing art: the beat of goat skin struck in groups at a wedding, the high, plaintive flute that opens a shadow-puppet scene, and the soothing pluck of wooden strings in a Sarawak longhouse. The instruments that make them turn up across many arts articles — so this page gathers them in one place.

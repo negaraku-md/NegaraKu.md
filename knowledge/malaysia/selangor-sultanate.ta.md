@@ -21,7 +21,7 @@ appliesTo: "மலேசியாவின் ஒன்பது அரச ம�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "செலாங்கூரின் முதல் British Resident (James Guthrie Davidson) பதவியேற்ற சரியான ஆண்டு: ஆதாரங்கள் 1874 மற்றும் 1875 இரண்டையும் கொடுக்கின்றன. J.M. Gullick-இன் செலாங்கூர் தொடர்பான ஆக்கம் போன்ற ஓர் அறிவுத்துறை வரலாற்றுடன் உறுதிப்படுத்துங்கள்."
   - "Sultan Salehuddin Shah-இன் மரணத் தேதி (ஆதாரங்கள் 1778 மற்றும் 1782 கொடுக்கின்றன) மற்றும் Kota Lumut-இல் துல்லியமான 1766 முடிசூட்டு விவரங்கள்; செலாங்கூரின் ஓர் அறிவுத்துறை வரலாற்றுடன் உறுதிப்படுத்துங்கள்."
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: 'சிவப்பு ஓட்டுக் கூரை மற்றும் அகன்ற தடுப்புக் கைப்பிடிகளுடன் கூடிய திண்ணையைக் கொண்ட, வெண்ணிறமாகப் பூசப்பட்ட இரண்டு மாடி காலனித்துவ கால அரண்மனை, தென்னை மரங்களால் சூழப்பட்ட நேர்த்தியாகப் பராமரிக்கப்பட்ட புல்வெளியில் நிற்கிறது.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: வளைவான ஜன்னல்கள் மற்றும் ஓட்டுக் கூரையுடன் கூடிய வெள்ளை மற்றும் கிரீம் நிற பிரமாண்டமான காலனித்துவ பாணி பாரம்பரியக் கட்டிடம், புல்வெளிகளுக்குப் பின்னால் அமைந்து, Klang-இல் செலாங்கூர் அரச கேலரியைக் கொண்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: Selangor, Klang-இல் உள்ள Galeri Diraja Sultan Abdul Aziz (சுல்தான் அப்துல் அஜீஸ் அரச கேலரி)
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: ஒரு பெரிய மைய குவிமாடம், பக்கவாட்டு குவிமாடங்கள் மற்றும் மெல்லிய மினாராக்களுடன் கூடிய நேர்த்தியான நீல-வெள்ளை அரச மசூதி, Klang-இல் தெளிவான வானத்தை நோக்கி உயர்கிறது.
+    kind: actual
+    origin: third-party
+    subject: Selangor, Klang-இல் உள்ள Masjid Diraja Sultan Sulaiman (சுல்தான் சுலைமான் அரச மசூதி)
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 மலாய் தீபகற்பத்தின் மேற்குக் கடற்கரையில், Klang மற்றும் Selangor ஆறுகள் Strait of Malacca-வுக்குள் வடியும் இடத்தில், தீவுக்கூட்டத்தின் தொலைதூரப் பக்கத்திலிருந்து வந்த ஒரு கடற்பயண மக்கள் தீபகற்பத்தின் மிகச் செல்வந்த மாநிலங்களில் ஒன்றைக் கட்டினர். அவர்களின் செல்வம் மசாலா அல்லது தங்கத்தின் மீது அல்ல, தகரத்தின் மீது கட்டப்பட்டது — ஒரு நூற்றாண்டுக்குள் இளம் சுல்தானகத்தை அதன் சொந்த செல்வங்களுக்காக ஒரு போருக்குள்ளும், இறுதியில் ஒரு British Resident-இன் நிழலுக்குக் கீழும் இழுக்கப்போகும் பள்ளத்தாக்குகளில் புதைந்திருந்த சாம்பல்நிறத் தாது. செலாங்கூர் சுல்தானகத்தின் கதை இது — அதன் வரிசை இன்றும் அரியணையில் அமர்ந்திருக்கும் ஒரு Bugis வம்சம்.

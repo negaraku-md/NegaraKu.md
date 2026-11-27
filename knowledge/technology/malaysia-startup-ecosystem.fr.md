@@ -36,7 +36,7 @@ faq:
     a: "KL20 est le plan d'action 2024 du gouvernement, dévoilé lors du KL20 Summit à Kuala Lumpur, visant à renforcer la compétitivité des startups de la Malaisie. Il expose des initiatives dans trois domaines critiques — le capital, le talent et la qualité des startups — et vise à faire de la Malaisie l'un des 20 principaux pôles mondiaux de startups, avec une valorisation des startups de RM400 milliards d'ici 2030. Il est aligné sur la Feuille de route du capital-risque de la Malaisie 2024-2030 et sur l'objectif de faire de la Malaisie un pôle régional de capital-risque de référence d'ici 2030."
 
 lang: "fr"
-sourceContentHash: "0c6b5fee40e498df"
+sourceContentHash: "a29e6a459abaafdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "écosystème de startups de la Malaisie", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-1.webp
+    alt: Des personnes travaillant sur des ordinateurs portables et discutant à de longues tables en bois partagées dans un espace de coworking chaleureux de style industriel avec de grandes fenêtres et un canapé en cuir
+    kind: representative
+    origin: third-party
+    subject: Des personnes travaillant sur des ordinateurs portables et discutant à des tables partagées dans un espace de coworking de style industriel
+    credit: Thecommondesk / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CM_Deep_Ellum_12122018-28_(1).jpg
+  - role: scene
+    src: /media/technology/malaysia-startup-ecosystem/body-2.webp
+    alt: Un petit groupe de fondateurs de startups debout en cercle dans un bureau de coworking, écoutant attentivement l'un d'eux prendre la parole lors d'un événement tech
+    kind: representative
+    origin: third-party
+    subject: Un petit groupe de fondateurs de startups discutant ensemble lors d'un événement d'incubateur tech
+    credit: Fredericknoronha / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'Un immeuble de bureaux technologiques moderne de plusieurs étages à Cyberjaya, en Malaisie, aux façades à lames horizontales de verre et de métal et portant l''enseigne « TM Innovation Centre », sous un ciel bleu dégagé.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 Demandez à dix fondateurs malaisiens d'où vient l'argent public destiné aux

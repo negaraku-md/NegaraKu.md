@@ -27,7 +27,7 @@ faq:
   - q: "कोई कंपनी अपने स्वयं के पैनल स्थापित किए बिना अक्षय ऊर्जा कैसे खरीद सकती है?"
     a: "कॉर्पोरेट ग्रीन पावर प्रोग्राम (CGPP) एक कॉर्पोरेट उपभोक्ता को अक्षय ऊर्जा और उसके हरित गुणों के लिए किसी सौर बिजली उत्पादक के साथ एक वर्चुअल पावर परचेज़ एग्रीमेंट पर हस्ताक्षर करने देता है, जिसमें दृढ़ आपूर्ति का समर्थन उपयोगिता द्वारा किया जाता है। इसका 800 MW कोटा नवंबर 2023 में पूर्णतः अभिदानित हो गया था। जो कॉर्पोरेट इससे चूक गए वे कॉर्पोरेट रिन्यूएबल एनर्जी सप्लाई स्कीम (CRESS) का उपयोग कर सकते हैं, जो सितंबर 2024 में शुरू हुई, और एक सिस्टम एक्सेस चार्ज के बदले TNB की ग्रिड पर हरित बिजली पहुँचाती है।"
 lang: "hi"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -109,9 +109,35 @@ sources:
     publisher: "SEDA मलेशिया"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'मलेशिया में एक परिसर की झील पर ढकी हुई पैदल पथ के साथ तैरता हुआ सौर फोटोवोल्टिक सरणी।'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: साफ़ किए गए घास के मैदान में नीची धातु फ्रेमों पर गहरे-नीले सौर फोटोवोल्टिक पैनलों की लंबी कतारें, बाड़ से घिरी और दूर की पेड़-कतार की ओर फैली हुई, छिटपुट बादलों वाले चमकीले नीले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: सबा के सुंगई-सुंगई में ज़मीन पर लगा एक सौर फोटोवोल्टिक फार्म, ग्रामीण ग्रिड के लिए बिजली उत्पन्न करता हुआ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: वनाच्छादित पहाड़ियों के बीच एक हरे जलाशय को रोकता एक घुमावदार बाँध, जिसके मुख पर एक स्पिलवे चैनल और प्रवेश-संरचनाएँ हैं, और आसपास की ढलानों को ढकता घना उष्णकटिबंधीय जंगल
+    kind: actual
+    origin: third-party
+    subject: केलंतान में पेरगाउ जलविद्युत बाँध और जलाशय, प्रायद्वीपीय मलेशिया की एक नवीकरणीय जलविद्युत परियोजना
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 यदि आपने मलेशिया में अक्षय ऊर्जा (RE) के बारे में पढ़ने की कोशिश की है, तो आप शायद तीन अलग-अलग लक्ष्य आँकड़ों — 31%, 40% और 70% — और संक्षिप्त नामों की एक दीवार से टकराए होंगे: FiT, NEM, LSS, CGPP, CRESS, SELCO. इनमें से कुछ भी विरोधाभासी नहीं है; यह बस आधा दर्जन एजेंसियों में फैला हुआ है, जिनमें से प्रत्येक केवल अपना कोना दस्तावेज़ित करती है। यह मार्गदर्शिका पूरे परिदृश्य को एक स्थान पर समेटती है: राष्ट्रीय लक्ष्य और उनके पीछे के रोडमैप, योजनाओं का परिवार, और — वह भाग जिसे अधिकांश स्रोत छोड़ देते हैं — कौन-सा कार्यक्रम वास्तव में किसी गृहस्वामी, व्यवसाय, या डेवलपर के लिए है।

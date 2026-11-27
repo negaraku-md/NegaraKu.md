@@ -32,7 +32,7 @@ faq:
     a: "No. Bharatanatyam is a classical dance form; nadaswaram is an instrumental music tradition played at temples and auspicious events. Both belong to the artistic heritage of the Tamil community but are distinct; nadaswaram/temple music is described separately here, while this article focuses on the classical stage arts."
 
 lang: "en"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
+heroAlt: 'Young Indian classical dancer in a blue and gold Bharatanatyam costume striking a pose on a plaza, with a red tiered Chinese temple rising behind her'
+heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: Female Odissi dancer in a bright blue costume and silver temple jewellery holding a graceful stylised pose against a black stage backdrop
+    kind: representative
+    origin: third-party
+    subject: Odissi classical dancer mid-pose in blue costume and silver jewellery
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: Woman in a yellow and purple silk sari playing a violin held in the seated Carnatic style, leaning into a microphone on stage
+    kind: representative
+    origin: third-party
+    subject: Carnatic violinist performing in a silk sari at a classical music concert
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 On a Deepavali evening or a temple-festival day in any of Malaysia's big cities, you can see a Bharatanatyam artist take the stage, ankle bells ringing, moving to the rhythm of the mridangam. Those steps and gestures are not random — they tell of a South Indian art tradition more than a thousand years old, and of the way the Malaysian Tamil community has carried it for over a century and a half.

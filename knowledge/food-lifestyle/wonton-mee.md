@@ -108,6 +108,7 @@ dishFacts:
   halal: "By tradition wonton mee is a pork dish — the char siu is barbecued pork and the wontons are filled with pork and prawn — so the classic bowl is not halal. Many Muslim-run stalls across Malaysia sell halal versions that swap the pork for chicken 'char siu' and use chicken or prawn wontons; vegetarian renditions using wheat gluten or mushrooms also exist. As practices vary by stall, check the individual shop if this matters to you."
   eat: "In the dry (kon lou) style the noodles arrive tossed and glistening with the char siu on top, while the wontons sit separately in a small bowl of soup on the side — you eat the noodles, then spoon up the broth and dumplings in between. Pickled green chillies, sliced and steeped in vinegar, are the near-universal condiment, their sharp, sour-spicy bite cutting the richness; a dollop of chilli sauce or sambal is often offered too."
   where: "Wonton mee is a fixture of Malaysian hawker stalls and the kopitiam and mamak breakfast table, especially the dry style associated with Kuala Lumpur and much of the peninsula. It shifts from town to town, with noted regional takes in Penang, Ipoh and Sarawak."
+wikidata: "Q3269812"
 ---
 
 Order wonton mee in Kuala Lumpur and you get a small mound of glossy egg noodles

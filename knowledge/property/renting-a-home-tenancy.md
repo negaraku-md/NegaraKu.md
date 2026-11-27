@@ -81,6 +81,32 @@ faq:
   - q: Can a landlord change the locks or cut the utilities if a tenant refuses to leave?
     a: No. Section 7(2) of the Specific Relief Act 1950 bars a landlord from self-help eviction — no changing locks, cutting electricity or water, or removing belongings while the tenant is still in occupation. Recovering possession requires a court order. For unpaid rent, a landlord applies to court for a warrant of distress under the Distress Act 1951 to seize the tenant's movable property, rather than confronting the tenant directly.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'High-rise apartment flats beside an LRT line at Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Dense high-rise apartment flats beside a river in Kuala Lumpur, representing rental housing in Malaysia
+    kind: representative
+    origin: third-party
+    subject: High-rise apartment flats at Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Mid-rise and high-rise apartment blocks in suburban George Town, Penang, typical of homes offered for rent in Malaysia
+    kind: representative
+    origin: third-party
+    subject: Apartment blocks in suburban George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Ask a landlord and a tenant in Malaysia which law protects them, and most will guess wrong. There is no "Residential Tenancy Act" to reach for — no single statute setting notice periods, capping deposits, or spelling out what a landlord can and can't do at move-out.

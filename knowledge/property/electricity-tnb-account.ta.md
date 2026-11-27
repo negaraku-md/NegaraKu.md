@@ -23,7 +23,7 @@ appliesTo: "மலேசியாவில் புதிய வீடு அ�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "mobile-sim-plans"]
 keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", "tukar nama akaun elektrik", "Change of Tenancy TNB", "SESB Sabah elektrik", "Sarawak Energy deposit", "myTNB Self Meter Reading", "bacaan meter elektrik", "Kedai Tenaga"]
 framework: how-to
+hero: '/media/property/electricity-tnb-account/hero.webp'
+heroAlt: 'மலேசியாவில் ஒரு வீட்டில், கையால் எழுதப்பட்ட கணக்கு எண் அட்டையுடன் சுவரில் பொருத்தப்பட்ட தெனகா நேசனல் பெர்ஹாத் (TNB) மின் மீட்டர்.'
+heroCredit: 'Hezery99 / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: பெட்டாலிங் ஜெயாவின் Bandar Utama இல் வேலியிட்ட Tenaga Nasional மின் துணைமின்நிலையம்; செலாங்கூர் முழுவதும் ஒவ்வொரு வீட்டு TNB கணக்கிற்கும் மின்சாரம் வழங்கும் மின்வலையமைப்பின் ஒரு இணைப்பு இது.
+    kind: actual
+    origin: third-party
+    subject: பெட்டாலிங் ஜெயா, Bandar Utama இல் உள்ள Tenaga Nasional மின் துணைமின்நிலையம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Bandar Utama இல் உள்ள Tenaga Nasional இன் முதன்மை உள்வாங்கல் நிலையம் சுவிட்ச்கியர் மற்றும் கம்பித் தாங்கிகளால் நிறைந்துள்ளது; நுகர்வோர் வீடுகளில் உள்ள மீட்டர்களை மின்சாரம் அடைவதற்கு முந்தைய உயர் மின்னழுத்தப் படி இது.
+    kind: actual
+    origin: third-party
+    subject: Tenaga Nasional இன் முதன்மை உள்வாங்கல் (PPU) செலுத்துகை நிலையம், Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 நீங்கள் புதிய வீட்டின் சாவியைப் பெற்றுவிட்டீர்கள், ஆனால் விளக்குச் சுவிட்ச்

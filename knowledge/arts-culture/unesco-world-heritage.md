@@ -90,6 +90,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'The deep terracotta-red Dutch Stadthuys building and its square clock tower in Melaka, ringed by a planted roundabout of red and green foliage, with directional signposts in the foreground under a bright overcast sky'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: A narrow heritage street in George Town, Penang, lined with old two-storey shophouses hung with red lanterns and a Batik Painting Museum signboard, a blue Lebuh Armenian street sign on the right and a quiet road with a yellow pedestrian crossing
+    kind: actual
+    origin: third-party
+    subject: Lebuh Armenian (Armenian Street) in the George Town heritage quarter of Penang, part of the UNESCO World Heritage Site
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: The grey granite massif of Mount Kinabalu in Sabah, its jagged ridgeline rising above forested foothills, with leafy green trees and a grassy slope in the foreground under a clear blue sky
+    kind: actual
+    origin: third-party
+    subject: Mount Kinabalu rising above Kinabalu Park in Sabah, a UNESCO World Heritage Site
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 Ask how many World Heritage Sites Malaysia has and most sources will tell you four. That was true until 2024. The Niah Caves Complex was inscribed that July, and Forest Research Institute Malaysia Forest Park Selangor followed in 2025 — bringing the total to six.

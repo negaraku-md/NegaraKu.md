@@ -27,7 +27,7 @@ faq:
   - q: "MDEC est-elle la même chose que MSC Malaysia ?"
     a: "Non. MDEC est l'agence ; MSC Malaysia était son programme antérieur. MSC Malaysia a été renommée Malaysia Digital, et le statut MD est le successeur de l'ancien statut MSC Malaysia."
 lang: "fr"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,9 +65,37 @@ sources:
 entity: "Malaysia Digital Economy Corporation (MDEC)"
 wikidata: "Q279453"
 relations: []
-related: []
+related: ["digital-economy-overview", "ministry-of-digital-malaysia", "mdec-digital-status"]
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
+hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
+heroAlt: 'Panorama aérien de Cyberjaya, le corridor technologique de Malaisie, montrant des immeubles de bureaux, des autoroutes et des aménagements paysagers verts'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Un panneau portant l'inscription « MSC Headquarters, Multimedia Development Corporation » à côté d'un bassin paysager et d'une fontaine à Cyberjaya
+    kind: actual
+    origin: third-party
+    subject: Panneau du siège du MSC / Multimedia Development Corporation (prédécesseur de la MDEC) à Cyberjaya
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: Une grande lettre sculpturale rouge C portant l'inscription « Cyberjaya Malaysia » avec un motif de circuit imprimé, dans un parc en bord de route à Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: Signalétique sculpturale « Cyberjaya Malaysia » dans un parc en bord de route à Cyberjaya
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 Cherchez «Malaysia Digital Status» et presque tous les résultats seront un cabinet de conseil vendant un service de dépôt de demande — et la plupart confondent trois choses distinctes en une seule. Il y a l'**agence** (MDEC), le **statut** qu'elle octroie (statut MD) et une **incitation fiscale** qui est une demande entièrement distincte assortie d'exigences bien plus strictes. Les garder séparés fait la différence entre un seuil de RM1,000 et un seuil de RM50,000. Voici chaque strate, à partir de sources primaires.

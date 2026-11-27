@@ -98,6 +98,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'A cellular telecommunications tower carrying multiple panel antennas against a clear sky.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: A large dark exhibition booth with an illuminated CelcomDigi logo and brand name across the top and a glowing blue panel reading CelcomDigi fibre, Ultra Smooth Low Latency, with visitors in face masks gathered below
+    kind: actual
+    origin: third-party
+    subject: a CelcomDigi exhibition stand promoting fibre broadband, showing a Malaysian mobile and broadband operator's consumer presence
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: A long wall of rack-mounted computer servers receding at an angle, each tier studded with sparkling blue status lights against the dark metal cabinets
+    kind: representative
+    origin: third-party
+    subject: rows of networking and server equipment glowing with blue indicator lights in a data centre, the infrastructure underpinning telecom networks
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 Almost everyone in Malaysia carries a mobile connection, and most homes have some form of broadband. That makes telecommunications one of the country's most important and most mature industries — the invisible plumbing beneath the digital economy, online banking, e-government and everyday life. Yet behind the familiar brand names sits a market that has changed dramatically in recent years: fewer operators, bigger mergers and a national experiment in how to build 5G.

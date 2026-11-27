@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ஒரு தனியார் வசதியில் நிபுணர் ஆலோசனை அல்லது மருத்துவமனை சேர்க்கையை எதிர்கொள்ளும் மலேசியாவில் உள்ள எவரும் — நோயாளிகள், பராமரிப்பாளர்கள், மற்றும் முதலாளி வழங்கும் மருத்துவ அட்டைகள் அல்லது காப்பீட்டை நம்பியிருக்கும் ஊழியர்கள்."
 
 lang: "ta"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,33 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'நவீன மலேசிய தனியார் மருத்துவமனைக் கட்டிடமான Sunway Medical Centre Tower C-ன் சிவப்பு-வெள்ளை முகப்பு; Sunway Medical Centre எனப் படிக்கும் பலகை'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: கோலாலம்பூரில் Prince Court Medical Centre இன் நவீன கட்டிடம், அதன் முகப்பில் பொன்னிற சொல்லடையாளத்துடனும் முன்புறத்தில் நகரச் சாலைப் பலகையுடனும்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் ஒரு தனியார் மருத்துவமனையான Prince Court Medical Centre
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: SunMed பலகை ஒளிரும்படி, மூடிய உயரமான போக்குவரத்து நிலையத்தருகே மாலைப்பொழுதில் Sunway Medical Centre கட்டிடங்கள்
+    kind: actual
+    origin: third-party
+    subject: பந்தார் சன்வேயில் Sunway Medical Centre மற்றும் அதையொட்டிய BRT/LRT நிலையம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 நீங்கள் ஒரு செயல்முறைக்காக உள்ளே செல்கிறீர்கள், ஆனால் ஒன்றாக இணைக்கப்பட்ட இரண்டு பில்கள் போல் தோன்றுவதை எடுத்துக்கொண்டு வெளியே வருகிறீர்கள். ஒன்று அறுவை சிகிச்சை நிபுணரிடமிருந்து. மற்றொன்று மருத்துவமனையிடமிருந்து. அவற்றின் அளவு அரிதாகவே பொருந்துகிறது, மேலும் அவை ஏன் முதலிடத்தில் தனித்தனியாக உள்ளன என்பதை கிட்டத்தட்ட யாரும் விளக்குவதில்லை.

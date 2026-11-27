@@ -32,7 +32,7 @@ faq:
     a: "சில நேரங்களில். MMC மெய்நிகர் ஆலோசனைகளை ஏற்கனவே உள்ள மருத்துவர்-நோயாளி உறவுக்குப் பிந்தைய தொடர் பராமரிப்பாகவே விரும்புகிறது, ஆனால் மருத்துவர் காரணங்களை ஆவணப்படுத்தினால், குறிப்பாக அடிப்படை பராமரிப்பில் (primary care), முதல் ஆன்லைன் ஆலோசனையை அனுமதிக்கிறது. தாங்கள் நேரில் பரிசோதிக்காத நோயாளிகளுக்கு மருந்து பரிந்துரைப்பதில் எச்சரிக்கையாக இருக்கவும், ஆன்லைன் ஊடகம் உங்களைப் பாதுகாப்பாக மதிப்பிடப் போதுமானதாக இல்லாதபோது நேரில் சந்திப்பதற்கு உங்களைப் பரிந்துரைக்கவும் மருத்துவர்களுக்குச் சொல்லப்பட்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'ஒரு தொலைமருத்துவ பணியிடத்தில் ஒரு மருத்துவர், நோயறிதல் திரைகளுக்கு அருகில் ஒரு காணொளித் திரையில் தொலைதூர நோயாளியை ஆய்வு செய்கிறார்.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: பின்னால் ஒரு நிலையில் வெள்ளை கோட்டு தொங்க, மேசையில் தொலைபேசியில் பேசிக்கொண்டே குறிப்புகள் எடுக்கும் ஒரு மருத்துவர், தொலைதூர தொலைபேசி மருத்துவ ஆலோசனையைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு மருத்துவர் தனது மேசையில் தொலைபேசி மூலம் தொலைதூர ஆலோசனை வழங்குகிறார்
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: கையடக்க அல்ட்ராசவுண்டு ப்ரோபுடன் சேர்ந்து தொலைசுகாதார வீடியோ ஆலோசனை ஆப்பை இயக்கும் ஸ்மார்ட்போனை கைகள் பிடித்திருக்கின்றன, தொலைதூர ஆன்லைன் நோயறிதலைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு ஸ்மார்ட்போன் ஆப் மூலம் மேற்கொள்ளப்படும் தொலைதூர வீடியோ வழிகாட்டப்பட்ட அல்ட்ராசவுண்டு ஸ்கேன்
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 நீங்கள் ஒரு ஆப்பைத் திறந்து, உங்கள் சோஃபாவில் இருந்தபடியே ஒரு மருத்துவரை வீடியோ அழைப்பு செய்கிறீர்கள், ஒரு மணிநேரம் கழித்து ஒரு மருந்துச்சீட்டு உங்கள் இன்பாக்ஸில் வந்து சேர்கிறது. மலேசியாவில் இது முழுக்க முழுக்க சட்டப்பூர்வமானது — ஆனால் அதற்குப் பின்னால் உள்ள விதிப் புத்தகம் நீங்கள் எதிர்பார்க்கும் சட்டம் அல்ல.

@@ -32,7 +32,7 @@ faq:
   - q: "क्या तमिल विद्यालयों में मलय और अंग्रेज़ी पढ़ाई जाती है?"
     a: "हाँ। यद्यपि SJKT में शिक्षण माध्यम तमिल है, मलय (Bahasa Melayu) और अंग्रेज़ी अनिवार्य विषयों के रूप में पढ़ाई जाती हैं। इससे विद्यार्थी तमिल में बुनियादी शिक्षा पाते हैं और साथ ही राष्ट्रीय माध्यमिक विद्यालयों में जाने के लिए मलय में भी तैयारी करते हैं।"
 lang: "hi"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,32 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: 'जोहोर में एक मलेशियाई तमिल-माध्यम राष्ट्रीय-प्रकार प्राथमिक विद्यालय, सेकोलाह जेनिस केबांगसान (तमिल) सेरी पेलांगी का द्वार और बहुमंज़िला भवन।'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: केदाह में S.J.K (Tamil) Changlun का नीला प्रवेश-पट्ट, जिस पर विद्यालय का नाम तमिल और मलय में तथा विद्यालय का प्रतीक-चिह्न दर्शाया गया है।
+    kind: actual
+    origin: third-party
+    subject: एक तमिल-माध्यम राष्ट्रीय-प्रकार के विद्यालय, SJK(T) Changlun का नाम-पट्ट
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: केदाह में SJK(T) Changlun का कक्षा-खंड और प्रांगण, जिसमें एक ढके हुए रास्ते के किनारे कक्षा-द्वार, सूचना-पट्ट और झंडे हैं।
+    kind: actual
+    origin: third-party
+    subject: एक तमिल-माध्यम विद्यालय, SJK(T) Changlun का कक्षा-खंड
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 मलेशिया के किसी भी कोने में — किसी पुराने रबड़ बागान के किनारे पर, या किसी नगर की परिधि पर — एक छोटा-सा तमिल विद्यालय देखा जा सकता है। उन विद्यालयों में से कई का इतिहास एक शताब्दी से भी अधिक पुराना है; वे केवल भवन नहीं, बल्कि एक समुदाय के प्रवास, श्रम और भाषा के साक्षी हैं।

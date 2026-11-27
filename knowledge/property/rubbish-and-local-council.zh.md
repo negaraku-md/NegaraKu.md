@@ -23,7 +23,7 @@ appliesTo: "居住在大马、需要了解自己所在地区由谁收垃圾、�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,32 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: '雪兰莪州哥打白沙罗（Kota Damansara）一座组屋楼外，一辆 KDEB Waste Management 垃圾车正在收集垃圾。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: 雪兰莪哥打白沙罗（Kota Damansara）一处草地边缘，一个标有MBPJ地方议会徽章的蓝色公共垃圾桶
+    kind: representative
+    origin: third-party
+    subject: 哥打白沙罗一个印有MBPJ（八打灵再也市政厅）徽章的议会垃圾桶
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: 吉隆坡一处公共场所的一排四个贴有标签的回收桶，分别回收纸张、罐与塑料、玻璃以及不可回收垃圾
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡用于纸张、罐与塑料、玻璃及不可回收垃圾的分类回收桶
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 你家的垃圾桶每周被收走两次，但你是否曾想过，实际上是谁在收——是地方政府，还是地方政府委托的另一家公司？还有，为何隔壁州属的邻居会因为没有把塑料瓶与厨余分开而遭罚款，你却不会？

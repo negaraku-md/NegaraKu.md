@@ -24,7 +24,7 @@ appliesTo: "マレーシアで妊娠している人、妊娠を計画してい�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 
 status: "published"
 aiAssisted: true
@@ -61,6 +61,32 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Malaysia", "Pink Book pregnancy", "Rekod Kesihatan Ibu", "klinik kesihatan pregnant", "public vs private delivery Malaysia", "birth registration JPN", "maternity Malaysia", "government hospital delivery Malaysia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'Hospital Kuala Lumpur の産科棟（Hospital Bersalin）の外観で、背景に市街のスカイラインがある。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: 清潔で近代的な産科病室。空のベッドと透明な新生児用コットがあり、人の姿はない
+    kind: representative
+    origin: third-party
+    subject: 病院のベッドと、その横に置かれた透明な新生児用コットのある産科病室
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: 灰色のいすが並び、壁に「Antenatal Clinic」と記された、きれいで誰もいない病院の妊婦健診待合室
+    kind: representative
+    origin: third-party
+    subject: いすが並び、壁に「Antenatal Clinic」の文字が掲げられた空の妊婦健診待合エリア
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 妊娠検査で陽性反応が出ると、同時に二つの「時計」が動き始めるが、それを前もって説明してくれる人はほとんどいない。一つ目の時計は妊娠そのものに関するもの——いつ、どこで登録し、各受診で何が行われるかである。もう一つは赤ちゃんが生まれてから初めて動き出すもので、病院とは一切関係がない。まったく別の部署が扱う法的な登録手続きである。

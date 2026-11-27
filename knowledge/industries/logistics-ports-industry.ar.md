@@ -34,7 +34,7 @@ faq:
     a: "احتلت ماليزيا المرتبة الـ26 في مؤشر أداء الخدمات اللوجستية للبنك الدولي 2023، صعوداً من الـ41 في 2018، والثانية بين دول آسيان بعد سنغافورة."
 
 lang: "ar"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["موانئ ماليزيا", "Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "إعادة الشحن", "transhipment", "container port", "الخدمات اللوجستية في ماليزيا", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'صفوف من رافعات الرصيف الجسرية (من السفينة إلى الشاطئ) تناول الحاويات في ميناء تانجونج بيليباس في جوهور بماليزيا.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: رافعة جسرية بإطارات مطاطية تمتدّ فوق صفوف من حاويات الشحن المكدّسة في Bintulu International Container Terminal، Sarawak.
+    kind: actual
+    origin: third-party
+    subject: رافعة جسرية بإطارات مطاطية فوق حاويات مكدّسة في Bintulu International Container Terminal، Sarawak، ماليزيا
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: حاويات شحن ملوّنة مكدّسة على سطح سفينة حاويات راسية في Port Klang، Selangor، ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: حاويات شحن محمّلة على سفينة في Port Klang، ماليزيا
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 حرّك ميناء كلانغ (Port Klang) 15.14 مليون حاوية شحن في 2025 — بما يكفي لتجاوز هونغ كونغ واختراق أكثر عشرة موانئ ازدحاماً في العالم للمرة الأولى. وحرّك ميناء ماليزي ثانٍ، تانجونغ بيليباس (Tanjung Pelepas)، 14 مليوناً أخرى. ولا يصف أيٌّ من هذين الرقمين بلداً يصنع معظم تلك البضائع. بل يصف بلداً يقع في المكان الصحيح وتعلّم أن يجبي ريعاً على تجارة العالم.

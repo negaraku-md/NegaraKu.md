@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana adalah kamus rujukan digital resmi DBP, bagian dari agenda transformasi digital untuk menyediakan platform rujukan bahasa Melayu yang komprehensif dan dapat diakses gratis di kamus.dbp.gov.my."
 
 lang: "id"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["dewan bahasa dan pustaka", "dbp", "bahasa melayu", "kamus dewan", "sasterawan negara", "badan berkanun"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'Menara tinggi Dewan Bahasa dan Pustaka di Kuala Lumpur saat golden hour, nama dan lambangnya di puncak gedung di atas lapangan berpohon'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: Mural mozaik besar bergaya kubisme berwarna-warni yang menggambarkan kehidupan Malaysia di fasad gedung Dewan Bahasa dan Pustaka, dengan menara kantor menjulang di belakang
+    kind: actual
+    origin: third-party
+    subject: Mural mozaik besar pada blok podium DBP dengan spanduk 'Bahasa Bangsa Negara' dan menaranya di belakang, Kuala Lumpur
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: Portiko pintu masuk beratap pelana megah dari gedung Dewan Bahasa dan Pustaka, berlapis panel ukiran bermotif Melayu yang rumit di atas tangga yang lebar
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama DBP dengan panel ukiran bermotif Melayu dan tangga megahnya, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 Setiap kali Anda memeriksa ejaan suatu kata Melayu, menemukan istilah sains yang baru, atau membaca gelar seorang Sasterawan Negara, ada satu institusi di balik layar: Dewan Bahasa dan Pustaka.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "विधि-निर्माण की शक्ति नौवीं अनुसूची की संघीय, राज्य तथा समवर्ती सूचियों द्वारा संघ और राज्यों के बीच बँटी है"
 appliesTo: "वह कोई भी जो मलेशिया में नया है और किसी एक संस्था में गहराई तक जाने से पहले यह समझना चाहता है कि संवैधानिक रूप से यह किस प्रकार का देश है।"
 lang: "hi"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["मलेशिया क्या है", "what is Malaysia", "मलेशिया का संघ", "federation of Malaysia", "13 राज्य 3 संघीय क्षेत्र", "निर्वाचनात्मक राजशाही", "elective monarchy Malaysia", "मलेशिया की संघीय संरचना", "Yang di-Pertuan Agong", "संघीय संविधान", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'मलेशिया का एक राजनीतिक मानचित्र जिसमें पश्चिम में प्रायद्वीपीय मलेशिया और पूर्व में बोर्नियो पर साबाह तथा सारावाक दर्शाए गए हैं, और प्रमुख शहर अंकित हैं।'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: लाल और सुनहरे रंग का एक चीनी प्रवेश-द्वार, जिसके ऊपर सुनहरे ड्रैगन सजे हैं, एक नीले बोर्ड पर JALAN PETALING / PETALING STREET लिखा है और उसके नीचे एक बहुभाषी स्वागत बैनर है, कुआलालंपुर के चाइनाटाउन में।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर के चाइनाटाउन में अलंकृत Petaling Street द्वार
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: भगवान Murugan की एक विशाल सुनहरी मूर्ति जंगल से ढकी एक चूना-पत्थर की चट्टान पर चढ़ती चटख रंगों वाली खड़ी सीढ़ियों की एक कतार के बगल में खड़ी है, जबकि दर्शक ऊपर चढ़ रहे हैं।
+    kind: actual
+    origin: third-party
+    subject: Batu Caves, Selangor में सुनहरी Lord Murugan मूर्ति और इंद्रधनुषी सीढ़ी
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 मलेशिया एक सरकार वाला कोई एक स्थान नहीं है। यह एक संघ है — एक ऐसा देश जो तेरह राज्यों और तीन संघीय क्षेत्रों को जोड़कर बुना गया है, और जो दो भूभागों पर स्थित है जिनके बीच दक्षिण चीन सागर के कई सौ किलोमीटर की दूरी है। इस संरचना को पहले समझ लेने से इस देश के बारे में लगभग हर दूसरी बात का अनुसरण करना कहीं आसान हो जाता है।

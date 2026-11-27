@@ -31,7 +31,7 @@ faq:
   - q: Mengapa pembinaan kapal begitu terkait dengan minyak dan gas di Malaysia?
     a: Sebahagian besar armada komersial yang dibina dan dibaiki limbungan Malaysia — kapal sokongan luar pesisir, pengendali sauh dan bot kerja — wujud untuk melayani pelantar minyak dan gas luar pesisir di perairan Malaysia. Apabila perbelanjaan tenaga kukuh, pesanan meningkat; apabila harga minyak jatuh, limbungan menghadapi lebihan kapasiti. Lihat panduan berkaitan mengenai industri perkhidmatan dan peralatan minyak dan gas.
 lang: ms
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'Sebuah limbungan tepi laut dengan kren gantri merah tinggi dan kapal besar dalam pembinaan'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: Pandangan udara sebuah kilang pembinaan bot putih yang besar di Malaysia, dengan badan kapal kelihatan di pintu teluk yang terbuka
+    kind: actual
+    origin: third-party
+    subject: Kilang pembinaan bot Grand Banks Yachts di Pasir Gudang, Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: Pandangan udara dari atas dewan fabrikasi besar dan limbungan sebuah limbungan kapal Malaysia di tepi sungai
+    kind: actual
+    origin: third-party
+    subject: Pandangan dari atas limbungan kapal Grand Banks Yachts di tepi sebuah sungai di Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 Malaysia terletak di dua laluan laut tersibuk dunia dan memperoleh sebahagian besar pendapatannya daripada laut — namun industri pembinaan dan pembaikan kapal (SBSR)-nya ialah salah satu sudut ekonomi nasional yang lebih senyap. Ia nyata, lama bertapak dan penting dari segi strategik, tetapi juga berpecah-pecah, berkitar dan didominasi limbungan yang agak kecil. Panduan ini menerangkan apa yang dibina industri ini, di mana, sebesar mana ia, dan mengapa satu program tentera laut telah membayangi seluruh sektor dalam perdebatan awam.

@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: '夜のクアラルンプールのスカイライン。ライトアップされたオフィスやホテルの建物の後ろにペトロナスツインタワーがそびえ、光るSolaris Mont Kiaraの看板が見える。'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 外国のパスポートでクアラルンプールのほぼどのホテルにチェックインしても、請求書には興味深い項目が1行現れる——滞在した1泊ごとに、定額でRM10。それがマレーシアの観光税（TTx）である。これは小さな定額の課徴金であり、旅行者が他所で出会う割合ベースのホテル税とはまったく異なる働きをする。

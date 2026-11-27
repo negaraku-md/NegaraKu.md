@@ -20,7 +20,7 @@ appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -64,6 +64,32 @@ faq:
   - q: Apakah prasasti tertua yang diketahui dalam bahasa Melayu Kuno, dan bagaimanakah ia berkaitan dengan Srivijaya?
     a: Ia ialah prasasti Kedukan Bukit, bertarikh 682 Masihi, yang mencatatkan satu ekspedisi ketenteraan dan ritual Srivijaya. Selain kepentingannya dalam sejarah Sumatra, ia penting sebagai prasasti tertua yang diketahui ditulis dalam bahasa Melayu Kuno — nenek moyang langsung bagi bahasa Melayu moden dan bahasa Indonesia moden. Apabila rangkaian perdagangan Srivijaya berkembang, bahasa Melayu Kuno tersebar di seluruh kepulauan sebagai lingua franca yang berfungsi beberapa abad sebelum wujudnya mana-mana kesultanan.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: 'Arca Buddha daripada granit kelabu yang lusuh, tanpa kaki, berdiri tenang berlatarkan dedaunan hijau di atas bukit suci bekas ibu kota Srivijaya.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: Seketul batu kelabu kecil berbentuk bulat yang terukir dengan baris-baris tulisan Melayu Kuno purba, iaitu Batu Bersurat Kedukan Bukit zaman Srivijaya, dipamerkan di atas penyangga muzium.
+    kind: actual
+    origin: third-party
+    subject: Batu Bersurat Kedukan Bukit (683 M), batu Melayu Kuno zaman Srivijaya
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: Patung gangsa bodhisattva Avalokiteshvara berlengan lapan, ditemui di Bidor, Perak, dipamerkan tegak di Muzium Negara di Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Avalokiteshvara gangsa dari Bidor (abad ke-8 hingga ke-9), Muzium Negara, Kuala Lumpur
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 Apabila Parameswara melarikan diri dari Temasek pada tahun 1396 dan tersadung ke tebing sungai yang kelak menjadi Melaka, dia bukanlah sesiapa-siapa yang muncul entah dari mana. Kerajaan negeri Melaka sendiri masih merekodkannya, secara jelas, sebagai "seorang putera diraja dari Palembang." Palembang, di Sungai Musi, di selatan Sumatera, pernah menjadi ibu kota sebuah kuasa lautan yang menguasai Selat Melaka selama kira-kira enam ratus tahun sebelum Parameswara dilahirkan — sebuah kerajaan bernama Srivijaya. Menjelang Parameswara tiba di semenanjung, kuasa politik kerajaan itu sudah pun lenyap. Tetapi Kesultanan Melaka yang diasaskannya mewarisi darah keturunannya, malah boleh dikatakan seluruh model tentang bagaimana sebuah pelabuhan perdagangan Melayu sepatutnya berfungsi, terus daripada runtuhan Srivijaya.

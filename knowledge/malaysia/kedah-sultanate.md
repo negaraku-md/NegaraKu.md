@@ -62,6 +62,32 @@ verificationNeeded:
   - "The traditional 1136 CE founding date and the conversion of Phra Ong Mahawangsa into Sultan Mudzaffar Shah I derive from the Kedah Annals (Hikayat Merong Mahawangsa) and At-Tarikh Salasilah Negeri Kedah; historians regard the early date as unlikely, and Richard Winstedt, citing an Acehnese account, gives 1474 for the conversion."
   - "The frequent description of Kedah as 'the oldest Malay sultanate' is a traditional/popular characterisation and is not independently confirmed by the sources cited here."
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'A majestic white Moorish mosque crowned by clustered black onion domes and slender minarets, its ornate arched facade rising above an open plaza beneath dramatic clouds.'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: The ornate timber Balai Besar royal audience hall in Alor Setar, a yellow open-sided pavilion with carved columns, scalloped eaves and a tiered roof.
+    kind: actual
+    origin: third-party
+    subject: Balai Besar (the royal audience hall) in Alor Setar, Kedah
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: The tall octagonal Balai Nobat tower in Alor Setar, a slim cream and gold minaret-like structure topped by a small onion dome, which houses the royal ceremonial orchestra.
+    kind: actual
+    origin: third-party
+    subject: Balai Nobat, the octagonal tower housing the Kedah royal nobat orchestra, in Alor Setar
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 Few places in Malaysia carry their past as openly as Kedah. Long before minarets rose over Alor Setar, the rice-green plain between the Merbok and Muda rivers was a landfall for traders riding the monsoon winds between India, China and the Malay world. Sailors and scholars knew this coast as Kadaram or Kataha; archaeologists know it today by the temple mounds of the Bujang Valley. Out of that cosmopolitan, Hindu-Buddhist beginning grew a Malay monarchy that would weather [Srivijaya](/malaysia/srivijaya) and Chola, Ayutthaya and Bangkok, and finally the British Empire.

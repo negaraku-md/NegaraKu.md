@@ -23,7 +23,7 @@ verificationNeeded:
   - "本文并未引用私人驾驶学校 Class D 课程的确切收费，也未列出 LDL/PDL/CDL 流程的 JPJ 确切收费表，因为查证过程中未能找到单一的官方 JPJ 收费表——在编列预算前，请直接向 JPJ 柜台或持牌驾驶学校确认现行收费。"
   - "Road Transport Act 1987 第28条的确切文字，是透过该法令的二手摘要确认的，而非逐行阅读 JPJ 网站上刊载的 PDF 原文（此处为控制查证篇幅而未采用）——条文编号与实质效力已获多个独立来源相互印证，但若要撰写任何具法律依赖性的文件，请以 JPJ 网站刊载的 Act 333 PDF 原文为准核实确切措辞。"
 lang: "zh"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: '槟城中环站（Penang Sentral）附近一条马来西亚联邦公路的路口，设有黄色警告标志、交通灯和车辆。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: 一块马来西亚限高管制路牌，架设在吉隆坡一条道路上方、靠近收费站入口处。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚道路管制标志
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: 马来西亚联邦91号公路沿线的交通灯与车道标线，公路由此向北穿过柔佛居銮。
+    kind: actual
+    origin: third-party
+    subject: 穿越柔佛居銮的联邦公路
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 一位在海外开了三十年车的 MM2H 退休人士、一位从未碰过手排挡的 Employment

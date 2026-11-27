@@ -34,7 +34,7 @@ faq:
     a: "تنشر دائرة الإحصاء الماليزية (DOSM) إحصاءات التصنيع الشهرية والسنوية وبيانات الناتج المحلي الإجمالي. وتروّج الهيئة الماليزية لتنمية الاستثمار (MIDA) للاستثمار التصنيعي وتعتمده، فيما تملك وزارة الاستثمار والتجارة والصناعة (MITI) الخطة NIMP 2030."
 
 lang: "ar"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,9 +77,37 @@ relations:
   - { rel: "related-to", to: "electrical-electronics-industry-overview" }
   - { rel: "related-to", to: "automotive-industry-overview" }
   - { rel: "administered-by", to: "mida" }
-related: []
+related: ["aerospace-industry", "construction-industry", "malaysia-free-trade-agreements"]
 keywords: ["التصنيع في ماليزيا", "Malaysia manufacturing", "الآلات والمعدات", "machinery and equipment", "plastics", "قفازات المطاط", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'خط تجميع سيارات حديث بعدة هياكل سيارات في صفّ تحت إضاءة مصنع ساطعة وناقلات علوية'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: عدة أذرع روبوتية برتقالية تكدّس صناديق صفراء على منصات نقل في خط إنتاج آلي داخل مصنع
+    kind: representative
+    origin: third-party
+    subject: أذرع روبوتية صناعية برتقالية تكدّس أغذية مغلّفة على منصات في خط مصنع آلي
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: فنّي يرتدي بذلة بيضاء كاملة وكمامة وقفازات يعمل على مكوّنات معدنية دقيقة في غرفة نظيفة مبلّطة وساطعة
+    kind: representative
+    origin: third-party
+    subject: فنّي يرتدي بذلة بيضاء يجمّع معدات دقيقة داخل غرفة نظيفة عالية التقنية
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 قُل «مصنع ماليزي» وسيتخيّل معظم الناس غرفةً نظيفة لأشباه الموصلات في بينانغ (Penang) أو خطَّ إنتاج لبروتون (Proton) في شاه علم (Shah Alam). وتلك حقيقية، وهي كبيرة — لكنها تجلس فوق قاعدة صناعية أوسع بكثير. ففي 2024 حرّك القطاع كله RM1.9 تريليون من المبيعات وأبقى نحو 2.4 مليون شخص في العمل، وجاء جزء كبير من ذلك من الآلات والبلاستيك والمطاط والأجهزة الطبية والمواد الكيميائية والطعام على رفوف المتاجر الكبرى.

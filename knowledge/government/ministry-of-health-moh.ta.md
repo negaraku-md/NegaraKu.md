@@ -27,7 +27,7 @@ faq:
   - q: "KKM தனியார் மருத்துவமனைகளை நடத்துகிறதா?"
     a: "இல்லை. KKM பொது மருத்துவமனைகள் மற்றும் கிளினிக்குகளை இயக்குகிறது, மேலும் Private Healthcare Facilities and Services Act 1998 (Act 586) இன் கீழ் தனியார் சுகாதாரத்தைத் தனித்தனியாக ஒழுங்குபடுத்துகிறது; இது குறைந்தபட்ச தரம் மற்றும் பாதுகாப்பு தரநிலைகளை நிர்ணயித்து, செயல்முறைகளுக்கு மருத்துவர்கள் வசூலிக்கக்கூடிய கட்டணங்களுக்கு உச்சவரம்பு விதிக்கிறது."
 lang: "ta"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,9 +79,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: 'மேகமூட்ட வானத்திற்கு எதிரே, திறந்த சதுர உச்சியால் சூடப்பட்ட உயர்ந்த மணற்கல்-பச்சை கண்ணாடி அரசாங்கக் கோபுரம்; நுழைவு மேற்கூரைக்கு மேல் KEMENTERIAN KESIHATAN MALAYSIA என்ற சொற்களும் தேசிய சின்னமும்'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: கூர்மையான கோணமுடைய பட்டை இறக்கைகள் மற்றும் தொங்கும் கூரையுடன் கூடிய துணிச்சலான பச்சை-கண்ணாடி அரசாங்கக் கட்டிடம்; ஓடு பதித்த பொது வெளிக்கு மேலே அதன் வலப்புற முகப்பில் நீளமான செங்குத்து மலேசியக் கொடி தொங்குகிறது
+    kind: actual
+    origin: third-party
+    subject: புத்ராஜெயாவில் உள்ள KKM வளாகத்தில் அமைந்துள்ள மலேசிய சுகாதார அமைச்சக பயிற்சி மேலாண்மைப் பிரிவு கட்டிடம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 நீங்கள் ஒரு மலேசிய அரசு கிளினிக்கிற்குள் நுழைந்து, ஒரு RM1 நோட்டைக் கொடுத்து, உங்கள் ஆலோசனையும் மருந்தும் ஈடுசெய்யப்பட்ட நிலையில் வெளியேறும்போது, உலகின் மிக அதிக மானியம் பெறும் சுகாதார அமைப்புகளில் ஒன்றை நீங்கள் பயன்படுத்துகிறீர்கள். அதை நடத்துவது **மலேசிய சுகாதார அமைச்சு** — *Kementerian Kesihatan Malaysia* (**KKM**), அல்லது ஆங்கிலத்தில் **MOH** — பொது சுகாதாரம், மருத்துவ பராமரிப்பு, மருத்துவ ஆராய்ச்சி, சுகாதார மேம்பாடு, மருந்தியல் மற்றும் மருத்துவ-சாதன ஒழுங்குமுறை, பல் பராமரிப்பு மற்றும் நோயாளர் பாதுகாப்புக்குப் பொறுப்பான கூட்டாட்சி அமைச்சாகும். இதன் தலைமையகம் கூட்டாட்சி அரசு நிர்வாக மையத்தில் (Federal Government Administrative Centre), Complex E-இல் (Blocks E1, E3, E6, E7 மற்றும் E10), 62590 Putrajaya-வில் அமைந்துள்ளது.

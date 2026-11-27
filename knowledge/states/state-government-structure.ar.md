@@ -71,6 +71,13 @@ relations:
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["حكومة الولاية ماليزيا", "منتري بيسار Menteri Besar", "كبير الوزراء Chief Minister", "المجلس التنفيذي للولاية EXCO", "ديوان أوندانغان نيغري Dewan Undangan Negeri", "جمعية الولاية", "يانغ دي-بيرتوا نيغري Yang di-Pertua Negeri", "الجدول الثامن", "الجدول التاسع", "قائمة الولاية State List", "الدستور الاتحادي ماليزيا"]
 framework: explainer
+hero: '/media/states/state-government-structure/hero.webp'
+heroAlt: 'الواجهة الزجاجية الزرقاء البيضاء على شكل شراع لمبنى مجلس ولاية صباح التشريعي محاطةً بأشجار النخيل والحدائق المشذّبة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 انزع إستانا نيغارا، وأعد تسمية رئيس الوزراء، وقلّص البرلمان إلى غرفة واحدة — عندئذٍ

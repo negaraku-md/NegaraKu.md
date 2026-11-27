@@ -98,6 +98,14 @@ drinkFacts:
   halal: "Minuman bebas alkohol dari sirup mawar, susu, dan air, yang telah lama disajikan pada acara Muslim Melayu seperti resepsi pernikahan dan buka puasa Ramadan, sehingga komposisinya halal; penganut yang ketat mungkin tetap memeriksa merek sirup dan susu tertentu. Varian bandung soda hanya menambahkan minuman ringan berkarbonasi biasa dan juga bebas alkohol."
   served: "Berisi es dan berwarna merah muda cerah, sering berbuih. Minuman perayaan sekaligus sehari-hari: dituangkan pada resepsi pernikahan dan kenduri, dikeluarkan saat buka puasa Ramadan, dan disajikan dingin pada perhelatan keluarga serta restoran bersama hidangan kaya seperti nasi beriani atau rendang."
   where: "Minuman pokok gerai mamak, pusat jajan, kopitiam, dan pasar malam di seluruh Malaysia, tempat ia biasa dipesan sebagai 'sirap bandung' (tambahkan peng atau ais untuk versi es). Varian — bandung soda, bandung cincau dengan cincau — muncul di gerai yang sama dan di meja perayaan."
+hero: "/media/food/sirap-bandung/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Dua gelas tinggi susu sirup mawar merah muda dingin (sirap bandung) dengan sedotan"
+heroCredit: "Kyle Lam / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 Dari semua minuman di papan kedai kopi Malaysia, sirap bandunglah yang pertama Anda perhatikan.

@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -73,9 +73,36 @@ sources:
 entity: "Ministry of Home Affairs (Malaysia) / Kementerian Dalam Negeri (KDN)"
 wikidata: "Q4294304"
 relations: []
-related: []
+related: ["immigration-department-jim", "national-anti-drugs-agency-aadk", "rela-peoples-volunteer-corps"]
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
 framework: profile
+hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'
+heroAlt: 'Pandangan hadapan bangunan Kementerian Dalam Negeri (KDN) bata merah di Putrajaya, menara tengahnya diapit tingkap melengkung di atas pintu masuk bergerbang yang megah, pokok palma berjajar di plaza di bawah langit biru'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: Pandangan dekat bahagian atas menara Kementerian Dalam Negeri berbata merah di Putrajaya, dengan jata kementerian dan tulisan putih besar 'KDN' dipasang berhampiran garisan bumbung
+    kind: actual
+    origin: third-party
+    subject: Tingkat atas bangunan KDN menunjukkan jata dan tulisan 'KDN' pada fasad, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: Bangunan Kementerian Dalam Negeri berbata merah di Putrajaya dilihat dari seberang dataran berteres simetri dengan air terjun tengah berperingkat dan barisan pokok palma di bawah langit biru berawan
+    kind: actual
+    origin: third-party
+    subject: Bangunan KDN dilihat menyusuri dataran air terjun berteres, Blok D1, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 Apabila seorang rakyat Malaysia memperbaharui pasport, apabila polis membuat

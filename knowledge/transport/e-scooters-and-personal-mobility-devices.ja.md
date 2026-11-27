@@ -27,7 +27,7 @@ faq:
     a: "電動アシスト自転車が適用除外となるのは、スロットルがなくペダルが常時装着されている、マレーシア標準MS2514に適合するペダルアシスト式である場合に限られます。認可されていないスロットル付きの電動アシスト自転車はPMDまたはモペットに分類され、禁止されています。"
 
 lang: "ja"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'ジョホール州バトゥパハの舗装された公園の小道に停められた3台の紫色のBeamシェア電動キックボード。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: クアラルンプールのMerdeka MRT駅近くのホテル脇にある、マイクロモビリティ用の停車スペースに駐められた共有Beam電動キックボード。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのMerdeka MRT付近の共有Beam電動キックボード置き場
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: 柔佛州バトゥパハのTaman Rekreasi Tasik Yの小道に駐められた、紫色の共有Beam Mobilityの電動キックボード。
+    kind: actual
+    origin: third-party
+    subject: 柔佛州バトゥパハの湖畔公園の共有Beam電動キックボード
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 通勤用に電動キックボードを買ったとしても、その車輪が公道に触れた瞬間、あなたはすでに法を犯している。それが2021年末以降のマレーシアにおけるマイクロモビリティの現実だ。

@@ -29,7 +29,7 @@ faq:
   - q: "மாழுவை வழிபடுவது தாவோயிசமா அல்லது பௌத்தமா?"
     a: "மாழு முதன்மையாகத் தாவோயிசம் மற்றும் சீன நாட்டுப்புற நம்பிக்கையின் எல்லைக்கு உட்பட்டவள், பெரும்பாலும் பிற தெய்வங்களுடன் சேர்த்து நிலைநிறுத்தப்படுகிறாள்; சில பௌத்த சூழல்களிலும் மாழுவின் வழிபாட்டைக் காணலாம். நடைமுறையில் பல சீனர்கள் தாவோயிசம், பௌத்தம், நாட்டுப்புற நம்பிக்கை ஆகியவற்றை கண்டிப்பாக வேறுபடுத்துவதில்லை; இது மலேசிய சீனர்களின் நம்பிக்கைகள் பொதுவாக ஒன்றோடொன்று கலந்திருக்கும் நிலையுடன் ஒத்துப்போகிறது. இக்கட்டுரை நம்பிக்கை நிகழ்வை விவரிப்பது மட்டுமே; அதன் மத அர்த்தத்தைத் தீர்ப்பிடவில்லை."
 lang: "ta"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'கோலாலம்பூரில் உள்ள தியான் ஹூ கோயில், அதன் அடுக்குக் கூரையிலிருந்து நூற்றுக்கணக்கான சிவப்பு விளக்குகள் அருவி போல் தொங்கவிடப்பட்டுள்ளன, முற்றத்தில் ஒரு டிராகன் அலங்கரிக்கப்பட்ட தூபமிடும் கலசம் மற்றும் பிரதான மண்டபத்தில் வழிபடுபவர்கள்.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: கோலாத் தெரங்கானுவில் ஒரு வரலாற்றுச் சீன மாசூ கோயிலின் அலங்கார கூரையும் முகப்பும், கூரை முகட்டில் டிராகன் அலங்காரங்களுடன்
+    kind: actual
+    origin: third-party
+    subject: ஹோ ஆன் கியோங், கோலாத் தெரங்கானுவில் ஒரு மாசூ (தியான் ஹூ, கடல் தேவி) கோயில், தெரங்கானுவின் மிகப் பழமையான சீனக் கோயில்களில் ஒன்று
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: ஜார்ஜ் டவுனில் ஒரு ஹைனான் மாசூ கோயிலின் முதன்மை பீட மண்டபம், தொங்கும் விளக்குகள், ஊதுபத்தி மற்றும் தங்க முலாம் பூசிய சந்நிதி அலங்காரங்களுடன்
+    kind: actual
+    origin: third-party
+    subject: கடல் தேவி மாசூவை வழிபடும் கோயிலான, பினாங்கு ஜார்ஜ் டவுனில் உள்ள ஹைனான் கோயிலின் (டோகோங் ஹைனான்) உட்புற பீடம்
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 கோலாலம்பூரில் ராப்சன் ஹைட்ஸில் (Robson Heights) உள்ள ஒரு சிறு குன்றின் மேல், சிவப்புத் தூண்களும் மெருகூட்டப்பட்ட ஓடுகளும் கொண்ட ஆறு மாடிக் கோயில் ஒன்று நகரத்தை நோக்கி நிற்கிறது — இதுவே தியான் ஹௌ கோயில்; சீன உலகின் மிகப் புகழ்பெற்ற கடல் தெய்வமான மாழுவுக்கு அர்ப்பணிக்கப்பட்டது. முன்பு, கடல்வழியே தெற்கே வந்த சீனர்கள் கடலைக் கடப்பதற்கு முன்பும் பின்பும் பாதுகாப்பு வேண்டி அவளிடம் வேண்டிக்கொண்டனர்; இன்று இது பக்தர்கள் ஊதுபத்தி ஏற்றும் கோயிலாகவும், ஹைனான் உறவினர்கள் ஒன்றுகூடும் இடமாகவும், சுற்றுலாப் பயணிகள் படம் எடுக்கும் இடமாகவும் விளங்குகிறது.

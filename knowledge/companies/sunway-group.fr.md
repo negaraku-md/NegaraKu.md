@@ -29,7 +29,7 @@ faq:
     a: "Oui. Sunway Healthcare Holdings a été admise à la cote du Marché principal de Bursa Malaysia sous le nom de SUNMED le 18 mars 2026. Le fonds GIC de Singapour avait auparavant accepté, en juin 2021, d'investir RM750 millions pour une participation de 16 % dans l'activité santé."
 
 lang: "fr"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "conglomérat malaisien", "municipalité intégrée", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'La gigantesque tête de lion sculptée emblématique et le toit pyramidal du centre commercial Sunway Pyramid, avec des tours portant l''inscription SUNWAY s''élevant derrière sous un ciel nuageux'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Vue rapprochée de la façade de thème égyptien de Sunway Pyramid avec un grand toit en pyramide et un sphinx-lion assis à côté d'un panneau d'entrée « Shopping Mall / Theme Park »
+    kind: actual
+    origin: third-party
+    subject: Façade avant du centre commercial Sunway Pyramid montrant la pyramide et le sphinx à tête de lion, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Vue aérienne de la ville nouvelle de Bandar Sunway montrant le centre commercial Sunway Pyramid, l'hôtel de villégiature, le lagon et les tours résidentielles de grande hauteur regroupées dans la vallée de Klang
+    kind: actual
+    origin: third-party
+    subject: Vue aérienne de la ville nouvelle intégrée Bandar Sunway de Sunway Group avec le centre commercial pyramide, le complexe de villégiature, le lagon et les tours résidentielles, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Le groupe Sunway transforme des terrains en municipalités (townships) complètes — logements, centres commerciaux, hôpitaux, universités et parcs à thème sur un seul plan directeur — puis continue d'exploiter ce qu'il construit.

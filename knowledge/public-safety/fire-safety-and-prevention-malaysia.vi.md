@@ -32,7 +32,7 @@ faq:
     a: "Các vấn đề liên quan đến điện thuộc số cao nhất đối với cháy nhà ở — dây điện hỏng, ổ cắm quá tải và dây nối bị mòn. Hoạt động nấu ăn bị bỏ mặc không giám sát và rò rỉ khí LPG cũng là những tác nhân chính."
 
 lang: "vi"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,36 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'Một xe cứu hỏa Mercedes-Benz Atego Bomba màu đỏ tươi với dòng chữ ''BOMBA'' ngang mặt trước, các ngăn chứa thiết bị dọc hông và một dải đèn xanh, đang lăn bánh ra khỏi cửa cuốn mở của một trạm cứu hỏa trong ánh chiều ấm'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: Sườn của một xe cứu hỏa đỏ 'Bomba dan Penyelamat' với các ngăn cửa cuốn mở ra để lộ các cuộn vòi được xếp gọn gàng, một cuộn vòi, bình dưỡng khí, một máy phát điện xách tay và các thiết bị cứu hộ khác
+    kind: actual
+    origin: third-party
+    subject: các ngăn bên mở của một xe cứu hỏa Bomba Malaysia trưng bày trang thiết bị chữa cháy và cứu hộ
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: Một xe van cứu hộ Toyota Hiace màu đỏ của Bomba trong màu sơn 'Bomba dan Penyelamat' với chữ BOMBA màu vàng và phù hiệu cơ quan, đỗ trên bãi cỏ bên cạnh cây cối trong khung cảnh làng quê
+    kind: actual
+    origin: third-party
+    subject: một xe van cứu hộ khẩn cấp màu đỏ của Bomba được triển khai tại một kampung nông thôn ở Ranau, Sabah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 Lửa không cảnh báo. Chỉ trong vài phút, một tia lửa từ ổ cắm quá tải hoặc một chiếc chảo bị bỏ mặc có thể san bằng một ngôi nhà — và chỉ riêng năm 2025, [Cục Cứu hỏa và Cứu nạn Malaysia](/vi/government/fire-and-rescue-department-bomba) (JBPM) đã ghi nhận 16,111 vụ cháy với 98 ca tử vong và thiệt hại tài sản ước tính RM2.09 tỷ. Tin tốt là: gần như tất cả đều có thể được ngăn ngừa, dù ở phòng khách của bạn hay trên sàn nhà máy.

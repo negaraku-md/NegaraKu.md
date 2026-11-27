@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Lassi는 요구르트, 물이나 우유, 설탕이나 과일이다 — 고기가 없고 무알코올 — 이므로 채식이고 그 자체로 할랄이며, 채식 banana-leaf 식사의 자연스러운 짝이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 식당을 확인해야 한다."
   served: "차게, 흔히 키 큰 잔에, 갈아서 생긴 거품과 함께 낸다. 달콤한, 짭짤한, 또는 mango(혹은 다른 과일) lassi로 주문하라; 매운 카레나 banana-leaf-rice 식사에 곁들여 한 입 사이사이 입맛을 식히는 고전적인 짝이다."
   where: "전국의 인도 식당, banana-leaf-rice 집, 전용 lassi 노점, 그리고 많은 mamak 가게에서 찾을 수 있으며, 특히 남인도·북인도 음식을 내는 곳에서 그렇다."
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "빨대가 꽂힌 무늬 있는 잔에 담긴, 크리미한 흰색 아이스 요거트 lassi"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 매운 banana-leaf rice 한 접시나 진한 북인도 카레 앞에 앉으면, 그 불을 끄려 가장 자주

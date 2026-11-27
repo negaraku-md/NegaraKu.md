@@ -98,6 +98,14 @@ drinkFacts:
   halal: "Teh tarik is a non-alcoholic tea sold at mamak stalls — Indian-Muslim eateries — and at kopitiam, and in that mamak setting it is a halal drink, which is part of why it became a social drink shared across communities. Halal assurance attaches to the premises, so diners needing certification should check the individual outlet."
   served: "Served hot and frothy, pulled between two containers to cool, mix and aerate it. The default 'teh tarik' comes sweet with condensed milk; order 'teh-O' for black tea without milk, 'teh-C' for evaporated milk, 'kurang manis' for less sugar, or 'teh ais'/'teh peng' for the iced version."
   where: "Found at mamak stalls, kopitiam coffee shops and pasar malam across the country, where it is the everyday social drink; 'jom teh tarik' ('let's go for teh tarik') is less about the tea than an invitation to sit and talk."
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A clear glass mug of frothy brown pulled milk tea (teh tarik) on a marble table"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 The scene is a fixture of Malaysian life: a man at a mamak stall holding a battered

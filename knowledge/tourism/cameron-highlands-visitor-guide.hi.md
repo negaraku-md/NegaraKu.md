@@ -31,7 +31,7 @@ faq:
     a: "ये सेमाई गाँवों में निर्देशित सांस्कृतिक भेंट हैं, जिनमें आमतौर पर एक ब्लोपाइप प्रदर्शन और वन-आधारित जीविका पर बातचीत होती है। किसी प्रतिष्ठित स्थानीय गाइड के साथ जाएँ, लोगों की तस्वीर लेने से पहले अनुमति लें, और इसे तमाशे के बजाय एक सम्मानजनक सांस्कृतिक आदान-प्रदान मानें।"
 
 lang: "hi"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,42 @@ wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["pahang"]
+related: ["pahang", "genting-highlands", "frasers-hill", "ipoh-and-the-kinta-valley"]
 keywords: ["कैमरन हाइलैंड्स", "तानाह राता", "ब्रिंचांग", "रिंगलेट", "BOH चाय", "स्ट्रॉबेरी फार्म", "ओरांग असली", "सेमाई", "पहाड़ी स्थल", "पहांग", "Cameron Highlands", "Tanah Rata", "Brinchang", "BOH tea", "Orang Asli", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'दो से तीन दिन का ठंडी-जलवायु पहाड़ी-स्थल प्रवास चाहने वाले यात्रा-योजनाकारों के लिए, Tanah Rata या Brinchang में ठिकाना बनाकर, चाय-बागानों, स्ट्रॉबेरी और फूल-फ़ार्मों, तथा एक निर्देशित Orang Asli गाँव या Mossy Forest सैर को जोड़ते हुए।'
+  getThere: 'कोई हवाई अड्डा या रेलवे इस पठार तक नहीं पहुँचता — आप Tapah से या Raub/Kuala Lipis की ओर से (Ringlet पर मिलते हुए) या उत्तर में Simpang Pulai से सड़क मार्ग से ऊपर जाते या ले जाए जाते हैं, और Tapah से Tanah Rata तक सार्वजनिक बसें ऊपर चलती हैं।'
+  permit: 'प्रवेश के लिए कोई पार्क परमिट नहीं; BOH चाय-बागान की फ़ैक्ट्री-टूर निःशुल्क हैं, जबकि Orang Asli गाँव की यात्रा किसी प्रतिष्ठित स्थानीय गाइड या ऑपरेटर के माध्यम से की जानी चाहिए।'
+  watch: 'इसे एक ही कस्बा न मानें — ये अलग-अलग भूमिकाओं वाली तीन बस्तियाँ हैं — और ध्यान दें कि चाय-बागान सोमवार को बंद रहते हैं जबकि पठार का मौसम तेज़ी से बदलता है, इसलिए दिन की योजनाएँ बदल सकती हैं।'
+  next: 'वर्तमान खुलने के समय और सोमवार की बंदी सीधे प्रत्येक स्थल से पुष्ट करें — चाय-बागानों के लिए BOH Plantations की आधिकारिक साइट (bohtea.com) और फ़ार्म-और-उद्यान आकर्षणों के लिए Cameron Highlands District Council (MDCH)।'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'बादलों वाली नीली आसमान के नीचे कैमरून हाइलैंड्स की पहाड़ियों को ढकती चटख हरी लहरदार चाय-बागान की सीढ़ियाँ'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Cameron Highlands के धुंधले Mossy Forest में काई से ढके मुड़े-तुड़े पेड़ों और जड़ों के बीच घूमती एक संकरी पगडंडी
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands के Mossy Forest में काई से ढके पेड़ों के बीच पगडंडी
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Cameron Highlands के एक स्ट्रॉबेरी फ़ार्म के ग्रीनहाउस में पकी लाल स्ट्रॉबेरी से लदे पौधों की ऊँची उठी हुई क्यारियाँ
+    kind: actual
+    origin: third-party
+    subject: Cameron Highlands के एक स्ट्रॉबेरी फ़ार्म के ग्रीनहाउस में स्ट्रॉबेरी के पौधों की कतारें
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 तानाह राता में बस से उतरिए और पहली चीज़ जो आप महसूस करते हैं वह है आपकी अपनी साँस — हवा इतनी ठंडी है कि भूमध्य रेखा पर भी एक स्वेटर बेतुका नहीं लगता। कैमरन हाइलैंड्स का यही पूरा सार है: उष्णकटिबंधीय मलेशिया के ऊपर टिका समशीतोष्ण पहाड़ी इलाक़े का एक टुकड़ा, जहाँ चाय पहाड़ी कटकों पर साफ़-सुथरी हरी कोरडरॉय की तरह उगती है और सड़क किनारे पॉलीटनलों में स्ट्रॉबेरी पकती हैं।

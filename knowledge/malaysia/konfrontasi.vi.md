@@ -72,6 +72,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: 'Một đài tưởng niệm bằng đá đặt trong không gian xanh đô thị được quy hoạch, tưởng nhớ những người đã thiệt mạng trong cuộc Đối đầu Indonesia-Malaysia (Konfrontasi).'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia ra đời vào ngày 16 tháng 9 năm 1963 trong một khu vực không chào đón nó một cách yên bình. Một nước láng giềng lớn hơn nhiều đã tuyên bố sự phản đối của mình, và trong vòng vài tháng, biên giới Borneo mới đó trở thành tiền tuyến cho một cuộc xung đột vũ trang chưa bao giờ được tuyên bố chính thức là chiến tranh — nhưng kéo dài gần bốn năm. Cuộc xung đột đó được biết đến là Konfrontasi.

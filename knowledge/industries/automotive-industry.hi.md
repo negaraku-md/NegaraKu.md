@@ -36,7 +36,7 @@ faq:
     a: "हाँ। Proton ने December 2024 में अपनी पहली EV, e.MAS 7, लॉन्च की, जिसकी कीमत RM109,800 से शुरू होती है। Perodua ने December 2025 में QV-E — जिसे मलेशिया की पहली घरेलू-निर्मित EV बताया गया — बैटरी को छोड़कर RM80,000 में लॉन्च की, जिसे RM800 मिलियन की लागत से विकसित किया गया।"
 
 lang: "hi"
-sourceContentHash: "f19ad32bca0374d3"
+sourceContentHash: "fde45fb117e33e39"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,9 +105,37 @@ relations:
   - { rel: "related-to", to: "proton" }
   - { rel: "related-to", to: "perodua" }
   - { rel: "related-to", to: "national-automotive-policy" }
-related: []
+related: ["automotive-industry-malaysia"]
 keywords: ["Proton", "Perodua", "राष्ट्रीय कार", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "राष्ट्रीय ऑटोमोटिव नीति", "NAP 2020", "इलेक्ट्रिक वाहन मलेशिया", "e.MAS 7", "QV-E"]
 framework: profile
+hero: '/media/industries/automotive-industry/hero.webp'
+heroAlt: 'ग्रिल पर प्रोटॉन बाघ-मुख बैज वाली एक सफ़ेद प्रोटॉन सागा सेडान, खुले में खड़ी'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A 2019 Proton Saga, Malaysia''s national-brand sedan built by Proton'
+
+images:
+  - role: scene
+    src: /media/industries/automotive-industry/body-1.webp
+    alt: Perodua बैज वाली लाल और काली तीसरी पीढ़ी की Perodua Myvi हैचबैक एक कतार में खड़ी हैं
+    kind: actual
+    origin: third-party
+    subject: तीसरी पीढ़ी की Perodua Myvi हैचबैक, मलेशिया की सबसे अधिक बिकने वाली राष्ट्रीय कार
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Myvi_3rd_generation.jpg
+  - role: scene
+    src: /media/industries/automotive-industry/body-2.webp
+    alt: खुले दरवाज़ों और बूट ढक्कनों वाली आंशिक रूप से असेंबल की गई कारें एक फैक्ट्री असेंबली लाइन पर कन्वेयर पर आगे बढ़ रही हैं
+    kind: representative
+    origin: third-party
+    subject: एक वाहन संयंत्र के भीतर ऑटोमोटिव असेंबली लाइन पर आगे बढ़ती कारें
+    credit: Marek Ślusarczyk (Tupungato) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
 ---
 
 मलेशिया के आकार के बहुत कम देशों ने कभी शून्य से कार बनाने की कोशिश की है। उससे भी कम के पास देश के अधिकांश ड्राइववे में खड़े दो घरेलू-निर्मित ब्रांड हैं। किसी भी मलेशियाई शहर में गाड़ी चलाएँ और यातायात आपको एक जानबूझकर अपनाई गई औद्योगिक नीति की कहानी सुनाता है: सिग्नल पर एक Perodua Myvi, उसके पीछे एक Proton Saga, दोनों 1980 के दशक के उस दाँव की संतान हैं कि एक विकासशील अर्थव्यवस्था अपनी ही गाड़ियाँ बना सकती है।

@@ -31,7 +31,7 @@ faq:
     a: "Suruhanjaya Tenaga (Energy Commission) adalah regulator utama. SEDA Malaysia melaksanakan NEM, sementara Single Buyer (di bawah TNB) mengoordinasikan program pasar seperti CGPP, CRESS dan CREAM."
 
 lang: "id"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -89,9 +89,36 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
-related: []
+related: ["seda-malaysia", "energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition"]
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'Instalasi surya terapung panjang berupa panel fotovoltaik biru di atas jalan setapak beratap membentang melintasi danau kampus yang tenang, dengan bangunan dan tanaman hijau di belakangnya'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: Barisan panjang panel surya miring yang dipasang di tanah membentang di lahan terbuka dengan hutan hujan di cakrawala di bawah langit berkabut
+    kind: actual
+    origin: third-party
+    subject: barisan panel fotovoltaik surya yang dipasang di tanah di sebuah ladang surya dekat Bukit Merah, Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: Kanopi berangka baja beratap panel surya di samping papan nama proyek surya-hibrida pemerintah Malaysia di sebuah sekolah pedesaan Sabah, dengan mobil parkir dan ayam di latar depan
+    kind: actual
+    origin: third-party
+    subject: instalasi pembangkit listrik surya-hibrida pedesaan di sebuah sekolah di Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 Panel surya di atas atap rumah kini menjadi satu keputusan keuangan yang terikat erat oleh kebijakan pemerintah di Malaysia. Tetapi "beralih ke surya" berarti hal yang sangat berbeda bagi seorang pemilik rumah di Ipoh dibandingkan sebuah pabrik di Pasir Gudang atau sebuah pusat data yang ingin 100% listrik hijau. Setiap kelompok pengguna memiliki skema tersendiri.

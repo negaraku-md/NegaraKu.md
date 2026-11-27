@@ -37,7 +37,7 @@ faq:
     a: "दोनों। इसे एक दोहरी-उपयोग लाइन के रूप में डिज़ाइन किया गया है: 160 किमी/घंटा तक की यात्री सेवाएँ, साथ ही 80 किमी/घंटा पर माल सेवाएँ। एक केंद्रीय उद्देश्य यह है कि यह Port Klang और Kuantan जैसे पूर्वी-तट बंदरगाहों के बीच प्रायद्वीप के आर-पार माल ढोने वाले भू-सेतु के रूप में काम करे, जो Singapore और Malacca जलडमरूमध्य के चक्कर वाले समुद्री मार्ग का एक विकल्प देता है।"
 
 lang: "hi"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,31 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["ईस्ट कोस्ट रेल लिंक", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC रेलवे मलेशिया", "ECRL लागत पूर्णता", "Kota Bharu Port Klang रेल", "ECER रेल"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: 'नाक पर ECRL फूल-लोगो वाली एक नीली-चाँदी CR200J विद्युत रेलगाड़ी, डिपो पटरियों पर खड़ी, बगल में एक पीली KTM Komuter गाड़ी'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: हरी पहाड़ी में खोदे गए 'Terowong 2 Serendah' के जुड़वाँ सुरंग द्वार, ऊपर MRL/ECRL परियोजना बैनर और सामने नई बिछाई गई पटरी — Titiwangsa पर्वतमाला से गुज़रती निर्माणाधीन लाइन
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: Sungai Tua में निर्माणाधीन एक ECRL वायाडक्ट — साफ़ की गई पहाड़ी पर उठते कंक्रीट के खंभे और साइट की दीवार के पीछे रखा गया बॉक्स-गर्डर स्पैन — परियोजना का ऊँचा-संरेखण चरण
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 दशकों तक कुआलालंपुर और पूर्वी-तट राज्यों के बीच सबसे तेज़ रास्ते का मतलब पहाड़ों के ऊपर से सड़क द्वारा एक लंबी यात्रा था। ईस्ट कोस्ट रेल लिंक मलेशिया का यह दाँव है कि पटरी की एक अकेली लाइन इसे बदल सकती है — और इस प्रक्रिया में, यह भी पुनर्संतुलित कर सकती है कि देश की वृद्धि कहाँ होती है।

@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: '보르네오 우림, 오랑우탄, 국립공원 당일 여행을 위한 느긋한 거점으로 걸어서 둘러보는 강변 유산 도시를 원하는 첫 방문·개인 여행자, 가족, 유산·야생동물 애호가에게 적합합니다.'
+  getThere: '남부 사라왁의 주요 항공 관문인 쿠칭 국제공항(KCH)으로 들어오며, 쿠알라룸푸르 및 기타 말레이시아·역내 허브에서 연결됩니다.'
+  permit: '사라왁은 자체 출입국 관리를 운영하므로 반도 말레이시아발 국내선이라도 모두 도착 시 국경 심사를 거치며 — 외국인은 별도의 사라왁 입국 도장을 받으니 여권을 늘 지참하십시오.'
+  watch: '스믕고(Semenggoh)의 오랑우탄은 반(半)야생 상태로 주변 숲에서 자유로이 먹이를 찾으므로 목격은 결코 보장되지 않으니, 어떤 목격이든 약속이 아닌 보너스로 여기십시오.'
+  next: '출발 전에 현재의 사라왁 입국 요건과 공원·축제 시기는 사라왁 관광청(Sarawak Tourism Board)과 각 공원의 공식 운영사에 확인하십시오.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: '황혼의 쿠칭 워터프런트에서 사라왁강 건너로 솟은 우산 모양 지붕의 사라왁 주의회 건물'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: 쿠칭 사라왁 강 북안에 자리한, 장식 대문이 있는 흰색 고딕 아치 식민지 시대 궁전 아스타나
+    kind: actual
+    origin: third-party
+    subject: 쿠칭에서 옛 백인 라자들이 머물던 역사적인 흰색 강변 궁전 아스타나
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: 쿠칭 옛 차이나타운의 한 거리를 표시하는, 빨간 등불이 걸린 화려한 중국식 아치 문
+    kind: actual
+    origin: third-party
+    subject: 빨간 등불과 상점가 간판이 어우러진 쿠칭 옛 차이나타운(잘란 아탑 일대)의 중국식 의례용 아치 문
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 저녁 한나절이면 쿠칭의 강변을 끝까지 걸으며 콜로니얼 요새, 라자의 궁, 중국 사원을 지나고, 보르네오의 위대한 국수 한 그릇을 먹고, 거대한 고양이 조각상과 포즈를 취할 수 있습니다 — 모두 도시를 떠나지 않고. 쿠칭은 사라왁의 주도이자 최대 도시로, 보르네오섬 사라왁 남서쪽 끝의 사라왁강 가에 자리합니다([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). 대부분의 사라왁 여행이 시작되는 느긋한 강 도시 거점입니다. 이 가이드는 도시 자체 — 워터프런트, 브룩 시대 역사, 차이나타운과 박물관, 그리고 고양이 — 와, 이곳이 둘러싼 열대우림과 야생동물을 향한 발판으로 어떻게 작동하는지를 다룹니다.

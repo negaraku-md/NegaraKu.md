@@ -40,7 +40,7 @@ faq:
     a: "المتحف، في 48 و50 Jalan Tun Tan Cheng Lock، مغلق أيام الثلاثاء. ويفتح من 10:00 صباحًا حتى 4:15 مساءً في أيام العمل (عدا الثلاثاء) ومن 10:00 صباحًا حتى 4:45 مساءً في عطلة نهاية الأسبوع. ولأن المواعيد والأسعار قد تتغيّر، تأكّد منها في الموقع الرسمي للمتحف قبل الزيارة."
 
 lang: "ar"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["تراث ملقا", "Melaka heritage", "ملقا التراث العالمي اليونسكو", "Melaka UNESCO World Heritage", "شارع جونكر", "Jonker Street", "بابا ونيونيا بيرانكان ملقا", "Baba Nyonya Peranakan Melaka", "آ فاموسا Porta de Santiago", "Stadthuys الساحة الهولندية", "تلة القديس بولس ملقا", "دليل سفر ملقا"]
 framework: explainer
+visitFacts:
+  bestFor: 'المسافرون الباحثون عن نواة تراثية مدمَجة يمكن اجتيازها سيراً ومُدرجة في قائمة اليونسكو — معالم من السلطنة الملايوية والبرتغاليين والهولنديين إضافةً إلى طعام Peranakan (Baba Nyonya) النيوني — يسهل خوضها رحلةَ عطلة نهاية أسبوع.'
+  getThere: 'تُقصد برّاً من كوالالمبور، نحو ساعتين بالسيارة — رحلة شائعة في عطلة نهاية الأسبوع.'
+  watch: 'خطّط حول يوم الأسبوع — فسوق Jonker Street الليلي يعمل مساء الجمعة إلى الأحد فقط، وفي أيام الأسبوع يكون شارع متاجر-بيوت عادياً — ولا تخلط بين بوابة A Famosa التاريخية المجانية ومنتجع A''Famosa Resort الترفيهي المنفصل خارج البلدة.'
+  next: 'تأكّد من أيام الفتح وساعاته الحالية مع الموقع الرسمي لمتحف Baba & Nyonya Heritage قبل زيارتك، فهي تتغيّر.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'مبنى ستادثويس الهولندي بلونه الطوبي الأحمر خلف نافورة فيكتوريا وأكشاك السوق في الساحة الهولندية بملقا'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: قارب رحلات نهرية يمر بمتاجر تراثية ملوّنة وأشجار على طول نهر Malacca الفيروزي في البلدة القديمة
+    kind: actual
+    origin: third-party
+    subject: رحلة نهرية في نهر Malacca عبر متاجر البلدة القديمة
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: قوس بوابة Jonker Walk الذي يميّز مدخل شارع الحي الصيني في Melaka بجوار كنيسة Tamil Methodist المبنية عام 1908
+    kind: actual
+    origin: third-party
+    subject: قوس بوابة Jonker Walk بجوار كنيسة Tamil Methodist
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 قِفْ في الساحة الهولندية عند الغسق وبإمكانك أن تقرأ خمسة قرون في نظرة واحدة: مبنى بلدية هولندي بلون أحمر سلموني في جانب، وأطلال كنيسة من الحقبة البرتغالية على التلة فوقه، وبوابة حجرية رسّخت يومًا قلعةً حاول البريطانيون هدمها، و — على بُعد دقيقتين سيرًا — زقاق من البيوت المدينية الصينية-الملايوية المضاءة الآن لبازار ليلة الجمعة. لا تنشر ملقا تاريخها عبر مدينة كبيرة، بل تكدّسه في نحو ميل مربع واحد يمكنك جوله في بعد ظهيرة واحدة. وإليك كيف تقرؤه، وكيف تخطّط لزيارة حوله.

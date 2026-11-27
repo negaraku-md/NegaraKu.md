@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,34 @@ relations:
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
 framework: profile
+hero: '/media/government/matrade/hero.webp'
+heroAlt: 'Fasad gelap Menara MATRADE di Kuala Lumpur yang menjulang, ditembusi bukaan gerbang runcing yang sangat besar dan dimahkotai kubah bertulang'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: Menara Menara MATRADE berbentuk gerbang bersebelahan menara kaca tinggi Menara MITI dan kubah dewan pameran perak, dilihat menerusi hamparan bunga magenta di bawah langit kelabu
+    kind: actual
+    origin: third-party
+    subject: Pandangan jalan kompleks MATRADE dengan menara gerbang Menara MATRADE, Menara MITI berkaca dan kubah MITEC, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: Pandangan udara melintasi Kuala Lumpur menunjukkan menara gerbang gelap Menara MATRADE dan dewan pameran MITEC berbentuk cangkerang perak yang besar di sebelahnya
+    kind: actual
+    origin: third-party
+    subject: Pandangan udara Menara MATRADE dan pusat pameran MITEC berbentuk cangkerang di daerah KL Metropolis, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 Tanya seorang pengeksport baharu agensi kerajaan mana yang mengendalikan

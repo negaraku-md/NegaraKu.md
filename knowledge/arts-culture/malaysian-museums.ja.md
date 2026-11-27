@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "博物館めぐりの旅程を計画している旅行者、マレーシアの主要な収蔵品の背後にある機関の歴史を知りたい学生や研究者、そして国立博物館（Muzium Negara）を国内最古の博物館だと思い込んでいたすべての人向け。"
 
 lang: "ja"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -64,6 +64,34 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'マレーシア国立博物館。深紅の急勾配なミナンカバウ様式の切妻屋根を頂く大きな淡色の建物で、長い正面に色鮮やかな壁画パネルが飾られマレーシア国旗が並び、道路の向こうから見る'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: 白・緑・金の花模様のアラベスクで覆われたターコイズの釉薬タイルを張った丸いドームが、小さな金の頂華を頂き、淡い青空を背にそびえ立つ様子
+    kind: actual
+    origin: third-party
+    subject: 精巧な花模様のアラベスクで装飾された、クアラルンプールのマレーシア・イスラム美術館のターコイズのタイル張りドーム
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: クリーム色に塗られ、灰色の石の隅石と窓枠、急勾配の切妻屋根、装飾的な頂華を備えた2階建ての歴史的な植民地時代の博物館の建物が、明るい青空の下、高いヤシの木に囲まれている様子
+    kind: actual
+    origin: third-party
+    subject: クチンにある歴史的な植民地時代のサラワク博物館の建物。灰色の石の隅石と切妻屋根を備えたクリーム色の2階建ての建造物
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 マレーシアで最も古い博物館はどこかと大半の旅行者に尋ねれば、クアラルンプールの博物館通りの中心に建つ、宮殿風の屋根を持つ建物——国立博物館（Muzium Negara）——と答えるだろう。しかしその推測は80年もずれている。その称号は、太平にあるささやかな展示館のものであり、それが建てられた当時、国立博物館の敷地にはまだその前身の建物があった。

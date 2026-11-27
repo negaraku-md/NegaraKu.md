@@ -44,7 +44,7 @@ verificationNeeded:
   - "จำนวนผู้เช่าปัจจุบันและการลงทุนที่ผูกพันที่ POIC Lahad Datu และ SOGIP Sipitang — เว็บไซต์ผู้ดำเนินการมีตัวเลขลงวันที่ 2020 ถึง 2022 และยอดรวมที่เป็นเป้าหมาย"
 
 lang: "th"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,34 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: 'มุมมองกลางวันสว่างของใจกลางเมืองโกตาคินาบาลูพร้อมอาคารสำนักงานพาณิชย์และศูนย์การค้าข้างอ่าวริมน้ำสีครามและหมู่เกาะ'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: ธงประจำรัฐมาเลเซียบนเสาด้านหน้า พร้อมเส้นขอบฟ้าเมืองโกตากีนาบาลูตั้งตระหง่านข้ามอ่าวใต้ท้องฟ้าสีฟ้าสดใส
+    kind: actual
+    origin: third-party
+    subject: เส้นขอบฟ้าใจกลางเมืองโกตากีนาบาลู มองข้ามอ่าวจากอาคารสภานิติบัญญัติรัฐซาบาห์ รัฐซาบาห์
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: อาคารสำนักงานใหญ่ Sabah Ports ทันสมัยหน้ากระจกอยู่หลังต้นปาล์ม พร้อมป้าย Sabah Ports ที่ทางเข้าซึ่งมีประตูใต้ท้องฟ้าสว่าง
+    kind: actual
+    origin: third-party
+    subject: สำนักงานใหญ่ Sabah Ports ที่เซอปังการ์ โกตากีนาบาลู — อาคารท่าเรือองค์กรหน้ากระจก
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 คู่มือระดับชาติเกี่ยวกับการทำธุรกิจในมาเลเซียแทบทุกฉบับผิดเกี่ยวกับซาบาห์ และผิดในทางเดียวกันทุกครั้ง: มันสันนิษฐานว่า SSM จดทะเบียนกิจการของคุณ ว่า Local Government Act 1976 ออกใบอนุญาตสถานประกอบการของคุณ และว่าหน่วยงานระเบียงเศรษฐกิจเป็นหน่วยงานตามกฎหมายระดับสหพันธรัฐ ไม่มีข้อใดในสามข้อเป็นจริงทางตะวันออกของทะเลจีนใต้

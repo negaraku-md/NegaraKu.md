@@ -30,7 +30,7 @@ faq:
     a: "Có. Trung tâm Di sản Thế giới ghi nhận ba di sản trên Danh sách Dự kiến của Malaysia: Công viên Quốc gia (Taman Negara) của bán đảo Malaysia, Dải Thạch anh Gombak Selangor, và Trại phong Sungai Buloh. Một mục dự kiến là tuyên bố ý định đề cử, chứ không phải một lần ghi danh."
 
 lang: "vi"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'Tòa nhà Stadthuys kiểu Hà Lan màu đỏ gạch đậm và tháp đồng hồ vuông của nó ở Melaka, bao quanh bởi một bùng binh trồng cây lá đỏ và xanh, với những cột biển chỉ đường ở tiền cảnh dưới bầu trời u ám sáng'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: Một con phố di sản hẹp ở George Town, Penang, hai bên là những ngôi nhà phố hai tầng cũ treo đèn lồng đỏ và một tấm biển Bảo tàng Tranh Batik, một biển tên phố Lebuh Armenian màu xanh bên phải và một con đường vắng với vạch sang đường màu vàng
+    kind: actual
+    origin: third-party
+    subject: Lebuh Armenian (Phố Armenia) trong khu di sản George Town của Penang, một phần của Di sản Thế giới UNESCO
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: Khối núi đá granit xám của Núi Kinabalu ở Sabah, với sống núi lởm chởm vươn lên trên những đồi chân núi phủ rừng, với cây xanh rậm rạp và một triền cỏ ở tiền cảnh dưới bầu trời xanh trong
+    kind: actual
+    origin: third-party
+    subject: Núi Kinabalu vươn lên trên Công viên Kinabalu ở Sabah, một Di sản Thế giới UNESCO
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 Hỏi Malaysia có bao nhiêu Di sản Thế giới và phần lớn các nguồn sẽ bảo bạn là bốn. Điều đó đúng cho đến năm 2024. Quần thể Hang động Niah được ghi danh vào tháng 7 năm đó, và Công viên Rừng của Viện Nghiên cứu Lâm nghiệp Malaysia ở Selangor theo sau vào năm 2025 — nâng tổng số lên sáu.

@@ -22,7 +22,7 @@ appliesTo: "Ibu bapa dan penjaga kanak-kanak di Malaysia yang mempunyai kurang u
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 
 status: "published"
 aiAssisted: true
@@ -60,9 +60,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'Potret berkumpulan guru-guru dan pembantu pengurusan murid Program Pendidikan Khas Integrasi (PPKI) di sebuah sekolah menengah Malaysia, SMK Taman Universiti.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: Pintu masuk dan gerbang selamat datang SK Pendidikan Khas Batu Pahat, sebuah sekolah rendah pendidikan khas kerajaan di Johor, dengan papan tanda berbahasa Melayu di pintu pagar.
+    kind: actual
+    origin: third-party
+    subject: Sebuah sekolah pendidikan khas kebangsaan di Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: Blok bilik darjah kayu setingkat sebuah sekolah rendah kerajaan luar bandar di Pensiangan, Sabah, berlatarkan bukit berhutan.
+    kind: representative
+    origin: third-party
+    subject: Bangunan sekolah rendah kerajaan di Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 Diagnosis hanyalah perbualan pertama. Perbualan kedua — selalunya lebih mengelirukan — ialah laluan sekolah mana yang anak anda sebenarnya masuki, dan mengapa kad OKU nampaknya penting sebelum sekolah itu sendiri. Sistem Malaysia mempunyai tiga laluan awam, satu proses pendaftaran kurang upaya yang berasingan yang menyalurkan kepada ketiga-tiganya, dan satu dunia selari terapi swasta dan NGO yang kebanyakan ibu bapa temui dari mulut ke mulut dan bukan daripada mana-mana satu laman rasmi tunggal.

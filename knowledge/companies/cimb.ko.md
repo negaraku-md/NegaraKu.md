@@ -31,7 +31,7 @@ faq:
     a: "둘 다입니다. CIMB는 말레이시아에 본사를 두고 상장되어 있지만 아세안 전역에서 영업합니다. 인도네시아(CIMB Niaga를 통해), 태국(CIMB Thai), 싱가포르가 주요 시장이며, 그룹은 약 15개 시장에 걸친 영업을 묘사합니다."
 
 lang: "ko"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,35 @@ verificationNeeded:
   - "자산 기준 말레이시아 2위 은행 및 아세안 5대 은행 그룹 순위 — 위치적·시간적으로 변하므로 현재 동종 업체 대차대조표와 대조하여 재확인."
   - "고객 수(제3자 프로필 인용치가 크게 다름, 예: 소매 ~1,350만 vs. 총 ~2,500만) — 숫자를 게재하기 전 CIMB 자신의 현행 보고와 대조하여 확인."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: '청동빛 유리 사무 타워, 꼭대기에 큰 붉은 ''CIMB BANK'' 간판이 있고 측면에 붉은 ''CIMB BANK''와 ''CIMB ISLAMIC'' 현수막이 내려오며 쿠알라룸푸르 거리 위로 솟은 모습'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: KL Sentral의 Q Sentral 건물 옆에 서서 상부 근처에 빨간 CIMB 로고를 단 유리 외장 현대식 타워, 짙은 나무 잎사귀로 둘러싸여 있다
+    kind: actual
+    origin: third-party
+    subject: Perdana 식물원에서 바라본 쿠알라룸푸르 센트랄의 현대식 CIMB 타워
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: 1층 입구 위에 빨간 CIMB BANK 간판을 단, CIMB 은행 지점이 입주한 흰색 식민지 시대 2층 유산 건물
+    kind: actual
+    origin: third-party
+    subject: 믈라카 시 Bendahara 거리의 유산 건물에 있는 CIMB 은행 지점
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB는 말레이시아 상거래에서 거의 어디를 돌아봐도 마주치는 은행이며 — 점점 더 동남아시아 전역에서도 그렇습니다. 그것은 종합은행으로, 월급쟁이의 저축계좌에서부터 수십억 링깃 규모의 채권 발행과 국경을 넘는 인수에 이르기까지 모든 것을 하며, 말레이시아뿐 아니라 인도네시아, 태국, 싱가포르의 대규모 영업을 통해서도 그렇게 합니다.

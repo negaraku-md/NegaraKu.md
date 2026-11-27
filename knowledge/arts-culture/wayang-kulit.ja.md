@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d4cb6805f330e418"
+sourceContentHash: "65128b4d171bc2be"
 status: "published"
 reviewDue: 2027-01-20
 aiAssisted: true
@@ -61,6 +61,34 @@ relations:
 related: ["batik"]
 keywords: ["Wayang Kulit", "shadow puppet Malaysia", "Tok Dalang", "Hikayat Seri Rama", "Kelantan traditional arts"]
 framework: history-culture
+hero: '/media/arts-culture/wayang-kulit/hero.webp'
+heroAlt: 'クランタン・パタニのマレー・ワヤン・クリの様式で、明るいランプに照らされたスクリーンに並んで輝く、精巧に切り抜かれた革の影絵人形'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Row of Kelantan-Patani style Wayang Kulit leather puppets silhouetted against the backlit screen during a shadow-play performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-1.webp
+    alt: 細い竹の棒に取り付けられた、華やかに彫刻され鮮やかにオレンジ・緑・紫に彩色された革のワヤン・クリの人形のクローズアップ
+    kind: actual
+    origin: third-party
+    subject: マレーシア、クランタン州立博物館の、操り棒に付いた鮮やかに彩色されたクランタンのワヤン・クリの革人形のクローズアップ
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_03.jpg
+  - role: scene
+    src: /media/arts-culture/wayang-kulit/body-2.webp
+    alt: 竹編みの小屋の展示の中で、伝統的な太鼓と解説板の前に立つ2つの色鮮やかな革の影絵人形
+    kind: actual
+    origin: third-party
+    subject: マレーシア、クランタン州立博物館の、茅葺きの小屋の設えの中に解説パネルとともに展示されたクランタンのワヤン・クリの人形とガムランの太鼓
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_kulit_di_Muzium_Kelantan_15.jpg
 ---
 
 まず灯りが点される。木枠に張り詰められた白い木綿の幕の裏側で、一人の男が胡座をかいて座っている。左右の手が届く位置には平たい皮革人形の束が積まれ、背後では太鼓、銅鑼、そして甲高い音色の複簧楽器スルナイからなる小さな楽団が控えている。彼はその夜が終わるまで、その場所を離れることはない。数時間後、最後の影が幕を横切る頃には、彼は王、悪魔、道化、王女の声を演じ分け、場面の転換を語り、すべての楽師に合図を送り終えている——ただ一人で。

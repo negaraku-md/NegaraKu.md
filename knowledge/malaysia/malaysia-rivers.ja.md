@@ -21,7 +21,7 @@ appliesTo: "マレーシアの地理と歴史を学ぶ人、また、サラワ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -61,6 +61,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: '幅広い泥色の熱帯の川が、鬱蒼とした緑の熱帯雨林と背の高い葦に縁取られた岸の間を曲がりくねって流れ、まばらな雲が浮かぶ鮮やかな青空が広がっている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: ラジャン川の広く穏やかな水面が金色の夕空を映し、サラワクの低く森に覆われた岸辺が遠くへと霞んでいく。
+    kind: actual
+    origin: third-party
+    subject: 夕暮れのサラワク州を流れるラジャン川、マレーシア最長の川
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: 狭いムラカ川が、マラッカの歴史的な旧市街の色鮮やかな川沿いのショップハウスと水辺の遊歩道の間を流れている。
+    kind: actual
+    origin: third-party
+    subject: マラッカ市の歴史的な旧市街を蛇行して流れるムラカ川
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 パン・ボルネオ・ハイウェイやMASwingsの航空便が登場する以前、サラワク内陸部に至る唯一の方法は、何日もかけて川をさかのぼることだった。今日の大きな町——シブ、カピット、サンダカン、ペカン——は、偶然その場所に存在しているのではない。それぞれの町は、川によって定められた場所に位置している——河口、二つの川が合流する地点、あるいは船が航行できる最も遠い地点である。ラジャン川、キナバタンガン川、パハン川という三つの川が、この規則性を最もはっきりと示している。

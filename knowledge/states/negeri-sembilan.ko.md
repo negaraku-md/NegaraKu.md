@@ -38,7 +38,7 @@ verificationNeeded:
   - "주(州) 공식 포털의 민족 구성 비율(말레이 61.5%, 중국계 22.9%, 인도계 15.1%, 기타 0.5%)의 일자와 산정 근거를 확인 — 그 수치는 일자가 없고, 비시민권자를 별도로 분리하는 2020년 인구조사 내역 구조와 일치하지 않음."
 
 lang: "ko"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: '짙은 색 목조 스리 므난티 왕궁은 뾰족하게 층을 이룬 미낭카바우식 지붕을 갖추고 푸른 잔디밭 위에 자리하며, 뒤로 붉은 정자와 숲으로 덮인 언덕이 있다.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: 느그리슴빌란주 포트딕슨에서 야자수가 늘어선 완만하게 굽은 모래 해변이 잔잔한 믈라카 해협을 향하고 있다.
+    kind: actual
+    origin: third-party
+    subject: 느그리슴빌란주 포트딕슨 해변
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: 스름반의 느그리슴빌란 주립박물관 경내에 물소 뿔처럼 휘어 오른 지붕을 얹은 미낭카바우 양식의 목조 가옥이 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 스름반 느그리슴빌란 주립박물관(Muzium Negeri Sembilan)의 미낭카바우 양식 전통 가옥
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 다른 여덟 개 말레이 주(州)에서는 「다음 통치자는 누구인가」라는 물음에 계보가 답합니다. 느그리슴빌란(Negeri Sembilan)에서는 네 명의 관습 지도자가 답합니다.

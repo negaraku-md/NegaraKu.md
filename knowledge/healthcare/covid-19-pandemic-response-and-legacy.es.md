@@ -32,7 +32,7 @@ faq:
     a: "Es un documento de política aprobado por el Parlamento el 15 de junio de 2023, que traza una reforma por fases del sistema de salud de Malasia a 15 años."
 
 lang: "es"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysia-healthcare-system" }
   - { rel: "related-to", to: "health-white-paper-2023" }
-related: []
+related: ["mysejahtera-and-digital-health-records", "health-white-paper-and-system-reform", "prevention-and-control-of-infectious-diseases-act"]
 keywords: ["COVID-19 Malasia", "PKP", "MCO", "PICK", "vacunación", "MySejahtera", "Libro Blanco de la Salud", "pandemia"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'El salón de un gran centro de vacunación contra la COVID-19 en Malasia con filas de asientos espaciados y personas haciendo cola.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: Diez casetes numerados de prueba rápida de antígeno de COVID-19 dispuestos en una línea sobre una mesa, cada uno mostrando una línea de control
+    kind: representative
+    origin: third-party
+    subject: Una fila de diez casetes de prueba rápida de antígeno de COVID-19 que muestran líneas de control y de prueba
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: Equipo de laboratorio y de diagnóstico embalado suministrado a Malasia para apoyar sus pruebas de COVID-19 y la respuesta a la pandemia
+    kind: actual
+    origin: third-party
+    subject: Equipo de detección de COVID-19 entregado a Malasia durante la respuesta a la pandemia
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 El 18 de marzo de 2020, las calles de toda Malasia quedaron en silencio cuando el país entró en una fase distinta a cualquier otra de su historia moderna: una restricción generalizada de la movilidad para frenar la propagación de la COVID-19. A lo largo de aproximadamente los dos años siguientes, la respuesta de salud pública del país evolucionó de un confinamiento nacional a uno de los programas de vacunación más rápidos de la región — y dejó una huella que todavía hoy moldea el sistema de salud.

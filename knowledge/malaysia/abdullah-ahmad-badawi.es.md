@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0213
 title: "Abdullah Ahmad Badawi"
-seoTitle: Abdullah Ahmad Badawi
+seoTitle: "Abdullah Ahmad Badawi: Quinto primer ministro de Malasia (2003–2009)"
 slug: "abdullah-ahmad-badawi"
 category: "malaysia"
 subcategory: ["modern"]
@@ -70,6 +70,13 @@ verificationNeeded:
   - "Figura política reciente; el concepto del Islam Hadhari (religión) y los resultados electorales se resumen de forma neutral —reverifíquese frente a fuentes primarias y exíjase la aprobación de un revisor humano antes de la publicación—."
   - "CONFÍRMESE su fecha de muerte (reportada el 14 de abril de 2025, en el Instituto Nacional del Corazón de Kuala Lumpur, a los 85 años —nota: la fecha del 20 de abril de 2025 suministrada originalmente parece incorrecta—) y todas las fechas de mandato frente a fuentes primarias antes de la publicación."
 framework: profile
+hero: '/media/malaysia/abdullah-ahmad-badawi/hero.webp'
+heroAlt: 'Un sereno Abdullah Ahmad Badawi, con traje oscuro y camisa de cuello abierto, mira hacia arriba pensativo mientras está sentado ante un fondo del Foro Económico Mundial.'
+heroCredit: 'World Economic Forum / swiss-image.ch / Gian Vaitl / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abdullah_Badawi_2007.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tras el largo y enérgico mandato de [Mahathir Mohamad](/es/malaysia/mahathir-mohamad), Malasia heredó a finales de 2003 un tipo de líder muy distinto: un apacible exfuncionario de Penang que prometía consulta antes que mando, gobierno limpio antes que grandes proyectos, y un tono público más suave. Abdullah Ahmad Badawi —conocido por casi todo el mundo sencillamente como **«Pak Lah»**— se convirtió en el **quinto primer ministro** del país sobre una ola de buena voluntad, ganó uno de los mayores mandatos electorales de la historia de Malasia, y luego, cinco años después, presidió las elecciones que remodelaron la política de la nación.

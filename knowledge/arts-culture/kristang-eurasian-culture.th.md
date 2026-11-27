@@ -32,7 +32,7 @@ faq:
     a: "อินตรูดู (Intrudu) คือเทศกาลสาดน้ำประจำปีของชุมชนโปรตุเกสมะละกาในวันอาทิตย์ก่อนวันพุธรับเถ้า (จุดเริ่มต้นของเทศกาลมหาพรต) ผู้อยู่อาศัยและผู้มาเยือนสาดน้ำใส่กันตลอดหมู่บ้านโปรตุเกส และงานฉลองมีการรำบรันโยประกอบ"
 
 lang: "th"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,34 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: 'แถวนักแสดงคริสตังในชุดโปรตุเกส-ยูเรเชียนดั้งเดิม หญิงสวมผ้าคลุมศีรษะสีแดง เสื้อขาวและกระโปรงปัก ส่วนชายสวมหมวกดำและเสื้อกั๊ก กำลังร้องและเต้นบนเวทีใต้ป้าย Festa San Pedro 2026 ในชุมชนโปรตุเกสในมะละกา'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: ซุ้มประตูทางเข้าสไตล์อาณานิคมสีขาวของเมดันปอร์ตูกิสหรือจัตุรัสโปรตุเกสที่นิคมโปรตุเกสในเมืองมะละกา ขนาบด้วยร้านอาหารกริสตังสีชมพูและมีป้าย ใต้ท้องฟ้าสีฟ้าใสโดยมีตึกสูงสมัยใหม่อยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าเมดันปอร์ตูกิส (จัตุรัสโปรตุเกส) ที่นิคมโปรตุเกสในเมืองมะละกา
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: เรือประมงจำลองที่ตกแต่งสำหรับงานฉลองนักบุญเปโตรที่นิคมโปรตุเกสในเมืองมะละกา ใบเรือสีขาวสูงวาดภาพศาสนาและรูปนักบุญเปโตร คลุมด้วยอวนจับปลาข้างริมน้ำ โดยมีต้นปาล์มและผู้ชมอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: เรือประมงที่ตกแต่งสำหรับงานฉลองนักบุญเปโตร (ซานเปโดร) ที่นิคมโปรตุเกส เมืองมะละกา
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 ที่อูจงปาซีร์ (Ujong Pasir) มะละกา มีหมู่บ้านริมทะเลที่ผู้คนทักทายกันด้วยภาษาที่ไม่ใช่มลายู ไม่ใช่อังกฤษ และไม่ใช่โปรตุเกสสมัยใหม่ — แต่เป็นเศษที่มีชีวิตของภาษาของผู้พิชิตที่มาถึงเมื่อห้าศตวรรษก่อน นี่คือโลกของชุมชนกริสตัง

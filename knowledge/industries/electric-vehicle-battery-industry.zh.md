@@ -31,7 +31,7 @@ faq:
   - q: 什么是低碳出行蓝图？
     a: 它是马来西亚 2021—2030 年更清洁交通的路线图，由环境部与马来西亚绿色科技机构（MGTC）主导。它为电动车普及与充电基础设施设定目标，并支撑向电动车买家与制造商提供的税务激励。
 lang: zh
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - 三星 SDI
   - 电动车普及
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: '一台直流快速充电装置矗立在马来西亚一处高速公路休息站标有电动车标志的车位上。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: 两枚圆柱形锂离子电池单体——一枚18650与一枚更大的21700规格——并排竖立。
+    kind: representative
+    origin: third-party
+    subject: 圆柱形锂离子电池单体
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: 一块电动汽车的扁平锂离子动力电池组，经展开以呈现其模块化电芯布局。
+    kind: representative
+    origin: third-party
+    subject: 电动汽车的锂离子动力电池组
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 马来西亚造车已有半个世纪。如今它正试图让汽车电动化——同样重要的是，制造电动车所依赖的电池，并建设充电网络。这与[马来西亚汽车产业](/zh/industries/automotive-industry/)指南所讲的故事不同，后者主要关乎汽油车与柴油车。这里的主题是电动车与电池*生态系统*：车辆、激励、充电桩与工厂，它们共同决定马来西亚切换到电动出行的速度。

@@ -85,6 +85,14 @@ drinkFacts:
   halal: "cincau पौधे-आधारित और ग़ैर-मादक है — उबली जड़ी-बूटियाँ, पानी और चीनी — इसलिए जेली स्वयं हलाल है। हलाल का आश्वासन परिसर से और जिस भी चीज़ के साथ इसे मिलाया जाता है उससे जुड़ा होता है (जैसे दो-रंगी soya cincau में दूध), इसलिए जिन्हें प्रमाणन चाहिए उन्हें अलग-अलग दुकान की जाँच कर लेनी चाहिए।"
   served: "ठंडी परोसी जाती है। अकेले यह 'air cincau' है — मीठे बर्फ़ीले पानी में जेली के टुकड़े। सोया-बीन दूध के साथ उड़ेले जाने पर यह 'soya cincau' बन जाती है, जिसे इसकी काली-और-सफ़ेद परतों के कारण 'Michael Jackson' उपनाम मिला है। यह cendol, ais kacang (ABC) और मिली-जुली-सामग्री वाले leng chi kang में भी एक मानक टॉपिंग है।"
   where: "देश भर के kopitiam, hawker ठेलों, मिठाई की दुकानों और pasar malam पर मिलती है, और हर सुपरमार्केट व प्रोविज़न शॉप में डिब्बों और कार्टनों (जैसे Yeo's) में तैयार बिकती है।"
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "तले में जमी गहरी जेली वाला ठंडा घास-जेली (cincau) पेय"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 एक गर्म दोपहर को किसी मलेशियाई कॉफ़ी शॉप पर, ठंडा होने के सबसे सस्ते तरीकों में से एक है

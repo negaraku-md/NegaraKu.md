@@ -71,6 +71,13 @@ sources:
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["नजीब रज़ाक", "Najib Razak", "Mohd Najib Abdul Razak", "मलेशिया के छठे प्रधानमंत्री", "1MDB", "SRC International"]
 framework: profile
+hero: '/media/malaysia/najib-razak/hero.webp'
+heroAlt: 'नजीब रज़ाक गहरे रंग के सूट और लाल पैटर्न वाली टाई में बात करते हुए हाथ के इशारे के साथ, हल्की रोशनी वाली नीली ''Forum'' पृष्ठभूमि के सामने बैठे हुए।'
+heroCredit: 'World Economic Forum / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक तटस्थ, कार्य-प्रगति-पर सारांश है और इसकी

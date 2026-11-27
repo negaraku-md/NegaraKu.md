@@ -34,7 +34,7 @@ faq:
     a: "निजी विश्वविद्यालय सामान्यतः अंग्रेज़ी भाषा दक्षता का प्रमाण भी माँगते हैं। स्थानीय छात्र आमतौर पर MUET परिणाम प्रस्तुत करते हैं, जबकि कार्यक्रम और संस्थान के अनुसार IELTS या TOEFL जैसी समकक्ष योग्यताएँ स्वीकार की जा सकती हैं।"
 
 lang: "hi"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "MUET बैंड", "विश्वविद्यालय प्रवेश", "STPM", "अंग्रेज़ी भाषा दक्षता", "स्नातक डिग्री"]
 framework: explainer
+stayFacts:
+  who: 'यह उन पूर्व-विश्वविद्यालय छात्रों (STPM, मैट्रिकुलेशन, फाउंडेशन या डिप्लोमा) के लिए है जो स्नातक डिग्री के लिए आवेदन कर रहे हैं, जिनके लिए सार्वजनिक विश्वविद्यालयों में MUET अनिवार्य अंग्रेज़ी-दक्षता द्वार है।'
+  how: 'मलेशियाई परीक्षा परिषद (MPM) के ज़रिए MUET के चार पेपर दें — Listening, Speaking, Reading और Writing; आपका कुल योग किसी बैंड में मैप होता है, और प्रत्येक विश्वविद्यालय की Senate प्रत्येक कार्यक्रम के लिए आवश्यक न्यूनतम बैंड तय करती है।'
+  cost: 'शुल्क MPM द्वारा तय होता है और ग़ैर-नागरिकों तथा कंप्यूटर-आधारित MUET on Demand संस्करण के लिए अधिक होता है, और ये बदलते रहते हैं — किसी बताए गए आँकड़े के बजाय वर्तमान शुल्क की पुष्टि MPM पोर्टल (mpm.edu.my) से करें।'
+  watch: 'कोई एकल उत्तीर्ण बैंड नहीं है — न्यूनतम कार्यक्रम के अनुसार भिन्न होता है और प्रत्येक विश्वविद्यालय की Senate द्वारा तय होता है। परिणाम पाँच वर्ष तक वैध रहते हैं, इसलिए बहुत जल्दी परीक्षा देने का मतलब हो सकता है कि आवेदन करने से पहले ही उनकी वैधता समाप्त हो जाए।'
+  next: 'अपने लक्षित कार्यक्रम के न्यूनतम बैंड की जाँच विश्वविद्यालय की वेबसाइट पर करें, MPM के ज़रिए जल्दी पंजीकरण करें, और पाँच-वर्षीय वैधता पर नज़र रखें। देखें सार्वजनिक बनाम निजी विश्वविद्यालय।'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'मलेशिया के एक विश्वविद्यालय सभागार में अलग-अलग मेज़ों पर बैठकर परीक्षा दे रहे विद्यार्थियों की पंक्तियाँ, जहाँ एक निरीक्षक गलियारों के बीच चल रहा है।'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: एक बड़े मलेशियाई विद्यालय हॉल का भीतरी दृश्य, जिसे परीक्षा-स्थल के रूप में उपयोग किया जाता है, जिसमें मंच और फर्श की खुली जगह की पंक्तियाँ हैं।
+    kind: representative
+    origin: third-party
+    subject: परीक्षाएँ देने के लिए उपयोग किया जाने वाला एक मलेशियाई विद्यालय हॉल
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: किसी मलेशियाई विश्वविद्यालय परिसर में व्याख्यान-कक्ष परिसर का विहंगम हवाई दृश्य।
+    kind: representative
+    origin: third-party
+    subject: Sultan Idris Education University (UPSI) में व्याख्यान-कक्ष परिसर
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 आप STPM या मैट्रिकुलेशन में उत्कृष्ट हो सकते हैं, पर एक और परिणाम के बिना आपका डिग्री आवेदन-पत्र अब भी अधूरा है। वह परिणाम है MUET — और कई छात्रों को इसके महत्व का एहसास तभी होता है जब विश्वविद्यालय आवेदन की अंतिम तिथि पहले से ही निकट आ चुकी होती है।

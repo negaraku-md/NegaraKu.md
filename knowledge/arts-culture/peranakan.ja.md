@@ -20,7 +20,7 @@ appliesTo: "プラナカン（ババ・ニョニャ）とは誰か、そして�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'マラッカのババ・ニョニャ・ヘリテージ博物館（Baba Nyonya Heritage Museum）にあるプラナカン（Peranakan）の応接間。金箔を施した黒檀の彫刻衝立、螺鈿をはめ込んだ家具、大理石天板の円卓、そして壁には花鳥を描いた板絵がある。'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: マラッカのプラナカン様式の店屋の上層部の正面。アーチ型のターコイズ色の鎧戸、漆喰の浮き彫り、施釉タイルの帯飾りを備える
+    kind: actual
+    origin: third-party
+    subject: プラナカン様式の店屋の正面、マラッカ
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: プラナカンの磁器の茶碗とその蓋。白地にピンクの牡丹と鳳凰が描かれ、展示ケースに収められている
+    kind: representative
+    origin: third-party
+    subject: 花と鳥の文様を描いたプラナカン（ニョニャ焼）の茶器磁器
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 マラッカのヒーレン・ストリート（Heeren Street）にある古い町屋に足を踏み入れると、誰かが言葉を発する前に、物がすでに物語を語り始めている。三連の金のブローチで前を留めた、体にぴったり沿うレースのブラウス。爪先を何千もの小さなガラスビーズで覆われ、一粒一粒が手縫いで留められた一足のスリッパ。中華とも言い切れず、マレーとも言い切れない食事のために整えられた、大理石天板の長いテーブル。これらはすべてプラナカン——ババ・ニョニャ——のものである。二つの世界のあいだで生きることから、ひとつの文化を作り上げたコミュニティだ。

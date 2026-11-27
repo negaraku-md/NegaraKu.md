@@ -86,6 +86,13 @@ drinkFacts:
   halal: "El air mata kucing es de origen vegetal y sin alcohol —fruta seca, fruta del monje, melón de invierno y azúcar de roca en agua—, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada puesto."
   served: "Se sirve normalmente helado, vertido desde un gran dispensador refrigerado; también se puede beber caliente o a temperatura ambiente. Es dulce y refrescante y naturalmente libre de cafeína, lo que lo hace una bebida fácil de cualquier momento más que un estimulante matinal."
   where: "Se encuentra en puestos de hawker, tiendas de postres y mercados nocturnos, y sobre todo en un puesto de larga trayectoria en Jalan Petaling (Petaling Street), en el barrio chino de KL, donde se vierte helado desde un gran dispensador metálico para las multitudes del mercado que pasan."
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Una cuba de puesto de hawker malasio con bebida oscura de longán air mata kucing y un cartel bilingüe"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 Baja al concurrido callejón de mercado de Petaling Street, en el barrio chino de

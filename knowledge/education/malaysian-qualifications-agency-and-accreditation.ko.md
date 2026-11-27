@@ -32,7 +32,7 @@ faq:
     a: "네. 외국 분교 캠퍼스를 포함해 말레이시아에서 운영되는 모든 고등교육 제공기관이 제공하는 프로그램은 MQF에 따라 품질 보증을 받고 MQR에 나타납니다. 일부 기성 대학교는 자체 인증 지위(self-accrediting status)를 보유하여 자신의 프로그램을 MQF에 인증하고 MQR에 등록할 권한을 가집니다."
 
 lang: "ko"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: '말레이시아의 중등 이후 학력이 공식적으로 인정되는지 확인하려는 예비 학생, 학부모, 고용주를 위한 카드입니다.'
+  how: '무료인 말레이시아 자격 등록부(MQR)에서 정확한 프로그램명, 수준, 수여 캠퍼스로 검색하여 잠정 인증(Provisional)이나 정식 인증(Full Accreditation)을 보유하고 있는지 확인하십시오. 규제 전문직이나 공공부문 취업을 위한 인정은 해당 기관에서 별도로 확인합니다.'
+  cost: 'MQR 검색은 무료입니다. 다만 당신이 기대하고 있을 인정 — 전문직 면허, 공무원직, 또는 해외 유학 — 은 각각 자체 기관에서 별도의 확인이 필요할 수 있습니다.'
+  watch: '인증은 교육기관이 아니라 특정 프로그램과 입학 회차에 붙습니다 — 평판 좋은 대학이라도 신설·잠정·미등록 프로그램을 운영할 수 있습니다. 브로슈어의 ''MQA 승인'' 문구는 등록부가 아닙니다. 실제 등재 내역을 본인이 직접 확인하고, 잠정 인증도 정당한 것이지 격이 낮은 것이 아님을 유념하십시오.'
+  next: '보증금을 내기 전에 MQR에서 자신의 정확한 프로그램을 조회하고, 규제 전문직이라면 졸업 후 진로(graduate route)를 해당 전문기관에 확인하십시오. 대학 등록금 보증금을 내기 전에 글을 참고하십시오.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: '석재로 마감된 벽에 설치된 명판으로, 문장과 「UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia」 글자가 새겨져 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: 국민대학교(UKM) 학위수여식에서 예복을 입은 학자들이 무대 위에서 학위를 수여하는 모습
+    kind: representative
+    origin: third-party
+    subject: 국민대학교(UKM)에서 학위를 수여하는 특별 학위수여식
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: 조경된 광장 옆에 서 있는 푸트라대학교(UPM)의 곡선형 Canselori Putra 본부동
+    kind: representative
+    origin: third-party
+    subject: 푸트라대학교(UPM)의 본부동(Canselori, 행정 건물)
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 두 학생이 같은 이름의 디플로마로 졸업합니다. 한 명은 공직과 석사 자리에 자격이 있고, 다른 한 명은 문턱에서 돌아섭니다. 그 차이는 흔히 공개 등록부의 한 줄, 즉 말레이시아 학력인증원이 그 프로그램을 인증했는지에 있습니다.

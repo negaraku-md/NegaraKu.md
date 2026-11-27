@@ -35,7 +35,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["கல்லூரி டெபாசிட் மலேசியா", "MQA அங்கீகாரச் சரிபார்ப்பு", "MQR mqr.gov.my", "என் பாடநெறி அங்கீகரிக்கப்பட்டதா", "கல்லூரி திரும்பப்பெறல் கொள்கை மலேசியா", "twinning 3+0 வழங்கும் அமைப்பு", "தனியார் பல்கலைக்கழகம் மலேசியா IPTS", "Act 555", "கல்லூரிக் கட்டணம் செலுத்துவதற்கு முன்"]
 framework: how-to
+stayFacts:
+  who: 'ஒரு கல்லூரிச் சலுகையை வைத்திருந்து, ஒரு வைப்புத்தொகை அல்லது பதிவுக் கட்டணத்தைச் செலுத்தப் போகும் மாணவர்கள் மற்றும் பெற்றோருக்கானது இது — இது பெரும்பாலும் முதல், அடிக்கடி திரும்பப் பெற முடியாத, உறுதிசெய்யப்படும் பணம்.'
+  how: 'செலுத்துவதற்கு முன், ஐந்து விஷயங்களை எழுத்துப்பூர்வமாக உறுதிப்படுத்தவும்: சரியான படிப்பு MQR-இல் உள்ளது; நிறுவனம் பதிவுசெய்யப்பட்ட வழங்குநர் (Private Higher Educational Institutions Act 1996 (Act 555)-இன் கீழ் ஒரு IPTS, அல்லது அங்கீகரிக்கப்பட்ட அரசு பல்கலைக்கழகம் அல்லது கிளை வளாகம்); ஒரு twinning அல்லது 3+0 படிப்பிற்கு, இறுதிச் சான்றிதழை யார் வழங்குகிறார்கள்; முழுப் படிப்பிற்குமான முழு எழுத்துப்பூர்வக் கட்டண அட்டவணை; மேலும் பணத்திரும்பல் மற்றும் விலகல் விதி.'
+  cost: 'வைப்புத்தொகை ஒரு பகுதி மட்டுமே — முதல் ஆண்டு மட்டுமல்ல, முழுப் படிப்பிற்குமான முழு எழுத்துப்பூர்வக் கட்டண அட்டவணையைக் (பதிவு, ஒவ்வொரு செமஸ்டர் கட்டணம், வளம், தேர்வு, காப்பீடு மற்றும் சர்வதேச-மாணவர் கட்டணங்கள்) கேட்டு, வைப்புத்தொகை எதற்குக் கழிக்கப்படுகிறது என்பதையும் உறுதிப்படுத்தவும்.'
+  watch: 'வைப்புத்தொகைகள் அடிக்கடி திரும்பப் பெற முடியாதவை, தேசிய அளவில் சட்டப்பூர்வமான cooling-off உரிமை எதுவும் இல்லை — நீங்கள் எதைத் திரும்பப் பெறலாம் என்பதை நிறுவனத்தின் சொந்த எழுத்துப்பூர்வக் கொள்கையே நிர்ணயிக்கிறது. ''மூன்றாம் ஆண்டுக்கு உத்தரவாதமான இடமாற்றம்'' என்பது உள்ளூர்க் கல்லூரியின் அல்ல, கூட்டாளர் பல்கலைக்கழகத்தின் முடிவு; அதை எழுத்துப்பூர்வமாகப் பெறவும்.'
+  next: 'நிறுவனத்திற்குரிய ஒவ்வொரு சரிபார்ப்பையும் எழுத்துப்பூர்வமாக முன்வைத்து, எந்தப் பணமும் உங்கள் கணக்கிலிருந்து வெளியேறும் முன் பதில்களை வைத்துக்கொள்ளவும்; முதலில் சரியான படிப்பை MQR-இல் சரிபார்க்கவும். MQA அங்கீகார விளக்கக் கட்டுரையைப் பார்க்கவும்.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'அந்தி வேளையில் ஏரியில் பிரதிபலிக்கும் டெய்லர்ஸ் பல்கலைக்கழகத்தின் ஏரிக்கரை வளாகக் கோபுரங்கள், முதன்மைக் கட்டிடத்தில் சிவப்பு நிற "TAYLOR''S UNI" அடையாளப் பலகையுடன்.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI & UCD Malaysia Campus-இன் கண்ணாடி முகப்பு; புதிய மாணவர்களிடம் சேர்க்கை முன்பணம் கேட்கும் வகையைச் சேர்ந்த தனியார் பல்கலைக்கழகம்.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), Penang
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: Sunway University வளாகத்தில் உள்ள நவீன கற்பித்தல் தொகுதி; விண்ணப்பதாரர்கள் சேர்வதற்கு முன் கட்டணங்களையும் முன்பணங்களையும் எடைபோடும் தனியார் நிறுவனம்.
+    kind: actual
+    origin: third-party
+    subject: Sunway University வளாகக் கட்டிடம், Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 டெபாசிட் என்பது பொதுவாக ஒரு குடும்பம் கல்லூரிக்குக் கொடுக்கும் முதல் தொகை — மேலும், ஒருமுறை

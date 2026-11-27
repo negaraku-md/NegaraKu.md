@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Siapa saja di Malaysia — baik Buddha maupun bukan — yang ingin mengetahui catatan yang jelas dan tepat tentang apa itu Hari Wesak, kapan ia jatuh, dan bagaimana ia dirayakan, termasuk pemberi kerja dan pekerja yang memeriksa tanggal hari libur umum."
 
 lang: "id"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,34 @@ festivalFacts:
   when: "Hari bulan purnama pada bulan Vesakha — umumnya April atau Mei; karena mengikuti penanggalan lunar, tanggal Gregoriannya bergeser setiap tahun."
   holiday: "Hari libur umum nasional di semua negeri dan wilayah persekutuan, pertama kali ditetapkan sebagai hari libur umum pada 1962; menurut Employment Act 1955, jika jatuh pada hari istirahat maka berlaku hari libur berbayar pengganti."
   etiquette: "Peringatannya berpusat di vihara; banyak umat mengenakan pakaian putih dan menjalani pola makan vegetaris pada hari itu, dan acara publik yang paling dikenal adalah pawai kereta hias Wesak Kuala Lumpur dari Buddhist Maha Vihara di Brickfields, yang disaksikan oleh kerumunan besar umat dan penonton."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'Patung Buddha duduk berwarna emas berselimut untaian bunga marigold kuning berada di depan lingkaran cahaya oranye, biru, dan emas yang cerah pada sebuah kendaraan hias festival, dikelilingi tumpukan bunga krisan putih, kuning, dan merah muda di bawah tenda saat Hari Wesak di Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: Deretan panjang lampion gantung kecil berwarna biru kehijauan, hijau limau, merah muda dan putih, masing-masing berisi lilin menyala dan secarik kertas merah muda berisi harapan baik, digantung di bawah tenda pada perayaan Hari Wesak di Malaysia dengan para pengunjung berjalan di belakang
+    kind: actual
+    origin: third-party
+    subject: deretan lampion harapan para pemuja berwarna-warni berisi secarik kertas harapan baik pada perayaan Hari Wesak di Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: Ratusan lampu lilin kecil berbentuk teratai yang menyala ditata rapi berbaris di atas meja berhias kain merah muda dan kuning, menuju ke sebuah patung Buddha kecil yang diapit bunga dengan latar langit biru lukisan di dalam tenda
+    kind: actual
+    origin: third-party
+    subject: altar pemujaan dengan ratusan lampu lilin teratai yang menyala di depan patung Buddha pada Hari Wesak di Alor Setar, Malaysia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 Tanyakan kapan Hari Wesak jatuh dan tidak ada jawaban tetap — ia berubah-ubah. Pada 2026 ia jatuh pada 31 Mei, pada 2027 pada 20 Mei, pada 2028 pada 9 Mei. Alasannya mudah: Wesak ditetapkan oleh bulan, bukan oleh tanggal kalender, dan kalender candra serta Gregorius berangsur berbeda satu sama lain setiap tahun.

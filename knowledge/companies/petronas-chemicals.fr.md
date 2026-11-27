@@ -33,7 +33,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,7 @@ sources:
     publisher: "StockAnalysis.com"
 
 entity: "Petronas Chemicals Group (PCG)"
+wikidata: "Q139388026"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "petronas" }
@@ -82,6 +83,33 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Vue aérienne d''un vaste complexe pétrochimique et de raffinage côtier à Pengerang, Johor, avec des quadrillages de réservoirs blancs, des unités de traitement, des racks de tuyauterie et des jetées s''étendant vers la mer sous un ciel brumeux'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: Une grande usine pétrochimique d'engrais vue de l'autre côté d'une rivière, avec une longue rangée de cellules de tours de refroidissement, une tuyauterie de procédé bleue et une cheminée rouge et blanche, sur fond de végétation verte et de ciel nuageux
+    kind: actual
+    origin: third-party
+    subject: l'usine d'engrais ASEAN Bintulu Fertiliser à Sarawak, une installation pétrochimique d'ammoniac et d'urée exploitée par PETRONAS Chemicals
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: Un grand réservoir de stockage cylindrique blanc derrière une clôture grillagée, marqué « PETRONAS 90 MLC » à côté du logo vert en forme de goutte de PETRONAS, avec de la tuyauterie et des structures d'usine sur un côté sous un ciel bleu légèrement nuageux
+    kind: actual
+    origin: third-party
+    subject: un réservoir de stockage aux couleurs de PETRONAS au Pengerang Integrated Complex à Johor
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 Presque chaque sac d'engrais épandu dans une ferme malaisienne, et une grande part des résines plastiques moulées dans les usines du pays, remontent à une seule entreprise : Petronas Chemicals Group Berhad. C'est le pôle chimie de la compagnie pétrolière nationale, le plus grand producteur intégré de produits chimiques de Malaisie et — fait inhabituel pour une entreprise liée à l'État — une société cotée séparément dont tout un chacun peut acheter des actions.

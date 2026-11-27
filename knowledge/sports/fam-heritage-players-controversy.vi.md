@@ -30,7 +30,7 @@ faq:
     a: "FIFA viện dẫn Điều 22 của Bộ Quy tắc Kỷ luật FIFA liên quan đến việc giả mạo giấy tờ về tư cách và nhập tịch của cầu thủ."
 
 lang: "vi"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'Một đám đông áo vàng chật kín của các cổ động viên Harimau Malaya lấp đầy Sân vận động Quốc gia Bukit Jalil bên dưới bảng điểm hình hổ Malaysia.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: Thủ môn Malaysia Wong Kam Fook thi đấu trước một tiền đạo Tây Đức trong trận bóng đá của Malaysia tại Thế vận hội Mùa hè 1972.
+    kind: actual
+    origin: third-party
+    subject: Đội tuyển bóng đá quốc gia Malaysia gặp Tây Đức tại Thế vận hội Mùa hè 1972
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: Khung cảnh từ khán đài bên trong Sân vận động Shah Alam trong một trận bóng đá của đội tuyển quốc gia Malaysia tại Giải vô địch AFF 2014.
+    kind: actual
+    origin: third-party
+    subject: Bên trong Sân vận động Shah Alam trong một trận bóng đá của đội tuyển quốc gia Malaysia
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 Bảy cầu thủ sinh ở nước ngoài khoác lên chiếc áo Harimau Malaya vào tháng 6 năm 2025. Chưa đầy một năm sau, cơ quan trọng tài thể thao cao nhất thế giới xác nhận rằng các giấy tờ giúp họ đủ tư cách chơi cho Malaysia đã bị giả mạo. Vụ việc này đã khởi động một chuỗi các thủ tục kỷ luật của FIFA, một kháng cáo lên Tòa Trọng tài Thể thao (CAS), và một bản trình báo cảnh sát tại Malaysia.

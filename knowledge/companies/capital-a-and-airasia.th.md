@@ -30,7 +30,7 @@ faq:
     a: "หลังจากการจำหน่ายสายการบิน Capital A เป็นกลุ่มบริการด้านการบินและดิจิทัลที่สร้างขึ้นรอบธุรกิจห้าประการ ได้แก่ Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next และ Santan"
 
 lang: "th"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: 'เครื่องบินแอร์บัส A320 ของแอร์เอเชียลายสีแดง (ทะเบียน 9M-AGP) ที่ติดสโลแกน "Now Everyone Can Fly" จอดอยู่ที่ประตูทางออกขึ้นเครื่องของสนามบินนานาชาติกัวลาลัมเปอร์'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: เครื่องบินลำตัวแคบแอร์บัส A320 ของแอร์เอเชียในลวดลายที่ระลึกพิเศษ มีตัวอักษร airasia พาดตามลำตัว จอดอยู่บนลานจอดที่ท่าอากาศยานลังกาวีภายใต้ท้องฟ้าแจ่มใส
+    kind: actual
+    origin: third-party
+    subject: เครื่องบินแอร์บัส A320 ของแอร์เอเชีย (ทะเบียนมาเลเซีย 9M-AQH) ในลวดลายที่ระลึกพิเศษ ที่ท่าอากาศยานนานาชาติลังกาวี
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: เครื่องบินแอร์เอเชียลวดลายสีแดงจอดเรียงรายที่ประตูขึ้นเครื่องของอาคารสายการบินต้นทุนต่ำ klia2 อาคารผู้โดยสารยาวและงวงช้างทอดไปตามลานจอดภายใต้ท้องฟ้าเขตร้อน
+    kind: actual
+    origin: third-party
+    subject: เครื่องบินแอร์เอเชียที่ klia2 อาคารสายการบินต้นทุนต่ำของท่าอากาศยานนานาชาติกัวลาลัมเปอร์ และเป็นฐานหลักของสายการบินในมาเลเซีย
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 เป็นเวลาหลายปีที่ "AirAsia" และ "Capital A" ถูกใช้แทนกันได้แทบจะเสมอ หลังจากการปรับโครงสร้างหลายปี ปัจจุบันทั้งสองอธิบายถึงบริษัทจดทะเบียนที่ต่างกันสองบริษัท

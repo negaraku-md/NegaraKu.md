@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Học sinh học địa lý và lịch sử Malaysia, cùng bất kỳ ai muốn hiểu vì sao các thành phố chính ở Sarawak, Sabah và Pahang tọa lạc ở những vị trí sông nhất định."
 
 lang: "vi"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'Một con sông nhiệt đới rộng màu nâu bùn uốn lượn giữa hai bờ phủ đầy rừng mưa xanh rậm rạp và những bụi sậy cao, dưới bầu trời xanh tươi với mây rải rác.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: Mặt nước rộng lớn, phẳng lặng của sông Rajang phản chiếu bầu trời chiều vàng óng, hai bên là những bờ rừng thấp của Sarawak mờ dần về phía xa.
+    kind: actual
+    origin: third-party
+    subject: Sông Rajang lúc hoàng hôn ở Sarawak, con sông dài nhất Malaysia
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: Dòng sông Melaka hẹp chảy giữa những dãy nhà phố ven sông đầy màu sắc và lối đi bộ ven nước trong khu phố cổ lịch sử của Malacca.
+    kind: actual
+    origin: third-party
+    subject: Sông Melaka uốn lượn qua khu phố cổ lịch sử của thành phố Malacca
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 Trước khi có Đường cao tốc Pan Borneo hay các chuyến bay MASwings, cách duy nhất để đến vùng nội địa Sarawak là ngược dòng sông trong nhiều ngày. Các thành phố lớn ngày nay — Sibu, Kapit, Sandakan, Pekan — không tồn tại một cách tình cờ ở vị trí của mỗi thành phố. Mỗi thành phố nằm ở nơi được sông quyết định: ở cửa sông, ở ngã ba nơi hai con sông gặp nhau, hoặc ở điểm xa nhất mà tàu vẫn còn ngược dòng được. Ba con sông — Rajang, Kinabatangan và Pahang — thể hiện khuôn mẫu này rõ ràng nhất.

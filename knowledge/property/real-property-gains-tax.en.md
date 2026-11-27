@@ -35,7 +35,7 @@ faq:
     a: "Yes. Expenses that enhance or preserve the value of the property, such as renovation and improvement costs, can be deducted provided they are supported by valid receipts and documents."
 
 lang: "en"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: 'Verdana condominium towers rising over the North Kiara residential area of Kuala Lumpur.'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: The roadside sales gallery pavilion and large lettered signage of the Riana Dutamas residential development in Segambut, Kuala Lumpur, where new homes are marketed and sold
+    kind: representative
+    origin: third-party
+    subject: The sales gallery and signage of the Riana Dutamas residential development, Segambut, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: A modern detached Malaysian kampung house with a metal roof, representing a landed home whose disposal can trigger real property gains tax
+    kind: representative
+    origin: third-party
+    subject: A modern detached village house in Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 You sell a house at a profit — but before the money reaches your account, the government wants its share. That is RPGT, a tax that sellers often overlook until the lawyer withholds thousands of ringgit at the settlement table.

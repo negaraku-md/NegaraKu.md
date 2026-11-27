@@ -27,7 +27,7 @@ faq:
     a: "전기자전거는 스로틀이 없고 페달이 영구적으로 장착된, 말레이시아 표준 MS2514를 준수하는 페달 보조식일 경우에만 예외로 인정됩니다. 승인되지 않은 스로틀식 전기자전거는 PMD나 모페드로 분류되어 금지됩니다."
 
 lang: "ko"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: '조호르주 바투파핫의 포장된 공원 길에 주차된 보라색 Beam 공유 전동 킥보드 세 대.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: 쿠알라룸푸르 Merdeka MRT역 인근 호텔 옆 마이크로모빌리티 주차 구역에 세워진 공유 Beam 전동 킥보드.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 Merdeka MRT 인근 공유 Beam 전동 킥보드 주차장
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: 조호르주 바투파핫의 Taman Rekreasi Tasik Y 산책로에 세워진 보라색 공유 Beam Mobility 전동 킥보드.
+    kind: actual
+    origin: third-party
+    subject: 조호르주 바투파핫 호숫가 공원의 공유 Beam 전동 킥보드
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 당신은 출근용으로 전동킥보드를 샀지만, 바퀴가 공공 도로에 닿는 순간

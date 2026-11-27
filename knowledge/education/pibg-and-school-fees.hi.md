@@ -29,7 +29,7 @@ faq:
     a: "नहीं। सरकारी प्राथमिक और माध्यमिक विद्यालयों में शिक्षा में कोई ट्यूशन शुल्क नहीं लगता। जबकि विशेष शुल्क 2008 से SPI क्रमांक 13/2007 के माध्यम से समाप्त कर दिए गए हैं।"
 
 lang: "hi"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "विद्यालय शुल्क", "विशेष शुल्क", "PIBG अंशदान", "सरकारी विद्यालय", "पढ़ाई की लागत"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: 'कुआलालंपुर के ब्रिकफील्ड्स में एक प्राथमिक विद्यालय की लाल छत वाली नीची इमारतें और हरा मैदान, केएल सेंट्रल के ऊँचे गगनचुंबी क्षितिज की पृष्ठभूमि में।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: पक्के सभा-प्रांगण वाला एक बहुमंजिला मलेशियाई माध्यमिक विद्यालय भवन।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई राष्ट्रीय माध्यमिक विद्यालय भवन (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: किसी मलेशियाई विद्यालय के एक अभिभावक-शिक्षक संघ (PIBG) की बैठक के लिए विद्यालय हॉल में एकत्र अभिभावक और शिक्षक।
+    kind: representative
+    origin: third-party
+    subject: किसी मलेशियाई विद्यालय में एक अभिभावक-शिक्षक संघ (PIBG) की आम सभा
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 आपका बच्चा एक «निःशुल्क» सरकारी विद्यालय में भर्ती है — फिर भी PIBG फ़ॉर्म और भुगतानों की एक सूची आपके द्वार पर पहुँच जाती है। तो वास्तव में क्या देना आवश्यक है, और क्या नहीं?

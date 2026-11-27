@@ -32,7 +32,7 @@ faq:
   - q: "What are the four days of Thai Pongal?"
     a: "Bhogi (clearing out the old and cleaning the house), Thai Pongal or Surya Pongal (giving thanks to the Sun and offering pongal), Mattu Pongal (honouring the cattle that help with ploughing), and Kaanum Pongal (visiting relatives and going out) — those are the four days."
 lang: "en"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "The first day of the Tamil month of Thai — generally mid-January in the Gregorian calendar (14 or 15)."
   holiday: "Not a gazetted public holiday at the federal level or in any state in Malaysia. (Only Deepavali is a federal public holiday — except in Sarawak; Thaipusam is a holiday only in some states.)"
   etiquette: "Primarily a harvest-based cultural festival, secular in nature (clarified by a Malaysian minister in 2020); community organisations and temples hold public celebrations, boiling pongal together in many pots alongside cultural performances."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'A smiling woman in a purple and gold sari stirs steaming Pongal rice in a clay pot ringed with a marigold garland, cooking in the open at a Hindu temple during Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: A large colourful Pongal kolam drawn in coloured powder on the ground, showing sugarcane stalks, bright flowers and an overflowing festival pot, outside a house gate
+    kind: representative
+    origin: third-party
+    subject: Colourful Pongal kolam with sugarcane, flowers and an overflowing-pot motif on a street
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: Two round clay pots with red rims, hand-painted in white with colourful zigzag and dot patterns, prepared for cooking Pongal during the harvest festival
+    kind: representative
+    origin: third-party
+    subject: Two hand-painted clay Pongal pots decorated for the harvest festival
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 In the early dawn as the month of Thai begins, the courtyards and doorsteps of

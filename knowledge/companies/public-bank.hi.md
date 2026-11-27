@@ -33,7 +33,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "LPI Capital Bhd में 44.15% हिस्सेदारी — मौजूदा शेयरधारिता और किसी भी समापन-विवरण की पुष्टि करें।"
   - "नेतृत्व: Tay Ah Lek प्रबंध निदेशक और CEO के रूप में, तथा कार्यरत अध्यक्ष — मौजूदा बोर्ड पदों की पुष्टि करें।"
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'शाम की आसमान के सामने गर्म सुनहरे रंग में चमकती सीढ़ीदार मेनारा पब्लिक बैंक मीनार, शिखर पर जलता लाल-पीला पब्लिक बैंक लोगो और प्रवेश के ऊपर प्रकाशित PUBLIC BANK शब्दचिह्न'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: नीले आसमान के विरुद्ध एक पतली सफ़ेद Public Bank मीनार, उसके शीर्ष के पास लाल अष्टभुजाकार Public Bank लोगो और भूतल शाखा प्रवेश के ऊपर एक लाल PUBLIC BANK साइन
+    kind: actual
+    origin: third-party
+    subject: Public Bank Tower, जोहोर बाहरू, जोहोर
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: पीले आसमान के नीचे भूरे पत्थर से ढकी, सीढ़ीनुमा Menara Public Bank मीनार, उसके पिरामिडनुमा शिखर के पास एक पैनल पर लाल अष्टभुजाकार Public Bank लोगो प्रदर्शित
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank, 170 मीटर पत्थर से ढकी मुख्यालय मीनार, Jalan Ampang, कुआलालंपुर
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 कम ही मलेशियाई कंपनियाँ किसी एक संस्थापक से इतनी निकटता से जुड़ी हैं जितना Public Bank, Tan Sri Teh Hong Piow से। 1966 में मध्य Kuala Lumpur में एक शाखा से आरंभ कर, उन्होंने एक ऐसा ऋणदाता खड़ा किया जो देश के सबसे बड़े बैंकिंग समूहों में से एक बन गया — और जो आकार से कम तथा सावधानी के लिए अधिक प्रसिद्ध है, दशक-दर-दशक बैंकिंग क्षेत्र का सबसे निम्न बुरे-ऋण अनुपात दर्ज करते हुए।

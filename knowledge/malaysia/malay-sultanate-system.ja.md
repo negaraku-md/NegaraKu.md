@@ -20,7 +20,7 @@ appliesTo: "マレーの伝統的なスルタン国という制度の構造と�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: '竹を編んだ壁・急勾配の瓦屋根・彫刻を施した妻壁を備えた伝統的なマレー様式の木造宮殿が、明るい空の下に立っている。'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: 「Istana Negara」と記されたイスタナ・ヌガラの豪華な金色ドームの儀礼用門が明るい日差しの中に立ち、その背後の緑の丘には王宮の金色ドームの建物が、さらに遠くにはクアラルンプールのスカイラインが広がる。
+    kind: actual
+    origin: third-party
+    subject: イスタナ・ヌガラ（Istana Negara）、クアラルンプールのジャラン・トゥアンク・アブドゥル・ハリム（ジャラン・ドゥタ）にある国立王宮
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: 長い儀礼用のマレーのクリス（keris）が細い鞘と並んで博物館の台の上に置かれ、「Keris Alang Pahang」と印刷されたラベルが添えられている。
+    kind: actual
+    origin: third-party
+    subject: パハンのクリス・アラン、権威を象徴する王室儀礼用のクリス（keris）
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 ファイルもなく、書式もなく、番号のついた部局もない国家を想像してほしい。命令は口伝えで下され、正義は王廷（balairung）で言い渡され、社会全体の秩序は、現代の言語には正確に訳しきれない一つの言葉——*daulat*——にかかっていた。それがマレー・スルタン国の世界である。数世紀にわたり、海岸と川筋に沿って幾千もの命を秩序づけてきた体系であり、その影は今日のマレーシア憲法にもなお見て取れる。

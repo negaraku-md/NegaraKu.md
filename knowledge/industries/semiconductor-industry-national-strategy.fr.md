@@ -36,7 +36,7 @@ faq:
     a: "La NSS vise à former et à monter en compétences 60,000 ingénieurs malaisiens hautement qualifiés — environ 30,000 cultivés par le ministère de l'Éducation et environ 30,000 talents techniques et professionnels (TVET) relevant d'autres ministères."
 
 lang: "fr"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Gros plan extrême d''une puce de circuit intégré montrant une circuiterie intégrée argentée et violette complexe, avec de fins fils de liaison dorés rayonnant vers les broches dorées du boîtier'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: Une plaquette de silicium ronde de 300 millimètres vue de dessus, couverte d'une grille régulière de puces rectangulaires aux couleurs de diffraction arc-en-ciel sur toute sa surface
+    kind: representative
+    origin: third-party
+    subject: Une plaquette de silicium de 12 pouces (300 mm) gravée d'une grille de puces
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: Une plaquette de silicium en rotation recouverte d'une flaque brillante de résine photosensible rouge foncé sur une tournette, la résine projetée vers l'extérieur en une fine bruine
+    kind: representative
+    origin: third-party
+    subject: Une plaquette de silicium enduite par centrifugation de résine photosensible lors de la fabrication de puces
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Presque tous les téléphones, ordinateurs portables et voitures de la Terre renferment une puce qui a passé une partie de sa vie en Malaisie — conditionnée, testée et expédiée depuis une usine de Penang ou de la vallée de Klang. Pourtant, pendant cinquante ans, le pays a réalisé la part la moins prestigieuse et la moins marginale de ce travail : l'aval. La Stratégie nationale des semi-conducteurs est la tentative de la Malaisie de changer quelle partie de la puce elle possède.

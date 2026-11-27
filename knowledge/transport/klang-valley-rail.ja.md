@@ -36,7 +36,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'ドラマチックな空を背に高架橋を走る、洗練された赤と白のMRTプトラジャヤ線の電車。近代的なクランバレーの地下鉄'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: ホームドアと列車接近表示のある、清潔で近代的な地下MRTホーム(トゥン・ラザク・エクスチェンジ)——駅構内の風景。判別できる顔なし
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: モスクと都市のスカイラインを背に、高架軌道をカーブして走るKLモノレール列車——2つ目の鉄道交通手段とクランバレーの文脈を加える。ヒーロー画像(高架メトロ)やbody-1(地下駅)とは区別される
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 クランバレーの鉄道路線図を初めて見ると、それは文字の羅列のように読める——MRT、

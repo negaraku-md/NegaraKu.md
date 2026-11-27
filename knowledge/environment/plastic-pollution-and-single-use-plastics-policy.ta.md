@@ -29,7 +29,7 @@ faq:
     a: "அவற்றுள் 2025க்குள் பிளாஸ்டிக் பேக்கேஜிங்கிற்கு 25% மறுசுழற்சி விகிதம், 2030க்குள் 76% சராசரி மறுசுழற்சிக்கான சேகரிப்பு விகிதம் (CFR), மற்றும் 2030க்குள் 15% சராசரி மறுசுழற்சி உள்ளடக்கம் ஆகியவை அடங்கும். 100% மறுசுழற்சி விகிதம் 2050க்குள் இலக்காக நிர்ணயிக்கப்பட்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'கடலருகே ஒரு கடற்கரை மணலில் சிதறிக் கிடக்கும் தூக்கியெறியப்பட்ட பிளாஸ்டிக் பாட்டில்கள் மற்றும் பிற குப்பைகள்.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: ஒரு கடற்கரையின் அலை எல்லை வழியே குவியும் பிளாஸ்டிக் குப்பைகளும் கடல் கழிவுகளும்
+    kind: representative
+    origin: third-party
+    subject: ஒரு கடற்கரையில் ஒதுங்கிய கடல் பிளாஸ்டிக் கழிவுகள் (பிரதிநிதித்துவக் காட்சி)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: மறுசுழற்சிக்கு அனுப்புவதற்காக ஒரு சேகரிப்பு மையத்தில் திரட்டப்பட்ட பயன்படுத்திய பிளாஸ்டிக் பாட்டில்கள்
+    kind: representative
+    origin: third-party
+    subject: மறுசுழற்சிக்கான பிளாஸ்டிக் பாட்டில் சேகரிப்பு மையம் (பிரதிநிதித்துவக் காட்சி)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 பணம் செலுத்தும் கவுண்டரில் உள்ள மெல்லிய பிளாஸ்டிக் பைகள் பொதுவாக ஒரு கணம் மட்டுமே பயன்படுத்தப்படுகின்றன, ஆனால் அவை சுற்றுச்சூழலில் மிக நீண்ட காலம் நீடிக்கக்கூடும். இந்தச் சிக்கலைத் தீர்க்க, மலேசியா ஒரே அடியில் உடனடி முழுத் தடையைத் தேர்ந்தெடுக்கவில்லை — மாறாக, சிறிய கட்டணங்களிலிருந்து பரந்த தடைகளுக்கு நகரும் ஒரு படிநிலை சாலை வரைபடத்தைப் பயன்படுத்துகிறது.

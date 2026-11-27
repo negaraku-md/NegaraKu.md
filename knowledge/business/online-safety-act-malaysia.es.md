@@ -120,7 +120,7 @@ relations:
   - { rel: "governs", to: "online-safety-act-2025" }
   - { rel: "compares-with", to: "social-media-licensing-malaysia" }
   - { rel: "related-to", to: "communications-and-multimedia-act-1998" }
-related: []
+related: ["ministry-of-digital-malaysia", "printing-presses-and-publications-act", "data-protection-department-jpdp"]
 keywords: ["online safety act 2025", "ley de seguridad en línea 2025", "act 866 malaysia", "online safety plan Malasia", "contenido nocivo Malasia", "mcmc seguridad en línea"]
 framework: rules
 ---

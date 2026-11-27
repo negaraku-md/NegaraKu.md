@@ -23,7 +23,7 @@ appliesTo: "マレーシアに居住し、自分の地域で誰がごみを収�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 
 status: "published"
 aiAssisted: true
@@ -66,6 +66,32 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'スランゴール州コタダマンサラのアパート棟の外で、ごみを収集する KDEB Waste Management の清掃車。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: セランゴール州コタ・ダマンサラの草地の縁に置かれた、MBPJ地方議会の紋章が入った青い公共ごみ箱
+    kind: representative
+    origin: third-party
+    subject: コタ・ダマンサラの、MBPJ（ペタリン・ジャヤ市議会）の紋章を掲げた議会のごみ箱
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: クアラルンプールの公共スペースに並ぶ、紙、缶とプラスチック、ガラス、リサイクル不可のごみ用にラベル付けされた4つのリサイクル箱の列
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールの、紙・缶とプラスチック・ガラス・リサイクル不可のごみを分別するリサイクル箱
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 あなたのごみ箱は週に2回回収されるが、実際に回収しているのが誰なのか——地方自治体なのか、それとも地方自治体が任命した別の会社なのか——を考えたことはあるだろうか。そして、なぜ隣の州に住むあなたの隣人は、プラスチックのボトルを生ごみと分別しなかったせいで罰金を科されうるのに、あなたはそうならないのだろうか。

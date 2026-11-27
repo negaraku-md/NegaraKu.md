@@ -29,7 +29,7 @@ faq:
     a: "SUKMA เป็นเวทีระดับรัฐสำหรับนักกีฬาวัยรุ่นแสดงความสามารถ นักกีฬาที่มีศักยภาพสามารถได้รับการเลื่อนสู่โปรแกรมการพัฒนานักกีฬาที่มีความสามารถและสำรองของ MSN และต่อไปสู่โครงการโพเดียมของ ISN ที่เตรียมนักกีฬาชั้นนำสำหรับมหกรรมนานาชาติ"
 
 lang: "th"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,7 @@ verificationNeeded:
   - "โครงสร้างและชื่อที่แน่นอนของโปรแกรมการพัฒนา MSN (Program Bakat; Program Pelapis Negeri/Serantau/Kebangsaan) ตรวจสอบการตั้งชื่อล่าสุด"
   - "เกณฑ์การคัดเลือกที่เจาะจงของนักกีฬาสู่โครงการโพเดียม ISN ไม่ได้ระบุรายละเอียดบนเว็บไซต์ทางการ"
   - "คำกล่าวทั่วไปเกี่ยวกับการลงทุนโครงสร้างพื้นฐานของเจ้าภาพและความได้เปรียบในสนามบ้าน ยังไม่มีแหล่งข้อมูลเฉพาะสนับสนุน ยืนยันหรือตัดออก"
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
   - title: "นักกีฬา 10,000 คนจะร่วมสร้างสีสันให้กับ SUKMA XXII และ Para SUKMA สลังงอร์ 2026 (10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026)"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
@@ -69,15 +69,62 @@ sources:
   - title: "โครงการโพเดียม — สถาบันกีฬาแห่งชาติ (Program Podium — Institut Sukan Negara)"
     url: "https://isn.gov.my/bahagian-podium/"
     publisher: "สถาบันกีฬาแห่งชาติ"
+  - title: "ซูกัน มาเลเซีย (SUKMA) — ประวัติและรายชื่อฉบับการแข่งขัน (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "Wikipedia"
+  - title: "SUKMA ควรคงเป็นการแข่งขันรุ่นอายุไม่เกิน 21 ปี กล่าวโดย NSC (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "New Straits Times"
+  - title: "SUKMA 2026 จะมี 474 รายการ มากที่สุดในประวัติศาสตร์การแข่งขัน (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "Bernama"
+  - title: "SUKMA ช่วยกอบกู้อาชีพนักกระโดดน้ำของ Pandelela ไว้อย่างไรหลังเกือบเลิกเล่นในปี 2004 (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "Malay Mail"
+  - title: "Jin Wei โค่น Li Lian คว้าเหรียญทอง SUKMA (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "The Star"
+  - title: "Welson พร้อมสร้างผลงานยิ่งใหญ่ที่ SUKMA XV (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "The Borneo Post"
+  - title: "Khairul Hafiz ทำลายสถิติวิ่ง 100 เมตรระดับชาติ (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "The Star"
 
 entity: "Sukan Malaysia (SUKMA)"
 wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "football-in-malaysia"]
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'คณะนักกีฬาจากแต่ละรัฐถือธงและป้ายชื่อรัฐของตนระหว่างพิธีเปิดการแข่งขันซูกมา (SUKMA) ในมาเลเซีย'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: อัฒจันทร์สนามหญ้าสีเขียวและลู่วิ่งสีแดงของสนามกีฬาระดับรัฐในมาเลเซียพร้อมที่นั่งสีน้ำเงินเหลืองว่างเปล่าเป็นลักษณะทั่วไปของสนามเจ้าภาพจัดกีฬาซูกมา
+    kind: representative
+    origin: third-party
+    subject: สนามกีฬาระดับรัฐในมาเลเซียที่มีลู่กรีฑาสนามแบบที่ใช้จัดการแข่งขันซูกมา
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: ภาพมุมสูงของศูนย์กีฬาลิกัสในเมืองโกตากินาบาลูเห็นสนามกรีฑาอารีนาในร่มทรงโดมและสิ่งอำนวยความสะดวกด้านกีฬาโดยรอบท่ามกลางตัวเมือง
+    kind: representative
+    origin: third-party
+    subject: ภาพมุมสูงของศูนย์กีฬาลิกัสในรัฐซาบาห์สนามจัดการแข่งขันกีฬาหลายประเภท
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 ทุกสองปี นักกีฬาวัยรุ่นหลายพันคนเดินสวนสนามเข้าสู่สนามกีฬาของรัฐเจ้าภาพ ไม่ใช่เพื่อเหรียญระดับโลก แต่เพื่อศักดิ์ศรีของรัฐของตน และสำหรับผู้ที่มีความสามารถที่สุด ตั๋วสู่เวทีชั้นนำของประเทศ นั่นคือ SUKMA
@@ -94,6 +141,14 @@ SUKMA จัดครั้งแรกที่กัวลาลัมเป�
 
 การจัดดำเนินการโดย **[สภากีฬาแห่งชาติมาเลเซีย](/sports/national-sports-council-msn) (MSN)** ร่วมกับสภากีฬาระดับรัฐ สภากีฬาโรงเรียนมาเลเซีย (MSSM) สภากีฬามหาวิทยาลัยมาเลเซีย (MASUM) และสภากีฬาตำรวจหลวงมาเลเซีย ฉบับล่าสุด **SUKMA XXII สลังงอร์ 2026** มีกำหนดจัดตั้งแต่วันที่ 15 ถึง 24 สิงหาคม 2026 มหกรรมเฉพาะสำหรับนักกีฬาผู้พิการ **Para SUKMA** มีกำหนดจัดแยกต่างหากในวันที่ 5 ถึง 14 กันยายน 2026
 
+ฉบับปี 2026 ยังสร้างสถิติเฉพาะตัวด้วย คือมีการจัดแข่งขันถึง 474 รายการ นับเป็นจำนวนรายการแข่งขันที่มากที่สุดในประวัติศาสตร์ SUKMA จนถึงปัจจุบัน
+
+## จาก 1986 ถึงปัจจุบัน: ขีดจำกัดอายุ แชมป์ และสถิติ
+
+SUKMA เป็นการแข่งขันสำหรับนักกีฬา**อายุไม่เกิน 21 ปี (U-21)** และขีดจำกัดอายุนี้เองคือแก่นของอัตลักษณ์ของมัน สภากีฬาแห่งชาติ (MSN) ปกป้องการจำกัดอายุนี้ไว้เพื่อให้มหกรรมมุ่งเน้นไปที่การพัฒนานักกีฬารุ่นเยาว์ ข้อยกเว้นเดียวจนถึงปัจจุบันคือฉบับปี 2022 (SUKMA XX) ซึ่งได้รับอนุญาตให้ขยายขีดจำกัดเป็นอายุไม่เกิน 23 ปี เนื่องจากการแข่งขันในปี 2020 ถูกยกเลิกจากการระบาดของโควิด-19
+
+นับตั้งแต่ฉบับแรกที่กัวลาลัมเปอร์ในปี 1986 ซึ่งรวบรวมนักกีฬาราว 4,500 คนจาก 16 คณะ มหกรรมนี้จัดหมุนเวียนไปตามรัฐต่าง ๆ ตั้งแต่กูชิงและยะโฮร์บาห์รู ไปจนถึงอาโลร์สตาร์ กัวลาตรังกานู และโกตากีนาบาลู **สลังงอร์** เป็นคณะที่ประสบความสำเร็จมากที่สุด โดยคว้าแชมป์รวมถึงเก้าครั้ง ตามมาด้วยตรังกานูและซาราวัก สถิติการคว้าเหรียญทองมากที่สุดในฉบับเดียวก็เป็นของสลังงอร์เช่นกัน ด้วย 80 เหรียญทองใน SUKMA VII ปี 1998
+
 ## SUKMA ป้อนช่องทางนักกีฬาชั้นนำอย่างไร?
 
 SUKMA ยืนอยู่บนขั้นบันไดแรกของระบบการพัฒนากีฬาของมาเลเซีย นักกีฬาที่โดดเด่นในมหกรรมนี้กลายเป็นผู้มีคุณสมบัติในการเลื่อนสู่ระดับถัดไป
@@ -105,6 +160,17 @@ SUKMA ยืนอยู่บนขั้นบันไดแรกของ�
 **โครงการโพเดียม** เปิดตัวเมื่อวันที่ 2 กุมภาพันธ์ 2016 ภายใต้กระทรวงเยาวชนและกีฬาและดำเนินการโดย **สถาบันกีฬาแห่งชาติ (ISN)** ออกแบบมาโดยเฉพาะเพื่อเตรียมนักกีฬาชั้นนำให้บรรลุสมรรถนะระดับโลกในมหกรรมนานาชาติหลักเช่นกีฬาโอลิมปิก เอเชียนเกมส์ และกีฬาเครือจักรภพ การคัดเลือกนักกีฬาสู่โครงการโพเดียมทำโดย ISN ตามเกณฑ์การคัดเลือกที่กำหนด
 
 กล่าวอีกนัยหนึ่ง SUKMA จัดหากลุ่มนักกีฬาที่มีความสามารถดิบ ขณะที่โปรแกรมสำรองและโพเดียมคัดกรองและขัดเกลาความสามารถนั้นให้เป็นนักกีฬาสมรรถนะสูง
+
+## หลักฐานของช่องทางบ่มเพาะนักกีฬา: พวกเขาเริ่มต้นที่ SUKMA
+
+ทฤษฎีนั้นเรียบง่าย ส่วนหลักฐานอยู่ที่รายชื่อ นักกีฬาชื่อดังของประเทศหลายคนเริ่มเปล่งประกายที่เวที SUKMA ก่อนจะไปเป็นตัวแทนมาเลเซียในระดับนานาชาติ:
+
+- **Pandelela Rinong** (กระโดดน้ำ, ซาราวัก) — ต่อมากลายเป็นนักกีฬามาเลเซียคนแรกที่คว้าเหรียญโอลิมปิกในกีฬากระโดดน้ำ (เหรียญทองแดง ประเภทบุคคล 10 เมตรแพลตฟอร์ม ลอนดอน 2012; เหรียญเงิน ประเภทคู่ซิงโคร ริโอ 2016) เธอเคยกล่าวว่า SUKMA ชุบชีวิตอาชีพของเธอ หลังจากเกือบเลิกเล่นในปี 2004 การกลับมาพร้อมสามเหรียญทองที่ SUKMA 2006 รัฐเกดะห์ได้จุดประกายความหลงใหลในกีฬาของเธอขึ้นใหม่
+- **Goh Jin Wei** (แบดมินตัน, ปีนัง) — คว้าเหรียญทองประเภทหญิงเดี่ยวที่ SUKMA 2014 ด้วยวัย 14 ปี ก่อนจะเป็นแชมป์โลกเยาวชน BWF (2015 และ 2018) และนักกีฬามาเลเซียคนแรกที่คว้าเหรียญทองโอลิมปิกเยาวชน
+- **Welson Sim** (ว่ายน้ำ, ซาราวัก) — คว้าเหรียญทองที่ SUKMA XV (2012) ก่อนจะลงแข่งในโอลิมปิกริโอ 2016 และคว้าชัยที่ซีเกมส์
+- **Khairul Hafiz Jantan** (กรีฑา, มะละกา) — สร้างสถิติวิ่ง 100 เมตรระดับชาติ (10.18 วินาที) ที่ SUKMA XVIII 2016 ทำลายสถิติเดิมอายุ 18 ปีของ Watson Nyambek แล้วก้าวขึ้นสู่ทีมชาติ
+
+รายชื่อนี้ไม่ใช่เรื่องบังเอิญ มันแสดงให้เห็นหน้าที่ที่แท้จริงของ SUKMA ในฐานะแหล่งเพาะบ่ม ที่ซึ่งนักกีฬาที่มีความสามารถของรัฐถูกทดสอบเป็นครั้งแรกก่อนจะถูกคัดกรองขึ้นสู่ระดับที่สูงกว่า
 
 ## เหตุใดรัฐจึงแย่งกันเป็นเจ้าภาพ?
 

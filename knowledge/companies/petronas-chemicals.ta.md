@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,7 @@ sources:
     publisher: "StockAnalysis.com"
 
 entity: "Petronas Chemicals Group (PCG)"
+wikidata: "Q139388026"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "petronas" }
@@ -82,6 +83,33 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'Johor Pengerang-ல் உள்ள பரந்த கடலோர பெட்ரோகெமிக்கல் மற்றும் சுத்திகரிப்பு வளாகத்தின் வான்வழிக் காட்சி; மங்கலான வானத்திற்குக் கீழே கடல் வரை நீளும் வெள்ளை சேமிப்புத் தொட்டிகள், செயலாக்க அலகுகள், குழாய் அடுக்குகள், கப்பல்துறைகளின் வரிசைகள்'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: ஆற்றின் குறுக்கே பார்த்த பெரிய பெட்ரோகெமிக்கல் உரத் தொழிற்சாலை; நீளமான குளிரூட்டும்-கோபுர அறைகள் வரிசை, நீல நிற செயல்முறை குழாய்கள் மற்றும் சிவப்பு-வெள்ளை புகைபோக்கியுடன், பச்சை தாவரங்கள் மற்றும் மேகமூட்டமான வானத்திற்கு எதிராக
+    kind: actual
+    origin: third-party
+    subject: சரவாக்கில் உள்ள ASEAN Bintulu Fertiliser தொழிற்சாலை, PETRONAS Chemicals-ஆல் இயக்கப்படும் அம்மோனியா மற்றும் யூரியா பெட்ரோகெமிக்கல் வசதி
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: சங்கிலி-வலைய வேலிக்குப் பின்னால் உள்ள பெரிய வெள்ளை நிற உருளை வடிவ சேமிப்புத் தொட்டி; பச்சை நிற PETRONAS நீர்த்துளி சின்னத்திற்கு அருகில் 'PETRONAS 90 MLC' எனக் குறிக்கப்பட்டு, ஒரு பக்கம் குழாய்கள் மற்றும் தொழிற்சாலை அமைப்புகளுடன், லேசான மேகமூட்டமான நீல வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூரில் உள்ள Pengerang Integrated Complex-இல் ஒரு PETRONAS-அடையாள சேமிப்புத் தொட்டி
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 மலேசிய பண்ணை ஒன்றில் தூவப்படும் கிட்டத்தட்ட ஒவ்வொரு உர மூட்டையும், நாட்டின் தொழிற்சாலைகளில் வார்க்கப்படும் பிளாஸ்டிக் பிசின்களின் பெரும்பகுதியும், ஒரே நிறுவனம் வரை செல்கின்றன: Petronas Chemicals Group Berhad. இது தேசிய எண்ணெய் நிறுவனத்தின் வேதிப்பொருள் பிரிவு, மலேசியாவின் மிகப்பெரிய ஒருங்கிணைந்த வேதிப்பொருள் உற்பத்தியாளர், மேலும் — ஒரு அரசு-இணைந்த வணிகத்திற்கு அசாதாரணமாக — யார் வேண்டுமானாலும் பங்குகளை வாங்கக்கூடிய தனியாகப் பட்டியலிடப்பட்ட நிறுவனம்.

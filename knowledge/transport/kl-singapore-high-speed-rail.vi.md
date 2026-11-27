@@ -29,7 +29,7 @@ faq:
     a: "Không. RTS Link là một tuyến đưa đón xuyên biên giới ngắn giữa Johor Bahru và Woodlands, nhắm mở vào năm 2026. HSR là một tuyến cao tốc riêng biệt dài khoảng 350 km được quy hoạch giữa Kuala Lumpur và Singapore."
 
 lang: "vi"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'Một đoàn tàu cao tốc màu trắng và cam bóng bẩy dừng tại sân ga khi hành khách lên tàu.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: Một đoàn tàu Đường sắt Cao tốc Đài Loan tại sân ga, được trình bày như một tuyến đường sắt cao tốc khu vực tương đương.
+    kind: representative
+    origin: third-party
+    subject: Tàu cao tốc đang vận hành trong khu vực (Đường sắt Cao tốc Đài Loan), đại diện cho tuyến HSR KL-Singapore trong tương lai
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: Một đoàn tàu cao tốc Shinkansen dòng N700 tại Ga Hiroshima ở Nhật Bản, được trình bày như một tuyến đường sắt cao tốc khu vực tương đương.
+    kind: representative
+    origin: third-party
+    subject: Tàu cao tốc đang vận hành trong khu vực (Shinkansen N700 của Nhật Bản), đại diện cho tuyến HSR KL-Singapore trong tương lai
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 Một chuyến tàu cao tốc có thể đưa bạn từ Kuala Lumpur đến Singapore trong khoảng 90 phút đã được ký, tạm ngưng, chấm dứt, tiếc thương, và hồi sinh — tất cả mà không một đường ray nào được đặt xuống. Đây là nơi dự án lúc có lúc không này thực sự đang đứng.

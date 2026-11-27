@@ -29,7 +29,7 @@ faq:
     a: "3 दिसंबर 2020 की विशेष मुज़ाकरह ने निर्णय दिया कि कोविड-19 टीकों का उपयोग सरकार द्वारा निर्दिष्ट समूहों के लिए अनुमेय और अनिवार्य है, इस शर्त पर कि उपयोग किए जाने वाले टीके हलाल और पवित्र (tayyiban) हों।"
 
 lang: "hi"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ entity: "Jawatankuasa Muzakarah Fatwa Kebangsaan bagi Hal Ehwal Ugama Islam Mala
 relations:
   - { rel: "related-to", to: "national-immunisation-programme-malaysia" }
   - { rel: "related-to", to: "halal-certification-jakim" }
-related: []
+related: ["halal-certification-in-malaysia", "public-healthcare-system-malaysia", "traditional-and-complementary-medicine"]
 keywords: ["हलाल टीका", "टीके का हुक्म", "दवा में जिलेटिन", "कोविड-19 टीका फतवा", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'एक कस्बे की सड़क के कोने पर एक मलेशियाई फ़ार्मेसी (फ़ारमासी) वाला एक चमकीला लाल विरासती दुकान-घर।'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: एक सड़क के कोने पर एक आधुनिक मलेशियाई सामुदायिक फ़ार्मेसी, जिसका साइनबोर्ड Big Pharmacy पढ़ता है, Kluang, Johor में
+    kind: actual
+    origin: third-party
+    subject: Kluang शहर केंद्र, Johor, मलेशिया में Big Pharmacy खुदरा श्रृंखला की एक शाखा
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: फ़ार्मेसी की अलमारियों पर करीने से रखे दवा के डिब्बों की कतारें, जो पैकेज की गई दवाओं और उनकी लेबलिंग का प्रतिनिधित्व करती हैं
+    kind: representative
+    origin: third-party
+    subject: फ़ार्मेसी की अलमारियों पर व्यवस्थित जेनेरिक दवाओं के डिब्बे
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 टीके की एक शीशी में स्टेबलाइज़र के रूप में थोड़ा जिलेटिन हो सकता है — और उस छोटी-सी बात से मलेशिया के मुस्लिम परिवारों द्वारा सबसे अधिक पूछे जाने वाले धार्मिक प्रश्नों में से एक उठता है: क्या यह हलाल है? इसका उत्तर केवल «हाँ» या «नहीं» नहीं है, बल्कि एक संरचित आकलन प्रक्रिया का परिणाम है जिसमें फतवा निकाय, वैज्ञानिक शोध और फ़िक़्ह के कई विशिष्ट सिद्धांत शामिल होते हैं।

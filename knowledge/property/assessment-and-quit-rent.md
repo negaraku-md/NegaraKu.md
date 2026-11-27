@@ -66,6 +66,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'Sederetan rumah teres dua tingkat moden di belakang pagar di sebuah taman perumahan Malaysia, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: Sederet rumah teres dua tingkat menyusuri jalan kediaman yang tenang di Malaysia, jenis hartanah bertanah yang dikenakan cukai taksiran dan cukai tanah.
+    kind: representative
+    origin: third-party
+    subject: Rumah teres dua tingkat di sebuah taman perumahan di Malaysia
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: Imbasan udara ke atas perbandaran Mutiara Rini di Iskandar Puteri memperlihatkan beribu-ribu rumah bertanah di jalan bergrid, setiap satu hartanah bercukai dalam rekod majlis tempatan.
+    kind: representative
+    origin: third-party
+    subject: Pandangan udara bandar Mutiara Rini, Iskandar Puteri, Johor
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 Ramai pemilik rumah baharu terkejut apabila menerima bil kedua yang mereka tidak sangka wujud. Mereka sudah bayar "cukai tanah" tahun ini — kenapa majlis bandaran pula hantar notis tuntutan?

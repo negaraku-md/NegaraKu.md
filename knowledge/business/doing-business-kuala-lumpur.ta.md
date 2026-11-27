@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 
 status: "published"
 aiAssisted: true
@@ -109,6 +109,34 @@ keywords:
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
 framework: profile
+hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
+heroAlt: 'மேலிருந்து காணப்படும் Kuala Lumpur மைய வணிகப் பகுதியின் அடர்த்தியான அலுவலக வானுயர் கட்டிடங்கள்; இடது விளிம்பில் Petronas Twin Towers உயர்கிறது'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: கோலாலம்பூரில் நயமான நீல-கண்ணாடி Mercu UEM அலுவலக கோபுரம்; பிரகாசமான வானத்தின் கீழ் முன்புறத்தில் உயர்த்தப்பட்ட பாதையில் சிவப்பு நிற மோனோரயில் ரயில் கடந்து செல்கிறது
+    kind: actual
+    origin: third-party
+    subject: KL Sentral வணிக மாவட்டத்தில் உள்ள கண்ணாடி பெருநிறுவன அலுவலக கோபுரமான Mercu UEM; முன்னால் மோனோரயில் ரயில் கடந்து செல்கிறது
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: மேகமூட்டமான வானத்தின் கீழ், KL Sentral வணிக மாவட்டத்தின் அலுவலக மற்றும் ஹோட்டல் கோபுரங்களால் சூழப்பட்ட முன்புறத்தில் KL Sentral நிலையத்தின் வளைவு கூரை
+    kind: actual
+    origin: third-party
+    subject: KL Sentral போக்குவரத்து மையமும், கோலாலம்பூரின் KL Sentral வணிக மாவட்டத்தைச் சுற்றியுள்ள அலுவலக-கோபுரக் கொத்தும்
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 கூட்டரசு வர்த்தமானியிலிருந்து உங்கள் உரிமக் கட்டணத்தை நீங்கள் படிக்கக்கூடிய

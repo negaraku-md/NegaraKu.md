@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: 为什么森美兰、雪兰莪、霹雳等州属的印度教徒较多?
     a: 这些州属与昔日的橡胶园、锡矿区相吻合——英殖民时期大量印度劳工正是在那里定居。在2020年人口普查中,森美兰(约13.1%)、雪兰莪(约10.3%)、霹雳(约9.7%)所占比例较高。他们大多是当年在甘加尼(kangani)制度下从南印度前来从事园坵工作者的后裔。
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: '吉隆坡市中心斯里玛哈玛里安曼庙（Sri Mahamariamman Temple）高耸、色彩斑斓的戈普兰（gopuram）塔楼，寺庙入口上方布满印度教神祇塑像，访客伫立其下。'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: 霹雳怡保卡鲁玛莱穆鲁干庙（Kallumalai Murugan Temple）层叠、色彩鲜艳的塔门（gopuram），布满印度教神祇雕像
+    kind: actual
+    origin: third-party
+    subject: 霹雳怡保卡鲁玛莱穆鲁干庙色彩缤纷的塔门（gopuram）
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: 为屠妖节在地面铺设的精致、色彩斑斓的 kolam 地画，这是马来西亚主要的印度教节庆
+    kind: actual
+    origin: third-party
+    subject: 屠妖节（Deepavali）的 kolam 地画，马来西亚
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 在马来西亚的任何城镇，无论是在一座旧橡胶园的边缘，还是在市中心的老街上，都能见到一座马里安曼庙。那些戈普兰塔楼与屠妖节的灯火并非偶然 — 它们述说着一个历时一个半世纪以上的社群的历史。

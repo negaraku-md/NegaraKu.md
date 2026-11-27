@@ -37,7 +37,7 @@ faq:
     a: "Một cách độc đáo, vườn được chi phối bởi ba đạo luật bang thời thuộc địa — the Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 và (Terengganu) 1939 — chứ không phải National Parks Act 1980 của liên bang. Điều này là vì đất đai và lâm nghiệp là các vấn đề thuộc bang theo Hiến pháp Liên bang của Malaysia, nên đạo luật liên bang không áp dụng cho ba bang này."
 
 lang: "vi"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách muốn một rừng mưa nhiệt đới cổ xưa — cầu đi bộ trên tán cây, trekking rừng rậm, các chòi ẩn ngắm động vật hoang dã và các chuyến đi sông — đặt cơ sở tại cửa ngõ Kuala Tahan ở Pahang.'
+  getThere: 'Đi bằng đường bộ tới Jerantut ở Pahang, rồi đi thuyền ngược Sungai Tembeling từ bến Kuala Tembeling tới Kuala Tahan, với một tuyến đường bộ trực tiếp làm phương án thay thế.'
+  permit: 'Mọi du khách đăng ký một giấy phép vào cửa PERHILITAN khi đến tại bến tàu hoặc quầy công viên, trả một khoản phí giấy phép máy ảnh riêng, và phải dùng một hướng dẫn viên có giấy phép cho chặng leo Gunung Tahan.'
+  watch: 'Gió mùa đông bắc có thể làm dâng các con sông và gián đoạn thuyền cùng lối mòn, các cầu đi bộ trên tán cây từng bị đóng, và đỉa cùng độ ẩm là thường trực — hãy xác nhận lối vào và đặt hướng dẫn viên trước.'
+  next: 'Hãy xác nhận quy định và phí giấy phép cùng vào cửa hiện tại với văn phòng Cục Động vật Hoang dã và Vườn Quốc gia (PERHILITAN) tại Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Những ngọn đồi rừng mưa nhiệt đới rậm rạp thoai thoải trải dài tới chân trời dưới bầu trời xanh ở Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Một du khách băng qua cầu đi bộ trên tán rừng hẹp bằng dây và ván treo giữa những cây rừng mưa cao lớn ở Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Cầu treo đi bộ trên tán rừng cao giữa những ngọn cây rừng mưa ở Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Những chiếc thuyền dài bằng gỗ trên sông Tembeling bên bờ sông phủ rừng với sương mờ trên những ngọn đồi ở Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sông Tembeling với những chiếc thuyền dài tại bến tàu Taman Negara trong sương sớm
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Đứng ở bến Kuala Tahan lúc bình minh, ngắm sương mù bốc lên khỏi một dòng sông già hơn dãy Himalaya, thật dễ quên rằng bạn chỉ cách Kuala Lumpur chưa đầy nửa ngày. Taman Negara không phải là một điểm thu hút được chế tạo. Đó là một khu rừng mưa nhiệt đới sống động đã tồn tại, gần như không bị xáo trộn, trong hàng chục triệu năm — và việc vào đó rẻ hơn và đơn giản hơn hầu như bất kỳ du khách nào tưởng.

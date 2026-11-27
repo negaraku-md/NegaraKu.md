@@ -32,7 +32,7 @@ faq:
   - q: Bagaimana musik ini dipertahankan di Malaysia?
     a: "Para pemusik kuil, kelompok nadaswaram–thavil, dan banyak kelompok urumi melam meneruskan tradisi ini. Kaum muda mulai belajar sejak usia dini; banyak kelompok membelanjakan pendapatan mereka untuk seragam, alat musik, dan santapan kelompok, serta beroperasi sebagai layanan nirlaba. Kini tradisi ini juga berkumandang di luar kuil pada perayaan dan acara penyambutan."
 lang: "id"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
 framework: history-culture
+hero: '/media/arts-culture/temple-music-nadaswaram/hero.webp'
+heroAlt: 'Dua musisi duduk berdhoti putih memainkan alat tiup nadaswaram hitam panjang dengan corong kayu melebar, di atas tikar bermotif cerah'
+heroCredit: 'PJeganathan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_in_South_Indian_Marriage_JEG6722.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: Di sebuah kuil Hindu, seorang pria yang duduk memainkan pipa tiup nadaswaram yang panjang sementara pria kedua memainkan gendang tong thavil yang horizontal
+    kind: representative
+    origin: third-party
+    subject: Pemain nadaswaram dan thavil tampil di kuil Hindu Sri Mariamman, Singapura
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: Seorang pemuda memegang alat tiup nadaswaram dengan corong yang melebar di samping pria lain yang mendekap gendang tong thavil bulat yang direntangi tali kuning
+    kind: representative
+    origin: third-party
+    subject: Pemain nadaswaram berpasangan dengan pemain gendang tong thavil, duet musik kuil India Selatan yang baku
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 Di barisan terdepan sebuah arak-arakan Thaipusam, pada saat sebuah kereta kencana kuil mulai bergerak, atau di pintu masuk sebuah aula pernikahan — pada peristiwa Hindu Tamil mana pun di Malaysia, yang pertama memenuhi udara selalu satu suara tertentu: melodi panjang nadaswaram dan dentuman thavil. Suara itu bukan kebetulan — ia adalah tanda tradisi **mangala vadyam** (alat musik pembawa berkah) yang telah menyertai komunitas ini selama lebih dari satu abad.

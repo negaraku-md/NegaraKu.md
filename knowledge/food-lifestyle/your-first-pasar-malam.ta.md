@@ -34,7 +34,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["முதல் பசார் மாலம்", "பசார் மாலம் எப்படி", "பசார் மாலம் மலேசியா வழிகாட்டி", "tapau பசார் மாலம்", "DuitNow QR பசார் மாலம்", "பசார் மாலம் halal", "இரவுச் சந்தை மலேசியா ஆர்டர் எப்படி", "பசார் மாலம் இருக்கை", "பசார் மாலம் உணவுப் பாதுகாப்பு"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'பிரகாசமாக ஒளிரும் pasar malam கடையில் ஒரு வாடிக்கையாளருக்குப் பரிமாறும் விற்பனையாளர்; கையால் எழுதிய விலைப் பலகைகளுடன் பொரித்த சிற்றுண்டிகளும் தோஃபுவும் நிறைந்த கண்ணாடிப் பெட்டிகள்'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: ஒரு இரவு-அங்காடிக் கடையில் கறுப்பு சூடான தட்டில் சுய்சுய்யென வெந்து ஆவி கிளம்பும், மெருகூட்டப்பட்ட வாட்டிய சிற்றுண்டிகளின் மூங்கில் குச்சிகள்
+    kind: actual
+    origin: third-party
+    subject: ஒரு இரவு அங்காடியில் சூடான தட்டில் ஆவி கிளம்பும் சதே-பாணி வாட்டிய சிற்றுண்டிக் குச்சிகள்
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 ஒரு பசார் மாலம்-ல் முதல் முறை திசைமயக்கத்தை ஏற்படுத்தலாம்: இரண்டு கடைச் சுவர்களுக்கு

@@ -57,6 +57,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'A woman artisan in a purple headscarf and apron bends over a workbench, tapping a small hammer against a pewter tankard mounted on a steel jig, with rows of pewter mugs behind her'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: A pewter craftsman using a tool against a tankard spinning on a lathe, metal shavings curling off, with about nine polished silvery pewter tankard bodies grouped on the wooden workbench
+    kind: actual
+    origin: third-party
+    subject: a Malaysian pewter worker turning a tankard on a lathe, with finished pewter tankards arranged on the bench
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: A single polished pewter tankard with a chunky handle and horizontal banding, its mirror-like silvery surface catching the light against a pale background
+    kind: actual
+    origin: third-party
+    subject: a finished, polished pewter tankard with a handle
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 A city built on tin ended up giving the world a metal craft. Kuala Lumpur exists because prospectors found tin ore where the Klang and Gombak rivers meet. Decades later, a teenage tinsmith who came to work that same tin economy started hammering out incense burners for temple altars — and the workshop he opened is now the largest pewter maker on Earth.

@@ -30,7 +30,7 @@ faq:
     a: "El Día de Malasia se convirtió en día festivo federal en todo el país solo décadas después de que se formara la federación. Antes de eso, el 16 de septiembre era festivo únicamente en ciertos territorios y no se observaba de manera uniforme a nivel nacional, aunque había sido la fecha de formación de la federación desde 1963."
 
 lang: "es"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'Músicos militares uniformados marchan en formación ante los espectadores durante el desfile del Día de Merdeka de Malasia en Dataran Merdeka.'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: Filas de oficiales uniformados marchando en formación mientras portan la Jalur Gemilang roja, blanca, azul y amarilla y otras banderas durante un desfile del Día de Merdeka.
+    kind: actual
+    origin: third-party
+    subject: Contingentes uniformados desfilando con la Jalur Gemilang en la 59.ª celebración del Día de Merdeka
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: Una multitud sonriente en Kota Kinabalu, Sabah, alza y ondea con orgullo la bandera nacional de Malasia durante una celebración al aire libre del día nacional en Malasia Oriental.
+    kind: actual
+    origin: third-party
+    subject: Celebrantes ondeando la Jalur Gemilang durante las festividades del día nacional en Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 Cada año, el calendario de Malasia contiene dos fechas que fácilmente se confunden como si fueran lo mismo: el 31 de agosto y el 16 de septiembre. Ambas se marcan con banderas, desfiles y canciones patrióticas. Sin embargo, las dos conmemoran acontecimientos distintos, con seis años de diferencia, y describen dos países de formas distintas.

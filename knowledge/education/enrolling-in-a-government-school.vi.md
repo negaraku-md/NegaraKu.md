@@ -20,7 +20,7 @@ keyTakeaways:
   - "Nhập học sớm (dưới tuổi) và hoãn nhập học Lớp 1 đều tồn tại như các chính sách chính thức riêng biệt — đơn xin được nộp qua JPN, không qua hệ thống idMe thông thường, và việc hoãn là một đặc ân (privilege), không phải một quyền tự động"
 appliesTo: "Cha mẹ hoặc người giám hộ là công dân Malaysia có con sắp vào Lớp 1 trường tiểu học công lập hoặc Khối 1 trường trung học công lập."
 lang: "vi"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'Tòa nhà nhiều tầng màu hồng của trường Sekolah Kebangsaan Kota Warisan ở Sepang, Selangor, với bảng tên trên mặt tiền và khuôn viên có hàng rào dọc theo con đường.'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: Khối nhà học chính của một trường tiểu học quốc gia ở Ayer Keroh, Melaka, loại trường công mà hầu hết các gia đình đăng ký cho con em mình vào học.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, Melaka
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: Một lối đi có mái che hai bên treo cờ Malaysia dẫn lên cổng một trường công, con đường mà học sinh mới bước qua trong ngày nhập học đầu tiên.
+    kind: representative
+    origin: third-party
+    subject: Lối đi vào viền cờ dẫn vào một trường công Malaysia
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 Nhiều cha mẹ ngạc nhiên khi phát hiện ra rằng họ không thể "đăng ký" con vào Khối 1 giống như cách họ đã đăng ký Lớp 1 trước đó. Không có biểu mẫu trực tuyến nào để tự điền, không có cổng nào để đăng nhập. Lý do đơn giản: hai bậc học công lập này sử dụng hai hệ thống hoàn toàn khác nhau, và nhầm lẫn cả hai là nguyên nhân phổ biến nhất khiến cha mẹ thắc mắc vì sao "không thấy đăng ký của con tôi đâu cả."

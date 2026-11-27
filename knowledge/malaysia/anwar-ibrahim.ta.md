@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "அன்வர் இப்ராஹிம்"
+seoTitle: "அன்வர் இப்ராஹிம்: மலேசியாவின் 10வது பிரதமர் (2022–தற்போது)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]
@@ -72,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: 'அடர் நிற சூட் மற்றும் நீல டை அணிந்த Anwar Ibrahim, ஒரு அதிகாரப்பூர்வ அரச பயணத்தின்போது எடுக்கப்பட்ட மேல்-உடல் உருவப்படத்தில் கேமராவை நோக்கிப் பார்க்கிறார்.'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 அன்வர் இப்ராஹிம் (பிறப்பு 1947 ஆகஸ்ட் 10) மலேசியாவின் **பத்தாவது பிரதமர்**

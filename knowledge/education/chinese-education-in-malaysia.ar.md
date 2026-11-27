@@ -31,7 +31,7 @@ faq:
   - q: "أين يمكن لخريجي 独中 مواصلة الدراسة؟"
     a: "مسارات مواصلة الدراسة أمام طلاب 独中 متنوعة. فكثيرون يلتحقون بشهادة UEC بكليات وجامعات خاصة محلية أو بجامعات أجنبية، وبعض الطلاب يؤدون أيضاً امتحان SPM للإبقاء على مزيد من الخيارات. ومن مؤسسات التعليم العالي الصينية المحلية New Era University College وSouthern University College وHan Chiang University College of Communication، وقد نشأت جميعها من منظومة التعليم الصيني. واعتباراً من عام 2026 يمكن أيضاً لحاملي UEC الذين يستوفون شروطاً محددة التقدم إلى بعض برامج الجامعات العامة عبر مسار جديد."
 lang: "ar"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'بوابة المدخل المقوّسة الزرقاء لمدرسة SJK(C) تشون يين، مكتوب عليها بالأحرف الصينية و"SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN"، تؤدّي إلى ساحة المدرسة.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: الحرم المحاط بالأشجار لمدرسة Chung Ling High School في بينانغ، إحدى المدارس الثانوية العريقة ذات التعليم باللغة الصينية في ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling High School، بينانغ
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: مدخل ولوحة اسم مدرسة SJK(C) Confucian في كوالالمبور، إحدى المدارس الابتدائية الحكومية المدعومة ذات التعليم باللغة الصينية التي تغذّي نظام التعليم بلغة المجموعات.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian، مدرسة ابتدائية صينية التعليم في كوالالمبور
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 في الصباح الباكر، يتردد في فناء إحدى المدارس الابتدائية الصينية صوت يتداخل فيه الماندرين والملايوية والإنجليزية؛ وعلى بُعد عدة ولايات، في قاعة إحدى المدارس الثانوية الصينية المستقلة (独中)، يستعد الطلاب لامتحان UEC (统考) في نهاية العام؛ أما في جوهور وبينانغ فتستقبل كليات جامعية نشأت من منظومة التعليم الصيني دفعة جديدة من الطلاب. تنتمي هذه المشاهد جميعاً إلى مسار واحد — التعليم الصيني في ماليزيا — غير أنها تتوزع على مستويات مختلفة، وتخضع لطرائق تمويل وترتيبات قانونية متباينة.

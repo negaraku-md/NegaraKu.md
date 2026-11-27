@@ -37,7 +37,7 @@ faq:
 obligations: []
 
 lang: "ko"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,33 @@ stayFacts:
   cost: '연간 학비에 더해 입학비나 배치고사비, 등록비 같은 일회성 수수료를 예상하고, 환급 가능한 보증금은 RM5,000로 제한됩니다; 개발비나 건축비는 전혀 청구할 수 없습니다. 교육부는 구조를 규제하지만 액수는 규제하지 않으므로, 학비는 학교·교육과정·지역에 따라 엄청나게 다릅니다 — 비교 기사나 포럼의 어떤 숫자를 믿기보다 각 학교에 직접 현행 수치를 확인하십시오.'
   watch: '어떤 학비도 정부가 정하지 않으므로, 같은 연령대라도 실제 가격은 학교마다 크게 요동치며, 학비 인상은 3년에 한 번 이하로 30%로 제한됩니다. 또한 학생당 학년당 자녀의 연간 학비가 RM60,000를 초과하는 경우 적용되는 6% 서비스세도 계획하십시오 — 이는 학교가 정하는 것이 아니라 학비 위에 부과되는 세금입니다.'
   next: '학교를 추려 두고, 예산을 세우기 전에 각 학교에 직접 현행 학비표와 RM60,000 과세 기준을 확인하십시오. 관련 계획으로는, 외국인 직원을 동반하는 자녀를 후원하기 위한 「부양가족 패스」나 「장기 사회 방문 패스」를, 그리고 공립학교도 비교 목록에 있다면 「공립학교 등록」을 참조하십시오.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: '차양을 인 경비실이 있는 현대식 국제학교 입구 대문, 손질된 울타리와 잎 무성한 나무가 있고 뒤로 흐린 하늘 아래 낮은 캠퍼스 건물들이 있는 모습'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: 빨강과 회색의 둥근 유리·석재 외벽을 지닌 다층 국제학교 건물, 앞에 차들과 오토바이가 주차되어 있다
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 수방 브스타리의 국제학교 HELP 인터내셔널 스쿨의 곡선형 현대 본관
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: 건널목 옆에 자리한 깔끔하고 현대적인 강철·유리 학교 입구 캐노피와 경비실, 밝은 하늘 아래 나무들이 둘러싸고 있다
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 국제학교(ISKL) 암팡 힐리르 캠퍼스의 지붕 덮인 드라이브스루 입구
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 같은 도시의 양쪽 끝에 있는 영국식 교육과정 학교와 미국식 교육과정 학교는 서류상 푸트라자야의 완전히 동일한 부서로부터 인가를 받습니다. 어느 쪽도 학부모에게 「건축 기금」을 청구하는 것이 법적으로 허용되지 않습니다. 어느 쪽도 한 번에 학비를 30% 넘게 올릴 수 없습니다. 그리고 어느 쪽도 교육부가 직접 정하는 단 하나의 금액도 공표할 필요가 없습니다. 교육부가 정하는 온갖 규칙에도 불구하고, 자리 하나의 실제 가격은 그중에 없기 때문입니다.

@@ -34,7 +34,7 @@ faq:
     a: "Ambas cosas, pero su centro de gravedad son los servicios. El MRO y la fabricación de componentes dominan; Malasia construye estructuras, materiales compuestos y piezas de motor y mantiene aviones, pero tiene una capacidad más débil de diseño y desarrollo a nivel de aeronave."
 
 lang: "es"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,9 +79,37 @@ sources:
 entity: "Malaysia aerospace industry"
 relations:
   - { rel: "related-to", to: "economy" }
-related: []
+related: ["manufacturing-industry-overview", "construction-industry"]
 keywords: ["aeroespacial", "MRO", "mantenimiento reparación revisión general", "aerofabricación", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Varios aviones comerciales de pasajeros estacionados dentro de un hangar de mantenimiento de aeronaves luminoso y de techo alto'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: Fuselajes de aviones comerciales recubiertos de imprimación verde alineados con trabajadores en el interior de una enorme fábrica de ensamblaje de aeronaves
+    kind: representative
+    origin: third-party
+    subject: Fuselajes de aviones en la línea de ensamblaje dentro de una gran fábrica aeroespacial
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: Dos técnicos de mantenimiento de aeronaves trabajando en el motor y la hélice de cuatro palas de una avioneta en un hangar
+    kind: representative
+    origin: third-party
+    subject: Técnicos reparando el motor y la hélice de una aeronave en un hangar de mantenimiento
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 Un avión puede construirse en Toulouse o en Seattle, pero en algún momento de su vida de treinta años necesitará que le abran los motores, le inspeccionen la estructura y le renueven la aviónica — y, cada vez más, Malasia quiere que ese trabajo se haga en Subang o en Senai. Ese instinto, más que cualquier línea de montaje, explica la forma del sector aeroespacial del país.

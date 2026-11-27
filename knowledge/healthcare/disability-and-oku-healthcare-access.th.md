@@ -31,7 +31,7 @@ faq:
     a: "ความช่วยเหลืออุปกรณ์สนับสนุน/อุปกรณ์เทียม (BAT) ภายใต้ JKM ครอบคลุมรถเข็นแบบใช้มือหรือไฟฟ้า ขาและแขนเทียม เครื่องช่วยฟัง ไม้เท้าขาว และเครื่องอักษรเบรลล์ ตามราคาจริงของอุปกรณ์ที่กำหนด"
 
 lang: "th"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q7354381"
 relations:
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "public-healthcare-system" }
-related: []
+related: ["social-welfare-department-jkm", "persons-with-disabilities-employment-malaysia", "public-healthcare-system-malaysia"]
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'ลิฟต์วีลแชร์แบบแท่นที่มีสัญลักษณ์การเข้าถึงได้ ที่ศูนย์ฟื้นฟูสมรรถภาพผู้พิการในรัฐยะโฮร์ มาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: ทางลาดสำหรับผู้ใช้รถเข็นที่ลาดเอียงเล็กน้อยพร้อมราวจับที่สถานีรถไฟฟ้าLRTในมาเลเซียแทนการเข้าถึงแบบไร้ขั้นบันไดสำหรับผู้พิการ
+    kind: representative
+    origin: third-party
+    subject: ทางลาดสำหรับรถเข็นที่สถานีขนส่งมวลชนระบบรางสาธารณะในมาเลเซีย
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: ช่องจอดรถที่ทาสัญลักษณ์รถเข็นสากลสีน้ำเงินและสงวนไว้สำหรับผู้พิการแทนมาตรการการเข้าถึงสำหรับOKU
+    kind: representative
+    origin: third-party
+    subject: ช่องจอดรถสำรองสำหรับOKU(ผู้พิการ)ที่มีสัญลักษณ์รถเข็นในมาเลเซีย
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 บัตรพลาสติกใบหนึ่งเป็นตัวกำหนดว่าเด็กออทิสติกคนหนึ่งจะได้รับการบำบัดแต่เนิ่น ๆ หรือไม่ หรือผู้ใหญ่ที่สูญเสียขาข้างหนึ่งจะสามารถมีขาเทียมได้หรือไม่ ในมาเลเซีย บัตร OKU นั่นเองคือประตูสู่แทบทุกบริการและความช่วยเหลือที่ออกแบบมาสำหรับผู้พิการ — และการเข้าใจวิธีการทำงานของมันช่วยประหยัดเวลา เงิน ตลอดจนการรักษาที่ถูกเลื่อนออกไป

@@ -33,7 +33,7 @@ faq:
     a: "La 'solicitud del fuego' (请火, Chneah Hoay, 'contemplar el fuego' en hokkien) es un rito que Poh Hock Seah, en Penang, transmite desde hace más de cien años; se celebra del día 14 al 16 del primer mes lunar en el templo Tua Pek Kong de Hai Choo Soo, en Tanjong Tokong, y la solicitud del fuego formal tiene lugar a la medianoche del Festival de los Faroles. Durante el rito se apagan todas las luces y velas del templo; los miembros toman fuego de un brasero en las cestas de las pértigas de incienso y lo avivan con abanicos, augurando la fortuna del año venidero por la intensidad de las llamas, tres veces seguidas que corresponden a las tres estaciones del año; por tradición solo participan los miembros varones. Una vez concluido el rito y vueltas a encender las luces, el público puede entonces entrar a rendir culto. Este artículo solo describe el procedimiento y no emite juicio sobre su significado religioso."
 
 lang: "es"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "mazu-worship", "chinese-clan-associations", "chinese-new-year", "nine-emperor-gods-festival"]
 keywords: ["大伯公", "福德正神", "土地公", "伯公", "福神", "海珠屿大伯公庙", "宝福社", "请火", "Chneah Hoay", "张理", "南洋华人", "马来西亚华人信仰", "Tua Pek Kong", "Tua Pek Kong Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/tua-pek-kong/hero.webp'
+heroAlt: 'La ornamentada puerta roja y dorada del templo Tua Pek Kong en Sibu, flanqueada por leones guardianes dorados, con una alta pagoda de siete pisos alzándose detrás contra un cielo azul.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: La fachada roja y el ornamentado tejado de azulejos del templo de Tua Pek Kong en Tanjung Tokong, Penang, con leones guardianes y altas velas rojas de incienso en la entrada.
+    kind: actual
+    origin: third-party
+    subject: Templo de Tua Pek Kong en Tanjung Tokong, Penang
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: Una figura dorada y barbada de la deidad Tua Pek Kong sentada en un altar, flanqueada por acólitos, con velas encendidas y haces de incienso alzándose ante ella.
+    kind: actual
+    origin: third-party
+    subject: Altar de la deidad Tua Pek Kong en Ping Sien Si, Perak
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 En la orilla del mar en Tanjung Tokong (丹絨道光), en Penang, se alza un templo no muy grande, en silencio buena parte del año. Pero hacia el Festival de los Faroles la situación cambia por completo: cestas de pértigas de incienso, gongs y tambores, y largas filas de gente llegan desde George Town; de noche se apagan todas las luces y velas del templo, y una multitud rodea un brasero, avivando el fuego conteniendo la respiración — cuán alto se alzan las llamas se toma como un "pronóstico" para el año venidero. Este templo es, en la mente de muchos, el manantial del culto a Tua Pek Kong.

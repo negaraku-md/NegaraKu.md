@@ -21,7 +21,7 @@ verificationNeeded:
   - "파항, 느그리슴빌란, 케다의 주 수도 회사 정확한 명칭은 span.gov.my에 열거되어 있으나 이 초안 작성 시 완전히 추출할 수 없었습니다; span.gov.my에서 직접 재확인이 필요합니다."
   - "사바와 사라왁의 구체적 법 체계(해당 주 법령/조례 명칭)는 이 초안 작성 시 공식 출처에서 직접 확인되지 않았습니다; PAAB는 두 주가 PAAB 모델에서 일반적으로 제외됨을 확인하지만, 전체 법적 세부사항은 재확인이 필요합니다."
 lang: "ko"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -61,6 +61,32 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: '사바주의 Babagon 댐 저수지로, 정수 식수 공급을 위한 원수원이며 물가에 안내 표지판이 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: 랑카위의 Sungai Padang Matsirat을 가로지르는 작은 콘크리트 보와 수문이 달린 수위 조절 구조물. 말레이시아 급수 기반시설의 일부다.
+    kind: representative
+    origin: third-party
+    subject: 랑카위 Sungai Padang Matsirat의 보와 수위 조절 구조물
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: 조호르주의 Taman Setia Tropika라고 표시된 큰 흰색 고가 저수탱크. 지역 급수를 위해 정수 처리된 물을 저장한다.
+    kind: representative
+    origin: third-party
+    subject: 조호르주 Taman Setia Tropika의 고가 저수탱크
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 슬랑오르에서 조호르로 이사합니다. 은행 계좌는 그대로입니다. 전화번호도 함께 가져갈 수 있습니다. 그런데 수도 계정은? 따라오지 않습니다 — 새집에 물을 공급하는 회사가 아예 다른 회사이기 때문입니다.

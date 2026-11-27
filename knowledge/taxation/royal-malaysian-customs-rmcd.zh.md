@@ -73,7 +73,7 @@ sources:
 entity: "Royal Malaysian Customs Department"
 wikidata: "Q7374434"
 relations: []
-related: []
+related: ["sales-and-service-tax", "customs-import-duty", "excise-duty", "service-tax-act-2018"]
 keywords: ["RMCD", "Royal Malaysian Customs Department", "Jabatan Kastam Diraja Malaysia", "JKDM", "Kastam Malaysia", "SST Malaysia", "sales and service tax", "import duty Malaysia", "customs clearance Malaysia", "MySST", "uCustoms", "excise duty Malaysia", "service tax registration"]
 framework: profile
 ---

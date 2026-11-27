@@ -41,7 +41,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 
 status: "published"
 aiAssisted: true
@@ -96,6 +96,34 @@ relations:
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
+hero: '/media/states/putrajaya/hero.webp'
+heroAlt: 'The rose-pink domed Putra Mosque and its minaret beside the green-domed Perdana Putra government building, reflected in the lake at Putrajaya'
+heroCredit: 'Mimihitam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: The pink Putra Mosque and its minaret glowing at golden hour, perfectly mirrored in the calm surface of Putrajaya Lake
+    kind: actual
+    origin: third-party
+    subject: Putra Mosque mirrored in the still waters of Putrajaya Lake at golden hour
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: The modern white Seri Wawasan Bridge with its angled sail-like pylon and fanned cables crossing the lake in Putrajaya
+    kind: actual
+    origin: third-party
+    subject: The sail-shaped Seri Wawasan Bridge spanning the lake in Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 In 1999, the Office of the Prime Minister moved out of Kuala Lumpur. The capital

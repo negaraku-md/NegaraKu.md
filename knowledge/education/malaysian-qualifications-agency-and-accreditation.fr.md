@@ -32,7 +32,7 @@ faq:
     a: "Oui. Les programmes proposés par tout prestataire d'enseignement supérieur opérant en Malaisie, y compris les campus délocalisés étrangers, sont soumis à l'assurance qualité au titre du MQF et figurent dans le MQR. Certaines universités établies détiennent le statut d'auto-accréditation, qui les habilite à accréditer leurs propres programmes sur le MQF et à les inscrire au MQR."
 
 lang: "fr"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'Ceci s''adresse aux futurs étudiants, aux parents et aux employeurs qui vérifient si une qualification post-secondaire malaisienne est officiellement reconnue.'
+  how: 'Recherchez gratuitement sur le Registre des qualifications de Malaisie (MQR) le nom exact du programme, son niveau et le campus qui le dispense, et confirmez qu''il détient une Accréditation provisoire ou complète. La reconnaissance pour une profession réglementée ou pour un emploi dans le secteur public se vérifie séparément auprès de l''organisme concerné.'
+  cost: 'La recherche sur le MQR est gratuite ; la reconnaissance sur laquelle vous comptez — une licence professionnelle, un emploi dans la fonction publique ou des études à l''étranger — peut nécessiter chacune une vérification distincte auprès de son propre organisme.'
+  watch: 'L''accréditation se rattache au programme et à l''année d''admission précis, non à l''établissement — une université réputée peut tout de même proposer un programme nouveau, à accréditation provisoire ou non répertorié. La mention « approuvé par la MQA » d''une brochure n''est pas le registre ; confirmez vous-même l''inscription en vigueur, et notez que le statut provisoire est légitime, et non de second ordre.'
+  next: 'Cherchez votre programme exact sur le MQR avant de verser le moindre acompte ; pour une profession réglementée, confirmez la voie d''accès pour les diplômés auprès de l''organisme professionnel concerné. Voir Avant de payer un acompte à un collège.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'Une plaque murale portant les armoiries et les mots "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" sur un mur revêtu de pierre.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Des universitaires en toge de cérémonie confèrent un diplôme sur scène lors d'une collation des grades à l'Universiti Kebangsaan Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Une collation des grades spéciale conférant un diplôme à l'Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: Le bâtiment incurvé du rectorat Canselori Putra de l'Universiti Putra Malaysia, à côté d'une esplanade paysagère.
+    kind: representative
+    origin: third-party
+    subject: Bâtiment du rectorat (hall administratif) de l'Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Deux étudiants obtiennent un diplôme au nom quasi identique. L'un remplit les conditions pour un emploi public et une place de master ; l'autre est refusé à la porte. La différence est souvent une seule ligne dans un registre public : le fait que l'Agence des qualifications de Malaisie ait ou non accrédité le programme.

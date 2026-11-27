@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["derechos consuetudinarios nativos", "native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "título nativo", "native title", "temuda", "pemakai menoa", "derecho de la tierra de Malasia Oriental"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'Una larga casa comunal iban de madera con tejado de metal corrugado, elevada sobre pilotes a lo largo de una ribera verde y boscosa en la Sarawak rural.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Compre una casa en Kuala Lumpur y una sola ley federal rige su título. Haga lo mismo en Kuching o Kota Kinabalu y entrará en un mundo jurídico enteramente distinto — uno con sus propias ordenanzas, sus propias categorías de tierra y una forma de tenencia que ningún papel creó: los Derechos Consuetudinarios Nativos.

@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -77,6 +77,39 @@ faq:
   - q: ஒரு திட்டம் "தற்காலிகமாக அங்கீகரிக்கப்பட்டது" மட்டுமே — அதற்கு அது அங்கீகரிக்கப்படவில்லை என்று பொருளா?
     a: இல்லை. MQA-இன் திட்ட அங்கீகாரத்துக்கான நடைமுறைக் குறியீட்டின்படி, தற்காலிக அங்கீகாரம் (Provisional Accreditation) என்பது ஒரு திட்டம் சட்டப்பூர்வமாக வழங்கப்படுவதற்கான குறைந்தபட்ச தரத் தேவைகளைப் பூர்த்தி செய்துள்ளதை உறுதிப்படுத்துகிறது, மேலும் அது அமைச்சின் அனுமதிக்கே ஒரு நிபந்தனையாகும். முழு அங்கீகாரம் (Full Accreditation) என்பது முதல் தொகுதி மாணவர்கள் திட்டத்தை முடித்தபிறகு மேற்கொள்ளப்படும் முழுமையான மதிப்பீடு. தற்காலிகமாக அங்கீகரிக்கப்பட்ட திட்டம் முறையானது, சட்டப்பூர்வமாக வழங்கத்தக்கது; அது வெறுமனே முழுச்சுழற்சி மதிப்பீட்டை இன்னும் முடிக்கவில்லை.
 framework: explainer
+stayFacts:
+  who: 'SPM, STPM, matriculation, அடிப்படை (foundation), UEC, A-Level அல்லது டிப்ளோமா வைத்திருப்போர், ஒரு அரசு பல்கலைக்கழகம் (IPTA/Universiti Awam) மற்றும் ஒரு தனியார் பல்கலைக்கழகம் (IPTS) இடையே முடிவு செய்பவர்களுக்கானது இது.'
+  how: 'அரசு பல்கலைக்கழகங்கள் கிட்டத்தட்ட முழுவதுமாக UPU (உயர்கல்வி அமைச்சகத்தின் மையப்படுத்தப்பட்ட ஆன்லைன் அமைப்பு) மூலம் சேர்க்கின்றன — நீங்கள் படிப்பு விருப்பங்களை வரிசைப்படுத்துகிறீர்கள், ஒதுக்கீட்டால் வரையறுக்கப்பட்ட இடங்களுக்கு எதிராக தகுதியின்படி பொருத்தப்படுகிறீர்கள். தனியார் நிறுவனங்கள் UPU-க்கு வெளியே இருந்து, தமது சொந்தத் தொடர்ச்சியான (rolling) சேர்க்கையை நேரடியாக நடத்தி, பரந்த அளவிலான தகுதிக் கலவையை ஏற்கின்றன.'
+  cost: 'UPU விண்ணப்பம் தானே இலவசம்; ஆயினும் உள்நுழைய Bank Simpanan Nasional (BSN) மூலம் 12-இலக்க Unik ID-ஐ வாங்குகிறீர்கள். தனியார் நிறுவனக் கட்டணங்கள் படிப்புக்கு ஏற்ப நிர்ணயிக்கப்பட்டு மாறுகின்றன; எனவே தற்போதைய எண்களை UPU-இன் e-Panduan-இல் அல்லது நிறுவனத்திடம் உறுதிப்படுத்தவும்.'
+  watch: 'IPTA/IPTS என்ற பெயர் ஒரு பட்டம் அங்கீகரிக்கப்பட்டதா என்பதைக் கூறாது — அது அந்தக் குறிப்பிட்ட படிப்பு MQR-இல் MQA-அங்கீகாரம் பெற்றுள்ளதா என்பதைப் பொறுத்தது; உங்கள் சரியான சேர்க்கை ஆண்டுக்காக இதைச் சரிபார்க்க வேண்டும். ஒரு தனியார் பல்கலைக்கழகத்திற்கு UPU மூலம் விண்ணப்பிக்க முடியாது.'
+  next: 'நீங்கள் வைத்திருக்கும் தகுதியிலிருந்து முடிவு செய்து, பின்னர் இரு வகை நிறுவனங்களிலும் சேர்வதற்கு முன் சரியான படிப்பையும் சேர்க்கையையும் Malaysian Qualifications Register (மலேசியத் தகுதிப் பதிவேடு)-இல் சரிபார்க்கவும். MQA அங்கீகார விளக்கக் கட்டுரையையும், கல்லூரி வைப்புத்தொகை செலுத்துவதற்கு முன் என்பதையும் பார்க்கவும்.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'நீல ''Dewan Tunku Canselor'' எழுத்துக்களும் வெளிப்புறப் படிக்கட்டும் கொண்ட நீண்ட பதப்படுத்தப்படாத காங்கிரீட் நவீனத்துவ மண்டபம்; முன்னால் topiary தோட்டங்களும் வெறிச்சோடிய சாலையும்'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: நிலத்தோற்றமிட்ட மலைமீது வட்டமான மைய கோபுரத்துடன் கூடிய பல தள நீல-கண்ணாடிப் பல்கலைக்கழக நிர்வாகக் கட்டிடம், கொடிகள் வரிசையிட்ட படிநிலைப் படிகளால் அணுகப்பட்டு
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவின் மிகப்பெரிய அரசுப் பல்கலைக்கழகங்களில் ஒன்றான Universiti Teknologi MARA (UiTM) இன் நவீன கண்ணாடி அதிபர் மாளிகைக் கட்டிடம்
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: மேகமூட்டமான வானத்தின் கீழ் கொடிக்கம்பங்களாலும் அடர்ந்த பசுமையாலும் சூழப்பட்டு, 'Universiti Sains Malaysia' பலகையைத் தாங்கிய கல்-தூண் பல்கலைக்கழக நுழைவு வாயில்
+    kind: representative
+    origin: third-party
+    subject: பினாங்கு, நிபோங் தேபாலில் ஒரு அரசு ஆராய்ச்சிப் பல்கலைக்கழகமான Universiti Sains Malaysia (USM) இன் முதன்மை நுழைவு வாயில்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 ஒரே மாதிரியான SPM முடிவுகளைப் பெற்ற இரு மாணவர்கள் முற்றிலும் வேறுபட்ட

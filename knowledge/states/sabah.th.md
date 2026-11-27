@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "ผู้อ่านที่ต้องการโปรไฟล์เชิงข้อเท็จจริงของซาบาห์ — ภูมิศาสตร์ เศรษฐกิจ และรัฐบาลของรัฐ — และคำอธิบายที่เป็นกลางเกี่ยวกับสถานะทางรัฐธรรมนูญของซาบาห์ภายใต้ข้อตกลงมาเลเซีย 1963"
 
 lang: "th"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'ยอดเขาหินแกรนิตสีเทาขรุขระของภูเขาคินาบาลูที่ตระหง่านเหนือเชิงเขาที่ปกคลุมด้วยป่าและยอดไม้สีเขียวใต้ท้องฟ้าสีฟ้า'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: มัสยิดเมืองโกตากินาบาลูสีขาวและทองสะท้อนโดมลงในทะเลสาบที่สร้างขึ้นซึ่งล้อมรอบบนชายฝั่งรัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: มัสยิดเมืองโกตากินาบาลู รัฐซาบะฮ์
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: ชายหาดสีซีดที่เกลื่อนด้วยไม้ลอยน้ำล้อมรอบน้ำตื้นสีเทอร์ควอยซ์ของเกาะมาตากิงนอกชายฝั่งเซิมปอร์นาในรัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: เกาะมาตากิงใกล้เซิมปอร์นา รัฐซาบะฮ์
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 ซาบาห์ไม่ได้เข้าร่วมมาเลเซียในฐานะรัฐที่เข้าร่วมประเทศ แต่เข้าร่วมในฐานะหนึ่งในดินแดนผู้ลงนามที่สร้างประเทศขึ้น — บอร์เนียวเหนือลงนามข้อตกลงมาเลเซียในลอนดอนเมื่อเดือนกรกฎาคม 1963 ควบคู่ไปกับสหพันธรัฐมลายา ซาราวัก สิงคโปร์ และสหราชอาณาจักร จุดเริ่มต้นนั้นยังคงหล่อหลอมวิธีการปกครอง การจัดสรรงบประมาณ และการกล่าวถึงซาบาห์ในทุกวันนี้ และเป็นเหตุผลที่โปรไฟล์ของซาบาห์ต้องครอบคลุมทั้งสนธิสัญญาและภูเขา

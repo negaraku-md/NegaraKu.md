@@ -79,6 +79,7 @@ keywords: ["Hong Leong Financial Group", "HLFG", "Hong Leong Bank", "HLB", "Quek
 social:
   hashtags: ["HongLeong", "HLFG", "HongLeongBank", "MalaysiaBanking", "QuekLengChan"]
 framework: profile
+wikidata: "Q139387760"
 ---
 
 Người Malaysia biết đến cái tên Hong Leong từ một chi nhánh ngân hàng, một chiếc xe máy, hay một giá cổ phiếu — nhưng mảng kinh doanh ngân hàng nằm bên trong một cơ cấu niêm yết hai tầng thường khiến độc giả bối rối. Ở trên cùng là Hong Leong Financial Group Berhad (HLFG), công ty cổ phần tài chính; bên dưới nó là Hong Leong Bank Berhad (HLB), ngân hàng thương mại mà hầu hết khách hàng thực sự giao dịch.

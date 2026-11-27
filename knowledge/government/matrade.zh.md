@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,34 @@ relations:
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
 framework: profile
+hero: '/media/government/matrade/hero.webp'
+heroAlt: '吉隆坡高耸的Menara MATRADE深色立面，中部开着一个巨大的尖拱洞口，顶部冠以一个带肋的穹顶'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: 拱形的 Menara MATRADE 大楼，旁边是高耸的玻璃 Menara MITI 大楼和一座银色展览厅穹顶，透过一片洋红色花丛拍摄，天空灰蒙
+    kind: actual
+    origin: third-party
+    subject: MATRADE 综合体的街景，包括拱形的 Menara MATRADE、玻璃的 Menara MITI 和 MITEC 穹顶，吉隆坡
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: 吉隆坡上空的鸟瞰图，显示深色拱门造型的 Menara MATRADE 大楼，以及旁边巨大的银色贝壳形 MITEC 展览厅
+    kind: actual
+    origin: third-party
+    subject: Menara MATRADE 和贝壳形 MITEC 展览中心的鸟瞰图，位于吉隆坡 KL Metropolis 区
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 问一位首次出口的商家，哪个政府机构负责他们的贸易展览摊位，大约一半的人

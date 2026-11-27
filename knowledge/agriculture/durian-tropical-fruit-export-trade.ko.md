@@ -32,7 +32,7 @@ faq:
     a: "의회 답변에 따르면, 말레이시아는 2018년부터 2025년 중반까지 중국에 RM63.7억 상당의 두리안 115,359톤을 수출했습니다. 신선 통두리안 수출은 2025년 상반기에만 773톤(거의 RM5,000만)에 이르렀습니다."
 
 lang: "ko"
-sourceContentHash: "9178bc8f1052043f"
+sourceContentHash: "936ef0c0f999857b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,33 @@ relations:
 related: ["palm-oil-sector", "external-trade", "rubber"]
 keywords: ["Malaysia durian export", "Musang King", "Black Thorn durian", "durian China protocol", "geographical indication durian", "myGAP durian", "fresh durian export China"]
 framework: profile
+hero: '/media/agriculture/durian-tropical-fruit-export-trade/hero.webp'
+heroAlt: '페낭의 과일 가판대에 쌓인 초록빛 가시 두리안들, 그중 하나는 쪼개져 밝은 노란색 커스터드 같은 과육이 드러나 있음'
+heroCredit: 'The Wandering Angel / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Durian_Air_Itam_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a heap of whole spiky green durians at a roadside stall in Air Itam, Penang, with one fruit split open to reveal its golden flesh'
+images:
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-1.webp
+    alt: 가시 돋친 껍질 속에 부드러운 과육이 든 진한 황금빛 조각들이 자리한, 쪼개어 벌린 두리안의 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 가시 돋친 껍질 속에 진한 황금빛 크리미한 과육을 드러낸, 쪼갠 무상킹 두리안
+    credit: irrational_cat / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Musang_King_durian_(1298527252).jpg
+  - role: scene
+    src: /media/agriculture/durian-tropical-fruit-export-trade/body-2.webp
+    alt: 클론 코드와 링깃 가격이 손으로 적힌 가격표 옆에 가시 돋친 두리안이 쌓인 쟁반, 그 곁에 망고스틴이 함께 놓여 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루의 과일 시장에서 클론 코드로 등급을 매기고 킬로그램당 링깃으로 값을 매긴 통째 두리안
+    credit: Suyash Dwivedi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Durian_on_sale_at_fruits_market,_Jalan,_Kota_Kinabalu_19.jpg
 ---
 
 10년이 넘도록 말레이시아 두리안은 냉동되거나 과육과 페이스트로 가공된 경우에만 중국에 들어갈 수 있었습니다. 그러다 2024년 중반, 말레이시아는 수년간 추구해 온 접근권을 얻었습니다: 지구상 최대의 두리안 시장에 신선한 통두리안을 실어 보낼 권리입니다.

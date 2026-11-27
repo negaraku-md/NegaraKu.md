@@ -34,7 +34,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 
 status: "published"
 aiAssisted: true
@@ -107,6 +107,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'Aerial view of Bakun Dam''s broad grey embankment marked BAKUN, its long spillway chute and riverside powerhouse, backed by a wide reservoir and forested Sarawak hills'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'Inside the Murum Dam powerhouse: rows of blue cylindrical hydro generator units numbered 1 and 2 standing on a polished floor beneath a tall hall with a yellow overhead crane'
+    kind: actual
+    origin: third-party
+    subject: interior of the Murum Dam powerhouse showing the hydroelectric generator units
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: The concrete Murum Dam wall and twin spillway chutes holding back a reservoir, viewed from a distance across dense green Sarawak rainforest hills
+    kind: actual
+    origin: third-party
+    subject: the Murum hydroelectric dam in Sarawak seen across forested hills
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 Water flowing down from Borneo's rainforest ranges now spins turbines that power aluminium smelters — and that is the core of Malaysia's renewable energy strategy. But the road to get there is marked by mega-dams, lakes spanning hundreds of square kilometres, and thousands of indigenous families forced to relocate.

@@ -33,7 +33,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["மலேசிய திறந்த வீட்டு பண்பாடு", "ரூமா தெர்புகா பண்பு", "திறந்த வீடு மலேசியா விருந்தினர்", "ஹரி ராயா திறந்த வீட்டு பண்பு", "திறந்த வீட்டிற்கு என்ன உடுத்துவது மலேசியா", "துவிட் ராயா ஆங் பௌ விருந்தினர்", "ஹலால் வீட்டு பண்பு மலேசியா", "மலேசிய வீட்டிற்குச் செல்லும் வழக்கங்கள்"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'மேசையில் பரப்பப்பட்ட ஒரு ஹரி ராயா விருந்தின் மேல்பார்வைக் காட்சி, மாட்டிறைச்சி ரெண்டாங் மற்றும் காய்கறி கறி பானைகள், ஒரு சம்பல் தட்டு, மற்றும் பின்னப்பட்ட கெதுபட் உறைகள் மற்றும் நறுக்கப்பட்ட அமுக்கிய அரிசி தட்டுகளுடன்.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: பத்திக் மற்றும் பாஜு குரோங் உடை அணிந்த விருந்தினர்கள் ஒரு ஹரி ராயா ஐதில்பித்ரி திறந்த வீட்டு வாயிலில் புன்னகைத்து கைகுலுக்கி வணக்கம் தெரிவிக்கின்றனர்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு ஹரி ராயா ஐதில்பித்ரி திறந்த வீட்டில் வீட்டு உரிமையாளர்களை அன்புடன் வரவேற்கும் விருந்தினர்கள்
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: ஒன்றாகக் கட்டப்பட்ட, பனையோலையால் பின்னப்பட்ட கெத்துப்பாத் அரிசி உறைகளின் ஒரு கொத்து, மலேசிய ஹரி ராயா திறந்த வீட்டு விருந்தோம்பலின் ஒரு முக்கிய உணவு.
+    kind: actual
+    origin: third-party
+    subject: ஹரி ராயாவுக்கான பின்னப்பட்ட கெத்துப்பாத்
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 நீங்கள் ஒரு *ரூமா தெர்புகா* (rumah terbuka, திறந்த வீடு) — ஒரு திறந்த வீட்டிற்கு

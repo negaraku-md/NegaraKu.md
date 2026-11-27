@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -67,6 +67,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: '制服姿の軍楽隊員が隊列を組んで行進し、ムルデカ広場で行われるマレーシアの独立記念日パレードで観衆の前を通り過ぎる。'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: ムルデカ・デーのパレードで、赤・白・青・黄のJalur Gemilangやその他の旗を掲げ、隊列を組んで行進する制服姿の隊員たち。
+    kind: actual
+    origin: third-party
+    subject: 第59回ムルデカ・デー祝典でJalur Gemilangを掲げて行進する制服の部隊
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: 東マレーシアの屋外ナショナル・デー祝典で、マレーシア国旗を誇らしげに掲げて振る、サバ州Kota Kinabaluの笑顔の群衆。
+    kind: actual
+    origin: third-party
+    subject: サバ州Kota Kinabaluのナショナル・デー祝典でJalur Gemilangを振る人々
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 マレーシアの暦には毎年、同じものと混同されやすい二つの日付がある。8月31日と9月16日である。両方とも国旗、パレード、そして愛国歌によって祝われる。しかしこの二つは異なる出来事を示しており、6年の隔たりがあり、形の異なる二つの国家を物語っている。

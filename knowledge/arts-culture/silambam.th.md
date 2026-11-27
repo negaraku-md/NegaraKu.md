@@ -29,7 +29,7 @@ faq:
   - q: "ศิลัมบัมได้รับการยอมรับให้เป็นกีฬาในมาเลเซียหรือไม่?"
     a: "ศิลัมบัมมีการจัดในมาเลเซียทั้งในฐานะศิลปะการต่อสู้และกีฬาแข่งขัน ทั้งการแข่งขันระดับชาติ การชิงแชมป์นานาชาติ และการเข้าร่วมกีฬาแห่งมาเลเซีย (SUKMA) ในบางปีก็ล้วนเคยเกิดขึ้น อย่างไรก็ตาม สมาคมต่าง ๆ และสถานะด้านการบริหารของกีฬานี้อาจเปลี่ยนแปลงได้เป็นครั้งคราว โปรดตรวจสอบสถานะปัจจุบันกับแหล่งข้อมูลทางการ"
 lang: "th"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'เด็กๆ และครูฝึกในเสื้อยืด Silambam Asia สีส้มกำลังฝึกท่าต่อสู้ด้วยไม้พลองไผ่ยาวในการสาธิตกลางแจ้ง'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: หญิงในชุดส่าหรีสีแดงพุ่งตัวในท่าต่อสู้ย่อตัวต่ำ ถือดาบโค้งมือหนึ่งและโล่โลหะทรงกลมอีกมือหนึ่ง
+    kind: representative
+    origin: third-party
+    subject: ท่าดาบและโล่ซิลัมบัม (วาลและเกไดยัม) รูปแบบหนึ่งของศิลปะการต่อสู้ทมิฬที่ใช้อาวุธ
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: แผ่นป้ายจัดแสดงบนผนังที่จัดเรียงด้วยอาวุธของซิลัมบัม รวมถึงไม้พลองยาว ดาบโค้ง โล่ทรงกลม และกริช
+    kind: representative
+    origin: third-party
+    subject: แผ่นป้ายจัดแสดงอาวุธซิลัมบัม รวมถึงไม้พลอง ดาบ โล่ และกริช
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 ในงานเทศกาลของวัดหรืองาน[ปีใหม่ทมิฬ](/th/arts-culture/tamil-new-year)ในมาเลเซีย คุณอาจได้เห็นชายหนุ่มคนหนึ่งหมุนไม้พลองไผ่ยาวเหนือศีรษะและรอบลำตัวด้วยความเร็วปานสายฟ้า ตามจังหวะกลอง การหมุนนั้นมิใช่เพียงเพื่อความสวยงาม — หากแต่เป็นสัญลักษณ์ของศิลัมบัม ศิลปะการต่อสู้ของชาวทมิฬที่มีอายุกว่าหนึ่งพันห้าร้อยปี

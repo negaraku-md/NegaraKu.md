@@ -28,7 +28,7 @@ faq:
     a: "RFID는 여전히 차량이 판독 성공 후 올라가는 차단기가 있는 표시된 차로를 통과할 것을 요구합니다. JustGO PLUS 같은 ANPR은 번호판을 읽는 카메라로 차량을 인식하여, 등록된 차량이 어떤 실물 태그도 없이 어느 차로로든 통과할 수 있게 합니다 — 완전 무차단기 시스템(MLFF)을 향한 또 한 걸음입니다."
 
 lang: "ko"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: '밤에 말레이시아 고속도로 요금소에서 불이 켜진 두 개의 노란색 SmartTAG 차로 표지판 아래로 차 한 대가 지나가고 있다.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: 주간에 본 넓은 고속도로 요금소로, 한 줄로 늘어선 요금 부스와 여러 결제 차로에 걸친 머리 위 차로 지붕이 보인다.
+    kind: actual
+    origin: third-party
+    subject: 페락주 이포 인근의 여러 차로와 부스를 갖춘 주간 고속도로 요금소
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: RFID 결제용으로 표시된 요금소 출구 차로로, 차로 차단기와 코타 다만사라 인근 도로 위 판독기 갠트리가 설치되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 셀랑고르주 코타 다만사라 요금소의 RFID 출구 차로
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 RFID 차로에서 당신 앞의 차가 전조등에 붙은 스티커가 감지되지 않아 갑자기

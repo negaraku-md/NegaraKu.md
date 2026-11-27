@@ -79,6 +79,32 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'Putrajaya di seberang tasik, dengan Masjid Putra berkubah merah jambu dan menaranya yang tinggi di sebelah kiri serta kompleks kerajaan Perdana Putra berkubah hijau di sebelah kanan di bawah langit mendung.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: Bangunan pentadbiran Perbadanan Putrajaya, pihak berkuasa tempatan yang mentadbir wilayah persekutuan Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Ibu pejabat Perbadanan Putrajaya, pihak berkuasa tempatan wilayah persekutuan Putrajaya
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: Fasad berkubah Istana Kehakiman di Putrajaya, membawa jata kerajaan persekutuan Malaysia, sebuah bangunan kerajaan wilayah persekutuan
+    kind: actual
+    origin: third-party
+    subject: Istana Kehakiman, sebuah bangunan kerajaan persekutuan di Putrajaya
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 Di sebuah negeri, ada Sultan atau Yang di-Pertua Negeri, ada Menteri Besar atau Ketua Menteri, dan ada Dewan Undangan Negeri yang dipilih rakyat. Di Kuala Lumpur, Putrajaya dan Labuan, tiada satu pun daripada itu. Ketiga-tiga tempat ini bukan negeri — ia Wilayah Persekutuan, dan ia ditadbir terus oleh Kerajaan Persekutuan.

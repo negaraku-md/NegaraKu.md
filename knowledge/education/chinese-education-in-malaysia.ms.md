@@ -31,7 +31,7 @@ faq:
   - q: "Ke mana pelajar boleh melanjutkan pelajaran selepas tamat 独中?"
     a: "Laluan lanjutan pelajar 独中 adalah pelbagai. Ramai yang menggunakan sijil UEC untuk melanjutkan pelajaran ke kolej/universiti swasta tempatan atau universiti luar negara, dan sesetengah pelajar turut menduduki SPM bagi mengekalkan lebih banyak pilihan. Institusi pengajian tinggi Cina tempatan termasuk New Era University College, Southern University College dan Han Chiang University College of Communication, yang berkembang daripada sistem pendidikan Cina. Mulai 2026, pelajar UEC yang memenuhi syarat tertentu juga boleh memohon sebahagian kursus universiti awam melalui laluan baharu."
 lang: "ms"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'Gerbang masuk biru SJK(C) Chun Yin, bertuliskan aksara Cina dan "SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN", menuju ke kawasan sekolah.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: Kampus Chung Ling High School yang dipagari pepohon di Pulau Pinang, salah sebuah sekolah menengah beraliran Cina yang lama tertubuh di Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Menengah Chung Ling, Pulau Pinang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: Pintu masuk dan papan nama SJK(C) Confucian di Kuala Lumpur, salah sebuah sekolah rendah bantuan kerajaan beraliran Cina yang menyalurkan murid ke dalam sistem vernakular.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, sebuah sekolah rendah beraliran Cina di Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 Pada waktu pagi, di padang sebuah sekolah rendah Cina kedengaran suara dalam bahasa Mandarin, bahasa Melayu dan bahasa Inggeris yang berbaur; beberapa buah negeri jauhnya, di dewan sebuah sekolah menengah persendirian Cina (独中), pelajar sedang bersiap untuk Peperiksaan Bersama (统考／UEC) pada hujung tahun; manakala di Johor dan Pulau Pinang, kolej universiti yang berkembang daripada sistem pendidikan Cina menyambut kemasukan pelajar baharu. Semua pemandangan ini tergolong dalam satu jalur yang sama — pendidikan Cina di Malaysia — namun berada pada peringkat yang berbeza, dengan kaedah pembiayaan dan susunan undang-undang yang berlainan.

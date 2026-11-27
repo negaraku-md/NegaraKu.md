@@ -34,7 +34,7 @@ faq:
     a: "Menurut laporan Macaranga, amandemen pada 2023 terhadap Environmental Quality Act 1974 menetapkan denda minimum RM5,000 dan maksimum hingga RM10 juta, serta hukuman penjara wajib tidak melebihi lima tahun untuk pelanggaran pencemaran. Untuk pelanggaran di bawah rezim sempadan sungai Selangor (Pasal 48(1) Enakmen LUAS 1999), sanksinya adalah denda tidak melebihi RM50,000 atau penjara tidak melebihi dua tahun, atau keduanya. Angka amandemen Act 1974 ini berasal dari laporan sekunder dan perlu dipastikan terhadap teks Warta resmi."
 
 lang: "id"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,33 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'Sungai cokelat lebar membentang hingga ke cakrawala berhutan yang datar di bawah langit pucat berawan tipis'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: Sungai sempit mengalir melalui saluran beton lebar di antara gedung-gedung kota yang tinggi dan jalan setapak tepi sungai berpaving
+    kind: actual
+    origin: third-party
+    subject: Sungai Klang yang dikurung dalam saluran beton di antara gedung-gedung pencakar langit di pusat Kuala Lumpur, menggambarkan tekanan pada kualitas air sungai perkotaan
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: Danau luas yang tenang memantulkan matahari rendah, berlatar perbukitan berhutan bersiluet saat senja
+    kind: actual
+    origin: third-party
+    subject: Waduk di belakang Bendungan Batang Ai di Sarawak, cadangan besar air baku dan sumber tenaga air
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 Membuka keran pada pagi Senin dan mendapati ia kering — bukan karena keran rusak, tetapi karena sebuah pabrik di hulu telah membuang limbah berbau busuk ke anak sungai yang memasok air baku ke kota Anda. Inilah realitas berulang di Lembah Klang, dan hal ini menjelaskan mengapa "kualitas sungai" bukan sekadar isu ekologi, tetapi isu keamanan pasokan air untuk jutaan rumah.

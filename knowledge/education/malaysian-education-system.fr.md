@@ -35,7 +35,7 @@ faq:
     a: "L'enseignement technique et professionnel passe en partie par les collèges professionnels du ministère de l'Éducation et en partie par une filière de certification distincte — le Certificat de compétences de Malaisie (SKM) et le Diplôme de compétences de Malaisie (DKM/DLKM) — délivrés par le Département du développement des compétences (Jabatan Pembangunan Kemahiran), relevant du ministère des Ressources humaines, et non du ministère de l'Éducation ni du ministère de l'Enseignement supérieur."
 
 lang: "fr"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,9 +88,35 @@ relations:
   - { rel: "related-to", to: "stpm-vs-matriculation" }
   - { rel: "related-to", to: "tvet-malaysia" }
   - { rel: "related-to", to: "public-universities-malaysia" }
-related: []
+related: ["muet-and-university-entrance-tests"]
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: 'Un groupe d''élèves du secondaire malaisiens souriants posant ensemble dans leurs uniformes scolaires, notamment des chemises blanches, des foulards et des survêtements de maison.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: Des écoliers en uniforme utilisent des tablettes à leurs bureaux dans la bibliothèque numérique d'une école malaisienne.
+    kind: representative
+    origin: third-party
+    subject: Élèves malaisiens du primaire apprenant avec des tablettes dans une bibliothèque scolaire numérique
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: Bâtiment d'un collège-lycée malaisien à plusieurs étages, avec des passages couverts sous un ciel bleu.
+    kind: representative
+    origin: third-party
+    subject: Bâtiment d'un collège-lycée national malaisien (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 Demandez à trois Malaisiens de décrire « le système éducatif » et vous obtiendrez trois cartes différentes. L'un parle de SK contre SJKC. Un autre parle de STPM contre matriculation. Un troisième mentionne un certificat SKM dont personne en dehors de la formation technique n'a entendu parler. Tous les trois décrivent le même système — simplement depuis des branches différentes de celui-ci.

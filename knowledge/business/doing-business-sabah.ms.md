@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 
 status: "published"
 aiAssisted: true
@@ -125,6 +125,33 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: 'Pemandangan siang terang pusat bandar Kota Kinabalu dengan menara pejabat komersial dan kompleks membeli-belah di tepi teluk biru dan pulau-pulau'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: Bendera negeri Malaysia pada tiang di latar hadapan dengan kaki langit bandar Kota Kinabalu menjulang merentasi teluk di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Kaki langit pusat bandar Kota Kinabalu dilihat merentasi teluk dari bangunan Dewan Undangan Negeri Sabah, Sabah
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: Bangunan ibu pejabat Sabah Ports moden berfasad kaca di belakang pokok palma, dengan papan tanda Sabah Ports di pintu masuk berpagar di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Ibu pejabat Sabah Ports di Sepanggar, Kota Kinabalu — bangunan pelabuhan korporat berfasad kaca
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 Hampir setiap panduan nasional untuk menjalankan perniagaan di Malaysia adalah silap

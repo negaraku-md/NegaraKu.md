@@ -31,7 +31,7 @@ faq:
     a: "반도의 해양공원은 어업법 1985에 따라 관보에 지정됩니다. 이는 섬에서 2해리의 보호 구역을 만들어 산란 중인 바다거북을 방해하거나 새끼 거북을 채취하는 등의 활동을 금지합니다."
 
 lang: "ko"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,9 +95,36 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: '맑고 푸른 물속 생기 넘치는 산호초에서 쉬고 있는 푸른바다거북, 위로 산호초 물고기들이 헤엄치는 모습'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: 말레이시아 시파단 앞바다의 푸른 물에서 산호초 위를 미끄러지듯 헤엄치는 푸른바다거북
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바주 시파단에서 산호초 위를 헤엄치는 푸른바다거북(Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: 화려한 산호에 둘러싸인 바위 암초 선반 아래 쉬고 있는 푸른바다거북
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바주 시파단의 바라쿠다 포인트에서 암초 선반 아래 쉬고 있는 푸른바다거북(Chelonia mydas)
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 1960년대 말, 매년 약 2,000마리의 암컷 장수거북이 트렝가누 란타우 아방의 한 해변에 상륙해 모래 위에 거의 10,000개의 알 둥지를 남겼습니다. 오늘날에는 한 마리도 없습니다. 그 쇠락의 이야기는 이 지역에서 가장 두드러진 야생동물 보전 실패 중 하나이며 — 그것이 오늘날까지 말레이시아가 바다거북을 보호하는 방식을 빚어냈습니다.

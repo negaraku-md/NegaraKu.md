@@ -25,7 +25,7 @@ appliesTo: "任何想了解首相署究竟是什么、为何如此多看似不�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,34 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: '布城，壮观的多云天空下，圆顶的布特拉大厦（Perdana Putra）——马来西亚首相署所在地'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: 对称正面拍摄的 Perdana Putra，引道大道两侧排列着马来西亚国旗
+    kind: actual
+    origin: third-party
+    subject: 从礼仪大道拍摄的 Perdana Putra 正面立面，布城
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: Perdana Putra 的绿色穹顶高耸于布城一条绿树成荫的礼仪大道之上
+    kind: actual
+    origin: third-party
+    subject: 沿绿化引道望向 Perdana Putra，布城
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 马来西亚并没有单一一个部来运作国家日常的政策机器。它有的是一个部门——而

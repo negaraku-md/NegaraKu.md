@@ -32,7 +32,7 @@ faq:
     a: "Parfois. Le MMC privilégie les consultations virtuelles en tant que suivi après une relation médecin-patient déjà établie, mais autorise une première consultation en ligne, en particulier en soins primaires, si le médecin en documente les raisons. Les médecins sont invités à la prudence lorsqu'ils prescrivent à des patients qu'ils n'ont pas examinés personnellement et à vous orienter en personne lorsque le moyen en ligne ne suffit pas à vous évaluer en toute sécurité."
 
 lang: "fr"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["télémédecine Malaisie", "médecin en ligne", "téléconsultation", "DoctorOnCall", "directive MMC", "ordonnance électronique", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: 'Un médecin à un poste de travail de télémédecine examinant un patient à distance sur un écran vidéo à côté de moniteurs de diagnostic.'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: Une médecin à son bureau parlant au téléphone tout en prenant des notes, avec une blouse blanche sur un portant derrière elle, représentant une consultation médicale téléphonique à distance
+    kind: representative
+    origin: third-party
+    subject: Une médecin donnant une consultation à distance par téléphone à son bureau
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: Des mains tiennent un téléphone intelligent exécutant une application de vidéoconsultation de télésanté à côté d'une sonde d'échographie portable, représentant le diagnostic en ligne à distance
+    kind: representative
+    origin: third-party
+    subject: Une échographie guidée par vidéo à distance réalisée via une application de téléphone intelligent
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 Vous ouvrez une application, vous passez un appel vidéo avec un médecin depuis votre canapé, et une ordonnance arrive dans votre boîte de réception une heure plus tard. En Malaisie, c'est tout à fait légal — mais le cadre réglementaire qui le sous-tend n'est pas la loi à laquelle vous pourriez vous attendre.

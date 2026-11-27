@@ -83,6 +83,7 @@ drinkFacts:
   halal: "Một thức uống gốc sữa, không cồn; Horlicks đóng gói ở Malaysia nhìn chung được sản xuất để mang chứng nhận halal. Cách kiểm tra đáng tin cậy là dấu halal trên bao bì, hoặc chứng nhận của cơ sở với thức uống pha tại quầy — hãy tìm dấu đó thay vì mặc định."
   served: "Phục vụ mặc định là nóng, hoặc 'ais Horlicks' với đá. Thường được làm ngọt bằng sữa đặc hoặc sữa cô đặc không đường theo kiểu kopitiam; gọi ít ngọt hơn nếu muốn. Đứng cạnh Milo, kopi và teh trên bảng đồ uống quán cà phê."
   where: "Tìm thấy tại các quầy kopitiam và mamak khắp cả nước, và được bán dưới dạng bột ở các cửa hàng và siêu thị để tự pha tại nhà."
+wikidata: "Q2719710"
 ---
 
 Bên cạnh hộp Milo trên mọi kệ quán cà phê Malaysia còn có một món thơm mạch nha được yêu

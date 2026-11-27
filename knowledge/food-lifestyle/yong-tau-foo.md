@@ -98,6 +98,7 @@ dishFacts:
   halal: "The traditional filling is minced pork, and Malaysian stalls' fish paste is sometimes blended with pork, while the Ampang sauce is a fermented-bean sauce — so a given stall's pieces may or may not suit a halal diet. Check the stall."
   eat: "It is usually ordered 'pick-your-own': the stuffed pieces and loose items sit on a display, and diners choose what they want before it is cooked to order. It is eaten in a clear soup, or dry with dips of sweet bean sauce and chilli — the Ampang style fries the pieces and serves them drenched in thick sweet fermented-bean sauce — and is often rounded into a full meal with rice or noodles such as bihun or yellow noodles."
   where: "It is a hawker-centre and food-court staple, where one stall can serve dozens of combinations from the same tray and pot. The best-known Malaysian version takes its name from the Ampang area on the edge of Kuala Lumpur, a district with deep Hakka roots."
+wikidata: "Q713892"
 ---
 
 Walk up to a yong tau foo stall and you are not handed a menu so much as a

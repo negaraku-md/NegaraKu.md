@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ms"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,33 @@ relations:
 related: ["opr-monetary-policy", "ringgit", "foreign-exchange-policy-malaysia", "payment-regulation-malaysia"]
 keywords: ["Bank Negara Malaysia", "BNM", "Central Bank of Malaysia Act 2009", "Malaysia central bank", "Monetary Policy Committee Malaysia"]
 framework: profile
+hero: '/media/economy/bank-negara-malaysia/hero.webp'
+heroAlt: 'Kanopi pintu masuk utama ibu pejabat Bank Negara Malaysia membawa tulisan BANK NEGARA MALAYSIA emas dan lambang kijang, diapit sebaris bendera negeri Malaysia dan pokok palma kipas tinggi'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-0916).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: Menara konkrit kelabu berjalur melintang ibu pejabat Bank Negara Malaysia yang dimahkotai lambang kijang biru, menjulang di atas kawasan taman hijau berlatarkan langit biru berbelang dengan panorama bandar Kuala Lumpur di belakang
+    kind: actual
+    origin: third-party
+    subject: Menara konkrit bertingkat ibu pejabat Bank Negara Malaysia dilihat merentasi kawasan taman, tengah bandar Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: Fasad kaca gelap dan logam bersudut Muzium dan Galeri Seni Bank Negara Malaysia, dengan pelapik geometri tajamnya terunjur di atas pintu masuk yang berlanskap
+    kind: actual
+    origin: third-party
+    subject: Muzium dan Galeri Seni Bank Negara Malaysia, sebahagian daripada kompleks Sasana Kijang, Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## Sekilas pandang

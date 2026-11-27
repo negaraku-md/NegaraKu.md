@@ -27,7 +27,7 @@ faq:
   - q: "Undang-undang apa yang digunakan KPDN untuk mengendalikan harga?"
     a: "Ia bergantung terutama pada Akta Kawalan Bekalan 1961 dan Akta Kawalan Harga dan Anti-Pencatutan 2011, yang memungkinkannya menetapkan batas harga, mewajibkan pemajangan harga, dan bertindak terhadap keuntungan yang tidak wajar tinggi."
 lang: "id"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "Nomor saluran aduan konsumen (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — pastikan kekiniannya pada kpdn.gov.my/bantuan, karena saluran hotline kadang berubah."
   - "Jumlah tepat bagian dan total hitungan Akta yang dikelola — pastikan sebelum menyatakan angka yang tetap."
   - "Timbalan Menteri dan Ketua Setiausaha saat ini — pastikan masih memegang jabatan per tanggal penerbitan."
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "Latar Belakang - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -74,12 +74,46 @@ sources:
   - title: "Melindungi Konsumen - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN)"
+  - title: "Menteri Perdagangan Dalam Negeri dan Kos Sara Hidup (Malaysia) — sejarah nama jabatan (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN memastikan tiada manipulasi harga sepanjang musim perayaan (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
-related: []
+related: ["competition-act-2010", "price-control-anti-profiteering-act", "franchise-registration-malaysia"]
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'Tampak depan lebar gedung kementerian KPDN panjang dari batu pasir di Putrajaya, dengan tulisan ''Kementerian Perdagangan Dalam Negeri'' di atas pintu masuk tengah dan blok perkantoran yang lebih tinggi berlogo K berlian di ujung kanan'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: Pandangan tiga perempat gedung kementerian KPDN berbahan batu pasir di Putrajaya, tulisan emas 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' pada dasar granit gelap dan sebuah bus berlivery kementerian terparkir di pintu masuk
+    kind: actual
+    origin: third-party
+    subject: Pandangan menyudut pintu masuk gedung KPDN dengan papan nama kementerian dan sebuah bus kementerian, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: Pandangan dari sudut rendah menara batu pasir bergaya art-deco bertingkat milik kementerian KPDN di Putrajaya, dipuncaki lambang kementerian berupa huruf K dalam belah ketupat biru-emas dengan latar langit berawan sebagian
+    kind: actual
+    origin: third-party
+    subject: Menara bertingkat gedung kementerian KPDN yang menampilkan logo K belah ketupat, Putrajaya
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 Ketika seorang pedagang mengenakan bayaran berlebihan untuk minyak goreng, menjual barang terkendali melebihi harga batasnya, atau enggan menunaikan tanggung jawab terhadap produk yang rusak, badan federal yang bertugas bertindak atas nama Anda adalah **KPDN** — **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup**. Ia mengembangkan perdagangan dalam negeri, mengendalikan harga barang kebutuhan harian, dan melindungi konsumen, didukung oleh statut yang nyata, saluran aduan yang aktif, dan sebuah tribunal tuntutan kecil yang dibangun untuk pembeli biasa.
@@ -89,6 +123,12 @@ Ketika seorang pedagang mengenakan bayaran berlebihan untuk minyak goreng, menju
 KPDN **didirikan pada 27 Oktober 1990**. Tujuan yang dinyatakannya adalah untuk mendorong perdagangan dalam negeri yang "berdaya maju, berdaya saing dan berkelanjutan," terutama dalam sektor perdagangan distribusi, sambil melindungi kepentingan dan hak konsumen. Dalam praktiknya, kerjanya terbagi menjadi dua bagian: menggubal kebijakan perdagangan — termasuk menentukan dan memantau harga barang kebutuhan serta mengendalikan penjualan dan distribusi barang kebutuhan, produk petroleum dan petrokimia — dan kekonsumenan, yang meliputi pendidikan konsumen, kesadaran, perlindungan, dan dukungan terhadap gerakan konsumen.
 
 Kementerian ini memakai nama terkininya, dengan menambahkan penekanan "Kos Sara Hidup," pada **Desember 2022**. Kantor pusatnya terletak di No. 13, Persiaran Perdana, Presint 2, Pusat Pentadbiran Kerajaan Persekutuan, 62623 Putrajaya. Menterinya adalah **Datuk Armizan Mohd Ali**, yang telah mengetuai kementerian ini sejak 30 Juli 2023.
+
+## Nama KPDN sebelumnya: empat nama sejak 1990
+
+KPDN telah menyandang empat nama resmi, masing-masing mencerminkan portofolio yang diembannya pada masa itu. Ia didirikan pada **27 Oktober 1990** sebagai **Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna** (**KPDNHEP**), yang dimekarkan dari kementerian perdagangan dan industri. Pada **2009** ia menyerap portofolio koperasi menjadi **Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan** (**KPDNKK**, ditulis **MDTCC** dalam bahasa Inggris). Pada **2018** koperasi dipindahkan keluar lagi dan ia kembali menjadi **KPDNHEP**. Akhirnya, pada **3 Desember 2022**, ia memakai nama sekarang dengan mandat biaya hidup yang eksplisit: **Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup** (**KPDN**).
+
+Benang merah yang melintasi keempat nama itu tidak pernah berubah — perdagangan dalam negeri dan perlindungan konsumen — tetapi penggantian nama 2022 menandai bahwa menekan harga barang kebutuhan sehari-hari telah menjadi tugas publik yang menjadi ciri khas kementerian ini. Jadi jika Anda menjumpai singkatan lama seperti KPDNHEP, KPDNKK atau MDTCC dalam dokumen atau berita, semuanya merujuk pada kementerian yang sama pada tahap sebelumnya.
 
 ## Undang-undang apa yang digunakan KPDN untuk mengendalikan harga?
 
@@ -105,6 +145,10 @@ KPDN dan agensi-agensinya mengelola sekumpulan perundangan perdagangan dan konsu
 | Akta Francais 1998 [Akta 590] | Mendaftarkan dan mengatur waralaba |
 
 Dengan menggunakan Akta 122 dan Akta 723, KPDN berupaya menstabilkan harga barang kebutuhan seperti beras, telur, minyak goreng dan ayam. Ia menjalankan operasi penegakan termasuk **Ops Pantau** dan **Ops Menu**, serta memberlakukan **Skema Harga Maksimum Musim Perayaan** yang membatasi harga barang terkendali terpilih selama perayaan — seperti ketika skema [Deepavali](/id/arts-culture/deepavali) Oktober 2025. Di bawah Pasal 10 Akta 723, menteri dapat mewajibkan penjual barang atau layanan mana pun untuk memajang harga.
+
+## Siapa yang sebenarnya menegakkan aturan?
+
+Di balik operasi-operasi itu terdapat **Divisi Penegakan** (*Bahagian Penguatkuasaan*) kementerian, lengan berseragam yang para petugasnya bekerja dari kantor-kantor tingkat negeri di seluruh negara. Beroperasi terutama di bawah Akta Kawalan Harga dan Anti-Pencatutan 2011 dan Akta Kawalan Bekalan 1961, mereka memeriksa premis, mewajibkan pemajangan harga, menyita barang, dan mengajukan dakwaan terhadap pedagang yang melanggar harga batas atau mencatut. Dalam satu kali razia musim perayaan seperti **Ops Pantau**, bagian ini dapat mengerahkan ribuan petugas — operasi 2026 mengerahkan lebih dari 2.400 orang — menjadikannya wajah kementerian yang paling sering ditemui oleh para pedagang. Bagian ini berada dalam kementerian yang tersusun atas kira-kira belasan bagian dan unit, meliputi pengembangan perdagangan dalam negeri, pemantauan biaya hidup, kekonsumenan, serta fungsi hukum dan tribunal yang dijelaskan di bawah.
 
 ## Bagaimana Anda sebenarnya menggunakan KPDN apabila ditipu?
 

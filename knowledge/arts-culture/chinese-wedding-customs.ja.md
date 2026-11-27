@@ -32,7 +32,7 @@ faq:
   - q: "婚礼には必ず赤色と吉日を用いるのですか。どんな忌み事がありますか。"
     a: "赤色と「囍」（双喜）の文字は中国系の婚礼を最も象徴する祝いの色と記号で、招待状・贈り物・婚礼布団・会場の装飾によく用いられ、婚礼には「吉日」が選ばれるのが一般的です。よくある心得として、ご祝儀や贈り物に偶数を好み、語呂が不吉な数字を避け、妊婦や喪中の人は一部の段階を避けることなどがあります。ただし、これらをどの程度守るかは家庭の信仰や方言集団によって緩厳さまざまで、多くの家庭は一部だけを残し、ほかは簡素にしています。"
 lang: "ja"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: '赤で飾られたマレーシア華人の伝統的な結婚式の舞台。祖先の祭壇の上に大きな赤い双喜の切り絵の横断幕が掛かり、パイナップル、オレンジ、リンゴ、龍のろうそくが供えられ、茶の儀式のために彫刻された濃い木の椅子が二脚前に置かれ、両脇に新郎新婦の名前がピンクの文字で記される'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: 赤い盆に乗った艶やかな赤い中国の婚礼の茶器一式。金の双喜紋で飾られた急須と、その周りに並べられた5つの揃いの小さな赤い茶碗。夫婦が年長者に茶を振る舞うのに使われる
+    kind: representative
+    origin: third-party
+    subject: 中国の婚礼の茶の儀式で使われる、赤と金の双喜紋の急須と茶碗
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: ガラスの博物館ケースに展示された、背の高い階層状の黒い漆塗りのバクル・シアの婚礼贈答用かご。各段に金の人物・花・鳥・魚が精巧に装飾されており、両家の間で象徴的な結納の品を運ぶのに使われる
+    kind: representative
+    origin: third-party
+    subject: 海峡華人の婚礼で両家の間で結納の品を運ぶのに使われる階層状の漆塗りのかご、バクル・シア
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 夜がまだ明けきらないうちに、一列の車がすでに新婦の家の前に停まっている。新郎は花束を抱え、後ろに数人の「兄弟」を従えているが、戸口から顔をのぞかせた数人の「姉妹」に阻まれる。まず質問に答え、次に一節歌い、極薄に切ったライムを数枚食べ、最後に扉の隙間からいくつかのアンパオを差し入れる——この「門越え」（闖門）の関門を通ってはじめて扉が開き、新郎は赤装束の新婦に会える。戯れとにぎわいに満ちたこうした朝が、マレーシアの多くの中国系婚礼の当日の幕開けである。

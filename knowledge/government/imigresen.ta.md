@@ -24,7 +24,7 @@ appliesTo: "ஒரு குறிப்பிட்ட மலேசிய க�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "baf28f912e1a7295"
+sourceContentHash: "8e5db01b10e622bd"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,34 @@ relations:
 related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["Jabatan Imigresen Malaysia", "JIM", "imigresen", "pasport Malaysia", "visa Malaysia", "pas lawatan sosial", "Permit Masuk", "ESD", "MDAC", "imi.gov.my"]
 framework: profile
+hero: '/media/government/imigresen/hero.webp'
+heroAlt: 'Putrajaya-வில் உள்ள மலேசிய குடிவரவுத் துறை தலைமையகத்தின் கல் முகப்பு; Jabatan Imigresen Malaysia என்ற சொற்களும் துறையின் சின்னமும் தாங்கிய நுழைவு மேற்கூரைக்குப் பின்னால் உயரும் அடுக்கு இஸ்லாமிய வடிவக் கோபுரம்'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Immigration Department of Malaysia (Jabatan Imigresen Malaysia) headquarters building in Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/imigresen/body-1.webp
+    alt: Jabatan Imigresen Malaysia என்ற எழுத்துகளையும், மாலைச் சுருள் மற்றும் Imigresen Malaysia நாடாவுடன் கூடிய தங்க-பச்சை நிற துறைச் சின்னத்தையும் காட்டும், மலேசிய குடிவரவுத் துறை தலைமையகத்தின் நுழைவாயிலின் அருகிலான காட்சி
+    kind: actual
+    origin: third-party
+    subject: புத்ராஜெயாவில் உள்ள மலேசிய குடிவரவுத் துறை தலைமையகத்தின் நுழைவாயில் பலகையும் சின்னமும்
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(1).jpg
+  - role: scene
+    src: /media/government/imigresen/body-2.webp
+    alt: Kompleks Imigresen எனப் பலகை வைக்கப்பட்ட மஞ்சள் நிற கட்டிடத்துடன், கார், மோட்டார் சைக்கிள் மற்றும் பேருந்து சின்னங்கள் குறிக்கப்பட்ட வாகன-ஓட்டுத் தணிக்கை வழித்தடங்களைக் கொண்ட மலேசிய குடிவரவு எல்லை வளாகம், பிரகாசமான மேகமூட்டமான வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: கிளந்தான் மாநிலம் ரந்தாவ் பஞ்சாங்கில் உள்ள மலேசிய குடிவரவு எல்லைச் சோதனைச் சாவடியான Kompleks Imigresen Rantau Panjang
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Imigresen_Rantau_Panjang,_Pasir_Mas,_Kelantan_-_panoramio.jpg
 ---
 
 மலேசியாவின் எல்லையைக் கடக்கும் ஒவ்வொருவரும் — கடவுச்சீட்டைப் புதுப்பிக்கும்

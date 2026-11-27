@@ -69,9 +69,35 @@ entity: "Pusat Darah Negara"
 wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "hiv-aids-and-sexual-health-services"]
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: 'Seorang penderma darah Malaysia yang duduk di kerusi dermaan di sebelah seorang jururawat yang tersenyum sambil memegang beg darah yang telah penuh.'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: Dewan pendermaan darah yang terang dipenuhi katil penderma bersandar yang kosong, troli peralatan dan kaunter penerimaan, tanpa seorang pun penderma
+    kind: representative
+    origin: third-party
+    subject: Bahagian dalam pusat pendermaan darah dengan sebaris katil penderma bersandar yang kosong dan peralatan
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: Sebelah tangan memegang beg pengumpulan darah yang penuh dan tertutup dengan label rekod pendermaan dan tiub, mewakili peralatan yang digunakan untuk mengumpul dan menyimpan darah yang didermakan
+    kind: representative
+    origin: third-party
+    subject: Beg pengumpulan tertutup berisi satu unit darah penuh yang didermakan pada sesi pendermaan
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 Menurut PDN, satu pendermaan darah boleh menyelamatkan sekurang-kurangnya tiga nyawa — kerana darah penuh diproses menjadi sel darah merah, platelet dan plasma untuk pesakit berbeza.

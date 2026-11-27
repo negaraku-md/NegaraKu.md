@@ -79,6 +79,32 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: 'Papan tanda masuk dan kawasan Sabah Chinese High School (Sekolah Tinggi Cina Sabah) di Tawau, sebuah sekolah menengah persendirian Cina yang pelajarnya menduduki Sijil Peperiksaan Bersepadu (UEC).'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: Gerbang masuk dan papan tanda Sekolah Menengah Foon Yew (寬柔中學) di Johor Bahru, dengan bendera negeri Johor dan lambang sekolah.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School, sebuah sekolah menengah persendirian Cina di Johor Bahru
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: Bangunan perpustakaan (Perpustakaan) Foon Yew High School yang bertingkat di Johor Bahru, dengan namanya dipaparkan dalam bahasa Melayu dan Cina di atas anjung berjubin.
+    kind: actual
+    origin: third-party
+    subject: Bangunan perpustakaan Foon Yew High School
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 Tiga huruf — UEC — mampu mencetuskan perbahasan yang berlarutan lebih setengah abad dalam politik pendidikan Malaysia. Bagi sesetengah pihak, ia sijil bertaraf antarabangsa yang membuka pintu ke universiti terkemuka dunia; bagi yang lain, ia menyentuh kedudukan bahasa kebangsaan dan dasar pendidikan negara. Kedua-dua pandangan wujud serentak, dan kedua-duanya perlu difahami untuk melihat gambaran penuh.

@@ -37,7 +37,7 @@ faq:
     a: "Parcourir les sentiers nature en jungle (Bishop, Maxwell, Rompin et Kindersley sont parmi les plus connus), visiter l'aire de loisirs de la cascade de Jeriau, flâner dans le village mock-Tudor autour de la tour de l'horloge, et simplement profiter du rythme frais et lent (Wikipedia). Il y a un terrain de golf et quelque patrimoine de l'époque coloniale à voir, mais par choix, il y a très peu de vie nocturne."
 
 lang: "fr"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,39 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Ornithologues et amoureux de la nature en quête d''une retraite d''altitude paisible au climat frais, faite de sentiers de jungle et de charme colonial suranné, plutôt que de vie nocturne ou de grandes attractions.'
+  getThere: 'Ni aéroport ni chemin de fer — vous montez par une route de montagne sinueuse depuis Kuala Kubu Bharu jusqu''à The Gap, où commence l''ascension finale, le trafic montant et descendant étant désormais réparti sur deux routes (la route originale à voie unique fonctionnait historiquement en sens unique alterné à horaires fixes).'
+  watch: 'La route de montagne étroite et sinueuse est lente et sujette à des fermetures après la pluie, des glissements de terrain ou des chutes d''arbres, et la colline elle-même est souvent brumeuse et humide, avec une restauration et des provisions limitées.'
+  next: 'Confirmez les modalités d''accès routier en vigueur et toute fermeture auprès de l''autorité des routes (JKR) avant de voyager.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Une tour-horloge en pierre ornée de drapeaux malaisiens à côté d''un bâtiment à colombages de style Tudor sous la brume grise et de grands pins à Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: Hôtel de style Tudor blanc et brun à colombages, aux fenêtres chaleureusement éclairées et couvert de lierre, encadré de grands pins au crépuscule
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, un hôtel colonial de style néo-Tudor à Fraser's Hill illuminé au crépuscule
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: Jardin paysager d'altitude avec des palmiers descendant vers une forêt tropicale dense et verdoyante, avec des crêtes de montagnes bleutées et brumeuses à l'horizon
+    kind: actual
+    origin: third-party
+    subject: Un jardin en terrasses à flanc de colline dominant la vallée de forêt tropicale fraîche et brumeuse et les chaînes de montagnes lointaines de Fraser's Hill
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 La plupart des stations d'altitude de Malaisie vous vendent quelque chose — un casino, une plantation de thé, une ferme de fraises, un parc à thème. Fraser's Hill vous vend l'absence de tout cela. Étalée sur un ensemble de crêtes boisées de la [chaîne du Titiwangsa](/fr/malaysia/titiwangsa-range), c'est une petite station paisible et enveloppée de brume de l'époque coloniale où la chose la plus bruyante que vous entendrez est le chant des oiseaux, et où un pull cesse de paraître ridicule même à l'équateur. Pour les ornithologues, c'est presque une terre sacrée ; pour tous les autres, c'est l'alternative lente et discrète à ses voisines d'altitude plus tape-à-l'œil. Ce guide couvre ce qu'est réellement Fraser's Hill, pourquoi les ornithologues viennent, ce qu'il y a à voir, le fonctionnement de la route sinueuse d'accès, et à qui le lieu convient et ne convient pas.

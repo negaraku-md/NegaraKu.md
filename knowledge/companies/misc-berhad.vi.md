@@ -29,7 +29,7 @@ faq:
     a: "Tập đoàn MISC báo cáo doanh thu FY2024 là RM13,237.5 triệu, giảm 7,2% từ RM14,271.7 triệu trong FY2023, với lợi nhuận sau thuế RM1,233.2 triệu."
 
 lang: "vi"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,6 +66,25 @@ relations:
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
 framework: profile
+hero: '/media/companies/misc-berhad/hero.webp'
+heroAlt: 'Một tàu chở LNG lớn thân màu đen với phần đáy thân màu đỏ, mũi đề chữ ''SERI AYU'' và chữ ''LNG'' dọc mạn, neo tại một bến tàu trang trí cờ hiệu, với một người đàn ông mặc áo sơ mi và thắt cà vạt đứng trên một bục thảm đỏ ở tiền cảnh'
+heroCredit: 'Emran Kassim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: Cảnh nhìn từ trên không của một cầu tàu bê tông trên mặt nước xanh ngọc mang các hàng cánh tay bốc dỡ hàng hải màu xám cao và hệ thống đường ống, với các trụ neo ở tiền cảnh và một bến cảng có cần cẩu và bồn chứa ở bờ xa
+    kind: representative
+    origin: third-party
+    subject: các cánh tay bốc dỡ hàng hải tại bến xuất khẩu LNG ở Bintulu, Sarawak, nơi các tàu chở như của MISC bốc khí thiên nhiên hóa lỏng của Malaysia
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad là cánh tay hàng hải của nền kinh tế năng lượng Malaysia — tập đoàn vận chuyển khí và dầu của đất nước qua các đại dương trên thế giới.

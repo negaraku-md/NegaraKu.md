@@ -31,7 +31,7 @@ faq:
   - q: "Pourquoi l'aquaculture est-elle importante pour la sécurité alimentaire de la Malaisie ?"
     a: "Le poisson est la principale source de protéines animales de la Malaisie, et la capture sauvage a plafonné. L'aquaculture est le principal levier pour relever le ratio national d'autosuffisance en poisson — environ 90,7 % en 2025 — et la Politique nationale agroalimentaire favorise explicitement le poisson d'élevage par rapport au poisson capturé pour répondre à la demande future."
 lang: fr
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'Des rangées de cages flottantes en filet pour l''élevage de poissons disposées sur la surface calme d''un lac, avec une cabane de gardien à une extrémité.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: Un paisible bassin d'aquaculture en eau douce bordé de végétation à Kampung Tiang, dans le Sabah, en Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Bassin d'aquaculture piscicole à Kampung Tiang, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: Un bassin d'aquaculture en terre servant aux travaux pratiques à la ferme de la Faculté de l'Universiti Putra Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Bassin piscicole pédagogique d'aquaculture à l'Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 La plupart du poisson dans l'assiette d'un dîner malaisien vient encore de la mer — mais une part en croissance rapide provient désormais d'un bassin, d'une cage ou d'un radeau à longue ligne. C'est l'aquaculture : l'élevage délibéré d'organismes aquatiques, par opposition à la capture de ce qui nage à l'état sauvage. Alors que les captures sauvages de la Malaisie plafonnent et que la demande de protéines grimpe, l'aquaculture est devenue le principal levier du pays pour garder du poisson sur la table. Cet article approfondit le volet élevage de l'activité ; pour un tableau plus large, incluant la flotte de pêche, le bien-être des pêcheurs et le contrôle, voir la [vue d'ensemble de l'industrie de la pêche](/fr/agriculture/malaysian-fisheries-industry/).

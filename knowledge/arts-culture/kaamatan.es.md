@@ -33,7 +33,7 @@ faq:
     a: "El Magavau es un ritual de agradecimiento para honrar y «llamar de vuelta a casa» al espíritu del arroz, Bambaazon, tras la cosecha. Lo dirige tradicionalmente una bobohizan (también escrito bobolian), una sacerdotisa que recita cánticos rituales. Es uno de los elementos ceremoniales más antiguos del Kaamatan."
 
 lang: "es"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "El 30 y el 31 de mayo, con celebraciones que se extienden durante buena parte de mayo distrito por distrito antes del acto final a nivel estatal en esos dos días."
   holiday: "Fiesta pública en el estado de Sabah y en el territorio federal de Labuan los días 30 y 31 de mayo; no es fiesta pública a nivel nacional."
   etiquette: "Conviene entender el Unduk Ngadau como un certamen cultural que honra la leyenda de Huminodun, y no como un concurso de belleza corriente, y tratar la creencia en Bambaazon y la leyenda de Huminodun con respeto, como tradición propia de la comunidad y no como un hecho afirmado."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Sacerdotes y sacerdotisas bobohizan kadazan-dusun con traje tradicional negro y dorado ejecutando un ritual de Kaamatan en un escenario iluminado por estrellas en Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: La ganadora del Unduk Ngadau coronada entre seis finalistas con el traje tradicional negro y dorado kadazan-dusun en el escenario del festival Kaamatan en Penampang, Sabah
+    kind: actual
+    origin: third-party
+    subject: La ganadora del Unduk Ngadau y las finalistas en el certamen del festival Kaamatan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: Jóvenes bailarines kadazan-dusun con traje negro y ribetes rojos y plateados interpretando una danza tradicional con gongs en una celebración de la cosecha Kaamatan en Sabah
+    kind: actual
+    origin: third-party
+    subject: Jóvenes kadazan-dusun interpretando una danza del festival de la cosecha con gongs
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 La fiesta toma su nombre de una sola idea: la cosecha. *Kaamatan* significa exactamente eso en la lengua kadazandusun, y todo lo demás de la celebración — el ritual, el vino de arroz, el certamen coronado en la última velada — brota de ese único acto de recoger el arroz.

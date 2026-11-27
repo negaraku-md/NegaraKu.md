@@ -60,9 +60,35 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'Sebuah hospital pakar moden bersalut kaca di Kuala Lumpur dengan sebuah kereta transit ringan lalu di hadapannya.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: Blok menara berbilang tingkat sebuah hospital kerajaan Malaysia, jenis persekitaran tempat pengamal perubatan dan kesihatan bersekutu berdaftar bekerja
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, sebuah hospital tertiari kerajaan di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: Dua anggota kakitangan sains kesihatan di dalam makmal dengan kabinet biokeselamatan dan peralatan, mewakili profesion kesihatan bersekutu dan makmal yang memerlukan pendaftaran
+    kind: representative
+    origin: third-party
+    subject: Kakitangan makmal berbual di sebelah kabinet biokeselamatan di sebuah makmal penyelidikan perubatan di Malaysia
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 Seseorang boleh memakai kot putih, menggantung sijil di dinding klinik, dan memanggil dirinya "doktor" — tetapi hanya satu perkara yang benar-benar mengesahkan kelayakannya: namanya wujud dalam daftar rasmi. Di Malaysia, setiap doktor, jururawat, ahli farmasi dan ahli fisioterapi mesti berdaftar dengan badan kawal selia profesion mereka. Berita baiknya, anda boleh menyemaknya sendiri, secara percuma.

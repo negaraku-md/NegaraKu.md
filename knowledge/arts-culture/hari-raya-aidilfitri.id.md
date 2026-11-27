@@ -34,7 +34,7 @@ faq:
     a: "Rumah terbuka adalah praktik mengundang kerabat, tetangga, dan teman — termasuk dari suku dan agama lain — datang berkunjung dan menikmati hidangan sepanjang bulan Syawal. Ia menjadi ciri sosial yang luas di Malaysia, dan sering diselenggarakan pula oleh instansi pemerintah dan perusahaan, bukan hanya di rumah pribadi."
 
 lang: "id"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ festivalFacts:
   when: "1 Syawal dalam kalender qamariah; tanggalnya bergeser lebih awal kira-kira 11 hari setiap tahun pada kalender Masehi dan ditetapkan melalui rukyah anak bulan."
   holiday: "Hari pertama dan kedua diwartakan sebagai hari libur umum persekutuan di seluruh Malaysia."
   etiquette: "Tamu dari berbagai etnis disambut di rumah terbuka; berpakaianlah sopan, dan lazimnya melepas alas kaki sebelum masuk ke rumah."
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'Kerumunan berbusana baju Melayu meriah meninggalkan masjid desa bermenara kembar seusai salat Idulfitri pagi di Alor Pongsu, Perak'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: Ketupat palas dari anyaman daun palma di samping sepiring rendang daging, hidangan khas Hari Raya Aidilfitri di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Ketupat palas dengan rendang daging, hidangan khas Hari Raya
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: Pelita minyak dari bambu menyala dengan api terang di taman yang gelap sewaktu Hari Raya Aidilfitri di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Pelita minyak bambu yang menyala pada malam hari sewaktu Hari Raya
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 Pada malam terakhir Ramadan, seluruh negara seolah-olah bergerak sekaligus. Jalan raya utara–selatan macet berjam-jam, stasiun bus penuh tas dan wadah kue, dan lampu pelita menyala di beranda rumah dari kota hingga ke pelosok kampung. Keesokannya, 1 Syawal, sebulan berpuasa berakhir — dan Malaysia merayakan Hari Raya Aidilfitri.

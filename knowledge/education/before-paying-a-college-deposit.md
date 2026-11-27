@@ -87,6 +87,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["college deposit Malaysia", "MQA accreditation check", "MQR mqr.gov.my", "is my course accredited", "college refund policy Malaysia", "twinning 3+0 awarding body", "private university Malaysia IPTS", "Act 555", "before paying college fees"]
 framework: how-to
+stayFacts:
+  who: 'This is for students and parents who hold a college offer and are about to pay a deposit or registration fee — often the first, and frequently non-refundable, money committed.'
+  how: 'Before paying, verify five things in writing: the exact programme is on the MQR; the institution is a registered provider (an IPTS under the Private Higher Educational Institutions Act 1996 (Act 555), or a recognised public university or branch campus); for a twinning or 3+0 programme, who awards the final certificate; the full written fee schedule for the whole programme; and the refund and withdrawal clause.'
+  cost: 'The deposit is only a fraction — ask for the complete written fee schedule for the entire programme (registration, per-semester tuition, resource, exam, insurance and international-student fees), not just year one, and confirm what the deposit is credited against.'
+  watch: 'Deposits are frequently non-refundable and there is no national statutory cooling-off right — what you can get back is set by the institution''s own written policy. A ''guaranteed transfer to Year 3'' is the partner university''s decision, not the local college''s; get it in writing.'
+  next: 'Put every check to the institution in writing and keep the replies before any money leaves your account; verify the exact programme on the MQR first. See the MQA accreditation explainer.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Taylor''s University Lakeside Campus towers reflected in a lake at dusk, with a red "TAYLOR''S UNI" sign on the main building.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: The glass facade of RCSI and UCD Malaysia Campus, a private university of the kind that asks new students for an enrolment deposit.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), Penang
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: A modern teaching block on the Sunway University campus, a private institution where applicants weigh fees and deposits before committing.
+    kind: actual
+    origin: third-party
+    subject: Sunway University campus building, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 The deposit is usually the first money a family hands a college — and, once it is

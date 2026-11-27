@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -78,9 +78,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: '開いた四角い頂部を頂く、背の高い砂岩と緑のガラスの政府タワー。曇り空を背に、入口の天蓋の上にKEMENTERIAN KESIHATAN MALAYSIAの文字と国の紋章'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: 鋭角に面取りされた翼棟と張り出した屋根を持つ、大胆な緑ガラス張りの政府庁舎。右側の面には縦長のマレーシア国旗が垂れ下がり、タイル張りの広場の上にそびえる
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤのKKM複合施設内にある、マレーシア保健省研修管理部のビル
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 マレーシアの政府診療所に足を運び、RM1紙幣を一枚渡すだけで、診察と薬の両方がまかなわれて外に出てくる——そのとき、あなたは世界でも屈指の手厚い補助を受けた医療制度を利用していることになる。それを運営しているのが**マレーシア保健省**——*Kementerian Kesihatan Malaysia*（**KKM**）、英語では**MOH**——であり、公衆衛生、医療診療、医学研究、健康増進、医薬品及び医療機器の規制、歯科医療並びに患者安全を所管する連邦省である。本部は、62590プトラジャヤの連邦政府行政センター内、Complex E（E1、E3、E6、E7及びE10棟）に置かれている。

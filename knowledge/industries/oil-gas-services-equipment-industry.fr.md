@@ -31,7 +31,7 @@ faq:
   - q: "Qu'est-ce que le National OGSE Industry Blueprint ?"
     a: "Lancé en avril 2021 et revu à mi-parcours en 2024, c'est le plan sur 10 ans (2021–2030) du gouvernement pour rendre le secteur plus compétitif, résilient et durable. Ses objectifs incluent doubler le chiffre d'affaires à l'exportation, maintenir une contribution au PIB d'environ RM50 milliards et pousser les firmes vers des services de transition énergétique tels que le captage du carbone, l'hydrogène et les énergies renouvelables."
 lang: fr
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,34 @@ keywords:
   - navires de soutien offshore
   - National OGSE Blueprint
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: 'Une plateforme de forage offshore semi-submersible vue de face en mer, son pont trapu et son grand derrick central soutenus par deux pontons immergés, avec des lignes d''ancrage descendant vers l''eau et des navires ravitailleurs lointains à l''horizon'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: Une grande plateforme de production pétrolière en mer baignée de lumière dorée, sa grue de pont abaissant une charge vers un navire ravitailleur maintenant sa position sur la mer bleue à ses côtés
+    kind: representative
+    origin: third-party
+    subject: un navire ravitailleur en mer travaillant aux côtés d'une plateforme de production, la grue de la plateforme transférant une charge
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: Un navire de soutien en mer bleu et blanc nommé Island Chieftain amarré à un quai, sa haute passerelle avant et son long pont de chargement ouvert et plat visibles, avec des montagnes à l'arrière-plan
+    kind: representative
+    origin: third-party
+    subject: un navire ravitailleur de plateforme et de soutien en mer amarré à un quai, montrant son pont arrière de chargement ouvert
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 Quand on imagine la richesse pétrolière et gazière de la Malaisie, on pense généralement au brut et au gaz sous les fonds marins au large de Terengganu, du Sarawak et du Sabah — les réserves qui ont fait de PETRONAS l'une des plus grandes compagnies énergétiques d'Asie. Mais les hydrocarbures ne se hissent pas tout seuls hors du sol. Derrière chaque champ en production se trouve une petite armée de sous-traitants : les chantiers qui soudent les plateformes en acier, les appareils qui forent les puits, les navires qui acheminent équipages et cargaisons en offshore, les ingénieurs qui conçoivent les installations, et les techniciens qui font fonctionner l'ensemble. Cet écosystème est l'**industrie des services et équipements pétroliers et gaziers (OGSE)**, et c'est une grande industrie malaisienne à part entière.

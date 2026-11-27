@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,32 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'ஏரிக்கு அப்பால் அமைந்த புத்ராஜெயா, இடதுபுறம் இளஞ்சிவப்பு குவிமாடமும் உயரமான கோபுரமும் கொண்ட புத்ரா பள்ளிவாசலும் (Masjid Putra), வலதுபுறம் பச்சை குவிமாடம் கொண்ட பெர்தானா புத்ரா அரசாங்க வளாகமும் மேகமூட்டமான வானத்தின் கீழ் காட்சியளிக்கின்றன.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: புத்ராஜெயா கூட்டாட்சிப் பகுதியை நிர்வகிக்கும் உள்ளூர் ஆளுநர் அமைப்பான புத்ராஜெயா கழகத்தின் நிர்வாகக் கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: பெர்படானான் புத்ராஜெயா (புத்ராஜெயா கழகம்) தலைமையகம், புத்ராஜெயா கூட்டாட்சிப் பகுதியின் உள்ளூர் ஆளுநர் அமைப்பு
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: புத்ராஜெயாவில் உள்ள நீதி அரண்மனையின் குவிமாட முகப்பு, மலேசியக் கூட்டாட்சி அரச சின்னத்தைத் தாங்கியது, கூட்டாட்சிப் பகுதியின் ஒரு அரசாங்கக் கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: இஸ்தானா கெஹாகிமான் (நீதி அரண்மனை), புத்ராஜெயாவில் உள்ள ஒரு கூட்டாட்சி அரசாங்கக் கட்டிடம்
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 ஒரு மாநிலத்தில் சுல்தான் அல்லது Yang di-Pertua Negeri (மாநில ஆளுநர்) இருக்கிறார், Menteri Besar அல்லது Ketua Menteri (முதலமைச்சர்) இருக்கிறார், மக்களால் தேர்ந்தெடுக்கப்படும் மாநில சட்டமன்றமும் (Dewan Undangan Negeri) இருக்கிறது. ஆனால் கோலாலம்பூர், புத்ராஜெயா, லபுவானில் இவற்றில் ஒன்றுகூட இல்லை. இந்த மூன்று இடங்களும் மாநிலங்கள் அல்ல — அவை கூட்டாட்சிப் பிரதேசங்கள் (Federal Territory); கூட்டாட்சி அரசாங்கத்தால் நேரடியாக நிர்வகிக்கப்படுகின்றன.

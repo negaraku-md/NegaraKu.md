@@ -34,7 +34,7 @@ faq:
     a: "EUDR mula berkuat kuasa pada 29 Jun 2023. Selepas penangguhan, kewajipan terpakai mulai 30 Disember 2026 untuk pengendali dan pedagang besar serta 30 Jun 2027 untuk perusahaan mikro dan kecil."
 
 lang: "ms"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'Barisan pokok kelapa sawit rendang menyelimuti lereng bukit di tepi jalan tanah di bawah gunung hijau berkabus'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: Landskap udara di mana petak kelapa sawit bergeometri dan kawasan terbuka yang gondol mendesak hutan hijau gelap yang tinggal
+    kind: actual
+    origin: third-party
+    subject: Pandangan udara kawasan terbuka kelapa sawit dibelah dalam hutan hujan Borneo, menunjukkan kehilangan hutan akibat peluasan ladang
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: Bukit-bukau menghijau ditanam kelapa sawit muda terbentang ke rabung jauh di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Ladang kelapa sawit terbentang luas menutupi bukit-bukau di Daerah Mersing, Johor
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 Malaysia mengeluarkan kira-kira satu perlima daripada minyak sawit dunia, dan industri ini telah lama menerima kritikan daripada penggerak kempen Eropah dan NGO berhubung kaitannya dengan penyahutanan. Sebagai tindak balas, negara ini kini mengendalikan skim pensijilan wajib yang disokong kerajaan, dan pada 5 September 2025 Kesatuan Eropah mengiktiraf skim tersebut dalam satu kenyataan bersama. Inilah cara MSPO berfungsi, apa yang dibuktikannya dan tidak dibuktikannya, serta di mana masalah rumit masih wujud.

@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: '夜空に色とりどりの花火が、ペトロナスツインタワーとクアラルンプールの街のスカイラインの上で弾けている。'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: クアラルンプールのKLセントラルで、ディーパバリのために色粉で床に描かれた、大きく鮮やかな色彩の孔雀の形をしたコーラム（kolam）。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのKLセントラルに描かれたディーパバリの孔雀のコーラム（kolam）
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: マレーシアの旧正月の街頭祝祭で、ピンク、黄、白の鮮やかな獅子舞の頭がいくつも店先に集まり、その中に赤い大頭の演者が交じっている。
+    kind: actual
+    origin: third-party
+    subject: サバ州サンダカンの旧正月の獅子舞チーム
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 マレーシア全土にまたがる旅行、製品の発売、あるいは給与計算を計画すると、よそ者の不意を突くことにすぐ気づく。クアラルンプールでは祝日である日が、クチンでは普通の労働日であり、その逆もある。マレーシアには一つの全国的な祝日一覧があるというより、国家の層と、その上に積み重なった13の州の層がある。

@@ -22,7 +22,7 @@ verificationNeeded:
   - "The full format and subject details of the Form 3 Learning Matrix (starting 2027) had not been confirmed in detail on the Malaysian Examinations Syndicate's official website at the time this draft was prepared; only the Year 4 2026 schedule (4 core subjects) was confirmed. Recheck at lp.moe.gov.my once the Form 3 draft is published."
   - "Whether the National Education Advisory Council (MPPK) has published the full UPSR/PT3 review report to Cabinet could not be confirmed against official sources at the time this draft was prepared; the minister's January 2026 statement is taken as the latest available position."
 lang: "es"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'Vista del salón de actos (dewan) de la SMK Gajah Berang en Malasia, con estudiantes sentados en filas de sillas frente al escenario, el tipo de salón usado para asambleas y exámenes públicos.'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: El colorido salón escolar en azul y amarillo (dewan) de la SMK Bugaya II en Sabah, el tipo de salón en que se realizan exámenes públicos como el SPM.
+    kind: representative
+    origin: third-party
+    subject: Un salón de escuela secundaria malasia del tipo usado para exámenes públicos
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: Un bloque de aulas de varias plantas de la SMK Sapulut, una escuela secundaria pública en Sabah.
+    kind: actual
+    origin: third-party
+    subject: Una escuela secundaria malasia (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 Si tu hijo está ahora en Year 6, no se presentará a la UPSR. Si ese niño está en Form 3, no le espera ningún PT3. Los grandes exámenes que alguna vez determinaron toda la trayectoria escolar de un estudiante —los mismos por los que quizá tus propios padres pasaron bajo mucha presión— llevan ya varios años desaparecidos. Pero muchos padres siguen confundidos: qué los sustituyó, si se traerán de vuelta y qué ocurre realmente cada día en la escuela de su hijo ahora.

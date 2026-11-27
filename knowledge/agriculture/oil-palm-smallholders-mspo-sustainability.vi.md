@@ -32,7 +32,7 @@ faq:
     a: "Quy định về Không phá rừng của EU định nghĩa các sản phẩm là 'không phá rừng' chỉ khi được trồng trên đất không bị phá rừng sau ngày 31 tháng 12 năm 2020 (Regulation (EU) 2023/1115, Article 2). Nó đòi hỏi định vị địa lý ở cấp mảnh đất — lập bản đồ đa giác đối với các mảnh đất lớn hơn 4 hecta, với một điểm GPS đơn được cho phép đối với các mảnh đất từ 4 hecta trở xuống — điều khó về mặt kỹ thuật đối với các nông dân nhỏ, thường cao tuổi, ở vùng xa tự tạo ra."
 
 lang: "vi"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'Một đồn điền cọ dầu non phủ kín vùng đất đồi thoải ở Mersing, Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: Một người thu hoạch tại đồn điền cọ dầu vác chiếc sào liềm dài giữa những cây cọ trưởng thành, với một buồng quả tươi vừa cắt nằm dưới đất, ở Huyện Tenom, Sabah
+    kind: actual
+    origin: third-party
+    subject: Một công nhân đồn điền mang sào thu hoạch giữa những cây cọ dầu trưởng thành ở Tenom, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: Cận cảnh những buồng quả tươi ngả đỏ đang chín ở ngọn một cây cọ dầu tại Đồn điền Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Những buồng quả tươi đang chín trên cây cọ dầu tại Đồn điền Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 Một nông dân ở Bintulu có thể đi từng ranh giới của mảnh cọ dầu của mình theo trí nhớ nay phải biến những "bản đồ trong đầu" đó thành các đa giác GPS trước khi một người mua ở châu Âu chịu chạm đến quả của ông. Khoảng cách đó — giữa việc biết đất của mình và ghi lại nó cho một kiểm toán viên hài lòng — là câu chuyện thầm lặng đằng sau nền kinh tế dầu cọ tiểu điền của Malaysia.

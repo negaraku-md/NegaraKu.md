@@ -29,7 +29,7 @@ faq:
     a: "ما زال RFID يتطلب مرور المركبة عبر مسار محدَّد بحاجز يرتفع بعد نجاح القراءة. أما ANPR مثل JustGO PLUS فيتعرف على المركبات عبر كاميرا تقرأ لوحة الأرقام، ما يتيح للمركبات المسجَّلة المرور عبر أي مسار دون أي بطاقة مادية على الإطلاق — خطوة أخرى نحو نظام بلا حاجز بالكامل (MLFF)."
 
 lang: "ar"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["رسوم الطرق السريعة في ماليزيا", "tol lebuh raya Malaysia", "SmartTAG", "RFID", "RFID Touch n Go", "JustGO PLUS", "ANPR", "MLFF", "رسوم بلا حاجز", "مسارات الرسوم في ماليزيا"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'سيارة تمر ليلاً تحت لافتتين صفراوين مضاءتين لمسار SmartTAG عند ساحة رسوم على طريق سريع ماليزي.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: ساحة رسوم واسعة على طريق سريع تُرى في وضح النهار، مع صف من أكشاك الرسوم ومظلات علوية للمسارات تمتد عبر عدة مسارات دفع
+    kind: actual
+    origin: third-party
+    subject: ساحة رسوم على طريق سريع نهارًا بعدة مسارات وأكشاك قرب Ipoh، Perak
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: مسار خروج في ساحة رسوم مخصّص للدفع بتقنية RFID، مع حاجز مسار وبوابة قارئ علوية فوق الطريق قرب Kota Damansara
+    kind: actual
+    origin: third-party
+    subject: مسار خروج بتقنية RFID في ساحة رسوم Kota Damansara، Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 تتوقف السيارة التي أمامك في مسار RFID فجأة لأن الملصق على مصباحها الأمامي لم يُكتشف — رغم أن كثيرين يفترضون أن RFID يعني «أنك لست بحاجة إلى فعل أي شيء على الإطلاق». في الواقع، تشغّل ماليزيا حاليًا أربعة أجيال على الأقل من تقنية الرسوم في آنٍ واحد عبر طرق سريعة مختلفة، والخلط بين واحدٍ وآخر سبب شائع لتعطّل السيارات عند البوابة.

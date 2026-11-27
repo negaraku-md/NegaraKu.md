@@ -6,7 +6,7 @@ slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
 heroKind: "actual"
 heroOrigin: "third-party"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: 'Hidangan nasi lemak berdaun pisang dengan sambal, ikan bilis goreng, kacang tanah bakar, timun dan telur rebus'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

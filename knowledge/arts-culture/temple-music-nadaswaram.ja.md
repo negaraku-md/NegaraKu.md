@@ -32,7 +32,7 @@ faq:
   - q: この音楽はマレーシアでどのように受け継がれていますか？
     a: "寺院の奏者、ナーダスワラム–タヴィルの楽団、そして数多くのウルミ・メーラムの楽団が、この伝統を受け継いでいます。若者は幼いころから習い始めます。多くの楽団は収入を制服、楽器、団の食事に充て、営利を目的としない奉仕として活動しています。今日、この伝統は寺院の外でも、祭りや歓迎の催しで奏でられています。"
 lang: "ja"
-sourceContentHash: "69c659db2fc3e826"
+sourceContentHash: "f9ebda3dd43f4738"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "indian-classical-arts-in-malaysia", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community"]
 keywords: ["கோயில் இசை", "நாதஸ்வரம்", "தவில்", "மங்கள வாத்தியம்", "உறுமி மேளம்", "காவடி", "மலேசியா கோயில் இசை", "Nadaswaram", "Thavil", "Urumi Melam"]
 framework: history-culture
+hero: '/media/arts-culture/temple-music-nadaswaram/hero.webp'
+heroAlt: '明るい模様の敷物の上に座り、先が広がった木のベルをもつ長い黒いナーダスワラムの管楽器を奏でる、白いドーティ姿の2人の演奏者'
+heroCredit: 'PJeganathan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nadaswaram_being_performed_in_South_Indian_Marriage_JEG6722.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Two musicians playing the nadaswaram double-reed wind instrument at a South Indian Hindu wedding'
+
+images:
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-1.webp
+    alt: ヒンドゥー寺院で、座った1人の男性が長いナーダスワラムの管楽器を吹き、もう1人が横向きのタヴィルの樽型太鼓を叩いている様子
+    kind: representative
+    origin: third-party
+    subject: シンガポールのスリ・マリアマン・ヒンドゥー寺院で演奏するナーダスワラムとタヴィルの奏者
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Music_at_Sri_Mariamman_Temple_Singapore_(2025)_(screenshot).jpg
+  - role: scene
+    src: /media/arts-culture/temple-music-nadaswaram/body-2.webp
+    alt: 朝顔状に広がるベルを備えたナーダスワラムの管楽器を持つ若い男性と、黄色い紐を巻いた丸いタヴィルの樽型太鼓を抱えるもう1人の男性
+    kind: representative
+    origin: third-party
+    subject: 南インドの寺院音楽の定番の二重奏である、ナーダスワラムの奏者とタヴィルの樽型太鼓の奏者
+    credit: Thamizhpparithi Maari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_depiction_of_Nadaswaram_and_Tavil_play.JPG
 ---
 
 タイプーサムの行列の先頭で、寺院の山車が出発するその瞬間に、あるいは結婚式場の入口で——マレーシアのどのタミル系ヒンドゥーの催しでも、まず空気に満ちるのは、ある特定の音である。ナーダスワラム（nadaswaram）の長い旋律と、タヴィル（thavil）の轟きである。その音は偶然ではない——それは、一世紀以上にわたってこの共同体とともに歩んできた **mangala vadyam**（吉祥楽器）の伝統の印である。

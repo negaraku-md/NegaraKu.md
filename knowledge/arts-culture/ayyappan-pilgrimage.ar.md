@@ -32,7 +32,7 @@ faq:
   - q: "ماذا تعني «سوامِيِه سارانام أيّابا»؟"
     a: "هي هتاف الاستجارة الرئيسي في عبادة أيّابان — عبارة تعني تسليم المرء نفسه إلى سوامي، يردّدها المُلتزمون بالنذر والحجّاج باستمرار. وهي تتردّد طوال مدة النذر، وفي الحج، وفي البهاجان."
 lang: "ar"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'معبد أيابان الهندوسي مضاء بسطوع ليلاً، بأسقف متدرجة على الطراز الكيرالي وأعمدة مذهبة الإضاءة وضريح صغير للإله يتوّج المدخل.'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: حجّاج يرتدون ملابس سوداء مع أغطية رأس قماشية يمشون في درب غابي في حجّهم إلى Sabarimala
+    kind: representative
+    origin: third-party
+    subject: محبّو Ayyappan بالملابس السوداء يسيرون في مسار غابي نحو معبد Sabarimala
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: لوحة أرضية كبيرة ملوّنة من المسحوق تصوّر الإله Ayyappa، تحيط بها مصابيح زيتية نحاسية مضاءة وأكاليل من الزهور، وخلفها قارع طبل جالس
+    kind: representative
+    origin: third-party
+    subject: لوحة أرضية طقسية لـ Ayyappan (kalam) مع مصابيح زيتية نحاسية وقارع طبل، تقليد تعبّدي للإله Ayyappa
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 في الأشهر الأخيرة من السنة، يظهر مشهد مألوف في كثير من بلدات ماليزيا: رجال يرتدون السواد أو الأزرق، يضعون مسبحة الرودراكشا حول العنق ويُطلقون لحاهم، يخاطب بعضهم بعضًا بلقب «سوامي». هؤلاء هم المُلتزمون بنذر أيّابان — وكثير منهم يستعدون للسفر إلى ساباريمالا في ولاية كيرالا. يصف هذا المقال تلك العبادة وتقاليد النذر وصفًا محايدًا؛ فهو لا يشرح أي معتقد ولا يُقوّمه.

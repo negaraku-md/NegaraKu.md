@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -91,9 +91,43 @@ sources:
     publisher: "Mount Kinabalu (Sutera Sanctuary Lodges / 키나발루 유네스코 세계지질공원 파트너)"
 
 entity: "Kinabalu Park"
-related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "gunung-mulu-national-park"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "Low's Peak", "UNESCO World Heritage", "climbing permit", "Laban Rata", "Panalaban", "Poring Hot Springs", "Sabah", "Nepenthes rajah"]
 framework: profile
+visitFacts:
+  bestFor: '말레이시아 최고봉에서 새벽을 맞으려는 체력 있고 조직적인 등반가와, 공원 기슭에서 시원한 산 공기, 식충식물, 자연 트레일, 온천을 원하는 당일 방문자 모두에게 적합합니다.'
+  getThere: '사바의 주도 코타키나발루에서 육로로 들어오며, 고지대로 북동쪽으로 올라가는 구불구불한 산길을 지나 공원 본부에 닿습니다.'
+  permit: '정상 등반은 허가제입니다: 공원 등반 허가증과 면허를 가진 Sabah Parks 산악 가이드가 모두 필수이고 일일 인원이 제한되며, 거의 모두 공원 운영사를 통해 산장 1박을 사전 예약해야 하니 넉넉히 앞서 예약하십시오.'
+  watch: '고도 증세와 체력이 중요하고 산 스스로 날씨를 만드는 힘든 이틀간의 고산 등반이며, 대지진 같은 사건 후 접근로와 경로가 바뀔 수 있으니 최신 정보로 계획하십시오.'
+  next: '현재의 허가, 가이드, 숙박 규정과 요금은 Sabah Parks에 확인하십시오.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: '아침, 사바에서 구름과 초록 산기슭 위로 솟은 키나발루산의 들쭉날쭉한 화강암 정상'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: 푸른 하늘 아래 키나발루산의 바위 봉우리 밑, 헐벗은 화강암 정상 대지를 건너는 등반객들
+    kind: actual
+    origin: third-party
+    subject: 헐벗은 바위 대지 위에 등반객들이 있는 키나발루산의 화강암 정상 첨봉
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: 키나발루 공원의 산악 식생 사이에서 자라는 크고 붉고 녹색을 띤 네펜테스 라자 벌레잡이통풀
+    kind: actual
+    origin: third-party
+    subject: 키나발루 공원의 거대한 벌레잡이통풀 네펜테스 라자
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 보르네오의 열대우림에서 곧장 4,000미터를 조금 넘는 높이까지 솟아오른 화강암 왕관, 일부 대륙보다 많은 식물 종을 품은 세계유산 공원, 그리고 항공편보다 먼저 예약해야 할 만큼 빡빡하게 제한된 정상 등반 — 키나발루산은 말레이시아에서 가장 유명한 자연 랜드마크이자, 실제로 방문하기에 가장 체계적인 곳 중 하나입니다. 보르네오의 말레이시아 쪽인 사바에 자리하며, 매우 다른 두 부류의 여행자에게 보답합니다. 히말라야와 뉴기니 사이에서 가장 높은 봉우리의 새벽을 좇는 건강하고 조직적인 등반객, 그리고 그저 서늘한 산 공기와 기이한 식충식물, 온천욕을 원하는 당일 여행객입니다. 이 가이드는 둘 다, 그리고 사람들이 출발 전에 흔히 잘못 아는 것들을 다룹니다.

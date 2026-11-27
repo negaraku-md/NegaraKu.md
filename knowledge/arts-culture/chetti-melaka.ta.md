@@ -30,7 +30,7 @@ faq:
     a: "சிங்கப்பூரின் தேசிய பாரம்பரிய வாரியத்தின் (Roots) கூற்றுப்படி, இச்சமூகத்தின் எண்ணிக்கை கூர்மையாகக் குறைந்துள்ளது — 1980களில் இருந்த ஏறத்தாழ 400 குடும்பங்களிலிருந்து இன்று 50 குடும்பங்களுக்கும் குறைவாக — அதேவேளையில் Free Malaysia Today அறிக்கை ஒன்று கம்போங் செட்டியில் இன்னும் ஏறத்தாழ 20 முதல் 30 குடும்பங்கள் மட்டுமே வாழ்வதாக மதிப்பிடுகிறது. இக்குறைவை ஆய்வாளர்கள் சமூகத்திற்கு வெளியே நடக்கும் கலப்புத் திருமணம், வேலை தேடி வெளியேறும் இடம்பெயர்வு மற்றும் தங்கள் செட்டி வேர்களுடனான தொடர்பை மேலும் மேலும் இழந்துவரும் இளைய தலைமுறையினருடன் தொடர்புபடுத்துகிறார்கள்."
 
 lang: "ta"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'Melaka மாநிலத்தில் Kampung Chetti நுழையும் சந்தைக் குறிக்கும், இரட்டை வெள்ளை யானை உருவங்கள் சூடிய இளஞ்சிவப்பு இந்திய பாணி நுழைவு வளைவு; வலப்புறம் கிரீம் நிற குவிமாடமுள்ள சிறிய இந்துக் கோயிலும், அமைதியான தெருவில் Kampung Chetti பலகையுடன் கிராம வீடுகளும், நீல வானமும்'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: மலாக்காவில் செட்டி அருங்காட்சியகமாகச் செயல்படும் பாரம்பரிய இரு மாடி இருண்ட மர மலாய் பாணி வீடு; நடைமண்டபத்திற்கு மேலே 'Muzium Chetti The Chetti Museum' என்று எழுதப்பட்ட நீல பலகை, தாழ்ந்த வேலிக்குப் பின்னால் தொட்டிச் செடிகளின் வரிசை, அதன் அருகே பறக்கும் மலேசியா மற்றும் மலாக்கா கொடிகள்
+    kind: actual
+    origin: third-party
+    subject: செட்டி மலாக்கா சமூகத்தை ஆவணப்படுத்தும், மலாக்கா, கம்போங் செட்டியில் உள்ள செட்டி அருங்காட்சியகம் (மூசியம் செட்டி)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: மலாக்காவின் ஹார்மனி தெருவில் (ஒற்றுமைத் தெரு) உள்ள ஸ்ரீ பொய்யாத்த வினாயகர் மூர்த்தி கோயிலின் மஞ்சள் நிற முகப்பு; ஓட்டு நடைமண்டப கூரைக்கு மேலே தெய்வ மாடங்களுடன் உயரும் எளிமையான அடுக்கு கோபுரமும் நீலப்பச்சை நிற கதவுகளும், ஆழ்நீல வானத்திற்கு எதிராக காலை இளவெயிலில் ஒளிர்கின்றன
+    kind: actual
+    origin: third-party
+    subject: 1781-ல் செட்டி சமூகத்தால் நிறுவப்பட்ட, மலாக்காவின் வரலாற்றுச் சிறப்புமிக்க இந்துக் கோயிலான ஸ்ரீ பொய்யாத்த வினாயகர் மூர்த்தி கோயில்
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 மலாக்காவின் ஜாலான் கஜா பேராங்கில் (Jalan Gajah Berang) உள்ள ஒரு பழமையான கிராமத்தில், சிவபெருமானை வழிபடுகிற, மலாய்க்காரர்களைப் போல் உடையணிகிற, தேங்காய்ப்பால் மணக்கும் கறிகளைச் சமைக்கிற, தமிழ்ச் சொற்கள் கலந்த மலாய் மொழி பேசுகிற ஒரு கூட்டம் குடும்பங்கள் உள்ளன. இவர்கள் இந்தியர்களும் அல்ல, மலாய்க்காரர்களும் அல்ல, சீனர்களும் அல்ல — இவர்கள்தான் செட்டி மலாக்கா, இவர்களின் எண்ணிக்கை நாளுக்கு நாள் குறைந்துகொண்டே வருகிறது.

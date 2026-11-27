@@ -32,7 +32,7 @@ faq:
   - q: "Bốn ngày của Thai Pongal là những ngày nào?"
     a: "Bhogi (dọn bỏ cái cũ và dọn dẹp nhà cửa), Thai Pongal hay Surya Pongal (tạ ơn Mặt Trời và dâng pongal), Mattu Pongal (tôn vinh trâu bò giúp cày bừa), và Kaanum Pongal (thăm họ hàng và ra ngoài du ngoạn) — đó là bốn ngày ấy."
 lang: "vi"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Ngày bắt đầu tháng Thai của người Tamil — trong lịch Gregory thường rơi vào giữa tháng 1 (ngày 14 hoặc 15)."
   holiday: "Không phải ngày lễ công cộng được công bố ở cấp liên bang hay ở bất kỳ bang nào tại Malaysia. (Chỉ có Deepavali là ngày lễ công cộng cấp liên bang — ngoại trừ Sarawak; Thaipusam chỉ là ngày nghỉ lễ ở một số bang.)"
   etiquette: "Chủ yếu là một lễ hội văn hóa gắn với mùa gặt, mang tính thế tục/không tôn giáo (một bộ trưởng Malaysia đã làm rõ điều này vào năm 2020); các tổ chức cộng đồng và đền chùa cùng nấu Pongal trong nhiều nồi và tổ chức lễ mừng công khai cùng với các tiết mục văn nghệ."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'Một người phụ nữ tươi cười trong bộ sari tím và vàng khuấy cơm Pongal đang bốc hơi trong một chiếc nồi đất quấn vòng hoa cúc vạn thọ, nấu ngoài trời tại một ngôi đền Hindu trong dịp Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: Một bức kolam Pongal lớn đầy màu sắc vẽ bằng bột màu trên mặt đất, thể hiện những thân mía, hoa tươi sáng và một chiếc nồi lễ hội tràn đầy, bên ngoài cổng một ngôi nhà
+    kind: representative
+    origin: third-party
+    subject: Bức kolam Pongal đầy màu sắc với mía, hoa và họa tiết nồi tràn trên đường phố
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: Hai chiếc nồi đất tròn viền đỏ, vẽ tay màu trắng với những họa tiết zíc zắc và chấm nhiều màu, chuẩn bị để nấu Pongal trong lễ hội mừng mùa
+    kind: representative
+    origin: third-party
+    subject: Hai chiếc nồi đất Pongal vẽ tay trang trí cho lễ hội mừng mùa
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 Vào sáng sớm khi tháng Thai bắt đầu, sân vườn và ngưỡng cửa của các gia đình

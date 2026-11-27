@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'เวเฟอร์ซิลิคอนทรงสี่เหลี่ยมบนโต๊ะห้องปฏิบัติการ ผิวเป็นประกายสีม่วงแดง ชมพูและทองจากการเคลือบฟิล์มบาง'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: ช่างสวมชุดกันฝุ่น หมวกคลุม และหน้ากากสีขาว ถือเวเฟอร์ซิลิคอนทรงกลมในมือที่สวมถุงมือ ภายในห้องสะอาดสำหรับเซมิคอนดักเตอร์ที่มีแสงสีเหลือง
+    kind: representative
+    origin: third-party
+    subject: ช่างในชุดกันฝุ่นถือเวเฟอร์ซิลิคอนในห้องสะอาดโฟโตลิโทกราฟีที่มีแสงสีเหลือง
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: ช่างสวมชุดห้องสะอาดสีขาวเต็มตัว หมวกคลุม หน้ากาก และถุงมือ กำลังทำงานกับชิ้นส่วนโลหะขัดเงาที่โต๊ะทำงานภายในห้องสะอาดที่สว่าง
+    kind: representative
+    origin: third-party
+    subject: ช่างประกอบในชุดกันฝุ่นกำลังทำงานกับฮาร์ดแวร์ที่มีความแม่นยำสูงภายในห้องสะอาด
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 หากคุณกำลังอ่านข้อความนี้บนโทรศัพท์หรือแล็ปท็อป มีความเป็นไปได้จริงที่ชิปตัวหนึ่งของมันเคยใช้ช่วงหนึ่งของชีวิตอยู่ในมาเลเซีย — ไม่ใช่การถูกคิดค้นหรือพิมพ์ขึ้น แต่เป็นการแปรรูปจากแผ่นซิลิคอนเปล่าให้กลายเป็นชิ้นส่วนสำเร็จรูปที่บรรจุภัณฑ์เรียบร้อยพร้อมบัดกรีลงบนแผงวงจร ขั้นตอนที่เงียบ ๆ และไม่หวือหวานั้นคือจุดที่มาเลเซียได้สร้างตำแหน่งที่สำคัญที่สุดตำแหน่งหนึ่งในโลกอิเล็กทรอนิกส์ทั้งหมด

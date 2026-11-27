@@ -75,6 +75,32 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'A tall red-and-white residential condominium tower against a blue sky in Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: Several condominium towers rise together over Ampang in Kuala Lumpur, a high-rise cluster whose residents share the maintenance fees that keep lifts, pools and security running.
+    kind: actual
+    origin: third-party
+    subject: A cluster of condominium towers in Ampang, Kuala Lumpur
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: The multiple towers of the Riana Green Condominium rise together amid greenery in Petaling Jaya, a gated strata development whose residents share maintenance fees and a sinking fund.
+    kind: actual
+    origin: third-party
+    subject: Riana Green Condominium cluster seen from the NKVE, Petaling Jaya, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 You bought the unit. You did not buy the lift, the guardhouse, the swimming pool, or the pipe running through the wall you share with your neighbour. Someone still has to pay for all of that — and the law splits the bill into two accounts you're legally required to keep separate.

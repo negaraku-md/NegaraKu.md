@@ -46,7 +46,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 
 status: "published"
 aiAssisted: true
@@ -121,6 +121,34 @@ keywords:
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
 framework: profile
+hero: '/media/business/doing-business-johor-bahru/hero.webp'
+heroAlt: 'ジョホール海峡越しに望むオフィスや銀行のビルが並ぶジョホールバルのスカイライン。水際沿いにコーズウェイの送水管が走る'
+heroCredit: 'ペウゲオト / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: 海峡を渡る車で混雑するジョホール＝シンガポール・コーズウェイを上空から見た眺め。マレーシア側にはジョホールバルの街の建物と'I love Johor'の標示がある
+    kind: actual
+    origin: third-party
+    subject: ジョホールバルの街の傍らで海峡を渡る、車で混み合うジョホール＝シンガポール・コーズウェイ。JBとシンガポールを結ぶ日常の玄関口
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: ジョホールバルの街並みを広く捉えたパノラマ。曇り空の下、商業用と住宅用の高層タワー群が密集する
+    kind: actual
+    origin: third-party
+    subject: ジョホールバルの都市中心部を広く捉えたパノラマ——街に広がる商業高層ビルと住宅タワー
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 ジョホールバルは、賃金の底値、人員計画、そして納期の窓がすべて、あなたが事業を

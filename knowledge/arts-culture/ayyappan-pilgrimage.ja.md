@@ -32,7 +32,7 @@ faq:
   - q: "「スワミエ・サラナム・アヤッパ」とはどういう意味ですか。"
     a: "これはアヤッパン信仰における主要な帰依の詠唱であり、スワミに自らを委ねるという意味の言葉で、苦行者や巡礼者が絶えず唱えます。苦行の間、巡礼の道中、そしてバジャンの中で響き渡ります。"
 lang: "ja"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: '夜にまばゆく照らされたアヤッパン（Ayyappan）ヒンドゥー教寺院。ケーララ様式の重層屋根、金色にライトアップされた柱、入口の頂に神を祀る小さな祠がある。'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: 黒衣をまとい布で頭を覆った巡礼者たちが、サバリマラへの巡礼路となる森の小道を歩いている
+    kind: representative
+    origin: third-party
+    subject: 黒衣のアイヤッパン（Ayyappan）信者が、サバリマラの聖堂を目指して森の道を巡礼する様子
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: 色粉で床に描かれたアイヤッパン神の大きな絵（kalam）。点灯した真鍮の油灯と花輪に囲まれ、背後に太鼓奏者が座っている
+    kind: representative
+    origin: third-party
+    subject: 真鍮の油灯と太鼓奏者を伴うアイヤッパンの儀礼床絵（kalam）。アイヤッパ神への信仰の伝統
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 年の暮れの数か月、マレーシアの多くの町である光景が見られる。黒または青の衣をまとい、首にルドラークシャのマーラをかけ、ひげを伸ばした男たちが、互いを「スワミ」と呼び合う。彼らはアヤッパンの苦行を守る人々であり、その多くはケーララ州のサバリマラへ赴く準備をしている。本稿はその信仰と苦行の伝統を中立的に記述するものであり、いかなる信仰をも説明も評価もしない。

@@ -32,7 +32,7 @@ faq:
   - q: "Bagaimanakah keadaan komuniti Chettiar di Malaysia hari ini?"
     a: "Pada pertengahan abad ke-20, perubahan undang-undang kewangan dan peralihan politik mengurangkan perniagaan pemberian pinjaman wang tradisional. Ramai yang beralih kepada perniagaan, kerjaya profesional dan bidang berkaitan pendidikan. Walaupun komuniti yang kecil bilangannya, mereka memelihara identiti budaya yang tersendiri menerusi kuil, perayaan, makanan dan tradisi keluarga."
 lang: "ms"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'Menara gopuram putih Kuil Nattukottai Chettiar Waterfall Hilltop yang menjulang dari hutan hijau tebal di lereng bukit di Pulau Pinang.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: Gopuram kuil India Selatan yang berwarna-warni dipenuhi arca ukiran, berlatarkan langit cerah di Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Kuil Sivan Nagarathar (Nattukottai Chettiar) di George Town, Pulau Pinang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: Sebuah rata kuil tinggi bersadur emas yang digantungi untaian bunga bergerak di sebuah jalan di Pulau Pinang pada waktu senja dalam kalangan orang ramai penganut
+    kind: actual
+    origin: third-party
+    subject: Rata emas dan para penganut semasa perarakan Thaipusam di Pulau Pinang, satu perayaan yang disokong oleh masyarakat Chettiar
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 Pada hari Thaipusam di Pulau Pinang, sebuah rata yang megah diperbuat daripada perak akan bertolak dari Lebuh Penang menuju ke kuil Murugan di atas bukit. Rata itu, dan komuniti yang telah menjalankannya selama lebih seabad, bukanlah sesuatu yang kebetulan — kedua-duanya menceritakan kisah satu tradisi perniagaan-perbankan yang menempuh perjalanan dari Chettinad ke Tanah Melayu.

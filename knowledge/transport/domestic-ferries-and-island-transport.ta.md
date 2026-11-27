@@ -29,7 +29,7 @@ faq:
     a: "பெரும்பாலும் முடியாது. வடகிழக்குப் பருவமழையால் ஏற்படும் கொந்தளிப்பான கடலின் காரணமாக, பல கிழக்குக் கடற்கரை விடுதிகளும் படகு இயக்குநர்களும் சுமார் அக்டோபர் முதல் பிப்ரவரி வரை தானாக முன்வந்து சேவைகளை நிறுத்திவைக்கின்றனர்."
 
 lang: "ta"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,9 +85,33 @@ sources:
 
 relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
-related: []
+related: ["getting-around-malaysia-for-tourists", "klang-valley-and-city-buses", "e-hailing-grab"]
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: 'Langkawi கப்பல்துறையில், மேற்கூரையிட்ட நடைபலகைக்கு அருகே தரித்துள்ள சிவப்பு-வெள்ளை அதிவேக இரட்டை-கட்டுமரப் படகு ''SANI 1''; பின்னால் பச்சை சுண்ணாம்புக்கல் மலைகள் — தீவுகளுக்குச் செல்லும் பாரம்பரிய மலேசிய பயணிகள் படகு'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: லங்காவியில் நீர்மேல் அமைந்த குவா பயணிகள் படகுத் துறைமுக நிலையம்; பசும்பச்சை நீர்வழிக்கு மேல் அதன் நீண்ட கடற்பறவை-சிறகு கூரையில் 'TERMINAL FERI PENUMPANG KUAH' எனப் படிக்கிறது — தீவுப் படகுப் பயணத்தின் துறை/நிலைய முனை
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: பெர்ஹெந்தியான் பெசாரில் தெளிந்த பசும்பச்சை நீரில் கம்பங்களில் அமைந்த தீவுத் துறையருகே நிறுத்தப்பட்ட சிறிய மூடிய கடற்பூங்காப் படகு — சிறிய படகால் செல்லும் கடைசி-கட்டத் தீவுப் பயணம்
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 மலேசியாவில் ஒரே தேசிய படகுச் (ferry) சேவை நிறுவனம் எதுவும் இல்லை. ஒரு தீவை அடைவது என்பது எந்தக் குறுகிய கடப்பு, எந்த முனையம் (jetty) மற்றும் எந்த இயக்குநர் அதற்குச் சேவை செய்கிறார் என்பதை அறிவதைக் குறிக்கிறது — மேலும், கிழக்குக் கடற்கரையில், அந்த மாதத்தில் கடல் திறந்திருக்கிறதா என்பதையும்.

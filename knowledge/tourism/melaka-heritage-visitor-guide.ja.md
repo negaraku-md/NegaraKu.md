@@ -40,7 +40,7 @@ faq:
     a: "この博物館は、ジャラン・トゥン・タン・チェンロック48・50番地にあり、火曜が休館である。平日（火曜を除く）は午前10時から午後4時15分まで、週末は午前10時から午後4時45分まで開館する。開館時間や料金は変わりうるので、訪問前に博物館の公式サイトで確認すること。"
 
 lang: "ja"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'コンパクトで歩いて回れるUNESCO世界遺産の中心地区——マレー・スルタン朝、ポルトガル、オランダの建造物に加え、Peranakan（Baba Nyonya）のNyonya料理——を、週末旅行として手軽に楽しみたい旅行者に。'
+  getThere: 'クアラルンプールから道路で、車でおよそ2時間でアクセスでき——週末旅行の定番となっている。'
+  watch: '曜日を踏まえて計画すること——Jonker Streetのナイトマーケットは金曜から日曜の夜にしか開かれず、平日はごく普通のショップハウスの通りであり——また、無料の史跡であるA Famosaの門を、郊外にある別のA''Famosa Resortのテーマパークと取り違えないこと。'
+  next: 'これらは変わり得るため、訪問前に現在の開場日と開場時間をBaba & Nyonya Heritage Museumの公式サイトで確認すること。'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'ムラカのオランダ広場の、ビクトリア噴水と市場の屋台の背後に立つテラコッタ色のオランダのスタダイスの建物'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: 旧市街のターコイズブルーのマラッカ川沿いで、色とりどりの歴史的な商店建築と木々のそばを通り過ぎる川下りの観光船
+    kind: actual
+    origin: third-party
+    subject: 旧市街の商店建築を抜けるマラッカ川クルーズ
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: 1908年建立のタミル・メソジスト教会の隣にある、マラッカのチャイナタウンの通りの入口を示すジョンカー・ウォークのゲートアーチ
+    kind: actual
+    origin: third-party
+    subject: タミル・メソジスト教会の隣に立つジョンカー・ウォークのゲートアーチ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 夕暮れのオランダ広場に立てば、ただ一瞥のうちに五世紀を読み取ることができる：一方にはサーモンレッドのオランダ市庁舎、その上の丘にはポルトガル時代の教会の遺構、かつて要塞をつなぎとめ、イギリス人が取り壊そうとした石の門、そして——徒歩2分のところに——いまは金曜夜のバザールのために灯りをともした中華・マレーの町屋の小路がある。マラッカはその歴史を大きな都市に広げてはいない。それを、午後のうちに歩き通せるおよそ1平方マイルのなかに積み重ねている。ここでは、その読み解き方と、それを軸にした訪問の計画の立て方を紹介する。

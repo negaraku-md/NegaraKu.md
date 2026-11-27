@@ -68,6 +68,13 @@ sources:
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["Muhyiddin Yassin", "Mahiaddin Md Yassin", "eighth prime minister Malaysia", "Perikatan Nasional", "BERSATU"]
 framework: profile
+hero: '/media/malaysia/muhyiddin-yassin/hero.webp'
+heroAlt: 'நரைத்த முடி கொண்ட Muhyiddin Yassin, விளிம்பில்லா கண்ணாடி மற்றும் மலேசிய சின்னம் பொருத்திய லேப்பல் பின் உள்ள அடர் நிற சூட் அணிந்து, நீல பின்னணியின் முன் ஒலிவாங்கியில் பேசுகிறார்.'
+heroCredit: 'Universiti Malaysia Sarawak (UNIMAS) / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muhyiddin_Yassin_(51087589446)_(cropped).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **வரைவு — உணர்திறன் மிக்கது.** இக்கட்டுரை ஒரு நடுநிலையான, பணி நடந்துகொண்டிருக்கும்

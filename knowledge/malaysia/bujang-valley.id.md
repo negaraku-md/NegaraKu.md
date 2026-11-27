@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami asal usul peradaban awal di tanah Melayu sebelum munculnya kesultanan-kesultanan Melayu, atau yang merencanakan kunjungan ke situs dan museum arkeologi di Kedah."
 
 lang: "id"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ faq:
   - q: Apakah candi di Lembah Bujang masih dalam keadaan asli sejak zaman kuno?
     a: Tidak. Sebagian besar candi yang dapat dikunjungi saat ini telah dibangun kembali (direkonstruksi) oleh para arkeolog berdasarkan reruntuhan aslinya, bukan struktur yang tetap utuh. Candi Bukit Batu Pahat adalah satu-satunya reruntuhan yang direkonstruksi di lokasi aslinya, sementara Candi Pengkalan Bujang kini dibangun kembali di dekat museum. Menurut Arkib Negara Malaysia (Arsip Nasional Malaysia), candi-candi ini diperkirakan dibangun antara abad keempat hingga kedua belas Masehi.
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'Dasar candi batu berundak yang telah dipugar dari balok laterit kemerahan di situs arkeologi Lembah Bujang di Kedah, berdiri di atas halaman rumput terpangkas dengan latar hutan hijau lebat.'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: Sebuah dasar candi persegi bertingkat yang dibangun dari balok laterit kemerahan berdiri di atas tanah terbuka di bawah naungan pelindung terbuka dari kayu dan genting, dengan perbukitan hijau dan hutan tampak di kejauhan.
+    kind: actual
+    origin: third-party
+    subject: Sebuah candi (fondasi candi Hindu-Buddha) yang direkonstruksi di kompleks arkeologi Lembah Bujang, Kedah
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: Empat bejana gerabah dan keramik berglasir hasil galian — sebuah guci tinggi gelap bercorong, sebuah pot bulat putih dan dua mangkuk kecil — dipamerkan di atas penyangga bening dalam lemari pajang museum yang bercahaya.
+    kind: actual
+    origin: third-party
+    subject: Bejana keramik yang digali di Lembah Bujang, Kedah, dipamerkan di museum arkeologi
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 Di sebuah dataran rata di dekat Gunung Jerai, di antara sawah padi dan perkebunan kelapa sawit, terdapat batu bata purba yang disusun berabad-abad sebelum Melaka hadir sebagai sebuah pelabuhan. Sebagiannya membentuk fondasi candi Hindu. Sebagian lagi adalah tungku peleburan besi. Tidak ada sultan yang pernah memerintah dari sini yang namanya dikenal hari ini — tetapi apa yang ditinggalkan oleh masyarakat yang membangun candi dan tungku itu menjadikan Lembah Bujang salah satu situs arkeologi paling penting di Asia Tenggara.

@@ -60,7 +60,7 @@ entity: "Perkongsian Liabiliti Terhad (PLT)"
 relations:
   - { rel: "governs", to: "llp-act-2012-malaysia" }
   - { rel: "administered-by", to: "ssm" }
-related: []
+related: ["llp-accounting-records", "register-llp-malaysia", "audit-exemption-thresholds"]
 keywords: ["audit PLT", "LLP audit exemption", "exemption d'audit LLP", "Akta PLT 2012", "déclaration annuelle PLT", "seksyen 69", "SSM"]
 framework: explainer
 ---

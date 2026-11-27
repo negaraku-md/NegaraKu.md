@@ -30,7 +30,7 @@ faq:
     a: "JKKN के अनुसार, DKK 1971 राष्ट्रीय संस्कृति नीति (DAKEN) 2021 का आधार बनाती है, जो सात स्तंभों पर आधारित है और जिसकी कार्यान्वयन-अवधि 2021-2025 है। JKKN यह भी बताता है कि DKK 1971 को कभी भी मंत्रिमंडल स्तर पर औपचारिक रूप से अनुमोदित नहीं किया गया, भले ही इसने लगभग 50 वर्षों तक प्रशासन का मार्गदर्शन किया।"
 
 lang: "hi"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["राष्ट्रीय सांस्कृतिक नीति", "dasar kebudayaan kebangsaan", "राष्ट्रीय सांस्कृतिक काँग्रेस 1971", "kongres kebudayaan kebangsaan 1971", "तीन सिद्धांत", "DAKEN 2021", "मलेशियाई संस्कृति", "राष्ट्रीय एकता", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'राष्ट्रीय रंगमंच इस्ताना बुदाया का मुख्य प्रवेश द्वार, जिसमें फैली हुई सिरिह-जुंजुंग छत, सुनहरा कमल प्रतीक और नक्काशीदार लकड़ी के दरवाजों तक जाती चौड़ी सीढ़ियाँ हैं।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: पारंपरिक सरवाकी वेशभूषा में नर्तकों का एक समूह मंच पर दर्शकों के लिए एक लोकनृत्य प्रस्तुत करता हुआ
+    kind: actual
+    origin: third-party
+    subject: मलेशिया में एक सांस्कृतिक प्रदर्शन में पारंपरिक वेशभूषा में सरवाक लोकनृत्य प्रस्तुत करते कलाकार
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: मलेशिया के राष्ट्रीय संग्रहालय का अग्रभाग, एक इमारत जिसकी मिनांगकाबाउ नुकीली छत और बड़े टाइलदार भित्तिचित्र पैनल हैं
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में मलेशिया का राष्ट्रीय संग्रहालय (Muzium Negara), जिसकी मिनांगकाबाउ-शैली की छत और विरासत मोज़ेक भित्तिचित्र हैं
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 1971 में, [13 मई 1969 की घटना](/malaysia/13-may-1969) के लगभग दो वर्ष बाद, विद्वानों, कला-साधकों और नेताओं का एक समूह मलाया विश्वविद्यालय में एक बहु-जातीय राष्ट्र के लिए एक कठिन प्रश्न का उत्तर देने के लिए एकत्र हुआ: «राष्ट्रीय संस्कृति» से क्या आशय है? जो उत्तर उभरा — राष्ट्रीय सांस्कृतिक नीति (DKK) — वह आज तक एक नीति-संदर्भ बना हुआ है, और उतना ही, विवाद का विषय भी बना हुआ है।

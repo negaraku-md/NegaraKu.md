@@ -21,7 +21,7 @@ appliesTo: "マレー半島における、マレーの諸スルタン王朝が�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -73,6 +73,32 @@ faq:
   - q: ブジャン渓谷のチャンディ（candi、寺院）は、古代以来そのままの状態で残っているのですか?
     a: いいえ。今日見学できるチャンディの多くは、無傷のまま残った構造物ではなく、元の遺構に基づいて考古学者によって建て直された（再建された）ものです。チャンディ・ブキット・バトゥ・パハット（Candi Bukit Batu Pahat）は元の場所で再建された唯一の遺構であり、一方チャンディ・プンカラン・ブジャン（Candi Pengkalan Bujang）は現在、博物館の近くに建て直されています。マレーシア国立公文書館（Arkib Negara Malaysia）によると、これらのチャンディは紀元4世紀から12世紀の間に建てられたと推定されています。
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'ケダ州のブジャン渓谷（レンバ・ブジャン）遺跡にある、赤みがかったラテライトの石を積んだ修復された階段状の寺院基壇で、刈り込まれた芝生の上に置かれ、背後には鬱蒼とした緑のジャングルが広がっている。'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: 赤みを帯びたラテライトの切石で築かれた階段状の方形の寺院基壇が、木材と瓦でできた開放的な保護用の覆い屋の下、むき出しの地面に立っている。奥には緑の丘と森が見える。
+    kind: actual
+    origin: third-party
+    subject: ケダ州のブジャン渓谷遺跡群にある復元されたチャンディ（ヒンドゥー・仏教寺院の基壇）
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: 出土した4つの土器と釉薬をかけた陶磁器——背の高い黒っぽい注ぎ口付きの壺、丸い白い壺、小さな鉢2つ——が、照明の当たった博物館の展示ケース内の透明な台に並べられている。
+    kind: actual
+    origin: third-party
+    subject: ケダ州のブジャン渓谷で出土し、考古博物館に展示されている陶磁器
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 ジュライ山近くの平坦な土地に、水田と油ヤシ農園の間に、マラッカが港として存在するようになるより何世紀も前に積まれた古代の煉瓦が横たわっている。あるものはヒンドゥー教チャンディの基壇を成し、あるものは製鉄用の炉である。ここを治めたスルタンで、その名が今日知られている者は一人もいない——しかしチャンディと炉を築いた人々が残したものが、ブジャン渓谷を東南アジアで最も重要な考古遺跡の一つにしている。

@@ -20,7 +20,7 @@ keyTakeaways:
   - "NEP 13 मई 1969 की घटनाओं के बाद बनाई गई और 1991 में इसके बाद राष्ट्रीय विकास नीति (National Development Policy) आई"
 appliesTo: "वे पाठक जो नई आर्थिक नीति के प्रलेखित उद्देश्य, लक्ष्य और समय-सीमा उसी रूप में चाहते हैं जैसे वे आधिकारिक मलेशियाई योजना-पाठों में बताए गए हैं, न कि उसका कोई पक्षपातपूर्ण विवरण।"
 lang: "hi"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["नई आर्थिक नीति", "New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "समाज का पुनर्गठन", "गरीबी उन्मूलन", "राष्ट्रीय एकता", "30% बुमिपुत्र इक्विटी"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'गुलाबी गुंबद वाली पुत्र मस्जिद और भव्य पेरदाना पुत्र प्रशासनिक परिसर मलेशिया की उद्देश्य-निर्मित संघीय राजधानी पुत्रजया में एक शांत झील की ओर देखते हुए।'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: केबल-स्टेड सेरी वावासन ब्रिज का सफ़ेद, पाल के आकार का स्तंभ पुत्राजया झील के शांत जल के ऊपर उठता है, जिसके इस्पात के तार उसके डेक तक पंखे की तरह फैले हैं।
+    kind: actual
+    origin: third-party
+    subject: संघीय प्रशासनिक राजधानी में पुत्राजया झील पर सेरी वावासन ब्रिज
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: इस्फ़हान से प्रेरित पुत्रा ब्रिज पुत्राजया झील के आर-पार मेहराबनुमा फैला है, इसके टाइल जड़े मीनार जैसे स्तंभ और नुकीले मेहराब नीले आकाश के नीचे पानी में प्रतिबिंबित होते हैं।
+    kind: actual
+    origin: third-party
+    subject: संघीय प्रशासनिक राजधानी में पुत्राजया झील पर पुत्रा ब्रिज (जम्बातान पुत्रा)
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 नई आर्थिक नीति को आमतौर पर एक ही शब्द से स्मरण किया जाता है — "पुनर्गठन" — और तब से उस पर बहस होती रही है। लेकिन नीति ने अपने लक्ष्य स्वयं लिखित रूप में बताए, संसद में प्रस्तुत एक सरकारी योजना में, और वे लक्ष्य दो थे, एक नहीं, जिनके ऊपर एक तीसरा विचार विराजमान था। यह लेख बताता है कि दस्तावेज़ क्या कहते हैं, उसी क्रम में जिसमें दस्तावेज़ उसे कहते हैं।

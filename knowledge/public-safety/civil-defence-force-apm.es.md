@@ -30,7 +30,7 @@ faq:
     a: "La APM opera en virtud de la Ley de Defensa Civil de 1951 (Ley 221), que establece sus funciones en tiempos de paz y de guerra para proteger la vida y los bienes."
 
 lang: "es"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Fuerza de Defensa Civil de Malasia", "defensa civil", "auxilio de emergencia", "PASPA", "Akta 221", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'Un camión de rescate de la Fuerza de Defensa Civil de Malasia (Angkatan Pertahanan Awam Malaysia) con el emblema de la APM, con un voluntario uniformado a bordo, durante un desfile en Kuantan, Malasia.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: Una torre de vigilancia y rescate de playa de la Angkatan Pertahanan Awam (Fuerza de Defensa Civil) en la orilla de Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Torre de vigilancia y rescate de playa de la APM (Fuerza de Defensa Civil), Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: Una torre de socorrismo y rescate costero de la Fuerza de Defensa Civil con vistas a la playa abierta de Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Torre de socorrismo costero de la APM con vistas a la playa, Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 Cuando se producen grandes inundaciones o se derrumba un edificio, uno de los primeros equipos en llegar con botes, cuerdas y equipo de rescate suele ir con los uniformes naranjas de la APM. La Fuerza de Defensa Civil de Malasia (APM) es la columna vertebral del auxilio humanitario del país — presente antes, durante y después de una catástrofe.

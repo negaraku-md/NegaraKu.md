@@ -33,7 +33,7 @@ faq:
     a: "고주 사자춤은 화인 전통의 성사(醒獅) 풍습에서 비롯되었고, 일부 사자단은 사당에 두거나 사당의 이름을 따며, 장에 오르기 전 점정(點睛) 같은 전통 의례를 치르기도 합니다. 그러나 경기이자 공연으로서 오늘날에는 문화 활동이자 스포츠로 여겨지는 경우가 더 많고, 일부 현대 사자단은 훈련에서 종교색을 옅게 하기도 합니다. 이 글은 풍습과 스포츠 자체만을 서술하며 어떤 신앙에 대해서도 평가하지 않습니다."
 
 lang: "ko"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: '대회에서 높은 금속 기둥들 위 공중으로 도약하는 순간 포착된, 안에 두 공연자가 든 흰색과 금빛 사자춤 의상'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: 쿠알라룸푸르 거리의 관중 위로 높은 붉은 기둥에 올라앉은 흰색 사자춤 사자, 뒤로는 한자 상점 간판이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 쿠알라룸푸르 거리에서 관중 앞 매화 기둥 위에서 펼쳐지는 고공 사자춤
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: 화려하게 장식된 흰색 사자춤 머리와 몸체가 여러 개의 높은 기둥 꼭대기에 걸쳐 균형을 잡고 무대 조명 아래 정면을 향한 모습
+    kind: representative
+    origin: third-party
+    subject: 여러 개의 높은 매화 기둥에 걸쳐 웅크려 균형을 잡고 사자 머리를 카메라로 향한 흰색 경기용 사자
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 북소리가 조여들자, 사자가 공중으로 솟구쳐 앞발이 사발 전만큼 가느다란 강철 장 위에 단단히 내려앉고, 사자 꼬리가 곧바로 뒤따른다——두 명의 연기자가 지면에서 두세 미터 높이, 높낮이가 다른 한 줄의 장 사이를 넘나들며 정지한다. 관객이 숨을 죽인 가운데, '살아난' 듯한 그 사자가 가장 높은 장 하나 위에 단단히 서자, 비로소 박수가 터져 나온다. 이것은 평지에서 펼치는 새해맞이 사자춤이 아니라, 채점이 있고 챔피언이 있으며 세계 랭킹이 있는 경기——고주 사자춤이다.

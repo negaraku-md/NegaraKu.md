@@ -22,7 +22,7 @@ appliesTo: "Anyone who wants to understand the origins of early civilisation on 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,32 @@ faq:
   - q: Are the candi (temples) in Bujang Valley still in their original state from ancient times?
     a: No. Most of the candi that can be visited today have been rebuilt (reconstructed) by archaeologists based on the original ruins, rather than being structures that have remained intact. Candi Bukit Batu Pahat is the only ruin reconstructed on its original site, while Candi Pengkalan Bujang has now been rebuilt near the museum. According to the National Archives of Malaysia (Arkib Negara Malaysia), these candi are estimated to have been built between the fourth and twelfth centuries CE.
 framework: history-culture
+hero: '/media/malaysia/bujang-valley/hero.webp'
+heroAlt: 'A restored stepped stone temple base of reddish laterite blocks at the Bujang Valley archaeological site in Kedah, set on a trimmed lawn backed by thick green jungle.'
+heroCredit: 'Anandajoti Bhikkhu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: A stepped, square temple base built of reddish laterite blocks stands on bare earth beneath an open timber-and-tile protective shelter, with green hills and forest visible beyond.
+    kind: actual
+    origin: third-party
+    subject: A reconstructed candi (Hindu-Buddhist temple foundation) at the Bujang Valley archaeological complex, Kedah
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: Four excavated earthenware and glazed ceramic vessels, a tall dark spouted jar, a round white pot and two small bowls, displayed on clear stands in a lit museum case.
+    kind: actual
+    origin: third-party
+    subject: Ceramic vessels excavated at the Bujang Valley, Kedah, on display in the archaeological museum
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 On a flat plain near Gunung Jerai, among paddy fields and oil palm plantations, lie ancient bricks laid out centuries before Melaka existed as a port. Some of them form the base of Hindu temples. Others are iron-smelting furnaces. No sultan who ever ruled from here has a name known today — but what the society that built these temples and furnaces left behind makes the Bujang Valley one of the most important archaeological sites in Southeast Asia.

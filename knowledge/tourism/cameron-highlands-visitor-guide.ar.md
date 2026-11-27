@@ -31,7 +31,7 @@ faq:
     a: "هذه زيارات ثقافية مرشَدة إلى قرى السيماي، تتضمّن عادةً عرضًا للنفخ بالسهام وأحاديث عن سُبل العيش في الغابة. اذهب مع مرشد محلي موثوق، واستأذن قبل تصوير الناس، وتعامل معها بوصفها تبادلًا ثقافيًا محترمًا لا مشهدًا للتفرّج."
 
 lang: "ar"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,42 @@ wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["pahang"]
+related: ["pahang", "genting-highlands", "frasers-hill", "ipoh-and-the-kinta-valley"]
 keywords: ["مرتفعات كاميرون", "تانه راتا", "برينتشانغ", "رينغليت", "شاي BOH", "مزرعة الفراولة", "الأورانغ أسلي", "السيماي", "محطة جبلية", "باهانغ", "Cameron Highlands", "Tanah Rata", "Brinchang", "BOH tea", "Orang Asli", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'مخطّطو الرحلات الراغبون في استراحة بمناخ بارد في محطّة جبلية لمدة يومين إلى ثلاثة، مع اتخاذ Tanah Rata أو Brinchang مقرّاً، والجمع بين مزارع الشاي ومزارع الفراولة والزهور وزيارة مرشَدة لقرية Orang Asli أو مشي في Mossy Forest.'
+  getThere: 'لا مطار ولا سكة حديد يصلان إلى الهضبة — تصعد أو يُصعد بك برّاً من Tapah أو من جهة Raub/Kuala Lipis (ملتقاهما في Ringlet) أو من Simpang Pulai في الشمال، مع حافلات عامة تصعد من Tapah إلى Tanah Rata.'
+  permit: 'لا تصريح منتزه للدخول؛ وجولات مصنع مزارع الشاي BOH مجانية، بينما ينبغي أن تتم زيارات قرى Orang Asli عبر مرشد أو مشغّل محلي موثوق.'
+  watch: 'لا تعاملها كبلدة واحدة — فهي ثلاث مستوطنات ذات أدوار مختلفة — ولاحظ أن حدائق الشاي تُغلق أيام الإثنين بينما يتبدّل طقس الهضبة بسرعة، فقد تتغيّر خطط اليوم.'
+  next: 'تأكّد من ساعات الفتح الحالية وإغلاقات الإثنين مباشرةً مع كل موقع — الموقع الرسمي لـ BOH Plantations (bohtea.com) لحدائق الشاي، ومجلس مقاطعة Cameron Highlands (MDCH) لمعالم المزارع والحدائق.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'مدرّجات مزارع شاي خضراء زاهية متموّجة تغطّي تلال مرتفعات كاميرون تحت سماء زرقاء بغيوم'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: مسار ضيق يتعرّج بين أشجار ملتوية مكسوّة بالطحالب وجذورها في الغابة الطحلبية الضبابية بـ Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: مسار عبر الأشجار المكسوّة بالطحالب في الغابة الطحلبية بـ Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: أحواض مرتفعة طويلة من نباتات الفراولة تحمل ثماراً حمراء ناضجة داخل بيت زجاجي في مزرعة فراولة بـ Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: صفوف من نباتات الفراولة في بيت زجاجي بمزرعة فراولة في Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 انزل من الحافلة في تانه راتا وأوّل ما تلاحظه هو أنفاسك ذاتها — فالهواء بارد بما يكفي لأن تصبح السترة الصوفية غير مستغرَبة، حتى عند خط الاستواء. وذلك هو جوهر مرتفعات كاميرون: شريحة من ريف جبلي معتدل تتكوّم فوق ماليزيا المدارية، حيث ينمو الشاي أخضر منتظمًا كأنه قماش مضلّع على التلال وتنضج الفراولة في أنفاق بلاستيكية على جوانب الطرق.

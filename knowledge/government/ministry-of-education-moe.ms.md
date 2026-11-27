@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,9 +82,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'Sebuah menara kerajaan perang simetri yang megah bergaya Moor-Islam dengan menara bermercu dan ruang tengah bergerbang tinggi, perkataan KEMENTERIAN PENDIDIKAN MALAYSIA di atas pintu masuknya, diapit sayap bangunan yang lebih rendah di bawah langit berawan'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: Pandangan dekat anjung pintu masuk bergerbang bangunan Kementerian Pendidikan, dengan tulisan biru KEMENTERIAN PENDIDIKAN MALAYSIA dan jata negara berwarna emas di atas pintu, serta bendera Malaysia dan negeri berkibar pada tiang
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama ibu pejabat Kementerian Pendidikan Malaysia, Putrajaya, dengan papan tanda KEMENTERIAN PENDIDIKAN MALAYSIA dan jata negara
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: Fasad berperingkat lengkap ibu pejabat Kementerian Pendidikan Malaysia dilihat dari jalan masuk, dengan menara tengahnya yang berukir dan sayap simetri berbaris bendera Malaysia di atas tempat letak kereta di bawah langit cerah berawan
+    kind: actual
+    origin: third-party
+    subject: Pandangan hadapan luas kompleks ibu pejabat Kementerian Pendidikan Malaysia dari jalan masuk, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 Jika ia melibatkan seorang anak sekolah Malaysia — kurikulum yang mereka pelajari, buku teks di atas meja mereka, peperiksaan kebangsaan yang mereka duduki, atau guru sekolah awam di hadapan kelas — ia terletak di bawah Kementerian Pendidikan. Dikenali sebagai **Kementerian Pendidikan Malaysia** dan hampir selalu dipendekkan kepada **KPM**, ia ialah kementerian persekutuan yang menjalankan sistem pendidikan pra-tertiari negara. Apa yang *tidak* dijalankannya ialah universiti — satu sempadan yang sering mengelirukan ramai orang.

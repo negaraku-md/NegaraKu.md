@@ -30,7 +30,7 @@ faq:
     a: "是的。马来文是 UEC 系统中的必修科目。许多 UEC 学生也以私人考生身份报考 SPM；董总报告称，2022至2024年华文独中学生的 SPM 马来文及格率超过96%（2022年为97.38%，2023年为97.11%，2024年为96.65%），采用的是与其他考生相同的 SPM 试卷。"
 
 lang: "zh"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "public-vs-private-universities", "chinese-education-in-malaysia", "foreign-university-branch-campuses-and-education-hubs"]
 keywords: ["UEC", "Sijil Peperiksaan Bersama", "Dong Zong", "sekolah menengah persendirian Cina", "pengiktirafan UEC", "IPTA", "bahasa kebangsaan"]
 framework: explainer
+hero: '/media/education/unified-examination-certificate-uec/hero.webp'
+heroAlt: '斗湖沙巴中华中学（Sekolah Tinggi Cina Sabah）的入口招牌和校园，这是一所华文独立中学，其学生应考统一考试（统考）。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: 新山宽柔中学（Sekolah Menengah Foon Yew，寬柔中學）的入口拱门与校名牌，旁有柔佛州旗与校徽。
+    kind: actual
+    origin: third-party
+    subject: 宽柔中学，新山的一所华文独立中学
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: 新山宽柔中学多层的图书馆大楼（Perpustakaan），铺砖门廊上方以马来文和中文标示名称。
+    kind: actual
+    origin: third-party
+    subject: 宽柔中学的图书馆大楼
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 三个字母——UEC——足以在马来西亚教育政治中掀起一场延续了半个多世纪的争论。对某些人而言，它是一份国际水准的文凭，为进入世界顶尖大学打开大门；对另一些人而言，它触及国语地位与国家教育政策。这两种观点同时存在，而要看清全貌，两者都必须加以理解。

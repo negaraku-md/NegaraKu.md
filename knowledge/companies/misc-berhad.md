@@ -65,6 +65,24 @@ relations:
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
 framework: profile
+hero: '/media/companies/misc-berhad/hero.webp'
+heroAlt: 'A large black-hulled LNG carrier with a red lower hull, her bow lettered ''SERI AYU'' and the word ''LNG'' along the side, moored at a quay dressed with signal flags, with a man in a shirt and tie standing on a red-carpet dais in the foreground'
+heroCredit: 'Emran Kassim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: An aerial view of a concrete jetty on turquoise water carrying rows of tall grey marine loading arms and pipework, with mooring dolphins in the foreground and a port with cranes and storage tanks on the far shore
+    kind: representative
+    origin: third-party
+    subject: marine loading arms at the LNG export terminal in Bintulu, Sarawak, where carriers like MISC's load Malaysian liquefied natural gas
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad is the maritime arm of Malaysia's energy economy — the group that moves the nation's gas and oil across the world's oceans.

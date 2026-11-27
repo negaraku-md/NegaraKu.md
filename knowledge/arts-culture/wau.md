@@ -83,6 +83,34 @@ related: ["batik", "wayang-kulit", "kelantan"]
 entity: "Wau"
 keywords: ["wau", "wau bulan", "layang-layang tradisional", "kraf Kelantan", "Adiguru Kraf wau"]
 framework: history-culture
+hero: '/media/arts-culture/wau/hero.webp'
+heroAlt: 'Sebuah wau bulan besar berhias halus dipasang pada dinding pucat, badan berbentuk bulan sabitnya yang lebar disaluti corak bunga foil emas, merah jambu dan biru berkilauan dengan jambul berumbai di bahagian atas dan label tertulis WAU BULAN di bawahnya'
+heroCredit: 'D.W. Fisher-Freberg / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wau_bulan_Pasir_Gudang.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a large decorated wau bulan (crescent moon kite) displayed at the Pasir Gudang Kites Museum'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wau/body-1.webp
+    alt: Pandangan makro permukaan wau menunjukkan motif bunga dan daun yang dipotong tangan dalam kerajang biru kehijauan berkilau dan emas yang dibingkai hitam dengan latar kertas gelap, dengan sekuntum bunga magenta di bahagian bawah kanan
+    kind: actual
+    origin: third-party
+    subject: pandangan dekat hiasan bunga daripada kertas potong dan kerajang yang rumit pada sebuah wau Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wau_design_close-up.JPG
+  - role: scene
+    src: /media/arts-culture/wau/body-2.webp
+    alt: Di dalam sebuah bengkel kayu, beberapa panel wau yang siap bercorak kerajang merah jambu, emas dan biru kehijauan tergantung di sebelah rangka wau buluh yang langsing bertali tegang, dengan pembuatnya kelihatan sebahagian di meja di latar belakang
+    kind: actual
+    origin: third-party
+    subject: badan wau yang siap dan rangka wau buluh kosong di dalam bengkel pembuat wau
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Finished_wau_and_wau_frame.JPG
 ---
 
 Sebelum anda nampak wau itu, anda dengar dahulu. Sebuah wau tradisional yang dibuat betul-betul akan berdengung sepanjang masa ia di udara — bukan bunyi angin, tetapi nada yang sengaja direka masuk ke dalam binaannya.

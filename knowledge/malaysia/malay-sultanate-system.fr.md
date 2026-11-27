@@ -19,7 +19,7 @@ keyTakeaways:
   - "L'institution du sultanat se perpétue dans la Constitution à travers les neuf souverains malais, la Conférence des souverains et le Yang di-Pertuan Agong"
 appliesTo: "Toute personne souhaitant comprendre la structure et le rôle de l'institution traditionnelle du sultanat malais et la manière dont elle se rattache au système actuel de monarchie constitutionnelle."
 lang: "fr"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'Un palais malais traditionnel en bois, aux murs de bambou tressé, aux toits de tuiles en forte pente et aux pignons sculptés, se dresse sous un ciel lumineux.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: Le pavillon d'entrée cérémoniel orné à coupole dorée de l'Istana Negara, portant l'inscription « Istana Negara », se dresse en plein jour, avec les bâtiments à coupoles dorées du palais sur la colline verdoyante en arrière-plan et la silhouette de Kuala Lumpur au-delà.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, le palais national sur Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: Un long keris malais cérémoniel repose à côté de son fourreau élancé sur une surface de musée, avec une étiquette imprimée indiquant « Keris Alang Pahang ».
+    kind: actual
+    origin: third-party
+    subject: Le Keris Alang de Pahang, un keris royal cérémoniel d'autorité
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Imaginez un État sans archives, sans formulaires, sans départements numérotés. Les ordres se transmettaient de bouche à oreille, la justice se prononçait au balairung, et tout l'ordre de la société reposait sur un seul mot qui ne peut être traduit précisément dans le langage moderne : *daulat*. C'était là le monde du sultanat malais — un système qui a ordonné des milliers de vies le long des côtes et des rivières pendant des siècles, et dont l'ombre est encore visible aujourd'hui dans la Constitution de la Malaisie.

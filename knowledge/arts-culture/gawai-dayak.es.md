@@ -35,7 +35,7 @@ faq:
     a: "Son festivales distintos con un tema compartido. El Gawai Dayak es el festival dayak de la cosecha de Sarawak, celebrado el 1 y 2 de junio. El Kaamatan es el festival de la cosecha kadazandusun de Sabah, celebrado el 30 y 31 de mayo. Ambos dan gracias por la cosecha de arroz, pero las comunidades, los rituales y las fechas difieren."
 
 lang: "es"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "Cada año, el 1 y el 2 de junio; la observancia comienza la noche del 31 de mayo, y la temporada más amplia de Gawai se cierra formalmente con el ngiling tikai («enrollar la estera») hacia finales de junio."
   holiday: "Fiesta pública en el estado de Sarawak (publicada en el boletín oficial el 25 de septiembre de 1964)."
   etiquette: "La puerta de la casa comunal se abre de par en par: la hospitalidad hacia familiares, vecinos e invitados que acuden de visita forma parte de la fiesta; un saludo habitual es «Gayu Guru, Gerai Nyamai» (larga vida, salud, prosperidad) o «Selamat Hari Gawai». Es ante todo una celebración familiar y de la casa comunal, no un espectáculo turístico."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'Un bailarín guerrero iban con tocado de plumas de cálao y chaleco de piel ejecutando la danza ngajat en un escenario con un fondo de mural tradicional dayak'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: Bailarines iban y orang ulu con elaborados tocados de plata, abalorios y coronas de plumas durante el desfile de Gawai Dayak en Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Bailarines dayak con atuendo completo en el desfile de Gawai Dayak en Kuching
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: La larga galería comunal de madera (ruai) dentro de una casa larga iban en Sarawak, donde se celebra el Gawai Dayak
+    kind: actual
+    origin: third-party
+    subject: La galería comunal de una casa larga iban en Sarawak
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 El reloj aún no ha dado la medianoche del último día de mayo, y en una casa comunal en algún punto a lo largo de un río de Sarawak el gong espera. El arroz ya está recogido. La galería ha sido barrida y colgada con esteras nuevas. Una jarra de tuak aguarda lista. Cuando el gong suene por fin, el jefe de la casa comunal alzará una copa, y todos a lo largo del extenso porche comunal brindarán por las mismas tres palabras: larga vida, salud, prosperidad.

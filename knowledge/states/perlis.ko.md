@@ -35,7 +35,7 @@ verificationNeeded:
   - "펄리스 내륙항(Perlis Inland Port) 배정액(기반 시설 RM3억1,800만, 민간 투자 RM12억)과 여섯 개 행정 구역을 mkn.gov.my 접속이 가능해지면 MKN에 대조하여 재확인; 최근 재확인 시 사이트가 다운되어 이 수치는 원래 2026-07-24 확인에 근거함."
 
 lang: "ko"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -105,9 +105,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "majlis-raja-raja" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: '캉가르 인근 넓고 구름 낀 하늘 아래, 황금빛 풀 이삭과 푸른 논이 평평한 지평선까지 펼쳐져 있다.'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: 프를리스주 카키부킷 인근에서 공중에 매달린 목재 산책로가 구아 끌람의 석회암 터널을 누비며 이어진다.
+    kind: actual
+    origin: third-party
+    subject: 프를리스주 구아 끌람(Gua Kelam) 산책로
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: 랑카위행 배가 드나드는 본토 관문인 쿠알라프를리스의 페리 터미널이 믈라카 해협 곁에 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 프를리스주 쿠알라프를리스 페리 터미널
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 거의 모든 말레이시아인이 한 번쯤 잘못 답해 본 질문이 있습니다: 펄리스의 술탄은 누구인가?

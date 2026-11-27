@@ -34,7 +34,7 @@ faq:
     a: "PETRA (the Ministry of Energy Transition and Water Transformation) is the ministry that formulates national energy and water policy and drives the transition toward net-zero emissions by 2050. The Energy Commission is the statutory regulatory body under PETRA that licenses, sets tariffs and enforces the laws governing electricity and gas supply."
 
 lang: "en"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'An aerial view of a coastal coal-fired power station with chimney stacks and jetties extending into the sea.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: A gas-fired power station with turbine halls, metal exhaust stacks and a fenced switchyard of transformers and steel gantries, set on cleared ground with forested hills and a bright sky behind
+    kind: actual
+    origin: third-party
+    subject: the Rugading power station near Kota Kinabalu, Sabah, a gas-fired generating plant feeding the Sabah grid
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: A coastal power station with low industrial buildings, metal ducting and a tall chimney stack behind a boundary fence, with palms and open ground nearby under a hazy sky
+    kind: actual
+    origin: third-party
+    subject: the Tanjung Kling power station on the coast of Melaka, part of Peninsular Malaysia's generating fleet
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 Flick a light switch in Kuala Lumpur, fill up on RON95 in Ipoh, or fit solar

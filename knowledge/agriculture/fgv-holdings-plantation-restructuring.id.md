@@ -32,7 +32,7 @@ faq:
     a: "FGV adalah agrobisnis terpadu yang mencakup perkebunan (kelapa sawit, karet dan energi terbarukan), minyak dan lemak, gula, logistik dan layanan pendukung, serta produk konsumen. Menurut pernyataannya sendiri, ia menyumbang sekitar 3% dari produksi minyak sawit mentah global."
 
 lang: "id"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Kebun kelapa sawit dewasa mendaki lereng bukit dengan jalan kebun, Distrik Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: Kompleks pabrik minyak sawit (gudang biru + cerobong berasap) di tengah perbukitan kelapa sawit — sisi pemrosesan bisnis. Tanpa orang.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: Truk jungkit penuh muatan tandan buah segar (TBS) di gerbang pabrik ('Kilang Apas Balung') — sisi panen/logistik. Hanya ada satu pekerja kecil tak teridentifikasi di tepi bingkai.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 Pada 2012 ia menjadi buah bibir pasar — sebuah pencatatan mega yang sesaat menduduki tempat kedua di dunia di belakang Facebook. Tiga belas tahun kemudian perusahaan yang sama menyelinap keluar dengan diam-diam dari Bursa Malaysia pada sebagian kecil harga perdananya, dibeli kembali oleh lembaga yang pernah mencatatkannya.

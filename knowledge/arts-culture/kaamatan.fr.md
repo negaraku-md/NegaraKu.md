@@ -33,7 +33,7 @@ faq:
     a: "Le Magavau est un rituel d'action de grâce visant à honorer et à «rappeler à la maison» l'esprit du riz, Bambaazon, après la récolte. Il est traditionnellement conduit par une bobohizan (aussi orthographié bobolian), une prêtresse qui récite des incantations rituelles. C'est l'un des éléments cérémoniels les plus anciens du Kaamatan."
 
 lang: "fr"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Les 30 et 31 mai, les célébrations se déroulant une grande partie du mois de mai district par district avant la finale à l'échelle de l'État lors de ces deux jours."
   holiday: "Jour férié dans l'État du Sabah et le territoire fédéral de Labuan les 30 et 31 mai ; ce n'est pas un jour férié à l'échelle nationale."
   etiquette: "Il convient de comprendre l'Unduk Ngadau comme un concours culturel honorant la légende de Huminodun, et non comme un concours de beauté ordinaire, et de traiter la croyance en Bambaazon et la légende de Huminodun avec respect, comme la tradition propre à la communauté plutôt que comme un fait avéré."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Des prêtres et prêtresses bobohizan kadazan-dusun en costume traditionnel noir et or exécutant un rituel du Kaamatan sur une scène étoilée à Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: La gagnante de l'Unduk Ngadau couronnée parmi six finalistes en costume traditionnel kadazan-dusun noir et or sur scène lors de la fête Kaamatan à Penampang, dans le Sabah
+    kind: actual
+    origin: third-party
+    subject: La gagnante de l'Unduk Ngadau et les finalistes au concours de la fête Kaamatan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: De jeunes danseurs kadazan-dusun en costume noir aux parements rouges et argentés exécutant une danse traditionnelle avec des gongs lors d'une fête des moissons Kaamatan dans le Sabah
+    kind: actual
+    origin: third-party
+    subject: De jeunes Kadazan-Dusun exécutant une danse de la fête des moissons avec des gongs
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 La fête tire son nom d'une seule idée : la moisson. *Kaamatan* signifie exactement cela dans la langue kadazandusun, et tout le reste de la célébration — le rituel, le vin de riz, le concours couronné lors de la dernière soirée — découle de ce seul geste : rentrer le riz.

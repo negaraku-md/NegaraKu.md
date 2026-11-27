@@ -33,7 +33,7 @@ faq:
     a: "Ambos tipos pueden estar aprobados para aceptar estudiantes internacionales, pero se sitúan bajo partes distintas del marco del Pase de Estudiante y típicamente difieren en qué programas y capacidad de admisión están abiertos a solicitantes extranjeros frente a los nacionales. Confirme directamente con la oficina internacional de la institución cuál de sus programas de interés está abierto a la matrícula de no ciudadanos antes de solicitar."
 
 lang: "es"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,38 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Esto es para un futuro estudiante internacional que elige una institución y un programa en Malasia antes de aceptar una oferta e iniciar el trámite del visado de estudiante.'
+  how: 'Supera primero dos puertas distintas: que el programa esté acreditado por la Agencia de Cualificaciones de Malasia (MQA) en el Registro de Cualificaciones de Malasia (MQR), y que la propia institución esté autorizada por el Ministerio de Educación Superior (MOHE) para matricular a estudiantes extranjeros. Solo una carta de oferta firmada por una institución así activa el Pase de Estudiante (Student Pass), que tramita la institución —no tú— ante Education Malaysia Global Services (EMGS).'
+  cost: 'Las tasas de matrícula varían mucho según la institución y el programa, y el Pase de Estudiante conlleva cargos aparte de la EMGS y del visado que se revisan con el tiempo, así que confirma las cifras actuales con la institución y con el portal de la EMGS (educationmalaysia.gov.my) en lugar de fiarte de una cantidad citada.'
+  watch: 'La acreditación del programa por la MQA y la autorización de la institución para admitir estudiantes extranjeros son dos comprobaciones distintas: un programa plenamente acreditado puede estar en una institución que no tenga permiso para matricularte. La docencia en inglés no sustituye a la prueba de competencia en inglés que la EMGS exige por separado.'
+  next: 'Confirma ambas puertas por escrito con la oficina internacional de la institución, acepta la oferta y luego sigue el proceso del Pase de Estudiante a través de la EMGS. Consulta el artículo sobre el Pase de Estudiante, Estudiar en Malasia y la explicación sobre la acreditación de la MQA.'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'La entrada del campus de Monash University Malaysia, con un letrero de pasillo cubierto que dice "MONASH University" uniendo dos bloques académicos beige mediante una pasarela de cristal.'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: La entrada principal señalizada y orlada de vegetación de la University of Nottingham Malaysia, una sede británica que matricula a numerosos estudiantes internacionales.
+    kind: actual
+    origin: third-party
+    subject: Entrada principal de la University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: El sol de la tarde sobre el edificio principal con columnata de la Xiamen University Malaysia, una sede china cerca de Kuala Lumpur que atrae a estudiantes del extranjero.
+    kind: actual
+    origin: third-party
+    subject: Campus de la Xiamen University Malaysia, Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 Una carta de oferta del tipo equivocado de institución no sirve de nada para una visa, aunque el programa en sí esté perfectamente acreditado. Esa distinción — programa acreditado frente a institución aprobada para estudiantes internacionales — es donde empieza la mayor parte de la confusión, mucho antes de que alguien rellene un formulario de EMGS.

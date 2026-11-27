@@ -87,6 +87,14 @@ drinkFacts:
   halal: "Waralaba Malaysia besar memegang sertifikasi halal JAKIM — Chatime Malaysia memperolehnya, dan JAKIM secara publik memastikan Tealive halal pada 2019 — yang membantu menjadikan bubble tea minuman yang dinikmati lintas komunitas. Jaminan halal melekat pada tempat usaha bersertifikat tertentu, jadi periksa sertifikat yang dipajang tiap kedai alih-alih mengasumsikan semua bubble tea bersertifikat."
   served: "Disajikan dingin di atas es (versi panas ada) dari toko waralaba khusus dan kios mal, bukan kopitiam tradisional. Bisa disesuaikan di konter: pilih tingkat gula (misalnya 50%, 'kurang manis'), tingkat es, dan topping. Pearls-nya diseruput melalui sedotan gemuk khasnya."
   where: "Ditemukan di waralaba bubble tea khusus (Tealive, Chatime, dan banyak lainnya) di mal, jalan utama, dan drive-through di seluruh negeri — minuman modern perkotaan yang berbeda dari klasik kopitiam."
+hero: "/media/food/bubble-tea/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Gelas tinggi teh susu dengan lapisan tebal mutiara tapioka hitam di dasarnya"
+heroCredit: "Battlesnake1 / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+wikidata: "Q715858"
 ---
 
 Berjalanlah melintasi mal Malaysia mana pun dan Anda akan melewatinya dalam hitungan

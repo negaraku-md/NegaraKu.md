@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "479d1b3f589a9b53"
+sourceContentHash: "5e7acf91bafcfc99"
 
 status: "published"
 aiAssisted: true
@@ -77,9 +77,37 @@ relations:
   - { rel: "related-to", to: "electrical-electronics-industry-overview" }
   - { rel: "related-to", to: "automotive-industry-overview" }
   - { rel: "administered-by", to: "mida" }
-related: []
+related: ["aerospace-industry", "construction-industry", "malaysia-free-trade-agreements"]
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: '明るい工場照明と頭上のコンベヤーの下、車体が列をなす近代的な自動車組立ライン'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: 工場の自動化された生産ラインで、黄色のクレートをパレタイズする複数のオレンジ色のロボットアーム
+    kind: representative
+    origin: third-party
+    subject: 自動化された工場ラインで包装食品をパレタイズするオレンジ色の産業用ロボットアーム
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: 白い全身スーツ、マスク、手袋を着用した技術者が、明るいタイル張りのクリーンルームで精密金属部品を作業する様子
+    kind: representative
+    origin: third-party
+    subject: 白いカバーオールを着た技術者が、ハイテクなクリーンルーム内で精密機器を組み立てる様子
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 「マレーシアの工場」と言われて多くの人が思い浮かべるのは、ペナンの半導体クリーンルームか、シャー・アラムのProtonの生産ラインだろう。どちらも実在し、規模も大きい——しかしそれらは、はるかに広い産業基盤の上に成り立っているにすぎない。2024年、産業全体でRM1.9兆の売上を動かし、およそ240万人の雇用を維持しており、そのかなりの部分は機械、プラスチック、ゴム、医療機器、化学、そしてスーパーの棚に並ぶ食品から生まれている。

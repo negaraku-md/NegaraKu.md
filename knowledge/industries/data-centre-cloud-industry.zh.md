@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: '一排排闪烁着蓝色状态灯的服务器机架填满了数据中心的通道。'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: 一座大型数据中心机房内，一排排服务器与设备机架排列整齐，并设有规整的冷通道封闭系统。
+    kind: representative
+    origin: third-party
+    subject: 排列着成排设备机架的数据中心机房
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: 数据中心部署中，密集成束的网络线缆穿行于服务器机架背部。
+    kind: representative
+    origin: third-party
+    subject: 数据中心服务器机架背后的网络布线
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 2019年，新加坡停止批准大型新数据中心。四年之内，它拒之门外的服务器在长堤对岸二十分钟车程处建起了一个新产业——柔佛也从一个安静的马来西亚州属，变成了东南亚最繁忙的数据中心市场。

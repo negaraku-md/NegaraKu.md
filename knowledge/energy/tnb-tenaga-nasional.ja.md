@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 
 status: "archived"
 aiAssisted: true
@@ -76,8 +76,34 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "sabah-electricity" }
   - { rel: "related-to", to: "khazanah-nasional" }
-related: ["khazanah-nasional"]
+related: ["khazanah", "tenaga-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: 'マレーシアにある、密集した高圧送電鉄塔の群れの背後に煙突がそびえる火力発電所。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: 外壁にTenaga Nasionalの名称とロゴを掲げたTNBブランドのオフィスビル。前面には緑地の造園と駐車場があり、青空が広がる
+    kind: actual
+    origin: third-party
+    subject: ケダ州アロースターのテナガ・ナショナル(TNB)のオフィス。国営電力会社の州サービス施設の一つ
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: 高圧ケーブルを張った鋼製鉄塔が、長い道路橋に沿って広い海峡を横切って連なり、遠くに島と本土の丘が見える
+    kind: actual
+    origin: third-party
+    subject: ペナン大橋に沿ってガザンボ島へと海峡を横切るTNBの高圧送電鉄塔
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 マレーシア半島の住宅、工場、データセンターで明かりがつくたびに、その電子は十中八九、一社だけが所有する電力網を通って流れている——Tenaga Nasional Berhadである。同社は単なる発電事業者ではなく、発電所から壁の電力メーターに至るまで、国家エネルギーシステムの背骨をなす存在である。

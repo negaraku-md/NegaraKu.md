@@ -41,7 +41,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 
 status: "published"
 aiAssisted: true
@@ -100,6 +100,34 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: '暗い台の上に置かれた儀礼用のマレーのクリス。波打つ鋼の刃と根元には彫刻された象牙色の柄の下に金の花模様のコフトガリ細工が施され、下に対になる銀の浮き彫りの木製の鞘が置かれている'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: 暗い博物館の展示ケースに直立して並ぶ数本の王室クリス。長く彫刻が施された銀の鞘の上部には精巧に鋳造された鳥頭の柄があり、金属細工が影の背景に輝くよう照らされている
+    kind: actual
+    origin: third-party
+    subject: ジョホール・リアウ王国に関連する、精緻な銀製の鳥頭の柄を持つ王室マレー・クリスのコレクション
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: 直刃の儀礼用クリスが、黒い彫刻の柄を備え、淡い色の面の上で細長い木製の鞘の傍らに横たえられており、その下に「KERIS ALANG PAHANG」と記された博物館の説明カードが置かれている
+    kind: actual
+    origin: third-party
+    subject: 首長の権威を示す儀礼用クリス、パハンのクリス・アラン。木製の鞘の傍らに横たえられている
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 炎の舌のようにぎざぎざとした刃――鉄とニッケルを幾百回も折り重ねて打ち延ばした、エンプ（empu、熟練の鍛冶職人）の手による一振り。クリス（keris、短剣）は単なる武器ではなく、マレー文明の脈動そのものである。それは戦士の腰に差され、王室の儀式で高く掲げられ、一族の家宝として代々受け継がれてきた。今日に至るまで、クリスは主権と勇気、そして民族のアイデンティティの象徴であり続けている。

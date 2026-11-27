@@ -19,7 +19,7 @@ keyTakeaways:
   - "El kebaya, central en la vestimenta nyonya, fue inscrito en la lista del patrimonio inmaterial de la UNESCO en 2024 en una candidatura conjunta de Brunei, Indonesia, Malasia, Singapur y Tailandia"
 appliesTo: "Cualquier persona que busque una visión general, factual y respetuosa de quiénes son los peranakan (baba-nyonya) y de cómo reconocer su cocina, su vestimenta y su patrimonio material en Melaka y Penang."
 lang: "es"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'Una sala de recepción peranakan en el Museo del Patrimonio Baba Nyonya en Melaka, con biombos de madera negra tallada y dorada, muebles con incrustaciones de nácar, una mesa redonda con tablero de mármol y paneles pintados de pájaros y flores en las paredes.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: La fachada superior de una casa-tienda Peranakan en Malaca, con contraventanas de láminas de color turquesa en arco, relieves moldeados y una franja de azulejos vidriados.
+    kind: actual
+    origin: third-party
+    subject: Fachada de casa-tienda de estilo Peranakan, Malaca
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: Un cuenco de té de porcelana Peranakan y su tapa, pintados con peonías rosadas y aves fénix sobre fondo blanco, expuestos en una vitrina.
+    kind: representative
+    origin: third-party
+    subject: Porcelana de té Peranakan (nyonyaware) con motivos florales y de aves
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 Entre en una vieja casa urbana de la calle Heeren de Melaka y la historia se cuenta con objetos antes de que nadie diga una palabra. Una blusa de encaje ceñida, prendida al frente con un broche de oro de tres piezas. Un par de zapatillas cuyas punteras están cubiertas de miles de diminutas cuentas de vidrio, cada una cosida a mano. Una larga mesa con tablero de mármol dispuesta para una comida que no es ni del todo china ni del todo malaya. Todo esto pertenece a los peranakan —los baba-nyonya—, una comunidad que hizo una cultura de vivir entre dos mundos.

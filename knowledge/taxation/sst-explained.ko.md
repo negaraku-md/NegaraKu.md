@@ -60,6 +60,12 @@ relations:
 related: ["sales-tax-explained", "sst-registration", "sst-rate-table", "sst-02-filing", "sst-b2b-exemption", "sst-expansion-2025", "imported-taxable-services"]
 keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan perkhidmatan", "SST registration threshold", "MySST"]
 framework: explainer
+stayFacts:
+  who: 'SST 제도의 어느 부분이, 있다면, 자신에게 적용되는지 파악하려는 말레이시아의 사업주와 재무 담당자.'
+  how: 'SST는 하나의 세금이 아니라 서로 무관한 두 개의 단단계(single-stage) 세금입니다: 말레이시아에서 제조되거나 수입되는 과세 재화에 부과되는 판매세(sales tax, Sales Tax Act 2018)와, 말레이시아에서 제공되는 규정된 과세 서비스에 부과되는 서비스세(service tax, Service Tax Act 2018)입니다. 먼저 당신이 등록되어 있는지가 아니라 어느 것이 적용되는지를 파악하세요: 판매세는 등록된 제조업자와 수입 시 세관(Customs)이 부과하고, 서비스세는 규정된 그룹에 속한 등록 서비스 제공자가 부과합니다. 대부분의 사업자는 둘 중 하나만 상대하게 되며, 각각 고유한 등록 요건이 있습니다. 말레이시아 밖의 공급자로부터 서비스를 구매하는 경우(수입 과세 서비스)에는 SST에 등록되어 있지 않더라도 납세 의무가 생길 수 있다는 점에 유의하세요.'
+  cost: '해당 기사는 단일한 SST 세율이나 단일한 SST 기준을 제시하지 않습니다: 세율은 재화 분류(판매세)나 서비스 그룹(서비스세)별로 정해지고, 기준은 그룹마다 다릅니다. 어떤 수치에도 의존하기 전에 당신의 특정 재화나 서비스에 대한 현행 세율과 등록 기준을 RMCD(세관)나 MySST 포털에서 확인하세요. 이들은 가장 낡기 쉬운 SST 정보이며 여러 그룹에 대해 2025년에 재설정되었습니다.'
+  watch: 'SST는 이름만 다른 GST가 아닙니다. 두 세금 모두 일반적인 매입세액 공제를 제공하지 않으므로, 매입세액 공제를 좇는 것은 헛된 노력입니다. 하나의 세율과 하나의 기준이 전반에 적용된다고 단정하지 말고, 미등록 상태라고 해서 노출이 없다고 단정하지 마세요: 수입 과세 서비스에 대한 서비스세는 그러한 서비스를 취득하는 모든 사업자에게 기준금액 없이 적용되며, 이것이 말레이시아 소기업에서 가장 흔히 놓치는 SST 납세 의무입니다.'
+  next: '먼저 SST 등록 안내로 시작해 애초에 당신이 적용 대상인지 확인하세요. 그 답이 나머지 모든 것을 결정하기 때문입니다. 이미 등록되어 있다는 것을 안다면 서비스 그룹 세율·기준 참고 자료로 가세요. 등록 여부, 현행 세율, 기준은 MySST 포털(mysst.customs.gov.my)을 통해 RMCD(Royal Malaysian Customs Department, 말레이시아 관세청)에 확인하세요.'
 ---
 
 SST는 어디서나 "GST 대체 세금"으로 설명되지만, 이는 SST에 대해 할 수 있는

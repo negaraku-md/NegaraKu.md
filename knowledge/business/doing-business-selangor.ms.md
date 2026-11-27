@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "45a4dcba0cb44c75"
+sourceContentHash: "d3b9d6c85b738b83"
 
 status: "published"
 aiAssisted: true
@@ -116,6 +116,33 @@ keywords:
   - "Selangor council licensing"
   - "Port Klang TEU"
 framework: profile
+hero: '/media/business/doing-business-selangor/hero.webp'
+heroAlt: 'Barisan kren gantri ship-to-shore biru tinggi memunggah kapal kontena di Northport di Pelabuhan Klang, dengan kontena bertimbun dan sebuah trak kontena di jalan wharf'
+heroCredit: 'Hafiz343 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: Menara pejabat Wisma MBSA yang tinggi dan bersegi di sebelah bangunan Dataran Shah Alam berkubah biru di bawah langit biru cerah di Shah Alam, Selangor
+    kind: actual
+    origin: third-party
+    subject: Menara pejabat Wisma MBSA dan Dataran Shah Alam di teras komersial dan pentadbiran ibu negeri Selangor
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: Sebuah bangunan pejabat komersial kaca dan putih berbilang tingkat dengan tingkap bergerbang tinggi di Mentari Business Park di Selangor, dilihat dari tepi jalan
+    kind: actual
+    origin: third-party
+    subject: Sebuah blok pejabat komersial di Mentari Business Park di Bandar Sunway, sebahagian daripada kawasan taman perniagaan Selangor yang padat
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 Kuala Lumpur mempunyai satu pihak berkuasa pelesenan. Selangor, yang mengelilinginya,

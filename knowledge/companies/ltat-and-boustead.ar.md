@@ -83,7 +83,7 @@ wikidata: "Q12695818"
 relations:
   - { rel: "related-to", to: "boustead-holdings" }
   - { rel: "related-to", to: "government-linked-companies" }
-related: []
+related: ["kwap", "glc-dominance-malaysian-economy", "epf-as-an-institution"]
 keywords: ["LTAT", "مجلس صندوق القوات المسلحة", "Lembaga Tabung Angkatan Tentera", "Boustead Holdings", "بورستيد هولدينغز", "Project Earth", "القوات المسلحة الماليزية", "GLC", "توزيعات الأرباح", "Pharmaniaga"]
 framework: profile
 ---

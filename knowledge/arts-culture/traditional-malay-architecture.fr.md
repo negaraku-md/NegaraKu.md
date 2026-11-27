@@ -27,7 +27,7 @@ faq:
     a: "Une maison malaise loge généralement une seule famille, tandis qu'une maison longue (rumah panjang) loge de nombreuses familles au sein d'une seule structure allongée : chaque famille possède sa propre pièce (bilek), partagée avec une galerie communautaire appelée ruai."
 
 lang: "fr"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -62,9 +62,37 @@ sources:
 relations:
   - { rel: "related-to", to: "sarawak-longhouse" }
   - { rel: "related-to", to: "malay-woodcarving" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["rumah Melayu", "rumah panggung", "architecture vernaculaire", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "patrimoine"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: 'Un palais malais octogonal en bois ornementé aux toits de bardeaux étagés et escarpés, aux murs de bambou tressé à motifs de losanges noir, blanc et or, aux fenêtres à treillis et à la frise sculptée dorée, posé sur une pelouse sous un ciel couvert'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: Une maison de kampung en bois brun foncé surélevée sur pilotis, avec un toit à pignon pentu, des avant-toits festonnés sculptés, des murs de bois à panneaux et un escalier extérieur menant à une véranda, encadrée de feuillage vert
+    kind: actual
+    origin: third-party
+    subject: une maison malaise traditionnelle sur pilotis en bois (rumah Melayu) avec un toit à pignon pentu, des planches de rive sculptées et une véranda surélevée accessible par des marches en bois
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: Un long palais malais surélevé en bois aux toits amples et relevés de style minangkabau s'incurvant en pointes aiguës, aux murs de bois sombre à panneaux et fenêtres à treillis, dressé sur des poteaux sculptés à côté d'un panneau indiquant « Rumah Negeri Sembilan »
+    kind: actual
+    origin: third-party
+    subject: le palais en bois du Negeri Sembilan Istana Ampang Tinggi avec ses amples toits à pignons relevés en cornes de buffle de style minangkabau
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 Soulevez une vieille maison de kampung, démontez ses assemblages et remontez-la sur un nouveau site, en grande partie sans aucune fondation fixe en béton. Telle est la sagesse de l'architecture malaise traditionnelle : une maison qui «lit» le climat tropical bien avant l'existence de la climatisation.

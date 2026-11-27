@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "fr"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaisie", "Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "économie de la vallée de Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'La mosquée Sultan Salahuddin Abdul Aziz, à la coupole bleue illuminée, avec ses quatre hauts minarets rayonnant sur un ciel crépusculaire bleu profond à Shah Alam.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: Le phare couronne le fort historique au sommet de Bukit Melawati, qui surplombe Kuala Selangor, dans le Selangor.
+    kind: actual
+    origin: third-party
+    subject: Phare de Kuala Selangor sur Bukit Melawati, Selangor
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: Arbres et passerelles scintillent de lumières LED colorées au parc à thème i-City, à Shah Alam, dans le Selangor.
+    kind: actual
+    origin: third-party
+    subject: Parc de lumières i-City, Shah Alam, Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 Selangor est l'État sur lequel l'économie de la Malaisie fonctionne discrètement. Il

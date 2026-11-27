@@ -32,7 +32,7 @@ seoTitle: "لهجات الصينيين الماليزيين: الهوكين وا
 socialTitle: "صينيون أنفسهم، فلماذا ألسنة مختلفة؟ خريطة لهجات ماليزيا"
 
 lang: "ar"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,32 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "لهجات الصينيين الماليزيين", "福建话", "الهوكين", "广东话", "الكانتونية", "客家话", "الهاكا", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'بوابة خضراء بسقف على طراز الباغودا فوق شارع جالان بيتالينغ في الحي الصيني بكوالالمبور، كُتب عليها "Petaling Street" مع فوانيس حمراء ولافتات متاجر صينية فوق شارع سوق مزدحم.'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: ألواح أبواب مرسومة بزخرفة لشخصيات بأردية ونقش نمر بارز في معبد صيني للأسلاف من Teochew في Penang
+    kind: actual
+    origin: third-party
+    subject: آلهة أبواب مرسومة ونقش نمر بارز في معبد Han Jiang للأسلاف، معبد مجموعة لهجة Teochew في George Town، Penang
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: مبانٍ تجارية سكنية صينية من طابقين عليها آثار القِدم، بنوافذ ذات مصاريع وممرات مغطّاة بعرض خمسة أقدام، تصطف على طول شارع هادئ في George Town
+    kind: actual
+    origin: third-party
+    subject: صف من المباني التجارية السكنية الصينية القديمة (shophouses) ذات ممرات الأقدام الخمسة في شارع بـ George Town، Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 في مقهى بـبينانغ، تطلب الـ kopi بالهوكين؛ وفي كوالالمبور وإيبوه، يُطلَب فنجان القهوة نفسه بالكانتونية؛ وإذا مضيت أبعد إلى سيبو في ساراواك، فالأرجح أن من يخدمك يتحدّث الفوتشو. ثلاثتهم صينيون ماليزيون — ومع ذلك يتحدّثون ثلاثة ألسنة غير متبادلة الفهم.

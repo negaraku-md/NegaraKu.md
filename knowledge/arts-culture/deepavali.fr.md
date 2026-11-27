@@ -30,7 +30,7 @@ faq:
     a: "Les lampes — de petites lampes d'argile ou de métal souvent appelées diyas — sont le cœur visuel d'une « fête des lumières ». On en allume des rangées aux portes et aux fenêtres, en écho au sens du nom de la fête, « une rangée de lumières »."
 
 lang: "fr"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ festivalFacts:
   when: "Fixée par le calendrier hindou (tamoul) lunaire, généralement en octobre ou novembre ; la date publiée au journal officiel change chaque année et est indiquée comme susceptible de modification."
   holiday: "Un jour férié fédéral publié au journal officiel et observé dans chaque État et territoire fédéral, à l'exception du Sarawak, qui conserve son propre calendrier de jours fériés."
   etiquette: "Les visiteurs sont les bienvenus aux maisons ouvertes ; habillez-vous avec sobriété, retirez vos chaussures avant d'entrer dans une maison ou un temple, et un petit cadeau de sucreries est un geste de coutume."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'Un kolam coloré en forme de paon fait de poudres colorées, encadré d''une bordure blanche et entouré de petites lampes à huile en terre cuite allumées, pour Deepavali en Malaisie'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: Des rangées de lanternes décoratives jaune vif de Deepavali suspendues au-dessus d'un hall animé de voyageurs à la gare de KL Sentral, à Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Lanternes de Deepavali suspendues et foule en fête à la gare de KL Sentral
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: Un immense kolam en forme de paon aux couleurs éclatantes, tracé à la poudre colorée sur le sol poli de KL Sentral pour Deepavali
+    kind: actual
+    origin: third-party
+    subject: Grand kolam au sol sur le thème du paon à KL Sentral pour Deepavali
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 Pour une nuit, c'est la lampe qui parle. Des rangées de petites lampes d'argile sont disposées le long des portes et des rebords de fenêtres, un motif au sol de riz ou de poudre colorée est tracé sur le seuil, et une maison qui était sombre une heure plus tôt se dessine dans la flamme. C'est de là que la fête tire son nom : *Deepavali* vient du sanskrit « une rangée ou une série de lumières ».

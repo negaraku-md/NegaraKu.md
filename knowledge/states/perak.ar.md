@@ -40,7 +40,7 @@ verificationNeeded:
   - "حدّث أرقام السكان والناتج المحلي الإجمالي عند نشر إصدار أحدث لـDOSM."
 
 lang: "ar"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,9 +111,35 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["بيراك", "Perak", "بيراك دار الرضوان", "Perak Darul Ridzuan", "معاهدة بانغكور", "Perjanjian Pangkor", "المقيم البريطاني", "British Resident", "سلطان بيراك", "Sultan Perak", "إيبوه", "Ipoh", "وادي كينتا", "Lembah Kinta", "خام القصدير", "وادي لينغونغ", "Lembah Lenggong", "الجمعية التشريعية لولاية بيراك"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'مبنى محطة قطار إيبوه الأبيض ذو القبّة من الحقبة الاستعمارية بأروقته المقنطرة تحت سماء صافية.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: تقف قصر Kellie's Castle غير المكتمل ببرجه ومبناه من الطوب الأحمر وسط الخضرة قرب باتو غاجاه في بيراق.
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle، باتو غاجاه، بيراق
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: تملأ الهوابط المضاءة وتكوينات الترسبات الجيرية القاعة الجيرية الشاسعة في كهف Gua Tempurung قرب غوبينغ في بيراق.
+    kind: actual
+    origin: third-party
+    subject: كهف Gua Tempurung الجيري، غوبينغ، بيراق
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 في 20 يناير 1874، وُقّعت معاهدة في المياه القريبة من جزيرة بانغكور. لم يتنازل

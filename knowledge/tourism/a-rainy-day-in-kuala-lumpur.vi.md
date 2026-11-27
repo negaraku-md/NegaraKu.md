@@ -33,7 +33,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["ngày mưa Kuala Lumpur", "hoạt động trong nhà KL", "KL bằng phương tiện công cộng", "lối đi bộ KLCC Bukit Bintang", "Suria KLCC tàu điện", "Aquaria KLCC cách đến", "Petrosains", "Muzium Negara MRT", "trung tâm thương mại KL bằng tàu điện"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'Một cơn mưa nhiệt đới xối xả trên một ngôi nhà phố mái ngói cũ ở Jalan Panggong trong khu phố cổ của Kuala Lumpur'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: Mặt tiền Art Deco màu xanh nhạt của Central Market (Pasar Seni) ở Kuala Lumpur, với dòng chữ 'Central Market Since 1888'
+    kind: actual
+    origin: third-party
+    subject: Mặt tiền Art Deco của Central Market (Pasar Seni), Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: Khu thương xá có mái che hai tầng nhộn nhịp bên trong Central Market ở Kuala Lumpur, với các quầy hàng thủ công và batik dưới những lá cờ bang treo trên cao
+    kind: actual
+    origin: third-party
+    subject: Bên trong khu thương xá thủ công có mái che của Central Market, Kuala Lumpur
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 Mưa ở Kuala Lumpur đến nhanh và nặng hạt, và một kế hoạch ngoài trời có thể đổ vỡ

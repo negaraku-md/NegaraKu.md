@@ -35,7 +35,7 @@ faq:
     a: "Chúng là những lễ hội riêng biệt có chung một chủ đề. Gawai Dayak là lễ hội mùa gặt của người Dayak ở Sarawak, tổ chức vào ngày 1 và 2 tháng 6. Kaamatan là lễ hội mùa gặt của người Kadazandusun ở Sabah, tổ chức vào ngày 30 và 31 tháng 5. Cả hai đều tạ ơn cho vụ lúa, nhưng các cộng đồng, nghi lễ và ngày tháng khác nhau."
 
 lang: "vi"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "Hằng năm vào ngày 1 và 2 tháng 6; việc cử hành bắt đầu vào tối ngày 31 tháng 5, và mùa Gawai rộng hơn chính thức khép lại bằng nghi thức ngiling tikai ('cuốn chiếu') vào cuối tháng 6."
   holiday: "Là ngày lễ công cộng tại bang Sarawak (được công bố ngày 25 tháng 9 năm 1964)."
   etiquette: "Cửa nhà dài rộng mở — lòng hiếu khách đối với người thân, hàng xóm và khách đến thăm là một phần của lễ hội; một lời chào thông dụng là 'Gayu Guru, Gerai Nyamai' (sống lâu, mạnh khỏe, thịnh vượng), hoặc 'Selamat Hari Gawai'. Trước hết đây là một dịp cử hành của gia đình và nhà dài, không phải một màn trình diễn cho du khách."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'Một vũ công chiến binh Iban đội mũ lông chim mỏ sừng và mặc áo ghi-lê lông thú biểu diễn điệu múa ngajat trên sân khấu với phông bích họa Dayak truyền thống'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: Các nghệ nhân người Iban và Orang Ulu đội mũ bạc cầu kỳ, trang sức hạt cườm và vương miện lông vũ trong lễ diễu hành Gawai Dayak ở Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Các nghệ nhân Dayak trong trang phục lộng lẫy tại lễ diễu hành Gawai Dayak ở Kuching
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: Hành lang chung bằng gỗ dài (ruai) bên trong một nhà dài của người Iban ở Sarawak, nơi diễn ra lễ Gawai Dayak
+    kind: actual
+    origin: third-party
+    subject: Hành lang chung của một nhà dài người Iban ở Sarawak
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 Đồng hồ chưa điểm nửa đêm của ngày cuối tháng 5, và trong một ngôi nhà dài đâu đó dọc một con sông ở Sarawak, chiếc cồng đang chờ. Lúa đã về. Hành lang đã được quét dọn và trải những tấm chiếu mới. Một hũ tuak đã sẵn sàng. Khi chiếc cồng cuối cùng vang lên, trưởng nhà dài sẽ nâng một chén rượu, và mọi người dọc theo hiên chung dài ấy sẽ cùng uống mừng ba điều: trường thọ, khỏe mạnh, thịnh vượng.

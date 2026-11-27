@@ -33,7 +33,7 @@ faq:
     a: "Ini adalah salah satu legenda bulan Pertengahan Musim Gugur yang paling luas tersebar: konon Hou Yi memperoleh ramuan hidup abadi, dan istrinya, Chang'e, dalam keadaan tertentu menelan ramuan sakti itu lalu tubuhnya menjadi ringan dan melayang naik untuk menetap di bulan, terpisah dari dunia manusia sejak saat itu. Cerita ini memiliki banyak versi dengan detail yang berbeda-beda, dan umumnya dipandang sebagai legenda rakyat yang menjelaskan 'menatap bulan saat Pertengahan Musim Gugur dan adanya penghuni di bulan', bukan fakta sejarah; artikel ini hanya menuturkannya secara ringkas."
 
 lang: "id"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Ditetapkan pada tanggal 15 bulan kedelapan penanggalan Imlek, hari ketika bulan paling bulat dan paling terang, melambangkan reuni; tanggal Masehinya berubah setiap tahun mengikuti penanggalan Imlek, biasanya jatuh pada bulan September atau Oktober."
   holiday: "Bukan hari libur umum. Festival Pertengahan Musim Gugur di Malaysia bukan hari libur umum secara nasional maupun di negeri mana pun, dan rumah usaha serta instansi pemerintah beroperasi seperti biasa (berbeda dengan Tahun Baru Imlek yang dua hari pertamanya libur umum)."
   etiquette: "Perayaan publik seperti malam lampion dan pertunjukan seni-budaya yang diadakan oleh perhimpunan Tionghoa, kelenteng (seperti Kelenteng Thean Hou di Robson Heights, Kuala Lumpur) dan organisasi komunitas kerap menyambut penduduk dari etnis lain untuk ikut serta dan menonton bersama, membawa sisi berbagi lintas etnis."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'Patung lampion sutra besar bercahaya berbentuk pria tersenyum berjaket ungu dan bercelana merah mengangkat lampion globe biru-kuning pada malam hari, dengan deretan lampion merah dan emas tergantung menyala di sepanjang jalan setapak di belakangnya saat perayaan Pertengahan Musim Gugur di Malaysia'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: Deretan kue bulan panggang berwarna cokelat keemasan bermotif kelinci giok dan bunga, diletakkan untuk mendingin di atas nampan logam berlubang, permukaan kulitnya yang mengilap memantulkan cahaya
+    kind: representative
+    origin: third-party
+    subject: kue bulan motif kelinci giok yang baru dipanggang, hidangan khas Festival Pertengahan Musim Gugur
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: Lampion kertas lipat berbentuk akordion berwarna merah bulat bermotif bintang putih dan siluet kelinci, tergantung di depan dedaunan hijau dan bunga merah muda, lampion kertas lipat klasik yang dibawa anak-anak sewaktu Pertengahan Musim Gugur
+    kind: representative
+    origin: third-party
+    subject: lampion kertas lipat merah tradisional sejenis yang dibawa anak-anak sewaktu Festival Pertengahan Musim Gugur
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 Menjelang malam hari kelima belas bulan kedelapan kalender lunar, atrium pusat perbelanjaan dihiasi lampion merah menyala, dan di taman kawasan permukiman, anak-anak berdua-dua bertiga berjalan ke sana kemari membawa lampion yang menyala. Di meja makan rumah, sekotak kue bulan yang dipotong kecil-kecil ditemani seteko teh panas, dengan sebuah jeruk bali yang sudah dikupas di sampingnya. Satu keluarga membawa kursi keluar rumah, mendongak menatap bulan paling bulat dalam setahun — inilah malam Pertengahan Musim Gugur yang khas di keluarga Tionghoa Malaysia.

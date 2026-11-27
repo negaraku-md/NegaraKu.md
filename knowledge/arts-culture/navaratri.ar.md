@@ -32,7 +32,7 @@ faq:
   - q: "هل يحتفل بنافاراتري التاميل وحدهم؟"
     a: "لا. مع أن الغولو وبوجا ساراسواتي/أيودا بارزة في تقليد جنوب الهند التاميلي، تحتفل جاليتا الغوجاراتيين وشمال الهند في ماليزيا بنافاراتري برقصتَي الغاربا والدانديا، وتُقيم الجالية البنغالية بوجا دورغا. وتختلف ممارسة كل جالية عن الأخرى."
 lang: "ar"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: 'عرض كولو المتدرّج لمهرجان نافاراتري، مكسوّ بقماش أخضر، تحمل الدرجة العليا تجسّدات فيشنو العشرة، وتمتلئ الدرجات السفلى بتماثيل الآلهة الهندوسية الملوّنة بألوان زاهية والدُّمى.'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: راقصون بأزياء تقليدية ملوّنة يتحرّكون في دائرة خلال رقصة Garba نابضة بالحياة في Navaratri
+    kind: representative
+    origin: third-party
+    subject: رقصة Garba الشعبية تُؤدّى خلال Navaratri، وهي من الاحتفالات الجماعية المميّزة للمهرجان
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: دمى صغيرة زخرفية على هيئة طيور وشخصيات مرتّبة بعناية على الدرجات المتدرّجة لعرض golu في Navaratri
+    kind: representative
+    origin: third-party
+    subject: منظر قريب لتماثيل مرتّبة على عرض الدمى في مهرجان golu (kolu) بمناسبة Navaratri
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 في أيام نافاراتري، وعلى امتداد أحد جدران غرفة الاستقبال في بيت هندوسي تاميلي في ماليزيا، تُبنى درجات متدرّجة عددها فردي. وعلى تلك الدرجات المغطّاة بالقماش تُصفّ صفوفًا تماثيل الآلهة ودُمى تحكي مشاهد من الأساطير. وعند المساء يأتي الأقارب والجيران لمشاهدة **الغولو**؛ وتتردّد الأناشيد؛ ويُقدَّم للمغادرين الثامبولام والحلوى. وليس هذا حدث يوم واحد — بل هو علامة مهرجان يمتدّ تسع ليالٍ.

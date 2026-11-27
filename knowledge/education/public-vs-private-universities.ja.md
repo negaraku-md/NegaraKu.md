@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -76,6 +76,39 @@ faq:
   - q: あるプログラムが「暫定認証」止まりだが、それは認証されていないという意味なのか？
     a: いいえ。MQAのプログラム認証実施規範のもとで、暫定認証（Provisional Accreditation）は、そのプログラムが合法的に提供されるための最低限の品質要件を満たしていることを確認するものであり、それ自体が省の認可の条件でもあります。本認証（Full Accreditation）は、最初の学年の学生がプログラムを修了した後に行われる、より充実した評価です。暫定認証を受けたプログラムは正規のものであり、合法的に提供できます。ただ全課程を通じた評価をまだ完了していないだけです。
 framework: explainer
+stayFacts:
+  who: 'SPM、STPM、予科（matriculation）、ファウンデーション、UEC、Aレベル、またはディプロマを保有し、国立大学（IPTA/Universiti Awam）と私立大学（IPTS）のどちらを選ぶか検討している人向け。'
+  how: '国立大学の入学は、ほぼすべて高等教育省の中央化されたオンライン制度であるUPU（Unit Pusat Universiti、大学中央ユニット）を通じて行われる——出願者は課程の志望順位をつけ、配額で限られた学席に対して成績主義でマッチングされる。私立機関はUPUの枠外にあり、独自の随時募集を直接運営し、より幅広い資格を受け入れる。'
+  cost: 'UPUへの出願そのものは無料だが、ログインにはBank Simpanan Nasional（BSN）で購入する12桁のUnik IDが必要である。私立機関の学費は課程ごとに設定され変動するため、現在の金額はUPUのe-Panduanまたは各機関で確認すること。'
+  watch: 'IPTA/IPTSというラベルだけでは、学位が承認されるかどうかはわからない——それは、その特定の課程がMQRにおいてMQAの認証を受けているかどうかにかかっており、自分の正確な入学年度について確認すべきである。私立大学にUPUを通じて出願することはできない。'
+  next: 'まず自分が保有している資格から考え、いずれの種類の機関に入学する前も、マレーシア資格登録簿（MQR）で正確な課程と入学時期を確認すること。詳しくはMQA認証の解説記事、および「カレッジの保証金を払う前に」を参照のこと。'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: '青い「Dewan Tunku Canselor」の文字と外階段をもつ、長い打ち放しコンクリートのモダニズム様式のホール。前に刈り込み庭園と人のいない道路'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: 造園された丘に建つ、丸みを帯びた中央塔を持つ多層階の青いガラス張りの大学管理棟。旗の並ぶ段状の階段から近づく
+    kind: representative
+    origin: third-party
+    subject: マレーシア最大級の公立大学の一つ、マラ工科大学(UiTM)の近代的なガラスの学長棟
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: 「Universiti Sains Malaysia」の看板を掲げた石柱の大学入口門。曇り空の下、旗竿と密な緑に挟まれる
+    kind: representative
+    origin: third-party
+    subject: ペナン州ニボン・テバルにある公立研究大学、マレーシア科学大学(USM)の正門
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 同じSPMの成績を持つ2人の学生が、まったく異なる2つの制度に進むことがある。1人

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Automovilistas malasios que planean conducir su propio coche a través del Causeway o el Second Link hacia Singapur, o a través de la frontera terrestre del norte hacia Tailandia."
 
 lang: "es"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["motor-insurance", "driving-licence-malaysians", "road-tax-renewal", "touch-n-go"]
 keywords: ["VEP Singapore Malaysia", "Vehicle Entry Permit Singapore", "driving to Thailand from Malaysia", "Causeway Second Link congestion", "cross-border motor insurance Malaysia", "Bukit Kayu Hitam border", "Autopass card Singapore", "PIAM Endorsement 101", "Thailand temporary vehicle import"]
 framework: how-to
+hero: '/media/transport/driving-to-singapore-and-thailand/hero.webp'
+heroAlt: 'La Calzada Johor-Singapur cruzando el estrecho repleta de vehículos, con una valla publicitaria I love Johor en el lado malasio.'
+heroCredit: 'ZKang123 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: El puente de carretera del Second Link entre Malasia y Singapur que cruza el estrecho de Johor entre Tanjung Kupang y Tuas.
+    kind: actual
+    origin: third-party
+    subject: Puente del Second Link Malasia-Singapur (Tuas)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: El acceso por carretera al paso terrestre de Bukit Kayu Hitam en la frontera entre Malasia y Tailandia, en Kedah.
+    kind: actual
+    origin: third-party
+    subject: Paso fronterizo Malasia-Tailandia de Bukit Kayu Hitam-Sadao
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 Dos vecinos, dos fronteras terrestres, dos sistemas completamente distintos para el mismo coche.

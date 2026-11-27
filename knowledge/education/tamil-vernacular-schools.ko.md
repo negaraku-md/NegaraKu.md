@@ -32,7 +32,7 @@ faq:
   - q: "타밀어 학교에서 말레이어와 영어를 가르치나요?"
     a: "네. SJKT의 교수 언어는 타밀어이지만, 말레이어(Bahasa Melayu)와 영어는 필수 과목으로 가르쳐집니다. 이로써 학생들은 타밀어로 기초 교육을 받는 동시에 국민 중등학교로 진학하기 위해 말레이어로도 대비하게 됩니다."
 lang: "ko"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,32 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: '조호르주의 말레이시아 타밀어 국민형 초등학교 Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi의 정문과 다층 건물.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: 크다주 SJK(T) Changlun(S.J.K (Tamil) Changlun)의 파란색 입구 교명판으로, 교명이 타밀어와 말레이어로 적혀 있고 교표가 함께 표시되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 타밀어 국민형 학교 SJK(T) Changlun의 교명판
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: 크다주 SJK(T) Changlun의 교실동과 안뜰로, 지붕 덮인 통로를 따라 교실 출입구와 게시판, 깃발이 늘어서 있다.
+    kind: actual
+    origin: third-party
+    subject: 타밀어 학교 SJK(T) Changlun의 교실동
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 말레이시아의 어느 구석에서든 — 오래된 고무 농장의 가장자리나 도시의 변두리에서 — 작은 타밀어 학교를 볼 수 있다. 그 학교들 가운데 다수는 한 세기가 넘는 역사를 지니며, 단순한 건물이 아니라 한 공동체의 이주, 노동, 언어를 보여 주는 증인이다.

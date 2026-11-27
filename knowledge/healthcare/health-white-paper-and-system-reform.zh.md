@@ -32,7 +32,7 @@ faq:
     a: "政府强调并非如此。像Rakan KKM这样的举措被定位为一种将专科医生留在公共部门的模式，而非私有化，尽管一些观察者对其长期影响仍持谨慎态度。"
 
 lang: "zh"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 entity: "Kertas Putih Kesihatan"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "covid-19-pandemic-response-and-legacy"]
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: '布城（Putrajaya）一栋现代玻璃幕墙的马来西亚卫生部大楼，悬挂着一面巨大的马来西亚国旗。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: 布城一座马来西亚联邦政府办公楼，内设卫生部的一个部门
+    kind: actual
+    origin: third-party
+    subject: 马来西亚卫生部（Kementerian Kesihatan Malaysia）位于布城的一座大楼
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: 马来西亚卫生部接待大厅内，两名官员在签字台前，身后墙上有卫生部名称和马来西亚国徽
+    kind: actual
+    origin: third-party
+    subject: 马来西亚卫生部的一场官方会议，背景为Kementerian Kesihatan Malaysia字样标识和国徽
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 政府诊所承接了将近三分之二的全国门诊就诊量——但它们只占约四分之一的初级医疗设施。正是这种失衡（连同其他因素），促使马来西亚卫生部（KKM）撰写了一代人以来最重要的政策文件：医疗卫生白皮书。

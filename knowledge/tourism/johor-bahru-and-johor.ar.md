@@ -37,7 +37,7 @@ faq:
     a: "جوهر حارّة ورطبة طوال العام وتستحقّ الزيارة في أي موسم، لكن تعرّضها منقسم: فساحل ديسارو والساحل المواجه للشرق يتأثّران بالرياح الموسمية الشمالية الشرقية من نحو نوفمبر إلى مارس، حين تكون البحار أخشن وتتوقّف بعض أنشطة القوارب، بينما تعمل مدينة JB والحدائق الترفيهية والساحل الغربي طوال العام. وأجفّ نافذة شاطئ وأهدؤها على الجانب الشرقي هي منتصف العام عموماً. وللمدينة والحدائق، زيارات أيام الأسبوع تتفادى الحشود وأسوأ طوابير المعبر معاً."
 
 lang: "ar"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,6 +113,39 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["جوهر بهرو", "Johor Bahru", "جوهر", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "حدود سنغافورة"]
 framework: profile
+visitFacts:
+  bestFor: 'الأنسب لزوّار اليوم الواحد وروّاد عطلة نهاية الأسبوع من سنغافورة وللعائلات — تجذبهم قيمة التسوّق والطعام، وعنقود Legoland ومدن الملاهي، وشواطئ Desaru Coast، والجبال والمنغروف في الداخل.'
+  getThere: 'يُقصد من سنغافورة عبر Johor–Singapore Causeway أو Second Link (إضافةً إلى قطار KTM Shuttle Tebrau)، ومن بقية ماليزيا بحافلات المسافات الطويلة أو سكك KTM بين المدن/ETS أو مطار Senai الدولي شمال المدينة مباشرةً.'
+  permit: 'كل عبور هو حدود دولية، لذا احمل جواز سفر ساري المفعول واجتز إجراءات الهجرة على الجانبين.'
+  watch: 'يزدحم Causeway مساء الجمعة وعطلات نهاية الأسبوع وعطلات مدارس سنغافورة وليالي العطلات الرسمية، لذا اعبر مبكراً، وتجنّب أوقات العودة في الذروة، وانتقل إلى Second Link حين يكون مزدحماً.'
+  next: 'تأكّد من ترتيبات العبور وRTS Link وتصاريح المنتزهات الحالية مع هيئات النقل الرسمية الماليزية والسنغافورية وهيئة المنتزه المعنية قبل أن تسافر.'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'مسجد السلطان أبو بكر الولائي الأبيض بطراز فيكتوري-موري في جوهور بهرو، بأبراج مآذنه الطويلة وقبابه السوداء تحت سماء غائمة'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: الواجهة الزاهية الألوان بمكعبات Lego لفندق Legoland Malaysia Resort في Johor
+    kind: actual
+    origin: third-party
+    subject: فندق Legoland Malaysia Resort، Johor
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: شاطئ من الرمال البيضاء على ساحل Johor بمياه فيروزية ونتوء صخري يعلوه علم أحمر وسماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: شاطئ من الرمال البيضاء على ساحل Johor
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 يلتقي معظم الزوّار جوهر عند طابور حدود — في سيارة على الجسر، أو في حافلة عند الوصلة الثانية، أو على القطار المكوكي القصير إلى JB Sentral — ويعاملون المدينة منعطفَ تسوّق وطعام من سنغافورة. وذلك يبخسها حقّها. فجوهر بهرو عاصمة أقصى ولايات ماليزيا جنوباً والبوّابة حيث تلتقي شبه الجزيرة بالجمهورية الجزيرية عبر الماء، بنواة تراثية سهلة المشي، وأحد أكبر عناقيد الحدائق الترفيهية العائلية في آسيا على عتبتها، وولاية كاملة خلفها: شواطئ شرقاً، ومانغروف عند الطرف الجنوبي، وجبال وغابة مطيرة داخلياً. يتناول هذا الدليل كيف تعمل المعابر، وما يُفعَل في المدينة، والحدائق الترفيهية، والساحل والداخل، ولمن تناسب جوهر، والخطأ الوحيد الذي يباغت الجميع تقريباً — إساءة توقيت المعبر.

@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: '쿠알라룸푸르에 있는 청동 국가기념비(투구 느가라)로, 깃발을 치켜든 병사 군상이 탁 트인 하늘을 배경으로 서 있다.'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아(Malaysia)는 1960년 7월 31일 첫 번째 공산당 비상사태의 종료를 선언하였으나, 이후 30년 가까이 두 번째 반란과 씨름하게 되었습니다. 정부가 반도의 변방으로 밀어냈던 게릴라 군대는 전투 종료가 선언되었을 때 해산하지 않았습니다. 이들은 태국 국경을 넘어 후퇴하여 그곳에서 재집결하였고, 8년 후 작전을 재개하였습니다.

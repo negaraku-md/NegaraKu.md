@@ -43,7 +43,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 sources:
   - title: "Laws of Malaysia - Act 804 - Dental Act 2018 (AGC Federal Legislation Portal)"
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=804"
@@ -77,6 +77,32 @@ keywords:
   - "Akta Pergigian 2018"
   - "carian klinik pergigian kerajaan"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'Street-front of a Malaysian dental clinic, Klinik Pergigian Yap, with a signboard listing dental services'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: An empty dental treatment chair with its overhead examination light, operator monitor and rinse basin in a tidy dental surgery
+    kind: representative
+    origin: third-party
+    subject: A dental treatment chair with overhead lamp, patient monitor and spittoon in a clinic operatory
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: An unoccupied dental operatory showing a treatment chair, a handpiece delivery trolley, an X-ray film viewer and oxygen and vacuum wall outlets
+    kind: representative
+    origin: third-party
+    subject: A dental treatment room with a dental chair, instrument delivery unit, X-ray viewer and wall gas outlets
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 Many people assume "dental clinic" is one single thing — a place to fill a

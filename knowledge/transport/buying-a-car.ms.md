@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,32 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'Pusat jualan Proton berwarna biru bertanda Wakil Jualan dan Servis dengan beberapa buah kereta diletakkan di hadapannya di Subang Jaya.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: Kereta Perodua baharu berbaris di bawah lampu terang di dalam bilik pameran jenama Perodua di Pulau Pinang, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Bilik pameran pengedar Perodua di Pulau Pinang
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: Sebuah sedan Proton Perdana hitam, kereta jenama nasional buatan Malaysia, diletakkan di tepi jalan di Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Sedan Proton Perdana di Shah Alam
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 Apabila anda membeli kereta di Malaysia, anda menandatangani satu perjanjian, tetapi sebenarnya anda memasuki tiga hubungan berasingan serentak: satu dengan sesiapa yang menjual kereta itu kepada anda, satu dengan sesiapa yang membiayainya, dan satu lagi dengan JPJ, jabatan yang menentukan nama siapa yang sebenarnya tertera pada kenderaan itu. Terlepas satu langkah dalam mana-mana satu daripada ketiga-tiganya, dan kereta yang telah anda bayar itu, dari segi undang-undang, masih belum sepenuhnya milik anda.

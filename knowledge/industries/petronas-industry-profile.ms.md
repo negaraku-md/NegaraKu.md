@@ -29,7 +29,7 @@ faq:
     a: "Pada 2024, Petronas membayar dividen RM32.0 bilion kepada Kerajaan Malaysia. Gabungan sumbangan kerajaan, termasuk cukai dan bayaran tunai, berjumlah RM72.4 bilion bagi tahun tersebut, menurut pelaporan Petronas sendiri."
 
 lang: "ms"
-sourceContentHash: "c50114eafce2228c"
+sourceContentHash: "dc1cda0b30f573db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,33 @@ relations:
   - { rel: "part-of", to: "oil-and-gas-industry-malaysia" }
 related: ["petroleum-development-act-1974", "oil-gas-industry"]
 keywords: ["Petronas", "Petroliam Nasional Berhad", "Petroleum Development Act 1974", "national oil company", "Malaysia oil and gas", "federal revenue", "government dividend"]
+hero: '/media/industries/petronas-industry-profile/hero.webp'
+heroAlt: 'Menara Berkembar PETRONAS yang menyala berdiri di tengah kaki langit Kuala Lumpur yang padat, dihubungkan oleh jambatan langitnya dan menjulang di atas pusat membeli-belah Suria KLCC, di bawah langit senja jingga dan biru'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the PETRONAS Twin Towers, the national oil company''s headquarters, rising over the Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-1.webp
+    alt: Sebuah stesen minyak PETRONAS dengan kanopi laman hadapan berwarna hijau pirus dan pam minyak di sebelah papan harga tinggi yang memaparkan logo titisan hijau PETRONAS dan harga Primax 97, Primax 95 dan Dynamic Diesel, dikelilingi pokok kelapa sawit
+    kind: actual
+    origin: third-party
+    subject: sebuah stesen minyak berjenama PETRONAS di Labis, Johor, dengan kanopi laman hadapan dan papan harga minyaknya
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/industries/petronas-industry-profile/body-2.webp
+    alt: Pandangan dekat jejambat langit dua tingkat kaca-dan-keluli yang merentangi ruang antara dua fasad beralur Menara Berkembar PETRONAS, disokong oleh topang bersudut, di bawah langit biru yang cerah
+    kind: actual
+    origin: third-party
+    subject: jejambat langit dua tingkat yang menghubungkan kedua-dua Menara Berkembar PETRONAS, dilihat dari dekat berlatarkan langit yang cerah
+    credit: Andy Mitchell / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skybridge_between_Petronas_Towers,_Kuala_Lumpur_(4447656063).jpg
 ---
 
 Setiap tong minyak dan kaki padu gas yang dihasilkan di mana-mana di Malaysia adalah, dari segi undang-undang, milik sebuah syarikat tunggal — dan syarikat itu menyerahkan salah satu cek tunggal terbesar yang diterima kerajaan persekutuan setiap tahun.

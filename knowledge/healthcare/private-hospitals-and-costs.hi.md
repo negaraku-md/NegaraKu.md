@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में हर वह व्यक्ति जो किसी निजी सुविधा में विशेषज्ञ परामर्श या अस्पताल में भर्ती का सामना कर रहा है — मरीज़, देखभालकर्ता, और नियोक्ता-प्रदत्त मेडिकल कार्ड या बीमा पर निर्भर कर्मचारी।"
 
 lang: "hi"
-sourceContentHash: "dfd6a5748ec5074b"
+sourceContentHash: "7d619c97835636e6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,33 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["निजी अस्पताल मलेशिया", "निजी अस्पताल बिल", "विशेषज्ञ परामर्श शुल्क", "अस्पताल गारंटी पत्र", "अस्पताल जमा राशि", "मदवार बिल", "Act 586", "National Specialist Register", "निजी स्वास्थ्य देखभाल लागत", "private hospital Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'सनवे मेडिकल सेंटर टावर C, एक आधुनिक मलेशियाई निजी अस्पताल इमारत, का लाल-सफ़ेद अग्रभाग, Sunway Medical Centre पढ़ती साइन के साथ'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: Kuala Lumpur में Prince Court Medical Centre की आधुनिक इमारत, मुखौटे पर उसका सुनहरा वर्डमार्क और अग्रभूमि में एक शहरी सड़क चिह्न
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, Kuala Lumpur में एक निजी अस्पताल
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: शाम के समय एक ढके हुए ऊँचे ट्रांज़िट स्टेशन के पास Sunway Medical Centre की इमारतें, जगमगाते SunMed साइनेज के साथ
+    kind: actual
+    origin: third-party
+    subject: Bandar Sunway में Sunway Medical Centre और उससे सटा BRT/LRT स्टेशन
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 आप एक ही प्रक्रिया के लिए जाते हैं और बाहर ऐसा महसूस करते हुए निकलते हैं मानो दो बिल एक साथ नत्थी कर दिए गए हों। एक सर्जन की ओर से। एक अस्पताल की ओर से। वे आकार में शायद ही कभी मेल खाते हैं, और लगभग कोई यह नहीं समझाता कि वे पहले स्थान पर अलग क्यों हैं।

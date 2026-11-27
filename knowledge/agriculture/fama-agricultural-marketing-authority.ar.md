@@ -31,7 +31,7 @@ faq:
     a: "يمكن للمنتجين التسويق مباشرة للمستهلكين عبر قنوات FAMA مثل أسواق المزارعين الدائمة، وAgrobazaar، وMy Farm Outlet، وأكشاك الفواكه الطازجة، أو المشاركة في برامج مثل الزراعة التعاقدية وRANTAI. وتُؤكَّد تفاصيل المشاركة على fama.gov.my."
 
 lang: "ar"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "الهيئة الاتحادية لتسويق المنتجات الزراعية", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "سوق المزارعين", "My Farm Outlet", "Agrobazaar", "التسويق الزراعي", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'صفوف من الأكشاك المظلّلة في سوق المزارعين باسار تاني في بوتراجايا بماليزيا.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: عربة يد مكدّسة بالرامبوتان واللانغسات ومغطّاة بعلم ماليزيا في Central Market، Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: بائع فاكهة متجوّل يبيع الرامبوتان واللانغسات في Kuala Lumpur
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: كشك سوق يعرض الهليون والأفوكادو والمانجو واليقطين بأسعار بالرينغيت في Kea Farm، Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: منتجات محلية طازجة معروضة للبيع في كشك سوق Kea Farm، Cameron Highlands
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 قد يزرع مزارع خضروات في [مرتفعات كاميرون](/tourism/cameron-highlands-visitor-guide) أجود المحاصيل، ومع ذلك

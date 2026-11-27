@@ -59,9 +59,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'Group portrait of the teachers and student-management assistants of the special-education integration programme (PPKI) at a Malaysian secondary school, SMK Taman Universiti.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: Entrance and welcome arch of SK Pendidikan Khas Batu Pahat, a government special-education primary school in Johor, with Malay-language signboards at the gate.
+    kind: actual
+    origin: third-party
+    subject: A Malaysian national special-education school
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: A single-storey wooden classroom block of a rural government primary school in Pensiangan, Sabah, set against forested hills.
+    kind: representative
+    origin: third-party
+    subject: A Malaysian government primary school building
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 A diagnosis is only the first conversation. The second one — often more confusing — is which school track your child actually goes into, and why the OKU card seems to matter before the school does. Malaysia's system has three public tracks, a separate disability-registration process feeding into all of them, and a parallel world of private and NGO therapy that most parents discover by word of mouth rather than by any single official page.

@@ -33,7 +33,7 @@ faq:
     a: "تلاشت الحدود بين البانغ تلاشيًا واضحًا. فمع الزواج العابر للبانغ، والتحضّر، وصيرورة الماندرينية لغةً مشتركةً عابرةً للهجات عبر التعليم الصيني، غدا وعي الجيل الشاب بالأصل الجَدّي أضعف في الغالب من وعي أسلافهم. لكن البانغ لم تختفِ كليًّا: فجمعيات العشائر وروابط أبناء البلدة والأضرحة الجَدّية والمقابر في أنحاء البلاد ما زالت تعمل، وكثيرٌ من الناس ما زالوا يعرفون أصلهم الجَدّي، وما زال أثرها يظهر في مناسباتٍ كالتشينغ مينغ (تنظيف القبور). ويمكن القول إن البانغ تنتقل تدريجيًا من كونها «العمود الفقري المنظِّم للمجتمع» إلى كونها «ذاكرةً للثقافة والتاريخ»."
 
 lang: "ar"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,32 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'معبد عشيرة ليونغ سان تونغ خو كونغسي المزخرف في جورج تاون، بينانغ، وحوافّ سقفه مكتظّة بالتنانين الملوّنة والتماثيل الصغيرة فوق قاعة صلاة منحوتة ومذهّبة بغنى.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: مبنى تجاري سكني (shophouse) أصفر وأحمر من حقبة ما قبل الحرب يضمّ جمعية عشائرية من Hokkien في شارع وسط Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: مبنى جمعية Hokkien في Selangor (جمعية عشائرية لمجموعة لهجة Hokkien) في Jalan Hang Lekiu، Kuala Lumpur
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: مبنى تجاري سكني من ثلاثة طوابق بطراز كلاسيكي حديث مزخرف كان يضمّ ذات يوم جمعية عشائرية من Hakka في وسط Seremban
+    kind: actual
+    origin: third-party
+    subject: مبنى جمعية Fui Chiu (Huizhou Hakka) السابق، بيت عشائري لمجموعة لهجة Hakka في Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 في شوارع بِنانغ القديمة، المحالّ التي تَسنُد صفًّا كاملًا من واجهات السوق هي في الغالب أعمالٌ يديرها الهوكيّان؛ وفي مدنٍ نهضت على القصدير كـكوالالمبور وإيبوه، كانت المناجم والنقابات الحِرَفية تغصّ بالكانتونيين والهاكّا؛ وأيّ مدينةٍ دخلتها، فإن المقهى العتيق الذي يبيع قهوة هاينان والخبز المحمّص بالزبدة والكايا كثيرًا ما يقف خلف منضدته هاينانيٌّ.

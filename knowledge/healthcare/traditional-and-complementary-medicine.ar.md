@@ -26,7 +26,7 @@ faq:
     a: "للمخالفة الأولى، غرامة لا تتجاوز RM30,000 أو السجن مدة لا تتجاوز سنتين، أو كليهما. أما المخالفات اللاحقة فتصل إلى RM50,000 أو السجن حتى ثلاث سنوات."
 
 lang: "ar"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,9 +57,35 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["الطب التقليدي", "perubatan tradisional", "T&CM", "Act 775", "TCM", "العلاج بتقويم العمود الفقري", "chiropractic", "المعالجة المثلية", "homeopathy", "تسجيل الممارسين", "مجلس T&CM"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'لافتة واجهة متجر ماليزي للطبّ التقليدي والصحة، تمثّل ممارسة الطبّ التكميلي والتقليدي.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: أربع إبر وخز دقيقة (acupuncture) موضوعة على سطح بجوار عملة معدنية لبيان الحجم، تمثّل الوخز بالإبر كعلاج تكميلي
+    kind: representative
+    origin: third-party
+    subject: إبر وخز (acupuncture) معروضة مع عملة معدنية لبيان الحجم
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: صندوق خشبي من قوارير jamu، وهو شراب عشبي تقليدي، بقوارير سائل كهرماني مسدودة بالأوراق، يمثّل الطبّ العشبي التكميلي
+    kind: representative
+    origin: third-party
+    subject: قوارير jamu، وهو شراب عشبي تقليدي ملايوي إندونيسي
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 منذ 1 مارس 2025، لم يعد بوسع المدلّكين التقليديين وممارسي الطب الصيني والمعالجين المثليين وأخصائيي تقويم العمود الفقري في ماليزيا فتح أبواب عياداتهم دون ورقة واحدة — شهادة التسجيل. لقد انتهى عصر «الممارسة باسم الخبرة».

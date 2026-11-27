@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "यात्री, व्यवसाय और वे सभी जो यह समझने की कोशिश कर रहे हैं कि «मलेशिया» कभी-कभी एक पासपोर्ट और एक झंडे को साझा करने वाले दो प्रशासनों की तरह क्यों व्यवहार करता है।"
 
 lang: "hi"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["प्रायद्वीपीय मलेशिया", "Peninsular Malaysia", "पूर्वी मलेशिया", "East Malaysia", "सबा सारावाक सीमा", "Sabah Sarawak border", "दक्षिण चीन सागर मलेशिया", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "मलेशियाई मानक समय 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'मलेशिया का एक क्षेत्रीय मानचित्र जिसमें प्रायद्वीपीय मलेशिया और बोर्नियो पर पूर्वी मलेशिया को दक्षिण चीन सागर के आर-पार अलग-अलग रंग-कोडित खंडों के रूप में दर्शाया गया है।'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: चटख हरे धान के खेतों का एक समतल विस्तार एक विस्तृत हल्के-नीले आसमान के नीचे पेड़ों की कतार वाले नीचे क्षितिज तक फैला है।
+    kind: actual
+    origin: third-party
+    subject: Sekinchan, Selangor (प्रायद्वीपीय मलेशिया) के निचले धान के खेत
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: एक चौड़ी, कीचड़ भरी भूरी वर्षावन नदी घने जंगल वाले किनारों के बीच मुड़ती है, और लकड़ी के एक घाट पर छोटी हरी लकड़ी की नावें बंधी हैं।
+    kind: actual
+    origin: third-party
+    subject: Sukau, Sabah (बोर्नियाई मलेशिया) में Kinabatangan नदी
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 कुआलालंपुर से कोटा किनाबालू की घरेलू उड़ान भरिए और आप उसी देश में उतरते हैं जहाँ से आप निकले थे। वही मुद्रा, वही पासपोर्ट, पूँछ पर वही झंडा। और फिर भी, आगमन हॉल में, आप एक आप्रवासन-शैली के काउंटर पर कतार में लगते हैं और कोई आपको आगे जाने देने से पहले आपके पहचान पत्र या पासपोर्ट की जाँच करता है। मलेशिया के भीतर कोई दूसरी उड़ान इस तरह काम नहीं करती।

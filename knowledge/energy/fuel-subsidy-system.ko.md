@@ -37,7 +37,7 @@ faq:
     a: "사바, 사라왁, 라부안의 디젤은 리터당 RM2.15로 유지되며 반도처럼 변동화되지 않습니다. 보조 RON95 RM1.99는 전국의 자격 있는 국민에게 적용됩니다."
 
 lang: "ko"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -133,6 +133,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: '말레이시아 페트로나스 주유소 앞마당으로, 지붕 아래에 주유기가 설치되어 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: 붉은 테두리 지붕이 여러 주유 아일랜드를 덮은 셸 브랜드 주유소. 길가 기둥 간판에 노란 셸 조개 로고가 있고 인근에 상가와 차량이 있으며 하늘이 밝다
+    kind: actual
+    origin: third-party
+    subject: 조호르바루 타만플랑이의 셸 주유소 앞마당. 지붕 아래에 주유 아일랜드가 있다
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: 넓고 평평한 지붕이 주유기를 덮은 주유소 앞마당. 길가에 높고 환하게 불 밝힌 가격 표시 기둥이 서 있고 옆에 편의점 건물이 있는 흐린 날
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 이족의 FIVE 브랜드 주유소. 말레이시아 독립계 연료 소매 체인 중 하나로 앞마당과 가격 기둥을 갖추고 있다
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 수십 년 동안, 말레이시아의 모든 사람은 — 백만장자든 고무 채취공이든 — 주유소에서 같은 휘발유 가격을 냈습니다. 2025년 9월 30일, 그 구도는 끝났습니다. 이제 RON95 1리터는 당신에게는 RM1.99일 수 있지만 이웃에게는 거의 두 배일 수 있으며, 그것을 결정하는 것은 세계 유가가 아니라 당신이 단말기에 삽입하는 신분증입니다.

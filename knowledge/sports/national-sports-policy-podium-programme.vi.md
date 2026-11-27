@@ -35,7 +35,7 @@ faq:
     a: "Các mục tiêu được gắn với chu kỳ của các đại hội chính — Olympic, Đại hội Thể thao Châu Á và Đại hội Thể thao Khối Thịnh vượng chung — và trọng tâm được đặt vào các môn được xác định có cơ hội thành công cao, phù hợp với Mục tiêu 8 của Chính sách Thể thao Quốc gia. Tài trợ được phân bổ theo chu kỳ (ví dụ RM60 triệu mỗi năm trong bốn năm), do Hội đồng Thể thao Quốc gia điều phối và được Viện Thể thao Quốc gia hỗ trợ về khoa học thể thao."
 
 lang: "vi"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "institut-sukan-negara" }
   - { rel: "part-of", to: "dasar-sukan-negara-2009" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-day-malaysia"]
 keywords:
   - "Dasar Sukan Negara 2009"
   - "Program Podium Malaysia"
@@ -93,6 +93,32 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'Các vận động viên thể dục dụng cụ đoạt huy chương đứng trên bục trao giải tại SEA Games 2017 Kuala Lumpur khi một vận động viên Malaysia cầm quốc kỳ.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: Tay vợt para-cầu lông Malaysia Cheah Liek Hou, trong trang phục màu vàng của Malaysia, di chuyển lên lưới trong trận chung kết đơn nam SU5 tại Paralympic Paris 2024.
+    kind: actual
+    origin: third-party
+    subject: Vận động viên đỉnh cao Malaysia Cheah Liek Hou thi đấu tại Paralympic Paris 2024
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: Trung tâm Thể thao Dưới nước Pandelela Rinong ở Kuching, một địa điểm nhảy cầu và bơi lội hiện đại màu đỏ và xanh lá được đặt theo tên vận động viên đoạt huy chương nhảy cầu Olympic của Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Trung tâm Thể thao Dưới nước Pandelela Rinong, một địa điểm thể thao đỉnh cao của Malaysia được đặt theo tên vận động viên đoạt huy chương Olympic
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 Mỗi khi một vận động viên Malaysia bước lên bục vinh quang Olympic, thực ra có hai hệ thống khác nhau đang làm việc phía sau người đó — một hệ thống cố gắng mời gọi cả dân tộc vận động, và một hệ thống khác dồn những nguồn lực lớn cho một số ít có khả năng chiến thắng. Cả hai đều tồn tại dưới cùng một văn kiện chính sách, nhưng được tài trợ và đo lường theo những cách rất khác nhau.

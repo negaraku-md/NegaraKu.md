@@ -34,7 +34,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a45b971c54bb5789"
+sourceContentHash: "0736c39b4b8d3715"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ relations:
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
 framework: profile
+hero: '/media/companies/top-glove-and-press-metal/hero.webp'
+heroAlt: 'Pandangan dekat barisan pengeluaran sarung tangan di mana acuan berbentuk tangan bersalut lateks biru basah tergantung sebaris dan menitis ke dalam dulang cecair biru di bawah, dengan sarung tangan putih yang baru dicelup pada acuan di latar belakang'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a rubber-glove dipping production line, the process by which glove makers such as Top Glove manufacture gloves (illustrative; not a Top Glove facility)'
+
+images:
+  - role: scene
+    src: /media/companies/top-glove-and-press-metal/body-1.webp
+    alt: Seorang juruteknik berkot makmal putih, cermin mata keselamatan dan sarung tangan nitril biru memegang sarung tangan ujian lutsinar berisi air untuk memeriksa kebocoran, dengan barisan sarung tangan tergantung pada rak ujian di belakangnya dalam sebuah makmal
+    kind: representative
+    origin: third-party
+    subject: Pemeriksaan kualiti sarung tangan perubatan pakai buang dalam sebuah makmal (gambaran ujian kualiti industri sarung tangan; bukan kemudahan Top Glove)
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Testing_Medical_Gloves_(8535999199).jpg
 ---
 
 Dua syarikat Malaysia mendahului bidang mereka di peringkat global. Satu ialah pengeluar sarung tangan pakai buang terbesar di dunia; satu lagi ialah pelebur aluminium primer terbesar di Asia Tenggara. Kedua-duanya bukan nama yang dikenali umum di luar kalangan pelaburan, namun Top Glove dan Press Metal menunjukkan bagaimana sebuah ekonomi bersaiz sederhana boleh melahirkan peneraju global sektor tunggal.

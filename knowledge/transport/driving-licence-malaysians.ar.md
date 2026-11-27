@@ -27,7 +27,7 @@ verificationNeeded:
   - "ما إذا كان يمكن الآن تقديم طلب CDL بالكامل عبر الإنترنت من خلال تطبيق MyJPJ — تذكر صفحة خدمة JPJ التي جرى فحصها أن الطلبات تُقدَّم عند شبّاك JPJ في الولاية فقط، لكن هذا قد يكون تغيّر منذ تاريخ الفحص"
 
 lang: "ar"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ keywords:
   - "lesen memandu Malaysia"
   - "sistem KEJARA"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'مدرسة قيادة بواجهة متجر كُتب عليها "Pusat Latihan Memandu Sri Jaya" مع لافتات زرقاء كبيرة بحرف L للمتدربين.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: مدخل ومنطقة انتظار فرع إدارة النقل البري (JPJ) في Bandar Tasik Selatan، Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: مكتب فرع JPJ (إدارة النقل البري)، Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: دوّار مروري متعدد المسارات مزوّد بلافتات إرشادية في Rawang، Selangor، وهو مناورة يجب أن يتقنها كل سائق متعلّم.
+    kind: representative
+    origin: third-party
+    subject: دوّار مروري في Rawang، Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 يعامل معظم الناس «رخصة القيادة» على أنها وثيقة واحدة. وهي في الحقيقة ثلاث رخص منفصلة — L وP وCDL — يربطها معًا حدودٌ زمنية صارمة، إضافةً إلى نظام نقاط جزاء يمكنه إلغاء رخصة P الخاصة بك فورًا، قبل أن تسنح لها فرصة التحوّل إلى رخصة كاملة بوقت طويل. وهذا هو كيف تعمل تلك السلسلة فعلًا، بحسب البوابة الرسمية لدائرة النقل البري (JPJ) والبوابة الرسمية لحكومة ماليزيا.

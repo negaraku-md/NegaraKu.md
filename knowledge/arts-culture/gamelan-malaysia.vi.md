@@ -33,7 +33,7 @@ faq:
     a: "Bộ gamelan gốc được trả về Pahang năm 1973 và trưng bày tại Bảo tàng Pahang ở Pekan."
 
 lang: "vi"
-sourceContentHash: "c60f9bc5987b416f"
+sourceContentHash: "127c65612691fd0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["pahang", "terengganu", "joget-and-zapin", "mak-yong"]
 keywords: ["gamelan Melayu", "gamelan Terengganu", "gamelan Pahang", "joget gamelan", "Tengku Ampuan Mariam", "muzik istana", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/gamelan-malaysia/hero.webp'
+heroAlt: 'Một dàn nhạc gamelan Mã Lai đầy đủ bày dưới ánh sáng ấm, với những hàng cồng nồi bằng đồng (bonang), một đàn phím kim loại (saron) và những chiếc cồng lớn treo trên khung gỗ chạm khắc'
+heroCredit: 'The Bangsawan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Malay gamelan ensemble on display at the Music Museum (Muzium Muzik), Kuala Lumpur, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-1.webp
+    alt: Một bộ gamelan Mã Lai hoàn chỉnh được bày trên một tấm thảm hoa văn, với các cồng vạc bằng đồng, các đàn kim loại, một chiếc cồng treo và một chiếc trống đặt trên những giá gỗ chạm khắc
+    kind: actual
+    origin: third-party
+    subject: Bộ Gamelan Melayu hoàn chỉnh bày trong một trung tâm nghệ thuật và di sản Malaysia
+    credit: Pusat Kesenian & Warisan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_2_PKW.jpg
+  - role: scene
+    src: /media/arts-culture/gamelan-malaysia/body-2.webp
+    alt: Một nhạc công mặc áo dài màu cam quỳ trước một đàn kim loại saron màu đỏ pha vàng, gõ vào các thanh đồng bằng một chiếc dùi gỗ
+    kind: representative
+    origin: third-party
+    subject: Nhạc công gõ một đàn kim loại saron (gamelan Indonesia, cùng họ nhạc cụ với Gamelan Melayu)
+    credit: Dewinta88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pemain_Saron_Pelog.jpg
 ---
 
 Bộ gamelan ấy di chuyển từ cung đình này sang cung đình khác không phải vì bị bán hay bị cướp — mà vì hôn nhân. Khi một công chúa dời về cung phủ của chồng, nhạc cụ, vũ công và các bài ca cũng dời theo. Đó là cách gamelan trở thành sở hữu của cung đình Mã Lai.

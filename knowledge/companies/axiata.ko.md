@@ -31,7 +31,7 @@ faq:
     a: "1992년 Telekom Malaysia의 국제·모바일 부문인 TM International Berhad로 설립되었습니다. Bursa Malaysia에 따로 상장된 뒤, 2009년 4월 2일 Axiata Group Berhad로 재브랜딩되었습니다."
 
 lang: "ko"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ verificationNeeded:
   - "2025년 9월 30일까지 9개월 그룹 YTD 순이익 RM403.3 million(2025년 11월 27일 발표) — 다음 분기·연차 실적과 대조하여 확인."
   - "'1억 5천만 명을 훨씬 넘는 고객'은 2019년 회사 수치에 이후 시장 성장을 더한 것; 현재 그룹 고객 총수를 최신 연차보고서와 대조하여 확인."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: '쿠알라룸푸르 악시아타 아레나의 정문, 타공된 은빛 전면에 크고 파랑과 자홍빛 ''axiata arena'' 이름과 삼각형 로고가 새겨진 모습'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: 스포츠 행사 중 거대한 파랑과 자홍색 'axiata arena' 간판 아래 Axiata Arena 정문 밖에 모인 사람들
+    kind: actual
+    origin: third-party
+    subject: 행사 중 부킷잘릴 Axiata Arena 정문에 모인 관중
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: 2017년 SEA 게임 배드민턴 경기 중 가득 찬 Axiata Arena 내부, 관중이 코트를 둘러싼 단층형 파란 관람석을 가득 메우고 있다
+    kind: actual
+    origin: third-party
+    subject: 2017년 SEA 게임 배드민턴 종목 중 Axiata Arena 내부
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 말레이시아의 가장 큰 통신 이야기는 단일 망이 아니라, 여섯 나라의 모바일 사업자 지분을 소유한 지주회사입니다. Axiata Group Berhad는 쿠알라룸푸르 센트럴(Kuala Lumpur Sentral)의 한 오피스 타워에 자리하며, 남아시아와 동남아시아 전역에서 수억 명을 연결하는 통신사들을 지배하거나, 일부 소유하거나, 공동으로 운영합니다.

@@ -37,7 +37,7 @@ verificationNeeded:
   - "Xác nhận diện tích vùng lõi và vùng đệm của phần Melaka cụ thể (so với toàn bộ tài sản nối tiếp) so với hồ sơ đề cử 1223bis."
 
 lang: "vi"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
 framework: profile
+hero: '/media/states/melaka/hero.webp'
+heroAlt: 'Tòa nhà Stadthuys thời Hà Lan màu đỏ đậm và tháp đồng hồ gạch đỏ của Quảng trường Hà Lan ở Melaka, bao khung một bùng binh hoa có cảnh quan'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: Nhà thờ Christ Church Melaka màu đỏ bên cạnh Phòng trưng bày Nghệ thuật Melaka, với một hàng xe xích lô trang trí hoa đầy màu sắc đỗ trong quảng trường
+    kind: actual
+    origin: third-party
+    subject: Nhà thờ Christ Church Melaka sơn đỏ và Phòng trưng bày Nghệ thuật Melaka với những chiếc xích lô phủ hoa trang trí rực rỡ đỗ phía trước
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: Tàn tích đá laterit phong hóa của pháo đài A Famosa ở Melaka với những khẩu đại bác cổ trên bãi cỏ dưới bầu trời xanh
+    kind: actual
+    origin: third-party
+    subject: Bức tường đá còn sót lại của cổng pháo đài Bồ Đào Nha A Famosa (Porta de Santiago) ở Melaka, với những khẩu đại bác cũ phía trước
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 Chín bang tại Malaysia có Vương công. Melaka không phải là một trong số đó —

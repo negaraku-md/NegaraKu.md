@@ -37,7 +37,7 @@ faq:
     a: "Berjalan di jalur alam hutan (Bishop, Maxwell, Rompin dan Kindersley termasuk yang paling dikenal), mengunjungi kawasan rekreasi Air Terjun Jeriau, menjelajah desa mock-Tudor di sekitar menara jam, dan sekadar menikmati laju yang sejuk dan lambat (Wikipedia). Ada lapangan golf dan sejumlah warisan era kolonial untuk dilihat, tetapi sesuai rancangan ada sangat sedikit kehidupan malam."
 
 lang: "id"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,39 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Pengamat burung dan pencinta alam yang mencari tempat peristirahatan dataran tinggi beriklim sejuk yang tenang dengan jalur hutan dan pesona kolonial yang memudar, bukan kehidupan malam atau atraksi besar.'
+  getThere: 'Tidak ada bandara atau jalur kereta api — Anda berkendara naik melalui jalan pegunungan berkelok-kelok dari Kuala Kubu Bharu ke The Gap, tempat tanjakan terakhir dimulai, dengan lalu lintas naik dan turun kini dipisahkan antara dua jalan (jalan asli berjalur tunggal secara historis beroperasi sebagai satu arah terjadwal).'
+  watch: 'Jalan pegunungan yang sempit dan berkelok-kelok lambat serta rentan tertutup setelah hujan, tanah longsor, atau pohon tumbang, dan bukit itu sendiri sering berkabut dan basah, dengan pilihan santap serta pasokan yang terbatas.'
+  next: 'Konfirmasikan pengaturan akses jalan terkini dan setiap penutupan dengan otoritas jalan (JKR) sebelum Anda bepergian.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'Menara jam batu yang digantungi bendera Malaysia di samping bangunan bergaya Tudor setengah kayu di bawah kabut kelabu dan pohon pinus tinggi di Fraser''s Hill'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: Hotel bergaya Tudor berwarna putih-cokelat dengan rangka kayu, jendela bercahaya hangat dan tanaman ivy, dibingkai pohon pinus tinggi saat senja
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse, hotel kolonial bergaya mock-Tudor di Fraser's Hill yang bercahaya saat senja
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: Taman dataran tinggi tertata dengan pohon palem yang menurun ke hutan hujan hijau lebat dengan punggung gunung biru berkabut di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Taman lereng bukit bertingkat menghadap lembah hutan hujan sejuk berkabut dan jajaran gunung di kejauhan, Fraser's Hill
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 Sebagian besar stasiun bukit Malaysia menjual Anda sesuatu — kasino, perkebunan teh, ladang stroberi, taman tema. Fraser's Hill menjual Anda ketiadaan semua itu. Terhampar di gugusan punggungan berhutan di [barisan Titiwangsa](/id/malaysia/titiwangsa-range), ia stasiun era kolonial yang kecil, tenang dan berselimut kabut tempat hal paling nyaring yang akan Anda dengar adalah kicau burung, dan tempat sweter berhenti terasa konyol bahkan di khatulistiwa. Bagi pengamat burung ia nyaris tanah suci; bagi semua orang lain ia alternatif yang lambat dan sederhana bagi tetangga dataran tingginya yang lebih mencolok. Panduan ini mencakup apa sebenarnya Fraser's Hill, mengapa pengamat burung datang, apa yang bisa dilihat, bagaimana jalan naik yang berliku bekerja, serta siapa yang cocok dan tidak cocok dengan tempat ini.

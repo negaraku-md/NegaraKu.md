@@ -119,6 +119,34 @@ keywords:
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
 framework: profile
+hero: '/media/business/doing-business-penang/hero.webp'
+heroAlt: 'Aerial view of the Bayan Lepas Free Industrial Zone in Penang, with large factory and manufacturing buildings lined along a coastal highway beside the sea and hills behind'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: Elevated view of the Penang Bridge spanning the channel with cars flowing in both directions, the mainland town and hills visible in the distance
+    kind: actual
+    origin: third-party
+    subject: The Penang Bridge carrying traffic across the channel between Penang Island and the mainland, the economic artery linking the island to the Seberang Perai industrial hub
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: Low-angle view of the tall Komtar tower in George Town, Penang, rising above the commercial district against a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: The Komtar tower in George Town, Penang's tallest building and central commercial and government landmark
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 The first question about doing business in Penang is not what to register. It is which

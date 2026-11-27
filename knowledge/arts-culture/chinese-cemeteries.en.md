@@ -33,7 +33,7 @@ faq:
     a: "Qingming is the busiest day of the year at the yishan. In the roughly ten days around Qingming, Chinese families often go as a whole household to the yishan to sweep tombs and honour their ancestors — clearing weeds, cleaning the headstone, repainting faded carved characters and laying out offerings. In Guangdong, tomb-sweeping is colloquially called 'bai shan' (paying respects at the hill), and this expression travelled to the Nanyang region with the migrants. In recent years some yishan managements have promoted a simpler, eco-friendly approach and proper handling of rubbish, and some families now observe the day through niche visits or online remembrance instead."
 
 lang: "en"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'A large horseshoe-shaped Chinese tomb with gilded inscriptions and carved side panels set into a grassy mound among trees on the Bukit China burial hill in Melaka.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: Rows of tiled omega-shaped Chinese tombs with headstones and altars in a grassy cemetery in Sarawak
+    kind: actual
+    origin: third-party
+    subject: Tiled horseshoe-shaped Chinese graves at a Chinese cemetery near Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: Strips of coloured paper laid across a grassy grave mound beside a headstone during the Qingming tomb-sweeping festival
+    kind: representative
+    origin: third-party
+    subject: Coloured papers weighted onto a grave mound during Qingming (tomb-sweeping) at Bukit Brown Cemetery
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 Around Qingming, before the sky is fully light, the foot of Bukit Cina in Melaka is already lined with parked cars. Families carry fresh flowers, incense, candles and offerings as they walk up the rolling slopes toward their ancestors' graves. Some first offer incense at a small stone niche beside the grave inscribed with the characters for "Houtu", then turn to tend the ancestor's headstone — pulling weeds, repainting faded carved characters, and laying out offerings. The densely packed graves along the slope, all facing the same way, are the resting place of generation after generation of Chinese who came south.

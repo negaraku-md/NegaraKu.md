@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังเช่า ซื้อ หรือย้ายเข้าบ้านในมาเลเซียที่ต้องต่อบรอดแบนด์แบบมีสาย"
 
 lang: "th"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'ช่างเทคนิค Telekom Malaysia กำลังทำงานที่จุดกระจายสายเคเบิลโทรคมนาคมริมถนนในกัวลาลัมเปอร์'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: อาคารสำนักงานของ Telekom Malaysia ในปุตราจายา ซึ่งเป็นผู้ให้บริการโทรศัพท์พื้นฐานและไฟเบอร์ระดับชาติ
+    kind: representative
+    origin: third-party
+    subject: อาคารสำนักงานของ Telekom Malaysia (TM) ในปุตราจายา
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: โมเด็มไฟเบอร์ออปติก Unifi ยี่ห้อ FiberHome ติดตั้งอยู่บนผนังภายในบ้าน
+    kind: representative
+    origin: third-party
+    subject: โมเด็มบรอดแบนด์ไฟเบอร์ Unifi (FiberHome ONT) ที่ติดตั้งในบ้านของมาเลเซีย
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 ก่อนที่คุณจะเปรียบเทียบราคาแม้แต่ริงกิตเดียว มีคำถามที่สำคัญกว่า: ไฟเบอร์เข้าถึงหน้าประตูบ้านของคุณเลยหรือไม่? เซ็นสัญญาสองปีก่อนตรวจสอบเรื่องนี้ แล้วคุณอาจรู้ในวันติดตั้งว่าช่างเทคนิคไม่สามารถลากสายเข้าหน่วยของคุณได้จริง

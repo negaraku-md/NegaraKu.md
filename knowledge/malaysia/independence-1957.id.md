@@ -29,7 +29,7 @@ faq:
     a: "Kedua momen itu benar. Pemindahan kedaulatan secara hukum berlaku pada tengah malam 31 Agustus 1957, ditandai dengan upacara bendera di lapangan di Kuala Lumpur. Upacara pengumuman publik, dengan pekikan Merdeka sebanyak tujuh kali, berlangsung kemudian pada pagi itu di Stadium Merdeka."
 
 lang: "id"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Kemerdekaan Tanah Melayu", "Tunku Abdul Rahman", "Suruhanjaya Reid", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'Tunku Abdul Rahman berdiri di hadapan kerumunan, tangan terangkat, pada proklamasi kemerdekaan Merdeka 1957 yang bersejarah.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: Tribune melengkung dan lapangan oval terbuka Stadium Merdeka di Kuala Lumpur di bawah langit cerah, arena bersejarah tempat kemerdekaan Malaya dideklarasikan.
+    kind: actual
+    origin: third-party
+    subject: Stadium Merdeka, Kuala Lumpur, tempat kemerdekaan diproklamasikan pada 31 Agustus 1957
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: Tiang bendera putih menjulang tinggi di Dataran Merdeka di atas hamparan rumput hijau Lapangan Merdeka di Kuala Lumpur, tempat Union Jack diturunkan pada tengah malam tahun 1957.
+    kind: actual
+    origin: third-party
+    subject: Tiang bendera raksasa di Dataran Merdeka (Lapangan Merdeka), Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 Beberapa menit setelah tengah malam pada 31 Agustus 1957, di lapangan di depan bangunan lama Kelab Selangor di Kuala Lumpur, bendera Union Jack diturunkan dan bendera Persekutuan Tanah Melayu yang baru dinaikkan. Itulah gambaran yang dibawa kebanyakan orang tentang Merdeka — tetapi kerja sebenarnya kemerdekaan telah selesai berbulan-bulan sebelumnya, di dalam ruang-ruang komite di London dan Kuala Lumpur, oleh orang-orang yang merundingkan pasal-pasal sebuah konstitusi yang tidak ada pada tahun sebelumnya.

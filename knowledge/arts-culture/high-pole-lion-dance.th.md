@@ -33,7 +33,7 @@ faq:
     a: "การเชิดสิงโตบนเสาสูงมีที่มาจากประเพณีสิงโตตื่นของชาวจีน คณะสิงโตบางคณะตั้งอยู่ที่ศาลเจ้าหรือตั้งชื่อตามศาลเจ้า และอาจมีพิธีกรรมดั้งเดิม เช่น การเจิมตาก่อนขึ้นเสา แต่ในฐานะกีฬาและการแสดง ปัจจุบันมักถูกมองว่าเป็นกิจกรรมทางวัฒนธรรมและกีฬามากกว่า และคณะสิงโตสมัยใหม่บางคณะก็ลดทอนสีสันทางศาสนาในการฝึกซ้อม บทความนี้อธิบายเพียงประเพณีและกีฬานั้นเอง โดยไม่ตัดสินความเชื่อใด ๆ"
 
 lang: "th"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'ชุดเชิดสิงโตสีขาวปนทองที่มีผู้แสดงสองคนอยู่ภายใน ถูกจับภาพกลางอากาศขณะกระโดดเหนือแถวเสาเหล็กสูงในการแข่งขัน'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: สิงโตเชิดสีขาวทรงตัวอยู่บนเสาสีแดงสูงเหนือฝูงชนบนถนนในกัวลาลัมเปอร์ โดยมีป้ายร้านค้าภาษาจีนอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: การเชิดสิงโตบนเสาสูงบนเสาจงบนถนนในกัวลาลัมเปอร์ต่อหน้าฝูงชน ประเทศมาเลเซีย
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: หัวและตัวสิงโตเชิดสีขาวที่ตกแต่งสีสันสดใสทรงตัวอยู่บนยอดเสาสูงหลายต้น หันหน้าไปข้างหน้าใต้แสงไฟเวที
+    kind: representative
+    origin: third-party
+    subject: สิงโตแข่งขันสีขาวย่อตัวและทรงตัวอยู่บนเสาจงสูงหลายต้น หัวสิงโตหันเข้ากล้อง
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 พอเสียงกลองกระชับขึ้น สิงโตก็ทะยานขึ้นกลางอากาศ อุ้งเท้าหน้าลงหยั่งมั่นคงบนเสาเหล็กกล้าที่เล็กเพียงขอบชามใบหนึ่ง หางสิงโตตามขึ้นมาทันที—นักแสดงสองคนกระโดดและตั้งท่านิ่งในระหว่างแถวของเสาที่สูงต่ำไม่เท่ากัน สูงจากพื้นสองสามเมตร ผู้ชมกลั้นหายใจ จนกระทั่งสิงโตที่ดูราวกับ 'มีชีวิต' ตัวนั้นยืนตั้งมั่นบนเสาที่สูงที่สุด เสียงปรบมือจึงประทุขึ้น นี่ไม่ใช่การเชิดสิงโตอวยพรบนพื้น แต่เป็นกีฬาที่มีการให้คะแนน มีแชมป์ และมีอันดับโลก—การเชิดสิงโตบนเสาสูง

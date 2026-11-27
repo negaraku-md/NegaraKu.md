@@ -60,6 +60,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: 'ภาพนูนต่ำลงสีของตราแผ่นดินมาเลเซีย มีเสือสองตัวขนาบข้างโล่ ด้านบนเป็นรูปจันทร์เสี้ยวและดาว ด้านล่างมีคำขวัญ Bersekutu Bertambah Mutu'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # ตราแผ่นดิน (Jata Negara): อ่านโล่ประจำชาติของมาเลเซียทีละองค์ประกอบ

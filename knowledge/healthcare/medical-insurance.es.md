@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Empleados que sopesan la cobertura médica del empleador frente a una tarjeta médica personal, y cualquiera que intente entender qué significa «copago» antes de comprar o renovar una póliza."
 
 lang: "es"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ faq:
   - q: ¿Es una póliza médica 'sin copago (no co-payment)' automáticamente mejor que una con copago?
     a: 'No necesariamente: el artículo lo señala como un error común. Un plan sin copago conlleva una prima más alta para los mismos límites de beneficios. Con el copago (co-payment), usted acepta de antemano asumir una parte definida de cada factura hospitalaria elegible a cambio de una prima más baja. Que esa compensación valga la pena depende de cuánto de una factura podría asumir usted mismo; consulte la hoja de divulgación del producto (product disclosure sheet) para conocer el porcentaje, cualquier tope y los tratamientos excluidos.'
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'Las puertas de entrada a una sala de hospitalización en un hospital público malasio, un entorno neutral de atención médica.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Una vista aérea de un gran y moderno edificio de hospital privado en Seberang Perai, Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, un hospital privado en Seberang Perai, Penang, Malasia
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Un mostrador de recepción curvo de hospital en un luminoso vestíbulo de entrada, que representa los ingresos y la facturación, con algunas personas a lo lejos
+    kind: representative
+    origin: third-party
+    subject: Un mostrador de recepción y de admisiones de hospital en el vestíbulo de la entrada principal
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Dos empleados entran en el mismo hospital privado con el mismo brazo roto. Uno entrega una tarjeta y sale sin pagar un sen al recibir el alta. La otra paga una parte de la factura ella misma, porque la póliza que compró hace seis meses era más barata precisamente por esa razón.

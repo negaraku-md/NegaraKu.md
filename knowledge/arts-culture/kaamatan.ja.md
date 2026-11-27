@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -85,6 +85,34 @@ festivalFacts:
   when: "5月30日と31日。この2日間の州レベルのフィナーレに先立ち、5月の大半を通じて地区ごとに祝いが行われる。"
   holiday: "5月30日と31日はサバ州および連邦直轄領ラブアンの祝日であり、全国的な祝日ではない。"
   etiquette: "Unduk Ngadau は、通常の美人コンテストではなく、Huminodun の伝説を称える文化パジェントとして理解し、Bambaazon の信仰と Huminodun の伝説は、断定された事実としてではなく、コミュニティ自身の伝統として敬意をもって扱うこと。"
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'サバ州プナンパンの星空の舞台で、黒と金の伝統衣装をまとったカダザン・ドゥスンのボボヒザン(司祭)たちがカアマタンの儀式を執り行う'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: サバ州プナンパンのカアマタン祭の舞台上で、伝統的な黒と金のカダザン・ドゥスン族の衣装を着た6人の最終候補者の中から戴冠したウンドゥ・ンガダウの優勝者
+    kind: actual
+    origin: third-party
+    subject: カアマタン祭の美人コンテストで戴冠したウンドゥ・ンガダウの優勝者と最終候補者たち
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: サバ州のカアマタン収穫祭で、赤と銀の縁取りのある黒い衣装を着た若いカダザン・ドゥスン族の踊り手たちが、ゴングを鳴らしながら伝統舞踊を披露する様子
+    kind: actual
+    origin: third-party
+    subject: ゴングを鳴らしながら収穫祭の舞踊を披露するカダザン・ドゥスン族の若者たち
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 この祭りは、たった一つの概念にちなんで名付けられている——収穫である。*カアマタン*はカダザンドゥスン語でまさにそれを意味しており、儀式、米酒、そして最終日の夜に戴冠される美人コンテストといった祝賀の他のすべての要素は、稲を取り入れるというこの一つの行為から生まれている。

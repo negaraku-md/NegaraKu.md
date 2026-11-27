@@ -34,7 +34,7 @@ faq:
     a: "மரப்போர்வை இழப்பு எந்தவொரு மரப் போர்வை அகற்றலையும் கணக்கிடுகிறது — தோட்டங்களின் அறுவடை, தீ மற்றும் புயல் சேதம் உட்பட — எனவே அது பின்னர் மீண்டும் வளரும் இழப்புகளையும் உள்ளடக்குகிறது. முதன்மைக் காடு இழப்பு, ஈடுசெய்ய முடியாத உயிர்ப்பன்மயம் மற்றும் கார்பன் கொண்ட முதிர்ந்த இயற்கைக் காட்டை வெட்டுவதை மட்டுமே கணக்கிடுகிறது, மேலும் நிரந்தர சூழலியல் இழப்பின் சிறந்த குறிகாட்டியாகும்."
 
 lang: "ta"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'போர்னியோ Kinabalu Park-ல் அடர்த்தியான, சீர்குலையாத வெப்பமண்டல மழைக்காட்டில் உயர்ந்த மரங்களுக்கும் மர இலையடர்ந்த தாவரங்களுக்கும் இடையே மிதக்கும் மூடுபனி'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: மலேசிய போர்னியோவின் சபாவில் எண்ணெய்ப் பனைத் தோட்டத்தின் ஒழுங்கான வரிசைகளால் சூழப்பட்ட தனிமைப்பட்ட அடர்ந்த சொந்த மழைக்காட்டுத் தீவின் வான்வழித் தோற்றம்
+    kind: actual
+    origin: third-party
+    subject: சபாவில் எண்ணெய்ப் பனைத் தோட்டங்களால் சூழப்பட்ட மிஞ்சிய சொந்த மழைக்காட்டுத் துண்டு
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: மலேசிய போர்னியோவின் சபாவில் வெளிர்நிற மரம் வெட்டும் சாலைகளின் வலையாலும் ஆரஞ்சு நிற வெட்டப்பட்ட பகுதிகளாலும் பிளக்கப்பட்ட மழைக்காட்டின் உயரமான வான்வழித் தோற்றம்
+    kind: actual
+    origin: third-party
+    subject: சபாவில் மரம் வெட்டும் சாலைகளாலும் எண்ணெய்ப் பனைக்கான வெட்டுதல்களாலும் பிளக்கப்பட்ட காடு
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 மலேசியாவில் இன்னும் எவ்வளவு நிலம் காடாக உள்ளது என்று மூன்று நம்பகமான ஆதாரங்களிடம் கேளுங்கள் — பத்து சதவீதப் புள்ளிகள் இடைவெளியில் மூன்று வெவ்வேறு பதில்களை நீங்கள் பெறலாம்; ஒவ்வொன்றும் நியாயப்படுத்தத்தக்கது, ஒவ்வொன்றும் சற்று வேறுபட்ட ஒன்றை அளவிடுகிறது. அந்த இடைவெளி என்பது வட்டமிடல் பிழை அல்ல; அது மலேசியக் காடழிப்பு பற்றிய முழு விவாதத்தின் சுருக்கமான வடிவமே.

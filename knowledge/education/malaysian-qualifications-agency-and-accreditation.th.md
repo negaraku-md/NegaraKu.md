@@ -32,7 +32,7 @@ faq:
     a: "ต้อง หลักสูตรที่เสนอโดยผู้ให้บริการอุดมศึกษาใด ๆ ที่ดำเนินการในมาเลเซีย รวมถึงวิทยาเขตสาขาของต่างชาติ ได้รับการประกันคุณภาพภายใต้ MQF และปรากฏใน MQR มหาวิทยาลัยที่มีชื่อเสียงบางแห่งถือสถานะรับรองตนเอง (self-accrediting) ซึ่งให้อำนาจในการรับรองหลักสูตรของตนเองบน MQF และขึ้นทะเบียนหลักสูตรเหล่านั้นใน MQR"
 
 lang: "th"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'สำหรับนักศึกษา ผู้ปกครอง และนายจ้างที่กำลังตรวจสอบว่าคุณวุฒิหลังมัธยมศึกษาของมาเลเซียได้รับการยอมรับอย่างเป็นทางการหรือไม่'
+  how: 'ค้นในทะเบียนคุณวุฒิมาเลเซีย (MQR) ซึ่งใช้ฟรี โดยใช้ชื่อหลักสูตร ระดับ และวิทยาเขตที่สอนให้ตรงกัน แล้วยืนยันว่าหลักสูตรนั้นถือการรับรองชั่วคราว (Provisional) หรือเต็มรูปแบบ (Full Accreditation) ส่วนการยอมรับสำหรับวิชาชีพที่มีการกำกับหรือสำหรับงานภาครัฐนั้นต้องตรวจสอบแยกต่างหากกับหน่วยงานนั้น ๆ'
+  cost: 'การค้นในทะเบียน MQR ฟรี; ส่วนการยอมรับที่คุณอาจกำลังคาดหวัง — ใบอนุญาตประกอบวิชาชีพ งานราชการ หรือการศึกษาต่อต่างประเทศ — แต่ละอย่างอาจต้องตรวจสอบแยกต่างหากกับหน่วยงานของตนเอง'
+  watch: 'การรับรองผูกติดกับหลักสูตรและปีรับเข้าเฉพาะ ไม่ใช่ตัวสถาบัน — มหาวิทยาลัยที่มีชื่อเสียงก็ยังอาจเปิดสอนหลักสูตรใหม่ ที่ได้รับการรับรองชั่วคราว หรือยังไม่อยู่ในทะเบียนได้ คำกล่าวอ้าง ''MQA-approved'' ในโบรชัวร์ไม่ใช่ตัวทะเบียน ให้ยืนยันรายการจริงในระบบด้วยตัวเอง และพึงทราบว่าสถานะรับรองชั่วคราวถูกต้องตามกฎหมาย ไม่ใช่ของด้อยกว่า'
+  next: 'ค้นหาหลักสูตรที่แน่นอนของคุณในทะเบียน MQR ก่อนจ่ายเงินมัดจำใด ๆ; สำหรับวิชาชีพที่มีการกำกับ ให้ยืนยันเส้นทางของผู้สำเร็จการศึกษากับองค์กรวิชาชีพนั้น ดูเรื่องก่อนจ่ายเงินมัดจำวิทยาลัย'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'ป้ายชื่อติดผนังที่บุด้วยหินสลักตราและคำว่า "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia"'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: คณาจารย์ในชุดครุยพิธีการกำลังมอบปริญญาบนเวทีระหว่างพิธีประสาทปริญญาที่มหาวิทยาลัยแห่งชาติมาเลเซีย (UKM)
+    kind: representative
+    origin: third-party
+    subject: พิธีประสาทปริญญาพิเศษที่มอบปริญญา ณ มหาวิทยาลัยแห่งชาติมาเลเซีย (UKM)
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: อาคารสำนักงานอธิการบดี Canselori Putra ทรงโค้งของมหาวิทยาลัยปุตรามาเลเซีย (UPM) ข้างลานที่จัดภูมิทัศน์
+    kind: representative
+    origin: third-party
+    subject: อาคารสำนักงานอธิการบดี (Canselori) ของมหาวิทยาลัยปุตรามาเลเซีย (UPM)
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 นักศึกษาสองคนจบด้วยอนุปริญญาที่ชื่อคล้ายกัน คนหนึ่งมีคุณสมบัติสำหรับงานราชการและที่เรียนต่อปริญญาโท; อีกคนถูกปฏิเสธตั้งแต่หน้าประตู ความแตกต่างมักเป็นเพียงบรรทัดเดียวในทะเบียนสาธารณะ: ว่าหน่วยงานคุณวุฒิมาเลเซียรับรองหลักสูตรนั้นหรือไม่

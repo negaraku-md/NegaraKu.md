@@ -40,7 +40,7 @@ verificationNeeded:
   - "더 최신의 DOSM 발표가 나오면 인구 및 GDP 수치를 갱신."
 
 lang: "ko"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,9 +111,35 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: '맑은 하늘 아래, 흰색 돔을 가진 식민지 시대의 이포 기차역 건물이 아치형 열주 회랑을 갖추고 있다.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: 페락주 바투가자 인근에서 켈리스 캐슬의 미완성 붉은 벽돌 저택과 탑이 녹음 속에 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 페락주 바투가자, 켈리스 캐슬(Kellie's Castle)
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: 페락주 고펭 인근 구아 뜸푸룽의 광대한 석회암 동굴 안을 조명을 받은 종유석과 유석 형성물이 가득 채우고 있다.
+    kind: actual
+    origin: third-party
+    subject: 페락주 고펭 구아 뜸푸룽(Gua Tempurung) 석회암 동굴
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 1874년 1월 20일, 팡코르섬(Pulau Pangkor) 인근 해상에서 한 장의 조약이 서명되었습니다. 그 문서는 영토를 넘기지도, 전쟁을 선포하지도 않았습니다. 그것은 단지 하나의 새로운 직책을 도입했습니다: 그 조언을 반드시 따라야 하는 주재관(Residen)입니다.

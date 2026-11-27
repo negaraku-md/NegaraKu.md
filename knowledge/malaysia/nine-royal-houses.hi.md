@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "वे पाठक जो मलेशिया के नौ राजसी राज्यों को पहचानना और शासकों की संवैधानिक स्थिति को वर्णनात्मक रूप में समझना चाहते हैं — छात्र, शोधकर्ता, पत्रकार, लोक अधिकारी और सामान्य पाठक।"
 
 lang: "hi"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["मलेशिया के राजसी राज्य", "negeri beraja Malaysia", "नौ मलय शासक", "Majlis Raja-Raja", "शासक सम्मेलन", "Sultan Raja Yang di-Pertuan Besar", "राज्य में इस्लाम धर्म का प्रमुख", "Yang di-Pertuan Agong", "Undang Yang Empat"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'राष्ट्रीय महल का भव्य मेहराबदार प्रवेश-द्वार, जिसके ऊपर जुड़वाँ सुनहरे प्याज़नुमा गुंबद हैं और राजचिह्न वाला सोने का फाटक है, स्वच्छ नीले आकाश की पृष्ठभूमि में खड़ा है।'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: मलेशिया के राष्ट्रीय महल का दिन के समय का एक विस्तृत दृश्य, एक लंबा क्रीम-और-सफ़ेद परिसर जिसके ऊपर सुनहरे प्याज़नुमा गुंबद हैं, जो परिधि की बाड़ के पीछे एक सुसज्जित ऊँचाई पर स्थित है।
+    kind: actual
+    origin: third-party
+    subject: इस्ताना नेगारा, जालान तुआंकू अब्दुल हलीम, कुआला लुम्पुर पर राष्ट्रीय महल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: पुराना इस्ताना नेगारा, एक भव्य क्रीम रंग का महल जिसमें एक प्रमुख गुंबद और मेहराबदार अग्रभाग है, उष्णकटिबंधीय हरियाली के बीच, मलेशिया का पूर्व राष्ट्रीय महल जो अब शाही संग्रहालय के रूप में संरक्षित है।
+    kind: actual
+    origin: third-party
+    subject: जालान इस्ताना, कुआला लुम्पुर पर पुराना इस्ताना नेगारा, अब शाही संग्रहालय (मुज़ियम दिराजा)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 मलेशिया में तेरह राज्य हैं, लेकिन उनमें से केवल नौ का एक शासनरत शासक है। अन्य चार राज्य — मलक्का (Melaka), पिनांग (Penang), सबा (Sabah) और सारावाक (Sarawak) — का प्रमुख एक नियुक्त यांग दी-पर्तुआ नेगेरी (Yang di-Pertua Negeri) है, न कि कोई शासक।

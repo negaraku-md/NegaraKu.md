@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "7ed3eafee80e71c1"
+sourceContentHash: "687303f901beacc1"
 
 status: "published"
 aiAssisted: true
@@ -94,6 +94,34 @@ relations:
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
 framework: profile
+hero: '/media/states/putrajaya/hero.webp'
+heroAlt: 'プトラジャヤの湖に映る、緑のドームのプルダナ・プトラ政府庁舎のそばの、バラ色のドームのプトラ・モスクとそのミナレット'
+heroCredit: 'Mimihitam / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Masjid_Putra_and_Perdana_Putra.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The pink-domed Putra Mosque beside the Perdana Putra complex on the lakeside, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/states/putrajaya/body-1.webp
+    alt: 黄金の時間帯に輝くピンク色のPutra Mosque（プトラモスク）とそのミナレットが、Putrajaya Lakeの穏やかな水面に完璧に映り込んでいる様子
+    kind: actual
+    origin: third-party
+    subject: 黄金の時間帯、Putrajaya Lakeの静かな水面に映るPutra Mosque
+    credit: Azuladnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putra_Mosque_being_reflected_in_the_lake.jpg
+  - role: scene
+    src: /media/states/putrajaya/body-2.webp
+    alt: プトラジャヤで、斜めの帆のような主塔と扇状に広がるケーブルを持ち、湖を横切る近代的な白いSeri Wawasan Bridge
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤで湖に架かる帆の形をしたSeri Wawasan Bridge
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 1999年、首相府（Pejabat Perdana Menteri）がクアラルンプールから移転した。首都は変わらなかった——移転したのはその行政機構であった。

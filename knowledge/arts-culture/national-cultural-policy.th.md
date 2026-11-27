@@ -30,7 +30,7 @@ faq:
     a: "ตาม JKKN นโยบาย DKK 1971 กลายเป็นฐานของนโยบายวัฒนธรรมแห่งชาติ (DAKEN) 2021 ที่ตั้งอยู่บนเจ็ดแกนโดยมีระยะเวลาการดำเนินการ 2021-2025 JKKN ยังระบุว่า DKK 1971 ไม่เคยได้รับการรับรองอย่างเป็นทางการในระดับคณะรัฐมนตรี แม้ว่ามันจะชี้นำการบริหารมาราว 50 ปี"
 
 lang: "th"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'ทางเข้าหลักของอิสตานาบูดายา (Istana Budaya) โรงละครแห่งชาติ มีหลังคาทรงซีเรฮ์-จุนจง (sirih junjung) ที่ทอดยาว ตราดอกบัวสีทอง และบันไดกว้างที่นำไปสู่ประตูไม้แกะสลัก'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: คณะนักแสดงในชุดดั้งเดิมของซาราวักแสดงระบำพื้นเมืองบนเวทีต่อหน้าผู้ชม
+    kind: actual
+    origin: third-party
+    subject: นักแสดงในชุดดั้งเดิมแสดงระบำพื้นเมืองของซาราวักในงานแสดงวัฒนธรรมในมาเลเซีย
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: ด้านหน้าของพิพิธภัณฑ์แห่งชาติมาเลเซีย อาคารที่มีหลังคายอดแหลมแบบมีนังกาเบาและแผงจิตรกรรมโมเสกกระเบื้องขนาดใหญ่
+    kind: actual
+    origin: third-party
+    subject: พิพิธภัณฑ์แห่งชาติมาเลเซีย (Muzium Negara) ในกรุงกัวลาลัมเปอร์ ที่มีหลังคาแบบมีนังกาเบาและภาพจิตรกรรมโมเสกมรดกวัฒนธรรม
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 ในปี 1971 ราวสองปีหลัง[เหตุการณ์ 13 พฤษภาคม 1969](/malaysia/13-may-1969) กลุ่มนักวิชาการ ผู้ทำงานด้านศิลปะ และผู้นำได้มารวมตัวกันที่มหาวิทยาลัยมาลายาเพื่อตอบคำถามที่ยากสำหรับประเทศพหุชาติพันธุ์ กล่าวคือ อะไรคือความหมายของ "วัฒนธรรมแห่งชาติ"? คำตอบที่ได้ — นโยบายวัฒนธรรมแห่งชาติ (Dasar Kebudayaan Kebangsaan, DKK) — ยังคงเป็นการอ้างอิงเชิงนโยบายจนถึงปัจจุบัน และในขณะเดียวกันก็ยังคงเป็นประเด็นถกเถียง

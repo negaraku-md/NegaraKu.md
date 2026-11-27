@@ -22,7 +22,7 @@ appliesTo: "住民、都市計画者、そしてマレーシアの都市の歩�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 
 status: "published"
 aiAssisted: true
@@ -62,9 +62,35 @@ entity: "Active mobility (walking and cycling)"
 relations:
   - { rel: "related-to", to: "klang-valley-rail" }
   - { rel: "related-to", to: "e-hailing-grab" }
-related: []
+related: ["e-scooters-and-personal-mobility-devices", "klang-valley-and-city-buses", "parking-in-malaysian-cities"]
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: '青空の下、白い自転車のマークが路面に描かれた赤い舗装のサイクリング・ジョギングコースで、駐輪ラックと木々がある。'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: ペナンのジョージタウンで、交通量の多い幹線道路に沿って延びる、舗装された自転車・歩行者共用の道。
+    kind: actual
+    origin: third-party
+    subject: ペナン・ジョージタウンの自転車・歩行者共用道
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: クアラルンプール中心部のジャラン・トゥン・ラザクに沿い、緑に縁取られた幅広の屋根付き歩行者通路。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのジャラン・トゥン・ラザク歩行者通路
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 午後1時にクランバレーのLRT駅から外へ出て、オフィスまでの最後の500メートルを

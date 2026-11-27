@@ -31,7 +31,7 @@ faq:
     a: "Ủy ban Năng lượng (Energy Commission) là cơ quan quản lý chính. SEDA Malaysia triển khai NEM, trong khi Single Buyer (thuộc TNB) điều phối các chương trình thị trường như CGPP, CRESS và CREAM."
 
 lang: "vi"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -89,9 +89,36 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
-related: []
+related: ["seda-malaysia", "energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition"]
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: 'Một hệ thống điện mặt trời nổi dài gồm các tấm quang điện màu xanh trên một lối đi có mái che trải ngang một hồ nước khuôn viên tĩnh lặng, với các tòa nhà và cây xanh phía sau'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: Những hàng dài tấm pin mặt trời lắp đặt nghiêng trên mặt đất trải khắp một cánh đồng đã phát quang với rừng mưa nhiệt đới ở đường chân trời dưới bầu trời mờ sương
+    kind: actual
+    origin: third-party
+    subject: những hàng tấm pin quang điện lắp đặt trên mặt đất tại một trang trại điện mặt trời gần Bukit Merah, Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: Một mái che khung thép lợp tấm pin mặt trời bên cạnh biển hiệu dự án điện mặt trời lai của chính phủ Malaysia tại một trường học nông thôn ở Sabah, với xe đỗ và gà ở tiền cảnh
+    kind: actual
+    origin: third-party
+    subject: một hệ thống điện mặt trời lai ở nông thôn tại một trường học ở Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 Tấm pin mặt trời trên mái nhà giờ đây là một quyết định tài chính được ràng buộc chặt chẽ bởi chính sách của chính phủ Malaysia. Nhưng "chuyển sang điện mặt trời" mang ý nghĩa rất khác nhau đối với một chủ nhà ở Ipoh so với một nhà máy ở Pasir Gudang hay một trung tâm dữ liệu muốn 100% năng lượng xanh. Mỗi nhóm người dùng có chương trình riêng.

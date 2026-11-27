@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 
 status: "published"
 aiAssisted: true
@@ -79,9 +79,37 @@ sources:
 entity: "Malaysia aerospace industry"
 relations:
   - { rel: "related-to", to: "economy" }
-related: []
+related: ["manufacturing-industry-overview", "construction-industry"]
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Beberapa buah pesawat jet komersial diletakkan di dalam hangar penyelenggaraan pesawat yang terang dan berbumbung tinggi'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: Badan pesawat kapal terbang bersalut cat primer hijau berbaris dengan para pekerja di dalam sebuah kilang pemasangan pesawat yang luas
+    kind: representative
+    origin: third-party
+    subject: Badan pesawat di barisan pemasangan dalam sebuah kilang aeroangkasa yang besar
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: Dua juruteknik penyelenggaraan pesawat sedang mengerjakan enjin dan kipas empat bilah sebuah pesawat kecil di dalam hangar
+    kind: representative
+    origin: third-party
+    subject: Juruteknik menyelenggara enjin dan kipas pesawat di dalam hangar penyelenggaraan
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 Sebuah pesawat mungkin dibina di Toulouse atau Seattle, tetapi di suatu ketika dalam hayatnya selama tiga puluh tahun, enjinnya perlu dibuka, strukturnya diperiksa dan avioniknya diperbaharui — dan semakin banyak, Malaysia mahu kerja itu dilakukan di Subang atau Senai. Naluri itu, lebih daripada mana-mana barisan pemasangan, menjelaskan bentuk sektor aeroangkasa negara.

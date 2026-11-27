@@ -75,6 +75,33 @@ relations:
   - { rel: "related-to", to: "national-trust-fund" }
 related: ["petroleum-development-act-1974"]
 keywords: ["petronas", "petroliam nasional berhad", "malaysia oil and gas", "petroleum development act 1974", "national oil company"]
+hero: '/media/energy/petronas/hero.webp'
+heroAlt: 'The illuminated Petronas Twin Towers standing at the centre of the dense Kuala Lumpur skyline, with the Suria KLCC mall at their base, under an orange and blue dusk sky'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Petronas Twin Towers rising over the Kuala Lumpur city skyline at dusk'
+images:
+  - role: scene
+    src: /media/energy/petronas/body-1.webp
+    alt: A Petronas petrol station with a turquoise-green forecourt canopy and fuel pumps beside a tall price board listing Primax 97, Primax 95 and Dynamic Diesel, fringed by oil-palm trees
+    kind: actual
+    origin: third-party
+    subject: a Petronas-branded petrol station in Malaysia with its forecourt canopy and fuel price board
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petronas_Labis_Arah_Segamat.jpg
+  - role: scene
+    src: /media/energy/petronas/body-2.webp
+    alt: A red-and-white steel flare stack venting a bright orange gas flame against a cloudy blue sky at the Sabah Oil and Gas Terminal
+    kind: actual
+    origin: third-party
+    subject: a gas flare burning atop a stack at the Sabah Oil and Gas Terminal in Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
 ---
 
 A single company holds custody of Malaysia's petroleum resources, oversees the upstream industry that extracts them, and returns a substantial share of the proceeds to the government that wholly owns it.

@@ -36,7 +36,7 @@ faq:
     a: "غطِّ كتفيك وركبتيك. وعادةً ما تتوفر أزرة (سارونغ) للاستعارة أو الاستئجار عند المدخل إذا كان لباسك مكشوفاً أكثر من اللازم. والأحذية المريحة تساعد في الدرج الطويل الصاعد إلى كهف المعبد الرئيسي."
 
 lang: "ar"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["كوالالمبور", "kuala lumpur", "برجا بتروناس التوأم", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "الحي الصيني كوالالمبور", "klia ekspres", "دليل سفر كوالالمبور"]
 framework: profile
+visitFacts:
+  bestFor: 'الزوار الدوليون لأول مرة الراغبون في إقامة مدينية قصيرة وسهلة، والمسافرون الذين يستخدمون كوالالمبور مقرّاً قبل التوجّه إلى أماكن أخرى في ماليزيا.'
+  getThere: 'من مطار كوالالمبور الدولي (KLIA)، اركب قطار KLIA Ekspres دون توقف إلى محور KL Sentral، ثم تابع بـ MRT أو LRT أو المونوريل أو Grab.'
+  permit: 'يستخدم دخول برجي بتروناس التوأم (Petronas Twin Towers) تذاكر محددة بأوقات بأعداد يومية محدودة، لذا احجز عبر الإنترنت مسبقاً بدلاً من الاعتماد على الحضور في المكان.'
+  watch: 'حركة المرور في وسط المدينة كثيفة في ساعات الذروة، لذا تكون القطارات عادةً أسرع من السيارة للتنقلات عبر المدينة.'
+  next: 'تأكّد من ساعات الفتح والتذاكر الحالية لبرجي بتروناس التوأم مع الموقع الرسمي لـ PETRONAS Twin Towers (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'برجا بتروناس التوأمان المضاءان يرتفعان فوق وسط مدينة كوالالمبور تحت سماء غروب ذهبية'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: مبنى Sultan Abdul Samad ومرج ساحة Merdeka المحاط بالنخيل في وسط Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: مبنى Sultan Abdul Samad وساحة Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: صفوف من الفوانيس الصينية الحمراء المتوهّجة معلّقة فوق سوق Petaling Street في الحي الصيني بـ Kuala Lumpur ليلاً
+    kind: actual
+    origin: third-party
+    subject: فوانيس حمراء في الحي الصيني Petaling Street ليلاً
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 تهبط في مطار كوالالمبور الدولي عند الفجر، وفي غضون ساعة يمكنك أن تقف تحت برجين فضيّين حكما يوماً ما أفق العالم — بلا سيارة مستأجَرة، ولا تخطيط معقّد، بل قطار وبطاقة تمرير فحسب. تلك السهولة هي جوهر كوالالمبور كله: فهي الباب الأمامي لماليزيا، عاصمة مدمَجة وزهيدة تتقارب فيها المعالم الرئيسية على مسافة رحلة سكّة قصيرة، ومنها تبدأ كل رحلة تالية في البلاد تقريباً.

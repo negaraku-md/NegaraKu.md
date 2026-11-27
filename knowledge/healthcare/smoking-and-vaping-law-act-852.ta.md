@@ -30,7 +30,7 @@ faq:
     a: "இல்லை. அனைத்து புகையிலை மற்றும் வேப் பொருட்களை ஆன்லைன் தளங்கள் மற்றும் தானியங்கி விற்பனை இயந்திரங்கள் மூலம் விற்பனை செய்வதை Akta 852 தடைசெய்கிறது."
 
 lang: "ta"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'மலேசியாவில் மலாய், சீனம் மற்றும் ஆங்கிலத்தில் (Dilarang Merokok / No Smoking) ஒரு புகைபிடித்தல் தடை அடையாளப் பலகை.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: மலேசியா, ஜொகூர் பாருவில் ஒரு உணவகத்தின் உள்ளே சுவரில் பொருத்தப்பட்ட புகைபிடிக்க தடை அடையாளம், புகையற்ற வளாகத்தைக் குறிக்கிறது
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, ஜொகூர் பாருவில் ஒரு உணவகத்தில் காட்டப்படும் புகைபிடிக்க தடை அறிவிப்பு
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: ஒருவரின் வாய்க்கு அருகில் வேப் சாதனத்தைப் பிடித்திருக்கும் ஒரு கையின் நெருக்கமான காட்சி, சட்டத்தின் கீழ் ஒழுங்குபடுத்தப்பட்ட மின்னணு சிகரெட் பயன்பாட்டை விளக்குகிறது
+    kind: representative
+    origin: third-party
+    subject: ஒருவர் மின்னணு சிகரெட் (வேப்) சாதனத்தைப் பிடித்திருக்கிறார்
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 முதல் முறையாக, ஒரு சிகரெட்டும் ஒரு வேப் சாதனமும் மலேசியாவில் ஒரே சட்டத்திற்கு உட்பட்டவையாகிவிட்டன — மேலும் இளம்பருவத்தினருக்கு விற்பனை செய்வதற்கான தடை என்பது இனி வெறும் கொள்கை மட்டுமல்ல, மாறாக ஆயிரக்கணக்கான ரிங்கிட் அபராதம் விதிக்கத்தக்க குற்றமாகும்.

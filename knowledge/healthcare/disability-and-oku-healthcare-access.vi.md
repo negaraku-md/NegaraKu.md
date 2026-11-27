@@ -31,7 +31,7 @@ faq:
     a: "Trợ giúp Thiết bị hỗ trợ/Chân tay giả (BAT) thuộc JKM bao gồm xe lăn tay hoặc xe lăn điện, chân và tay giả, máy trợ thính, gậy trắng và máy chữ nổi braille, theo giá thực tế đã ấn định của thiết bị."
 
 lang: "vi"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q7354381"
 relations:
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "public-healthcare-system" }
-related: []
+related: ["social-welfare-department-jkm", "persons-with-disabilities-employment-malaysia", "public-healthcare-system-malaysia"]
 keywords: ["OKU", "kad OKU", "penjagaan kesihatan OKU", "PDK", "pemulihan dalam komuniti", "alat bantuan", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
+hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'
+heroAlt: 'Một thang nâng xe lăn dạng bục có ký hiệu tiếp cận tại một trung tâm phục hồi chức năng cho người khuyết tật ở Johor, Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: Một đường dốc tiếp cận thoai thoải có tay vịn tại một nhà ga LRT ở Malaysia, đại diện cho lối tiếp cận không bậc thang dành cho người khuyết tật
+    kind: representative
+    origin: third-party
+    subject: Một đường dốc tiếp cận cho xe lăn tại một nhà ga giao thông công cộng ở Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: Một ô đỗ xe được sơn biểu tượng xe lăn quốc tế màu xanh và dành riêng cho người khuyết tật, đại diện cho các quy định về khả năng tiếp cận dành cho OKU
+    kind: representative
+    origin: third-party
+    subject: Một ô đỗ xe dành riêng cho OKU (người khuyết tật) được đánh dấu bằng biểu tượng xe lăn ở Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 Một tấm thẻ nhựa quyết định liệu một đứa trẻ tự kỷ có được trị liệu sớm hay không, hoặc liệu một người trưởng thành mất chân có thể có được chân giả hay không. Tại Malaysia, chính tấm thẻ OKU đó là cửa ngõ dẫn đến gần như mọi dịch vụ và trợ cấp được thiết kế cho người khuyết tật — và việc hiểu cách nó vận hành giúp tiết kiệm thời gian, tiền bạc cũng như tránh việc điều trị bị trì hoãn.

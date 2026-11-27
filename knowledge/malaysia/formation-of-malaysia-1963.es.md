@@ -30,7 +30,7 @@ faq:
     a: "Singapur se separó el 9 de agosto de 1965 tras una votación en el Parlamento de Malasia. La tensión política entre el Partido de Acción Popular y el gobierno de la Alianza sobre la política económica y las bases de la competencia política precedió a la separación. Ninguna de las partes había previsto ese desenlace en la fusión de 1963."
 
 lang: "es"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formación de Malasia 1963", "Comisión Cobbold", "Konfrontasi", "separación de Singapur 1965", "fusión de Sabah y Sarawak"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: 'Una escena callejera de 1963 con multitudes y edificios decorados celebrando el primer Día de Malasia en Singapur.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: Un amplio panorama del horizonte de Kota Kinabalu en Sabah, con torres de gran altura que se elevan por encima de las copas verdes de los árboles y, al fondo, la costa y las colinas, que representa el estado de Borneo que se unió a Malasia en 1963.
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu, capital de Sabah, uno de los estados de Borneo que se unieron para formar Malasia en 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: El paseo marítimo ajardinado de Kuching se extiende a lo largo del río Sarawak, con el horizonte de la antigua ciudad al otro lado del agua, que representa la entrada de Sarawak en la Federación de Malasia en 1963.
+    kind: representative
+    origin: third-party
+    subject: El paseo marítimo de Kuching a lo largo del río Sarawak, en Sarawak, que se unió para formar Malasia en 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 Cuatro territorios se convirtieron en un solo país el 16 de septiembre de 1963, y antes de dos años uno de ellos ya se había marchado. Ese solo hecho te dice que la fusión de 1963 no fue un pulcro ejercicio administrativo — fue un proyecto político cuestionado, al que se opusieron dos gobiernos vecinos y que se desmadejó por tensiones internas casi en cuanto triunfó.

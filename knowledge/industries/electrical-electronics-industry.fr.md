@@ -34,7 +34,7 @@ faq:
     a: "Des noms mondiaux comme Intel, AMD, Broadcom, Bosch et OSRAM opèrent ici, aux côtés de fabricants sous contrat (EMS) comme Jabil, Flex, Plexus, Sanmina et Benchmark, et de sociétés d'origine locale comme Inari Amertron."
 
 lang: "fr"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Gros plan d''un circuit imprimé vert densément garni de condensateurs orange vif, de condensateurs électrolytiques cylindriques, de puces à circuit intégré noires et de résistances à bandes colorées'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: Une main tenant un fer à souder et une fine pince à épiler travaille sur un minuscule composant monté en surface d'un circuit imprimé vert chargé de puces et de pistes
+    kind: representative
+    origin: third-party
+    subject: Une main utilise une fine pince à épiler et un fer pour reprendre un composant monté en surface sur un circuit imprimé
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: Un circuit imprimé vert photographié à la verticale, peuplé de plusieurs puces intégrées noires étiquetées, de boîtiers mémoire et de rangées de petits composants montés en surface
+    kind: representative
+    origin: third-party
+    subject: Vue de dessus d'un circuit imprimé d'électronique grand public entièrement assemblé
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 Ouvrez presque n'importe quel ordinateur portable, smartphone ou automobile fabriqué au cours de la dernière décennie et il y a de bonnes chances qu'une de ses pièces soit passée par la Malaisie. La puce à l'intérieur a peut-être été testée et conditionnée à Penang ; l'adaptateur secteur, le rétroéclairage LED ou la carte de circuit imprimé ont pu être assemblés à Kulim, à Melaka ou dans la vallée de Klang. Pour un pays d'environ 34,1 millions d'habitants (2024, DOSM), la Malaisie occupe une place étonnamment centrale dans la chaîne d'approvisionnement mondiale de l'électronique — et c'est, presque entièrement, l'histoire d'une seule industrie.

@@ -33,7 +33,7 @@ faq:
     a: "تغيّر الدور التكافلي للجمعيات المعاصرة تغيّرًا كبيرًا. فكثير منها يركّز على منح المنح الدراسية وقروض التعليم، وصون اللهجات والثقافة التقليدية، وإقامة الأعياد واللقاءات الاجتماعية، وتعزيز الرعاية المجتمعية؛ وصار بعض المعابد العشائرية العريقة وأرصفة العشائر محورًا للسياحة الثقافية وصون العمارة بعد إدراج جورج تاون ضمن مواقع التراث العالمي. ويتفاوت مستوى نشاط كل جمعية وتركيزها."
 
 lang: "ar"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,34 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'دار عشيرة ليونغ سان تونغ خو كونغسي المنحوتة بإتقان في بينانغ، سطحها المبلّط المنحني مزدحم بتنانين وأشكال خزفية ملونة، مرئية من الفناء تحت سماء زرقاء'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: بيت عشيرة خو كونغسي مضاءً عند الغسق بمناسبة رأس السنة الصينية، معلّق به فوانيس حمراء وإطارات ضوء متوهّجة بينما يتجمّع حشد في الفناء الأمامي
+    kind: actual
+    origin: third-party
+    subject: بيت عشيرة خو كونغسي مضاءً ومزيّناً بالفوانيس الحمراء لرأس السنة الصينية 2024، جورج تاون، بينانغ
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: منظر من أسفل لسقف بيت عشيرة خو كونغسي، يُظهر عوارض من القرميد الطيني وعوارض مطليّة وكوابيل منحوتة مذهّبة بغزارة
+    kind: actual
+    origin: third-party
+    subject: السقف الخشبي المطليّ والمذهّب لبيت عشيرة خو كونغسي، جورج تاون، بينانغ
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 عند دخولك المنطقة المحيطة بحصن كورنواليس في جورج تاون ببينانغ، يطلّ فجأة من بين صفوف البيوت-المتاجر (الشوب هاوس) معبدٌ عشائري بأفاريزَ مقوّسة منحوتة بدقّة وعوارضَ مزيّنة بالألوان — إنّه ليونغ سان تونغ خو كونغسي. وإذا مضيت نحو البحر وجدت صفوفًا من بيوت خشبية قائمة على ركائز تمتدّ فوق الماء، تحمل كل قرية منها اسم عائلة واحدة: رصيف تشو، ورصيف لِم، ورصيف تان. هذه المباني ليست معابد ولا مجرّد مساكن، بل هي البقايا المادية لأحد أقدم أشكال التنظيم في مجتمع المهاجرين الصينيين — جمعيات العشائر والمواطن الأصلية.

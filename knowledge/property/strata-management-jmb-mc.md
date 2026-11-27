@@ -84,9 +84,35 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'Bangunan tinggi strata Orion Condominium dan Sky Residences di Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: Sekelompok menara kondominium strata moden di Harbour View, Butterworth, Pulau Pinang, jenis pembangunan yang diuruskan oleh JMB atau perbadanan pengurusan
+    kind: representative
+    origin: third-party
+    subject: Sekelompok kondominium strata bertingkat tinggi di Harbour View, Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: Pintu masuk berpagar, pondok pengawal dan blok rumah kelab bersama Kondominium strata The Oasis di Gelugor, Pulau Pinang, dengan menara kediamannya di belakang
+    kind: representative
+    origin: third-party
+    subject: Pintu masuk berpengawal dan rumah kelab Kondominium The Oasis di Gelugor, Pulau Pinang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 Anda beli sebuah unit kondominium, tetapi siapa sebenarnya yang memiliki lif, kolam renang dan lorong tempat letak kereta — dan siapa yang berhak mengutip yuran bulanan daripada anda? Jawapannya terletak pada satu lapisan tadbir urus yang jarang dibaca pembeli sehingga wujud pertikaian: rangka kerja Akta Pengurusan Strata 2013 (Akta 757).

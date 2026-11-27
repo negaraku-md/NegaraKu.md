@@ -37,7 +37,7 @@ faq:
     a: "مدفوعة من الحكومة الاتحادية إلى تيرينغانو وكلنتان مرتبطة بعائدات البترول. ويؤكّد بيان لوزارة المالية أن «وانغ إحسان» ليس مِنحة من الحكومة الاتحادية مكرَّسة في القانون — أي أنه ليس استحقاقًا يمنحه نصّ تشريعي."
 
 lang: "ar"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["تيرينغانو Terengganu", "كوالا تيرينغانو Kuala Terengganu", "حجر تيرينغانو المنقوش Batu Bersurat Terengganu", "سلطان تيرينغانو", "بترول كيرتيه Kertih", "أقدم كتابة بالجاوي"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'المسجد البلّوري بقبّته الفضّية والذهبية ومآذنه النحيلة العديدة وبوّابة ترحيب بيضاء مقنطرة تحت سماء زرقاء في كوالا ترغكانو.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: يبدو مسجد Tengku Tengah Zaharah وكأنه يطفو على بحيرة Ibai قرب كوالا ترغكانو في ترغكانو.
+    kind: actual
+    origin: third-party
+    subject: مسجد Tengku Tengah Zaharah العائم، كوالا ترغكانو، ترغكانو
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: تتلاطم مياه فيروزية صافية على شاطئ رملي أبيض تحفّه الغابة في جزيرة Pulau Redang قبالة ساحل ترغكانو.
+    kind: actual
+    origin: third-party
+    subject: شاطئ Pulau Redang، ترغكانو
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 أشهر أمرين عن تيرينغانو يبعد أحدهما عن الآخر نحو 60 كيلومترًا، وكلاهما يصعب رؤيته.

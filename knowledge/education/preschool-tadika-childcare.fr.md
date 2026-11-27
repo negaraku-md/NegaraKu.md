@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Parents ou tuteurs en Malaisie cherchant à comprendre les options de garde d'enfants et d'éducation de la petite enfance avant la 1re année, ainsi que quiconque souhaite ouvrir une taska ou une tadika et a besoin de connaître les autorités compétentes."
 
 lang: "fr"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'La façade du Tadika Al-Falah, une école maternelle malaisienne à Johor, avec un panneau de bienvenue et une fresque d''alphabet peinte le long du mur.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: Entrée et cour avant du Tadika Holy Trinity à Tawau, Sabah, avec un panneau, des fanions colorés et des peintures murales de dessins animés ; quelques jeunes enfants sont visibles au loin dans l'aire de jeux.
+    kind: representative
+    origin: third-party
+    subject: Façade d'un tadika (jardin d'enfants) malaisien décorée de fanions colorés et de peintures murales de dessins animés
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: Vue depuis la rue du Tadika St. Francis Xavier à Keningau, Sabah, un bâtiment de jardin d'enfants de plain-pied avec une clôture verte et des murs ornés de peintures de fleurs, d'une abeille et d'un champignon.
+    kind: representative
+    origin: third-party
+    subject: Bâtiment d'une école maternelle malaisienne orné de peintures murales pour enfants
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 De nombreux parents inscrivent leur enfant à la tadika du coin de la rue —

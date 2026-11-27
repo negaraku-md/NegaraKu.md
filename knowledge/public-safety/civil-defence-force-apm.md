@@ -76,6 +76,32 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'Sebuah trak menyelamat Angkatan Pertahanan Awam Malaysia yang membawa lambang APM, dengan seorang sukarelawan berpakaian seragam di atasnya, semasa perarakan di Kuantan, Malaysia.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: Sebuah menara pemerhatian penyelamat pantai Angkatan Pertahanan Awam (APM) di pesisir Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Menara pemerhatian penyelamat pantai APM (Angkatan Pertahanan Awam), Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: Sebuah menara penyelamat nyawa dan menyelamat pesisir Angkatan Pertahanan Awam yang menghadap pantai terbuka di Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Menara penyelamat nyawa pesisir APM yang menghadap pantai, Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 Apabila banjir besar melanda atau sebuah bangunan runtuh, salah satu pasukan pertama yang tiba dengan bot, tali dan peralatan menyelamat sering kali berbaju oren APM. Angkatan Pertahanan Awam Malaysia (APM) ialah tulang belakang bantuan kemanusiaan negara — hadir sebelum, semasa dan selepas sesuatu bencana.

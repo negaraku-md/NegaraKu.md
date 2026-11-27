@@ -85,9 +85,15 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["permis de travail malaisie", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaisie", "investor pass malaisie", "malaysia work pass", "employment pass"]
 framework: decision
+stayFacts:
+  who: 'Ceci s''adresse à un employeur qui choisit le bon visa, ou à un ressortissant étranger qui compare les filières pour travailler en Malaisie — il n''existe pas de visa de travail malaisien unique.'
+  how: 'Laissez le parrain et la nature du travail déterminer le visa. Un expatrié parrainé par un employeur prend l''Employment Pass via l''ESD ; un projet court payé depuis l''étranger prend un Professional Visit Pass ; un travailleur à distance employé par une entreprise étrangère prend le DE Rantau Nomad Pass via la MDEC ; un expatrié de longue date prend le Residence Pass-Talent, transférable, via TalentCorp ; un travailleur manuel prend un PLKS dans le cadre d''un régime de quotas distinct. C''est le parrain, et non l''intitulé du poste, qui détermine celui qui s''applique.'
+  cost: 'Chaque visa fixe son propre plancher salarial, seuil de revenu ou durée, et ceux-ci sont révisés au fil du temps — les tranches salariales de l''Employment Pass ont été révisées récemment — ; confirmez donc les chiffres actuels auprès de l''organisme émetteur (ESD et Immigration, MDEC, ou TalentCorp) plutôt qu''un chiffre cité.'
+  watch: 'Un Dependant Pass ne confère aucun droit de travail — vous devez le convertir en Employment Pass. Un Professional Visit Pass, DE Rantau Nomad Pass compris, est plafonné et vous maintient payé depuis l''étranger. Seul le Residence Pass-Talent est transférable d''un employeur à l''autre ; un Employment Pass est lié à son parrain, et changer d''employeur réinitialise le compteur de durée.'
+  next: 'Identifiez votre parrain et la nature du travail, confirmez le plancher salarial ou de revenu actuel et la durée du visa concerné auprès de son organisme émetteur, puis déposez votre demande auprès de cet organisme. Consultez les explications sur l''Employment Pass, le DE Rantau et la comparaison des visas d''affaires.'
 ---
 
 Il n'existe pas de visa de travail malaisien. Il existe huit ou neuf instruments distincts, gérés par quatre organismes distincts, et celui dont vous avez besoin est déterminé par **qui verse le salaire** — non par la façon dont l'emploi est nommé.

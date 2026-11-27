@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "feffee68004fb513"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -47,7 +47,7 @@ verificationNeeded:
   - "消費者苦情窓口の番号（1-800-886-800；WhatsApp 019-848 8000；eaduan.kpdn.gov.my；Ez ADU；e-aduan@kpdn.gov.my）——ホットラインは変更されることがあるため、kpdn.gov.my/bantuanで最新情報を確認すること。"
   - "部局（bahagian）の正確な数及び所管する法令の総数——確定的な数字を示す前に確認すること。"
   - "現任の副大臣及び事務総長——発表時点で在任しているか確認すること。"
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "背景 - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -73,12 +73,46 @@ sources:
   - title: "消費者保護 - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "国内取引・生活費省 (KPDN)"
+  - title: "国内取引・生活費大臣（マレーシア）——役職名の変遷 (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN、祝祭期を通じて価格操作がないことを確保 (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
-related: []
+related: ["competition-act-2010", "price-control-anti-profiteering-act", "franchise-registration-malaysia"]
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'プトラジャヤの長い砂岩のKPDN(国内取引省)の建物の正面の広い眺め。中央入口の上に「Kementerian Perdagangan Dalam Negeri」の文字、右端に菱形のKロゴを掲げた背の高いオフィス棟'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: プトラジャヤにある砂岩造りのKPDN省庁ビルを斜めから見た眺め。濃い花崗岩の基壇に金色のKementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaanの文字があり、入口には省庁の塗装を施したバスが停まっている
+    kind: actual
+    origin: third-party
+    subject: 省庁の標示と省庁バスのある、KPDNビル入口を斜めから見た眺め、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: プトラジャヤにあるKPDN省庁の、段状になったアールデコ調の砂岩タワーを見上げた眺め。頂部には青と金のダイヤ型のK字の省庁エンブレムが、やや曇った空を背に掲げられている
+    kind: actual
+    origin: third-party
+    subject: ダイヤ型のKロゴを掲げたKPDN省庁ビルの段状のタワー、プトラジャヤ
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 商人があなたに食用油の代金を多く請求したり、統制品目を上限価格を超えて販売したり、欠陥のある商品への対応を拒んだりしたとき、あなたに代わって動く連邦機関が**KPDN**——**国内取引・生活費省**（*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*）である。同省は国内取引を発展させ、日常必需品の価格を抑え、消費者を保護しており、その裏付けとなるのは実在の法令、稼働中の苦情申立て窓口、そして一般消費者のために設けられた少額裁決所である。
@@ -88,6 +122,12 @@ framework: profile
 KPDNは**1990年10月27日に設立**された。その掲げる目標は、特に流通取引分野において「実行可能で、競争力があり、持続可能な」国内取引を促進すると同時に、消費者の利益と権利を保護することである。実務上、その業務は二つの柱に分かれる。一つは貿易政策の策定——必需品の価格の決定及び監視、並びに必需品、石油及び石油化学製品の販売及び流通の統制を含む——であり、もう一つは消費者主義であり、消費者教育、意識啓発、保護、及び消費者運動への支援を含む。
 
 同省は**2022年12月**に、「生活費」という重点を加えた現在の名称を採用した。本部所在地はNo. 13, Persiaran Perdana, Precinct 2, Federal Government Administrative Centre, 62623 Putrajayaである。大臣は**Datuk Armizan Mohd Ali**であり、2023年7月30日より同省を率いている。
+
+## KPDNの旧称：1990年以来の四つの名称
+
+KPDNはこれまで四つの正式名称を持ち、その一つ一つが当時担っていた所掌事務を反映している。**1990年10月27日**に、貿易産業省から分割される形で**国内取引・消費者問題省**（*Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna*、**KPDNHEP**）として設立された。**2009年**には協同組合の所掌を取り込み、**国内取引・協同組合・消費者主義省**（**KPDNKK**、英語では**MDTCC**）となった。**2018年**に協同組合が再び切り離され、**KPDNHEP**に戻った。そして最終的に、**2022年12月3日**、現在の名称と明確な生活費の使命を帯びた——**国内取引・生活費省**（**KPDN**）である。
+
+四つの名称を貫く筋は決して変わらなかった——国内取引と消費者の保護である——が、2022年の改称は、日常必需品の価格を抑えることがこの省の公的な中心的任務となったことを示していた。したがって、文書や報道で古い略称であるKPDNHEP、KPDNKK又はMDTCCに出会った場合、それらはいずれも、より早い段階における同じ省を指している。
 
 ## KPDNは価格を抑えるためにどの法令を用いているか？
 
@@ -104,6 +144,10 @@ KPDN及びその傘下機関は、一連の貿易及び消費者関連法令を�
 | 1998年フランチャイズ法（Franchise Act 1998）[Act 590] | フランチャイズを登録及び規制する |
 
 KPDNはAct 122及びAct 723を用いて、米、卵、食用油、鶏肉などの必需品の価格を安定させることに取り組んでいる。同省は**Ops Pantau**や**Ops Menu**などの取締り活動を実施しており、祝祭期には選定された統制品目の価格に上限を設ける**祝祭期最高価格制度**（*Skim Harga Maksimum Musim Perayaan*、SHMMP）を実施している——2025年10月の[ディーパバリ](/arts-culture/deepavali)の際に適用されたのがその例である。Act 723のs.10に基づき、大臣はあらゆる商品又はサービスの販売者に対し、価格表示を義務付けることができる。
+
+## 実際に規則を執行しているのは誰か？
+
+こうした取締りの背後にあるのが、同省の**執行部門**（*Bahagian Penguatkuasaan*）である。これは制服を着た部門であり、その職員は全国の州レベルの事務所を拠点として活動している。主に2011年価格統制・反暴利法及び1961年供給統制法に基づき、彼らは店舗を検査し、価格表示を義務付け、商品を押収し、上限価格に違反したり暴利を得たりした商人を起訴する。**Ops Pantau**のような祝祭期の一斉取締りでは、同部門は数千人の職員を動員することができ——2026年の活動では2,400人以上が配置された——大半の商人が実際に顔を合わせる、省の「顔」となっている。同部門は、およそ十数の部門及び部署から成る省の中に置かれ、国内取引の振興、生活費の監視、消費者主義、そして後述する法務及び裁決所の機能にまたがっている。
 
 ## 実際に欺かれたとき、どのようにKPDNを利用すればよいか？
 

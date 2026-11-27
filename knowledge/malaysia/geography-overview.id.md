@@ -18,7 +18,7 @@ keyTakeaways:
   - "Monsun Timur Laut (Nov–Mar) membasahi pantai timur Semenanjung, barat Sarawak, dan utara Sabah; Monsun Barat Daya (Mei–Sep) secara relatif lebih kering — sebuah irama yang masih membentuk musim banjir dan kalender pertanian (Jabatan Meteorologi Malaysia)"
 appliesTo: "Siapa saja yang mencoba memahami mengapa populasi, kota, dan risiko banjir Malaysia terpusat di tempat-tempat tertentu — pelajar, pendatang baru, perencana, atau siapa saja yang bingung mengapa 'musim monsun' berarti berbeda di pantai yang berlainan."
 lang: "id"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: Mengapa sebagian besar warga Malaysia tinggal di dekat pantai alih-alih di pedalaman?
     a: Setiap daratan didominasi oleh tulang punggung pegunungan di tengah — Pegunungan Titiwangsa di Semenanjung, Pegunungan Crocker di Sabah — yang hanya diapit oleh dataran pantai yang sempit. Dataran tinggi itu mendorong permukiman keluar ke dataran pantai dan lembah sungai, sehingga pedalaman yang bergunung-gunung berpenduduk jarang. Dataran pantai barat Semenanjung yang terlindung, ditenangkan oleh Selat Malaka, menampung sebagian besar penduduknya dan kota-kota terbesar seperti Kuala Lumpur dan George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'Pemandangan udara dataran pesisir tropis tempat sungai berkelok bermuara ke laut, dengan kota-kota dan petak sawah terbentang ke pedalaman serta tanah reklamasi pucat di tepi garis pantai di bawah awan yang tersebar.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: Tebing karst batu kapur abu-abu yang curam berselimut hutan menjulang langsung dari sebuah danau zamrud yang tenang, dengan permukaannya terpantul di air yang gelap.
+    kind: actual
+    origin: third-party
+    subject: Tebing karst batu kapur di Tasik Cermin (Danau Cermin), Ipoh, Perak
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: Sebuah teluk kecil berpasir putih yang dikelilingi pohon kelapa dan pondok kayu bertemu air biru kehijauan yang jernih di sebuah pulau tropis kecil.
+    kind: actual
+    origin: third-party
+    subject: Pantai tropis di Pulau Perhentian Kecil, Terengganu
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 Terbang ke Kuala Lumpur dari Kota Kinabalu dan Anda melintasi lebih dari sekadar perbatasan internal — Anda melintasi beberapa ratus kilometer laut terbuka. Malaysia adalah satu negara yang disatukan melintasi dua daratan yang terpisah, dan kenyataan bentuk muka bumi yang sederhana ini telah diam-diam menentukan hampir segala hal lain: di mana kota-kota berada, di mana sawah padi berada, dan pantai mana yang dilanda banjir setiap bulan Desember.

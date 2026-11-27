@@ -33,7 +33,7 @@ faq:
     a: "تعود رقصة الأسد على الأعمدة العالية إلى عادة الأسد الصاحي التقليدية لدى المجتمع الصيني، وبعض فرق الأسد تتخذ المعابد مقرًّا لها أو تُسمّى بأسمائها، وقد تُقام قبل الصعود إلى الأعمدة طقوسٌ تقليدية كتنقيط العينين. لكنها بوصفها رياضة وعرضًا تُعدّ اليوم في الغالب نشاطًا ثقافيًّا ورياضة، كما تخفّف بعض الفرق الحديثة من الطابع الديني في تدريبها. يصف هذا المقال العادة والرياضة نفسيهما فحسب، دون إصدار حكم على أي معتقد."
 
 lang: "ar"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: 'زيّ رقصة أسد أبيض وذهبي بداخله مؤدّيان ملتقَط في منتصف قفزة في الهواء فوق صفّ من الأعمدة المعدنية الطويلة في مسابقة'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: أسد رقصة الأسد الأبيض يعتلي أعمدة حمراء عالية فوق حشد في أحد شوارع كوالالمبور، مع لافتات محلات صينية في الخلفية
+    kind: actual
+    origin: third-party
+    subject: رقصة الأسد على الأعمدة العالية تُؤدَّى على أعمدة الجونغ في أحد شوارع كوالالمبور أمام حشد، ماليزيا
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: رأس وجسم أسد رقصة الأسد الأبيض الزاهي الزينة متوازن عبر قمم عدة أعمدة عالية، مواجهاً الأمام تحت إضاءة المسرح
+    kind: representative
+    origin: third-party
+    subject: أسد تنافسي أبيض منحنٍ ومتوازن عبر عدة أعمدة جونغ عالية، ورأس الأسد يواجه الكاميرا
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 ما إن يشتدّ قرع الطبل حتى يثب الأسد في الهواء، فتحطّ قائمتاه الأماميتان بثبات على عمود فولاذي لا يزيد عن حافة قَصعة في دقّته، ويتبعه الذيل في الحال — مؤديان يثبان ويثبتان في أوضاعهما بين صف من الأعمدة المتفاوتة الارتفاع، على بُعد مترين أو ثلاثة عن الأرض، والجمهور حابسٌ أنفاسه، حتى يستقرّ ذلك الأسد الذي بدا وكأنه «حيّ» بثبات على أعلى عمود، فينفجر التصفيق. ليس هذا رقص الأسد الاحتفالي على الأرض، بل رياضة لها تحكيم وأبطال وتصنيف عالمي — رقصة الأسد على الأعمدة العالية.

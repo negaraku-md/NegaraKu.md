@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "ko"
-sourceContentHash: "1f58c985aa078563"
+sourceContentHash: "df209791e7052635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
 framework: profile
+hero: '/media/states/sarawak/hero.webp'
+heroAlt: '9층 우산형 지붕의 사라왁 주의회 의사당이 갈색의 사라왁강 옆에 서 있고, 그 앞을 목조 배가 지나가고 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sarawak/body-1.webp
+    alt: 아스타나로 불리는 흰색 옛 왕궁이 사라왁강을 사이에 두고 쿠칭 워터프런트 맞은편에 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 쿠칭 워터프런트에서 바라본 아스타나(Astana), 사라왁주
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_(17772477902).jpg
+  - role: scene
+    src: /media/states/sarawak/body-2.webp
+    alt: 사라왁주 쿠칭 인근 바코 국립공원 관리본부 앞에서 정글로 뒤덮인 절벽을 등진 모래 해변이 바다를 향하고 있다.
+    kind: actual
+    origin: third-party
+    subject: 사라왁주 바코 국립공원(Bako) 관리본부 아래 해변
+    credit: Sgroey / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beach_outside_park_HQ_at_Bako_NP.jpg
 ---
 
 사라왁(Sarawak)은 다른 음조로 연주되는 말레이시아입니다. 토지 면적으로 연방에서 단연 가장 큰 주(州)로, 반도가 아니라 보르네오에 자리하며, 모든 반도 주(州)와 구별되는 독자적 헌법적 지위를 지닙니다.

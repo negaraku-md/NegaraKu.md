@@ -31,7 +31,7 @@ faq:
   - q: "Où les diplômés des 独中 peuvent-ils poursuivre leurs études ?"
     a: "Les voies de poursuite d'études des élèves des 独中 sont variées. Beaucoup utilisent le certificat UEC pour poursuivre dans des collèges/universités privés locaux ou des universités étrangères, et certains passent aussi le SPM afin de conserver davantage d'options. Parmi les établissements d'enseignement supérieur chinois locaux figurent New Era University College, Southern University College et Han Chiang University College of Communication, entre autres, issus du système d'enseignement en chinois. À partir de 2026, les titulaires de l'UEC remplissant certaines conditions peuvent aussi postuler à certains programmes d'universités publiques par une nouvelle voie."
 lang: "fr"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["tamil-vernacular-schools", "chinese-clan-associations", "chinese-language-press", "languages-spoken", "population-composition"]
 keywords: ["马来西亚华文教育", "华小", "SJKC", "国民型华文小学", "华文独立中学", "独中", "统考", "UEC", "董教总", "董总", "教总", "新纪元大学学院", "南方大学学院", "韩江", "Chinese education in Malaysia"]
 framework: explainer
+hero: '/media/education/chinese-education-in-malaysia/hero.webp'
+heroAlt: 'Le portique d''entrée bleu de la SJK(C) Chun Yin, portant une inscription en caractères chinois et "SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN", menant à l''enceinte de l''école.'
+heroCredit: '凯乐 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: Le campus bordé d'arbres de la Chung Ling High School à Penang, l'un des établissements secondaires d'enseignement en chinois de longue tradition en Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling High School, Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: L'entrée et le panneau du nom de la SJK(C) Confucian à Kuala Lumpur, l'une des écoles primaires subventionnées d'enseignement en chinois qui alimentent le système vernaculaire.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, une école primaire d'enseignement en chinois à Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 Au petit matin, dans la cour d'une école primaire chinoise résonnent, entremêlées, les voix du mandarin, du malais et de l'anglais ; à quelques États de là, dans l'auditorium d'une école secondaire indépendante chinoise (独中), des élèves se préparent à l'UEC (统考) de fin d'année ; et à Johor comme à Penang, des collèges universitaires issus du système d'enseignement en chinois accueillent une nouvelle promotion. Toutes ces scènes relèvent d'un même courant — l'enseignement en chinois en Malaisie — mais se situent à des niveaux différents, sous des modes de financement et des dispositifs juridiques distincts.

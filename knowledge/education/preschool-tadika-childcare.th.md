@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้ปกครองหรือผู้ดูแลในมาเลเซียที่พยายามเข้าใจทางเลือกด้านการดูแลและการศึกษาปฐมวัยก่อนชั้นปีที่ 1 ตลอดจนผู้ที่ต้องการจัดตั้ง taska หรือ tadika และจำเป็นต้องทราบหน่วยงานที่เกี่ยวข้อง"
 
 lang: "th"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'ด้านหน้าของ Tadika Al-Falah โรงเรียนอนุบาลในรัฐยะโฮร์ของมาเลเซีย มีป้ายต้อนรับและภาพวาดตัวอักษรตามผนัง'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: ทางเข้าและลานหน้าของ Tadika Holy Trinity ในตาเวา รัฐซาบะฮ์ มีป้าย ธงราวหลากสี และภาพจิตรกรรมการ์ตูนที่วาดไว้ มองเห็นเด็กเล็กไม่กี่คนอยู่ที่สนามเด็กเล่นด้านไกล
+    kind: representative
+    origin: third-party
+    subject: ด้านหน้าของ tadika (โรงเรียนอนุบาล) ในมาเลเซียที่ประดับด้วยธงราวสีสันสดใสและภาพจิตรกรรมการ์ตูน
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: ภาพริมถนนของ Tadika St. Francis Xavier ในเกอนิงเกา รัฐซาบะฮ์ อาคารอนุบาลชั้นเดียวที่มีรั้วสีเขียวและผนังวาดภาพดอกไม้ ผึ้ง และเห็ด
+    kind: representative
+    origin: third-party
+    subject: อาคารโรงเรียนอนุบาลมาเลเซียที่วาดภาพจิตรกรรมสำหรับเด็ก
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 ผู้ปกครองจำนวนมากลงทะเบียนบุตรเข้า "tadika" ข้างบ้าน — ส่งแบบฟอร์ม จ่ายค่าธรรมเนียม เสร็จ แต่คำถามที่ไม่ค่อยมีใครถามคือ: tadika นั้นขึ้นทะเบียนกับใคร? คำตอบไม่ใช่เรื่องเล็ก ขึ้นอยู่กับอายุของเด็กและประเภทของสถาบัน มันอาจอยู่ภายใต้สองกระทรวงที่ต่างกันโดยสิ้นเชิง โดยมีพระราชบัญญัติ ระเบียบ และวิธีการบังคับใช้ที่ไม่เหมือนกัน

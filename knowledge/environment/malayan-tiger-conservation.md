@@ -75,9 +75,36 @@ wikidata: "Q215836"
 relations:
   - { rel: "administered-by", to: "perhilitan" }
   - { rel: "located-in", to: "taman-negara" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'A Malayan tiger resting against a backdrop of green tropical foliage, gazing at the camera'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: A Malayan tiger lying in grass under dappled sunlight, its striped coat catching the light
+    kind: actual
+    origin: third-party
+    subject: Malayan tiger (Panthera tigris jacksoni) lying in dappled sunlight amid grass and foliage
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: Close profile portrait of a Malayan tiger's head, showing its distinctive black-and-orange facial stripes and whiskers
+    kind: actual
+    origin: third-party
+    subject: Profile portrait of a Malayan tiger (Panthera tigris jacksoni) showing its facial markings
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 The tiger appears on Malaysia's coat of arms, but the animal itself is now among the rarest big cats in the world. When Malaysia completed its first national survey of wild tigers, the result was lower than many had expected: fewer than 150.

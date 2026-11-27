@@ -31,7 +31,7 @@ faq:
   - q: Vì sao đóng tàu lại gắn chặt với dầu khí ở Malaysia?
     a: Phần lớn đội tàu thương mại mà các xưởng Malaysia đóng và sửa — tàu hỗ trợ ngoài khơi, tàu kéo neo và tàu công tác — tồn tại để phục vụ các giàn dầu khí ngoài khơi trong vùng biển Malaysia. Khi chi tiêu năng lượng mạnh, đơn hàng tăng; khi giá dầu rớt, các xưởng đối mặt với dư công suất. Xem hướng dẫn liên quan về ngành dịch vụ và thiết bị dầu khí.
 lang: vi
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'Một xưởng đóng tàu ven biển với những cần cẩu giàn đỏ cao vút và những con tàu lớn đang được chế tạo'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: Góc nhìn từ trên cao của một nhà máy đóng tàu màu trắng lớn ở Malaysia, với một thân tàu lộ ra ở cửa khoang mở
+    kind: actual
+    origin: third-party
+    subject: Nhà máy đóng du thuyền Grand Banks Yachts tại Pasir Gudang, Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: Góc nhìn từ trên cao của các xưởng chế tạo lớn và bãi của một xưởng đóng tàu bên sông ở Malaysia
+    kind: actual
+    origin: third-party
+    subject: Góc nhìn từ trên cao của xưởng đóng tàu Grand Banks Yachts bên cạnh một con sông ở Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 Malaysia nằm trên hai trong số những tuyến hàng hải bận rộn nhất thế giới và kiếm sống phần lớn từ biển — thế nhưng ngành đóng tàu và sửa chữa tàu (SBSR) của nó là một trong những góc lặng lẽ hơn của nền kinh tế quốc gia. Nó có thật, lâu đời và quan trọng về chiến lược, nhưng cũng phân mảnh, theo chu kỳ và bị thống trị bởi các xưởng tương đối nhỏ. Hướng dẫn này giải thích ngành đóng gì, ở đâu, lớn đến đâu, và vì sao một chương trình hải quân đã che phủ cả lĩnh vực trong tranh luận công chúng.

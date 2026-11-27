@@ -33,7 +33,7 @@ faq:
     a: "The lines between the bang have clearly faded. With cross-bang intermarriage, urbanisation, and Mandarin becoming a cross-dialect common tongue through Chinese-language education, the younger generation's sense of ancestral origin is mostly weaker than their forebears'. But the bang have not disappeared entirely: clan associations, hometown associations, ancestral halls and cemeteries around the country are still active, many people still know their ancestral origin, and its influence can still be seen at occasions such as Qingming (tomb-sweeping). The bang have gradually shifted from being 'the backbone that organised society' to being 'a memory of culture and history'."
 
 lang: "en"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,32 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'The ornate Leong San Tong Khoo Kongsi clan association temple in George Town, Penang, its roof ridges crowded with painted dragons and figurines above a richly carved and gilded prayer hall.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: A pre-war yellow-and-red shophouse building housing a Hokkien clan association on a central Kuala Lumpur street
+    kind: actual
+    origin: third-party
+    subject: The Selangor Hokkien Association building (a Hokkien dialect-group clan association) on Jalan Hang Lekiu, Kuala Lumpur
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: An ornate Neoclassical three-storey shophouse that once housed a Hakka clan association in downtown Seremban
+    kind: actual
+    origin: third-party
+    subject: The former Fui Chiu (Huizhou Hakka) Association building, a Hakka dialect-group clan house in Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 On the old streets of Penang, the shops that hold up an entire row of storefronts are mostly Hokkien-run businesses; in cities that rose on tin such as Kuala Lumpur and Ipoh, the mines and guilds were packed with Cantonese and Hakka people; and whatever town you walk into, the old coffee shop selling Hainanese coffee and toast with butter and kaya often has a Hainanese standing behind the counter.

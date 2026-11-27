@@ -31,7 +31,7 @@ faq:
     a: "Trong số nhiều giống, MARDI đã công bố dòng MR (như MR 297 và MR 219), các giống thơm MRQ, và KADARIA 1, giống lúa lai đầu tiên của Malaysia."
 
 lang: "vi"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ wikidata: "Q6741932"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-and-food-security" }
   - { rel: "related-to", to: "malaysia-rice-industry" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'Cổng chính của viện nghiên cứu nông nghiệp MARDI ở Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: Những hàng cây dâu tây được trồng trong các máng giá thể nâng cao bên trong một nhà kính ở Cameron Highlands
+    kind: representative
+    origin: third-party
+    subject: Canh tác dâu tây trong nhà kính được che chắn ở Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: Những hàng luống trồng phủ màng bạc với cây giống non và những mái che mưa nhà kính tại nông trại nghiên cứu của Khoa Nông nghiệp, Universiti Putra Malaysia
+    kind: representative
+    origin: third-party
+    subject: Các luống cây trồng và nhà kính tại một nông trại nghiên cứu nông nghiệp của trường đại học Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 Gần như mỗi bát gạo địa phương ở Malaysia đều truy về một giống được lai tạo tại một trạm thực nghiệm của MARDI. Đằng sau lúa, gia cầm, trái cây nhiệt đới và các kệ thực phẩm chế biến của đất nước là một viện liên bang có nhiệm vụ biến khoa học thành sản lượng cao hơn.

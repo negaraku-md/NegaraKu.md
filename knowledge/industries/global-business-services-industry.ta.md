@@ -31,7 +31,7 @@ faq:
   - q: GBS முதலீட்டாளர்களுக்கு மலேசியா என்ன ஊக்கத்தொகைகளை வழங்குகிறது?
     a: MDEC ஆல் நிர்வகிக்கப்படும் Malaysia Digital (MD) நிலை முக்கிய வழியாகும், இது அங்கீகரிக்கப்பட்ட டிஜிட்டல் மற்றும் சேவை செயல்பாடுகளுக்கு வரி ஊக்கத்தொகைகளைத் திறக்கக்கூடும். 2024 இல் MDEC இரண்டு விளைவு-அடிப்படையிலான திட்டங்களை அறிமுகப்படுத்தியது — புதிய முதலீட்டு ஊக்கத்தொகை மற்றும் விரிவாக்க ஊக்கத்தொகை — விண்ணப்பங்கள் 2027 வரை திறந்திருக்கும். விதிமுறைகள் மாறுகின்றன, எனவே தற்போதைய தகுதியை MDEC அல்லது ஒரு வரி ஆலோசகருடன் உறுதிப்படுத்தவும்.
 lang: ta
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - Malaysia Digital
   - ஆஃப்ஷோரிங்
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'தொழில்நுட்பம் மற்றும் உலகளாவிய வணிக சேவைகளுக்கான மலேசியாவின் முக்கிய மையங்களில் ஒன்றான சைபர்ஜெயாவில் உள்ள ஒரு நவீன பெருநிறுவன அலுவலக கட்டிடம்.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: மலேசியா, சிலாங்கூர், சைபர்ஜெயா வணிகப் பூங்காவில் கண்ணாடி மற்றும் கான்கிரீட்டால் ஆன நவீன நடுத்தர-உயர நிறுவன அலுவலகக் கட்டிடம்.
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவின் உலகளாவிய சேவை மையமான சைபர்ஜெயாவில் ஒரு நிறுவன அலுவலகக் கட்டிடம்
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: மிகப் பெரிய திறந்த-வடிவமைப்பு அழைப்பு மையத் தளம் முழுவதும் கணினி பணிநிலையங்களில் முகவர்களின் வரிசைகள்.
+    kind: representative
+    origin: third-party
+    subject: பெரிய அழைப்பு மைய அலுவலகத் தளம் (பகிர்-சேவை/BPO பணியிடத்தை பிரதிநிதித்துவப்படுத்துகிறது)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 இப்போது Cyberjaya அல்லது கோலாலம்பூரில் எங்கோ, ஒரு கணக்காளர் லண்டனில் தலைமையகம் கொண்ட ஒரு நிறுவனத்தின் மாதக் கணக்குகளை முடிக்கிறார், ஒரு உதவி-மேசை முகவர் சிட்னியில் உள்ள ஒரு வாடிக்கையாளருக்கான டிக்கெட்டைத் தீர்க்கிறார், மேலும் ஒரு தரவு பகுப்பாய்வாளர் ஜெர்மனியில் உள்ள ஒரு தொழிற்சாலைக்கான டாஷ்போர்டை உருவாக்குகிறார். அந்த முதலாளிகள் யாரும் மலேசியாவில் எதையும் உற்பத்தி செய்வதில்லை. அவர்கள் இங்கு நடத்துவது குறைவாகத் தெரியும் ஆனால் பெருகிய அளவில் மதிப்புமிக்க ஒன்று: அவர்களின் உலகளாவிய பின்-அலுவலகம்.

@@ -96,6 +96,7 @@ dishFacts:
   halal: "Isian tradisionalnya adalah daging babi cincang, dan pasta ikan di gerai Malaysia kadang dicampur dengan babi, sementara saus Ampang adalah saus kacang fermentasi — jadi potongan di suatu gerai tertentu mungkin sesuai atau tidak sesuai untuk pola makan halal. Tanyakan ke tiap gerai."
   eat: "Biasanya dipesan 'pilih sendiri': potongan isi dan aneka lauk lepas terpajang, dan penyantap memilih yang mereka inginkan sebelum dimasak sesuai pesanan. Disantap dalam sup bening, atau kering dengan cocolan saus kacang manis dan cabai — gaya Ampang menggoreng potongannya dan menyajikannya disiram saus kacang fermentasi manis yang kental — dan sering dijadikan hidangan utuh dengan nasi atau mi seperti bihun atau mi kuning."
   where: "Hidangan andalan hawker centre dan food court, tempat satu gerai dapat menyajikan puluhan kombinasi dari nampan dan panci yang sama. Versi Malaysia yang paling dikenal mengambil namanya dari kawasan Ampang di tepi Kuala Lumpur, sebuah distrik dengan akar Hakka yang dalam."
+wikidata: "Q713892"
 ---
 
 Melangkah ke sebuah kedai yong tau foo, yang diserahkan kepada Anda bukanlah menu melainkan sebuah nampan. Kubus tahu,

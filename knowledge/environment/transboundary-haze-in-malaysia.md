@@ -80,9 +80,35 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'Kaki langit Kuala Lumpur yang dilindungi jerebu kelabu tebal, dengan menara-menara tinggi hampir tidak kelihatan.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: Udara berjerebu dengan jarak penglihatan rendah di sebuah jalan di sebelah klinik kesihatan di Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Keadaan jerebu berhampiran sebuah klinik kesihatan di Kuala Lumpur
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: Jerebu rentas sempadan yang tebal mengaburkan bukit yang biasanya kelihatan di kaki langit
+    kind: representative
+    origin: third-party
+    subject: Jerebu rentas sempadan Asia Tenggara 2013 di atas Singapura (perwakilan)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 Setiap kali angin monsun bertukar arah pada musim kering, langit di Lembah Klang, Sarawak dan sebahagian besar Semenanjung boleh bertukar kelabu dalam beberapa hari sahaja — matahari menjadi kabur, bau asap masuk ke dalam rumah, dan telefon berbunyi dengan makluman API. Inilah jerebu rentas sempadan: pencemaran yang tidak dihasilkan sepenuhnya di dalam negara, tetapi dihirup setiap tahun oleh jutaan rakyat Malaysia.

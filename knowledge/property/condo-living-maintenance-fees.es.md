@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que posea, esté comprando o esté alquilando una unidad en un condominio, apartamento u otra propiedad en régimen de estratos (con título de estratos) de Malasia, en Malasia Peninsular o en el Territorio Federal de Labuan."
 
 lang: "es"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'Una alta torre de condominio residencial roja y blanca contra un cielo azul en Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: Varias torres de condominios se elevan juntas sobre Ampang, en Kuala Lumpur, un conjunto de rascacielos cuyos residentes comparten las cuotas de mantenimiento que mantienen en funcionamiento ascensores, piscinas y seguridad.
+    kind: actual
+    origin: third-party
+    subject: Un conjunto de torres de condominios en Ampang, Kuala Lumpur
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: Las múltiples torres del Riana Green Condominium se elevan juntas entre la vegetación de Petaling Jaya, una promoción en régimen de strata cerrada cuyos residentes comparten las cuotas de mantenimiento y un fondo de reserva.
+    kind: actual
+    origin: third-party
+    subject: El conjunto Riana Green Condominium visto desde la NKVE, Petaling Jaya, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 Compraste la unidad. No compraste el ascensor, la caseta de vigilancia, la piscina ni la tubería que atraviesa el muro que compartes con tu vecino. Alguien tiene que pagar todo eso — y la ley divide la factura en dos cuentas que estás legalmente obligado a mantener separadas.

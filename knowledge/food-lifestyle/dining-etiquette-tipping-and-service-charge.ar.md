@@ -72,7 +72,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "sales-and-service-tax-sst-explained" }
-related: []
+related: ["sales-and-service-tax", "pasar-malam-and-street-food", "kopi-teh-tarik-and-coffeeshop-drinks"]
 keywords: ["الإكرامية ماليزيا", "رسم الخدمة ماليزيا", "ضريبة الخدمة في المطعم", "آداب المائدة ماليزيا", "SST الأطعمة والمشروبات", "tipping malaysia", "service charge malaysia"]
 framework: explainer
 ---

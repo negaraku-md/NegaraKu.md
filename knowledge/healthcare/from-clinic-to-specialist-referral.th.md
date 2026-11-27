@@ -35,7 +35,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'ภายนอกของอาคารแพทย์เฉพาะทางและการดูแลกลางวัน (Kompleks Pakar dan Rawatan Harian) ที่ Hospital Kuala Lumpur พร้อมสัญลักษณ์เสี้ยววงเดือนแดง'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: เคาน์เตอร์ลงทะเบียนและสอบถามภายในโรงพยาบาลรัฐในมาเลเซียมีป้ายนำผู้ป่วยไปยังช่องที่ถูกต้องโดยไม่มีผู้ป่วยในภาพ
+    kind: actual
+    origin: third-party
+    subject: เคาน์เตอร์ลงทะเบียนและสอบถามภายในโรงพยาบาลรัฐในมาเลเซีย(HospitalTengkuAnisปาซีร์ปูเตะห์รัฐกลันตัน)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: อาคารหลักหลายชั้นของโรงพยาบาลเฉพาะทางไม่แสวงหากำไรขนาดใหญ่ในปีนังแทนระดับโรงพยาบาลในเส้นทางการส่งต่อ
+    kind: actual
+    origin: third-party
+    subject: อาคารหลักของโรงพยาบาลลำหวาอีโรงพยาบาลเฉพาะทางไม่แสวงหากำไรในปีนัง
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 การส่งตัวเป็นช่วงหัวเลี้ยวหัวต่อในการดูแลรักษาของทุกคน: แพทย์ของคุณได้ตัดสินใจ หรือแนะนำ ว่าปัญหาของคุณต้องการแพทย์เฉพาะทาง และทันใดนั้นคุณก็กำลังนำทางในส่วนอื่นของระบบสุขภาพ คู่มือนี้เริ่มต้นจากจุดนั้นพอดี คู่มือนี้ **ไม่ได้** บอกว่าคุณจำเป็นต้องพบแพทย์เฉพาะทางหรือไม่ การตัดสินใจนั้นเป็นของแพทย์ของคุณ สิ่งที่คู่มือนี้ทำคืออธิบาย **ว่าการส่งตัวทำงานอย่างไรจริง ๆ ในมาเลเซีย และต้องเตรียมอะไรบ้าง** เพื่อให้การส่งต่อจากคลินิกสู่แพทย์เฉพาะทางราบรื่นที่สุดเท่าที่จะเป็นไปได้

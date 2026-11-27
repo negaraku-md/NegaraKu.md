@@ -34,7 +34,7 @@ faq:
     a: "Không có luật riêng về HIV. Các điều khoản chung của Bộ luật Hình sự như mục 269 và 270 có thể áp dụng cho việc lây lan bệnh nguy hiểm, tuy nhiên chưa có vụ truy tố HIV nào được biết đến cho đến nay."
 
 lang: "vi"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'Một dải ruy băng nhận thức màu đỏ, biểu tượng quốc tế của nhận thức về HIV/AIDS, trên nền trắng trơn.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: Một hộp xét nghiệm nhanh HIV, chai dung dịch đệm và vật tư được sắp xếp trên bàn trải giấy sạch, do đôi tay đeo găng thao tác, không hiển thị khuôn mặt
+    kind: representative
+    origin: third-party
+    subject: Một bộ xét nghiệm nhanh HIV được bày trên bàn trước khi xét nghiệm, với đôi tay đeo găng
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: Một tòa nhà phòng khám sức khỏe tình dục công cộng thấp tầng ở góc phố, với các băng rôn nâng cao nhận thức trên mặt tiền và không có người nào
+    kind: representative
+    origin: third-party
+    subject: Mặt ngoài của một phòng khám sức khỏe tình dục công cộng với các băng rôn nâng cao nhận thức về sức khỏe
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 Một người lo lắng sau một đêm có nguy cơ có thể bước vào một Phòng khám Y tế nhà nước tại Malaysia, làm xét nghiệm HIV miễn phí và bảo mật, và — nếu cần — ra về với thuốc dự phòng trong vòng vài giờ. Tuy nhiên chính con đường đó cũng giao cắt với các vấn đề bảo mật, pháp lý, tôn giáo và kỳ thị khiến HIV trở thành một trong những chủ đề sức khỏe nhạy cảm nhất tại đất nước này.

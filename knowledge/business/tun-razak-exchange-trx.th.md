@@ -37,7 +37,7 @@ faq:
     a: "TRX มีสถานีรถไฟของตนเอง คือสถานี Tun Razak Exchange MRT ซึ่งเปิดให้บริการมาตั้งแต่ปี 2017 และให้บริการโดยสาย MRT สองสาย การเข้าถึงด้วยรถยนต์มาจากโครงข่ายใจกลางกัวลาลัมเปอร์โดยรอบ"
 
 lang: "th"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ relations:
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
+hero: '/media/business/tun-razak-exchange-trx/hero.webp'
+heroAlt: 'ตึกสูงพิเศษ Exchange 106 กระจกสีน้ำเงินเพรียวบางตั้งตระหง่านเหนือกลุ่มอาคารสำนักงาน Tun Razak Exchange ตัดกับท้องฟ้าสีครามสดใสมีเมฆขาว'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: ภาพเต็มความสูงของอาคาร Exchange 106 ซูเปอร์ทอลล์ที่มียอดสีเงินเป็นเหลี่ยม ขนาบด้วยอาคารสำนักงาน TRX ที่เตี้ยกว่ารวมถึงอาคาร Affin ใต้ท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: ภาพระยะใกล้ของอาคาร Exchange 106 ที่สร้างเสร็จแล้ว ตึกซูเปอร์ทอลล์ของ TRX พร้อมสำนักงานใหญ่ Affin Bank อยู่ทางขวา
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: ลานคนเดินปูพื้นในย่าน Tun Razak Exchange มีประติมากรรมสเตนเลสและทองอยู่ทางซ้ายและอาคารสำนักงานกระจกสะท้อนแสงตั้งตระหง่านอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: ลานระดับถนนและงานศิลปะสาธารณะภายในย่านเขตการเงิน Tun Razak Exchange ล้อมด้วยอาคารสำนักงานกระจก
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 ก้าวขึ้นจากสถานี Tun Razak Exchange MRT แล้วเส้นขอบฟ้าจะบอกคุณว่าที่นี่ถูกวางแผน ไม่ใช่เติบโตขึ้นเอง กลุ่มอาคารสูงบนพื้นที่ 70 เอเคอร์ที่ขอบด้านตะวันออกของใจกลางกัวลาลัมเปอร์ หนึ่งในนั้นทะลุความสูงกว่า 450 เมตร จัดวางรอบสวนสาธารณะที่ตั้งอยู่บนหลังคาของห้าง นี่คือความพยายามของมาเลเซียในการสร้างย่านการเงินขึ้นจากศูนย์

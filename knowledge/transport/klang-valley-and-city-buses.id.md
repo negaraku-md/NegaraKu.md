@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus mulai mengubah 19 jalur berpenumpang rendah — 16 jalur feeder MRT dan 3 jalur biasa, kira-kira 7% dari jaringan — menjadi layanan van yang dapat dipesan Rapid KL On-Demand."
 
 lang: "id"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,9 +72,33 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: 'Bus tingkat Rapid KL berwarna merah/krem/biru yang mencolok di peronnya (rute 751, simpul pertukaran Hab Pasar Seni) dengan papan penunjuk peron'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: Bus kota listrik gratis GO KL berwarna biru-hijau berhenti di halte pinggir jalan ('100% Clean Energy / Perkhidmatan Bas Percuma') — pemandangan bus di halte dengan corak/moda yang khas. Dua penumpang kecil tak teridentifikasi di halte.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: Tampak samping bersih bus satu lantai Rapid KL (corak merah/krem/biru) di KL Sentral — melengkapi hero bus tingkat dan body GO KL listrik. Tanpa wajah.
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 Kereta api membawa Anda ke stasiun. Ia jarang membawa Anda pulang ke rumah. Celah itu — dari peron MRT atau LRT ke depan pintu rumah Anda, taman industri kantor Anda, atau pasar basah dua kawasan jauhnya — dipenuhi oleh sebuah armada yang jarang dipikirkan oleh sebagian besar penumpang: bus Rapid KL.

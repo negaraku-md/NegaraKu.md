@@ -86,6 +86,13 @@ drinkFacts:
   halal: "Air mata kucing berasaskan tumbuhan dan tidak beralkohol — buah kering, buah sami, kundur dan gula batu dalam air — jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Lazimnya dihidang sejuk-beku, dituang daripada bekas penyejuk besar; ia juga boleh diminum panas atau pada suhu bilik. Ia manis dan menyegarkan serta secara semula jadi tiada kafein, yang menjadikannya minuman mudah untuk bila-bila masa dan bukannya penyegar pagi."
   where: "Terdapat di gerai jaja, kedai pencuci mulut dan pasar malam, dan paling terkenal daripada sebuah gerai yang telah lama beroperasi di Jalan Petaling (Petaling Street) di Chinatown KL, tempat ia dituang sejuk-beku daripada bekas logam besar untuk orang ramai yang lalu-lalang di pasar."
+hero: "/media/food/air-mata-kucing/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Tong air mata kucing gelap di gerai penjaja Malaysia dengan papan tanda dwibahasa"
+heroCredit: "Dr.Francostein1975 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Air_Mata_Kuching_(_Sweet_Monk_Fruit_Longan_Dessert_).jpg"
 ---
 
 Melangkah keluar dari lorong pasar yang sesak di Petaling Street di Chinatown Kuala

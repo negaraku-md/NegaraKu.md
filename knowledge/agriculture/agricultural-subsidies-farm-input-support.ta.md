@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 
 status: "published"
 aiAssisted: true
@@ -100,9 +100,36 @@ wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'பிரகாசமான பகல் வெளிச்சத்தில், நீர் நிறைந்த நெல் வயலின் சேற்று வரப்பில் சேற்றைத் தெறிக்கவிட்டு வேலை செய்யக் குனியும் விவசாயி'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: மாலைப்பொழுதில் அடிவானத்தில் பனைமரங்களுடன் ஈரமான, அடைவைக்கதிர் மிஞ்சிய நெல்வயலில் மஞ்சள் நிற அறுவடை இயந்திரத்தை ஓட்டிச் செல்லும் இயக்குநர்
+    kind: actual
+    origin: third-party
+    subject: கெடா, லங்காவியில் மாலைப்பொழுதில் சேற்று நெல்வயலில் நெல்லை அறுவடை செய்யும் அறுவடை இயந்திரம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: தலையில் முக்காடு அணிந்த பெண் ஒரு சிறிய கத்தியால் பொன்னிற நெற்கதிர்களை அறுத்து மஞ்சள் நிற பின்னல் கூடையில் சேகரிக்கிறார்
+    kind: actual
+    origin: third-party
+    subject: சபா, குடாட் மாவட்டத்தில் பழுத்த நெற்கதிர்களைக் கையால் அறுவடை செய்து பின்னல் கூடையில் சேகரிக்கும் துசுன் இனப் பெண்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 அன்று காலை நெல் விவசாயி தன் வயலுக்குச் சுமந்து சென்ற உர மூட்டை அவரது சொந்தப் பணத்தில் வாங்கப்பட்டதல்ல — அது கட்டணமின்றி வந்தது, பல்லாண்டுகளாக கூட்டரசு அரசாங்கத்தால் ஏற்கப்பட்டது. நெல்லுக்கான மலேசியாவின் வேளாண் மானியத்தின் உண்மையான முகம் இதுதான்: காசோலை அல்லது கணக்கில் வரவு வைக்கப்படும் பணம் அல்ல, மாறாக பண்ணையில் செலவின் பெரும் பகுதியை ஏற்கும் உரம், பூச்சிக்கொல்லி மற்றும் பரிசில்கள்.

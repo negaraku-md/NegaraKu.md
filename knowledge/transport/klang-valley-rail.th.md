@@ -35,7 +35,7 @@ verificationNeeded:
   - "ยืนยันความยาว/จำนวนสถานีปัจจุบันของสาย MRT Kajang โดยตรงกับ MRT Corp หรือ Rapid Rail ก่อนเผยแพร่ — กระทรวงคมนาคมและหน้าสายของ Rapid Rail เองให้ตัวเลขที่แตกต่างกันเล็กน้อย (51 กม./31 สถานี เทียบกับ 46 กม./29 สถานี) ซึ่งบทความนี้ได้เลี่ยงการทำซ้ำคำต่อคำในระหว่างรอการปรับให้ตรงกัน"
 
 lang: "th"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'รถไฟ MRT Putrajaya Line สีแดงและขาวเพรียวบนทางยกระดับตัดกับท้องฟ้าดราม่า รถไฟฟ้าใต้ดินหุบเขากลังทันสมัย'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: ชานชาลา MRT ใต้ดินทันสมัยสะอาดตา (Tun Razak Exchange) มีประตูกั้นชานชาลาและจอแสดงเวลารถไฟเข้า — มุมมองภายในสถานี ไม่มีใบหน้าที่ระบุตัวตนได้
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: รถไฟ KL Monorail เลี้ยวบนรางยกระดับผ่านมัสยิดและเส้นขอบฟ้าเมือง — เสริมรูปแบบรถไฟที่สองและบริบทหุบเขากลัง แตกต่างจากภาพหลัก (รถไฟฟ้ายกระดับ) และ body-1 (สถานีใต้ดิน)
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 มองแผนที่รถไฟหุบเขากลังเป็นครั้งแรกแล้วมันดูเหมือนซุปตัวอักษร — MRT, LRT, KTM, ERL, สายโมโนเรลสีชมพู และตั้งแต่กลางปี 2026 สาย Shah Alam ใหม่เอี่ยมที่ร้อยผ่านทั้งหมด สัญชาตญาณคือการมองว่าเป็นระบบรถไฟหนึ่งระบบที่มีจำนวนสีที่ชวนสับสน แต่ไม่ใช่ มันคือเครือข่ายสามเครือข่ายที่แยกกัน ดำเนินการโดยบริษัทสามแห่งที่แตกต่างกัน ซึ่งบังเอิญตัดผ่านกันที่สถานีร่วมไม่กี่แห่ง เมื่อคุณรู้ว่าบริษัทใดให้บริการอะไร — และจุดเปลี่ยนถ่ายที่เดินได้ฟรีอยู่ที่ไหนจริง ๆ — การเดินทางในกัวลาลัมเปอร์โดยไม่ใช้รถก็เลิกน่ากลัวและกลายเป็นเรื่องปกติ

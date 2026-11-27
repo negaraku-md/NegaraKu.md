@@ -30,7 +30,7 @@ faq:
     a: "TNB的核心业务覆盖马来西亚半岛。在沙巴和纳闽，电力供应由沙巴电力有限公司（Sabah Electricity Sdn. Bhd.）负责，该公司多数股权（82.75%）由TNB持有，沙巴州政府持有17.24%。砂拉越则由另一家独立的公用事业公司供电，而非TNB。"
 
 lang: "zh"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,8 +76,34 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "sabah-electricity" }
   - { rel: "related-to", to: "khazanah-nasional" }
-related: ["khazanah-nasional"]
+related: ["khazanah", "tenaga-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
+hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
+heroAlt: '马来西亚一座火力发电站，烟囱矗立在密集的高压输电铁塔群之后。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: 一栋TNB品牌办公楼,外墙印有Tenaga Nasional名称与标志,前方有绿化景观与停车场,晴朗的蓝天
+    kind: actual
+    origin: third-party
+    subject: 吉打亚罗士打一座国家能源有限公司(TNB)办公楼,国家电力公司的州级服务建筑之一
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: 钢制格构输电塔架着高压电缆,沿着一座长桥跨越宽阔的海峡列队前行,远处是岛屿与大陆的山丘
+    kind: actual
+    origin: third-party
+    subject: TNB高压输电塔架着电缆,沿槟城大桥跨越海峡通往加占波岛
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 每当马来西亚半岛的住家、工厂或数据中心亮起灯光，那些电子极有可能是流经由一家公司所拥有的网络：国家能源有限公司。它不仅仅是一家发电商，更是国家能源系统的骨干——从发电站一直延伸到墙上的电表。

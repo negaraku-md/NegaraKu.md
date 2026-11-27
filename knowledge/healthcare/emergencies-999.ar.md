@@ -31,7 +31,7 @@ faq:
     a: "تُرسَل سيارات الإسعاف الحكومية مجانًا عبر خط 999 وتديرها KKM مع هيئات طوعية مثل St John Ambulance وجمعية الهلال الأحمر الماليزية. أما سيارات الإسعاف الخاصة فتشغّلها شركات أو مستشفيات خاصة عبر خطوطها الساخنة، وتفرض رسم خدمة بحسب طبيعة المكالمة."
 
 lang: "ar"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "سيارة إسعاف الطوارئ", "قسم الطوارئ", "فرز المناطق الحمراء الصفراء الخضراء", "إسعاف مجاني", "رسوم طوارئ المستشفى الحكومي", "emergency"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'سيّارة إسعاف تابعة لوزارة الصحة الماليزية على طريق سريع، كُتب عليها ''Ambulans'' ورقم الطوارئ 999.'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: محطة لإدارة الإطفاء والإنقاذ الماليزية (Bomba)، وهي إحدى خدمات الطوارئ التي يجري الوصول إليها عبر خطّ الاتصال 999
+    kind: actual
+    origin: third-party
+    subject: محطة إدارة الإطفاء والإنقاذ (Bomba، JBPM) في Pagoh بولاية Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: سيارة إسعاف تابعة لـ St John Ambulance Malaysia في أحد شوارع Melaka، وهي إحدى خدمات الإسعاف الطبي التطوّعية العاملة إلى جانب الاستجابة الحكومية
+    kind: actual
+    origin: third-party
+    subject: سيارة إسعاف طوارئ تابعة لـ St John Ambulance Malaysia متوقّفة في Melaka
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 تطلب الرقم 999. يسألك الصوت على الطرف الآخر عن اسمك وموقعك وما الذي حدث — وخلال زمن الاستجابة المستهدف، ينبغي أن يكون طاقم سيارة إسعاف في طريقه إليك بالفعل. لكن كثيرين لا يعرفون ما يحدث فعلًا خلف تلك المكالمة: مَن الذي يجيب حقًا، وهل هي مجانية، ولماذا يُعالَج أحيانًا مريض آخر وصل إلى المستشفى بعدك قبلك.

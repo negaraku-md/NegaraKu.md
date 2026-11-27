@@ -23,7 +23,7 @@ verificationNeeded:
   - "本記事は、私立自動車教習所のClass Dコースの正確な料金も、LDL/PDL/CDLの経路に関するJPJの正確な料金表も引用していない。検証の過程で単一の公式なJPJ料金表が見つからなかったためである——予算を組む前に、現行の料金をJPJの窓口または認可された自動車教習所で直接確認すること。"
   - "1987年道路交通法（Act 333）s.28の正確な文言は、JPJが掲載するPDFを一行ずつ直接読むのではなく（文脈使用量を抑えるためここでは避けた）、同法の二次的な要約を通じて確認した——条番号と実質的な効力は複数の独立した情報源で相互に裏付けられているが、法的依拠を伴う文書を作成する場合は、JPJが掲載するAct 333のPDF原文で正確な文言を確認すること。"
 lang: "ja"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 framework: how-to
+hero: '/media/transport/driving-licence-foreigners/hero.webp'
+heroAlt: 'ペナン・セントラル付近のマレーシア連邦道路の交差点で、黄色い警告標識、信号機、車が見える。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: クアラルンプールの道路上、料金所の手前付近に設置されたマレーシアの高さ制限規制標識。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの道路規制標識
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: 柔佛州クルアンを北へ貫くマレーシア連邦道91号線沿いの信号機と車線標示。
+    kind: actual
+    origin: third-party
+    subject: 柔佛州クルアンを貫く連邦道
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 海外で三十年運転してきたMM2H退職者、マニュアル車のギアに一度も触れたことの

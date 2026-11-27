@@ -83,6 +83,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Mature oil-palm estate climbing a hillside with an estate road, Kunak District, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: A palm-oil mill complex (blue sheds + steaming chimneys) set amid hills of oil palm — the processing side of the business. No people.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: A tipper truck heaped with fresh fruit bunches (FFB) at a mill gate ('Kilang Apas Balung') — the harvest/logistics leg. Only a tiny, non-identifiable worker at frame edge.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 In 2012 it was the toast of the market — a mega-listing that briefly ranked second in the world behind Facebook. Thirteen years later the same company slipped quietly off Bursa Malaysia at a fraction of its debut price, bought back by the very authority that had floated it.

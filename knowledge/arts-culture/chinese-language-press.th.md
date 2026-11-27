@@ -33,7 +33,7 @@ faq:
     a: "สอดคล้องกับแนวโน้มของวงการหนังสือพิมพ์ทั่วโลก ยอดพิมพ์ฉบับกระดาษของหนังสือพิมพ์ภาษาจีนมาเลเซียโดยทั่วไปลดลงในช่วงราวสองทศวรรษที่ผ่านมา โดยผู้อ่าน — โดยเฉพาะคนรุ่นใหม่ — รับข่าวผ่านโทรศัพท์มือถือและอินเทอร์เน็ตมากขึ้นเรื่อย ๆ หนังสือพิมพ์แต่ละฉบับจึงพัฒนาแพลตฟอร์มดิจิทัล เช่น เว็บไซต์ข่าว หนังสือพิมพ์อิเล็กทรอนิกส์ และแอปบนมือถือ โดยเนื้อหาบางส่วนยังเผยแพร่บนสื่อสังคมออนไลน์ด้วย ส่วนที่ว่าฉบับกระดาษจะหายไปทั้งหมดหรือไม่ และเมื่อใด ยังคงไม่แน่นอน บทความนี้ไม่ได้คาดการณ์ใด ๆ"
 
 lang: "th"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'อาคารสำนักงานสีขาวของหนังสือพิมพ์ภาษาจีนซินจิวเดลี (Sin Chew Daily) ในเมืองมิริ (Miri) มีชื่อแสดงเป็นภาษาอังกฤษและอักษรจีนบนผนังด้านหน้าและกำแพงประตู'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: หน้าหนึ่งยุคแรกของหนังสือพิมพ์จีนกวงหัวยิตเปา ในปีนัง พาดหัวด้วยตัวอักษรจีนและอังกฤษ วางอยู่ท่ามกลางหน้าหนังสือพิมพ์จีนเก่าอื่น ๆ
+    kind: actual
+    origin: third-party
+    subject: หน้าหนึ่งของกวงหัวยิตเปา หนังสือพิมพ์รายวันภาษาจีนที่เก่าแก่ที่สุดของมาเลเซีย (ปีนัง)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: สำนักงานหนังสือพิมพ์หนานหยางเซียงเปาในเมืองยะโฮร์บาห์รู มีชื่อหนังสือพิมพ์เป็นตัวอักษรจีนสีเขียวและอักษรโรมันเหนือหน้าร้าน
+    kind: actual
+    origin: third-party
+    subject: สำนักงานหนังสือพิมพ์หนานหยางเซียงเปาพร้อมป้ายชื่อหัวหนังสือพิมพ์ เมืองยะโฮร์บาห์รู
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 ในร้านโกปี๊ (kopitiam) ยามเช้า หนังสือพิมพ์ภาษาจีนที่กางออกมักวางคู่กับกาแฟหนึ่งถ้วย ผู้อ่านพลิกผ่านข่าวใหญ่ทั้งในและต่างประเทศที่หน้าหนึ่ง แล้วมักมุ่งตรงไปยังหน้าที่ตนคุ้นเคยที่สุด — บางคนดูข่าวท้องถิ่นก่อนว่าโรงเรียนจีนแห่งใดจัดงานขายของการกุศลอีก บางคนพลิกไปที่หน้าวรรณกรรมและหน้าความคิดเห็น และบางคนก็อ่านเพียงประกาศมรณกรรม โฆษณาย่อย และผลสลากกินแบ่ง สำหรับชาวจีนมาเลเซียจำนวนมาก หนังสือพิมพ์ภาษาจีนไม่ได้เป็นเพียงข่าว แต่ยังเป็นนิสัยการอ่านภาษาจีนที่ทำกันทุกวัน

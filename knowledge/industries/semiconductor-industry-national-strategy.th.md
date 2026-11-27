@@ -36,7 +36,7 @@ faq:
     a: "NSS ตั้งเป้าฝึกและเพิ่มทักษะวิศวกรมาเลเซียที่มีทักษะสูง 60,000 คน — ราว 30,000 คนบ่มเพาะผ่านกระทรวงศึกษาธิการ และราว 30,000 คนเป็นบุคลากรด้านเทคนิคและอาชีวศึกษา (TVET) จากกระทรวงอื่น ๆ"
 
 lang: "th"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'ภาพระยะใกล้มากของชิปวงจรรวมแสดงวงจรบนชิปสีเงินปนม่วงอันซับซ้อน พร้อมเส้นลวดเชื่อมทองบางๆ แผ่ออกไปสู่ขาแพ็กเกจทอง'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: เวเฟอร์ซิลิคอนขนาด 300 มิลลิเมตรทรงกลมมองจากด้านบน ปกคลุมด้วยตารางสม่ำเสมอของชิปไดสี่เหลี่ยม พร้อมสีรุ้งจากการเลี้ยวเบนทั่วพื้นผิว
+    kind: representative
+    origin: third-party
+    subject: เวเฟอร์ซิลิคอนขนาด 12 นิ้ว (300 มม.) ที่มีลวดลายเป็นตารางของชิปได
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: เวเฟอร์ซิลิคอนกำลังหมุนปกคลุมด้วยสระโฟโตรีซิสต์สีแดงเข้มเป็นมันวาวบนเครื่องเคลือบแบบหมุน โดยมีสารรีซิสต์กระเด็นออกด้านนอกเป็นละอองฝอย
+    kind: representative
+    origin: third-party
+    subject: เวเฟอร์ซิลิคอนกำลังถูกเคลือบโฟโตรีซิสต์แบบหมุนในระหว่างการผลิตชิป
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 โทรศัพท์ แล็ปท็อป และรถยนต์เกือบทุกเครื่องบนโลกมีชิปที่ใช้ชีวิตส่วนหนึ่งในมาเลเซีย — บรรจุ ทดสอบ และส่งจากโรงงานในปีนัง (Penang) หรือหุบเขากลัง (Klang Valley) แต่เป็นเวลาห้าสิบปีที่ประเทศทำส่วนที่หวือหวาน้อยที่สุดและอัตรากำไรต่ำที่สุดของงานนั้น: ปลายทาง (back end) ยุทธศาสตร์เซมิคอนดักเตอร์แห่งชาติคือความพยายามของมาเลเซียในการเปลี่ยนว่าประเทศเป็นเจ้าของส่วนใดของชิป

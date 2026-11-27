@@ -97,6 +97,33 @@ stayFacts:
   cost: 'Expect annual tuition plus one-off fees such as an admission or placement-test fee and a registration fee, with a refundable deposit capped at RM5,000; development or building fees cannot be charged at all. The Ministry regulates the structure but not the amount, so fees vary enormously by school, curriculum and location — confirm current figures directly with each individual school rather than trusting any number in a comparison article or forum.'
   watch: 'Because no fee is government-set, the actual price swings widely between schools even for the same age group, and fee increases are capped at 30% no more than once every three years. Plan too for a 6% service tax that applies, per pupil per academic year, where a child''s annual fees exceed RM60,000 — a tax on top of the fee, not set by the school.'
   next: 'Shortlist schools and confirm their current fee schedules and the RM60,000 tax threshold directly with each one before budgeting. For related planning, see Dependant Pass or Long-Term Social Visit Pass for sponsoring children to accompany a foreign employee, and Enrolling in a Government School if a government school is also on your comparison list.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'A modern international-school entrance gate with a canopied guardhouse, trimmed hedges and leafy trees, with low campus buildings behind under a cloudy sky'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: A multi-storey international-school building with a rounded glass-and-stone facade in red and grey, cars and motorcycles parked in front
+    kind: representative
+    origin: third-party
+    subject: the curved modern main building of HELP International School, an international school in Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: A clean modern steel-and-glass school entrance canopy and guardhouse beside a crossing, framed by trees under a bright sky
+    kind: representative
+    origin: third-party
+    subject: the covered drive-through entrance of the International School of Kuala Lumpur's Ampang Hilir campus
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 A British curriculum school and an American curriculum school on opposite sides of the same town are, on paper, licensed by the exact same office in Putrajaya. Neither one is legally allowed to charge parents a "building fund." Neither one can raise fees by more than 30% at a time. And neither one is required to publish a single figure the Ministry itself sets — because for all the rules the Ministry does write, the actual price of a seat is not one of them.

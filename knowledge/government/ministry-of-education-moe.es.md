@@ -28,7 +28,7 @@ faq:
   - q: "¿Cuán grande es el presupuesto del Ministerio de Educación?"
     a: "En el Presupuesto 2026, el KPM recibió RM66.2 mil millones — la mayor asignación de todos los ministerios federales — frente a los RM64.2 mil millones de 2025. La asignación incluye casi RM2 mil millones para rehabilitar más de 520 escuelas en mal estado y construir 38 nuevas."
 lang: "es"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,9 +82,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'Una imponente torre gubernamental simétrica de color pardo en estilo morisco-islámico con torreones rematados en pináculos y una elevada bahía central en arco, con las palabras KEMENTERIAN PENDIDIKAN MALAYSIA sobre su entrada, flanqueada por alas más bajas bajo un cielo repleto de nubes'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: Vista cercana del pórtico de entrada arqueado del edificio del Ministerio de Educación, con las letras azules KEMENTERIAN PENDIDIKAN MALAYSIA y el escudo nacional dorado sobre la puerta, y banderas de Malasia y estatales ondeando en mástiles
+    kind: actual
+    origin: third-party
+    subject: La entrada principal de la sede del Ministerio de Educación de Malasia, Putrajaya, con el letrero KEMENTERIAN PENDIDIKAN MALAYSIA y el escudo nacional
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: La fachada escalonada completa de la sede del Ministerio de Educación de Malasia vista desde la vía de acceso, con su ornamentada torre central y alas simétricas flanqueadas por banderas de Malasia sobre un aparcamiento, bajo un cielo brillante y nublado
+    kind: actual
+    origin: third-party
+    subject: Vista frontal amplia del complejo de la sede del Ministerio de Educación de Malasia desde la vía de acceso, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 Si se trata de un escolar malasio — el currículo que estudia, el libro de texto sobre su pupitre, el examen nacional que presenta o el docente de escuela pública al frente del aula — le corresponde al Ministerio de Educación. Conocido en malayo como **Kementerian Pendidikan Malaysia** y casi siempre abreviado como **KPM**, es el ministerio federal que gestiona el sistema de educación preuniversitaria del país. Lo que *no* gestiona son las universidades — una frontera que confunde a muchísima gente.

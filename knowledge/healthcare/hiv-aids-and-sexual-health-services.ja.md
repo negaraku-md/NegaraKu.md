@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 
 status: "published"
 aiAssisted: true
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: '白無地の背景に描かれた赤いアウェアネスリボンで、HIV／AIDS 啓発の国際的シンボルである。'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: 清潔な紙を敷いた台の上に並べられたHIV迅速検査カセット、緩衝液ボトル、備品を、手袋をはめた手が扱っている。顔は写っていない
+    kind: representative
+    origin: third-party
+    subject: 検査前にテーブルに並べられたHIV迅速検査キット。手袋をはめた手で
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: 街角に立つ低層の公共の性の健康クリニック。正面に啓発用の横断幕が掲げられ、人の姿はない
+    kind: representative
+    origin: third-party
+    subject: 健康啓発の横断幕を掲げた公共の性の健康クリニックの外観
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 リスクのある一夜を過ごし不安を抱える人は、マレーシアの政府保健クリニック（Klinik Kesihatan）に足を運び、無料かつ秘密厳守でHIV検査を受け、必要であれば数時間以内に予防薬を手にして帰ることができる。しかし同じ道のりは、守秘義務、法律、宗教、スティグマといった問題とも交差しており、それゆえHIVはこの国で最もセンシティブな健康トピックの一つとなっている。

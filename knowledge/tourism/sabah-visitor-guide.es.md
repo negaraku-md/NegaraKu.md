@@ -35,7 +35,7 @@ faq:
     a: "Sipadan cierra cada noviembre para la recuperación del arrecife, así que planifica los viajes de buceo entre diciembre y octubre. En otros lugares, los meses más lluviosos del Monzón del Noreste (aproximadamente de noviembre a marzo) traen más lluvia a Borneo."
 
 lang: "es"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Viajeros que ponen la naturaleza por delante y buscan las experiencias estrella de Borneo: escalar el Monte Kinabalu, bucear el arrecife protegido de Sipadan y ver orangutanes y fauna fluvial en torno a Sandakan.'
+  getThere: 'Vuele al Aeropuerto Internacional de Kota Kinabalu, la principal puerta aérea de Sabah, y continúe luego en breves saltos nacionales hacia Sandakan, Tawau y la región de buceo.'
+  permit: 'Sabah controla su propia inmigración en virtud del Acuerdo de Malasia de 1963, así que toda llegada — incluidos los malasios que vuelan desde la Península — pasa un control y recibe un pase de visita, mientras que la ascensión al Monte Kinabalu y el buceo en Sipadan están regulados cada uno por permisos de cupo limitado de Sabah Parks.'
+  watch: 'Reserve con mucha antelación los puntos estrella, escasos y regulados por permiso, y planifique en torno al cierre anual de Sipadan en noviembre para la recuperación del arrecife, porque estas piezas se agotan y no pueden asegurarse a la llegada.'
+  next: 'Confirme las normas vigentes de entrada, de pase de visita y de permisos con el Departamento de Inmigración de Malasia (Immigration Department of Malaysia) y Sabah Parks antes de viajar.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'La cima de granito del St. John''s Peak en el Monte Kinabalu resplandeciendo de rosa al amanecer sobre un mar de nubes'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Primer plano de un mono narigudo de pelaje dorado pálido y larga nariz contra una selva verde difuminada en Labuk Bay, Sabah
+    kind: actual
+    origin: third-party
+    subject: Un mono narigudo, endémico de Borneo, fotografiado en Labuk Bay, Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Una ardiente puesta de sol anaranjada sobre el mar en Kota Kinabalu, con barcas de pesca en silueta y una isla en el horizonte
+    kind: actual
+    origin: third-party
+    subject: Puesta de sol dorada sobre el paseo marítimo de Kota Kinabalu con barcas de pesca en silueta y islas en el horizonte
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 Puedes volar de Kuala Lumpur a Kota Kinabalu sin salir del país y aun así hacer cola en un mostrador de inmigración cuando aterrizas. Esa sorpresa pilla desprevenidos a muchos visitantes primerizos, y es lo más importante que hay que entender antes de planificar un viaje a Sabah. Esta guía recorre la puerta de entrada, las atracciones más destacadas y las normas de entrada que hacen que Sabah se sienta como un lugar propio, porque, en un sentido muy real, lo es.

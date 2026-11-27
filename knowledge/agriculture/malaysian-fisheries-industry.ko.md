@@ -36,7 +36,7 @@ faq:
     a: "2019년 수산법 1985 개정(Act A1601) 후, 침범하는 외국 선박의 소유주나 선장에 대한 최대 벌금이 RM100만에서 RM600만로, 선원 1인당 RM100,000에서 RM600,000으로 인상되었습니다."
 
 lang: "ko"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ relations:
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "lkim" }
   - { rel: "related-to", to: "mmea" }
-related: []
+related: ["department-of-fisheries-malaysia", "ministry-of-agriculture-food-security-and-agencies", "food-security-self-sufficiency-policy"]
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: '말레이시아 페낭섬 앞바다의 선착장에 정박한 목조 트롤 어선들.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: 쿠알라케다 어촌의 고상가옥 옆으로 강을 따라 정박한 어선들
+    kind: actual
+    origin: third-party
+    subject: 쿠알라케다의 어선과 해안 어촌
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: 사라왁주 쿠칭 사톡 주말시장에 판매용으로 늘어놓은 지역산 신선 생선
+    kind: actual
+    origin: third-party
+    subject: 사라왁주 쿠칭 사톡 시장에 진열된 지역산 신선 생선
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 말라카 해협과 남중국해를 따라 늘어선 부두에서 새벽이 오기 전, 수천 척의 연안 어선이 온 나라가 먹는 어류의 거의 10분의 9를 대기 위해 바다로 나갑니다. 같은 시각, 더 먼 수역에서는 말레이시아 국기를 달지 않은 트롤선이 눈에 보이지 않는 경계를 가로질러 그물을 끌고 있습니다.

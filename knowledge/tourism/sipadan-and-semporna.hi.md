@@ -39,7 +39,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 
 status: "published"
 aiAssisted: true
@@ -98,9 +98,42 @@ sources:
 
 entity: "Sipadan"
 wikidata: "Q1412482"
-related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
+related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: 'विश्व-स्तरीय गहरी-दीवार गोताख़ोरी चाहने वाले प्रमाणित स्कूबा गोताखोरों के लिए — मलेशिया के एकमात्र महासागरीय द्वीप के किनारे कछुए, बाराकूडा के बवंडर और रीफ़ शार्क।'
+  getThere: 'Tawau Airport तक उड़ान भरें, सड़क मार्ग से प्रवेशद्वार कस्बे Semporna तक जाएँ, फिर द्वीपों और गोता-स्थलों तक नाव से बाहर जाएँ।'
+  permit: 'Sipadan में गोताख़ोरी के लिए एक Sabah Parks परमिट आवश्यक है, और हर दिन जारी की जाने वाली संख्या सख़्ती से सीमित है और केवल लाइसेंसी गोता-ऑपरेटरों के माध्यम से आवंटित होती है — काफ़ी पहले बुक करें।'
+  watch: 'पूर्वी Sabah के द्वीप एक निर्दिष्ट सुरक्षा क्षेत्र (ESSZONE) में स्थित हैं, परमिट कभी निश्चित नहीं होते, और संरक्षण-सीमाएँ (एक वार्षिक बंदी सहित) लागू होती हैं — जानकारी लेकर यात्रा करें और वर्तमान आधिकारिक सलाह जाँचें।'
+  next: 'वर्तमान Sipadan परमिट-सीमा, शुल्क और किसी भी संरक्षण-बंदी को Sabah Parks या अपने लाइसेंसी गोता-ऑपरेटर से पुष्ट करें।'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: 'सबा के सेम्पोरना के पास तुन साकारन समुद्री उद्यान में चमकीली बादल-बिखरी आसमान के नीचे हरे द्वीपों से घिरी एक चटख फ़िरोज़ी भित्ति-लैगून का हवाई दृश्य'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: नीचे से देखा गया, धूप से भरे फ़िरोज़ी पानी में ऊपर से तैरता एक हरा समुद्री कछुआ
+    kind: actual
+    origin: third-party
+    subject: चमकीले फ़िरोज़ी पानी में सरकता एक हरा समुद्री कछुआ, Sipadan के आसपास गोताखोरी के विशिष्ट दृश्यों में से एक
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: Sipadan में गोताखोरी के दौरान नीले पानी से छनती सूर्य-किरणों के साथ एक मूँगे की चट्टान के पास घूमती चाँदी जैसी मछलियों की विशाल झुंड
+    kind: actual
+    origin: third-party
+    subject: Sipadan में एक गोते के दौरान मूँगे के ऊपर चट्टानी मछलियों का घना झुंड और सूर्य-किरणें, दुनिया के शीर्ष गोताखोरी स्थलों में से एक
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 Celebes सागर के तल से सीधे छह सौ मीटर उठता एक अकेला प्रवाल-ढका शिखर, कछुओं और बाराकुडा के बवंडरों से भरा — सिपादान ही वह कारण है जिससे गंभीर गोताख़ोर पूर्वी सबाह को अपनी सूची में रखते हैं, और वह कारण जिससे सेम्पोर्ना के छोटे शहर के इर्द-गिर्द एक पूरी यात्रा अर्थव्यवस्था खड़ी हो गई है। लेकिन यह कोई ऐसी जगह नहीं जहाँ आप बस पहुँचकर गोता लगा सकें। सिपादान एक सख़्ती से संरक्षित समुद्री पार्क है जिसमें एक सीमित दैनिक परमिट है, द्वीप पर ही कोई आवास नहीं, और आस-पास के तट पर एक सुरक्षा-क्षेत्र संदर्भ जिसे पहली बार आने वालों को शांति और तथ्यात्मक रूप से समझने की ज़रूरत है। यह गाइड शामिल करती है कि गोताख़ोरी को विश्व-स्तरीय क्या बनाता है, परमिट और दैनिक सीमा वास्तव में कैसे काम करती है, आप कहाँ ठहरते हैं, सिपादान पास के Tun Sakaran समुद्री पार्क से कैसे भिन्न है, यह क्षेत्र किसके लिए उपयुक्त है, और कब जाएँ।

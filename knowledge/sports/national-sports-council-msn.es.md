@@ -27,7 +27,7 @@ faq:
   - q: "¿Dónde tiene su sede el MSN?"
     a: "En el Complejo Deportivo Nacional (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. También opera complejos de entrenamiento en varios otros estados."
 lang: "es"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,9 +65,35 @@ sources:
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []
-related: []
+related: ["malaysian-sport-governance", "national-sports-policy-podium-programme", "national-sports-venues"]
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'El colorido edificio de la sede de Majlis Sukan Negara Malaysia se alza en Bukit Jalil con su nombre en la pared.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: El edificio del National Sports Institute en Bukit Jalil, con su fachada de cristal mostrando una pancarta de 'Where Legends Are Made', frente a una explanada vacía.
+    kind: representative
+    origin: third-party
+    subject: El edificio del National Sports Institute (ISN) en Bukit Jalil, parte del aparato deportivo nacional de Malasia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: Vista aérea del complejo KL Sports City en Bukit Jalil, que muestra el estadio nacional ovalado, un pabellón cubierto y el centro acuático entre los edificios circundantes bajo una ligera bruma.
+    kind: representative
+    origin: third-party
+    subject: Vista aérea del complejo deportivo nacional KL Sports City en Bukit Jalil
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 Cuando un velocista malasio se alinea en los Juegos Olímpicos o un joven futbolista es captado para una selección nacional, hay un único organismo gubernamental detrás del entrenamiento, el asesoramiento técnico y las instalaciones que los llevaron hasta allí: el **Consejo Nacional del Deporte de Malasia**, conocido en malayo como **Majlis Sukan Negara (MSN)**. Es la agencia estatutaria que convierte la política nacional del deporte en atletas reales.

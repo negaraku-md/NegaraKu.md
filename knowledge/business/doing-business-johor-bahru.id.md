@@ -44,7 +44,7 @@ verificationNeeded:
   - "Struktur tarif RTS Link dan hari pertama layanan penumpang yang dipastikan — MRT Corp menerbitkan target penyelesaian infrastruktur pada akhir 2026 dan mulainya layanan pada Januari 2027, sementara LTA Singapura menyatakannya sebagai layanan menjelang Desember 2026"
 
 lang: "id"
-sourceContentHash: "4905d83a83912c4b"
+sourceContentHash: "bacf2dd5ccb236c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,34 @@ keywords:
   - "JS-SEZ Johor Bahru"
   - "foreign property purchase Johor"
 framework: profile
+hero: '/media/business/doing-business-johor-bahru/hero.webp'
+heroAlt: 'Kaki langit kota Johor Bahru berupa menara perkantoran dan bank dilihat dari seberang Selat Johor, dengan pipa air Causeway membentang di sepanjang tepi perairan'
+heroCredit: 'ペウゲオト / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru_City.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru central business district skyline — office and bank towers (incl. United Overseas Bank) rising beyond the Causeway across the Johor Strait'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-1.webp
+    alt: Pemandangan dari ketinggian Johor-Singapore Causeway yang ramai dengan kendaraan menyeberangi selat, dengan bangunan-bangunan kota Johor Bahru dan papan 'I love Johor' di sisi Malaysia
+    kind: actual
+    origin: third-party
+    subject: Johor-Singapore Causeway yang padat lalu lintas menyeberangi selat di samping kota Johor Bahru, gerbang harian yang menghubungkan JB dengan Singapura
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg
+  - role: scene
+    src: /media/business/doing-business-johor-bahru/body-2.webp
+    alt: Panorama lebar lanskap kota Johor Bahru dengan kelompok menara komersial dan hunian bertingkat tinggi di bawah langit berawan
+    kind: actual
+    origin: third-party
+    subject: Panorama lebar inti kota Johor Bahru — gedung komersial tinggi dan menara hunian tersebar di seluruh kota
+    credit: Paul Ng from Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru_skyline.jpg
 ---
 
 Johor Bahru adalah satu-satunya kota Malaysia yang tingkat upah minimum, rencana

@@ -30,7 +30,7 @@ faq:
     a: "Ngày Malaysia chỉ trở thành ngày nghỉ lễ liên bang trên toàn quốc vài thập niên sau khi liên bang được hình thành. Trước đó, ngày 16 tháng 9 chỉ là ngày nghỉ ở một số vùng lãnh thổ và không được kỷ niệm đồng nhất ở cấp quốc gia, mặc dù nó đã là ngày hình thành liên bang kể từ năm 1963."
 
 lang: "vi"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'Các nhạc công quân đội mặc quân phục diễu hành theo đội hình đi qua khán giả trong lễ diễu hành Ngày Merdeka của Malaysia tại Dataran Merdeka.'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: Những hàng sĩ quan mặc đồng phục diễu hành theo đội hình trong khi mang lá cờ Jalur Gemilang màu đỏ, trắng, xanh dương và vàng cùng các lá cờ khác trong cuộc diễu hành Ngày Merdeka.
+    kind: actual
+    origin: third-party
+    subject: Các đoàn mặc đồng phục diễu hành cùng lá cờ Jalur Gemilang tại lễ kỷ niệm Ngày Merdeka lần thứ 59
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: Đám đông tươi cười ở Kota Kinabalu, Sabah, tự hào giương cao và vẫy lá quốc kỳ Malaysia trong lễ kỷ niệm ngày quốc khánh ngoài trời ở Đông Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Những người tham gia vẫy lá cờ Jalur Gemilang trong lễ hội ngày quốc khánh ở Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 Mỗi năm lịch của Malaysia đều chứa hai ngày dễ bị nhầm lẫn là cùng một điều: 31 tháng 8 và 16 tháng 9. Cả hai đều được kỷ niệm bằng cờ, diễu hành và các bài ca ái quốc. Nhưng hai ngày đánh dấu những sự kiện khác nhau, cách nhau sáu năm, và mô tả hai quốc gia có hình hài khác nhau.

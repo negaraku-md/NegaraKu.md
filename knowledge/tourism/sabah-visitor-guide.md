@@ -90,9 +90,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
 framework: explainer
+visitFacts:
+  bestFor: 'Nature-first travellers after Borneo''s headline experiences — climbing Mount Kinabalu, diving Sipadan''s protected reef, and seeing orangutans and river wildlife around Sandakan.'
+  getThere: 'Fly into Kota Kinabalu International Airport, Sabah''s main air gateway, then take short domestic hops onward to Sandakan, Tawau and the dive region.'
+  permit: 'Sabah controls its own immigration under the Malaysia Agreement 1963, so every arrival — including Malaysians flying in from the Peninsula — clears a checkpoint and receives a visit pass, while the Mount Kinabalu climb and Sipadan diving are each gated by capped Sabah Parks permits.'
+  watch: 'Book the scarce, permit-gated highlights well ahead and plan around Sipadan''s annual November closure for reef recovery, because these pieces sell out and cannot be secured on arrival.'
+  next: 'Confirm current entry and visit-pass and permit rules with the Immigration Department of Malaysia and Sabah Parks before you travel.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'The granite summit of St. John''s Peak on Mount Kinabalu glowing pink at dawn above a sea of clouds'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Close-up of a proboscis monkey with pale golden fur and a long nose against blurred green forest at Labuk Bay, Sabah
+    kind: actual
+    origin: third-party
+    subject: A proboscis monkey, endemic to Borneo, photographed at Labuk Bay in Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: A fiery orange sunset over the sea at Kota Kinabalu, with fishing boats silhouetted and an island on the horizon
+    kind: actual
+    origin: third-party
+    subject: Golden sunset over the Kota Kinabalu waterfront with fishing boats silhouetted on the sea and islands on the horizon
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 You can fly from Kuala Lumpur to Kota Kinabalu without leaving the country and still queue at an immigration counter when you land. That surprise catches many first-time visitors — and it is the single most important thing to understand before you plan a trip to Sabah. This guide walks through the gateway, the headline attractions, and the entry rules that make Sabah feel like its own place, because in one very real sense, it is.

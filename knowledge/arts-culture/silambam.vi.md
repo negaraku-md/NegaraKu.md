@@ -29,7 +29,7 @@ faq:
   - q: "Silambam có được công nhận là một môn thể thao ở Malaysia không?"
     a: "Silambam được tổ chức ở Malaysia vừa như một môn võ vừa như một môn thể thao thi đấu; các giải đấu quốc gia, giải vô địch quốc tế và việc tham dự Đại hội Thể thao Malaysia (SUKMA) vào một số năm đều đã diễn ra. Tuy nhiên, các hiệp hội và vị thế quản lý của môn này có thể thay đổi theo thời gian; hãy kiểm chứng tình hình hiện tại với các nguồn chính thức."
 lang: "vi"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'Trẻ em và một huấn luyện viên mặc áo phông cam Silambam Asia luyện tập các thế đánh gậy với những cây gậy tre dài tại một buổi trình diễn ngoài trời'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: Người phụ nữ trong bộ sari đỏ nhoài người trong một tư thế chiến đấu thấp, một tay cầm một thanh kiếm cong và tay kia cầm một chiếc khiên kim loại tròn
+    kind: representative
+    origin: third-party
+    subject: Thế kiếm-khiên (vaal và kedaiyam) của Silambam, một biến thể vũ khí của môn võ Tamil
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: Một bảng trưng bày gắn tường bày các vũ khí của Silambam, bao gồm những cây gậy dài, kiếm cong, khiên tròn và dao găm
+    kind: representative
+    origin: third-party
+    subject: Bảng trưng bày vũ khí Silambam, gồm gậy, kiếm, khiên và dao găm
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 Tại một lễ hội đền hay một dịp [Tết Tamil](/vi/arts-culture/tamil-new-year) ở Malaysia, bạn có thể thấy một chàng trai xoay cây côn tre dài trên đầu và quanh thân mình với tốc độ nhanh như chớp, theo nhịp trống. Vòng xoay ấy không chỉ để phô diễn — đó là biểu tượng của silambam, một môn võ Tamil đã hơn một nghìn năm trăm năm tuổi.

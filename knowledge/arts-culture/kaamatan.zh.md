@@ -35,7 +35,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -86,6 +86,34 @@ festivalFacts:
   when: "5 月 30 日和 31 日，各县在整个 5 月间陆续庆祝，最后于这两天举行州级的压轴活动。"
   holiday: "沙巴州与纳闽联邦直辖区在 5 月 30 日和 31 日的公共假期；并非全国性的公共假期。"
   etiquette: "应将 Unduk Ngadau 理解为纪念 Huminodun 传说的文化选美盛会，而非一般的选美比赛，并应尊重地将 Bambaazon 信仰与 Huminodun 传说视为该社群自身的传统，而非既定事实。"
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: '沙巴Penampang，卡达山—杜顺族的bobohizan男女祭司身着黑金传统服装，在星光璀璨的舞台上举行丰收节（Kaamatan）仪式'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: 在沙巴本南邦（Penampang）举行的丰收节（Kaamatan）舞台上，身穿黑金两色卡达山－杜顺族（Kadazan-Dusun）传统服装的丰收节小姐（Unduk Ngadau）冠军在六位入围佳丽中戴冠
+    kind: actual
+    origin: third-party
+    subject: 丰收节选美赛上的丰收节小姐（Unduk Ngadau）冠军与入围佳丽
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: 在沙巴的丰收节庆典上，身穿黑色配红银镶边服装的卡达山－杜顺族年轻舞者，和着铜锣表演传统舞蹈
+    kind: actual
+    origin: third-party
+    subject: 卡达山－杜顺族青年和着铜锣表演丰收节舞蹈
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 这个节庆的命名源自一个单一的概念：丰收。*Kaamatan*在卡达山杜顺语中的意思正是如此，而庆典中的一切——仪式、米酒、最后一晚加冕的选美——都是从收割稻米这一个行动中生长出来的。

@@ -31,7 +31,7 @@ faq:
     a: "아니요. 해양공원 경계 내에서 낚시는 금지되며, 방문객은 산호 조각과 조개껍데기를 포함해 해양 생물의 어떤 부분도 — 살아 있든 죽었든 — 채집할 수 없고, 산호를 만지거나 밟거나 그 밖의 방식으로 훼손할 수도 없습니다."
 
 lang: "ko"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: '해변과 산호초를 찾는 여행자에게 적합합니다 — 백패커 해변부터 패키지 리조트까지, 해양공원 섬 여행을 원하는 스노클러와 다이버.'
+  getThere: '각 섬의 본토 선착장에서 보트로 갑니다: 트렝가누에서는 레당행 므랑(Merang), 프렌티안행 쿠알라 브수트(Kuala Besut), 카파스행 마랑(Marang), 파항에서는 티오만행 므르싱(Mersing)이나 탄중 그목(Tanjung Gemok).'
+  permit: '의무 해양공원 보존 요금으로, 보트 요금과 별도로 탑승 전 본토 선착장 터미널 창구에서 납부합니다.'
+  watch: '단일하게 강제된 휴장은 없지만 대부분의 섬 업체가 북동 몬순에 자발적으로 문을 닫으므로, 그 시기가 가까우면 요금을 내기 전에 보트 이동편을 확인하십시오.'
+  next: '현재의 보존 요금과 해양공원 규정은 말레이시아 수산청(Department of Fisheries Malaysia)에 확인하십시오.'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: '페르헨티안 섬의 파란 하늘과 적운 아래, 풍화된 화강암 바위와 외로운 나무, 터키석빛 얕은 물이 있는 텅 빈 백사장'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: 풀라우 르당의 야자수와 청록빛 바다를 끼고 작은 숲 덮인 바위섬으로 완만하게 휘어지는 넓은 백사장
+    kind: actual
+    origin: third-party
+    subject: 앞바다의 바위섬과 청록빛 바다를 품은 풀라우 르당의 긴 백사장, 트렝가누
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: 퍼헨티안 제도에서 소박한 방갈로 지붕과 야자수 너머로 작은 배들과 숲 덮인 곶이 흩어진 눈부신 청록빛 만을 내려다본 풍경
+    kind: actual
+    origin: third-party
+    subject: 스노클링의 인기 거점인 퍼헨티안 제도에서 해변 마을과 배들이 떠 있는 청록빛 만을 내려다본 풍경
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 12월에 르당(Redang) 해변 리조트에 도착하면 보트는 사라지고, 부두는 조용하며, 다이빙숍은 닫혀 있는 광경을 마주할 가능성이 큽니다. 동해안 섬들은 관광 안내책자가 아니라 바다가 쓴 달력에 따라 돌아가며 — 대부분의 초행자가 매표소에서야 비로소 알게 되는 일련의 해양공원 규정에 따라 움직입니다.

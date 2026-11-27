@@ -28,7 +28,7 @@ faq:
     a: "Hiệp hội cư dân là một hội đoàn đăng ký theo Luật Hội đoàn 1966 (Societies Act 1966), không phải cơ quan theo luật định — nó không có quyền tương đương một Ban Quản lý Chung hay Tập đoàn Quản lý để buộc phải trả tiền. Tòa án đã cho phép một hiệp hội cư dân yêu cầu một cư dân không đóng tiền tự vận hành barie dùng chung, nhưng việc từ chối thẳng thừng không cho cư dân vào có nguy cơ trở thành một hành vi gây phiền nhiễu có thể bị kiện."
 
 lang: "vi"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'Một cổng vòm lối vào khu dân cư có cổng được chiếu sáng với dòng chữ ''Arden Hill Precinct 2'' cùng chòi bảo vệ và thanh chắn barie lúc hoàng hôn, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, một khu dân cư cao cấp có cổng kiểm soát bên trong khu đô thị Forest Heights ở Seremban, bố trí các ngôi nhà gắn liền với đất sau một vành đai kiểm soát duy nhất.
+    kind: actual
+    origin: third-party
+    subject: Khu dân cư cao cấp có cổng kiểm soát Arden Hill, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Nhà gắn liền với đất và mảng xanh được chăm chút lấp đầy khu đô thị có cổng và bảo vệ Horizon Hills ở Iskandar Puteri, Johor, một khu dân cư lớn được quản lý an ninh.
+    kind: actual
+    origin: third-party
+    subject: Khu đô thị có cổng kiểm soát Horizon Hills, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 Hai khu nhà ở có thể trông giống hệt nhau — chòi bảo vệ xây gạch, barie sọc, bảo vệ mặc đồng phục kiểm tra sticker của bạn. Một khu đứng trên nền tảng pháp lý vững chắc. Khu kia tồn tại vì chưa có ai thách thức nó.

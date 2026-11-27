@@ -29,7 +29,7 @@ faq:
     a: "Ya. Sunway Healthcare Holdings disenaraikan di Pasaran Utama Bursa Malaysia sebagai SUNMED pada 18 Mac 2026. GIC dari Singapura sebelum ini telah bersetuju, pada Jun 2021, untuk melabur RM750 juta bagi pegangan 16% dalam perniagaan penjagaan kesihatan itu."
 
 lang: "ms"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'Mercu tanda kepala singa batu gergasi dan bumbung berbentuk piramid pusat membeli-belah Sunway Pyramid, dengan menara tinggi bertanda SUNWAY menjulang di belakang di bawah langit mendung'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Pandangan dekat fasad bertemakan Mesir Sunway Pyramid dengan bumbung piramid besar dan patung singa sphinx duduk di sebelah papan tanda masuk 'Shopping Mall / Theme Park'
+    kind: actual
+    origin: third-party
+    subject: Fasad hadapan pusat beli-belah Sunway Pyramid menunjukkan piramid dan sphinx kepala singa, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Pandangan udara bandar Bandar Sunway menunjukkan pusat beli-belah Sunway Pyramid, hotel peranginan, lagun dan kelompok menara kediaman tinggi di Lembah Klang
+    kind: actual
+    origin: third-party
+    subject: Pandangan udara bandar bersepadu Bandar Sunway milik Sunway Group dengan pusat beli-belah piramid, peranginan, lagun dan menara kediaman, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Sunway Group menukar tanah menjadi bandar yang lengkap — kediaman, pusat beli-belah, hospital, universiti dan taman tema dalam satu pelan induk — kemudian terus mengendalikan apa yang dibinanya.

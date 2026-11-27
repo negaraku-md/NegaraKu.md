@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "الموظفون الذين يوازنون بين تغطية رب العمل الطبية والبطاقة الطبية الشخصية، وكل من يحاول فهم معنى «الدفع المشترك» قبل شراء وثيقة أو تجديدها."
 
 lang: "ar"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ faq:
   - q: هل الوثيقة الطبية بـ'دون مشاركة في الدفع (no co-payment)' أفضل تلقائيًا من تلك التي تتضمن مشاركة في الدفع؟
     a: ليس بالضرورة — يذكر المقال هذا بوصفه خطأً شائعًا. فالخطة التي بلا مشاركة في الدفع تحمل قسطًا أعلى مقابل الحدود نفسها من المنافع. وفي ظل المشاركة في الدفع (co-payment)، توافق مسبقًا على تحمّل نسبة محددة من كل فاتورة مستشفى مؤهلة مقابل قسط أقل. وما إذا كانت هذه المقايضة تستحق يعتمد على مقدار ما يمكنك تحمّله بنفسك من الفاتورة؛ راجع ورقة الإفصاح عن المنتج (product disclosure sheet) لمعرفة النسبة المئوية، وأي حد أقصى، والعلاجات المستثناة.
 framework: explainer
+hero: '/media/healthcare/medical-insurance/hero.webp'
+heroAlt: 'بوّابات مدخل جناح للمرضى الداخليين في مستشفى حكومي ماليزي، في بيئة رعاية طبّية محايدة.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: منظر جوّي لمبنى مستشفى خاص كبير وحديث في Seberang Perai بولاية Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre، مستشفى خاص في Seberang Perai بولاية Penang، ماليزيا
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: مكتب استقبال منحنٍ في مستشفى داخل بهو دخول مضيء، يمثّل الإدخال والفوترة، مع وجود عدد قليل من الأشخاص من بعيد
+    kind: representative
+    origin: third-party
+    subject: مكتب استقبال وإدخال في مستشفى ضمن بهو المدخل الرئيسي
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 يدخل موظفان المستشفى الخاص نفسه بالذراع المكسورة نفسها. أحدهما يسلّم بطاقةً ويخرج دون أن يدفع سِناً واحداً عند المغادرة. والأخرى تدفع شريحةً من الفاتورة بنفسها، لأن الوثيقة التي اشترتها قبل ستة أشهر كانت أرخص لهذا السبب تحديداً.

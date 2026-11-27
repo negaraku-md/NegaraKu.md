@@ -37,7 +37,7 @@ faq:
     a: "联合国教科文组织将虎形西拉列为一种流派的实例，它在攻击与自卫的技艺中模仿老虎的美学动作。它是众多以动物或自然元素命名的流派之一。"
 
 lang: "zh"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,34 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
 framework: history-culture
+hero: '/media/arts-culture/silat-melayu/hero.webp'
+heroAlt: '两名马来武术家身着黑色silat服装在垫子上激烈扭斗，一人跪地抓住对方手臂，两人之间举着一把弯曲的keris短剑，暗色背景上写着Silat Performance和Silat Seni Gayong Club'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at_ESEAP_Conference_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: 两名赤脚的马来武术家身穿黑色席拉（silat）服、戴黑色头巾，在灰色铺地上摆出低姿格斗架势对峙，其中一人手持短刃，背景是一面青绿色建筑墙
+    kind: actual
+    origin: third-party
+    subject: 两名穿黑色席拉服的武者在马来西亚席拉加荣（Silat Gayong）练习中摆架对峙
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: 一名身穿黑色席拉服的马来武术家腾身跃起踢出高腿，被蹲低的同伴格挡，两人都赤脚站在灰色铺地上、衬着青绿色墙壁，正处于席拉对练动作之中
+    kind: actual
+    origin: third-party
+    subject: 马来西亚席拉加荣（Silat Gayong）练习中，一名武者向对练伙伴踢出腾空腿
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 一名优秀的西拉武者能够折断对手的骨头——也能在新人面前起舞而不触碰任何人。两者都是西拉。这正是这门艺术最难以理解之处：它不只是一套格斗方法，也不只是一种庆典舞蹈。它两者兼具，存在于同一具身体中，由同样的步法所驱动。

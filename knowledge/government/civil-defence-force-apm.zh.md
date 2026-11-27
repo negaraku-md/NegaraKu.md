@@ -67,7 +67,7 @@ entity: "Malaysia Civil Defence Force (Angkatan Pertahanan Awam Malaysia, APM)"
 relations:
   - rel: part-of
     to: malaysia
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "mers-999-emergency-numbers"]
 keywords: ["APM", "Angkatan Pertahanan Awam Malaysia", "Civil Defence Force", "JPAM", "disaster response Malaysia", "Civil Defence Act 1951", "search and rescue Malaysia", "flood relief Malaysia", "NADMA", "civil defence volunteers"]
 social:
   hashtags: ["APM", "CivilDefence", "DisasterResponse", "Malaysia", "SAR"]

@@ -36,7 +36,7 @@ faq:
     a: "Tutup bahu dan lutut Anda. Kain sarung biasanya tersedia untuk dipinjam atau disewa di pintu masuk jika pakaian Anda terlalu terbuka. Alas kaki yang nyaman membantu untuk tangga panjang naik ke kuil gua utama."
 
 lang: "id"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Pengunjung internasional pertama kali yang menginginkan masa tinggal kota yang singkat dan mudah, serta pelancong yang menggunakan Kuala Lumpur sebagai pangkalan sebelum menuju tempat lain di Malaysia.'
+  getThere: 'Dari Bandara Internasional Kuala Lumpur (KLIA), naik kereta KLIA Ekspres tanpa henti ke hub KL Sentral, lalu sambung selanjutnya dengan MRT, LRT, Monorel, atau Grab.'
+  permit: 'Masuk ke Menara Kembar Petronas menggunakan tiket berjadwal waktu dengan jumlah harian yang dibatasi, jadi pesanlah daring di muka alih-alih mengandalkan datang langsung.'
+  watch: 'Lalu lintas pusat kota padat pada jam sibuk, jadi kereta api biasanya lebih cepat daripada mobil untuk perjalanan melintasi kota.'
+  next: 'Konfirmasikan jam buka dan penjualan tiket terkini untuk Menara Kembar Petronas dengan situs resmi PETRONAS Twin Towers (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'Menara Kembar Petronas yang bercahaya menjulang di atas pusat kota Kuala Lumpur di bawah langit matahari terbenam keemasan'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: Bangunan Sultan Abdul Samad dan hamparan rumput Dataran Merdeka yang dikelilingi pohon palem di pusat Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Abdul Samad dan Dataran Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Deretan lampion merah Tionghoa yang menyala tergantung di atas pasar Petaling Street di Chinatown Kuala Lumpur pada malam hari
+    kind: actual
+    origin: third-party
+    subject: Lampion merah Petaling Street Chinatown pada malam hari
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Mendarat di Bandara Internasional Kuala Lumpur pada waktu subuh dan, dalam waktu sejam, Anda bisa berdiri di bawah dua menara perak yang pernah menguasai langit dunia — tanpa mobil sewa, tanpa perencanaan rumit, hanya sebuah kereta api dan kartu tap. Kemudahan itulah yang menjadi intisari KL: ia adalah pintu depan Malaysia, sebuah ibu kota yang padat dan murah tempat daya tarik utama terletak berdekatan hanya dengan sekali perjalanan rel, dan tempat hampir setiap perjalanan selanjutnya di negara ini dimulai.

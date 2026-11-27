@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["चिकित्सा पर्यटन मलेशिया", "medical tourism Malaysia", "स्वास्थ्य-सेवा यात्रा", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "हृदय चिकित्सा मलेशिया"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'कुआलालंपुर में प्रिंस कोर्ट मेडिकल सेंटर की घुमावदार छत वाली इमारत, जिसके अग्रभाग पर उसका नाम है और सामने एक हरा सड़क चिह्न तथा इमरजेंसी साइनबोर्ड है।'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक इंडोनेशियाई परिवार हृदय बाइपास के लिए पेनांग आता है, खाड़ी का एक दंपति IVF के लिए आता है, और ऑस्ट्रेलिया का एक सेवानिवृत्त व्यक्ति एक पूर्ण-शरीर जाँच बुक करता है जिसकी लागत घर पर तीन गुना अधिक होती। मिलकर ये एक शांत उद्योग का हिस्सा हैं जो एक ही वर्ष में 1.6 मिलियन से अधिक लोगों को मलेशिया लाया — पर्यटन के लिए नहीं, बल्कि स्वस्थ होने के लिए।

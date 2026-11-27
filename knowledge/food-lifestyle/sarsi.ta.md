@@ -43,7 +43,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "ta"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,24 @@ drinkFacts:
   halal: "ஒரு பெரிய உற்பத்தியாளரிடமிருந்து வரும் ஒரு வணிகக் குளிர்பானமாக, Sarsi ஹலால் சான்றிதழைச் சுமக்கிறது; உறுதியான சரிபார்ப்பு பாட்டில் அல்லது டின்னில் அச்சிடப்பட்ட ஹலால் முத்திரையே. அதைப் பேக்கேஜிங்கில் தேடுங்கள்."
   served: "பாட்டில் அல்லது டின்னிலிருந்து குளிர்ச்சியாகப் பரிமாறப்படுகிறது. ஒரு விரும்பப்படும் உள்ளூர் மாறுபாடு 'Sarsi susu' — கருமையான சோடாவை ஒரு கிரீமி ஃப்ளோட் ஆக்க ஆவியாக்கப்பட்ட, செறிவூட்டப்பட்ட அல்லது புதிய பால் ஊற்றப்படுகிறது. இனிப்பும் வாயுவும்; ஒரு குளிர்பான விருந்து, காய்ச்சப்பட்ட கோபிதியாம் பானமல்ல."
   where: "நாடு முழுவதுமுள்ள மளிகைக் கடைகள், பல்பொருள் அங்காடிகள், கோபிதியாம் மற்றும் குடும்பக் கூட்டங்களில் காணப்படுகிறது — குளிர்ச்சியான அலமாரியின் ஒரு நினைவுகூரும் நிலையான பானம்."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'சூரிய ஒளியில், நுரைத்த மேற்பகுதியுடன், இருண்ட நுரைக்கும் sarsaparilla குளிர்பானம் (sarsi) நிறைந்த உயரமான பள்ளம்விழுந்த கண்ணாடிக் கோப்பை'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: அடர் சிவப்பு-பழுப்பு நிற நுரையிடும் சர்சாப்பரில்லா (sarsae) குளிர்பான் நிரம்பிய ஒரு கண்ணாடிக் குவளை
+    kind: actual
+    origin: third-party
+    subject: Asia Sarsae சர்சாப்பரில்லா குளிர்பானக் குவளை
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 மலேசிய மேசையிலுள்ள ஒவ்வொரு பானமும் காய்ச்சப்பட்டதோ, இழுக்கப்பட்டதோ அல்லது பிழியப்பட்டதோ அல்ல.

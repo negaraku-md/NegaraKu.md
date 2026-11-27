@@ -31,7 +31,7 @@ faq:
   - q: "马来西亚的太空产业与其航空航天产业有区别吗？"
     a: "是的。航空航天产业涵盖航空、维护、修理和大修 (MRO) 以及飞机机体结构。太空产业涵盖卫星、发射、太空监管以及卫星通信和遥感等下游服务。"
 lang: zh
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: '一座卫星地面站，配有一面碟形天线、一根八木天线和一个天线罩，用于追踪航天器并与之通信。'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: 身穿浅绿色与白色洁净室连体服、戴着帽子的工程师在一个明亮的洁净室内，围着一个由黄色吊装设备悬吊、安置在带轮平台上的高大白色锥形火箭整流罩工作
+    kind: representative
+    origin: third-party
+    subject: 身穿洁净室服的技术人员在运载火箭上面级组合体上准备封装好的卫星，代表卫星制造与发射准备
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: 平静水面上方的漆黑夜空中划过两道明亮弯曲的光迹，一道从左侧灯火通明的发射台陡然升起，另一道较暗淡的则向右侧降落着陆
+    kind: representative
+    origin: third-party
+    subject: 一次长曝光的夜间火箭发射，呈现出明亮的上升弧线以及助推器返回着陆的第二道弧线，代表发射服务
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 马来西亚自己不发射火箭，却曾把一名宇航员送上太空、建造并运营过微型卫星，并在大多数邻国之前通过了一部为私营太空活动发放许可的法律。它的太空领域规模虽小，却悄然具有战略意义——贯穿于宽带政策、国防、灾害监测和国家声望之中。本指南梳理构成马来西亚太空经济的机构、法律、卫星和雄心。

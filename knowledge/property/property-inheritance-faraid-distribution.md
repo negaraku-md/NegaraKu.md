@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "property-buying-a-home-guide" }
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
-related: []
+related: ["faraid-and-islamic-inheritance", "wills-and-probate-in-malaysia", "real-property-gains-tax"]
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'Sederetan rumah teres yang telah lama di belakang papan tanda kejiranan Taman Idaman di Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: Sebuah rumah Melayu kayu tradisional bertiang dengan bumbung bercerun di kawasan luar bandar
+    kind: representative
+    origin: third-party
+    subject: Rumah kampung Melayu kayu tradisional, jenis rumah keluarga yang lazim diwarisi
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: Sebuah rumah bertanah setingkat yang semakin usang di Temoh, Perak, jenis yang sering diwariskan kepada waris
+    kind: representative
+    origin: third-party
+    subject: Sebuah rumah keluarga bertanah yang lama di Temoh, Perak
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 Apabila seseorang meninggal dunia di Malaysia, siapa yang mewarisi rumahnya bergantung pada satu perkara asas terlebih dahulu: sama ada si mati seorang Islam atau bukan Islam. Dua sistem undang-undang yang berbeza mengawal jawapan itu, dan kedua-duanya berjalan melalui pihak berkuasa yang berlainan sebelum sebarang geran tanah boleh bertukar nama.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "말레이시아 반도와 보르네오(Borneo, 사바와 사라왁)는 남중국해로 나뉘어 서로 다른 종 군집을 품고 있으며, 보르네오가 국가 이탄 습지림과 맹그로브 숲의 대부분을 보유하고 있습니다."
 appliesTo: "전국"
 lang: "ko"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: '무성한 녹색 열대우림 수관이 완만한 언덕을 온통 뒤덮으며 멀리 흐릿한 푸른 능선으로 사라지고, 그 위로 잔뜩 흐린 희뿌연 하늘이 펼쳐져 있다.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: 녹슨 주황색의 어린 보르네오오랑우탄이 나무 사이에 걸쳐진 밧줄에 한 팔로 매달린 채 다른 손으로 줄을 붙잡고 있으며, 배경에는 울창한 초록빛 열대우림 잎들이 펼쳐져 있다.
+    kind: actual
+    origin: third-party
+    subject: 어린 보르네오오랑우탄(Pongo pygmaeus), 보르네오 열대우림에서만 발견되는 대형 유인원
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: 완전히 피어난 라플레시아 꽃이 낙엽이 깔린 숲 바닥에 놓여 있다. 두꺼운 다섯 개의 적갈색 꽃잎은 옅은 사마귀 같은 반점으로 덮여 있으며, 가운데의 깊고 열린 잔 모양 부분을 둘러싸고 있다.
+    kind: actual
+    origin: third-party
+    subject: 사바주의 숲 바닥에 활짝 핀 라플레시아, 세계에서 가장 큰 꽃 중 하나이자 보르네오 열대우림의 기생식물
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # 말레이시아가 세계에서 손꼽히는 초다양성 국가인 이유

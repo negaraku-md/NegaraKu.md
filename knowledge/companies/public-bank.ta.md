@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "LPI Capital Bhd-இல் 44.15% பங்கு — தற்போதைய பங்குவைப்பு மற்றும் ஏதேனும் நிறைவு விவரங்களை உறுதிப்படுத்தவும்."
   - "தலைமை: Tay Ah Lek நிர்வாக இயக்குநர் மற்றும் CEO ஆக, மற்றும் தற்போதைய தலைவர் — தற்போதைய வாரியப் பதவிகளை உறுதிப்படுத்தவும்."
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: 'அந்தி வானத்திற்கு எதிரே இளஞ்சூடான தங்க நிறத்தில் ஒளிரும் படிநிலை Menara Public Bank கோபுரம்; உச்சியில் சிவப்பு-மஞ்சள் Public Bank சின்னமும், நுழைவாயிலுக்கு மேல் ஒளிரும் PUBLIC BANK சொற்குறியும்'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: நீல வானத்திற்கு எதிராக ஒல்லியான வெள்ளை நிற Public Bank கோபுரம்; அதன் உச்சிக்கு அருகில் சிவப்பு நிற எண்கோண Public Bank சின்னமும், தரைத்தள கிளை நுழைவாயிலுக்கு மேலே சிவப்பு நிற PUBLIC BANK பலகையும்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் மாநிலம் ஜொகூர் பாருவில் உள்ள Public Bank Tower
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: வெளிறிய வானத்தின் கீழ் பழுப்பு நிற கல்-மூடிய, படிநிலை Menara Public Bank கோபுரம்; அதன் பிரமிட் உச்சிமுடிக்கு அருகில் ஒரு பலகையில் சிவப்பு நிற எண்கோண Public Bank சின்னம் காட்டப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் Jalan Ampang-இல் உள்ள 170 மீ கல்-மூடிய தலைமையக கோபுரமான Menara Public Bank
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 Public Bank, Tan Sri Teh Hong Piow-உடன் எவ்வளவு நெருக்கமாகப் பிணைக்கப்பட்டுள்ளதோ அவ்வளவு ஒரே நிறுவனருடன் பிணைக்கப்பட்ட மலேசிய நிறுவனங்கள் மிகச் சில. 1966-இல் மத்திய Kuala Lumpur-இல் ஒரே கிளையுடன் தொடங்கி, அவர் நாட்டின் மிகப்பெரிய வங்கிக் குழுமங்களில் ஒன்றாக வளர்ந்த ஒரு கடன்தரரைக் கட்டினார் — அளவுக்காக அல்ல, மாறாகக் கவனத்திற்காக, தசாப்தத்திற்குப் பின் தசாப்தமாக வங்கித் துறையின் மிகக் குறைந்த மோசமான கடன் விகிதங்களைப் பதிவு செய்ததற்காகப் பிரபலமானவர்.

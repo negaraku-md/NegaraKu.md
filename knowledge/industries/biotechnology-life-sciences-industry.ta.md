@@ -31,7 +31,7 @@ faq:
   - q: உயிரித்தொழில்நுட்பம் மலேசியப் பொருளாதாரத்தின் ஒரு பெரிய பகுதியா?
     a: இது ஒரு ஆதிக்கம் செலுத்தும் துறையை விட ஒரு மூலோபாய ஆனால் இன்னும் வளர்ந்துவரும் துறை. உயிரிப்பொருளாதாரக் கழகம் அதன் முதல் இரண்டு தசாப்தங்களில் GDP க்கு சுமார் RM39.9 பில்லியன் ஒட்டுமொத்தப் பங்களிப்பை அறிக்கையிட்டுள்ளது. உயிரித்தொழில்நுட்பம் அதன் தற்போதைய வெளியீட்டுப் பங்கை விட அதன் எதிர்கால சாத்தியத்திற்காக — உணவுப் பாதுகாப்பு, சுகாதாரம் மற்றும் உயிரிப்பொருளாதாரத்தில் — அதிகம் முக்கியம்.
 lang: ta
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'பாதுகாப்பு அங்கி, கையுறைகள் மற்றும் முக கவசம் அணிந்த ஒரு விஞ்ஞானி ஆய்வக உயிர்பாதுகாப்பு அலமாரிக்குள் பைப்பெட்டைப் பயன்படுத்தி மாதிரிகளை குப்பிகளுக்கு மாற்றுகிறார்.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: திரெங்கானு மலேசியா பல்கலைக்கழகத்தின் தாவர திசுவளர்ப்பு ஆய்வகத்தில் கட்டுப்படுத்தப்பட்ட விளக்கொளியின் கீழ் மலட்டு வளர்ப்புக் கலன்களின் அடுக்குகள்.
+    kind: actual
+    origin: third-party
+    subject: திரெங்கானு மலேசியா பல்கலைக்கழகத்தில் தாவர திசுவளர்ப்பு ஆய்வகம்
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: குழாய்களும் கட்டுப்பாட்டு கருவிகளும் கொண்ட துருப்பிடிக்காத எஃகு மற்றும் கண்ணாடி பயோரியாக்டர் ஆய்வகத்தில் உயிருள்ள செல் வளர்ப்பை இயக்குகிறது.
+    kind: representative
+    origin: third-party
+    subject: செல் வளர்ப்பை இயக்கும் ஆய்வக உயிர்வினையாக்கி (பயோரியாக்டர்)
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 மலேசியாவுக்கு ஒரு பாஸ்டன் அல்லது ஷாங்காயின் ஆழமான ஆராய்ச்சிப் பல்கலைக்கழகங்கள் அல்லது துணிகர-மூலதன ஆழம் இல்லை, ஆனால் உயிரித்தொழில்நுட்பத்தை ஒரு தர்க்கரீதியான நீண்ட-கால பந்தயமாக ஆக்கும் மூன்று விஷயங்கள் அதற்கு உள்ளன: உலகின் மிக பணக்கார வெப்பமண்டல பல்லுயிர் களஞ்சியங்களில் ஒன்று, பனை-எண்ணெய் மற்றும் வேளாண் உயிரி நிறையின் ஒரு மகத்தான ஓடை, மற்றும் ஹலால் சான்றிதழில் உலகளவில் அங்கீகரிக்கப்பட்ட அதிகாரம். இரண்டு தசாப்தங்களுக்கும் மேலாக அரசாங்கம் அந்த வரங்களை ஒரு நவீன வாழ்க்கை அறிவியல் தொழிலாக மாற்ற முயன்று வருகிறது. இந்த வழிகாட்டி அந்த முயற்சி எவ்வாறு ஒழுங்கமைக்கப்பட்டுள்ளது, அது எதைக் கட்டியுள்ளது, மற்றும் எங்கே செல்கிறது என்பதை விளக்குகிறது.

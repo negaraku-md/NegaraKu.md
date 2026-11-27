@@ -343,7 +343,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
       (!state.cat || r.catId === state.cat) &&
       (!state.top || r.topId === state.top) &&
       (!state.st || r.st === state.st) &&
-      XK.every((k) => !state.x[k] || String(r[k]) === state.x[k]),
+      XK.every((k) => !state.x[k] || String(r[k]) === state.x[k] || String(r[k] ?? '').split(' ').includes(state.x[k])),
     );
   }
 
@@ -405,6 +405,7 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
           <div class="rc-top">${tagsHtml(r)}${guestHtml(r)}${statusHtml(r)}</div>
           ${rank}
           <a class="rc-title" href="${href(r.p)}">${esc(r.t)}</a>
+          ${r.msince ? `<span class="rc-since">${esc(r.msince)}</span>` : ''}
           ${r.sum ? `<p class="rc-sum">${esc(r.sum)}</p>` : ''}
           ${metaHtml(r)}
         </div>
@@ -672,6 +673,8 @@ const presentStatuses = LIFECYCLE.filter((s) => statusCounts[s]);
   .acards.grid :global(.rc-thumb) { flex: none; width: 100%; aspect-ratio: 16 / 9; border-radius: 0; border: none; }
   .acards.grid :global(.rc-body) { padding: 0.8rem 1rem 1rem; gap: 0.4rem; }
   .acards.grid :global(.rc-title) { font-size: 1.02rem; }
+  /* MICHELIN edition tenure line under the title ("Since 2024" / "New this edition"). */
+  .acards :global(.rc-since) { display: inline-block; margin-block-start: 0.1rem; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.02em; color: #c99a2e; opacity: 0.9; }
   /* Distinction badge over the image (MICHELIN etc.) — only when a row has `badge`. */
   .acards :global(.rc-badge) { position: absolute; inset-block-start: 0.5rem; inset-inline-start: 0.5rem; z-index: 1; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.01em; padding: 0.22rem 0.5rem; border-radius: 6px; background: rgba(8, 8, 12, 0.82); color: #ffd24a; border: 1px solid rgba(255, 255, 255, 0.14); backdrop-filter: blur(3px); }
 

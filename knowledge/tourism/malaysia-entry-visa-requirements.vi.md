@@ -95,9 +95,16 @@ wikidata: "Q5260346"
 relations:
   - { rel: "administered-by", to: "immigration-department-of-malaysia" }
   - { rel: "related-to", to: "malaysia-mm2h-program" }
-related: []
+related: ["immigration-department-jim", "immigration-overstay-and-blacklist", "getting-around-malaysia-for-tourists"]
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: 'Sảnh nội khu sáng sủa của nhà ga chính Sân bay Quốc tế Kuala Lumpur, với trần gỗ cong, các cửa hàng miễn thuế và du khách đi lại mang theo hành lý.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bạn đã đặt vé máy bay, gói hành lý, và chỉ tại cổng bay câu hỏi mới ập đến: Malaysia có muốn gì từ bạn trước khi bạn đến không? Đối với hầu hết du khách sự bất ngờ cắt cả hai chiều — bạn có lẽ không cần một visa, nhưng bạn gần như chắc chắn cần nộp một biểu mẫu trực tuyến nhỏ gọi là MDAC, và nhầm lẫn hai điều đó là cách nhanh nhất dẫn đến một sảnh nhập cảnh căng thẳng.

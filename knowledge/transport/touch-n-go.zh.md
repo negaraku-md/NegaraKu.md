@@ -67,8 +67,34 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Gombak 收费站上方的车道标志写着“Touch ''n GO”、“MyRFID”和“SmartTAG”，标示无现金收费亭，路面漆有“RFID”字样。'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: 一个 Touch 'n Go RFID 挡风玻璃贴标在收费车道被读取，车道设有栏杆，收费亭上方架设着 RFID 读取器龙门架。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪鹅唛收费广场一条 MyRFID 收费车道上读取 Touch 'n Go RFID 贴标
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: 一排位于铁路车站入口的自动闸机，每道闸门上设有读卡器，后方可见购物商场大堂。
+    kind: representative
+    origin: third-party
+    subject: KLCC LRT 车站的闸机，供 Touch 'n Go 等交通卡刷卡
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 许多人的钱包里放着一张 Touch 'n Go 卡，手机里又装着 Touch 'n Go eWallet 应用程式，于是以为两者其实是同一样东西的两个面貌。并非如此。你卡里的余额与应用程式里的余额完全分开储存——把其中一个充满，也不会给另一个多加一分钱。这种误解，正是不少车辆卡在过路费闸口的常见原因：司机确信「手机里的钱够用」，但过路费机器实际读取的却是那张卡。

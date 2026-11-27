@@ -110,9 +110,35 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'Bangunan stesen keretapi Ipoh era kolonial yang putih dan berkubah dengan deretan tiang berlengkung di bawah langit cerah.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: Rumah agam dan menara batu-bata merah Kellie's Castle yang belum siap berdiri di tengah-tengah kehijauan berhampiran Batu Gajah di Perak.
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Batu Gajah, Perak
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: Stalaktit dan formasi batu kapur yang disinari cahaya memenuhi dewan batu kapur yang luas di Gua Tempurung berhampiran Gopeng di Perak.
+    kind: actual
+    origin: third-party
+    subject: Gua batu kapur Gua Tempurung, Gopeng, Perak
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 Pada 20 Januari 1874, sehelai perjanjian ditandatangani di perairan berhampiran

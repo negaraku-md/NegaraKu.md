@@ -19,7 +19,7 @@ keyTakeaways:
   - "Quyền làm luật được chia giữa liên bang và các bang bởi các Danh mục Liên bang, Bang và Đồng thời của Phụ lục thứ Chín"
 appliesTo: "Bất kỳ ai mới đến Malaysia muốn hiểu đây là loại quốc gia gì về mặt hiến định, trước khi đi sâu vào bất kỳ định chế đơn lẻ nào."
 lang: "vi"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -56,6 +56,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'Bản đồ chính trị của Malaysia thể hiện Bán đảo Malaysia ở phía tây cùng Sabah và Sarawak trên đảo Borneo ở phía đông, có ghi tên các thành phố lớn.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: Một cổng chào kiểu Trung Hoa màu đỏ và vàng, phía trên trang trí rồng vàng, mang tấm biển xanh ghi JALAN PETALING / PETALING STREET phía trên một băng rôn chào mừng đa ngôn ngữ, ở khu Chinatown của Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Cổng trang trí Petaling Street ở khu Chinatown Kuala Lumpur
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: Một bức tượng vàng khổng lồ của Lord Murugan đứng cạnh một dãy bậc thang dốc rực rỡ sắc màu leo lên vách núi đá vôi phủ rừng khi du khách bước lên.
+    kind: actual
+    origin: third-party
+    subject: Tượng Lord Murugan vàng và cầu thang cầu vồng ở Batu Caves, Selangor
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 Malaysia không phải một nơi với một chính quyền. Nó là một liên bang — một quốc gia duy nhất được ghép lại từ mười ba bang và ba lãnh thổ liên bang, nằm trên hai khối đất bị ngăn cách bởi vài trăm ki-lô-mét Biển Đông. Hiểu cấu trúc đó trước tiên khiến gần như mọi thứ khác về đất nước này dễ theo dõi hơn.

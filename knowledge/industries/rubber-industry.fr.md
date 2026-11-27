@@ -34,7 +34,7 @@ faq:
     a: "La Chine est de loin la première destination, absorbant environ 49% des exportations de caoutchouc naturel en décembre 2024, suivie de l'Allemagne (12.9%), des Émirats arabes unis (7.3%), des États-Unis et du Portugal."
 
 lang: "fr"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'Un hévéa avec une entaille de saignée diagonale fraîche, du latex blanc coulant le long du tronc dans une tasse noire fixée à sa base'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: Des rangées ordonnées de minces hévéas aux troncs pâles et marbrés s'éloignant au loin à travers le sol herbeux d'une plantation, avec de petites tasses à latex foncées fixées bas sur plusieurs troncs.
+    kind: actual
+    origin: third-party
+    subject: Des rangées soignées d'hévéas matures équipés de tasses de collecte du latex dans une plantation du Johor, un pilier de l'industrie du caoutchouc de la Malaisie
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: Un homme en chemise grise guide une feuille blanche de latex pressé entre les lourds rouleaux d'une laminoir en fonte jaune, en lisière d'une plantation d'hévéas, un second rouleau cannelé à côté de lui.
+    kind: representative
+    origin: third-party
+    subject: Un travailleur faisant passer une feuille de latex coagulé dans une essoreuse à feuilles de caoutchouc à manivelle, une étape clé de la transformation du caoutchouc naturel
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 Le caoutchouc qui a bâti la Malaya coloniale ne gagne plus sa vie dans la plantation — il la gagne sur le plancher de l'usine. La Malaisie saigne encore les arbres, mais sa fortune du caoutchouc repose désormais sur les gants médicaux, les pneus et les produits en latex qu'elle fabrique, une activité qui transforme plus de caoutchouc que le pays lui-même n'en cultive.

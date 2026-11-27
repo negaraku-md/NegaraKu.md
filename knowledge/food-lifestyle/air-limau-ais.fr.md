@@ -83,7 +83,14 @@ drinkFacts:
   origin: "Un rafraîchissement au citron vert frais, incontournable des comptoirs mamak et kopitiam de Malaisie, bâti sur les citrons verts locaux (calamansi/limau kasturi, limau nipis) plutôt que sur un inventeur unique. La version limau asam boi ajoute de la prune aigre séchée pour une profondeur sucrée-salée-acide."
   halal: "Du citron vert, du sucre et de l'eau, sans alcool, de sorte que la boisson elle-même est halal. La garantie halal porte sur l'établissement, de sorte que les convives ayant besoin d'une certification devraient se renseigner auprès de chaque stand."
   served: "Servi froid sur glace, pressé frais ; demandez « kurang manis » pour moins sucré. Commandez-le nature, ou en limau asam boi avec de la prune aigre séchée et une pincée de sel. À distinguer du teh O ais limau, qui est un thé glacé au citron vert."
-  where: "On le trouve dans les enseignes mamak, les kopitiam et les étals de boissons de hawker à travers le pays — l'un des rafraîchissements du quotidien les plus commandés."
+  where: "On le trouve dans les enseignes mamak, les kopitiam et les étals de boissons de hawker à travers le pays — l'un des rafraîchissements du quotidien les plus commandés."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un gobelet de jus de citron vert glacé (air limau ais) avec un quartier de citron vert frais, vu de dessus"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 Demandez une boisson fraîche dans presque n'importe quel mamak de Malaisie et une

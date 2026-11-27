@@ -36,7 +36,7 @@ faq:
     a: "Kementerian Ekonomi menerajui pelan itu ketika pelancaran, dengan Kementerian Sains, Teknologi dan Inovasi (MOSTI) dan Kementerian Digital terlibat. Agensi pelaksana yang dinamakan sekitar sidang kemuncak itu termasuk Cradle Fund untuk sokongan startup dan tingkap tunggal, MRANTI untuk Innovation Belt, dan Khazanah Nasional untuk dana dana kebangsaan."
 
 lang: "ms"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,35 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: Menara Exchange 106 dan daerah kewangan Tun Razak Exchange di Kuala Lumpur, dilihat dari Menara KL
+    kind: representative
+    origin: third-party
+    subject: Menara Exchange 106 dan daerah kewangan Tun Razak Exchange (TRX) di Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: Panorama bandar Kuala Lumpur dengan Menara KL dan bangunan pejabat pencakar langit di bawah langit biru
+    kind: representative
+    origin: third-party
+    subject: Panorama bandar Kuala Lumpur dengan Menara KL dan bangunan pejabat pencakar langit yang berkelompok
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'Menara Berkembar Petronas menjulang di tengah-tengah kaki langit pusat bandar Kuala Lumpur yang jelas, dengan pusat beli-belah dan taman KLCC di bawah serta menara pencakar langit di sekelilingnya di bawah langit cerah.'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 Pada April 2024, Malaysia berhenti bercakap tentang startupnya dalam bahasa harapan dan mula bercakap dalam bahasa kedudukan. Pitchnya terus terang: bawa Kuala Lumpur ke dalam 20 ekosistem startup teratas dunia menjelang 2030, atau mengaku negara telah hanya meluncur tanpa usaha.

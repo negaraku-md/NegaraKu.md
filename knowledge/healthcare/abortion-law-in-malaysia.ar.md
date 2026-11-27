@@ -31,7 +31,7 @@ faq:
     a: "تعرّف إرشادات وزارة الصحة لسنة 2012 إنهاءَ الحمل بأنه إجراء يتم عند عمر حمل دون 22 أسبوعًا، أو — حيث يكون العمر مجهولًا — حيث يُقدَّر وزن الجنين بأقل من 500 غرام."
 
 lang: "ar"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ entity: "Seksyen 312 Kanun Keseksaan (Akta 574)"
 relations:
   - { rel: "governs", to: "abortion-law-in-malaysia" }
   - { rel: "related-to", to: "medical-act-1971" }
-related: []
+related: ["public-healthcare-system-malaysia", "hiv-aids-and-sexual-health-services", "ministry-of-health-moh"]
 keywords: ["pengguguran", "قانون الإجهاض في ماليزيا", "القسم 312 من قانون العقوبات", "Seksyen 312 Kanun Keseksaan", "إنهاء الحمل", "Akta Perubatan 1971", "Medical Act 1971", "إرشادات وزارة الصحة KKM"]
 framework: explainer
+hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'
+heroAlt: 'واجهة عيادة كلينيك كيسيهاتان نيلاي، وهي عيادة صحية حكومية ماليزية تحمل لافتة وزارة الصحة والهلال الأحمر.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: مبنى عيادة صحية حكومية من طابق واحد بمدخل مظلّل، يُستخدم هنا كتوضيح محايد للعيادات العامة التي تُقدَّم فيها خدمات رعاية الصحة الإنجابية والاستشارات
+    kind: representative
+    origin: third-party
+    subject: المظهر الخارجي لعيادة صحية حكومية ماليزية (Klinik Kesihatan) في Lekir بولاية Perak
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: لافتة على جانب الطريق تدلّ على عيادة صحية عامة حكومية ماليزية في أحد الأقاليم، تمثّل بشكل محايد منظومة الصحة العامة دون تسمية أي منشأة تقدّم خدمة بعينها
+    kind: representative
+    origin: third-party
+    subject: لافتة عيادة صحية حكومية إقليمية (Klinik Kesihatan Daerah Raub) في ولاية Pahang
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 يفترض كثيرون أن الإجهاض محظور كليًّا في ماليزيا — والواقع أن القانون يضعه في حيّز أكثر تعقيدًا: جريمة جنائية مع استثناء طبي واحد مهم. وفهم موضع هذا الخط يقتضي أن نقرأ النص الفعلي لقانون العقوبات، لا الانطباعات العامة.

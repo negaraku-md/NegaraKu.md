@@ -35,7 +35,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,34 @@ sources:
 entity: "푸트라자야(Putrajaya, 말레이시아 연방 행정 수도)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: '극적인 구름 아래 푸트라자야 호수에 비친, 첨탑과 퍼르다나 푸트라 정부 단지 옆에 선 분홍 돔의 푸트라 모스크'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: 푸트라자야의 호수를 가로지르는 돛 모양의 사장교 스리 와와산 다리
+    kind: actual
+    origin: third-party
+    subject: 스리 와와산 다리, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: 푸트라자야의 흐린 하늘을 배경으로 한 푸트라 모스크의 정교한 무늬가 새겨진 장밋빛 분홍 돔 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 푸트라 모스크의 장밋빛 분홍 돔, 푸트라자야
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
+wikidata: "Q182378"
 ---
 
 푸트라자야(Putrajaya)는 방문할 보람이 있는 곳이지만, 계획을 잘못 세우면 그만큼 벌을 줍니다. 말레이시아가 목적을 가지고 조성한 연방 행정 수도는 **넓은 대로와 기념비적 건물, 의전용 광장, 다리, 그리고 큰 인공 호수**로 이루어진 도시 — 아름답지만, 자동차를 위해 지어진 도시입니다. 명소들은 번호가 매겨진 구역에 흩어져 있어 종종 1킬로미터 이상 떨어져 있고, 그 사이에는 그늘이 거의 없습니다. 모스크에서 정원으로, 다시 상점가로 걸어서 돌아다닐 생각으로 도착하면, 더운 하루 내내 길고 노출된 거리를 걷게 됩니다. 더 느긋한 계획을 가지고 도착하면, 푸트라자야는 쿠알라룸푸르 근처에서 가장 수월하게 차분한 하루를 보낼 수 있는 곳이 됩니다.

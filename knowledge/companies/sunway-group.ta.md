@@ -29,7 +29,7 @@ faq:
     a: "ஆம். Sunway Healthcare Holdings 2026 மார்ச் 18 அன்று Bursa Malaysia இன் Main Market இல் SUNMED என பட்டியலிடப்பட்டது. சிங்கப்பூரின் GIC முன்னதாக, 2021 ஜூன் இல், அந்தச் சுகாதார வணிகத்தில் 16% பங்குக்காக RM750 மில்லியன் முதலீடு செய்ய ஒப்புக்கொண்டிருந்தது."
 
 lang: "ta"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'Sunway Pyramid வணிக வளாகத்தின் மாபெரும் கல் சிங்க-தலை அடையாளமும் பிரமிடு வடிவ கூரையும்; மேகமூட்ட வானத்திற்குக் கீழே பின்னால் SUNWAY எனக் குறிக்கப்பட்ட வானுயர் கோபுரங்கள்'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Sunway Pyramid-இன் எகிப்திய-கருப்பொருள் முகப்பின் அருகிலான காட்சி; பெரிய பிரமிட் கூரை மற்றும் 'Shopping Mall / Theme Park' நுழைவு பலகைக்கு அருகில் அமர்ந்திருக்கும் சிங்க ஸ்பிங்க்ஸுடன்
+    kind: actual
+    origin: third-party
+    subject: Bandar Sunway-இல் பிரமிட் மற்றும் சிங்க-தலை ஸ்பிங்க்ஸைக் காட்டும் Sunway Pyramid கடைவளாகத்தின் முன் முகப்பு
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: கிள்ளான் பள்ளத்தாக்கில் Sunway Pyramid கடைவளாகம், ரிசார்ட் ஹோட்டல், ஏரி மற்றும் கொத்தாக அமைந்த குடியிருப்பு உயர்-கோபுரங்களைக் காட்டும் Bandar Sunway குடியிருப்பின் வான்வழிக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூரில் பிரமிட் கடைவளாகம், ரிசார்ட், ஏரி மற்றும் குடியிருப்பு கோபுரங்களுடன் கூடிய Sunway Group-இன் ஒருங்கிணைந்த Bandar Sunway குடியிருப்பின் வான்வழிக் காட்சி
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Sunway Group நிலத்தை முழுமையான நகரங்களாக மாற்றுகிறது — ஒரே தலைமைத் திட்டத்தில் வீடுகள், வணிக வளாகங்கள், மருத்துவமனைகள், பல்கலைக்கழகங்கள் மற்றும் கருப்பொருள் பூங்காக்கள் — பின்னர் தான் கட்டியதைத் தொடர்ந்து இயக்குகிறது.

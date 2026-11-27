@@ -38,7 +38,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 
 status: "published"
 aiAssisted: true
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: 'குறுகிய, எளிதான நகரத் தங்கல் விரும்பும் முதல் முறை சர்வதேசப் பயணிகள், மேலும் மலேசியாவின் மற்ற இடங்களுக்குச் செல்வதற்கு முன்பு கோலாலம்பூரை ஒரு தளமாகப் பயன்படுத்தும் பயணிகளுக்கு ஏற்றது.'
+  getThere: 'Kuala Lumpur International Airport (KLIA) இலிருந்து, KLIA Ekspres ரயிலில் நிறுத்தமின்றி KL Sentral மையத்திற்குச் செல்லுங்கள், பின்னர் MRT, LRT, மோனோரெயில் (Monorail) அல்லது Grab மூலம் தொடர்ந்து செல்லுங்கள்.'
+  permit: 'Petronas Twin Towers நுழைவு தினசரி எண்ணிக்கை வரம்பிடப்பட்ட நேரம்-நிர்ணயிக்கப்பட்ட டிக்கெட்டுகளைப் பயன்படுத்துகிறது, எனவே நடந்து வருவதை நம்பாமல் முன்கூட்டியே இணையத்தில் முன்பதிவு செய்யுங்கள்.'
+  watch: 'நகர மைய போக்குவரத்து உச்ச நேரங்களில் அதிகமாக இருக்கிறது, எனவே நகர் முழுவதும் பயணங்களுக்கு ரயில்கள் பொதுவாக காரை விட வேகமானவை.'
+  next: 'Petronas Twin Towers-க்கான தற்போதைய திறக்கும் நேரங்களையும் டிக்கெட் விவரங்களையும் அதிகாரப்பூர்வ PETRONAS Twin Towers தளத்துடன் (petronastwintowers.com.my) உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'பொன் சூரிய அஸ்தமன வானத்திற்குக் கீழே, Kuala Lumpur நகர மையத்திற்கு மேல் உயரும் ஒளிரும் Petronas Twin Towers'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: மத்திய கோலாலம்பூரில் Sultan Abdul Samad கட்டிடம் மற்றும் பனைமரம் சூழ்ந்த Merdeka Square புல்வெளி
+    kind: actual
+    origin: third-party
+    subject: Sultan Abdul Samad கட்டிடம் மற்றும் Merdeka Square
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: இரவில் கோலாலம்பூரின் சைனாடவுனில் Petaling Street அங்காடிக்கு மேலாகக் கட்டப்பட்ட ஒளிரும் சிவப்பு சீன விளக்குகளின் வரிசைகள்
+    kind: actual
+    origin: third-party
+    subject: இரவில் Petaling Street சைனாடவுன் சிவப்பு விளக்குகள்
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 விடியற்காலையில் Kuala Lumpur International Airport-இல் இறங்கினால், ஒரு மணி நேரத்திற்குள், உலகின் வான்கோட்டை ஒருகாலத்தில் ஆண்ட இரண்டு வெள்ளிக் கோபுரங்களின் அடியில் நீங்கள் நிற்க முடியும் — வாடகைக் கார் இல்லை, சிக்கலான திட்டமிடல் இல்லை, வெறும் ஒரு ரயிலும் ஒரு தட்டி-நுழையும் அட்டையும் மட்டுமே. அந்த எளிமையே கோலாலம்பூரின் முழு நோக்கமும் ஆகும்: இது மலேசியாவின் முகப்பு வாயில், முதன்மைக் காட்சிகள் ஒரு குறுகிய ரயில் பயணத்தில் அமர்ந்திருக்கும் ஒரு நெருக்கமான, மலிவான தலைநகரம், மேலும் நாட்டின் கிட்டத்தட்ட ஒவ்வொரு தொடர் பயணமும் தொடங்கும் இடம்.

@@ -21,7 +21,7 @@ verificationNeeded:
   - "This article does not state the full list of 50 critical illnesses covered under mySalam, because the detailed list could not be verified directly on the official mysalam.com.my website at the time of writing; please check the official mySalam portal for the complete list."
   - "The validity period of the mySalam and PeKa B40 schemes is subject to annual Budget decisions; the figures and conditions in this article were verified against official websites at the time of writing (July 2026) and may be updated in a future Budget."
 lang: "hi"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "B40 स्वास्थ्य योजना", "mySalam", "Sumbangan Tunai Rahmah स्वास्थ्य", "B40 स्वास्थ्य सहायता मलेशिया", "ProtectHealth", "स्वास्थ्य देखभाल योजना", "B40 कैंसर उपचार प्रोत्साहन", "PeKa B40 पात्रता जाँच", "B40 health scheme"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'एक बाहरी प्रतीक्षा क्षेत्र वाला एक आधुनिक मलेशियाई सरकारी स्वास्थ्य क्लिनिक, उस प्रकार का क्लिनिक केसिहातान जहाँ B40 स्वास्थ्य-योजना जाँच प्रदान की जाती है।'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: Klinik Kesihatan Nilai का बाहरी भाग, एक मलेशियाई स्वास्थ्य मंत्रालय का सार्वजनिक स्वास्थ्य क्लिनिक जो समुदाय की सेवा करता है
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai, एक मलेशियाई सरकारी स्वास्थ्य क्लिनिक
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: Kuala Lumpur में Klinik Kesihatan Tanglin का अग्रभाग, एक मलेशियाई सार्वजनिक सरकारी स्वास्थ्य क्लिनिक
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin, Kuala Lumpur में एक सरकारी स्वास्थ्य क्लिनिक
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 बहुत से लोगों ने "PeKa B40" नाम सुना है, लेकिन इसके बारे में धारणाएँ बहुत भिन्न हैं — कुछ सोचते हैं कि यह सभी अस्पताल खर्चों को कवर करता है, कुछ इसे mySalam से भ्रमित करते हैं, और कुछ इसे पूरी तरह नज़रअंदाज़ कर देते हैं क्योंकि उन्हें लगता है कि एक अलग आवेदन की ज़रूरत है। ये तीनों धारणाएँ गलत हैं। PeKa B40 का एक स्पष्ट और सीमित दायरा है — और उस दायरे को जानने का अर्थ है यह जानना कि इसका उपयोग कब करें, और कब अन्य सहायता की तलाश करें।

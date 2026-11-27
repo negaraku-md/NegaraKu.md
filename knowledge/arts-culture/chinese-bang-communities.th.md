@@ -33,7 +33,7 @@ faq:
     a: "เส้นแบ่งระหว่างบังจางลงอย่างชัดเจน ด้วยการแต่งงานข้ามบัง การขยายตัวของเมือง และภาษาจีนกลางที่กลายเป็นภาษากลางข้ามภาษาถิ่นผ่านการศึกษาภาษาจีน สำนึกเรื่องถิ่นกำเนิดของคนรุ่นใหม่ส่วนใหญ่อ่อนกว่ารุ่นปู่ย่าตายาย แต่บังมิได้หายไปทั้งหมด: สมาคมตระกูล สมาคมคนบ้านเกิด ศาลบรรพชน และสุสานทั่วประเทศยังดำเนินการอยู่ หลายคนยังรู้ถิ่นกำเนิดของตน และอิทธิพลของมันยังเห็นได้ในโอกาสอย่างเช็งเม้ง (การไหว้สุสาน) อาจกล่าวได้ว่าบังค่อย ๆ เปลี่ยนจาก 'โครงกระดูกที่จัดระเบียบสังคม' ไปสู่ 'ความทรงจำทางวัฒนธรรมและประวัติศาสตร์'"
 
 lang: "th"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,32 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'ศาลเจ้าตระกูลเหลียงซานตง คูกงสี (Leong San Tong Khoo Kongsi) อันวิจิตรในจอร์จทาวน์ ปีนัง สันหลังคาเต็มไปด้วยรูปมังกรและตุ๊กตาระบายสี เหนือห้องบูชาที่แกะสลักและปิดทองอย่างงดงาม'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: อาคารช็อปเฮาส์ยุคก่อนสงครามสีเหลืองแดงที่เป็นที่ตั้งสมาคมตระกูลชาวฮกเกี้ยน บนถนนใจกลางกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: อาคารสมาคมฮกเกี้ยนแห่งรัฐสลังงอร์ (สมาคมตระกูลของกลุ่มภาษาฮกเกี้ยน) บนถนนฮัง เลกิว กรุงกัวลาลัมเปอร์
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: ช็อปเฮาส์สามชั้นสไตล์นีโอคลาสสิกอันวิจิตรที่เคยเป็นที่ตั้งสมาคมตระกูลชาวฮากกา ใจกลางเมืองเซอเริมบัน
+    kind: actual
+    origin: third-party
+    subject: อาคารสมาคมฮุยโจว (ฮากกา) เดิม สมาคมตระกูลของกลุ่มภาษาฮากกาในเมืองเซอเริมบัน
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 บนถนนเก่าของปีนัง ร้านรวงที่ค้ำจุนหน้าร้านทั้งแถวส่วนใหญ่คือกิจการของชาวฮกเกี้ยน; ในเมืองที่รุ่งเรืองขึ้นเพราะดีบุกอย่างกัวลาลัมเปอร์และอีโปห์ เหมืองแร่และสมาคมช่างเต็มไปด้วยชาวกวางฟู่และชาวแคะ; และไม่ว่าคุณจะก้าวเข้าเมืองใด ร้านกาแฟเก่าที่ขายกาแฟไหหลำและขนมปังปิ้งทาเนยกับสังขยานั้น หลังเคาน์เตอร์มักยืนอยู่ด้วยชาวไหหลำ

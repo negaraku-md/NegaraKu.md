@@ -31,7 +31,7 @@ faq:
   - q: 生物科技是马来西亚经济中很大的一部分吗？
     a: 它是一个战略性但仍处新兴阶段的领域，而非主导领域。生物经济机构报告称，在其头二十年里累计为国内生产总值贡献约 RM39.9 billion。生物科技的重要性更多在于其未来潜力——粮食安全、健康与生物经济——而非其当前的产出份额。
 lang: zh
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: '一名身穿防护服、戴着手套和面罩的科学家在实验室的生物安全柜内用移液器将样本转移到小瓶中。'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: 马来西亚登嘉楼大学植物组织培养实验室内，可控光照下排列着一架架无菌培养容器。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚登嘉楼大学的植物组织培养实验室
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: 一台不锈钢与玻璃制成的生物反应器，配有管路与控制仪表，在实验室中运行着活细胞培养。
+    kind: representative
+    origin: third-party
+    subject: 实验室中运行细胞培养的生物反应器
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 马来西亚没有波士顿或上海那样深厚的研究型大学与风险投资底蕴，但它拥有三样东西，使生物科技成为合乎逻辑的长期押注：全球最丰富的热带生物多样性宝库之一、一股庞大的棕榈油与农业生物质流，以及在清真认证上获全球认可的权威。二十多年来，政府一直设法把这些禀赋转化为一个现代生命科学产业。本指南将说明这一努力如何组织、已经建成了什么，以及正走向何方。

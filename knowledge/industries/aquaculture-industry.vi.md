@@ -31,7 +31,7 @@ faq:
   - q: "Vì sao nuôi trồng thủy sản quan trọng đối với an ninh lương thực của Malaysia?"
     a: "Cá là nguồn đạm động vật chính của Malaysia, và đánh bắt tự nhiên đã chững lại. Nuôi trồng thủy sản là đòn bẩy chính để nâng tỷ lệ tự túc cá quốc gia — khoảng 90,7% năm 2025 — và Chính sách Nông thực phẩm Quốc gia ưu tiên rõ ràng cá nuôi hơn cá đánh bắt để đáp ứng nhu cầu tương lai."
 lang: vi
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'Những hàng lồng lưới nổi nuôi cá được bố trí trên mặt hồ phẳng lặng, với một chòi canh ở một đầu.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: Một ao nuôi trồng thủy sản nước ngọt tĩnh lặng được bao quanh bởi cây xanh tại Kampung Tiang, Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Ao nuôi trồng thủy sản cá tại Kampung Tiang, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: Một ao cá nuôi trồng thủy sản bằng đất dùng cho các lớp thực hành tại trang trại của Khoa thuộc Universiti Putra Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Ao cá giảng dạy nuôi trồng thủy sản tại Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 Phần lớn cá trên bàn ăn tối của người Malaysia vẫn đến từ biển — nhưng một phần đang tăng nhanh nay đến từ một cái ao, một cái lồng hoặc một bè dây dài. Đó là nuôi trồng thủy sản: việc nuôi có chủ đích các sinh vật dưới nước, trái với việc đánh bắt những gì bơi trong tự nhiên. Khi sản lượng đánh bắt tự nhiên của Malaysia chững lại và nhu cầu đạm leo thang, nuôi trồng thủy sản đã trở thành đòn bẩy chính của đất nước để giữ cá trên bàn ăn. Bài viết này đi sâu vào phần nuôi của ngành kinh doanh; để có bức tranh rộng hơn, bao gồm đội tàu đánh cá, phúc lợi ngư dân và thực thi, xem [tổng quan ngành nghề cá](/vi/agriculture/malaysian-fisheries-industry/).

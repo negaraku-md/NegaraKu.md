@@ -34,7 +34,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cd13a733d0e3f471"
+sourceContentHash: "ea3244a7c962cd1b"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,30 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab", "touch-n-go", "driving-licence-malaysians", "driving-licence-foreigners", "road-tax-renewal", "motor-insurance"]
 keywords: ["getting around Malaysia", "Malaysia transport overview", "public transport Malaysia", "how to travel in Malaysia", "Klang Valley transport", "domestic flights Malaysia", "driving in Malaysia", "Malaysia without a car", "KTM ETS", "express bus Malaysia"]
 framework: journey-hub
+hero: '/media/transport/getting-around-malaysia/hero.webp'
+heroAlt: '緑豊かな田園地帯の西海岸本線を走るKTM ETS都市間電車を空から捉えた眺め。下には住宅団地と遊び場が見える'
+heroCredit: 'Hiroki.loh.st / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_main_trunk_line.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-1.webp
+    alt: カラック・インターチェンジに近づくカラック高速道路の運転席視点。テメルロー、クアンタン、「Lebuhraya Pantai Timur」を示す緑の標識門、バイク1台と車——道路によるマレーシア国内移動。鉄道の画像とは区別される高速道路・運転の交通手段を加える
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuhraya_Kuala_Lumpur-Karak_towards_Karak_Interchange_(Exit_813)_eastbound_in_Bentong_District,_Pahang_20240224_121834.jpg
+  - role: scene
+    src: /media/transport/getting-around-malaysia/body-2.webp
+    alt: 鮮やかなキャンペーン塗装のKTM ETS Class 93都市間列車が、架線の下、近代的な高架ホーム(スンガイ・ブロー)に停車——マレーシア都市間鉄道の駅・乗車風景。ヒーロー画像の開けた土地の空撮とは別の文脈
+    kind: actual
+    origin: third-party
+    credit: Takeshi Aida / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KTM_ETS_Class_93_@_Sungai_Buloh_(1)_20230711_(53332466325).jpg
 ---
 
 クアラルンプールと、たとえばイポーの両方で暮らしたことのある人に、どうやって

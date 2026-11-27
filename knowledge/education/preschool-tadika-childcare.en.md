@@ -23,7 +23,7 @@ appliesTo: "Parents or guardians in Malaysia trying to understand childcare and 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'Front of Tadika Al-Falah, a Malaysian preschool in Johor, with a welcome sign and a painted alphabet mural along the wall.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: Entrance and front yard of Tadika Holy Trinity in Tawau, Sabah, with a signboard, colourful bunting and painted cartoon murals; a few young children are visible in the distant playground.
+    kind: representative
+    origin: third-party
+    subject: Front of a Malaysian tadika (kindergarten) decorated with colourful bunting and cartoon murals
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: Street view of Tadika St. Francis Xavier in Keningau, Sabah, a single-storey kindergarten building with a green fence and walls painted with murals of flowers, a bee and a mushroom.
+    kind: representative
+    origin: third-party
+    subject: A Malaysian preschool building painted with children's murals
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 Many parents enrol their child at the tadika down the road — submit the form, pay the fee, done. But the question rarely asked is: who is that tadika actually registered with? The answer is not a trivial matter. Depending on the child's age and the type of institution, it can fall under two entirely different ministries, with acts, regulations and enforcement methods that are not the same.

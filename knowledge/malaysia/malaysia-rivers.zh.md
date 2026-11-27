@@ -21,7 +21,7 @@ appliesTo: "马来西亚地理与历史的学习者，以及任何想了解为�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -62,6 +62,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: '一条宽阔的黄褐色热带河流在两岸之间蜿蜒流淌，岸边长满茂密的绿色雨林和高高的芦苇，上方是飘着零星云朵的湛蓝天空。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: 拉让江宽阔而平静的水面映照着金色的傍晚天空，两岸是砂拉越低矮的林木河岸，渐渐没入远方。
+    kind: actual
+    origin: third-party
+    subject: 黄昏时分砂拉越的拉让江，马来西亚最长的河流
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: 狭窄的马六甲河在马六甲历史老城区色彩缤纷的河畔店屋与滨水步道之间流淌。
+    kind: actual
+    origin: third-party
+    subject: 蜿蜒流过马六甲古城历史老城区的马六甲河
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 在泛婆罗洲大道（Lebuhraya Pan Borneo）或马腾航空（MASwings）的航班出现之前，要抵达砂拉越内陆，唯一的方法就是沿河而上、连续航行数日。如今的大城镇——诗巫、加帛、山打根、北根——并非偶然座落在各自的位置上。每一座城镇的位置都由河流决定：河口、两河交汇处，或是船只仍可航抵的最远点。拉让江、京那巴当岸河与彭亨河这三条河流，最清楚地展现了这个规律。

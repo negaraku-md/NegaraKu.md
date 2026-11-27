@@ -32,7 +32,7 @@ faq:
     a: "ผู้รับเงินช่วยเหลือ Sumbangan Tunai Rahmah (STR) ที่มีอายุ 40 ปีขึ้นไปมีสิทธิ์รับการคัดกรองฟรีภายใต้ PeKa B40 ที่คลินิกของรัฐหรือเอกชนที่ขึ้นทะเบียน คลินิกสุขภาพของรัฐก็ให้บริการตรวจขั้นพื้นฐานเช่นกัน"
 
 lang: "th"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "administered-by", to: "ministry-of-health" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "smoking-and-vaping-law-act-852"]
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'ภายนอกของ Klinik Kesihatan Sungai-Sungai คลินิกสุขภาพของรัฐบาลในชนบทมาเลเซีย มีธงมาเลเซียและซาบะฮ์กับรถพยาบาล'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: เครื่องวัดความดันโลหิตอัตโนมัติแบบดิจิทัลพร้อมผ้าพันแขนซึ่งเป็นอุปกรณ์ที่ใช้ในการตรวจคัดกรองความดันโลหิตสูงตามปกติ
+    kind: representative
+    origin: third-party
+    subject: เครื่องวัดความดันโลหิตอัตโนมัติแบบรัดต้นแขนพร้อมผ้าพันแขนที่ใช้ในการตรวจคัดกรองสุขภาพ
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: สวนริมทะเลสาบที่จัดภูมิทัศน์ในกัวลาลัมเปอร์มีเส้นขอบฟ้าเมืองอยู่เบื้องหลังแทนการออกกำลังกายและวิถีชีวิตที่ดีซึ่งช่วยป้องกันโรคไม่ติดต่อ
+    kind: representative
+    origin: third-party
+    subject: ตามันตาซิกติติวังซาสวนสาธารณะริมทะเลสาบในกัวลาลัมเปอร์
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 ผู้ใหญ่ชาวมาเลเซียมากกว่าครึ่งในวันนี้แบกน้ำหนักตัวที่อาจย่นชีวิตของพวกเขาให้สั้นลง — และหนึ่งในหกคนมีชีวิตอยู่กับเบาหวานแล้ว หลายคนโดยไม่รู้ตัว นี่คือการระบาดเงียบที่สร้างภาระต่อโรงพยาบาล ครอบครัว และเศรษฐกิจของประเทศมากกว่าโรคติดต่อใด ๆ อย่างมาก

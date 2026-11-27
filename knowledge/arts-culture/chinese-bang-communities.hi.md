@@ -33,7 +33,7 @@ faq:
     a: "बांग की सीमाएँ स्पष्ट रूप से धुँधली पड़ी हैं। अंतर-बांग विवाह, नगरीकरण, और चीनी-भाषा शिक्षा के ज़रिए मंदारिन के बोली-पार साझा भाषा बन जाने से, युवा पीढ़ी में पुश्तैनी मूल की चेतना प्रायः उनके बुज़ुर्गों से कमज़ोर है। पर बांग पूरी तरह लुप्त नहीं हुए: देश भर में कुल-संघ, देशबंधु-संघ, कुल-मंदिर और कब्रिस्तान अब भी सक्रिय हैं, बहुत-से लोग अब भी अपना पुश्तैनी मूल जानते हैं, और छिंगमिंग (क़ब्र-सफ़ाई) जैसे अवसरों पर इसका प्रभाव अब भी दिखता है। कहा जा सकता है कि बांग 'समाज को संगठित करने वाली रीढ़' से धीरे-धीरे 'संस्कृति और इतिहास की स्मृति' में बदल रहे हैं।"
 
 lang: "hi"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,32 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'जॉर्ज टाउन, पेनांग में अलंकृत लियोंग सान टोंग खू कोंग्सी कुल संघ मंदिर, एक समृद्ध नक्काशीदार और सुनहरे प्रार्थना कक्ष के ऊपर इसकी छत की मेड़ें रंगे हुए ड्रैगनों और मूर्तियों से भरी हैं।'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: कुआलालंपुर की एक केंद्रीय सड़क पर युद्ध-पूर्व के पीले-लाल शॉपहाउस भवन में स्थित एक होक्किएन कुल संघ
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर की जालान हांग लेकियू पर सेलांगोर होक्किएन एसोसिएशन भवन (एक होक्किएन बोली-समूह कुल संघ)
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: सेरेम्बान के मध्य क्षेत्र में एक अलंकृत नवशास्त्रीय तीन-मंज़िला शॉपहाउस, जिसमें कभी एक हक्का कुल संघ था
+    kind: actual
+    origin: third-party
+    subject: सेरेम्बान में पूर्व फुई चिउ (हुइज़ोउ हक्का) एसोसिएशन भवन, एक हक्का बोली-समूह कुल भवन
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 पीनांग की पुरानी गलियों में, दुकानों की पूरी एक क़तार को सँभालने वाले अधिकांशतः होक्कियेन लोगों के प्रतिष्ठान हैं; क्वालालंपुर और इपोह जैसे टिन से फले-फूले नगरों में खदानें और श्रेणियाँ कैंटोनी और हक्का लोगों से भरी रहती थीं; और आप किसी भी नगर में जाएँ, हाइनानी कॉफ़ी तथा मक्खन और कया लगी टोस्ट बेचने वाली पुरानी कॉफ़ी-दुकान के काउंटर के पीछे प्रायः एक हाइनानी ही खड़ा मिलता है।

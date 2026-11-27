@@ -32,7 +32,7 @@ faq:
     a: "FGV là một doanh nghiệp kinh doanh nông nghiệp tích hợp trải rộng đồn điền (cọ dầu, cao su và năng lượng tái tạo), dầu và mỡ, đường, hậu cần và dịch vụ hỗ trợ, cùng các sản phẩm tiêu dùng. Theo tường trình của chính mình, nó đóng góp khoảng 3% sản lượng dầu cọ thô toàn cầu."
 
 lang: "vi"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Đồn điền cọ dầu trưởng thành trải lên sườn đồi cùng con đường nội đồn điền, huyện Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: Một tổ hợp nhà máy dầu cọ (các nhà xưởng màu xanh + ống khói bốc hơi) nằm giữa những quả đồi cọ dầu — khâu chế biến của ngành. Không có người.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: Một xe ben chất đầy buồng quả tươi (FFB) tại cổng nhà máy ('Kilang Apas Balung') — khâu thu hoạch/vận chuyển. Chỉ có một công nhân rất nhỏ, không nhận diện được ở rìa khung hình.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 Năm 2012 nó là niềm tự hào của thị trường — một đợt niêm yết khổng lồ từng xếp thứ hai thế giới chỉ sau Facebook. Mười ba năm sau, chính công ty đó lặng lẽ rời khỏi Bursa Malaysia ở một phần nhỏ giá ra mắt, được mua lại bởi chính cơ quan đã đưa nó lên sàn.

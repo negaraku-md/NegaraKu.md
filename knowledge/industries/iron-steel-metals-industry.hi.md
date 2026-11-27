@@ -31,7 +31,7 @@ faq:
   - q: क्या मलेशिया इस्पात के अलावा अन्य धातुओं में मज़बूत है?
     a: हाँ। अलौह धातुओं में मलेशिया विश्व-स्तर पर प्रतिस्पर्धी है। सारावाक स्थित Press Metal दक्षिण-पूर्व एशिया का सबसे बड़ा एकीकृत एल्यूमीनियम उत्पादक है, और Malaysia Smelting Corporation विश्व के अग्रणी परिष्कृत-टिन उत्पादकों में से एक है, जो देश के लंबे टिन-खनन इतिहास की विरासत है।
 lang: hi
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'ब्लास्ट भट्टियों, ऊँची चिमनियों और सफ़ेद भाप के गुबारों वाला एक बड़ा एकीकृत इस्पात-कारखाना, आगे जंगली पहाड़ियाँ और घर'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: साफ़ नीले आसमान के सामने नलिकाओं और एक चिमनी से सफ़ेद भाप छोड़ती दो ऊँची इस्पात ब्लास्ट फर्नेस
+    kind: representative
+    origin: third-party
+    subject: Scunthorpe Steelworks, इंग्लैंड की ब्लास्ट फर्नेस
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: एक इस्पात मेल्टशॉप के भीतर, ओवरहेड गैंट्री, पाइपवर्क और इस्पात वॉकवे पर खड़े कर्मचारियों के साथ एक बड़ी इलेक्ट्रिक आर्क फर्नेस
+    kind: representative
+    origin: third-party
+    subject: Differdange, लक्ज़मबर्ग में ProfilARBED इस्पात मिल के इलेक्ट्रिक आर्क फर्नेस मेल्टशॉप का भीतरी दृश्य
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 मलेशिया की लगभग हर इमारत, पुल और राजमार्ग के पीछे एक शांत उद्योग है जो उन सबको थामे रखने वाली धातु बनाता है। लौह और इस्पात शायद ही कभी अर्धचालकों या पाम तेल की तरह सुर्खियाँ बनाते हैं, फिर भी वे बुनियादी हैं: एक कंक्रीट स्तंभ के भीतर की रीइन्फोर्सिंग बार, एक केबल में तार, एक कार के दरवाज़े में शीट। मलेशिया इसका एक बड़ा हिस्सा स्वयं बनाता है — और, कुछ धातुओं में, वास्तव में विश्व-स्तरीय है। लेकिन कहानी का इस्पात-वाला आधा हिस्सा देश के सबसे परेशान विनिर्माण क्षेत्रों में से एक भी है, जिसे वह कितना उत्पादन कर सकता है और बाज़ार को वास्तव में कितनी ज़रूरत है, इनके बीच के एक ज़िद्दी बेमेल से परिभाषित किया जाता है।

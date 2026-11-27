@@ -27,7 +27,7 @@ faq:
   - q: "MSN எங்கே அமைந்துள்ளது?"
     a: "தேசிய விளையாட்டு வளாகத்தில் (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. இது வேறு பல மாநிலங்களிலும் பயிற்சி வளாகங்களை இயக்குகிறது."
 lang: "ta"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,9 +65,35 @@ sources:
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []
-related: []
+related: ["malaysian-sport-governance", "national-sports-policy-podium-programme", "national-sports-venues"]
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'மஜ்லிஸ் சுகான் நெகாரா மலேசியாவின் (Majlis Sukan Negara) வண்ணமயமான தலைமையகக் கட்டிடம் புக்கிட் ஜாலிலில் அதன் பெயர் சுவரில் இருக்க நிற்கிறது.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: புக்கிட் ஜாலிலில் உள்ள தேசிய விளையாட்டு நிறுவனக் கட்டிடம், அதன் கண்ணாடி முகப்பில் 'Where Legends Are Made' அறிவிப்புப் பலகை, முன்னால் ஒரு வெறுமையான முற்றம்.
+    kind: representative
+    origin: third-party
+    subject: புக்கிட் ஜாலிலில் உள்ள தேசிய விளையாட்டு நிறுவனம் (ISN) கட்டிடம், மலேசியாவின் தேசிய விளையாட்டு அமைப்பின் ஒரு பகுதி
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: புக்கிட் ஜாலிலில் உள்ள KL Sports City வளாகத்தின் வான்வழிக் காட்சி, நீள்வட்ட தேசிய அரங்கம், ஒரு உட்புற அரங்கம் மற்றும் நீர்விளையாட்டு மையம் சுற்றியுள்ள கட்டிடங்களுக்கு இடையே மெல்லிய மூடுபனியில் தெரிகிறது.
+    kind: representative
+    origin: third-party
+    subject: புக்கிட் ஜாலிலில் உள்ள KL Sports City தேசிய விளையாட்டு வளாகத்தின் வான்வழிக் காட்சி
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 ஒரு மலேசிய குறுந்தூர ஓட்ட வீரர் ஒலிம்பிக்கில் போட்டிக்கு நிற்கும்போது, அல்லது ஒரு இளம் கால்பந்து வீரர் தேசிய அணிக்குத் தேர்ந்தெடுக்கப்படும்போது, அவர்களை அந்த நிலைக்குக் கொண்டுவந்த பயிற்சி, கோச்சிங் மற்றும் வசதிகளுக்குப் பின்னால் ஒரே ஒரு அரசு அமைப்பு நிற்கிறது: **மலேசிய தேசிய விளையாட்டு மன்றம்** (National Sports Council of Malaysia), மலாய் மொழியில் **Majlis Sukan Negara (MSN)** என்று அறியப்படுகிறது. இது தேசிய விளையாட்டுக் கொள்கையை உண்மையான வீரர்களாக மாற்றும் சட்டப்பூர்வ முகமையாகும்.

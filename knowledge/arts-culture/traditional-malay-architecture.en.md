@@ -27,7 +27,7 @@ faq:
     a: "A Malay house typically houses a single family, whereas a longhouse (rumah panjang) houses many families within one elongated structure — each family owning its own room (bilek), shared with a communal gallery called the ruai."
 
 lang: "en"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -62,9 +62,36 @@ sources:
 relations:
   - { rel: "related-to", to: "sarawak-longhouse" }
   - { rel: "related-to", to: "malay-woodcarving" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: 'An ornate octagonal timber Malay palace with steep tiered shingle roofs, walls of diamond-patterned woven bamboo in black, white and gold, latticed windows and a gilded carved frieze, set on a lawn under an overcast sky'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: A dark-brown timber kampung house raised on wooden stilts, with a steep gable roof, carved scalloped eaves, panelled wooden walls and an external staircase leading up to a verandah, framed by green foliage
+    kind: actual
+    origin: third-party
+    subject: a traditional timber Malay stilt house (rumah Melayu) with a steep gable roof, carved fascia boards and a raised verandah reached by wooden steps
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: A long raised timber Malay palace with sweeping upswept Minangkabau-style roofs curving to sharp points, panelled dark-wood walls with latticed windows, standing on carved posts beside a signboard reading Rumah Negeri Sembilan
+    kind: actual
+    origin: third-party
+    subject: the Negeri Sembilan timber palace Istana Ampang Tinggi with sweeping upswept Minangkabau buffalo-horn gable roofs
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 Lift up an old kampung house, take apart its joints, and reassemble it on a new site — largely without any fixed concrete foundation. That is the wisdom of traditional Malay architecture: a house that "reads" the tropical climate long before air conditioning existed.

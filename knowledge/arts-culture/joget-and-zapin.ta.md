@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Joget மற்றும் Zapin என்ற இரண்டு தனித்தனி மலாய் நாட்டுப்புற நடனங்களுக்கு இடையேயான தோற்றம், இசை மற்றும் அசைவு வேறுபாடுகளைப் புரிந்துகொள்ள விரும்பும் எவருக்கும்."
 
 lang: "ta"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,34 @@ relations:
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/joget-and-zapin/hero.webp'
+heroAlt: 'மரமேடையில் zapin நடுவே நான்கு மலாய் நடனக் கலைஞர்கள்: மெஜந்தா-ஆரஞ்சு baju Melayu-வும் கருப்பு tengkolok தொப்பியும் அணிந்த இரு ஆண்கள் விரிந்த கைகளால் சைகை செய்ய, ஊதா songket-ம் மெல்லிய முக்காடும் அணிந்த இரு பெண்கள் இளஞ்சூடான ஒளியில் அழகிய கை நிலைகளில்'
+heroCredit: 'ScribblingGeek / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: கோலாலம்பூரில் ஒரு திறந்தவெளி நிகழ்வில், கண்கவர் இளஞ்சிவப்பு, பச்சை மற்றும் தங்க நிற சரோங் உடைகள் அணிந்த மலாய் நடனக் கலைஞர்களின் கூட்டம், ஓர் உயிரோட்டமான ஜோகெட்டில் கைகளை உயர்த்தி மணிக்கட்டுகளைத் திருப்புகின்றனர்; ஆண்கள் பொருந்தும் மேற்சட்டைகளிலும், பெண்கள் கூந்தலில் மலர்களுடனும் உள்ளனர்.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, கோலாலம்பூரில் உயிரோட்டமான ஜோகெட் பாணி நடனம் நிகழ்த்தும் மலாய் நாட்டுப்புற நடனக் கலைஞர்கள் குழு
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: மேகமூட்டமான நாளில், மர மண்டபத்திற்கு முன்னால் ஒரு தெருவை நிரப்பி, பாஜு குரோங், சரோங் மற்றும் சோங்கோக் தொப்பிகள் அணிந்த பல மலாய் நடனக் கலைஞர்கள் ஒன்றிணைந்து திறந்தவெளி கூட்டு ஜாபினில் இரு கைகளையும் தலைக்கு மேல் உயர்த்துகின்றனர்.
+    kind: representative
+    origin: third-party
+    subject: இந்தோனேசியா, பொந்தியானாக்கில் ஒரு நகர விழாவில் பாரம்பரிய உடையில் மலாய் கலைஞர்கள் நிகழ்த்தும் கூட்டு ஜாபின் (ஜெபின்) நடனம்
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 இரண்டு நடனக் கலைஞர்கள் gendang தாளத்திற்கேற்ப வேகமாக அசைகிறார்கள் — கால்கள் தட்டுகின்றன, கைகள் மென்மையாக நடனமாடுகின்றன. இதைப் பார்க்கும் பலர், எது Joget எது Zapin என்று வேறுபடுத்தாமல் அதை வெறுமனே “மலாய் நடனம்” என்றே அழைக்கிறார்கள். ஒவ்வொன்றும் எங்கிருந்து வந்தது என்று கேளுங்கள், அந்தப் பதில் நம்மை உலகின் இரு மூலைகளுக்கு அழைத்துச் செல்கிறது: ஒன்று Melaka-வில் இருந்த போர்த்துகீசிய வணிகக் கப்பலின் தளத்திலிருந்து, மற்றொன்று Hadhramaut-இலிருந்து வந்த அரபு மறைப்பணியாளர்களின் ஒட்டகக் கூட்டத்திலிருந்து.

@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "Tunku Abdul Rahman"
-seoTitle: Tunku Abdul Rahman
+seoTitle: "Tunku Abdul Rahman: Thủ tướng đầu tiên của Malaysia (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]
@@ -67,6 +67,13 @@ verificationNeeded:
   - "NHẠY CẢM: đề cập đến tình trạng bất ổn chủng tộc ngày 13 tháng 5 năm 1969 (chủng tộc) và các Quân chủ Mã Lai (hoàng gia). Mọi cách mô tả được tóm tắt trung lập; đối chiếu lại với các nguồn sơ cấp và để một người phê duyệt đủ năng lực ký duyệt trước khi xuất bản."
   - "Xác nhận các mốc ngày chính xác (nhiệm kỳ thủ tướng, ngày sinh, ngày mất) với Perdana Leadership Foundation và Văn phòng Thủ tướng."
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: 'Tunku Abdul Rahman đội songkok đen, đeo kính gọng sừng cùng áo khoác ngoài sẫm màu và cà vạt, được chụp ảnh đen trắng trước một chiếc máy bay trong chuyến thăm năm 1960.'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào sáng ngày 31 tháng 8 năm 1957, trước một Sân vận động Merdeka chật kín ở Kuala Lumpur, một hoàng tử Kedah giơ tay lên và dẫn đám đông hô bảy lần **"Merdeka!"** — tự do. Người đó là **Tunku Abdul Rahman Putra Al-Haj**, và khoảnh khắc ấy, được ghi lại trong Tuyên ngôn Độc lập Malaya, đánh dấu sự kết thúc nền cai trị của Anh đối với Liên bang Malaya và sự ra đời của một quốc gia độc lập mà ông sẽ cai quản với tư cách Thủ tướng đầu tiên của nó.

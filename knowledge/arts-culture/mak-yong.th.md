@@ -33,7 +33,7 @@ faq:
     a: "การแสดงต่อสาธารณะในกลันตันถูกจำกัดภายใต้กฎหมายควบคุมบันเทิงของรัฐที่ผ่านในปี 1998 เมื่อวันที่ 25 กันยายน 2019 รองมุขมนตรีกลันตัน ดาโต๊ะ โมฮ์ด อามาร์ นิก อับดุลลาห์ (Datuk Mohd Amar Nik Abdullah) ประกาศว่าอนุญาตให้แสดงได้ภายใต้เงื่อนไขที่สอดคล้องกับหลักชะรีอะฮ์ที่รัฐบาลรัฐกำหนด รวมถึงการปราศจากองค์ประกอบของการบูชาและการปกปิดเอาเราะฮ์ โดยรัฐบาลรัฐและหน่วยงานศาสนาของรัฐจะติดตามอย่างต่อเนื่อง"
 
 lang: "th"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,34 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'นักแสดงมะโย่งสี่คนในชุดมลายูดั้งเดิมสีทองปนแดงเลือดหมูบนเวทีมืด คนหนึ่งสวมมงกุฎทองสูงและอีกคนสวมหน้ากากตัวตลกสีขาว'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: ชุดมะโย่งสองชุดบนหุ่นหลังกระจก ชุดหนึ่งเป็นเสื้อคลุมสีทองพร้อมมงกุฎประดับอัญมณี และอีกชุดเป็นเสื้อคลุมสีแดงเลือดหมูพร้อมเครื่องประดับศีรษะสีเข้ม ที่พิพิธภัณฑ์รัฐเกอลันตัน
+    kind: actual
+    origin: third-party
+    subject: ชุดมะโย่งพร้อมมงกุฎอันวิจิตรจัดแสดงที่พิพิธภัณฑ์รัฐเกอลันตัน ประเทศมาเลเซีย
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: ภาพถ่ายประวัติศาสตร์โทนซีเปียของนักเต้นมะโย่งสวมมงกุฎยืนอยู่ท่ามกลางนักดนตรีชายที่นั่งถือกลองเกินดังและซอรือบับ
+    kind: representative
+    origin: third-party
+    subject: ภาพถ่ายประวัติศาสตร์ของนักแสดงนำมะโย่งสวมมงกุฎขนาบด้วยนักดนตรีที่นั่งพร้อมกลองและซอรือบับ
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 เสียงแรกไม่ได้มาจากนักแสดง มันมาจากไม้รูปทรงลูกแพร์ที่มีสายสามเส้น — เรอบับ (rebab) — ที่ถูกสีอย่างช้า ๆ ที่ริมเวทีไม้เปิดโล่ง ผู้ชมนั่งอยู่สามด้าน หลังคาเป็นใบปาล์ม และก่อนที่บทสนทนาสักคำจะถูกเปล่งออกมา เจ้าหญิงคนหนึ่งได้ค้อมกายเข้าหาเครื่องดนตรีนั้นในการรำที่ชื่อของมันเองอธิบายทุกอย่าง กล่าวคือ **เมิงาดับเรอบับ (Mengadap Rebab, การค้อมเข้าหาเรอบับ)**

@@ -28,7 +28,7 @@ faq:
     a: "Không. Sepang là chủ nhà của Grand Prix Formula 1 cho đến năm 2017; nay trường đua đó tập trung vào MotoGP và các sự kiện đua xe khác."
 
 lang: "vi"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,36 @@ entity: "Gelanggang sukan utama Malaysia"
 relations:
   - { rel: "administered-by", to: "perbadanan-stadium-malaysia" }
   - { rel: "related-to", to: "kl-sports-city" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "malaysia-cup-domestic-football-leagues"]
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: 'Cổng vòm lối vào uy nghi màu xám-trắng của Sân vận động Quốc gia Bukit Jalil, trên đỉnh có dòng chữ STADIUM BUKIT JALIL, những vòm màn chắn đục lỗ kiểu Moorish bao khung khán đài sân phía sau dưới bầu trời u ám'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: Không gian nội thất rộng lớn của Sân vận động Quốc gia Bukit Jalil về đêm, mái căng màu trắng uốn lượn được chiếu sáng trên một khán đài kín người bao quanh sân cỏ xanh và đường chạy màu đỏ
+    kind: actual
+    origin: third-party
+    subject: lòng sân và mái căng của Sân vận động Quốc gia Bukit Jalil chật kín khán giả trong một trận đấu về đêm
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: Mặt tiền lam chớp màu bạc của Axiata Arena ở Bukit Jalil, mang tên và logo Axiata arena phía trên lối vào kính cong, hai bên là những cây non dưới bầu trời xám
+    kind: actual
+    origin: third-party
+    subject: mặt ngoài của Axiata Arena, nhà thi đấu trong nhà của Khu Liên hợp Thể thao Quốc gia ở Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 Khi 85,500 khán giả lấp đầy đường vòng cung ba tầng của TM Stadium Nasional trong đêm chung kết bóng đá, họ đang ngồi bên trong biểu tượng lớn nhất của cơ sở hạ tầng thể thao Malaysia — nhưng nó chỉ là một trong số vài sân đấu gánh vác các sự kiện chính của quốc gia.

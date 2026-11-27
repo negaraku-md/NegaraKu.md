@@ -34,7 +34,7 @@ faq:
     a: "Nombres globales como Intel, AMD, Broadcom, Bosch y OSRAM operan aquí, junto a fabricantes por contrato (EMS) como Jabil, Flex, Plexus, Sanmina y Benchmark, y firmas de origen local como Inari Amertron."
 
 lang: "es"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Primer plano de una placa de circuito impreso verde densamente poblada de condensadores naranjas brillantes, condensadores electrolíticos cilíndricos, chips de circuito integrado negros y resistencias con bandas de colores'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: Una mano que sostiene un soldador y unas pinzas finas trabaja en un diminuto componente de montaje superficial sobre una placa de circuito impreso verde repleta de chips y pistas
+    kind: representative
+    origin: third-party
+    subject: Una mano usa pinzas finas y un soldador para reparar un componente de montaje superficial en una placa de circuito
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: Una placa de circuito impreso verde fotografiada directamente desde arriba, poblada con varios chips de circuito integrado negros etiquetados, módulos de memoria y filas de pequeños componentes de montaje superficial
+    kind: representative
+    origin: third-party
+    subject: Vista cenital de una placa de circuito impreso de electrónica de consumo totalmente ensamblada
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 Abra casi cualquier portátil, teléfono inteligente o automóvil fabricado en la última década y hay una probabilidad razonable de que una pieza de él haya pasado por Malasia. El chip de su interior puede haber sido probado y empaquetado en Penang; el adaptador de corriente, la retroiluminación LED o la placa de circuito pueden haber sido ensamblados en Kulim, Melaka o el Valle de Klang. Para un país de unos 34.1 millones de habitantes (2024, DOSM), Malasia ocupa un lugar sorprendentemente central en la cadena de suministro mundial de electrónica — y eso es, casi por completo, la historia de una sola industria.

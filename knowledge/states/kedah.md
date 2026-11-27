@@ -107,9 +107,35 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'Masjid Zahir berwarna krim dengan sekumpulan kubah bawang hitam yang besar dan sebuah menara yang langsing di hadapan langit biru cerah di Alor Setar.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: Jambatan Langit Langkawi yang melengkung terentang di atas kabel merentasi gaung gunung berhutan di Pulau Langkawi, Kedah.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Langit Langkawi, Kedah
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: Bendang padi hijau rata terbentang hingga ke kaki langit di bawah langit luas di Pendang, Kedah, jelapang padi Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Dataran bendang padi di Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 Pada 2024, produk elektrik, elektronik dan optik menyumbang 51.1 peratus daripada

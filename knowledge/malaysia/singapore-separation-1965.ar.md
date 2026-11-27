@@ -79,6 +79,13 @@ relations:
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["انفصال سنغافورة 1965", "اتفاق استقلال سنغافورة", "يوم سنغافورة", "تونكو عبد الرحمن", "لي كوان يو", "ماليزيا الماليزية", "Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/singapore-separation-1965/hero.webp'
+heroAlt: 'جسر جوهور-سنغافورة يمتد منخفضًا عبر مضيق جوهور المتلألئ، حاملًا الطريق والسكة الحديدية نحو ساحل سنغافورة عند الأفق كما يُرى من الجانب الماليزي.'
+heroCredit: 'Ralff Nestor Nacor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 خسرت دولة ولايةً مؤسِّسة في عطلة أسبوع واحدة. وُقّع الاتفاق يوم السبت، وأُقرّ التعديل الدستوري يوم الاثنين، وبحلول العاشرة صباحًا من ذلك الاثنين نفسه كان إعلان استقلال يُتلى عبر إذاعة سنغافورة (Radio Singapura). معظم الاتحادات التي تتفكك تفعل ذلك ببطء وضجيج. أما هذا فقد حُلّ — بالمعنى القانوني — في نحو ثمانٍ وأربعين ساعة، بوثائق صِيغت سرًّا ووقّعها خمسة عشر وزيرًا.

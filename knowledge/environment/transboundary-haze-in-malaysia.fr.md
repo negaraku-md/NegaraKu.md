@@ -32,7 +32,7 @@ faq:
     a: "La cause principale est les incendies de terres et de forêts — y compris les feux de tourbières et le défrichement par brûlis à des fins agricoles — à Sumatra et au Kalimantan, qui deviennent plus fréquents et plus graves pendant les saisons sèches influencées par le phénomène El Niño."
 
 lang: "fr"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["brume", "transboundary haze", "API", "Indice des polluants atmosphériques", "Sumatra", "Kalimantan", "ASEAN", "Département de l'environnement", "qualité de l'air", "haze"]
 framework: explainer
+hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'
+heroAlt: 'La ligne d''horizon de Kuala Lumpur masquée par une épaisse brume grise, les hautes tours à peine visibles.'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: Air brumeux à faible visibilité dans une rue près d'une clinique de santé à Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Conditions de brume de pollution près d'une clinique de santé de Kuala Lumpur
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: Épaisse brume de pollution transfrontalière masquant des collines normalement visibles à l'horizon
+    kind: representative
+    origin: third-party
+    subject: La brume de pollution transfrontalière d'Asie du Sud-Est de 2013 au-dessus de Singapour (image représentative)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 Chaque fois que les vents de mousson changent de direction pendant la saison sèche, les ciels au-dessus de la vallée de Klang, de Sarawak et d'une grande partie de la Péninsule peuvent virer au gris en quelques jours — le soleil s'estompe, l'odeur de fumée s'infiltre dans les foyers et les téléphones vibrent d'alertes API. C'est la brume transfrontalière : une pollution qui n'est pas entièrement produite à l'intérieur du pays, mais que respirent chaque année des millions de Malaisiens.

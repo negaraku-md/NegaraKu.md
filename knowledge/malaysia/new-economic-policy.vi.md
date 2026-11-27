@@ -21,7 +21,7 @@ keyTakeaways:
   - "NEP được xây dựng sau các sự kiện ngày 13 tháng 5 năm 1969 và được kế tục bởi Chính sách Phát triển Quốc gia vào năm 1991"
 appliesTo: "Độc giả muốn biết các mục tiêu, chỉ tiêu và khung thời gian đã được ghi chép của Chính sách Kinh tế Mới đúng như được nêu trong các văn bản kế hoạch chính thức của Malaysia, thay vì một trình bày mang tính phe phái về nó."
 lang: "vi"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'Nhà thờ Hồi giáo Putra mái vòm hồng và khu phức hợp hành chính Perdana Putra nguy nga nhìn ra hồ nước phẳng lặng ở Putrajaya, thủ đô liên bang được quy hoạch xây dựng riêng của Malaysia.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: Trụ tháp màu trắng hình cánh buồm của cầu dây văng Seri Wawasan vươn lên trên mặt nước phẳng lặng của Hồ Putrajaya, những sợi cáp thép tỏa ra như hình quạt đến mặt cầu.
+    kind: actual
+    origin: third-party
+    subject: Cầu Seri Wawasan bắc qua Hồ Putrajaya, tại thủ đô hành chính liên bang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: Cầu Putra lấy cảm hứng từ Isfahan uốn cong qua Hồ Putrajaya, các trụ cầu ốp gạch giống tháp giáo đường và những vòm nhọn của nó phản chiếu trên mặt nước dưới bầu trời xanh.
+    kind: actual
+    origin: third-party
+    subject: Cầu Putra (Jambatan Putra) bắc qua Hồ Putrajaya, tại thủ đô hành chính liên bang
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 Chính sách Kinh tế Mới thường được nhớ đến bằng một từ duy nhất — "tái cấu trúc" — và bị tranh cãi kể từ đó. Nhưng chính sách này đã nêu ra các mục đích của chính nó bằng văn bản, trong một kế hoạch của chính phủ được trình lên Nghị viện, và những mục đích đó là hai, không phải một, với một ý niệm thứ ba đứng trên cả hai. Bài viết này trình bày những gì các văn bản nói, theo đúng trình tự mà các văn bản đó nêu.

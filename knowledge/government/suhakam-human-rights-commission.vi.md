@@ -34,7 +34,7 @@ faq:
     a: "Có. Mục 4(2)(d) trao cho SUHAKAM quyền thăm bất kỳ nơi giam giữ, cơ sở và địa điểm nào khác, và đưa ra kiến nghị cần thiết. Mục 4(3), được đưa vào bởi sửa đổi 2024, nêu rằng chuyến thăm đó không thể bị từ chối bởi người phụ trách địa điểm liên quan miễn là thủ tục được quy định được tuân thủ."
 
 lang: "vi"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,33 @@ relations:
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
 framework: profile
+hero: '/media/government/suhakam-human-rights-commission/hero.webp'
+heroAlt: 'Menara TH Perdana, một tòa cao ốc văn phòng uốn cong ở Kuala Lumpur với biển hiệu ''MENARA TH PERDANA'' nổi bật và một lối vào có mái che kính, nơi đặt trụ sở SUHAKAM'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: Những người tham gia một cuộc tuần hành ôn hòa của xã hội dân sự ở Kuala Lumpur, minh họa cho bối cảnh nhân quyền
+    kind: representative
+    origin: third-party
+    subject: Buổi tụ họp của xã hội dân sự ở Kuala Lumpur (bối cảnh nhân quyền)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: Một cuộc tụ họp công cộng ôn hòa phủ kín một con phố ở Kuala Lumpur vào ban đêm, minh họa cho các quyền tự do mà ủy ban nhân quyền giám sát
+    kind: representative
+    origin: third-party
+    subject: Cuộc tụ họp công cộng ôn hòa trên một con phố ở Kuala Lumpur (bối cảnh nhân quyền)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 Khi một người gửi khiếu nại về vi phạm nhân quyền đến SUHAKAM, thực sự thì ủy ban đó có thể và không thể làm gì? Câu trả lời không phải là hùng biện — nó nằm ở một đạo luật ngắn gọn năm 1999 quy định chính xác bốn chức năng, một loạt quyền điều tra, và một vài lằn ranh đỏ không thể vượt qua.

@@ -26,7 +26,7 @@ faq:
     a: "Pour une première infraction, une amende n'excédant pas RM30,000 ou un emprisonnement n'excédant pas 2 ans, ou les deux. Les infractions ultérieures entraînent jusqu'à RM50,000 ou un emprisonnement pouvant aller jusqu'à 3 ans."
 
 lang: "fr"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,9 +57,35 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["médecine traditionnelle", "MT&C", "Act 775", "MTC", "chiropraxie", "homéopathie", "enregistrement des praticiens", "Conseil de MT&C"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'L''enseigne de la devanture d''un magasin malaisien de médecine traditionnelle et de santé, représentant la pratique de la médecine traditionnelle et complémentaire.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: Quatre fines aiguilles d'acupuncture posées sur une surface à côté d'une pièce de monnaie servant d'échelle, représentant l'acupuncture comme thérapie complémentaire
+    kind: representative
+    origin: third-party
+    subject: Des aiguilles d'acupuncture présentées avec une pièce de monnaie pour l'échelle
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: Une caisse en bois de bouteilles de jamu, un tonique traditionnel à base de plantes, avec des bouteilles de liquide ambré bouchées par des feuilles, représentant la médecine complémentaire par les plantes
+    kind: representative
+    origin: third-party
+    subject: Des bouteilles de jamu, un tonique traditionnel malais-indonésien à base de plantes
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 Depuis le 1er mars 2025, les masseurs traditionnels, les praticiens de la médecine chinoise, les homéopathes et les chiropraticiens de Malaisie ne peuvent plus ouvrir les portes de leur clinique sans un seul document — un certificat d'enregistrement. L'ère de « l'exercice au nom de l'expérience » est révolue.

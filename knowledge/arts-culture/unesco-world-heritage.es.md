@@ -30,7 +30,7 @@ faq:
     a: "Sí. El Centro del Patrimonio Mundial registra tres bienes en la Lista Indicativa de Malasia: el Parque Nacional (Taman Negara) de Malasia peninsular, la Cresta de Cuarzo de Gombak en Selangor y el Leprosario de Sungai Buloh. Una inscripción indicativa es una declaración de intención de presentar una candidatura, no una inscripción."
 
 lang: "es"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024", "Patrimonio Mundial UNESCO Malasia"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'El edificio Stadthuys holandés de color terracota intenso y su torre de reloj cuadrada en Melaka, rodeados de una rotonda ajardinada de follaje rojo y verde, con postes indicadores en primer plano bajo un cielo nublado y luminoso'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: Una estrecha calle patrimonial en George Town, Penang, bordeada de antiguas casas-tienda de dos plantas engalanadas con farolillos rojos y un cartel del Museo de Pintura de Batik, un rótulo azul de la calle Lebuh Armenian a la derecha y una calle tranquila con un paso de peatones amarillo
+    kind: actual
+    origin: third-party
+    subject: Lebuh Armenian (Calle Armenia) en el barrio patrimonial de George Town, Penang, parte del Sitio del Patrimonio Mundial de la UNESCO
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: El macizo de granito gris del monte Kinabalu en Sabah, con su cresta dentada alzándose sobre las estribaciones boscosas, con árboles verdes frondosos y una ladera cubierta de hierba en primer plano bajo un cielo azul despejado
+    kind: actual
+    origin: third-party
+    subject: El monte Kinabalu alzándose sobre el Parque de Kinabalu en Sabah, un Sitio del Patrimonio Mundial de la UNESCO
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 Pregunta cuántos sitios del Patrimonio Mundial tiene Malasia y la mayoría de las fuentes te dirán cuatro. Eso fue cierto hasta 2024. El Complejo de Cuevas de Niah se inscribió aquel julio, y el Parque Forestal del Instituto de Investigación Forestal de Malasia en Selangor le siguió en 2025, con lo que el total asciende a seis.

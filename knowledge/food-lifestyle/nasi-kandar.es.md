@@ -102,6 +102,7 @@ dishFacts:
   halal: "Como comida indomusulmana (mamak), el nasi kandar es halal: procede de la comunidad indomusulmana de Penang, los comerciantes cuyos descendientes se conocen hoy como mamak."
   eat: "Pedir es un ritual de señalar y escoger: uno se acerca al mostrador, señala lo que quiere —pollo frito, calamar, okra, huevo— y el dependiente monta el plato delante de uno, y luego inunda el arroz con una mezcla de varias salsas de curry salvo que se pida lo contrario. Tradicionalmente el arroz y las guarniciones comparten un mismo plato; muchos locales sirven ahora las guarniciones en cuencos pequeños, pero siguen inundando el propio arroz."
   where: "Penang es su hogar, en especial George Town, donde entre las casas famosas están Hameediyah, en Lebuh Campbell (que se remonta a 1907 y está reconocida como el restaurante de nasi kandar más antiguo de la isla), y Line Clear, junto a Penang Road, conocida desde hace mucho como un local abierto 24 horas. El mostrador mamak a todas horas es central para su atractivo, y el plato se ha extendido desde entonces por todo el país a través de cadenas y locales abiertos 24 horas."
+wikidata: "Q3520299"
 ---
 
 Pregunta a cualquiera en Penang dónde comer a altas horas de la noche y la respuesta

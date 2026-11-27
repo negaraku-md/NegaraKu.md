@@ -31,7 +31,7 @@ faq:
     a: "Maxis는 2023년에 체결한, 정부 연계 도매 5G 망 사업자 Digital Nasional Berhad(DNB)와의 접속 계약을 통해 고객에게 5G를 제공합니다. 2024년 11월 규제당국은 이 나라에서 계획된 두 번째 5G 망을 구축할 사업자로 Maxis가 아닌 U Mobile을 선정했습니다."
 
 lang: "ko"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ verificationNeeded:
   - "모회사 그룹의 현재 지분(Usaha Tegas 연계 지분과 Saudi Telecom Company) — 최신 Bursa Malaysia 공시와 대조하여 확인."
   - "말레이시아 두 번째 5G 망의 현황과 그 안에서 Maxis의 역할(2024년 11월 U Mobile 선정) — MCMC와의 현행 5G 정책 및 합의를 확인."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: '밤에 조명을 받은 므나라 막시스의 곡선 꼭대기, 검은 하늘을 배경으로 다층 테라스가 하얗게 빛나고 꼭대기 가까이에 파랑·초록 maxis 로고 간판과 7:57을 표시하는 붉은 디지털 시계가 붙은 모습'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: 흐린 하늘을 배경으로 아치형 꼭대기까지 곡선을 그리며 솟은 황갈색 석재와 녹색 유리의 Menara Maxis 타워, 정면 높은 곳에 maxis 로고와 디지털 시계가 보이고 아래 저층부에 Suria KLCC 로고가 있다
+    kind: actual
+    origin: third-party
+    subject: 꼭대기 근처에 maxis 로고와 시계를 단, Suria KLCC 몰 위로 솟은 Menara Maxis의 주간 전경, 쿠알라룸푸르
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: 검은 하늘을 배경으로, 저층부에 maxis 로고가 들어간 높은 조명 광고 배너가 가로질러 걸린 Menara Maxis의 가늘어지는 조명 정면을 가파르게 올려다본 야경
+    kind: actual
+    origin: third-party
+    subject: 저층 정면에 maxis 브랜드 대형 광고 배너가 걸린 Menara Maxis의 야경, 밑에서 바라본 KLCC, 쿠알라룸푸르
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 휴대전화를 가진 거의 모든 말레이시아인은 어느 시점엔가 Maxis 또는 Hotlink 고객이었던 적이 있습니다. 그 두 익숙한 브랜드 뒤에는 단 하나의 회사 — Maxis Berhad — 가 자리하는데, 이 회사는 이 나라에서 가장 큰 통신 사업자에 들며 모바일 전용 통신사에서 모바일, 가정용 브로드밴드, 기업 연결을 아우르는 융합 사업자로 성장했습니다.

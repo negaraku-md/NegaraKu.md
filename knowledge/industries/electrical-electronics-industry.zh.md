@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6d5304fd8585d336"
+sourceContentHash: "8d1fc79d1e5acb57"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: '一块绿色印刷电路板的特写，上面密布着亮橙色电容、圆柱形电解电容、黑色集成电路芯片和彩色色环电阻'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: 一只手持焊接工具和精细镊子，在布满芯片和线路的绿色印刷电路板上处理一个微小的表面贴装元件
+    kind: representative
+    origin: third-party
+    subject: 一只手用精细镊子和烙铁返修电路板上的表面贴装元件
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: 从正上方拍摄的绿色印刷电路板，板上贴装着多个标有字样的黑色集成电路芯片、存储器封装和一排排细小的表面贴装元件
+    kind: representative
+    origin: third-party
+    subject: 俯视视角下组装完整的消费电子印刷电路板
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 打开近十年内制造的几乎任何一台笔记本电脑、智能手机或汽车，其中某个部件很有可能经过了马来西亚。里面的芯片也许是在槟城完成测试与封装的；电源适配器、LED背光板或电路板则可能是在居林、马六甲或巴生谷组装的。对于一个约3,410万人口的国家（2024年，DOSM）而言，马来西亚在全球电子供应链中占据着出人意料的中心位置——而这几乎完全是一个产业的故事。

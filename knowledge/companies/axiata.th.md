@@ -31,7 +31,7 @@ faq:
     a: "มันถูกจัดตั้งขึ้นในปี 1992 ในชื่อ TM International Berhad แขนงต่างประเทศและมือถือของ Telekom Malaysia หลังจากจดทะเบียนแยกใน Bursa Malaysia มันถูกเปลี่ยนชื่อเป็น Axiata Group Berhad เมื่อวันที่ 2 เมษายน 2009"
 
 lang: "th"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ verificationNeeded:
   - "กำไรสะสมตั้งแต่ต้นปีของกลุ่ม RM403.3 ล้านสำหรับเก้าเดือนถึง 30 ก.ย. 2025 (เผยแพร่ 27 พ.ย. 2025) — ยืนยันกับผลประกอบการรายไตรมาสและรายปีถัดไป"
   - "'ลูกค้ากว่า 150 ล้านราย' อิงตัวเลขของบริษัทในปี 2019 บวกการเติบโตของตลาดที่ตามมา; ยืนยันยอดลูกค้ารวมของกลุ่มปัจจุบันกับรายงานประจำปีล่าสุด"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'ทางเข้าด้านหน้าของ Axiata Arena ในกัวลาลัมเปอร์ ด้านหน้าสีเงินเจาะรูประดับชื่อ ''axiata arena'' สีน้ำเงินปนม่วงแดงขนาดใหญ่และโลโก้ทรงสามเหลี่ยม'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: ผู้คนรวมตัวอยู่นอกทางเข้าหลักของ Axiata Arena ใต้ป้าย 'axiata arena' ขนาดยักษ์สีน้ำเงิน-บานเย็น ระหว่างการแข่งขันกีฬา
+    kind: actual
+    origin: third-party
+    subject: ฝูงชนที่ทางเข้าหลักของ Axiata Arena บูกิตจาลิล ระหว่างการจัดงาน
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: ภายใน Axiata Arena ที่แน่นขนัดระหว่างการแข่งขันแบดมินตันในซีเกมส์ 2017 ผู้ชมเต็มอัฒจันทร์สีน้ำเงินเป็นชั้นรอบสนาม
+    kind: actual
+    origin: third-party
+    subject: ภายใน Axiata Arena ระหว่างการแข่งขันแบดมินตันซีเกมส์ 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 เรื่องราวโทรคมนาคมที่ใหญ่ที่สุดของมาเลเซียไม่ใช่เครือข่ายเดียว แต่เป็นบริษัทโฮลดิงที่เป็นเจ้าของส่วนหนึ่งของผู้ให้บริการมือถือในหกประเทศ Axiata Group Berhad นั่งอยู่ในอาคารสำนักงานที่ Kuala Lumpur Sentral และควบคุม เป็นเจ้าของบางส่วน หรือดำเนินการร่วมในผู้ให้บริการที่เชื่อมต่อผู้คนหลายร้อยล้านทั่วเอเชียใต้และเอเชียตะวันออกเฉียงใต้

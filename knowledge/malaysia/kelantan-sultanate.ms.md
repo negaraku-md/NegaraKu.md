@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang ingin memahami asal usul monark
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "Tahun tepat Long Yunus menaiki takhta Kelantan diberikan secara berbeza merentasi sumber (c. 1760, 1763, 1764, dan c. 1774 kesemuanya muncul); rencana ini menggunakan '1760-an' dan harus diselaraskan dengan satu kajian sejarah khusus sebelum mana-mana tahun tunggal ditegaskan."
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'Istana kayu hitam yang berukir indah dengan tiang kuning, papan cucur terukir dan bumbung bertingkat menjulang di belakang sebuah kereta kuda antik yang diletak di halaman depan bata berbentuk bulat.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: Sebuah kediaman diraja berwarna kuning pucat anggun dari tahun 1930-an dengan beranda melengkung yang luas, tingkap berbidai dan bumbung berjubin rendah, kini menjadi Muzium DiRaja Kelantan, terletak di belakang halaman rumput di daerah diraja Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Istana Batu (Muzium DiRaja Kelantan) di Kota Bharu
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: Sebuah masjid negeri yang megah berwarna krim dan putih dengan kubah pusat yang luas, kubah kecil di penjuru dan menara menjulang tinggi, dilihat dari jalan di belakang pagar besi di bawah langit biru.
+    kind: actual
+    origin: third-party
+    subject: Masjid Muhammadi, masjid negeri Kelantan, di Kota Bharu
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 Di bahu timur laut Semenanjung Tanah Melayu, di mana sungai-sungai mengalir turun ke Laut China Selatan dan pantai itu dahulu melihat sebanyak ke arah kerajaan lama Patani seperti ke arah tanah air Melayu, satu takhta ditempa daripada perang saudara. Pengasasnya tidak dilahirkan sebagai raja. Dia seorang panglima perang berketurunan Patani yang mengatasi saingan-saingannya, dan dinasti yang dimulakannya — Wangsa Long Yunus — masih memerintah di Kelantan hari ini, lebih dua setengah abad kemudian.

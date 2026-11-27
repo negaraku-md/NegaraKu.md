@@ -29,7 +29,7 @@ faq:
     a: "عادة لا. فالمنح الكاملة مثل JPA وMARA تتطلب عادة أن يتخلى الطالب عن PTPTN للمستوى الدراسي نفسه. راجع شروط اتفاقية الجهة الراعية المعنية."
 
 lang: "ar"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["منحة JPA", "biasiswa JPA", "الرعاية الحكومية", "MARA", "مؤسسة خزانة", "Yayasan Khazanah", "PETRONAS PESP", "القرض القابل للتحويل", "pinjaman boleh ubah", "PTPTN", "المنح الدراسية الماليزية"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'مبانٍ كلّية حديثة بلونين أصفر ورمادي في حرم جامعة UiTM برمباو، وهي جامعة حكومية ماليزية، مع طلاب يسيرون على طريق الحرم.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: مبانٍ أكاديمية حديثة وساحات منسّقة في الحرم الهندسي لجامعة Universiti Sains Malaysia.
+    kind: representative
+    origin: third-party
+    subject: الحرم الهندسي لجامعة Universiti Sains Malaysia، وهي جامعة بحثية حكومية ماليزية
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: صفوف من الطلاب الخرّيجين في أثواب التخرّج والقبعات الأكاديمية يجلسون في حفل تخرّج بجامعة ماليزية.
+    kind: representative
+    origin: third-party
+    subject: خرّيجون بالأثواب في حفل تخرّج بجامعة ماليزية (DRB-HICOM University، 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 الحصول على 9A+ في امتحان SPM لا يضمن تلقائياً منحة كاملة للدراسة في الخارج — لأن الرعاية التعليمية الحكومية في ماليزيا ليست مسألة علامات فحسب، بل تتعلق أيضاً بالبرنامج الذي تتقدّم إليه، وشروط الخدمة المرتبطة به، والسياسة التي تحكم كل صندوق. إن فهم خريطة الجهات الراعية هذه أمر مهم، لأن الاختيار الخاطئ قد يعني آلاف الرينغيت التي يتعين عليك سدادها لاحقاً.

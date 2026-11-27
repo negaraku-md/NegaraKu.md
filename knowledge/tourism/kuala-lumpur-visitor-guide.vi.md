@@ -36,7 +36,7 @@ faq:
     a: "Che vai và đầu gối của bạn. Xà rông thường có sẵn để mượn hoặc thuê tại lối vào nếu trang phục của bạn quá hở hang. Giày thoải mái giúp ích cho cầu thang dài lên đền hang chính."
 
 lang: "vi"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Dành cho du khách quốc tế lần đầu muốn một kỳ lưu trú thành phố ngắn, dễ dàng, và du khách dùng Kuala Lumpur làm cơ sở trước khi đi nơi khác ở Malaysia.'
+  getThere: 'Từ Sân bay Quốc tế Kuala Lumpur (KLIA), hãy đi tàu KLIA Ekspres không dừng đến trung tâm KL Sentral, rồi kết nối tiếp bằng MRT, LRT, Monorail hoặc Grab.'
+  permit: 'Việc vào Tháp Đôi Petronas dùng vé định giờ với số lượng bị giới hạn hằng ngày, nên hãy đặt trực tuyến trước thay vì trông cậy vào việc mua tại chỗ.'
+  watch: 'Giao thông ở trung tâm thành phố nặng vào giờ cao điểm, nên tàu thường nhanh hơn xe cho các chuyến đi khắp phố.'
+  next: 'Hãy xác nhận giờ mở cửa và bán vé hiện tại cho Tháp Đôi Petronas với trang chính thức của PETRONAS Twin Towers (petronastwintowers.com.my).'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: 'Tháp đôi Petronas rọi đèn vươn lên trên trung tâm Kuala Lumpur dưới bầu trời hoàng hôn vàng'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: Tòa nhà Sultan Abdul Samad và bãi cỏ Quảng trường Merdeka rợp bóng dừa ở trung tâm Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Sultan Abdul Samad và Quảng trường Merdeka
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: Những hàng đèn lồng Trung Hoa đỏ rực treo phía trên chợ Petaling Street ở khu Chinatown của Kuala Lumpur về đêm
+    kind: actual
+    origin: third-party
+    subject: Đèn lồng đỏ ở Chinatown Petaling Street về đêm
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 Hạ cánh tại Sân bay Quốc tế Kuala Lumpur lúc bình minh và, trong vòng một giờ, bạn có thể đang đứng bên dưới hai tòa tháp bạc từng thống trị đường chân trời của thế giới — không xe thuê, không lập kế hoạch phức tạp, chỉ một chuyến tàu và một thẻ quẹt-vào. Sự dễ dàng đó là toàn bộ mấu chốt của KL: nó là cửa trước của Malaysia, một thủ đô nhỏ gọn và rẻ nơi các điểm tham quan tiêu đề nằm cách nhau một chuyến đường sắt ngắn, và là nơi gần như mọi hành trình đi tiếp trong nước bắt đầu.

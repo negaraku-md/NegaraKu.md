@@ -31,7 +31,7 @@ faq:
     a: "ผู้ผลิตสามารถทำการตลาดตรงสู่ผู้บริโภคผ่านช่องทางของ FAMA เช่น Pasar Tani Kekal, Agrobazaar, My Farm Outlet และ Gerai Buah-buahan Segar หรือเข้าร่วมโครงการต่าง ๆ เช่น Ladang Kontrak และ RANTAI รายละเอียดการเข้าร่วมยืนยันได้ที่ fama.gov.my"
 
 lang: "th"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: 'แผงที่มีหลังคาเรียงรายกันในตลาดเกษตรกรปาซาร์ตานีในปุตราจายา ประเทศมาเลเซีย'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: รถเข็นแผงลอยกองเงาะและลางสาดพูนสูง ประดับธงชาติมาเลเซีย ที่เซ็นทรัลมาร์เก็ต กัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: พ่อค้าผลไม้ริมถนนขายเงาะและลางสาดในกัวลาลัมเปอร์
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: แผงตลาดจัดแสดงหน่อไม้ฝรั่ง อะโวคาโด มะม่วง และฟักทอง ติดราคาเป็นริงกิตที่เคียฟาร์ม คาเมรอนไฮแลนด์
+    kind: actual
+    origin: third-party
+    subject: ผลผลิตสดในท้องถิ่นวางขายที่แผงตลาดเคียฟาร์ม คาเมรอนไฮแลนด์
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 เกษตรกรผู้ปลูกผักใน [คาเมรอนไฮแลนด์ส](/th/tourism/cameron-highlands-visitor-guide) อาจปลูกผลผลิตที่ดีที่สุดได้ แต่ราคาที่เขาได้รับ ณ ไร่นา มักแตกต่างจากราคาที่แผงในเมืองอย่างมาก ช่องว่างนั้นเอง — ระหว่างไร่นากับจานอาหาร — คือภารกิจของหน่วยงานตามกฎหมายแห่งหนึ่งที่ไม่ค่อยมีใครเอ่ยชื่อ แต่ผลงานของหน่วยงานนี้กลับสัมผัสได้บ่อยครั้ง

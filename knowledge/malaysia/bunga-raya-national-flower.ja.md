@@ -28,7 +28,7 @@ faq:
     a: "それは国内全域ですでに知られており、色と形が魅力的で、名称が統一されており、容易に入手でき、そして当時他のいかなる国の国花にもなっていなかったためである。"
 
 lang: "ja"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["rukun-negara"]
 keywords: ["bunga raya", "bunga kebangsaan", "hibiscus", "Hibiscus rosa-sinensis", "simbol kebangsaan Malaysia", "Rukun Negara", "Tunku Abdul Rahman"]
 framework: history-culture
+hero: '/media/malaysia/bunga-raya-national-flower/hero.webp'
+heroAlt: '鮮やかな赤いハイビスカスの花が満開で、波打つ縁の花びらと先端が黄色い中央の雄しべの柱を持ち、つややかな緑の葉を背景にしている。'
+heroCredit: 'Brahmavadini / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: 深紅のハイビスカスの花を斜めから見たところ。ひだのある花びらが、下向きに弧を描く長い赤いずい柱を縁取り、その先端は鮮やかな黄色の花粉と赤い柱頭の裂片で彩られ、柔らかな緑の葉を背にしている。
+    kind: actual
+    origin: third-party
+    subject: 赤いブンガ・ラヤ（ハイビスカス、Hibiscus rosa-sinensis）、マレーシアの国花で、長い雄しべの柱（ずい柱）が見える
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: 鮮やかな赤いハイビスカスが、マレーシアの村の庭の葉の茂った低木に咲き、長いピンクがかった赤のずい柱が垂れ下がっている。背景にはココヤシと日の当たる開けた芝生が広がる。
+    kind: actual
+    origin: third-party
+    subject: マレーシアの村の庭の低木に咲く赤いブンガ・ラヤ（ハイビスカス、Hibiscus rosa-sinensis）
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 独立したばかりの国を代表すべく、かつて七種類の花が競い合った——そして勝ったのは、もっとも香り高い花でも、もっとも希少な花でもなく、あらゆる町や村でもっともよく知られていた花だった。それがハイビスカス（Bunga Raya）である。

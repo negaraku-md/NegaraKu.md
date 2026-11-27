@@ -4,7 +4,7 @@ title: "Hidangan Kebangsaan Malaysia: Nasi Lemak, Roti Canai, Char Kuey Teow & L
 seoTitle: "Hidangan Kebangsaan Malaysia — Nasi Lemak, Roti Canai, Laksa"
 slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: 'Sajian nasi lemak di atas daun pisang dengan sambal, ikan bilis goreng, kacang tanah sangrai, mentimun, dan telur rebus'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

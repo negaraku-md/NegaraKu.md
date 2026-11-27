@@ -42,7 +42,7 @@ verificationNeeded:
   - "الجهة المديرة ومسار الطلب لحافز العامل المعرفي في JS-SEZ غير مذكورين في دليل MIDA — إذ يُدرجه Appendix B من الملخص تحت حوافز أخرى دون تسمية مسار. تأكّد مع MIDA أو IRDA قبل تقديم المشورة."
 
 lang: "ar"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ keywords:
   - "طلب MIDA لـ JS-SEZ"
   - "JS-SEZ tax incentive"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'برج مكاتب شركات أنيق من الزجاج الداكن في ميديني، إسكندر بوتيري، يرتفع فوق ممشى حديقة منسّقة تحت سماء صافية'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: منظر جوي لـ Forest City في جوهور يُظهر أبراجًا عالية على الواجهة البحرية قيد الإنشاء وصفوفًا من كتل الفلل البيضاء على طول شاطئ مستصلح بجوار المضيق
+    kind: actual
+    origin: third-party
+    subject: Forest City، المشروع الرائد العابر للحدود في جوهور على مضيق جوهور، بأبراج وكتل فلل قيد الإنشاء مطلّة على الماء باتجاه سنغافورة
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: لافتة معلم كبيرة على جانب الطريق مكتوب عليها 'Iskandar Puteri' على دوّار منسّق، مع أبراج مكاتب وتجارية ورافعات بناء على الأفق خلفها
+    kind: actual
+    origin: third-party
+    subject: لافتة معلم بوابة Iskandar Puteri مع أبراج المنطقة التجارية والرافعات ترتفع على الأفق خلفها
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 كل ملخص للمنطقة الاقتصادية الخاصة جوهور-سنغافورة يبدأ بالرقم نفسه: 5 بالمئة لمدة 15 سنة. وهو

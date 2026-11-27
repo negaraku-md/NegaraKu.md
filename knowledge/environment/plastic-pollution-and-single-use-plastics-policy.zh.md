@@ -29,7 +29,7 @@ faq:
     a: "其中包括2025年前塑料包装回收率达25%，2030年前收集回收平均率（CFR）达76%，以及2030年前回收成分平均含量达15%。100%回收率的目标则定于2050年前实现。"
 
 lang: "zh"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: '被丢弃的塑料瓶和其他垃圾散落在海边沙滩上。'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: 塑料垃圾与海洋废弃物沿着海滩潮线堆积
+    kind: representative
+    origin: third-party
+    subject: 冲上海滩的海洋塑料垃圾(示意)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: 用过的塑料瓶在一处回收点收集,待送往回收处理
+    kind: representative
+    origin: third-party
+    subject: 供回收的塑料瓶收集点(示意)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 结账柜台的薄塑料袋通常只用一小会儿，但却可能在环境中残留很长时间。为了应对这个问题，马来西亚没有选择立即全面禁止——而是采取一条分阶段的路线图，从小额收费逐步过渡到更广泛的禁止。

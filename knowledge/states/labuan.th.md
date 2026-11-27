@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้ก่อตั้ง ที่ปรึกษาภาษี และทีมการเงินที่กำลังประเมินโครงสร้างลาบวน และผู้อ่านที่ต้องการเข้าใจว่าเหตุใดลาบวนจึงได้รับการปฏิบัติแตกต่างจากส่วนอื่นของมาเลเซีย"
 
 lang: "th"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,9 +67,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'อาคารกระจกสีน้ำเงินและเงินทรงโค้งทันสมัยของคอมเพล็กซ์ Financial Park Labuan ตั้งตระหง่านเหนือต้นปาล์มใต้ท้องฟ้าสดใส'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: หอคอยอิฐแดงสูง The Chimney แห่งลาบวน (Labuan) ตั้งตระหง่านตัดกับท้องฟ้าสีน้ำเงินเข้ม พร้อมต้นมะพร้าวและสนามหญ้าสีเขียวรอบฐาน
+    kind: actual
+    origin: third-party
+    subject: The Chimney จุดสังเกตอิฐแดงสูงสมัยอาณานิคมของลาบวน ตั้งอยู่บนสนามหญ้าข้างต้นมะพร้าว
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: ท่าเทียบเรือและอาคารริมน้ำของเมืองลาบวนมองจากท่าเรือ พร้อมเรือและเส้นขอบฟ้าของเกาะใต้ท้องฟ้าสีฟ้าที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: ท่าเทียบเรือเฟอร์รีและเมืองริมน้ำของลาบวนมองข้ามท่าเรือจากทะเล
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 บริษัทสองแห่ง เจ้าของเดียวกัน ลูกค้าเดียวกัน แห่งหนึ่งจดทะเบียนในกัวลาลัมเปอร์ (Kuala Lumpur) และเสียภาษีนิติบุคคลภายใต้ Income Tax Act 1967 อีกแห่งจดทะเบียนบนเกาะที่อยู่ห่างจากชายฝั่งซาบาห์ 10 กิโลเมตร และถูกเก็บภาษีในอัตรา 3% ภายใต้พระราชบัญญัติของรัฐสภาที่แตกต่างกันโดยสิ้นเชิง

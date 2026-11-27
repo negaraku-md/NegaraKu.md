@@ -28,7 +28,7 @@ faq:
     a: "CCC पुष्टि करता है कि घर स्वीकृत योजनाओं के अनुसार बना है और रहने के लिए सुरक्षित है। CCC के बिना, भवन आधिकारिक रूप से रहने योग्य नहीं है और उपयोगिता आपूर्ति प्रभावित हो सकती है।"
 
 lang: "hi"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "पूर्णता एवं अनुपालन प्रमाणपत्र", "घर का नवीनीकरण", "PBT स्वीकृति", "Akta 133", "नवीनीकरण परमिट", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'मलेशिया के सेलांगोर में नवीनीकरण के अधीन एक दोमंज़िला कतारबद्ध मकान का भीतरी भाग, जिसके दरवाज़े से पड़ोसी मकान दिखाई देता है।'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: एक मलेशियाई टैरेस-मकान के नवीनीकरण के दौरान सीमेंट से पलस्तर की गई दीवारें, जिनमें नई बनी खिड़की की खुली जगहें और निर्माण सामग्री के बोरे हैं
+    kind: representative
+    origin: third-party
+    subject: सेलांगोर में एक टैरेस-मकान के नवीनीकरण के दौरान ताज़ा प्लास्टर की गई दीवारें और नई खिड़की की खुली जगहें
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: नवीनीकरण के दौर से गुज़र रहे एक मलेशियाई टैरेस मकान के बाहर लकड़ी के कटे टुकड़ों और निर्माण मलबे से भरा एक धातु का स्किप
+    kind: representative
+    origin: third-party
+    subject: सेलांगोर में एक टैरेस-मकान के नवीनीकरण स्थल पर निर्माण मलबे से भरा एक स्किप
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 आप घर के पीछे एक रसोई जोड़ना चाहते हैं या ऊपरी मंज़िल बनाना चाहते हैं — और अचानक कोई पड़ोसी कहता है "आपको पहले परिषद में आवेदन करना होगा"। क्या यह सच है? अधिकांश नवीनीकरण कार्य के लिए, हाँ।

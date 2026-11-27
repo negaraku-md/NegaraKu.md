@@ -37,7 +37,7 @@ faq:
     a: "การจ่ายเงินจากรัฐบาลสหพันธรัฐแก่ตรังกานูและกลันตันที่เกี่ยวกับรายได้ปิโตรเลียม แถลงการณ์ของกระทรวงการคลังยืนยันว่าวังอิห์ซาน (Wang Ihsan) ไม่ใช่การให้ของรัฐบาลสหพันธรัฐที่บัญญัติไว้ในกฎหมาย กล่าวคือไม่ใช่สิทธิที่กำหนดโดยกฎหมาย"
 
 lang: "th"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'มัสยิดคริสตัลโดมสีเงินและทองที่มีหอมินาเรตเรียวเล็กจำนวนมากและซุ้มประตูต้อนรับสีขาวใต้ท้องฟ้าสีฟ้าในกัวลาตรังกานู'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: มัสยิดเติงกูเติงะฮ์ซาฮาราห์ดูเหมือนลอยอยู่บนทะเลสาบอีบัยใกล้กัวลาตรังกานูในรัฐตรังกานู
+    kind: actual
+    origin: third-party
+    subject: มัสยิดลอยน้ำเติงกูเติงะฮ์ซาฮาราห์ กัวลาตรังกานู รัฐตรังกานู
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: น้ำทะเลสีเทอร์ควอยซ์ใสซัดเข้าหาดทรายขาวที่ขนาบด้วยป่าบนเกาะเริดังนอกชายฝั่งรัฐตรังกานู
+    kind: actual
+    origin: third-party
+    subject: หาดเกาะเริดัง รัฐตรังกานู
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 สองสิ่งที่มีชื่อเสียงที่สุดเกี่ยวกับตรังกานูตั้งอยู่ห่างกันราว 60 กิโลเมตร และทั้งสองสิ่งมองเห็นได้ยาก

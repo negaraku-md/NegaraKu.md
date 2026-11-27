@@ -30,7 +30,7 @@ faq:
     a: "ไม่ Act 852 ห้ามการขายผลิตภัณฑ์ยาสูบและบุหรี่ไฟฟ้าทั้งหมดผ่านแพลตฟอร์มออนไลน์และตู้จำหน่ายอัตโนมัติ"
 
 lang: "th"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'ป้ายห้ามสูบบุหรี่ในมาเลเซียเขียนเป็นภาษามลายู จีน และอังกฤษ (Dilarang Merokok / No Smoking)'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: ป้ายห้ามสูบบุหรี่ติดอยู่บนผนังภายในร้านอาหารในยะโฮร์บาห์รูประเทศมาเลเซียแสดงว่าเป็นสถานที่ปลอดบุหรี่
+    kind: actual
+    origin: third-party
+    subject: ป้ายประกาศห้ามสูบบุหรี่ที่แสดงในร้านอาหารในยะโฮร์บาห์รูประเทศมาเลเซีย
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: ภาพระยะใกล้ของมือที่ถือบุหรี่ไฟฟ้า(เวป)ใกล้ปากของบุคคลแสดงการใช้บุหรี่ไฟฟ้าที่อยู่ภายใต้การกำกับดูแลของกฎหมาย
+    kind: representative
+    origin: third-party
+    subject: บุคคลถืออุปกรณ์บุหรี่ไฟฟ้า(เวป)
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 เป็นครั้งแรก ที่บุหรี่หนึ่งมวนและอุปกรณ์บุหรี่ไฟฟ้าหนึ่งเครื่องอยู่ภายใต้กฎหมายเดียวกันในมาเลเซีย — และการห้ามขายให้แก่เยาวชนไม่ใช่เพียงนโยบายอีกต่อไป แต่เป็นความผิดที่สามารถถูกปรับได้หลายพันริงกิต

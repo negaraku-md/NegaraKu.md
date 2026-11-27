@@ -35,7 +35,7 @@ faq:
     a: "เป็นเทศกาลที่แยกกันแต่มีธีมร่วมกัน กาไวดายักคือเทศกาลเก็บเกี่ยวของชาวดายักแห่งซาราวัก จัดในวันที่ 1 และ 2 มิถุนายน ส่วนกามาตัน (Kaamatan) คือเทศกาลเก็บเกี่ยวของชาวกาดาซันดูซุนแห่งซาบาห์ จัดในวันที่ 30 และ 31 พฤษภาคม ทั้งสองขอบคุณสำหรับการเก็บเกี่ยวข้าว แต่ชุมชน พิธีกรรม และวันที่ต่างกัน"
 
 lang: "th"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "ทุกปีในวันที่ 1 และ 2 มิถุนายน การเฉลิมฉลองเริ่มต้นในเย็นวันที่ 31 พฤษภาคม และช่วงเทศกาล Gawai ที่กว้างขวางกว่านั้นปิดฉากอย่างเป็นทางการด้วยพิธี ngiling tikai ('การม้วนเสื่อ') ในช่วงปลายเดือนมิถุนายน"
   holiday: "เป็นวันหยุดราชการในรัฐซาราวัก (ประกาศในราชกิจจานุเบกษาเมื่อวันที่ 25 กันยายน 1964)"
   etiquette: "ประตูบ้านยาวถูกเปิดกว้าง — การต้อนรับครอบครัว เพื่อนบ้าน และแขกที่มาเยือนเป็นส่วนหนึ่งของเทศกาล คำทักทายที่ใช้กันทั่วไปคือ 'Gayu Guru, Gerai Nyamai' (อายุยืน สุขภาพดี รุ่งเรือง) หรือ 'Selamat Hari Gawai' นี่เป็นการปฏิบัติของครอบครัวและบ้านยาวเป็นอันดับแรก ไม่ใช่การแสดงเพื่อนักท่องเที่ยว"
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'นักเต้นนักรบอิบันในเครื่องประดับศีรษะขนนกเงือกและเสื้อกั๊กขนสัตว์ กำลังรำงาจัตบนเวทีที่มีฉากหลังจิตรกรรมฝาผนังดายัคแบบดั้งเดิม'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: นักแสดงชาวอีบันและโอรังอูลูในเครื่องประดับศีรษะเงิน ลูกปัด และมงกุฎขนนกอันวิจิตร ในขบวนแห่เทศกาลกาไวดายักที่เมืองกูชิง รัฐซาราวัก
+    kind: actual
+    origin: third-party
+    subject: นักแสดงชาวดายักในชุดเต็มยศในขบวนแห่เทศกาลกาไวดายักที่เมืองกูชิง
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: ระเบียงไม้ส่วนรวมยาว (รูไอ) ภายในบ้านยาวของชาวอีบันในรัฐซาราวัก สถานที่เฉลิมฉลองเทศกาลกาไวดายัก
+    kind: actual
+    origin: third-party
+    subject: ระเบียงส่วนรวมของบ้านยาวชาวอีบันในรัฐซาราวัก
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 นาฬิกายังไม่ตีเที่ยงคืนของวันสุดท้ายของเดือนพฤษภาคม และในบ้านยาวแห่งหนึ่งริมแม่น้ำในซาราวัก ฆ้องกำลังรออยู่ ข้าวเก็บเกี่ยวเสร็จแล้ว ระเบียงถูกกวาดและแขวนด้วยเสื่อใหม่ ไหตูวะก์ตั้งพร้อม เมื่อฆ้องดังขึ้นในที่สุด หัวหน้าบ้านยาวจะยกถ้วยขึ้น และทุกคนตลอดระเบียงส่วนกลางยาวจะดื่มให้แก่คำสามคำเดียวกัน กล่าวคือ อายุยืน สุขภาพดี ความเจริญรุ่งเรือง

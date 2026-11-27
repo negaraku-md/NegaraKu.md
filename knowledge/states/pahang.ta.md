@@ -41,7 +41,7 @@ verificationNeeded:
   - "மாநில சுற்றுலா போர்ட்டல் 35,960 சதுர கி.மீ. பரப்பளவைக் குறிப்பிடுகிறது; மாநில அரசு போர்ட்டல் 35,965 சதுர கி.மீ. எனக் குறிப்பிடுகிறது; ஒற்றை அதிகாரப்பூர்வ எண்ணை Pejabat Setiausaha Kerajaan Pahang-உடன் உறுதிப்படுத்தவும்."
 
 lang: "ta"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,32 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'மேகமூட்டமான வானத்தின் கீழ் காடுகள் நிறைந்த மலைகளுக்கு இடையே நெளிந்து செல்லும் கேமரன் ஹைலேண்ட்ஸ் தோட்டத்தின் பசுமையான தேயிலைச் செடி படிநிலைகள்.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: பகாங்கின் கடற்கரையில் குவாந்தனுக்கு அருகில் உள்ள தெலுக் செம்பேடாக்கில், காட்டை பின்னணியாகக் கொண்ட மணல் விரிகுடாவின் கரு நிற பாறைகள் மீது அலைகள் மோதுகின்றன.
+    kind: actual
+    origin: third-party
+    subject: தெலுக் செம்பேடாக் கடற்கரை, குவாந்தன், பகாங்
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: பகாங்கின் தாமரை நிறைந்த ஏரியும் யுனெஸ்கோ உயிர்க்கோளக் காப்பகமுமான தாசிக் சினியில், காடுகள் நிறைந்த குன்றுகளுக்கு இடையே அமைதியான நன்னீர் பரவியுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: தாசிக் சினி (சினி ஏரி), பகாங்
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 பகாங் (Pahang) மலேசிய தீபகற்பத்தின் நிலப்பரப்பில் கால் பங்குக்கும் மேலானதை

@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar adalah program persiapan pra-universitas UKM untuk murid pintar berbakat, ditawarkan dalam tiga jalur yaitu Perdana, Komersial, dan Antarabangsa."
 
 lang: "id"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'Tangga luar dan pintu masuk sebuah bangunan bertuliskan "PUSAT SUMBER PERMATAPINTAR", pusat sumber program pendidikan anak berbakat kebangsaan Malaysia.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: Para siswa duduk di deretan komputer desktop saat pelajaran berlangsung di laboratorium komputer sebuah sekolah menengah di Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Siswa bekerja di laboratorium komputer sebuah sekolah di Malaysia
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: Sebuah laboratorium riset universitas di UTM, Johor yang dilengkapi kendaraan dan peralatan, jenis fasilitas canggih yang menantang pelajar berkemampuan tinggi.
+    kind: representative
+    origin: third-party
+    subject: Laboratorium teknik canggih di Universiti Teknologi Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 Seorang anak berusia 10 tahun yang menyelesaikan matematika tingkatan lima tidak selalu menonjol di dalam kelas biasa — dan di Malaysia, satu-satunya pusat nasional yang dirancang untuk mencari dan mengasah pikiran seperti ini adalah PERMATApintar.

@@ -31,7 +31,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09b2906afbab7e08"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,11 +86,29 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'Loket pelayanan kantor cabang Jabatan Pengangkutan Jalan (JPJ), dengan lambang JPJ dan papan nama ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' di atas aula loket berdinding kaca'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: Rambu jalan Malaysia berwarna hijau bertuliskan 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' dengan huruf kuning dan simbol jembatan timbang 'Timbang' berupa truk biru, menunjuk ke pos penegakan JPJ
+    kind: actual
+    origin: third-party
+    subject: Rambu penunjuk arah pos penegakan JPJ bertuliskan 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' dengan simbol truk-jembatan timbang
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 Kebanyakan orang berjumpa dengan **Jabatan Pengangkutan Jalan** pada satu momen saja — memperbarui pajak jalan, mengikuti ujian mengemudi, atau mengalihkan mobil bekas. Tetapi JPJ adalah jabatan yang berdiri di balik setiap transaksi itu. **Jabatan Pengangkutan Jalan** (**JPJ**) adalah instansi di bawah **Kementerian Pengangkutan (MOT)** Malaysia. Ia mendaftarkan kendaraan bermotor dan pengemudi, menerbitkan SIM, pajak jalan, dan pelat nomor, memberi lisensi kendaraan niaga, serta menegakkan undang-undang yang mengatur bagaimana kendaraan dan pengemudi menggunakan jalan umum.

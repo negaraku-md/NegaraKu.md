@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Minuman soya bean berasaskan tumbuhan dan tidak beralkohol — kacang soya, air dan gula — dan secara semula jadi tanpa tenusu, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidang panas atau di atas ais, sedikit manis. Padanan lazim: dengan tau foo fah (puding tauhu lembut) sebagai set pencuci mulut, atau dituang di atas agar rumput hitam sebagai 'soya cincau' (si 'Michael Jackson'). Versi gaya Pulau Pinang bersandar pada pandan dan gula perang; kafe soya moden menawarkan varian kacang hitam, bijan hitam dan kacang merah."
   where: "Terdapat di gerai kopitiam, pusat jaja, pasar malam dan kedai soya khusus di seluruh negara — selalunya daripada gerai yang menjual hanya susu soya dan tau foo fah — serta berbotol di pasar raya."
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Segelas tinggi air soya pucat dengan kacang soya di sebelahnya"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 Di beribu-ribu kedai kopi Malaysia, sebuah gerai tunggal hanya mengerjakan soya: sebuah

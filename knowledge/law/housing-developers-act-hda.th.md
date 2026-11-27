@@ -97,9 +97,10 @@ relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "explained-in", to: "tribunal-tuntutan-pembeli-rumah" }
   - { rel: "related-to", to: "strata-titles-act-1985" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
 framework: rules
+wikidata: "Q142235984"
 ---
 
 คุณจ่ายเงินดาวน์ 10% สำหรับคอนโดมิเนียมที่มีอยู่เพียงในรูปภาพวาดของสถาปนิก แล้วรอสามปีพร้อมกับผ่อนชำระเงินกู้ อะไรที่ขัดขวางผู้พัฒนาไม่ให้หนีไปพร้อมเงินของคุณ สร้างล่าช้า หรือส่งมอบหน่วยที่ชำรุด? คำตอบคือกฎหมายฉบับหนึ่งที่มีอายุมากกว่าครึ่งศตวรรษ: พระราชบัญญัติการพัฒนาที่อยู่อาศัย (การควบคุมและการออกใบอนุญาต) 1966 — เรียกสั้น ๆ ว่า HDA หรือ Akta 118

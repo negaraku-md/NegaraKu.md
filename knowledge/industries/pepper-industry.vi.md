@@ -32,7 +32,7 @@ faq:
   - q: Những thách thức chính mà ngành đối mặt là gì?
     a: Ngành phải đối mặt với dân số nông dân già hóa, giá toàn cầu biến động, căng thẳng khí hậu và cạnh tranh khốc liệt từ các nước sản xuất lớn hơn như Việt Nam, Indonesia và Ấn Độ. Mức cơ giới hóa thấp và sự phụ thuộc vào xuất khẩu hạt thô giữ cho biên lợi nhuận mỏng, đó là lý do chính sách hiện nay nhấn mạnh tái canh, công nghệ và chế biến hạ nguồn.
 lang: vi
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Những hàng dây hồ tiêu đen leo lên các cọc gỗ trong một đồn điền ở Sarawak, bang trồng tiêu chính của Malaysia.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: Cận cảnh một cây tiêu với nhiều gié rủ xuống dày đặc những hạt tiêu xanh tròn, được bao quanh bởi những chiếc lá lớn xanh đậm bóng, với phông nền trang trại xanh mờ phía xa
+    kind: actual
+    origin: third-party
+    subject: những chùm hạt tiêu xanh đang chín treo thành các gié dài trên một cây tiêu đen tại một trang trại tiêu ở Sarawak, trái tim của ngành hồ tiêu Malaysia
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: Một sân thượng quét vôi trắng viền bởi lan can thấp, trên đó bày nhiều khay lưới vuông đựng hạt tiêu sẫm màu đang phơi khô, phía sau là cây chuối, cây dừa và những ngọn đồi rừng vươn lên dưới bầu trời xanh
+    kind: representative
+    origin: third-party
+    subject: những hạt tiêu đã thu hoạch được trải ra phơi nắng trên các khay lưới trên sân thượng, công đoạn phơi khô biến quả xanh thành hạt tiêu đen
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 Hồ tiêu là một trong những loại hàng hóa nông nghiệp lâu đời nhất và đặc trưng về mặt địa lý nhất của Malaysia: một dây leo được nhập từ tiểu lục địa Ấn Độ và Sumatra, đã tìm thấy nơi lý tưởng của mình trên những ngọn đồi ẩm ướt, thoát nước tốt của Sarawak, nơi nó trở thành xương sống của hàng nghìn nông hộ nhỏ ở nông thôn. Dù Malaysia là một nước có quy mô khiêm tốn về sản lượng toàn cầu, nước này vượt tầm vóc về danh tiếng, bán "Hồ tiêu Sarawak" cao cấp, được chứng nhận nguồn gốc, vào các thị trường sành sỏi. Bài viết này phác họa cấu trúc, địa lý, thương mại và triển vọng của ngành với tư cách là một ngành công nghiệp độc lập.

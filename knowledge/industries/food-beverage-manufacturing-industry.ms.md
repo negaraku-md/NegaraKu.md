@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana pembuatan makanan dikawal selia di Malaysia?
     a: Keselamatan dan pelabelan makanan dikawal oleh Akta Makanan 1983 dan peraturan subsidiarinya (seperti Peraturan-Peraturan Makanan 1985 dan Peraturan-Peraturan Kebersihan Makanan 2009), ditadbir oleh Kementerian Kesihatan. Tuntutan halal pula dikawal secara berasingan oleh Jabatan Kemajuan Islam Malaysia (JAKIM), yang mengeluarkan pensijilan halal rasmi.
 lang: ms
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ keywords:
   - Akta Makanan 1983
   - insentif makanan MIDA
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Beribu-ribu botol kaca hijau bergerak di sepanjang penghantar keluli tahan karat berliku pada barisan pembotolan kilang bir'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: Pandangan dari atas sebuah loji pembotolan minuman dengan beberapa barisan penghantar dan jentera pembungkusan
+    kind: representative
+    origin: third-party
+    subject: Pandangan dari atas penghantar dan jentera pembungkusan di sebuah loji pembotolan kilang wain berhampiran Geyserville, California
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: Beberapa silo bijirin silinder besar dan bangunan penyimpanan sebuah loji pemprosesan makanan dan logistik di tepi landasan kereta api
+    kind: representative
+    origin: third-party
+    subject: Silo besar dan dewan penyimpanan sebuah loji pemprosesan dan logistik bijirin makanan di Bandel, India
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 Hampir semua orang di Malaysia menyentuh industri ini beberapa kali sehari — secawan Milo waktu sarapan, sebungkus mi segera waktu makan tengah hari, sebotol air mineral pada waktu petang, sebuku coklat yang dibuat daripada koko yang dikisar di Johor. Pembuatan makanan & minuman (F&B) ialah salah satu industri besar Malaysia yang paling senyap: kurang menarik berbanding semikonduktor, tetapi terjalin dalam kehidupan harian, keselamatan makanan negara dan kisah eksport yang berkembang berpaksikan satu idea yang hebat — halal.

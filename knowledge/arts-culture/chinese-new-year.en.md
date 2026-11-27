@@ -34,7 +34,7 @@ faq:
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -76,6 +76,34 @@ festivalFacts:
   when: "The first day of the first month of the lunar calendar; the corresponding Gregorian date shifts each year with the lunar calendar and is determined by the official government gazette."
   holiday: "The first two days of the Lunar New Year are a nationwide public holiday, with the legal basis being the Holidays Act 1951 (Act 369) and the respective state gazettes."
   etiquette: "The cross-communal open house (rumah terbuka) lets friends and relatives of different ethnicities call on one another to extend New Year greetings; gifts brought when visiting and the ang pow given are usually in even, auspicious numbers, and numbers containing \"four\" are generally avoided."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Hundreds of red-and-gold lanterns strung in radiating lines beneath the ornate roofs of Thean Hou Temple in Kuala Lumpur against a clear blue sky during Chinese New Year'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: Kek Lok Si Temple in Penang glowing with thousands of coloured fairy lights and red lanterns at night during the Chinese New Year illuminations
+    kind: actual
+    origin: third-party
+    subject: Kek Lok Si Temple in Penang illuminated for Chinese New Year
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: A white and silver lion dance costume balanced atop poles performing outside shophouses in Kuala Lumpur's Chinatown during Chinese New Year
+    kind: actual
+    origin: third-party
+    subject: Lion dance performed on poles in Kuala Lumpur's Chinatown during Chinese New Year
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 On New Year's Eve, many shops close early and the highways fill with cars heading toward hometowns. By evening, the family gathers around one table — fish on it (for "surplus every year"), a whole chicken, meatballs symbolising reunion, and a cold tossed yee sang dish meant to be lifted high with chopsticks. This New Year's Eve reunion dinner is regarded by many Malaysian Chinese families as more important than the first day of the new year itself.

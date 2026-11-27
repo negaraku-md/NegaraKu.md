@@ -32,7 +32,7 @@ faq:
   - q: "Adakah perkahwinan wajib menggunakan warna merah dan hari baik? Apakah pantang larangnya?"
     a: "Warna merah dan aksara 'ganda bahagia' (囍) ialah warna dan lambang perayaan yang paling mewakili perkahwinan Cina, kelihatan pada kad jemputan, hantaran, katil pengantin dan hiasan; 'hari baik' juga biasanya dipilih untuk majlis. Perkara yang lazim diambil kira termasuk mengutamakan nombor genap untuk duit dan hadiah, mengelakkan nombor yang sebutannya tidak bertuah, serta wanita hamil atau mereka yang berkabung menjauhi peringkat tertentu. Namun, sejauh mana ia dipatuhi berbeza mengikut kepercayaan keluarga dan kumpulan dialek, dan banyak keluarga hanya mengekalkan sebahagian dan meringkaskan selebihnya."
 lang: "ms"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'Pentas perkahwinan Cina Malaysia tradisional berhias merah, sehelai sepanduk potongan kertas ''double happiness'' merah besar tergantung di atas altar leluhur yang dihidang dengan nanas, oren, epal dan lilin naga, dua kerusi kayu gelap berukir diletak di hadapan untuk upacara minum teh, nama pasangan dalam aksara merah jambu di kedua-dua belah'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: Set teh perkahwinan Cina merah berkilat di atas dulang merah, sebuah teko dihias aksara emas shuangxi (gembira berganda) dan lima cawan teh merah kecil yang sepadan disusun mengelilinginya, digunakan oleh pasangan pengantin untuk menghidangkan teh kepada orang tua mereka
+    kind: representative
+    origin: third-party
+    subject: sebuah teko dan cawan merah dan emas bermotif gembira berganda yang digunakan dalam upacara teh perkahwinan Cina
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: Sebuah bakul siah hadiah perkahwinan hitam berlakuer bertingkat yang tinggi dihias halus dengan figura emas, bunga, burung dan ikan pada setiap tingkat, digunakan untuk membawa hadiah pertunangan yang bersimbolik antara kedua-dua keluarga, dipamerkan di dalam almari kaca muzium
+    kind: representative
+    origin: third-party
+    subject: sebuah bakul siah, iaitu bakul berlakuer bertingkat yang digunakan untuk membawa hadiah pertunangan antara keluarga dalam perkahwinan Cina Peranakan
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 Sebelum fajar menyingsing sepenuhnya, serombongan kereta sudah berhenti di hadapan rumah pihak perempuan. Pengantin lelaki mendukung sejambak bunga, diikuti beberapa orang "saudara lelaki", namun dihalang oleh beberapa "kakak" yang menjenguk dari pintu: mula-mula jawab soalan, kemudian nyanyi sebait lagu, makan beberapa keping limau yang dihiris nipis, dan akhirnya menyeluk beberapa angpau melalui celah pintu — hanya setelah dugaan "menyerbu pintu" (chuang men) ini dilepasi, barulah pintu dibuka dan pengantin lelaki dapat melihat pengantin perempuan yang berpakaian serba merah. Pagi yang penuh jenaka dan kemeriahan sebegini ialah pembukaan hari perkahwinan bagi banyak majlis Cina di Malaysia.

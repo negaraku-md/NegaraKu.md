@@ -19,7 +19,7 @@ keyTakeaways:
   - "تفصل بحرُ الصين الجنوبي شبهَ جزيرة ماليزيا عن بورنيو (صباح وساراواك)، ويحتضن كلٌّ منهما تجمّعات متمايزة من الأنواع، إذ تحوز بورنيو الحصّة الأكبر من غابات المستنقعات الخثّية وغابات المانغروف في البلاد."
 appliesTo: "وطني"
 lang: "ar"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ keywords:
   - "MetMalaysia"
   - "MyBIS"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: 'بساط شاسع من مظلّة الغابة المطيرة الخضراء الوارفة يغطّي تلالًا متموّجة تذوب في سلاسل زرقاء ضبابية في البعيد، تحت سماء شاحبة ملبّدة بالغيوم.'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: إنسان غاب بورنيو صغير بلون برتقالي صدئ يتدلى بذراع واحدة من حبل ممدود بين الأشجار، ممسكًا الحبل بيده الأخرى، أمام خلفية من أوراق الغابة المطيرة الخضراء الكثيفة.
+    kind: actual
+    origin: third-party
+    subject: إنسان غاب بورنيو صغير (Pongo pygmaeus)، قرد عظيم لا يوجد إلا في غابات بورنيو المطيرة
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: زهرة رافليسيا مفتوحة بالكامل ترقد على أرضية الغابة المغطاة بأوراق الشجر المتساقطة، فصوصها الخمسة السميكة البنية المحمرّة مغطاة ببقع شاحبة شبيهة بالثآليل تحيط بكأس مركزية عميقة مفتوحة.
+    kind: actual
+    origin: third-party
+    subject: زهرة رافليسيا متفتحة بالكامل على أرضية الغابة في صباح، إحدى أكبر الزهور في العالم ونبات طفيلي في غابة بورنيو المطيرة
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # لماذا تُعَدّ ماليزيا واحدةً من أكثر بلدان العالم تنوّعاً حيوياً

@@ -29,7 +29,7 @@ faq:
     a: "2023 年 2 月提呈国会的总审计长报告披露，300 万名疫苗接种者的个人信息在 2021 年 10 月 28 至 31 日期间，通过 MyVAS 系统的一个「Super Admin」超级管理员账户被下载。"
 
 lang: "zh"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,35 @@ wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'
+heroAlt: '马来西亚一家商店内印制的 MySejahtera 签到二维码告示，是马来西亚数字健康平台的一部分。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: 一个人手持一部智能手机，屏幕显示着应用商店中一列健康与医疗应用，展示手机上的消费者数字健康工具
+    kind: representative
+    origin: third-party
+    subject: 一只手拿着一部智能手机，屏幕显示一列个人健康应用
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: 一名临床医师坐在工作站前，几块屏幕分别显示心电图波形、超声图像和视频画面，代表医院的数字健康记录与IT系统
+    kind: representative
+    origin: third-party
+    subject: 一名临床医师在多屏医疗IT工作站前查看数字患者数据
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 疫情缓和后，许多人把 MySejahtera 从手机里删掉了——但这款应用并没有消失，它只是换了一份工作。

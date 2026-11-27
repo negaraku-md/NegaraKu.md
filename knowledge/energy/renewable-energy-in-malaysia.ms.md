@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -109,9 +109,35 @@ sources:
     publisher: "Sustainable Energy Development Authority (SEDA)"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'Susunan fotovolta solar terapung di sisi laluan pejalan kaki berbumbung di tasik kampus di Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: Barisan panjang panel fotovolta suria biru gelap di atas rangka logam rendah merentasi padang berumput yang diteroka, berpagar dan terbentang ke arah barisan pokok yang jauh di bawah langit biru cerah berawan berselerak
+    kind: actual
+    origin: third-party
+    subject: Sebuah ladang fotovolta suria dipasang di tanah di Sungai-Sungai, Sabah, menjana elektrik untuk grid luar bandar
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: Sebuah empangan melengkung menahan takungan hijau di antara bukit berhutan, dengan saluran limpah dan struktur pengambilan di mukanya serta hutan tropika tebal menyelubungi lereng di sekeliling
+    kind: actual
+    origin: third-party
+    subject: Empangan dan takungan hidroelektrik Pergau di Kelantan, sebuah skim hidrokuasa boleh baharu di Semenanjung Malaysia
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 Jika anda pernah cuba membaca tentang tenaga boleh diperbaharui (RE) di Malaysia, anda mungkin telah bertemu tiga angka sasaran yang berbeza — 31%, 40% dan 70% — dan sebaris tembok akronim: FiT, NEM, LSS, CGPP, CRESS, SELCO. Tiada satu pun yang bercanggah; ia cuma tersebar merentasi setengah dozen agensi, masing-masing mendokumenkan hanya bahagiannya sendiri. Panduan ini menghimpunkan keseluruhan landskap ke satu tempat: sasaran nasional dan pelan hala tuju di sebaliknya, keluarga skim, dan — bahagian yang kebanyakan sumber langkau — program mana yang sebenarnya ditujukan untuk pemilik rumah, perniagaan, atau pemaju.

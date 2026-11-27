@@ -60,7 +60,7 @@ entity: "유한책임조합 (PLT)"
 relations:
   - { rel: "governs", to: "llp-act-2012-malaysia" }
   - { rel: "administered-by", to: "ssm" }
-related: []
+related: ["llp-accounting-records", "register-llp-malaysia", "audit-exemption-thresholds"]
 keywords: ["PLT audit", "LLP audit exemption", "Akta PLT 2012", "perisytiharan tahunan PLT", "seksyen 69", "SSM"]
 framework: explainer
 ---

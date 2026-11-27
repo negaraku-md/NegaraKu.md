@@ -80,6 +80,13 @@ related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-m
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
 framework: history-culture
 wikidata: "Q21005940"
+hero: '/media/malaysia/1mdb-scandal/hero.webp'
+heroAlt: 'The Exchange 106 skyscraper rising above the Tun Razak Exchange financial district in Kuala Lumpur.'
+heroCredit: 'Henrywky961122 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **1Malaysia Development Berhad (1MDB)** was a Malaysian government-owned

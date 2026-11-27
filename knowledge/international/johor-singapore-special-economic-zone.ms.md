@@ -32,7 +32,7 @@ faq:
     a: "Iskandar Malaysia ialah koridor pembangunan Malaysia yang dilancarkan pada tahun 2000-an dan terletak di dalam kawasan JS-SEZ. JS-SEZ lebih luas dan bersifat dua hala: ia menambah Singapura sebagai penandatangan bersama, memanjangkan zon ke Pengerang, dan menyusun lapisan rangka kerja insentif dan pemudahcara bersama di atasnya."
 
 lang: "ms"
-sourceContentHash: "91765fa012dff218"
+sourceContentHash: "6f1c63d721eaaae8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,24 @@ relations:
 related: ["johor", "external-trade", "manufacturing"]
 keywords: ["JS-SEZ", "Johor Singapore Special Economic Zone", "JS-SEZ incentives", "JS-SEZ flagship zones", "Malaysia Singapore economic zone", "IMFC-J"]
 framework: explainer
+hero: '/media/international/johor-singapore-special-economic-zone/hero.webp'
+heroAlt: 'Sebuah papan tanda mercu tanda ''Iskandar Puteri'' besar di tepi jalan di bulatan berlandskap, dengan menara pejabat dan komersial serta kren pembinaan di kaki langit di belakang'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Iskandar Puteri gateway landmark sign with the zone''s commercial towers and cranes rising on the skyline behind it'
+images:
+  - role: scene
+    src: /media/international/johor-singapore-special-economic-zone/body-1.webp
+    alt: Pandangan udara Forest City di Johor yang menunjukkan menara pencakar langit tepi laut yang dalam pembinaan dan barisan blok vila putih di sepanjang pantai tambak di tepi selat
+    kind: actual
+    origin: third-party
+    subject: Forest City, pembangunan rentas sempadan utama di Johor di Selat Johor, dengan menara dan blok vila dalam pembinaan menghadap perairan ke arah Singapura
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
 ---
 
 Dua buah negara bersetuju berkongsi satu kod cukai merentasi sempadan.

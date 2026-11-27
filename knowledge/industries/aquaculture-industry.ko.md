@@ -31,7 +31,7 @@ faq:
   - q: "양식이 말레이시아의 식량 안보에 왜 중요한가?"
     a: "어류는 말레이시아의 주요 동물성 단백질 공급원이며, 야생 포획은 정체되었다. 양식은 국가 어류 자급률 - 2025년 약 90.7% - 을 높이는 주된 지렛대이며, 국가농식품정책은 미래 수요를 충족하기 위해 명시적으로 양식 어류를 포획 어류보다 선호한다."
 lang: ko
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: '물고기 양식용 부유식 그물 가두리가 잔잔한 호수 수면 위에 줄지어 배치되어 있고, 한쪽 끝에는 관리인의 오두막이 있다.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: 말레이시아 사바주 캄풍 티앙의 녹음에 둘러싸인 잔잔한 담수 양식 연못.
+    kind: actual
+    origin: third-party
+    subject: 사바주 캄풍 티앙의 어류 양식 연못
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: 말레이시아 푸트라 대학교 농학부 농장에서 실습 수업에 쓰이는 흙바닥 양식 연못.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 푸트라 대학교의 수산 양식 교육용 연못
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 말레이시아 식탁에 오르는 생선 대부분은 여전히 바다에서 온다 - 그러나 이제 빠르게 늘어나는 몫이 연못, 가두리, 또는 연승 뗏목에서 온다. 그것이 양식이다. 야생에서 헤엄치는 것을 잡는 것이 아니라, 수생생물을 의도적으로 사육하는 것이다. 말레이시아의 야생 어획량이 정체되고 단백질 수요가 늘면서, 양식은 식탁에 생선을 유지하는 국가의 주된 지렛대가 되었다. 이 글은 사업의 양식 측면을 깊이 다룬다. 어선, 어민 복지, 단속을 포함한 더 넓은 그림은 [수산업 개요](/ko/agriculture/malaysian-fisheries-industry/)를 참고하라.

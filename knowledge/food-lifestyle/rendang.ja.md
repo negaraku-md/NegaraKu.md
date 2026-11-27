@@ -102,6 +102,7 @@ dishFacts:
   origin: "西スマトラのミナンカバウ(Minangkabau)の人々に起源をたどる。ミナンカバウの'メランタウ(merantau)'という出郷の慣習とマラッカ海峡を越えた交易によってマレー半島へ伝わり、マレー世界共通の遺産となった。"
   eat: "祝祭の主役となる一皿で、特にハリ・ラヤ・アイディルフィトリ(Hari Raya Aidilfitri)にクトゥパッ(ketupat)やルマン(lemang)とともに供され、ハリ・ラヤ・アイディルアドハ(Hari Raya Aidiladha)や結婚式、クンドゥリ(kenduri)の宴でも供される。"
   where: "マレーシアの祝祭やオープンハウスの食卓に並ぶ。ミナンカバウの末裔を擁するヌグリ・スンビラン(Negeri Sembilan)の共同体と、その黒いルンダンの様式に深く結びついている。"
+wikidata: "Q1520293"
 ---
 
 [ハリ・ラヤ](/ja/arts-culture/hari-raya-aidilfitri)を控えた数日間、マレー人の台所の前を通りかかると、ルンダンは目にする

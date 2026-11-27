@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Kopi cham은 커피, 차, 물, 우유로 알코올이 없으므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 커피숍을 확인해야 한다."
   served: "기본은 뜨겁게; 얼음에는 'ais kopi cham'이나 'cham peng'으로 주문한다. 연유로 달게 나오며; 설탕을 빼려면 'kosong', 덜 달게 하려면 'kurang manis'를 더한다. Kopi, teh와 같은 모듈식 코드(O, C, kosong, gao, peng)로 주문한다."
   where: "전국의 kopitiam 커피숍과 mamak 노점에서 찾을 수 있으며, kopi와 teh tarik와 같은 카운터에서 따라 준다 — 커피와 차 사이에서 고르지 못하는 이를 위한 아무 때나의 일상 음료다."
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "꽃무늬 코피티암 잔과 받침에 담긴, 거품 인 커피와 차 혼합 음료(kopi cham)"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 말레이시아 커피숍에 앉아 커피와 차 사이에서 결정하지 못하는 이에게, 카운터에는 깔끔한

@@ -66,9 +66,16 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysian-federalism-explained" }
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
-related: []
+related: ["district-administration-in-malaysia", "state-assemblies-dun", "federal-constitution"]
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: '芙蓉现代化的州行政大楼Wisma Negeri前，一座米南加保式屋顶的礼堂有着高耸弯曲的金褐色屋顶。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 当马来西亚的一个州政府编制预算时，它从一个鲜少被提及的现实出发：收益最大的税种——所得税、销售与服务税、关税——并不归它征收。这些来源属于联邦的权限范围。州所剩下的部分，以及这一缺口如何被填补，都白纸黑字地规定在《联邦宪法》中。

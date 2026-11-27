@@ -21,7 +21,7 @@ appliesTo: "القرّاء والطلاب والباحثون الباحثون ع
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "التاريخ الدقيق الذي أُرسي فيه نظام التوارث التناوبي للألقاب لأول مرة: تتتبّع المصادر السردية أصوله إلى القرن السابع عشر لكنها لا تقدّم تاريخ تأسيس موثوقًا واحدًا؛ ويستند الترتيب الحديث إلى قرار صدر في 25 فبراير 1953."
   - "يُعطى عام التأسيس الدقيق تقليديًّا على أنه 1528 (العام الذي مات فيه محمود شاه ملك ملقا في كامبار)، لكن بعض الأنساب تضع تنصيب مظفر شاه الأول قبل ذلك أو بعده بأعوام قليلة."
 framework: history-culture
+hero: '/media/malaysia/perak-sultanate/hero.webp'
+heroAlt: 'قصر ملكي أبيض تتوّجه قباب بصلية مذهّبة يرتفع خلف سياج محيطي مزخرف بالأبيض والأسود على تل أخضر تحت سماء صافية.'
+heroCredit: 'Gerd Fahrenhorst / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: مسجد أبيض يعلوه قبّة ذهبية كبيرة على شكل بصلة تحفّ بها قباب ذهبية أصغر وأربع مآذن نحيلة، يتلألأ أمام سماء صافية؛ مسجد Ubudiah الملكي في كوالا كانجسار، بيراق.
+    kind: actual
+    origin: third-party
+    subject: مسجد Ubudiah، المسجد الملكي لبيراق في كوالا كانجسار، بقبّته الذهبية
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: قصر فخم من الحقبة الاستعمارية بلون كريمي، بنوافذ مقوّسة ودرابزينات مزخرفة وواجهة متناظرة تعلوها أبراج صغيرة، يقع خلف مرج تحت سماء ساطعة؛ قصر Istana Hulu في كوالا كانجسار، بيراق.
+    kind: actual
+    origin: third-party
+    subject: قصر Istana Hulu، قصر بيراق الملكي السابق في كوالا كانجسار، وهو الآن معرض السلطان عزلان شاه
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 حين سقطت ملقا أمام مدافع البرتغال عام 1511، لم تمت السلالة التي صنعت شهرة المضيق مع المدينة. فانسحب آخر سلاطينها، محمود شاه، صاعدًا في الأرخبيل، تاركًا ابنين؛ أحدهما سيعيد تأسيس الخط الملكي أسفل النهر في جوهور، والآخر سيحمل تاج ملقا القديم شمالًا، إلى وادٍ هادئ يخترقه نهر تلمع ضفافه الرملية بالقصدير. صارت تلك المملكة الشمالية بيراك، وبعد نحو خمسة قرون لا تزال تحكمها السلالة نفسها، لكن عبر سلطان لا يُورَّث عرشه من الأب إلى الابن بل على طول سلّم متحرك من الأمراء. هذه هي قصة كيف نجت سلالة مهزومة، واغتنت على القصدير، وفقدت سيادتها لبريطانيا بموجب معاهدة واحدة، وصمدت حتى الحاضر.

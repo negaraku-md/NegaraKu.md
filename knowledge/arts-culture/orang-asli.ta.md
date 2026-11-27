@@ -35,7 +35,7 @@ seoTitle: "Orang Asli: மூன்று முதன்மைக் குழ�
 socialTitle: "Orang Asli யார் — மூன்று குழுக்கள், 18 துணையினங்கள், மற்றும் அவர்களைக் கவனிக்கும் நிறுவனம்"
 
 lang: "ta"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,32 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution"]
 keywords: ["Orang Asli", "masyarakat peribumi", "Negrito", "Senoi", "Melayu-Proto", "18 suku kaum", "JAKOA", "Akta Orang Asli 1954", "Akta 134"]
 framework: explainer
+hero: '/media/arts-culture/orang-asli/hero.webp'
+heroAlt: 'ஓடு கூரையுடன் கூடிய ஒரு கிராமப் பள்ளிக் கட்டிடத்தின் முன்பு, பச்சை மரங்களால் சூழப்பட்ட, Selamat Datang ke KOA Lubuk Legong என வாசிக்கப்படும் வண்ணமயமாக வரையப்பட்ட சுவரோவியம்.'
+heroCredit: 'Geleparaplu / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: செதுக்கப்பட்ட மர மூதாதையர் ஆவி முகமூடியும் மடிப்புக்கொண்ட பனையோலை உடையும் அணிந்த ஒரு மா மேரி கலைஞர், ஒரு திறந்தவெளி பண்பாட்டு நிகழ்வில் பார்வையாளர்களுக்கு முன்னால் மாயின் ஜோஓ நடனம் ஆடுகிறார்.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் ஒரு பண்பாட்டு நிகழ்வில் நிகழ்த்தப்பட்ட மா மேரி மாயின் ஜோஓ முகமூடி நடனம்
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: கோலாலம்பூரில் உள்ள ஓராங் அஸ்லி கைவினைக் கலை அருங்காட்சியகத்தின் நுழைவாயில், வெப்பமண்டலத் தாவரங்களுக்கு நடுவே அறிவிப்புப் பலகைக்கு அருகில் நிற்கும் ஒரு பெரிய செதுக்கப்பட்ட ஓராங் அஸ்லி மரச் சிற்பத்துடன்.
+    kind: actual
+    origin: third-party
+    subject: ஓராங் அஸ்லி கைவினைக் கலை அருங்காட்சியகம் (மியூசியம் செனி கிராஃப் ஓராங் அஸ்லி), கோலாலம்பூர்
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 மலேசியா என்ற பெயர் எந்த வரைபடத்திலும் தோன்றுவதற்கு நெடுங்காலத்திற்கு முன்பே, தீபகற்பத்தின் காடுகள், மேட்டு நிலங்கள் மற்றும் கடற்கரைப் பகுதிகளில் வாழ்ந்த சமூகங்கள் இருந்தன. இன்று அவர்கள் கூட்டாக Orang Asli என அறியப்படுகிறார்கள் — இது “மூல மனிதர்கள்” அல்லது “மூலக் குடிமக்கள்” எனப் பொருள்படும் மலாய் மொழிச் சொல்.

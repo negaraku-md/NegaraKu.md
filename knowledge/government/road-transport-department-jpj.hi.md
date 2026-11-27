@@ -31,7 +31,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "09b2906afbab7e08"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,11 +86,29 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]
 framework: profile
+hero: '/media/government/road-transport-department-jpj/hero.webp'
+heroAlt: 'एक JPJ सड़क परिवहन विभाग शाखा कार्यालय के सेवा काउंटर, काँच-दीवार वाले काउंटर हॉल के ऊपर JPJ प्रतीक और ''Jabatan Pengangkutan Jalan Wilayah Persekutuan Kuala Lumpur, Cawangan Bandar Tasik Selatan'' साइन'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Road Transport Department (JPJ) Kuala Lumpur branch office at Bandar Tasik Selatan, with the JPJ crest and ''Jabatan Pengangkutan Jalan'' signage over the service counters'
+images:
+  - role: scene
+    src: /media/government/road-transport-department-jpj/body-1.webp
+    alt: पीले अक्षरों में 'Stesen Penguatkuasa Jabatan Pengangkutan Jalan' पढ़ा जाने वाला हरा मलेशियाई सड़क चिह्न, जिसमें एक नीला लॉरी 'Timbang' तौल-पुल प्रतीक है, जो JPJ प्रवर्तन स्टेशन की ओर इशारा करता है
+    kind: actual
+    origin: third-party
+    subject: '''Stesen Penguatkuasa Jabatan Pengangkutan Jalan'' पढ़ा जाने वाला और लॉरी-तौलपुल प्रतीक वाला JPJ प्रवर्तन-स्टेशन दिशा-सूचक सड़क चिह्न'
+    credit: Fiq Shafiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_1.jpg
 ---
 
 अधिकांश लोग **सड़क परिवहन विभाग** से एक ही क्षण पर मिलते हैं — रोड टैक्स का नवीनीकरण करते समय, ड्राइविंग परीक्षा देते समय, या कोई पुरानी कार अंतरित करते समय। पर JPJ वह विभाग है जो इन सभी लेन-देनों के पीछे खड़ा है। **सड़क परिवहन विभाग** (*Jabatan Pengangkutan Jalan*, या **JPJ**) मलेशिया के **परिवहन मंत्रालय (MOT)** के अधीन एक एजेंसी है। यह मोटर वाहनों और चालकों का पंजीकरण करता है, ड्राइविंग लाइसेंस, रोड टैक्स और नंबर प्लेट जारी करता है, वाणिज्यिक वाहनों को लाइसेंस देता है, और उन कानूनों को लागू करता है जो यह नियंत्रित करते हैं कि वाहन और चालक सार्वजनिक सड़कों का उपयोग कैसे करें।

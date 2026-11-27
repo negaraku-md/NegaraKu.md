@@ -71,9 +71,35 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysia-healthcare-system" }
   - { rel: "related-to", to: "health-white-paper-2023" }
-related: []
+related: ["mysejahtera-and-digital-health-records", "health-white-paper-and-system-reform", "prevention-and-control-of-infectious-diseases-act"]
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'Dewan sebuah pusat vaksinasi COVID-19 yang besar di Malaysia dengan barisan tempat duduk yang berjarak dan orang ramai beratur.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: Sepuluh kaset ujian pantas antigen COVID-19 bernombor disusun sebaris di atas meja, setiap satu menunjukkan garis kawalan
+    kind: representative
+    origin: third-party
+    subject: Sebaris sepuluh kaset ujian pantas antigen COVID-19 menunjukkan garis kawalan dan garis ujian
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: Peralatan makmal dan diagnostik berkotak yang dibekalkan ke Malaysia untuk menyokong ujian COVID-19 dan tindak balas pandemiknya
+    kind: actual
+    origin: third-party
+    subject: Peralatan pengesanan COVID-19 yang dihantar ke Malaysia semasa tindak balas pandemik
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 Pada 18 Mac 2020, jalan raya di seluruh Malaysia menjadi lengang apabila negara memasuki fasa yang tidak pernah dialami dalam sejarah moden: sekatan pergerakan menyeluruh untuk membendung penularan COVID-19. Dalam tempoh kira-kira dua tahun berikutnya, tindak balas kesihatan awam negara berkembang daripada penguncian menyeluruh kepada salah satu program vaksinasi terpantas di rantau ini — dan meninggalkan kesan yang masih membentuk sistem kesihatan sehingga hari ini.

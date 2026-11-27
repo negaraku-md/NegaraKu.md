@@ -74,6 +74,33 @@ verificationNeeded:
   - "Tarikh tepat asal usul seni berpantun tidak dapat dipastikan; pandangan sarjana yang paling kuat mengaitkannya dengan sekitar abad ke-15, iaitu sebelum Sejarah Melayu (~1612). Angka ini masih diperdebatkan dan bukan tarikh yang muktamad."
   - "Had panjang maksimum pantun berangkap panjang berbeza antara sumber (sebahagian menyebut sehingga 16 baris, sebahagian lain hingga sekitar 22 baris); jumlah yang pasti tidak seragam."
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Para penghibur Melayu berpakaian tradisional hijau dan emas dengan tutup kepala berhias, duduk di atas lantai dan membuat gerakan tangan yang seragam semasa persembahan dikir barat, dengan gendang di hadapan mereka.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: Patung bayang-bayang kulit berukir rumit yang menggambarkan tokoh mitos membentuk siluet tajam pada sebuah skrin bercahaya semasa persembahan wayang kulit Kelantan-Patani.
+    kind: actual
+    origin: third-party
+    subject: Wayang kulit gaya Kelantan-Patani
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: Sebuah ensembel gamelan Melayu berukir indah terdiri daripada gong gangsa, gong berpencu dan metalofon kayu yang dipamerkan di Muzium Muzik, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Ensembel gamelan Melayu di Muzium Muzik, Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

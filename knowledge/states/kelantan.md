@@ -97,9 +97,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'Istana Jahar kayu tradisional yang berukir hitam dan kuning di Kota Bharu dengan sebuah pedati kuda yang diletakkan di halaman berturap di hadapannya.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: Bangunan kolonial beratap merah yang panjang milik Muzium Negeri Kelantan berdiri di belakang sebatang pokok palma tinggi di bawah langit biru cerah di Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Muzium Negeri Kelantan, Kota Bharu
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: Para peniaga menjual hasil segar di antara gerai yang sesak di dalam pasar pusat Pasar Siti Khadijah yang bertingkat dan terang-benderang di Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Pasar Siti Khadijah, Kota Bharu, Kelantan
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 Ekonomi Malaysia biasanya diceritakan menerusi kilang. Kelantan ialah pengecualian

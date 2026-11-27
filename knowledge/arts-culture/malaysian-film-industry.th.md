@@ -34,7 +34,7 @@ faq:
     a: "มันมักถูกเรียกว่า 'Malaysian New Wave' คลื่นของผู้สร้างภาพยนตร์อิสระในช่วงต้นทศวรรษ 2000 Da Huang Pictures ที่ก่อตั้งในปี 2004 โดย Tan Chui Mui, Amir Muhammad, James Lee และ Liew Seng Tat กลายเป็นหนึ่งในหัวใจของมัน ภาพยนตร์ของ Tan เรื่อง Love Conquers All คว้ารางวัล New Currents และ FIPRESCI ที่เทศกาลภาพยนตร์นานาชาติปูซาน 2006 ตลอดจนรางวัล Tiger ที่ร็อตเทอร์ดาม"
 
 lang: "th"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,32 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'บ้านไม้มลายูดั้งเดิมที่ได้รับการบูรณะ ซึ่งเป็นบ้านเกิดของตำนานภาพยนตร์ พี. รัมลี (P. Ramlee) ปัจจุบันเป็นอนุสรณ์สถาน มีหลังคามุงจากและแผ่นป้ายรำลึกบนลานอิฐด้านหน้า'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: ด้านหน้าและป้ายกันสาดของโรงภาพยนตร์โคลีเซียมเก่า โรงหนังจอเดี่ยวยุคก่อนสงครามใจกลางกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: โรงภาพยนตร์โคลีเซียมอันเก่าแก่บนถนนตวนกูอับดุลระห์มาน กรุงกัวลาลัมเปอร์ หนึ่งในโรงหนังที่เก่าแก่ที่สุดที่ยังหลงเหลืออยู่ของมาเลเซีย
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: โถงทางเข้าและป้ายที่สว่างไสวของโรงภาพยนตร์มัลติเพล็กซ์สมัยใหม่ภายในห้างสรรพสินค้าในกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าโรงภาพยนตร์มัลติเพล็กซ์สมัยใหม่ที่พาวิลเลียน บูกิตบินตัง กรุงกัวลาลัมเปอร์
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 ในปี 1955 อดีตเด็กถือแคลปเปอร์และผู้ช่วยถือกล้องที่สตูดิโอแห่งหนึ่งที่เลขที่ 8 ถนนอัมปัส (Jalan Ampas) สิงคโปร์ นั่งลงบนเก้าอี้ผู้กำกับเป็นครั้งแรกเมื่ออายุ 26 ปี ภาพยนตร์เรื่องนั้นคือ *Penarek Becha* ชื่อของเขาคือพี. รามลี (P. Ramlee) เรื่องราวของอุตสาหกรรมภาพยนตร์มาเลเซียเริ่มต้นไม่ใช่ที่กัวลาลัมเปอร์ แต่ที่สตูดิโอสิงคโปร์ที่พี่น้องสองคนจากเซี่ยงไฮ้เป็นเจ้าของ — และมันไม่เคยหยุดเคลื่อนไหวนับแต่นั้น

@@ -35,7 +35,7 @@ faq:
     a: "电竞被认可为一项竞技项目，并曾在东南亚运动会 (SEA Games) 上角逐。2020年财政预算案拨款RM2,000万，KBS于2020年设立了Esports Integrated，以推动国家电竞路线图和运动员培养。"
 
 lang: zh
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 
@@ -114,6 +114,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: '一间动作捕捉制作工作室，设有带网格的捕捉舞台、架设在桁架上的头顶摄像机装置，以及配有多台显示器的操作员工作站。'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: 开放式的游戏开发工作室内，开发者们在配有多显示器的工位上工作。
+    kind: representative
+    origin: third-party
+    subject: 一处电子游戏开发工作室
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: 内容创作者的工位上，一台绘图板和触控笔摆在显示着一幅数字绘画的显示器前。
+    kind: representative
+    origin: third-party
+    subject: 用于创作数字绘画的数字艺术家工位
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 当Les' Copaque的《_Upin & Ipin Universe_》于**2025年7月17日**登陆全球主机平台时，它为一段始于讲述两个淘气双胞胎的动画短片系列的历程画上了一个圆满的闭环。一部马来西亚动画片成了一款全球发行的电子游戏——也恰如其分地展示了这个国家的数字创意内容产业在二十年里悄然构建起的成果。

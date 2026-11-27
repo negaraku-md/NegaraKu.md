@@ -33,7 +33,7 @@ faq:
     a: "Tidak semestinya. Sesetengah keluarga mula-mula menggunakan tangyuan untuk menyembah roh nenek moyang atau dewa sebelum sekeluarga menjamahnya bersama; banyak juga keluarga yang menganggap Dongzhi semata-mata sebagai hari untuk makan tangyuan dan berkumpul, tanpa sebarang pemujaan. Amalan seperti menyembah roh nenek moyang dan berdoa berbeza mengikut kepercayaan dan kebiasaan setiap keluarga. Rencana ini hanya menerangkan amalan itu sendiri dan tidak membuat sebarang penilaian terhadap kepercayaan agama."
 
 lang: "ms"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ festivalFacts:
   when: "Ditentukan mengikut dua puluh empat tempoh solar (jieqi), jatuh sekitar 21 hingga 23 Disember dalam kalendar Gregorian setiap tahun (kira-kira 22 Disember), iaitu hari dengan waktu siang paling pendek dalam setahun."
   holiday: "Bukan cuti umum — Dongzhi bukan cuti umum di peringkat kebangsaan mahupun mana-mana negeri di Malaysia."
   etiquette: "Masyarakat Cina kebanyakannya menyambut secara sederhana di rumah, dengan sekeluarga duduk mengelilingi meja menguli tangyuan dan menikmati hidangan bersama, bukannya mengadakan acara awam berskala besar; sesetengah keluarga mula-mula mempersembahkan tangyuan kepada nenek moyang dan dewa sebelum seisi keluarga menikmatinya bersama, dan amalannya berbeza mengikut keluarga serta kumpulan dialek."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'Semangkuk putih berisi tangyuan merah jambu, ungu dan kuning lembut terapung dalam air gula manis jernih dengan sudu seramik berbibir biru terletak di dalamnya'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: Pandangan dekat semangkuk bebola pulut berkilat separa lut sinar berwarna putih, ungu muda dan hijau jed terapung dalam sup manis yang jernih
+    kind: representative
+    origin: third-party
+    subject: Pandangan dekat tang yuan berkulit kristal lut sinar berwarna putih, ungu dan hijau terapung dalam semangkuk air manis
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: Pandangan dari atas empat biji tang yuan ungu yang montel dalam air manis panas yang jernih di dalam mangkuk bertepi biru, dengan kepulan wap naik
+    kind: representative
+    origin: third-party
+    subject: Semangkuk bebola pulut ungu dalam air manis panas, dilihat dari atas dengan wap yang berkepul naik
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 Pada suatu petang di penghujung Disember, bau harum tepung pulut di dapur bercampur dengan manisnya air halia. Sekeluarga berkumpul di tepi meja, membentuk seketul demi seketul adunan pulut menjadi bebola — ada yang putih, ada yang diwarnakan merah jambu dan hijau muda. Bebola di tangan anak-anak pelbagai saiz, dan sambil membentuknya orang dewasa berkata: setelah makan tangyuan, kita bertambah setahun usia. Hari ini ialah Dongzhi.

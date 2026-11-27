@@ -37,7 +37,7 @@ faq:
     a: "El ingeniero alemán Hermann Tilke lo diseñó — su primer circuito de Fórmula 1 construido a medida. El trazado de Gran Premio mide 5.543 km de longitud con 15 curvas y una anchura de pista que varía de 16 a 20 metros."
 
 lang: "es"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,33 @@ keywords:
   - "cuota de organización F1 Sepang"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'La vasta cubierta tensada pálida en forma de abanico de la torre de la tribuna principal del Circuito Internacional de Sepang ondeando sobre una plataforma de observación circular, con la pista de carreras vacía y las gradas de espectadores describiendo curvas a ambos lados bajo un cielo azul'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: Un apretado pelotón de coches de Fórmula 1 con las decoraciones de los equipos abriéndose sobre el amplio asfalto de la recta de meta de Sepang en la vuelta inicial, con sus neumáticos dejando marcas oscuras en la pista bajo un sol radiante
+    kind: actual
+    origin: third-party
+    subject: el pelotón de Fórmula 1 corriendo rueda con rueda por el circuito de Sepang en la salida del Gran Premio de Malasia de 2015
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: Una toma aérea elevada del Circuito Internacional de Sepang enclavado en el campo verde, con su cinta gris de pista serpenteando en amplios bucles alrededor de la tribuna central y el complejo de boxes, con las pistas y terminales de KLIA visibles en la brumosa distancia arriba
+    kind: actual
+    origin: third-party
+    subject: una vista aérea de todo el Circuito Internacional de Sepang que muestra su característico trazado de bucles y su paddock, con el Aeropuerto Internacional de Kuala Lumpur al fondo
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 En octubre de 2026, los coches de Fórmula 1 correrán en Sepang por primera vez en nueve años — y la cartelería junto a la pista dirá *Gran Premio de Baréin*. Malasia no es la anfitriona sobre el papel, no pagará la cuota de licencia y no hizo presión para volver al calendario. Simplemente tenía la única cosa que la Fórmula 1 necesitó de repente: un circuito vacío, listo y de primer nivel.

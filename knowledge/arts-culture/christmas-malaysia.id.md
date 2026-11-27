@@ -33,7 +33,7 @@ faq:
     a: "Keluarga Kristen merayakan hari ini secara keagamaan melalui ibadah gereja. Selain itu, Natal turut dirayakan secara lebih luas dalam kehidupan publik — pusat perbelanjaan dan hotel memasang hiasan serta menyelenggarakan penjualan musiman, dan tradisi rumah terbuka yang mengundang tamu berbagai latar belakang untuk makan bersama turut menjadi lazim. Keikutsertaan dalam aspek sosial dan kemeriahan musim ini tidak terbatas pada penganut Kristen saja."
 
 lang: "id"
-sourceContentHash: "4331ba5a016fc700"
+sourceContentHash: "82ed8fb4871de728"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Hari Natal jatuh pada 25 Desember setiap tahun, dengan musim dekorasi dan ritel mulai sekitar akhir November."
   holiday: "Hari Natal, 25 Desember, merupakan hari libur umum di seluruh negara di semua negeri dan wilayah persekutuan (Jadwal Pertama Holidays Act 1951 (Act 369) di Semenanjung; ordonansi negeri di Sabah dan Sarawak). Sabah selain itu menetapkan dalam warta Malam Natal, 24 Desember, sebagai hari libur umum negeri menurut Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "Tradisi open house menjamu tamu dari latar belakang apa pun untuk santap bersama diterapkan pada Natal sebagaimana pada perayaan lainnya; keluarga Kristen yang menjadi tuan rumah umumnya menyambut tamu dari agama lain, dan kunjungan berlangsung dua arah sepanjang kalender perayaan."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'Pohon Natal menjulang berhias meriah menembus atrium Pavilion Kuala Lumpur, dikelilingi lampion emas yang tergantung, komidi putar, dan kerumunan pembeli di atas karpet merah'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: Pajangan Natal bertema negeri permen yang mewah di sebuah pusat perbelanjaan Kuala Lumpur, dengan panggung berpusar permen pepermin merah dan putih, rumah-rumah roti jahe dan deretan pohon Natal berhias lampu di atas kerumunan orang
+    kind: actual
+    origin: third-party
+    subject: Pajangan Natal bertema negeri permen dengan rumah roti jahe dan pohon berhias lampu di sebuah mal Kuala Lumpur
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: Katedral Anglikan St Mary's berdinding putih beratap genteng merah di pusat Kuala Lumpur, dengan salib di pelananya dan bendera Malaysia di depan, menara-menara kantor modern menjulang di belakang
+    kind: actual
+    origin: third-party
+    subject: Katedral Anglikan St Mary's, sebuah gereja putih bersejarah di pusat Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 Pada malam 24 Desember, sebuah gereja di Kota Kinabalu atau Kuching penuh sesak untuk sebuah ibadah larut malam, sementara beberapa ratus kilometer jauhnya di Semenanjung, tanggal yang sama merupakan hari Kamis kerja biasa. Pada pagi harinya, 25 Desember, seluruh negara libur. Perbedaan itu — satu tanggal, dua status yang sangat berbeda — adalah cara paling jelas untuk memahami kedudukan Natal di Malaysia: sebuah perayaan keagamaan bagi satu komunitas, hari libur umum bagi semua orang, dan satu musim pintu terbuka yang diikuti banyak orang tanpa memandang agama.

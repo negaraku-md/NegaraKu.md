@@ -33,7 +33,7 @@ faq:
     a: "Sí. La sección 17A, introducida por la enmienda de 2018 (Act A1567) y en vigor desde el 1 de junio de 2020, hace responsable a una organización comercial cuando una persona asociada a ella da u ofrece corruptamente una gratificación para obtener o retener negocios. Por otra parte, la definición de «organismo público» (public body) de la sección 3 de la Ley alcanza a las empresas y filiales en las que un organismo público tiene poder o participación de control."
 
 lang: "es"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "Comisión Anticorrupción de Malasia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'Un largo edificio gubernamental de ladrillo rojo que se eleva sobre una pantalla de árboles verdes, con su fachada superior luciendo las letras y el emblema dorados de la SPRM (MACC) sobre hileras de ventanas en arco adornadas con pequeñas banderas malayas'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: Una imponente torre con forma de proa de barco de cristal oscuro en bandas, alzada sobre altas columnas blancas, enmarcada por palmeras reales bajo un cielo azul brillante con nubes dispersas en Putrajaya
+    kind: actual
+    origin: third-party
+    subject: La curvada torre de cristal oscuro de la sede de la Comisión Anticorrupción de Malasia (MACC), Putrajaya (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 La mayoría de las descripciones de la MACC se detienen en «la agencia anticorrupción de Malasia». La pregunta más útil es más estrecha: ¿qué permite realmente la Ley hacer a sus agentes, y quién tiene el derecho legal de vigilarlos?

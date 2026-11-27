@@ -65,6 +65,32 @@ relations:
 related: ["opening-bank-account", "after-spm-options", "jpa-and-public-scholarships"]
 keywords: ["PTPTN", "pinjaman pendidikan", "kelayakan PTPTN", "bayaran balik PTPTN", "Akta 566", "pembiayaan pengajian tinggi Malaysia", "SSPN"]
 framework: explainer
+hero: '/media/education/ptptn-student-loan/hero.webp'
+heroAlt: 'Pintu gerbang masuk kampus Universiti Teknologi Malaysia Kuala Lumpur, dengan lambang UTM pada gerbang lengkung di atas jalan masuk.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: Bangunan canselori Universiti Teknologi MARA (UiTM), sebuah bangunan universiti awam moden yang besar daripada kaca dan konkrit, berdiri di atas tanah tinggi berlanskap dengan bendera di hadapan.
+    kind: representative
+    origin: third-party
+    subject: Kampus sebuah universiti awam di Malaysia (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: Bangunan canselori (Canselori) Universiti Malaysia Sabah yang tersendiri berwarna biru dan krim di Kota Kinabalu, sebuah mercu tanda universiti awam yang terletak di atas hamparan rumput berlanskap.
+    kind: representative
+    origin: third-party
+    subject: Mercu tanda sebuah universiti awam di Malaysia (canselori Universiti Malaysia Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 Ramai pelajar menandatangani dokumen tawaran PTPTN dengan andaian yang sama:

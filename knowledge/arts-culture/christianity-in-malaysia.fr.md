@@ -26,7 +26,7 @@ appliesTo: "Toute personne souhaitant comprendre le christianisme en Malaisie �
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: Qu'est-ce que la Fédération chrétienne de Malaisie et quels organismes rassemble-t-elle ?
     a: 'La Fédération chrétienne de Malaisie (Christian Federation of Malaysia, CFM), fondée en 1985, est le principal organisme fédérateur. Elle réunit les trois courants du christianisme malaisien : la Conférence des évêques catholiques (Catholic Bishops'' Conference), le Conseil des Églises de Malaisie (Council of Churches of Malaysia, protestantisme traditionnel) et la Communion chrétienne évangélique nationale (National Evangelical Christian Fellowship). La CFM déclare représenter plus de 95 % des églises du pays, dont beaucoup sont des congrégations malayophones à Sabah et au Sarawak.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'Les ruines en pierre blanchies à la chaux de l''église St. Paul du XVIe siècle sur la colline St. Paul à Melaka, avec la statue en marbre de saint François Xavier au premier plan.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: La cathédrale Sainte-Marie, blanche et de style néogothique, une église anglicane proche de la place Merdeka à Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Cathédrale anglicane Sainte-Marie, Kuala Lumpur
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: La moderne église catholique de la Sainte-Trinité à Tawau, Sabah, représentant les communautés chrétiennes de Malaisie orientale.
+    kind: actual
+    origin: third-party
+    subject: Église catholique de la Sainte-Trinité, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 L'histoire chrétienne de la Malaisie a deux centres de gravité, et aucun ne se

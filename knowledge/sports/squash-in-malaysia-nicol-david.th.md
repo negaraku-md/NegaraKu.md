@@ -31,7 +31,7 @@ faq:
     a: "Sivasangari Subramaniam ผู้ขึ้นสู่อันดับสูงสุดในอาชีพที่มือ 6 ของโลกในเดือนตุลาคม 2025 และ Ng Eain Yow ผู้ชนะ ACE Malaysia Squash Cup 2024 ในบ้าน"
 
 lang: "th"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ entity: "Nicol David"
 wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'นิโคล เดวิด แชมป์สควอชชาวมาเลเซีย ยืดตัวตีลูกโฟร์แฮนด์ระหว่างการแข่งขันทัวร์นาเมนต์'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: คอร์ตโชว์กระจกทั้งหลังที่ติดตั้งภายในอารีนาพร้อมไฟสปอตไลต์สำหรับการแข่งขันสควอชอาชีพมองจากที่นั่งแบบขั้นบันไดโดยรอบ
+    kind: representative
+    origin: third-party
+    subject: คอร์ตโชว์กระจกที่ติดตั้งสำหรับการแข่งขันสควอชอาชีพ
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: ผู้เล่นสองคนแข่งขันบนคอร์ตสควอชผนังกระจกท่ามกลางผู้ชมในห้องโถงอันยิ่งใหญ่ในการแข่งขันสควอชรายการใหญ่
+    kind: representative
+    origin: third-party
+    subject: การแข่งขันสควอชอาชีพบนคอร์ตกระจกต่อหน้าผู้ชมแน่นขนัด
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 เป็นเวลาเก้าปีติดต่อกัน นักสควอชที่ดีที่สุดในโลกมาจากปีนัง Nicol David ไม่เพียงชนะในกีฬาประเภทเดี่ยวที่ประสบความสำเร็จที่สุดของมาเลเซีย เธอเขียนใหม่ว่าการครองในกีฬานี้มีหน้าตาอย่างไร ครองอันดับมือหนึ่งของโลก **108 เดือนติดต่อกัน** จนถึงเดือนกันยายน 2015 การครองที่ไม่ขาดตอนยาวนานที่สุดที่กีฬานี้เคยเห็น

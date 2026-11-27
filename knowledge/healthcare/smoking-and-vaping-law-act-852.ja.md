@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 
 status: "published"
 aiAssisted: true
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: 'マレー語、中国語、英語で書かれたマレーシアの禁煙標識（Dilarang Merokok／No Smoking）。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: マレーシア・ジョホールバルのレストラン内の壁に掲示された禁煙サイン。禁煙の店であることを示している
+    kind: actual
+    origin: third-party
+    subject: マレーシア・ジョホールバルのレストランに掲示された禁煙の告知
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: 電子たばこ（vape）を口元に近づけて手に持っている様子のクローズアップ。法律で規制される電子たばこの使用を示している
+    kind: representative
+    origin: third-party
+    subject: 電子たばこ（vape）を手に持つ人物
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 マレーシアにおいて、一本のたばこと一台の電子タバコ（ベイプ）機器が初めて同じ法律の対象となった——そして未成年者への販売禁止は、もはや単なる方針ではなく、数千リンギットの過料が科される違反行為となった。

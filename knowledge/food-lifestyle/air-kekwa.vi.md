@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Chỉ gồm hoa, nước và đường — không thịt, không sản phẩm động vật, không cồn — nên nó là chay và, tự thân nó, halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra cửa hàng hoặc nhãn trên chai."
   served: "Phục vụ nóng hoặc đá; gọi ít ngọt nếu muốn. Được uống phổ biến để cân đồ ăn 'nhiệt', chiên hay nhiều dầu mỡ và tiết trời nóng — một niềm tin văn hóa về sự cân bằng, không phải một khẳng định y tế. Cũng được bán đóng chai và đóng lon dưới dạng trà hoa cúc uống liền."
   where: "Tìm thấy tại các kopitiam, quầy trà thảo mộc và liang cha, và dạng đóng chai hoặc đóng lon trong các cửa hàng và siêu thị khắp cả nước."
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Tách trà hoa đựng trà hoa cúc nhạt (air kekwa) với những bông hoa đang ngâm"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 Giữa những thức uống ngọt, béo sữa của quán cà phê Malaysia, **air kekwa** đứng hơi tách

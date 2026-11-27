@@ -29,7 +29,7 @@ faq:
     a: "செவிலியர்கள் Akta Jururawat 1950-இன் கீழ் மலேசிய செவிலியர் வாரியம் (Lembaga Jururawat Malaysia) மூலம் பதிவு செய்யப்படுகின்றனர்; மருந்தாளர்கள் Akta Pendaftaran Ahli Farmasi 1951 (Akta 371)-இன் கீழ் மலேசிய மருந்தக வாரியம் (Lembaga Farmasi Malaysia) மூலம்; மற்றும் பிசியோதெரபி போன்ற இணை சுகாதாரத் தொழில்கள் Akta Profesion Kesihatan Bersekutu 2016 (Akta 774)-இன் கீழ் MAHPC மூலம் ஒழுங்குபடுத்தப்படுகின்றன."
 
 lang: "ta"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,9 +61,35 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'முன்புறத்தில் ஒரு இலகுரக ரயில் கடந்து செல்லும், குவாலாலம்பூரில் உள்ள நவீன கண்ணாடி வேயப்பட்ட சிறப்பு மருத்துவமனை.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: ஒரு மலேசிய அரசு மருத்துவமனையின் பல மாடி கோபுரத் தொகுதி, பதிவுசெய்யப்பட்ட மருத்துவ மற்றும் துணை சுகாதார பயிற்சியாளர்கள் பணியாற்றும் வகையான சூழல்
+    kind: actual
+    origin: third-party
+    subject: சபா, கோட்டா கினபாலுவில் உள்ள அரசு மூன்றாம் நிலை மருத்துவமனையான Queen Elizabeth Hospital
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: உயிர்பாதுகாப்பு அலமாரி மற்றும் உபகரணங்களுடன் கூடிய ஆய்வகத்தில் இரண்டு சுகாதார அறிவியல் ஊழியர்கள், பதிவு தேவைப்படும் துணை சுகாதார மற்றும் ஆய்வக தொழில்களைக் குறிக்கிறார்கள்
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவில் ஒரு மருத்துவ ஆராய்ச்சி ஆய்வகத்தில் உயிர்பாதுகாப்பு அலமாரிக்கு அருகில் உரையாடும் ஆய்வக ஊழியர்கள்
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 ஒருவர் வெள்ளை கோட் அணிந்து, கிளினிக் சுவரில் ஒரு சான்றிதழைத் தொங்கவிட்டு, தம்மை “மருத்துவர்” என்று அழைத்துக்கொள்ளலாம் — ஆனால் அவரது தகுதியை உண்மையிலேயே உறுதிப்படுத்தும் ஒரே விஷயம் ஒன்றுதான்: அவரது பெயர் அதிகாரப்பூர்வ பதிவேட்டில் இருப்பது. மலேசியாவில், ஒவ்வொரு மருத்துவர், செவிலியர், மருந்தாளர் மற்றும் பிசியோதெரபிஸ்ட்டும் தமது தொழிலை ஒழுங்குபடுத்தும் அமைப்புடன் பதிவு செய்யப்பட்டிருக்க வேண்டும். நல்ல செய்தி என்னவென்றால், நீங்களே இதை இலவசமாகச் சரிபார்க்க முடியும்.

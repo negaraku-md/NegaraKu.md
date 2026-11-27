@@ -31,7 +31,7 @@ faq:
   - q: "Quelles sont les principales entreprises pharmaceutiques malaisiennes ?"
     a: "Les fabricants locaux les plus connus sont Pharmaniaga (fabricant, distributeur intégré et titulaire de concession gouvernementale), Duopharma Biotech (issue du groupe CCM et fabriquant des biosimilaires), CCM, Kotra Pharma et Hovid. Des multinationales telles que Pfizer, Novartis et GSK se concentrent surtout sur les médicaments brevetés plutôt que sur une grande production locale."
 lang: fr
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - remplissage-finition de vaccins
   - BPF PIC/S
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Des flacons de médicament bouchés avançant sur un convoyeur automatisé d''une ligne de fabrication pharmaceutique.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: Plusieurs travailleurs en blouses et charlottes bleues debout autour d'un établi couvert de rangées serrées de petits flacons de médicament foncés, qu'ils manipulent et vérifient, dans une usine pharmaceutique lumineuse avec des armoires vitrées le long du mur.
+    kind: representative
+    origin: third-party
+    subject: Des travailleurs en uniforme bleu et charlotte inspectant et conditionnant des rangées de flacons de médicament remplis sur un établi dans un service de conditionnement pharmaceutique
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: Une paire de mains gantées de nitrile bleu et en blouse de laboratoire blanche positionnant un plateau en plastique transparent de comprimés sur un instrument de laboratoire en acier inoxydable portant un avertissement relatif aux surfaces chaudes.
+    kind: representative
+    origin: third-party
+    subject: Un technicien ganté chargeant un plateau d'échantillons de comprimés dans un appareil de test dans un laboratoire pharmaceutique de contrôle qualité
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 Chaque fois qu'un Malaisien fait exécuter une ordonnance pour un antibiotique, un antalgique ou un comprimé contre l'hypertension, il y a de bonnes chances que le médicament ait été fabriqué en Malaisie — non pas inventé ici, mais formulé, comprimé, rempli et conditionné dans une usine locale travaillant selon des normes de fabrication internationales. C'est le cœur de l'industrie pharmaceutique de la Malaisie : une base de fabrication solide, axée sur les génériques, qui garde la pharmacie nationale approvisionnée, associée à deux paris plus ambitieux — les produits pharmaceutiques halal et la production de vaccins — dont le pays espère qu'ils le feront monter dans la chaîne de valeur.

@@ -21,7 +21,7 @@ appliesTo: "विद्यार्थी, शोधकर्ता, यात�
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "1136 ई. की पारंपरिक स्थापना तिथि और फ्रा ओंग महावंगसा के सुल्तान मुदज़फ़्फ़र शाह प्रथम में परिवर्तन, केदाह इतिवृत्त (Hikayat Merong Mahawangsa) और At-Tarikh Salasilah Negeri Kedah से लिए गए हैं; इतिहासकार इस आरंभिक तिथि को असंभावित मानते हैं, और रिचर्ड विंस्टेड्ट एक आचेनी वृत्तांत का हवाला देते हुए परिवर्तन की तिथि 1474 बताते हैं।"
   - "केदाह को बार-बार 'सबसे पुरानी मलय सल्तनत' के रूप में वर्णित किया जाना एक पारंपरिक/लोकप्रिय चित्रण है और यहाँ उद्धृत स्रोतों द्वारा स्वतंत्र रूप से पुष्ट नहीं है।"
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'गुच्छों में सजे काले प्याज़नुमा गुंबदों और पतली मीनारों से सुसज्जित एक राजसी सफ़ेद मूरिश मस्जिद, जिसका अलंकृत मेहराबदार अग्रभाग नाटकीय बादलों के नीचे एक खुले चौक के ऊपर उभरता है।'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: Alor Setar में अलंकृत लकड़ी का Balai Besar शाही दरबार कक्ष, एक पीला खुले किनारों वाला मंडप जिसमें उत्कीर्ण स्तंभ, कंगूरेदार छज्जे और स्तरित छत है।
+    kind: actual
+    origin: third-party
+    subject: Alor Setar, Kedah में Balai Besar (शाही दरबार कक्ष)
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: Alor Setar में ऊँचा अष्टकोणीय Balai Nobat बुर्ज, एक पतला क्रीम और सुनहरा मीनार जैसा ढाँचा जिसके ऊपर एक छोटा प्याज़नुमा गुंबद है, जो शाही अनुष्ठानिक वाद्यवृंद को समेटे हुए है।
+    kind: actual
+    origin: third-party
+    subject: Balai Nobat, Alor Setar में अष्टकोणीय बुर्ज जिसमें Kedah का शाही nobat वाद्यवृंद रखा है
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 मलेशिया में शायद ही कोई जगह अपने अतीत को इतने खुलेपन से धारण करती है जितना केदाह। आलोर सेतार पर मीनारों के उठने से बहुत पहले, मेरबोक और मुदा नदियों के बीच का धान-हरा मैदान उन व्यापारियों के लिए किनारा था जो भारत, चीन और मलय जगत के बीच मानसूनी हवाओं पर सवार होकर आते थे। नाविक और विद्वान इस तट को कदारम या कटाहा के नाम से जानते थे; पुरातत्वविद् आज इसे बुजंग घाटी के मंदिर-टीलों से पहचानते हैं। उस महानगरीय, हिंदू-बौद्ध आरंभ से एक मलय राजतंत्र उभरा जो [श्रीविजय](/hi/malaysia/srivijaya) और चोल, अयुत्थया और बैंकॉक, और अंततः ब्रिटिश साम्राज्य को झेल गया।

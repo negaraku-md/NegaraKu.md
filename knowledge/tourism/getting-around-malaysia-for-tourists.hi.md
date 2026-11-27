@@ -116,9 +116,16 @@ sources:
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
-related: []
+related: ["malaysia-entry-visa-requirements", "e-hailing-grab", "domestic-ferries-and-island-transport"]
 keywords: ["मलेशिया में घूमना", "KLIA Ekspres", "KTM ETS ट्रेन", "मलेशिया घरेलू उड़ानें", "AirBorneo", "Grab मलेशिया", "मलेशिया फ़ेरी", "मलेशिया में ड्राइविंग", "Touch n Go", "getting around Malaysia", "domestic flights Malaysia", "driving in Malaysia"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'पहियों वाले सूटकेस के साथ एक यात्री केएल सेंट्रल स्टेशन पर गुलाबी KLIA Ekspres एयरपोर्ट-ट्रेन टिकट काउंटर पर खड़ा है, जहाँ एक कर्मचारी शीशे के पार उसकी सेवा कर रहा है।'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आप आधी रात को कुआलालंपुर अंतरराष्ट्रीय हवाई अड्डे पर उतरते हैं, जेट-लैग से थके हुए, और टैक्सी दलाल पहले से ही चक्कर काट रहे हैं। अच्छी ख़बर: मलेशिया के पास दक्षिण-पूर्व एशिया की सबसे पर्यटक-अनुकूल परिवहन प्रणालियों में से एक है, और आप झंझट से पूरी तरह बच सकते हैं — एक तेज़, निश्चित-क़ीमत हवाई-अड्डा ट्रेन, एक फ़ोन ऐप जो एक मीटर वाली कार बुलाता है, और सस्ती घरेलू उड़ानें जो बोर्नियो को एक सप्ताहांत की छलाँग बना देती हैं। युक्ति यह जानने में है कि कौन-सा साधन चुनें, और कब।

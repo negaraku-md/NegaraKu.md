@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["السياحة الطبية في ماليزيا", "medical tourism Malaysia", "السفر للرعاية الصحية", "MHTC", "Malaysia Healthcare Travel Council", "مستشفيات JCI", "IVF Malaysia", "رعاية القلب في ماليزيا"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'مبنى مركز برنس كورت الطبّي ذو السقف المنحني في كوالالمبور، واسمه على الواجهة، وأمامه لافتة طريق خضراء ولافتة الطوارئ.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تسافر عائلة إندونيسية جواً إلى بينانغ لإجراء مجازة قلبية، ويأتي زوجان من الخليج لأجل أطفال الأنابيب، ويحجز متقاعد من أستراليا فحصاً شاملاً للجسم يكلّف ثلاثة أضعاف في بلده. وهم معاً جزء من قطاع هادئ جلب أكثر من 1.6 مليون شخص إلى ماليزيا في سنة واحدة — لا للسياحة، بل للتعافي.

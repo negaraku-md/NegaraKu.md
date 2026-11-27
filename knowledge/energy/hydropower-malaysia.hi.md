@@ -32,7 +32,7 @@ faq:
     a: "नहीं। Baram बाँध, जिससे 412 वर्ग किमी के जलमग्न होने और ~20,000 लोगों के विस्थापित होने की उम्मीद थी, 2015 में एक स्थगन के ज़रिए रोक दिया गया और लगातार आदिवासी विरोध के बाद 2016 में आधिकारिक रूप से रद्द कर दिया गया।"
 
 lang: "hi"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["जलविद्युत", "Bakun बाँध", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "नवीकरणीय ऊर्जा", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'बाकुन बाँध के चौड़े धूसर तटबंध का हवाई दृश्य जिस पर BAKUN अंकित है, उसका लंबा स्पिलवे ढाल और नदी-किनारे का पावरहाउस, पीछे एक विशाल जलाशय और जंगली सारावाक पहाड़ियाँ'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'Murum Dam पावरहाउस के भीतर: एक ऊँचे हॉल में चमकदार फ़र्श पर खड़ी 1 और 2 अंकित नीली बेलनाकार हाइड्रो जनरेटर इकाइयों की कतारें, ऊपर पीली ओवरहेड क्रेन'
+    kind: actual
+    origin: third-party
+    subject: Murum Dam पावरहाउस का भीतरी दृश्य, जिसमें जलविद्युत जनरेटर इकाइयाँ दिख रही हैं
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: कंक्रीट की Murum Dam दीवार और जुड़वाँ स्पिलवे ढलानें एक जलाशय को रोके हुए, Sarawak की घनी हरी वर्षावन पहाड़ियों के पार दूर से देखा गया दृश्य
+    kind: actual
+    origin: third-party
+    subject: जंगली पहाड़ियों के पार दिखता Sarawak का Murum जलविद्युत बाँध
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 बोर्नियो की वर्षावन श्रेणियों से नीचे बहता पानी अब ऐसे टर्बाइन घुमाता है जो एल्युमिनियम स्मेल्टरों को बिजली देते हैं — और यही मलेशिया की नवीकरणीय ऊर्जा रणनीति का केंद्र है। लेकिन वहाँ तक पहुँचने का रास्ता मेगा-बाँधों, सैकड़ों वर्ग किलोमीटर में फैली झीलों, और स्थानांतरित होने को मजबूर हज़ारों आदिवासी परिवारों से चिह्नित है।

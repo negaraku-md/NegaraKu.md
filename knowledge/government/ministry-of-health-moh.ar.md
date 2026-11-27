@@ -27,7 +27,7 @@ faq:
   - q: "هل تدير KKM المستشفيات الخاصة؟"
     a: "لا. تشغّل KKM المستشفيات والعيادات العامة، وتنظّم على نحو منفصل الرعاية الصحية الخاصة بموجب قانون مرافق وخدمات الرعاية الصحية الخاصة لسنة 1998 (Private Healthcare Facilities and Services Act 1998 (Act 586))، الذي يضع حدًا أدنى لمعايير الجودة والسلامة، ويحدّد سقفًا للرسوم التي يجوز للأطباء تقاضيها عن الإجراءات."
 lang: "ar"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,9 +79,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "وزارة الصحة الماليزية", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "وزير الصحة الماليزي", "Director-General of Health", "المدير العام للصحة", "klinik kesihatan", "moh.gov.my", "الرعاية الصحية العامة ماليزيا", "Dzulkefly Ahmad", "رسم العيادة RM1"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: 'برج حكومي طويل من الحجر الرملي والزجاج الأخضر يعلوه تاج مربّع مفتوح، مع عبارة KEMENTERIAN KESIHATAN MALAYSIA والشعار الوطني فوق مظلّة مدخله أمام سماء غائمة'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: مبنى حكومي جريء بزجاج أخضر ذو أجنحة مشطوفة بزوايا حادة وسقف ناتئ، وعلم ماليزي عمودي طويل منسدل على واجهته اليمنى فوق ساحة مبلّطة
+    kind: actual
+    origin: third-party
+    subject: مبنى شعبة إدارة التدريب التابع لوزارة الصحة الماليزية في مجمّع KKM، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 حين تدخل عيادة حكومية ماليزية، وتسلّم ورقة من فئة RM1، وتخرج وقد غُطّيت استشارتك

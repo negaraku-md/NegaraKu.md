@@ -32,7 +32,7 @@ faq:
     a: "ஆம். Oxford English Dictionary தொடர்ச்சியான புதுப்பிப்புகளில் பல மலேசிய ஆங்கிலச் சொற்களைச் சேர்த்துள்ளது — 2016-இல் lepak, shiok, teh tarik; அதே ஆண்டின் பிற்பகுதியில் mamak, kopitiam, atas உள்ளிட்ட பல மங்லிஷ் மற்றும் மலேசிய உணவுச் சொற்கள்; மற்றும் அடுத்தடுத்த புதுப்பிப்பில் boleh, agak-agak, wayang போன்ற சொற்கள் — புதிய ஆங்கிலத்தை உருவாக்குவதற்குப் பதிலாக நிலைபெற்ற மலேசிய பயன்பாட்டை அங்கீகரிக்கிறது."
 
 lang: "ta"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,32 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'சுவரெழுத்துக்களால் குறிக்கப்பட்ட ஒரு மின்சாரப் பெட்டியில் கையால் வரையப்பட்ட ஆரஞ்சு மற்றும் நீல நிறப் பலகை PETALING STREET KUALA LUMPUR என வாசிக்கப்படுகிறது, அதன் பின்னால் ஒரு நகரத் தெரு மற்றும் கட்டிடங்கள்.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: ஜார்ஜ் டவுனில் கடைகள் ஆங்கிலம், தமிழ், சீனம், மலாய் ஆகிய மொழிகளில் அடுத்தடுத்து அறிவிப்புப் பலகைகளைக் கொண்டிருக்கும் ஒரு கடை-வீடு தெரு
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுனில் பல மொழிகளிலும் எழுத்துக்களிலும் கடை அறிவிப்புப் பலகைகள் நிறைந்த ஒரு லிட்டில் இந்தியா தெரு
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: மாலை வேளையில் ஒரு பரபரப்பான மலேசிய இரவுச் சந்தையில் உணவு மற்றும் பொருட்கள் விற்கும் கடை வரிசைகளைக் கடந்து நடக்கும் வாங்குநர்கள்
+    kind: actual
+    origin: third-party
+    subject: சிலாங்கூர், செரி கெம்பாங்கானில் ஒரு இரவுச் சந்தை (பசார் மாலம்), அன்றாட பல்மொழி மலேசிய தெரு சூழல்
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

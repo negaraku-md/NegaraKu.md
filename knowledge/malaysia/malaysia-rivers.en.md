@@ -22,7 +22,7 @@ appliesTo: "Students of Malaysian geography and history, and anyone who wants to
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'A wide muddy-brown tropical river curving between banks lined with dense green rainforest and tall reeds, beneath a bright blue sky with scattered clouds.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: The wide, calm expanse of the Rajang River reflecting a golden evening sky, bordered by the low forested banks of Sarawak fading into the distance.
+    kind: actual
+    origin: third-party
+    subject: The Rajang River at dusk in Sarawak, Malaysia's longest river
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: The narrow Melaka River flowing between colourful riverside shophouses and waterfront walkways in the historic old town of Malacca.
+    kind: actual
+    origin: third-party
+    subject: The Melaka River winding through the historic old town of Malacca City
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 Before the Pan Borneo Highway or MASwings flights existed, the only way to reach the interior of Sarawak was to travel upriver for days on end. Today's major towns — Sibu, Kapit, Sandakan, Pekan — did not come to exist at their locations by chance. Each one sits where the river decided: at a river mouth, at the confluence of two rivers, or at the furthest point still navigable by ship. Three rivers — the Rajang, the Kinabatangan and the Pahang — show this pattern most clearly.

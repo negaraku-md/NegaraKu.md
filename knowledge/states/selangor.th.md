@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "th"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'มัสยิดสุลต่านซาลาฮุดดินอับดุลอาซิซโดมสีน้ำเงินที่ประดับไฟพร้อมหอมินาเรตสูงสี่หอส่องสว่างตัดกับท้องฟ้ายามพลบค่ำสีน้ำเงินเข้มในชาห์อาลัม'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: ประภาคารตั้งตระหง่านอยู่บนป้อมปราการบนยอดเขาบูกิตเมอลาวาตีอันเก่าแก่ที่มองลงไปยังกัวลาเซอลาโงร์ในรัฐเซอลาโงร์
+    kind: actual
+    origin: third-party
+    subject: ประภาคารกัวลาเซอลาโงร์บนบูกิตเมอลาวาตี รัฐเซอลาโงร์
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: ต้นไม้และทางเดินเปล่งประกายด้วยไฟ LED หลากสีที่สวนสนุก i-City ในชาห์อาลัม รัฐเซอลาโงร์
+    kind: actual
+    origin: third-party
+    subject: สวนแสง i-City ชาห์อาลัม รัฐเซอลาโงร์
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 สลังงอร์ (Selangor) คือรัฐที่เศรษฐกิจของมาเลเซียพึ่งพิงอยู่อย่างเงียบ ๆ รัฐนี้โอบล้อมเมืองหลวงของสหพันธรัฐอย่างกัวลาลัมเปอร์และเมืองหลวงด้านการบริหารอย่างปุตราจายาไว้อย่างสมบูรณ์ และทั้งสามแห่งนี้รวมกันเป็นหุบเขากลัง (Lembah Klang) — เขตเมืองและอุตสาหกรรมต่อเนื่องที่ใหญ่ที่สุดในประเทศ

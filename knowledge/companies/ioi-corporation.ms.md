@@ -30,7 +30,7 @@ faq:
     a: "Di Malaysia (termasuk Johor, Melaka, Negeri Sembilan, Pahang, Sabah dan Sarawak) dan di Indonesia (Kalimantan Barat dan Tengah)."
 
 lang: "ms"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'Pintu masuk utama berkaca dan logam melengkung IOI City Mall dengan papan tanda ''ioiCITYMALL'' merah di atas pintu, diapit menara pejabat bercermin tinggi di bawah langit mendung dramatik'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: Sebuah menara penapis minyak sawit perindustrian biru bertanda 'IOI' besar dan papan logo 'IOI EDIBLE OILS' di Sandakan, Sabah, berlatarkan bukit berhutan dengan pokok sawit di hadapan
+    kind: actual
+    origin: third-party
+    subject: Kompleks penapis minyak sawit IOI Edible Oils di Sandakan, Sabah, sebahagian daripada pembuatan berasaskan sumber IOI Corporation
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: Atrium dalaman berbilang aras IOI City Mall 2, sepanduk promosi merah jambu tinggi 'IOi CiTY MALL 2' tergantung di atas balkoni melengkung yang dibarisi kedai
+    kind: actual
+    origin: third-party
+    subject: Atrium dalaman IOI City Mall 2, fasa kedua IOI City Mall, Putrajaya
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 Sebuah syarikat yang bermula dengan menjual gas industri kini menanam kelapa sawit yang cukup untuk memenuhi bank tanah sebesar sebuah daerah kecil — dan mengubah buah itu menjadi pelbagai produk daripada minyak masak hinggalah asid lemak di dalam sabun anda.

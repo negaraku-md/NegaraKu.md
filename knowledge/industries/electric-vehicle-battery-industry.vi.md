@@ -31,7 +31,7 @@ faq:
   - q: Bản thiết kế Di chuyển Carbon Thấp là gì?
     a: Đó là lộ trình 2021–2030 của Malaysia cho giao thông sạch hơn, do bộ môi trường và Tổng công ty Công nghệ Xanh Malaysia (MGTC) dẫn dắt. Nó đặt mục tiêu về mức độ áp dụng EV và hạ tầng sạc, và làm nền cho các ưu đãi thuế dành cho người mua và người làm EV.
 lang: vi
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - Samsung SDI
   - áp dụng EV
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Một trụ sạc nhanh DC đặt tại ô đỗ dành riêng cho xe điện ở một trạm dừng chân trên đường cao tốc Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: Hai cell pin lithium-ion hình trụ, một loại 18650 và một loại 21700 lớn hơn, đặt cạnh nhau.
+    kind: representative
+    origin: third-party
+    subject: Các cell pin lithium-ion hình trụ
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: Bộ pin kéo lithium-ion dạng dẹt của một chiếc ô tô điện, được trưng bày để cho thấy cách bố trí cell theo mô-đun.
+    kind: representative
+    origin: third-party
+    subject: Bộ pin kéo lithium-ion của xe điện
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 Malaysia đã dành nửa thế kỷ để chế tạo ô tô. Giờ đây đất nước đang cố gắng điện khí hóa chúng — và, quan trọng không kém, làm ra pin và xây dựng mạng sạc mà xe điện phụ thuộc vào. Đây là một câu chuyện khác với câu chuyện được kể trong hướng dẫn về [ngành ô tô của Malaysia](/vi/industries/automotive-industry/), vốn chủ yếu nói về xe xăng và dầu diesel. Ở đây chủ đề là *hệ sinh thái* EV và pin: các phương tiện, các ưu đãi, các trụ sạc và các nhà máy cùng nhau quyết định Malaysia chuyển sang di chuyển bằng điện nhanh ra sao.

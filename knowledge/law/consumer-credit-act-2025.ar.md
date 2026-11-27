@@ -101,9 +101,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["قانون الائتمان الاستهلاكي 2025", "Consumer Credit Act", "BNPL ماليزيا", "لجنة الائتمان الاستهلاكي", "قانون البيع بالتقسيط 1967", "معدل الفائدة الفعلي", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 دفع ثلاثة أقساط شهرية لزوج من الأحذية، أو قيادة سيارة جديدة إلى المنزل بدفعة مقدمة قدرها 10% — معاملتان ائتمانيتان مألوفتان لدى الماليزيين، لكنهما كانتا حتى وقت قريب محكومتَين بعالمين قانونيين مختلفين تمامًا. والآن، تجري إعادة تنظيم كلتيهما في وقت متقارب تقريبًا.

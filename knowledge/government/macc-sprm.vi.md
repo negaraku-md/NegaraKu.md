@@ -33,7 +33,7 @@ faq:
     a: "Có. Điều 17A, được đưa vào bởi bản sửa đổi 2018 (Act A1567) và có hiệu lực từ ngày 1 tháng 6 năm 2020, khiến một tổ chức thương mại chịu trách nhiệm khi một người có liên quan đến nó đưa hoặc đề nghị hối lộ một cách tham nhũng để có được hoặc giữ được công việc kinh doanh. Riêng biệt, định nghĩa 'cơ quan công' trong điều 3 của Đạo luật vươn đến các công ty và công ty con mà một cơ quan công có quyền kiểm soát hoặc lợi ích trong đó."
 
 lang: "vi"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'Một tòa nhà chính phủ dài bằng gạch đỏ vươn lên trên một bức màn cây xanh, mặt tiền phía trên mang dòng chữ SPRM (MACC) vàng và biểu tượng phía trên những hàng cửa sổ vòm treo những lá cờ Malaysia nhỏ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: Một tòa tháp hình mũi tàu bằng kính sẫm màu kẻ sọc, được nâng trên những cột trắng cao, được bao quanh bởi những cây cọ hoàng gia dưới bầu trời xanh sáng điểm vài gợn mây ở Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp kính sẫm màu hình cong của trụ sở chính Ủy ban Chống tham nhũng Malaysia (MACC), Putrajaya (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 Hầu hết các mô tả về MACC dừng lại ở "cơ quan chống tham nhũng của Malaysia". Câu hỏi

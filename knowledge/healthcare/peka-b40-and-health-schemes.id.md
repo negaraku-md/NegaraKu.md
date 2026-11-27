@@ -21,7 +21,7 @@ verificationNeeded:
   - "Artikel ini tidak menyatakan daftar lengkap 50 penyakit kritis yang memenuhi syarat di bawah mySalam karena daftar terperinci tidak disahkan secara langsung pada laman resmi mysalam.com.my saat penulisan; silakan periksa portal resmi mySalam untuk daftar lengkap."
   - "Masa berlaku skema mySalam dan PeKa B40 tunduk pada keputusan Anggaran tahunan; angka dan syarat dalam artikel ini disahkan berdasarkan laman resmi saat penulisan (Juli 2026) dan mungkin diperbarui pada anggaran mendatang."
 lang: "id"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'Sebuah klinik kesehatan pemerintah Malaysia modern dengan area tunggu luar ruangan, jenis Klinik Kesihatan tempat pemeriksaan skema kesehatan B40 dilakukan.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: Bagian luar Klinik Kesihatan Nilai, sebuah klinik kesehatan umum Kementerian Kesihatan Malaysia yang melayani masyarakat
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai, sebuah klinik kesehatan pemerintah Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: Bagian depan Klinik Kesihatan Tanglin di Kuala Lumpur, sebuah klinik kesehatan umum pemerintah Malaysia
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin, sebuah klinik kesehatan pemerintah di Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 Banyak yang mendengar nama "PeKa B40" tetapi anggapannya berbeda-beda — ada yang mengira ia menanggung semua biaya rumah sakit, ada yang bingung dengan mySalam, dan ada yang langsung mengabaikannya karena mengira perlu mengajukan secara terpisah. Ketiga anggapan itu tidak tepat. PeKa B40 memiliki cakupan yang jelas dan terbatas — dan mengetahui cakupannya berarti tahu kapan harus memakainya, dan kapan perlu mencari bantuan lain.

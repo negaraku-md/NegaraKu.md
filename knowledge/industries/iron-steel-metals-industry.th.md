@@ -31,7 +31,7 @@ faq:
   - q: มาเลเซียแข็งแกร่งในโลหะอื่นนอกจากเหล็กหรือไม่?
     a: ใช่ ในโลหะนอกกลุ่มเหล็ก มาเลเซียแข่งขันได้ในระดับโลก Press Metal ซึ่งตั้งอยู่ในรัฐซาราวัก เป็นผู้ผลิตอะลูมิเนียมแบบครบวงจรที่ใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ และ Malaysia Smelting Corporation เป็นหนึ่งในผู้ผลิตดีบุกบริสุทธิ์ชั้นนำของโลก ซึ่งเป็นมรดกจากประวัติศาสตร์การทำเหมืองดีบุกอันยาวนานของประเทศ
 lang: th
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'โรงงานเหล็กครบวงจรขนาดใหญ่พร้อมเตาถลุงเหล็ก ปล่องสูงและกลุ่มไอน้ำสีขาว พร้อมเนินเขาป่าและบ้านเรือนอยู่ไกลออกไป'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: เตาถลุงเหล็กสูงสองเตาพร้อมท่อส่งและปล่องระบายไอน้ำสีขาว ตัดกับท้องฟ้าสีฟ้าใส
+    kind: representative
+    origin: third-party
+    subject: เตาถลุงเหล็กที่โรงงานเหล็ก Scunthorpe ประเทศอังกฤษ
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: ภายในโรงหลอมเหล็ก เตาอาร์คไฟฟ้าขนาดใหญ่พร้อมเครนเหนือศีรษะ ระบบท่อ และคนงานบนทางเดินเหล็ก
+    kind: representative
+    origin: third-party
+    subject: ภายในโรงหลอมเตาอาร์คไฟฟ้าที่โรงงานเหล็ก ProfilARBED เมือง Differdange ประเทศลักเซมเบิร์ก
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 เบื้องหลังอาคาร สะพาน และทางหลวงแทบทุกแห่งในมาเลเซียคืออุตสาหกรรมที่เงียบกว่าซึ่งผลิตโลหะที่ค้ำจุนทุกสิ่งไว้ เหล็กและเหล็กกล้าแทบไม่เป็นข่าวพาดหัวแบบเซมิคอนดักเตอร์หรือน้ำมันปาล์ม ทว่าเป็นรากฐาน: เหล็กเส้นเสริมในเสาคอนกรีต ลวดในสายเคเบิล แผ่นในประตูรถยนต์ มาเลเซียผลิตสิ่งเหล่านี้เองเป็นจำนวนมาก — และในโลหะบางชนิดก็อยู่ในระดับโลกอย่างแท้จริง แต่เรื่องราวครึ่งที่เป็นเหล็กกล้าก็เป็นหนึ่งในภาคการผลิตที่มีปัญหามากที่สุดของประเทศ ซึ่งนิยามได้ด้วยความไม่สอดคล้องที่ดื้อรั้นระหว่างปริมาณที่ผลิตได้กับปริมาณที่ตลาดต้องการจริง

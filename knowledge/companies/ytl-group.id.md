@@ -30,7 +30,7 @@ faq:
     a: "YTL Power sedang membangun sebuah taman pusat data yang besar di Kulai, Johor, dan menyelesaikan fasilitas AI bertenaga Nvidia pertama yang diumumkan beroperasi pada akhir Oktober 2025."
 
 lang: "id"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,33 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: 'Fasad geometris bersegi gelap dan perunggu yang khas pada mal mewah Starhill Gallery di Bukit Bintang, dengan menara hotel JW Marriott menjulang di belakangnya'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: Bulevar sepi berjajar pohon palem yang membelah Sentul Park dengan pilon spanduk tinggi bertuliskan SENTUL PARK dan SENTUL WORKS di sepanjang tepi jalan
+    kind: representative
+    origin: third-party
+    subject: Bulevar berjajar pohon melalui Sentul Park, pembangunan regenerasi perkotaan oleh YTL Land (lengan properti YTL Corporation), Kuala Lumpur — spanduk SENTUL PARK / SENTUL WORKS tampak; nama induk YTL tidak terlihat dalam bingkai
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: Pemandangan setinggi jalan pintu masuk pusat perbelanjaan Lot 10 dengan fasad hijaunya, papan nama Isetan The Japan Store di atas dan sebuah gerai H&M di lantai dasar
+    kind: representative
+    origin: third-party
+    subject: Pusat perbelanjaan Lot 10 di Jalan Bukit Bintang, sebuah landmark ritel milik YTL Corporation (menampung Isetan The Japan Store), Kuala Lumpur — properti YTL terkonfirmasi, nama induk YTL tidak terlihat dalam bingkai
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL adalah salah satu kelompok terdiversifikasi terbesar di Malaysia, yang paling dipahami bukan sebagai sebuah perusahaan tunggal tetapi sebagai sekumpulan bisnis tercatat dan tidak tercatat yang dibangun di seputar infrastruktur.

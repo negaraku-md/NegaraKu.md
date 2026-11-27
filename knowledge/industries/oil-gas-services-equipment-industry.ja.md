@@ -31,7 +31,7 @@ faq:
   - q: 国家OGSE産業ブループリントとは何ですか。
     a: 2021年4月に立ち上げられ、2024年に中間レビューが行われた、この部門をより競争力があり、強靭で、持続可能にするための政府の10年計画（2021～2030）です。その目標には、輸出収入の倍増、およそRM500億のGDP貢献の維持、そして企業を炭素回収・水素・再生可能エネルギーといったエネルギー移行サービスへ押し進めることが含まれます。
 lang: ja
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,34 @@ keywords:
   - offshore support vessels
   - National OGSE Blueprint
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: '海上で正面から見る半潜水式海洋掘削リグ。箱型のデッキと背の高い中央のやぐらが2つの沈んだポンツーンに支えられ、水中にアンカーラインが走り、水平線に遠くの補給船'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: 黄金色の光の中、デッキクレーンが隣に停留する洋上支援船へ荷物を降ろす大型の洋上石油生産プラットフォーム。周囲は青い外洋
+    kind: representative
+    origin: third-party
+    subject: 生産プラットフォームの隣で作業する洋上支援船と、荷物を移送するプラットフォームのクレーン
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: Island Chieftainという名の青白の洋上支援船が岸壁に係留され、高い前方のブリッジと長く平らな開放式の貨物甲板が見え、背後に山々がある様子
+    kind: representative
+    origin: third-party
+    subject: 岸壁に係留されたプラットフォーム補給・洋上支援船で、開放式の後部貨物甲板が見える様子
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 マレーシアの石油・ガスの富を思い浮かべるとき、人々はたいてい、トレンガヌ、サラワク、サバの沖合の海底の下の原油とガス――PETRONASをアジア最大級のエネルギー企業にした埋蔵量――を思う。だが炭化水素は自ら地中から持ち上がってはこない。生産するすべての油田の背後には、小さな請負業者の一軍が控えている。鉄のプラットフォームを溶接するヤード、坑井を掘るリグ、乗員と貨物を沖合へ運ぶ船、施設を設計する技術者、そしてすべてを動かし続ける技術者たちだ。そのエコシステムが**石油・ガスサービス・装置（OGSE）産業**であり、それ自体でマレーシアの主要な産業である。

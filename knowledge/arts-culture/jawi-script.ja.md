@@ -36,7 +36,7 @@ socialTitle: "七世紀にわたりマレー語を書いてきたアラビア文
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -84,6 +84,34 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'トレンガヌの王室紋章と「Istana Maziah」の文字を金色のジャウィ(アラビア文字由来のマレー文字)で記した濃紺の看板'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: 華やかな金・青・赤の花模様の装飾で縁取られた、向かい合うジャウィ文字の写本2ページ
+    kind: actual
+    origin: third-party
+    subject: ジャウィで手書きされたマレー文学作品『タージュ・アッサラティン』の装飾を施した冒頭ページ
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: 展示ケースの中の古い開かれた写本の本。向かい合うページには流れるような手書きのジャウィ文字が覆っている
+    kind: actual
+    origin: third-party
+    subject: 博物館に展示された、ジャウィで書かれた『フクム・カヌン・ムラカ』（マラッカ法典）の開かれた写本
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 トレンガヌ州で発見された一枚の石碑には、マレー語の言葉が刻まれている——今日わたしたちが使う文字ではなく、マレー語の音に合わせて調整されたアラビア文字によってである。この碑文、トレンガヌ碑文石（Batu Bersurat Terengganu）は、ヒジュラ暦702年の年代を持ち、これは通常西暦1303年に対応するとされる。

@@ -42,7 +42,7 @@ verificationNeeded:
   - "Agensi pengelola dan jalur permohonan bagi insentif pekerja berpengetahuan JS-SEZ tidak dinyatakan dalam pedoman MIDA — Appendix B kutipan tersebut mencantumkannya di bawah insentif lain tanpa menyebutkan jalur. Pastikan dengan MIDA atau IRDA sebelum memberi nasihat."
 
 lang: "id"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ keywords:
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'Menara perkantoran korporat berkaca gelap elegan di Medini, Iskandar Puteri, menjulang di atas jalan setapak taman yang tertata di bawah langit cerah'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: Pemandangan udara Forest City di Johor yang memperlihatkan menara-menara tepi laut bertingkat tinggi yang sedang dibangun dan deretan blok vila putih di sepanjang pantai reklamasi di tepi selat
+    kind: actual
+    origin: third-party
+    subject: Forest City, pembangunan lintas batas unggulan di Johor di Selat Johor, dengan menara dan blok vila yang sedang dibangun menghadap perairan ke arah Singapura
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: Papan landmark 'Iskandar Puteri' besar di tepi jalan pada bundaran bertaman, dengan menara perkantoran dan komersial serta derek konstruksi di cakrawala di belakangnya
+    kind: actual
+    origin: third-party
+    subject: Papan landmark gerbang Iskandar Puteri dengan menara komersial kawasan ini dan derek yang menjulang di cakrawala di belakangnya
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 Setiap ringkasan tentang Zona Ekonomi Khusus Johor-Singapura dimulai dengan angka yang sama: 5

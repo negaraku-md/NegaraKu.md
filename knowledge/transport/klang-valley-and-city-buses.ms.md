@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus mula menukar 19 laluan berpenumpang rendah — 16 laluan feeder MRT dan 3 laluan biasa, kira-kira 7% daripada rangkaian — kepada perkhidmatan van boleh tempah Rapid KL On-Demand."
 
 lang: "ms"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,9 +72,33 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: 'Bas dua tingkat Rapid KL berwarna merah/krim/biru yang mencolok di platformnya (laluan 751, pertukaran Hab Pasar Seni) dengan papan tanda platform'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: Bas bandar elektrik percuma GO KL biru-hijau berhenti di perhentian/pondok tepi jalan ('100% Tenaga Bersih / Perkhidmatan Bas Percuma') — pandangan bas di perhentian dan livery/mod yang tersendiri. Dua penumpang kecil yang tidak dapat dikenali di pondok.
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: Profil sisi bersih bas Rapid KL satu tingkat (livery merah/krim/biru) di KL Sentral — melengkapi hero dwitingkat dan badan GO KL elektrik. Tiada wajah.
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 Kereta api membawa anda ke stesen. Ia jarang membawa anda pulang ke rumah. Jurang itu — dari platform MRT atau LRT ke depan pintu rumah anda, taman perindustrian pejabat anda, atau pasar basah dua kejiranan jauhnya — dipenuhi oleh sebuah armada yang jarang difikirkan oleh kebanyakan penumpang: bas Rapid KL.

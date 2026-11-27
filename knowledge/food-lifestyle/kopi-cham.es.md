@@ -84,6 +84,14 @@ drinkFacts:
   halal: "El kopi cham es café, té, agua y leche, sin alcohol, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, así que los comensales que necesiten certificación deben comprobarlo en cada cafetería."
   served: "Se sirve caliente por defecto; pide «ais kopi cham» o «cham peng» para la versión helada. Viene dulce con leche condensada; añade «kosong» para sin azúcar o «kurang manis» para menos dulce. Se pide a través del mismo código modular (O, C, kosong, gao, peng) que el kopi y el teh."
   where: "Se encuentra en las cafeterías kopitiam y los puestos mamak por todo el país, servido desde el mismo mostrador que el kopi y el teh tarik —una bebida de cada día para cualquier momento, para quienes no pueden elegir entre el café y el té—."
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Una mezcla espumosa de café y té (kopi cham) en una taza y platillo de kopitiam con motivos florales"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 Para cualquiera que se siente en una cafetería malasia y no pueda decidirse entre el

@@ -34,7 +34,7 @@ faq:
     a: "Il n'existe pas de loi spécifique au VIH. Des dispositions générales du Code pénal telles que les articles 269 et 270 peuvent s'appliquer à la propagation de maladies dangereuses, mais aucune poursuite connue liée au VIH n'a eu lieu à ce jour."
 
 lang: "fr"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["VIH", "sida", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'Un ruban rouge de sensibilisation, le symbole international de la sensibilisation au VIH/sida, sur un fond blanc uni.'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: Une cassette de test rapide du VIH, un flacon de tampon et des fournitures disposés sur une table propre recouverte de papier, manipulés par des mains gantées, sans aucun visage montré
+    kind: representative
+    origin: third-party
+    subject: Un kit de test rapide du VIH disposé sur une table avant le test, avec des mains gantées
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: Un bâtiment bas de clinique publique de santé sexuelle au coin d'une rue, avec des banderoles de sensibilisation sur sa façade et sans aucune personne présente
+    kind: representative
+    origin: third-party
+    subject: L'extérieur d'une clinique publique de santé sexuelle avec des banderoles de sensibilisation à la santé
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 Une personne angoissée après une nuit à risque peut entrer dans une Klinik Kesihatan publique en Malaisie, se faire dépister pour le VIH gratuitement et de façon confidentielle et — si besoin — rentrer chez elle avec un traitement préventif en quelques heures. Pourtant, ce même parcours croise aussi des questions de confidentialité, de droit, de religion et de stigmatisation qui font du VIH l'un des sujets de santé les plus sensibles du pays.

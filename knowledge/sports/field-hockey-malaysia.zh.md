@@ -33,7 +33,7 @@ faq:
     a: "马来西亚曲棍球联合会（Malaysian Hockey Confederation，MHC）是男女草地曲棍球与室内曲棍球的全国管理机构。它隶属于亚洲曲棍球联合会（AHF）及FIH，运营基地设于吉隆坡武吉加里尔的国家曲棍球体育场。"
 
 lang: "zh"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,32 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: '曲棍球选手在一场世界杯曲棍球赛的马来西亚比赛中追逐着球。'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: 一场曲棍球比赛，马来西亚对阵荷兰，1973年曲棍球世界杯于阿姆斯特尔芬（Amstelveen）举行。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚国家曲棍球队征战1973年曲棍球世界杯
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: 位于柔佛新山（Johor Bahru）的达雅花园曲棍球体育场（Taman Daya Hockey Stadium）的球场与看台，马来西亚的一处曲棍球场馆。
+    kind: actual
+    origin: third-party
+    subject: 柔佛新山的达雅花园曲棍球体育场，马来西亚的一处曲棍球场馆
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 1975年3月15日，吉隆坡的一座体育场见证了印度举起男子曲棍球世界杯——这是他们历史上唯一的一次——而东道主并非印度，而是马来西亚。半个世纪后，同一个国家仍然每年邀请世界曲棍球强国来到怡保。草地曲棍球或许不是今日马来西亚最受欢迎的运动，但它可能是这个国家在国际上最受敬重的体育传统。

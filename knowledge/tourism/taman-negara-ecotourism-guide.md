@@ -75,9 +75,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'Travellers after an ancient tropical rainforest — the treetop canopy walkway, jungle trekking, wildlife hides and river trips — based at the Kuala Tahan gateway in Pahang.'
+  getThere: 'Travel by road to Jerantut in Pahang, then take a boat up Sungai Tembeling from the Kuala Tembeling jetty to Kuala Tahan, with a direct road link as the alternative.'
+  permit: 'Every visitor registers for a PERHILITAN entrance permit on arrival at the jetty or park counter, pays a separate camera licence, and must use a licensed guide for the Gunung Tahan climb.'
+  watch: 'The northeast monsoon can swell rivers and disrupt boats and trails, the canopy walkways have faced closures, and leeches and humidity are constant — confirm access and book guides ahead.'
+  next: 'Confirm current permit and entry rules and fees with the Department of Wildlife and National Parks (PERHILITAN) office at Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Rolling hills of dense tropical rainforest stretching to the horizon under a blue sky in Taman Negara'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: A visitor crossing a narrow rope-and-plank canopy walkway suspended among tall rainforest trees in Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Canopy walkway suspension bridge high in the rainforest treetops at Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Wooden longboats on the Tembeling River beside a forested riverbank with mist over the hills at Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Tembeling River with longboats at the Taman Negara jetty in the morning mist
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 Standing at the Kuala Tahan jetty at dawn, watching mist lift off a river older than the Himalayas, it is easy to forget you are barely a half-day from Kuala Lumpur. Taman Negara is not a manufactured attraction. It is a living tropical rainforest that has stood, roughly undisturbed, for tens of millions of years — and getting into it is cheaper and simpler than almost any traveller expects.

@@ -29,7 +29,7 @@ faq:
   - q: "अंत में स्ट्रेट्स सेटलमेंट्स का क्या हुआ?"
     a: "इसे 1 अप्रैल 1946 को भंग कर दिया गया। पेनांग और मेलाका को महासंघित और गैर-महासंघित मलय राज्यों के साथ मलायन यूनियन में समाहित किया गया, जबकि सिंगापुर को अपनी एक अलग क्राउन कॉलोनी के रूप में अलग कर दिया गया।"
 lang: "hi"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -93,6 +93,32 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "स्ट्रेट्स सेटलमेंट्स", "पेनांग औपनिवेशिक इतिहास", "मेलाका ब्रिटिश शासन", "सिंगापुर क्राउन कॉलोनी", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'मौसम की मार झेली पत्थर की दीवारों के बीच लकड़ी की छत वाला एक गर्म रोशनी से जगमगाता प्रवेशद्वार गोधूलि में चमक रहा है, जिसके प्रकाशित चिह्न पर ''Fort Cornwallis 1786 Penang'' लिखा है, और इसके नीचे किले के मैदान की ओर जाता खुला रास्ता है।'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: ऊँचे स्तंभों वाले बरामदों, मेहराबदार खिड़कियों और सममित अग्रभाग वाली एक भव्य दोमंजिला सफ़ेदी-पुती औपनिवेशिक इमारत, जो George Town, Penang में नीले आसमान तले एक सुव्यवस्थित हरे मैदान के पीछे स्थित है।
+    kind: actual
+    origin: third-party
+    subject: George Town में सफ़ेदी-पुती औपनिवेशिक-कालीन Penang City Hall, जो Straits Settlements की एक प्रशासनिक इमारत है
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: एक बड़ी हवेली का अलंकृत अग्रभाग जो चटख नीली (indigo) रंगत में रंगा है, जिसमें हरे झिलमिली शटर, सजावटी छज्जे और मेहराबदार दरवाज़ों की एक कतार है; George Town, Penang में Straits Chinese आँगन-गृह की एक ऐतिहासिक इमारत।
+    kind: actual
+    origin: third-party
+    subject: George Town, Penang में नीली-indigo रंगत वाली Cheong Fatt Tze Mansion, एक Straits Chinese व्यापारी का आँगन-गृह
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 तीन बंदरगाह, प्रशासनिक स्थिति में चार परिवर्तन, और इकतालीस वर्ष। यह स्ट्रेट्स सेटलमेंट्स का हाल है, मलय राज्यों को छूने से पहले ही।

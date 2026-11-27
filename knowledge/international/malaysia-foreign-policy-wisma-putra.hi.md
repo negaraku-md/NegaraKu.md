@@ -37,7 +37,7 @@ faq:
     a: "आसियान मलेशिया की विदेश नीति की आधारशिला या नींव है। मलेशिया आसियान के संस्थापक देशों में से एक है और लगातार आसियान की अखंडता और केंद्रीयता को प्राथमिकता देता है, जबकि संयुक्त राष्ट्र (UN), इस्लामी सहयोग संगठन (OIC) और गुटनिरपेक्ष आंदोलन (NAM) जैसे अन्य मंचों में सक्रिय रहता है।"
 
 lang: "hi"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["मलेशिया विदेश नीति", "Wisma Putra", "विदेश मंत्रालय", "ZOPFAN", "तटस्थता नीति", "मलेशिया कूटनीति", "ASEAN", "सामरिक योजना 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'विस्मा पुत्रा का ताड़-पंक्तिबद्ध प्रवेश-मार्ग, जिसमें Wisma Putra Kementerian Luar Negeri Malaysia साइनबोर्ड और पीछे मंत्रालय मीनार दिख रही है'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Putrajaya में राज्य ध्वजों और गेटहाउस के साथ Wisma Putra परिसर के प्रवेश द्वार का चौड़ा दृश्य
+    kind: actual
+    origin: third-party
+    subject: Wisma Putra प्रवेश द्वार और गेटहाउस का व्यापक दृश्य, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 जब संयुक्त राज्य अमेरिका मलेशिया की अर्थव्यवस्था में सबसे बड़ा विदेशी निवेशक है, पर चीन उसका सबसे बड़ा व्यापारिक साझेदार है, तो एक छोटा और खुला देश किसी पक्ष का साथ लेने का जोखिम नहीं उठा सकता। यही कारण है कि मलेशिया की विदेश नीति दशकों से एक ऐसे शब्द से चिपकी रही है जिसे कहना आसान पर निभाना कठिन है: तटस्थता। वह मंत्रालय जिसे रोज़-ब-रोज़ उस संतुलन को बनाए रखने का काम सौंपा गया है, वह है Wisma Putra।

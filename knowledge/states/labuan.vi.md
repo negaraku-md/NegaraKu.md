@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Nhà sáng lập, cố vấn thuế và đội ngũ tài chính đang đánh giá một cơ cấu Labuan, và người đọc muốn hiểu vì sao Labuan được đối xử khác với phần còn lại của Malaysia."
 
 lang: "vi"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,9 +67,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: 'Những tòa tháp kính xanh uốn cong hiện đại và bạc của khu phức hợp Financial Park Labuan vươn lên trên những cây cọ dưới bầu trời rực rỡ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: Tháp ống khói The Chimney bằng gạch đỏ cao của Labuan đứng trên nền trời xanh thẫm với những cây dừa và bãi cỏ xanh quanh chân tháp
+    kind: actual
+    origin: third-party
+    subject: The Chimney, công trình gạch đỏ cao thời thuộc địa mang tính biểu tượng của Labuan, đứng trên bãi cỏ bên cạnh những cây dừa
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: Bến tàu và các tòa nhà ven biển của thị trấn Labuan nhìn từ bến cảng, với thuyền bè và đường chân trời của hòn đảo dưới bầu trời xanh nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Bến phà và thị trấn ven biển Labuan nhìn qua bến cảng từ ngoài biển
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 Hai công ty, cùng chủ sở hữu, cùng khách hàng. Một công ty được thành lập tại Kuala Lumpur và

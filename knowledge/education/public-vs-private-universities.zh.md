@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -77,6 +77,39 @@ faq:
   - q: 某课程只是"暂行认证"——这是否意味着它未获认证？
     a: 不是。根据 MQA 的《课程认证实践守则》，暂行认证确认一个课程已达到可合法开办的最低质量要求，而且它本身是获得教育部批准的一项前提条件。全面认证则是在第一届学生完成该课程之后进行的更为充分的评估。获暂行认证的课程是合法的、可合法开办的；它只是尚未完成全周期的评估而已。
 framework: explainer
+stayFacts:
+  who: '这适用于持有SPM、STPM、大学先修班、基础课程、UEC、A-Level或文凭资格、正在公立大学（IPTA／Universiti Awam）与私立大学（IPTS）之间做选择的人士。'
+  how: '公立大学几乎完全透过UPU（高等教育部的中央化在线系统）招生——你排列课程志愿，再按成绩与受配额限制的学额进行配对。私立院校不属于UPU体系，自行以滚动方式直接办理招生，并接受更广泛的学历组合。'
+  cost: 'UPU申请本身免费，但你需向Bank Simpanan Nasional（BSN，国民储蓄银行）购买一组12位数的Unik ID才能登入；私立院校的学费按课程设定且会变动，因此请向UPU的e-Panduan或相关院校核实当前数字。'
+  watch: 'IPTA／IPTS这个标签本身并不能说明某个学位是否获得承认——那取决于该特定课程是否已在MQR上获MQA认证，你应按自己确切的入学年份查证。你无法透过UPU申请私立大学。'
+  next: '先依你所持有的学历做决定，再于注册任一类院校之前，在大马学术资格鉴定名册上查证确切的课程与入学年份。参阅MQA认证说明，以及《缴付学院订金前》。'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: '一座长长的清水混凝土现代主义礼堂，标有蓝色''Dewan Tunku Canselor''字样和一道外部楼梯，前方是修剪的园林和一条空旷的道路'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: 一栋多层蓝色玻璃大学行政大楼，中央有一座弧形塔楼，位于一处景观化的山坡上，两侧列旗的梯级台阶通往楼前
+    kind: representative
+    origin: third-party
+    subject: 马来西亚规模最大的公立大学之一玛拉工艺大学（UiTM）的现代玻璃校长办公大楼
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: 一座石柱大学入口大门，挂着「Universiti Sains Malaysia」招牌，两侧是旗杆和茂密的绿植，天空阴云密布
+    kind: representative
+    origin: third-party
+    subject: 公立研究型大学马来西亚理科大学（USM）位于槟城高渊（Nibong Tebal）的主入口大门
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 两名SPM成绩相同的学生，最终会进入两个完全不同的系统。一人填写一份统一表格，

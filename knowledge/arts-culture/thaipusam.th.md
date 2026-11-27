@@ -35,7 +35,7 @@ faq:
     a: "เฉพาะในรัฐและดินแดนสหพันธ์ที่ประกาศ มันถือปฏิบัติเป็นวันหยุดราชการในที่ต่าง ๆ รวมถึงกัวลาลัมเปอร์ ปุตราจายา สลังงอร์ ปีนัง เประ เนอเกอรีเซิมบีลัน ยะโฮร์ และเกอดะฮ์ และไม่ได้ประกาศเป็นวันหยุดระดับสหพันธ์ทั่วประเทศ เนื่องจากกำหนดไปทีละเขตอำนาจ รายการที่แน่ชัดอาจต่างกันไปในแต่ละปี — ให้ตรวจสอบประกาศวันหยุดทางการของรัฐที่เกี่ยวข้องเสมอ"
 
 lang: "th"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ festivalFacts:
   when: "เดือนทมิฬที่ชื่อว่า Thai — ราวปลายเดือนมกราคมหรือเดือนกุมภาพันธ์ของแต่ละปี โดยวันที่แน่นอนเป็นไปตามปฏิทินทมิฬ"
   holiday: "เป็นวันหยุดราชการเฉพาะในรัฐและดินแดนสหพันธ์ที่ประกาศในราชกิจจานุเบกษา (รวมถึง Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor และ Kedah) เท่านั้น — ไม่ใช่วันหยุดสหพันธ์ทั่วประเทศ"
   etiquette: "ผู้ที่ไม่ใช่ชาวฮินดูยินดีต้อนรับให้มาชมขบวนแห่และการปีนบันได ควรแต่งกายสุภาพเมื่ออยู่ใกล้วัด ถอดรองเท้าในที่ที่กำหนด และขออนุญาตก่อนถ่ายภาพผู้ศรัทธาที่แบกกาวาดี (kavadi)"
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'ผู้ศรัทธากำลังปีนบันไดสีรุ้งของถ้ำบาตูขึ้นไปยังศาลเจ้าถ้ำที่วิจิตรใต้หน้าผาหินปูนสูงตระหง่านในช่วงไทปูซัม'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: ฝูงชนผู้แสวงบุญหนาแน่นเต็มทางเดินที่ถ้ำบาตูใต้รูปปั้นทองคำสูงตระหง่านขององค์พระมุรุกันและเนินเขาหินปูนปกคลุมด้วยป่าในช่วงเทศกาลไทปูซัม
+    kind: actual
+    origin: third-party
+    subject: ฝูงชนผู้แสวงบุญเทศกาลไทปูซัมใต้รูปปั้นทองคำองค์พระมุรุกันที่ถ้ำบาตู
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: ผู้ศรัทธาเทศกาลไทปูซัมเห็นจากด้านหลังแบกกาวาดีที่มีกระดิ่งห้อยและถือหม้อนมเงินอยู่หน้าโคปุรัม (ซุ้มประตูวัดฮินดู) หลากสีสันในเมืองอีโปห์ รัฐเประ
+    kind: actual
+    origin: third-party
+    subject: ผู้แบกกาวาดีถือหม้อนมในขบวนแห่เทศกาลไทปูซัมในเมืองอีโปห์
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 ก่อนรุ่งอรุณ เนินหินปูนที่ขอบด้านเหนือของกัวลาลัมเปอร์เต็มไปด้วยเสียง — กลอง การสวด เสียงเท้าเปล่าหลายแสนคู่ที่ย่ำบนหิน ที่เชิงบันได 272 ขั้นยืนตระหง่านรูปทองคำที่สูงกว่าตึกสิบสี่ชั้น การปีนได้เริ่มขึ้น และมันจะไม่หยุดตลอดเกือบทั้งวัน

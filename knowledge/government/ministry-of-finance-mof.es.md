@@ -27,7 +27,7 @@ faq:
   - q: "¿Quién dirige el Ministerio de Finanzas?"
     a: "A agosto de 2026, el Ministro de Finanzas es Dato' Seri Anwar bin Ibrahim, con Datuk Seri Amir Hamzah bin Azizan como Ministro de Finanzas II y Datuk Johan Mahmood bin Merican como Secretario General del Tesoro. Los titulares cambian con las remodelaciones del Gabinete, así que verifica los nombres actuales en mof.gov.my."
 lang: "es"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -71,6 +71,33 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "MOF Malaysia", "Menteri Kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "Federal Treasury Malaysia", "Malaysia federal budget", "Belanjawan", "MOF registration", "MOF licence", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'La fachada cóncava y curva del edificio del Ministerio de Finanzas de Malasia en Putrajaya, vista al otro lado de una fuente en cascada'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Vista oblicua del edificio del Ministerio de Finanzas que muestra la señalización Perbendaharaan Malaysia Federal Treasury y el logotipo del MOF
+    kind: actual
+    origin: third-party
+    subject: Edificio del Ministerio de Finanzas con la señalización 'Perbendaharaan Malaysia / Federal Treasury', Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: Vista frontal de la amplia fachada arqueada del edificio del Ministerio de Finanzas de Malasia en Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Fachada del edificio del Ministerio de Finanzas y su explanada, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 Cada ringgit que el gobierno federal recauda y gasta pasa por una sola institución: el Ministerio de Finanzas. Es el ministerio del Gobierno de Malasia al que se le ha encomendado la responsabilidad tanto del gasto público como de la recaudación de ingresos — desarrolla la política económica, elabora el Presupuesto federal malasio y supervisa la legislación y la regulación financiera. En malayo es el Kementerian Kewangan, y su maquinaria central es el Tesoro Federal, o Perbendaharaan. Esta página explica la institución y luego la desenreda de aquello distinto que la gente quiere decir cuando busca «registro MOF».

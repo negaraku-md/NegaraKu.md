@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ festivalFacts:
   when: "太陰暦における 1 Syawal。その日付は西暦では毎年およそ11日ずつ早まり、新月の観測(rukyah)によって定められる。"
   holiday: "初日と2日目はマレーシア全土で連邦の公休日として官報に公示される。"
   etiquette: "さまざまな民族の客が開放門戸(rumah terbuka)に歓迎される。控えめな服装をし、通常は家に入る前に靴を脱ぐ。"
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'ペラ州アロル・ポンソで、アイディルフィトリの朝の礼拝を終え、祝祭のバジュ・ムラユ姿で双尖塔の村のモスクを後にする群衆'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: マレーシアのハリラヤ・アイディルフィトリの定番料理である、ビーフ・ルンダンの皿の隣に置かれたヤシの葉で編んだクトゥパット・パラスの米包み
+    kind: actual
+    origin: third-party
+    subject: ハリラヤの定番料理であるクトゥパット・パラスとビーフ・ルンダン
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: マレーシアのハリラヤ・アイディルフィトリの期間中、暗い庭で明るい炎を上げて燃える竹製のプリタ（油灯）
+    kind: actual
+    origin: third-party
+    subject: ハリラヤの夜に灯された竹製のプリタ（油灯）
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 ラマダン最後の夜、国じゅうが一斉に動き出したかのようになる。南北を結ぶ高速道路は何時間も渋滞し、バスターミナルはバッグや菓子の容器で埋め尽くされ、都市部から辺境の村（kampung）に至るまで、家々の軒先には灯明（pelita）がともる。翌日、シャワル月1日（1 Syawal）——1か月にわたる断食が終わり、マレーシアはハリラヤ・アイディルフィトリ（Hari Raya Aidilfitri）を迎える。

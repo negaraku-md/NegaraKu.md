@@ -34,7 +34,7 @@ faq:
     a: "इसे अक्सर 'मलेशियन न्यू वेव' (Malaysian New Wave) कहा जाता है, जो 2000 के दशक के आरंभ में स्वतंत्र फ़िल्मकारों की एक लहर थी। 2004 में तान चुई मुई (Tan Chui Mui), अमीर मुहम्मद (Amir Muhammad), जेम्स ली (James Lee) और लियू सेंग तात (Liew Seng Tat) द्वारा स्थापित दा हुआंग पिक्चर्स (Da Huang Pictures) इसका एक केंद्र बनी; तान की फ़िल्म *Love Conquers All* ने 2006 के बुसान अंतरराष्ट्रीय फ़िल्म महोत्सव में न्यू करंट्स और FIPRESCI पुरस्कार और रॉटरडैम में टाइगर अवार्ड जीते।"
 
 lang: "hi"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,32 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["मलेशियाई फ़िल्म उद्योग", "मलेशियाई सिनेमा", "industri filem Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'फिल्म किंवदंती पी. रामली का जन्मस्थान, एक पुनर्निर्मित पारंपरिक मलय लकड़ी का घर, जो अब एक स्मारक है, जिसमें फूस की छत और इसके ईंट के आँगन पर एक स्मारक पट्टिका है।'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: पुराने कोलिज़ियम सिनेमा का सड़क-अग्रभाग और मार्की, कुआलालंपुर के मध्य में युद्ध-पूर्व का एक सिंगल-स्क्रीन सिनेमाघर
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर की जालान तुआंकू अब्दुल रहमान पर ऐतिहासिक कोलिज़ियम सिनेमा, मलेशिया के सबसे पुराने बचे हुए सिनेमाघरों में से एक
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: कुआलालंपुर के एक शॉपिंग मॉल के भीतर एक समकालीन मल्टीप्लेक्स सिनेमा का चमकदार रोशनी वाला फ़ोयर और साइनबोर्ड
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर के पैविलियन बुकित बिंतांग में एक आधुनिक मल्टीप्लेक्स सिनेमा का प्रवेश
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 1955 में, सिंगापुर के नं. 8 जालान अंपस (Jalan Ampas) स्थित एक स्टूडियो में कभी क्लैपर-बॉय और सहायक कैमरामैन रहा एक युवक, 26 वर्ष की आयु में पहली बार निर्देशक की कुर्सी पर बैठा। फ़िल्म थी *Penarek Becha*। उसका नाम था पी. रामली (P. Ramlee)। मलेशियाई फ़िल्म उद्योग की कहानी कुआलालंपुर में नहीं, बल्कि शंघाई के दो भाइयों के स्वामित्व वाले एक सिंगापुरी स्टूडियो में शुरू होती है — और तब से यह गतिमान ही रही है।

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Padres y cuidadores de un niño en Malasia con una discapacidad o dificultad de aprendizaje diagnosticada que intentan averiguar qué ubicación escolar y qué pasos de registro corresponden."
 
 lang: "es"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -60,9 +60,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["educación especial Malasia", "programa PPKI", "educación inclusiva PPI", "tarjeta OKU niños", "sekolah pendidikan khas", "apoyo a la dificultad de aprendizaje Malasia", "currículo de educación especial Malasia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'Retrato de grupo de los profesores y asistentes de gestión de alumnos del programa de integración de educación especial (PPKI) en una escuela secundaria malasia, la SMK Taman Universiti.'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: Entrada y arco de bienvenida de la SK Pendidikan Khas Batu Pahat, una escuela primaria pública de educación especial en Johor, con carteles en malayo en la verja.
+    kind: actual
+    origin: third-party
+    subject: Una escuela nacional malasia de educación especial
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: Un bloque de aulas de madera de una planta de una escuela primaria pública rural en Pensiangan, Sabah, enclavada frente a colinas boscosas.
+    kind: representative
+    origin: third-party
+    subject: Edificio de una escuela primaria pública malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 Un diagnóstico es solo la primera conversación. La segunda — a menudo más

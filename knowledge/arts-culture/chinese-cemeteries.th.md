@@ -33,7 +33,7 @@ faq:
     a: "เช็งเม้งเป็นวันที่อี้ซานคึกคักที่สุดในรอบปี ในช่วงราวสิบวันรอบเช็งเม้ง ครอบครัวชาวจีนมักไปอี้ซานกันทั้งครอบครัวเพื่อไหว้สุสานและเซ่นไหว้บรรพบุรุษ — ถอนวัชพืช ทำความสะอาดป้ายหลุมศพ ลงสีอักษรสลักที่จางลงใหม่ และจัดวางเครื่องเซ่นไหว้ ในกวางตุ้ง การไหว้สุสานเรียกกันทั่วไปว่า 'ไป้ซาน' (拜山 การแสดงความเคารพที่เนินเขา) และสำนวนนี้ก็เดินทางมาสู่ภูมิภาคหนานหยางพร้อมกับผู้อพยพ ในช่วงไม่กี่ปีมานี้ ฝ่ายบริหารอี้ซานบางแห่งส่งเสริมแนวทางที่เรียบง่ายและเป็นมิตรต่อสิ่งแวดล้อม รวมถึงการจัดการขยะอย่างเหมาะสม และบางครอบครัวก็หันมาใช้การไปไหว้ที่ช่องเก็บอัฐิหรือการรำลึกทางออนไลน์แทน"
 
 lang: "th"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'สุสานจีนขนาดใหญ่รูปเกือกม้า มีจารึกปิดทองและแผงด้านข้างแกะสลัก ตั้งอยู่บนเนินหญ้าท่ามกลางต้นไม้บนเนินเขาฝังศพบูกิตจีนา (Bukit China) ในมะละกา'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: สุสานจีนรูปเกือกม้าปูกระเบื้องเรียงรายพร้อมแผ่นศิลาจารึกและแท่นบูชาในสุสานหญ้าที่รัฐซาราวัก
+    kind: actual
+    origin: third-party
+    subject: หลุมศพจีนรูปเกือกม้าปูกระเบื้องในสุสานจีนใกล้เมืองกูชิง รัฐซาราวัก
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: แถบกระดาษสีวางทับบนเนินหลุมศพหญ้าข้างแผ่นศิลาจารึกในช่วงเทศกาลเช็งเม้งกวาดสุสาน
+    kind: representative
+    origin: third-party
+    subject: กระดาษสีที่วางทับบนเนินหลุมศพในช่วงเช็งเม้ง (กวาดสุสาน) ที่สุสานบูกิตบราวน์
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 ช่วงเช็งเม้ง ก่อนฟ้าจะสว่างเต็มที่ เชิงเขาบูกิตจีนาในมะละกาก็เต็มไปด้วยรถที่จอดเรียงราย ครอบครัวแล้วครอบครัวเล่าถือดอกไม้สด ธูป เทียน และเครื่องเซ่นไหว้ เดินขึ้นไปตามเนินที่ขึ้น ๆ ลง ๆ มุ่งสู่หลุมศพบรรพบุรุษของตน บางคนจุดธูปที่แท่นหินเล็ก ๆ ข้างหลุมศพซึ่งสลักอักษร "โฮ่วถู่" ก่อน แล้วจึงหันไปดูแลป้ายหลุมศพของบรรพบุรุษ — ถอนวัชพืช ลงสีอักษรสลักที่จางลงใหม่ แล้วจัดวางเครื่องเซ่นไหว้ หลุมศพที่เรียงรายหนาแน่นไปตามเนินและหันไปในทิศทางเดียวกัน คือที่พักพิงของชาวจีนที่อพยพลงใต้รุ่นแล้วรุ่นเล่า

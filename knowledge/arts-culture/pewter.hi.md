@@ -16,7 +16,7 @@ keyTakeaways:
   - "कंपनी ने अपना वर्तमान नाम 1992 में ही अपनाया, जो Selangor के सुल्तान से 1979 में मिले एक शाही अधिकार-पत्र (royal warrant) के बाद हुआ।"
 appliesTo: "वह हर व्यक्ति जो मलेशियाई शिल्प परंपराओं, टिन-खनन के इतिहास, या Royal Selangor के बारे में जिज्ञासु है"
 lang: "hi"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'बैंगनी सिरबंद और एप्रन में एक महिला कारीगर कार्यक्षेत्र पर झुककर इस्पात जिग पर लगे एक प्यूटर जग पर छोटे हथौड़े से थपकी देती है, पीछे प्यूटर मगों की कतारें'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: एक प्यूटर शिल्पकार एक खराद पर घूमते हुए टैंकार्ड पर एक औज़ार चलाते हुए, जिससे धातु की कतरनें मुड़कर गिर रही हैं, और लकड़ी की कार्यमेज पर लगभग नौ चमकाए हुए रुपहले प्यूटर टैंकार्ड शरीर एक साथ रखे हुए हैं
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई प्यूटर कारीगर खराद पर एक टैंकार्ड को आकार देते हुए, जिसमें मेज पर तैयार प्यूटर टैंकार्ड सजे हुए हैं
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: एक अकेला चमकाया हुआ प्यूटर टैंकार्ड जिसका भारी हैंडल और क्षैतिज धारियां हैं, जिसकी दर्पण जैसी रुपहली सतह हल्के रंग की पृष्ठभूमि के विपरीत रोशनी को परावर्तित कर रही है
+    kind: actual
+    origin: third-party
+    subject: हैंडल वाला एक तैयार, चमकाया हुआ प्यूटर टैंकार्ड
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 टिन पर बसे एक शहर ने अंततः दुनिया को एक धातु-शिल्प दे दिया। Kuala Lumpur इसलिए अस्तित्व में है क्योंकि खोजकर्ताओं को वहाँ टिन का अयस्क मिला जहाँ Klang और Gombak नदियाँ मिलती हैं। दशकों बाद, उसी टिन-अर्थव्यवस्था में काम करने आया एक किशोर टिन-कारीगर मंदिर की वेदियों के लिए धूपदान गढ़ने लगा — और उसने जो कार्यशाला खोली वह अब धरती पर pewter का सबसे बड़ा निर्माता है।

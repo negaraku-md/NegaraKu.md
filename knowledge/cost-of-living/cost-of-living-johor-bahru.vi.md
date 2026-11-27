@@ -27,7 +27,7 @@ verificationNeeded:
   - "Không tìm thấy chỉ số tiền thuê nhà chính thức riêng cho Johor Bahru; các tuyên bố về áp lực tiền thuê từ nhu cầu liên quan đến Singapore mang tính định tính, không được hậu thuẫn bởi một con số được công bố."
 
 lang: "vi"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,33 @@ relations:
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
+heroAlt: 'Đường chân trời thành phố Johor Bahru vào ban đêm với một tòa tháp thắp sáng bên cạnh cầu Causeway Johor–Singapore và những vệt sáng đèn giao thông'
+heroCredit: 'Lionel Lim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: Những quầy nông sản tươi tại phiên chợ hằng tuần ở Bukit Indah, Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Chợ nông sản tươi hằng tuần ở Bukit Indah, Johor Bahru
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: Các cửa hàng và người mua sắm dọc theo Jalan Wong Ah Fook, con phố thương mại chính ở trung tâm Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Jalan Wong Ah Fook, con phố thương mại chính của Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 Một người lao động hưởng lương tối thiểu quốc gia đầy đủ của Malaysia, RM1,700 mỗi tháng, có thể sống cách hai con phố với một người hàng xóm kiếm được tương đương RM4,000 hoặc hơn cho một ngày làm việc tương tự — cùng một thành phố, cùng một chợ ẩm, cùng một mức tiền thuê cho căn phòng bên cạnh. Không có gì trong chính nền kinh tế của Johor Bahru giải thích được khoảng cách đó. Người hàng xóm được trả bằng đô la Singapore.

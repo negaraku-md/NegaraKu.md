@@ -37,7 +37,7 @@ faq:
     a: "على نحو فريد، تحكم الحديقة ثلاثة تشريعات ولائية من الحقبة الاستعمارية — تشريع تامان نيغارا (باهانغ) 1939، و(كلنتان) 1938، و(ترينغانو) 1939 — لا قانون الحدائق الوطنية الاتحادي لسنة 1980 (National Parks Act 1980). وسبب ذلك أن الأراضي والحراجة شأن ولائي بموجب الدستور الاتحادي الماليزي، فلا ينطبق القانون الاتحادي على الولايات الثلاث."
 
 lang: "ar"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["تامان نيغارا", "كوالا تاهان", "ممر المظلة", "جبل تاهان", "حديقة وطنية ماليزيا", "taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'المسافرون الباحثون عن غابة مطيرة استوائية قديمة — ممشى المظلّة فوق قمم الأشجار، والمشي في الغابة، ومخابئ مراقبة الحياة البرية، والرحلات النهرية — باتخاذ بوابة Kuala Tahan في Pahang مقرّاً.'
+  getThere: 'سافر برّاً إلى Jerantut في Pahang، ثم خذ قارباً صعوداً في نهر Sungai Tembeling من رصيف Kuala Tembeling إلى Kuala Tahan، مع رابط برّي مباشر كبديل.'
+  permit: 'يسجّل كل زائر للحصول على تصريح دخول PERHILITAN عند الوصول إلى الرصيف أو منضدة المنتزه، ويدفع رخصة كاميرا منفصلة، وعليه استخدام مرشد مرخّص لتسلّق Gunung Tahan.'
+  watch: 'قد تُنمي الرياح الموسمية الشمالية الشرقية الأنهار وتعطّل القوارب والدروب، وواجهت ممرّات المظلّة إغلاقات، والعَلَق والرطوبة دائمان — تأكّد من الوصول واحجز المرشدين مسبقاً.'
+  next: 'تأكّد من قواعد التصاريح والدخول ورسومها الحالية مع مكتب دائرة الحياة البرية والمنتزهات الوطنية (PERHILITAN) في Taman Negara Pahang.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'تلال متموّجة من غابة مطيرة استوائية كثيفة تمتد إلى الأفق تحت سماء زرقاء في تامان نيغارا'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: زائر يعبر ممراً معلّقاً ضيقاً من الحبال والألواح بين قمم أشجار الغابة المطيرة العالية في Taman Negara
+    kind: actual
+    origin: third-party
+    subject: جسر معلّق على ممر بين قمم أشجار الغابة المطيرة في Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: قوارب خشبية طويلة على نهر Tembeling بجوار ضفة مكسوّة بالأشجار مع ضباب فوق التلال في Taman Negara
+    kind: actual
+    origin: third-party
+    subject: نهر Tembeling بالقوارب الطويلة عند رصيف Taman Negara في ضباب الصباح
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 وأنت واقف عند رصيف كوالا تاهان عند الفجر، تراقب الضباب يتصاعد عن نهر أقدم من جبال الهيمالايا، يسهل أن تنسى أنك لا تبعد عن كوالالمبور سوى نصف يوم. ليست تامان نيغارا معلماً مصطنعاً. إنها غابة مطيرة استوائية حية ظلّت قائمة، دون أن تُمَس في الجملة، على مدى عشرات الملايين من السنين — والدخول إليها أرخص وأيسر مما يتوقعه كل مسافر تقريباً.

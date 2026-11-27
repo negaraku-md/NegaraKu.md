@@ -31,7 +31,7 @@ faq:
     a: "JPJ 전기차 LKM 지침에 따르면 50 kW 이하 EV의 경우 연 RM20입니다. 요율은 더 높은 출력에 대해 누진적으로 증가합니다."
 
 lang: "ko"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,32 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: '말레이시아 고속도로 휴게소에 있는 DC 전기차 충전기로, 표시된 충전 구역에 “Charge up and stay positive”라고 적혀 있다.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: 셀랑고르주 푸총의 LDP 고속도로 휴게소에 있는, 전기차용 Shell Recharge DC 급속충전 구역.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 푸총 남부 LDP의 Shell Recharge DC 급속충전소
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: 말레이시아 시장의 인기 EV인 파란색 2023년형 BYD Atto 3 전기 SUV가 페낭에 주차되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 페낭의 BYD Atto 3 전기 SUV
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 말레이시아에서 전기차의 무료 도로세 시대는 끝났습니다 — 그러나 당신의

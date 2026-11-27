@@ -32,7 +32,7 @@ faq:
     a: "禁售期是指你在此期间未经批准不得转售房屋的时段。联邦直辖区房屋（Residensi Wilayah）设有 10 年禁售期，雪兰莪我的房屋（Rumah Selangorku）为 5 年，以防止炒作并确保房屋留给目标群体。"
 
 lang: "zh"
-sourceContentHash: "1484e1d16671dc8b"
+sourceContentHash: "0f55bac97fa6db6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,9 +84,36 @@ entity: "Skim Rumah Mampu Milik Kerajaan"
 relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "related-to", to: "home-loan-financing" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "ministry-of-housing-local-government-kpkt", "property-agents-and-fees"]
 keywords: ["rumah mampu milik", "PR1MA", "Residensi Wilayah", "RUMAWIP", "Rumah Mesra Rakyat", "PPR", "Rumah Selangorku", "Residensi MADANI", "rumah mampu milik Malaysia"]
 framework: decision
+hero: '/media/property/affordable-housing-schemes/hero.webp'
+heroAlt: '蓝天下，吉隆坡武吉加里尔两栋高层马来西亚公共组屋，一栋米色、一栋粉色配红顶，阳台晾着衣物并装着卫星天线，耸立于一排绿树之上'
+heroCredit: 'Brownc / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'People''s Housing Programme (PPR) public-housing flats in Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-1.webp
+    alt: 武吉加里尔一长排米色、红顶的公共组屋塔楼，每个单元标有字母，组屋道路旁停着汽车，远处是绿意和城市天际线
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡武吉加里尔一排人民组屋计划（PPR）高层组屋，带有居民停车场
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/affordable-housing-schemes/body-2.webp
+    alt: 从下方仰望哥打白沙罗（Kota Damansara）一栋芥黄与白色相间的公共组屋，阴天下众多相同单元装着窗栅和空调，一根树枝入镜
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪哥打白沙罗一栋 PPR 公共组屋（Gugusan Kemuning）
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Block_B_(Gugusan_Kemuning)_of_PPR_Kota_Damansara_from_Jalan_Pekaka_8-1_at_Seksyen_8_Kota_Damansara_20250319_154l3142.jpg
 ---
 
 你的月薪是 RM4,000，而城市里的排屋价格已经飙到五十万令吉——你该从哪里开始找起？答案不是某一项计划，而是一整套政府计划的“菜单”，每一项都瞄准不同的收入区间。选错了，就意味着白白等上几个月的抽签，去抢一间你根本不合资格的房子。

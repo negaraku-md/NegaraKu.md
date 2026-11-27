@@ -28,7 +28,7 @@ faq:
     a: "공식 기준표에 따른 임대 수수료는 임대 기간에 따라 총 임대료의 1.25개월분에서 1.75개월분(최소 수수료 1개월 임대료)이며; 누가 부담하는지는 당사자 간 합의 사항입니다."
 
 lang: "ko"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: '조호르주 바투파핫(Batu Pahat)의 Taman Soga Sutera 개발지 간판 뒤편의 현대식 반단독주택.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: Taman Sri Serdang 주택단지 입구를 표시하는 길가 간판
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 스리 큼방안의 Taman Sri Serdang 주택단지 간판
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: 조호르주 클루앙 Jalan Anggerik에 있는, 앞마당과 야자수 한 그루를 갖춘 단층 교외 주택
+    kind: representative
+    origin: third-party
+    subject: 조호르주 클루앙의 주택가 거리에 자리한 교외 유지 주택
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 중개인의 명찰에 적힌 번호는 장식이 아닙니다 — 정당한 협상인과 그저 자신을 중개인이라 주장하는 사람을 빠르게 구별하는 유일한 방법입니다. 말레이시아에서는 누가 당신을 대신하여 부동산을 팔거나 임대하거나 협상할 수 있는지가 법으로 엄격히 규제됩니다.

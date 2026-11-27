@@ -26,7 +26,7 @@ verificationNeeded:
   - "47개 해외사무소 수치는 MATRADE 자체 이사장과 최고경영자를 인용한, 각각 날짜가 다른 두 건의 2026년 보도로 뒷받침되나, MATRADE가 운영하는 사무소 안내 페이지와 교차 확인되지 않았으며 이 문서의 가져오기 시도로는 그 페이지를 온전히 가져올 수 없었다"
 
 lang: "ko"
-sourceContentHash: "53582e357950bce0"
+sourceContentHash: "75b3aee6b51ae58f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,34 @@ relations:
 related: ["mida", "miti", "investment-agency-directory"]
 keywords: ["MATRADE", "Malaysia External Trade Development Corporation", "MATRADE vs MIDA", "Malaysia export promotion agency", "Malaysia trade promotion agency", "Market Development Grant Malaysia", "MATRADE overseas offices"]
 framework: profile
+hero: '/media/government/matrade/hero.webp'
+heroAlt: '거대한 뾰족 아치형 개구부가 뚫리고 꼭대기에 골이 진 돔을 인, 쿠알라룸푸르 므나라 MATRADE의 우뚝한 짙은 전면'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Arte_Mont_Kiara_in_April_2020.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MATRADE, the monumental dark tower with its giant pointed-arch portal and domed crown at the MATRADE complex, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/government/matrade/body-1.webp
+    alt: 흐린 하늘 아래 자홍색 꽃밭 너머로 보이는, 아치형 Menara MATRADE 타워와 높은 유리 Menara MITI, 그리고 은색 전시관 돔
+    kind: actual
+    origin: third-party
+    subject: 아치형 Menara MATRADE 타워, 유리 Menara MITI, MITEC 돔이 있는 MATRADE 복합단지의 거리 전경, 쿠알라룸푸르
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
+  - role: scene
+    src: /media/government/matrade/body-2.webp
+    alt: 쿠알라룸푸르 상공에서 내려다본, 짙은 아치 관문형 Menara MATRADE 타워와 그 옆의 커다란 은색 조개껍데기 모양 MITEC 전시관
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 KL Metropolis 지구의 Menara MATRADE와 조개껍데기 모양 MITEC 전시센터 항공 전경
+    credit: Renek78 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_and_MITEC_in_January_2025.jpg
 ---
 
 처음 수출하는 사람에게 어느 정부 기관이 무역박람회 부스를 담당하는지 물으면 절반쯤은 MIDA라고 답할 것입니다. MIDA는 그 일을 하지 않습니다. 그것은 MATRADE의 일이며 — 두 기관은 같은 무역 관계의 정반대 끝을 담당합니다.

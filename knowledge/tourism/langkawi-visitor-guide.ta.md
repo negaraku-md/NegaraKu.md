@@ -38,7 +38,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -102,9 +102,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'உலகத் தரம் வாய்ந்த டைவிங்கை விட, கடற்கரைகள், வரி-இல்லா ஷாப்பிங் மற்றும் UNESCO Geopark — SkyCab கேபிள் கார், SkyBridge மற்றும் சதுப்புநிலத் தீவு-உலா — ஆகியவற்றை விரும்பும் முதல்-முறையினர், குடும்பங்கள் மற்றும் கலப்பு-ஆர்வப் பயணிகளுக்கு ஏற்றது.'
+  getThere: 'Langkawi International Airport (LGK)-க்குப் பறந்து செல்லுங்கள், அல்லது Kuala Kedah மற்றும் Kuala Perlis நிலப்பகுதித் துறைமுகங்களிலிருந்து Kuah Jetty-க்கு பயணிகள் படகு மூலம் கடந்து செல்லுங்கள்.'
+  permit: 'Langkawi-இன் வரி-இல்லா விலைகள் தீவில் மட்டுமே பொருந்தும்; நிலப்பகுதிக்கு எடுத்துச் செல்லப்படும் பொருட்கள் மலேசியாவின் தேசிய பயணிகள் கொடுப்பனவின் கீழ் வருகின்றன, இது குறைந்தபட்ச தகுதி-தங்குதலை நிர்ணயித்து, வரி-இல்லாமல் கொண்டுவரக்கூடிய மது, புகையிலை மற்றும் நினைவுப்பொருட்களுக்கு வரம்பு விதிக்கிறது.'
+  watch: 'வீட்டுக்கு எடுத்துச் செல்ல அதிகமாக வரி-இல்லா மதுவை வாங்காதீர்கள் — மலிவான விலைகள் தீவில் அனுபவிப்பதற்கானவை, நிலப்பகுதியில் ஒரு வரம்பிட்ட கொடுப்பனவு மட்டுமே சுங்கத்தைக் கடக்கிறது.'
+  next: 'தற்போதைய படகு அட்டவணைகளை படகு இயக்குநர்களுடனும், வரி-இல்லா கொடுப்பனவுகளை Royal Malaysian Customs Department (RMCD)-உடனும் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'Andaman கடலுக்கு மேல், காடு மூடிய மலைச் சிகரங்களுக்கிடையே உயரமாகத் தொங்கும் வளைந்த Langkawi Sky Bridge'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: பசுமையான நீருக்கு அருகில் Pantai Cenang-இன் வெண்மணலை சூழும் பனைமரங்கள் மற்றும் இருண்ட பாறைகள், மேலே ஒரு பாராசெயில் பறக்க
+    kind: actual
+    origin: third-party
+    subject: பனைமரங்கள் மற்றும் பசுமையான கடலுடன் Pantai Cenang கடற்கரை
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Langkawi தீவில் படகுத்துறை மற்றும் பசுமையான விரிகுடாக்களைப் பார்க்கும் அடர்த்தியான மழைக்காட்டுக்கு மேலே நழுவும் சிவப்பு SkyCab கொண்டோலாக்கள்
+    kind: actual
+    origin: third-party
+    subject: காடு மற்றும் படகுத்துறைக்கு மேலாக Langkawi SkyCab கேபிள் கார்
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 தொண்ணூற்று ஒன்பது தீவுகள், மீன்களைவிட பழமையான பாறைகள், மலிவான விஸ்கி, மேலும் 550 மில்லியன் ஆண்டுகளுக்கும் மேலானதாக மதிப்பிடப்படும் பாறையிலிருந்து கட்டமைக்கப்பட்ட ஒரு மலையின் ஓரத்தில் தொங்கும் ஒரு கேபிள் கார் — லங்காவி மலேசியாவின் வடமேற்கு நுனியில் உள்ள ஒரே தீவுக்கூட்டத்திற்குள் அசாதாரணமான அளவு பொருட்களை அடைத்து வைத்திருக்கிறது. இது நாட்டின் முதன்மையான மேற்கு கடற்கரை விடுமுறைத் தீவு, மேலும் தீபகற்பத்தின் மறுபுறத்தில் உள்ள பனை மரங்கள் சூழ்ந்த நீர்மூழ்கல் தீவுகளுக்கு கிட்டத்தட்ட எதிர்மாறான தர்க்கத்தில் இயங்குகிறது. நீங்கள் செல்வதற்கு முன் உண்மையில் முக்கியமானவற்றை இந்த வழிகாட்டி உள்ளடக்குகிறது: மக்களை தடுமாற வைக்கும் தீர்வை-இலவச விதிகள், காட்சிக்கு அதன் பின்னணிக் கதையை வழங்கும் யுனெஸ்கோ நிலவியல் பூங்கா, SkyCab மற்றும் SkyBridge, மேற்கொள்ள மதிப்புள்ள படகுச் சுற்றுலாக்கள், மேலும் லங்காவிக்கும் கிழக்கு கடற்கரைக்கும் இடையே எவ்வாறு முடிவெடுப்பது.

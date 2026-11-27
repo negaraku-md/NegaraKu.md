@@ -90,7 +90,7 @@ sources:
     publisher: "BERNAMA (Malaysian National News Agency)"
 entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
-related: []
+related: ["epf-members-investment-scheme", "socso-perkeso", "employment-act-1955-guide"]
 keywords: ["Employees Provident Fund Act 1991", "EPF Act 1991", "Act 452", "KWSP", "معدل اشتراك EPF", "أرباح EPF الموزعة", "Akaun Persaraan Sejahtera Fleksibel", "سحب EPF في سن 55", "صندوق ادخار الموظفين ماليزيا", "اشتراك العامل الأجنبي في EPF", "Kumpulan Wang Simpanan Pekerja"]
 framework: rules
 ---

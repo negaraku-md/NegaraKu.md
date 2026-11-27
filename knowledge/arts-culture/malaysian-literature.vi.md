@@ -31,7 +31,7 @@ faq:
     a: "Người nhận được Warkah Penghormatan Negara (Thư Tôn vinh Quốc gia), tiền mặt RM60,000, khoản chi xuất bản trị giá đến RM500,000 (đến 50,000 bản), điều trị y tế miễn phí ở phòng hạng nhất tại bệnh viện chính phủ, cùng phụ cấp RM5,000 mỗi tháng."
 
 lang: "vi"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'Tòa nhà Dewan Bahasa dan Pustaka ở Kuala Lumpur, mặt tiền cong được phủ một bức tranh tường lớn về đời sống Malaysia và tên của nó hiện ra một phần trên tòa tháp văn phòng màu đỏ bên cạnh.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: Đám đông độc giả xem các dãy gian hàng nhà xuất bản chất đầy sách tại hội chợ sách quốc tế của Malaysia
+    kind: actual
+    origin: third-party
+    subject: Khách tham quan xem các gian hàng tại Hội chợ Sách Quốc tế Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: Tòa nhà Thư viện Quốc gia Malaysia ở Kuala Lumpur, với mái nhà hình lều họa tiết songket màu xanh đặc trưng
+    kind: actual
+    origin: third-party
+    subject: Thư viện Quốc gia Malaysia ở Kuala Lumpur, với mái lều lấy cảm hứng từ vải songket
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 Trước khi có tiểu thuyết và trước khi có viện ngôn ngữ, một người kể chuyện rong đã sáng tác về các anh hùng Mã Lai ở sân triều Malacca. Chính từ truyền thống truyền khẩu ấy mà lớn lên một trong những di sản văn học phong phú nhất của vùng này — một truyền thống mà ngày nay được tôn vinh bằng danh hiệu quốc gia, hàng trăm nghìn ringgit tiền thưởng và một ghế danh dự trong nền văn minh của dân tộc.

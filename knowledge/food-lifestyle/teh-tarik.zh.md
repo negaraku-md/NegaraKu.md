@@ -99,6 +99,14 @@ drinkFacts:
   halal: "Teh tarik 是在 mamak 摊档——印度裔穆斯林食肆——以及 kopitiam 供应的不含酒精的茶，在那样的 mamak 场合下它是一种清真饮品，这也是它成为跨社群共享的社交饮品的部分原因。清真保证附属于店面，因此需要认证的食客应逐一向个别店家查问。"
   served: "趁热带泡沫供应，在两个容器之间拉倒以降温、混合并打入空气。默认的「teh tarik」带炼乳、口感香甜；点「teh-O」要不加奶的红茶，点「teh-C」要加淡奶，点「kurang manis」要少糖，或点「teh ais」／「teh peng」要冰镇版。"
   where: "遍布全国的 mamak 摊档、kopitiam 咖啡店与 pasar malam，是日常的社交饮品；「jom teh tarik」（「我们去喝杯拉茶吧」）与其说是关乎茶，不如说是一句坐下来聊聊的邀约。"
+hero: "/media/food/teh-tarik/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "大理石桌上一杯清澈玻璃杯装的褐色拉茶（teh tarik），表面布满奶泡"
+heroCredit: "Wiki Asmah / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_-_01.jpg"
+wikidata: "Q3174775"
 ---
 
 这是马来西亚生活中的一个固定场景：一名男子在 mamak 摊档前，一手把一只凹凸不平的

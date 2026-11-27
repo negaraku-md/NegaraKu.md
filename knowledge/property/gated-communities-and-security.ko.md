@@ -27,7 +27,7 @@ faq:
     a: "주민회는 사단법(Societies Act 1966)에 따라 등록된 사단이지 법정 기구가 아니므로 — 공동관리기구나 관리단에 견줄 만한 납부 강제 권한이 없습니다. 법원은 주민회가 미납 주민에게 공유 차단봉을 직접 조작하도록 요구하는 것을 허용했으나, 주민의 출입을 아예 막는 것은 소송 가능한 방해행위(nuisance)가 될 위험이 있습니다."
 
 lang: "ko"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -71,6 +71,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: '황혼 무렵 스름반의 조명이 켜진 폐쇄형 커뮤니티 입구 아치로, 「Arden Hill Precinct 2」라고 적혀 있고 경비실과 차단봉이 있다.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill은 스름반 Forest Heights 주택단지 안에 자리한 고급 게이티드 커뮤니티로, 하나의 통제된 외곽 경계 안에 유지 주택을 배치한다.
+    kind: actual
+    origin: third-party
+    subject: 스름반 Forest Heights의 Arden Hill 고급 게이티드 커뮤니티
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: 유지 주택과 잘 다듬어진 녹지가 조호르주 이스칸다르 푸테리의 Horizon Hills 게이티드 앤 가디드 주택단지를 채운다. 경비가 관리하는 대규모 주거 지구다.
+    kind: actual
+    origin: third-party
+    subject: 조호르주 이스칸다르 푸테리의 Horizon Hills 게이티드 주택단지
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 두 주택 지역이 똑같아 보일 수 있습니다 — 벽돌 경비실, 줄무늬 차단봉, 당신의 스티커를 확인하는 제복 입은 경비원. 하나는 탄탄한 법적 근거 위에 서 있습니다. 다른 하나는 아직 아무도 이의를 제기하지 않았기에 존재합니다.

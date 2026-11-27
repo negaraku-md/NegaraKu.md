@@ -18,7 +18,7 @@ keyTakeaways:
   - "أُدرجت الكِباية، المحورية في زي النيونيا، في قائمة اليونسكو للتراث غير المادي عام 2024 ضمن ترشيح مشترك من بروناي وإندونيسيا وماليزيا وسنغافورة وتايلاند"
 appliesTo: "كل من يسعى إلى نظرة عامة واقعية ومحترمة عن هوية البيراناكان (البابا-نيونيا)، وكيفية التعرّف على مطبخهم وأزيائهم وتراثهم المادي في ملاكا وبينانغ."
 lang: "ar"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -61,6 +61,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["البيراناكان", "Peranakan", "البابا-نيونيا", "Baba-Nyonya", "الصينيون المضيقيون", "Straits Chinese", "مطبخ النيونيا", "Nyonya cuisine", "كباية النيونيا", "Nyonya kebaya", "تراث ملاكا وجورج تاون"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'قاعة استقبال بيراناكانية في متحف بابا نيونيا للتراث في ملقا، فيها حواجز منحوتة مذهّبة من خشب أسود، وأثاث مطعّم بعرق اللؤلؤ، وطاولة مستديرة بسطح رخامي، وألواح جدارية مرسومة بالطيور والأزهار.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: الواجهة العلوية لمبنى تجاري سكني من طراز Peranakan في Malacca، بمصاريع فيروزية مقوّسة ذات شرائح ونقوش بارزة مصبوبة وشريط من البلاط المزجّج.
+    kind: actual
+    origin: third-party
+    subject: واجهة مبنى تجاري سكني (shophouse) على طراز Peranakan، Malacca
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: وعاء شاي خزفي Peranakan وغطاؤه مرسوم عليهما زهور فاوانيا وردية وطيور عنقاء على أرضية بيضاء، معروضان في صندوق زجاجي.
+    kind: representative
+    origin: third-party
+    subject: خزف شاي Peranakan (nyonyaware) بزخارف نباتية وطيور
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 ادخل بيتًا مدينيًا قديمًا في شارع هيرن (Heeren Street) بملاكا، وستُروى القصة عبر الأشياء قبل أن ينطق أحد بكلمة. بلوزة من الدانتيل ضيقة الخصر مثبتة من الأمام ببروش ذهبي من ثلاث قطع. زوج من النعال يكسو مقدَّمه آلاف الخرزات الزجاجية الصغيرة، كل واحدة مخيطة باليد. طاولة طويلة بسطح رخامي مُعَدّة لوجبة ليست صينية تمامًا ولا مالاوية تمامًا. هذه كلها تخص البيراناكان — البابا-نيونيا — مجتمعًا صنع ثقافة من العيش بين عالمين.

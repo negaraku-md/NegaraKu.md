@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,32 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["马来西亚成立 1963", "科博尔德委员会 Cobbold Commission", "Konfrontasi 对抗", "新加坡分离 1965", "沙巴砂拉越合并"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: '1963年的街头景象，人群与装饰华丽的建筑，庆祝新加坡首个马来西亚日。'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: 沙巴Kota Kinabalu天际线的辽阔全景，高楼耸立于苍翠树冠之上，远处是海岸线与丘陵，代表1963年加入马来西亚的婆罗洲州属。
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu，沙巴首府，1963年加入组成马来西亚的婆罗洲州属之一
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: 经园林美化的古晋海滨长廊沿砂拉越河延伸，隔水可见老城天际线，代表砂拉越于1963年加入马来西亚联邦。
+    kind: representative
+    origin: third-party
+    subject: 砂拉越河畔的Kuching Waterfront，砂拉越于1963年加入组成马来西亚
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 四个领地在1963年9月16日成为一个国家，而在两年之内，其中一个已经退出。单凭这一事实就能告诉你，1963年的合并并非一场整洁的行政操作——它是一个充满争议的政治工程，遭到两个邻国政府反对，并在成功后几乎立即因内部张力而瓦解。

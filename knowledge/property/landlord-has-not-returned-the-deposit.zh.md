@@ -35,7 +35,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ entity: "马来西亚被扣住的租房押金"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: '吉隆坡甲洞（Kepong）的 Puncak Desa 高层公寓组屋，是典型的马来西亚出租住宅楼。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: 吉隆坡一栋较老旧的低层公共无电梯组屋，窗口晾着衣物
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡较老旧的无电梯出租组屋（百乐宫组屋Pekeliling Flats）
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: 雪兰莪Rasa一条住宅街道旁的一排单层排屋
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪Rasa的一排排屋，一种常见的出租住宅类型
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 很少有事情比房东扣住押金更能让一段租期以坏心情收场。那通常是一笔不小的数目，常常让人觉得不公，于是很容易想立刻升级对抗。在你动手之前，先弄清楚一件决定马来西亚押金纠纷全局的事实会很有帮助——因为它和许多租客以为的并不一样。

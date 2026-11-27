@@ -32,7 +32,7 @@ faq:
     a: "Chính phủ khẳng định là không. Các sáng kiến như Rakan KKM được định khung như một mô hình giữ chân chuyên gia trong khu vực công, chứ không phải tư nhân hóa, dù một số nhà quan sát vẫn thận trọng với tác động dài hạn của nó."
 
 lang: "vi"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 entity: "Kertas Putih Kesihatan"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "covid-19-pandemic-response-and-legacy"]
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'Một tòa nhà hiện đại mặt tiền kính của Bộ Y tế Malaysia ở Putrajaya được phủ một lá cờ Malaysia lớn.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: Một tòa nhà văn phòng chính phủ liên bang Malaysia ở Putrajaya, nơi đặt một bộ phận của Bộ Y tế
+    kind: actual
+    origin: third-party
+    subject: Một tòa nhà Bộ Y tế Malaysia (Kementerian Kesihatan Malaysia) ở Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: Hai quan chức tại bàn ký kết trong sảnh tiếp đón của Bộ Y tế Malaysia, với tên bộ và quốc huy Malaysia trên bức tường phía sau
+    kind: actual
+    origin: third-party
+    subject: Một cuộc họp chính thức tại Bộ Y tế Malaysia, bên dưới dòng chữ hiệu Kementerian Kesihatan Malaysia và quốc huy
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 Phòng khám nhà nước tiếp nhận gần hai phần ba số lượt khám ngoại trú của cả nước — nhưng chỉ chiếm khoảng một trong bốn cơ sở chăm sóc ban đầu. Chính sự mất cân đối này, cùng nhiều yếu tố khác, đã thúc đẩy Bộ Y tế Malaysia (Kementerian Kesihatan Malaysia, KKM) soạn thảo văn kiện chính sách quan trọng nhất trong một thế hệ: Sách Trắng Y tế.

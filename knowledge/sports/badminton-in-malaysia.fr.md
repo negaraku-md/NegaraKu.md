@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia a démissionné de la BAM en janvier 2022 pour devenir joueur indépendant après près d'une décennie au sein de l'organisme depuis l'âge de 13 ans. Il voulait se concentrer sur son propre entraînement et améliorer son classement, et il a souligné que, qu'il soit joueur national ou indépendant, ils brandissent toujours le Jalur Gemilang."
 
 lang: "fr"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,7 +90,7 @@ wikidata: "Q799603"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
   - { rel: "related-to", to: "olympic-council-of-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "football-in-malaysia", "sukma-games"]
 keywords:
   - "badminton Malaisie"
   - "Persatuan Badminton Malaysia"
@@ -100,6 +100,32 @@ keywords:
   - "Lee Zii Jia"
   - "champion All England Malaisie"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'La star malaisienne du badminton Lee Chong Wei se fend pour jouer un coup droit lors d''un match olympique.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: Le stade couvert Axiata Arena à Kuala Lumpur, l'enceinte utilisée pour le badminton lors des SEA Games de 2017.
+    kind: actual
+    origin: third-party
+    subject: L'Axiata Arena, la salle nationale de badminton du complexe sportif de Bukit Jalil
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: Le joueur de badminton malaisien Hafiz Hashim se fend pour frapper un volant lors d'un match de l'Open de Malaisie 2008.
+    kind: actual
+    origin: third-party
+    subject: Le joueur de simple malaisien Hafiz Hashim en compétition à l'Open de Malaisie 2008
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 En mai 1992, toute la nation s'est arrêtée un instant. Au Stadium Negara, à Kuala Lumpur, une équipe de jeunes hommes menée par les frères Sidek a battu l'Indonésie pour soulever la Coupe Thomas, et, comme l'a exprimé Datuk Rashid Sidek, « toute la Malaisie est devenue virale et tout le monde voulait jouer au badminton ». Trois décennies plus tard, le trophée n'est toujours pas revenu. L'histoire du badminton malaisien est une histoire de gloire précoce, d'une disette douloureuse et d'un champion ou deux portant sur leurs épaules les espoirs d'une nation.

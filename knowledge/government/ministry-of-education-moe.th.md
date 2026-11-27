@@ -28,7 +28,7 @@ faq:
   - q: "งบประมาณของกระทรวงศึกษาธิการใหญ่เพียงใด?"
     a: "ภายใต้งบประมาณ 2026 KPM ได้รับ RM66.2 พันล้าน — การจัดสรรมากที่สุดในบรรดากระทรวงระดับสหพันธ์ — เพิ่มจาก RM64.2 พันล้านในปี 2025 การจัดสรรรวมถึงเกือบ RM2 พันล้านเพื่อปรับปรุงโรงเรียนที่ทรุดโทรมกว่า 520 แห่งและสร้างโรงเรียนใหม่ 38 แห่ง"
 lang: "th"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,9 +82,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'อาคารราชการสีแทนทรงสมมาตรอลังการสไตล์มัวร์-อิสลามพร้อมป้อมยอดแหลมและช่องโค้งกลางสูงตระหง่าน มีคำว่า KEMENTERIAN PENDIDIKAN MALAYSIA เหนือทางเข้า ขนาบด้วยปีกอาคารที่เตี้ยกว่าใต้ท้องฟ้าเต็มไปด้วยเมฆ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: ภาพระยะใกล้ของมุขทางเข้าทรงโค้งของอาคารกระทรวงศึกษาธิการ มีตัวอักษรสีน้ำเงิน KEMENTERIAN PENDIDIKAN MALAYSIA และตราแผ่นดินสีทองเหนือประตู พร้อมธงชาติมาเลเซียและธงประจำรัฐโบกสะบัดบนเสา
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าหลักของสำนักงานใหญ่กระทรวงศึกษาธิการมาเลเซีย ปุตราจายา พร้อมป้าย KEMENTERIAN PENDIDIKAN MALAYSIA และตราแผ่นดิน
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: หน้าอาคารแบบเป็นชั้นเต็มรูปแบบของสำนักงานใหญ่กระทรวงศึกษาธิการมาเลเซีย มองจากถนนทางเข้า มีหอคอยกลางที่ประณีตและปีกอาคารสมมาตรที่เรียงด้วยธงชาติมาเลเซียเหนือลานจอดรถใต้ท้องฟ้าสว่างที่มีเมฆ
+    kind: actual
+    origin: third-party
+    subject: ภาพด้านหน้ากว้างของคอมเพล็กซ์สำนักงานใหญ่กระทรวงศึกษาธิการมาเลเซีย จากถนนทางเข้า ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 หากเป็นเรื่องเกี่ยวกับเด็กนักเรียนมาเลเซีย — หลักสูตรที่เรียน ตำราเรียนบนโต๊ะ การสอบระดับชาติที่เข้าสอบ หรือครูโรงเรียนรัฐที่หน้าชั้น — เรื่องนั้นอยู่กับกระทรวงศึกษาธิการ ในภาษามลายูเรียกว่า **Kementerian Pendidikan Malaysia** และมักย่อเป็น **KPM** เป็นกระทรวงระดับสหพันธ์ที่บริหารระบบการศึกษาก่อนอุดมศึกษาของประเทศ สิ่งที่กระทรวงนี้ *ไม่ได้* บริหารคือมหาวิทยาลัย — เส้นแบ่งที่ทำให้คนจำนวนมากสับสน

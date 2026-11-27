@@ -31,7 +31,7 @@ faq:
   - q: "マレーシアでeスポーツはどのように支援されていますか。"
     a: "eスポーツは競技種目として認知されており、SEAゲームズで実施されました。2020年度予算はRM2,000万を割り当て、KBSは2020年に Esports Integrated を設立して国家eスポーツロードマップと選手育成を推進しました。"
 lang: ja
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -106,6 +106,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'モーションキャプチャ制作スタジオ。グリッド状のキャプチャステージ、トラスに吊るされた頭上のカメラリグ、複数のモニターを備えたオペレーター用ワークステーションがある。'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: ビデオゲーム開発会社のオープンなスタジオフロアで、マルチモニターのデスクに向かって作業する開発者たち。
+    kind: representative
+    origin: third-party
+    subject: ビデオゲーム開発スタジオのフロア
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: コンテンツクリエイターの作業スペースで、デジタル絵画を表示したモニターの前に置かれたペンタブレットとスタイラス。
+    kind: representative
+    origin: third-party
+    subject: デジタル絵画を制作するデジタルアーティストの作業スペース
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 Les' Copaque の _Upin & Ipin Universe_ が**2025年7月17日**に世界中のコンソールに届いたとき、二人のいたずら好きな双子についての短編アニメシリーズから始まった一つの輪が閉じた。マレーシアのアニメが世界的に出版されるビデオゲームになった — そして、同国のデジタルクリエイティブコンテンツ産業が20年かけて静かに築き上げてきたものの見事な実例となった。

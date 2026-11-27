@@ -27,7 +27,7 @@ verificationNeeded:
   - "60 வயது மற்றும் அதற்கு மேற்பட்ட குடிமக்களுக்கான குறிப்பிட்ட கட்டண விலக்கு/தள்ளுபடி — RM5 நிபுணர் கிளினிக் பதிவுக் கட்டணத்திலிருந்து விலக்கு மற்றும் வகுப்பு 3 கட்டணத்தில் 50% குறைப்பு என்று பரவலாகப் புகாரளிக்கப்படுகிறது — அதிகாரப்பூர்வ moh.gov.my வலைத்தளத்தில் நேரடியாக உறுதிப்படுத்த முடியவில்லை (அணுக முயன்றபோது 403 Forbidden), எனவே அந்த எண்கள் உறுதிப்படுத்தப்பட்ட உண்மையாக வேண்டுமென்றே குறிப்பிடப்படவில்லை; பொதுவான அடிப்படையில் அதன் செயல்முறை மட்டுமே விவரிக்கப்பட்டுள்ளது."
   - "காத்திருப்பு நேர புள்ளிவிவரங்கள் (உதாரணமாக நிபுணர் சந்திப்பு அல்லது தேர்வுசார் அறுவைசிகிச்சைக்கான சராசரி நாட்கள்/மணிநேரங்களின் எண்ணிக்கை) குறிப்பிடப்படவில்லை; ஏனெனில் எழுதப்பட்ட நேரத்தில் உறுதிப்படுத்தக்கூடிய அதிகாரப்பூர்வ KKM எண்கள் எதுவும் காணப்படவில்லை; காத்திருப்பு நேரங்களின் யதார்த்தம் தரமான அடிப்படையில் மட்டுமே விவரிக்கப்பட்டுள்ளது."
 lang: "ta"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,33 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["hospital kerajaan Malaysia", "caj hospital kerajaan", "sistem rujukan hospital", "caj wad kelas 3", "caj bukan warganegara hospital", "Akta Fee 1951", "hospital pakar rujukan", "masa menunggu hospital kerajaan"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'மலேசிய அரசாங்க மருத்துவமனையான Hospital Kuala Lumpur-ன் சிறப்பு மற்றும் பகல்பராமரிப்புத் தொகுதியின் வெளிப்பகுதி; வெள்ளை முகப்பில் ஒரு சிவப்பு பிறைச் சின்னம்'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: மரங்களுக்கு அப்பால் தொலைவில் கோலாலம்பூர் நகரக் கோபுரங்களுடன் பார்க்கப்படும் Hospital Kuala Lumpur இன் இளஞ்சிவப்பு நவீன மகப்பேறு கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: பின்னணியில் KLCC அடிவானத்துடன் Hospital Kuala Lumpur இல் மகப்பேறுப் பிரிவு (Hospital Bersalin)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: Jabatan Perubatan Rehabilitasi எனப் படிக்கும் நீல மலாய் பலகையுடனும் முன்னால் நிறுத்தப்பட்ட கார்களுடனும் Hospital Kuala Lumpur இல் ஒரு ஒற்றைத்தளத் துறைக் கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: Hospital Kuala Lumpur இல் மறுவாழ்வு மருத்துவத் துறை (Jabatan Perubatan Rehabilitasi) கட்டிடம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 வரிசைச் சீட்டு கையில், எண் ஏற்கெனவே 80 பேருக்கு மேல் முன்னால், மேலும்

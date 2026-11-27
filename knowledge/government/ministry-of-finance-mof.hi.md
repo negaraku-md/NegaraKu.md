@@ -27,7 +27,7 @@ faq:
   - q: "वित्त मंत्रालय का नेतृत्व कौन करता है?"
     a: "अगस्त 2026 तक, वित्त मंत्री Dato' Seri Anwar bin Ibrahim हैं, जिनके साथ Datuk Seri Amir Hamzah bin Azizan द्वितीय वित्त मंत्री और Datuk Johan Mahmood bin Merican खज़ाने के महासचिव हैं। मंत्रिमंडल फेरबदल के साथ पदधारी बदलते रहते हैं, इसलिए वर्तमान नामों की पुष्टि mof.gov.my पर करें।"
 lang: "hi"
-sourceContentHash: "d725c73359a7391e"
+sourceContentHash: "0ec10f64955e8f35"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "archived"
@@ -71,6 +71,33 @@ wikidata: "Q7361911"
 relations: []
 related: []
 keywords: ["Ministry of Finance Malaysia", "MOF", "Kementerian Kewangan", "मलेशिया वित्त मंत्रालय", "menteri kewangan", "MOF Inc", "Minister of Finance Incorporated", "Perbendaharaan Malaysia", "संघीय खज़ाना मलेशिया", "मलेशिया संघीय बजट", "Belanjawan", "MOF registration", "MOF पंजीकरण", "ePerolehan", "kod bidang", "Treasury Malaysia", "mof.gov.my"]
+hero: '/media/government/ministry-of-finance-mof/hero.webp'
+heroAlt: 'पुत्रजया में मलेशिया के वित्त मंत्रालय भवन का घुमावदार अवतल अग्रभाग, एक झरनेदार जल-विशेषता के पार देखा गया'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Finance_Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Finance (Kompleks Kementerian Kewangan / Perbendaharaan) building, Putrajaya'
+images:
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-1.webp
+    alt: Ministry of Finance इमारत का तिरछा दृश्य जिसमें Perbendaharaan Malaysia Federal Treasury साइनबोर्ड और MOF लोगो दिख रहा है
+    kind: actual
+    origin: third-party
+    subject: '''Perbendaharaan Malaysia / Federal Treasury'' साइन के साथ Ministry of Finance इमारत, पुत्रजया'
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-finance-mof/body-2.webp
+    alt: पुत्रजया में मलेशिया की Ministry of Finance इमारत के घुमावदार मेहराबदार मुखौटे का सामने का दृश्य
+    kind: actual
+    origin: third-party
+    subject: Ministry of Finance इमारत और उसका प्रांगण, पुत्रजया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Finance-03.jpg
 ---
 
 संघीय सरकार जो भी रिंगिट एकत्र करती और ख़र्च करती है, वह एक ही संस्था से होकर गुज़रता है: वित्त मंत्रालय। यह मलेशिया सरकार का वह मंत्रालय है जिसे सरकारी ख़र्च और राजस्व जुटाने दोनों की ज़िम्मेदारी सौंपी गई है — यह आर्थिक नीति विकसित करता है, मलेशिया का संघीय बजट तैयार करता है, और वित्तीय विधान एवं विनियमन की देखरेख करता है। मलय में यह Kementerian Kewangan है, और इसकी मूल मशीनरी संघीय खज़ाना, या Perbendaharaan है। यह पृष्ठ संस्था की व्याख्या करता है और फिर उसे उस अलग चीज़ से सुलझाता है जिसका लोगों का अर्थ होता है जब वे "MOF पंजीकरण" खोजते हैं।

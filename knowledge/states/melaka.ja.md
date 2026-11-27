@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,34 @@ relations:
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
 framework: profile
+hero: '/media/states/melaka/hero.webp'
+heroAlt: 'ムラカのオランダ広場の深紅のオランダ時代のスタダイスの建物と赤レンガの時計塔。整えられた花のロータリーを縁取る'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: 赤いChrist Church Melakaとその隣のMelaka Art Galleryで、広場には花で飾られた色鮮やかな三輪車（トライショー）が並んで駐車している様子
+    kind: actual
+    origin: third-party
+    subject: 赤く塗られたChrist Church MelakaとMelaka Art Gallery、そして前に停められた華やかに花で飾られたトライショー
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: 青空の下、芝生の上に古い大砲が置かれた、風化したラテライト石造りのマラッカのA Famosa要塞の遺構
+    kind: actual
+    origin: third-party
+    subject: マラッカに残るA Famosa（Porta de Santiago）ポルトガル要塞門の石壁と、前に置かれた古い大砲
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 マレーシアの九つの州には統治者（Raja）がいる。マラッカはその一つではない——その

@@ -35,7 +35,7 @@ faq:
     a: "Los esports están reconocidos como una disciplina competitiva y se disputaron en los Juegos del Sudeste Asiático (SEA Games). El Presupuesto 2020 asignó RM20 millones, y el KBS creó Esports Integrated en 2020 para impulsar una hoja de ruta nacional de esports y el desarrollo de atletas."
 
 lang: es
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 
@@ -114,6 +114,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'Un estudio de producción de captura de movimiento con un escenario de captura cuadriculado, un soporte de cámaras en lo alto sobre estructuras y una estación de trabajo de operador con varios monitores.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: Desarrolladores trabajan en escritorios con varios monitores por toda la planta abierta de un estudio de desarrollo de videojuegos.
+    kind: representative
+    origin: third-party
+    subject: La planta de un estudio de desarrollo de videojuegos
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: Una tableta gráfica y un lápiz óptico frente a un monitor que muestra una pintura digital en el puesto de trabajo de un creador de contenido.
+    kind: representative
+    origin: third-party
+    subject: El puesto de trabajo de un artista digital para crear pinturas digitales
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 Cuando _Upin & Ipin Universe_ de Les' Copaque llegó a las consolas de todo el mundo el **17 de julio de 2025**, cerró un círculo que comenzó con una breve serie animada sobre dos traviesos gemelos. Un dibujo animado malasio se había convertido en un videojuego publicado globalmente, y en una pulcra ilustración de lo que la industria de contenido creativo digital del país ha construido discretamente a lo largo de dos décadas.

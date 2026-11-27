@@ -25,7 +25,7 @@ verificationNeeded:
   - "La question de savoir si une exigence spécifique pour les conducteurs (comme un âge minimum) s'applique doit être confirmée auprès du JPJ ou de l'opérateur de e-hailing concerné, car elle n'était pas énoncée sous une forme confirmable sur les pages officielles consultées"
 
 lang: "fr"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'Une voiture Hyundai Ioniq Electric blanche aux couleurs vertes de Grab Electric et au slogan 0 percent emisi sur une route.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: Une berline habillée du marquage vert de Grab, le service de VTC, et de drapeaux malaisiens circule dans une rue de Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Voiture aux couleurs de Grab à Kota Kinabalu, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: Un contingent aux couleurs de Grab défile lors du défilé de la fête nationale de 2023 à Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Contingent Grab lors d'un défilé de la fête nationale à Kota Kinabalu
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 Ouvrez Grab, ou Bolt, ou inDrive, à Kuala Lumpur et appuyez sur « réserver ».

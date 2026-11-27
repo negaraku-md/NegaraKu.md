@@ -77,9 +77,35 @@ wikidata: "Q120467697"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "azizulhasni-awang" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-venues", "national-sports-council-msn"]
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'Fasad bersudut merah, kelabu dan putih Velodrom Nasional di Nilai berdiri di atas sebuah tempat letak kereta yang kosong.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: Trek kayu bujur bercondong, kawasan tengah dan tempat duduk yang sesak di dalam sebuah velodrom tertutup semasa kejohanan dunia berbasikal trek.
+    kind: representative
+    origin: third-party
+    subject: Bahagian dalam sebuah velodrom semasa kejohanan dunia berbasikal trek
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: Dua penunggang basikal trek atas basikal aerodinamik beroda cakera berlumba sebelah-menyebelah menaiki papan biru dan merah yang curam condong sebuah velodrom.
+    kind: representative
+    origin: third-party
+    subject: Pemecut trek berlumba di atas papan bercondong sebuah velodrom
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 Sebuah gelanggang berbumbung panjang di pinggir Nilai kini menjadi tempat penunggang terpantas Malaysia mengasah lariannya — dan ia dibina khusus untuk melahirkan lebih ramai juara trek dunia.

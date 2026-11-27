@@ -30,7 +30,7 @@ faq:
     a: "จำนวนของชุมชนนี้ลดลงอย่างรวดเร็ว — จากราว 400 ครอบครัวในทศวรรษ 1980 เหลือไม่ถึง 50 ครอบครัวในปัจจุบันตามข้อมูลของคณะกรรมการมรดกแห่งชาติสิงคโปร์ (Roots) ขณะที่รายงานของ Free Malaysia Today ประเมินว่ามีเพียงราว 20 ถึง 30 ครอบครัวที่ยังอาศัยอยู่ในกัมปงเชตติ นักวิจัยเชื่อมโยงความเสื่อมถอยนี้กับการแต่งงานข้ามชุมชน การย้ายถิ่นออก และคนรุ่นใหม่ที่ยิ่งขาดความเชื่อมโยงกับรากเหง้าเชตติ"
 
 lang: "th"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["Chetti Melaka", "Chitty Melaka", "Peranakan India", "Kampung Chetti", "Gajah Berang", "Hindu Saivite", "warisan Melaka"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'ซุ้มประตูทางเข้าสไตล์อินเดียสีชมพูยอดประดับรูปช้างสีขาวคู่ บ่งบอกทางเข้าสู่กัมปงเจตติในมะละกา พร้อมเทวสถานฮินดูเล็กๆ ยอดโดมสีครีมทางขวา และบ้านในหมู่บ้านกับป้ายกัมปงเจตติตามถนนเงียบสงบใต้ท้องฟ้าสีคราม'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: บ้านไม้สักสีเข้มสองชั้นแบบมลายูดั้งเดิมที่ใช้เป็นพิพิธภัณฑ์เชตตีในเมืองมะละกา มีป้ายสีน้ำเงินเขียนว่า Muzium Chetti The Chetti Museum อยู่เหนือระเบียง มีกระถางต้นไม้เรียงอยู่หลังรั้วเตี้ย พร้อมธงมาเลเซียและธงมะละกาโบกสะบัดอยู่ข้าง ๆ
+    kind: actual
+    origin: third-party
+    subject: พิพิธภัณฑ์เชตตี (Muzium Chetti) ในกัมปงเชตตี เมืองมะละกา ที่บันทึกเรื่องราวของชุมชนเชตตีมะละกา
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: ด้านหน้าสีเหลืองของวัดศรีโปยยาธาวินายาการมูร์ตีบนถนนฮาร์โมนีในเมืองมะละกา เป็นหอทรงชั้นเรียบง่ายพร้อมช่องประดิษฐานเทพเจ้าสูงขึ้นเหนือหลังคาระเบียงกระเบื้องและประตูสีเขียวเทอร์ควอยซ์ ส่องด้วยแสงอาทิตย์ยามเช้าตัดกับท้องฟ้าสีน้ำเงินเข้ม
+    kind: actual
+    origin: third-party
+    subject: วัดศรีโปยยาธาวินายาการมูร์ตีในเมืองมะละกา วัดฮินดูประวัติศาสตร์ที่ชุมชนเชตตีก่อตั้งขึ้นในปี ค.ศ. 1781
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 ในหมู่บ้านเก่าแห่งหนึ่งที่ถนนกาจะฮ์เบอรัง (Jalan Gajah Berang) มะละกา มีครอบครัวกลุ่มหนึ่งที่กราบไหว้พระศิวะ แต่งกายอย่างชาวมลายู ปรุงแกงกลิ่นกะทิ และพูดภาษามลายูที่แทรกด้วยคำทมิฬ พวกเขาไม่ใช่อินเดีย ไม่ใช่มลายู ไม่ใช่จีน — พวกเขาคือเชตติมะละกา และจำนวนของพวกเขายิ่งน้อยลง

@@ -32,7 +32,7 @@ faq:
   - q: "Quels enjeux contemporains les Nouveaux Villages affrontent-ils ?"
     a: "Parmi les enjeux courants figurent la tenure foncière (certaines parcelles sont détenues sous permis d'occupation temporaire / TOL ou titre de bail de 99 ans plutôt qu'en pleine propriété), le vieillissement de la population et l'exode des jeunes, ainsi que des infrastructures vieillissantes. Ces dernières années ont aussi vu des initiatives pour inscrire les Nouveaux Villages au patrimoine et pour revitaliser les communautés par des fresques murales, des parcours gastronomiques et des histoires de villages."
 lang: "fr"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'Une maison de plain-pied vieillie, en bois et en zinc, typique d''un Nouveau Village chinois de Malaisie, donnant sur une rue résidentielle tranquille avec des voitures garées le long.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: L'arche d'entrée ornementale marquant l'accès à Broga, un nouveau village chinois du Negeri Sembilan, avec des collines en arrière-plan.
+    kind: actual
+    origin: third-party
+    subject: Arche d'entrée du nouveau village de Broga, Negeri Sembilan
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: Un coin de rue du nouveau village de Seri Setia, à Petaling Jaya, avec une fresque peinte et des lanternes et décorations rouges du Nouvel An chinois.
+    kind: actual
+    origin: third-party
+    subject: Fresque murale et décorations du Nouvel An chinois au nouveau village de Seri Setia, Petaling Jaya, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 Entrez aujourd'hui à Semenyih, Kampar ou Sekinchan et ce que vous voyez, pour l'essentiel, c'est le visage ordinaire d'une petite ville : des rangées de maisons-boutiques, une école primaire chinoise, des temples et des associations de clan, des cafés de bord de route et des épiceries. Mais nombre de ces lieux partagent une identité commune : ce sont des « Nouveaux Villages ». Derrière ce nom en apparence banal se cache une histoire faite de l'[Insurrection malaise](/fr/malaysia/the-emergency), de contre-insurrection et de déplacement à grande échelle.

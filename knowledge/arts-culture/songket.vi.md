@@ -33,7 +33,7 @@ faq:
     a: "Theo truyền thống là phụ nữ. UNESCO ghi nhận rằng việc dệt songket luôn nằm trong tay phụ nữ, còn đàn ông tham gia thực hành đó bằng cách làm các dụng cụ dệt. Tri thức của nó được truyền lại trong gia đình và làng quê, và một số cơ sở cũng có các chương trình huấn luyện."
 
 lang: "vi"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,34 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'Một cận cảnh chi tiết của tấm vải songket dệt tay, lụa đỏ sẫm phủ dày đặc họa tiết hoa lá và hình thoi dệt nổi bằng sợi vàng lấp lánh, với một mảng trung tâm tương phản'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: Một tấm vải songket hình chữ nhật hoàn chỉnh được trải phẳng, hai dải cạnh màu đỏ với họa tiết hoa chỉ vàng kẹp lấy một dải giữa màu vàng nhạt hơn
+    kind: actual
+    origin: third-party
+    subject: một tấm khố quấn hông songket Malaysia (kain) từ Terengganu trải phẳng, phô bày nền gấm vàng và dải đầu ở giữa
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: Một chiếc khăn đội đầu Mã Lai hình tam giác gấp (tanjak) làm từ vải songket màu xanh pha vàng lấp lánh với chỉ kim loại dệt, trưng bày trên một giá đỡ
+    kind: actual
+    origin: third-party
+    subject: một chiếc tanjak, khăn đội đầu Mã Lai được gấp từ vải songket vàng, đến từ Terengganu
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 Âm thanh nghe nhiều nhất trong xưởng songket không phải tiếng máy móc. Đó là tiếng gỗ được ấn xuống, sợi được kéo, và một que tre được luồn vào rồi rút ra — lặp đi lặp lại, một hàng hoa văn mỗi lần, suốt cả ngày.

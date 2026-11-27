@@ -85,6 +85,34 @@ festivalFacts:
   when: "Christmas Day falls on 25 December each year, with a decorative and retail season from around late November."
   holiday: "Christmas Day, 25 December, is a public holiday nationwide across all states and federal territories (First Schedule of the Holidays Act 1951 (Act 369) on the Peninsula; state ordinances in Sabah and Sarawak). Sabah additionally gazettes Christmas Eve, 24 December, as a state public holiday under the Sabah Holidays Ordinance (Cap. 56)."
   etiquette: "The open-house tradition of hosting guests of any background for a shared meal is applied to Christmas as to other festivals; Christian families who host commonly welcome guests of other faiths, and visiting runs in both directions across the festival calendar."
+hero: '/media/arts-culture/christmas-malaysia/hero.webp'
+heroAlt: 'A towering decorated Christmas tree rises through the atrium of Pavilion Kuala Lumpur, surrounded by hanging gold lanterns, a carousel and crowds of shoppers on a red carpet'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_Pavilion_Kuala_Lumpur_Christmas_2023_(231211).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant Christmas tree and festive display in the Pavilion Kuala Lumpur shopping mall'
+
+images:
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-1.webp
+    alt: An elaborate candyland Christmas display at a Kuala Lumpur shopping mall, with a red and white peppermint-swirl stage, gingerbread houses and rows of fairy-lit Christmas trees above the crowds
+    kind: actual
+    origin: third-party
+    subject: Candyland-themed Christmas display with gingerbread houses and lit trees at a Kuala Lumpur mall
+    credit: Shirley SL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mid_Valley_Christmas_Decoration.jpg
+  - role: scene
+    src: /media/arts-culture/christmas-malaysia/body-2.webp
+    alt: The white-walled, red-tiled St Mary's Anglican Cathedral in central Kuala Lumpur, with a cross on its gable and a Malaysian flag in front, modern office towers rising behind
+    kind: actual
+    origin: third-party
+    subject: St Mary's Anglican Cathedral, a historic white church in central Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_St-Marys-Cathedral-01.jpg
 ---
 
 On the evening of 24 December, a church in Kota Kinabalu or Kuching fills for a late service, while a few hundred kilometres away on the Peninsula the same date is an ordinary working Thursday. The next morning, 25 December, the whole country is off work. That split — one date, two very different statuses — is the neatest way to understand how Christmas sits in Malaysia: a religious festival for one community, a public holiday for everyone, and a season of open doors that many take part in regardless of faith.

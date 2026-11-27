@@ -37,6 +37,11 @@ import {
 } from './lib/fb-queue.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
+// OG cards are offloaded to Cloudflare R2 when OG_BASE_URL is set (the live
+// config). When offloaded, the same-origin /og/* path 404s, so the photo URL
+// MUST point at the R2 host — else Facebook rejects every post with code 324
+// "Missing or invalid image file". Mirrors src/lib/og.ts (strip the /og prefix).
+const OG_BASE = (process.env.OG_BASE_URL ?? '').replace(/\/+$/, '');
 const TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const DRY_RUN = process.env.FB_DRY_RUN === '1';
 // Queue mode: with no explicit files, drain the ranked backlog (the daily cron
@@ -296,8 +301,11 @@ function buildPost(file, data, lang, prefix) {
     return null;
   }
   const rel = `/${data.category}/${data.slug}`;
-  // OG cards are generated per language at /og/<lang>/<category>/<slug>.png.
-  const image = `${SITE_URL}/og/${lang}${rel}.png`;
+  // OG cards are generated per language at /og/<lang>/<category>/<slug>.png, but
+  // are offloaded to R2 (og.negaraku.md, no /og prefix) when OG_BASE_URL is set;
+  // the same-origin /og/* path 404s there, which Facebook rejects (code 324).
+  const ogPath = `/og/${lang}${rel}.png`;
+  const image = OG_BASE ? OG_BASE + ogPath.replace(/^\/og/, '') : `${SITE_URL}${ogPath}`;
   // Canonical (trailing-slash) URL so Facebook's scraper never follows a 301.
   const link = withUtm(articleUrl(SITE_URL, prefix, data.category, data.slug), 'facebook', 'social');
   const prompt = (PROMPT[pillarOf(data.category)] ?? PROMPT.understand)[lang];

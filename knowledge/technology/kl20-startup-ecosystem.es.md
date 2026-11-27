@@ -36,7 +36,7 @@ faq:
     a: "El Ministerio de Economía lideró el plan en el lanzamiento, con la participación del Ministerio de Ciencia, Tecnología e Innovación (MOSTI) y el Ministerio Digital. Entre las agencias de ejecución nombradas en torno a la cumbre están Cradle Fund para el apoyo a startups y la ventanilla única, MRANTI para el Innovation Belt y Khazanah Nasional para el fondo nacional de fondos."
 
 lang: "es"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,35 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: La torre Exchange 106 y el distrito financiero Tun Razak Exchange en Kuala Lumpur, vistos desde la KL Tower
+    kind: representative
+    origin: third-party
+    subject: La torre Exchange 106 y el distrito financiero Tun Razak Exchange (TRX) en Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: Perfil urbano de la ciudad de Kuala Lumpur con la KL Tower y edificios de oficinas de gran altura bajo un cielo azul
+    kind: representative
+    origin: third-party
+    subject: Perfil urbano de la ciudad de Kuala Lumpur con la KL Tower y edificios de oficinas de gran altura agrupados
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'Las Torres Gemelas Petronas se elevan en el centro de un nítido perfil urbano del centro de Kuala Lumpur, con el centro comercial y el parque KLCC abajo y rascacielos circundantes bajo un cielo despejado.'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 En abril de 2024, Malasia dejó de hablar de sus startups en el lenguaje de la esperanza y empezó a hablar en el lenguaje de los rankings. El planteamiento fue directo: meter a Kuala Lumpur entre los 20 mejores ecosistemas de startups del mundo para 2030, o admitir que el país había ido a la deriva.

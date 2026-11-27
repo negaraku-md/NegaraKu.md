@@ -23,7 +23,7 @@ appliesTo: "Penduduk, perancang bandar, dan sesiapa sahaja yang membandingkan ke
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 
 status: "published"
 aiAssisted: true
@@ -64,9 +64,35 @@ entity: "Active mobility (walking and cycling)"
 relations:
   - { rel: "related-to", to: "klang-valley-rail" }
   - { rel: "related-to", to: "e-hailing-grab" }
-related: []
+related: ["e-scooters-and-personal-mobility-devices", "klang-valley-and-city-buses", "parking-in-malaysian-cities"]
 keywords: ["walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'Laluan berbasikal dan berjoging berturap merah dengan simbol basikal putih bercat, rak basikal dan pokok di bawah langit biru.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: Laluan berkongsi berturap untuk berbasikal dan berjalan kaki yang terbentang di sepanjang jalan utama yang sibuk di George Town, Pulau Pinang.
+    kind: actual
+    origin: third-party
+    subject: Laluan basikal dan pejalan kaki berkongsi di George Town, Pulau Pinang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: Laluan pejalan kaki berbumbung yang luas dihiasi tumbuhan hijau di tepi Jalan Tun Razak di tengah Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Laluan pejalan kaki Jalan Tun Razak di Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 Melangkah keluar dari sebuah stesen LRT Lembah Klang pada jam 1 tengah hari

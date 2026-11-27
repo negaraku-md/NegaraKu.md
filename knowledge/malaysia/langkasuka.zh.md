@@ -42,6 +42,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "early Malay kingdoms", "Kedah ancient history", "Lang-ya-xiu", "pre-Islamic Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: '布央谷一片草地上的低矮石砌阶梯式寺庙基座，四周环绕着棕榈树与青翠的山峦。'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 七世纪时，一位编纂《梁书》的中国朝廷史官，写下了早前使节所报告的、关于南方远处一个王国的见闻：一座有城墙的城市、一位骑象的国王、一个官员在君主面前拱手为礼的宫廷。史官把那个地方称为「狼牙修」。他所描述的几乎可以肯定就是 Langkasuka——而那几句埋在一部为了完全不同目的而编纂的正史里的话，是这个地方在世上仅存的少数详细描述之一。

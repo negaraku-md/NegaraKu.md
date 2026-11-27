@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "57d271bf1ff95022"
+sourceContentHash: "e6ae7cdb92cde7db"
 
 status: "published"
 aiAssisted: true
@@ -89,9 +89,36 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "renewable-energy-malaysia" }
   - { rel: "related-to", to: "tenaga-nasional-berhad" }
-related: []
+related: ["seda-malaysia", "energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition"]
 keywords: ["solar Malaysia", "NEM 3.0", "Net Energy Metering", "Large Scale Solar", "LSS5", "CGPP", "CRESS", "CREAM", "tenaga boleh baharu", "solar bumbung"]
 framework: explainer
+hero: '/media/energy/solar-energy-malaysia/hero.webp'
+heroAlt: '穏やかなキャンパスの湖を横切って伸びる屋根付き遊歩道の上の、青い太陽光パネルの長い浮体式太陽光設備。背後に建物と緑'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a floating solar photovoltaic array on a lake at Universiti Putra Malaysia'
+images:
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-1.webp
+    alt: 霞んだ空の下、地平線に熱帯雨林を望む伐採地一面に、傾斜して地上設置された太陽光パネルが長い列をなして広がる
+    kind: actual
+    origin: third-party
+    subject: マレーシアのブキッ・メラ近くの太陽光発電所で、地上設置された太陽光パネルの列
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Merah_solar_panel_(230225)_02.jpg
+  - role: scene
+    src: /media/energy/solar-energy-malaysia/body-2.webp
+    alt: サバ州の農村の学校で、マレーシア政府の太陽光ハイブリッド事業の看板の横に、太陽光パネルで屋根を葺いた鋼製フレームのキャノピー、手前に駐車した車とニワトリ
+    kind: actual
+    origin: third-party
+    subject: マレーシア、サバ州の学校にある農村向けの太陽光ハイブリッド発電設備
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-02.jpg
 ---
 
 住宅の屋根に設置する太陽光パネルは、今やマレーシア政府の政策によって緻密に結び付けられた財務上の決定となっている。しかし「太陽光に切り替える」ことが意味するものは、イポーの住宅所有者にとってと、パシルグダンの工場にとって、あるいは100％グリーンエネルギーを求めるデータセンターにとってでは、まったく異なる。利用者グループごとに、それぞれ専用の制度がある。

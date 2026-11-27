@@ -33,7 +33,7 @@ faq:
     a: "The Malaysian Hockey Confederation (MHC) is the national governing body for men's and women's field and indoor hockey. It is affiliated with the Asian Hockey Federation (AHF) and the FIH, and operates out of the National Hockey Stadium in Bukit Jalil, Kuala Lumpur."
 
 lang: "en"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,32 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'Field hockey players chase the ball during a Malaysia match at the Hockey World Cup.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: Players in a field-hockey match, Malaysia against the Netherlands, during the 1973 Hockey World Cup in Amstelveen.
+    kind: actual
+    origin: third-party
+    subject: Malaysia's national field-hockey team in action at the 1973 Hockey World Cup
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: The pitch and stands of Taman Daya Hockey Stadium in Johor Bahru, Johor, a field-hockey venue in Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Taman Daya Hockey Stadium in Johor Bahru, a Malaysian field-hockey venue
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 On 15 March 1975, a stadium in Kuala Lumpur watched India lift the men's hockey World Cup for the only time in their history — and the host was not India, but Malaysia. Half a century later, the same country still invites the world's hockey powers to Ipoh every year. Field hockey may not be Malaysia's most popular sport today, but it may well be the nation's most internationally respected sporting legacy.

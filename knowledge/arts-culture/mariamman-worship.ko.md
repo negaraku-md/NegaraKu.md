@@ -33,7 +33,7 @@ faq:
   - q: "마리암만 신앙은 독립된 하나의 종교인가요?"
     a: "아닙니다. 마리암만 신앙은 더 넓은 힌두교의, 특히 샥타(샥티) 전통의 일부입니다. 암만은 흔히 여신 칼리, 두르가의 형상과 함께 숭배됩니다. 말레이시아 힌두교 공동체에서 암만 신앙은 시바, 무루간 신앙과 나란히 이루어집니다."
 lang: "ko"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: '쿠알라룸푸르 스리 마하 마리암만 사원(Sri Maha Mariamman Temple)의 우뚝 솟은 조각 고푸람(gopuram)으로, 간판에 사원 이름이 적혀 있고 그 아래로 채색된 힌두교 신상들이 줄지어 있으며, 앞쪽에는 거리와 차량 통행이 있다.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: 조지타운 마리암만 사원의 조각된 탑문(고푸람)으로, 선명하게 채색된 힌두교 신들의 상으로 뒤덮여 있다
+    kind: actual
+    origin: third-party
+    subject: 스리 마하마리암만 사원, 페낭 조지타운. 여신 마리암만을 모신 시내에서 가장 오래된 힌두교 사원
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: 기둥이 늘어선 마리암만 사원의 내부 기도실로, 채색된 천장과 지성소를 향한 신전들이 있다
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 마리암만 사원의 내부 기도실
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 말레이시아의 오래된 고무 플랜테이션 거의 어디에서나, 그리고 도심의 세월이 밴 옛 거리를 따라 마리암만 사원을 볼 수 있습니다. 황토색 얼굴을 한 암만 신상, 그리고 우기(雨期)가 오기 전에 열리는 축제들은 우연이 아닙니다 — 그것들은 한 세기 반이 넘는 타밀 공동체의 역사와 신앙 전통을 담고 있습니다.

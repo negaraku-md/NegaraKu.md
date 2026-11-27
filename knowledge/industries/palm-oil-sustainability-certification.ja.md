@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 
 status: "published"
 aiAssisted: true
@@ -103,6 +103,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'ジョホール州ムルシン郡の、明るい空の下、起伏する緑の土地に広がる、手入れの行き届いた整然としたアブラヤシ農園'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: サバ州キマニスで、長靴を履いた2人の農園労働者がオイルパームの傍らに立ち、1人が収穫鎌の上に切り落としたばかりの果房を持っている様子
+    kind: actual
+    origin: third-party
+    subject: サバ州キマニスのオイルパーム農園で、収穫した新鮮果房を持つ農園労働者
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: サバ州スンガイ・マンギスの農園苗床で、黒いポリバッグに入って整然と列をなして育つオイルパームの若い苗
+    kind: actual
+    origin: third-party
+    subject: サバ州スンガイ・マンギスの商業用苗床でポリバッグで育てられるオイルパームの苗
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 今や一件のマレーシア産パーム油の出荷は、同時に三つの異なるルールブックに応えなければならない――国内の強制的な国家制度、取締役会における自発的な買い手のクラブ、そして港でそれを締め出しうる欧州の森林減少防止法である。2024年の最初の10か月だけで2,230万トンのパーム油およびパーム基材製品を出荷し、RM893.9億を稼いだこの産業にとって、こうした書類手続きはもはや形式的なものではない。それは市場アクセスそのものである。

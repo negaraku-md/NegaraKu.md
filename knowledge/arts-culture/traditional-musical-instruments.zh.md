@@ -29,7 +29,7 @@ faq:
     a: "唢呐以循环呼吸（circular breathing）技巧演奏，使乐声连绵不断，因而成为诺巴（Nobat）中承担旋律的主要乐器。"
 
 lang: "zh"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,34 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: '一位身有纹身的乌鲁人（Orang Ulu）乐师头戴羽毛帽、身着串珠服装，弹奏一把绘有醒目红黑婆罗洲螺旋纹样的大型sape琵琶'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: 一排大型的瑞巴那乌比鼓（rebana ubi）立在蓝色木架上，鼓身和鼓框绘着鲜艳的红、绿、黄、粉花卉图案
+    kind: actual
+    origin: third-party
+    subject: 一排来自马来西亚吉兰丹的大型瑞巴那乌比框鼓（rebana ubi）
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: 一名身穿橙色衬衫的老者吹奏瑟鲁奈（serunai）双簧管乐器，身后地上排着一列列马来框鼓
+    kind: actual
+    origin: third-party
+    subject: 一名老乐手在马来西亚吉兰丹家中吹奏瑟鲁奈（serunai）双簧管
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 同样的声响在马来西亚几乎每一场表演艺术的背后反复回荡：婚礼上众人齐击的羊皮鼓点、皮影戏开场时高亢缠绵的笛音，以及砂拉越长屋里那令人心安的木弦拨奏。奏出这些声响的乐器常常出现在众多艺术文章中——因此本页将它们汇集于一处。

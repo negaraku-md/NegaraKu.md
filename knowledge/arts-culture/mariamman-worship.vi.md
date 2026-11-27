@@ -33,7 +33,7 @@ faq:
   - q: "Tín ngưỡng thờ Mariamman có phải là một tôn giáo riêng biệt không?"
     a: "Không. Tín ngưỡng thờ Mariamman là một phần của Ấn Độ giáo rộng lớn hơn, và đặc biệt là của truyền thống Shakta (Shakti). Amman thường được tôn thờ cùng với các hình tướng nữ thần Kali và Durga. Trong cộng đồng Hindu Malaysia, việc thờ Amman diễn ra song song với việc thờ Shiva và Murugan."
 lang: "vi"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'Tháp gopuram chạm khắc cao vút của đền Sri Maha Mariamman ở Kuala Lumpur, tấm biển ghi tên đền phía trên những hàng tượng thần Hindu được sơn màu, phía trước là một con đường và dòng xe cộ.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: Tháp gopuram chạm khắc của đền Mariamman ở George Town, phủ kín các tượng thần Hindu được sơn màu rực rỡ
+    kind: actual
+    origin: third-party
+    subject: Đền Sri Mahamariamman ở George Town, Penang, ngôi đền Hindu lâu đời nhất thành phố thờ nữ thần Mariamman
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: Gian thờ bên trong có cột của một đền Mariamman, với trần nhà được vẽ và các điện thờ hướng về khu chính điện
+    kind: actual
+    origin: third-party
+    subject: Gian thờ bên trong đền Mariamman ở George Town, Penang
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 Gần như bên cạnh bất kỳ đồn điền cao su cũ nào ở Malaysia, và dọc theo những con phố cổ kính ở trung tâm các thị trấn, bạn đều có thể tìm thấy một ngôi đền Mariamman. Tượng Amman với khuôn mặt màu vàng đất son, và các lễ hội được tổ chức trước mùa mưa, không phải là ngẫu nhiên — chúng mang theo hơn một thế kỷ rưỡi lịch sử và truyền thống tín ngưỡng của một cộng đồng Tamil.

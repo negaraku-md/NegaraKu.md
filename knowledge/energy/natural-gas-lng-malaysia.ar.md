@@ -34,7 +34,7 @@ faq:
     a: "يتيح وصول الأطراف الثالثة (TPA) للناقلين المؤهّلين، لا بيتروناس وحدها، حجز سعة على محطات إعادة التغويز وأنابيب النقل وأنابيب التوزيع بالشروط نفسها. وقد بدأ في 16 يناير 2017 بموجب قانون إمداد الغاز (المعدِّل) لسنة 2016 (Gas Supply (Amendment) Act 2016) وتنظّمه لجنة الطاقة (Suruhanjaya Tenaga)."
 
 lang: "ar"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,32 @@ relations:
 related: ["petronas"]
 keywords: ["الغاز الطبيعي ماليزيا", "الغاز المسال ماليزيا", "LNG Malaysia", "بينتولو للغاز المسال", "Bintulu LNG", "استغلال غاز شبه الجزيرة", "خط أنابيب PGU", "محطة إعادة التغويز", "وصول الأطراف الثالثة", "Third Party Access", "السعر المرجعي الماليزي", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'محطة بحرية لتحميل الغاز الطبيعي المسال مع أنابيب وأرصفة فوق مياه ساحلية ضحلة في بينتولو بماليزيا.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: سفينة ناقلة كبيرة للغاز الطبيعي المُسال تمخر المياه المفتوحة، يصطفّ على سطحها الطويل هياكل خزّانات شحن معزولة كبيرة وأنابيب، تاركة أثراً في الماء تحت سماء صافية
+    kind: representative
+    origin: third-party
+    subject: ناقلة غاز طبيعي مُسال من النوع الذي يشحن LNG الماليزي إلى المشترين في الخارج
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: محطة برّية مترامية لمعالجة الغاز ذات أعمدة تقطير مرتفعة وكرات تخزين فضّية ومداخن شعلات وشبكة كثيفة من الأنابيب، أُقيمت على أرض ساحلية مُزالة أشجارها وخلفها تلال
+    kind: actual
+    origin: third-party
+    subject: محطة Sabah Oil and Gas Terminal (SOGT) في Kimanis، Sabah، وهي منشأة برّية لمعالجة الغاز تابعة لـ Petronas
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 في كل مرة تشتغل فيها محطة كهرباء في سلانغور أو يُسخّن فيها مصنع قفازات في بينانغ أفرانه، يكون الغاز قد بدأ على الأرجح رحلته على بُعد مئات الكيلومترات، قبالة ساحل تيرينغانو أو عبر بحر الصين الجنوبي في ساراواك. فماليزيا مصدّرٌ ثقيل الوزن للغاز، ومستوردٌ له على نحو متزايد في الوقت نفسه، والأنابيب والمحطات التي توفّق بين هاتين الحقيقتين من أثمن أصول الطاقة في البلاد.

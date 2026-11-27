@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,33 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: '熱帯雨林の林冠の枝の間で休む、野生のボルネオオランウータンの母親とその子'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: 熱帯雨林の林冠高くで枝からぶら下がる、2頭の子を連れたメスのボルネオオランウータン
+    kind: actual
+    origin: third-party
+    subject: ボルネオで、熱帯雨林の木にぶら下がり採食する野生のボルネオオランウータンの家族群
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: 赤みがかった毛に縁取られた、表情豊かな野生ボルネオオランウータンの顔のクローズアップ
+    kind: actual
+    origin: third-party
+    subject: ボルネオで、熱帯雨林にいる野生ボルネオオランウータンの顔のクローズアップ
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 野生のオランウータンには広大な森林、しかも連結した森林が必要である。サバ東部の低地では、それが最も希少なものとなってしまった。かつて類人猿が地面に触れることなく数キロメートルを移動できた樹木は、今やアブラヤシ農園の縁で途切れている。ボルネオオランウータンがこの景観の中で生き延びられるかどうかは、多くの部分において、法律、土地、そして回廊の問題である。

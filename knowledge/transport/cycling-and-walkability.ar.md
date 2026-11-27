@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "السكان والمخططون وكل من يقارن قابلية المشي وبنية ركوب الدراجات في المدن الماليزية بالدول الأخرى."
 
 lang: "ar"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -64,9 +64,35 @@ entity: "Active mobility (walking and cycling)"
 relations:
   - { rel: "related-to", to: "klang-valley-rail" }
   - { rel: "related-to", to: "e-hailing-grab" }
-related: []
+related: ["e-scooters-and-personal-mobility-devices", "klang-valley-and-city-buses", "parking-in-malaysian-cities"]
 keywords: ["قابلية المشي في ماليزيا", "ركوب الدراجات في المدن الماليزية", "بنية المشاة في ماليزيا", "الخطة الرئيسية للمشاة والدراجات في KL", "الاعتماد على السيارة في ماليزيا", "التنقل النشط في ماليزيا", "walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'مسار مرصوف أحمر لركوب الدراجات والجري عليه رمز دراجة أبيض مرسوم، مع حوامل للدراجات وأشجار تحت سماء زرقاء.'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: مسار مشترك معبّد للدراجات والمشي يمتد بمحاذاة طريق رئيسي مزدحم في George Town، Penang.
+    kind: actual
+    origin: third-party
+    subject: مسار مشترك للدراجات والمشاة في George Town، Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: ممر واسع ومسقوف للمشاة تحفّه المساحات الخضراء بجانب Jalan Tun Razak في وسط Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: ممر المشاة في Jalan Tun Razak في Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 اخرج من محطة LRT في وادي كلانغ عند الساعة الواحدة ظهراً وحاول أن تمشي

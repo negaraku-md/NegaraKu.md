@@ -25,7 +25,7 @@ verificationNeeded:
   - "ข้อกำหนดของผู้ขับขี่เฉพาะ (เช่น อายุขั้นต่ำ) ใช้บังคับหรือไม่ควรได้รับการยืนยันกับ JPJ หรือผู้ให้บริการ e-hailing แต่ละราย เนื่องจากไม่ได้ระบุในรูปแบบที่ยืนยันได้บนหน้าเว็บทางการที่ปรึกษา"
 
 lang: "th"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'รถยนต์ Hyundai Ioniq Electric สีขาวบนถนน ตกแต่งด้วยลวดลาย Grab Electric สีเขียวและสโลแกน “0 percent emisi”'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: รถเก๋งหุ้มสติกเกอร์บริการเรียกรถGrabสีเขียวและธงชาติมาเลเซียแล่นไปตามถนนในโกตากีนาบาลู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: รถหุ้มสติกเกอร์Grabในโกตากีนาบาลู รัฐซาบาห์
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: ขบวนแบรนด์Grabเดินในขบวนพาเหรดวันชาติปี2023ที่โกตากีนาบาลู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: ขบวนGrabในพาเหรดวันชาติที่โกตากีนาบาลู
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 เปิด Grab หรือ Bolt หรือ inDrive ในกัวลาลัมเปอร์แล้วแตะ "จอง" ไม่มีอะไรในช่วงเวลานั้นที่รู้สึกว่ามีการกำกับดูแล แต่รถที่มารับยืนอยู่บนใบอนุญาตสามใบที่แยกจากกันซึ่งต้องมีอยู่ก่อนที่ผู้ขับขี่ของคุณจะสามารถรับค่าโดยสารของคุณได้อย่างถูกกฎหมาย — และไม่มีใบใดเป็นของแอปเพียงอย่างเดียว

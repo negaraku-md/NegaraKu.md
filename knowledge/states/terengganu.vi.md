@@ -37,7 +37,7 @@ faq:
     a: "Khoản thanh toán từ Chính phủ Liên bang cho Terengganu và Kelantan liên quan đến nguồn thu dầu mỏ. Tuyên bố của Bộ Tài chính nhấn mạnh rằng Wang Ihsan không phải là một khoản trao tặng của Chính phủ Liên bang được quy định trong luật, tức nó không phải là một quyền được luật định trao cho."
 
 lang: "vi"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
 framework: profile
+hero: '/media/states/terengganu/hero.webp'
+heroAlt: 'Thánh đường Hồi giáo Pha lê mái vòm bạc và vàng với nhiều tháp minaret mảnh dẻ và một cổng vòm chào đón màu trắng dưới bầu trời xanh ở Kuala Terengganu.'
+heroCredit: 'Yun Huang Yong / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: Thánh đường Hồi giáo Tengku Tengah Zaharah trông như nổi trên đầm phá Ibai gần Kuala Terengganu ở Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Thánh đường nổi Tengku Tengah Zaharah, Kuala Terengganu, Terengganu
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: Làn nước trong xanh màu ngọc lam vỗ lên bãi cát trắng viền rừng trên đảo Pulau Redang ngoài khơi bờ biển Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Bãi biển Pulau Redang, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 Hai thứ nổi tiếng nhất về Terengganu nằm cách nhau khoảng 60 kilômét,

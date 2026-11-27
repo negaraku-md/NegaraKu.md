@@ -32,7 +32,7 @@ faq:
   - q: "Apakah bahasa Melayu dan bahasa Inggris diajarkan di sekolah Tamil?"
     a: "Ya. Meskipun bahasa pengantar di SJKT adalah bahasa Tamil, bahasa Melayu (Bahasa Melayu) dan bahasa Inggris diajarkan sebagai mata pelajaran wajib. Dengan demikian murid memperoleh pendidikan dasar dalam bahasa Tamil sekaligus bersiap dalam bahasa Melayu untuk peralihan ke sekolah menengah kebangsaan."
 lang: "id"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,32 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: 'Gerbang dan bangunan bertingkat Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi, sebuah sekolah dasar jenis kebangsaan berbahasa Tamil Malaysia di Johor.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: Papan nama masuk berwarna biru S.J.K (Tamil) Changlun di Kedah, menampilkan nama sekolah dalam bahasa Tamil dan Melayu beserta lambang sekolah.
+    kind: actual
+    origin: third-party
+    subject: Papan nama sebuah sekolah jenis kebangsaan berbahasa pengantar Tamil, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: Blok ruang kelas dan halaman dalam SJK(T) Changlun di Kedah, dengan pintu ruang kelas, papan pengumuman, dan bendera di sepanjang selasar beratap.
+    kind: actual
+    origin: third-party
+    subject: Blok ruang kelas sebuah sekolah berbahasa pengantar Tamil, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 Di sudut mana pun di Malaysia — di tepi sebuah perkebunan karet tua, atau di

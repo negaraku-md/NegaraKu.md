@@ -8,8 +8,14 @@ name: Refresh Facebook OG cards
 # RUN ORDER: deploy the corrected cards FIRST, then run this. Re-scraping before
 # the fix is live just re-caches the broken card.
 #
-# Manual only. First run with dry_run = true to preview the URL list; then run
-# again with dry_run = false to actually refresh.
+# Manual dispatch: first run with dry_run = true to preview the URL list; then
+# run again with dry_run = false to actually refresh.
+#
+# TEMPORARY hourly schedule (added 2026-11-21): Facebook caps re-scrapes at
+# ~66 URLs/run, so the 351 affected (zh/ja/ko tofu) posts need several spaced
+# runs. This cron fires hourly (live — scheduled runs have no dry_run input) and
+# self-expires via the guard step after the cutoff date. REMOVE this schedule
+# block once the backlog is cleared.
 on:
   workflow_dispatch:
     inputs:
@@ -20,6 +26,8 @@ on:
       limit:
         description: 'Cap the number of refreshes (blank = all affected).'
         required: false
+  schedule:
+    - cron: '23 * * * *' # hourly at :23 UTC — temporary; see the guard cutoff below
 
 permissions:
   contents: read
@@ -32,16 +40,34 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      # Self-expiry: scheduled runs stop after the cutoff so this temporary cron
+      # does not keep burning minutes once the backlog is cleared. Manual
+      # workflow_dispatch runs are never gated. Remove the schedule block then.
+      - name: Guard (scheduled runs self-expire after cutoff)
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && \
+             [ "$(date -u +%s)" -gt "$(date -u -d '2026-11-24 00:00:00' +%s)" ]; then
+            echo "Past cutoff — the temporary auto-refresh window is closed; remove this schedule block."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
 
-      - uses: actions/setup-node@v5
+      - if: steps.guard.outputs.run == 'true'
+        uses: actions/checkout@v5
+
+      - if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-node@v5
         with:
           node-version: 20
           cache: npm
 
-      - run: npm ci
+      - if: steps.guard.outputs.run == 'true'
+        run: npm ci
 
       - name: Refresh Facebook OG cards
+        if: steps.guard.outputs.run == 'true'
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           SITE_URL: https://negaraku.md

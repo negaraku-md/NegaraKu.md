@@ -29,7 +29,7 @@ faq:
     a: "全国体育日是庆典的高潮日。自2019年起，青年及体育部将庆典延伸至整个10月，成为全国体育月（BSN）。"
 
 lang: "zh"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: '吉隆坡一场夜间公路赛中，大批跑者川流不息地经过灯光映照的苏丹阿都沙末大厦。'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: 吉隆坡无车日（Car Free Day）活动中，大批各年龄层的骑行者在清晨挤满一条封闭的吉隆坡街道，上方悬挂着节庆横幅。
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡无车日清晨的大规模骑行群众
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: 马来西亚一场县级校际田径锦标赛期间，年轻运动员与官员聚集在体育场的红色跑道上，身后是照明灯与看台。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚一场县级校际田径锦标赛跑道上的运动员
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 每逢10月第二个星期六，全马来西亚各地的球场、公园和体育馆本应人潮涌动——这正是全国体育日的构想。

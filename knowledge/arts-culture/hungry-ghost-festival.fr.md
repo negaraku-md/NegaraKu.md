@@ -33,7 +33,7 @@ faq:
     a: "La « criée » (criée des objets de bénédiction) est un moment courant du banquet qui suit l'assemblée d'Ullambana : les organisateurs mettent aux enchères publiques, une par une, les offrandes de bon augure des tables — fruits, riz, boissons et bâtonnets de charbon appelés « or noir », autant d'« objets de bénédiction » —, et le plus offrant « remporte » chacune. Les recettes servent le plus souvent à couvrir les frais de l'événement et à soutenir des œuvres telles que les écoles chinoises ; c'est pourquoi, en Malaisie, la Fête des fantômes affamés revêt aussi une forte teinte d'entraide communautaire et de bienfaisance."
 
 lang: "fr"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "Le septième mois lunaire (du premier jour, « ouverture de la porte des fantômes », à la fin du mois, « fermeture de la porte des fantômes »), le quinzième jour du septième mois (jour principal de Zhongyuan) étant le point culminant des offrandes."
   holiday: "Ce n'est un jour férié ni au niveau national ni dans les États de Malaisie ; les offrandes, les Yulan Shenghui et les spectacles de scène (getai) se déroulent surtout en soirée et la nuit, après le travail."
   etiquette: "Les sièges du premier rang des getai sont laissés volontairement vides pour les invités invisibles, et le public ne s'assoit généralement pas au premier rang ; la tradition populaire recommande aussi de ne pas marcher sur les offrandes déposées au bord des rues et de ne pas ramasser au hasard les objets de valeur trouvés par terre."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'Une scène de festival sous un chapiteau illuminée d''arcs de néon rouge, de panneaux en étoile et d''un bandeau LED à caractères chinois défilants, la nuit, pendant le getai du septième mois'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: Une immense effigie en papier de la divinité Da Shi Ye drapée de bleu s'élevant au-dessus d'un autel de bâtonnets d'encens allumés, de fruits et d'une urne à encens pendant la Fête des Fantômes affamés en Malaisie
+    kind: actual
+    origin: third-party
+    subject: Une effigie géante de la divinité gardienne Da Shi Ye (Tai Su Yeah) au-dessus d'un autel d'offrandes au temple Tow Boo Keong, à Alor Setar, dans le Kedah
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: Des plateaux de riz, de plats, de fruits et de boissons posés sur l'herbe, chacun piqué de bâtonnets d'encens rouges allumés, disposés en offrandes pour la Fête des Fantômes affamés
+    kind: representative
+    origin: third-party
+    subject: Offrandes de nourriture posées au bord de la route avec des bâtonnets d'encens, disposées pour les esprits errants pendant la Fête des Fantômes affamés du septième mois
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 Dès l'arrivée du septième mois lunaire, la scène nocturne de bien des coins de rue à Penang, Klang et Johor change discrètement : au bord de la route apparaissent de petites tables garnies de fruits, de riz, de thé et de liasses de papier doré et argenté, l'encens et les bougies vacillant dans la pénombre du crépuscule. Sur un terrain vague du quartier, on dresse une effigie en papier d'un dieu de plusieurs mètres de haut au visage sévère, face à laquelle on monte une scène ; la nuit venue, les lumières s'allument vivement et les chants retentissent — pourtant, toute la première rangée de chaises au pied de la scène demeure vide d'un bout à l'autre.

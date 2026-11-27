@@ -32,7 +32,7 @@ faq:
     a: "FGV est une agro-industrie intégrée couvrant la plantation (palmier à huile, caoutchouc et énergie renouvelable), les huiles et graisses, le sucre, la logistique et les services d'appui, ainsi que les produits de consommation. Selon ses propres chiffres, il contribue à hauteur d'environ 3% de la production mondiale d'huile de palme brute."
 
 lang: "fr"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "retrait de FGV", "privatisation de FELDA", "huile de palme Malaisie", "Bursa Malaysia", "entreprise de plantation", "colons de FELDA"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: 'Une plantation de palmiers à huile mûrs gravissant un flanc de colline avec une route de domaine, district de Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: Un complexe d'huilerie de palme (hangars bleus et cheminées fumantes) au milieu de collines de palmiers à huile — le volet transformation de l'activité. Aucune personne.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: Un camion à benne chargé de régimes de fruits frais (FFB) à l'entrée d'une huilerie (« Kilang Apas Balung ») — le volet récolte/logistique. Seulement un ouvrier minuscule et non identifiable au bord du cadre.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 En 2012, elle était la coqueluche du marché — une méga-cotation qui s'est brièvement classée deuxième au monde derrière Facebook. Treize ans plus tard, la même entreprise a quitté discrètement la Bursa Malaysia à une fraction de son prix de débuts, rachetée par l'autorité même qui l'avait introduite en bourse.

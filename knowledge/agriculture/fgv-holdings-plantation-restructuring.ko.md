@@ -32,7 +32,7 @@ faq:
     a: "FGV는 농원(기름야자, 고무, 재생에너지), 유지(油脂), 설탕, 물류 및 지원 서비스, 소비재에 걸친 통합 농업 사업체입니다. 자체 설명에 따르면 세계 조(粗)팜유 생산의 약 3%를 기여합니다."
 
 lang: "ko"
-sourceContentHash: "2d6d408c100487d2"
+sourceContentHash: "c3c7ebe8c676f48e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,30 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
 framework: profile
+hero: '/media/agriculture/fgv-holdings-plantation-restructuring/hero.webp'
+heroAlt: '사바주 쿠낙 지구, 농장 도로를 따라 언덕을 오르는 성숙한 기름야자 농장'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-1.webp
+    alt: 기름야자 언덕 사이에 자리한 팜오일 공장 단지(파란 창고 건물 + 김을 내뿜는 굴뚝) — 사업의 가공 쪽. 사람 없음.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-03.jpg
+  - role: scene
+    src: /media/agriculture/fgv-holdings-plantation-restructuring/body-2.webp
+    alt: 공장 정문('Kilang Apas Balung')에서 갓 딴 과일 송이(FFB)를 가득 실은 덤프트럭 — 수확/물류 단계. 화면 가장자리에 신원 식별이 불가능한 아주 작은 작업자 한 명만 보임.
+    kind: actual
+    origin: third-party
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
 ---
 
 2012년 그것은 시장의 총아였습니다 — 잠시 페이스북에 이어 세계 2위에 오른 초대형 상장이었습니다. 13년 후 같은 회사는 데뷔 가격의 일부에 부르사 말레이시아에서 조용히 빠져나갔으며, 바로 그것을 상장시켰던 그 기관이 되사들였습니다.

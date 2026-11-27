@@ -65,9 +65,16 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysian-federalism-explained" }
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
-related: []
+related: ["district-administration-in-malaysia", "state-assemblies-dun", "federal-constitution"]
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: 'Sebuah dewan istiadat berbumbung Minangkabau dengan bumbung melengkung tinggi berwarna perang keemasan di hadapan menara pentadbiran negeri Wisma Negeri yang moden di Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Apabila sebuah kerajaan negeri di Malaysia menyusun belanjawannya, ia bermula dengan satu realiti yang jarang disebut: cukai yang paling besar hasilnya — cukai pendapatan, cukai jualan dan perkhidmatan, kastam — bukan miliknya untuk dipungut. Sumber itu tergolong dalam bidang kuasa Persekutuan. Apa yang tinggal untuk negeri, dan bagaimana jurang itu diisi, ditetapkan hitam-putih dalam Perlembagaan Persekutuan.

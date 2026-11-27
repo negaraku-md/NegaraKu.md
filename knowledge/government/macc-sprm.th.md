@@ -33,7 +33,7 @@ faq:
     a: "มี มาตรา 17A ซึ่งนำเข้ามาโดยการแก้ไขปี 2018 (Act A1567) และมีผลบังคับใช้ตั้งแต่วันที่ 1 มิถุนายน 2020 ทำให้องค์กรเชิงพาณิชย์ต้องรับผิดเมื่อบุคคลที่เกี่ยวข้องกับองค์กรให้หรือเสนอสินบนโดยทุจริตเพื่อให้ได้มาหรือรักษาไว้ซึ่งธุรกิจ นอกจากนี้ นิยาม 'หน่วยงานสาธารณะ' ในมาตรา 3 ของพระราชบัญญัติครอบคลุมบริษัทและบริษัทย่อยที่หน่วยงานสาธารณะมีอำนาจหรือส่วนได้เสียในการควบคุม"
 
 lang: "th"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'อาคารราชการอิฐแดงยาวตั้งตระหง่านเหนือม่านต้นไม้สีเขียว ด้านหน้าส่วนบนประดับตัวอักษร SPRM (MACC) สีทองและตราสัญลักษณ์เหนือแถวหน้าต่างโค้งที่แขวนธงมาเลเซียเล็กๆ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: อาคารรูปทรงหัวเรือโค้งกวาด ทำจากกระจกสีเข้มเป็นแถบ ยกตัวบนเสาสีขาวสูง ล้อมด้วยต้นปาล์มหลวงใต้ท้องฟ้าสีฟ้าสดที่มีเมฆกระจายในปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: อาคารกระจกสีเข้มทรงโค้งของสำนักงานใหญ่คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งมาเลเซีย (MACC) ปุตราจายา (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 คำอธิบายเกี่ยวกับ MACC ส่วนใหญ่หยุดที่ "หน่วยงานต่อต้านการทุจริตของมาเลเซีย" คำถามที่มีประโยชน์กว่านั้นแคบกว่า กล่าวคือ พระราชบัญญัติอนุญาตให้เจ้าหน้าที่ทำสิ่งใดจริง และใครมีสิทธิตามกฎหมายที่จะตรวจสอบการทำงานของพวกเขา

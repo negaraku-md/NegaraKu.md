@@ -30,7 +30,7 @@ faq:
     a: "Học sinh SJKC và SJKT có thể học tiếp lên trường trung học quốc gia (SMK, ngôn ngữ giảng dạy là tiếng Mã Lai) hoặc, đối với một số học sinh SJKC, lên trường trung học kiểu quốc gia (SMJK) cũng là trường công lập/được chính phủ hỗ trợ. Sự chuyển đổi ngôn ngữ giảng dạy từ tiểu học sang trung học quốc gia được hỗ trợ bởi lớp chuyển tiếp cho học sinh cần nó."
 
 lang: "vi"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'Tòa nhà một tầng của trường Sekolah Kebangsaan Tungku, một trường tiểu học quốc gia Malaysia ở Sabah, treo cờ Malaysia, với phương châm nhà trường vẽ trên tường.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: Tòa nhà và biển tên của một trường tiểu học tiếng Hoa loại hình quốc gia, SJK(C) Chong San
+    kind: actual
+    origin: third-party
+    subject: Một trường tiếng Hoa loại hình quốc gia, SJK(C) Chong San ở Bagan Datuk, Perak
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: Tòa nhà và biển tên của một trường tiểu học tiếng Tamil loại hình quốc gia, SJK(T) Saraswathy
+    kind: actual
+    origin: third-party
+    subject: Một trường tiếng Tamil loại hình quốc gia, SJK(T) Saraswathy ở Sungai Buloh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 Mỗi năm, khi thời gian đăng ký mở ra, các cha mẹ trên khắp Malaysia mở cổng idMe của Bộ Giáo dục Malaysia (KPM) để đăng ký con vào Lớp 1. Một trong những lựa chọn đầu tiên phải đưa ra: SK, SJKC hay SJKT?

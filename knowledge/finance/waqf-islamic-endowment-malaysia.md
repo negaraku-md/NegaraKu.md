@@ -86,6 +86,7 @@ relations:
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
 framework: explainer
+wikidata: "Q815509"
 ---
 
 Give a man a fish and he eats for a day. Endow a fishpond that can never be sold, and the whole village eats forever. That, in a sentence, is waqf.

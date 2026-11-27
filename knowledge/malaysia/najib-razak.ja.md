@@ -71,6 +71,13 @@ sources:
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "sixth prime minister Malaysia", "1MDB", "SRC International"]
 framework: profile
+hero: '/media/malaysia/najib-razak/hero.webp'
+heroAlt: 'ナジブ・ラザクが濃色のスーツに赤い模様のネクタイ姿で、話の途中に身振りを交え、柔らかな光に照らされた青い「Forum」の背景の前に座っている。'
+heroCredit: 'World Economic Forum / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **草稿——センシティブ。** 本稿は中立的な、作成途上の要約であり、公開に向けた審査をまだ経ていない。本稿は、執筆時点で上訴中であった法的手続きに言及しており、3R+1のテーマに触れるものであり、公開されていない。

@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "vi"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
   - { rel: "related-to", to: "melaka-sultanate" }
-related: []
+related: ["iskandar-malaysia-guide", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'Thánh đường Hồi giáo bang Sultan Abu Bakar kiểu Victoria màu trắng với hai tháp minaret cao và các mái vòm đen dưới bầu trời u ám.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: Bờ biển cát vàng trải dài viền bởi những hàng phi lao gặp những con sóng êm đềm của Biển Đông tại Desaru, bờ biển phía đông Johor.
+    kind: actual
+    origin: third-party
+    subject: Bãi biển Desaru, Johor
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: Cát trắng và vùng nước nông trong xanh màu ngọc lam viền quanh bờ đảo rừng rậm rợp bóng cọ của đảo Pulau Rawa ngoài khơi bờ biển phía đông Johor.
+    kind: actual
+    origin: third-party
+    subject: Đảo Pulau Rawa, Johor
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 Nền kinh tế của Johor được định nghĩa bởi người láng giềng của nó. Là bang cực nam

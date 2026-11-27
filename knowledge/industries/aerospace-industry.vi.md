@@ -34,7 +34,7 @@ faq:
     a: "Cả hai, nhưng trọng tâm của nó là dịch vụ. MRO và chế tạo linh kiện chiếm ưu thế; Malaysia xây dựng các kết cấu, vật liệu composite và bộ phận động cơ và bảo trì máy bay, nhưng có năng lực thiết kế và phát triển ở cấp máy bay yếu hơn."
 
 lang: "vi"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,9 +79,37 @@ sources:
 entity: "Malaysia aerospace industry"
 relations:
   - { rel: "related-to", to: "economy" }
-related: []
+related: ["manufacturing-industry-overview", "construction-industry"]
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'Nhiều máy bay phản lực thương mại đỗ bên trong một nhà chứa bảo dưỡng máy bay mái cao sáng sủa'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: Các thân máy bay chở khách phủ lớp sơn lót màu xanh lá xếp thành hàng cùng công nhân bên trong một nhà máy lắp ráp máy bay rộng lớn
+    kind: representative
+    origin: third-party
+    subject: Thân máy bay trên dây chuyền lắp ráp bên trong một nhà máy hàng không vũ trụ lớn
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: Hai kỹ thuật viên bảo dưỡng máy bay đang làm việc trên động cơ và cánh quạt bốn lá của một máy bay nhỏ trong nhà chứa máy bay
+    kind: representative
+    origin: third-party
+    subject: Kỹ thuật viên bảo dưỡng động cơ và cánh quạt máy bay trong nhà chứa bảo dưỡng
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 Một chiếc máy bay có thể được chế tạo ở Toulouse hoặc Seattle, nhưng đâu đó trong ba mươi năm vòng đời của nó, nó sẽ cần được mở động cơ, kiểm tra kết cấu và làm mới hệ thống điện tử hàng không — và ngày càng nhiều, Malaysia muốn công việc đó được làm ở Subang hoặc Senai. Bản năng đó, hơn bất kỳ dây chuyền lắp ráp nào, giải thích hình dạng của khu vực hàng không vũ trụ của đất nước.

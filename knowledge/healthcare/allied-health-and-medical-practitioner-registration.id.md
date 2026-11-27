@@ -29,7 +29,7 @@ faq:
     a: "Perawat didaftar oleh Lembaga Jururawat Malaysia di bawah Nurses Act 1950; apoteker oleh Lembaga Farmasi Malaysia di bawah Registration of Pharmacists Act 1951 (Act 371); dan profesi kesehatan bersekutu seperti fisioterapi oleh MAHPC di bawah Allied Health Professions Act 2016 (Act 774)."
 
 lang: "id"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -61,9 +61,35 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["pendaftaran doktor", "MMC", "MeRITS", "APC", "Lembaga Jururawat Malaysia", "Lembaga Farmasi Malaysia", "MAHPC", "Akta Profesion Kesihatan Bersekutu 2016", "fisioterapi"]
 framework: how-to
+hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'
+heroAlt: 'Sebuah rumah sakit spesialis modern berlapis kaca di Kuala Lumpur dengan kereta transit ringan yang lewat di depannya.'
+heroCredit: 'Cardiac Vascular Sentral Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: Blok menara bertingkat sebuah rumah sakit pemerintah Malaysia, jenis lingkungan tempat praktisi medis dan kesehatan sekutu terdaftar bekerja
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, sebuah rumah sakit tersier pemerintah di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: Dua anggota staf ilmu kesehatan di dalam laboratorium dengan kabinet biosafety dan peralatan, mewakili profesi kesehatan sekutu dan laboratorium yang memerlukan pendaftaran
+    kind: representative
+    origin: third-party
+    subject: Staf laboratorium berbincang di samping kabinet biosafety di sebuah laboratorium penelitian medis di Malaysia
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 Seseorang dapat mengenakan jas putih, menggantung sertifikat di dinding klinik, dan menyebut dirinya "dokter" — tetapi hanya satu hal yang benar-benar memverifikasi kelayakannya: namanya ada dalam daftar resmi. Di Malaysia, setiap dokter, perawat, apoteker, dan fisioterapis harus terdaftar dengan badan pengatur profesi mereka. Kabar baiknya, Anda dapat memeriksanya sendiri, secara gratis.

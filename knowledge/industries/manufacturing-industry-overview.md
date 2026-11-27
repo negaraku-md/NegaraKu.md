@@ -76,9 +76,37 @@ relations:
   - { rel: "related-to", to: "electrical-electronics-industry-overview" }
   - { rel: "related-to", to: "automotive-industry-overview" }
   - { rel: "administered-by", to: "mida" }
-related: []
+related: ["aerospace-industry", "construction-industry", "malaysia-free-trade-agreements"]
 keywords: ["Malaysia manufacturing", "machinery and equipment", "plastics", "rubber gloves", "medical devices", "chemicals", "food processing", "NIMP 2030", "MIDA", "DOSM"]
 framework: profile
+hero: '/media/industries/manufacturing-industry-overview/hero.webp'
+heroAlt: 'A modern car assembly line with several car bodies in a row under bright factory lighting and overhead conveyors'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Car bodies on an automotive final-assembly line at the GM/Opel plant in Gliwice, Poland'
+
+images:
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-1.webp
+    alt: Several orange robotic arms palletizing yellow crates on an automated production line in a factory
+    kind: representative
+    origin: third-party
+    subject: Orange industrial robot arms palletizing packaged food on an automated factory line
+    credit: KUKA Roboter GmbH, Bachmann / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Factory_Automation_Robotics_Palettizing_Bread.jpg
+  - role: scene
+    src: /media/industries/manufacturing-industry-overview/body-2.webp
+    alt: A technician in a white full-body suit, mask and gloves works on precision metal components in a bright tiled clean room
+    kind: representative
+    origin: third-party
+    subject: A technician in a white coverall assembling precision equipment inside a high-tech clean room
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Say "Malaysian factory" and most people picture a semiconductor cleanroom in Penang or a Proton line in Shah Alam. Those are real, and they are big — but they sit on top of a far broader industrial base. In 2024 the whole sector moved RM1.9 trillion in sales and kept roughly 2.4 million people in work, and a large slice of that came from machinery, plastics, rubber, medical devices, chemicals and the food on supermarket shelves.

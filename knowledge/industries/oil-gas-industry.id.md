@@ -38,7 +38,7 @@ faq:
     a: "Pada 2024, PETRONAS menyumbang RM72.4 miliar dalam bentuk dividen, pajak, pembayaran tunai dan komitmen lain, termasuk dividen RM32.0 miliar. Ini di samping pajak yang dibayar oleh kontraktor dan perusahaan jasa lain dalam sektor tersebut."
 
 lang: "id"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: 'Pemandangan udara dermaga ekspor LNG Bintulu di Sarawak: platform beton di atas tiang pancang baja yang membawa gugusan lengan muat laut dan jaringan pipa tinggi di atas laut toska, dengan kaki langit pelabuhan dan pabrik gas di belakangnya'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: Menara suar baja tinggi berwarna merah-putih mengeluarkan nyala gas oranye terang dengan latar langit berawan, dengan rak pipa dan Banjaran Crocker di belakangnya, di Sabah Oil and Gas Terminal di Kimanis
+    kind: actual
+    origin: third-party
+    subject: nyala gas yang menyala di puncak menara suar di Sabah Oil and Gas Terminal (SOGT) di Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: Menara distilasi, cerobong, dan tangki penyimpanan sebuah kilang minyak di garis cakrawala di balik ladang berumput dekat Port Dickson, di bawah langit sore yang berkabut
+    kind: actual
+    origin: third-party
+    subject: sebuah kilang minyak di timur Port Dickson, Negeri Sembilan, terlihat melintasi tanah lapang dari Jalan Persekutuan 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 Setiap barel minyak dan setiap kaki kubik gas di bawah tanah dan dasar laut Malaysia, menurut undang-undang, adalah milik satu perusahaan saja. Bukan pemerintah secara langsung, bukan penemu lapangan itu, bukan juga perusahaan multinasional yang mengebornya — melainkan PETRONAS, perusahaan minyak nasional yang didirikan untuk memegang petroleum negara secara amanah. Pahami satu fakta itu dan segala-galanya tentang industri minyak dan gas Malaysia — bagaimana ia diregulasi, dibiayai, dipajaki dan dibagi — akan menjadi jelas.

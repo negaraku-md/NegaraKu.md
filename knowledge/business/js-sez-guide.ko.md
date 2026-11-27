@@ -42,7 +42,7 @@ verificationNeeded:
   - "JS-SEZ 지식근로자 인센티브의 관장 기관과 신청 경로는 MIDA 지침에 명시되어 있지 않습니다 — 개요서 부록 B는 이를 경로를 명시하지 않은 채 기타 인센티브로 열거합니다. 조언하기 전에 MIDA나 IRDA에 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ keywords:
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: '맑은 하늘 아래 조경된 공원 산책로 위로 솟은, 이스칸다르 푸테리 메디니의 세련된 짙은 유리 기업 사무용 타워'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: 해협 옆 매립 해변을 따라 건설 중인 수변 고층 타워들과 흰 빌라 블록 줄이 보이는 조호르 Forest City의 항공 전경
+    kind: actual
+    origin: third-party
+    subject: 조호르 해협의 조호르에 위치한 대표적 국경 간 개발지 Forest City, 싱가포르 쪽 바다를 향해 건설 중인 타워와 빌라 블록
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: 뒤편 스카이라인에 오피스·상업 타워와 건설 크레인이 있는, 조경된 로터리 위의 커다란 길가 'Iskandar Puteri' 명소 간판
+    kind: actual
+    origin: third-party
+    subject: 뒤편 스카이라인에 지구의 상업 타워와 크레인이 솟은 Iskandar Puteri 관문 명소 간판
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 조호르-싱가포르 경제특구에 대한 모든 요약은 같은 숫자로 시작합니다: 15년간 5%. 실제 숫자입니다. 그러나 이 패키지에서 가장 쓸모없는 사실이기도 합니다. 그것을 읽는 사람 거의 아무도 자격을 갖추지 못하기 때문입니다.

@@ -37,7 +37,7 @@ faq:
     a: "طِر إلى مطار كوتشينغ الدولي (KCH)، البوّابة الجوية الرئيسية إلى جنوب ساراواك، بوصلات من كوالالمبور ومحاور أخرى (Wikipedia). ولأن ساراواك تضبط هجرتها الخاصة، يُفحَص الجميع عند الوصول — يُمنَح الماليزيون من ولايات أخرى تصريحاً على بطاقة MyKad، ويُختَم الأجانب في ساراواك منفصلاً، فاحمل جواز سفرك حتى على رحلة تبدو داخلية. راجع دليل ساراواك لشروط الدخول الكاملة."
 
 lang: "ar"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "مدينة القطط", "عاصمة ساراواك", "واجهة نهر ساراواك المائية", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "الراجا الأبيض", "سلالة بروك", "إنسان الغاب سيمينغوه", "متنزّه باكو الوطني", "القرية الثقافية الساراواكية"]
 framework: profile
+visitFacts:
+  bestFor: 'المسافرون لأول مرة والمستقلّون والعائلات ومحبّو التراث والحياة البرية الراغبون في مدينة تراثية نهرية يمكن اجتيازها سيراً مقرّاً مريحاً لرحلات يومية إلى غابات بورنيو المطيرة وإنسان الغاب والمنتزهات الوطنية.'
+  getThere: 'طِر إلى مطار Kuching الدولي (KCH)، البوابة الجوية الرئيسية إلى جنوب ساراواك، مع ربط من كوالالمبور ومن محاور ماليزية وإقليمية أخرى.'
+  permit: 'تدير ساراواك هجرتها الخاصة، فيجتاز الجميع فحص حدود عند الوصول حتى على رحلة داخلية من شبه جزيرة ماليزيا — ويتلقّى الأجانب ختم دخول منفصلاً لساراواك، لذا احمل جواز سفرك طوال الوقت.'
+  watch: 'رؤية إنسان الغاب في Semenggoh غير مضمونة أبداً، إذ إن القردة شبه البرية حرّة في البحث عن الغذاء في الغابة المحيطة — عامل أي مشاهدة كمكافأة لا كوعد.'
+  next: 'تأكّد من متطلبات الدخول الحالية إلى ساراواك ومواقيت المنتزهات أو المهرجانات مع هيئة سياحة ساراواك (Sarawak Tourism Board) والمشغّلين الرسميين للمنتزهات قبل أن تسافر.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'مبنى الجمعية التشريعية لولاية ساراواك ذو السقف المظلّي يرتفع عبر نهر ساراواك من واجهة كوتشينغ البحرية عند الغسق'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: The Astana، قصر استعماري أبيض بأقواس قوطية وبوابة مزخرفة على الضفة الشمالية لنهر Sarawak في Kuching
+    kind: actual
+    origin: third-party
+    subject: The Astana، القصر التاريخي الأبيض على ضفة النهر لحكام White Rajahs السابقين في Kuching
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: بوابة صينية مزخرفة معلّق عليها فوانيس حمراء تميّز شارعاً في الحي الصيني القديم بـ Kuching
+    kind: actual
+    origin: third-party
+    subject: بوابة صينية احتفالية في الحي الصيني القديم بـ Kuching (منطقة Jalan Attap)، بفوانيس حمراء ولافتات المتاجر
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 يمكنك أن تمشي طول واجهة كوتشينغ النهرية في مساء، تمرّ بقلعة استعمارية وقصر راجا ومعبد صيني في الطريق، وتأكل إحدى أعظم صحون بورنيو من الشعيرية، وتلتقط صورة مع تمثال قطّ عملاق — كل ذلك دون مغادرة المدينة. كوتشينغ عاصمة ساراواك وأكبر مدنها، تقع على نهر ساراواك عند الطرف الجنوبي الغربي للولاية على جزيرة بورنيو ([Wikipedia](https://en.wikipedia.org/wiki/Kuching)؛ [Wikidata](https://www.wikidata.org/wiki/Q220445)). وهي القاعدة النهرية المسترخية التي تبدأ منها معظم رحلات ساراواك. يتناول هذا الدليل المدينة نفسها — واجهتها المائية، وتاريخ بروك فيها، وتشاينتاون ومتاحفها، وقططها — وكيف تعمل منصّةَ انطلاق للغابة المطيرة والحياة البرّية المحيطة بها.

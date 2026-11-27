@@ -34,7 +34,7 @@ socialTitle: "南インドの古典舞踊はいかにマレーシアに根付い
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -80,6 +80,34 @@ relations:
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
+hero: '/media/arts-culture/bharatanatyam/hero.webp'
+heroAlt: 'オレンジと金のシルク衣装に寺院の装飾品とジャスミンの花を身につけたバラタナティヤムの踊り手が、暗い背景の前で低く腰を落とし、片腕を前に突き出し手のひらを上げたムドラを結び、その手を追う表情豊かな視線を向ける'
+heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: ピンクと金の絹の衣装、足首の鈴、寺院の装身具を身につけた若いバラタナティヤムの踊り手が片脚でバランスを取り、両手を頭の近くでハサミのようなムドラーに上げて、無地の暗い舞台を背に微笑んでいる様子。
+    kind: representative
+    origin: third-party
+    subject: 片脚で立ち、両手を頭の横でムドラーにした若いバラタナティヤムの踊り手
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: 黒いブラウスと赤と金の絹の巻き布をまとったバラタナティヤムの踊り手が、片腕を頭上高く弧を描き、もう片方の腕を体の前に差し出して、プリーツのスカートを黒い背景に翻しながら回転の途中にある様子。
+    kind: representative
+    origin: third-party
+    subject: 片腕を上げ、スカートを翻しながら回転の途中を捉えられたバラタナティヤムの踊り手
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 舞踊家の両足が、速く正確なリズムで床を打つ。ムリダンガム太鼓の拍に合わせて鈴が鳴り響く。彼女の両手が形をつくる——鹿、蓮の花、問いかけ——彼女の眼差しがその形を追い、続いて彼女の表情が、観客がただ見るのではなく感じ取るべき感情で応える。やがてリズムが収束し、彼女は彫像のような姿勢で静止し、音楽は静寂へと落ちていく。

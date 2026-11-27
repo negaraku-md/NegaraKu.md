@@ -99,7 +99,7 @@ sources:
     publisher: "Lexology"
 entity: "Service Tax Act 2018 (Act 807)"
 relations: []
-related: []
+related: ["sales-and-service-tax", "royal-malaysian-customs-rmcd", "sst-02-filing"]
 keywords: ["Service Tax Act 2018", "सेवा कर अधिनियम 2018", "Act 807", "सेवा कर मलेशिया", "SST", "सेवा कर दर", "8% सेवा कर", "6% सेवा कर", "SST पंजीकरण सीमा", "SST-02", "करयोग्य सेवाएँ", "सेवा कर दायरा विस्तार 2025", "रॉयल मलेशियन कस्टम्स डिपार्टमेंट", "MySST", "आयातित करयोग्य सेवाएँ", "डिजिटल सेवा कर मलेशिया"]
 framework: rules
 ---

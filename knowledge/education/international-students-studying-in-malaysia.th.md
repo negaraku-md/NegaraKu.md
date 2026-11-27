@@ -33,7 +33,7 @@ faq:
     a: "ทั้งสองประเภทอาจได้รับการอนุมัติให้รับนักศึกษาต่างชาติได้ แต่อยู่ภายใต้ส่วนที่ต่างกันของกรอบบัตรนักศึกษา และมักต่างกันในเรื่องหลักสูตรและความสามารถในการรับที่เปิดให้ผู้สมัครต่างชาติเทียบกับในประเทศ ยืนยันกับสำนักงานนักศึกษาต่างชาติของสถาบันโดยตรงว่าหลักสูตรเป้าหมายของคุณเปิดรับผู้ที่ไม่ใช่พลเมืองหรือไม่ก่อนสมัคร"
 
 lang: "th"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,38 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'สำหรับนักศึกษาต่างชาติที่กำลังเลือกสถาบันและหลักสูตรในมาเลเซีย ก่อนตอบรับข้อเสนอและเริ่มขั้นตอนขอวีซ่านักศึกษา'
+  how: 'ผ่านด่านสองด่านที่แยกจากกันให้ได้ก่อน: หลักสูตรต้องได้รับการรับรองจากหน่วยงานคุณวุฒิมาเลเซีย (MQA — Malaysian Qualifications Agency) อยู่ในทะเบียนคุณวุฒิมาเลเซีย (MQR — Malaysian Qualifications Register) และตัวสถาบันเองต้องได้รับอนุมัติจากกระทรวงการอุดมศึกษาให้รับนักศึกษาต่างชาติได้ มีเพียงจดหมายตอบรับที่ลงนามจากสถาบันเช่นนี้เท่านั้นที่เปิดทางให้ขอ Student Pass ซึ่งสถาบัน — ไม่ใช่ตัวคุณ — เป็นผู้ยื่นต่อ Education Malaysia Global Services (EMGS)'
+  cost: 'ค่าเล่าเรียนแตกต่างกันมากตามสถาบันและหลักสูตร และ Student Pass มีค่าธรรมเนียม EMGS และค่าวีซ่าแยกต่างหากที่มีการปรับเปลี่ยนเป็นระยะ จึงควรยืนยันตัวเลขปัจจุบันกับสถาบันและพอร์ทัล EMGS (educationmalaysia.gov.my) แทนที่จะอ้างอิงตัวเลขที่มีผู้บอกต่อ'
+  watch: 'การรับรองหลักสูตรของ MQA กับการอนุมัติให้สถาบันรับนักศึกษาต่างชาติเป็นการตรวจสอบคนละเรื่องกัน — หลักสูตรที่ได้รับการรับรองเต็มรูปแบบอาจอยู่ในสถาบันที่ยังไม่ได้รับอนุญาตให้รับคุณเข้าเรียนได้ และการสอนเป็นภาษาอังกฤษไม่ได้มาแทนหลักฐานความสามารถทางภาษาอังกฤษที่ EMGS ต้องการแยกต่างหาก'
+  next: 'ยืนยันทั้งสองด่านเป็นลายลักษณ์อักษรกับสำนักงานนักศึกษาต่างชาติของสถาบัน ตอบรับข้อเสนอ แล้วจึงดำเนินขั้นตอน Student Pass ผ่าน EMGS ดูบทความเรื่อง Student Pass เรื่องการเรียนในมาเลเซีย และบทอธิบายการรับรองของ MQA'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'ทางเข้าวิทยาเขตมหาวิทยาลัยโมนาช มาเลเซีย (Monash University Malaysia) มีป้าย "MONASH University" บนทางเดินมีหลังคาเชื่อมอาคารวิชาการสีเบจสองหลังด้วยสะพานลอยกระจก'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: ประตูหลักที่มีป้ายและรายล้อมด้วยพรรณไม้เขียวขจีของมหาวิทยาลัยนอตทิงแฮมมาเลเซีย วิทยาเขตสาขาของอังกฤษที่รับนักศึกษาต่างชาติจำนวนมาก
+    kind: actual
+    origin: third-party
+    subject: ประตูหลักของมหาวิทยาลัยนอตทิงแฮมมาเลเซีย
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: แสงแดดยามบ่ายสาดต้องอาคารหลักที่มีเสาเรียงรายของมหาวิทยาลัยเซี่ยเหมินมาเลเซีย วิทยาเขตสาขาของจีนใกล้กัวลาลัมเปอร์ที่ดึงดูดนักศึกษาจากต่างประเทศ
+    kind: actual
+    origin: third-party
+    subject: วิทยาเขตมหาวิทยาลัยเซี่ยเหมินมาเลเซีย เซอปัง
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 หนังสือตอบรับจากสถาบันประเภทที่ไม่ถูกต้องนั้นไร้ค่าสำหรับวีซ่า แม้ว่าตัวหลักสูตรจะได้รับการรับรองอย่างสมบูรณ์แบบก็ตาม ความแตกต่างนั้น — หลักสูตรที่ได้รับการรับรองเทียบกับสถาบันที่ได้รับอนุมัติให้รับนักศึกษาต่างชาติ — คือจุดที่ความสับสนส่วนใหญ่เริ่มต้น นานก่อนที่ใครจะกรอกแบบฟอร์ม EMGS

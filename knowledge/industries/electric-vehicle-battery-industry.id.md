@@ -31,7 +31,7 @@ faq:
   - q: Apa itu Low Carbon Mobility Blueprint?
     a: Ini adalah peta jalan Malaysia 2021-2030 untuk transportasi yang lebih bersih, dipimpin oleh kementerian lingkungan hidup dan Malaysian Green Technology Corporation (MGTC). Peta jalan ini menetapkan target adopsi EV dan infrastruktur pengisian daya serta menopang insentif pajak yang ditawarkan kepada pembeli dan produsen EV.
 lang: id
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - Samsung SDI
   - adopsi EV
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Sebuah unit pengisian cepat DC berdiri di bay kendaraan listrik bertanda di sebuah area peristirahatan jalan tol di Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: Dua sel baterai litium-ion berbentuk silinder, satu format 18650 dan satu lagi format 21700 yang lebih besar, berdiri berdampingan.
+    kind: representative
+    origin: third-party
+    subject: Sel baterai litium-ion berbentuk silinder
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: Paket baterai traksi litium-ion datar sebuah mobil listrik, dipamerkan untuk menunjukkan tata letak selnya yang modular.
+    kind: representative
+    origin: third-party
+    subject: Paket baterai traksi litium-ion kendaraan listrik
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 Malaysia telah menghabiskan setengah abad membangun mobil. Kini negara ini berupaya melistrikkannya — dan, yang sama pentingnya, membuat baterai dan membangun jaringan pengisian daya yang menjadi sandaran kendaraan listrik. Ini adalah kisah yang berbeda dari yang diceritakan dalam panduan [industri otomotif Malaysia](/id/industries/automotive-industry/), yang sebagian besar tentang mobil bensin dan diesel. Di sini subjeknya adalah *ekosistem* EV dan baterai: kendaraannya, insentifnya, pengisi dayanya, dan pabrik-pabrik yang bersama-sama menentukan seberapa cepat Malaysia beralih ke mobilitas listrik.

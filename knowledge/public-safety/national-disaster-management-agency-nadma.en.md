@@ -29,7 +29,7 @@ faq:
     a: "It has been replaced by NADMA Directive No. 1, approved at a National Security Council (MKN) meeting chaired by the Prime Minister on 1 August 2024."
 
 lang: "en"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'Floodwaters inundate a rural area during heavy monsoon rain in Sandakan, Sabah, Malaysia.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: A water rescue team in a flat-bottomed boat navigating floodwater during a search-and-rescue operation
+    kind: representative
+    origin: third-party
+    subject: Flood rescue team in a boat during a search operation (representative)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: A protective wall of sandbags built up to hold back rising floodwater around a building
+    kind: representative
+    origin: third-party
+    subject: Sandbag flood-protection barrier (representative)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 When a major flood strikes several states at once, who presses the button to coordinate the military, fire brigade, police and volunteers under a single command? In Malaysia, the answer is NADMA.

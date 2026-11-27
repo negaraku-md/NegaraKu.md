@@ -31,7 +31,7 @@ faq:
     a: "2022년 스웨덴 Perstorp 인수는 범용 석유화학을 넘어 더 높은 부가가치의 특수화학으로 다변화하려는 PCG의 '스테핑 아웃' 전략의 핵심이었으며, 첨단 소재, 동물 영양, 지속가능성 중심 솔루션 같은 제품을 추가했습니다."
 
 lang: "ko"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,7 @@ sources:
     publisher: "StockAnalysis.com"
 
 entity: "Petronas Chemicals Group (PCG)"
+wikidata: "Q139388026"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "petronas" }
@@ -82,6 +83,33 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: '조호르 펑에랑의 광대한 해안 석유화학·정유 단지 항공 전경, 흐릿한 하늘 아래 흰 저장탱크 격자, 공정 설비, 파이프 랙, 선착장이 바다까지 뻗은 모습'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: 강 건너편에서 바라본 대형 석유화학 비료 공장, 긴 냉각탑 셀 줄, 파란 공정 배관, 빨강과 흰색 굴뚝이 녹색 초목과 흐린 하늘을 배경으로 서 있다
+    kind: actual
+    origin: third-party
+    subject: 사라왁의 ASEAN Bintulu Fertiliser 공장, PETRONAS Chemicals가 운영하는 암모니아·요소 석유화학 시설
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: 철망 울타리 뒤의 크고 흰 원통형 저장 탱크, 녹색 PETRONAS 물방울 로고 옆에 'PETRONAS 90 MLC'라고 표시되어 있고, 옅은 구름이 낀 푸른 하늘 아래 한쪽에 배관과 공장 구조물이 보인다
+    kind: actual
+    origin: third-party
+    subject: 조호르 Pengerang Integrated Complex에 있는 PETRONAS 브랜드 저장 탱크
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 말레이시아 농장에 뿌려지는 거의 모든 비료 포대, 그리고 이 나라 공장에서 성형되는 플라스틱 수지의 상당 부분은 한 회사로 거슬러 올라갑니다: Petronas Chemicals Group Berhad. 그것은 국영 석유회사의 화학 부문이자 말레이시아 최대의 통합 화학 생산업체이며 — 국가 연계 사업으로는 이례적으로 — 누구나 주식을 살 수 있는 별도 상장 회사입니다.

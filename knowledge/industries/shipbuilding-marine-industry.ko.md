@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아에서 조선은 왜 석유·가스와 그토록 연결되어 있나요?
     a: 말레이시아 조선소가 건조·수리하는 상업 선단의 상당 부분 — 해양 지원선, 앵커 핸들러, 작업선 — 이 말레이시아 수역의 해양 석유·가스 플랫폼을 지원하기 위해 존재하기 때문입니다. 에너지 지출이 강하면 주문이 늘고, 유가가 떨어지면 조선소는 과잉설비에 직면합니다. 관련 석유·가스 서비스·장비 산업 가이드를 보세요.
 lang: ko
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: '우뚝 솟은 붉은 갠트리 크레인과 건조 중인 큰 선박들이 있는 해안 조선소'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: 말레이시아의 대형 흰색 조선 공장을 공중에서 본 모습으로, 열린 선실 문에 선체가 보인다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 조호르주 파시르구당의 Grand Banks Yachts 조선 공장
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: 강변에 자리한 말레이시아 조선소의 대형 제작 작업장과 야드를 위에서 공중 촬영한 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 조호르주 강가에 있는 Grand Banks Yachts 조선소를 위에서 본 모습
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 말레이시아는 세계에서 가장 분주한 두 항로 위에 자리하고 생계의 상당 부분을 바다에서 얻습니다 — 그러나 조선·선박수리(SBSR) 산업은 국가 경제의 더 조용한 구석 중 하나입니다. 실재하고 오래 자리 잡았으며 전략적으로 중요하지만, 파편화되고 경기순환적이며 비교적 작은 조선소가 지배합니다. 이 가이드는 이 산업이 무엇을 건조하는지, 어디서, 규모는 얼마나 되는지, 그리고 왜 한 함정 프로그램이 공개 논쟁에서 이 부문 전체를 가리게 되었는지를 설명합니다.

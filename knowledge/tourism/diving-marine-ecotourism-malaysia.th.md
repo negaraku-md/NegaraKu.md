@@ -68,9 +68,22 @@ sources:
 relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "related-to", to: "sabah-travel-guide" }
-related: []
+related: ["sipadan-and-semporna", "east-coast-islands-guide", "langkawi-visitor-guide", "sabah-visitor-guide"]
 keywords: ["Sipadan diving permit", "Malaysia marine park fees", "Sabah Parks", "Department of Fisheries marine park", "scuba diving Malaysia", "marine ecotourism"]
-framework: rules
+framework: rules
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักดำน้ำและนักดำน้ำตื้นเพื่อการพักผ่อน (และผู้ประกอบการที่จองให้) ที่วางแผนทริปอุทยานทางทะเลของมาเลเซีย ตั้งแต่แนวปะการังคาบสมุทรที่เข้าถึงง่ายไปจนถึงการดำน้ำที่ Sipadan ซึ่งจำกัดโควตา'
+  getThere: 'อุทยานบนคาบสมุทรเช่น Tioman, Redang, Perhentian และ Tenggol เข้าถึงด้วยเรือจากท่าเรือแผ่นดินใหญ่ ขณะที่ Sipadan ของ Sabah ดำน้ำได้โดยพักบนเกาะใกล้เคียงอย่าง Mabul หรือ Kapalai แล้วไปเช้าเย็นกลับด้วยใบอนุญาตของผู้ประกอบการที่ได้รับอนุญาต'
+  permit: 'Sipadan ดำเนินด้วยโควตาใบอนุญาตรายวันที่จำกัดและถือครองโดยผู้ประกอบการที่ได้รับอนุญาตเท่านั้น คุณจึงซื้อเองโดยตรงไม่ได้และต้องจองผ่านผู้ประกอบการที่มีโควตา ส่วนอุทยานทางทะเลระดับสหพันธรัฐ (กรมประมง, Department of Fisheries) เก็บค่าธรรมเนียมอนุรักษ์ที่ท่าเรือแทน'
+  watch: 'คุณจอง Sipadan เองโดยตรงไม่ได้และต้องมีใบรับรองอย่างน้อยระดับ Advanced Open Water และโควตากับกฎการดำน้ำมีการปรับเป็นระยะ จึงควรตรวจสอบข้อจำกัดปัจจุบันกับผู้ประกอบการก่อนวางแผน'
+  next: 'ตรวจสอบค่าธรรมเนียม ใบอนุญาต และโควตาปัจจุบันกับกรมประมงมาเลเซีย (Department of Fisheries Malaysia) สำหรับอุทยานบนคาบสมุทร และกับ Sabah Parks สำหรับ Sipadan'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'ภาพใต้น้ำที่เกาะสิปาดัน มีฝูงปลาสีเงินหนาแน่นว่ายวนอยู่ข้างแนวปะการังที่มีปลาแอนเทียสสีส้ม ส่องสว่างด้วยแสงอาทิตย์ที่ลอดผ่านน้ำสีฟ้า'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 น้ำที่ใสที่สุดในมาเลเซียก็เป็นน้ำที่เข้าถึงยากที่สุดด้วย การจะลงสู่ผนังใต้น้ำของ[สิปาดัน](/th/tourism/sipadan-and-semporna)ได้ คุณต้องมีใบอนุญาตจากรัฐบาลที่ไม่ว่าจะมีเงินมากเพียงใดก็ซื้อโดยตรงไม่ได้ ข้อเท็จจริงเพียงข้อเดียวนี้สะท้อนวิธีที่ประเทศบริหารการท่องเที่ยวดำน้ำ นั่นคือการเข้าถึงถูกปันส่วน ตั้งราคา และแบ่งกันดูแลระหว่างสองหน่วยงานที่แตกต่างกันมาก ขึ้นอยู่กับว่าคุณต้องการดำลงไปในทะเลผืนใด

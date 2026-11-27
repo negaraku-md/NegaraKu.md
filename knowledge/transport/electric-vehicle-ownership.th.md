@@ -31,7 +31,7 @@ faq:
     a: "RM20 ต่อปีสำหรับ EV กำลัง 50 kW และต่ำกว่า ตามแนวปฏิบัติ LKM ยานพาหนะไฟฟ้าของ JPJ อัตราเพิ่มขึ้นแบบก้าวหน้าสำหรับกำลังที่สูงขึ้น"
 
 lang: "th"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,32 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'เครื่องชาร์จรถยนต์ไฟฟ้าแบบ DC ข้างช่องจอดชาร์จที่มีข้อความ “Charge up and stay positive” ที่จุดพักริมทางหลวงในมาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: ช่องชาร์จเร็วกระแสตรงShell Rechargeสำหรับรถยนต์ไฟฟ้าที่จุดพักริมทางด่วนLDPในปูโจง รัฐสลังงอร์
+    kind: actual
+    origin: third-party
+    subject: สถานีชาร์จเร็วกระแสตรงShell Rechargeที่LDPปูโจงใต้ มาเลเซีย
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: รถSUVไฟฟ้าBYD Atto 3ปี2023สีน้ำเงิน ซึ่งเป็นรถEVยอดนิยมในตลาดมาเลเซีย จอดอยู่ในปีนัง
+    kind: actual
+    origin: third-party
+    subject: รถSUVไฟฟ้าBYD Atto 3ในปีนัง มาเลเซีย
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 ยุคของภาษีถนนฟรีสำหรับรถยนต์ไฟฟ้าในมาเลเซียได้สิ้นสุดลงแล้ว — แต่บิลใบแรกที่ปรากฏใน MyJPJ ของคุณอาจถูกกว่าที่คุณคิด และมันคำนวณด้วยวิธีที่ใหม่จริง ๆ

@@ -97,6 +97,7 @@ dishFacts:
   halal: "Un clásico de los puestos malayos y de los puestos mamak (indio-musulmanes), donde se cocina y se come cruzando líneas comunitarias, lo que lo convierte en un plato cotidiano de puesto halal."
   eat: "Se sirve como un plato, no como un cuenco de sopa: las guarniciones se añaden y un gajo de lima calamansi se exprime sobre la salsa antes de comer, de modo que los fideos blandos, la salsa rica y los aderezos ácidos y crujientes dan su característico equilibrio dulce-salado-ácido. Suele ser un plato de desayuno o brunch, a menudo pedido junto al satay o el otak-otak."
   where: "Se vende en puestos malayos y mamak matutinos, cafeterías y patios de comidas, donde comparte mesa de vapor con platos como el mee goreng mamak. Los estilos regionales divergen: Johor Bahru, antaño llamada 'la capital nacional del mee rebus', tiene una salsa parda espesa y pegajosa, mientras que Penang es más conocida por el estrechamente emparentado mee Jawa, descrito por lo general como más dulce y con un tono a tomate."
+wikidata: "Q5257848"
 ---
 
 Pide mee rebus en Malasia y te dan un plato, no un cuenco de sopa: fideos amarillos asentados en una salsa espesa y brillante del color del café flojo, salpicados de huevo, tofu y una rodaja de guindilla de un verde vivo. La primera cucharada es levemente dulce, luego sabrosa, luego un poco picante — y un chorrito de limau kasturi corta la untuosidad. Es comida de puesto barata y que llena, y casi todas las cocinas malayas y mamak hacen su propia versión.

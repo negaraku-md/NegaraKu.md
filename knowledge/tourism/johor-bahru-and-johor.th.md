@@ -37,7 +37,7 @@ faq:
     a: "ยะโฮร์อบอุ่นและชื้นตลอดปีและคุ้มค่าการเยือนทุกฤดู แต่การเปิดรับแบ่งออก ชายฝั่งเดซารูและชายฝั่งที่หันตะวันออกได้รับผลจากมรสุมตะวันออกเฉียงเหนือราวเดือนพฤศจิกายนถึงมีนาคม เมื่อทะเลคลื่นแรงกว่าและกิจกรรมเรือบางอย่างหยุด ขณะที่เมือง JB สวนสนุก และชายฝั่งตะวันตกวิ่งตลอดปี ช่วงชายหาดที่แห้งและสงบที่สุดบนฝั่งตะวันออกกว้าง ๆ คือกลางปี สำหรับเมืองและสวนสนุก การเยือนวันธรรมดาหลบทั้งฝูงชนและคิวจุดข้ามที่แย่ที่สุด"
 
 lang: "th"
-sourceContentHash: "1e11559d52aa28be"
+sourceContentHash: "57f5bd441c659fda"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -113,6 +113,39 @@ wikidata: "Q231318"
 related: ["kuala-lumpur-visitor-guide", "malaysia-entry-visa-requirements", "melaka-heritage-visitor-guide", "getting-around-malaysia-for-tourists"]
 keywords: ["Johor Bahru", "Johor", "Causeway", "Second Link", "RTS Link", "Legoland Malaysia", "Desaru Coast", "Gunung Ledang", "Mount Ophir", "Endau-Rompin", "Kukup", "Singapore border"]
 framework: profile
+visitFacts:
+  bestFor: 'เหมาะที่สุดสำหรับนักเที่ยวเช้าเย็นกลับและนักเที่ยวสุดสัปดาห์จากสิงคโปร์ และสำหรับครอบครัว — ดึงดูดด้วยการช้อปปิงและอาหารคุ้มค่า กลุ่มสวนสนุก Legoland ชายหาด Desaru Coast และภูเขากับป่าชายเลนในแผ่นดิน'
+  getThere: 'เข้าถึงจากสิงคโปร์ผ่านสะพาน Johor–Singapore Causeway หรือ Second Link (พร้อมรถไฟ KTM Shuttle Tebrau) และจากส่วนอื่นของมาเลเซียด้วยรถบัสทางไกล รถไฟ KTM ระหว่างเมือง/ETS หรือสนามบินนานาชาติ Senai ทางเหนือของเมือง'
+  permit: 'ทุกการข้ามแดนเป็นพรมแดนระหว่างประเทศ จึงต้องพกหนังสือเดินทางที่ใช้ได้และผ่านด่านตรวจคนเข้าเมืองทั้งสองฝั่ง'
+  watch: 'Causeway ติดขัดในเย็นวันศุกร์ วันหยุดสุดสัปดาห์ ช่วงปิดเทอมของสิงคโปร์ และวันก่อนวันหยุดราชการ จึงควรข้ามแต่เช้า เลี่ยงเวลากลับช่วงพีก และเปลี่ยนไปใช้ Second Link เมื่อรถติด'
+  next: 'ตรวจสอบการจัดการข้ามแดน RTS Link และใบอนุญาตอุทยานปัจจุบันกับหน่วยงานขนส่งทางการของมาเลเซียและสิงคโปร์ และหน่วยงานอุทยานที่เกี่ยวข้องก่อนเดินทาง'
+hero: '/media/tourism/johor-bahru-and-johor/hero.webp'
+heroAlt: 'มัสยิดรัฐสุลต่านอาบูบาการ์สไตล์วิกตอเรียน-มัวร์สีขาวในยะโฮร์บาห์รู พร้อมหอสุเหร่าสูงและโดมสีดำใต้ท้องฟ้าครึ้ม'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sultan Abu Bakar State Mosque, Johor Bahru'
+images:
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-1.webp
+    alt: ด้านหน้าอาคารสีสันสดใสรูปตัวต่อเลโก้ของโรงแรมเลโกแลนด์มาเลเซียรีสอร์ต (Legoland Malaysia Resort) ในยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: โรงแรมเลโกแลนด์มาเลเซียรีสอร์ต ยะโฮร์
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Legoland,_Johor,_Malaysia_2023-02-23.jpg
+  - role: scene
+    src: /media/tourism/johor-bahru-and-johor/body-2.webp
+    alt: หาดทรายขาวบนชายฝั่งยะโฮร์พร้อมน้ำทะเลสีเทอร์ควอยซ์ โขดหินที่มีธงแดงปักอยู่ด้านบน และท้องฟ้าสีฟ้า
+    kind: actual
+    origin: third-party
+    subject: หาดทรายขาวบนชายฝั่งยะโฮร์
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gorgeous_beach_somewhere_in_Johore.jpg
 ---
 
 ผู้มาเยือนส่วนใหญ่พบยะโฮร์ที่คิวชายแดน ในรถบนคอสเวย์ บนรถบัสที่สะพานเชื่อมที่สอง หรือบนรถไฟรับส่งสั้น ๆ เข้า JB Sentral และปฏิบัติต่อเมืองเป็นทางแวะช้อปปิง-และ-อาหารจากสิงคโปร์ นั่นเป็นการมองข้ามคุณค่าของมัน ยะโฮร์บาห์รูเป็นเมืองหลวงของรัฐที่อยู่ใต้สุดของมาเลเซียและประตูที่คาบสมุทรบรรจบกับสาธารณรัฐเกาะข้ามน้ำ ด้วยแกนมรดกที่เดินได้ หนึ่งในกลุ่มสวนสนุกครอบครัวที่ใหญ่ที่สุดในเอเชียอยู่หน้าประตู และทั้งรัฐอยู่เบื้องหลัง ชายหาดทางตะวันออก ป่าชายเลนที่ปลายใต้ และภูเขาและป่าฝนในแผ่นดิน คู่มือนี้ครอบคลุมว่าจุดข้ามทำงานอย่างไร มีอะไรทำในเมือง สวนสนุก ชายฝั่งและตอนใน ยะโฮร์เหมาะกับใคร และข้อผิดพลาดหนึ่งที่จับได้เกือบทุกคน การกะจังหวะจุดข้ามผิด

@@ -34,7 +34,7 @@ faq:
     a: "Bộ Nông nghiệp và An ninh Lương thực (Kementerian Pertanian dan Keterjaminan Makanan, KPKM) thông qua Bộ phận Phát triển Ngành Lúa, với các cơ quan thực thi như Ủy ban Tổ chức Nông dân (Lembaga Pertubuhan Peladang, LPP), MADA và KADA ở các vùng vựa lúa tương ứng."
 
 lang: "vi"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,9 +100,36 @@ wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: 'Người nông dân cúi mình làm việc trên bờ ruộng lúa ngập nước đầy bùn, bùn bắn tung tóe, dưới ánh nắng ban ngày rực rỡ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: Người điều khiển máy gặt đập liên hợp màu vàng chạy qua ruộng lúa ngập nước còn trơ gốc rạ lúc hoàng hôn, với hàng cọ ở đường chân trời
+    kind: actual
+    origin: third-party
+    subject: một máy gặt đập liên hợp đang cắt lúa trên ruộng lúa lầy lội lúc hoàng hôn ở Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: Người phụ nữ đội khăn trùm đầu dùng lưỡi liềm nhỏ cắt những bông lúa vàng óng và gom vào chiếc giỏ đan màu vàng
+    kind: actual
+    origin: third-party
+    subject: một phụ nữ dân tộc Dusun thu hoạch những bông lúa chín bằng tay cho vào giỏ đan ở huyện Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 Bao phân mà người nông dân vác ra ruộng sáng hôm đó không được mua bằng tiền của chính họ — nó đến mà không phải trả tiền, do Chính phủ Liên bang gánh chịu suốt nhiều thập kỷ. Đây là gương mặt thật của trợ cấp nông nghiệp Malaysia cho lúa: không phải séc hay tiền vào tài khoản, mà là phân bón, thuốc trừ sâu và các khoản khuyến khích gánh phần lớn chi phí tại đồng ruộng.

@@ -36,7 +36,7 @@ faq:
     a: "Stamp duty is 0.5% of the loan amount under the Stamp Act 1949. For example, a loan of RM450,000 attracts a duty of RM2,250. Payment must be made within 30 days from the date the agreement is signed."
 
 lang: "en"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'The red Public Bank Berhad and Public Investment Bank signage on a landscaped plaza outside a Malaysian bank building in Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: Street view of a Standard Chartered Bank branch on a shoplot row in Seremban town centre
+    kind: representative
+    origin: third-party
+    subject: A Standard Chartered Bank branch on the main street in Seremban, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: Street view of a Bank Muamalat Islamic bank branch on a shoplot row in Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: A Bank Muamalat (Islamic bank) branch in Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 Your dream home might cost RM450,000, but the bank will not hand over that money until it is confident you can pay it back over the next 30 years. That is where the world of mortgage financing begins — margins, debt-service ratios, insurance, EPF savings and stamp duty, all of which determine whether the keys to that house end up in your hands.

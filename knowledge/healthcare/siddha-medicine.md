@@ -78,6 +78,32 @@ relations:
 related: ["tamil-in-malaysia", "estate-tamil-community", "traditional-chinese-medicine-in-malaysia", "hinduism-in-malaysia"]
 keywords: ["சித்த மருத்துவம்", "Siddha medicine", "மலேசியா சித்த மருத்துவம்", "Siddha medicine Malaysia", "பாரம்பரிய இந்திய மருத்துவம்", "சித்தர்கள்", "அகத்தியர்", "மூலிகை மருத்துவம்", "பாரம்பரிய மற்றும் நிரப்பு மருத்துவச் சட்டம் 2016", "Act 775"]
 framework: history-culture
+hero: '/media/healthcare/siddha-medicine/hero.webp'
+heroAlt: 'தயாரிக்கப்பட்டுக்கொண்டிருக்கும் ஒரு லேகியம் (மூலிகைக் கலவை), இது சித்த மருத்துவ முறையின் ஒரு பாரம்பரிய மருந்து.'
+heroCredit: 'Chronikhiles / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: ஒரு பாரம்பரிய தென்னிந்திய மூலிகை மருந்தகத்தின் எளிமையான கடை முகப்பு, சித்த மருத்துவத்தை ஒத்த ஒரு பாரம்பரிய இந்திய மருத்துவ முறையைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு பாரம்பரிய தென்னிந்திய மூலிகை மருந்தகம் (வைத்தியசாலை) இன் கடை முகப்பு
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: திறந்த கையில் வைத்திருக்கும் கரும்பழுப்பு நிற இஞ்சி லேகிய உருண்டை, ஒரு பாரம்பரிய தமிழ் சித்த மூலிகை விழுது தயாரிப்பு
+    kind: representative
+    origin: third-party
+    subject: உள்ளங்கையில் வைத்திருக்கும், தயாரான இஞ்சி லேகியம் என்ற தமிழ் சித்த மருத்துவ மூலிகை தயாரிப்பு
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 மலேசியாவின் பழைய தோட்ட நிலங்களிலும், நகரங்களின் தமிழ்த் தெருக்களிலும் ஒரு

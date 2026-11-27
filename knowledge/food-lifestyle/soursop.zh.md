@@ -42,7 +42,7 @@ sources:
     publisher: "PubMed"
 
 lang: "zh"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ drinkFacts:
   halal: "红毛榴莲汁是果肉与水或牛奶、糖打成的，不含酒精，因此饮品本身是清真的。清真保证附属于店面，因此需要认证的食客应逐一向个别摊档查问。"
   served: "冰镇供应，现点现打——加水较清爽，加牛奶做成奶昔较浓郁。是一款清爽的果汁；请就这样享用它，并请注意，附着于红毛榴莲的那些健康与「抗癌」声称在人体上未经证实，绝不能替代医疗护理。"
   where: "遍布全国、凡是现打新鲜热带果汁的地方——果汁档、小贩摊位与水果摊——都能找到。"
+hero: '/media/food/soursop/hero.webp'
+heroAlt: '市场摊位上一堆新鲜的青皮带刺红毛榴莲（soursop），背景有木瓜和香蕉'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: 市场里，一只金属碗中带刺的绿色红毛榴莲（刺果番荔枝），旁边是一篮鲜绿的青柠
+    kind: actual
+    origin: third-party
+    subject: 水果摊上整只红毛榴莲与一篮新鲜青柠
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 带刺、翠绿而沉甸甸，**红毛榴莲**乍看之下像一颗小榴莲——它的马来名字 **durian belanda**

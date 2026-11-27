@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang berusaha memahami apa sebenarnya Jabatan Perdana Menteri itu, mengapa begitu banyak lembaga federal yang tampak tidak berkaitan berada di bawahnya, dan bagaimana ia berbeda dari sebuah kementerian biasa."
 
 lang: "id"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,34 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: 'Bangunan Perdana Putra berkubah, kedudukan Jabatan Perdana Menteri Malaysia, di bawah langit berawan yang dramatis di Putrajaya'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: Pemandangan depan simetris Perdana Putra dengan bendera-bendera Malaysia berjajar di sepanjang bulevar masuk
+    kind: actual
+    origin: third-party
+    subject: Fasad depan Perdana Putra dari bulevar seremonial, Putrajaya
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: Kubah hijau Perdana Putra menjulang di atas bulevar seremonial berjajar pohon di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Perdana Putra dilihat menyusuri jalan masuk bertaman, Putrajaya
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 Malaysia tidak memiliki satu kementerian saja yang menjalankan mesin

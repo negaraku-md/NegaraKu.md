@@ -38,7 +38,7 @@ verificationNeeded:
   - "Pastikan tanggal dan dasar persentase komposisi etnis pada portal resmi negeri (Melayu 61.5%, Tionghoa 22.9%, India 15.1%, lain-lain 0.5%) — angka itu tidak bertanggal dan tidak sepadan dengan struktur pecahan Sensus 2020 yang memisahkan bukan warga negara."
 
 lang: "id"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'Istana kerajaan Seri Menanti dari kayu gelap dengan atap Minangkabau bertingkat yang runcing, berdiri di atas halaman hijau dengan sebuah paviliun merah dan bukit berhutan di belakangnya.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: Pantai berpasir yang melengkung lembut dan dibatasi pohon palem menghadap Selat Malaka yang tenang di Port Dickson, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Pantai Port Dickson, Negeri Sembilan
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: Rumah kayu Minangkabau dengan atap melentik berbentuk tanduk kerbau berdiri di dalam kompleks Muzium Negeri Sembilan di Seremban.
+    kind: actual
+    origin: third-party
+    subject: Rumah tradisional bergaya Minangkabau di Muzium Negeri Sembilan, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Di delapan negeri Melayu yang lain, pertanyaan "siapa raja berikutnya" dijawab oleh

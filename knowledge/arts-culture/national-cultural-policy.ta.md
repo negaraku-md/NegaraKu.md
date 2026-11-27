@@ -30,7 +30,7 @@ faq:
     a: "JKKN-இன் கூற்றுப்படி, DKK 1971 ஏழு அச்சுகளை அடிப்படையாகக் கொண்ட, 2021-2025 அமலாக்க காலத்தைக் கொண்ட தேசியப் பண்பாட்டுக் கொள்கை (DAKEN) 2021-க்கு அடிப்படையாக அமைகிறது. DKK 1971 அமைச்சரவை மட்டத்தில் ஒருபோதும் அதிகாரப்பூர்வமாக அங்கீகரிக்கப்படவில்லை என்றாலும், ஏறத்தாழ 50 ஆண்டுகளாக நிர்வாகத்தை அது வழிநடத்தியது என்றும் JKKN தெரிவிக்கிறது."
 
 lang: "ta"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["dasar kebudayaan kebangsaan", "kongres kebudayaan kebangsaan 1971", "tiga prinsip", "DAKEN 2021", "kebudayaan Malaysia", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'தேசிய நாடக அரங்கமான Istana Budaya-வின் பிரதான நுழைவாயில், அதன் விரிந்த sirih junjung கூரை, தங்கத் தாமரை சின்னம் மற்றும் செதுக்கப்பட்ட மரக் கதவுகளுக்கு இட்டுச்செல்லும் அகலமான படிக்கட்டுகளுடன்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: பாரம்பரிய சரவாக் உடை அணிந்த நடனக் கலைஞர்கள் குழு ஒன்று பார்வையாளர்களுக்காக மேடையில் நாட்டுப்புற நடனம் ஆடுகிறது
+    kind: actual
+    origin: third-party
+    subject: மலேசியாவில் ஒரு பண்பாட்டு நிகழ்வில் பாரம்பரிய உடையில் சரவாக் நாட்டுப்புற நடனத்தை நிகழ்த்தும் கலைஞர்கள்
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: மலேசிய தேசிய அருங்காட்சியகத்தின் முன்பகுதி, மேல்நோக்கி வளைந்த மினாங்கபாவ் பாணி கூரையும் பெரிய ஓடு பதித்த சுவரோவியப் பலகைகளும் கொண்ட கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் உள்ள மலேசிய தேசிய அருங்காட்சியகம் (மியூசியம் நெகாரா), மினாங்கபாவ் பாணி கூரையும் பாரம்பரிய ஓட்டு சுவரோவியங்களும் கொண்டது
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 1971-இல், [1969 மே 13 சம்பவம்](/malaysia/13-may-1969) நடந்து ஏறத்தாழ இரண்டு ஆண்டுகளுக்குப் பிறகு, பல்லின நாட்டுக்குக் கடினமான ஒரு கேள்விக்குப் பதிலளிக்க அறிஞர்கள், கலைஞர்கள் மற்றும் தலைவர்கள் அடங்கிய குழு ஒன்று Universiti Malaya-வில் ஒன்றுகூடியது: “தேசியப் பண்பாடு” என்பதன் பொருள் என்ன? அதன் விளைவாக உருவான பதில் — தேசிய பண்பாட்டுக் கொள்கை (National Cultural Policy, DKK) — இன்றுவரை ஒரு கொள்கை மேற்கோளாக இருந்து வருகிறது; அதேநேரம் அது இன்னும் விவாதப் பொருளாகவும் இருந்து வருகிறது.

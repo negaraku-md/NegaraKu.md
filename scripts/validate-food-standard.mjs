@@ -97,10 +97,12 @@ for (const file of walk(FOOD_DIR)) {
   const lines = m[1].split(/\r?\n/);
   const breaks = [];
 
-  const foodType = (m[1].match(/^foodType:\s*"?([\w-]+)"?/m) || [])[1] || null;
+  // Quote-agnostic: accept unquoted, 'single'- or "double"-quoted enum values —
+  // valid YAML must never trip the regex (a single-quoted heroKind once broke the build).
+  const foodType = (m[1].match(/^foodType:\s*['"]?([\w-]+)['"]?/m) || [])[1] || null;
   const hasHero = /^hero:\s*\S/m.test(m[1]);
-  const heroKind = (m[1].match(/^heroKind:\s*"?([\w-]+)"?/m) || [])[1];
-  const heroOrigin = (m[1].match(/^heroOrigin:\s*"?([\w-]+)"?/m) || [])[1];
+  const heroKind = (m[1].match(/^heroKind:\s*['"]?([\w-]+)['"]?/m) || [])[1];
+  const heroOrigin = (m[1].match(/^heroOrigin:\s*['"]?([\w-]+)['"]?/m) || [])[1];
   const heroAlt = /^heroAlt:\s*\S/m.test(m[1]);
   const hasPlaceCard = /^place:\s*$/m.test(m[1]) || /^place:\s*\r?$/m.test(m[1]);
 

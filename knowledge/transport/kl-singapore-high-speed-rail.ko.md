@@ -29,7 +29,7 @@ faq:
     a: "아니요. RTS Link는 조호르바루와 우드랜즈(Woodlands) 사이의 짧은 국경 간 셔틀로, 2026년 개통을 목표로 합니다. HSR은 쿠알라룸푸르와 싱가포르 사이에 계획된 별개의 약 350km 고속 노선입니다."
 
 lang: "ko"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL Singapore HSR", "high-speed rail Malaysia", "MyHSR Corp", "HSR termination compensation", "HSR revival RFP"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: '승객들이 탑승하는 가운데 역 승강장에 정차한 세련된 흰색과 주황색의 고속철도 열차.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: 역 승강장에 정차한 대만 고속철도 편성 열차로, 비교할 만한 역내 고속철도 사례로 제시한 것이다.
+    kind: representative
+    origin: third-party
+    subject: 역내에서 운행 중인 고속열차(대만 고속철도), 미래의 쿠알라룸푸르-싱가포르 HSR을 대표
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: 일본 히로시마역에 정차한 N700계 신칸센 고속열차로, 비교할 만한 역내 고속철도 사례로 제시한 것이다.
+    kind: representative
+    origin: third-party
+    subject: 역내에서 운행 중인 고속열차(일본 N700 신칸센), 미래의 쿠알라룸푸르-싱가포르 HSR을 대표
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 쿠알라룸푸르에서 싱가포르까지 약 90분 만에 데려다줄 수 있는 고속열차가 —

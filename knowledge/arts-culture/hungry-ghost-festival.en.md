@@ -33,7 +33,7 @@ faq:
     a: "The 'bidding' (bidding for blessed items) is a common part of the dinner that follows a Yulan assembly: the organisers put the auspicious offerings from the altar tables — fruit, rice, drinks, and charcoal sticks known as 'black gold', all counted as 'blessed items' — up for open auction one by one, and the highest bidder 'wins' each one. The proceeds are mostly used to cover the cost of the event and to support good causes such as Chinese-language schools, which is why in Malaysia the Hungry Ghost Festival also carries a strong flavour of community mutual aid and charity."
 
 lang: "en"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "The seventh lunar month (from the 'opening of the gates of the underworld' on the first day to their 'closing' at the end of the month), with the fifteenth day (the main day of Zhongyuan) as the peak of the offerings."
   holiday: "Not a nationwide or any state public holiday in Malaysia; the offerings, Yulan assemblies and getai stage shows mostly take place in the evening and at night after work."
   etiquette: "The front-row seats at getai stage shows are deliberately left empty for the unseen guests, and the audience generally does not sit in the first row; folk sayings also advise against stepping on roadside offerings or picking up money or valuables found on the ground."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'A festival stage under a marquee glowing with red neon arcs, star-shaped panels and a scrolling Chinese-character LED sign at night during the seventh-month getai'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: A towering blue-robed paper effigy of the Da Shi Ye deity rising over an altar of burning joss sticks, fruit and an incense urn during the Hungry Ghost Festival in Malaysia
+    kind: actual
+    origin: third-party
+    subject: A giant Da Shi Ye (Tai Su Yeah) guardian deity effigy above an offering altar at Tow Boo Keong temple, Alor Setar, Kedah
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: Trays of rice, dishes, fruit and drinks on grass, each pierced with lit red joss sticks, set out as offerings for the Hungry Ghost Festival
+    kind: representative
+    origin: third-party
+    subject: Roadside food offerings with incense sticks laid out for wandering spirits during the seventh-month Hungry Ghost Festival
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 Once the seventh lunar month arrives, the nightfall scene at many street corners in Penang, Klang and Johor quietly changes: small tables appear by the roadside, laid with fruit, rice, tea and stacks of gold-and-silver joss paper, incense and candles flickering in the dusk. On open ground in the neighbourhood, a stern-faced paper deity several metres tall has been raised, a stage set up facing it; after dark the lights blaze and singing rings out — yet the whole front row of chairs below the stage stays empty throughout.

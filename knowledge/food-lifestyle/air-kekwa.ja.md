@@ -84,6 +84,13 @@ drinkFacts:
   halal: "花、水、砂糖だけ——肉を使わず、動物性のものも、アルコールもないので、ベジタリアン対応で、それ自体としてはハラルである。ハラルの保証は店舗に付随するので、認証が必要な食べ手は店か瓶のラベルで確認すべきだ。"
   served: "温かく、あるいは氷入りで供される。好みで甘さ控えめにと頼める。「熱をもつ」揚げ物やこってりした食べ物、暑い陽気を相殺するために広く飲まれる——これは釣り合いについての文化的な信念であって医学的主張ではない。瓶詰めや缶入りのすぐ飲める菊花茶としても売られる。"
   where: "kopitiam、薬草茶・涼茶の屋台で見かけ、全国の店やスーパーマーケットで瓶詰め・缶入りでも売られる。"
+hero: "/media/food/air-kekwa/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "花が浸かった、淡い菊茶（air kekwa）の花柄ティーカップ"
+heroCredit: "Taman Renyah / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chrysanthemum_tea.JPG"
 ---
 
 マレーシアのコーヒーショップの甘くミルキーな飲み物のなかで、**air kekwa** は少し離れたところに

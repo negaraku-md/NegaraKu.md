@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया कच्चे दुर्लभ-मृदा निर्यात पर प्रतिबंध क्यों लगाता है?
     a: सरकार कहती है कि स्थगन — 2024 की शुरुआत से लागू — का उद्देश्य देश के दुर्लभ-मृदा संसाधनों को बिना संसाधित निर्यात होने से रोकना है, और स्थानीय परिष्करण तथा डाउनस्ट्रीम उद्योगों के माध्यम से तट पर मूल्य जोड़ने के लिए बाध्य करना है। अधिकारियों ने इसे एक रणनीतिक संसाधन की रक्षा के रूप में वर्णित किया है; सटीक नीति शर्तें समय के साथ बदली हैं और नवीनतम सरकारी कथन के विरुद्ध जाँची जानी चाहिए।
 lang: hi
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'मलेशिया के पेराक में एक पुराने खनन तालाब के पास खड़ी संरक्षित TT5 टिन-खनन ड्रेज, जो देश के टिन-निकासी युग का अवशेष है।'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: साबाह के किनाबातांगान ज़िले में जालान सुकाउ पर एक पत्थर की खदान की उजागर चट्टानी सतह और खुदाई किए गए बेंच।
+    kind: actual
+    origin: third-party
+    subject: जालान सुकाउ, किनाबातांगान ज़िला, साबाह, मलेशिया में पत्थर की खदान
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: मलेशिया के साबाह में सलारोम के पास कन्वेयर और बजरी के ढेरों के साथ पत्थर को प्रसंस्कृत करती एक अस्थायी पत्थर-कुचाई मिल।
+    kind: actual
+    origin: third-party
+    subject: सलारोम, साबाह, मलेशिया के पास पत्थर को बजरी में कुचलती रॉक मिल (kilang batu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 मलेशिया की आधुनिक अर्थव्यवस्था, सचमुच, ज़मीन से खोदकर निकाली गई थी। पाम तेल, इलेक्ट्रॉनिक्स या सेमीकंडक्टर से बहुत पहले, यह **टिन** था जिसने प्रायद्वीप को दुनिया के लिए मायने रखने वाला बनाया — रेलवे का वित्तपोषण करते हुए, इपोह और कुआलालंपुर जैसे शहरों को बढ़ाते हुए, और प्रवासी खनिकों की पीढ़ियों को आकर्षित करते हुए। खनन देश की सबसे पुरानी औद्योगिक कहानी है, और यद्यपि यह अब अर्थव्यवस्था पर प्रभुत्व नहीं रखता, इसे चुपचाप एक बहुत ही आधुनिक पुरस्कार के इर्द-गिर्द फिर से लिखा जा रहा है: दुर्लभ-मृदा तत्व।

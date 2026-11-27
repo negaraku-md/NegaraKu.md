@@ -29,7 +29,7 @@ faq:
     a: "Istananya. Sultan Mahmud Shah dan keturunannya menegakkan kembali pemerintahan Melayu di selatan, yang paling penting dalam Kesultanan Johor, membawa serta struktur istana, kitab hukum, dan bahasa Melaka. Institusi-institusi itu bertahan jauh lebih lama daripada kemerdekaan kota itu selama berabad-abad."
 
 lang: "id"
-sourceContentHash: "cf412842ff34bf8f"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -45,7 +45,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-19
 sources:
   - title: "Melaka dan George Town, Kota Bersejarah Selat Melaka (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
@@ -58,6 +58,12 @@ sources:
     publisher: "Departemen Museum Malaysia"
   - title: "Sejarah Melayu (Malay Annals)"
     publisher: "Arsip Nasional Malaysia"
+  - title: "Kesultanan Melaka, World History Volume 2"
+    url: "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+    publisher: "OpenStax, Rice University"
+  - title: "Sejarah Malaysia: Kesultanan Melaka (History of Malaysia: The Malacca Sultanate)"
+    url: "https://www.britannica.com/topic/history-of-Malaysia"
+    publisher: "Encyclopædia Britannica"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }
@@ -65,6 +71,32 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Kesultanan Melaka", "Parameswara", "sejarah Melaka", "Hukum Kanun Melaka", "asal usul kesultanan Melayu"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'Sebuah istana kayu yang luas dengan atap abu-abu bertingkat-tingkat yang curam dan bertumpuk berdiri di tengah taman tropis yang tertata rapi, dilihat dari atas dengan kota bersejarah Melaka terhampar di belakangnya.'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: Gerbang batu kelabu yang lapuk dengan pintu masuk melengkung dan lambang berukir kecil di atasnya, berdiri sendirian di atas hamparan rumput hijau di bawah langit cerah; satu-satunya gerbang benteng A Famosa yang tersisa di Melaka.
+    kind: representative
+    origin: third-party
+    subject: gerbang benteng Portugis A Famosa (Porta de Santiago) di Melaka, dibangun tak lama setelah keruntuhan Kesultanan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: Kerangka bata dan batu gereja tua tanpa atap di puncak bukit, bukaan jendelanya yang kosong dan dinding yang runtuh bersinar merah-cokelat hangat di siang hari, dengan para pengunjung berjalan di antara reruntuhan.
+    kind: representative
+    origin: third-party
+    subject: reruntuhan Gereja St Paul tanpa atap di puncak Bukit St Paul di Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 Seorang putra melarikan diri dari sebuah kota yang terbakar. Ia menyeberangi sebuah selat, membunuh seorang pemimpin setempat yang melindunginya, dan terus lari — melalui Muar, melalui Ujong Tanah — hingga ia berhenti di bawah sebatang pohon di tepi sungai untuk mengistirahatkan anjing-anjingnya. Salah satu dari anjing itu menyudutkan seekor pelanduk, dan pelanduk itu, ketika tersudut, berbalik dan menendangnya ke dalam air. Sang putra menganggap ini sebagai pertanda: makhluk sekecil apa pun di sini ikut melawan. Ia memutuskan bahwa di sinilah ia akan membangun kotanya, dan menamainya sesuai pohon tempat ia sedang duduk — sebatang pohon *melaka*.
@@ -76,6 +108,14 @@ Itulah kisah yang diceritakan oleh Sejarah Melayu tentang pendirian Melaka sekit
 Perdagangan antara Tiongkok dan India bergerak mengikuti monsun: kapal-kapal menunggangi angin ke satu arah selama berbulan-bulan, lalu menunggu angin itu berbalik. Sebuah pelabuhan yang terletak di titik tengah perjalanan itu, yang menawarkan air bersih, tempat berlabuh yang aman, dan urusan yang adil, bisa menjadi sangat penting — dan itulah yang terjadi pada Melaka. Dalam beberapa generasi setelah kedatangan Parameswara, kota itu menarik jung Tiongkok, pedagang Gujarat dan Tamil, saudagar Jawa, Arab, dan Persia, semuanya memusat ke satu ruas pantai yang tidak punya apa-apa lagi untuk dibanggakan selain geografi dan administrasi.
 
 Administrasi itu sama pentingnya dengan geografinya. Penguasa Melaka membangun sebuah administrasi di sekeliling sejumlah kecil jabatan — Bendahara (menteri utama), Laksamana (panglima laut), Temenggung (kepala keamanan), dan Syahbandar (kepala pelabuhan, satu untuk setiap komunitas dagang utama) — yang memberi setiap komunitas saudagar seseorang yang dapat diandalkan untuk berurusan. Tun Perak, Bendahara sepanjang sebagian besar abad kelima belas, dikenang sebagai administrator yang menjaga kesatuan sistem itu sepanjang tahun-tahun puncak Melaka.
+
+## Zaman keemasan: Tiongkok, dan sebuah imperium negeri bawahan
+
+Melaka mencapai puncak kekuasaannya pada akhir abad kelima belas, di bawah Sultan Mansur Shah dan putranya Alauddin Riayat Shah — masa yang biasanya dikenang sebagai zaman keemasan kesultanan itu. Sebagian besar pencapaian administratif di baliknya dikreditkan kepada Tun Perak, yang menjabat sebagai menteri utama dari tahun 1456 hingga 1498 dan, di antara berbagai jasanya, memukul mundur orang Siam Ayutthaya yang sedang berkembang; Melaka sudah pernah menangkis serangan Siam pada tahun 1446 dan 1456.
+
+Dua hubungan menopang puncak itu. Yang pertama adalah dengan Tiongkok Dinasti Ming. Melaka menjalin hubungan resmi dengan istana Ming dan berupaya menjalin ikatan upeti dengannya — sebuah hubungan yang membawa bobot diplomatik yang nyata: utusan Ming memberi tahu pihak Siam bahwa Melaka dianggap sebagai negeri bawahan di bawah perlindungan Tiongkok. Laksamana Zheng He singgah di pelabuhan itu selama pelayaran harta Ming yang agung pada awal abad kelima belas — enam kali, menurut satu catatan — menempatkan Melaka pada salah satu simpul terpenting dalam jaringan maritim yang disponsori Tiongkok, hingga Dinasti Ming berpaling ke dalam sekitar pertengahan abad itu.
+
+Yang kedua adalah jangkauan atas negeri-negeri tetangganya. Melaka menjalankan kebijakan ekspansi, menganeksasi negeri Pahang yang kaya emas dan memperoleh kedaulatan atas sebagian besar pesisir Semenanjung Melayu dan Sumatra timur; negeri-negeri di seluruh Nusantara mengakui penguasanya sebagai pelindung tertinggi, dan Islam berakar melalui kesultanan bawahan seperti Johor, Kedah, Perak, Pahang, dan Terengganu. Bahkan Majapahit di Jawa, yang waspada terhadap kebangkitan Melaka, mengupayakan perdamaian — dalam tradisi Melayu, memeteraikannya dengan perkawinan kerajaan ke dalam istana Mansur Shah. Pada puncaknya, pelabuhan itu dikatakan menjadi tempat berkumpul sekitar 15.000 saudagar dari berbagai bangsa — Tionghoa, Arab, Persia, India, dan lainnya — memadati sebuah pelabuhan yang, menurut satu perkiraan awal Eropa, melampaui pelabuhan mana pun lainnya di dunia yang dikenal.
 
 ## Pengislaman yang mengubah sebuah kawasan
 
@@ -95,10 +135,15 @@ Kekayaan Melaka akhirnya menarik perhatian yang selalu ditarik oleh kekayaan. Pa
 
 Melaka bertahan hanya hampir 110 tahun sebagai kesultanan merdeka, singkat menurut ukuran imperium-imperium di sekelilingnya. Namun hampir setiap institusi yang kemudian mendefinisikan kenegaraan "Melayu" — kesultanan sebagai satu bentuk pemerintahan, bahasa Melayu Melaka sebagai bahasa bersama, hukum istana Islam yang disatukan dengan adat — entah berasal di sana atau melaluinya dalam perjalanan ke tempat lain. Ketika konstitusi modern Malaysia mengabadikan institusi Raja-Raja Melayu, atau ketika seuntai peribahasa Melayu tentang kesetiaan kepada seorang Sultan dikutip dalam buku teks sekolah, titik rujukannya, betapa pun terpisah berabad-abad, adalah istana Melaka. Sebuah kota dagang tunggal, yang dibangun di atas kekerasan hati seekor pelanduk dan ketepatan waktu sebuah monsun, masih melakukan pekerjaan yang senyap dalam kehidupan sipil Malaysia enam ratus tahun kemudian.
 
+## Bacaan selanjutnya
+
+- Ikuti takhta ke selatan setelah 1511 dalam [Kesultanan Johor-Riau](/id/malaysia/johor-riau-sultanate), pewaris langsung Melaka
+- Baca pengepungan itu sendiri dalam [penaklukan Portugis atas Melaka, 1511](/id/malaysia/portuguese-melaka-1511)
+- Lihat lebih jauh ke belakang pada kerajaan-kerajaan awal di semenanjung dalam [Langkasuka](/id/malaysia/langkasuka)
+
 ---
 
 *Artikel ini diklasifikasikan sebagai sensitif (3R+1: royalti) di bawah kebijakan
 editorial NegaraKu.md, karena subjeknya adalah asal usul kesultanan Melayu sebagai
 sebuah institusi dan ia juga menyinggung kedatangan Islam di Nusantara. Ia
-ditulis agar bersifat deskriptif semata dan ditahan dalam bentuk draf sementara
-menunggu persetujuan manusia sebelum penerbitan.*
+ditulis agar bersifat deskriptif semata.*

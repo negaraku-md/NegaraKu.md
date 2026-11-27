@@ -36,7 +36,7 @@ socialTitle: "Thể thơ truyền miệng lâu đời nhất của người Mã 
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "Thời điểm chính xác về nguồn gốc của nghệ thuật làm pantun không thể xác định; quan điểm học giả mạnh nhất gắn nó với khoảng thế kỷ 15, tức trước Sejarah Melayu (~1612). Con số này vẫn còn được tranh luận và không phải là niên đại dứt khoát."
   - "Giới hạn độ dài tối đa của pantun khổ dài khác nhau giữa các nguồn (một số nêu lên tới 16 dòng, một số khác lên tới khoảng 22 dòng); con số chính xác không thống nhất."
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Các nghệ nhân Mã Lai trong trang phục truyền thống xanh và vàng với mũ đội đầu cầu kỳ ngồi trên mặt đất và thực hiện những động tác tay đồng bộ trong một buổi biểu diễn dikir barat, phía trước họ là những chiếc trống tay.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: Những con rối bóng bằng da chạm khắc tinh xảo hình các nhân vật thần thoại tạo nên bóng sắc nét trên một tấm màn phát sáng trong một buổi diễn wayang kulit Kelantan-Patani.
+    kind: actual
+    origin: third-party
+    subject: Múa rối bóng wayang kulit kiểu Kelantan-Patani
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: Một dàn nhạc gamelan Mã Lai chạm khắc công phu gồm cồng đồng, cồng núm và các metalophone bằng gỗ được trưng bày tại Bảo tàng Âm nhạc, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Dàn nhạc gamelan Mã Lai tại Bảo tàng Âm nhạc, Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar, *(Chuối vàng mang theo khi dong buồm,)*

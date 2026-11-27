@@ -32,7 +32,7 @@ faq:
   - q: "Quelle est la situation de la communauté chettiar en Malaisie aujourd'hui ?"
     a: "Au milieu du XXe siècle, les changements de la législation monétaire et les bouleversements politiques ont réduit l'activité traditionnelle du prêt d'argent. Beaucoup se sont tournés vers le commerce, les professions et les domaines liés à l'éducation. Bien que peu nombreuse, cette communauté conserve une identité culturelle propre à travers les temples, les fêtes, la cuisine et les traditions familiales."
 lang: "fr"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'La tour gopuram blanche du temple Nattukottai Chettiar Waterfall Hilltop s''élevant au-dessus d''une dense jungle verte sur un versant de Penang.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: Un gopuram de temple sud-indien coloré, couvert de figures sculptées, se détachant sur un ciel dégagé à Penang
+    kind: actual
+    origin: third-party
+    subject: Le temple Sivan des Nagarathar (Nattukottai Chettiar) à George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: Un haut char de temple doré orné de guirlandes avançant dans une rue de Penang au crépuscule au milieu d'une foule de dévots
+    kind: actual
+    origin: third-party
+    subject: Le char doré et les dévots lors de la procession de Thaipusam à Penang, une fête que la communauté Chettiar contribue à perpétuer
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 Le jour du Thaipusam à Penang, un magnifique char fait d'argent s'élance de la rue Lebuh Penang en direction du temple de Murugan, en haut de la colline. Ni ce char ni la communauté qui le mène depuis plus d'un siècle ne sont le fruit du hasard : tous deux racontent l'histoire d'une tradition marchande-bancaire qui a fait le voyage du Chettinad à la Malaisie.

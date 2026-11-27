@@ -32,7 +32,7 @@ faq:
   - q: "What is the Chettiar community like in Malaysia today?"
     a: "In the middle of the 20th century, monetary-law changes and political shifts reduced the traditional money-lending trade. Many moved into business, the professions and education-related fields. Though a small community in number, they maintain a distinct cultural identity through temples, festivals, food and family traditions."
 lang: "en"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'The white gopuram tower of the Nattukottai Chettiar Waterfall Hilltop Temple rising from dense green jungle on a Penang hillside.'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: A colourful South Indian temple gopuram covered in sculpted figures, set against a clear sky in Penang
+    kind: actual
+    origin: third-party
+    subject: The Nagarathar (Nattukottai Chettiar) Sivan Temple in George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: A tall gilded temple chariot hung with garlands moving through a Penang street at dusk amid a crowd of devotees
+    kind: actual
+    origin: third-party
+    subject: The golden chariot and devotees during the Thaipusam procession in Penang, a festival the Chettiar community helps sustain
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 On the day of Thaipusam in Penang, a magnificent chariot made of silver sets off from Lebuh Penang Street toward the Murugan temple up on the hill. Neither that chariot nor the community that has run it for more than a century is incidental — they tell the story of a merchant-banking tradition that travelled from Chettinad to Malaya.

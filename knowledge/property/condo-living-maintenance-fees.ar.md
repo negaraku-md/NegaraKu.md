@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل من يملك، أو يشتري، أو يستأجر وحدة في شقة (condo) أو عمارة أو عقار آخر متعدد الطوابق (مُسجَّل بملكية طوابق) في شبه جزيرة ماليزيا أو إقليم لابوان الاتحادي."
 
 lang: "ar"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "رسوم الصيانة في ماليزيا", "maintenance fee Malaysia", "الصندوق الاحتياطي", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "وحدات الحصص", "محكمة إدارة الطوابق", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: 'برج سكني شاهق بلونين أحمر وأبيض على خلفية سماء زرقاء في كوالالمبور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: ترتفع عدة أبراج كوندومينيوم معًا فوق Ampang في كوالالمبور، مجموعة شاهقة يتقاسم سكّانها رسوم الصيانة التي تُبقي المصاعد والمسابح والأمن تعمل.
+    kind: actual
+    origin: third-party
+    subject: مجموعة من أبراج الكوندومينيوم في Ampang، كوالالمبور
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: ترتفع أبراج Riana Green Condominium المتعددة معًا وسط المساحات الخضراء في Petaling Jaya، وهو مشروع ستراتا مُسوَّر يتقاسم سكّانه رسوم الصيانة وصندوق احتياطي (sinking fund).
+    kind: actual
+    origin: third-party
+    subject: مجموعة Riana Green Condominium كما تُرى من طريق NKVE، Petaling Jaya، سلانجور
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 اشتريت الوحدة. لكنك لم تشترِ المصعد ولا كشك الحارس ولا حوض السباحة ولا الأنبوب المارّ في الجدار الذي تتشاركه مع جارك. ولا بد لأحدٍ أن يدفع ثمن كل ذلك — والقانون يقسم الفاتورة إلى حسابين أنت مُلزَم قانوناً بإبقائهما منفصلين.

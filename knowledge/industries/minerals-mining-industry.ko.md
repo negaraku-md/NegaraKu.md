@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아는 왜 희토류 원광 수출을 금지하나요?
     a: 정부는 이 모라토리엄 — 2024년 초부터 시행 — 이 자국 희토류 자원이 미가공 상태로 수출되는 것을 막고, 현지 정제와 다운스트림 산업을 통해 국내에서 부가가치를 더하도록 강제하려는 것이라고 말합니다. 당국은 이를 전략 자원 보호로 설명해 왔습니다. 정확한 정책 조건은 시간이 지나며 바뀌었으므로 최신 정부 발표와 대조해 확인해야 합니다.
 lang: ko
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - 라이너스
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: '말레이시아 페락주의 옛 채광 연못 옆에 서 있는 보존된 TT5 주석 채광 준설선으로, 이 나라의 주석 준설 시대의 유물이다.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: 말레이시아 사바주 키나바탕안 지구 잘란 수카우에 있는 채석장의 드러난 암벽과 채굴된 계단식 작업면.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바주 키나바탕안 지구 잘란 수카우의 채석장
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: 말레이시아 사바주 살라롬 인근에서 컨베이어와 자갈 더미를 갖추고 돌을 가공하는 임시 쇄석장.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바주 살라롬 인근에서 돌을 부숴 자갈로 만드는 쇄석장(kilang batu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 말레이시아의 현대 경제는 말 그대로 땅에서 파낸 것이었습니다. 팜유, 전자, 반도체보다 훨씬 전에, 반도를 세계에 중요하게 만든 것은 **주석**이었습니다 — 철도를 건설하고, 이포와 쿠알라룸푸르 같은 도시를 키우며, 여러 세대의 이주 광부를 끌어들였습니다. 광업은 이 나라의 가장 오래된 산업 이야기이며, 더는 경제를 지배하지 않지만, 아주 현대적인 상(賞) — 희토류 — 을 중심으로 조용히 다시 쓰이고 있습니다.

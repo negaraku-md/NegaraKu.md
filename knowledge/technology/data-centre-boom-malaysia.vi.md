@@ -36,7 +36,7 @@ faq:
     a: "Một chính sách được Bộ Kỹ thuật số ra mắt vào năm 2025 để biến Malaysia thành một trung tâm đám mây đẳng cấp thế giới vào năm 2030, neo vào chủ quyền dữ liệu — nguyên tắc rằng dữ liệu được tạo ra ở Malaysia được điều chỉnh bởi luật pháp Malaysia — cùng với một đám mây AI có chủ quyền được lên kế hoạch."
 
 lang: "vi"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'Một bức tường giá đỡ máy chủ trong một trung tâm dữ liệu, mỗi hàng được thắp sáng bởi những hàng đèn báo màu xanh sáng lùi dần vào bóng tối'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: Một lối đi hẹp chạy giữa hai hàng tủ máy chủ màu đen cao, các hàng tủ hội tụ về phía một ô cửa có đèn ở cuối
+    kind: representative
+    origin: third-party
+    subject: Lối đi đối xứng giữa những tủ máy chủ đen cao trong một trung tâm dữ liệu đại học
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: Góc nhìn từ trên cao của một khuôn viên trung tâm dữ liệu lúc chạng vạng, với những hàng dài thiết bị làm mát trên mái và một tòa nhà kế bên vẫn đang xây dựng
+    kind: representative
+    origin: third-party
+    subject: Góc nhìn từ trên cao của các thiết bị làm mát trên mái tại một khuôn viên trung tâm dữ liệu lớn đang xây dựng
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 Trong chưa đầy ba năm, một dải phía nam Johor bên kia causeway đối diện với Singapore đã trở thành một trong những nơi được săn đón nhất trên trái đất để cắm một máy chủ. Các ông lớn đám mây, các nhà khai thác colocation và các công ty khởi nghiệp AI đã đổ vào — và giờ Malaysia đang phát hiện ra rằng các đường dây điện và ống nước bên dưới cuộc bùng nổ có giới hạn.

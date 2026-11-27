@@ -85,6 +85,12 @@ relations:
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["employee vs contractor malaysia", "independent contractor malaysia", "worker classification malaysia", "contract for service vs contract of service", "gig worker malaysia classification"]
 framework: explainer
+stayFacts:
+  who: 'コンサルタント、フリーランサー、プラットフォームワーカー、または契約スタッフを起用し、その人が従業員（employee）か、ギグワーカー（gig worker）か、独立請負人（independent contractor）かを判断するすべてのマレーシアの事業者。'
+  how: 'マレーシアには現在3つの区分があります。雇用契約（contract of service）に基づく従業員（Employment Act 1955およびIndustrial Relations Act 1967の対象）、Gig Workers Act 2025に基づくサービス合意（service agreement）のギグワーカー、そして業務委託契約（contract for service）の独立請負人です。区分は契約書上の呼称ではなく実態で決まります。Employment Actのs.2は、関係が実際にどう運用されているかによって雇用契約を定義しています。裁判所、JTKSM、EPF、PERKESOは、支配（control）を中心に、統合（integration）の度合い、道具を誰が供給するか、交代可能性（substitution）、財務上のリスク、専属性、そしてその人がどう扱われているかを含む多要素テストを適用します。これが重要なのは、法定義務の全体が従業員にのみ付随し、Act 872（Gig Workers Act 2025）は区分を決定するのではなくそれを前提としているためです。'
+  cost: '固定の数値ではなく仕組みの問題です。従業員はEPF、SOCSO、EIS、PCB、Employment Actの諸権利、そしてs.20の不当解雇（unfair dismissal）のリスクを引き込み、誤分類（misclassification）はこれらすべてを別々のリスクとして一度に発生させかねません。ギグワーカーには、省（Ministry）が当面のものとして定めたプラットフォームの社会保障控除が課されますが、これは確定した法定税率ではありません。現行の税率と義務は、採用の時点で関係機関（KWSP/EPF、SOCSO/EISについてはPERKESO、LHDN、JTKSM）に確認してください。'
+  watch: '呼称では決まりません。両当事者が雇用を意図しない旨の条項、コンサルタントという肩書き、あるいは自社のシステムで発行した請求書は、いずれも単なる証拠にすぎず、働き方の実態がそれらと矛盾する場合はほとんど重みを持ちません。職務・支配・統合を変えずに従業員を請負人に切り替えることは、あなたに不利な証拠であって抗弁にはなりません。また、OSHA 1994の安全義務は、区分にかかわらず雇用主、自営業者、および元請（principal）を拘束することにも注意してください。'
+  next: '最も長く続いている契約関係を、支配・統合・道具・交代可能性・リスクに照らして評価してください。2つ以上が内側（従業員性）を指す場合は、遡及拠出（back-contribution）のリスクを見積もってください。区分と義務は公式機関と照合して確認してください。Employment ActとGig Workers Act 2025についてはJTKSM／人的資源省（Ministry of Human Resources、mohr.gov.my）、拠出についてはEPF（KWSP）、PERKESO、LHDNです。'
 ---
 
 2026年3月31日までは、マレーシアではこれは二択の問題だった——contract **of** service

@@ -100,6 +100,14 @@ drinkFacts:
   halal: "Tal como se hace normalmente, el Milo dinosaur es halal: una bebida sin alcohol de polvo de Milo, leche y agua con hielo, sin carne ni alcohol. El Milo que se vende en Malasia tiene certificación halal de Nestlé Malasia bajo JAKIM, y la bebida es un elemento básico de los puestos mamak (indomusulmanes), que suelen ser halal. Como con cualquier comida de puesto, la garantía descansa en el establecimiento y los ingredientes concretos."
   served: "Se sirve frío en un vaso alto, con hielo, coronado con una cucharada de polvo de Milo seco —y a veces una pajita clavada a través del montón—. El más rico Milo godzilla es la misma bebida rematada con una bola de helado o nata montada; «Milo tabur» (malayo para «espolvoreado») es otro nombre para la versión colmada de polvo. Un Milo kosong se hace sin azúcar añadido."
   where: "Puestos mamak, kopitiam (cafeterías), carritos de bebidas de pasar malam y patios de comida por toda Malasia, y también por toda Singapur. Es un pedido cotidiano y económico más que una bebida de cafetería de especialidad, presente dondequiera que el Milo esté en el mostrador."
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un vaso de Milo helado coronado con un grueso montículo de Milo en polvo sin disolver"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 Pide un Milo en un mamak malasio y te dan una bebida fría, dulce y achocolatada. Pide un

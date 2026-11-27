@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'An injection-moulding machine fitted with a robot arm placing freshly moulded plastic trays onto a conveyor in a factory.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: A green and cream industrial extrusion machine with a funnel-shaped hopper on top and a long horizontal heated barrel wrapped in wiring, running toward the right against a blue and white factory wall
+    kind: representative
+    origin: third-party
+    subject: a plastic extrusion line with a feed hopper and heated barrel forming continuous plastic stock, a core process in the plastics and packaging industry
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: Large cuboid bales of flattened transparent plastic bottles, flecked with coloured caps and labels, stacked two and three high on tarmac beside a rusty metal bin, with trees and grey sky behind
+    kind: representative
+    origin: third-party
+    subject: tightly compressed bales of crushed clear PET drink bottles stacked for recycling into new plastic feedstock
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 Almost every physical product that leaves a Malaysian factory — a packet of instant noodles, a smartphone, a car bumper, a length of water pipe — depends on plastic that was shaped somewhere in the country. Plastics are one of Malaysia's quiet industrial strengths: less glamorous than semiconductors, but woven into nearly every other manufacturing sector and, increasingly, into the national debate about waste and sustainability.

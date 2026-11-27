@@ -91,6 +91,35 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: The Exchange 106 tower and the Tun Razak Exchange financial district in Kuala Lumpur, seen from KL Tower
+    kind: representative
+    origin: third-party
+    subject: The Exchange 106 tower and the Tun Razak Exchange (TRX) financial district in Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: Kuala Lumpur city skyline with the KL Tower and high-rise office buildings under a blue sky
+    kind: representative
+    origin: third-party
+    subject: Kuala Lumpur city skyline with the KL Tower and clustered high-rise office buildings
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'The Petronas Twin Towers rising at the centre of a crisp Kuala Lumpur city-centre skyline, with the KLCC mall and park below and surrounding high-rise towers under a clear sky.'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 In April 2024, Malaysia stopped talking about its startups in the language of hope and started talking in the language of rankings. The pitch was blunt: get Kuala Lumpur into the world's top 20 startup ecosystems by 2030, or admit the country had been coasting.

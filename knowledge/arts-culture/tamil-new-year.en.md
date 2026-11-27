@@ -32,7 +32,7 @@ faq:
   - q: "What is special about mango-and-neem-flower pachadi?"
     a: "It is the signature dish of Tamil New Year. It is made by combining raw mango (sour), jaggery (sweet), neem flower (bitter), tamarind and the like. The mixing of sweet, bitter and sour in one dish is regarded as a reminder to accept that the coming year will hold a blend of joy and sorrow."
 lang: "en"
-sourceContentHash: "fa6101b601227300"
+sourceContentHash: "74e8032aaf434a34"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,35 @@ festivalFacts:
   when: "The first day of the month of Chithirai — generally around 14 April; the same day sees the Malayalis' Vishu and the Sikhs' Vaisakhi."
   holiday: "Not a federal public holiday; no state normally declares it a holiday (unlike Deepavali and Thaipusam)."
   etiquette: "Exchanging the greeting 'Puthaandu Vazhthukkal' (Happy New Year) is customary; on the day of Chithirai a festive atmosphere is seen in Kuala Lumpur's Little India, in temples and at community events."
+hero: '/media/arts-culture/tamil-new-year/hero.webp'
+heroAlt: 'A young Malaysian Indian woman in a green and maroon sari presses her palms together in a namaste greeting at an open-air Tamil Puthandu celebration in Brickfields, Kuala Lumpur, with festival tents and the city skyline behind'
+heroCredit: 'Nimaaland / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Indian_Young_Women_wearing_traditional_saree_for_Tamil_Puthandu_Celebration_in_brickfields-_Usha_Muthusamy_-_UMHV.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Young woman in a sari offering a namaste greeting at a Tamil Puthandu street celebration in Brickfields, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-1.webp
+    alt: A silver pot crowned with a coconut, mango leaves and yellow flowers, flanked by lit brass oil lamps, arranged as an auspicious Tamil New Year altar
+    kind: representative
+    origin: third-party
+    subject: Traditional Tamil New Year kalasam of a silver pot topped with a coconut, mango leaves and flowers beside brass oil lamps
+    credit: Amila Tennakoon / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Puthandu_Vaisakhi_Tamil_Hindu_New_Year.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-new-year/body-2.webp
+    alt: The tall, intricately carved and brightly painted gopuram towers of the Meenakshi Amman Temple in Madurai rising above the temple's pillared corridors and tank
+    kind: representative
+    origin: third-party
+    subject: Towering carved gopurams of the Meenakshi Amman Temple in Madurai, home of the Chithirai festival
+    credit: BOMBMAN / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Meenakshi_Temple_(6357534075).jpg
+wikidata: "Q2670097"
 ---
 
 The first dawn of the month of Chithirai. In many Tamil homes a tray was

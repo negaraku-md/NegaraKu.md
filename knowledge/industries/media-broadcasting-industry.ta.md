@@ -31,7 +31,7 @@ faq:
   - q: மலேசியாவின் படைப்பு-உள்ளடக்க மற்றும் அனிமேஷன் தொழில் என்றால் என்ன?
     a: இது திரைப்படங்கள், தொலைக்காட்சி நிகழ்ச்சிகள், அனிமேஷன், இசை மற்றும் கேம்களைத் தயாரிக்கும் வணிகம் — உள்நாட்டுச் சந்தை மட்டுமல்லாமல் பெருகிய முறையில் ஏற்றுமதிக்காகவும். குறிப்பாக மலேசிய அனிமேஷன் சர்வதேச வெற்றியைப் பெற்றுள்ளது, மிகவும் அறியப்பட்ட எடுத்துக்காட்டு Les' Copaque ஆல் தயாரிக்கப்பட்ட குழந்தைகள் தொடரான Upin & Ipin. அரசாங்கம் MyCreative Ventures மற்றும் FINAS போன்ற நிதி மற்றும் முகமைகள் மூலம் இத்துறையை ஆதரிக்கிறது.
 lang: ta
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'மலேசியாவின் தேசிய பொது ஒளிபரப்பாளரின் இல்லமான, கோலாலம்பூரில் உள்ள அங்காசபுரி ஒளிபரப்பு வளாகம்.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: நேரடி ஒளிபரப்பின்போது ஒரு தொலைக்காட்சி ஸ்டுடியோ கட்டுப்பாட்டு அறையில் தயாரிப்பாளர்கள் மானிட்டர்கள் மற்றும் கலவை மேசைகளின் வரிசையில்.
+    kind: representative
+    origin: third-party
+    subject: நேரடி தொலைக்காட்சி தயாரிப்பின்போது ஒளிபரப்புக் கட்டுப்பாட்டு அறை (பிரதிநிதித்துவம்)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: கேமராக்கள், ஸ்டுடியோ விளக்கு மற்றும் தொகுப்பாளர் மேசையுடன் கூடிய தொலைக்காட்சி ஒளிபரப்பு ஸ்டுடியோ அமைப்பு.
+    kind: representative
+    origin: third-party
+    subject: கேமராக்கள் மற்றும் தொகுப்பாளர் மேசையுடன் தொலைக்காட்சி ஒளிபரப்பு ஸ்டுடியோ அமைப்பு (பிரதிநிதித்துவம்)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 மலேசியர்கள் "ஊடகம்" பற்றிப் பேசும்போது, அவர்கள் பொதுவாக ஒரு சில பழக்கமான பெயர்களில் ஒன்றைக் குறிக்கிறார்கள்: வீட்டின் பக்கத்தில் பொருத்தப்பட்ட Astro வின் செயற்கைக்கோள் தட்டு, TV3 செய்தி அறிக்கை, வேலைக்குச் செல்லும் வழியில் ஒரு காலை வானொலி நிகழ்ச்சி, அல்லது — பெருகிய முறையில் — பயணத்தின்போது தொலைபேசியில் இயங்கும் எதுவும். அந்த அன்றாட தொடுப்புள்ளிகள் ஒரே, பரந்த தொழிலுக்குச் சொந்தமானவை: ஊடகம் மற்றும் ஒளிபரப்பு. இது நாட்டின் மிகத் தெரியும் சேவைத் துறைகளில் ஒன்று, மேலும் மிகவும் சீர்குலைக்கப்பட்டவற்றில் ஒன்று.

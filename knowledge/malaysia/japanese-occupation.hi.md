@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["जापानी कब्ज़ा", "pendudukan Jepun", "मलाया 1941-1945", "केले का पैसा", "duit pisang", "कोटा बहारू 1941", "जापानी सैन्य प्रशासन", "मलेशिया में द्वितीय विश्व युद्ध"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: 'एक सैन्य पीतल बैंड 1945 की परेड के दौरान जापानी शासन के अंत का उत्सव मनाते हुए एक सड़क पर मार्च करती नागरिकों की भीड़ का नेतृत्व कर रहा है।'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आठ सप्ताह। यही वह अवधि है, जो केलंतन तट पर जापानी सेना की पहली लैंडिंग और उस दिन के बीच है जब पूरा मलाया जापान के हाथों में आ गया — एक ऐसा क्षेत्र जिस पर ब्रिटिश, विभिन्न रूपों में, डेढ़ सौ वर्ष से अधिक समय से शासन करते आए थे।

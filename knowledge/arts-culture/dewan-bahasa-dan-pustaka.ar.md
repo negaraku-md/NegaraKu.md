@@ -32,7 +32,7 @@ faq:
     a: "Kamus Dewan Perdana هو قاموس DBP المرجعي الرقمي الرسمي، وهو جزء من أجندة التحوّل الرقمي لتوفير منصّة مرجعية شاملة للغة الملايوية متاحة مجاناً على kamus.dbp.gov.my."
 
 lang: "ar"
-sourceContentHash: "b793e5ab54f919b0"
+sourceContentHash: "a8fac8152a6fa32a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bahasa-melayu", "jawi-script"]
 keywords: ["مجلس اللغة والأدب", "DBP", "اللغة الملايوية", "قاموس ديوان", "أديب الوطن", "هيئة نظامية", "dewan bahasa dan pustaka", "bahasa melayu", "sasterawan negara"]
 framework: profile
+hero: '/media/arts-culture/dewan-bahasa-dan-pustaka/hero.webp'
+heroAlt: 'برج ديوان باهاسا دان بوستاكا الشاهق في كوالالمبور في الساعة الذهبية، واسمه وشعاره على قمة المبنى فوق حقل تحفّه الأشجار'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-00.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Dewan Bahasa dan Pustaka (DBP) headquarters tower on Jalan Dewan Bahasa, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-1.webp
+    alt: جدارية فسيفسائية كبيرة ملوّنة بأسلوب تكعيبي تصوّر الحياة الماليزية على واجهة مبنى ديوان بهاسا دان بوستاكا، مع برج المكاتب يرتفع خلفها
+    kind: actual
+    origin: third-party
+    subject: الجدارية الفسيفسائية الكبيرة على كتلة قاعدة ديوان بهاسا دان بوستاكا مع لافتة Bahasa Bangsa Negara والبرج خلفها، كوالالمبور
+    credit: Victor Pogadaev / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg
+  - role: scene
+    src: /media/arts-culture/dewan-bahasa-dan-pustaka/body-2.webp
+    alt: رواق المدخل الفخم ذو السقف المائل لمبنى ديوان بهاسا دان بوستاكا، مكسوّ بألواح منحوتة بزخارف ملايوية دقيقة فوق درج واسع
+    kind: actual
+    origin: third-party
+    subject: المدخل الرئيسي لديوان بهاسا دان بوستاكا بألواحه المنحوتة بالزخارف الملايوية ودرجه الفخم، كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Dewan-Bahasa-Dan-Pustaka-08.jpg
 ---
 
 في كل مرّة تتحقّق فيها من إملاء كلمة ملايوية، أو تصادف مصطلحاً علمياً جديداً، أو تقرأ لقب أحد أدباء الوطن، ثمّة مؤسّسة واحدة خلف الكواليس: مجلس اللغة والأدب (Dewan Bahasa dan Pustaka).

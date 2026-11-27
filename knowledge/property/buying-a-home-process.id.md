@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Warga negara Malaysia, penduduk tetap, pembeli rumah pertama kali, dan pembeli asing (tunduk pada pembatasan dan tarif bea tambahan)"
 
 lang: "id"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,32 @@ faq:
   - q: Mengapa pembeli sering kali akhirnya membayar dua set biaya hukum untuk satu pembelian?
     a: Karena ada dua dokumen terpisah yang berjalan secara paralel, ditangani atas nama klien yang berbeda. Satu pengacara menyusun dan memeteraikan Perjanjian Jual Beli yang mengalihkan properti; pengacara lain — ditunjuk oleh bank, kadang kantor yang sama mengenakan topi kedua — menyiapkan Perjanjian Pinjaman dan Pembebanan (Formulir 16A) yang menjamin kepentingan bank. Pengacara bank melindungi pembebanan bank, bukan uang muka pembeli, sehingga peran dan biaya mereka berbeda.
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'Pintu masuk berpapan nama dan pos jaga pengembangan perumahan Cassia Homes di Seremban saat senja, dengan rumah teres di belakangnya.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: Rumah-rumah yang baru dibangun dan tanah kosong menandai proyek perumahan baru yang tengah berkembang di Kepayang Heights, jenis proyek yang pembelinya mendaftar berdasarkan denah di galeri penjualan.
+    kind: representative
+    origin: third-party
+    subject: Proyek perumahan baru yang sedang dibangun di Kepayang Heights, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: Sebuah jalan berisi rumah tapak seragam yang baru rampung di Taman Idaman, Penang, jenis proyek jadi yang ditempati pembeli setelah kunci diserahkan.
+    kind: representative
+    origin: third-party
+    subject: Rumah tapak yang telah rampung di Taman Idaman, Seberang Perai Selatan, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 Biasanya dua orang pengacara terlibat dalam suatu pembelian rumah di Malaysia, dan kebanyakan pembeli sama sekali tidak menyadari bahwa mereka adalah dua orang yang berbeda. Seorang menyiapkan dan memeteraikan Perjanjian Jual Beli yang mengalihkan properti itu. Seorang lagi — ditunjuk oleh bank, kadang firma yang sama — menyiapkan dan memeteraikan perjanjian pinjaman serta gadaian yang memungkinkan bank menyita properti itu jika pinjaman tidak dibayar kembali. Pembeli yang menganggap "pengacara" itu sebagai satu tokoh tunggal dalam cerita ini biasanya bingung kemudian mengapa dua set biaya pengacara muncul, atau mengapa kunci rumah tidak sampai pada hari pinjaman disetujui.

@@ -97,6 +97,7 @@ dishFacts:
   halal: "Satai tradisional adalah makanan Melayu dan Jawa — ayam, sapi, atau kambing yang dimarinasi dan dibakar di atas arang — dan intrinsik halal, itulah sebabnya ia hadir di pesta pernikahan dan bazar Ramadan. Satai celup Melaka dan satai lok-lok Penang adalah adaptasi Tionghoa-Malaysia yang sering tidak halal, jadi tanyakan ke tiap gerai sebelum memesan."
   eat: "Pesanan satai jarang datang hanya berupa tusukan: ia disertai saus kacang hangat untuk mencocol, nasi padat (ketupat yang dikukus dalam anyaman daun palem, atau nasi impit yang dipotong dadu), serta irisan mentimun dan bawang mentah yang menyejukkan untuk memotong rasa gurih. Acar terkadang ikut di piring, dan satai kambing di beberapa tempat disajikan dengan kecap manis; ini makanan sosial, dimaksudkan untuk dibagi dalam jumlah lusinan."
   where: "Anda menemukan satai di gerai pinggir jalan, pasar malam, bazar Ramadan, dan meja perayaan di seluruh negeri. Kajang di Selangor adalah kota satai paling terkenal di Malaysia — 'Satay Kajang' adalah gaya yang dijual di seluruh negeri, diwartakan sebagai makanan warisan negeri Selangor pada 2025 — sedangkan Melaka terkenal dengan hotpot satai celup komunal, Johor dengan gerai pasar malam di seluruh selatan, dan Kuala Lumpur dengan gerai gaya Kajang di seluruh kota."
+wikidata: "Q209253"
 ---
 
 Yang datang lebih dulu adalah suaranya: sebuah kipas tangan mengebas di atas parit bara arang

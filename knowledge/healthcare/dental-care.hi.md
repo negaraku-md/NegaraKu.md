@@ -26,7 +26,7 @@ verificationNeeded:
   - "KKM अस्पतालों में दंत विशेषज्ञता क्षेत्रों की सटीक संख्या और विशेषज्ञ दंत क्लीनिकों के विस्तृत दायरे की सीधे पुष्टि नहीं की जा सकी, क्योंकि आधिकारिक साइट hq.moh.gov.my/ohp लेखन के समय अगम्य थी (connection refused); इस लेख में विवरण सामान्य बना हुआ है और विशिष्ट संख्याएँ नहीं बताता।"
   - "सरकारी दंत क्लीनिकों में वरिष्ठ नागरिकों, बच्चों और कुछ समूहों के लिए शुल्क छूट की नीति का द्वितीयक स्रोतों में व्यापक रूप से उल्लेख है, लेकिन यहाँ इसकी पुष्टि नहीं की गई है क्योंकि यह लेख जानबूझकर शुल्क नहीं बताता — वर्तमान जानकारी के लिए कृपया संबंधित क्लीनिक के पंजीकरण काउंटर से जाँच करें।"
 lang: "hi"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ keywords:
   - "Akta Pergigian 2018"
   - "सरकारी दंत क्लीनिक खोज"
 framework: explainer
+hero: '/media/healthcare/dental-care/hero.webp'
+heroAlt: 'दंत सेवाओं को सूचीबद्ध करने वाले नाम-पट्ट के साथ एक मलेशियाई दंत क्लिनिक, क्लिनिक पेरगिगियान याप का सड़क-मुख।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: एक सुव्यवस्थित दंत शल्यकक्ष में एक खाली दंत उपचार कुर्सी, उसके ऊपरी जाँच प्रकाश, ऑपरेटर मॉनिटर और कुल्ला बेसिन के साथ
+    kind: representative
+    origin: third-party
+    subject: क्लिनिक उपचार कक्ष में ऊपरी लैंप, रोगी मॉनिटर और थूकदान वाली एक दंत उपचार कुर्सी
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: एक खाली दंत शल्यकक्ष जिसमें एक उपचार कुर्सी, एक हैंडपीस डिलीवरी ट्रॉली, एक एक्स-रे फ़िल्म व्यूअर और ऑक्सीजन तथा वैक्यूम दीवार आउटलेट दिख रहे हैं
+    kind: representative
+    origin: third-party
+    subject: एक दंत उपचार कक्ष जिसमें दंत कुर्सी, उपकरण डिलीवरी इकाई, एक्स-रे व्यूअर और दीवार गैस आउटलेट हैं
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 बहुत से लोग मान लेते हैं कि «दंत क्लीनिक» एक ही चीज़ है — किसी सड़े हुए दाँत को भरने या अक्ल दाढ़ निकालने की जगह। लेकिन मलेशिया में, दंत देखभाल वास्तव में दो अलग पटरियों पर चलती है: एक को सरकार मलेशिया के स्वास्थ्य मंत्रालय (KKM) के माध्यम से चलाती है, और दूसरी को निजी क्षेत्र — और दोनों के बीच उपचार का दायरा एक जैसा नहीं है।

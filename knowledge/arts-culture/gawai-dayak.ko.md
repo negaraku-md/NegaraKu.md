@@ -35,7 +35,7 @@ faq:
     a: "둘은 주제를 공유하는 별개의 축제입니다. 가와이 다약은 6월 1일과 2일에 열리는 사라왁 다약의 추수 축제입니다. 카아마탄은 5월 30일과 31일에 열리는 사바 카다잔두순의 추수 축제입니다. 둘 다 벼 수확에 감사를 드리지만, 공동체와 의례, 날짜가 다릅니다."
 
 lang: "ko"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "매년 6월 1일과 2일이다. 준수는 5월 31일 저녁에 시작되며, 보다 넓은 Gawai 시즌은 6월 말경 ngiling tikai(「돗자리 말기」)로 공식적으로 마무리된다."
   holiday: "사라왁 주의 공휴일이다(1964년 9월 25일 관보 공고)."
   etiquette: "롱하우스의 문이 활짝 열린다 — 찾아오는 가족, 이웃, 손님에 대한 환대가 축제의 일부다. 흔한 인사말은 'Gayu Guru, Gerai Nyamai'(장수, 건강, 번영) 또는 'Selamat Hari Gawai'이다. 이는 무엇보다 가족과 롱하우스의 준수이지, 관광용 쇼가 아니다."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: '코뿔새 깃털 머리장식과 모피 조끼를 입은 이반족 전사 무용수가 전통 다약 벽화 배경의 무대에서 응아잣 춤을 추는 모습'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: 사라왁 쿠칭의 가와이 다약 퍼레이드에서 정교한 은빛 머리장식, 구슬 세공, 깃털 관을 쓴 이반족과 오랑 울루족 공연자들
+    kind: actual
+    origin: third-party
+    subject: 쿠칭의 가와이 다약 퍼레이드에서 완전한 전통 복장을 갖춘 다약족 공연자들
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: 가와이 다약을 기리는, 사라왁 이반족 롱하우스 안의 길고 공동으로 쓰는 나무 복도(루아이)
+    kind: actual
+    origin: third-party
+    subject: 사라왁 이반족 롱하우스의 공동 복도
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 5월의 마지막 날, 시계는 아직 자정을 치지 않았고, 사라왁의 어느 강가 롱하우스에서는 공(gong)이 기다리고 있습니다. 벼는 거두어졌습니다. 회랑은 쓸리고 새 돗자리가 걸렸습니다. 투악 항아리 하나가 준비되어 있습니다. 마침내 공이 울리면 롱하우스 촌장이 잔을 들고, 긴 공용 툇마루에 늘어선 모두가 같은 세 마디를 위해 마십니다. 장수, 건강, 번영.

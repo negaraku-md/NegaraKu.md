@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs recherchant un profil factuel de Sabah — sa géographie, son économie et son gouvernement — et un compte rendu neutre de sa position constitutionnelle en vertu de l'Accord de la Malaisie de 1963."
 
 lang: "fr"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "mont Kinabalu", "Accord de la Malaisie de 1963", "Terre sous le vent", "économie de Sabah", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'Les pics de granit gris déchiquetés du mont Kinabalu s''élevant au-dessus des contreforts boisés et des cimes vertes des arbres sous un ciel bleu.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: La mosquée municipale de Kota Kinabalu, blanche et or, reflète ses dômes dans le lagon artificiel qui l'entoure sur la côte de Sabah.
+    kind: actual
+    origin: third-party
+    subject: Mosquée municipale de Kota Kinabalu, Sabah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: Une plage claire parsemée de bois flotté encercle les eaux peu profondes turquoise de l'île de Mataking, au large de Semporna, dans le Sabah.
+    kind: actual
+    origin: third-party
+    subject: Île de Mataking, près de Semporna, Sabah
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 Sabah n'a pas rejoint la Malaisie comme un État s'ajoutant à un pays. Il l'a

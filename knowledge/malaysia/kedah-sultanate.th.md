@@ -21,7 +21,7 @@ appliesTo: "นักเรียน นักวิจัย นักเดิ
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "ศักราชการสถาปนาตามธรรมเนียมในปี ค.ศ. 1136 และการเปลี่ยนพระองค์มหาวังสา (Phra Ong Mahawangsa) มาเป็นสุลต่านมุดซัฟฟาร์ ชาห์ ที่ 1 นั้นมาจากพงศาวดารเกอดะฮ์ (Hikayat Merong Mahawangsa) และ At-Tarikh Salasilah Negeri Kedah นักประวัติศาสตร์ถือว่าศักราชยุคต้นนี้ไม่น่าจะเป็นไปได้ และริชาร์ด วินสเตดต์ (Richard Winstedt) ซึ่งอ้างบันทึกของชาวอาเจะฮ์ ให้ปี ค.ศ. 1474 เป็นปีแห่งการเข้ารับอิสลาม"
   - "การกล่าวถึงเกอดะฮ์บ่อยครั้งว่าเป็น 'รัฐสุลต่านมลายูที่เก่าแก่ที่สุด' เป็นการให้ลักษณะตามธรรมเนียม/ความนิยม และไม่ได้รับการยืนยันอย่างเป็นอิสระจากแหล่งที่มาที่อ้างอิงในที่นี้"
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'มัสยิดสไตล์มัวร์สีขาวอันสง่างาม ยอดประดับด้วยโดมหัวหอมสีดำเป็นกลุ่มและหอคอยเรียวสูง ด้านหน้าทรงโค้งลวดลายวิจิตรตั้งตระหง่านเหนือลานโล่งกว้างใต้เมฆทะมึน'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: ท้องพระโรงบาไลเบอซาร์ไม้อันวิจิตรในอาโลร์เซอตาร์ ศาลาโปร่งสีเหลืองที่มีเสาแกะสลัก ชายคาหยักโค้ง และหลังคาซ้อนชั้น
+    kind: actual
+    origin: third-party
+    subject: บาไลเบอซาร์ (ท้องพระโรง) ในอาโลร์เซอตาร์ รัฐเกอดะฮ์
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: หอคอยบาไลโนบัตทรงแปดเหลี่ยมสูงในอาโลร์เซอตาร์ โครงสร้างเรียวคล้ายหอคอยสุเหร่าสีครีมและทอง มียอดเป็นโดมทรงหัวหอมขนาดเล็ก ซึ่งเก็บวงดนตรีประกอบพิธีหลวง
+    kind: actual
+    origin: third-party
+    subject: บาไลโนบัต หอคอยแปดเหลี่ยมที่เก็บวงดนตรีโนบัตหลวงของรัฐเกอดะฮ์ ในอาโลร์เซอตาร์
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 มีไม่กี่แห่งในมาเลเซียที่แสดงอดีตของตนออกมาอย่างเปิดเผยเท่าเกอดะฮ์ นานก่อนที่หอคอยสุเหร่าจะผุดขึ้นเหนืออาโลร์เซอตาร์ (Alor Setar) ที่ราบสีเขียวของนาข้าวระหว่างแม่น้ำเมอร์บก (Merbok) และแม่น้ำมูดา (Muda) เคยเป็นจุดแวะพักของพ่อค้าที่โต้ลมมรสุมไปมาระหว่างอินเดีย จีน และโลกมลายู กะลาสีและนักปราชญ์รู้จักชายฝั่งนี้ในนาม Kadaram หรือ Kataha ส่วนนักโบราณคดีทุกวันนี้รู้จักมันจากเนินโบราณสถานของหุบเขาบูจัง (Bujang Valley) จากจุดเริ่มต้นแบบฮินดู-พุทธที่เป็นสากลนั้นได้เติบโตเป็นระบอบกษัตริย์มลายูที่ผ่านพ้นทั้ง[ศรีวิชัย](/th/malaysia/srivijaya)และโจฬะ อยุธยาและกรุงเทพฯ และในที่สุดคือจักรวรรดิอังกฤษ

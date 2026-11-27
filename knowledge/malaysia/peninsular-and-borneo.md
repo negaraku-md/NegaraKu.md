@@ -76,6 +76,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'A regions map of Malaysia with Peninsular Malaysia and East Malaysia on Borneo shown as separate colour-coded blocks across the South China Sea.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: A flat expanse of vivid green rice paddies stretches to a low tree-lined horizon under a wide pale-blue sky.
+    kind: actual
+    origin: third-party
+    subject: Lowland rice paddies at Sekinchan, Selangor (Peninsular Malaysia)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: A broad, muddy brown rainforest river curves between dense jungle banks, with small green wooden boats moored at a timber jetty.
+    kind: actual
+    origin: third-party
+    subject: The Kinabatangan River at Sukau, Sabah (Bornean Malaysia)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 Fly domestic from Kuala Lumpur to Kota Kinabalu and you land in the same country you left. Same currency, same passport, same flag on the tail fin. And yet, at the arrival hall, you queue at an immigration-style counter and someone checks your identity card or passport before you're allowed through. No other flight inside Malaysia works that way.

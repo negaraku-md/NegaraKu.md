@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يعيش في ماليزيا ويحتاج إلى فهم من الذي يجمع النفايات في منطقته، وما إذا كان مُلزَمًا بفصل النفايات من المنبع، وما المخاطرة إن لم يفعل."
 
 lang: "ar"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,6 +68,32 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["النفايات ماليزيا", "إعادة التدوير ماليزيا", "فصل النفايات من المنبع", "المجلس المحلي النفايات", "sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'شاحنة نفايات تابعة لشركة KDEB لإدارة النفايات تجمع القمامة خارج مجمّع شقق في كوتا دامانسارا بولاية سلانجور.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: حاوية قمامة عامة زرقاء تحمل شعار المجلس المحلي MBPJ على حافة عشبية في Kota Damansara، سلانجور
+    kind: representative
+    origin: third-party
+    subject: حاوية قمامة تابعة للمجلس تحمل شعار MBPJ (مجلس مدينة Petaling Jaya) في Kota Damansara
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: صفّ من أربع حاويات إعادة تدوير معنونة للورق والعلب والبلاستيك والزجاج والنفايات غير القابلة لإعادة التدوير في مكان عام بكوالالمبور
+    kind: representative
+    origin: third-party
+    subject: حاويات إعادة تدوير مفصولة للورق والعلب والبلاستيك والزجاج والنفايات غير القابلة لإعادة التدوير في كوالالمبور
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 تُجمع حاوية نفاياتك مرتين أسبوعيًا، لكن هل سألت يومًا من الذي يجمعها فعلاً — المجلس المحلي، أم شركة أخرى عيّنها المجلس؟ ولماذا قد يُغرَّم جارك في الولاية المجاورة لعدم فصله زجاجات البلاستيك عن بقايا الطعام، بينما لا تُغرَّم أنت؟

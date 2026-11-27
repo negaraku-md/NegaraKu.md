@@ -34,7 +34,7 @@ faq:
     a: "தனியார் பல்கலைக்கழகங்களும் பொதுவாக ஆங்கில மொழித் திறனுக்கான சான்றைக் கோருகின்றன. உள்ளூர் மாணவர்கள் பொதுவாக MUET முடிவுகளைச் சமர்ப்பிக்கிறார்கள், அதேசமயம் திட்டம் மற்றும் நிறுவனத்தைப் பொறுத்து IELTS அல்லது TOEFL போன்ற சமமான தகுதிகள் ஏற்கப்படலாம்."
 
 lang: "ta"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: 'ஒரு இளங்கலைப் பட்டத்திற்கு விண்ணப்பிக்கும் பல்கலைக்கழகத்திற்கு முந்தைய மாணவர்களுக்கானது (STPM, matriculation, foundation அல்லது டிப்ளோமா) இது; இவர்களுக்கு MUET என்பது அரசு பல்கலைக்கழகங்களில் கட்டாய ஆங்கிலத் திறன் கதவாகும்.'
+  how: 'Malaysian Examinations Council (MPM, மலேசியத் தேர்வுகள் மன்றம்) மூலம் MUET-இன் நான்கு தாள்களை — Listening, Speaking, Reading மற்றும் Writing — எழுதவும்; உங்கள் மொத்த மதிப்பெண் ஒரு band-ஆக வரையறுக்கப்படுகிறது, ஒவ்வொரு பல்கலைக்கழகத்தின் Senate-ம் ஒவ்வொரு படிப்புக்கும் தேவையான குறைந்தபட்ச band-ஐ நிர்ணயிக்கிறது.'
+  cost: 'கட்டணங்கள் MPM-ஆல் நிர்ணயிக்கப்படுகின்றன; குடியுரிமையற்றவர்களுக்கும், கணினி அடிப்படையிலான MUET on Demand பதிப்பிற்கும் அவை அதிகம், மேலும் மாறுகின்றன — மேற்கோள் காட்டப்பட்ட ஒரு எண்ணிக்கையை நம்பாமல், தற்போதைய கட்டணத்தை MPM இணையவாயிலில் (mpm.edu.my) உறுதிப்படுத்தவும்.'
+  watch: 'ஒரே ஒரு தேர்ச்சி band என்று எதுவும் இல்லை — குறைந்தபட்சம் படிப்புக்கு ஏற்ப மாறுபடுகிறது, இதை ஒவ்வொரு பல்கலைக்கழகத்தின் Senate-ம் நிர்ணயிக்கிறது. முடிவுகள் ஐந்து ஆண்டுகளுக்குச் செல்லுபடியாகும்; எனவே மிக முன்னதாக எழுதினால், நீங்கள் விண்ணப்பிப்பதற்குள் அவை காலாவதியாகலாம்.'
+  next: 'உங்கள் இலக்குப் படிப்பின் குறைந்தபட்ச band-ஐ பல்கலைக்கழகத்தின் இணையதளத்தில் சரிபார்த்து, MPM மூலம் முன்கூட்டியே பதிவு செய்து, ஐந்தாண்டு செல்லுபடியைக் கண்காணிக்கவும். அரசு vs தனியார் பல்கலைக்கழகங்கள் என்பதைப் பார்க்கவும்.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'மலேசியாவில் ஒரு பல்கலைக்கழக மண்டபத்தில் தனித்தனி மேசைகளில் அமர்ந்து தேர்வு எழுதும் மாணவர்களின் வரிசைகள், ஒரு மேற்பார்வையாளர் வரிசைகளுக்கு இடையே நடந்து செல்கிறார்.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: தேர்வு நடத்தும் இடமாகப் பயன்படுத்தப்படும் மலேசியப் பள்ளியின் பெரிய மண்டபத்தின் உட்புறம்; மேடையும் வரிசையான தரை இடமும் கொண்டது
+    kind: representative
+    origin: third-party
+    subject: தேர்வு எழுதப் பயன்படுத்தப்படும் மலேசியப் பள்ளி மண்டபம்
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: மலேசியப் பல்கலைக்கழக வளாகத்தில் உள்ள விரிவுரை மண்டபத் தொகுதியின் வான்வழிக் காட்சி
+    kind: representative
+    origin: third-party
+    subject: Universiti Pendidikan Sultan Idris (UPSI)-இல் விரிவுரை மண்டபத் தொகுதி
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 நீங்கள் STPM அல்லது மெட்ரிகுலேஷனில் சிறந்து விளங்கலாம், ஆனால் இன்னொரு முடிவு இல்லாமல் உங்கள் பட்டப் படிப்பு விண்ணப்பப் படிவம் இன்னும் முழுமையடையாது. அந்த முடிவுதான் MUET — பல மாணவர்கள் பல்கலைக்கழக விண்ணப்ப இறுதித் தேதி நெருங்கும்போதுதான் அதன் முக்கியத்துவத்தை உணர்கிறார்கள்.

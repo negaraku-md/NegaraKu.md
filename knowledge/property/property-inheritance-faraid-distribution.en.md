@@ -30,7 +30,7 @@ faq:
     a: "A small estate containing immovable property and valued below RM5 million is handled by the Land Administrator through the District Land Office, which issues a Distribution Order."
 
 lang: "en"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ sources:
 relations:
   - { rel: "related-to", to: "property-buying-a-home-guide" }
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
-related: []
+related: ["faraid-and-islamic-inheritance", "wills-and-probate-in-malaysia", "real-property-gains-tax"]
 keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "sijil faraid", "pewarisan hartanah", "harta pusaka kecil", "Pejabat Tanah"]
 framework: explainer
+hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'
+heroAlt: 'A row of established terrace houses behind the Taman Idaman neighbourhood signboard in Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: A traditional stilted timber Malay house with a pitched roof in a rural setting
+    kind: representative
+    origin: third-party
+    subject: A traditional timber Malay kampung house, a commonly inherited type of family home
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: An ageing single-storey landed house in Temoh, Perak, of a kind often passed down to heirs
+    kind: representative
+    origin: third-party
+    subject: An old landed family house in Temoh, Perak
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 When someone dies in Malaysia, who inherits their house depends first on one fundamental matter: whether the deceased was a Muslim or a non-Muslim. Two different legal systems govern the answer, and both run through different authorities before any land title can change name.

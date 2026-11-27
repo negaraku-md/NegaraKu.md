@@ -79,9 +79,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'Tangga luar dan pintu masuk sebuah bangunan bertuliskan "PUSAT SUMBER PERMATAPINTAR", pusat sumber program pendidikan pintar berbakat kebangsaan Malaysia.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: Murid duduk di deretan komputer meja semasa sesi pembelajaran di makmal komputer sebuah sekolah menengah di Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Pelajar bekerja di makmal komputer sebuah sekolah di Malaysia
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: Sebuah makmal penyelidikan universiti di UTM, Johor yang dilengkapi kenderaan dan peralatan, jenis kemudahan termaju yang mencabar pelajar berkebolehan tinggi.
+    kind: representative
+    origin: third-party
+    subject: Makmal kejuruteraan termaju di Universiti Teknologi Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 Seorang kanak-kanak berumur 10 tahun yang menyelesaikan matematik tingkatan lima tidak selalu terserlah di dalam kelas biasa — dan di Malaysia, satu-satunya pusat kebangsaan yang direka untuk mencari dan mengasah minda seperti ini ialah PERMATApintar.

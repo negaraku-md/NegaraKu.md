@@ -32,7 +32,7 @@ faq:
   - q: "هل كل المعابد الهندوسية في ماليزيا معابد لموروغان أو مارِيَمّان؟"
     a: "مع أن غالبية المعابد مُكرَّسة لشيفا أو موروغان (الشيفية) أو أمّان/مارِيَمّان (عبادة شاكتي)، فليست هي النوع الوحيد. ففي ماليزيا أيضًا معابد فيشنوية مُكرَّسة لفيشنو، ومعابد من التقليد الماليالي والشمال هندي، ومعابد غوردوارة للسيخ. وتختلف تفاصيل العمارة قليلًا أيضًا تبعًا لتقليد العبادة."
 lang: "ar"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: 'غوبورام معبد جنوب هندي هرمي شاهق يرتفع إلى قمة، كل طبقة مكتظة بآلهة هندوسية وخيول وأشكال منحوتة ملوّنة بالأحمر والأخضر والأزرق والذهبي، مُصوّر بالنظر إلى الأعلى بشدّة أمام سماء زرقاء بغيوم'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: الواجهة الأمامية الملونة لمعبد هندوسي جنوب هندي ببرج منحوت فوق المدخل، تحيط به تماثيل كبيرة ملوّنة لغانيشا وإله آخر تحت مظلات مذهّبة، مزيّنة بأعلام مثلثة احتفالية أمام سماء زرقاء صافية
+    kind: actual
+    origin: third-party
+    subject: الواجهة الأمامية لمعبد سري ماهاماريامان في جورج تاون، بينانغ، مع غوبورامه المنحوت ومدخله المحاط بتماثيل كبيرة لغانيشا وموروغان
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: برج ضريح هندوسي مزخرف ملوّن تعلوه تماثيل منحوتة لآلهة يقف داخل كهف شاسع من الحجر الجيري، جدرانه الصخرية الحادة مكسوّة بنباتات خضراء متدلية ويضيئها ضوء النهار من الأعلى
+    kind: actual
+    origin: third-party
+    subject: برج ضريح هندوسي مزخرف ملوّن داخل معبد كهوف باتو الجيري قرب كوالالمبور، أمام جدران الكهف الشاهقة المكسوّة بالخضرة
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 حين تقترب من أي حيٍّ في مدينة ماليزية ضربت فيه جالية تاميلية بجذورها، يلفت ناظريك من بعيد برجٌ مكسوّ بالمنحوتات يشرئبّ نحو السماء. ذلك البرج البوابي، بصفوف تماثيل الآلهة الملوّنة المتراصّة طبقةً فوق طبقة، ليس وليد المصادفة — إنه امتداد لتقليد معماري عمره ألف عام؛ وعلامة على إرث ثقافي حمله من هم من أصل تاميلي جنوب هندي معهم إلى ماليزيا.

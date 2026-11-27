@@ -32,7 +32,7 @@ seoTitle: "Malaysian Chinese Dialects: Hokkien, Cantonese, Hakka by Region"
 socialTitle: "Same Chinese, So Why Different Tongues? Malaysia's Dialect Map"
 
 lang: "en"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,32 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'The green pagoda-roofed gateway over Jalan Petaling in Kuala Lumpur''s Chinatown, marked ''Petaling Street'' with red lanterns and Chinese shop signage above a busy market street.'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: Ornately painted door panels of robed figures and a tiger relief at a Teochew Chinese ancestral temple in Penang
+    kind: actual
+    origin: third-party
+    subject: Painted door-gods and tiger relief at the Han Jiang Ancestral Temple, the Teochew dialect-group temple in George Town, Penang
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: Weathered two-storey Chinese shophouses with shuttered windows and covered five-foot walkways lining a quiet George Town street
+    kind: actual
+    origin: third-party
+    subject: A row of old Chinese shophouses with five-foot-ways on a street in George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 At a coffee shop in Penang, you order a kopi in Hokkien; in Kuala Lumpur and Ipoh, the same cup of coffee gets called for in Cantonese; head further to Sibu in Sarawak, and whoever serves you is likely to speak Foochow. All three are Chinese Malaysians — yet they are speaking three mutually unintelligible tongues.

@@ -34,7 +34,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "708bcc89edd82a37"
+sourceContentHash: "02161f570b373038"
 masterLanguage: "en"
 
 status: "published"
@@ -80,6 +80,33 @@ relations:
   - { rel: "related-to", to: "belacan" }
   - { rel: "related-to", to: "kelantan-food" }
   - { rel: "related-to", to: "sambal" }
+hero: '/media/food/belacan-cincalok-budu/hero.webp'
+heroAlt: '御影石の臼で搗きたての鮮やかな赤いサンバル・ブラチャン。横に緑のライムと赤唐辛子'
+heroCredit: 'Mdsheth1986 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sambal_Belacan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sambal belacan being pounded with fresh chillies in a stone mortar (batu lesung)'
+images:
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-1.webp
+    alt: スライスしたエシャロットと赤唐辛子を混ぜた、ピンクがかったチンチャロッ（小エビの塩辛）の一皿
+    kind: actual
+    origin: third-party
+    subject: スライスしたエシャロットと唐辛子を添えて、薬味として供されるチンチャロッ
+    credit: Alpha from Melbourne, Australia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cincalok,_shallots,_chilli.jpg
+  - role: scene
+    src: /media/food/belacan-cincalok-budu/body-2.webp
+    alt: 未熟なマンゴー、エシャロット、赤唐辛子の細切りを添えた、濃い茶色のブドゥ（アンチョビソース）のガラスボウル
+    kind: actual
+    origin: third-party
+    subject: スライスしたマンゴー、エシャロット、唐辛子を添えたブドゥ（発酵アンチョビソース）のディップ
+    credit: Yosri / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg
 ---
 
 マレーシアのどの市場（wet market）でも、カンポン（kampung）の台所でも、クダイ・ルンチッ（kedai runcit、よろず屋）の瓶詰め調味料の棚でも、同じ三つの名前に出会います——**ブラチャン（belacan）**、**チンチャロ（cincalok）**、**ブドゥ（budu）**。見た目も匂いも一つの家族のようで——どれも塩辛く、どれも香りが強く、どれも小さな海の生き物を塩で発酵させて作られ——メニューやレシピでも名前が大まかに使われがちです。しかしこれらは別々に作られた、出発点の異なる、使い方の異なる三つの別物です。どれがどれかを知っておけば、生で食べるべきものをあぶってしまったり、エビペーストを使うべきところに魚醤を注いでしまったりせずにすみます。

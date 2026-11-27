@@ -87,6 +87,14 @@ drinkFacts:
   halal: "El air kelapa es un único ingrediente vegetal —agua de coco— sin nada añadido salvo, a veces, hielo o un poco de sirope, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada puesto."
   served: "Se sirve frío, normalmente directamente de la cáscara con una pajita, o vertido sobre hielo en un vaso o bolsa con la pulpa joven rebañada. Algunos lo prefieren solo; a veces se ofrece un poco de sirope de azúcar pero no hace falta. El kelapa bakar es la variación a la parrilla; las bolsas congeladas tipo «slushie» son una versión moderna."
   where: "Se encuentra en puestos de carretera, mercados húmedos y nocturnos, patios de comidas y playas por todo el país —dondequiera que un vendedor pueda apilar y refrigerar cocos jóvenes—, además de embotellado y congelado en tiendas."
+hero: "/media/food/air-kelapa/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Un vendedor ambulante abriendo un coco joven y verde con un machete, junto a un montón de cocos"
+heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 En una carretera malasia, pocas cosas dicen «calor tropical» más llanamente que un

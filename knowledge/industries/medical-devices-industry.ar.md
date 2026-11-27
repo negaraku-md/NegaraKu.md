@@ -31,7 +31,7 @@ faq:
   - q: "ما الحوافز المتاحة للمصنّعين؟"
     a: "الأجهزة الطبية نشاط تروّج له MIDA، مؤهّل لحوافز مثل الوضع الريادي (Pioneer Status) (إعفاء جزئي إلى كامل من ضريبة الدخل لمدة محددة) وبدل ضريبة الاستثمار (Investment Tax Allowance) على الإنفاق الرأسمالي المؤهّل. كما سُمّيت الأجهزة الطبية قطاعًا ذا أولوية ضمن الخطة الصناعية الرئيسية الجديدة 2030. تأكّد من الشروط والأهلية الحالية مباشرةً مع MIDA."
 lang: ar
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'قوالب على شكل أيدٍ مغطّاة باللاتكس السائل على خطّ الغمس، وهي العملية الأساسية في تصنيع القفازات أحادية الاستخدام.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: عمّال يرتدون أرواب وأغطية رأس واقية يشغّلون معدّات على خطّ إنتاج دوائي معقّم.
+    kind: representative
+    origin: third-party
+    subject: خطّ إنتاج دوائي/منتجات طبية معقّم بعمّال مرتدين أروابًا (مثال للتصنيع الطبي)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: فنّيون يرتدون أروابًا ومعدّات من الفولاذ المقاوم للصدأ على خطّ إنتاج في غرفة نظيفة داخل منشأة لتصنيع المنتجات الطبية.
+    kind: representative
+    origin: third-party
+    subject: خطّ إنتاج في غرفة نظيفة بمنشأة لتصنيع المنتجات الطبية (مثال)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 إن سبق أن ارتديت قفازًا جراحيًا، أو سُحب دمك عبر قثطار، أو تعافيت بمساعدة غرسة عظمية، فثمة احتمال معقول أن الجهاز صُنع في ماليزيا. فإلى جانب قفازات المطاط الشهيرة، صارت البلاد بهدوء أهم مكان لتصنيع الأجهزة الطبية في جنوب شرق آسيا — وواحدة من أهم قواعد تصنيع التقنية الطبية في أي مكان في العالم.

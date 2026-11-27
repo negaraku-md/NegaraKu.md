@@ -36,7 +36,7 @@ faq:
     a: "Cả hai đều tồn tại. Những nơi như Annah Rais gần Kuching là các cộng đồng nhà dài Bidayuh còn sinh sống nơi các gia đình vẫn cư trú, trong khi Sarawak Cultural Village gần Santubong là một bảo tàng sống được xây dựng chuyên biệt. Thăm một nhà dài đang sinh hoạt tốt nhất được sắp xếp trước và thường qua một hướng dẫn viên có thể diễn giải chuyến thăm một cách tôn trọng."
 
 lang: "vi"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách muốn thiên nhiên Borneo và văn hóa Dayak sống động, dùng Kuching thư thái, đi bộ được làm cơ sở cho đười ươi bán hoang dã của Semenggoh và các nhà dài Bidayuh, với các hang động và rừng mưa Di sản Thế giới của Gunung Mulu làm điểm bổ sung tiêu đề.'
+  getThere: 'Bay vào Kuching làm trung tâm chính, với Gunung Mulu chỉ đến được bằng các chuyến bay MASwings (từ Miri, Kuching hoặc Kota Kinabalu) vì không có đường bộ thực tế tới công viên.'
+  permit: 'Sarawak vận hành việc nhập cảnh riêng của mình, nên mọi người — kể cả người Malaysia từ Bán đảo — đều được thông quan và cấp một thẻ nhập cảnh khi đến (người nước ngoài nhận một con dấu Sarawak riêng ngoài dấu nhập cảnh Malaysia của họ, và hầu hết phải nộp MDAC trực tuyến trước), và các chuyến bay Mulu cùng các tour hang động có hướng dẫn nên được đặt trước.'
+  watch: 'Máy bay nhỏ của Mulu thường xuyên bị trì hoãn hoặc hủy do thời tiết, nên hãy dự trù thêm ngày đệm và đừng bao giờ đặt một chuyến nối chuyến sát nút rời khỏi công viên.'
+  next: 'Hãy xác nhận yêu cầu visa và MDAC hiện tại cho quốc tịch của bạn với Cục Nhập cảnh Malaysia (Immigration Department).'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'Một rừng chóp đá vôi xám lởm chởm xuyên qua rừng mưa xanh và sương mù ở Vườn quốc gia Gunung Mulu, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Một con đười ươi lông đỏ đu và với tay giữa những sợi dây thừng trong rừng mưa xanh rậm rạp tại Khu bảo tồn thiên nhiên Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Một con đười ươi hoang dã di chuyển trên dây thừng trong rừng mưa tại Khu bảo tồn thiên nhiên Semenggoh gần Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Một nhà dài Iban bằng gỗ dài dựng trên cọc với mái đỏ, phía sau là rừng mưa trên một sườn đồi ở Sarawak
+    kind: actual
+    origin: third-party
+    subject: Một nhà dài Iban truyền thống dựng trên cọc dọc bờ sông phủ rừng ở Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kuching trong chưa đầy hai giờ, không hề rời khỏi đất nước của mình, và vẫn được đóng dấu qua di trú ở đầu bên kia. Điều bất ngờ ở sảnh đến đó là điều quan trọng nhất cần hiểu về Sarawak: đó là một bang Malaysia vận hành biên giới riêng của mình.

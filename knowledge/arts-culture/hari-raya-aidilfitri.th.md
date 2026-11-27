@@ -34,7 +34,7 @@ faq:
     a: "การเปิดบ้านคือการปฏิบัติในการเชิญญาติ เพื่อนบ้าน และมิตรสหาย — รวมถึงจากชาติพันธุ์และศาสนาอื่น — มาเยือนและรับประทานอาหารตลอดช่วงเดือนเชาวาล มันกลายเป็นลักษณะทางสังคมที่แพร่หลายในมาเลเซีย และมักจัดโดยหน่วยงานราชการและบริษัทด้วย ไม่ใช่เฉพาะในบ้านส่วนตัว"
 
 lang: "th"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ festivalFacts:
   when: "วันที่ 1 Syawal ตามปฏิทินจันทรคติ วันที่ขยับเร็วขึ้นราว 11 วันในแต่ละปีตามปฏิทินสุริยคติ และกำหนดโดยการดูดวงจันทร์ (rukyah) ขึ้นใหม่"
   holiday: "วันแรกและวันที่สองได้รับการประกาศในราชกิจจานุเบกษาเป็นวันหยุดราชการสหพันธ์ทั่วทั้งมาเลเซีย"
   etiquette: "แขกต่างเชื้อชาติได้รับการต้อนรับสู่การเปิดบ้าน ควรแต่งกายสุภาพ และโดยปกติถอดรองเท้าก่อนเข้าบ้าน"
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'ฝูงชนในชุดบาจูมลายูในเทศกาลกำลังออกจากมัสยิดหมู่บ้านหอคอยคู่หลังละหมาดเช้าฮารีรายอที่อาโลร์ปงซู รัฐเประ'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: กะตุปัตปาลัสห่อด้วยใบปาล์มสานวางข้างจานเนื้อเรินดัง ซึ่งเป็นอาหารฮารีรายอ ไอดิลฟิตรีที่คลาสสิกในมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: กะตุปัตปาลัสกับเนื้อเรินดัง อาหารฮารีรายอที่คลาสสิก
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: ตะเกียงน้ำมันเปอลีตาทำจากไม้ไผ่จุดลุกโชนด้วยเปลวไฟสว่างในสวนมืดในช่วงเทศกาลฮารีรายอ ไอดิลฟิตรีในมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: ตะเกียงน้ำมันเปอลีตาไม้ไผ่ที่จุดในยามค่ำคืนช่วงฮารีรายอ
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 ในคืนสุดท้ายของรอมฎอน ทั้งประเทศเหมือนเคลื่อนไหวพร้อมกัน ทางด่วนเหนือ–ใต้แน่นขนัดหลายชั่วโมง สถานีรถโดยสารเต็มไปด้วยกระเป๋าและกล่องขนม แสงจากโคมไฟเปอลิตาส่องสว่างที่ระเบียงบ้านตั้งแต่ในเมืองจนถึงหมู่บ้านห่างไกล วันรุ่งขึ้น 1 เชาวาล การถือศีลอดหนึ่งเดือนสิ้นสุด — และมาเลเซียเฉลิมฉลองฮารีรายาอีดิลฟิตรี

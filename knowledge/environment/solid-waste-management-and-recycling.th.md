@@ -31,7 +31,7 @@ faq:
     a: "ส่วนใหญ่ไปหลุมฝังกลบ มาเลเซียดำเนินการหลุมฝังกลบ 135 แห่ง ได้แก่ ที่ทิ้งขยะแบบเปิด 114 แห่งและหลุมฝังกลบถูกสุขลักษณะ 22 แห่ง และหลุมฝังกลบยังคงเป็นวิธีการกำจัดหลักของประเทศ"
 
 lang: "th"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,9 +103,35 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'ศูนย์รับคืนรีไซเคิลของซูเปอร์มาร์เก็ตในรัฐยะโฮร์ ประเทศมาเลเซีย พร้อมถังที่มีป้ายภาษามลายูสำหรับเสื้อผ้า กระดาษ พลาสติก แก้ว และอะลูมิเนียม'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: หลุมฝังกลบขยะถูกสุขลักษณะบูกิตตาการ์ใกล้หมู่บ้านเซอปากัต ฮูลูสลังงอร์ รัฐสลังงอร์
+    kind: actual
+    origin: third-party
+    subject: หลุมฝังกลบขยะถูกสุขลักษณะบูกิตตาการ์ ฮูลูสลังงอร์ รัฐสลังงอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: รถเก็บขยะเทศบาลที่ดำเนินการโดยองค์กรปกครองส่วนท้องถิ่นในกูดัต รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: รถเก็บขยะเทศบาลในกูดัต รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 ทิ้งขยะในยะโฮร์แล้วมันกลายเป็นเรื่องของรัฐบาลสหพันธ์ ทิ้งขยะเดียวกันในปีนังแล้วมันยังเป็นเรื่องของสภาท้องถิ่น นั่นคือความแปลกประหลาดหลักในวิธีที่มาเลเซียจัดการขยะมูลฝอย คือกฎหมายสหพันธ์ที่ยิ่งใหญ่ แต่ใช้บังคับเฉพาะในที่ที่เห็นพ้องนำมาใช้เท่านั้น

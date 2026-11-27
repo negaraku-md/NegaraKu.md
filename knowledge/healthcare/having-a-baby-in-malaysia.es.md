@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona en Malasia que esté embarazada, planee un embarazo o acompañe a una pareja o familiar durante el embarazo, y quiera entender cómo encajan entre sí el sistema prenatal público, la atención privada y el registro del nacimiento."
 
 lang: "es"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -63,6 +63,32 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["tener un bebé en Malasia", "embarazo Malasia", "atención prenatal Malasia", "Libro Rosa embarazo", "Rekod Kesihatan Ibu", "klinik kesihatan embarazada", "parto público vs privado Malasia", "registro de nacimiento JPN", "maternidad Malasia", "parto hospital público Malasia"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'El exterior del bloque de maternidad (Hospital Bersalin) del Hospital Kuala Lumpur, con el perfil urbano al fondo.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: Una sala de maternidad limpia y moderna que muestra una cama de hospital vacía y una cuna transparente para recién nacidos, sin personas presentes
+    kind: representative
+    origin: third-party
+    subject: Una habitación de la sala de maternidad con una cama de hospital y, junto a ella, una cuna transparente para recién nacidos
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: Una sala de espera de la clínica prenatal del hospital, ordenada y vacía, con sillas grises y las palabras Antenatal Clinic en la pared
+    kind: representative
+    origin: third-party
+    subject: Una sala de espera vacía de clínica prenatal con hileras de asientos y las letras Antenatal Clinic en la pared
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 Una prueba de embarazo positiva pone en marcha dos relojes a la vez, y casi nadie lo explica de antemano. Un reloj tiene que ver con el embarazo en sí: cuándo registrarse, dónde, qué ocurre en cada visita. El otro solo arranca cuando llega el bebé, y no tiene nada que ver con los hospitales: es un registro legal ante un departamento completamente distinto.

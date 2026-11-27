@@ -96,9 +96,10 @@ relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "explained-in", to: "tribunal-tuntutan-pembeli-rumah" }
   - { rel: "related-to", to: "strata-titles-act-1985" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
 framework: rules
+wikidata: "Q142235984"
 ---
 
 Anda bayar deposit 10% untuk sebuah kondominium yang wujud hanya sebagai lukisan arkitek, kemudian menunggu tiga tahun sambil membayar ansuran pinjaman. Apa yang menghalang pemaju daripada lari dengan wang anda, membina lambat, atau menyerahkan unit yang cacat? Jawapannya ialah satu undang-undang berusia lebih setengah abad: Housing Development (Control and Licensing) Act 1966 — dikenali ringkas sebagai HDA atau Akta 118.

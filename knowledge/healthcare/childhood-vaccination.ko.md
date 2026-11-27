@@ -25,7 +25,7 @@ verificationNeeded:
   - "추가/선택 백신(예: 유료로 제공되는 비의무 백신)의 세부는 집필 시점에 KKM 공식 출처에서 확인할 수 없었으므로 이 글에서 구체적으로 언급하지 않습니다."
 
 lang: "ko"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,32 @@ relations:
 related: ["klinik-kesihatan", "having-a-baby-in-malaysia"]
 keywords: ["imunisasi kanak-kanak Malaysia", "Jadual Imunisasi Kebangsaan", "Program Imunisasi Kebangsaan KKM", "vaksin percuma klinik kesihatan", "buku rekod kesihatan bayi dan kanak-kanak", "vaksin kanak-kanak KKM", "Immunise4Life Malaysia", "imunisasi percuma Malaysia"]
 framework: explainer
+hero: '/media/healthcare/childhood-vaccination/hero.webp'
+heroAlt: '어린이를 위해 마련된 말레이시아 보건부 예방접종 센터로, 어린이 친화적인 ''나는 접종했어요'' 벽화가 있다.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: KKM(보건부) 브랜딩이 붙은 말레이시아 보건부 아동 예방접종 센터로, 대기 의자가 줄지어 있고 멀리 몇 명만 보인다
+    kind: actual
+    origin: third-party
+    subject: 보건부 아동 예방접종 센터(PPV PICKids), 쿠알라룸푸르 파빌리온 부킷 잘릴
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: 뚜껑이 닫힌 백신 바이알이 사전충전형 백신 주사기 옆에 세워져 있으며, 예방접종 일정에 따라 접종되는 백신을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 무지 바탕 위에 놓인 백신 바이알과 사전충전형 인플루엔자 백신 주사기
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 말레이시아 정부 클리닉이나 병원에서 태어난 모든 영아는 임시 출생증명서 이상의 것을 가지고 집으로 돌아갑니다 — 앞으로 6년 동안 *매번* 클리닉을 방문할 때마다 지참하게 될 작은 책 한 권을 함께 가지고 갑니다. 그 책과, 그 책에 기록되는 접종 일정은 이 나라에서 가장 오래 운영되어 온 공중보건 프로그램 중 하나의 일부입니다.

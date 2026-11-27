@@ -84,9 +84,15 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: 'เนื้อหานี้สำหรับนายจ้างที่กำลังเลือกพาสที่เหมาะสม หรือชาวต่างชาติที่กำลังเปรียบเทียบเส้นทางการทำงานในมาเลเซีย เพราะไม่มีวีซ่าทำงานมาเลเซียเพียงแบบเดียว'
+  how: 'ให้ผู้สนับสนุนและลักษณะงานเป็นตัวเลือกพาส ชาวต่างชาติที่นายจ้างสนับสนุนใช้ Employment Pass ผ่าน ESD โครงการระยะสั้นที่รับเงินจากต่างประเทศใช้ Professional Visit Pass พนักงานที่ทำงานทางไกลโดยมีนายจ้างต่างชาติใช้ DE Rantau Nomad Pass ผ่าน MDEC ชาวต่างชาติที่ทำงานมายาวนานใช้ Residence Pass-Talent ที่โอนย้ายได้ผ่าน TalentCorp และแรงงานที่ใช้แรงกายใช้ PLKS ภายใต้ระบบโควตาที่แยกต่างหาก ผู้สนับสนุน ไม่ใช่ตำแหน่งงาน เป็นตัวตัดสินว่าพาสใดใช้ได้'
+  cost: 'แต่ละพาสกำหนดเพดานเงินเดือนขั้นต่ำ เกณฑ์รายได้ หรือระยะเวลาของตัวเอง และสิ่งเหล่านี้มีการปรับปรุงเป็นระยะ ช่วงหมวดเงินเดือนของ Employment Pass เพิ่งได้รับการปรับปรุงเมื่อไม่นานมานี้ จึงควรยืนยันตัวเลขปัจจุบันกับหน่วยงานที่ออกพาส (ESD และ Immigration, MDEC หรือ TalentCorp) แทนที่จะยึดกับตัวเลขที่บอกต่อกันมา'
+  watch: 'Dependant Pass ไม่มีสิทธิในการทำงาน คุณต้องเปลี่ยนเป็น Employment Pass ก่อน Professional Visit Pass รวมถึง DE Rantau มีเพดานจำกัดและทำให้คุณยังคงรับเงินจากต่างประเทศ มีเพียง Residence Pass-Talent เท่านั้นที่โอนย้ายระหว่างนายจ้างได้ ส่วน Employment Pass ผูกติดกับผู้สนับสนุน และการเปลี่ยนนายจ้างจะทำให้ระยะเวลาเริ่มนับใหม่'
+  next: 'ระบุผู้สนับสนุนและลักษณะงานของคุณ ยืนยันเพดานเงินเดือนหรือรายได้ขั้นต่ำปัจจุบันและระยะเวลาของพาสนั้นกับหน่วยงานที่ออกพาส แล้วจึงยื่นผ่านหน่วยงานนั้น ดูบทความอธิบาย Employment Pass, DE Rantau และการเปรียบเทียบวีซ่าธุรกิจ'
 ---
 
 ไม่มีวีซ่าทำงานของมาเลเซีย มีตราสารแปดหรือเก้าฉบับที่ต่างกัน ดำเนินการโดยสี่หน่วยงานที่ต่างกัน และฉบับที่คุณต้องการถูกตัดสินโดย **ใครเป็นผู้จ่ายเงินเดือน** — ไม่ใช่โดยชื่อของงาน

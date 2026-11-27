@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -102,9 +102,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: '适合首次到访者、家庭与兴趣多元的旅人，他们追求海滩、免税购物与 UNESCO 地质公园——SkyCab 缆车、SkyBridge 天空之桥与红树林跳岛——多过世界级潜水。'
+  getThere: '飞抵浮罗交怡国际机场（LGK），或从本土的瓜拉吉打（Kuala Kedah）与瓜拉玻璃市（Kuala Perlis）码头乘客运渡轮前往瓜镇码头（Kuah Jetty）。'
+  permit: '浮罗交怡的免税价格仅适用于岛上；带回本土的货物适用马来西亚全国旅客免税额，该免税额设有最低合格停留天数，并对可免税带回的酒类、烟草与纪念品设限。'
+  watch: '别为带回家而过量购买免税烈酒——低廉价格是供你在岛上享用的，带回本土时只有有限的免税额能通关。'
+  next: '请向渡轮营运方确认当前的渡轮班次，并向马来西亚皇家关税局（RMCD）确认免税额。'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: '兰卡威天空之桥（Sky Bridge）弯曲地高悬于安达曼海上方丛林覆盖的山峰之间'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: 棕榈树与暗色礁石框住珍南海滩的白沙，旁边是碧绿海水，上方有一具滑翔伞
+    kind: actual
+    origin: third-party
+    subject: 珍南海滩，棕榈与碧绿海水
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: 红色的天空缆车吊舱滑行于茂密雨林上空，俯瞰浮罗交怡岛上的码头与碧绿海湾
+    kind: actual
+    origin: third-party
+    subject: 浮罗交怡天空缆车越过丛林与码头
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 99座岛屿、比鱼类还古老的岩石、廉价威士忌，以及一座悬挂在由估计逾5.5亿年历史岩石构成的山侧的缆车——浮罗交怡在马来西亚西北端外海的这一个群岛里，塞进了异乎寻常之多的内容。它是这个国家旗舰级的西海岸度假岛屿，运作逻辑几乎与半岛另一侧那些棕榈环绕的潜水岛屿相反。本指南涵盖出发前真正要紧的事项：让人栽跟头的免税规则、为风景提供背景故事的联合国教科文组织地质公园、天空缆车与天空之桥、值得一去的船游，以及如何在浮罗交怡与东海岸之间抉择。

@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar என்பது நுண்ணறிவும் திறமையும் மிக்க மாணவர்களுக்கான UKM இன் பல்கலைக்கழக முன் அடிப்படைத் திட்டம் ஆகும்; Perdana, Komersial மற்றும் Antarabangsa என மூன்று பிரிவுகளில் வழங்கப்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: 'மலேசியாவின் தேசிய திறமையாளர் கல்வித் திட்டத்தின் வள மையமான, "PUSAT SUMBER PERMATAPINTAR" என்று எழுதப்பட்ட கட்டிடத்தின் வெளிப்புறப் படிக்கட்டும் நுழைவாயிலும்.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: மலேசிய இடைநிலைப் பள்ளியொன்றின் கணினி ஆய்வகத்தில் பாடம் நடக்கும்போது வரிசையான மேசைக் கணினிகளில் அமர்ந்திருக்கும் மாணவர்கள்.
+    kind: representative
+    origin: third-party
+    subject: மலேசியப் பள்ளியொன்றின் கணினி ஆய்வகத்தில் பணியாற்றும் மாணவர்கள்
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: Johor-இல் உள்ள UTM-இன் வாகனங்களும் கருவிகளும் பொருத்தப்பட்ட பல்கலைக்கழக ஆராய்ச்சி ஆய்வகம்; உயர் திறன் கற்பவர்களை சவாலுக்கு உட்படுத்தும் உயர்தர வசதி வகை.
+    kind: representative
+    origin: third-party
+    subject: Universiti Teknologi Malaysia-வில் ஓர் உயர்தரப் பொறியியல் ஆய்வகம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 படிவம் ஐந்து (Form Five) கணிதத்தைத் தீர்க்கக்கூடிய 10 வயது சிறுவர் ஒருவர் சாதாரண வகுப்பறையில் எப்போதும் தனித்து விளங்குவதில்லை — மலேசியாவில், இதுபோன்ற அறிவுத்திறன்களைத் தேடிக் கண்டறிந்து வளர்ப்பதற்காக வடிவமைக்கப்பட்ட ஒரே ஒரு தேசிய மையம் PERMATApintar ஆகும்.

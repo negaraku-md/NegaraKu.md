@@ -62,7 +62,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "zakat-pendapatan" }
-related: []
+related: ["income-tax-individuals", "lhdn-e-ansuran-tax-instalments", "faraid-and-islamic-inheritance"]
 keywords: ["خصم الزكاة الضريبي", "zakat rebat cukai", "المادة 6A", "Seksyen 6A", "Income Tax Act 1967", "خصم الزكاة لدى LHDN", "الزكاة مقابل الإعفاء الضريبي", "هيئة الزكاة بالولاية", "badan zakat negeri"]
 framework: explainer
 ---

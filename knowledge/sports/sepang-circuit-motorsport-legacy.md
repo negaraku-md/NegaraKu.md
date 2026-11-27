@@ -121,6 +121,33 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'The vast pale fan-shaped tensile roof canopy of Sepang International Circuit''s main grandstand tower billowing above a circular viewing deck, with the empty racetrack and spectator stands curving away on both sides under a blue sky'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: A tightly packed pack of Formula One cars in team liveries fanning across the wide asphalt of Sepang's start-finish stretch on the opening lap, their tyres leaving dark marks on the track under bright sun
+    kind: actual
+    origin: third-party
+    subject: the Formula One field racing wheel-to-wheel down the Sepang circuit at the start of the 2015 Malaysian Grand Prix
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: A high aerial shot of the Sepang International Circuit set in green countryside, its grey ribbon of track winding in sweeping loops around the central grandstand and pit complex, with the runways and terminals of KLIA visible in the hazy distance above
+    kind: actual
+    origin: third-party
+    subject: an aerial view of the full Sepang International Circuit showing its distinctive looping track layout and paddock, with Kuala Lumpur International Airport beyond
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 In October 2026, Formula 1 cars will run at Sepang for the first time in nine years — and the trackside signage will read *Bahrain Grand Prix*. Malaysia is not the host on paper, will not pay the licence fee, and did not lobby its way back onto the calendar. It simply had the one thing Formula 1 suddenly needed: an empty, ready, top-tier circuit.

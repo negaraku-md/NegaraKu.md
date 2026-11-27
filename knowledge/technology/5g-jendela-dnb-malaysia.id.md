@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Pada 7 Maret 2026, CelcomDigi dan Maxis masing-masing menyelesaikan pembelian saham Kementerian Keuangan dalam DNB berjumlah RM327,872,640.28, menandai pemerintah keluar dari bisnis grosir 5G dan menjadikan DNB entitas milik swasta sepenuhnya yang dimiliki oleh perusahaan telko dan YTL."
 
 lang: "id"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'Dua menara telekomunikasi kisi di Bukit Nyabau di Bintulu, Malaysia, bersiluet dengan latar langit senja oranye dan biru'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: Menara ponsel monopole abu-abu yang tinggi dipuncaki antena jaringan seluler dan perangkat 5G, berdiri dengan latar langit biru cerah di atas atap-atap rumah pinggiran kota
+    kind: representative
+    origin: third-party
+    subject: Sebuah menara ponsel monopole yang membawa antena 5G dengan latar langit biru cerah
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: Tiang telekomunikasi di atap yang dilengkapi antena panel putih, piringan gelombang mikro, dan lemari stasiun pangkalan, menjulang di atas kota bertingkat rendah di bawah langit biru
+    kind: representative
+    origin: third-party
+    subject: Menara sel 5G di atap dengan antena panel dan piringan gelombang mikro di atas kota
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 Tanya dua orang Malaysia bagaimana jaringan seluler negara ini dikelola dan Anda seringnya akan mendapat dua jawaban yang berbeda dan setengah benar — karena sebenarnya ada dua kisah terpisah yang bercampur aduk. Satu adalah rencana cakupan pita lebar dengan nama yang kebanyakan orang pernah lihat pada spanduk pemerintah. Satu lagi adalah pertarungan cepat tentang siapa yang boleh memiliki pipa 5G. Memahami konektivitas Malaysia modern berarti memisahkan kedua kisah ini dengan jelas.

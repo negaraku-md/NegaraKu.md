@@ -27,7 +27,7 @@ faq:
   - q: "¿Gestiona el KKM hospitales privados?"
     a: "No. El KKM opera los hospitales y clínicas públicos y regula por separado la atención sanitaria privada en virtud de la Ley de Instalaciones y Servicios de Atención Sanitaria Privada de 1998 (Private Healthcare Facilities and Services Act 1998 (Act 586)), que establece normas mínimas de calidad y seguridad y limita las tarifas que los médicos pueden cobrar por los procedimientos."
 lang: "es"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,9 +79,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "Ministerio de Salud de Malasia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "sanidad pública Malasia", "Dzulkefly Ahmad", "tarifa clínica RM1"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: 'Una alta torre gubernamental de arenisca y cristal verde rematada por una corona cuadrada abierta, con las palabras KEMENTERIAN KESIHATAN MALAYSIA y el escudo nacional sobre su marquesina de entrada contra un cielo nublado'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: Un llamativo edificio gubernamental de cristal verde con alas facetadas en ángulos pronunciados y un techo en voladizo, con una larga bandera vertical de Malasia colgando por su cara derecha sobre una plaza embaldosada
+    kind: actual
+    origin: third-party
+    subject: El edificio de la División de Gestión de la Formación del Ministerio de Salud de Malasia en el complejo del KKM, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 Cuando entras en una clínica gubernamental malasia, entregas un billete de RM1 y sales con tu consulta y tus medicamentos cubiertos, estás utilizando uno de los sistemas de salud más fuertemente subvencionados del mundo. Quien lo gestiona es el **Ministerio de Salud de Malasia** — *Kementerian Kesihatan Malaysia* (**KKM**), o **MOH** en inglés — el ministerio federal responsable de la salud pública, la atención médica, la investigación médica, la promoción de la salud, la regulación farmacéutica y de dispositivos médicos, la odontología y la seguridad del paciente. Tiene su sede en el Complejo E (Bloques E1, E3, E6, E7 y E10) en el Centro Administrativo del Gobierno Federal, 62590 Putrajaya.

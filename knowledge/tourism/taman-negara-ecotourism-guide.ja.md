@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -75,9 +75,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: '太古の熱帯雨林——樹冠のキャノピーウォーク、ジャングルのトレッキング、野生生物の観察小屋、川の旅——を求める旅行者に、パハンのKuala Tahanの玄関口を拠点として。'
+  getThere: 'パハンのJerantutまで道路で行き、そこからKuala Tembelingの桟橋よりSungai Tembelingをボートで遡ってKuala Tahanに至り、代替として直通の道路も利用できる。'
+  permit: 'すべての訪問者は桟橋または公園の窓口に到着した時点でPERHILITANの入域許可を登録し、別途カメラ使用料を支払い、Gunung Tahanの登山には公認ガイドを利用しなければならない。'
+  watch: '北東モンスーンは川を増水させてボートや小道を乱すことがあり、キャノピーウォークは閉鎖されたこともあり、ヒルと湿気は常に付きまとう——アクセスを確認し、ガイドを前もって予約すること。'
+  next: '現在の許可・入域の規則と料金は、Taman Negara PahangにあるDepartment of Wildlife and National Parks（PERHILITAN）の事務所で確認すること。'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'タマン・ネガラの青空の下、地平線まで広がる密な熱帯雨林の起伏する丘'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: タマンヌガラで、背の高い熱帯雨林の木々の間に吊るされた、細いロープと板のキャノピーウォークを渡る訪問者
+    kind: actual
+    origin: third-party
+    subject: タマンヌガラの熱帯雨林の梢の高所に架かるキャノピーウォークの吊り橋
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: タマンヌガラで、丘に霧がかかる森に覆われた川岸のそばの、トゥンベリン川に浮かぶ木造のロングボート
+    kind: actual
+    origin: third-party
+    subject: 朝霧の中、タマンヌガラの船着き場のトゥンベリン川に浮かぶロングボート
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 夜明けのクアラ・タハンの桟橋に立ち、ヒマラヤよりも古い川から霧が立ちのぼるのを眺めていると、自分がクアラルンプールからわずか半日の距離にいることを忘れてしまいそうになる。タマン・ヌガラは人工的に作られた観光地ではない。数千万年にわたってほぼ手つかずのまま存在し続けてきた、生きた熱帯雨林であり——そしてそこに入るのは、ほとんどの旅行者が予想するよりも安く、簡単だ。

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में आवासीय संपत्ति किराए पर लेने या देने वाला कोई भी व्यक्ति — प्रायद्वीपीय मलेशिया, सबाह या सारावाक में अपना पहला किराएदारी अनुबंध हस्ताक्षरित करने वाले किराएदार, और इसे तैयार करने वाले मकान मालिक।"
 
 lang: "hi"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ faq:
   - q: यदि किरायेदार जाने से इनकार कर दे, तो क्या मकान मालिक ताले बदल सकता है या बिजली-पानी काट सकता है?
     a: नहीं। विशिष्ट अनुतोष अधिनियम 1950 (Specific Relief Act 1950) की धारा 7(2) मकान मालिक को स्वयं बेदखली करने से रोकती है — जब तक किरायेदार अभी भी कब्ज़े में है, तब तक न ताले बदलना, न बिजली या पानी काटना, न सामान हटाना। कब्ज़ा वापस पाने के लिए अदालत के आदेश की आवश्यकता होती है। बकाया किराये के लिए, मकान मालिक किरायेदार का सीधे सामना करने के बजाय, किरायेदार की चल संपत्ति ज़ब्त करने हेतु अभिग्रहण अधिनियम 1951 (Distress Act 1951) के तहत अभिग्रहण वारंट के लिए अदालत में आवेदन करता है।
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'कुआलालंपुर के तामन मिहार्जा में एक LRT लाइन के किनारे ऊँची अपार्टमेंट इमारतें।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: कुआलालंपुर में एक नदी के किनारे घने ऊँचे अपार्टमेंट फ्लैट, मलेशिया में किराये के आवास का प्रतिनिधित्व करते हैं
+    kind: representative
+    origin: third-party
+    subject: अब्दुल्लाह हुकुम, कुआलालंपुर में ऊँचे अपार्टमेंट फ्लैट
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: उपनगरीय जॉर्ज टाउन, पेनांग में मध्यम और ऊँचे अपार्टमेंट ब्लॉक, मलेशिया में किराये पर दिए जाने वाले घरों के विशिष्ट
+    kind: representative
+    origin: third-party
+    subject: उपनगरीय जॉर्ज टाउन, पेनांग में अपार्टमेंट ब्लॉक
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 मलेशिया में किसी मकान मालिक और किराएदार से पूछें कि कौन-सा कानून उनकी रक्षा करता है, और अधिकांश गलत अनुमान लगाएँगे। कोई "आवासीय किराएदारी अधिनियम" नहीं है जिसका सहारा लिया जाए — कोई एकल कानून नहीं जो नोटिस अवधि तय करे, जमा पर सीमा लगाए, या स्पष्ट करे कि मकान खाली कराते समय मकान मालिक क्या कर सकता है और क्या नहीं।

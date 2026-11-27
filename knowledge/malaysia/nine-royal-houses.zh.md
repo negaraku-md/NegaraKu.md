@@ -39,7 +39,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 sources:
   - title: "联邦宪法（2020年重印本）— 第3条、第32条、第38条、第五附表 (Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
@@ -68,6 +68,32 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: '国家皇宫宏伟的拱形门楼，顶部耸立着一对金色洋葱形圆顶，金色大门上镌刻着皇室徽章，矗立在晴朗的蓝天之下。'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: 白天宽阔视角下的马来西亚国家皇宫，一座绵长的乳白色建筑群，顶着金色的洋葱形圆顶，坐落在景观化的高地上，四周围以围栏。
+    kind: actual
+    origin: third-party
+    subject: 国家皇宫（Istana Negara），位于吉隆坡（Kuala Lumpur）端姑阿都哈林路（Jalan Tuanku Abdul Halim）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: 旧国家皇宫，一座庄严的乳白色宫殿，拥有醒目的圆顶和拱形立面，掩映于热带绿意之中，是马来西亚昔日的国家皇宫，如今作为皇家博物馆保存下来。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡皇宫路（Jalan Istana）的旧国家皇宫（Istana Negara），现为皇家博物馆（Muzium Diraja）
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 马来西亚共有十三个州属，但当中只有九个拥有统治者。其余四个州属——马六甲、槟城、沙巴与砂拉越——由委任产生的州元首（Yang di-Pertua Negeri）领导，而非由统治者领导。

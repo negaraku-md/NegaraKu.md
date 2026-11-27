@@ -33,7 +33,7 @@ faq:
     a: "幇の境界は明らかに薄れています。幇を越えた通婚、都市化、そして華語（標準中国語）が華文教育を通じて方言を越えた共通語となったことで、若い世代の祖籍意識は多くが祖父母の代より弱まっています。とはいえ幇は完全に消えたわけではありません。各地の会館・同郷会・宗祠・義山はなお機能し、多くの人が自分の祖籍を知っており、清明（墓参り）などの場面にもその影響が見られます。幇は「社会を組織する骨格」から、しだいに「文化と歴史の記憶」へと移りつつあると言えます。"
 
 lang: "ja"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,32 @@ relations:
 related: ["chinese-dialects", "chinese-clan-associations", "chinese-cemeteries", "chinese-new-villages", "population-composition"]
 keywords: ["帮群", "方言群", "籍贯", "福建帮", "广府帮", "客家帮", "潮州帮", "海南帮", "会馆", "义山", "马来西亚华人", "海南咖啡", "锡矿", "Chinese bang communities Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-bang-communities/hero.webp'
+heroAlt: 'ペナンのジョージタウン（George Town）にある装飾華麗な龍山堂邱公司（Leong San Tong Khoo Kongsi）の宗族廟。屋根の棟には彩色された龍や人形が所狭しと並び、その下には精巧な彫刻と金箔を施した祭殿がある。'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: クアラルンプール中心部の通りに建つ、福建人の会館が入る戦前の黄と赤の店屋（ショップハウス）
+    kind: actual
+    origin: third-party
+    subject: スランゴール福建会館（福建方言グループの同郷会館）の建物、クアラルンプールのジャラン・ハン・レキウ
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: スレンバン中心部に建つ、かつて客家の会館が入っていた華麗な新古典主義様式の三階建て店屋
+    kind: actual
+    origin: third-party
+    subject: 旧恵州（客家）会館の建物、スレンバンにある客家方言グループの同郷会館
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 ペナンの旧市街で、一本の商店街を丸ごと支えているのは、たいてい福建人が開いた商号です。クアラルンプールやイポーのように錫によって栄えた都市では、鉱場や同業組合に広府人と客家人がひしめいていました。そしてどの町に足を踏み入れても、海南コーヒーとバター・カヤを塗ったトーストを出す古いコーヒー店の看板の奥には、しばしば海南人が立っています。

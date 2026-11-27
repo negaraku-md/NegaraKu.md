@@ -31,7 +31,7 @@ faq:
   - q: Những ưu đãi nào hỗ trợ đầu tư dệt may và trang phục?
     a: MIDA quản lý việc phê duyệt giấy phép sản xuất và các ưu đãi thuế cho phân khúc này, vốn là một lĩnh vực ưu tiên theo Kế hoạch Tổng thể Công nghiệp Mới (NIMP) 2030. Từ quý đầu năm 2026, các khoản đầu tư đủ điều kiện thuộc Khung Ưu đãi Đầu tư Mới dựa trên kết quả, với các ưu đãi phân tầng gắn với các kết quả như công nghệ, kỹ năng và liên kết nội địa. Hãy xác nhận mức và điều kiện hiện hành với MIDA.
 lang: vi
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Công nhân may và hoàn thiện quần áo dọc theo dây chuyền lắp ráp bên trong một nhà máy may mặc.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: Cận cảnh tấm vải dệt hoa văn cầu kỳ với một mảng đỏ ở trung tâm phủ đầy gấm hoa vàng dày đặc, hai bên là viền màu hạt dẻ với họa tiết kim cương và ngôi sao vàng
+    kind: actual
+    origin: third-party
+    subject: chi tiết một tấm vải songket Mã Lai từ Terengganu dệt bằng sợi kim loại vàng, một nghề thủ công hàng đầu của di sản dệt may Malaysia
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: Một khung cửi tay bằng gỗ trong một xưởng tường gạch, khung được mắc các sợi dọc và một hàng ống chỉ màu đỏ, xanh lá và xanh dương, một người thợ dệt thấp thoáng đang làm việc ở phía xa
+    kind: representative
+    origin: third-party
+    subject: một người thợ dệt đang làm việc trên khung cửi gỗ mắc đầy các ống chỉ màu trong một xưởng dệt, minh họa việc dệt vải trong ngành dệt may
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 Rất lâu trước khi Malaysia được biết đến vì chip máy tính và dầu cọ, nước này đã làm ra vải và quần áo. Ngành dệt may, trang phục và giày dép là một trong những khu vực chế tạo hiện đại lâu đời nhất của đất nước — loại hình kinh doanh thâm dụng lao động, hướng xuất khẩu đã giúp khởi động công nghiệp hóa trong thập niên 1970 và 1980. Ngày nay nó là một lát cắt nhỏ hơn của một nền kinh tế lớn hơn nhiều, nhưng vẫn là một nhà tuyển dụng thực sự, một nhà xuất khẩu ổn định, và là một lĩnh vực mà chính phủ đang tích cực cố gắng tái sinh.

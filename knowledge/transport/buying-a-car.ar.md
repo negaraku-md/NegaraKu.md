@@ -29,7 +29,7 @@ faq:
     a: "يُسجَّل البنك أو شركة التمويل بوصفه المالك القانوني للمركبة بموجب قانون الإيجار الشراء لسنة 1967 (Hire-Purchase Act 1967) طوال مدة القرض. والمشتري هو الحائز المسجَّل الذي يستعمل المركبة يومياً، ولا يصبح المالك المسجَّل إلا حين يُسدَّد القرض بالكامل ويصدر الممّول إفراجاً."
 
 lang: "ar"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,32 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["شراء سيارة في ماليزيا", "الإيجار الشراء في ماليزيا", "نقل الملكية لدى JPJ", "السيارة الوطنية Proton Perodua", "قرض السيارة في ماليزيا", "buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'وكالة سيارات بروتون زرقاء كُتب عليها "Wakil Jualan dan Servis" مع عدة سيارات متوقفة أمامها في سوبانغ جايا.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: سيارات Perodua جديدة مصطفّة تحت أضواء ساطعة داخل صالة عرض لعلامة Perodua في Penang، ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: صالة عرض وكالة Perodua في Penang
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: سيارة Proton Perdana سيدان سوداء، وهي سيارة من علامة وطنية مصنوعة في ماليزيا، متوقفة في شارع في Shah Alam، Selangor.
+    kind: actual
+    origin: third-party
+    subject: سيارة Proton Perdana سيدان في Shah Alam
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 اشترِ سيارة في ماليزيا توقّع صفقةً واحدة، لكنك في الواقع تدخل في ثلاث علاقات منفصلة دفعةً واحدة: واحدة مع من باعك السيارة، وواحدة مع من يموّلها، وواحدة مع JPJ، الدائرة التي تقرر اسم مَن يظهر فعلاً على المركبة. وإن فاتتك خطوة في أيٍّ من الثلاث، فإن السيارة التي دفعت ثمنها تظل قانونياً غير مملوكة لك بالكامل.

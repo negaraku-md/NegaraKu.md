@@ -33,7 +33,7 @@ faq:
     a: "الماغاڤاو طقس شكر لتكريم روح الأرز بامبازون و«استدعائها إلى الديار» بعد الحصاد. وتقوده تقليديًا بوبوهيزان (bobohizan، وتُكتب أيضًا bobolian)، وهي كاهنة تتلو الأناشيد الطقسية. وهو أحد أقدم العناصر الاحتفالية في كامتان."
 
 lang: "ar"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "30 و31 مايو، مع احتفالات تمتدّ عبر معظم مايو من منطقة إلى أخرى قبل الختام على مستوى الولاية في هذين اليومين."
   holiday: "عطلة رسمية في ولاية Sabah والإقليم الاتحادي Labuan يومي 30 و31 مايو؛ وليست عطلة رسمية على مستوى البلاد."
   etiquette: "يُفهَم Unduk Ngadau بوصفه مهرجانًا ثقافيًا يُكرّم أسطورة Huminodun، لا مسابقة جمال عادية، ويُعامَل اعتقاد Bambaazon وأسطورة Huminodun باحترام بوصفهما تقليد المجتمع نفسه لا حقيقةً مؤكَّدة."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'كهنة وكاهنات bobohizan من الكادازان-دوسون بزي تقليدي أسود وذهبي يؤدون طقس كامتان على مسرح مضاء بالنجوم في بينامبانغ، صباح'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: الفائزة بلقب أوندوك نغاداو مُتوَّجةً بين ست متأهلات نهائيات بالزيّ التقليدي الكادازاني-الدوسوني الأسود والذهبي على المسرح في مهرجان كامتان ببينامبانغ، صباح
+    kind: actual
+    origin: third-party
+    subject: الفائزة بلقب أوندوك نغاداو والمتأهلات النهائيات في مسابقة مهرجان كامتان
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: راقصون شباب من الكادازان-دوسون بزيّ أسود مزيّن بحواشٍ حمراء وفضية يؤدّون رقصة تقليدية مع الغونغ في احتفال حصاد كامتان بصباح
+    kind: actual
+    origin: third-party
+    subject: شباب من الكادازان-دوسون يؤدّون رقصة مهرجان الحصاد مع الغونغ
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 سُمّي المهرجان على فكرة واحدة: الحصاد. فكلمة *كامتان* (Kaamatan) تعني ذلك بالضبط في لغة الكادازاندوسون، وكل ما عداه في الاحتفال — الطقس، ونبيذ الأرز، والمسابقة التي تُتوَّج في المساء الأخير — ينمو من ذلك الفعل الواحد: جني الأرز.

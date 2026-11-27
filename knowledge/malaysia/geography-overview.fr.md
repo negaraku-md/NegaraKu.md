@@ -18,7 +18,7 @@ keyTakeaways:
   - "La mousson du Nord-Est (nov.-mars) détrempe la côte est de la péninsule, l'ouest du Sarawak et le nord du Sabah ; la mousson du Sud-Ouest (mai-sept.) est comparativement plus sèche — un rythme qui détermine encore aujourd'hui la saison des inondations et les calendriers agricoles (Département météorologique de la Malaisie)"
 appliesTo: "Toute personne cherchant à comprendre pourquoi la population, les villes et le risque d'inondation de la Malaisie se regroupent là où ils le font — étudiants, nouveaux arrivants, planificateurs, ou quiconque est déconcerté par le fait que « saison des moussons » signifie des choses différentes sur des côtes différentes."
 lang: "fr"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: Pourquoi la plupart des Malaisiens vivent-ils près des côtes plutôt qu'à l'intérieur des terres ?
     a: Chaque masse continentale est dominée par une épine dorsale montagneuse centrale — la chaîne de Titiwangsa dans la Péninsule, la chaîne de Crocker au Sabah — flanquée seulement d'étroites plaines côtières. Ces hautes terres repoussent le peuplement vers l'extérieur, vers les plaines côtières et les vallées fluviales, laissant l'intérieur montagneux peu peuplé. La plaine abritée de la côte ouest de la Péninsule, apaisée par le détroit de Malacca, abrite la majeure partie de sa population et ses plus grandes villes, comme Kuala Lumpur et George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'Une vue aérienne d''une plaine côtière tropicale où une rivière sinueuse se jette dans la mer, villes et parcelles agricoles s''étendant vers l''intérieur et des terres gagnées sur la mer, de teinte claire, bordant le rivage sous des nuages épars.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: Une falaise karstique de calcaire gris, abrupte et couverte de jungle, s'élève directement d'un lac émeraude immobile, sa paroi se reflétant dans l'eau sombre.
+    kind: actual
+    origin: third-party
+    subject: Falaise karstique de calcaire à Tasik Cermin (Mirror Lake), Ipoh, Perak
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: Une crique de sable blanc bordée de cocotiers et de chalets en bois rencontre une eau turquoise limpide sur une petite île tropicale.
+    kind: actual
+    origin: third-party
+    subject: Plage tropicale sur Pulau Perhentian Kecil, Terengganu
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 Envolez-vous vers Kuala Lumpur depuis Kota Kinabalu et vous franchirez plus qu'une frontière intérieure : vous franchirez plusieurs centaines de kilomètres de haute mer. La Malaisie est un seul pays agrafé à travers deux masses continentales distinctes, et ce simple fait de forme a décidé en silence presque tout le reste : où sont les villes, où sont les rizières et quelle côte s'inonde chaque décembre.

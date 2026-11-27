@@ -31,7 +31,7 @@ faq:
     a: "Se trata de visitas culturales guiadas a aldeas Semai, normalmente con una demostración de cerbatana y charlas sobre los modos de vida del bosque. Ve con un guía local de confianza, pide permiso antes de fotografiar a las personas y trátalo como un intercambio cultural respetuoso y no como un espectáculo."
 
 lang: "es"
-sourceContentHash: "970b80eaebd8ab03"
+sourceContentHash: "a317cad352686527"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,42 @@ wikidata: "Q1028741"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["pahang"]
+related: ["pahang", "genting-highlands", "frasers-hill", "ipoh-and-the-kinta-valley"]
 keywords: ["Cameron Highlands", "Tanah Rata", "Brinchang", "Ringlet", "té BOH", "granja de fresas", "Orang Asli", "Semai", "estación de montaña", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'Quien planifica un viaje y quiere una escapada de clima fresco a una estación de montaña de dos o tres días, alojándose en Tanah Rata o Brinchang y combinando plantaciones de té, granjas de fresas y flores y una visita guiada a una aldea Orang Asli o un paseo por el Mossy Forest.'
+  getThere: 'Ningún aeropuerto ni ferrocarril llega a la meseta: se sube en coche, propio o con conductor, por carretera desde Tapah o desde el lado de Raub/Kuala Lipis (que confluyen en Ringlet), o desde Simpang Pulai por el norte, con autobuses públicos que suben de Tapah a Tanah Rata.'
+  permit: 'No hace falta permiso para entrar en el parque; las visitas a la fábrica de las plantaciones de té BOH son gratuitas, mientras que las visitas a aldeas Orang Asli deberían hacerse a través de un guía u operador local de buena reputación.'
+  watch: 'No lo trate como un solo pueblo — son tres asentamientos con funciones distintas — y tenga en cuenta que las plantaciones de té cierran los lunes y que el tiempo en la meseta cambia rápido, así que los planes del día pueden variar.'
+  next: 'Confirme los horarios de apertura vigentes y los cierres de los lunes directamente con cada sitio — el sitio oficial de BOH Plantations (bohtea.com) para las plantaciones de té y el Consejo del Distrito de Cameron Highlands (MDCH) para las atracciones de granjas y jardines.'
+hero: '/media/tourism/cameron-highlands-visitor-guide/hero.webp'
+heroAlt: 'Vívidas terrazas verdes y onduladas de plantaciones de té cubriendo las colinas de Cameron Highlands bajo un cielo azul con nubes'
+heroCredit: 'Tinu711 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Highlands_Boh_Tea_Plantation.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Rolling BOH tea plantation terraces in Cameron Highlands under a blue sky'
+images:
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-1.webp
+    alt: Un sendero estrecho que serpentea entre árboles retorcidos y raíces cubiertos de musgo en el neblinoso Mossy Forest de Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Sendero entre los árboles cubiertos de musgo del Mossy Forest en Cameron Highlands
+    credit: Nazri Sulaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mossy_Forest_in_Cameron_Highland.jpg
+  - role: scene
+    src: /media/tourism/cameron-highlands-visitor-guide/body-2.webp
+    alt: Largas bateas elevadas de plantas de fresa con bayas rojas maduras dentro de un invernadero en una granja de fresas de Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Hileras de plantas de fresa en un invernadero de una granja de fresas de Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
 ---
 
 Baja del autobús en Tanah Rata y lo primero que notas es tu propio aliento — el aire es lo bastante fresco como para que un suéter deje de parecer ridículo, incluso en el ecuador. Ese es todo el sentido de Cameron Highlands: un bloque de montaña templada apilado sobre la Malasia tropical, donde el té crece en pulcra pana verde sobre las lomas y las fresas maduran en túneles de plástico al borde de la carretera.

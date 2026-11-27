@@ -32,7 +32,7 @@ faq:
   - q: "هل مهرجان الآلهة الأباطرة التسعة مثل مهرجان الأشباح الجائعة أو رأس السنة الصينية؟"
     a: "ليس مثلها. مهرجان الآلهة الأباطرة التسعة مهرجان طاوي في الشهر التاسع القمري مخصص لعبادة الآلهة الأباطرة التسعة، محوره استدعاء الماء والصيام النباتي وتوديع الآلهة؛ أما مهرجان الأشباح الجائعة (Yulan) فيقع في الشهر السابع القمري، وموضوعه الخلاص الشامل وإنقاذ الأرواح التائهة؛ وأما رأس السنة الصينية فمهرجان ثقافي موسمي محوره لمّ شمل الأسرة. وتختلف الثلاثة في الزمن والموضوع والمعنى، ولا ينبغي الخلط بينها."
 lang: "ar"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ festivalFacts:
   who: "المؤمنون ضمن المجتمع الصيني في ماليزيا، ومن المعابد المشهورة معبد Nan Tian في Ampang بولاية Selangor، ومعبد Dou Mu Gong في Hong Kong Lane بـ Penang، ومعبد Dou Mu Gong في Butterworth."
   when: "من اليوم الأول إلى اليوم التاسع من الشهر التاسع في التقويم القمري، تسعة أيام متتالية (استحضار الماء عشية اليوم الأول، ويُختتم بتوديع الآلهة في اليوم التاسع)."
   etiquette: "يلتزم كثير من المؤمنين بـ «食斋» (الصيام النباتي)، فيأكلون نباتيًا يومًا واحدًا أو ثلاثة أيام أو طوال الأيام التسعة، ويتجنّبون تقليديًا «البهارات اللاذعة الخمس» (五辛)؛ ويرتدي كثيرون ثيابًا بيضاء مع حزام أصفر حول الخصر؛ وتشهد الفترة غالبًا مواكب (游神) تجوب الشوارع، ولدى بعض المعابد طقوس تقشّف كالمشي على الجمر وثقب الفم (扎口)، غير أن الممارسات تختلف من معبد إلى آخر."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'حشد من المصلّين يحملون أعواد البخور أمام مذبح معبد تحفّه التنانين ومعلّق عليه فوانيس صفراء خلال مهرجان آلهة الأباطرة التسعة في إيبوه، ويتصاعد الدخان من البخور في المقدمة.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: معبد مزيّن خلال مهرجان الآلهة الأباطرة التسعة في Kepala Batas، بالفوانيس والرايات الصفراء والقرابين
+    kind: actual
+    origin: third-party
+    subject: مهرجان الآلهة الأباطرة التسعة (Nine Emperor Gods Festival، Kew Ong Yah) يُحتفى به في معبد بـ Kepala Batas، Penang
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: بوابة احتفالية مزخرفة تؤدّي إلى حرم معبد الآلهة الأباطرة التسعة Tow Boo Kong في Butterworth
+    kind: actual
+    origin: third-party
+    subject: البوابة المزخرفة لمعبد الآلهة الأباطرة التسعة Tow Boo Kong في Butterworth، Penang
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 في ليلة اليوم الأول من الشهر التاسع القمري، يخرج صفٌّ من الأتباع في ثياب بيضاء مع حزام أصفر حول الخصر، يحملون البخور، خارجين من المعبد واحدًا تلو الآخر، متجهين إلى أقرب ضفة نهر أو شاطئ بحر. في المقدمة الطبول والصنوج، وفي المؤخرة دخان البخور — إنهم ذاهبون لـ«استدعاء الماء» و«استقبال الآلهة»، لإعادة الآلهة الأباطرة التسعة إلى المعبد. وطوال الأيام التسعة التالية لا ينقطع البخور داخل المعبد، وتفوح رائحة الطعام النباتي خارجه؛ وفي ليلة اليوم التاسع يصطفّ الموكب نفسه مجددًا عند حافة الماء لتوديع الآلهة عائدة.

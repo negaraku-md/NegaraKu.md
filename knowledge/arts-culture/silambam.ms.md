@@ -29,7 +29,7 @@ faq:
   - q: "Adakah silambam diiktiraf sebagai sukan di Malaysia?"
     a: "Silambam diamalkan di Malaysia sebagai seni mempertahankan diri dan juga sebagai sukan pertandingan; pertandingan kebangsaan, kejohanan antarabangsa serta penyertaan dalam Sukan Malaysia (SUKMA) pada sesetengah tahun semuanya telah berlangsung. Namun begitu, persatuan dan status pentadbiran sukan ini mungkin berubah dari semasa ke semasa; sahkan kedudukan semasa dengan sumber rasmi."
 lang: "ms"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'Kanak-kanak dan seorang jurulatih berbaju-T jingga Silambam Asia berlatih kuda-kuda silat tongkat dengan kayu buluh panjang pada demonstrasi di tempat terbuka'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: Seorang wanita bersari merah menerpa dalam kuda-kuda rendah, memegang pedang melengkung di satu tangan dan perisai logam bulat di tangan sebelah lagi
+    kind: representative
+    origin: third-party
+    subject: Bentuk pedang-dan-perisai Silambam (vaal dan kedaiyam), variasi senjata seni mempertahankan diri Tamil
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: Papan pameran pada dinding yang disusun dengan senjata Silambam, termasuk tongkat panjang, pedang melengkung, perisai bulat dan belati
+    kind: representative
+    origin: third-party
+    subject: Papan pameran senjata Silambam, termasuk tongkat, pedang, perisai dan belati
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 Di sebuah perayaan kuil atau majlis [Tahun Baharu Tamil](/arts-culture/tamil-new-year) di Malaysia, anda mungkin melihat seorang pemuda memutar tongkat buluh panjang di atas kepala dan mengelilingi tubuhnya dengan pantas sepantas kilat, mengikut rentak gendang. Pusingan itu bukan sekadar untuk tatapan — ia merupakan lambang silambam, seni mempertahankan diri Tamil yang berusia lebih seribu lima ratus tahun.

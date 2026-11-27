@@ -21,7 +21,7 @@ appliesTo: "学生、研究者、旅行者、そしてケダの王室史と、�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "伝承に伝わる西暦1136年の建国年代と、プラ・オン・マハワンサがスルタン・ムザッファル・シャー1世へと改宗・改称した話は、ケダ年代記（Hikayat Merong Mahawangsa）及びAt-Tarikh Salasilah Negeri Kedahに由来する。史家はこの早い年代を実際にはありそうにないものとみなしており、リチャード・ウィンステットはアチェ側の記録を引いて、改宗を1474年としている。"
   - "ケダを「最古のマレー系王国」とする頻繁な表現は、伝統的・通俗的な性格づけであり、ここで引用した出典によって独立に確認されたものではない。"
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: '黒い玉ねぎ型ドームが群れをなし、細い尖塔を戴いた荘厳な白いムーア様式のモスクが、劇的な雲の下、開けた広場の上にその装飾的なアーチ型のファサードをそびえ立たせている。'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: ケダ州アロースターの装飾豊かな木造バライ・ブサール王室謁見の間。彫刻を施した柱、波形の軒、段状の屋根を備えた黄色い吹き放ちの楼閣。
+    kind: actual
+    origin: third-party
+    subject: バライ・ブサール（王室謁見の間）。ケダ州アロースターにある
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: アロースターの高い八角形のバライ・ノバット塔。細身のクリーム色と金色のミナレットのような建物で、頂部に小さな玉ねぎ形ドームを戴き、王室の儀礼用楽団を収める。
+    kind: actual
+    origin: third-party
+    subject: バライ・ノバット。ケダ王室のノバット楽団を収める八角形の塔で、アロースターにある
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 マレーシアのなかで、ケダほど自らの過去を率直にまとっている土地は少ない。アロー・スターに尖塔が立ち並ぶはるか以前から、ムルボク川とムダ川のあいだに広がる稲の緑なす平野は、インド・中国・マレー世界のあいだをモンスーンに乗って行き交う交易者たちの寄港地であった。船乗りや学者たちはこの海岸をカダーラム、あるいはカターハとして知っていた。今日の考古学者は、それをブジャン渓谷の寺院址の群れによって知っている。その国際色豊かな、ヒンドゥー・仏教的な始まりのなかから、[シュリーヴィジャヤ](/ja/malaysia/srivijaya)とチョーラ、アユタヤとバンコク、そして最後に大英帝国を乗り切ることになるマレー系君主国が育っていった。

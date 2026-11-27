@@ -44,7 +44,7 @@ sources:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,25 @@ drinkFacts:
   halal: "Nước mãng cầu Xiêm là thịt quả xay với nước hoặc sữa và đường, không có cồn, nên bản thân thức uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quầy."
   served: "Phục vụ lạnh, xay tươi theo yêu cầu — loãng hơn với nước, đậm hơn với sữa dạng sinh tố. Một thức uống trái cây tươi mát; hãy thưởng thức như vậy, và lưu ý rằng những khẳng định về sức khỏe và 'chống ung thư' gắn với mãng cầu Xiêm là chưa được chứng minh ở người và không thay thế cho chăm sóc y tế."
   where: "Tìm thấy tại các quầy nước ép, quầy hàng rong và quầy trái cây khắp cả nước, bất cứ đâu có xay nước ép trái cây nhiệt đới tươi."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'Một đống quả mãng cầu xiêm xanh đầy gai tươi trên một quầy chợ, với đu đủ và chuối ở hậu cảnh'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: Trái mãng cầu xiêm xanh gai góc trong một tô kim loại bên cạnh một giỏ xanh đựng những quả chanh xanh tươi tại một khu chợ
+    kind: actual
+    origin: third-party
+    subject: trái mãng cầu xiêm nguyên quả bên giỏ chanh tươi tại một quầy trái cây
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 Gai góc, xanh và nặng, **mãng cầu Xiêm** thoạt nhìn trông như một quả sầu riêng nhỏ —

@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'Kaki langit Kuala Lumpur pada waktu malam, dengan Menara Berkembar Petronas yang bercahaya menjulang di belakang bangunan pejabat dan hotel yang bersuluh serta papan tanda Solaris Mont Kiara yang menyala.'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Daftar masuk ke hampir mana-mana hotel di Kuala Lumpur dengan pasport asing dan satu baris yang menarik perhatian akan muncul pada bil: RM10, rata, bagi setiap malam anda menginap. Itulah cukai pelancongan (TTx) Malaysia — levi kecil yang tetap dan berkelakuan sangat berbeza daripada cukai hotel berasaskan peratusan yang ditemui pelancong di tempat lain.

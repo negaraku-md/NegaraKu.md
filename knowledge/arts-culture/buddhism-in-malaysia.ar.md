@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ar"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,32 @@ faq:
   - q: ماذا يُحيي عيد ويساك؟ وهل هو عطلة رسمية؟
     a: يحيي ويساك (يوم ويساك) ذكرى ميلاد بوذا واستنارته وانتقاله إلى النيرفانا، وهو عطلة رسمية على مستوى البلاد في ماليزيا. يذهب المؤمنون إلى المعابد لتقديم الأزهار وإضاءة المصابيح والتصدق. حرية الدين مكفولة بموجب المادة 11 من الدستور الاتحادي؛ ومع أن المادة 3 تنص على أن الإسلام هو دين الاتحاد، فإنها لا تمنع ممارسة الأديان الأخرى بسلام.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'معبد كيك لوك سي البوذي على سفح التل في بينانغ، بسقفه المكسوّ بالقرميد الذهبي الممتد، ومصاطبه المتدرجة المزيّنة بالفوانيس الحمراء ونافورة على شكل باغودا في الفناء.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: الواجهة والأسقف المذهّبة والمبلّطة المزخرفة لمعبد بوذي تايلاندي أمام سماء زرقاء في Penang
+    kind: actual
+    origin: third-party
+    subject: معبد Wat Chaiya Mangkalaram، معبد بوذي تايلاندي من مذهب Theravada في George Town بولاية Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: تمثال بوذا جالس تحيط به كتل من أزهار الأقحوان الصفراء والبيضاء والوردية على عربة احتفال Wesak
+    kind: actual
+    origin: third-party
+    subject: تمثال بوذا مزيّن بالزهور على عربة احتفال يوم Wesak في معبد Wat Nikrodharam، Alor Setar، Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 على سفح جبل في بينانغ، يطل ظلّ برج معبد كيك لوك سي على مدينة جورج تاون؛ وفي حي

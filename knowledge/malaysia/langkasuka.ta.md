@@ -42,6 +42,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "kerajaan Melayu awal", "sejarah purba Kedah", "Lang-ya-xiu", "Malaysia pra-Islam"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: 'புல் நிறைந்த வெட்டவெளியில் அமைந்த ஒரு தாழ்வான படிக்கட்டு வடிவ கற்கோயில் அடித்தளம், புஜாங் பள்ளத்தாக்கில் பனை மரங்களாலும் பசுமையான குன்றுகளாலும் சூழப்பட்டுள்ளது.'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஏழாம் நூற்றாண்டில், லியாங் நூலை (Book of Liang) தொகுத்த ஒரு சீன அரசவை வரலாற்றாசிரியர், தெற்கே தொலைவில் இருந்த ஓர் அரசைப் பற்றி முந்தைய தூதர்கள் அறிவித்திருந்தவற்றைப் பதிவுசெய்தார்: மதில் சூழ்ந்த ஒரு நகரம், யானை மீது ஏறிச் சென்ற ஓர் அரசன், தன் மன்னரின் முன் அதிகாரிகள் கைகுவித்துத் தலைவணங்கிய ஓர் அரண்மனை. அந்த வரலாற்றாசிரியர் அவ்விடத்தை "Lang-ya-xiu" என்று அழைத்தார். அவர் விவரித்தது கிட்டத்தட்ட உறுதியாக லங்காசுகாவைத்தான் — முற்றிலும் வேறு நோக்கங்களுக்காகத் தொகுக்கப்பட்ட ஒரு வம்ச வரலாற்றில் புதைந்துகிடக்கும் அந்த வாக்கியம், இவ்விடத்தைப் பற்றி எங்கேனும் இன்னும் எஞ்சியிருக்கும் ஒருசில விரிவான விவரிப்புகளுள் ஒன்றாகும்.

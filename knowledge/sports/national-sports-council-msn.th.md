@@ -27,7 +27,7 @@ faq:
   - q: "MSN ตั้งอยู่ที่ไหน?"
     a: "ที่คอมเพล็กซ์กีฬาแห่งชาติ (Kompleks Sukan Negara) บูกิตจาลิล 57000 Sri Petaling กัวลาลัมเปอร์ ยังดำเนินคอมเพล็กซ์การฝึกในอีกหลายรัฐ"
 lang: "th"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,9 +65,35 @@ sources:
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []
-related: []
+related: ["malaysian-sport-governance", "national-sports-policy-podium-programme", "national-sports-venues"]
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'อาคารสำนักงานใหญ่หลากสีสันของสภากีฬาแห่งชาติมาเลเซีย (Majlis Sukan Negara Malaysia) ตั้งอยู่ที่บูกิตจาลิล โดยมีชื่อของหน่วยงานอยู่บนผนัง'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: อาคารสถาบันกีฬาแห่งชาติ(ISN)ที่บูกิตจาลิลผนังกระจกติดป้าย'Where Legends Are Made'ด้านหน้าเป็นลานโล่งว่างเปล่า
+    kind: representative
+    origin: third-party
+    subject: อาคารสถาบันกีฬาแห่งชาติ(ISN)ที่บูกิตจาลิลส่วนหนึ่งของกลไกกีฬาแห่งชาติมาเลเซีย
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: ภาพมุมสูงของศูนย์กีฬาเคแอลสปอร์ตส์ซิตีที่บูกิตจาลิลเห็นสนามกีฬาแห่งชาติทรงวงรีอารีนาในร่มและศูนย์กีฬาทางน้ำท่ามกลางอาคารโดยรอบในหมอกบางๆ
+    kind: representative
+    origin: third-party
+    subject: ภาพมุมสูงของศูนย์กีฬาแห่งชาติเคแอลสปอร์ตส์ซิตีที่บูกิตจาลิล
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 เมื่อนักวิ่งชาวมาเลเซียเข้าประจำที่ในโอลิมปิก หรือนักฟุตบอลรุ่นเยาว์ถูกแมวมองคัดเข้าทีมชาติ มีองค์กรของรัฐเดียวยืนอยู่เบื้องหลังการฝึก การฝึกสอน และสิ่งอำนวยความสะดวกที่พาพวกเขามาถึงจุดนั้น คือ **สภากีฬาแห่งชาติมาเลเซีย** รู้จักในภาษามลายูว่า **Majlis Sukan Negara (MSN)** เป็นหน่วยงานตามกฎหมายที่เปลี่ยนนโยบายกีฬาแห่งชาติให้เป็นนักกีฬาจริง

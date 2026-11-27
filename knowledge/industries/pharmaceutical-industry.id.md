@@ -31,7 +31,7 @@ faq:
   - q: Apa perusahaan farmasi Malaysia yang utama?
     a: Produsen lokal yang paling dikenal adalah Pharmaniaga (produsen, distributor, dan pemegang konsesi pemerintah yang terintegrasi), Duopharma Biotech (yang tumbuh dari grup CCM dan membuat biosimilar), CCM, Kotra Pharma, dan Hovid. Perusahaan multinasional seperti Pfizer, Novartis, dan GSK berfokus terutama pada obat paten ketimbang produksi lokal berskala besar.
 lang: id
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - fill-finish vaksin
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Vial obat bertutup bergerak di sepanjang konveyor otomatis pada lini manufaktur farmasi.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: Beberapa pekerja berjas dan bertopi biru berdiri mengelilingi meja kerja yang dipenuhi deretan rapat botol obat kecil berwarna gelap, menangani dan memeriksanya, di dalam sebuah pabrik farmasi yang terang dengan lemari berkaca di sepanjang dinding
+    kind: representative
+    origin: third-party
+    subject: pekerja berseragam biru dan bertopi rambut memeriksa serta mengemas deretan botol obat yang telah diisi di atas meja di divisi pengemasan farmasi
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: Sepasang tangan bersarung tangan nitril biru dan berjas lab putih menempatkan nampan plastik bening berisi pil ke atas sebuah instrumen laboratorium baja nirkarat yang berlabel peringatan tentang permukaan panas
+    kind: representative
+    origin: third-party
+    subject: seorang teknisi bersarung tangan memasukkan nampan sampel tablet ke dalam peralatan pengujian di laboratorium pengendalian mutu farmasi
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 Setiap kali seorang warga Malaysia menebus resep antibiotik, pereda nyeri, atau tablet tekanan darah, ada kemungkinan besar obat itu dibuat di Malaysia — bukan ditemukan di sini, melainkan diformulasikan, dicetak, diisi, dan dikemas di pabrik lokal yang bekerja menurut standar manufaktur internasional. Itulah jantung industri farmasi Malaysia: basis manufaktur yang kokoh dan dipimpin generik yang menjaga lemari obat nasional tetap terisi, dipadukan dengan dua taruhan yang lebih ambisius — farmasi halal dan produksi vaksin — yang diharapkan negara ini akan membawanya naik di rantai nilai.

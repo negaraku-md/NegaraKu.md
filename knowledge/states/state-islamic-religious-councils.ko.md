@@ -73,6 +73,13 @@ relations:
 related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["Majlis Agama Islam Negeri", "MAIN", "zakat", "wakaf", "fatwa", "Perkara 3", "Senarai Negeri", "pentadbiran Islam"]
 framework: profile
+hero: '/media/states/state-islamic-religious-councils/hero.webp'
+heroAlt: '스렘반의 부분적으로 구름 낀 하늘 아래, 완만하게 휘어진 오목한 곡선 지붕과 세 개의 높은 콘크리트 첨탑을 가진 모더니즘 양식의 하얀 주립 모스크.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:State_Mosque,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 여러분의 주(州)에서 누가 자카트(zakat), 와카프(wakaf) 및 모스크를 관장하는지 물어보면, 그 답은 푸트라자야(Putrajaya)의 어느 부처가 아니라 — 그 주(州)의 통치자(Raja) 자신에게 책임을 지는 주(州) 법정 기관입니다. 그 기관이 바로 주 이슬람종교위원회(Majlis Agama Islam Negeri, MAIN)이며, 그것이 모든 주(州)에 존재하는 것은 하나의 헌법 원칙에서 비롯됩니다: 이슬람 관련 업무는 연방 사안이 아니라 주(州) 사안이라는 것입니다.

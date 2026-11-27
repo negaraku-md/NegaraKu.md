@@ -31,7 +31,7 @@ faq:
   - q: Apakah industri kandungan kreatif dan animasi Malaysia?
     a: Ia ialah perniagaan menghasilkan filem, rancangan televisyen, animasi, muzik dan permainan — semakin untuk eksport selain pasaran domestik. Animasi Malaysia khususnya telah mencapai kejayaan antarabangsa, contoh paling terkenal ialah siri kanak-kanak Upin & Ipin, dihasilkan oleh Les' Copaque. Kerajaan menyokong sektor ini melalui dana dan agensi seperti MyCreative Ventures dan FINAS.
 lang: ms
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'Kompleks penyiaran Angkasapuri di Kuala Lumpur, ibu pejabat penyiar awam kebangsaan Malaysia.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: Penerbit di hadapan deretan monitor dan meja pengadun di bilik kawalan studio televisyen semasa siaran langsung.
+    kind: representative
+    origin: third-party
+    subject: Bilik kawalan siaran semasa penerbitan televisyen langsung (mewakili)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: Sebuah set studio siaran televisyen dengan kamera, pencahayaan studio dan meja juruacara.
+    kind: representative
+    origin: third-party
+    subject: Set studio siaran televisyen dengan kamera dan meja juruacara (mewakili)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 Apabila rakyat Malaysia bercakap tentang "media", mereka biasanya memaksudkan salah satu daripada beberapa nama yang biasa: cakera satelit Astro yang dipasang di sisi rumah, buletin berita TV3, rancangan radio pagi dalam perjalanan ke tempat kerja, atau — semakin — apa sahaja yang dimainkan pada telefon semasa berulang-alik. Titik sentuh harian itu tergolong dalam satu industri tunggal yang luas: media dan penyiaran. Ia ialah salah satu sektor perkhidmatan yang lebih ketara di negara ini, dan juga salah satu yang paling terganggu.

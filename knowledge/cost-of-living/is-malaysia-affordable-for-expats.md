@@ -69,6 +69,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: 'This is for an expatriate, remote worker or newcomer weighing Malaysia''s cost of living against a Western salary and spending baseline before relocating.'
+  how: 'Split your spending into two baskets. What is produced or staffed locally — food, domestic transport, basic services, and public or mid-market private healthcare — discounts steeply against a Western baseline. What is benchmarked internationally — imported goods and electronics, top private-hospital care, international-curriculum schooling, and premium urban property — barely discounts. Your personal affordability is decided by how much of that second basket your lifestyle actually needs, not by the national average.'
+  cost: 'There is no single number — it is driven by your own basket, and the official mean income, expenditure and inflation figures move year to year, so read the current DOSM releases rather than a quoted figure. A long-stay residency route such as MM2H has its own separate financial thresholds, which are a different question from what daily life costs month to month.'
+  watch: 'The ''Malaysia is cheap'' headline holds only for the locally priced basket; international schooling, top private care and premium Klang Valley property track global prices and can erase the discount. A residency visa''s financial bar is not a measure of monthly living costs.'
+  next: 'Price your own basket — schooling, the healthcare tier you want, the housing area — against current local figures, keep residency-visa thresholds as a separate calculation, then decide. See the MM2H long-stay visa explainer and the cost-of-living overviews.'
 ---
 
 ## At a glance

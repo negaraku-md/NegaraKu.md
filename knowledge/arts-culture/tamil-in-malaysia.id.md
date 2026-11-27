@@ -32,7 +32,7 @@ seoTitle: "Bahasa Tamil di Malaysia: Penutur, Sekolah SJKT, dan Status Konstitus
 socialTitle: "Bagaimana bahasa Tamil dituturkan, diajar, dan dilindungi di Malaysia"
 
 lang: "id"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,32 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'Papan nama gerbang sebuah sekolah berpengantar bahasa Tamil di Changlun, Kedah, bertuliskan aksara Tamil di atas nama Inggris S.J.K (Tamil) Changlun, dengan gedung sekolah di belakangnya.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: Sebuah papan 'Dilarang Masuk' Malaysia berwarna merah dan putih dengan peringatan yang sama dalam bahasa Inggris, Tionghoa, Punjabi, dan, pada baris paling bawah, aksara Tamil.
+    kind: actual
+    origin: third-party
+    subject: Papan petunjuk Malaysia multibahasa dengan satu baris aksara Tamil, Kota Kinabalu
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: Blok ruang kelas terbuka sebuah sekolah dasar jenis kebangsaan Tamil di Changlun, Kedah, dengan pintu dan garis atapnya dihiasi bendera Malaysia di bawah langit cerah.
+    kind: actual
+    origin: third-party
+    subject: Blok ruang kelas sebuah sekolah dasar jenis kebangsaan Tamil, Changlun, Kedah
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 Di perkebunan karet lama Malaya, sebagian dari ruang kelas paling awal adalah bangsal dan pondok, dengan pengajaran dalam bahasa Tamil. Menurut satu kajian sejarah yang diterbitkan dalam jurnal Persatuan Sejarah Malaysia, pendidikan dasar dalam bahasa Tamil ditawarkan di perkebunan sejak awal abad kedua puluh, diatur di bawah undang-undang perburuhan pada masa itu dan, untuk waktu yang lama, diajar oleh juru tulis dan pekerja paruh waktu, bukan guru terlatih.

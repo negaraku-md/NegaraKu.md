@@ -86,6 +86,32 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'Pemain hoki padang mengejar bola semasa perlawanan Malaysia di Piala Dunia Hoki.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: Pemain dalam perlawanan hoki padang, Malaysia menentang Belanda, semasa Piala Dunia Hoki 1973 di Amstelveen.
+    kind: actual
+    origin: third-party
+    subject: Pasukan hoki padang kebangsaan Malaysia beraksi di Piala Dunia Hoki 1973
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: Padang dan tempat duduk penonton Stadium Hoki Taman Daya di Johor Bahru, Johor, sebuah gelanggang hoki padang di Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Stadium Hoki Taman Daya di Johor Bahru, sebuah gelanggang hoki padang Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 Pada 15 Mac 1975, sebuah stadium di Kuala Lumpur menyaksikan India mengangkat Piala Dunia hoki lelaki buat satu-satunya kali dalam sejarah mereka — dan tuan rumahnya bukan India, tetapi Malaysia. Setengah abad kemudian, negara yang sama masih menjemput kuasa-kuasa hoki dunia ke Ipoh setiap tahun. Hoki padang mungkin bukan sukan paling popular di Malaysia hari ini, tetapi ia mungkin warisan sukan negara yang paling dihormati di peringkat antarabangsa.

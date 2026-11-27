@@ -35,7 +35,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ entity: "Un dépôt de location retenu en Malaisie"
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'Les appartements de grande hauteur Puncak Desa à Kepong, Kuala Lumpur, un bloc de logements locatifs malaisien typique.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: Un bloc d'anciens logements publics de faible hauteur sans ascenseur, du linge pendu aux fenêtres, à Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Anciens logements locatifs sans ascenseur (les Pekeliling Flats) à Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: Une rangée de maisons mitoyennes de plain-pied le long d'une rue résidentielle à Rasa, Selangor
+    kind: representative
+    origin: third-party
+    subject: Une rangée de maisons mitoyennes à Rasa, Selangor, un type courant de logement loué
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 Peu de choses gâchent autant la fin d'une location qu'un propriétaire qui garde le dépôt. C'est généralement une somme importante, cela paraît souvent injuste, et la tentation est d'escalader aussitôt. Avant cela, il est utile de comprendre le fait unique qui façonne tout, dans un litige sur un dépôt en Malaisie — car ce n'est pas ce que beaucoup de locataires supposent.

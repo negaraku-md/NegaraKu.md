@@ -30,7 +30,7 @@ faq:
     a: "不。852号法令禁止通过网上平台及自动贩卖机销售所有烟草及电子烟产品。"
 
 lang: "zh"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: '马来西亚一块以马来文、中文和英文书写的禁烟标志（Dilarang Merokok／No Smoking）。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: 马来西亚新山一家餐厅内墙上张贴的禁烟标志，标示该场所为无烟场所
+    kind: actual
+    origin: third-party
+    subject: 马来西亚新山一家餐厅内展示的禁烟告示
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: 一只手拿着一支电子烟设备靠近嘴边的特写，示意受法律监管的电子烟使用
+    kind: representative
+    origin: third-party
+    subject: 一个人手持一支电子烟（vape）设备
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 在马来西亚，一支香烟和一台电子烟设备首次受到同一部法律的规范——而向青少年销售的禁令也不再只是政策，而是可被罚款数千令吉的罪行。

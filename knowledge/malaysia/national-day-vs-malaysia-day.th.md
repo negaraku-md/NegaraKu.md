@@ -29,7 +29,7 @@ faq:
     a: "วันมาเลเซียกลายเป็นวันหยุดราชการระดับสหพันธ์ทั่วประเทศเพียงหลายทศวรรษหลังการก่อตั้งสหพันธ์ ก่อนหน้านั้น 16 กันยายนเป็นเพียงวันหยุดในบางดินแดนและไม่ได้เฉลิมฉลองอย่างเป็นแบบเดียวกันในระดับชาติ แม้ว่ามันจะเป็นวันก่อตั้งสหพันธ์มาตั้งแต่ปี 1963"
 
 lang: "th"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'นักดนตรีวงดุริยางค์ทหารในเครื่องแบบเดินแถวผ่านผู้ชม ในขบวนพาเหรดวันเมอร์เดกาของมาเลเซียที่จัตุรัสเมอร์เดกา'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: แถวเจ้าหน้าที่ในเครื่องแบบเดินแถวอย่างเป็นระเบียบ พร้อมถือธง Jalur Gemilang สีแดง ขาว น้ำเงิน และเหลือง และธงอื่น ๆ ระหว่างขบวนพาเหรดวันเมอร์เดกา
+    kind: actual
+    origin: third-party
+    subject: หน่วยในเครื่องแบบเดินพาเหรดพร้อมธง Jalur Gemilang ในงานฉลองวันเมอร์เดกาครั้งที่ 59
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: ฝูงชนที่ยิ้มแย้มใน Kota Kinabalu รัฐซาบะฮ์ ชูและโบกธงชาติมาเลเซียอย่างภาคภูมิใจระหว่างงานฉลองวันชาติกลางแจ้งในมาเลเซียตะวันออก
+    kind: actual
+    origin: third-party
+    subject: ผู้ร่วมฉลองโบกธง Jalur Gemilang ในงานฉลองวันชาติที่ Kota Kinabalu รัฐซาบะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 ทุกปีปฏิทินของมาเลเซียมีสองวันที่มักถูกเข้าใจผิดว่าเป็นสิ่งเดียวกัน คือ 31 สิงหาคม และ 16 กันยายน ทั้งสองถูกเฉลิมฉลองด้วยธง ขบวนพาเหรด และเพลงรักชาติ แต่ทั้งสองบ่งบอกถึงเหตุการณ์ที่แตกต่างกัน ห่างกันหกปี และบรรยายสองประเทศที่มีรูปแบบต่างกัน

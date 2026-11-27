@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚哪里还种植可可？
     a: "主要在沙巴，尤其是内陆地区和斗湖一带。这里曾推动1980年代的繁荣，如今仍占剩余种植面积和产量的大部分。"
 lang: zh
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: '两颗大的绿色可可荚直接长在遮荫种植园里一棵可可树的树干上。'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: 经过发酵的可可豆摊放在木盘中，于露天日光下晾晒。
+    kind: representative
+    origin: third-party
+    subject: 日晒中的可可豆
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: 一堆烘焙过的深色可可豆，准备在巧克力加工过程中投入研磨机。
+    kind: representative
+    origin: third-party
+    subject: 待加工的烘焙可可豆
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 马来西亚是全球可可加工大国之一，却几乎已停止种植可可。在短短一代人的时间里，这个国家从一个全球四大可可豆生产国——沙巴和马来半岛的山坡上曾结满可可荚——变成了一个靠整船进口可可豆、自身却仅收获区区数百吨的地方。留存下来并蓬勃发展的，是工厂端：将进口可可豆转化为可可脂、可可粉、可可液块和成品糖果以供出口的研磨厂、精炼厂和巧克力生产线。由此形成了一种"可可悖论"——一个世界级的下游产业坐落在一个几乎消失殆尽的上游之上。

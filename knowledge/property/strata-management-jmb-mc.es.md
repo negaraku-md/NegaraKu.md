@@ -35,7 +35,7 @@ faq:
     a: "El incumplimiento de un laudo es un delito penal conforme al Artículo 123 — una multa que no supere los RM250,000 o pena de prisión no superior a 3 años, o ambas, con una multa adicional de hasta RM5,000 al día por delito continuado. La denuncia se presenta ante el Comisionado de Edificios (COB)."
 
 lang: "es"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "Corporación de Gestión", "Órgano de Gestión Conjunta", "Tribunal de Gestión de Estratos", "Ley de Gestión de Estratos 2013", "cuota de mantenimiento", "fondo de reserva", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'Los rascacielos en régimen de propiedad horizontal Orion Condominium y Sky Residences en Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: Un conjunto de modernas torres de condominios en régimen de strata en Harbour View, Butterworth, Penang, el tipo de promoción gestionada por un JMB o una corporación de gestión
+    kind: representative
+    origin: third-party
+    subject: Un conjunto de rascacielos de condominios en régimen de strata en Harbour View, Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: La entrada cerrada, la caseta de vigilancia y el bloque de casa club común del condominio en régimen de strata The Oasis en Gelugor, Penang, con sus torres residenciales detrás
+    kind: representative
+    origin: third-party
+    subject: La entrada vigilada y la casa club del condominio The Oasis en Gelugor, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 Compras una unidad de condominio, pero ¿quién posee realmente el ascensor, la piscina y la calzada del aparcamiento — y quién tiene derecho a cobrarte una cuota mensual? La respuesta está en un nivel de gobernanza sobre el que los compradores rara vez leen hasta que surge un conflicto: el marco de la Ley de Gestión de Estratos de 2013 (Ley 757).

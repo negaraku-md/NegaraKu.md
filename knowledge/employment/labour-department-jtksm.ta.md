@@ -83,7 +83,7 @@ sources:
     publisher: "Wikipedia Bahasa Melayu (இரண்டாம் நிலை — முதன்மை உறுதிப்படுத்தல் நிலுவையில்)"
 entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labour Peninsular Malaysia"
 relations: []
-related: []
+related: ["employment-act-1955-guide", "retrenchment-malaysia", "trade-unions-malaysia"]
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "pejabat buruh", "aduan buruh", "eAduan JTKSM", "how to file labour complaint Malaysia", "unpaid salary Malaysia", "Labour Court Malaysia", "Employment Act 1955", "Section 69 Employment Act", "JTK complaint", "gaji tak dibayar"]
 framework: profile
 ---

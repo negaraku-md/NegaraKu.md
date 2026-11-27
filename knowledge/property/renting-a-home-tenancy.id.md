@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menyewa atau menyewakan properti hunian di Malaysia — penyewa yang menandatangani perjanjian penyewaan pertama mereka, dan pemilik yang menyusun satu, di Semenanjung Malaysia, Sabah atau Sarawak."
 
 lang: "id"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ faq:
   - q: Bisakah pemilik rumah mengganti kunci atau memutus utilitas jika penyewa menolak pergi?
     a: Tidak. Pasal 7(2) Undang-Undang Pemulihan Spesifik 1950 (Specific Relief Act 1950) melarang pemilik rumah melakukan pengusiran sendiri — tidak boleh mengganti kunci, memutus listrik atau air, atau memindahkan barang selama penyewa masih menempati. Mengambil kembali kepemilikan memerlukan perintah pengadilan. Untuk tunggakan sewa, pemilik rumah mengajukan permohonan ke pengadilan untuk surat perintah penyitaan berdasarkan Undang-Undang Penyitaan 1951 (Distress Act 1951) guna menyita barang bergerak penyewa, alih-alih berhadapan langsung dengan penyewa.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'Flat apartemen bertingkat tinggi di samping jalur LRT di Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Apartemen bertingkat tinggi yang padat di tepi sungai di Kuala Lumpur, mewakili perumahan sewa di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Apartemen bertingkat tinggi di Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Blok apartemen bertingkat menengah dan tinggi di pinggiran kota George Town, Penang, khas rumah yang ditawarkan untuk disewa di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Blok apartemen di pinggiran kota George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Tanyakan kepada seorang pemilik dan seorang penyewa di Malaysia undang-undang mana yang melindungi mereka, dan kebanyakan akan menebak salah. Tidak ada "Undang-Undang Sewa Hunian" untuk dirujuk — tidak ada satu statuta tunggal yang menetapkan masa pemberitahuan, membatasi deposit, atau menyatakan dengan jelas apa yang boleh dan tidak boleh dilakukan pemilik saat pindah keluar.

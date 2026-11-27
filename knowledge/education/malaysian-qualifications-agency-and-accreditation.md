@@ -73,9 +73,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'This is for prospective students, parents and employers checking whether a Malaysian post-secondary qualification is officially recognised.'
+  how: 'Search the free Malaysian Qualifications Register (MQR) by the exact programme name, level and delivering campus, and confirm it holds Provisional or Full Accreditation. Recognition for a regulated profession or for public-sector employment is verified separately with that body.'
+  cost: 'The MQR search is free; recognition you may be counting on — a professional licence, a government job, or study abroad — can each need separate verification with its own body.'
+  watch: 'Accreditation attaches to the specific programme and intake, not the institution — a reputable university can still run a new, provisional or unlisted programme. A brochure''s ''MQA-approved'' claim is not the register; confirm the live entry yourself, and note that provisional status is legitimate, not second-rate.'
+  next: 'Look up your exact programme on the MQR before paying any deposit; for a regulated profession, confirm the graduate route with that professional body. See Before paying a college deposit.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'A wall-mounted nameplate bearing the crest and words "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" on a stone-clad wall.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Academics in ceremonial robes conferring a degree on stage during a convocation at Universiti Kebangsaan Malaysia
+    kind: representative
+    origin: third-party
+    subject: A special convocation conferring a degree at Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: The curved Canselori Putra chancellery building of Universiti Putra Malaysia beside a landscaped plaza
+    kind: representative
+    origin: third-party
+    subject: Chancellery (administrative hall) building of Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Two students graduate with the same-sounding diploma. One qualifies for a government job and a master's place; the other is turned away at the door. The difference is often a single line in a public register: whether the Malaysian Qualifications Agency accredited the programme.

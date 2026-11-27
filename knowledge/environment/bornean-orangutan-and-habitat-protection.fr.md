@@ -34,7 +34,7 @@ faq:
     a: "Pas nécessairement. L'étude a constaté que les populations dans des forêts bien gérées et exploitées de façon durable comme Deramakot et Segama sont restées stables sur 15 ans, ce qui montre que les orangs-outans peuvent persister dans une forêt de production lorsqu'elle est gérée avec soin et maintenue connectée."
 
 lang: "fr"
-sourceContentHash: "3e08558cd6bea030"
+sourceContentHash: "a6f164aeaf3ec3ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,33 @@ relations:
 related: ["sabah"]
 keywords: ["Bornean orangutan", "Sabah", "Wildlife Conservation Enactment 1997", "Sepilok", "Kinabatangan", "habitat protection", "totally protected species", "wildlife corridor"]
 framework: explainer
+hero: '/media/environment/bornean-orangutan-and-habitat-protection/hero.webp'
+heroAlt: 'Une mère orang-outan de Bornéo sauvage et son petit se reposant parmi les branches de la canopée d''une forêt tropicale'
+heroCredit: 'Thomas Fuhrmann / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wild Bornean orangutan (Pongo pygmaeus) mother and infant in the rainforest canopy, Tanjung Puting, Borneo'
+images:
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-1.webp
+    alt: Une femelle orang-outan de Bornéo avec deux petits suspendus aux branches, haut dans la canopée de la forêt tropicale
+    kind: actual
+    origin: third-party
+    subject: Groupe familial d'orangs-outans sauvages de Bornéo suspendus et se nourrissant dans les arbres de la forêt tropicale, Bornéo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_11.jpg
+  - role: scene
+    src: /media/environment/bornean-orangutan-and-habitat-protection/body-2.webp
+    alt: Portrait en gros plan du visage expressif d'un orang-outan sauvage de Bornéo encadré par sa fourrure rousse
+    kind: actual
+    origin: third-party
+    subject: Portrait en gros plan du visage d'un orang-outan sauvage de Bornéo dans la forêt tropicale, Bornéo
+    credit: Thomas Fuhrmann / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_13.jpg
 ---
 
 Un orang-outan sauvage a besoin de beaucoup de forêt, et d'une forêt connectée. Dans les basses terres de l'est de Sabah, c'est devenu la chose la plus rare de toutes : les arbres qui permettaient autrefois à un grand singe de parcourir des kilomètres sans toucher le sol s'arrêtent désormais à la lisière d'une plantation de palmiers à huile. Que l'orang-outan de Bornéo survive ou non dans ce paysage est, en grande partie, une question de loi, de terre et de corridors.

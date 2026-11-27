@@ -35,7 +35,7 @@ faq:
     a: "诗巴丹每年11月为让珊瑚礁休养而关闭，因此潜水行程应安排在12月至10月之间。此外，较为多雨的东北季候风月份（大致为11月至3月）会给婆罗洲带来更多降雨。"
 
 lang: "zh"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: '适合以自然为先的旅人，追求婆罗洲的招牌体验——攀登京那巴鲁山（Mount Kinabalu）、在 Sipadan 的受保护珊瑚礁潜水，以及在山打根（Sandakan）一带观赏红毛猩猩与河流野生动物。'
+  getThere: '飞抵沙巴主要航空门户亚庇国际机场（Kota Kinabalu International Airport），再搭乘国内短程航班前往山打根、斗湖（Tawau）与潜水区域。'
+  permit: '沙巴根据《1963年马来西亚协定》自行管理移民事务，故每名抵达者——包括从西马飞来的马来西亚人——都须通过检查站并领取入境准证（visit pass），而京那巴鲁山攀登与 Sipadan 潜水又各自受 Sabah Parks 的限额准证管制。'
+  watch: '请及早预订稀缺且须凭准证的热门项目，并围绕 Sipadan 每年 11 月的珊瑚礁恢复封闭期来规划，因为这些项目会售罄且无法在抵达时取得。'
+  next: '出发前请向马来西亚移民局（Immigration Department of Malaysia）及 Sabah Parks 确认当前的入境、入境准证与准证规定。'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: '黎明时分，神山（Mount Kinabalu）圣约翰峰的花岗岩峰顶在云海之上泛着粉光'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: 沙巴拉卜湾一只长鼻猴的特写，淡金色毛发与长鼻子，背景是模糊的绿色森林
+    kind: actual
+    origin: third-party
+    subject: 婆罗洲特有的长鼻猴，摄于沙巴拉卜湾
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: 亚庇海上一轮火红的落日，渔船剪影点缀，地平线上有一座岛屿
+    kind: actual
+    origin: third-party
+    subject: 亚庇海滨的金色落日，渔船剪影映于海面，地平线上有岛屿
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 你可以从吉隆坡飞到亚庇（Kota Kinabalu）而不必离开国境，落地时却仍要在移民柜台前排队。这个意外令许多初次到访者措手不及——而这正是你在规划沙巴之行前最需要理解的一件事。本指南将带你了解入境门户、招牌景点，以及那些让沙巴感觉像是一个自成一体之地的入境规定，因为从某种非常真实的意义上说，它确实如此。

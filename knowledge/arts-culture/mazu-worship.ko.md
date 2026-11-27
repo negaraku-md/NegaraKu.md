@@ -29,7 +29,7 @@ faq:
   - q: "마조를 모시는 것은 도교인가요, 불교인가요?"
     a: "마조는 주로 도교와 화인 민간신앙의 범주에 속하며, 흔히 다른 신들과 함께 모셔집니다. 일부 불교의 맥락에서도 마조에 대한 봉안을 볼 수 있습니다. 실천에서 많은 화인은 도교·불교·민간신앙을 엄격히 구분하지 않으며, 이는 말레이시아 화인의 신앙이 대체로 서로 융합되어 있는 상황과 일치합니다. 이 글은 신앙 현상을 서술할 뿐 그 종교적 의미를 평가하지 않습니다."
 lang: "ko"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: '쿠알라룸푸르의 톈허우궁(天后宮, Thean Hou Temple)으로, 층층 지붕에서 수백 개의 붉은 등롱이 폭포처럼 줄지어 드리워져 있고, 앞마당에는 용으로 장식된 향로가 있으며 본전에서는 참배객들이 예를 올리고 있다.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: 쿠알라트렝가누에 있는 역사적인 중국식 마쭈 사당의 화려한 지붕과 정면으로, 용 모양 용마루 장식이 있다
+    kind: actual
+    origin: third-party
+    subject: 허안궁(和安宮), 쿠알라트렝가누의 마쭈(천후, 바다의 여신) 사당으로, 트렝가누에서 가장 오래된 중국 사당 중 하나
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: 하이난계 마쭈 사당의 본전으로, 등불이 걸려 있고 향이 피어오르며 신전에 금박 장식이 되어 있다
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 하이난묘(Tokong Hainan)의 내부 제단, 바다의 여신 마쭈를 기리는 사당
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 쿠알라룸푸르 롭슨 하이츠(Robson Heights)의 작은 언덕 위에, 붉은 기둥과 유리기와를 얹은 6층 사원이 도시를 내려다보며 서 있다 — 이곳이 바로 톈허우궁(Thean Hou Temple)으로, 화인 세계에서 가장 이름난 바다의 여신 마조를 모신다. 예전에 바닷길로 남하한 화인들은 바다를 건너기 전후로 안녕을 빌며 그녀에게 기원했다. 오늘날 이곳은 참배객이 향을 올리는 사원이자, 하이난 동향 사람들이 모이는 자리이며, 관광객이 사진을 찍는 명소이기도 하다.

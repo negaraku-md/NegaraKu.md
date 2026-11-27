@@ -27,7 +27,7 @@ verificationNeeded:
   - "การยื่นขอ CDL สามารถทำได้ทางออนไลน์อย่างสมบูรณ์ผ่านแอปพลิเคชัน MyJPJ หรือไม่ — หน้าบริการของ JPJ ที่ตรวจสอบระบุว่าการยื่นคำขอทำที่เคาน์เตอร์ JPJ ประจำรัฐเท่านั้น แต่นี่อาจเปลี่ยนไปแล้วหลังจากวันที่ตรวจสอบ"
 
 lang: "th"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'โรงเรียนสอนขับรถแบบหน้าร้านที่ติดป้าย “Pusat Latihan Memandu Sri Jaya” พร้อมป้ายตัว L สีน้ำเงินขนาดใหญ่สำหรับผู้หัดขับ'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: ทางเข้าและพื้นที่นั่งรอของสำนักงานสาขากรมการขนส่งทางบก (JPJ) ที่บันดาร์ตาซิกเซอลาตัน กัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: สำนักงานสาขากรมการขนส่งทางบก (JPJ) กัวลาลัมเปอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: วงเวียนจราจรหลายช่องทางพร้อมป้ายบอกทางที่ราวัง รัฐสลังงอร์ ซึ่งเป็นการขับขี่ที่ผู้หัดขับทุกคนต้องเชี่ยวชาญ
+    kind: representative
+    origin: third-party
+    subject: วงเวียนจราจรที่ราวัง รัฐสลังงอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 คนส่วนใหญ่มอง "ใบอนุญาตขับขี่" ว่าเป็นเอกสารเดียว แท้จริงแล้วมันคือใบอนุญาตสามใบที่แยกกัน — L, P และ CDL — ที่เชื่อมต่อกันด้วยกำหนดเวลาที่เข้มงวด และด้วยระบบตัดคะแนนหนึ่งระบบที่สามารถเพิกถอนใบอนุญาต P ของคุณได้ทันที นานก่อนที่มันจะได้เปลี่ยนเป็นใบอนุญาตเต็ม ต่อไปนี้คือวิธีที่ระบบนั้นทำงานจริง ๆ ตามพอร์ทัลทางการของ JPJ และพอร์ทัลทางการของรัฐบาลมาเลเซีย

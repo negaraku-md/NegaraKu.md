@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["حقوق أبناء الولاية العُرفية", "native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "ملكية أبناء الولاية", "native title", "temuda", "pemakai menoa", "قانون الأراضي في ماليزيا الشرقية", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'بيت إيبان الطويل الخشبي بسقفه المعدني المموّج مرفوعاً على ركائز على طول ضفّة نهر خضراء مكسوّة بالغابات في ريف سراواك.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 اشترِ منزلًا في كوالالمبور، فيحكم سندَ ملكيتك تشريعٌ اتحادي واحد. وافعل الشيء نفسه في

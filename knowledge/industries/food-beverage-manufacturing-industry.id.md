@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana manufaktur makanan diatur di Malaysia?
     a: Keamanan dan pelabelan pangan diatur oleh Food Act 1983 dan aturan turunannya (seperti Food Regulations 1985 dan Food Hygiene Regulations 2009), yang dikelola oleh Kementerian Kesehatan. Klaim halal secara terpisah dikendalikan oleh Department of Islamic Development Malaysia (JAKIM), yang menerbitkan sertifikasi halal resmi.
 lang: id
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ keywords:
   - Food Act 1983
   - insentif makanan MIDA
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'Ribuan botol kaca hijau bergerak di sepanjang konveyor baja antikarat berliku pada lini pembotolan pabrik bir'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: Tampak dari atas sebuah pabrik pembotolan minuman dengan beberapa jalur konveyor dan mesin pengemasan
+    kind: representative
+    origin: third-party
+    subject: Tampak dari atas konveyor dan mesin pengemasan di pabrik pembotolan anggur dekat Geyserville, California
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: Beberapa silo biji-bijian berbentuk silinder besar dan bangunan penyimpanan sebuah pabrik pengolahan dan logistik pangan di sisi rel kereta
+    kind: representative
+    origin: third-party
+    subject: Silo besar dan gudang penyimpanan pabrik pengolahan dan logistik biji-bijian pangan di Bandel, India
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 Hampir semua orang di Malaysia bersentuhan dengan industri ini beberapa kali sehari — secangkir Milo saat sarapan, sebungkus mi instan saat makan siang, sebotol air mineral di sore hari, sebatang cokelat yang dibuat dari kakao yang digiling di Johor. Manufaktur makanan & minuman (F&B) adalah salah satu industri besar Malaysia yang paling senyap: kurang glamor dibanding semikonduktor, tetapi terjalin dalam ke kehidupan sehari-hari, ketahanan pangan nasional, dan kisah ekspor yang tumbuh di seputar satu gagasan kuat — halal.

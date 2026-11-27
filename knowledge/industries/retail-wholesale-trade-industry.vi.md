@@ -31,7 +31,7 @@ faq:
   - q: Thương mại điện tử đã thay đổi ngành bán lẻ Malaysia như thế nào?
     a: Mua sắm trực tuyến đã tăng trưởng nhanh, dẫn dắt bởi các nền tảng như Shopee và Lazada, và ranh giới giữa bán lẻ trực tuyến và vật lý đã mờ đi khi các nhà bán lẻ truyền thống bổ sung giao hàng, click-and-collect và cửa hàng trực tuyến. Các con số thu nhập thương mại điện tử của DOSM lên tới hàng nghìn tỷ ringgit, dù tổng đó trải trên cả chế tạo và dịch vụ, không riêng bán lẻ.
 lang: vi
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Người mua sắm, các cửa hàng và quầy bán lẻ trải khắp khu sảnh nhiều tầng của trung tâm thương mại NU Sentral ở Kuala Lumpur, Malaysia.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: Một lối đi siêu thị dài với kệ trắng chất đầy đường đóng gói, dầu ăn và hàng đóng gói dưới tấm biển lối đi màu xanh ghi GULA AGAR-AGAR 21, với sàn lát gạch sạch sẽ trải dài về phía xa
+    kind: actual
+    origin: third-party
+    subject: một lối đi hàng tạp hóa đầy ắp hàng tại đại siêu thị Giant ở Kota Damansara, Selangor, một mô hình chủ lực của ngành bán lẻ Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: Một dãy nhà chợ một tầng thông thoáng dài với mái nâu bạc màu, một xe tải chất đầy nông sản và hai xe tải nhỏ hơn đậu phía trước trên bãi nhựa đường ngập nắng dưới bầu trời xanh trong
+    kind: actual
+    origin: third-party
+    subject: một khu chợ ẩm ướt truyền thống thông thoáng ở Johor Jaya với những xe tải chở nông sản tươi đến, một phần của ngành buôn bán thực phẩm bán sỉ và bán lẻ Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 Gần như mỗi ringgit mà một người Malaysia chi cho hàng hóa vật chất — thực phẩm, một chiếc điện thoại, một chiếc xe hơi, một chai dầu ăn — đều đi qua thương mại bán lẻ và bán buôn. Đó là hệ thống ống dẫn của tiêu dùng thường ngày: mạng lưới các nhà nhập khẩu, nhà bán buôn, nhà phân phối, cửa hàng, chợ và cửa hàng trực tuyến đưa sản phẩm từ nơi làm ra đến nơi được mua. Giới chức gọi mạng lưới này là **thương mại phân phối (distributive trade)**, và nó là một trong những phần lớn nhất và dễ thấy nhất của nền kinh tế Malaysia.

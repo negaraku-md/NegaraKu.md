@@ -33,7 +33,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["savoir-vivre maison ouverte malaisienne", "étiquette rumah terbuka", "invité maison ouverte Malaisie", "savoir-vivre maison ouverte Hari Raya", "quoi porter maison ouverte Malaisie", "duit raya ang pow invité", "savoir-vivre foyer halal Malaisie", "coutumes visite foyer malaisien"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: 'Une vue en plongée d''un festin de Hari Raya disposé sur une table, avec des marmites de rendang de bœuf et de curry de légumes, un plat de sambal et des assiettes d''étuis de ketupat tressés et de riz compressé tranché.'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: Des invités en batik et baju kurung sourient et se serrent la main en signe de salutation sur le pas de la porte d'une journée portes ouvertes de Hari Raya Aidilfitri.
+    kind: representative
+    origin: third-party
+    subject: Des invités saluant leurs hôtes lors d'une journée portes ouvertes de Hari Raya Aidilfitri
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: Un ensemble d'étuis de riz ketupat tressés en feuilles de palmier et liés ensemble, un incontournable de l'hospitalité malaisienne des portes ouvertes de Hari Raya.
+    kind: actual
+    origin: third-party
+    subject: Gâteaux de riz ketupat tressés pour Hari Raya
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 Vous avez été invité à un *rumah terbuka* — une maison ouverte. C'est peut-être

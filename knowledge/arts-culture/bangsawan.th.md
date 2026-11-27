@@ -34,7 +34,7 @@ faq:
     a: "มันเสื่อมถอยในกลางศตวรรษที่ 20 เพราะการแข่งขันจากวิทยุ ภาพยนตร์ และโทรทัศน์ ภายในปลายทศวรรษ 1930 โรงบังซาวันหลายแห่งถูกเปลี่ยนเป็นโรงภาพยนตร์ และหลังสงครามอุตสาหกรรมนั้นสูญเสียแหล่งเงินทุน"
 
 lang: "th"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,34 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/bangsawan/hero.webp'
+heroAlt: 'ภาพถ่ายสีซีเปียยุคทศวรรษ 1890 ของคณะละครบังสาวันมลายูในชุดราชวงศ์บนเวทีที่มีฉากหลังวาด นักแสดงสวมมงกุฎและชุดประณีตนั่งและยืนบนแท่นบัลลังก์ ขณะฝูงชนชมอยู่ด้านล่าง'
+heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: ภายนอกโรงละครปังกงบังซาวันในเมืองมะละกา ด้านหน้าสมัยใหม่สีครีมและน้ำตาลพร้อมป้าย 'Panggung Bangsawan Melaka' สีแดงใต้ท้องฟ้าสีฟ้าใส
+    kind: actual
+    origin: third-party
+    subject: ปังกงบังซาวัน โรงละครที่อุทิศให้แก่บังซาวันในเมืองมะละกา
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: มุมมองจากหัวมุมถนนของโรงละครปังกงบังซาวันในเมืองมะละกาพร้อมป้าย 'Panggung' แนวตั้งสีแดงสูง ต้นปาล์มและอาคารเมืองอยู่ด้านหลังใต้ท้องฟ้ามืดครึ้ม
+    kind: actual
+    origin: third-party
+    subject: มุมมองถนนของปังกงบังซาวัน โรงละครบังซาวันโดยเฉพาะของเมืองมะละกา
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 ก่อนจะมีภาพยนตร์ ก็มีเวทีที่มีไฟส่อง ม่านวาดด้วยมือ และวงดนตรีที่สามารถเปลี่ยนจากเพลงร่ายของราชสำนักมลายูไปสู่จังหวะจากตะวันออกกลางในคืนการแสดงเดียวกัน นั่นคือบังซาวัน (bangsawan) — อุปรากรบนเวทีที่ครั้งหนึ่งเคยเป็นความบันเทิงในเมืองที่คึกคักที่สุดในคาบสมุทร และต่อมาได้มอบนักแสดงกับนักร้องของตนให้แก่อุตสาหกรรมภาพยนตร์มลายูที่เพิ่งถือกำเนิด

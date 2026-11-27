@@ -98,6 +98,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'A waterfront shipyard with towering red gantry cranes and large vessels under construction'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: Aerial view of a large white boatbuilding factory in Malaysia, with a vessel hull visible at an open bay door
+    kind: actual
+    origin: third-party
+    subject: The Grand Banks Yachts boatbuilding factory at Pasir Gudang, Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: Overhead aerial view of a riverside Malaysian shipyard's large fabrication halls and yard
+    kind: actual
+    origin: third-party
+    subject: Overhead view of the Grand Banks Yachts shipyard beside a river in Johor, Malaysia
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 Malaysia sits on two of the world's busiest sea lanes and earns a large part of its living from the sea — yet its shipbuilding and ship repair (SBSR) industry is one of the quieter corners of the national economy. It is real, long-established and strategically important, but also fragmented, cyclical and dominated by relatively small yards. This guide explains what the industry builds, where, how big it is, and why one naval programme has come to overshadow the whole sector in public debate.

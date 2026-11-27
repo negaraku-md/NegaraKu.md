@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "พลเมืองมาเลเซีย ผู้มีถิ่นที่อยู่ถาวร ผู้ซื้อบ้านครั้งแรก และผู้ซื้อชาวต่างชาติ (ภายใต้ข้อจำกัดและอัตราอากรเพิ่มเติม)"
 
 lang: "th"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,32 @@ faq:
   - q: เหตุใดผู้ซื้อจึงมักต้องจ่ายค่าธรรมเนียมทางกฎหมายสองชุดในการซื้อครั้งเดียว?
     a: เพราะมีเอกสารแยกกันสองฉบับดำเนินไปควบคู่กัน โดยจัดทำในนามของลูกความคนละราย ทนายคนหนึ่งร่างและปิดอากรแสตมป์สัญญาซื้อขายที่โอนกรรมสิทธิ์อสังหาริมทรัพย์ อีกคนหนึ่ง — ซึ่งธนาคารแต่งตั้ง บางครั้งเป็นสำนักงานเดียวกันที่สวมอีกบทบาท — จัดทำสัญญาเงินกู้และการจำนอง (แบบฟอร์ม 16A) ที่ค้ำประกันผลประโยชน์ของธนาคาร ทนายของธนาคารคุ้มครองการจำนองของธนาคาร ไม่ใช่เงินมัดจำของผู้ซื้อ บทบาทและค่าธรรมเนียมของทั้งสองจึงแยกจากกัน
 framework: explainer
+hero: '/media/property/buying-a-home-process/hero.webp'
+heroAlt: 'ทางเข้าที่มีป้ายและป้อมยามของโครงการที่อยู่อาศัย Cassia Homes ในเซอเริมบันยามพลบค่ำ โดยมีบ้านแฝดอยู่ด้านหลัง'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: บ้านที่เพิ่งสร้างเสร็จและผืนดินเปล่าบ่งบอกถึงโครงการที่อยู่อาศัยใหม่ที่กำลังผุดขึ้นที่ Kepayang Heights รัฐเนอเกอรีเซิมบีลัน ซึ่งเป็นโครงการประเภทที่ผู้ซื้อจองจากแบบแปลนในห้องขายโครงการ
+    kind: representative
+    origin: third-party
+    subject: โครงการที่อยู่อาศัยใหม่ที่กำลังก่อสร้างที่ Kepayang Heights รัฐเนอเกอรีเซิมบีลัน
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: ถนนสายหนึ่งของบ้านมีที่ดินรูปแบบเหมือนกันที่เพิ่งสร้างเสร็จใน Taman Idaman รัฐปีนัง อันเป็นโครงการที่สร้างเสร็จประเภทที่ผู้ซื้อเข้าอยู่หลังการส่งมอบกุญแจ
+    kind: representative
+    origin: third-party
+    subject: บ้านมีที่ดินที่สร้างเสร็จแล้วใน Taman Idaman เขตเซอเบอรังเปอไรเซอลาตัน รัฐปีนัง
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 โดยปกติมีทนายสองคนเกี่ยวข้องกับการซื้อบ้านในมาเลเซีย และผู้ซื้อส่วนใหญ่ไม่เคยสังเกตว่าเป็นคนละคนกัน คนหนึ่งร่างและติดอากรแสตมป์สัญญาซื้อขายที่โอนอสังหาริมทรัพย์ อีกคนหนึ่ง ซึ่งธนาคารแต่งตั้ง บางครั้งเป็นสำนักงานเดียวกัน ร่างและติดอากรแสตมป์สินเชื่อและการจำนองที่ให้ธนาคารสามารถยึดอสังหาริมทรัพย์ได้หากไม่ชำระคืนสินเชื่อ ผู้ซื้อที่คิดว่า "ทนาย" เป็นตัวละครเดียวในเรื่องนี้ มักเป็นคนที่สับสนในภายหลังว่าเหตุใดจึงมีค่าธรรมเนียมทางกฎหมายสองชุด หรือเหตุใดกุญแจจึงไม่มาถึงในวันที่สินเชื่อได้รับอนุมัติ

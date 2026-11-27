@@ -31,7 +31,7 @@ faq:
   - q: 什么是国家 OGSE 产业蓝图？
     a: 它于 2021 年 4 月推出、2024 年进行中期检讨，是政府让该领域更具竞争力、更具韧性与更可持续的 10 年计划（2021—2030）。其目标包括把出口收入翻倍、维持约 RM50 billion 的国内生产总值贡献，并推动企业进入碳捕集、氢能与可再生能源等能源转型服务。
 lang: zh
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,34 @@ keywords:
   - 海上支援船
   - 国家 OGSE 蓝图
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: '海上一座半潜式海洋钻井平台正面视图，方形甲板和高耸的中央井架由两个潜没的浮筒支撑，锚链伸入水中，地平线上有远处的补给船'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: 金色光线中一座大型海上石油生产平台，其甲板起重机正将货物吊放到一旁定位于蔚蓝海面上的海上补给船
+    kind: representative
+    origin: third-party
+    subject: 一艘海上补给船在生产平台旁作业，平台起重机正在吊运货物
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: 一艘名为 Island Chieftain 的蓝白相间海上支援船停靠在码头旁，可见其高耸的前部驾驶室和长而平坦的开阔货运甲板，背景是山峦
+    kind: representative
+    origin: third-party
+    subject: 一艘平台补给兼海上支援船停靠在码头旁，露出其开阔的后部货运甲板
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 当人们想象马来西亚的油气财富时，通常会想到登嘉楼、砂拉越与沙巴近海海床之下的原油与天然气——那些让国家石油公司成为亚洲最大能源公司之一的储量。但碳氢化合物不会自己从地下冒出来。在每一个生产油田背后，都坐着一支承包商大军：焊接钢制平台的建造厂、钻探油井的平台、在海上运送船员与货物的船舶、设计设施的工程师，以及让这一切持续运转的技术人员。这个生态系统就是**油气服务与设备（OGSE）产业**，它本身就是马来西亚的一个重要产业。

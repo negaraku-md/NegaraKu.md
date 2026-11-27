@@ -99,6 +99,7 @@ dishFacts:
   halal: "Kebanyakan thosai Malaysia mengekalkan adunan yang mudah — beras, urad dal, air dan garam, kadangkala sedikit halba — menjadikan lempeng biasa itu vegetarian. Ia kelaziman restoran banana leaf vegetarian India Selatan dan gerai mamak, kedai makan Islam-India tempat ia berkongsi kuali dengan roti canai."
   eat: "Thosai jarang dimakan bersendirian; ia dilipat — dua, menjadi segi tiga, atau digulung — kemudian dikoyak dengan tangan dan dicelup ke dalam chutney kelapa atau kolam dhal. Thosai kosong biasa bergantung sepenuhnya pada pelengkapnya iaitu chutney kelapa, sambar dan dhal untuk perisa, dan banyak restoran menghidang chutney tambahan — pudina, tomato atau bawang. Ia makanan asasi sarapan, dihidang dari awal pagi hingga lewat malam."
   where: "Anda menemuinya dalam dua suasana yang bertindih: restoran vegetarian dan banana leaf India Selatan, tempat ia menjadi kelaziman pagi dan waktu minum petang di sebelah idli dan vadai, serta gerai mamak, kedai makan Islam-India tempat ia berkongsi kuali dengan roti canai. Halaman JKKN mencatatkan bahawa tosai kerap dihidang sebagai sarapan, terutamanya di restoran India di Malaysia yang dikenali sebagai restoran mamak."
+wikidata: "Q920940"
 ---
 
 Masuk ke gerai mamak pada waktu subuh, atau ke restoran daun pisang pada waktu

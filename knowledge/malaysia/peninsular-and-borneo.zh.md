@@ -22,7 +22,7 @@ appliesTo: "旅客、企业，以及任何想要理解为什么「马来西亚�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: '马来西亚分区地图，马来西亚半岛与婆罗洲上的东马来西亚以色块区分，隔着南中国海分列两侧。'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: 一片平坦辽阔、翠绿欲滴的稻田向着一道低矮的树木地平线延伸，上方是辽阔淡蓝的天空。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪适耕庄（Sekinchan）的低地稻田（马来半岛）
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: 一条宽阔浑浊的黄褐色雨林河流在茂密的丛林河岸之间蜿蜒流淌，几艘绿色小木船系泊在一座木制码头旁。
+    kind: actual
+    origin: third-party
+    subject: 沙巴苏考（Sukau）的京那巴当岸河（Kinabatangan River，马来西亚婆罗洲）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 从吉隆坡搭乘国内航班飞往哥打京那巴鲁，你降落的仍是你离开时的那个国家。同样的货币，同样的护照，机尾上同样的国旗。然而，在抵达大厅，你却要在一个具有移民关卡性质的柜台前排队，有人会在放行之前检查你的身份证或护照。马来西亚境内没有其他任何一趟航班是这样运作的。

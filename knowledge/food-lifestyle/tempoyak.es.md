@@ -92,6 +92,7 @@ verificationNeeded:
   - "La duración típica de la fermentación y las condiciones óptimas (suele citarse en torno a cuatro a siete días a unos 27°C, pero las cifras varían según la variedad de durián y el estudio)——confirmar con una referencia de ciencia de los alimentos."
   - "La historia del origen del tempoyak como método de conservación del durián y el relato de su difusión por marineros de Sumatra——confirmar con una fuente de historia de la alimentación, ya que esto se repite en los medios gastronómicos más que como historia primaria documentada."
 framework: explainer
+wikidata: "Q4748563"
 ---
 
 Pocos alimentos dividen una sala con la nitidez del durián, y el tempoyak toma esa

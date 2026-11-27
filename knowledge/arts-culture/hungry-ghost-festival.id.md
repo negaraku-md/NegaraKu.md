@@ -33,7 +33,7 @@ faq:
     a: "'Teriakan lelang' (melelang barang berkah) adalah bagian yang lazim seusai jamuan Majelis Ulambana: penyelenggara membawa sesajen bertuah di meja — buah, beras, minuman, serta batang arang yang disebut 'emas hitam', yakni 'barang berkah' — untuk dilelang secara terbuka satu per satu, dan penawar tertinggi 'memenangi' tiap barang. Hasilnya sebagian besar dipakai untuk menutup biaya acara dan disumbangkan ke amal seperti sekolah Tionghoa, sehingga Festival Hantu Lapar di Malaysia juga sangat kental dengan nuansa gotong royong komunitas dan amal."
 
 lang: "id"
-sourceContentHash: "ab8e5dc3ca10e0e6"
+sourceContentHash: "f3a279c679a8f3b4"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,34 @@ festivalFacts:
   when: "Bulan ketujuh penanggalan Imlek (dari tanggal 1 「gerbang hantu terbuka」 hingga akhir bulan 「gerbang hantu tertutup」), dengan tanggal 15 bulan ketujuh (puncak Zhongyuan) sebagai puncak persembahan."
   holiday: "Bukan hari libur umum secara nasional maupun di negeri mana pun di Malaysia; persembahan, Ullambana dan panggung hiburan (getai) umumnya berlangsung pada sore dan malam hari seusai jam kerja."
   etiquette: "Barisan kursi paling depan di panggung hiburan sengaja dikosongkan untuk tamu tak kasat mata, penonton umumnya tidak duduk di baris pertama; di kalangan rakyat juga ada anjuran agar tidak menginjak sesajen di tepi jalan, dan tidak sembarangan memungut barang bernilai di tanah."
+hero: '/media/arts-culture/hungry-ghost-festival/hero.webp'
+heroAlt: 'Panggung festival di bawah tenda bercahaya lengkung neon merah, panel berbentuk bintang, dan papan LED beraksara Tionghoa yang bergulir pada malam getai bulan ketujuh'
+heroCredit: 'Ah leong 99. / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Getai_stage,_Singapore_-_20120124.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A brightly lit getai stage with red neon and an LED display at a Hungry Ghost Festival performance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-1.webp
+    alt: Patung kertas raksasa dewa Da Shi Ye berjubah biru menjulang di atas altar penuh dupa yang menyala, buah-buahan dan sebuah pedupaan sewaktu Festival Hantu Lapar di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Patung dewa penjaga Da Shi Ye (Tai Su Yeah) raksasa di atas altar persembahan di kuil Tow Boo Keong, Alor Setar, Kedah
+    credit: 㗝呸烏 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tai_Su_Yeah_at_Tow_Boo_Keong_Mergong_2024.jpg
+  - role: scene
+    src: /media/arts-culture/hungry-ghost-festival/body-2.webp
+    alt: Nampan-nampan berisi nasi, lauk, buah-buahan dan minuman di atas rumput, masing-masing ditancapi dupa merah yang menyala, disusun sebagai persembahan untuk Festival Hantu Lapar
+    kind: representative
+    origin: third-party
+    subject: Persembahan makanan di tepi jalan dengan dupa yang disusun untuk roh-roh yang berkelana sewaktu Festival Hantu Lapar bulan ketujuh
+    credit: ProjectManhattan / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:7th_Month_Hungry_Ghost_Festival_Offerings_in_Singapore.jpg
 ---
 
 Begitu bulan ketujuh lunar tiba, pemandangan malam di banyak sudut jalan di Penang, Klang, dan Johor perlahan berubah secara diam-diam: di tepi jalan didirikan meja-meja kecil, di atasnya ada buah, nasi, air teh, dan tumpukan kertas emas-perak, dupa dan lilin berkelip dalam keremangan senja. Di lapangan kosong lingkungan, sebuah patung dewa kertas setinggi beberapa meter dengan wajah garang telah didirikan, di hadapannya dibangun sebuah panggung; begitu malam tiba lampu menyala terang dan suara nyanyian berkumandang — namun satu baris penuh kursi di depan panggung justru tetap kosong sepanjang waktu.

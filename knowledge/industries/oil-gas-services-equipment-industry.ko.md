@@ -31,7 +31,7 @@ faq:
   - q: 국가 OGSE 산업 청사진이란 무엇인가요?
     a: 2021년 4월 출범하고 2024년 중간검토된, 이 부문을 더 경쟁력 있고 회복력 있으며 지속가능하게 만들려는 정부의 10년 계획(2021–2030)입니다. 목표에는 수출 매출 두 배, 약 RM500억 링깃의 GDP 기여 유지, 그리고 탄소포집·수소·재생에너지 같은 에너지 전환 서비스로 기업을 밀어 넣는 것이 포함됩니다.
 lang: ko
-sourceContentHash: "4135d2cdb598faa4"
+sourceContentHash: "6823f6c522901940"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,34 @@ keywords:
   - 해양 지원 선박
   - 국가 OGSE 청사진
 framework: profile
+hero: '/media/industries/oil-gas-services-equipment-industry/hero.webp'
+heroAlt: '바다에서 정면으로 본 반잠수식 해양 시추 플랫폼, 상자형 갑판과 높은 중앙 데릭이 두 개의 잠긴 폰툰 위에 지지되고 닻줄이 물로 뻗으며 지평선에 먼 공급선들이 있는 모습'
+heroCredit: 'Calistemon / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_drill_rigs_in_Brunei_Bay,_April_2025_05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a semi-submersible offshore drilling rig standing at sea in Brunei Bay, off Labuan'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-1.webp
+    alt: 황금빛 햇살 속 대형 해양 석유 생산 플랫폼이 데크 크레인으로 짐을 내려, 탁 트인 푸른 바다에서 옆에 자리 잡은 해양 보급선으로 전달하고 있다
+    kind: representative
+    origin: third-party
+    subject: 플랫폼 크레인이 짐을 옮기며 생산 플랫폼 옆에서 작업 중인 해양 보급선
+    credit: GuavaTrain / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+  - role: scene
+    src: /media/industries/oil-gas-services-equipment-industry/body-2.webp
+    alt: Island Chieftain이라는 이름의 청백색 해양 지원선이 부두에 정박해 있으며, 높은 선수 선교와 길고 평평하게 트인 화물 갑판이 보이고 뒤편에 산들이 있다
+    kind: representative
+    origin: third-party
+    subject: 부두에 정박한 플랫폼 보급·해양 지원선으로, 트인 후미 화물 갑판이 보인다
+    credit: JoachimKohler-HB / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Supply_vessel_"Island_Chieftain"_in_Sandnessjøen.jpg
 ---
 
 사람들이 말레이시아의 석유·가스 부(富)를 떠올릴 때, 대개 트렝가누·사라왁·사바 앞바다 해저의 원유와 가스 — PETRONAS를 아시아 최대 에너지 기업 중 하나로 만든 매장량 — 를 생각합니다. 그러나 탄화수소는 스스로 땅에서 나오지 않습니다. 생산 중인 모든 유전 뒤에는 작은 계약업체 군단이 있습니다. 강철 플랫폼을 용접하는 야드, 유정을 뚫는 시추 장비, 해상으로 작업자와 화물을 나르는 선박, 설비를 설계하는 엔지니어, 그리고 이 모든 것을 돌아가게 하는 기술자들입니다. 그 생태계가 **석유·가스 서비스·장비(OGSE) 산업**이며, 그 자체로 말레이시아의 주요 산업입니다.

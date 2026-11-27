@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ar"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["سلانغور ماليزيا", "شاه عالم", "ميناء كلانغ Port Klang", "سايبرجايا Cyberjaya", "اقتصاد وادي كلانغ", "Selangor Malaysia"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'مسجد السلطان صلاح الدين عبد العزيز المضاء بقبّته الزرقاء ومآذنه الأربع العالية المتوهّجة أمام سماء الغسق الزرقاء الداكنة في شاه علم.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: تتوّج المنارة قمة قلعة Bukit Melawati التاريخية على التلّة المطلّة على Kuala Selangor في سلانغور.
+    kind: actual
+    origin: third-party
+    subject: منارة Kuala Selangor على Bukit Melawati، سلانغور
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: تتوهّج الأشجار والممرّات بأضواء LED ملوّنة في مدينة الملاهي i-City في شاه عالم بسلانغور.
+    kind: actual
+    origin: third-party
+    subject: حديقة الأضواء i-City، شاه عالم، سلانغور
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 سلانغور هي الولاية التي يقوم عليها اقتصاد ماليزيا بهدوء. فهي تطوّق بالكامل العاصمة

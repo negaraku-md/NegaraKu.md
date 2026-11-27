@@ -37,7 +37,7 @@ faq:
     a: "Diesel di Sabah, Sarawak dan Labuan dipertahankan pada RM2.15 per liter dan tidak diapungkan seperti di Semenanjung. RON95 bersubsidi RM1.99 berlaku untuk warga negara yang layak di seluruh negara."
 
 lang: "id"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -133,6 +133,33 @@ relations:
 related: ["padu-central-database", "petronas"]
 keywords: ["subsidi bahan api", "BUDI95", "RON95", "subsidi diesel", "PADU", "subsidi bersasar", "BUDI MADANI", "RM1.99", "rasionalisasi subsidi"]
 framework: explainer
+wikidata: "Q142236000"
+hero: '/media/energy/fuel-subsidy-system/hero.webp'
+heroAlt: 'Area stasiun pengisian bahan bakar Petronas dengan pompa bahan bakar di bawah kanopi di Malaysia.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: Sebuah SPBU bermerek Shell dengan kanopi berlis merah di atas beberapa pulau pompa bahan bakar, logo pecten Shell kuning pada papan pylon di tepi jalan, serta ruko dan mobil di dekatnya di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Halaman depan SPBU Shell di Taman Pelangi, Johor Bahru, dengan pulau pompa bahan bakar di bawah kanopi
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: Halaman depan SPBU di bawah kanopi datar lebar yang menaungi pompa bahan bakar, sebuah pylon papan harga tinggi bercahaya berdiri di tepi jalan, dan sebuah bangunan minimarket di sampingnya pada hari mendung
+    kind: actual
+    origin: third-party
+    subject: Sebuah SPBU bermerek FIVE di Ijok, Selangor, salah satu jaringan ritel bahan bakar independen Malaysia, dengan halaman depan dan pylon harganya
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 Selama berdekade, setiap orang di Malaysia — jutawan maupun penoreh karet — membayar harga bensin yang sama di pompa. Pada 30 September 2025, tatanan itu berakhir. Kini satu liter RON95 bisa berharga RM1.99 untuk Anda tetapi hampir dua kali lipat untuk tetangga Anda, dan yang menentukannya bukan harga minyak dunia, melainkan kartu identitas yang Anda selipkan ke terminal.

@@ -29,7 +29,7 @@ faq:
     a: "Thẩm quyền chính thuộc về sở/hội đồng tôn giáo Hồi giáo của bang, vì các vấn đề tôn giáo Hồi giáo là vấn đề của bang theo Hiến pháp. JAKIM điều phối ở cấp liên bang, trong khi các yêu cầu về an toàn công trình liên quan đến Chính quyền Địa phương và Cục Cứu hỏa (Bomba)."
 
 lang: "vi"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'Một hàng học sinh mặc baju kurung màu xanh và khăn trùm đầu màu đen đi vào trường Sekolah Menengah Agama Al-Maarif, một trường trung học tôn giáo Malaysia, ngang qua những cây dừa.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: Bên ngoài tĩnh lặng của một trường tahfiz ở Batu Pahat, Johor, nơi học sinh nội trú để học thuộc lòng kinh Quran song song với việc học văn hóa.
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: Tòa nhà giản dị của một trường tiểu học tôn giáo (sekolah agama) ở Peringgit, Melaka, nơi trẻ em học môn Hồi giáo trong buổi học chiều.
+    kind: actual
+    origin: third-party
+    subject: Trường Tiểu học Tôn giáo Peringgit, Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 Một đứa trẻ ở Malaysia có thể dành buổi sáng ở trường quốc gia, buổi chiều ở lớp KAFA của nhà thờ Hồi giáo, và những năm thiếu niên ở ký túc xá tahfiz — ba môi trường giáo dục với người giám sát, chương trình và luật lệ khác nhau. Nhánh giáo dục tôn giáo Hồi giáo vận hành song song với hệ thống quốc gia, nhưng nó không phải là một khối đơn nhất. Hiểu ai đăng ký cái gì, và ai chịu trách nhiệm về cái gì, là chìa khóa để đọc các cuộc tranh luận công khai về chủ đề này một cách công bằng.

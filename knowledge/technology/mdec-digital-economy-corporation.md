@@ -64,9 +64,36 @@ sources:
 entity: "Malaysia Digital Economy Corporation (MDEC)"
 wikidata: "Q279453"
 relations: []
-related: []
+related: ["digital-economy-overview", "ministry-of-digital-malaysia", "mdec-digital-status"]
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
+hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
+heroAlt: 'Aerial panorama of Cyberjaya, Malaysia''s tech corridor, showing office buildings, highways and green landscaping'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: A signboard reading 'MSC Headquarters, Multimedia Development Corporation' beside a landscaped pond and fountain in Cyberjaya
+    kind: actual
+    origin: third-party
+    subject: Signboard for the MSC Headquarters / Multimedia Development Corporation (MDEC's predecessor) in Cyberjaya
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: A large red sculptural letter C reading 'Cyberjaya Malaysia' with a circuit-board pattern, at a Cyberjaya roadside park
+    kind: representative
+    origin: third-party
+    subject: Sculptural 'Cyberjaya Malaysia' landmark signage at a roadside park in Cyberjaya
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 Search "Malaysia Digital Status" and almost every result is a consultancy selling an application service — and most blur three separate things into one. There is the **agency** (MDEC), the **status** it awards (MD Status), and a **tax incentive** that is a wholly separate application with much steeper requirements. Keeping them apart is the difference between a RM1,000 threshold and a RM50,000 one. Here is each layer, from primary sources.

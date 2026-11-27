@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -65,9 +65,35 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["telemedicine Malaysia", "online doctor", "teleconsultation", "DoctorOnCall", "MMC guideline", "e-prescription", "Telemedicine Act 1997"]
 framework: explainer
+hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'
+heroAlt: '遠隔医療のワークステーションで、診断モニターと並ぶビデオ画面越しに遠隔地の患者を診る医師。'
+heroCredit: 'Intel Free Press / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: 机で電話をしながらメモを取る医師。背後のスタンドには白衣がかけられており、遠隔での電話による医療相談を表している
+    kind: representative
+    origin: third-party
+    subject: 机で電話による遠隔診療を行う医師
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: 遠隔医療のビデオ相談アプリを起動したスマートフォンと、手持ち式の超音波プローブを手に持っている様子。遠隔のオンライン診断を表している
+    kind: representative
+    origin: third-party
+    subject: スマートフォンアプリで行う遠隔のビデオ誘導超音波検査
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 アプリを開き、ソファに座ったまま医師とビデオ通話をすると、1時間後には処方箋が受信箱に届く。マレーシアでは、これは完全に合法である——しかし、その背後にあるルールブックは、あなたが思っているような法律ではない。

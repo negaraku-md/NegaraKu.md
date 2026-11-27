@@ -30,7 +30,7 @@ faq:
     a: "APM 依据《1951 年民防法令》（第 221 号法令，Akta 221）运作，该法令赋予其在和平时期与战争时期保护生命与财产的职责。"
 
 lang: "zh"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: '马来西亚关丹一场游行中，一辆印有APM徽标的马来西亚民防部队（Angkatan Pertahanan Awam Malaysia）救援车上载着一名身着制服的志愿者。'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: 峇眼拉浪海岸上一座民防部队(Angkatan Pertahanan Awam)海滩救援瞭望塔
+    kind: actual
+    origin: third-party
+    subject: 峇眼拉浪的民防部队(APM)海滩救援瞭望塔
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: 峇眼拉浪一座俯瞰开阔海滩的民防部队海岸救生与救援塔
+    kind: actual
+    origin: third-party
+    subject: 峇眼拉浪俯瞰海滩的民防部队海岸救生塔
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 当大水灾来袭或楼房倒塌时，最先带着船只、绳索和救援器材抵达现场的队伍之一，往往身穿橙色制服的 APM 人员。马来西亚民防部队（APM）是国家人道援助的中坚力量——在灾难发生之前、期间及之后都在场。

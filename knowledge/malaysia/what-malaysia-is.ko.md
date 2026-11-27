@@ -18,7 +18,7 @@ keyTakeaways:
   - "입법권은 제9부속서의 연방 목록, 주 목록, 공동 목록에 의해 연방과 주 사이에 나뉩니다"
 appliesTo: "말레이시아를 처음 접하며, 어느 한 제도를 깊이 파고들기에 앞서 이 나라가 헌법적으로 어떤 나라인지 이해하고자 하는 모든 이."
 lang: "ko"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: '말레이시아 정치 지도로, 서쪽에 반도 말레이시아, 동쪽에 보르네오섬의 사바와 사라왁이 있으며 주요 도시가 표시되어 있다.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: 붉은색과 금색의 중국식 패루 위에 황금빛 용이 장식되어 있고, 파란 현판에 JALAN PETALING / PETALING STREET라고 쓰여 있으며 그 아래에 여러 언어로 된 환영 현수막이 걸려 있는 쿠알라룸푸르 차이나타운.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 차이나타운의 프탈링 거리 장식 패루
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: 우뚝 솟은 황금빛 무루간(Murugan) 신상이 정글로 뒤덮인 석회암 절벽을 오르는 색색의 가파른 계단 옆에 서 있고, 방문객들이 계단을 오르고 있다.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 바투 동굴의 황금빛 무루간 신상과 무지개 계단
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 말레이시아는 하나의 정부를 둔 단일한 장소가 아닙니다. 말레이시아는 연방 국가입니다. 즉, 13개 주와 3개 연방직할구를 하나로 엮어 만든 단일 국가로, 남중국해(South China Sea)의 수백 킬로미터에 걸쳐 갈라진 두 개의 육지 위에 자리하고 있습니다. 이 구조를 먼저 이해하면 이 나라에 관한 거의 모든 것을 훨씬 수월하게 따라갈 수 있습니다.

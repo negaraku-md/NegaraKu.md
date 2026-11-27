@@ -98,9 +98,10 @@ relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "explained-in", to: "tribunal-tuntutan-pembeli-rumah" }
   - { rel: "related-to", to: "strata-titles-act-1985" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["HDA", "Akta 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "lesen pemaju", "APDL", "Tribunal Tuntutan Pembeli Rumah"]
 framework: rules
+wikidata: "Q142235984"
 ---
 
 You pay a 10% deposit for a condominium that exists only as an architect's drawing, then wait three years while servicing your loan instalments. What stops the developer from running off with your money, building slowly, or handing over a defective unit? The answer is a law more than half a century old: the Housing Development (Control and Licensing) Act 1966 — known for short as the HDA or Act 118.

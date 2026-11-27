@@ -37,7 +37,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,32 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: 'மலேசியாவின் செக்கிஞ்சானில் அடிவானம் வரை நீளும் நீர்ப்பாசனக் கால்வாயுடன் கூடிய பசுமையான நெல் வயல்.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: பஹாங், கேமரூன் ஹைலண்ட்ஸ், பெர்தாம் பள்ளத்தாக்கின் மலைச்சரிவுகளில் படிநிலைக் காய்கறிப் பண்ணைகளும் பிளாஸ்டிக் சுரங்கக் கொட்டகைகளும்
+    kind: actual
+    origin: third-party
+    subject: பஹாங், கேமரூன் ஹைலண்ட்ஸ், பெர்தாம் நதிப் பள்ளத்தாக்கில் உள்ள மலைவாழ் காய்கறிப் பண்ணைகள்
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: கேமரூன் ஹைலண்ட்ஸ், காம்போங் ராஜாவில் ஒரு மலைவாழ் கிராமத்திற்கு மேலே சூரிய ஒளியில் படிநிலையாக அமைந்த இலைக்காய்கறிப் படுகைகள்
+    kind: actual
+    origin: third-party
+    subject: பஹாங், கேமரூன் ஹைலண்ட்ஸ், காம்போங் ராஜாவில் உள்ள திறந்தவெளிக் காய்கறிப் பண்ணை
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 2024ல், மலேசியா 100 மில்லியன் டன்னுக்கும் அதிகமான பாமாயில் புதிய குலைப் பழங்களை (fresh fruit bunches) உற்பத்தி செய்தது — மலேசியா புள்ளிவிவரத் திணைக்களத்தின் (Department of Statistics Malaysia, DOSM) படி சுமார் 100.2 மில்லியன் டன் — உலகின் இரண்டு மிகப்பெரிய பாமாயில் உற்பத்தியாளர்களில் ஒன்று என்ற தனது நிலையைத் தக்கவைக்கப் போதுமானது. அதே ஆண்டில், இந்த நாடு தனது மக்கள் உண்ணும் அரிசியில் கிட்டத்தட்ட பாதியை இறக்குமதி செய்தது.

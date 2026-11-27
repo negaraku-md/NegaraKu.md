@@ -30,7 +30,7 @@ faq:
     a: "وفقًا لـ JKKN، تشكّل السياسة الثقافية الوطنية 1971 أساس السياسة الثقافية الوطنية (DAKEN) 2021 المبنية على سبع ركائز بفترة تنفيذ 2021-2025. وتذكر JKKN أيضًا أن السياسة الثقافية الوطنية 1971 لم تُقرّ رسميًا قط على مستوى مجلس الوزراء، وإن كانت قد وجّهت الإدارة نحو 50 عامًا."
 
 lang: "ar"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["rukun-negara", "new-economic-policy"]
 keywords: ["السياسة الثقافية الوطنية", "dasar kebudayaan kebangsaan", "المؤتمر الثقافي الوطني 1971", "kongres kebudayaan kebangsaan 1971", "المبادئ الثلاثة", "DAKEN 2021", "الثقافة الماليزية", "الوحدة الوطنية", "perpaduan"]
 framework: explainer
+hero: '/media/arts-culture/national-cultural-policy/hero.webp'
+heroAlt: 'المدخل الرئيسي لإستانا بودايا، المسرح الوطني، بسقفه الممتد على طراز سيريه-جونجونغ وشعار اللوتس الذهبي ودرج عريض يؤدّي إلى أبواب خشبية منحوتة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: مجموعة من الراقصين بالأزياء التقليدية لـ Sarawak يؤدّون رقصة شعبية على المسرح أمام الجمهور
+    kind: actual
+    origin: third-party
+    subject: فنّانون بالأزياء التقليدية يقدّمون رقصة شعبية من Sarawak في عرض ثقافي في ماليزيا
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: واجهة المتحف الوطني الماليزي، وهو مبنى ذو سقف مدبّب بطراز Minangkabau وألواح جداريات مبلّطة كبيرة
+    kind: actual
+    origin: third-party
+    subject: المتحف الوطني الماليزي (Muzium Negara) في Kuala Lumpur، بسقفه بطراز Minangkabau وجدارياته الفسيفسائية التراثية
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 في عام 1971، بعد نحو عامين من [حادثة 13 مايو 1969](/malaysia/13-may-1969)، اجتمعت مجموعة من العلماء وممارسي الفنون والقادة في جامعة مالايا للإجابة عن سؤال صعب يواجه أمة متعددة الأعراق: ماذا يُقصد بـ«الثقافة الوطنية»؟ والجواب الذي انبثق — السياسة الثقافية الوطنية (DKK) — ما زال مرجعًا سياساتيًا حتى اليوم، وما زال في الوقت نفسه مادة للجدل.

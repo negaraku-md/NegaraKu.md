@@ -1,7 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "Behind the Pharmacy Counter: Prescriptions, Over-the-Counter Medicine and Controlled Drugs in Malaysia"
-seoTitle: Behind the Pharmacy Counter
+seoTitle: "Buying Medicine at Pharmacies in Malaysia"
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]
@@ -21,7 +21,7 @@ appliesTo: "Anyone buying medicine at a government or private pharmacy in Malays
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d1d06d1d72ea0e4b"
+sourceContentHash: "c77e8fb2220b7b23"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -55,6 +55,33 @@ relations:
 related: ["medical-insurance", "healthcare-for-seniors"]
 keywords: ["beli ubat Malaysia", "farmasi Malaysia", "Akta Racun 1952", "ubat preskripsi", "ubat bebas", "Poisons Act 1952", "ahli farmasi berdaftar", "racun Kumpulan B", "Quest3+", "NPRA"]
 framework: explainer
+hero: '/media/healthcare/buying-medicine-pharmacies/hero.webp'
+heroAlt: 'A bright red 1955 corner shophouse housing a BIG Pharmacy (Farmasi) outlet in Kluang, Malaysia, with bilingual Farmasi signage'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A BIG Pharmacy community pharmacy branch in a heritage corner shophouse in Kluang, Johor'
+images:
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-1.webp
+    alt: A single-storey independent community pharmacy with blue Farmasi Sinar signage, cars parked outside under a clear sky in Malaysia
+    kind: actual
+    origin: third-party
+    subject: Farmasi Sinar, an independent neighbourhood community pharmacy in Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Farmasi_Sinar_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/buying-medicine-pharmacies/body-2.webp
+    alt: The outpatient pharmacy entrance inside a Malaysian government hospital, with yellow and blue Farmasi signs and a World Pharmacist Day banner, no people visible
+    kind: actual
+    origin: third-party
+    subject: Outpatient pharmacy (Farmasi) entrance at Hospital Sultanah Nora Ismail, a government hospital in Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Farmasi_Pesakit_Luar,_Blok_A,_Hospital_Sultanah_Nora_Ismail_20230917_160311.jpg
 ---
 
 One customer asks for cough medicine at the pharmacy counter and is served immediately. Another asks for antibiotics for a sore throat and is asked to show a doctor's prescription first. Both transactions happen at the same pharmacy, on the same day — the difference lies in how the law classifies the medicine, not in the pharmacist's discretion.

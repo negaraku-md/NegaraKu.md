@@ -33,7 +33,7 @@ faq:
     a: "تشينغ مينغ هو أكثر أيام السنة ازدحامًا في «يي شان». وفي نحو عشرة أيام حول تشينغ مينغ، كثيرًا ما تذهب الأسر الصينية بأكملها إلى «يي شان» لتنظيف القبور وتكريم الأسلاف — فتنزع الأعشاب، وتنظّف شاهد القبر، وتعيد تلوين النقوش الباهتة، وتضع القرابين. وفي قوانغدونغ يُسمّى تنظيف القبور عاميًّا «باي شان» (拜山، تقديم التحية عند الجبل)، وقد انتقل هذا التعبير إلى منطقة نانيانغ مع المهاجرين. وفي السنوات الأخيرة شجّعت بعض إدارات «يي شان» على نهج أبسط صديق للبيئة والتعامل السليم مع النفايات، وصار بعض الأسر يحيي هذا اليوم عبر زيارة الكُوى أو التذكار عبر الإنترنت."
 
 lang: "ar"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'قبر صيني كبير على شكل حدوة حصان بنقوش مذهّبة وألواح جانبية منحوتة، مُقام في تلّ عشبي بين الأشجار على تلة بوكيت تشينا للدفن في ملقا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: صفوف من القبور الصينية المبلّطة على شكل حرف أوميغا مع شواهد ومذابح في مقبرة عشبية في Sarawak
+    kind: actual
+    origin: third-party
+    subject: قبور صينية مبلّطة على شكل حدوة حصان في مقبرة صينية قرب Kuching، Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: شرائط من الورق الملوّن موضوعة فوق كومة قبر عشبية بجانب شاهد خلال مهرجان Qingming لكنس القبور
+    kind: representative
+    origin: third-party
+    subject: أوراق ملوّنة مثبّتة على كومة قبر خلال Qingming (كنس القبور) في مقبرة Bukit Brown
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 قُبيل عيد تشينغ مينغ، قبل أن يكتمل ضوء النهار، يكون سفح بوكيت تشينا في ملقا قد امتلأ بالسيارات المركونة. تحمل الأسر الواحدة تلو الأخرى الأزهار الطازجة والبخور والشموع والقرابين، صاعدةً المنحدرات المتموّجة نحو قبور أسلافها. يُشعل بعضهم البخور أولًا عند كُوّة حجرية صغيرة بجانب القبر نُقش عليها حرفا «هو تو»، ثم يلتفتون للعناية بشاهد قبر السلف — فينزعون الأعشاب، ويعيدون تلوين النقوش الباهتة، ثم يضعون القرابين. إن القبور المتراصّة على المنحدر، المتّجهة كلها الوجهة نفسها، هي مثوى أجيال متعاقبة من الصينيين الذين هاجروا جنوبًا.

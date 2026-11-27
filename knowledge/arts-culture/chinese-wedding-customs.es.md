@@ -32,7 +32,7 @@ faq:
   - q: "¿La boda tiene que usar el color rojo y un día propicio? ¿Qué tabúes existen?"
     a: "El color rojo y el carácter de la 'doble felicidad' (囍) son el color y el símbolo festivos más representativos de la boda china, presentes en las invitaciones, los regalos, el lecho nupcial y la decoración; para la boda también suele elegirse un 'día propicio'. Entre las consideraciones habituales están preferir números pares para el dinero y los regalos, evitar las cifras de pronunciación aciaga, y que las embarazadas o las personas de luto se mantengan a veces apartadas de ciertas etapas. Ahora bien, el rigor con que se observan estos tabúes varía según la creencia de la familia y el grupo dialectal, y muchas familias conservan solo algunos y simplifican el resto."
 lang: "es"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'Un escenario tradicional de boda chino-malaya adornado en rojo, con un gran recorte de papel rojo del carácter de la doble felicidad colgado sobre un altar ancestral dispuesto con una piña, naranjas, manzanas y velas de dragón, dos sillas talladas de madera oscura colocadas delante para la ceremonia del té, y los nombres de los novios en caracteres rosados a cada lado'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: Un lustroso juego de té de boda chino rojo sobre una bandeja roja, una tetera decorada con un carácter dorado de doble felicidad y cinco pequeñas tazas de té rojas a juego dispuestas alrededor, usado por la pareja para servir té a sus mayores
+    kind: representative
+    origin: third-party
+    subject: una tetera y tazas rojas y doradas con el carácter de doble felicidad usadas en la ceremonia del té de la boda china
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: Una alta cesta de regalos de boda escalonada y lacada en negro (bakul siah) intrincadamente decorada con figuras doradas, flores, aves y peces en cada nivel, usada para llevar regalos de compromiso simbólicos entre las dos familias, expuesta en una vitrina de museo
+    kind: representative
+    origin: third-party
+    subject: un bakul siah, la cesta lacada y escalonada usada para llevar regalos de compromiso entre las familias en una boda chino-estrecha (peranakan)
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 Antes de que haya amanecido del todo, una hilera de coches ya se ha detenido frente a la casa de la novia. El novio sostiene un ramo, con varios "hermanos" detrás, pero lo detienen unas cuantas "hermanas" que se asoman por la puerta: primero responde las preguntas, luego canta una estrofa, come unas rodajas de lima cortadas finísimas y, por último, desliza unos sobres rojos por la rendija de la puerta. Solo tras superar este obstáculo de "forzar la puerta" (chuang men) se abre esta y el novio puede ver a la novia, vestida toda de rojo. Una mañana así, llena de bromas y bullicio, es el comienzo del día en muchas bodas chinas de Malasia.

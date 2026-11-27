@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai so sánh chi phí sinh hoạt của Penang với Thung lũng Klang, hoặc quyết định giữa Đảo Penang và Seberang Perai trước khi chuyển đến, thuê nhà, hoặc mở doanh nghiệp."
 
 lang: "vi"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'Đường chân trời dày đặc của George Town lúc chạng vạng, với tòa tháp Komtar thắp sáng vươn lên trên trung tâm thành phố Penang'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: Những khối chung cư cao tầng trên phố Maccalum ở George Town, Penang, minh họa cho nhà ở đô thị
+    kind: actual
+    origin: third-party
+    subject: Những khối chung cư nhà ở xã hội cao tầng trên phố Maccalum, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: Những người bán hàng và các quầy hàng tại chợ tươi sống Sungai Bakap ở Penang
+    kind: actual
+    origin: third-party
+    subject: Chợ tươi sống ở Sungai Bakap, Penang
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 Penang là bang Malaysia duy nhất mà "chi phí sinh hoạt" không thể được trả lời bằng một con số duy nhất, bởi vì Penang không phải là một nơi. Đó là một hòn đảo và một dải đất liền, nối với nhau bằng hai cây cầu và một chuyến phà, với một lõi Di sản Thế giới UNESCO ở một bên và các thị trấn công nghiệp cảng container ở bên kia. Bất kỳ con số nào san bằng "Penang" thành một dòng đã vứt bỏ thông tin hữu ích nhất.

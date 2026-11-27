@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,33 @@ verificationNeeded:
   - "Doanh thu — doanh thu tập đoàn năm tài chính 2024 (năm kết thúc ngày 31 tháng 12 năm 2024) khoảng RM24,4 tỷ và lợi nhuận ròng khoảng RM2,66 tỷ, theo bản công bố kết quả của IHH. Xác nhận lại con số và cơ sở đối chiếu với mỗi báo cáo thường niên/hằng quý mới."
   - "Sở hữu cổ phần — Mitsui & Co được dẫn là nắm giữ khoảng 32–33% (qua MBK Healthcare Management) và Khazanah Nasional một cổ phần thiểu số đáng kể. Các tỷ lệ chính xác thay đổi theo các đợt phát hành riêng lẻ và các vụ mua vào; xác minh đối chiếu với các công bố Bursa Malaysia / SGX mới nhất trước khi dẫn một con số."
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: 'Mặt tiền cao màu kem, đỏ và xanh của Bệnh viện Gleneagles Penang trên nền trời xanh, dòng chữ ''Gleneagles PENANG'' màu xanh gắn cả trên tường tầng dưới lẫn lan can mái'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: Lối vào hình cong của Pantai Hospital Kuala Lumpur được thắp sáng về đêm, biển hiệu 'PANTAI HOSPITAL KUALA LUMPUR' được chiếu sáng phía trên mái hiên và một đài phun nước được chiếu đèn tím ở sân trước
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital Kuala Lumpur về đêm — thuộc mạng lưới Pantai Hospitals của IHH Healthcare
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: Khối nhà hiện đại màu xám của Prince Court Medical Centre tại Kuala Lumpur với dòng chữ 'PRINCE COURT' màu vàng và biểu tượng vàng trên mặt tiền phía trên, cây xanh ven đường và biển hiệu bên dưới
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, Jalan Kia Peng, Kuala Lumpur — thuộc sở hữu của IHH Healthcare
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 Bước vào một bệnh viện Pantai hay Gleneagles ở Kuala Lumpur, một khu điều trị Mount Elizabeth ở Singapore, một phòng khám Acibadem ở Istanbul hay một trung tâm Fortis ở Delhi, và bạn đang bước vào cùng một gia đình doanh nghiệp. Gia đình đó là IHH Healthcare Berhad — một công ty có trụ sở tại Malaysia đã phát triển thành một trong những đơn vị vận hành bệnh viện tư nhân lớn nhất thế giới.

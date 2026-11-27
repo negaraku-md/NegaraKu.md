@@ -27,7 +27,7 @@ faq:
     a: "말레이 가옥은 보통 한 가족을 수용하는 반면, 롱하우스(rumah panjang)는 길게 뻗은 한 건물에 여러 가족을 수용합니다 — 각 가족이 자기 방(빌렉bilek)을 지니고, 루아이(ruai)라 불리는 공용 회랑을 함께 씁니다."
 
 lang: "ko"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -62,9 +62,37 @@ sources:
 relations:
   - { rel: "related-to", to: "sarawak-longhouse" }
   - { rel: "related-to", to: "malay-woodcarving" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: '가파른 다층 널빤지 지붕을 인 팔각형 목조 말레이 궁전, 검정·흰색·금빛 마름모 무늬로 짠 대나무 벽과 격자창, 도금된 조각 프리즈를 갖추고 흐린 하늘 아래 잔디밭에 자리한 모습'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: 나무 기둥 위에 올린 짙은 갈색 목재 캄퐁 주택으로, 가파른 박공지붕, 조각된 가리비 모양 처마, 널빤지로 댄 나무 벽, 그리고 베란다로 이어지는 외부 계단이 있으며 초록 잎에 둘러싸인 모습
+    kind: actual
+    origin: third-party
+    subject: 가파른 박공지붕, 조각된 처마판, 나무 계단으로 오르는 올린 베란다를 갖춘 전통 목조 말레이 수상 가옥(루마 믈라유)
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: 뾰족하게 솟구친 미낭카바우식 지붕이 날카로운 끝으로 휘어진, 길게 올린 목재 말레이 궁전으로, 널빤지로 댄 짙은 목재 벽에 격자 창이 있고 조각된 기둥 위에 서 있으며 'Rumah Negeri Sembilan'이라 적힌 간판 옆에 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 뾰족하게 솟구친 미낭카바우 물소 뿔 박공지붕을 갖춘, 느그리슴빌란의 목조 궁전 이스타나 암팡 팅기
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 오래된 시골집을 들어 올려 이음새를 해체하고 새 터에 다시 조립하십시오 — 대부분 고정된 콘크리트 기초 없이 말입니다. 그것이 바로 전통 말레이 건축의 지혜입니다. 에어컨이 있기 전에 이미 열대 기후를 '읽어 낸' 집인 것입니다.

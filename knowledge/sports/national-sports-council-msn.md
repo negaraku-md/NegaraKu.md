@@ -64,9 +64,35 @@ sources:
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []
-related: []
+related: ["malaysian-sport-governance", "national-sports-policy-podium-programme", "national-sports-venues"]
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'The colourful headquarters building of Majlis Sukan Negara Malaysia stands at Bukit Jalil with its name on the wall.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: The National Sports Institute building at Bukit Jalil, its glass facade carrying a 'Where Legends Are Made' banner, fronted by an empty forecourt.
+    kind: representative
+    origin: third-party
+    subject: National Sports Institute (ISN) building at Bukit Jalil, part of Malaysia's national sports apparatus
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: Aerial view of the KL Sports City complex at Bukit Jalil, showing the oval national stadium, an indoor arena and the aquatic centre among surrounding buildings in a light haze.
+    kind: representative
+    origin: third-party
+    subject: Aerial view of the KL Sports City national sports complex at Bukit Jalil
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 When a Malaysian sprinter lines up at the Olympics or a young footballer is scouted into a national squad, there is a single government body standing behind the training, the coaching and the facilities that got them there: the **National Sports Council of Malaysia**, known in Malay as **Majlis Sukan Negara (MSN)**. It is the statutory agency that turns national sports policy into actual athletes.

@@ -31,7 +31,7 @@ faq:
   - q: Apakah Malaysia kuat dalam logam selain baja?
     a: Ya. Dalam logam nonfero, Malaysia kompetitif secara global. Press Metal, berbasis di Sarawak, adalah produsen aluminium terintegrasi terbesar di Asia Tenggara, dan Malaysia Smelting Corporation termasuk produsen timah olahan terkemuka dunia, warisan dari sejarah panjang penambangan timah negara ini.
 lang: id
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'Pabrik baja terpadu besar dengan tanur tinggi, cerobong tinggi, dan kepulan uap putih, dengan bukit berhutan dan rumah-rumah di kejauhan'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: Dua tanur tiup baja yang tinggi dengan saluran dan cerobong yang mengeluarkan uap putih dengan latar langit biru cerah
+    kind: representative
+    origin: third-party
+    subject: Tanur tiup di Scunthorpe Steelworks, Inggris
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: Di dalam pabrik peleburan baja, sebuah tungku busur listrik besar dengan derek gantri di atas, jaringan pipa, dan para pekerja di jalur pejalan baja
+    kind: representative
+    origin: third-party
+    subject: Interior pabrik peleburan tungku busur listrik di pabrik baja ProfilARBED di Differdange, Luksemburg
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 Di balik hampir setiap bangunan, jembatan, dan jalan raya di Malaysia terdapat industri yang lebih senyap yang membuat logam penopangnya. Besi dan baja jarang menjadi berita utama seperti semikonduktor atau minyak sawit, namun keduanya adalah fondasi: batang tulangan di dalam kolom beton, kawat di dalam kabel, lembaran di dalam pintu mobil. Malaysia membuat sebagian besar dari ini sendiri — dan, pada beberapa logam, benar-benar berkelas dunia. Tetapi paruh baja dari kisah ini juga salah satu sektor manufaktur paling bermasalah di negara ini, didefinisikan oleh ketidaksesuaian yang membandel antara seberapa banyak ia dapat memproduksi dan seberapa banyak yang sebenarnya dibutuhkan pasar.

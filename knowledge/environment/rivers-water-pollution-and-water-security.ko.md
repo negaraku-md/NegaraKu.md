@@ -34,7 +34,7 @@ faq:
     a: "Macaranga 보도에 따르면, 환경질법 1974(Environmental Quality Act 1974)의 2023년 개정은 오염 범죄에 대해 최소 RM5,000, 최대 RM1,000만의 벌금과 5년 이하의 의무 징역을 규정했습니다. 슬랑오르 하천 보류지 제도(LUAS 조례 1999 제48조 (1)항)에 따른 범죄의 경우 벌칙은 RM50,000 이하의 벌금 또는 2년 이하의 징역, 또는 둘 다입니다. 이 1974년 법 개정 수치는 2차 보도에서 나온 것으로 공식 관보 원문과 대조하여 확인해야 합니다."
 
 lang: "ko"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,33 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["pencemaran sungai", "indeks kualiti air", "WQI", "keselamatan air", "bekalan air", "Sungai Selangor", "Sungai Kim Kim", "rizab sungai", "Jabatan Alam Sekitar", "kawasan tadahan"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: '옅고 구름 줄무늬 진 하늘 아래, 평평한 숲 지평선까지 뻗은 넓은 갈색 강'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: 높은 도시 건물들과 포장된 강변 산책로 사이, 넓은 콘크리트 수로를 따라 흐르는 좁은 강
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 도심에서 고층 건물 사이 콘크리트 수로에 갇힌 클랑강으로, 도시 하천 수질에 가해지는 압박을 보여줌
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: 해 질 녘, 낮은 해를 반사하는 잔잔하고 드넓은 호수, 뒤로 숲 덮인 구릉의 실루엣
+    kind: actual
+    origin: third-party
+    subject: 사라왁의 바탕아이 댐 뒤 저수지로, 원수의 주요 저장원이자 수력 발전원
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 월요일 아침 수도꼭지를 틀었는데 물이 나오지 않습니다 — 꼭지가 고장 나서가 아니라, 상류의 어느 공장이 귀하의 도시에 원수를 공급하는 지류로 악취 나는 폐기물을 방류했기 때문입니다. 이것이 클랑밸리에서 반복되는 현실이며, 왜 "하천 수질"이 단순한 생태 문제가 아니라 수백만 가구를 위한 급수 안보 문제인지를 설명해 줍니다.

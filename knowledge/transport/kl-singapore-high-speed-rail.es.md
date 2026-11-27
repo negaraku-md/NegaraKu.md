@@ -29,7 +29,7 @@ faq:
     a: "No. El RTS Link es una corta lanzadera transfronteriza entre Johor Bahru y Woodlands, con objetivo de abrir en 2026. El HSR es una línea de alta velocidad aparte, de unos 350 km, prevista entre Kuala Lumpur y Singapur."
 
 lang: "es"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["HSR KL Singapur", "tren de alta velocidad Malasia", "MyHSR Corp", "indemnización cancelación HSR", "reactivación HSR RFP", "high-speed rail Malaysia"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'Un elegante tren de alta velocidad blanco y naranja detenido en el andén de una estación mientras los pasajeros suben.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: Un tren de Taiwan High Speed Rail en el andén de una estación, mostrado como un ferrocarril regional de alta velocidad comparable.
+    kind: representative
+    origin: third-party
+    subject: Tren de alta velocidad en servicio en la región (Taiwan High Speed Rail), representativo de un futuro HSR KL-Singapur
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: Un tren de alta velocidad Shinkansen de la serie N700 en la estación de Hiroshima, en Japón, mostrado como un ferrocarril regional de alta velocidad comparable.
+    kind: representative
+    origin: third-party
+    subject: Tren de alta velocidad en servicio en la región (el Shinkansen N700 de Japón), representativo de un futuro HSR KL-Singapur
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 Un tren bala que podría llevarle de Kuala Lumpur a Singapur en unos 90 minutos se ha firmado, suspendido, cancelado, llorado y resucitado — todo sin que se haya tendido una sola vía. Aquí está en qué punto se encuentra en realidad este proyecto que una y otra vez se enciende y se apaga.

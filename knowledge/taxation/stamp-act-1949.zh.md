@@ -101,7 +101,7 @@ sources:
     publisher: "Donovan & Ho"
 entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
-related: []
+related: ["stamp-duty-self-assessment", "income-tax-act-1967", "real-property-gains-tax"]
 keywords: ["stamp act 1949", "stamp duty malaysia", "LHDN stamp duty", "ad valorem duty", "fixed duty", "memorandum of transfer stamp duty", "MOT stamp duty", "loan agreement stamp duty", "tenancy agreement stamp duty", "e-stamping malaysia", "stamp duty self assessment", "stamp duty calculator malaysia", "stamp duty penalty", "stamp duty exemption", "Act 378"]
 framework: rules
 ---

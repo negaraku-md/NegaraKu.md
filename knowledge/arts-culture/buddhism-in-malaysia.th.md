@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "th"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,32 @@ faq:
   - q: วันวิสาขบูชาระลึกถึงสิ่งใด และเป็นวันหยุดราชการหรือไม่?
     a: วันวิสาขบูชา (Wesak) ระลึกถึงการประสูติ ตรัสรู้ และปรินิพพานของพระพุทธเจ้า และเป็นวันหยุดราชการทั่วประเทศในมาเลเซีย ผู้ศรัทธาจะไปวัดเพื่อถวายดอกไม้ จุดประทีป และทำทาน เสรีภาพในการนับถือศาสนาได้รับการคุ้มครองตามมาตรา 11 ของรัฐธรรมนูญแห่งสหพันธรัฐ แม้มาตรา 3 จะกำหนดให้ศาสนาอิสลามเป็นศาสนาของสหพันธรัฐ แต่ก็ไม่ได้ขัดขวางการนับถือศาสนาอื่นอย่างสงบสุข
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'วัดพุทธเก๊กลกซี (Kek Lok Si) บนไหล่เขาในปีนัง มีหลังคากระเบื้องสีทองทอดยาว ระเบียงลดหลั่นเรียงรายด้วยโคมแดง และน้ำพุเจดีย์ในลานวัด'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: ด้านหน้าและหลังคาของวัดไทยที่ปิดทองและประดับกระเบื้องอย่างวิจิตร ตัดกับท้องฟ้าสีครามที่ปีนัง
+    kind: actual
+    origin: third-party
+    subject: วัดไชยมังคลาราม วัดพุทธเถรวาทแบบไทยในจอร์จทาวน์ รัฐปีนัง
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: พระพุทธรูปปางประทับนั่งรายล้อมด้วยดอกเบญจมาศสีเหลือง ขาว และชมพูจำนวนมากบนรถบุปผชาติวันวิสาขบูชา
+    kind: actual
+    origin: third-party
+    subject: พระพุทธรูปประดับดอกไม้บนรถบุปผชาติวันวิสาขบูชา (Wesak) ที่วัดนิโครธาราม เมืองอาโลร์เซอตาร์ รัฐเกอดะฮ์
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 บนเนินเขาที่ปีนัง เงาเจดีย์ของวัดเก๊กลกซีทอดมองลงสู่จอร์จทาวน์; ที่บริกฟิลด์ส

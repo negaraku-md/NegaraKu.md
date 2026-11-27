@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "38ee41b476215220"
+sourceContentHash: "db81620e9ca024cd"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,34 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["silat", "silat melayu", "seni silat", "silat pulut", "silat gayung", "PESAKA", "warisan budaya tidak ketara", "UNESCO Malaysia", "seni bela diri", "silat harimau"]
 framework: history-culture
+hero: '/media/arts-culture/silat-melayu/hero.webp'
+heroAlt: 'マットの上で激しく組み合う黒いシラット装束の2人のマレー武術家。1人がひざまずきもう1人の腕をつかみ、間に湾曲したクリスの刃が掲げられる。暗い背景にSilat PerformanceとSilat Seni Gayong Clubの文字'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Silat_Gayong_performance_at_ESEAP_Conference_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'two Silat Seni Gayong pesilat in black attire performing an armed takedown with a keris during a demonstration in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-1.webp
+    alt: 黒いシラット着と黒い頭巾を身につけた裸足の2人のマレーの武術家が、ティールグリーンの建物の壁を背に、灰色の舗装の上で低い構えで対峙し、一方は短い刃物を持っている様子
+    kind: actual
+    origin: third-party
+    subject: マレーシアのシラット・ガヨンの稽古で、黒いシラット着を着て構えで対峙する2人のプシラット
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_1.jpg
+  - role: scene
+    src: /media/arts-culture/silat-melayu/body-2.webp
+    alt: 黒いシラット着を着たマレーの武術家が高い蹴りを跳び上げて繰り出し、しゃがんだ相手がそれを受け止める様子。2人とも裸足で、ティールグリーンの壁を背に灰色の舗装の上で、シラットの組手の最中の動作にある
+    kind: actual
+    origin: third-party
+    subject: マレーシアのシラット・ガヨンの稽古で、組手の相手に跳び蹴りを繰り出すプシラット
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silat_Gayong_practice_at_CFS_IIUM_2.jpg
 ---
 
 腕の立つシラットの達人は、相手の骨を折ることもできれば——花嫁の前で誰にも触れずに舞うこともできる。どちらもシラットである。これこそが、この武芸についてもっとも理解しがたい点である。それは単なる格闘の技法ではなく、単なる祝宴の舞でもない。その両方が、同じ身体の中に、同じ歩法によって動かされているのである。

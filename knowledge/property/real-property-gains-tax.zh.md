@@ -35,7 +35,7 @@ faq:
     a: "可以。凡是增加或维持房地产价值的开支，例如装修和改良费用，只要有有效收据和文件佐证，均可扣除。"
 
 lang: "zh"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "cukai keuntungan harta tanah", "CKHT", "LHDN", "pelupusan hartanah", "kadar RPGT", "pengecualian RPGT"]
 framework: rules
+hero: '/media/property/real-property-gains-tax/hero.webp'
+heroAlt: '吉隆坡北甲拉（North Kiara）住宅区上方耸立的 Verdana 公寓塔楼。'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: 吉隆坡Segambut的Riana Dutamas住宅发展项目路边的销售展示厅与巨型字母招牌，新房便是在此推销与售出
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡Segambut的Riana Dutamas住宅发展项目的销售展示厅与招牌
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Kampung Kuala Lah一栋现代独立式甘榜房屋，带金属屋顶，代表一栋脱售时可能触发房产盈利税（RPGT）的有地住宅
+    kind: representative
+    origin: third-party
+    subject: Kampung Kuala Lah一栋现代独立式甘榜房屋
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 你把房子卖出赚了一笔——但在钱进账之前，政府想要它的那一份。这就是 RPGT，一种卖方往往忽略、直到律师在成交桌上预扣了成千上万令吉才惊觉的税。

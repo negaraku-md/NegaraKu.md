@@ -99,6 +99,7 @@ dishFacts:
   halal: "En tant que cuisine indo-musulmane (mamak) et de nasi kandar, le murtabak est halal. Ses farces habituelles sont du bœuf, du poulet ou du mouton (chèvre) hachés et assaisonnés d'épices à curry — jamais de porc — ce qui en fait un incontournable pour rompre le jeûne dans les bazars du Ramadan."
   eat: "Il est découpé en blocs ou en carrés et mangé chaud, les accompagnements étant servis à côté plutôt que mélangés. Les convives versent ou arrosent d'un petit plat de sauce au curry ou de dhal et ajoutent une pincée d'oignons tranchés et légèrement marinés dont l'acidité tranche la richesse."
   where: "Le murtabak est un incontournable des stands indo-musulmans (mamak) et des boutiques de nasi kandar — à Penang, longtemps un bastion, il est un pilier des restaurants de nasi kandar. Disponible toute l'année, il prend toute son ampleur dans les bazars du Ramadan qui surgissent à travers le pays pendant le mois de jeûne, où il est l'une des attractions phares, préparé à la commande et vendu à la pièce."
+wikidata: "Q1587123"
 ---
 
 Regardez un murtabak se faire dans un bazar du ramadan et la moitié de l'attrait tient au spectacle : une boule de

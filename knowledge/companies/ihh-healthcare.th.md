@@ -31,7 +31,7 @@ faq:
     a: "ผู้ถือหุ้นรายใหญ่ที่สุดสองรายของมันคือ Mitsui & Co ของญี่ปุ่นซึ่งกลายเป็นผู้ถือหุ้นรายเดียวที่ใหญ่ที่สุดในปี 2018 และกองทุนความมั่งคั่งแห่งชาติของมาเลเซีย Khazanah Nasional ในฐานะบริษัทจดทะเบียน หุ้นที่เหลือถือโดยนักลงทุนสถาบันและสาธารณะ สำหรับสัดส่วนปัจจุบันที่แน่นอน ให้ตรวจสอบรายงานประจำปีล่าสุดของ IHH หรือการยื่นรายงาน Bursa Malaysia และ SGX"
 
 lang: "th"
-sourceContentHash: "887f8009ba99f585"
+sourceContentHash: "b084ca622714a016"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,33 @@ verificationNeeded:
   - "รายได้ — ปีงบประมาณ 2024 (สิ้นสุด 31 ธันวาคม 2024) รายได้กลุ่มราว RM24.4 พันล้านและกำไรสุทธิราว RM2.66 พันล้าน ตามการเผยแพร่ผลประกอบการของ IHH ยืนยันซ้ำตัวเลขและเกณฑ์กับรายงานประจำปี/รายไตรมาสใหม่แต่ละฉบับ"
   - "การถือหุ้น — Mitsui & Co ถูกอ้างว่าถือราว 32–33% (ผ่าน MBK Healthcare Management) และ Khazanah Nasional เป็นส่วนน้อยที่มีนัยสำคัญ สัดส่วนที่แน่นอนเปลี่ยนไปตามการจัดสรรและการซื้อเพิ่ม; ตรวจสอบกับการเปิดเผยข้อมูล Bursa Malaysia / SGX ล่าสุดก่อนอ้างตัวเลข"
 framework: profile
+hero: '/media/companies/ihh-healthcare/hero.webp'
+heroAlt: 'ด้านหน้าสีครีม แดงและน้ำเงินสูงของโรงพยาบาลเกลนีเกิลส์ปีนังตัดกับท้องฟ้าสีคราม ชื่อ ''Gleneagles PENANG'' สีน้ำเงินติดทั้งที่ผนังล่างและขอบหลังคา'
+heroCredit: 'Vnonymous / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gleneagles_Hospital,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gleneagles Hospital on Jalan Pangkor, George Town, Penang — part of IHH Healthcare''s Gleneagles network'
+images:
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-1.webp
+    alt: ทางเข้าโค้งของโรงพยาบาล Pantai Hospital Kuala Lumpur ส่องสว่างยามค่ำคืน ป้าย 'PANTAI HOSPITAL KUALA LUMPUR' ส่องสว่างเหนือมุขและน้ำพุส่องแสงสีม่วงที่ลานด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital Kuala Lumpur ยามค่ำคืน — ส่วนหนึ่งของเครือ Pantai Hospitals ของ IHH Healthcare
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_at_Night.jpg
+  - role: scene
+    src: /media/companies/ihh-healthcare/body-2.webp
+    alt: อาคารทันสมัยสีเทาของ Prince Court Medical Centre ในกัวลาลัมเปอร์ มีตัวอักษรสีทอง 'PRINCE COURT' และตราสัญลักษณ์สีทองบนหน้าอาคารด้านบน พร้อมพรรณไม้และป้ายริมถนนด้านล่าง
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre ถนน Kia Peng กัวลาลัมเปอร์ — เป็นของ IHH Healthcare
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
 ---
 
 เดินเข้าไปในโรงพยาบาล Pantai หรือ Gleneagles ในกัวลาลัมเปอร์ หอผู้ป่วย Mount Elizabeth ในสิงคโปร์ คลินิก Acibadem ในอิสตันบูล หรือศูนย์ Fortis ในเดลี แล้วคุณกำลังก้าวเข้าสู่ครอบครัวองค์กรเดียวกัน ครอบครัวนั้นคือ IHH Healthcare Berhad — บริษัทที่มีสำนักงานใหญ่ในมาเลเซียซึ่งเติบโตขึ้นเป็นหนึ่งในผู้ดำเนินการโรงพยาบาลเอกชนที่ใหญ่ที่สุดในโลก

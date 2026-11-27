@@ -32,7 +32,7 @@ faq:
   - q: "Siapakah yang bekerja di ladang hari ini?"
     a: "Hari ini kebanyakan pekerja ladang di Malaysia ialah buruh migran warga asing. Bagi komuniti Tamil pula, perpindahan besar daripada ladang ke bandar sebahagian besarnya telah selesai beberapa dekad yang lalu; komuniti hari ini telah menjadi sebuah komuniti yang sebahagian besarnya bandar dan separa bandar."
 lang: "ms"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["tamil-in-malaysia", "tamil-vernacular-schools", "mariamman-worship", "hinduism-in-malaysia", "population-composition"]
 keywords: ["தோட்டத் தமிழர் சமூகம்", "மலேசிய இந்தியர் தோட்ட வரலாறு", "கங்காணி முறை", "ரப்பர்த் தோட்டம்", "தோட்டத் தொழிலாளர்", "மலேசிய இந்தியர்கள்", "estate Tamil community", "Malaysian Indians"]
 framework: history-culture
+hero: '/media/arts-culture/estate-tamil-community/hero.webp'
+heroAlt: 'Bangunan rendah SJK(T) Ladang Sungai Getah, sebuah sekolah rendah beraliran Tamil yang namanya tertera pada papan tandanya dan berkhidmat kepada masyarakat estet getah, dilihat dari tepi jalan.'
+heroCredit: 'MNH48 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: Seorang pekerja menoreh getah daripada sebatang pokok getah di sebuah estet di Melaka pada tahun 1946, menggambarkan buruh ladang yang membentuk masyarakat estet Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Menoreh getah di sebuah ladang getah di Melaka (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'Sebuah pameran muzium di Pusat Warisan India di Johor Bahru bertajuk Early Occupations: Rubber Tapping, dengan figura bersari, baldi getah dan foto estet bersejarah berkapsyen Tamil.'
+    kind: actual
+    origin: third-party
+    subject: 'Pameran "Early Occupations: Rubber Tapping" tentang warisan estet Tamil Malaysia, Pusat Warisan India, Johor Bahru'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 Di pinggir banyak bandar lama Malaysia, sebuah ladang getah yang dahulunya terbentang hijau kini telah menjadi kawasan kediaman yang dipenuhi rumah dan deretan kedai. Di tengah-tengah bangunan baharu itu, kadangkala masih tegak sebuah kuil Amman lama atau sebuah sekolah Tamil kecil — tanda yang tidak pudar bagi sebuah komuniti yang telah berpindah.

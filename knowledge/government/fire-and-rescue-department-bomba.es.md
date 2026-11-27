@@ -29,7 +29,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "780189a25e36c071"
+sourceContentHash: "829931e7144f1b3a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,11 +69,38 @@ entity: "Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Ma
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["fire-safety-and-prevention-malaysia", "mers-999-emergency-numbers", "civil-defence-force-apm"]
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
 framework: profile
+hero: '/media/government/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'La fachada de una estación de bomberos malaya con la gigantesca palabra roja BOMBA deletreada a lo largo de sus cinco puertas enrollables y un letrero amarillo que reza Balai Bomba dan Penyelamat Jalan Kubu encima de ellas, engalanada con linternas rojas'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Balai Bomba dan Penyelamat Jalan Kubu, a Malaysian Fire and Rescue Department (Bomba) station in Melaka'
+images:
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-1.webp
+    alt: Un camión de bomberos Scania de un rojo brillante marcado con BOMBA y una escalera aérea plegada en su techo, estacionado en un bulevar bordeado de palmeras durante un desfile del Día Nacional de Malasia
+    kind: actual
+    origin: third-party
+    subject: Un camión de bomberos Scania con escalera aérea de la Bomba de Malasia en el desfile del Día Nacional de 2023 en Kuantan, Pahang
+    credit: Kistara / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Scania_firefighting_truck_of_Malaysia_Bomba_taking_part_in_Kuantan_NDP_2023.jpg
+  - role: scene
+    src: /media/government/fire-and-rescue-department-bomba/body-2.webp
+    alt: Un grupo de bomberos malasios con camisetas azul marino y pantalones de camuflaje naranja, de pie y en cuclillas frente a dos camiones de bomberos rojos marcados con BOMBA dentro de las cocheras de su estación de bomberos
+    kind: actual
+    origin: third-party
+    subject: Bomberos malasios en el Balai Bomba Sandakan, Sabah, posando frente a sus camiones de bomberos rojos de la BOMBA
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-01.jpg
 ---
 
 Pregunta a cualquiera en Malasia a quién llamar cuando un edificio arde o alguien queda atrapado, y la respuesta es siempre la misma palabra: **Bomba**. El **Departamento de Bomberos y Rescate de Malasia** — *Jabatan Bomba dan Penyelamat Malaysia* (**JBPM**), conocido por casi todos simplemente como **BOMBA** — es el organismo federal responsable de la extinción de incendios, el rescate, la respuesta ante materiales peligrosos y la vigilancia de la seguridad contra incendios en todo el país. Es un organismo dependiente del [**Ministerio de Vivienda y Gobierno Local**](/es/government/ministry-of-housing-local-government-kpkt) (*Kementerian Perumahan dan Kerajaan Tempatan*, KPKT), y en una emergencia se le llama marcando el **999**.

@@ -31,7 +31,7 @@ faq:
     a: "Selon le JPJ, un avis AwAS non réglé dans un délai de 60 jours à compter de la date d'émission peut conduire à une action en justice, avec une amende comprise entre RM300 et RM2,000 en cas de condamnation."
 
 lang: "fr"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'Un agent de la police de la circulation malaisienne se tient debout en train d''écrire à côté de sa motocyclette de patrouille POLIS blanche à un carrefour urbain animé de Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: Des policiers en uniforme postés à un barrage routier, contrôlant les véhicules qui ralentissent jusqu'à l'arrêt au point de contrôle
+    kind: actual
+    origin: third-party
+    subject: un barrage de police malaisien où les agents arrêtent et inspectent les véhicules
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: Un agent de la police de la circulation malaisienne, en gilet réfléchissant et casque, debout dans une rue urbaine, gère les véhicules qui passent
+    kind: actual
+    origin: third-party
+    subject: un agent de la police de la circulation en service réglant la circulation dans une rue de Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 Un conducteur peut recevoir quatre types de contravention qui se ressemblent sur le papier, mais qui proviennent de quatre parties différentes, et chacune doit être consultée à un endroit distinct. Beaucoup de gens ne connaissent qu'un seul portail et supposent que leur contravention a « disparu » alors qu'elle se trouve en réalité dans un autre système.

@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: '밤하늘에 화려한 불꽃이 페트로나스 트윈 타워와 쿠알라룸푸르 도시 스카이라인 위로 터지고 있다.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: 쿠알라룸푸르 KL 센트럴에서 디파발리를 위해 색색의 가루로 바닥에 그린 크고 선명한 공작 모양의 콜람(kolam).
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 KL 센트럴의 디파발리 공작 콜람(kolam) 바닥 문양
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: 말레이시아 설날 거리 축제에서 분홍, 노랑, 흰색의 선명한 사자춤 탈 여러 개가 상점 앞에 모여 있고, 그 사이에 붉은 큰 머리 탈을 쓴 공연자가 섞여 있다.
+    kind: actual
+    origin: third-party
+    subject: 사바주 산다칸의 설날 사자춤 공연단
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 말레이시아 전역에서 여행, 제품 출시, 급여 지급을 계획하다 보면, 외부인을 당황하게 하는 사실을 금방 발견합니다. 쿠알라룸푸르에서 공휴일인 날이 쿠칭에서는 평범한 근무일일 수 있고, 그 반대도 마찬가지입니다. 말레이시아에는 하나의 국가 공휴일 목록이 있다기보다, 하나의 국가 층과 그 위에 쌓인 열세 개의 주 층이 있습니다.

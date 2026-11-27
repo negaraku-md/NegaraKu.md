@@ -31,7 +31,7 @@ faq:
   - q: なぜマレーシアで造船は石油・ガスとそれほど結びついているのですか。
     a: マレーシアの造船所が建造・修理する商業船隊の多く――海洋支援船、アンカーハンドラー、作業船――は、マレーシア海域のオフショア石油・ガスプラットフォームに供給するために存在するからです。エネルギー支出が強いとき受注は増え、石油価格が下がると造船所は過剰能力に直面します。関連ガイドの石油・ガスサービス・機器産業を参照してください。
 lang: ja
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'そびえ立つ赤いガントリークレーンと建造中の大型船のある水際の造船所'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: マレーシアの大きな白いボート建造工場を上空から見た様子で、開いたベイドアに船体が見える
+    kind: actual
+    origin: third-party
+    subject: マレーシア、ジョホール州パシルグダンにあるGrand Banks Yachtsのボート建造工場
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: 川沿いのマレーシアの造船所の大きな艤装ホールとヤードを上空から見た様子
+    kind: actual
+    origin: third-party
+    subject: マレーシア、ジョホール州の川沿いにあるGrand Banks Yachtsの造船所を上から見た様子
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 マレーシアは世界で最も混み合う海上交通路の二つに面し、その生計の大きな部分を海から得ている――にもかかわらず、その造船・船舶修理（SBSR）産業は、国民経済の静かな片隅の一つだ。現実に存在し、長い歴史を持ち、戦略的に重要だが、同時に細分化され、循環的で、比較的小さな造船所が支配している。このガイドでは、この産業が何を、どこで建造するか、その規模はどれほどか、そしてなぜ一つの海軍プログラムが公の議論で部門全体に影を落とすようになったのかを説明する。

@@ -35,7 +35,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ relations:
   - { rel: "related-to", to: "how-malaysian-healthcare-works" }
   - { rel: "related-to", to: "klinik-kesihatan" }
   - { rel: "related-to", to: "medical-insurance" }
+hero: '/media/healthcare/from-clinic-to-specialist-referral/hero.webp'
+heroAlt: 'واجهة مجمّع كومبليكس باكار دان راواتان هاريان (مجمّع التخصّص والرعاية النهارية) في مستشفى كوالالمبور، مع هلال أحمر.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: مكتب تسجيل واستعلامات داخلي في مستشفى حكومي ماليزي، تُوجِّه لافتاته المرضى إلى الطابور الصحيح، دون وجود أي مرضى
+    kind: actual
+    origin: third-party
+    subject: مكتب تسجيل واستعلامات داخل مستشفى حكومي ماليزي (Hospital Tengku Anis، Pasir Puteh، Kelantan)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: المبنى الرئيسي متعدد الطوابق لمستشفى تخصّصي كبير غير ربحي في Penang، يمثّل المستوى الاستشفائي في مسار الإحالة
+    kind: actual
+    origin: third-party
+    subject: المبنى الرئيسي لـ Lam Wah Ee Hospital، وهو مستشفى تخصّصي غير ربحي في Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 الإحالة لحظة محورية في رعاية أي شخص: فقد قرر طبيبك — أو اقترح — أن مشكلتك تحتاج إلى أخصائي، وفجأةً تجد نفسك تتنقّل في جزء مختلف من النظام الصحي. يبدأ هذا الدليل من تلك النقطة بالضبط. وهو **لا** يخبرك بما إذا كنت بحاجة إلى أخصائي؛ فذلك التقدير يعود إلى طبيبك. ما يفعله هو شرح **كيف تعمل الإحالات فعليًا في ماليزيا، وما ينبغي إعداده**، كي يكون تسليم الحالة من العيادة إلى الأخصائي أسلس ما يمكن.

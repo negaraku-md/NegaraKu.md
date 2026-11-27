@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 
 status: "published"
 aiAssisted: true
@@ -112,6 +112,34 @@ keywords:
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
 framework: explainer
+hero: '/media/business/sarawak-business-guide/hero.webp'
+heroAlt: 'サラワク川のほとりに立つ傘型屋根のサラワク州議会議事堂。水面に伝統的な舟、左手に都市のオフィスタワー'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: ショップハウスと商店が並ぶクチンの街路をまたぐ装飾的な中華門。青空の下、車と歩行者が門の下を通る
+    kind: actual
+    origin: third-party
+    subject: サラワク州クチンの商業街路——ショップハウスの商店街をまたぐ装飾的なチャイナタウンの門
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: ビンツルのLNG港桟橋を上空から見た眺め。青緑の水の上に高いガス積込みアーム、パイプライン、係留プラットフォームがあり、対岸には貯蔵タンクとクレーンが見える
+    kind: actual
+    origin: third-party
+    subject: サラワク州ビンツルLNG港——ガス積込みアームを備えた工業用積込み桟橋と、沿岸の貯蔵タンク
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 まず、この地がどのような場所かを物語る一つの数字から始めよう。サラワクでは**二つの並行する章番号シリーズ**が、同時に生きている。1958年版のCap. 64は商号条例（Business Names Ordinance）である。現行シリーズのCap. 64は**2006年地域回廊開発局条例（Regional Corridors Development Authorities Ordinance 2006）**——SCOREの背後にある法規である。

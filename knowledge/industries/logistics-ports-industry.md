@@ -117,6 +117,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'Rows of ship-to-shore gantry cranes handling containers at the Port of Tanjung Pelepas in Johor, Malaysia.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: A rubber-tyred gantry crane straddling rows of stacked shipping containers at Bintulu International Container Terminal, Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Rubber-tyred gantry crane over stacked containers at Bintulu International Container Terminal, Sarawak, Malaysia
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: Colourful shipping containers stacked on the deck of a container vessel berthed at Port Klang, Selangor, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Shipping containers loaded on a vessel at Port Klang, Malaysia
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang moved 15.14 million shipping containers in 2025 — enough to overtake Hong Kong and break into the world's ten busiest ports for the first time. A second Malaysian port, Tanjung Pelepas, moved another 14 million. Neither number describes a country that makes most of those goods. It describes a country that sits in the right place and has learned to charge rent on the world's trade.

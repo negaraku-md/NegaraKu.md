@@ -29,7 +29,7 @@ faq:
     a: "싱가포르(Singapore)는 말레이시아 국회의 표결에 따라 1965년 8월 9일 분리되었습니다. 경제 정책과 정치적 경쟁의 토대를 둘러싼 인민행동당(People's Action Party)과 동맹당(the Alliance) 정부 사이의 정치적 긴장이 분리에 앞서 있었습니다. 1963년 병합 당시 어느 쪽도 그러한 결과를 계획하지 않았습니다."
 
 lang: "ko"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: '1963년 거리 풍경, 싱가포르에서 첫 말레이시아의 날을 축하하는 군중과 장식된 건물들.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: 사바주 Kota Kinabalu 스카이라인의 광활한 파노라마, 푸른 나무 꼭대기 위로 솟은 고층 빌딩과 그 너머의 해안선과 구릉, 1963년 말레이시아에 합류한 보르네오 주를 상징한다.
+    kind: representative
+    origin: third-party
+    subject: 사바주의 주도 Kota Kinabalu, 1963년 말레이시아 결성에 합류한 보르네오 주 중 하나
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: 사라왁강을 따라 길게 뻗은 조경된 Kuching Waterfront 산책로, 강 건너편으로 보이는 구도심 스카이라인, 1963년 사라왁의 말레이시아 연방 가입을 상징한다.
+    kind: representative
+    origin: third-party
+    subject: 사라왁강을 따라 자리한 Kuching Waterfront, 사라왁은 1963년 말레이시아 결성에 합류했다
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 1963년 9월 16일 네 영토가 하나의 국가가 되었고, 2년도 채 되지 않아 그중 하나는 이미 떠났습니다. 이 사실 하나만으로도 1963년의 통합이 말끔한 행정 절차가 아니었음을 알 수 있습니다. 그것은 두 이웃 정부가 반대한 논쟁적인 정치 사업이었으며, 성공하자마자 거의 곧바로 내부 갈등으로 풀려나가기 시작했습니다.

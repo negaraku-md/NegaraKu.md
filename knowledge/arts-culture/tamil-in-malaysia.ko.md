@@ -32,7 +32,7 @@ seoTitle: "말레이시아의 타밀어: 화자, SJKT 학교, 헌법적 지위"
 socialTitle: "말레이시아에서 타밀어는 어떻게 쓰이고, 가르쳐지고, 보호받는가"
 
 lang: "ko"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,32 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: '케다주(Kedah) 창룬(Changlun)의 타밀어 학교 정문 간판으로, 위쪽에 타밀 문자, 그 아래에 영문명 ''S.J.K (Tamil) Changlun''이 적혀 있고 뒤로 교사(校舍)가 보인다.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: 빨강과 흰색의 말레이시아 '출입 금지' 표지판으로, 말레이어로 'Dilarang Masuk'이라 적고 같은 경고를 영어·중국어·펀자브어로, 맨 아랫줄에 타밀 문자로 적었다
+    kind: actual
+    origin: third-party
+    subject: 타밀 문자 한 줄이 들어간 말레이시아 다언어 표지판, 코타키나발루
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: 크다주 창룬의 타밀어 소학교 개방형 교실 동으로, 맑은 하늘 아래 출입구와 처마에 말레이시아 국기가 걸려 있다
+    kind: actual
+    origin: third-party
+    subject: 타밀어 국민형 초등학교 교실 동, 크다주 창룬(Changlun)
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 말라야의 옛 고무 농원에서 가장 이른 교실 가운데 일부는 헛간과 오두막이었고, 수업은 타밀어로 이루어졌습니다. 말레이시아 역사학회 학술지에 실린 한 역사 연구에 따르면, 타밀어로 하는 기초 초등 교육이 20세기 초부터 농장에서 제공되었는데, 당시의 노동 법규 아래 마련되었고 오랫동안 훈련된 교사가 아니라 사무원과 시간제 인력이 가르쳤습니다.

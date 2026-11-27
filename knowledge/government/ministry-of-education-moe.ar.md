@@ -28,7 +28,7 @@ faq:
   - q: "ما حجم ميزانية وزارة التعليم؟"
     a: "في إطار ميزانية 2026، تلقّت KPM مبلغ RM66.2 مليار — أكبر مخصصات بين الوزارات الاتحادية — مرتفعةً من RM64.2 مليار في 2025. وتشمل المخصصات نحو RM2 مليار لترقية أكثر من 520 مدرسة متهالكة وبناء 38 مدرسة جديدة."
 lang: "ar"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,9 +82,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "وزارة التعليم الماليزية", "Fadhlina Sidek", "Education Act 1996", "قانون التعليم 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "menteri pendidikan", "moe.gov.my", "التعليم الإلزامي في ماليزيا", "نظام المدارس في ماليزيا"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'برج حكومي كريمي ضخم متناظر بطراز موري-إسلامي مع أبراج صغيرة متوّجة وبهو مركزي مقوّس شاهق، عبارة KEMENTERIAN PENDIDIKAN MALAYSIA فوق مدخله، تحفّه أجنحة أدنى تحت سماء ملبّدة بالغيوم'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: منظر قريب لرواق المدخل المقوّس لمبنى وزارة التعليم، وكتابة KEMENTERIAN PENDIDIKAN MALAYSIA الزرقاء والشعار الوطني الذهبي فوق المدخل، مع الأعلام الماليزية وأعلام الولايات ترفرف على السواري
+    kind: actual
+    origin: third-party
+    subject: المدخل الرئيسي لمقر وزارة التعليم الماليزية، بوتراجايا، مع لافتة KEMENTERIAN PENDIDIKAN MALAYSIA والشعار الوطني
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: الواجهة المتدرّجة الكاملة لمقر وزارة التعليم الماليزية كما تُرى من طريق الوصول، ببرجها المركزي المزخرف وجناحيها المتناظرين اللذين تصطف عليهما الأعلام الماليزية فوق موقف للسيارات تحت سماء مشرقة غائمة
+    kind: actual
+    origin: third-party
+    subject: منظر أمامي واسع لمجمّع مقر وزارة التعليم الماليزية من طريق الوصول، بوتراجايا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 إذا كان الأمر يتعلق بطفل مدرسي ماليزي — المنهج الذي يدرسه، أو الكتاب المدرسي على مكتبه، أو الامتحان الوطني الذي يؤدّيه، أو معلم المدرسة الحكومية أمام الصف — فإنه من اختصاص وزارة التعليم. وهي، المعروفة بالملايوية باسم **Kementerian Pendidikan Malaysia** والمختصرة دائمًا تقريبًا إلى **KPM**، الوزارة الاتحادية التي تُدير نظام التعليم ما قبل الجامعي في البلاد. أما ما *لا* تُديره فهو الجامعات — وهو حدٌّ يُربك كثيرًا من الناس.

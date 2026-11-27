@@ -34,7 +34,7 @@ faq:
     a: "MITI의 데이터센터 지속가능 개발 지침(Guidelines for Sustainable Development of Data Centre, 2024년 12월 30일)은 운영자가 설계 PUE, WUE, CUE를 ISO/IEC 30134 표준에 따라 신고하도록 하며, 지침이 입지 조건으로 표현한 대로 물 스트레스 지수(WSI)가 0.8 미만인 반도 말레이시아 부지를 고려하도록 요구합니다."
 
 lang: "ko"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: '파란색 상태 표시등이 켜진 서버 랙이 줄지어 데이터센터의 통로를 가득 채우고 있다.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: 정연한 콜드 아일 격납 설비를 갖춘 대형 데이터센터 홀을 가득 채운, 길게 늘어선 서버 및 장비 랙들.
+    kind: representative
+    origin: third-party
+    subject: 장비 랙이 줄지어 늘어선 데이터센터 홀
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: 데이터센터 구축 현장에서 서버 랙 후면을 가로질러 뻗은 빽빽한 네트워크 케이블 다발.
+    kind: representative
+    origin: third-party
+    subject: 데이터센터 서버 랙 뒤편의 네트워크 배선
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 2019년, 싱가포르는 대형 신규 데이터센터의 승인을 중단했습니다. 4년 안에, 싱가포르가 돌려보낸 서버들은 코즈웨이(Causeway) 건너 20분 거리에 새로운 산업을 세웠고 — 조호르는 조용한 말레이시아의 한 주(州)에서 동남아시아에서 가장 분주한 데이터센터 시장으로 바뀌었습니다.

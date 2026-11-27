@@ -32,7 +32,7 @@ faq:
     a: "No. La presa de Baram, que se esperaba que inundara 412 km² y desplazara a ~20,000 personas, se suspendió mediante una moratoria en 2015 y se canceló oficialmente en 2016 tras sostenidas protestas indígenas."
 
 lang: "es"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'Vista aérea del amplio terraplén gris de la presa de Bakun marcado BAKUN, su largo canal aliviadero y la central eléctrica junto al río, con un extenso embalse y las colinas boscosas de Sarawak al fondo'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'Interior de la central de la presa de Murum: hileras de unidades generadoras hidroeléctricas cilíndricas azules numeradas 1 y 2 sobre un suelo pulido, bajo una nave alta con una grúa puente amarilla'
+    kind: actual
+    origin: third-party
+    subject: interior de la central de la presa de Murum que muestra las unidades generadoras hidroeléctricas
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: El muro de hormigón de la presa de Murum y sus dos canales de aliviadero conteniendo un embalse, visto a lo lejos a través de densas colinas verdes de selva de Sarawak
+    kind: actual
+    origin: third-party
+    subject: la presa hidroeléctrica de Murum en Sarawak vista a través de colinas boscosas
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 El agua que baja de las cordilleras de selva tropical de Borneo hace girar ahora turbinas que alimentan fundiciones de aluminio, y ese es el núcleo de la estrategia de energía renovable de Malasia. Pero el camino hasta aquí está marcado por megapresas, lagos que abarcan cientos de kilómetros cuadrados y miles de familias indígenas obligadas a reubicarse.

@@ -33,7 +33,7 @@ faq:
     a: "전 세계 신문업계의 추세와 마찬가지로, 말레이시아 중국어 신문의 종이 발행 부수는 지난 20여 년간 전반적으로 감소했으며, 독자——특히 젊은 세대——는 점점 더 휴대전화와 인터넷을 통해 뉴스를 접하고 있다. 이에 따라 각 신문은 뉴스 사이트, 전자 신문, 모바일 앱 등 디지털 플랫폼을 발전시켰고, 일부 콘텐츠는 소셜 미디어에서도 확산된다. 종이 신문이 완전히 사라질지, 또 언제 사라질지는 여전히 불확실하며, 이 글은 어떠한 예측도 하지 않는다."
 
 lang: "ko"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: '미리(Miri)에 있는 중국어 신문 성주일보(星洲日報, Sin Chew Daily)의 하얀 사옥으로, 외벽과 정문 담장에 영문과 한자로 이름이 표기되어 있다.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: 페낭의 중국어 일간지 《광화일보》의 초기 1면으로, 중국어와 영어 제호가 실려 다른 오래된 중국어 신문 지면들과 함께 놓여 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아에서 가장 오래된 중국어 일간지 《광화일보》 1면(페낭)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: 조호르바루의 《남양상보》 사무소로, 점포 상단에 녹색 한자와 로마자로 신문 이름이 걸려 있다
+    kind: actual
+    origin: third-party
+    subject: 제호 간판을 내건 《남양상보》 사무소, 조호르바루
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 이른 아침 코피티암(kopitiam, 찻집)에서, 활짝 펼쳐진 중국어 신문은 흔히 커피 한 잔과 나란히 놓여 있다. 독자는 1면의 국내외 큰 뉴스를 넘긴 뒤, 대개 가장 익숙한 지면으로 곧장 향한다——어느 화문 초등학교가 또 바자회를 열었는지 지역 뉴스를 먼저 보는 사람, 부간(문예면)과 논설면을 넘기는 사람, 그리고 부고·안내 광고·복권 결과만을 위해 신문을 보는 사람도 있다. 많은 말레이시아 화인에게 중국어 신문은 단순한 뉴스가 아니라, 날마다 이어지는 중국어 읽기 습관이기도 하다.

@@ -31,7 +31,7 @@ faq:
   - q: ¿Cuáles son los principales desafíos que afronta la industria?
     a: "El sector lidia con una población de agricultores envejecida, precios mundiales volátiles, estrés climático y una competencia feroz de productores más grandes como Vietnam, Indonesia e India. La baja mecanización y la dependencia de las exportaciones de granos crudos mantienen los márgenes ajustados, razón por la cual la política ahora enfatiza la replantación, la tecnología y el procesamiento aguas abajo."
 lang: es
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Hileras de plantas de pimienta negra guiadas sobre postes de madera para trepar en una plantación de Sarawak, el principal estado productor de pimienta de Malasia.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: Primer plano de una planta de pimienta con varias espigas colgantes densamente cuajadas de granos de pimienta verdes y redondos, enmarcada por grandes hojas lustrosas de un verde oscuro, con una granja verde difuminada al fondo.
+    kind: actual
+    origin: third-party
+    subject: Racimos de granos de pimienta verdes madurando en largas espigas colgantes en una planta de pimienta negra, en una finca de pimienta de Sarawak, el corazón de la industria pimentera de Malasia
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: Una azotea encalada bordeada por una balaustrada baja con varias bandejas de malla cuadradas de granos de pimienta oscuros secándose, con plataneras, cocoteros y colinas boscosas alzándose detrás bajo un cielo azul.
+    kind: representative
+    origin: third-party
+    subject: Granos de pimienta cosechados extendidos para secarse al sol en bandejas de malla sobre una azotea, la fase de secado que convierte las bayas verdes en pimienta negra
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 La pimienta es una de las materias primas agrícolas más antiguas y geográficamente distintivas de Malasia: una vid importada del subcontinente indio y Sumatra que encontró su hogar ideal en las húmedas y bien drenadas colinas de Sarawak, donde se convirtió en el sustento de miles de pequeñas explotaciones rurales. Aunque Malasia es un actor modesto por volumen mundial, rinde por encima de su peso en reputación, vendiendo una "Pimienta de Sarawak" premium y con origen certificado a mercados exigentes. Este artículo perfila la estructura, la geografía, el comercio y las perspectivas del sector como industria independiente.

@@ -32,7 +32,7 @@ faq:
   - q: "Di mana boleh mengikuti kursus perubatan Cina?"
     a: "Beberapa institusi pengajian tinggi tempatan telah menawarkan program Sarjana Muda Perubatan Cina (Kepujian), sebahagiannya telah diiktiraf oleh Agensi Kelayakan Malaysia (MQA), contohnya Southern University College di Skudai, Johor. Lulus hanyalah langkah pertama: untuk beramal sebagai pengamal perubatan Cina, seseorang masih perlu memenuhi syarat pendaftaran Majlis Perubatan Tradisional dan Komplementari. Status pengiktirafan dan syarat kemasukan setiap program hendaklah merujuk laman web rasmi institusi dan daftar rasmi MQA."
 lang: "ms"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'Di dalam sebuah kedai perubatan tradisional Cina di George Town, Pulau Pinang, dengan laci herba berlabel dan herba perubatan kering.'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: Tingkap sebuah klinik perubatan tradisional Cina menunjukkan sedinding laci herba, sebuah model akupunktur dan poster rawatan, mewakili amalan TCM
+    kind: representative
+    origin: third-party
+    subject: Tingkap kedai perubatan tradisional Cina dengan laci herba dan carta terapi
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: Herba perubatan Cina yang kering ditimbang pada penimbang kecil di kaunter sebuah kedai perubatan tradisional Cina
+    kind: representative
+    origin: third-party
+    subject: Herba kering ditimbang pada penimbang di sebuah kedai perubatan Cina
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 Di sudut jalan banyak pekan lama, sentiasa ada sebuah kedai ubat Cina: dinding almari kayu dipenuhi laci-laci kecil yang padat, udaranya bercampur bau danggui (当归), kulit limau kering (陈皮) dan akar manis (甘草); di sebalik kaunter, tauke tua mendengar pelanggan menceritakan di mana mereka tidak sihat sambil menimbang bahan ubat satu demi satu ke dalam kertas, lalu membungkusnya menjadi satu bungkusan ubat. Kedai seperti ini telah wujud dalam komuniti Cina Malaysia selama lebih seratus tahun.

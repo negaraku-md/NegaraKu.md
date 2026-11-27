@@ -30,7 +30,7 @@ faq:
     a: "تبني YTL Power مجمّع مراكز بيانات كبيراً في Kulai بجوهر (Johor)، وأكملت أول منشأة ذكاء اصطناعي مدعومة بـNvidia أُعلن تشغيلها في نهاية أكتوبر 2025."
 
 lang: "ar"
-sourceContentHash: "50fb36d32d88cbec"
+sourceContentHash: "44f9e732c976c152"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,33 @@ relations:
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "مركز بيانات جوهر", "data centre Johor", "تكتل ماليزي"]
 framework: profile
+hero: '/media/companies/ytl-group/hero.webp'
+heroAlt: 'الواجهة الهندسية المميّزة المتعددة الأوجه بالداكن والبرونزي لمركز ستارهيل غاليري الفاخر في بوكيت بينتانغ، مع برج فندق JW Marriott يرتفع خلفه'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Starhill_Gallery_2017.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Starhill Gallery, a luxury mall on Jalan Bukit Bintang owned by YTL Corporation (with the YTL-owned JW Marriott hotel behind), Kuala Lumpur — a confirmed YTL property, though the YTL parent name is not shown in-frame'
+images:
+  - role: scene
+    src: /media/companies/ytl-group/body-1.webp
+    alt: جادة هادئة تصطف على جانبيها أشجار النخيل تمتد عبر Sentul Park مع أعمدة لافتات طويلة مكتوب عليها SENTUL PARK و SENTUL WORKS على جانب الطريق
+    kind: representative
+    origin: third-party
+    subject: جادة تصطف على جانبيها الأشجار عبر Sentul Park، مشروع التجديد الحضري من YTL Land (الذراع العقارية لـ YTL Corporation)، كوالالمبور — لافتات SENTUL PARK / SENTUL WORKS ظاهرة؛ اسم الشركة الأم YTL غير ظاهر في الإطار
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Strachan_(230421)_01.jpg
+  - role: scene
+    src: /media/companies/ytl-group/body-2.webp
+    alt: منظر من مستوى الشارع لمدخل مركز Lot 10 التجاري بواجهته الخضراء، مع لافتة Isetan The Japan Store فوقه ومتجر H&M في الطابق الأرضي
+    kind: representative
+    origin: third-party
+    subject: مركز Lot 10 التجاري في شارع Jalan Bukit Bintang، معلم تجاري مملوك لـ YTL Corporation (يضم Isetan The Japan Store)، كوالالمبور — عقار YTL مؤكّد، اسم الشركة الأم YTL غير ظاهر في الإطار
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lot_10_Kuala_Lumpur_View.jpg
 ---
 
 YTL واحدة من أكبر المجموعات المتنوعة في ماليزيا، وأفضل ما تُفهم به ليس بوصفها شركةً واحدةً بل أسرةً من الأعمال المدرجة وغير المدرجة المبنية حول البنية التحتية.

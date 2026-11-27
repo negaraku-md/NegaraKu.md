@@ -106,6 +106,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'This is for students and parents weighing a foreign university branch campus — a wholly-owned overseas campus (Monash, Nottingham, Xiamen, Heriot-Watt and others) that awards the home university''s own degree in Malaysia.'
+  how: 'Choose by the home-university brand, campus location and specialism; branch campuses sit in the Klang Valley, Putrajaya, the EduCity Iskandar zone in Johor and in Sarawak. The award is the home institution''s identical degree, delivered on a Malaysian campus.'
+  cost: 'The draw is a Western or Chinese credential at local tuition and living costs, far below studying at the home campus abroad — but fees vary by institution and programme, so confirm current figures with each campus.'
+  watch: 'The degree is portable but the experience is local — class size, facilities and campus life differ widely between a standalone campus and a shared education-city one. Branch-campus programmes still need MQA accreditation and appear on the MQR.'
+  next: 'Shortlist by specialism and location, verify the exact programme on the MQR, and confirm international-enrolment approval with the campus. See Studying in Malaysia and Public vs private universities.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'A white modernist university building with a clock tower rising beyond a mirror-still green lake fringed by trailing greenery and trees under a dramatic sky'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: Large beige campus blocks joined by a glazed elevated skybridge, with the Monash crest on a tower and palms in the courtyard
+    kind: representative
+    origin: third-party
+    subject: the Monash University Malaysia branch campus buildings linked by a glass skybridge, Sunway City, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: White campus buildings with tiered red Chinese-style roofs behind a gated entrance plaza under a partly cloudy sky
+    kind: representative
+    origin: third-party
+    subject: the red-roofed main gate and administration tower of Xiamen University Malaysia, the first overseas branch campus of a Chinese university, in Sepang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 In 1998, a student in Kuala Lumpur could earn an Australian Monash degree without leaving the country — and pay Malaysian prices for it. That single arrangement launched a model the country has been building on ever since: import the university, not the student.

@@ -29,7 +29,7 @@ faq:
     a: "وفقاً للملخصات القانونية، يُعاقَب على جريمة الرشوة بالسجن مدة تصل إلى 20 عاماً وبغرامة لا تقل عن خمسة أضعاف قيمة الرشوة أو RM10,000 أيهما أعلى. وينبغي إعادة التحقق من هذه التفاصيل مقابل النص الكامل للقانون."
 
 lang: "ar"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
-related: []
+related: ["fam-heritage-players-controversy", "malaysia-cup-domestic-football-leagues", "malaysian-sport-governance"]
 keywords: ["التلاعب بنتائج المباريات", "match-fixing", "المراهنات الرياضية", "pertaruhan sukan", "قانون دور المقامرة العامة 1953", "Common Gaming Houses Act 1953", "قانون المراهنات 1953", "Betting Act 1953", "SPRM", "MACC", "نزاهة الرياضة", "كرة القدم الماليزية", "FAM"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'ملعب كرة قدم خالٍ يمتد أمام مدرجات رئيسية مهجورة تحت سماء غائمة.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: حكم بزيّ داكن يدير مباراة على أرض الملعب خلال مباراة كرة قدم.
+    kind: representative
+    origin: third-party
+    subject: حكم مباراة يدير اللعب على أرض الملعب خلال مباراة كرة قدم
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: حكم يرمي قطعة نقدية مع قائدي الفريقين عند دائرة المنتصف قبل انطلاق مباراة كرة قدم.
+    kind: representative
+    origin: third-party
+    subject: حكم يجري قرعة ما قبل المباراة بإلقاء القطعة النقدية مع قائدي الفريقين
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 عندما جمعت الشرطة أكثر من 100 لاعب كرة قدم خلال موسم 1993–1994، لم تكن تلك مجرد أزمة رياضية — بل فتحت سؤالاً قانونياً لا يزال غير محسوم تماماً حتى اليوم: كيف تتعامل دولة تحظر معظم المراهنات الرياضية مع جريمة وُلدت من تلك المراهنات نفسها؟

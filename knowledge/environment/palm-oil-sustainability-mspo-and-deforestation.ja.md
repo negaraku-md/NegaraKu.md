@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 
 status: "published"
 aiAssisted: true
@@ -92,6 +92,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'かすんだ緑の山々の下、未舗装路のそばの丘を覆う、葉の茂ったアブラヤシの並木'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: 幾何学的なアブラヤシの区画と裸の伐採地が、残された濃い緑の森に迫る空撮風景
+    kind: actual
+    origin: third-party
+    subject: 農園拡大による森林喪失を示す、ボルネオの熱帯雨林に切り込まれたアブラヤシ伐採地の空撮
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: 鮮やかな青空の下、若いアブラヤシが植えられたなだらかな緑の丘が遠くの尾根まで広がる
+    kind: actual
+    origin: third-party
+    subject: ジョホール州ムルシン郡で、なだらかな丘を覆う広大なアブラヤシ農園
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 マレーシアは世界のパーム油の概ね5分の1を生産しており、この産業は森林減少との関わりをめぐって、長らく欧州やNGOの活動家から批判を受けてきた。これに対応する形で、同国は現在、義務的で国家が後ろ盾となる認証制度を運営しており、2025年9月5日、欧州連合（EU）は共同声明の中でこの制度を認めた。本稿では、MSPOがどのように機能するのか、それが何を証明し何を証明しないのか、そして依然として困難な問題がどこにあるのかを説明する。

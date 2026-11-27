@@ -44,7 +44,7 @@ verificationNeeded:
   - "Current tenant counts and committed investment at POIC Lahad Datu and SOGIP Sipitang — the operator sites carry figures dated 2020 to 2022 and aspirational totals"
 
 lang: "es"
-sourceContentHash: "91f5a7840f804778"
+sourceContentHash: "eb7fb4c88401e00f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,34 @@ keywords:
   - "SEDIA Sabah Development Corridor"
   - "Sabah state sales tax"
 framework: profile
+hero: '/media/business/doing-business-sabah/hero.webp'
+heroAlt: 'Vista diurna y luminosa del centro de Kota Kinabalu con torres de oficinas comerciales y complejos comerciales junto a una bahía azul y sus islas'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Vivid_Blues_in_Downtown_Kota_Kinabalu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Downtown Kota Kinabalu, Sabah — city-centre office towers and shopping complexes along the waterfront bay'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-sabah/body-1.webp
+    alt: Banderas estatales de Malasia en mástiles en primer plano con el perfil urbano del centro de Kota Kinabalu elevándose al otro lado de la bahía bajo un cielo azul brillante
+    kind: actual
+    origin: third-party
+    subject: Perfil urbano del centro de Kota Kinabalu visto al otro lado de la bahía desde el edificio de la Asamblea Estatal de Sabah, Sabah
+    credit: Negaraku / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_city_centre_viewed_from_the_main_entrance_of_Sabah_State_Assembly_Building.jpg
+  - role: scene
+    src: /media/business/doing-business-sabah/body-2.webp
+    alt: Moderno edificio de la sede de Sabah Ports con fachada de cristal detrás de palmeras, con un letrero de Sabah Ports en la entrada con puerta bajo un cielo brillante
+    kind: actual
+    origin: third-party
+    subject: Sede de Sabah Ports en Sepanggar, Kota Kinabalu — el edificio portuario corporativo con fachada de cristal
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_TelukSapanggar-SabahPorts-01.jpg
 ---
 
 Casi todas las guías nacionales para hacer negocios en Malasia se equivocan sobre Sabah, y

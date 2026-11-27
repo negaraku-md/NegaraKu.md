@@ -34,7 +34,7 @@ verificationNeeded:
   - "현재 MRT 카장선(Kajang Line)의 길이/역 수는 발행 전에 MRT Corp 또는 라피드 레일에 직접 확인할 것 — 교통부와 라피드 레일 자체 노선 페이지가 약간 다른 수치(51km/31개 역 대 46km/29개 역)를 제시하며, 이 글은 조정될 때까지 그대로 반복하는 것을 피했음."
 
 lang: "ko"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: '극적인 하늘을 배경으로 고가교 위를 달리는 세련된 빨강·흰색 MRT Putrajaya Line 열차 — 현대적인 클랑밸리 지하철'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: 스크린도어와 열차 도착 안내 표시가 있는 깔끔하고 현대적인 지하 MRT 승강장(툰 라작 익스체인지) — 역 내부 모습. 식별 가능한 얼굴 없음.
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: 모스크와 도시 스카이라인을 지나 고가 궤도를 곡선으로 달리는 KL 모노레일 열차 — 두 번째 철도 방식과 클랑밸리 맥락을 더함. 히어로(고가 메트로), body-1(지하역)과 구별됨.
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 클랑밸리(Klang Valley) 철도 지도를 처음 보면 알파벳 수프처럼 읽힙니다 —

@@ -34,7 +34,7 @@ faq:
     a: "تُلزِم إرشادات التطوير المستدام لمراكز البيانات الصادرة عن MITI (30 ديسمبر 2024) المشغّلين بالإفصاح عن قيم PUE وWUE وCUE التصميمية وفقاً لمعايير ISO/IEC 30134، وبمراعاة مواقع في شبه جزيرة ماليزيا ذات مؤشر إجهاد مائي (WSI) يقل عن 0.8، وفقاً للصياغة التي يحدد بها الدليل شرط اختيار الموقع."
 
 lang: "ar"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["مراكز البيانات ماليزيا", "Malaysia data centre", "البنية التحتية السحابية", "cloud infrastructure", "مراكز بيانات جوهور", "Johor data centre", "DESAC incentive", "طاقة ومياه مراكز البيانات", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'صفوف من خزانات الخوادم ذات مصابيح الحالة الزرقاء المتوهّجة تملأ ممرّ مركز بيانات.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: صفوف طويلة من خزائن الخوادم والمعدّات تملأ قاعة مركز بيانات كبيرة مع احتواء منظّم للممرات الباردة.
+    kind: representative
+    origin: third-party
+    subject: قاعة مركز بيانات بصفوف من خزائن المعدّات
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: حُزم كثيفة من كابلات الشبكة تمتدّ خلف خزائن الخوادم في مركز بيانات.
+    kind: representative
+    origin: third-party
+    subject: كابلات الشبكة خلف خزائن خوادم مركز البيانات
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 في عام 2019، توقّفت سنغافورة عن الموافقة على مراكز بيانات جديدة كبيرة الحجم. وخلال أربع سنوات، كانت الخوادم التي رفضتها قد أقامت صناعة جديدة على بُعد عشرين دقيقة عبر جسر كوزواي — وتحوّلت جوهور من ولاية ماليزية هادئة إلى أكثر أسواق مراكز البيانات ازدحاماً في جنوب شرق آسيا.

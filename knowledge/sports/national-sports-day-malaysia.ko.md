@@ -29,7 +29,7 @@ faq:
     a: "HSN은 기념의 정점이 되는 날입니다. 2019년부터 KBS는 그 기념을 10월 한 달 내내 국가스포츠의 달(Bulan Sukan Negara, BSN)로 확대했습니다."
 
 lang: "ko"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: '쿠알라룸푸르의 야간 도로 경주에서 수많은 러너들이 조명이 밝혀진 술탄 압둘 사마드 빌딩 앞을 줄지어 지나가고 있다.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: 쿠알라룸푸르 차 없는 날 행사에서 온갖 연령대의 자전거 이용자들이 새벽에 통제된 거리를 가득 메우고 있고, 위로는 축제 현수막이 걸려 있다.
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 차 없는 날 아침의 대규모 자전거 참가자들
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: 말레이시아의 군 단위 학교 대항 육상 선수권에서 어린 선수와 관계자들이 경기장 붉은 트랙에 모여 있고, 뒤로 조명탑과 관중석이 보인다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 군 단위 학교 대항 육상 선수권 트랙 위의 선수들
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 10월 둘째 주 토요일마다, 말레이시아 전역의 경기장과 공원, 스포츠 홀은 사람들로 가득 차야 합니다 — 그것이 바로 국가스포츠의 날의 설계입니다.

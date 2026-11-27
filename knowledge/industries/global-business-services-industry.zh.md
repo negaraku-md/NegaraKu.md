@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚向 GBS 投资者提供哪些激励？
     a: 主要途径是由 MDEC 管理的「马来西亚数字」（MD）地位，它可为获批的数字与服务活动解锁税务激励。2024 年，MDEC 推出两项以成果为导向的计划——新投资激励与扩张激励——申请开放至 2027 年。条款会变动，因此请向 MDEC 或税务顾问确认当前资格。
 lang: zh
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - 马来西亚数字
   - 离岸外包
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: '马来西亚赛城的一栋现代化企业办公大楼，赛城是马来西亚科技与全球商业服务的主要中心之一。'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: 马来西亚雪兰莪赛城商业园区内一栋现代化的玻璃与混凝土多层企业办公楼。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚全球服务枢纽赛城的企业办公楼
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: 一个超大型开放式呼叫中心楼面上，一排排客服专员坐在电脑工位前。
+    kind: representative
+    origin: third-party
+    subject: 大型呼叫中心办公楼面（代表性的共享服务／BPO工作场所）
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 此刻在赛城或吉隆坡的某处，一名会计正为一家总部设在伦敦的公司结算月度账目，一名服务台专员正为一位悉尼的客户解决工单，一名数据分析师正为一家德国工厂构建仪表板。这些雇主没有一家在马来西亚制造任何东西。他们在这里运行的，是某种不那么显眼却日益珍贵的东西：他们的全球后台。

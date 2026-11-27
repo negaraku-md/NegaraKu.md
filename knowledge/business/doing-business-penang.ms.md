@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "764567a2c684af68"
+sourceContentHash: "fa97dc6701a1b53a"
 
 status: "published"
 aiAssisted: true
@@ -120,6 +120,33 @@ keywords:
   - "PDC industrial land Penang"
   - "Bayan Lepas free industrial zone"
 framework: profile
+hero: '/media/business/doing-business-penang/hero.webp'
+heroAlt: 'Pandangan udara Zon Perindustrian Bebas Bayan Lepas di Pulau Pinang, dengan bangunan kilang dan pembuatan besar dibariskan di sepanjang lebuh raya pantai di tepi laut dan bukit di belakang'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bayan_Lepas_Free_Industrial_Zone_2023.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial of the Bayan Lepas Free Industrial Zone in Penang — the electronics and semiconductor manufacturing plants along the coastal highway, the island''s industrial engine'
+images:
+  - role: scene
+    src: /media/business/doing-business-penang/body-1.webp
+    alt: Pandangan tinggi Jambatan Pulau Pinang merentasi selat dengan kereta mengalir ke dua arah, pekan tanah besar dan bukit kelihatan di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Jambatan Pulau Pinang membawa lalu lintas merentasi selat antara Pulau Pinang dan tanah besar, nadi ekonomi yang menghubungkan pulau ke hab perindustrian Seberang Perai
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge_Dec2024-1.jpg
+  - role: scene
+    src: /media/business/doing-business-penang/body-2.webp
+    alt: Pandangan sudut rendah menara Komtar yang tinggi di George Town, Pulau Pinang, menjulang di atas daerah komersial berlatarkan langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Menara Komtar di George Town, bangunan tertinggi Pulau Pinang serta mercu tanda komersial dan kerajaan yang utama
+    credit: LEE 003 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KOMTAR_002.jpg
 ---
 
 Soalan pertama tentang menjalankan perniagaan di Pulau Pinang bukanlah apa yang perlu

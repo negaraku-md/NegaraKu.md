@@ -22,7 +22,7 @@ appliesTo: "希望了解新经济政策有据可查的目标、指标与时间�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -65,6 +65,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: '粉红色圆顶的布特拉清真寺与宏伟的布特拉宫行政大楼俯瞰着布城一泓平静的湖水，布城是马来西亚专门规划兴建的联邦行政首都。'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: 斜拉桥Seri Wawasan Bridge白色帆形桥塔矗立于平静的Putrajaya湖面之上，钢索呈扇形展开连向桥面。
+    kind: actual
+    origin: third-party
+    subject: 联邦行政首都Putrajaya湖上的Seri Wawasan Bridge
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: 灵感源自伊斯法罕的Putra Bridge横跨Putrajaya湖，其镶瓷砖的宣礼塔式桥墩与尖拱在蓝天下倒映水中。
+    kind: actual
+    origin: third-party
+    subject: 联邦行政首都Putrajaya湖上的Putra Bridge（Jambatan Putra）
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 新经济政策通常仅以一个词——「重组」——被人们记住，并因此争论至今。然而，这项政策以书面形式，在提呈国会的政府计划中自行陈述了其目标，而这些目标是两个，不是一个，此外还有一个凌驾两者之上的第三重理念。本文按照文件本身陈述的顺序，说明这些文件实际写了什么。

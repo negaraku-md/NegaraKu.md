@@ -36,7 +36,7 @@ verificationNeeded:
   - "Inventaris portal selain MySST dan ezHS (MyTTx, MyDLV, sistem pita cukai, MNTR) tidak diverifikasi terhadap halaman RMCD mana pun yang dikutip; edisi terkini Customs Duties Order dan jumlah jadwal preferensi FTA dalam ezHS juga tidak diverifikasi dan dijelaskan secara kualitatif saja"
 
 lang: "id"
-sourceContentHash: "e8cda8bbe6ecdbc9"
+sourceContentHash: "1f3188dc379f655b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,34 @@ relations:
 related: ["lhdn", "sst-explained", "sst-registration", "sales-tax-explained", "anti-dumping-countervailing-duties"]
 keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Malaysia", "SST Customs", "excise duty Malaysia"]
 framework: profile
+hero: '/media/government/rmcd-kastam/hero.webp'
+heroAlt: 'Gedung pemerintah biru langit cerah di bawah langit biru jernih, bagian pelananya bertuliskan lambang Kastam Diraja Malaysia di atas tulisan emas Kastam Diraja Malaysia, berada di antara pepohonan hijau di Lahad Datu, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lahad-Datu_Sabah_Jabatan-Kastam-Diraja-Malaysia-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A Royal Malaysian Customs Department (Jabatan Kastam Diraja Malaysia / JKDM) office building, Lahad Datu, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/rmcd-kastam/body-1.webp
+    alt: Gedung kantor pusat Jabatan Kastam Diraja Malaysia berwarna krem bertingkat di Putrajaya, fasad bagian atasnya bertuliskan Jabatan Kastam Diraja Malaysia, dilihat dari jalan melalui tabir pepohonan tepi jalan
+    kind: actual
+    origin: third-party
+    subject: Kantor pusat Jabatan Kastam Diraja Malaysia di pusat administrasi federal, Putrajaya
+    credit: Thealien77 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Kastam_DiRaja_Malaysia.jpg
+  - role: scene
+    src: /media/government/rmcd-kastam/body-2.webp
+    alt: Gedung bea cukai dua lantai berwarna persik dan krem dalam cahaya hangat yang menampilkan papan nama Wisma Kastam Sabah dan Jabatan Kastam Diraja Malaysia / Royal Malaysian Customs Department, dengan papan monumen biru dan jalan masuk beratap di Kota Kinabalu
+    kind: actual
+    origin: third-party
+    subject: Wisma Kastam Sabah, gedung negeri Jabatan Kastam Diraja Malaysia di Kota Kinabalu, Sabah
+    credit: Cccefalon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Customs-Department-01.jpg
 ---
 
 Dua lembaga, satu kementerian, dan satu garis pemisah yang hampir tak

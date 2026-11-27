@@ -84,6 +84,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: '정글 순찰을 마친 제복 차림의 병사들이 줄지어 물에 잠긴 논을 건너 야영지로 돌아가고 있다.'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 "비상사태"라는 단어는 서술이 아니라 법적 선택이었습니다. 말라야의 12년 분쟁을 전쟁이 아니라 비상사태로 부른 것은, 전쟁 행위를 배제한 런던의 보험 정책 아래 고무 농원과 주석 광산을 보험 가입 가능한 상태로 유지시켰습니다. 전투는 실제였고, 사망자는 수천 명에 이르렀으며, 그로부터 생겨난 국가는 그 비상사태보다 수십 년을 더 살아남은 수단들 — 신분증, 재정착 구역, 구금 권한 — 을 지니게 되었습니다.

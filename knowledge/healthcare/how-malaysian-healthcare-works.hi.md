@@ -26,7 +26,7 @@ verificationNeeded:
   - "SPIKPA के सटीक प्रीमियम और वार्षिक कवरेज सीमा की किसी आधिकारिक प्राथमिक स्रोत पर पुष्टि नहीं हुई (केवल अकादमिक और बीमा-दलाल द्वितीयक स्रोत मिले); यह लेख योजना के कार्य का वर्णन करता है — वर्क-परमिट नवीनीकरण से जुड़ा अनिवार्य बीमा, जिसकी पुष्टि आव्रजन विभाग (Immigration Department) की अपनी साइट पर होती है — बिना किसी असत्यापित प्रीमियम या कवरेज राशि का उल्लेख किए।"
 
 lang: "hi"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,32 @@ stayFacts:
   cost: 'निश्चित आँकड़ों के बजाय स्वरूप के संदर्भ में सोचें: सार्वजनिक देखभाल नागरिकों और स्थायी निवासियों के लिए भारी-सब्सिडी वाली है, जबकि विदेशी ग़ैर-नागरिक शुल्क-सूची के अंतर्गत काफ़ी अधिक चुकाते हैं, और निजी देखभाल का भुगतान अपनी जेब से या बीमा के माध्यम से होता है, सुविधा जो भी शुल्क ले। सटीक रिंगिट राशियाँ Fees (Medical) Order के अंतर्गत तय होती हैं और समय-समय पर संशोधित की जाती हैं, इसलिए किसी भी उद्धृत आँकड़े पर भरोसा करने से पहले मौजूदा शुल्कों की पुष्टि MOH के प्रकाशित आदेश से या सीधे प्रदाता से करें।'
   watch: 'नागरिक सब्सिडी आप तक एक विदेशी के रूप में नहीं पहुँचती — PeKa B40, MySalam और नागरिक शुल्क-सूची नागरिकता या B40 नकद-सहायता स्थिति से जुड़ी हैं, इसलिए निजी बीमा की योजना बनाएँ (और ध्यान दें कि प्रलेखित विदेशी कामगारों के पास वर्क परमिट नवीनीकृत करने के लिए SPIKPA अस्पताल-भर्ती बीमा होना आवश्यक है, जिसे नियोक्ता व्यवस्थित करता है)।'
   next: 'यह तय करें कि आप किस श्रेणी में आते हैं (विदेशी कामगार, प्रवासी, या आगंतुक) और किसी स्थानीय योजना पर भरोसा करने से पहले सही कवरेज की व्यवस्था करें। विवरण के लिए, साथी मार्गदर्शिकाएँ देखें: मलेशिया में चिकित्सा बीमा, निजी अस्पताल और लागत, और Klinik Kesihatan।'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'लाल अर्धचंद्र प्रतीक के साथ, एक मलेशियाई सरकारी अस्पताल, कुआलालंपुर अस्पताल के विशेषज्ञ और दिवा-उपचार परिसर का बाहरी दृश्य।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Kota Kinabalu, Sabah में सड़क से देखा गया एक बड़ा बहुमंज़िला मलेशियाई सरकारी अस्पताल परिसर
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, Kota Kinabalu, Sabah में एक प्रमुख मलेशियाई सरकारी अस्पताल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: George Town, Penang में एक बड़े मलेशियाई सरकारी अस्पताल के बहु-भवन परिसर का हवाई दृश्य, जिसके पीछे शहर का क्षितिज है
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), George Town, Penang में एक प्रमुख मलेशियाई सरकारी अस्पताल
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 सीने में दर्द से जूझ रहा एक मलेशियाई सेवानिवृत्त व्यक्ति एम्बुलेंस बुलाता है और उसे निकटतम सरकारी अस्पताल ले जाया जाता है, जहाँ एक हृदय रोग विशेषज्ञ उसे ऐसे शुल्क पर देखता है जो वास्तविक लागत का एक अंश ही है। उसका पड़ोसी, इंडोनेशिया से आया एक वर्क-परमिट धारक, जिसके लक्षण भी वही हैं, उसी अस्पताल के आपातकालीन विभाग में ले जाया जाता है — लेकिन उसके बाद आने वाला बिल बिल्कुल अलग शुल्क-सूची पर गणित किया जाता है, क्योंकि मंत्रालय की नज़र में वे दोनों एक ही तरह के मरीज़ नहीं हैं।

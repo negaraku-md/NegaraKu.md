@@ -35,7 +35,7 @@ faq:
     a: "esports को एक प्रतिस्पर्धी अनुशासन के रूप में मान्यता प्राप्त है और इसे SEA Games में खेला गया है। बजट 2020 ने RM20 मिलियन आवंटित किए, और KBS ने 2020 में एक राष्ट्रीय esports रोडमैप और एथलीट विकास को चलाने के लिए Esports Integrated की स्थापना की।"
 
 lang: hi
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 
@@ -114,6 +114,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'ग्रिड वाले कैप्चर स्टेज, ट्रस पर लगे ऊपरी कैमरा रिग और कई मॉनिटरों वाले एक ऑपरेटर वर्कस्टेशन के साथ एक मोशन-कैप्चर प्रोडक्शन स्टूडियो।'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: एक वीडियो-गेम विकास कंपनी के खुले स्टूडियो फ़्लोर पर डेवलपर्स कई-मॉनिटर वाले डेस्क पर काम करते हैं।
+    kind: representative
+    origin: third-party
+    subject: एक वीडियो-गेम विकास स्टूडियो फ़्लोर
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: एक कंटेंट क्रिएटर के वर्कस्टेशन पर डिजिटल पेंटिंग दिखाते मॉनिटर के सामने रखी एक ग्राफ़िक्स टैबलेट और स्टाइलस।
+    kind: representative
+    origin: third-party
+    subject: डिजिटल पेंटिंग बनाने के लिए एक डिजिटल कलाकार का वर्कस्टेशन
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 जब Les' Copaque का _Upin & Ipin Universe_ **17 जुलाई 2025** को दुनिया भर के कंसोल तक पहुँचा, तो उसने एक ऐसी गोल पूरी कर दी जो दो शरारती जुड़वाँ भाइयों के बारे में एक छोटी एनिमेटेड शृंखला से शुरू हुई थी। एक मलेशियाई कार्टून एक विश्व-स्तर पर प्रकाशित वीडियो गेम बन गया था — और इस बात का एक सुंदर उदाहरण कि देश के डिजिटल क्रिएटिव कंटेंट उद्योग ने दो दशकों में चुपचाप क्या बनाया है।

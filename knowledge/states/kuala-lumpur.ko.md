@@ -33,7 +33,7 @@ verificationNeeded:
   - "발행 전에 쿠알라룸푸르 및 그레이터 쿠알라룸푸르 인구 수치와 1인당 GDP 순위를 최신 DOSM 발표에 대조하여 확인."
 
 lang: "ko"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: '쿠알라룸푸르의 황금빛 황혼 하늘을 배경으로 KLCC 지구 스카이라인 위로 솟은 조명 받은 페트로나스 트윈타워'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: 큰 흰 구름과 전경의 녹지 아래, 바늘처럼 뾰족한 상단의 KL Tower와 밀집한 고층 건물들이 있는 쿠알라룸푸르 스카이라인의 넓은 전경
+    kind: actual
+    origin: third-party
+    subject: 밝고 구름 낀 하늘 아래 KL Tower가 있는 쿠알라룸푸르 도시 스카이라인 파노라마
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: 쿠알라룸푸르 중심부에 있는, 키 큰 시계탑과 빛나는 구리 돔을 갖춘 무어 양식의 Sultan Abdul Samad 건물
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 중심부의 구리 돔 시계탑을 갖춘 식민지 시대 Sultan Abdul Samad 건물
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 쿠알라룸푸르(Kuala Lumpur)는 말레이시아의 수도이지만, 헌법상으로는 주(州)가 아닙니다 — 그것은 1974년 슬랑오르에서 떼어 내어져 선출된 주(州) 정부나 주 의회가 아니라 연방 정부가 직접 관할하는 연방 직할구입니다.

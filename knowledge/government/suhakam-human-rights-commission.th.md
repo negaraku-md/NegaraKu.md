@@ -34,7 +34,7 @@ faq:
     a: "ได้ มาตรา 4(2)(d) ให้ SUHAKAM มีอำนาจเยี่ยมสถานที่กักตัว สถาบัน และสถานที่อื่นใด และทำข้อเสนอแนะที่จำเป็น มาตรา 4(3) ซึ่งใส่เข้ามาโดยการแก้ไขปี 2024 ระบุว่าการเยี่ยมนั้นไม่อาจถูกปฏิเสธโดยผู้รับผิดชอบสถานที่ที่เกี่ยวข้องได้ตราบเท่าที่ปฏิบัติตามขั้นตอนที่กำหนด"
 
 lang: "th"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,33 @@ relations:
 related: ["federal-constitution", "parliament", "kehakiman-mahkamah", "attorney-general"]
 keywords: ["SUHAKAM", "Suruhanjaya Hak Asasi Manusia Malaysia", "Human Rights Commission of Malaysia", "Akta 597", "hak asasi manusia", "aduan hak asasi", "Prinsip Paris", "taraf A GANHRI", "tempat tahanan", "Perlembagaan Persekutuan"]
 framework: profile
+hero: '/media/government/suhakam-human-rights-commission/hero.webp'
+heroAlt: 'Menara TH Perdana อาคารสำนักงานสูงทรงโค้งในกัวลาลัมเปอร์พร้อมป้าย ''MENARA TH PERDANA'' เด่นชัดและทางเข้าหลังคากระจก ซึ่งเป็นที่ตั้งสำนักงานใหญ่ SUHAKAM'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: ผู้เข้าร่วมการชุมนุมภาคประชาสังคมโดยสงบในกัวลาลัมเปอร์ สะท้อนบริบทด้านสิทธิมนุษยชน
+    kind: representative
+    origin: third-party
+    subject: การชุมนุมภาคประชาสังคมในกัวลาลัมเปอร์ (บริบทสิทธิมนุษยชน)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: การชุมนุมสาธารณะโดยสงบที่เนืองแน่นถนนในกัวลาลัมเปอร์ยามค่ำคืน แสดงถึงเสรีภาพที่คณะกรรมการสิทธิมนุษยชนกำกับดูแล
+    kind: representative
+    origin: third-party
+    subject: การชุมนุมสาธารณะโดยสงบบนถนนในกัวลาลัมเปอร์ (บริบทสิทธิมนุษยชน)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 เมื่อบุคคลส่งเรื่องร้องเรียนการละเมิดสิทธิมนุษยชนไปยัง SUHAKAM คณะกรรมการนั้นทำอะไรได้และทำอะไรไม่ได้จริง คำตอบมิใช่วาทศิลป์ — แต่อยู่ที่พระราชบัญญัติสั้น ๆ ปี 1999 ที่กำหนดสี่หน้าที่ อำนาจในการสอบสวนหนึ่งแถว และเส้นแดงบางเส้นที่ก้าวข้ามไม่ได้อย่างแม่นยำ

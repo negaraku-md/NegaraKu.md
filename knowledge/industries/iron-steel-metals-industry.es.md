@@ -31,7 +31,7 @@ faq:
   - q: ¿Es Malasia fuerte en metales distintos del acero?
     a: Sí. En metales no ferrosos Malasia es competitiva a nivel mundial. Press Metal, con sede en Sarawak, es el mayor productor integrado de aluminio del Sudeste Asiático, y Malaysia Smelting Corporation está entre los principales productores mundiales de estaño refinado, un legado de la larga historia minera del estaño del país.
 lang: es
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: 'Una gran acería integrada con altos hornos, altas chimeneas y penachos de vapor blanco, con colinas boscosas y casas al fondo'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: Dos altos altos hornos de acero con conductos y una chimenea que expulsa vapor blanco contra un cielo azul despejado
+    kind: representative
+    origin: third-party
+    subject: Altos hornos en Scunthorpe Steelworks, Inglaterra
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: En el interior de una acería, un gran horno de arco eléctrico con grúa aérea, tuberías y trabajadores sobre pasarelas de acero
+    kind: representative
+    origin: third-party
+    subject: Interior de la acería de horno de arco eléctrico en la planta siderúrgica ProfilARBED en Differdange, Luxemburgo
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 Detrás de casi cada edificio, puente y autopista de Malasia hay una industria más silenciosa que fabrica el metal que lo sostiene todo. El hierro y el acero rara vez acaparan titulares como los semiconductores o el aceite de palma, y sin embargo son fundamentales: la barra corrugada dentro de una columna de hormigón, el alambre de un cable, la chapa de la puerta de un coche. Malasia fabrica gran parte de esto por sí misma y, en unos pocos metales, es genuinamente de primer nivel mundial. Pero la mitad siderúrgica de la historia es también uno de los sectores manufactureros más atribulados del país, definido por un desajuste obstinado entre cuánto puede producir y cuánto necesita realmente el mercado.

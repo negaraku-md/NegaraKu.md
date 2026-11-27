@@ -21,7 +21,7 @@ appliesTo: "希望获得一份有据可查概览的读者、学生与研究者�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "轮替式称号继承制度首次确立的确切日期：叙事性资料把其起源追溯至17世纪，却没有给出单一权威的立制年份；现行次序以1953年2月25日的一项裁定为依据。"
   - "确切的立国年份一般定为1528年（马六甲的 Mahmud Shah 在 Kampar 去世之年），但一些族谱把 Muzaffar Shah I 的登基置于稍早或稍晚数年。"
 framework: history-culture
+hero: '/media/malaysia/perak-sultanate/hero.webp'
+heroAlt: '一座顶着镀金洋葱形圆顶的白色王宫，矗立于绿色山坡上一道华丽的黑白围栏之后，天空晴朗无云。'
+heroCredit: 'Gerd Fahrenhorst / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: 一座白色清真寺，顶着一座巨大的金色洋葱形穹顶，两侧环绕较小的鎏金穹顶和四座纤细的宣礼塔，在晴空下熠熠生辉；这是霹雳江沙的皇家乌布迪亚清真寺。
+    kind: actual
+    origin: third-party
+    subject: 乌布迪亚清真寺（Ubudiah Mosque），位于江沙的霹雳皇家清真寺，有着金色穹顶
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: 一座庄严的奶油色殖民时代宫殿，设有拱形窗户、装饰性栏杆和对称立面，顶部点缀着小塔楼，坐落在明亮天空下的草坪后方；霹雳江沙的乌鲁王宫。
+    kind: actual
+    origin: third-party
+    subject: 乌鲁王宫（Istana Hulu），江沙昔日的霹雳皇宫，今为苏丹阿兹兰沙艺廊
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 1511年马六甲在葡萄牙炮火下陷落时，那个使海峡声名远扬的王朝，并未随着城池一同消亡。它的末代苏丹 Mahmud Shah 退入群岛深处，留下两个儿子；一个将在下游的柔佛重建王室世系，另一个则把古老的马六甲王冠向北携去，带到一处由河流穿行、沙洲上闪烁着锡光的宁静河谷。那个北方王国便成了霹雳，而近五个世纪之后，它仍由同一条血脉统治，如今的苏丹，其王位并非父传子，而是沿着一道流动的王子阶梯传递。这是一个关于一个战败王朝如何幸存、靠锡致富、在一纸条约下向英国交出主权、并延续至今的故事。

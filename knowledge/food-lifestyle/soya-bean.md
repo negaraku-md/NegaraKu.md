@@ -83,6 +83,14 @@ drinkFacts:
   halal: "The soya bean drink is plant-based and non-alcoholic — soybeans, water and sugar — and naturally dairy-free, so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual stall."
   served: "Served hot or over ice, lightly sweet. Common pairings: with tau foo fah (soft-tofu pudding) as a dessert set, or poured over black grass jelly as 'soya cincau' (the 'Michael Jackson'). Penang-style versions lean on pandan and brown sugar; modern soy cafés offer black-bean, black-sesame and red-bean variants."
   where: "Found at kopitiam stalls, hawker centres, pasar malam and dedicated soy-bean shops across the country — often from a stall that sells only soy milk and tau foo fah — as well as bottled in supermarkets."
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A tall glass of pale soybean milk with soybeans beside it"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 At countless Malaysian coffee shops a single stall does nothing but soy: a vat of

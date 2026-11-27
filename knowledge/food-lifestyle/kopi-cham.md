@@ -83,6 +83,14 @@ drinkFacts:
   halal: "Kopi cham is coffee, tea, water and milk, with no alcohol, so the drink itself is halal. Halal assurance attaches to the premises, so diners needing certification should check the individual coffee shop."
   served: "Served hot by default; order 'ais kopi cham' or 'cham peng' for iced. Comes sweet with condensed milk; add 'kosong' for no sugar or 'kurang manis' for less sweet. Ordered through the same modular code (O, C, kosong, gao, peng) as kopi and teh."
   where: "Found at kopitiam coffee shops and mamak stalls across the country, poured from the same counter as kopi and teh tarik — a everyday any-time drink for those who cannot choose between coffee and tea."
+hero: "/media/food/kopi-cham/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A frothy coffee-and-tea mix (kopi cham) in a floral kopitiam cup and saucer"
+heroCredit: "Avlxyz / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tea%2BCoffee_Cham_-_Old_Town_Kopitiam_Mamak_AUD3.jpg"
+wikidata: "Q2748300"
 ---
 
 For anyone who sits down at a Malaysian coffee shop and cannot decide between coffee

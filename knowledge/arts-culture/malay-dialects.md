@@ -76,6 +76,32 @@ social:
 verificationNeeded:
   - "Bilangan dan sempadan kumpulan dialek berbeza mengikut skema ahli dialektologi (empat kelompok Ismail Hussein 1973; tujuh kumpulan Asmah Haji Omar; senarai yang lebih terperinci) dan tidak sepenuhnya sepakat. Status bahasa Melayu baku sebagai 'berasaskan Johor-Riau' serta sejarah dasar sebutan baku berbanding sebutan Johor-Riau perlu disemak dengan terbitan rasmi DBP. Hubungan dialek Negeri Sembilan dengan bahasa Minangkabau (keturunan penghijrah berbanding kedekatan linguistik dengan bahasa Melayu baku) dan status Baba Melayu sebagai bahasa kreol masih diperdebatkan dalam kalangan sarjana."
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: 'Sebuah rumah kayu Melayu Pahang tradisional yang dibina di atas tiang, dengan bumbung berjubin curam, papan tepi bumbung berukir dan tangga kayu beratap, terletak di atas halaman berumput hijau.'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: Rumah Warisan Haji Su, sepasang rumah Melayu kayu tradisional dalam gaya pantai timur Kuala Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Rumah Melayu tradisional Terengganu (Rumah Warisan Haji Su), Kuala Terengganu
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: Rumah tradisional Negeri Sembilan dengan bumbung melentik gaya Minangkabau, dipamerkan di perkarangan muzium negeri di Seremban.
+    kind: actual
+    origin: third-party
+    subject: Rumah tradisional Negeri Sembilan gaya Minangkabau di Muzium Negeri, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Seorang penutur dari Kota Bharu, seorang dari Alor Setar dan seorang dari Kuching mungkin sama-sama berkata mereka bertutur dalam bahasa Melayu — tetapi apabila mereka bersembang secara santai di kampung masing-masing, bunyinya boleh sangat berbeza sehingga memerlukan sedikit penyesuaian untuk saling memahami. Perbezaan inilah yang disebut dialek, atau dalam bahasa harian, loghat.

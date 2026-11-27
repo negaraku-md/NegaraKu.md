@@ -34,7 +34,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["첫 파사르 말람", "파사르 말람 가는 법", "파사르 말람 말레이시아 가이드", "파사르 말람 tapau", "DuitNow QR 파사르 말람", "파사르 말람 할랄", "말레이시아 야시장 주문법", "파사르 말람 자리", "파사르 말람 식품 안전"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: '손글씨 가격표가 붙은 튀긴 간식과 두부가 가득한 유리 진열장이 있는, 밝게 밝힌 야시장 가판대에서 손님을 응대하는 상인'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: 야시장 노점의 검은 철판 위에서 지글지글 김을 내며 구워지는 윤기 나는 꼬치 간식들
+    kind: actual
+    origin: third-party
+    subject: 야시장에서 철판 위에 김을 내며 구워지는 사테 풍 꼬치 간식들
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 파사르 말람(pasar malam)에 처음 가면 어리둥절할 수 있습니다. 양옆의 가게 벽

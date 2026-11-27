@@ -37,7 +37,7 @@ faq:
     a: "两者皆是。它设计为客货两用线路：客运服务时速最高 160 公里，货运时速 80 公里。一个核心目标是充当陆桥，在巴生港与关丹等东海岸港口之间横贯半岛运送货物，为绕经新加坡与马六甲海峡的海运路线提供替代选择。"
 
 lang: "zh"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,31 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["东海岸铁路衔接线", "ECRL", "Laluan Rel Pantai Timur", "马来西亚铁路衔接", "中交建 马来西亚 铁路", "ECRL 造价 完工", "哥打峇鲁 巴生港 铁路", "东海岸经济特区 铁路"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: '一列蓝银色CR200J电动列车，车头有ECRL花朵标志，停在车厂轨道上，旁边是一列黄色KTM Komuter列车'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: 凿入青翠山坡的「Terowong 2 Serendah」双孔隧道口，上方挂着 MRL/ECRL 项目横幅，前景是新铺的道砟轨道正从隧道中延伸出来——这条铁路正穿越蒂迪旺沙山脉修建。纪实性的基建照（2025年）。
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: 双溪都亚（Sungai Tua）在建的 ECRL 高架桥——混凝土桥墩在开辟过的山坡上升起，工地围挡后方是已架设的箱梁跨——展现项目的高架线段，有别于隧道本体图和建成的列车主图。
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 数十年来，往返吉隆坡与东海岸各州最快的方式，意味着要翻山越岭走一段漫长的公路。东海岸铁路衔接线是马来西亚押下的一注：赌一条铁路能改变这一切——并在此过程中重新平衡这个国家的增长发生在何处。

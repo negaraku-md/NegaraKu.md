@@ -21,7 +21,7 @@ appliesTo: "மலாய்-இஸ்லாமிய நாகரிகத்த
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "சுல்தானகத்தின் துல்லியமான நிறுவுதல் ஆண்டு — ஆதாரங்கள் 1708 (ஜொகூர் மேலாதிக்கத்தாரால் பதவியேற்பு) மற்றும் 1724/1725 (முழு சுதந்திரம்) என்று பல்வேறு விதமாகக் கொடுக்கின்றன; துல்லியமான தேதி Haji Buyong Adil-இன் Sejarah Terengganu போன்ற ஓர் அறிவுத்துறை வரலாற்றுக்கு எதிராகச் சரிபார்க்கப்பட வேண்டும்."
 framework: history-culture
+hero: '/media/malaysia/terengganu-sultanate/hero.webp'
+heroAlt: 'சிவப்பு ஓட்டுக் கோபுரங்களும் வளைவுத் தாழ்வாரங்களும் கொண்ட கிரீம்-தங்க நிற காலனித்துவ பாணி அரண்மனை, அகன்ற புல்வெளிக்கு அப்பால் அடர்நீல வானத்தின் கீழ் சூரிய ஒளியில் குளித்து நிற்கிறது.'
+heroCredit: 'Abie Sudiono / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: ஒளிரும் வெள்ளை நிற பள்ளிவாசல், பெரிய தங்க நிற மைய கோபுரத்தையும் அதனை அடுத்த சிறிய கோபுரங்களையும் உயரமான ஒரு மினாரத்தையும் கொண்டு, பிரகாசமான வெப்பமண்டல வானத்தின் கீழ் சுவர் சூழ்ந்த முற்றத்தின் பின்னால் அமைந்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: தெரெங்கானு மாநிலத்தின் பழைய அரச பள்ளிவாசலான மஸ்ஜித் அபிடின், கோலா தெரெங்கானுவில்
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: அகலமான ஆற்றின் குறுக்கே நீண்ட நவீன தூக்குப் பாலம், இரு உயரமான கண்காணிப்புக் கோபுரங்களுக்கு இடையே வளைந்த வெள்ளை வளைவுகளில் தாங்கப்பட்டு, எதிர்க் கரையோரம் நகரின் வானெல்லையுடன் நீள்கிறது.
+    kind: actual
+    origin: third-party
+    subject: தெரெங்கானு ஆற்றின் மேல் ஜம்பாத்தான் அங்காட் (கோலா தெரெங்கானு தூக்குப் பாலம்)
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 அதன் அரியணையில் எந்தச் சுல்தானும் அமர்வதற்கு நெடுங்காலம் முன்பே, திரெங்கானு உள்பகுதியில் ஓர் ஆற்றங்கரையில் இருந்த ஒரு கிரானைட் கற்பலகை, மாநிலத்தின் தலைவிதியை ஏற்கெனவே கல்லில் எழுதியிருந்தது. Batu Bersurat Terengganu — திரெங்கானு கல்வெட்டுக் கல் — 1303 ஆண்டாக வாசிக்கப்படும் ஒரு தேதியைச் சுமக்கிறது, மேலும் அதன் தேய்ந்த முகங்களில், [Jawi எழுத்தின்](/ta/arts-culture/jawi-script) அரபியிலிருந்து பெறப்பட்ட வளைந்த எழுத்துக்களில், ஒரு ஆட்சியாளர் தனது மக்களை இஸ்லாத்தைப் பற்றிப் பிடிக்குமாறு கட்டளையிடுகிறார். மலாய் உலகில் எங்கும் Jawi எழுத்தின் மற்றும் இஸ்லாமியச் சட்டத்தின் மிகப் பழமையான தேதியிடப்பட்ட சான்று இது. நிலத்தின் பெயரை இறுதியில் தாங்கிய சுல்தானகம் நான்கு நூற்றாண்டுகளுக்கும் மேலாகக் கழித்து வந்தது — ஆனால் அது பாதுகாக்கப்போகும் நம்பிக்கை இங்கே முதலில் செதுக்கப்பட்டிருந்தது.

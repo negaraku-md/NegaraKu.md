@@ -29,7 +29,7 @@ faq:
     a: "Có. Sunway Healthcare Holdings được niêm yết trên Thị trường Chính của Bursa Malaysia với mã SUNMED vào ngày 18 tháng 3 năm 2026. Trước đó vào tháng 6 năm 2021, GIC của Singapore đã đồng ý đầu tư RM750 triệu để lấy cổ phần 16% trong mảng chăm sóc sức khỏe."
 
 lang: "vi"
-sourceContentHash: "e38afbaf6571487e"
+sourceContentHash: "5f72a33c908f830c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,37 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'Đầu sư tử bằng đá khổng lồ mang tính biểu tượng và mái hình kim tự tháp của trung tâm thương mại Sunway Pyramid, với những tòa cao ốc đề chữ SUNWAY vươn lên phía sau dưới bầu trời nhiều mây'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Cận cảnh mặt tiền theo chủ đề Ai Cập của Sunway Pyramid với một mái hình kim tự tháp lớn và một con sư tử nhân sư ngồi bên cạnh biển lối vào 'Shopping Mall / Theme Park'
+    kind: actual
+    origin: third-party
+    subject: Mặt tiền của trung tâm mua sắm Sunway Pyramid cho thấy kim tự tháp và nhân sư đầu sư tử, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Cảnh nhìn từ trên không của khu đô thị Bandar Sunway cho thấy trung tâm mua sắm Sunway Pyramid, khách sạn nghỉ dưỡng, đầm nước và các cụm tháp cao tầng dân cư ở Thung lũng Klang
+    kind: actual
+    origin: third-party
+    subject: Cảnh nhìn từ trên không của khu đô thị tích hợp Bandar Sunway của Sunway Group với trung tâm mua sắm kim tự tháp, khu nghỉ dưỡng, đầm nước và các tháp dân cư, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Tập đoàn Sunway biến đất thành cả những khu đô thị hoàn chỉnh — nhà ở, trung tâm mua sắm, bệnh viện, trường đại học và công viên giải trí trên một quy hoạch tổng thể — rồi tiếp tục vận hành những gì mình xây dựng.

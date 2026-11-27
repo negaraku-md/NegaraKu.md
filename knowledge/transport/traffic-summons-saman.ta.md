@@ -31,7 +31,7 @@ faq:
     a: "JPJ-இன் படி, வழங்கப்பட்ட தேதியிலிருந்து 60 நாட்களுக்குள் தீர்க்கப்படாத AwAS அறிவிப்பு நீதிமன்ற நடவடிக்கைக்கு வழிவகுக்கலாம்; குற்றம் நிரூபிக்கப்பட்டால் RM300 முதல் RM2,000 வரை அபராதம் விதிக்கப்படும்."
 
 lang: "ta"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'ஒரு பரபரப்பான கோலாலம்பூர் நகர சந்திப்பில் ஒரு மலேசிய போக்குவரத்து காவலர் தனது வெள்ளை POLIS ரோந்து மோட்டார் சைக்கிளுக்கு அருகில் நின்று எழுதுகிறார்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: சீருடை அணிந்த காவல் அதிகாரிகள் சாலையில் ஒரு தடுப்பில் நின்று, சோதனைச் சாவடியில் வாகனங்கள் மெதுவாக நின்றதும் அவற்றைச் சோதிக்கின்றனர்
+    kind: actual
+    origin: third-party
+    subject: அதிகாரிகள் வாகனங்களை நிறுத்தி சோதனை செய்யும் மலேசிய காவல்துறை சாலை தடுப்பு
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: ஒளிபிரதிபலிப்பு மேலங்கியும் தலைக்கவசமும் அணிந்த ஒரு மலேசிய போக்குவரத்து காவல் அதிகாரி நகரத் தெருவில் நின்று கடந்து செல்லும் வாகனங்களை நெறிப்படுத்துகிறார்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் ஒரு தெருவில் போக்குவரத்தைக் கட்டுப்படுத்தும் பணியிலுள்ள ஒரு போக்குவரத்து காவல் அதிகாரி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 ஒரு வாகன ஓட்டுநர் காகிதத்தில் ஒரே மாதிரி தோற்றமளிக்கும் நான்கு வகையான சம்மன்களைப் பெறலாம் — ஆனால் அவை நான்கு வெவ்வேறு தரப்புகளிடமிருந்து வருகின்றன, ஒவ்வொன்றும் வெவ்வேறு இடத்தில் சரிபார்க்கப்பட வேண்டும். பலருக்கு ஒரே ஒரு தளம் மட்டுமே தெரியும்; அவர்களது சம்மன் உண்மையில் வேறு அமைப்பில் இருக்கும்போது, அது “மறைந்துவிட்டது” என்று அவர்கள் நினைத்துக் கொள்கிறார்கள்.

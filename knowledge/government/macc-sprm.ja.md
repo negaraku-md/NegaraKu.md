@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: '緑の木々の遮蔽の上にそびえる長い赤レンガの政府庁舎。上部のファサードにアーチ窓の列の上に金色のSPRM(MACC)の文字と紋章、小さなマレーシア国旗を吊るす'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: 濃い横縞模様のガラスで覆われた船首のような形の壮大なタワーが、白く高い柱に支えられてそびえる。プトラジャヤの晴れた青空にちぎれ雲が浮かび、ロイヤルパームが周囲を縁取る
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤにあるマレーシア汚職防止委員会（MACC）本部の、湾曲した濃いガラス張りのタワー（2022年）
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 MACCについての説明の多くは、「マレーシアの汚職防止機関」という表現で止まってしまう。より有用な問いはもっと絞り込まれている——同法は実際にその職員に何を認めているのか、そして誰が法律上、その活動を監督する権利を有しているのか、という点である。

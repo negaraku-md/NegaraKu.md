@@ -36,7 +36,7 @@ socialTitle: "マレー人最古の口承詩——パントゥンとそのUNESCO
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "パントゥンという詩作の起源の正確な年代は確定できない；学者の最も有力な見解は、Sejarah Melayu（約1612年）以前の15世紀ごろと結びつけている。この数字はなお議論されており、確定した年代ではない。"
   - "長い連のパントゥンの最大の長さの上限は資料によって異なる（16行までとする資料もあれば、約22行までとする資料もある）；確定した数は一様でない。"
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: '緑と金の伝統衣装をまとい華やかな頭飾りをつけたマレーの演者たちが地面に座り、ディキル・バラ（dikir barat）の公演で揃った手振りを見せる。前には手太鼓が置かれている。'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: 精緻に彫られた神話的人物の革影絵人形が、ケランタン・パタニ様式のワヤン・クリ上演の折、光る幕に鋭い影を落とす
+    kind: actual
+    origin: third-party
+    subject: ケランタン・パタニ様式のワヤン・クリ（影絵芝居）
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: 青銅の銅鑼、釜型の銅鑼、木製の鍵盤打楽器からなる、精緻に彫刻されたマレーのガムラン合奏が、クアラルンプールの音楽博物館に展示されている
+    kind: actual
+    origin: third-party
+    subject: マレーのガムラン合奏、クアラルンプールの音楽博物館
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

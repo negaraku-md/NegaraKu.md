@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menyewa, membeli atau pindah ke sebuah rumah di Malaysia yang perlu menyambungkan jalur lebar tetap."
 
 lang: "id"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'Seorang teknisi Telekom Malaysia sedang bekerja pada titik distribusi kabel telekomunikasi di tepi jalan di Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: Sebuah gedung kantor Telekom Malaysia, operator telepon kabel dan fiber optik nasional, di Putrajaya
+    kind: representative
+    origin: third-party
+    subject: Gedung kantor Telekom Malaysia (TM) di Putrajaya
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: Sebuah modem fiber optik Unifi bermerek FiberHome terpasang di dinding di dalam sebuah rumah
+    kind: representative
+    origin: third-party
+    subject: Modem broadband fiber optik Unifi (ONT FiberHome) yang terpasang di sebuah rumah di Malaysia
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 Sebelum Anda membandingkan harga walau satu ringgit pun, ada satu pertanyaan yang lebih penting: apakah fiber itu sampai ke pintu depan rumah Anda? Tanda tangani kontrak dua tahun sebelum memeriksa hal itu, dan Anda mungkin baru mengetahui pada hari pemasangan bahwa teknisi sebenarnya tidak dapat menarik saluran masuk ke unit Anda.

@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -126,9 +126,35 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["ministry-of-health-moh", "klinik-kesihatan", "peka-b40-and-health-schemes", "health-white-paper-and-system-reform"]
 keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "MOH", "KKM", "klinik kesihatan", "government hospital Malaysia", "RM1 clinic fee", "public hospital fees Malaysia", "PeKa B40", "universal healthcare Malaysia", "healthcare in Malaysia", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: '亚庇（Kota Kinabalu）Queen Elizabeth Hospital 外观，这是公共医疗体系中一所大型马来西亚政府医院。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: 马来西亚一所公立医院——峇株巴辖Hospital Sultanah Nora Ismail的一间空置住院病房，排列着一张张病床
+    kind: actual
+    origin: third-party
+    subject: 峇株巴辖Hospital Sultanah Nora Ismail的一间公立医院病房
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: Hospital Kemaman的外观，一所由马来西亚卫生部运营的公立医院
+    kind: actual
+    origin: third-party
+    subject: Hospital Kemaman，一座马来西亚公立医院建筑
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 走进马来西亚的政府诊所，柜台上的账单几乎为零——普通门诊挂号 **RM1**。这不是慈善——而是制度设计。马来西亚实行**双轨制医疗体系**：由**卫生部（MOH，*Kementerian Kesihatan Malaysia*，KKM）**管理与筹资的政府公共服务，与规模庞大的私营领域并存。公共一侧**完全依靠一般税收筹资，没有强制性的国家保险缴费**，因此医疗服务以高额补贴的象征性费用提供，而非收取保费。这一模式以占国民收入一小部分的投入带来了近乎全民的就医机会——但如今它也承载着日益加重的家庭费用负担和实实在在的供给压力。本指南以浅白的方式说明你如何使用这一体系、费用几何、覆盖何人，以及它在何处承压。

@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "hi"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["सेलांगोर मलेशिया", "Selangor Malaysia", "शाह आलम", "पोर्ट क्लांग", "Port Klang", "साइबरजया", "Cyberjaya", "क्लांग घाटी अर्थव्यवस्था"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'शाह आलम में गहरे नीले गोधूलि आकाश के सामने चमकती चार ऊँची मीनारों वाली प्रकाशित नीले गुंबद वाली सुल्तान सलाहुद्दीन अब्दुल अज़ीज़ मस्जिद।'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: सेलांगोर में कुआला सेलांगोर की ओर देखते हुए बुकिट मेलावाती के ऐतिहासिक पहाड़ी किले के शिखर पर लाइटहाउस खड़ा है।
+    kind: actual
+    origin: third-party
+    subject: बुकिट मेलावाती पर कुआला सेलांगोर लाइटहाउस, सेलांगोर
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: सेलांगोर के शाह आलम में आई-सिटी थीम पार्क में पेड़ और पैदलपथ रंगीन एलईडी रोशनी से जगमगाते हैं।
+    kind: actual
+    origin: third-party
+    subject: आई-सिटी प्रकाश उद्यान, शाह आलम, सेलांगोर
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 सेलांगोर वह राज्य है जिस पर मलेशिया की अर्थव्यवस्था चुपचाप चलती है। यह संघीय राजधानी कुआलालंपुर और प्रशासनिक राजधानी पुत्रजया को पूरी तरह घेरे हुए है, और ये मिलकर क्लांग घाटी बनाते हैं — देश का सबसे बड़ा शहरी और औद्योगिक महानगरीय समूह।

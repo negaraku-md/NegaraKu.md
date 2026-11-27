@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -73,6 +73,34 @@ festivalFacts:
   when: "太陰暦のヒンドゥー(タミル)暦によって定められ、通常は10月または11月。官報で公示される日付は毎年変動し、変更の可能性があるものとして扱われる。"
   holiday: "官報に公示される連邦の公休日で、独自の公休日制度を保つサラワク(Sarawak)を除くすべての州および連邦直轄領で祝われる。"
   etiquette: "来客は開放門戸(オープンハウス)に歓迎される。控えめな服装をし、家や寺院に入る前には靴を脱ぎ、菓子の小さな贈り物が慣例的な心遣いとされる。"
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'マレーシアのディーパバリのために、色粉で作られた色鮮やかな孔雀のコーラム。白い縁取りで囲まれ、火を灯した小さな素焼きの油灯に取り巻かれている'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: クアラルンプールのKLセントラル駅で、旅行者でにぎわうコンコースの上に吊るされた鮮やかな黄色のディーパバリ装飾ランタンの列
+    kind: actual
+    origin: third-party
+    subject: KLセントラル駅に吊るされたディーパバリのランタンと祝祭の人出
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: ディーパバリのためにKLセントラルの磨かれた床一面に色粉で描かれた、鮮やかな色彩の巨大な孔雀のコーラム
+    kind: actual
+    origin: third-party
+    subject: ディーパバリのためにKLセントラルに描かれた孔雀をモチーフにした大きな床のコーラム
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 その一夜、語るのは灯りである。小さな素焼きの灯明が戸口や窓辺に一列に並べられ、戸口の敷居には彩色した米や粉で描いた床模様が置かれ、一時間前まで暗闇だった家が炎の輪郭に浮かび上がる。これこそがこの祭りの名の由来である——*ディーパバリ（Deepavali）*は、サンスクリット語で「一列、あるいは連なる灯り」を意味する言葉に由来する。

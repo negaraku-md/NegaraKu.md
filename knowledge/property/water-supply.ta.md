@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -62,6 +62,32 @@ relations:
 related: ["federal-state-division", "moving-to-malaysia-first-steps"]
 keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka akaun air", "syarikat air negeri", "bil air Malaysia", "SPAN", "sambungan air baharu"]
 framework: explainer
+hero: '/media/property/water-supply/hero.webp'
+heroAlt: 'சபாவில் உள்ள பபாகோன் அணை நீர்த்தேக்கம், சுத்திகரிக்கப்பட்ட குடிநீர் வழங்கலுக்கான கச்சா நீர் ஆதாரம், நீர்க்கரையில் ஒரு தகவல் அடையாளப் பலகையுடன்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: லங்காவியில் Sungai Padang Matsirat ஆற்றைக் குறுக்காகக் கடக்கும் ஒரு சிறிய கான்கிரீட் தடுப்பணையும் கதவு பொருத்திய நீர் கட்டுப்பாட்டு அமைப்பும்; மலேசியாவின் நீர் வழங்கல் உள்கட்டமைப்பின் ஒரு பகுதி
+    kind: representative
+    origin: third-party
+    subject: லங்காவி, Sungai Padang Matsirat இல் ஒரு ஆற்றுத் தடுப்பணையும் நீர் கட்டுப்பாட்டு அமைப்பும்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: ஜொகூர், Taman Setia Tropika எனப் பெயரிடப்பட்ட ஒரு பெரிய வெள்ளை உயரமான நீர்த் தேக்கத் தொட்டி; உள்ளூர் வழங்கலுக்காக சுத்திகரிக்கப்பட்ட நீரைச் சேமித்து வைக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஜொகூர், Taman Setia Tropika இல் ஒரு உயரமான நீர்த் தேக்கத் தொட்டி
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 நீங்கள் Selangor-இலிருந்து Johor-க்கு மாறுகிறீர்கள். வங்கிக் கணக்கு அப்படியே இருக்கிறது. உங்கள் தொலைபேசி இணைப்பை உங்களுடன் கொண்டு வர முடியும். ஆனால் உங்கள் நீர் கணக்கு? அது உங்களைப் பின்தொடராது — ஏனெனில் உங்கள் புதிய வீட்டிற்கு நீர் வழங்கும் நிறுவனம் முற்றிலும் வேறு ஒரு நிறுவனமே.

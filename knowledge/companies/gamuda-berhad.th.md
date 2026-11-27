@@ -32,7 +32,7 @@ faq:
     a: "ตลาดต่างประเทศหลักของบริษัทคือออสเตรเลียและไต้หวันสำหรับการก่อสร้าง และเวียดนาม สหราชอาณาจักร สิงคโปร์ และออสเตรเลียสำหรับอสังหาริมทรัพย์"
 
 lang: "th"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
 framework: profile
+hero: '/media/companies/gamuda-berhad/hero.webp'
+heroAlt: 'ป้ายทางเข้าประติมากรรมขนาดใหญ่สะกดคำว่า GAMUDA ด้วยตัวอักษรสีขาวสูงตัดกับไม้ระแนงเฉียง ข้างถนนทางเข้าโค้งสู่เมือง Gamuda Gardens'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: ป้ายอนุสรณ์ทางเข้าข้อความ GAMUDA GARDENS ด้วยตัวอักษรสีขาวขนาดใหญ่พร้อมโลโก้หยดน้ำสีเขียว ตั้งอยู่ตัดกับเสาไม้ประติมากรรมและพรรณไม้
+    kind: actual
+    origin: third-party
+    subject: ตราคำ GAMUDA GARDENS และโลโก้หยดน้ำบนป้ายอนุสรณ์ทางเข้าเมือง ราวัง รัฐสลังงอร์
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: รางรถไฟฟ้าขนส่งมวลชนยกระดับนำเข้าสู่สถานี MRT Kwasa Damansara มีตอม่อคอนกรีตสีเทาและชานชาลามีหลังคาใต้ท้องฟ้าสว่างที่มีเมฆ
+    kind: representative
+    origin: third-party
+    subject: สถานี MRT Kwasa Damansara สถานียกระดับบนสายรถไฟฟ้า MRT หุบเขากลัง ซึ่งงานก่อสร้างใต้ดินดำเนินการโดย MMC-Gamuda (บริษัทร่วมทุนด้านวิศวกรรมรถไฟของ Gamuda Berhad)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda เริ่มต้นด้วยทางด่วนในมาเลเซียและเติบโตเป็นหนึ่งในผู้รับเหมาขุดอุโมงค์และรถไฟที่ใหญ่ที่สุดในภูมิภาค ทุกวันนี้ สัดส่วนงานที่เพิ่มขึ้นอยู่นอกมาเลเซีย

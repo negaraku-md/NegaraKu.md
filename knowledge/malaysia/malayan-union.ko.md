@@ -20,7 +20,7 @@ keyTakeaways:
   - "1948년 연방은 통치자 회의(Majlis Raja-Raja), 연방입법평의회(Majlis Perundangan Persekutuan), 집행평의회(Majlis Mesyuarat Kerja)를 두었으나, 집행 권한은 여전히 영국 고등판무관에게 있었습니다"
 appliesTo: "말레이시아 헌법의 기원 — 특히 말레이 통치자들의 지위와 시민권 요건이 므르데카 이전에 어떻게 처음으로 문서화되어 정립되었는지 — 을 이해하고자 하는 학생, 연구자 및 일반 독자."
 lang: "ko"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,7 +36,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "말라야 연합 — 현재와 미래 세대를 위한 교훈 (Malayan Union — Teladan buat generasi kini, akan datang)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "말라야 연합 시민권: 말라야의 헌법적 변화와 논쟁, 1942–48 (Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48)"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "통치자들을 다스리다 (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "말레이시아 변호사회 (Malaysian Bar)"
+  - title: "말라야 연합과 그 영향 (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "말레이시아 변호사회 (Malaysian Bar)"
+  - title: "'기억의 풍경': 1946년 말라야 연합을 기억하다 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -82,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: '웅장한 식민지 시대 저택, 크림색 벽과 붉은 기와지붕이 잘 손질된 잔디밭과 열대 녹음 사이에 자리하고 있다.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1년 10개월 동안, 말라야는 오늘날 그 이름 말고는 거의 아무도 알지 못하는 한 헌법 아래에서 통치되었습니다. 말라야 연합은 1946년 4월 1일에 시작되어 1948년 1월 31일에 끝났습니다. 건물도, 화폐도, 자신만의 행정가 세대도 남길 겨를이 없을 만큼 짧았습니다.
@@ -125,6 +141,8 @@ framework: history-culture
 지식인층은 이 문제를 《우투산 믈라유(Utusan Melayu)》와 《마즐리스(Majlis)》 같은 말레이어 신문 지면으로 가져갔습니다. 제1차 말레이 회의는 1946년 3월 1일부터 4일까지 술탄 술라이만 클럽(Kelab Sultan Sulaiman)에서 41개 말레이 단체가 참석한 가운데 열렸습니다. 그 과정에서 통일말레이국민조직(Pertubuhan Kebangsaan Melayu Bersatu, UMNO)이 1946년 5월 11일 조호르바루의 이스타나 브사르(Istana Besar)에서 다토 온 자아파르(Dato' Onn Jaafar)의 지도 아래 창설되었습니다.
 
 통치자 회의 공식 포털은 말레이 통치자들 또한 주민과 함께 그 틀의 시행에 반대하여 일어섰다고 기록합니다. 한편 말레이시아 국회는 말라야 연합이 다토 온 자아파르가 이끈 말레이인들에 의해 격렬하게 반대되었다고 기록합니다.
+
+가장 기억에 남는 저항 행위 가운데 하나는 바로 그 시행일에 일어났습니다. 1946년 4월 1일 쿠알라룸푸르의 의사당(Dewan Majlis, Council Chamber)에서 말라야 연합이 출범하고 Sir Edward Gent가 초대 총독으로 취임했을 때, 말레이 통치자들은 그 취임식에 참석하지 않았습니다 — 그 틀에 대한 그들의 반대가 아직 결정되지 않은 가운데, Onn Jaafar가 이끄는 UMNO의 권고에 따라 취해진 거부였습니다. 사람들 또한 통치자들이 머무는 곳에 모여 지지를 표했습니다. 취임식과 자문회의 참석을 거부한 이 행동은 말라야 연합에 반대하는 운동을 특징지은 시민 불복종의 한 형태가 되었습니다.
 
 또한 주목할 점은, 1948년 후속 틀의 더 엄격한 국적 요건이 이번에는 다른 쪽 — 1946년 제안에 비해 자신들의 자격이 좁아졌다고 여긴 비(非)말레이인들을 포함하여 — 의 반대의 근거가 되었다는 것입니다.
 

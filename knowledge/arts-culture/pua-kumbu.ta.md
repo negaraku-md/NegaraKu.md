@@ -34,7 +34,7 @@ faq:
     a: "இது பிறப்பு முதல் இறப்பு வரையிலான வாழ்க்கைச் சடங்குகளிலும், புனித சடங்குகள் மற்றும் நோய் நீக்கும் சடங்குகளிலும் பயன்படுத்தப்படுகிறது; மரபுவழியாக இபான் போர்வீரர் மரபுடன் பிணைக்கப்பட்டுள்ளது. அதன் வடிவங்கள் பெண்களின் சரோங், ஆண்களின் இடையாடை மற்றும் மந்திரவாதியின் அங்கி ஆகியவற்றிலும் நெய்யப்படுகின்றன."
 
 lang: "ta"
-sourceContentHash: "aa5affdf465c350b"
+sourceContentHash: "1157e33b42bf9f0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ relations:
 related: ["batik", "gawai-dayak", "sarawak"]
 keywords: ["pua kumbu", "tenunan Iban", "ikat lungsi", "kebat", "engkudu", "ngar", "kain upacara Sarawak", "Bangie Embol"]
 framework: history-culture
+hero: '/media/arts-culture/pua-kumbu/hero.webp'
+heroAlt: 'Sarawak நீள்வீட்டுக்குள், நெய்த பாய்களும் செதுக்கிய Iban சேமிப்புப் பெட்டியும் அருகே இருக்க, மரத் தறியில் இழுத்துக் கட்டப்பட்ட, தங்க உருவங்களால் அலங்கரிக்கப்பட்ட நீண்ட சிவப்பு pua kumbu துணிப் பட்டை'
+heroCredit: 'BarbicanMan / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pua_Kumbu,_the_Dayak_Iban%27s_craftwork_of_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red and gold pua kumbu being woven on a backstrap loom inside an Iban longhouse in Sarawak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pua-kumbu/body-1.webp
+    alt: நீண்ட கூந்தல் கொண்ட ஒரு இபான் நெசவாளரின் இயல்பளவு உருவம், முதுகுப்பட்டை தறியில் சாய்ந்து, துருப்பிடித்த சிவப்பு-கிரீம் நிற இக்கட் புவா கும்பு நெய்கிறார்; அதன் பாவு நூல்கள் பார்வையாளரை நோக்கி விரிகின்றன
+    kind: actual
+    origin: third-party
+    subject: சரவாக், கூச்சிங் ஜவுளி அருங்காட்சியகத்தில், முதுகுப்பட்டை தறியில் துருப்பு நிற புவா கும்பு நெய்யும் ஒரு இபான் பெண்ணின் அருங்காட்சியக காட்சி
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Iban_weaving_techniques_(29046933783).jpg
 ---
 
 நெசவாளர் “ஆசி” இல்லாமல் உருவாக்கத் துணியாத ஒரு துணி — அதன் வடிவங்கள் கனவுகளில் வருவதாகச் சொல்லப்படுகிறது; ஒரு காலத்தில் அது தன்னை உருவாக்கிய மக்களின் போர்வீரர் மரபுடன் இறுக்கமாகப் பிணைக்கப்பட்டிருந்தது. அதுதான் pua kumbu.

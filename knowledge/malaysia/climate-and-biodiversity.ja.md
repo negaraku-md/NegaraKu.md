@@ -60,8 +60,34 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 framework: explainer
+hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
+heroAlt: '青々とした緑の熱帯雨林の林冠が起伏する丘を一面に覆い、遠くは霞んだ青い尾根へと溶け込み、どんよりと曇った淡い空が広がっている。'
+heroCredit: 'Danielt. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: 錆びたオレンジ色のボルネオオランウータンの幼獣が、木々の間に張られたロープに片腕でぶら下がり、もう一方の手でロープを握っている。背景には深い緑の熱帯雨林の葉が広がる。
+    kind: actual
+    origin: third-party
+    subject: ボルネオオランウータン（Pongo pygmaeus）の幼獣、ボルネオの熱帯雨林にのみ生息する大型類人猿
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: 完全に開いたラフレシアの花が落ち葉の散らばる林床に咲いている。厚みのある5枚の赤褐色の裂片は淡いいぼ状の斑点に覆われ、中央の深く開いた杯状部を囲んでいる。
+    kind: actual
+    origin: third-party
+    subject: サバ州の林床で満開になったラフレシア、世界最大級の花の一つで、ボルネオの熱帯雨林に寄生する植物
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # マレーシアが世界のメガダイバーシティ国の一つである理由

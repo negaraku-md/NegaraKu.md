@@ -35,7 +35,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["เงินมัดจำวิทยาลัย มาเลเซีย", "ตรวจสอบการรับรอง MQA", "MQR mqr.gov.my", "หลักสูตรของฉันได้รับการรับรองหรือไม่", "นโยบายคืนเงินวิทยาลัย มาเลเซีย", "ผู้ให้วุฒิ twinning 3+0", "มหาวิทยาลัยเอกชน มาเลเซีย IPTS", "Act 555", "ก่อนจ่ายค่าเล่าเรียนวิทยาลัย"]
 framework: how-to
+stayFacts:
+  who: 'สำหรับนักศึกษาและผู้ปกครองที่มีข้อเสนอรับเข้าจากวิทยาลัยแล้วและกำลังจะจ่ายเงินมัดจำหรือค่าลงทะเบียน — มักเป็นเงินก้อนแรกที่จ่ายผูกพัน และบ่อยครั้งเป็นเงินที่ขอคืนไม่ได้'
+  how: 'ก่อนจ่าย ให้ตรวจยืนยันห้าเรื่องเป็นลายลักษณ์อักษร: หลักสูตรที่แน่นอนอยู่ในทะเบียน MQR; สถาบันเป็นผู้ให้บริการที่ขึ้นทะเบียน (IPTS ภายใต้ Private Higher Educational Institutions Act 1996 (Act 555) หรือมหาวิทยาลัยของรัฐหรือวิทยาเขตสาขาที่ได้รับการยอมรับ); สำหรับหลักสูตร twinning หรือ 3+0 ใครเป็นผู้มอบใบรับรองขั้นสุดท้าย; ตารางค่าธรรมเนียมที่เป็นลายลักษณ์อักษรฉบับเต็มสำหรับทั้งหลักสูตร; และข้อกำหนดเรื่องการคืนเงินและการถอนตัว'
+  cost: 'เงินมัดจำเป็นเพียงส่วนเสี้ยวหนึ่ง — ขอตารางค่าธรรมเนียมที่เป็นลายลักษณ์อักษรฉบับสมบูรณ์สำหรับทั้งหลักสูตร (ค่าลงทะเบียน ค่าเล่าเรียนรายภาค ค่าทรัพยากร ค่าสอบ ค่าประกัน และค่าธรรมเนียมนักศึกษาต่างชาติ) ไม่ใช่เพียงปีแรก และยืนยันว่าเงินมัดจำถูกนำไปหักกับค่าใด'
+  watch: 'เงินมัดจำมักขอคืนไม่ได้ และไม่มีสิทธิตามกฎหมายระดับชาติให้ยกเลิกภายในระยะเวลาผ่อนผัน — สิ่งที่คุณจะได้คืนขึ้นอยู่กับนโยบายที่เป็นลายลักษณ์อักษรของสถาบันเอง และ ''การรับประกันโอนไปปี 3'' เป็นการตัดสินใจของมหาวิทยาลัยคู่สัญญา ไม่ใช่ของวิทยาลัยท้องถิ่น ให้ขอเป็นลายลักษณ์อักษร'
+  next: 'สอบถามทุกข้อกับสถาบันเป็นลายลักษณ์อักษรและเก็บคำตอบไว้ก่อนที่เงินจะออกจากบัญชีของคุณ; ตรวจสอบหลักสูตรที่แน่นอนในทะเบียน MQR ก่อน ดูบทอธิบายการรับรองของ MQA'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'ตึกสูงของวิทยาเขตริมทะเลสาบมหาวิทยาลัยเทย์เลอร์ส (Taylor''s University) สะท้อนอยู่ในทะเลสาบยามพลบค่ำ โดยมีป้าย "TAYLOR''S UNI" สีแดงบนอาคารหลัก'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: ผนังกระจกด้านหน้าของวิทยาเขตมาเลเซีย RCSI และ UCD ซึ่งเป็นมหาวิทยาลัยเอกชนประเภทที่เรียกเก็บเงินมัดจำการลงทะเบียนจากนักศึกษาใหม่
+    kind: actual
+    origin: third-party
+    subject: วิทยาเขตมาเลเซีย RCSI และ UCD (RUMC) รัฐปีนัง
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: อาคารเรียนทันสมัยในวิทยาเขตมหาวิทยาลัยซันเวย์ สถาบันเอกชนที่ผู้สมัครชั่งน้ำหนักค่าเล่าเรียนและเงินมัดจำก่อนตัดสินใจเข้าเรียน
+    kind: actual
+    origin: third-party
+    subject: อาคารวิทยาเขตมหาวิทยาลัยซันเวย์ บันดาร์ซันเวย์
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 เงินมัดจำมักเป็นเงินก้อนแรกที่ครอบครัวมอบให้วิทยาลัย และเมื่อจ่ายไปแล้ว ก็มักเป็น

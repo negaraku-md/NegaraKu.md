@@ -85,6 +85,34 @@ festivalFacts:
   when: "对应农历二十四节气中的「清明」，公历日期相当固定，通常在四月四日或五日前后；本地家庭多把祭扫分散在节期前后约十天内进行。"
   holiday: "清明节不是马来西亚的公共假期，当天多数商号照常运作。"
   etiquette: "由于焚烧金银纸、纸扎涉及明火与烟雾，部分墓园与纪念园会划定焚烧区或作出规范，近年也有人改用较环保的方式。"
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: '马六甲三宝山（Bukit Cina）草木葱茏的山顶上，一座灰色大石华人坟墓带着欧米伽形的弧形墓围和红瓦祭台，旁边另有一座圆顶的土地公祠，一位路人在林间走过'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: 一张墓前供桌摆着整只白斩鸡、鱼、烧肉、插着筷子的白饭、茶杯和茶壶，一束束红香直插在葫芦里、在石碑前燃烧
+    kind: representative
+    origin: third-party
+    subject: 清明扫墓时，墓前摆开的供品与燃烧的香
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: 一尊镀金石狮蹲踞在刻有金色汉字的花岗岩墓柱顶端，背后是长草的坟丘和一棵枝叶舒展的大树，天色阴沉，摄于马六甲三宝山华人义山
+    kind: actual
+    origin: third-party
+    subject: 马来西亚马六甲华人义山（三宝山）一根镀金石狮墓柱，刻着华人姓氏
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 四月初的一个清晨，义山的小路上开始出现一家家的人。有人提着水桶和镰刀，有人拎着装满饭菜、水果和纸钱的篮子。找到自家的墓，年轻的先动手除草、扫落叶，年长的指点着把墓碑上褪色的字一笔一笔重新描过；等墓地清理干净，才摆上供品、点香、叩拜，最后在一旁的空地焚烧金银纸。烟火之间，一年一度的清明就这样过去了。

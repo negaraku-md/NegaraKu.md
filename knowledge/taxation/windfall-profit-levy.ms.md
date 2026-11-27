@@ -83,7 +83,7 @@ relations:
   - { rel: "governs", to: "crude-palm-oil" }
   - { rel: "related-to", to: "cpo-export-duty" }
   - { rel: "affects", to: "oil-palm-plantations" }
-related: []
+related: ["palm-oil-industry", "royal-malaysian-customs-rmcd", "carbon-tax-malaysia"]
 keywords: ["windfall profit levy", "cukai durian runtuh", "palm oil tax Malaysia", "CPO levy", "Windfall Profit Levy Act 1998", "oil palm fruit order"]
 framework: rules
 ---

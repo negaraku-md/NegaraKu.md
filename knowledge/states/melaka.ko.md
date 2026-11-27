@@ -37,7 +37,7 @@ verificationNeeded:
   - "믈라카 부분의 핵심 구역 및 완충 구역 면적(연속 자산 전체 대비)을 지명 문서 1223bis에 대조하여 확인."
 
 lang: "ko"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
 framework: profile
+hero: '/media/states/melaka/hero.webp'
+heroAlt: '조경된 꽃 로터리를 감싸는, 멜라카 더치 스퀘어의 짙은 붉은 네덜란드 시대 스타다위스 건물과 붉은 벽돌 시계탑'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: Melaka Art Gallery 옆에 있는 붉은색 Christ Church Melaka로, 광장에는 색색의 꽃으로 장식된 삼륜차들이 한 줄로 주차되어 있다
+    kind: actual
+    origin: third-party
+    subject: 붉게 칠해진 Christ Church Melaka와 Melaka Art Gallery, 그리고 앞에 주차된 화려하게 꽃으로 장식된 삼륜차들
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: 푸른 하늘 아래 잔디 위 골동품 대포들과 함께 있는, 믈라카의 풍화된 라테라이트 석조 A Famosa 요새 잔해
+    kind: actual
+    origin: third-party
+    subject: 앞에 옛 대포들이 놓인, 믈라카에 남아 있는 포르투갈 A Famosa(Porta de Santiago) 요새 성문의 석벽
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 말레이시아의 아홉 개 주(州)에는 통치자가 있습니다. 믈라카(Melaka)는 그중 하나가 아닙니다 — 그 이름이 이 지역 역사에서 가장 유명한 말레이 술탄국에 붙어 있음에도 말입니다.

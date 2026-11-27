@@ -30,7 +30,7 @@ faq:
     a: "APM은 민방위법(Akta Pertahanan Awam 1951, Akta 221)에 따라 운영되며, 이 법은 평시와 전시에 인명과 재산을 보호하는 임무를 규정합니다."
 
 lang: "ko"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: '말레이시아 콴탄에서 열린 퍼레이드 중 APM 엠블럼이 새겨진 말레이시아 민방위대(Angkatan Pertahanan Awam Malaysia) 구조 트럭에 제복을 입은 대원이 타고 있다.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: 바간랄랑 해변에 선 민방위대(Angkatan Pertahanan Awam)의 해변 구조 감시탑
+    kind: actual
+    origin: third-party
+    subject: 바간랄랑의 민방위대(APM) 해변 구조 감시탑
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: 바간랄랑에서 트인 해변을 내려다보는 민방위대의 해안 인명구조 겸 구조탑
+    kind: actual
+    origin: third-party
+    subject: 바간랄랑의 해변을 내려다보는 민방위대 해안 인명구조탑
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 대규모 홍수가 덮치거나 건물이 붕괴할 때, 보트와 밧줄, 구조 장비를 들고 가장 먼저 도착하는 부대 가운데 하나는 흔히 주황색 제복을 입은 APM입니다. 말레이시아 민방위대(APM)는 재난 발생 전·중·후에 항상 함께하는 국가 인도적 지원의 중추입니다.

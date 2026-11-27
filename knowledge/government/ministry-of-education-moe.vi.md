@@ -28,7 +28,7 @@ faq:
   - q: "Ngân sách của Bộ Giáo dục lớn đến đâu?"
     a: "Theo Ngân sách 2026, KPM nhận được RM66.2 tỷ — khoản phân bổ lớn nhất của bất kỳ bộ liên bang nào — tăng từ RM64.2 tỷ năm 2025. Khoản phân bổ bao gồm gần RM2 tỷ để nâng cấp hơn 520 trường học xuống cấp và xây 38 trường mới."
 lang: "vi"
-sourceContentHash: "4f75b1390b41bfeb"
+sourceContentHash: "9fcd1b28c9e58758"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,9 +82,37 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "Fadhlina Sidek", "Education Act 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "Menteri Pendidikan Malaysia", "moe.gov.my", "compulsory education Malaysia", "Malaysia school system"]
 framework: profile
+hero: '/media/government/ministry-of-education-moe/hero.webp'
+heroAlt: 'Một tòa tháp chính phủ đối xứng uy nghi màu nâu nhạt theo phong cách Moorish-Hồi giáo với những tháp canh có chóp và một gian giữa vòm cao vút, dòng chữ KEMENTERIAN PENDIDIKAN MALAYSIA phía trên lối vào, hai bên là những cánh thấp hơn dưới bầu trời đầy mây'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Education Malaysia (KPM) headquarters, Blok E8, Kompleks E, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-1.webp
+    alt: Cận cảnh mái hiên lối vào hình vòm của tòa nhà Bộ Giáo dục, dòng chữ KEMENTERIAN PENDIDIKAN MALAYSIA màu xanh và quốc huy vàng phía trên cửa ra vào, với cờ Malaysia và cờ bang tung bay trên các cột
+    kind: actual
+    origin: third-party
+    subject: Lối vào chính của trụ sở Bộ Giáo dục Malaysia, Putrajaya, với biển KEMENTERIAN PENDIDIKAN MALAYSIA và quốc huy
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-04.jpg
+  - role: scene
+    src: /media/government/ministry-of-education-moe/body-2.webp
+    alt: Toàn bộ mặt tiền phân tầng của trụ sở Bộ Giáo dục Malaysia nhìn từ đường dẫn vào, với tòa tháp trung tâm cầu kỳ và các cánh đối xứng được điểm cờ Malaysia trên bãi đỗ xe dưới bầu trời sáng nhiều mây
+    kind: actual
+    origin: third-party
+    subject: Cảnh nhìn rộng từ phía trước của khu phức hợp trụ sở Bộ Giáo dục Malaysia từ đường dẫn vào, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Education-01.jpg
 ---
 
 Nếu nó liên quan đến một học sinh Malaysia — chương trình các em học, cuốn sách giáo khoa trên bàn, kỳ thi quốc gia các em dự, hay giáo viên trường công đứng trước lớp — thì nó thuộc về Bộ Giáo dục. Được biết đến trong tiếng Mã Lai là **Kementerian Pendidikan Malaysia** và hầu như luôn được viết tắt là **KPM**, đó là bộ liên bang điều hành hệ thống giáo dục tiền đại học của đất nước. Điều nó *không* điều hành là các trường đại học — một ranh giới khiến rất nhiều người vấp phải.

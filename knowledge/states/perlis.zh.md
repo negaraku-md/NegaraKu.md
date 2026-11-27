@@ -37,7 +37,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 
 status: "published"
 aiAssisted: true
@@ -105,9 +105,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "majlis-raja-raja" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
 framework: profile
+hero: '/media/states/perlis/hero.webp'
+heroAlt: '加央附近广阔多云的天空下，金色的草穗与绿色稻田延伸至平坦的地平线。'
+heroCredit: 'Derek T''s Photos / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: 玻璃市加基武吉附近，一条悬空的木栈道穿行于黑暗洞（Gua Kelam）的石灰岩隧道之中。
+    kind: actual
+    origin: third-party
+    subject: 玻璃市黑暗洞（Gua Kelam）栈道
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: 玻璃市瓜拉玻璃市的渡轮码头是前往兰卡威船只的大陆门户，坐落在马六甲海峡之畔。
+    kind: actual
+    origin: third-party
+    subject: 玻璃市瓜拉玻璃市渡轮码头
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 有一个问题，几乎每个马来西亚人都曾答错过：谁是玻璃市苏丹？

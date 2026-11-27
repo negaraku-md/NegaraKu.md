@@ -85,9 +85,15 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["pas kerja malaysia", "professional visit pass malaysia", "de rantau nomad pass", "residence pass talent malaysia", "dependant pass malaysia", "investor pass malaysia"]
 framework: decision
+stayFacts:
+  who: 'Ini untuk majikan yang memilih pas yang betul, atau warga asing yang membandingkan laluan untuk bekerja di Malaysia — tiada satu visa kerja Malaysia yang tunggal.'
+  how: 'Biarkan penaja dan jenis kerja memilih pasnya. Ekspatriat yang ditaja majikan mengambil Employment Pass melalui ESD; projek jangka pendek yang dibayar dari luar negara mengambil Professional Visit Pass; pekerja jarak jauh dengan majikan asing mengambil DE Rantau Nomad Pass melalui MDEC; ekspatriat yang berkhidmat lama mengambil Residence Pass-Talent yang mudah alih melalui TalentCorp; pekerja buruh mengambil PLKS di bawah rejim kuota berasingan. Penaja, bukan jawatan kerja, yang menentukan mana satu yang terpakai.'
+  cost: 'Setiap pas menetapkan had gaji minimum, ambang pendapatan atau tempoh tersendiri, dan ini disemak dari semasa ke semasa — jalur gaji Employment Pass telah disemak baru-baru ini — jadi sahkan angka semasa dengan badan pengeluar (ESD dan Jabatan Imigresen, MDEC, atau TalentCorp) dan bukannya sesuatu angka yang dipetik.'
+  watch: 'Dependant Pass tidak membawa sebarang hak bekerja — anda mesti menukar kepada Employment Pass. Professional Visit Pass, termasuk DE Rantau, adalah terhad dan mengekalkan anda dibayar dari luar negara. Hanya Residence Pass-Talent yang mudah alih antara majikan; Employment Pass terikat kepada penajanya, dan menukar majikan memulakan semula kiraan tempoh.'
+  next: 'Kenal pasti penaja anda dan jenis kerja, sahkan had minimum gaji atau pendapatan semasa dan tempoh untuk pas itu dengan badan pengeluarnya, kemudian mohon melalui badan tersebut. Lihat penerangan Employment Pass, DE Rantau dan perbandingan visa perniagaan.'
 ---
 
 Tiada visa kerja Malaysia yang tunggal. Terdapat lapan atau sembilan instrumen berbeza, ditadbir oleh empat badan berbeza, dan yang mana satu diperlukan ditentukan oleh **siapa yang membayar gaji** — bukan oleh apa nama jawatan itu.

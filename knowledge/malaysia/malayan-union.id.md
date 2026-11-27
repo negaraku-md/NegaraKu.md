@@ -20,7 +20,7 @@ keyTakeaways:
   - "Persekutuan 1948 mewujudkan Majlis Raja-Raja, Majlis Perundangan Persekutuan, dan Majlis Mesyuarat Kerja, tetapi kuasa eksekutif masih pada Komisioner Tinggi British"
 appliesTo: "Pelajar, peneliti, dan pembaca umum yang ingin memahami asal usul konstitusional Malaysia — khususnya bagaimana kedudukan Raja-Raja Melayu dan syarat kewarganegaraan mulai dirumuskan secara tertulis sebelum Merdeka."
 lang: "id"
-sourceContentHash: "f8c770a08f5a6831"
+sourceContentHash: "904115cd95750d61"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -36,7 +36,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "constitution"
-updated: 2026-07-24
+updated: 2026-11-19
 sources:
   - title: "Malayan Union — Teladan untuk generasi kini dan mendatang"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/jendela-sejarah/malayan-union-teladan-buat-generasi-kini-akan-datang"
@@ -67,6 +67,15 @@ sources:
   - title: "Malayan Union Citizenship: Constitutional Change and Controversy in Malaya, 1942–48"
     url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/malayan-union-citizenship-constitutional-change-and-controversy-in-malaya-194248/0191B9BE43EDD02916253C20B80D82A0"
     publisher: "Journal of Southeast Asian Studies, Cambridge University Press"
+  - title: "Mengatur para penguasa (Ruling the rulers)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/ruling-the-rulers"
+    publisher: "Dewan Pengacara Malaysia (Malaysian Bar)"
+  - title: "Malayan Union dan dampaknya (The Malayan Union and its impact)"
+    url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/the-malayan-union-and-its-impact"
+    publisher: "Dewan Pengacara Malaysia (Malaysian Bar)"
+  - title: "Sebuah 'Memoryscape': Mengenang Malayan Union 1946 (A 'Memoryscape': Remembering the Malayan Union 1946)"
+    url: "https://doi.org/10.5539/ass.v9n6p36"
+    publisher: "Asian Social Science (Ramli Dollah et al., 2013)"
 entity: "Malayan Union"
 wikidata: "Q976099"
 relations:
@@ -82,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'Rumah besar kolonial yang megah dengan dinding krem dan atap genteng merah, terletak di antara halaman terawat rapi dan kehijauan tropis.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Selama satu tahun sepuluh bulan, Tanah Melayu diperintah di bawah sebuah konstitusi yang hari ini hampir tidak dikenal siapa pun selain namanya. Malayan Union bermula pada 1 April 1946 dan berakhir pada 31 Januari 1948 — cukup singkat untuk tidak sempat meninggalkan bangunan, mata uang, atau generasi administrator sendiri.
@@ -125,6 +141,8 @@ Penentangan terjadi dalam beberapa saluran serentak, dan bersifat terbuka serta 
 Golongan intelektual membawa isu itu ke ruang surat kabar berbahasa Melayu seperti *Utusan Melayu* dan *Majlis*. Kongres Melayu pertama diadakan pada 1 hingga 4 Maret 1946 di Kelab Sultan Sulaiman, dihadiri 41 organisasi Melayu. Dari proses itu, Pertubuhan Kebangsaan Melayu Bersatu didirikan pada 11 Mei 1946 di Istana Besar, Johor Bahru, di bawah pimpinan Dato' Onn Jaafar.
 
 Portal resmi Majlis Raja-Raja mencatat bahwa Raja-Raja Melayu turut bangkit bersama penduduk dalam menentang pelaksanaan kerangka tersebut. Parlemen Malaysia mencatat bahwa Malayan Union ditentang keras oleh orang Melayu yang dipimpin oleh Dato' Onn Jaafar.
+
+Salah satu tindakan penentangan yang paling dikenang terjadi pada hari pemberlakuannya itu sendiri. Ketika Malayan Union diresmikan di Dewan Majlis, Kuala Lumpur pada 1 April 1946 dan Sir Edward Gent dilantik sebagai Gubernur pertamanya, Raja-Raja Melayu tidak menghadiri istiadat pelantikan tersebut — satu penolakan yang diambil atas desakan UMNO di bawah pimpinan Onn Jaafar, sementara penentangan mereka terhadap kerangka itu masih belum diputuskan. Orang ramai turut berkumpul di tempat Raja-Raja menginap sebagai tanda dukungan. Penolakan untuk menghadiri istiadat pelantikan dan rapat dewan penasihat ini menjadi salah satu bentuk pembangkangan sipil yang menandai gerakan menentang Malayan Union.
 
 Perlu dicatat juga bahwa syarat kewarganegaraan yang lebih ketat dalam kerangka pengganti 1948 kemudian menjadi dasar penentangan pula dari pihak lain, termasuk kalangan non-Melayu yang mendapati kelayakan mereka menyempit dibandingkan usulan 1946.
 

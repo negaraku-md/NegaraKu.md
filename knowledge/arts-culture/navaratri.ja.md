@@ -32,7 +32,7 @@ faq:
   - q: "ナヴァラートリはタミル人だけが祝うのですか？"
     a: "いいえ。ゴールーやサラスワティ／アーユダ・プージャは南インド・タミルの伝統で中心的ですが、マレーシアのグジャラート系・北インド系のコミュニティはガルバやダンディヤの踊りでナヴァラートリを祝い、ベンガル系はドゥルガー・プージャを催します。各コミュニティの営みはそれぞれ異なります。"
 lang: "ja"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,32 @@ relations:
 related: ["hinduism-in-malaysia", "deepavali", "thaipusam", "pongal", "mariamman-worship", "hindu-temple-architecture"]
 keywords: ["நவராத்திரி", "Navaratri", "Navratri", "கொலு", "Golu", "விஜயதசமி", "சரஸ்வதி பூஜை", "ஆயுத பூஜை", "வித்யாரம்பம்", "மலேசியா நவராத்திரி", "கர்பா தாண்டியா"]
 framework: history-culture
+hero: '/media/arts-culture/navaratri/hero.webp'
+heroAlt: '緑色の布で覆われた段々のナヴァラートリ（Navaratri）のコル（Kolu）の飾り。最上段にはヴィシュヌ（Vishnu）の十化身が置かれ、下の段には彩り鮮やかなヒンドゥー教の神々の像や人形が並ぶ。'
+heroCredit: 'Mandayamr / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: 色鮮やかな伝統衣装をまとった踊り手たちが、活気あるナヴァラートリのガルバ舞踊で輪になって踊る
+    kind: representative
+    origin: third-party
+    subject: ナヴァラートリの折に踊られるガルバの民俗舞踊。この祭りを象徴する共同体の祝祭の一つ
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: ナヴァラートリのゴルの人形飾りの段に、小さな装飾的な鳥や人物の人形が丁寧に並べられている
+    kind: representative
+    origin: third-party
+    subject: ナヴァラートリのゴル（kolu）の祭りの人形飾りに並ぶ小さな人形の接写
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 ナヴァラートリの期間、マレーシアのあるタミル系ヒンドゥー教徒の家庭の客間では、片側の壁に沿って奇数段の台が組まれます。布で覆われたその段には、神像と神話の場面を伝える人形が並べて飾られます。夕刻になると、親族や近所の人々が**ゴールー**を見に訪れ、歌声が響き、帰る客にはタンブーラムと菓子が手渡されます。これは一日限りの行事ではなく、九つの夜にわたる祭りの象徴なのです。

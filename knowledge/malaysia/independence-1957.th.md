@@ -29,7 +29,7 @@ faq:
     a: "ทั้งสองช่วงเวลาเป็นจริง การถ่ายโอนอำนาจอธิปไตยตามกฎหมายมีผลตอนเที่ยงคืนของวันที่ 31 สิงหาคม 1957 ทำเครื่องหมายด้วยพิธีชักธงที่ padang ในกัวลาลัมเปอร์ พิธีประกาศต่อสาธารณะ พร้อมการเปล่งเสียงเมอร์เดกาเจ็ดครั้ง เกิดขึ้นในเช้าวันนั้นที่สนามกีฬาเมอร์เดกา"
 
 lang: "th"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -64,6 +64,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'ตนกู อับดุล ระห์มาน ยืนอยู่หน้าฝูงชน ชูมือขึ้น ในพิธีประกาศเอกราชเมอร์เดกาอันเป็นประวัติศาสตร์เมื่อปี 1957'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: อัฒจันทร์โค้งและสนามรูปวงรีอันเปิดโล่งของ Stadium Merdeka ในกัวลาลัมเปอร์ใต้ท้องฟ้าสดใส สนามประวัติศาสตร์ที่มีการประกาศเอกราชของมลายา
+    kind: actual
+    origin: third-party
+    subject: Stadium Merdeka ในกัวลาลัมเปอร์ สถานที่ประกาศเอกราชเมื่อวันที่ 31 สิงหาคม 1957
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: เสาธงสีขาวสูงตระหง่านของ Dataran Merdeka ตั้งสูงเหนือสนามหญ้าเขียวขจีของจัตุรัสเมอร์เดกาในกัวลาลัมเปอร์ สถานที่ซึ่งธงยูเนียนแจ็กถูกเชิญลงในเวลาเที่ยงคืนปี 1957
+    kind: actual
+    origin: third-party
+    subject: เสาธงขนาดยักษ์ที่ Dataran Merdeka (จัตุรัสเมอร์เดกา) กัวลาลัมเปอร์
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 ในเวลาไม่กี่นาทีหลังเที่ยงคืนของวันที่ 31 สิงหาคม 1957 บน padang หน้าสลังงอร์คลับเก่า (Selangor Club) ในกัวลาลัมเปอร์ ธงยูเนียนแจ็กถูกลดลงและธงของสหพันธรัฐมลายาใหม่ถูกชักขึ้น มันคือภาพที่คนส่วนใหญ่จดจำเกี่ยวกับเมอร์เดกา แต่งานที่แท้จริงของเอกราชได้เสร็จสิ้นไปหลายเดือนก่อนหน้า ในห้องประชุมคณะกรรมการในลอนดอนและกัวลาลัมเปอร์ โดยผู้คนที่เจรจาเกี่ยวกับข้อของรัฐธรรมนูญที่ยังไม่มีอยู่ในปีก่อนหน้า

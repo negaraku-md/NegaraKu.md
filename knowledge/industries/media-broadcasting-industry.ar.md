@@ -31,7 +31,7 @@ faq:
   - q: "ما صناعة المحتوى الإبداعي والرسوم المتحرّكة في ماليزيا؟"
     a: "هي عمل إنتاج الأفلام والبرامج التلفزيونية والرسوم المتحرّكة والموسيقى والألعاب — للتصدير بصورة متزايدة إلى جانب السوق المحلية. وقد حقّقت الرسوم المتحرّكة الماليزية بوجه خاص نجاحًا دوليًا، أشهر أمثلته سلسلة الأطفال Upin & Ipin، من إنتاج Les' Copaque. وتدعم الحكومة القطاع عبر صناديق وهيئات مثل MyCreative Ventures وFINAS."
 lang: ar
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'مجمّع أنغكاسابوري للبثّ في كوالالمبور، مقرّ هيئة البثّ العامّة الوطنية في ماليزيا.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: منتجون أمام صفّ من الشاشات وطاولات المزج في غرفة تحكّم استوديو تلفزيوني أثناء بثّ مباشر.
+    kind: representative
+    origin: third-party
+    subject: غرفة تحكّم بثّ أثناء إنتاج تلفزيوني مباشر (مثال)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: موقع تصوير استوديو بثّ تلفزيوني يضمّ كاميرات وإضاءة استوديو وطاولة مقدّم برامج.
+    kind: representative
+    origin: third-party
+    subject: موقع تصوير استوديو بثّ تلفزيوني بكاميرات وطاولة مقدّم (مثال)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 حين يتحدّث الماليزيون عن «الإعلام»، يعنون عادةً اسمًا من أسماء مألوفة قليلة: طبق Astro الفضائي المثبّت على جانب المنزل، أو نشرة أخبار TV3، أو برنامج إذاعي صباحي في طريق العمل، أو — بصورة متزايدة — أيًّا كان ما يُعرَض على هاتف أثناء التنقّل. وتنتمي نقاط اللمس اليومية تلك إلى صناعة واحدة متشعّبة: الإعلام والبثّ. وهي أحد أكثر قطاعات الخدمات ظهورًا في البلاد، وأحد أكثرها تعرّضًا للاضطراب.

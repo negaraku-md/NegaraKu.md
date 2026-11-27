@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami jenis-jenis wayang Tionghoa tradisional di Malaysia, serta peran 「wayang syukur dewa」 (酬神戏) dalam pesta kelenteng dan perayaan."
 
 lang: "id"
-sourceContentHash: "13b9c7f4fc9cc94d"
+sourceContentHash: "9a2ad44dc0219ca7"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,34 @@ relations:
 related: ["wayang-kulit", "mak-yong", "unesco-world-heritage"]
 keywords: ["华人大戏", "酬神戏", "粤剧 马来西亚", "潮剧 马来西亚", "闽剧", "歌仔戏", "布袋戏", "潮州铁枝木偶", "槟城 中元节", "Chinese opera Malaysia", "Wayang Cina"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-opera/hero.webp'
+heroAlt: 'Enam pemain opera Tionghoa berkostum sulam rumit dengan wajah dirias dan hiasan kepala megah di panggung berlatar naga emas; seorang jenderal berbaju zirah hitam-emas dengan bulu pegar tinggi berdiri di tengah'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cantonese_opera,_Ipoh,_Perak,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Cantonese opera cast in full costume and makeup on stage in Ipoh, Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-1.webp
+    alt: Dua pemain opera Teochew di atas panggung festival pada malam hari, seorang sarjana pria berjubah biru dan seorang karakter wanita berbaju merah muda cerah, di depan latar 'Penang Dialect Theater' yang penuh aksara Tionghoa
+    kind: actual
+    origin: third-party
+    subject: Opera jalanan Teochew sewaktu Tahun Baru Imlek, George Town, Penang, 2024
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Teochew_opera_performance_in_George_Town,_Penang_in_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-opera/body-2.webp
+    alt: Seorang pemain opera jalanan Tionghoa berjubah putih dan topi hitam bermanik-manik, berias panggung dan berkacamata, mencondongkan badan ke sebuah lampu kecil untuk membaca naskah di belakang panggung dalam cahaya redup yang hangat
+    kind: actual
+    origin: third-party
+    subject: Pemain opera jalanan Tionghoa berkostum mempelajari naskah di belakang panggung, Malaysia
+    credit: denise chan / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Opera_(48127360292).jpg
 ---
 
 Gong dan gendang berbunyi, lengan baju panjang yang melambai-lambai di atas panggung — tetapi tempat duduk penonton di bawah biasanya hanya diisi oleh beberapa orang saja, kadang-kadang tidak seorang pun. Ini bukan pertunjukan yang gagal, karena wayang ini memang bukan dipentaskan untuk ditonton manusia.

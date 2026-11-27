@@ -41,7 +41,7 @@ verificationNeeded:
   - "Portal pariwisata negeri menyebut luas 35,960 km persegi sementara portal pemerintah negeri menyebut 35,965 km persegi; verifikasi angka resmi tunggal dengan Kantor Sekretaris Pemerintah Pahang."
 
 lang: "id"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,32 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'Terasering pohon teh hijau yang bergelombang di sebuah perkebunan Cameron Highlands, berkelok di antara bukit berhutan di bawah langit mendung.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: Ombak menghantam batu-batu gelap di teluk berpasir berlatar hutan di Teluk Cempedak dekat Kuantan di pesisir Pahang.
+    kind: actual
+    origin: third-party
+    subject: Pantai Teluk Cempedak, Kuantan, Pahang
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: Air tawar yang tenang terbentang di antara bukit berhutan di Danau Chini (Tasik Chini), danau berselimut teratai di Pahang dan cagar biosfer UNESCO.
+    kind: actual
+    origin: third-party
+    subject: Danau Chini (Tasik Chini), Pahang
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 Pahang mencakup lebih dari seperempat daratan Semenanjung Malaysia, tetapi hanya

@@ -100,6 +100,7 @@ dishFacts:
   origin: "L'article situe le sambal dans l'Asie du Sud-Est maritime et fait remonter le mot à des racines javanaises, mais note que son émergence exacte est incertaine — des références sérieuses le qualifient, selon la source, d''indonésien' ou de 'malaisien'. Plutôt qu'un lieu de naissance unique, mieux vaut le voir comme une idée régionale partagée que chaque cuisine et chaque foyer a faite sienne."
   eat: "Le sambal apporte la chaleur, le sel et la profondeur savoureuse dont une assiette de riz et d'une cuisine plus simple a besoin — servi cru en trempette ardente (pour les ulam, le poisson frit, les œufs durs ou à côté du riz), frit en sambal tumis ikan bilis qui définit le nasi lemak, ou utilisé comme base de cuisson incorporée au riz frit, aux nouilles et à des plats comme l'ayam masak merah."
   where: "Le sambal traverse aussi bien la cuisine malaise, nyonya (peranakan) qu'indo-malaisienne et mamak, et 'presque aucun cuisinier ne le fait tout à fait de la même manière'. La région le façonne aussi — les communautés côtières misent sur le belacan et les fruits de mer séchés tandis que l'intérieur du Pahang donne des sambals au tempoyak et le sambal hitam — et chaque État, chaque ville et chaque famille garde ses propres dosages de chaleur, de sel et de douceur."
+wikidata: "Q1056554"
 ---
 
 Demandez à un Malaisien ce qui donne à un repas le goût de la maison, et la

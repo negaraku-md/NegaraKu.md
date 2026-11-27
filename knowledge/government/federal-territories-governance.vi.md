@@ -32,7 +32,7 @@ faq:
     a: "Cục Lãnh thổ Liên bang (JWP) thuộc Văn phòng Thủ tướng điều phối chính sách và phát triển cả ba lãnh thổ ở cấp liên bang, trong khi DBKL, Perbadanan Putrajaya và Perbadanan Labuan là các cơ quan địa phương thực hiện công việc hằng ngày như cấp phép, quy hoạch đô thị và dịch vụ đô thị tại lãnh thổ của mình."
 
 lang: "vi"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'Putrajaya bên kia hồ, với Nhà thờ Hồi giáo Putra mái vòm hồng cùng ngọn tháp cao bên trái và khu phức hợp chính phủ Perdana Putra mái vòm xanh lục bên phải dưới bầu trời nhiều mây.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: Tòa nhà hành chính của Tập đoàn Putrajaya, chính quyền địa phương quản lý lãnh thổ liên bang Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Trụ sở chính của Perbadanan Putrajaya (Tập đoàn Putrajaya), chính quyền địa phương của lãnh thổ liên bang Putrajaya
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: Mặt tiền có mái vòm của Cung Tư pháp ở Putrajaya, mang quốc huy liên bang Malaysia, một tòa nhà chính phủ của lãnh thổ liên bang
+    kind: actual
+    origin: third-party
+    subject: Cung Tư pháp (Istana Kehakiman), một tòa nhà chính phủ liên bang ở Putrajaya
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 Ở một bang, có Sultan hoặc Thống đốc Bang, có Thủ hiến (Menteri Besar hoặc Ketua Menteri), và có Hội đồng Lập pháp Bang do dân bầu. Ở Kuala Lumpur, Putrajaya và Labuan, không có bất kỳ điều nào trong số đó. Cả ba nơi này không phải là bang — chúng là Lãnh thổ Liên bang, và được Chính phủ Liên bang quản lý trực tiếp.

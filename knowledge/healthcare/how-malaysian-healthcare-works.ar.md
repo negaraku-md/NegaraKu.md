@@ -26,7 +26,7 @@ verificationNeeded:
   - "لم يُؤكَّد القسط الدقيق لـ SPIKPA وسقف التغطية السنوي من مصدر أوّلي رسمي (لم يُعثَر إلا على مصادر ثانوية أكاديمية ومن وسطاء التأمين)؛ ويصف هذا المقال وظيفة المخطّط — تأمين إلزامي مرتبط بتجديد تصريح العمل، مؤكَّد على موقع إدارة الهجرة (Jabatan Imigresen) نفسه — دون ذكر قسط أو مبلغ تغطية غير مُتحقَّق منه."
 
 lang: "ar"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,32 @@ stayFacts:
   cost: 'فكّر بالشكل لا بأرقام ثابتة: فالرعاية العامة مدعومة بشدة للمواطنين والمقيمين الدائمين، بينما يدفع الأجانب أكثر بكثير وفق جدول رسوم غير المواطنين، وتُدفَع الرعاية الخاصة من الجيب أو عبر التأمين بأي مبلغ تتقاضاه المنشأة. والمبالغ الدقيقة بالرينغيت محدَّدة بموجب أمر الرسوم (الطبية) وتُراجَع دوريًا، فتحقق من الرسوم الحالية في الأمر المنشور لوزارة الصحة أو مباشرةً مع مقدّم الخدمة قبل الاعتماد على أي رقم.'
   watch: 'لا تصلك دعوم المواطنين بصفتك أجنبيًا — فـ PeKa B40 وMySalam وجدول رسوم المواطنين مرتبطة بالمواطنة أو بوضع المساعدة النقدية لفئة B40، فخطّط للتأمين الخاص (ولاحظ أن العمال الأجانب الموثَّقين يجب أن يحملوا تأمين الاستشفاء SPIKPA لتجديد تصريح العمل، ويرتّبه صاحب العمل).'
   next: 'حدّد الفئة التي تقع فيها (عامل أجنبي أو مغترب أو زائر) ورتّب التغطية المناسبة قبل الاعتماد على أي مخطط محلي. وللتفاصيل، انظر الأدلة الشقيقة «التأمين الطبي في ماليزيا»، و«المستشفيات الخاصة وتكاليفها»، و«العيادات الصحية (Klinik Kesihatan)».'
+hero: '/media/healthcare/how-malaysian-healthcare-works/hero.webp'
+heroAlt: 'واجهة مجمّع التخصّص والعلاج النهاري بمستشفى كوالالمبور، وهو مستشفى حكومي ماليزي، مع شعار الهلال الأحمر.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: مجمّع مستشفى حكومي ماليزي كبير متعدد الطوابق يُرى من الطريق في Kota Kinabalu بولاية Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital، مستشفى حكومي ماليزي رئيسي في Kota Kinabalu بولاية Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: منظر جوّي للمجمّع متعدد المباني لمستشفى حكومي ماليزي كبير في George Town بولاية Penang، ويظهر خلفه أفق المدينة
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang)، مستشفى حكومي ماليزي رئيسي في George Town بولاية Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 متقاعد ماليزي يشعر بألم في الصدر يطلب سيارة إسعاف فيُنقَل إلى أقرب مستشفى حكومي، حيث يعاينه طبيب قلب مقابل رسم يغطّي جزءًا يسيرًا من التكلفة الفعلية. أما جاره، وهو حامل تصريح عمل من إندونيسيا بالأعراض نفسها، فيُنقَل إلى قسم الطوارئ في المستشفى نفسه — لكن الفاتورة التي تليه تُحتسَب وفق جدول مختلف تمامًا، لأن كليهما ليسا، في نظر الوزارة، النوع نفسه من المرضى.

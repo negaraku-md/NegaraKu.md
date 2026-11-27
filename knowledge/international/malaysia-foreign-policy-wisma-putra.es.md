@@ -37,7 +37,7 @@ faq:
     a: "La ASEAN es la piedra angular o el cimiento de la política exterior de Malasia. Malasia es uno de los países fundadores de la ASEAN y da prioridad de manera sistemática a la integridad y la centralidad de la ASEAN, al tiempo que permanece activa en otros foros como las Naciones Unidas (ONU), la Organización de Cooperación Islámica (OCI) y el Movimiento de Países No Alineados (MNOAL)."
 
 lang: "es"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'Acceso bordeado de palmeras a Wisma Putra que muestra el letrero de Wisma Putra Kementerian Luar Negeri Malaysia y la torre del ministerio al fondo'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Vista amplia de la entrada del complejo de Wisma Putra con banderas de los estados y caseta de vigilancia en Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Vista más amplia de la entrada y la caseta de vigilancia de Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Cuando Estados Unidos es el mayor inversor extranjero en la economía de Malasia, pero China es su mayor socio comercial, un país pequeño y abierto no puede permitirse tomar partido. Por eso la política exterior de Malasia se ha aferrado durante décadas a una palabra fácil de decir pero difícil de mantener: neutralidad. El ministerio encargado de mantener ese equilibrio día tras día es Wisma Putra.

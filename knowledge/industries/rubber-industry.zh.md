@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: '一棵橡胶树上有一道新割的斜向割口，白色乳胶沿树干滴入树基绑着的黑色胶杯'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: 一行行细长的橡胶树，树干呈斑驳的浅色，整齐地向远处延伸，穿过长满青草的园地，数棵树干低处挂着深色的小胶杯
+    kind: actual
+    origin: third-party
+    subject: 马来西亚柔佛一处种植园庄园内整齐成行、装有乳胶收集杯的成熟橡胶树，是马来西亚橡胶业的支柱
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: 一名身穿灰色衬衫的男子在橡胶林边，将一张压制过的白色乳胶片送入一台黄色铸铁制片机的沉重滚轴之间，他身旁还有第二个带纹路的滚轴
+    kind: representative
+    origin: third-party
+    subject: 一名工人用手摇橡胶压片机碾压一张凝固的乳胶片，这是加工天然橡胶的关键步骤
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 曾经缔造殖民时期马来亚繁荣的橡胶，如今不再靠种植园谋生——而是靠工厂车间。马来西亚仍在割胶，但其橡胶财富如今系于所制造的医用手套、轮胎和乳胶制品，这一行业消耗的橡胶比整个国家自己种植的还要多。

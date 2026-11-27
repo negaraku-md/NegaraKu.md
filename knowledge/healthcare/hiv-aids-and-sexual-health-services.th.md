@@ -34,7 +34,7 @@ faq:
     a: "ไม่มีกฎหมาย HIV โดยเฉพาะ บทบัญญัติทั่วไปของประมวลกฎหมายอาญา เช่น มาตรา 269 และ 270 อาจใช้บังคับกับการแพร่โรคอันตราย อย่างไรก็ตาม ยังไม่มีการฟ้องร้อง HIV ที่ทราบจนถึงขณะนี้"
 
 lang: "th"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "ujian HIV", "PrEP", "PEP", "ART", "kesihatan seksual", "Majlis AIDS Malaysia", "Kementerian Kesihatan"]
 framework: explainer
+hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'
+heroAlt: 'ริบบิ้นสีแดงเพื่อการรณรงค์บนพื้นหลังสีขาวล้วน ซึ่งเป็นสัญลักษณ์สากลของการรณรงค์เรื่อง HIV/AIDS'
+heroCredit: 'NIAID / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: ตลับทดสอบเอชไอวีแบบรวดเร็วขวดน้ำยาบัฟเฟอร์และอุปกรณ์จัดวางบนโต๊ะที่ปูกระดาษสะอาดดำเนินการด้วยมือที่สวมถุงมือโดยไม่เห็นใบหน้า
+    kind: representative
+    origin: third-party
+    subject: ชุดทดสอบเอชไอวีแบบรวดเร็วจัดวางบนโต๊ะก่อนการทดสอบพร้อมมือที่สวมถุงมือ
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: อาคารคลินิกสุขภาพทางเพศสาธารณะเตี้ยที่หัวมุมถนนมีป้ายรณรงค์สร้างความตระหนักบนผนังด้านหน้าโดยไม่มีผู้คนอยู่
+    kind: representative
+    origin: third-party
+    subject: ภายนอกคลินิกสุขภาพทางเพศสาธารณะที่มีป้ายรณรงค์ด้านสุขภาพ
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 ผู้ที่กังวลหลังจากคืนที่มีความเสี่ยงสามารถเดินเข้าไปในคลินิกสุขภาพของรัฐในมาเลเซีย ตรวจ HIV ได้ฟรีและเป็นความลับ และ — หากจำเป็น — กลับบ้านพร้อมยาป้องกันภายในไม่กี่ชั่วโมง อย่างไรก็ตาม เส้นทางเดียวกันนั้นก็ตัดกับประเด็นการรักษาความลับ กฎหมาย ศาสนา และการตีตรา ที่ทำให้ HIV เป็นหนึ่งในหัวข้อสุขภาพที่ละเอียดอ่อนที่สุดในประเทศ

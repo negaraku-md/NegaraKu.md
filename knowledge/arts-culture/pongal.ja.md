@@ -32,7 +32,7 @@ faq:
   - q: "タイ・ポンガルの四日間とは何ですか。"
     a: "Bhogi（古いものを払い、家を清める）、Thai Pongal または Surya Pongal（太陽に感謝し、ポンガルを供える）、Mattu Pongal（耕作を助ける牛をたたえる）、Kaanum Pongal（親族を訪ね、外出する）——これがその四日間です。"
 lang: "ja"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "タミル暦の月である Thai が始まる日——グレゴリオ暦では一般に1月中旬（14日または15日）。"
   holiday: "マレーシアでは、連邦レベルでも、いずれの州レベルでも官報告示された祝日ではない。（連邦の祝日はディーパバリ（Deepavali）のみ——サラワク州を除く。タイプーサム（Thaipusam）は一部の州のみの祝日。）"
   etiquette: "主として収穫に関わる文化的な祝祭であり、宗教色のないものである（2020年にマレーシアの閣僚が明確にした）。地域団体や寺院は多くの鍋で一緒にポンガルを炊き、芸能公演とともに公開の祝いを行う。"
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'タイ・ポンガルの日、ヒンドゥー寺院の屋外で、マリーゴールドの花輪を巻いた土鍋で湯気の立つポンガル米をかき混ぜる、紫と金のサリーを着た笑顔の女性'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: 家の門の外で地面に色粉で描かれた大きな色鮮やかなポンガルのコーラム。サトウキビの茎、鮮やかな花、あふれる祭りの壺が描かれている
+    kind: representative
+    origin: third-party
+    subject: 路上に描かれた、サトウキビ・花・あふれる壺の模様のある色鮮やかなポンガルのコーラム
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: 赤い縁の2つの丸い素焼きの壺が、白地に色鮮やかなジグザグと点の模様で手描きされ、収穫祭のポンガルを炊くために用意されている様子
+    kind: representative
+    origin: third-party
+    subject: 収穫祭のために飾られた手描きの2つの素焼きのポンガルの壺
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 タイ月が明ける早朝、マレーシアのタミル人家庭の庭先や玄関口はにぎわいに包まれます。

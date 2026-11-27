@@ -32,7 +32,7 @@ faq:
     a: "EU वनोन्मूलन विनियमन उत्पादों को 'वनोन्मूलन-मुक्त' तभी परिभाषित करता है जब वे ऐसी भूमि पर उगाए गए हों जिसका 31 दिसंबर 2020 के बाद वनोन्मूलन नहीं हुआ (विनियमन (EU) 2023/1115, अनुच्छेद 2)। इसके लिए भूखंड-स्तरीय भू-स्थान की आवश्यकता होती है — 4 हेक्टेयर से बड़े भूखंडों के लिए बहुभुज मानचित्रण, और 4 हेक्टेयर या उससे कम के भूखंडों के लिए एक एकल GPS बिंदु की अनुमति — जिसे छोटे, अक्सर वृद्ध, दूरदराज़ के किसानों के लिए स्वयं तैयार करना तकनीकी रूप से कठिन है।"
 
 lang: "hi"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "ऑयल पाम लघुधारक", "MSPO certification", "MSPO प्रमाणन", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "मलेशिया सस्टेनेबल पाम ऑयल"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'मलेशिया के मेरसिंग में लहरदार भूमि पर फैला एक युवा तेल ताड़ का बागान।'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: सबा के तेनोम ज़िले में परिपक्व ताड़ के बीच लंबा हँसिया-डंडा कंधे पर रखे एक ऑयल-पाम बागान कटाई-कर्मी, ज़मीन पर कटा हुआ ताज़ा फल गुच्छा
+    kind: actual
+    origin: third-party
+    subject: सबा के तेनोम में परिपक्व ऑयल पाम के बीच कटाई का डंडा लिए एक बागान मज़दूर
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: सबा के किमानिस एस्टेट में एक ऑयल पाम के शीर्ष पर पकते लाल रंग के ताज़े फल गुच्छों का नज़दीकी दृश्य
+    kind: actual
+    origin: third-party
+    subject: सबा के किमानिस एस्टेट में एक ऑयल पाम पर पकते ताज़े फल गुच्छे
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 बिंटुलु का एक किसान जो अपने ऑयल पाम भूखंड की हर सीमा को स्मृति से नाप सकता है, अब उसे यूरोप का कोई खरीदार उसके फल को छूने से पहले उन "मानसिक मानचित्रों" को GPS बहुभुजों में बदलना पड़ता है। वह अंतर — अपनी भूमि को जानने और उसे किसी लेखा-परीक्षक की संतुष्टि तक प्रलेखित करने के बीच — मलेशिया की लघुधारक पाम ऑयल अर्थव्यवस्था के पीछे की शांत कहानी है।

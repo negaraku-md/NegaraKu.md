@@ -32,7 +32,7 @@ faq:
   - q: "¿Cuáles son los cuatro días del Thai Pongal?"
     a: "Bhogi (deshacerse de lo viejo y limpiar la casa), Thai Pongal o Surya Pongal (dar gracias al Sol y ofrecer el pongal), Mattu Pongal (honrar al ganado que ayuda a arar) y Kaanum Pongal (visitar a los parientes y salir de paseo) — esos son los cuatro días."
 lang: "es"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "El día en que comienza el mes tamil de Thai; en el calendario gregoriano, generalmente a mediados de enero (el 14 o el 15)."
   holiday: "No es fiesta pública publicada en el boletín oficial ni a nivel federal ni en ningún estado de Malasia. (Solo Deepavali es fiesta pública federal —salvo en Sarawak—; Thaipusam es fiesta solo en algunos estados.)"
   etiquette: "Es principalmente una fiesta cultural ligada a la cosecha, de carácter laico (así lo aclaró un ministro malasio en 2020); las organizaciones comunitarias y los templos cocinan pongal de forma conjunta en numerosas ollas y celebran actos públicos con representaciones artísticas."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: 'Una mujer sonriente con un sari púrpura y dorado remueve arroz Pongal humeante en una olla de barro rodeada de una guirnalda de caléndulas, cocinando al aire libre en un templo hindú durante el Thai Pongal'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: Un gran kolam de Pongal colorido dibujado con polvos de colores en el suelo, que muestra tallos de caña de azúcar, flores vivas y una olla festiva rebosante, a la puerta de una casa
+    kind: representative
+    origin: third-party
+    subject: Colorido kolam de Pongal con caña de azúcar, flores y el motivo de la olla rebosante en una calle
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: Dos ollas de barro redondas con bordes rojos, pintadas a mano en blanco con coloridos patrones de zigzags y puntos, preparadas para cocinar el Pongal durante el festival de la cosecha
+    kind: representative
+    origin: third-party
+    subject: Dos ollas de barro de Pongal pintadas a mano y decoradas para el festival de la cosecha
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 En la madrugada en que comienza el mes de Thai, los patios y los umbrales de las

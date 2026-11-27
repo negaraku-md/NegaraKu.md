@@ -40,7 +40,7 @@ faq:
     a: "Muzium itu, di 48 & 50 Jalan Tun Tan Cheng Lock, ditutup pada hari Selasa. Ia dibuka dari 10:00 pagi hingga 4:15 petang pada hari bekerja (kecuali Selasa) dan 10:00 pagi hingga 4:45 petang pada hujung minggu. Oleh sebab waktu dan harga boleh berubah, sahkan di laman web rasmi muzium sebelum melawat."
 
 lang: "ms"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'Sesuai untuk pengembara yang mencari teras warisan UNESCO yang padat dan boleh dijelajahi dengan berjalan kaki — mercu tanda kesultanan Melayu, Portugis dan Belanda serta makanan Nyonya Peranakan (Baba Nyonya) — mudah dilakukan sebagai perjalanan hujung minggu.'
+  getThere: 'Dicapai melalui jalan darat dari Kuala Lumpur, kira-kira dua jam pemanduan — perjalanan hujung minggu yang lazim.'
+  watch: 'Rancang mengikut hari dalam minggu — pasar malam Jonker Street beroperasi hanya pada petang Jumaat hingga Ahad, dan pada hari biasa ia hanyalah jalan kedai rumah biasa — dan jangan tersilap antara pintu gerbang bersejarah A Famosa yang percuma dengan taman tema A''Famosa Resort yang berasingan di luar bandar.'
+  next: 'Sahkan hari dan waktu buka semasa dengan laman web rasmi Baba & Nyonya Heritage Museum sebelum lawatan anda, kerana ini berubah.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'Bangunan Stadthuys Belanda berwarna merah tua di belakang Air Pancut Victoria dan gerai pasar di Dutch Square Melaka'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: Bot pelayaran sungai melintasi rumah kedai warisan berwarna-warni dan pokok di sepanjang Sungai Melaka biru kehijauan di bandar lama
+    kind: actual
+    origin: third-party
+    subject: Pelayaran Sungai Melaka menyusuri rumah kedai bandar lama
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: Gerbang Jonker Walk menandakan pintu masuk ke jalan Chinatown Melaka di sebelah Gereja Methodist Tamil 1908
+    kind: actual
+    origin: third-party
+    subject: Gerbang Jonker Walk di sebelah Gereja Methodist Tamil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 Berdirilah di Dataran Belanda pada waktu senja dan anda boleh membaca lima abad dalam satu pandangan: sebuah dewan bandaraya Belanda berwarna merah salmon di satu sisi, runtuhan sebuah gereja zaman Portugis di bukit di atas, sebuah pintu gerbang batu yang pernah menjadi teras sebuah kubu yang cuba dirobohkan oleh British, dan — dua minit berjalan kaki dari situ — sebuah lorong rumah kedai Cina-Melayu yang kini bergemerlapan untuk bazar malam Jumaat. Melaka tidak menyebarkan sejarahnya merentasi sebuah bandar besar. Ia menyusunnya ke dalam kawasan lebih kurang satu batu persegi yang boleh anda jelajahi dalam satu petang. Inilah cara membacanya, dan cara merancang lawatan mengelilinginya.

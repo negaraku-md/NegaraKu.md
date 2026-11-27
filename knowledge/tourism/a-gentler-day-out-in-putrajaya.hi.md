@@ -35,7 +35,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,34 @@ sources:
 entity: "पुत्रजाया (Putrajaya) (मलेशिया की संघीय प्रशासनिक राजधानी)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'नाटकीय बादलों के नीचे पुत्रजया झील के पार प्रतिबिंबित पुत्रा मस्जिद की गुलाबी-गुंबद, उसकी मीनार और पर्दाना पुत्रा सरकारी परिसर के साथ'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: Putrajaya की झील पर फैला पाल के आकार का केबल-स्टेड Seri Wawasan Bridge
+    kind: actual
+    origin: third-party
+    subject: Seri Wawasan Bridge, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: Putrajaya में तूफानी आकाश के सामने Putra Mosque के बारीक नक्काशीदार गुलाबी गुंबद का नज़दीकी दृश्य
+    kind: actual
+    origin: third-party
+    subject: Putra Mosque का गुलाबी गुंबद, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
+wikidata: "Q182378"
 ---
 
 पुत्रजाया (Putrajaya) एक यात्रा का इनाम देता है, लेकिन यह गलत योजना को सज़ा देता है। मलेशिया की उद्देश्य-निर्मित संघीय प्रशासनिक राजधानी **चौड़ी सड़कों, स्मारकीय इमारतों, औपचारिक प्लाज़ाओं, पुलों और एक बड़ी मानव-निर्मित झील** का शहर है — सुंदर, और कारों के लिए बना हुआ। इसके दर्शनीय स्थल क्रमांकित प्रीसिंक्टों (precincts) में बिखरे हुए हैं, अक्सर एक किलोमीटर या उससे अधिक दूर, बीच में बहुत कम छाया के साथ। यह उम्मीद करके आएँ कि आप मस्जिद से बगीचों तक और दुकानों तक टहल लेंगे, तो आप एक गर्म दिन लंबी, खुली दूरियाँ पैदल चलते बिताएँगे। एक आरामदेह योजना के साथ आएँ और पुत्रजाया कुआलालंपुर के पास सबसे आसान शांत दिनों में से एक बन जाता है।

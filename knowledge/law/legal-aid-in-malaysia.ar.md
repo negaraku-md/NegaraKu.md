@@ -80,7 +80,7 @@ wikidata: "Q7314697"
 relations:
   - { rel: "governs", to: "legal-aid-act-1971" }
   - { rel: "related-to", to: "malaysian-court-system" }
-related: []
+related: ["arbitration-and-dispute-resolution", "small-claims-tribunal-procedure", "legal-profession-act-1976"]
 keywords: ["المساعدة القانونية", "legal aid", "JBG", "YBGK", "مجلس المحامين", "اختبار القدرة المالية", "محامٍ مجاني"]
 framework: how-to
 ---

@@ -32,7 +32,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,17 @@ relations:
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: Kaki langit KL Sentral yang penuh dengan menara pejabat dan hotel menjulang di sebalik tasik hijau Taman Botani Perdana Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Kawasan hab pengangkutan Kuala Lumpur Sentral (KL Sentral) tempat ibu pejabat SSM, Menara SSM@Sentral, terletak, dilihat merentasi tasik Taman Botani Perdana
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## Sekilas pandang

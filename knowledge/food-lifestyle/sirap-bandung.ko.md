@@ -98,6 +98,14 @@ drinkFacts:
   halal: "장미 시럽, 우유, 물로 만든 무알코올 음료로, 결혼 피로연과 라마단 iftar 같은 말레이 무슬림 행사에서 오래도록 내왔으므로 그 구성은 할랄이다; 엄격한 신자는 특정 시럽과 우유 상표를 확인할 수 있다. Bandung soda 변형은 평범한 탄산음료만 더할 뿐이며 마찬가지로 무알코올이다."
   served: "얼음을 넣어 선명한 분홍빛으로, 흔히 거품이 일게 낸다. 명절이자 일상의 음료다: 결혼 피로연과 kenduri에서 부어지고, 라마단 iftar에 꺼내지며, 가족 모임과 식당에서 nasi beriani나 rendang 같은 진한 요리와 함께 차게 낸다."
   where: "말레이시아 전역의 mamak 노점, 호커 센터, kopitiam, pasar malam 야시장의 단골 음료로, 흔히 'sirap bandung'로 주문한다(얼음을 넣으려면 peng이나 ais를 더한다). 변형 — bandung soda, grass jelly를 넣은 bandung cincau — 는 같은 노점과 명절 식탁에 등장한다."
+hero: "/media/food/sirap-bandung/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "빨대가 꽂힌, 분홍빛 아이스 장미시럽 우유(sirap bandung)가 담긴 키 큰 잔 두 개"
+heroCredit: "Kyle Lam / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bandung_Drinks.jpg"
+wikidata: "Q4854731"
 ---
 
 말레이시아 커피숍 음료 판의 모든 음료 중에서, sirap bandung는 가장 먼저 눈에 띄는

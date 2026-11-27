@@ -21,7 +21,7 @@ appliesTo: "ผู้อ่าน นักเรียน และนักว
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "ปีที่แน่นอนที่ลง ยูนุส ขึ้นครองราชบัลลังก์กลันตันนั้นระบุต่างกันในแหล่งต่าง ๆ (ราว ค.ศ. 1760, 1763, 1764 และราว ค.ศ. 1774 ปรากฏทั้งหมด) บทความนี้ใช้ 'คริสต์ทศวรรษ 1760' และควรได้รับการสอบทานเทียบกับการศึกษาประวัติศาสตร์โดยเฉพาะก่อนจะยืนยันปีใดปีหนึ่ง"
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'พระราชวังไม้สีดำประดับประดาอย่างวิจิตร ด้วยเสาสีเหลือง เชิงชายแกะสลัก และหลังคาซ้อนชั้น ตั้งตระหง่านอยู่หลังรถม้าโบราณที่จอดอยู่บนลานอิฐทรงกลมด้านหน้า'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: คฤหาสน์หลวงสีเหลืองอ่อนอันสง่างามจากทศวรรษ 1930 มีระเบียงโค้งกว้าง หน้าต่างบานเกล็ด และหลังคากระเบื้องเตี้ย ปัจจุบันเป็นพิพิธภัณฑ์หลวงกลันตัน ตั้งอยู่หลังสนามหญ้าในเขตพระราชฐานโกตาบารู
+    kind: actual
+    origin: third-party
+    subject: อิสตานาบาตู (Istana Batu พิพิธภัณฑ์หลวงกลันตัน / Muzium DiRaja) ในโกตาบารู (Kota Bharu)
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: มัสยิดประจำรัฐอันยิ่งใหญ่สีครีมและขาว มีโดมกลางกว้าง โดมมุมเล็ก และหอคอยสุเหร่าสูงเสียดฟ้า มองจากถนนผ่านรั้วเหล็กภายใต้ท้องฟ้าสีคราม
+    kind: actual
+    origin: third-party
+    subject: มัสยิดมูฮัมมาดี (Masjid Muhammadi) มัสยิดประจำรัฐกลันตัน ในโกตาบารู
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 บนไหล่ทางภาคตะวันออกเฉียงเหนือของคาบสมุทรมลายู ที่ซึ่งแม่น้ำไหลลงสู่ทะเลจีนใต้ และชายฝั่งครั้งหนึ่งเคยหันหน้าไปทางอาณาจักรปัตตานีเก่าพอ ๆ กับหันไปทางใจกลางมลายู ราชบัลลังก์หนึ่งถูกหลอมขึ้นจากสงครามกลางเมือง ผู้ก่อตั้งของมันมิได้ถือกำเนิดมาเป็นกษัตริย์ เขาคือขุนศึกเชื้อสายปัตตานีที่อยู่ยงเหนือคู่แข่ง และราชวงศ์ที่เขาริเริ่ม — ราชวงศ์ลง ยูนุส (House of Long Yunus) — ยังคงปกครองกลันตันอยู่ทุกวันนี้ กว่าสองศตวรรษครึ่งต่อมา

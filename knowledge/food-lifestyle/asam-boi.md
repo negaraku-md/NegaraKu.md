@@ -82,6 +82,34 @@ drinkFacts:
   halal: "Preserved fruit; asam boi drinks are fruit, sugar and water with no alcohol, so they are halal in themselves. Assurance attaches to the premises for a stall drink, or the certification mark on a packaged product — look for it rather than assume."
   served: "Most classically as limau asam boi — calamansi lime with sour-plum syrup, over ice, with a few pieces of plum and sometimes a pinch of salt. Also added to soft drinks (Sprite asam boi) and to Ribena. Eaten on its own as a snack too."
   where: "Found at mamak and kopitiam drink counters, hawker stalls and dried-goods shops across the country; packaged asam boi is sold in supermarkets and sundry shops."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'A dish of wrinkled, salt-frosted brown dried preserved plums known as asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: Close-up of two wrinkled, salt-coated dried preserved plums
+    kind: actual
+    origin: third-party
+    subject: close-up of two salted preserved plums (buay khem / asam boi)
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: A clear glass bowl piled with salt-frosted dried preserved plums
+    kind: actual
+    origin: third-party
+    subject: a bowl of salted dried preserved plums (buai khem / asam boi)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 Some flavours are hard to forget, and **asam boi** is one of them: a small, wrinkled,

@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 
 status: "published"
 aiAssisted: true
@@ -106,6 +106,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'BAKUNと記されたバクン・ダムの広い灰色の堤体、長い放水路の滑り台、川辺の発電所の空撮。背後に広い貯水池とサラワクの森の丘'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: ムルム・ダム発電所の内部。磨かれた床に1番・2番と番号の付いた青い円筒形の水力発電機が並び、高い大ホールに黄色い天井クレーン
+    kind: actual
+    origin: third-party
+    subject: 水力発電機を見せる、ムルム・ダム発電所の内部
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: サラワク州の緑濃い熱帯雨林の丘越しに遠くから見た、貯水池をせき止めるコンクリート製のムルム・ダム堤体と双子の余水吐き
+    kind: actual
+    origin: third-party
+    subject: 森林に覆われた丘越しに見た、サラワク州のムルム水力発電ダム
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 ボルネオの多雨山脈から流れ下る水は、いまやアルミニウム精錬所に電力を供給するタービンを回している——それこそがマレーシアの再生可能エネルギー戦略の核心である。しかしそこに至る道のりには、巨大ダム、数百平方キロメートルに及ぶ湖、そして移住を強いられた数千の先住民家族の跡が刻まれている。

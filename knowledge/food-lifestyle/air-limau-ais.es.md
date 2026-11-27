@@ -82,7 +82,14 @@ drinkFacts:
   origin: "Un refrescante básico de lima fresca de los mostradores mamak y kopitiam de Malasia, construido sobre las limas locales (calamansí/limau kasturi, limau nipis) más que sobre un único inventor. La versión limau asam boi añade ciruela agria seca para dar una profundidad agridulce y salada."
   halal: "Lima, azúcar y agua, sin alcohol, así que la bebida en sí es halal. La garantía halal corresponde al establecimiento, de modo que los comensales que necesiten certificación deben comprobarlo en cada puesto."
   served: "Se sirve frío sobre hielo, exprimido fresco; pide «kurang manis» si lo quieres menos dulce. Pídelo solo, o como limau asam boi con ciruela agria seca y una pizca de sal. Distinto del teh O ais limau, que es té de lima helado."
-  where: "Se encuentra en los locales mamak, kopitiam y puestos de bebidas de los hawker por todo el país —uno de los refrescantes de cada día más pedidos."
+  where: "Se encuentra en los locales mamak, kopitiam y puestos de bebidas de los hawker por todo el país —uno de los refrescantes de cada día más pedidos."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Un vaso de zumo de lima helado (air limau ais) con un gajo de lima fresca, visto desde arriba"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 Pide una bebida fría en casi cualquier mamak de Malasia y una respuesta nunca falla:

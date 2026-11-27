@@ -34,7 +34,7 @@ seoTitle: "Tulisan Jawi: Sejarah, Sistem, dan Kedudukannya Kini"
 socialTitle: "Aksara Arab yang menulis bahasa Melayu selama tujuh abad — kisah tulisan Jawi"
 
 lang: "id"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,34 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'Papan nama biru dongker dengan lambang kerajaan Terengganu dan tulisan ''Istana Maziah'' dalam aksara Jawi (Melayu beraksara Arab) berwarna emas'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: Dua halaman manuskrip teks Jawi yang berhadapan dibingkai iluminasi bunga emas, biru dan merah yang berhias
+    kind: actual
+    origin: third-party
+    subject: Halaman pembuka beriluminasi karya sastra Melayu Taj al-Salatin, ditulis tangan dalam aksara Jawi
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: Buku manuskrip tua yang terbuka dalam lemari pajangan, halaman-halamannya yang berhadapan penuh tulisan tangan aksara Jawi yang mengalir
+    kind: actual
+    origin: third-party
+    subject: Manuskrip terbuka Hukum Kanun Melaka (kitab undang-undang Melaka) yang ditulis dalam aksara Jawi, dipajang di museum
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 Pada sebuah prasasti batu yang ditemukan di Terengganu, terpahat kata-kata Melayu — bukan dalam huruf yang kita gunakan saat ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi bahasa Melayu. Prasasti itu, Batu Bersurat Terengganu, membawa tarikh 702 Hijrah, yang lazimnya dipadankan dengan tahun 1303 Masehi.

@@ -35,7 +35,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a7862eb1a54ab895"
+sourceContentHash: "79e0756680387d02"
 
 status: "published"
 aiAssisted: true
@@ -72,9 +72,37 @@ wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang electronics", "silicon valley of the east"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: 'The cream-coloured 1923 George Town Dispensary, a colonial-era corner heritage building with arched windows and shuttered facades, in George Town, Penang'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: A sunlit row of two-storey heritage shophouses with timber-shuttered windows and columned five-foot ways along a street in George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: A row of historic two-storey heritage terrace houses along a George Town street, Penang
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: Weathered wooden fishing boats moored beside a stilted waterfront house at the Chew clan jetty, looking across to the Weld Quay ferry terminal in George Town, Penang
+    kind: actual
+    origin: third-party
+    subject: Wooden boats and stilt houses at the Chew clan jetty on the George Town waterfront, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 Penang punches well above its size. It is one of Malaysia's smallest states by land

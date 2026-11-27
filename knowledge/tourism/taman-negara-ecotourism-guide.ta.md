@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 
 status: "published"
 aiAssisted: true
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'Pahang-இல் Kuala Tahan நுழைவாயிலைத் தளமாகக் கொண்டு, பண்டைய வெப்பமண்டல மழைக்காட்டைத் தேடும் பயணிகளுக்கு ஏற்றது — மரவுச்சி விதான நடைபாதை, காட்டுத் தடம்-நடப்பு, வனவிலங்கு மறைவிடங்கள் மற்றும் ஆற்றுப் பயணங்கள்.'
+  getThere: 'Pahang-இல் Jerantut-க்கு சாலை வழியாகப் பயணித்து, பின்னர் Kuala Tembeling துறைமுகத்திலிருந்து Sungai Tembeling வழியாக Kuala Tahan-க்கு படகில் செல்லுங்கள், நேரடி சாலை இணைப்பு மாற்று வழியாக உள்ளது.'
+  permit: 'ஒவ்வொரு பார்வையாளரும் துறைமுகம் அல்லது பூங்கா கவுண்டரில் வருகையில் PERHILITAN நுழைவு அனுமதிச்சீட்டுக்குப் பதிவு செய்து, தனி கேமரா உரிமம் செலுத்தி, Gunung Tahan ஏற்றத்திற்கு உரிமம் பெற்ற வழிகாட்டியைப் பயன்படுத்த வேண்டும்.'
+  watch: 'வடகிழக்கு பருவமழை ஆறுகளைப் பெருக்கி படகுகளையும் பாதைகளையும் சீர்குலைக்கலாம், விதான நடைபாதைகள் மூடல்களை எதிர்கொண்டுள்ளன, மேலும் அட்டைப்பூச்சிகளும் ஈரப்பதமும் நிலையானவை — அணுகலை உறுதிப்படுத்தி வழிகாட்டிகளை முன்பே முன்பதிவு செய்யுங்கள்.'
+  next: 'தற்போதைய அனுமதிச்சீட்டு மற்றும் நுழைவு விதிகளையும் கட்டணங்களையும் Taman Negara Pahang-இல் உள்ள Department of Wildlife and National Parks (PERHILITAN) அலுவலகத்துடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'Taman Negara-வில் நீல வானத்திற்குக் கீழே அடிவானம் வரை நீளும் அடர்த்தியான வெப்பமண்டல மழைக்காட்டின் உருளும் மலைகள்'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: Taman Negara-வில் உயரமான மழைக்காட்டு மரங்களுக்கு இடையே தொங்கவிடப்பட்ட, கயிறு மற்றும் பலகையாலான குறுகிய விதானப் பாதையைக் கடக்கும் ஒரு பார்வையாளர்
+    kind: actual
+    origin: third-party
+    subject: Taman Negara-வில் மழைக்காட்டு மர உச்சிகளில் உயரே விதானப் பாதை தொங்கு பாலம்
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: Taman Negara-வில் மலைகள் மீது மூடுபனியுடன் காடு மூடிய ஆற்றங்கரைக்கு அருகில் Tembeling ஆற்றில் மரத்தாலான நீள்படகுகள்
+    kind: actual
+    origin: third-party
+    subject: காலை மூடுபனியில் Taman Negara படகுத்துறையில் நீள்படகுகளுடன் Tembeling ஆறு
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 விடியற்காலையில் Kuala Tahan படகுத்துறையில் நின்று, இமயமலையை விடப் பழமையான ஒரு ஆற்றிலிருந்து மூடுபனி எழுவதைப் பார்க்கும்போது, நீங்கள் Kuala Lumpur-இலிருந்து அரை நாள் தூரத்தில்தான் இருக்கிறீர்கள் என்பதை மறந்துவிடுவது எளிது. Taman Negara என்பது செயற்கையாக உருவாக்கப்பட்ட ஈர்ப்பு அல்ல. இது பல கோடி ஆண்டுகளாக பெருமளவில் தொந்தரவின்றி நிலைத்திருக்கும் ஒரு உயிர்ப்புள்ள வெப்பமண்டல மழைக்காடு — அதனுள் நுழைவது கிட்டத்தட்ட எந்தப் பயணியும் எதிர்பார்ப்பதை விட மலிவானதும் எளிதானதும் ஆகும்.

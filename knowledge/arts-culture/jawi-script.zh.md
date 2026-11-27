@@ -36,7 +36,7 @@ socialTitle: "书写马来语七个世纪的阿拉伯字母——爪夷文的故
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -85,6 +85,34 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: '深藏青色招牌上饰有登嘉楼王室徽章，以金色爪夷文（源自阿拉伯字母的马来文）拼写着''Istana Maziah''（玛芝雅宫）字样'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: 两页相对的爪夷文（Jawi）手稿，四周环绕着华丽的金、蓝、红三色花卉泥金装饰
+    kind: actual
+    origin: third-party
+    subject: 马来文学作品《列王冠冕》（Taj al-Salatin）泥金装饰的开篇页，以爪夷文手写
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: 展示柜中一本泛黄的翻开手稿书，相对的两页布满流畅的手写爪夷文
+    kind: actual
+    origin: third-party
+    subject: 《马六甲法典》（Hukum Kanun Melaka）翻开的手稿，以爪夷文写成，在博物馆展出
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 在登嘉楼发现的一块石碑上，刻着马来语词句——不是用我们今天使用的字母，而是一种为马来语音调整过的阿拉伯字母。这块碑文，即登嘉楼碑文石（Batu Bersurat Terengganu），年代为回历702年，常被对应为公元1303年。

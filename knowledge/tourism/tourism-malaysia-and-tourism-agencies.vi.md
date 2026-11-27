@@ -78,9 +78,16 @@ relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-and-culture-motac" }
   - { rel: "governs", to: "tourism-industry-act-1992" }
   - { rel: "related-to", to: "sarawak-tourism-board" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "getting-around-malaysia-for-tourists", "department-of-national-heritage"]
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
 framework: profile
+hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'
+heroAlt: 'Một đài đá khắc dòng chữ ''Pusat Pelancongan Malaysia / Malaysia Tourism Centre'' cùng logo hoa dâm bụt MaTiC, phía trên một đài phun nước hình chum nhiều tầng được bao quanh bởi những cây cọ.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Khi một mẩu quảng cáo "Malaysia Truly Asia" đập vào mắt bạn, một cơ quan theo luật định đã trả tiền cho nó — nhưng một bộ khác lại quyết định liệu nhà điều hành tour đứng sau chuyến đi của bạn có được phép bán nó hay không. Du lịch Malaysia vận hành theo một sự phân công lao động, và việc biết ai làm gì tiết kiệm được rất nhiều sự bối rối.

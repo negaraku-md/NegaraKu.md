@@ -115,6 +115,34 @@ keywords:
   - "Selangor council licensing"
   - "Port Klang TEU"
 framework: profile
+hero: '/media/business/doing-business-selangor/hero.webp'
+heroAlt: 'Rows of tall blue ship-to-shore gantry cranes loading a container vessel at Northport in Port Klang, with stacked shipping containers and a container truck on the wharf road'
+heroCredit: 'Hafiz343 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Northport_Malaysia_Wharve.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Container cranes, a berthed container ship and stacked containers at Northport, Port Klang, Selangor''s main commercial gateway'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-selangor/body-1.webp
+    alt: The tall angular Wisma MBSA office tower beside the blue-domed Dataran Shah Alam building under a bright blue sky in Shah Alam, Selangor
+    kind: actual
+    origin: third-party
+    subject: Wisma MBSA office tower and Dataran Shah Alam in the Selangor state capital's commercial and administrative core
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC BY 1.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dataran_Shah_Alam_and_Wisma_MBSA.jpg
+  - role: scene
+    src: /media/business/doing-business-selangor/body-2.webp
+    alt: A multi-storey glass-and-white commercial office building with tall arched windows at Mentari Business Park in Selangor, viewed from the roadside
+    kind: actual
+    origin: third-party
+    subject: A commercial office block at Mentari Business Park in Bandar Sunway, part of Selangor's dense business-park belt
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mentari_Business_Park_Building.jpg
 ---
 
 Kuala Lumpur has one licensing authority. Selangor, which surrounds it, has twelve —

@@ -34,7 +34,7 @@ faq:
     a: "National Parks Act 1980-இன் Section 10 தேசியப் பூங்காவுக்குள் சுரங்கம் மற்றும் கனிமத் தேடலைத் தடைசெய்கிறது; மாநில அதிகார சபை, அமைச்சருடன் கலந்தாலோசித்த பிறகு, மிகவும் வளமான கனிமப் படிவு உள்ளதைக் கண்டறிந்தால் தவிர."
 
 lang: "ta"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,36 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'Endau-Rompin National Park-ல், இருகரைகளிலும் அடர்த்தியான பச்சை மழைக்காட்டைப் பிரதிபலிக்கும் அமைதியான காட்டாறு; பின்னால் உயரும் காட்டடர்ந்த மலைமுகடு'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: ராயல் பெலும் மாநிலப் பூங்காவில் நீல வானத்தின் கீழ் அமைதியான ஏரி நீருக்கு அப்பால் காடுகள் சூழ்ந்த மலைகளை நோக்கிப் படகின் முன்பகுதியில் இருந்து பார்க்கப்படும் தோற்றம்
+    kind: actual
+    origin: third-party
+    subject: ராயல் பெலும் மாநிலப் பூங்காவின் காடுகள் சூழ்ந்த கரைகளைப் படகில் ஆராய்தல்
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: சபா, கினபாலு பூங்காவில் முன்புறத்தில் ஒரு உயரமான வெறும் மரத்துடன் காடுகள் சூழ்ந்த மலைச்சரிவுகளில் இருந்து எழும் காலை மூடுபனி
+    kind: actual
+    origin: third-party
+    subject: சபா, கினபாலு பூங்காவில் மலைவாழ் மழைக்காட்டுக்கு மேல் உருவாகும் தாழ்ந்த மேகம்
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 “மலேசியாவின் தேசியப் பூங்கா” எங்கே உள்ளது என்று யாரிடமேனும் கேளுங்கள், அவர்கள் ஒரே ஒரு இடத்தைச் சுட்டிக்காட்டுவார்கள். உண்மையில், மலேசியாவில் ஒரே ஒரு தேசியப் பூங்கா இல்லை — அதற்கு முற்றிலும் தனித்தனியான மூன்று சட்ட முறைமைகள் உள்ளன; அவற்றுள் ஒன்று, “[Taman Negara](/ta/tourism/taman-negara-ecotourism-guide)” என்ற பெயரால் மிகவும் புகழ்பெற்ற இடத்தையே உள்ளடக்கவில்லை. இந்தச் சட்ட வரைபடத்தைப் புரிந்துகொள்வதே ஒரு பயணத்தைத் திட்டமிடுவதற்கும், ஆய்வு நடத்துவதற்கும், அல்லது 130 மில்லியன் ஆண்டுகள் பழமையான தனது மழைக்காடுகளை மலேசியா எவ்வாறு பாதுகாக்கிறது என்பதைப் புரிந்துகொள்வதற்கும் திறவுகோலாகும்.

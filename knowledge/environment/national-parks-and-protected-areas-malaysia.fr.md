@@ -34,7 +34,7 @@ faq:
     a: "L'article 10 de la loi sur les parcs nationaux de 1980 interdit l'exploitation minière et la prospection à l'intérieur d'un parc national, à moins que l'Autorité de l'État, après consultation du Ministre, ne détermine qu'il existe un gisement minéral si exceptionnellement riche."
 
 lang: "fr"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,36 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO", "parcs nationaux", "aires protégées", "loi sur les parcs nationaux 1980", "parc de Kinabalu", "parcs marins", "patrimoine mondial UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: 'Une rivière de jungle calme reflétant une forêt tropicale verte dense sur les deux rives avec une crête boisée s''élevant derrière, dans le parc national d''Endau-Rompin'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: Vue depuis la proue d'un bateau sur les eaux calmes d'un lac vers des collines boisées sous un ciel bleu, au parc d'État de Royal Belum
+    kind: actual
+    origin: third-party
+    subject: Exploration en bateau des rives boisées du parc d'État de Royal Belum
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: Brume matinale s'élevant des versants montagneux boisés avec, au premier plan, un grand arbre dénudé isolé, au parc de Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Nuages bas se formant au-dessus de la forêt tropicale de montagne au parc de Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 Demandez à n'importe qui où se trouve «le parc national de la Malaisie» et il désignera un seul endroit. En réalité, la Malaisie n'a pas un parc national unique — elle a trois systèmes juridiques entièrement distincts, et l'un d'eux ne couvre même pas le lieu le plus célèbre sous le nom de «[Taman Negara](/fr/tourism/taman-negara-ecotourism-guide)». Comprendre cette carte juridique est la clé pour planifier une visite, mener une recherche ou simplement saisir comment la Malaisie protège ses forêts tropicales vieilles de 130 millions d'années.

@@ -32,7 +32,7 @@ faq:
   - q: "¿Dónde se puede estudiar TCM?"
     a: "Varias instituciones de educación superior del país ofrecen hoy un programa de Licenciatura en Medicina China (con Honores), algunos de ellos acreditados por la Agencia de Cualificaciones de Malasia (MQA), por ejemplo el Southern University College en Skudai, Johor. Graduarse es solo el primer paso: para ejercer como practicante de TCM, aún hay que cumplir los requisitos de registro del Consejo de Medicina Tradicional y Complementaria. El estado de acreditación y los requisitos de admisión de cada programa deben tomarse del sitio web oficial de la institución y del registro oficial de la MQA."
 lang: "es"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["siddha-medicine", "chinese-dialects", "chinese-religion-in-malaysia", "population-composition"]
 keywords: ["马来西亚中医", "中药行", "中药店", "针灸", "推拿", "拔罐", "余仁生", "传统与辅助医药法令", "第775号法令", "传统与辅助医药理事会", "中医注册", "中医教育", "Traditional Chinese Medicine Malaysia", "T&CM Act 2016"]
 framework: history-culture
+hero: '/media/healthcare/traditional-chinese-medicine-in-malaysia/hero.webp'
+heroAlt: 'El interior de una tienda de medicina tradicional china en George Town, Penang, con cajones de hierbas etiquetados y hierbas medicinales secas.'
+heroCredit: 'OXLAEY.com / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: El escaparate de una clínica de medicina tradicional china que muestra una pared de cajones de hierbas, un modelo de acupuntura y carteles de tratamiento, que representa la práctica de la MTC
+    kind: representative
+    origin: third-party
+    subject: El escaparate de una tienda de medicina tradicional china con cajones de hierbas y cuadros de terapia
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: Hierbas medicinales chinas secas que se pesan en una balanza pequeña en el mostrador de una tienda de medicina tradicional china
+    kind: representative
+    origin: third-party
+    subject: Hierbas secas que se pesan en una balanza en una tienda de medicina china
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 En la esquina de muchos pueblos antiguos siempre hay una tienda de medicina china: la pared de armarios de madera está repleta de su retícula de pequeños cajones, y el aire es una mezcla de raíz de angélica (当归), piel de mandarina seca (陈皮) y regaliz (甘草); detrás del mostrador, un viejo maestro escucha al cliente describir dónde le duele mientras pesa los materiales medicinales uno a uno sobre papel kraft, y luego los envuelve en un único paquete. Tiendas como esta existen en las comunidades chinas de Malasia desde hace más de cien años.

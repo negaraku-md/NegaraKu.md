@@ -69,6 +69,12 @@ relations:
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
 framework: data-reference
+stayFacts:
+  who: '말레이시아로 이주하기 전에 서구권 급여와 지출 기준에 비추어 말레이시아의 생활비를 저울질하는 외국인 주재원, 원격 근무자 또는 이주 예정자를 위한 내용입니다.'
+  how: '지출을 두 바구니로 나눠 보세요. 현지에서 생산하거나 현지 인력이 담당하는 것 — 식비, 국내 교통, 기본 서비스, 공공 의료나 중급 민간 의료 — 은 서구권 기준에 비해 큰 폭으로 저렴해집니다. 반면 국제 기준으로 가격이 매겨지는 것 — 수입품과 전자기기, 최상급 민간 병원 진료, 국제 교육과정 학교, 도심 프리미엄 부동산 — 은 거의 저렴해지지 않습니다. 당신의 개인적인 체감 비용은 국가 평균이 아니라, 당신의 생활방식이 그 두 번째 바구니를 실제로 얼마나 필요로 하는지에 따라 결정됩니다.'
+  cost: '단일한 숫자는 없습니다 — 비용은 당신 자신의 바구니에 의해 좌우되고, 공식 평균 소득·지출·물가상승률 수치는 해마다 달라지므로, 인용된 특정 수치보다는 현재 DOSM 발표 자료를 참고하세요. MM2H 같은 장기 체류 비자 경로에는 별도의 재정 기준이 따로 있는데, 이는 매달의 일상 생활비가 얼마인지와는 다른 문제입니다.'
+  watch: '''말레이시아는 저렴하다''는 통념은 현지 가격이 매겨지는 바구니에 한해서만 성립합니다. 국제 학교, 최상급 민간 진료, 클랑밸리 프리미엄 부동산은 세계 시세를 따라가며 그 할인 폭을 지워 버릴 수 있습니다. 체류 비자의 재정 기준선은 매달의 생활비를 가늠하는 척도가 아닙니다.'
+  next: '교육, 원하는 의료 등급, 주거 지역 등 당신 자신의 바구니를 현재 현지 수치에 비추어 계산하고, 체류 비자 기준은 별도의 계산으로 남겨 둔 다음 결정하세요. MM2H 장기 체류 비자 해설과 생활비 개요를 참고하세요.'
 ---
 
 ## 한눈에 보기

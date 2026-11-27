@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué apoyo gubernamental existe para el sector de M&E?
     a: La M&E es una industria de alta tecnología prioritaria de MIDA elegible para incentivos de inversión, y es central en la política nacional de Industria 4.0 Industry4WRD, que ofrece subvenciones como el Fondo de Intervención Industry4WRD y el Fondo Estratégico de Inversión Nacional para las firmas que adoptan la automatización y la tecnología avanzada.
 lang: es
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -93,6 +93,32 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'Una nave de fábrica llena de máquinas herramienta CNC y trabajadores, típica de la fabricación de maquinaria y equipos.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: Maquinaria pesada de construcción, amarilla y parcialmente ensamblada, alineada dentro de una gran nave de fabricación industrial.
+    kind: representative
+    origin: third-party
+    subject: Planta de fabricación de maquinaria pesada (producción representativa de maquinaria industrial)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: Una línea de soldadura robotizada y automatizada que une grandes paneles de acero en una línea de montaje dentro de una fábrica de equipos pesados.
+    kind: representative
+    origin: third-party
+    subject: Línea de montaje con soldadura robotizada en una fábrica de equipos pesados (representativa)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 Toda fábrica funciona con máquinas, y esas máquinas tiene que construirlas alguien. La industria de maquinaria y equipos (M&E) es la parte de la manufactura que fabrica las líneas de producción, la maquinaria de proceso, las herramientas para trabajar metales, los sistemas de potencia y la automatización de los que depende cada *otra* industria. Es la gran industria menos visible de la economía y, precisamente por esa razón, una de las más estratégicamente importantes.

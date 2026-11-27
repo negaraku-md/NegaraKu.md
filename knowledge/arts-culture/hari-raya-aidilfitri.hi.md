@@ -35,7 +35,7 @@ faq:
     a: "रुमाह तरबुका वह प्रथा है जिसमें रिश्तेदारों, पड़ोसियों और दोस्तों को — अन्य नस्लों और धर्मों के लोगों सहित — शव्वाल की पूरी अवधि में आने, मिलने और भोजन का आनंद लेने के लिए आमंत्रित किया जाता है। यह मलेशिया में एक व्यापक सामाजिक विशेषता बन गई है, और इसे अक्सर सरकारी एजेंसियाँ और कंपनियाँ भी आयोजित करती हैं, न कि केवल निजी घरों में।"
 
 lang: "hi"
-sourceContentHash: "93ccc705ae0a9141"
+sourceContentHash: "6cc4925f3099d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,34 @@ festivalFacts:
   when: "चंद्र पंचांग में 1 Syawal; इसकी तिथि ग्रेगोरियन कैलेंडर पर प्रत्येक वर्ष लगभग 11 दिन पहले खिसकती है और चंद्रमा के दर्शन (rukyah) के माध्यम से निर्धारित की जाती है।"
   holiday: "पहला और दूसरा दिन पूरे मलेशिया में संघीय सार्वजनिक अवकाश के रूप में राजपत्रित है।"
   etiquette: "विभिन्न जातीय समुदायों के अतिथियों का rumah terbuka में स्वागत है; शालीन वस्त्र पहनें, और आमतौर पर घर में प्रवेश करने से पहले जूते उतार दें।"
+hero: '/media/arts-culture/hari-raya-aidilfitri/hero.webp'
+heroAlt: 'पेराक के आलोर पोंगसु में ऐदिलफ़ित्री की सुबह की नमाज़ के बाद दो मीनारों वाली गाँव की मस्जिद से निकलती उत्सवी बाजू मलायू पहने भीड़'
+heroCredit: 'PeaceSeekers / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pagi_hari_raya_Aidilfitri_2025_di_Alor_Pongsu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Worshippers in festive baju Melayu after Eid prayers at a village mosque in Perak'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-1.webp
+    alt: ताड़ के पत्तों से बुने हुए केतुपत पालस चावल के पैकेट, गोमांस रेंडांग की एक प्लेट के बगल में, जो मलेशिया में हरि राया ऐदिलफ़ित्री का एक पारंपरिक व्यंजन है
+    kind: actual
+    origin: third-party
+    subject: केतुपत पालस के साथ गोमांस रेंडांग, एक पारंपरिक हरि राया व्यंजन
+    credit: Emran Kassim / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_palas_with_rendang_daging.jpg
+  - role: scene
+    src: /media/arts-culture/hari-raya-aidilfitri/body-2.webp
+    alt: मलेशिया में हरि राया ऐदिलफ़ित्री के दौरान एक अँधेरे बगीचे में चमकदार लौ के साथ जलता हुआ बाँस का पेलीता तेल-दीपक
+    kind: actual
+    origin: third-party
+    subject: हरि राया के दौरान रात में जलता हुआ बाँस का पेलीता तेल-दीपक
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lit_up_bamboo_pelita.jpg
 ---
 
 रमज़ान की आख़िरी रात, पूरा देश मानो एक साथ हरकत में आ जाता है। उत्तर–दक्षिण एक्सप्रेसवे (North–South Expressway) घंटों जाम रहता है, बस अड्डे थैलों और कुकीज़ के डिब्बों से भरे रहते हैं, और शहरों से लेकर कम्पुंग (kampung) के दूर-दराज़ कोनों तक बरामदों में पेलिता (pelita) दीप जलाए जाते हैं। अगले दिन, 1 शव्वाल, रोज़ों का एक महीना समाप्त होता है — और मलेशिया हरि राया आइदिलफित्री मनाता है।

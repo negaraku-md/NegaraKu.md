@@ -42,7 +42,7 @@ verificationNeeded:
   - "Xác nhận ngày lễ đăng quang của Sultan Kedah thứ 29 so với hồ sơ chính thức của Istana Anak Bukit; trang chính thức của chính quyền bang chỉ nêu ngày tuyên bố."
 
 lang: "vi"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'Thánh đường Hồi giáo Zahir màu kem với cụm mái vòm hành đen lớn và một tháp minaret mảnh dẻ trên nền trời xanh quang đãng ở Alor Setar.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: Cầu trời Langkawi Sky Bridge cong vòng treo trên dây cáp vắt ngang hẻm núi rừng rậm trên đảo Pulau Langkawi thuộc Kedah.
+    kind: actual
+    origin: third-party
+    subject: Cầu trời Langkawi Sky Bridge, Kedah
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: Những cánh đồng lúa xanh phẳng trải dài đến tận chân trời dưới bầu trời rộng tại Pendang thuộc Kedah, vựa lúa của Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Đồng lúa tại Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 Vào năm 2024, các sản phẩm điện, điện tử và quang học đóng góp 51.1 phần trăm

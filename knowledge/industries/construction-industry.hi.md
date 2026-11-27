@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 एक नीति है जो Construction Industry Transformation Programme (CITP) 2016–2020 के समापन के बाद ICW 2021 में लॉन्च की गई। यह 2030 तक निर्माण क्षेत्र को डिजिटल युग की ओर रूपांतरित करने के लिए छह रणनीतिक धुरियाँ निर्धारित करती है, जिसमें उद्योग-चक्र के 50% के डिजिटलीकरण का लक्ष्य शामिल है।"
 
 lang: "hi"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["निर्माण उद्योग", "industri pembinaan", "CIDB", "ठेकेदार ग्रेड", "gred kontraktor", "G1 G7", "Akta 520", "ग्रीन कार्ड", "kad hijau", "ठेकेदार पंजीकरण", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'कुआलालंपुर में एक ऊँची इमारत के निर्माण स्थल की गहरी नींव खुदाई, जिसमें टावर क्रेन, लाल सहारा देने वाली छड़ें और मजदूर हैं, पीछे शहर की गगनचुंबी रेखा है।'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: मलेशिया के मध्य कुआलालंपुर में निर्माणाधीन एक ऊँची इमारत पर उठती टावर क्रेनें।
+    kind: representative
+    origin: third-party
+    subject: कुआलालंपुर में एक ऊँची इमारत का निर्माण स्थल
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: कुआलालंपुर के बुकित जलील के पास जालान कुडा एमास पर निर्माणाधीन एक प्रबलित-कंक्रीट सर्विस्ड अपार्टमेंट टावर।
+    kind: representative
+    origin: third-party
+    subject: कुआलालंपुर के बुकित जलील के पास सर्विस्ड अपार्टमेंट निर्माण
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 ठेकेदार पंजीकरण प्रमाणपत्र रखे बिना RM250,000 मूल्य की एक स्कूल बाड़ खड़ी करने की कोशिश करें, और आपकी परियोजना को तुरंत रुकने का आदेश दिया जा सकता है — पहला खंभा गाड़े जाने से भी पहले। मलेशिया में, निर्माण का अधिकार मशीनरी या श्रम से नहीं शुरू होता; यह एक अकेले पंजीकरण से शुरू होता है।

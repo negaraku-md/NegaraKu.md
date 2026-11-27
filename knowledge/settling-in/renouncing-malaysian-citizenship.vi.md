@@ -74,7 +74,7 @@ relations:
   - { rel: "governs", to: "malaysian-citizenship-by-descent" }
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
-related: []
+related: ["malaysian-citizenship-by-registration", "registering-a-malaysian-born-abroad", "immigration-department-jim"]
 keywords: ["melepaskan kewarganegaraan", "dwikewarganegaraan Malaysia", "Perkara 23", "Perkara 24", "Perlembagaan Persekutuan", "Borang K", "pelucutan kewarganegaraan", "JPN"]
 framework: explainer
 ---

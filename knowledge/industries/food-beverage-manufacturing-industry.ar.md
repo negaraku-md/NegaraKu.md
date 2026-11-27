@@ -31,7 +31,7 @@ faq:
   - q: "كيف يُنظَّم تصنيع الأغذية في ماليزيا؟"
     a: "تُحكَم سلامة الأغذية والوسم بقانون الأغذية 1983 ولوائحه الفرعية (مثل لوائح الأغذية 1985 ولوائح نظافة الأغذية 2009)، تديرها وزارة الصحة. أما ادعاءات الحلال فيُتحكّم فيها بشكل منفصل من قبل دائرة التنمية الإسلامية الماليزية (JAKIM)، التي تصدر الاعتماد الحلال الرسمي."
 lang: ar
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,34 @@ keywords:
   - "قانون الأغذية 1983"
   - "حوافز الأغذية MIDA"
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: 'آلاف الزجاجات الزجاجية الخضراء تتحرّك على ناقلات فولاذية ملتوية على خط تعبئة مصنع جعة'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: منظر علوي لمصنع تعبئة مشروبات في زجاجات يضم عدة خطوط ناقلة وآلات تغليف
+    kind: representative
+    origin: third-party
+    subject: منظر علوي للناقلات وآلات التغليف في مصنع تعبئة نبيذ قرب Geyserville، كاليفورنيا
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: عدة صوامع حبوب أسطوانية كبيرة ومبانٍ تخزين لمصنع لمعالجة الأغذية والخدمات اللوجستية بجانب سكك حديدية
+    kind: representative
+    origin: third-party
+    subject: صوامع وقاعات تخزين كبيرة لمصنع معالجة الحبوب الغذائية والخدمات اللوجستية في Bandel، الهند
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 يكاد كل شخص في ماليزيا يلامس هذه الصناعة عدة مرات يوميًا — كوب Milo في الفطور، وكيس نودلز سريعة التحضير في الغداء، وزجاجة ماء معدني بعد الظهر، ولوح شوكولاتة مصنوع من كاكاو طُحن في جوهور. فتصنيع الأغذية والمشروبات (F&B) إحدى صناعات البلاد الكبيرة الهادئة: أقلّ بريقًا من أشباه الموصلات، لكنه متجذّر بعمق في الحياة اليومية والأمن الغذائي الوطني وقصة تصدير متنامية مبنيّة على فكرة واحدة قوية — الحلال.

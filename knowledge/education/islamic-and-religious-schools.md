@@ -73,6 +73,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "sekolah agama", "tahfiz", "KAFA", "JAKIM", "pendidikan Islam", "sekolah agama rakyat", "jabatan agama negeri"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'Sebaris pelajar bertudung hitam dan berbaju kurung biru berjalan masuk ke Sekolah Menengah Agama Al-Maarif, sebuah sekolah menengah agama Malaysia, melepasi pokok kelapa.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: Bahagian luar yang tenang sebuah sekolah tahfiz di Batu Pahat, Johor, tempat pelajar menumpang asrama untuk menghafal al-Quran seiring dengan pelajaran mereka.
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: Bangunan sederhana sebuah sekolah rendah agama di Peringgit, Melaka, tempat kanak-kanak mengikuti pengajian Islam pada sesi petang.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Rendah Agama Peringgit, Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 Seorang kanak-kanak di Malaysia boleh menghabiskan pagi di sekolah kebangsaan, petang di kelas KAFA masjid, dan tahun-tahun remajanya di asrama tahfiz — tiga persekitaran pendidikan yang berlainan penyelia, kurikulum dan undang-undang. Aliran pendidikan agama Islam berjalan selari dengan sistem kebangsaan, tetapi ia bukan satu blok tunggal. Memahami siapa mendaftar apa, dan siapa bertanggungjawab atas apa, ialah kunci untuk membaca perbahasan awam tentang topik ini secara adil.

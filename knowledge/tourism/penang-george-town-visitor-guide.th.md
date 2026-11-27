@@ -36,7 +36,7 @@ faq:
     a: "ปีนังเป็นจุดหมายตลอดปีที่มีภูมิอากาศเขตร้อนร้อนชื้น ฝนอาจตกได้ทุกเดือนแต่มักตกหนักที่สุดในช่วงระหว่างมรสุม (ราวเดือนเมษายน–พฤษภาคม และกันยายน–พฤศจิกายน) ช่วงที่แห้งและเย็นกว่าราวเดือนธันวาคมถึงกุมภาพันธ์เป็นที่นิยม ยามเช้าและบ่ายแก่ ๆ เป็นเวลาที่สบายที่สุดในการเดิน"
 
 lang: "th"
-sourceContentHash: "d3f6eff7dfce43ca"
+sourceContentHash: "27ba8b4ff7b2dafc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,9 +82,41 @@ relations:
   - { rel: "located-in", to: "penang-state-profile" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "ipoh-and-the-kinta-valley", "langkawi-visitor-guide", "kuala-lumpur-visitor-guide", "melaka-heritage-visitor-guide"]
 keywords: ["Penang travel guide", "George Town UNESCO", "Penang street art", "Penang Hill funicular", "Penang hawker food", "George Town heritage core", "Batu Ferringhi", "things to do in Penang"]
 framework: explainer
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางที่ต้องการสำรวจแกนมรดก UNESCO ที่เดินเที่ยวได้ ทั้งตึกแถว บ้านตระกูล (clan houses) ศิลปะข้างถนนของ Ernest Zacharevic และอาหารหาบเร่หลากวัฒนธรรมด้วยการเดินเท้า'
+  getThere: 'บินเข้าสู่สนามบินนานาชาติ Penang ทางใต้ของ George Town หรือเข้าถึงเกาะทางบกผ่านสะพาน Penang Bridge และสะพาน Sultan Abdul Halim Muadzam Shah หรือนั่งเรือ Rapid Ferry จาก Butterworth สู่ริมน้ำ George Town'
+  watch: 'ควรมองศิลปะข้างถนนเป็นประตูสู่เรื่องราวมากกว่าเรื่องราวทั้งหมด เพราะบ้านตระกูล วัด และถนนตึกแถวคือสิ่งที่การขึ้นทะเบียน UNESCO คุ้มครองจริง ๆ'
+  next: 'ตรวจสอบตารางเวลาและกฎของรถรางไฟฟ้า (funicular) ปัจจุบันกับ Penang Hill Corporation'
+hero: '/media/tourism/penang-george-town-visitor-guide/hero.webp'
+heroAlt: 'The ornate carved and gilded facade of the Leong San Tong Khoo Kongsi clan temple in George Town, Penang, under a blue sky'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Leong-San-Tong-Khoo-Kongsi-01.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Leong San Tong Khoo Kongsi, George Town'
+images:
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-1.webp
+    alt: โคมไฟจีนสีแดงแขวนเหนือถนนอาร์เมเนียน (Armenian Street) ที่เรียงรายด้วยตึกแถวมรดกและคาเฟ่สีสันสดใสในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: ถนนอาร์เมเนียน จอร์จทาวน์
+    credit: RaffiKojian / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Armenian_street-penang-095749145.jpg
+  - role: scene
+    src: /media/tourism/penang-george-town-visitor-guide/body-2.webp
+    alt: แถวรถสามล้อถีบโดยสารประดับประดาสดใสด้วยดอกไม้และร่ม จอดเรียงรายหน้าอาคารมรดกในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: รถสามล้อถีบจอร์จทาวน์
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:George_Town,_Pulau_Pinang_(Penang)_Malaysia_-_54376984740.jpg
 ---
 
 ลงบนเกาะ ก้าวออกจากเครื่องปรับอากาศ และสิ่งแรกที่กระทบคุณคือกลิ่น ควันกระทะ ธูปจากวัดจีน ดอกลั่นทม และไอเค็มของช่องแคบมะละกา จอร์จทาวน์เป็นที่ที่คุณอ่านด้วยเท้า ผังตึกแถวอายุร้อยปีที่กะทัดรัด ที่ซึ่งมัสยิด บ้านตระกูล และโบสถ์อาณานิคมอาจอยู่ในบล็อกเดียวกัน คู่มือนี้ครอบคลุมสิ่งที่ควรชม ที่ที่ควรกิน วิธีไปถึงชายหาดและเนินเขา และควรให้เวลาแค่ไหนกับเมืองที่ให้รางวัลกับความช้า

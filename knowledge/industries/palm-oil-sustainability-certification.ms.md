@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 
 status: "published"
 aiAssisted: true
@@ -104,6 +104,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'Sebuah ladang kelapa sawit yang kemas dan terurus terbentang merentasi tanah hijau berbukit di bawah langit terang di Daerah Mersing, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: Dua pekerja ladang berkasut but berdiri di sebelah pokok kelapa sawit, seorang memegang tandan buah yang baru dipotong pada sabit penuai, di Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Pekerja ladang dengan tandan buah segar yang dituai di sebuah ladang kelapa sawit di Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: Barisan teratur anak benih kelapa sawit muda yang tumbuh dalam beg politena hitam di sebuah tapak semaian ladang di Sungai Mangis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Anak benih kelapa sawit yang disemai dalam beg politena di sebuah tapak semaian komersial di Sungai Mangis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 Satu penghantaran minyak sawit Malaysia kini terpaksa mematuhi tiga buku peraturan berbeza pada masa yang sama: skim kebangsaan mandatori di dalam negara, kelab pembeli sukarela di bilik lembaga, dan undang-undang penyahutanan Eropah yang boleh menghalangnya di pelabuhan. Bagi sebuah industri yang menghantar 22.30 juta tan minyak sawit dan produk berasaskan sawit dalam sepuluh bulan pertama 2024 sahaja — memperoleh RM89.39 bilion — kertas kerja bukan lagi satu formaliti. Ia adalah akses pasaran.

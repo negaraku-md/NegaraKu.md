@@ -30,7 +30,7 @@ faq:
     a: "ஆம், NFC நிரப்பும் வசதியைப் பயன்படுத்த விரும்பினால் வேண்டும். பதிவுச் செயல்பாட்டில் அடையாள சரிபார்ப்பு (KYC) அடங்கும்; இதனால் அட்டையின் இருப்பு உங்கள் eWallet கணக்குடன் இணைக்கப்படுகிறது — கண்டவர் யாராலும் இருப்பைப் பயன்படுத்த முடியும் என்ற பதிவு செய்யப்படாத அட்டையுடன் ஒப்பிடும்போது, அட்டை தொலைந்தால் இது கூடுதல் பாதுகாப்பு அடுக்கையும் வழங்குகிறது."
 
 lang: "ta"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'கொம்பாக் சுங்கச் சாவடியில் (Gombak Toll Plaza) ''Touch ''n GO'', ''MyRFID'' மற்றும் ''SmartTAG'' என்று எழுதப்பட்ட மேல்நிலைப் பாதை அறிகுறிகள் பணமில்லா சுங்கச் சாவடிகளைக் குறிக்கின்றன, சாலை முழுவதும் ''RFID'' வரையப்பட்டுள்ளது.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: சுங்கப் பாதையில் Touch 'n Go RFID முன் கண்ணாடிக் குறிச்சீட்டு, சுங்கச் சாவடியில் பாதைத் தடுப்பு மற்றும் மேல்நிலை RFID வாசிப்புச் சட்டத்துடன்
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், கோம்பாக் சுங்கச்சாவடி வளாகத்தில் MyRFID சுங்கப் பாதையில் வாசிக்கப்படும் Touch 'n Go RFID குறிச்சீட்டு
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: ரயில் நிலைய நுழைவாயிலில் தானியங்கி கட்டண வாயில்களின் வரிசை, ஒவ்வொரு வாயிலிலும் அட்டை வாசிப்பான்களும், பின்னால் ஒரு வணிக வளாகத்தின் நடைமண்டபமும் தெரிகிறது
+    kind: representative
+    origin: third-party
+    subject: KLCC LRT நிலையத்தில் Touch 'n Go போன்ற பயணஅட்டைகள் தொடப்படும் கட்டண வாயில்கள்
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 பலர் தங்கள் பணப்பையில் ஒரு Touch 'n Go அட்டையையும், தொலைபேசியில் Touch 'n Go eWallet செயலியையும் வைத்திருக்கிறார்கள்; இரண்டும் ஒரே பொருளின் இரு முகங்கள் என நினைக்கிறார்கள். அவை அல்ல. உங்கள் அட்டையிலுள்ள இருப்பும், செயலியிலுள்ள இருப்பும் முழுமையாகத் தனித்தனியாகச் சேமிக்கப்படுகின்றன — ஒன்றை முழுமையாக நிரப்பினாலும் மற்றொன்றுக்கு ஒரு சென் கூட சேர்க்காது. இந்தத் தவறான புரிதலே, "தொலைபேசியில் போதுமான பணம் இருக்கிறது" என்று ஓட்டுநர் நம்பிக்கையுடன் இருக்கும்போது சுங்க வளைவுகளில் வாகனங்கள் சிக்கிக்கொள்வதற்கு ஒரு பொதுவான காரணமாகும் — ஏனெனில் சுங்க இயந்திரம் உண்மையில் படிப்பது அட்டையையே.

@@ -36,7 +36,7 @@ faq:
     a: "กระทรวงเศรษฐกิจนำแผนในช่วงเปิดตัว โดยมีกระทรวงวิทยาศาสตร์ เทคโนโลยี และนวัตกรรม (MOSTI) และกระทรวงดิจิทัลเข้ามาเกี่ยวข้อง หน่วยงานดำเนินการที่ระบุรอบงานสุดยอดรวมถึง Cradle Fund สำหรับการสนับสนุนสตาร์ทอัพและหน้าต่างเดียว MRANTI สำหรับ Innovation Belt และ Khazanah Nasional สำหรับกองทุนของกองทุนระดับชาติ"
 
 lang: "th"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,35 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: อาคาร Exchange 106 และย่านการเงิน Tun Razak Exchange ในกัวลาลัมเปอร์ มองจากหอคอย KL Tower
+    kind: representative
+    origin: third-party
+    subject: อาคาร Exchange 106 และย่านการเงิน Tun Razak Exchange (TRX) ในกัวลาลัมเปอร์
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: เส้นขอบฟ้าของเมืองกัวลาลัมเปอร์พร้อมหอคอย KL Tower และอาคารสำนักงานสูงระฟ้าใต้ท้องฟ้าสีฟ้า
+    kind: representative
+    origin: third-party
+    subject: เส้นขอบฟ้าของเมืองกัวลาลัมเปอร์พร้อมหอคอย KL Tower และกลุ่มอาคารสำนักงานสูงระฟ้า
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'ตึกแฝดเปโตรนาสตั้งตระหง่านอยู่กลางเส้นขอบฟ้าใจกลางกรุงกัวลาลัมเปอร์ที่คมชัด โดยมีห้างสรรพสินค้าและสวนสาธารณะ KLCC อยู่เบื้องล่าง รายล้อมด้วยตึกระฟ้าภายใต้ท้องฟ้าแจ่มใส'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 ในเดือนเมษายน 2024 มาเลเซียหยุดพูดถึงสตาร์ทอัพของตนด้วยภาษาแห่งความหวัง และเริ่มพูดด้วยภาษาแห่งอันดับ คำเสนอนั้นตรงไปตรงมา: พากัวลาลัมเปอร์เข้าสู่ 20 ระบบนิเวศสตาร์ทอัพอันดับต้นของโลกภายในปี 2030 หรือยอมรับว่าประเทศได้ไหลเรื่อยมา

@@ -36,7 +36,7 @@ socialTitle: "கிளாந்தான் வழக்கு, வடக்க
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,32 @@ social:
 verificationNeeded:
   - "வட்டார வழக்குக் குழுக்களின் எண்ணிக்கையும் எல்லைகளும் வட்டார வழக்கியல் அறிஞர்களின் திட்டத்திற்கேற்ப வேறுபடுகின்றன (Ismail Hussein 1973-இன் நான்கு கூட்டங்கள்; Asmah Haji Omar-இன் ஏழு குழுக்கள்; இன்னும் விரிவான பட்டியல்) மேலும் முழுமையாக ஒருமித்தவை அல்ல. தரநிலை மலாய் மொழி 'ஜொகூர்-ரியாவ் அடிப்படையிலானது' என்ற நிலையும், தரநிலை உச்சரிப்புக்கும் ஜொகூர்-ரியாவ் உச்சரிப்புக்கும் இடையிலான கொள்கை வரலாறும் DBP-யின் அதிகாரப்பூர்வ வெளியீடுகளுடன் சரிபார்க்கப்பட வேண்டும். நெகிரி செம்பிலான் வழக்குக்கும் மினாங்கபாவ் மொழிக்கும் உள்ள தொடர்பு (குடிபெயர்ந்தோரின் வழித்தோன்றல் எதிர் தரநிலை மலாய் மொழியுடனான மொழியியல் நெருக்கம்) மேலும் பாபா மலாய் ஒரு கிரியோல் மொழியா என்ற நிலையும் அறிஞர்களிடையே இன்னும் விவாதப் பொருளாக உள்ளன."
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: 'பச்சைப் புல்வெளியில் அமைந்த, தூண்களின் மீது உயர்த்தப்பட்ட பாரம்பரிய பகாங் மலாய் மரவீடு, செங்குத்தான ஓட்டுக் கூரை, செதுக்கப்பட்ட முகப்புப் பலகை மற்றும் மேற்கூரையிட்ட மரப் படிக்கட்டுடன்.'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: ரூமா வாரிசான் ஹாஜி சு, கிழக்குக் கரை கோலாத் தெரங்கானு பாணியிலான ஒரு ஜோடி பாரம்பரிய மலாய் மரவீடுகள்.
+    kind: actual
+    origin: third-party
+    subject: தெரங்கானு பாரம்பரிய மலாய் வீடுகள் (ரூமா வாரிசான் ஹாஜி சு), கோலாத் தெரங்கானு
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: செரம்பானில் மாநில அருங்காட்சியக வளாகத்தில் காட்சிப்படுத்தப்பட்ட, மேல்நோக்கி வளைந்த மினாங்கபாவ் பாணி கூரைகளுடன் கூடிய பாரம்பரிய நெகிரி செம்பிலான் வீடுகள்.
+    kind: actual
+    origin: third-party
+    subject: செரம்பான் மாநில அருங்காட்சியகத்தில் மினாங்கபாவ் பாணி நெகிரி செம்பிலான் பாரம்பரிய வீடுகள்
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 கோட்டா பாருவிலிருந்து ஒருவர், அலோர் செட்டாரிலிருந்து ஒருவர், மற்றும் குச்சிங்கிலிருந்து ஒருவர் — இவர்கள் அனைவரும் தாங்கள் மலாய் மொழி பேசுவதாகச் சொல்லலாம்; ஆனால் அவர்கள் தத்தமது கிராமங்களில் சாதாரணமாகப் பேசும்போது, அதன் ஒலி ஒருவரை ஒருவர் புரிந்துகொள்ள சிறிது பழக்கப்படுத்தல் தேவைப்படும் அளவுக்கு மிகவும் வேறுபட்டிருக்கலாம். இந்த வேறுபாடுதான் வட்டார வழக்கு, அல்லது அன்றாட மொழியில் loghat என்று அழைக்கப்படுகிறது.

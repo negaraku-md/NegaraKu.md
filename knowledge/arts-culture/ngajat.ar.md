@@ -30,7 +30,7 @@ faq:
     a: "من بين الأنواع التي سجّلتها JKKN نغاجات ليسونغ (يؤديها الرجال وهم يعضّون على هاون خشبي)، ونغاجات إندو (تؤديها النساء بحركات تحاكي نسج بوا كومبو)، ونغاجات بوا كومبو (باستخدام قماش بوا كومبو)، ونغاجات نغيلينغ تيكاي التي تؤذن بانتهاء احتفال غاواي داياك."
 
 lang: "ar"
-sourceContentHash: "bc3c9b377ae4eddf"
+sourceContentHash: "c5a646d007d5caa1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["gawai-dayak", "sarawak"]
 keywords: ["نغاجات", "Ngajat", "رقصة نغاجات", "الإيبان", "Iban", "ساراواك", "Sarawak", "طائر الكركدن", "Burung Kenyalang", "يوم غاواي", "Hari Gawai", "البيت الطويل", "Ngajat Lesong", "Ngajat Indu", "pua kumbu"]
 framework: history-culture
+hero: '/media/arts-culture/ngajat/hero.webp'
+heroAlt: 'راقص إيباني ذكر بغطاء رأس ريشي وسترة من فراء الحيوان ومئزر أصفر بزخرفة طائر البوقير يندفع في منتصف وضعية، يلوّح بسيف طويل في يد ودرع خشبي منحوت في الأخرى، أمام خلفية مرسومة لبيت إيباني طويل في ساراواك تحت ضوء مسرح دافئ'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban''s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Male Iban dancer performing the ngajat warrior dance on a longhouse-motif stage, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/ngajat/body-1.webp
+    alt: شابة إيبانية بغطاء رأس سوغو تينغي فضي شاهق ومشدّ أسود مرصّع بالعملات تضع كلتا يديها في إيماءة مُدرا رقيقة قرب ذقنها، يحيط بها طوق خرزي بكرات برتقالية أمام مسرح أزرق داكن
+    kind: actual
+    origin: third-party
+    subject: راقصة إيبانية بكامل الزينة الاحتفالية في قرية ساراواك الثقافية، بورنيو، ماليزيا
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_folk_dancer_(28106128453).jpg
+  - role: scene
+    src: /media/arts-culture/ngajat/body-2.webp
+    alt: صف من الراقصات الإيبانيات بأغطية رأس فضية على شكل تيجان وبلوزات خرزية حمراء وتنانير بشراشيب من العملات يتحرّكن في انسجام عبر مسرح مهرجان مضاء، كل منهن تحمل قطعة قماش حمراء صغيرة، مع متفرجين تظهر صورهم الظلية في المقدمة
+    kind: actual
+    origin: third-party
+    subject: فرقة من الراقصات الإيبانيات يؤدّين رقصة سايو نغاجات على مسرح مهرجان، ماليزيا
+    credit: Effionie Ronnie / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sayau_Ngajat_Iban.jpg
 ---
 
 في رواق بيت طويل في ساراواك، يقفز رجل يعتمر ريش طائر الكركدن على رأسه ويدور ويدقّ الأرض بقدمه — بسيف في يد ودرع في الأخرى. هذه هي **نغاجات**، الرقصة التي كانت تستقبل المحاربين العائدين من ساحة المعركة.

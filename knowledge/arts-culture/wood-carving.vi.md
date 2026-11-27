@@ -33,7 +33,7 @@ faq:
     a: "Nguyên tắc thiết kế awan larat cổ điển quả thực tránh khắc họa hình người hay động vật làm yếu tố chính của họa tiết. Tuy nhiên điêu khắc gỗ Mã Lai cũng có một loại họa tiết động vật riêng — như hình gà, tê giác và vịt — được dùng tách biệt khỏi họa tiết awan larat lặp lại."
 
 lang: "vi"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: 'Một tấm gỗ hình chữ nhật đóng khung sẫm màu được chạm khắc đục lộng với họa tiết lá uốn lượn đối xứng, những tua lá cuộn và dây leo theo phong cách awan larat của người Mã Lai, gắn trên một bức tường bảo tàng nhạt màu'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: Một chiếc bục giảng minbar gỗ cầu kỳ trong nhà thờ Hồi giáo với mái vòm mạ vàng cao chạm khắc và chạm lộng những họa tiết lá vàng cùng một chóp đỉnh có mào, vươn lên trên một cầu thang chạm khắc màu đỏ pha vàng trên tấm thảm cầu nguyện màu xanh
+    kind: actual
+    origin: third-party
+    subject: chiếc bục giảng minbar gỗ mạ vàng chạm khắc tinh xảo của Nhà thờ Hồi giáo Tengkera (Tranquerah) ở Melaka, Malaysia
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: Một dải chạm lộng hình lá cuộn như ngọn lửa chạy dọc tấm ván diềm mái gỗ bên dưới mái của một ngôi nhà Mã Lai truyền thống ốp ván màu nâu, được bao quanh bởi tán lá xanh và bầu trời
+    kind: actual
+    origin: third-party
+    subject: một tấm ván diềm mái chạm lộng (papan kerawang) viền đường mái của một ngôi nhà gỗ Mã Lai truyền thống ở Hulu Langat, Selangor
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 Hãy nhìn thật kỹ vào tấm ván gỗ ở cửa sổ một ngôi nhà Mã Lai cổ, và thử tìm xem họa tiết của nó bắt đầu từ đâu. Bạn sẽ không tìm thấy. Đó không phải lỗi ở mắt bạn — nó vốn được thiết kế như vậy.

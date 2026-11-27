@@ -20,7 +20,7 @@ keyTakeaways:
   - "การเข้าเรียนก่อนกำหนด (อายุต่ำกว่าเกณฑ์) และการเลื่อนเข้าชั้นปีที่ 1 ต่างมีอยู่เป็นนโยบายทางการแยกกัน — คำขอทำผ่าน JPN ไม่ใช่ผ่านระบบ idMe ปกติ และการเลื่อนเข้าเรียนเป็นเอกสิทธิ์ (privilege) ไม่ใช่สิทธิโดยอัตโนมัติ"
 appliesTo: "ผู้ปกครองหรือผู้ดูแลที่เป็นพลเมืองมาเลเซียซึ่งบุตรกำลังจะเข้าชั้นปีที่ 1 ของโรงเรียนประถมรัฐบาลหรือชั้นมัธยมปีที่ 1 ของโรงเรียนมัธยมรัฐบาล"
 lang: "th"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["pendaftaran tahun 1", "idme moe gov my", "umur masuk sekolah rendah", "eDaftar Menengah APDM", "BPPS tingkatan 1", "sekolah kerajaan Malaysia", "akta pendidikan 1996", "penangguhan tahun 1"]
 framework: how-to
+hero: '/media/education/enrolling-in-a-government-school/hero.webp'
+heroAlt: 'อาคารหลายชั้นสีชมพูของ Sekolah Kebangsaan Kota Warisan ในเซอปัง รัฐเซอลาโงร์ มีป้ายชื่อโรงเรียนบนด้านหน้าอาคารและบริเวณที่มีรั้วล้อมเลียบถนน'
+heroCredit: 'Gary7660 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: อาคารเรียนหลักของโรงเรียนประถมแห่งชาติในอาเยร์เกอโรห์ รัฐมะละกา ซึ่งเป็นโรงเรียนรัฐบาลประเภทที่ครอบครัวส่วนใหญ่ลงทะเบียนให้บุตรหลานเข้าเรียน
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh รัฐมะละกา
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: ทางเดินมีหลังคาขนาบด้วยธงชาติมาเลเซียทอดไปสู่ประตูโรงเรียนรัฐบาล เป็นเส้นทางที่นักเรียนใหม่เดินในวันลงทะเบียนวันแรก
+    kind: representative
+    origin: third-party
+    subject: ทางเดินเข้าที่มีธงเรียงรายสู่โรงเรียนรัฐบาลมาเลเซีย
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 ผู้ปกครองจำนวนมากประหลาดใจเมื่อพบว่าตนเอง "ลงทะเบียน" บุตรเข้าชั้นมัธยมปีที่ 1 แบบเดียวกับที่เคยลงทะเบียนชั้นปีที่ 1 ไม่ได้ ไม่มีแบบฟอร์มออนไลน์ให้กรอกเอง ไม่มีพอร์ทัลให้เข้าสู่ระบบ เหตุผลนั้นง่าย: การศึกษาสองระดับของโรงเรียนรัฐบาลนี้ใช้สองระบบที่แตกต่างกันโดยสิ้นเชิง และการสับสนระหว่างทั้งสองคือสาเหตุที่พบบ่อยที่สุดที่ทำให้ผู้ปกครองสงสัยว่าทำไม "หาการลงทะเบียนของลูกไม่เจอเลย"

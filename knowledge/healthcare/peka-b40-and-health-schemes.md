@@ -64,6 +64,32 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'Sebuah klinik kesihatan kerajaan Malaysia moden dengan ruang menunggu luar, jenis Klinik Kesihatan tempat pemeriksaan skim kesihatan B40 dijalankan.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: Bahagian luar Klinik Kesihatan Nilai, sebuah klinik kesihatan awam Kementerian Kesihatan Malaysia yang memberi perkhidmatan kepada komuniti
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai, sebuah klinik kesihatan kerajaan Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: Bahagian hadapan Klinik Kesihatan Tanglin di Kuala Lumpur, sebuah klinik kesihatan awam kerajaan Malaysia
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin, sebuah klinik kesihatan kerajaan di Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 Ramai dengar nama "PeKa B40" tetapi anggapannya berbeza-beza — ada yang

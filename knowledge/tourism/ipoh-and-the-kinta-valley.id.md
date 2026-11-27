@@ -38,7 +38,7 @@ faq:
     a: "Cara paling sederhana adalah kereta listrik KTM ETS dari KL Sentral, yang mencapai Ipoh dalam sekitar dua hingga dua setengah jam bergantung pada layanan, dengan opsi ekspres lebih cepat yang diperkenalkan pada 2024 (Wikipedia; Malay Mail). Menyetir di Jalan Tol Utara-Selatan memakan waktu serupa. Konfirmasikan jadwal dan tarif terkini dengan KTMB sebelum Anda bepergian."
 
 lang: "id"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,39 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'Cocok untuk pelancong warisan dan kuliner serta keluarga yang menginginkan Kota Tua kolonial yang mudah dijelajahi dengan berjalan kaki, kuil gua batu kapur, dan kancah kuliner kopitiam Perak yang terkenal.'
+  getThere: 'Capai Ipoh dengan kereta listrik KTM ETS dari KL Sentral ke stasiun Kota Tua, atau berkendara melalui Lebuhraya Utara-Selatan; bus ekspres juga melayani kota ini.'
+  permit: 'Kuil gua adalah tempat ibadah yang aktif, jadi berpakaianlah sopan (tutup bahu dan lutut) dan jagalah ketenangan di dalamnya.'
+  watch: 'Terlepas dari narasi pariwisata yang longgar, Lembah Kinta adalah geopark nasional, bukan UNESCO Global Geopark.'
+  next: 'Konfirmasikan jadwal dan tarif kereta api terkini dengan KTMB sebelum bepergian.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'Pemandangan Padang hijau Ipoh dan pusat kota bersejarah dengan bukit kapur bergerigi menjulang di belakang di bawah langit biru berkabut'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Taman tertata dengan kolam dan semak berbunga yang terletak di antara tebing kapur karst berhutan di Kek Lok Tong, Ipoh
+    kind: actual
+    origin: third-party
+    subject: Taman tepi danau kuil gua Kek Lok Tong yang dikelilingi tebing kapur menjulang di selatan Ipoh
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: Fasad berkolom bata merah lapuk Kellie's Castle dengan lengkungan Moor berlatar langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, rumah besar kolonial bergaya Moor yang belum selesai di Batu Gajah, Lembah Kinta
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Timah membentuk Ipoh, lalu nyaris membubarkannya. Sebuah desa di Sungai Kinta berubah menjadi salah satu kota terkaya Malaya Britania berkat bijih yang terkubur di bawah Lembah Kinta, membangun untuk dirinya sebuah pusat kolonial yang megah, lalu menyaksikan uang itu mengalir pergi ketika harga timah runtuh. Yang dipertahankannya adalah arsitektur, bukit batu kapur yang bersarang kuil gua, dan dapur yang luar biasa baik. Kini Ipoh adalah liburan singkat kota warisan dan kuliner yang paling nyaman di Malaysia — cukup dekat ke Kuala Lumpur untuk kunjungan sehari, cukup kaya untuk sepadan diberi akhir pekan. Panduan ini mencakup lanskap dan sejarah yang membentuknya, apa yang bisa dilihat di dalam dan sekitar kota, kuliner secara ringkas, serta hal-hal praktis untuk ke sana.

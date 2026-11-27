@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,32 @@ faq:
   - q: Apakah yang diperingati pada Hari Wesak? Adakah ia cuti umum?
     a: Wesak (Hari Wesak) memperingati kelahiran, pencerahan dan pemergian Buddha ke nirvana, dan merupakan cuti umum di seluruh negara di Malaysia. Penganut pergi ke kuil untuk mempersembahkan bunga, menyalakan pelita dan memberi sedekah. Kebebasan beragama dilindungi oleh Perkara 11 Perlembagaan Persekutuan; walaupun Perkara 3 menetapkan Islam sebagai agama Persekutuan, ia tidak menghalang agama lain daripada diamalkan dengan aman.
 framework: history-culture
+hero: '/media/arts-culture/buddhism-in-malaysia/hero.webp'
+heroAlt: 'Tokong Buddha Kek Lok Si di lereng bukit di Pulau Pinang, dengan bumbung berjubin emas yang melengkung luas, teres bertingkat dihiasi tanglung merah dan air pancut pagoda di laman.'
+heroCredit: 'This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: Fasad dan bumbung bersadur emas serta berjubin sebuah tokong Buddha Thai yang indah berlatarkan langit biru di Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Wat Chaiya Mangkalaram, sebuah tokong Buddha Theravada Thai di George Town, Pulau Pinang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: Patung Buddha duduk dikelilingi timbunan bunga kekwa kuning, putih dan merah jambu di atas sebuah pelampung perayaan Wesak
+    kind: actual
+    origin: third-party
+    subject: Patung Buddha berhias bunga di atas pelampung Hari Wesak di Wat Nikrodharam, Alor Setar, Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 Di lereng bukit Pulau Pinang, bayang pagoda Kek Lok Si meninjau Georgetown; di

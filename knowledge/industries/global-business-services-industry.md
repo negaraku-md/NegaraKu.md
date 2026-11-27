@@ -97,6 +97,32 @@ keywords:
   - Malaysia Digital
   - offshoring
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'A modern corporate office building in Cyberjaya, one of Malaysia''s main hubs for technology and global business services.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: A modern mid-rise glass-and-concrete corporate office building in the Cyberjaya business park, Selangor, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Corporate office building in Cyberjaya, Malaysia's global-services hub
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Rows of agents at computer workstations across a very large open-plan call-centre floor.
+    kind: representative
+    origin: third-party
+    subject: Large call-centre office floor (representative shared-services/BPO workplace)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 Somewhere in Cyberjaya or Kuala Lumpur right now, an accountant is closing the monthly books for a company headquartered in London, a help-desk agent is resolving a ticket for a customer in Sydney, and a data analyst is building a dashboard for a factory in Germany. None of those employers manufactures anything in Malaysia. What they run here is something less visible but increasingly valuable: their global back office.

@@ -34,7 +34,7 @@ faq:
     a: "Akses Pihak Ketiga (TPA) memungkinkan pengangkut yang layak, bukan hanya PETRONAS, memesan kapasitas pada terminal regasifikasi, pipa transmisi, dan pipa distribusi dengan syarat yang sama. Ini dimulai pada 16 Januari 2017 di bawah Akta Bekalan Gas (Pindaan) 2016 dan diregulasi oleh Suruhanjaya Tenaga."
 
 lang: "id"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,32 @@ relations:
 related: ["petronas"]
 keywords: ["natural gas Malaysia", "LNG Malaysia", "Bintulu LNG", "Peninsular Gas Utilisation", "PGU pipeline", "regasification terminal", "Third Party Access", "Malaysia Reference Price"]
 framework: explainer
+hero: '/media/energy/natural-gas-lng-malaysia/hero.webp'
+heroAlt: 'Terminal pemuatan gas alam cair lepas pantai dengan sistem pipa dan dermaga di atas perairan pantai yang dangkal di Bintulu, Malaysia.'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: Sebuah kapal pengangkut gas alam cair berukuran besar sedang berlayar di perairan terbuka, geladak panjangnya dipenuhi struktur tangki kargo berinsulasi besar dan jaringan pipa, meninggalkan jejak air di bawah langit cerah
+    kind: representative
+    origin: third-party
+    subject: Sebuah kapal pengangkut gas alam cair jenis yang mengirim LNG Malaysia ke pembeli luar negeri
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: Sebuah terminal pemrosesan gas darat yang luas dengan kolom distilasi tinggi, bola penyimpanan perak, cerobong suar, dan jalinan pipa yang rapat, berdiri di lahan pesisir yang telah dibuka dengan perbukitan di belakangnya
+    kind: actual
+    origin: third-party
+    subject: Terminal Minyak dan Gas Sabah (SOGT) di Kimanis, Sabah, sebuah fasilitas pemrosesan gas darat milik Petronas
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 Setiap kali sebuah pembangkit listrik di Selangor mulai beroperasi atau sebuah pabrik sarung tangan di Pulau Pinang memanaskan tungku, gas itu kemungkinan besar memulai perjalanannya beratus-ratus kilometer jauhnya, di lepas pantai Terengganu atau melintasi Laut China Selatan di Sarawak. Malaysia sekaligus merupakan pengekspor gas berat serta, semakin lama, pengimpor gas, dan pipa serta terminal yang mendamaikan kedua kenyataan ini adalah salah satu aset energi paling bernilai di negara ini.

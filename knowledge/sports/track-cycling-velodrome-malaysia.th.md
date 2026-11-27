@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang ผู้ชนะสองเหรียญโอลิมปิก (ทองแดง 2016 เงิน 2020) และแชมป์โลกเคอิริน 2017"
 
 lang: "th"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q120467697"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "azizulhasni-awang" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-venues", "national-sports-council-msn"]
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'ผนังด้านหน้าทรงเหลี่ยมสีแดง เทา และขาวของเวโลโดรมแห่งชาติในนีไล ตั้งตระหง่านเหนือลานจอดรถที่ว่างเปล่า'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: ลู่ไม้รูปวงรีที่เอียงลาดสนามด้านในและอัฒจันทร์ที่แน่นขนัดภายในเวโลโดรมในร่มระหว่างการแข่งขันจักรยานลู่ชิงแชมป์โลก
+    kind: representative
+    origin: third-party
+    subject: ภายในเวโลโดรมในร่มระหว่างการแข่งขันจักรยานลู่ชิงแชมป์โลก
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: นักปั่นจักรยานลู่สองคนบนจักรยานแอโรที่ติดล้อดิสก์แข่งเคียงข้างกันพุ่งขึ้นบนพื้นไม้สีน้ำเงินแดงที่เอียงลาดชันของเวโลโดรม
+    kind: representative
+    origin: third-party
+    subject: นักปั่นสปรินต์ลู่แข่งความเร็วบนพื้นไม้ลาดเอียงของเวโลโดรม
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 สนามมีหลังคายาวที่ขอบเมืองนีไลตอนนี้เป็นที่ที่นักจักรยานที่เร็วที่สุดของมาเลเซียขัดเกลาการวิ่งของตน และมันถูกสร้างขึ้นโดยเฉพาะเพื่อผลิตแชมป์จักรยานลู่โลกให้มากขึ้น

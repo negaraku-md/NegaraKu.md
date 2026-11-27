@@ -19,7 +19,7 @@ keyTakeaways:
   - "วิทยาลัยชุมชนมุ่งเน้นประกาศนียบัตรระดับต่ำกว่าโดยมีการรับเข้าที่ยืดหยุ่นกว่า ขณะที่โพลีเทคนิคมุ่งเน้นอนุปริญญา — ทั้งสองกำกับโดย JPPKK ภายใต้กระทรวงการอุดมศึกษา"
 appliesTo: "นักเรียนหลังชั้นมัธยมปีที่ 3 หรือ SPM ผู้ปกครองที่วางแผนอาชีพให้บุตร และคนทำงานผู้ใหญ่ที่ต้องการรับรองทักษะที่มีอยู่ผ่าน SKM"
 lang: "th"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'ทางเข้าและป้ายของ Kolej Vokasional Sungai Buloh วิทยาลัยอาชีวศึกษาของมาเลเซียสำหรับการฝึกอบรมด้านเทคนิคและทักษะ (TVET)'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: โถงกลางมีหลังคาของ Montfort Youth Training Centre วิทยาเขตฝึกทักษะอาชีพในกีนารุต รัฐซาบะฮ์ มีป้ายผ้าบนเวทีเขียนว่า 'Through Work Achieve Success'
+    kind: actual
+    origin: third-party
+    subject: ภายในศูนย์ฝึกทักษะเยาวชนของมาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: ทางเดินเข้ามีหลังคาทรงโค้งและอาคารวิชาการทันสมัยที่ Politeknik Kota Kinabalu ในรัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: วิทยาเขตโพลีเทคนิค (Politeknik) ของมาเลเซีย (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 นักเรียนชั้นมัธยมปีที่ 3 และผู้ปกครองจำนวนมากเห็นเพียงเส้นทางเดียวหลังจบมัธยม: SPM, STPM, ปริญญา แต่ประเทศนี้แท้จริงแล้วดำเนินระบบการศึกษาที่ครบถ้วนอีกระบบหนึ่ง — โดยมีสถาบันของตนเอง ประกาศนียบัตรของตนเอง และกฎหมายของตนเอง — ที่ไม่ค่อยได้รับการอธิบายอย่างถูกต้อง: TVET หรือการศึกษาและฝึกอบรมด้านเทคนิคและอาชีวศึกษา

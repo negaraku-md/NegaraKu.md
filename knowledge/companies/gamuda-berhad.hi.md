@@ -32,7 +32,7 @@ faq:
     a: "इसके मुख्य विदेशी बाज़ार निर्माण के लिए ऑस्ट्रेलिया और ताइवान हैं, और संपत्ति के लिए वियतनाम, यूके, सिंगापुर और ऑस्ट्रेलिया हैं।"
 
 lang: "hi"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda ऑर्डर बुक", "Gamuda order book", "MRT सुरंग खनन", "MRT tunnelling", "Gamuda Land", "मलेशिया निर्माण", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda ताइवान MRT"]
 framework: profile
+hero: '/media/companies/gamuda-berhad/hero.webp'
+heroAlt: 'गामुडा गार्डन्स टाउनशिप में जाती एक घुमावदार सड़क के किनारे तिरछी लकड़ी की पट्टियों के सामने ऊँचे सफ़ेद अक्षरों में GAMUDA लिखा एक बड़ा मूर्तिकलात्मक प्रवेश साइन'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: बड़े सफ़ेद अक्षरों में GAMUDA GARDENS पढ़ा जाने वाला प्रवेश स्मारक, हरे अश्रु-बूँद लोगो के साथ, मूर्तिकला लकड़ी के खंभों और हरियाली के विरुद्ध स्थापित
+    kind: actual
+    origin: third-party
+    subject: Rawang, सेलांगोर में टाउनशिप प्रवेश स्मारक पर GAMUDA GARDENS वर्डमार्क और अश्रु-बूँद लोगो
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: Kwasa Damansara MRT स्टेशन की ओर जाती ऊँची Mass Rapid Transit रेलवे पटरी, धूसर कंक्रीट पुलिया के खंभे और एक छतरीदार प्लेटफ़ॉर्म के साथ, चमकीले बादल भरे आसमान के नीचे
+    kind: representative
+    origin: third-party
+    subject: Kwasa Damansara MRT स्टेशन, Klang Valley MRT लाइनों पर एक ऊँचा स्टेशन जिसके भूमिगत कार्य MMC-Gamuda (Gamuda Berhad के रेल-इंजीनियरिंग संयुक्त उद्यम) द्वारा किए गए
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda ने एक मलेशियाई एक्सप्रेसवे से शुरुआत की और क्षेत्र के सबसे बड़े सुरंग खनन और रेल ठेकेदारों में से एक बन गई। आज, इसके काम का बढ़ता हुआ हिस्सा मलेशिया के बाहर है।

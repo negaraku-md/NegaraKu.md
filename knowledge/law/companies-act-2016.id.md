@@ -86,6 +86,7 @@ relations:
 related: ["ssm", "register-sdn-bhd", "sdn-bhd", "directors-duties", "annual-return"]
 keywords: ["Akta Syarikat 2016", "Akta 777", "Akta A1701", "undang-undang korporat Malaysia", "kerangka undang-undang SSM"]
 framework: data-reference
+wikidata: "Q142235973"
 ---
 
 Halaman ini adalah rekaman statuta bagi Act 777 — identitas, administrasi dan rantai

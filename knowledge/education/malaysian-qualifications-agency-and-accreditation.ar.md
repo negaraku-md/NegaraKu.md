@@ -32,7 +32,7 @@ faq:
     a: "نعم. البرامج التي يقدّمها أي مزوّد للتعليم العالي يعمل في ماليزيا، بما في ذلك الفروع الأجنبية، تخضع لضمان الجودة بموجب الإطار MQF وتظهر في سجل MQR. وتحمل بعض الجامعات العريقة صفة الاعتماد الذاتي، التي تخوّلها اعتماد برامجها بنفسها وفق الإطار MQF وتسجيل تلك البرامج في سجل MQR."
 
 lang: "ar"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "الإطار الوطني للمؤهلات الماليزية", "Malaysian Qualifications Framework", "MQF", "MQR", "اعتماد الدرجات العلمية في ماليزيا", "الاعتماد المؤقت", "الاعتماد الكامل"]
 framework: profile
+stayFacts:
+  who: 'هذا موجَّه إلى الطلاب المرتقبين وأولياء الأمور وأصحاب العمل الذين يتحقّقون مما إذا كان مؤهّل ماليزي بعد الثانوية معترفاً به رسمياً.'
+  how: 'ابحث مجاناً في السجلّ الماليزي للمؤهّلات (MQR) باسم البرنامج ومستواه والحرم الذي يقدّمه بالضبط، وتأكّد من أنه حائز على اعتماد مؤقّت أو كامل. أما الاعتراف لممارسة مهنة منظَّمة أو للعمل في القطاع العام فيُتحقَّق منه على حدة لدى الجهة المعنية.'
+  cost: 'البحث في السجلّ الماليزي للمؤهّلات (MQR) مجاني؛ أما الاعتراف الذي قد تعوّل عليه — رخصة مهنية، أو وظيفة حكومية، أو دراسة في الخارج — فقد يتطلّب كلٌّ منه تحقّقاً منفصلاً لدى جهته الخاصة.'
+  watch: 'الاعتماد يرتبط بالبرنامج وسنة الالتحاق المحدَّدين، لا بالمؤسسة — فجامعة مرموقة قد تدير مع ذلك برنامجاً جديداً أو مؤقّت الاعتماد أو غير مدرَج. وادّعاء كتيّب دعائي بأن البرنامج «معتمَد من MQA» ليس هو السجلّ؛ تحقّق من القيد الفعلي بنفسك، وانتبه إلى أن الاعتماد المؤقّت مشروع لا أقلّ درجة.'
+  next: 'ابحث عن برنامجك بالضبط في السجلّ الماليزي للمؤهّلات (MQR) قبل دفع أي عربون؛ ولممارسة مهنة منظَّمة، أكِّد مسار الخرّيج لدى الهيئة المهنية المعنية. راجع مقال قبل دفع عربون الكلية.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'لوحة اسم مثبّتة على جدار مكسوّ بالحجر تحمل الشعار وعبارة "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia".'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: أكاديميون بالأثواب الاحتفالية يمنحون درجة علمية على المنصّة خلال حفل تخرّج في Universiti Kebangsaan Malaysia.
+    kind: representative
+    origin: third-party
+    subject: حفل تخرّج خاص لمنح درجة علمية في Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: مبنى رئاسة الجامعة المنحني Canselori Putra في Universiti Putra Malaysia بجوار ساحة منسّقة.
+    kind: representative
+    origin: third-party
+    subject: مبنى رئاسة الجامعة (القاعة الإدارية) في Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 يتخرّج طالبان بدبلوم يبدو اسمه واحداً. أحدهما يتأهل لوظيفة حكومية ومقعد في الماجستير؛ والآخر يُرَدّ عند الباب. وكثيراً ما يكمن الفرق في سطر واحد في سجل عام: ما إذا كانت وكالة المؤهلات الماليزية قد اعتمدت البرنامج.

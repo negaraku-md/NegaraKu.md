@@ -67,7 +67,7 @@ wikidata: "Q2750770"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
-related: []
+related: ["ministry-of-home-affairs-kdn", "private-security-industry-malaysia", "civil-defence-force-apm"]
 keywords: ["RELA", "Pasukan Sukarelawan Malaysia", "Ikatan Relawan Rakyat", "Akta 752", "Akta Pasukan Sukarelawan Malaysia 2012", "PATI", "sukarelawan keselamatan"]
 framework: profile
 ---

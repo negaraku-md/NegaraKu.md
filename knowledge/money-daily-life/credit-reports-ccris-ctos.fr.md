@@ -79,7 +79,7 @@ entity: "CCRIS"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "credit-reporting-agencies-act-2010" }
-related: []
+related: ["bank-negara-malaysia", "akpk-debt-management", "consumer-credit-act-2025"]
 keywords: ["CCRIS", "CTOS", "rapport de crédit", "credit report", "cote de crédit", "credit score", "eCCRIS", "Bank Negara Malaysia", "Loi sur les agences de renseignements de crédit 2010", "Credit Reporting Agencies Act 2010"]
 framework: explainer
 ---

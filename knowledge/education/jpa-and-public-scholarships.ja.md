@@ -29,7 +29,7 @@ faq:
     a: "通常はできない。JPAやMARAなどの全額奨学金は、通常、同じ就学段階についてPTPTNを放棄することを学生に求める。各スポンサーの契約条件を確認すること。"
 
 lang: "ja"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'ヌグリ・スンビラン州ルンバウにある UiTM キャンパスの近代的な黄色と灰色の学部棟で、学生たちがキャンパスの道を歩いている。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: マレーシア科学大学(USM)工学キャンパスの近代的な校舎と整えられた緑地
+    kind: representative
+    origin: third-party
+    subject: マレーシア科学大学(USM)工学キャンパス（マレーシアの国立研究大学）
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: マレーシアの大学の学位授与式で、アカデミックガウンと角帽を身につけて着席する卒業生の列
+    kind: representative
+    origin: third-party
+    subject: マレーシアの大学の学位授与式で式服をまとった修了予定者（DRB-HICOM大学、2023年）
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 SPMで9A+を取得しても、海外への全額奨学金が保証されるとは限らない——なぜならマレーシアでは、公共スポンサーシップは点数だけの問題ではなく、どの制度に申請するか、どのような服務義務が課されるか、そして各基金を管理する方針の問題でもあるからだ。このスポンサーの地図を理解することは重要である。選択を誤れば、後で数千リンギットを返済しなければならない事態になりかねない。

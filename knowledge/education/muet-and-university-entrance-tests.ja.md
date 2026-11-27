@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 
 status: "published"
 aiAssisted: true
@@ -82,9 +82,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: '学士課程に出願する大学進学前（STPM、予科、ファウンデーション、またはディプロマ）の学生で、国立大学においてMUETが必須の英語能力の関門となる人向け。'
+  how: 'マレーシア試験評議会（MPM、Majlis Peperiksaan Malaysia）を通じて、MUETの4科目——リスニング、スピーキング、リーディング、ライティング——を受験する。総合点がバンドに対応し、各大学の評議会（Senate）が課程ごとに必要な最低バンドを定める。'
+  cost: '受験料はMPMが定めており、非国民や、コンピューターベースのMUET on Demand版ではより高くなり、また変動する——どこかで示された金額ではなく、現在の受験料をMPMポータル（mpm.edu.my）で確認すること。'
+  watch: '合格とみなされる単一のバンドは存在しない——最低基準は課程によって異なり、各大学の評議会（Senate）が定める。結果の有効期間は5年であるため、早く受験しすぎると、出願前に有効期限が切れてしまうことがある。'
+  next: '志望する課程の最低バンドを大学のウェブサイトで確認し、MPMを通じて早めに受験登録し、5年の有効期間を管理すること。詳しくは「国立大学と私立大学」を参照のこと。'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'マレーシアの大学の講堂で、学生たちが個別の机に座って試験を受けており、試験監督が通路の間を歩いている。'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: 試験会場として使われるマレーシアの大きな学校講堂の内部。舞台と床面に並ぶ座席スペースがある
+    kind: representative
+    origin: third-party
+    subject: 試験会場として使われるマレーシアの学校の講堂（dewan）
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: マレーシアの大学キャンパスにある講堂群を上空から捉えた眺め
+    kind: representative
+    origin: third-party
+    subject: スルタン・イドリス教育大学(UPSI)の講堂群
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 STPMや予科（matrikulasi）で優秀な成績を収めていても、もう一つの結果がなければ、学位への出願書類は完成しない。その結果とはMUETのことであり、多くの学生は大学の出願締切が迫ってから、ようやくその重要性に気づく。

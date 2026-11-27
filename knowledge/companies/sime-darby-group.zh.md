@@ -29,7 +29,7 @@ faq:
     a: "马来西亚国家投资基金国民投资机构（Permodalan Nasional Berhad，PNB）是森那美旗下各公司的主要股东，并且 PNB 正是 Sime Darby Berhad 所收购 UMW 股权的卖方。具体持股比例会随时间变化，应对照各公司在马来西亚交易所的最新申报文件核实。"
 
 lang: "zh"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,34 @@ relations:
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "Sime Darby demerger", "Permodalan Nasional Berhad", "UMW Holdings", "Bursa Malaysia conglomerate"]
 framework: profile
+hero: '/media/companies/sime-darby-group/hero.webp'
+heroAlt: '明亮蓝天下，一根白红相间的Sime Darby Plantation入口立柱带着红色Sime Darby标志，立于一条庄园道路旁，两侧是成排的油棕'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Ladang_Salak_Divisyen_Sendayan_(220709).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: 沙巴 Kunak 一处工业综合体内，大型灰色毛棕榈油储罐带有红色 Sime Darby 徽标，前景有一棵椰子树
+    kind: actual
+    origin: third-party
+    subject: 位于沙巴 Kunak 的 Sime Darby 毛棕榈油（CPO）储罐
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: 一根白色 Sime Darby Plantation 标志柱带有红色 Sime Darby 徽标，矗立在绿色地被植物中，前方是一片油棕林，上方有高压电线
+    kind: actual
+    origin: third-party
+    subject: 位于沙巴山打根-拉哈达图公路旁的 Sime Darby Plantation 种植园路边标志柱
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 马来西亚最古老的企业名号之一，如今已不再是一家公司，而是三家。

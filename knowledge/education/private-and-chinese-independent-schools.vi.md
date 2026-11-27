@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Phụ huynh và học sinh tại Malaysia đang lựa chọn giữa trường quốc gia, trường tư thục theo chương trình quốc gia và trường Trung học Hoa Độc lập, và bất kỳ ai đang cố hiểu một trường SMJK, một trường tư thục, hay một chứng chỉ UEC thực sự đại diện cho điều gì."
 
 lang: "vi"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ keywords:
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
 framework: explainer
+hero: '/media/education/private-and-chinese-independent-schools/hero.webp'
+heroAlt: 'Tòa nhà chính của Papar Middle School, một trường trung học độc lập người Hoa ở Sabah, với tên trường ghi bằng tiếng Trung và tiếng Anh trên mặt tiền.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: Mặt tiền của Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School ở Penang, một tòa nhà nhiều tầng màu trắng có cột, với tên trường bằng tiếng Mã Lai, tiếng Hoa và tiếng Anh.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling (Private) High School, một trường trung học tư thục tiếng Hoa ở Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: Tòa nhà chính lớn nhiều tầng của Kuen Cheng High School ở Kuala Lumpur, với tên trường thể hiện bằng tiếng Hoa (坤成中学) và tiếng Anh trên mái.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School, một trường trung học tư thục tiếng Hoa ở Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 Hỏi một phụ huynh Malaysia "trường tư thục" là gì, và họ có thể nói đến ba thứ hoàn toàn khác nhau: một trường có thu học phí chạy đúng cùng chương trình học như trường của chính phủ ở cuối đường, một trường quốc tế dạy Cambridge hoặc IB, hay một trường Trung học Hoa Độc lập chạy một kỳ thi mà hầu hết mọi người ngoài cộng đồng giáo dục Hoa chưa từng nghe đến. Chỉ một trong ba loại đó dự thi SPM. Chỉ một loại dự thi UEC. Nhầm lẫn chúng là cách dễ nhất để đánh giá sai các lựa chọn của một đứa trẻ ở tuổi 18.

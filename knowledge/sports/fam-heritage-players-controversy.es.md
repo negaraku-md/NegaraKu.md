@@ -30,7 +30,7 @@ faq:
     a: "La FIFA se refirió al Artículo 22 del Código Disciplinario de la FIFA, relativo a la falsificación de los documentos de elegibilidad y naturalización de los jugadores."
 
 lang: "es"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'Una compacta multitud amarilla de aficionados de Harimau Malaya llena el Estadio Nacional Bukit Jalil bajo el marcador del tigre malasio.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: El portero malasio Wong Kam Fook en acción ante un atacante de Alemania Occidental durante el partido de fútbol de Malasia en los Juegos Olímpicos de verano de 1972.
+    kind: actual
+    origin: third-party
+    subject: La selección nacional de fútbol de Malasia jugando contra Alemania Occidental en los Juegos Olímpicos de verano de 1972
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: Vista desde las gradas del interior del Shah Alam Stadium durante un partido de la selección nacional de Malasia en el Campeonato AFF de 2014.
+    kind: actual
+    origin: third-party
+    subject: El interior del Shah Alam Stadium durante un partido de fútbol de la selección nacional de Malasia
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 Siete jugadores nacidos en el extranjero vistieron la camiseta de los Harimau Malaya en junio de 2025. Menos de un año después, el máximo órgano de arbitraje deportivo del mundo confirmó que los documentos que los habilitaban para jugar con Malasia habían sido falsificados. El caso desencadenó una serie de procedimientos disciplinarios de la FIFA, una apelación ante el Tribunal de Arbitraje Deportivo (TAS) y una denuncia policial en Malasia.

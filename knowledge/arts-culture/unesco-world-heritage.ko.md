@@ -30,7 +30,7 @@ faq:
     a: "네. 세계유산센터는 말레이시아 잠정 목록에 세 자산을 기록합니다. 반도 말레이시아의 국립공원(타만 느가라Taman Negara), 곰박 슬랑오르 석영 능선(Gombak Selangor Quartz Ridge), 그리고 숭아이 불로 나병요양원(Sungai Buloh Leprosarium)입니다. 잠정 등재는 지명하겠다는 의사 표명이지 등재가 아닙니다."
 
 lang: "ko"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: '멜라카의 짙은 테라코타색 네덜란드 시대 스타다위스 건물과 사각 시계탑, 빨강과 초록 식물로 꾸민 로터리로 둘러싸였고 앞쪽에 방향 표지판이 있으며 밝고 흐린 하늘 아래 모습'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: 페낭 조지타운의 좁은 유산 거리로, 붉은 등을 매단 오래된 2층 숍하우스가 늘어서 있고 'Batik Painting Museum' 간판이 있으며, 오른쪽에 파란색 'Lebuh Armenian' 거리 표지판과 노란 횡단보도가 있는 한적한 도로가 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 유네스코 세계유산지의 일부인, 페낭 조지타운 유산 지구의 르부 아르메니안(아르메니안 거리)
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: 사바의 키나발루산 회색 화강암 산괴로, 들쭉날쭉한 능선이 숲으로 덮인 산기슭 위로 솟아 있고, 앞쪽에는 맑은 파란 하늘 아래 잎이 무성한 초록 나무와 풀로 덮인 비탈이 보이는 모습
+    kind: actual
+    origin: third-party
+    subject: 유네스코 세계유산지인 사바의 키나발루 공원 위로 솟은 키나발루산
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 말레이시아에 세계유산이 몇 개인지 물으면 대부분의 자료는 넷이라고 답할 것입니다. 그것은 2024년까지는 사실이었습니다. 니아 동굴 복합지가 그해 7월에 등재되었고, 말레이시아 산림연구소 산림공원 슬랑오르가 2025년에 뒤따르면서 총계는 여섯이 되었습니다.

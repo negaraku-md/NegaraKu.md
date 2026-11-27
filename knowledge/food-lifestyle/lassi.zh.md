@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Lassi 是酸奶、水或奶、以及糖或水果——不含肉类、不含酒精——因此它是素食的，且本身属清真，也是素食 banana-leaf 大餐天然的搭档。清真保证附属于店面，因此需要认证的食客应逐一向个别餐馆查问。"
   served: "冰镇供应，常盛在高杯里，搅打得起沫。可点甜味、咸味，或芒果（或其他水果）lassi；它是辛辣咖喱或 banana-leaf-rice 大餐的经典搭配，在一口口之间为味蕾降温。"
   where: "见于遍布全国的印度餐馆、banana-leaf-rice 食肆、专门的 lassi 摊以及许多 mamak 食肆，尤其在供应南印度与北印度菜式之处。"
+hero: "/media/food/lassi/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "花纹杯中一杯奶白色冰酸奶拉西（lassi），插着吸管"
+heroCredit: "Rajeeb / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lassi-MB53.jpg"
+wikidata: "Q827654"
 ---
 
 坐下来面对一盘火辣的 banana-leaf-rice，或一碗浓郁的北印度咖喱，最常用来灭火的那杯

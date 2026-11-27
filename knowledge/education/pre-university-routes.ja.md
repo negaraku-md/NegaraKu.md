@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -73,6 +73,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: '青空の下、大学進学準備課程を提供するマレーシアのマトリキュレーション・カレッジ、Kolej Matrikulasi Kelantan の校舎。'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: 大学進学準備のファウンデーション課程を提供するマレーシアのカレッジの近代的なキャンパス建物
+    kind: representative
+    origin: third-party
+    subject: 大学進学準備・ファウンデーション課程を提供するマレーシアのカレッジのキャンパス（KDUユニバーシティ・カレッジ、ダマンサラ・ジャヤ）
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: マレーシアの大学の理工学部の実験棟
+    kind: representative
+    origin: third-party
+    subject: 国民大学(UKM)理工学部の科学実験棟
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 二人の学生が、ほぼ同じ成績で同じ SPM の試験会場を後にする。十八ヶ月後、

@@ -80,6 +80,33 @@ relations:
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
+hero: '/media/arts-culture/bharatanatyam/hero.webp'
+heroAlt: 'A Bharatanatyam dancer in an orange-and-gold silk costume with temple jewellery and jasmine flowers sinks into a low seated pose, one arm thrust forward with the palm raised in a mudra, her expressive gaze following her hand against a dark backdrop.'
+heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: A young Bharatanatyam dancer in a pink-and-gold silk costume, ankle bells and temple jewellery balances on one leg, both hands raised in scissor-like mudras near her head, smiling against a plain dark stage.
+    kind: representative
+    origin: third-party
+    subject: Young Bharatanatyam dancer standing on one leg with both hands in mudra beside her head
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: A Bharatanatyam dancer in a black blouse and red-and-gold silk drape spins mid-step, one arm curved high overhead and the other pointing across her body, her pleated skirt flaring against a black background.
+    kind: representative
+    origin: third-party
+    subject: Bharatanatyam dancer caught mid-turn with one arm raised and skirt swirling
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 A dancer's feet strike the floor in a rapid, precise pattern. Bells ring in time with the beat of a mridangam drum. Her hands form a shape — a deer, a lotus, a question — and her eyes follow it before her face answers with an emotion the audience is meant to feel, not just watch. Then the rhythm resolves, she holds a sculptural pose, and the music drops to silence.

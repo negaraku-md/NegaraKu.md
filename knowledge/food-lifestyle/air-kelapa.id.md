@@ -87,6 +87,14 @@ drinkFacts:
   halal: "Air kelapa adalah satu bahan nabati tunggal — air kelapa — tanpa tambahan apa pun selain, kadang, es atau sedikit sirup, jadi minuman itu sendiri halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai."
   served: "Disajikan dingin, biasanya langsung dari tempurung dengan sedotan, atau dituangkan di atas es ke dalam cangkir atau kantong bersama daging muda kerokan. Sebagian lebih suka polos; sedikit sirup gula kadang ditawarkan tetapi tak diperlukan. Kelapa bakar adalah variasi panggang; kantong 'slushie' beku adalah sentuhan modern."
   where: "Ditemukan di gerai tepi jalan, pasar basah dan pasar malam, food court, dan pantai di seluruh negeri — di mana pun penjaja bisa menyusun dan mendinginkan kelapa muda — serta dalam botol dan beku di kedai."
+hero: "/media/food/air-kelapa/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "Penjual kaki lima membuka kelapa muda hijau segar dengan parang, di samping tumpukan kelapa"
+heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 Di tepi jalan Malaysia, sedikit hal yang menyuarakan "panas tropis" selugas seorang

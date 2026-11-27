@@ -35,7 +35,7 @@ faq:
     a: "Tidak. Baju kurung adalah baju panjang yang longgar dan menutup bentuk tubuh, dipakai dengan kain. Kebaya adalah baju berbelah depan yang lebih mengikuti bentuk tubuh, dikancing dengan kerongsang (brooch) atau kancing, dan dipadukan dengan sarung. Kebaya biasanya lebih pas di tubuh dibanding baju kurung."
 
 lang: "id"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'Keluarga Melayu tiga orang yang tersenyum berpose di beranda rumah saat Hari Raya dengan busana kuning pucat serasi, sang pria berbaju Melayu tunik dan celana diapit dua wanita berbaju kurung dan berkerudung'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: Sekumpulan besar lelaki Melayu yang duduk membaca Al-Quran, masing-masing mengenakan baju Melayu dengan warna berbeda dan songkok beludru hitam, memenuhi aula masjid berkarpet merah
+    kind: actual
+    origin: third-party
+    subject: deretan lelaki Melayu berbaju Melayu warna-warni dan bersongkok hitam pada majelis doa pernikahan kerajaan di Selangor, Malaysia
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: Seorang pria berdiri dengan latar putih mengenakan baju Melayu biru royal berkerah cekak musang, songkok beludru hitam dan samping songket bunga biru mengilap yang dilipat di atas celana
+    kind: actual
+    origin: third-party
+    subject: seorang pria memperagakan setelan lengkap baju Melayu pria, tunik biru royal yang dikenakan dengan songkok hitam dan samping songket, dengan latar studio putih
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 Perhatikan seorang laki-laki bersiap untuk hari raya atau resepsi pernikahan. Baju longgar sudah dipakai, celana sudah masuk — tetapi ia belum selesai. Yang tersisa adalah dua hal yang menentukan apakah ia terlihat berpakaian lengkap atau setengah jalan: sehelai kain samping yang dililitkan di pinggang, dan sebuah songkok di kepala. Tanpa dua hal itu, baju Melayu belum benar-benar baju Melayu.

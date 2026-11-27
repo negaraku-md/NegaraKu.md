@@ -30,7 +30,7 @@ faq:
     a: "Ngân hàng hoặc công ty tài chính được đăng ký là chủ sở hữu hợp pháp của xe theo Luật Thuê mua 1967 (Hire-Purchase Act 1967) trong suốt thời hạn khoản vay. Người mua là người chiếm hữu được đăng ký với việc sử dụng xe hàng ngày, và chỉ trở thành chủ sở hữu đăng ký khi khoản vay được trả hết và bên tài trợ ban hành văn bản giải chấp."
 
 lang: "vi"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'Một đại lý Proton màu xanh dương với biển "Wakil Jualan dan Servis" cùng vài chiếc xe đỗ phía trước ở Subang Jaya.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: Những chiếc xe Perodua mới xếp hàng dưới ánh đèn sáng bên trong phòng trưng bày thương hiệu Perodua ở Penang, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Phòng trưng bày đại lý Perodua ở Penang
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: Một chiếc sedan Proton Perdana màu đen, mẫu xe thương hiệu quốc gia do Malaysia sản xuất, đỗ trên một con phố ở Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Xe sedan Proton Perdana ở Shah Alam
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 Mua một chiếc xe ở Malaysia và bạn ký một giao dịch, nhưng bạn thực sự bước vào ba mối quan hệ riêng biệt cùng một lúc: một với người bán xe cho bạn, một với người tài trợ cho nó, và một với JPJ, cơ quan quyết định tên ai thực sự được ghi trên xe. Bỏ sót một bước trong bất kỳ mối quan hệ nào trong ba, và chiếc xe bạn đã trả tiền vẫn chưa hoàn toàn là của bạn về mặt pháp lý.

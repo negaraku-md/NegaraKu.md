@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Padres o tutores en Malasia que intentan entender las opciones de cuidado infantil y educación temprana para niños antes del Año 1, así como cualquiera que quiera abrir una taska o tadika y necesite conocer las autoridades pertinentes."
 
 lang: "es"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,32 @@ relations:
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "registro taska", "tadika privada"]
 framework: explainer
+hero: '/media/education/preschool-tadika-childcare/hero.webp'
+heroAlt: 'La fachada del Tadika Al-Falah, un preescolar malasio en Johor, con un cartel de bienvenida y un mural de abecedario pintado a lo largo de la pared.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: Entrada y patio delantero del Tadika Holy Trinity en Tawau, Sabah, con un cartel, banderines de colores y murales de dibujos animados pintados; a lo lejos se ven algunos niños pequeños en el patio de juegos.
+    kind: representative
+    origin: third-party
+    subject: Fachada de un tadika (jardín de infancia) malasio decorado con banderines de colores y murales de dibujos animados
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: Vista desde la calle del Tadika St. Francis Xavier en Keningau, Sabah, un edificio de jardín de infancia de una planta con una valla verde y paredes pintadas con murales de flores, una abeja y una seta.
+    kind: representative
+    origin: third-party
+    subject: Edificio de un preescolar malasio pintado con murales infantiles
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 Muchos padres matriculan a su hijo en la tadika de la esquina — entregan el

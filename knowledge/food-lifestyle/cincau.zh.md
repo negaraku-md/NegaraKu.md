@@ -85,6 +85,14 @@ drinkFacts:
   halal: "Cincau 属植物性、不含酒精——煮过的草本、水和糖——因此凉粉本身是清真的。清真保证附属于店面，以及与它拌在一起的任何东西（例如双色 soya cincau 里的豆浆），因此需要认证的食客应逐一向个别店家查问。"
   served: "冷食。单吃是「air cincau」——加糖冰水里的凉粉块。淋上豆浆便成了「soya cincau」，因黑白分层而得绰号「Michael Jackson」。它也是 cendol、ais kacang（ABC）以及什锦的 leng chi kang 的标准配料。"
   where: "遍布全国的 kopitiam、小贩摊档、甜品店与 pasar malam 都有，也以纸盒与罐装的即饮形式（如 Yeo's）在每一家超市和杂货店出售。"
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "一杯冰凉的仙草（cincau）饮料，深色凉粉沉在杯底"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 在马来西亚咖啡店的炎热午后，最廉价的消暑方式之一，是一大杯深色而滑溜的东西：

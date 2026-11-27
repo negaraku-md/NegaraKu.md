@@ -33,7 +33,7 @@ faq:
     a: "반드시 그런 것은 아닙니다. 먼저 탕위안을 조상이나 신에게 올린 뒤 온 가족이 함께 먹는 가정도 있고, 동지를 그저 탕위안을 먹으며 모이는 날로 여겨 제사를 지내지 않는 가정도 많습니다. 조상 제사나 신에게 올리는 기원 같은 풍습은 각 가정의 신앙과 관습에 따라 다릅니다. 이 글은 풍습 자체를 서술할 뿐, 어떠한 종교적 신념에 대해서도 평가하지 않습니다."
 
 lang: "ko"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ festivalFacts:
   when: "24절기에 따라 정해지며, 매년 양력 12월 21일부터 23일 전후(약 12월 22일)에 들며, 한 해 중 낮이 가장 짧은 날이다."
   holiday: "공휴일이 아니다 — 동지는 말레이시아에서 전국적으로도, 어떤 주에서도 공휴일이 아니다."
   etiquette: "중국계는 대개 집에서 조용히 기념하여, 온 가족이 둘러앉아 탕위안을 빚고 한 끼를 함께하지, 대규모 공개 행사를 열지는 않는다. 일부 가정은 먼저 탕위안으로 조상과 신에게 제사를 올린 뒤 온 가족이 함께 먹기도 하며, 방식은 가정과 방언 집단에 따라 다르다."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: '맑고 달콤한 시럽에 떠 있는 파스텔 분홍·보라·노란 찹쌀 경단이 담긴 흰 그릇, 파란 테두리 도자기 숟가락이 놓인 모습'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: 맑고 달콤한 국물에 떠 있는, 윤기 흐르는 반투명한 흰색, 연보라, 비취색 찹쌀 경단을 가까이서 담은 그릇
+    kind: representative
+    origin: third-party
+    subject: 흰색, 보라색, 초록색의 투명한 수정 피 탕위안이 시럽 그릇에 떠 있는 접사
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: 파란 테두리 그릇에 담긴 맑고 뜨거운 시럽 속, 통통한 보라색 탕위안 찹쌀 경단 네 개를 위에서 내려다본 모습, 김이 모락모락 피어오르는 모습
+    kind: representative
+    origin: third-party
+    subject: 위에서 내려다본, 뜨거운 시럽 속 보라색 찹쌀 경단 한 그릇과 피어오르는 김
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 12월 하순의 어느 저녁, 부엌에는 찹쌀가루 향이 생강탕의 단내와 어우러진다. 온 가족이 식탁에 둘러앉아 작은 찹쌀 반죽 덩어리를 하나하나 경단으로 빚는다 — 흰 것도 있고 분홍빛, 연초록으로 물들인 것도 있다. 아이들 손의 경단은 크기가 제각각이고, 어른들은 빚으면서 말한다. 탕위안을 먹으면 또 한 살을 더 먹는 거라고. 이날이 바로 동지다.

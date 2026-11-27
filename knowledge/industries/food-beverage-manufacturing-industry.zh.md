@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚如何监管食品制造？
     a: 食品安全与标签受《1983 年食品法令》及其附属规则（如《1985 年食品条例》与《2009 年食品卫生条例》）规管，由卫生部管理。清真声明则由马来西亚伊斯兰发展局（JAKIM）单独掌控，由其发出官方清真认证。
 lang: zh
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ keywords:
   - 1983 年食品法令
   - MIDA 食品激励
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: '酿酒厂灌装线上，成千上万只绿色玻璃瓶沿蜿蜒的不锈钢传送带前行'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: 俯瞰饮料灌装厂，多条传送带和包装机械一览无余
+    kind: representative
+    origin: third-party
+    subject: 俯瞰美国加州 Geyserville 附近一家酒庄灌装厂的传送带和包装机械
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: 食品加工与物流厂的几座大型圆柱形粮仓和储存建筑矗立在铁轨旁
+    kind: representative
+    origin: third-party
+    subject: 印度 Bandel 一家粮食加工与物流厂的大型粮仓和储存厂房
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 几乎每一个马来西亚人每天都要接触这个产业好几次——早餐一杯 Milo、午餐一包方便面、下午一瓶矿泉水、一块用柔佛研磨的可可做成的巧克力。食品与饮料（F&B）制造是该国最安静的大产业之一：不如半导体那般光鲜，却深深织入日常生活、国家粮食安全，以及一个围绕一个强大理念——清真——而生长的出口故事。

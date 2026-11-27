@@ -35,7 +35,7 @@ faq:
     a: "لا. باجو كورونغ (baju kurung) ثوب طويل فضفاض يُخفي تقاطيع الجسد، ويُرتدى مع قطعة قماش ملفوفة. أما الكِبايا (kebaya)، على النقيض، فبلوزة مفتوحة من الأمام تتبع تقاطيع الجسد على نحو أوثق، تُثبَّت بكيرونغسانغ (kerongsang) (بروش) أو بأزرار، وتُقرن بسارونغ. والكِبايا عادةً أكثر التصاقًا بالجسد من باجو كورونغ."
 
 lang: "ar"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["باجو ملايو", "baju Melayu", "باجو كورونغ", "baju kurung", "الكِبايا", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "الزي الملايوي التقليدي", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: 'عائلة ملايوية مبتسمة من ثلاثة أفراد تتخذ وضعية على شرفة منزل في عيد الفطر بأزياء صفراء شاحبة منسّقة، الرجل بزي باجو ملايو تونيك وسروال تحيط به امرأتان بزي باجو كورونغ وأغطية رأس'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: تجمّع كبير من الرجال الملايويين الجالسين يقرؤون من المصاحف، يرتدي كل منهم باجو ملايو بلون مختلف وقبعة سونغكوك من المخمل الأسود، يملؤون قاعة مسجد بسجاد أحمر
+    kind: actual
+    origin: third-party
+    subject: صفوف من الرجال الملايويين بباجو ملايو ملوّن وسونغكوك أسود في تجمّع صلاة لزفاف ملكي في سلانجور، ماليزيا
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: رجل يقف أمام خلفية بيضاء يرتدي باجو ملايو أزرق ملكياً بياقة ماندرين وقبعة سونغكوك من المخمل الأسود ولفافة سونغكيت زهرية زرقاء لامعة (سامبينغ) مطويّة فوق السروال
+    kind: actual
+    origin: third-party
+    subject: رجل يعرض زيّ باجو ملايو رجالي كامل، سترة زرقاء ملكية تُلبس مع سونغكوك أسود وسامبينغ سونغكيت، على خلفية استوديو بيضاء
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 راقب رجلًا يتهيّأ لعيد الفطر أو لحفل زفاف. فقد ارتدى القميص الفضفاض، وأدخل السروال — لكنه لم ينتهِ بعد. والمتبقّي أمران يقرّران ما إذا كان يبدو كامل الهندام أم في منتصف الطريق فحسب: قطعة من قماش السامبينغ تُلفّ عند الخصر، وسونغكوك على الرأس. فمن دون هذين الأمرين، لا يكون باجو ملايو باجو ملايو حقًّا بعد.

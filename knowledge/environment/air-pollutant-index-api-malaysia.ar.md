@@ -82,7 +82,7 @@ entity: "Indeks Pencemar Udara (IPU)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "jerebu-di-malaysia" }
-related: []
+related: ["transboundary-haze-in-malaysia", "department-of-environment-doe", "environmental-quality-act-1974"]
 keywords: ["IPU", "API", "مؤشر ملوثات الهواء", "جودة الهواء", "الضباب الدخاني", "PM2.5", "PM10", "دائرة البيئة", "Jabatan Alam Sekitar"]
 framework: explainer
 ---

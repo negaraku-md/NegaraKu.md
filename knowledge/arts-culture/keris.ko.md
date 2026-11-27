@@ -39,7 +39,7 @@ faq:
     a: "네, 그러나 숙련된 음푸의 수가 급격히 줄어 지식의 전수가 어려워지고 있습니다. 유네스코(UNESCO)는 이 감소를 크리스 존속의 주요 과제로 꼽습니다."
 
 lang: "ko"
-sourceContentHash: "f542d42d76523ab4"
+sourceContentHash: "12cdb999060cde5c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,34 @@ relations:
 related: ["batik", "songket", "wau"]
 keywords: ["keris", "empu", "pamor", "luk", "warisan Melayu", "Taming Sari", "keris Melayu", "Akta Warisan Kebangsaan 2005", "budaya Nusantara"]
 framework: history-culture
+hero: '/media/arts-culture/keris/hero.webp'
+heroAlt: '어두운 바닥에 놓인 말레이 의례용 크리스, 물결치는 강철 날과 밑동이 조각된 상아색 손잡이 아래 도금된 꽃무늬 코프트가리 세공으로 감싸였고, 아래에 짝을 이룬 은 양각 목재 칼집이 놓인 모습'
+heroCredit: 'Zamwan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malay_Keris.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malay keris with a gold-worked wavy blade and carved hilt displayed above its ornate silver-chased sheath'
+
+images:
+  - role: scene
+    src: /media/arts-culture/keris/body-1.webp
+    alt: 어두운 박물관 진열장 안에 똑바로 세워진 여러 자루의 고풍스러운 왕실 크리스. 길게 조각된 은제 칼집 위에 정교하게 주조된 새 머리 모양의 손잡이가 얹혀 있고, 조명을 받아 금속 세공이 어두운 배경 속에서 빛난다
+    kind: actual
+    origin: third-party
+    subject: 조호르-리아우 술탄국과 연관된 화려한 은제 새 머리 손잡이를 갖춘 말레이 왕실 크리스 컬렉션
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_keris_and_silver_umbrella_handle_at_the_Malay_Heritage_Centre,_Singapore_01.jpg
+  - role: scene
+    src: /media/arts-culture/keris/body-2.webp
+    alt: 옅은 색 표면 위에 길고 가느다란 나무 칼집 옆에 놓인, 어두운 조각 손잡이의 곧은 날 의례용 크리스. 그 아래에는 KERIS ALANG PAHANG이라고 적힌 박물관 설명 카드가 있다
+    kind: actual
+    origin: third-party
+    subject: 수장의 권위를 상징하는 의례용 크리스인 파항의 크리스 알랑, 나무 칼집 옆에 놓인 모습
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 불꽃의 혀처럼 물결진 한 자루의 칼날, 음푸의 손으로 수백 번 접어 철과 니켈로 단조한 것 — 크리스는 단순한 무기가 아니라 말레이 문명의 맥박입니다. 그것은 전사의 허리에 꽂히고, 왕실 의례에서 받들어지며, 집안의 가보로 대대로 전해집니다. 오늘날까지도 크리스는 주권과 용기, 민족 정체성의 상징으로 남아 있습니다.

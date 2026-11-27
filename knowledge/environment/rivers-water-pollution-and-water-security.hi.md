@@ -34,7 +34,7 @@ faq:
     a: "Macaranga की एक रिपोर्ट के अनुसार, पर्यावरण गुणवत्ता अधिनियम 1974 में 2023 के संशोधनों ने प्रदूषण अपराधों के लिए न्यूनतम RM5,000 और अधिकतम RM10 मिलियन तक का जुर्माना, साथ ही पाँच वर्ष से अधिक की नहीं अनिवार्य कारावास की सज़ा निर्धारित की। सेलांगोर के नदी-संरक्षित-क्षेत्र तंत्र (LUAS अधिनियम 1999 की धारा 48(1)) के तहत अपराधों के लिए दंड RM50,000 से अधिक नहीं जुर्माना या दो वर्ष से अधिक नहीं कारावास, या दोनों है। 1974 अधिनियम संशोधनों के आँकड़े एक द्वितीयक रिपोर्ट से आते हैं और इन्हें आधिकारिक राजपत्र पाठ के विरुद्ध सत्यापित किया जाना चाहिए।"
 
 lang: "hi"
-sourceContentHash: "1a7e38792ecc17c4"
+sourceContentHash: "1b2bd598f274b4e8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,33 @@ relations:
 related: ["environmental-quality-act-1974"]
 keywords: ["नदी प्रदूषण", "जल गुणवत्ता सूचकांक", "WQI", "जल सुरक्षा", "जल आपूर्ति", "सुंगाई सेलांगोर", "सुंगाई किम किम", "नदी संरक्षित क्षेत्र", "पर्यावरण विभाग", "जल-ग्रहण क्षेत्र", "water security"]
 framework: explainer
+hero: '/media/environment/rivers-water-pollution-and-water-security/hero.webp'
+heroAlt: 'हल्की, बादल-धारी आसमान के नीचे एक सपाट जंगली क्षितिज तक फैली एक चौड़ी भूरी नदी'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_River_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The broad, sediment-laden Pahang River, Peninsular Malaysia''s longest river, under an overcast sky'
+images:
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-1.webp
+    alt: ऊँची शहरी इमारतों और पक्के नदी-किनारे पैदल-पथ के बीच एक चौड़ी कंक्रीट नहर से बहती एक संकरी नदी
+    kind: actual
+    origin: third-party
+    subject: मध्य Kuala Lumpur में ऊँची इमारतों के बीच एक कंक्रीट नहर में सीमित Klang नदी, जो शहरी नदी जल-गुणवत्ता पर दबाव दर्शाती है
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klang-River-20070218-007.jpg
+  - role: scene
+    src: /media/environment/rivers-water-pollution-and-water-security/body-2.webp
+    alt: शाम के समय ढलते सूरज को प्रतिबिंबित करती एक शांत, विस्तृत झील, पीछे जंगली पहाड़ियों की परछाइयाँ
+    kind: actual
+    origin: third-party
+    subject: Sarawak में Batang Ai Dam के पीछे का जलाशय, कच्चे जल का एक बड़ा भंडार और जलविद्युत का स्रोत
+    credit: Hashvina / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunset_at_Batang_Ai_Dam.jpg
 ---
 
 सोमवार की सुबह नल खोलिए और उसे सूखा पाइए — इसलिए नहीं कि नल टूटा है, बल्कि इसलिए कि ऊपर की ओर स्थित एक कारखाने ने उस सहायक नदी में दुर्गंधयुक्त अपशिष्ट छोड़ दिया है जो आपके शहर को कच्चा जल आपूर्ति करती है। यह क्लांग घाटी में एक बार-बार दोहराई जाने वाली वास्तविकता है, और यह समझाती है कि "नदी की गुणवत्ता" केवल एक पारिस्थितिक मुद्दा क्यों नहीं, बल्कि लाखों घरों के लिए जल आपूर्ति सुरक्षा का मामला है।

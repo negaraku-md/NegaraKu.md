@@ -98,6 +98,7 @@ dishFacts:
   halal: "Các phiên bản khác nhau theo từng gian bếp: kiểu mamak (Hồi giáo gốc Ấn) và kiểu Mã Lai dựa trên sốt ớt, bột cà ri hoặc belacan, trong khi kiểu yong chow của quán cà phê người Hoa điểm xuyết xá xíu hoặc lạp xưởng (thịt heo). Theo một quy tắc bền vững, các tô kiểu mamak và kiểu Mã Lai tránh thịt heo còn một số kiểu Hoa thì dùng — nên hỏi từng quán."
   eat: "Đĩa tiêu chuẩn được hoàn thiện với một quả trứng (đánh tan vào cơm hoặc chiên và đặt lên trên) cùng một ít dưa chuột tươi hoặc ớt thái lát. Pattaya được bọc trong một lớp trứng tráng mỏng với một đường ớt hoặc tương cà ngoằn ngoèo; đây là món ăn thường ngày, ăn vào bất kỳ giờ nào, kể cả ăn khuya."
   where: "Trên hết đây là món ăn thường ngày — một món cố định của quầy mamak 24 giờ và kopitiam khu phố, một lựa chọn dự phòng đáng tin tại chợ đêm và quầy ẩm thực đường phố, và là một trong những món đầu tiên người nấu ăn tại nhà học ứng biến. Nơi bạn ăn định hình phiên bản: kampung, ikan masin và belacan ở bếp nhà và quầy Mã Lai; pattaya, USA và kiểu mamak tại quầy mamak; cina, hailam và yong chow ở quán cà phê người Hoa."
+wikidata: "Q510666"
 ---
 
 Gọi nasi goreng ở một quầy mamak lúc một giờ sáng, bạn không hẳn đang gọi một món

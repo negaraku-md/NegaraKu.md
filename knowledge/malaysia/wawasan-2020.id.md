@@ -32,7 +32,7 @@ faq:
     a: "Wawasan Kemakmuran Bersama 2030 (WKB 2030) diluncurkan pada Oktober 2019 sebagai gagasan penerus yang berfokus pada kemakmuran yang merata untuk periode 2021 hingga 2030."
 
 lang: "id"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'Menara Kembar Petronas yang berkilau menjulang di atas cakrawala Kuala Lumpur di bawah langit cerah.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: Semburan air melengkung dari air mancur Danau Symphony di Taman KLCC, dibingkai oleh hamparan rumput hijau terawat dan tanaman hijau kota yang tertata di bawah langit tropis yang cerah.
+    kind: actual
+    origin: third-party
+    subject: Air mancur di Taman KLCC, di Pusat Kota Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: Pencakar langit Merdeka 118 yang ramping dan bersisi berlian meruncing menjadi menara puncak tinggi di atas cakrawala Kuala Lumpur, salah satu gedung tertinggi di dunia.
+    kind: actual
+    origin: third-party
+    subject: Menara Merdeka 118, salah satu gedung tertinggi di dunia, di Kuala Lumpur
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 Pada suatu pagi Februari 1991, seorang Perdana Menteri berdiri di hadapan para pengusaha terkemuka negeri dan menetapkan satu sasaran untuk 30 tahun ke depan: menjelang tahun 2020, Malaysia harus menjadi sebuah negara maju sepenuhnya — bukan sekadar dari segi ekonomi, tetapi juga dari segi persatuan, keadilan sosial, dan kematangan sipil. Gagasan itulah yang kemudian dikenal sebagai Wawasan 2020.

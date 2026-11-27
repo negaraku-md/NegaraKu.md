@@ -100,6 +100,7 @@ dishFacts:
   halal: "Versions differ by kitchen: the mamak (Indian-Muslim) and Malay styles are built on chilli paste, curry powder or belacan, while the Chinese-coffeeshop yong chow style is studded with char siu or lap cheong (pork). As a durable rule, mamak and Malay-stall bowls avoid pork and some Chinese-style ones use it — check the stall."
   eat: "The standard plate is finished with an egg (scrambled through the rice or fried and laid on top) and a scattering of fresh cucumber or sliced chilli. Pattaya arrives wrapped in a thin omelette with a squiggle of chilli or tomato sauce; it is everyday food eaten at any hour, including as late-night eating."
   where: "It is above all everyday food — a fixture of the 24-hour mamak stall and the neighbourhood kopitiam, a dependable fallback at the night-market and street-food stall, and one of the first dishes a home cook learns to improvise. Where you eat it shapes the version: kampung, ikan masin and belacan at home kitchens and Malay stalls; pattaya, USA and the mamak style at mamak stalls; cina, hailam and yong chow in Chinese coffeeshops."
+wikidata: "Q510666"
 ---
 
 Ask for nasi goreng at a mamak stall at one in the morning and you are not

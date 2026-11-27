@@ -36,7 +36,7 @@ socialTitle: "من سجلّات الملايو إلى أديب الوطن — ق
 lang: "ar"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,6 +80,32 @@ verificationNeeded:
   - "لا يزال مؤلفو الأعمال الكلاسيكية مثل حكاية هانغ توا (Hikayat Hang Tuah) وتواريخها الحقيقية غير قابلين للتأكيد بدقة (تُقدَّر بين القرن الخامس عشر والسابع عشر)"
   - "سنة جائزة أ. سمد سعيد (A. Samad Said) مدوّنة 1985 في القائمة الرئيسية لكنها 1986 في صندوق التصفح من المصدر نفسه — جرى التأكد من أنها 1985"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'الصفحة المزدوجة الافتتاحية المذهّبة ذات الإطار الزهري لمخطوط "تاج السلاطين" ("تاج الملوك")، وهو مخطوط أدبي مالاوي كلاسيكي مكتوب بخط الجاوي.'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: الصفحة الافتتاحية لمخطوطة Jawi من Hikayat Merong Mahawangsa، وهي حوليات Kedah الكلاسيكية، مكتوبة بالملايوية بخط عربي انسيابي داخل إطار مسطّر.
+    kind: actual
+    origin: third-party
+    subject: الصفحة الافتتاحية بخط Jawi من Hikayat Merong Mahawangsa (حوليات Kedah)
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: زخرفة استهلالية مذهّبة بالأحمر والأسود تفتتح مخطوطة Syair Ken Tambuhan، وهي ملحمة شعرية ملايوية كلاسيكية من حكايات Panji.
+    kind: representative
+    origin: third-party
+    subject: زخرفة استهلالية مذهّبة لمخطوطة من الملحمة الشعرية الملايوية Syair Ken Tambuhan
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 في مخطوطة قديمة، نُقشت قصة ملوك ملقا، ورحلة هانغ توا (Hang Tuah)، وسقوط إمبراطورية — لا بوصفها سردًا تاريخيًّا جافًّا، بل قصةً تنبض بالشخصيات والحوار والأدب. تلك المخطوطة، *سجلّات الملايو (Sejarah Melayu)* أو *سلالة السلاطين (Sulalatus Salatin)*، من أوائل الأعمال التي تبرهن على مدى طول تقليد الكتابة الملايوية وغناه.

@@ -36,7 +36,7 @@ faq:
     a: "La période la plus sèche et la plus calme va d'environ novembre à mars, la meilleure pour le saut d'île en île, le téléphérique et le temps de plage. Septembre et octobre sont généralement les mois les plus pluvieux, bien que la pluie prenne souvent la forme de brèves averses tropicales plutôt que de journées entières noyées sous l'eau."
 
 lang: "fr"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "île franche", "géoparc mondial de l'UNESCO", "SkyCab", "SkyBridge", "saut d'île en île", "Kilim", "Dayang Bunting", "mer d'Andaman", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'Visiteurs venant pour la première fois, familles et voyageurs aux intérêts variés en quête de plages, de shopping hors taxes et du Géoparc UNESCO — la télécabine SkyCab, le SkyBridge et le saut d''île en île dans la mangrove — plus que de plongée de niveau mondial.'
+  getThere: 'Prenez un vol vers l''aéroport international de Langkawi (LGK), ou traversez par ferry de passagers jusqu''à la jetée de Kuah depuis les jetées continentales de Kuala Kedah et Kuala Perlis.'
+  permit: 'Les prix hors taxes de Langkawi ne s''appliquent que sur l''île ; les marchandises rapportées sur le continent relèvent de la franchise nationale des voyageurs de Malaisie, qui fixe une durée minimale de séjour ouvrant droit et plafonne l''alcool, le tabac et les souvenirs que vous pouvez rapporter en franchise de droits.'
+  watch: 'N''achetez pas trop d''alcool hors taxes pour le rapporter chez vous — les prix bas sont faits pour en profiter sur l''île, et seule une franchise limitée passe la douane sur le continent.'
+  next: 'Confirmez les horaires des ferries en vigueur auprès des opérateurs de ferry, et les franchises hors taxes auprès du Département royal des douanes de Malaisie (Royal Malaysian Customs Department, RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'Le Langkawi Sky Bridge incurvé suspendu haut entre des pics montagneux couverts de jungle au-dessus de la mer d''Andaman'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Palmiers et rochers sombres encadrant le sable blanc de Pantai Cenang au bord d'une eau turquoise, un parachute ascensionnel dans le ciel
+    kind: actual
+    origin: third-party
+    subject: Plage de Pantai Cenang avec palmiers et mer turquoise
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Nacelles rouges du SkyCab glissant au-dessus d'une forêt tropicale dense, dominant une marina et des baies turquoise sur l'île de Langkawi
+    kind: actual
+    origin: third-party
+    subject: Téléphérique SkyCab de Langkawi au-dessus de la jungle et de la marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Quatre-vingt-dix-neuf îles, des roches plus anciennes que les poissons, du whisky bon marché et un téléphérique accroché au flanc d'une montagne bâtie de roche estimée à plus de 550 millions d'années — Langkawi concentre une quantité inhabituelle de choses dans un seul archipel au large de la pointe nord-ouest de la Malaisie. C'est l'île de vacances phare de la côte ouest du pays, et elle fonctionne selon une logique presque opposée à celle des îles de plongée bordées de palmiers de l'autre côté de la péninsule. Ce guide couvre ce qui compte réellement avant de partir : les règles de la zone franche qui font trébucher les gens, le géoparc de l'UNESCO qui donne au paysage son histoire, le SkyCab et le SkyBridge, les excursions en bateau qui valent la peine, et comment choisir entre Langkawi et la côte est.

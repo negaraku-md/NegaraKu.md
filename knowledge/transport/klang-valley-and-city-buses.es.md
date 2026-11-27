@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus empezó a convertir 19 rutas de baja demanda — 16 rutas alimentadoras del MRT y 3 rutas estándar, alrededor del 7 % de la red — en un servicio de furgoneta reservable Rapid KL On-Demand."
 
 lang: "es"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,9 +72,33 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["autobús Rapid KL", "autobús alimentador MRT", "autobús Valle de Klang", "Rapid Bus", "Rapid KL On-Demand", "autobús urbano Kuala Lumpur", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: 'Un llamativo autobús de dos pisos Rapid KL en rojo, crema y azul en su andén (ruta 751, estación de transbordo Hab Pasar Seni) con el cartel del andén'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: 'Un autobús urbano eléctrico y gratuito GO KL de color azul verdoso deteniéndose en una parada/marquesina junto al bordillo («100% Clean Energy / Perkhidmatan Bas Percuma»): una vista de autobús en parada y una decoración/modo distintos. Dos pasajeros diminutos y no identificables en la marquesina.'
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: 'Un perfil lateral nítido de un autobús Rapid KL de una sola planta (decoración roja/crema/azul) en KL Sentral: complementa el hero de dos pisos y el body eléctrico de GO KL. Sin rostros.'
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 El tren le lleva a una estación. Rara vez le lleva a casa. Ese hueco — desde el andén del MRT o el LRT hasta su puerta, su parque empresarial o el mercado húmedo a dos barrios de distancia — lo rellena una flota en la que la mayoría de los pasajeros apenas piensan: los autobuses de Rapid KL.

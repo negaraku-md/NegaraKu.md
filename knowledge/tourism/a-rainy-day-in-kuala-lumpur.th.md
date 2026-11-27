@@ -33,7 +33,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["วันฝนตกกัวลาลัมเปอร์", "กิจกรรมในร่ม KL", "KL ด้วยระบบขนส่งสาธารณะ", "ทางเดิน KLCC Bukit Bintang", "Suria KLCC รถไฟ", "Aquaria KLCC เดินทางอย่างไร", "Petrosains", "Muzium Negara MRT", "ห้างสรรพสินค้า KL ด้วยรถไฟ"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'ฝนเขตร้อนกระหน่ำเป็นเส้นเหนืออาคารตึกแถวหลังคากระเบื้องเก่าบนถนน Jalan Panggong ในย่านเก่ากัวลาลัมเปอร์'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: ด้านหน้าอาคารสไตล์อาร์ตเดโคสีฟ้าอ่อนของตลาดกลาง (Central Market / Pasar Seni) ในกัวลาลัมเปอร์ มีป้าย 'Central Market Since 1888'
+    kind: actual
+    origin: third-party
+    subject: ด้านหน้าสไตล์อาร์ตเดโคของตลาดกลาง (Pasar Seni) กัวลาลัมเปอร์
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: ระเบียงมีหลังคาสองชั้นที่คึกคักภายในตลาดกลางในกัวลาลัมเปอร์ เรียงรายด้วยแผงหัตถกรรมและผ้าบาติกใต้ธงประจำรัฐที่แขวนอยู่
+    kind: actual
+    origin: third-party
+    subject: ภายในระเบียงหัตถกรรมมีหลังคาของตลาดกลาง กัวลาลัมเปอร์
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 ฝนในกัวลาลัมเปอร์มาเร็วและหนัก และแผนการเที่ยวกลางแจ้งอาจพังได้ในไม่กี่นาที แต่มัน

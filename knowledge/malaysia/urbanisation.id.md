@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang mencoba membaca statistik populasi, tenaga kerja, atau properti Malaysia dengan benar — peneliti, perencana, dan bisnis yang menilai di mana sebenarnya penduduk dan tenaga kerja berada."
 
 lang: "id"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ faq:
   - q: Di manakah sebagian besar pertumbuhan perkotaan Malaysia terkonsentrasi?
     a: Di Lembah Klang (Klang Valley). Pada Sensus 2020, empat distrik yang bersebelahan — Kuala Lumpur (1.982.112), Petaling (2.298.130), Ulu Langat (1.400.461), dan Klang (1.088.942) — bersama-sama menampung sekitar 6,77 juta orang, lebih dari seperlima populasi nasional sebesar 32,4 juta. Selangor kini menjadi negara bagian dengan penduduk terbanyak sebesar 6.994.423 orang dan 95,8% perkotaan, sementara Kelantan, pada 44,1%, merupakan negara bagian yang paling sedikit terurbanisasi.
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'Pemandangan luas garis langit kota Kuala Lumpur yang padat di bawah langit cerah berawan, dengan Menara KL berujung jarum, gedung-gedung pencakar langit yang berkelompok dan kubah masjid biru menjulang di atas pucuk pepohonan hijau.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: Sederet ruko dua lantai era kolonial dengan serambi lima kaki berlengkung dan lantai atas berdaun jendela kayu memagari sebuah jalan kota tua yang sepi.
+    kind: actual
+    origin: third-party
+    subject: Jalan ruko warisan di George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: Sebuah jembatan kabel putih berbentuk layar membentang di atas sebuah danau di depan deretan blok apartemen bertingkat sedang di bawah langit kelabu.
+    kind: actual
+    origin: third-party
+    subject: Jembatan Seri Wawasan di kota federal terencana Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Tiga dari empat rakyat Malaysia kini tinggal di tempat yang disebut "perkotaan" oleh DOSM

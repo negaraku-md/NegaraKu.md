@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d3e22872f1da781"
+sourceContentHash: "a9823ad615c1dfdb"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "持有 LPI Capital Bhd 的44.15%股权——确认当前持股及任何完成细节。"
   - "领导层：Tay Ah Lek 任董事经理兼首席执行员，以及现任主席——确认当前董事会职位。"
 framework: profile
+hero: '/media/companies/public-bank/hero.webp'
+heroAlt: '暮色天空下，阶梯状的Menara Public Bank大厦泛着暖金色光芒，楼冠亮起红黄色大众银行标志，入口上方照亮着PUBLIC BANK字样'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Public_Bank_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Public Bank, the HQ tower of Public Bank Berhad on Jalan Ampang, Kuala Lumpur, at dusk'
+images:
+  - role: scene
+    src: /media/companies/public-bank/body-1.webp
+    alt: 一座纤细的白色 Public Bank 大楼映衬蓝天，顶部附近有红色八角形 Public Bank 徽标，底层分行入口上方有红色 PUBLIC BANK 标识
+    kind: actual
+    origin: third-party
+    subject: 柔佛新山的 Public Bank Tower
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Public_Bank_Tower.jpg
+  - role: scene
+    src: /media/companies/public-bank/body-2.webp
+    alt: 褐色石材饰面的阶梯式 Menara Public Bank 大楼映衬淡色天空，金字塔形顶冠附近的面板上展示着红色八角形 Public Bank 徽标
+    kind: actual
+    origin: third-party
+    subject: Menara Public Bank，这座170米高的石材饰面总部大楼，位于吉隆坡安邦路
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Menara-Public-Bank-01.jpg
+wikidata: "Q3046561"
 ---
 
 鲜有马来西亚公司像大众银行与丹斯里郑鸿标那样，与单一创办人如此紧密相连。从1966年吉隆坡市中心的一家分行起步，他建立起一家成长为本国最大银行集团之一的放贷机构——而它成名所凭的，与其说是规模，不如说是审慎，年复一年地录得银行业最低的坏账比率。

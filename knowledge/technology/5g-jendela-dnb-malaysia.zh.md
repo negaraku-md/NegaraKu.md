@@ -36,7 +36,7 @@ faq:
     a: "否。2026 年 3 月 7 日，CelcomDigi 与 Maxis 各以 RM327,872,640.28 完成对财政部所持 DNB 股份的收购，标志着政府退出 5G 批发业务，并使 DNB 成为由电信商和 YTL 持有的完全私有实体。"
 
 lang: "zh"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: '马来西亚民都鲁Bukit Nyabau两座格构式电信塔，在橙蓝色落日天空下形成剪影'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: 一座高大的灰色单杆式手机信号塔，顶部装有移动网络天线和 5G 设备，矗立在郊区屋顶上方晴朗的蓝天下
+    kind: representative
+    origin: third-party
+    subject: 一座承载 5G 天线的单杆式手机信号塔，背景为晴朗的蓝天
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: 一座屋顶电信桅杆装有白色面板天线、微波碟形天线和基站机柜，矗立在蓝天下的低层城市上方
+    kind: representative
+    origin: third-party
+    subject: 城市上方一座带面板天线和微波碟形天线的屋顶 5G 信号塔
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 问两个马来西亚人这个国家的移动网络是如何运营的，你往往会得到两个不同的、各对一半的答案——因为实际上有两个彼此纠缠的独立故事。一个是宽带覆盖计划，大多数人都在政府横幅上见过它的名字。另一个则是关于谁能拥有 5G 管道的一场快速演变的争夺。要理解现代马来西亚的连接状况，就必须把这两个故事分辨清楚。

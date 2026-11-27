@@ -21,7 +21,7 @@ appliesTo: "மலேசியாவின் அரச நிறுவனங்
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -59,6 +59,32 @@ verificationNeeded:
   - "2025-2026 வாரிசுரிமைத் தகராறு, முரண்பட்ட கணக்குகளைக் கொண்ட ஒரு வளர்ந்துவரும் விஷயம்; Sungai Ujong-இன் Undang-இன் அந்தஸ்து, 2026 ஏப்ரல் 19 நீக்கல் பிரகடனம், மற்றும் போட்டி பிரகடனம் ஆகியவை, எந்த விவரமும் தீர்ந்ததாகக் கருதப்படுவதற்கு முன் அதிகாரபூர்வ மாநில ஆதாரங்களுக்கு எதிராக மீண்டும் சரிபார்க்கப்பட வேண்டும்."
   - "Tuanku Muhriz, 11ஆவது Yang di-Pertuan Besar-ஆக (வழக்கமாக 2008 டிசம்பர் 29 என்று கொடுக்கப்படுகிறது) பதவியேற்ற/பிரகடனப்படுத்தப்பட்ட துல்லியமான தேதி, மாநில அரச வலைவாயிலுக்கு எதிராக உறுதிப்படுத்தப்பட வேண்டும்."
 framework: history-culture
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: 'உயரமான அடுக்கடுக்கான கோபுரத்தையும் விரிந்த மரத்தகடு கூரைகளையும் கொண்ட கம்பீரமான கரும்மர அரண்மனை, அகன்ற பசும் வயலுக்கு அப்பால் காடுசூழ்ந்த குன்றுகளுக்கு முன்னால் நிற்கிறது.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: சமச்சீர் பக்கப் பகுதிகளும் இரட்டை முக்கூரை கோபுரங்களும் கொண்ட கம்பீரமான கிரீம் நிற அரச மாளிகை, செரி மெனந்தியில் காடுகள் சூழ்ந்த மலைகளுக்குக் கீழே நேர்த்தியாகப் பராமரிக்கப்பட்ட தோட்டங்களின் பின்னால் அமைந்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: நெகிரி செம்பிலானின் தற்போதைய அரச மாளிகையான இஸ்தானா பேசார் செரி மெனந்தி
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: நாடகீயமாக மேல்நோக்கி வளைந்த மினாங்கபாவ் எருமைக்கொம்பு கூரைகளால் முடிசூட்டப்பட்ட உயரமான நவீன அரசாங்க கோபுரம், செரம்பான் மையத்தில் தாழ்வான பக்கப் பகுதிகளுக்கும் புல்வெளிகளுக்கும் மேலாக எழும்புகிறது.
+    kind: actual
+    origin: third-party
+    subject: செரம்பானில் உள்ள மினாங்கபாவ் கூரை கொண்ட மாநில நிர்வாகக் கட்டிடமான விஸ்மா நெகிரி
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 தீபகற்ப மலேசியாவின் இதயத்தில், மலாய் முடியாட்சியின் ஒவ்வொரு விதியையும் மீறும் ஒரு இராச்சியம் அமர்ந்துள்ளது. அதன் ஆட்சியாளர் அரியணைக்குப் பிறக்கவில்லை, அதற்காகத் தேர்ந்தெடுக்கப்படுகிறார். அதன் பெரிய குடும்பங்கள் தங்கள் வழித்தோன்றலைத் தந்தையர் வழியாக அல்ல, தாய்மார் வழியாகத் தடம்காண்கின்றன. மேலும் அதன் பெயரே, நெகிரி செம்பிலான், "ஒன்பதின் மாநிலம்", ஒரே அரச மரபை அல்ல, உள்பகுதியின் குன்றுகள் முழுவதும் தையல்போட்டு இணைக்கப்பட்ட மாவட்டங்களின் ஒரு கூட்டமைப்பை நினைவுகூர்கிறது. இந்தத் தனித்துவமான நிறுவனம் எப்படி உருவானது என்பதைப் புரிந்துகொள்வது, Strait of Malacca-ஐச் சுமத்ராவிலிருந்து கடந்து, ஒரு வழக்கத்தைத் தங்களுடன் கொண்டுவந்து, காலப்போக்கில் தங்களை ஆள ஒரு இளவரசரை ஊருக்கு அழைத்த Minangkabau குடியேறிகளின் ஒரு வரிசையைப் பின்தொடர்வதாகும்.

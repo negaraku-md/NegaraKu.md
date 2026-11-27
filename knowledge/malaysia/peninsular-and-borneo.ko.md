@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "「말레이시아」가 때때로 하나의 여권과 하나의 국기를 공유하는 두 개의 행정처럼 작동하는 이유를 이해하려는 여행자, 기업 및 모든 이."
 
 lang: "ko"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: '말레이시아 권역 지도로, 반도 말레이시아와 보르네오섬의 동말레이시아가 남중국해를 사이에 두고 색으로 구분된 별개의 블록으로 표시되어 있다.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: 선명한 초록빛 논이 평평하게 펼쳐져 낮은 나무들이 늘어선 지평선까지 이어지고, 그 위로 넓고 옅은 푸른 하늘이 펼쳐져 있다.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 스킨찬(Sekinchan)의 저지대 논(말레이반도)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: 넓고 탁한 황갈색 열대우림 강이 울창한 정글 강둑 사이를 굽이쳐 흐르고, 작은 초록색 목조 배들이 나무 선착장에 매여 있다.
+    kind: actual
+    origin: third-party
+    subject: 사바주 수카우(Sukau)의 키나바탕안강(보르네오 말레이시아)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 코타키나발루(Kota Kinabalu)까지 국내선을 타면, 떠나온 곳과 같은 나라에 내립니다. 같은 통화, 같은 여권, 꼬리 날개에 같은 국기입니다. 그런데도 도착장에서는 출입국 심사대 같은 창구에 줄을 서고, 통과하기 전에 누군가가 신분증이나 여권을 확인합니다. 말레이시아 안의 다른 어떤 항공편도 이런 식으로 운영되지 않습니다.

@@ -33,7 +33,7 @@ faq:
     a: "Ya. Pasal 17A, yang diperkenalkan oleh amendemen 2018 (Act A1567) dan mulai berlaku pada 1 Juni 2020, menjadikan sebuah organisasi komersial bertanggung jawab apabila seseorang yang berkaitan dengannya secara korup memberi atau menawarkan gratifikasi untuk memperoleh atau mempertahankan bisnis. Secara terpisah, definisi 'badan awam' dalam Pasal 3 Akta itu menjangkau perusahaan dan anak perusahaan yang mana badan awam memiliki kuasa atau kepentingan pengendali."
 
 lang: "id"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'Gedung pemerintah panjang berbata merah menjulang di atas tabir pepohonan hijau, fasad atasnya bertuliskan SPRM (SPRM) emas dan lambang di atas deretan jendela melengkung yang dihias bendera Malaysia kecil'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: Menara melengkung berbentuk haluan kapal dari kaca bermotif pita gelap yang ditopang kolom-kolom putih tinggi, dibingkai pohon palem raja di bawah langit biru cerah berawan tipis di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Menara kaca gelap melengkung kantor pusat Komisi Antikorupsi Malaysia (MACC), Putrajaya (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 Kebanyakan penjelasan mengenai MACC berhenti sebatas "agensi antikorupsi Malaysia".

@@ -30,7 +30,7 @@ lang: "ja"
 masterLanguage: "en"
 
 translationStatus: "in-sync"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 
 status: "published"
 aiAssisted: true
@@ -75,9 +75,37 @@ sources:
 entity: "Ministry of Home Affairs (Malaysia) / Kementerian Dalam Negeri (KDN)"
 wikidata: "Q4294304"
 relations: []
-related: []
+related: ["immigration-department-jim", "national-anti-drugs-agency-aadk", "rela-peoples-volunteer-corps"]
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministry of Home Affairs Malaysia", "MOHA", "KDN agencies", "KDN departments", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
 framework: profile
+hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'
+heroAlt: 'プトラジャヤの赤レンガの内務省(KDN)の建物の正面。中央の塔が壮大なアーチ型入口の上のアーチ窓に挟まれ、青空の下、広場にヤシの木が並ぶ'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: プトラジャヤにある赤レンガ造りの内務省タワー上部の接写。屋根近くに省庁の紋章と大きな白い'KDN'の文字が取り付けられている
+    kind: actual
+    origin: third-party
+    subject: ファサードに'KDN'の紋章と文字を掲げたKDNビルの上層階、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: プトラジャヤの赤レンガ造りの内務省ビルを、左右対称の段状の広場越しに望む。中央には階段状の滝が流れ、ヤシの木が並び、曇った青空が広がる
+    kind: actual
+    origin: third-party
+    subject: 段状の滝のある広場の先に望むKDNビル、ブロックD1、プトラジャヤ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 マレーシア人がパスポートを更新するとき、警察が逮捕を行うとき、外国人労働者の許可証が確認されるとき、あるいは映画が公開前に区分を付されるとき——この4つすべての背後には同じ一つの省がある。それが**内務省**であり、マレー語では**Kementerian Dalam Negeri（KDN）**、英語では**MOHA**として知られる。

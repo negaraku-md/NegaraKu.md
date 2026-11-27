@@ -34,7 +34,7 @@ faq:
     a: "EUDR 29 June 2023 அன்று நடைமுறைக்கு வந்தது. ஒத்திவைப்புகளுக்குப் பிறகு, கடமைகள் பெரிய இயக்குபவர்கள் மற்றும் வர்த்தகர்களுக்கு 30 December 2026 முதலும், நுண் மற்றும் சிறு நிறுவனங்களுக்கு 30 June 2027 முதலும் பொருந்தும்."
 
 lang: "ta"
-sourceContentHash: "f8c253517f15928f"
+sourceContentHash: "246abde9555a6a4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "palm oil sustainability", "deforestation", "EUDR", "RSPO", "certification", "smallholders", "MPOB", "Malaysia palm oil"]
 framework: explainer
+hero: '/media/environment/palm-oil-sustainability-mspo-and-deforestation/hero.webp'
+heroAlt: 'மூடுபனி சூழ்ந்த பச்சை மலைகளுக்குக் கீழே, ஒரு மண்சாலைக்கு அருகே மலைச்சரிவை மூடியிருக்கும் இலையடர்ந்த எண்ணெய்ப் பனை மரங்களின் வரிசைகள்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Rows of mature oil palms covering a hillside plantation in Kunak District, Sabah'
+images:
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-1.webp
+    alt: வடிவியல் எண்ணெய்ப் பனைத் துண்டுகளும் வெட்டப்பட்ட வெற்றுப் பகுதிகளும் மிஞ்சிய அடர்ந்த பச்சைக் காட்டை நெருக்கும் வான்வழி நிலக்காட்சி
+    kind: actual
+    origin: third-party
+    subject: போர்னியோ மழைக்காட்டில் வெட்டப்பட்ட எண்ணெய்ப் பனை வெட்டுதல்களின் வான்வழித் தோற்றம், தோட்ட விரிவாக்கத்தால் காட்டு இழப்பைக் காட்டுகிறது
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
+  - role: scene
+    src: /media/environment/palm-oil-sustainability-mspo-and-deforestation/body-2.webp
+    alt: பிரகாசமான நீல வானத்தின் கீழ் தொலைவு மலைமுகடுகள் வரை நீளும் இளம் எண்ணெய்ப் பனைகள் நடப்பட்ட அலையலையான பச்சை மலைகள்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், மெர்சிங் மாவட்டத்தில் அலையலையான மலைகளை மூடும் பரந்த எண்ணெய்ப் பனைத் தோட்டம்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg
 ---
 
 மலேசியா உலகின் பாமாயிலில் தோராயமாக ஐந்தில் ஒரு பங்கை உற்பத்தி செய்கிறது, மேலும் இந்தத் தொழில் காடழிப்புடன் (deforestation) அதற்குள்ள தொடர்புகள் தொடர்பாக ஐரோப்பிய மற்றும் NGO பிரச்சாரகர்களின் விமர்சனத்தை நீண்டகாலமாக ஈர்த்து வந்துள்ளது. இதற்குப் பதிலளிக்கும் விதமாக, நாடு இப்போது கட்டாய, அரசு ஆதரவுடன் கூடிய சான்றளிப்பு (certification) திட்டத்தை நடத்துகிறது, மேலும் 5 September 2025 அன்று ஐரோப்பிய ஒன்றியம் (European Union, EU) ஒரு கூட்டு அறிக்கையில் அந்தத் திட்டத்தை ஏற்றுக்கொண்டது. MSPO எவ்வாறு செயல்படுகிறது, அது எதை நிரூபிக்கிறது மற்றும் எதை நிரூபிக்கவில்லை, மேலும் கடினமான பிரச்சினைகள் இன்னும் எங்கே அமர்ந்துள்ளன என்பதை இது விளக்குகிறது.

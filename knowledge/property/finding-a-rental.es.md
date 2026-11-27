@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que busque una vivienda de alquiler en Malasia, ya sea alquilando por primera vez localmente o gestionando un arrendamiento desde el extranjero."
 
 lang: "es"
-sourceContentHash: "668777ccfb0c0a99"
+sourceContentHash: "3f09b614cf735ff5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -71,6 +71,33 @@ relations:
 related: ["employment-pass", "opening-bank-account"]
 keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysia", "registered estate negotiator", "BOVAEP", "LPPEH", "estate agent Malaysia", "rental commission Malaysia", "REN Tag"]
 framework: explainer
+hero: '/media/property/finding-a-rental/hero.webp'
+heroAlt: 'Una alta torre de condominios moderna y blanca elevándose sobre colinas y una extensión de viviendas suburbanas de baja altura en North Kiara, Kuala Lumpur, bajo un cielo azul nublado'
+heroCredit: 'Pradana Aumars / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'a modern residential condominium tower in North Kiara, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/property/finding-a-rental/body-1.webp
+    alt: Dos grandes bloques de apartamentos residenciales color crema y granate con hileras de balcones y aparatos de aire acondicionado en las afueras de George Town, Penang, con sus plantas bajas ocultas por árboles
+    kind: representative
+    origin: third-party
+    subject: bloques de apartamentos residenciales de gama media en las afueras de George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
+  - role: scene
+    src: /media/property/finding-a-rental/body-2.webp
+    alt: Un conjunto de altas torres modernas de condominios con balcones escalonados en Kuala Lumpur, vistas desde la calle contra un cielo pálido y nublado
+    kind: representative
+    origin: third-party
+    subject: modernas torres de condominios de gran altura (Orion Condominium y Sky Residences) en Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg
 ---
 
 Encuentras un anuncio que te gusta en un portal, escribes al número que aparece en él, y alguien se presenta para abrir la unidad. Nada en ese intercambio te dice si la persona que te entrega las llaves está siquiera legalmente autorizada a hacer esto por una tarifa — y casi nadie pregunta.

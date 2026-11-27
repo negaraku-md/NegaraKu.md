@@ -28,7 +28,7 @@ faq:
     a: "公式の法定料率による賃貸手数料は、賃貸期間に応じて総賃料の1.25か月分から1.75か月分（最低1か月分の賃料の手数料）である。誰が負担するかは当事者間の合意事項である。"
 
 lang: "ja"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan", "perunding hartanah"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'ジョホール州バトゥパハの Taman Soga Sutera 開発地の看板の奥にある現代的なセミデタッチハウス。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: Taman Sri Serdang住宅地の入口を示す道路脇の看板
+    kind: representative
+    origin: third-party
+    subject: セランゴール州スリ・クンバンガンのTaman Sri Serdang住宅地の看板
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: ジョホール州クルアンのJalan Anggerikにある、前庭とヤシの木を備えた平屋の郊外住宅
+    kind: representative
+    origin: third-party
+    subject: ジョホール州クルアンの住宅街に建つ郊外の有地住宅
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 仲介業者の胸章に記された番号は飾りではない——それは、正当な交渉人と、単に自分を仲介業者だと称するだけの者とを素早く見分ける唯一の方法である。マレーシアでは、誰があなたに代わって不動産を売却、賃貸、または交渉できるかは、法律によって厳格に規制されている。

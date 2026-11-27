@@ -122,7 +122,7 @@ sources:
 
 entity: "Employment Pass (Malaysia)"
 relations: []
-related: ["labour-law-map-malaysia", ]
+related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia", "work-passes-malaysia", "hiring-foreign-workers-malaysia"]
 keywords: ["employment pass malasia", "EP categoría 1 salario", "Employment Pass salario 2026", "registro ESD", "myxpats", "expatriado malasia", "renovación Employment Pass"]
 framework: rules
 ---

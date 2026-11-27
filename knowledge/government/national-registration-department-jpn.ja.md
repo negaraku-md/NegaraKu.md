@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "67bfea3efd0d9496"
+sourceContentHash: "919f05faaa650f3e"
 status: "archived"
 aiAssisted: true
 reviewer: null
@@ -82,6 +82,25 @@ wikidata: "Q7354404"
 relations: []
 related: []
 keywords: ["JPN", "Jabatan Pendaftaran Negara", "National Registration Department", "MyKad", "kad pengenalan", "NRIC", "IC Malaysia", "MyKid", "birth certificate Malaysia", "JPN online services", "MyKad replacement", "apply MyKad 12", "lost IC fee"]
+hero: '/media/government/national-registration-department-jpn/hero.webp'
+heroAlt: '青空を背にした、プトラジャヤの国家登録局(JPN)本部の段状の淡色の石の塔。塔の上部近くに「JPN」のロゴ'
+heroCredit: 'Farishhamka / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_bagi_ibu_pejabat_Jabatan_Pendaftaran_Negara_(JPN)_%E2%80%93_WP_Putrajaya,_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Headquarters of the National Registration Department (Jabatan Pendaftaran Negara, JPN) in Putrajaya, with ''JPN'' logos on the tower'
+
+images:
+  - role: scene
+    src: /media/government/national-registration-department-jpn/body-1.webp
+    alt: プトラジャヤにある国民登録局（JPN）本部を正面から見た全景。段状のアールデコ調の石造りのビルで、タワーに'JPN'のロゴ、入口の上に'Jabatan Pendaftaran Negara'の標示がある
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤにある国民登録局（JPN）本部ビルの正面全景。タワーの'JPN'ロゴと、基部の'Jabatan Pendaftaran Negara'の標示が見える
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_JPN_Putrajaya-30_Disember_2022.jpg
 ---
 
 **国民登録局**に関するガイドの多くは、一つの窓口業務にしか答えない——紛失した身分証（IC）の再発行方法や、子どもが12歳になったときに何を持参すべきかといった内容である。しかしJPNは、単一の手続きよりもはるかに大きな存在である。マレーシア国民の法的な人生全体を記録する機関だからだ。**国民登録局**（*Jabatan Pendaftaran Negara*、**JPN**）は、**内務省**（*Kementerian Dalam Negeri*、KDN）傘下の部門である。同局は、出生、死亡、養子縁組、婚姻及び離婚という個人の人生における重要な出来事を登録し、国籍資格を判定し、資格を有する個人に身分証明書を発行する。

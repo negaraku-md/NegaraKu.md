@@ -81,7 +81,7 @@ wikidata: "Q113542962"
 relations:
   - { rel: "related-to", to: "net-energy-metering-malaysia" }
   - { rel: "related-to", to: "solar-atap-malaysia" }
-related: []
+related: ["solar-energy-malaysia", "energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition"]
 keywords: ["SEDA", "Sustainable Energy Development Authority", "feed-in tariff", "NEM", "Solar ATAP", "KWTBB", "tenaga boleh baharu", "PETRA"]
 framework: profile
 ---

@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아에서 식품 제조는 어떻게 규제되나요?
     a: 식품 안전과 표시는 보건부가 집행하는 1983년 식품법과 그 하위 규정(1985년 식품규정, 2009년 식품위생규정 등)이 관장합니다. 할랄 표시는 별도로 말레이시아 이슬람개발부(JAKIM)가 통제하며, 공식 할랄 인증을 발급합니다.
 lang: ko
-sourceContentHash: "5dada9f392a41065"
+sourceContentHash: "14d00e339334b5b7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ keywords:
   - 1983년 식품법
   - MIDA 식품 인센티브
 framework: profile
+hero: '/media/industries/food-beverage-manufacturing-industry/hero.webp'
+heroAlt: '양조장 병입 라인의 구불구불한 스테인리스 컨베이어를 따라 이동하는 수천 개의 초록 유리병'
+heroCredit: 'ChristianBier / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Krostitzer_Brauerei_-_Abfuellung.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Thousands of green bottles moving along the winding conveyors of a brewery bottling line'
+
+images:
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-1.webp
+    alt: 여러 개의 컨베이어 라인과 포장 기계가 있는 음료 병입 공장을 위에서 내려다본 모습
+    kind: representative
+    origin: third-party
+    subject: 미국 캘리포니아주 가이저빌 인근 와이너리 병입 공장의 컨베이어와 포장 기계를 위에서 내려다본 모습
+    credit: DimiTalen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_Winery_bottling_plant,_near_Geyserville,_2011.jpg
+  - role: scene
+    src: /media/industries/food-beverage-manufacturing-industry/body-2.webp
+    alt: 철로 옆에 있는 식품 가공·물류 공장의 대형 원통형 곡물 사일로 여러 개와 저장 건물들
+    kind: representative
+    origin: third-party
+    subject: 인도 반델의 곡물 가공·물류 공장의 대형 사일로와 저장 창고
+    credit: Babin Mew / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Adani_Food_Processing_Plant_Bandel.jpg
 ---
 
 말레이시아에서는 거의 모든 사람이 하루에 몇 번씩 이 산업을 접합니다 — 아침의 밀로 한 잔, 점심의 라면 한 봉지, 오후의 생수 한 병, 조호르에서 분쇄한 코코아로 만든 초콜릿 한 조각. 식음료(F&B) 제조는 이 나라의 가장 조용한 대형 산업 중 하나입니다. 반도체만큼 화려하지는 않지만, 일상생활과 국가 식량안보, 그리고 하나의 강력한 발상 — 할랄 — 을 중심으로 자라나는 수출 이야기에 깊이 얽혀 있습니다.

@@ -35,7 +35,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,38 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Ini untuk bakal pelajar antarabangsa yang sedang memilih institusi dan program di Malaysia sebelum menerima tawaran dan memulakan proses visa pelajar.'
+  how: 'Lepasi dua pintu berasingan dahulu: program itu diakreditasi oleh Agensi Kelayakan Malaysia (MQA) dalam Daftar Kelayakan Malaysia (MQR), dan institusi itu sendiri diluluskan oleh Kementerian Pendidikan Tinggi untuk mengambil pelajar asing. Hanya surat tawaran yang ditandatangani daripada institusi sebegini mencetuskan Pas Pelajar, yang dihantar oleh institusi — bukan anda — kepada Education Malaysia Global Services (EMGS).'
+  cost: 'Yuran pengajian berbeza-beza dengan ketara mengikut institusi dan program, dan Pas Pelajar membawa caj EMGS serta visa yang berasingan dan disemak semula dari semasa ke semasa, jadi sahkan angka semasa dengan institusi dan portal EMGS (educationmalaysia.gov.my) dan bukan angka yang dipetik.'
+  watch: 'Akreditasi program MQA dan kelulusan institusi untuk mengambil pelajar asing adalah dua semakan yang berbeza — sesuatu program yang diakreditasi sepenuhnya boleh berada di institusi yang tidak dibenarkan mengambil anda. Pengajaran dalam medium bahasa Inggeris tidak menggantikan bukti kecekapan bahasa Inggeris yang diperlukan secara berasingan oleh EMGS.'
+  next: 'Sahkan kedua-dua pintu ini secara bertulis dengan pejabat antarabangsa institusi, terima tawaran, kemudian ikuti proses Pas Pelajar melalui EMGS. Lihat penerangan tentang Pas Pelajar, panduan Belajar di Malaysia, dan penerangan tentang akreditasi MQA.'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'Pintu masuk kampus Monash University Malaysia, dengan papan tanda laluan berbumbung bertuliskan "MONASH University" menghubungkan dua blok akademik berwarna krim melalui jejantas kaca.'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: Pintu masuk utama University of Nottingham Malaysia yang berpapan tanda dan dikelilingi tumbuhan hijau, sebuah kampus cawangan British yang menerima ramai pelajar antarabangsa.
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Cahaya matahari petang menerangi bangunan utama bertiang Xiamen University Malaysia, sebuah kampus cawangan China berhampiran Kuala Lumpur yang menarik pelajar dari luar negara.
+    kind: actual
+    origin: third-party
+    subject: Kampus Xiamen University Malaysia, Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 Surat tawaran daripada institusi yang salah jenis tidak bernilai untuk tujuan visa, walaupun program itu sendiri diakreditasi dengan sempurna. Perbezaan itu — program yang diakreditasi berbanding institusi yang diluluskan untuk pelajar antarabangsa — adalah punca kebanyakan kekeliruan bermula, jauh sebelum sesiapa pun mengisi borang EMGS.

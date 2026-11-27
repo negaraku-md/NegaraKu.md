@@ -29,7 +29,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d102a726d64965e"
+sourceContentHash: "9832de6b4d7d8dec"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -98,9 +98,36 @@ sources:
     publisher: "Padiberas Nasional Berhad (BERNAS)"
 entity: "Padi and rice industry in Malaysia"
 relations: []
-related: []
+related: ["food-security-self-sufficiency-policy", "agricultural-subsidies-farm-input-support", "ministry-of-agriculture-food-security-and-agencies"]
 keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malaysia", "SSL rice", "BERNAS", "Padiberas Nasional", "guaranteed minimum price padi", "Harga Minimum Terjamin", "MADA", "kawasan jelapang padi", "subsidi harga padi", "SSHP", "Dasar Agromakanan Negara 2.0", "National Agrofood Policy", "rice import Malaysia", "padi farmers Malaysia"]
 framework: profile
+hero: '/media/agriculture/padi-and-rice-industry/hero.webp'
+heroAlt: 'குறுகிய நீர் நிறைந்த பாசன வாய்க்காலின் இருபுறமும் பரவி, மங்கலான அடிவானம் வரை நேராக நீளும் பிரகாசமான பச்சை நெல் வயல்கள்'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'lush green paddy fields stretching to the horizon along a straight water-filled irrigation channel at Sekinchan, Selangor'
+images:
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-1.webp
+    alt: தெளிந்த நீல வானத்தின் கீழ், பின்னால் காடுகள் சூழ்ந்த மலைகளும் கிராமப் புற வீடுகளுடன், கம்பத்தில் துணி சோளக்கொல்லியுடன் பழுத்துவரும் நெல்வயல்
+    kind: actual
+    origin: third-party
+    subject: கெடா, லங்காவியில் காடுகள் சூழ்ந்த சுண்ணாம்புக்கல் மலைகளாலும் கம்பத்தாலும் பின்னணியாகக் கொண்ட, எளிய சோளக்கொல்லியுடன் பழுத்துவரும் பொன்-பச்சை நெல்வயல்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg
+  - role: scene
+    src: /media/agriculture/padi-and-rice-industry/body-2.webp
+    alt: மேகமூட்டமான வானத்தின் கீழ் அகன்ற பிரகாசமான பச்சை நெல்வயல்களுக்கு நடுவே புல் படர்ந்த பாதையில் சிறு கூட்டம்
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், செக்கின்சானில் தெளிந்த பச்சை நெல்வயல்களின் வரப்பில் நடந்து செல்லும் பார்வையாளர்கள்
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_5.jpg
 ---
 
 மலேசியா தடையற்ற சந்தைக்கு விட்டுவைக்க மறுக்கும் ஒரே உணவு அரிசிதான். அது எங்கு விளைவிக்கப்படுகிறது என்பதை அரசு குவிக்கிறது, அதை விளைவிக்கும் விவசாயிகளைத் தாங்குகிறது, பற்றாக்குறையை இறக்குமதி செய்ய ஒரே நிறுவனத்திற்கு உரிமம் வழங்குகிறது, மேலும் வழங்கல் அதிர்ச்சிகளுக்கு எதிராக அவசரக் கையிருப்பை வைத்திருக்கிறது. ஆயினும் இந்த ஏற்பாடு பல பத்தாண்டுகளாக இருந்தும், நாடு இன்னும் தான் உண்ணும் அரிசியில் சுமார் பாதியை மட்டுமே விளைவிக்கிறது.

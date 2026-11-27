@@ -34,7 +34,7 @@ faq:
     a: "旁遮普语仍然存续，但正经历语言转移：一项针对亚庇（Kota Kinabalu）锡克社群的学术研究发现，如今大多数家庭在家中使用英语。为保存这门语言，谒师所开办旁遮普语课程——例如芙蓉谒师所（Gurdwara Sahib Seremban）的旁遮普教育中心——向儿童教授古木基（Gurmukhi）文字。"
 
 lang: "zh"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: '仰角拍摄的新山锡克庙（Gurdwara Sahib）白色城垛式立面，正面饰有金色锡克Khanda徽章和古木基文字，阳台飘扬一面马来西亚国旗，蓝天下一座城市高楼耸立其后'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: 雪兰莪古鲁那纳克达尔巴塔卡尔萨迪宛锡克庙（Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor）明黄与白色相间的山墙立面，入口上方有锡克教「卡恩达」（Khanda）徽记，屋顶飘着橙色的尼尚萨希卜（Nishan Sahib）旗，右侧有一座金色洋葱顶，隔着格纹瓷砖前庭望去
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪古鲁那纳克达尔巴塔卡尔萨迪宛锡克庙，马来西亚雪兰莪莎阿南（Shah Alam）的一座锡克庙
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: 古晋锡克庙（Gurdwara Sahib Kuching）高耸的白色多塔立面，配金顶圆穹和角楼尖塔，锡克教「卡恩达」徽记分列在写着「Gurdwara Sahib Kuching」的黄色招牌两侧，中央旗杆上飘着马来西亚和砂拉越州旗，衬着蓝天
+    kind: actual
+    origin: third-party
+    subject: 古晋锡克庙，马来西亚砂拉越古晋由砂拉越锡克庙协会管理的锡克庙
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 在19世纪马来亚的英国警队和堡垒中，许多头缠头巾、蓄着浓密胡须的军官并非本地人——他们是从印度西北旁遮普被带来数千英里之外的锡克人。正是从这些维护治安的职务中，孕育出了马来西亚规模最小却最容易辨认的少数族群社群之一。

@@ -37,7 +37,7 @@ faq:
     a: "ที่เป็นเอกลักษณ์ อุทยานนี้กำกับดูแลโดยกฎบัญญัติของรัฐยุคอาณานิคมสามฉบับ ได้แก่ กฎบัญญัติตามันเนอการา (ปะหัง) 1939 (กลันตัน) 1938 และ (ตรังกานู) 1939 แทนที่จะเป็นพระราชบัญญัติอุทยานแห่งชาติระดับสหพันธรัฐ (National Parks Act 1980) เพราะที่ดินและการป่าไม้เป็นเรื่องของรัฐภายใต้รัฐธรรมนูญแห่งสหพันธรัฐของมาเลเซีย พระราชบัญญัติระดับสหพันธรัฐจึงไม่มีผลกับสามรัฐนี้"
 
 lang: "th"
-sourceContentHash: "ac00cd742dba6263"
+sourceContentHash: "04c0eb8417aaa95b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,42 @@ relations:
   - { rel: "administered-by", to: "jabatan-perhilitan" }
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "gunung-tahan" }
-related: ["orang-asli"]
+related: ["orang-asli", "gunung-mulu-national-park", "kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide"]
 keywords: ["taman negara", "kuala tahan", "canopy walkway", "gunung tahan", "perhilitan", "national park malaysia", "jungle trekking", "rainforest"]
 framework: explainer
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางที่ต้องการป่าฝนเขตร้อนโบราณ — ทางเดินเรือนยอดไม้ การเดินป่า ซุ้มส่องสัตว์ และการล่องแม่น้ำ — โดยตั้งฐานที่ประตู Kuala Tahan ในรัฐ Pahang'
+  getThere: 'เดินทางทางถนนสู่ Jerantut ในรัฐ Pahang แล้วนั่งเรือขึ้น Sungai Tembeling จากท่าเรือ Kuala Tembeling สู่ Kuala Tahan โดยมีถนนเชื่อมตรงเป็นทางเลือก'
+  permit: 'ผู้มาเยือนทุกคนลงทะเบียนขอใบอนุญาตเข้า PERHILITAN เมื่อมาถึงที่ท่าเรือหรือเคาน์เตอร์อุทยาน จ่ายค่าใบอนุญาตกล้องแยกต่างหาก และต้องใช้มัคคุเทศก์ที่ได้รับอนุญาตสำหรับการปีน Gunung Tahan'
+  watch: 'มรสุมตะวันออกเฉียงเหนืออาจทำให้แม่น้ำเอ่อและกระทบเรือกับเส้นทาง ทางเดินเรือนยอดไม้เคยเผชิญการปิด และปลิงกับความชื้นมีอยู่ตลอด จึงควรยืนยันการเข้าถึงและจองมัคคุเทศก์ล่วงหน้า'
+  next: 'ตรวจสอบกฎและค่าธรรมเนียมใบอนุญาตและการเข้าปัจจุบันกับสำนักงานกรมสัตว์ป่าและอุทยานแห่งชาติ (PERHILITAN) ที่ Taman Negara Pahang'
+hero: '/media/tourism/taman-negara-ecotourism-guide/hero.webp'
+heroAlt: 'เนินเขาลูกคลื่นของป่าฝนเขตร้อนหนาแน่นทอดสู่เส้นขอบฟ้าใต้ท้องฟ้าสีครามในตามันเนการา'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Panoramic_view.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Panorama of ancient rainforest hills in Taman Negara national park'
+images:
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-1.webp
+    alt: นักท่องเที่ยวกำลังข้ามสะพานทางเดินเรือนยอดไม้แบบเชือกและไม้กระดานแคบๆ ที่แขวนอยู่ท่ามกลางต้นไม้ป่าฝนสูงในตามันเนอการา (Taman Negara)
+    kind: actual
+    origin: third-party
+    subject: สะพานแขวนทางเดินเรือนยอดไม้สูงในยอดไม้ป่าฝนที่ตามันเนอการา
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Canopy_Walkway.jpg
+  - role: scene
+    src: /media/tourism/taman-negara-ecotourism-guide/body-2.webp
+    alt: เรือยาวไม้บนแม่น้ำเติมเบอลิง (Tembeling River) ข้างริมฝั่งที่ปกคลุมด้วยป่า พร้อมหมอกเหนือเนินเขาที่ตามันเนอการา
+    kind: actual
+    origin: third-party
+    subject: แม่น้ำเติมเบอลิงพร้อมเรือยาวที่ท่าเรือตามันเนอการาในหมอกยามเช้า
+    credit: Chamberlain of Nilai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Tembeling_in_the_morning.jpg
 ---
 
 ยืนอยู่ที่ท่าเรือกัวลาตาฮันยามรุ่งสาง เฝ้ามองหมอกลอยขึ้นจากแม่น้ำที่แก่กว่าเทือกเขาหิมาลัย เป็นเรื่องง่ายที่จะลืมว่าคุณอยู่ห่างจากกัวลาลัมเปอร์เพียงครึ่งวัน ตามันเนอการาไม่ใช่แหล่งท่องเที่ยวที่สร้างขึ้น หากเป็นป่าฝนเขตร้อนที่มีชีวิตซึ่งยืนหยัดอยู่โดยแทบไม่ถูกรบกวนมาหลายสิบล้านปี และการเข้าไปในนั้นถูกและง่ายกว่าที่นักท่องเที่ยวเกือบทุกคนคาดคิด

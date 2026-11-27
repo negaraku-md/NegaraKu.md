@@ -32,7 +32,7 @@ faq:
     a: "Intrudu 是马六甲葡萄牙社群每年在圣灰星期三（四旬期开始）前的星期日举行的泼水节。村民与访客沿着葡萄牙村互相泼水，庆典伴随 branyo 舞蹈进行。"
 
 lang: "zh"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,34 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: '一排Kristang表演者身着葡萄牙—欧亚传统服装，女子戴红头巾、穿白上衣和绣花裙，男子戴黑帽、穿背心，在马六甲葡萄牙村''Festa San Pedro 2026''横幅下的舞台上载歌载舞'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: 马六甲葡萄牙村（Portuguese Settlement）葡萄牙广场（Medan Portugis）白色殖民风格的入口拱门，两侧是粉色、挂着招牌的克里斯坦（Kristang）餐馆，衬着晴朗的蓝天，背景有一栋现代高楼
+    kind: actual
+    origin: third-party
+    subject: 马六甲葡萄牙村的葡萄牙广场（Medan Portugis）入口
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: 马六甲葡萄牙村为圣伯多禄节（Feast of Saint Peter）装饰的一艘模型渔船，高高的白帆上绘着宗教场景和圣伯多禄像，船身挂着渔网，立在海滨旁，背后是棕榈树和围观者
+    kind: actual
+    origin: third-party
+    subject: 马六甲葡萄牙村为圣伯多禄节（San Pedro）打造的一艘装饰渔船
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 在马六甲的乌绒巴锡（Ujong Pasir），有一座海边村落，村民彼此打招呼时所用的语言既不是马来语，也不是英语，更不是现代葡萄牙语——而是五个世纪前抵达的征服者所留下的、依然存活的语言遗音。这就是克里斯坦社群的世界。

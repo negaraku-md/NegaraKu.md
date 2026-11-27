@@ -33,7 +33,7 @@ faq:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "Kepemilikan saham grup induk saat ini (kepentingan terkait Usaha Tegas dan Saudi Telecom Company) — konfirmasi terhadap keterbukaan Bursa Malaysia terbaru."
   - "Status jaringan 5G kedua Malaysia dan peran Maxis di dalamnya (U Mobile dipilih pada November 2024) — verifikasi kebijakan dan pengaturan 5G terkini dengan MCMC."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'Mahkota melengkung Menara Maxis yang disorot lampu pada malam hari, teras bertingkatnya bercahaya putih dengan latar langit hitam, dengan papan logo maxis biru dan hijau serta jam digital merah bertuliskan 7:57 terpasang dekat puncak'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: Menara Maxis dari batu cokelat muda dan kaca hijau yang melengkung ke atas menuju mahkota berlengkung dengan latar langit berawan, logo maxis dan jam digital tampak tinggi pada fasadnya, logo Suria KLCC pada podium di bawahnya
+    kind: actual
+    origin: third-party
+    subject: Pemandangan siang hari Menara Maxis yang menjulang di atas mal Suria KLCC, Kuala Lumpur, dengan logo maxis dan jam dekat mahkotanya
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: Pemandangan malam dari bawah yang curam ke fasad Menara Maxis yang menyempit dan bercahaya, dengan spanduk iklan tinggi menyala berlogo maxis tergantung di lantai-lantai bawahnya dengan latar langit hitam
+    kind: actual
+    origin: third-party
+    subject: Menara Maxis pada malam hari dilihat dari dasarnya, dengan spanduk iklan besar bermerek maxis pada fasad bawahnya, KLCC, Kuala Lumpur
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 Hampir setiap warga Malaysia yang memiliki telepon, pada suatu saat, pernah menjadi pelanggan Maxis atau Hotlink. Di balik dua merek yang akrab itu berdiri satu perusahaan — Maxis Berhad — yang termasuk operator telekomunikasi terbesar negara ini dan telah tumbuh dari pembawa jaringan hanya-seluler menjadi penyedia terpadu layanan seluler, broadband rumah, dan konektivitas enterprise.

@@ -35,7 +35,7 @@ faq:
     a: "Sipadan đóng cửa vào mỗi tháng 11 để rạn san hô phục hồi, nên hãy lên kế hoạch các chuyến lặn từ tháng 12 đến tháng 10. Ở nơi khác, các tháng gió mùa Đông Bắc ẩm ướt hơn (khoảng tháng 11 đến tháng 3) mang nhiều mưa hơn đến Borneo."
 
 lang: "vi"
-sourceContentHash: "65ae95f784dc6568"
+sourceContentHash: "c01c592226f05dbe"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-entry-requirements" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "part-of", to: "malaysia-agreement-1963" }
-related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips"]
+related: ["malaysia-entry-visa-requirements", "tourist-safety-health-practical-tips", "sarawak-visitor-guide", "mount-kinabalu-and-kinabalu-park", "sipadan-and-semporna", "kuching-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Sabah travel guide", "Kota Kinabalu", "Mount Kinabalu climb permit", "Kinabalu Park UNESCO", "Sipadan diving permit", "Sepilok orangutan", "Sabah immigration checkpoint", "Sabah entry requirements"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách ưu tiên thiên nhiên muốn những trải nghiệm tiêu đề của Borneo — leo Mount Kinabalu, lặn rạn san hô được bảo vệ của Sipadan, và ngắm đười ươi cùng động vật hoang dã trên sông quanh Sandakan.'
+  getThere: 'Bay vào Kota Kinabalu International Airport, cửa ngõ hàng không chính của Sabah, rồi đi các chặng nội địa ngắn tiếp tới Sandakan, Tawau và vùng lặn.'
+  permit: 'Sabah kiểm soát việc nhập cảnh riêng của mình theo Hiệp định Malaysia 1963, nên mọi người đến — kể cả người Malaysia bay vào từ Bán đảo — đều qua một trạm kiểm soát và nhận một thẻ thăm (visit pass), trong khi chặng leo Mount Kinabalu và lặn Sipadan mỗi thứ đều bị khống chế bằng các giấy phép Sabah Parks có giới hạn.'
+  watch: 'Hãy đặt trước thật sớm các điểm nổi bật khan hiếm, bị khống chế bằng giấy phép và lên kế hoạch quanh đợt đóng cửa thường niên tháng Mười Một của Sipadan để rạn san hô phục hồi, vì những phần này bán hết và không thể giữ chỗ khi đến nơi.'
+  next: 'Hãy xác nhận quy định nhập cảnh, thẻ thăm và giấy phép hiện tại với Cục Nhập cảnh Malaysia (Immigration Department) và Sabah Parks trước khi bạn đi.'
+hero: '/media/tourism/sabah-visitor-guide/hero.webp'
+heroAlt: 'Đỉnh granit của St. John''s Peak trên núi Kinabalu rực hồng lúc rạng đông trên một biển mây'
+heroCredit: 'kallerna / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._John''s_Peak_Mount_Kinabalu_3.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'St. John''s Peak on Mount Kinabalu catching pink alpenglow just before sunrise, above a sea of clouds'
+images:
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-1.webp
+    alt: Cận cảnh một con khỉ vòi với bộ lông vàng nhạt và chiếc mũi dài trên nền rừng xanh mờ tại Vịnh Labuk, Sabah
+    kind: actual
+    origin: third-party
+    subject: Một con khỉ vòi, loài đặc hữu của Borneo, được chụp tại Vịnh Labuk ở Sabah
+    credit: Charles J. Sharp / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus)_female_Labuk_Bay.jpg
+  - role: scene
+    src: /media/tourism/sabah-visitor-guide/body-2.webp
+    alt: Hoàng hôn cam rực trên biển ở Kota Kinabalu, với bóng những chiếc thuyền đánh cá và một hòn đảo ở đường chân trời
+    kind: actual
+    origin: third-party
+    subject: Hoàng hôn vàng rực trên bờ biển Kota Kinabalu với bóng thuyền đánh cá trên biển và những hòn đảo ở chân trời
+    credit: Kevin85Sam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_Sunset.jpg
 ---
 
 Bạn có thể bay từ Kuala Lumpur đến Kota Kinabalu mà không rời khỏi đất nước và vẫn xếp hàng tại một quầy di trú khi hạ cánh. Điều bất ngờ đó khiến nhiều du khách lần đầu bối rối — và đó là điều quan trọng nhất cần hiểu trước khi bạn lên kế hoạch cho chuyến đi đến Sabah. Cẩm nang này đi qua cửa ngõ, các điểm thu hút hàng đầu, và các quy định nhập cảnh khiến Sabah cảm thấy như một nơi riêng của nó, bởi vì theo một nghĩa rất thực, nó đúng là như vậy.

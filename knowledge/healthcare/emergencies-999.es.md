@@ -31,7 +31,7 @@ faq:
     a: "Las ambulancias públicas se envían de forma gratuita a través de la línea 999 y las gestiona el KKM junto con organismos voluntarios como St John Ambulance y la Sociedad de la Media Luna Roja de Malasia. Las ambulancias privadas, por su parte, son operadas por empresas u hospitales privados a través de sus propias líneas directas, y cobran una tarifa de servicio según la naturaleza de la llamada."
 
 lang: "es"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["pdrm", "traffic-summons-saman"]
 keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulancia de emergencia Malasia", "Servicio de Urgencias", "triaje zona roja amarilla verde", "ambulancia gratuita", "cargos de urgencias hospital público"]
 framework: explainer
+hero: '/media/healthcare/emergencies-999/hero.webp'
+heroAlt: 'Una ambulancia del Ministerio de Salud de Malasia en una autopista, marcada con ''Ambulans'' y el número de emergencia 999.'
+heroCredit: 'DeltaSquad833 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: Una estación del Departamento de Bomberos y Rescate de Malasia (Bomba), uno de los servicios de emergencia a los que se accede a través de la línea telefónica 999
+    kind: actual
+    origin: third-party
+    subject: Estación del Departamento de Bomberos y Rescate (Bomba, JBPM) en Pagoh, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: Una ambulancia de St John Ambulance Malaysia en una calle de Melaka, uno de los servicios médicos de emergencia voluntarios que operan junto a la respuesta gubernamental
+    kind: actual
+    origin: third-party
+    subject: Una ambulancia de emergencia de St John Ambulance Malaysia estacionada en Melaka
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 Marca el 999. La voz al otro lado le pregunta su nombre, su ubicación y qué ha ocurrido, y dentro del tiempo de respuesta objetivo, un equipo de ambulancia ya debería estar en camino. Pero mucha gente no sabe qué sucede realmente detrás de esa llamada: quién responde de verdad, si es gratuita, y por qué a veces otro paciente que llegó más tarde al hospital recibe tratamiento antes que usted.

@@ -90,9 +90,16 @@ entity: "Operation Lalang"
 wikidata: "Q1015909"
 relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
-related: []
+related: ["mahathir-mohamad", "barisan-nasional", "sedition-act"]
 keywords: ["Ops Lalang", "عملية لالانغ", "Operation Lalang", "Internal Security Act", "قانون الأمن الداخلي", "ISA 1960", "الاحتجاز دون محاكمة", "detention without trial", "1987 Malaysia", "SOSMA", "حرية الصحافة في ماليزيا"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: 'مبنى قصر العدل في بوتراجايا، مقر المحاكم العليا في ماليزيا.'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في الليلة التي بدأت فيها الاعتقالات أواخر أكتوبر 1987، لم تكن الأبواب التي أُغلقت أبواب الزنازين وحدها — فقد خبت ثلاث صحف في غضون أيام، ودخلت عبارة "Ops Lalang" الذاكرة السياسية الماليزية بوصفها اختصاراً للاحتجاز دون محاكمة. وبعد نحو أربعة عقود، ما زالت موضع جدل: ماذا منعت، وماذا أسكتت، وماذا تقول عن السلطات التي يجوز للدولة أن تملكها إزاء مواطنيها.

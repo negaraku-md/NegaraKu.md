@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 
 status: "published"
 aiAssisted: true
@@ -88,9 +88,35 @@ entity: "Nicol David"
 wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'Juara skuasy Malaysia Nicol David meregang untuk memukul pukulan forehand semasa perlawanan kejohanan.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: Sebuah gelanggang pertunjukan skuasy serba kaca yang bercahaya limpah didirikan di dalam sebuah arena untuk satu kejohanan profesional, dilihat dari tempat duduk bertingkat di sekelilingnya.
+    kind: representative
+    origin: third-party
+    subject: Sebuah gelanggang pertunjukan kaca disediakan untuk satu kejohanan skuasy profesional
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: Dua pemain bertanding di atas gelanggang skuasy berdinding kaca yang dikelilingi penonton di dalam sebuah dewan besar pada satu kejohanan skuasy utama.
+    kind: representative
+    origin: third-party
+    subject: Satu perlawanan skuasy profesional di atas gelanggang kaca di hadapan khalayak yang sarat
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 Selama sembilan tahun berturut-turut, pemain skuasy terbaik di dunia berasal dari Pulau Pinang. Nicol David bukan sekadar menang dalam sukan individu paling berjaya di Malaysia — beliau menulis semula rupa penguasaan dalam sukan tersebut, memegang kedudukan nombor satu dunia selama **108 bulan berturut-turut** sehingga September 2015, penguasaan tanpa putus terpanjang yang pernah disaksikan dalam sukan ini.

@@ -35,7 +35,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "f73afc4fde1b17b3"
+sourceContentHash: "56cd5bd73801c865"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,34 @@ sources:
 entity: "Putrajaya (capitale administrative fédérale de la Malaisie)"
 relations:
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/tourism/a-gentler-day-out-in-putrajaya/hero.webp'
+heroAlt: 'La mosquée Putra à dôme rose à côté de son minaret et le complexe gouvernemental Perdana Putra, reflétés à travers le lac de Putrajaya sous des nuages spectaculaires'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Putra Mosque and Perdana Putra complex across Putrajaya Lake'
+images:
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-1.webp
+    alt: Le pont à haubans Seri Wawasan en forme de voile enjambant le lac de Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Pont Seri Wawasan, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/tourism/a-gentler-day-out-in-putrajaya/body-2.webp
+    alt: Gros plan sur le dôme rose finement orné de la mosquée Putra sous un ciel d'orage à Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Le dôme rose de la mosquée Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-03.jpg
+wikidata: "Q182378"
 ---
 
 Putrajaya récompense la visite, mais elle punit le mauvais plan. La capitale administrative fédérale de la Malaisie, bâtie sur mesure, est une ville de **larges boulevards, de bâtiments monumentaux, d'esplanades cérémonielles, de ponts et d'un grand lac artificiel** — magnifique, et conçue pour les voitures. Ses sites emblématiques sont dispersés dans des précincts (Precinct) numérotés, souvent à un kilomètre ou plus les uns des autres, avec peu d'ombre entre deux. Arrivez en pensant flâner de la mosquée aux jardins puis aux boutiques et vous passerez une journée chaude à marcher de longues distances exposées. Arrivez avec un plan plus doux et Putrajaya devient l'une des journées calmes les plus faciles à passer près de Kuala Lumpur.

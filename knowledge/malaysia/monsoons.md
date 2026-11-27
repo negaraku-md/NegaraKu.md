@@ -79,6 +79,32 @@ faq:
   - q: Adakah Monsun Timur Laut sama teruk sepanjang November hingga Mac?
     a: Tidak. Data rasmi Majlis Keselamatan Negara (MKN) bagi musim 2024/2025 menunjukkan kawasan berisiko tertinggi berubah mengikut fasa. Pada fasa awal (November–Disember) Kelantan, Terengganu, Pahang, Johor, Sarawak dan Sabah terjejas; pada fasa lewat (Januari–Februari) tumpuan beralih ke Pahang, Johor, Sarawak dan Sabah — Kelantan dan Terengganu tidak lagi disenaraikan berisiko tertinggi. Keseluruhan musim dijangka mencatat 5 hingga 7 episod hujan lebat.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'Hujan yang dipukul angin melibas sekumpulan pokok palma yang tunduk di atas dataran bandar yang lengang dan licin dengan air, pelepahnya melayang ke tepi di bawah langit kelabu suram ketika menara pencakar langit lenyap dalam hujan lebat.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: Sebuah kereta merembeskan percikan air ketika memandu menerusi air banjir berwarna perang yang menenggelami jalan bandar semasa hujan lebat tropika.
+    kind: actual
+    origin: third-party
+    subject: Hujan lebat yang membanjiri Jalan Raja Chulan, Kuala Lumpur
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: Hujan yang mencurah-curah turun ke atas lorong kampung yang tenggelam di bawah air banjir berlumpur, dengan pokok pisang dan sebatang tiang elektrik tercacak dalam air.
+    kind: actual
+    origin: third-party
+    subject: Air banjir monsun melitupi jalan kampung di Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 Setiap November, sebelum semak berita, ramai penduduk Kota Bharu, Kuala Terengganu dan Kuantan mula menyemak paras air sungai berhampiran rumah mereka. Ini bukan kebiasaan yang timbul daripada bencana luar jangka — ia satu jadual yang boleh diramal, berulang setiap tahun, dan puncanya ialah satu sistem angin bermusim yang sama yang juga menentukan bila pantai barat Semenanjung pula kering.

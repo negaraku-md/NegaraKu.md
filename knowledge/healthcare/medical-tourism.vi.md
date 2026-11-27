@@ -32,7 +32,7 @@ faq:
     a: "Bộ Y tế cấp phép cho các cơ sở y tế tư nhân và Hội đồng Y khoa Malaysia (Malaysian Medical Council) đăng ký và kỷ luật bác sĩ. Nhiều bệnh viện cũng có công nhận tự nguyện từ Hiệp hội Malaysia về Chất lượng trong Y tế (Malaysian Society for Quality in Health, MSQH) hoặc Joint Commission International (JCI). MHTC nằm ngoài chuỗi quản lý đó."
 
 lang: "vi"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["mm2h-long-stay-visa"]
 keywords: ["medical tourism Malaysia", "MHTC Malaysia Healthcare Travel Council", "Malaysia healthcare travellers", "healthcare travel Malaysia cost", "why patients come to Malaysia for treatment"]
 framework: explainer
+hero: '/media/healthcare/medical-tourism/hero.webp'
+heroAlt: 'Bên ngoài Prince Court Medical Centre ở Kuala Lumpur, một bệnh viện tư nhân hàng đầu của Malaysia phục vụ khách du lịch y tế.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: Một tòa nhà bệnh viện tư nhân hiện đại với mặt tiền kính ở Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital, một trung tâm y tế tư nhân ở Kota Kinabalu, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: Lối vào cấp cứu có biển hiệu của một bệnh viện tư nhân Malaysia, với bảng chỉ dẫn hướng đến sảnh và các phòng khám chuyên khoa
+    kind: actual
+    origin: third-party
+    subject: Lối vào cấp cứu và bảng chỉ dẫn sảnh của Pantai Hospital, một bệnh viện tư nhân ở Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 Một gia đình từ Jakarta bay đến cho ca bắc cầu động mạch tim của người cha. Một cặp vợ chồng người Anh đặt lịch IVF vì danh sách chờ ở quê nhà kéo dài vượt quá cửa sổ khả năng sinh sản của họ. Một bệnh nhân người Bangladesh đến để làm một cuộc sàng lọc sức khỏe thường quy mà phòng khám ở quê ông không thể thực hiện.

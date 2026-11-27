@@ -31,7 +31,7 @@ faq:
     a: "Tidak. Memancing dilarang di dalam batas taman laut, dan pengunjung tidak boleh mengambil bagian mana pun dari organisme laut — hidup atau mati — termasuk kepingan terumbu karang dan cangkang, serta tidak boleh menyentuh, menginjak atau merusak terumbu karang."
 
 lang: "id"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["Perhentian", "Redang", "Tioman", "Kapas", "marine park", "conservation fee", "northeast monsoon", "Malaysia islands", "snorkelling", "diving"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'Pelancong pantai-dan-terumbu — perenkel dan penyelam yang mencari perjalanan pulau taman laut, dari pantai backpacker hingga resor paket.'
+  getThere: 'Perahu dari dermaga daratan masing-masing pulau: Merang untuk Redang, Kuala Besut untuk Perhentian, dan Marang untuk Kapas di Terengganu, serta Mersing atau Tanjung Gemok untuk Tioman di Pahang.'
+  permit: 'Biaya konservasi taman laut yang wajib, dibayar di loket terminal dermaga daratan sebelum naik perahu dan terpisah dari ongkos perahu Anda.'
+  watch: 'Tidak ada penutupan wajib tunggal, tetapi sebagian besar operator pulau tutup secara sukarela selama musim angin timur laut, jadi menjelang bulan-bulan itu konfirmasikan penyeberangan perahu sebelum membayar.'
+  next: 'Konfirmasikan biaya konservasi dan aturan taman laut terkini dengan Jabatan Perikanan Malaysia (Department of Fisheries Malaysia).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'Pantai berpasir putih yang lengang dengan bongkahan batu granit lapuk, sebatang pohon, dan perairan dangkal toska di bawah langit biru berawan kumulus di Kepulauan Perhentian'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: Pantai pasir putih lebar yang melengkung menuju pulau karang kecil berhutan dengan air biru toska dan pohon palem di Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: Pantai pasir putih panjang Pulau Redang dengan pulau karang lepas pantai dan air biru toska, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: Pemandangan dari ketinggian atas atap pondok rustik dan pohon palem menuju teluk biru toska cemerlang yang dipenuhi perahu kecil serta tanjung berhutan di Kepulauan Perhentian
+    kind: actual
+    origin: third-party
+    subject: Pemandangan dari ketinggian atas desa pantai dan teluk biru toska yang dipenuhi perahu di Kepulauan Perhentian, basis snorkeling populer
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 Tiba di sebuah resor pantai Redang pada bulan Desember dan besar kemungkinan Anda akan mendapati perahu sudah tidak ada, jeti sunyi dan toko selam tertutup. Pulau-pulau pantai timur beroperasi menurut kalender yang ditulis oleh laut, bukan oleh brosur wisata — dan menurut satu set aturan taman laut yang baru diketahui sebagian besar pengunjung pertama kali di loket tiket.

@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,34 @@ relations:
 related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-invoicing"]
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
 framework: profile
+hero: '/media/government/lhdn/hero.webp'
+heroAlt: 'Sabah Sandakan-ல், பிரகாசமான நீல வானத்திற்கு எதிரே, விரிந்த வளைந்த தொங்கும் கூரையும், முக்கோண Hasil சின்னத்திற்கு அருகே WISMA HASIL எனப் படிக்கும் நீல பலகையும் கொண்ட நவீன அலுவலகக் கட்டிடம்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: நுழைவாயிலுக்கு மேலே HASIL மற்றும் Lembaga Hasil Dalam Negeri பலகைகளைச் சுமக்கும் மெரூன் நிற அடித்தளத்துடன் கூடிய உயரமான நீல-பச்சை கண்ணாடி அலுவலக கோபுரம், சரவாக் மாநிலம் கூச்சிங்கில் தெருவிலிருந்து பார்த்த காட்சி
+    kind: actual
+    origin: third-party
+    subject: சரவாக் மாநிலம் கூச்சிங்கில் உள்ள உள்நாட்டு வருவாய் வாரியம் (LHDN / Lembaga Hasil Dalam Negeri) கோபுரம்
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: கூரை விளிம்பிற்கு அருகில் நீல நிற HASIL சொல்-அடையாளத்தைக் காட்டும் வெள்ளை மற்றும் நீலப்பச்சை-கண்ணாடி உயர்-கட்டிடம், சபா மாநிலம் கோட்டா கினபாலுவில் மரங்கள் வரிசையாக நிற்கும் சாலைக்கு மேலே உயர்ந்து நிற்கிறது
+    kind: actual
+    origin: third-party
+    subject: சபா மாநிலம் கோட்டா கினபாலுவில் உள்ள மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN) கட்டிடமான Wisma Hasil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## ஒரு பார்வையில்

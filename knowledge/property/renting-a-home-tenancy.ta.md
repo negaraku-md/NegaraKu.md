@@ -24,7 +24,7 @@ appliesTo: "மலேசியாவில் ஒரு குடியிரு
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,32 @@ faq:
   - q: வாடகைதாரர் வெளியேற மறுத்தால், வீட்டு உரிமையாளர் பூட்டுகளை மாற்றலாமா அல்லது பயன்பாட்டு சேவைகளைத் துண்டிக்கலாமா?
     a: இல்லை. 1950 ஆம் ஆண்டு குறிப்பிட்ட நிவாரணச் சட்டத்தின் (Specific Relief Act 1950) பிரிவு 7(2), வீட்டு உரிமையாளர் தாமாகவே வெளியேற்றுவதைத் தடை செய்கிறது — வாடகைதாரர் இன்னும் அந்த இடத்தில் தங்கியிருக்கும்போது பூட்டுகளை மாற்றுதல், மின்சாரம் அல்லது நீரைத் துண்டித்தல், அல்லது பொருட்களை அகற்றுதல் கூடாது. உடைமையை மீட்டெடுக்க நீதிமன்ற உத்தரவு தேவை. செலுத்தப்படாத வாடகைக்கு, வீட்டு உரிமையாளர் வாடகைதாரரை நேரடியாக எதிர்கொள்வதற்குப் பதிலாக, வாடகைதாரரின் அசையும் சொத்தைக் கைப்பற்ற 1951 ஆம் ஆண்டு பறிமுதல் சட்டத்தின் (Distress Act 1951) கீழ் பறிமுதல் ஆணைக்கு நீதிமன்றத்தில் விண்ணப்பிக்கிறார்.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'குவாலாலம்பூர், தாமான் மிஹார்ஜாவில் ஒரு LRT பாதைக்கு அருகில் உள்ள வானுயர் குடியிருப்பு வீடுகள்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: கோலாலம்பூரில் ஆற்றங்கரையில் அடர்த்தியாக அமைந்த உயரமான அடுக்குமாடிக் குடியிருப்புகள்; மலேசியாவில் வாடகை வீடுகளைக் குறிக்கின்றன
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூர், Abdullah Hukum இல் உயரமான அடுக்குமாடிக் குடியிருப்புகள்
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: பினாங்கு, புறநகர் ஜார்ஜ் டவுனில் நடுத்தர மற்றும் உயரமான அடுக்குமாடிக் கட்டிடத் தொகுதிகள்; மலேசியாவில் வாடகைக்கு வழங்கப்படும் வீடுகளுக்கு வழக்கமானவை
+    kind: representative
+    origin: third-party
+    subject: பினாங்கு, புறநகர் ஜார்ஜ் டவுனில் அடுக்குமாடிக் கட்டிடத் தொகுதிகள்
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 மலேசியாவில் ஒரு வீட்டு உரிமையாளரிடமும் ஒரு வாடகைதாரரிடமும் எந்தச் சட்டம் அவர்களைப் பாதுகாக்கிறது என்று கேளுங்கள், பெரும்பாலானோர் தவறாகவே ஊகிப்பார்கள். ஆதரவுக்காக நாடுவதற்கு “Residential Tenancy Act” எதுவும் இல்லை — அறிவிப்புக் காலங்களை நிர்ணயிக்கும், வைப்புத்தொகைகளுக்கு உச்சவரம்பு விதிக்கும், அல்லது வெளியேறும்போது வீட்டு உரிமையாளர் என்ன செய்யலாம், என்ன செய்யக்கூடாது என்பதை விவரிக்கும் ஒரே சட்டம் எதுவும் இல்லை.

@@ -20,7 +20,7 @@ keyTakeaways:
   - "1824년 3월 17일 영란 조약(Anglo-Dutch Treaty)은 벤쿨렌(Bencoolen)과 맞바꾸어 말라카를 영국에 영구히 할양하였으며, 실제 이양은 1825년 3월 1일에 발효되었습니다"
 appliesTo: "말라카(Melaka)가 포르투갈에서 네덜란드로, 다시 영국으로 손이 바뀌었다는 사실을 이미 알고 있으며, 그 중간의 184년이 앞선 130년 및 뒤이은 121년과 왜 그토록 달랐는지 — 그리고 영국으로의 이양이 실제로 어떻게 이루어졌는지 — 이해하고자 하는 독자."
 lang: "ko"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: 믈라카는 네덜란드에서 영국으로 한 번의 깔끔한 이양으로 넘어갔습니까?
     a: 아닙니다. 그것은 30년 동안 행정적으로 네 번 주인이 바뀌었습니다. 영국은 1795년 믈라카가 프랑스의 손에 넘어가는 것을 막기 위해 큐 서한(Kew Letters)에 따라 점령했고, 1818년에 믈라카는 네덜란드에 반환되었으며, 1824년의 영국-네덜란드 조약(1824년 3월 17일 서명)이 수마트라의 벤쿨렌(Bencoolen)과 교환하여 이를 영국에 영구히 할양했고, 실제 이양은 1825년 3월 1일에 발효되었습니다.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: '믈라카의 더치 광장에 있는 짙은 붉은색 네덜란드 식민지 시대 건물 스타다위스(Stadthuys)와 붉은 시계탑으로, 그 앞에는 꽃이 가득한 로터리와 방향 안내 표지판이 있다.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: 믈라카 크라이스트 교회의 짙은 붉은색 벽돌 정면이 하늘을 배경으로 솟아 있으며, 박공에는 흰 십자가와 시계가 박혀 있다.
+    kind: actual
+    origin: third-party
+    subject: 믈라카 크라이스트 교회, 1753년 네덜란드인이 지은 교회
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: '''Kubur Belanda / The Dutch Graveyard''라고 적힌 흰색 아치형 문이 믈라카 세인트폴 언덕의 나무 그늘이 드리운 식민지 시대 묘지로 이어진다.'
+    kind: actual
+    origin: third-party
+    subject: 믈라카 세인트폴 언덕의 네덜란드인 묘지(쿠부르 블란다)
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 한 회사가 항구 하나를 정복하기 위해 7개월과 외국 술탄국과의 동맹을 쏟아붓습니다. 그런 다음 이후 한 세기 반 동안 그 항구가 결코 부유해지지 않도록 애씁니다.

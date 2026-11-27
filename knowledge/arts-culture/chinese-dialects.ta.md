@@ -32,7 +32,7 @@ seoTitle: "மலேசிய சீன கிளைமொழிகள்: ப�
 socialTitle: "ஒரே சீனர்கள், ஏன் வெவ்வேறு மொழிகள்? மலேசியாவின் கிளைமொழி வரைபடம்"
 
 lang: "ta"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,32 @@ relations:
 related: ["population-composition", "tamil-in-malaysia", "peranakan", "chinese-new-year", "article-152-language"]
 keywords: ["马来西亚华人方言", "福建话", "广东话", "客家话", "潮州话", "海南话", "福州话", "方言群", "槟城福建话", "诗巫福州", "沙巴客家"]
 framework: explainer
+hero: '/media/arts-culture/chinese-dialects/hero.webp'
+heroAlt: 'கோலாலம்பூரின் சைனாடவுனில் Jalan Petaling மீது அமைந்த பச்சை நிற கோபுர கூரை வாயில், பரபரப்பான சந்தைத் தெருவுக்கு மேலே ''Petaling Street'' என்று குறிக்கப்பட்டு, சிவப்பு விளக்குகள் மற்றும் சீன கடை அறிவிப்புப் பலகைகளுடன் உள்ளது.'
+heroCredit: 'IQRemix / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: பினாங்கில் ஒரு தியோச்சியூ சீன மூதாதையர் கோயிலில் அங்கி அணிந்த உருவங்கள் தீட்டப்பட்ட கதவுத் தட்டிகளும் புலி புடைப்புச் சிற்பமும்
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுனில் தியோச்சியூ கிளைமொழிக் குழு கோயிலான ஹான் ஜியாங் மூதாதையர் கோயிலில் தீட்டப்பட்ட கதவுக் காவல் தெய்வங்களும் புலி புடைப்புச் சிற்பமும்
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: ஜார்ஜ் டவுனின் அமைதியான தெரு ஒன்றின் ஓரத்தில், மூடிய ஜன்னல்களும் கூரையிட்ட ஐந்தடி நடைபாதைகளும் கொண்ட பழைய இருமாடிச் சீனக் கடை-வீடுகள்
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுனில் ஒரு தெருவில் ஐந்தடி நடைபாதைகளுடன் கூடிய பழைய சீனக் கடை-வீடுகளின் வரிசை
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 பினாங்கின் (Penang) ஒரு காப்பிக் கடையில், நீங்கள் ஹொக்கியன் (Hokkien) மொழியில் ஒரு கோபி (kopi) கேட்கிறீர்கள்; கோலாலம்பூரிலும் (Kuala Lumpur) ஈப்போவிலும் (Ipoh), அதே ஒரு கோப்பை காப்பி கண்டோனீஸ் (Cantonese) மொழியில் கேட்கப்படுகிறது; சரவாக்கின் (Sarawak) சிபு (Sibu) நோக்கி மேலும் சென்றால், உங்களுக்குப் பரிமாறுபவர் ஃபூச்சௌ (Foochow) பேசுபவராக இருக்கக்கூடும். மூவரும் சீன மலேசியர்களே — ஆயினும் அவர்கள் ஒருவருக்கொருவர் புரிந்துகொள்ள முடியாத மூன்று மொழிகளில் பேசுகிறார்கள்.

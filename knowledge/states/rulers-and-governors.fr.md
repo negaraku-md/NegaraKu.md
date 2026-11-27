@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "État monarchique", "État sans Souverain", "Sultan de Malaisie", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "chef d'État de la Malaisie", "Majlis Raja-Raja", "Article 71 de la Constitution"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: 'La grandiose porte cérémonielle en arc à coupole dorée de l''Istana Negara, avec le palais royal à coupole et la ligne d''horizon de gratte-ciel de la ville à l''arrière.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La Malaisie compte 13 États, mais seulement neuf trônes. Les quatre autres États

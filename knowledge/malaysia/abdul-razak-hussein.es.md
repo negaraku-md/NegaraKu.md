@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "Abdul Razak Hussein"
-seoTitle: Abdul Razak Hussein
+seoTitle: "Abdul Razak Hussein: Segundo primer ministro de Malasia (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]
@@ -71,6 +71,13 @@ verificationNeeded:
   - "Confírmense las fechas exactas (mandato, nacimiento, muerte) frente a la Perdana Leadership Foundation y la Oficina del Primer Ministro."
   - "Las fuentes difieren sobre el año de fundación del Barisan Nasional (la coalición tomó forma en 1973 y se registró formalmente en 1974); confírmense la fecha y la redacción precisas antes de apoyarse en ello."
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: 'Abdul Razak Hussein con un songkok negro y un traje oscuro con una corbata azul estampada, mirando al frente en un retrato oficial formal ante una cortina de brocado dorado.'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En el espacio de unos pocos años turbulentos, Tun Abdul Razak Hussein pasó de guardián constitucional de una nación bajo gobierno de emergencia a principal arquitecto de su orden económico moderno. El segundo primer ministro de Malasia gobernó apenas cinco años y, sin embargo, el marco que construyó —una economía de acción afirmativa, una coalición dominante y una política exterior pragmática— moldeó al país durante décadas después de su súbita muerte en el cargo. Para muchos malasios sigue siendo sencillamente **Bapa Pembangunan**, el Padre del Desarrollo.

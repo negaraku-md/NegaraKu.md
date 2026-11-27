@@ -38,7 +38,7 @@ reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 reviewDue: 2027-07-24
 publishedBy: "ashton-tan"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 revision: 0
 revisions:
   - revision: 0
@@ -68,6 +68,32 @@ relations:
 related: ["malaysian-education-system", "enrolling-in-a-government-school", "private-and-chinese-independent-schools"]
 keywords: ["sekolah kebangsaan", "SJKC", "SJKT", "sekolah jenis kebangsaan", "bahasa pengantar", "KPM", "KSSR", "sekolah rendah Malaysia"]
 framework: explainer
+hero: '/media/education/national-schools-sk-sjkc-sjkt/hero.webp'
+heroAlt: 'Single-storey building of Sekolah Kebangsaan Tungku, a Malaysian national primary school in Sabah, flying the Malaysian flag, with the school motto painted on its wall.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: Building and signage of a national-type Chinese primary school, SJK(C) Chong San
+    kind: actual
+    origin: third-party
+    subject: A national-type Chinese school, SJK(C) Chong San in Bagan Datuk, Perak
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: Building and signage of a national-type Tamil primary school, SJK(T) Saraswathy
+    kind: actual
+    origin: third-party
+    subject: A national-type Tamil school, SJK(T) Saraswathy in Sungai Buloh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 Every year, when the registration period opens, parents across Malaysia open the Ministry of Education Malaysia's (KPM) idMe portal to register their child for Year 1. One of the first choices they have to make: SK, SJKC or SJKT?

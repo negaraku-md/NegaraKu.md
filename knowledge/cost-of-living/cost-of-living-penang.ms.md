@@ -42,7 +42,7 @@ verificationNeeded:
   - "IHP peringkat negeri adalah siri bulanan; angka Januari 2025 yang dipetik di sini perlu dikemas kini berdasarkan keluaran IHP DOSM terkini sebelum halaman ini digunakan untuk perbandingan bulan semasa."
 
 updated: 2026-07-24
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 sources:
   - title: "Laporan Tinjauan Pendapatan Isi Rumah 2024 (Malaysia & Negeri) (Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
@@ -74,6 +74,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: 'Kaki langit George Town yang padat pada waktu senja, dengan menara Komtar yang menyala menjulang di atas pusat bandar Pulau Pinang'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: Pangsapuri kediaman bertingkat tinggi di Jalan Maccalum di George Town, Pulau Pinang, menggambarkan perumahan bandar
+    kind: actual
+    origin: third-party
+    subject: Pangsapuri perumahan awam bertingkat tinggi di Jalan Maccalum, George Town, Pulau Pinang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: Penjaja dan gerai di pasar basah Sungai Bakap di Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Pasar basah di Sungai Bakap, Pulau Pinang
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 Pulau Pinang adalah satu-satunya negeri Malaysia yang "kos sara hidup"nya

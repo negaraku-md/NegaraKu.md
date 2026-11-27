@@ -68,8 +68,34 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Overhead lane signs reading Touch ''n GO, MyRFID and SmartTAG mark cashless toll booths at Gombak Toll Plaza, with RFID painted across the road.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: A Touch 'n Go RFID windscreen tag at a toll lane, with the lane barrier and an overhead RFID reader gantry at the toll booth
+    kind: actual
+    origin: third-party
+    subject: a Touch 'n Go RFID tag read at a MyRFID toll lane at Gombak Toll Plaza, Selangor
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: A row of automated fare gates at a rail station entrance, with card readers on each gate and a shopping mall concourse visible beyond
+    kind: representative
+    origin: third-party
+    subject: fare gates at KLCC LRT station where travel cards such as Touch 'n Go are tapped
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 Many people keep a Touch 'n Go card in their wallet and the Touch 'n Go eWallet app on their phone, and assume the two are the same thing wearing two faces. They are not. The balance in your card and the balance in your app are kept completely separate — topping one up in full doesn't add a single sen to the other. This misunderstanding is a common cause of cars stuck at toll gantries because the driver is confident "there's enough money on the phone," when what the toll machine actually reads is the card.

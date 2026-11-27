@@ -31,7 +31,7 @@ faq:
   - q: 이것은 긱 노동자법 글과 같은 것인가요?
     a: "아닙니다. 긱 노동자법 2025 글은 법 자체 — 권리, 계약, 심판소 — 를 설명합니다. 이 글은 경제 부문 — 긱·플랫폼 경제의 규모, 주요 플랫폼, 그리고 더 넓은 디지털 경제에 어떻게 들어맞는지 — 을 다룹니다."
 lang: ko
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: '말레이시아 페낭의 거리 교차로에서 보온 배달 상자를 실은 오토바이를 탄 음식 배달 라이더가 기다리고 있다.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: 분홍색 foodpanda 재킷과 헬멧을 착용한 배달원이 커다란 분홍색 foodpanda 보온 배달 박스를 실은 언더본(kapcai) 오토바이를 타고 도로 정체 속에 멈춰 선 모습.
+    kind: representative
+    origin: third-party
+    subject: 분홍색 보온 배달 박스를 실은 foodpanda 오토바이 배달원(긱 플랫폼 노동의 대표 사례, Grab 아님)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: 커다란 보온 배달 백팩을 멘 채 보도에 서 있는 플랫폼 음식 배달원.
+    kind: representative
+    origin: third-party
+    subject: 플랫폼 보온 배달 가방을 멘 음식 배달원(Grab 아님)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 매일 말레이시아에서는 수백만 건의 거래가 상점이나 사무실, 택시 승강장이 아니라 앱으로 성사됩니다. 길가로 불려 온 차 한 대, 오토바이로 도시를 가로질러 옮겨지는 음식 한 봉지, 프리랜서가 영영 만나지 않을 고객을 위해 디자인된 로고입니다. 이것이 긱·플랫폼 경제 — 디지털 플랫폼이 매개하는 노동 — 이며, 10여 년 만에 신기한 것에서 말레이시아 노동 생활의 가장 눈에 띄는 특징 중 하나로 옮겨 왔습니다.

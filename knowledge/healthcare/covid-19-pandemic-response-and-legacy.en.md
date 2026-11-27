@@ -32,7 +32,7 @@ faq:
     a: "It is a policy document passed by Parliament on 15 June 2023, outlining a phased 15-year reform of Malaysia's health system."
 
 lang: "en"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysia-healthcare-system" }
   - { rel: "related-to", to: "health-white-paper-2023" }
-related: []
+related: ["mysejahtera-and-digital-health-records", "health-white-paper-and-system-reform", "prevention-and-control-of-infectious-diseases-act"]
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'The hall of a large COVID-19 vaccination centre in Malaysia with rows of spaced seating and people queuing'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: Ten numbered COVID-19 antigen rapid-test cassettes laid out in a line on a table, each showing a control line
+    kind: representative
+    origin: third-party
+    subject: A row of ten COVID-19 antigen rapid test cassettes showing control and test lines
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: Boxed laboratory and diagnostic equipment supplied to Malaysia to support its COVID-19 testing and pandemic response
+    kind: actual
+    origin: third-party
+    subject: COVID-19 detection equipment delivered to Malaysia during the pandemic response
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 On 18 March 2020, roads across Malaysia fell silent as the country entered a phase unlike anything in its modern history: a sweeping restriction on movement to curb the spread of COVID-19. Over roughly the next two years, the country's public health response evolved from a nationwide lockdown into one of the fastest vaccination programmes in the region — and left an imprint that still shapes the health system today.

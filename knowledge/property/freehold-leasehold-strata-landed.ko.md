@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "매물의 보유 형태와 소유권 유형이 실제로 무엇을 부담시키는지 이해해야 하는, 말레이시아에서 부동산을 사거나 팔거나 평가하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -64,6 +64,32 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: '사바주 코타키나발루의 마리나와 바다에 면한 Jesselton Residences 쌍둥이 콘도미니엄 타워.'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: 단독 방갈로 한 채가 조호르바루에서 울타리로 둘러싸인 자기 필지 위에 서 있다. 스트라타 지분이 아니라 개별 토지권리증을 지니는, 유지 부동산의 전형이다.
+    kind: actual
+    origin: third-party
+    subject: 조호르바루의 단독 방갈로
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: 공공 저가 주택(PPR) 동들이 쿠알라룸푸르 부킷잘릴에 서 있다. 각 세대는 스트라타 권리증(strata title)으로 보유되며 공용 부분을 공동 소유한다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 부킷잘릴의 공공 저가 주택(PPR)
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 같은 거리에 있는 거의 똑같은 두 테라스하우스가 주(州)로부터 매우 다른 약속을 담을 수 있습니다: 한 소유권 증서에는 「자유보유」라고 적혀 있고, 다른 하나에는 「임차보유, 99년, 2118년 만료」라고 적혀 있습니다. 그리고 이와 무관한 두 번째 질문이, 당신이 마흔 가구와 함께 엘리베이터 로비와 수영장을 공동 소유하는지, 아니면 진입로와 지붕이 전적으로 당신만의 문제인지를 결정합니다. 매수인은 부동산이 언제나 두 질문에 독립적으로 답하고 있는데도, 흔히 이 둘을 하나로 뭉뚱그립니다 — 「자유보유예요, 아니면 콘도예요?」라고.

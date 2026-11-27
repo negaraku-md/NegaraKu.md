@@ -36,7 +36,7 @@ faq:
     a: "มีทั้งสอง ที่อย่างอันนะฮ์ไรส์ (Annah Rais) ใกล้กูจิงเป็นชุมชนบ้านยาวบีดายุฮ์ที่มีชีวิตซึ่งครอบครัวยังอาศัยอยู่ ในขณะที่หมู่บ้านวัฒนธรรมซาราวักใกล้ซันตูบง (Santubong) เป็นพิพิธภัณฑ์ที่มีชีวิตที่สร้างขึ้นเพื่อการนี้ การเยือนบ้านยาวที่ทำงานอยู่ควรจัดล่วงหน้าและมักผ่านไกด์ที่ตีความการเยือนได้อย่างเคารพ"
 
 lang: "th"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'เหมาะสำหรับนักเดินทางที่ต้องการธรรมชาติบอร์เนียวและวัฒนธรรม Dayak ที่มีชีวิต โดยใช้ Kuching ที่ผ่อนคลายและเดินเที่ยวได้เป็นฐานสำหรับอุรังอุตังกึ่งป่าของ Semenggoh และบ้านยาว Bidayuh โดยมีถ้ำและป่าฝนมรดกโลกของ Gunung Mulu เป็นจุดเสริมพาดหัว'
+  getThere: 'บินเข้าสู่ Kuching เป็นศูนย์กลางหลัก ส่วน Gunung Mulu เข้าถึงได้ด้วยเที่ยวบิน MASwings เท่านั้น (จาก Miri, Kuching หรือ Kota Kinabalu) เพราะไม่มีถนนที่ใช้ได้จริงสู่อุทยาน'
+  permit: 'Sarawak ดำเนินการตรวจคนเข้าเมืองของตนเอง ทุกคน — รวมถึงชาวมาเลเซียจากคาบสมุทร — จึงผ่านด่านและได้รับบัตรเข้าเมื่อมาถึง (ชาวต่างชาติได้ตรา Sarawak แยกเพิ่มจากตราเข้ามาเลเซีย และส่วนใหญ่ต้องยื่น MDAC ออนไลน์ล่วงหน้า) และเที่ยวบิน Mulu กับทัวร์ถ้ำแบบมีมัคคุเทศก์ควรจองล่วงหน้า'
+  watch: 'เครื่องบินเล็กของ Mulu มักล่าช้าหรือถูกยกเลิกเพราะสภาพอากาศ จึงควรเผื่อวันสำรองและไม่จองเที่ยวต่อที่กระชั้นออกจากอุทยาน'
+  next: 'ตรวจสอบข้อกำหนดวีซ่าและ MDAC ปัจจุบันสำหรับสัญชาติของคุณกับสำนักงานตรวจคนเข้าเมืองมาเลเซีย (Immigration Department of Malaysia)'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'ป่ายอดหินปูนสีเทาแหลมคมทิ่มแทงป่าฝนสีเขียวและหมอกที่อุทยานแห่งชาติกูนุงมูลู รัฐซาราวัก'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: ลิงอุรังอุตังขนสีแดงห้อยและเอื้อมระหว่างเชือกท่ามกลางป่าฝนเขียวหนาทึบที่เขตอนุรักษ์ธรรมชาติเซเมงโกะห์ (Semenggoh Nature Reserve)
+    kind: actual
+    origin: third-party
+    subject: ลิงอุรังอุตังป่ากำลังเคลื่อนไปตามเชือกในป่าฝนที่เขตอนุรักษ์ธรรมชาติเซเมงโกะห์ใกล้กูชิง
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: บ้านยาวอิบัน (Iban longhouse) ไม้ยาวยกพื้นสูงบนเสาพร้อมหลังคาสีแดง มีป่าฝนเป็นฉากหลังบนเนินเขาในซาราวัก
+    kind: actual
+    origin: third-party
+    subject: บ้านยาวอิบันดั้งเดิมยกพื้นสูงบนเสาริมฝั่งแม่น้ำที่ปกคลุมด้วยป่าในซาราวัก
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 คุณบินจากกัวลาลัมเปอร์ไปกูจิงได้ในเวลาไม่ถึงสองชั่วโมง ไม่เคยออกนอกประเทศของตัวเอง และยังถูกประทับตราผ่านการตรวจคนเข้าเมืองที่ปลายทาง ความประหลาดใจที่ห้องขาเข้านั้นเป็นสิ่งสำคัญที่สุดที่ต้องเข้าใจเกี่ยวกับซาราวัก มันเป็นรัฐมาเลเซียที่ดำเนินพรมแดนของตนเอง

@@ -102,6 +102,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["pinjaman perumahan", "gadai janji", "margin pembiayaan", "KWSP Akaun Sejahtera", "SJKP", "duti setem perjanjian pinjaman", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'Papan tanda merah Public Bank Berhad dan Public Investment Bank di sebuah plaza berlanskap di luar bangunan bank Malaysia di Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: Pemandangan jalan sebuah cawangan Standard Chartered Bank di deretan lot kedai di pusat bandar Seremban
+    kind: representative
+    origin: third-party
+    subject: Cawangan Standard Chartered Bank di jalan utama di Seremban, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: Pemandangan jalan sebuah cawangan bank Islam Bank Muamalat di deretan lot kedai di Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Cawangan Bank Muamalat (bank Islam) di Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 Rumah idaman mungkin RM450,000, tetapi bank tidak akan menyerahkan wang itu sehingga ia yakin anda mampu membayarnya balik selama 30 tahun akan datang. Di situlah bermulanya dunia pembiayaan gadai janji — margin, nisbah khidmat hutang, insurans, simpanan KWSP dan duti setem yang semuanya menentukan sama ada kunci rumah itu berpindah ke tangan anda.

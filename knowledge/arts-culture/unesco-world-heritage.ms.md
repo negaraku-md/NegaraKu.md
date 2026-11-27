@@ -30,7 +30,7 @@ faq:
     a: "Ya. Pusat Warisan Dunia merekodkan tiga harta dalam Senarai Tentatif Malaysia: Taman Negara Semenanjung Malaysia, Rabung Kuarza Gombak Selangor, dan Leprosarium Sungai Buloh. Penyenaraian tentatif ialah pengisytiharan niat untuk mencalonkan, bukan satu penyenaraian rasmi."
 
 lang: "ms"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'Bangunan Stadthuys Belanda berwarna merah bata tua dan menara jamnya di Melaka, dikelilingi bulatan bertanam berdaun merah dan hijau, dengan papan tanda arah di latar hadapan di bawah langit mendung terang'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: Sebuah jalan warisan yang sempit di George Town, Pulau Pinang, dipenuhi rumah kedai dua tingkat lama yang digantung tanglung merah dan papan tanda Muzium Lukisan Batik, papan tanda jalan Lebuh Armenian berwarna biru di sebelah kanan dan sebuah jalan yang lengang dengan lintasan pejalan kaki kuning
+    kind: actual
+    origin: third-party
+    subject: Lebuh Armenian di kawasan warisan George Town, Pulau Pinang, sebahagian daripada Tapak Warisan Dunia UNESCO
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: Gugusan granit kelabu Gunung Kinabalu di Sabah, puncak berigi-nya menjulang di atas kaki bukit berhutan, dengan pokok hijau yang rimbun dan cerun berumput di latar hadapan di bawah langit biru yang cerah
+    kind: actual
+    origin: third-party
+    subject: Gunung Kinabalu menjulang di atas Taman Kinabalu di Sabah, sebuah Tapak Warisan Dunia UNESCO
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 Tanya berapa banyak Tapak Warisan Dunia yang dimiliki Malaysia, dan kebanyakan sumber akan memberitahu anda empat. Itu benar sehingga 2024. Kompleks Gua Niah disenaraikan pada Julai tahun itu, dan Forest Research Institute Malaysia Forest Park Selangor menyusul pada 2025 — menjadikan jumlahnya enam.

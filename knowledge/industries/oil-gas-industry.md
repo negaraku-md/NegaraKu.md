@@ -90,6 +90,33 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: 'Aerial view of the Bintulu LNG export jetty in Sarawak: a concrete platform on steel piles carrying clusters of tall marine loading arms and pipework over turquoise sea, with the port and gas-plant skyline behind'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: A tall red-and-white steel flare stack venting a bright orange gas flame against a cloudy sky, with pipe racks and the Crocker Range behind, at the Sabah Oil and Gas Terminal in Kimanis
+    kind: actual
+    origin: third-party
+    subject: a gas flare burning atop the flare stack at the Sabah Oil and Gas Terminal (SOGT) in Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: The distillation towers, chimneys and storage tanks of an oil refinery on the horizon beyond a grassy field near Port Dickson, under a hazy evening sky
+    kind: actual
+    origin: third-party
+    subject: an oil refinery east of Port Dickson, Negeri Sembilan, seen across open ground from Federal Route 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 Every barrel of oil and every cubic foot of gas beneath Malaysian soil and seabed belongs, by law, to a single company. Not the state directly, not the fields' discoverers, not the multinationals that drill them — but PETRONAS, the national oil company created to hold the nation's petroleum in trust. Understand that one fact and the rest of Malaysia's oil and gas industry — how it is regulated, financed, taxed and shared — falls into place.

@@ -29,7 +29,7 @@ faq:
   - q: "Vénérer Mazu relève-t-il du taoïsme ou du bouddhisme ?"
     a: "Mazu appartient principalement au domaine du taoïsme et de la religion populaire chinoise, et elle est souvent honorée aux côtés d'autres divinités ; dans certains contextes bouddhistes, on observe également la vénération de Mazu. Dans la pratique, beaucoup de Chinois ne distinguent pas strictement le taoïsme, le bouddhisme et la religion populaire, ce qui s'accorde avec le caractère généralement syncrétique de la foi des Chinois de Malaisie. Cet article se borne à décrire le phénomène de croyance et ne porte pas de jugement sur sa signification religieuse."
 lang: "fr"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'Le temple Thean Hou à Kuala Lumpur, avec des centaines de lanternes rouges suspendues en cascade depuis son toit étagé, un brûle-encens décoré de dragons sur le parvis et des fidèles dans la salle principale.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: Le toit et la façade ornementés d'un temple chinois historique de Mazu à Kuala Terengganu, avec des décorations de dragons sur le faîte
+    kind: actual
+    origin: third-party
+    subject: Ho Ann Kiong, un temple de Mazu (Tian Hou, déesse de la mer) à Kuala Terengganu, parmi les plus anciens temples chinois du Terengganu
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: La salle principale de l'autel d'un temple de Mazu hainanais à George Town, avec des lanternes suspendues, de l'encens et des ornements de sanctuaire dorés
+    kind: actual
+    origin: third-party
+    subject: L'autel intérieur du temple de Hainan (Tokong Hainan) à George Town, Penang, un temple honorant la déesse de la mer Mazu
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 Sur une petite colline de Robson Heights, à Kuala Lumpur, se dresse un temple de six étages, aux colonnes rouges et aux tuiles vernissées, qui domine la ville : c'est le Thean Hou Temple, dédié à la déesse de la mer la plus célèbre du monde chinois, Mazu. Autrefois, les Chinois venus du sud par la mer la priaient pour leur sécurité avant et après la traversée de l'océan ; aujourd'hui, c'est à la fois un temple où les fidèles offrent de l'encens, un lieu de rassemblement pour les compatriotes hainanais et un décor pour les photographies des touristes.

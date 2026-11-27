@@ -28,7 +28,7 @@ faq:
     a: "L'honoraire de location selon le barème officiel est de 1.25 à 1.75 mois du loyer brut (avec un honoraire minimal de 1 mois de loyer) selon la durée du bail ; qui le supporte relève d'un accord entre les parties."
 
 lang: "fr"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["agent immobilier", "REN", "LPEPH", "BOVAEP", "commission de l'agent", "honoraires de location", "négociateur immobilier", "property agent Malaysia"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'Des maisons jumelées modernes derrière le panneau du lotissement Taman Soga Sutera à Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: Un panneau en bord de route marquant l'entrée du lotissement résidentiel de Taman Sri Serdang
+    kind: representative
+    origin: third-party
+    subject: Un panneau de lotissement résidentiel à Taman Sri Serdang, Seri Kembangan, Selangor
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: Une maison de banlieue de plain-pied avec une cour avant et un palmier sur Jalan Anggerik, Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Une maison individuelle de banlieue dans une rue résidentielle de Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 Le numéro sur le badge que porte cet agent sur la poitrine n'est pas un ornement : c'est le seul moyen rapide de distinguer un négociateur légitime de quelqu'un qui se prétend simplement agent. En Malaisie, qui peut vendre, louer ou négocier un bien en votre nom est strictement réglementé par la loi.

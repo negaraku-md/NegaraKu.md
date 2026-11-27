@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 
 status: "published"
 aiAssisted: true
@@ -78,9 +78,35 @@ wikidata: "Q120467697"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "azizulhasni-awang" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-venues", "national-sports-council-msn"]
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'ニライにある国立ベロドロームの、赤・灰・白の角張った外壁が、空いた駐車場の上にそびえている。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: トラックサイクリング世界選手権の際、屋内ベロドローム内のバンク（傾斜）のついた楕円形の木製トラック、インフィールド、混み合ったスタンド。
+    kind: representative
+    origin: third-party
+    subject: トラックサイクリング世界選手権中の屋内ベロドロームの内部
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: ディスクホイールのエアロロードバイクに乗る2人のトラック選手が、ベロドロームの急な傾斜のついた青と赤の板張りを並んで駆け上がる様子。
+    kind: representative
+    origin: third-party
+    subject: ベロドロームのバンクのついた板張りを疾走するトラックスプリンターたち
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 ニライの郊外にある屋根の長い一つの競技場が、いまやマレーシア最速の選手たちが走りを磨く場所となっている——そしてそれは、より多くのトラック世界王者を輩出するために特別に建設されたものだ。

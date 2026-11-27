@@ -35,7 +35,7 @@ faq:
     a: "அவை பகிரப்பட்ட ஒரு கருப்பொருளைக் கொண்ட தனித்தனித் திருவிழாக்கள். கவாய் தயாக் என்பது சரவாக்கின் தயாக் அறுவடைத் திருவிழா; இது ஜூன் 1 மற்றும் 2 அன்று நடத்தப்படுகிறது. காமாத்தான் என்பது சபாவின் கடசான்துசுன் அறுவடைத் திருவிழா; இது மே 30 மற்றும் 31 அன்று நடத்தப்படுகிறது. இரண்டும் நெல் அறுவடைக்கு நன்றி தெரிவிக்கின்றன, ஆனால் சமூகங்கள், சடங்குகள் மற்றும் தேதிகள் வேறுபடுகின்றன."
 
 lang: "ta"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "ஒவ்வொரு ஆண்டும் ஜூன் 1 மற்றும் 2 ஆம் தேதிகளில்; இதன் கடைப்பிடிப்பு மே 31 மாலை தொடங்குகிறது, மேலும் பரந்த Gawai பருவம் ஜூன் இறுதியில் ngiling tikai ('பாயைச் சுருட்டுதல்') மூலம் முறையாக நிறைவடைகிறது."
   holiday: "சரவாக் மாநிலத்தில் ஒரு பொது விடுமுறை (25 September 1964 அன்று வர்த்தமானப்படுத்தப்பட்டது)."
   etiquette: "longhouse கதவு திறந்து வைக்கப்படுகிறது — வருகை தரும் குடும்பத்தினர், அண்டை வீட்டார் மற்றும் விருந்தினர்களுக்கு விருந்தோம்பல் இப்பண்டிகையின் ஒரு பகுதி; பொதுவான வாழ்த்து 'Gayu Guru, Gerai Nyamai' (நீண்ட ஆயுள், ஆரோக்கியம், செழிப்பு), அல்லது 'Selamat Hari Gawai'. இது முதன்மையாக ஒரு குடும்ப மற்றும் longhouse கடைப்பிடிப்பு, சுற்றுலா நிகழ்ச்சி அல்ல."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'இறால்கொத்தி இறகு தலையணியும் உரோம மேலங்கியும் அணிந்த Iban போர்வீரர் நடனக் கலைஞர், பாரம்பரிய Dayak சுவரோவியப் பின்னணியுடன் மேடையில் ngajat நடனமாடுகிறார்'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: சரவாக், கூச்சிங்கில் நடைபெற்ற காவாய் தயாக் ஊர்வலத்தின் போது விரிவான வெள்ளித் தலைக்கவசங்கள், மணிவேலைப்பாடுகள் மற்றும் இறகு மகுடங்கள் அணிந்த இபான் மற்றும் ஓராங் உலு கலைஞர்கள்
+    kind: actual
+    origin: third-party
+    subject: கூச்சிங்கில் நடைபெற்ற காவாய் தயாக் ஊர்வலத்தில் முழு அலங்காரத்துடன் தயாக் கலைஞர்கள்
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: காவாய் தயாக் கொண்டாடப்படும் சரவாக்கில் உள்ள ஒரு இபான் நீள்வீட்டின் (லாங்ஹவுஸ்) உள்ளே அமைந்த நீண்ட மரப் பொதுக் கூடம் (ருவாய்)
+    kind: actual
+    origin: third-party
+    subject: சரவாக்கில் உள்ள ஒரு இபான் நீள்வீட்டின் பொதுக் கூடம்
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 மே மாதத்தின் கடைசி நாளில் நள்ளிரவு இன்னும் அடிக்கவில்லை; சரவாக் (Sarawak) ஆற்றின் ஓரத்தில் எங்கோ ஒரு நீள்வீட்டில் (longhouse) கோங் காத்திருக்கிறது. நெல் அறுவடையாகிவிட்டது. கூடம் பெருக்கப்பட்டு, புதிய பாய்கள் விரிக்கப்பட்டுள்ளன. ஒரு ஜாடி துவாக் (tuak) தயாராக வைக்கப்பட்டுள்ளது. கோங் இறுதியாக ஒலிக்கும்போது, நீள்வீட்டுத் தலைவர் ஒரு கிண்ணத்தை உயர்த்துவார்; நீண்ட பொதுத் திண்ணையில் இருக்கும் அனைவரும் ஒரே மூன்று சொற்களுக்காக அருந்துவார்கள்: நீண்ட ஆயுள், ஆரோக்கியம், செழிப்பு.

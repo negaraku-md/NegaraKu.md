@@ -105,6 +105,32 @@ relations:
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
 framework: profile
+hero: '/media/states/pahang/hero.webp'
+heroAlt: 'Teres pokok teh hijau yang berombak di sebuah ladang Tanah Tinggi Cameron, berliku-liku antara bukit berhutan di bawah langit mendung.'
+heroCredit: 'Jakub Hałun / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: Ombak memukul batu-batan gelap di teluk berpasir berlatarkan hutan di Teluk Cempedak berhampiran Kuantan di pesisir Pahang.
+    kind: actual
+    origin: third-party
+    subject: Pantai Teluk Cempedak, Kuantan, Pahang
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: Air tawar yang tenang terbentang di antara bukit berhutan di Tasik Chini, tasik dipenuhi teratai di Pahang dan sebuah rizab biosfera UNESCO.
+    kind: actual
+    origin: third-party
+    subject: Tasik Chini, Pahang
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 Pahang meliputi lebih seperempat daratan Semenanjung Malaysia, tetapi hanya

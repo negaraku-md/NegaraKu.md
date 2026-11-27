@@ -36,7 +36,7 @@ faq:
     a: "Les deux existent. Des lieux comme Annah Rais, près de Kuching, sont des communautés bidayuh de longhouse vivantes où des familles résident encore, tandis que le Sarawak Cultural Village, près de Santubong, est un musée vivant construit à cet effet. Visiter une longhouse habitée s'organise mieux à l'avance et souvent par l'intermédiaire d'un guide capable d'interpréter la visite avec respect."
 
 lang: "fr"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: 'Voyageurs en quête de la nature de Bornéo et de la culture Dayak vivante, utilisant Kuching, détendue et parcourable à pied, comme base pour les orangs-outans semi-sauvages de Semenggoh et les maisons longues Bidayuh, avec les grottes et la forêt tropicale classées au patrimoine mondial de Gunung Mulu comme complément vedette.'
+  getThere: 'Prenez un vol vers Kuching, le principal pôle, Gunung Mulu n''étant accessible que par les vols MASwings (depuis Miri, Kuching ou Kota Kinabalu) puisqu''aucune route praticable ne mène au parc.'
+  permit: 'Le Sarawak gère sa propre immigration, de sorte que chacun — Malaisiens de la Péninsule compris — est contrôlé et reçoit un laissez-passer d''entrée à l''arrivée (les étrangers obtiennent un tampon du Sarawak distinct en plus de leur entrée malaisienne, et la plupart doivent déposer la MDAC en ligne au préalable), et les vols pour Mulu ainsi que les visites guidées de grottes devraient être réservés à l''avance.'
+  watch: 'Les petits avions de Mulu sont régulièrement retardés ou annulés par la météo, prévoyez donc des jours de battement et ne réservez jamais de correspondance serrée au départ du parc.'
+  next: 'Confirmez les exigences de visa et de MDAC en vigueur pour votre nationalité auprès du Département de l''immigration de Malaisie (Immigration Department of Malaysia).'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: 'Une forêt de pinacles de calcaire gris déchiquetés perçant la forêt tropicale verte et la brume au parc national de Gunung Mulu, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: Un orang-outan au pelage roux suspendu et se déplaçant entre des cordes au milieu d'une forêt tropicale dense et verdoyante, à la réserve naturelle de Semenggoh
+    kind: actual
+    origin: third-party
+    subject: Un orang-outan sauvage se déplaçant le long de cordes dans la forêt tropicale de la réserve naturelle de Semenggoh près de Kuching
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: Une longue maison communautaire iban en bois sur pilotis au toit rouge, adossée à la forêt tropicale sur une colline de Sarawak
+    kind: actual
+    origin: third-party
+    subject: Une maison longue iban traditionnelle sur pilotis le long d'une berge boisée à Sarawak
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 Vous pouvez prendre l'avion de Kuala Lumpur à Kuching en moins de deux heures, ne jamais quitter votre propre pays et recevoir malgré tout un cachet d'immigration à l'autre bout. Cette surprise dans le hall des arrivées est la seule chose la plus importante à comprendre au sujet de Sarawak : c'est un État malaisien qui gère sa propre frontière.

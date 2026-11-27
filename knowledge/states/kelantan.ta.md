@@ -41,7 +41,7 @@ verificationNeeded:
   - "Dewan Undangan Negeri (மாநில சட்டமன்றம்) மற்றும் Parlimen (பாராளுமன்றம்) இட எண்ணிக்கை வேண்டுமென்றே குறிப்பிடப்படவில்லை; ஏனெனில் இந்த வரைவு தயாரிக்கப்பட்ட நேரத்தில் அதை அதிகாரப்பூர்வ SPR ஆதாரங்களுக்கு எதிராக உறுதிப்படுத்த முடியவில்லை."
 
 lang: "ta"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,9 +98,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'கோட்டா பாருவில் உள்ள அலங்கரிக்கப்பட்ட கருப்பு-மஞ்சள் பாரம்பரிய மரத்தாலான இஸ்தானா ஜாஹர் அரண்மனை, அதன் கல் பதித்த முற்றத்தில் நிறுத்தப்பட்ட குதிரை வண்டியுடன்.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: கோத்தா பாருவில் தெளிவான நீல வானத்தின் கீழ், கெலந்தான் மாநில அருங்காட்சியகத்தின் நீளமான சிவப்புக் கூரை கொண்ட காலனித்துவக் கட்டிடம் ஒரு உயரமான பனைமரத்திற்குப் பின்னால் நிற்கிறது.
+    kind: actual
+    origin: third-party
+    subject: கெலந்தான் மாநில அருங்காட்சியகம் (Muzium Negeri Kelantan), கோத்தா பாரு
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: கோத்தா பாருவில் உள்ள படிநிலைகளுடன் கூடிய, பிரகாசமாக ஒளியூட்டப்பட்ட பாசார் சிட்டி காதிஜா மைய மார்க்கெட்டுக்குள் நெரிசலான கடைகளுக்கு இடையே வியாபாரிகள் புதிய காய்கறிகளை விற்கிறார்கள்.
+    kind: actual
+    origin: third-party
+    subject: பாசார் சிட்டி காதிஜா, கோத்தா பாரு, கெலந்தான்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 மலேசியாவின் பொருளாதாரம் பொதுவாகத் தொழிற்சாலைகள் வழியாகவே விவரிக்கப்படுகிறது.

@@ -20,7 +20,7 @@ appliesTo: "适用于马来西亚境内任何人——无论是否佛教徒—�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 
 status: "published"
 aiAssisted: true
@@ -69,6 +69,34 @@ festivalFacts:
   when: "阴历卫塞月（Vesakha）的满月之日——通常在四月或五月；由于依循阴历，公历日期每年都会变动。"
   holiday: "全国各州与联邦直辖区的公共假期，于 1962 年首次宣布为公共假期；根据 1955 年雇佣法令（Employment Act 1955），若适逢休息日，则适用替代的带薪假期。"
   etiquette: "庆祝以寺庙为核心；许多信徒当天身穿白衣并茹素，而最为人熟知的公开活动，是从 Brickfields 佛教 Maha Vihara 出发的吉隆坡卫塞节花车游行，吸引大批信徒与围观者观看。"
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: '亚罗士打卫塞节期间，一尊金色坐佛披着黄色万寿菊花环，立于节庆花车上一轮橙蓝金色的华丽光环前，雨篷下四周堆满白、黄、粉色的菊花'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: 马来西亚卫塞节庆典上，一长排小灯笼挂在帐篷下，有青绿、青柠绿、粉红和白色，每盏都点着蜡烛、夹着一张写有祝福的粉色纸条，后方有访客走过
+    kind: actual
+    origin: third-party
+    subject: 马来西亚亚罗士打卫塞节庆典上，一排排信徒祈福许愿的彩色灯笼
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: 数以百计点亮的莲花形小烛灯整齐排列在铺着粉色和黄色布的桌上，一路延伸至一尊两侧摆花的小佛像前，帐篷内衬以蓝天彩绘背景
+    kind: actual
+    origin: third-party
+    subject: 马来西亚亚罗士打卫塞节上，一座供奉佛像、前方点亮数百盏莲花烛灯的礼佛供台
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 问卫塞节落在哪一天，答案并不固定——它会变动。2026年落在5月31日，2027年落在5月20日，2028年落在5月9日。原因很简单：卫塞节是依月相而定，不是依固定的日历日期，而阴历与西历每年都会彼此产生偏移。

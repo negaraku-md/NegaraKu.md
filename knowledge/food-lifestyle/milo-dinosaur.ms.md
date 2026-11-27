@@ -100,6 +100,14 @@ drinkFacts:
   halal: "Sebagaimana biasanya dibuat, Milo dinosaur halal: minuman tidak beralkohol daripada serbuk Milo, susu dan air atas ais, tanpa daging atau alkohol. Milo yang dijual di Malaysia diperakui halal oleh Nestle Malaysia di bawah JAKIM, dan minuman ini makanan ruji di gerai mamak (Muslim-India), yang biasanya halal. Seperti mana-mana makanan gerai, jaminan bergantung pada premis khusus dan bahan-bahannya."
   served: "Dihidangkan sejuk dalam gelas tinggi, atas ais, bermahkota sesudu serbuk Milo kering — dan kadangkala sebatang straw yang ditolak menembusi longgokan itu. Milo godzilla yang lebih kaya ialah minuman yang sama bertopi seulas aiskrim dan/atau krim putar; 'Milo tabur' ialah nama lain untuk versi yang berlonggok serbuk itu. Milo kosong dibuat tanpa gula tambahan."
   where: "Gerai mamak, kopitiam (kedai kopi), troli minuman pasar malam dan medan selera di seluruh Malaysia, dan secara meluas di Singapura juga. Ia pesanan harian yang murah dan bukannya minuman kafe khusus, terdapat di mana sahaja Milo ada di papan menu."
+hero: "/media/food/milo-dinosaur/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Segelas Milo ais bertabur timbunan tebal serbuk Milo yang tidak larut"
+heroCredit: "Pauloleong2002 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Milo_dinosaur_-_a_cup_of_Milo_with_undissolved_Milo_powder_added_on_top.jpg"
+wikidata: "Q16242695"
 ---
 
 Pesan Milo di gerai mamak Malaysia dan anda mendapat minuman yang sejuk, manis dan

@@ -40,7 +40,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "80397d89bfc03586"
+sourceContentHash: "4cdf15af7489a579"
 
 status: "published"
 aiAssisted: true
@@ -85,9 +85,42 @@ wikidata: "Q1144734"
 relations:
   - { rel: "located-in", to: "pahang" }
   - { rel: "related-to", to: "malaysia-hill-stations" }
-related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists"]
+related: ["kuala-lumpur-visitor-guide", "cameron-highlands-visitor-guide", "getting-around-malaysia-for-tourists", "frasers-hill"]
 keywords: ["Genting Highlands", "Resorts World Genting", "Awana SkyWay", "cable car", "Chin Swee Caves Temple", "Genting SkyWorlds", "Skytropolis", "casino", "hill station", "Pahang"]
 framework: profile
+visitFacts:
+  bestFor: '静かな自然よりも、テーマパーク、涼しい高原の気候、ショッピングやショーを求める、クアラルンプールからの家族連れ、日帰り客、週末旅行者に。'
+  getThere: 'クアラルンプールから高速道路と山道を車でおよそ1時間上るか、Genting Highlands Premium Outlets近くの中腹に車を停め、Awana SkyWayのゴンドラでSkyAvenueの山頂まで上がる。'
+  permit: 'カジノは非ムスリムのみ入場でき、最低年齢、本人確認、ドレスコードが求められる。'
+  watch: '山頂はしばしば雲に包まれて寒く湿っており、眺望は現れたり消えたりするうえ、週末や祝日には大勢の人出と長い行列が生じる。'
+  next: '現在のテーマパーク、ケーブルカー、カジノの入場規則は、Resorts World Gentingで確認すること。'
+hero: '/media/tourism/genting-highlands/hero.webp'
+heroAlt: '中国寺院の屋根から、雲のかかった熱帯雨林の山々と遠くのゲンティンのリゾートを見渡す広がりのある眺め'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_P.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Misty panorama over the forested Genting Highlands and the hilltop resort seen from Chin Swee Caves Temple'
+images:
+  - role: scene
+    src: /media/tourism/genting-highlands/body-1.webp
+    alt: タイル張りの丘の上の広場で、反り上がった軒を持つ赤と金の中国寺院の東屋と、その隣にそびえる段状の塔
+    kind: actual
+    origin: third-party
+    subject: ゲンティンハイランドのチンスイ洞窟寺院の華麗な東屋と多層の塔
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Chin-Swee-Caves-Temple-02.jpg
+  - role: scene
+    src: /media/tourism/genting-highlands/body-2.webp
+    alt: 国旗がはためく、ドラマチックな角張った茶色の庇の入口の上にそびえる、白くそびえ立つリゾートホテルのファサード
+    kind: actual
+    origin: third-party
+    subject: 特徴的な尖った車寄せを持つ、丘の上のリゾート・ワールド・ゲンティンのカジノホテルタワー
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Genting-Highlands_Malaysia_Resorts-World-Genting-01.jpg
 ---
 
 クアラルンプールの暑さを抜けて山道を登っていくと、中間点を過ぎたあたりのどこかで、窓が曇り始め、空気が冷たくなります。首都を出て1時間のうちに、山頂に積み上げられたネオンのリゾート都市を前に、ほぼ1,800メートルの雲の中に立つことができます。その対比——下は熱帯の低地、上は涼しく霧がかった頂上、午前中で到達できる——こそがゲンティン・ハイランドのすべての売りです。本ガイドは、それが実際に何であるか、どうやって登るか、何ができるか、カジノとどう賢く向き合うか、そして初めての人を引っかける間違いを扱います。

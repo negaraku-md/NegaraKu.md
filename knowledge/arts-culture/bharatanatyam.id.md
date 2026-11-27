@@ -32,7 +32,7 @@ seoTitle: "Bharatanatyam di Malaysia: Penjelasan Bentuk Tari Klasik Ini"
 socialTitle: "Bagaimana tari klasik India Selatan berakar di Malaysia"
 
 lang: "id"
-sourceContentHash: "f61cd4f8304d521c"
+sourceContentHash: "45d21a77b0ce9a12"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,34 @@ relations:
 related: ["tamil-in-malaysia", "deepavali", "thaipusam"]
 keywords: ["Bharatanatyam", "Indian classical dance Malaysia", "Temple of Fine Arts", "Sutra Dance Theatre", "Ramli Ibrahim", "Malaysian Indian dance", "nritta nritya", "Carnatic music", "Malaysia Barathanatyam Dance Association"]
 framework: history-culture
+hero: '/media/arts-culture/bharatanatyam/hero.webp'
+heroAlt: 'Seorang penari Bharatanatyam berkostum sutra oranye dan emas dengan perhiasan khas kuil serta bunga melati merendah dalam pose duduk, satu lengan terjulur ke depan dengan telapak terangkat membentuk mudra, tatapannya mengikuti tangannya dengan latar gelap'
+heroCredit: 'Vijay Sundararaman Iyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bharatanatyam_is_a_major_form_of_Indian_classical_dance_that_originated_in_the_state_of_Tamil_Nadu.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Female Bharatanatyam dancer in a seated araimandi pose, full temple costume, against a black stage'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-1.webp
+    alt: Seorang penari Bharatanatyam muda berkostum sutra merah muda dan emas, bergelang kaki berlonceng dan berhias perhiasan kuil berdiri dengan satu kaki, kedua tangan terangkat membentuk mudra menyerupai gunting di dekat kepalanya, tersenyum dengan latar panggung gelap polos.
+    kind: representative
+    origin: third-party
+    subject: Penari Bharatanatyam muda berdiri dengan satu kaki dengan kedua tangan membentuk mudra di samping kepalanya
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/bharatanatyam/body-2.webp
+    alt: Seorang penari Bharatanatyam berblus hitam dan kain sutra merah-emas berputar di tengah gerakan, satu lengan melengkung tinggi di atas kepala dan lengan lainnya menunjuk melintasi tubuhnya, roknya yang berlipat mengembang dengan latar hitam.
+    kind: representative
+    origin: third-party
+    subject: Penari Bharatanatyam tertangkap di tengah putaran dengan satu lengan terangkat dan rok berkibar
+    credit: Mohd Zishan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Graceful_Poses_of_Bharatanatyam_Dance.jpg
 ---
 
 Kaki seorang penari menghentak lantai dalam pola yang cepat dan tepat. Lonceng berbunyi seiring dengan irama gendang mridangam. Tangannya membentuk sesuatu — seekor rusa, sekuntum teratai, sebuah pertanyaan — dan matanya mengikutinya sebelum wajahnya membalas dengan emosi yang seharusnya dirasakan oleh penonton, bukan sekadar ditonton. Kemudian iramanya selesai, ia memegang satu postur seperti arca, dan musiknya senyap sepenuhnya.

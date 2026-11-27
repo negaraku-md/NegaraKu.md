@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Đồ uống soya bean có nguồn gốc thực vật và không cồn — đậu nành, nước và đường — và tự nhiên không có sữa động vật, nên bản thân đồ uống là halal. Sự bảo đảm halal gắn với cơ sở bán hàng, nên những thực khách cần chứng nhận nên kiểm tra từng quầy."
   served: "Phục vụ nóng hoặc với đá, hơi ngọt. Những cách kết hợp phổ biến: với tau foo fah (bánh tàu hủ mềm) thành một bộ tráng miệng, hoặc rót lên trên thạch sương sáo đen thành 'soya cincau' (món 'Michael Jackson'). Các phiên bản kiểu Penang nghiêng về lá dứa và đường nâu; các quán đậu nành hiện đại có các biến thể đậu đen, mè đen và đậu đỏ."
   where: "Tìm thấy tại các quầy kopitiam, khu hàng rong, pasar malam và các tiệm đậu nành chuyên biệt trên khắp cả nước — thường từ một quầy chỉ bán sữa đậu nành và tau foo fah — cũng như đóng chai trong các siêu thị."
+hero: "/media/food/soya-bean/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Ly cao sữa đậu nành nhạt màu với hạt đậu nành bên cạnh"
+heroCredit: "LinasD / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg"
+wikidata: "Q192199"
 ---
 
 Tại vô số quán cà phê Malaysia, một quầy duy nhất chẳng làm gì ngoài đậu nành: một

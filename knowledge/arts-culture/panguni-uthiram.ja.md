@@ -30,7 +30,7 @@ faq:
   - q: "マレーシアでは、パングニ・ウッティラムはどこで盛大に祝われますか？"
     a: "パハン州マランのスリ・マラタンダヴァル・バーラ・ダンダユタパニ寺院は、最大級の祝祭の一つで知られます。スランゴール州カパールのムルガン寺院でも、カヴァディと山車巡行を伴う大規模な祝祭が行われます。このほか、全国の多くのムルガン寺院やマリアンマン寺院が、それぞれの規模でこの日を守っています。祝祭の規模や習慣は寺院ごとに異なります。"
 lang: "ja"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "mariamman-worship", "ayyappan-pilgrimage", "deepavali", "navaratri", "tamil-in-malaysia"]
 keywords: ["பங்குனி உத்திரம்", "Panguni Uthiram", "பங்குனி உத்திரம் மலேசியா", "முருகன் தெய்வானை", "காவடி", "மாறான் மாரத்தாண்டவர் கோயில்", "இரண்டாம் தைப்பூசம்"]
 framework: history-culture
+hero: '/media/arts-culture/panguni-uthiram/hero.webp'
+heroAlt: '夕暮れのバトゥ洞窟（Batu Caves）近くで行われる大規模なタミル・ヒンドゥーの街頭行列。信者が装飾された孔雀のカヴァディ（kavadi）を担ぎ、密集した群衆の中で楽師が太鼓を打ち鳴らす。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: 神像を載せた、高くそびえ精緻に装飾された木製の寺院の山車（テール）が、パングニの山車祭の折に人であふれる通りを引かれていく
+    kind: representative
+    origin: third-party
+    subject: パングニ祭の折の寺院の山車（テール）の行列、マイラポール
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: 高く色鮮やかに装飾された二台の寺院の山車が、信者と司祭に囲まれて並び立つ、パングニ・ウティラムの山車祭
+    kind: representative
+    origin: third-party
+    subject: パングニ・ウティラムの山車祭に並ぶ装飾された寺院の山車
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 パングニ月、空に満月が満ちる一夜がある。タミルの伝統において、この輝かしい

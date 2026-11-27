@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "hi"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,33 @@ stayFacts:
   cost: 'वार्षिक शिक्षण-शुल्क के साथ-साथ एक-बारगी शुल्कों की अपेक्षा करें जैसे प्रवेश या प्लेसमेंट-परीक्षा शुल्क और एक पंजीकरण शुल्क, जहाँ कोई वापसी-योग्य जमा RM5,000 तक सीमित है; विकास या भवन शुल्क बिल्कुल नहीं वसूला जा सकता। मंत्रालय संरचना को विनियमित करता है पर राशि को नहीं, इसलिए फीस स्कूल, पाठ्यक्रम और स्थान के अनुसार बहुत भिन्न होती है — किसी तुलना-लेख या फ़ोरम में दिए किसी आँकड़े पर भरोसा करने के बजाय मौजूदा आँकड़ों की पुष्टि सीधे प्रत्येक अलग स्कूल से करें।'
   watch: 'चूँकि कोई फीस सरकार द्वारा तय नहीं होती, वास्तविक क़ीमत एक ही आयु-वर्ग के लिए भी स्कूलों के बीच व्यापक रूप से बदलती है, और फीस-वृद्धि हर तीन वर्ष में एक बार से अधिक नहीं और 30% तक सीमित है। एक 6% सेवा कर के लिए भी योजना बनाएँ जो, प्रति विद्यार्थी प्रति शैक्षणिक वर्ष, तब लागू होता है जब किसी बच्चे की वार्षिक फीस RM60,000 से अधिक हो — यह फीस के ऊपर एक कर है, स्कूल द्वारा तय नहीं।'
   next: 'स्कूलों को शॉर्टलिस्ट करें और बजट बनाने से पहले उनकी मौजूदा फीस-अनुसूचियों तथा RM60,000 कर-सीमा की पुष्टि सीधे प्रत्येक से करें। संबंधित योजना के लिए, किसी विदेशी कर्मचारी के साथ आने वाले बच्चों को प्रायोजित करने हेतु डिपेंडेंट पास या दीर्घकालिक सामाजिक भ्रमण पास देखें, और यदि कोई सरकारी स्कूल भी आपकी तुलना-सूची में है तो सरकारी स्कूल में दाखिला देखें।'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'बादल भरी आसमान के नीचे एक आधुनिक अंतरराष्ट्रीय-विद्यालय प्रवेश द्वार जिसमें छत्र वाली गार्डहाउस, तराशी बाड़ें और पत्तेदार पेड़ हैं, पीछे निचली परिसर इमारतें'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: लाल और धूसर रंग में गोलाकार काँच-और-पत्थर के मुखौटे वाली एक बहुमंज़िला अंतरराष्ट्रीय-स्कूल इमारत, सामने खड़ी कारें और मोटरसाइकिलें
+    kind: representative
+    origin: third-party
+    subject: Subang Bestari, Selangor में एक अंतरराष्ट्रीय स्कूल, HELP International School की घुमावदार आधुनिक मुख्य इमारत
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: एक क्रॉसिंग के पास एक साफ़ आधुनिक स्टील-और-काँच का स्कूल प्रवेश कैनोपी और गार्डहाउस, चमकीले आकाश के नीचे पेड़ों से घिरा
+    kind: representative
+    origin: third-party
+    subject: International School of Kuala Lumpur के Ampang Hilir परिसर का ढका हुआ ड्राइव-थ्रू प्रवेश
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 एक ही शहर के आमने-सामने के छोरों पर स्थित एक ब्रिटिश-पाठ्यक्रम स्कूल और एक अमेरिकी-पाठ्यक्रम स्कूल, कागज़ पर, पुत्रजया (Putrajaya) के ठीक उसी कार्यालय द्वारा लाइसेंस-प्राप्त हैं। किसी को भी अभिभावकों से "भवन कोष" वसूलने की कानूनी अनुमति नहीं है। कोई भी एक बार में 30% से अधिक फीस नहीं बढ़ा सकता। और किसी को भी ऐसा कोई एक आँकड़ा प्रकाशित करने की आवश्यकता नहीं है जिसे मंत्रालय स्वयं तय करता हो — क्योंकि मंत्रालय जो सब नियम लिखता है, उनमें एक सीट की वास्तविक कीमत शामिल नहीं है।

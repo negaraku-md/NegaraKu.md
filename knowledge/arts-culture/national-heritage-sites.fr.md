@@ -31,7 +31,7 @@ faq:
     a: "Le propriétaire peut continuer à posséder le bien (Section 69), mais le changement de titularité d'un Patrimoine national ne peut avoir lieu que par voie d'héritage ou par vente avec l'accord préalable du Commissaire, et la première priorité d'acquisition doit être accordée au Commissaire (Section 70)."
 
 lang: "fr"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,34 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["warisan kebangsaan", "Akta Warisan Kebangsaan 2005", "Akta 645", "Jabatan Warisan Negara", "Daftar Warisan Kebangsaan", "WAKOH", "tapak warisan"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'La façade complète de style mauresque du bâtiment Sultan Abdul Samad à Kuala Lumpur, sa longue arcade d''arches de brique courant sous une haute tour-horloge centrale et des dômes en bulbe de cuivre, vue depuis la chaussée pavée déserte de Merdeka Square sous un ciel pâle'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: La ruine en briques de latérite patinées de la porte Porta de Santiago du fort A Famosa à Melaka, son arche en ruine surmontée d'un relief sculpté, avec un vieux canon en bronze monté sur un socle de briques devant et des arbres tropicaux sur un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: la porte Porta de Santiago de la forteresse portugaise A Famosa à Melaka, un monument classé au patrimoine national
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: La façade de briques rosâtres du château de Kellie à Batu Gajah, dans le Perak, une rangée de colonnades en arcs et de colonnes élancées sur deux étages ouvrant sur une cour pavée de briques, avec des murs en partie en ruine et une végétation tropicale sous un ciel clair et nuageux
+    kind: actual
+    origin: third-party
+    subject: Le château de Kellie, le manoir inachevé du début du XXe siècle à Batu Gajah, dans le Perak, un site patrimonial protégé
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 Une maison-boutique centenaire à George Town, la lame d'un keris, une danse de cour et un tisserand de [songket](/arts-culture/songket) vivant : tous les quatre peuvent porter le même titre juridique en Malaisie : *Patrimoine national*. Ce qui les relie n'est pas une liste de l'UNESCO, mais un registre national dont le nom est rarement mentionné : le **Registre national du patrimoine**.

@@ -30,7 +30,7 @@ faq:
     a: "항공사 처분 이후 Capital A는 다섯 개 사업, 즉 Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next, Santan을 중심으로 구성된 항공 서비스 및 디지털 그룹입니다."
 
 lang: "ko"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: '빨간색 도장을 한 에어아시아 에어버스 A320(등록번호 9M-AGP)이 "Now Everyone Can Fly" 슬로건을 달고 쿠알라룸푸르 국제공항의 게이트에 주기되어 있다.'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: 동체에 airasia 글자를 새기고 특별 기념 도장을 입힌 에어아시아 에어버스 A320 협동체기가 맑은 하늘 아래 랑카위 공항 계류장에 서 있다
+    kind: actual
+    origin: third-party
+    subject: 특별 기념 도장을 입힌 에어아시아 에어버스 A320(말레이시아 등록기호 9M-AQH)이 랑카위 국제공항에 서 있는 모습
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: 빨간 도장의 에어아시아 항공기들이 klia2 저비용항공사 터미널 탑승 게이트에 늘어서 있고, 긴 터미널 건물과 탑승교가 열대 하늘 아래 계류장을 따라 뻗어 있다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 국제공항 저비용항공사 터미널 klia2에 서 있는 에어아시아 항공기. 이 항공사의 말레이시아 주요 허브
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 수년 동안 "AirAsia"와 "Capital A"는 거의 같은 의미로 사용되었습니다. 다년간의 구조조정을 거친 지금, 이 두 이름은 서로 다른 두 상장 회사를 가리킵니다.

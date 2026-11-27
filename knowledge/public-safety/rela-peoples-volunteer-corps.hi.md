@@ -67,7 +67,7 @@ wikidata: "Q2750770"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "jabatan-imigresen-malaysia" }
-related: []
+related: ["ministry-of-home-affairs-kdn", "private-security-industry-malaysia", "civil-defence-force-apm"]
 keywords: ["RELA", "रेला", "मलेशिया स्वयंसेवी कोर", "Pasukan Sukarelawan Malaysia", "Akta 752", "अधिनियम 752", "सुरक्षा स्वयंसेवक", "PATI"]
 framework: profile
 ---

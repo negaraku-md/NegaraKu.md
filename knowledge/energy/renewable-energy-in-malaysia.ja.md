@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -108,9 +108,35 @@ sources:
     publisher: "持続可能エネルギー開発庁（SEDA）"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
+hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'
+heroAlt: 'マレーシアのキャンパスの湖に浮かぶ太陽光発電パネルの列と、その脇にある屋根付きの歩道。'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: 切り開かれた草地に、低い金属フレームに載った濃紺の太陽光パネルが長い列をなして並び、フェンスで囲まれ、遠くの林縁まで続く。青空には雲が点在する
+    kind: actual
+    origin: third-party
+    subject: サバ州スンガイ・スンガイの地上設置型太陽光発電所。農村の送電網に電力を供給する
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: 森に覆われた山々の間に緑色の貯水池をせき止める湾曲したダム。ダム面には洪水吐きと取水設備があり、周囲の斜面は深い熱帯のジャングルに覆われる
+    kind: actual
+    origin: third-party
+    subject: クランタン州のプルガウ水力発電ダムと貯水池。半島マレーシアの再生可能な水力発電事業
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 マレーシアの再生可能エネルギー（RE）について調べたことがあれば、おそらく31%、40%、70%という三つの異なる目標数値と、FiT、NEM、LSS、CGPP、CRESS、SELCOという頭字語の壁に突き当たったはずだ。これらは互いに矛盾しているわけではない——ただ、半ダースほどの機関にまたがって分散しており、それぞれが自らの担当領域だけを記録しているにすぎない。本ガイドは、その全体像を一箇所にまとめる：国の目標とその背景にあるロードマップ、一連の制度群、そして——ほとんどの情報源が見落としている部分——どの制度が実際に住宅所有者、企業、あるいは開発事業者のために設けられているのかである。

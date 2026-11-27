@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia — công dân, cư dân hay du khách — đang lo lắng về sức khỏe tâm thần của bản thân hoặc của người khác, và muốn biết cụ thể nên bắt đầu ở đâu: một phòng khám, một bệnh viện, một người hành nghề tư nhân, một NGO, hay một đường dây trợ giúp."
 
 lang: "vi"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,32 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["mental health services Malaysia", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "MENTARI clinic Malaysia", "psychiatric hospital Malaysia", "MMHA Malaysian Mental Health Association", "counselling Malaysia", "where to get mental health help Malaysia", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'Một áp phích Ngày Sức khỏe Tâm thần Thế giới với dải ruy băng nhận thức màu xanh lá và thông điệp chấm dứt kỳ thị, một biểu tượng y tế công cộng tôn trọng dành cho sức khỏe tâm thần.'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: Một phòng tư vấn yên tĩnh, thân thiện với ba chiếc ghế bành quanh một chiếc bàn nhỏ và một chậu cây, không có người nào
+    kind: representative
+    origin: third-party
+    subject: Một phòng tư vấn yên tĩnh được bố trí cho liệu pháp trò chuyện, với ghế bành và nội thất mềm
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: Mặt trước của một bệnh viện tâm thần và sức khỏe tâm thần công của Malaysia ở Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Hospital Permai ở Johor Bahru, một bệnh viện sức khỏe tâm thần công của Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 Quyết định tìm sự giúp đỡ thường là phần khó nhất. Tìm ra *nơi* để hỏi là phần mà hầu như không ai giải thích — và chỉ riêng khoảng trống đó đã ngăn người ta gọi điện.

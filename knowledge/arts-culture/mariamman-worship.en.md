@@ -33,7 +33,7 @@ faq:
   - q: "Is Mariamman worship a separate religion?"
     a: "No. Mariamman worship is part of the broader Hindu religion, and in particular of the Shakta (Shakti) tradition. Amman is often venerated together with the goddess forms Kali and Durga. In the Malaysian Hindu community, Amman worship operates alongside the worship of Shiva and Murugan."
 lang: "en"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "deepavali", "estate-tamil-community", "pongal", "tamil-in-malaysia"]
 keywords: ["மாரியம்மன் வழிபாடு", "மாரியம்மன்", "அம்மன் வழிபாடு", "Mariamman worship", "Mariamman Malaysia", "ஸ்ரீ மகாமாரியம்மன் கோயில்", "தீமிதி"]
 framework: history-culture
+hero: '/media/arts-culture/mariamman-worship/hero.webp'
+heroAlt: 'The towering sculpted gopuram of the Sri Maha Mariamman Temple in Kuala Lumpur, its signboard naming the temple above rows of painted Hindu deity figures, with a street and traffic in front.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: The sculpted gopuram tower of the Mariamman temple in George Town, covered with brightly painted figures of Hindu deities
+    kind: actual
+    origin: third-party
+    subject: The Sri Mahamariamman Temple in George Town, Penang, the oldest Hindu temple in the city dedicated to the goddess Mariamman
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: The pillared interior prayer hall of a Mariamman temple, with painted ceilings and shrines toward the sanctum
+    kind: actual
+    origin: third-party
+    subject: The interior prayer hall of the Mariamman temple in George Town, Penang
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 Near almost any old rubber estate in Malaysia, and along the time-worn streets of the town centres, you can find a Mariamman temple. The Amman statue with its ochre-yellow face, and the festivals held before the rainy season, are not accidental — they carry more than a century and a half of a Tamil community's history and tradition of faith.

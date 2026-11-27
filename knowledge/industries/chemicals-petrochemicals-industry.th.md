@@ -31,7 +31,7 @@ faq:
   - q: รัฐบาลสนับสนุนอุตสาหกรรมเคมีอย่างไร?
     a: หน่วยงานพัฒนาการลงทุนแห่งมาเลเซีย (MIDA) ผ่านกองเคมีและวัสดุขั้นสูง (Chemical and Advanced Material Division) ประเมินใบอนุญาตการผลิตและเสนอสิทธิประโยชน์ เช่น สถานะผู้บุกเบิก (Pioneer Status) และเงินอุดหนุนภาษีการลงทุน (Investment Tax Allowance) โครงการปิโตรเลียมและปิโตรเคมียังอยู่ภายใต้พระราชบัญญัติพัฒนาปิโตรเลียม ค.ศ. 1974 (Petroleum Development Act 1974) ด้วย ส่วนแผนงาน Chemical Industry Roadmap 2030 และแผนแม่บทอุตสาหกรรมฉบับใหม่ 2030 กำหนดทิศทางเชิงยุทธศาสตร์ไปสู่เคมีภัณฑ์พิเศษที่มีมูลค่าสูงขึ้น
 lang: th
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'โรงกลั่นปิโตรเคมีขนาดใหญ่ส่องสว่างในยามค่ำคืน หอกลั่นและระบบท่อเปล่งแสงอยู่ข้างปล่องเผาแก๊สที่กำลังเผาแก๊สทิ้งใกล้ริมน้ำ'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: หอกลั่นและถังเก็บของโรงกลั่นน้ำมัน Hengyuan ทางตะวันออกของพอร์ตดิกสัน รัฐเนอเกอรีเซิมบีลัน มองเห็นในเวลากลางวัน
+    kind: actual
+    origin: third-party
+    subject: โรงกลั่นน้ำมัน Hengyuan ที่พอร์ตดิกสัน รัฐเนอเกอรีเซิมบีลัน
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: ปล่องเผาแก๊สและโครงสร้างกระบวนการผลิตของสถานีน้ำมันและแก๊สซาบะฮ์ (SOGT) ที่กีมานิส รัฐซาบะฮ์ ใต้ท้องฟ้ากลางวัน
+    kind: actual
+    origin: third-party
+    subject: สถานีน้ำมันและแก๊สซาบะฮ์ (SOGT) ที่กีมานิส
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 พลาสติก ปุ๋ย ผงซักฟอก ยางสังเคราะห์ เครื่องสำอาง สี และเรซินภายในเคสโทรศัพท์ของคุณ ล้วนเริ่มต้นจากเคมีภัณฑ์ — และสัดส่วนที่น่าประหลาดใจของสิ่งเหล่านี้ หรือองค์ประกอบพื้นฐานของมัน ถูกผลิตขึ้นในมาเลเซีย เบื้องหลังเรื่องราวน้ำมัน-ก๊าซและน้ำมันปาล์มที่เป็นที่รู้จักกว่า คืออุตสาหกรรมเคมีและปิโตรเคมีขนาดใหญ่ที่เงียบ ๆ แต่มีความสำคัญเชิงยุทธศาสตร์ ซึ่งแปรไฮโดรคาร์บอนดิบและน้ำมันพืชให้กลายเป็นวัสดุที่ชีวิตสมัยใหม่พึ่งพา

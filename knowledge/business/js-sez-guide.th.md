@@ -42,7 +42,7 @@ verificationNeeded:
   - "หน่วยงานผู้บริหารและเส้นทางการยื่นคำขอสำหรับสิ่งจูงใจแรงงานความรู้ของ JS-SEZ ไม่ได้ระบุในแนวปฏิบัติของ MIDA — ภาคผนวก B ของภาพรวมระบุไว้ภายใต้สิ่งจูงใจอื่นโดยไม่ได้ระบุเส้นทาง จงยืนยันกับ MIDA หรือ IRDA ก่อนให้คำแนะนำ"
 
 lang: "th"
-sourceContentHash: "6ef63a1c757e97dc"
+sourceContentHash: "c5d9cf20d51c5665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,34 @@ keywords:
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'อาคารสำนักงานองค์กรกระจกสีเข้มเพรียวบางในเมดินี อิสกันดาร์ปูเตรี ตั้งตระหง่านเหนือทางเดินสวนจัดภูมิทัศน์ใต้ท้องฟ้าใส'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: ภาพมุมสูงของ Forest City ในยะโฮร์ แสดงอาคารสูงริมน้ำที่กำลังก่อสร้างและแถวบล็อกวิลลาสีขาวตามชายหาดที่ถมขึ้นมาข้างช่องแคบ
+    kind: actual
+    origin: third-party
+    subject: Forest City โครงการพัฒนาข้ามพรมแดนเรือธงในยะโฮร์บนช่องแคบยะโฮร์ พร้อมอาคารสูงและบล็อกวิลลาที่กำลังก่อสร้างหันหน้าออกสู่น้ำไปทางสิงคโปร์
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: ป้ายแลนด์มาร์ก 'Iskandar Puteri' ขนาดใหญ่ริมถนนบนวงเวียนที่จัดภูมิทัศน์ พร้อมอาคารสำนักงานและพาณิชย์และเครนก่อสร้างบนเส้นขอบฟ้าด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: ป้ายแลนด์มาร์กประตูสู่ Iskandar Puteri พร้อมอาคารพาณิชย์และเครนของเขตตั้งตระหง่านบนเส้นขอบฟ้าด้านหลัง
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 บทสรุปทุกฉบับของเขตเศรษฐกิจพิเศษยะโฮร์-สิงคโปร์นำด้วยตัวเลขเดียวกัน: 5 เปอร์เซ็นต์เป็นเวลา 15 ปี มันเป็นตัวเลขจริง และก็เป็นข้อเท็จจริงที่มีประโยชน์น้อยที่สุดในชุด เพราะแทบไม่มีใครที่อ่านมันจะมีคุณสมบัติ

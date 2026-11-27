@@ -26,7 +26,7 @@ faq:
     a: "For a first offence, a fine not exceeding RM30,000 or imprisonment not exceeding 2 years, or both. Subsequent offences carry up to RM50,000 or imprisonment of up to 3 years."
 
 lang: "en"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,9 +57,35 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'Shopfront signage of a Malaysian traditional-medicine and health shop, representing complementary and traditional medicine practice'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: Four fine acupuncture needles laid on a surface beside a coin for scale, representing acupuncture as a complementary therapy
+    kind: representative
+    origin: third-party
+    subject: Acupuncture needles shown with a coin for scale
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: A wooden crate of bottled jamu, a traditional herbal tonic medicine, with leaf-stoppered bottles of amber liquid, representing herbal complementary medicine
+    kind: representative
+    origin: third-party
+    subject: Bottles of jamu, a traditional Malay-Indonesian herbal tonic medicine
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 Since 1 March 2025, traditional masseurs, Chinese medicine practitioners, homeopaths and chiropractors in Malaysia can no longer open their clinic doors without a single piece of paper — a registration certificate. The era of "practising in the name of experience" is over.

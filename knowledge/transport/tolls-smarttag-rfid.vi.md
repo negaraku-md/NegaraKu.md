@@ -28,7 +28,7 @@ faq:
     a: "RFID vẫn cần phương tiện đi qua làn được đánh dấu với barie nâng lên sau khi đọc thành công. ANPR như JustGO PLUS nhận diện phương tiện qua camera đọc biển số, cho phép phương tiện đã đăng ký đi qua bất kỳ làn nào mà không cần bất kỳ tag vật lý nào — một bước nữa hướng đến hệ thống hoàn toàn không barie (MLFF)."
 
 lang: "vi"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'Một chiếc ô tô chạy qua vào ban đêm bên dưới hai biển làn SmartTAG màu vàng được chiếu sáng tại một trạm thu phí đường cao tốc Malaysia.'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: Một trạm thu phí cao tốc rộng nhìn vào ban ngày, với một dãy cabin thu phí và mái che làn phía trên trải dài qua nhiều làn thanh toán
+    kind: actual
+    origin: third-party
+    subject: một trạm thu phí cao tốc ban ngày với nhiều làn và cabin gần Ipoh, Perak
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: Một làn ra của trạm thu phí được đánh dấu cho thanh toán RFID, với thanh chắn làn và giàn đầu đọc phía trên đường gần Kota Damansara
+    kind: actual
+    origin: third-party
+    subject: một làn ra RFID tại Trạm thu phí Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 Chiếc xe trước bạn ở làn RFID phanh gấp vì miếng dán trên đèn pha của nó không được phát hiện — trong khi nhiều người tưởng RFID có nghĩa là "không cần làm gì cả". Thực tế, Malaysia hiện đang vận hành ít nhất bốn thế hệ công nghệ thu phí đồng thời trên các đường cao tốc khác nhau, và nhầm lẫn cái này với cái kia là nguyên nhân thường gặp khiến xe kẹt lại tại cổng.

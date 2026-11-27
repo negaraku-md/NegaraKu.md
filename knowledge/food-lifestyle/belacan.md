@@ -93,6 +93,7 @@ verificationNeeded:
   - "The ranking of belacan production centres (Penang/Balik Pulau, Perlis, Pangkor and Melaka are all cited) and whether Pangkor is historically a leading centre — confirm with a fisheries, state or heritage source."
   - "Typical fermentation and drying durations, which sources give as anywhere from two to three weeks up to three to four months and which vary by producer and weather — confirm a representative range."
 framework: explainer
+wikidata: "Q1127705"
 ---
 
 Few ingredients announce themselves as loudly as belacan. Unwrap a block and the

@@ -18,7 +18,7 @@ keyTakeaways:
   - "Parameswara, fundador del Sultanato de Melaka hacia 1400, es descrito en la tradición malaya y por el propio gobierno estatal de Melaka como un príncipe de Palembang, la antigua sede de Srivijaya"
 appliesTo: "Lectores que quieran entender qué gobernaba el estrecho de Melaka antes que Melaka, y cómo una potencia marítima con base en Sumatra terminó alimentando directamente la propia historia real de la península malaya."
 lang: "es"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -64,6 +64,32 @@ faq:
   - q: ¿Cuál es la inscripción más antigua que se conoce en malayo antiguo y cómo se relaciona con Srivijaya?
     a: Es la inscripción de Kedukan Bukit, fechada en el año 682 d. C., que registra una expedición militar y ritual de Srivijaya. Más allá de la historia de Sumatra, importa por ser la inscripción más antigua que se conoce escrita en malayo antiguo, el antepasado directo tanto del malayo moderno como del indonesio moderno. A medida que la red comercial de Srivijaya se expandía, el malayo antiguo se difundió por todo el archipiélago como lengua franca de uso práctico, siglos antes de que existiera sultanato alguno.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: 'Un desgastado Buda de granito gris, sin piernas, de pie sereno ante follaje verde en la colina sagrada de la antigua capital de Srivijaya.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: Una pequeña piedra gris redondeada grabada con hileras de antigua escritura en malayo antiguo, la inscripción de Kedukan Bukit de la época de Srivijaya, expuesta sobre un soporte de museo.
+    kind: actual
+    origin: third-party
+    subject: La inscripción de Kedukan Bukit (683 d. C.), una piedra en malayo antiguo de Srivijaya
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: Una estatua de bronce de ocho brazos del bodhisattva Avalokiteshvara, hallada en Bidor, en Perak, expuesta erguida en el Museo Nacional de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: El Avalokiteshvara de bronce de Bidor (siglos VIII-IX), Museo Nacional, Kuala Lumpur
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 Cuando Parameswara huyó de Temasek en 1396 y fue a dar con la ribera que se convertiría en Melaka, no era un don nadie que llegaba de la nada. El propio gobierno estatal de Melaka todavía lo registra, sin rodeos, como «un príncipe real de Palembang». Palembang, a orillas del río Musi, al sur de Sumatra, había sido la capital de una potencia marítima que gobernó el estrecho de Melaka durante unos seiscientos años antes de que Parameswara naciera: un reino llamado Srivijaya. Para cuando Parameswara llegó a la península, el poder político de aquel reino ya había desaparecido. Pero el Sultanato de Melaka que fundó llevaba consigo su linaje, y posiblemente todo su modelo de lo que debía ser un puerto comercial malayo, salido directamente de las ruinas de Srivijaya.

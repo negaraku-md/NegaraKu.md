@@ -97,6 +97,34 @@ relations:
 related: ["penang", "mida"]
 keywords: ["E&E industry", "electrical and electronics", "Malaysia manufacturing", "Penang electronics", "semiconductors", "consumer electronics", "electronic components", "National Semiconductor Strategy", "Bayan Lepas", "MIDA"]
 framework: profile
+hero: '/media/industries/electrical-electronics-industry/hero.webp'
+heroAlt: 'Close-up of a green printed circuit board densely packed with bright-orange capacitors, cylindrical electrolytic capacitors, black integrated-circuit chips and colour-banded resistors'
+heroCredit: 'Ashley Pomeroy / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a densely populated printed circuit board with capacitors, ICs and resistors'
+
+images:
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-1.webp
+    alt: A hand holding a soldering tool and fine tweezers works on a tiny surface-mount component on a green printed circuit board crowded with chips and traces
+    kind: representative
+    origin: third-party
+    subject: A hand uses fine tweezers and an iron to rework a surface-mount component on a circuit board
+    credit: Aisart / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Soldering_a_0805.jpg
+  - role: scene
+    src: /media/industries/electrical-electronics-industry/body-2.webp
+    alt: A green printed circuit board photographed from directly above, populated with several labelled black integrated-circuit chips, memory packages and rows of small surface-mount parts
+    kind: representative
+    origin: third-party
+    subject: Top-down view of a fully assembled consumer-electronics printed circuit board
+    credit: Raimond Spekking / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SEG_DVD_430_-_Printed_circuit_board-4276.jpg
 ---
 
 Open almost any laptop, smartphone or car built in the last decade and there is a decent chance a piece of it passed through Malaysia. The chip inside might have been tested and packaged in Penang; the power adapter, the LED backlight or the circuit board could have been assembled in Kulim, Melaka or the Klang Valley. For a country of about 34.1 million people (2024, DOSM), Malaysia sits at a surprisingly central point in the world's electronics supply chain — and that is almost entirely the story of one industry.

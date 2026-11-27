@@ -105,6 +105,12 @@ keywords:
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: '本文适合正在比较各类长期准证的外国企业主、投资者或退休人士——尤其是那些被告知 MM2H 可以让自己经营马来西亚公司的人。'
+  how: '按你实际需要的活动来匹配准证。受雇于马来西亚公司要走由雇主担保的就业准证 Employment Pass。大多数 MM2H 层级禁止经商和职业活动，而最高层级则允许。高端访客途径允许工作和合法经商。持家属准证 Dependant Pass 者要工作必须转为就业准证 Employment Pass，因为你一次只能持有一张准证；而马来西亚公民的外籍配偶则是通过在长期社交访问准证 Long Term Social Visit Pass 上的背签获得工作权利。'
+  cost: '每条途径都有各自的定期存款、参与费、收入或薪资门槛，这些会不时修订，所以请在签发机构自己的页面上确认当前数额——MM2H 各层级和 PVIP 看 MOTAC，就业准证和家属准证看 ESD 和移民局 Immigration——而不是引用某个数字。'
+  watch: '“MM2H 可以让你工作”只对最高层级成立，对其余层级都是错的。专业访问准证 Professional Visit Pass（含 DE Rantau）有名额上限且不发薪，持有者仍由境外支付薪资。你一次只能持有一张准证，所以家属准证是一次转换，而不是附加。'
+  next: '从你需要的活动出发——就业、经营自己的公司、退休，还是家属身份——在签发机构的页面上确认该准证目前是否允许这项活动，然后通过该机构申请。参见就业准证 Employment Pass、MM2H 和 PVIP 说明。'
 ---
 
 这些计划背后的问题都是同一个：**凭这张准证，我究竟能不能工作，或经营我的公司？**

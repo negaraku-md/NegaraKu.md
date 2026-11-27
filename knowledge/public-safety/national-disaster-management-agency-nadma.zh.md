@@ -29,7 +29,7 @@ faq:
     a: "它已被《NADMA 第 1 号指令》取代，该指令于 2024 年 8 月 1 日在由首相主持的国家安全理事会（MKN）会议上通过。"
 
 lang: "zh"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: '马来西亚沙巴山打根在季风强降雨期间，洪水淹没了一处乡村地区。'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: 一支水上救援队乘坐平底船在搜救行动中穿行于洪水之中
+    kind: representative
+    origin: third-party
+    subject: 搜救行动中洪灾救援队乘船(示意)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: 环绕建筑物堆砌起来的沙袋防护墙,用以阻挡上涨的洪水
+    kind: representative
+    origin: third-party
+    subject: 沙袋防洪屏障(示意)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 当大水灾同时侵袭多个州属时，是谁按下按钮，把军队、消防、警察和志愿者统一在一道指令之下进行协调？在马来西亚，答案就是 NADMA。

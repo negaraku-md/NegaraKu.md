@@ -29,7 +29,7 @@ faq:
     a: "Thường là không. Nhiều khu nghỉ dưỡng bờ đông và đơn vị vận hành thuyền tự nguyện ngừng dịch vụ từ khoảng tháng 10 đến tháng 2 vì biển động do gió mùa đông bắc."
 
 lang: "vi"
-sourceContentHash: "67e4ba71972f528c"
+sourceContentHash: "cebd04ed4d87c31d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,9 +85,33 @@ sources:
 
 relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
-related: []
+related: ["getting-around-malaysia-for-tourists", "klang-valley-and-city-buses", "e-hailing-grab"]
 keywords: ["Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
+hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'
+heroAlt: 'Phà cao tốc hai thân màu đỏ-trắng ''SANI 1'' cập bến dọc một lối lên có mái che tại một bến tàu Langkawi, với những ngọn đồi đá vôi xanh phía sau — chuyến phà chở khách Malaysia cổ điển ra các đảo'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_Ferry.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-1.webp
+    alt: Bến phà hành khách Kuah nằm trên mặt nước ở Langkawi, mái vòm cánh hải âu dài mang dòng chữ 'TERMINAL FERI PENUMPANG KUAH' phía trên eo biển xanh ngọc — điểm bến/nhà ga của một chuyến phà ra đảo
+    kind: actual
+    origin: third-party
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi,_Kedah,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE_-_54406901220.jpg
+  - role: scene
+    src: /media/transport/domestic-ferries-and-island-transport/body-2.webp
+    alt: Một chiếc thuyền nhỏ có mái che của Công viên Biển neo bên cầu tàu trên cọc của đảo giữa làn nước xanh ngọc trong vắt ở Perhentian Besar — chặng cuối ra đảo bằng thuyền nhỏ
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Besar,_Malaysia,_Marine_National_Park_Boat.jpg
 ---
 
 Không có một hãng phà quốc gia duy nhất nào ở Malaysia. Đến một hòn đảo có nghĩa là biết tuyến vượt biển ngắn nào, bến nào và đơn vị vận hành nào phục vụ nó — và, ở bờ đông, liệu biển tháng đó có mở hay không.

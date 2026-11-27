@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Người đọc tìm một hồ sơ dựa trên sự kiện về Sabah — địa lý, kinh tế và chính quyền của nó — và một trình bày trung lập về vị thế hiến pháp của nó theo Thỏa thuận Malaysia 1963."
 
 lang: "vi"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,32 @@ relations:
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
 framework: profile
+hero: '/media/states/sabah/hero.webp'
+heroAlt: 'Những đỉnh granite xám lởm chởm của Núi Kinabalu vươn lên trên những chân đồi rừng và ngọn cây xanh dưới bầu trời xanh.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: Thánh đường Hồi giáo thành phố Kota Kinabalu màu trắng và vàng soi bóng những mái vòm xuống đầm phá nhân tạo bao quanh nó trên bờ biển Sabah.
+    kind: actual
+    origin: third-party
+    subject: Masjid Bandaraya Kota Kinabalu, Sabah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: Bãi biển nhạt màu rải rác gỗ trôi dạt viền quanh vùng nước nông màu ngọc lam của đảo Pulau Mataking ngoài khơi Semporna ở Sabah.
+    kind: actual
+    origin: third-party
+    subject: Đảo Pulau Mataking gần Semporna, Sabah
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 Sabah không gia nhập Malaysia như một bang gia nhập một quốc gia. Nó gia nhập như một trong

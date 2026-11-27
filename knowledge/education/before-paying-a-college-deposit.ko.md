@@ -35,7 +35,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["말레이시아 대학 예치금", "MQA 인증 확인", "MQR mqr.gov.my", "내 과정이 인증받았나", "말레이시아 대학 환불 정책", "트위닝 3+0 학위 수여 기관", "말레이시아 사립대학 IPTS", "Act 555", "대학 학비 납부 전"]
 framework: how-to
+stayFacts:
+  who: '칼리지의 입학 제의를 받고 보증금이나 등록비 — 흔히 가장 먼저 내게 되며 환불되지 않는 경우가 많은 돈 — 를 내기 직전인 학생과 학부모를 위한 카드입니다.'
+  how: '돈을 내기 전에 다섯 가지를 서면으로 확인하십시오. 정확한 프로그램이 MQR에 올라 있는지, 교육기관이 등록된 제공기관인지(Private Higher Educational Institutions Act 1996 (Act 555)에 따른 IPTS이거나, 인정받은 공립대학 또는 분교 캠퍼스), 트위닝 또는 3+0 프로그램의 경우 최종 수료증을 누가 수여하는지, 프로그램 전체 기간에 대한 서면 학비 명세 전부, 그리고 환불·자퇴 조항입니다.'
+  cost: '보증금은 일부일 뿐입니다 — 1년 차만이 아니라 프로그램 전체 기간에 대한 완전한 서면 학비 명세(등록비, 학기별 등록금, 교재비, 시험비, 보험료, 유학생 비용)를 요청하고, 보증금이 무엇에 충당되는지 확인하십시오.'
+  watch: '보증금은 환불되지 않는 경우가 많고, 국가 차원의 법정 철회 기간(cooling-off) 권리가 없습니다 — 돌려받을 수 있는 금액은 교육기관 자체의 서면 정책이 정합니다. ''3학년 편입 보장''은 현지 칼리지가 아니라 제휴 대학의 결정이니, 서면으로 받아 두십시오.'
+  next: '교육기관에 대한 모든 확인 항목을 서면으로 남기고 답변을 보관한 뒤에야 돈을 송금하십시오. 그 전에 먼저 MQR에서 정확한 프로그램을 확인하십시오. MQA 인증 해설 글을 참고하십시오.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: '황혼 무렵 호수에 비친 테일러스 대학교(Taylor''s University) 레이크사이드 캠퍼스의 타워들로, 본관에 빨간색 「TAYLOR''S UNI」 간판이 있다.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI·UCD 말레이시아캠퍼스의 유리 외벽으로, 신입생에게 입학 보증금을 요구하는 부류의 사립대학이다.
+    kind: actual
+    origin: third-party
+    subject: RCSI·UCD 말레이시아캠퍼스(RUMC), 페낭주
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: 선웨이대학교 캠퍼스의 현대식 강의동으로, 지원자가 등록을 결정하기 전에 학비와 보증금을 따져 보는 사립 교육기관이다.
+    kind: actual
+    origin: third-party
+    subject: 선웨이대학교 캠퍼스 건물(반다르선웨이)
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 예치금은 보통 가정이 대학에 처음으로 건네는 돈이며, 일단 내고 나면

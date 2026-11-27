@@ -33,7 +33,7 @@ faq:
     a: "전통적으로 여성입니다. 유네스코는 송켓 직조가 늘 여성의 손에 있었으며 남성은 직조 도구를 만들며 그 관행에 참여했다고 기록합니다. 그 지식은 가족과 마을에서 전해지며, 일부 기관은 훈련 프로그램도 제공합니다."
 
 lang: "ko"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,34 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: '손으로 짠 송켓 천의 세밀한 근접 촬영, 짙은 붉은 실크에 반짝이는 금실로 촘촘한 꽃과 다이아몬드 문양을 짜 넣고 대비되는 중앙 패널이 있는 모습'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: 직사각형 송켓 천 한 벌을 평평하게 펼쳐 놓은 모습으로, 금실 꽃 무늬의 붉은 양 옆 패널이 좀 더 연한 금색의 가운데 패널을 감싸고 있는 모습
+    kind: actual
+    origin: third-party
+    subject: 금빛 브로케이드 바탕과 가운데 머리 패널이 보이도록 평평하게 펼친, 트렝가누산 말레이시아 송켓 허리감개(카인)
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: 짜 넣은 금속 실로 반짝이는 초록-금색 송켓 천으로 만든, 접어 세운 삼각형 말레이 머리장식(탄작)을 받침대에 올려 전시한 모습
+    kind: actual
+    origin: third-party
+    subject: 트렝가누산 금빛 송켓 천으로 만든 접이식 말레이 머리장식 탄작
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 송켓 작업장에서 가장 많이 들리는 소리는 기계 소리가 아닙니다. 그것은 나무를 누르고, 실을 당기고, 대나무 살대를 끼워 넣었다가 다시 빼내는 소리입니다 — 한 줄의 무늬를 한 번에, 하루 종일 되풀이합니다.

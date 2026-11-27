@@ -32,7 +32,7 @@ faq:
     a: "40 வயது மற்றும் அதற்கு மேற்பட்ட Sumbangan Tunai Rahmah (STR) பயனாளிகள் பதிவுசெய்யப்பட்ட அரசாங்க அல்லது தனியார் கிளினிக்குகளில் PeKa B40 திட்டத்தின் கீழ் இலவசப் பரிசோதனைக்குத் தகுதியுடையவர்கள். பொது சுகாதார கிளினிக்குகளும் (Klinik Kesihatan) அடிப்படைப் பரிசோதனைகளை வழங்குகின்றன."
 
 lang: "ta"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "administered-by", to: "ministry-of-health" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "smoking-and-vaping-law-act-852"]
 keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023", "cukai gula", "PeKa B40", "Logo Pilihan Sihat", "saringan kesihatan"]
 framework: explainer
+hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'
+heroAlt: 'மலேசிய மற்றும் சபா கொடிகள் மற்றும் ஒரு ஆம்புலன்ஸுடன், கிராமப்புற மலேசிய அரசு சுகாதார கிளினிக்கான கிளினிக் கெசிஹாத்தான் சுங்கை-சுங்கையின் வெளிப்புறம்.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: கை கஃப்புடன் கூடிய டிஜிட்டல் தானியங்கி இரத்த அழுத்த கண்காணிப்பி, உயர் இரத்த அழுத்தத்திற்கான வழக்கமான பரிசோதனையில் பயன்படும் வகையான சாதனம்
+    kind: representative
+    origin: third-party
+    subject: சுகாதார பரிசோதனைக்குப் பயன்படும் தானியங்கி மேற்கை இரத்த அழுத்த கண்காணிப்பி மற்றும் கஃப்
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: பின்னணியில் நகர வானோரக்கோட்டுடன் கோலாலம்பூரில் அழகுபடுத்தப்பட்ட ஏரிக்கரை பூங்கா, தொற்றா நோய்களைத் தடுக்க உதவும் உடல் செயல்பாடு மற்றும் ஆரோக்கியமான வாழ்க்கை முறையைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூரில் உள்ள ஏரிக்கரை பொது பொழுதுபோக்கு பூங்காவான Taman Tasik Titiwangsa
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 மலேசியாவின் வயது வந்தோரில் பாதிக்கும் மேற்பட்டோர் இன்று தமது ஆயுளைக் குறைக்கக்கூடிய எடையைச் சுமந்து செல்கின்றனர் — ஆறு பேரில் ஒருவர் ஏற்கனவே நீரிழிவு நோயுடன் வாழ்கிறார், பலர் அதை உணராமலேயே. இது மருத்துவமனைகள், குடும்பங்கள் மற்றும் தேசிய பொருளாதாரத்தை எந்தவொரு தொற்று நோயையும் விட மிக அதிகமாகச் சுமையேற்றும் அமைதியான தொற்றுநோயாகும்.

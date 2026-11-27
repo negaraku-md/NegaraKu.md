@@ -32,7 +32,7 @@ faq:
     a: "Jabatan Wilayah Persekutuan (JWP) di bawah Jabatan Perdana Menteri mengoordinasikan kebijakan dan pembangunan ketiga wilayah di tingkat federal, sedangkan DBKL, Perbadanan Putrajaya dan Perbadanan Labuan adalah otoritas lokal yang menjalankan urusan harian seperti perizinan, perencanaan kota dan layanan munisipal di wilayah masing-masing."
 
 lang: "id"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,32 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'Putrajaya di seberang danau, dengan Masjid Putra berkubah merah muda dan menaranya yang menjulang di sebelah kiri serta kompleks pemerintahan Perdana Putra berkubah hijau di sebelah kanan di bawah langit mendung.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: Gedung administrasi Putrajaya Corporation, otoritas lokal yang mengelola wilayah federal Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Kantor pusat Perbadanan Putrajaya (Putrajaya Corporation), otoritas lokal wilayah persekutuan Putrajaya
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: Fasad berkubah Istana Kehakiman di Putrajaya, mengusung lambang negara federal Malaysia, sebuah gedung pemerintah wilayah federal
+    kind: actual
+    origin: third-party
+    subject: Istana Kehakiman (Palace of Justice), sebuah gedung pemerintah federal di Putrajaya
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 Di sebuah negeri, ada Sultan atau Yang di-Pertua Negeri, ada Menteri Besar atau Ketua Menteri, dan ada Dewan Undangan Negeri yang dipilih rakyat. Di Kuala Lumpur, Putrajaya dan Labuan, tidak satu pun dari itu. Ketiga tempat ini bukan negeri — ia Wilayah Persekutuan, dan ia diperintah langsung oleh Pemerintah Federal.

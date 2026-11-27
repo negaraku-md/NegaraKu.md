@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 
 status: "published"
 aiAssisted: true
@@ -78,9 +78,35 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: '黄色に染まったハリマウ・マラヤのサポーターがブキ・ジャリル国立競技場を埋め尽くし、マレーシアの虎が描かれたスコアボードが見下ろしている。'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: 1972年夏季オリンピックのサッカー競技で、西ドイツの攻撃選手に対応するマレーシアのゴールキーパー、ウォン・カムフックの動き。
+    kind: actual
+    origin: third-party
+    subject: 1972年夏季オリンピックで西ドイツと対戦するマレーシアのサッカー代表チーム
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: 2014年AFF選手権でのマレーシア代表のサッカーの試合中、シャアラム・スタジアムのスタンドから見た光景。
+    kind: actual
+    origin: third-party
+    subject: マレーシア代表の試合中のシャアラム・スタジアムの内部
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 7名の外国生まれの選手が、2025年6月にハリマウ・マラヤのジャージーに袖を通した。それから1年も経たないうちに、世界最高峰のスポーツ仲裁機関が、彼らにマレーシアでのプレー資格を与えた書類が偽造されていたことを確認した。この事件は、一連のFIFAの規律手続き、スポーツ仲裁裁判所（CAS）への上訴、そしてマレーシアでの警察への通報を引き起こした。

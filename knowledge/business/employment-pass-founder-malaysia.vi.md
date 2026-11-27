@@ -121,6 +121,12 @@ keywords:
   - "employment pass category I II III"
   - "pas penggajian Malaysia"
 framework: how-to
+stayFacts:
+  who: 'Dành cho nhà sáng lập hoặc giám đốc kiêm cổ đông người nước ngoài có ý định điều hành một công ty Malaysia từ bên trong Malaysia bằng Employment Pass.'
+  how: 'Hãy theo đúng trình tự, vì thứ tự chính là cái bẫy. Thành lập công ty với SSM trước, đăng ký và kích hoạt công ty với Expatriate Services Division (ESD), và chỉ khi đó công ty — chứ không phải bạn — mới có thể bảo trợ Employment Pass của bạn. Là người nộp hồ sơ với tư cách cổ đông, bạn phải nắm giữ ít nhất tỷ lệ vốn góp tối thiểu và là giám đốc hoặc người giữ vị trí chủ chốt đã đăng ký với SSM, còn công ty phải vượt qua ngưỡng vốn đã góp (paid-up capital) vốn khác nhau tùy theo cơ cấu sở hữu và lĩnh vực.'
+  cost: 'Ngưỡng vốn đã góp, các bậc danh mục lương cơ bản tối thiểu, cùng các ngưỡng về vốn góp và tiêu chuẩn đều do chính sách của Immigration và ESD đặt ra và đã được điều chỉnh gần đây, nên hãy xác nhận các con số hiện hành trên ESD Online thay vì một con số được trích dẫn. Phép kiểm tra lương chỉ tính lương cơ bản — các khoản phụ cấp không được tính.'
+  watch: 'Bạn không thể tự cấp Employment Pass cho mình vào một công ty chưa đáp ứng được mức vốn cần có để bảo trợ bạn — đó chính là cái bẫy về trình tự. Các công ty trong những lĩnh vực thương mại phân phối bị hạn chế có thể không được cấp bất kỳ loại pass dài hạn nào, và một lần gia hạn rơi vào sau thay đổi chính sách gần đây sẽ được đánh giá theo các bậc mới và có thể xếp loại bạn xuống thấp hơn.'
+  next: 'Hãy xác nhận ngưỡng vốn, danh mục lương cùng các yêu cầu về vốn góp và giám đốc hiện hành cho cơ cấu sở hữu của bạn trên ESD Online, thành lập và đăng ký công ty trước khi nộp hồ sơ, và lên kế hoạch cho bất kỳ lần gia hạn nào theo chính sách đã sửa đổi. Xem bài so sánh thị thực kinh doanh và bài giải thích về giám đốc thường trú (resident director).'
 ---
 
 Thứ tự các thao tác đánh bại nhiều người sáng lập nước ngoài hơn bất kỳ quy tắc đơn lẻ nào.

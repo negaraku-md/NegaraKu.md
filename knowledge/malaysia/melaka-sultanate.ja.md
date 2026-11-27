@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cf412842ff34bf8f"
+sourceContentHash: "71f9e93ec46a7d9e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -44,7 +44,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-19
 sources:
   - title: "マラッカとジョージタウン、マラッカ海峡の歴史都市 (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
@@ -57,6 +57,12 @@ sources:
     publisher: "マレーシア博物館局"
   - title: "マレー年代記 (Sejarah Melayu (Malay Annals))"
     publisher: "マレーシア国立公文書館"
+  - title: "マラッカ王国（世界史 第2巻）"
+    url: "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+    publisher: "OpenStax, Rice University"
+  - title: "マレーシアの歴史：マラッカ王国 (History of Malaysia: The Malacca Sultanate)"
+    url: "https://www.britannica.com/topic/history-of-Malaysia"
+    publisher: "Encyclopædia Britannica"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }
@@ -64,6 +70,32 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: '幾重にも急勾配で積み重なった多層の灰色の屋根を頂く広大な木造宮殿が、手入れの行き届いた熱帯の庭園の中に建ち、上空から見下ろすとその背後に歴史都市マラッカの町並みが広がっている。'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: 風化した灰色の石造りのアーチ門。上部に小さな彫刻の紋章があり、明るい空の下、緑の芝生に単独で立つ。ムラカのA Famosa要塞で唯一現存する門。
+    kind: representative
+    origin: third-party
+    subject: ムラカにあるポルトガルの要塞門、サンチャゴ門（A Famosa）。スルタン朝滅亡後まもなく築かれた
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: 丘の頂に立つ古い教会の、屋根のない煉瓦と石の外殻。がらんとした窓の開口部と崩れかけた壁が日中に暖かな赤褐色に輝き、廃墟の間を見物客が歩いている。
+    kind: representative
+    origin: third-party
+    subject: ムラカのセントポールの丘の頂にある、屋根のないセントポール教会の廃墟
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 一人の王子が、燃え盛る都市から逃げ出す。彼は海峡を渡り、自分をかくまってくれた地元の首長を殺し、そのまま走り続ける——ムアルを抜け、ウジョン・タナを抜け——ついに川岸の一本の木の下で足を止め、犬たちを休ませる。その一匹がマメジカを追い詰めたが、追い詰められたマメジカは身をひるがえし、犬を蹴って川に落とした。王子はこれを予兆と受け取る——この地では、どんなに小さな生き物でも反撃するのだと。彼はここに自分の都市を築くことを決め、腰を下ろしていた木にちなんでその名を付けた——*melaka*（マラッカ）の木である。
@@ -75,6 +107,14 @@ framework: history-culture
 中国とインドの間の交易は季風に依存していた。船は数か月間、一方向へ風に乗って進み、それから風向きが逆転するのを待った。その航路の中間点に位置し、淡水と安全な錨地、そして公正な取引を提供する港は、不可欠な存在となり得る——そしてマラッカはまさにそうなった。パラメスワラの到来からわずか数世代のうちに、この都市は中国のジャンク船、グジャラートやタミルの商人、ジャワ、アラブ、ペルシャの商人たちを引き寄せ、地理と統治以外に何ら取り柄のなかったこの海岸線に、彼らすべてが集まってくるようになった。
 
 その統治は、地理と同じくらい重要であった。マラッカの統治者たちは、少数の官職を中心に行政を築き上げた——ブンダハラ（Bendahara、宰相）、ラクサマナ（Laksamana、提督）、トゥムンゴン（Temenggung、治安長官）、そしてシャバンダル（Syahbandar、港務官、主要な貿易共同体ごとに一名）——これにより、どの商人共同体も、頼るべき予測可能な相手を持つことができた。十五世紀の大半にわたりブンダハラを務めたトゥン・ペラ（Tun Perak）は、マラッカの最盛期にこの体制をまとめ上げた行政家として記憶されている。
+
+## 黄金時代——中国、そして属国からなる帝国
+
+マラッカは十五世紀後半、スルタン・マンスール・シャーとその子アラウッディン・リアヤット・シャーの治世に権勢の絶頂を迎えた——通常、王国の黄金時代として記憶される時期である。その背後にある行政上の功績の多くは、1456年から1498年まで宰相を務めたトゥン・ペラに帰せられる。彼は数々の功績の中でも、勢力を拡大するアユタヤのシャムを押し返した。マラッカはすでに1446年と1456年にシャムの攻撃を撃退していた。
+
+その絶頂を支えたのは二つの関係であった。第一は明中国との関係である。マラッカは明の朝廷と正式な関係を結び、これと朝貢の絆を求めた——これは現実の外交的な重みを持つつながりであった。明の使節は、マラッカが中国の保護下にある属国とみなされていることをシャムに知らしめたのである。提督・鄭和は、十五世紀初頭の明の大いなる宝船の遠征の際にこの港に寄港し——一説には六度——マラッカを、中国が主導する海上ネットワークの最も重要な結節点の一つに位置づけた。明が世紀の半ば頃に内向きに転じるまでのことであった。
+
+第二は、近隣諸国への影響力であった。マラッカは拡張政策を推し進め、黄金を産するパハンを併合し、マレー半島沿岸部とスマトラ東部の大半に対する宗主権を得た。群島各地の諸国はその統治者を盟主として認めるようになり、イスラム教はジョホール、ケダ、ペラ、パハン、トレンガヌといった従属スルタン国を通じて根を下ろした。ジャワのマジャパヒトでさえ、マラッカの台頭を警戒して和を求め——マレーの伝統にのっとり、マンスール・シャーの宮廷への王室間の婚姻によってそれを結んだ。最盛期には、この港には多くの民族からなる約一万五千人の商人——中国人、アラブ人、ペルシャ人、インド人、その他——が集い、ある初期のヨーロッパ人の見積もりによれば、既知の世界のどの港をもしのぐほどの賑わいであったという。
 
 ## 地域を変えた改宗
 
@@ -94,6 +134,12 @@ framework: history-culture
 
 独立王国としてのマラッカは、わずか110年しか存続しなかった——これは、周囲の帝国の水準からすればごく短い。しかし、後に「マレー」という国家体制を定義することになったほぼすべての制度——統治形態としてのスルタン国、共通言語としてのマラッカ・マレー語、アダット（adat）の慣習と融合したイスラム宮廷法——は、そこに起源を持つか、あるいは他所へと向かう途上でそこを経由したものである。マレーシアの現代の憲法がマレー統治者たちの制度を保持しているとき、あるいはスルタンへの忠誠を説くマレーの対句のことわざが学校の教科書で引用されるとき、その参照点は——何世紀を隔てていようとも——マラッカの宮廷である。一匹のマメジカの頑固さと季風の巡り合わせの上に築かれた、たった一つの交易都市が、六百年を経た今もなお、マレーシアの市民生活の中で静かに働き続けている。
 
+## 次に読む
+
+- 1511年以降、南へ移った王座を[ジョホール・リアウ王国](/ja/malaysia/johor-riau-sultanate)——マラッカの直系の後継——にたどる
+- 包囲戦そのものを[ポルトガルによるマラッカ征服、1511年](/ja/malaysia/portuguese-melaka-1511)で読む
+- 半島のより古い諸政体を[ランカスカ](/ja/malaysia/langkasuka)でさらにさかのぼる
+
 ---
 
-*本稿は、その主題がマレー・スルタン国という制度の起源であり、また群島へのイスラム教伝来にも触れることから、NegaraKu.mdの編集方針に基づき、センシティブなコンテンツ（3R+1：王室）に分類されている。本稿は厳密に記述的な内容として書かれており、公開前に人による審査を待つ草稿として保持されている。*
+*本稿は、その主題がマレー・スルタン国という制度の起源であり、また群島へのイスラム教伝来にも触れることから、NegaraKu.mdの編集方針に基づき、センシティブなコンテンツ（3R+1：王室）に分類されている。本稿は厳密に記述的な内容として書かれている。*

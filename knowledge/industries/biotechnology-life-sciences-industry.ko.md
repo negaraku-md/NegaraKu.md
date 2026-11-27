@@ -31,7 +31,7 @@ faq:
   - q: 생명공학은 말레이시아 경제의 큰 부분인가요?
     a: 지배적이기보다 전략적이지만 아직 신흥인 부문입니다. 바이오경제공사는 첫 20년간 GDP에 약 RM399억 링깃의 누적 기여를 했다고 보고했습니다. 생명공학은 현재의 산출 비중보다 — 식량 안보, 보건, 바이오경제에서의 — 미래 잠재력으로 더 중요합니다.
 lang: ko
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: '방호복과 장갑, 얼굴 보호막을 착용한 과학자가 실험실 생물안전작업대 안에서 피펫으로 시료를 바이알에 옮기고 있다.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: 말레이시아 트렝가누 대학교 식물 조직 배양 실험실에서 조절된 조명 아래 늘어선 무균 배양 용기 선반들.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 트렝가누 대학교의 식물 조직 배양 실험실
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: 배관과 제어 계측기를 갖추고 실험실에서 살아 있는 세포 배양을 진행하는 스테인리스강·유리 바이오리액터.
+    kind: representative
+    origin: third-party
+    subject: 세포 배양을 진행하는 실험실용 바이오리액터
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 말레이시아에는 보스턴이나 상하이 같은 깊은 연구중심 대학이나 벤처캐피털의 두께가 없지만, 생명공학을 논리적인 장기 베팅으로 만드는 세 가지가 있습니다. 세계에서 가장 풍부한 열대 생물다양성의 보고 중 하나, 거대한 팜유·농업 바이오매스의 흐름, 그리고 세계적으로 인정받는 할랄 인증 권위입니다. 20년 넘게 정부는 그 자산을 현대 생명과학 산업으로 바꾸려 노력해 왔습니다. 이 가이드는 그 노력이 어떻게 조직되는지, 무엇을 구축했는지, 그리고 어디로 향하는지를 설명합니다.

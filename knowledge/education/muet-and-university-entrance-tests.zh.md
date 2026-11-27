@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 
 status: "published"
 aiAssisted: true
@@ -83,9 +83,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: '这适用于申请学士课程的大学先修阶段学生（STPM、大学先修班、基础课程或文凭），对他们而言，MUET是公立大学强制性的英语能力关卡。'
+  how: '透过马来西亚考试理事会（Malaysian Examinations Council，MPM）应考MUET的四张试卷——聆听、口试、阅读与写作；你的总成绩换算为相应等级（band），而每所大学的评议会（Senate）会为各课程设定所需的最低等级。'
+  cost: '费用由MPM设定，非公民以及电脑化的MUET on Demand版本收费较高，且会变动——请在MPM门户网站（mpm.edu.my）上核实当前费用，而非依据某个报出的数字。'
+  watch: '并不存在单一的及格等级——最低要求因课程而异，由各大学评议会设定。成绩有效期为五年，因此考得太早可能导致成绩在你申请之前就已过期。'
+  next: '在大学网站上查看目标课程所需的最低等级，尽早透过MPM报名，并留意五年有效期。参阅《公立与私立大学》。'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: '马来西亚一所大学礼堂内，学生们坐在单独的桌子前参加考试，监考员在走道间走动。'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: 马来西亚一所学校宽敞礼堂的内部，设有舞台与一排排地面空间，被用作考场
+    kind: representative
+    origin: third-party
+    subject: 用作考场的马来西亚学校礼堂（dewan）
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: 马来西亚一所大学校园内讲堂建筑群的鸟瞰图
+    kind: representative
+    origin: third-party
+    subject: 苏丹依德里斯师范大学（UPSI）的讲堂建筑群
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 你可以在 STPM 或大学预科中表现优异，但若少了另一项成绩，你的学位申请表仍然不完整。那项成绩就是 MUET——而许多学生往往要等到大学申请截止日期逼近时，才意识到它的重要性。

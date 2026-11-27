@@ -33,7 +33,7 @@ faq:
     a: "مبدأ التصميم الكلاسيكي لأوان لارات يتجنّب فعلاً تصوير البشر أو الحيوان عنصراً أساسياً في النمط. غير أن للنحت على الخشب الملايوي كذلك فئة زخرفية حيوانية خاصة به — كأشكال الدجاج ووحيد القرن والبطّ — تُستخدم منفصلةً عن نمط أوان لارات المتكرّر."
 
 lang: "ar"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "النحت على الخشب الملايوي", "ukiran kayu Melayu", "awan larat", "أوان لارات", "Desa Ukiran Kayu Besut", "زخارف النحت على الخشب", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: 'لوحة خشبية مستطيلة مؤطّرة داكنة منحوتة بالتفريغ بأوراق متدفّقة متناظرة وخيوط أوراق ملتوية ولفائف كروم بأسلوب أوان لارات الملايوي، مثبّتة على جدار متحف شاحب'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: منبر مسجد خشبي مزخرف بمظلّة مذهّبة عالية منحوتة ومثقّبة بأوراق ذهبية وقمة متوّجة، يرتفع فوق درج منحوت أحمر وذهبي على سجادة صلاة خضراء
+    kind: actual
+    origin: third-party
+    subject: المنبر الخشبي المذهّب المنحوت بدقة لمسجد تينغكيرا (ترانكيرا) في ملاكا، ماليزيا
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: شريط من نقش الزخرفة المثقّبة بأشكال أوراق لهبية يمتدّ على طول لوح الأفاريز الخشبي تحت سقف منزل ملايوي تقليدي بألواح بنية، يحيط به أوراق خضراء وسماء
+    kind: actual
+    origin: third-party
+    subject: لوح أفاريز منقوش بالزخرفة المثقّبة (بابان كيراوانغ) يزيّن خط سقف منزل ملايوي خشبي تقليدي في هولو لانجات، سلانجور
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 تأمّل عن قُرب اللوح الخشبي في نافذة بيت ملايوي قديم، وحاول أن تجد أين يبدأ النمط. لن تجده. وليس ذلك خطأ عينيك — فهكذا صُمّم.

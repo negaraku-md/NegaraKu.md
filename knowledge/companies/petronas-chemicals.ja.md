@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e03a991e55bbf78d"
+sourceContentHash: "1d5f878f712c80c1"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,7 @@ sources:
     publisher: "StockAnalysis.com"
 
 entity: "Petronas Chemicals Group (PCG)"
+wikidata: "Q139388026"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "petronas" }
@@ -82,6 +83,33 @@ keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petroch
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/petronas-chemicals/hero.webp'
+heroAlt: 'ジョホール州ペンゲランの広大な沿岸の石油化学・製油所複合施設の空撮。かすんだ空の下、白い貯蔵タンク、プロセス装置、パイプラック、桟橋の格子が海まで広がる'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_9_August_2022_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an aerial view of the Pengerang Integrated Complex (PIC) in Johor, PETRONAS''s downstream refining and petrochemicals hub where PETRONAS Chemicals operates'
+images:
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-1.webp
+    alt: 川越しに見える大きな石油化学肥料プラント。長い列の冷却塔セル、青いプロセス配管、赤白の煙突があり、緑の植生と曇り空を背にしている
+    kind: actual
+    origin: third-party
+    subject: サラワク州のASEAN Bintulu Fertiliserプラント。PETRONAS Chemicalsが操業するアンモニアと尿素の石油化学施設
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ASEAN_Bintulu_Fertiliser_Plant.jpg
+  - role: scene
+    src: /media/companies/petronas-chemicals/body-2.webp
+    alt: 金網フェンスの奥にある大きな白い円筒形の貯蔵タンク。緑のPETRONASのしずく型ロゴとともに'PETRONAS 90 MLC'と記され、傍らに配管やプラント構造物があり、薄雲のある青空が広がる
+    kind: actual
+    origin: third-party
+    subject: ジョホール州のPengerang Integrated ComplexにあるPETRONASブランドの貯蔵タンク
+    credit: Encik Tekateki / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Silo_in_Pengerang.jpg
 ---
 
 マレーシアの農場にまかれるほとんどすべての肥料の袋、そして同国の工場で成形されるプラスチック樹脂の大きな部分は、ひとつの会社——Petronas Chemicals Group Berhad——にさかのぼる。それは国営石油会社の化学品部門であり、マレーシア最大の統合型化学品製造企業であり、そして——国家関連事業としては異例なことに——誰もが株を買える、別個に上場した会社である。

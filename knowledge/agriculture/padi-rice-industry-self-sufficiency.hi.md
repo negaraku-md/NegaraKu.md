@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) देश की एकमात्र चावल-आयातक भूमिका रखती है, एक भूमिका जो उसे राष्ट्रीय धान एवं चावल बोर्ड (LPN) से विरासत में मिली, जिसने 1973 के विश्व खाद्य संकट के बाद चावल आयात संभाला और 1974 में एकमात्र आयातक बना। BERNAS राष्ट्रीय चावल बफर स्टॉक का प्रबंधन भी करती है और भूमिपुत्र मिलरों को सहारा देती है। इसका 12 जनवरी 1996 को निजीकरण हुआ।"
 
 lang: "hi"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,32 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'मलेशिया के लंकावी में एक बिजूका और पीछे वनाच्छादित पहाड़ियों के साथ हरा धान का खेत।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: केलंतान के एक धान के खेत में पकी सुनहरी धान काटता एक पीला कंबाइन हार्वेस्टर
+    kind: actual
+    origin: third-party
+    subject: केलंतान में पकी धान की फसल काटता एक कंबाइन हार्वेस्टर
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: लंगकावी, केदाह में पीछे एक वनाच्छादित पहाड़ी के साथ कटाई के लिए तैयार पकी सुनहरी धान का खेत
+    kind: actual
+    origin: third-party
+    subject: लंगकावी, केदाह में कटाई के लिए तैयार एक पका सुनहरा धान का खेत
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 हर बार जब चावल की कीमतें बढ़ती हैं या सुपरमार्केट की अलमारियाँ खाली हो जाती हैं, तो एक पुराना सवाल मलेशिया को फिर सताने लगता है: धान खेतों से इतना समृद्ध देश अब भी अपना लगभग आधा चावल क्यों आयात करता है? इसका उत्तर एक ऐसे उद्योग में छिपा है जो सब्सिडी से संचालित है, गारंटीयुक्त कीमतों से संरक्षित है, और एक ऐसे आत्मनिर्भरता लक्ष्य से पीछा किया जा रहा है जो अभी तक पहुँचा नहीं है।

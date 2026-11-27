@@ -30,7 +30,7 @@ faq:
     a: "이 등불 — 흔히 디야(diya)라 불리는 작은 흙 또는 금속 등불 — 은 「빛의 축제」의 시각적 핵심입니다. 여러 줄의 등불을 문간과 창가에 밝히며, 이는 「한 줄의 빛」이라는 축제 이름의 뜻을 되울립니다."
 
 lang: "ko"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ festivalFacts:
   when: "힌두(타밀) 음력으로 정해지며 대개 10월이나 11월이다. 관보에 고시되는 날짜는 매년 바뀌며 변경될 수 있는 것으로 표시된다."
   holiday: "관보에 고시되는 연방 공공 공휴일로, 자체 공휴일 일정을 유지하는 Sarawak을 제외한 모든 주와 연방직할지에서 지켜진다."
   etiquette: "방문객은 개방 가옥에 환영받으며, 단정하게 옷을 입고, 집이나 사원에 들어가기 전에 신발을 벗으며, 단것을 담은 작은 선물은 관습적인 예의 표시이다."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: '말레이시아 디파발리를 위해 색색의 가루로 만든 공작 콜람, 흰 테두리로 둘러싸이고 작은 점토 기름등잔들이 켜져 둘러싼 모습'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: 쿠알라룸푸르 KL 센트럴역의 붐비는 중앙 홀 위로 걸린 디파발리 장식 등, 선명한 노란색의 줄지어 매달린 모습
+    kind: actual
+    origin: third-party
+    subject: KL 센트럴역에 매달린 디파발리 등과 명절의 인파
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: 디파발리를 맞아 KL 센트럴의 반들거리는 바닥에 색색의 가루로 그려 놓은, 선명한 색감의 거대한 공작 콜람
+    kind: actual
+    origin: third-party
+    subject: 디파발리를 맞아 KL 센트럴에 그려진 대형 공작 무늬 바닥 콜람
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 하룻밤 동안은 등불이 말을 합니다. 작은 흙 등불들이 문간과 창턱을 따라 줄지어 놓이고, 색색의 쌀이나 가루로 그린 바닥 문양이 문지방에 깔리며, 한 시간 전만 해도 어두웠던 집이 불꽃으로 윤곽을 드러냅니다. 바로 여기서 축제의 이름이 나옵니다. *디파발리(Deepavali)*는 '한 줄, 곧 이어진 빛'을 뜻하는 산스크리트어에서 왔습니다.

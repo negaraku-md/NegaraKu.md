@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 
 status: "published"
 aiAssisted: true
@@ -107,6 +107,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'Bakun Dam-ன் அகலமான சாம்பல் கரையின் வான்வழிக் காட்சி; BAKUN எனக் குறிக்கப்பட்டு, அதன் நீண்ட வெள்ளப்பாய்ச்சல் வழியும் ஆற்றோர மின்னுற்பத்தி நிலையமும், பின்னால் அகலமான நீர்த்தேக்கமும் காட்டடர்ந்த Sarawak மலைகளும்'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'முரும் அணை மின்னுற்பத்தி நிலையத்தின் உட்புறம்: மெருகூட்டப்பட்ட தரையில் நிற்கும் 1, 2 எனக் குறியிட்ட நீல உருளை வடிவ நீர்மின் ஜெனரேட்டர் அலகுகள், மேலே மஞ்சள் நிற தூக்கி பொறியுடன் உயரமான மண்டபம்'
+    kind: actual
+    origin: third-party
+    subject: நீர்மின் ஜெனரேட்டர் அலகுகளைக் காட்டும் முரும் அணை மின்னுற்பத்தி நிலையத்தின் உட்புறம்
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: அடர்ந்த பச்சை சரவாக் மழைக்காட்டு மலைகளுக்கு அப்பால் தொலைவில் இருந்து பார்க்கப்பட்ட காங்கிரீட் முரும் அணைச் சுவரும் இரட்டை நீர்வழிச் சறுக்குகளும், நீர்த்தேக்கத்தைத் தடுத்து
+    kind: actual
+    origin: third-party
+    subject: காடுகள் சூழ்ந்த மலைகளுக்கு அப்பால் பார்க்கப்படும் சரவாக்கின் முரும் நீர்மின் அணை
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 Borneo-வின் மழைக்காடு மலைத்தொடர்களில் இருந்து கீழே பாயும் நீர் இப்போது அலுமினியக் கம்பனிகளுக்கு மின்சாரம் வழங்கும் விசையாழிகளைச் சுழற்றுகிறது — அதுவே மலேசியாவின் புதுப்பிக்கத்தக்க ஆற்றல் உத்தியின் மையம். ஆனால் அங்கு செல்லும் பாதை மாபெரும் அணைகள், நூற்றுக்கணக்கான சதுர கிலோமீட்டர் பரப்பளவுள்ள ஏரிகள், மற்றும் இடம்பெயர வேண்டிய கட்டாயத்திற்கு ஆளான ஆயிரக்கணக்கான பூர்வகுடி குடும்பங்களால் அடையாளப்படுத்தப்படுகிறது.

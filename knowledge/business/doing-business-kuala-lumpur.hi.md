@@ -41,7 +41,7 @@ verificationNeeded:
   - "राष्ट्रीय GDP में कुआलालंपुर का हिस्सा एक प्रकाशित प्रतिशत के रूप में — DOSM रिंगिट-मूल्य और रैंकिंग प्रकाशित करता है परंतु KL का हिस्सा सीधे नहीं"
 
 lang: "hi"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -112,6 +112,34 @@ keywords:
   - "doing business in Kuala Lumpur"
   - "DBKL business licence"
 framework: profile
+hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
+heroAlt: 'ऊपर से देखे कुआलालंपुर केंद्रीय व्यावसायिक ज़िले के घने कार्यालय गगनचुंबी इमारतों का समूह, बाईं ओर उठती पेट्रोनास ट्विन टावर्स के साथ'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: कुआलालंपुर में चिकनी नीली-काँच की Mercu UEM कार्यालय मीनार, अग्रभूमि में चमकीले आसमान के नीचे एक ऊँची पटरी पार करती एक लाल मोनोरेल ट्रेन
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM, KL Sentral व्यापारिक क्षेत्र में एक काँच का कॉर्पोरेट कार्यालय मीनार, सामने से गुज़रती एक मोनोरेल ट्रेन के साथ
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: अग्रभूमि में KL Sentral स्टेशन की घुमावदार छत, जो बादल भरे आसमान के नीचे KL Sentral व्यापारिक क्षेत्र की कार्यालय और होटल मीनारों से घिरी है
+    kind: actual
+    origin: third-party
+    subject: KL Sentral परिवहन केंद्र और कुआलालंपुर के KL Sentral व्यापारिक क्षेत्र का आसपास का कार्यालय-मीनार गुच्छा
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 कुआलालंपुर मलेशिया में वह एक जगह है जहां आप अपना लाइसेंस-शुल्क संघीय राजपत्र से पढ़ सकते

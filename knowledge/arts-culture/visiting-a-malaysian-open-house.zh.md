@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -97,6 +97,32 @@ relations:
 related: ["open-house", "hari-raya-aidilfitri", "chinese-new-year", "deepavali", "gawai-dayak", "dining-etiquette-tipping-and-service-charge"]
 keywords: ["马来西亚开放门户礼仪", "rumah terbuka 礼仪", "马来西亚开放门户做客", "开斋节开放门户礼仪", "马来西亚开放门户穿什么", "duit raya 红包 宾客", "马来西亚清真家庭礼仪", "拜访马来西亚家庭习俗"]
 framework: how-to
+hero: '/media/arts-culture/visiting-a-malaysian-open-house/hero.webp'
+heroAlt: '俯瞰一桌开斋节（Hari Raya）盛宴，摆着几锅牛肉仁当（rendang）和蔬菜咖喱、一碟参巴（sambal），以及盛着编织粽叶壳（ketupat）和切片压制米糕的盘子。'
+heroCredit: 'Anarohana70 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: 宾客身着峇迪（batik）与马来传统服装（baju kurung），在一场开斋节（Hari Raya Aidilfitri）开放门户活动的门口微笑握手致意
+    kind: representative
+    origin: third-party
+    subject: 宾客在开斋节（Hari Raya Aidilfitri）开放门户活动中向主人家致意问候
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: 一串用棕榈叶编织、捆扎在一起的马来粽（ketupat）米糕外壳，是马来西亚开斋节开放门户待客的主食
+    kind: actual
+    origin: third-party
+    subject: 为开斋节准备的编织马来粽（ketupat）
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 你受邀到一场 *rumah terbuka*（开放门户）。也许是同事的开斋节、邻居的农历新年、朋友的

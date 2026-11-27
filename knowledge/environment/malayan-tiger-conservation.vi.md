@@ -33,7 +33,7 @@ faq:
     a: "Các động lực chính là săn trộm và buôn bán động vật hoang dã bất hợp pháp lấy bộ phận hổ, suy thoái rừng và mất môi trường sống, tai nạn đường bộ và xung đột người–hổ, và con mồi suy giảm."
 
 lang: "vi"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,36 @@ wikidata: "Q215836"
 relations:
   - { rel: "administered-by", to: "perhilitan" }
   - { rel: "located-in", to: "taman-negara" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'Một con hổ Mã Lai nằm nghỉ trên nền tán lá nhiệt đới xanh, nhìn vào ống kính'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: Một con hổ Mã Lai nằm trên cỏ dưới ánh nắng lốm đốm, bộ lông sọc của nó bắt sáng
+    kind: actual
+    origin: third-party
+    subject: Hổ Mã Lai (Panthera tigris jacksoni) nằm dưới ánh nắng lốm đốm giữa cỏ và tán lá
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: Chân dung nghiêng cận cảnh phần đầu của một con hổ Mã Lai, cho thấy những sọc đen cam đặc trưng trên mặt và bộ ria
+    kind: actual
+    origin: third-party
+    subject: Chân dung nghiêng của một con hổ Mã Lai (Panthera tigris jacksoni) cho thấy các vằn trên mặt
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 Con hổ xuất hiện trên quốc huy của Malaysia, nhưng bản thân con vật nay nằm trong số các loài mèo lớn hiếm nhất thế giới. Khi Malaysia hoàn thành cuộc khảo sát quốc gia đầu tiên về hổ hoang dã, kết quả thấp hơn nhiều người mong đợi: chưa đến 150 con.

@@ -105,6 +105,12 @@ keywords:
   - "MM2H platinum kerja"
   - "visa perniagaan Malaysia"
 framework: decision
+stayFacts:
+  who: 'Ini untuk pemilik usaha, investor atau pensiunan asing yang membandingkan pas jangka panjang — terutama siapa saja yang diberi tahu bahwa MM2H akan mengizinkannya menjalankan perusahaan Malaysia.'
+  how: 'Cocokkan pas dengan aktivitas yang benar-benar Anda butuhkan. Bekerja pada sebuah perusahaan Malaysia dijalankan melalui Employment Pass yang disponsori pemberi kerja. Sebagian besar tingkatan MM2H melarang aktivitas bisnis dan karier, sementara tingkat teratas mengizinkannya. Jalur pengunjung premium (PVIP) mengizinkan bekerja dan berbisnis secara sah. Pemegang Dependant Pass harus beralih ke Employment Pass untuk bekerja, karena Anda hanya boleh memegang satu pas pada satu waktu; sedangkan pasangan asing dari warga negara Malaysia memperoleh hak bekerja melalui pengesahan (endorsement) pada Long Term Social Visit Pass.'
+  cost: 'Setiap jalur membawa ambang deposit tetap, biaya partisipasi, pendapatan atau gajinya sendiri yang direvisi dari waktu ke waktu, jadi konfirmasikan angka terkini pada laman resmi lembaga penerbitnya — MOTAC untuk tingkatan MM2H dan PVIP, ESD serta Immigration untuk Employment dan Dependant Pass — alih-alih sebuah angka yang dikutip.'
+  watch: '''MM2H mengizinkan Anda bekerja'' hanya benar untuk tingkat teratas dan keliru untuk sisanya. Professional Visit Pass, termasuk DE Rantau, dibatasi kuotanya dan tanpa gaji setempat, dengan pemegangnya tetap dibayar dari luar negeri. Anda hanya boleh memegang satu pas pada satu waktu, jadi Dependant Pass adalah sebuah peralihan, bukan tambahan.'
+  next: 'Putuskan berdasarkan aktivitas yang Anda butuhkan — bekerja, usaha sendiri, pensiun, atau status tanggungan — konfirmasikan bahwa pas tersebut saat ini mengizinkannya pada laman lembaga penerbit, lalu ajukan melalui lembaga itu. Lihat penjelasan Employment Pass, MM2H dan PVIP.'
 ---
 
 Pertanyaan di balik setiap program ini adalah sama: **dapatkah saya benar-benar

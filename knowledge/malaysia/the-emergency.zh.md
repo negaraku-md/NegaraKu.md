@@ -84,6 +84,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: '一列身着制服的士兵在丛林巡逻后，涉过被水淹没的稻田返回营地。'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 "紧急状态"这个字眼，是一项法律上的选择，而非单纯的描述。把马来亚这场持续十二年的冲突称为"紧急状态"而非"战争"，是为了让橡胶园与锡矿场得以继续受伦敦保单承保——那些保单将战争行为排除在承保范围之外。战事是真实存在的，死亡人数达数千人之多，而由此而生的国家机器——身份证、重新安置区、扣留权力——则在紧急状态结束后又延续了数十年。

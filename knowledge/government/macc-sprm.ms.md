@@ -35,7 +35,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6d18558cf5584f81"
+sourceContentHash: "09df6c367604f324"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ relations:
 related: ["parliament", "federal-constitution", "ssm", "malaysia-courts-business-disputes"]
 keywords: ["MACC", "SPRM", "Suruhanjaya Pencegahan Rasuah Malaysia", "MACC Act 2009", "Act 694", "Anti-Corruption Advisory Board", "Special Committee on Corruption"]
 framework: profile
+hero: '/media/government/macc-sprm/hero.webp'
+heroAlt: 'Sebuah bangunan kerajaan bata merah panjang menjulang di atas tabir pepohon hijau, fasad atasnya membawa tulisan dan lambang SPRM emas di atas barisan tingkap melengkung yang digantung bendera Malaysia kecil'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Anti-Corruption_Commission-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Malaysian Anti-Corruption Commission (SPRM/MACC) headquarters building, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/macc-sprm/body-1.webp
+    alt: Sebuah menara berbentuk haluan kapal daripada kaca berjalur gelap yang terbentang luas, didirikan di atas tiang putih yang tinggi, dibingkai oleh pokok palma diraja di bawah langit biru cerah dengan awan berselerak di Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Menara kaca gelap melengkung ibu pejabat Suruhanjaya Pencegahan Rasuah Malaysia (SPRM), Putrajaya (2022)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_Anti-Corruption_Commission_(MACC)_Headquarters_in_Putrajaya_(2022).jpg
 ---
 
 Kebanyakan penerangan mengenai MACC berhenti setakat "agensi anti-rasuah Malaysia".

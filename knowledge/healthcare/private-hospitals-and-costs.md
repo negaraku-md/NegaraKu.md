@@ -1,7 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "Two Bills for One Stay: How Private Hospitals in Malaysia Actually Charge You"
-seoTitle: Two Bills for One Stay
+seoTitle: "Private Hospital Costs in Malaysia"
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]
@@ -68,6 +68,33 @@ relations:
 related: ["sst-expansion-2025"]
 keywords: ["private hospital Malaysia", "private hospital bill", "specialist consultation fee Malaysia", "guarantee letter hospital", "hospital deposit Malaysia", "itemised bill private hospital", "Act 586", "National Specialist Register", "private healthcare costs Malaysia"]
 framework: explainer
+hero: '/media/healthcare/private-hospitals-and-costs/hero.webp'
+heroAlt: 'The red-and-white facade of Sunway Medical Centre Tower C, a modern Malaysian private hospital building, with signage reading Sunway Medical Centre'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_Tower_C_(211104).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Medical Centre Tower C, a large private hospital in Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-1.webp
+    alt: The modern building of Prince Court Medical Centre in Kuala Lumpur, with its gold wordmark on the facade and a city road sign in the foreground
+    kind: actual
+    origin: third-party
+    subject: Prince Court Medical Centre, a private hospital in Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg
+  - role: scene
+    src: /media/healthcare/private-hospitals-and-costs/body-2.webp
+    alt: Sunway Medical Centre buildings at dusk beside a covered elevated transit station, with the SunMed signage lit up
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre and the adjoining BRT/LRT station in Bandar Sunway
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_(220711)_03.jpg
 ---
 
 You go in for one procedure and walk out with what feels like two bills stapled together. One is from the surgeon. One is from the hospital. They rarely match in size, and almost nobody explains why they're separate in the first place.

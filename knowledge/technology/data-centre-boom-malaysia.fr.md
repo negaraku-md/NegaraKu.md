@@ -36,7 +36,7 @@ faq:
     a: "Une politique lancée par le ministère du Numérique en 2025 pour faire de la Malaisie un pôle du nuage de classe mondiale d'ici 2030, ancrée sur la souveraineté des données — le principe selon lequel les données générées en Malaisie sont régies par le droit malaisien — accompagnée d'un nuage d'IA souverain planifié."
 
 lang: "fr"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "centre de données Malaisie", "Johor data centre", "centre de données Johor", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "souveraineté des données", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'Un mur de baies de serveurs dans un centre de données, chaque rangée éclairée de voyants bleus vifs s''enfonçant dans l''obscurité'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: Une allée étroite courant entre deux murs de hautes armoires serveurs noires, les rangées convergeant vers une porte éclairée au fond
+    kind: representative
+    origin: third-party
+    subject: Allée symétrique entre de hautes armoires serveurs noires dans un centre de données universitaire
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: Vue aérienne d'un campus de centre de données au crépuscule, avec de longues rangées d'unités de refroidissement en toiture et un bâtiment adjacent encore en construction
+    kind: representative
+    origin: third-party
+    subject: Vue aérienne des unités de refroidissement en toiture d'un grand campus de centre de données en construction
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 En moins de trois ans, une bande du sud du Johor, de l'autre côté de la chaussée face à Singapour, est devenue l'un des endroits les plus convoités de la planète pour brancher un serveur. Géants du nuage, opérateurs de colocation et jeunes pousses d'IA s'y sont rués — et la Malaisie découvre maintenant que les lignes électriques et les conduites d'eau sous l'essor ont des limites.

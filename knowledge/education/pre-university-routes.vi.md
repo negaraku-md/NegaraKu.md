@@ -22,7 +22,7 @@ verificationNeeded:
   - "Năng lực tuyển sinh hằng năm hiện tại (số chỗ) cho các nhóm STPM, Matrikulasi và A-Level không được nêu ở đây — những con số này thay đổi mỗi chu kỳ tuyển sinh; xác nhận các con số của kỳ hiện tại trực tiếp với MPM, Bộ phận Dự bị (Matriculation Division), hoặc từng cao đẳng trước khi dựa vào một con số cụ thể."
   - "Hướng dẫn của MQA về cấu trúc chương trình Foundation (Garis Panduan Kurikulum Asasi) không thể được trích xuất đầy đủ cho bài viết này — quy tắc số giờ tín chỉ tối thiểu hoặc thời lượng cụ thể do MQA đặt ra cho các chương trình Foundation chỉ được mô tả ở đây một cách chung chung; xác nhận các con số chính xác với MQA hoặc cơ sở cung cấp trước khi trích dẫn chúng."
 lang: "vi"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "ptptn-student-loan", "after-spm-options", "unified-examination-certificate-uec", "tvet-and-skills-training"]
 keywords: ["STPM vs Matrikulasi", "pre-university Malaysia", "Sijil Tinggi Persekolahan Malaysia", "Matrikulasi KPM", "A-Level Malaysia", "Foundation Asasi Malaysia", "Diploma to degree Malaysia", "UPU admission categories", "pre-u routes after SPM"]
 framework: decision
+hero: '/media/education/pre-university-routes/hero.webp'
+heroAlt: 'Khối nhà học thuật của Kolej Matrikulasi Kelantan, một trường cao đẳng dự bị đại học của Malaysia cung cấp lộ trình dự bị đại học, dưới bầu trời xanh.'
+heroCredit: 'CyberTroopers / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: Các tòa nhà khuôn viên hiện đại của một trường cao đẳng Malaysia cung cấp chương trình dự bị đại học foundation
+    kind: representative
+    origin: third-party
+    subject: Khuôn viên một trường cao đẳng Malaysia cung cấp các chương trình dự bị đại học / foundation (KDU University College, Damansara Jaya)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: Tòa nhà phòng thí nghiệm của khoa khoa học và công nghệ thuộc một trường đại học Malaysia
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà phòng thí nghiệm khoa học, Khoa Khoa học và Công nghệ, Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 Hai học sinh bước ra khỏi cùng một phòng thi SPM với kết quả gần như giống hệt nhau. Mười tám tháng sau, một người đang dự một kỳ thi của chính phủ được một hội đồng quốc gia chấm điểm. Một người khác đang ở trong một lớp học cao đẳng theo một giáo trình được ấn định ở Cambridge. Người thứ ba không bao giờ dự một kỳ thi quốc gia nào cả — toàn bộ điểm dự bị đại học của cô ấy được quyết định bởi đại học mà cô ấy đã ghi danh. Không ai trong số họ làm gì sai. Họ chỉ chọn những phòng khác nhau.

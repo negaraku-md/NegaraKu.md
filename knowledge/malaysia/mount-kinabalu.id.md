@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ia digambarkan oleh badan penasihat UNESCO sebagai gunung tertinggi antara Himalaya dan New Guinea, dan menampung perkiraan 5,000-6,000 spesies tumbuhan vaskular termasuk sekitar 1,000 spesies anggrek"
 appliesTo: "Pembaca yang menginginkan ketinggian yang disahkan dan status kawasan perlindungan Gunung Kinabalu, serta penjelasan sederhana mengapa sebuah gunung granit di Sabah secara geologi begitu muda."
 lang: "id"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,32 @@ relations:
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
 framework: profile
+hero: '/media/malaysia/mount-kinabalu/hero.webp'
+heroAlt: 'Mahkota puncak granit abu-abu yang luas di Gunung Kinabalu, punggungannya dipenuhi menara batu bergerigi, menjulang di atas perbukitan hijau berhutan dan deretan pohon di bawah langit biru cerah.'
+heroCredit: 'Angah hfz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: Menara granit kelabu Puncak Low yang gundul dan bergerigi, titik tertinggi Gunung Kinabalu, menjulang tajam di hadapan langit cerah di atas dataran tinggi puncak yang gersang.
+    kind: actual
+    origin: third-party
+    subject: Puncak Low (4.095 m), puncak Gunung Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: Tampak dekat kantong bulat beralur dalam berwarna jingga kemerahan dari tumbuhan karnivora Nepenthes villosa, mulutnya berbibir bergerigi, tumbuh di hutan dataran tinggi berkabut Taman Kinabalu.
+    kind: actual
+    origin: third-party
+    subject: Nepenthes villosa, kantong semar karnivora endemik di dataran tinggi Gunung Kinabalu, di Taman Kinabalu
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 Selama beberapa dekade, setiap buku rujukan memberikan angka yang sama: Gunung Kinabalu, puncak tertinggi Malaysia, berdiri setinggi 4,101 meter di atas permukaan laut. Kemudian pada 1997, sebuah tim survei mengarahkan satelit ke arah puncak alih-alih teodolit, dan angka itu berubah. Bukan sekadar kesalahan pembulatan — melainkan sebanyak enam meter. Gunung itu tidak menyusut. Ukuran lama itu memang keliru, dan tidak ada yang punya alat untuk membuktikannya hingga GPS membuat koreksi itu menjadi mungkin.

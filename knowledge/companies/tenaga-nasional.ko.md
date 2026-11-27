@@ -30,7 +30,7 @@ faq:
     a: "TNB는 재생에너지를 흡수하기 위해 개선되어야 하는 국가 그리드 네트워크를 소유·운영하며, 이는 국가 에너지 전환 로드맵(NETR) 목표에 부합합니다."
 
 lang: "ko"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,9 +77,37 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-commission-suruhanjaya-tenaga", "glc-dominance-malaysian-economy"]
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: '케니르 댐의 회색 사력 제방 항공 전경, 거대한 흰 글자 ''KENYIR''가 새겨지고 밑에 수력발전소와 송전선이 있으며 뒤로 케니르 호수가 펼쳐진 모습'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: 옥상에 빨간 TNB 로고와 도시 스카이라인 위로 빛나는 'TENAGA NASIONAL' 간판을 얹은, 쿠알라룸푸르 Bangsar의 높은 회색 오피스 건물 Tenaga Nasional Berhad 본부
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 Bangsar의 Tenaga Nasional Berhad 본부 건물
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: 밝고 푸른 하늘 아래 높은 빨강과 흰색 줄무늬 굴뚝이 선 클랑의 길고 붉은 벽돌 발전소 Connaught Bridge Power Station
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 클랑에 있는 TNB의 Connaught Bridge 발전소
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 반도에 있는 당신의 집에서 불이 켜질 때마다, 그 전기는 단 하나의 회사가 소유한 전선을 통해 흐를 가능성이 큽니다. 바로 Tenaga Nasional Berhad입니다. 2025년 9월 30일 기준 반도 말레이시아, 사바, 라부안에서 1,100만 명이 넘는 고객을 둔 국가 최대의 전력 유틸리티입니다.

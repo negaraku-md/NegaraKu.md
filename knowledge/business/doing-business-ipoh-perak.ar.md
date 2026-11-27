@@ -41,7 +41,7 @@ verificationNeeded:
   - "الاستثمار المعتمد في بيراق لكامل عامي 2024 و2025 وترتيبه — يذكر MIDA الولايات الخمس الأولى فقط"
 
 lang: "ar"
-sourceContentHash: "b417e9b08cc2755f"
+sourceContentHash: "5f2e5a34fd1a5037"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ keywords:
   - "MBI business licence"
   - "Perak GDP"
 framework: profile
+hero: '/media/business/doing-business-ipoh-perak/hero.webp'
+heroAlt: 'منظر نهاري لمركز مدينة إيبوه مع أبراج مكاتب تجارية حديثة وحقل أخضر، تحفّها تلال جيرية تحت سماء غائمة جزئيًا'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ipoh city centre, Perak — commercial office towers and the padang with the Kinta limestone hills behind'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-1.webp
+    alt: مبنى محطة قطار Ipoh الاستعماري الأبيض بقبابه وأروقته المقوّسة، كما يُرى عبر ساحته الأمامية المرصوفة تحت سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: محطة قطار Ipoh، بيراق — المبنى المعلم ذو القباب من الحقبة الاستعمارية على ساحته الأمامية
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Train_Station_2023-03-27.jpg
+  - role: scene
+    src: /media/business/doing-business-ipoh-perak/body-2.webp
+    alt: منظر مرتفع فوق قلب مدينة Ipoh التجاري المكتظ بالمتاجر التراثية وكتل المكاتب، مع برج مكاتب زجاجي وتلال كلسية في الخلفية
+    kind: actual
+    origin: third-party
+    subject: القلب التجاري لمدينة Ipoh، بيراق — كتل كثيفة من المتاجر التراثية والمكاتب مع برج مكاتب زجاجي وتلال كلسية خلفها
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Town_2.jpg
 ---
 
 هذه صفحة قصيرة عن قصد. فالنظام القانوني في بيراق هو نفسه في سلانغور، ومجالسها تنشر

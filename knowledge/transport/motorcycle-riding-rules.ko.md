@@ -29,7 +29,7 @@ faq:
     a: "발행 시점까지, 발효 중인 배기량 제한은 없습니다; 배기량에 따라 고속도로 진입을 제한하자는 제안은 아직 법이 되지 않았습니다."
 
 lang: "ko"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,9 +77,35 @@ sources:
 
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
-related: []
+related: ["road-transport-act-1987", "road-safety-in-malaysia", "road-transport-department-jpj"]
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: '페낭주 겔루고르의 교차로에서 배달 상자를 실은 언더본 오토바이에 탄 헬멧 쓴 운전자가 신호를 기다리고 있다.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: 케다주 숭아이 페타니 우타라 요금소 인근 간선도로 옆을 달리는 분리형 오토바이 전용 차로.
+    kind: actual
+    origin: third-party
+    subject: 케다주 숭아이 페타니 우타라 요금소 인근 전용 오토바이 차로
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: 말레이시아의 높은 이륜차 이용률을 보여주듯, 조지타운 리틀 인디아 거리를 따라 늘어선 오토바이와 스쿠터의 행렬.
+    kind: representative
+    origin: third-party
+    subject: 페낭 조지타운 거리에 늘어선 오토바이와 스쿠터
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 오토바이를 타고 연방고속도로(Lebuhraya Persekutuan)에 진입하다가 왼쪽으로

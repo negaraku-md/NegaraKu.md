@@ -27,7 +27,7 @@ faq:
   - q: "MDEC có giống với MSC Malaysia không?"
     a: "Không. MDEC là cơ quan; MSC Malaysia là chương trình trước đó của nó. MSC Malaysia đã được đổi thương hiệu thành Malaysia Digital, và Quy chế MD là kế thừa của Quy chế MSC Malaysia trước đây."
 lang: "vi"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,9 +65,37 @@ sources:
 entity: "Malaysia Digital Economy Corporation (MDEC)"
 wikidata: "Q279453"
 relations: []
-related: []
+related: ["digital-economy-overview", "ministry-of-digital-malaysia", "mdec-digital-status"]
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
+hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
+heroAlt: 'Toàn cảnh nhìn từ trên không Cyberjaya, hành lang công nghệ của Malaysia, cho thấy các tòa nhà văn phòng, đường cao tốc và cảnh quan cây xanh'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: Một tấm biển ghi 'MSC Headquarters, Multimedia Development Corporation' bên cạnh một hồ nước và đài phun nước được tạo cảnh quan ở Cyberjaya
+    kind: actual
+    origin: third-party
+    subject: Tấm biển của MSC Headquarters / Multimedia Development Corporation (tiền thân của MDEC) ở Cyberjaya
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: Một tác phẩm điêu khắc chữ C lớn màu đỏ ghi 'Cyberjaya Malaysia' với họa tiết bo mạch, tại một công viên ven đường ở Cyberjaya
+    kind: representative
+    origin: third-party
+    subject: Biển hiệu điêu khắc mang tính biểu tượng 'Cyberjaya Malaysia' tại một công viên ven đường ở Cyberjaya
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 Tìm kiếm "Malaysia Digital Status" và gần như mọi kết quả đều là một công ty tư vấn đang bán một dịch vụ nộp đơn — và hầu hết đều làm mờ ba thứ riêng biệt thành một. Có **cơ quan** (MDEC), **quy chế** mà nó trao (Quy chế MD), và một **ưu đãi thuế** là một đơn xin hoàn toàn riêng biệt với các yêu cầu khắt khe hơn nhiều. Giữ chúng tách bạch là sự khác biệt giữa một ngưỡng RM1,000 và một ngưỡng RM50,000. Đây là từng lớp, từ các nguồn sơ cấp.

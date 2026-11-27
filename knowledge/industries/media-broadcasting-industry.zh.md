@@ -31,7 +31,7 @@ faq:
   - q: 什么是马来西亚的创意内容与动画产业？
     a: 它是制作电影、电视节目、动画、音乐与游戏的业务——日益面向出口以及本土市场。马来西亚动画尤其取得国际成功，最知名的例子是由 Les' Copaque 制作的儿童系列《Upin & Ipin》。政府通过 MyCreative Ventures 与 FINAS 等基金与机构扶持该领域。
 lang: zh
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: '位于吉隆坡的Angkasapuri广播综合大楼，是马来西亚国家公共广播机构的所在地。'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: 直播期间，制作人员坐在电视演播室导控室内一整排监视器与调音台前。
+    kind: representative
+    origin: third-party
+    subject: 电视直播制作期间的广播导控室（代表性）
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: 一处配有摄像机、演播室灯光和主持人桌的电视演播室布景。
+    kind: representative
+    origin: third-party
+    subject: 配有摄像机和主持人桌的电视演播室布景（代表性）
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 当马来西亚人谈起「媒体」时，他们通常指的是几个熟悉的名字：装在屋侧的 Astro 卫星天线、TV3 的新闻报道、上班途中收听的早间电台节目，或者——越来越多地——通勤时手机上正在播放的任何内容。这些日常触点都属于同一个庞杂的产业：媒体与广播。它是这个国家较显眼的服务业领域之一，也是受冲击最严重的领域之一。

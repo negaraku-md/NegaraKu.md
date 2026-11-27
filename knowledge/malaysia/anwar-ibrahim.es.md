@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0202
 title: "Anwar Ibrahim"
+seoTitle: "Anwar Ibrahim: Décimo primer ministro de Malasia (2022–presente)"
 slug: "anwar-ibrahim"
 category: "malaysia"
 subcategory: ["modern"]
@@ -72,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "décimo primer ministro Malasia", "Reformasi", "gobierno MADANI", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: 'Anwar Ibrahim, con traje oscuro y corbata azul, mira a la cámara en un retrato de medio cuerpo tomado durante una visita de Estado oficial.'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anwar Ibrahim (nacido el 10 de agosto de 1947) es el **décimo primer ministro** de

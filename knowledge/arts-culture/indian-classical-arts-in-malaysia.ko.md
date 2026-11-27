@@ -32,7 +32,7 @@ faq:
     a: "아닙니다. 바라타나티얌은 고전 무용의 한 형식이고, 나다스와람은 사원과 길한 행사에서 연주되는 기악 음악 전통입니다. 둘 다 타밀 공동체의 예술 유산에 속하지만 서로 다릅니다. 나다스와람/사원 음악은 여기서는 별도로 다루며, 이 글은 무대 고전 예술에 초점을 맞춥니다."
 
 lang: "ko"
-sourceContentHash: "3ece49f6d4c832b4"
+sourceContentHash: "265a249b75b8eb63"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 
@@ -75,6 +75,34 @@ relations:
 related: ["tamil-in-malaysia", "temple-music-nadaswaram", "hinduism-in-malaysia", "deepavali", "estate-tamil-community", "silambam"]
 keywords: ["இந்திய செம்மொழிக் கலைகள்", "பரதநாட்டியம்", "கர்நாடக இசை", "அரங்கேற்றம்", "ஒடிசி", "Temple of Fine Arts", "Sutra Dance Theatre", "Indian classical arts Malaysia", "Bharatanatyam Malaysia", "Carnatic music Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/indian-classical-arts-in-malaysia/hero.webp'
+heroAlt: '광장에서 파랑과 금빛 바라타나티암 의상을 입고 포즈를 취한 어린 인도 고전무용수, 뒤로 붉은 다층 중국 사원이 솟아 있는 모습'
+heroCredit: 'Shubhendu Kumar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Singapore_-_Where_Culture_Comes_Together.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Bharatanatyam dancer in full costume posing before the Buddha Tooth Relic Temple, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-1.webp
+    alt: 선명한 파란 의상과 은빛 사원 장신구를 착용한 여성 오디시 무용수가 검은 무대 배경 앞에서 우아하게 양식화된 자세를 취한 모습
+    kind: representative
+    origin: third-party
+    subject: 파란 의상과 은빛 장신구를 착용하고 동작 중인 오디시 고전 무용수
+    credit: Augustus Binu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Odissi_Performance_DS.jpg
+  - role: scene
+    src: /media/arts-culture/indian-classical-arts-in-malaysia/body-2.webp
+    alt: 노랑과 보라의 실크 사리를 입은 여성이 앉은 카르나틱 방식으로 바이올린을 들고 무대에서 마이크 쪽으로 몸을 기울여 연주하는 모습
+    kind: representative
+    origin: third-party
+    subject: 고전 음악 공연에서 실크 사리를 입고 연주하는 카르나틱 바이올린 연주자
+    credit: Kannan Shanmugam, Shanmugam Studio, Kollam / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Akkarai_S_Sornalatha.jpg
 ---
 
 말레이시아의 어느 대도시에서든 디파발리 저녁이나 사원 축제 날이면, 발목 방울을 울리며 므리당감의 박자에 맞춰 무대에 오르는 바라타나티얌 무용가를 볼 수 있습니다. 그 발놀림과 손짓은 우연한 것이 아닙니다 — 그것들은 천 년이 넘는 남인도 예술 전통과, 말레이시아 타밀 공동체가 한 세기 반이 넘도록 그것을 짊어져 온 방식을 들려줍니다.

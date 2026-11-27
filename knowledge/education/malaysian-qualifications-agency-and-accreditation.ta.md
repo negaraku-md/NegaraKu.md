@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 
 status: "published"
 aiAssisted: true
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'ஒரு மலேசிய மேல்நிலைக்கல்வித் தகுதி அதிகாரப்பூர்வமாக அங்கீகரிக்கப்பட்டதா என்பதைச் சரிபார்க்கும் வருங்கால மாணவர்கள், பெற்றோர் மற்றும் முதலாளிகளுக்கானது இது.'
+  how: 'இலவச Malaysian Qualifications Register (MQR, மலேசியத் தகுதிப் பதிவேடு)-இல் சரியான படிப்புப் பெயர், நிலை மற்றும் வழங்கும் வளாகத்தைக் கொண்டு தேடி, அது Provisional அல்லது Full Accreditation கொண்டுள்ளதா என்பதை உறுதிப்படுத்தவும். ஒரு ஒழுங்குபடுத்தப்பட்ட தொழிலுக்கான அல்லது பொதுத்துறை வேலைவாய்ப்பிற்கான அங்கீகாரம் அந்தந்த அமைப்புடன் தனியாகச் சரிபார்க்கப்படுகிறது.'
+  cost: 'MQR தேடல் இலவசம்; நீங்கள் நம்பியிருக்கும் அங்கீகாரம் — ஒரு தொழில்முறை உரிமம், ஒரு அரசு வேலை, அல்லது வெளிநாட்டில் படிப்பது — ஒவ்வொன்றுக்கும் அதன் சொந்த அமைப்புடன் தனிச் சரிபார்ப்பு தேவைப்படலாம்.'
+  watch: 'அங்கீகாரம் நிறுவனத்துடன் அல்ல, குறிப்பிட்ட படிப்பு மற்றும் சேர்க்கையுடன் இணைந்துள்ளது — ஒரு பெயர்பெற்ற பல்கலைக்கழகமும் ஒரு புதிய, தற்காலிக அல்லது பட்டியலிடப்படாத படிப்பை நடத்தலாம். ஒரு துண்டறிக்கையின் ''MQA-அங்கீகரிக்கப்பட்டது'' என்ற கூற்று பதிவேடு அல்ல; நேரடியான பதிவை நீங்களே உறுதிப்படுத்தவும்; மேலும் தற்காலிக (provisional) நிலை முறையானது, தரம் குறைந்ததல்ல என்பதைக் கவனிக்கவும்.'
+  next: 'எந்த வைப்புத்தொகையும் செலுத்துவதற்கு முன் உங்கள் சரியான படிப்பை MQR-இல் தேடவும்; ஒரு ஒழுங்குபடுத்தப்பட்ட தொழிலுக்கு, பட்டதாரி வழியை அந்தத் தொழில்முறை அமைப்புடன் உறுதிப்படுத்தவும். கல்லூரி வைப்புத்தொகை செலுத்துவதற்கு முன் என்பதைப் பார்க்கவும்.'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: 'கல்லால் வேயப்பட்ட சுவரில், சின்னத்தையும் "UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia" என்ற சொற்களையும் தாங்கிய பெயர்ப் பலகை.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Universiti Kebangsaan Malaysia-வில் நடந்த பட்டமளிப்பு விழாவில் விழா அங்கிகள் அணிந்த கல்வியாளர்கள் மேடையில் பட்டம் வழங்குகிறார்கள்
+    kind: representative
+    origin: third-party
+    subject: Universiti Kebangsaan Malaysia-வில் பட்டம் வழங்கும் சிறப்புப் பட்டமளிப்பு விழா
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: நிலக்காட்சி அமைக்கப்பட்ட பிளாசாவுக்கு அருகில் அமைந்த Universiti Putra Malaysia-இன் வளைவான Canselori Putra நிர்வாகக் கட்டிடம்
+    kind: representative
+    origin: third-party
+    subject: Universiti Putra Malaysia-இன் Canselori (நிர்வாக மண்டபம்) கட்டிடம்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 இரண்டு மாணவர்கள் ஒரே மாதிரி ஒலிக்கும் டிப்ளோமாவுடன் பட்டம் பெறுகின்றனர். ஒருவர் அரசு வேலைக்கும் முதுகலைப் படிப்பு இடத்திற்கும் தகுதி பெறுகிறார்; மற்றவரோ வாசலிலேயே திருப்பியனுப்பப்படுகிறார். இந்த வேறுபாடு பெரும்பாலும் ஒரு பொதுப் பதிவேட்டில் உள்ள ஒரே ஒரு வரியில் இருக்கிறது: அந்த நிரலை மலேசியத் தகைமைகள் முகமை அங்கீகரித்ததா என்பதே அது.

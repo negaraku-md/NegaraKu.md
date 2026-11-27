@@ -67,6 +67,32 @@ relations:
 related: ["three-tiers-of-government", "finding-a-rental"]
 keywords: ["sampah Malaysia", "kitar semula Malaysia", "SWCorp", "Akta 672", "pengasingan sisa di punca", "majlis tempatan sampah", "Alam Flora", "E-Idaman", "kompaun sisa pepejal", "kadar kitar semula kebangsaan"]
 framework: explainer
+hero: '/media/property/rubbish-and-local-council/hero.webp'
+heroAlt: 'Sebuah lori sampah KDEB Waste Management sedang mengutip sampah di luar sebuah blok pangsapuri di Kota Damansara, Selangor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: Sebuah tong sampah awam berwarna biru bertanda jata majlis tempatan MBPJ di tepi rumput di Kota Damansara, Selangor
+    kind: representative
+    origin: third-party
+    subject: Tong sampah majlis dengan jata MBPJ (Majlis Bandaraya Petaling Jaya) di Kota Damansara
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: Sederet empat tong kitar semula berlabel untuk kertas, tin dan plastik, kaca serta sisa tidak boleh dikitar semula di sebuah lokasi awam di Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Tong kitar semula berasingan untuk kertas, tin dan plastik, kaca serta sisa tidak boleh dikitar semula di Kuala Lumpur
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 Tong sampah anda diambil dua kali seminggu, tapi bilkah anda pernah tanya siapa sebenarnya yang mengambilnya — majlis tempatan, atau syarikat lain yang majlis lantik? Dan kenapa jiran anda di negeri sebelah boleh kena denda kerana tidak mengasingkan botol plastik daripada sisa makanan, sedangkan anda tidak?

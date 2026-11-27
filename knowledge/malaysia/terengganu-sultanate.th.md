@@ -21,7 +21,7 @@ appliesTo: "ผู้ที่ต้องการเข้าใจว่า�
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "ปีก่อตั้งที่แน่นอนของรัฐสุลต่าน — แหล่งข้อมูลให้ไว้ต่าง ๆ กันที่ ค.ศ. 1708 (การสถาปนาโดยเจ้าเหนือหัวยะโฮร์) และ ค.ศ. 1724/1725 (เอกราชสมบูรณ์) ศักราชที่แน่นอนควรได้รับการสอบทานเทียบกับประวัติศาสตร์เชิงวิชาการ เช่น Sejarah Terengganu ของฮาจี บูยง อาดิล (Haji Buyong Adil)"
 framework: history-culture
+hero: '/media/malaysia/terengganu-sultanate/hero.webp'
+heroAlt: 'พระราชวังสไตล์อาณานิคมสีครีมและทองประดับหอคอยมุงกระเบื้องสีแดงและระเบียงโค้ง ตั้งอาบแสงอาทิตย์ภายใต้ท้องฟ้าสีน้ำเงินเข้ม เลยสนามหญ้ากว้างออกไป'
+heroCredit: 'Abie Sudiono / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: มัสยิดสีขาวเปล่งประกาย มีโดมกลางสีทองขนาดใหญ่ขนาบด้วยโดมเล็กกว่าและหอคอยสุเหร่าสูง ตั้งอยู่หลังลานที่มีกำแพงล้อมรอบ ภายใต้ท้องฟ้าเขตร้อนสดใส
+    kind: actual
+    origin: third-party
+    subject: มัสยิดอาบีดิน (Masjid Abidin) มัสยิดหลวงเก่าประจำรัฐตรังกานู ในกัวลาตรังกานู (Kuala Terengganu)
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: สะพานชักสมัยใหม่ทอดยาวข้ามแม่น้ำกว้าง รองรับด้วยโค้งสีขาวอ่อนช้อยระหว่างหอสังเกตการณ์สูงสองหอ โดยมีเส้นขอบฟ้าของเมืองเรียงรายอยู่ริมฝั่งตรงข้าม
+    kind: actual
+    origin: third-party
+    subject: จัมบาตันอังกัต (Jambatan Angkat สะพานชักกัวลาตรังกานู) ข้ามแม่น้ำตรังกานู (Terengganu River)
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 นานก่อนที่สุลต่านพระองค์ใดจะประทับบนราชบัลลังก์ของมัน แผ่นหินแกรนิตบนริมฝั่งแม่น้ำในแผ่นดินภายในตรังกานูได้จารึกชะตากรรมของรัฐลงบนศิลาไว้แล้ว บาตูเบอร์ซูรัตตรังกานู (Batu Bersurat Terengganu) — ศิลาจารึกแห่งตรังกานู — มีศักราชที่อ่านได้เป็นปี ค.ศ. 1303 และบนพื้นผิวที่สึกกร่อนของมัน ด้วยตัวอักษรที่โค้งวนซึ่งดัดแปลงจากอาหรับของ[อักษรยาวี](/th/arts-culture/jawi-script) ผู้ปกครองบัญชาให้ประชาชนยึดมั่นในอิสลาม มันเป็นหลักฐานที่มีศักราชเก่าแก่ที่สุดของการเขียนด้วยยาวีและของกฎหมายอิสลาม ณ ที่ใดในโลกมลายู รัฐสุลต่านที่ในที่สุดจะใช้ชื่อแผ่นดินนั้นมาถึงกว่าสี่ศตวรรษต่อมา — แต่ศรัทธาที่มันจะปกป้องนั้นถูกสลักไว้ที่นี่ก่อนแล้ว

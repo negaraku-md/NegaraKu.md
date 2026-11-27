@@ -34,7 +34,7 @@ faq:
     a: "Le pendjabi reste vivant, mais il connaît un glissement linguistique : une recherche universitaire sur la communauté sikhe de Kota Kinabalu a constaté que la majorité des familles utilisent désormais l'anglais à la maison. Pour préserver la langue, les gurdwaras dispensent des cours de pendjabi — par exemple le Centre d'éducation pendjabie du Gurdwara Sahib Seremban — qui enseignent l'écriture gurmukhi aux enfants."
 
 lang: "fr"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["communauté sikhe Malaisie", "Sikh Malaysia", "Pendjabis Malaisie", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "langue pendjabie"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'Vue en contre-plongée de la façade blanche crénelée du temple sikh Gurdwara Sahib à Johor Bahru, l''emblème khanda sikh doré et les lettres gurmukhi sur son devant, un drapeau malaisien flottant au balcon et un gratte-ciel urbain s''élevant derrière contre un ciel bleu'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: La façade à pignon jaune vif et blanche du Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, l'emblème sikh du Khanda au-dessus de l'entrée, des drapeaux safran Nishan Sahib sur le toit et un dôme bulbeux doré à droite, vue à travers une avant-cour carrelée en damier
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, un temple sikh à Shah Alam, dans le Selangor, en Malaisie
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: La haute façade blanche à plusieurs tours du Gurdwara Sahib Kuching avec des dômes à sommet doré et des minarets d'angle, des emblèmes sikhs du Khanda encadrant un panneau jaune indiquant « Gurdwara Sahib Kuching », les drapeaux de la Malaisie et du Sarawak flottant d'un mât central, sous un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Sahib Kuching, le gurdwara de l'Association des temples sikhs du Sarawak à Kuching, dans le Sarawak, en Malaisie
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 Dans les rangs de la police et dans les forts britanniques de la Malaya du XIXe siècle, bon nombre de ces officiers au turban et à la barbe fournie n'étaient pas des locaux : c'étaient des sikhs venus de milliers de kilomètres, du Pendjab, dans le nord-ouest de l'Inde. De ce devoir de maintenir la sécurité est née l'une des communautés minoritaires les plus petites et pourtant les plus immédiatement reconnaissables de Malaisie.

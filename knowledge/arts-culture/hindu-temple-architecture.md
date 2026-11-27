@@ -70,6 +70,34 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: 'ஒவ்வொரு அடுக்கிலும் சிவப்பு, பச்சை, நீலம், தங்கம் நிற வண்ணமயமான இந்துக் கடவுளர், குதிரைகள், உருவங்கள் நிறைந்த, நுனி நோக்கி உயரும் தென்னிந்திய கோயில் கோபுரம்; மேகங்களுடன் நீல வானத்திற்கு எதிரே செங்குத்தாக மேல்நோக்கிப் படமெடுக்கப்பட்டது'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: நுழைவாயிலுக்கு மேல் செதுக்கப்பட்ட கோபுரத்துடன், தங்க முகடுகளுக்குக் கீழே கணேசர் மற்றும் ஒரு தெய்வத்தின் பெரிய வர்ணம் பூசப்பட்ட சிலைகள் இருபுறமும் அமைந்த, தெளிந்த நீல வானத்திற்கு எதிராக விழா முக்கோணக் கொடித் தொடர்களால் அலங்கரிக்கப்பட்ட, தென்னிந்திய இந்துக் கோயிலின் வண்ணமயமான முகப்பு
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு, ஜார்ஜ் டவுனில் உள்ள ஸ்ரீ மகாமாரியம்மன் கோயிலின் முகப்பு, அதன் செதுக்கப்பட்ட கோபுரமும், கணேசர் மற்றும் முருகன் பெரிய சிலைகள் இருபுறமும் அமைந்த நுழைவாயிலும்
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: ஒரு பரந்த சுண்ணாம்புக்கல் குகையின் உள்ளே நிற்கும், செதுக்கப்பட்ட தெய்வங்களால் உச்சி அலங்கரிக்கப்பட்ட அலங்கார வண்ணமயமான இந்துக் கோயில் சன்னிதி; அதன் செங்குத்தான பாறைச் சுவர்களில் தொங்கும் பச்சைத் தாவரங்கள், மேலிருந்து பகல் ஒளியால் ஒளிர்கின்றன
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் அருகே உள்ள சுண்ணாம்புக்கல் பத்து குகைகள் கோயிலின் உள்ளே உள்ள, பச்சையம் தொங்கும் உயரமான குகைச் சுவர்களுக்கு எதிராக அமைந்த அலங்கார வண்ணமயமான இந்து சன்னிதிக் கோபுரம்
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 மலேசியாவின் எந்த நகரிலும் ஒரு தமிழ்ச் சமூகம் வேரூன்றிய பகுதியை நெருங்கும்போது,

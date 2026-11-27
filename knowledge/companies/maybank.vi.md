@@ -33,7 +33,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "332a316cb1470568"
+sourceContentHash: "47aa9e0acfe92a4c"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,33 @@ verificationNeeded:
   - "Tỷ lệ sở hữu cổ phần của các quỹ do PNB quản lý và EPF — thay đổi theo mỗi lần công bố với Bursa Malaysia."
   - "Số quốc gia hoạt động (cả mười quốc gia ASEAN cộng với các trung tâm tài chính toàn cầu) — có thể thay đổi."
 framework: profile
+hero: '/media/companies/maybank/hero.webp'
+heroAlt: 'Tòa tháp đôi hình trụ trắng Menara Maybank vươn lên trên đường chân trời Kuala Lumpur, với logo và chữ Maybank màu xanh trên một tấm bảng gần đỉnh'
+heroCredit: 'Ahmad Ali Karim / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maybank_Tower_20241022_as_seen_from_DBP_Tower.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maybank, the HQ tower of Malayan Banking Berhad on Jalan Tun Perak, Kuala Lumpur, seen from DBP Tower'
+images:
+  - role: scene
+    src: /media/companies/maybank/body-1.webp
+    alt: Toàn bộ chiều cao của tòa tháp trắng Menara Maybank trên nền trời xanh, một biển Maybank màu vàng và biểu tượng đầu hổ gắn ở đỉnh phía trên các mái nhà thành phố
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank nhìn từ Sân vận động Chin Woo trên nền trời xanh, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_-_Menara_Maybank_(2014).JPG
+  - role: scene
+    src: /media/companies/maybank/body-2.webp
+    alt: Hai thang cuốn sóng đôi bên dưới một mái che hình vòm dẫn lên Menara Maybank, với biểu tượng Maybank màu vàng trên một bảng chào mừng ghi KL Main Branch dưới chân bậc thang
+    kind: actual
+    origin: third-party
+    subject: Lối vào bằng thang cuốn của Menara Maybank với biển chào mừng Maybank, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maybank_entrance_(220512).jpg
 ---
 
 Mở một tài khoản vãng lai ở gần như bất cứ đâu tại Malaysia và rất có khả năng nó mang logo đầu hổ của Maybank. Malayan Banking Berhad là ngân hàng lớn nhất của đất nước — xét theo tài sản trên bảng cân đối kế toán của nó và theo điều mà thị trường chứng khoán cho rằng nó đáng giá — và là một trong những tập đoàn ngân hàng lớn nhất Đông Nam Á. Hồ sơ này trình bày tập đoàn làm gì, hoạt động ở đâu và ai sở hữu nó.

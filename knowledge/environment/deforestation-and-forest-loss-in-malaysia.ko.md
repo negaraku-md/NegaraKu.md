@@ -34,7 +34,7 @@ faq:
     a: "수목 피복 손실은 조림지 수확, 화재, 폭풍 피해를 포함하여 수관(樹冠)의 모든 제거를 집계하므로, 이후 다시 자라는 손실도 포함합니다. 원시림 손실은 대체 불가능한 생물다양성과 탄소를 지닌 성숙한 자연림의 개간만 집계하며, 영구적 생태 손실의 더 나은 지표입니다."
 
 lang: "ko"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: '보르네오 키나발루 공원의 울창하고 훼손되지 않은 열대우림, 높은 나무와 나무고사리 사이로 안개가 떠도는 모습'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: 말레이시아령 보르네오 사바주에서 규칙적으로 줄지어 선 기름야자 농장에 둘러싸인, 짙은 토착 우림의 외딴 섬 같은 숲을 담은 항공 전경
+    kind: actual
+    origin: third-party
+    subject: 사바주에서 기름야자 농장에 둘러싸인 토착 우림의 잔존 숲 조각
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: 말레이시아령 보르네오 사바주에서 창백한 벌목 도로의 그물망과 주황색 개벌지로 갈라진 우림을 담은 고공 항공 전경
+    kind: actual
+    origin: third-party
+    subject: 사바주에서 벌목 도로와 기름야자용 개벌지로 갈라진 숲
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 말레이시아의 얼마만큼이 여전히 산림인지 신뢰할 만한 출처 세 곳에 물으면, 10퍼센트포인트씩 벌어지는 세 가지 답을 얻을 수 있습니다 — 모두 정당하고, 모두 조금씩 다른 것을 측정하고 있습니다. 그 격차는 반올림 오차가 아니라, 말레이시아 삼림 파괴에 관한 논쟁 전체를 축소해 놓은 것입니다.

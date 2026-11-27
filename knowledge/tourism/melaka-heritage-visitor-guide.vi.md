@@ -40,7 +40,7 @@ faq:
     a: "Bảo tàng, tại số 48 & 50 Jalan Tun Tan Cheng Lock, đóng cửa vào thứ Ba. Nó mở cửa 10:00 đến 16:15 vào các ngày trong tuần (trừ thứ Ba) và 10:00 đến 16:45 vào cuối tuần. Vì giờ giấc và giá cả có thể thay đổi, hãy xác nhận trên trang chính thức của bảo tàng trước khi thăm."
 
 lang: "vi"
-sourceContentHash: "e6af87197b8f50e1"
+sourceContentHash: "1164b72606141d61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,41 @@ relations:
   - { rel: "compares-with", to: "george-town-heritage-visitor-guide" }
   - { rel: "related-to", to: "tourist-safety-health-practical-tips" }
   - { rel: "related-to", to: "getting-around-malaysia-public-transport" }
-related: ["tourist-safety-health-practical-tips"]
+related: ["tourist-safety-health-practical-tips", "kuala-lumpur-visitor-guide", "penang-george-town-visitor-guide", "johor-bahru-and-johor"]
 keywords: ["Melaka heritage", "Melaka UNESCO World Heritage", "Jonker Street", "Baba Nyonya Peranakan Melaka", "A Famosa Porta de Santiago", "Stadthuys Dutch Square", "St Paul's Hill Melaka", "Melaka travel guide"]
 framework: explainer
+visitFacts:
+  bestFor: 'Dành cho du khách muốn một lõi di sản UNESCO nhỏ gọn, đi bộ được — các di tích thời Vương quốc Hồi giáo Mã Lai, Bồ Đào Nha và Hà Lan cùng ẩm thực Nyonya của người Peranakan (Baba Nyonya) — dễ dàng thực hiện như một chuyến đi cuối tuần.'
+  getThere: 'Đến bằng đường bộ từ Kuala Lumpur, lái xe khoảng hai giờ — một chuyến đi cuối tuần phổ biến.'
+  watch: 'Hãy lên kế hoạch theo ngày trong tuần — chợ đêm Jonker Street chỉ diễn ra vào các tối thứ Sáu đến Chủ nhật, và vào ngày thường nó là một con phố nhà phố bình thường — và đừng nhầm cổng lịch sử A Famosa miễn phí với công viên giải trí A''Famosa Resort riêng biệt bên ngoài thị trấn.'
+  next: 'Hãy xác nhận ngày và giờ mở cửa hiện tại với trang chính thức của Bảo tàng Di sản Baba & Nyonya trước chuyến thăm của bạn, vì những điều này thay đổi.'
+hero: '/media/tourism/melaka-heritage-visitor-guide/hero.webp'
+heroAlt: 'Tòa nhà Stadthuys thời Hà Lan màu đỏ đất nung phía sau Đài phun nước Victoria và những sạp chợ trên Quảng trường Hà Lan ở Melaka'
+heroCredit: 'Orderinchaos / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_C_-_Stadthuis_and_fountain.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Red Stadthuys and Victoria Fountain on Dutch Square'
+images:
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-1.webp
+    alt: Một thuyền du ngoạn trên sông đi qua những nhà phố di sản đầy màu sắc và hàng cây dọc dòng sông Malacca xanh ngọc trong khu phố cổ
+    kind: actual
+    origin: third-party
+    subject: Du ngoạn sông Malacca qua những nhà phố khu phố cổ
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
+  - role: scene
+    src: /media/tourism/melaka-heritage-visitor-guide/body-2.webp
+    alt: Cổng vòm Jonker Walk đánh dấu lối vào con phố Chinatown của Melaka bên cạnh Nhà thờ Giám Lý Tamil xây năm 1908
+    kind: actual
+    origin: third-party
+    subject: Cổng vòm Jonker Walk bên Nhà thờ Giám Lý Tamil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_Malaysia_Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg
 ---
 
 Đứng ở Quảng trường Hà Lan lúc chạng vạng và bạn có thể đọc năm thế kỷ trong một cái liếc: một tòa thị chính Hà Lan màu đỏ cá hồi ở một phía, các phế tích của một nhà thờ thời Bồ Đào Nha trên ngọn đồi phía trên, một cổng đá từng neo giữ một pháo đài mà người Anh cố phá dỡ, và — cách hai phút đi bộ — một con hẻm các nhà phố Trung-Mã nay được thắp sáng cho một chợ đêm tối thứ Sáu. Melaka không trải lịch sử của mình khắp một thành phố lớn. Nó xếp chúng vào khoảng một dặm vuông mà bạn có thể đi bộ trong một buổi chiều. Đây là cách đọc nó, và cách lên kế hoạch một chuyến thăm quanh nó.

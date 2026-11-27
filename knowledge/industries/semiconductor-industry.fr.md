@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'Une plaquette de silicium carrée sur une paillasse de laboratoire, sa surface chatoyant de reflets magenta, roses et dorés dus à un revêtement en couche mince'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: Un technicien en combinaison blanche, cagoule et masque tient une plaquette de silicium ronde dans une main gantée à l'intérieur d'une salle blanche de semi-conducteurs à l'éclairage jaune
+    kind: representative
+    origin: third-party
+    subject: Un technicien en combinaison tient une plaquette de silicium dans une salle blanche de photolithographie à l'éclairage jaune
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: Un technicien en combinaison blanche intégrale de salle blanche, cagoule, masque et gants travaille sur des composants métalliques polis à un établi dans une salle blanche lumineuse
+    kind: representative
+    origin: third-party
+    subject: Un technicien d'assemblage en combinaison travaille sur du matériel de précision dans une salle blanche
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Si vous lisez ceci sur un téléphone ou un ordinateur portable, il y a de réelles chances que l'une de ses puces ait passé une partie de sa vie en Malaisie — non pas à être inventée ou imprimée, mais à être transformée, d'une simple tranche de silicium nu en un composant fini et encapsulé, prêt à être soudé sur une carte de circuit imprimé. Cette étape discrète et peu glamour est précisément là où la Malaisie s'est bâti l'une des positions les plus décisives de tout l'univers de l'électronique.

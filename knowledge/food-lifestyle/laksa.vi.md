@@ -100,6 +100,7 @@ dishFacts:
   halal: "Các kiểu được bài viết mô tả dựa trên cá, tôm và gà chứ không phải thịt heo, và một số — như món Johor laksa gốc Mã Lai gắn với gian bếp của Quốc vương Abu Bakar — nằm hẳn trong dòng chính halal. Nhưng với di sản Peranakan gốc Hoa chạy xuyên suốt phần lớn họ món này, cách chế biến khác nhau theo từng đầu bếp, nên nên hỏi từng quán."
   eat: "Mỗi tô được dọn trên bún — bún gạo to cho asam laksa, mì trứng vàng hoặc bún cho curry laksa, 'bihun' sợi mảnh cho laksa Sarawak, mì spaghetti cho Johor laksa, và lá bột gạo cuộn dẹt cho laksam — và phủ lên các loại rau gia vị riêng gồm rau thơm, giá, hải sản hoặc gà xé, với ớt, sambal belacan hoặc chanh điều chỉnh theo khẩu vị. Johor laksa thường được ăn bằng tay."
   where: "Laksa có mặt khắp Malaysia, mỗi bang dựa vào kho nguyên liệu riêng: Penang ở phía bắc cho asam laksa chua (và một loại 'curry mee' nước dừa), Thung lũng Klang và Melaka cho curry laksa / laksa lemak, Kuching ở Sarawak cho laksa Sarawak vị sambal-belacan, Johor ở phía nam cho Johor laksa dùng mì spaghetti, và Kelantan cùng Terengganu ở bờ biển phía đông cho laksam cuộn."
+wikidata: "Q934095"
 ---
 
 Gọi "laksa" ở Penang và bạn sẽ nhận được một bát nước dùng cá chua gắt khiến

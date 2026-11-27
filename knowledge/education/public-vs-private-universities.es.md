@@ -23,7 +23,7 @@ verificationNeeded:
   - "Este artículo no indica números de admisión por programa, proporciones de cuota ni cifras de cuotas específicas para ninguna institución — estas varían según el programa y el campus y cambian en cada admisión; confirma directamente con el e-Panduan de la UPU (para las universidades públicas) o con la institución concreta (para las universidades privadas) antes de solicitar."
   - "El recuento actual exacto de proveedores IPTS registrados no se indica aquí porque las tablas estadísticas publicadas por el MOHE (Statistik Pendidikan Tinggi) no se abrieron por completo para este artículo — para una cifra precisa y actual, consulta directamente la publicación Statistik Pendidikan Tinggi del MOHE."
 lang: "es"
-sourceContentHash: "6b715cdf26e90660"
+sourceContentHash: "7b3e8a1aa9441d66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,39 @@ faq:
   - q: Un programa solo está "acreditado provisionalmente" — ¿significa eso que no está acreditado?
     a: No. Según el Código de Práctica para la Acreditación de Programas de la MQA, la Acreditación Provisional confirma que un programa ha cumplido los requisitos mínimos de calidad para ofrecerse legalmente, y es en sí misma una condición para la aprobación del Ministerio. La Acreditación Plena es la evaluación más completa que se lleva a cabo una vez que una primera promoción ha cursado el programa. Un programa acreditado provisionalmente es legítimo y puede ofrecerse legalmente; simplemente aún no ha completado la evaluación de ciclo completo.
 framework: explainer
+stayFacts:
+  who: 'Esto es para titulares de SPM, STPM, matriculación, foundation, UEC, A-Level o diploma que deciden entre una universidad pública (IPTA/Universiti Awam) y una privada (IPTS).'
+  how: 'Las universidades públicas admiten casi por completo a través de la UPU (Unit Pusat Universiti), el sistema centralizado en línea del Ministerio: ordenas tus preferencias de programa y se te empareja por mérito frente a plazas limitadas por cuota. Las instituciones privadas quedan fuera de la UPU, gestionan sus propias admisiones de forma continua y directa, y aceptan una mezcla más amplia de titulaciones.'
+  cost: 'La solicitud a la UPU en sí es gratuita, aunque debes adquirir un Unik ID de 12 dígitos del Bank Simpanan Nasional (BSN) para iniciar sesión; las tasas de las instituciones privadas se fijan por programa y cambian, así que confirma las cifras actuales con el e-Panduan de la UPU o con la institución.'
+  watch: 'La etiqueta IPTA/IPTS no te dice si un título está reconocido: eso depende de que el programa concreto esté acreditado por la MQA en el MQR, algo que debes comprobar para tu año de ingreso exacto. No puedes solicitar plaza en una universidad privada a través de la UPU.'
+  next: 'Decide a partir de la titulación que posees y luego verifica el programa y el año de ingreso exactos en el Registro de Cualificaciones de Malasia antes de matricularte en cualquiera de los dos tipos. Consulta la explicación sobre la acreditación de la MQA y Antes de pagar el depósito de un colegio universitario.'
+hero: '/media/education/public-vs-private-universities/hero.webp'
+heroAlt: 'Un largo vestíbulo modernista de hormigón visto con las letras azules ''Dewan Tunku Canselor'' y una escalera exterior, con jardines de topiaria y una carretera vacía delante'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Tunku_Canselor_UM,_Kuala_Lumpur_20251219_142448.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dewan Tunku Canselor, the landmark brutalist hall of the University of Malaya, Malaysia''s oldest public university, in Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-1.webp
+    alt: Un edificio administrativo universitario de varias plantas de cristal azul con una torre central redondeada sobre una colina ajardinada, al que se accede por escaleras en terrazas flanqueadas de banderas
+    kind: representative
+    origin: third-party
+    subject: el moderno edificio de cristal del Rectorado de la Universiti Teknologi MARA (UiTM), una de las mayores universidades públicas de Malasia
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/public-vs-private-universities/body-2.webp
+    alt: Una puerta de entrada universitaria con pilares de piedra que lleva el rótulo «Universiti Sains Malaysia», flanqueada por astas de bandera y densa vegetación bajo un cielo nublado
+    kind: representative
+    origin: third-party
+    subject: la puerta principal de entrada de la Universiti Sains Malaysia (USM), una universidad pública de investigación, en Nibong Tebal, Penang
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
 ---
 
 Dos estudiantes con los mismos resultados del SPM acaban en sistemas por

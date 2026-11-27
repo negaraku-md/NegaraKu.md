@@ -99,6 +99,7 @@ dishFacts:
   halal: "Sebagai makanan India-Muslim (mamak) dan nasi kandar, murtabak halal. Intinya yang lazim ialah daging lembu, ayam atau kambing kisar yang diperisa rempah kari — tidak pernah babi — menjadikannya ruji untuk berbuka puasa di bazar Ramadan."
   eat: "Ia dipotong menjadi ketulan atau segi empat dan dimakan panas, dengan pelengkapnya dihidangkan di tepi dan bukan digaul masuk. Pemakan menyenduk atau mencurah sepiring kecil kuah kari atau dhal dan menambah taburan bawang hirisan yang dijeruk sedikit, yang kemasamannya mengimbangi kekayaannya."
   where: "Murtabak ialah ruji gerai India-Muslim (mamak) dan kedai nasi kandar — di Pulau Pinang, lama menjadi kubu kuatnya, ia menjadi kebiasaan di restoran nasi kandar. Tersedia sepanjang tahun, ia benar-benar menyerlah di bazar Ramadan yang tumbuh di seluruh negara pada bulan puasa, tempat ia menjadi salah satu tarikan utama, dibuat atas pesanan dan dijual sekeping demi sekeping."
+wikidata: "Q1587123"
 ---
 
 Perhatikan murtabak dibuat di bazar Ramadan dan separuh daya tarikannya ialah

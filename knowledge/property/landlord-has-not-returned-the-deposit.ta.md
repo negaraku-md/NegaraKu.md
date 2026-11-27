@@ -35,7 +35,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,32 @@ entity: "மலேசியாவில் நிறுத்தி வைக்
 relations:
   - { rel: "related-to", to: "renting-a-home-tenancy" }
   - { rel: "related-to", to: "before-signing-a-shop-or-office-lease" }
+hero: '/media/property/landlord-has-not-returned-the-deposit/hero.webp'
+heroAlt: 'குவாலாலம்பூர் கெப்போங்கில் உள்ள புஞ்சாக் தேசா வானுயர் குடியிருப்பு வீடுகள், ஒரு வழக்கமான மலேசிய வாடகை குடியிருப்புத் தொகுதி.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: கோலாலம்பூரில் ஜன்னல்களில் துணிகள் தொங்கவிடப்பட்ட, லிப்ட் இல்லாத பழைய, தாழ்வான பொதுக் குடியிருப்புத் தொகுதி ஒன்று
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூரில் லிப்ட் இல்லாத பழைய வாடகைக் குடியிருப்புகள் (Pekeliling Flats)
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: செலாங்கூர், Rasa வில் ஒரு குடியிருப்புத் தெரு வழியே அமைந்த ஒற்றைத் தள வரிசை வீடுகளின் வரிசை
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், Rasa வில் வரிசை வீடுகளின் ஒரு வரிசை; வாடகைக்கு வழக்கமாக எடுக்கப்படும் வீட்டு வகை
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 வீட்டு உரிமையாளர் அடைமானத்தை வைத்துக்கொண்டால், அதைப் போல ஒரு வாடகையின் முடிவை கசப்பாக்குவது வேறெதுவும் இல்லை. அது பொதுவாக ஒரு கணிசமான தொகை, அநியாயமாக உணரப்படுவது அடிக்கடி, மேலும் உடனடியாகப் படிப்படியாக உயர்த்த வேண்டும் என்ற சபலம் ஏற்படுகிறது. அதற்கு முன், மலேசியாவில் ஒரு அடைமானத் தகராறைப் பற்றிய அனைத்தையும் வடிவமைக்கும் ஒரே உண்மையைப் புரிந்துகொள்வது உதவுகிறது — ஏனெனில் அது பல வாடகைதாரர்கள் கருதுவது போல் இல்லை.

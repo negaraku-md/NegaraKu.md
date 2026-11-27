@@ -32,7 +32,7 @@ faq:
     a: "El «lo hei» (yee sang, o 捞鱼生) es una costumbre de Año Nuevo popular en Malasia, Singapur y la región del Nanyang en general, que suele realizarse durante la cena de reunión o una reunión de Año Nuevo: todos se juntan en torno a la mesa y usan los palillos para remover al aire, bien alto y juntos, verduras y frutas en juliana, lonchas de pescado crudo e ingredientes variados, mientras pronuncian frases propicias como «que tu fortuna se eleve como el viento y el agua» y «cuanto más alto lo remuevas, más próspero serás». Goza de gran popularidad a nivel local, pero por lo general se considera una práctica desarrollada por la comunidad china de la región del Nanyang, y no una costumbre originaria de la antigua China."
 
 lang: "es"
-sourceContentHash: "d2c30470773fa9b0"
+sourceContentHash: "36f9d62063518bfc"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,34 @@ festivalFacts:
   when: "El primer día del primer mes del calendario lunar; la fecha correspondiente del calendario gregoriano varía cada año según el calendario lunar, y se rige por lo publicado en el boletín oficial."
   holiday: "Los dos primeros días del Año Nuevo lunar son festivo público nacional, con fundamento jurídico en la Holidays Act 1951 (Act 369) y en los boletines oficiales de cada estado."
   etiquette: "Las «puertas abiertas» (rumah terbuka) entre comunidades permiten que familiares y amigos de distintas etnias se visiten para felicitarse el año nuevo; los obsequios y los sobres rojos que se llevan a estas visitas suelen ir en cifras pares, de buen augurio, y por lo general se evitan los números que contienen el «cuatro»."
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: 'Cientos de linternas rojas y doradas colgadas en líneas radiales bajo los tejados ornamentados del templo Thean Hou en Kuala Lumpur contra un cielo azul despejado durante el Año Nuevo Chino'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: El templo Kek Lok Si de Penang resplandeciendo de noche con miles de luces de colores y farolillos rojos durante las iluminaciones del Año Nuevo Chino
+    kind: actual
+    origin: third-party
+    subject: El templo Kek Lok Si de Penang iluminado para el Año Nuevo Chino
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: Un traje de danza del león blanco y plateado sostenido en equilibrio sobre postes, actuando frente a las casas-tienda del barrio chino de Kuala Lumpur durante el Año Nuevo Chino
+    kind: actual
+    origin: third-party
+    subject: Danza del león sobre postes en el barrio chino de Kuala Lumpur durante el Año Nuevo Chino
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 En la víspera de Año Nuevo, muchas tiendas cierran temprano y las autopistas se llenan de coches que ponen rumbo a los pueblos natales. Al caer la tarde, la familia se reúne en torno a una misma mesa, con pescado encima (por lo de «excedente cada año»), un pollo entero, albóndigas que simbolizan la reunión y un plato frío de yee sang, pensado para levantarlo bien alto con los palillos. Muchas familias chinas de Malasia consideran esta cena de reunión de la víspera más importante que el primer día del nuevo año en sí.

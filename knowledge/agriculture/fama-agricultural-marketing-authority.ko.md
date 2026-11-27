@@ -31,7 +31,7 @@ faq:
     a: "생산자는 Pasar Tani Kekal(상설 농민 시장), Agrobazaar, My Farm Outlet, 신선 과일 노점(Gerai Buah-buahan Segar) 같은 FAMA 채널을 통해 소비자에게 직접 유통하거나, 계약 재배(Ladang Kontrak)와 RANTAI 같은 프로그램에 참여할 수 있습니다. 참여 세부 사항은 fama.gov.my에서 확인됩니다."
 
 lang: "ko"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: '말레이시아 푸트라자야의 농민 시장(파사르 타니)에 늘어선 차양 달린 가판대들.'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: 쿠알라룸푸르 센트럴 마켓에서 말레이시아 국기를 두르고 람부탄과 랑삿을 수북이 쌓아 올린 손수레 노점
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 길거리에서 람부탄과 랑삿을 파는 과일 행상
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: 카메론하이랜드 케아팜의 시장 노점에 링깃으로 가격이 매겨진 아스파라거스, 아보카도, 망고, 호박이 진열된 모습
+    kind: actual
+    origin: third-party
+    subject: 카메론하이랜드 케아팜 시장 노점에서 판매되는 지역산 신선 농산물
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 [캐머런 하일랜즈(Cameron Highlands)](/tourism/cameron-highlands-visitor-guide)의 채소 농가는 최상의 작물을 재배할 수 있지만, 농장에서 받는 가격은 도시 노점의 가격과 크게 다른 경우가 많습니다. 그 격차 — 농장과 밥상 사이의 — 가 이름은 좀처럼 언급되지 않지만 그 성과는 자주 접하는 한 법정 기구의 소관입니다.

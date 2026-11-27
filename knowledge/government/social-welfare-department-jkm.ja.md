@@ -30,7 +30,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,9 +74,36 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
+hero: '/media/government/social-welfare-department-jkm/hero.webp'
+heroAlt: 'ジョホール州ポンティアンのJKM(社会福祉局)の郡事務所。JKMのロゴとjkm.gov.myのメールアドレスとともに「Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian」と記す大きな黄色い看板が前にあり、そばにマレーシア国旗'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfare_of_Pontian_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: ジョホールバルにある障害児福祉ケア協会の看板と施設。地域の福祉サービス
+    kind: representative
+    origin: third-party
+    subject: ジョホールバルの障害児福祉ケアセンター
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: ジョホール州バトゥ・パハにある福祉ホーム。入所型の福祉施設
+    kind: actual
+    origin: third-party
+    subject: ジョホール州バトゥ・パハの福祉ホーム(rumah kebajikan)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **社会福祉局**——*Jabatan Kebajikan Masyarakat*、どこでもその略称**JKM**として知られている——は、マレーシア人が困窮に陥ったときに受け止める連邦機関である。**1946年**に設立され、当初は第二次世界大戦がもたらした社会問題への対応であったが、その役割はその後、**保護、リハビリテーション、予防、開発及び地域社会への統合**へと拡大した。JKMに関する検索結果は、年号付きの「扶助の申請方法」ブログや内容の薄いサービスページばかりが上位を占めている。本ページはこれに代わり、JKMを一つの機構として説明し、そのサービスが——子どもから障害者、そして高齢者まで——ライフサイクル全体を通じてどのようにつながっているかを解説する。

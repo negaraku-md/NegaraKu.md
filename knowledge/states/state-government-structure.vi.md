@@ -71,6 +71,13 @@ relations:
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
 framework: explainer
+hero: '/media/states/state-government-structure/hero.webp'
+heroAlt: 'Mặt tiền kính xanh màu trắng hình cánh buồm của tòa nhà Hội đồng Lập pháp bang Sabah được bao quanh bởi những hàng cọ và khu vườn được chăm chút.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bỏ đi Istana Negara, đổi tên Thủ tướng, và thu Nghị viện xuống thành một viện duy nhất — và bạn đang nhìn vào một chính quyền bang của Malaysia. Cả 13 bang vận hành trên một bản sao thu nhỏ của hệ thống liên bang: một người đứng đầu bang trị vì mà không cai trị, một người đứng đầu chính quyền được chọn vì có thể nắm một đa số, một hội đồng hành pháp chịu trách nhiệm tập thể trước các thành viên được bầu, và một cơ quan lập pháp có thể bị giải tán và trả lại cho cử tri. Các tước hiệu thay đổi từ bang này sang bang khác. Bản thiết kế thì không.

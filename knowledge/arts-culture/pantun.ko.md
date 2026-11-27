@@ -34,7 +34,7 @@ seoTitle: "판툰(Pantun)"
 socialTitle: "말레이인의 가장 오래된 구전시 — 판툰 이야기와 그 유네스코 유산"
 
 lang: "ko"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "판툰 예술의 기원 시기는 정확히 확정할 수 없다; 가장 유력한 학자들의 견해는 이를 15세기 무렵, 즉 《스자라 믈라유(Sejarah Melayu, ~1612)》 이전으로 본다. 이 수치는 여전히 논쟁 중이며 확정된 연대가 아니다."
   - "긴 연 판툰의 최대 길이 한계는 자료마다 다르다(일부는 최대 16행, 다른 일부는 약 22행까지 언급); 확실한 수치는 일정하지 않다."
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: '녹색과 금색 전통 의상에 화려한 머리 장식을 한 말레이 공연자들이 땅에 앉아 디키르 바랏(dikir barat) 공연 중 손동작을 맞춰 선보이고 있으며, 그들 앞에는 손북이 놓여 있다.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: 정교하게 조각한 신화 속 인물 가죽 인형들이 클란탄-파타니 양식의 와양 쿨릿 공연 때 빛나는 막에 또렷한 그림자를 드리운다
+    kind: actual
+    origin: third-party
+    subject: 클란탄-파타니 양식의 와양 쿨릿(그림자극)
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: 청동 징, 솥 모양 징, 나무 건반 타악기로 이루어진 정교하게 조각된 말레이 가믈란 합주가 쿠알라룸푸르 음악박물관에 전시되어 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이 가믈란 합주, 쿠알라룸푸르 음악박물관
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > 황금 바나나를 싣고 항해를 떠나,

@@ -30,7 +30,7 @@ faq:
     a: "La banque ou la société de financement est enregistrée comme le propriétaire légal du véhicule en vertu de la Hire-Purchase Act 1967 pendant toute la durée du prêt. L'acheteur est le détenteur enregistré qui a l'usage quotidien du véhicule, et ne devient le propriétaire enregistré qu'une fois le prêt intégralement remboursé et une mainlevée émise par l'organisme de financement."
 
 lang: "fr"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["acheter voiture Malaisie", "location-vente Malaisie", "transfert de propriété JPJ", "Puspakom B5 B7", "Proton Perodua voiture nationale", "transfert voiture occasion Malaisie", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "prêt auto Malaisie"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: 'Une concession Proton bleue portant l''enseigne Wakil Jualan dan Servis avec plusieurs voitures garées devant, à Subang Jaya.'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: Des voitures Perodua neuves alignées sous des lumières vives dans une salle d'exposition de la marque Perodua à Penang, en Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Salle d'exposition du concessionnaire Perodua à Penang
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: Une berline Proton Perdana noire, une voiture de marque nationale fabriquée en Malaisie, stationnée dans une rue de Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Berline Proton Perdana à Shah Alam
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 Achetez une voiture en Malaisie et vous signez un seul contrat, mais vous entrez en réalité dans trois relations distinctes à la fois : une avec celui qui vous a vendu la voiture, une avec celui qui la finance, et une avec le JPJ, le département qui décide au nom de qui le véhicule est réellement enregistré. Sautez une étape dans l'une des trois, et la voiture que vous avez payée n'est légalement pas encore tout à fait la vôtre.

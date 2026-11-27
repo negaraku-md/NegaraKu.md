@@ -31,7 +31,7 @@ faq:
   - q: இது Gig Workers Act கட்டுரையைப் போன்றதா?
     a: 'இல்லை. Gig Workers Act 2025 கட்டுரை சட்டத்தையே விளக்குகிறது — உரிமைகள், ஒப்பந்தங்கள் மற்றும் தீர்ப்பாயம். இந்தக் கட்டுரை பொருளாதாரத் துறையை உள்ளடக்கியது — கிக் மற்றும் தள பொருளாதாரம் எவ்வளவு பெரியது, முக்கிய தளங்கள் யார், மற்றும் அது பரந்த டிஜிட்டல் பொருளாதாரத்திற்குள் எவ்வாறு பொருந்துகிறது.'
 lang: ta
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'மலேசியாவின் பினாங்கில் ஒரு தெரு சந்திப்பில் காப்பிடப்பட்ட டெலிவரி பெட்டியுடன் மோட்டார்சைக்கிளில் காத்திருக்கும் ஒரு உணவு விநியோக ஓட்டுநர்.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: இளஞ்சிவப்பு foodpanda ஜாக்கெட்டும் தலைக்கவசமும் அணிந்த உணவு விநியோக ஓட்டுநர் ஒருவர், ஒரு கப்சாய் மோட்டார்சைக்கிளில், பெரிய இளஞ்சிவப்பு foodpanda வெப்பக்காப்பு விநியோகப் பெட்டியைச் சுமந்தபடி தெரு போக்குவரத்தில் நின்றுகொண்டிருக்கிறார்.
+    kind: representative
+    origin: third-party
+    subject: இளஞ்சிவப்பு வெப்பக்காப்பு விநியோகப் பெட்டியுடன் Foodpanda மோட்டார்சைக்கிள் உணவு விநியோக ஓட்டுநர் (பிரதிநிதித்துவ கிக் தளப் பணி; Grab அல்ல)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: ஒரு தள உணவு விநியோக தூதர், பெரிய வெப்பக்காப்பு உணவு விநியோக முதுகுப்பையை அணிந்தபடி நடைபாதையில் நிற்கிறார்.
+    kind: representative
+    origin: third-party
+    subject: வெப்பக்காப்பு தள விநியோகப் பையுடன் உணவு விநியோக தூதர் (Grab அல்ல)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 மலேசியாவில் ஒவ்வொரு நாளும், மில்லியன் கணக்கான பரிவர்த்தனைகள் ஒரு கடை, ஒரு அலுவலகம் அல்லது ஒரு டாக்ஸி நிறுத்தத்தால் அல்ல, ஆனால் ஒரு ஆப்பால் ஏற்பாடு செய்யப்படுகின்றன: சாலையோரத்திற்கு அழைக்கப்படும் ஒரு கார், ஒரு மோட்டார் சைக்கிளில் நகரம் முழுவதும் எடுத்துச் செல்லப்படும் ஒரு பை உணவு, ஃப்ரீலான்சர் ஒருபோதும் சந்திக்காத ஒரு வாடிக்கையாளருக்காக வடிவமைக்கப்பட்ட ஒரு லோகோ. இதுவே கிக் மற்றும் தள பொருளாதாரம் — டிஜிட்டல் தளங்களால் மத்தியஸ்தம் செய்யப்படும் வேலை — மற்றும் ஒரு தசாப்தத்திற்கு சற்று மேலாக அது புதுமையிலிருந்து மலேசிய வேலை வாழ்க்கையின் மிகத் தெரியும் அம்சங்களில் ஒன்றாக நகர்ந்துள்ளது.

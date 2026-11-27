@@ -19,7 +19,7 @@ appliesTo: "希望了解在马六甲统治海峡之前，是谁统治着马六�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -63,6 +63,32 @@ faq:
   - q: 已知最古老的古马来语碑铭是哪一块,它与三佛齐有何关系?
     a: 那是格杜干武吉碑铭(Kedukan Bukit inscription),年代定于公元682年,记载了一次三佛齐的军事与宗教仪式远征。除了在苏门答腊历史上的意义之外,它的重要之处在于是已知最古老的以古马来语书写的碑铭——现代马来语与现代印尼语的直系祖先。随着三佛齐贸易网络的扩张,古马来语在任何苏丹王朝出现之前的数百年,便已作为通行的通用语(lingua franca)传遍整个群岛。
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: '一尊风化的灰色花岗岩佛像，双腿已失，在三佛齐古都圣山的绿叶映衬下静静伫立。'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: 一块小而圆的灰色石头上刻着一行行古老的古马来文字，这是室利佛逝时期的古突干武吉碑，陈列在博物馆的展台上。
+    kind: actual
+    origin: third-party
+    subject: 古突干武吉碑（Kedukan Bukit，公元683年），一方室利佛逝古马来文石碑
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: 一尊八臂青铜观世音菩萨像，出土于霹雳的比突，直立陈列在吉隆坡的国家博物馆中。
+    kind: actual
+    origin: third-party
+    subject: 比突（Bidor）出土的青铜观世音像（8至9世纪），吉隆坡国家博物馆
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 1396年，拜里米苏拉从淡马锡（今新加坡）出逃，来到后来成为马六甲的那道河岸时，他并非凭空冒出来的无名之辈。马六甲州政府自己的记载至今仍明确称他为「一位来自巨港的王室王子」。巨港位于苏门答腊南部的穆西河（Musi River）畔，在拜里米苏拉出生前约六百年，一直是一个统治马六甲海峡的海上强权的都城——这个王国名为室利佛逝。等到拜里米苏拉抵达半岛时，那个王国的政治权力早已烟消云散。但他所建立的马六甲苏丹国，却将其血脉——可以说还有马来贸易港口该有的整套模式——直接承袭自室利佛逝的废墟之中。

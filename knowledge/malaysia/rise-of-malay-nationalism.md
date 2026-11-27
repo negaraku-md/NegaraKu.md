@@ -83,6 +83,13 @@ relations:
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/rise-of-malay-nationalism/hero.webp'
+heroAlt: 'Potret hitam putih pemimpin nasionalis Melayu Ibrahim Yaacob berpakaian jaket berbutang.'
+heroCredit: 'Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sebelum ada mana-mana parti kebangsaan besar, gerakan Melayu bermula di dewan sekolah, di halaman akhbar, dan di bilik mesyuarat persatuan negeri yang kecil. Antara tahun 1930-an dan hujung Perang Dunia Kedua, arus-arus inilah yang perlahan-lahan menjelma menjadi kuasa politik yang, pada 1946, mampu menyatukan orang Melayu menentang satu dasar British.

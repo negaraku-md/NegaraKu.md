@@ -32,7 +32,7 @@ faq:
     a: "Intrudu என்பது Melaka-வின் போர்த்துகீச சமூகத்தினர் Rabu Abu (Ash Wednesday — Prapaskah/தவக்காலத்தின் தொடக்கம்)-க்கு முந்தைய ஞாயிற்றுக்கிழமை கொண்டாடும், ஆண்டுதோறும் நிகழும் நீர் விழா. குடியிருப்பாளர்களும் பார்வையாளர்களும் Portuguese Settlement முழுவதிலும் ஒருவர் மீது ஒருவர் நீர் தெளித்து மகிழ்கின்றனர்; இந்தக் கொண்டாட்டம் branyo நடனத்துடன் இணைந்து நடைபெறுகிறது."
 
 lang: "ta"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,34 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: 'Melaka Portuguese Settlement-ல் Festa San Pedro 2026 பதாகைக்குக் கீழே மேடையில் பாடி நடனமாடும் பாரம்பரிய போர்த்துகீசிய-யூரேசிய உடையணிந்த Kristang கலைஞர்களின் வரிசை; பெண்கள் சிவப்பு தலைக்கட்டு, வெள்ளை ரவிக்கை, எம்பிராய்டரி பாவாடை; ஆண்கள் கருப்புத் தொப்பி, மேலங்கி'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: மலாக்காவில் உள்ள போர்த்துகீசியக் குடியிருப்பில் அமைந்த மெதான் போர்த்துகிஸ் அல்லது போர்த்துகீசிய சதுக்கத்தின் வெள்ளை காலனித்துவ பாணி நுழைவு வளைவு, இருபுறமும் இளஞ்சிவப்பு பலகை பொருத்திய கிறிஸ்டாங் உணவகங்கள், பின்னணியில் ஒரு நவீன உயரமான கட்டிடத்துடன் தெளிந்த நீல வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவில் உள்ள போர்த்துகீசியக் குடியிருப்பில் மெதான் போர்த்துகிஸ் (போர்த்துகீசிய சதுக்கம்) நுழைவாயில்
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: மலாக்காவில் உள்ள போர்த்துகீசியக் குடியிருப்பில் புனித பேதுருவின் திருவிழாவுக்காக அலங்கரிக்கப்பட்ட ஒரு மாதிரி மீன்பிடிப் படகு, அதன் உயரமான வெள்ளைப் பாய்களில் மதக் காட்சிகளும் புனித பேதுருவின் உருவமும் வர்ணம் பூசப்பட்டு, நீரோரத்தின் அருகே மீன்பிடி வலைகளால் போர்த்தப்பட்டுள்ளது; பின்னால் பனை மரங்களும் பார்வையாளர்களும்
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவின் போர்த்துகீசியக் குடியிருப்பில் புனித பேதுருவின் திருவிழாவுக்காக (சான் பேத்ரோ) கட்டப்பட்ட அலங்கரிக்கப்பட்ட மீன்பிடிப் படகு
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 Melaka-வின் Ujong Pasir-இல், மக்கள் ஒருவரை ஒருவர் மலாய் அல்ல, ஆங்கிலம் அல்ல, நவீன போர்த்துகீசியமும் அல்ல — மாறாக ஐந்து நூற்றாண்டுகளுக்கு முன் வந்திறங்கிய வெற்றியாளர்களின் மொழியின் எஞ்சியிருக்கும் உயிர்த்துடிப்பான தடயமான ஒரு மொழியில் வரவேற்கும் ஒரு கடலோரக் குடியிருப்பு உள்ளது. இதுவே Kristang சமூகத்தின் உலகம்.

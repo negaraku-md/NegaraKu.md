@@ -25,7 +25,7 @@ appliesTo: "பிரதமர் துறை உண்மையில் எ�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,34 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "federal government department Malaysia"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: 'Putrajaya-வில் நாடகீய மேகமூட்ட வானத்திற்குக் கீழே, மலேசிய பிரதமர் துறையின் இருப்பிடமான குவிமாடம் கொண்ட Perdana Putra கட்டிடம்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: நுழைவுப் பெருந்தெருவின் ஓரங்களில் மலேசியக் கொடிகள் வரிசையாக நிற்கும் Perdana Putra-வின் சமச்சீரான முன்புறக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: விழாப் பெருந்தெருவிலிருந்து பார்த்த Perdana Putra-வின் முன் முகப்பு, புத்ராஜெயா
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: புத்ராஜெயாவில் மரங்கள் வரிசையாக நிற்கும் விழாப் பெருந்தெருவிற்கு மேலே உயர்ந்து நிற்கும் Perdana Putra-வின் பச்சை நிற குவிமாடம்
+    kind: actual
+    origin: third-party
+    subject: நிலக்காட்சி அமைக்கப்பட்ட நுழைவுப் பாதை வழியே பார்த்த Perdana Putra, புத்ராஜெயா
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 நாட்டின் அன்றாடக் கொள்கை இயந்திரத்தை இயக்கும் ஒரே ஒரு அமைச்சு

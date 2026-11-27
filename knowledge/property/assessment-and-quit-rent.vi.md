@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Chủ nhà, chủ đất và người mua bất động sản ở Bán đảo Malaysia cần hiểu hóa đơn thuế bất động sản hằng năm của mình."
 
 lang: "vi"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'Một dãy nhà liền kề hai tầng hiện đại phía sau hàng rào trong một khu nhà ở Malaysia, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: Một dãy nhà phố liền kề hai tầng chạy dọc con đường dân cư yên tĩnh ở Malaysia, loại bất động sản gắn liền với đất phải chịu thuế định giá (cukai taksiran) và thuế đất (cukai tanah).
+    kind: representative
+    origin: third-party
+    subject: Nhà phố liền kề hai tầng trong một khu dân cư (taman) ở Malaysia
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: Góc nhìn từ trên cao bao quát khu đô thị Mutiara Rini ở Iskandar Puteri cho thấy hàng nghìn ngôi nhà gắn liền với đất trên các con phố ô bàn cờ, mỗi căn là một bất động sản chịu thuế trong sổ bộ của hội đồng địa phương.
+    kind: representative
+    origin: third-party
+    subject: Toàn cảnh từ trên cao khu đô thị Mutiara Rini, Iskandar Puteri, Johor
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 Nhiều chủ nhà mới bất ngờ khi nhận được hóa đơn thứ hai mà họ không ngờ tồn tại. Họ đã trả "thuế đất" năm nay rồi — vì sao hội đồng đô thị lại gửi thông báo đòi?

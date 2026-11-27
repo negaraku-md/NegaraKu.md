@@ -32,7 +32,7 @@ faq:
     a: "सरकार ज़ोर देकर कहती है कि ऐसा नहीं है। Rakan KKM जैसी पहलों को सार्वजनिक क्षेत्र में विशेषज्ञों को बनाए रखने के एक मॉडल के रूप में प्रस्तुत किया जाता है, निजीकरण के रूप में नहीं, हालाँकि कुछ पर्यवेक्षक इसके दीर्घकालिक प्रभावों के प्रति सतर्क बने हुए हैं।"
 
 lang: "hi"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 entity: "Kertas Putih Kesihatan"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "covid-19-pandemic-response-and-legacy"]
 keywords: ["स्वास्थ्य श्वेत पत्र", "स्वास्थ्य सुधार", "स्वास्थ्य वित्तपोषण", "KKM", "राष्ट्रीय स्वास्थ्य बीमा", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'एक बड़े मलेशियाई झंडे से सजा, पुत्राजया में एक आधुनिक काँच-अग्रभाग वाला मलेशिया स्वास्थ्य मंत्रालय का भवन।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: Putrajaya में एक मलेशियाई संघीय सरकारी कार्यालय भवन जिसमें स्वास्थ्य मंत्रालय का एक प्रभाग स्थित है
+    kind: actual
+    origin: third-party
+    subject: Putrajaya में स्वास्थ्य मंत्रालय मलेशिया (Kementerian Kesihatan Malaysia) का एक भवन
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: स्वास्थ्य मंत्रालय मलेशिया के एक स्वागत कक्ष में एक हस्ताक्षर मेज़ पर दो अधिकारी, जिनके पीछे दीवार पर मंत्रालय का नाम और मलेशियाई राजचिह्न है
+    kind: actual
+    origin: third-party
+    subject: स्वास्थ्य मंत्रालय मलेशिया में एक आधिकारिक बैठक, Kementerian Kesihatan Malaysia शब्दचिह्न और राष्ट्रीय प्रतीक के नीचे
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 सरकारी क्लिनिक देश की लगभग दो-तिहाई बाह्य रोगी यात्राएँ संभालते हैं — फिर भी वे प्राथमिक देखभाल सुविधाओं में से केवल लगभग एक-चौथाई का प्रतिनिधित्व करते हैं। यही असंतुलन, अन्य बातों के साथ, वह है जिसने मलेशिया के स्वास्थ्य मंत्रालय (MOH) को एक पीढ़ी के सबसे महत्वपूर्ण नीति दस्तावेज़ को लिखने के लिए प्रेरित किया: स्वास्थ्य श्वेत पत्र।

@@ -27,7 +27,7 @@ faq:
   - q: "¿Cómo se llamaba antes el KPKT y cuándo cambió el nombre?"
     a: "Era el Ministerio de Desarrollo del Gobierno Local; el gabinete decidió renombrarlo como Ministerio de Vivienda y Gobierno Local el 13 de diciembre de 2023, lo que se anunció el 26 de diciembre de 2023."
 lang: "es"
-sourceContentHash: "44a0632c979d6de6"
+sourceContentHash: "f3afa3641fa0ce46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,37 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministerio de Vivienda y Gobierno Local Malasia", "Ministry of Housing and Local Government Malaysia", "KPKT funciones", "KPKT agencias", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "vivienda asequible Malasia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'Una alta torre gubernamental gris y curva de cristal en Putrajaya elevándose sobre un monumento de señalización negro que reza Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Ministerio de Bienestar Urbano, Vivienda y Gobierno Local) con el logotipo de la casa de KPKT'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: Primer plano de un monumento de señalización de piedra negra que lleva el escudo de armas de Malasia, las palabras Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government, la dirección web kpkt.gov.my y el colorido logotipo de casa del KPKT
+    kind: actual
+    origin: third-party
+    subject: Monumento de señalización del KPKT en la entrada del edificio del ministerio, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: Vista frontal de la torre gubernamental del KPKT en Putrajaya, con su fachada central adornada con largas banderas nacionales verticales Jalur Gemilang, enmarcada por palmeras de abanico contra un cielo nublado
+    kind: actual
+    origin: third-party
+    subject: La torre del KPKT en Putrajaya engalanada con banderas verticales de Malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 Cuando no te recogen la basura, cuando vence un certificado de seguridad contra incendios y cuando un promotor te entrega el piso con dos años de retraso — el mismo ministerio federal está detrás de los tres casos. El **Ministerio de Vivienda y Gobierno Local**, *Kementerian Perumahan dan Kerajaan Tempatan*, universalmente conocido como **KPKT**, es el ministerio federal malasio para la vivienda asequible, el gobierno local, la planificación urbana, los bomberos y el rescate, los residuos sólidos, el paisajismo y el crédito comunitario. Su sede está en No. 51, Persiaran Perdana, Recinto 4, Centro Administrativo del Gobierno Federal, 62100 Putrajaya. El ministro es **Nga Kor Ming** y la viceministra es **Datuk Hajah Aiman Athirah binti Sabu**.

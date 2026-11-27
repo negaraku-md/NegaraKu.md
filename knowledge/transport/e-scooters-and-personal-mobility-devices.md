@@ -70,9 +70,35 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["e-skuter", "PMD", "mikromobiliti", "basikal elektik", "MS2514", "JPJ", "peranti mobiliti peribadi"]
 framework: rules
+hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'
+heroAlt: 'Tiga skuter elektrik kongsi Beam berwarna ungu diletakkan di laluan taman berturap di Batu Pahat, Johor.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: Sebuah e-skuter Beam berkongsi diletakkan di petak mikromobiliti di sebelah sebuah hotel berhampiran stesen MRT Merdeka di Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Tempat letak e-skuter Beam berkongsi berhampiran MRT Merdeka, Kuala Lumpur
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: Sebuah e-skuter Beam Mobility berkongsi berwarna ungu diletakkan di laluan di Taman Rekreasi Tasik Y di Batu Pahat, Johor.
+    kind: actual
+    origin: third-party
+    subject: E-skuter Beam berkongsi di taman tepi tasik di Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 Anda beli e-skuter untuk ke pejabat, tetapi saat roda menyentuh jalan raya awam, anda sudah melanggar undang-undang. Itulah realiti mikromobiliti di Malaysia sejak penghujung 2021.

@@ -32,7 +32,7 @@ faq:
     a: "주요 해외 시장은 건설의 경우 호주와 대만이며, 부동산의 경우 베트남, 영국, 싱가포르, 호주입니다."
 
 lang: "ko"
-sourceContentHash: "09f7639abce305e2"
+sourceContentHash: "65a0876433965216"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
 framework: profile
+hero: '/media/companies/gamuda-berhad/hero.webp'
+heroAlt: '가무다 가든스 타운십으로 들어가는 곡선 진입로 옆, 비스듬한 목재 판자를 배경으로 흰 대문자로 ''GAMUDA''를 새긴 크고 조형적인 입구 간판'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Giant GAMUDA monument sign at the entrance to Gamuda Gardens, Gamuda Berhad''s flagship township in Rawang, Selangor'
+
+images:
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-1.webp
+    alt: 녹색 물방울 로고와 함께 큰 흰 글자로 GAMUDA GARDENS라고 쓰인 입구 기념비, 조각적인 목재 기둥과 녹지를 배경으로 서 있다
+    kind: actual
+    origin: third-party
+    subject: 타운십 입구 기념비의 GAMUDA GARDENS 워드마크와 물방울 로고, 슬랑오르주 Rawang
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamuda_Gardens_entrance_(231229)_02.jpg
+  - role: scene
+    src: /media/companies/gamuda-berhad/body-2.webp
+    alt: 밝은 흐린 하늘 아래 회색 콘크리트 교각과 지붕 덮인 승강장이 있는, Kwasa Damansara MRT 역으로 이어지는 고가 MRT 선로
+    kind: representative
+    origin: third-party
+    subject: 지하 공사를 MMC-Gamuda(Gamuda Berhad의 철도 엔지니어링 합작사)가 수행한 클랑밸리 MRT 노선의 고가역 Kwasa Damansara MRT 역
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwasa_Damansara_MRT_Station_(PY01-KG04)_Exterior_View_from_Track_(220724)_1.jpg
 ---
 
 Gamuda는 말레이시아의 한 고속도로에서 시작해 역내 최대의 터널링·철도 시공사 중 하나로 성장했습니다. 오늘날 그 사업의 점점 더 큰 비중이 말레이시아 밖에 있습니다.

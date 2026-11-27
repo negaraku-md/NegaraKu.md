@@ -33,7 +33,7 @@ faq:
     a: "Peranan bantuan bersama persatuan kontemporari telah banyak berubah. Banyak persatuan meletakkan tumpuan pada pemberian biasiswa dan pinjaman pelajaran, pemuliharaan dialek dan budaya tradisional, penganjuran perayaan dan silaturahim, serta kebajikan komuniti; sesetengah tokong marga lama dan Jeti Marga menjadi tumpuan pelancongan budaya dan pemuliharaan seni bina selepas George Town disenaraikan sebagai Tapak Warisan Dunia. Tahap keaktifan dan penekanan setiap persatuan berbeza-beza."
 
 lang: "ms"
-sourceContentHash: "2b9cdaacfcb3f046"
+sourceContentHash: "ef4ca8eadae4ee21"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,34 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-dialects", "chinese-new-villages", "population-composition"]
 keywords: ["华人会馆", "宗亲会", "会馆", "公司", "地缘性", "血缘性", "业缘性", "福建会馆", "客家公会", "邱公司", "龙山堂", "华总", "中华总商会", "姓氏桥", "新客", "义山", "Chinese clan associations Malaysia", "huiguan", "kongsi"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-clan-associations/hero.webp'
+heroAlt: 'Rumah persatuan marga Leong San Tong Khoo Kongsi yang berukir halus di Penang, bumbung berjubinnya yang melengkung dipenuhi naga dan patung seramik berwarna-warni, dilihat dari laman dalam di bawah langit biru'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-1.webp
+    alt: Rumah kongsi Khoo Kongsi bergemerlapan pada waktu senja untuk Tahun Baharu Cina, digantung tanglung merah dan bingkai lampu yang bercahaya sementara orang ramai berkumpul di laman hadapan
+    kind: actual
+    origin: third-party
+    subject: Rumah kongsi Khoo Kongsi bergemerlapan dan dihias tanglung merah untuk Tahun Baharu Cina 2024, George Town, Pulau Pinang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_illuminated_for_Chinese_New_Year_2024.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-clan-associations/body-2.webp
+    alt: Pandangan ke atas siling rumah kongsi Khoo Kongsi, menunjukkan kasau berjubin terakota, rasuk yang dicat dan pendakap berukir yang bersalut emas mewah
+    kind: actual
+    origin: third-party
+    subject: Siling kayu yang dicat dan bersalut emas rumah kongsi Khoo Kongsi, George Town, Pulau Pinang
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(II).jpg
 ---
 
 Melangkah masuk ke kawasan sekitar Kota Cornwallis di George Town, Pulau Pinang, di antara deretan rumah kedai tiba-tiba muncul sebuah tokong marga dengan bumbung melentik berukir halus dan rasuk berwarna — itulah Leong San Tong Khoo Kongsi. Berjalan lebih jauh ke arah laut, terdapat deretan rumah kayu bertiang yang menjulur ke atas air, setiap perkampungan dinamakan sempena satu nama keluarga: Jeti Chew, Jeti Lim, Jeti Tan. Bangunan-bangunan ini bukan tokong, bukan juga sekadar kediaman, tetapi tinggalan fizikal salah satu bentuk organisasi tertua dalam masyarakat pendatang Cina — persatuan marga dan kampung halaman.

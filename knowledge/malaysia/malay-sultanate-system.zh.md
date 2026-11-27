@@ -20,7 +20,7 @@ appliesTo: "任何想了解马来传统苏丹国制度的结构与作用，以�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: '一座传统马来木造宫殿，有着竹编墙壁、陡峭的瓦顶和雕花山墙，矗立在明朗的天空之下。'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: 国家皇宫华丽的金顶礼仪门楼上刻着「Istana Negara」字样，在明亮的阳光下矗立，身后绿色山丘上是皇宫的金顶建筑群，远处是吉隆坡的天际线。
+    kind: actual
+    origin: third-party
+    subject: 国家皇宫（Istana Negara），位于吉隆坡端姑阿都哈林路（杜达路）的国家宫殿
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: 一把长长的马来礼仪短剑（keris）与其细长的剑鞘并排放在博物馆的台面上，旁边印有标签「Keris Alang Pahang」。
+    kind: actual
+    origin: third-party
+    subject: 彭亨的Keris Alang，一把象征权威的皇家礼仪短剑（keris）
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 试想象一个没有档案、没有表格、没有编号部门的国家。政令以口头传达，正义在王廷（balairung）中裁决，而整个社会秩序都系于一个无法精确译成现代语言的词：*daulat*。那便是马来苏丹国的世界——一套在数百年间安排沿海与河岸上千万生灵生活的体系，其身影至今仍可见于马来西亚宪法之中。

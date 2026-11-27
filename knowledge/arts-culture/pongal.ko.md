@@ -32,7 +32,7 @@ faq:
   - q: "타이 퐁갈의 나흘은 무엇인가요?"
     a: "Bhogi(묵은 것을 치우고 집을 청소함), Thai Pongal 또는 Surya Pongal(태양에 감사하고 퐁갈을 바침), Mattu Pongal(밭갈이를 돕는 소를 기림), Kaanum Pongal(친지를 방문하고 나들이함) — 이것이 그 나흘입니다."
 lang: "ko"
-sourceContentHash: "a5c500ba7605ca90"
+sourceContentHash: "f9b06eb3dcd4e0e1"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "타밀 달력의 타이(Thai) 달이 시작되는 날 — 그레고리력으로 대체로 1월 중순(14일 또는 15일)."
   holiday: "말레이시아에서 연방 차원으로도 어떤 주 차원으로도 관보에 공고된 공휴일이 아니다. (디파발리만이 연방 공휴일이며 — 사라왁은 제외 — 타이푸삼은 일부 주에서만 공휴일이다.)"
   etiquette: "주로 수확과 관련된 문화 축제로 종교와 무관하다(2020년 말레이시아 장관이 명확히 밝혔다). 사회 단체와 사원도 여러 항아리에 함께 퐁갈을 끓이고 문예 공연과 함께 공개 기념행사를 연다."
+hero: '/media/arts-culture/pongal/hero.webp'
+heroAlt: '타이 퐁갈 동안 힌두 사원 야외에서, 보라와 금빛 사리를 입고 미소 짓는 여성이 금잔화 화환을 두른 토기에서 김이 나는 퐁갈 쌀을 젓는 모습'
+heroCredit: 'Nithi Anand / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2015_Tai_Pongal_festival_week,_a_woman_cooking_Pongal_dish.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Woman in a sari cooking Thai Pongal rice in a garlanded clay pot at a temple'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pongal/body-1.webp
+    alt: 집 대문 밖 바닥에 색색의 가루로 그린 크고 화려한 퐁갈 콜람으로, 사탕수수 줄기, 선명한 꽃, 넘쳐흐르는 축제 단지를 묘사한 모습
+    kind: representative
+    origin: third-party
+    subject: 거리에 사탕수수, 꽃, 넘쳐흐르는 단지 무늬로 그린 화려한 퐁갈 콜람
+    credit: Timothy A. Gonsalves / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kolam_Pongal_1stMain_Uthandi_Jan23_A7C_04891.jpg
+  - role: scene
+    src: /media/arts-culture/pongal/body-2.webp
+    alt: 붉은 테두리에 흰색으로 색색의 지그재그와 점 무늬를 손으로 그린 둥근 점토 단지 두 개로, 추수 축제 때 퐁갈을 끓이기 위해 준비한 모습
+    kind: representative
+    origin: third-party
+    subject: 추수 축제를 위해 장식한, 손으로 그린 점토 퐁갈 단지 두 개
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg
 ---
 
 타이 월이 밝아오는 이른 새벽, 말레이시아 타밀 가정의 뜰과 문 앞은 분주함으로

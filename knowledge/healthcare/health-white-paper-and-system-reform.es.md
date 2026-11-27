@@ -32,7 +32,7 @@ faq:
     a: "El gobierno insiste en que no. Iniciativas como Rakan KKM se presentan como un modelo para retener a los especialistas en el sector público, no como una privatización, aunque algunos observadores siguen siendo cautelosos sobre sus efectos a largo plazo."
 
 lang: "es"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 entity: "Kertas Putih Kesihatan"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "covid-19-pandemic-response-and-legacy"]
 keywords: ["libro blanco de la salud", "reforma sanitaria", "financiación de la salud", "KKM", "seguro nacional de salud", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'Un moderno edificio del Ministerio de Salud de Malasia con fachada de cristal en Putrajaya cubierto con una gran bandera malasia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: Un edificio de oficinas del gobierno federal de Malasia en Putrajaya que alberga una dependencia del Ministerio de Salud
+    kind: actual
+    origin: third-party
+    subject: Un edificio del Ministerio de Salud de Malasia (Kementerian Kesihatan Malaysia) en Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: Dos funcionarios en una mesa de firma en un vestíbulo de recepción del Ministerio de Salud de Malasia, con el nombre del ministerio y el escudo de armas de Malasia en la pared detrás
+    kind: actual
+    origin: third-party
+    subject: Una reunión oficial en el Ministerio de Salud de Malasia, bajo el logotipo Kementerian Kesihatan Malaysia y el escudo nacional
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 Las clínicas públicas atienden casi dos tercios de las consultas externas del país, y sin embargo representan solo alrededor de una de cada cuatro instalaciones de atención primaria. Es este desequilibrio, entre otras cosas, lo que impulsó al Ministerio de Salud de Malasia (MOH) a redactar el documento de políticas más importante en una generación: el Libro Blanco de la Salud.

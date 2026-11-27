@@ -26,7 +26,7 @@ faq:
     a: "Por una primera infracción, una multa no superior a RM30,000 o prisión no superior a 2 años, o ambas. Las infracciones posteriores conllevan hasta RM50,000 o prisión de hasta 3 años."
 
 lang: "es"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,9 +57,35 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["medicina tradicional", "MT&C", "Act 775", "MTC", "quiropráctica", "homeopatía", "registro de profesionales", "Consejo de MT&C"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'La señalización de la fachada de una tienda malasia de medicina tradicional y salud, que representa la práctica de la medicina tradicional y complementaria.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: Cuatro finas agujas de acupuntura colocadas sobre una superficie junto a una moneda a modo de escala, que representan la acupuntura como terapia complementaria
+    kind: representative
+    origin: third-party
+    subject: Agujas de acupuntura mostradas con una moneda a modo de escala
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: Una caja de madera con botellas de jamu, un tónico herbal tradicional, con botellas de líquido ámbar tapadas con hojas, que representa la medicina complementaria herbal
+    kind: representative
+    origin: third-party
+    subject: Botellas de jamu, un tónico herbal tradicional malayo-indonesio
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 Desde el 1 de marzo de 2025, los masajistas tradicionales, los profesionales de la medicina china, los homeópatas y los quiroprácticos de Malasia ya no pueden abrir las puertas de su clínica sin un único papel — un certificado de registro. La era de «ejercer en nombre de la experiencia» ha terminado.

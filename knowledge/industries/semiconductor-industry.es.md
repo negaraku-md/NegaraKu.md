@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'Una oblea de silicio cuadrada sobre un banco de laboratorio, con su superficie brillando con iridiscencia magenta, rosa y dorada de un recubrimiento de película delgada'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: Un técnico con traje blanco de sala limpia, capucha y mascarilla sostiene una oblea de silicio redonda con una mano enguantada dentro de una sala limpia de semiconductores iluminada de amarillo
+    kind: representative
+    origin: third-party
+    subject: Un técnico vestido con traje de sala limpia sostiene una oblea de silicio en una sala limpia de fotolitografía iluminada de amarillo
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: Un técnico con traje integral blanco de sala limpia, capucha, mascarilla y guantes trabaja en componentes metálicos pulidos en una mesa de trabajo dentro de una sala limpia luminosa
+    kind: representative
+    origin: third-party
+    subject: Un técnico de ensamblaje con traje de sala limpia trabaja en hardware de precisión dentro de una sala limpia
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 Si estás leyendo esto en un teléfono o una computadora portátil, hay una posibilidad real de que uno de sus chips haya pasado parte de su vida en Malasia: no siendo inventado ni impreso, sino transformado de una simple lámina de silicio en un componente terminado y encapsulado, listo para soldar en una placa de circuito. Ese paso silencioso y poco glamoroso es donde Malasia ha construido una de las posiciones más decisivas de todo el mundo de la electrónica.

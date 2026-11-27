@@ -29,7 +29,7 @@ faq:
     a: "Normalement non. Les bourses complètes comme celles du JPA et de MARA exigent généralement que les étudiants renoncent au PTPTN pour le même niveau d'études. Vérifiez les termes de l'accord du parrain concerné."
 
 lang: "fr"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: 'Des bâtiments de faculté modernes jaunes et gris d''un campus de l''UiTM à Rembau, une université publique malaisienne, avec des étudiants marchant le long de la voie du campus.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Bâtiments universitaires modernes et terrains paysagers sur le Campus d'ingénierie de l'Universiti Sains Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Campus d'ingénierie de l'Universiti Sains Malaysia, une université publique de recherche malaisienne
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: Des rangées d'étudiants diplômés en toges et coiffes académiques, assis lors d'une cérémonie de remise des diplômes dans une université malaisienne.
+    kind: representative
+    origin: third-party
+    subject: Diplômés en toge lors d'une cérémonie de remise des diplômes dans une université malaisienne (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 Obtenir 9A+ au SPM ne garantit pas automatiquement une bourse complète à l'étranger — car en Malaisie, le parrainage public ne tient pas seulement aux notes, mais aussi au programme auquel vous postulez, aux conditions de service associées, et à la politique qui régit chaque fonds. Comprendre cette carte des parrains importe, car le mauvais choix peut signifier des milliers de ringgit que vous devrez rembourser plus tard.

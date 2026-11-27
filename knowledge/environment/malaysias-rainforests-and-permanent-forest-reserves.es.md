@@ -32,7 +32,7 @@ faq:
     a: "La modificación hace obligatoria una investigación pública antes de que pueda revocarse la declaración de una PFR, y eleva las multas a entre RM20,000 y RM5 millones junto con prisión de entre 7 y 20 años. Entró en vigor en los Territorios Federales el 1 de febrero de 2025."
 
 lang: "es"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,36 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak", "reservas forestales permanentes", "Ley Forestal Nacional 1984", "bosques tropicales de Malasia"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Nubes bajas y niebla desplazándose sobre densas colinas cubiertas de selva tropical sobre un lago tranquilo en Royal Belum, Perak'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: Frondas de palma iluminadas por el sol y denso sotobosque verde a lo largo de un sendero sombreado dentro de la selva primaria de Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Sotobosque de palmas y hojarasca en el suelo de la selva primaria de Taman Negara
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: Colinas onduladas cubiertas de densa selva tropical que se desvanecen en una bruma azul bajo un cielo nublado, vistas desde Bukit Terisek en Taman Negara
+    kind: actual
+    origin: third-party
+    subject: Las colinas boscosas e ininterrumpidas de Taman Negara vistas desde Bukit Terisek
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Una parcela de terreno boscoso en Malasia no está «protegida» simplemente porque esté llena de árboles — su protección comienza el día en que el nombre del terreno aparece en la Gaceta. Sin esa gacetación, el mismo bosque puede ser licenciado para desarrollo en cualquier momento. Este es el fundamento de todo el sistema de Reservas Forestales Permanentes (PFR) de Malasia.

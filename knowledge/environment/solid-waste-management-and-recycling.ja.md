@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 
 status: "published"
 aiAssisted: true
@@ -102,9 +102,35 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
+hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'
+heroAlt: 'マレーシアのジョホールにあるスーパーマーケットの資源回収拠点で、衣類・紙・プラスチック・ガラス・アルミをマレー語で表示した回収箱が並ぶ。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: スランゴール州フル・スランゴールのカンポン・スパカット近くにあるブキット・タガー衛生埋立地
+    kind: actual
+    origin: third-party
+    subject: スランゴール州フル・スランゴールのブキット・タガー衛生埋立地
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: サバ州クダットで地元自治体が運用する市のゴミ収集車
+    kind: actual
+    origin: third-party
+    subject: サバ州クダットの市のゴミ収集車
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 ジョホールでごみを捨てれば、それは連邦政府の仕事になる。同じごみをペナンで捨てれば、それは依然として地方議会の仕事のままだ。これこそが、マレーシアの固形廃棄物管理の中核にある奇妙な点である——堂々たる連邦法でありながら、採用に同意した場所でしか効力を持たないのだ。

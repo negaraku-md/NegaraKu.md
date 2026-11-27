@@ -83,6 +83,13 @@ drinkFacts:
   halal: "Limau, gula dan air, tanpa alkohol, jadi minuman itu sendiri halal. Jaminan halal melekat pada premis, jadi pengunjung yang memerlukan pensijilan patut menyemak setiap gerai."
   served: "Dihidangkan sejuk atas ais, diperah segar; pesan 'kurang manis' untuk kurang manis. Pesan ia biasa, atau sebagai limau asam boi dengan plum masam kering dan secubit garam. Berbeza daripada teh O ais limau, iaitu teh limau ber-ais."
   where: "Terdapat di gerai mamak, kopitiam dan gerai minuman di seluruh negara — salah satu minuman penyejuk harian paling kerap dipesan."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Segelas air limau ais dengan ulas limau segar, dilihat dari atas"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 Minta minuman sejuk di hampir mana-mana gerai mamak Malaysia dan satu jawapan tidak

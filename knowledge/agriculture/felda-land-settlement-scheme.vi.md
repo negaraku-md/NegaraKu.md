@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (nay là FGV Holdings) là cánh tay đầu tư quản lý các đồn điền của FELDA. Nó được niêm yết tại Bursa Malaysia vào ngày 28 tháng 6 năm 2012 và tại thời điểm IPO quản lý khoảng 500,000 hecta được canh tác bởi khoảng 112,600 người khai hoang."
 
 lang: "vi"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
-related: []
+related: ["palm-oil-industry", "rubber-industry", "agricultural-subsidies-farm-input-support"]
 keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holdings", "Akta Tanah 1960", "kemiskinan luar bandar"]
 framework: profile
+hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'
+heroAlt: 'Một cổng vòm bên đường đánh dấu lối vào khu định cư đất FELDA Ayer Hitam ở Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: Một con đường yên tĩnh viền hàng cọ hoàng gia và nhà của người định cư trong chương trình FELDA Bukit Batu, Kulai, Johor
+    kind: actual
+    origin: third-party
+    subject: Những ngôi nhà của người định cư dọc con đường rợp bóng cọ ở FELDA Bukit Batu, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: Nhà máy dầu cọ Fajar Harapan với những ống khói của nó trong khu phức hợp định cư FELDA Sahabat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Nhà máy dầu cọ Fajar Harapan trong khu phức hợp FELDA Sahabat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 Hãy hình dung một gia đình nghèo được chuyển đến một khu rừng vừa mới chặt hạ, được cấp một mảnh đất và một khoản tiền công hằng tháng, rồi được yêu cầu chờ nhiều năm cho đến khi cây cao su hoặc dầu cọ của họ cho thu hoạch. Đó là lời chào mời đã thay đổi cuộc sống của hơn 100,000 gia đình nông thôn Malaysia — và động cơ của nó là FELDA.

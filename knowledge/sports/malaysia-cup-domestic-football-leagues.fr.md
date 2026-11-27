@@ -31,7 +31,7 @@ faq:
     a: "La MFL a déplacé le calendrier pour l'aligner sur le format de l'AFC. La nouvelle saison a commencé en mai 2024 et s'est terminée en avril 2025, en tenant compte de la Coupe d'Asie de l'AFC, des qualifications pour la Coupe du monde 2026 et du mois de Ramadan."
 
 lang: "fr"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'Des supporters de football de Perak vêtus de jaune remplissent les tribunes du stade lors d''un match de la Coupe de Malaisie 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: Des joueurs se disputant le ballon lors de la demi-finale de la Malaysia Cup 2012 entre Kelantan et Selangor.
+    kind: actual
+    origin: third-party
+    subject: Une demi-finale de la Malaysia Cup 2012 entre Kelantan et Selangor
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: Vue des gradins et de la pelouse à l'intérieur du Stadium Sultan Ibrahim à Iskandar Puteri, dans le Johor.
+    kind: actual
+    origin: third-party
+    subject: L'intérieur du Stadium Sultan Ibrahim, antre d'un grand club du championnat malaisien
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 Pendant près d'un siècle, un seul organisme — l'Association de football de Malaisie (FAM) — a organisé chaque match de la ligue nationale. Puis, dans un mouvement qui a remodelé ce sport, le pouvoir de diriger les ligues fut confié à une entreprise commerciale. C'est le fondement du fonctionnement du football interne malaisien aujourd'hui.

@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "558a5f369fe484be"
+sourceContentHash: "5fd8b96b4adf97fb"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,34 @@ relations:
 related: ["income-tax-act-1967", "which-tax-form", "company-tax-calendar", "e-invoicing"]
 keywords: ["LHDN", "Lembaga Hasil Dalam Negeri", "Inland Revenue Board Malaysia", "MyTax", "MyInvois"]
 framework: profile
+hero: '/media/government/lhdn/hero.webp'
+heroAlt: 'サバ州サンダカンの明るい青空を背にした、大きく張り出した曲線的な片持ち屋根と、三角のHasilロゴのそばにWISMA HASILと記す青い看板をもつ近代的なオフィスビル'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Wisma-Hasil-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Hasil, the Inland Revenue Board of Malaysia (LHDN / Lembaga Hasil Dalam Negeri) office in Sandakan, Sabah'
+
+images:
+  - role: scene
+    src: /media/government/lhdn/body-1.webp
+    alt: 青緑のガラス張りの高層オフィスタワー。入口の上の臙脂色の基壇にHASILとLembaga Hasil Dalam Negeriの標示を掲げ、サラワク州クチンの通りから見える
+    kind: actual
+    origin: third-party
+    subject: サラワク州クチンにある内国歳入庁（LHDN／Lembaga Hasil Dalam Negeri）のタワー
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inland_Revenue_Board,_Kuching.jpg
+  - role: scene
+    src: /media/government/lhdn/body-2.webp
+    alt: 白とターコイズのガラス張りの高層オフィスビル。屋根近くに青いHASILのワードマークを掲げ、サバ州コタキナバルの並木道の上にそびえる
+    kind: actual
+    origin: third-party
+    subject: サバ州コタキナバルにあるマレーシア内国歳入庁（LHDN）のビル、Wisma Hasil
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Wisma-Hasil-01.jpg
 ---
 
 ## 概要

@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 
 status: "published"
 aiAssisted: true
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: '世界レベルのダイビングよりも、ビーチ、免税ショッピング、そしてUNESCOジオパーク——SkyCabケーブルカー、SkyBridge、マングローブの島巡り——を求める、初めての訪問者、家族連れ、多様な関心を持つ旅行者に。'
+  getThere: 'Langkawi International Airport（LGK）に飛ぶか、本土側のKuala KedahとKuala Perlisの桟橋から旅客フェリーでKuah Jettyへ渡る。'
+  permit: 'Langkawiの免税価格は島内でのみ適用され、本土へ持ち帰る品物はマレーシアの国の旅行者免税枠の対象となり、これは資格を得る最低滞在期間を定め、免税で持ち帰れる酒類、たばこ、土産物の量に上限を設ける。'
+  watch: '持ち帰る免税の酒類を買いすぎないこと——安い価格は島で楽しむためのものであり、本土では限られた免税枠しか税関を通れない。'
+  next: '現在のフェリーの時刻はフェリー運航会社に、免税枠はRoyal Malaysian Customs Department（RMCD）に確認すること。'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'アンダマン海の上、ジャングルに覆われた山頂の間に高く吊り下げられた、湾曲したランカウイ・スカイブリッジ'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: ターコイズブルーの海のそばのパンタイ・チェナンの白砂を縁取るヤシの木と黒い岩、上空にはパラセーリング
+    kind: actual
+    origin: third-party
+    subject: ヤシの木とターコイズブルーの海のあるパンタイ・チェナンのビーチ
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: ランカウイ島で、マリーナとターコイズブルーの入り江を見下ろす深い熱帯雨林の上を滑る、赤いスカイキャブのゴンドラ
+    kind: actual
+    origin: third-party
+    subject: ジャングルとマリーナの上を行くランカウイ・スカイキャブのケーブルカー
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 99の島々、魚類よりも古い岩石、安いウイスキー、そして推定5.5億年超の岩石でできた山の斜面から吊り下げられたケーブルカー——ランカウイは、マレーシア北西端の沖にあるこの一つの群島に、並外れて多くのものを詰め込んでいます。それはこの国の旗艦とも言える西海岸の休暇の島であり、半島の反対側にあるヤシに縁取られたダイビングの島々とはほとんど逆の論理で成り立っています。本ガイドは、出かける前に本当に大切なことを扱います：人がつまずく免税ルール、風景に背景の物語を与えるユネスコ・ジオパーク、スカイキャブとスカイブリッジ、行く価値のあるボートツアー、そしてランカウイと東海岸のどちらを選ぶか、です。

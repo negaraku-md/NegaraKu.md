@@ -31,7 +31,7 @@ faq:
     a: "بعد تأجيلين، تسري على المشغّلين الكبار والمتوسطين اعتباراً من 30 ديسمبر 2026، وعلى المنشآت المتناهية الصغر والصغيرة اعتباراً من 30 يونيو 2027. وتاريخ قطع إزالة الغابات هو 31 ديسمبر 2020."
 
 lang: "ar"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "زيت النخيل المستدام", "sustainable palm oil", "MS 2530:2022", "MPOCC", "العمل القسري", "forced labour", "إزالة الغابات", "deforestation", "اعتماد زيت النخيل", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'مزرعة نخيل زيت مرتّبة حسنة الإدارة تمتد عبر أرض خضراء متموّجة تحت سماء ساطعة في منطقة ميرسينغ، جوهور'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: عاملا مزرعة بأحذية طويلة يقفان بجانب أشجار نخيل الزيت، أحدهما يحمل عنقود ثمار مقطوعاً حديثاً على منجل حصاد، في Kimanis، صباح
+    kind: actual
+    origin: third-party
+    subject: عمّال مزرعة مع عنقود ثمار طازج محصود في مزرعة نخيل زيت في Kimanis، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: صفوف منتظمة من شتلات نخيل الزيت الصغيرة تنمو في أكياس بلاستيكية سوداء في مشتل مزرعة في Sungai Mangis، صباح
+    kind: actual
+    origin: third-party
+    subject: شتلات نخيل الزيت المرباة في أكياس بلاستيكية في مشتل تجاري في Sungai Mangis، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 صارت شحنة زيت نخيل ماليزية واحدة اليوم مضطرّةً إلى الإجابة أمام ثلاثة كتب قواعد مختلفة في آنٍ واحد: مخطّط وطني إلزامي في الداخل، ونادي مشترين طوعي في قاعة مجلس الإدارة، وقانون أوروبي لإزالة الغابات قادر على منعها عند الميناء. وبالنسبة لصناعة شحنت 22.30 مليون طن من زيت النخيل والمنتجات القائمة على النخيل في الأشهر العشرة الأولى من 2024 وحدها — محقّقةً RM89.39 مليار — لم تعد الأوراق شكليةً. إنها نفاذ إلى السوق.

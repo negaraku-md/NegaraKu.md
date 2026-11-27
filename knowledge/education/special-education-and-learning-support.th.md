@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้ปกครองและผู้ดูแลเด็กในมาเลเซียที่มีความพิการหรือความยากลำบากในการเรียนรู้ที่ได้รับการวินิจฉัย ซึ่งพยายามหาว่าการจัดที่เรียนและขั้นตอนการขึ้นทะเบียนใดที่เกี่ยวข้อง"
 
 lang: "th"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -61,9 +61,35 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive education", "OKU card children", "sekolah pendidikan khas", "learning disability support Malaysia", "special education curriculum Malaysia", "TASKA OKU"]
 framework: explainer
+hero: '/media/education/special-education-and-learning-support/hero.webp'
+heroAlt: 'ภาพหมู่ของครูและผู้ช่วยดูแลนักเรียนของโครงการบูรณาการการศึกษาพิเศษ (PPKI) ที่โรงเรียนมัธยมมาเลเซีย SMK Taman Universiti'
+heroCredit: 'Pendidikan khas smk taman universiti / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: ทางเข้าและซุ้มต้อนรับของ SK Pendidikan Khas Batu Pahat โรงเรียนประถมการศึกษาพิเศษของรัฐในรัฐยะโฮร์ มีป้ายภาษามลายูที่ประตู
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนการศึกษาพิเศษแห่งชาติของมาเลเซีย
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: อาคารเรียนไม้ชั้นเดียวของโรงเรียนประถมรัฐบาลในชนบทที่เปินเซียงัน รัฐซาบะฮ์ ตั้งอยู่โดยมีเนินเขาที่ปกคลุมด้วยป่าเป็นฉากหลัง
+    kind: representative
+    origin: third-party
+    subject: อาคารโรงเรียนประถมรัฐบาลมาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 การวินิจฉัยเป็นเพียงบทสนทนาแรก บทสนทนาที่สอง — ซึ่งมักน่าสับสนกว่า — คือสายโรงเรียนใดที่บุตรของคุณจะเข้าจริง ๆ และเหตุใดบัตร OKU จึงดูเหมือนสำคัญก่อนโรงเรียน ระบบของมาเลเซียมีสามสายในโรงเรียนรัฐบาล กระบวนการขึ้นทะเบียนความพิการที่แยกต่างหากซึ่งป้อนเข้าสู่ทั้งสามสาย และโลกคู่ขนานของการบำบัดของเอกชนและ NGO ที่ผู้ปกครองส่วนใหญ่ค้นพบด้วยการบอกต่อมากกว่าจากหน้าเว็บทางการหน้าใดหน้าหนึ่ง

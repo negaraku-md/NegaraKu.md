@@ -43,7 +43,7 @@ sources:
     publisher: "Nyonya Cooking"
 
 lang: "fr"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,34 @@ drinkFacts:
   halal: "Fruit confit ; les boissons à l'asam boi sont du fruit, du sucre et de l'eau sans alcool, de sorte qu'elles sont halal en elles-mêmes. La garantie porte sur l'établissement pour une boisson de stand, ou sur la marque de certification d'un produit emballé — cherchez-la plutôt que de présumer."
   served: "Le plus classiquement en limau asam boi — citron vert calamansi avec sirop de prune aigre, sur glace, avec quelques morceaux de prune et parfois une pincée de sel. Ajouté aussi aux sodas (Sprite asam boi) et au Ribena. Mangé seul comme en-cas également."
   where: "On le trouve aux comptoirs de boissons mamak et kopitiam, aux étals de hawker et dans les boutiques de produits secs à travers le pays ; l'asam boi emballé se vend dans les supermarchés et les épiceries."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'Un plat de prunes séchées et confites brunes, ridées et givrées de sel, appelées asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: Gros plan sur deux prunes séchées confites, ridées et enrobées de sel
+    kind: actual
+    origin: third-party
+    subject: gros plan sur deux prunes confites salées (buay khem / asam boi)
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: Un bol en verre transparent rempli de prunes séchées confites givrées de sel
+    kind: actual
+    origin: third-party
+    subject: un bol de prunes séchées confites salées (buai khem / asam boi)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 Certaines saveurs sont difficiles à oublier, et l'**asam boi** en fait partie : une

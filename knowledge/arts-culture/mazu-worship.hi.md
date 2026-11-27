@@ -29,7 +29,7 @@ faq:
   - q: "माज़ू की पूजा ताओ धर्म मानी जाए या बौद्ध धर्म?"
     a: "माज़ू मुख्यतः ताओ धर्म और चीनी लोक-मान्यताओं के दायरे में आती हैं, और प्रायः अन्य देवताओं के साथ प्रतिष्ठित की जाती हैं; कुछ बौद्ध संदर्भों में भी माज़ू की उपासना देखी जा सकती है। व्यवहार में अनेक चीनी ताओ धर्म, बौद्ध धर्म और लोक-मान्यताओं में कठोर भेद नहीं करते, जो मलेशियाई चीनियों की आस्थाओं के प्रायः परस्पर घुलमिल जाने की स्थिति के अनुरूप है। यह लेख केवल आस्था की परिघटना का वर्णन करता है और उसके धार्मिक अर्थ पर निर्णय नहीं देता।"
 lang: "hi"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["chinese-religion-in-malaysia", "tua-pek-kong", "chinese-clan-associations", "nine-emperor-gods-festival", "buddhism-in-malaysia"]
 keywords: ["妈祖", "天后", "天上圣母", "天后宫", "乐圣岭天后宫", "海南会馆", "妈祖诞", "林默娘", "海神", "马来西亚妈祖信仰", "Mazu", "Tian Hou", "Thean Hou Temple"]
 framework: history-culture
+hero: '/media/arts-culture/mazu-worship/hero.webp'
+heroAlt: 'कुआलालंपुर में थियान होउ मंदिर, जिसकी स्तरित छत से सैकड़ों लाल लालटेनें झरनों की तरह लटकी हैं, आँगन में एक ड्रैगन से सजी धूपदानी और मुख्य कक्ष में श्रद्धालु।'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: कुआला तेरेंगानु में एक ऐतिहासिक चीनी Mazu मंदिर की अलंकृत छत और अग्रभाग, जिसकी छत के शिखर पर ड्रैगन की सजावट है
+    kind: actual
+    origin: third-party
+    subject: हो आन कियोंग, कुआला तेरेंगानु में एक Mazu (तियान होउ, समुद्र की देवी) मंदिर, तेरेंगानु के सबसे पुराने चीनी मंदिरों में से एक
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: जॉर्ज टाउन में एक हैनानी Mazu मंदिर का मुख्य वेदी-कक्ष, जहाँ लटकते लालटेन, अगरबत्ती और सुनहरे मंदिर-साज हैं
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में हैनान मंदिर (Tokong Hainan) की भीतरी वेदी, समुद्र-देवी Mazu का सम्मान करने वाला एक मंदिर
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 कुआलालंपुर में रॉब्सन हाइट्स (Robson Heights) की एक छोटी पहाड़ी पर, लाल खंभों और चमकीली खपरैल वाला एक छह-मंज़िला मंदिर शहर की ओर मुँह किए खड़ा है — यही है थियान होउ मंदिर, जो चीनी जगत की सबसे प्रसिद्ध समुद्र-देवी माज़ू को समर्पित है। पहले, समुद्री मार्ग से दक्षिण आए चीनी समुद्र पार करने से पहले और बाद में कुशल-क्षेम के लिए उनसे प्रार्थना करते थे; आज यह एक ओर भक्तों के धूप-अर्पण का मंदिर है, तो दूसरी ओर हाइनान के समकाकीय लोगों के मिलन का स्थल और पर्यटकों के फ़ोटो खिंचवाने की जगह भी।

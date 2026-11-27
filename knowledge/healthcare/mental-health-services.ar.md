@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل من في ماليزيا — مواطناً كان أو مقيماً أو زائراً — ممن يقلق على صحته النفسية أو صحة شخص آخر، ويريد أن يعرف بشكل ملموس من أين يبدأ: عيادة، أو مستشفى، أو ممارس خاص، أو منظمة غير حكومية، أو خط مساعدة."
 
 lang: "ar"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,32 @@ relations:
 related: ["klinik-kesihatan", "how-malaysian-healthcare-works", "private-hospitals-and-costs", "emergencies-999"]
 keywords: ["خدمات الصحة النفسية ماليزيا", "Talian HEAL 15555", "Talian Kasih 15999", "Befrienders Malaysia", "عيادة MENTARI ماليزيا", "مستشفى نفسي ماليزيا", "MMHA Malaysian Mental Health Association", "الإرشاد النفسي ماليزيا", "أين تجد المساعدة النفسية في ماليزيا", "Mental Health Act 2001 Malaysia"]
 framework: explainer
+hero: '/media/healthcare/mental-health-services/hero.webp'
+heroAlt: 'ملصق لليوم العالمي للصحة النفسية مع شريط التوعية الأخضر ورسالة لإنهاء الوصمة، وهو رمز صحّي عام محترم للصحة النفسية.'
+heroCredit: 'Dr Partha Sarathi Sahana / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: غرفة استشارة هادئة ومرحِّبة بها ثلاثة مقاعد وثيرة حول طاولة صغيرة ونبتة، دون وجود أشخاص
+    kind: representative
+    origin: third-party
+    subject: غرفة استشارة هادئة مهيّأة للعلاج بالحديث، بمقاعد وثيرة ومفروشات ناعمة
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: واجهة مستشفى حكومي ماليزي للأمراض النفسية والصحة النفسية في Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Hospital Permai في Johor Bahru، مستشفى حكومي ماليزي للصحة النفسية
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 كثيراً ما يكون قرار طلب المساعدة هو الجزء الأصعب. أما تبيّن *أين* تطلبها فهو الجزء الذي لا يكاد يشرحه أحد — وتلك الفجوة وحدها تمنع الناس من إجراء المكالمة أصلاً.

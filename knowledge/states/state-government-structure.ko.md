@@ -70,6 +70,13 @@ relations:
 related: ["rulers-and-governors", "state-assemblies-dun", "kabinet-perdana-menteri", "three-tiers-of-government", "federal-state-division", "sabah-sarawak-safeguards"]
 keywords: ["state government Malaysia", "Menteri Besar", "Chief Minister Malaysia", "State Executive Council", "EXCO", "Dewan Undangan Negeri", "state assembly Malaysia", "Yang di-Pertua Negeri", "Eighth Schedule", "Ninth Schedule", "State List", "Federal Constitution Malaysia"]
 framework: explainer
+hero: '/media/states/state-government-structure/hero.webp'
+heroAlt: '사바 주의회 의사당의 하얀 돛 모양 푸른 유리 외벽이 야자수와 잘 손질된 정원에 둘러싸여 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Dewan-Undangan-Negeri-Sabah-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 이스타나 느가라(Istana Negara)를 걷어내고, 총리의 이름을 바꾸고, 의회를 하나의 의사당으로 축소하면 — 여러분은 말레이시아 주(州) 정부를 보고 있는 것입니다. 13개 주(州) 모두가 연방 제도의 축소된 사본으로 운영됩니다: 통치하지 않으면서 군림하는 원수, 다수를 확보할 수 있어 선출되는 정부 수반, 선출된 의원들에게 집단으로 책임지는 행정위원회, 그리고 해산되어 유권자에게 돌려보내질 수 있는 입법부입니다. 칭호는 주(州)마다 바뀝니다. 설계도는 바뀌지 않습니다.

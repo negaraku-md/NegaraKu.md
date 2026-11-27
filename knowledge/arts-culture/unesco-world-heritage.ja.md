@@ -30,7 +30,7 @@ faq:
     a: "有効である。世界遺産センターは、マレーシアの暫定リストに三つの資産を記録している——半島マレーシアの国立公園（タマン・ネガラ）、ゴンバ・セランゴール石英岩尾根、そしてスンガイ・ブロー・ハンセン病療養所である。暫定リストへの掲載は推薦の意図の表明であり、登録そのものではない。"
 
 lang: "ja"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -90,6 +90,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "George Town Melaka inscription criteria", "Gunung Mulu World Heritage", "Lenggong Valley Perak Man", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'ムラカの深いテラコッタ色のオランダ時代のスタダイスの建物と四角い時計塔。赤と緑の植栽のロータリーに囲まれ、手前に道案内の標識、明るい曇り空の下'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: ペナン、ジョージタウンの狭い歴史的な通り。赤い提灯を吊るした古い2階建ての店舗兼住宅と「Batik Painting Museum」の看板が並び、右手には青い「Lebuh Armenian」の通り標識があり、黄色い横断歩道のある静かな道が続く
+    kind: actual
+    origin: third-party
+    subject: ユネスコ世界遺産の一部である、ペナンのジョージタウン歴史地区のレブー・アルメニアン（アルメニアン・ストリート）
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: サバ州のキナバル山の灰色の花崗岩の巨塊。森に覆われた山裾の上にギザギザの稜線がそびえ、手前には澄んだ青空の下、緑豊かな木々と草の斜面がある
+    kind: actual
+    origin: third-party
+    subject: ユネスコ世界遺産であるサバ州のキナバル公園の上にそびえるキナバル山
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 マレーシアにいくつの世界遺産があるかと尋ねれば、多くの情報源は「四つ」と答えるだろう。それは2024年までは正しかった。ニア洞窟群は同年7月に登録され、Forest Research Institute Malaysia Forest Park Selangorが2025年にこれに続き——合計は六件となった。

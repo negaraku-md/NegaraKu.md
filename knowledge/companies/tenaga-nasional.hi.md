@@ -30,7 +30,7 @@ faq:
     a: "TNB राष्ट्रीय ग्रिड नेटवर्क का स्वामित्व एवं संचालन करती है, जिसे नवीकरणीय ऊर्जा को आत्मसात करने के लिए उन्नत किया जाना चाहिए, जो राष्ट्रीय ऊर्जा संक्रमण रोडमैप (NETR) के लक्ष्यों के अनुरूप है।"
 
 lang: "hi"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,9 +77,37 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-commission-suruhanjaya-tenaga", "glc-dominance-malaysian-economy"]
 keywords: ["Tenaga Nasional Berhad", "TNB", "बिजली उपयोगिता", "utiliti elektrik", "राष्ट्रीय ग्रिड", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: 'केनयिर बाँध के धूसर पत्थर-भराव तटबंध का हवाई दृश्य, जिस पर विशाल सफ़ेद शब्द KENYIR अंकित है, उसके आधार पर जलविद्युत केंद्र और संचरण लाइनें और पीछे फैली केनयिर झील'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: Bangsar, कुआलालंपुर में Tenaga Nasional Berhad मुख्यालय, एक ऊँचा धूसर कार्यालय ब्लॉक जिसकी छत पर लाल TNB लोगो और शहर की क्षितिज-रेखा के ऊपर प्रकाशित 'TENAGA NASIONAL' साइन है
+    kind: actual
+    origin: third-party
+    subject: Bangsar, कुआलालंपुर में Tenaga Nasional Berhad मुख्यालय इमारत
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: Klang में Connaught Bridge Power Station, एक लंबा लाल-ईंट का बिजलीघर जिसकी एक ऊँची लाल-और-सफ़ेद धारीदार चिमनी चमकीले नीले आसमान के नीचे है
+    kind: actual
+    origin: third-party
+    subject: Klang, सेलांगोर में TNB का Connaught Bridge Power Station
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 प्रायद्वीप में आपके घर में हर बार जब रोशनी जलती है, तो बहुत संभावना है कि बिजली एक ही कंपनी के स्वामित्व वाले तारों से बह रही हो: Tenaga Nasional Berhad। यह देश की सबसे बड़ी बिजली उपयोगिता है, जिसके 30 सितंबर 2025 तक प्रायद्वीपीय मलेशिया, Sabah और Labuan में 1.1 करोड़ से अधिक ग्राहक हैं।

@@ -28,7 +28,7 @@ faq:
     a: "आधिकारिक पैमाने के तहत किराया शुल्क किराया अवधि के आधार पर सकल किराए का 1.25 से 1.75 महीने है (न्यूनतम शुल्क 1 महीने के किराए के साथ); इसे कौन वहन करता है यह पक्षों के बीच सहमति का मामला है।"
 
 lang: "hi"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -66,9 +66,35 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["संपत्ति एजेंट", "REN", "LPEPH", "BOVAEP", "एजेंट कमीशन", "किराया शुल्क", "संपत्ति निगोशिएटर", "property agent Malaysia"]
 framework: explainer
+hero: '/media/property/property-agents-and-fees/hero.webp'
+heroAlt: 'जोहोर के बाटू पाहात में तामन सोगा सुतेरा परियोजना के नाम-पट्ट के पीछे आधुनिक अर्ध-सम्बद्ध मकान।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: Taman Sri Serdang आवासीय कॉलोनी के प्रवेश को चिह्नित करता एक सड़क-किनारे का साइनबोर्ड
+    kind: representative
+    origin: third-party
+    subject: Taman Sri Serdang, Seri Kembangan, सेलांगोर में एक आवासीय कॉलोनी का साइनबोर्ड
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: क्लुआंग, जोहोर में Jalan Anggerik पर एक सामने के आँगन और एक ताड़ के पेड़ वाला एक-मंज़िला उपनगरीय मकान
+    kind: representative
+    origin: third-party
+    subject: क्लुआंग, जोहोर में एक आवासीय गली पर एक उपनगरीय भू-स्वामित्व वाला मकान
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 उस एजेंट के सीने पर लगे बैज की संख्या कोई सजावट नहीं है — यह एक वैध निगोशिएटर को ऐसे किसी व्यक्ति से अलग पहचानने का एकमात्र त्वरित तरीका है जो महज़ एजेंट होने का दावा करता है। मलेशिया में, कौन आपकी ओर से संपत्ति बेच, किराए पर दे या उस पर बातचीत कर सकता है, यह कानून द्वारा कड़ाई से नियंत्रित है।

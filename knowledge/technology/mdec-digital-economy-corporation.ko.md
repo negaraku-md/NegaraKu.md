@@ -27,7 +27,7 @@ faq:
   - q: "MDEC은 MSC Malaysia와 같은 것입니까?"
     a: "아닙니다. MDEC은 기관이고, MSC Malaysia는 그 이전 프로그램이었습니다. MSC Malaysia는 Malaysia Digital로 리브랜딩되었으며, MD 스테이터스는 종전의 MSC Malaysia 스테이터스의 후신입니다."
 lang: "ko"
-sourceContentHash: "4aca195eadff6ca3"
+sourceContentHash: "96a1d305a50a0c27"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,9 +65,37 @@ sources:
 entity: "Malaysia Digital Economy Corporation (MDEC)"
 wikidata: "Q279453"
 relations: []
-related: []
+related: ["digital-economy-overview", "ministry-of-digital-malaysia", "mdec-digital-status"]
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
+hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'
+heroAlt: '말레이시아의 기술 회랑 사이버자야의 항공 파노라마, 사무 건물과 고속도로, 초록 조경을 보여주는 모습'
+heroCredit: 'Vimobe / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cyberjaya_Aerial.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Cyberjaya, the Malaysian tech corridor where MDEC is headquartered'
+
+images:
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-1.webp
+    alt: 사이버자야의 조경된 연못과 분수 옆에 'MSC Headquarters, Multimedia Development Corporation'이라고 쓰인 안내판
+    kind: actual
+    origin: third-party
+    subject: 사이버자야의 MSC Headquarters / Multimedia Development Corporation(MDEC의 전신) 안내판
+    credit: Dunhill1410 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya1dunhill1410.jpg
+  - role: scene
+    src: /media/technology/mdec-digital-economy-corporation/body-2.webp
+    alt: 사이버자야 도로변 공원에 있는, 회로 기판 무늬가 들어간 'Cyberjaya Malaysia'라고 쓰인 커다란 빨간 조형 글자 C
+    kind: representative
+    origin: third-party
+    subject: 사이버자야 도로변 공원의 'Cyberjaya Malaysia' 조형 랜드마크 표지
+    credit: Vimobe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cyberjaya_Signage.jpg
 ---
 
 "Malaysia Digital Status"를 검색하면 거의 모든 결과가 신청 대행 서비스를 파는 컨설팅 업체이며, 대부분은 세 개의 별개 사안을 하나로 뭉갭니다. **기관**(MDEC), 그것이 부여하는 **지위**(MD 스테이터스), 그리고 훨씬 까다로운 요건을 가진 완전히 별개의 신청인 **세제 인센티브**가 있습니다. 이들을 구분하는 것이 1,000 링깃 기준과 5만 링깃 기준의 차이를 가릅니다. 여기에 각 층을 1차 출처로 정리합니다.

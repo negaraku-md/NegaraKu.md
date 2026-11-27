@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم كيفية لعب الغاسينغ، والفرق بين «غاسينغ بانغكاه» و«غاسينغ أوري»، وصلته بتراث الساحل الشرقي."
 
 lang: "ar"
-sourceContentHash: "fc40c99c7c7666a6"
+sourceContentHash: "abee4c38ff887960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,34 @@ relations:
 related: ["wau", "kelantan", "terengganu"]
 keywords: ["gasing", "الغاسينغ", "gasing uri", "gasing pangkah", "الألعاب التقليدية الملايوية", "التراث الوطني", "Kuala Nerus", "gasing Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/gasing/hero.webp'
+heroAlt: 'نَوّارتا غاسينغ ملايويتان قرصيّتا الشكل من الخشب المطلي بالأحمر، كل منهما ملفوفة بإحكام بحبل إطلاق أبيض، على صندوق أسود منحوت وقماش باتيك بنفسجي وذهبي زاهٍ، مع غاسينغ أثقل عادية بجانبهما'
+heroCredit: 'Rulwarih / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hari_Terbuka_Parlimen_Malaysia_20260912_13.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'red-lacquered Malay gasing spinning tops wound with cord, displayed on batik cloth at a Malaysian cultural showcase'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gasing/body-1.webp
+    alt: دوّامتان خشبيتان فاتحتا اللون حديثتا الخراطة من نوع الغاسينغ بجسم قرصي مسطح تقليدي ونتوء مركزي بارز، ملقاتان على فراش من نشارة الخشب بجانب مقابضهما الأسطوانية الملساء للإطلاق تحت ضوء شمس دافئ
+    kind: actual
+    origin: third-party
+    subject: دوّامتا غاسينغ ماليزيّتان جديدتان مخروطتان خشبياً مع أوتاد الإطلاق الخاصة بهما
+    credit: Steven from Dallas, Texas, USA / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gasing.jpg
+  - role: scene
+    src: /media/arts-culture/gasing/body-2.webp
+    alt: صبي يرتدي بذلة رياضية برتقالية ينحني إلى الأمام وهو يقذف دوّامة من حبل أبيض طويل على لوح خشبي، بينما تدور دوّامة أخرى بالفعل على اللوح وحشد من المتفرجين يراقب عن كثب خلفه
+    kind: representative
+    origin: third-party
+    subject: متسابق صغير يُطلق الغاسينغ بواسطة حبله في مسابقة تقليدية للدوّامات
+    credit: Muhammad Iqbal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mengadu_Gasing_Tradisional.jpg
 ---
 
 الصوت يصل أولاً — خشب ثقيل يضرب خشباً ثقيلاً، تتبعه هتافات. في ساحة قرية حول كوالا نيروس (Kuala Nerus) بترينغانو، تقف مجموعتان متواجهتين. يقذف لاعب نحلته بحبل؛ وأخرى تدور بالفعل، منتظِرةً على الأرض. والفائز ليس الأسرع — بل من تبقى نحلته دائرةً بعد الضربة.

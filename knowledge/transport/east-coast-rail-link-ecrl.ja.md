@@ -37,7 +37,7 @@ faq:
     a: "両方です。旅客は最高160km/h、貨物は80km/hという貨客両用の路線として設計されています。中心的な狙いの一つは、ポートクランとクアンタンなどの東海岸の港との間で半島を横断して貨物を運ぶランドブリッジとして機能することであり、シンガポールやマラッカ海峡を回る海路に代わる選択肢を提供します。"
 
 lang: "ja"
-sourceContentHash: "40953367b242ede2"
+sourceContentHash: "f8d9f379a1efcc47"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,31 @@ relations:
 related: ["ecer-guide", "kl-singapore-high-speed-rail", "economic-corridors-compared", "logistics-ports-industry"]
 keywords: ["East Coast Rail Link", "ECRL", "Laluan Rel Pantai Timur", "Malaysia Rail Link", "CCCC railway Malaysia", "ECRL cost completion", "Kota Bharu Port Klang rail", "ECER rail"]
 framework: profile
+hero: '/media/transport/east-coast-rail-link-ecrl/hero.webp'
+heroAlt: '車庫の線路に停車する、鼻先にECRLの花のロゴをつけた青と銀のCR200J電車編成。そばに黄色いKTMコミューターの編成'
+heroCredit: 'Oblivionis / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ECRL-CR200J.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-1.webp
+    alt: 緑の丘に掘られた「Terowong 2 Serendah」の双子トンネル坑口。上部にMRL/ECRL事業の横断幕、手前に新しいバラスト軌道が現れる——ティティワンサ山脈を貫いて建設中の路線。記録的なインフラ撮影(2025年)
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_120717.jpg
+  - role: scene
+    src: /media/transport/east-coast-rail-link-ecrl/body-2.webp
+    alt: スンガイ・トゥアで建設中のECRL高架橋——伐採された丘にコンクリート橋脚が立ち、工事用囲いの奥に架設済みの箱桁。トンネルのbody画像や完成した編成のヒーロー画像とは区別される、事業の高架区間段階を示す
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRL_East_Coast_Rail_Link_construction_site_of_Sungai_Tua_20250125_154216.jpg
+wikidata: "Q24896324"
 ---
 
 何十年もの間、クアラルンプールと東海岸の州々との間を最も速く移動する手段は、山越えの長い陸路だった。東海岸鉄道リンクは、ただ一本の線路がそれを変え、その過程でこの国の成長が起きる場所そのものを再配分できる——というマレーシアの賭けである。

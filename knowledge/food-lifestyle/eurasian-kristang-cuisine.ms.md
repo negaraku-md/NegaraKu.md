@@ -87,6 +87,14 @@ verificationNeeded:
   - "Etimologi dan klasifikasi kek sugee (kek perayaan semolina dan mentega; namanya lazim dijejak pada perkataan Asia Selatan bagi semolina dan resipinya dibandingkan dengan kek Madeira British) — sahkan dengan sumber sejarah masakan."
   - "Tahun penubuhan Portuguese Settlement (lazim diberikan sebagai 1933) dan dakwaan bahawa beberapa hidangan rumah seperti pang susi dan hidangan jeroan semakin jarang — sahkan dengan sumber utama atau sumber warisan."
 framework: history-culture
+hero: '/media/food/eurasian-kristang-cuisine/hero.webp'
+heroAlt: 'Sepotong kek suji (semolina) lembap berkerak keemasan di atas pinggan putih dengan garpu'
+heroCredit: 'Jacklee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sugee_cake_at_Food_for_Thought,_Singapore_-_20130615.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'A slice of sugee cake, a semolina-and-almond cake central to Eurasian/Kristang baking'
 ---
 
 Pesan kari di dapur Melayu Melaka, anda akan merasai santan dan serai.

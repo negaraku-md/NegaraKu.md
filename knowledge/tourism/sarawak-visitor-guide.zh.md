@@ -36,7 +36,7 @@ faq:
     a: "两者都有。古晋附近的Annah Rais等地是仍有人居住的比达友族长屋社区，仍有家庭居住其中；而山都望（Santubong）附近的砂拉越文化村则是专门建造的活态博物馆。造访有人居住的长屋最好事先安排，并常常通过一位能够以尊重的方式为你诠释此行的向导进行。"
 
 lang: "zh"
-sourceContentHash: "e445b9a3b39697bf"
+sourceContentHash: "4a16696c2400755b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,9 +89,42 @@ relations:
   - { rel: "related-to", to: "malaysia-agreement-1963" }
   - { rel: "related-to", to: "malaysia-entry-requirements" }
   - { rel: "related-to", to: "sabah-visitor-guide" }
-related: ["sabah-visitor-guide"]
+related: ["sabah-visitor-guide", "kuching-visitor-guide", "gunung-mulu-national-park"]
 keywords: ["Sarawak travel", "Sarawak immigration", "Kuching guide", "Gunung Mulu National Park", "Iban longhouse", "Bidayuh longhouse", "Sarawak entry pass", "Borneo travel"]
 framework: explainer
+visitFacts:
+  bestFor: '适合追求婆罗洲自然与活态达雅（Dayak）文化的旅人，以轻松、可步行的古晋为基地前往实蒙谷（Semenggoh）的半野生红毛猩猩与比达友（Bidayuh）长屋，并以姆鲁（Gunung Mulu）的世界遗产洞穴与雨林作为招牌延伸项目。'
+  getThere: '以古晋为主要枢纽飞抵，而姆鲁（Gunung Mulu）只能搭乘 MASwings 航班（从美里、古晋或亚庇）前往，因为没有通往公园的实际公路。'
+  permit: '砂拉越自行管理移民事务，故每个人——包括从西马来的马来西亚人——抵达时都须通关并获发入境准证（外国人在其马来西亚入境之外另获一枚砂拉越入境章，且多数人须事先在线填报 MDAC），而姆鲁航班及向导带领的洞穴游应提前预订。'
+  watch: '姆鲁的小型飞机常因天气延误或取消，故请预留缓冲日，切勿预订离开公园后衔接紧凑的后续航班。'
+  next: '请向马来西亚移民局（Immigration Department of Malaysia）确认适用于你国籍的当前签证与 MDAC 要求。'
+hero: '/media/tourism/sarawak-visitor-guide/hero.webp'
+heroAlt: '砂拉越姆鲁山国家公园，一片锯齿状的灰色石灰岩尖峰刺破绿色雨林和雾气'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from rainforest on Mount Api, Gunung Mulu National Park'
+images:
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-1.webp
+    alt: 实蒙谷自然保护区茂密的绿色雨林中，一只红毛猩猩攀吊在绳索之间伸手探取
+    kind: actual
+    origin: third-party
+    subject: 古晋附近实蒙谷自然保护区雨林中沿绳索移动的野生红毛猩猩
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orangutan_on_double_ropes_(26515290302).jpg
+  - role: scene
+    src: /media/tourism/sarawak-visitor-guide/body-2.webp
+    alt: 一座架于高脚桩柱上、红色屋顶的长形伊班长屋，背倚砂拉越山坡上的雨林
+    kind: actual
+    origin: third-party
+    subject: 砂拉越林木河岸边架于高脚桩柱上的传统伊班长屋
+    credit: Matthias Bethke / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg
 ---
 
 你可以在不到两小时内从吉隆坡飞抵古晋，全程不曾离开自己的国家，抵达另一端时却仍要通过移民关卡盖章。在到达大厅里的这份意外，正是理解砂拉越最重要的一点：它是一个自设边境的马来西亚州属。

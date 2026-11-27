@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -65,6 +65,32 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: '1963年の街頭風景。着飾られた建物と群衆が、シンガポールで初のマレーシア・デーを祝っている。'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: サバ州Kota Kinabaluのスカイラインを一望するパノラマ。緑の梢の上に高層ビルが立ち並び、その先には海岸線と丘陵が広がる。1963年にマレーシアへ加わったボルネオの州を表す。
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu。サバ州の州都で、1963年にマレーシアを結成するために加わったボルネオの州の一つ
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: サラワク川に沿って延びる、造園されたKuching Waterfrontの遊歩道。川の対岸には旧市街のスカイラインが見える。1963年のサラワクのマレーシア連邦加入を表す。
+    kind: representative
+    origin: third-party
+    subject: サラワク川沿いのKuching Waterfront。サラワクは1963年にマレーシアを結成するために加わった
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 四つの領域が1963年9月16日に一つの国となり、その2年以内に、そのうちの一つはすでに離脱していた。この事実だけでも、1963年の合併が整然とした行政上の手続きではなかったことを物語っている——それは、二つの近隣政府から反対され、成功するとほぼ同時に内部の緊張によって崩れ始めた、争いに満ちた政治的プロジェクトであった。

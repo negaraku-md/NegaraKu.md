@@ -68,6 +68,13 @@ sources:
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["Ismail Sabri Yaakob", "ninth prime minister Malaysia", "Keluarga Malaysia", "MOU stability 2021", "UMNO"]
 framework: profile
+hero: '/media/malaysia/ismail-sabri-yaakob/hero.webp'
+heroAlt: 'நரைத்த முடி கொண்ட Ismail Sabri Yaakob, விளிம்பில்லா கண்ணாடி மற்றும் அடர் நிற சூட் அணிந்து, ஒரு அதிகாரப்பூர்வ வரவேற்பு விழாவில் தலை மற்றும் தோள்பட்டையின் நெருக்கமான உருவப்படத்தில் உள்ளார்.'
+heroCredit: 'U.S. Department of State / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **வரைவு — உணர்திறன் வாய்ந்தது.** இந்தக் கட்டுரை நடுநிலையான, பணியில் இருக்கும்

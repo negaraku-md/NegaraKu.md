@@ -29,7 +29,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -74,6 +74,38 @@ sources:
 entity: "말레이시아의 회계 학습 및 자격 취득 경로"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: '말레이시아에서 회계사가 되는 길을 결정하면서 학위, ACCA, CIMA, 또는 다른 전문 경로를 저울질하는 학생과 경력 전환자를 위한 카드입니다.'
+  how: '먼저 목적지를 정하십시오. 법적으로 전문 회계사가 되는 것은 Accountants Act 1967에 따라 말레이시아 회계사협회(Malaysian Institute of Accountants, MIA)의 회원이 되는 때입니다. MIA에 이르는 길은 세 가지입니다 — 인정받은 학위 + 실무 경력, 인정받은 전문기관(ACCA, CIMA 등) + 실무 경력, 또는 MIA 자격시험(Qualifying Examination) + 실무 경력. ACCA는 감사와 회계사무소 실무, 그리고 전 세계 통용성 쪽에 가깝고, CIMA는 관리회계와 산업계 쪽에 가깝습니다.'
+  cost: '응시료, 시험 과목 수, 그리고 인증받은 학위가 인정받는 면제(exemption)는 모두 인증 주기마다 바뀝니다 — 그러니 제시된 면제 과목 수에 의존하지 말고, 전문기관·학원·대학에서 현재 수치를 직접 합산하십시오.'
+  watch: 'ACCA나 CIMA 자체만으로는 말레이시아 회계사가 되지 않습니다 — MIA 회원 자격이 그렇게 만들며, 자격에 실무 경력을 더한 것이 거기에 이르는 경로입니다. 면제 과목 수는 이 주제에서 가장 자주 바뀌는 사실이니, 프로그램별로 확인하십시오.'
+  next: '자신이 일하고 싶은 분야와 전형적인 진로가 맞는 전문기관을 고르고, 그것이 현재 MIA 회원 자격으로 이어지는지와 어떤 실무 경력이 요구되는지 확인한 뒤, 진입 지점·수학 방식·면제를 최적화하십시오. 대학 등록금 보증금을 내기 전에 글을 참고하십시오.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: '말레이시아 대학교의 강의동 단지로, 「KOMPLEKS DEWAN KULIAH」라고 쓰인 표지판 옆에 적갈색 학술 건물과 지붕 덮인 통로가 있다.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: 말레이시아 한 대학 강의실에 계단식으로 늘어선 좌석으로, 학위 과정과 전문 회계 과정 학생들이 수업을 듣는 부류의 강의실이다.
+    kind: actual
+    origin: third-party
+    subject: 사바대학교의 대형 강의실
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: 말라야대학교 도서관에 조용히 늘어선 개인 열람 책상으로, 학생들이 학위 과정과 ACCA 또는 CIMA 시험을 파고드는 곳이다.
+    kind: representative
+    origin: third-party
+    subject: 말라야대학교 도서관의 열람 책상
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 말레이시아에서 회계사가 되는 법을 고민하는 누구나 약어 수프와 정면으로 마주칩니다. **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** 반드시 하나를 골라야 하는 경쟁 자격의 메뉴판처럼 보입니다. 하지만 **하나의 목적지와 그곳으로 가는 여러 갈래의 길**로 이해하는 편이 낫습니다 — 그리고 일단 목적지를 보고 나면 선택지가 제자리를 찾습니다.

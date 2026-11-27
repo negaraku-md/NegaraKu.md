@@ -48,7 +48,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "64142f66b268b952"
+sourceContentHash: "169d1d1daa288d0f"
 
 status: "published"
 aiAssisted: true
@@ -113,6 +113,34 @@ keywords:
   - "Samalaju Industrial Park"
   - "perniagaan di Sarawak"
 framework: explainer
+hero: '/media/business/sarawak-business-guide/hero.webp'
+heroAlt: 'Sarawak ஆற்றின் கரையில் குடை வடிவ கூரை கொண்ட Sarawak மாநில சட்டமன்றக் கட்டிடம்; நீரில் ஒரு பாரம்பரிய படகு, இடது பக்கம் நகர அலுவலக கோபுரம்'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kuching waterfront, Sarawak — the Sarawak State Legislative Assembly (DUN) on the Sarawak River with a city office tower behind'
+
+images:
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-1.webp
+    alt: கடை-வீடுகள் மற்றும் வணிகங்கள் வரிசையாக நிற்கும் கூச்சிங் நகரத் தெருவின் மேல் நீட்டும் அலங்கார சீன வளைவுவாயில்; நீல வானத்தின் கீழ் கார்கள் மற்றும் ஒரு பாதசாரியுடன்
+    kind: actual
+    origin: third-party
+    subject: சரவாக் மாநிலம் கூச்சிங் நகர வணிகத் தெரு — கடை-வீட்டு வணிகத் தெருவின் மேல் அலங்கார சைனாடவுன் வளைவுவாயில்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_City_(17776143971).jpg
+  - role: scene
+    src: /media/business/sarawak-business-guide/body-2.webp
+    alt: Bintulu LNG துறைமுக துறையின் வான்வழிக் காட்சி; நீலப்பச்சை நீருக்கு மேலே உயரமான வாயு-ஏற்றும் கைகள், குழாய்கள் மற்றும் நங்கூர மேடைகளுடன், தொலைவில் கரையில் சேமிப்புத் தொட்டிகளும் கிரேன்களும்
+    kind: actual
+    origin: third-party
+    subject: சரவாக் மாநிலம் Bintulu LNG துறைமுகம் — கடற்கரையில் வாயு-ஏற்றும் கைகள் மற்றும் சேமிப்புத் தொட்டிகளுடன் கூடிய தொழில்துறை ஏற்றும் துறை
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 இது எப்படிப்பட்ட இடம் என்பதைச் சொல்லும் ஒரு எண்ணுடன் தொடங்குங்கள். சரவாக் **இரண்டு இணையான

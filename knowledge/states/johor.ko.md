@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ko"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
   - { rel: "related-to", to: "melaka-sultanate" }
-related: []
+related: ["iskandar-malaysia-guide", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: '흐린 하늘 아래, 높은 쌍둥이 첨탑과 검은 돔을 갖춘 하얀 빅토리아 양식의 술탄 아부 바카르 주립 모스크.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: 조호르주 동해안의 데사루에서 카수아리나 나무가 늘어선 길고 황금빛 모래 해안선이 남중국해의 잔잔한 파도와 맞닿아 있다.
+    kind: actual
+    origin: third-party
+    subject: 조호르주 데사루 해변
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: 조호르주 동해안 앞바다의 라와섬에서 흰 모래와 맑은 청록빛 얕은 바다가 숲이 우거지고 야자수가 늘어선 해안을 두르고 있다.
+    kind: actual
+    origin: third-party
+    subject: 조호르주 라와섬(Pulau Rawa)
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 조호르(Johor)의 경제는 그 이웃에 의해 규정됩니다. 반도 최남단의 주(州)로서, 조호르 해협 건너 싱가포르와 정확히 마주 보고 있으며, 그 근접성이 노동 시장부터 부동산 개발 전략까지 모든 것을 형성합니다.

@@ -69,9 +69,35 @@ wikidata: "Q6741932"
 relations:
   - { rel: "administered-by", to: "ministry-of-agriculture-and-food-security" }
   - { rel: "related-to", to: "malaysia-rice-industry" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["MARDI", "agricultural research", "rice varieties", "MR 297", "KADARIA", "SMART SBB", "Malaysia agriculture", "padi"]
 framework: profile
+hero: '/media/agriculture/mardi-agricultural-research-institute/hero.webp'
+heroAlt: 'The main entrance gate of the MARDI agricultural research institute in Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: Rows of strawberry plants grown in raised substrate troughs inside a greenhouse in Cameron Highlands
+    kind: representative
+    origin: third-party
+    subject: Protected strawberry cultivation under a greenhouse in Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: Rows of silver-mulched planting beds with young seedlings and greenhouse rain-shelters at the Faculty of Agriculture research farm, Universiti Putra Malaysia
+    kind: representative
+    origin: third-party
+    subject: Crop beds and greenhouses at a Malaysian university agricultural research farm
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 Almost every bowl of local rice in Malaysia traces back to a variety bred in a MARDI field station. Behind the country's padi, poultry, tropical fruit and processed-food shelves sits one federal institute whose job is to turn science into higher yields.

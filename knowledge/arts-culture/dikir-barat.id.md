@@ -19,7 +19,7 @@ keyTakeaways:
   - "Bentuk seni ini dikaitkan dengan tradisi dikir dari Thailand selatan yang disesuaikan di Kelantan dengan penambahan pantun dan dialek Kelantan"
 appliesTo: "Siapa saja yang ingin memahami bentuk pertunjukan Dikir Barat, peran Tukang Karut dan Tok Juara, serta struktur sebuah kelompok."
 lang: "id"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,34 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'Dua pemain dikir barat berkostum hijau-emas dan hiasan kepala tinggi melengkung duduk di lantai melakukan gerakan tangan serempak sambil tersenyum, rebana di lantai di depan mereka dan bunga merah muda di belakang'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: Sederet pemain dikir barat yang duduk berkostum hijau-emas dan berhiasan kepala tinggi bertepuk tangan serentak sambil tersenyum sewaktu pertunjukan malam, dengan gendang tangan rebana di tanah di depan mereka
+    kind: representative
+    origin: third-party
+    subject: Deretan pemain dikir barat yang duduk (awok-awok) bertepuk tangan serentak (tradisi Melayu bersama, Chingay, Singapura)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: Seorang penyanyi utama wanita bernyanyi ke mikrofon sementara sederet pemain pelajar berpakaian hitam dengan ikat kepala merah yang duduk bertepuk tangan serentak, dengan gendang rebana dan gong, di sebuah aula sekolah di Malaysia
+    kind: actual
+    origin: third-party
+    subject: Kelompok dikir barat sekolah dengan penyanyi utama, paduan awok-awok yang bertepuk tangan dan perkusi, Malaysia
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 Dua kelompok duduk bersila berhadapan di atas panggung. Tidak ada skrip. Ketika kelompok pertama selesai berbalas [pantun](/id/arts-culture/pantun) sindiran tentang harga barang yang naik, kelompok kedua hanya punya beberapa detik untuk menyusun balasan — dan balasan itu harus berima, harus tepat waktu, dan kalau bisa, harus lebih tajam daripada pantun asal.

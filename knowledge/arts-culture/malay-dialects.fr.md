@@ -36,7 +36,7 @@ socialTitle: "Parler de Kelantan, dialecte du nord, malais du Sarawak — la div
 lang: "fr"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,32 @@ social:
 verificationNeeded:
   - "Le nombre et les limites des groupes dialectaux varient selon les schémas des dialectologues (quatre ensembles chez Ismail Hussein 1973 ; sept groupes chez Asmah Haji Omar ; listes plus détaillées) et ne font pas pleinement consensus. Le statut du malais standard comme «fondé sur Johor-Riau» ainsi que l'histoire de la politique de prononciation standard par rapport à la prononciation de Johor-Riau sont à vérifier auprès des publications officielles du DBP. Le rapport du dialecte de Negeri Sembilan avec la langue minangkabau (ascendance des migrants par rapport à la proximité linguistique avec le malais standard) et le statut du baba malais comme langue créole restent débattus parmi les chercheurs."
 framework: explainer
+hero: '/media/arts-culture/malay-dialects/hero.webp'
+heroAlt: 'Une maison traditionnelle malaise de Pahang en bois, surélevée sur pilotis, avec un toit de tuiles pentu, une bordure de pignon sculptée et un escalier en bois couvert, posée sur une pelouse verte.'
+heroCredit: 'Orhanghazi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: Rumah Warisan Haji Su, une paire de maisons malaises traditionnelles en bois dans le style de la côte est de Kuala Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Maisons malaises traditionnelles de Terengganu (Rumah Warisan Haji Su), Kuala Terengganu
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: Maisons traditionnelles de Negeri Sembilan aux toits relevés de style minangkabau, exposées dans l'enceinte du musée de l'État à Seremban.
+    kind: actual
+    origin: third-party
+    subject: Maisons traditionnelles de Negeri Sembilan de style minangkabau au Musée de l'État, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Un locuteur de Kota Bharu, un autre d'Alor Setar et un autre de Kuching pourraient tous dire qu'ils parlent le malais — mais lorsqu'ils bavardent de manière décontractée dans leurs villages respectifs, les sonorités peuvent être si différentes qu'il faut un peu d'ajustement pour se comprendre mutuellement. C'est cette différence qu'on appelle dialecte, ou dans le langage courant, loghat.

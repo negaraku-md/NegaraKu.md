@@ -32,7 +32,7 @@ faq:
   - q: "नव-ग्राम किन समकालीन मुद्दों का सामना करते हैं?"
     a: "सामान्य मुद्दों में भूमि-स्वामित्व (कुछ भूखंड स्थायी स्वामित्व के बजाय अस्थायी अधिभोग लाइसेंस / TOL या 99-वर्षीय पट्टा स्वामित्व-पत्र पर रखे गए हैं), बुज़ुर्ग होती आबादी और युवाओं का पलायन, तथा जर्जर बुनियादी ढाँचा शामिल हैं। हाल के वर्षों में नव-ग्रामों को विरासत में सूचीबद्ध करने और भित्ति-चित्रों, खाद्य-मार्गों तथा ग्राम-इतिहास के ज़रिए समुदायों के पुनरुद्धार की पहलें भी सामने आई हैं।"
 lang: "hi"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["population-composition", "chinese-dialects", "chinese-clan-associations", "chinese-education-in-malaysia", "chinese-new-year"]
 keywords: ["华人新村", "新村", "马来亚紧急状态", "毕利斯计划", "Briggs Plan", "马共", "重新安置", "临时地契", "TOL", "Chinese New Villages", "New Villages Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-villages/hero.webp'
+heroAlt: 'मलेशियाई चीनी न्यू विलेज का विशिष्ट एक पुराना एकमंजिला लकड़ी और जस्ते की चादर वाला घर, जिसके सामने एक शांत आवासीय सड़क है और बगल में कारें खड़ी हैं।'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: नेगेरी सेम्बिलान के एक चीनी नए गाँव ब्रोगा में प्रवेश का मार्ग दर्शाता अलंकृत प्रवेश तोरण, पीछे पहाड़ियाँ।
+    kind: actual
+    origin: third-party
+    subject: ब्रोगा नया गाँव का प्रवेश तोरण, नेगेरी सेम्बिलान
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: पेटालिंग जाया के सेरी सेतिया नए गाँव का एक गली का कोना, जहाँ एक चित्रित भित्तिचित्र और लाल चीनी नववर्ष के लालटेन व सजावट हैं।
+    kind: actual
+    origin: third-party
+    subject: सेरी सेतिया नया गाँव में भित्तिचित्र और चीनी नववर्ष की सजावट, पेटालिंग जाया, सेलांगोर
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 आज सेमेनयिह, कम्पार या सेकिनचान (Sekinchan) में क़दम रखिए तो अधिकतर आपको एक साधारण छोटे कस्बे का दृश्य ही दिखेगा: दुकान-मकानों की क़तारें, एक चीनी प्राथमिक विद्यालय, मंदिर और संघ, सड़क किनारे की कॉफ़ी-दुकानें और परचून की दुकानें। पर इनमें से कई जगहें एक साझा पहचान रखती हैं — वे "नव-ग्राम" हैं। इस प्रतीत होने में साधारण नाम के पीछे [मलाया आपातकाल](/hi/malaysia/the-emergency), विद्रोह-दमन और बड़े पैमाने के स्थानांतरण का एक इतिहास छिपा है।

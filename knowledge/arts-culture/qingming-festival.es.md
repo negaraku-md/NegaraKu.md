@@ -33,7 +33,7 @@ faq:
     a: "Quemar papel ceremonial (dinero de papel) y figuras de papel es una forma habitual de honrar a los antepasados, y simboliza el 'envío' de dinero y objetos cotidianos a los mayores para que los usen en el otro mundo; además del dinero de papel y la ropa de papel, las figuras de papel modernas incluyen también casas de papel y coches de papel. Como implica fuego abierto y humo, algunos cementerios y parques conmemorativos designan zonas de quema o establecen normas, y en los últimos años algunas personas han optado por métodos más respetuosos con el medioambiente."
 
 lang: "es"
-sourceContentHash: "7c0c691d6760ea96"
+sourceContentHash: "55495d6785f16052"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Corresponde a «Qingming», uno de los veinticuatro términos solares del calendario lunar; su fecha en el calendario gregoriano es bastante fija y suele situarse en torno al 4 o el 5 de abril; las familias locales suelen repartir las visitas a las tumbas a lo largo de unos diez días antes y después de la fecha."
   holiday: "El Festival de Qingming no es fiesta pública en Malasia y ese día la mayoría de los comercios funcionan con normalidad."
   etiquette: "Dado que quemar papel moneda y ofrendas de papel implica fuego abierto y humo, algunos cementerios y parques conmemorativos delimitan zonas de quema o establecen normas, y en los últimos años también hay quienes optan por métodos más respetuosos con el medio ambiente."
+hero: '/media/arts-culture/qingming-festival/hero.webp'
+heroAlt: 'Una gran tumba china de piedra gris con un recinto curvo en forma de omega y un patio de culto de tejas rojas se encuentra sobre una colina cubierta de hierba en Bukit Cina, Melaka, con una tumba separada del dios de la tierra rematada por una cúpula cerca y un transeúnte caminando entre los árboles'
+heroCredit: 'Richard Horvath / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Cina_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'traditional horseshoe-shaped Chinese ancestral graves on the hillside of Bukit Cina, Melaka, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-1.webp
+    alt: Una mesa de ofrendas ante una tumba dispuesta con pollos enteros al vapor, pescado, cerdo asado, cuencos de arroz blanco con palillos, tazas de té y teteras, con manojos de varillas de incienso rojas clavadas en calabazas y ardiendo frente a un altar de piedra
+    kind: representative
+    origin: third-party
+    subject: una ofrenda de comida e incienso ardiendo dispuesta ante una tumba durante la limpieza de tumbas de Qingming
+    credit: Ubs6u!d-pongsakorn / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Food_offering_qingming.jpg
+  - role: scene
+    src: /media/arts-culture/qingming-festival/body-2.webp
+    alt: Un león guardián de piedra dorada posado sobre un poste de granito de una tumba grabado con caracteres chinos dorados, ante un túmulo funerario cubierto de hierba y un árbol frondoso bajo un cielo nublado en el cementerio chino de Bukit Cina, en Melaka
+    kind: actual
+    origin: third-party
+    subject: un pilar funerario con león guardián dorado grabado con apellidos chinos en el Cementerio Chino (Bukit Cina) de Melaka, Malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-01.jpg
 ---
 
 Una madrugada de principios de abril, por los senderos del cementerio empiezan a aparecer familias enteras. Unos llevan cubos y hoces; otros, cestas repletas de comida cocinada, fruta y dinero de papel. Al encontrar la tumba de su familia, los más jóvenes se ponen a quitar las malas hierbas y a barrer las hojas, mientras los mayores indican cómo repintar, trazo a trazo, los caracteres desvaídos de la lápida; solo cuando la tumba está limpia se disponen las ofrendas, se enciende el incienso y se rinden respetos, y por último se quema el dinero de papel en un claro cercano. Entre el humo y las llamas, el Qingming anual transcurre así.

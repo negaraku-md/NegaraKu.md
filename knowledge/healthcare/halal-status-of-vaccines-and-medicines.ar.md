@@ -29,7 +29,7 @@ faq:
     a: "قرّرت المذاكرة الخاصة في 3 ديسمبر 2020 أن استخدام لقاحات كوفيد-19 مباح وواجب على الفئات التي تحدّدها الحكومة، بشرط أن تكون اللقاحات المستخدمة حلالًا وطيّبة (tayyiban)."
 
 lang: "ar"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ entity: "Jawatankuasa Muzakarah Fatwa Kebangsaan bagi Hal Ehwal Ugama Islam Mala
 relations:
   - { rel: "related-to", to: "national-immunisation-programme-malaysia" }
   - { rel: "related-to", to: "halal-certification-jakim" }
-related: []
+related: ["halal-certification-in-malaysia", "public-healthcare-system-malaysia", "traditional-and-complementary-medicine"]
 keywords: ["لقاح حلال", "حكم اللقاح", "الجيلاتين في الدواء", "فتوى لقاح كوفيد-19", "الضرورة", "مقاصد الشريعة", "JAKIM", "Muzakarah", "vaccine halal"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: 'مبنى تجاري تراثي أحمر زاهٍ يضمّ صيدلية ماليزية (فارماسي) عند زاوية شارع في بلدة.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: صيدلية مجتمعية ماليزية حديثة عند زاوية شارع، تحمل لافتتها اسم Big Pharmacy، في Kluang بولاية Johor
+    kind: actual
+    origin: third-party
+    subject: فرع لسلسلة متاجر التجزئة Big Pharmacy في وسط مدينة Kluang بولاية Johor، ماليزيا
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: صفوف من علب الأدوية مرتّبة بعناية على رفوف الصيدلية، تمثّل الأدوية المعبّأة وبطاقاتها التعريفية
+    kind: representative
+    origin: third-party
+    subject: علب أدوية جنيسة مرتّبة على رفوف صيدلية
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 قد تحتوي قارورة لقاح واحدة على قليل من الجيلاتين بوصفه مادة مثبِّتة — ومن تلك التفصيلة الصغيرة ينشأ أحد أكثر الأسئلة الدينية تكرارًا لدى الأسر المسلمة في ماليزيا: هل هو حلال؟ ليس الجواب مجرد «نعم» أو «لا»، بل هو حصيلة عملية تقييم منظَّمة تشارك فيها هيئات الفتوى، والبحث العلمي، وعدد من مبادئ الفقه المحدّدة.

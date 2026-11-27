@@ -69,9 +69,35 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
   - { rel: "related-to", to: "melaka-sultanate" }
-related: []
+related: ["iskandar-malaysia-guide", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
 framework: profile
+hero: '/media/states/johor/hero.webp'
+heroAlt: 'Masjid Negeri Sultan Abu Bakar berwarna putih bergaya Victoria dengan dua menara kembar yang tinggi dan kubah hitam di bawah langit mendung.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: Pesisir pantai berpasir keemasan yang panjang dan dipagari pokok ru bertemu ombak tenang Laut China Selatan di Desaru, pantai timur Johor.
+    kind: actual
+    origin: third-party
+    subject: Pantai Desaru, Johor
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: Pasir putih dan air cetek pirus jernih memagari pesisir berhutan dan dipenuhi pokok palma di Pulau Rawa, luar pantai timur Johor.
+    kind: actual
+    origin: third-party
+    subject: Pulau Rawa, Johor
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 Ekonomi Johor ditakrifkan oleh jirannya. Sebagai negeri paling selatan di

@@ -87,6 +87,7 @@ relations:
 related: ["islamic-finance", "state-islamic-religious-councils", "zakat", "donations-and-tax-deductions"]
 keywords: ["waqf", "wakaf", "Islamic endowment Malaysia", "cash waqf", "corporate waqf", "JAWHAR", "Yayasan Waqaf Malaysia", "waqf land Malaysia"]
 framework: explainer
+wikidata: "Q815509"
 ---
 
 Da un pez a un hombre y comerá un día. Dota un estanque de peces que nunca pueda venderse, y todo el pueblo comerá para siempre. Eso, en una frase, es el waqf.

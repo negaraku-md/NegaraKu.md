@@ -21,7 +21,7 @@ appliesTo: "பேராக்கின் அரச வரலாறு, மல�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "சுழல் பட்ட-வாரிசு அமைப்பு முதன்முதலில் நிறுவப்பட்ட சரியான தேதி: விவரணை ஆதாரங்கள் அதன் தோற்றத்தை 17ஆம் நூற்றாண்டுக்கு நீட்டுகின்றன, ஆனால் ஒரே அதிகாரபூர்வ நிறுவுதல் தேதியைத் தரவில்லை; நவீன வரிசை 1953 பிப்ரவரி 25 தீர்ப்பை அடிப்படையாகக் கொண்டது."
   - "துல்லியமான நிறுவுதல் ஆண்டு வழக்கமாக 1528 என்று கொடுக்கப்படுகிறது (மெலாக்காவின் Mahmud Shah, Kampar-இல் இறந்த ஆண்டு), ஆனால் சில வம்சாவளிக் குறிப்புகள் Muzaffar Shah I-இன் பதவியேற்பை சில ஆண்டுகள் முன்னதாகவோ பின்னதாகவோ வைக்கின்றன."
 framework: history-culture
+hero: '/media/malaysia/perak-sultanate/hero.webp'
+heroAlt: 'தங்க முலாம் பூசப்பட்ட வெங்காய வடிவக் கும்பங்களால் முடிசூட்டப்பட்ட வெண்ணிற அரச அரண்மனை, தெளிந்த வானத்தின் கீழ் பசுமையான குன்றின் மேல் அலங்காரமான கருப்பு-வெள்ளை எல்லை வேலிக்குப் பின்னால் உயர்ந்து நிற்கிறது.'
+heroCredit: 'Gerd Fahrenhorst / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: சிறிய தங்க முலாம் பூசப்பட்ட குவிமாடங்களும் நான்கு மெல்லிய மினாராக்களும் சூழ்ந்த ஒரு பெரிய தங்க நிற வெங்காய வடிவ குவிமாடத்தால் முடிசூட்டப்பட்ட வெள்ளை மசூதி, தெளிவான வானத்தின் கீழ் மின்னுகிறது; Kuala Kangsar, பேராக்கில் உள்ள அரச உபுடியா மசூதி.
+    kind: actual
+    origin: third-party
+    subject: உபுடியா மசூதி (Masjid Ubudiah), Kuala Kangsar-இல் உள்ள பேராக் அரச மசூதி, அதன் தங்க நிற குவிமாடத்துடன்
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: வளைவான ஜன்னல்கள், அலங்கார தடுப்புக் கைப்பிடிகள் மற்றும் சிறிய கோபுரங்களால் முடிசூட்டப்பட்ட சமச்சீர் முகப்புடன் கூடிய கம்பீரமான கிரீம் நிற காலனித்துவ கால அரண்மனை, பிரகாசமான வானத்தின் கீழ் புல்வெளிக்குப் பின்னால் அமைந்துள்ளது; Kuala Kangsar, பேராக்கில் உள்ள Istana Hulu.
+    kind: actual
+    origin: third-party
+    subject: Istana Hulu, Kuala Kangsar-இல் உள்ள முன்னாள் பேராக் அரண்மனை, தற்போது சுல்தான் அஸ்லான் ஷா கேலரி
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 1511இல் போர்த்துகீசிய பீரங்கிகளுக்கு மெலாக்கா வீழ்ந்தபோது, நீரிணையைப் புகழ்பெறச் செய்த வம்சம் அந்த நகரத்துடன் இறந்துபோகவில்லை. அதன் கடைசி சுல்தான் Mahmud Shah, தீவுக்கூட்டத்தின் மேல்பகுதிக்கு பின்வாங்கி இரண்டு மகன்களை விட்டுச்சென்றார்; ஒருவர் அரச வரிசையை ஆற்றின் கீழ்ப்பகுதியில் ஜொகூரில் மீண்டும் நிறுவுவார், மற்றொருவர் பழைய மெலாக்கா மகுடத்தை வடக்கே — மணல்மேடுகள் தகரத்தால் மின்னும் ஒரு ஆற்றால் நெய்யப்பட்ட அமைதியான பள்ளத்தாக்கிற்கு — எடுத்துச்செல்வார். அந்த வடக்கு இராச்சியம் பேராக் ஆனது, மேலும் கிட்டத்தட்ட ஐந்து நூற்றாண்டுகளுக்குப் பின்னரும் அது அதே இரத்த வழியால் ஆளப்படுகிறது; இப்போது அரியணை தந்தையிடமிருந்து மகனுக்குச் செல்லாமல், இளவரசர்களின் நகரும் ஏணியில் கடத்தப்படும் ஒரு சுல்தானால். தோற்கடிக்கப்பட்ட ஒரு வம்சம் எப்படித் தப்பிப்பிழைத்தது, தகரத்தில் செழித்தது, ஒரே ஒப்பந்தத்தின் மூலம் தனது இறையாண்மையைப் பிரித்தானியாவிடம் இழந்தது, மேலும் நிகழ்காலம் வரை நிலைத்தது என்பதன் கதை இது.

@@ -33,7 +33,7 @@ faq:
     a: "Kedua jenis dapat disetujui untuk menerima mahasiswa internasional, tetapi ia berada di bawah bagian kerangka Pas Pelajar yang berbeda dan biasanya berbeda dari segi program dan kapasitas pengambilan yang terbuka untuk pemohon asing dibandingkan pemohon lokal. Sahkan langsung dengan kantor internasional institusi tersebut program sasaran mana yang terbuka untuk pendaftaran bukan warga negara sebelum melamar."
 
 lang: "id"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,38 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: 'Ini untuk calon mahasiswa internasional yang sedang memilih institusi dan program di Malaysia sebelum menerima tawaran dan memulai proses visa pelajar.'
+  how: 'Lewati dulu dua gerbang yang terpisah: program tersebut terakreditasi oleh Malaysian Qualifications Agency (MQA, Badan Kualifikasi Malaysia) di dalam Malaysian Qualifications Register (MQR, Daftar Kualifikasi Malaysia), dan institusinya sendiri disetujui oleh Kementerian Pendidikan Tinggi untuk menerima mahasiswa asing. Hanya surat tawaran yang ditandatangani dari institusi semacam itu yang memicu Student Pass, yang diajukan oleh institusi — bukan oleh Anda — kepada Education Malaysia Global Services (EMGS).'
+  cost: 'Biaya kuliah sangat bervariasi menurut institusi dan program, dan Student Pass memiliki biaya EMGS serta biaya visa tersendiri yang direvisi dari waktu ke waktu, jadi pastikan angka terkini dengan institusi dan portal EMGS (educationmalaysia.gov.my), bukan dari angka yang dikutip.'
+  watch: 'Akreditasi program oleh MQA dan persetujuan institusi untuk menerima mahasiswa asing adalah dua pemeriksaan yang berbeda — program yang sepenuhnya terakreditasi bisa saja berada di institusi yang tidak diizinkan menerima Anda. Pengajaran dalam bahasa Inggris tidak menggantikan bukti kemahiran bahasa Inggris tersendiri yang diminta EMGS.'
+  next: 'Pastikan kedua gerbang itu secara tertulis dengan kantor internasional institusi, terima tawaran tersebut, lalu ikuti proses Student Pass melalui EMGS. Lihat penjelasan tentang Student Pass, Kuliah di Malaysia, dan penjelasan akreditasi MQA.'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: 'Pintu masuk kampus Monash University Malaysia, dengan papan tanda jalur beratap bertuliskan "MONASH University" yang menghubungkan dua blok akademik berwarna krem melalui jembatan layang kaca.'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: Pintu masuk utama University of Nottingham Malaysia yang berpapan nama dan dikelilingi rerimbunan hijau, sebuah kampus cabang Inggris yang menerima banyak mahasiswa internasional.
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Sinar matahari sore menerpa gedung utama bertiang Xiamen University Malaysia, sebuah kampus cabang Tiongkok di dekat Kuala Lumpur yang menarik mahasiswa dari luar negeri.
+    kind: actual
+    origin: third-party
+    subject: Kampus Xiamen University Malaysia, Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 Surat penawaran dari institusi yang salah jenis tidak bernilai untuk tujuan visa, meskipun program itu sendiri diakreditasi dengan sempurna. Perbedaan itu — program yang diakreditasi dibandingkan institusi yang disetujui untuk mahasiswa internasional — adalah penyebab kebanyakan kebingungan bermula, jauh sebelum siapa pun mengisi formulir EMGS.

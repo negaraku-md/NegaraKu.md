@@ -45,7 +45,7 @@ sources:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,24 @@ drinkFacts:
   halal: "एक बड़े निर्माता के वाणिज्यिक शीतल पेय के रूप में, Sarsi हलाल प्रमाणन रखता है; सबसे पक्की जाँच बोतल या कैन पर छपा हलाल चिह्न है। इसे पैकेजिंग पर ढूँढें।"
   served: "बोतल या कैन से ठंडा परोसा जाता है। एक प्यारी स्थानीय विविधता 'Sarsi susu' है — एक मलाईदार float बनाने के लिए वाष्पीकृत, गाढ़े या ताज़े दूध को इसमें उड़ेला गया Sarsi। मीठा और फ़िज़ी; एक शीतल-पेय भोग-वस्तु, न कि कोई बनाई हुई kopitiam पेय।"
   where: "देश भर की किराना दुकानों, सुपरमार्केट, kopitiam और पारिवारिक जमावड़ों में मिलता है — ठंडे शेल्फ़ का एक पुरानी-यादों वाला स्थायी अंग।"
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'धूप में झागदार सिरे के साथ गहरे, झागदार सर्सापैरिला सोडा (सर्सी) का एक ऊँचा गड्ढेदार काँच का मग'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: गहरे लाल-भूरे रंग के झागदार sarsaparilla (sarsae) शीतल पेय से भरा एक गिलास
+    kind: actual
+    origin: third-party
+    subject: Asia Sarsae sarsaparilla शीतल पेय का गिलास
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 मलेशियाई मेज़ पर हर पेय बनाया, खींचा या निचोड़ा नहीं जाता। कुछ एक बोतल से आते हैं — और कम

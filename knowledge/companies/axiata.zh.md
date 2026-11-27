@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "集团截至2025年9月30日止九个月的年初至今利润 RM403.3 million（于2025年11月27日公布）——对照下一份季度与年度业绩核实。"
   - "「远超1.5亿名客户」基于2019年的公司数字加上其后的市场增长；对照最新年报核实集团当前的客户总数。"
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: '吉隆坡Axiata Arena正门，其镂空银色立面上标有巨大的蓝洋红色''axiata arena''字样和三角形标志'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: 一场体育赛事期间，人们聚集在 Axiata Arena 正门外，巨大的蓝色与洋红色 'axiata arena' 标识下方
+    kind: actual
+    origin: third-party
+    subject: 活动期间武吉加里尔 Axiata Arena 正门前的人群
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: 2017年东运会羽毛球比赛期间 Axiata Arena 内座无虚席，观众挤满了球场周围层叠的蓝色看台
+    kind: actual
+    origin: third-party
+    subject: 2017年东运会羽毛球赛事期间的 Axiata Arena 内景
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 马来西亚最大的电信故事，并非单一的网络，而是一家拥有六个国家移动运营商部分股权的控股公司。Axiata Group Berhad 坐落于吉隆坡中环（Kuala Lumpur Sentral）的一座办公大楼内，控制、部分持有或共同经营着连接南亚与东南亚数以亿计人口的运营商。

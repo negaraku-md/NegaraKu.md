@@ -33,7 +33,7 @@ faq:
     a: "ไม่จำเป็นเสมอไป บางครอบครัวจะนำทังหยวนไปไหว้บรรพบุรุษหรือเทพเจ้าก่อน แล้วจึงกินร่วมกันทั้งครอบครัว และมีหลายครอบครัวที่ถือว่าตงจื้อเป็นเพียงวันกินทังหยวนและรวมญาติ โดยไม่มีการไหว้ใด ๆ ธรรมเนียมอย่างการไหว้บรรพบุรุษและเทพเจ้าแตกต่างกันไปตามความเชื่อและความเคยชินของแต่ละครอบครัว บทความนี้เพียงพรรณนาถึงธรรมเนียมเท่านั้น และไม่ตัดสินความเชื่อทางศาสนาใด ๆ"
 
 lang: "th"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ festivalFacts:
   when: "กำหนดตาม 24 สารท ตกอยู่ราววันที่ 21 ถึง 23 ธันวาคมตามปฏิทินสุริยคติของทุกปี (ประมาณวันที่ 22 ธันวาคม) เป็นวันที่กลางวันสั้นที่สุดในรอบปี"
   holiday: "ไม่ใช่วันหยุดราชการ — วันเหมายันในมาเลเซียไม่ใช่วันหยุดราชการทั้งในระดับประเทศหรือของรัฐใด ๆ"
   etiquette: "ชาวจีนส่วนใหญ่เฉลิมฉลองกันอย่างเรียบง่ายในบ้าน สมาชิกในครอบครัวนั่งล้อมวงปั้น tangyuan และรับประทานอาหารร่วมกัน แทนที่จะจัดกิจกรรมสาธารณะขนาดใหญ่ บางครอบครัวจะใช้ tangyuan เซ่นไหว้บรรพบุรุษและสักการะเทพเจ้าก่อน แล้วจึงรับประทานร่วมกันทั้งครอบครัว วิธีปฏิบัติแตกต่างกันไปตามแต่ละครอบครัวและกลุ่มภาษาถิ่น"
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'ชามสีขาวใส่ลูกบัวลอยข้าวเหนียวสีชมพู ม่วงและเหลืองพาสเทลลอยในน้ำเชื่อมใสหวาน พร้อมช้อนเซรามิกขอบสีน้ำเงินวางอยู่ในชาม'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: ภาพระยะใกล้ของชามบัวลอยข้าวเหนียวเนื้อเนียนกึ่งโปร่งแสงสีขาว ม่วงอ่อน และเขียวหยก ลอยอยู่ในน้ำเชื่อมหวานใส
+    kind: representative
+    origin: third-party
+    subject: ภาพระยะใกล้ของทังหยวนผิวใสสีขาว ม่วง และเขียว ลอยอยู่ในชามน้ำเชื่อม
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: ภาพมุมบนของบัวลอยทังหยวนข้าวเหนียวสีม่วงอวบสี่ลูกในน้ำเชื่อมร้อนใสในชามขอบสีน้ำเงิน มีควันไอลอยขึ้น
+    kind: representative
+    origin: third-party
+    subject: ชามบัวลอยข้าวเหนียวสีม่วงในน้ำเชื่อมร้อน มองจากด้านบนพร้อมไอที่ลอยขึ้น
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 ในเย็นวันหนึ่งปลายเดือนธันวาคม กลิ่นหอมของแป้งข้าวเหนียวในครัวเคล้ากับความหวานของน้ำขิง ทั้งครอบครัวนั่งล้อมโต๊ะ ปั้นก้อนแป้งข้าวเหนียวทีละก้อนเล็ก ๆ ให้เป็นลูกกลม — มีสีขาว มีที่ย้อมเป็นสีชมพูอ่อนและเขียวอ่อน ลูกกลมในมือเด็ก ๆ ขนาดไม่เท่ากัน ผู้ใหญ่ปั้นไปพลางพูดไปว่า กินทังหยวนแล้วก็โตขึ้นอีกหนึ่งปี วันนี้คือวันตงจื้อ

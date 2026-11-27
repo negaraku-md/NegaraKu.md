@@ -74,9 +74,36 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "Ministry of Housing and Local Government Malaysia", "KPKT fungsi", "KPKT agensi", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "Tribunal Perumahan dan Pengurusan Strata", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "affordable housing Malaysia B40 M40"]
 framework: profile
+hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'
+heroAlt: 'A tall curved grey-and-glass government tower in Putrajaya rising above a black signage monument reading Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan (Ministry of Urban Wellbeing, Housing and Local Government) with the KPKT house logo'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Housing and Local Government (KPKT) tower in Putrajaya, with its ground-level signage monument'
+images:
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-1.webp
+    alt: Close-up of a black stone signage monument carrying the Malaysian coat of arms, the words Kementerian Kesejahteraan Bandar, Perumahan dan Kerajaan Tempatan / Ministry of Urban Wellbeing, Housing and Local Government, the web address kpkt.gov.my and the colourful KPKT house logo
+    kind: actual
+    origin: third-party
+    subject: KPKT signage monument at the entrance of the ministry building, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-housing-local-government-kpkt/body-2.webp
+    alt: Frontal view of the KPKT government tower in Putrajaya, its central facade hung with long vertical Jalur Gemilang national flags, framed by fan palms against a cloudy sky
+    kind: actual
+    origin: third-party
+    subject: The KPKT tower in Putrajaya dressed with vertical Malaysian flags
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Urban-Wellbeing-Housing-and-Local-Government-01.jpg
 ---
 
 When your rubbish is not collected, when a fire-safety certificate is due, and when a developer hands over your flat two years late — the same federal ministry sits behind all three. The **Ministry of Housing and Local Government**, *Kementerian Perumahan dan Kerajaan Tempatan*, universally known as **KPKT**, is the Malaysian federal ministry for affordable housing, local government, town planning, fire and rescue, solid waste, landscaping, and community credit. Its headquarters is at No. 51, Persiaran Perdana, Precinct 4, Federal Government Administrative Centre, 62100 Putrajaya. The minister is **Nga Kor Ming** and the deputy minister is **Datuk Hajah Aiman Athirah binti Sabu**.

@@ -32,7 +32,7 @@ faq:
     a: "Rapid Bus开始将19条低客流线路——16条MRT接驳线与3条普通线路，约占网络的7%——改为可预约的Rapid KL On-Demand van服务。"
 
 lang: "zh"
-sourceContentHash: "dca77cc716c8a0b4"
+sourceContentHash: "cf9e841a794b90fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,9 +72,33 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["Rapid KL bus", "MRT feeder bus", "Klang Valley bus", "Rapid Bus", "Rapid KL On-Demand", "city bus Kuala Lumpur"]
 framework: explainer
+hero: '/media/transport/klang-valley-and-city-buses/hero.webp'
+heroAlt: '一辆醒目的红白蓝 Rapid KL 双层巴士停靠在月台（751 路线，Hab Pasar Seni 转运站），旁有月台指示牌'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rapid_KL_bus_route_751_at_KL2214_Hab_Pasar_Seni_(Platform_B),_Kuala_Lumpur_20231216_090839.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-1.webp
+    alt: 一辆蓝绿色 GO KL 免费电动市区巴士正靠站停在路边候车亭（「100% Clean Energy / Perkhidmatan Bas Percuma」）——巴士靠站视角，涂装与车种均不同。候车亭有两名极小、无法辨认的乘客。
+    kind: actual
+    origin: third-party
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:GO_KL_City_Bus_bus_route_Red_at_Chow_Kit,_Kuala_Lumpur_20230813_124734.jpg
+  - role: scene
+    src: /media/transport/klang-valley-and-city-buses/body-2.webp
+    alt: 一辆单层 Rapid KL 巴士（红/米/蓝涂装）在吉隆坡中环广场（KL Sentral）的侧面清晰照——与双层巴士主图和电动 GO KL 本体图相互补充。无人脸。
+    kind: actual
+    origin: third-party
+    credit: Simon_sees from Australia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Rapid_Bus_at_the_Kuala_Lumpur_Sentral_Station_Interchange_-_Flickr_-_Simon_sees.jpg
 ---
 
 火车能把你送到车站，却很少能把你送到家门口。从MRT或LRT站台到你家、到你的办公园区，或到隔两个社区外的巴刹（湿巴刹）之间的这段落差，是由一支多数乘客几乎不会留意的车队来填补的：Rapid KL巴士。

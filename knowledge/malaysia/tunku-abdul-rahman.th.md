@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0210
 title: "ตุนกู อับดุล ราห์มาน"
-seoTitle: ตุนกู อับดุล ราห์มาน
+seoTitle: "ตุนกู อับดุล ราห์มาน: นายกรัฐมนตรีคนแรกของมาเลเซีย (1957–1970)"
 slug: "tunku-abdul-rahman"
 category: "malaysia"
 subcategory: ["modern"]
@@ -67,6 +67,13 @@ verificationNeeded:
   - "ละเอียดอ่อน: แตะต้องเหตุความไม่สงบทางเชื้อชาติเมื่อวันที่ 13 พฤษภาคม ค.ศ. 1969 (เชื้อชาติ) และผู้ปกครองมลายู (ราชวงศ์) การให้ลักษณะทั้งหมดถูกสรุปอย่างเป็นกลาง สอบทานใหม่เทียบกับแหล่งข้อมูลปฐมภูมิ และให้ผู้ตรวจที่เป็นมนุษย์ที่มีคุณวุฒิอนุมัติก่อนการเผยแพร่"
   - "ยืนยันวันที่แน่นอน (การดำรงตำแหน่งนายกรัฐมนตรี วันประสูติ วันอสัญกรรม) เทียบกับมูลนิธิผู้นำเปอร์ดานาและสำนักนายกรัฐมนตรี"
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: 'ตวนกู อับดุล ราห์มัน สวมหมวกซงก๊กสีดำ แว่นตากรอบหนา เสื้อโค้ตสีเข้มและเนกไท ถ่ายเป็นภาพขาวดำหน้าเครื่องบินระหว่างการเยือนในปี 1960'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในเช้าวันที่ 31 สิงหาคม ค.ศ. 1957 ต่อหน้าสนามกีฬาเมอร์เดกาที่แน่นขนัดในกรุง

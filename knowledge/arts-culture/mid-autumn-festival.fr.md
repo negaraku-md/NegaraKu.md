@@ -33,7 +33,7 @@ faq:
     a: "C'est l'une des légendes lunaires de la mi-automne les plus répandues : on raconte que Hou Yi obtint l'élixir d'immortalité, et que son épouse Chang'e, dans certaines circonstances, avala l'élixir ; son corps devint léger et s'éleva en flottant pour aller habiter la lune, séparée du monde des humains depuis lors. Le récit compte de nombreuses versions aux détails différents et est généralement considéré comme une légende populaire expliquant « la contemplation de la lune à la mi-automne et la présence de quelqu'un sur la lune », et non comme un fait historique ; cet article ne fait que le relater brièvement."
 
 lang: "fr"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "Fixé au quinzième jour du huitième mois lunaire, jour où la lune est la plus pleine et la plus brillante, symbole de réunion familiale ; la date grégorienne correspondante varie chaque année selon le calendrier lunaire et tombe généralement en septembre ou en octobre."
   holiday: "Ce n'est pas un jour férié. La fête de la mi-automne n'est un jour férié ni au niveau national ni dans aucun État de Malaisie, et les commerces comme les administrations fonctionnent normalement (contrairement au Nouvel An lunaire, dont les deux premiers jours sont fériés)."
   etiquette: "Les célébrations publiques organisées par les associations chinoises (huiguan), les temples (comme le temple Thean Hou de Kuala Lumpur, 乐圣岭天后宫) et les organisations communautaires — soirées de lanternes, spectacles artistiques, etc. — accueillent souvent la participation et l'observation des résidents d'autres groupes ethniques, avec une dimension de partage interethnique."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'Une grande sculpture de lanterne en soie lumineuse représentant un homme souriant en veste violette et pantalon rouge brandissant une lanterne-globe bleue et jaune, la nuit, avec des rangées de lanternes rouges et or allumées le long d''une allée derrière lui lors d''une célébration malaisienne de la mi-automne'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: Des rangées de gâteaux de lune dorés cuits au four, imprimés de motifs de lapin de jade et floraux, disposés pour refroidir sur un plateau métallique perforé, leur pâte lustrée accrochant la lumière
+    kind: representative
+    origin: third-party
+    subject: des gâteaux de lune au lapin de jade fraîchement cuits, l'aliment emblématique de la Fête de la mi-automne
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: Une lanterne en papier rouge ronde, pliée en accordéon, imprimée d'étoiles blanches et d'une silhouette de lapin, suspendue devant un feuillage vert et des fleurs roses, la classique lanterne en papier pliable que les enfants portent à la mi-automne
+    kind: representative
+    origin: third-party
+    subject: une lanterne en papier rouge traditionnelle, pliée en accordéon, du type que les enfants portent pendant la Fête de la mi-automne
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 À la tombée de la nuit du quinzième jour du huitième mois lunaire, l'atrium du centre commercial se couvre de lanternes rouges rougeoyantes, et dans le parc du quartier résidentiel, les enfants, par deux ou trois, vont et viennent en portant des lanternes allumées. Sur la table de la maison, une boîte de gâteaux de lune découpés en petits morceaux côtoie une théière de thé chaud, un pomélo épluché posé à côté. La famille sort des chaises devant la maison et lève les yeux vers la lune la plus ronde de l'année : voilà une soirée de mi-automne typique dans un foyer chinois de Malaisie.

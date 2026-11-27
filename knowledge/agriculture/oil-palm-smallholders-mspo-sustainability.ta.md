@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'மலேசியாவின் மெர்சிங்கில் அலைஅலையான நிலத்தை நிறைக்கும் இளம் எண்ணெய்ப் பனைத் தோட்டம்.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: சபா, தெனோம் மாவட்டத்தில், முதிர்ந்த பனைமரங்களுக்கு இடையே நீண்ட அரிவாள் கழியைத் தோளில் சுமந்து செல்லும் ஒரு எண்ணெய்ப் பனைத் தோட்ட அறுவடையாளர், தரையில் வெட்டப்பட்ட ஒரு புதிய பழக் குலையுடன்
+    kind: actual
+    origin: third-party
+    subject: சபா, தெனோமில் முதிர்ந்த எண்ணெய்ப் பனை மரங்களுக்கு இடையே அறுவடைக் கழியைச் சுமந்து செல்லும் ஒரு தோட்டத் தொழிலாளி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: சபா, கிமானிஸ் தோட்டத்தில் ஒரு எண்ணெய்ப் பனை மரத்தின் உச்சியில் பழுத்து வரும் சிவப்பு கலந்த புதிய பழக் குலைகளின் அருகிலான காட்சி
+    kind: actual
+    origin: third-party
+    subject: சபா, கிமானிஸ் தோட்டத்தில் ஒரு எண்ணெய்ப் பனை மரத்தில் பழுத்து வரும் புதிய பழக் குலைகள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 பிந்துலுவில் (Bintulu) ஒரு விவசாயி தனது எண்ணெய்ப் பனைத் தோட்டத்தின் ஒவ்வொரு எல்லையையும் நினைவிலிருந்தே நடந்து காட்ட முடியும்; ஆனால் இப்போது ஐரோப்பாவில் ஒரு வாங்குபவர் அவரது பழத்தைத் தொடுவதற்கு முன், அந்த "மனவரைபடங்களை" GPS பலகோணங்களாக (polygons) மாற்ற வேண்டியுள்ளது. உங்கள் நிலத்தை அறிந்திருப்பதற்கும், ஒரு தணிக்கையாளர் திருப்திப்படும் அளவுக்கு அதை ஆவணப்படுத்துவதற்கும் இடையிலான அந்த இடைவெளிதான் — மலேசியாவின் சிறுவிவசாயி பனையெண்ணெய் பொருளாதாரத்தின் பின்னணியில் உள்ள அமைதியான கதை.

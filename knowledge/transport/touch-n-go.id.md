@@ -30,7 +30,7 @@ faq:
     a: "Ya, jika ingin menggunakan fitur isi ulang NFC. Proses pendaftaran melibatkan verifikasi identitas (KYC) sehingga saldo kartu itu disandarkan ke akun eWallet Anda — ini turut memberi lapisan perlindungan tambahan jika kartu hilang, dibandingkan kartu tanpa daftar yang saldonya dapat digunakan siapa saja yang menemukannya."
 
 lang: "id"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'Papan tanda jalur di atas bertuliskan Touch ''n GO, MyRFID dan SmartTAG menandai gardu tol nontunai di Plaza Tol Gombak, dengan RFID bercat melintang di jalan.'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: Tag RFID kaca depan Touch 'n Go di lajur tol, dengan palang lajur dan gantri pembaca RFID di atas gardu tol
+    kind: actual
+    origin: third-party
+    subject: tag RFID Touch 'n Go dibaca di lajur tol MyRFID di Gerbang Tol Gombak, Selangor
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: Sederet gerbang tiket otomatis di pintu masuk stasiun kereta, dengan pembaca kartu pada setiap gerbang dan selasar pusat perbelanjaan tampak di kejauhan
+    kind: representative
+    origin: third-party
+    subject: gerbang tiket di stasiun LRT KLCC tempat kartu perjalanan seperti Touch 'n Go ditempelkan
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 Banyak orang menyimpan kartu Touch 'n Go dalam dompet dan aplikasi Touch 'n Go eWallet dalam ponsel, lalu menganggap keduanya adalah benda yang sama dengan dua sisi. Ia bukan. Saldo dalam kartu Anda dan saldo dalam aplikasi Anda disimpan terpisah sepenuhnya — mengisi penuh satu tidak menambah satu sen pun pada yang satu lagi. Salah paham ini penyebab biasa mobil terhenti di gerbang tol karena pengemudi yakin "uang dalam ponsel cukup," padahal yang dibaca oleh mesin tol adalah kartu.

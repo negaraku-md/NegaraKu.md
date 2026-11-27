@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "นักเรียนภูมิศาสตร์และประวัติศาสตร์มาเลเซีย ตลอดจนผู้ที่ต้องการเข้าใจว่าเหตุใดเมืองหลักในซาราวัก ซาบาห์ และปาหังจึงตั้งอยู่ในตำแหน่งแม่น้ำเฉพาะ"
 
 lang: "th"
-sourceContentHash: "c0dca023c22caa3e"
+sourceContentHash: "8a1a61eae1d92dca"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ relations:
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
 framework: profile
+hero: '/media/malaysia/malaysia-rivers/hero.webp'
+heroAlt: 'แม่น้ำเขตร้อนสีน้ำตาลขุ่นกว้างใหญ่คดเคี้ยวระหว่างสองฝั่งที่เรียงรายด้วยป่าฝนเขียวทึบและต้นอ้อสูง ภายใต้ท้องฟ้าสีครามสดใสที่มีเมฆกระจาย'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: ผืนน้ำอันกว้างใหญ่และสงบนิ่งของแม่น้ำราจังสะท้อนท้องฟ้ายามเย็นสีทอง ขนาบด้วยริมฝั่งป่าเตี้ย ๆ ของซาราวักที่เลือนหายไปในระยะไกล
+    kind: actual
+    origin: third-party
+    subject: แม่น้ำราจัง (Rajang) ยามพลบค่ำในรัฐซาราวัก แม่น้ำที่ยาวที่สุดของมาเลเซีย
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: แม่น้ำมะละกาที่แคบไหลผ่านระหว่างอาคารพาณิชย์ริมน้ำสีสันสดใสและทางเดินเลียบน้ำในย่านเมืองเก่าอันเก่าแก่ของมะละกา
+    kind: actual
+    origin: third-party
+    subject: แม่น้ำมะละกาที่คดเคี้ยวผ่านย่านเมืองเก่าอันเก่าแก่ของเมืองมะละกา
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 ก่อนที่จะมีทางหลวงแพนบอร์เนียว (Lebuhraya Pan Borneo) หรือเที่ยวบิน MASwings วิธีเดียวที่จะไปถึงพื้นที่ตอนในของซาราวักคือการล่องแม่น้ำหลายวัน เมืองใหญ่ในปัจจุบัน คือ ซีบู กาปิต ซันดากัน เปกัน ไม่ได้มีอยู่โดยบังเอิญในตำแหน่งของแต่ละเมือง แต่ละเมืองตั้งอยู่ในที่ที่แม่น้ำกำหนด คือ ที่ปากแม่น้ำ ที่ชุมทางบรรจบของแม่น้ำสองสาย หรือที่จุดไกลที่สุดที่เรือยังล่องขึ้นได้ แม่น้ำสามสาย คือ ราจัง คินาบาตางัน และปาหัง แสดงรูปแบบนี้ชัดเจนที่สุด

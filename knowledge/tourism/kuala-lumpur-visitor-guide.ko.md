@@ -36,7 +36,7 @@ faq:
     a: "어깨와 무릎을 가리십시오. 복장이 너무 노출이 심하면 보통 입구에서 사롱을 빌리거나 대여할 수 있습니다. 주 사원 동굴로 올라가는 긴 계단에는 편한 신발이 도움이 됩니다."
 
 lang: "ko"
-sourceContentHash: "83577f20656ec6a9"
+sourceContentHash: "6dc963e69678de24"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,9 +95,42 @@ relations:
   - { rel: "related-to", to: "malaysia-visa-and-entry-guide" }
   - { rel: "related-to", to: "malaysia-public-transport-guide" }
   - { rel: "located-in", to: "malaysia" }
-related: []
+related: ["genting-highlands", "melaka-heritage-visitor-guide", "ipoh-and-the-kinta-valley", "penang-george-town-visitor-guide", "frasers-hill"]
 keywords: ["kuala lumpur", "petronas twin towers", "kl tower", "batu caves", "bukit bintang", "chinatown kuala lumpur", "klia ekspres", "kuala lumpur transport", "malaysia digital arrival card", "kl travel guide"]
 framework: profile
+visitFacts:
+  bestFor: '짧고 수월한 도시 체류를 원하는 첫 방문 외국인, 그리고 말레이시아의 다른 곳으로 떠나기 전 쿠알라룸푸르를 거점으로 삼는 여행자에게 적합합니다.'
+  getThere: '쿠알라룸푸르 국제공항(KLIA)에서 KLIA 에크스프레스(KLIA Ekspres) 열차를 타고 KL 센트럴(KL Sentral) 허브까지 무정차로 이동한 뒤, MRT, LRT, 모노레일 또는 그랩(Grab)으로 이어서 연결하십시오.'
+  permit: '페트로나스 트윈 타워 입장은 일일 인원이 제한된 시간 지정 티켓을 쓰므로, 현장 방문에 기대지 말고 온라인으로 미리 예약하십시오.'
+  watch: '도심 교통은 출퇴근 시간에 혼잡하므로, 시내를 가로지르는 이동에는 대개 열차가 자동차보다 빠릅니다.'
+  next: '페트로나스 트윈 타워의 현재 개장 시간과 티켓 정보는 공식 PETRONAS Twin Towers 사이트(petronastwintowers.com.my)에서 확인하십시오.'
+hero: '/media/tourism/kuala-lumpur-visitor-guide/hero.webp'
+heroAlt: '황금빛 일몰 하늘 아래 쿠알라룸푸르 도심 위로 솟은 조명 받은 페트로나스 트윈타워'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Petronas Twin Towers and Kuala Lumpur skyline at dusk'
+images:
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-1.webp
+    alt: 쿠알라룸푸르 중심부의 술탄 압둘 사마드 빌딩과 야자수가 늘어선 므르데카 광장 잔디밭
+    kind: actual
+    origin: third-party
+    subject: 술탄 압둘 사마드 빌딩과 므르데카 광장
+    credit: Anton Zelenov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg
+  - role: scene
+    src: /media/tourism/kuala-lumpur-visitor-guide/body-2.webp
+    alt: 밤에 쿠알라룸푸르 차이나타운의 프탈링 거리 시장 위로 줄지어 걸린 빨갛게 빛나는 중국식 등불
+    kind: actual
+    origin: third-party
+    subject: 밤의 프탈링 거리 차이나타운 빨간 등불
+    credit: Shesmax / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-40-07.jpg
 ---
 
 새벽에 쿠알라룸푸르 국제공항에 내리면, 한 시간 안에 한때 세계의 스카이라인을 지배했던 두 개의 은빛 타워 아래에 설 수 있습니다 — 렌터카도, 복잡한 계획도 없이, 그저 기차와 태그 카드 하나로. 그 수월함이 바로 KL의 핵심입니다. 말레이시아의 정문이자, 대표 명소들이 짧은 철도 이동 거리에 자리한 아담하고 저렴한 수도이며, 이 나라의 거의 모든 후속 여정이 시작되는 곳입니다.

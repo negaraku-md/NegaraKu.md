@@ -31,7 +31,7 @@ faq:
   - q: ทำไมการต่อเรือจึงเชื่อมโยงกับน้ำมันและก๊าซมากในมาเลเซีย?
     a: กองเรือเชิงพาณิชย์ส่วนใหญ่ที่อู่มาเลเซียต่อและซ่อม — เรือสนับสนุนนอกชายฝั่ง เรือจัดการสมอ และเรือทำงาน — มีไว้เพื่อให้บริการแท่นขุดเจาะน้ำมันและก๊าซนอกชายฝั่งในน่านน้ำมาเลเซีย เมื่อการใช้จ่ายด้านพลังงานแข็งแกร่ง คำสั่งซื้อเพิ่มขึ้น เมื่อราคาน้ำมันตก อู่เผชิญกำลังการผลิตล้นเกิน ดูคู่มือที่เกี่ยวข้องเรื่องอุตสาหกรรมบริการและอุปกรณ์น้ำมันและก๊าซ
 lang: th
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'อู่ต่อเรือริมน้ำพร้อมเครนสูงสีแดงและเรือขนาดใหญ่ที่กำลังสร้าง'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: ภาพมุมสูงของโรงงานต่อเรือสีขาวขนาดใหญ่ในมาเลเซีย โดยเห็นตัวเรืออยู่ที่ประตูอ่าวเปิด
+    kind: actual
+    origin: third-party
+    subject: โรงงานต่อเรือ Grand Banks Yachts ที่ Pasir Gudang รัฐยะโฮร์ ประเทศมาเลเซีย
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: ภาพมุมสูงจากด้านบนของโรงประกอบขนาดใหญ่และลานของอู่ต่อเรือมาเลเซียริมแม่น้ำ
+    kind: actual
+    origin: third-party
+    subject: มุมมองจากด้านบนของอู่ต่อเรือ Grand Banks Yachts ริมแม่น้ำในรัฐยะโฮร์ ประเทศมาเลเซีย
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 มาเลเซียตั้งอยู่บนเส้นทางเดินเรือที่พลุกพล่านที่สุดสองสายของโลกและหาเลี้ยงชีพส่วนใหญ่จากทะเล — ทว่าอุตสาหกรรมต่อเรือและซ่อมเรือ (SBSR) ของประเทศเป็นหนึ่งในมุมที่เงียบกว่าของเศรษฐกิจของชาติ มันเป็นของจริง ก่อตั้งมานาน และมีความสำคัญเชิงยุทธศาสตร์ แต่ก็กระจัดกระจาย เป็นวัฏจักร และถูกครอบงำด้วยอู่ที่ค่อนข้างเล็ก คู่มือนี้อธิบายว่าอุตสาหกรรมต่ออะไร ที่ไหน มีขนาดใหญ่เพียงใด และเหตุใดโครงการกองทัพเรือหนึ่งจึงบดบังทั้งภาคในการถกเถียงสาธารณะ

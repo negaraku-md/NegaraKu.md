@@ -30,7 +30,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'அந்தி வேளையில் செரம்பானில், ''Arden Hill Precinct 2'' என்று எழுதப்பட்ட ஒளியூட்டப்பட்ட அடைப்பட்ட சமூக நுழைவு வளைவு, காவல் அறை மற்றும் தடுப்பு வாயிலுடன்.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: செரம்பானில் Forest Heights நகரத்திற்குள் அமைந்த உயர்தர வேலியிட்ட குடியிருப்புச் சமூகமான Arden Hill, ஒரே கட்டுப்படுத்தப்பட்ட எல்லைக்குள் நிலத்துடன் கூடிய வீடுகளை வரிசைப்படுத்துகிறது.
+    kind: actual
+    origin: third-party
+    subject: செரம்பான், Forest Heights இல் உள்ள Arden Hill உயர்தர வேலியிட்ட குடியிருப்புச் சமூகம்
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள வேலியிட்டு காவல் கொண்ட Horizon Hills நகரத்தை நிலத்துடன் கூடிய வீடுகளும் நேர்த்தியாகப் பராமரிக்கப்பட்ட பசுமையும் நிரப்புகின்றன; இது பாதுகாப்பு நிர்வகிக்கப்படும் பெரிய குடியிருப்புப் பகுதி.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள Horizon Hills வேலியிட்ட நகரம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 இரண்டு வீட்டுவசதிப் பகுதிகள் ஒரே மாதிரி தோற்றமளிக்கலாம் — செங்கல் காவல் அறை, கோடிட்ட தடுப்பு வாயில், உங்கள் ஸ்டிக்கரைச் சரிபார்க்கும் சீருடை அணிந்த காவலர். ஒன்று உறுதியான சட்ட அடிப்படையில் நிற்கிறது. மற்றொன்று, இதுவரை யாரும் அதை எதிர்த்து சவால் விடாததால் மட்டுமே இருக்கிறது.

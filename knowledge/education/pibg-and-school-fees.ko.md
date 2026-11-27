@@ -29,7 +29,7 @@ faq:
     a: "아닙니다. 공립 초등·중등학교 교육은 수업료를 부과하지 않습니다. 특별 요금도 SPI Bil. 13/2007을 통해 2008년부터 폐지되었습니다."
 
 lang: "ko"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["enrolling-in-a-government-school", "national-schools-sk-sjkc-sjkt", "malaysian-education-system"]
 keywords: ["PIBG", "persatuan ibu bapa-guru", "yuran sekolah", "yuran khas", "sumbangan PIBG", "sekolah kerajaan", "kos persekolahan"]
 framework: explainer
+hero: '/media/education/pibg-and-school-fees/hero.webp'
+heroAlt: '쿠알라룸푸르 브릭필즈에 있는 초등학교의 낮은 빨간 지붕 건물과 녹색 운동장으로, KL 센트랄의 고층 빌딩 스카이라인을 배경으로 하고 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: 포장된 조회용 안뜰을 갖춘 여러 층의 말레이시아 중등학교 건물
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 국민중등학교 건물(SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: 학부모교사협회(PIBG) 회의를 위해 학교 강당에 모인 학부모와 교사들
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 학교의 학부모교사협회(PIBG) 정기총회
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 자녀를 「무료」 공립학교에 등록했는데도 PIBG 양식과 납부 목록이 집으로 옵니다. 그렇다면 실제로 무엇을 반드시 내야 하고, 무엇은 그렇지 않을까요?

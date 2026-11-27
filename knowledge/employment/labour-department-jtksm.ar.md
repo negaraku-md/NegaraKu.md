@@ -83,7 +83,7 @@ sources:
     publisher: "Wikipedia Bahasa Melayu (ثانوي — بانتظار تأكيد أوّلي)"
 entity: "Jabatan Tenaga Kerja Semenanjung Malaysia (JTKSM) / Department of Labour Peninsular Malaysia"
 relations: []
-related: []
+related: ["employment-act-1955-guide", "retrenchment-malaysia", "trade-unions-malaysia"]
 keywords: ["JTKSM", "Jabatan Tenaga Kerja Semenanjung Malaysia", "إدارة العمل في ماليزيا", "Labour Department Malaysia", "Department of Labour Peninsular Malaysia", "مكتب العمل", "شكوى عمالية", "aduan buruh", "eAduan JTKSM", "كيفية تقديم شكوى عمالية في ماليزيا", "راتب غير مدفوع في ماليزيا", "محكمة العمل في ماليزيا", "Labour Court Malaysia", "Employment Act 1955", "المادة 69 من Employment Act", "gaji tak dibayar"]
 framework: profile
 ---

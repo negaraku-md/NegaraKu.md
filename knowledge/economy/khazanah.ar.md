@@ -98,7 +98,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
   - { rel: "related-to", to: "bursa-malaysia" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
-related: ["glc", "epf", "pnb", "bursa-malaysia", "federal-budget", "bank-negara-malaysia"]
+related: ["glc", "epf", "pnb", "bursa-malaysia", "federal-budget", "bank-negara-malaysia", "malaysia-airports-mahb", "tenaga-nasional"]
 keywords: ["خزانة ناسيونال", "Khazanah Nasional", "صندوق الثروة السيادية ماليزيا", "Malaysia sovereign wealth fund", "GLIC Malaysia", "خزانة مقابل EPF", "خزانة مقابل PNB", "Minister of Finance Incorporated"]
 framework: profile
 ---

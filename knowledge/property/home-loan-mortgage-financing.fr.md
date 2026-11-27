@@ -36,7 +36,7 @@ faq:
     a: "Le droit de timbre est de 0.5 % du montant du prêt en vertu du Stamp Act 1949. Par exemple, un prêt de RM450,000 génère un droit de RM2,250. Le paiement doit être effectué dans un délai de 30 jours à compter de la date de signature du contrat."
 
 lang: "fr"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["prêt immobilier Malaisie", "financement hypothécaire", "marge de financement", "KWSP Akaun Sejahtera", "SJKP", "droit de timbre contrat de prêt", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'L''enseigne rouge de Public Bank Berhad et de Public Investment Bank sur une place paysagée devant un bâtiment bancaire malaisien à Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: Vue depuis la rue d'une agence Standard Chartered Bank dans une rangée de commerces au centre-ville de Seremban
+    kind: representative
+    origin: third-party
+    subject: Une agence Standard Chartered Bank sur la rue principale de Seremban, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: Vue depuis la rue d'une agence de la banque islamique Bank Muamalat dans une rangée de commerces à Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Une agence Bank Muamalat (banque islamique) à Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 La maison de vos rêves coûte peut-être RM450,000, mais la banque ne débloquera cet argent qu'une fois convaincue que vous pouvez le rembourser au cours des 30 prochaines années. C'est là que commence l'univers du financement hypothécaire — marges, ratios de service de la dette, assurances, épargne EPF et droit de timbre, autant d'éléments qui déterminent si les clés de cette maison finiront entre vos mains.

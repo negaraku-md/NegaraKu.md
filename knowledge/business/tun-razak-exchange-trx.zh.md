@@ -37,7 +37,7 @@ faq:
     a: "TRX拥有自己的铁路车站——敦拉萨国际贸易中心MRT站，自2017年起运营，由两条MRT线路服务。道路通达则由周边的吉隆坡市中心路网提供。"
 
 lang: "zh"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ relations:
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
+hero: '/media/business/tun-razak-exchange-trx/hero.webp'
+heroAlt: '明亮蓝天白云下，蓝色玻璃幕墙的纤细超高层Exchange 106高耸于敦拉萨国际贸易中心（TRX）办公楼群之上'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: Exchange 106 超高层大楼的全貌，带有多切面的银色顶冠，两侧是包括 Affin 大楼在内的较低 TRX 办公楼，映衬蓝天
+    kind: actual
+    origin: third-party
+    subject: 近距离拍摄的建成的 Exchange 106 大楼，这座 TRX 超高层建筑，其右侧是 Affin Bank 总部
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Tun Razak Exchange 区内一个铺砖的步行广场，左侧有一座不锈钢与金色相间的雕塑，后方是反光玻璃办公楼
+    kind: actual
+    origin: third-party
+    subject: Tun Razak Exchange 金融区内的街道层广场和公共艺术，被玻璃办公楼环绕
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 从敦拉萨国际贸易中心MRT站走出地面，天际线便告诉你：这是规划出来的，而非自然生长的。一簇塔楼矗立在吉隆坡市中心东缘的70英亩土地上，其中一座冲破450米，环绕着一座坐落在商场屋顶上的公园。这是马来西亚从零建起一个金融区的尝试。

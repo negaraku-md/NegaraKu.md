@@ -36,7 +36,7 @@ socialTitle: "La plus ancienne poésie orale des Malais — l'histoire du pantou
 lang: "fr"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "La date exacte de l'origine de l'art du pantoun ne peut être établie avec certitude ; l'opinion savante la plus solide la situe autour du XVe siècle, soit avant le Sejarah Melayu (~1612). Ce chiffre reste débattu et n'est pas une date définitive."
   - "La limite de longueur maximale du pantoun à longues strophes varie selon les sources (certaines mentionnent jusqu'à 16 vers, d'autres jusqu'à environ 22 vers) ; le total exact n'est pas uniforme."
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'Des artistes malais en costume traditionnel vert et or, coiffés de couvre-chefs ornés, assis par terre et exécutant des gestes de la main synchronisés lors d''une représentation de dikir barat, des tambours à main devant eux.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: Des marionnettes d'ombres en cuir finement ciselées représentant des figures mythiques projettent des silhouettes nettes sur un écran lumineux lors d'une représentation de wayang kulit kelantan-patani.
+    kind: actual
+    origin: third-party
+    subject: Théâtre d'ombres wayang kulit de style kelantan-patani
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: Un ensemble de gamelan malais richement sculpté, composé de gongs en bronze, de gongs-bouilloires et de métallophones en bois, exposé au Musée de la musique de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Ensemble de gamelan malais au Musée de la musique, Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

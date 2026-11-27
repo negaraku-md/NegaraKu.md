@@ -127,7 +127,7 @@ relations:
   - { rel: "requires", to: "esd-company-registration" }
   - { rel: "compares-with", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia"]
+related: ["labour-law-map-malaysia", "employment-pass-founder-malaysia", "work-passes-malaysia", "hiring-foreign-workers-malaysia"]
 keywords: ["employment pass malaisie", "EP catégorie 1 salaire", "Employment Pass salaire 2026", "enregistrement ESD", "myxpats", "expatrié malaisie", "renouvellement Employment Pass"]
 framework: rules
 ---

@@ -30,7 +30,7 @@ faq:
   - q: "أين يُحتفل ببانغوني أوتيرام على نطاق واسع في ماليزيا؟"
     a: "يشتهر معبد سري ماراثانذافار بالا داندايوثاباني في ماران بولاية باهانغ بأحد أكبر احتفالاته؛ كما يقيم معبد موروغان في كابار بولاية سلانغور احتفالًا كبيرًا يضم الكافادي وموكب العربة. وإلى جانب ذلك، تحيي معابد كثيرة لموروغان وماريامان في أنحاء البلاد هذا اليوم كلٌّ على قدره. ويختلف حجم الاحتفال وعاداته من معبد إلى آخر."
 lang: "ar"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,32 @@ relations:
 related: ["thaipusam", "hinduism-in-malaysia", "mariamman-worship", "ayyappan-pilgrimage", "deepavali", "navaratri", "tamil-in-malaysia"]
 keywords: ["பங்குனி உத்திரம்", "Panguni Uthiram", "பங்குனி உத்திரம் மலேசியா", "முருகன் தெய்வானை", "காவடி", "மாறான் மாரத்தாண்டவர் கோயில்", "இரண்டாம் தைப்பூசம்"]
 framework: history-culture
+hero: '/media/arts-culture/panguni-uthiram/hero.webp'
+heroAlt: 'موكب شارعي تاميلي هندوسي كبير عند الغسق، يحمل فيه المصلّون كافادي الطاووس المزيّنة ويعزف الموسيقيون الطبول وسط حشد كثيف قرب كهوف باتو.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: عربة معبد خشبية شاهقة ومزخرفة بدقّة تحمل تماثيل الآلهة تُجَرّ عبر شارع مزدحم خلال مهرجان عربة المعبد في Panguni.
+    kind: representative
+    origin: third-party
+    subject: موكب عربة المعبد (ther) خلال مهرجان Panguni، Mylapore
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: عربتا معبد عاليتان مزخرفتان بألوان زاهية تقفان جنبًا إلى جنب وسط المحبّين والكهنة في مهرجان العربات Panguni Uthiram.
+    kind: representative
+    origin: third-party
+    subject: عربات معبد مزخرفة في مهرجان العربات Panguni Uthiram
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 في شهر بانغوني، ثمة ليلة يملأ فيها القمرُ المكتملُ السماءَ. وفي التقليد

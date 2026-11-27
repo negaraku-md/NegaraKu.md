@@ -31,7 +31,7 @@ faq:
     a: "يحصل الفائزون على رسالة تكريم وطنية، ومبلغ RM60,000 نقداً، ومخصص نشر تصل قيمته إلى RM500,000 (حتى 50,000 نسخة)، وعلاج طبي مجاني في جناح الدرجة الأولى بالمستشفيات الحكومية، ومخصص شهري قدره RM5,000."
 
 lang: "ar"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["الأدب الماليزي", "sastera Malaysia", "أديب الأمة", "Sasterawan Negara", "جائزة الأدب الوطني", "Anugerah Sastera Negara", "الأدب الوطني", "مجلس اللغة والأدب", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'مبنى ديوان بهاسا دان بوستاكا في كوالالمبور، وتغطّي واجهته المنحنية جدارية كبيرة تصوّر الحياة الماليزية، واسمه ظاهر جزئياً على برج المكاتب الأحمر المجاور له.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: حشود من القرّاء يتصفّحون صفوف أجنحة الناشرين المكدّسة بالكتب في معرض الكتاب الدولي في ماليزيا
+    kind: actual
+    origin: third-party
+    subject: زوّار يتصفّحون الأجنحة في معرض Kuala Lumpur الدولي للكتاب (Pesta Buku Antarabangsa Kuala Lumpur) 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: مبنى المكتبة الوطنية الماليزية في Kuala Lumpur، يعلوه سقف أزرق مميّز بزخرفة songket
+    kind: actual
+    origin: third-party
+    subject: المكتبة الوطنية الماليزية (Perpustakaan Negara Malaysia) في Kuala Lumpur، بسقفها الخيميّ المستوحى من نسيج songket
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 قبل أن تُوجد الروايات وقبل أن يُوجد مجلس للغة، كان راوٍ قد صاغ بالفعل أبطالاً ملايويين في باحة قصر ملقا. ومن ذلك التقليد الشفوي نما واحد من أغنى الموروثات الأدبية في المنطقة — تقليد يُحتفى به اليوم بلقب وطني، وبمئات الآلاف من الرينغيت، وبمقعد تشريف في حضارة الأمة.

@@ -83,6 +83,32 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'Menara Berkembar Petronas yang berkilauan menjulang tinggi di atas kaki langit Kuala Lumpur di bawah langit yang cerah.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: Pancutan air melengkung dari air pancut Tasik Simfoni di Taman KLCC, dibingkai oleh hamparan rumput hijau terurus dan kehijauan bandar berlanskap di bawah langit tropika yang cerah.
+    kind: actual
+    origin: third-party
+    subject: Air pancut di Taman KLCC, di Pusat Bandar Raya Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: Pencakar langit Merdeka 118 yang langsing dan bersisi berlian meruncing kepada menara puncak yang tinggi mengatasi kaki langit Kuala Lumpur, salah satu bangunan tertinggi di dunia.
+    kind: actual
+    origin: third-party
+    subject: Menara Merdeka 118, salah satu bangunan tertinggi di dunia, di Kuala Lumpur
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 Pada suatu pagi Februari 1991, seorang Perdana Menteri berdiri di hadapan ahli perniagaan terkemuka negara dan meletakkan satu sasaran untuk 30 tahun ke hadapan: menjelang tahun 2020, Malaysia hendaklah menjadi sebuah negara maju sepenuhnya — bukan sekadar dari segi ekonomi, tetapi juga dari segi perpaduan, keadilan sosial dan kematangan sivik. Gagasan itulah yang kemudiannya dikenali sebagai Wawasan 2020.

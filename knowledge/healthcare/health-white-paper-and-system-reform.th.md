@@ -32,7 +32,7 @@ faq:
     a: "รัฐบาลยืนยันว่าไม่ โครงการอย่าง Rakan KKM ถูกวางกรอบเป็นแบบจำลองเพื่อรักษาผู้เชี่ยวชาญไว้ในภาครัฐ ไม่ใช่การแปรรูปเป็นเอกชน แม้ว่าผู้สังเกตการณ์บางส่วนยังคงระมัดระวังต่อผลกระทบระยะยาว"
 
 lang: "th"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 entity: "Kertas Putih Kesihatan"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "covid-19-pandemic-response-and-legacy"]
 keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihatan", "KKM", "insurans kesihatan nasional", "Rakan KKM"]
 framework: explainer
+hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'
+heroAlt: 'อาคารกระทรวงสาธารณสุขมาเลเซียกรุกระจกสมัยใหม่ในปุตราจายา ประดับด้วยธงชาติมาเลเซียผืนใหญ่'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: อาคารสำนักงานรัฐบาลกลางของมาเลเซียในปุตราจายาซึ่งเป็นที่ตั้งของหน่วยงานหนึ่งของกระทรวงสาธารณสุข
+    kind: actual
+    origin: third-party
+    subject: อาคารกระทรวงสาธารณสุขมาเลเซีย(KementerianKesihatanMalaysia)ในปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: เจ้าหน้าที่สองคนที่โต๊ะลงนามในห้องโถงต้อนรับของกระทรวงสาธารณสุขมาเลเซียมีชื่อกระทรวงและตราแผ่นดินมาเลเซียอยู่บนผนังด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: การประชุมอย่างเป็นทางการที่กระทรวงสาธารณสุขมาเลเซียใต้ตราคำว่าKementerianKesihatanMalaysiaและตราแผ่นดิน
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 คลินิกของรัฐรองรับการมาตรวจของผู้ป่วยนอกเกือบสองในสามของประเทศ — แต่คิดเป็นเพียงราวหนึ่งในสี่ของสถานพยาบาลปฐมภูมิ ความไม่สมดุลนี้เอง เป็นต้น ที่ผลักดันให้กระทรวงสาธารณสุขมาเลเซีย (KKM) เขียนเอกสารนโยบายที่สำคัญที่สุดในหนึ่งชั่วอายุคน คือ สมุดปกขาวด้านสุขภาพ

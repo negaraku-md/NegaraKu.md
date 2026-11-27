@@ -37,7 +37,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 
 status: "published"
 aiAssisted: true
@@ -85,9 +85,35 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tribunal Pengurusan Strata", "Akta Pengurusan Strata 2013", "caj penyelenggaraan", "kumpulan wang penjelas", "COB", "strata"]
 framework: explainer
+hero: '/media/property/strata-management-jmb-mc/hero.webp'
+heroAlt: 'குவாலாலம்பூரில் உள்ள ஓரியன் காண்டோமினியம் மற்றும் ஸ்கை ரெசிடென்சஸ் ஸ்ட்ராட்டா வானுயர் கட்டிடங்கள்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: பினாங்கு, Butterworth, Harbour View இல் நவீன ஸ்ட்ரேட்டா கான்டோமினியம் கோபுரங்களின் தொகுப்பு; JMB அல்லது மேலாண்மைக் கழகத்தால் நிர்வகிக்கப்படும் வகைத் திட்டம் இது
+    kind: representative
+    origin: third-party
+    subject: Butterworth, Harbour View இல் உயரமான ஸ்ட்ரேட்டா கான்டோமினியங்களின் தொகுப்பு
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: பினாங்கு, Gelugor இல் The Oasis ஸ்ட்ரேட்டா கான்டோமினியத்தின் வேலியிட்ட நுழைவாயில், காவல் அறை மற்றும் பொதுக் கிளப் ஹவுஸ் தொகுதி; பின்னால் அதன் குடியிருப்புக் கோபுரங்கள்
+    kind: representative
+    origin: third-party
+    subject: பினாங்கு, Gelugor இல் The Oasis கான்டோமினியத்தின் காவல் கொண்ட நுழைவாயிலும் கிளப் ஹவுஸும்
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 நீங்கள் ஒரு கான்டோமினியம் அலகை வாங்குகிறீர்கள், ஆனால் லிஃப்ட், நீச்சல் குளம் மற்றும் கார் நிறுத்துமிடச் சந்து ஆகியவற்றை உண்மையில் யார் வைத்திருக்கிறார்கள் — மேலும் உங்களிடமிருந்து மாதாந்திரக் கட்டணத்தை வசூலிக்க யாருக்கு உரிமை உண்டு? பதில் ஒரு நிர்வாக அடுக்கில் உள்ளது, தகராறு எழும் வரை வாங்குநர்கள் அரிதாகவே படிக்கும் அடுக்கு: 2013 ஆம் ஆண்டு அடுக்கு மேலாண்மைச் சட்டத்தின் (Akta Pengurusan Strata 2013, Akta 757) கட்டமைப்பு.

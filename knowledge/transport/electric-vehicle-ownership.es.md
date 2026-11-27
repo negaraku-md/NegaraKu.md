@@ -31,7 +31,7 @@ faq:
     a: "RM20 al año para los EV de 50 kW y menos, según las directrices LKM de vehículos eléctricos de JPJ. Las tarifas aumentan progresivamente para potencias mayores."
 
 lang: "es"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,32 @@ keywords:
   - "cukai jalan kenderaan elektrik JPJ"
   - "road tax EV Malaysia"
 framework: explainer
+hero: '/media/transport/electric-vehicle-ownership/hero.webp'
+heroAlt: 'Un cargador DC para vehículos eléctricos junto a una plaza de carga rotulada Charge up and stay positive en un área de descanso de una autopista malasia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: Una plaza de carga rápida de corriente continua Shell Recharge para vehículos eléctricos en el área de servicio de la autopista LDP, en Puchong, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Estación de carga rápida de corriente continua Shell Recharge, LDP Puchong South, Malasia
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: Un SUV eléctrico BYD Atto 3 azul de 2023, un vehículo eléctrico popular en el mercado malasio, estacionado en Penang.
+    kind: actual
+    origin: third-party
+    subject: SUV eléctrico BYD Atto 3 en Penang, Malasia
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 La era del impuesto de circulación gratuito para los coches eléctricos en Malasia ha terminado — pero la primera factura que te llegue en tu MyJPJ puede ser más barata de lo que piensas, y se calcula de una forma completamente nueva.

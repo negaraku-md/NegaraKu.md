@@ -31,7 +31,7 @@ faq:
   - q: மலேசியத் தளபாடத்திற்கான முக்கிய வாடிக்கையாளர்கள் யார்?
     a: ஐக்கிய அமெரிக்காவே இதுவரை மிகப்பெரிய ஒற்றைச் சந்தை — 2024 இல் தளபாட ஏற்றுமதியில் பாதிக்கு அருகில் எடுத்துக்கொண்டது — அதைத் தொடர்ந்து சிங்கப்பூர், ஆஸ்திரேலியா, ஜப்பான் மற்றும் ஐக்கிய இராச்சியம் போன்ற சந்தைகள். இந்த அதிக ஐக்கிய அமெரிக்க குவிப்பு இத்தொழிலை அமெரிக்க வீட்டுத் தேவை மற்றும் கட்டணக் கொள்கைக்கும் உணர்திறன் உடையதாக ஆக்குகிறது.
 lang: ta
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: ஜொகூர், கிளுவாங்கில் உள்ள ஹோம் பெஸ்ட் தளபாடக் கடையின் தெளிவான நீல வானத்தைப் பின்னணியாகக் கொண்ட, கண்ணைக் கவரும் சிவப்பு-வெள்ளை மூலைக் கட்டிடம்; அதன் பலகைகளில் மலாய் மற்றும் சீன மொழிகளில் புசாட் பெராபோட் ஹோம் பெஸ்ட் ஃபர்னிச்சர் என்று எழுதப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, ஜொகூர், கிளுவாங் நகரில் ஜாலான் மங்கிஸ் சாலையில் உள்ள ஒரு தளபாடச் சில்லறை விற்பனையகம், புசாட் பெராபோட் ஹோம் பெஸ்ட்
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: சபா, சண்டகானில் பக்கங்கள் திறந்த ஒரு கூரையிட்ட மரக்கட்டை முற்றத்தை நிரப்பும், புதிதாக அறுக்கப்பட்ட வெப்பமண்டல மரப் பலகைகளின் நேர்த்தியாக அடுக்கப்பட்ட வரிசைகள்; பிற்பகல் சூரிய ஒளியில் அவற்றின் தேன் நிற மற்றும் சிவப்பு கலந்த பழுப்பு நிற மரநார் ஒளிர்கிறது.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, சண்டகானில் ஒரு மரக்கட்டை முற்றத்தில் விற்பனைக்கு வைக்கப்பட்டுள்ள அறுக்கப்பட்ட வெப்பமண்டல மரப் பலகைகளின் அடுக்குகள்
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 டெக்சாஸ் அல்லது கலிஃபோர்னியாவில் உள்ள ஒரு வீட்டில் எங்கோ, உணவுமேசை நாற்காலி, படுக்கைச் சட்டம் அல்லது புத்தக அலமாரி மலேசியாவில் தயாரிக்கப்பட்டிருக்க நல்ல வாய்ப்பு உள்ளது — மிகவும் சாத்தியமாக ஒரு நகரத்தைச் சுற்றியும் அதற்குள்ளும், கையுறைகள் மற்றும் டயர்களுக்கு ஒருமுறை லேடெக்ஸ் உற்பத்தி செய்த ஒரு ரப்பர் மரத்தின் மரத்திலிருந்து. மலேசியாவின் தளபாடம் மற்றும் மரப் பொருட்கள் தொழில் அதன் உற்பத்திப் பொருளாதாரத்தின் அமைதியான கனரக எடைகளில் ஒன்று: கவர்ச்சிகரமானதல்ல, ஆனால் தோட்டத் துறையின் ஒரு துணைப்பொருளை உலகம் முழுவதும் விற்கப்படும் முடிக்கப்பட்ட பொருட்களாக மாற்றிய ஒரு நிலையான முதல்-பத்து உலகளாவிய ஏற்றுமதியாளர்.

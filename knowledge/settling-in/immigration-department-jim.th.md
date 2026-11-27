@@ -27,7 +27,7 @@ faq:
   - q: "หนังสือเดินทาง 10 ปีเล่มใหม่ราคาเท่าใด?"
     a: "หนังสือเดินทาง 10 ปีราคา RM350 สำหรับผู้ยื่นคำร้องอายุ 18–59 ปี, RM175 สำหรับผู้สูงอายุ 60 ปีขึ้นไป และไม่มีค่าใช้จ่ายสำหรับผู้ถือบัตร OKU (ผู้พิการ) อายุ 18 ปีขึ้นไป ภายใต้คำสั่งค่าธรรมเนียม (หนังสือเดินทางและวีซ่า) (แก้ไข) 2026"
 lang: "th"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,9 +75,35 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'ด้านหน้าอาคารสูงตระการตาของสำนักงานใหญ่กรมตรวจคนเข้าเมืองมาเลเซียในปุตราจายา ที่มีชื่อ "Jabatan Imigresen Malaysia" และตราสัญลักษณ์ของกรม พร้อมธงโบกสะบัดอยู่เหนือทางเข้า'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: สำนักงานสาขาของสำนักงานตรวจคนเข้าเมือง (Jabatan Imigresen) ในเซิมปอร์นา รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: สาขาสำนักงานตรวจคนเข้าเมือง (Jabatan Imigresen) ในเซิมปอร์นา รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: ตราประทับหนังสือเดินทางเข้าออกของมาเลเซียที่ประทับ ณ ด่านตรวจคนเข้าเมือง
+    kind: actual
+    origin: third-party
+    subject: ตราประทับหนังสือเดินทางเข้าออกของมาเลเซีย
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 หน่วยงานเดียวอยู่เบื้องหลังเอกสารแทบทุกฉบับที่อนุญาตให้บุคคลข้ามพรมแดนมาเลเซีย พำนักที่นี่ หรือทำงานที่นี่ **กรมตรวจคนเข้าเมืองมาเลเซีย** — *Jabatan Imigresen Malaysia* (**JIM**) — เป็นหน่วยงานภายใต้ **กระทรวงมหาดไทย** ที่ออกหนังสือเดินทางให้แก่พลเมือง ให้วีซ่าและใบอนุญาตแก่ชาวต่างชาติ ประจำเคาน์เตอร์ทุกแห่งที่สนามบินและพรมแดนทางบก และบังคับใช้กฎหมายตรวจคนเข้าเมือง กรมให้บริการแก่พลเมืองมาเลเซีย ผู้มีถิ่นที่อยู่ถาวร และผู้เยือนชาวต่างชาติ และดำเนินการมาตั้งแต่ **21 กรกฎาคม 1922** จุดที่ทำให้ผู้มาใหม่สับสนคือบริการของกรมกระจายอยู่ในเว็บไซต์อย่างเป็นทางการหลายแห่ง — หน้านี้ทำแผนที่ให้

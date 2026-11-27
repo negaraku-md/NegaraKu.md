@@ -33,7 +33,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "மலேசியாவில் கணக்கியல் படிப்பு மற்றும் தகுதி வழிகள்"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'மலேசியாவில் ஒரு கணக்காளராகத் தகுதிபெறுவது எப்படி என்பதை முடிவு செய்யும், ஒரு பட்டம், ACCA, CIMA அல்லது வேறு தொழில்முறை வழியை எடைபோடும் மாணவர்கள் மற்றும் தொழில் மாற்றுபவர்களுக்கானது இது.'
+  how: 'முதலில் இலக்கை நிர்ணயிக்கவும்: Accountants Act 1967-இன் கீழ் Malaysian Institute of Accountants (MIA, மலேசியக் கணக்காளர்கள் கழகம்)-இன் உறுப்பினராக இருக்கும்போதே நீங்கள் சட்டப்படி ஒரு தொழில்முறைக் கணக்காளர். MIA-வை அடைய மூன்று வழிகள் உள்ளன — அங்கீகரிக்கப்பட்ட பட்டம் + அனுபவம்; அங்கீகரிக்கப்பட்ட தொழில்முறை அமைப்பு (ACCA, CIMA மற்றும் பிற) + அனுபவம்; அல்லது MIA Qualifying Examination + அனுபவம். ACCA தணிக்கை, பொதுப் பயிற்சி மற்றும் உலகளாவிய எடுத்துச்செல்லுந்தன்மை பக்கம் சாய்கிறது; CIMA மேலாண்மைக் கணக்கியல் மற்றும் தொழில்துறை பக்கம்.'
+  cost: 'கட்டணங்கள், தேர்வுகளின் எண்ணிக்கை, மற்றும் அங்கீகரிக்கப்பட்ட பட்டம் தரும் விலக்குகள் (exemptions) ஆகியவை ஒவ்வொரு அங்கீகாரச் சுழற்சியிலும் மாறுகின்றன; எனவே மேற்கோள் காட்டப்பட்ட விலக்கு எண்ணிக்கையை நம்பாமல், தற்போதைய எண்களை அமைப்பு, கற்பிப்பு வழங்குநர் மற்றும் பல்கலைக்கழகத்திடமிருந்து நீங்களே மொத்தம் கணக்கிடவும்.'
+  watch: 'ACCA அல்லது CIMA மட்டும் உங்களை மலேசியக் கணக்காளராக ஆக்காது — MIA உறுப்பினர்மையே ஆக்குகிறது, அந்தத் தகுதி + அனுபவமே அதற்கான வழி. விலக்கு எண்ணிக்கை இந்தத் தலைப்பில் மிகவும் அடிக்கடி மாறும் தகவல்; அதை ஒவ்வொரு படிப்புக்கும் சரிபார்க்கவும்.'
+  next: 'நீங்கள் வேலை செய்ய விரும்பும் இடத்துடன் பொருந்தும் வழக்கமான இலக்கைக் கொண்ட அமைப்பைத் தேர்ந்தெடுத்து, அது தற்போது MIA உறுப்பினர்மைக்கு வழிவகுக்கிறதா மற்றும் என்ன அனுபவம் தேவை என்பதை உறுதிப்படுத்தி, பின்னர் உங்கள் நுழைவுப் புள்ளி, கற்கும் முறை மற்றும் விலக்குகளை மேம்படுத்தவும். கல்லூரி வைப்புத்தொகை செலுத்துவதற்கு முன் என்பதைப் பார்க்கவும்.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: '"KOMPLEKS DEWAN KULIAH" என்ற அடையாளப் பலகையுடன் கூடிய மலேசிய பல்கலைக்கழக விரிவுரை மண்டப வளாகம், மெரூன் நிற கல்விக் கட்டிடங்கள் மற்றும் கூரையிட்ட நடைபாதையுடன்.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: மலேசியப் பல்கலைக்கழக விரிவுரை மண்டபமொன்றில் படிநிலையாக அமைந்த வரிசை இருக்கைகள்; பட்டப் படிப்பு மற்றும் தொழில்முறைக் கணக்கியல் மாணவர்கள் வகுப்புகளுக்கு அமரும் வகை.
+    kind: actual
+    origin: third-party
+    subject: Universiti Malaysia Sabah-இல் ஒரு பல்கலைக்கழக விரிவுரை மண்டபம்
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: Universiti Malaya நூலகமொன்றில் அமைதியான தனி படிப்பு மேசைகளின் வரிசைகள்; மாணவர்கள் பட்டப் படிப்பு மற்றும் ACCA அல்லது CIMA தாள்களை இங்கே உழைத்துப் படிக்கிறார்கள்.
+    kind: representative
+    origin: third-party
+    subject: Universiti Malaya நூலகத்தில் படிப்பு மேசைகள்
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 மலேசியாவில் கணக்காளராக எப்படி ஆவது என்பதைத் தீர்மானிக்கும் எவரும் நேராக ஒரு எழுத்துக்கூட்டுக்குள் நுழைகிறார்கள்: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** இது நீங்கள் தேர்ந்தெடுக்க வேண்டிய போட்டித் தகுதிகளின் ஒரு பட்டியலைப் போலத் தோன்றுகிறது. ஆனால் இதை **அதை நோக்கிப் பல சாலைகளைக் கொண்ட ஒரே இலக்காக** புரிந்துகொள்வது சிறந்தது — இலக்கைப் பார்த்தவுடன் தேர்வுகள் தானாகவே இடம்பிடிக்கின்றன.

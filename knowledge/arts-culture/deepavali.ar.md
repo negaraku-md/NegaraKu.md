@@ -30,7 +30,7 @@ faq:
     a: "هذه المصابيح — مصابيح صغيرة من الطين أو المعدن تُسمّى غالباً «ديا» (diyas) — هي القلب البصري لـ«عيد الأنوار». وتُضاء صفوف منها عند الأبواب والنوافذ، صدىً لمعنى اسم العيد، «صفّ من الأنوار»."
 
 lang: "ar"
-sourceContentHash: "a70960b15c7e2517"
+sourceContentHash: "1a61d9995cca79a9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ festivalFacts:
   when: "يُحدَّد بحسب التقويم الهندوسي (التاميلي) القمري، وعادةً في أكتوبر أو نوفمبر؛ ويتغيّر التاريخ المُعلَن في الجريدة الرسمية كل عام ويُشار إليه على أنه عرضة للتغيير."
   holiday: "عطلة رسمية اتحادية مُعلَنة في الجريدة الرسمية ومُطبَّقة في كل ولاية وإقليم اتحادي باستثناء Sarawak، التي تحتفظ بجدول عطلاتها الرسمية الخاص."
   etiquette: "يُرحَّب بالزوّار في الأبواب المفتوحة؛ ارتدِ ملابس محتشمة، واخلع الحذاء قبل دخول منزل أو معبد، وتقديم هدية صغيرة من الحلوى بادرة متعارَف عليها."
+hero: '/media/arts-culture/deepavali/hero.webp'
+heroAlt: 'كولام طاووس ملوّن مصنوع من المسحوق الملوّن، محاط بحدود بيضاء ومصابيح زيتية طينية صغيرة مضاءة، احتفالاً بديوالي في ماليزيا'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Deepavali kolam ringed by lit oil lamps in Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/deepavali/body-1.webp
+    alt: صفوف من فوانيس ديبافالي الزخرفية الصفراء الزاهية معلقة فوق بهو مزدحم بالمسافرين في محطة كيه إل سنترال بكوالالمبور
+    kind: actual
+    origin: third-party
+    subject: فوانيس ديبافالي المعلقة وحشود الاحتفال في محطة كيه إل سنترال
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_2019_at_KL_Sentral.jpg
+  - role: scene
+    src: /media/arts-culture/deepavali/body-2.webp
+    alt: لوحة كولام عملاقة على شكل طاووس بألوان زاهية رُسمت بالمساحيق الملونة على أرضية محطة كيه إل سنترال المصقولة بمناسبة ديبافالي
+    kind: actual
+    origin: third-party
+    subject: لوحة كولام أرضية كبيرة بزخرفة الطاووس في محطة كيه إل سنترال بمناسبة ديبافالي
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
 ---
 
 لليلة واحدة، يتكلّم المصباح. تُصفّ مصابيح الطين الصغيرة على طول الأبواب وحوافّ النوافذ، ويُرسَم على العتبة نمطٌ أرضي من الأرزّ أو المسحوق الملوّن، فيتحوّل بيتٌ كان مظلماً قبل ساعة إلى خطوطٍ من اللهب. ومن هنا يستمدّ العيد اسمه: فكلمة *ديبافالي* تأتي من السنسكريتية بمعنى «صفّ أو سلسلة من الأنوار».

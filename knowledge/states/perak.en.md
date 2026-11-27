@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 
 status: "published"
 aiAssisted: true
@@ -111,9 +111,35 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'The white, domed colonial-era Ipoh railway station building with arched colonnades under a clear sky.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: The unfinished red-brick mansion and tower of Kellie's Castle stand amid greenery near Batu Gajah in Perak.
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Batu Gajah, Perak
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: Illuminated stalactites and flowstone formations fill the vast limestone chamber of Gua Tempurung near Gopeng in Perak.
+    kind: actual
+    origin: third-party
+    subject: Gua Tempurung limestone cave, Gopeng, Perak
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 On 20 January 1874, a treaty was signed in the waters near Pangkor Island.

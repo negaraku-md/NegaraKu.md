@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 adalah kebijakan yang diluncurkan pada ICW 2021, menyusul berakhirnya periode Program Transformasi Industri Konstruksi (CITP) 2016–2020. Ia menguraikan enam pilar strategis untuk mentransformasi sektor konstruksi ke arah era digital menjelang 2030, termasuk target mendigitalkan 50% siklus industri."
 
 lang: "id"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Penggalian fondasi dalam di sebuah lokasi konstruksi gedung tinggi di Kuala Lumpur, dengan derek menara, penyangga merah, dan para pekerja, berlatar belakang cakrawala kota.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: Derek menara menjulang di atas sebuah gedung bertingkat tinggi yang sedang dibangun di pusat kota Kuala Lumpur, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Lokasi konstruksi gedung bertingkat tinggi di Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: Sebuah menara apartemen berlayanan dari beton bertulang yang sedang dibangun di Jalan Kuda Emas dekat Bukit Jalil, Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Pembangunan apartemen berlayanan dekat Bukit Jalil, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 Coba dirikan pagar sekolah bernilai RM250,000 tanpa memegang sertifikat pendaftaran kontraktor, dan proyek Anda dapat diperintahkan berhenti seketika — sebelum tiang pertama pun ditanam. Di Malaysia, hak untuk membangun tidak bermula dengan mesin atau buruh; ia bermula dengan satu pendaftaran.

@@ -34,7 +34,7 @@ faq:
     a: "它常被称为「马来西亚新浪潮」（Malaysian New Wave），是 2000 年代初兴起的一波独立电影人浪潮。由陈翠梅（Tan Chui Mui）、Amir Muhammad、李添兴（James Lee）与刘城达（Liew Seng Tat）于 2004 年创立的大荒电影（Da Huang Pictures）是其核心之一；陈翠梅的电影《爱情征服一切》（Love Conquers All）赢得 2006 年釜山国际电影节的「新潮流」（New Currents）与 FIPRESCI 奖，以及鹿特丹的老虎奖（Tiger Award）。"
 
 lang: "zh"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,32 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: '经修复的传统马来木屋，是电影传奇人物 P. Ramlee 的出生地，如今成为纪念馆，有茅草屋顶，砖砌前庭上立着纪念牌匾。'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: 吉隆坡市中心一座战前单厅电影院——古典戏院（Coliseum Cinema）的街面立面与遮檐招牌
+    kind: actual
+    origin: third-party
+    subject: 位于吉隆坡东姑阿都拉曼路的历史悠久的古典戏院（Coliseum Cinema），马来西亚现存最古老的电影院之一
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: 吉隆坡一家购物商场内，一座当代多厅电影院灯火通明的大堂与招牌
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡武吉免登柏威年广场（Pavilion Bukit Bintang）一家现代多厅电影院的入口
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 1955 年，一位曾在新加坡安巴士路 8 号某片厂担任场记（*clapper*）小工和助理摄影的年轻人，26 岁那年第一次坐上导演椅。那部电影是《Penarek Becha》（三轮车夫）。他的名字叫 P. Ramlee。马来西亚电影业的故事并非始于吉隆坡，而是始于一家由两位来自上海的兄弟拥有的新加坡片厂——而自那时起，它便从未停止前行。

@@ -31,7 +31,7 @@ faq:
     a: "JPJ के अनुसार, जारी होने की तिथि से 60 दिनों के भीतर न निपटाई गई AwAS सूचना अदालती कार्रवाई का कारण बन सकती है, दोषसिद्धि पर RM300 और RM2,000 के बीच के जुर्माने के साथ।"
 
 lang: "hi"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["मलेशिया यातायात समन", "saman trafik Malaysia", "JPJ समन जाँच", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "यातायात कंपाउंड", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'एक व्यस्त कुआलालंपुर शहर चौराहे पर एक मलेशियाई यातायात पुलिस अधिकारी अपनी सफेद POLIS गश्ती मोटरसाइकिल के बगल में खड़े होकर लिख रहा है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: एक सड़क पर नाकाबंदी पर खड़े वर्दीधारी पुलिस अधिकारी, जो चेकपॉइंट पर धीमे होकर रुकते वाहनों की जाँच कर रहे हैं।
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई पुलिस नाकाबंदी जहाँ अधिकारी वाहनों को रोककर जाँच करते हैं
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: रिफ़्लेक्टिव जैकेट और हेलमेट पहने एक मलेशियाई ट्रैफ़िक पुलिस अधिकारी एक शहरी सड़क पर खड़ा गुज़रते वाहनों को संभाल रहा है।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर की एक सड़क पर ड्यूटी पर ट्रैफ़िक निर्देशित करता एक ट्रैफ़िक पुलिस अधिकारी
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 एक चालक को चार प्रकार के समन मिल सकते हैं जो कागज़ पर एक जैसे दिखते हैं — लेकिन वे चार अलग-अलग पक्षों से आते हैं, और हर एक को एक अलग जगह जाँचना होता है। बहुत से लोग केवल एक ही पोर्टल जानते हैं, और मान लेते हैं कि उनका समन «गायब» हो गया है जबकि वह असल में एक अलग प्रणाली में पड़ा होता है।

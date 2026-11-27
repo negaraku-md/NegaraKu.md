@@ -29,7 +29,7 @@ faq:
     a: "SUKMA वह राज्य मंच है जहाँ युवा खिलाड़ी अपनी प्रतिभा का प्रदर्शन करते हैं। संभावनाशील खिलाड़ियों को MSN के प्रतिभा-विकास और रिज़र्व कार्यक्रमों में, और आगे ISN के पोडियम कार्यक्रम में पदोन्नत किया जा सकता है, जो शीर्ष खिलाड़ियों को अंतरराष्ट्रीय खेलों के लिए तैयार करता है।"
 
 lang: "hi"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,7 @@ verificationNeeded:
   - "MSN के विकास कार्यक्रमों की संरचना और सटीक नाम (प्रतिभा कार्यक्रम/Program Bakat; राज्य/क्षेत्रीय/राष्ट्रीय रिज़र्व कार्यक्रम/Program Pelapis) — नवीनतम नामकरण की पुष्टि करें।"
   - "ISN के पोडियम कार्यक्रम (Podium Programme) में खिलाड़ियों के चयन के विशिष्ट मानदंड — विवरण आधिकारिक वेबसाइट पर सूचीबद्ध नहीं हैं।"
   - "मेज़बान की बुनियादी ढाँचा निवेश और घरेलू-मैदान लाभ के बारे में सामान्य कथन — अभी तक किसी विशिष्ट स्रोत से समर्थित नहीं; इसकी पुष्टि करें या इसे हटा दें।"
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
   - title: "10,000 खिलाड़ी SUKMA XXII, Para SUKMA Selangor 2026 में रौनक लाएँगे (10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026)"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
@@ -69,15 +69,62 @@ sources:
   - title: "पोडियम कार्यक्रम — राष्ट्रीय खेल संस्थान (Program Podium — Institut Sukan Negara)"
     url: "https://isn.gov.my/bahagian-podium/"
     publisher: "राष्ट्रीय खेल संस्थान (Institut Sukan Negara)"
+  - title: "मलेशिया खेल (SUKMA) — इतिहास और संस्करणों की सूची (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "विकिपीडिया (Wikipedia)"
+  - title: "SUKMA को 21 वर्ष से कम आयु की प्रतियोगिता बना रहना चाहिए, NSC का कहना (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "New Straits Times"
+  - title: "SUKMA 2026 में 474 स्पर्धाएँ, टूर्नामेंट के इतिहास में सर्वाधिक (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "Bernama"
+  - title: "2004 में लगभग संन्यास के बाद SUKMA ने कैसे Pandelela के गोताखोरी करियर को बचाया (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "Malay Mail"
+  - title: "Jin Wei ने Li Lian को हराकर SUKMA स्वर्ण जीता (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "The Star"
+  - title: "Welson SUKMA XV में बड़ा धमाल मचाएँगे (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "The Borneo Post"
+  - title: "Khairul Hafiz ने 100 मीटर का राष्ट्रीय रिकॉर्ड तोड़ा (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "The Star"
 
 entity: "Sukan Malaysia (SUKMA)"
 wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "football-in-malaysia"]
 keywords: ["सुकमा", "SUKMA", "मलेशिया खेल", "Sukan Malaysia", "राष्ट्रीय खेल परिषद", "Majlis Sukan Negara", "पोडियम कार्यक्रम", "Program Podium", "युवा खिलाड़ी", "खेल विकास", "राष्ट्रीय खेल संस्थान", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'मलेशिया में एक सुकमा गेम्स उद्घाटन समारोह के दौरान राज्य दल अपने झंडे और नाम पट्टिकाएं लेकर चलते हैं।'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: एक मलेशियाई राज्य स्टेडियम की ग्रैंडस्टैंड, हरा मैदान और लाल रनिंग ट्रैक, खाली नीली-और-पीली सीटों के साथ, जो एक SUKMA मेजबान स्थल के लिए विशिष्ट है।
+    kind: representative
+    origin: third-party
+    subject: एथलेटिक्स ट्रैक वाला एक मलेशियाई राज्य स्टेडियम, वैसा स्थल जो SUKMA आयोजनों की मेजबानी करता है
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Kota Kinabalu में Likas Sports Complex का हवाई दृश्य, जिसमें एक ट्रैक-एंड-फील्ड स्टेडियम, एक गुंबददार इनडोर एरिना और शहर के बीच आसपास की खेल सुविधाएं दिखाई दे रही हैं।
+    kind: representative
+    origin: third-party
+    subject: Sabah में Likas Sports Complex का हवाई दृश्य, एक बहु-खेल गेम्स स्थल
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 हर दो साल में, हज़ारों युवा खिलाड़ी किसी मेज़बान राज्य के स्टेडियम में कदम रखते हैं — विश्व पदकों के लिए नहीं, बल्कि अपने-अपने राज्यों के गौरव के लिए और, सबसे प्रतिभाशाली खिलाड़ियों के लिए, राष्ट्रीय शीर्ष मंच का टिकट पाने के लिए। यही है SUKMA।
@@ -94,6 +141,14 @@ SUKMA (Sukan Malaysia, मलेशिया खेल) «लघु ओलंप
 
 इसके आयोजन का प्रबंधन **[मलेशिया की राष्ट्रीय खेल परिषद](/sports/national-sports-council-msn) (MSN)** राज्य खेल परिषदों, मलेशिया स्कूल खेल परिषद (MSSM), मलेशिया विश्वविद्यालय खेल परिषद (MASUM) और रॉयल मलेशिया पुलिस खेल परिषद के साथ मिलकर करती है। नवीनतम संस्करण, **SUKMA XXII सेलांगोर 2026**, 15 से 24 August 2026 तक आयोजित होना निर्धारित है। दिव्यांग खिलाड़ियों के लिए समर्पित खेल, **Para SUKMA**, अलग से 5 से 14 September 2026 तक निर्धारित है।
 
+2026 संस्करण ने अपना एक रिकॉर्ड भी बनाया: कुल 474 स्पर्धाएँ आयोजित हुईं — जो अब तक SUKMA के इतिहास में सबसे अधिक स्पर्धाएँ हैं।
+
+## 1986 से आज तक: आयु-सीमा, चैंपियन और रिकॉर्ड
+
+SUKMA 21 वर्ष से कम आयु (U-21) की प्रतियोगिता है; यही आयु-सीमा इसकी पहचान का मूल है — राष्ट्रीय खेल परिषद (Majlis Sukan Negara, MSN) खेलों को युवा-खिलाड़ी विकास पर केंद्रित रखने के लिए इस सीमा की रक्षा करती है। अब तक इसका एकमात्र अपवाद 2022 संस्करण (SUKMA XX) रहा, जिसे आयु-सीमा बढ़ाकर 23 वर्ष से कम करने की अनुमति इसलिए दी गई क्योंकि 2020 के खेल COVID-19 महामारी के कारण रद्द हो गए थे।
+
+16 दलों से लगभग 4,500 खिलाड़ियों को एकत्र करने वाले 1986 के कुआलालंपुर के पहले संस्करण से लेकर अब तक, ये खेल कुचिंग और जोहोर बहरू से लेकर अलोर सेतार, कुआला तेरेंगानु और कोटा किनाबालू तक, विभिन्न राज्यों में बारी-बारी से आयोजित होते रहे हैं। **सेलांगोर (Selangor)** सबसे सफल दल है, जो नौ बार समग्र चैंपियन रहा है, और उसके बाद तेरेंगानु और सारावाक आते हैं। एक ही संस्करण में सर्वाधिक स्वर्ण पदकों का रिकॉर्ड भी सेलांगोर के नाम है, जिसने 1998 में SUKMA VII में 80 स्वर्ण पदक जीते।
+
 ## SUKMA शीर्ष-प्रतिभा पाइपलाइन को कैसे तैयार करता है?
 
 SUKMA मलेशिया की खेल विकास प्रणाली की पहली सीढ़ी पर बैठता है। जो खिलाड़ी इन खेलों में चमकते हैं, वे अगले स्तरों पर पदोन्नति के उम्मीदवार बन जाते हैं:
@@ -105,6 +160,17 @@ SUKMA मलेशिया की खेल विकास प्रणाल�
 **पोडियम कार्यक्रम (Podium Programme)** 2 February 2016 को युवा एवं खेल मंत्रालय के तहत शुरू किया गया था और इसे **राष्ट्रीय खेल संस्थान (ISN)** संचालित करता है। इसे विशेष रूप से शीर्ष खिलाड़ियों को ओलंपिक खेल, एशियाई खेल और राष्ट्रमंडल खेल जैसे बड़े अंतरराष्ट्रीय आयोजनों में विश्व-स्तरीय प्रदर्शन हासिल करने के लिए तैयार करने हेतु बनाया गया है। पोडियम कार्यक्रम में खिलाड़ियों का चयन ISN अपने द्वारा निर्धारित चयन मानदंडों के आधार पर करता है।
 
 दूसरे शब्दों में, SUKMA कच्ची प्रतिभा का भंडार उपलब्ध कराता है, जबकि रिज़र्व और पोडियम कार्यक्रम उस प्रतिभा को छानकर और निखारकर उच्च-प्रदर्शन वाले खिलाड़ियों में ढालते हैं।
+
+## प्रतिभा-पाइपलाइन का प्रमाण: उनकी शुरुआत SUKMA से हुई
+
+सिद्धांत सरल है; प्रमाण नामों में है। कई जाने-माने राष्ट्रीय खिलाड़ियों ने अंतरराष्ट्रीय स्तर पर मलेशिया का प्रतिनिधित्व करने से पहले सबसे पहले SUKMA में अपनी पहचान बनाई:
+
+- **Pandelela Rinong** (गोताखोरी, सारावाक) — आगे चलकर ओलंपिक गोताखोरी में पदक जीतने वाली पहली मलेशियाई खिलाड़ी बनीं (व्यक्तिगत 10 मीटर प्लेटफ़ॉर्म कांस्य, लंदन 2012; सिंक्रो रजत, रियो 2016)। उन्होंने कहा है कि SUKMA ने उनके करियर को फिर से जीवित कर दिया: 2004 में लगभग संन्यास ले लेने के बाद, 2006 के केदाह SUKMA में तीन स्वर्ण पदकों के साथ उनकी वापसी ने इस खेल के प्रति उनके जुनून को फिर से जगा दिया।
+- **Goh Jin Wei** (बैडमिंटन, पेनांग) — 14 वर्ष की आयु में SUKMA 2014 में महिला एकल स्वर्ण जीता, और फिर BWF विश्व जूनियर चैंपियन (2015 और 2018) तथा मलेशिया की पहली यूथ ओलंपिक स्वर्ण पदक विजेता बनीं।
+- **Welson Sim** (तैराकी, सारावाक) — SUKMA XV (2012) में स्वर्ण जीता, और फिर रियो 2016 ओलंपिक में भाग लिया तथा SEA Games में जीत हासिल की।
+- **Khairul Hafiz Jantan** (एथलेटिक्स, मलक्का) — SUKMA XVIII 2016 में 100 मीटर का राष्ट्रीय रिकॉर्ड (10.18 सेकंड) बनाया, जिससे Watson Nyambek का 18 साल पुराना रिकॉर्ड टूटा, और फिर राष्ट्रीय दल में पहुँचे।
+
+यह सूची महज़ संयोग नहीं है: यह एक नर्सरी के रूप में SUKMA की वास्तविक भूमिका को दर्शाती है, जहाँ राज्य की प्रतिभा को ऊँचे स्तरों पर छाँटकर भेजे जाने से पहले सबसे पहले परखा जाता है।
 
 ## राज्य मेज़बानी के लिए प्रतिस्पर्धा क्यों करते हैं?
 

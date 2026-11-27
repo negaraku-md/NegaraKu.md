@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ta"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
 framework: profile
+hero: '/media/states/selangor/hero.webp'
+heroAlt: 'ஷா ஆலத்தில் ஆழமான நீல அந்தி வானத்தை எதிர்கொண்டு ஒளிரும் நான்கு உயரமான மினாரெட்டுகளுடன் ஒளியூட்டப்பட்ட நீல குவிமாடமுடைய சுல்தான் சலாஹுதீன் அப்துல் அஜீஸ் மசூதி.'
+heroCredit: 'Ezry Abdul Rahman / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: செலாங்கூரில் கோலா செலாங்கூரைக் கண்ணோக்கும் புக்கிட் மெலவாட்டி என்ற வரலாற்றுச் சிறப்புமிக்க குன்றுமுகட்டுக் கோட்டையை கலங்கரை விளக்கம் முடிசூட்டுகிறது.
+    kind: actual
+    origin: third-party
+    subject: புக்கிட் மெலவாட்டியில் கோலா செலாங்கூர் கலங்கரை விளக்கம், செலாங்கூர்
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: செலாங்கூர், ஷா ஆலத்தில் உள்ள ஐ-சிட்டி கருப்பொருள் பூங்காவில் மரங்களும் நடைபாதைகளும் வண்ணமயமான எல்இடி விளக்குகளால் ஒளிர்கின்றன.
+    kind: actual
+    origin: third-party
+    subject: ஐ-சிட்டி ஒளிப் பூங்கா, ஷா ஆலம், செலாங்கூர்
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 மலேசியாவின் பொருளாதாரம் அமைதியாகச் சார்ந்திருக்கும் மாநிலம் செலாங்கூர். இது கூட்டாட்சி

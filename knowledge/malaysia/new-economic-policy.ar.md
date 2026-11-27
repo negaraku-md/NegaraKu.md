@@ -21,7 +21,7 @@ keyTakeaways:
   - "صيغت السياسة الاقتصادية الجديدة بعد أحداث 13 مايو 1969، وخلفتها سياسة التنمية الوطنية (National Development Policy) في 1991"
 appliesTo: "القراء الذين يريدون الأهداف والغايات والإطار الزمني الموثَّقة للسياسة الاقتصادية الجديدة كما وردت في نصوص الخطط الرسمية الماليزية، لا عرضاً متحيزاً لها."
 lang: "ar"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["السياسة الاقتصادية الجديدة", "New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "إعادة هيكلة المجتمع", "القضاء على الفقر", "الوحدة الوطنية", "حصة البوميبوترا 30%"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'مسجد بوترا ذو القبة الوردية ومجمّع بردانا بوترا الإداري الفخم يطلّان على بحيرة هادئة في بوتراجايا، العاصمة الاتحادية الماليزية المشيّدة خصّيصًا.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: البرج الأبيض الشبيه بالشراع لجسر سري واواسان المعلّق بالكابلات يرتفع فوق مياه بحيرة بوتراجايا الهادئة، فيما تتوزّع الكابلات الفولاذية كالمروحة نحو سطحه.
+    kind: actual
+    origin: third-party
+    subject: جسر سري واواسان فوق بحيرة بوتراجايا في العاصمة الإدارية الاتحادية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: جسر بوترا المستوحى من طراز أصفهان يمتد مقوّساً عبر بحيرة بوتراجايا، وتنعكس دعاماته المكسوّة بالبلاط الشبيهة بالمآذن وأقواسه المدبّبة في الماء تحت سماء زرقاء.
+    kind: actual
+    origin: third-party
+    subject: جسر بوترا (جمباتان بوترا) فوق بحيرة بوتراجايا في العاصمة الإدارية الاتحادية
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 عادةً ما تُستذكر السياسة الاقتصادية الجديدة بكلمة واحدة — «إعادة الهيكلة» — وظلت موضع جدل منذ ذلك الحين. لكن السياسة ذكرت أهدافها كتابةً، في خطة حكومية عُرضت على البرلمان، وكانت تلك الأهداف اثنين لا واحداً، مع فكرة ثالثة تعلو كليهما. تبيّن هذه المقالة ما تقوله الوثائق، بالترتيب الذي تقوله به.

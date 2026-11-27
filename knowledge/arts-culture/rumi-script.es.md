@@ -36,7 +36,7 @@ socialTitle: "Cómo el alfabeto latino se convirtió en la escritura oficial del
 lang: "es"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -78,6 +78,33 @@ verificationNeeded:
   - "Nombre oficial del sistema ortográfico de 1972 en Malasia: distintas fuentes mencionan «Ejaan Rumi Baharu» y «Ejaan Rumi Bersama» — debe verificarse frente a las directrices oficiales del DBP"
   - "Año del sistema ortográfico de Za'ba: algunas fuentes indican que se introdujo en 1924 y otras que se compiló por completo en 1933 — debe verificarse frente a fuentes primarias"
 framework: history-culture
+wikidata: "Q2673515"
+hero: '/media/arts-culture/rumi-script/hero.webp'
+heroAlt: 'Un cartel de calle malasio azul que dice Jalan Pasir Puteh en escritura jawi arriba y en letras rumi (latinas) abajo, con un hombre en motocicleta pasando a su lado.'
+heroCredit: 'Kerina yin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: Una señal azul de nombre de calle que dice 'Jalan Pasir Puteh' en letras latinas Rumi, bajo el mismo nombre en escritura Jawi, al borde de una carretera en Kelantan.
+    kind: actual
+    origin: third-party
+    subject: Señal bilingüe de nombre de calle en Jawi y Rumi, Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: Una señal vial malasia verde que dice 'Persiaran Greentown 4C, Poskod 30450 Ipoh' en grafía malaya latina (Rumi).
+    kind: actual
+    origin: third-party
+    subject: Señal de nombre de vía en malayo en escritura Rumi, Ipoh
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 Cuando leemos hoy una palabra malaya — en una señal de tráfico, en el periódico, en la pantalla del teléfono — la leemos con las mismas letras del alfabeto inglés: a, b, c, d, y así sucesivamente. Esa escritura se llama escritura rumi. Es tan habitual que muchos no se percatan de que el rumi no es la escritura originaria de la lengua malaya, y de que su forma pulcra y uniforme de hoy es fruto de un esfuerzo de estandarización que llevó más de cien años.

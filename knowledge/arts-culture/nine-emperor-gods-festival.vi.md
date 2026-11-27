@@ -32,7 +32,7 @@ faq:
   - q: "Lễ hội Cửu Hoàng Gia có giống Lễ Vu Lan (tết Trung Nguyên) hay Tết Nguyên Đán không?"
     a: "Không giống. Lễ hội Cửu Hoàng Gia là lễ hội Đạo giáo vào tháng Chín âm lịch chuyên thờ Cửu Hoàng Đại Đế, lấy thỉnh nước, ăn chay và tiễn giá làm cốt lõi; Lễ Vu Lan (tết Trung Nguyên) vào tháng Bảy âm lịch, lấy việc phổ độ và siêu độ các vong hồn lang thang làm chủ đề; Tết Nguyên Đán là lễ hội văn hóa theo mùa lấy sự đoàn viên gia đình làm trung tâm. Ba lễ khác nhau về thời gian, đối tượng và ý nghĩa, không nên nhầm lẫn."
 lang: "vi"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ festivalFacts:
   who: "Các tín đồ trong cộng đồng người Hoa Malaysia; những ngôi đền nổi tiếng gồm Nam Thiên Cung ở Ampang, Selangor, Đẩu Mẫu Cung ở ngõ Hong Kong (Hong Kong Street), Penang và Đẩu Mẫu Cung ở Butterworth."
   when: "Từ mùng 1 đến mùng 9 tháng 9 âm lịch, liên tục chín ngày (thỉnh nước vào đêm trước mùng 1, kết thúc bằng lễ tiễn giá vào mùng 9)."
   etiquette: "Nhiều tín đồ giữ 'ăn chay' (trai giới), ăn chay một ngày, ba ngày hoặc trọn chín ngày, theo truyền thống kiêng ngũ tân (năm loại gia vị cay nồng); phần lớn mặc áo trắng, thắt dải vàng ở eo; trong tiết lễ thường có lễ du cảnh (rước thần) đi diễu qua các con phố, một số đền có các nghi thức khổ hạnh như đi qua lửa (quá hỏa), xuyên bịt miệng (trát khẩu), song cách làm khác nhau tùy từng đền."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'Một đám đông tín đồ cầm nhang trước bàn thờ trong đền có rồng hai bên và treo đèn lồng vàng trong Lễ hội Cửu Hoàng Gia (Nine Emperor Gods) ở Ipoh, khói hương bốc lên ở phía trước.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: Một ngôi đền được trang hoàng trong dịp Lễ hội Cửu Hoàng Gia ở Kepala Batas, với đèn lồng, cờ phướn vàng và lễ vật
+    kind: actual
+    origin: third-party
+    subject: Lễ hội Cửu Hoàng Gia (Kew Ong Yah) được cử hành tại một ngôi đền ở Kepala Batas, Penang
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: Một cổng nghi lễ trang trí công phu dẫn vào khuôn viên Đền Cửu Hoàng Gia Tow Boo Kong ở Butterworth
+    kind: actual
+    origin: third-party
+    subject: Cổng trang trí của Đền Cửu Hoàng Gia Tow Boo Kong ở Butterworth, Penang
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 Vào đêm trước mùng 1 tháng Chín âm lịch, một hàng tín đồ mặc áo trắng thắt dải vàng ngang lưng, tay cầm hương, nối nhau ra khỏi miếu, hướng về con sông hoặc bờ biển gần nhất. Phía trước là chiêng trống, phía sau là khói hương — họ đi 'thỉnh nước', 'nghênh giá', để cung thỉnh Cửu Hoàng Đại Đế về miếu. Suốt chín ngày tiếp theo, trong miếu hương khói không dứt, ngoài miếu thoảng mùi đồ chay; đến đêm mùng 9, chính hàng người ấy lại xếp thành đoàn ra bờ nước để tiễn thần về.

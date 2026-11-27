@@ -34,7 +34,7 @@ faq:
     a: "아닙니다. 모나시, 노팅엄, 샤먼, 헤리엇와트가 클랑밸리(Klang Valley)와 푸트라자야 주변에 집적해 있지만, 에듀시티 이스칸다르는 싱가포르에 가까운 조호르에 여러 캠퍼스를 집중시키고 있으며, 커틴(Curtin)과 스윈번(Swinburne)은 사라왁에서 운영됩니다."
 
 lang: "ko"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -107,6 +107,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: '외국 대학 분교 캠퍼스 — 본교의 학위를 말레이시아에서 수여하는, 완전 소유의 해외 캠퍼스(Monash, Nottingham, Xiamen, Heriot-Watt 등) — 를 저울질하는 학생과 학부모를 위한 카드입니다.'
+  how: '본교 브랜드, 캠퍼스 위치, 전공 분야로 선택하십시오. 분교 캠퍼스는 클랑밸리, 푸트라자야, 조호르의 EduCity Iskandar 구역, 그리고 사라왁에 자리합니다. 수여되는 학위는 말레이시아 캠퍼스에서 공부하더라도 본교의 학위와 동일합니다.'
+  cost: '매력은 해외 본교에서 공부하는 것보다 훨씬 낮은 현지 학비와 생활비로 서구나 중국의 학위를 얻는다는 점입니다 — 다만 학비는 기관과 프로그램에 따라 다르니 현재 수치는 각 캠퍼스에 확인하십시오.'
+  watch: '학위는 어디서나 통용되지만 경험은 현지의 것입니다 — 수업 규모, 시설, 캠퍼스 생활은 독립형 캠퍼스와 공유형 교육도시 캠퍼스 사이에서 크게 다릅니다. 분교 캠퍼스 프로그램도 여전히 MQA 인증이 필요하며 MQR에 올라 있습니다.'
+  next: '전공과 위치로 후보를 추린 뒤, MQR에서 정확한 프로그램을 확인하고, 외국인 입학 승인 여부를 캠퍼스에 확인하십시오. 말레이시아 유학과 공립 대 사립 대학교 글을 참고하십시오.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: '극적인 하늘 아래, 늘어진 초목과 나무로 가장자리를 두른 거울처럼 잔잔한 초록 호수 너머로 시계탑이 솟은 흰 모더니즘 양식의 대학 건물'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: 유리로 덮인 고가 스카이브리지로 연결된 커다란 베이지색 캠퍼스 건물들. 탑에는 모나시 문장이 있고 안뜰에 야자수가 있다
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 선웨이 시티에서 유리 스카이브리지로 연결된 모나시 대학 말레이시아 분교 건물들
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: 군데군데 구름 낀 하늘 아래, 문이 달린 입구 광장 뒤로 층층이 빨간 중국식 지붕을 얹은 흰색 캠퍼스 건물들
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 세팡 Sepang에 있는, 중국 대학 최초의 해외 분교인 샤먼대학 말레이시아의 빨간 지붕 정문과 행정동
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998년, 쿠알라룸푸르의 한 학생은 나라를 떠나지 않고도 호주 모나시(Monash) 학위를 받을 수 있었고, 그 대가로 말레이시아 가격을 냈습니다. 이 하나의 방식이 이후 말레이시아가 계속 발전시켜 온 모델을 출범시켰습니다. 즉 학생이 아니라 대학교를 들여오는 것입니다.

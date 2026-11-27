@@ -69,6 +69,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bendera Malaysia", "14 jalur", "bintang pecah 14", "bulan sabit", "Mohamed bin Hamzah", "maksud warna bendera Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'Lá cờ Malaysia kẻ sọc đỏ trắng với góc cờ màu xanh mang hình trăng lưỡi liềm vàng và ngôi sao mười bốn cánh tung bay hết cỡ trên cột cờ trắng cao vút nổi bật trên nền trời xanh.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jalur Gemilang: Vì sao 14 sọc cho 13 bang

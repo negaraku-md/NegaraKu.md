@@ -33,7 +33,7 @@ faq:
     a: "El principio de diseño clásico del awan larat sí evita representar a seres humanos o animales como elemento primario del patrón. Sin embargo, el tallado en madera malayo también tiene su propia categoría distinta de motivos de fauna — como figuras de gallina, rinoceronte y pato — usada por separado del patrón repetitivo awan larat."
 
 lang: "es"
-sourceContentHash: "9f06d94e839f077d"
+sourceContentHash: "c0ec837c4587735e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "jawi-script", "pewter", "terengganu", "kelantan"]
 keywords: ["ukiran kayu", "ukiran kayu Melayu", "awan larat", "Desa Ukiran Kayu Besut", "motif ukiran kayu", "kraf kayu Terengganu"]
 framework: history-culture
+hero: '/media/arts-culture/wood-carving/hero.webp'
+heroAlt: 'Un panel de madera rectangular y oscuro, enmarcado, tallado en calado con follaje simétrico y fluido, zarcillos de hojas enroscados y volutas de vid al estilo malayo awan larat, montado sobre un muro pálido de museo'
+heroCredit: 'Nataschapleyer / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Figure_3-_Wooden_Panel_Carving.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a framed Malay wooden panel pierce-carved with flowing awan larat foliage motifs, Malay Peninsula, 19th-20th century'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-1.webp
+    alt: Un ornamentado minbar de madera de mezquita con un alto dosel dorado tallado y calado con follaje dorado y un remate con cresta, alzándose sobre una escalera tallada roja y dorada sobre una alfombra de oración verde
+    kind: actual
+    origin: third-party
+    subject: el minbar (púlpito) de madera dorado e intrincadamente tallado de la mezquita de Tengkera (Tranquerah) en Melaka, Malasia
+    credit: Akml5599 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Masjid_Tengkera_Minbar.jpg
+  - role: scene
+    src: /media/arts-culture/wood-carving/body-2.webp
+    alt: Una banda de talla calada con formas foliares semejantes a llamas recorriendo la tabla de aleros de madera bajo el tejado de una tradicional casa malaya de tablones marrones, enmarcada por follaje verde y cielo
+    kind: actual
+    origin: third-party
+    subject: una tabla de aleros calada (papan kerawang) rematando la línea del tejado de una tradicional casa malaya de madera en Hulu Langat, Selangor
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ukiran_kayu_di_SANTIKA_Hulu_Langat_01.jpg
 ---
 
 Mire de cerca el panel de madera en la ventana de una antigua casa malaya e intente encontrar dónde empieza el patrón. No lo encontrará. No es culpa de sus ojos — fue diseñado así.

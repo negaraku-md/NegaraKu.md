@@ -17,7 +17,7 @@ keyTakeaways:
   - "La empresa adoptó su nombre actual solo en 1992, tras una cédula real del Sultán de Selangor en 1979."
 appliesTo: "Cualquier persona interesada en las tradiciones artesanales malasias, la historia de la minería del estaño o Royal Selangor"
 lang: "es"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -59,6 +59,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'Una artesana con pañuelo púrpura en la cabeza y delantal se inclina sobre un banco de trabajo, golpeando con un pequeño martillo una jarra de peltre montada en una plantilla de acero, con filas de tazas de peltre detrás de ella'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: Un artesano del peltre que aplica una herramienta contra una jarra que gira en un torno, con virutas de metal desprendiéndose en rizos, y unos nueve cuerpos de jarras de peltre plateado pulido agrupados sobre el banco de trabajo de madera
+    kind: actual
+    origin: third-party
+    subject: un artesano malayo del peltre torneando una jarra en un torno, con jarras de peltre terminadas dispuestas sobre el banco
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: Una única jarra de peltre pulido con un asa robusta y molduras horizontales, cuya superficie plateada como un espejo capta la luz contra un fondo claro
+    kind: actual
+    origin: third-party
+    subject: una jarra de peltre pulido terminada con asa
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 Una ciudad construida sobre el estaño terminó dando al mundo un oficio metalúrgico. Kuala Lumpur existe porque los prospectores encontraron mineral de estaño donde se unen los ríos Klang y Gombak. Décadas después, un adolescente hojalatero que vino a trabajar en esa misma economía del estaño empezó a forjar quemadores de incienso para los altares de los templos, y el taller que abrió es hoy el mayor fabricante de peltre del planeta.

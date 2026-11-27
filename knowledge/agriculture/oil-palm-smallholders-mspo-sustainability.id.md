@@ -32,7 +32,7 @@ faq:
     a: "Peraturan Deforestasi Uni Eropa mendefinisikan produk sebagai 'bebas-deforestasi' hanya jika ditanam di atas tanah yang tidak dideforestasi setelah 31 Desember 2020 (Peraturan (EU) 2023/1115, Pasal 2). Ia memerlukan geolokasi tingkat lot — pemetaan poligon untuk lot yang lebih besar dari 4 hektar, dengan satu titik GPS diperbolehkan untuk lot seluas 4 hektar atau kurang — yang secara teknis sulit dihasilkan sendiri oleh petani kecil, yang sering lanjut usia dan terpencil."
 
 lang: "id"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "MSPO certification", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "sustainable palm oil Malaysia"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'Perkebunan kelapa sawit muda yang menutupi tanah berbukit di Mersing, Malaysia.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: Seorang pemanen perkebunan kelapa sawit memanggul galah sabit panjang di antara pohon sawit dewasa, dengan satu tandan buah segar yang telah dipotong di tanah, di Distrik Tenom, Sabah
+    kind: actual
+    origin: third-party
+    subject: Seorang pekerja perkebunan membawa galah pemanen di antara pohon kelapa sawit dewasa di Tenom, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: Bidikan dekat tandan buah segar kemerahan yang sedang matang di mahkota pohon kelapa sawit di Perkebunan Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Tandan buah segar yang sedang matang pada pohon kelapa sawit di Perkebunan Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 Seorang petani di Bintulu yang bisa menelusuri setiap batas lot kelapa sawitnya dari ingatan kini terpaksa mengubah "peta mental" itu menjadi poligon GPS sebelum pembeli di Eropa mau menyentuh buahnya. Kesenjangan itu — antara mengenali tanah Anda dan mendokumentasikannya hingga memuaskan auditor — adalah kisah tersembunyi di balik ekonomi minyak sawit pekebun kecil Malaysia.

@@ -29,7 +29,7 @@ faq:
     a: "그중에는 고위험 활동에 관여한 사람, 임신/생리 중이거나 수유 중인 여성 헌혈자, 1980~1996년에 영국에 6개월 이상(누적) 거주한 사람, 또는 1980년부터 현재까지 유럽 국가에 5년 이상(누적) 거주한 사람이 있습니다 — 두 경우 모두 vCJD 위험 때문입니다."
 
 lang: "ko"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,9 +70,35 @@ entity: "Pusat Darah Negara"
 wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "hiv-aids-and-sexual-health-services"]
 keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", "keistimewaan penderma", "blood donation Malaysia"]
 framework: how-to
+hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'
+heroAlt: '헌혈 의자에 앉은 말레이시아 헌혈자와 그 옆에서 채워진 혈액백을 든 미소 짓는 간호사.'
+heroCredit: 'ms:User:Meeneunos10 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: 비어 있는 헌혈용 리클라이닝 침상, 기구 카트, 접수 데스크가 늘어선 밝은 헌혈 홀로, 헌혈자는 보이지 않는다
+    kind: representative
+    origin: third-party
+    subject: 헌혈 센터 내부, 비어 있는 헌혈용 리클라이닝 침상과 장비가 줄지어 있는 모습
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: 헌혈 기록 라벨과 튜브가 달린, 가득 차고 밀봉된 채혈 백을 손으로 들고 있는 모습으로, 헌혈된 혈액을 채취하고 보관하는 데 쓰이는 장비를 보여준다
+    kind: representative
+    origin: third-party
+    subject: 헌혈 행사에서 전혈 1단위가 담긴 밀봉된 채혈 백
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 PDN에 따르면, 한 번의 헌혈은 적어도 세 명의 생명을 구할 수 있습니다 — 전혈이 적혈구, 혈소판, 혈장으로 가공되어 서로 다른 환자에게 쓰이기 때문입니다.

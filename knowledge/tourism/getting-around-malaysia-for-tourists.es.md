@@ -116,9 +116,16 @@ sources:
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
-related: []
+related: ["malaysia-entry-visa-requirements", "e-hailing-grab", "domestic-ferries-and-island-transport"]
 keywords: ["desplazarse por Malasia", "KLIA Ekspres", "tren KTM ETS", "vuelos domésticos Malasia", "AirBorneo", "Grab Malasia", "ferri Malasia", "conducir en Malasia", "Touch n Go"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'Un viajero con una maleta con ruedas espera en el mostrador rosa de billetes del tren del aeropuerto KLIA Ekspres en la estación KL Sentral, donde un empleado lo atiende tras el cristal.'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Aterriza en el Aeropuerto Internacional de Kuala Lumpur a medianoche, con el desfase horario a cuestas, y los captadores de taxis ya están dando vueltas. La buena noticia: Malasia tiene uno de los sistemas de transporte más amables con el turista del Sudeste Asiático, y puede saltarse el engorro por completo: un tren rápido y de precio fijo desde el aeropuerto, una app en el móvil que llama a un coche con tarifa cerrada, y vuelos domésticos baratos que convierten Borneo en una escapada de fin de semana. El truco está en saber qué modo elegir, y cuándo.

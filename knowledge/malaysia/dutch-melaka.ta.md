@@ -22,7 +22,7 @@ appliesTo: "போர்த்துகீசியரிடமிருந்�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,32 @@ faq:
   - q: மலாக்கா டச்சுக்காரர்களிடமிருந்து ஆங்கிலேயர்களிடம் ஒரே ஒரு தூய்மையான ஒப்படைப்பில் கைமாறியதா?
     a: இல்லை. முப்பது ஆண்டுகளில் நிர்வாக ரீதியாக அது நான்கு முறை கைமாறியது. 1795-இல் மலாக்காவை பிரான்சிடமிருந்து தடுக்க கியூ கடிதங்களின் (Kew Letters) கீழ் பிரிட்டன் அதை ஆக்கிரமித்தது, 1818-இல் மலாக்கா டச்சுக்காரர்களிடம் மீட்டுக் கொடுக்கப்பட்டது, 1824-ன் ஆங்கிலேய-டச்சு ஒப்பந்தம் (1824 மார்ச் 17 அன்று கையெழுத்திடப்பட்டது) சுமத்ராவில் உள்ள பென்கூலனுக்குப் (Bencoolen) பதிலாக அதை நிரந்தரமாகப் பிரிட்டனிடம் விட்டுக்கொடுத்தது, உண்மையான இடமாற்றம் 1825 மார்ச் 1 அன்று நடைமுறைக்கு வந்தது.
 framework: history-culture
+hero: '/media/malaysia/dutch-melaka/hero.webp'
+heroAlt: 'மலாக்காவில் டச்சு சதுக்கத்தில் உள்ள அடர் சிவப்பு நிற டச்சு காலனித்துவ ஸ்டாட்ஹைஸ் கட்டிடம் மற்றும் அதன் சிவப்பு கடிகார கோபுரம், அதன் முன் பூக்கள் நிறைந்த வட்டச்சாலை மற்றும் திசை காட்டும் பலகை.'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: வெள்ளைச் சிலுவையும் கூரைமுனையில் பொருத்தப்பட்ட கடிகாரமும் கொண்ட கிறிஸ்ட் சர்ச் மலாக்காவின் அடர்சிவப்பு செங்கல் முகப்பு வானத்தை நோக்கி உயர்கிறது.
+    kind: actual
+    origin: third-party
+    subject: 1753 ஆம் ஆண்டு டச்சுக்காரர் கட்டிய தேவாலயமான கிறிஸ்ட் சர்ச் மலாக்கா
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: '''Kubur Belanda / The Dutch Graveyard'' எனும் பலகையைச் சுமக்கும் வெண்ணிற வளைவு நுழைவாயில், மலாக்காவின் செயின்ட் பால் குன்றில் மரநிழல் படர்ந்த காலனித்துவ கல்லறைத் தோட்டத்திற்குத் திறக்கிறது.'
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவின் செயின்ட் பால் குன்றில் உள்ள டச்சு கல்லறைத் தோட்டம் (Kubur Belanda)
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 ஒரு கம்பெனி ஒரு துறைமுகத்தைக் கைப்பற்ற ஏழு மாதங்களையும் ஓர் அயல்நாட்டுச் சுல்தானகத்துடனான கூட்டணியையும் செலவிடுகிறது. பின்னர் அடுத்த நூற்றாண்டரை காலம் அந்தத் துறைமுகம் ஒருபோதும் செழிக்காமல் இருப்பதை உறுதிப்படுத்துவதில் செலவிடுகிறது.

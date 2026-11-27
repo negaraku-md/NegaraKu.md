@@ -104,6 +104,7 @@ dishFacts:
   halal: "Sebagai hidangan babi, bak kut teh tidak halal: ia dibina sekitar rusuk dan tulang babi, jadi orang Islam tidak memakannya, dan ia dimasak serta dijual di kedai kopi Cina dan bukan premis bersijil halal. Bagi mereka yang tidak makan babi tetapi mahukan pengalaman sup herba ini, sesetengah tukang masak menyediakan versi ayam yang kadangkala digelar 'chik kut teh' — sebuah hidangan berasingan dan bukan bak kut teh bersijil halal."
   eat: "Ia hidangan dikongsi dan dimakan secara duduk, biasanya untuk sarapan atau makan tengah hari. Kuah dan daging tiba dalam periuk tanah atau mangkuk bersama nasi putih, dan potongan you char kway (cakoi goreng) dicecah ke dalam sup. Sepiring kicap pekat dengan cili padi dan bawang putih digunakan untuk mencecah daging, manakala sepot teh Cina, selalunya oolong yang dipanggang, dituang sepanjang waktu untuk mengimbangi kekayaannya."
   where: "Klang di Selangor ialah pusatnya di Malaysia, tetapi ia dijumpai dimasak dan dijual di kedai kopi dan restoran Cina dan bukan di tempat halal seperti bazar Ramadan. Pada Februari 2024 ia diwartakan sebagai makanan warisan kebangsaan Malaysia di bawah Akta Warisan Kebangsaan 2005 (Akta 645)."
+wikidata: "Q983160"
 ---
 
 Sedikit sekali hidangan yang mengisytiharkan kehadirannya seperti bak kut teh.

@@ -84,6 +84,32 @@ relations:
 related: ["bahasa-melayu", "mak-yong"]
 keywords: ["industri filem Malaysia", "sinema Malaysia", "P. Ramlee", "FINAS", "Malay Film Productions", "Jalan Ampas", "Mat Kilau", "Tiger Stripes", "Da Huang Pictures", "Malaysian New Wave"]
 framework: profile
+hero: '/media/arts-culture/malaysian-film-industry/hero.webp'
+heroAlt: 'Rumah kayu Melayu tradisional yang telah dipulihkan, iaitu tempat kelahiran legenda filem P. Ramlee, kini sebuah memorial, dengan bumbung beratap rumbia dan plak peringatan di laman depan berbata.'
+heroCredit: 'Firzazul / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: Fasad jalan dan papan tanda marki Pawagam Coliseum lama, sebuah dewan wayang skrin tunggal pra-perang di tengah bandar Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Pawagam Coliseum bersejarah di Jalan Tuanku Abdul Rahman, Kuala Lumpur, salah satu dewan wayang terawal yang masih bertahan di Malaysia
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: Ruang legar dan papan tanda yang terang-benderang bagi sebuah pawagam multipleks kontemporari di dalam sebuah pusat beli-belah Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk sebuah pawagam multipleks moden di Pavilion Bukit Bintang, Kuala Lumpur
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 Pada 1955, seorang bekas budak *clapper* dan pemegang kamera pembantu di sebuah studio di No. 8 Jalan Ampas, Singapura, duduk di kerusi pengarah buat kali pertama pada usia 26 tahun. Filem itu *Penarek Becha*. Namanya P. Ramlee. Kisah industri filem Malaysia bermula bukan di Kuala Lumpur, tetapi di sebuah studio Singapura yang dimiliki dua bersaudara dari Shanghai — dan ia belum pun berhenti bergerak sejak itu.

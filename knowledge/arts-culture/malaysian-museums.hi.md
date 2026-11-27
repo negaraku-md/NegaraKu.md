@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "संग्रहालय-यात्रा की योजना बनाने वाले आगंतुक, मलेशिया के प्रमुख संग्रहों के पीछे की संस्थागत इतिहास चाहने वाले छात्र और शोधकर्ता, और हर वह व्यक्ति जिसने मान लिया कि मुज़ियम नेगारा देश का सबसे पुराना संग्रहालय था।"
 
 lang: "hi"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,34 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["मुज़ियम नेगारा", "Muzium Negara", "इस्लामिक आर्ट्स म्यूज़ियम मलेशिया", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "मलेशिया के राज्य संग्रहालय"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: 'मलेशिया का राष्ट्रीय संग्रहालय, गहरे लाल रंग की तीव्र मिनांगकाबाउ-शैली की ढलवाँ छत वाली एक बड़ी हल्के रंग की इमारत, जिसका लंबा अग्रभाग रंगीन भित्ति पैनलों से सजा और मलेशियाई झंडों से पंक्तिबद्ध, एक सड़क के पार से देखा गया'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: सफ़ेद, हरे और सुनहरे पुष्प अरबस्क आकृतियों से ढँकी चमकीली फ़िरोज़ी टाइलों से मढ़ा एक गोल गुंबद, जिसके ऊपर एक छोटी सुनहरी शिखा है, एक हल्के नीले आकाश के सामने उठता हुआ
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में इस्लामिक आर्ट्स म्यूज़ियम मलेशिया का एक फ़िरोज़ी टाइल वाला गुंबद, जटिल पुष्प अरबस्क आकृतियों से सजा हुआ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: एक ऐतिहासिक दो-मंज़िला औपनिवेशिक संग्रहालय भवन जो क्रीम रंग में रँगा है और भूरे पत्थर के कोने-पत्थरों एवं खिड़की-घेरों के साथ है, खड़ी गैबल छतें और सजावटी शिखाएँ, एक चमकीले नीले आकाश के नीचे ऊँचे ताड़ के पेड़ों से घिरा हुआ
+    kind: actual
+    origin: third-party
+    subject: कुचिंग में ऐतिहासिक औपनिवेशिक-युग का सरवाक संग्रहालय भवन, एक क्रीम रंग की दो-मंज़िला संरचना जिसमें भूरे पत्थर के कोने-पत्थर और गैबल छतें हैं
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 अधिकांश आगंतुकों से पूछिए कि मलेशिया का सबसे पुराना संग्रहालय कौन-सा है, और वे मुज़ियम नेगारा (Muzium Negara) का अनुमान लगाएँगे — महल-जैसी छत वाली वह इमारत जो कुआलालंपुर की संग्रहालय-पंक्ति को आधार देती है। वे अस्सी वर्ष से चूक जाएँगे। वह लक्ष्य तायपिंग (Taiping) की एक साधारण दीर्घा को प्राप्त है, जो तब बनी थी जब मुज़ियम नेगारा का स्थल अब भी उसके पूर्ववर्ती के कब्ज़े में था।

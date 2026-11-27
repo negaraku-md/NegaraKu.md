@@ -29,7 +29,7 @@ faq:
     a: "2020년 12월 3일 특별 무자카라는 사용되는 백신이 할랄이고 타이입(tayyiban)일 것을 조건으로, COVID-19 백신의 사용이 허용되며 정부가 정한 집단에게 접종이 의무적이라고 결정했습니다."
 
 lang: "ko"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ entity: "Jawatankuasa Muzakarah Fatwa Kebangsaan bagi Hal Ehwal Ugama Islam Mala
 relations:
   - { rel: "related-to", to: "national-immunisation-programme-malaysia" }
   - { rel: "related-to", to: "halal-certification-jakim" }
-related: []
+related: ["halal-certification-in-malaysia", "public-healthcare-system-malaysia", "traditional-and-complementary-medicine"]
 keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
+hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'
+heroAlt: '밝은 빨간색 전통 상점 건물에 자리한 말레이시아 약국(farmasi)으로, 마을 거리 모퉁이에 있다.'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: 길모퉁이에 자리한 현대적인 말레이시아 지역 약국으로, 간판에 Big Pharmacy라고 적혀 있으며 조호르주 클루앙에 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 조호르주 클루앙 시내에 있는 Big Pharmacy 소매 체인 지점
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: 약국 선반에 가지런히 쌓인 약 상자들로, 포장된 의약품과 그 표기를 보여준다
+    kind: representative
+    origin: third-party
+    subject: 약국 선반에 진열된 제네릭 의약품 상자들
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 백신 한 병에는 안정제로 소량의 젤라틴이 들어 있을 수 있습니다 — 그리고 바로 그 작은 세부에서 말레이시아 무슬림 가정이 가장 자주 던지는 종교적 물음 하나가 나옵니다. 그것은 할랄인가? 답은 단순한 '예'나 '아니오'가 아니라, 파트와 기구, 과학적 연구, 그리고 몇 가지 특정한 피크흐(fiqh) 원리가 관여하는 체계적 판단 과정의 결과입니다.

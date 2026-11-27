@@ -32,7 +32,7 @@ faq:
   - q: ความท้าทายหลักที่อุตสาหกรรมเผชิญมีอะไรบ้าง?
     a: ภาคส่วนนี้ต้องรับมือกับประชากรเกษตรกรที่สูงวัยขึ้น ราคาโลกที่ผันผวน ความเครียดจากสภาพภูมิอากาศ และการแข่งขันที่ดุเดือดจากผู้ผลิตรายใหญ่อย่างเวียดนาม อินโดนีเซีย และอินเดีย การใช้เครื่องจักรกลที่ต่ำและการพึ่งพาการส่งออกเมล็ดดิบทำให้อัตรากำไรบางเฉียบ ซึ่งเป็นเหตุผลที่นโยบายปัจจุบันเน้นการปลูกทดแทน เทคโนโลยี และการแปรรูปปลายน้ำ
 lang: th
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'เถาพริกไทยดำเรียงเป็นแถวเลื้อยขึ้นเสาค้ำไม้ในสวนที่รัฐซาราวัก รัฐปลูกพริกไทยหลักของมาเลเซีย'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: ภาพระยะใกล้ของต้นพริกไทยที่มีช่อห้อยลงหลายช่อร้อยด้วยเม็ดพริกไทยสีเขียวทรงกลมอย่างหนาแน่น ขนาบด้วยใบสีเขียวเข้มเป็นมันขนาดใหญ่ โดยมีสวนสีเขียวเบลอเป็นฉากหลัง
+    kind: actual
+    origin: third-party
+    subject: ช่อเม็ดพริกไทยสีเขียวที่กำลังสุกห้อยเป็นช่อยาวบนต้นพริกไทยดำที่สวนพริกไทยในรัฐซาราวัก ใจกลางอุตสาหกรรมพริกไทยของมาเลเซีย
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: ดาดฟ้าทาสีขาวมีราวเตี้ยกั้นขอบ มีถาดตาข่ายทรงสี่เหลี่ยมหลายใบวางเม็ดพริกไทยสีเข้มตากแห้งอยู่ มีต้นกล้วยและต้นมะพร้าวและเนินเขาที่ปกคลุมด้วยป่าทอดยาวอยู่เบื้องหลังใต้ท้องฟ้าสีคราม
+    kind: representative
+    origin: third-party
+    subject: เม็ดพริกไทยที่เก็บเกี่ยวแล้วนำมาตากแดดบนถาดตาข่ายบนดาดฟ้า ขั้นตอนการตากแห้งที่เปลี่ยนผลสีเขียวให้กลายเป็นพริกไทยดำ
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 พริกไทยเป็นหนึ่งในสินค้าเกษตรที่เก่าแก่ที่สุดและมีเอกลักษณ์ทางภูมิศาสตร์มากที่สุดของมาเลเซีย: เถาวัลย์ที่นำเข้ามาจากอนุทวีปอินเดียและสุมาตรา ซึ่งพบถิ่นที่อยู่อันเหมาะสมในเนินเขาที่ชื้นและระบายน้ำดีของรัฐซาราวัก ที่ซึ่งมันกลายเป็นกระดูกสันหลังของสวนเกษตรกรรายย่อยหลายพันแห่งในชนบท แม้ว่ามาเลเซียจะเป็นผู้เล่นขนาดกลางเมื่อวัดจากปริมาณระดับโลก แต่ก็มีน้ำหนักเกินขนาดในด้านชื่อเสียง โดยขาย "พริกไทยซาราวัก" ที่ได้รับการรับรองแหล่งกำเนิดระดับพรีเมียมให้แก่ตลาดที่พิถีพิถัน บทความนี้นำเสนอโครงสร้าง ภูมิศาสตร์ การค้า และโอกาสของภาคส่วนในฐานะอุตสาหกรรมเดี่ยว

@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,32 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'Barisan rak pelayan dengan lampu status biru bercahaya memenuhi lorong sebuah pusat data.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: Deretan panjang rak pelayan dan peralatan memenuhi sebuah dewan pusat data yang besar dengan kurungan lorong sejuk berstruktur.
+    kind: representative
+    origin: third-party
+    subject: Dewan pusat data dengan deretan rak peralatan
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: Ikatan padat kabel rangkaian terbentang di bahagian belakang rak pelayan dalam pemasangan pusat data.
+    kind: representative
+    origin: third-party
+    subject: Pengkabelan rangkaian di belakang rak pelayan pusat data
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 Pada tahun 2019, Singapura berhenti meluluskan pusat data baharu berskala besar. Dalam masa empat tahun, pelayan yang ditolaknya telah membina sebuah industri baharu dua puluh minit di seberang Tambak — dan Johor beralih daripada sebuah negeri Malaysia yang tenang kepada pasaran pusat data paling sibuk di Asia Tenggara.

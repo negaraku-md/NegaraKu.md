@@ -30,7 +30,7 @@ faq:
     a: "لم يصبح يوم ماليزيا عطلة عامة اتحادية على مستوى البلاد إلا بعد عقود من تشكيل الاتحاد. وقبل ذلك كان 16 سبتمبر عطلة في بعض الأقاليم فقط ولم يُحتفل به على نحو موحّد على المستوى الوطني، رغم أنه كان تاريخ تشكيل الاتحاد منذ 1963."
 
 lang: "ar"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["اليوم الوطني", "يوم الاستقلال", "يوم ماليزيا", "Hari Kebangsaan", "Hari Malaysia", "31 أغسطس 1957", "16 سبتمبر 1963"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'عازفو الفرقة العسكرية بالزي الرسمي يسيرون في تشكيل منظّم أمام المتفرجين خلال عرض يوم مرديكا الماليزي في ساحة مرديكا (داتاران مرديكا).'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: صفوف من الضباط بالزي الرسمي يسيرون في تشكيل منظّم حاملين علم جالور جميلانج الأحمر والأبيض والأزرق والأصفر وأعلاماً أخرى خلال موكب يوم مرديكا.
+    kind: actual
+    origin: third-party
+    subject: فرق بالزي الرسمي تسير في موكب حاملةً علم جالور جميلانج في احتفالات يوم مرديكا التاسع والخمسين
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: حشد مبتسم في كوتا كينابالو بولاية صباح يرفع ويلوّح بفخر بالعلم الوطني الماليزي خلال احتفال باليوم الوطني في الهواء الطلق في ماليزيا الشرقية.
+    kind: actual
+    origin: third-party
+    subject: محتفلون يلوّحون بعلم جالور جميلانج خلال احتفالات اليوم الوطني في كوتا كينابالو بولاية صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 يحتوي التقويم الماليزي في كل عام على تاريخين يسهل الخلط بينهما: 31 أغسطس و16 سبتمبر. ويُحتفى بكليهما بالأعلام والمسيرات والأناشيد الوطنية. ومع ذلك فإنهما يحييان ذكرى حدثين مختلفين تفصل بينهما ست سنوات، ويصفان دولتين مختلفتي الشكل.

@@ -31,7 +31,7 @@ faq:
   - q: "மலேசியாவில் இ-விளையாட்டு எவ்வாறு ஆதரிக்கப்படுகிறது?"
     a: "இ-விளையாட்டு ஒரு போட்டி ஒழுங்காக அங்கீகரிக்கப்பட்டு SEA Games-ல் போட்டியிடப்பட்டது. பட்ஜெட் 2020 RM20 மில்லியனை ஒதுக்கியது, மேலும் KBS 2020-ல் Esports Integrated-ஐ அமைத்து ஒரு தேசிய இ-விளையாட்டு திட்டவரைபடம் மற்றும் விளையாட்டு வீரர் மேம்பாட்டை இயக்கியது."
 lang: ta
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -106,6 +106,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'கட்டம் போட்ட கேப்சர் மேடை, டிரஸ்களில் மேல்நிலை கேமரா அமைப்பு மற்றும் பல மானிட்டர்களுடன் கூடிய ஒரு ஆபரேட்டர் பணிநிலையம் கொண்ட ஒரு மோஷன்-கேப்சர் தயாரிப்பு ஸ்டுடியோ.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: ஒரு வீடியோ கேம் உருவாக்க நிறுவனத்தின் திறந்த ஸ்டுடியோ தளம் முழுவதும் டெவலப்பர்கள் பல-மானிட்டர் மேசைகளில் பணியாற்றுகின்றனர்.
+    kind: representative
+    origin: third-party
+    subject: வீடியோ கேம் உருவாக்க ஸ்டுடியோ தளம்
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: ஒரு உள்ளடக்க உருவாக்குநரின் பணிநிலையத்தில் டிஜிட்டல் ஓவியத்தைக் காட்டும் மானிட்டருக்கு முன் கிராபிக்ஸ் டேப்லெட்டும் ஸ்டைலஸும் உள்ளன.
+    kind: representative
+    origin: third-party
+    subject: டிஜிட்டல் ஓவியங்களை உருவாக்கும் டிஜிட்டல் கலைஞரின் பணிநிலையம்
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 Les' Copaque-ன் _Upin & Ipin Universe_ **17 ஜூலை 2025**-ல் உலகம் முழுவதும் கன்சோல்களை எட்டியபோது, இரண்டு குறும்புத்தனமான இரட்டையர்கள் பற்றிய ஒரு குறுகிய அனிமேஷன் தொடருடன் தொடங்கிய ஒரு வட்டத்தை அது முடித்தது. ஒரு மலேசிய கார்ட்டூன் ஒரு உலகளாவிய வெளியிடப்பட்ட வீடியோ விளையாட்டாக ஆகியிருந்தது — மேலும் நாட்டின் டிஜிட்டல் படைப்பு உள்ளடக்கத் தொழில் இரண்டு தசாப்தங்களாக அமைதியாக எதைக் கட்டமைத்துள்ளது என்பதற்கான ஒரு நேர்த்தியான எடுத்துக்காட்டு.

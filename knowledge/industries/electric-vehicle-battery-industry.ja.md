@@ -31,7 +31,7 @@ faq:
   - q: 低炭素モビリティ・ブループリントとは何ですか。
     a: マレーシアの2021～2030年のよりクリーンな輸送のためのロードマップで、環境省とマレーシアグリーンテクノロジー公社（MGTC）が主導します。EVの普及と充電インフラの目標を定め、EVの購入者・メーカーに提供される税優遇の土台となっています。
 lang: ja
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -95,6 +95,32 @@ keywords:
   - Samsung SDI
   - EV adoption
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'マレーシアの高速道路のサービスエリアで、電気自動車用に区画された駐車スペースに直流急速充電器が設置されている。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: 18650と、より大型の21700フォーマットの円筒形リチウムイオン電池セル2本を並べて立てたもの。
+    kind: representative
+    origin: third-party
+    subject: 円筒形リチウムイオン電池セル
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: モジュール式のセル配置を示すために展示された、電気自動車の平たいリチウムイオン駆動用バッテリーパック。
+    kind: representative
+    origin: third-party
+    subject: 電気自動車のリチウムイオン駆動用バッテリーパック
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 マレーシアは半世紀にわたって車を作ってきた。いまや同国はそれを電化しようとしており――そして同じくらい重要なことに、電気自動車が依存するバッテリーを作り、充電網を築こうとしている。これは、主にガソリン車とディーゼル車についての物語である[マレーシアの自動車産業](/ja/industries/automotive-industry/)のガイドとは別の物語だ。ここでの主題はEV・バッテリーの*エコシステム*である。すなわち、車両、優遇措置、充電器、そして工場――これらが相まって、マレーシアがどれだけ速く電気モビリティへ移行するかを決める。

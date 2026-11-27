@@ -27,7 +27,7 @@ faq:
   - q: "ما هو PeKa B40؟"
     a: "PeKa B40 (برنامج الرعاية الصحية لفئة B40، Skim Peduli Kesihatan untuk Kumpulan B40) برنامج تابع لوزارة الصحة تديره شركة ProtectHealth Corporation. وهو يمنح الماليزيين المؤهلين من ذوي الدخل المنخفض ممن تبلغ أعمارهم 40 عاماً فأكثر — المستفيدين من المنحة النقدية رحمة وأزواجهم — فحصاً صحياً مجانياً، ومساعدة في الأجهزة الطبية حتى RM20,000، وحافز علاج سرطان بقيمة RM1,000، ومساعدة في المواصلات. وحتى 31 مارس 2025، كان نحو 1.6 مليون من أصل نحو 6.9 مليون مستفيد مؤهل قد خضعوا للفحص."
 lang: "ar"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -126,9 +126,35 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["ministry-of-health-moh", "klinik-kesihatan", "peka-b40-and-health-schemes", "health-white-paper-and-system-reform"]
 keywords: ["نظام الرعاية الصحية العامة في ماليزيا", "وزارة الصحة الماليزية", "MOH", "KKM", "klinik kesihatan", "مستشفى حكومي ماليزيا", "رسم عيادة RM1", "رسوم المستشفيات العامة", "PeKa B40", "الرعاية الصحية الشاملة", "Malaysia public healthcare system", "Malaysia two-tier health system"]
 framework: explainer
+hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'
+heroAlt: 'منظر خارجي لمستشفى الملكة إليزابيث في كوتا كينابالو، وهو مستشفى حكومي ماليزي كبير ضمن نظام الرعاية الصحية العامة.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: جناح مرضى داخلي خالٍ بصفوف من الأسِرّة في مستشفى عام ماليزي، Hospital Sultanah Nora Ismail في Batu Pahat
+    kind: actual
+    origin: third-party
+    subject: جناح في مستشفى عام ماليزي، Hospital Sultanah Nora Ismail في Batu Pahat
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: المظهر الخارجي لـ Hospital Kemaman، مستشفى عام تديره وزارة الصحة الماليزية
+    kind: actual
+    origin: third-party
+    subject: Hospital Kemaman، مبنى مستشفى عام ماليزي
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 ادخل إلى عيادة حكومية ماليزية، وستجد الفاتورة عند المكتب تكاد لا تُذكر — **RM1** لتسجيل العيادات الخارجية العامة. وهذا ليس إحساناً — بل تصميم. فماليزيا تدير **نظام رعاية صحية ثنائي المستوى**: خدمة عامة تديرها الحكومة عبر **وزارة الصحة (MOH، *Kementerian Kesihatan Malaysia*، KKM)** إلى جانب قطاع خاص واسع. ويُموَّل الجانب العام **كلياً من الضرائب العامة، دون اشتراكات تأمين وطني إلزامية**، فتُقدَّم الرعاية مقابل رسوم رمزية مدعومة بقدر كبير لا أقساط. وقد أنتج هذا النموذج وصولاً شبه شامل بحصة متواضعة من الدخل الوطني — لكنه يحمل الآن عبء تكلفة متزايداً على الأسر وضغوط عرض حقيقية. يشرح هذا الدليل، بعبارات واضحة، كيف تصل إلى النظام، وما تكلفته، ومن يشمل، وأين يتعرض للإجهاد.

@@ -35,7 +35,7 @@ faq:
     a: "Kedua-duanya perayaan berasingan dengan tema yang sama. Gawai Dayak ialah perayaan menuai kaum Dayak di Sarawak, disambut pada 1 dan 2 Jun. Kaamatan pula ialah perayaan menuai kaum Kadazandusun di Sabah, disambut pada 30 dan 31 Mei. Kedua-duanya bersyukur atas hasil tuaian padi, tetapi kaum, ritual dan tarikhnya berbeza."
 
 lang: "ms"
-sourceContentHash: "5a38a61ecb8e6e5a"
+sourceContentHash: "af2c5738970f5880"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,34 @@ festivalFacts:
   when: "Setiap tahun pada 1 dan 2 Jun; sambutannya bermula pada petang 31 Mei, dan musim Gawai yang lebih luas ditutup secara rasmi dengan ngiling tikai ('menggulung tikar') menjelang penghujung Jun."
   holiday: "Cuti umum di negeri Sarawak (diwartakan pada 25 September 1964)."
   etiquette: "Pintu rumah panjang dibuka luas — melayan keluarga, jiran dan tetamu yang berkunjung merupakan sebahagian daripada perayaan ini; ucapan yang lazim ialah 'Gayu Guru, Gerai Nyamai' (panjang umur, sihat, makmur), atau 'Selamat Hari Gawai'. Ia pada asasnya satu sambutan keluarga dan rumah panjang, bukan pertunjukan pelancong."
+hero: '/media/arts-culture/gawai-dayak/hero.webp'
+heroAlt: 'Seorang penari pahlawan Iban berhiasan kepala bulu burung enggang dan berbaju bulu mempersembahkan tarian ngajat di atas pentas berlatar mural Dayak tradisional'
+heroCredit: 'John Ragai / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ngajat,_the_Iban%27s_Warrior_Dance.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An Iban dancer performing the ngajat warrior dance'
+
+images:
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-1.webp
+    alt: Penari Iban dan Orang Ulu dengan hiasan kepala perak yang rumit, manik-manik dan mahkota bulu ketika perarakan Gawai Dayak di Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Penari Dayak berpakaian lengkap pada perarakan Gawai Dayak di Kuching
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gawai_Dayak_2024_-_22.jpg
+  - role: scene
+    src: /media/arts-culture/gawai-dayak/body-2.webp
+    alt: Ruang galeri komunal kayu yang panjang (ruai) di dalam rumah panjang Iban di Sarawak, tempat Gawai Dayak disambut
+    kind: actual
+    origin: third-party
+    subject: Ruang galeri komunal rumah panjang Iban di Sarawak
+    credit: Gariey Sia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iban_longhouse1.JPG
 ---
 
 Jam belum lagi berdentum tengah malam pada hari terakhir bulan Mei, dan di sebuah rumah panjang di suatu tempat di tebing sungai Sarawak, gong sudah menanti. Padi sudah selamat dituai. Ruai sudah disapu bersih dan digantung dengan tikar baharu. Sebuah tempayan tuak sudah tersedia. Apabila gong akhirnya dipalu, ketua rumah panjang akan mengangkat cawan, dan semua orang di sepanjang ruai bersama akan minum untuk tiga perkataan yang sama: umur panjang, kesihatan, kesejahteraan.

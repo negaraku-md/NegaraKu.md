@@ -31,7 +31,7 @@ faq:
     a: "CIMB อธิบายตัวเองว่าเป็นกลุ่มที่มุ่งเน้นอาเซียนที่ดำเนินงานทั่วตลาดรวมถึงมาเลเซีย อินโดนีเซีย สิงคโปร์ และไทย RHB ดำเนินงานในเจ็ดตลาดในภูมิภาค Maybank ครอบคลุมสามตลาดบ้านเกิด ได้แก่ มาเลเซีย สิงคโปร์ และอินโดนีเซีย บวกกับการดำเนินงานทั่วอาเซียนและศูนย์กลางการเงินสำคัญของโลก"
 
 lang: "th"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,32 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'เส้นขอบฟ้าของอาคารสูงในใจกลางกรุงกัวลาลัมเปอร์ ย่านการเงินหลักของมาเลเซีย ซึ่งโดดเด่นด้วยตึกแฝดเปโตรนาส'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: ตึกระฟ้าสีขาวสูงตระหง่านที่มีอาคารคู่ทรงโค้งคล้ายใบมีดประกอบกันเป็นสำนักงานใหญ่เมย์แบงก์ สูงเหนือต้นไม้และถนนในเมืองโดยรอบตัดกับท้องฟ้าสีคราม
+    kind: actual
+    origin: third-party
+    subject: เมอนาราเมย์แบงก์ อาคารสำนักงานใหญ่ของมาลายันแบงกิง (เมย์แบงก์) ใจกลางกัวลาลัมเปอร์ ธนาคารที่ใหญ่ที่สุดของมาเลเซีย
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: อาคารหลายชั้นที่มีสาขาธนาคาร CIMB และป้าย CIMB สีแดงอยู่ระดับถนน หน้าอาคารเป็นกระจกและมีผู้คนเดินผ่านบนทางเท้าด้านหน้าภายใต้ท้องฟ้าแจ่มใส
+    kind: actual
+    origin: third-party
+    subject: สาขาธนาคาร CIMB ที่ระดับถนนของอาคารอัมโน โดย CIMB เป็นหนึ่งในธนาคารที่ใหญ่ที่สุดของมาเลเซียเมื่อวัดจากสินทรัพย์
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 เรียงชื่อห้าชื่อที่ครอบงำถนนสายหลักแทบทุกสายของมาเลเซีย ได้แก่ [Maybank](/th/companies/maybank), CIMB, Public Bank, RHB และ Hong Leong แล้วคุณกำลังมองแกนกลางของระบบธนาคารที่เคลียร์เงินเดือน สินเชื่อบ้าน และการค้าของประเทศ ทั้งหมดจดทะเบียนบริษัทในมาเลเซีย ทั้งหมดจดทะเบียนใน Bursa Malaysia และทั้งหมดได้รับใบอนุญาตจากธนาคารกลางเดียวกัน นอกเหนือจากนั้น พวกเขาแตกต่างกันอย่างชัดเจน: หนึ่งแคระที่เหลือในแง่ขนาด บางแห่งมีรัฐบาลเป็นแกนหลักอย่างแท้จริง และสองแห่งยังคงถูกนำโดยตระกูลที่ก่อตั้งพวกเขา

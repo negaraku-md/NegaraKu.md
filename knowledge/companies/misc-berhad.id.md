@@ -29,7 +29,7 @@ faq:
     a: "Kelompok MISC melaporkan pendapatan TK2024 sebesar RM13,237.5 juta, penurunan 7.2% dari RM14,271.7 juta pada TK2023, dengan laba setelah pajak RM1,233.2 juta."
 
 lang: "id"
-sourceContentHash: "29aaf63ab9013b28"
+sourceContentHash: "409cfa8c296a43ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -66,6 +66,25 @@ relations:
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
 framework: profile
+hero: '/media/companies/misc-berhad/hero.webp'
+heroAlt: 'Kapal pengangkut LNG besar berlambung hitam dengan lambung bawah merah, haluannya bertuliskan ''SERI AYU'' dan kata ''LNG'' di sisinya, bersandar di dermaga yang dihias bendera isyarat, dengan seorang pria berkemeja dan berdasi berdiri di podium berkarpet merah di latar depan'
+heroCredit: 'Emran Kassim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LNG_carrier_Seri_Ayu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'MISC Berhad''s LNG carrier Seri Ayu at her naming ceremony'
+
+images:
+  - role: scene
+    src: /media/companies/misc-berhad/body-1.webp
+    alt: Pemandangan udara dermaga beton di atas air berwarna toska yang memuat deretan lengan pemuatan laut kelabu yang tinggi dan jaringan pipa, dengan dolphin penambat di latar depan dan sebuah pelabuhan berisi derek dan tangki penyimpanan di pantai seberang
+    kind: representative
+    origin: third-party
+    subject: lengan pemuatan laut di terminal ekspor LNG di Bintulu, Sarawak, tempat kapal pengangkut seperti milik MISC memuat gas alam cair Malaysia
+    credit: Ahmad Afif Isa / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg
 ---
 
 MISC Berhad adalah lengan maritim ekonomi energi Malaysia — kelompok yang menggerakkan gas dan minyak negara merentasi lautan dunia.

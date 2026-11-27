@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "vi"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,33 @@ stayFacts:
   cost: 'Hãy trông đợi học phí hằng năm cộng các khoản phí một lần như phí nhập học hoặc phí kiểm tra xếp lớp và một phí đăng ký, với một khoản đặt cọc hoàn lại bị giới hạn ở RM5,000; phí phát triển hoặc phí xây dựng hoàn toàn không được thu. Bộ quản lý cấu trúc nhưng không quản lý số tiền, nên phí chênh lệch rất lớn theo trường, chương trình và địa điểm — hãy xác nhận các con số hiện hành trực tiếp với từng trường thay vì tin vào bất kỳ con số nào trong một bài viết so sánh hay diễn đàn.'
   watch: 'Vì không có khoản phí nào do chính phủ đặt ra, giá thực tế dao động rộng giữa các trường ngay cả với cùng một nhóm tuổi, và các đợt tăng phí bị giới hạn ở 30% không quá ba năm một lần. Hãy dự trù cả một khoản thuế dịch vụ 6% áp dụng, theo từng học sinh theo từng năm học, khi học phí hằng năm của một trẻ vượt quá RM60,000 — một khoản thuế trên phí, không do trường đặt ra.'
   next: 'Hãy lập danh sách rút gọn các trường và xác nhận biểu phí hiện hành của họ cùng ngưỡng thuế RM60,000 trực tiếp với từng trường trước khi lập ngân sách. Để lên kế hoạch liên quan, hãy xem Thẻ Người phụ thuộc hoặc Thẻ Thăm Xã hội Dài hạn để bảo lãnh con em đi cùng một nhân viên nước ngoài, và Đăng ký vào một Trường Công lập nếu một trường công lập cũng nằm trong danh sách so sánh của bạn.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'Một cổng lối vào trường quốc tế hiện đại với một chòi gác có mái che, hàng rào cây được cắt tỉa và những tán cây xanh, với những tòa nhà khuôn viên thấp phía sau dưới bầu trời nhiều mây'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: Một tòa nhà trường quốc tế nhiều tầng với mặt tiền kính và đá bo tròn màu đỏ và xám, ô tô và xe máy đỗ phía trước
+    kind: representative
+    origin: third-party
+    subject: tòa nhà chính hiện đại uốn cong của HELP International School, một trường quốc tế ở Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: Một mái che lối vào trường bằng thép và kính hiện đại gọn gàng cùng nhà bảo vệ bên cạnh một lối băng qua đường, được khung bởi cây cối dưới bầu trời sáng
+    kind: representative
+    origin: third-party
+    subject: lối vào có mái che của khuôn viên Ampang Hilir thuộc International School of Kuala Lumpur
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 Một trường theo chương trình Anh và một trường theo chương trình Mỹ ở hai phía đối diện của cùng một thị trấn, trên giấy tờ, được cấp phép bởi chính cùng một văn phòng ở Putrajaya. Không trường nào được phép hợp pháp thu của cha mẹ một "quỹ xây dựng." Không trường nào có thể tăng phí quá 30% một lần. Và không trường nào bắt buộc phải công bố một con số duy nhất do chính Bộ đặt ra — vì với tất cả các quy tắc mà Bộ viết ra, giá thực tế của một chỗ ngồi không phải là một trong số đó.

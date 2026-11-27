@@ -33,7 +33,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -78,6 +78,38 @@ sources:
 entity: "مسارات دراسة المحاسبة والتأهيل فيها في ماليزيا"
 relations:
   - { rel: "related-to", to: "before-paying-a-college-deposit" }
+stayFacts:
+  who: 'هذا موجَّه إلى الطلاب والراغبين في تغيير مسارهم المهني الذين يقرّرون كيف يتأهّلون محاسبين في ماليزيا، وهم يوازنون بين الشهادة الجامعية وACCA وCIMA أو مسار مهني آخر.'
+  how: 'حدِّد الوجهة أولاً: تصبح محاسباً مهنياً قانوناً حين تصير عضواً في المعهد الماليزي للمحاسبين (MIA) بموجب Accountants Act 1967. وثلاثة طرق تبلغ MIA — شهادة جامعية معترف بها مع خبرة؛ أو هيئة مهنية معترف بها (ACCA وCIMA وغيرهما) مع خبرة؛ أو امتحان التأهيل لدى MIA مع خبرة. وتميل ACCA نحو التدقيق والممارسة العامة وقابلية الانتقال عالمياً؛ وتميل CIMA نحو المحاسبة الإدارية والقطاع الصناعي.'
+  cost: 'الرسوم، وعدد الامتحانات، والإعفاءات التي تحملها شهادة جامعية معتمَدة، كلها تتغيّر مع كل دورة اعتماد، لذا احسب الأرقام الحالية بنفسك من الهيئة ومزوّد التدريب والجامعة — ولا تعوّل أبداً على عدد إعفاءات منقول.'
+  watch: 'لا تجعلك ACCA أو CIMA بذاتها محاسباً ماليزياً — بل عضوية MIA هي ما يفعل، والمؤهّل مع الخبرة هو الطريق إليها. وعدد الإعفاءات أكثر الحقائق تغيّراً في هذا الموضوع؛ فتحقّق منه لكل برنامج.'
+  next: 'اختَر الهيئة التي تناسب وجهتها المعتادة المكان الذي تريد العمل فيه، وأكِّد أنها تؤدّي حالياً إلى عضوية MIA وما هي الخبرة المطلوبة، ثم حسِّن نقطة دخولك ونمط دراستك وإعفاءاتك. راجع مقال قبل دفع عربون الكلية.'
+hero: '/media/education/degree-plus-acca-or-cima-accounting-study-routes/hero.webp'
+heroAlt: 'مجمّع قاعات محاضرات بجامعة ماليزية يحمل لافتةً كُتب عليها "KOMPLEKS DEWAN KULIAH" بجوار مبانٍ أكاديمية بلون العنّابي وممشى مُسقَّف.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: صفوف من المقاعد المدرّجة في قاعة محاضرات بجامعة ماليزية من النوع الذي يجلس فيه طلاب الدرجة الجامعية والمحاسبة المهنية لحضور الحصص.
+    kind: actual
+    origin: third-party
+    subject: قاعة محاضرات جامعية في Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: صفوف هادئة من مكاتب الدراسة الفردية في مكتبة بـ University of Malaya، حيث يكدّ الطلاب في مواد الدرجة الجامعية وأوراق ACCA أو CIMA.
+    kind: representative
+    origin: third-party
+    subject: مكاتب دراسة في مكتبة بـ University of Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 كل من يقرر كيف يصبح محاسبًا في ماليزيا يصطدم مباشرة بحساء من الأحرف المختصرة: **MIA وACCA وCIMA وMICPA وICAEW وCPA Australia وCA(M) وCGMA وQE.** يبدو الأمر وكأنه قائمة من المؤهلات المتنافسة التي عليك الاختيار بينها. لكن فهمه أفضل بوصفه **وجهة واحدة لها عدة طرق تؤدي إليها** — وبمجرد أن ترى الوجهة، تتضح الخيارات.

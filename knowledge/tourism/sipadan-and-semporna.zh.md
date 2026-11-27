@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 
 status: "published"
 aiAssisted: true
@@ -98,9 +98,42 @@ sources:
 
 entity: "Sipadan"
 wikidata: "Q1412482"
-related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
+related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: '适合持证水肺潜水者，追求世界级的深墙潜水——在马来西亚唯一的大洋岛屿外海观赏海龟、梭鱼风暴与礁鲨。'
+  getThere: '飞抵斗湖机场（Tawau Airport），陆路转往门户市镇仙本那（Semporna），再乘船前往各岛屿与潜水点。'
+  permit: '在 Sipadan 潜水须持有 Sabah Parks 准证，每日发放的数量受到严格限额，且仅透过持牌潜水业者分配——请及早预订。'
+  watch: '沙巴东部的岛屿位于划定的保安区（ESSZONE）内，准证永无保证，且有保育限制（包括每年的封闭期），故请在知情的情况下出行并查阅当前官方建议。'
+  next: '请向 Sabah Parks 或你的持牌潜水业者确认当前的 Sipadan 准证限额、收费及任何保育封闭期。'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: '明亮点缀着云朵的天空下，鸟瞰沙巴仙本那附近敦沙卡兰海洋公园（Tun Sakaran Marine Park）一片鲜艳的碧绿珊瑚礁潟湖，周围环绕着绿色岛屿'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: 从下方仰视，一只绿海龟游过洒满阳光的碧绿海水上方
+    kind: actual
+    origin: third-party
+    subject: 一只绿海龟滑行于明亮碧绿的海水中，诗巴丹潜水的标志性景象之一
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: 在诗巴丹潜水时，一大群银色鱼群在珊瑚礁旁盘旋，阳光穿透蓝色海水洒下
+    kind: actual
+    origin: third-party
+    subject: 诗巴丹潜水时密集的礁鱼群与穿透珊瑚上方的阳光，世界顶级潜点之一
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 一座被珊瑚覆盖的尖峰，自西里伯斯海海底径直升起六百米，海龟盘旋、梭鱼成龙卷风般旋动其间——诗巴丹正是严肃的潜水员把沙巴东部列入清单的原因，也是一整套旅游经济在仙本那这座小镇周围生长起来的原因。但它不是一个说来就能潜的地方。诗巴丹是一座受严格保护的海洋公园，设有每日准证上限、岛上本身没有住宿，而周边海岸还有一个安全区背景，初次到访者需要冷静、就事论事地理解它。本指南涵盖是什么让潜水世界级、准证和每日上限实际如何运作、你在哪里落脚、诗巴丹与邻近的敦沙卡兰海洋公园有何不同、这个区域适合谁，以及何时前往。

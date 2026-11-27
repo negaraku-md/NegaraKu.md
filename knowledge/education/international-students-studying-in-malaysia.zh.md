@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,38 @@ keywords:
   - "public vs private university Malaysia"
   - "MOHE approved institution Malaysia"
 framework: explainer
+stayFacts:
+  who: '这适用于在接受录取通知、启动学生签证流程之前，正在挑选大马院校与课程的准留学生。'
+  how: '先厘清两道各自独立的关卡：一是该课程已由大马学术资格鉴定机构（Malaysian Qualifications Agency，MQA）认证，并列入大马学术资格鉴定名册（Malaysian Qualifications Register，MQR）；二是该院校本身已获高等教育部（MOHE）批准招收外国学生。只有来自这类院校、经签署的录取通知书，才会触发学生准证（Student Pass），而且是由院校（而非你本人）向大马教育全球服务中心（Education Malaysia Global Services，EMGS）提交申请。'
+  cost: '学费因院校与课程而差异极大，学生准证另有EMGS及签证相关费用，且会不时调整，因此请直接向院校及EMGS门户网站（educationmalaysia.gov.my）核实当前数字，而非依据某个报出的金额。'
+  watch: 'MQA的课程认证与院校招收外国学生的批准，是两项不同的查核——一个课程即便已获完整认证，所在院校也可能并未获准招收你。以英语为教学媒介，并不能取代EMGS另行要求的英语能力证明。'
+  next: '先向院校的国际事务处以书面形式确认这两道关卡，接受录取，再透过EMGS办理学生准证流程。参阅《学生准证》《留学大马》以及MQA认证说明。'
+hero: '/media/education/international-students-studying-in-malaysia/hero.webp'
+heroAlt: '莫纳什大学马来西亚分校（Monash University Malaysia）校园入口，有盖走廊上有「MONASH University」标志，由一座玻璃天桥连接两栋米色学术楼。'
+heroCredit: 'Cmglee / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: 诺丁汉大学马来西亚校区绿意环绕、设有标识的正门，这所英国大学的分校招收了众多国际学生。
+    kind: actual
+    origin: third-party
+    subject: 诺丁汉大学马来西亚校区正门
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: 午后的阳光洒在厦门大学马来西亚分校设有列柱的主楼上，这所位于吉隆坡附近的中国大学分校吸引着来自海外的学生。
+    kind: actual
+    origin: third-party
+    subject: 雪邦厦门大学马来西亚分校校园
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 来自错误类型院校的录取信，对签证申请而言毫无用处，即使课程本身完全获得认证也一样。「已获认证的课程」与「获准招收国际学生的院校」这两者之间的区别，正是大部分混淆的起点，而这早在任何人填写 EMGS 表格之前就已经发生。

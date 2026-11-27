@@ -25,7 +25,7 @@ appliesTo: "தங்கள் ஆண்டு சொத்து வரி ப�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'செரம்பானில் உள்ள ஒரு மலேசிய குடியிருப்புப் பகுதியில் வேலிக்குப் பின்னால் அமைந்த நவீன இரட்டை மாடி வரிசை வீடுகள்.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: மலேசியாவின் அமைதியான ஒரு குடியிருப்புத் தெருவில் இரண்டு மாடி வரிசை வீடுகள் வரிசையாக அமைந்துள்ளன; இவை மதிப்பீட்டு வரியும் நிலவரியும் விதிக்கப்படும் நிலத்துடன் கூடிய சொத்து வகை.
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவின் ஒரு குடியிருப்புப் பகுதியில் (taman) இரண்டு மாடி வரிசை வீடுகள்
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: இஸ்கந்தர் புத்திரியில் உள்ள Mutiara Rini நகரத்தின் மேலான வான்வழிப் பார்வையில், கட்டம்போட்ட தெருக்களில் ஆயிரக்கணக்கான நிலத்துடன் கூடிய வீடுகள் தெரிகின்றன; ஒவ்வொன்றும் உள்ளூர் மன்றப் பதிவேட்டில் வரி விதிக்கத்தக்க சொத்து.
+    kind: representative
+    origin: third-party
+    subject: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள Mutiara Rini நகரத்தின் வான்வழிக் காட்சி
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 பல புதிய வீட்டு உரிமையாளர்கள் தாங்கள் இருப்பதாகவே எதிர்பார்க்காத இரண்டாவது பில்லைப் பெறும்போது அதிர்ச்சியடைகிறார்கள். அவர்கள் இந்த ஆண்டு ஏற்கனவே "நில வரி" செலுத்திவிட்டார்கள் — அப்படியிருக்க நகர மன்றம் ஏன் கோரிக்கை அறிவிப்பு அனுப்புகிறது?

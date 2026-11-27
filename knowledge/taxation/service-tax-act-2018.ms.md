@@ -99,7 +99,7 @@ sources:
     publisher: "Lexology"
 entity: "Service Tax Act 2018 (Act 807)"
 relations: []
-related: []
+related: ["sales-and-service-tax", "royal-malaysian-customs-rmcd", "sst-02-filing"]
 keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "service tax rate", "8% service tax", "6% service tax", "SST registration threshold", "SST-02", "taxable services", "service tax scope expansion 2025", "Royal Malaysian Customs Department", "MySST", "imported taxable services", "digital service tax Malaysia"]
 framework: rules
 ---

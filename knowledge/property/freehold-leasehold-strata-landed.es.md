@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que compre, venda o evalúe propiedad en Malasia y que necesite entender a qué le comprometen realmente el tipo de tenencia y de título de un anuncio."
 
 lang: "es"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,32 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'Las torres gemelas de condominio frente al mar de Jesselton Residences junto a un puerto deportivo y el mar en Kota Kinabalu, Sabah.'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: Un bungaló independiente se asienta en su propia parcela vallada en Johor Bahru, la propiedad con terreno por excelencia, que posee un título de propiedad individual en lugar de una cuota de strata.
+    kind: actual
+    origin: third-party
+    subject: Un bungaló independiente en Johor Bahru
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: Bloques de pisos públicos de bajo coste PPR se alzan en Bukit Jalil, Kuala Lumpur, donde cada unidad se posee bajo un título de strata con propiedad compartida de los elementos comunes.
+    kind: actual
+    origin: third-party
+    subject: Pisos públicos de bajo coste (PPR) en Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 Dos casas en hilera casi idénticas en la misma calle pueden llevar promesas muy distintas del Estado: un título dice «freehold», el otro «leasehold, 99 años, caducidad 2118». Una segunda pregunta, sin relación con la anterior, decide si además compartes la propiedad de un vestíbulo de ascensores y una piscina con otras cuarenta familias, o si el camino de entrada y el techo son por completo problema tuyo. Los compradores suelen fusionar ambas preguntas en una — «¿es freehold o es un condominio?» — cuando una propiedad siempre está respondiendo a ambas, de forma independiente.

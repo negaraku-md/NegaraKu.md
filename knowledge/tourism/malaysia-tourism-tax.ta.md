@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'இரவில் கோலாலம்பூரின் வானளாவிய காட்சி, ஒளிரும் அலுவலக மற்றும் ஹோட்டல் கட்டிடங்களுக்குப் பின்னால் உயரும் ஒளிர்விடும் இரட்டை பெட்ரோனாஸ் கோபுரங்கள் மற்றும் ஒளிரும் Solaris Mont Kiara பலகை.'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 வெளிநாட்டுக் கடவுச்சீட்டுடன் கோலாலம்பூரில் கிட்டத்தட்ட எந்த ஹோட்டலிலும் தங்கினால், பில்லில் ஒரு சுவாரஸ்யமான வரி தோன்றும்: நீங்கள் தங்கிய ஒவ்வொரு இரவுக்கும் நிலையான RM10. அதுதான் மலேசியாவின் சுற்றுலா வரி (TTx) — பயணிகள் வேறு இடங்களில் சந்திக்கும் சதவீத அடிப்படையிலான ஹோட்டல் வரிகளிலிருந்து மிகவும் வித்தியாசமாக இயங்கும் ஒரு சிறிய, நிலையான வரி.

@@ -84,7 +84,7 @@ keywords:
   - wafer fabrication
   - integrated circuits
   - MIDA
-sourceContentHash: "5004e184b2934476"
+sourceContentHash: "9d2f958b7a2c2eea"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -96,6 +96,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/semiconductor-industry/hero.webp'
+heroAlt: 'ஆய்வக மேசையில் ஒரு சதுர சிலிக்கான் தகடு; மெல்லிய-படல பூச்சினால் அதன் மேற்பரப்பு மெஜந்தா, இளஞ்சிவப்பு, தங்க மின்னலுடன் ஜொலிக்கிறது'
+heroCredit: 'Radiotrefoil / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Close-up of a multicrystalline silicon wafer with an iridescent silicon-nitride thin film'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-1.webp
+    alt: மஞ்சள் ஒளி கொண்ட ஒரு அரைக்கடத்தி சுத்த அறைக்குள், வெள்ளை பன்னி-உடை, தொப்பி மற்றும் முகமூடி அணிந்த ஒரு தொழில்நுட்பர் கையுறை அணிந்த கையில் ஒரு வட்ட சிலிக்கான் வேஃபரைப் பிடித்துள்ளார்
+    kind: representative
+    origin: third-party
+    subject: மஞ்சள் ஒளி கொண்ட ஒரு ஃபோட்டோலித்தோகிராஃபி சுத்த அறையில் சிலிக்கான் வேஃபரைப் பிடித்த உடையணிந்த தொழில்நுட்பர்
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry/body-2.webp
+    alt: முழு வெள்ளை சுத்த அறை உடை, தொப்பி, முகமூடி மற்றும் கையுறைகள் அணிந்த ஒரு தொழில்நுட்பர், ஒரு பிரகாசமான சுத்த அறைக்குள் ஒரு பெஞ்சில் பளபளப்பான உலோக கூறுகளில் பணியாற்றுகிறார்
+    kind: representative
+    origin: third-party
+    subject: ஒரு சுத்த அறைக்குள் துல்லிய வன்பொருளில் பணியாற்றும் பன்னி-உடை அணிந்த கூட்டமைப்பு தொழில்நுட்பர்
+    credit: Aileen Devlin/Jefferson Lab / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg
 ---
 
 நீங்கள் இதை ஒரு தொலைபேசியிலோ மடிக்கணினியிலோ படித்துக்கொண்டிருந்தால், அதன் சிப்களில் ஒன்று தனது வாழ்நாளின் ஒரு பகுதியை மலேசியாவில் கழித்திருக்கும் உண்மையான வாய்ப்பு உள்ளது — கண்டுபிடிக்கப்பட்டோ அச்சிடப்பட்டோ அல்ல, மாறாக ஒரு வெறும் சிலிக்கான் துண்டிலிருந்து, ஒரு சுற்றுப் பலகையில் பற்றவைக்கத் தயாராக உள்ள ஒரு முழுமையான, பொதியிடப்பட்ட கூறாக மாற்றப்பட்டது. அந்த அமைதியான, கவர்ச்சியற்ற படிநிலையில்தான் மலேசியா முழு மின்னணுவியல் உலகிலும் மிக முக்கியமான நிலைகளில் ஒன்றை உருவாக்கியுள்ளது.

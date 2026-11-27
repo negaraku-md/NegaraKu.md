@@ -33,7 +33,7 @@ faq:
     a: "청명은 한 해 중 의산이 가장 붐비는 날입니다. 청명 전후 약 열흘 동안 화인 가정은 흔히 온 가족이 의산에 가서 성묘하고 조상을 모십니다——풀을 뽑고, 비석을 닦고, 희미해진 새김 글자를 다시 칠하고, 제물을 차립니다. 광둥에서는 성묘를 흔히 '배산(拜山, 산에 예를 올림)'이라 부르는데, 이 표현도 이민자와 함께 남양으로 전해졌습니다. 최근 몇 년 사이 일부 의산 관리 측은 친환경적이고 간소한 방식과 쓰레기의 적절한 처리를 권장하며, 일부 가정은 이제 납골당 참배나 온라인 추모로 이날을 지내기도 합니다."
 
 lang: "ko"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: '말라카의 부킷치나(Bukit China) 묘지 언덕에 있는 큰 말굽 모양의 중국식 무덤으로, 금박 비문과 조각된 측면 패널이 있고 나무들 사이 풀로 덮인 흙 둔덕에 자리해 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: 사라왁의 풀밭에 비석과 제단을 갖춘 타일 입힌 오메가형(말굽형) 중국식 무덤이 줄지어 있다
+    kind: actual
+    origin: third-party
+    subject: 사라왁 쿠칭 인근 중국인 묘지의 타일 입힌 말굽형 중국식 무덤
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: 청명 성묘 때 비석 옆 풀로 덮인 봉분 위에 눌러 놓은 색종이 띠가 가로놓여 있다
+    kind: representative
+    origin: third-party
+    subject: 부킷 브라운 묘지의 청명(성묘) 때 봉분 위에 눌러 둔 색종이
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 청명 무렵, 하늘이 완전히 밝기도 전에 말라카 부킷치나 기슭에는 이미 차들이 빼곡히 세워져 있습니다. 가족들이 생화·향·초·제물을 들고 기복 있는 비탈을 따라 자기 집안의 조상 묘로 올라갑니다. 어떤 이는 먼저 묘 옆의 '후토(后土)'라 새겨진 작은 돌 감실 앞에서 향을 올리고, 이어 조상의 비석을 손질합니다——풀을 뽑고, 희미해진 새김 글자를 다시 칠하고, 제물을 차립니다. 비탈을 따라 빽빽이 들어서고 좌향이 가지런한 묘들은, 대를 이어 남쪽으로 건너온 화인들의 안식의 땅입니다.

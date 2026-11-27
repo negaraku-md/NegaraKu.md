@@ -35,7 +35,7 @@ verificationNeeded:
   - "வெளியிடுவதற்கு முன் MRT Kajang Line-இன் தற்போதைய நீளம்/நிலைய எண்ணிக்கையை MRT Corp அல்லது Rapid Rail-உடன் நேரடியாக உறுதிப்படுத்தவும் — போக்குவரத்து அமைச்சு மற்றும் Rapid Rail-இன் சொந்த வழித்தட பக்கம் சற்று வேறுபட்ட புள்ளிவிவரங்களைக் (51கி.மீ/31 நிலையங்கள் எதிராக 46கி.மீ/29 நிலையங்கள்) கொடுக்கின்றன; இந்தக் கட்டுரை அவற்றை ஒப்புமை செய்யும்வரை அவற்றை அப்படியே மீண்டும் குறிப்பிடுவதைத் தவிர்த்துள்ளது."
 
 lang: "ta"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'நாடகீய வானத்திற்கு எதிரே உயர்மட்ட மேம்பாலத்தில் மெருகேறிய சிவப்பு-வெள்ளை MRT Putrajaya Line ரயில் — நவீன Klang Valley மெட்ரோ'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: நடைமேடைத் திரைக் கதவுகளும் ரயில் வருகை காட்டியும் கொண்ட தூய நவீன நிலத்தடி MRT நடைமேடை (Tun Razak Exchange) — அடையாளம் காணக்கூடிய முகங்கள் இல்லை
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: ஒரு பள்ளிவாசலையும் நகர அடிவானத்தையும் கடந்து தனது உயரமான வழிப்பாதையில் வளைந்து செல்லும் KL மோனோரயில் — இரண்டாம் ரயில் முறையையும் கிள்ளான் பள்ளத்தாக்குச் சூழலையும் சேர்க்கிறது
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 முதல் முறையாக ஒரு பாசில் பள்ளத்தாக்கு ரயில் வரைபடத்தைப் பார்த்தால் அது ஒரு

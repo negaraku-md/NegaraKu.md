@@ -35,7 +35,7 @@ verificationNeeded:
   - "AirBorneo की वर्तमान ग्रामीण हवाई सेवा मार्ग-संख्या और हवाई अड्डा सूची सीधे AirBorneo या CAAM से पुष्टि करें, क्योंकि लेखन के समय MAVCOM के सार्वजनिक RAS पृष्ठ पर मार्ग-स्तरीय विवरण नहीं था और कार्यक्रम ने हाल ही में संचालक बदला है।"
 
 lang: "hi"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,33 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["मलेशिया में अंतरनगरीय यात्रा", "KTM ETS", "KTM Intercity", "मलेशिया में एक्सप्रेस बस", "Terminal Bersepadu Selatan", "TBS", "मलेशिया में घरेलू उड़ानें", "AirBorneo", "MASwings", "Rural Air Service", "साबाह सारावाक उड़ानें", "intercity travel Malaysia"]
 framework: explainer
+hero: '/media/transport/intercity-travel/hero.webp'
+heroAlt: 'यात्रियों के प्रतीक्षारत एक स्टेशन प्लेटफ़ॉर्म पर एक पीली-नीली KTM ETS Class 93 अंतरनगरीय विद्युत रेलगाड़ी'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: कुआलालंपुर के एकीकृत एक्सप्रेस-बस टर्मिनल, Terminal Bersepadu Selatan का विशाल कॉनकोर्स।
+    kind: actual
+    origin: third-party
+    subject: Terminal Bersepadu Selatan (TBS) एक्सप्रेस-बस टर्मिनल कॉनकोर्स, कुआलालंपुर
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: KTM के इंटरसिटी रेल नेटवर्क के केंद्र KL Sentral के एक प्लेटफ़ॉर्म पर खड़ी एक ETS इंटरसिटी ट्रेन।
+    kind: actual
+    origin: third-party
+    subject: KL Sentral पर KTM इंटरसिटी रेल प्लेटफ़ॉर्म
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 कुचिंग के लिए उड़ान भरिए, Kuantan के लिए बस लीजिए, या Butterworth के लिए ट्रेन पकड़िए — एक ही

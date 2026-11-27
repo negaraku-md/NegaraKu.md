@@ -16,7 +16,7 @@ keyTakeaways:
   - "Perusahaan ini baru mengambil nama sekarangnya pada 1992, setelah waran diraja 1979 dari Sultan Selangor."
 appliesTo: "Siapa saja yang ingin tahu tentang tradisi kriya Malaysia, sejarah pertambangan timah, atau Royal Selangor"
 lang: "id"
-sourceContentHash: "ab235dfd3f4f5c67"
+sourceContentHash: "8e7661cee0083a57"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -58,6 +58,34 @@ relations:
 related: ["batik", "kuala-lumpur", "selangor"]
 keywords: ["pewter", "Royal Selangor", "tin mining", "Malaysian crafts", "Kuala Lumpur history", "Yong Koon", "Selangor Pewter"]
 framework: history-culture
+hero: '/media/arts-culture/pewter/hero.webp'
+heroAlt: 'Seorang perajin wanita berkerudung ungu dan berpakaian celemek membungkuk di meja kerja, mengetukkan palu kecil pada cangkir timah yang dipasang pada penjepit baja, dengan deretan mug timah di belakangnya'
+heroCredit: 'istolethetv / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hammering_(6983980835).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a pewtersmith at Royal Selangor in Kuala Lumpur hammering the surface of a pewter tankard held in a jig'
+
+images:
+  - role: scene
+    src: /media/arts-culture/pewter/body-1.webp
+    alt: Seorang perajin pewter menggunakan alat pada sebuah gelas tankard yang berputar di atas mesin bubut, serutan logam melingkar terlepas, dengan sekitar sembilan badan tankard pewter keperakan yang mengilap tertata di atas meja kerja kayu
+    kind: actual
+    origin: third-party
+    subject: seorang perajin pewter Malaysia membubut sebuah tankard di atas mesin bubut, dengan tankard pewter yang sudah jadi tertata di atas meja
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Selangor_Visitor_Center_-_Pewter_Factory_in_Kuala_Lumpur,_Malaysia_(14).jpg
+  - role: scene
+    src: /media/arts-culture/pewter/body-2.webp
+    alt: Sebuah tankard pewter tunggal yang mengilap dengan pegangan tebal dan garis-garis mendatar, permukaan keperakannya yang bagaikan cermin memantulkan cahaya di tengah latar belakang pucat
+    kind: actual
+    origin: third-party
+    subject: sebuah tankard pewter yang sudah jadi dan dipoles mengilap dengan pegangan
+    credit: geni / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pewter_Tankard.jpg
 ---
 
 Sebuah kota yang dibangun atas timah akhirnya menganugerahkan dunia sebuah kriya logam. Kuala Lumpur ada karena para penambang menemukan bijih timah di pertemuan Sungai Klang dan Sungai Gombak. Beberapa dekade kemudian, seorang perajin timah muda yang datang untuk bekerja dalam ekonomi timah yang sama mulai menempa pedupaan untuk altar kelenteng — dan bengkel yang dibukanya kini menjadi produsen pewter terbesar di dunia.

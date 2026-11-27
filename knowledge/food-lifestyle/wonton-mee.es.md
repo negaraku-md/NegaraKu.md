@@ -106,6 +106,7 @@ dishFacts:
   halal: "Por tradición el wonton mee es un plato de cerdo —el char siu es cerdo a la barbacoa y los wontons se rellenan de cerdo y gambas—, de modo que el cuenco clásico no es halal. Muchos puestos de gestión musulmana por toda Malasia venden versiones halal que cambian el cerdo por 'char siu' de pollo y usan wontons de pollo o gambas; también existen versiones vegetarianas con gluten de trigo o setas. Como las prácticas varían según el puesto, conviene preguntar en cada local si esto importa."
   eat: "En el estilo seco (kon lou) los fideos llegan mezclados y brillantes con el char siu encima, mientras que los wontons van aparte en un pequeño cuenco de sopa al lado: se comen los fideos y luego, en medio, se toma a cucharadas el caldo con las empanadillas. Los chiles verdes encurtidos, en rodajas y macerados en vinagre, son el condimento casi universal, y su mordisco agudo, agrio y picante corta la untuosidad; a menudo se ofrece también una pizca de salsa de chile o sambal."
   where: "El wonton mee es un fijo de los puestos de hawker malasios y de la mesa de desayuno del kopitiam y el mamak, en especial el estilo seco asociado a Kuala Lumpur y gran parte de la península. Cambia de ciudad en ciudad, con destacadas versiones regionales en Penang, Ipoh y Sarawak."
+wikidata: "Q3269812"
 ---
 
 Pide wonton mee en Kuala Lumpur y recibirás un montoncito de fideos de huevo

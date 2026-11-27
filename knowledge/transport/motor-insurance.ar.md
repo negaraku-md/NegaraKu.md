@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "مالكو المركبات وسائقوها في ماليزيا — السيارات والدرّاجات النارية والمركبات التجارية — الذين يرغبون في فهم أنواع التغطية التأمينية والمتطلّبات القانونية."
 
 lang: "ar"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -63,6 +63,32 @@ relations:
 related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["تأمين المركبات الماليزي", "تأمين الطرف الثالث", "قانون النقل البري 1987", "التأمين الشامل", "ضريبة الطريق", "المادة 90", "PIAM", "تأمين الدرّاجات النارية", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 framework: explainer
+hero: '/media/transport/motor-insurance/hero.webp'
+heroAlt: 'سيارات مصطفة لصيقة ببعضها في ازدحام مروري على الطريق السريع الاتحادي في ماليزيا تحت جسر للمشاة.'
+heroCredit: 'Countryball mys123 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: شاحنة قطر زرقاء في Kuala Lumpur، من النوع الذي يسحب المركبات بعد عطل أو حادث.
+    kind: actual
+    origin: third-party
+    subject: شاحنة قطر في Kuala Lumpur، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: سيارات متلاصقة في ازدحام مروري مسائي على Jalan Bundusan في Kota Kinabalu، Sabah.
+    kind: actual
+    origin: third-party
+    subject: ازدحام مروري مسائي على طريق مدينة في Kota Kinabalu، Sabah
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 يمكنك قانونياً أن تقود سيارة لم تُغسَل قطّ، بإطارات بالية ومكيّف هواء معطّل. لكن القيادة دون ورقة واحدة — وثيقة تأمين الطرف الثالث — جريمة جنائية.

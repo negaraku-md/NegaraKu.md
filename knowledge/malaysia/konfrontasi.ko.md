@@ -71,6 +71,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: '조경된 도시 녹지에 세워진 석조 기념비로, 인도네시아-말레이시아 대결(콘프론타시)에서 숨진 이들을 기린다.'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아는 1963년 9월 16일, 자신을 평화롭게 맞이하지 않은 지역 속으로 태어났습니다. 훨씬 더 큰 이웃 나라는 이미 반대를 선언한 터였고, 몇 달 안에 그 새로운 보르네오(Borneo) 국경은 결코 공식적으로 전쟁으로 선포된 적이 없으면서도 거의 4년간 이어진 무장 분쟁의 최전선이 되었습니다. 그 분쟁은 대결정책(Konfrontasi)으로 알려져 있습니다.

@@ -71,6 +71,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'An illuminated gated-community entrance arch reading ''Arden Hill Precinct 2'' with a guardhouse and boom gate at dusk, Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, an upscale gated community inside the Forest Heights township in Seremban, lays out landed homes behind a single controlled perimeter.
+    kind: actual
+    origin: third-party
+    subject: Arden Hill upscale gated community, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Landed homes and manicured greenery fill the Horizon Hills gated-and-guarded township in Iskandar Puteri, Johor, a large security-managed residential enclave.
+    kind: actual
+    origin: third-party
+    subject: Horizon Hills gated township, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 Two housing areas can look identical — brick guardhouse, striped boom gate, uniformed guard checking your sticker. One stands on solid legal ground. The other exists because nobody has challenged it yet.

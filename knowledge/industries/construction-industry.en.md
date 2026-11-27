@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 is a policy launched at ICW 2021, following the conclusion of the Construction Industry Transformation Programme (CITP) 2016–2020. It sets out six strategic thrusts to transform the construction sector towards the digital era by 2030, including a target to digitalise 50% of the industry cycle."
 
 lang: "en"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,35 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Deep foundation excavation of a high-rise construction site in Kuala Lumpur, with tower cranes, red shoring struts and workers, backed by the city skyline.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: Tower cranes rise over a high-rise building under construction in central Kuala Lumpur, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: A high-rise construction site in Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: A reinforced-concrete serviced apartment tower under construction on Jalan Kuda Emas near Bukit Jalil, Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Serviced apartment construction near Bukit Jalil, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 Try to erect a school fence worth RM250,000 without holding a contractor registration certificate, and your project can be ordered to stop immediately — before the first post is even planted. In Malaysia, the right to build does not begin with machinery or labour; it begins with a single registration.

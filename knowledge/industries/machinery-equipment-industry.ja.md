@@ -31,7 +31,7 @@ faq:
   - q: M&E部門にはどのような政府支援がありますか。
     a: M&EはMIDAの優先ハイテク産業であり、投資優遇の対象となります。また、国家インダストリー4.0政策であるIndustry4WRDの中心であり、自動化・先端技術を導入する企業にIndustry4WRD介入基金や国内投資戦略基金といった補助金を提供します。
 lang: ja
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -93,6 +93,32 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'CNC工作機械と作業員が並ぶ工場のフロア。機械・設備製造業に典型的な光景である。'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: 大型の産業用製造ホール内に並べられた、組み立て途中の黄色い大型建設機械。
+    kind: representative
+    origin: third-party
+    subject: 重機械製造工場（産業機械生産の代表例）
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: 重機工場内の組立ラインで大型鋼板を接合する自動ロボット溶接ライン。
+    kind: representative
+    origin: third-party
+    subject: 重機工場内のロボット溶接組立ライン（代表例）
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 あらゆる工場は機械で動いている――そしてその機械は、誰かが作らねばならない。機械・装置（M&E）産業は、*他の*あらゆる産業が依存する生産ライン、プロセス機械、金属加工工具、動力システム、自動化を作る、製造業の一部である。経済の中で最も目立たない大産業であり、まさにその理由ゆえに、最も戦略的に重要なものの一つである。

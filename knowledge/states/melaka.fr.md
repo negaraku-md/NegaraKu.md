@@ -37,7 +37,7 @@ verificationNeeded:
   - "Confirmer la zone centrale et la zone tampon propres à la composante de Melaka (par opposition à l'ensemble du bien en série) par rapport au document de proposition d'inscription 1223bis."
 
 lang: "fr"
-sourceContentHash: "68b18aa6f45a809f"
+sourceContentHash: "beb5c5ad9973750b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri de Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Sitio del Patrimonio Mundial de la UNESCO Melaka", "estado sin Sultán", "Melaka Tengah Alor Gajah Jasin", "economía de Melaka", "patrimonio portugués neerlandés británico"]
 framework: profile
+hero: '/media/states/melaka/hero.webp'
+heroAlt: 'Le bâtiment Stadthuys rouge profond de l''époque hollandaise et la tour-horloge en brique rouge de la Dutch Square de Melaka, encadrant un rond-point fleuri paysagé'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The red Dutch Stadthuys and Tang Beng Swee clock tower around the garden roundabout of Dutch Square, Melaka'
+
+images:
+  - role: scene
+    src: /media/states/melaka/body-1.webp
+    alt: L'église rouge Christ Church Melaka à côté de la Galerie d'art de Melaka, avec une rangée de trishaws colorés décorés de fleurs garés sur la place
+    kind: actual
+    origin: third-party
+    subject: L'église Christ Church Melaka peinte en rouge et la Galerie d'art de Melaka avec des trishaws aux couleurs vives couverts de fleurs garés devant
+    credit: KimonBerlin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Art_Gallery,_Christ_Church_Melaka,_nice_set_of_trishaws_(12648512253).jpg
+  - role: scene
+    src: /media/states/melaka/body-2.webp
+    alt: Les vestiges en pierre de latérite patinée de la forteresse A Famosa à Melaka avec des canons anciens sur l'herbe sous un ciel bleu
+    kind: actual
+    origin: third-party
+    subject: Le mur de pierre subsistant de la porte de la forteresse portugaise A Famosa (Porta de Santiago) à Melaka, avec de vieux canons devant
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg
 ---
 
 Neuf États de Malaisie ont un Raja. Melaka n'en fait pas partie — même si son nom est lié

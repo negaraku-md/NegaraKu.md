@@ -42,7 +42,7 @@ sources:
     publisher: "Nyonya Cooking"
 
 lang: "es"
-sourceContentHash: "ed09193968bfb691"
+sourceContentHash: "de64647067294955"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ drinkFacts:
   halal: "Fruta conservada; las bebidas de asam boi son fruta, azúcar y agua sin alcohol, así que son halal en sí mismas. La garantía corresponde al establecimiento para una bebida de puesto, o al sello de certificación de un producto envasado —búscalo en lugar de darlo por sentado."
   served: "Lo más clásico, como limau asam boi —lima calamansí con jarabe de ciruela agria, sobre hielo, con unos trozos de ciruela y a veces una pizca de sal. También se añade a refrescos (Sprite asam boi) y a Ribena. Se come solo como aperitivo también."
   where: "Se encuentra en los mostradores de bebidas de los mamak y kopitiam, puestos de hawker y tiendas de productos secos por todo el país; el asam boi envasado se vende en supermercados y tiendas de ultramarinos."
+hero: '/media/food/asam-boi/hero.webp'
+heroAlt: 'Un plato de ciruelas secas en conserva, marrones y arrugadas, cubiertas de escarcha salada, conocidas como asam boi'
+heroCredit: 'Alancrh / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chinese_preserved_plum_snack.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'wrinkled brown dried preserved plums (asam boi) in a dish'
+images:
+  - role: scene
+    src: /media/food/asam-boi/body-1.webp
+    alt: Primer plano de dos ciruelas secas en conserva, arrugadas y cubiertas de sal
+    kind: actual
+    origin: third-party
+    subject: primer plano de dos ciruelas en conserva saladas (buay khem / asam boi)
+    credit: Nix Sunyata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Salted_Plum_(%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%A1_Buay_Khem_%E5%B9%BF%E4%B8%9C%E8%AF%9D%E6%A2%85).jpg
+  - role: scene
+    src: /media/food/asam-boi/body-2.webp
+    alt: Un cuenco de vidrio transparente lleno de ciruelas secas en conserva escarchadas de sal
+    kind: actual
+    origin: third-party
+    subject: un cuenco de ciruelas secas en conserva saladas (buai khem / asam boi)
+    credit: Takeaway / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Buai_khem.jpg
+wikidata: "Q6539361"
 ---
 
 Algunos sabores son difíciles de olvidar, y el **asam boi** es uno de ellos: una ciruela

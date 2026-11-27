@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu : langue nationale selon l'article 152"
 socialTitle: "Comment le bahasa melayu est devenu la langue nationale — et est passé du jawi au rumi"
 
 lang: "fr"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,32 @@ relations:
 related: ["federal-constitution", "melaka-sultanate", "independence-1957"]
 keywords: ["bahasa Melayu", "bahasa kebangsaan", "Perkara 152", "Akta Bahasa Kebangsaan 1963/67", "tulisan Jawi Rumi", "Ejaan Rumi Baharu 1972"]
 framework: explainer
+hero: '/media/arts-culture/bahasa-melayu/hero.webp'
+heroAlt: 'La haute tour du Dewan Bahasa dan Pustaka à Kuala Lumpur, son nom inscrit le long du socle, le siège de l''autorité nationale de la langue et de la littérature vu depuis la route.'
+heroCredit: 'Yu Chu Chin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: Une pancarte suspendue indiquant « Livres malais » au-dessus de tables chargées de livres de poche en langue malaise, tandis que des visiteurs les parcourent lors d'un salon du livre malaisien
+    kind: actual
+    origin: third-party
+    subject: La section des livres en langue malaise lors d'un salon du livre en Malaisie
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: Un ancien manuscrit manuscrit ouvert en écriture Jawi, exposé sur un support dans une vitrine en verre
+    kind: actual
+    origin: third-party
+    subject: Un manuscrit ouvert en langue malaise en écriture Jawi (le recueil juridique Hukum Kanun Melaka), Malaisie
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 À Kuala Berang, Terengganu, on a trouvé une inscription sur pierre portant des mots malais — non pas dans les lettres que nous connaissons aujourd'hui, mais en écriture arabe adaptée aux sons du malais. Selon les Archives nationales de Malaisie (Arkib Negara Malaysia), l'inscription est datée de 1303 apr. J.-C.

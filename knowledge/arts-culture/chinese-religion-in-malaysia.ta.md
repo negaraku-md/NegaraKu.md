@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: துவா பேக் காங் யார், மிகப் பழமையான துவா பேக் காங் கோயில் எங்கே உள்ளது?
     a: துவா பேக் காங் (Tua Pek Kong, 大伯公) என்பது வலுவான உள்ளூர்த் தன்மை கொண்ட தெய்வம்; மலேசியா முழுவதும் உள்ள சீனக் கோயில்களில் பரவலாக வணங்கப்படுகிறார். மிகப் பழமையான துவா பேக் காங் கோயில் பினாங்கின் தஞ்சோங் தோகோங்கில் (Tanjung Tokong) இருப்பதாகக் கூறப்படுகிறது; இந்த நம்பிக்கை பின்னர் மலேசியா, சிங்கப்பூர் மற்றும் இந்தோனேசியா முழுவதும் பரவியது. மலாய் மொழியில் இத்தகைய வழிபாட்டிடம் tokong என அழைக்கப்படுகிறது; மற்ற பிரபலக் கோயில்களில் மலாக்காவில் உள்ள செங் ஹூன் தெங் (Cheng Hoon Teng) மற்றும் கோலாலம்பூரில் உள்ள தியான் ஹூ கோயிலும் (Thean Hou) அடங்கும்.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: 'கோலாலம்பூரில் உள்ள சீன தியான் ஹூ கோயிலின் மேல்நோக்கி வளைந்த, டிராகன்கள் உச்சியில் அமைந்த ஓட்டுக் கூரைகள், நீல வானத்திற்கு எதிராக வரிசையாகத் தொங்கும் சிவப்பு விளக்குகளால் சூழப்பட்டுள்ளன.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: ஜொகூர் பாரு பழைய சீனக் கோயிலின் அலங்கார முகப்பு, கூரையில் டிராகன் சிற்பங்கள், மட்பாண்ட புடைப்புச் சிற்பங்கள் மற்றும் நுழைவாயிலில் சிவப்பு விளக்குகளுடன்.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாரு பழைய சீனக் கோயில், ஒரு சீன நாட்டார் சமயக் கோயில்
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: பினாங்கு ஜார்ஜ் டவுனில் நெடுங்காலமாக நிலைத்திருக்கும் ஒரு சீன வழிபாட்டுத் தலமான குவான் யின் தேவி கோயிலுக்கு முன்னால் புகை எழுப்பும் எரியும் ஊதுபத்திக் கொத்துகள்.
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுன், குவான் யின் தேவி கோயிலில் எரியும் ஊதுபத்திகள்
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 மலேசியாவின் எந்தவொரு சீனக் கோயிலுக்குள் நுழைந்தாலும், ஒரே இடத்தில் பௌத்த, தாவோயிய மற்றும்

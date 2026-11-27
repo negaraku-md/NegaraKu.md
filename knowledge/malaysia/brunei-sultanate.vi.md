@@ -19,7 +19,7 @@ keyTakeaways:
   - "Sarawak và Bắc Borneo gia nhập Liên bang Malaysia năm 1963, nhưng Brunei chọn đứng ngoài và trở thành một quốc gia hoàn toàn độc lập năm 1984"
 appliesTo: "Bất kỳ ai đang cố hiểu cách Sarawak và Sabah trở thành một phần của Malaysia, và vì sao Brunei láng giềng là một quốc gia có chủ quyền riêng biệt."
 lang: "vi"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -60,6 +60,32 @@ social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
 framework: history-culture
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: 'Một thánh đường Hồi giáo trắng mái vòm vàng với ngọn tháp cao tỏa sáng phía trên đầm nước và chiếc thuyền đá nghi lễ của nó lúc hoàng hôn.'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: Những cụm nhà sàn gỗ và lối đi nối liền trải rộng trên sông Brunei phẳng lặng, ngôi làng nổi hàng thế kỷ tuổi ở trung tâm lịch sử của thủ đô Brunei.
+    kind: actual
+    origin: third-party
+    subject: Kampong Ayer, làng nổi nhà sàn lịch sử trên sông Brunei, Bandar Seri Begawan
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: Lapau, sảnh nghi lễ hoàng gia của Brunei nơi các quốc vương đăng quang, nằm giữa khu vườn tạo cảnh quan và các bụi cây ra hoa ở Bandar Seri Begawan.
+    kind: actual
+    origin: third-party
+    subject: Lapau, sảnh nghi lễ hoàng gia của Brunei, ở Bandar Seri Begawan
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 Hãy đứng trên bến nước ở Bandar Seri Begawan ngày nay và Brunei trông nhỏ bé: một vương quốc Hồi giáo giàu có, giàu dầu mỏ cuộn quanh hai dải mỏng của bờ biển Borneo, đủ gần để lái xe qua trong một buổi chiều. Thật dễ quên rằng đây là mảnh vỡ còn sót lại của một đế quốc — rằng năm thế kỷ trước một Sultan của Brunei có thể đòi cống phẩm từ các hải cảng rải dọc phần lớn các bờ biển phía bắc và phía tây của hòn đảo, và rằng hai trong số các bang Malaysia mà bạn có thể đến từ đây bằng đường bộ, Sarawak và Sabah, từng là của ông để ban tặng. Câu chuyện về cách một vương quốc biển Borneo trỗi dậy, đạt đỉnh cao, rồi trao đi những bờ biển đó từng mảnh một là một trong những sợi chỉ thiết yếu của lịch sử Malaysia — dù bản thân Brunei chưa bao giờ trở thành một phần của Malaysia.

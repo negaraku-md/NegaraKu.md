@@ -23,7 +23,7 @@ appliesTo: "マレーシアの天気と洪水リスクが季節によってな�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,32 @@ faq:
   - q: 北東モンスーンは11月から3月まで一様に激しいのですか?
     a: いいえ。2024/2025シーズンに関する国家安全保障会議(MKN)の公式データによれば、最もリスクの高い地域は時期によって変化します。初期(11月〜12月)にはクランタン、トレンガヌ、パハン、ジョホール、サラワク、サバが影響を受けました。後期(1月〜2月)には重点がパハン、ジョホール、サラワク、サバに移り、クランタンとトレンガヌはもはや最高リスク地域として挙げられていません。シーズン全体で5〜7回の大雨が記録されると予想されています。
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: '風にあおられた雨が、人気のない水に濡れた都市広場でしなる椰子の木立を打ちつけ、鉛色の空の下で葉が横向きになびき、高層ビル群が豪雨の中に霞んでいる。'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: 激しい熱帯の豪雨の中、一台の車が街路を覆う茶色の洪水の中を走り抜け、しぶきを上げている。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのジャラン・ラジャ・チュランを冠水させる豪雨
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: 濁った洪水に沈んだ村の小道に激しい雨が降り注ぎ、水の中にバナナの木と電柱が立っている。
+    kind: actual
+    origin: third-party
+    subject: サバ州サンダカンのカンポンの道を覆うモンスーンの洪水
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 毎年11月、ニュースを確認するよりも先に、コタバル、クアラトレンガヌ、クアンタンの多くの住民は自宅近くの川の水位を確認し始める。これは予期せぬ災害から生まれた習慣ではない——予測可能で毎年繰り返される一つのスケジュールであり、その原因は同じ季節風のシステムであって、それが半島の西海岸がいつ乾燥するかをも決定づけている。

@@ -29,7 +29,7 @@ faq:
     a: "Menurut ringkasan undang-undang, pelanggaran suap dapat dihukum penjara hingga 20 tahun dan denda tidak kurang dari lima kali nilai suap atau RM10,000, mana yang lebih tinggi. Rincian ini perlu diperiksa ulang terhadap teks lengkap undang-undang."
 
 lang: "id"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ sources:
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
-related: []
+related: ["fam-heritage-players-controversy", "malaysia-cup-domestic-football-leagues", "malaysian-sport-governance"]
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'Sebuah lapangan sepak bola yang kosong terbentang di depan tribun penonton yang lengang di bawah langit mendung.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: Seorang wasit berpakaian gelap memimpin pertandingan di lapangan selama sebuah pertandingan sepak bola.
+    kind: representative
+    origin: third-party
+    subject: Seorang wasit pertandingan memimpin pertandingan di lapangan selama sebuah pertandingan sepak bola
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: Seorang wasit melempar koin bersama dua kapten tim di lingkaran tengah sebelum sebuah pertandingan sepak bola dimulai.
+    kind: representative
+    origin: third-party
+    subject: Seorang wasit melakukan undian koin sebelum pertandingan bersama para kapten tim
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 Ketika lebih dari 100 pemain sepak bola diambil oleh polisi pada musim 1993–1994, itu bukan sekadar krisis olahraga — ia membuka satu persoalan hukum yang masih belum sepenuhnya selesai hingga hari ini: bagaimana sebuah negara yang melarang hampir semua pertaruhan olahraga menangani kejahatan yang lahir dari pertaruhan itu sendiri.

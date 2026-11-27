@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3996608aeba4590f"
+sourceContentHash: "7b4f9c27244f539c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -79,9 +79,28 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "Menteri Kesihatan Malaysia", "Director-General of Health", "Ketua Pengarah Kesihatan", "klinik kesihatan", "moh.gov.my", "Malaysia public healthcare", "Dzulkefly Ahmad", "RM1 clinic fee"]
 framework: profile
+hero: '/media/government/ministry-of-health-moh/hero.webp'
+heroAlt: '一座高大的砂岩与绿玻璃政府塔楼顶着开放的方形楼冠，入口雨篷上方书有KEMENTERIAN KESIHATAN MALAYSIA字样和国徽，天空多云'
+heroCredit: 'Benjy8769 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ministry_of_Health_Malaysia_HQ.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Ministry of Health Malaysia (KKM) headquarters tower, Blok E7, Precinct 1, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-health-moh/body-1.webp
+    alt: 一座醒目的绿色玻璃政府大楼，带有锐角切面的两翼和悬挑式屋顶，一面竖长的马来西亚国旗沿右侧立面垂下，下方是铺砖广场
+    kind: actual
+    origin: third-party
+    subject: 马来西亚卫生部培训管理部门大楼，位于布城 KKM 建筑群内
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
 ---
 
 当你走进马来西亚的政府诊所，递上一张RM1纸币，然后带着看诊和药物走出来时，你正在使用世界上补贴最高的医疗体系之一。运营它的是**马来西亚卫生部**——*Kementerian Kesihatan Malaysia*（**KKM**），英文为**MOH**——这个联邦部门负责公共卫生、医疗诊治、医学研究、健康促进、药品与医疗器械监管、牙科护理及病人安全。部门总部位于联邦政府行政中心Complex E（E1、E3、E6、E7和E10座），邮编62590布城（Putrajaya）。

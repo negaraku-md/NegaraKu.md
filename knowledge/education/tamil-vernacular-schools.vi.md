@@ -32,7 +32,7 @@ faq:
   - q: "Tiếng Mã Lai và tiếng Anh có được dạy ở các trường Tamil không?"
     a: "Có. Mặc dù ngôn ngữ giảng dạy ở SJKT là tiếng Tamil, tiếng Mã Lai (Bahasa Melayu) và tiếng Anh được dạy như các môn bắt buộc. Điều này có nghĩa là học sinh được giáo dục cơ bản bằng tiếng Tamil, đồng thời cũng chuẩn bị về tiếng Mã Lai cho việc chuyển lên các trường trung học quốc gia."
 lang: "vi"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,32 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: 'Cổng và tòa nhà nhiều tầng của trường Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi, một trường tiểu học quốc lập dạy bằng tiếng Tamil của Malaysia ở Johor.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: Biển tên lối vào màu xanh của S.J.K (Tamil) Changlun ở Kedah, hiển thị tên trường bằng tiếng Tamil và tiếng Mã Lai cùng với huy hiệu nhà trường.
+    kind: actual
+    origin: third-party
+    subject: Biển tên của một trường loại hình quốc gia dạy bằng tiếng Tamil, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: Khối lớp học và sân trong của SJK(T) Changlun ở Kedah, với các cửa lớp học, bảng thông báo và cờ dọc theo một lối đi có mái che.
+    kind: actual
+    origin: third-party
+    subject: Khối lớp học của một trường dạy bằng tiếng Tamil, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 Ở bất kỳ góc nào của Malaysia — bên rìa một đồn điền cao su cũ, hay ở ngoại vi

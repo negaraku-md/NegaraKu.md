@@ -33,7 +33,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -75,6 +75,32 @@ entity: "கிள்ளான் பள்ளத்தாக்கு ரயி
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'கோலாலம்பூரில் KLCC LRT நிலையத்தில் நீல நிற சக்கர நாற்காலி அணுகல் அறிகுறி மற்றும் தொடுதல் தரை ஓடுகளுடன் குறிக்கப்பட்ட ஒரு துருப்பிடிக்காத எஃகு பயணிகள் லிஃப்ட்.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: பார்வையற்ற பயணிகளுக்கு வழிகாட்ட சுத்தமான MRT நிலைய தளத்தின் விளிம்பில் செல்லும் உயர்ந்த கோடுகளுடன் கூடிய பிரகாசமான மஞ்சள் நிற தொடு தரை ஓடுகளின் வரிசை
+    kind: actual
+    origin: third-party
+    subject: கிள்ளாங் பள்ளத்தாக்கில், கோத்தா டாமான்சாரா, சூரியான் MRT நிலையத்தின் தளத்தில் தொடு வழிகாட்டி தரை
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: தண்டவாள விளிம்பில் முழு உயர தள-திரைக் கதவுகளுடனும், ஏறும் பகுதிகளைக் குறிக்கும் தொடு தரையுடனும் கூடிய அகலமான, சமமான MRT நிலைய தளம்
+    kind: actual
+    origin: third-party
+    subject: கிள்ளாங் பள்ளத்தாக்கில் மருத்துவமனை கோலாலம்பூர் MRT நிலையத்தில் தள-திரைக் கதவுகளுடன் கூடிய தளம்
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 ஒரு சக்கர நாற்காலி பயனருக்கு, கிள்ளான் பள்ளத்தாக்கின் ரயில் வலையமைப்பு ஒரே அமைப்பு அல்ல, மாறாக வெவ்வேறு பத்தாண்டுகளில் மிகவும் வேறுபட்ட தரநிலைகளுக்கு ஏற்பக் கட்டப்பட்ட பல அமைப்புகள் — அதுவே ஒரு நல்ல பயணத்தைத் திட்டமிடுவதற்கான திறவுகோல். நீங்கள் எடுக்கும் மிகவும் பயனுள்ள முடிவு **எந்த முறையில் (mode) பயணிப்பது** என்பதே; அதன் பிறகு, பயணம் வெற்றி பெறுவதோ தோற்பதோ, பளபளப்பான வரைபடங்கள் உங்களுக்கு ஒருபோதும் காட்டாத இரண்டு விஷயங்களில் தங்கியுள்ளது: **ஒரு குறிப்பிட்ட லிஃப்ட் அந்த நாளில் இயங்குகிறதா**, மற்றும் **இடைமாற்றுகள் (interchanges) உண்மையில் எப்படி இணைகின்றன**. இந்த வழிகாட்டி அந்த யதார்த்தங்களைச் சுற்றி எப்படித் திட்டமிடுவது என்பது பற்றியது. இது வேண்டுமென்றே நிலையத்துக்கு-நிலைய அணுகல் பட்டியல் *அல்ல* — அந்த நிலைமைகள் எந்தக் கட்டுரையையும் விட விரைவில் மாறுகின்றன — எனவே இங்கு வரும் அனைத்தையும் *ஒரு நிலையம் வழங்க வடிவமைக்கப்பட்டது* என்று கருதி, அதை நம்பும் முன் தற்போதைய நிலையை இயக்குநரிடம் உறுதிப்படுத்துங்கள்.

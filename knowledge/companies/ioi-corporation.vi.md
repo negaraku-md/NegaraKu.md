@@ -30,7 +30,7 @@ faq:
     a: "Tại Malaysia (bao gồm Johor, Malacca, Negeri Sembilan, Pahang, Sabah và Sarawak) và tại Indonesia (Tây và Trung Kalimantan)."
 
 lang: "vi"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'Lối vào chính kính-kim loại uốn cong của trung tâm thương mại IOI City Mall với biển hiệu ''ioiCITYMALL'' đỏ phía trên cửa, hai bên là những tòa cao ốc văn phòng kính gương cao dưới bầu trời nhiều mây ấn tượng'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: Một tháp tinh chế dầu cọ công nghiệp màu xanh mang chữ 'IOI' lớn và bảng biểu tượng 'IOI EDIBLE OILS' tại Sandakan, Sabah, phía sau là những ngọn đồi rừng với cây cọ phía trước
+    kind: actual
+    origin: third-party
+    subject: Khu phức hợp nhà máy tinh chế dầu cọ IOI Edible Oils tại Sandakan, Sabah, một phần hoạt động sản xuất dựa trên tài nguyên của IOI Corporation
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: Sảnh thông tầng nhiều cấp bên trong của IOI City Mall 2, những biểu ngữ quảng bá màu hồng cao 'IOi CiTY MALL 2' treo trên các ban công cong viền bởi các mặt tiền cửa hàng
+    kind: actual
+    origin: third-party
+    subject: Sảnh thông tầng bên trong của IOI City Mall 2, giai đoạn hai của IOI City Mall, Putrajaya
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 Một công ty khởi đầu cuộc đời bằng việc bán khí công nghiệp nay trồng đủ cọ dầu để lấp đầy một quỹ đất bằng kích thước một quận nhỏ — và biến loại quả đó thành mọi thứ từ dầu ăn đến các axit béo bên trong bánh xà phòng của bạn.

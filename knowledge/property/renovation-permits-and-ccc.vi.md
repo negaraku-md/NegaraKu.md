@@ -28,7 +28,7 @@ faq:
     a: "CCC xác nhận ngôi nhà được xây dựng đúng theo bản vẽ được phê duyệt và an toàn để ở. Không có CCC, tòa nhà về mặt chính thức không đủ điều kiện để ở và việc cung cấp tiện ích có thể bị ảnh hưởng."
 
 lang: "vi"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "kebenaran PBT", "Akta 133", "permit renovation", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'Bên trong một ngôi nhà liền kề hai tầng đang được cải tạo ở Selangor, Malaysia, với ngôi nhà bên cạnh nhìn thấy qua ô cửa.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: Những bức tường trát vữa xi măng với các ô cửa sổ vừa tạo và các bao vật liệu xây dựng trong lúc cải tạo một căn nhà phố liền kề ở Malaysia
+    kind: representative
+    origin: third-party
+    subject: Những bức tường vừa trát và các ô cửa sổ mới trong lúc cải tạo nhà phố liền kề ở Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: Một thùng kim loại lớn chứa đầy gỗ vụn và phế thải xây dựng bên ngoài một căn nhà phố liền kề ở Malaysia đang được cải tạo
+    kind: representative
+    origin: third-party
+    subject: Một thùng chứa phế thải xây dựng tại công trường cải tạo nhà phố liền kề ở Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 Bạn muốn thêm bếp phía sau nhà hoặc xây thêm tầng — và đột nhiên hàng xóm nói "phải xin phép hội đồng trước đã". Có đúng vậy không? Đối với phần lớn công việc cải tạo, thì đúng.

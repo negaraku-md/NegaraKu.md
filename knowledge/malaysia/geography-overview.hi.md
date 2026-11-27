@@ -18,7 +18,7 @@ keyTakeaways:
   - "पूर्वोत्तर मानसून (नव–मार्च) प्रायद्वीप के पूर्वी तट, पश्चिमी सारावाक और उत्तरी साबाह को भिगोता है; दक्षिण-पश्चिम मानसून (मई–सित) तुलनात्मक रूप से सूखा है — एक लय जो आज भी बाढ़ के मौसम और खेती के कैलेंडर को आकार देती है (मलेशियाई मौसम विज्ञान विभाग)"
 appliesTo: "कोई भी जो यह समझने की कोशिश कर रहा है कि मलेशिया की आबादी, शहर और बाढ़ का ख़तरा वहीं क्यों एकत्रित हैं जहाँ हैं — छात्र, नवागंतुक, योजनाकार, या कोई भी जो इस बात से उलझन में है कि 'मानसून का मौसम' अलग-अलग तटों पर अलग-अलग चीज़ें क्यों मतलब रखता है।"
 lang: "hi"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: अधिकांश मलेशियाई लोग भीतरी इलाकों के बजाय तटों के पास क्यों रहते हैं?
     a: प्रत्येक भूभाग पर एक केंद्रीय पर्वत-श्रृंखला का प्रभुत्व है — प्रायद्वीप में तितिवांगसा श्रृंखला, सबा में क्रॉकर श्रृंखला — जिनके दोनों ओर केवल संकरे तटीय मैदान हैं। वे ऊँचे पहाड़ी इलाके बस्ती को बाहर की ओर तटीय मैदानों और नदी-घाटियों की ओर धकेल देते हैं, जिससे पहाड़ी भीतरी भाग विरल आबादी वाला रह जाता है। मलक्का जलडमरूमध्य द्वारा शांत किया गया प्रायद्वीप का सुरक्षित पश्चिमी तटीय मैदान, इसकी अधिकांश आबादी और कुआलालंपुर तथा जॉर्ज टाउन जैसे सबसे बड़े शहरों को समेटे हुए है।
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'एक उष्णकटिबंधीय तटीय मैदान का हवाई दृश्य, जहाँ एक घुमावदार नदी समुद्र में मिलती है, कस्बे और खेत के टुकड़े भीतर की ओर फैले हुए हैं और बिखरे बादलों के नीचे तट की कगार पर हल्के रंग की पुनर्ग्रहित भूमि है।'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: जंगल से ढकी एक सीधी धूसर चूना-पत्थर की कार्स्ट चट्टान एक शांत पन्ना-हरे झील से सीधे ऊपर उठती है, और उसका मुख गहरे पानी में प्रतिबिंबित होता है।
+    kind: actual
+    origin: third-party
+    subject: Tasik Cermin (Mirror Lake), इपोह, पेराक की चूना-पत्थर कार्स्ट चट्टान
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: नारियल के पेड़ों और लकड़ी के शैले से घिरी एक सफेद-रेत वाली खाड़ी एक छोटे उष्णकटिबंधीय द्वीप पर साफ फ़िरोज़ी पानी से मिलती है।
+    kind: actual
+    origin: third-party
+    subject: Pulau Perhentian Kecil, तेरेंगानु का उष्णकटिबंधीय समुद्र-तट
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 कोटा किनाबालू से कुआलालंपुर के लिए उड़िए और आप एक आंतरिक सीमा से कहीं अधिक पार करते हैं — आप खुले समुद्र के कई सौ किलोमीटर पार करते हैं। मलेशिया एक ऐसा देश है जो दो अलग भूभागों में जोड़ा गया है, और आकार का यह साधारण तथ्य चुपचाप लगभग बाकी सब कुछ तय कर चुका है: शहर कहाँ हैं, धान के खेत कहाँ हैं, और कौन-सा तट हर दिसंबर बाढ़ में डूबता है।

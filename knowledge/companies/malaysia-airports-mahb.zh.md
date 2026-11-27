@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e548c58dd3f2a31"
+sourceContentHash: "24e2f3f070e9be65"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,7 @@ sources:
     publisher: "The Star"
 
 entity: "Malaysia Airports Holdings Berhad (MAHB)"
+wikidata: "Q4202182"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["genting-group"]
@@ -78,6 +79,33 @@ keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airp
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
 framework: profile
+hero: '/media/companies/malaysia-airports-mahb/hero.webp'
+heroAlt: '壮观的傍晚天空下，吉隆坡国际机场（KLIA）白色圆柱形空管塔高耸而立，右侧一条航站楼车道弯曲而过'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_control_tower_2_2016_October.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KLIA Control Tower 2 at Kuala Lumpur International Airport, operated by Malaysia Airports (MAHB)'
+images:
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-1.webp
+    alt: KLIA Terminal 1 的室内走道，弧形木条拱顶天花板、蓝色登机门方向指示牌和一条自动步道，一名孤独的旅客走在光亮的地面上
+    kind: actual
+    origin: third-party
+    subject: KLIA Terminal 1 室内大厅，吉隆坡国际机场
+    credit: No Swan So Fine / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_1_of_Kuala_Lumpur_International_Airport,_January_2023.jpg
+  - role: scene
+    src: /media/companies/malaysia-airports-mahb/body-2.webp
+    alt: KLIA Terminal 1 大厅，可见这座森林机场的白色分叉钢制屋顶立柱映衬高大的玻璃幕墙，走道一侧有蓝色 Malaysia Airports 升级工程围板
+    kind: actual
+    origin: third-party
+    subject: 带有 Malaysia Airports (MAHB) 品牌标识的 KLIA Terminal 1 大厅
+    credit: Eugene Ormandy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
 ---
 
 几乎每一次旅客降落马来西亚，他们抵达的都是一家公司运营的机场。Malaysia Airports Holdings Berhad（MAHB）运营吉隆坡国际机场——如今品牌化为 KLIA 第一搭客大厦与第二搭客大厦——并按其自身的计算，运营全国39座机场，另有一座位于伊斯坦布尔的海外门户。2025年，它还成为了对一家国家机场运营商而言不寻常的东西：不再是一家公众公司。

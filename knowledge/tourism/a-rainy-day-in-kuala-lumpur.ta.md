@@ -33,7 +33,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "c14df7815cfcecfc"
+sourceContentHash: "47f64f46c9a684f5"
 masterLanguage: "en"
 
 status: "published"
@@ -79,6 +79,33 @@ relations:
 related: ["kuala-lumpur-visitor-guide"]
 keywords: ["மழை நாள் கோலாலம்பூர்", "KL இல் உட்புற செயல்கள்", "பொதுப் போக்குவரத்தில் KL", "KLCC Bukit Bintang நடைபாதை", "Suria KLCC ரயில்", "Aquaria KLCC எப்படிச் செல்வது", "Petrosains", "Muzium Negara MRT", "ரயிலில் KL மால்கள்"]
 framework: how-to
+hero: '/media/tourism/a-rainy-day-in-kuala-lumpur/hero.webp'
+heroAlt: 'Kuala Lumpur-ன் பழைய பகுதியில் Jalan Panggong-ல் உள்ள பழைய ஓட்டுக்கூரை அங்காடி வீட்டின் மீது விழும் வெப்பமண்டல கனமழை'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rain_in_Kuala_Lumpur,_25_March_2019.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Heavy rain over a heritage shophouse on Jalan Panggong, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-1.webp
+    alt: '''Central Market Since 1888'' என வாசிக்கும் கோலாலம்பூரின் Central Market (Pasar Seni)-இன் வெளிர்-நீல Art Deco முகப்பு'
+    kind: actual
+    origin: third-party
+    subject: Central Market (Pasar Seni) Art Deco முகப்பு, கோலாலம்பூர்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/tourism/a-rainy-day-in-kuala-lumpur/body-2.webp
+    alt: தொங்கும் மாநிலக் கொடிகளுக்குக் கீழே கைவினை மற்றும் பாட்டிக் கடைகள் நிரம்பிய, கோலாலம்பூரின் Central Market-இனுள் பரபரப்பான இரு-தள மூடிய அங்காடி
+    kind: actual
+    origin: third-party
+    subject: Central Market-இன் மூடிய கைவினை அங்காடியின் உட்புறம், கோலாலம்பூர்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Interior_of_Central_Market,_Kuala_Lumpur.jpg
 ---
 
 கோலாலம்பூரில் மழை வேகமாகவும் கனமாகவும் வருகிறது, திறந்தவெளித் திட்டம்

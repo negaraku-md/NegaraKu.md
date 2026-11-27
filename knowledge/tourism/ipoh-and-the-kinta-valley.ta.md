@@ -40,7 +40,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 
 status: "published"
 aiAssisted: true
@@ -114,6 +114,39 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'நடந்து செல்லக்கூடிய காலனித்துவ Old Town, சுண்ணாம்புக்கல் குகைக் கோயில்கள் மற்றும் Perak-இன் புகழ்பெற்ற kopitiam உணவுக் காட்சியை விரும்பும் பாரம்பரிய மற்றும் உணவுப் பயணிகள் மற்றும் குடும்பங்களுக்கு ஏற்றது.'
+  getThere: 'KL Sentral இலிருந்து Old Town நிலையத்திற்கு KTM ETS மின்சார ரயில் மூலம் Ipoh-ஐ அடையுங்கள், அல்லது North-South Expressway வழியாக ஓட்டுங்கள்; விரைவு பேருந்துகளும் நகரத்திற்குச் சேவை செய்கின்றன.'
+  permit: 'குகைக் கோயில்கள் செயலில் உள்ள வழிபாட்டுத் தலங்கள், எனவே அடக்கமாக உடை அணியுங்கள் (தோள்களையும் முழங்கால்களையும் மூடுங்கள்) மற்றும் உள்ளே அமைதியாக இருங்கள்.'
+  watch: 'தளர்வான சுற்றுலா எழுத்து இருந்தபோதிலும், Kinta Valley ஒரு தேசிய புவிப்பூங்கா, UNESCO உலகளாவிய புவிப்பூங்கா அல்ல.'
+  next: 'பயணிப்பதற்கு முன் தற்போதைய ரயில் கால அட்டவணைகளையும் கட்டணங்களையும் KTMB-உடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'மங்கலான நீல வானத்திற்குக் கீழே, பின்னால் கூரான சுண்ணாம்புக்கல் மலைகள் உயர, Ipoh-வின் பச்சை Padang-ம் பாரம்பரிய நகர மையமும் தெரியும் காட்சி'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: Ipoh-இல் Kek Lok Tong-இல் காடு மூடிய சுண்ணாம்புக்கல் பாறைகளுக்கு இடையே அமைந்த குளம் மற்றும் பூக்கும் புதர்களுடனான நிலவியல் தோட்டம்
+    kind: actual
+    origin: third-party
+    subject: Ipoh-இன் தெற்கே உயரமான சுண்ணாம்புக்கல் பாறைகளால் சூழப்பட்ட Kek Lok Tong குகைக் கோயிலின் ஏரிக்கரைத் தோட்டம்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: பிரகாசமான நீல வானத்திற்கு எதிராக Moorish வளைவுகளுடனான Kellie's Castle-இன் வானிலை தேய்ந்த செங்கல் தூண் வரிசை முகப்பு
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Kinta Valley-இல் Batu Gajah-வில் உள்ள முடிக்கப்படாத Moorish-பாணி காலனிய மாளிகை
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 ஈயம் ஈப்போவை உருவாக்கியது, பின்னர் அது கிட்டத்தட்ட அதை அழித்தது. கிந்தா ஆற்றில் ஒரு கிராமம் கிந்தா பள்ளத்தாக்கின் அடியில் புதைந்திருந்த தாதுவின் வலிமையில் பிரிட்டிஷ் மலாயாவின் மிகச் செழுமையான நகரங்களில் ஒன்றாக மாறி, தனக்கு ஒரு பிரம்மாண்டமான காலனித்துவ மையத்தைக் கட்டி, பின்னர் ஈய விலை சரிந்தபோது பணம் வடிந்து செல்வதைப் பார்த்தது. அது வைத்துக்கொண்டது கட்டிடக்கலை, குகைக் கோயில்களால் நிறைந்த சுண்ணாம்பு மலைகள், மேலும் ஒரு அசாதாரணமாக நல்ல சமையலறை. இன்று ஈப்போ மலேசியாவின் மிக வசதியான பாரம்பரிய-மற்றும்-உணவு நகர இடைவேளை — ஒரு நாள் பயணத்திற்குக் கோலாலம்பூருக்கு போதுமான அருகில், ஒரு வார இறுதிக்குப் பலனளிக்கும் அளவுக்கு செழுமையானது. இந்த வழிகாட்டி அதை வடிவமைத்த நிலப்பரப்பையும் வரலாற்றையும், நகரத்திலும் அதைச் சுற்றிலும் பார்க்க என்ன உள்ளது, உணவை சுருக்கமாக, மேலும் அங்கு செல்வதன் நடைமுறைகளை உள்ளடக்குகிறது.

@@ -34,7 +34,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["pasar malam ครั้งแรก", "วิธีเที่ยว pasar malam", "คู่มือ pasar malam มาเลเซีย", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam ฮาลาล", "ตลาดนัดกลางคืนมาเลเซีย วิธีสั่งอาหาร", "ที่นั่ง pasar malam", "ความปลอดภัยอาหาร pasar malam"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: 'พ่อค้าเสิร์ฟลูกค้าที่แผงตลาดกลางคืน (pasar malam) ที่ส่องไฟสว่าง ตู้กระจกเต็มไปด้วยของทอดและเต้าหู้พร้อมป้ายราคาเขียนมือ'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: ไม้เสียบไม้ไผ่ของของทอดย่างเคลือบน้ำซอสกำลังเดือดและพ่นควันบนกระทะร้อนสีดำที่แผงตลาดกลางคืน
+    kind: actual
+    origin: third-party
+    subject: ไม้เสียบของย่างสไตล์สะเต๊ะพ่นควันบนกระทะร้อนที่ตลาดกลางคืน
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 ครั้งแรกที่ pasar malam อาจทำให้งงได้ คือ สายธารของผู้คนที่แน่นและเคลื่อนช้า ๆ

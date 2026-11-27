@@ -32,7 +32,7 @@ faq:
     a: "هي وثيقة سياساتية أقرّها البرلمان في 15 يونيو 2023، تحدّد إصلاحاً تدريجياً للنظام الصحي الماليزي مدته 15 عاماً."
 
 lang: "ar"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,35 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysia-healthcare-system" }
   - { rel: "related-to", to: "health-white-paper-2023" }
-related: []
+related: ["mysejahtera-and-digital-health-records", "health-white-paper-and-system-reform", "prevention-and-control-of-infectious-diseases-act"]
 keywords: ["COVID-19 ماليزيا", "أمر مراقبة الحركة", "MCO", "PICK", "التطعيم", "MySejahtera", "الورقة البيضاء للصحة", "الجائحة"]
 framework: history-culture
+hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'
+heroAlt: 'قاعة مركز تطعيم كبير ضدّ كوفيد-19 في ماليزيا مع صفوف من المقاعد المتباعدة وأشخاص يصطفّون.'
+heroCredit: 'WPSamson / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: عشر كاسيتات اختبار سريع لمستضدّ COVID-19 مرقّمة ومصفوفة في خطّ على طاولة، يُظهر كلّ منها خطّ تحكُّم
+    kind: representative
+    origin: third-party
+    subject: صفّ من عشر كاسيتات اختبار سريع لمستضدّ COVID-19 تُظهر خطوط التحكُّم والاختبار
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: معدّات مختبرية وتشخيصية معبّأة في صناديق جرى توريدها إلى ماليزيا لدعم فحوص COVID-19 والاستجابة للجائحة
+    kind: actual
+    origin: third-party
+    subject: معدّات الكشف عن COVID-19 التي سُلِّمت إلى ماليزيا خلال الاستجابة للجائحة
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 في 18 مارس 2020، خيّم الصمت على الطرقات في أنحاء ماليزيا حين دخلت البلاد مرحلةً لا تشبه أي شيء في تاريخها الحديث: تقييد شامل للحركة لكبح انتشار COVID-19. وعلى مدى نحو عامين تاليين، تطوّرت استجابة الصحة العامة في البلاد من إغلاق وطني شامل إلى واحد من أسرع برامج التطعيم في المنطقة — وتركت أثراً لا يزال يشكّل النظام الصحي حتى اليوم.

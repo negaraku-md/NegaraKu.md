@@ -31,7 +31,7 @@ faq:
     a: "MFL 调整赛历以与 AFC 赛制对齐。新赛季于 2024 年 5 月开始，2025 年 4 月结束，兼顾了 AFC 亚洲杯、2026 年世界杯预选赛和斋戒月。"
 
 lang: "zh"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: '身穿黄色的霹雳州足球球迷在 2017 年马来西亚杯一场比赛中挤满体育场看台。'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: 2012年马来西亚杯半决赛吉兰丹（Kelantan）对雪兰莪（Selangor），球员争抢皮球。
+    kind: actual
+    origin: third-party
+    subject: 2012年马来西亚杯吉兰丹对雪兰莪的半决赛
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: 柔佛（Johor）依斯干达公主城（Iskandar Puteri）苏丹依布拉欣体育场（Stadium Sultan Ibrahim）内的看台层级与球场一景。
+    kind: actual
+    origin: third-party
+    subject: 苏丹依布拉欣体育场内景，马来西亚一家顶级联赛球会的主场
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 近一个世纪以来，一个单一机构——马来西亚足球总会（FAM）——主办着全国每一场联赛。后来，在一项重塑这项运动的举措中，运营联赛的权力被移交给了一家商业公司。这正是今日马来西亚国内足球运作方式的基础。

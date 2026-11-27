@@ -75,6 +75,33 @@ relations:
 related: ["population-composition", "religion-statistics", "languages-spoken", "batik"]
 keywords: ["农历新年", "华人新年", "春节", "团圆饭", "红包", "压岁钱", "舞狮", "捞生", "鱼生", "十五暝", "Chap Goh Meh", "开放门户", "马来西亚华人", "公共假期", "Chinese New Year Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-new-year/hero.webp'
+heroAlt: '农历新年期间，数百盏红金灯笼呈辐射状悬挂于吉隆坡乐圣岭天后宫华丽屋檐下，映衬着澄澈蓝天'
+heroCredit: 'Dimas H (WMID) / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple_during_Chinese_New_Year.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Thean Hou Temple, Kuala Lumpur, under a canopy of red Chinese New Year lanterns'
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-1.webp
+    alt: 槟城极乐寺在农历新年亮灯期间，夜里点亮成千上万盏彩灯和红灯笼，流光溢彩
+    kind: actual
+    origin: third-party
+    subject: 槟城极乐寺为农历新年亮灯
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Illuminations_50.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-year/body-2.webp
+    alt: 一头白银两色的舞狮在高桩上表演，背景是吉隆坡唐人街的店屋，正值农历新年
+    kind: actual
+    origin: third-party
+    subject: 农历新年期间吉隆坡唐人街的高桩舞狮表演
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
 ---
 
 除夕那一天，许多店铺提早打烊，高速公路挤满了往家乡方向的车。到了晚上，一家人围坐一桌——桌上有鱼（年年有余）、有一整只鸡、有寓意团圆的丸子，还有一道要用筷子高高捞起的凉拌鱼生。这顿除夕团圆饭，被不少马来西亚华人家庭看得比正月初一本身还重。

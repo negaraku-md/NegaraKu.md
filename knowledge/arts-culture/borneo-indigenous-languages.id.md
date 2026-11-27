@@ -34,7 +34,7 @@ faq:
     a: "Ya, sebagiannya, di bawah program Bahasa Ibunda Murid (Pupil's Own Language, POL) Kementerian Pendidikan, biasanya sebagai mata pelajaran pilihan. Kadazandusun telah diajarkan di sekolah pemerintah Sabah sejak proyek percontohan yang dimulai pada 1997, dan Iban diajarkan di sekolah-sekolah Sarawak. Ketersediaannya bergantung pada permintaan dan pemenuhan ukuran kelas minimum yang ditetapkan oleh kebijakan."
 
 lang: "id"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,32 @@ relations:
 related: ["languages-spoken", "sabah", "sarawak", "gawai-dayak", "kaamatan", "orang-asli"]
 keywords: ["indigenous languages Sabah Sarawak", "Borneo languages", "Kadazandusun language", "Dusunic", "Murutic", "Paitanic", "Iban language", "Bidayuh", "Melanau", "Orang Ulu", "Austronesian", "North Bornean languages", "Sama-Bajau"]
 framework: explainer
+hero: '/media/arts-culture/borneo-indigenous-languages/hero.webp'
+heroAlt: 'Sebuah rumah panjang Iban dari kayu, berdiri di atas tiang kayu di sepanjang lereng bukit berhutan di atas sebuah sungai di Sarawak, tempat tinggal bersama sebuah komunitas Dayak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: Kaum muda berbusana Kadazan hitam-emas dan bertopi kerucut, memegang alat musik bambu, pada sebuah acara budaya terbuka di Sabah
+    kind: actual
+    origin: third-party
+    subject: Masyarakat Kadazan Tangara berbusana tradisional pada perayaan panen Kaamatan di Papar, Sabah
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: Seorang pria dan wanita berbusana adat Orang Ulu dan penutup kepala manik berdiri di depan dinding yang dilukis dengan motif Borneo yang berpusar
+    kind: actual
+    origin: third-party
+    subject: Sepasang Orang Ulu berbusana tradisional di depan mural rumah panjang yang dilukis, Sarawak
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 Terbanglah melintasi pedalaman Borneo dan Anda akan melewati lebih banyak bahasa dalam satu jam dibandingkan kebanyakan negara secara keseluruhan. Sebuah lembah sungai di dataran tinggi Sabah, sebuah rumah panjang di hulu Baram, Sarawak, sebuah perkampungan nelayan di pesisir pantai — masing-masing mungkin menyambut Anda dengan satu bahasa yang nyaris tidak dipahami oleh lembah di sebelahnya.

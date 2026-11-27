@@ -78,6 +78,7 @@ keywords: ["Hong Leong Financial Group", "HLFG", "Hong Leong Bank", "HLB", "Quek
 social:
   hashtags: ["HongLeong", "HLFG", "HongLeongBank", "MalaysiaBanking", "QuekLengChan"]
 framework: profile
+wikidata: "Q139387760"
 ---
 
 Malaysians know the Hong Leong name from a bank branch, a motorcycle, or a share price — but the banking business sits inside a two-tier listed structure that often confuses readers. At the top is Hong Leong Financial Group Berhad (HLFG), the financial holding company; beneath it is Hong Leong Bank Berhad (HLB), the commercial bank that most customers actually deal with.

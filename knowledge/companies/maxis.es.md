@@ -33,7 +33,7 @@ faq:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "Participación actual del grupo matriz (intereses vinculados a Usaha Tegas y Saudi Telecom Company) — confirmar frente a las divulgaciones más recientes a Bursa Malaysia."
   - "Situación de la segunda red 5G de Malasia y el papel de Maxis en ella (U Mobile fue seleccionada en noviembre de 2024) — verificar la política y los acuerdos actuales de 5G con la MCMC."
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: 'La corona curva e iluminada de la Menara Maxis por la noche, con sus terrazas escalonadas resplandeciendo en blanco contra un cielo negro, con el letrero del logotipo maxis azul y verde y un reloj digital rojo que marca las 7:57 montado cerca de la cima'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: La torre Menara Maxis de piedra tostada y cristal verde que se curva hacia una corona arqueada contra un cielo nublado, con el logotipo de maxis y un reloj digital visibles en lo alto de su fachada, y el logotipo de Suria KLCC en el podio inferior
+    kind: actual
+    origin: third-party
+    subject: Vista diurna de Menara Maxis elevándose sobre el centro comercial Suria KLCC, Kuala Lumpur, con el logotipo de maxis y el reloj cerca de su corona
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: Una pronunciada vista nocturna en contrapicado de la fachada iluminada y estilizada de Menara Maxis, con una alta pancarta publicitaria iluminada que lleva el logotipo de maxis colgada a lo largo de sus pisos inferiores contra un cielo negro
+    kind: actual
+    origin: third-party
+    subject: Menara Maxis de noche vista desde la base, con una gran pancarta publicitaria de la marca maxis en su fachada inferior, KLCC, Kuala Lumpur
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 Casi todos los malasios con teléfono han sido, en algún momento, clientes de Maxis o de Hotlink. Detrás de esas dos marcas familiares hay una sola empresa — Maxis Berhad — que figura entre los mayores operadores de telecomunicaciones del país y que ha pasado de ser una operadora exclusivamente móvil a un proveedor convergente de móvil, banda ancha para el hogar y conectividad empresarial.

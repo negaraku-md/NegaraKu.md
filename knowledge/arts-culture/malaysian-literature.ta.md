@@ -31,7 +31,7 @@ faq:
     a: "பெறுநர்கள் Warkah Penghormatan Negara (தேசிய கௌரவப் பத்திரம்), ரொக்கப் பணம் RM60,000, RM500,000 வரை மதிப்புள்ள வெளியீட்டு ஒதுக்கீடு (50,000 பிரதிகள் வரை), அரசாங்க மருத்துவமனையில் முதல்-தர வார்டில் இலவச மருத்துவ சிகிச்சை, அத்துடன் மாதம் RM5,000 கொடுப்பனவைப் பெறுகின்றனர்."
 
 lang: "ta"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["dewan-bahasa-dan-pustaka", "bahasa-melayu"]
 keywords: ["sastera Malaysia", "Sasterawan Negara", "Anugerah Sastera Negara", "sastera kebangsaan", "Dewan Bahasa dan Pustaka", "Sejarah Melayu", "hikayat", "syair"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-literature/hero.webp'
+heroAlt: 'கோலாலம்பூரில் உள்ள Dewan Bahasa dan Pustaka கட்டிடம், அதன் வளைந்த முகப்பு மலேசிய வாழ்க்கையைச் சித்தரிக்கும் ஒரு பெரிய சுவரோவியத்தால் மூடப்பட்டுள்ளது, அதன் பக்கத்தில் உள்ள சிவப்பு அலுவலகக் கோபுரத்தில் அதன் பெயர் ஓரளவு தெரிகிறது.'
+heroCredit: 'Victor Pogadaev / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: மலேசியாவின் சர்வதேச புத்தகக் கண்காட்சியில் புத்தகங்கள் குவிந்த வெளியீட்டாளர் அரங்குகளின் வரிசைகளைப் பார்க்கும் வாசகர் கூட்டம்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் சர்வதேச புத்தகக் கண்காட்சி (பெஸ்தா புக்கு அந்தராபங்சா கோலாலம்பூர்) 2023-இல் அரங்குகளைப் பார்க்கும் பார்வையாளர்கள்
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: கோலாலம்பூரில் தனித்துவமான நீல சொங்கெட் வடிவக் கூரையால் முடிசூட்டப்பட்ட மலேசிய தேசிய நூலக கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: சொங்கெட் கலையால் உந்தப்பட்ட கூடாரக் கூரையுடன் கோலாலம்பூரில் உள்ள மலேசிய தேசிய நூலகம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 நாவல்கள் தோன்றுவதற்கு முன்பும், மொழி மன்றம் அமைவதற்கு முன்பும், ஒரு கதைசொல்லி (penglipur lara) ஏற்கனவே மலாக்கா அரண்மனையின் முற்றத்தில் மலாய் வீரர்களைப் பற்றிப் புனைந்து வந்தார். அந்த வாய்மொழி மரபிலிருந்துதான் இப்பகுதியின் மிகச் செழுமையான இலக்கிய மரபுகளில் ஒன்று வளர்ந்தது — இன்று தேசியப் பட்டம், நூறாயிரக்கணக்கான ரிங்கிட் பணம், மற்றும் தேசத்தின் நாகரிகத்தில் ஒரு கௌரவ இடம் ஆகியவற்றுடன் கொண்டாடப்படும் ஒரு மரபு.

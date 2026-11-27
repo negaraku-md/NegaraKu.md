@@ -72,6 +72,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "कोनफ्रोंतासी", "इंडोनेशिया मलेशिया टकराव", "Ganyang Malaysia", "जकार्ता समझौता 1966", "मलेशिया का गठन 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: 'एक सुव्यवस्थित शहरी हरित स्थान में स्थित एक पत्थर का स्मारक, जो इंडोनेशिया-मलेशिया टकराव (Konfrontasi) में मारे गए लोगों की स्मृति में बनाया गया है।'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया 16 सितंबर 1963 को एक ऐसे क्षेत्र में जन्मा जिसने उसका शांतिपूर्वक स्वागत नहीं किया। एक कहीं बड़े पड़ोसी देश ने पहले ही अपना विरोध घोषित कर दिया था, और कुछ ही महीनों में नई बोर्नियो सीमा एक सशस्त्र संघर्ष की अग्रिम पंक्ति बन गई जिसे कभी औपचारिक रूप से युद्ध घोषित नहीं किया गया — पर जो लगभग चार वर्ष तक चला। वह संघर्ष कोनफ्रोंतासी के नाम से जाना जाता है।

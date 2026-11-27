@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "适合正在规划博物馆行程的游客、想了解马来西亚主要馆藏背后机构历史的学生与研究人员，以及任何曾经以为国家博物馆是全国最古老博物馆的人。"
 
 lang: "zh"
-sourceContentHash: "8802106dd859b55e"
+sourceContentHash: "87634876668f4ad0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,34 @@ relations:
 related: ["unesco-world-heritage", "peranakan", "orang-asli"]
 keywords: ["Muzium Negara", "Islamic Arts Museum Malaysia", "IAMM", "Perak Museum Taiping", "Sarawak Museum", "Sabah Museum", "Malaysia state museums"]
 framework: history-culture
+hero: '/media/arts-culture/malaysian-museums/hero.webp'
+heroAlt: '隔着一条马路望去的马来西亚国家博物馆，一座浅色大楼顶着深红色的米南加保式陡峭山墙屋顶，长长的立面饰有彩色壁画嵌板并插满马来西亚国旗'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its distinctive Minangkabau-style twin-gable roof and long decorative mural panels along the facade'
+
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-1.webp
+    alt: 一座圆顶覆以青绿色琉璃瓦，瓦面布满白、绿、金三色的花卉阿拉伯式纹样，顶端立着小小的金色尖饰，耸立在淡蓝天空下
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡马来西亚伊斯兰艺术博物馆（Islamic Arts Museum Malaysia）青绿色琉璃瓦圆顶，饰以精致的花卉阿拉伯式纹样
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-museums/body-2.webp
+    alt: 一栋两层楼的殖民时期历史博物馆建筑，墙身漆成米色，配灰色石砌转角和窗套，陡峭的山墙屋顶和装饰尖饰，两侧高耸着棕榈树，衬着明亮的蓝天
+    kind: actual
+    origin: third-party
+    subject: 砂拉越古晋历史悠久的殖民时期砂拉越博物馆（Sarawak Museum）建筑，一栋米色两层楼结构，配灰石转角和山墙屋顶
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_Museum,_Kuching.jpg
 ---
 
 问大多数游客马来西亚哪座博物馆最古老，他们大概会猜是国家博物馆（Muzium Negara）——那座宫殿式屋顶、坐镇吉隆坡博物馆一带的建筑。他们的猜测会差了八十年。这个称号其实属于太平一座朴实的展馆，它落成之时，国家博物馆的现址仍由其前身所占据。

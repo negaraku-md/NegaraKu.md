@@ -82,7 +82,15 @@ drinkFacts:
   origin: "Varian jahe Malaysia dari teh tarik — 'halia' adalah bahasa Melayu untuk jahe — ditarik dengan cara yang sama ketika dibuat sebagai teh tarik halia. Bagian dari keluarga teh tarik di konter kopitiam dan mamak, bukan tradisi yang terpisah."
   halal: "Teh, jahe, dan susu, tanpa alkohol, sehingga minumannya sendiri halal. Jaminan halal melekat pada tempat usahanya, jadi penyantap yang membutuhkan sertifikasi sebaiknya memeriksa tiap gerai kopitiam atau mamak."
   served: "Disajikan panas demi kehangatannya yang menenangkan, dan juga dingin. Manis karena susu kental manis; minta kurang manis bila lebih suka. Kerap ditarik (tarik) seperti teh tarik; cangkir penenang yang populer dan minuman sahur yang umum selama Ramadan."
-  where: "Ditemukan di gerai kopitiam dan mamak di seluruh negeri, dituang dari konter yang sama dengan teh tarik dan kopi; juga dijual sebagai sachet teh susu jahe instan."
+  where: "Ditemukan di gerai kopitiam dan mamak di seluruh negeri, dituang dari konter yang sama dengan teh tarik dan kopi; juga dijual sebagai sachet teh susu jahe instan."
+hero: "/media/food/teh-halia/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "Gelas-gelas kaca teh jahe susu cokelat (teh halia) di atas meja kayu"
+heroCredit: "Schahryar / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_Halia_(Singapore).jpg"
+wikidata: "Q1061187"
 ---
 
 Ambil minuman paling terkenal di negeri ini, tambahkan sentakan jahe yang hangat, dan Anda

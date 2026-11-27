@@ -36,7 +36,7 @@ faq:
     a: "لا. في 7 مارس 2026، أكملت كل من CelcomDigi وMaxis شراء أسهم وزارة المالية في DNB بمبلغ RM327,872,640.28، مؤشّرةً على خروج الحكومة من أعمال الجملة لـ5G ومحوّلةً DNB إلى كيان خاص بالكامل تملكه شركات الاتصالات وYTL."
 
 lang: "ar"
-sourceContentHash: "953b610723ae239f"
+sourceContentHash: "9200f771ae070847"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["malaysias-telcos-and-5g", "internet-and-fibre"]
 keywords: ["JENDELA", "Digital Nasional Berhad", "DNB", "5G Malaysia", "dual 5G network", "second 5G network", "U Mobile", "MCMC", "national broadband plan", "spectrum allocation", "700MHz", "3.5GHz", "شبكة 5G في ماليزيا", "خطة النطاق العريض الوطنية", "نموذج الشبكتين"]
 framework: explainer
+hero: '/media/technology/5g-jendela-dnb-malaysia/hero.webp'
+heroAlt: 'برجا اتصالات شبكيان في بوكيت نيابو في بينتولو، ماليزيا، بشكل ظلّي أمام سماء غروب برتقالية وزرقاء'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Telecommunications_towers_of_Bukit_Nyabau,_Bintulu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Telecommunications towers at Bukit Nyabau, Bintulu, Sarawak, Malaysia, silhouetted at sunset'
+
+images:
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-1.webp
+    alt: برج هاتف محمول أحادي القائم رمادي عالٍ متوّج بهوائيات شبكة الهاتف المحمول ومعدات 5G، واقفاً أمام سماء زرقاء صافية فوق أسطح ضواحٍ
+    kind: representative
+    origin: third-party
+    subject: برج هاتف محمول أحادي القائم يحمل هوائيات 5G أمام سماء زرقاء صافية
+    credit: Kgbo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mobile_phone_tower_with_5G_equipment_in_Corinda,_Queensland,_Australia.jpg
+  - role: scene
+    src: /media/technology/5g-jendela-dnb-malaysia/body-2.webp
+    alt: سارية اتصالات على سطح مبنى مزوّدة بهوائيات لوحية بيضاء وأطباق ميكروويف وخزائن محطة قاعدة، ترتفع فوق مدينة منخفضة الارتفاع تحت سماء زرقاء
+    kind: representative
+    origin: third-party
+    subject: برج خلوي 5G على سطح مبنى بهوائيات لوحية وأطباق ميكروويف فوق مدينة
+    credit: Marcin Floryan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:5G_Cell_Tower_on_a_residential_block_in_Is-Swieqi,_Malta.jpg
 ---
 
 اسأل ماليزيَّيْن عن كيفية إدارة شبكات الاتصال المتنقلة في البلاد، وستحصل غالباً على جوابين مختلفين نصف صحيحين — لأن ثمة في الواقع قصتين منفصلتين متشابكتين. إحداهما خطة لتغطية النطاق العريض باسم رآه معظم الناس على لافتة حكومية. والأخرى صراع سريع التغير حول من يملك «أنبوب» 5G. وفهم الاتصال الماليزي الحديث يعني الفصل الواضح بين هاتين القصتين.

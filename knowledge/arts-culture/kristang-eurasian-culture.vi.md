@@ -32,7 +32,7 @@ faq:
     a: "Intrudu là lễ hội té nước thường niên của cộng đồng Bồ Đào Nha Malacca vào Chủ nhật trước Thứ Tư Lễ Tro (khởi đầu mùa Chay). Cư dân và khách té nước vào nhau dọc theo Làng Bồ Đào Nha, và lễ hội được đệm bằng điệu múa branyo."
 
 lang: "vi"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,34 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: 'Một hàng diễn viên Kristang trong trang phục Bồ Đào Nha-Á Âu truyền thống, phụ nữ đội khăn đỏ, mặc áo trắng và váy thêu, đàn ông đội mũ đen và mặc áo ghi-lê, đang hát và múa trên sân khấu dưới biểu ngữ Festa San Pedro 2026 tại Khu định cư Bồ Đào Nha ở Melaka'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: Cổng vòm lối vào kiểu thuộc địa màu trắng của Medan Portugis hay Quảng trường Bồ Đào Nha tại Khu định cư Bồ Đào Nha ở Melaka, hai bên là những nhà hàng Kristang màu hồng có biển hiệu, dưới bầu trời xanh trong với một tòa nhà cao tầng hiện đại ở hậu cảnh
+    kind: actual
+    origin: third-party
+    subject: lối vào Medan Portugis (Quảng trường Bồ Đào Nha) tại Khu định cư Bồ Đào Nha ở Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: Một chiếc thuyền đánh cá mô hình trang trí cho Lễ Thánh Phêrô tại Khu định cư Bồ Đào Nha ở Melaka, những cánh buồm trắng cao vẽ các cảnh tôn giáo và hình Thánh Phêrô, phủ lưới đánh cá bên cạnh bờ nước, với những cây cọ và người xem phía sau
+    kind: actual
+    origin: third-party
+    subject: một chiếc thuyền đánh cá trang trí làm cho Lễ Thánh Phêrô (San Pedro) tại Khu định cư Bồ Đào Nha, Melaka
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 Ở Ujong Pasir, Malacca, có một ngôi làng ven biển nơi người ta chào hỏi nhau bằng một thứ tiếng không phải Mã Lai, không phải tiếng Anh, và cũng không phải tiếng Bồ Đào Nha hiện đại — mà là tàn dư còn sống của thứ tiếng của những kẻ chinh phục đến đây năm thế kỷ trước. Đây là thế giới của cộng đồng Kristang.

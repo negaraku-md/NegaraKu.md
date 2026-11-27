@@ -35,7 +35,7 @@ faq:
     a: "2007년 설립된 말레이시아 도로안전연구원(MIROS)이 증거 기반 연구를 수행하며, JPJ 도로안전부(이전 JKJR)가 옹호와 인식 제고를 이끕니다. 둘 다 교통부 산하에 있습니다."
 
 lang: "ko"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: '말레이시아 남북 고속도로의 중앙분리된 도로를 달리는 차량들로, 맑은 하늘 아래 차선 표시와 충돌 방지 가드레일, 도로변 광고판이 있다.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: 조호르주 클루앙 인근에서 왕복 2차선 잘란 클루앙-코타팅기(연방도로 91호선)를 북쪽으로 바라본 모습
+    kind: actual
+    origin: third-party
+    subject: 조호르주 클루앙의 왕복 2차선 연방도로(91호선)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: 슬랑오르주 코타다만사라의 교차로에 야간에 표시된 횡단보도
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 코타다만사라 교차로의 횡단보도
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 매일 약 18명의 생명이 말레이시아 도로에서 사라집니다. 그 수치는 도로를 이 나라에서 가장 두드러진 비자연적 사망 원인 중 하나로 만들며, 이를 다루기 위해 법률, 카메라 및 전담 기관이 동원되는 주요 이유입니다.

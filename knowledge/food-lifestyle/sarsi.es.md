@@ -42,7 +42,7 @@ sources:
     publisher: "Fraser & Neave"
 
 lang: "es"
-sourceContentHash: "35deea875f1e2969"
+sourceContentHash: "cd4196a4fc110ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,24 @@ drinkFacts:
   halal: "Como refresco comercial de un gran fabricante, Sarsi cuenta con certificación halal; la comprobación más segura es la marca halal impresa en la botella o lata. Búscala en el envase."
   served: "Se sirve frío de la botella o la lata. Una querida variación local es el «Sarsi susu» —Sarsi con leche evaporada, condensada o fresca para hacer un float cremoso. Dulce y gaseoso; un capricho refresquero, no una bebida preparada de kopitiam."
   where: "Se encuentra en colmados, supermercados, kopitiam y reuniones familiares por todo el país —un elemento nostálgico del estante refrigerado."
+hero: '/media/food/sarsi/hero.webp'
+heroAlt: 'Una alta jarra de vidrio con hoyuelos llena de refresco oscuro y gaseoso de zarzaparrilla (sarsi) con espuma en la parte superior, a la luz del sol'
+heroCredit: 'Markmark28 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Root_beer_in_glass_mug.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Sarsaparilla soda (sarsi)'
+images:
+  - role: scene
+    src: /media/food/sarsi/body-1.webp
+    alt: Un vaso lleno de un refresco gaseoso de zarzaparrilla (sarsae) de color marrón rojizo oscuro
+    kind: actual
+    origin: third-party
+    subject: vaso de refresco de zarzaparrilla Asia Sarsae
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Glass_of_Asia_Sarsae.jpg
 ---
 
 No toda bebida de la mesa malasia es preparada, estirada o prensada. Algunas vienen de

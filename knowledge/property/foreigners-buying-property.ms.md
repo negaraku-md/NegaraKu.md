@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,32 @@ stayFacts:
   cost: 'Dua pintu bertindan serta cukai: paras harga minimum yang ditetapkan dan disemak semula sendiri oleh setiap negeri (dipecahkan mengikut zon, daerah, atau bertanah berbanding strata), manakala Wilayah Persekutuan menggunakan paras garis panduan EPU yang berasingan; di atasnya terletak duti setem rata ke atas pindah milik kediaman bagi bukan warganegara, dan RPGT pada kadar yang lebih tinggi dan lebih rata semasa jualan kemudian. Angka-angka ini berubah dan berbeza mengikut negeri, jadi sahkan angka semasa dengan pejabat tanah negeri berkenaan (Pejabat Tanah) atau Guideline on the Acquisition of Properties Unit Perancang Ekonomi (EPU).'
   watch: 'Tiada satu paras minimum RM1 juta tunggal yang terpakai di seluruh negara — angka itu khusus untuk Wilayah Persekutuan di bawah garis panduan persekutuan 2014, dan melepasi paras harga mana-mana negeri bukanlah sama dengan mendapatkan kebenaran Pihak Berkuasa Negeri yang berasingan dan mengikut budi bicara, yang diperlukan di bawah seksyen 433B sebelum hak milik boleh didaftarkan atas nama warga asing.'
   next: 'Mohon secara bertulis (melalui peguam pindah milik) kepada Pihak Berkuasa Negeri untuk kebenaran sebaik sahaja paras harga dilepasi dan hartanah itu tidak dikecualikan, sambil memasukkan tempoh pemprosesan yang tidak menentu itu ke dalam garis masa pembelian. Perhatikan bahawa pembelian di bawah visa tinggal lama MM2H masih melalui proses yang sama ini, dan lihat cukai taksiran dan cukai tanah untuk kewajipan berterusan sebaik sahaja hak milik berpindah.'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'Menara pangsapuri kediaman tinggi bersalut kaca moden (Ascott, 348 Sentral) di Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Deretan kondominium mewah bertingkat tinggi memenuhi kaki langit Mont Kiara di Kuala Lumpur, sebuah kawasan yang digemari ekspatriat tempat pembeli asing perlu memenuhi had harga minimum negeri.
+    kind: actual
+    origin: third-party
+    subject: Kaki langit kondominium bertingkat tinggi di Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Menara mewah tepi air Forest City menjulang di atas tanah tambak di Johor, sebuah projek mega yang dipasarkan hebat kepada pembeli asing berhampiran sempadan Singapura.
+    kind: actual
+    origin: third-party
+    subject: Pembangunan mewah tepi air Forest City yang sedang dibina, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 Seorang pembeli dari Hong Kong bersetuju membayar RM1.8 juta untuk sebuah rumah berkembar di Petaling Jaya. Pembiayaan telah diatur, penjual bersetuju, dan harga itu melepasi setiap ambang yang disebut di internet. Namun urus niaga itu masih tidak boleh selesai sehingga sebuah pejabat kerajaan negeri di Shah Alam membuat keputusan — atas budi bicaranya sendiri — sama ada mahu membenarkan seorang warga asing memegang hak milik itu langsung.

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ faq:
   - q: 투아 펙 콩은 누구이며, 가장 오래된 투아 펙 콩 사당은 어디에 있나요?
     a: 투아 펙 콩(Tua Pek Kong, 大伯公)은 토착적 색채가 강한 신으로, 말레이시아 전역의 화인 사당에서 널리 숭배됩니다. 가장 오래된 투아 펙 콩 사당은 페낭의 탄중 토콩(Tanjung Tokong)에 있다고 전해지며, 그 신앙은 이후 말레이시아, 싱가포르, 인도네시아 각지로 퍼졌습니다. 말레이어로는 이러한 사당을 tokong이라고 부릅니다. 그 밖의 유명한 사당으로는 말라카의 청운정(Cheng Hoon Teng)과 쿠알라룸푸르의 천후궁(Thean Hou)이 있습니다.
 framework: history-culture
+hero: '/media/arts-culture/chinese-religion-in-malaysia/hero.webp'
+heroAlt: '쿠알라룸푸르의 중국계 톈허우궁(天后宮, Thean Hou Temple)의 치켜올라간, 용으로 장식된 기와지붕이 푸른 하늘을 배경으로 줄지어 매달린 붉은 등롱에 둘러싸여 있다.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: 조호르바루 고묘(古廟)의 화려한 정면으로, 입구에 용 모양 지붕 조각과 도자기 부조, 붉은 등불이 있다
+    kind: actual
+    origin: third-party
+    subject: 조호르바루 고묘, 중국 민간신앙 사원
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: 페낭 조지타운 관음정 앞에서 다발로 피운 향이 연기를 피워 올린다. 오랜 역사를 지닌 중국인 예배처이다
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 관음정(광복궁)에서 피우는 향
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 말레이시아의 어느 화인 사당에 들어가든, 같은 공간 안에서 불·도교·민간 신명이 함께

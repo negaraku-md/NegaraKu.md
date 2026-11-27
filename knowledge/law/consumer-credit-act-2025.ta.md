@@ -101,9 +101,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 ஒரு ஜோடி காலணிக்கு மூன்று மாத தவணையில் பணம் செலுத்துங்கள், அல்லது 10% டெபாசிட்டுடன் புதிய காரை வீட்டுக்குக் கொண்டு வாருங்கள் — இவை மலேசியர்களுக்குப் பொதுவான இரண்டு கடன் பரிவர்த்தனைகள், ஆனால் சமீப காலம் வரை முற்றிலும் வேறுபட்ட சட்ட உலகங்களால் ஆளப்பட்டு வந்தன. இப்போது, இரண்டுமே கிட்டத்தட்ட ஒரே நேரத்தில் புதிதாக ஒழுங்குபடுத்தப்பட்டு வருகின்றன.

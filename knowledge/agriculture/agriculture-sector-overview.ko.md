@@ -35,7 +35,7 @@ faq:
     a: "둘이 서로 다른 사업으로 운영되기 때문입니다. 팜유는 적합한 토지에서 수익성 있는 대규모 수출 상품인 반면, 벼는 보조금과 관개에 의존하는 저마진 식량 작물입니다. 토지, 자본, 노동은 더 수익성 높은 상품 작물로 흘러가는 경향이 있습니다."
 
 lang: "ko"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,32 @@ relations:
 related: ["palm-oil-sector", "rubber", "gdp-overview"]
 keywords: ["sektor pertanian Malaysia", "agromakanan Malaysia", "Dasar Agromakanan Negara", "kadar sara diri makanan", "KPKM", "KPK", "minyak sawit padi getah", "keterjaminan makanan Malaysia"]
 framework: profile
+hero: '/media/agriculture/agriculture-sector-overview/hero.webp'
+heroAlt: '말레이시아 스킨찬의 푸릇푸릇한 논과 지평선까지 이어지는 관개 수로.'
+heroCredit: 'Hashvina / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: 파항주 카메론하이랜드 베르탐 계곡 산비탈에 조성된 계단식 채소밭과 비닐 터널
+    kind: actual
+    origin: third-party
+    subject: 파항주 카메론하이랜드 베르탐강 계곡의 고지대 채소 농장
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: 카메론하이랜드 캄풍 라자의 고지대 마을 위쪽, 햇빛을 받은 계단식 잎채소 밭
+    kind: actual
+    origin: third-party
+    subject: 파항주 카메론하이랜드 캄풍 라자의 노지 채소 농장
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 2024년 말레이시아는 1억 톤이 넘는 팜 생과방 — 말레이시아 통계청(DOSM)에 따르면 약 1억 20만 톤 — 을 생산했으며, 이는 세계 2대 팜유 생산국의 지위를 유지하기에 충분한 양이었습니다. 같은 해에 이 나라는 국민이 먹는 쌀의 거의 절반을 수입했습니다.

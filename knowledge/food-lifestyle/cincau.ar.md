@@ -85,6 +85,14 @@ drinkFacts:
   halal: "cincau نباتيّ وخالٍ من الكحول — أعشاب مغليّة وماء وسكر — فالهلام نفسه حلال. ويتعلّق ضمان الحلال بالمحل وبكل ما يُمزَج معه (مثل الحليب في soya cincau الثنائيّ اللون)، فعلى مَن يحتاج اعتمادًا أن يتحقّق من المحل المعنيّ."
   served: "يُقدَّم باردًا. وحده يكون 'air cincau' — مكعّبات هلام في ماء مثلَّج محلّى. ويُسكَب مع حليب الصويا فيصير 'soya cincau'، المُلقَّب بـ'Michael Jackson' لطبقاته السوداء والبيضاء. وهو كذلك إضافة قياسية في cendol وais kacang (ABC) وفي leng chi kang متعدّد المكوّنات."
   where: "يوجد في الكوبيتيام وأكشاك الباعة ومحلات الحلويات وأسواق pasar malam في عموم البلاد، ويُباع جاهزًا في علب وكراتين (مثل Yeo's) في كل سوبرماركت وبقالة."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "مشروب هلام العشب (cincau) المبرّد مع هلام داكن مستقر في القاع"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 في عصر يوم حارّ بمقهى ماليزي، من أرخص سبل التبرّد كوبٌ طويل من شيء داكن وزلِق:

@@ -34,7 +34,7 @@ faq:
     a: "Các đại học tư nhân nói chung cũng yêu cầu bằng chứng về năng lực tiếng Anh. Học sinh trong nước thường nộp kết quả MUET, trong khi các bằng cấp tương đương như IELTS hoặc TOEFL có thể được chấp nhận tùy thuộc vào chương trình và cơ sở."
 
 lang: "vi"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,41 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "band MUET", "kemasukan universiti", "STPM", "kemahiran bahasa Inggeris", "ijazah sarjana muda"]
 framework: explainer
+stayFacts:
+  who: 'Dành cho sinh viên dự bị đại học (STPM, matriculation, asasi hoặc diploma) nộp đơn học bậc cử nhân, những người mà MUET là cửa kiểm tra năng lực tiếng Anh bắt buộc tại các trường đại học công lập.'
+  how: 'Hãy thi bốn bài của MUET — Nghe, Nói, Đọc và Viết — thông qua Hội đồng Khảo thí Malaysia (MPM); điểm tổng hợp của bạn được quy về một band, và Hội đồng Học thuật (Senate) của mỗi trường đại học đặt band tối thiểu cần có cho mỗi chương trình.'
+  cost: 'Lệ phí do MPM đặt ra và cao hơn đối với người không phải công dân cũng như đối với phiên bản MUET on Demand làm trên máy tính, và chúng thay đổi — hãy xác nhận lệ phí hiện hành trên cổng MPM (mpm.edu.my) thay vì dựa vào một con số được báo.'
+  watch: 'Không có một band đậu duy nhất — mức tối thiểu khác nhau tùy chương trình và do Hội đồng Học thuật của mỗi trường đại học đặt ra. Kết quả có giá trị trong năm năm, nên thi quá sớm có thể khiến kết quả hết hạn trước khi bạn nộp đơn.'
+  next: 'Hãy kiểm tra band tối thiểu của chương trình bạn nhắm tới trên trang web của trường đại học, đăng ký sớm qua MPM, và theo dõi thời hạn giá trị năm năm. Xem bài Đại học công lập so với tư thục.'
+hero: '/media/education/muet-and-university-entrance-tests/hero.webp'
+heroAlt: 'Những hàng học sinh ngồi ở các bàn riêng lẻ làm bài thi trong một hội trường đại học ở Malaysia, với một giám thị đi lại giữa các lối.'
+heroCredit: 'Mahani Mohamad / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Bên trong một hội trường trường học Malaysia rộng lớn được dùng làm địa điểm thi, với sân khấu và những hàng khoảng sàn
+    kind: representative
+    origin: third-party
+    subject: Hội trường một trường học Malaysia dùng để tổ chức thi
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Góc nhìn từ trên cao khu giảng đường trong khuôn viên một trường đại học Malaysia
+    kind: representative
+    origin: third-party
+    subject: Khu giảng đường tại Universiti Pendidikan Sultan Idris (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Bạn có thể xuất sắc trong STPM hoặc matriculation, nhưng thiếu một kết quả nữa, đơn xin bằng cử nhân của bạn vẫn chưa đầy đủ. Kết quả đó là MUET — và nhiều học sinh chỉ nhận ra tầm quan trọng của nó khi hạn chót nộp đơn đại học đã đến gần.

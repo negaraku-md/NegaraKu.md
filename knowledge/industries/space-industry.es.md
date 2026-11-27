@@ -31,7 +31,7 @@ faq:
   - q: "¿Es la industria espacial de Malasia distinta de su industria aeroespacial?"
     a: "Sí. La industria aeroespacial cubre la aviación, el mantenimiento, reparación y revisión (MRO) y las aeroestructuras de aeronaves. La industria espacial cubre los satélites, el lanzamiento, la regulación espacial y los servicios aguas abajo como las comunicaciones por satélite y la teledetección."
 lang: es
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'Una estación terrena de satélite con una antena parabólica, una antena yagi y un radomo utilizados para rastrear y comunicarse con naves espaciales.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: Ingenieros con monos y gorros de sala blanca en verde claro y blanco trabajan alrededor de una alta cofia cónica blanca de cohete, suspendida por un aparejo de elevación amarillo sobre una plataforma con ruedas, en una sala blanca muy iluminada.
+    kind: representative
+    origin: third-party
+    subject: Técnicos con trajes de sala blanca preparando un satélite encapsulado sobre el compuesto superior de su vehículo lanzador, en representación de la construcción de satélites y la preparación del lanzamiento
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: Un cielo nocturno oscuro sobre aguas tranquilas cruzado por dos luminosos trazos curvos de luz, uno que asciende abruptamente desde una plataforma de lanzamiento muy iluminada a la izquierda y otro más tenue que desciende para aterrizar a la derecha.
+    kind: representative
+    origin: third-party
+    subject: Un lanzamiento de cohete nocturno de larga exposición, con el brillante arco de ascenso y un segundo arco del propulsor regresando a tierra, en representación de los servicios de lanzamiento
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 Malasia no lanza cohetes propios y, sin embargo, ha hecho volar a un astronauta, ha construido y operado microsatélites y ha aprobado una ley para licenciar la actividad espacial privada antes que la mayoría de sus vecinos. Su sector espacial es pequeño y discretamente estratégico, entretejido con la política de banda ancha, la defensa, el monitoreo de desastres y el prestigio nacional. Esta guía mapea la agencia, la ley, los satélites y las ambiciones que componen la economía espacial de Malasia.

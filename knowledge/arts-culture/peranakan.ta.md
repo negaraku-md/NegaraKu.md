@@ -19,7 +19,7 @@ keyTakeaways:
   - "Nyonya உடையின் மையமான kebaya, புரூணை, இந்தோனேசியா, மலேசியா, சிங்கப்பூர் மற்றும் தாய்லாந்து ஆகியவற்றின் கூட்டு நியமனத்தின் மூலம் 2024-இல் UNESCO-வின் அருவ பாரம்பரியப் பட்டியலில் பதிவு செய்யப்பட்டது"
 appliesTo: "Peranakan (Baba-Nyonya) யார் என்பது குறித்தும், மலாக்கா மற்றும் பினாங்கில் அவர்களின் உணவு, உடை மற்றும் பொருள்சார் பாரம்பரியத்தை எவ்வாறு அடையாளம் காண்பது என்பது குறித்தும் ஒரு உண்மைப்பூர்வமான, மரியாதைக்குரிய பொதுப்பார்வையை விரும்பும் எவருக்கும்."
 lang: "ta"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -62,6 +62,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: 'மலாக்காவில் உள்ள பாபா நியோன்யா பாரம்பரிய அருங்காட்சியகத்தின் (Baba Nyonya Heritage Museum) ஒரு பெரநாக்கன் வரவேற்பு மண்டபம், தங்க முலாம் பூசிச் செதுக்கப்பட்ட கருங்காலி திரைகள், முத்துச்சிப்பி பதித்த மரச்சாமான்கள், பளிங்கு மேற்பரப்புடைய வட்ட மேசை மற்றும் சுவர்களில் வர்ணம் பூசிய பறவை-மலர் பலகைகளுடன்.'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: மலாக்காவில் ஒரு பேரநக்கான் கடை-வீட்டின் மேல் முகப்பு, பச்சை-நீல நிற வளைவான ஜன்னல் தட்டிகள், வார்ப்பு புடைப்புச் சிற்பங்கள் மற்றும் மெருகூட்டப்பட்ட ஓட்டு வேலைப்பாட்டின் ஒரு பட்டையுடன்.
+    kind: actual
+    origin: third-party
+    subject: பேரநக்கான் பாணி கடை-வீடு முகப்பு, மலாக்கா
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: வெள்ளைப் பின்னணியில் இளஞ்சிவப்பு பியோனி மலர்களும் பீனிக்ஸ் பறவைகளும் தீட்டப்பட்ட, கண்ணாடிப் பேழையில் காட்சிப்படுத்தப்பட்ட ஒரு பேரநக்கான் பீங்கான் தேநீர் கிண்ணமும் அதன் மூடியும்.
+    kind: representative
+    origin: third-party
+    subject: மலர் மற்றும் பறவை வடிவங்களுடன் பேரநக்கான் (நியோன்யா பீங்கான்) தேநீர் பீங்கான்
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 மலாக்காவின் Heeren Street-இல் உள்ள ஒரு பழைய நகர்ப்புற வீட்டிற்குள் நுழையுங்கள் — யாரும் ஒரு வார்த்தை கூறுவதற்கு முன்பே பொருட்களே கதையைச் சொல்கின்றன. முன்பக்கத்தில் மூன்று-துண்டு தங்கப் பொத்தானால் பொருத்தப்பட்ட, இறுக்கமாகப் பொருந்திய லேஸ் ரவிக்கை. ஆயிரக்கணக்கான சிறிய கண்ணாடி மணிகளால் விரல்நுனிகள் மூடப்பட்ட, ஒவ்வொன்றும் கையால் தைக்கப்பட்ட ஒரு ஜோடி செருப்புகள். சீனமும் அல்ல, மலாயும் அல்ல எனும் ஒரு உணவுக்காக அமைக்கப்பட்ட நீளமான பளிங்கு-மேற்பரப்பு மேசை. இவை Peranakan-களுக்கு — Baba-Nyonya-க்கு — உரியவை; இரண்டு உலகங்களுக்கு இடையே வாழ்வதிலிருந்து ஒரு கலாசாரத்தை உருவாக்கிய ஒரு சமூகம்.

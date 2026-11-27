@@ -34,7 +34,7 @@ faq:
     a: "World Bank Logistics Performance Index 2023-இல் மலேசியா 26-வது இடத்தில் இருந்தது, 2018-இல் இருந்த 41-வது இடத்திலிருந்து முன்னேறியது, மேலும் Singapore-க்குப் பிறகு ASEAN நாடுகளில் இரண்டாவது இடத்தைப் பிடித்தது."
 
 lang: "ta"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'மலேசியாவின் ஜொகூரில் உள்ள தஞ்சோங் பெலிபாஸ் துறைமுகத்தில் கன்டெய்னர்களைக் கையாளும் கப்பல்-முதல்-கரை கேன்ட்ரி கிரேன்களின் வரிசைகள்.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: சரவாக், பிந்துலு சர்வதேச கொள்கலன் முனையத்தில் அடுக்கப்பட்ட கப்பல் கொள்கலன் வரிசைகளை ஒரு ரப்பர் டயர் கேன்ட்ரி கிரேன் இரு பக்கமும் தாண்டி நிற்கிறது.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சரவாக், பிந்துலு சர்வதேச கொள்கலன் முனையத்தில் அடுக்கப்பட்ட கொள்கலன்களுக்கு மேல் ரப்பர் டயர் கேன்ட்ரி கிரேன்
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: மலேசியா, சிலாங்கூர், போர்ட் கிளாங்கில் நங்கூரமிட்ட ஒரு கொள்கலன் கப்பலின் தளத்தில் அடுக்கப்பட்ட வண்ணமயமான கப்பல் கொள்கலன்கள்.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, போர்ட் கிளாங்கில் ஒரு கப்பலில் ஏற்றப்பட்ட கப்பல் கொள்கலன்கள்
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang 2025-இல் 15.14 மில்லியன் கப்பல் கண்டெய்னர்களை நகர்த்தியது — Hong Kong-ஐ முந்திச் சென்று, முதன்முறையாக உலகின் மும்முரமான பத்து துறைமுகங்களில் இடம்பிடிக்கப் போதுமான அளவு. இரண்டாவது மலேசியத் துறைமுகமான Tanjung Pelepas மேலும் 14 மில்லியனை நகர்த்தியது. இந்த எண்கள் எதுவும், அந்தப் பொருட்களில் பெரும்பாலானவற்றைத் தயாரிக்கும் ஒரு நாட்டை விவரிக்கவில்லை. மாறாக, சரியான இடத்தில் அமர்ந்து, உலக வர்த்தகத்திற்கு வாடகை வசூலிக்கக் கற்றுக்கொண்ட ஒரு நாட்டையே இது விவரிக்கிறது.

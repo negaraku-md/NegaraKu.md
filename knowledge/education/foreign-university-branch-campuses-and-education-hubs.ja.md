@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 
 status: "published"
 aiAssisted: true
@@ -107,6 +107,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: '外国大学の分校キャンパス——本国の大学が完全所有する海外キャンパス（Monash、Nottingham、Xiamen、Heriot-Wattなど）で、本国の大学自身の学位をマレーシアで授与するもの——を検討している学生や保護者向け。'
+  how: '本国の大学のブランド、キャンパスの立地、専門分野で選ぶとよい。分校キャンパスは、クランバレー、プトラジャヤ、ジョホールのEduCity Iskandar地区、そしてサラワクにある。授与されるのは本国の機関とまったく同じ学位であり、それがマレーシアのキャンパスで提供される。'
+  cost: '魅力は、欧米または中国の学位を、海外の本国キャンパスで学ぶよりはるかに安い現地の学費・生活費で取得できる点にある——ただし学費は機関や課程によって異なるため、現在の金額は各キャンパスで確認すること。'
+  watch: '学位は国境を越えて通用するが、学びの体験は現地のものである——クラスの規模、施設、キャンパスライフは、独立したキャンパスと、共用のエデュケーションシティ型キャンパスとでは大きく異なる。分校キャンパスの課程であっても、MQAの認証は必要であり、MQRに掲載される。'
+  next: '専門分野と立地で候補を絞り込み、MQRで正確な課程を確認し、外国人学生の受け入れが承認されているかをキャンパスに確認すること。詳しくは「マレーシアで学ぶ」および「国立大学と私立大学」を参照のこと。'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'ドラマチックな空の下、垂れ下がる緑と木々に縁取られた鏡のように静かな緑の湖の向こうにそびえる、時計塔のある白いモダニズム様式の大学の建物'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: ガラス張りの高架スカイブリッジでつながれた大きなベージュのキャンパス棟。塔にモナッシュの紋章、中庭にヤシの木
+    kind: representative
+    origin: third-party
+    subject: スランゴール州サンウェイ・シティにある、ガラスのスカイブリッジで結ばれたモナッシュ大学マレーシア分校の校舎
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: 一部曇りの空の下、門のある入口広場の奥に建つ、段状の赤い中国様式の屋根を持つ白いキャンパス棟
+    kind: representative
+    origin: third-party
+    subject: スランゴール州セパンにある、中国の大学として初の海外分校であるアモイ大学マレーシア校の、赤い屋根の正門と管理棟
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998年、クアラルンプールの学生は自国を離れることなくオーストラリアのMonash大学の学位を取得できるようになった——しかも費用はマレーシア国内価格で済んだ。この一つの取り決めが、同国がそれ以来築き続けてきたモデルの出発点となった。すなわち、学生ではなく大学そのものを輸入するという発想である。

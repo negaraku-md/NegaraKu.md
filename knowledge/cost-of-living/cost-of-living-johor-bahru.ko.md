@@ -26,7 +26,7 @@ verificationNeeded:
   - "조호르바루에 특정된 공식 임대료 지수를 찾을 수 없었습니다. 싱가포르 연계 수요에 따른 임대 압력에 관한 서술은 발표된 수치가 아니라 정성적입니다."
 
 lang: "ko"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,33 @@ relations:
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
+heroAlt: '밤의 조호르바루 도시 스카이라인, 조호르-싱가포르 코즈웨이 옆에 조명을 받은 타워와 차량 불빛 궤적이 있는 모습'
+heroCredit: 'Lionel Lim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: 조호르바루 부킷인다의 주간 장에 늘어선 신선 농산물 노점
+    kind: actual
+    origin: third-party
+    subject: 조호르바루 부킷인다의 주간 농산물 시장
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: 조호르바루 도심 주요 상업 거리인 웡아푹 거리를 따라 늘어선 상점과 쇼핑객
+    kind: actual
+    origin: third-party
+    subject: 웡아푹 거리, 조호르바루의 주요 상업 거리
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 말레이시아 전국 최저임금 월 RM1,700을 받는 노동자가, 비슷한 하루 일로 그

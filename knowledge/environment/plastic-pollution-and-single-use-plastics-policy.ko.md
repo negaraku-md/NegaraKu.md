@@ -29,7 +29,7 @@ faq:
     a: "그중에는 2025년까지 플라스틱 포장재 재활용률 25%, 2030년까지 평균 재활용 수거율(CFR) 76%, 2030년까지 평균 재활용 함량 15%가 있습니다. 재활용률 100% 목표는 2050년까지로 설정되어 있습니다."
 
 lang: "ko"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: '바닷가 모래사장 위에 어지럽게 흩어진 버려진 플라스틱 병과 기타 쓰레기.'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: 해변 조수선을 따라 모인 플라스틱 쓰레기와 해양 쓰레기
+    kind: representative
+    origin: third-party
+    subject: 해변에 밀려온 해양 플라스틱 쓰레기(예시)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: 재활용을 위해 수거장에 모아 둔 다 쓴 플라스틱병
+    kind: representative
+    origin: third-party
+    subject: 재활용용 플라스틱병 수거장(예시)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 계산대의 얇은 비닐봉투는 보통 잠깐만 쓰이지만, 환경에는 오랜 기간 남아 있을 수 있습니다. 이 문제를 다루기 위해 말레이시아는 하나의 전면 금지를 즉시 택하지 않고 — 대신 작은 부과금에서 더 넓은 금지로 나아가는 단계적 로드맵을 택했습니다.

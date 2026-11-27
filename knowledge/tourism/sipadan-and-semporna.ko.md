@@ -39,7 +39,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aa9adfcf0f83ddef"
+sourceContentHash: "f88ad29073c52661"
 
 status: "published"
 aiAssisted: true
@@ -98,9 +98,42 @@ sources:
 
 entity: "Sipadan"
 wikidata: "Q1412482"
-related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide"]
+related: ["diving-marine-ecotourism-malaysia", "sabah-visitor-guide", "east-coast-islands-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Sipadan", "Semporna", "Mabul", "Kapalai", "Mataking", "Tun Sakaran Marine Park", "Sabah Parks", "scuba diving", "Celebes Sea", "diving permit", "ESSZONE"]
 framework: profile
+visitFacts:
+  bestFor: '세계적 수준의 깊은 벽면 다이빙을 찾는 인증 스쿠버 다이버에게 적합합니다 — 말레이시아 유일의 대양섬 앞바다에서 바다거북, 바라쿠다 토네이도, 산호초 상어를 만날 수 있습니다.'
+  getThere: '타와우 공항(Tawau Airport)으로 날아간 뒤 관문 도시 셈포르나(Semporna)까지 육로로 이동하고, 그다음 보트로 섬과 다이빙 포인트로 나갑니다.'
+  permit: '시파단 다이빙에는 Sabah Parks 허가가 필요하며, 매일 발급되는 수가 엄격히 제한되고 면허 다이빙 업체를 통해서만 배정되니 넉넉히 앞서 예약하십시오.'
+  watch: '동부 사바의 섬들은 지정 보안 구역(ESSZONE) 안에 있고, 허가는 결코 보장되지 않으며, 보존 제한(연례 휴장 포함)이 적용되니 정보를 갖추고 여행하며 현재의 공식 권고를 확인하십시오.'
+  next: '현재의 시파단 허가 상한, 요금, 보존 휴장 여부는 Sabah Parks나 본인의 면허 다이빙 업체에 확인하십시오.'
+hero: '/media/tourism/sipadan-and-semporna/hero.webp'
+heroAlt: '사바 셈포르나 인근 툰 사카란 해양공원에서, 밝고 구름 점점이 떠 있는 하늘 아래 초록 섬들로 둘러싸인 선명한 터키석빛 산호초 석호의 항공 전경'
+heroCredit: 'Amri HMS / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Turquoise lagoon, fringing coral reefs and scattered islands of the Tun Sakaran Marine Park seen from Bohey Dulang near Semporna, Sabah'
+images:
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-1.webp
+    alt: 아래에서 올려다본, 햇살 비치는 청록빛 바다를 머리 위로 헤엄쳐 가는 푸른바다거북
+    kind: actual
+    origin: third-party
+    subject: 시파단 다이빙의 대표적 볼거리 중 하나인, 밝은 청록빛 바다를 유영하는 푸른바다거북
+    credit: Jenny from Taipei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flickr_-_JennyHuang_-_Turtle_flying.jpg
+  - role: scene
+    src: /media/tourism/sipadan-and-semporna/body-2.webp
+    alt: 시파단에서 다이빙하며 본, 푸른 바다를 뚫고 들어오는 햇살과 산호초 옆에서 소용돌이치는 거대한 은빛 물고기 떼
+    kind: actual
+    origin: third-party
+    subject: 세계 최고의 다이빙 포인트 중 하나인 시파단에서 다이빙 중 만난, 산호 위로 쏟아지는 햇살과 빽빽한 암초 물고기 떼
+    credit: Johnny Chen / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg
 ---
 
 술라웨시해 바닥에서 곧장 육백 미터 솟아오른, 거북과 토네이도 같은 바라쿠다 무리로 소용돌이치는 단 하나의 산호 뒤덮인 첨봉 — 시파단은 진지한 다이버가 동사바를 목록에 올리는 이유이자, 작은 마을 셈포르나 둘레에 하나의 여행 경제가 통째로 자라난 이유입니다. 그러나 그저 나타나 다이빙할 수 있는 곳이 아닙니다. 시파단은 인원이 제한된 일일 허가증을 둔 엄격히 보호된 해양공원이고, 섬 자체에는 숙소가 없으며, 주변 해안에는 첫 방문객이 차분하고 사실에 입각해 이해해야 할 보안 구역 맥락이 있습니다. 이 가이드는 무엇이 다이빙을 세계적 수준으로 만드는지, 허가증과 일일 상한이 실제로 어떻게 작동하는지, 어디서 묵는지, 시파단이 인근 툰 사카란 해양공원과 어떻게 다른지, 누구에게 맞는지, 언제 가야 하는지를 다룹니다.

@@ -42,7 +42,7 @@ verificationNeeded:
   - "التحقّق من تاريخ مراسم تنصيب سلطان قدح الـ29 مقابل السجلات الرسمية لقصر Istana Anak Bukit؛ فالصفحة الرسمية لحكومة الولاية تذكر تاريخ الإعلان فقط."
 
 lang: "ar"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,9 +108,35 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "قدح", "Kedah Darul Aman", "Alor Setar", "ألور ستار", "Sultan Kedah", "سلطان قدح", "jelapang padi", "سلّة الأرزّ", "Kulim Hi-Tech Park", "Lembah Bujang", "وادي بوجانغ", "Kedah Tua", "Langkawi", "لنكاوي", "MADA"]
 framework: profile
+hero: '/media/states/kedah/hero.webp'
+heroAlt: 'مسجد الزاهر بلونه الكريمي وتجمّع قبابه البصلية السوداء الكبيرة ومئذنته النحيلة أمام سماء زرقاء صافية في ألور ستار.'
+heroCredit: 'MosheA / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: ينحني جسر Langkawi Sky Bridge المقوّس على كابلات مرتفعًا عبر وادٍ جبلي حرجي في جزيرة Pulau Langkawi بولاية قدح.
+    kind: actual
+    origin: third-party
+    subject: Langkawi Sky Bridge، قدح
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: تمتد حقول الأرز الخضراء المسطحة إلى الأفق تحت سماء واسعة في Pendang بولاية قدح، سلّة الأرز في ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: سهول الأرز في Pendang، قدح
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 في عام 2024، شكّلت المنتجات الكهربائية والإلكترونية والبصرية 51.1 في المئة من

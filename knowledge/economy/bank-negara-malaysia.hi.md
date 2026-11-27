@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "hi"
-sourceContentHash: "1949b4f60e6b2877"
+sourceContentHash: "61fb7c40d0b40295"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -106,6 +106,33 @@ relations:
 related: ["opr-monetary-policy", "ringgit", "foreign-exchange-policy-malaysia", "payment-regulation-malaysia"]
 keywords: ["Bank Negara Malaysia", "BNM", "बैंक नेगारा मलेशिया", "मलेशिया केंद्रीय बैंक", "Central Bank of Malaysia Act 2009", "मौद्रिक नीति समिति"]
 framework: profile
+hero: '/media/economy/bank-negara-malaysia/hero.webp'
+heroAlt: 'बैंक नेगारा मलेशिया मुख्यालय का मुख्य प्रवेश-छत्र, जिस पर सुनहरे BANK NEGARA MALAYSIA अक्षर और किजांग प्रतीक हैं, मलेशियाई राज्य-झंडों की कतार और ऊँचे पंखा-ताड़ों से घिरा'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-0916).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Front entrance of the Bank Negara Malaysia headquarters, Jalan Dato'' Onn, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-1.webp
+    alt: Bank Negara Malaysia मुख्यालय का क्षैतिज पट्टियों वाला धूसर कंक्रीट टावर, जिसके शीर्ष पर नीला kijang प्रतीक है, हरी पार्कभूमि के ऊपर उठता हुआ, पीछे धब्बेदार नीले आसमान के सामने Kuala Lumpur की क्षितिज रेखा है
+    kind: actual
+    origin: third-party
+    subject: मध्य Kuala Lumpur में पार्कभूमि के पार देखा गया Bank Negara Malaysia मुख्यालय का सीढ़ीदार कंक्रीट टावर
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_(230715-1242).jpg
+  - role: scene
+    src: /media/economy/bank-negara-malaysia/body-2.webp
+    alt: Bank Negara Malaysia संग्रहालय और कला दीर्घा का कोणीय गहरे-कांच और धातु का अग्रभाग, जिसकी तीखी ज्यामितीय क्लैडिंग एक भूदृश्य प्रवेश द्वार पर आगे निकली हुई है
+    kind: actual
+    origin: third-party
+    subject: Bank Negara Malaysia का संग्रहालय और कला दीर्घा, Sasana Kijang परिसर का हिस्सा, Kuala Lumpur
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia_Museum_and_Art_Gallery.jpg
 ---
 
 ## एक नज़र में

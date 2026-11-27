@@ -77,9 +77,10 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "supersedes", to: "efficient-management-electrical-energy-regulations-2008" }
   - { rel: "affects", to: "commercial-buildings-malaysia" }
-related: []
+related: ["energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition", "seda-malaysia"]
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
 framework: rules
+wikidata: "Q142235995"
 ---
 
 Kalau kilang atau bangunan pejabat anda menggunakan tenaga bernilai jutaan ringgit setahun, kerajaan kini mahu tahu ke mana perginya setiap gigajoule itu — dan mahu anda menunjukkan usaha mengurangkan pembaziran. Itulah inti Akta Kecekapan dan Konservasi Tenaga 2024, atau Akta 861, undang-undang yang berkuat kuasa sejak 1 Januari 2025.

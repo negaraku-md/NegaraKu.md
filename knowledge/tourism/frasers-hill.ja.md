@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 
 status: "published"
 aiAssisted: true
@@ -90,7 +90,39 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "birdwatching", "International Bird Race", "Titiwangsa", "hill station", "The Gap", "Jeriau Waterfall", "mock Tudor", "Pahang"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'ナイトライフや大きな見どころよりも、ジャングルの小道と色あせた植民地時代の趣が残る、静かで涼しい高原の隠れ家を求める野鳥観察者や自然愛好家に。'
+  getThere: '空港も鉄道もなく、Kuala Kubu Bharuから曲がりくねった山道を上ってThe Gapに至り、そこから最後の登りが始まる形で、現在は上り下りの交通が2本の道路に分けられている（かつての一車線の旧道は時間帯で一方通行として運用されていた）。'
+  watch: '狭く曲がりくねった山道は進みが遅く、雨、地滑り、倒木の後に通行止めになりやすいうえ、丘自体もしばしば霧がかかって湿っており、飲食店や物資も限られている。'
+  next: '出発前に、現在の道路アクセスの取り決めや通行止めの有無を道路当局（JKR）に確認すること。'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'フレーザーズヒルの、灰色の霧と背の高い松の下、ハーフティンバーのチューダー様式の建物のそばにマレーシア国旗を吊るした石の時計塔'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: 夕暮れ時、背の高い松に囲まれ、窓が暖かく灯りツタに覆われた、白と茶色のハーフティンバー様式のチューダー調ホテル
+    kind: actual
+    origin: third-party
+    subject: 夕暮れにライトアップされた、フレーザーズ・ヒルの疑似チューダー様式の植民地時代のホテル、ザ・スモークハウス
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: ヤシの木が植えられた高地の庭園が、青く霞む山の尾根を背にした深い緑の熱帯雨林へと下っていく様子
+    kind: actual
+    origin: third-party
+    subject: フレーザーズ・ヒルの涼しく霧に包まれた熱帯雨林の谷と遠くの山並みを見下ろす、段々状の丘の庭園
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 マレーシアの高原の避暑地のほとんどは、あなたに何かを売ります——カジノ、茶園、イチゴ農園、テーマパークを。フレイザーズ・ヒルは、そのすべての不在を売ります。[ティティワンサ山脈](/ja/malaysia/titiwangsa-range)の森に覆われた尾根の集まりに広がる、小さく静かで霧に包まれた植民地時代の避暑地で、聞こえる最も大きな音が鳥のさえずりであり、赤道でさえセーターがばかばかしく感じられなくなる場所です。野鳥観察者にとっては神聖な地に近く、それ以外のすべての人にとっては、より派手な高原の隣人たちへの、ゆっくりした控えめな代替です。本ガイドは、フレイザーズ・ヒルが実際に何であるか、なぜ野鳥観察者が来るのか、何が見られるか、曲がりくねった登りの道がどう機能するか、そしてこの場所が誰に向いていて誰に向いていないかを扱います。

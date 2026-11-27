@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand the performance form of Dikir Barat, 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4d8a7c24ae26161c"
+sourceContentHash: "ea0d1ebe889abf58"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -67,6 +67,33 @@ relations:
 related: ["kelantan", "mak-yong", "wayang-kulit", "wau"]
 keywords: ["Dikir Barat", "tukang karut", "tok juara", "awok-awok", "Kelantan", "pantun berbalas", "seni persembahan", "warisan kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/dikir-barat/hero.webp'
+heroAlt: 'Two dikir barat performers in green-and-gold costume and tall curved headdresses sit on the ground doing synchronized arm gestures and smiling, rebana hand-drums on the floor in front of them and pink flowers behind'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Dikir barat performers mid-performance in green-and-gold costume (shared Malay tradition, shot at Chingay, Singapore)'
+images:
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-1.webp
+    alt: A line of seated dikir barat performers in green-and-gold costumes and tall headdresses clap in unison and smile during a night performance, with rebana hand-drums on the ground before them
+    kind: representative
+    origin: third-party
+    subject: Row of seated dikir barat performers (awok-awok) clapping in unison (shared Malay tradition, Chingay, Singapore)
+    credit: Stsanto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_Barat.jpg
+  - role: scene
+    src: /media/arts-culture/dikir-barat/body-2.webp
+    alt: A female lead singer sings into a microphone while a seated row of student performers in black with red headbands clap in unison, with a rebana drum and a gong, in a Malaysian school hall
+    kind: actual
+    origin: third-party
+    subject: School dikir barat group with a lead singer, clapping awok-awok chorus and percussion, Malaysia
+    credit: SMK Seri Mahkota / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dikir_barat.jpg
 ---
 
 Two groups sit cross-legged, facing each other on stage. There is no script. When the first group finishes a round of satirical [pantun](/en/arts-culture/pantun) about rising prices, the second group has only a few seconds to compose a reply — and it must rhyme, must land on the beat, and ideally must be sharper than the original verse.

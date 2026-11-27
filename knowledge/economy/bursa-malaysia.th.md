@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้ก่อตั้งและ CFO ที่กำลังชั่งน้ำหนักการทำ IPO ที่ปรึกษาและผู้สนับสนุน และนักลงทุนที่พยายามอ่านว่าการจดทะเบียนในกระดานหนึ่งบ่งบอกอะไรจริง ๆ"
 
 lang: "th"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,34 @@ relations:
 related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-overview", "ringgit"]
 keywords: ["Bursa Malaysia", "Main Market listing requirements", "ACE Market", "LEAP Market", "FBM KLCI", "KLCI 30 constituents", "IPO Malaysia", "papan Bursa Malaysia"]
 framework: profile
+hero: '/media/economy/bursa-malaysia/hero.webp'
+heroAlt: 'อาคาร Exchange Square สไตล์โพสต์โมเดิร์นมีเสาซึ่งเป็นที่ตั้งของ Bursa Malaysia ด้านหน้าหินสีแทนและยอดหน้าจั่วคู่ส่องแสงสีทองอบอุ่นจากพระอาทิตย์ตก ล้อมกรอบด้วยใบไม้สีเข้ม'
+heroCredit: 'Travelpleb / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: มุมมองจากด้านล่างขึ้นไปของเสาหินร่องสูงและยอดแบบนีโอคลาสสิกของอาคาร Exchange Square ตัดกับท้องฟ้าสีซีด พร้อมต้นปาล์มพัดอยู่ที่ฐาน
+    kind: actual
+    origin: third-party
+    subject: อาคาร Exchange Square ที่ตั้งของ Bursa Malaysia กัวลาลัมเปอร์
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: อาคาร Exchange Square ที่มีหลังคาสีแดงและเสาซึ่งเป็นที่ตั้งของ Bursa Malaysia มองข้ามเรือนยอดไม้จากด้านบน เห็นทางลาดและลานด้านหน้าอยู่เบื้องล่าง
+    kind: actual
+    origin: third-party
+    subject: มุมมองจากที่สูงของอาคาร Bursa Malaysia Exchange Square ท่ามกลางพื้นที่สีเขียว ย่าน Bukit Kewangan กัวลาลัมเปอร์
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## ภาพรวมโดยสังเขป

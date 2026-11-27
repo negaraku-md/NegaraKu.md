@@ -30,7 +30,7 @@ faq:
     a: "Tras la enajenación de las aerolíneas, Capital A es un grupo de servicios de aviación y digital construido en torno a cinco negocios: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next y Santan."
 
 lang: "es"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "reestructuración de aerolínea", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: 'Un Airbus A320 de AirAsia con librea roja (matrícula 9M-AGP) que lleva el eslogan "Now Everyone Can Fly", estacionado en una puerta de embarque del Aeropuerto Internacional de Kuala Lumpur.'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: Un reactor Airbus A320 de fuselaje estrecho de AirAsia con una librea conmemorativa especial y el rótulo airasia a lo largo del fuselaje, parado en la plataforma del aeropuerto de Langkawi bajo un cielo despejado
+    kind: actual
+    origin: third-party
+    subject: un Airbus A320 de AirAsia (matrícula malasia 9M-AQH) con una librea conmemorativa especial en el Aeropuerto Internacional de Langkawi
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: Aviones de AirAsia con librea roja alineados en las puertas de embarque de la terminal de bajo coste klia2, con el largo edificio terminal y las pasarelas de embarque extendiéndose a lo largo de la plataforma bajo un cielo tropical
+    kind: actual
+    origin: third-party
+    subject: aviones de AirAsia en klia2, la terminal de bajo coste del Aeropuerto Internacional de Kuala Lumpur y principal centro de operaciones de la aerolínea en Malasia
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 Durante años, «AirAsia» y «Capital A» se usaban casi de forma intercambiable. Tras una reestructuración de varios años, ahora describen dos empresas cotizadas diferentes.

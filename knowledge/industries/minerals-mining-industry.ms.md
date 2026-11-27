@@ -31,7 +31,7 @@ faq:
   - q: Mengapa Malaysia mengharamkan eksport nadir bumi mentah?
     a: Kerajaan mengatakan moratorium itu — berkuat kuasa sejak awal 2024 — bertujuan menghentikan sumber nadir bumi negara daripada dieksport tanpa diproses, dan memaksa nilai ditambah di dalam negara melalui penapisan tempatan dan industri hiliran. Pegawai menggambarkannya sebagai melindungi sumber strategik; terma dasar tepat telah berubah dari masa ke masa dan harus disemak terhadap kenyataan kerajaan terkini.
 lang: ms
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'Kapal korek bijih timah TT5 yang terpelihara berdiri di sisi bekas kolam perlombongan di Perak, Malaysia, satu peninggalan era pengorekan bijih timah negara.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: Permukaan batu yang terdedah dan teres kerja sebuah kuari batu di Jalan Sukau dalam daerah Kinabatangan, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Kuari batu di Jalan Sukau, daerah Kinabatangan, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: Sebuah kilang penghancur batu sementara dengan penghantar dan timbunan kerikil yang memproses batu berhampiran Salarom, Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Kilang batu yang menghancurkan batu menjadi kerikil berhampiran Salarom, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 Ekonomi moden Malaysia, secara harfiah, digali keluar dari tanah. Jauh sebelum minyak sawit, elektronik atau semikonduktor, **bijih timah**-lah yang menjadikan semenanjung ini penting kepada dunia — membiayai landasan kereta api, menumbuhkan bandar seperti Ipoh dan Kuala Lumpur, dan menarik generasi pelombong pendatang. Perlombongan ialah kisah perindustrian tertua negara, dan walaupun ia tidak lagi mendominasi ekonomi, ia secara senyap ditulis semula di sekitar satu hadiah yang sangat moden: unsur nadir bumi.

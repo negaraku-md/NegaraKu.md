@@ -19,7 +19,7 @@ keyTakeaways:
   - "马六甲苏丹国的世系于1528年在Johor Lama恢复统治，该王朝延续至1699年"
 appliesTo: "希望了解1511年马六甲陷落背后技术与政治原因，以及马六甲的体制与王室世系在城市失陷后如何延续下去的读者。"
 lang: "zh"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["1511年马六甲陷落", "阿丰索·德·阿尔布克尔克", "葡属马六甲", "A Famosa", "欧洲殖民马来群岛", "1528年柔佛苏丹国"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: '马六甲甲必丹堡（A Famosa）残存的石砌圣地亚哥城门（Porta de Santiago），风化的红土与灰泥城墙上残留着一座破败的塔楼，墙前的砖砌基座上立着一门古老的青铜大炮。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: 1521年建成的圣保罗堂遗迹矗立在马六甲圣保罗山顶，红土石墙已无屋顶，只剩空荡的窗洞，上方是开阔的天空。
+    kind: actual
+    origin: third-party
+    subject: 马六甲圣保罗山上的圣保罗堂遗迹
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: 通往葡萄牙广场的米色入口门楼两旁排列着赤陶屋顶的建筑和餐厅招牌，门后是马六甲葡萄牙村的前院广场。
+    kind: actual
+    origin: third-party
+    subject: 马六甲葡萄牙村（Kampung Portugis）内的葡萄牙广场
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 十天。这就是葡萄牙舰队于1511年8月10日抵达马六甲海域，到这座城市于8月24日易手之间的时间差。

@@ -34,7 +34,7 @@ faq:
     a: "Malaysia menduduki tempat ke-26 dalam Indeks Kinerja Logistik Bank Dunia 2023, naik dari ke-41 pada 2018 dan kedua di antara negara ASEAN setelah Singapura."
 
 lang: "id"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -118,6 +118,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'Deretan derek gantri ship-to-shore menangani peti kemas di Pelabuhan Tanjung Pelepas di Johor, Malaysia.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: Sebuah derek gantri ban karet mengangkangi deretan peti kemas pengiriman yang bertumpuk di Terminal Peti Kemas Internasional Bintulu, Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Derek gantri ban karet di atas peti kemas bertumpuk di Terminal Peti Kemas Internasional Bintulu, Sarawak, Malaysia
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: Peti kemas pengiriman berwarna-warni bertumpuk di atas dek sebuah kapal peti kemas yang bersandar di Pelabuhan Klang, Selangor, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Peti kemas dimuat di atas kapal di Pelabuhan Klang, Malaysia
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang menggerakkan 15.14 juta kontainer pelayaran pada 2025 — cukup untuk menyalip Hong Kong dan menembus sepuluh pelabuhan tersibuk di dunia untuk pertama kali. Satu lagi pelabuhan Malaysia, Tanjung Pelepas, menggerakkan 14 juta lagi. Kedua angka ini tidak menggambarkan sebuah negara yang menghasilkan kebanyakan barang tersebut. Ia menggambarkan sebuah negara yang terletak di tempat yang tepat dan telah belajar untuk mengenakan sewa atas perdagangan dunia.

@@ -28,7 +28,7 @@ verificationNeeded:
   - "राष्ट्रीय भूमि संहिता के उस संशोधन का सटीक उद्धरण और वर्ष जिसने राज्य प्राधिकरण की सहमति से औद्योगिक-भूमि की पहले की छूट को समाप्त किया, संशोधनकारी अधिनियम के अपने पाठ के विरुद्ध पुष्ट नहीं किया जा सका; इसे यहाँ किसी सीधे पढ़े गए प्राथमिक प्रावधान के बजाय अभिसरणी गौण क़ानूनी टिप्पणी के आधार पर वर्णित किया गया है।"
 
 lang: "hi"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,32 @@ stayFacts:
   cost: 'दो आपस में जुड़े द्वार और उस पर कर: एक न्यूनतम मूल्य सीमा जिसे हर राज्य स्वयं तय और संशोधित करता है (ज़ोन, ज़िले, या लैंडेड-बनाम-स्ट्रैटा के अनुसार विभाजित), जबकि संघीय प्रदेश एक अलग EPU-दिशानिर्देश सीमा का उपयोग करते हैं; इसके ऊपर ग़ैर-नागरिकों के लिए आवासीय हस्तांतरण पर एक सपाट स्टांप शुल्क, और बाद में बिक्री पर एक ऊँची, अधिक सपाट दर पर RPGT बैठता है। ये आँकड़े बदलते हैं और राज्य के अनुसार भिन्न होते हैं, इसलिए संबंधित राज्य भूमि कार्यालय (Pejabat Tanah) या आर्थिक नियोजन इकाई (EPU) के संपत्तियों के अधिग्रहण पर दिशानिर्देश (Guideline on the Acquisition of Properties) से मौजूदा संख्याओं की पुष्टि करें।'
   watch: 'कोई एकल राष्ट्रव्यापी RM1 मिलियन न्यूनतम नहीं है — वह आँकड़ा 2014 के एक संघीय दिशानिर्देश के अंतर्गत संघीय प्रदेशों के लिए विशिष्ट है, और किसी राज्य की मूल्य-सीमा पार करना उस अलग, विवेकाधीन राज्य प्राधिकरण सहमति को प्राप्त करने के समान नहीं है जो किसी विदेशी के नाम पर स्वामित्व पंजीकृत होने से पहले धारा 433B के अंतर्गत आवश्यक है।'
   next: 'मूल्य-सीमा पार होने और संपत्ति के बहिष्कृत न होने पर, राज्य प्राधिकरण को सहमति के लिए (एक कन्वेयंसिंग वकील के माध्यम से) लिखित रूप में आवेदन करें, और अनिश्चित प्रसंस्करण समय को ख़रीद समयरेखा में शामिल करें। ध्यान दें कि MM2H दीर्घ-प्रवास वीज़ा के तहत की गई ख़रीद भी इसी प्रक्रिया से गुज़रती है, और स्वामित्व हस्तांतरित होने के बाद के सतत दायित्वों के लिए मूल्यांकन कर और क्विट रेंट देखें।'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'कुआलालंपुर में आधुनिक काँच-आवरण वाली आवासीय गगनचुंबी मीनारें (एस्कॉट, 348 सेंट्रल)।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: कुआलालंपुर में Mont Kiara की क्षितिज-रेखा पर ऊँचे, महँगे कोंडोमिनियमों की कतारें भरी हैं, एक प्रवासी-पसंदीदा इलाका जहाँ विदेशी खरीदारों को राज्य की न्यूनतम मूल्य सीमा पार करनी होती है।
+    kind: actual
+    origin: third-party
+    subject: Mont Kiara, कुआलालंपुर की ऊँची कोंडोमिनियम क्षितिज-रेखा
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Forest City के विलासितापूर्ण तटवर्ती टावर जोहोर में समुद्र से पुनः प्राप्त भूमि पर उठते हैं, सिंगापुर सीमा के पास एक मेगा-परियोजना जिसका ज़ोरदार विपणन विदेशी खरीदारों के लिए किया गया है।
+    kind: actual
+    origin: third-party
+    subject: निर्माणाधीन Forest City विलासिता तटवर्ती विकास, जोहोर
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 हांगकांग का एक ख़रीदार पेटालिंग जया में एक सेमी-डिटैच्ड घर के लिए RM1.8

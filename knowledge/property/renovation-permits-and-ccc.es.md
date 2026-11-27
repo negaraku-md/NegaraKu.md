@@ -28,7 +28,7 @@ faq:
     a: "El CCC confirma que la vivienda se construyó conforme a los planos aprobados y es segura para habitar. Sin el CCC, el edificio oficialmente no es apto para habitar y el suministro de servicios puede verse afectado."
 
 lang: "es"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "Certificado de Finalización y Cumplimiento", "renovación de vivienda", "aprobación PBT", "Akta 133", "permiso de renovación", "Principal Submitting Person"]
 framework: rules
+hero: '/media/property/renovation-permits-and-ccc/hero.webp'
+heroAlt: 'El interior de una casa adosada de dos plantas en renovación en Selangor, Malasia, con una casa vecina visible a través de la puerta.'
+heroCredit: 'Frostpolar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: Paredes revestidas de cemento con huecos de ventana recién abiertos y sacos de material de construcción durante la reforma de una casa adosada malasia
+    kind: representative
+    origin: third-party
+    subject: Paredes recién enlucidas y nuevos huecos de ventana durante la reforma de una casa adosada en Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: Un contenedor metálico lleno de recortes de madera y escombros de obra frente a una casa adosada malasia en reforma
+    kind: representative
+    origin: third-party
+    subject: Un contenedor de escombros de obra en una casa adosada en reforma en Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 Quiere añadir una cocina en la parte trasera de la casa o construir un piso superior, y de repente un vecino le dice «primero tienes que solicitarlo al municipio». ¿Es cierto? Para la mayoría de los trabajos de renovación, sí.

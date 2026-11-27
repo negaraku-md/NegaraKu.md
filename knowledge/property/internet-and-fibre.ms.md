@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Sesiapa sahaja yang menyewa, membeli atau berpindah masuk ke sebuah rumah di Malaysia yang perlu menyambungkan jalur lebar tetap."
 
 lang: "ms"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,32 @@ relations:
 related: ["mobile-sim-plans"]
 keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre internet malaysia", "JENDELA MCMC", "home broadband coverage check malaysia", "install fibre internet malaysia", "unifi vs maxis vs time"]
 framework: decision
+hero: '/media/property/internet-and-fibre/hero.webp'
+heroAlt: 'Seorang juruteknik Telekom Malaysia sedang bekerja pada titik pengagihan kabel telekomunikasi di tepi jalan di Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: Sebuah bangunan pejabat Telekom Malaysia, pengendali talian tetap dan gentian optik kebangsaan, di Putrajaya
+    kind: representative
+    origin: third-party
+    subject: Bangunan pejabat Telekom Malaysia (TM) di Putrajaya
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: Sebuah modem gentian optik Unifi berjenama FiberHome dipasang pada dinding di dalam sebuah rumah
+    kind: representative
+    origin: third-party
+    subject: Modem jalur lebar gentian optik Unifi (ONT FiberHome) yang dipasang di sebuah rumah di Malaysia
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 Sebelum anda membandingkan walau seringgit pun harga, ada satu soalan yang lebih

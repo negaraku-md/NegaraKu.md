@@ -30,7 +30,7 @@ faq:
     a: "マレーシア（ジョホール、マラッカ、ヌグリ・スンビラン、パハン、サバ、サラワクを含む）と、インドネシア（西カリマンタンおよび中央カリマンタン）である。"
 
 lang: "ja"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'ドラマチックな曇り空の下、ドアの上に赤い「ioiCITYMALL」の看板を掲げ、背の高い鏡張りのオフィスタワーに挟まれた、IOIシティモールの曲線的なガラスと金属の正面入口'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: サバ州サンダカンにある青い工業用パーム油精製塔。大きな'IOI'の文字と'IOI EDIBLE OILS'のロゴ板が記され、手前にヤシの木、背後に森林に覆われた丘がある
+    kind: actual
+    origin: third-party
+    subject: サバ州サンダカンにあるIOI Edible Oilsのパーム油精製複合施設。IOI Corporationの資源ベース製造業の一部
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: IOI City Mall 2の複層吹き抜けの内部。店舗が並ぶ湾曲したバルコニーの上に、ピンク色の'IOi CiTY MALL 2'の宣伝バナーが掛かる
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤのIOI City Mallの第2期、IOI City Mall 2の内部吹き抜け
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 工業用ガスの販売から始まったこの企業は、今では小さな地区に匹敵する広さの土地保有を埋め尽くすほどのアブラヤシを栽培しており、その果実を食用油から石鹸に含まれる脂肪酸まで、あらゆるものへと加工している。

@@ -23,7 +23,7 @@ appliesTo: "ラブアン構造を評価している創業者、税務顧問及�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "398103a0292eae47"
+sourceContentHash: "e1cebf20f8e0ce9d"
 
 status: "published"
 aiAssisted: true
@@ -66,9 +66,37 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
 framework: profile
+hero: '/media/states/labuan/hero.webp'
+heroAlt: '明るい空の下、ヤシの木々の上にそびえる、ファイナンシャル・パーク・ラブアン複合施設の近代的な曲線的な青いガラスと銀のタワー'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Labuan_Malaysia_Financial-Park-Complex-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The curved blue-glass towers of the Financial Park Labuan complex, the island''s offshore financial centre'
+
+images:
+  - role: scene
+    src: /media/states/labuan/body-1.webp
+    alt: 深い青空を背景にそびえるラブアンの高い赤レンガのChimney（煙突）タワーで、基部の周囲にはココヤシと緑の芝生がある様子
+    kind: actual
+    origin: third-party
+    subject: 芝生の上、ココヤシの傍らに立つラブアンの高い赤レンガの植民地時代のランドマーク、The Chimney
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan-Chimney.jpg
+  - role: scene
+    src: /media/states/labuan/body-2.webp
+    alt: 港から眺めたラブアンの町の桟橋と海沿いの建物で、曇った青空の下、ボートと島のスカイラインが見える様子
+    kind: actual
+    origin: third-party
+    subject: 海から港越しに見るラブアンのフェリーターミナルの桟橋と海沿いの町
+    credit: Mx. Granger / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Labuan_Ferry_Terminal_from_the_water.jpg
 ---
 
 二つの会社、同じ株主、同じ顧客。一方はクアラルンプールで設立され、1967年所得税法

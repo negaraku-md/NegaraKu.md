@@ -29,7 +29,7 @@ faq:
     a: "เซอรูไนเล่นด้วยเทคนิคการหายใจหมุนเวียน (circular breathing) ที่ทำให้เสียงต่อเนื่องไม่ขาดตอน จึงเป็นตัวนำทำนองหลักในโนบัต"
 
 lang: "th"
-sourceContentHash: "ede0d9c6ebbbceef"
+sourceContentHash: "a58d80c1d5e5bcb7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,6 +72,34 @@ relations:
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
 framework: explainer
+hero: '/media/arts-culture/traditional-musical-instruments/hero.webp'
+heroAlt: 'นักดนตรีโอรังอูลูที่มีรอยสักในหมวกขนนกและชุดลูกปัดกำลังเล่นซาเปพิณขนาดใหญ่ที่วาดลวดลายก้นหอยบอร์เนียวสีแดงและดำโดดเด่น'
+heroCredit: 'AjarnRichard / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Orang_Ulu_Musician_on_the_Sape_(boat_lute).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Orang Ulu musician in traditional dress playing a carved sape boat-lute, Sarawak, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-1.webp
+    alt: แถวกลองเรอบานาอูบีขนาดใหญ่บนขาตั้งไม้สีน้ำเงิน ตัวและกรอบทาสีลวดลายดอกไม้สดใสสีแดง เขียว เหลือง และชมพู
+    kind: actual
+    origin: third-party
+    subject: แถวกลองกรอบเรอบานาอูบีขนาดใหญ่จากรัฐเกอลันตัน ประเทศมาเลเซีย
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Big_drums_from_Kelantan_province,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-musical-instruments/body-2.webp
+    alt: ชายสูงอายุในเสื้อสีส้มเป่าปี่ลิ้นคู่เซอรูไน โดยมีแถวกลองกรอบมลายูเรียงอยู่บนพื้นด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: นักดนตรีสูงอายุเป่าปี่ลิ้นคู่เซอรูไนที่บ้านของเขาในรัฐเกอลันตัน ประเทศมาเลเซีย
+    credit: DTH-BD-NVT / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serunai_player_from_Kelantan,_Malaysia.jpg
 ---
 
 เสียงเดียวกันดังซ้ำอยู่เบื้องหลังการแสดงศิลปะของมาเลเซียแทบทุกครั้ง กล่าวคือ จังหวะของหนังแพะที่ตีเป็นกลุ่มในงานแต่งงาน เสียงปี่สูงที่โหยหวนเปิดฉากหนังตะลุง และเสียงดีดสายไม้ที่ผ่อนคลายในบ้านยาวของซาราวัก เครื่องดนตรีที่ให้กำเนิดเสียงเหล่านั้นปรากฏในบทความศิลปะจำนวนมาก — หน้านี้จึงรวบรวมไว้ในที่เดียว

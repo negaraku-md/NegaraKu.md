@@ -32,7 +32,7 @@ faq:
     a: "ஒரு PFR-ஐ வர்த்தமானியிலிருந்து நீக்குவதற்கு முன் ஒரு பொது விசாரணையைக் கட்டாயமாக்குவதுடன், அபராதத்தை RM20,000 முதல் RM5 million வரை உயர்த்துகிறது, மேலும் சிறைத்தண்டனையை 7 முதல் 20 ஆண்டுகள் வரை உயர்த்துகிறது. இது 1 பெப்ரவரி 2025 அன்று கூட்டாட்சிப் பிரதேசங்களில் (Federal Territories) நடைமுறைக்கு வந்தது."
 
 lang: "ta"
-sourceContentHash: "068dc65beefd2227"
+sourceContentHash: "d96a6a1a58f6ff28"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,36 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
+hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'
+heroAlt: 'Perak Royal Belum-ல் அமைதியான ஏரிக்கு மேல், அடர்த்தியான பச்சை மழைக்காடு மூடிய மலைகளின் மீது உருளும் தாழ்மேகமும் மூடுபனியும்'
+heroCredit: 'Ckpixel / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Royal_Belum_Rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Mist drifting over the lush canopy of the Royal Belum rainforest, Perak'
+images:
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-1.webp
+    alt: தாமான் நெகாராவின் முதன்மை மழைக்காட்டுக்குள் நிழல் படர்ந்த பாதையோரம் சூரிய ஒளி படும் பனை ஓலைகளும் அடர்ந்த பச்சை அடிவளர்ச்சியும்
+    kind: actual
+    origin: third-party
+    subject: தாமான் நெகாராவின் முதன்மை மழைக்காட்டுத் தரையில் பனை அடிவளர்ச்சியும் இலைக் குப்பையும்
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara,_Malaysia,_Tropical_rainforest.jpg
+  - role: scene
+    src: /media/environment/malaysias-rainforests-and-permanent-forest-reserves/body-2.webp
+    alt: தாமான் நெகாராவின் புக்கிட் தெரிசேக்கில் இருந்து பார்க்கப்பட்ட, மேகமூட்டமான வானத்தின் கீழ் நீல மூடுபனியில் மறையும் அடர்ந்த வெப்பமண்டல மழைக்காட்டால் போர்த்தப்பட்ட அலையலையான மலைகள்
+    kind: actual
+    origin: third-party
+    subject: புக்கிட் தெரிசேக்கில் இருந்து பார்க்கப்படும் தாமான் நெகாராவின் தடையற்ற காடுகள் சூழ்ந்த மலைகள்
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 மலேசியாவில் ஒரு காடு நிறைந்த நிலம், மரங்களால் நிரம்பியிருப்பதால் மட்டுமே “பாதுகாக்கப்பட்டது” ஆகிவிடாது — அதன் நிலத்தின் பெயர் வர்த்தமானியில் (Gazette) தோன்றும் நாளில்தான் அதன் பாதுகாப்பு தொடங்குகிறது. அந்த வர்த்தமானி அறிவிப்பு இல்லாமல், அதே காடு எந்த நேரத்திலும் மேம்பாட்டிற்கு உரிமம் பெறலாம். இதுவே மலேசியாவின் முழு நிரந்தர வன காப்பக (Permanent Forest Reserve, PFR) அமைப்பின் அடித்தளம்.

@@ -89,7 +89,7 @@ relations:
   - { rel: "governs", to: "franchise-act-1998" }
   - { rel: "administered-by", to: "kuskop-ministry-entrepreneur-cooperatives" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }
-related: []
+related: ["business-licence-malaysia", "starting-a-business-in-malaysia", "ministry-of-domestic-trade-kpdn"]
 keywords: ["registro de franquicia Malasia", "franchise act 1998", "MyFEX 2.0", "registro de franquiciador", "registro de franquiciado", "documento de divulgación de franquicia", "artículo 6 franchise act", "aprobación artículo 54"]
 framework: how-to
 ---

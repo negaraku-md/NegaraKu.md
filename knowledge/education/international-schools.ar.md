@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "ar"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,33 @@ stayFacts:
   cost: 'توقَّع رسومًا دراسية سنوية إضافةً إلى رسوم تُدفع مرة واحدة مثل رسم القبول أو اختبار تحديد المستوى ورسم التسجيل، مع وديعة قابلة للاسترداد محدودة بسقف RM5,000؛ ولا يجوز تقاضي رسوم تطوير أو مبانٍ بالمرة. وتنظّم الوزارة البنية لا المبلغ، فتتفاوت الرسوم تفاوتًا هائلًا بحسب المدرسة والمنهج والموقع — تحقق من الأرقام الحالية مباشرةً مع كل مدرسة بعينها بدلًا من الوثوق بأي رقم في مقالة مقارنة أو منتدى.'
   watch: 'لأن أي رسم ليس محدَّدًا حكوميًا، يتأرجح السعر الفعلي بين المدارس تأرجحًا واسعًا حتى للفئة العمرية نفسها، وزيادات الرسوم محدودة بسقف 30% ولا تتجاوز مرة كل ثلاث سنوات. وخطّط أيضًا لضريبة خدمات بنسبة 6% تُطبَّق، لكل تلميذ في السنة الأكاديمية، حيثما تتجاوز رسوم الطفل السنوية RM60,000 — وهي ضريبة فوق الرسم، لا تحددها المدرسة.'
   next: 'ضع قائمة مختصرة بالمدارس وتحقق من جداول رسومها الحالية ومن حد الضريبة البالغ RM60,000 مباشرةً مع كل منها قبل وضع الميزانية. وللتخطيط ذي الصلة، انظر «تصريح المُعال (Dependant Pass)» أو «تصريح الزيارة الاجتماعية طويل الأمد» لكفالة الأبناء لمرافقة موظف أجنبي، و«الالتحاق بمدرسة حكومية» إن كانت المدرسة الحكومية مدرجة أيضًا في مقارنتك.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'بوابة مدخل مدرسة دولية حديثة مع كشك حراسة مظلّل وأسيجة مشذّبة وأشجار وارفة، مع مبانٍ منخفضة للحرم خلفها تحت سماء غائمة'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: مبنى مدرسة دولية متعدّد الطوابق بواجهة زجاجية وحجرية مقوّسة بالأحمر والرمادي، مع سيارات ودرّاجات نارية متوقّفة أمامه
+    kind: representative
+    origin: third-party
+    subject: المبنى الرئيسي الحديث المنحني لـ HELP International School، مدرسة دولية في سوبانغ بيستاري، سلانغور
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: مظلّة مدخل مدرسة حديثة نظيفة من الفولاذ والزجاج ونقطة حراسة بجانب معبر، تؤطّرها الأشجار تحت سماء ساطعة
+    kind: representative
+    origin: third-party
+    subject: مدخل العبور المُغطّى لحرم International School of Kuala Lumpur في أمبانغ هيلير
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 مدرسة بمنهج بريطاني وأخرى بمنهج أمريكي على طرفين متقابلين من المدينة ذاتها، على الورق، مرخَّصتان من المكتب نفسه تماماً في بوتراجايا (Putrajaya). وكلتاهما غير مسموح لها قانوناً بتقاضي «صندوق مبانٍ» من أولياء الأمور. وكلتاهما لا يمكنها رفع الرسوم بأكثر من 30% في المرة الواحدة. وكلتاهما غير مطالَبة بنشر أي رقم واحد تحدده الوزارة نفسها — لأنه من بين كل القواعد التي تكتبها الوزارة، ليس السعر الفعلي للمقعد واحداً منها.

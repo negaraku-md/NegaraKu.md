@@ -28,7 +28,7 @@ verificationNeeded:
   - "La citation et l'année exactes de l'amendement au National Land Code qui a supprimé l'ancienne exemption des terres industrielles du consentement de l'Autorité de l'État n'ont pas pu être confirmées par rapport au texte même de la loi modificative ; elles sont décrites ici sur la base de commentaires juridiques secondaires convergents plutôt que d'une clause primaire lue directement."
 
 lang: "fr"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,32 @@ stayFacts:
   cost: 'Deux guichets superposés plus l''impôt : un prix plancher que chaque État fixe et révise de son côté (réparti par zone, par district, ou selon qu''il s''agit d''un bien landed ou en copropriété (strata)), tandis que les Territoires Fédéraux appliquent un plancher distinct issu de la directive de l''EPU ; par-dessus s''ajoutent un droit de timbre forfaitaire sur les transferts résidentiels pour les non-citoyens, et le RPGT à un taux plus élevé et plus uniforme lors d''une revente ultérieure. Ces chiffres changent et varient selon l''État, alors confirmez les chiffres en vigueur auprès du bureau foncier d''État concerné (Pejabat Tanah) ou de la Directive sur l''Acquisition de Biens Immobiliers de l''Unité de Planification Économique (EPU).'
   watch: 'Il n''existe pas de minimum unique de RM1 million valable dans tout le pays — ce chiffre est propre aux Territoires Fédéraux sous une directive fédérale de 2014, et franchir le prix plancher d''un État n''est pas la même chose qu''obtenir le consentement distinct et discrétionnaire de l''Autorité de l''État exigé au titre de la section 433B avant que le titre puisse être inscrit au nom d''un étranger.'
   next: 'Demandez par écrit (par l''intermédiaire d''un avocat spécialisé en transactions immobilières) le consentement de l''Autorité de l''État une fois le prix plancher franchi et le bien non exclu, en intégrant le délai de traitement incertain au calendrier d''achat. Notez que les achats au titre du visa de long séjour MM2H passent toujours par cette même procédure, et voyez La taxe d''évaluation et le quit rent pour les obligations continues une fois le titre transféré.'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'Des tours résidentielles modernes de grande hauteur revêtues de verre (Ascott, 348 Sentral) à Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Des rangées de condominiums haut de gamme de grande hauteur encombrent la ligne d'horizon de Mont Kiara à Kuala Lumpur, une enclave prisée des expatriés où les acheteurs étrangers doivent franchir le seuil de prix fixé par l'État.
+    kind: actual
+    origin: third-party
+    subject: Ligne d'horizon de condominiums de grande hauteur de Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Les tours de luxe en front de mer de Forest City s'élèvent sur des terres gagnées sur la mer à Johor, un mégaprojet massivement commercialisé auprès des acheteurs étrangers près de la frontière singapourienne.
+    kind: actual
+    origin: third-party
+    subject: Programme de luxe en front de mer Forest City en construction, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 Un acheteur de Hong Kong accepte de payer RM1.8 million pour une maison jumelée à Petaling Jaya. Le financement est arrangé, le vendeur est d'accord, le prix franchit tous les seuils que quelqu'un a cités en ligne. L'opération ne peut pourtant pas aboutir tant qu'un bureau du gouvernement de l'État à Shah Alam ne décide pas — à sa propre discrétion — d'autoriser ou non un étranger à détenir ce titre, tout simplement.

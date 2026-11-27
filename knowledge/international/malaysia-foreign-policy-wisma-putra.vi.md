@@ -37,7 +37,7 @@ faq:
     a: "ASEAN là trụ cột hay nền tảng của chính sách đối ngoại Malaysia. Malaysia là một trong những quốc gia sáng lập ASEAN và luôn ưu tiên sự bền vững cũng như vị trí trung tâm (centrality) của ASEAN, đồng thời tích cực trong các diễn đàn khác như Liên Hợp Quốc (UN), Tổ chức Hợp tác Hồi giáo (OIC) và Phong trào Không Liên kết (NAM)."
 
 lang: "vi"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: 'Lối tiếp cận viền cọ dẫn tới Wisma Putra cho thấy tấm biển hiệu Wisma Putra Kementerian Luar Negeri Malaysia và tòa tháp của bộ phía sau'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Góc nhìn rộng của lối vào khu phức hợp Wisma Putra với cờ các bang và nhà cổng ở Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Góc nhìn rộng hơn của lối vào và nhà cổng Wisma Putra, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 Khi Hoa Kỳ là nhà đầu tư nước ngoài lớn nhất trong nền kinh tế Malaysia, nhưng China lại là đối tác thương mại lớn nhất của nó, một quốc gia nhỏ và mở như thế không thể nghiêng về một bên. Đó chính là lý do chính sách đối ngoại của Malaysia trong nhiều thập kỷ đã bám vào một từ dễ nói nhưng khó giữ: trung lập. Bộ có nhiệm vụ giữ sự cân bằng đó mỗi ngày là Wisma Putra.

@@ -31,7 +31,7 @@ faq:
     a: "อุทยานทางทะเลในคาบสมุทรถูกประกาศภายใต้พระราชบัญญัติประมง ปี 1985 ซึ่งสร้างเขตคุ้มครองสองไมล์ทะเลจากเกาะที่ห้ามกิจกรรมเช่นการรบกวนเต่าที่กำลังวางไข่และการเก็บลูกเต่า"
 
 lang: "th"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,9 +95,36 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'เต่าทะเลสีเขียวพักผ่อนบนแนวปะการังสีสดใสในน้ำทะเลสีครามใส พร้อมปลาแนวปะการังว่ายอยู่ด้านบน'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: เต่าทะเลสีเขียวแหวกว่ายเหนือแนวปะการังในน้ำสีฟ้านอกเกาะซิปาดัน มาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: เต่าทะเลสีเขียว (Chelonia mydas) ว่ายน้ำเหนือแนวปะการังที่ซิปาดัน รัฐซาบาห์ มาเลเซีย
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: เต่าทะเลสีเขียวพักอยู่ใต้ชะง่อนหินแนวปะการัง ล้อมรอบด้วยปะการังสีสันสดใส
+    kind: actual
+    origin: third-party
+    subject: เต่าทะเลสีเขียว (Chelonia mydas) พักอยู่ใต้ชะง่อนแนวปะการังที่บาร์ราคูดาพอยต์ ซิปาดัน รัฐซาบาห์ มาเลเซีย
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 ในช่วงปลายทศวรรษ 1960 เต่ามะเฟืองตัวเมียราว 2,000 ตัวขึ้นฝั่งทุกปีที่ชายหาดแห่งหนึ่งใน Rantau Abang ตรังกานู ทิ้งไข่ไว้เกือบ 10,000 รังบนทราย ในปัจจุบัน ไม่มีแม้แต่ตัวเดียว เรื่องราวการเสื่อมถอยนั้นเป็นหนึ่งในความล้มเหลวด้านการอนุรักษ์สัตว์ป่าที่ชัดเจนที่สุดในภูมิภาค และมันหล่อหลอมวิธีที่มาเลเซียคุ้มครองเต่าจนถึงปัจจุบัน

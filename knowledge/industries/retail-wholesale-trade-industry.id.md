@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana e-commerce mengubah ritel Malaysia?
     a: Belanja daring tumbuh cepat, dipimpin oleh platform seperti Shopee dan Lazada, dan garis antara ritel daring dan fisik mengabur ketika peritel tradisional menambahkan pengiriman, click-and-collect, dan etalase daring. Angka pendapatan e-commerce DOSM mencapai triliunan ringgit, meski total itu mencakup manufaktur dan jasa, bukan ritel saja.
 lang: id
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Para pembeli, toko, dan kios ritel di sepanjang atrium bertingkat pusat perbelanjaan NU Sentral di Kuala Lumpur, Malaysia.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: Sebuah lorong supermarket yang panjang dengan rak putih yang penuh gula kemasan, minyak goreng dan barang kemasan di bawah papan petunjuk lorong hijau bertuliskan GULA AGAR-AGAR 21, dengan lantai berubin bersih yang memanjang ke kejauhan
+    kind: actual
+    origin: third-party
+    subject: lorong bahan pangan yang penuh stok di hipermarket Giant di Kota Damansara, Selangor, sebuah format andalan perdagangan ritel Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: Sebuah los pasar terbuka satu lantai yang panjang dengan atap cokelat lapuk, sebuah truk bermuatan hasil bumi dan dua truk lebih kecil terparkir di depan di atas lahan beraspal yang disinari matahari di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: sebuah pasar basah tradisional terbuka di Johor Jaya dengan truk mengantarkan hasil bumi segar, bagian dari perdagangan pangan grosir dan ritel Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 Hampir setiap ringgit yang dibelanjakan orang Malaysia untuk barang fisik — bahan makanan, sebuah ponsel, sebuah mobil, sebotol minyak goreng — melewati perdagangan ritel dan grosir. Inilah pipa saluran konsumsi sehari-hari: jaringan importir, pedagang grosir, distributor, toko, pasar, dan toko daring yang memindahkan produk dari tempat produksinya ke tempat pembeliannya. Pejabat menyebut jaringan ini **perdagangan distributif**, dan ia adalah salah satu bagian terbesar dan paling terlihat dari perekonomian Malaysia.

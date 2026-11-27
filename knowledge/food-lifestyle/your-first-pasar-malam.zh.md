@@ -34,7 +34,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "e43eab1399c2d55c"
+sourceContentHash: "f664113b4050dd0a"
 masterLanguage: "en"
 
 status: "published"
@@ -77,6 +77,24 @@ relations:
 related: ["pasar-malam-and-street-food", "hawker-centres-and-food-courts"]
 keywords: ["第一次逛 pasar malam", "pasar malam 怎么逛", "马来西亚 pasar malam 指南", "tapau pasar malam", "DuitNow QR pasar malam", "pasar malam 清真", "马来西亚夜市如何点餐", "pasar malam 座位", "pasar malam 食品安全"]
 framework: how-to
+hero: '/media/food/your-first-pasar-malam/hero.webp'
+heroAlt: '灯火通明的夜市（pasar malam）摊前，一位小贩为顾客打菜，玻璃柜里满是炸物和豆腐，配着手写价格牌'
+heroCredit: 'Iybtk / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'pasar malam fried-snack food stall glowing under warm lights at night'
+images:
+  - role: scene
+    src: /media/food/your-first-pasar-malam/body-1.webp
+    alt: 夜市摊位上，一串串淋了酱汁的竹签烤串在黑色铁板上滋滋作响、热气腾腾
+    kind: actual
+    origin: third-party
+    subject: 夜市铁板上热气腾腾的沙爹风味烤串
+    credit: OpenRegent / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Satay_at_Night.jpg
 ---
 
 第一次逛 pasar malam 可能会让人晕头转向：两排摊位之间挤满了缓缓流动的人潮、

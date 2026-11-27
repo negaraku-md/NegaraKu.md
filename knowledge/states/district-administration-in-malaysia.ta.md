@@ -75,9 +75,16 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "pejabat daerah", "pegawai daerah", "mukim", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
+hero: '/media/states/district-administration-in-malaysia/hero.webp'
+heroAlt: '''Pejabat Daerah Sipitang'' என்று எழுதப்பட்ட சுவரும் நீல கூரையும் கொண்ட ஒரு தளமுடைய மாவட்ட அலுவலகம், இரு பக்கமும் வரிசையான மலேசிய மற்றும் சபா கொடிகளால் சூழப்பட்டது.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sipitang_Sabah_Pejabat-Daerah-Sipitang-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் வாக்களிக்கும் மாநிலத்திற்கும் நீங்கள் வசிக்கும் கிராமத்திற்கும் இடையில், அரிதாகவே பேசப்படும், ஆனால் நிலம், வளர்ச்சித் திட்டங்கள் அல்லது அவசர உதவி தொடர்பாக நீங்கள் அடிக்கடி சந்திக்கும் ஒரு அரசு அடுக்கு உள்ளது: மாவட்டம் (daerah). மாநிலக் கொள்கை உண்மையான சேவைகளாக மாறும் இடம் இதுவே; அதன் மையம் மாவட்ட அலுவலகம் (Pejabat Daerah / District Office).

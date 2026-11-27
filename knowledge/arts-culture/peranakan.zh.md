@@ -18,7 +18,7 @@ keyTakeaways:
   - "作为娘惹服饰核心的卡峇雅（kebaya），于2024年由文莱、印尼、马来西亚、新加坡与泰国联合申报，列入 UNESCO 非物质文化遗产名录"
 appliesTo: "适合任何想要客观、得体地了解土生华人（峇峇娘惹）是谁，以及如何在马六甲与槟城辨识其菜肴、服饰与物质文化遗产的人。"
 lang: "zh"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -61,6 +61,32 @@ relations:
 related: ["unesco-world-heritage", "batik"]
 keywords: ["Peranakan", "Baba-Nyonya", "Straits Chinese", "Nyonya cuisine", "Nyonya kebaya", "Melaka George Town heritage"]
 framework: history-culture
+hero: '/media/arts-culture/peranakan/hero.webp'
+heroAlt: '马六甲峇峇娘惹古迹博物馆（Baba Nyonya Heritage Museum）内的一处土生华人（Peranakan）会客厅，有镀金雕花的黑木屏风、螺钿镶嵌的家具、大理石面圆桌，墙上挂着花鸟彩绘屏板。'
+heroCredit: 'P. Hughes / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: 马六甲一栋峇峇娘惹（Peranakan）店屋的上层立面，配有拱形绿松石色百叶窗、灰塑浮雕，以及一道琉璃瓷砖带饰
+    kind: actual
+    origin: third-party
+    subject: 峇峇娘惹（Peranakan）风格店屋立面，马六甲
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: 一只峇峇娘惹瓷制茶碗及其碗盖，白地之上绘有粉色牡丹与凤凰，陈列于展柜中
+    kind: representative
+    origin: third-party
+    subject: 绘有花卉与鸟纹的峇峇娘惹（娘惹瓷器）茶具瓷器
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 走进马六甲希兰街（Heeren Street）一栋老排屋，还没等人开口，这个故事已经透过器物讲述出来了。一件在胸前用三件式金胸针别紧的蕾丝紧身上衣。一双鞋尖缀满成千上万颗细小玻璃珠、每一颗都由手工缝制的鞋子。一张摆着大理石桌面的长桌，上面摆着一顿既非纯粹华人、也非纯粹马来的餐点。这些都属于土生华人——峇峇娘惹——一个把两个世界之间的生活活成了一种文化的社群。

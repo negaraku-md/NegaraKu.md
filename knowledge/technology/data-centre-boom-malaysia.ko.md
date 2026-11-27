@@ -36,7 +36,7 @@ faq:
     a: "디지털부가 2025년 발표한 정책으로, 데이터 주권 — 말레이시아에서 생성된 데이터는 말레이시아 법의 적용을 받는다는 원칙 — 을 기반으로 2030년까지 말레이시아를 세계 수준의 클라우드 허브로 만들고, 아울러 계획된 국가 주권 AI 클라우드를 구축하는 것을 목표로 합니다."
 
 lang: "ko"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: '데이터센터의 서버 랙 벽, 각 줄이 밝은 파란 표시등 줄로 밝혀져 어둠 속으로 멀어지는 모습'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: 키 큰 검은색 서버 캐비닛 두 벽 사이로 난 좁은 통로로, 각 열이 끝쪽의 불 켜진 출입구로 수렴한다
+    kind: representative
+    origin: third-party
+    subject: 대학 데이터 센터의 키 큰 검은색 서버 캐비닛 사이로 난 대칭적인 통로
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: 해 질 녘 데이터 센터 단지를 공중에서 본 모습으로, 긴 옥상 냉각 장치 열과 아직 공사 중인 인접 건물이 있다
+    kind: representative
+    origin: third-party
+    subject: 공사 중인 대형 데이터 센터 단지의 옥상 냉각 장치를 공중에서 본 모습
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 3년도 채 되지 않아, 싱가포르 코즈웨이 건너편 남부 조호르(Johor)의 한 지대는 서버를 연결하기에 지구상에서 가장 인기 있는 장소 중 하나가 되었습니다. 클라우드 대기업, 코로케이션 사업자, AI 스타트업이 몰려들었고 — 이제 말레이시아는 그 붐 아래에 깔린 전력선과 수도관에 한계가 있음을 깨닫고 있습니다.

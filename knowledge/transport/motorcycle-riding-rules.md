@@ -76,9 +76,35 @@ sources:
 
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
-related: []
+related: ["road-transport-act-1987", "road-safety-in-malaysia", "road-transport-department-jpj"]
 keywords: ["lorong motosikal", "Lebuhraya Persekutuan", "topi keledar", "Seksyen 79(2)", "motosikal lebuh raya", "MS 1", "kapasiti enjin"]
 framework: rules
+hero: '/media/transport/motorcycle-riding-rules/hero.webp'
+heroAlt: 'Seorang penunggang bertopkeledar di atas motosikal kapcai dengan kotak penghantaran menunggu di simpang jalan di Gelugor, Pulau Pinang.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: Lorong motosikal berasingan yang terbentang di sebelah jalan utama berhampiran plaza tol Sungai Petani Utara di Kedah.
+    kind: actual
+    origin: third-party
+    subject: Lorong motosikal khas berhampiran tol Sungai Petani Utara, Kedah
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: Sebaris motosikal dan skuter diletakkan di sepanjang jalan di Little India, George Town, mencerminkan penggunaan kenderaan dua roda yang tinggi di Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Motosikal dan skuter berderet di sebuah jalan di George Town, Pulau Pinang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 Anda memandu masuk ke Lebuhraya Persekutuan menaiki motosikal, nampak papan tanda "Lorong Motosikal" bercabang ke kiri — dan tertanya-tanya sama ada anda wajib mengikutinya atau boleh terus di lorong utama. Jawapannya bergantung pada satu perkataan: *diwartakan*.

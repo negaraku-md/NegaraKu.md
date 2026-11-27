@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -81,6 +81,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Pháo hoa nhiều màu sắc bừng nở trên Tháp đôi Petronas và đường chân trời thành phố Kuala Lumpur về đêm.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: Một hình kolam lớn hình chim công rực rỡ sắc màu, làm bằng bột màu và bày trên sàn mừng Deepavali tại KL Sentral ở Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Họa tiết kolam hình chim công mừng Deepavali tại KL Sentral, Kuala Lumpur
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: Nhiều đầu lân trang phục múa lân rực rỡ màu hồng, vàng và trắng tụ lại trước một cửa tiệm trong lễ hội Tết Nguyên đán của người Hoa Malaysia trên phố, với một người biểu diễn đầu to màu đỏ ở giữa họ.
+    kind: actual
+    origin: third-party
+    subject: Đoàn múa lân Tết Nguyên đán ở Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 Hãy lên kế hoạch cho một chuyến đi, một đợt ra mắt sản phẩm hoặc một kỳ trả lương trên khắp Malaysia và bạn sẽ nhanh chóng phát hiện ra điều khiến người ngoài bất ngờ: một ngày là ngày lễ công ở Kuala Lumpur có thể là một ngày làm việc bình thường ở Kuching, và ngược lại. Malaysia không có một danh sách ngày lễ quốc gia duy nhất mà đúng hơn là một lớp quốc gia và mười ba lớp tiểu bang chồng lên nhau.

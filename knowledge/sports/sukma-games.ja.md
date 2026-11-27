@@ -29,7 +29,7 @@ faq:
     a: "SUKMAは、青少年選手が才能を発揮するための州の舞台です。有望な選手は、MSNの人材・後継選手育成プログラムへ、さらには国際大会に向けたエリート選手を育成するISNのProgram Podiumへと引き上げられます。"
 
 lang: "ja"
-sourceContentHash: "82263beab0c4a71a"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,7 @@ verificationNeeded:
   - "MSNの育成プログラムの構造と正確な名称（Program Bakat；Program Pelapis Negeri/Serantau/Kebangsaan）——最新の名称を確認すること。"
   - "ISNのProgram Podiumへの選手選考の具体的な基準——公式サイトに詳細が掲載されていない。"
   - "開催州のインフラ投資とホーム有利についての一般的な記述——具体的な出典による裏付けがない。確認するか削除すること。"
-updated: 2026-08-01
+updated: 2026-11-19
 sources:
   - title: "1万人の選手が2026年スランゴールSUKMA XXII、パラSUKMAを盛り上げる (10,000 atlet bakal meriahkan SUKMA XXII, Para SUKMA Selangor 2026)"
     url: "https://berita.rtm.gov.my/arena/senarai-berita-arena/senarai-artikel/10000-atlet-bakal-meriahkan-sukma-xxii-para-sukma-selangor-2026/"
@@ -69,15 +69,62 @@ sources:
   - title: "ポディウム・プログラム — 国立スポーツ研究所 (Program Podium — Institut Sukan Negara)"
     url: "https://isn.gov.my/bahagian-podium/"
     publisher: "国立スポーツ研究所"
+  - title: "マレーシア競技大会（SUKMA）——沿革と歴代大会一覧 (Sukan Malaysia (SUKMA) — sejarah dan senarai edisi)"
+    url: "https://en.wikipedia.org/wiki/Sukma_Games"
+    publisher: "Wikipedia"
+  - title: "SUKMAは21歳以下の大会であり続けるべき、NSCが見解 (Sukma should remain under-21 competition, says NSC)"
+    url: "https://www.nst.com.my/sports/others/2024/08/1096982/sukma-should-remain-under-21-competition-says-nsc"
+    publisher: "New Straits Times"
+  - title: "2026年SUKMAは474種目を実施、大会史上最多 (SUKMA 2026 to feature 474 events, highest in tournament history)"
+    url: "https://newswav.com/article/sukma-2026-to-feature-474-events-highest-in-tournament-history-A2509_kC5dWr"
+    publisher: "Bernama"
+  - title: "2004年にほぼ引退しかけたPandelelaの飛込み人生をSUKMAはいかに救ったか (How Sukma saved Pandelela's diving career after nearly quitting in 2004)"
+    url: "https://www.malaymail.com/news/sports/2024/07/16/how-sukma-saved-pandelelas-diving-career-after-nearly-quitting-in-2004/143886"
+    publisher: "Malay Mail"
+  - title: "Jin Wei、Li Lianを破りSUKMA金メダル (Jin Wei stuns Li Lian for Sukma gold)"
+    url: "https://www.thestar.com.my/sport/badminton/2014/06/03/jin-wei-stuns-li-lian-for-sukma-gold"
+    publisher: "The Star"
+  - title: "Welson、第15回SUKMAで大活躍へ (Welson to make big splash at Sukma XV)"
+    url: "https://www.theborneopost.com/2012/06/25/welson-to-make-big-splash-at-sukma-xv/"
+    publisher: "The Borneo Post"
+  - title: "Khairul Hafiz、100m走の国内記録を更新 (Khairul Hafiz breaks national 100m record)"
+    url: "https://www.thestar.com.my/sport/athletics/2016/07/27/khairul-hafiz-breaks-national-100m-record"
+    publisher: "The Star"
 
 entity: "Sukan Malaysia (SUKMA)"
 wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "football-in-malaysia"]
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'マレーシアのSUKMAゲームズの開会式で、各州の選手団が州旗と州名のプラカードを掲げている。'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: 陸上トラックを備えたマレーシアの州立スタジアム。スタンド、緑のピッチ、赤いトラックに青と黄色の空席が並ぶ、SUKMA開催会場に典型的な光景。
+    kind: representative
+    origin: third-party
+    subject: 陸上トラックを備えたマレーシアの州立スタジアム。SUKMAの競技を開催するような会場
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: サバ州コタキナバルのリカス・スポーツ複合施設の空撮。陸上競技場、ドーム型の屋内アリーナ、周囲のスポーツ施設が街の中に見える。
+    kind: representative
+    origin: third-party
+    subject: サバ州のリカス・スポーツ複合施設の空撮。複数競技の大会会場
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 2年に一度、数千人の青少年選手が開催州のスタジアムへと行進して入場する——世界のメダルのためではなく、それぞれの州の誇りのため、そして最も才能ある者にとっては、国のエリート舞台への切符のためである。それがSUKMAだ。
@@ -94,6 +141,14 @@ SUKMA（マレーシア競技大会、Sukan Malaysia）は「ミニ・オリン�
 
 その運営は、**[マレーシア国家スポーツ評議会](/sports/national-sports-council-msn)（MSN）**が、各州のスポーツ評議会、マレーシア学校スポーツ評議会（MSSM）、マレーシア大学スポーツ評議会（MASUM）、王立マレーシア警察スポーツ評議会とともに担っている。最新の大会である**第22回SUKMAセランゴール2026**は、2026年8月15日から24日まで開催される予定である。障がいのある選手のための専門の大会である**Para SUKMA**は、別途2026年9月5日から14日まで開催される予定である。
 
+2026年大会もまた独自の記録を打ち立てた——474の種目が実施され、これはSUKMA史上最多の種目数である。
+
+## 1986年から現在まで：年齢制限、優勝州、そして記録
+
+SUKMAは**21歳以下（U-21）**の大会であり、この年齢上限こそがその本質である——国家スポーツ評議会（MSN）は、大会を若手選手の育成に集中させる手段として、この年齢制限を堅持している。これまでで唯一の例外は2022年大会（第20回SUKMA）で、2020年の大会がCOVID-19のパンデミックにより中止されたため、上限を23歳以下に引き上げることが認められた。
+
+1986年にクアラルンプールで開催された第1回大会——16の選手団から約4,500人の選手が集まった——以来、この大会はクチンやジョホールバルから、アロースター、クアラ・トレンガヌ、コタキナバルまで、各州を持ち回りで開催されてきた。**スランゴール**は最も成功した選手団であり、総合優勝9回を数え、これにトレンガヌとサラワクが続く。単一大会での最多金メダル獲得記録もスランゴールが保持しており、1998年の第7回SUKMAで80個の金メダルを獲得した。
+
 ## SUKMAはどのようにエリート人材の輸送ルートを支えているのか？
 
 SUKMAは、マレーシアのスポーツ育成システムの最初の段に位置している。この大会で頭角を現した選手は、次の段階へ引き上げられる候補となる：
@@ -105,6 +160,17 @@ SUKMAは、マレーシアのスポーツ育成システムの最初の段に位
 **Program Podium**は、2016年2月2日に青年スポーツ省の下で立ち上げられ、**国家スポーツ院（ISN）**が運営している。オリンピック、アジア競技大会、コモンウェルスゲームズ（英連邦競技大会）といった主要な国際大会で世界水準の成績を収めるエリート選手を育成するために特別に設計されている。Program Podiumへの選手の選考は、ISNが定める選考基準に基づいてISNが行う。
 
 言い換えれば、SUKMAは未加工の人材の貯水池を用意し、後継選手プログラムとPodiumがその人材をふるいにかけ、磨き上げて高い成績を出す選手へと育てるのである。
+
+## 人材輸送ルートの証拠：彼らはSUKMAから始まった
+
+理屈は単純だ。証拠はその名前にある。よく知られた数人の国の選手たちは、国際舞台でマレーシアを代表する前に、まずSUKMAの舞台で頭角を現した。
+
+- **Pandelela Rinong**（飛込み、サラワク）——のちにマレーシア初のオリンピック飛込みメダリストとなった（2012年ロンドン大会、個人10m高飛込みで銅メダル；2016年リオ大会、シンクロで銀メダル）。彼女はSUKMAが自らの競技人生を蘇らせたと語っている——2004年にほぼ引退しかけた後、2006年のクダSUKMAで3個の金メダルとともに復帰したことが、この競技への情熱を再び燃え上がらせた。
+- **Goh Jin Wei**（バドミントン、ペナン）——2014年SUKMAで14歳にして女子シングルスの金メダルを獲得し、その後BWF世界ジュニア選手権で優勝（2015年と2018年）、さらにマレーシア初のユースオリンピック金メダリストとなった。
+- **Welson Sim**（競泳、サラワク）——第15回SUKMA（2012年）で金メダルを獲得した後、2016年リオ・オリンピックに出場し、東南アジア競技大会で優勝した。
+- **Khairul Hafiz Jantan**（陸上、マラッカ）——2016年の第18回SUKMAで100m走の国内記録（10.18秒）を打ち立て、Watson Nyambekが18年間保持していた記録を更新し、その後国家代表チームへと昇格した。
+
+この一覧は偶然ではない。それは、州の才能がまずここで試され、その後より高いレベルへとふるい分けられていく、育成の苗床としてのSUKMAの真の機能を示している。
 
 ## なぜ各州は開催州になろうと競い合うのか？
 

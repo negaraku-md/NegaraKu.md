@@ -32,7 +32,7 @@ faq:
   - q: "今日のマレーシアのチェッティアル社会はどのような状況ですか。"
     a: "20 世紀半ば、金融関連の法改正と政治の変動により、伝統的な金貸し業は縮小しました。多くの人が商業、専門職、教育関連の分野へと移りました。人数の少ない社会ではありますが、寺院・祭り・料理・家族の伝統を通じて、独特の文化的アイデンティティを守り続けています。"
 lang: "ja"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["tamil-in-malaysia", "thaipusam", "hinduism-in-malaysia", "estate-tamil-community"]
 keywords: ["செட்டியார் சமூகம்", "நாட்டுக்கோட்டை நகரத்தார்", "நகரத்தார் மலேசியா", "செட்டிநாடு", "கிட்டங்கி", "பினாங்கு செட்டியார் கோயில்", "Chettiar community Malaysia", "Nattukottai Chettiar", "Nagarathar"]
 framework: history-culture
+hero: '/media/arts-culture/chettiar-community/hero.webp'
+heroAlt: 'ペナンの丘陵の鬱蒼とした緑のジャングルからそびえ立つ、ナットゥコッタイ・チェッティアル（Nattukottai Chettiar）滝の丘頂寺院の白いゴープラム（gopuram）塔。'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: 彫刻された人物像で埋め尽くされた色鮮やかな南インド式寺院の塔門（ゴープラム）が、ペナンの澄んだ空を背にそびえる
+    kind: actual
+    origin: third-party
+    subject: ナーガラタール（ナットゥコッタイ・チェッティアル）のシヴァ寺院、ペナン・ジョージタウン
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: 花輪を掛けた高くそびえる金色の寺院の山車が、夕暮れのペナンの通りを信者の群衆の中を進んでいく
+    kind: actual
+    origin: third-party
+    subject: ペナンのタイプーサム行列における金色の山車と信者たち。チェッティアル社会が支える祭り
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 ペナンのタイプーサムの日、銀で作られた壮麗な山車がルブ・ペナン通りを出発し、丘の上のムルガン寺院へと向かいます。その山車も、一世紀以上にわたってそれを執り行ってきた社会も、偶然の産物ではありません――いずれも、チェッティナードゥからマラヤへと旅した商業・金融の伝統の物語を語っています。

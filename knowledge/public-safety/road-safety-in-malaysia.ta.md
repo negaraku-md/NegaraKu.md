@@ -37,7 +37,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 
 status: "published"
 aiAssisted: true
@@ -108,9 +108,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'மலேசியாவில் தெளிவான வானத்தின் கீழ், பாதை குறியீடுகள், மோதல் தடுப்புகள் மற்றும் சாலையோர விளம்பரப் பலகைகளுடன் கூடிய பிரிக்கப்பட்ட வடக்கு-தெற்கு நெடுஞ்சாலையில் போக்குவரத்து.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: ஜொகூர், கிளுவாங்கிற்கு அருகே இரு வழி ஜாலான் கிளுவாங்-கோத்தா திங்கி (கூட்டாட்சி வழி 91) வழியே வடக்கு நோக்கிய காட்சி
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், கிளுவாங்கில் இரு வழி கூட்டாட்சி நெடுஞ்சாலை (வழி 91)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: செலாங்கூர், கோத்தா டமன்சாராவில் இரவில் ஒரு சாலைச் சந்திப்பில் குறியிடப்பட்ட பாதசாரிக் கடவை
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், கோத்தா டமன்சாராவில் ஒரு சாலைச் சந்திப்பில் பாதசாரிக் கடவை
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 ஒவ்வொரு நாளும், மலேசியச் சாலைகளில் ஏறத்தாழ 18 உயிர்கள் பறிபோகின்றன. இந்த எண்ணிக்கை சாலைகளை நாட்டின் மிக முக்கியமான இயற்கைக்கு மாறான மரணக் காரணங்களில் ஒன்றாக ஆக்குகிறது, மேலும் இதை எதிர்கொள்ளச் சிறப்புச் சட்டங்கள், கேமராக்கள் மற்றும் முகமைகள் களமிறக்கப்படுவதற்கான முதன்மைக் காரணமும் இதுவே.

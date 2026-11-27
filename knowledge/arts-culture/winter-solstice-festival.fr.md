@@ -33,7 +33,7 @@ faq:
     a: "Pas nécessairement. Certaines familles offrent d'abord les tangyuan aux ancêtres ou aux divinités avant que la famille ne mange ensemble ; beaucoup d'autres considèrent le solstice d'hiver simplement comme un jour pour manger des tangyuan et se retrouver, sans aucun culte. Des pratiques comme le culte des ancêtres et la prière varient selon les croyances et les habitudes de chaque famille. Cet article ne décrit que les coutumes elles-mêmes et ne porte aucun jugement sur quelque croyance religieuse que ce soit."
 
 lang: "fr"
-sourceContentHash: "6833e4f83afb85b8"
+sourceContentHash: "cd6af6d13f0a0eb3"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,34 @@ festivalFacts:
   when: "Déterminé par les vingt-quatre termes solaires, il tombe chaque année autour du 21 au 23 décembre du calendrier grégorien (environ le 22 décembre), jour le plus court de l'année."
   holiday: "Ce n'est pas un jour férié — le solstice d'hiver n'est un jour férié ni au niveau national ni dans aucun État de Malaisie."
   etiquette: "Les Chinois célèbrent surtout de manière discrète à la maison, la famille s'asseyant ensemble pour façonner des tangyuan et partager un repas, plutôt que d'organiser de grands événements publics ; certaines familles offrent d'abord des tangyuan aux ancêtres et aux divinités avant de les manger en famille, les pratiques variant selon les familles et les groupes dialectaux."
+hero: '/media/arts-culture/winter-solstice-festival/hero.webp'
+heroAlt: 'Un bol blanc de boulettes de riz gluant rose pastel, violettes et jaunes flottant dans un sirop doux et clair avec une cuillère en céramique à bord bleu posée dedans'
+heroCredit: 'Geoffreyrabbit / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Four_soup_dumpings_in_new_year.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Colourful tang yuan glutinous rice balls in sweet ginger syrup served in a white bowl for the Winter Solstice'
+
+images:
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-1.webp
+    alt: Un bol rapproché de boulettes de riz gluant brillantes et translucides, blanches, lilas et vert jade, flottant dans une soupe sucrée claire
+    kind: representative
+    origin: third-party
+    subject: Gros plan de tang yuan à peau cristalline translucide, blancs, violets et verts, flottant dans un bol de sirop
+    credit: George Tan (GT#4) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg
+  - role: scene
+    src: /media/arts-culture/winter-solstice-festival/body-2.webp
+    alt: Vue de dessus de quatre boulettes de riz gluant tang yuan violettes et dodues dans un sirop chaud et clair, au creux d'un bol au bord bleu, des volutes de vapeur s'élevant
+    kind: representative
+    origin: third-party
+    subject: Un bol de boulettes de riz gluant violettes dans un sirop chaud, vu de dessus avec de la vapeur qui monte
+    credit: Miuki / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tangyuan.JPG
 ---
 
 Un soir de fin décembre, dans la cuisine, le parfum de la farine de riz gluant se mêle à la douceur du bouillon de gingembre. La famille se rassemble autour de la table et roule, un à un, de petits morceaux de pâte de riz en boules — certaines blanches, d'autres teintes en rose et en vert tendre. Les boules dans les mains des enfants sont de toutes les tailles, et les adultes, tout en roulant, disent : une fois les tangyuan mangés, on a pris un an de plus. Ce jour est le solstice d'hiver.

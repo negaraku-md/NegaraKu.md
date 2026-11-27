@@ -38,7 +38,7 @@ faq:
     a: "En 2024, PETRONAS a versé RM72.4 milliards en dividendes, impôts, paiements en espèces et autres engagements, dont un dividende de RM32.0 milliards. Cela s'ajoute aux impôts payés par les autres contractants et entreprises de services du secteur."
 
 lang: "fr"
-sourceContentHash: "6af871c9f37f1bbf"
+sourceContentHash: "43f9b8d59ade1635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,34 @@ relations:
 related: ["petronas", "petroleum-development-act-1974"]
 keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "PSC", "Petroleum Development Act 1974", "Malaysia Petroleum Management", "upstream", "downstream", "LNG", "petroleum income tax"]
 framework: profile
+hero: '/media/industries/oil-gas-industry/hero.webp'
+heroAlt: 'Vue aérienne de la jetée d''exportation de GNL de Bintulu à Sarawak : une plateforme en béton sur pieux d''acier portant des grappes de hauts bras de chargement maritime et de la tuyauterie au-dessus d''une mer turquoise, avec le port et la silhouette de l''usine de gaz derrière'
+heroCredit: 'Ahmad Afif Isa / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the marine loading jetty of the PETRONAS MLNG complex at Bintulu, Sarawak, where tankers are loaded with liquefied natural gas'
+
+images:
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-1.webp
+    alt: Une haute torchère en acier rouge et blanc rejetant une flamme de gaz orange vif sur fond de ciel nuageux, avec des racks de tuyaux et la chaîne de Crocker à l'arrière-plan, au terminal pétrolier et gazier de Sabah à Kimanis
+    kind: actual
+    origin: third-party
+    subject: une flamme de gaz brûlant au sommet de la torchère du terminal pétrolier et gazier de Sabah (SOGT) à Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-02.jpg
+  - role: scene
+    src: /media/industries/oil-gas-industry/body-2.webp
+    alt: Les colonnes de distillation, cheminées et réservoirs de stockage d'une raffinerie de pétrole à l'horizon au-delà d'un champ herbeux près de Port Dickson, sous un ciel du soir brumeux
+    kind: actual
+    origin: third-party
+    subject: une raffinerie de pétrole à l'est de Port Dickson, Negeri Sembilan, vue à travers un terrain dégagé depuis la Route fédérale 5
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
 ---
 
 Chaque baril de pétrole et chaque pied cube de gaz sous le sol et le fond marin malaisiens appartiennent, par la loi, à une seule entreprise. Pas à l'État directement, pas à ceux qui ont découvert les champs, pas aux multinationales qui les forent — mais à PETRONAS, la compagnie pétrolière nationale créée pour détenir le pétrole de la nation en fiducie. Comprenez ce seul fait et le reste de l'industrie du pétrole et du gaz de la Malaisie — comment elle est régulée, financée, imposée et partagée — se met en place.

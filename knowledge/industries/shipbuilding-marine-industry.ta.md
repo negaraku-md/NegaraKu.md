@@ -31,7 +31,7 @@ faq:
   - q: மலேசியாவில் கப்பல் கட்டுமானம் ஏன் எண்ணெய் மற்றும் எரிவாயுடன் இவ்வளவு இணைக்கப்பட்டுள்ளது?
     a: மலேசிய கப்பல்துறைகள் கட்டி பழுதுபார்க்கும் வணிகக் கப்பல் படையின் பெரும்பகுதி — கடல்வழி ஆதரவுக் கப்பல்கள், நங்கூர கையாளிகள் மற்றும் வேலைப்படகுகள் — மலேசிய நீரில் உள்ள கடல்வழி எண்ணெய் மற்றும் எரிவாயு தளங்களுக்குச் சேவை செய்ய இருக்கிறது. ஆற்றல் செலவு வலுவாக இருக்கும்போது, ஆர்டர்கள் உயர்கின்றன; எண்ணெய் விலை வீழ்ந்தால், கப்பல்துறைகள் அதிக-கொள்ளளவை எதிர்கொள்கின்றன. எண்ணெய் மற்றும் எரிவாயு சேவைகள் மற்றும் உபகரணத் தொழில் குறித்த தொடர்புடைய வழிகாட்டியைப் பார்க்கவும்.
 lang: ta
-sourceContentHash: "f7e0ace98685fffe"
+sourceContentHash: "1f5c7254fdba1475"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,33 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/shipbuilding-marine-industry/hero.webp'
+heroAlt: 'உயர்ந்த சிவப்பு gantry கிரேன்களும், கட்டுமானத்தில் உள்ள பெரிய கப்பல்களும் கொண்ட நீர்க்கரையோர கப்பல்தளம்'
+heroCredit: 'Ibex73 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l''Atlantique_shipyard,_2025_(1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'A shipyard with large gantry cranes and vessels under construction on the waterfront'
+images:
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-1.webp
+    alt: மலேசியாவில் உள்ள ஒரு பெரிய வெள்ளை படகு கட்டும் தொழிற்சாலையின் வான்வழிக் காட்சி, ஒரு திறந்த வாயில் கதவில் ஒரு கப்பல் உடற்பகுதி தெரிகிறது
+    kind: actual
+    origin: third-party
+    subject: மலேசியாவின் ஜோகூரில் Pasir Gudang-இல் உள்ள Grand Banks Yachts படகு கட்டும் தொழிற்சாலை
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Grand_Banks_Yachts_factory,_Malaysia.jpg
+  - role: scene
+    src: /media/industries/shipbuilding-marine-industry/body-2.webp
+    alt: ஒரு ஆற்றங்கரை மலேசியக் கப்பல்துறையின் பெரிய கட்டமைப்புக் கூடங்கள் மற்றும் முற்றத்தின் மேற்புற வான்வழிக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: மலேசியாவின் ஜோகூரில் ஒரு ஆற்றுக்கு அருகில் உள்ள Grand Banks Yachts கப்பல்துறையின் மேல்-நோக்கு காட்சி
+    credit: Thatdudejb / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Grand_Banks_Yachts'_Malaysian_Shipyard.jpg
 ---
 
 மலேசியா உலகின் மிக பரபரப்பான கடல் வழிகளில் இரண்டின் மீது அமர்ந்துள்ளது மற்றும் அதன் வாழ்வாதாரத்தின் பெரும் பகுதியை கடலிலிருந்து ஈட்டுகிறது — இருப்பினும் அதன் கப்பல் கட்டுமானம் மற்றும் கப்பல் பழுதுபார்ப்பு (SBSR) தொழில் தேசியப் பொருளாதாரத்தின் அமைதியான மூலைகளில் ஒன்று. இது உண்மையானது, நீண்டகாலமாக நிறுவப்பட்டது மற்றும் மூலோபாய ரீதியாக முக்கியமானது, ஆனால் துண்டிக்கப்பட்டது, சுழற்சி முறையானது மற்றும் ஒப்பீட்டளவில் சிறிய கப்பல்துறைகளால் ஆதிக்கம் செலுத்தப்படுகிறது. இந்த வழிகாட்டி இத்தொழில் எதைக் கட்டுகிறது, எங்கே, எவ்வளவு பெரியது, மற்றும் ஏன் ஒரு கடற்படைத் திட்டம் பொது விவாதத்தில் முழுத் துறையையும் மறைத்துவிட்டது என்பதை விளக்குகிறது.

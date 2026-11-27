@@ -36,7 +36,7 @@ faq:
     a: "นโยบายที่เปิดตัวโดยกระทรวงดิจิทัลในปี 2025 เพื่อทำให้มาเลเซียเป็นศูนย์กลางคลาวด์ระดับโลกภายในปี 2030 โดยยึดอธิปไตยของข้อมูล — หลักการที่ว่าข้อมูลที่สร้างในมาเลเซียถูกกำกับโดยกฎหมายมาเลเซีย — เคียงข้างคลาวด์ AI อธิปไตยที่วางแผนไว้"
 
 lang: "th"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'ผนังแร็คเซิร์ฟเวอร์ในศูนย์ข้อมูล แต่ละแถวส่องด้วยแถวไฟบ่งชี้สีน้ำเงินสดใสที่ลดเลือนเข้าไปในความมืด'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: ทางเดินแคบๆ ระหว่างผนังสองด้านของตู้เซิร์ฟเวอร์สีดำสูง แถวตู้ลู่เข้าหากันไปยังประตูที่มีแสงสว่างที่ปลายสุด
+    kind: representative
+    origin: third-party
+    subject: ทางเดินสมมาตรระหว่างตู้เซิร์ฟเวอร์สีดำสูงในศูนย์ข้อมูลของมหาวิทยาลัย
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: มุมมองทางอากาศของวิทยาเขตศูนย์ข้อมูลในยามพลบค่ำ พร้อมแถวยาวของเครื่องระบายความร้อนบนดาดฟ้าและอาคารที่อยู่ติดกันซึ่งยังก่อสร้างไม่เสร็จ
+    kind: representative
+    origin: third-party
+    subject: มุมมองทางอากาศของเครื่องระบายความร้อนบนดาดฟ้าที่วิทยาเขตศูนย์ข้อมูลขนาดใหญ่ซึ่งกำลังก่อสร้าง
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 ในเวลาไม่ถึงสามปี แถบหนึ่งของยะโฮร์ตอนใต้ที่อยู่ข้ามสะพานเชื่อมจากสิงคโปร์ได้กลายเป็นหนึ่งในสถานที่ที่เป็นที่ต้องการมากที่สุดบนโลกในการเสียบเซิร์ฟเวอร์ ยักษ์ใหญ่คลาวด์ ผู้ดำเนินการโคโลเคชัน และสตาร์ทอัป AI หลั่งไหลเข้ามา — และปัจจุบันมาเลเซียกำลังค้นพบว่าสายไฟและท่อน้ำใต้การเฟื่องฟูนั้นมีขีดจำกัด

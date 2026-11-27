@@ -66,9 +66,16 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysian-federalism-explained" }
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
-related: []
+related: ["district-administration-in-malaysia", "state-assemblies-dun", "federal-constitution"]
 keywords: ["hasil negeri", "geran perkapita", "geran jalan raya negeri", "Jadual Kesepuluh", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: 'Sebuah balai upacara beratap Minangkabau dengan atap melengkung tinggi berwarna cokelat keemasan di depan menara administrasi negara bagian Wisma Negeri yang modern di Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ketika sebuah pemerintah negeri di Malaysia menyusun anggarannya, ia bermula dengan satu realitas yang jarang disebut: pajak yang paling besar hasilnya — pajak penghasilan, pajak penjualan dan jasa, kepabeanan — bukan miliknya untuk dipungut. Sumber itu tergolong dalam kewenangan Federal. Apa yang tersisa untuk negeri, dan bagaimana kesenjangan itu diisi, ditetapkan hitam-putih dalam Konstitusi Federal.

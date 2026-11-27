@@ -27,7 +27,7 @@ faq:
     a: "மலாய் வீடு பொதுவாக ஒரே குடும்பத்தைத் தங்கவைக்கிறது, அதேநேரம் நீள்வீடு (rumah panjang) பல குடும்பங்களை ஒரே நீளமான கட்டமைப்பினுள் தங்கவைக்கிறது — ஒவ்வொரு குடும்பமும் தனக்கென்று ஓர் அறையைக் (bilek) கொண்டு, ருவாய் (ruai) எனப்படும் பொதுக் கூடத்துடன் பகிர்ந்துகொள்கிறது."
 
 lang: "ta"
-sourceContentHash: "6e6d63e898f4ad35"
+sourceContentHash: "36f8dfa9ca442a8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -62,9 +62,37 @@ sources:
 relations:
   - { rel: "related-to", to: "sarawak-longhouse" }
   - { rel: "related-to", to: "malay-woodcarving" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["rumah Melayu", "rumah panggung", "senibina vernakular", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "warisan"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'
+heroAlt: 'செங்குத்தான அடுக்கு ஓட்டுக் கூரைகள், கருப்பு-வெள்ளை-தங்க வைர வடிவில் நெய்த மூங்கில் சுவர்கள், கிராதி ஜன்னல்கள், பொன் செதுக்கிய விளிம்பு கொண்ட அலங்கார எண்கோண மர மலாய் அரண்மனை; மேகமூட்டமான வானத்திற்குக் கீழே புல்வெளியில் அமைக்கப்பட்டது'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the octagonal timber Istana Kenangan royal palace at Kuala Kangsar, Perak, with woven-bamboo kelarai walls and gilded carved trim'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-1.webp
+    alt: செங்குத்தான முக்கோணக் கூரை, செதுக்கப்பட்ட அலையான விளிம்புகள், பலகை மரச் சுவர்கள் மற்றும் வராந்தாவுக்கு ஏறிச்செல்லும் வெளிப்புற படிக்கட்டுடன், மரத் தூண்களில் உயர்த்தப்பட்ட, பச்சைப் பசுமையால் சூழப்பட்ட அடர்-பழுப்பு மரக் கம்போங் வீடு
+    kind: actual
+    origin: third-party
+    subject: செங்குத்தான முக்கோணக் கூரை, செதுக்கப்பட்ட முகப்புப் பலகைகள் மற்றும் மரப் படிகளால் அடையும் உயர்த்தப்பட்ட வராந்தாவுடன் கூடிய பாரம்பரிய மரத் தூண் மலாய் வீடு (ரூமா மெலாயு)
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_architecture.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-architecture/body-2.webp
+    alt: கூரிய நுனிகளாக வளையும் மினாங்கபாவ் பாணி மேல்நோக்கிய கூரைகள், கண்ணி ஜன்னல்கள் கொண்ட அடர்-மர பலகைச் சுவர்கள், செதுக்கப்பட்ட தூண்களில் நிற்கும் ஒரு நீண்ட உயர்த்தப்பட்ட மர மலாய் அரண்மனை, அருகே 'Rumah Negeri Sembilan' என்று எழுதப்பட்ட பலகை
+    kind: actual
+    origin: third-party
+    subject: மினாங்கபாவ் எருமைக் கொம்பு வடிவ மேல்நோக்கிய முக்கோணக் கூரைகளுடன் கூடிய நெகிரி செம்பிலான் மர அரண்மனையான இஸ்தானா அம்பாங் திங்கி
+    credit: Yjfstorehouse / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Ampang_Tinggi_A1.jpg
 ---
 
 ஒரு பழைய கம்பம் (kampung) வீட்டைத் தூக்கி, அதன் பொருத்துகைகளைப் பிரித்து, புதிய இடத்தில் மீண்டும் இணையுங்கள் — பெரும்பாலும் எந்த நிலையான காங்கிரீட் அடித்தளமும் இல்லாமல். அதுதான் பாரம்பரிய மலாய் கட்டிடக்கலையின் ஞானம்: குளிரூட்டி இருப்பதற்கு நெடுங்காலம் முன்பே வெப்பமண்டல காலநிலையை "வாசிக்கும்" ஒரு வீடு.

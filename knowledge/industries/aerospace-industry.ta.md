@@ -34,7 +34,7 @@ faq:
     a: "இரண்டும், ஆனால் அதன் ஈர்ப்பு மையம் சேவைகள். MRO மற்றும் கூறு உற்பத்தி ஆதிக்கம் செலுத்துகின்றன; மலேசியா கட்டமைப்புகள், கலவைப்பொருட்கள் மற்றும் என்ஜின் பாகங்களைக் கட்டி விமானங்களைப் பராமரிக்கிறது, ஆனால் விமான-நிலை வடிவமைப்பு மற்றும் மேம்பாட்டுத் திறன் பலவீனமானது."
 
 lang: "ta"
-sourceContentHash: "83587e970bd1abf9"
+sourceContentHash: "3b5179c4c94cf26d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,9 +78,37 @@ sources:
 entity: "Malaysia aerospace industry"
 relations:
   - { rel: "related-to", to: "economy" }
-related: []
+related: ["manufacturing-industry-overview", "construction-industry"]
 keywords: ["aerospace", "MRO", "maintenance repair overhaul", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
+hero: '/media/industries/aerospace-industry/hero.webp'
+heroAlt: 'பிரகாசமான, உயர்ந்த கூரை கொண்ட விமானப் பராமரிப்பு தொங்கல் கொட்டகைக்குள் நிறுத்தப்பட்ட பல வணிக ஜெட் விமானங்கள்'
+heroCredit: 'Airhub Aviation / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Airhub_Aviation_hangar_-_SQQ,_Siauliai,_Lithuania.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Commercial aircraft inside an aircraft maintenance (MRO) hangar'
+
+images:
+  - role: scene
+    src: /media/industries/aerospace-industry/body-1.webp
+    alt: பச்சை ப்ரைமர் பூசப்பட்ட விமான உடற்பகுதிகள் வரிசையாக நிறுத்தப்பட்டிருக்க, பரந்த விமான கூட்டமைப்புத் தொழிற்சாலைக்குள் தொழிலாளர்கள் பணியாற்றுகிறார்கள்
+    kind: representative
+    origin: third-party
+    subject: ஒரு பெரிய விண்வெளித் தொழிற்சாலைக்குள் கூட்டமைப்பு வரிசையில் விமான உடற்பகுதிகள்
+    credit: SounderBruce / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_-_777X_fuselages.jpg
+  - role: scene
+    src: /media/industries/aerospace-industry/body-2.webp
+    alt: ஒரு ஹேங்கரில் சிறிய விமானத்தின் என்ஜின் மற்றும் நான்கு-இதழ் ப்ரொப்பல்லர் மீது பணியாற்றும் இரண்டு விமானப் பராமரிப்பு தொழில்நுட்பர்கள்
+    kind: representative
+    origin: third-party
+    subject: பராமரிப்பு ஹேங்கரில் விமான என்ஜின் மற்றும் ப்ரொப்பல்லரைச் சேவை செய்யும் தொழில்நுட்பர்கள்
+    credit: Peter F.A. van de Noort / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aircraft_Maintenance,_AMN,_Teuge_Airport.jpg
 ---
 
 ஒரு விமானம் Toulouse-ல் அல்லது Seattle-ல் கட்டப்படலாம், ஆனால் அதன் முப்பது ஆண்டுகால வாழ்நாளில் எப்போதாவது அதன் என்ஜின்கள் திறக்கப்பட வேண்டும், அதன் கட்டமைப்பு ஆய்வு செய்யப்பட வேண்டும், அதன் avionics புதுப்பிக்கப்பட வேண்டும் — மேலும், அந்த வேலையை Subang-ல் அல்லது Senai-ல் செய்யவேண்டும் என்று மலேசியா பெருகிய முறையில் விரும்புகிறது. எந்தவொரு அசெம்பிளி லைனையும் விட, இந்த உள்ளுணர்வே நாட்டின் விண்வெளித் துறையின் வடிவத்தை விளக்குகிறது.

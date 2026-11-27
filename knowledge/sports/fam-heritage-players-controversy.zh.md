@@ -30,7 +30,7 @@ faq:
     a: "国际足联援引《FIFA纪律准则》第22条，指涉伪造球员资格及归化文件。"
 
 lang: "zh"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,9 +78,35 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: '身穿黄色的“马来亚虎”球迷挤满武吉加里尔国家体育场，看台上方是印有马来西亚虎的记分牌。'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: 马来西亚门将黄金福（Wong Kam Fook）在1972年夏季奥运会足球赛中拦截西德进攻球员。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚国家足球队在1972年夏季奥运会对阵西德
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: 从莎阿南体育场（Shah Alam Stadium）看台望去，2014年东盟足球锦标赛（AFF Championship）马来西亚国家队的一场比赛。
+    kind: actual
+    origin: third-party
+    subject: 莎阿南体育场内景，马来西亚国家队的一场足球比赛
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 2025年6月，七名海外出生的球员身披马来亚之虎（Harimau Malaya）的球衣上阵。不到一年后，世界最高体育仲裁机构确认，使他们得以代表马来西亚出赛的文件系伪造。此案引发了国际足联（FIFA）一系列纪律程序、一宗向体育仲裁法庭（CAS）提起的上诉，以及一份在马来西亚提交的警方报案。

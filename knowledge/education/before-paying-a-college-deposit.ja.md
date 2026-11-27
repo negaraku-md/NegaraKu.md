@@ -35,7 +35,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["大学 入学金 マレーシア", "MQA認定の確認", "MQR mqr.gov.my", "自分のコースは認定されているか", "大学 返金方針 マレーシア", "ツイニング 3+0 授与機関", "私立大学 マレーシア IPTS", "Act 555", "大学の学費を払う前に"]
 framework: how-to
+stayFacts:
+  who: 'カレッジのオファーを受け、保証金または登録料——多くの場合、最初に支払う、そしてしばしば返金不可の金銭——を支払おうとしている学生や保護者向け。'
+  how: '支払う前に、5つのことを書面で確認すること：正確な課程がMQRに掲載されていること；機関が登録された提供者であること（Private Higher Educational Institutions Act 1996 (Act 555) に基づくIPTS、または承認された国立大学・分校キャンパス）；ツイニングや3+0課程の場合、最終的な修了証を授与するのは誰か；課程全体にわたる完全な学費の明細書（書面）；そして返金および退学に関する条項。'
+  cost: '保証金は全体のごく一部にすぎない——1年目分だけでなく、課程全体にわたる完全な学費明細書（登録料、学期ごとの授業料、設備費、試験料、保険料、外国人学生向け費用）を書面で求め、その保証金が何に充当されるのかを確認すること。'
+  watch: '保証金はしばしば返金不可であり、全国的な法定のクーリングオフの権利は存在しない——取り戻せる金額は、機関自身が定める書面上の方針によって決まる。「3年次への編入を保証」というのは、現地のカレッジではなく提携先の大学が決めることである——必ず書面で取り付けること。'
+  next: '口座から金銭が出ていく前に、機関へのすべての確認事項を書面で行い、その回答を保管しておくこと。まずはMQRで正確な課程を確認すること。詳しくはMQA認証の解説記事を参照のこと。'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: '夕暮れ時、湖に映るテイラーズ大学（Taylor''s University）レイクサイド・キャンパスの高層棟で、本館には赤い「TAYLOR''S UNI」の看板がある。'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI・UCDマレーシア校のガラス張りの外観。新入生に入学デポジットを求める類の私立大学である。
+    kind: actual
+    origin: third-party
+    subject: RCSI・UCDマレーシア校(RUMC)（ペナン州）
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: サンウェイ大学キャンパスの近代的な教学棟。志願者が入学を決める前に学費とデポジットを比較検討する私立学校である。
+    kind: actual
+    origin: third-party
+    subject: サンウェイ大学のキャンパス棟（バンダル・サンウェイ）
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 入学金（デポジット）は通常、家庭が大学に手渡す最初のお金であり、そして一度

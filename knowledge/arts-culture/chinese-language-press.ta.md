@@ -33,7 +33,7 @@ faq:
     a: "உலகளாவிய செய்தித்தாள் துறையின் போக்குகளுக்கு இணங்க, மலேசிய சீன இதழின் அச்சுப் பிரதி விநியோகம் கடந்த இரு பத்தாண்டுகளில் பொதுவாகக் குறைந்துள்ளது; வாசகர்கள் — குறிப்பாக இளைய தலைமுறையினர் — கைபேசி மற்றும் இணையம் வழியாக அதிகளவில் செய்திகளைப் பெறுகிறார்கள். எனவே இதழ்கள் செய்தித் தளங்கள், மின்னிதழ்கள் மற்றும் கைபேசி செயலிகள் போன்ற டிஜிட்டல் தளங்களை உருவாக்கியுள்ளன, சில உள்ளடக்கம் சமூக ஊடகங்களிலும் பரப்பப்படுகிறது. அச்சுப் பிரதி முழுமையாக மறையுமா, எப்போது மறையும் என்பது இன்னும் உறுதியற்றதாகவே உள்ளது, இக்கட்டுரை எந்த முன்னறிவிப்பும் செய்யவில்லை."
 
 lang: "ta"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'மிரியில் உள்ள சீன மொழி நாளிதழான Sin Chew Daily-இன் வெண்ணிற அலுவலகக் கட்டிடம், அதன் பெயர் முகப்பு மற்றும் வாயில் சுவரில் ஆங்கிலம் மற்றும் சீன எழுத்துக்களில் காட்டப்பட்டுள்ளது.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: சீன எழுத்துக்களிலும் ஆங்கிலத்திலும் தலைப்பிடப்பட்ட, பினாங்கு சீன நாளிதழ் குவாங் வா யிட் போவின் ஆரம்பகால முதல் பக்கம், மற்ற பழைய சீன நாளிதழ் பக்கங்களுக்கு இடையே அடுக்கப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: குவாங் வா யிட் போ, மலேசியாவின் மிகப் பழமையான சீன மொழி நாளிதழின் (பினாங்கு) முதல் பக்கம்
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: ஜொகூர் பாருவில் நான்யாங் சியாங் பாவ் அலுவலகம், அதன் முகப்பு ஒரு கடைக்கு மேலே நாளிதழின் பெயரை பச்சை நிற சீன எழுத்துக்களிலும் ரோமன் எழுத்துக்களிலும் தாங்கியுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: நாளிதழ் தலைப்புப் பலகையுடன் நான்யாங் சியாங் பாவ் நாளிதழ் அலுவலகம், ஜொகூர் பாரு
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 அதிகாலை கோப்பித் தங்கையில் (kopitiam), விரித்து வைக்கப்பட்ட ஒரு சீன இதழ் பெரும்பாலும் ஒரு கோப்பை காபியுடன் அருகருகே இருக்கும். வாசகர்கள் முதல் பக்கத்தின் உள்நாட்டு, வெளிநாட்டு பெரும் செய்திகளைப் புரட்டிவிட்டு, தங்களுக்கு மிகவும் பரிச்சயமான பக்கங்களுக்கு நேராகச் செல்வர் — சிலர் முதலில் எந்தச் சீனப் பள்ளி அறக்கட்டளை விற்பனை நடத்தியது என்ற உள்ளூர்ச் செய்தியைப் பார்ப்பர், சிலர் இலக்கிய இணைப்பையும் கருத்துப் பக்கத்தையும் புரட்டுவர், சிலர் இறப்பு அறிவிப்புகள், வகைப்படுத்தப்பட்ட விளம்பரங்கள், சீட்டு முடிவுகளுக்காக மட்டுமே இதழைப் பார்ப்பர். பல மலேசியச் சீனர்களுக்கு, சீன இதழ் என்பது வெறும் செய்தி மட்டுமல்ல, நாளும் தொடரும் சீன மொழி வாசிப்புப் பழக்கமும்கூட.

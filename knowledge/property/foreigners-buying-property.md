@@ -90,6 +90,32 @@ stayFacts:
   cost: 'Two stacked gates plus tax: a minimum price floor that each state sets and revises on its own (split by zone, district, or landed-versus-strata), while the Federal Territories use a separate EPU-guideline floor; on top sits a flat stamp duty on residential transfers for non-citizens, and RPGT at a higher flatter rate on later sale. These figures change and vary by state, so confirm the current numbers with the relevant state land office (Pejabat Tanah) or the Economic Planning Unit''s Guideline on the Acquisition of Properties.'
   watch: 'There is no single nationwide RM1 million minimum — that figure is specific to the Federal Territories under a 2014 federal guideline, and clearing any state''s price floor is not the same as obtaining the separate, discretionary State Authority consent required under section 433B before the title can register in a foreigner''s name.'
   next: 'Apply in writing (through a conveyancing lawyer) to the State Authority for consent once the price floor is cleared and the property is not excluded, building the uncertain processing time into the purchase timeline. Note that MM2H long-stay visa purchases still go through this same process, and see Assessment tax and quit rent for the ongoing obligations once title transfers.'
+hero: '/media/property/foreigners-buying-property/hero.webp'
+heroAlt: 'Modern glass-clad residential high-rise towers (Ascott, 348 Sentral) in Kuala Lumpur.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Rows of upmarket high-rise condominiums crowd the Mont Kiara skyline in Kuala Lumpur, an expatriate-favoured enclave where foreign buyers must clear the state price threshold.
+    kind: actual
+    origin: third-party
+    subject: High-rise condominium skyline of Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: The Forest City luxury waterfront towers rise over reclaimed land in Johor, a mega-project marketed heavily to foreign purchasers near the Singapore border.
+    kind: actual
+    origin: third-party
+    subject: Forest City luxury waterfront development under construction, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 A buyer from Hong Kong agrees to pay RM1.8 million for a semi-detached house in Petaling Jaya. The financing is arranged, the seller is willing, the price clears every threshold anyone quoted online. The deal still cannot complete until a state government office in Shah Alam decides — at its own discretion — whether to let a foreigner hold that title at all.

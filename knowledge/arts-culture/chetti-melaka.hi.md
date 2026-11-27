@@ -31,7 +31,7 @@ faq:
     a: "समुदाय की संख्या तेज़ी से गिरी है — सिंगापुर के राष्ट्रीय विरासत बोर्ड (Roots) के अनुसार 1980 के दशक में लगभग 400 परिवारों से घटकर आज 50 से कम परिवारों तक — जबकि एक Free Malaysia Today रिपोर्ट अनुमान लगाती है कि कामपुंग चेट्टी में अब भी केवल लगभग 20 से 30 परिवार रहते हैं। शोधकर्ता इस गिरावट को अंतर्विवाह, बाहर की ओर पलायन, और युवा पीढ़ियों के अपनी चेट्टी जड़ों से बढ़ते संपर्क-विच्छेद से जोड़ते हैं।"
 
 lang: "hi"
-sourceContentHash: "6898b0a0b841fb12"
+sourceContentHash: "ed8d4b9eca27966c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,34 @@ relations:
 related: ["peranakan", "tamil-in-malaysia", "deepavali"]
 keywords: ["चेट्टी मेलाका", "Chetti Melaka", "Chitty Melaka", "पेरानाकन भारतीय", "Peranakan India", "Kampung Chetti", "Gajah Berang", "शैव हिंदू", "मेलाका विरासत"]
 framework: history-culture
+hero: '/media/arts-culture/chetti-melaka/hero.webp'
+heroAlt: 'मेलाका के कंपुंग चेट्टी की गली के प्रवेश पर गुलाबी भारतीय-शैली का मेहराब जिसके शीर्ष पर दो सफ़ेद हाथी की आकृतियाँ हैं; दाईं ओर क्रीम रंग के गुंबद वाला एक छोटा हिंदू मंदिर और नीली आसमान के नीचे शांत गली में कंपुंग चेट्टी का साइन लगे गाँव के घर'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Chitti_Village.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the elephant-flanked entrance archway to Kampung Chetti, the Chetti Melaka (Peranakan Indian) village in Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-1.webp
+    alt: मलक्का में चेट्टी संग्रहालय के रूप में सेवारत एक पारंपरिक दो-मंज़िला गहरी-लकड़ी की मलय-शैली की हवेली, बरामदे के ऊपर एक नीला साइनबोर्ड जिस पर लिखा है Muzium Chetti The Chetti Museum, एक नीची बाड़ के पीछे गमलों में पौधों की कतार और उसके बगल में फहराते मलेशियाई और मलक्का झंडे
+    kind: actual
+    origin: third-party
+    subject: मलक्का के कम्पुंग चेट्टी में चेट्टी संग्रहालय (मुज़ियम चेट्टी), जो चेट्टी मेलाका समुदाय का दस्तावेज़ीकरण करता है
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chitty_Museum.JPG
+  - role: scene
+    src: /media/arts-culture/chetti-melaka/body-2.webp
+    alt: मलक्का की हार्मनी स्ट्रीट पर श्री पोय्यथा विनायगर मूर्ति मंदिर का पीला अग्रभाग, एक टाइल वाली बरामदे की छत और फ़िरोज़ी दरवाज़ों के ऊपर देवता-ताकों के साथ उठती एक मामूली स्तरीय मीनार, गहरे नीले आकाश के सामने नीची सुबह की धूप से प्रकाशित
+    kind: actual
+    origin: third-party
+    subject: मलक्का में श्री पोय्यथा विनायगर मूर्ति मंदिर, जो चेट्टी समुदाय द्वारा 1781 में स्थापित ऐतिहासिक हिंदू मंदिर है
+    credit: User:Vmenkov / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri-Poyyatha-Vinayagar-Moorthi-Temple-2204.jpg
 ---
 
 मेलाका के Jalan Gajah Berang पर एक पुराने गाँव में परिवारों का एक समूह है जो भगवान शिव की पूजा करते हैं, मलय जैसे कपड़े पहनते हैं, नारियल के दूध से महकती करी पकाते हैं, और तमिल शब्दों से मिश्रित मलय बोलते हैं। वे न भारतीय हैं, न मलय, न चीनी — वे चेट्टी मेलाका हैं, और उनकी संख्या निरंतर कम होती जा रही है।

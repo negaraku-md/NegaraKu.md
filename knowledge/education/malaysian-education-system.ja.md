@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 
 status: "published"
 aiAssisted: true
@@ -86,9 +86,35 @@ relations:
   - { rel: "related-to", to: "stpm-vs-matriculation" }
   - { rel: "related-to", to: "tvet-malaysia" }
   - { rel: "related-to", to: "public-universities-malaysia" }
-related: []
+related: ["muet-and-university-entrance-tests"]
 keywords: ["Malaysian education system", "Ministry of Education Malaysia", "KPM", "SPM", "STPM", "matriculation Malaysia", "TVET Malaysia", "Malaysian Qualifications Framework"]
 framework: explainer
+hero: '/media/education/malaysian-education-system/hero.webp'
+heroAlt: '白いシャツ、ヘッドスカーフ、ハウスのジャージなど、制服姿で一緒に写真に収まる笑顔のマレーシアの中学生たち。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: マレーシアの学校のスマート図書館で、制服姿の児童が机に向かってタブレット端末を使う様子
+    kind: representative
+    origin: third-party
+    subject: 学校のスマート図書館でタブレットを使って学ぶマレーシアの小学生
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: 青空の下、屋根付きの通路を備えた多層階のマレーシアの中等学校校舎
+    kind: representative
+    origin: third-party
+    subject: マレーシアの国民中等学校の校舎（SMK Bandar Saujana Putra）
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 マレーシア人を3人つかまえて「教育制度」について説明してもらうと、3通りの異なる地図が返ってくるだろう。ある人はSKとSJKCの違いについて語る。別の人はSTPMとマトリキュレーションの違いについて語る。3人目は、技術教育の世界の外では誰も聞いたことのないSKM証明書について触れる。3人とも同じ制度について語っているのだが、それぞれ異なる枝から見ているにすぎない。

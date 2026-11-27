@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'อาคารหลังคาโค้งของ Prince Court Medical Centre ในกัวลาลัมเปอร์ มีชื่ออยู่บนผนังด้านหน้า และมีป้ายถนนสีเขียวกับป้ายแผนกฉุกเฉินอยู่ด้านหน้า'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ครอบครัวชาวอินโดนีเซียบินมาปีนังเพื่อผ่าตัดบายพาสหัวใจ คู่รักจากอ่าวเปอร์เซียมาทำ IVF และผู้เกษียณจากออสเตรเลียจองการตรวจสุขภาพทั้งตัวที่จะมีค่าใช้จ่ายสามเท่าที่บ้าน เมื่อรวมกันพวกเขาเป็นส่วนหนึ่งของอุตสาหกรรมที่เงียบซึ่งนำผู้คนกว่า 1.6 ล้านคนมามาเลเซียในปีเดียว ไม่ใช่เพื่อเที่ยวชม แต่เพื่อรักษาให้หายดี

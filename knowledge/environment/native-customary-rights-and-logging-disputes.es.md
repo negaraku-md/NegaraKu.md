@@ -29,7 +29,7 @@ faq:
     a: "Las licencias madereras y los arrendamientos de plantaciones emitidos por el estado pueden abarcar áreas que las comunidades reclaman como tierra consuetudinaria. Cuando las partes discrepan sobre si un área es tierra NCR, la disputa suele resolverse en los tribunales."
 
 lang: "es"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title", "derechos consuetudinarios nativos", "tierra NCR", "disputas de tala", "título nativo"]
 framework: explainer
+hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'
+heroAlt: 'Un camión cargado de grandes troncos de madera dura tropical circula por una carretera mojada junto a la selva tropical en Sarawak.'
+heroCredit: 'Andrew Garton / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: Vista aérea de plantaciones de palma aceitera que cubren tierras forestales desbrozadas en Sarawak, Borneo
+    kind: actual
+    origin: third-party
+    subject: Plantaciones de palma aceitera sobre antiguas tierras forestales, Sarawak
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: Troncos de madera dura tropical apilados en un patio de almacenamiento y embarque de madera en Kalabakan, Sabah
+    kind: actual
+    origin: third-party
+    subject: Patio de almacenamiento de troncos de madera, Kalabakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 Una comunidad de una casa comunal (longhouse) dice que una franja de bosque le ha pertenecido durante generaciones. Una empresa maderera o de plantaciones posee una licencia, emitida por el estado, que abarca el mismo terreno. Ambas apelan a la ley. En Sarawak y Sabah, esa colisión se ha litigado en los tribunales durante más de dos décadas — y los tribunales no siempre han coincidido sobre dónde cae la línea.

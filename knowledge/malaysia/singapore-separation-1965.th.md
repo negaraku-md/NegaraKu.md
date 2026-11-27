@@ -79,6 +79,13 @@ relations:
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
 framework: history-culture
+hero: '/media/malaysia/singapore-separation-1965/hero.webp'
+heroAlt: 'ทางเชื่อมยะโฮร์–สิงคโปร์ทอดตัวต่ำข้ามช่องแคบยะโฮร์ที่ระยิบระยับ นำทั้งถนนและทางรถไฟมุ่งสู่แนวชายฝั่งสิงคโปร์ที่ขอบฟ้า เมื่อมองจากฝั่งมาเลเซีย'
+heroCredit: 'Ralff Nestor Nacor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ประเทศหนึ่งสูญเสียรัฐผู้ก่อตั้งในสุดสัปดาห์เดียว ข้อตกลงถูกลงนามในวันเสาร์ การแก้ไขรัฐธรรมนูญผ่านในวันจันทร์ และภายในเวลา 10.00 น. ของวันจันทร์เดียวกันนั้น ประกาศเอกราชกำลังถูกอ่านทางวิทยุสิงคโปร์ (Radio Singapura) สหพันธ์ส่วนใหญ่ที่แตกสลายทำเช่นนั้นอย่างช้าและเสียงดัง อันนี้ถูกยุบ ในความหมายทางกฎหมาย ในเวลาราวสี่สิบแปดชั่วโมง ด้วยเอกสารที่ร่างในความลับและลงนามโดยรัฐมนตรีสิบห้าคน

@@ -35,7 +35,7 @@ faq:
     a: "不是。格荣衫是宽松、遮盖身形的长身上衣，配以纱笼布穿着。格芭雅则是更贴合身形的前开襟上衣，以扣针（kerongsang，胸针）或纽扣扣合，并搭配纱笼。格芭雅通常比格荣衫更贴身。"
 
 lang: "zh"
-sourceContentHash: "f68d5254e084ffde"
+sourceContentHash: "bb6d687ae190958e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,34 @@ relations:
 related: ["songket", "batik", "hari-raya-aidilfitri"]
 keywords: ["baju Melayu", "baju kurung", "kebaya", "samping", "songkok", "cekak musang", "Teluk Belanga", "pakaian tradisional Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/traditional-malay-attire/hero.webp'
+heroAlt: '开斋节时，一家三口马来人身着协调的淡黄色服装在屋前门廊微笑合影，男子穿巴迪马来上衣和长裤，两侧是身着马来套装（baju kurung）、戴头巾的两位女子'
+heroCredit: 'Sham Hardy / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Eid_Mubarak_2012_-_Sham_Hardy_%26_Family_(7869196374).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian family in matching pale-yellow traditional dress for Hari Raya in Kuala Lumpur, the man in baju Melayu and the two women in baju kurung'
+
+images:
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-1.webp
+    alt: 一大群马来男子席地而坐诵读《古兰经》，每人穿着不同颜色的马来传统服装（baju Melayu），戴着黑色天鹅绒宋谷帽（songkok），铺着红地毯的清真寺大厅坐满了人
+    kind: actual
+    origin: third-party
+    subject: 马来西亚雪兰莪一场王室婚礼祈祷聚会上，一排排身穿彩色马来传统服装、戴黑色宋谷帽的马来男子
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Doa_Selamat_Pernikahan_Diraja_Raja_Muda_Selangor_06.jpg
+  - role: scene
+    src: /media/arts-culture/traditional-malay-attire/body-2.webp
+    alt: 一名男子站在白色背景前，身穿宝蓝色立领马来传统服装（baju Melayu），戴黑色天鹅绒宋谷帽，腰间折着一条光亮的蓝色花卉宋吉锦围布（samping）盖在裤子外
+    kind: actual
+    origin: third-party
+    subject: 一名男子展示整套男装马来传统服饰，宝蓝色上衣配黑色宋谷帽和宋吉锦围布（samping），白色影棚背景
+    credit: Titiwangsapost / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Baju_Melayu_Biru.jpg
 ---
 
 留意一位正准备参加开斋节或婚礼的男子。宽松的上衣已经穿上，长裤也已套好——但他还没准备好。剩下的是两样决定他看起来穿戴齐全还是只穿了一半的东西：一块缠在腰间的三邦布，以及头上的一顶宋谷帽。少了这两样，巴汝马来还不算真正的巴汝马来。

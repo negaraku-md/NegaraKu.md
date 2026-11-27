@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0965237e8942626f"
+sourceContentHash: "103497bb6aab9389"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
 framework: data-reference
+hero: '/media/environment/deforestation-and-forest-loss-in-malaysia/hero.webp'
+heroAlt: 'Kabus berarak di antara pokok tinggi dan pakis pokok dalam hutan hujan tropika yang padat dan tidak terusik di Taman Kinabalu, Borneo'
+heroCredit: 'Dukeabruzzi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Intact misty rainforest in Kinabalu Park, Borneo — the forest at stake'
+images:
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-1.webp
+    alt: Pandangan udara sekeping pulau hutan hujan asli gelap terpencil dikelilingi barisan ladang kelapa sawit yang seragam di Sabah, Borneo Malaysia
+    kind: actual
+    origin: third-party
+    subject: Sebidang baki hutan hujan asli dikelilingi ladang kelapa sawit di Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_and_rainforest_fragment_Borneo.JPG
+  - role: scene
+    src: /media/environment/deforestation-and-forest-loss-in-malaysia/body-2.webp
+    alt: Pandangan udara tinggi hutan hujan dibelah jaringan jalan pembalakan pucat dan ceruk terbuka berwarna jingga di Sabah, Borneo Malaysia
+    kind: actual
+    origin: third-party
+    subject: Hutan dibelah jalan pembalakan dan kawasan terbuka untuk kelapa sawit di Sabah
+    credit: T. R. Shankar Raman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG
 ---
 
 Tanya tiga sumber yang boleh dipercayai tentang berapa banyak kawasan Malaysia yang masih berhutan, dan anda boleh mendapat tiga jawapan yang berbeza sebanyak sepuluh mata peratusan — semuanya boleh dipertahankan, semuanya mengukur sesuatu yang sedikit berbeza. Jurang itu bukan ralat pembundaran; ia merupakan keseluruhan hujah tentang penyahhutanan Malaysia dalam bentuk kecil.

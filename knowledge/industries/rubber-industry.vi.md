@@ -34,7 +34,7 @@ faq:
     a: "Trung Quốc là điểm đến lớn nhất cho tới nay, mua khoảng 49% xuất khẩu cao su tự nhiên vào tháng 12 năm 2024, tiếp theo là Đức (12.9%), Các Tiểu vương quốc Ả Rập Thống nhất (7.3%), Hoa Kỳ và Bồ Đào Nha."
 
 lang: "vi"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'Một cây cao su với vết cạo chéo tươi, mủ trắng nhỏ xuống dọc thân cây vào một chiếc chén đen buộc ở gốc'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: Những hàng cây cao su mảnh khảnh ngay ngắn với thân cây nhợt nhạt loang lổ trải dài về phía xa trên nền đồn điền cỏ mọc, những chén hứng mủ nhỏ sẫm màu gắn thấp trên nhiều thân cây
+    kind: actual
+    origin: third-party
+    subject: những hàng cây cao su trưởng thành ngay ngắn gắn chén hứng mủ tại một đồn điền ở Johor, xương sống của ngành cao su Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: Một người đàn ông mặc áo xám đưa một tấm mủ cao su ép trắng qua các trục nặng của một máy cán gang màu vàng ở rìa một vườn cao su, một trục có gân thứ hai bên cạnh anh ta
+    kind: representative
+    origin: third-party
+    subject: một công nhân đưa tấm mủ cao su đông tụ qua máy cán tấm cao su quay tay, một bước quan trọng trong chế biến cao su thiên nhiên
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 Cao su đã dựng nên Malaya thuộc địa không còn kiếm sống trong đồn điền — nó kiếm sống trên sàn nhà máy. Malaysia vẫn cạo mủ cây, nhưng vận may cao su của nó nay dựa vào những chiếc găng tay y tế, lốp xe và hàng mủ cao su mà nó chế tạo, một ngành kinh doanh xử lý nhiều cao su hơn cả những gì đất nước tự trồng.

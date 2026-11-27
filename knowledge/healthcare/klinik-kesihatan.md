@@ -67,6 +67,32 @@ relations:
 related: ["dental-care"]
 keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera temujanji klinik", "PeKa B40", "penjagaan kesihatan primer Malaysia", "KKM klinik kesihatan", "klinik komuniti vs klinik kesihatan", "cara daftar klinik kesihatan"]
 framework: explainer
+hero: '/media/healthcare/klinik-kesihatan/hero.webp'
+heroAlt: 'Pintu masuk dan papan tanda Klinik Kesihatan Jalan Lanang, sebuah klinik kesihatan komuniti Kementerian Kesihatan Malaysia, dengan bendera negara dan negeri.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: Blok utama sebuah klinik kesihatan kerajaan Malaysia (Klinik Kesihatan) dengan laluan masuk berbumbung
+    kind: actual
+    origin: third-party
+    subject: Bangunan utama Klinik Kesihatan Jalan Lanang, sebuah klinik kesihatan kerajaan di Sibu, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: Sebuah klinik kesihatan kampung luar bandar (Klinik Desa) satu tingkat yang kecil di sebuah pulau, satu-satunya kemudahan kesihatan di situ
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman, satu-satunya klinik kesihatan luar bandar di pulau Pulau Aman, Pulau Pinang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 Demam tak reda, anak perlu suntikan imunisasi, atau tekanan darah perlu dipantau

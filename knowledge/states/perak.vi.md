@@ -40,7 +40,7 @@ verificationNeeded:
   - "Cập nhật con số dân số và GDP khi ấn phẩm mới hơn của DOSM được công bố."
 
 lang: "vi"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,9 +111,35 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
 framework: profile
+hero: '/media/states/perak/hero.webp'
+heroAlt: 'Tòa nhà ga xe lửa Ipoh thời thuộc địa màu trắng, có mái vòm với những hàng cột cuốn vòm dưới bầu trời quang đãng.'
+heroCredit: 'FBilula / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: Dinh thự và tháp gạch đỏ còn dang dở của Kellie's Castle đứng giữa cây cối xanh tươi gần Batu Gajah ở Perak.
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Batu Gajah, Perak
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: Những nhũ đá và khối thạch nhũ được chiếu sáng lấp đầy hang đá vôi rộng lớn của Gua Tempurung gần Gopeng ở Perak.
+    kind: actual
+    origin: third-party
+    subject: Hang đá vôi Gua Tempurung, Gopeng, Perak
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 Vào ngày 20 tháng 1 năm 1874, một bản hiệp ước được ký trên vùng biển gần

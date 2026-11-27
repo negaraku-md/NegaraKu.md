@@ -36,7 +36,7 @@ socialTitle: "أقدم شعر شفهي عند الملايويين — قصة ا
 lang: "ar"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -75,6 +75,33 @@ verificationNeeded:
   - "لا يمكن الجزم بالتاريخ الدقيق لنشأة فن البانتون؛ وأقوى آراء العلماء يربطه بنحو القرن الخامس عشر، أي قبل سجلّات الملايو (Sejarah Melayu) (~1612). وهذا الرقم لا يزال موضع جدل وليس تاريخًا قطعيًّا."
   - "يختلف الحد الأقصى لطول البانتون الطويل بين المصادر (يذكر بعضها حتى 16 بيتًا، وبعضها الآخر حتى نحو 22 بيتًا)؛ والعدد المؤكد غير موحّد."
 framework: history-culture
+wikidata: "Q960672"
+hero: '/media/arts-culture/pantun/hero.webp'
+heroAlt: 'فنّانون ماليزيون بزيّ تقليدي أخضر وذهبي وأغطية رأس مزخرفة، يجلسون على الأرض ويؤدّون حركات يد متناسقة خلال عرض ديكير بارات، وأمامهم طبول يدوية.'
+heroCredit: 'Stsanto / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: دمى خيال ظلّ جلدية منحوتة بدقّة لشخصيات أسطورية تلقي ظلالًا حادّة على شاشة متوهّجة خلال عرض wayang kulit على طراز Kelantan-Patani.
+    kind: actual
+    origin: third-party
+    subject: مسرح خيال الظلّ wayang kulit على طراز Kelantan-Patani
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: فرقة gamelan ملايوية منحوتة بزخرفة، مؤلّفة من أجراس برونزية وأجراس قِدرية ومعدنيات صوتية خشبية، معروضة في متحف الموسيقى في Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: فرقة gamelan ملايوية في متحف الموسيقى، Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

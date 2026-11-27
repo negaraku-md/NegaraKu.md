@@ -35,7 +35,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -88,6 +88,38 @@ relations:
 related: ["after-spm-options", "pre-university-routes", "malaysian-qualifications-agency-and-accreditation"]
 keywords: ["depósito universitario Malasia", "comprobar acreditación MQA", "MQR mqr.gov.my", "¿está acreditado mi curso?", "política de reembolso universidad Malasia", "entidad otorgante twinning 3+0", "universidad privada Malasia IPTS", "Act 555", "antes de pagar las tarifas universitarias"]
 framework: how-to
+stayFacts:
+  who: 'Esto es para estudiantes y padres que tienen una oferta de un colegio universitario y están a punto de pagar un depósito o una tasa de matrícula, a menudo el primer dinero comprometido y, con frecuencia, no reembolsable.'
+  how: 'Antes de pagar, verifica cinco cosas por escrito: que el programa exacto figura en el MQR; que la institución es un proveedor registrado (un IPTS conforme a la Private Higher Educational Institutions Act 1996 (Act 555), o una universidad pública o campus filial reconocido); para un programa de twinning o 3+0, quién otorga el certificado final; el calendario completo de tasas por escrito para todo el programa; y la cláusula de reembolso y baja.'
+  cost: 'El depósito es solo una fracción: pide el calendario completo de tasas por escrito para todo el programa (matrícula, tasa por semestre, recursos, exámenes, seguro y tasas de estudiante internacional), no solo del primer año, y confirma a qué concepto se imputa el depósito.'
+  watch: 'Los depósitos suelen ser no reembolsables y no existe un derecho legal nacional de desistimiento: lo que puedes recuperar lo fija la propia política escrita de la institución. Un «traslado garantizado al tercer curso» es decisión de la universidad asociada, no del colegio local; consíguelo por escrito.'
+  next: 'Plantea por escrito a la institución cada comprobación y guarda las respuestas antes de que salga ningún dinero de tu cuenta; verifica primero el programa exacto en el MQR. Consulta la explicación sobre la acreditación de la MQA.'
+hero: '/media/education/before-paying-a-college-deposit/hero.webp'
+heroAlt: 'Las torres del Lakeside Campus de la Taylor''s University reflejadas en un lago al anochecer, con un letrero rojo "TAYLOR''S UNI" en el edificio principal.'
+heroCredit: 'Yewvie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: La fachada acristalada del RCSI and UCD Malaysia Campus, una universidad privada del tipo que pide a los nuevos estudiantes un depósito de matrícula.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), Penang
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: Un moderno bloque de aulas en el campus de la Sunway University, una institución privada donde los aspirantes sopesan las tasas y los depósitos antes de comprometerse.
+    kind: actual
+    origin: third-party
+    subject: Edificio del campus de Sunway University, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 El depósito suele ser el primer dinero que una familia entrega a una universidad

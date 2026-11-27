@@ -71,9 +71,37 @@ wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
 framework: profile
+hero: '/media/states/penang/hero.webp'
+heroAlt: 'George Town Dispensary 1923 berwarna krim, sebuah bangunan warisan sudut era kolonial dengan tingkap melengkung dan fasad berbidai, di George Town, Pulau Pinang'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The 1923 George Town Dispensary heritage corner building in George Town, Penang'
+
+images:
+  - role: scene
+    src: /media/states/penang/body-1.webp
+    alt: Sebaris rumah kedai warisan dua tingkat yang disinari matahari dengan tingkap bertingkap kayu dan kaki lima bertiang di sepanjang jalan di George Town, Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Sebaris rumah teres warisan dua tingkat bersejarah di sepanjang jalan di George Town, Pulau Pinang
+    credit: shankar s. / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_historic_streets_of_Georgetown_(12255336134).jpg
+  - role: scene
+    src: /media/states/penang/body-2.webp
+    alt: Bot nelayan kayu lusuh ditambat di sebelah rumah tepi laut berpancang di Jeti Clan Chew, memandang merentasi ke terminal feri Weld Quay di George Town, Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Bot kayu dan rumah berpancang di Jeti Clan Chew di tepi laut George Town, Pulau Pinang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Chew_Jetty_view.jpg
 ---
 
 Pulau Pinang jauh lebih berpengaruh berbanding saiznya. Ia merupakan salah satu

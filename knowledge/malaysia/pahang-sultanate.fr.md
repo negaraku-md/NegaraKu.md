@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs retraçant la formation des maisons royales malaises de la côte est de la Malaisie, et toute personne souhaitant comprendre l'origine, la guerre civile et le renouveau moderne du Sultanat de Pahang."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "La date exacte de la proclamation de Wan Ahmad comme sultan est donnée de manière incohérente selon les sources — le titre fut assumé en 1881, avec une proclamation formelle rapportée le 8 septembre 1881 et une installation formelle ultérieure datée de 1884 ; la séquence précise devrait être confirmée par une source savante telle que A History of Pahang de Linehan."
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: 'Un imposant palais blanc de l''époque coloniale, aux toits de tuiles rouges et portant une écriture jawi au-dessus de son entrée en arc, se reflète dans un bassin immobile flanqué de sculptures de grues sous un ciel nuageux.'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: La mosquée d'État Sultan Ahmad Shah à Kuantan, couronnée d'une grande coupole centrale et flanquée de hauts minarets, vue de face dans son intégralité.
+    kind: actual
+    origin: third-party
+    subject: Mosquée d'État Sultan Ahmad Shah, Kuantan, Pahang
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: Un bâtiment symétrique de l'époque coloniale, blanc, au toit de tuiles rouges et à la porte centrale en arc, se reflétant dans un bassin immobile orné de sculptures de grues, abritant le Sultan Abu Bakar Museum à Pekan.
+    kind: actual
+    origin: third-party
+    subject: Sultan Abu Bakar Museum (ancien palais royal), Pekan, Pahang
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 Le long de la rivière Pahang, où l'ancienne ville royale de Pekan se dresse encore près de l'embouchure, un trône resté silencieux pendant deux siècles fut de nouveau élevé. En 1881, les chefs de Pahang se rassemblèrent non pour couronner un étranger mais pour restaurer un titre que leur terre avait autrefois porté — et l'homme qu'ils proclamèrent sultan avait gagné ce droit à la dure, en défaisant son propre demi-frère dans une guerre longue et amère. Voici l'histoire de la façon dont la couronne de Pahang fut perdue au sein d'un empire plus vaste, et dont le fils d'un premier ministre la ramena.

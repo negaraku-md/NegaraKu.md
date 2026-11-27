@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c72e45b82ec49a6"
+sourceContentHash: "94e17b8d88006526"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "2025 செப். 30-உடன் முடிந்த ஒன்பது மாதங்களுக்கு குழும YTD லாபம் RM403.3 மில்லியன் (2025 நவ. 27 அன்று வெளியிடப்பட்டது) — அடுத்த காலாண்டு மற்றும் ஆண்டு முடிவுகளுடன் சரிபார்க்கவும்."
   - "'150 மில்லியனுக்கும் அதிகமான வாடிக்கையாளர்கள்' என்பது 2019 நிறுவன எண்ணையும் அடுத்தடுத்த சந்தை வளர்ச்சியையும் அடிப்படையாகக் கொண்டது; தற்போதைய குழும வாடிக்கையாளர் மொத்தத்தை சமீபத்திய ஆண்டறிக்கையுடன் சரிபார்க்கவும்."
 framework: profile
+hero: '/media/companies/axiata/hero.webp'
+heroAlt: 'Kuala Lumpur-ல் உள்ள Axiata Arena-வின் முன் நுழைவாயில்; அதன் துளையிட்ட வெள்ளி முகப்பில் பெரிய நீல-மெஜந்தா ''axiata arena'' பெயரும் முக்கோண சின்னமும்'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Axiata Arena, the Axiata Group-named national indoor stadium at Bukit Jalil, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/axiata/body-1.webp
+    alt: விளையாட்டு நிகழ்வு ஒன்றின் போது 'axiata arena' என்ற பிரம்மாண்டமான நீல-மெஜந்தா நிற பலகையின் கீழ், Axiata Arena-வின் முதன்மை நுழைவாயிலுக்கு வெளியே கூடியிருக்கும் மக்கள்
+    kind: actual
+    origin: third-party
+    subject: ஒரு நிகழ்வின் போது புக்கிட் ஜாலில்லில் உள்ள Axiata Arena-வின் முதன்மை நுழைவாயிலில் கூட்டம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  - role: scene
+    src: /media/companies/axiata/body-2.webp
+    alt: 2017 SEA Games-இல் பூப்பந்து போட்டியின் போது நிரம்பிய Axiata Arena-வின் உட்புறம்; மைதானத்தைச் சுற்றியுள்ள படிநிலை நீல நிற இருக்கைகளில் பார்வையாளர்கள் நிறைந்துள்ளனர்
+    kind: actual
+    origin: third-party
+    subject: 2017 SEA Games பூப்பந்து நிகழ்வின் போது Axiata Arena-வின் உட்புறம்
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+wikidata: "Q792500"
 ---
 
 மலேசியாவின் மிகப்பெரிய தொலைத்தொடர்புக் கதை ஒரே வலையமைப்பு அல்ல, மாறாக ஆறு நாடுகளில் மொபைல் இயக்குநர்களின் பங்குகளைச் சொந்தமாக்கும் ஒரு ஹோல்டிங் நிறுவனம். Axiata Group Berhad, Kuala Lumpur Sentral-இல் ஒரு அலுவலகக் கோபுரத்தில் அமர்ந்து, தெற்கு மற்றும் தென்கிழக்கு ஆசியா முழுவதும் நூற்றுக்கணக்கான மில்லியன் மக்களை இணைக்கும் கேரியர்களைக் கட்டுப்படுத்துகிறது, பகுதி உரிமையாக்குகிறது அல்லது கூட்டாக நடத்துகிறது.

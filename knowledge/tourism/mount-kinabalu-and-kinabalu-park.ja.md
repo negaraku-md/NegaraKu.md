@@ -39,7 +39,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -91,9 +91,43 @@ sources:
     publisher: "Mount Kinabalu（ステラ・サンクチュアリ・ロッジ／キナバル・ユネスコ世界ジオパーク提携）"
 
 entity: "Kinabalu Park"
-related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "gunung-mulu-national-park"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "Low's Peak", "UNESCO World Heritage", "climbing permit", "Laban Rata", "Panalaban", "Poring Hot Springs", "Sabah", "Nepenthes rajah"]
 framework: profile
+visitFacts:
+  bestFor: 'マレーシア最高峰での夜明けを目指す、体力があり準備の整った登山者と、公園の麓で涼しい山の空気、食虫植物、自然の小道、温泉を楽しみたい日帰りの訪問者の双方に向いている。'
+  getThere: 'サバの州都Kota Kinabaluから陸路でアクセスし、北東の高地へと曲がりくねった山道を公園本部まで走る。'
+  permit: '山頂への登頂は許可制で、公園の登山許可証と公認のSabah Parks山岳ガイドの双方が必須であり、1日の定員には上限があり、ほぼ全員が公園の運営業者を通じて山中の宿泊ベッドを事前予約しなければならない——よって十分に前もって押さえておくこと。'
+  watch: '高度と体力が物を言う、過酷な2日間の高地登山であり、山は独自の天候を生み出す；大地震のような出来事の後にはアクセスやルートが変わり得るため、最新の情報をもとに計画すること。'
+  next: '現在の許可、ガイド、宿泊の規則と料金は、Sabah Parksで確認すること。'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: '朝、サバ州の雲と緑の麓の上にそびえる、キナバル山のギザギザの花崗岩の頂'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: 青空の下、キナバル山の岩の頂の下にある、むき出しの花崗岩の山頂台地を横切る登山者たち
+    kind: actual
+    origin: third-party
+    subject: むき出しの岩の台地に登山者がいるキナバル山の花崗岩の頂
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: キナバル公園の山地の植生の間に育つ、大きな赤と緑のネペンテス・ラジャのウツボカズラ
+    kind: actual
+    origin: third-party
+    subject: キナバル公園のネペンテス・ラジャの巨大ウツボカズラ
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 ボルネオの熱帯雨林からまっすぐ4,000メートル余りまでそそり立つ花崗岩の冠、いくつかの大陸よりも多くの植物種を擁する世界遺産の公園、そしてフライトを予約する前に予約しなければならないほど厳しく割り当てられた山頂登山——キナバル山はマレーシアで最も有名な自然のランドマークであり、実際に訪れるのに最も段取りを要する場所の一つです。それはボルネオのマレーシア側、サバ州にあり、まったく異なる二種類の旅行者に報います。ヒマラヤとニューギニアの間の最高峰で夜明けを追う、体力のある段取り上手な登山者と、ただ涼しい山の空気、奇妙な食虫植物、そして温泉での一浴を求める日帰り客です。本ガイドはその両方を、そして人が出発前にきまって間違えることを扱います。

@@ -18,7 +18,7 @@ keyTakeaways:
   - "El Monzón del Noreste (nov–mar) empapa la costa este de la Península, el oeste de Sarawak y el norte de Sabah; el Monzón del Suroeste (may–sep) es comparativamente más seco — un ritmo que todavía hoy determina la temporada de inundaciones y los calendarios agrícolas (Departamento Meteorológico de Malasia)"
 appliesTo: "Cualquiera que intente entender por qué la población, las ciudades y el riesgo de inundaciones de Malasia se agrupan donde lo hacen — estudiantes, recién llegados, planificadores o cualquiera desconcertado por qué «temporada de monzones» significa cosas distintas en costas distintas."
 lang: "es"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ faq:
   - q: ¿Por qué la mayoría de los malasios vive cerca de las costas en lugar del interior?
     a: Cada masa de tierra está dominada por una espina montañosa central —la cordillera de Titiwangsa en la Península, la cordillera de Crocker en Sabah— flanqueada solo por estrechas llanuras costeras. Esas tierras altas empujan el asentamiento hacia afuera, hacia las llanuras costeras y los valles fluviales, y dejan el interior montañoso poco poblado. La resguardada llanura de la costa oeste de la Península, calmada por el estrecho de Malaca, alberga a la mayor parte de su población y a las ciudades más grandes, como Kuala Lumpur y George Town.
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: 'Una vista aérea de una llanura costera tropical donde un río sinuoso desemboca en el mar, con pueblos y parcelas de cultivo extendiéndose hacia el interior y terrenos ganados al mar de tono claro bordeando la costa bajo nubes dispersas.'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: Un escarpado acantilado kárstico de piedra caliza gris, cubierto de selva, se alza directamente desde un lago esmeralda en calma, con su pared reflejada en las aguas oscuras.
+    kind: actual
+    origin: third-party
+    subject: Acantilado kárstico de piedra caliza en Tasik Cermin (Mirror Lake), Ipoh, Perak
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: Una cala de arena blanca bordeada de cocoteros y cabañas de madera se encuentra con aguas turquesas y cristalinas en una pequeña isla tropical.
+    kind: actual
+    origin: third-party
+    subject: Playa tropical en Pulau Perhentian Kecil, Terengganu
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 Vuele a Kuala Lumpur desde Kota Kinabalu y cruzará algo más que una frontera interna: cruzará varios cientos de kilómetros de mar abierto. Malasia es un solo país grapado a través de dos masas de tierra separadas, y ese simple hecho de forma ha decidido en silencio casi todo lo demás: dónde están las ciudades, dónde están los arrozales y qué costa se inunda cada diciembre.

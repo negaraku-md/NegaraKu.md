@@ -21,7 +21,7 @@ appliesTo: "Pelajar, peneliti, pelancong, dan siapa pun yang mencari gambaran be
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,32 @@ verificationNeeded:
   - "Tanggal pendirian menurut tradisi pada 1136 M dan perubahan Phra Ong Mahawangsa menjadi Sultan Mudzaffar Shah I berasal dari Hikayat Kedah (Hikayat Merong Mahawangsa) dan At-Tarikh Salasilah Negeri Kedah; para sejarawan menganggap tanggal awal itu tidak mungkin, dan Richard Winstedt, mengutip sebuah catatan Aceh, memberikan tahun 1474 untuk perpindahan agama tersebut."
   - "Gambaran yang kerap muncul tentang Kedah sebagai 'kesultanan Melayu tertua' adalah penggambaran tradisional/populer dan tidak dikonfirmasi secara independen oleh sumber-sumber yang dikutip di sini."
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'Sebuah masjid Moor putih yang agung dimahkotai kubah bawang hitam bergerombol dan menara ramping, fasad melengkungnya yang berukir menjulang di atas plaza terbuka di bawah awan yang dramatis.'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: Balai Besar kerajaan berbahan kayu yang berhias di Alor Setar, sebuah paviliun terbuka berwarna kuning dengan tiang berukir, lis atap berlekuk dan atap bertingkat.
+    kind: actual
+    origin: third-party
+    subject: Balai Besar (balai menghadap kerajaan) di Alor Setar, Kedah
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: Menara Balai Nobat bersegi delapan yang tinggi di Alor Setar, sebuah struktur ramping menyerupai menara berwarna krem dan emas yang dimahkotai kubah bawang kecil, yang menaungi orkestra seremonial kerajaan.
+    kind: actual
+    origin: third-party
+    subject: Balai Nobat, menara segi delapan yang menaungi orkestra nobat kerajaan Kedah, di Alor Setar
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 Sedikit tempat di Malaysia yang memikul masa lalunya seterbuka Kedah. Jauh sebelum menara-menara masjid menjulang di atas Alor Setar, dataran hijau padi di antara Sungai Merbok dan Muda menjadi tempat pendaratan para pedagang yang menunggangi angin monsun antara India, Tiongkok, dan dunia Melayu. Para pelaut dan cendekiawan mengenal pesisir ini sebagai Kadaram atau Kataha; para arkeolog kini mengenalnya melalui gundukan-gundukan candi di Lembah Bujang. Dari awal yang kosmopolitan dan bercorak Hindu-Buddha itu tumbuhlah sebuah monarki Melayu yang akan mengarungi [Sriwijaya](/id/malaysia/srivijaya) dan Chola, Ayutthaya dan Bangkok, serta akhirnya Kerajaan Inggris.

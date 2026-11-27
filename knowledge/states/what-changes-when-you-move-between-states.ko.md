@@ -78,6 +78,13 @@ entity: "말레이시아 주 간 이주"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: '다차선 고속도로를 달리는 차들이 쿠알라룸푸르, 말라카, 조호르 지역을 가리키는 녹색 머리 위 방향 표지판을 지나며, 옆으로 기름야자 농원과 언덕이 있다.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아 안에서 이사를 하면 재등록의 산더미 — 새 서류, 새 번호, 모든 기관과의 새 출발 — 가 유발될 것처럼 느껴집니다. 대부분은 그렇지 않습니다. 그 이유는 구조적입니다: **말레이시아에서 삶의 공식적으로 느껴지는 대부분은 연방 사항**이고, 연방 시스템은 모든 주에서 동일하게 작동하므로 그저 따라옵니다. 실제로 바뀌는 것은 더 작고 지역적인 계층이며 — 어느 것이 어느 것인지 아는 것이 겁나는 이사를 짧은 체크리스트로 바꿔줍니다.

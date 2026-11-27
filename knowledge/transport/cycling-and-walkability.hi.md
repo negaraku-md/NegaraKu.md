@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "निवासी, योजनाकार, और कोई भी जो मलेशियाई शहरों की पैदल-चलने-योग्यता और साइकिल बुनियादी ढाँचे की तुलना अन्य देशों से कर रहा हो।"
 
 lang: "hi"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -64,9 +64,35 @@ entity: "Active mobility (walking and cycling)"
 relations:
   - { rel: "related-to", to: "klang-valley-rail" }
   - { rel: "related-to", to: "e-hailing-grab" }
-related: []
+related: ["e-scooters-and-personal-mobility-devices", "klang-valley-and-city-buses", "parking-in-malaysian-cities"]
 keywords: ["मलेशिया में पैदल-चलने-योग्यता", "मलेशियाई शहरों में साइकिल चलाना", "मलेशिया में पैदल-यात्री बुनियादी ढाँचा", "KL पैदल-यात्री एवं साइकिल मास्टरप्लान", "मलेशिया में कार निर्भरता", "मलेशिया में सक्रिय गतिशीलता", "walkability Malaysia", "cycling Malaysia cities", "pedestrian infrastructure Malaysia", "KL Pedestrian and Cycling Masterplan", "car dependency Malaysia", "active mobility Malaysia"]
 framework: explainer
+hero: '/media/transport/cycling-and-walkability/hero.webp'
+heroAlt: 'नीले आसमान के नीचे सफेद साइकिल चिह्न, साइकिल स्टैंड और पेड़ों के साथ एक लाल पक्की साइकिलिंग और जॉगिंग ट्रैक।'
+heroCredit: 'Central Spectrums Sdn Bhd / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: पेनांग के जॉर्ज टाउन में एक व्यस्त मुख्य सड़क के किनारे चलता पक्का साझा साइकिलिंग और पैदल पथ।
+    kind: actual
+    origin: third-party
+    subject: जॉर्ज टाउन, पेनांग में साझा साइकिल और पैदल पथ
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: मध्य कुआलालंपुर में जालान तुन रज़ाक के किनारे हरियाली से घिरा एक चौड़ा ढका हुआ पैदल मार्ग।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में जालान तुन रज़ाक पैदल मार्ग
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 क्लांग वैली की किसी LRT स्टेशन से दोपहर 1 बजे बाहर निकलिए और अपने दफ़्तर तक

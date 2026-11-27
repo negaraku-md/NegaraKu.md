@@ -29,7 +29,7 @@ faq:
     a: "Non. Le RTS Link est une courte navette transfrontalière entre Johor Bahru et Woodlands, dont l'ouverture est visée pour 2026. Le HSR est une ligne à grande vitesse distincte, d'environ 350 km, prévue entre Kuala Lumpur et Singapour."
 
 lang: "fr"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,32 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["HSR KL Singapour", "train à grande vitesse Malaisie", "MyHSR Corp", "indemnité annulation HSR", "relance HSR RFP", "high-speed rail Malaysia"]
 framework: history-culture
+hero: '/media/transport/kl-singapore-high-speed-rail/hero.webp'
+heroAlt: 'Une rame de train à grande vitesse blanche et orange à l''arrêt sur le quai d''une gare tandis que les passagers montent.'
+heroCredit: '4300streetcar / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: Une rame de Taiwan High Speed Rail à quai dans une gare, présentée comme un chemin de fer régional à grande vitesse comparable.
+    kind: representative
+    origin: third-party
+    subject: Train à grande vitesse en service dans la région (Taiwan High Speed Rail), représentatif d'un futur HSR KL-Singapour
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: Un train à grande vitesse Shinkansen de la série N700 en gare de Hiroshima, au Japon, présenté comme un chemin de fer régional à grande vitesse comparable.
+    kind: representative
+    origin: third-party
+    subject: Train à grande vitesse en service dans la région (le Shinkansen N700 du Japon), représentatif d'un futur HSR KL-Singapour
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 Un train à grande vitesse qui pourrait vous emmener de Kuala Lumpur à Singapour en environ 90 minutes a été signé, suspendu, annulé, pleuré et ressuscité — le tout sans qu'une seule voie ait été posée. Voici où en est réellement ce projet qui ne cesse de s'allumer et de s'éteindre.

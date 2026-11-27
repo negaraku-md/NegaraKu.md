@@ -65,6 +65,24 @@ wikidata: "Q14933204"
 relations: []
 related: []
 keywords: ["MITI", "Ministry of Investment Trade and Industry", "MITI Malaysia", "Kementerian Pelaburan Perdagangan dan Industri", "MITI agencies", "MIDA", "MATRADE", "MPC", "MITI minister", "NIMP 2030", "Ministry of International Trade and Industry", "KPDN"]
+hero: '/media/government/ministry-of-investment-trade-industry-miti/hero.webp'
+heroAlt: 'Low-angle view of Menara MITI, a tall curved blue-glass office tower with a tapered crown, rising against a lightly clouded sky in Kuala Lumpur'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_MITI,_Segambut_20230304_115907.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara MITI, the Ministry of Investment, Trade and Industry tower at KL Metropolis, Segambut, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/government/ministry-of-investment-trade-industry-miti/body-1.webp
+    alt: 'Street-level view of the KL Metropolis trade district: the tall blue-glass Menara MITI tower on the right next to a large dark exhibition building with a monumental arched opening, under an overcast sky'
+    kind: actual
+    origin: third-party
+    subject: Menara MITI (right) beside the arched MITEC / MATRADE exhibition complex at KL Metropolis, Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MATRADE_Exhibition_and_Convention_Centre_and_Menara_MITI_in_April_2020.jpg
 ---
 
 Look closely at the four letters and you will spot the trick: **MITI** used to stand for the Ministry of *International* Trade and Industry. Since April 2023 it has stood for the Ministry of **Investment**, Trade and Industry (Malay: *Kementerian Pelaburan, Perdagangan dan Industri*) — same acronym, one changed word, a slightly changed mandate. This is Malaysia's federal ministry for investment, international trade and industrial policy, and this page explains what it does, who runs it, and how it differs from its own agencies.

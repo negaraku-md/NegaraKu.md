@@ -34,7 +34,7 @@ verificationNeeded:
   - "에어보르네오(AirBorneo)의 현재 오지 항공 서비스 노선 수와 공항 목록은 에어보르네오나 CAAM에 직접 확인할 것. MAVCOM의 공개 RAS 페이지는 작성 시점에 노선 단위 세부 정보를 담고 있지 않았고 이 프로그램은 최근 운영자가 바뀌었음."
 
 lang: "ko"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,33 @@ relations:
 related: ["klang-valley-rail", "e-hailing-grab"]
 keywords: ["intercity travel Malaysia", "KTM ETS", "KTM Intercity", "express bus Malaysia", "Terminal Bersepadu Selatan", "TBS", "domestic flights Malaysia", "AirBorneo", "MASwings", "Rural Air Service", "Sabah Sarawak flights", "travelling between cities Malaysia"]
 framework: explainer
+hero: '/media/transport/intercity-travel/hero.webp'
+heroAlt: '승객들이 기다리는 역 승강장에 정차한 노랑·파란 KTM ETS Class 93 도시간 전기열차'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: 쿠알라룸푸르의 통합 시외버스 터미널인 Terminal Bersepadu Selatan의 널찍한 콘코스.
+    kind: actual
+    origin: third-party
+    subject: Terminal Bersepadu Selatan(TBS) 시외버스 터미널 콘코스, 쿠알라룸푸르
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: KTM 시외철도망의 허브인 KL 센트럴의 승강장에 정차한 ETS 시외 열차.
+    kind: actual
+    origin: third-party
+    subject: KL 센트럴의 KTM 시외철도 승강장
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 쿠칭(Kuching)으로 날아가거나, 콴탄(Kuantan)으로 버스를 타거나, 버터워스

@@ -35,7 +35,7 @@ verificationNeeded:
   - "Confirm current MRT Kajang Line length/station count directly with MRT Corp or Rapid Rail before publication — Ministry of Transport and Rapid Rail's own line page give slightly different figures (51km/31 stations vs 46km/29 stations), which this article has avoided repeating verbatim pending reconciliation."
 
 lang: "fr"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["train vallée de Klang", "Rapid KL", "ligne MRT Kajang", "ligne MRT Putrajaya", "ligne LRT Kelana Jaya", "Monorail KL", "KTM Komuter", "ligne Shah Alam", "LRT3", "KL Sentral", "se déplacer dans Kuala Lumpur sans voiture", "Klang Valley rail"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'Un élégant train rouge et blanc de la MRT Putrajaya Line sur un viaduc surélevé contre un ciel spectaculaire — le métro moderne de la vallée de Klang'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: Quai de métro souterrain moderne et épuré (Tun Razak Exchange) avec portes palières et afficheur d'arrivée des trains — la vue intérieure de la station. Aucun visage identifiable.
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: Une rame du monorail de KL en courbe sur son viaduc surélevé devant une mosquée et la ligne d'horizon de la ville — ajoute un second mode ferroviaire et un contexte de la vallée de Klang. Distinct du visuel principal (métro surélevé) et du body-1 (station souterraine).
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 Regardez pour la première fois une carte ferroviaire de la vallée de Klang et

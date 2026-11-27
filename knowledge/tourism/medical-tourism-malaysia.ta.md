@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'கோலாலம்பூரில் Prince Court Medical Centre இன் வளைந்த கூரைக் கட்டிடம், அதன் பெயர் முகப்பில் இருக்க, முன்னால் ஒரு பச்சை சாலை அடையாளப் பலகை மற்றும் அவசரப் பிரிவு பலகை.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒரு இந்தோனேசியக் குடும்பம் இதய பைபாஸுக்காக பினாங்குக்கு பறந்து வருகிறது, வளைகுடாப் பகுதியிலிருந்து ஒரு தம்பதி IVF-க்காக வருகிறார்கள், மேலும் ஆஸ்திரேலியாவைச் சேர்ந்த ஓய்வுபெற்ற ஒருவர் தனது சொந்த நாட்டில் மூன்று மடங்கு அதிகச் செலவாகும் ஒரு முழு-உடல் பரிசோதனையை முன்பதிவு செய்கிறார். இவர்கள் அனைவரும் சேர்ந்து, ஒரே ஆண்டில் 1.6 மில்லியனுக்கும் அதிகமான மக்களை மலேசியாவுக்குக் கொண்டுவந்த ஒரு அமைதியான தொழில்துறையின் ஒரு பகுதியாவர் — சுற்றுலாவுக்காக அல்ல, குணமடைவதற்காக.

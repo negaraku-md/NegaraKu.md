@@ -100,9 +100,10 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["Akta Kredit Pengguna 2025", "Consumer Credit Act", "BNPL Malaysia", "Suruhanjaya Kredit Pengguna", "Akta Sewa Beli 1967", "kadar faedah berkesan", "Rule of 78"]
 framework: explainer
+wikidata: "Q142235980"
 ---
 
 Bayar ansuran tiga bulan untuk sepasang kasut, atau bawa pulang kereta baharu dengan deposit 10% — dua urus niaga kredit yang lazim bagi rakyat Malaysia, tetapi sehingga baru-baru ini diperintah oleh dunia undang-undang yang jauh berbeza. Kini, kedua-duanya sedang disusun semula pada masa yang hampir serentak.

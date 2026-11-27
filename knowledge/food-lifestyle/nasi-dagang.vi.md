@@ -101,6 +101,7 @@ dishFacts:
   halal: "Một món Malay được ăn trên hết như một món điểm tâm và chợ búa vùng bờ đông, và được dọn tại các bàn tiệc lễ đặc biệt quanh dịp Hari Raya Aidilfitri — nên nó nằm thẳng trong bàn ăn Hồi giáo-Malay."
   eat: "Thường được ăn vào buổi sáng, hay được trao sang trong một gói lá chuối nhỏ gồm cơm bên cạnh cà ri cá ngừ sẫm, nhiều dầu và một ít dưa muối rắc lên. Đĩa ăn được bày lắp ghép, không chất đống: cơm dừa béo, gulai ikan tongkol đậm đà, acar sắc vị và đôi khi một thìa sambal ớt, ăn chung với nhau trong mỗi miếng."
   where: "Ở bờ đông Malaysia như một món điểm tâm và chợ búa, gắn mạnh với Terengganu và Kelantan, dù nay nó đã được bán xa ra ngoài những bang đó."
+wikidata: "Q3234514"
 ---
 
 Gọi bữa sáng ở bờ Đông Malaysia, và bạn có thể được trao một gói lá chuối nhỏ đựng cơm nhạt màu,

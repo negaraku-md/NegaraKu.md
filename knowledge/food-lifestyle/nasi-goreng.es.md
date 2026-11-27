@@ -98,6 +98,7 @@ dishFacts:
   halal: "Las versiones difieren según la cocina: los estilos mamak (indomusulmán) y malayo se construyen sobre pasta de chile, polvo de curry o belacan, mientras que el estilo yong chow de las cafeterías chinas va tachonado de char siu o lap cheong (cerdo). Como regla duradera, los cuencos de los puestos mamak y malayos evitan el cerdo y algunos de estilo chino lo usan; conviene preguntar en cada puesto."
   eat: "El plato estándar se remata con un huevo (revuelto con el arroz o frito y puesto encima) y un reparto de pepino fresco o chile en rodajas. El pattaya llega envuelto en una tortilla fina con un trazo de salsa de chile o tomate; es comida cotidiana que se come a cualquier hora, incluso de madrugada."
   where: "Es ante todo comida cotidiana: un fijo del puesto mamak abierto 24 horas y del kopitiam de barrio, un recurso fiable en el mercado nocturno y el puesto de comida callejera, y uno de los primeros platos que un cocinero casero aprende a improvisar. Dónde se come moldea la versión: kampung, ikan masin y belacan en cocinas caseras y puestos malayos; pattaya, USA y el estilo mamak en puestos mamak; cina, hailam y yong chow en cafeterías chinas."
+wikidata: "Q510666"
 ---
 
 Pide un nasi goreng en un puesto mamak a la una de la madrugada y no estarás tanto

@@ -29,7 +29,7 @@ faq:
     a: "يُعدّ صندوق الاستثمار الحكومي الماليزي Permodalan Nasional Berhad (PNB) مساهماً رئيسياً في شركات سايم داربي، وكان PNB بائع حصة UMW التي استحوذت عليها Sime Darby Berhad. تتغيّر نسب المساهمة الدقيقة مع الوقت وينبغي التحقق منها مقابل أحدث إفصاحات كل شركة لدى بورصة ماليزيا (Bursa Malaysia)."
 
 lang: "ar"
-sourceContentHash: "0cfe61fcdd1fea1a"
+sourceContentHash: "fabff4e526835bd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,34 @@ relations:
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "تفكيك سايم داربي", "Permodalan Nasional Berhad", "UMW Holdings", "تكتل بورصة ماليزيا", "Bursa Malaysia conglomerate"]
 framework: profile
+hero: '/media/companies/sime-darby-group/hero.webp'
+heroAlt: 'عمود مدخل مزرعة سايم داربي أبيض وأحمر يحمل شعار Sime Darby الأحمر بجانب طريق وصول المزرعة، تحفّه صفوف من نخيل الزيت تحت سماء زرقاء ساطعة'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sime_Darby_Plantations_Ladang_Salak_Divisyen_Sendayan_(220709).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Entrance signage of Sime Darby Plantation''s Ladang Salak estate, Divisyen Sendayan, Negeri Sembilan'
+
+images:
+  - role: scene
+    src: /media/companies/sime-darby-group/body-1.webp
+    alt: صهاريج تخزين كبيرة رمادية لزيت النخيل الخام تحمل شعار Sime Darby الأحمر في مجمّع صناعي في Kunak، صباح، مع نخلة جوز هند في المقدمة
+    kind: actual
+    origin: third-party
+    subject: صهاريج تخزين زيت النخيل الخام (CPO) التابعة لـ Sime Darby في Kunak، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kunak_Sabah_SimeDarbyPalmoilStorage-01.jpg
+  - role: scene
+    src: /media/companies/sime-darby-group/body-2.webp
+    alt: عمود علامة أبيض لـ Sime Darby Plantation يحمل شعار Sime Darby الأحمر واقفًا وسط غطاء أرضي أخضر أمام جدار من نخيل الزيت، مع خطوط كهرباء علوية فوقه
+    kind: actual
+    origin: third-party
+    subject: علامة عقار لمزارع Sime Darby على جانب طريق Sandakan–Lahad Datu، صباح
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Sign-Darby-Plantation-Marker-01.jpg
 ---
 
 أحد أقدم الأسماء المؤسسية في ماليزيا أصبح الآن ثلاث شركات، لا واحدة.

@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0211
 title: "阿都拉萨·胡先"
-seoTitle: 阿都拉萨·胡先
+seoTitle: "阿都拉萨·胡先: 马来西亚第二任首相 (1970–1976)"
 slug: "abdul-razak-hussein"
 category: "malaysia"
 subcategory: ["modern"]
@@ -71,6 +71,13 @@ verificationNeeded:
   - "对照首相领袖基金会与首相署，确认确切日期（首相任期、出生、逝世）。"
   - "各资料对国阵成立年份说法不一（该联盟于1973年成形，并于1974年正式注册）；在依赖之前，请确认确切日期与措辞。"
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: '阿都拉萨·胡先头戴黑色songkok帽，身穿深色西装并系着蓝色花纹领带，正面朝前，在金色锦缎帷幕前拍摄的正式官方肖像。'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在短短几个动荡的年头里，敦阿都拉萨·胡先从一个处于紧急统治之下的国家的宪制看守者，变为其现代经济秩序的首席缔造者。马来西亚第二任首相执政仅仅五年，然而他所建起的框架——一个平权行动的经济、一个主导性的联盟与一套务实的外交政策——在他骤然逝世于任内之后，塑造了国家数十载。对许多马来西亚人而言，他至今仍只是 **Bapa Pembangunan**，发展之父。

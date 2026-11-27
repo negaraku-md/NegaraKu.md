@@ -27,7 +27,7 @@ verificationNeeded:
   - "La possibilité de faire désormais une demande de CDL entièrement en ligne via l'application MyJPJ — la page de services du JPJ consultée indique que les demandes se font uniquement au guichet du JPJ de l'État, mais cela a pu changer depuis la date de consultation"
 
 lang: "fr"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ keywords:
   - "ujian JPJ KPP"
   - "sistem KEJARA mata demerit"
 framework: explainer
+hero: '/media/transport/driving-licence-malaysians/hero.webp'
+heroAlt: 'Une auto-école en devanture de magasin portant l''enseigne Pusat Latihan Memandu Sri Jaya avec de grands panneaux bleus à plaque L d''apprenti.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: L'entrée et la zone d'attente de l'antenne du département des transports routiers (JPJ) à Bandar Tasik Selatan, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Bureau de l'antenne du JPJ (département des transports routiers), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: Un rond-point à plusieurs voies doté de panneaux indicateurs à Rawang, Selangor, une manœuvre que tout apprenti conducteur doit maîtriser.
+    kind: representative
+    origin: third-party
+    subject: Rond-point à Rawang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 La plupart des gens considèrent le « permis de conduire » comme un document

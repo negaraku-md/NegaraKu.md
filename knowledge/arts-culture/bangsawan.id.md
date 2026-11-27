@@ -34,7 +34,7 @@ faq:
     a: "Ia merosot pada pertengahan abad ke-20 akibat persaingan dari radio, film dan televisi. Menjelang akhir 1930-an banyak panggung bangsawan diubah menjadi gedung bioskop, dan setelah perang industri itu kehilangan sumber dana."
 
 lang: "id"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,34 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/bangsawan/hero.webp'
+heroAlt: 'Foto sepia tahun 1890-an sebuah rombongan opera bangsawan Melayu berkostum kerajaan di panggung berlatar lukisan, para pemain bermahkota dan berbusana rumit duduk serta berdiri di atas peron singgasana sementara penonton menyaksikan dari bawah'
+heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: Bagian luar gedung teater Panggung Bangsawan di Melaka, fasad modern berwarna krem dan cokelat dengan papan nama merah bertuliskan 'Panggung Bangsawan Melaka' di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Panggung Bangsawan, gedung teater yang didedikasikan untuk bangsawan di Kota Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: Tampilan sudut jalan gedung teater Panggung Bangsawan di Melaka dengan papan nama 'Panggung' vertikal merah yang tinggi, pohon-pohon palem dan gedung-gedung kota di belakang di bawah langit mendung
+    kind: actual
+    origin: third-party
+    subject: Tampilan jalan Panggung Bangsawan, gedung teater bangsawan khusus di Melaka
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 Sebelum ada film, ada panggung berlampu, tirai bercat tangan, dan sebuah orkestra yang mampu beralih dari lagu berirama istana Melayu ke irama Timur Tengah dalam satu malam pertunjukan yang sama. Itulah bangsawan — opera panggung yang pernah menjadi hiburan kota paling meriah di Semenanjung, dan yang kemudian menyerahkan aktor serta penyanyinya kepada industri film Melayu yang baru lahir.

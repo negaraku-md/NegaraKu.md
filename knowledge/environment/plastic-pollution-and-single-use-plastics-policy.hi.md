@@ -29,7 +29,7 @@ faq:
     a: "इनमें 2025 तक प्लास्टिक पैकेजिंग के लिए 25% पुनर्चक्रण दर, 2030 तक 76% औसत संग्रहण-हेतु-पुनर्चक्रण दर (CFR), और 2030 तक 15% औसत पुनर्चक्रित सामग्री शामिल हैं। 2050 तक 100% पुनर्चक्रण दर का लक्ष्य है।"
 
 lang: "hi"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,9 +69,35 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["एकल-उपयोग प्लास्टिक", "प्लास्टिक थैली शुल्क", "प्लास्टिक प्रदूषण", "मलेशिया प्लास्टिक रोडमैप", "प्लास्टिक स्थिरता 2021-2030", "single-use plastics", "plastic bag charge"]
 framework: explainer
+hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'
+heroAlt: 'समुद्र के किनारे एक समुद्र तट की रेत पर बिखरी हुई फेंकी गई प्लास्टिक की बोतलें और अन्य कचरा।'
+heroCredit: 'epSos.de / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: एक समुद्र तट की ज्वार-रेखा के साथ जमा होता प्लास्टिक कचरा और समुद्री मलबा
+    kind: representative
+    origin: third-party
+    subject: एक समुद्र तट पर बहकर आया समुद्री प्लास्टिक कचरा (प्रतीकात्मक)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: रीसाइक्लिंग के लिए भेजे जाने हेतु एक संग्रह बिंदु पर एकत्र की गई इस्तेमाल की हुई प्लास्टिक की बोतलें
+    kind: representative
+    origin: third-party
+    subject: रीसाइक्लिंग के लिए प्लास्टिक-बोतल संग्रह बिंदु (प्रतीकात्मक)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 चेकआउट काउंटर पर पतली प्लास्टिक थैलियाँ आमतौर पर केवल एक पल के लिए उपयोग होती हैं, फिर भी वे पर्यावरण में बहुत लंबे समय तक बनी रह सकती हैं। इस समस्या से निपटने के लिए, मलेशिया ने एक अकेले व्यापक, तत्काल प्रतिबंध का विकल्प नहीं चुना — इसके बजाय, यह एक चरणबद्ध रोडमैप का उपयोग करता है जो छोटे शुल्कों से व्यापक प्रतिबंधों की ओर बढ़ता है।

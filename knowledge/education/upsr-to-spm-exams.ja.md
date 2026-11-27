@@ -21,7 +21,7 @@ verificationNeeded:
   - "中学3年生（Tingkatan 3、2027年開始）の学習マトリックスの完全な形式と科目の詳細は、本稿の作成時点で試験局の公式サイト上で詳細に確認されていない。確認されているのは2026年の小学4年生の時間割（必修科目4科目）のみである。中学3年生の草案が公開され次第、lp.moe.gov.myで再確認すること。"
   - "国家教育諮問理事会（Majlis Penasihat Pendidikan Kebangsaan、MPPK）がUPSR／PT3見直しの完全な報告書を内閣に提出済みかどうかは、本稿の作成時点で公式情報源において確認できなかった。2026年1月の大臣の発言を、現時点で入手可能な最新の立場として扱っている。"
 lang: "ja"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,32 @@ relations:
 related: ["public-vs-private-universities", "international-students-studying-in-malaysia"]
 keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "PBD Malaysia", "SPM Malaysia", "Matriks Pembelajaran Malaysia", "Lembaga Peperiksaan", "peperiksaan sekolah Malaysia", "PBS Malaysia"]
 framework: explainer
+hero: '/media/education/upsr-to-spm-exams/hero.webp'
+heroAlt: 'マレーシアの SMK Gajah Berang の学校ホール（dewan）の内部で、生徒たちが椅子に列をなして舞台に向かって座っており、集会や公開試験に使われる種類のホールである。'
+heroCredit: 'LM UPSI 2019 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: サバ州のSMK Bugaya IIの、青と黄色が鮮やかな学校講堂（dewan）。SPMなどの公的試験が行われる類の講堂である。
+    kind: representative
+    origin: third-party
+    subject: 公的試験に使われる類のマレーシアの中等学校の講堂（dewan）
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: サバ州の政府中等学校SMK Sapulutの、多層階の教室棟。
+    kind: actual
+    origin: third-party
+    subject: マレーシアの中等学校（SMK Sapulut）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 お子さんが現在小学6年生（Tahun 6）なら、UPSRを受験することはない。中学3年生（Tingkatan 3）なら、PT3も待っていない。かつて就学の道のり全体を左右した大型試験——保護者自身が大きなプレッシャーの中で経験したかもしれないあの試験——は、数年前からすでに存在しない。しかし多くの保護者は今も戸惑っている。何がそれに取って代わったのか、いずれ復活するのか、そして今、子どもの学校では実際に毎日何が行われているのか。

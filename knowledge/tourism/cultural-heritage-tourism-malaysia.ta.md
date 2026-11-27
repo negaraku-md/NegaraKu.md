@@ -74,9 +74,16 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'ஜார்ஜ் டவுனின் ஒரு குறுகிய தெரு, பழைய வர்ணம் பூசிய கடை வீடுகள், சிவப்பு லாந்தர்கள் மற்றும் படிக்கோட்டு ஓவிய அருங்காட்சியக பலகையுடன், ஐந்தடி நடைபாதையில் நினைவுப்பொருள் கடைகளும் சுற்றுலாப் பயணிகளும்.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒரே நாட்டில் ஆறு தளங்கள் இப்போது UNESCO இன் முத்திரையைச் சுமக்கின்றன — காலையில் பல நூற்றாண்டுகள் பழமையான டச்சு காலனித்துவ சதுக்கத்தில் நடந்து, ஒரு விமானப் பயணத் தொலைவில் ஒரு பரந்த போர்னியோ குகை அறைக்குள் நிற்கலாம். மலேசியாவின் பாரம்பரியம் நீங்கள் வெறுமனே பார்க்கும் அருங்காட்சியகம் அல்ல; அது நீங்கள் உண்டு, உறங்கி, வழிபடும் ஒரு உயிர்ப்பான தெரு.

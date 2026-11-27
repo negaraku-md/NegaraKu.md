@@ -34,7 +34,7 @@ faq:
     a: "It declined in the mid-20th century due to competition from radio, film and television. By the late 1930s many bangsawan halls were converted into cinemas, and after the war the industry lost its source of funding."
 
 lang: "en"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,33 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/bangsawan/hero.webp'
+heroAlt: 'Sepia 1890s photograph of a bangsawan Malay opera troupe in royal costume on a painted-backdrop stage, performers in crowns and ornate dress seated and standing on a throne platform while a crowd watches from below'
+heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: Exterior of the Panggung Bangsawan theatre in Melaka, a cream-and-brown modern facade with red 'Panggung Bangsawan Melaka' signage under a clear blue sky
+    kind: actual
+    origin: third-party
+    subject: Panggung Bangsawan, the theatre dedicated to bangsawan in Melaka City
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: Street-corner view of the Panggung Bangsawan theatre in Melaka with its tall vertical red 'Panggung' sign, palm trees and city buildings behind under an overcast sky
+    kind: actual
+    origin: third-party
+    subject: Street view of Panggung Bangsawan, Melaka's dedicated bangsawan theatre
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 Before there were motion pictures, there were lit stages, hand-painted curtains, and an orchestra able to switch from the flowing melodies of a Malay court to a rhythm from the Middle East within the same night's performance. That was bangsawan — the stage opera that was once the liveliest urban entertainment on the Peninsula, and which later handed its actors and singers over to the newborn Malay film industry.

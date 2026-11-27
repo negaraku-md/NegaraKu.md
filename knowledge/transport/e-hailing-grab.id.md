@@ -25,7 +25,7 @@ verificationNeeded:
   - "Apakah suatu persyaratan khusus pengemudi (seperti batas usia minimum) berlaku perlu diverifikasi dengan JPJ atau operator e-hailing terkait, karena hal itu tidak dinyatakan dalam bentuk yang dapat diverifikasi pada laman resmi yang dirujuk"
 
 lang: "id"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,9 +68,35 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD e-hailing vehicle permit", "how does Grab work Malaysia", "e-hailing driver licence Malaysia"]
 framework: explainer
+hero: '/media/transport/e-hailing-grab/hero.webp'
+heroAlt: 'Sebuah mobil Hyundai Ioniq Electric putih bertanda livery hijau Grab Electric dan slogan 0 persen emisi di sebuah jalan.'
+heroCredit: 'Firzafp / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: Sebuah sedan yang dibalut livery layanan transportasi online Grab berwarna hijau dan bendera Malaysia melaju di sebuah jalan di Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Mobil berlivery Grab di Kota Kinabalu, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: Kontingen bermerek Grab berbaris dalam pawai Hari Nasional 2023 di Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Kontingen Grab dalam pawai Hari Nasional di Kota Kinabalu
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 Buka Grab, atau Bolt, atau inDrive, di Kuala Lumpur dan ketuk "pesan". Tidak

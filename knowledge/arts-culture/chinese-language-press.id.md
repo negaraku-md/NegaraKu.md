@@ -33,7 +33,7 @@ faq:
     a: "Sejalan dengan tren industri surat kabar global, oplah cetak pers Tionghoa Malaysia secara umum menurun dalam sekitar dua dekade terakhir, dengan pembaca — terutama generasi muda — semakin banyak memperoleh berita melalui ponsel dan internet. Karena itu surat kabar mengembangkan platform digital seperti situs berita, koran elektronik, dan aplikasi ponsel, dengan sebagian konten juga disebarkan di media sosial. Apakah dan kapan edisi cetak akan hilang sepenuhnya masih belum pasti, dan artikel ini tidak membuat prediksi apa pun."
 
 lang: "id"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'Gedung kantor putih surat kabar berbahasa Tionghoa Sin Chew Daily di Miri, namanya tertera dalam bahasa Inggris dan aksara Tionghoa pada fasad dan dinding gerbang.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: Halaman depan awal koran harian Tionghoa Penang Kwong Wah Yit Poh, berjudul dalam aksara Tionghoa dan Inggris, tersusun di antara halaman koran Tionghoa lawas lainnya.
+    kind: actual
+    origin: third-party
+    subject: Halaman depan Kwong Wah Yit Poh, surat kabar harian berbahasa Tionghoa tertua di Malaysia (Penang)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: Kantor Nanyang Siang Pau di Johor Bahru, fasadnya memuat nama surat kabar itu dalam aksara Tionghoa hijau dan huruf Latin di atas sebuah toko.
+    kind: actual
+    origin: third-party
+    subject: Kantor surat kabar Nanyang Siang Pau dengan papan nama kepala koran, Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 Di kedai kopi (kopitiam) pada pagi hari, sebuah surat kabar Tionghoa yang terbuka lebar sering diletakkan bersebelahan dengan secangkir kopi. Pembaca membalik berita besar dalam dan luar negeri di halaman muka, lalu biasanya langsung menuju halaman yang paling mereka kenali — ada yang lebih dahulu melihat berita lokal tentang sekolah Tionghoa mana lagi yang mengadakan bazar amal, ada yang membalik suplemen sastra dan halaman opini, dan ada pula yang hanya mencari kolom obituari, iklan baris, dan hasil undian. Bagi banyak orang Tionghoa Malaysia, surat kabar Tionghoa bukan sekadar berita, melainkan juga kebiasaan membaca bahasa Tionghoa yang berlangsung setiap hari.

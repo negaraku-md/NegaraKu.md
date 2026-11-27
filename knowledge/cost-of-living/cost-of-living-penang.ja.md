@@ -40,7 +40,7 @@ verificationNeeded:
   - "州レベルの消費者物価指数（CPI）は月次系列データである。当月比較のために本ページを利用する前に、ここに引用されている2025年1月の数値は、DOSMの最新のCPI発表と照合して更新すべきである。"
 
 updated: 2026-07-24
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 sources:
   - title: "世帯所得調査報告書 2024（マレーシア及び各州）(Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
@@ -72,6 +72,33 @@ relations:
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-penang/hero.webp'
+heroAlt: '夕暮れの密集したジョージタウンのスカイライン。ペナン市街中心部の上にライトアップされたコムタタワーがそびえる'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Penang_at_dusk_March_2025-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: ペナン州ジョージタウンのマッカラム通りにある高層住宅。都市住宅の様子を示す
+    kind: actual
+    origin: third-party
+    subject: ペナン州ジョージタウンのマッカラム通りの高層公営住宅
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: ペナン州スンガイ・バカップの生鮮市場の売り手と屋台
+    kind: actual
+    origin: third-party
+    subject: ペナン州スンガイ・バカップの生鮮市場
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 ペナンは、マレーシアの州の中で唯一、「生活費」を単一の数字で答えることができない州である。なぜなら、ペナンは一つの場所ではないからだ。それは島と本土の帯状地域であり、二つの橋と一つの渡し船で結ばれ、一方には世界遺産のコア区域が、もう一方にはコンテナ港湾の工業都市群がある。「ペナン」を一行の数字に平坦化するいかなる数値も、すでに最も有用な情報を捨て去っている。

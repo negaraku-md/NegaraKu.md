@@ -21,7 +21,7 @@ appliesTo: "マレーシアの王室制度、立憲君主制、そしてヌグ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -59,6 +59,32 @@ verificationNeeded:
   - "2025～2026年の継承をめぐる紛争は、相反する説明がある進行中の事案である。スンガイ・ウジョンのウンダンの地位、2026年4月19日の罷免宣言、及び対抗する宣言は、いかなる詳細も確定したものとして扱う前に、公式の州の情報源に照らして再検証されるべきである。"
   - "トゥアンク・ムフリズが第11代ヤン・ディ・プルトゥアン・ブサールとして即位・宣言された正確な日付（通例2008年12月29日とされる）は、州の王室ポータルに照らして確認されるべきである。"
 framework: history-culture
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: '広々とした緑の芝地の向こうに、高くそびえる多層の塔と幾重にも連なる柿葺き屋根を頂いた、壮麗な黒褐色の木造宮殿が、森に覆われた丘陵を背に立っている。'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: 堂々としたクリーム色の王宮。左右対称の翼と2基の切妻屋根の塔を備え、スリ・ムナンティの手入れの行き届いた庭園の奥、森に覆われた丘の麓に建つ。
+    kind: actual
+    origin: third-party
+    subject: ヌグリ・スンビラン（Negeri Sembilan）の現在の王宮、イスタナ・ブサール・スリ・ムナンティ（Istana Besar Seri Menanti）
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: 高くそびえる近代的な政府庁舎。ミナンカバウの水牛の角のように劇的に反り上がった屋根を頂き、スレンバン中心部の低層の翼棟と芝生の上に立つ。
+    kind: actual
+    origin: third-party
+    subject: スレンバン（Seremban）にある、ミナンカバウ屋根を頂く州行政庁舎、ウィスマ・ヌグリ（Wisma Negeri）
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 半島マレーシアの中心に、マレー君主制のあらゆる規則を破る王国がある。その統治者は王座に生まれるのではなく、選ばれる。その大家族は、父ではなく母を通じてその系譜をたどる。そしてまさにその名、ヌグリ・スンビラン、「九つの州」は、単一の王家ではなく、内陸の丘陵を越えて縫い合わされた諸地区の連合を記憶している。この特異な制度がいかに生まれたかを理解することは、マラッカ海峡をスマトラから渡り、一つの慣習を携え、やがて自分たちを治める王子を本国に求めたミナンカバウ移民の系譜をたどることである。

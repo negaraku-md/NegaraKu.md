@@ -19,7 +19,7 @@ appliesTo: "适合任何想了解马来西亚的人口、城市与水患风险�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,6 +74,32 @@ faq:
   - q: 为什么大多数马来西亚人住在靠近海岸的地方,而不是内陆?
     a: 每块陆地都由一条中央山脊主导——半岛的是蒂迪旺沙山脉(Titiwangsa Range),沙巴的是克罗克山脉(Crocker Range)——两侧仅有狭窄的沿海平原。这些高地把聚居区推向沿海平原和河谷,使多山的内陆人烟稀少。半岛受马六甲海峡平抚而较为平静的西海岸平原,容纳了其大部分人口以及吉隆坡和乔治市等最大的城市。
 framework: explainer
+hero: '/media/malaysia/geography-overview/hero.webp'
+heroAlt: '热带沿海平原的鸟瞰图，一条蜿蜒的河流注入大海，城镇和农田向内陆铺展，浅色的填海地沿着海岸线延伸，上方飘着零星的云朵。'
+heroCredit: 'Arne Müseler / arne-mueseler.de / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: 一面披覆着丛林的陡峭灰色石灰岩喀斯特峭壁直直地从一泓静谧的翡翠色湖水中拔地而起，崖面倒映在幽暗的水中。
+    kind: actual
+    origin: third-party
+    subject: 霹雳怡保镜湖（Tasik Cermin）的石灰岩喀斯特峭壁
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: 在一座热带小岛上，一处白沙海湾两旁环绕着椰子树和木屋，连着清澈的碧蓝海水。
+    kind: actual
+    origin: third-party
+    subject: 登嘉楼小停泊岛（Pulau Perhentian Kecil）的热带海滩
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 从哥打京那巴鲁飞往吉隆坡，你跨越的不只是一道国内的界线——你跨越的是数百公里的开阔海域。马来西亚是一个国家，却横跨两块彼此独立的陆地，仿佛被硬生生钉在一起，而这一简单的地形事实，几乎悄悄决定了其余的一切：城市在哪里、稻田在哪里，以及每年十二月是哪个海岸会淹水。

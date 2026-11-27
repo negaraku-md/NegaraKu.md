@@ -32,7 +32,7 @@ faq:
     a: "Non. Le barrage de Baram, qui devait inonder 412 km² et déplacer ~20,000 personnes, a été suspendu par un moratoire en 2015 et officiellement annulé en 2016 à la suite de protestations autochtones soutenues."
 
 lang: "fr"
-sourceContentHash: "1464aa447b7252c6"
+sourceContentHash: "1234fb8c4240b017"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,33 @@ relations:
 related: ["tenaga-nasional"]
 keywords: ["hidrokuasa", "empangan Bakun", "Murum", "Baleh", "Kenyir", "Temengor", "Sarawak Energy", "tenaga boleh baharu", "hydropower Malaysia"]
 framework: explainer
+hero: '/media/energy/hydropower-malaysia/hero.webp'
+heroAlt: 'Vue aérienne du large remblai gris du barrage de Bakun marqué BAKUN, son long déversoir en chute et sa centrale au bord de la rivière, adossés à un vaste réservoir et aux collines boisées de Sarawak'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'aerial view of the Bakun hydroelectric dam in Sarawak with its reservoir, spillway and powerhouse'
+images:
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-1.webp
+    alt: 'À l''intérieur de la centrale du barrage de Murum : des rangées de groupes hydroélectriques cylindriques bleus numérotés 1 et 2 posés sur un sol poli, sous une haute halle dotée d''un pont roulant jaune'
+    kind: actual
+    origin: third-party
+    subject: intérieur de la centrale du barrage de Murum montrant les groupes hydroélectriques
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Turbines_in_the_Murum_Dam_powerhouse.jpg
+  - role: scene
+    src: /media/energy/hydropower-malaysia/body-2.webp
+    alt: Le mur de béton du barrage de Murum et ses deux coursiers d'évacuateur retenant un réservoir, vus de loin par-delà des collines denses de forêt tropicale du Sarawak
+    kind: actual
+    origin: third-party
+    subject: le barrage hydroélectrique de Murum au Sarawak vu par-delà des collines boisées
+    credit: UNIMAS Sarawak / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg
 ---
 
 L'eau qui descend des chaînes de forêt tropicale de Bornéo fait désormais tourner des turbines qui alimentent des fonderies d'aluminium, et c'est là le cœur de la stratégie d'énergie renouvelable de la Malaisie. Mais le chemin pour y parvenir est jalonné de méga-barrages, de lacs couvrant des centaines de kilomètres carrés et de milliers de familles autochtones contraintes de se reloger.

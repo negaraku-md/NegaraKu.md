@@ -97,7 +97,7 @@ relations:
   - { rel: "administered-by", to: "myipo" }
   - { rel: "governs", to: "trademark-registration-malaysia" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }
-related: ["trademark-registration-malaysia"]
+related: ["trademark-registration-malaysia", "patent-malaysia", "copyright-malaysia"]
 keywords: ["बौद्धिक संपदा मलेशिया", "intellectual property Malaysia", "ट्रेडमार्क पंजीकरण मलेशिया", "trademark registration Malaysia", "पेटेंट मलेशिया", "कॉपीराइट मलेशिया", "MyIPO", "Trademarks Act 2019", "Patents Act 1983", "Copyright Act 1987"]
 framework: explainer
 ---

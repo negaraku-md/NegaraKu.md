@@ -43,7 +43,7 @@ sources:
     publisher: "PubMed"
 
 lang: "ta"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ drinkFacts:
   halal: "சவர்சாப் சாறு என்பது நீர் அல்லது பால் மற்றும் சர்க்கரையுடன் அரைக்கப்பட்ட பழக் கூழ், மது இல்லை, எனவே பானமே ஹலால். ஹலால் உத்தரவாதம் வளாகத்துடன் தொடர்புடையது, எனவே சான்றிதழ் தேவைப்படுபவர்கள் தனித்தனிக் கடையைச் சரிபார்க்க வேண்டும்."
   served: "குளிர்ச்சியாக, ஆர்டருக்குப் புதிதாக அரைத்துப் பரிமாறப்படுகிறது — நீருடன் இலகுவாக, பாலுடன் ஒரு ஸ்மூத்தியாகச் செழுமையாக. ஒரு புத்துணர்ச்சியூட்டும் பழப் பானம்; அப்படியே அனுபவியுங்கள், மேலும் சவர்சாபுடன் இணைக்கப்பட்ட உடல்நல மற்றும் 'புற்றுநோய்-எதிர்ப்பு' கூற்றுகள் மனிதர்களில் நிரூபிக்கப்படவில்லை, மருத்துவச் சிகிச்சைக்குப் பதிலானவை அல்ல என்பதைக் கவனியுங்கள்."
   where: "புதிய வெப்பமண்டல-பழச் சாறுகள் அரைக்கப்படும் எந்த இடத்திலும் — நாடு முழுவதுமுள்ள சாறுக் கடைகள், தெருவோரக் கடைகள் மற்றும் பழக் கடைகளில் காணப்படுகிறது."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'சந்தைக் கடையில் புதிய பச்சை முள் soursop பழங்களின் குவியல்; பின்னணியில் பப்பாளியும் வாழைப்பழங்களும்'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: ஒரு அங்காடியில் பிரகாசமான பச்சை எலுமிச்சைகள் நிறைந்த நீல கூடைக்கு அருகில் ஒரு உலோகக் கிண்ணத்தில் முள்ளான பச்சை முள்ளாத்தாப் பழம்
+    kind: actual
+    origin: third-party
+    subject: ஒரு பழக் கடையில் புதிய எலுமிச்சைகள் நிறைந்த கூடைக்கு அருகில் முழு முள்ளாத்தாப் பழம்
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 முள்ளானது, பச்சையானது, கனமானது, **சவர்சாப்** முதல் பார்வையில் ஒரு சிறிய துரியான் போல்

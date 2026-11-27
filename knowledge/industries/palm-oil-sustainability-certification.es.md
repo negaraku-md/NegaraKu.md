@@ -31,7 +31,7 @@ faq:
     a: "Tras dos aplazamientos, se aplica a los grandes y medianos operadores desde el 30 de diciembre de 2026, y a las microempresas y pequeñas empresas desde el 30 de junio de 2027. La fecha límite de deforestación es el 31 de diciembre de 2020."
 
 lang: "es"
-sourceContentHash: "630a55603b7f639f"
+sourceContentHash: "719604b786753489"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,34 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["MSPO", "RSPO", "EUDR", "sustainable palm oil", "MS 2530:2022", "MPOCC", "forced labour", "deforestation", "palm oil certification"]
 framework: explainer
+hero: '/media/industries/palm-oil-sustainability-certification/hero.webp'
+heroAlt: 'Una ordenada y bien gestionada finca de palma de aceite que se extiende por un terreno verde ondulado bajo un cielo brillante en el distrito de Mersing, Johor'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Well-managed oil-palm estate in Mersing District, Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-1.webp
+    alt: Dos trabajadores de la plantación con botas de pie junto a palmas aceiteras, uno de ellos sosteniendo un racimo de fruta recién cortado en una hoz de cosecha, en Kimanis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Trabajadores de la hacienda con un racimo de fruta fresca cosechado en una plantación de palma aceitera en Kimanis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Workers-in-Palm-Oil-Plantation-02.jpg
+  - role: scene
+    src: /media/industries/palm-oil-sustainability-certification/body-2.webp
+    alt: Hileras ordenadas de jóvenes plántulas de palma aceitera creciendo en bolsas de polietileno negras en un vivero de plantación en Sungai Mangis, Sabah
+    kind: actual
+    origin: third-party
+    subject: Plántulas de palma aceitera cultivadas en bolsas de polietileno en un vivero comercial en Sungai Mangis, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Mangis_Sabah_Tamaco-Oil-Palm-Nursery-03.jpg
 ---
 
 Un solo envío de aceite de palma malasio tiene ahora que responder a tres reglamentos distintos a la vez: un esquema nacional obligatorio en casa, un club voluntario de compradores en la sala de juntas y una ley europea sobre deforestación que puede bloquearlo en el puerto. Para una industria que embarcó 22.30 millones de toneladas de aceite de palma y productos a base de palma solo en los diez primeros meses de 2024 — generando RM89.39 mil millones — el papeleo ya no es una formalidad. Es acceso al mercado.

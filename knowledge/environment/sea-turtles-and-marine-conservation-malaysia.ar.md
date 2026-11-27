@@ -31,7 +31,7 @@ faq:
     a: "الحدائق البحرية في شبه الجزيرة مُعلنة في الجريدة الرسمية بموجب قانون مصايد الأسماك لسنة 1985 (Fisheries Act 1985). وهو ينشئ منطقة حماية عرضها ميلان بحريان من الجزيرة تُحظر فيها أنشطة مثل إزعاج السلاحف المعشّشة وجمع الصغار حديثة الفقس."
 
 lang: "ar"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,9 +95,36 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["السلاحف البحرية", "السلحفاة الجلدية", "رانتاو أبانغ", "الحديقة البحرية", "قانون مصايد الأسماك 1985", "مرسوم سلاحف ترينغانو", "الحفاظ على البيئة البحرية", "بيض السلاحف", "sea turtles", "marine conservation"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: 'سلحفاة بحرية خضراء تستريح على شعاب مرجانية نابضة بالحياة في مياه زرقاء صافية، مع أسماك شعاب تسبح فوقها'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: سلحفاة بحرية خضراء تنساب فوق شعاب مرجانية في المياه الزرقاء قبالة سيبادان، ماليزيا
+    kind: actual
+    origin: third-party
+    subject: سلحفاة بحرية خضراء (Chelonia mydas) تسبح فوق شعاب مرجانية في سيبادان، صباح، ماليزيا
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: سلحفاة بحرية خضراء ترتاح تحت حافة شعاب صخرية تحيط بها مرجانيات ملوّنة
+    kind: actual
+    origin: third-party
+    subject: سلحفاة بحرية خضراء (Chelonia mydas) ترتاح تحت حافة شعاب في Barracuda Point، سيبادان، صباح، ماليزيا
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 في أواخر الستينيات، كانت نحو 2,000 سلحفاة جلدية أنثى تصعد إلى الشاطئ كل عام على امتداد واحد من الرمال في رانتاو أبانغ بولاية ترينغانو، تاركة قرابة 10,000 عشّ من البيض في الرمل. أما اليوم فلا توجد واحدة. وتُعدّ قصة هذا التدهور واحدة من أبرز إخفاقات الحفاظ على الحياة البرية في المنطقة — وقد صاغت الطريقة التي تحمي بها ماليزيا السلاحف البحرية حتى اليوم.

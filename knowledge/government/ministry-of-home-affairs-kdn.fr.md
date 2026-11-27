@@ -27,7 +27,7 @@ faq:
   - q: "Qui est le ministre de l'Intérieur ?"
     a: "En 2026, le ministre de l'Intérieur est Datuk Seri Panglima Saifuddin Nasution bin Ismail, en poste depuis le 3 décembre 2022. Les portefeuilles ministériels changent au gré des remaniements, alors confirmez le titulaire actuel sur moha.gov.my."
 lang: "fr"
-sourceContentHash: "b098b359d7922252"
+sourceContentHash: "15ab39fec156ef4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,9 +73,37 @@ sources:
 entity: "Ministry of Home Affairs (Malaysia) / Kementerian Dalam Negeri (KDN)"
 wikidata: "Q4294304"
 relations: []
-related: []
+related: ["immigration-department-jim", "national-anti-drugs-agency-aadk", "rela-peoples-volunteer-corps"]
 keywords: ["KDN", "Kementerian Dalam Negeri", "Ministère de l'Intérieur de la Malaisie", "Ministry of Home Affairs Malaysia", "MOHA", "agences du KDN", "départements du KDN", "agensi bawah KDN", "Menteri Dalam Negeri", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "Lembaga Penapisan Filem"]
 framework: profile
+hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'
+heroAlt: 'Vue frontale du bâtiment en brique rouge du ministère de l''Intérieur (KDN) à Putrajaya, sa tour centrale flanquée de fenêtres cintrées au-dessus d''une grande entrée en arc, des palmiers bordant la place sous un ciel bleu'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Home Affairs (Kementerian Dalam Negeri, KDN) main building, Block D1, Kompleks D, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-1.webp
+    alt: Vue rapprochée du sommet de la tour en briques rouges du ministère de l'Intérieur à Putrajaya, avec l'emblème du ministère et les grandes lettres blanches « KDN » montées près de la corniche
+    kind: actual
+    origin: third-party
+    subject: Étages supérieurs du bâtiment KDN montrant l'emblème et l'inscription « KDN » sur la façade, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-01.jpg
+  - role: scene
+    src: /media/government/ministry-of-home-affairs-kdn/body-2.webp
+    alt: Le bâtiment en briques rouges du ministère de l'Intérieur à Putrajaya vu depuis une esplanade en terrasses symétrique avec une cascade d'eau centrale à gradins et des rangées de palmiers sous un ciel bleu nuageux
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment KDN vu depuis l'esplanade en terrasses à cascade d'eau, Bloc D1, Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Home-Affairs-03.jpg
 ---
 
 Lorsqu'un Malaisien renouvelle un passeport, lorsque la police procède à une

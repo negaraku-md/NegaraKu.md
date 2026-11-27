@@ -33,7 +33,7 @@ verificationNeeded:
   - "Xác nhận con số dân số Kuala Lumpur và Greater Kuala Lumpur, cùng thứ hạng GDP trên đầu người, so với các ấn phẩm mới nhất của DOSM trước khi công bố."
 
 lang: "vi"
-sourceContentHash: "92f9b90511421d9f"
+sourceContentHash: "a0b8fb7850984bc7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,37 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
 framework: profile
+hero: '/media/states/kuala-lumpur/hero.webp'
+heroAlt: 'Tháp đôi Petronas rọi đèn vươn lên trên đường chân trời khu KLCC trên nền trời chạng vạng vàng ở Kuala Lumpur'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Petronas Twin Towers and the KLCC district skyline at dusk, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/states/kuala-lumpur/body-1.webp
+    alt: Góc nhìn rộng của đường chân trời Kuala Lumpur với tháp KL Tower có đỉnh hình kim và các tòa cao ốc san sát bên dưới những đám mây trắng lớn và công viên xanh ở tiền cảnh
+    kind: actual
+    origin: third-party
+    subject: Đường chân trời toàn cảnh thành phố Kuala Lumpur với tháp KL Tower dưới bầu trời sáng nhiều mây
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+  - role: scene
+    src: /media/states/kuala-lumpur/body-2.webp
+    alt: Tòa nhà Sultan Abdul Samad kiểu Moor với tháp đồng hồ cao và mái vòm đồng sáng bóng ở trung tâm Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Sultan Abdul Samad thời thuộc địa với tháp đồng hồ mái vòm đồng, trung tâm Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-01.jpg
 ---
 
 Kuala Lumpur là thủ đô của Malaysia, nhưng về mặt hiến pháp nó không phải là một

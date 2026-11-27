@@ -36,7 +36,7 @@ faq:
     a: "Stamp Act 1949 के तहत स्टांप शुल्क ऋण राशि का 0.5% है। उदाहरण के लिए, RM450,000 के ऋण पर RM2,250 का शुल्क लगता है। भुगतान अनुबंध पर हस्ताक्षर की तारीख से 30 दिनों के भीतर करना होता है।"
 
 lang: "hi"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -103,6 +103,32 @@ relations:
 related: ["real-property-gains-tax"]
 keywords: ["गृह ऋण मलेशिया", "बंधक वित्तपोषण", "वित्तपोषण मार्जिन", "KWSP Akaun Sejahtera", "SJKP", "ऋण अनुबंध स्टांप शुल्क", "MRTA", "MLTA"]
 framework: rules
+hero: '/media/property/home-loan-mortgage-financing/hero.webp'
+heroAlt: 'कुआलालंपुर में एक मलेशियाई बैंक भवन के बाहर भूदृश्य वाले प्रांगण में लाल पब्लिक बैंक बरहाद और पब्लिक इन्वेस्टमेंट बैंक के नाम-पट्ट।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: सेरेम्बान शहर के केंद्र में एक दुकान-पंक्ति पर स्थित Standard Chartered Bank शाखा का सड़क-दृश्य
+    kind: representative
+    origin: third-party
+    subject: सेरेम्बान, नेगेरी संबिलान की मुख्य सड़क पर एक Standard Chartered Bank शाखा
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: क्लुआंग, जोहोर में एक दुकान-पंक्ति पर स्थित Bank Muamalat इस्लामी बैंक शाखा का सड़क-दृश्य
+    kind: representative
+    origin: third-party
+    subject: क्लुआंग, जोहोर में एक Bank Muamalat (इस्लामी बैंक) शाखा
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 आपके सपनों के घर की कीमत भले ही RM450,000 हो, पर बैंक तब तक वह पैसा नहीं देगा जब तक उसे भरोसा न हो जाए कि आप अगले 30 वर्षों में उसे चुका सकते हैं। यहीं से बंधक वित्तपोषण की दुनिया शुरू होती है — मार्जिन, ऋण-सेवा अनुपात, बीमा, EPF बचत और स्टांप शुल्क, जो सब मिलकर यह तय करते हैं कि उस घर की चाबियाँ आपके हाथ में पहुँचेंगी या नहीं।

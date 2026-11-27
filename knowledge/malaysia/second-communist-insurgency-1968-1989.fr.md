@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Seconde Urgence malaise", "Parti communiste de Malaya", "accord de paix de Hat Yai 1989", "Parti communiste du Kalimantan du Nord", "insurrection communiste du Sarawak", "Sri Aman", "Chin Peng", "embuscade de Kroh-Betong"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'Le Monument national Tugu Negara en bronze à Kuala Lumpur, un groupe de figures de soldats hissant un drapeau, dressé contre un ciel ouvert.'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La Malaisie déclara terminée sa première Urgence communiste le 31 juillet 1960 — puis dut composer avec une seconde insurrection pendant une grande partie des trois décennies suivantes. L'armée de guérilla que le gouvernement avait repoussée aux marges de la péninsule ne se dissolut pas lorsque les combats furent déclarés terminés. Elle se retira de l'autre côté de la frontière thaïlandaise, s'y regroupa et, huit ans plus tard, reprit ses opérations.

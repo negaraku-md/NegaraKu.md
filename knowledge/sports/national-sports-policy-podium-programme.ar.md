@@ -35,7 +35,7 @@ faq:
     a: "ترتبط الأهداف بدورة الألعاب الكبرى — الأولمبياد والألعاب الآسيوية وألعاب الكومنولث — ويُمنَح التركيز للرياضات المحددة بأن لها فرصة نجاح عالية، تماشياً مع الهدف 8 من السياسة الرياضية الوطنية. ويُوجَّه التمويل على أساس دوري (مثلاً RM60 مليون سنوياً لأربع سنوات)، بتنسيق من مجلس الرياضة الوطني وبدعم من علوم الرياضة لدى المعهد الوطني للرياضة."
 
 lang: "ar"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,7 +84,7 @@ relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "institut-sukan-negara" }
   - { rel: "part-of", to: "dasar-sukan-negara-2009" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-day-malaysia"]
 keywords:
   - "السياسة الرياضية الوطنية 2009"
   - "Dasar Sukan Negara 2009"
@@ -97,6 +97,32 @@ keywords:
   - "تمويل الرياضيين النخبة"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'لاعبات جمباز فائزات بميداليات يقفن على منصة التتويج في دورة ألعاب جنوب شرق آسيا 2017 بكوالالمبور بينما تحمل رياضية ماليزية العلم الوطني.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: لاعب تنس الريشة البارالمبي الماليزي Cheah Liek Hou، بالزيّ الأصفر لماليزيا، يتحرك نحو الشبكة خلال نهائي فردي الرجال فئة SU5 في Paris 2024 Paralympics.
+    kind: actual
+    origin: third-party
+    subject: الرياضي الماليزي النخبوي Cheah Liek Hou يتنافس في Paris 2024 Paralympics
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: مركز Pandelela Rinong Aquatic Centre في Kuching، وهو منشأة حديثة بلونين أحمر وأخضر للغطس والسباحة سُمّيت تيمنًا ببطلة الغطس الماليزية الحائزة على ميدالية أولمبية.
+    kind: representative
+    origin: third-party
+    subject: Pandelela Rinong Aquatic Centre، منشأة رياضية نخبوية ماليزية سُمّيت تيمنًا ببطلة أولمبية حائزة على ميدالية
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 في كل مرة يصعد فيها رياضي ماليزي إلى المنصة الأولمبية، يعمل خلفه في الواقع نظامان مختلفان — أحدهما يحاول تحريك عموم السكان، والآخر يركّز موارد ضخمة على الحفنة الصغيرة القادرة على الفوز. وكلاهما يعيش تحت وثيقة السياسة نفسها، لكنهما يُموَّلان ويُقاسان بطرق مختلفة جداً.

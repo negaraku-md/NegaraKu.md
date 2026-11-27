@@ -29,7 +29,7 @@ faq:
     a: "궁정이 살아남았습니다. 술탄 마흐무드 샤(Sultan Mahmud Shah)와 그의 후손들은 남쪽에서, 가장 중요하게는 조호르 술탄국(Johor Sultanate)에서 말레이 통치를 다시 세우며 말라카(Melaka)의 궁정 구조, 법전, 언어를 이어 갔습니다. 그 제도들은 이 도시의 독립보다 여러 세기를 더 오래 살아남았습니다."
 
 lang: "ko"
-sourceContentHash: "cf412842ff34bf8f"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,7 +44,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-19
 sources:
   - title: "믈라카와 조지타운, 믈라카 해협의 역사 도시 (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
@@ -57,6 +57,12 @@ sources:
     publisher: "말레이시아 박물관청"
   - title: "말레이 연대기 (Sejarah Melayu (Malay Annals))"
     publisher: "말레이시아 국립문서보관소"
+  - title: "말라카 술탄국 (세계사 제2권)"
+    url: "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+    publisher: "OpenStax, Rice University"
+  - title: "말레이시아의 역사: 말라카 술탄국 (History of Malaysia: The Malacca Sultanate)"
+    url: "https://www.britannica.com/topic/history-of-Malaysia"
+    publisher: "Encyclopædia Britannica"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }
@@ -64,6 +70,32 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: '가파르게 층층이 쌓인 다층의 회색 지붕을 얹은 광활한 목조 궁전이 잘 손질된 열대 정원 가운데 자리 잡고 있으며, 위에서 내려다본 그 뒤로 역사 도시 믈라카의 시가지가 펼쳐져 있다.'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: 풍화된 회색 석조 아치형 성문으로, 윗부분에 작은 조각 문장이 있으며 밝은 하늘 아래 푸른 잔디밭에 홀로 서 있다. 믈라카 A Famosa 요새에서 유일하게 남은 성문.
+    kind: representative
+    origin: third-party
+    subject: 믈라카에 있는 포르투갈 요새 성문 포르타 데 산티아고(A Famosa). 술탄국 멸망 직후에 세워졌다
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: 언덕 꼭대기에 있는 옛 교회의 지붕 없는 벽돌과 돌 외벽. 텅 빈 창 구멍과 허물어진 벽이 햇빛 속에서 따뜻한 적갈색으로 빛나고, 방문객들이 유적 사이를 거닐고 있다.
+    kind: representative
+    origin: third-party
+    subject: 믈라카 세인트폴 언덕 꼭대기에 있는 지붕 없는 세인트폴 교회 유적
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 한 왕자가 불타는 도시에서 달아납니다. 그는 해협을 건너, 자신을 숨겨 준 지역 우두머리를 죽이고, 계속 달아납니다 — 무아르(Muar)를 지나, 우종 타나(Ujong Tanah)를 지나 — 그러다 강가의 한 나무 아래에 멈춰 개들을 쉬게 합니다. 그중 한 마리가 애기사슴(mouse deer) 한 마리를 궁지로 몰자, 궁지에 몰린 애기사슴이 돌아서서 개를 물속으로 걷어차 버립니다. 왕자는 이를 징조로 받아들입니다. 이곳에서는 가장 작은 짐승조차 맞서 싸운다는 것입니다. 그는 이곳에 자신의 도시를 세우기로 하고, 자신이 앉아 있던 나무 — *믈라카(melaka)* 나무 — 의 이름을 따서 도시를 명명합니다.
@@ -75,6 +107,14 @@ framework: history-culture
 중국과 인도 사이의 무역은 몬순에 따라 움직였습니다. 배들은 몇 달 동안 한쪽 방향으로 바람을 타고 간 뒤, 바람이 역전되기를 기다렸습니다. 그 여정의 중간 지점에 자리하면서 담수와 안전한 정박지, 공정한 거래를 제공하는 항구는 없어서는 안 될 곳이 될 수 있었고, 말라카가 바로 그러했습니다. 파라메스와라가 도착한 지 몇 세대 만에, 이 도시는 중국의 정크선, 구자라트와 타밀의 상인, 자바인, 아랍과 페르시아 상인들을 끌어들였고, 이들은 모두 지리와 통치 말고는 내세울 것이 없는 그 해안 구간으로 모여들었습니다.
 
 그 통치는 지리만큼이나 중요했습니다. 말라카의 통치자들은 소수의 관직을 중심으로 행정을 세웠는데 — 븐다하라(Bendahara, 재상), 락사마나(Laksamana, 제독), 트믱궁(Temenggung, 치안 책임자), 그리고 샤반다르(Syahbandar, 주요 무역 공동체마다 한 명씩 둔 항무관) — 이는 모든 상인 공동체에 상대할 예측 가능한 인물을 마련해 주었습니다. 15세기 대부분에 걸쳐 븐다하라를 지낸 툰 페락(Tun Perak)은 말라카의 전성기에 그 체계를 지탱한 행정가로 기억됩니다.
+
+## 황금기: 중국, 그리고 속국들의 제국
+
+말라카는 15세기 후반 술탄 만수르 샤(Sultan Mansur Shah)와 그의 아들 알라우딘 리아얏 샤(Alauddin Riayat Shah)의 치세에 권력의 정점에 이르렀습니다 — 보통 이 술탄국의 황금기로 기억되는 시기입니다. 그 이면의 행정적 성취는 대부분 1456년부터 1498년까지 재상을 지낸 툰 페락(Tun Perak)의 공으로 돌려집니다. 그는 여러 공적 가운데서도 세력을 넓혀 가던 아유타야의 시암을 물리쳤으며, 말라카는 이미 1446년과 1456년에 시암의 공격을 격퇴한 바 있었습니다.
+
+그 정점을 떠받친 것은 두 가지 관계였습니다. 첫째는 명나라 중국과의 관계였습니다. 말라카는 명 조정과 정식 관계를 맺고 조공 관계를 구하였는데 — 이는 실질적인 외교적 무게를 지닌 연결이었습니다. 명의 사신들은 말라카가 중국의 보호를 받는 속국으로 여겨진다는 사실을 시암에 알렸습니다. 제독 정화(鄭和)는 15세기 초 명의 대규모 보선(寶船) 항해 때 이 항구에 기항하였는데 — 한 기록에 따르면 여섯 차례였습니다 — 이로써 말라카는 중국이 주도하는 해상 네트워크에서 가장 중요한 결절점 가운데 하나에 자리하게 되었습니다. 명이 15세기 중엽 무렵 안으로 눈을 돌리기 전까지의 일이었습니다.
+
+둘째는 이웃들에 대한 영향력이었습니다. 말라카는 팽창 정책을 추진하여 황금이 풍부한 파항을 병합하고 말레이반도 연안과 수마트라 동부의 상당 부분에 대한 종주권을 얻었습니다. 군도 전역의 나라들이 그 통치자를 종주로 인정하게 되었고, 이슬람은 조호르, 크다, 페락, 파항, 트렝가누 같은 속령 술탄국들을 통해 뿌리를 내렸습니다. 말라카의 부상을 경계하던 자바의 마자파힛조차 화친을 구하였으며 — 말레이 전통에 따라 만수르 샤의 궁정과의 왕실 혼인으로 그것을 맺었습니다. 전성기에 이 항구는 여러 민족으로 이루어진 약 1만 5천 명의 상인들 — 중국인, 아랍인, 페르시아인, 인도인 등 — 을 맞이하였다고 전해지며, 어느 초기 유럽인의 추산에 따르면 알려진 세계의 그 어떤 항구보다도 붐비는 곳이었습니다.
 
 ## 한 지역을 바꾼 개종
 
@@ -94,6 +134,12 @@ framework: history-culture
 
 말라카는 독립 술탄국으로서 겨우 110년을 지속했는데, 주변 제국들의 기준으로 보면 짧은 기간입니다. 그러나 훗날 "말레이" 국가성을 규정한 거의 모든 제도 — 통치 형태로서의 술탄국, 공용어로서의 말라카 말레이어, 아닷(adat) 관습과 융합된 이슬람 궁정 법 — 는 그곳에서 비롯되었거나 다른 곳으로 가는 길에 그곳을 거쳐 갔습니다. 말레이시아의 현대 헌법이 말레이 통치자 제도를 명문화할 때, 또는 술탄에 대한 충성을 노래하는 말레이 속담 한 구절이 학교 교과서에 인용될 때, 그 기준점은 몇 세기가 떨어져 있든 말라카의 궁정입니다. 애기사슴의 고집과 몬순의 때맞춤 위에 세워진 하나의 무역 도시가 600년이 지난 지금도 말레이시아의 시민 생활 속에서 조용히 제 몫을 하고 있습니다.
 
+## 다음으로 읽을거리
+
+- 1511년 이후 남쪽으로 옮겨 간 왕위를 말라카의 직계 후계인 [조호르-리아우 술탄국](/ko/malaysia/johor-riau-sultanate)에서 따라가 보세요
+- 그 포위전 자체를 [포르투갈의 말라카 정복, 1511년](/ko/malaysia/portuguese-melaka-1511)에서 읽어 보세요
+- 반도의 더 이른 정치체들을 [랑카수카](/ko/malaysia/langkasuka)에서 더 거슬러 살펴보세요
+
 ---
 
-*이 글은 그 주제가 제도로서의 말레이 술탄국의 기원이며 군도(群島)에 이슬람이 전래된 일도 다루기 때문에, NegaraKu.md의 편집 정책에 따라 민감 문서(3R+1: 왕실)로 분류됩니다. 이 글은 엄격하게 서술적으로 작성되었으며, 발행 전 사람의 최종 승인을 기다리며 초안 상태로 보관되어 있습니다.*
+*이 글은 그 주제가 제도로서의 말레이 술탄국의 기원이며 군도(群島)에 이슬람이 전래된 일도 다루기 때문에, NegaraKu.md의 편집 정책에 따라 민감 문서(3R+1: 왕실)로 분류됩니다. 이 글은 엄격하게 서술적으로 작성되었습니다.*

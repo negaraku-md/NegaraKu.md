@@ -29,7 +29,7 @@ faq:
     a: "Permohonan dilakukan secara daring melalui portal KPM dan pelajar disaring melalui Pentaksiran Kemasukan Sekolah Khusus (PKSK), beserta pencapaian akademik dan kokurikuler."
 
 lang: "id"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'Pintu masuk dan papan tanda Maktab Rendah Sains MARA (MRSM) Batu Pahat di Johor, sebuah sekolah sains berasrama penuh Malaysia, dengan bendera nasional dan negara bagian berjajar di gerbang.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: Papan nama dan gerbang masuk Maktab Rendah Sains MARA (MRSM) Gemencheh di tepi sebuah jalan pedesaan
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama Maktab Rendah Sains MARA (MRSM) Gemencheh
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: Panorama gedung dan area kampus sebuah sekolah berasrama penuh di Melaka, Malaysia
+    kind: actual
+    origin: third-party
+    subject: Kampus sebuah sekolah berasrama penuh, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 Dua nama sering muncul ketika keluarga Malaysia berbincang tentang sekolah asrama "terbaik" untuk anak: MRSM dan SBP. Keduanya kolese asrama penuh yang terpilih, keduanya bersaing ketat untuk direbut — tetapi ia dikelola oleh dua badan berlainan, di bawah dua mandat kebijakan yang berbeda.

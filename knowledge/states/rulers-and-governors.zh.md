@@ -76,6 +76,13 @@ relations:
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
 framework: explainer
+hero: '/media/states/rulers-and-governors/hero.webp'
+heroAlt: '国家皇宫（Istana Negara）宏伟的金色圆顶礼仪拱门，身后是圆顶王宫和高楼林立的城市天际线。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 马来西亚有13个州属，却只有九个王位。另外四个州由不曾登上王位的人领导——他

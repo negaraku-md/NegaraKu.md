@@ -30,7 +30,7 @@ faq:
     a: "SSM báo cáo tới Bộ Thương mại Nội địa và Chi phí Sinh hoạt. Các danh mục cấp bộ tại Malaysia được tổ chức lại định kỳ, vì vậy hãy xác nhận bộ chủ quản hiện tại trên ssm.com.my trước khi dựa vào nó trong một tài liệu chính thức."
 
 lang: "vi"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,17 @@ relations:
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: Đường chân trời KL Sentral với các tòa tháp văn phòng và khách sạn vươn lên phía sau hồ xanh của Vườn Bách thảo Perdana ở Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Khu đầu mối giao thông Kuala Lumpur Sentral (KL Sentral) nơi đặt trụ sở chính của SSM, Menara SSM@Sentral, nhìn qua hồ Vườn Bách thảo Perdana
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## Tổng quan nhanh

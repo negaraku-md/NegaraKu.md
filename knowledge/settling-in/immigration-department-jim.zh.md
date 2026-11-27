@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,9 +75,35 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: '布城的马来西亚移民局总部那高耸华丽的立面，上面标有「Jabatan Imigresen Malaysia」字样和部门徽章，入口上方飘扬着旗帜。'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: 沙巴仙本那的移民局(Jabatan Imigresen)分局办事处
+    kind: actual
+    origin: third-party
+    subject: 沙巴仙本那的移民局(Jabatan Imigresen)分局
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: 一枚在移民局检查站加盖的马来西亚移民护照印章
+    kind: actual
+    origin: third-party
+    subject: 马来西亚移民出入境护照印章
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 几乎每一份让人得以跨越马来西亚边境、在此居住或工作的证件背后，都站着同一个机构。**马来西亚移民局**——*Jabatan Imigresen Malaysia*（**JIM**）——是隶属**内政部**的机构，负责向公民签发护照、向外国人签发签证与准证、在每一个机场与陆路边境柜台派驻人员，并执行移民法律。它服务马来西亚公民、永久居民与外国访客，自 **1922 年 7 月 21 日**起运作至今。对新来者而言，麻烦之处在于其服务分散于数个官方网站——本页将它们逐一梳理。

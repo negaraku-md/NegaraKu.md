@@ -87,6 +87,14 @@ drinkFacts:
   halal: "Air kelapa는 단일 식물 재료 — 코코넛 워터 — 로, 때로 얼음이나 약간의 시럽 외에는 더하는 것이 없으므로 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 노점을 확인해야 한다."
   served: "차갑게, 보통 빨대와 함께 껍질에서 바로 내거나, 긁어낸 어린 과육과 함께 얼음 위에 컵이나 봉지에 부어 낸다. 어떤 이는 그대로를 선호하고; 약간의 설탕 시럽을 때로 내주지만 필요하지는 않다. Kelapa bakar는 구운 변형이고; 냉동 '슬러시' 파우치는 현대적 변주다."
   where: "전국의 길가 노점, 재래·야시장, 푸드코트, 해변에서 찾을 수 있으며 — 판매자가 어린 코코넛을 쌓아 차게 둘 수 있는 곳이면 어디든 — 가게에서 병이나 냉동으로도 판다."
+hero: "/media/food/air-kelapa/hero.webp"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroAlt: "코코넛 더미 옆에서 신선한 초록색 어린 코코넛(air kelapa)을 칼로 여는 노점 상인"
+heroCredit: "Danumurthi Mahendra / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kelapa_Muda_coconut_drink.jpg"
+wikidata: "Q633401"
 ---
 
 말레이시아의 길가에서, 초록 코코넛 더미에 parang을 휘둘러 하나의 윗부분을 쳐 내고,

@@ -30,7 +30,7 @@ faq:
     a: "SSM melapor kepada Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup. Portofolio kementerian di Malaysia disusun ulang dari waktu ke waktu, jadi verifikasi kementerian induk terkini di ssm.com.my sebelum bergantung padanya dalam dokumen resmi."
 
 lang: "id"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,17 @@ relations:
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: Cakrawala KL Sentral berupa menara-menara perkantoran dan hotel yang menjulang di belakang danau hijau Taman Botani Perdana Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Kawasan pusat transportasi Kuala Lumpur Sentral (KL Sentral), tempat kantor pusat SSM, Menara SSM@Sentral, berada, dilihat dari seberang danau Taman Botani Perdana
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## Sekilas pandang

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue ou donne à bail un bien à usage d'habitation en Malaisie : locataires signant leur premier contrat de bail, et bailleurs qui le rédigent, en Malaisie péninsulaire, au Sabah ou au Sarawak."
 
 lang: "fr"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ faq:
   - q: Un propriétaire peut-il changer les serrures ou couper les services publics si le locataire refuse de partir ?
     a: Non. L'article 7(2) de la Loi sur les mesures de réparation spécifique de 1950 (Specific Relief Act 1950) interdit au propriétaire l'expulsion par ses propres moyens — pas de changement de serrures, ni de coupure de l'électricité ou de l'eau, ni d'enlèvement des biens tant que le locataire occupe encore les lieux. Récupérer la possession exige une décision de justice. Pour les loyers impayés, le propriétaire demande au tribunal un mandat de saisie en vertu de la Loi sur la saisie de 1951 (Distress Act 1951) afin de saisir les biens mobiliers du locataire, plutôt que d'affronter directement le locataire.
 framework: explainer
+hero: '/media/property/renting-a-home-tenancy/hero.webp'
+heroAlt: 'Des appartements de grande hauteur à côté d''une ligne de LRT à Taman Miharja, Kuala Lumpur.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Des immeubles d'appartements de grande hauteur serrés au bord d'une rivière à Kuala Lumpur, représentatifs du logement locatif en Malaisie
+    kind: representative
+    origin: third-party
+    subject: Immeubles d'appartements de grande hauteur à Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Des immeubles d'appartements de moyenne et grande hauteur dans la banlieue de George Town, Penang, typiques des logements proposés à la location en Malaisie
+    kind: representative
+    origin: third-party
+    subject: Immeubles d'appartements dans la banlieue de George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Demandez à un bailleur et à un locataire en Malaisie quelle loi les protège, et la plupart se tromperont. Il n'existe pas de « loi sur le bail d'habitation » à laquelle se référer, ni de texte unique fixant les délais de préavis, plafonnant les dépôts ou détaillant ce qu'un bailleur peut et ne peut pas faire au moment du départ.

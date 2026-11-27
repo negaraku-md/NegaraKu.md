@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang membeli, menjual atau menilai hartanah di Malaysia yang
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 
 status: "published"
 aiAssisted: true
@@ -65,6 +65,32 @@ relations:
 related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 framework: explainer
+hero: '/media/property/freehold-leasehold-strata-landed/hero.webp'
+heroAlt: 'Menara kembar kondominium tepi laut Jesselton Residences di sebelah marina dan laut di Kota Kinabalu, Sabah.'
+heroCredit: 'Jason Thien / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: Sebuah rumah banglo berasingan terletak di atas lot berpagarnya sendiri di Johor Bahru, hartanah bertanah tipikal yang memegang hak milik tanah individu dan bukannya bahagian strata.
+    kind: actual
+    origin: third-party
+    subject: Rumah banglo berasingan di Johor Bahru
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: Blok-blok flat PPR kos rendah awam berdiri di Bukit Jalil, Kuala Lumpur, tempat setiap unit dipegang di bawah hak milik strata dengan pemilikan bersama harta bersama.
+    kind: actual
+    origin: third-party
+    subject: Flat kos rendah awam (PPR) di Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 Dua buah rumah teres yang hampir sama di jalan yang sama boleh membawa janji yang sangat berbeza daripada pihak berkuasa negeri: satu hak milik menyatakan "pegangan bebas," manakala satu lagi menyatakan "pajakan, 99 tahun, tamat 2118." Satu soalan kedua yang tidak berkaitan pula menentukan sama ada anda turut berkongsi pemilikan lobi lif dan kolam renang dengan empat puluh isi rumah lain, atau sama ada laluan masuk kereta dan bumbung adalah sepenuhnya masalah anda sendiri. Pembeli sering mencampuradukkan kedua-dua soalan ini menjadi satu — "adakah ia pegangan bebas atau adakah ia kondominium?" — sedangkan sesebuah hartanah sentiasa menjawab kedua-duanya, secara berasingan.

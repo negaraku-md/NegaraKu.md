@@ -36,7 +36,7 @@ socialTitle: "The Arabic alphabet that has written Malay for seven centuries —
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -85,6 +85,33 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["tulisan Jawi", "aksara Arab Melayu", "Batu Bersurat Terengganu", "sejarah tulisan Jawi", "seni khat", "ejaan Jawi", "Seksyen 9 Akta Bahasa Kebangsaan"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'Dark navy signboard with the Terengganu royal crest and the words ''Istana Maziah'' spelled in gold Jawi (Arabic-derived Malay) script'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: Two facing manuscript pages of Jawi text framed by ornate gold, blue and red floral illumination
+    kind: actual
+    origin: third-party
+    subject: Illuminated opening pages of the Malay literary work Taj al-Salatin, hand-written in Jawi
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: An aged open manuscript book in a display case, its facing pages covered in flowing hand-written Jawi script
+    kind: actual
+    origin: third-party
+    subject: Open manuscript of the Hukum Kanun Melaka (Malacca legal digest) written in Jawi, on museum display
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 On a stone inscription found in Terengganu, Malay words are carved — not in the letters we use today, but in an Arabic script adapted for Malay sounds. The inscription, the Terengganu Inscribed Stone (Batu Bersurat Terengganu), bears the date 702 Hijrah, commonly equated with the year 1303 CE.

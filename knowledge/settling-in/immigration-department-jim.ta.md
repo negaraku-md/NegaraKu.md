@@ -29,7 +29,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,9 +75,35 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "Malaysia passport renewal", "Malaysia passport fee", "10-year passport Malaysia", "Malaysia eVisa", "Malaysia visa pass permit", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
+hero: '/media/settling-in/immigration-department-jim/hero.webp'
+heroAlt: 'புத்ராஜெயாவில் உள்ள மலேசிய குடிவரவுத் துறையின் தலைமையகத்தின் உயரமான அலங்கார முகப்பு, ''Jabatan Imigresen Malaysia'' என்ற பெயரையும் துறையின் சின்னத்தையும் தாங்கி, நுழைவாயிலுக்கு மேல் கொடிகள் பறக்கின்றன.'
+heroCredit: 'AcMY01 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: சபா, செம்போர்னாவில் உள்ள குடிவரவுத் துறை கிளை அலுவலகம்
+    kind: actual
+    origin: third-party
+    subject: சபா, செம்போர்னாவில் குடிவரவுத் துறை (ஜபாத்தான் இமிகிரேசன்) கிளை அலுவலகம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: குடிவரவுத் துறை சோதனைச் சாவடியில் வழங்கப்பட்ட ஒரு மலேசிய குடிவரவு கடவுச்சீட்டு முத்திரை
+    kind: actual
+    origin: third-party
+    subject: மலேசிய குடிவரவு நுழைவு/வெளியேற்ற கடவுச்சீட்டு முத்திரை
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 ஒரு நபர் மலேசியாவின் எல்லையைக் கடக்கவோ, இங்கு வாழவோ, அல்லது இங்கு வேலை செய்யவோ அனுமதிக்கும் கிட்டத்தட்ட ஒவ்வொரு ஆவணத்தின் பின்னும் ஒரே ஒரு நிறுவனம் நிற்கிறது. **மலேசிய குடிவரவுத் துறை** (Immigration Department of Malaysia) — *Jabatan Imigresen Malaysia* (**JIM**) — என்பது **உள்துறை அமைச்சின்** (Ministry of Home Affairs) கீழுள்ள அமைப்பாகும்; இது குடிமக்களுக்குக் கடவுச்சீட்டுகளை வழங்குகிறது, வெளிநாட்டினருக்கு விசாக்களையும் அனுமதிச்சீட்டுகளையும் வழங்குகிறது, ஒவ்வொரு விமான நிலையம் மற்றும் தரை-எல்லை கவுண்ட்டரிலும் பணியாளர்களை நியமிக்கிறது, மேலும் குடிவரவுச் சட்டங்களை அமல்படுத்துகிறது. இது மலேசியக் குடிமக்கள், நிரந்தரக் குடியிருப்பாளர்கள் மற்றும் வெளிநாட்டு பார்வையாளர்களுக்கு சேவை செய்கிறது, மேலும் இது **21 July 1922** முதல் இயங்கி வருகிறது. புதிதாக வருபவர்களுக்கு உள்ள சிக்கல் என்னவென்றால், அதன் சேவைகள் பல அதிகாரப்பூர்வ இணையதளங்களில் சிதறியுள்ளன — இந்தப் பக்கம் அவற்றை வரைபடமாக்குகிறது.

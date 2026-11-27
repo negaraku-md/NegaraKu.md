@@ -32,7 +32,7 @@ faq:
     a: "ปัญหาเกี่ยวกับไฟฟ้าเป็นหนึ่งในสาเหตุสูงสุดของเพลิงไหม้ในที่พักอาศัย — การเดินสายไฟที่ชำรุด ปลั๊กที่รับภาระเกิน และสายพ่วงที่เสื่อมสภาพ กิจกรรมการทำอาหารที่ปล่อยทิ้งไว้โดยไม่มีการเฝ้าระวังและการรั่วไหลของแก๊ส LPG ก็เป็นปัจจัยหลักด้วย"
 
 lang: "th"
-sourceContentHash: "79047fcc2133d661"
+sourceContentHash: "619b3c50d2f9873b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,36 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["keselamatan kebakaran", "pencegahan kebakaran", "perakuan bomba", "fire certificate", "JBPM", "Akta Perkhidmatan Bomba 1988"]
 framework: explainer
+hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'
+heroAlt: 'รถดับเพลิง Mercedes-Benz Atego Bomba สีแดงสดพร้อมตัวอักษร ''BOMBA'' พาดด้านหน้า ตู้เก็บอุปกรณ์ตามด้านข้างและแถบไฟสีน้ำเงิน กำลังแล่นออกจากใต้ประตูม้วนที่เปิดของสถานีดับเพลิงในแสงบ่ายอบอุ่น'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaMarudu_Sabah_FireDepartment-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a red Bomba fire engine pulling out of a fire station in Kota Marudu, Sabah, ready to respond'
+images:
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-1.webp
+    alt: ด้านข้างของรถดับเพลิง 'Bomba dan Penyelamat' สีแดงที่เปิดช่องม้วนออกให้เห็นสายดับเพลิงที่ม้วนเก็บเรียบร้อย ม้วนสายดับเพลิง อุปกรณ์หายใจ เครื่องกำเนิดไฟฟ้าแบบพกพาและอุปกรณ์กู้ภัยอื่นๆ
+    kind: actual
+    origin: third-party
+    subject: ช่องเก็บด้านข้างที่เปิดออกของรถดับเพลิง Bomba มาเลเซีย แสดงอุปกรณ์ดับเพลิงและกู้ภัย
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Equipment_on_a_fire_engine_of_Malaysia.jpg
+  - role: scene
+    src: /media/public-safety/fire-safety-and-prevention-malaysia/body-2.webp
+    alt: รถตู้กู้ภัย Toyota Hiace Bomba สีแดงในลวดลาย 'Bomba dan Penyelamat' มีตัวอักษร BOMBA สีเหลืองและตราหน่วยงาน จอดอยู่บนหญ้าข้างต้นไม้ในหมู่บ้านชนบท
+    kind: actual
+    origin: third-party
+    subject: รถตู้กู้ภัยฉุกเฉิน Bomba สีแดงที่ประจำการในหมู่บ้านชนบทในรานาอู รัฐซาบาห์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bomba_S2-06_BPA_1579_at_Kampung_Lingkudau,_Ranau_20260502_120315.jpg
 ---
 
 ไฟไม่เตือนล่วงหน้า ภายในเวลาไม่กี่นาที ประกายไฟจากปลั๊กที่รับภาระเกินหรือกระทะที่ถูกปล่อยทิ้งไว้อาจทำให้บ้านทั้งหลังราบเป็นหน้ากลอง — และในปี 2025 ปีเดียว [กรมดับเพลิงและกู้ภัยมาเลเซีย](/government/fire-and-rescue-department-bomba) (JBPM) บันทึกคดีเพลิงไหม้ 16,111 คดี ผู้เสียชีวิต 98 ราย และความเสียหายทางทรัพย์สินประมาณ RM2.09 พันล้าน ข่าวดีคือ: เกือบทั้งหมดสามารถป้องกันได้ ไม่ว่าจะในห้องนั่งเล่นของคุณหรือบนพื้นโรงงาน

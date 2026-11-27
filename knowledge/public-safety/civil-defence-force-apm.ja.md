@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 
 status: "archived"
 requestReason: "Duplicate of government/civil-defence-force-apm (same agency, APM); kept the newer, fuller en-master."
@@ -77,6 +77,32 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'マレーシア・クアンタンでのパレードで、APMの紋章を掲げたマレーシア民防隊（Angkatan Pertahanan Awam Malaysia）の救助車に、制服姿の隊員が乗っている。'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: バガン・ラランの海辺に立つ民間防衛隊(Angkatan Pertahanan Awam)のビーチ救助監視塔
+    kind: actual
+    origin: third-party
+    subject: バガン・ラランの民間防衛隊(APM)のビーチ救助監視塔
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: バガン・ラランで開けた海辺を見渡す民間防衛隊の沿岸ライフガード兼救助塔
+    kind: actual
+    origin: third-party
+    subject: バガン・ランのビーチを見渡す民間防衛隊の沿岸ライフガード塔
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 大規模な洪水が襲ったり建物が倒壊したりしたとき、ボート・ロープ・救助機材を携えて最初に到着する部隊の一つは、しばしばオレンジ色の制服を着たAPMである。マレーシア民間防衛隊（APM）は国の人道支援の屋台骨であり——災害の前・最中・後に現場に立ち会う。

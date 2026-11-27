@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) giữ vai trò nhà nhập khẩu gạo duy nhất của đất nước, một vai trò được kế thừa từ Ủy ban Lúa và Gạo Quốc gia (LPN), vốn tiếp quản việc nhập khẩu gạo và trở thành nhà nhập khẩu duy nhất vào năm 1974 sau cuộc khủng hoảng lương thực thế giới 1973. BERNAS cũng quản lý kho đệm gạo quốc gia và hỗ trợ các nhà xay xát Bumiputera. Nó được tư nhân hóa vào ngày 12 tháng 1 năm 1996."
 
 lang: "vi"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,32 @@ relations:
 related: ["food-security-self-sufficiency-policy"]
 keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SBB", "BERNAS", "Dasar Agromakanan Negara", "harga minimum terjamin", "subsidi padi"]
 framework: profile
+hero: '/media/agriculture/padi-rice-industry-self-sufficiency/hero.webp'
+heroAlt: 'Một cánh đồng lúa xanh với bù nhìn và những ngọn đồi rừng phía sau ở Langkawi, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: Một chiếc máy gặt đập liên hợp màu vàng đang cắt lúa chín vàng óng trên một cánh đồng lúa ở Kelantan
+    kind: actual
+    origin: third-party
+    subject: Một máy gặt đập liên hợp đang cắt lúa chín ở Kelantan
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: Một cánh đồng lúa chín vàng óng sẵn sàng thu hoạch với một ngọn đồi rừng phía sau, ở Langkawi, Kedah
+    kind: actual
+    origin: third-party
+    subject: Một cánh đồng lúa chín vàng sẵn sàng thu hoạch ở Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 Mỗi lần giá gạo tăng hoặc kệ siêu thị trống rỗng, một câu hỏi cũ lại quay về ám ảnh Malaysia: tại sao một đất nước màu mỡ với những cánh đồng lúa vẫn phải nhập khẩu gần một nửa lượng gạo của mình? Câu trả lời nằm ở một ngành được thúc đẩy bởi trợ cấp, được bảo vệ bởi giá được bảo đảm, và bị đeo đuổi bởi các mục tiêu tự cung tự cấp vẫn chưa đạt được.

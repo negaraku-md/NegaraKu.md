@@ -32,7 +32,7 @@ faq:
   - q: "Are Malay and English taught in Tamil schools?"
     a: "Yes. Although the medium of instruction in SJKT is Tamil, Malay (Bahasa Melayu) and English are taught as compulsory subjects. This means pupils receive their basic education in Tamil while also preparing in Malay for the transition to national secondary schools."
 lang: "en"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,32 @@ relations:
 related: ["chinese-education-in-malaysia", "tamil-in-malaysia", "estate-tamil-community", "languages-spoken", "population-composition"]
 keywords: ["தமிழ்ப் பள்ளி", "மலேசியா தமிழ்க் கல்வி", "SJKT", "தமிழ்வழி பள்ளி", "தோட்டப் பள்ளி", "மாணவர் தாய்மொழி POL", "Tamil vernacular schools Malaysia", "Sekolah Jenis Kebangsaan Tamil"]
 framework: explainer
+hero: '/media/education/tamil-vernacular-schools/hero.webp'
+heroAlt: 'Gate and multi-storey building of Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi, a Malaysian Tamil-medium national-type primary school in Johor.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: The blue entrance signboard of S.J.K (Tamil) Changlun in Kedah, showing the school name in Tamil and Malay together with the school crest.
+    kind: actual
+    origin: third-party
+    subject: Signboard of a Tamil-medium national-type school, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: The classroom block and courtyard of SJK(T) Changlun in Kedah, with classroom doorways, notice boards and flags along a covered walkway.
+    kind: actual
+    origin: third-party
+    subject: Classroom block of a Tamil-medium school, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 In any corner of Malaysia — on the edge of an old rubber plantation, or on the

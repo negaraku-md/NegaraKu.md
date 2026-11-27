@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "3ba84882f4818881"
+sourceContentHash: "38b4354ceab0db3c"
 
 status: "published"
 aiAssisted: true
@@ -95,9 +95,36 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
+hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'
+heroAlt: '一只绿海龟在清澈蓝水中栖息于生机盎然的珊瑚礁上，上方有礁鱼游弋'
+heroCredit: 'Avoini / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Green_Turtle.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Green sea turtle (Chelonia mydas) resting on a coral reef at Sipadan Island, Sabah, Malaysia'
+images:
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-1.webp
+    alt: 一只绿海龟在马来西亚诗巴丹（Sipadan）近海的蓝色水域中掠过一片珊瑚礁
+    kind: actual
+    origin: third-party
+    subject: 绿海龟（Chelonia mydas）在马来西亚沙巴诗巴丹（Sipadan）珊瑚礁上游动
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_(6130395346).jpg
+  - role: scene
+    src: /media/environment/sea-turtles-and-marine-conservation-malaysia/body-2.webp
+    alt: 一只绿海龟歇息在岩石礁岩架下，周围是色彩斑斓的珊瑚
+    kind: actual
+    origin: third-party
+    subject: 绿海龟（Chelonia mydas）在马来西亚沙巴诗巴丹（Sipadan）梭鱼角（Barracuda Point）礁岩架下歇息
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Green_Turtle_(Chelonia_mydas)_sleeping_(8502954115).jpg
 ---
 
 在1960年代末，每年约有2,000只雌棱皮龟登上登嘉楼兰道阿邦的一段海滩，在沙上留下近10,000个龟蛋巢。如今，一只也没有了。这段衰落的故事是本区域最触目惊心的野生动物保育失败案例之一——而它塑造了马来西亚至今保护海龟的方式。

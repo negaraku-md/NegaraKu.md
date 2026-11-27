@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚在钢铁以外的金属上是否强势？
     a: 是的。在非铁金属方面马来西亚具全球竞争力。总部位于砂拉越的齐力（Press Metal）是东南亚最大的一体化铝生产商，马来西亚冶炼公司（MSC）则跻身全球领先的精炼锡生产商之列，这是该国悠久采锡历史的遗产。
 lang: zh
-sourceContentHash: "156a3076c2c92ad0"
+sourceContentHash: "e91198da25e390ed"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -99,6 +99,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/iron-steel-metals-industry/hero.webp'
+heroAlt: '一座大型联合钢铁厂，有高炉、高耸的烟囱和升腾的白色蒸汽，远处是林木山丘和房屋'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:13_Industry_of_Australia_-_Steelworks_of_BlueScope_Steel_Limited_company_in_Port_Kembla,_Australia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'BlueScope integrated steelworks at Port Kembla, Australia, with blast furnaces and chimneys venting steam'
+images:
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-1.webp
+    alt: 两座高耸的炼钢高炉，配有管道和一座冒着白色蒸汽的烟囱，背景是晴朗的蓝天
+    kind: representative
+    origin: third-party
+    subject: 英格兰 Scunthorpe Steelworks 的高炉
+    credit: Gareth James / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blast_furnaces_at_Scunthorpe_Steelworks_-_geograph.org.uk_-_5844975.jpg
+  - role: scene
+    src: /media/industries/iron-steel-metals-industry/body-2.webp
+    alt: 炼钢车间内，一座大型电弧炉配有高架行车、管道，工人站在钢制走道上
+    kind: representative
+    origin: third-party
+    subject: 卢森堡 Differdange 的 ProfilARBED 钢厂电弧炉炼钢车间内部
+    credit: European Coal and Steel Community / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:ECSC_Financial_report_1996_ProfilARBED_Differdange_Electric_arc_furnace_1.jpg
+wikidata: "Q136416905"
 ---
 
 在马来西亚几乎每一栋建筑、每一座桥梁、每一条高速公路的背后，都有一个更安静的产业在制造支撑这一切的金属。钢铁很少像半导体或棕榈油那样登上头条，但它们是根基：混凝土柱里的钢筋、电缆里的钢丝、车门里的钢板。马来西亚自己制造了其中很大一部分——而且在少数几种金属上，它是真正的世界一流。但故事的钢铁那一半，也是这个国家最棘手的制造业领域之一，其特征是产能与市场实际所需之间顽固的失衡。

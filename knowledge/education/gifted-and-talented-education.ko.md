@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar는 영재·특기 학생을 위한 UKM의 대학 예비 과정으로, Perdana, Komersial, Antarabangsa의 세 계열로 제공됩니다."
 
 lang: "ko"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,9 +80,35 @@ relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }
   - { rel: "related-to", to: "special-needs-education" }
-related: []
+related: ["mrsm-and-fully-residential-schools", "special-education-and-learning-support", "malaysian-education-system"]
 keywords: ["PERMATApintar", "GENIUS@Pintar", "murid pintar berbakat", "gifted education Malaysia", "UKM1", "ASASIpintar", "Kolej PERMATA Pintar"]
 framework: profile
+hero: '/media/education/gifted-and-talented-education/hero.webp'
+heroAlt: '「PUSAT SUMBER PERMATAPINTAR」라고 적힌 건물의 외부 계단과 입구로, 말레이시아 국가 영재교육 프로그램(PERMATApintar)의 자료 센터이다.'
+heroCredit: 'Slainthayer / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: 말레이시아 한 중등학교 컴퓨터실에서 수업 중 줄지어 놓인 데스크톱 컴퓨터 앞에 앉아 있는 학생들.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 학교 컴퓨터실에서 공부하는 학생들
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: 조호르주 말레이시아공과대학교(UTM)에 있는, 차량과 계측 장비를 갖춘 대학 연구 실험실로, 재능 있는 학습자의 역량을 끌어올리는 부류의 첨단 시설이다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아공과대학교(UTM)의 첨단 공학 실험실
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 폼 5(중등 5학년) 수학을 풀어내는 만 10세 아동이 일반 학급에서 항상 두각을 나타내는 것은 아닙니다. 그리고 말레이시아에서 이런 지성을 발굴하고 연마하기 위해 설계된 유일한 국립 센터가 PERMATApintar입니다.

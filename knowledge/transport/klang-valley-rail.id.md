@@ -35,7 +35,7 @@ verificationNeeded:
   - "Pastikan panjang/jumlah stasiun terkini Jalur Kajang MRT langsung dengan MRT Corp atau Rapid Rail sebelum penerbitan — Kementerian Pengangkutan dan laman jalur Rapid Rail sendiri memberikan angka yang sedikit berbeda (51km/31 stasiun dibandingkan 46km/29 stasiun), yang mana artikel ini telah menghindari untuk mengulanginya secara verbatim sambil menunggu pendamaian."
 
 lang: "id"
-sourceContentHash: "7d38e6c3a9bd713c"
+sourceContentHash: "598a6ba15e349b10"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,30 @@ relations:
 related: ["kuala-lumpur", "selangor"]
 keywords: ["Klang Valley rail", "Rapid KL", "MRT Kajang Line", "MRT Putrajaya Line", "LRT Kelana Jaya Line", "KL Monorail", "KTM Komuter", "Shah Alam Line", "LRT3", "KL Sentral", "getting around Kuala Lumpur without a car"]
 framework: explainer
+hero: '/media/transport/klang-valley-rail/hero.webp'
+heroAlt: 'Kereta MRT Laluan Putrajaya merah dan putih elegan di atas jembatan layang dengan latar langit yang dramatis — metro Lembah Klang modern'
+heroCredit: 'LegendaryLim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRT_Putrajaya_SSP_Line_Train_2022.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-1.webp
+    alt: Peron MRT bawah tanah modern yang bersih (Tun Razak Exchange) dengan pintu pembatas peron dan layar informasi kedatangan kereta — pemandangan interior stasiun. Tanpa wajah yang teridentifikasi.
+    kind: actual
+    origin: third-party
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_MRT_station_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/transport/klang-valley-rail/body-2.webp
+    alt: Kereta KL Monorail melintas membelok di jalur layangnya melewati sebuah masjid dan cakrawala kota — menambahkan moda rel kedua dan konteks Lembah Klang. Berbeda dari hero (metro layang) dan body-1 (stasiun bawah tanah).
+    kind: actual
+    origin: third-party
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_KL_Monorail.jpg
 ---
 
 Lihat peta rel Klang Valley untuk pertama kalinya dan ia terlihat seperti sup

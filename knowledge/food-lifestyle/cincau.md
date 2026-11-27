@@ -84,6 +84,14 @@ drinkFacts:
   halal: "Cincau is plant-based and non-alcoholic — boiled herbs, water and sugar — so the jelly itself is halal. Halal assurance attaches to the premises and to anything it is mixed with (such as the milk in a two-tone soya cincau), so diners needing certification should check the individual outlet."
   served: "Served cold. On its own it is 'air cincau' — jelly cubes in sweet iced water. Poured with soya-bean milk it becomes 'soya cincau', nicknamed the 'Michael Jackson' for its black-and-white layers. It is also a standard topping in cendol, ais kacang (ABC) and the mixed-ingredient leng chi kang."
   where: "Found at kopitiam, hawker stalls, dessert shops and pasar malam across the country, and sold ready-made in cartons and cans (such as Yeo's) in every supermarket and provision shop."
+hero: "/media/food/cincau/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "A chilled grass-jelly (cincau) drink with dark jelly settled at the base"
+heroCredit: "Supardisahabu / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Cincau.jpg"
+wikidata: "Q713869"
 ---
 
 On a hot afternoon at a Malaysian coffee shop, one of the cheapest ways to cool

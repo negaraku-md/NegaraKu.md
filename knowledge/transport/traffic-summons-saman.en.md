@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +73,32 @@ relations:
 related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 framework: how-to
+hero: '/media/transport/traffic-summons-saman/hero.webp'
+heroAlt: 'A Malaysian traffic police officer stands writing beside his white POLIS patrol motorcycle at a busy Kuala Lumpur city intersection.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: Police officers in uniform standing at a roadblock on a roadway, checking vehicles as they slow to a stop at the checkpoint
+    kind: actual
+    origin: third-party
+    subject: a Malaysian police roadblock where officers stop and inspect vehicles
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: A Malaysian traffic police officer in a reflective vest and helmet standing in a city street managing passing vehicles
+    kind: actual
+    origin: third-party
+    subject: a traffic police officer on duty directing traffic on a street in Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 A driver can receive four types of summons that look similar on paper — but they come from four different parties, and each must be checked in a different place. Many people know only one portal, and assume their summons has "disappeared" when it is actually sitting in a different system.

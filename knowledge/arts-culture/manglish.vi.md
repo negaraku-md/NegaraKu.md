@@ -32,7 +32,7 @@ faq:
     a: "Rồi. Oxford English Dictionary đã bổ sung một số từ tiếng Anh Malaysia qua các lần cập nhật liên tiếp, gồm lepak, shiok và teh tarik năm 2016, một vài từ Manglish và từ chỉ món ăn Malaysia gồm mamak, kopitiam và atas cuối năm đó, và các từ như boleh, agak-agak và wayang trong một lần cập nhật sau đó — công nhận cách dùng đã xác lập của Malaysia chứ không phải phát minh ra tiếng Anh mới."
 
 lang: "vi"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,32 @@ relations:
 related: ["bahasa-melayu", "languages-spoken", "article-152-language"]
 keywords: ["Manglish", "Malaysian English", "lah particle", "discourse particles Malaysian English", "Malaysian English grammar", "code-switching Malaysia", "acrolect mesolect basilect", "Oxford English Dictionary Malaysian words", "bahasa rojak", "Malaysian slang"]
 framework: explainer
+hero: '/media/arts-culture/manglish/hero.webp'
+heroAlt: 'Một tấm biển màu cam và xanh vẽ tay ghi PETALING STREET KUALA LUMPUR trên một hộp kỹ thuật phủ đầy hình vẽ graffiti, phía sau là một con phố thành phố và các tòa nhà.'
+heroCredit: 'Diviana Jackson / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: Một con phố nhà phố ở George Town nơi các cửa hàng treo bảng hiệu bằng tiếng Anh, tiếng Tamil, tiếng Hoa và tiếng Mã Lai cạnh nhau
+    kind: actual
+    origin: third-party
+    subject: Một con phố Little India ở George Town, Penang, san sát bảng hiệu cửa hàng bằng nhiều ngôn ngữ và chữ viết
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: Người mua sắm đi ngang qua các dãy quầy bán thức ăn và hàng hóa tại một khu chợ đêm Malaysia nhộn nhịp vào buổi tối
+    kind: actual
+    origin: third-party
+    subject: Một khu chợ đêm (pasar malam) ở Seri Kembangan, Selangor, một khung cảnh đường phố Malaysia đa ngôn ngữ thường ngày
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 «Can or not?» «Wait ah, later confirm lor.» «Don't play play, I already tell you.»

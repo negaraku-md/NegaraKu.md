@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,34 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'ジョホールバルのグルドワラ・サヒブ・シク寺院の白い胸壁付き正面を見上げる。前面に金のシク教カンダの紋章とグルムキー文字、バルコニーにマレーシア国旗、背後に都市の高層ビルが青空を背にそびえる'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: グルドワラ・グル・ナーナク・ダルバール・タット・カルサ・ディワン・スランゴールの鮮やかな黄色と白の切妻の正面。入口の上にシク教のカンダの紋章、屋根にサフラン色のニシャン・サーヒブの旗、右手に金のタマネギ型ドームがあり、市松模様のタイル敷きの前庭越しに見える
+    kind: actual
+    origin: third-party
+    subject: マレーシア、スランゴール州シャアラムにあるシク教寺院、グルドワラ・グル・ナーナク・ダルバール・タット・カルサ・ディワン・スランゴール
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: 金の頂を持つドームと隅の尖塔を備えたグルドワラ・サーヒブ・クチンの背の高い白い多塔の正面。「Gurdwara Sahib Kuching」と書かれた黄色い看板を挟んでシク教のカンダの紋章が配され、中央の柱からマレーシアとサラワクの旗がはためき、青空を背にしている
+    kind: actual
+    origin: third-party
+    subject: マレーシア、サラワク州クチンにあるサラワク・シク教寺院協会のグルドワラ、グルドワラ・サーヒブ・クチン
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 19世紀のマラヤにおける英国の警察隊や要塞では、ターバンを巻き、豊かなあごひげを蓄えた将校の多くは地元の人間ではなかった——彼らは、インド北西部のパンジャブから数千マイルも離れた地から連れてこられたシク教徒であった。この治安維持の任務から、マレーシアで最も小規模でありながら最も見分けやすい少数コミュニティの一つが生まれた。

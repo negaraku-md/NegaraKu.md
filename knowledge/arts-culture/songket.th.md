@@ -33,7 +33,7 @@ faq:
     a: "ตามธรรมเนียมคือผู้หญิง UNESCO บันทึกว่าการทอซงเกตอยู่ในมือของผู้หญิงมาโดยตลอด ขณะที่ผู้ชายมีส่วนร่วมในการปฏิบัตินี้ด้วยการทำอุปกรณ์การทอ ความรู้นี้สืบทอดในครอบครัวและหมู่บ้าน และบางสถาบันยังเปิดโครงการฝึกอบรม"
 
 lang: "th"
-sourceContentHash: "054643f8240fb22d"
+sourceContentHash: "8519fc326cd8cd60"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,34 @@ relations:
 related: ["batik", "wayang-kulit"]
 keywords: ["songket", "tenunan songket", "kek tenun", "benang emas", "songket Terengganu", "songket Kelantan"]
 framework: history-culture
+hero: '/media/arts-culture/songket/hero.webp'
+heroAlt: 'ภาพระยะใกล้ของผ้าซงเกตทอมือ ผ้าไหมสีแดงเข้มปกคลุมด้วยลวดลายดอกไม้และข้าวหลามตัดหนาแน่นยกด้วยเส้นด้ายทองเป็นประกาย พร้อมแผงกลางที่ตัดกัน'
+heroCredit: 'Daderot / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a close-up of a Malaysian songket hip-wrapper from Terengganu, densely brocaded with gold-metal-wrapped thread on red silk'
+
+images:
+  - role: scene
+    src: /media/arts-culture/songket/body-1.webp
+    alt: ผ้าซงเก็ตทรงสี่เหลี่ยมผืนผ้าทั้งผืนจัดวางแบนราบ สองแถบด้านข้างสีแดงเป็นลายดอกไม้ด้วยด้ายทอง ขนาบแถบกลางสีทองอ่อนกว่า
+    kind: actual
+    origin: third-party
+    subject: ผ้านุ่งซงเก็ต (ไกน) มาเลเซียทั้งผืนจากตรังกานูวางแบนราบ แสดงพื้นลายยกทองและแถบกลาง
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_1_-_Textile_Museum,_George_Washington_University_-_DSC09786.JPG
+  - role: scene
+    src: /media/arts-culture/songket/body-2.webp
+    alt: ผ้าโพกศีรษะมลายูทรงสามเหลี่ยมพับ (ตันจัก) ทำจากผ้าซงเก็ตสีเขียวทองที่ส่องประกายด้วยด้ายโลหะทอ จัดแสดงบนขาตั้ง
+    kind: actual
+    origin: third-party
+    subject: ตันจัก ผ้าโพกศีรษะมลายูพับทำจากผ้าซงเก็ตทอทอง จากตรังกานู
+    credit: Yu Chu Chin / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjak_Belalai_Gajah_(Terengganu)_(DSCF0952).jpg
 ---
 
 เสียงที่ได้ยินมากที่สุดในโรงทอซงเกตไม่ใช่เสียงเครื่องจักร มันคือเสียงไม้ถูกกด เส้นด้ายถูกดึง และไม้ไผ่ซี่เล็กถูกสอดเข้าแล้วดึงออก — ซ้ำแล้วซ้ำเล่า ทีละแถวลวดลาย ตลอดทั้งวัน

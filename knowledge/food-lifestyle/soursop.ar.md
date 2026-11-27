@@ -44,7 +44,7 @@ sources:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "77425070962076f9"
+sourceContentHash: "3e9ac0c8e7b747e9"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,25 @@ drinkFacts:
   halal: "عصير الـsoursop لبّ فاكهة مخفوق مع ماء أو حليب وسكر، بلا كحول، فالمشروب نفسه حلال. ويتعلّق ضمان الحلال بالمحل، فعلى مَن يحتاج اعتمادًا أن يتحقّق من الكشك المعنيّ."
   served: "يُقدَّم باردًا، مخفوقًا طازجًا عند الطلب — أخفّ بالماء، أغنى بالحليب سموذي. مشروب فاكهة منعش؛ استمتع به بوصفه كذلك، ولاحظ أنّ الادّعاءات الصحّية و«المضادة للسرطان» المرتبطة بالـsoursop غير مُثبَتة في البشر ولا بديل عن الرعاية الطبية."
   where: "يوجد في بارات العصائر وأكشاك الباعة وأكشاك الفاكهة في عموم البلاد، حيثما تُخفَق عصائر الفاكهة المدارية الطازجة."
+hero: '/media/food/soursop/hero.webp'
+heroAlt: 'كومة من فاكهة القشطة الشائكة الخضراء الطازجة على منصّة سوق، مع بابايا وموز في الخلفية'
+heroCredit: 'Iwai-Dialax / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Soursop_Fruit_on_display_at_Fruit_Garden_Market_,_Port-Harcourt.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'fresh whole green spiky soursop (durian belanda) fruit piled on a market display'
+images:
+  - role: scene
+    src: /media/food/soursop/body-1.webp
+    alt: ثمرة القشطة الشوكية الخضراء في وعاء معدني بجوار سلة زرقاء من الليمون الأخضر الزاهي في السوق
+    kind: actual
+    origin: third-party
+    subject: ثمرة قشطة شوكية كاملة بجوار سلة من الليمون الطازج في كشك فواكه
+    credit: Nubelbariloe / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Picture_of_Soursop_and_lime.jpg
+wikidata: "Q1709343"
 ---
 
 شائكة وخضراء وثقيلة، تبدو الـ**soursop** للوهلة الأولى كدوريان صغير — وهكذا بالضبط

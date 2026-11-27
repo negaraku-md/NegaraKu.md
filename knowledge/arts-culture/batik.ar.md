@@ -33,7 +33,7 @@ faq:
     a: "اقلب القماش. فالباتيك الأصيل القائم على مقاومة الشمع — سواء كان canting مرسوماً يدوياً أو blok مختوماً بالقوالب — يُصبَغ بغمس القماش، فينفذ النقش واللون إلى الوجهين ويظهران على الظهر بوضوح يكاد يماثل الوجه. أما القماش المطبوع بالشاشة الحريرية أو رقمياً فيحمل الزخرفة على وجه واحد فقط ويبدو ظهره باهتاً. والخطوط دليل أيضاً: فالـ canting يترك خطوطاً غير منتظمة لا تتكرّر تكراراً تاماً، والـ blok يعطي تكراراً أنيقاً بوصلات خفيفة، بينما تتكرّر الطباعة الآلية بدقة تامة دون أثر لشمع."
 
 lang: "ar"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -79,6 +79,34 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["الباتيك الماليزي", "Malaysian batik", "batik canting", "باتيك كلنتان ترينغانو", "قميص الباتيك", "نسيج مقاومة الشمع", "wax-resist textile"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: 'حرفي باتيك ينحني فوق قطعة قماش بيضاء مشدودة على إطار، يستخدم فرشاة دقيقة لرسم أزهار حمراء زاهية بأسلوب الكركديه بأوراق خضراء وحدود ذهبية يدويًا، في ورشة معلّقة بالصور'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: لقطة مقرّبة لقماش الباتيك تُظهر زهرة قرمزية جريئة بحدود بيضاء دقيقة مرسومة بتقنية مقاومة الشمع وتفاصيل منقّطة، على خلفية زرقاء نيلية غامقة
+    kind: actual
+    origin: third-party
+    subject: لقطة مقرّبة لقماش الباتيك الماليزي المرسوم يدويًا من تيرينغانو تُظهر زهرة حمراء كبيرة محاطة بخطوط بيضاء مرسومة بتقنية مقاومة الشمع
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: أطوال عديدة من قماش الباتيك معلّقة في صفوف، بألوان حمراء وأرجوانية ووردية وخضراء وبرتقالية زاهية، كلٌّ منها مطبوع بأنماط زهرية وورقية وهندسية مختلفة بتقنية مقاومة الشمع
+    kind: actual
+    origin: third-party
+    subject: أطوال من قماش الباتيك الماليزي الملوّن المزخرف معروضة على رفوف في مهرجان للحِرف في تيرينغانو
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 يُوضع طول من القماش الأبيض السادة على إطار. يغمس الحِرَفي قلماً نحاسياً صغيراً — وهو الـ canting، لا يزيد فوهته اتساعاً عن سنّ قلم رصاص — في وعاء من الشمع المذاب، ثم يبدأ الرسم مباشرةً على القماش: لا بالصباغ، بل بالشمع الذي سيأبى أن يأخذ اللون. وبعد أن يبرد الشمع ويتصلّب، يُغمَس القماش في حمّام الصبغة. فحيثما يستقر الشمع، لا تصل الصبغة — وحين يُغلى الشمع لاحقاً ويُزال، يبقى نقشٌ مرسوم لا باللون، بل بغيابه.

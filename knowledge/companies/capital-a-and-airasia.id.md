@@ -30,7 +30,7 @@ faq:
     a: "Setelah pelepasan maskapai, Capital A adalah sebuah kelompok layanan penerbangan dan digital yang dibangun seputar lima bisnis: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next, dan Santan."
 
 lang: "id"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: 'Sebuah pesawat Airbus A320 AirAsia berlivery merah (registrasi 9M-AGP) yang membawa slogan "Now Everyone Can Fly", diparkir di gerbang di Bandara Internasional Kuala Lumpur.'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: Sebuah jet berbadan sempit Airbus A320 AirAsia bercorak livery peringatan khusus dengan tulisan airasia di sepanjang badan pesawat, berdiri di apron Bandara Langkawi di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Sebuah Airbus A320 AirAsia (registrasi Malaysia 9M-AQH) dengan livery peringatan khusus di Bandara Internasional Langkawi
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: Pesawat AirAsia berlivery merah berjajar di gerbang keberangkatan terminal maskapai berbiaya rendah klia2, bangunan terminal yang panjang dan garbarata membentang di sepanjang apron di bawah langit tropis
+    kind: actual
+    origin: third-party
+    subject: Pesawat AirAsia di klia2, terminal maskapai berbiaya rendah Bandara Internasional Kuala Lumpur dan pusat utama maskapai itu di Malaysia
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 Selama bertahun-tahun, "AirAsia" dan "Capital A" digunakan hampir secara bergantian. Setelah restrukturisasi selama beberapa tahun, keduanya kini merujuk pada dua perusahaan tercatat yang berbeda.

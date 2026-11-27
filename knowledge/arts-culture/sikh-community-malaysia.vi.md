@@ -34,7 +34,7 @@ faq:
     a: "Tiếng Punjabi vẫn còn sống nhưng đang trải qua sự dịch chuyển ngôn ngữ: một nghiên cứu học thuật về cộng đồng Sikh ở Kota Kinabalu cho thấy đa số các gia đình nay dùng tiếng Anh ở nhà. Để gìn giữ ngôn ngữ đó, các gurdwara vận hành các lớp Punjabi — ví dụ Trung tâm Giáo dục Punjabi tại Gurdwara Sahib Seremban — dạy chữ Gurmukhi cho trẻ em."
 
 lang: "vi"
-sourceContentHash: "573b2db427c12fb3"
+sourceContentHash: "dfef739c655fae1d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,34 @@ relations:
 related: ["tamil-in-malaysia", "chinese-dialects", "population-composition", "deepavali"]
 keywords: ["Sikh Malaysia", "Punjabi Malaysia", "gurdwara", "Vaisakhi", "Khalsa", "langar", "Tatt Khalsa Diwan", "komuniti Sikh", "bahasa Punjabi"]
 framework: history-culture
+hero: '/media/arts-culture/sikh-community-malaysia/hero.webp'
+heroAlt: 'Một góc nhìn thấp lên mặt tiền trắng có lỗ châu mai của đền Sikh Gurdwara Sahib ở Johor Bahru, biểu tượng Khanda Sikh vàng và chữ Gurmukhi trên mặt trước, một lá cờ Malaysia tung bay từ ban công và một tòa cao ốc thành phố vươn lên phía sau trên nền trời xanh'
+heroCredit: 'Zahirulnukman / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wikimania_2023_-_Johor_Bahru_Photo_Walk_-_Gurdwara_Sahib.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the white battlemented facade of Gurdwara Sahib Johor Bahru, a Sikh temple in Johor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-1.webp
+    alt: Mặt tiền đầu hồi màu vàng tươi và trắng của Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, biểu tượng Khanda của người Sikh phía trên lối vào, những lá cờ Nishan Sahib màu nghệ trên mái và một mái vòm củ hành mạ vàng bên phải, nhìn qua một sân trước lát gạch ca-rô
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Guru Nanak Darbar Tatt Khalsa Diwan Selangor, một đền thờ Sikh ở Shah Alam, Selangor, Malaysia
+    credit: Vano111ru / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gurdwara_Guru_Nanak_Darbar_Tat_Khalsa_Dewan.jpg
+  - role: scene
+    src: /media/arts-culture/sikh-community-malaysia/body-2.webp
+    alt: Mặt tiền nhiều tháp màu trắng cao của Gurdwara Sahib Kuching với các mái vòm đỉnh vàng và tháp nhọn ở góc, những biểu tượng Khanda của người Sikh hai bên một tấm biển vàng đề Gurdwara Sahib Kuching, cờ Malaysia và cờ Sarawak bay từ một cột trung tâm, dưới bầu trời xanh
+    kind: actual
+    origin: third-party
+    subject: Gurdwara Sahib Kuching, ngôi gurdwara của Hiệp hội Đền thờ Sikh Sarawak ở Kuching, Sarawak, Malaysia
+    credit: Yeo Jiun Tzen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sikh_Temple_03.jpg
 ---
 
 Trong hàng ngũ cảnh sát và các đồn lũy của Anh ở Mã Lai thế kỷ 19, nhiều viên chức quấn khăn xếp và để râu rậm ấy không phải người địa phương — họ là người Sikh được đưa từ Punjab ở tây bắc Ấn Độ đến, cách hàng nghìn dặm. Chính từ nhiệm vụ giữ gìn an ninh ấy mà lớn lên một trong những cộng đồng thiểu số nhỏ nhất nhưng dễ nhận ra nhất của Malaysia.

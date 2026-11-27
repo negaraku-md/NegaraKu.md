@@ -86,6 +86,33 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: 'Sebaris penghibur Kristang berkostum tradisional Portugis-Eurasia, para wanita bertudung kepala merah, berblaus putih dan berskirt bersulam dan para lelaki bertopi hitam dan berwaistcoat, menyanyi dan menari di atas pentas di bawah sepanduk Festa San Pedro 2026 di Perkampungan Portugis di Melaka'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: Gerbang pintu masuk bergaya kolonial berwarna putih Medan Portugis atau Portuguese Square di Perkampungan Portugis di Melaka, diapit restoran Kristang berwarna merah jambu dan berpapan tanda, di bawah langit biru yang cerah dengan bangunan pencakar langit moden di latar belakang
+    kind: actual
+    origin: third-party
+    subject: pintu masuk Medan Portugis (Portuguese Square) di Perkampungan Portugis di Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: Sebuah model bot nelayan yang dihias untuk Pesta Santo Petrus di Perkampungan Portugis di Melaka, layar putihnya yang tinggi dilukis dengan babak keagamaan dan imej Santo Petrus, disaluti jala di tepi pantai, dengan pokok palma dan penonton di belakang
+    kind: actual
+    origin: third-party
+    subject: sebuah bot nelayan berhias yang dibina untuk Pesta Santo Petrus (San Pedro) di Perkampungan Portugis, Melaka
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 Di Ujong Pasir, Melaka, ada sebuah perkampungan tepi laut tempat orang bertegur sapa dalam sebuah bahasa yang bukan Melayu, bukan Inggeris, dan bukan pula Portugis moden — sebaliknya sisa hidup lidah para penakluk yang tiba lima abad lalu. Inilah dunia masyarakat Kristang.

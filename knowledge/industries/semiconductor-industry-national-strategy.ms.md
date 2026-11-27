@@ -38,7 +38,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "eab529a902099839"
+sourceContentHash: "1889ac5f6e84a1c8"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,35 @@ relations:
 related: ["electrical-electronics-industry"]
 keywords: ["semiconductor", "National Semiconductor Strategy", "NSS", "OSAT", "advanced packaging", "chip industry Malaysia", "Penang Silicon Valley", "MIDA", "IC design"]
 framework: profile
+hero: '/media/industries/semiconductor-industry-national-strategy/hero.webp'
+heroAlt: 'Pandangan sangat dekat die litar bersepadu menunjukkan litar atas cip perak dan ungu yang rumit, dengan wayar ikatan emas halus terkembang ke petua pakej emas'
+heroCredit: 'Mister rf / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AMD3101E.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires'
+
+images:
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-1.webp
+    alt: Sebuah wafer silikon bulat 300 milimeter dilihat dari atas, dipenuhi grid sekata dai cip berbentuk segi empat tepat dengan warna belauan pelangi merentasi permukaannya
+    kind: representative
+    origin: third-party
+    subject: Sebuah wafer silikon 12 inci (300 mm) bercorak grid dai cip
+    credit: Peellden / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg
+  - role: scene
+    src: /media/industries/semiconductor-industry-national-strategy/body-2.webp
+    alt: Sebuah wafer silikon yang berputar dipenuhi kolam fotorintang merah gelap yang berkilat pada mesin salut putar, dengan rintang terlontar keluar dalam semburan halus
+    kind: representative
+    origin: third-party
+    subject: Sebuah wafer silikon sedang disalut putar dengan fotorintang semasa fabrikasi cip
+    credit: Sei / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Photoresist_spin_coating.jpg
+wikidata: "Q142236007"
 ---
 
 Hampir setiap telefon, komputer riba dan kereta di Bumi membawa cip yang menghabiskan sebahagian hayatnya di Malaysia — dibungkus, diuji dan dihantar dari sebuah kilang di Pulau Pinang atau Lembah Klang. Namun selama lima puluh tahun negara ini melakukan bahagian kerja yang paling kurang menarik dan bermargin paling rendah dalam kerja itu: bahagian belakang. Strategi Semikonduktor Kebangsaan ialah usaha Malaysia untuk mengubah bahagian mana cip yang dimilikinya.

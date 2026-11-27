@@ -70,6 +70,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bandera de Malasia", "14 franjas", "estrella de 14 puntas", "media luna", "Mohamed bin Hamzah", "significado de los colores de la bandera de Malasia"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'La bandera de Malasia, de franjas rojas y blancas y con su cantón azul que lleva una media luna amarilla y una estrella de catorce puntas, ondea desplegada por completo desde un alto mástil blanco contra un cielo azul.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jalur Gemilang: por qué 14 franjas para 13 estados

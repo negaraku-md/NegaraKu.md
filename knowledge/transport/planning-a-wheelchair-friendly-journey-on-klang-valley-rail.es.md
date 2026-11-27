@@ -33,7 +33,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -75,6 +75,32 @@ entity: "Accesibilidad en silla de ruedas en el tren del valle de Klang"
 relations:
   - { rel: "related-to", to: "disability-and-oku-healthcare-access" }
   - { rel: "related-to", to: "a-rainy-day-in-kuala-lumpur" }
+hero: '/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/hero.webp'
+heroAlt: 'Un ascensor de pasajeros de acero inoxidable señalizado con un símbolo azul de accesibilidad para sillas de ruedas y baldosas táctiles en la estación de LRT KLCC en Kuala Lumpur.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: Una hilera de baldosas táctiles de color amarillo intenso con barras en relieve que recorre el borde de un limpio andén de estación de MRT para guiar a los pasajeros con discapacidad visual
+    kind: actual
+    origin: third-party
+    subject: pavimento táctil de guía en el andén de la estación de MRT Surian, Kota Damansara, en el Valle de Klang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: Un andén de estación de MRT amplio y a nivel, con puertas de andén de altura completa a lo largo del borde de la vía y pavimento táctil que marca las zonas de embarque
+    kind: actual
+    origin: third-party
+    subject: un andén con puertas de andén en la estación de MRT Hospital Kuala Lumpur, en el Valle de Klang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 Para una persona usuaria de silla de ruedas, la red ferroviaria del valle de Klang no es un solo sistema sino varios, construidos en décadas distintas con estándares muy diferentes, y esa es la clave para planificar un buen viaje. La decisión más útil que tomas es **en qué modo viajar**; después, el trayecto se logra o fracasa por dos cosas que los mapas lustrosos nunca te muestran: **si un ascensor concreto funciona ese día** y **cómo conectan en realidad los intercambios**. Esta guía trata de cómo planificar en torno a esas realidades. Deliberadamente *no* es una lista de accesibilidad estación por estación —esas condiciones cambian más rápido de lo que cualquier artículo puede seguir—, así que, a lo largo de todo el texto, trata lo que sigue como *aquello para lo que se construyó una estación*, y confirma la condición actual con el operador antes de fiarte de ella.

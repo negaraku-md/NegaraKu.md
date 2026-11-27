@@ -31,7 +31,7 @@ faq:
   - q: ลูกค้าหลักของเฟอร์นิเจอร์มาเลเซียคือใคร?
     a: สหรัฐอเมริกาเป็นตลาดเดี่ยวที่ใหญ่ที่สุดโดยห่าง — รับไปเกือบครึ่งหนึ่งของการส่งออกเฟอร์นิเจอร์ในปี 2024 — ตามด้วยตลาดอย่างสิงคโปร์ ออสเตรเลีย ญี่ปุ่น และสหราชอาณาจักร การกระจุกตัวที่สหรัฐฯ อย่างหนักนี้ทำให้อุตสาหกรรมอ่อนไหวต่ออุปสงค์ที่อยู่อาศัยและนโยบายภาษีของอเมริกาด้วย
 lang: th
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: อาคารหัวมุมสีแดง-ขาวสะดุดตาของร้านเฟอร์นิเจอร์โฮมเบสต์ในกลวง รัฐยะโฮร์ ป้ายเขียนว่า Pusat Perabot Home Best Furniture ทั้งภาษามลายูและภาษาจีน ตัดกับท้องฟ้าสีครามแจ่มใส
+    kind: actual
+    origin: third-party
+    subject: ร้านค้าปลีกเฟอร์นิเจอร์ Pusat Perabot Home Best บนถนนมังกิสในเมืองกลวง รัฐยะโฮร์ มาเลเซีย
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: ไม้เนื้อแข็งเขตร้อนที่เพิ่งเลื่อยเสร็จวางซ้อนเป็นแถวอย่างเป็นระเบียบเต็มลานไม้มีหลังคาเปิดโล่งด้านข้างในซันดากัน รัฐซาบาห์ ลายไม้สีน้ำผึ้งและสีน้ำตาลแดงต้องแสงยามบ่าย
+    kind: actual
+    origin: third-party
+    subject: ไม้เนื้อแข็งเขตร้อนเลื่อยแล้ววางขายเป็นกองที่ลานไม้ในซันดากัน รัฐซาบาห์ มาเลเซีย
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 ที่ไหนสักแห่งในบ้านหลังหนึ่งในเท็กซัสหรือแคลิฟอร์เนีย มีโอกาสดีที่เก้าอี้รับประทานอาหาร โครงเตียง หรือชั้นหนังสือ ถูกผลิตในมาเลเซีย — เป็นไปได้มากว่าในและรอบเมืองเดียว จากไม้ของต้นยางพาราที่เคยผลิตน้ำยางสำหรับถุงมือและยางรถยนต์ อุตสาหกรรมเฟอร์นิเจอร์และผลิตภัณฑ์ไม้ของมาเลเซียเป็นหนึ่งในยักษ์ใหญ่ที่เงียบของเศรษฐกิจการผลิต: ไม่หวือหวา แต่เป็นผู้ส่งออกสิบอันดับแรกของโลกอย่างสม่ำเสมอที่เปลี่ยนผลพลอยได้จากภาคการเพาะปลูกให้เป็นสินค้าสำเร็จรูปที่ขายทั่วโลก

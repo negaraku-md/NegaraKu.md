@@ -4,7 +4,7 @@ title: "马来西亚国民美食：椰浆饭、印度煎饼、炒粿条与叻沙
 seoTitle: "马来西亚国民美食 — 椰浆饭、印度煎饼、叻沙"
 slug: "national-dishes-of-malaysia"
 hero: "/media/food/national-dishes-of-malaysia/hero.webp"
-heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroAlt: '一份蕉叶盛装的椰浆饭（nasi lemak），配参峇酱、炸江鱼仔、烤花生、黄瓜和一个水煮蛋'
 heroCredit: "Jpatokal / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"

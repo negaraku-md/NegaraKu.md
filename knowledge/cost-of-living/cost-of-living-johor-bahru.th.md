@@ -27,7 +27,7 @@ verificationNeeded:
   - "ไม่พบดัชนีค่าเช่าอย่างเป็นทางการที่เฉพาะเจาะจงสำหรับยะโฮร์บาห์รู (Johor Bahru); ข้อความเกี่ยวกับแรงกดดันด้านค่าเช่าจากอุปสงค์ที่เชื่อมโยงกับสิงคโปร์เป็นเชิงคุณภาพ ไม่ได้มีตัวเลขที่เผยแพร่รองรับ."
 
 lang: "th"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,33 @@ relations:
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
 framework: data-reference
+hero: '/media/cost-of-living/cost-of-living-johor-bahru/hero.webp'
+heroAlt: 'เส้นขอบฟ้าเมืองยะโฮร์บาห์รูยามค่ำคืนพร้อมอาคารส่องไฟข้างทางเชื่อมคอสเวย์ยะโฮร์-สิงคโปร์และแสงไฟจราจรเป็นเส้น'
+heroCredit: 'Lionel Lim / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Causeway_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: แผงขายผลผลิตสดในตลาดนัดประจำสัปดาห์ที่บูกิตอินดะฮ์ ยะโฮร์บาห์รู
+    kind: actual
+    origin: third-party
+    subject: ตลาดผลผลิตสดประจำสัปดาห์ที่บูกิตอินดะฮ์ ยะโฮร์บาห์รู
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: ร้านค้าและผู้คนจับจ่ายตามถนนวงอาฟุก ถนนการค้าสายหลักใจกลางยะโฮร์บาห์รู
+    kind: actual
+    origin: third-party
+    subject: ถนนวงอาฟุก ถนนการค้าสายหลักของยะโฮร์บาห์รู
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 คนงานที่ได้รับค่าจ้างขั้นต่ำระดับชาติเต็มของมาเลเซีย RM1,700 ต่อเดือน สามารถอาศัยห่างจากเพื่อนบ้านเพียงสองถนนที่ได้รับเทียบเท่า RM4,000 หรือมากกว่าสำหรับงานหนึ่งวันที่คล้ายคลึงกัน — เมืองเดียวกัน ตลาดสดเดียวกัน ค่าเช่าเดียวกันสำหรับห้องข้าง ๆ ไม่มีอะไรเกี่ยวกับเศรษฐกิจของยะโฮร์บาห์รู (Johor Bahru) เองที่อธิบายช่องว่างนั้น เพื่อนบ้านได้รับค่าจ้างเป็นดอลลาร์สิงคโปร์

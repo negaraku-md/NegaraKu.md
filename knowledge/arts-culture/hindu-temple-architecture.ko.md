@@ -32,7 +32,7 @@ faq:
   - q: "말레이시아의 힌두교 사원은 모두 무루간이나 마리암만 사원인가요?"
     a: "대다수 사원이 시바, 무루간(시바파) 또는 암만/마리암만(샥티 숭배)을 모시지만 그것뿐만은 아닙니다. 비슈누를 모신 비슈누파 사원, 말라얄리와 북인도 전통의 사원, 그리고 시크교의 구르드와라도 말레이시아에 있습니다. 예배 전통에 따라 건축의 세부에도 다소 차이가 있습니다."
 lang: "ko"
-sourceContentHash: "ac5ac4d29104f160"
+sourceContentHash: "0fb3dcaf31212d71"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "mariamman-worship", "temple-music-nadaswaram", "indian-classical-arts-in-malaysia"]
 keywords: ["இந்துக் கோயில் கட்டடக்கலை", "கோபுரம்", "விமானம்", "கர்ப்பக்கிரகம்", "மண்டபம்", "திராவிடக் கட்டடக்கலை", "கும்பாபிஷேகம்", "மலேசியா கோயில்கள்", "Hindu temple architecture", "gopuram", "Dravidian architecture Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/hindu-temple-architecture/hero.webp'
+heroAlt: '뾰족하게 솟은 거대한 피라미드형 남인도 사원 고푸람, 각 층마다 빨강·초록·파랑·금빛의 색색의 힌두 신과 말, 인물 조각으로 가득하며, 구름 낀 파란 하늘을 배경으로 가파르게 올려다보며 촬영한 모습'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_23m_high_gopuram_of_The_Sri_Mahamariamman_temple_(18357428253).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the 22.9-metre gopuram tower of the Sri Mahamariamman Temple in Kuala Lumpur, densely covered with brightly painted Hindu deities, viewed from below against a blue sky'
+
+images:
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-1.webp
+    alt: 입구 위로 조각된 탑이 솟은 남인도 힌두 사원의 화려한 정면으로, 금박 차양 아래 가네샤와 또 다른 신의 큰 채색 조각상이 양옆에 서 있고, 맑은 파란 하늘을 배경으로 명절용 삼각 깃발 장식을 두른 모습
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운의 스리 마하마리암만 사원 정면으로, 조각된 고푸람과 가네샤 및 무루간의 큰 조각상이 양옆을 지키는 입구
+    credit: Sin-siōng / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/hindu-temple-architecture/body-2.webp
+    alt: 거대한 석회암 동굴 안에 서 있는, 조각된 신상들이 꼭대기를 장식한 화려하고 색색의 힌두 사원 사당으로, 가파른 암벽에 늘어진 초록 식물이 걸려 있고 위에서 들어오는 햇빛을 받는 모습
+    kind: actual
+    origin: third-party
+    subject: 초록 식물이 드리워진 우뚝한 동굴 벽을 배경으로, 쿠알라룸푸르 인근 석회암 바투 동굴 사원 내부의 화려하고 색색의 힌두 사당 탑
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_030_-_KL_-_Batu_Caves_Hindu_temple_(3510554856).jpg
 ---
 
 말레이시아 어느 도시든 타밀 공동체가 뿌리를 내린 구역에 다가가면, 하늘을 향해 솟은 조각 가득한 탑이 멀리서부터 눈에 들어옵니다. 색색의 신상이 층층이 늘어선 그 문탑은 우연이 아닙니다 — 천 년 된 건축 전통의 이어짐이며, 남인도 타밀계 사람들이 말레이시아로 함께 가져온 문화 유산의 표식입니다.

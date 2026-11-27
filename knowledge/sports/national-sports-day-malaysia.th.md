@@ -29,7 +29,7 @@ faq:
     a: "HSN เป็นวันสูงสุดของการจัดงาน ตั้งแต่ปี 2019 KBS ขยายการจัดงานตลอดเดือนตุลาคมเป็นเดือนกีฬาแห่งชาติ (BSN)"
 
 lang: "th"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,35 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'ฝูงนักวิ่งไหลผ่านอาคารสุลต่านอับดุล ซาหมัดที่เปิดไฟสว่างระหว่างการแข่งวิ่งถนนยามค่ำคืนในกัวลาลัมเปอร์'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: นักปั่นจักรยานทุกวัยจำนวนมากเต็มถนนที่ปิดการจราจรในกรุงกัวลาลัมเปอร์ยามเช้าตรู่ในงานคาร์ฟรีเดย์ใต้ป้ายเฉลิมฉลอง
+    kind: representative
+    origin: third-party
+    subject: นักปั่นจักรยานจำนวนมากในงานคาร์ฟรีเดย์ยามเช้าที่กรุงกัวลาลัมเปอร์
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: นักกีฬารุ่นเยาว์และเจ้าหน้าที่รวมตัวกันบนลู่วิ่งสีแดงของสนามกีฬามาเลเซียระหว่างการแข่งขันกรีฑานักเรียนระดับอำเภอมีไฟสปอตไลต์และอัฒจันทร์อยู่ด้านหลัง
+    kind: representative
+    origin: third-party
+    subject: นักกีฬาบนลู่วิ่งในการแข่งขันกรีฑานักเรียนระดับอำเภอของมาเลเซีย
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 ทุกวันเสาร์สัปดาห์ที่สองของเดือนตุลาคม สนาม สวนสาธารณะ และหอกีฬาทั่วมาเลเซียควรเต็มแน่น นั่นคือการออกแบบของวันกีฬาแห่งชาติ

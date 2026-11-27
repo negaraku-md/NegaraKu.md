@@ -29,7 +29,7 @@ faq:
     a: "通常不可以。如JPA和MARA等全额奖学金一般要求学生在同一学习阶段放弃PTPTN。请查阅各赞助方的协议条款。"
 
 lang: "zh"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,32 @@ relations:
 related: ["after-spm-options", "ptptn-student-loan"]
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
 framework: explainer
+hero: '/media/education/jpa-and-public-scholarships/hero.webp'
+heroAlt: '森美兰州仁保（Rembau）一所 UiTM 校区的现代黄灰色院系楼，学生沿着校园道路行走。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: 马来西亚理科大学工程校区现代化的教学楼与园林绿地
+    kind: representative
+    origin: third-party
+    subject: 马来西亚理科大学工程校区，一所马来西亚公立研究型大学
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: 马来西亚一所大学毕业典礼上，一排排身穿学位袍、头戴方帽的应届毕业生就座
+    kind: representative
+    origin: third-party
+    subject: 马来西亚大学毕业典礼上身穿礼袍的毕业生（DRB-HICOM大学，2023年）
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 在SPM考获9A+并不一定能保证获得一份海外全额奖学金——因为在马来西亚，公共赞助不仅关乎分数，还关乎你申请的是哪项计划、所绑定的服务条件，以及管理每项基金的政策。理解这张赞助方地图非常重要，因为错误的选择可能意味着日后需要偿还数千令吉。

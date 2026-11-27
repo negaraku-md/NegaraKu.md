@@ -38,7 +38,7 @@ faq:
     a: "L'Institut national du sport (ISN). Il est placé sur une base statutaire par la National Sports Institute Act 2011 [Act 729] et fonctionne pour fournir des services, conseils et consultations en sciences du sport et en médecine du sport, mener des recherches et conseiller le Ministre sur les aspects scientifiques de la performance des athlètes."
 
 lang: "fr"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,9 +87,35 @@ wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }
-related: []
+related: ["badminton-in-malaysia", "football-in-malaysia", "sukma-games"]
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'La façade argentée à lames du stade national de Bukit Jalil se dresse au-dessus d''un parvis vide.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: La façade du bâtiment du National Sports Council of Malaysia (Majlis Sukan Negara) dans le complexe sportif de Bukit Jalil.
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment du National Sports Council of Malaysia (Majlis Sukan Negara) à Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: Le National Aquatic Centre, qui fait partie du complexe sportif national KL Sports City à Bukit Jalil, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Le National Aquatic Centre au sein du complexe sportif national KL Sports City
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 Un nouveau club de football à Johor peut acheter des maillots, louer un terrain et inscrire des joueurs — et il ne peut toujours pas légalement envoyer qui que ce soit représenter la « Malaisie » dans une compétition. La raison n'est ni l'argent ni le talent. C'est une question de qui accorde la permission. En Malaisie, le droit d'exister en tant qu'organisme sportif, le droit d'être financé et le droit de porter le nom de la nation proviennent de quatre institutions différentes que l'on confond souvent avec une seule.

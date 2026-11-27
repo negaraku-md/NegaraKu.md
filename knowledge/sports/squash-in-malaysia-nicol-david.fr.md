@@ -31,7 +31,7 @@ faq:
     a: "Sivasangari Subramaniam, qui a atteint un sommet de carrière de numéro 6 mondiale en octobre 2025, et Ng Eain Yow, qui a remporté l'ACE Malaysia Squash Cup 2024 à domicile."
 
 lang: "fr"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,9 +88,35 @@ entity: "Nicol David"
 wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["squash", "Nicol David", "SRAM", "squash malaisien", "Ng Eain Yow", "Sivasangari Subramaniam", "Open du monde"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'La championne malaisienne de squash Nicol David s''étire pour jouer un coup droit lors d''un match de tournoi.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: Un court d'exhibition de squash entièrement vitré et éclairé par des projecteurs, dressé à l'intérieur d'une arène pour un tournoi professionnel, vu depuis les gradins qui l'entourent.
+    kind: representative
+    origin: third-party
+    subject: Un court d'exhibition vitré dressé pour un tournoi professionnel de squash
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: Deux joueurs s'affrontant sur un court de squash aux parois de verre entouré de spectateurs dans une grande salle lors d'un tournoi de squash majeur.
+    kind: representative
+    origin: third-party
+    subject: Un match de squash professionnel sur un court vitré devant un public comble
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 Pendant neuf années d'affilée, la meilleure joueuse de squash de la planète venait de Penang. Nicol David ne s'est pas contentée de gagner dans le sport individuel le plus prospère de la Malaisie — elle a réécrit ce que signifie y dominer, conservant la place de numéro 1 mondiale pendant **108 mois consécutifs** jusqu'en septembre 2015, le plus long règne ininterrompu que ce sport ait jamais connu.

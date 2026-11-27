@@ -33,7 +33,7 @@ faq:
     a: "천을 뒤집어 보십시오. 진정한 밀랍 방염 바틱은 — 손으로 그린 찬팅이든 도장을 찍은 블록이든 — 천을 담가 염색하기 때문에, 문양과 색이 양면으로 스며들어 뒷면에도 거의 똑같이 선명하게 나타납니다. 실크스크린이나 디지털로 프린트한 천은 한쪽 면에만 문양이 있어 뒷면은 색이 바래 보입니다. 선도 단서가 됩니다. 찬팅은 결코 완벽하게 반복되지 않는 고르지 않은 선을 남기고, 블록은 희미한 이음매와 함께 깔끔하게 반복되며, 기계 프린트는 밀랍의 흔적 없이 정밀하게 반복됩니다."
 
 lang: "ko"
-sourceContentHash: "59a7c365df5fee57"
+sourceContentHash: "8ad38200f601ddc6"
 masterLanguage: "ms"
 wikidata: "Q63442113"
 translationStatus: "in-sync"
@@ -79,6 +79,34 @@ relations:
 related: ["wayang-kulit", "songket"]
 keywords: ["batik Malaysia", "batik canting", "batik Kelantan Terengganu", "kemeja batik pakaian rasmi", "tekstil rintangan lilin"]
 framework: history-culture
+hero: '/media/arts-culture/batik/hero.webp'
+heroAlt: '틀에 팽팽히 펼친 흰 천 위로 몸을 숙인 바틱 장인이 가는 붓으로 선명한 붉은 히비스커스풍 꽃과 초록 잎, 금빛 윤곽선을 손으로 그려 넣고 있으며, 작업실 벽에는 사진들이 걸려 있음'
+heroCredit: 'Shubert Ciencia / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysian_Batik.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a Malaysian batik craftsman hand-painting a colourful floral batik design onto stretched cloth at a batik centre in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/batik/body-1.webp
+    alt: 진한 인디고 블루 배경에 흰색 왁스 방염 윤곽선과 점무늬 디테일로 섬세하게 표현된 선명한 진홍색 꽃을 보여주는 바틱 천의 클로즈업
+    kind: actual
+    origin: third-party
+    subject: 흰색 왁스 방염 선으로 윤곽을 잡은 커다란 붉은 꽃을 보여주는 트렝가누의 손으로 그린 말레이시아 바틱 천 클로즈업
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_Kaftan_01.jpg
+  - role: scene
+    src: /media/arts-culture/batik/body-2.webp
+    alt: 진한 빨강, 보라, 분홍, 초록, 주황색의 수많은 바틱 천이 줄지어 걸려 있으며, 각기 다른 꽃, 잎, 기하학 왁스 방염 무늬가 찍혀 있다
+    kind: actual
+    origin: third-party
+    subject: 트렝가누의 공예 카니발에서 걸이대에 전시된 알록달록한 무늬의 말레이시아 바틱 천들
+    credit: Rulwarih / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batik_Terengganu_20251201.jpg
 ---
 
 한 장의 새하얀 무지 천이 틀에 걸쳐집니다. 한 장인이 작은 구리 펜 — 찬팅(canting)으로, 그 주둥이는 연필심 끝보다 넓지 않습니다 — 을 녹은 밀랍이 담긴 통에 담갔다가, 천 위에 곧바로 그리기 시작합니다. 안료가 아니라, 색을 받아들이기를 거부할 밀랍으로 말입니다. 밀랍이 식어 굳은 뒤에야 비로소 천은 염료 통에 담깁니다. 밀랍이 있는 곳에는 염료가 닿지 못하며, 이후 밀랍을 끓여 없애면 남는 것은 색이 아니라 색의 부재로 그려진 문양입니다.

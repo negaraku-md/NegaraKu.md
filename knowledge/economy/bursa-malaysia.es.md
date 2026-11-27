@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Fundadores y directores financieros que sopesan una OPV, asesores y patrocinadores, e inversores que intentan leer lo que realmente señala una cotización en un tablero."
 
 lang: "es"
-sourceContentHash: "8a42caae2331fbbd"
+sourceContentHash: "6c84d7e795f889a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,34 @@ relations:
 related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-overview", "ringgit"]
 keywords: ["Bursa Malaysia", "requisitos de cotización del Main Market", "ACE Market", "LEAP Market", "FBM KLCI", "30 componentes del KLCI", "OPV Malasia", "tableros de Bursa Malaysia"]
 framework: profile
+hero: '/media/economy/bursa-malaysia/hero.webp'
+heroAlt: 'La torre posmoderna con columnas Exchange Square que alberga Bursa Malaysia, con su fachada de piedra parda y dos coronas con frontón iluminadas de dorado cálido por el sol poniente, enmarcada por el follaje oscuro de los árboles'
+heroCredit: 'Travelpleb / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bursa_Malaysia.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Bursa Malaysia stock-exchange building at Exchange Square, Jalan Bukit Kewangan, Kuala Lumpur, in golden evening light'
+
+images:
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-1.webp
+    alt: Vista hacia arriba de las altas columnas de piedra acanaladas y la cornisa neoclásica del edificio Exchange Square elevándose contra un cielo pálido, con palmeras de abanico en su base
+    kind: actual
+    origin: third-party
+    subject: El edificio Exchange Square, sede de Bursa Malaysia, Kuala Lumpur
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Exchange_Square_Building_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/economy/bursa-malaysia/body-2.webp
+    alt: El edificio Exchange Square, de tejado rojo y con columnas, que alberga Bursa Malaysia, visto desde arriba a través de las copas de los árboles, con su rampa de acceso y su explanada visibles debajo
+    kind: actual
+    origin: third-party
+    subject: Vista elevada del edificio Exchange Square de Bursa Malaysia entre vegetación, Bukit Kewangan, Kuala Lumpur
+    credit: StagiaireMGIMO / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Börse_Kuala_Lumpur.jpg
 ---
 
 ## De un vistazo

@@ -29,7 +29,7 @@ faq:
     a: "Lịch chính thức được ban hành qua Thông tư (Surat Siaran) của KPM và cổng moe.gov.my mỗi năm trước khi năm học bắt đầu. Hãy tham khảo nguồn chính thức để có ngày chính xác vì nó thay đổi mỗi năm."
 
 lang: "vi"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,32 @@ relations:
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
 framework: data-reference
+hero: '/media/education/academic-calendar-and-school-holidays/hero.webp'
+heroAlt: 'Tòa nhà trường tiểu học quốc gia Malaysia hiện đại ba tầng với mái hiên có che và những chiếc ô tô đỗ bên ngoài dưới bầu trời xanh trong.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: Sân tập trung trống trải viền cờ tại một trường học Malaysia, nơi học sinh tụ họp mỗi sáng trước khi tiết học đầu tiên trong ngày bắt đầu.
+    kind: representative
+    origin: third-party
+    subject: Sân tập trung của một trường học Malaysia (tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: Hai nữ sinh mặc đồng phục đi xe máy về nhà trên một con đường ở Langkawi sau khi buổi học trong ngày kết thúc.
+    kind: representative
+    origin: third-party
+    subject: Nữ sinh mặc đồng phục trở về nhà sau giờ học ở Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 Hãy lập kế hoạch cho một chuyến du lịch gia đình vào đầu năm, và bạn nhanh chóng nhận ra một điều: người hàng xóm ở Kelantan khai giảng sớm hơn con bạn ở Selangor một ngày. Đó không phải là một sai sót — đó là cách lịch năm học của Malaysia được thiết kế.

@@ -31,7 +31,7 @@ faq:
     a: "لا. فصيد الأسماك محظور داخل حدود الحديقة البحرية، ولا يجوز للزوار جمع أي جزء من كائن بحري — حيًّا كان أم ميّتًا — بما في ذلك قطع المرجان والأصداف، ولا لمس المرجان أو الوقوف عليه أو إتلافه بأي شكل."
 
 lang: "ar"
-sourceContentHash: "c7a68dc6da13f639"
+sourceContentHash: "ca948b161fb53d78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,9 +69,42 @@ relations:
   - { rel: "governs", to: "fisheries-act-1985" }
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "northeast-monsoon" }
-related: []
+related: ["diving-marine-ecotourism-malaysia", "langkawi-visitor-guide", "sipadan-and-semporna", "johor-bahru-and-johor"]
 keywords: ["بيرهنتيان", "ريدانغ", "تيومان", "كاباس", "حديقة بحرية", "رسم الصون", "الرياح الموسمية الشمالية الشرقية", "جزر ماليزيا", "الغطس السطحي", "الغوص", "Perhentian", "Redang", "Tioman", "Kapas", "marine park", "northeast monsoon"]
-framework: explainer
+framework: explainer
+visitFacts:
+  bestFor: 'مسافرو الشاطئ والشعاب — الغطّاسون السطحيون والغوّاصون الباحثون عن رحلات إلى جزر المنتزهات البحرية، من شواطئ الرحّالة ذوي الميزانية المحدودة إلى منتجعات الباقات.'
+  getThere: 'قارب من الرصيف الخاص بكل جزيرة على البرّ الرئيسي: Merang إلى Redang، وKuala Besut إلى Perhentian، وMarang إلى Kapas في Terengganu، وMersing أو Tanjung Gemok إلى Tioman في Pahang.'
+  permit: 'رسم حفظ إلزامي للمنتزه البحري، يُدفع عند منضدة في محطة الرصيف على البرّ الرئيسي قبل الصعود ومنفصل عن أجرة القارب.'
+  watch: 'لا إغلاق إلزامي واحد، لكن معظم مشغّلي الجزر يغلقون طوعاً خلال الرياح الموسمية الشمالية الشرقية، لذا قرب تلك الأشهر تأكّد من نقل القوارب قبل الدفع.'
+  next: 'تأكّد من رسوم الحفظ الحالية وقواعد المنتزه البحري مع دائرة مصائد الأسماك الماليزية (Department of Fisheries Malaysia).'
+hero: '/media/tourism/east-coast-islands-guide/hero.webp'
+heroAlt: 'شاطئ رمل أبيض خالٍ بصخور غرانيتية بالية وشجرة وحيدة وضحضاح فيروزي تحت سماء زرقاء بغيوم ركامية في جزر بيرهينتيان'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perhentian_Islands,_Malaysia,_Beach.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'A pristine white-sand beach with granite boulders and clear turquoise shallows under a bright sky on the Perhentian Islands, Terengganu'
+images:
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-1.webp
+    alt: شاطئ واسع من الرمال البيضاء يتقوّس نحو جزيرة صخرية صغيرة مكسوّة بالأشجار مع مياه فيروزية ونخيل في Pulau Redang
+    kind: actual
+    origin: third-party
+    subject: شاطئ الرمال البيضاء الطويل في Pulau Redang مع جزيرته الصخرية البحرية ومياهه الفيروزية، Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
+  - role: scene
+    src: /media/tourism/east-coast-islands-guide/body-2.webp
+    alt: منظر مرتفع يطل على أسطح أكواخ ريفية ونخيل باتجاه خليج فيروزي ساطع تتناثر فيه قوارب صغيرة ورأس بري مكسوّ بالأشجار في جزر Perhentian
+    kind: actual
+    origin: third-party
+    subject: منظر مرتفع يطل على قرية شاطئية وخليجها الفيروزي المتناثر بالقوارب في جزر Perhentian، قاعدة شهيرة للغطس السطحي
+    credit: Fahmi Rosli / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Island.jpg
 ---
 
 اصل إلى منتجع شاطئي في ريدانغ في ديسمبر، وستجد القوارب على الأرجح قد رحلت، والرصيف ساكنًا، ومتجر الغوص مُوصَدًا. فجزر الساحل الشرقي تسير على روزنامة يكتبها البحر، لا نشرة السياحة — وعلى جملة من قواعد الحديقة البحرية لا يكتشفها معظم القادمين لأول مرة إلا عند شبّاك التذاكر.

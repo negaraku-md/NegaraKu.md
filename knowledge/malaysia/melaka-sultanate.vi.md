@@ -29,7 +29,7 @@ faq:
     a: "Triều đình đã sống sót. Sultan Mahmud Shah và các hậu duệ của ngài tái lập nền cai trị Mã Lai về phương nam, quan trọng nhất là ở Vương triều Johor, mang theo cấu trúc triều đình, bộ luật và ngôn ngữ của Melaka. Các thiết chế đó tồn tại lâu hơn nền độc lập của thành phố hàng thế kỷ."
 
 lang: "vi"
-sourceContentHash: "cf412842ff34bf8f"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,7 +44,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-19
 sources:
   - title: "Melaka và George Town, các Thành phố Lịch sử của Eo biển Malacca (Melaka and George Town, Historic Cities of the Straits of Malacca)"
     url: "https://whc.unesco.org/en/list/1223"
@@ -57,6 +57,12 @@ sources:
     publisher: "Cục Bảo tàng Malaysia"
   - title: "Biên niên sử Mã Lai (Sejarah Melayu (Malay Annals))"
     publisher: "Cục Lưu trữ Quốc gia Malaysia"
+  - title: "Vương triều Malacca (World History, Tập 2)"
+    url: "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate"
+    publisher: "OpenStax, Rice University"
+  - title: "Lịch sử Malaysia: Vương triều Malacca (History of Malaysia: The Malacca Sultanate)"
+    url: "https://www.britannica.com/topic/history-of-Malaysia"
+    publisher: "Encyclopædia Britannica"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "langkasuka" }
@@ -64,6 +70,32 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'Một cung điện gỗ rộng lớn với những mái ngói xám xếp tầng dốc đứng nằm giữa khu vườn nhiệt đới được chăm chút tỉ mỉ, nhìn từ trên cao với thị trấn lịch sử Melaka trải dài phía sau.'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: Một cổng đá xám phong hóa với lối vào hình vòm và một phù hiệu chạm khắc nhỏ phía trên, đứng đơn độc trên bãi cỏ xanh dưới bầu trời trong sáng; cổng cuối cùng còn sót lại của pháo đài A Famosa ở Melaka.
+    kind: representative
+    origin: third-party
+    subject: cổng pháo đài Bồ Đào Nha A Famosa (Porta de Santiago) ở Melaka, được xây dựng ngay sau khi Vương quốc Hồi giáo sụp đổ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: Khung gạch và đá không mái của một nhà thờ cổ trên đỉnh đồi, những ô cửa sổ trống rỗng và những bức tường đổ nát ánh lên màu nâu đỏ ấm áp dưới ánh ngày, với du khách đi dạo giữa tàn tích.
+    kind: representative
+    origin: third-party
+    subject: tàn tích không mái của Nhà thờ St Paul trên đỉnh Đồi St Paul ở Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 Một hoàng tử chạy trốn khỏi một thành phố đang bốc cháy. Ông vượt một eo biển, giết một thủ lĩnh địa phương đã che chở cho ông, và cứ tiếp tục chạy — qua Muar, qua Ujong Tanah — cho đến khi ông dừng lại dưới một gốc cây bên bờ sông để cho đàn chó của mình nghỉ. Một con dồn một con hoẵng chuột vào góc, và con hoẵng chuột, bị dồn vào chân tường, quay lại đá nó xuống nước. Vị hoàng tử coi đây là một điềm báo: ngay cả sinh vật nhỏ nhất ở đây cũng biết chống trả. Ông quyết định đây là nơi ông sẽ xây thành phố của mình, và đặt tên nó theo cái cây ông đang ngồi dưới — một cây *melaka*.
@@ -75,6 +107,14 @@ Một hoàng tử chạy trốn khỏi một thành phố đang bốc cháy. Ôn
 Giao thương giữa Trung Quốc và Ấn Độ chạy theo gió mùa: tàu thuyền cưỡi gió một hướng trong nhiều tháng, rồi chờ nó đảo chiều. Một hải cảng nằm ở điểm giữa của hành trình đó, cung cấp nước ngọt, chỗ neo đậu an toàn và cách làm ăn công bằng, có thể trở nên không thể thiếu — và Melaka đã như vậy. Trong vòng vài thế hệ kể từ khi Parameswara đến, thành phố thu hút các thuyền mành Trung Quốc, thương nhân Gujarat và Tamil, thương nhân Java, Ả Rập và Ba Tư, tất cả hội tụ về một dải bờ biển vốn không có gì đáng nói ngoài địa lý và sự cai trị.
 
 Sự cai trị đó quan trọng ngang với địa lý. Các nhà cai trị Melaka xây dựng một nền quản lý quanh một nhóm nhỏ các chức vụ — Bendahara (đại thần đứng đầu), Laksamana (thủy sư đô đốc), Temenggung (người đứng đầu về an ninh) và Syahbandar (người đứng đầu cảng, mỗi cộng đồng thương mại lớn có một người) — vốn cho mỗi cộng đồng thương nhân một người có thể lường trước để giao thiệp. Tun Perak, Bendahara trong phần lớn thế kỷ mười lăm, được nhớ đến như người quản lý đã giữ vững hệ thống đó suốt những năm đỉnh cao của Melaka.
+
+## Thời hoàng kim: Trung Quốc, và một đế chế của các chư hầu
+
+Melaka đạt đến đỉnh cao quyền lực vào cuối thế kỷ mười lăm, dưới thời Sultan Mansur Shah và con trai ông là Alauddin Riayat Shah — thời kỳ thường được nhớ đến như thời hoàng kim của vương triều. Phần lớn thành tựu hành chính phía sau nó được ghi công cho Tun Perak, người giữ chức tể tướng từ năm 1456 đến năm 1498 và, trong số các kỳ công khác, đã đẩy lui người Xiêm Ayutthaya đang bành trướng; Melaka trước đó đã đánh bật các cuộc tấn công của người Xiêm vào năm 1446 và 1456.
+
+Hai mối quan hệ chống đỡ cho đỉnh cao đó. Mối quan hệ thứ nhất là với nhà Minh Trung Quốc. Melaka thiết lập quan hệ chính thức với triều đình nhà Minh và tìm kiếm một mối ràng buộc triều cống với triều đình ấy — một mối liên hệ mang sức nặng ngoại giao thực sự: các sứ thần nhà Minh cho người Xiêm biết rằng Melaka được xem là một chư hầu dưới sự bảo hộ của Trung Quốc. Đô đốc Trịnh Hòa (Zheng He) ghé cảng này trong các chuyến hải hành báu vật vĩ đại của nhà Minh vào đầu thế kỷ mười lăm — sáu lần, theo một ghi chép — đặt Melaka vào một trong những đầu mối quan trọng nhất của một mạng lưới hàng hải do Trung Quốc bảo trợ, cho đến khi nhà Minh quay vào bên trong khoảng giữa thế kỷ.
+
+Mối quan hệ thứ hai là tầm với lên các láng giềng. Melaka theo đuổi chính sách bành trướng, thôn tính xứ Pahang giàu vàng và giành được quyền bá chủ đối với phần lớn vùng duyên hải Mã Lai và đông Sumatra; các nhà nước khắp quần đảo dần công nhận nhà cai trị của nó là tông chủ, và Hồi giáo bén rễ qua các vương triều phụ thuộc như Johor, Kedah, Perak, Pahang và Terengganu. Ngay cả Majapahit ở Java, dè chừng sự trỗi dậy của Melaka, cũng tìm cách cầu hòa — theo truyền thống Mã Lai, gắn kết điều đó bằng một cuộc hôn nhân hoàng gia vào triều đình của Mansur Shah. Vào thời cực thịnh, hải cảng này được cho là đã tiếp đón chừng 15.000 thương nhân thuộc nhiều quốc tịch — người Hoa, người Ả Rập, người Ba Tư, người Ấn Độ và hơn thế — chen chúc trong một bến cảng mà, theo ước tính của một người châu Âu thời kỳ đầu, đông hơn bất kỳ bến cảng nào khác trong thế giới đã biết.
 
 ## Cuộc cải đạo đã thay đổi cả một khu vực
 
@@ -94,10 +134,15 @@ Sự giàu có của Melaka rốt cuộc thu hút sự chú ý mà sự giàu c�
 
 Melaka chỉ tồn tại vỏn vẹn 110 năm với tư cách một vương triều độc lập, một khoảng ngắn ngủi so với tiêu chuẩn của các đế chế xung quanh nó. Nhưng hầu như mọi thiết chế về sau định nghĩa nền quốc gia "Mã Lai" — vương triều như một hình thức cai trị, tiếng Mã Lai Melaka như một ngôn ngữ chung, luật triều đình Hồi giáo hợp nhất với tập tục adat — hoặc bắt nguồn ở đó hoặc đi qua nó trên đường đến một nơi khác. Khi hiến pháp hiện đại của Malaysia ghi khắc thiết chế các Quốc vương Mã Lai, hay khi một cặp câu tục ngữ Mã Lai về lòng trung thành với một Sultan được trích dẫn trong một cuốn sách giáo khoa, điểm tham chiếu, dù cách xa bao nhiêu thế kỷ, là triều đình Melaka. Một thành phố thương mại duy nhất, được dựng lên trên sự bướng bỉnh của một con hoẵng chuột và thời điểm của một mùa gió, vẫn đang lặng lẽ làm việc trong đời sống công dân Malaysia sáu trăm năm sau.
 
+## Đọc tiếp ở đâu
+
+- Theo ngai vàng về phương nam sau năm 1511 trong [Vương triều Johor-Riau](/vi/malaysia/johor-riau-sultanate), người thừa kế trực tiếp của Melaka
+- Đọc chính cuộc vây hãm trong [cuộc chinh phục Melaka của Bồ Đào Nha, 1511](/vi/malaysia/portuguese-melaka-1511)
+- Nhìn xa hơn về trước tới các nhà nước sơ kỳ của bán đảo trong [Langkasuka](/vi/malaysia/langkasuka)
+
 ---
 
 *Bài viết này được phân loại là nhạy cảm (3R+1: royalty) theo chính sách biên tập của
 NegaraKu.md, vì chủ đề của nó là nguồn gốc của vương triều Mã Lai với tư cách một thiết
 chế và nó cũng đề cập đến sự đến của Hồi giáo ở quần đảo. Nó được viết để mang tính mô tả
-nghiêm ngặt và được giữ dưới dạng bản nháp chờ sự phê duyệt của con người trước khi xuất
-bản.*
+nghiêm ngặt.*

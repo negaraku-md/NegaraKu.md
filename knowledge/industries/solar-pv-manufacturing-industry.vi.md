@@ -31,7 +31,7 @@ faq:
   - q: Ai điều tiết và xúc tiến ngành?
     a: Cơ quan Phát triển Đầu tư Malaysia (MIDA), thuộc Bộ Đầu tư, Thương mại và Công nghiệp (MITI), xúc tiến và phê duyệt đầu tư sản xuất và quản lý các ưu đãi thuế chính; MATRADE theo dõi hiệu quả xuất khẩu.
 lang: vi
-sourceContentHash: "f9b66939cf6eea2b"
+sourceContentHash: "bb6a42ba35cae93c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,34 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/solar-pv-manufacturing-industry/hero.webp'
+heroAlt: 'Một sàn nhà máy pin mặt trời sáng sủa với những máy lắp ráp tấm pin và công nhân đội lưới tóc và đeo khẩu trang dọc dây chuyền sản xuất'
+heroCredit: 'Bluebird Solar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bluebird_Solar_Manufacturing_Unit.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Solar-PV module manufacturing floor with stringer stations and workers in a clean assembly hall'
+
+images:
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-1.webp
+    alt: Những hàng mô-đun quang điện mặt trời màu xám trên một dây chuyền sản xuất băng chuyền với hai công nhân đang kiểm tra các tấm pin
+    kind: representative
+    origin: third-party
+    subject: Các mô-đun quang điện hoàn thiện di chuyển trên dây chuyền đóng gói mô-đun con tại nhà máy First Solar, Perrysburg, Ohio
+    credit: U.S. Department of Energy / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Solar_panel_submodule_packout,_Perrysburg,_Ohio,_August_2017.jpg
+  - role: scene
+    src: /media/industries/solar-pv-manufacturing-industry/body-2.webp
+    alt: Một hàng dài các tấm pin mặt trời màu sẫm lắp trên khung kim loại trên một cánh đồng xanh dưới bầu trời xanh với mây rải rác
+    kind: representative
+    origin: third-party
+    subject: Một dàn pin quang điện mặt trời lắp trên mặt đất trong một cánh đồng cỏ dưới bầu trời xanh
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg
 ---
 
 Ít người nhận ra rằng khi một chủ nhà hoặc công ty điện lực Mỹ lắp đặt một dàn pin mặt trời, các tấm pin rất có thể đã được làm ở Malaysia. Trong hơn một thập kỷ, đất nước này đã âm thầm là một trong những nhà sản xuất tế bào và mô-đun quang điện mặt trời (PV) lớn nhất thế giới — không phải để cấp điện cho lưới của chính mình, mà để xuất khẩu. Đây là một ngành của các nhà máy, không phải của giá mua điện.

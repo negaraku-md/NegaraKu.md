@@ -77,6 +77,13 @@ relations:
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
 framework: history-culture
+hero: '/media/malaysia/singapore-separation-1965/hero.webp'
+heroAlt: 'ジョホール・シンガポール・コーズウェイが、きらめくジョホール海峡を低く横切って延び、道路と鉄道を載せて、マレーシア側から見た水平線上のシンガポールの海岸線へと向かう。'
+heroCredit: 'Ralff Nestor Nacor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ある国が、たった一つの週末のうちに、創設州の一つを失った。協定は土曜日に署名され、憲法修正は月曜日に可決され、同じ月曜日の午前10時までには、ラジオ・シンガプラ（Radio Singapura）で独立の布告が読み上げられていた。分裂する連邦の多くは、時間をかけて、騒がしく崩れていく。だがこの連邦は——法的な意味において——秘密裏に起草され、十五名の閣僚によって署名された文書によって、約四十八時間のうちに解消された。

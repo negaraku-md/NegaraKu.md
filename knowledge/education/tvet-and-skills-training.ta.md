@@ -19,7 +19,7 @@ keyTakeaways:
   - "சமூகக் கல்லூரிகள் மேலும் நெகிழ்வான நுழைவுடன் குறைந்த நிலைச் சான்றிதழ்களுக்கு முக்கியத்துவம் அளிக்கின்றன, அதேசமயம் பாலிடெக்னிக்குகள் டிப்ளோமாவுக்கு முக்கியத்துவம் அளிக்கின்றன — இரண்டும் உயர்கல்வி அமைச்சின் கீழ் JPPKK-ஆல் மேற்பார்வையிடப்படுகின்றன"
 appliesTo: "படிவம் 3 அல்லது SPM-க்குப் பிந்தைய மாணவர்கள், தங்கள் பிள்ளையின் தொழில் திட்டமிடலைச் செய்யும் பெற்றோர், மற்றும் SKM வழியாக ஏற்கனவே உள்ள திறன்களைச் சான்றளிக்க விரும்பும் வயது வந்த தொழிலாளர்கள்."
 lang: "ta"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,32 @@ relations:
 related: ["public-vs-private-universities", "hrd-corp-levy-malaysia", "after-spm-options", "pre-university-routes"]
 keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pembangunan Kemahiran", "ILP Institut Latihan Perindustrian", "kolej komuniti Malaysia", "kolej vokasional", "politeknik Malaysia", "Akta 652", "NOSS", "DKM DLKM", "ADTEC JMTI"]
 framework: explainer
+hero: '/media/education/tvet-and-skills-training/hero.webp'
+heroAlt: 'தொழில்நுட்பம் மற்றும் திறன் (TVET) பயிற்சிக்கான மலேசிய தொழிற்கல்விக் கல்லூரியான கோலெஜ் வோக்கசியோனல் சுங்கை புலோஹ்வின் நுழைவாயிலும் அடையாளப் பலகையும்.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: Sabah மாநிலம் Kinarut-இல் உள்ள தொழில்முறைத் திறன் பயிற்சி வளாகமான Montfort Youth Training Centre-இன் கூரையிட்ட மைய மண்டபம்; மேடையில் 'Through Work Achieve Success' எனும் விளம்பரத் துணியுடன்.
+    kind: actual
+    origin: third-party
+    subject: மலேசிய இளைஞர் திறன் பயிற்சி மையமொன்றின் உட்புறம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: Sabah-இல் உள்ள Politeknik Kota Kinabalu-இல் வளைவான கூரையிட்ட நுழைவு நடைபாதையும் நவீன கல்விக் கட்டடத் தொகுதியும்.
+    kind: actual
+    origin: third-party
+    subject: மலேசியப் பாலிடெக்னிக் வளாகம் (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 பல படிவம் 3 மாணவர்களும் அவர்களது பெற்றோரும் இடைநிலைப் பள்ளிக்குப் பிறகு

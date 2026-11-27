@@ -48,7 +48,16 @@ version; being correct is our entire differentiation.
 ---
 topicId: MY-<CAT>-NNNN        # CAT: BIZ TAX SEC ACC AUD EMP. Unique.
 title: "Evergreen H1 — no year unless the figures genuinely change annually"
-seoTitle: "Head term first, ≤60 chars"    # optional; omit if title ≤60
+seoTitle: "Head term first, ≤60 chars"    # optional; omit if title ≤60.
+                               # GEO-WORD RULE: add "Malaysia" ONLY if the topic is
+                               # searched cross-country (income tax, work visa, probate,
+                               # minimum wage). OMIT for Malaysian proper nouns — named
+                               # Acts, agency acronyms, scheme names (MUET, PTPTN), place
+                               # names, company profiles (Maybank). Once is the ceiling —
+                               # never repeat it. Localize per language (es=Malasia,
+                               # fr=Malaisie, zh=马来西亚). Use seoTitle to put a keyword +
+                               # geo in the SERP when `title` is an editorial hook.
+                               # Full standard: docs/SEO-TITLE-STANDARD.md
 slug: "kebab-case-matching-filename"
 category: "business"           # business|taxation|company-secretary|accounting|audit|employment
 subcategory: ["cluster-key"]

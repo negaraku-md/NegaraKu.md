@@ -28,7 +28,7 @@ faq:
     a: "एक RA, Societies Act 1966 के तहत पंजीकृत एक सोसाइटी है, कोई सांविधिक निकाय नहीं — इसके पास भुगतान के लिए बाध्य करने की ऐसी शक्ति नहीं है जो किसी संयुक्त प्रबंधन निकाय या प्रबंधन निगम के पास होती है। न्यायालयों ने एक RA को यह अनुमति दी है कि वह भुगतान न करने वाले निवासी से साझा बूम गेट खुद चलवाए, लेकिन किसी निवासी को सीधे प्रवेश से मना करना एक वाद-योग्य उपद्रव (actionable nuisance) बनने का जोखिम रखता है।"
 
 lang: "hi"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["गेटेड और गार्डेड कम्युनिटी मलेशिया", "गार्डेड नेबरहुड मलेशिया", "GACOS Malaysia", "रेजिडेंट्स एसोसिएशन मलेशिया", "residents association Malaysia", "बूम गेट कानूनी मलेशिया", "Au Kean Hoe मामला", "Street Drainage and Building Act 1974", "सार्वजनिक सड़क अवरोध मलेशिया"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: 'शाम के समय सेरेम्बान में, ''Arden Hill Precinct 2'' लिखा एक प्रकाशमान बाड़बंद समुदाय का प्रवेश-मेहराब, चौकीदार कक्ष और बूम गेट के साथ।'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, सेरेम्बान में Forest Heights टाउनशिप के भीतर एक विशिष्ट गेटेड समुदाय, एक ही नियंत्रित परिधि के पीछे भू-स्वामित्व वाले घर सजाता है।
+    kind: actual
+    origin: third-party
+    subject: Arden Hill विशिष्ट गेटेड समुदाय, Forest Heights, सेरेम्बान
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: भू-स्वामित्व वाले घर और सुव्यवस्थित हरियाली इस्कंदर पुतेरी, जोहोर में Horizon Hills गेटेड-एंड-गार्डेड टाउनशिप को भरते हैं, एक बड़ा सुरक्षा-प्रबंधित आवासीय इलाका।
+    kind: actual
+    origin: third-party
+    subject: Horizon Hills गेटेड टाउनशिप, इस्कंदर पुतेरी, जोहोर
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 दो आवासीय इलाके एक जैसे दिख सकते हैं — ईंट का गार्डहाउस, धारीदार बूम गेट, वर्दीधारी गार्ड आपका स्टिकर जाँचता हुआ। एक ठोस कानूनी आधार पर खड़ा है। दूसरा इसलिए मौजूद है क्योंकि अभी तक किसी ने उसे चुनौती नहीं दी।

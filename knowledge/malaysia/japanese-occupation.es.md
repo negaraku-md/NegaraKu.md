@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["ocupación japonesa", "pendudukan Jepun", "Malaya 1941-1945", "dinero plátano", "duit pisang", "Kota Bharu 1941", "administración militar japonesa", "Segunda Guerra Mundial Malasia"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: 'Una banda militar de metales encabeza a una multitud de civiles que marcha por una calle durante un desfile de 1945 que celebra el fin del dominio japonés.'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ocho semanas. Ese es el lapso entre el primer desembarco de las fuerzas japonesas en la costa de Kelantan y el día en que toda Malaya estuvo en manos japonesas — un territorio que los británicos habían gobernado, en diversas formas, durante más de un siglo y medio.

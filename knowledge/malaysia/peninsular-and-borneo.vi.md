@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Du khách, doanh nghiệp và bất kỳ ai đang cố hiểu vì sao 'Malaysia' đôi khi hành xử như hai hệ thống hành chính chia sẻ một hộ chiếu và một lá cờ."
 
 lang: "vi"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'Bản đồ các vùng của Malaysia với Bán đảo Malaysia và Đông Malaysia trên đảo Borneo được thể hiện thành những khối riêng biệt phân theo màu, nằm hai bên Biển Đông.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: Một vùng ruộng lúa xanh mướt phẳng lặng trải dài đến đường chân trời thấp viền hàng cây dưới bầu trời xanh nhạt bao la.
+    kind: actual
+    origin: third-party
+    subject: Ruộng lúa vùng thấp ở Sekinchan, Selangor (Bán đảo Malaysia)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: Một con sông rừng mưa rộng, màu nâu đục phù sa uốn lượn giữa những bờ rừng rậm rạp, với những chiếc thuyền gỗ xanh nhỏ neo tại một bến gỗ.
+    kind: actual
+    origin: third-party
+    subject: Sông Kinabatangan tại Sukau, Sabah (Malaysia vùng Borneo)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 Bay nội địa từ Kuala Lumpur đến Kota Kinabalu và bạn hạ cánh ở chính đất nước mà bạn đã rời đi. Cùng đồng tiền, cùng hộ chiếu, cùng lá cờ trên đuôi máy bay. Vậy mà, tại sảnh đến, bạn xếp hàng ở một quầy kiểu nhập cư và ai đó kiểm tra thẻ căn cước hoặc hộ chiếu của bạn trước khi bạn được đi qua. Không một chuyến bay nào khác bên trong Malaysia hoạt động theo cách đó.

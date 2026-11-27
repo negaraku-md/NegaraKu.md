@@ -37,7 +37,7 @@ faq:
     a: "TRX का अपना रेल स्टेशन है, तुन रज़ाक एक्सचेंज MRT स्टेशन, जो 2017 से चालू है और दो MRT लाइनों से सेवित है। सड़क पहुँच आसपास के मध्य कुआलालंपुर नेटवर्क से मिलती है।"
 
 lang: "hi"
-sourceContentHash: "cccc89ca0e73837c"
+sourceContentHash: "e6a4840284aea5c2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ relations:
 related: ["doing-business-kuala-lumpur", "principal-hub-malaysia", "labuan-company-vs-sdn-bhd", "investment-agency-directory"]
 keywords: ["Tun Razak Exchange", "TRX Kuala Lumpur", "Exchange 106", "Malaysia international financial centre", "TRX Marquee incentives", "The Exchange TRX", "pusat kewangan antarabangsa TRX", "TRX City Sdn Bhd"]
 framework: profile
+hero: '/media/business/tun-razak-exchange-trx/hero.webp'
+heroAlt: 'सफ़ेद बादलों वाली चमकीली नीली आसमान के सामने तुन रज़ाक एक्सचेंज के कार्यालय भवनों के समूह से ऊपर उठती पतली नीली-काँच की सुपरटॉल एक्सचेंज 106'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Exchange 106 supertall rising over the Tun Razak Exchange (TRX) financial district skyline, Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-1.webp
+    alt: अपने पहलूदार चाँदी-रंग के शिखर के साथ Exchange 106 सुपरटॉल मीनार का पूरी-ऊँचाई का दृश्य, नीले आसमान के नीचे Affin इमारत सहित निचली TRX कार्यालय मीनारों से घिरा
+    kind: actual
+    origin: third-party
+    subject: पूर्ण Exchange 106 मीनार, TRX सुपरटॉल, का निकट विवरण, उसके दाईं ओर Affin Bank मुख्यालय के साथ
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg
+  - role: scene
+    src: /media/business/tun-razak-exchange-trx/body-2.webp
+    alt: Tun Razak Exchange क्षेत्र में एक पक्का पैदल चौक, बाईं ओर एक स्टेनलेस-स्टील-और-सुनहरी मूर्ति और पीछे उठती परावर्तक काँच की कार्यालय मीनारें
+    kind: actual
+    origin: third-party
+    subject: Tun Razak Exchange वित्तीय-ज़िले क्षेत्र के भीतर सड़क-स्तरीय चौक और सार्वजनिक कला, काँच की कार्यालय मीनारों से घिरा
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_in_2022-11.jpg
 ---
 
 तुन रज़ाक एक्सचेंज MRT स्टेशन से बाहर निकलिए और क्षितिज आपको बता देता है कि यह योजनाबद्ध था, अपने-आप उगा नहीं। कुआलालंपुर के केंद्र के पूर्वी छोर पर 70 एकड़ में मीनारों का एक समूह, जिनमें से एक 450 मीटर से ऊपर पहुँचती है, एक ऐसे पार्क के इर्द-गिर्द बिछा है जो किसी मॉल की छत पर बैठा है। यह शून्य से एक वित्तीय ज़िला बनाने का मलेशिया का प्रयास है।

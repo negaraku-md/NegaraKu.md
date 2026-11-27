@@ -33,7 +33,7 @@ faq:
     a: "Qingming es el día de mayor afluencia del año en el yishan. En los diez días aproximados en torno a Qingming, las familias chinas suelen ir en pleno al yishan a limpiar las tumbas y honrar a sus antepasados: arrancan la maleza, limpian la lápida, repintan los caracteres grabados desvaídos y disponen las ofrendas. En Cantón, limpiar las tumbas se llama coloquialmente «bai shan» (拜山, rendir homenaje en el monte), expresión que también llegó a la región del Nanyang con los emigrantes. En los últimos años, algunas administraciones de yishan promueven un enfoque más sencillo y ecológico y el manejo adecuado de la basura, y algunas familias pasan ya el día mediante visitas al nicho o el recuerdo en línea."
 
 lang: "es"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,32 @@ relations:
 related: ["qingming-festival", "chinese-clan-associations", "tua-pek-kong", "chinese-religion-in-malaysia"]
 keywords: ["义山", "华人义山", "坟山", "华人墓园", "三宝山", "Bukit Cina", "广东义山", "Kwong Tong Cemetery", "后土", "大伯公", "福德正神", "风水", "灵骨塔", "骨灰龛", "纪念花园", "清明", "拜山", "起骨", "马来西亚华人", "Chinese cemeteries Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-cemeteries/hero.webp'
+heroAlt: 'Una gran tumba china en forma de herradura con inscripciones doradas y paneles laterales tallados, encajada en un montículo cubierto de hierba entre árboles en la colina funeraria de Bukit China en Melaka.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: Hileras de tumbas chinas en forma de omega, revestidas de azulejos, con lápidas y altares en un cementerio con césped en Sarawak
+    kind: actual
+    origin: third-party
+    subject: Tumbas chinas en forma de herradura, revestidas de azulejos, en un cementerio chino cerca de Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: Tiras de papel de colores colocadas sobre un túmulo con césped junto a una lápida durante la festividad de barrido de tumbas Qingming
+    kind: representative
+    origin: third-party
+    subject: Papeles de colores sujetos sobre un túmulo durante el Qingming (barrido de tumbas) en el cementerio de Bukit Brown
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 En torno a Qingming, antes de que el cielo aclare del todo, el pie de Bukit Cina, en Melaka, ya está lleno de coches aparcados. Familia tras familia sube por las laderas onduladas con flores frescas, incienso, velas y ofrendas, camino de las tumbas de sus antepasados. Algunos ofrecen primero incienso en un pequeño nicho de piedra junto a la tumba grabado con los caracteres de «Houtu», y luego se vuelven para cuidar la lápida del antepasado: arrancan la maleza, repintan los caracteres grabados desvaídos y disponen las ofrendas. Las tumbas apretadas a lo largo de la ladera, todas orientadas en la misma dirección, son el lugar de descanso de generación tras generación de chinos que emigraron al sur.

@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,32 @@ faq:
   - q: ¿Por qué viven más hindúes en estados como Negeri Sembilan, Selangor y Perak?
     a: Estos estados coinciden con las antiguas zonas de plantaciones de caucho y minería de estaño, donde los trabajadores indios se asentaron en gran número durante la época británica. En el censo de 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%) y Perak (~9,7%) presentaban las proporciones más altas. La mayoría son descendientes de quienes llegaron del sur de la India para el trabajo en las plantaciones bajo el sistema kangani.
 framework: history-culture
+hero: '/media/arts-culture/hinduism-in-malaysia/hero.webp'
+heroAlt: 'La alta torre gopuram del templo Sri Mahamariamman, esculpida con vivos colores, en el centro de Kuala Lumpur, repleta de figuras de deidades hindúes sobre la entrada del templo donde se encuentran los visitantes.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: La torre gopuram escalonada y de vivos colores del templo Kallumalai Murugan en Ipoh, Perak, cubierta de deidades hindúes esculpidas.
+    kind: actual
+    origin: third-party
+    subject: Colorido gopuram del templo Kallumalai Murugan, Ipoh, Perak
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: Un kolam intrincado y de vivos colores dispuesto en el suelo para Deepavali, la principal festividad hindú de Malasia.
+    kind: actual
+    origin: third-party
+    subject: Un kolam (arte de suelo) de Deepavali, Malasia
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 En cualquier ciudad de Malasia, al borde de una antigua plantación de caucho o en

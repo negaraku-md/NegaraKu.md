@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Propriétaires de logements, propriétaires fonciers et acheteurs de biens immobiliers en Malaisie péninsulaire qui ont besoin de comprendre leurs factures annuelles de taxes foncières."
 
 lang: "fr"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,32 @@ relations:
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "taxe d'évaluation Malaisie", "redevance foncière Malaisie", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
 framework: explainer
+hero: '/media/property/assessment-and-quit-rent/hero.webp'
+heroAlt: 'Une rangée de maisons mitoyennes modernes à deux étages derrière une clôture dans un lotissement malaisien, à Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: Une rangée de maisons mitoyennes à deux étages borde une rue résidentielle malaisienne tranquille, le type de propriété foncière soumise aux taxes d'évaluation (assessment) et à la redevance foncière (quit rent).
+    kind: representative
+    origin: third-party
+    subject: Maisons mitoyennes à deux étages dans un taman malaisien
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: Un survol aérien du lotissement Mutiara Rini à Iskandar Puteri révèle des milliers de maisons individuelles sur des rues en damier, chacune une propriété imposable au rôle du conseil local.
+    kind: representative
+    origin: third-party
+    subject: Vue aérienne du lotissement Mutiara Rini, Iskandar Puteri, Johor
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 Beaucoup de nouveaux propriétaires sont surpris de recevoir une deuxième facture à laquelle ils ne s'attendaient pas. Ils ont déjà payé l'« impôt foncier » cette année — alors pourquoi le conseil municipal envoie-t-il aussi une mise en demeure ?

@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "eae82f9fdc66fe33"
+sourceContentHash: "35c9ce3e10c51a80"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,34 @@ relations:
 related: ["peranakan", "unesco-world-heritage", "christmas-malaysia"]
 keywords: ["Kristang", "Papia Kristang", "Perkampungan Portugis Melaka", "Eurasia Malaysia", "Intrudu", "branyo"]
 framework: history-culture
+hero: '/media/arts-culture/kristang-eurasian-culture/hero.webp'
+heroAlt: 'ムラカのポルトガル人居住区で、2026年フェスタ・サン・ペドロの横断幕の下、伝統的なポルトガル系ユーラシアンの衣装をまとったクリスタンの演者たちが舞台で歌い踊る。女性は赤い頭巾、白いブラウス、刺繍のスカート、男性は黒い帽子とベスト'
+heroCredit: 'Song GK / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Portuguese_Settlement,_Melaka_-_02_(2026).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kristang dancers in Portuguese-Eurasian dress performing at Festa San Pedro in the Portuguese Settlement, Melaka'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-1.webp
+    alt: マラッカのポルトガル人集落にあるメダン・ポルティス（ポルトガル広場）の白い植民地様式の入口アーチ。ピンク色で看板を掲げたクリスタンのレストランが左右に並び、澄んだ青空の下、背景には近代的な高層ビルがある
+    kind: actual
+    origin: third-party
+    subject: マラッカのポルトガル人集落にあるメダン・ポルティス（ポルトガル広場）の入口
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
+  - role: scene
+    src: /media/arts-culture/kristang-eurasian-culture/body-2.webp
+    alt: マラッカのポルトガル人集落で聖ペトロの祝祭のために飾られた模型の漁船。背の高い白い帆には宗教的な場面と聖ペトロの姿が描かれ、水辺のそばで漁網をかけられ、背後にはヤシの木と見物人がいる
+    kind: actual
+    origin: third-party
+    subject: マラッカのポルトガル人集落で聖ペトロの祝祭（サン・ペドロ）のために作られた飾られた漁船
+    credit: Song GK / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Intrudu_-_Feast_of_St_Peter_2026_(1).jpg
 ---
 
 マラッカのウジョン・パシールには、人々がマレー語でも英語でも、現代ポルトガル語でもない言葉で挨拶を交わす海辺の村がある——五世紀前に到来した征服者たちの言葉が、今なお生きて残る痕跡である。これがクリスタン人コミュニティの世界である。

@@ -34,7 +34,7 @@ faq:
     a: "PETRA (ஆற்றல் மாற்றம் மற்றும் நீர் மறுசீரமைப்பு அமைச்சு) என்பது நாட்டின் ஆற்றல் மற்றும் நீர் கொள்கையை வகுத்து, 2050ஆம் ஆண்டுக்குள் நிகர சுழிய கார்பன் வெளியீட்டை நோக்கிய மாற்றத்தை இயக்கும் அமைச்சாகும். ஆற்றல் ஆணையம் என்பது PETRA-வின் கீழுள்ள ஒழுங்குமுறை சட்டரீதியான அமைப்பாகும், இது உரிமம் வழங்குதல், கட்டணங்களை நிர்ணயித்தல் மற்றும் மின்சாரம் மற்றும் எரிவாயு வழங்கல் தொடர்பான சட்டங்களை அமல்படுத்துகிறது."
 
 lang: "ta"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["sektor tenaga Malaysia", "NETR", "Peta Jalan Peralihan Tenaga Negara", "PETRA", "Suruhanjaya Tenaga", "Petronas", "tarif elektrik RP4", "BUDI95", "tenaga boleh baharu Malaysia", "grid elektrik Malaysia"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'புகைபோக்கிக் கூண்டுகளுடனும் கடலுக்குள் நீளும் கப்பல்துறைகளுடனும் கூடிய கடலோர நிலக்கரி மின் நிலையத்தின் வான்வழிக் காட்சி.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: டர்பைன் கூடங்கள், உலோக புகை போக்கிகள், மின்மாற்றிகள் மற்றும் எஃகு சட்டங்கள் நிறைந்த வேலியிடப்பட்ட மின்மாற்று முற்றம் ஆகியவற்றுடன் கூடிய ஒரு எரிவாயு மின் நிலையம்; பின்னணியில் காடுசூழ் குன்றுகளும் தெளிவான வானமும் கொண்ட திறந்த நிலத்தில் அமைந்துள்ளது
+    kind: actual
+    origin: third-party
+    subject: சபா, கோத்தா கினபாலுவுக்கு அருகே உள்ள ருகடிங் மின் நிலையம், சபா மின்வலையமைப்புக்கு மின்சாரம் வழங்கும் ஒரு எரிவாயு மின் உற்பத்தி நிலையம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: எல்லை வேலிக்குப் பின்னால் தாழ்வான தொழிற்சாலை கட்டிடங்கள், உலோகக் குழாய்கள் மற்றும் ஒரு உயரமான புகைபோக்கியுடன் கூடிய ஒரு கடலோர மின் நிலையம்; அருகில் பனைமரங்களும் திறந்தவெளி நிலமும், மங்கலான வானத்தின் கீழ்
+    kind: actual
+    origin: third-party
+    subject: மலாக்கா கடற்கரையில் உள்ள தஞ்சோங் க்லிங் மின் நிலையம், தீபகற்ப மலேசியாவின் மின் உற்பத்தித் தொகுப்பின் ஒரு பகுதி
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 கோலாலம்பூரில் விளக்கு சுவிட்சை இயக்குங்கள், ஈப்போவில் RON95 எரிபொருள் நிரப்புங்கள்,

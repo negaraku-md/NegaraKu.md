@@ -103,7 +103,7 @@ relations:
   - { rel: "governs", to: "chartered-accountant-malaysia" }
   - { rel: "related-to", to: "audit-oversight-board" }
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
-related: []
+related: ["audit-oversight-board-pie-registration", "maicsa", "micpa"]
 keywords: ["MIA", "المعهد الماليزي للمحاسبين", "قانون المحاسبين 1967", "Accountants Act 1967", "Chartered Accountant Malaysia", "CA(M)", "محاسب قانوني ماليزيا", "شهادة الممارسة", "رخصة التدقيق"]
 framework: profile
 ---

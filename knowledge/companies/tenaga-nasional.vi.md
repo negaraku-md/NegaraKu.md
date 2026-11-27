@@ -30,7 +30,7 @@ faq:
     a: "TNB sở hữu và vận hành mạng lưới lưới điện quốc gia cần được nâng cấp để hấp thụ năng lượng tái tạo, phù hợp với các mục tiêu của Lộ trình Chuyển đổi Năng lượng Quốc gia (NETR)."
 
 lang: "vi"
-sourceContentHash: "d5616d09c699df65"
+sourceContentHash: "34bce695fd9556ff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,9 +83,37 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "suruhanjaya-tenaga" }
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-commission-suruhanjaya-tenaga", "glc-dominance-malaysian-economy"]
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
 framework: profile
+hero: '/media/companies/tenaga-nasional/hero.webp'
+heroAlt: 'Cảnh nhìn từ trên không đập Kenyir với thân đập đắp đá xám đề chữ KENYIR trắng khổng lồ, nhà máy thủy điện và đường dây truyền tải ở chân đập cùng hồ Kenyir trải dài phía sau'
+heroCredit: 'TheHolySnail / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bernama_kenyir_dam_20220227_Nero_AI_Image_Upscaler_Photo_Face.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kenyir Dam and the Sultan Mahmud Power Station, TNB''s hydroelectric facility in Terengganu'
+
+images:
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-1.webp
+    alt: Trụ sở chính của Tenaga Nasional Berhad tại Bangsar, Kuala Lumpur, một khối văn phòng cao màu xám trên nóc mang biểu tượng TNB màu đỏ và biển hiệu 'TENAGA NASIONAL' được chiếu sáng trên nền đường chân trời thành phố
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà trụ sở chính của Tenaga Nasional Berhad tại Bangsar, Kuala Lumpur
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenaga_Nasional_building_in_Bangsar.JPG
+  - role: scene
+    src: /media/companies/tenaga-nasional/body-2.webp
+    alt: Nhà máy điện Connaught Bridge ở Klang, một nhà máy điện gạch đỏ dài với một ống khói cao kẻ sọc đỏ-trắng dưới bầu trời xanh sáng
+    kind: actual
+    origin: third-party
+    subject: Nhà máy điện Connaught Bridge của TNB ở Klang, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Connaught_Bridge_Power_Station.jpg
 ---
 
 Mỗi khi đèn trong nhà bạn bật sáng ở Bán đảo, khả năng rất cao là dòng điện đó chảy qua dây của một công ty duy nhất: Tenaga Nasional Berhad. Đây là đơn vị tiện ích điện lớn nhất của đất nước, với hơn 11 triệu khách hàng ở Bán đảo Malaysia, Sabah và Labuan tính đến ngày 30 tháng 9 năm 2025.

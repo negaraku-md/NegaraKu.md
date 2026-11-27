@@ -33,7 +33,7 @@ faq:
     a: "هذه إحدى أشهر أساطير القمر في منتصف الخريف: يُروى أن هو يي حصل على إكسير الخلود، وأن زوجته تشانغ آه تناولت الإكسير في ظروف معينة، فخفّ جسدها وطارت صاعدةً لتسكن القمر، منفصلةً عن عالم البشر منذ ذلك الحين. وللقصة روايات عديدة بتفاصيل مختلفة، وتُعدّ عمومًا أسطورة شعبية تفسّر (تأمّل القمر في منتصف الخريف ووجود ساكن على القمر)، لا حقيقة تاريخية؛ ويكتفي هذا المقال بروايتها باختصار."
 
 lang: "ar"
-sourceContentHash: "ededc0ef59c3bcfd"
+sourceContentHash: "2d3a41b80661044b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,34 @@ festivalFacts:
   when: "يقع ثابتًا في اليوم الخامس عشر من الشهر الثامن في التقويم القمري، وفيه يكون القمر أكثر اكتمالًا وسطوعًا رمزًا للمّ الشمل؛ أما تاريخه الميلادي المقابل فيتغيّر كل عام تبعًا للتقويم القمري، وعادةً ما يقع في سبتمبر أو أكتوبر."
   holiday: "ليس عطلة رسمية. عيد منتصف الخريف في ماليزيا ليس عطلة رسمية على مستوى البلاد ولا في أي ولاية، وتعمل المحالّ التجارية والدوائر الحكومية كالمعتاد (بخلاف رأس السنة القمرية الذي يُمنح عطلة رسمية في يوميه الأولين)."
   etiquette: "الاحتفالات العامة التي تنظّمها الجمعيات الصينية والمعابد (مثل معبد Thean Hou في Kuala Lumpur) والمنظمات المجتمعية — كأمسيات الفوانيس والعروض الفنية — كثيرًا ما ترحّب بمشاركة سكان من أعراق أخرى ومشاهدتهم، وفيها جانب من التشارك العابر للأعراق."
+hero: '/media/arts-culture/mid-autumn-festival/hero.webp'
+heroAlt: 'منحوتة فانوس حريري كبيرة متوهّجة لرجل مبتسم بسترة بنفسجية وسروال أحمر يرفع فانوسًا كرويًا أزرق وأصفر ليلاً، مع صفوف من الفوانيس الحمراء والذهبية المعلّقة المضاءة على طول ممشى خلفه خلال احتفال منتصف الخريف الماليزي'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lantern_Statue_of_a_man_holding_a_globe_during_Moon_Cake_Festival_in_2019.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'an illuminated lantern sculpture and lantern display at a Mid-Autumn (Mooncake) Festival at a temple in Selangor, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-1.webp
+    alt: صفوف من كعك القمر المخبوز الذهبي اللون المطبوع بزخارف الأرنب اليشمي والأزهار موضوعة لتبرد على صينية معدنية مثقّبة، وقممها اللامعة من العجين تعكس الضوء
+    kind: representative
+    origin: third-party
+    subject: كعك قمر طازج بزخرفة الأرنب اليشمي، الطعام المميز لمهرجان منتصف الخريف
+    credit: Fumikas Sagisavas / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jade_rabbit_mooncakes.jpg
+  - role: scene
+    src: /media/arts-culture/mid-autumn-festival/body-2.webp
+    alt: فانوس ورقي أحمر مطوي على شكل أكورديون مطبوع بنجوم بيضاء وصورة ظلية لأرنب، معلّق أمام أوراق خضراء وأزهار وردية، وهو الفانوس الورقي القابل للطيّ الذي يحمله الأطفال في منتصف الخريف
+    kind: representative
+    origin: third-party
+    subject: فانوس ورقي أحمر تقليدي مطوي من النوع الذي يحمله الأطفال خلال مهرجان منتصف الخريف
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_Lantern_(made_with_paper).jpg
 ---
 
 مع حلول ليل اليوم الخامس عشر من الشهر الثامن القمري، تتدلّى في بهو مركز التسوّق فوانيس حمراء متوهّجة، وفي حديقة الحي السكني يتجوّل الأطفال في مجموعات من اثنين وثلاثة حاملين فوانيس مضاءة. وعلى طاولة الطعام في البيت، صندوق كعك قمر مقطّع إلى قطع صغيرة إلى جانب إبريق شاي ساخن، وبجواره ثمرة بوملي مقشّرة. تخرج العائلة بكراسيّها إلى خارج البيت، وترفع أنظارها إلى أكثر أقمار السنة استدارة — هذه هي ليلة منتصف الخريف النموذجية في بيت صيني ماليزي.

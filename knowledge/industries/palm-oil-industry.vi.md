@@ -37,7 +37,7 @@ faq:
     a: "Ủy ban Dầu cọ Malaysia (MPOB), một cơ quan theo luật định trực thuộc Bộ Đồn điền và Hàng hóa, cấp phép và giám sát mọi giai đoạn từ trồng trọt đến xuất khẩu, và điều hành nghiên cứu và phát triển của ngành."
 
 lang: "vi"
-sourceContentHash: "e7701d74a9145bd8"
+sourceContentHash: "3c17a15a038be069"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,34 @@ relations:
 related: ["rubber-industry"]
 keywords: ["palm oil", "crude palm oil", "CPO", "MPOB", "FELDA", "smallholders", "oil palm", "refineries", "oleochemicals", "MSPO", "biodiesel", "exports"]
 framework: profile
+hero: '/media/industries/palm-oil-industry/hero.webp'
+heroAlt: 'Những hàng cọ dầu trưởng thành phủ kín các sườn đồi bên cạnh một con đường đồn điền ở Kunak, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kunak-District_Sabah_Oil-palm-plantation-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-1.webp
+    alt: Một chiếc xe tải chất đầy các buồng quả tươi cọ dầu màu đỏ đỗ tại cổng nhà máy dầu cọ Apas Balung ở Tawau, Sabah
+    kind: actual
+    origin: third-party
+    subject: Xe tải chất đầy buồng quả tươi tại nhà máy dầu cọ Apas Balung, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balung_Tawau_Sabah_Apas-Balung-Mill-04.jpg
+  - role: scene
+    src: /media/industries/palm-oil-industry/body-2.webp
+    alt: Một nhà máy dầu cọ với ống khói bốc hơi nằm giữa một biển đồn điền cọ dầu bao la dưới bầu trời nhiều mây ở Kunak, Sabah
+    kind: actual
+    origin: third-party
+    subject: Nhà máy dầu cọ IOI Baturong được bao quanh bởi đồn điền cọ dầu, Huyện Kunak, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:District-Kunak_Sabah_IOI-Baturong-Palm-Oil-Mill-02.jpg
 ---
 
 Dầu cọ là loại dầu thực vật được giao dịch nhiều nhất thế giới, và Malaysia là nhà sản xuất lớn thứ hai của nó — sau Indonesia — biến một buồng quả đỏ tua tủa được trồng từ Johor đến các đồi núi Sarawak thành dầu ăn tinh chế, nguyên liệu xà phòng và dầu diesel sinh học được vận chuyển tới các thị trường khắp châu Á, châu Phi và châu Âu. Ngành này hỗ trợ hơn 3 triệu người Malaysia một cách trực tiếp và gián tiếp, bao gồm gần 500,000 tiểu điền chủ, theo Hội đồng Dầu cọ Malaysia (MPOC). Đây là cách bộ máy đó được xây dựng, từ cây đến tàu chở dầu.

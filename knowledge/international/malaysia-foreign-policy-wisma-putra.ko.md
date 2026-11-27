@@ -37,7 +37,7 @@ faq:
     a: "아세안은 말레이시아 외교 정책의 근간 혹은 기초입니다. 말레이시아는 아세안 창립국 중 하나로 늘 아세안의 통합성과 중심성(centrality)을 우선시하면서, 국제연합(UN), 이슬람협력기구(OIC), 비동맹운동(NAM) 같은 다른 포럼에서도 능동적입니다."
 
 lang: "ko"
-sourceContentHash: "e4879b43ed98e1b7"
+sourceContentHash: "d2ba38f152219ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ relations:
 related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 framework: explainer
+hero: '/media/international/malaysia-foreign-policy-wisma-putra/hero.webp'
+heroAlt: '야자수가 늘어선 위스마 푸트라로의 진입로, ''Wisma Putra Kementerian Luar Negeri Malaysia'' 간판과 뒤편의 부처 타워를 보여주는 모습'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-04.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Wisma Putra approach with its entrance signboard, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/international/malaysia-foreign-policy-wisma-putra/body-1.webp
+    alt: Putrajaya에 있는 Wisma Putra 단지 입구를 넓게 본 모습으로, 국기들과 수위실이 보인다
+    kind: actual
+    origin: third-party
+    subject: Putrajaya의 Wisma Putra 입구와 수위실을 더 넓게 본 모습
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Foreign-Affairs-02.jpg
 ---
 
 미국이 말레이시아 경제에서 가장 큰 외국인 투자자이지만 중국이 최대 교역 상대국일 때, 작고 개방된 국가는 편을 들 수 없습니다. 그것이 바로 말레이시아 외교 정책이 수십 년간 말하기는 쉽지만 지키기는 어려운 한 단어에 매달려 온 이유입니다: 중립. 그 균형을 매일 지키는 임무를 맡은 부처가 위스마 푸트라입니다.

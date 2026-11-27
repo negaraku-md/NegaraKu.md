@@ -32,7 +32,7 @@ seoTitle: "Le tamoul en Malaisie : locuteurs, écoles SJKT et statut constitutio
 socialTitle: "Comment le tamoul est parlé, scolarisé et protégé en Malaisie"
 
 lang: "fr"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,32 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["tamoul en Malaisie", "Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "écoles de tamoul Malaisie", "Indiens malaisiens", "Article 152", "instruction en tamoul", "écoles vernaculaires"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'Le panneau du portail d''une école d''enseignement en tamoul à Changlun, Kedah, inscrit en écriture tamoule au-dessus du nom anglais S.J.K (Tamil) Changlun, avec le bâtiment scolaire à l''arrière.'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: Un panneau malaisien « Entrée interdite », rouge et blanc, indiquant « Dilarang Masuk » avec le même avertissement en anglais, chinois, pendjabi et, sur la dernière ligne, en écriture tamoule.
+    kind: actual
+    origin: third-party
+    subject: Panneau malaisien multilingue avec une ligne en écriture tamoule, Kota Kinabalu
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: Le bloc de salles de classe ouvert d'une école primaire de langue tamoule à Changlun, Kedah, ses entrées et sa ligne de toit pavoisées de drapeaux malaisiens sous un ciel lumineux.
+    kind: actual
+    origin: third-party
+    subject: Bloc de salles de classe d'une école primaire nationale de type tamoul, Changlun, Kedah
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 Dans les anciennes plantations d'hévéas de Malaya, certaines des premières salles de classe furent des hangars et des cabanes, et les leçons se donnaient en tamoul. Selon une étude historique publiée dans la revue de l'Association historique de Malaisie, dès le début du XXe siècle une éducation primaire de base en tamoul était offerte dans les plantations, prévue par les codes du travail de l'époque et, pendant longtemps, dispensée par des commis et des travailleurs à temps partiel plutôt que par des enseignants formés.

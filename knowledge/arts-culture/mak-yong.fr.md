@@ -33,7 +33,7 @@ faq:
     a: "Les représentations publiques au Kelantan sont restreintes en vertu d'une loi d'État sur le contrôle du divertissement adoptée en 1998. Le 25 septembre 2019, le vice-ministre en chef (Menteri Besar) du Kelantan, Datuk Mohd Amar Nik Abdullah, a annoncé que les représentations sont autorisées sous réserve de conditions conformes à la charia fixées par le gouvernement de l'État, notamment l'absence d'éléments de culte et l'obligation de couvrir l'aurat, avec un suivi continu assuré par le gouvernement de l'État et les autorités religieuses de l'État."
 
 lang: "fr"
-sourceContentHash: "fddcf6b015e88b34"
+sourceContentHash: "4cadfb5e7c020d11"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,34 @@ relations:
 related: ["wayang-kulit", "batik"]
 keywords: ["Mak Yong", "teater tarian tradisional", "warisan budaya tidak ketara", "UNESCO Malaysia", "rebab", "Kelantan", "Pak Yong", "Mengadap Rebab"]
 framework: history-culture
+hero: '/media/arts-culture/mak-yong/hero.webp'
+heroAlt: 'Quatre artistes de mak yong en costume malais traditionnel or et bordeaux sur une scène assombrie, l''un portant une haute couronne dorée et l''autre un masque de clown blanc'
+heroCredit: 'Amriyadibahar / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mak_Yong_Bintan.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Mak Yong troupe performing on stage, with the crowned Pak Yong role and a masked clown (peran), Bintan, Riau (same Malay tradition as Kelantan)'
+
+images:
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-1.webp
+    alt: Deux costumes de Mak Yong sur des mannequins derrière une vitre, une tunique dorée avec une couronne ornée de bijoux et une tunique bordeaux avec une coiffe sombre, au musée de l'État du Kelantan
+    kind: actual
+    origin: third-party
+    subject: Costumes de Mak Yong aux couronnes ornées exposés au musée de l'État du Kelantan, en Malaisie
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kostum_Mak_Yong_Muzium_Negeri_Kelantan.jpg
+  - role: scene
+    src: /media/arts-culture/mak-yong/body-2.webp
+    alt: Photo historique sépia d'une danseuse de Mak Yong couronnée debout parmi des musiciens masculins assis tenant des tambours gendang et un rebab
+    kind: representative
+    origin: third-party
+    subject: Photographie historique d'une danseuse principale de Mak Yong couronnée entourée de musiciens assis avec des tambours et un rebab
+    credit: Unknown author / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ma_Yong.jpg
 ---
 
 Le premier son ne vient pas d'un interprète. Il vient d'un morceau de bois en forme de poire muni de trois cordes — un rebab — frotté lentement d'un archet au bord d'une scène de bois ouverte. Le public est assis sur trois côtés. Le toit est en feuilles de palmier tressées. Et avant qu'une seule ligne de dialogue ne soit prononcée, une princesse s'est déjà inclinée vers l'instrument dans une danse dont le nom seul explique tout : **Mengadap Rebab**.

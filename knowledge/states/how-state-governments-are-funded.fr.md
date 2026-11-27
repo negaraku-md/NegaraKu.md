@@ -66,9 +66,16 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysian-federalism-explained" }
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
-related: []
+related: ["district-administration-in-malaysia", "state-assemblies-dun", "federal-constitution"]
 keywords: ["hasil negeri", "revenus des États", "geran perkapita", "subvention par habitant", "geran jalan raya negeri", "Jadual Kesepuluh", "Dixième annexe", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "redevances", "cukai jualan negeri"]
 framework: explainer
+hero: '/media/states/how-state-governments-are-funded/hero.webp'
+heroAlt: 'Une salle de cérémonie au toit Minangkabau aux hauts toits incurvés brun doré devant la tour administrative de l''État Wisma Negeri moderne à Seremban.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban_(2).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lorsqu'un gouvernement d'État de la Malaisie établit son budget, il part d'une réalité rarement évoquée : les impôts qui rapportent le plus — l'impôt sur le revenu, la taxe sur les ventes et services, les droits de douane — ne lui reviennent pas à percevoir. Ces sources relèvent de la compétence fédérale. Ce qui reste aux États, et la manière dont l'écart est comblé, est inscrit noir sur blanc dans la Constitution fédérale.

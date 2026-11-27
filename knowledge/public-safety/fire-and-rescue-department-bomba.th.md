@@ -31,7 +31,7 @@ faq:
     a: "JBPM ถูกจัดอยู่ในรายชื่อกรมภายใต้กระทรวงการเคหะและการปกครองส่วนท้องถิ่น (KPKT) การจัดสรรกระทรวงต่างๆ ในมาเลเซียมีการจัดระเบียบใหม่เป็นครั้งคราว ดังนั้นโปรดตรวจสอบการจัดระเบียบปัจจุบันที่ kpkt.gov.my หรือ bomba.gov.my ก่อนนำไปอ้างอิงในเอกสารทางการ"
 
 lang: "th"
-sourceContentHash: "abdab84b2d95cdb5"
+sourceContentHash: "0e07180760fab0bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,33 @@ relations:
 related: ["pdrm"]
 keywords: ["Bomba", "JBPM", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "Akta Perkhidmatan Bomba 1988", "Akta 341", "999", "MERS 999"]
 framework: profile
+hero: '/media/public-safety/fire-and-rescue-department-bomba/hero.webp'
+heroAlt: 'รถดับเพลิง Scania Bomba สีแดงสดเหมือนกันหลายคันในลาย ''Bomba dan Penyelamat'' เข้าชุดกัน จอดต่อท้ายกันเป็นแถวเรียบร้อยบนพื้นที่โล่งข้างอาคารสถานี ใต้ท้องฟ้าสีครามใส'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Balai-Bomba-dan-Penyelamat-03.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a row of red Bomba (Fire and Rescue Department of Malaysia) fire engines lined up at a fire station in Kota Kinabalu, Sabah'
+images:
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-1.webp
+    alt: รถดับเพลิงและกู้ภัย Bomba ขับเคลื่อนสี่ล้อสีแดงมีกระบะหลังคลุมผ้าใบและตราหน่วยงานบนประตู จอดอยู่ที่ลานด้านหน้าสถานีดับเพลิงหลังคาแดง มีต้นปาล์มอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: รถกู้ภัยหนัก Bomba สีแดงคันเดียวจอดอยู่ที่สถานีดับเพลิงในซันดากัน รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Balai-Bomba-05.jpg
+  - role: scene
+    src: /media/public-safety/fire-and-rescue-department-bomba/body-2.webp
+    alt: ด้านหน้าของสถานีดับเพลิงสามชั้นทาสีเบจและดินเผา แถวประตูม้วนสะกดคำว่า BOMBA ด้วยตัวอักษรสีแดงใหญ่ใต้ป้ายเขียนว่า 'Balai Bomba dan Penyelamat Jalan Kubu' มีโคมไฟแดงประดับพาดด้านหน้าอาคาร
+    kind: actual
+    origin: third-party
+    subject: ด้านหน้าสถานีดับเพลิง Jalan Kubu (Balai Bomba dan Penyelamat) ในมะละกา มีคำว่า BOMBA สะกดเป็นตัวใหญ่บนประตูโรงรถดับเพลิง
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Kubu-Fire-Station-01.jpg
 ---
 
 เมื่อบ้านหลังหนึ่งถูกไฟไหม้ รถคันหนึ่งติดอยู่ในน้ำท่วม หรือคนงานคนหนึ่งติดอยู่ในพื้นที่อับอากาศ หมายเลขเดียวกันหนึ่งหมายเลขจะกลายเป็นจุดเชื่อมต่อแรกระหว่างผู้ประสบเหตุกับความช่วยเหลือ — และที่ปลายสายนั้น บ่อยครั้งคือ Bomba การเข้าใจว่ากฎหมายมอบอำนาจอะไรให้แก่กรมนี้จริงๆ จะอธิบายได้ว่าเหตุใด Bomba จึงปรากฏตัวในเหตุฉุกเฉินหลากหลายประเภท ไม่เพียงแต่เพลิงไหม้เท่านั้น

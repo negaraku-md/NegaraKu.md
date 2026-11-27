@@ -31,7 +31,7 @@ faq:
     a: "生产者可透过 FAMA 的渠道直接销售给消费者，例如固定农民市集（Pasar Tani Kekal）、Agrobazaar、My Farm Outlet 及鲜果摊（Gerai Buah-buahan Segar），或参与合约农耕（Ladang Kontrak）及 RANTAI 等计划。参与详情请在 fama.gov.my 查证。"
 
 lang: "zh"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Akta 141", "pasar tani", "My Farm Outlet", "Agrobazaar", "pemasaran pertanian", "fama.gov.my"]
 framework: profile
+hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
+heroAlt: '马来西亚布城一处农民市集（Pasar Tani）里一排排带顶棚的摊位。'
+heroCredit: 'GuillaumeG / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: 吉隆坡中央市场一辆堆满红毛丹与龙宫果、披着马来西亚国旗的手推车摊位
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡街头售卖红毛丹与龙宫果的水果小贩
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: 金马伦高原基亚农场一个市集摊位,陈列着以令吉标价的芦笋、牛油果、芒果与南瓜
+    kind: actual
+    origin: third-party
+    subject: 金马伦高原基亚农场市集摊位上出售的本地新鲜农产品
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 [金马仑高原](/tourism/cameron-highlands-visitor-guide)（Cameron Highlands）的一位菜农也许能种出最好的作物，但他在农场

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Étudiants, chercheurs, voyageurs et toute personne cherchant un aperçu sourcé de l'histoire royale du Kedah et de sa place parmi les monarchies malaises de Malaisie."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -63,6 +63,32 @@ verificationNeeded:
   - "La date de fondation traditionnelle de 1136 de notre ère et la conversion de Phra Ong Mahawangsa en Sultan Mudzaffar Shah Ier proviennent des Annales de Kedah (Hikayat Merong Mahawangsa) et de l'At-Tarikh Salasilah Negeri Kedah ; les historiens considèrent la date ancienne comme improbable, et Richard Winstedt, citant un récit acehnais, donne 1474 pour la conversion."
   - "La description fréquente du Kedah comme « le plus ancien sultanat malais » est une caractérisation traditionnelle/populaire et n'est pas confirmée de manière indépendante par les sources citées ici."
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'Une majestueuse mosquée blanche de style mauresque couronnée de coupoles bulbeuses noires regroupées et de minarets élancés, dont la façade en arc ornée s''élève au-dessus d''une place ouverte sous des nuages spectaculaires.'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: La salle d'audience royale en bois ornée Balai Besar à Alor Setar, un pavillon jaune à côtés ouverts, aux colonnes sculptées, aux corniches festonnées et au toit étagé.
+    kind: actual
+    origin: third-party
+    subject: le Balai Besar (la salle d'audience royale) à Alor Setar, Kedah
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: La haute tour octogonale Balai Nobat à Alor Setar, une mince structure crème et or semblable à un minaret, surmontée d'un petit dôme en bulbe, qui abrite l'orchestre cérémoniel royal.
+    kind: actual
+    origin: third-party
+    subject: le Balai Nobat, la tour octogonale abritant l'orchestre royal nobat du Kedah, à Alor Setar
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 Peu de lieux en Malaisie portent leur passé aussi ouvertement que le Kedah. Bien avant que les minarets ne s'élèvent au-dessus d'Alor Setar, la plaine verte de rizières entre les rivières Merbok et Muda était un point d'accostage pour les marchands qui chevauchaient les vents de la mousson entre l'Inde, la Chine et le monde malais. Marins et érudits connaissaient cette côte sous le nom de Kadaram ou Kataha ; les archéologues la connaissent aujourd'hui par les tertres de temples de la vallée de Bujang. De ce commencement cosmopolite, hindou-bouddhique, est née une monarchie malaise qui allait traverser [Srivijaya](/fr/malaysia/srivijaya) et les Chola, Ayutthaya et Bangkok, et enfin l'Empire britannique.

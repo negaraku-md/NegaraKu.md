@@ -29,7 +29,7 @@ faq:
   - q: "Le silambam est-il reconnu comme un sport en Malaisie ?"
     a: "Le silambam se pratique en Malaisie à la fois comme art martial et comme sport de compétition ; des compétitions nationales, des championnats internationaux et une participation aux Jeux de Malaisie (SUKMA) certaines années ont tous eu lieu. Toutefois, les associations et le statut administratif de ce sport peuvent changer au fil du temps ; vérifiez la situation actuelle auprès des sources officielles."
 lang: "fr"
-sourceContentHash: "ecfad46369d6e997"
+sourceContentHash: "a6a22303599ed11a"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,35 @@ relations:
 related: ["tamil-in-malaysia", "indian-classical-arts-in-malaysia", "thaipusam", "estate-tamil-community", "temple-music-nadaswaram"]
 keywords: ["சிலம்பம்", "Silambam", "மலேசியா சிலம்பம்", "தமிழ் தற்காப்புக் கலை", "நீண்ட தடி", "அடவுகள்", "குத்து வரிசை", "Silambam Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/silambam/hero.webp'
+heroAlt: 'Des enfants et un instructeur en t-shirts orange Silambam Asia pratiquant des postures de combat au bâton avec de longues cannes de bambou lors d''une démonstration en plein air'
+heroCredit: 'Tara-sumitra / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Guruji_Teaching.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Silambam Asia students and their guru practising with bamboo staves, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/silambam/body-1.webp
+    alt: Femme en sari rouge en fente dans une posture de combat basse, tenant une épée courbe d'une main et un bouclier métallique rond de l'autre
+    kind: representative
+    origin: third-party
+    subject: Forme épée-et-bouclier (vaal et kedaiyam) du silambam, une variante avec armes de l'art martial tamoul
+    credit: Naga nachiyar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tamil_Martial_Art_Vaal_%26_Kedaiyam.jpg
+  - role: scene
+    src: /media/arts-culture/silambam/body-2.webp
+    alt: Panneau d'exposition mural disposant les armes du silambam, y compris de longs bâtons, des épées courbes, des boucliers ronds et des poignards
+    kind: representative
+    origin: third-party
+    subject: Panneau d'exposition des armes du silambam, y compris bâtons, épées, boucliers et poignards
+    credit: Arunachalam Mani / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Weapons_images_of_Silambam.jpg
+wikidata: "Q2750008"
 ---
 
 Lors d'une fête de temple ou d'une célébration du [Nouvel An tamoul](/fr/arts-culture/tamil-new-year) en Malaisie, vous pourrez voir un jeune homme faire tournoyer un long bâton de bambou au-dessus de sa tête et autour de son corps à une vitesse fulgurante, au rythme des tambours. Ce tournoiement n'est pas qu'une affaire d'esthétique — c'est l'emblème du silambam, un art martial tamoul vieux de plus de mille cinq cents ans.

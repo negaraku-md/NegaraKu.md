@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'เส้นขอบฟ้ากัวลาลัมเปอร์ยามค่ำคืน มีตึกแฝดเปโตรนาสที่ส่องสว่างตั้งตระหง่านอยู่หลังอาคารสำนักงานและโรงแรมที่เปิดไฟ และป้าย Solaris Mont Kiara ที่เรืองแสง'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เช็กอินเข้าโรงแรมเกือบทุกแห่งในกัวลาลัมเปอร์ด้วยหนังสือเดินทางต่างชาติ แล้วรายการที่น่าสนใจจะปรากฏบนใบเสร็จ RM10 ตายตัว สำหรับทุกคืนที่คุณพัก นั่นคือภาษีการท่องเที่ยว (TTx) ของมาเลเซีย ค่าธรรมเนียมเล็ก ๆ ในอัตราคงที่ที่ทำงานแตกต่างอย่างมากจากภาษีโรงแรมแบบเปอร์เซ็นต์ที่นักท่องเที่ยวพบในที่อื่น ๆ

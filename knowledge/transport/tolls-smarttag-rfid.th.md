@@ -29,7 +29,7 @@ faq:
     a: "RFID ยังต้องให้ยานพาหนะผ่านช่องทางที่มีป้ายกำกับพร้อมที่กั้นที่ยกขึ้นหลังจากอ่านสำเร็จ ส่วน ANPR อย่าง JustGO PLUS ระบุยานพาหนะผ่านกล้องที่อ่านป้ายทะเบียน ทำให้ยานพาหนะที่จดทะเบียนผ่านช่องทางใดก็ได้โดยไม่ต้องมีแท็กกายภาพเลย — อีกก้าวหนึ่งสู่ระบบไร้ที่กั้นโดยสมบูรณ์ (MLFF)"
 
 lang: "th"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,32 @@ relations:
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
 framework: explainer
+hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
+heroAlt: 'รถยนต์แล่นผ่านใต้ป้ายช่องทาง SmartTAG สีเหลืองที่ส่องสว่างสองป้ายในเวลากลางคืนที่ด่านเก็บค่าผ่านทางด่วนในมาเลเซีย'
+heroCredit: 'Azreey / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: ด่านเก็บเงินทางหลวงกว้างในเวลากลางวัน มีแถวตู้เก็บเงินและหลังคาคลุมช่องทางด้านบนพาดผ่านช่องชำระเงินหลายช่อง
+    kind: actual
+    origin: third-party
+    subject: ด่านเก็บเงินทางหลวงในเวลากลางวันที่มีหลายช่องทางและตู้เก็บเงินใกล้เมืองอีโปห์ รัฐเปรัก
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: ช่องทางออกของด่านเก็บเงินที่ทำเครื่องหมายสำหรับชำระด้วยRFID มีไม้กั้นช่องทางและโครงเหล็กติดตั้งเครื่องอ่านเหนือถนนใกล้โกตาดามันซารา
+    kind: actual
+    origin: third-party
+    subject: ช่องทางออกRFIDที่ด่านเก็บเงินโกตาดามันซารา รัฐสลังงอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 รถคันหน้าคุณในช่องทาง RFID หยุดกะทันหันเพราะสติกเกอร์บนไฟหน้าตรวจไม่พบ — ทั้งที่หลายคนคิดว่า RFID หมายถึง "ไม่ต้องทำอะไรเลย" ความจริงคือ มาเลเซียขณะนี้ดำเนินเทคโนโลยีค่าผ่านทางอย่างน้อยสี่รุ่นพร้อมกันบนทางด่วนที่แตกต่างกัน และการสับสนรุ่นหนึ่งกับอีกรุ่นเป็นสาเหตุที่พบบ่อยของรถที่ติดค้างที่ด่าน

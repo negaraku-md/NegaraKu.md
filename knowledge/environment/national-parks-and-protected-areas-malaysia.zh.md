@@ -34,7 +34,7 @@ faq:
     a: "《1980年国家公园法令》第10条禁止在国家公园内采矿与探矿，除非州政府在与部长协商后，认定当地存在极为丰富的矿藏。"
 
 lang: "zh"
-sourceContentHash: "a490a97f35c2c8d7"
+sourceContentHash: "45e0134ce2968c99"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,36 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["taman negara", "kawasan perlindungan", "Akta Taman Negara 1980", "Taman Kinabalu", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "taman laut", "PERHILITAN", "Warisan Dunia UNESCO"]
 framework: explainer
+hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'
+heroAlt: '殿达国家公园（Endau-Rompin）一条平静的丛林河流倒映着两岸茂密的绿色雨林，身后一道林木山脊耸起'
+heroCredit: 'Ondřej Žváček / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kincin.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The Kincin River flanked by rainforest in Endau-Rompin National Park'
+images:
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-1.webp
+    alt: 从船头望去，越过平静的湖面，蓝天下森林覆盖的丘陵尽收眼底，位于皇家彪蒙州立公园（Royal Belum）
+    kind: actual
+    origin: third-party
+    subject: 乘船探索皇家彪蒙州立公园（Royal Belum）森林覆盖的湖岸
+    credit: Evelyn Tai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Belum_State_Park_by_boat.jpg
+  - role: scene
+    src: /media/environment/national-parks-and-protected-areas-malaysia/body-2.webp
+    alt: 晨雾从森林覆盖的山坡上升起，前景中一棵高大的光秃树木，位于沙巴京那巴鲁公园（Kinabalu Park）
+    kind: actual
+    origin: third-party
+    subject: 沙巴京那巴鲁公园（Kinabalu Park）山地雨林上空形成的低云
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rainforest_cloud_forming_Kinabalu_Sabah_Borneo_Kampong_Kundasang_1.jpg
 ---
 
 随便问一个人「马来西亚的国家公园」在哪里，他们都会指向同一个地方。事实上，马来西亚并没有一座国家公园——它拥有三套完全独立的法律体系，而其中一套甚至不涵盖那个最以「[Taman Negara](/zh/tourism/taman-negara-ecotourism-guide)（国家公园）」之名闻名的地方。理解这张法律地图，是规划行程、开展研究，或仅仅想了解马来西亚如何保护其拥有1亿3千万年历史的雨林的关键。

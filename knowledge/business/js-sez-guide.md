@@ -102,6 +102,34 @@ keywords:
   - "MIDA JS-SEZ application"
   - "zon ekonomi khas Johor Singapura"
 framework: rules
+hero: '/media/business/js-sez-guide/hero.webp'
+heroAlt: 'A sleek dark-glass corporate office tower in Medini, Iskandar Puteri, rising above a landscaped park walkway under a clear sky'
+heroCredit: 'Ellisdee021 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Medini_9_Iskandar_Investment_Berhad_IIB.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Medini 9, the Iskandar Investment Berhad corporate tower in Medini, Iskandar Puteri — a modern commercial development inside the Johor-Singapore economic zone'
+
+images:
+  - role: scene
+    src: /media/business/js-sez-guide/body-1.webp
+    alt: Aerial view of Forest City in Johor showing waterfront high-rise towers under construction and rows of white villa blocks along a reclaimed beach beside the strait
+    kind: actual
+    origin: third-party
+    subject: Forest City, the flagship cross-border development in Johor on the Johor Strait, with towers and villa blocks under construction facing the water toward Singapore
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City%2C_Johor_in_development.jpg
+  - role: scene
+    src: /media/business/js-sez-guide/body-2.webp
+    alt: A large roadside 'Iskandar Puteri' landmark sign on a landscaped roundabout, with office and commercial towers and construction cranes on the skyline behind
+    kind: actual
+    origin: third-party
+    subject: The Iskandar Puteri gateway landmark sign with the zone's commercial towers and cranes rising on the skyline behind it
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Iskandar_Puteri.jpg
 ---
 
 Every summary of the Johor-Singapore Special Economic Zone leads with the same number: 5 per cent

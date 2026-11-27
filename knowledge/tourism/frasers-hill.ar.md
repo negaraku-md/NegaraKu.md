@@ -37,7 +37,7 @@ faq:
     a: "امشِ مسارات الأدغال الطبيعية (بيشوب وماكسويل ورومبين وكينديرسلي من الأشهر)، وزُر منطقة شلّال جرياو (Jeriau Waterfall) الترفيهية، وتجوّل في القرية شبه-التيودورية حول برج الساعة، واستمتع ببساطة بالهدوء والوتيرة البطيئة الباردة (Wikipedia). وهناك ملعب غولف وبعض التراث الاستعماري لرؤيته، لكن بالتصميم حياة ليلية دُنيا جداً."
 
 lang: "ar"
-sourceContentHash: "72a87741425fdeb1"
+sourceContentHash: "011d457cc0adbaff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,7 +90,39 @@ relations:
   - { rel: "related-to", to: "malaysia-hill-stations" }
 related: ["cameron-highlands-visitor-guide", "kuala-lumpur-visitor-guide", "genting-highlands", "taman-negara-ecotourism-guide"]
 keywords: ["Fraser's Hill", "Bukit Fraser", "مراقبة الطيور", "International Bird Race", "Titiwangsa", "محطة تلال", "The Gap", "Jeriau Waterfall", "شبه تيودوري", "باهانغ"]
-framework: profile
+framework: profile
+visitFacts:
+  bestFor: 'مراقبو الطيور ومحبّو الطبيعة الباحثون عن ملاذ جبلي هادئ بمناخ بارد من دروب الغابة وسحر استعماري باهت، بدلاً من الحياة الليلية أو المعالم الكبرى.'
+  getThere: 'لا مطار ولا سكة حديد — تصعد طريقاً جبلياً متعرّجاً من Kuala Kubu Bharu إلى The Gap، حيث يبدأ الصعود الأخير، مع فصل حركة الصعود والنزول الآن بين طريقين (كان الطريق الأصلي ذو المسار الواحد يعمل تاريخياً باتجاه واحد بمواقيت محدّدة).'
+  watch: 'الطريق الجبلي الضيّق المتعرّج بطيء وعُرضة للإغلاق بعد الأمطار أو الانهيارات الأرضية أو سقوط الأشجار، والتلة نفسها كثيراً ما تكون ضبابية ورطبة، مع خيارات محدودة للطعام والمؤن.'
+  next: 'تأكّد من ترتيب الوصول البرّي الحالي وأي إغلاقات مع هيئة الطرق (JKR) قبل أن تسافر.'
+hero: '/media/tourism/frasers-hill/hero.webp'
+heroAlt: 'برج ساعة حجري معلّق به أعلام ماليزية بجانب مبنى بطراز تيودور نصف خشبي تحت ضباب رمادي وأشجار صنوبر طويلة في مرتفعات فريزر'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Fraser''s Hill town centre with its ivy-clad stone clock tower and mock-Tudor post office below misty forested hills'
+images:
+  - role: scene
+    src: /media/tourism/frasers-hill/body-1.webp
+    alt: فندق بطراز Tudor بنصف أخشاب بلونين أبيض وبني ذو نوافذ مضاءة بدفء ونبات اللبلاب، يحيط به صنوبر شاهق عند الغسق
+    kind: actual
+    origin: third-party
+    subject: The Smokehouse، فندق استعماري بطراز Tudor زائف في Fraser's Hill مضاءً عند الغسق
+    credit: RoB / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fraser's_Hill_Smokehouse.JPG
+  - role: scene
+    src: /media/tourism/frasers-hill/body-2.webp
+    alt: حديقة مرتفعة مُنسّقة بالنخيل تنحدر إلى غابة مطيرة خضراء كثيفة مع سلاسل جبلية زرقاء ضبابية في الخلفية
+    kind: actual
+    origin: third-party
+    subject: حديقة على سفح مدرّج تطل على وادي الغابة المطيرة البارد الضبابي والسلاسل الجبلية البعيدة في Fraser's Hill
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_9.jpg
 ---
 
 معظم محطّات تلال ماليزيا تبيعك شيئاً — كازينو، أو ضيعة شاي، أو مزرعة فراولة، أو حديقة ترفيه. تلّة فريزر تبيعك غياب كل ذلك. منتشرةً على عنقود من الحواف المشجّرة على [سلسلة تيتيوانغسا](/ar/malaysia/titiwangsa-range)، هي محطة استعمارية صغيرة هادئة ملفوفة بالضباب حيث أعلى ما ستسمعه تغريد الطيور، وحيث تتوقّف السترة عن الشعور بالسخف حتى عند خطّ الاستواء. ولمراقبي الطيور هي أرض شبه مقدّسة؛ ولسواهم هي البديل البطيء الهادئ لجيرانها التلاليّين الأكثر بهرجة. يتناول هذا الدليل ما هي تلّة فريزر فعلاً، ولماذا يأتي مراقبو الطيور، وما يُرى، وكيف يعمل الطريق المتعرّج صعوداً، ولمن يناسب المكان ولمن لا يناسب.

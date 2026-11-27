@@ -32,7 +32,7 @@ faq:
   - q: "Is the Nine Emperor Gods Festival the same as the Hungry Ghost Festival or Chinese New Year?"
     a: "No. The Nine Emperor Gods Festival is a Taoist festival in the ninth lunar month devoted specifically to the Nine Emperor Gods, centred on inviting the water, vegetarian fasting and sending off the gods; the Hungry Ghost Festival (Yulan) falls in the seventh lunar month and centres on universal salvation and the deliverance of wandering souls; Chinese New Year is a seasonal cultural festival centred on family reunion. The three differ in timing, object and meaning, and should not be conflated."
 lang: "en"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,32 @@ festivalFacts:
   who: "Devotees within Malaysia's Chinese community; well-known temples include the Nan Tian Temple in Ampang, Selangor, the Tow Boo Kong (Dou Mu Gong) at Hong Kong Street in Penang, and the Tow Boo Kong in Butterworth."
   when: "From the first to the ninth day of the ninth lunar month, nine consecutive days (with the water-inviting rite on the eve of the first day and the sending-off of the deities concluding on the ninth)."
   etiquette: "Many devotees keep a vegetarian fast (shi zhai), eating vegetarian for one day, three days or the full nine, and traditionally avoiding the 'five pungent herbs' (wu xin); many wear white clothing with a yellow sash at the waist; the festival period often features street processions (you jing / you shen), and some temples hold austerities such as fire-walking (guo huo) and cheek/mouth piercing (za kou), though practices vary from temple to temple."
+hero: '/media/arts-culture/nine-emperor-gods-festival/hero.webp'
+heroAlt: 'A crowd of devotees holding joss sticks before a dragon-flanked temple altar hung with yellow lanterns during the Nine Emperor Gods Festival in Ipoh, smoke rising from incense in the foreground.'
+heroCredit: 'LEE 003 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: A decorated temple during the Nine Emperor Gods Festival in Kepala Batas, with lanterns, yellow banners and offerings
+    kind: actual
+    origin: third-party
+    subject: The Nine Emperor Gods Festival (Kew Ong Yah) observed at a temple in Kepala Batas, Penang
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: An ornate ceremonial archway leading into the Tow Boo Kong Nine Emperor Gods temple compound in Butterworth
+    kind: actual
+    origin: third-party
+    subject: The decorated archway of the Tow Boo Kong Nine Emperor Gods Temple in Butterworth, Penang
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 On the eve of the first day of the ninth lunar month, a line of devotees dressed in white with yellow sashes at the waist files out of the temple, holding sticks of incense, and heads for the nearest river or seashore. Gongs and drums go in front, incense smoke behind — they are going to "invite the water" and "welcome the gods", to escort the Nine Emperor Gods back to the temple. For the next nine days the incense never stops inside the temple, and the aroma of vegetarian food drifts outside; on the night of the ninth day, the same procession will again form up at the water's edge to send the deities off.

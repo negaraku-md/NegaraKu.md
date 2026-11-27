@@ -36,7 +36,7 @@ faq:
     a: "発足時には経済省が計画を主導し、科学技術革新省（MOSTI）とデジタル省が関与した。サミット前後で名が挙がった実行機関には、スタートアップ支援とワンストップ窓口を担うCradle Fund、イノベーションベルトを担うMRANTI、全国ファンド・オブ・ファンズを担うカザナ・ナショナルが含まれる。"
 
 lang: "ja"
-sourceContentHash: "afae99066804e2bc"
+sourceContentHash: "c4b54582be920133"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,35 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
+
+images:
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-1.webp
+    alt: KL Towerから見た、クアラルンプールのExchange 106タワーとTun Razak Exchange金融地区
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールのExchange 106タワーとTun Razak Exchange（TRX）金融地区
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tun_Razak_Exchange_skyline_20230317.jpg
+  - role: scene
+    src: /media/technology/kl20-startup-ecosystem/body-2.webp
+    alt: 青空の下、KL Towerと高層オフィスビルを望むクアラルンプール市街のスカイライン
+    kind: representative
+    origin: third-party
+    subject: KL Towerと密集する高層オフィスビルを望むクアラルンプール市街のスカイライン
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
+wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: '澄んだ空の下、クアラルンプール中心部のくっきりとしたスカイラインの中央にそびえるペトロナスツインタワー。足元には KLCC のショッピングモールと公園が広がり、周囲を高層ビル群が取り囲む。'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 2024年4月、マレーシアは自国のスタートアップを希望の言葉で語ることをやめ、ランキングの言葉で語り始めた。その売り口上は率直だった：2030年までにクアラルンプールを世界のトップ20スタートアップ・エコシステムに入れる、さもなければ国が惰性で過ごしてきたと認めよ、と。

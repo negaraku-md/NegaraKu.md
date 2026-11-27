@@ -31,7 +31,7 @@ faq:
     a: "يجوز للمالك الاستمرار في تملّك العقار (المادة 69)، لكن انتقال ملكية التراث الوطني لا يتم إلا بالميراث أو بالبيع بموافقة مسبقة من المفوّض، ويجب منح المفوّض أولوية الشراء (المادة 70)."
 
 lang: "ar"
-sourceContentHash: "ac4e452cf7f76ecc"
+sourceContentHash: "affbb2ed8cb6875c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,34 @@ relations:
 related: ["unesco-world-heritage"]
 keywords: ["التراث الوطني", "warisan kebangsaan", "قانون التراث الوطني 2005", "Akta Warisan Kebangsaan 2005", "القانون 645", "Akta 645", "دائرة التراث الوطني", "Jabatan Warisan Negara", "سجل التراث الوطني", "WAKOH", "موقع تراثي"]
 framework: explainer
+hero: '/media/arts-culture/national-heritage-sites/hero.webp'
+heroAlt: 'الواجهة الكاملة بطراز موري لمبنى السلطان عبد الصمد في كوالالمبور، رواقه الطويل من الأقواس الآجرية يمتد أسفل برج ساعة مركزي شاهق وقباب نحاسية بصليّة، مرئي من الطريق المرصوف الخالي في ساحة مرديكا تحت سماء شاحبة'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the Sultan Abdul Samad Building, a gazetted National Heritage landmark facing Dataran Merdeka in Kuala Lumpur'
+
+images:
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-1.webp
+    alt: أطلال بوابة بورتا دي سانتياغو من الطوب اللاتيريتي المتآكل في حصن آ فاموسا بملاكا، قوسها المتهالك تعلوه نقوش بارزة، وأمامها مدفع برونزي قديم مثبّت على قاعدة من الطوب، مع أشجار استوائية أمام سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: بوابة بورتا دي سانتياغو لحصن آ فاموسا البرتغالي في ملاكا، معلَم مُسجَّل ضمن التراث الوطني
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/arts-culture/national-heritage-sites/body-2.webp
+    alt: الواجهة الوردية من الطوب لقلعة كيلي في باتو جاجاه، بيراك، صفّ من الأروقة المقوّسة والأعمدة الرفيعة على طابقين يطلّ على فناء مبلّط بالطوب، مع جدران متهدّمة جزئياً وخضرة استوائية تحت سماء ساطعة غائمة
+    kind: actual
+    origin: third-party
+    subject: قلعة كيلي، القصر غير المكتمل من أوائل القرن العشرين في باتو جاجاه، بيراك، موقع تراثي محمي
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 مبنى تجاري (شوب هاوس) عمره قرن في جورج تاون، ونصل خنجر «كريس»، ورقصة بلاطية، وصانع [سونغكيت](/arts-culture/songket) على قيد الحياة — يمكن للأربعة جميعًا أن يحملوا الصفة القانونية نفسها في ماليزيا: *التراث الوطني*. والذي يربط بينها ليس قائمة اليونسكو، بل سجل محلي نادرًا ما يُذكر اسمه: **سجل التراث الوطني**.

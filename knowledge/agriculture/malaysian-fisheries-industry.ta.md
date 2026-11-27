@@ -36,7 +36,7 @@ faq:
     a: "Akta Perikanan 1985க்கு 2019ல் திருத்தம் (Akta A1601) செய்யப்பட்ட பின், ஊடுருவும் அயல்நாட்டுப் படகின் உரிமையாளர் அல்லது சாரதிக்கான அதிகபட்ச அபராதம் RM1 மில்லியனிலிருந்து RM6 மில்லியனாகவும், ஒவ்வொரு கப்பல் பணியாளருக்கும் RM100,000லிருந்து RM600,000 ஆகவும் உயர்த்தப்பட்டது."
 
 lang: "ta"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ relations:
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "lkim" }
   - { rel: "related-to", to: "mmea" }
-related: []
+related: ["department-of-fisheries-malaysia", "ministry-of-agriculture-food-security-and-agencies", "food-security-self-sufficiency-policy"]
 keywords: ["industri perikanan malaysia", "pengeluaran ikan malaysia", "akuakultur malaysia", "lkim nelayan", "jabatan perikanan malaysia", "akta perikanan 1985", "pencerobohan bot nelayan asing", "iuu fishing malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'மலேசியாவின் பினாங்குத் தீவுக்கு அப்பால் ஒரு கப்பல்துறையில் நங்கூரமிட்ட மரத்தாலான இழுவலை மீன்பிடிப் படகுகள்.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: குவாலா கெடாவில் மீன்பிடிக் கிராமத்தின் கால்கட்டை வீடுகளுக்கு அருகே ஆற்றோரம் நங்கூரமிட்ட மீன்பிடிப் படகுகள்
+    kind: actual
+    origin: third-party
+    subject: குவாலா கெடாவில் மீன்பிடிப் படகுகளும் ஒரு கடலோரக் கிராமமும்
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: சரவாக், குச்சிங், சாத்தோக் வார இறுதிச் சந்தையில் விற்பனைக்காக வரிசையாக அடுக்கப்பட்டுள்ள புதிய உள்ளூர் மீன்கள்
+    kind: actual
+    origin: third-party
+    subject: சரவாக், குச்சிங், சாத்தோக் சந்தையில் காட்சிப்படுத்தப்பட்டுள்ள புதிய உள்ளூர் மீன்கள்
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 விடியலுக்கு முன்பே, மலாக்கா நீரிணை மற்றும் தென் சீனக் கடல் நெடுகிலும்

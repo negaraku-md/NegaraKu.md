@@ -29,7 +29,7 @@ faq:
     a: "تُقدَّم الطلبات إلكترونيًا عبر بوابة وزارة التعليم، ويُفحَص الطلاب عبر تقييم القبول في المدارس الخاصة (PKSK)، إلى جانب التحصيل الأكاديمي والأنشطة اللامنهجية."
 
 lang: "ar"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,9 +81,35 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "المدارس الداخلية", "حصة بوميبوترا", "المدارس الداخلية الكاملة ماليزيا"]
 framework: explainer
+hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'
+heroAlt: 'مدخل ولافتة كلّية مكتب رنده ساينس مارا (MRSM) باتو باهات في ولاية جوهور، وهي كلّية علوم ماليزية داخلية بالكامل، مع أعلام وطنية وأعلام الولاية تصطفّ على جانبي البوابة.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: لوحة المدخل والبوابة لـ MARA Junior Science College (MRSM) Gemencheh بجوار طريق ريفي.
+    kind: actual
+    origin: third-party
+    subject: المدخل الرئيسي لـ MARA Junior Science College (MRSM) Gemencheh
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: منظر بانورامي لمباني وساحات حرم مدرسة داخلية كاملة ماليزية في ملقا.
+    kind: actual
+    origin: third-party
+    subject: حرم مدرسة داخلية كاملة، Sekolah Berasrama Penuh Integrasi (SBPI) ملقا
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 كثيرًا ما يبرز اسمان عندما تتحدث الأسر الماليزية عن «أفضل» المدارس الداخلية لأبنائها: MRSM وSBP. كلتاهما كليتان داخليتان كاملتان انتقائيتان، وكلتاهما التحاقٌ به تنافسٌ شديد — لكن تديرهما جهتان مختلفتان، تحت تفويضين سياسيين مختلفين.

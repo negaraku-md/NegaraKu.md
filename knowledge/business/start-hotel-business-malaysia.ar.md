@@ -68,7 +68,7 @@ sources:
     publisher: "لجنة الشركات الماليزية (SSM)"
 
 relations: []
-related: []
+related: ["register-sdn-bhd", "business-licence-malaysia"]
 keywords: ["بدء عمل فندقي ماليزيا", "رخصة فندق ماليزيا", "تسجيل الإقامة لدى MOTAC", "tourist accommodation premises registration", "Tourism Industry Act 1992", "رخصة مبنى العمل PBT للفندق", "شهادة الإطفاء BOMBA للفندق", "تصنيف نجوم الفندق ماليزيا MOTAC"]
 social:
   hashtags:

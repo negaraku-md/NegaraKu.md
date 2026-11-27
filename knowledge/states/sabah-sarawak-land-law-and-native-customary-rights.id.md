@@ -89,6 +89,13 @@ relations:
 related: ["federal-constitution"]
 keywords: ["native customary rights", "NCR", "Sarawak Land Code", "Sabah Land Ordinance", "native title", "temuda", "pemakai menoa", "East Malaysia land law"]
 framework: explainer
+hero: '/media/states/sabah-sarawak-land-law-and-native-customary-rights/hero.webp'
+heroAlt: 'Sebuah rumah panjang Iban dari kayu yang panjang dengan atap seng bergelombang, dibangun di atas tiang di sepanjang tepi sungai hijau berhutan di pedalaman Sarawak.'
+heroCredit: 'Matthias Bethke / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Belilah sebuah rumah di Kuala Lumpur dan satu statuta federal mengatur hak milik Anda. Lakukan hal yang sama di Kuching atau Kota Kinabalu dan Anda melangkah masuk ke dalam dunia hukum yang sama sekali berbeda — sebuah dunia dengan ordonansinya sendiri, kategori tanahnya sendiri, dan satu bentuk penguasaan yang tidak diwujudkan oleh selembar kertas mana pun: Hak Adat Bumiputera.

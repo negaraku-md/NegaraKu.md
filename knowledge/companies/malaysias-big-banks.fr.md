@@ -31,7 +31,7 @@ faq:
     a: "CIMB se décrit comme un groupe centré sur l'ASEAN opérant sur des marchés tels que la Malaisie, l'Indonésie, Singapour et la Thaïlande. RHB opère sur sept marchés régionaux. Maybank couvre trois marchés d'origine — la Malaisie, Singapour et l'Indonésie — en plus d'activités dans toute l'ASEAN et dans les principaux centres financiers mondiaux."
 
 lang: "fr"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,32 @@ relations:
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "banques de Malaisie", "Bank Negara Malaysia", "secteur bancaire"]
 framework: profile
+hero: '/media/companies/malaysias-big-banks/hero.webp'
+heroAlt: 'La ligne d''horizon de gratte-ciel du centre-ville de Kuala Lumpur, le principal quartier financier de la Malaisie, dominée par les tours jumelles Petronas.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: Un haut gratte-ciel blanc dont les deux tours jumelles incurvées en forme de lame forment le siège de Maybank, s'élevant au-dessus des arbres et des rues environnantes sur fond de ciel bleu
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank, la tour siège de Malayan Banking (Maybank) au centre de Kuala Lumpur, la plus grande banque de Malaisie
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: Un immeuble de plusieurs étages abritant une agence de CIMB Bank et son enseigne rouge CIMB au rez-de-chaussée, une façade vitrée et des piétons passant sur le trottoir devant sous un ciel dégagé
+    kind: actual
+    origin: third-party
+    subject: une agence de CIMB Bank au rez-de-chaussée du Bangunan UMNO, CIMB étant l'une des plus grandes banques de Malaisie par les actifs
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 Alignez les cinq noms qui dominent presque toutes les rues commerçantes de Malaisie — [Maybank](/fr/companies/maybank), CIMB, Public Bank, RHB et Hong Leong — et vous regardez le cœur d'un système bancaire qui règle les salaires, les prêts immobiliers et le commerce du pays. Toutes sont constituées en Malaisie, toutes cotées à Bursa Malaysia, et toutes agréées par la même banque centrale. Au-delà de cela, elles divergent nettement : l'une écrase les autres par la taille, certaines sont effectivement ancrées par le gouvernement, et deux sont encore dirigées par les familles qui les ont fondées.

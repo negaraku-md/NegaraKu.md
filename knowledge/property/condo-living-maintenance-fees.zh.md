@@ -24,7 +24,7 @@ appliesTo: "任何在马来西亚半岛或纳闽联邦直辖区拥有、正在�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,32 @@ relations:
 related: ["finding-a-rental"]
 keywords: ["strata management act 2013", "maintenance fee Malaysia", "sinking fund Malaysia", "JMB Malaysia", "Management Corporation Malaysia", "MC strata", "share units", "condo maintenance Malaysia", "Strata Management Tribunal", "Commissioner of Buildings", "Act 757"]
 framework: explainer
+hero: '/media/property/condo-living-maintenance-fees/hero.webp'
+heroAlt: '吉隆坡一座高耸的红白相间的住宅公寓塔楼，映衬着蓝天。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: 数栋公寓楼在吉隆坡安邦（Ampang）一同拔地而起，这一高楼群的住户共同分摊维持电梯、泳池与保安运作的管理费。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡安邦的一组公寓楼群
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: 从北部中环大道（NKVE）望去，Riana Green公寓的多栋高楼在八打灵再也的绿意中并肩而立，这是一个围篱式的分层（strata）发展项目，住户共同分摊管理费与偿债基金（sinking fund）。
+    kind: actual
+    origin: third-party
+    subject: 从NKVE望向八打灵再也Riana Green公寓楼群
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 你买下的是这个单位。你并没有买下电梯、警卫亭、游泳池，或是那条穿过你与邻居共用墙壁的管道。总得有人为这一切付费——而法律把这笔账单分成两个账户，并且规定你必须将它们分开处理。

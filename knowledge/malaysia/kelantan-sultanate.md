@@ -60,6 +60,32 @@ social:
 verificationNeeded:
   - "The exact year Long Yunus took the Kelantan throne is given differently across sources (c. 1760, 1763, 1764, and c. 1774 all appear); this article uses 'the 1760s' and should be reconciled against a dedicated historical study before any single year is asserted."
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'An ornate black timber palace with yellow pillars, carved fascias and tiered roofs rises behind a vintage horse carriage parked on a circular brick forecourt.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: A graceful pale-yellow 1930s royal residence with wide arched verandahs, shuttered windows and a low tiled roof, now the Kelantan Royal Museum, set behind a lawn in the Kota Bharu royal quarter.
+    kind: actual
+    origin: third-party
+    subject: Istana Batu (the Kelantan Royal Museum / Muzium DiRaja) in Kota Bharu
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: A grand cream-and-white state mosque with a broad central dome, corner cupolas and a soaring minaret, seen from the street behind iron railings under a blue sky.
+    kind: actual
+    origin: third-party
+    subject: Masjid Muhammadi, the Kelantan state mosque, in Kota Bharu
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 On the northeastern shoulder of the Malay Peninsula, where the rivers run down to the South China Sea and the coast once looked as much toward the old kingdom of Patani as toward the Malay heartland, a throne was forged out of civil war. Its founder was not born a king. He was a warlord of Patani descent who outlasted his rivals, and the dynasty he began — the House of Long Yunus — still reigns in Kelantan today, more than two and a half centuries later.

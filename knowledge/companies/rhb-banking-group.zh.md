@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "af9faa6b0d03ba80"
+sourceContentHash: "5b9ffd6372c67733"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,24 @@ verificationNeeded:
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
 framework: profile
+hero: '/media/companies/rhb-banking-group/hero.webp'
+heroAlt: '一座三层的转角银行楼，底层外墙包着亮蓝色饰带，分别写着RHB Bank、RHB Islamic和RHB Bank，各配红色菱形RHB标志，门前停着一辆红色轿车，天空泛白'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RHB_Bank_Taman_Nusa_Bestari.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'An RHB Bank branch at Taman Nusa Bestari, Skudai, Johor, its blue frontage carrying the RHB Bank and RHB Islamic signage with the red diamond logo'
+images:
+  - role: scene
+    src: /media/companies/rhb-banking-group/body-1.webp
+    alt: 一座白色两层转角 RHB Bank 分行，隔着砖铺路口拍摄，蓝色标识带上写着 RHB Islamic 和 RHB Bank 并配有红色菱形徽标，前庭搭起集市篷棚，映衬晴朗蓝天
+    kind: actual
+    origin: third-party
+    subject: 位于森美兰芙蓉 2 区的一家 RHB Bank 分行，蓝天下带有 RHB Bank 和 RHB Islamic 标识
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seremban_2_RHB.jpg
 ---
 
 RHB 是大多数马来西亚人都会在大街上的银行分行、一张提款卡或一份房贷宣传册上认得的名字之一——然而其背后的集团所及远不止零售银行，还延伸到伊斯兰金融、投资银行、保险以及遍及东南亚的市场。本页是对兴业银行集团是什么、如何架构、由谁拥有以及为何重要的中立、客观概述。

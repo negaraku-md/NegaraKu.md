@@ -36,7 +36,7 @@ faq:
     a: "Periode yang lebih kering dan tenang berlangsung sekitar November hingga Maret, yang paling cocok untuk island hopping, kereta gantung dan waktu di pantai. September dan Oktober cenderung menjadi bulan paling lembap, meski hujan biasanya berupa hujan tropis singkat dan bukan hujan sepanjang hari."
 
 lang: "id"
-sourceContentHash: "ad6f749715127d7a"
+sourceContentHash: "fd2d54ff532baba4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,9 +101,42 @@ wikidata: "Q273303"
 relations:
   - { rel: "located-in", to: "kedah" }
   - { rel: "administered-by", to: "lembaga-pembangunan-langkawi" }
-related: ["kedah"]
+related: ["kedah", "east-coast-islands-guide", "penang-george-town-visitor-guide", "diving-marine-ecotourism-malaysia"]
 keywords: ["Langkawi", "duty-free island", "UNESCO Global Geopark", "SkyCab", "SkyBridge", "island hopping", "Kilim", "Dayang Bunting", "Andaman Sea", "Kedah"]
 framework: profile
+visitFacts:
+  bestFor: 'Pelancong pertama kali, keluarga, dan pelancong beragam minat yang mencari pantai, belanja bebas bea, dan Geopark UNESCO — kereta gantung SkyCab, SkyBridge, serta island-hopping hutan bakau — lebih daripada penyelaman kelas dunia.'
+  getThere: 'Terbanglah ke Bandara Internasional Langkawi (LGK), atau menyeberanglah dengan feri penumpang ke Dermaga Kuah dari dermaga daratan di Kuala Kedah dan Kuala Perlis.'
+  permit: 'Harga bebas bea Langkawi hanya berlaku di pulau; barang yang dibawa kembali ke daratan tunduk pada kuota pelancong nasional Malaysia, yang menetapkan masa tinggal minimum yang memenuhi syarat dan membatasi alkohol, tembakau, dan suvenir yang bisa Anda bawa kembali secara bebas bea.'
+  watch: 'Jangan berlebihan membeli minuman keras bebas bea untuk dibawa pulang — harga murah itu untuk dinikmati di pulau, dan hanya kuota terbatas yang lolos bea cukai di daratan.'
+  next: 'Konfirmasikan jadwal feri terkini dengan operator feri, dan kuota bebas bea dengan Jabatan Kastam Diraja Malaysia (Royal Malaysian Customs Department, RMCD).'
+hero: '/media/tourism/langkawi-visitor-guide/hero.webp'
+heroAlt: 'Langkawi Sky Bridge melengkung tergantung tinggi di antara puncak gunung berhutan di atas Laut Andaman'
+heroCredit: 'Engin Akyurt / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Langkawi Sky Bridge curving between forested peaks'
+images:
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-1.webp
+    alt: Pohon palem dan batu gelap membingkai pasir putih Pantai Cenang di samping air biru toska, dengan parasail di udara
+    kind: actual
+    origin: third-party
+    subject: Pantai Cenang dengan pohon palem dan laut biru toska
+    credit: NickLubushko / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cenang_Beach_view,_Langkawi.jpg
+  - role: scene
+    src: /media/tourism/langkawi-visitor-guide/body-2.webp
+    alt: Gondola SkyCab merah meluncur di atas hutan hujan lebat menghadap marina dan teluk biru toska di pulau Langkawi
+    kind: actual
+    origin: third-party
+    subject: Kereta gantung SkyCab Langkawi di atas hutan dan marina
+    credit: Ss6sam6 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cable_car_in_Langkawi_Island.jpg
 ---
 
 Sembilan puluh sembilan pulau, batuan yang lebih tua daripada ikan, wiski murah dan sebuah kereta gantung yang tergantung di sisi gunung yang terbentuk dari batuan yang diperkirakan berusia lebih dari 550 juta tahun — Langkawi memuat jumlah yang luar biasa banyak ke dalam satu kepulauan di ujung barat laut Malaysia. Ia merupakan pulau liburan utama pantai barat negara, dan ia berfungsi menurut logika yang hampir berlawanan dengan pulau-pulau selam berpohon palma di seberang semenanjung. Panduan ini merangkum hal yang benar-benar penting sebelum Anda pergi: aturan bebas pajak yang sering membingungkan orang, geopark UNESCO yang memberi latar belakang pada pemandangannya, SkyCab dan SkyBridge, pelayaran perahu yang sepadan untuk diambil, dan cara memilih antara Langkawi dengan pantai timur.

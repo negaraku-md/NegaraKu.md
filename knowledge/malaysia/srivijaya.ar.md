@@ -17,7 +17,7 @@ keyTakeaways:
   - "يُوصف براميسوارا، مؤسِّس سلطنة ملقا نحو عام 1400، في التقليد الملايوي ومن قِبل حكومة ولاية ملقا نفسها بوصفه أميرًا من باليمبانغ — المقر السابق لسريفيجايا"
 appliesTo: "القرّاء الراغبون في فهم ما الذي حكم مضيق ملقا قبل أن تحكمه ملقا، وكيف انتهت قوة بحرية مقرّها سومطرة إلى أن تصبّ مباشرةً في التاريخ الملكي لشبه جزيرة الملايو نفسها."
 lang: "ar"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,32 @@ faq:
   - q: ما أقدم نقش معروف بالملايوية القديمة، وكيف يرتبط بسريفيجايا؟
     a: إنه نقش كيدوكان بوكيت (Kedukan Bukit)، المؤرَّخ بعام 682 ميلادية، الذي يسجّل حملة عسكرية وطقسية لسريفيجايا. وإلى جانب أهميته في تاريخ سومطرة، فهو مهم بوصفه أقدم نقش معروف مكتوب بالملايوية القديمة — السلف المباشر لكل من الملايوية الحديثة والإندونيسية الحديثة. ومع توسّع شبكة سريفيجايا التجارية، انتشرت الملايوية القديمة في أنحاء الأرخبيل بوصفها لغة تواصل مشتركة عملية قبل قرون من وجود أي سلطنة.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: 'تمثال بوذا من الغرانيت الرمادي المتآكل بلا ساقين، ينتصب هادئاً أمام أوراق خضراء على التل المقدّس لعاصمة سريويجايا القديمة.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: حجر رمادي صغير مستدير محفور عليه صفوف من الكتابة الملايوية القديمة، وهو نقش Kedukan Bukit من عصر Srivijaya، معروض على حامل في متحف.
+    kind: actual
+    origin: third-party
+    subject: نقش Kedukan Bukit (683 م)، حجر بالملايوية القديمة من عصر Srivijaya
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: تمثال برونزي ثماني الأذرع للبوديساتفا Avalokiteshvara، عُثر عليه في Bidor بولاية بيراق، معروض منتصبًا في المتحف الوطني بكوالالمبور.
+    kind: actual
+    origin: third-party
+    subject: تمثال Avalokiteshvara البرونزي من Bidor (القرن الثامن-التاسع)، المتحف الوطني، كوالالمبور
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 حين فرّ براميسوارا من تيماسيك عام 1396 وتعثّر إلى ضفة النهر التي صارت ملقا، لم يكن نكرةً وافدًا من العدم. فحكومة ولاية ملقا نفسها لا تزال تسجّله، بوضوح، بوصفه "أميرًا ملكيًا من باليمبانغ." كانت باليمبانغ، على نهر موسي بجنوب سومطرة، عاصمةً لقوة بحرية حكمت مضيق ملقا نحو ستمئة عام قبل أن يولد براميسوارا — مملكة اسمها سريفيجايا. وبحلول وصول براميسوارا إلى شبه الجزيرة، كانت القوة السياسية لتلك المملكة قد زالت بالفعل. لكن سلطنة ملقا التي أسّسها حملت سلالتها، بل يمكن القول إنها حملت نموذجها الكامل لما ينبغي أن يكونه ميناء تجاري ملايوي، مباشرةً من أطلال سريفيجايا.

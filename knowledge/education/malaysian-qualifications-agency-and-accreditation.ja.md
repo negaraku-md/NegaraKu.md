@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 
 status: "published"
 aiAssisted: true
@@ -74,9 +74,41 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "Malaysian Qualifications Framework", "MQF", "MQR", "degree recognition Malaysia", "provisional accreditation", "full accreditation"]
 framework: profile
+stayFacts:
+  who: 'マレーシアの中等後教育（post-secondary）の資格が公式に承認されているかを確認したい入学希望者、保護者、雇用主向け。'
+  how: '無料のマレーシア資格登録簿（MQR）で、正確な課程名、レベル、提供キャンパスを指定して検索し、暫定認証（Provisional Accreditation）または完全認証（Full Accreditation）を保持しているか確認すること。規制対象の専門職や公的部門での就職のための承認は、それぞれの機関に別途確認する必要がある。'
+  cost: 'MQRの検索は無料である。あなたが当てにしているかもしれない承認——専門職の免許、公務員職、または海外留学——は、それぞれ独自の機関に別途確認が必要となる場合がある。'
+  watch: '認証は、機関にではなく、特定の課程と入学時期に紐づく——評判の良い大学であっても、新設の、暫定的な、あるいは未掲載の課程を抱えていることがある。パンフレットの「MQA認可済み」という記載は登録簿そのものではないため、登録簿の実際の登録内容を自分で確認すること。また、暫定認証という状態は正当なものであり、二流を意味するものではないことに留意すること。'
+  next: '保証金を払う前に、MQRで自分の正確な課程を調べること。規制対象の専門職については、卒業後の進路（資格取得ルート）をその専門職団体に確認すること。詳しくは「カレッジの保証金を払う前に」を参照のこと。'
+hero: '/media/education/malaysian-qualifications-agency-and-accreditation/hero.webp'
+heroAlt: '石張りの壁に取り付けられた銘板で、紋章と「UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia」の文字が記されている。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: 国民大学(UKM)の学位授与式で、式服をまとった学者が壇上で学位を授与する様子
+    kind: representative
+    origin: third-party
+    subject: 国民大学(UKM)で学位を授与する特別学位授与式
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: 整えられた広場のそばに立つ、プトラ大学(UPM)の曲線を描くCanselori Putra本部棟
+    kind: representative
+    origin: third-party
+    subject: プトラ大学(UPM)の本部棟（Canselori、管理棟）
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 同じような名称のディプロマを手に、二人の学生が卒業する。一人は政府の職と修士課程への進学資格を得るが、もう一人は門前払いされる。その違いは、公開名簿のたった一行——マレーシア資格機構がそのプログラムを認定していたかどうか——であることが多い。

@@ -73,7 +73,7 @@ wikidata: "Q7245316"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "malaysian-media-council-act" }
-related: []
+related: ["official-secrets-act-1972", "sedition-act", "online-safety-act-malaysia"]
 keywords: ["قانون المطابع والمطبوعات", "Akta Mesin Cetak dan Penerbitan", "Act 301", "PPPA", "تصريح الصحف", "ترخيص المطبعة", "وزير الداخلية", "Minister of Home Affairs", "حرية الإعلام"]
 framework: rules
 ---

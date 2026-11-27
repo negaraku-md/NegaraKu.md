@@ -39,7 +39,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'पहली बार और स्वतंत्र रूप से आने वाले यात्रियों, परिवारों तथा विरासत या वन्यजीव प्रेमियों के लिए जो बोर्नियो के वर्षावन, ओरंगुटान और राष्ट्रीय-पार्क दिन-यात्राओं हेतु एक आरामदायक ठिकाने के रूप में एक पैदल-चलने योग्य नदी-किनारे का विरासत शहर चाहते हैं।'
+  getThere: 'Kuching International Airport (KCH) तक उड़ान भरें, जो दक्षिणी Sarawak का मुख्य वायु-प्रवेशद्वार है, और कुआलालंपुर तथा अन्य मलेशियाई व क्षेत्रीय केंद्रों से जुड़ा है।'
+  permit: 'Sarawak अपना स्वयं का आप्रवासन चलाता है, इसलिए हर कोई आगमन पर सीमा-जाँच से गुज़रता है, भले ही प्रायद्वीपीय मलेशिया से घरेलू उड़ान हो — विदेशियों को एक अलग Sarawak प्रवेश-मुहर मिलती है, इसलिए अपना पासपोर्ट हर समय साथ रखें।'
+  watch: 'Semenggoh में ओरंगुटान का दिखना कभी निश्चित नहीं होता, क्योंकि अर्ध-जंगली वानर आसपास के जंगल में स्वतंत्र रूप से भोजन खोजते हैं — किसी भी दर्शन को एक बोनस मानें, वादा नहीं।'
+  next: 'यात्रा से पहले वर्तमान Sarawak प्रवेश आवश्यकताएँ और पार्क या त्योहार के समय Sarawak Tourism Board तथा पार्कों के आधिकारिक ऑपरेटरों से पुष्ट करें।'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'सूर्यास्त के समय कुचिंग तटरेखा से सारावाक नदी के पार उठती छतरी-छत वाली सारावाक राज्य विधानसभा इमारत'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: Kuching में Sarawak River के उत्तरी तट पर The Astana, अलंकृत द्वार वाला एक सफ़ेद Gothic-मेहराबदार औपनिवेशिक महल
+    kind: actual
+    origin: third-party
+    subject: The Astana, Kuching में पूर्व White Rajahs का ऐतिहासिक सफ़ेद नदीतटीय महल
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Kuching के पुराने Chinatown में एक गली को चिह्नित करता लाल लालटेनों से सजा अलंकृत चीनी मेहराबदार द्वार
+    kind: actual
+    origin: third-party
+    subject: Kuching के पुराने Chinatown (Jalan Attap क्षेत्र) में चीनी अनुष्ठानिक मेहराबदार द्वार, लाल लालटेनों और shophouse के साइनबोर्डों के साथ
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 आप एक शाम में कुचिंग के नदी-तट की पूरी लंबाई चल सकते हैं, रास्ते में एक औपनिवेशिक क़िला, एक Rajah का महल और एक चीनी मंदिर पार कर सकते हैं, बोर्नियो के महान नूडल के कटोरों में से एक खा सकते हैं, और एक विशाल बिल्ली की मूर्ति के साथ पोज़ कर सकते हैं — सब शहर छोड़े बिना। कुचिंग सारावाक की राजधानी और सबसे बड़ा शहर है, जो बोर्नियो द्वीप पर राज्य के दक्षिण-पश्चिमी छोर पर Sarawak River पर बसा है ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445))। यह आरामदेह, नदी-शहर आधार है जहाँ से अधिकांश सारावाक यात्राएँ शुरू होती हैं। यह गाइड शहर को ही शामिल करती है — इसका जलतट, इसका Brooke-युग का इतिहास, इसका Chinatown और संग्रहालय, और इसकी बिल्लियाँ — और यह इसके इर्द-गिर्द के वर्षावन तथा वन्यजीव के लिए एक लॉन्चपैड के रूप में कैसे काम करता है।

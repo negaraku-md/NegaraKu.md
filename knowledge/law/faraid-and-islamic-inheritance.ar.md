@@ -72,7 +72,7 @@ entity: "Faraid"
 relations:
   - { rel: "related-to", to: "wills-and-estate-planning-malaysia" }
   - { rel: "related-to", to: "syariah-courts-malaysia" }
-related: []
+related: ["islamic-family-law-malaysia", "wills-and-probate-in-malaysia", "property-inheritance-faraid-distribution"]
 keywords: ["الفرائض", "الميراث الإسلامي في ماليزيا", "faraid", "تقسيم التركة", "المحكمة الشرعية", "بيت المال", "Distribution Act 1958", "pusaka kecil"]
 framework: explainer
 ---

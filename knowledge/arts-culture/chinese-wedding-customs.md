@@ -70,6 +70,34 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: '一座红绸装饰的马来西亚华人传统婚礼台，祖先祭坛上方悬挂着大幅红色双喜剪纸横幅，坛上摆放菠萝、橙子、苹果和龙凤喜烛，前方放着两把深色雕花木椅供敬茶礼，两侧以粉色字体书写新人姓名'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: 一套光亮的红色华人婚礼茶具摆在红托盘上，一只装饰金色双喜字的茶壶，周围围着五只相配的红色小茶杯，供新人向长辈奉茶之用
+    kind: representative
+    origin: third-party
+    subject: 华人婚礼奉茶仪式所用的红金双喜茶壶与茶杯
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: 一只高高多层的黑色漆器嫁妆篮（bakul siah），每一层都精细装饰着金色人物、花卉、鸟和鱼，用于在两家之间传送象征性的聘礼，陈列在玻璃博物馆展柜中
+    kind: representative
+    origin: third-party
+    subject: 嫁妆篮（bakul siah），海峡华人婚礼中用来在两家之间传送聘礼的多层漆器篮
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 清晨天还没全亮，一队车已经停在女方家门口。新郎捧着花，身后跟着几个兄弟，却被门里探出的几位姐妹拦住：先回答问题、再唱一段、吃下几片切得极薄的青柠，最后从门缝塞进几个红包——这道「闯门」的关卡过了，门才打开，新郎才见得到一身红装的新娘。这样一个带着玩笑与热闹的早晨，是马来西亚许多华人婚礼当天的开场。

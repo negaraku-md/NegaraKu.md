@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona en Malasia —budista o no— que quiera un relato sencillo y preciso de qué es el Día de Wesak, cuándo cae y cómo se celebra, incluidos los empleadores y trabajadores que consulten la fecha del día festivo."
 
 lang: "es"
-sourceContentHash: "87814a02e5e75f73"
+sourceContentHash: "44f90aebd31206ab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,34 @@ festivalFacts:
   when: "El día de luna llena del mes lunar de Vesakha, generalmente en abril o mayo; al seguir el calendario lunar, la fecha gregoriana varía cada año."
   holiday: "Fiesta pública nacional en todos los estados y territorios federales, declarada fiesta pública por primera vez en 1962; en virtud de la Employment Act 1955, si cae en un día de descanso se aplica un día festivo pagado de sustitución."
   etiquette: "La observancia se centra en el templo; muchos devotos visten de blanco y mantienen una dieta vegetariana durante el día, y el acto público más conocido es la procesión de carrozas de Wesak de Kuala Lumpur, que parte del templo budista Maha Vihara de Brickfields y es contemplada por grandes multitudes de devotos y espectadores."
+hero: '/media/arts-culture/wesak/hero.webp'
+heroAlt: 'Una estatua dorada de Buda sentado adornada con guirnaldas de caléndulas amarillas se sitúa ante una aureola de vivos colores naranja, azul y dorado en una carroza de festival, rodeada de masas de crisantemos blancos, amarillos y rosados bajo un toldo durante el día del Wesak en Alor Setar'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a flower-decked Buddha statue on a Wesak Day festival float at Alor Setar, Kedah, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/wesak/body-1.webp
+    alt: Una larga hilera de pequeños farolillos colgantes en turquesa, verde lima, rosa y blanco, cada uno con una vela encendida y un papelito rosa con buenos deseos, colgados bajo una carpa en una celebración del Día de Wesak en Malasia, con visitantes caminando detrás
+    kind: actual
+    origin: third-party
+    subject: hileras de coloridos farolillos de bendición de los devotos con papelitos de buenos deseos en una celebración del Día de Wesak en Alor Setar, Malasia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17147436314).jpg
+  - role: scene
+    src: /media/arts-culture/wesak/body-2.webp
+    alt: Cientos de diminutas lámparas de vela encendidas en forma de loto dispuestas en filas ordenadas sobre mesas cubiertas con tela rosa y amarilla, que conducen a una pequeña estatua de Buda flanqueada por flores ante un fondo pintado de cielo azul dentro de una carpa
+    kind: actual
+    origin: third-party
+    subject: un altar devocional con cientos de lámparas de vela de loto encendidas ante una imagen de Buda en el Día de Wesak en Alor Setar, Malasia
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17767184532).jpg
 ---
 
 Pregunta cuándo cae el Día de Wesak y no hay una respuesta fija: se mueve. En 2026 recae el 31 de mayo, en 2027 el 20 de mayo y en 2028 el 9 de mayo. La razón es sencilla: Wesak lo fija la luna, no una fecha del calendario, y el calendario lunar y el gregoriano se desplazan uno respecto al otro cada año.

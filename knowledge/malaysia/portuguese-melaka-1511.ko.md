@@ -19,7 +19,7 @@ keyTakeaways:
   - "말라카 술탄국(Kesultanan Melaka)의 후손들은 1528년 조호르 라마(Johor Lama)에서 통치를 이어 갔으며, 그 왕조는 1699년까지 존속하였습니다"
 appliesTo: "1511년 말라카 함락의 배후에 있는 기술적·정치적 원인과, 그 도시가 사라진 뒤 말라카의 왕실 제도와 혈통에 무슨 일이 일어났는지 이해하고자 하는 독자."
 lang: "ko"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,32 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "independence-1957"]
 keywords: ["kejatuhan Melaka 1511", "Afonso de Albuquerque", "Melaka Portugis", "A Famosa", "penjajahan Eropah Nusantara", "Kesultanan Johor 1528"]
 framework: history-culture
+hero: '/media/malaysia/portuguese-melaka-1511/hero.webp'
+heroAlt: '믈라카에 있는 아 파모사 요새의 허물어진 돌문인 포르타 데 산티아고로, 풍화된 라테라이트와 회반죽 벽 위에 무너져가는 작은 탑이 얹혀 있고, 그 앞 벽돌 받침대 위에 오래된 청동 대포가 놓여 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: 1521년에 지어진 세인트폴 교회 유적이 믈라카의 세인트폴 언덕 꼭대기에 서 있으며, 지붕이 사라진 라테라이트 벽과 텅 빈 창 구멍이 탁 트인 하늘 아래 남아 있다.
+    kind: actual
+    origin: third-party
+    subject: 믈라카 세인트폴 언덕 위의 세인트폴 교회 유적
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: 포르투갈 광장으로 들어가는 크림색 입구 문이 테라코타 지붕 건물과 식당 간판으로 둘러싸여, 믈라카 포르투갈인 정착촌의 앞마당으로 이어진다.
+    kind: actual
+    origin: third-party
+    subject: 믈라카 포르투갈인 정착촌(캄풍 포르투기스) 안의 포르투갈 광장
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 열흘. 그것이 1511년 8월 10일 포르투갈 함대가 말라카(Melaka) 앞바다에 도착한 순간과, 8월 24일 이 도시가 손이 바뀐 순간 사이의 간격입니다.

@@ -59,6 +59,32 @@ verificationNeeded:
   - "Exact installation/proclamation date of Tuanku Muhriz as the 11th Yang di-Pertuan Besar (commonly given as 29 December 2008) should be confirmed against the state royal portal."
 framework: history-culture
 wikidata: "Q1572849"
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: 'A grand dark-timber palace crowned with a tall tiered tower and sweeping shingled roofs stands against forested hills beyond a wide green field.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: A stately cream royal palace with symmetrical wings and twin gabled towers, set behind manicured gardens below forested hills at Seri Menanti.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar Seri Menanti, the current royal palace of Negeri Sembilan
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: A tall modern government tower crowned with dramatic upswept Minangkabau buffalo-horn roofs, rising above lower wings and lawns in central Seremban.
+    kind: actual
+    origin: third-party
+    subject: Wisma Negeri, the Minangkabau-roofed state administrative building, in Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 In the heart of peninsular Malaysia sits a kingdom that breaks every rule of Malay monarchy. Its ruler is not born to the throne but chosen for it. Its great families trace their descent not through fathers but through mothers. And its very name, Negeri Sembilan, the "State of the Nine", remembers not a single royal house but a confederation of districts stitched together across the hills of the interior. To understand how this singular institution came to be is to follow a line of Minangkabau migrants who crossed the Strait of Malacca from Sumatra, carried a custom with them, and in time sent home for a prince to rule them.

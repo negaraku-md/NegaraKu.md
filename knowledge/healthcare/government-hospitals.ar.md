@@ -27,7 +27,7 @@ verificationNeeded:
   - "الإعفاء/الخصم المحدّد من الرسوم للمواطنين من سن 60 عامًا فأكثر — الذي يُذكر على نطاق واسع بوصفه إعفاءً من رسم تسجيل العيادة التخصصية البالغ RM5 وخفضًا بنسبة 50% على رسم الدرجة الثالثة — لم يكن بالإمكان تأكيده مباشرة على الموقع الرسمي moh.gov.my (403 Forbidden عند محاولة الوصول)، لذا لم تُذكر تلك الأرقام عمدًا بوصفها حقيقة مؤكّدة؛ ولم يُوصَف سوى الآلية بعبارات عامة."
   - "إحصاءات أوقات الانتظار (مثل متوسط عدد الأيام/الساعات لموعد تخصصي أو جراحة اختيارية) غير مذكورة، لأنه لم يُعثر على أرقام رسمية قابلة للتحقّق من KKM وقت الكتابة؛ ويُوصَف واقع أوقات الانتظار وصفًا نوعيًا فقط."
 lang: "ar"
-sourceContentHash: "fad2707d6e797e31"
+sourceContentHash: "fab9be4e2612fb0c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,33 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "peka-b40-and-health-schemes", "healthcare-for-seniors", "emergencies-999"]
 keywords: ["المستشفى الحكومي الماليزي", "رسوم المستشفى الحكومي", "نظام الإحالة في المستشفى", "رسوم جناح الدرجة الثالثة", "رسوم غير المواطنين في المستشفى", "Akta Fee 1951", "المستشفى التخصصي المرجعي", "وقت الانتظار في المستشفى الحكومي"]
 framework: explainer
+hero: '/media/healthcare/government-hospitals/hero.webp'
+heroAlt: 'واجهة مبنى الاختصاصات والرعاية النهارية في مستشفى كوالالمبور، مستشفى حكومي ماليزي، مع شعار الهلال الأحمر على الواجهة البيضاء'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Specialist & daycare complex (Kompleks Pakar & Rawatan Harian) at Hospital Kuala Lumpur, the national Ministry of Health public hospital'
+images:
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-1.webp
+    alt: مبنى الولادة الحداثي الوردي في Hospital Kuala Lumpur مشاهَدًا من خلف الأشجار، مع أبراج مدينة كوالالمبور في البعيد
+    kind: actual
+    origin: third-party
+    subject: مبنى الولادة (Hospital Bersalin) في Hospital Kuala Lumpur، مع أفق KLCC خلفه
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg
+  - role: scene
+    src: /media/healthcare/government-hospitals/body-2.webp
+    alt: مبنى قسم من طابق واحد في Hospital Kuala Lumpur بلافتة ماليزية زرقاء تقرأ Jabatan Perubatan Rehabilitasi وسيارات متوقّفة أمامه
+    kind: actual
+    origin: third-party
+    subject: مبنى قسم طب التأهيل (Jabatan Perubatan Rehabilitasi) في Hospital Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jabatan_Perubatan_Rehabilitasi_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_123652.jpg
 ---
 
 تذكرة الطابور في اليد، والرقم متقدّم عليك بأكثر من 80 شخصًا، واللوحة الرقمية على الجدار ما زالت تعرض رقمًا بعيدًا خلف رقمك — كثيرون عاشوا هذه اللحظة في مستشفى حكومي. لكن بجوار تلك اللوحة تمامًا تُعلَّق أيضًا قائمة رسوم تُظهر لماذا يظل كثيرون يعودون: زيارة قد تكلّف عشرات الرينغيت في عيادة خاصة ليست هنا سوى RM1. السؤال ليس ما إذا كان المستشفى الحكومي يستحق — بل كيف تستخدمه فعلًا بحيث ينطبق الرسم المدعوم، وما الذي يحدّد كم يجب على المرء أن ينتظر.

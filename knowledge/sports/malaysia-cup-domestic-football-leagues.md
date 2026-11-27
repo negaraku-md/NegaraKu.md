@@ -73,9 +73,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'Penyokong bola sepak Perak berpakaian kuning memenuhi tempat duduk stadium semasa perlawanan Piala Malaysia 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: Pemain berebut bola semasa separuh akhir Piala Malaysia 2012 antara Kelantan dan Selangor.
+    kind: actual
+    origin: third-party
+    subject: Separuh akhir Piala Malaysia 2012 antara Kelantan dan Selangor
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: Pemandangan tingkat tempat duduk dan padang di dalam Stadium Sultan Ibrahim di Iskandar Puteri, Johor.
+    kind: actual
+    origin: third-party
+    subject: Bahagian dalam Stadium Sultan Ibrahim, gelanggang sebuah kelab liga Malaysia terkemuka
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 Selama hampir seabad, badan tunggal — Persatuan Bola Sepak Malaysia (FAM) — menganjurkan setiap perlawanan liga negara. Kemudian, dalam satu langkah yang mengubah bentuk sukan tersebut, kuasa untuk menjalankan liga diserahkan kepada sebuah syarikat komersial. Inilah asas kepada cara bola sepak domestik Malaysia berfungsi hari ini.

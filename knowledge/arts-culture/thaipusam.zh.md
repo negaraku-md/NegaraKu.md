@@ -35,7 +35,7 @@ faq:
     a: "只有在宪报颁布这项假期的州属与联邦直辖区才是。它在包括吉隆坡、布城、雪兰莪、槟城、霹雳、森美兰、柔佛与吉打在内的地方作为公共假期庆祝，并未被宪报颁布为全国性的联邦假期。由于这是逐个辖区设定的，确切名单可能逐年不同——务必查阅相关州属的官方假期通告。"
 
 lang: "zh"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ festivalFacts:
   when: "淡米尔历的 Thai 月——每年约在一月下旬或二月;确切日期依淡米尔历而定。"
   holiday: "仅在将其列入宪报的州属与联邦直辖区(包括 Kuala Lumpur、Putrajaya、Selangor、Penang、Perak、Negeri Sembilan、Johor 及 Kedah)为公共假期——并非全国性联邦假期。"
   etiquette: "欢迎非印度教徒观看游行与登阶;在庙宇附近应衣着端庄,在需要之处脱鞋,拍摄肩扛 kavadi 的信众前应先征询同意。"
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: '大宝森节期间，信徒们沿黑风洞（Batu Caves）彩虹色台阶向巍峨石灰岩崖下华丽的洞窟神庙攀登'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: 大宝森节期间，密集的朝圣人群挤满黑风洞（Batu Caves）的步道，上方是高耸的金色穆鲁干神（Lord Murugan）神像和林木覆盖的石灰岩山丘
+    kind: actual
+    origin: third-party
+    subject: 黑风洞金色穆鲁干神像下的大宝森节朝圣人群
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: 一名大宝森节信徒背影，肩扛挂满铃铛的卡瓦第（kavadi）架、手捧银制奶罐，走在霹雳怡保一座色彩缤纷的印度庙塔门（gopuram）前
+    kind: actual
+    origin: third-party
+    subject: 怡保大宝森节游行中一名背负卡瓦第、手捧奶罐的信徒
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 天未破晓，吉隆坡北缘一座石灰岩山丘便已充满声响——鼓声、诵经声，以及数十万赤足在石阶上摩擦的声音。272级台阶的底部，矗立着一尊比十四层楼建筑物还高的金色神像。攀登开始了，而且几乎要持续一整天才会停下。

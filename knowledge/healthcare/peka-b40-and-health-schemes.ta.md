@@ -21,7 +21,7 @@ verificationNeeded:
   - "இந்தக் கட்டுரை mySalam இன் கீழ் தகுதிபெறும் 50 அபாயகரமான நோய்களின் முழு பட்டியலைக் குறிப்பிடவில்லை, ஏனெனில் எழுதப்பட்ட நேரத்தில் விரிவான பட்டியல் mysalam.com.my அதிகாரப்பூர்வ இணையதளத்தில் நேரடியாக உறுதிப்படுத்தப்படவில்லை; முழுப் பட்டியலுக்கு mySalam அதிகாரப்பூர்வ போர்ட்டலைப் பார்க்கவும்."
   - "mySalam மற்றும் PeKa B40 திட்டங்களின் செல்லுபடியாகும் காலம் வருடாந்திர பட்ஜெட் (Belanjawan) முடிவுகளுக்கு உட்பட்டது; இந்தக் கட்டுரையில் உள்ள எண்கள் மற்றும் நிபந்தனைகள் எழுதப்பட்ட நேரத்தில் (ஜூலை 2026) அதிகாரப்பூர்வ இணையதளத்தின் அடிப்படையில் உறுதிப்படுத்தப்பட்டவை, மேலும் அடுத்த பட்ஜெட்டில் புதுப்பிக்கப்படலாம்."
 lang: "ta"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,32 @@ relations:
 related: ["klinik-kesihatan", "healthcare-for-seniors"]
 keywords: ["PeKa B40", "skim kesihatan B40", "mySalam", "Sumbangan Tunai Rahmah kesihatan", "bantuan kesihatan B40 Malaysia", "ProtectHealth", "skim peduli kesihatan", "insentif rawatan kanser B40", "semakan kelayakan PeKa B40"]
 framework: explainer
+hero: '/media/healthcare/peka-b40-and-health-schemes/hero.webp'
+heroAlt: 'வெளிப்புற காத்திருப்பு பகுதியுடன் கூடிய ஒரு நவீன மலேசிய அரசு சுகாதார கிளினிக், இது B40 சுகாதாரத் திட்ட பரிசோதனை வழங்கப்படும் வகை கிளினிக் கெசிஹாத்தான்.'
+heroCredit: 'Cerevisae / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: சமூகத்திற்கு சேவை வழங்கும் ஒரு மலேசிய சுகாதார அமைச்சு பொது சுகாதார கிளினிக்கான Klinik Kesihatan Nilai இன் வெளிப்புறம்
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசிய அரசு சுகாதார கிளினிக்கான Klinik Kesihatan Nilai
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: கோலாலம்பூரில் உள்ள Klinik Kesihatan Tanglin இன் முன்பகுதி, ஒரு மலேசிய பொது அரசு சுகாதார கிளினிக்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் உள்ள அரசு சுகாதார கிளினிக்கான Klinik Kesihatan Tanglin
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 பலரும் “PeKa B40” என்ற பெயரைக் கேள்விப்பட்டிருக்கிறார்கள், ஆனால் அதைப் பற்றிய

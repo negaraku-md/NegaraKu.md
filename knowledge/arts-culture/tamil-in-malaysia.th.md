@@ -32,7 +32,7 @@ seoTitle: "ภาษาทมิฬในมาเลเซีย: ผู้พ�
 socialTitle: "ภาษาทมิฬถูกพูด เรียน และคุ้มครองในมาเลเซียอย่างไร"
 
 lang: "th"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,32 @@ relations:
 related: ["population-composition", "article-152-language", "bahasa-melayu", "languages-spoken", "federal-constitution"]
 keywords: ["Tamil in Malaysia", "SJKT", "Sekolah Jenis Kebangsaan Tamil", "Tamil schools Malaysia", "Malaysian Indians", "Article 152", "Tamil medium instruction", "vernacular schools"]
 framework: explainer
+hero: '/media/arts-culture/tamil-in-malaysia/hero.webp'
+heroAlt: 'ป้ายหน้าประตูโรงเรียนที่ใช้ภาษาทมิฬเป็นสื่อการสอนในเมืองชางลุน (Changlun) รัฐเกอดะฮ์ (Kedah) มีตัวอักษรทมิฬอยู่เหนือชื่อภาษาอังกฤษ S.J.K (Tamil) Changlun โดยมีอาคารเรียนอยู่ด้านหลัง'
+heroCredit: 'Ksmuthukrishnan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: ป้าย 'ห้ามเข้า' สีแดงขาวของมาเลเซียข้อความ 'Dilarang Masuk' พร้อมคำเตือนเดียวกันในภาษาอังกฤษ จีน ปัญจาบ และบรรทัดล่างสุดเป็นอักษรทมิฬ
+    kind: actual
+    origin: third-party
+    subject: ป้ายหลายภาษาของมาเลเซียที่มีบรรทัดอักษรทมิฬ เมืองโกตากินาบาลู
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: อาคารเรียนแบบเปิดโล่งของโรงเรียนประถมภาษาทมิฬในชังลุน รัฐเกอดะฮ์ ประตูและชายคาประดับธงชาติมาเลเซียใต้ท้องฟ้าสดใส
+    kind: actual
+    origin: third-party
+    subject: อาคารเรียนของโรงเรียนประถมประเภทชาติพันธุ์ภาษาทมิฬ ชังลุน รัฐเกอดะฮ์
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 บนสวนยางพาราเก่าของมลายา ห้องเรียนยุคแรก ๆ บางแห่งคือเพิงและกระท่อม และบทเรียนเป็นภาษาทมิฬ ตามงานศึกษาทางประวัติศาสตร์ที่ตีพิมพ์ในวารสารของสมาคมประวัติศาสตร์มาเลเซีย การศึกษาระดับประถมขั้นพื้นฐานเป็นภาษาทมิฬมีให้ในสวนตั้งแต่ต้นศตวรรษที่ยี่สิบ จัดให้ภายใต้ประมวลกฎหมายแรงงานสมัยนั้น และเป็นเวลานานสอนโดยเสมียนและคนทำงานพาร์ตไทม์แทนที่จะเป็นครูที่ได้รับการฝึกฝน

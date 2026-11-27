@@ -31,7 +31,7 @@ faq:
     a: "MFL shifted the calendar to align with the AFC format. The new season began in May 2024 and ended in April 2025, taking into account the AFC Asian Cup, 2026 World Cup qualification, and the month of Ramadan."
 
 lang: "en"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,35 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'Yellow-clad Perak football supporters pack the stadium stands during a 2017 Malaysia Cup match.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: Players contesting the ball during the Malaysia Cup 2012 semi-final between Kelantan and Selangor.
+    kind: actual
+    origin: third-party
+    subject: A Malaysia Cup 2012 semi-final between Kelantan and Selangor
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: View of the seating tiers and pitch inside Stadium Sultan Ibrahim in Iskandar Puteri, Johor.
+    kind: actual
+    origin: third-party
+    subject: The interior of Stadium Sultan Ibrahim, home of a leading Malaysian league club
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 For nearly a century, a single body — the Football Association of Malaysia (FAM) — organised every national league match. Then, in a move that reshaped the sport, the power to run the leagues was handed over to a commercial company. This is the foundation of how Malaysian domestic football works today.

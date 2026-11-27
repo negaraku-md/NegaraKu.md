@@ -29,7 +29,7 @@ faq:
     a: "يقع الاختصاص الأساسي على عاتق دوائر/مجالس الشؤون الدينية الإسلامية في الولايات، لأن الشؤون الدينية الإسلامية من اختصاص الولايات بموجب الدستور. تتولى دائرة JAKIM التنسيق على المستوى الاتحادي، في حين تشمل متطلبات سلامة المباني السلطات المحلية ودائرة الإطفاء (Bomba)."
 
 lang: "ar"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,32 @@ relations:
 related: ["jakim"]
 keywords: ["SABK", "المدارس الدينية", "التحفيظ", "tahfiz", "KAFA", "JAKIM", "التعليم الإسلامي", "المدارس الدينية المجتمعية", "دائرة الشؤون الدينية في الولاية"]
 framework: explainer
+hero: '/media/education/islamic-and-religious-schools/hero.webp'
+heroAlt: 'صفٌّ من الطلاب يرتدون "باجو كورونج" أزرق وأغطية رأس سوداء يدخلون مدرسة سكولاه مننغه أغاما المعارف، وهي مدرسة ثانوية دينية ماليزية، مرورًا بأشجار جوز الهند.'
+heroCredit: 'Baha Haji Arsat / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: الواجهة الهادئة لمدرسة تحفيظ في باتو باهات بولاية جوهور، حيث يقيم الطلاب لحفظ القرآن إلى جانب دراستهم.
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah، باتو باهات، جوهور
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: المبنى المتواضع لمدرسة دينية ابتدائية (sekolah agama) في بيرينغيت بملقا، حيث يتلقّى الأطفال الدراسات الإسلامية في حصة بعد الظهر.
+    kind: actual
+    origin: third-party
+    subject: مدرسة بيرينغيت الدينية الابتدائية، ملقا
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 قد يقضي طفل في ماليزيا صباحه في مدرسة وطنية، وبعد ظهره في صف KAFA بأحد المساجد، وسنوات مراهقته في مهجع تحفيظ — ثلاث بيئات تعليمية مختلفة بمشرفيها ومناهجها وقوانينها. يجري مسار التعليم الديني الإسلامي موازياً للنظام الوطني، لكنه ليس كتلة واحدة. إن فهم من يسجّل ماذا، ومن المسؤول عن ماذا، هو مفتاح قراءة النقاش العام حول هذا الموضوع بإنصاف.

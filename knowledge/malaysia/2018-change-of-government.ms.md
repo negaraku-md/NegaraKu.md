@@ -61,6 +61,13 @@ relations:
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14th general election", "GE14", "PRU14", "2018 Malaysian general election", "change of government Malaysia", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 seats", "Article 43 Federal Constitution", "Mahathir seventh Prime Minister"]
 framework: history-culture
+hero: '/media/malaysia/2018-change-of-government/hero.webp'
+heroAlt: 'Sebuah bangunan sekolah digunakan sebagai pusat mengundi pada hari pilihan raya di Malaysia, dengan papan tanda arah untuk pengundi.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_general_election_polling_station,_Kajang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Selama 61 tahun, sejak pilihan raya persekutuan pertama selepas kemerdekaan pada 1957 sehingga 2018, setiap kerajaan persekutuan Malaysia dibentuk oleh satu gabungan sahaja — [Perikatan](/malaysia/the-alliance), dan sejak tahun 1970-an penggantinya, [Barisan Nasional](/malaysia/barisan-nasional). Pada pilihan raya umum ke-14, kesinambungan itu berakhir: satu gabungan yang berbeza memenangi majoriti kerusi di Dewan Rakyat.

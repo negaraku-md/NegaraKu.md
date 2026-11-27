@@ -31,7 +31,7 @@ faq:
   - q: "لماذا يهم الاستزراع المائي للأمن الغذائي في ماليزيا؟"
     a: "الأسماك المصدر الرئيسي للبروتين الحيواني في ماليزيا، وقد بلغ الصيد البري حده الأقصى. والاستزراع المائي هو الرافعة الرئيسية لرفع نسبة الاكتفاء الذاتي الوطني من الأسماك — نحو 90.7% في 2025 — وتُفضّل السياسة الوطنية للأغذية الزراعية صراحةً السمك المستزرع على المصطاد لتلبية الطلب المستقبلي."
 lang: ar
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'صفوف من الأقفاص الشبكية العائمة لتربية الأسماك موزّعة على سطح بحيرة هادئ، مع كوخ للحارس في أحد الأطراف.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: بركة استزراع مائي هادئة بالمياه العذبة تحيط بها الخضرة في Kampung Tiang بولاية Sabah، ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: بركة استزراع مائي للأسماك في Kampung Tiang، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: بركة استزراع مائي ترابية للأسماك تُستخدم للحصص العملية في مزرعة كلية Universiti Putra Malaysia.
+    kind: actual
+    origin: third-party
+    subject: بركة أسماك تعليمية للاستزراع المائي في Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 لا يزال معظم السمك على مائدة العشاء الماليزية يأتي من البحر — لكن حصة متنامية بسرعة باتت تأتي الآن من بركة أو قفص أو طوف خط طويل. ذلك هو الاستزراع المائي: التربية المتعمَّدة للكائنات المائية، في مقابل اصطياد ما يسبح في البرية. ومع بلوغ صيد ماليزيا البري حده الأقصى وتصاعد الطلب على البروتين، صار الاستزراع المائي الرافعة الرئيسية للبلاد لإبقاء السمك على المائدة. يتعمّق هذا المقال في الجانب المستزرع من الأعمال؛ وللصورة الأوسع، بما في ذلك أسطول الصيد ورعاية الصيادين والإنفاذ، انظر [نظرة عامة على صناعة مصايد الأسماك](/ar/agriculture/malaysian-fisheries-industry/).

@@ -37,7 +37,7 @@ faq:
     a: "Insinyur Jerman Hermann Tilke merancangnya — sirkuit Formula 1 pertama yang dirancang khusus olehnya. Tata letak Grand Prix sepanjang 5.543 km dengan 15 tikungan dan lebar lintasan antara 16 hingga 20 meter."
 
 lang: "id"
-sourceContentHash: "a2a0e6bd77b78348"
+sourceContentHash: "fde9149c5919b6d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -122,6 +122,33 @@ keywords:
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
 framework: profile
+hero: '/media/sports/sepang-circuit-motorsport-legacy/hero.webp'
+heroAlt: 'Kanopi atap tenda berbentuk kipas pucat yang luas pada menara tribun utama Sepang International Circuit menggelembung di atas dek penonton melingkar, dengan lintasan balap yang kosong dan tribun penonton melengkung di kedua sisi di bawah langit biru'
+heroCredit: 'Morio / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepang_International_Circuit_Grandstand_Tower_2016_Malaysian_GP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the sweeping fabric-canopy grandstand tower of Sepang International Circuit, the venue''s signature architecture, seen from trackside'
+images:
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-1.webp
+    alt: Rombongan mobil Formula One yang rapat dengan corak tim menyebar melintasi aspal lebar lintasan start-finis Sepang pada putaran pembuka, ban-bannya meninggalkan bekas gelap di lintasan di bawah matahari terik
+    kind: actual
+    origin: third-party
+    subject: para pembalap Formula One beradu roda menyusuri sirkuit Sepang pada awal Grand Prix Malaysia 2015
+    credit: Morio / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+  - role: scene
+    src: /media/sports/sepang-circuit-motorsport-legacy/body-2.webp
+    alt: Foto udara dari ketinggian Sirkuit Internasional Sepang yang terletak di pedesaan hijau, pita lintasan kelabunya berkelok dalam lingkaran lebar mengelilingi tribun utama dan kompleks pit, dengan landasan pacu dan terminal KLIA terlihat di kejauhan yang berkabut di atasnya
+    kind: actual
+    origin: third-party
+    subject: pemandangan udara seluruh Sirkuit Internasional Sepang yang memperlihatkan tata letak lintasan berkeloknya yang khas dan paddock, dengan Bandara Internasional Kuala Lumpur di belakangnya
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bird-eye_view_of_Sepang_F1_Circuit_-_panoramio.jpg
 ---
 
 Pada Oktober 2026, mobil Formula 1 akan berlomba di Sepang untuk kali pertama dalam sembilan tahun — dan papan tanda di tepi sirkuit akan tertera *Grand Prix Bahrain*. Malaysia bukan tuan rumah di atas kertas, tidak akan membayar biaya lisensi, dan tidak melobi untuk kembali ke kalender balapan. Ia hanya memiliki satu hal yang tiba-tiba dibutuhkan oleh Formula 1: sebuah sirkuit bertaraf tertinggi yang kosong dan siap digunakan.

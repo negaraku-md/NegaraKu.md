@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,32 @@ relations:
 related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["buying a car Malaysia", "hire purchase Malaysia", "JPJ ownership transfer", "Puspakom B5 B7", "Proton Perodua national car", "used car transfer Malaysia", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "car loan Malaysia"]
 framework: how-to
+hero: '/media/transport/buying-a-car/hero.webp'
+heroAlt: '梳邦再也一家蓝色的 Proton 经销店，招牌写着“Wakil Jualan dan Servis”，店前停着几辆汽车。'
+heroCredit: 'Aero777 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.5 my'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: 马来西亚槟城一家 Perodua 品牌展厅内，崭新的 Perodua 轿车在明亮灯光下一字排开。
+    kind: actual
+    origin: third-party
+    subject: 槟城的 Perodua 经销商展厅
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: 一辆黑色 Proton Perdana 轿车——马来西亚国产品牌汽车——停在雪兰莪莎阿南的街道上。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪莎阿南的 Proton Perdana 轿车
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 在马来西亚买车，你签的是一份合约，但实际上同时进入了三段各自独立的关系：一段与卖车给你的人，一段与为你提供融资的人，还有一段与 JPJ——决定车辆登记在谁名下的部门。这三者之中任何一个环节漏掉，你已经付了钱的车，法律上仍不算完全属于你。

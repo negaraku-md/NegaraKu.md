@@ -26,7 +26,7 @@ faq:
     a: "Đối với lần vi phạm đầu tiên, phạt không quá RM30,000 hoặc tù không quá 2 năm, hoặc cả hai. Các lần vi phạm tiếp theo lên đến RM50,000 hoặc tù đến 3 năm."
 
 lang: "vi"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,9 +57,35 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "homeopati", "pendaftaran pengamal", "Majlis PT&K"]
 framework: rules
+hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
+heroAlt: 'Bảng hiệu mặt tiền của một cửa hàng y học cổ truyền và sức khỏe Malaysia, đại diện cho thực hành y học bổ sung và cổ truyền.'
+heroCredit: 'Paul Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: Bốn cây kim châm cứu mảnh đặt trên một bề mặt bên cạnh một đồng xu để so sánh kích thước, đại diện cho châm cứu như một liệu pháp bổ sung
+    kind: representative
+    origin: third-party
+    subject: Kim châm cứu được trưng bày cùng một đồng xu để so sánh kích thước
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: Một thùng gỗ đựng jamu đóng chai, một loại thuốc bổ thảo dược truyền thống, với các chai chứa chất lỏng màu hổ phách nút bằng lá, đại diện cho thuốc bổ sung thảo dược
+    kind: representative
+    origin: third-party
+    subject: Những chai jamu, một loại thuốc bổ thảo dược truyền thống Mã Lai - Indonesia
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 Kể từ ngày 1 tháng 3 năm 2025, thầy xoa bóp cổ truyền, người hành nghề y học Trung Hoa, chuyên gia vi lượng đồng căn và người nắn chỉnh cột sống tại Malaysia không còn có thể mở cửa phòng khám mà không có một mảnh giấy — chứng chỉ đăng ký. Thời kỳ "hành nghề nhân danh kinh nghiệm" đã kết thúc.

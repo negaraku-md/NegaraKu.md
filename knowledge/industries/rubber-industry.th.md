@@ -34,7 +34,7 @@ faq:
     a: "จีนเป็นปลายทางที่ใหญ่ที่สุดมาก รับราว 49% ของการส่งออกยางธรรมชาติในเดือน December 2024 ตามด้วยเยอรมนี (12.9%), สหรัฐอาหรับเอมิเรตส์ (7.3%), สหรัฐอเมริกา และโปรตุเกส"
 
 lang: "th"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,33 @@ relations:
 related: ["palm-oil-industry"]
 keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rubber Board", "latex", "tyres", "smallholders", "downstream manufacturing"]
 framework: profile
+hero: '/media/industries/rubber-industry/hero.webp'
+heroAlt: 'ต้นยางพาราที่มีรอยกรีดเฉียงใหม่ น้ำยางสีขาวหยดลงมาตามลำต้นลงสู่ถ้วยสีดำที่ผูกไว้ที่โคน'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: ต้นยางพาราเรียวบางเรียงเป็นแถวเป็นระเบียบ ลำต้นสีซีดด่าง ทอดยาวไปในระยะไกลข้ามพื้นสวนที่มีหญ้าขึ้น มีถ้วยรองน้ำยางสีเข้มขนาดเล็กติดอยู่ที่ลำต้นหลายต้นในระดับต่ำ
+    kind: actual
+    origin: third-party
+    subject: ต้นยางพาราโตเต็มวัยเรียงเป็นแถวเป็นระเบียบติดถ้วยรองน้ำยางในสวนยางที่รัฐยะโฮร์ เสาหลักของอุตสาหกรรมยางพาราของมาเลเซีย
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: ชายสวมเสื้อสีเทากำลังส่งแผ่นยางที่รีดแล้วสีขาวผ่านลูกกลิ้งหนักของเครื่องรีดแผ่นยางเหล็กหล่อสีเหลืองที่ขอบสวนยาง โดยมีลูกกลิ้งร่องตัวที่สองอยู่ข้างเขา
+    kind: representative
+    origin: third-party
+    subject: คนงานกำลังป้อนแผ่นน้ำยางที่จับตัวเป็นก้อนเข้าเครื่องรีดแผ่นยางแบบหมุนมือ ขั้นตอนสำคัญในการแปรรูปยางธรรมชาติ
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 ยางที่สร้างมาลายายุคอาณานิคมไม่หาเลี้ยงชีพในสวนอีกต่อไป — มันหาเลี้ยงชีพบนพื้นโรงงาน มาเลเซียยังกรีดต้นยาง แต่โชคลาภยางของมันปัจจุบันขี่อยู่บนถุงมือทางการแพทย์ ยางรถยนต์ และสินค้าลาเท็กซ์ที่มันผลิต ธุรกิจที่ใช้ยางมากกว่าที่ประเทศปลูกเอง

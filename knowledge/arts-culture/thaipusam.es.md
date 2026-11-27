@@ -35,7 +35,7 @@ faq:
     a: "Solo en los estados y territorios federales que lo publican en gaceta. Se observa como festivo en lugares como Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor y Kedah, y no está publicado en gaceta como festivo federal de ámbito nacional. Como se fija jurisdicción por jurisdicción, la lista exacta puede variar de un año a otro; consulta siempre el aviso oficial de festivos del estado correspondiente."
 
 lang: "es"
-sourceContentHash: "0b3f0235d5a676f2"
+sourceContentHash: "6d19f7cc328b41f9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,34 @@ festivalFacts:
   when: "El mes tamil de Thai, en torno a finales de enero o febrero de cada año; la fecha exacta sigue el calendario tamil."
   holiday: "Es día festivo únicamente en los estados y territorios federales que lo decretan en el boletín oficial (entre ellos Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor y Kedah), no una festividad federal de ámbito nacional."
   etiquette: "Los no hindúes pueden presenciar las procesiones y la subida; vista con recato cerca del templo, descálcese donde se requiera y pida permiso antes de fotografiar a los devotos que portan el kavadi."
+hero: '/media/arts-culture/thaipusam/hero.webp'
+heroAlt: 'Devotos subiendo la escalera pintada con los colores del arcoíris de las Cuevas de Batu hacia el ornamentado santuario del templo rupestre bajo imponentes acantilados de piedra caliza durante el Thaipusam'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Visitors_Reaching_the_Top_Shrines_of_Stairway_to_Temple_Cave_at_Batu_Caves_(250212).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Devotees climbing the colourful steps to the Temple Cave at Batu Caves during Thaipusam'
+
+images:
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-1.webp
+    alt: Una densa multitud de peregrinos llenando el camino de las Cuevas de Batu bajo la imponente estatua dorada del señor Murugan y las colinas calizas boscosas durante el Thaipusam
+    kind: actual
+    origin: third-party
+    subject: Multitudes de peregrinos del Thaipusam bajo la estatua dorada del señor Murugan en las Cuevas de Batu
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Crowded_Walkway_Facing_Lord_Murugan_Statue_at_Batu_Caves_(250211).jpg
+  - role: scene
+    src: /media/arts-culture/thaipusam/body-2.webp
+    alt: Un devoto del Thaipusam visto de espaldas cargando al hombro un kavadi de campanillas colgantes y llevando un recipiente de plata con leche frente al colorido gopuram de un templo hindú en Ipoh, Perak
+    kind: actual
+    origin: third-party
+    subject: Un portador de kavadi llevando un recipiente de leche en la procesión del Thaipusam en Ipoh
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Thaipusam_Festival,_Ipoh,_Perak,_Malaysia.jpg
 ---
 
 Antes del amanecer, una colina de piedra caliza en el extremo norte de Kuala Lumpur se llena de sonido: tambores, cánticos, el roce de cientos de miles de pies descalzos sobre la piedra. Al pie de una escalinata de 272 escalones se alza una figura dorada más alta que un edificio de catorce plantas. La subida ha comenzado, y no se detendrá durante gran parte del día.

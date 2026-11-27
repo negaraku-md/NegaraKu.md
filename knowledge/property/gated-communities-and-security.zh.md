@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,32 @@ relations:
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
 framework: explainer
+hero: '/media/property/gated-communities-and-security/hero.webp'
+heroAlt: '黄昏时分芙蓉一座灯火通明的封闭社区入口拱门，上面写着「Arden Hill Precinct 2」，设有门卫亭和升降栏杆。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill是芙蓉（Seremban）Forest Heights住宅区内的一个高档封闭式社区，将有地房屋布置在单一受控的围墙界线之内。
+    kind: actual
+    origin: third-party
+    subject: 芙蓉Forest Heights的Arden Hill高档封闭式社区
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: 有地房屋与修剪整齐的绿意填满柔佛依斯干达公主城Horizon Hills的封闭与守卫（gated-and-guarded）式住宅区，这是一个大型、由保安管理的住宅聚居区。
+    kind: actual
+    origin: third-party
+    subject: 柔佛依斯干达公主城的Horizon Hills封闭式住宅区
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 两个住宅区可能长得一模一样——砖砌岗亭、条纹路障、穿制服的保安查看你的贴纸。其中一个站在稳固的法律基础上。另一个之所以存在，只是因为还没有人挑战过它。

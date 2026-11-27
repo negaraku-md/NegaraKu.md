@@ -78,6 +78,13 @@ entity: "Chuyển nơi ở giữa các bang của Malaysia"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: 'Những chiếc xe trên đường cao tốc nhiều làn đi qua các biển chỉ hướng màu xanh phía trên dẫn đến các thị trấn Kuala Lumpur, Melaka và Johor, bên cạnh những đồn điền cọ dầu và đồi núi.'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Chuyển nhà trong nước Malaysia có cảm giác như lẽ ra phải kéo theo cả núi thủ tục đăng ký lại — giấy tờ mới, số mới, bắt đầu lại từ đầu với mọi cơ quan. Phần lớn thì không phải vậy. Lý do mang tính cấu trúc: **phần lớn những gì mang tính chính thức trong cuộc sống của bạn ở Malaysia đều thuộc liên bang**, và các hệ thống liên bang vận hành như nhau ở mọi bang, nên chúng đơn giản là theo bạn. Thứ thực sự thay đổi là một lớp địa phương nhỏ hơn — và biết cái nào là cái nào sẽ biến một cuộc chuyển nhà đáng ngại thành một danh sách kiểm tra ngắn gọn.

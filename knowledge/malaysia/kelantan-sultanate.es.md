@@ -21,7 +21,7 @@ appliesTo: "Lectores, estudiantes e investigadores que quieran entender los orí
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "El año exacto en que Long Yunus tomó el trono de Kelantan se da de forma distinta entre las fuentes (aparecen c. 1760, 1763, 1764 y c. 1774); este artículo usa «la década de 1760» y debería reconciliarse frente a un estudio histórico específico antes de afirmar un único año."
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'Un ornamentado palacio de madera negra con columnas amarillas, frisos tallados y tejados escalonados se alza detrás de un antiguo carruaje de caballos estacionado en una explanada circular de ladrillo.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: Una elegante residencia real de los años treinta de color amarillo pálido, con amplios porches de arcos, ventanas con contraventanas y un tejado bajo de tejas, hoy el Museo Real de Kelantan, situada tras un césped en el barrio real de Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Istana Batu (el Museo Real de Kelantan / Muzium DiRaja) en Kota Bharu
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: Una imponente mezquita estatal en tonos crema y blanco, con una amplia cúpula central, cupulines en las esquinas y un minarete que se eleva, vista desde la calle tras unas verjas de hierro bajo un cielo azul.
+    kind: actual
+    origin: third-party
+    subject: Masjid Muhammadi, la mezquita estatal de Kelantan, en Kota Bharu
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 En el hombro nororiental de la península malaya, donde los ríos descienden hacia el mar de China Meridional y la costa miraba antaño tanto al viejo reino de Patani como al corazón malayo, un trono se forjó a partir de la guerra civil. Su fundador no nació rey. Era un caudillo de ascendencia de Patani que sobrevivió a sus rivales, y la dinastía que inició —la Casa de Long Yunus— aún reina hoy en Kelantan, más de dos siglos y medio después.

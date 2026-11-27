@@ -39,7 +39,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -81,9 +81,42 @@ sources:
 
 entity: "Gunung Mulu National Park"
 wikidata: "Q61535"
-related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "sabah-visitor-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: '适合洞穴探险者、探险徒步者以及规划婆罗洲行程的自然旅人——这里有列入 UNESCO 世界遗产的喀斯特地貌、打破纪录的观光洞穴，以及鹿洞（Deer Cave）的蝙蝠出洞奇观。'
+  getThere: '只能搭乘小型飞机前往——没有公路通达：飞抵 Mulu Airport（通常从美里 Miri 短途飞一程），再到公园总部办理登记。'
+  permit: '须在公园总部登记；观光洞穴、探险洞穴与 Pinnacles 行程均须由持牌向导带领并提前预订——请提早数周至数月预约。'
+  watch: '赤道雨林没有稳定的旱季——Pinnacles 攀登与蝙蝠出洞均视天气而定，遇大雨会取消，故请预留缓冲日；小型飞机另有行李限额。'
+  next: '请向公园官方网站（mulupark.com）及砂拉越旅游局（Sarawak Tourism Board）确认当前的航班、住宿、向导活动规定与收费。'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: '砂拉越姆鲁山国家公园雾气弥漫的山坡上，一片锯齿状的灰色石灰岩尖峰刺破绿色雨林'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: 姆禄山国家公园鹿洞的巨大幽暗洞口，坐落于陡峭、雨林垂挂的石灰岩峭壁之中
+    kind: actual
+    origin: third-party
+    subject: 姆禄山鹿洞的巨大洞口，世界最大洞穴通道之一，被高耸的丛林覆盖石灰岩峭壁环抱
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: 姆禄山清水洞内光线柔和的洞室，有着光滑淡色的岩壁和一条平静的地下河
+    kind: actual
+    origin: third-party
+    subject: 姆禄山清水洞内有地下河的灯光洞室，属东南亚最长洞穴系统之一
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 在砂拉越雨林深处，石灰岩山峰直接自丛林中拔起、无路可达之处，坐落着马来西亚最非凡的景观之一——也是地球上研究得最透彻的洞穴地区之一。姆鲁山国家公园是你能找到世界最大洞厅、一条大得足以让一架巨型喷气客机穿行的洞道、一条每晚由数以百万计蝙蝠组成的河流，以及一片山顶上锋利得足以划破登山靴的石灰岩刀刃之林的地方。它也确实偏远：你搭乘小型飞机抵达，几乎到哪里都有向导相伴，而且要提前数月预订。本指南涵盖姆鲁是什么、地下与地上有什么可看、两条大型徒步路线、交通如何运作，以及初次到访者会犯的错误。

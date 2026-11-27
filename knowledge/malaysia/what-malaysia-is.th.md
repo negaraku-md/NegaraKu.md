@@ -18,7 +18,7 @@ keyTakeaways:
   - "อำนาจนิติบัญญัติถูกแบ่งระหว่างสหพันธรัฐกับรัฐโดยรายการสหพันธ์ รายการรัฐ และรายการร่วมของตารางที่เก้า"
 appliesTo: "ผู้ที่เพิ่งรู้จักมาเลเซียและต้องการเข้าใจว่าประเทศนี้เป็นประเทศแบบใดในทางรัฐธรรมนูญ ก่อนเจาะลึกสถาบันใดสถาบันหนึ่ง"
 lang: "th"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,32 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'แผนที่การเมืองของมาเลเซีย แสดงคาบสมุทรมาเลเซียทางทิศตะวันตก และซาบาห์กับซาราวักบนเกาะบอร์เนียวทางทิศตะวันออก พร้อมป้ายชื่อเมืองสำคัญ'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: ซุ้มประตูจีนสีแดงและทองประดับมังกรทองด้านบน มีป้ายสีน้ำเงินเขียนว่า JALAN PETALING / PETALING STREET เหนือป้ายต้อนรับหลายภาษา ในย่านไชนาทาวน์ของกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: ซุ้มประตูประดับถนนเปอตาลิงในย่านไชน่าทาวน์ กรุงกัวลาลัมเปอร์
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: เทวรูปพระขันทกุมาร (มุรุกัน) สีทองสูงตระหง่านตั้งอยู่ข้างบันไดสีสันสดใสอันชันที่ทอดขึ้นหน้าผาหินปูนปกคลุมด้วยป่าดิบ ขณะที่ผู้มาเยือนกำลังเดินขึ้นไป
+    kind: actual
+    origin: third-party
+    subject: เทวรูปพระขันทกุมาร (มุรุกัน) สีทองและบันไดสีรุ้งที่ถ้ำบาตู รัฐสลังงอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 มาเลเซียไม่ใช่ที่แห่งเดียวที่มีรัฐบาลเดียว มันเป็นสหพันธรัฐ คือ ประเทศเดียวที่ถูกเย็บรวมจากสิบสามรัฐและสามดินแดนสหพันธ์ ตั้งอยู่บนผืนแผ่นดินสองส่วนที่ถูกคั่นด้วยทะเลจีนใต้หลายร้อยกิโลเมตร การเข้าใจโครงสร้างนั้นก่อนทำให้เกือบทุกสิ่งอื่นเกี่ยวกับประเทศนี้ตามได้ง่ายขึ้น

@@ -33,7 +33,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9bcdd21cdf17bf8"
+sourceContentHash: "72d6a2b5b32dcb1d"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,34 @@ verificationNeeded:
   - "Kedudukan sebagai bank kedua terbesar Malaysia dari segi aset dan antara lima kumpulan perbankan terbesar ASEAN — bersifat kedudukan dan berubah mengikut masa; sahkan semula terhadap kunci kira-kira rakan setara semasa."
   - "Bilangan pelanggan (angka yang disebut dalam profil pihak ketiga berbeza secara meluas, cth. ~13.5 juta runcit berbanding ~25 juta keseluruhan) — sahkan terhadap pelaporan semasa CIMB sendiri sebelum menerbitkan sesuatu angka."
 framework: profile
+hero: '/media/companies/cimb/hero.webp'
+heroAlt: 'Sebuah menara pejabat berkaca gangsa dimahkotai papan tanda CIMB BANK merah besar, dengan sepanduk CIMB BANK dan CIMB ISLAMIC merah di sisinya, menjulang di atas jalan Kuala Lumpur'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Former-CIMB-Bank-Headquarters-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'CIMB Bank Tower, the group''s former headquarters, Jalan Semarang, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/companies/cimb/body-1.webp
+    alt: Sebuah menara moden bersalut kaca membawa logo CIMB merah berhampiran puncaknya berdiri bersebelahan bangunan Q Sentral di KL Sentral, dibingkai dedaun pokok gelap
+    kind: actual
+    origin: third-party
+    subject: Menara CIMB moden di Kuala Lumpur Sentral, dilihat dari Taman Botani Perdana
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Q_Sentral_and_CIMB_towers_in_Kuala_Lumpur_Sentral_-_01.jpg
+  - role: scene
+    src: /media/companies/cimb/body-2.webp
+    alt: Sebuah bangunan warisan dua tingkat zaman kolonial berwarna putih yang menempatkan cawangan CIMB Bank, dengan papan tanda CIMB BANK merah di atas pintu masuk aras bawah
+    kind: actual
+    origin: third-party
+    subject: Cawangan CIMB Bank dalam bangunan warisan di Jalan Bendahara, Bandar Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank_Bendahara_Street_Branch.JPG
+wikidata: "Q3045976"
 ---
 
 CIMB ialah bank yang anda temui hampir di setiap sudut perdagangan Malaysia — dan semakin meluas di seluruh Asia Tenggara. Ia merupakan bank universal, bermakna ia melakukan segala-galanya daripada akaun simpanan pekerja bergaji hinggalah terbitan bon bernilai berbilion ringgit dan pengambilalihan rentas sempadan, dan ia berbuat demikian bukan sahaja di Malaysia malah menerusi operasi besar di Indonesia, Thailand dan Singapura.

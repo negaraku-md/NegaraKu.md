@@ -78,9 +78,16 @@ relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-and-culture-motac" }
   - { rel: "governs", to: "tourism-industry-act-1992" }
   - { rel: "related-to", to: "sarawak-tourism-board" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "getting-around-malaysia-for-tourists", "department-of-national-heritage"]
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
 framework: profile
+hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'
+heroAlt: '一座石碑上写着「Pusat Pelancongan Malaysia / Malaysia Tourism Centre」，配有 MaTiC 木槿花标志，下方是一座层叠陶罐喷泉，四周环绕棕榈树。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 当一则「马来西亚，亚洲魅力所在」（Malaysia Truly Asia）的广告吸引你的目光时，为它买单的是一个法定机构——但决定你行程背后那家旅游业者是否有资格销售它的，却是另一个部门。马来西亚旅游业依靠分工运作，弄清楚谁负责什么，能省去许多困惑。

@@ -78,6 +78,13 @@ entity: "在马来西亚州属之间搬迁"
 relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
   - { rel: "related-to", to: "renting-a-home-tenancy" }
+hero: '/media/states/what-changes-when-you-move-between-states/hero.webp'
+heroAlt: '多车道高速公路上的车辆驶过标示吉隆坡、马六甲和柔佛城镇的绿色悬挂指示牌，路旁是油棕种植园和山丘。'
+heroCredit: 'Encik Tekateki / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_North_South_Highway_from_Johor_Premium_Outlet.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 在马来西亚境内搬家，感觉上似乎理应触发一大堆重新登记——新的文件、新的号码、与每个机构从头开始。其实大多数情况下并非如此。原因在于结构：**在马来西亚，生活中大多数看似「官方」的事务都属于联邦层级**，而联邦系统在每个州属的运作方式都一样，所以它们只会跟着你走。真正会改变的是一个较小、较地方性的层——弄清楚哪个是哪个，就能把一次令人生畏的搬迁变成一份简短的清单。

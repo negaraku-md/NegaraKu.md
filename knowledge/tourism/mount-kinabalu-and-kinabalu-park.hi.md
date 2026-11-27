@@ -39,7 +39,7 @@ faq:
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 
 status: "published"
 aiAssisted: true
@@ -91,9 +91,43 @@ sources:
     publisher: "Mount Kinabalu (Sutera Sanctuary Lodges / Kinabalu UNESCO Global Geopark partner)"
 
 entity: "Kinabalu Park"
-related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "gunung-mulu-national-park"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "Low's Peak", "UNESCO World Heritage", "climbing permit", "Laban Rata", "Panalaban", "Poring Hot Springs", "Sabah", "Nepenthes rajah"]
 framework: profile
+visitFacts:
+  bestFor: 'मलेशिया की सबसे ऊँची चोटी पर भोर का पीछा करने वाले फ़िट, सुव्यवस्थित आरोहियों और पार्क-आधार के आसपास ठंडी पहाड़ी हवा, मांसाहारी पौधे, प्रकृति-पगडंडियाँ और गर्म झरने चाहने वाले दिन-आगंतुकों — दोनों के लिए उपयुक्त।'
+  getThere: 'Sabah की राजधानी Kota Kinabalu से स्थल मार्ग द्वारा पहुँचा जाता है, उच्चभूमि में उत्तर-पूर्व की ओर पार्क मुख्यालय तक एक घुमावदार पहाड़ी-सड़क ड्राइव।'
+  permit: 'शिखर-चढ़ाई परमिट-नियंत्रित है: एक पार्क चढ़ाई-परमिट और एक लाइसेंसी Sabah Parks पर्वत-गाइड दोनों अनिवार्य हैं, दैनिक स्थान सीमित हैं, और लगभग हर किसी को पार्क रियायतग्राही के माध्यम से एक रात्रि-विश्राम पर्वत-बिस्तर पहले से बुक करना होता है — इसलिए काफ़ी पहले आरक्षित करें।'
+  watch: 'एक कठिन दो-दिवसीय उच्च-ऊँचाई की चढ़ाई जहाँ ऊँचाई की बीमारी और फ़िटनेस मायने रखती हैं और पर्वत अपना मौसम स्वयं बनाता है; किसी बड़े भूकंप जैसी घटनाओं के बाद पहुँच और मार्ग बदल सकते हैं, इसलिए वर्तमान जानकारी पर योजना बनाएँ।'
+  next: 'वर्तमान परमिट, गाइड और आवास नियम व शुल्क Sabah Parks से पुष्ट करें।'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'सबा में सुबह बादल और हरी तलहटी के ऊपर उठता माउंट किनाबालू का नुकीला ग्रेनाइट शिखर'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: नीले आकाश के नीचे Mount Kinabalu पर एक चट्टानी शिखर के नीचे नंगे granite शिखर-पठार को पार करते पर्वतारोही
+    kind: actual
+    origin: third-party
+    subject: Mount Kinabalu का granite शिखर-स्तंभ, नंगे चट्टानी पठार पर पर्वतारोहियों के साथ
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: Kinabalu Park में पर्वतीय वनस्पति के बीच उगता एक बड़ा लाल और हरा Nepenthes rajah घटपर्णी पौधा
+    kind: actual
+    origin: third-party
+    subject: Kinabalu Park में Nepenthes rajah विशाल घटपर्णी पौधा
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 बोर्नियो के वर्षावन से सीधे 4,000 मीटर से ज़रा ऊपर उठता एक ग्रेनाइट मुकुट, कुछ महाद्वीपों से भी अधिक पादप प्रजातियों वाला एक विश्व धरोहर पार्क, और इतनी कसकर राशन की गई शिखर चढ़ाई कि आप इसे अपनी उड़ानों से पहले बुक करते हैं — माउंट किनाबालू मलेशिया का सबसे प्रसिद्ध प्राकृतिक स्थल है, और वास्तव में देखने के लिए सबसे अधिक संरचित में से एक। यह बोर्नियो के मलेशियाई हिस्से, सबाह में स्थित है, और यह दो बहुत अलग तरह के यात्रियों को पुरस्कृत करता है: वह फ़िट, संगठित पर्वतारोही जो हिमालय और न्यू गिनी के बीच के सबसे ऊँचे शिखर पर भोर का पीछा करता है, और वह दिन-यात्री जो बस ठंडी पर्वतीय हवा, अजीब माँसाहारी पौधे और एक गर्म झरने में डुबकी चाहता है। यह गाइड दोनों को, और उन बातों को शामिल करती है जो लोग जाने से पहले नियमित रूप से ग़लत कर बैठते हैं।

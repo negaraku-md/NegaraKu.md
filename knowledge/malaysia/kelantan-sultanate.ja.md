@@ -21,7 +21,7 @@ appliesTo: "クランタンの君主制の起源、そのパタニとシャム�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,32 @@ social:
 verificationNeeded:
   - "ロン・ユヌスがクランタンの王座に就いた正確な年は資料によって異なって伝えられている（1760年頃、1763年、1764年、1774年頃がいずれも現れる）。本稿は「1760年代」を用いており、特定の一年を断定する前に、専門的な歴史研究に照らして整合させるべきである。"
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: '円形の煉瓦敷きの前庭に停められた古めかしい馬車の後ろに、黄色い柱・彫刻を施した鼻隠し・幾重もの屋根を備えた、装飾豊かな黒い木造宮殿がそびえている。'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: 優美な淡黄色の1930年代の王室邸宅。広いアーチ型のベランダ、鎧戸付きの窓、低い瓦屋根を備え、現在はクランタン王室博物館となり、コタ・バルの王室地区の芝生の奥に建つ。
+    kind: actual
+    origin: third-party
+    subject: コタ・バル（Kota Bharu）にあるイスタナ・バトゥ（Istana Batu、クランタン王室博物館／Muzium DiRaja）
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: クリーム色と白の壮大な州モスク。広い中央ドーム、隅の小塔、そびえ立つミナレットを備え、青空の下、鉄柵越しに通りから望む。
+    kind: actual
+    origin: third-party
+    subject: コタ・バルにあるクランタン州モスク、マスジッド・ムハマディ（Masjid Muhammadi）
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 マレー半島の北東の肩、諸川が南シナ海へと流れ下り、その海岸がかつてマレーの中心地と同じくらい古き王国パタニのほうを向いていたその地で、一つの王座が内戦のなかから鍛え上げられた。その創始者は王として生まれたわけではなかった。彼はパタニ系の武将であり、競合者たちを生き延び、彼が始めた王朝——ロン・ユヌス家——は、二世紀半以上を経た今日もなおクランタンに君臨している。

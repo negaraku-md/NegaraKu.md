@@ -32,7 +32,7 @@ faq:
   - q: "Apakah pernikahan harus menggunakan warna merah dan hari baik? Pantangan apa saja yang ada?"
     a: "Warna merah dan aksara 'ganda bahagia' (囍) adalah warna dan lambang sukacita yang paling mewakili pernikahan Tionghoa, terlihat pada kartu undangan, hantaran, ranjang pengantin, dan dekorasi; pernikahan juga biasanya memilih 'hari baik'. Hal yang lazim diperhatikan meliputi mengutamakan angka genap untuk uang dan hadiah, menghindari angka yang bunyinya tidak membawa untung, serta wanita hamil atau orang yang sedang berkabung kadang menghindari tahap tertentu. Namun, seberapa ketat hal ini dipatuhi berbeda menurut kepercayaan keluarga dan kelompok dialek, dan banyak keluarga hanya mempertahankan sebagian dan menyederhanakan sisanya."
 lang: "id"
-sourceContentHash: "4f2e00c64cb979c1"
+sourceContentHash: "f350feaba150c807"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,34 @@ relations:
 related: ["chinese-new-year", "chinese-dialects", "chinese-clan-associations", "chinese-religion-in-malaysia"]
 keywords: ["华人婚礼", "传统婚礼", "过大礼", "下聘", "聘金", "嫁妆", "安床", "上头", "迎亲", "接新娘", "姐妹玩新郎", "闯门", "奉茶", "敬酒", "喜酒", "回门", "囍", "双喜", "马来西亚华人", "Chinese wedding customs Malaysia"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-wedding-customs/hero.webp'
+heroAlt: 'Panggung pernikahan Tionghoa-Malaysia tradisional berhias kain merah, spanduk guntingan kertas double happiness besar tergantung di atas altar leluhur yang ditata dengan nanas, jeruk, apel, dan lilin naga, dua kursi kayu gelap berukir diletakkan di depan untuk upacara teh, nama kedua mempelai dalam aksara merah muda di kedua sisi'
+heroCredit: 'Marufish / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Wedding_(8329598503).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a traditional Chinese wedding altar and tea-ceremony stage set up in Alor Setar, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-1.webp
+    alt: Seperangkat teh pernikahan Tionghoa merah mengkilap di atas nampan merah, sebuah teko berhias aksara emas shuangxi (kebahagiaan ganda) dan lima cangkir teh merah kecil yang serasi disusun mengelilinginya, digunakan pasangan pengantin untuk menyuguhkan teh kepada para orang tua
+    kind: representative
+    origin: third-party
+    subject: teko dan cangkir merah-emas bermotif kebahagiaan ganda yang digunakan dalam upacara minum teh pernikahan Tionghoa
+    credit: Pauloleong2002 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tea_cups_and_tea_pot_for_wedding.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-wedding-customs/body-2.webp
+    alt: Keranjang hadiah pernikahan bakul siah bertingkat tinggi dari kayu berpernis hitam yang dihias rumit dengan figur, bunga, burung dan ikan emas di tiap tingkatnya, digunakan untuk membawa hadiah pertunangan simbolis antara kedua keluarga, dipajang dalam lemari kaca museum
+    kind: representative
+    origin: third-party
+    subject: sebuah bakul siah, keranjang berpernis bertingkat yang digunakan untuk membawa hadiah pertunangan antar keluarga dalam pernikahan Tionghoa Selat
+    credit: Bjoertvedt / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakul_siah_-_wedding_gift_basket_-_China_1937_Mariette_collection_IMG_9886_singapore_peranakan_museum.jpg
 ---
 
 Sebelum fajar benar-benar menyingsing, serombongan mobil sudah berhenti di depan rumah pihak wanita. Mempelai pria memeluk seikat bunga, diikuti beberapa "saudara", tetapi dihadang beberapa "saudari" yang menjenguk dari pintu: pertama jawab pertanyaan, lalu nyanyikan satu bait, makan beberapa iris jeruk nipis yang diiris sangat tipis, dan akhirnya selipkan beberapa angpau melalui celah pintu — setelah melewati tantangan "menyerbu pintu" (chuang men) ini, barulah pintu terbuka, dan mempelai pria dapat menemui pengantin wanita yang berbusana serba merah. Pagi yang penuh gurauan dan kemeriahan seperti inilah pembuka hari pernikahan bagi banyak pernikahan Tionghoa di Malaysia.

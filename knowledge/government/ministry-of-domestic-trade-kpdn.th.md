@@ -27,7 +27,7 @@ faq:
   - q: "KPDN ใช้กฎหมายใดในการควบคุมราคา?"
     a: "พึ่งพาพระราชบัญญัติควบคุมสินค้า 1961 และพระราชบัญญัติควบคุมราคาและต่อต้านการค้ากำไรเกินควร 2011 เป็นหลัก ซึ่งให้อำนาจในการกำหนดเพดานราคา กำหนดให้แสดงราคา และดำเนินการต่อกำไรที่สูงเกินสมควร"
 lang: "th"
-sourceContentHash: "bc54d858f6180b54"
+sourceContentHash: "feffee68004fb513"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -48,7 +48,7 @@ verificationNeeded:
   - "หมายเลขช่องทางร้องเรียนของผู้บริโภค (1-800-886-800; WhatsApp 019-848 8000; eaduan.kpdn.gov.my; Ez ADU; e-aduan@kpdn.gov.my) — ตรวจสอบว่าเป็นปัจจุบันที่ kpdn.gov.my/bantuan เพราะสายด่วนเปลี่ยนแปลงเป็นครั้งคราว"
   - "จำนวนกอง/bahagian ที่แน่นอนและจำนวนพระราชบัญญัติที่บริหารทั้งหมด — ยืนยันก่อนระบุตัวเลขที่ตายตัว"
   - "รองรัฐมนตรีและปลัดกระทรวงคนปัจจุบัน — ตรวจสอบว่ายังดำรงตำแหน่งอยู่ ณ เวลาเผยแพร่"
-updated: 2026-08-14
+updated: 2026-11-19
 sources:
   - title: "ความเป็นมา - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -74,12 +74,46 @@ sources:
   - title: "การคุ้มครองผู้บริโภค - KPDN (Protecting Consumers - KPDN)"
     url: "https://www.kpdn.gov.my/en/perkhidmatan-kpdn/penguatkuasaan/protecting-consumers"
     publisher: "กระทรวงการค้าภายในประเทศและค่าครองชีพ (KPDN)"
+  - title: "รัฐมนตรีว่าการกระทรวงการค้าภายในประเทศและค่าครองชีพ (มาเลเซีย) — ประวัติชื่อตำแหน่ง (Minister of Domestic Trade and Costs of Living (Malaysia) — office name history)"
+    url: "https://en.wikipedia.org/wiki/Minister_of_Domestic_Trade_and_Costs_of_Living_(Malaysia)"
+    publisher: "Wikipedia"
+  - title: "Ops Pantau KPDN รับประกันไม่มีการปั่นราคาตลอดช่วงเทศกาล (Ops Pantau KPDN pastikan tiada manipulasi harga sepanjang musim perayaan)"
+    url: "https://www.bharian.com.my/berita/nasional/2026/02/1512174/ops-pantau-kpdn-pastikan-tiada-manipulasi-harga-bekalan-sepanjang"
+    publisher: "Berita Harian"
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
-related: []
+related: ["competition-act-2010", "price-control-anti-profiteering-act", "franchise-registration-malaysia"]
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
+hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'
+heroAlt: 'มุมมองด้านหน้ากว้างของอาคารกระทรวง KPDN หินทรายยาวในปุตราจายา พร้อมตัวอักษร ''Kementerian Perdagangan Dalam Negeri'' เหนือทางเข้ากลางและอาคารสำนักงานที่สูงกว่าซึ่งมีโลโก้ K ทรงเพชรที่ปลายด้านขวา'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Ministry of Domestic Trade and Cost of Living (KPDN) building, Putrajaya, with ''Kementerian Perdagangan Dalam Negeri'' signage'
+
+images:
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-1.webp
+    alt: ภาพสามส่วนสี่ของอาคารกระทรวง KPDN หินทรายในปุตราจายา มีตัวอักษรสีทอง 'Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan' บนฐานหินแกรนิตสีเข้ม และรถบัสของกระทรวงจอดอยู่ที่ทางเข้า
+    kind: actual
+    origin: third-party
+    subject: ภาพมุมเฉียงของทางเข้าอาคาร KPDN พร้อมป้ายกระทรวงและรถบัสของกระทรวง ปุตราจายา
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Domestic-Trade-Cooperative-and-Consumer-Protection-02.jpg
+  - role: scene
+    src: /media/government/ministry-of-domestic-trade-kpdn/body-2.webp
+    alt: ภาพมุมต่ำของหอคอยหินทรายสไตล์อาร์ตเดโคแบบเป็นชั้นของกระทรวง KPDN ในปุตราจายา ยอดเป็นตราสัญลักษณ์กระทรวงรูปตัว K ทรงเพชรสีน้ำเงิน-ทอง ตัดกับท้องฟ้าที่มีเมฆบางส่วน
+    kind: actual
+    origin: third-party
+    subject: หอคอยแบบเป็นชั้นของอาคารกระทรวง KPDN ที่มีโลโก้ตัว K ทรงเพชร ปุตราจายา
+    credit: AcMY01 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KPDNHEP_(November_2022).jpg
 ---
 
 เมื่อพ่อค้าเรียกเก็บเงินค่าน้ำมันปรุงอาหารจากคุณเกินราคา ขายสินค้าควบคุมเกินเพดานราคา หรือปฏิเสธที่จะรับผิดชอบสินค้าที่ชำรุด หน่วยงานระดับสหพันธ์ที่มีหน้าที่ดำเนินการแทนคุณคือ **KPDN** — **กระทรวงการค้าภายในประเทศและค่าครองชีพ** (*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*) กระทรวงนี้พัฒนาการค้าภายในประเทศ ควบคุมราคาสินค้าจำเป็นในชีวิตประจำวัน และคุ้มครองผู้บริโภค โดยมีกฎหมายจริง ช่องทางร้องเรียนที่ใช้งานได้ และศาลเรียกร้องขนาดเล็กที่สร้างขึ้นสำหรับผู้ซื้อทั่วไปเป็นตัวหนุน
@@ -89,6 +123,12 @@ framework: profile
 KPDN **จัดตั้งขึ้นเมื่อวันที่ 27 ตุลาคม 1990** วัตถุประสงค์ที่ระบุไว้คือส่งเสริมการค้าภายในประเทศที่ "มีความเป็นไปได้ มีการแข่งขัน และยั่งยืน" โดยเฉพาะในภาคการค้าจำหน่าย พร้อมทั้งคุ้มครองผลประโยชน์และสิทธิของผู้บริโภค ในทางปฏิบัติ งานของกระทรวงแบ่งออกเป็นสองส่วน ได้แก่ การกำหนดนโยบายการค้า — รวมถึงการกำหนดและติดตามราคาสินค้าจำเป็นและควบคุมการขายและการกระจายสินค้าจำเป็น ผลิตภัณฑ์ปิโตรเลียมและปิโตรเคมี — และการคุ้มครองผู้บริโภค ซึ่งครอบคลุมการให้ความรู้แก่ผู้บริโภค การสร้างความตระหนัก การคุ้มครอง และการสนับสนุนขบวนการผู้บริโภค
 
 กระทรวงใช้ชื่อปัจจุบัน โดยเพิ่มการเน้นย้ำ "ค่าครองชีพ" ในเดือน **ธันวาคม 2022** สำนักงานใหญ่อยู่ที่ No. 13, Persiaran Perdana, Precinct 2, ศูนย์บริหารราชการสหพันธ์, 62623 Putrajaya รัฐมนตรีคือ **Datuk Armizan Mohd Ali** ผู้ซึ่งนำกระทรวงมาตั้งแต่วันที่ 30 กรกฎาคม 2023
+
+## ชื่อเดิมของ KPDN: สี่ชื่อนับตั้งแต่ปี 1990
+
+KPDN เคยใช้ชื่อทางการมาแล้วสี่ชื่อ แต่ละชื่อสะท้อนขอบเขตภารกิจที่กระทรวงรับผิดชอบในขณะนั้น กระทรวงนี้จัดตั้งขึ้นเมื่อวันที่ **27 ตุลาคม 1990** ในชื่อ **กระทรวงการค้าภายในประเทศและกิจการผู้บริโภค** (*Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna*, **KPDNHEP**) ซึ่งแยกออกมาจากกระทรวงการค้าและอุตสาหกรรม ในปี **2009** กระทรวงได้ผนวกภารกิจด้านสหกรณ์เข้ามาและกลายเป็น **กระทรวงการค้าภายในประเทศ สหกรณ์และการบริโภคนิยม** (**KPDNKK** หรือที่เรียกในภาษาอังกฤษว่า **MDTCC**) ในปี **2018** ภารกิจด้านสหกรณ์ถูกแยกออกไปอีกครั้งและกระทรวงกลับไปใช้ชื่อ **KPDNHEP** สุดท้าย เมื่อวันที่ **3 ธันวาคม 2022** กระทรวงได้ใช้ชื่อปัจจุบันพร้อมภารกิจด้านค่าครองชีพอย่างชัดเจน คือ **กระทรวงการค้าภายในประเทศและค่าครองชีพ** (**KPDN**)
+
+เส้นด้ายที่ร้อยผ่านทั้งสี่ชื่อไม่เคยเปลี่ยน นั่นคือการค้าภายในประเทศและการคุ้มครองผู้บริโภค แต่การเปลี่ยนชื่อในปี 2022 ส่งสัญญาณว่าการกดราคาสินค้าจำเป็นในชีวิตประจำวันได้กลายเป็นภารกิจสาธารณะที่เป็นเอกลักษณ์ของกระทรวง ดังนั้นหากคุณพบตัวย่อเดิมอย่าง KPDNHEP, KPDNKK หรือ MDTCC ในเอกสารหรือข่าว ตัวย่อเหล่านั้นหมายถึงกระทรวงเดียวกันในช่วงก่อนหน้านี้
 
 ## KPDN ใช้กฎหมายใดในการควบคุมราคา?
 
@@ -105,6 +145,10 @@ KPDN และหน่วยงานของกระทรวงบริห
 | พระราชบัญญัติแฟรนไชส์ 1998 [Act 590] | จดทะเบียนและกำกับดูแลแฟรนไชส์ |
 
 โดยใช้ Act 122 และ Act 723 KPDN ทำงานเพื่อรักษาเสถียรภาพราคาสินค้าจำเป็นเช่นข้าว ไข่ น้ำมันปรุงอาหาร และไก่ ดำเนินการปฏิบัติการบังคับใช้รวมถึง **Ops Pantau** และ **Ops Menu** และกำหนด **แผนราคาสูงสุดในช่วงเทศกาล** (*Skim Harga Maksimum Musim Perayaan*) ที่กำหนดเพดานราคาสินค้าควบคุมที่เลือกในช่วงการเฉลิมฉลอง — เช่นในแผนช่วง [ดีปาวลี (Deepavali)](/arts-culture/deepavali) เดือนตุลาคม 2025 ภายใต้มาตรา 10 แห่ง Act 723 รัฐมนตรีสามารถกำหนดให้ผู้ขายสินค้าหรือบริการใด ๆ แสดงราคา
+
+## ใครคือผู้บังคับใช้กฎจริง ๆ?
+
+เบื้องหลังการปฏิบัติการเหล่านั้นคือ **กองบังคับใช้กฎหมาย** (*Bahagian Penguatkuasaan*) ของกระทรวง ซึ่งเป็นหน่วยในเครื่องแบบที่เจ้าหน้าที่ประจำอยู่ตามสำนักงานระดับรัฐทั่วประเทศ โดยทำงานภายใต้พระราชบัญญัติควบคุมราคาและต่อต้านการค้ากำไรเกินควร 2011 และพระราชบัญญัติควบคุมสินค้า 1961 เป็นหลัก พวกเขาตรวจสอบสถานประกอบการ บังคับให้แสดงราคา ยึดสินค้า และดำเนินคดีกับพ่อค้าที่ฝ่าฝืนเพดานราคาหรือค้ากำไรเกินควร ในการกวาดตรวจช่วงเทศกาลเพียงครั้งเดียวเช่น **Ops Pantau** กองนี้สามารถระดมเจ้าหน้าที่ได้หลายพันคน — ปฏิบัติการปี 2026 ระดมมากกว่า 2,400 คน — ทำให้เป็นหน้าตาของกระทรวงที่พ่อค้าส่วนใหญ่ได้พบจริง ๆ กองนี้อยู่ภายในกระทรวงที่จัดโครงสร้างเป็นกองและหน่วยราวสิบกว่าหน่วย ครอบคลุมการพัฒนาการค้าภายในประเทศ การติดตามค่าครองชีพ การบริโภคนิยม ตลอดจนภารกิจด้านกฎหมายและศาลที่อธิบายไว้ด้านล่าง
 
 ## คุณใช้ KPDN อย่างไรเมื่อถูกโกง?
 

@@ -30,7 +30,7 @@ faq:
     a: "分布在马来西亚（包括柔佛、马六甲、森美兰、彭亨、沙巴和砂拉越）以及印度尼西亚（西加里曼丹和中加里曼丹）。"
 
 lang: "zh"
-sourceContentHash: "2bc33852c39fbf8a"
+sourceContentHash: "b6113775a26170c0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,34 @@ relations:
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
 framework: profile
+hero: '/media/companies/ioi-corporation/hero.webp'
+heroAlt: 'IOI City Mall弧形玻璃金属的主入口，门上方有红色''ioiCITYMALL''招牌，两侧是高耸的镜面办公塔楼，天空云层壮观'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:IOI_City_Mall.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Main entrance of IOI City Mall at IOI Resort City, Putrajaya, developed by IOI Properties (IOI Group)'
+
+images:
+  - role: scene
+    src: /media/companies/ioi-corporation/body-1.webp
+    alt: 一座蓝色工业棕榈油精炼塔，标有大字 'IOI' 和 'IOI EDIBLE OILS' 徽标牌，位于沙巴山打根，背景是森林覆盖的山丘，前景有棕榈树
+    kind: actual
+    origin: third-party
+    subject: 位于沙巴山打根的 IOI Edible Oils 棕榈油精炼综合体，隶属 IOI Corporation 的资源型制造业务
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_IOI-Edible-Oils-Complex-09.jpg
+  - role: scene
+    src: /media/companies/ioi-corporation/body-2.webp
+    alt: IOI City Mall 2 的多层中庭内景，高大的粉色 'IOi CiTY MALL 2' 宣传横幅悬挂在排列着商铺的弧形回廊上方
+    kind: actual
+    origin: third-party
+    subject: IOI City Mall 2 的中庭内景，IOI City Mall 的第二期，布城
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:IOI_City_Mall_2_(Aug_2022).jpg
 ---
 
 一家以销售工业气体起家的公司，如今种植的油棕已足以填满一片相当于一个小县城大小的土地储备——并把这些果实加工成从食用油到肥皂里脂肪酸的各种产品。

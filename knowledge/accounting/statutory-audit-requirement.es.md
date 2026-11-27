@@ -84,7 +84,7 @@ sources:
 relations:
   - { rel: "related-to", to: "audit-exemption-qualifying-criteria" }
   - { rel: "related-to", to: "sdn-bhd-financial-statements-filing" }
-related: []
+related: ["audit-exemption-thresholds", "appointing-an-auditor", "what-is-sdn-bhd"]
 keywords: ["auditoría legal", "exención de auditoría", "Companies Act 2016", "sección 267", "PD 10/2024", "auditor Sdn Bhd", "SSM audit exemption"]
 framework: rules
 ---

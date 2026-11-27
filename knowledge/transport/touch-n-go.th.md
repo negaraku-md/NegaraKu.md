@@ -30,7 +30,7 @@ faq:
     a: "จำเป็น หากต้องการใช้ฟังก์ชันเติมเงินผ่าน NFC ขั้นตอนการลงทะเบียนเกี่ยวข้องกับการยืนยันตัวตน (KYC) เพื่อให้ยอดเงินในบัตรผูกกับบัญชี eWallet ของคุณ — สิ่งนี้ยังเพิ่มชั้นการคุ้มครองเพิ่มเติมหากบัตรสูญหาย เมื่อเทียบกับบัตรที่ไม่ได้ลงทะเบียนซึ่งใครก็ตามที่พบเจอสามารถนำยอดเงินไปใช้ได้"
 
 lang: "th"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,32 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 framework: explainer
+hero: '/media/transport/touch-n-go/hero.webp'
+heroAlt: 'ป้ายช่องทางเหนือศีรษะที่เขียนว่า “Touch ''n GO”, “MyRFID” และ “SmartTAG” บอกตำแหน่งช่องเก็บเงินแบบไร้เงินสดที่ด่าน Gombak โดยมีคำว่า “RFID” ทาไว้บนพื้นถนน'
+heroCredit: 'ItsTomato / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: แท็กRFIDติดกระจกหน้าTouch 'n Goที่ช่องทางด่านเก็บเงิน พร้อมไม้กั้นช่องทางและโครงเหล็กติดเครื่องอ่านRFIDเหนือตู้เก็บเงิน
+    kind: actual
+    origin: third-party
+    subject: การอ่านแท็กRFID Touch 'n Goที่ช่องทางMyRFIDด่านกอมบัก รัฐสลังงอร์
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: แถวประตูเก็บค่าโดยสารอัตโนมัติที่ทางเข้าสถานีรถไฟ มีเครื่องอ่านบัตรบนประตูแต่ละบาน และมองเห็นโถงห้างสรรพสินค้าอยู่ด้านหลัง
+    kind: representative
+    origin: third-party
+    subject: ประตูเก็บค่าโดยสารที่สถานีLRT KLCCซึ่งแตะบัตรเดินทางเช่นTouch 'n Go
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 หลายคนเก็บบัตร Touch 'n Go ไว้ในกระเป๋าสตางค์และมีแอปพลิเคชัน Touch 'n Go eWallet อยู่ในโทรศัพท์ แล้วเข้าใจว่าทั้งสองเป็นสิ่งเดียวกันที่มีสองหน้า แต่ไม่ใช่เช่นนั้น ยอดเงินในบัตรของคุณและยอดเงินในแอปพลิเคชันของคุณเก็บแยกจากกันโดยสิ้นเชิง — การเติมเต็มอย่างหนึ่งไม่ได้เพิ่มแม้แต่เซนเดียวให้กับอีกอย่างหนึ่ง ความเข้าใจผิดนี้เป็นสาเหตุที่พบบ่อยของรถที่ติดค้างอยู่ที่ด่านเก็บเงิน เพราะผู้ขับขี่มั่นใจว่า "เงินในโทรศัพท์มีเพียงพอ" ทั้งที่สิ่งที่เครื่องเก็บค่าผ่านทางอ่านคือบัตร

@@ -72,6 +72,32 @@ faq:
   - q: What is the Christian Federation of Malaysia, and which bodies does it bring together?
     a: 'The Christian Federation of Malaysia (CFM), formed in 1985, is the main umbrella body. It unites the three streams of Malaysian Christianity: the Catholic Bishops'' Conference, the Council of Churches of Malaysia (mainline Protestant) and the National Evangelical Christian Fellowship. CFM says it represents more than 95% of the country''s churches, many of them Bahasa Malaysia-speaking congregations in Sabah and Sarawak.'
 framework: history-culture
+hero: '/media/arts-culture/christianity-in-malaysia/hero.webp'
+heroAlt: 'The whitewashed stone ruins of the 16th-century St Paul''s Church on Melaka''s St Paul''s Hill, with the marble statue of St Francis Xavier standing in the foreground.'
+heroCredit: 'Björn Christian Tørrissen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: The white Gothic-revival St Mary's Cathedral, an Anglican church beside Merdeka Square in Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: St Mary's Anglican Cathedral, Kuala Lumpur
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: The modern Holy Trinity Catholic Church in Tawau, Sabah, representing the Christian communities of East Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Holy Trinity Catholic Church, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 Malaysia's Christian story has two centres of gravity, and neither is in the

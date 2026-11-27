@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "별개의 두 말레이 민속 춤인 조겟과 자핀 사이의 기원, 음악, 동작의 차이를 이해하고자 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "f85648fc29f5d316"
+sourceContentHash: "a71faf069d7295ef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,34 @@ relations:
 related: ["mak-yong", "wayang-kulit", "songket"]
 keywords: ["Joget", "Zapin", "tarian tradisional Melayu", "Joget Melaka", "Zapin Johor", "gambus", "marwas", "branyo Portugis", "tarian rakyat Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/joget-and-zapin/hero.webp'
+heroAlt: '나무 무대 위에서 자핀을 추는 네 명의 말레이 무용수: 자홍과 주황빛 바주 믈라유에 검은 틍콜록 모자를 쓴 두 남성이 손을 펼쳐 동작하고, 보라빛 송켓과 얇은 베일을 두른 두 여성이 따뜻한 조명 아래 우아한 팔 자세를 취한 모습'
+heroCredit: 'ScribblingGeek / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zapin_Performance_in_Singapore.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malay dancers performing zapin in richly patterned songket costume at the Malay Heritage Centre, Singapore'
+
+images:
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-1.webp
+    alt: 쿠알라룸푸르의 야외 행사에서, 선명한 분홍, 초록, 금색 사롱 의상을 입은 말레이 무용수들이 팔을 들고 손목을 비틀며 활기찬 조겟을 추는 모습, 남성은 맞춘 상의를, 여성은 머리에 꽃을 꽂은 모습
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 쿠알라룸푸르에서 활기찬 조겟 스타일 춤을 추는 말레이 민속 무용수들
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysian_dancers.jpg
+  - role: scene
+    src: /media/arts-culture/joget-and-zapin/body-2.webp
+    alt: 바주 쿠룽, 사롱, 송콕 모자를 착용한 수십 명의 말레이 무용수들이 흐린 날 나무 정자 앞 거리를 가득 메우며 야외 집단 자핀 공연에서 두 손을 머리 위로 일제히 든 모습
+    kind: representative
+    origin: third-party
+    subject: 인도네시아 폰티아낙의 도시 축제에서 전통 복장을 한 말레이 공연자들의 집단 자핀(즈핀) 춤
+    credit: Aliff12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tari_Jepin_Masal_Kota_Pontianak.jpg
 ---
 
 두 무용수가 근당의 박자에 맞추어 빠르게 움직입니다 — 발은 구르고, 손은 부드럽게 춤춥니다. 이를 보는 많은 이들은 어느 것이 조겟이고 어느 것이 자핀인지 구분하지 않고 그저 '말레이 춤'이라 부릅니다. 각각이 어디에서 왔는지 물으면, 그 답은 우리를 세계의 두 모퉁이로 데려갑니다. 하나는 믈라카의 포르투갈 무역선 갑판에서, 다른 하나는 하드라마우트에서 온 아랍 선교사 대상(隊商)에서 말입니다.

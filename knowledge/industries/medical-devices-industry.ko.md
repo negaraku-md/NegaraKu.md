@@ -31,7 +31,7 @@ faq:
   - q: 제조사에게 어떤 인센티브가 있나요?
     a: 의료기기는 MIDA 촉진 활동으로, 파이어니어 스테이터스(일정 기간 소득세 부분~전액 면제)와 적격 자본지출에 대한 투자세액공제 같은 인센티브를 받을 수 있습니다. 의료기기는 또한 신산업마스터플랜 2030의 우선 부문으로 지정되어 있습니다. 현재 조건과 자격은 MIDA에 직접 확인하세요.
 lang: ko
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -101,6 +101,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: '침지 라인에서 액상 라텍스를 입힌 손 모양의 성형틀로, 일회용 장갑 제조의 핵심 공정이다.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: 무균 제약 생산 라인에서 보호용 가운과 모자를 착용하고 장비를 조작하는 작업자들.
+    kind: representative
+    origin: third-party
+    subject: 가운을 입은 작업자가 있는 무균 제약/의료 제품 생산 라인(의료 제조업의 대표 사례)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: 의료 제품 제조 시설 내 클린룸 생산 라인의 가운을 입은 기술자들과 스테인리스강 장비.
+    kind: representative
+    origin: third-party
+    subject: 의료 제품 제조 시설 내 클린룸 생산 라인(대표 사례)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 수술용 장갑을 껴 보았거나, 카테터로 채혈을 받았거나, 정형외과용 임플란트의 도움으로 회복한 적이 있다면, 그 기기가 말레이시아에서 만들어졌을 가능성이 충분히 있습니다. 유명한 고무장갑을 넘어, 이 나라는 조용히 동남아시아에서 의료기기를 제조하는 가장 중요한 곳이자 — 세계 어디와 비교해도 상당한 메드텍 제조 기반 중 하나가 되었습니다.

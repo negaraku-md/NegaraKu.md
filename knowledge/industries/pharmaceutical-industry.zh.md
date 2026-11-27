@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚主要的制药公司有哪些？
     a: 最为人熟知的本地制造商是 Pharmaniaga（集制造、分销与政府特许权于一身）、Duopharma Biotech（脱胎于 CCM 集团，生产生物类似药）、CCM、Kotra Pharma 与 Hovid。辉瑞（Pfizer）、诺华（Novartis）与葛兰素史克（GSK）等跨国企业则主要专注于专利药，而非大规模本地生产。
 lang: zh
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -98,6 +98,32 @@ keywords:
   - 疫苗灌装封装
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: '加盖的药瓶在制药生产线的自动传送带上移动。'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: 几名身穿蓝色工作服、戴着工作帽的工人围站在一张工作台旁，台上密密排列着一排排深色小药瓶，他们正逐一拿取检查，所在的明亮制药车间墙边设有玻璃门柜
+    kind: representative
+    origin: third-party
+    subject: 身穿蓝色制服、戴着发帽的工人在制药包装部门的工作台上检查并包装一排排已灌装的药瓶
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: 一双戴着蓝色丁腈手套、身穿白色实验服的手，正将一个透明塑料药片托盘放到一台不锈钢实验仪器上，仪器标有高温表面警示
+    kind: representative
+    origin: third-party
+    subject: 一名戴手套的技术人员在制药质量控制实验室中将一个药片样品托盘装入检测设备
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 每当一名马来西亚人拿着抗生素、止痛药或降压片的处方去配药，这种药很有可能就是在马来西亚制造的——不是在这里发明，而是在一家按国际制造标准作业的本地工厂里配方、压片、灌装与包装。这正是马来西亚制药产业的核心：一个稳固、以仿制药为主导的制造基地，让国家的药柜保持充盈，并搭配两项更有雄心的押注——清真制药与疫苗生产——这个国家希望借此沿价值链向上攀升。

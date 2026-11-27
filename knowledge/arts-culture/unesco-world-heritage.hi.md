@@ -30,7 +30,7 @@ faq:
     a: "हाँ। विश्व धरोहर केंद्र मलेशिया की अस्थायी सूची में तीन स्थल दर्ज करता है: प्रायद्वीपीय मलेशिया का राष्ट्रीय उद्यान (तामान नेगारा), गोम्बाक सेलांगोर क्वार्ट्ज कटक, और सुंगाई बुलोह कुष्ठ-आश्रम। एक अस्थायी सूचीयन नामांकन करने के इरादे की घोषणा है, अंकन नहीं।"
 
 lang: "hi"
-sourceContentHash: "8737d6f4b745fcb3"
+sourceContentHash: "b312bbc1bea93028"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -91,6 +91,34 @@ relations:
 related: ["penang", "melaka-sultanate", "sarawak"]
 keywords: ["Malaysia UNESCO World Heritage", "मलेशिया यूनेस्को विश्व धरोहर", "जॉर्ज टाउन मलक्का अंकन मानदंड", "George Town Melaka inscription criteria", "गुनुंग मुलु विश्व धरोहर", "लेंगगोंग घाटी इंसान बिराक", "नियाह गुफाएँ यूनेस्को 2024", "Niah Caves UNESCO 2024"]
 framework: data-reference
+hero: '/media/arts-culture/unesco-world-heritage/hero.webp'
+heroAlt: 'मेलाका की गहरी गेरुआ-लाल डच स्टैडथौस इमारत और उसकी वर्गाकार घड़ी-मीनार, लाल-हरे पौधों वाले एक गोल चक्कर से घिरी, आगे दिशा-सूचक चिह्न और चमकीली बादल भरी आसमान के नीचे'
+heroCredit: 'Philip Nalangan / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the red Dutch Stadthuys and clock tower on the historic square of Melaka, part of the George Town and Melaka UNESCO World Heritage Site'
+
+images:
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-1.webp
+    alt: पेनांग के जॉर्ज टाउन में एक संकरी विरासत गली, जिसके दोनों ओर पुराने दो-मंज़िला दुकान-घर लाल लालटेनों से सजे हैं और एक बाटिक पेंटिंग म्यूज़ियम का साइनबोर्ड है, दाईं ओर एक नीला Lebuh Armenian सड़क-चिह्न और एक पीले पैदल-क्रॉसिंग वाली एक शांत सड़क
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन विरासत क्षेत्र में लेबुह आर्मेनियन (आर्मेनियन स्ट्रीट), जो यूनेस्को विश्व धरोहर स्थल का हिस्सा है
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg
+  - role: scene
+    src: /media/arts-culture/unesco-world-heritage/body-2.webp
+    alt: सबाह में माउंट किनाबालु का ग्रे ग्रेनाइट पर्वत-पुंज, जिसकी दाँतेदार कटक वनाच्छादित तलहटी के ऊपर उठती है, अग्रभूमि में पत्तेदार हरे पेड़ और एक घास वाली ढलान, एक साफ़ नीले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: सबाह में किनाबालु पार्क के ऊपर उठता माउंट किनाबालु, एक यूनेस्को विश्व धरोहर स्थल
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg
 ---
 
 पूछिए कि मलेशिया के कितने विश्व धरोहर स्थल हैं और अधिकांश स्रोत आपको चार बताएँगे। यह 2024 तक सच था। उस जुलाई में नियाह गुफा-परिसर अंकित हुआ, और 2025 में वन अनुसंधान संस्थान मलेशिया वन उद्यान सेलांगोर उसके बाद आया — जिससे कुल संख्या छह हो गई।

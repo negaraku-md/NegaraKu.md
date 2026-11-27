@@ -30,7 +30,7 @@ faq:
     a: "아닙니다. 852법은 모든 담배 및 베이프 제품을 온라인 플랫폼과 자판기를 통해 판매하는 것을 금지합니다."
 
 lang: "ko"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -65,9 +65,35 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur minimum merokok", "generational endgame", "kawasan larangan merokok"]
 framework: rules
+hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'
+heroAlt: '말레이어, 중국어, 영어로 쓰인 말레이시아의 금연 표지판(Dilarang Merokok／No Smoking).'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: 말레이시아 조호르바루의 한 식당 안 벽에 붙은 금연 표지로, 금연 장소임을 알린다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 조호르바루의 한 식당에 게시된 금연 안내문
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: 전자담배(vape) 기기를 입가에 가까이 들고 있는 손의 클로즈업으로, 법으로 규제되는 전자담배 사용을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 전자담배(vape) 기기를 들고 있는 사람
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 말레이시아에서 처음으로 담배 한 개비와 베이프 기기가 같은 법의 적용을 받게 되었습니다 — 그리고 미성년자에게 판매하는 것은 더 이상 단순한 정책이 아니라 수천 링깃의 벌금을 물 수 있는 범죄가 되었습니다.

@@ -36,7 +36,7 @@ socialTitle: "De la Sejarah Melayu a los Sasterawan Negara — la historia de la
 lang: "es"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -80,6 +80,32 @@ verificationNeeded:
   - "El autor y la fecha exactos de las obras clásicas como el Hikayat Hang Tuah siguen sin poder determinarse con precisión (se estima entre los siglos XV y XVII)"
   - "El año del premio a A. Samad Said figura como 1985 en la lista principal, pero como 1986 en el recuadro de navegación de la misma fuente — confirmado como 1985"
 framework: history-culture
+hero: '/media/arts-culture/malay-literature/hero.webp'
+heroAlt: 'La doble página inicial, dorada y con bordes florales, del Taj al-Salatin (''La Corona de los Reyes''), un manuscrito literario malayo clásico escrito en escritura jawi.'
+heroCredit: 'Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: La página inicial de un manuscrito Jawi del Hikayat Merong Mahawangsa, la crónica clásica de Kedah, escrita en malayo con fluida grafía árabe dentro de un marco pautado.
+    kind: actual
+    origin: third-party
+    subject: Página inicial en escritura Jawi del Hikayat Merong Mahawangsa (Anales de Kedah)
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: Un frontispicio iluminado en oro, rojo y negro que abre un manuscrito del Syair Ken Tambuhan, un clásico romance en verso malayo de los relatos de Panji.
+    kind: representative
+    origin: third-party
+    subject: Frontispicio iluminado de un manuscrito del romance en verso malayo Syair Ken Tambuhan
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 En un antiguo manuscrito queda grabada la historia de los reyes de Melaka, el periplo de Hang Tuah y la caída de un imperio — no como una crónica histórica árida, sino como un relato vivo, con personajes, diálogo y estilo literario. Ese manuscrito, la *Sejarah Melayu* o *Sulalatus Salatin*, es una de las obras más tempranas que dan testimonio de cuán larga y rica es la tradición de las letras en lengua malaya.

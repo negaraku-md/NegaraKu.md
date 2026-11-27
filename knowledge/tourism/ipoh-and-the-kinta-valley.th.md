@@ -38,7 +38,7 @@ faq:
     a: "วิธีที่ง่ายที่สุดคือรถไฟฟ้า KTM ETS จาก KL Sentral ซึ่งถึงอิโปห์ในราวสองถึงสองชั่วโมงครึ่งขึ้นอยู่กับเที่ยว โดยมีตัวเลือกด่วนที่เร็วกว่าซึ่งเปิดในปี 2024 (Wikipedia; Malay Mail) การขับบนทางด่วนเหนือ-ใต้ใช้เวลาใกล้เคียง ยืนยันตารางและค่าโดยสารปัจจุบันกับ KTMB ก่อนเดินทาง"
 
 lang: "th"
-sourceContentHash: "17377ac3ddf10f15"
+sourceContentHash: "0e3524cb039f60d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -114,6 +114,39 @@ wikidata: "Q271619"
 keywords: ["Ipoh", "Kinta Valley", "Perak", "tin mining", "limestone karst", "cave temples", "Sam Poh Tong", "Perak Tong", "Kek Lok Tong", "Kellie's Castle", "Gua Tempurung", "Ipoh white coffee", "ETS train"]
 related: ["kuala-lumpur-visitor-guide", "getting-around-malaysia-for-tourists", "cameron-highlands-visitor-guide", "penang-george-town-visitor-guide"]
 framework: profile
+visitFacts:
+  bestFor: 'เหมาะกับนักเดินทางสายมรดกและอาหาร และครอบครัวที่ต้องการเมืองเก่าอาณานิคมที่เดินเที่ยวได้ วัดถ้ำหินปูน และวงการอาหารร้านกาแฟ (kopitiam) อันเลื่องชื่อของรัฐ Perak'
+  getThere: 'ไปถึง Ipoh ด้วยรถไฟฟ้า KTM ETS จาก KL Sentral เข้าสถานีเมืองเก่า หรือขับรถทางด่วนเหนือ-ใต้ (North-South Expressway) และยังมีรถบัสด่วนให้บริการเมืองนี้ด้วย'
+  permit: 'วัดถ้ำเป็นสถานที่ประกอบศาสนกิจที่ยังใช้งานอยู่ จึงควรแต่งกายสุภาพ (ปกปิดไหล่และเข่า) และรักษาความเงียบภายใน'
+  watch: 'แม้คำโฆษณาท่องเที่ยวจะหลวม ๆ แต่ Kinta Valley เป็นอุทยานธรณีระดับชาติ ไม่ใช่ UNESCO Global Geopark'
+  next: 'ตรวจสอบตารางเวลาและค่าโดยสารรถไฟปัจจุบันกับ KTMB ก่อนเดินทาง'
+hero: '/media/tourism/ipoh-and-the-kinta-valley/hero.webp'
+heroAlt: 'มุมมองเหนือสนาม Padang สีเขียวของอิโปห์และใจกลางเมืองมรดกพร้อมเขาหินปูนแหลมคมตั้งตระหง่านด้านหลังใต้ท้องฟ้าสีครามหมอกควัน'
+heroCredit: 'HundenvonPenang / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_skyline_24-2.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Ipoh city skyline and the Padang backed by the dramatic limestone karst hills of the Kinta Valley'
+images:
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-1.webp
+    alt: สวนจัดภูมิทัศน์พร้อมบ่อน้ำและไม้พุ่มออกดอกโอบล้อมอยู่ระหว่างหน้าผาหินปูนคาร์สต์ปกคลุมด้วยป่าที่วัดถ้ำเก็กลกตง (Kek Lok Tong) อีโปห์
+    kind: actual
+    origin: third-party
+    subject: สวนริมทะเลสาบของวัดถ้ำเก็กลกตงที่โอบล้อมด้วยหน้าผาหินปูนสูงตระหง่านทางใต้ของอีโปห์ (Ipoh)
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_Kek_Lok_Dong_(8366418175).jpg
+  - role: scene
+    src: /media/tourism/ipoh-and-the-kinta-valley/body-2.webp
+    alt: ด้านหน้าอาคารเสาเรียงอิฐแดงเก่าแก่ของปราสาทเคลลี (Kellie's Castle) พร้อมซุ้มโค้งแบบมัวร์ตัดกับท้องฟ้าสีฟ้าสดใส
+    kind: actual
+    origin: third-party
+    subject: ปราสาทเคลลี คฤหาสน์อาณานิคมสไตล์มัวร์ที่สร้างไม่เสร็จที่บาตูกาจะห์ (Batu Gajah) ในหุบเขากินตา (Kinta Valley)
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie's_Castle_Batu_Gajah.jpg
 ---
 
 ดีบุกสร้างอิโปห์ขึ้น แล้วก็เกือบทำลายมัน หมู่บ้านบนแม่น้ำกินตากลายเป็นหนึ่งในเมืองที่ร่ำรวยที่สุดของบริติชมาลายาด้วยพลังของแร่ที่ฝังอยู่ใต้หุบเขากินตา สร้างใจกลางยุคอาณานิคมอันโอ่อ่าให้ตัวเอง แล้วก็เฝ้าดูเงินไหลออกไปเมื่อราคาดีบุกร่วง สิ่งที่มันเก็บไว้คือสถาปัตยกรรม เนินหินปูนที่พรุนด้วยวัดถ้ำ และครัวที่ดีเกินธรรมดา ปัจจุบันอิโปห์เป็นเมืองพักสั้นมรดก-และ-อาหารที่สบายที่สุดของมาเลเซีย ใกล้กัวลาลัมเปอร์พอสำหรับทริปวันเดียว รวยพอที่จะคุ้มค่าหนึ่งสุดสัปดาห์ คู่มือนี้ครอบคลุมภูมิทัศน์และประวัติศาสตร์ที่หล่อหลอมมัน มีอะไรให้ชมในและรอบเมือง อาหารโดยย่อ และการจัดการเดินทางไปถึง

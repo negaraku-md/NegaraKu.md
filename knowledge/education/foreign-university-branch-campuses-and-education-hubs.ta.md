@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e905749ebddb35e"
+sourceContentHash: "042f75d8f7dbdba8"
 
 status: "published"
 aiAssisted: true
@@ -107,6 +107,39 @@ relations:
 related: ["after-spm-options", "public-vs-private-universities"]
 keywords: ["foreign university branch campus", "FUBC Malaysia", "EduCity Iskandar", "Monash Malaysia", "Nottingham Malaysia", "Xiamen University Malaysia", "education hub", "transnational education"]
 framework: explainer
+stayFacts:
+  who: 'ஒரு வெளிநாட்டுப் பல்கலைக்கழகக் கிளை வளாகத்தை — தாய் பல்கலைக்கழகத்தின் சொந்தப் பட்டத்தை மலேசியாவில் வழங்கும், முழுமையாகச் சொந்தமான வெளிநாட்டு வளாகத்தை (Monash, Nottingham, Xiamen, Heriot-Watt மற்றும் பிற) எடைபோடும் மாணவர்கள் மற்றும் பெற்றோருக்கானது இது.'
+  how: 'தாய் பல்கலைக்கழகத்தின் பெயர், வளாக இடம் மற்றும் சிறப்புத்துறை ஆகியவற்றின் அடிப்படையில் தேர்ந்தெடுக்கவும்; கிளை வளாகங்கள் Klang Valley, Putrajaya, Johor-இல் உள்ள EduCity Iskandar மண்டலம் மற்றும் Sarawak-இல் அமைந்துள்ளன. வழங்கப்படும் பட்டம், மலேசிய வளாகத்தில் வழங்கப்படும் தாய் நிறுவனத்தின் அதே பட்டமாகும்.'
+  cost: 'வெளிநாட்டுத் தாய் வளாகத்தில் படிப்பதை விடக் குறைவான, உள்நாட்டுக் கல்வி மற்றும் வாழ்க்கைச் செலவில் ஒரு மேற்கத்திய அல்லது சீனத் தகுதியைப் பெறுவதே இதன் கவர்ச்சி — ஆயினும் கட்டணங்கள் நிறுவனம் மற்றும் படிப்பைப் பொறுத்து மாறுபடுகின்றன; எனவே தற்போதைய எண்களை ஒவ்வொரு வளாகத்துடனும் உறுதிப்படுத்தவும்.'
+  watch: 'பட்டம் எடுத்துச்செல்லத்தக்கதாக இருந்தாலும் அனுபவம் உள்ளூர்த்தன்மை கொண்டது — வகுப்பின் அளவு, வசதிகள் மற்றும் வளாக வாழ்க்கை, தனித்த வளாகத்திற்கும் பகிரப்பட்ட கல்வி-நகர வளாகத்திற்கும் இடையே பரவலாக வேறுபடுகின்றன. கிளை-வளாகப் படிப்புகளுக்கும் MQA அங்கீகாரம் தேவை, அவை MQR-இல் தோன்றுகின்றன.'
+  next: 'சிறப்புத்துறை மற்றும் இடத்தின் அடிப்படையில் குறுகிய பட்டியல் தயாரித்து, சரியான படிப்பை MQR-இல் சரிபார்த்து, சர்வதேச-சேர்க்கை அனுமதியை வளாகத்துடன் உறுதிப்படுத்தவும். மலேசியாவில் படிப்பது, மற்றும் அரசு vs தனியார் பல்கலைக்கழகங்கள் என்பதைப் பார்க்கவும்.'
+hero: '/media/education/foreign-university-branch-campuses-and-education-hubs/hero.webp'
+heroAlt: 'நாடகீய வானத்திற்குக் கீழே, தொங்கும் பசுமையும் மரங்களும் சூழ்ந்த கண்ணாடி-அமைதி பச்சை ஏரிக்கு அப்பால் உயரும் கடிகார கோபுரத்துடன் கூடிய வெள்ளை நவீனத்துவ பல்கலைக்கழகக் கட்டிடம்'
+heroCredit: 'Faizalrahmat85 / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the white clock-towered Trent Building reflected in the lake at the University of Nottingham Malaysia branch campus, Semenyih, Selangor'
+images:
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-1.webp
+    alt: கண்ணாடியிட்ட உயரமான இணைப்புப் பாலத்தால் இணைக்கப்பட்ட பெரிய கிரீம் நிற வளாகத் தொகுதிகள், ஒரு கோபுரத்தில் Monash சின்னத்துடனும் முற்றத்தில் பனைமரங்களுடனும்
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், சன்வே சிட்டியில் கண்ணாடி இணைப்புப் பாலத்தால் இணைக்கப்பட்ட Monash University Malaysia கிளை வளாகக் கட்டிடங்கள்
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg
+  - role: scene
+    src: /media/education/foreign-university-branch-campuses-and-education-hubs/body-2.webp
+    alt: ஓரளவு மேகமூட்டமான வானத்தின் கீழ் வாயிலிட்ட நுழைவு முற்றத்திற்குப் பின்னால் படிநிலை சிவப்பு சீனப் பாணி கூரைகளுடன் கூடிய வெள்ளை வளாகக் கட்டிடங்கள்
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூர், செபாங்கில் ஒரு சீனப் பல்கலைக்கழகத்தின் முதல் வெளிநாட்டுக் கிளை வளாகமான Xiamen University Malaysia இன் சிவப்பு கூரை கொண்ட முதன்மை வாயிலும் நிர்வாகக் கோபுரமும்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:XMUM_entrance_(211127).jpg
 ---
 
 1998-ஆம் ஆண்டில், கோலாலம்பூரில் இருந்த ஒரு மாணவர் நாட்டைவிட்டு வெளியேறாமலேயே ஆஸ்திரேலிய மொனாஷ் (Monash) பட்டத்தைப் பெற முடிந்தது — அதற்கு மலேசிய விலையையே செலுத்தினார். அந்த ஒரே ஏற்பாடு, நாடு அன்று முதல் கட்டியெழுப்பி வரும் ஒரு மாதிரியைத் தொடங்கி வைத்தது: மாணவரை அல்ல, பல்கலைக்கழகத்தையே இறக்குமதி செய்.

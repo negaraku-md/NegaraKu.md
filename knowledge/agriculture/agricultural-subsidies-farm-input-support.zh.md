@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "9f58d81c18221355"
+sourceContentHash: "38fca0ffc14c09ea"
 
 status: "published"
 aiAssisted: true
@@ -100,9 +100,36 @@ wikidata: "Q22222773"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "food-security-self-sufficiency-policy"]
 keywords: ["subsidi baja padi", "SBPKP", "SIPP", "insentif pengeluaran padi", "subsidi pertanian", "bantuan input pesawah"]
 framework: explainer
+hero: '/media/agriculture/agricultural-subsidies-farm-input-support/hero.webp'
+heroAlt: '明亮日光下，农夫俯身劳作于灌满水的稻田泥埂上，溅起泥浆'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KotaBelud_Sabah_Rice-Padi-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'a smallholder farmer working by hand in a flooded, muddy paddy field at Kota Belud, Sabah'
+images:
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-1.webp
+    alt: 黄昏时分，操作员驾驶黄色联合收割机驶过留着稻茬的湿润稻田，天际线上点缀着棕榈树
+    kind: actual
+    origin: third-party
+    subject: 黄昏时分一台联合收割机在吉打州浮罗交怡泥泞的稻田里收割水稻
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Harvesting-01.jpg
+  - role: scene
+    src: /media/agriculture/agricultural-subsidies-farm-input-support/body-2.webp
+    alt: 戴头巾的妇女用小刀割下金黄的稻穗，收进黄色的编织篮里
+    kind: actual
+    origin: third-party
+    subject: 一名杜顺族妇女在沙巴古达县用手将成熟的稻穗收进编织篮中
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat-District_Rice-Harvesting-01.jpg
 ---
 
 那天清晨，稻农扛到田里的一袋袋肥料并非用自己的钱买来——它们是免费的，由联邦政府承担了数十年之久。这正是马来西亚水稻农业补贴的真实面貌：不是支票，也不是进账的现金，而是承担田间大部分成本的肥料、农药和奖励。

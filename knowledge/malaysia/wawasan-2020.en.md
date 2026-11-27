@@ -32,7 +32,7 @@ faq:
     a: "Shared Prosperity Vision 2030 (WKB 2030) was launched in October 2019 as the successor vision, focusing on equitable prosperity for the 2021 to 2030 period."
 
 lang: "en"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,32 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'The gleaming Petronas Twin Towers soar above the Kuala Lumpur skyline under a bright sky.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: Jets of water arc from the Symphony Lake fountain in KLCC Park, framed by manicured green lawns and landscaped city greenery beneath a bright tropical sky.
+    kind: actual
+    origin: third-party
+    subject: The fountain at KLCC Park, in the Kuala Lumpur City Centre
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: The slender, diamond-faceted Merdeka 118 skyscraper tapers to a tall spire high above the Kuala Lumpur skyline, one of the tallest buildings in the world.
+    kind: actual
+    origin: third-party
+    subject: The Merdeka 118 tower, one of the world's tallest buildings, in Kuala Lumpur
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 On a February morning in 1991, a Prime Minister stood before the nation's leading business figures and set a target for the next 30 years: by the year 2020, Malaysia should become a fully developed nation — not merely in economic terms, but also in unity, social justice and civic maturity. That vision came to be known as Wawasan 2020.

@@ -82,7 +82,14 @@ drinkFacts:
   origin: "말레이시아 mamak과 kopitiam 카운터의 기본 생라임 음료로, 어느 한 발명자가 아니라 현지 라임(calamansi/limau kasturi, limau nipis) 위에 세워졌다. Limau asam boi 버전은 말린 신 매실을 더해 달고 짭짤하고 신 깊이를 준다."
   halal: "라임, 설탕, 물로 만들고 알코올이 없어 음료 자체는 할랄이다. 할랄 보증은 업소에 결부되므로, 인증이 필요한 손님은 개별 노점을 확인해야 한다."
   served: "즉석에서 짜 얼음 위에 차갑게 낸다; 덜 달게는 'kurang manis'로 주문한다. 그냥 주문하거나, 말린 신 매실과 소금 한 꼬집을 넣은 limau asam boi로 주문한다. 아이스 라임 티인 teh O ais limau와는 구별된다."
-  where: "전국의 mamak 업소, kopitiam, 노점 음료 가판에서 찾을 수 있으며 — 가장 많이 주문되는 일상 음료의 하나다."
+  where: "전국의 mamak 업소, kopitiam, 노점 음료 가판에서 찾을 수 있으며 — 가장 많이 주문되는 일상 음료의 하나다."
+hero: "/media/food/air-limau-ais/hero.webp"
+heroKind: "actual"
+heroOrigin: "third-party"
+heroAlt: "신선한 라임 조각을 곁들인 아이스 라임주스(air limau ais) 텀블러를 위에서 내려다본 모습"
+heroCredit: "Vyacheslav Argenberg / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice,_Lemonade,_Limeade.jpg"
 ---
 
 거의 어느 말레이시아 mamak에서든 시원한 음료를 달라고 하면 결코 빠지지 않는 답이 하나

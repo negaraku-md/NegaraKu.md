@@ -37,7 +37,7 @@ faq:
     a: "تميل الأشهر الأجفّ، نحو مارس إلى سبتمبر تقريباً، إلى تقديم أكثر أحوال القمة استقراراً، وإن كان كينابالو يصنع غيومه بنفسه والمطر ممكن في أي يوم (Sabah Parks). وتبدأ اندفاعة القمة قبل الفجر لتسبق غيوم منتصف الصباح. ولأن الأماكن محدودة وتنفد قبل وقت طويل في مواسم الذروة والعطل، ثبّت تواريخك باكراً وأضف هامشاً للطقس."
 
 lang: "ar"
-sourceContentHash: "5d4c0e1447b11d1f"
+sourceContentHash: "6519ae163ea1d10e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,9 +91,43 @@ sources:
     publisher: "Mount Kinabalu (Sutera Sanctuary Lodges / شريك حديقة كينابالو الجيولوجية العالمية لليونسكو)"
 
 entity: "Kinabalu Park"
-related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["mount-kinabalu", "sabah-visitor-guide", "sipadan-and-semporna", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "gunung-mulu-national-park"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "Low's Peak", "UNESCO World Heritage", "تصريح التسلّق", "Laban Rata", "Panalaban", "ينابيع بورينغ الساخنة", "صباح", "Nepenthes rajah"]
 framework: profile
+visitFacts:
+  bestFor: 'يناسب المتسلّقين اللائقين المنظَّمين الساعين إلى فجر على أعلى قمة في ماليزيا وزوّار اليوم الواحد الراغبين في هواء جبلي بارد ونباتات آكلة للحشرات ودروب طبيعة وينابيع ساخنة حول قاعدة المنتزه.'
+  getThere: 'تُقصد برّاً من Kota Kinabalu، عاصمة صباح، في قيادة على طريق جبلي متعرّج نحو الشمال الشرقي إلى المرتفعات حتى مقرّ المنتزه.'
+  permit: 'صعود القمة محدّد بتصريح: تصريح تسلّق المنتزه ومرشد جبلي مرخّص من Sabah Parks كلاهما إلزامي، والأماكن اليومية محدودة، وعلى الجميع تقريباً حجز سرير جبلي للمبيت مسبقاً عبر امتياز المنتزه — لذا احجز مبكراً.'
+  watch: 'تسلّق شاقّ ليومين على ارتفاع عالٍ حيث يهمّ دوار المرتفعات واللياقة ويصنع الجبل طقسه الخاص؛ وقد يتغيّر الوصول والمسار بعد أحداث مثل زلزال كبير، لذا خطّط بناءً على المعلومات الحالية.'
+  next: 'تأكّد من قواعد التصاريح والمرشدين والإقامة ورسومها الحالية مع Sabah Parks.'
+hero: '/media/tourism/mount-kinabalu-and-kinabalu-park/hero.webp'
+heroAlt: 'قمة جبل كينابالو الغرانيتية المسنّنة ترتفع فوق الغيوم وسفوح خضراء في صباح، في صباح'
+heroCredit: 'Anton Zelenov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Morning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Mount Kinabalu massif at morning above forested foothills'
+images:
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-1.webp
+    alt: متسلّقون يعبرون هضبة القمة الجرانيتية العارية أسفل ذروة صخرية في Mount Kinabalu تحت سماء زرقاء
+    kind: actual
+    origin: third-party
+    subject: ذروة القمة الجرانيتية لـ Mount Kinabalu مع متسلّقين على هضبة الصخر العارية
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/tourism/mount-kinabalu-and-kinabalu-park/body-2.webp
+    alt: نبات إبريقي كبير أحمر وأخضر من نوع Nepenthes rajah ينمو بين نباتات الجبل في Kinabalu Park
+    kind: actual
+    origin: third-party
+    subject: نبات Nepenthes rajah الإبريقي العملاق في Kinabalu Park
+    credit: JeremiahsCPs / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinabalu_Mesilau_N._rajah_2.jpg
+wikidata: "Q834893"
 ---
 
 تاج من الغرانيت يرتفع مباشرةً من غابة بورنيو المطيرة إلى ما يزيد قليلاً على 4,000 متر، ومتنزّه تراث عالمي يضم أنواعاً نباتية أكثر مما في بعض القارات، وتسلّق قمة مُقنَّن بإحكام حتى إنك تحجزه قبل أن تحجز رحلاتك — جبل كينابالو هو أشهر معلم طبيعي مفرد في ماليزيا، وأحد أكثرها تنظيماً لزيارته فعلاً. يقع في صباح، في الجزء الماليزي من بورنيو، ويكافئ نوعين مختلفين جداً من المسافرين: المتسلّق اللائق المنظَّم الساعي إلى فجر على أعلى قمة بين جبال الهيمالايا وغينيا الجديدة، وزائر اليوم الواحد الذي يريد فحسب هواءً جبلياً بارداً، ونباتات آكلة لحوم غريبة، وغطسة في ينبوع ساخن. يتناول هذا الدليل الاثنين معاً، والأمور التي يخطئ فيها الناس روتينياً قبل أن يذهبوا.

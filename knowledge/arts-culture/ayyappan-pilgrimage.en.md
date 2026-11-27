@@ -32,7 +32,7 @@ faq:
   - q: "What does 'Swamiye Saranam Ayyappa' mean?"
     a: "It is the principal saranam chant of Ayyappan worship — a phrase meaning surrender of oneself to the Swami, repeated continually by devotees and pilgrims. It resounds throughout the vow, on the pilgrimage and in the bhajans."
 lang: "en"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,32 @@ relations:
 related: ["hinduism-in-malaysia", "thaipusam", "tamil-in-malaysia", "mariamman-worship", "estate-tamil-community", "navaratri"]
 keywords: ["ஐயப்பன் வழிபாடு", "சபரிமலை விரதம்", "மண்டல விரதம்", "இருமுடிக் கட்டு", "மலேசிய ஐயப்பன் கோயில்", "சுவாமியே சரணம் ஐயப்பா", "Ayyappan", "Sabarimala"]
 framework: history-culture
+hero: '/media/arts-culture/ayyappan-pilgrimage/hero.webp'
+heroAlt: 'A brightly illuminated Ayyappan Hindu temple at night, with Kerala-style tiered roofs, gold-lit pillars and a small shrine of the deity crowning the entrance.'
+heroCredit: 'Visnu92 at English Wikipedia / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: Pilgrims dressed in black, with cloth head coverings, walking a forest trail on the pilgrimage to Sabarimala
+    kind: representative
+    origin: third-party
+    subject: Ayyappan devotees in black trekking a forest path toward the Sabarimala shrine
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: A large coloured powder floor painting of the deity Ayyappa, ringed by lit brass oil lamps and flower garlands, with a seated drummer behind
+    kind: representative
+    origin: third-party
+    subject: Ayyappan ritual floor painting (kalam) with brass oil lamps and a drummer, a devotional tradition for Lord Ayyappa
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 In the closing months of the year, a familiar sight appears in many towns across Malaysia: men dressed in black or blue, wearing a rudraksha mala around the neck and letting their beards grow, addressing one another as "Swami". These are the Ayyappan vow-keepers — many of them preparing to travel to Sabarimala in Kerala. This article describes that worship and the vow traditions in a neutral way; it neither explains nor evaluates any belief.

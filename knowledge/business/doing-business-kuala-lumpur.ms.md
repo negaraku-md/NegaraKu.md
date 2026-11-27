@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28302eb055d03d4e"
+sourceContentHash: "03096332fcec25a6"
 
 status: "published"
 aiAssisted: true
@@ -110,6 +110,34 @@ keywords:
   - "Federal Territory Planning Act 1982"
   - "TRX Marquee status incentives"
 framework: profile
+hero: '/media/business/doing-business-kuala-lumpur/hero.webp'
+heroAlt: 'Kelompok padat pencakar langit pejabat daerah pusat perniagaan Kuala Lumpur dilihat dari atas, dengan Menara Berkembar Petronas menjulang di tepi kiri'
+heroCredit: 'Wikimedia Commons (CC0)'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Aerial view of Kuala Lumpur''s central business district packed with office towers, the Petronas Twin Towers at left'
+
+images:
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-1.webp
+    alt: Menara pejabat Mercu UEM berkaca biru yang bergaya di Kuala Lumpur dengan sebuah tren monorel merah merentasi landasan bertingkat di latar hadapan di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Mercu UEM, sebuah menara pejabat korporat kaca di daerah perniagaan KL Sentral, dengan tren monorel lalu di hadapan
+    credit: Suryasuharman / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mercu_with_lrt.JPG
+  - role: scene
+    src: /media/business/doing-business-kuala-lumpur/body-2.webp
+    alt: Bumbung melengkung stesen KL Sentral di latar hadapan dikelilingi menara pejabat dan hotel daerah perniagaan KL Sentral di bawah langit berawan
+    kind: actual
+    origin: third-party
+    subject: Hab pengangkutan KL Sentral dan kelompok menara pejabat sekeliling daerah perniagaan KL Sentral, Kuala Lumpur
+    credit: Ombrewan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Sentral_Station_(KL_Sentral).jpg
 ---
 
 Kuala Lumpur ialah satu-satunya tempat di Malaysia di mana anda boleh membaca fi lesen

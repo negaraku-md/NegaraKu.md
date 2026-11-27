@@ -38,7 +38,7 @@ verificationNeeded:
   - "Verify the date and basis of the ethnic composition percentages on the official state portal (Malay 61.5%, Chinese 22.9%, Indian 15.1%, others 0.5%) — the figure is undated and does not match the breakdown structure of the 2020 Census, which reports non-citizens as a separate category."
 
 lang: "es"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,9 +92,35 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak de Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal minangkabau"]
 framework: profile
+hero: '/media/states/negeri-sembilan/hero.webp'
+heroAlt: 'El palacio real Seri Menanti, de madera oscura, con tejados Minangkabau escalonados y puntiagudos, sobre un césped verde con un pabellón rojo y colinas boscosas al fondo.'
+heroCredit: 'Adhmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: Una playa de arena suavemente curvada y bordeada de palmeras da al tranquilo estrecho de Malaca en Port Dickson, en Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Playa de Port Dickson, Negeri Sembilan
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: Casas minangkabau de madera con amplios tejados en forma de cuernos de búfalo se alzan en los terrenos del Museo Estatal de Negeri Sembilan en Seremban.
+    kind: actual
+    origin: third-party
+    subject: Casas tradicionales de estilo minangkabau en el Muzium Negeri Sembilan, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 En los otros ocho estados malayos, la pregunta «¿quién es el siguiente en la línea?» se

@@ -33,7 +33,7 @@ faq:
     a: "Selaras dengan trend industri akhbar global, jumlah edaran bercetak akhbar Cina Malaysia secara amnya menurun dalam kira-kira dua dekad kebelakangan ini, dengan pembaca — terutamanya generasi muda — semakin banyak memperoleh berita melalui telefon pintar dan internet. Oleh itu, setiap akhbar membangunkan platform digital seperti laman berita, akhbar elektronik dan aplikasi telefon pintar, dengan sebahagian kandungan turut disebarkan di media sosial. Sama ada dan bila versi cetak akan hilang sepenuhnya masih tidak pasti, dan rencana ini tidak membuat sebarang ramalan."
 
 lang: "ms"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,32 @@ relations:
 related: ["chinese-education-in-malaysia", "chinese-clan-associations", "tamil-language-press", "languages-spoken"]
 keywords: ["华文报", "华文报业", "星洲日报", "中国报", "南洋商报", "光明日报", "东方日报", "世华媒体", "明报", "华教", "印刷机与出版物法令", "数码转型", "Chinese-language press Malaysia", "Sin Chew Daily", "Media Chinese International"]
 framework: history-culture
+hero: '/media/arts-culture/chinese-language-press/hero.webp'
+heroAlt: 'Bangunan pejabat putih akhbar berbahasa Cina Sin Chew Daily di Miri, namanya dipaparkan dalam bahasa Inggeris dan aksara Cina pada fasad dan dinding pintu masuk.'
+heroCredit: 'Pangalau / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: Muka depan awal akhbar harian Cina Pulau Pinang Kwong Wah Yit Poh, berkepala dalam aksara Cina dan Inggeris, tersusun antara halaman akhbar Cina lama yang lain.
+    kind: actual
+    origin: third-party
+    subject: Muka depan Kwong Wah Yit Poh, akhbar harian berbahasa Cina tertua di Malaysia (Pulau Pinang)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: Pejabat Nanyang Siang Pau di Johor Bahru, dengan fasadnya membawa nama akhbar itu dalam aksara Cina hijau dan huruf Rumi di atas sebuah kedai.
+    kind: actual
+    origin: third-party
+    subject: Pejabat akhbar Nanyang Siang Pau dengan papan tanda kepala akhbar, Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 Di kedai kopi pada waktu pagi, sebuah akhbar Cina yang terbuka lebar sering diletakkan bersebelahan dengan secawan kopi. Pembaca membelek berita besar dalam dan luar negara di muka hadapan, lalu selalunya terus menuju ke halaman yang paling mereka kenali — ada yang dahulu melihat berita tempatan tentang sekolah Cina mana yang mengadakan jualan amal, ada yang membelek ruangan sastera dan pandangan, dan ada pula yang hanya mahu ruangan obituari, iklan kecil dan nombor ekor. Bagi ramai orang Cina Malaysia, akhbar Cina bukan sekadar berita, tetapi satu tabiat membaca bahasa Cina yang berlangsung setiap hari.

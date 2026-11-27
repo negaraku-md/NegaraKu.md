@@ -39,7 +39,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3514736f476d6f82"
+sourceContentHash: "ae643a008aa2a4fa"
 
 status: "published"
 aiAssisted: true
@@ -81,9 +81,42 @@ sources:
 
 entity: "Gunung Mulu National Park"
 wikidata: "Q61535"
-related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists"]
+related: ["sarawak-visitor-guide", "kuching-visitor-guide", "taman-negara-ecotourism-guide", "getting-around-malaysia-for-tourists", "sabah-visitor-guide", "mount-kinabalu-and-kinabalu-park"]
 keywords: ["Gunung Mulu", "Mulu National Park", "UNESCO World Heritage", "Deer Cave", "bat exodus", "Sarawak Chamber", "Clearwater Cave", "the Pinnacles", "Headhunters Trail", "Sarawak", "Borneo caves", "karst"]
 framework: profile
+visitFacts:
+  bestFor: 'Sesuai untuk peneroka gua, pengembara denai lasak dan pelancong alam semula jadi yang merangka jadual perjalanan Borneo — karst Tapak Warisan Dunia UNESCO, gua pameran yang memecah rekod dan penghijrahan beramai-ramai kelawar di Deer Cave.'
+  getThere: 'Dengan pesawat kecil sahaja — tiada jalan masuk. Terbang ke Mulu Airport (biasanya penerbangan singkat dari Miri), kemudian daftar di ibu pejabat taman.'
+  permit: 'Daftar di ibu pejabat taman; gua pameran, aktiviti meneroka gua lasak dan the Pinnacles semuanya memerlukan pemandu berlesen dan tempahan awal — tempah beberapa minggu hingga bulan lebih awal.'
+  watch: 'Hutan hujan khatulistiwa tanpa musim kemarau yang menentu — pendakian the Pinnacles dan penghijrahan kelawar bergantung pada cuaca serta dibatalkan ketika hujan lebat, jadi sediakan hari penimbal. Had bagasi pesawat kecil terpakai.'
+  next: 'Sahkan penerbangan, bilik, peraturan aktiviti berpandu dan yuran semasa dengan laman rasmi taman (mulupark.com) dan Sarawak Tourism Board.'
+hero: '/media/tourism/gunung-mulu-national-park/hero.webp'
+heroAlt: 'Hamparan menara batu kapur kelabu bergerigi menembusi hutan hujan hijau di lereng gunung berkabus di Taman Negara Gunung Mulu, Sarawak'
+heroCredit: 'Nur Nafis Naim / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'The Pinnacles, razor-sharp limestone karst spires rising from misty rainforest on Gunung Api, Gunung Mulu National Park, Sarawak'
+images:
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-1.webp
+    alt: Mulut gua gelap yang sangat besar di tebing batu kapur curam berselimut hutan hujan di Gua Rusa, Taman Negara Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk luas Gua Rusa, salah satu laluan gua terbesar di dunia, dibingkai tebing batu kapur menjulang berhutan di Gunung Mulu
+    credit: Bernard Dupont / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deer_Cave_Entrance.jpg
+  - role: scene
+    src: /media/tourism/gunung-mulu-national-park/body-2.webp
+    alt: Ruang gua yang diterangi lembut dengan dinding batu pucat licin dan sungai bawah tanah yang tenang di dalam Gua Clearwater, Gunung Mulu
+    kind: actual
+    origin: third-party
+    subject: Bahagian dalam Gua Clearwater yang diterangi dengan sungai bawah tanahnya, sebahagian salah satu sistem gua terpanjang di Asia Tenggara di Gunung Mulu
+    credit: John Mason / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Clearwater_Cave_(21191773200).jpg
 ---
 
 Jauh di dalam hutan hujan Sarawak, tempat gunung batu kapur menjulang terus dari hutan dan tiada jalan sampai, terletak salah satu landskap paling luar biasa di Malaysia — dan salah satu kawasan gua paling banyak dikaji di planet ini. Taman Negara Gunung Mulu ialah tempat anda menemui dewan gua terbesar di dunia, laluan gua cukup besar untuk menerbangkan jet jumbo melaluinya, sungai berjuta-juta kelawar setiap malam, dan hutan bukit berisi bilah batu kapur cukup tajam untuk mengoyak kasut but. Ia juga benar-benar terpencil: anda tiba dengan pesawat kecil, anda pergi hampir ke mana-mana dengan pemandu, dan anda menempah berbulan-bulan lebih awal. Panduan ini merangkumi apa itu Mulu, apa yang ada untuk dilihat di bawah tanah dan di atasnya, dua trek besar, cara akses berfungsi, dan kesilapan yang dilakukan pendaki kali pertama.

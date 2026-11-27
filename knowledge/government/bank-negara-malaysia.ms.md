@@ -41,7 +41,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -106,6 +106,32 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'Kompleks pejabat konkrit moden kelabu bertingkat-tingkat mendatar yang mempamerkan lambang Bank Negara Malaysia, menjulang di atas deretan pokok hijau dan tepi jalan berhiaskan lampu berbentuk bunga raya.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: Pintu masuk pejabat Bank Negara Malaysia di Kota Kinabalu, memaparkan nama bank pusat dan lambang kijang bersama bendera Malaysia dan Sabah
+    kind: actual
+    origin: third-party
+    subject: Pejabat wilayah Bank Negara Malaysia di Kota Kinabalu, Sabah, dengan nama bank pusat dan lambang kijangnya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: Sekeping wang kertas ringgit Bank Negara Malaysia terawal daripada siri pertama 1967, membawa nama bank pusat
+    kind: actual
+    origin: third-party
+    subject: Wang kertas ringgit Bank Negara Malaysia terawal (spesimen siri 1967)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 Setiap kali tajuk berita menyatakan bahawa kadar faedah dikekalkan, ringgit

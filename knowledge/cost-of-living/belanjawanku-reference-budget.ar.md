@@ -73,7 +73,7 @@ entity: "Belanjawanku"
 relations:
   - { rel: "related-to", to: "poverty-line-income" }
   - { rel: "related-to", to: "epf-retirement-savings" }
-related: []
+related: ["b40-m40-t20-income-classification", "income-inequality-poverty-line", "epf-as-an-institution"]
 keywords: ["belanjawanku", "تكاليف المعيشة في ماليزيا", "KWSP", "EPF", "ميزانية مرجعية", "مستوى معيشي معقول", "وادي كلانغ", "SWRC", "Belanjawanku"]
 framework: explainer
 ---

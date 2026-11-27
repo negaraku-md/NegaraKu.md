@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में कोई भी व्यक्ति जो गर्भवती है, गर्भावस्था की योजना बना रहा है, या गर्भावस्था के दौरान किसी साथी या परिवार के सदस्य का सहारा बन रहा है, और यह समझना चाहता है कि सार्वजनिक प्रसवपूर्व प्रणाली, निजी देखभाल और जन्म पंजीकरण किस प्रकार परस्पर जुड़ते हैं।"
 
 lang: "hi"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -63,6 +63,32 @@ relations:
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "registering-a-birth"]
 keywords: ["मलेशिया में शिशु का जन्म", "मलेशिया में गर्भावस्था", "मलेशिया में प्रसवपूर्व देखभाल", "गुलाबी किताब गर्भावस्था", "Rekod Kesihatan Ibu", "klinik kesihatan गर्भवती", "मलेशिया सार्वजनिक बनाम निजी प्रसव", "जन्म पंजीकरण JPN", "मलेशिया मातृत्व", "मलेशिया सरकारी अस्पताल प्रसव"]
 framework: explainer
+hero: '/media/healthcare/having-a-baby-in-malaysia/hero.webp'
+heroAlt: 'पृष्ठभूमि में शहर के क्षितिज के साथ, हॉस्पिटल कुआलालंपुर के प्रसूति खंड (हॉस्पिटल बरसालिन) का बाहरी दृश्य।'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: एक स्वच्छ, आधुनिक प्रसूति कक्ष जिसमें एक खाली अस्पताल बिस्तर और एक पारदर्शी नवजात पालना दिख रहा है, कोई व्यक्ति मौजूद नहीं
+    kind: representative
+    origin: third-party
+    subject: एक प्रसूति-वार्ड कक्ष जिसमें एक अस्पताल बिस्तर और उसके बगल में एक पारदर्शी नवजात पालना है
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: एक सुव्यवस्थित, खाली अस्पताल प्रसवपूर्व क्लिनिक प्रतीक्षा कक्ष जिसमें भूरे रंग की कुर्सियाँ और दीवार पर Antenatal Clinic शब्द लिखे हैं
+    kind: representative
+    origin: third-party
+    subject: सीटों की कतारों और दीवार पर Antenatal Clinic लिखे अक्षरों वाला एक खाली प्रसवपूर्व क्लिनिक प्रतीक्षा क्षेत्र
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 एक पॉज़िटिव प्रेगनेंसी टेस्ट एक ही साथ दो घड़ियाँ चालू कर देता है, और लगभग कोई भी यह बात पहले से नहीं समझाता। एक घड़ी स्वयं गर्भावस्था के बारे में है — कब पंजीकरण कराएँ, कहाँ, हर यात्रा पर क्या होता है। दूसरी घड़ी शिशु के आने के बाद ही शुरू होती है, और उसका अस्पतालों से कोई लेना-देना नहीं है: यह एक बिल्कुल अलग विभाग के साथ कानूनी पंजीकरण है।

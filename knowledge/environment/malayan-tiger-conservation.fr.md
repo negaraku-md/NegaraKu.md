@@ -33,7 +33,7 @@ faq:
     a: "Les principaux facteurs sont le braconnage et le commerce illégal de parties de tigre, la dégradation des forêts et la perte d'habitat, les collisions routières et le conflit homme-tigre, et le déclin des proies."
 
 lang: "fr"
-sourceContentHash: "45f255ab6e60d7a5"
+sourceContentHash: "056da6d4cbd0a113"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,36 @@ wikidata: "Q215836"
 relations:
   - { rel: "administered-by", to: "perhilitan" }
   - { rel: "located-in", to: "taman-negara" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tigre de Malaisie", "conservation du tigre", "Réserve royale du tigre Al-Sultan Abdullah", "biodiversité de la Malaisie"]
 framework: explainer
+hero: '/media/environment/malayan-tiger-conservation/hero.webp'
+heroAlt: 'Un tigre de Malaisie se reposant sur fond de feuillage tropical vert, le regard tourné vers l''objectif'
+heroCredit: 'Tu7uh / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MalayanTiger.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Malayan tiger (Panthera tigris jacksoni), the critically endangered subspecies endemic to Peninsular Malaysia'
+images:
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-1.webp
+    alt: Un tigre de Malaisie couché dans l'herbe sous une lumière tamisée, sa robe rayée captant la lumière
+    kind: actual
+    origin: third-party
+    subject: Tigre de Malaisie (Panthera tigris jacksoni) couché sous une lumière tamisée parmi l'herbe et le feuillage
+    credit: Charles Barilleaux / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(7476161714).jpg
+  - role: scene
+    src: /media/environment/malayan-tiger-conservation/body-2.webp
+    alt: Portrait de profil rapproché de la tête d'un tigre de Malaisie, montrant ses rayures faciales noir et orange distinctives et ses vibrisses
+    kind: actual
+    origin: third-party
+    subject: Portrait de profil d'un tigre de Malaisie (Panthera tigris jacksoni) montrant ses marques faciales
+    credit: Jean from Shelbyville, KY / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malayan_Tiger_(Panthera_tigris_jacksoni)_(52325197471).jpg
 ---
 
 Le tigre figure sur les armoiries de la Malaisie, mais l'animal lui-même compte désormais parmi les grands félins les plus rares du monde. Lorsque la Malaisie a achevé son premier recensement national des tigres sauvages, le résultat a été inférieur à ce que beaucoup attendaient : moins de 150.

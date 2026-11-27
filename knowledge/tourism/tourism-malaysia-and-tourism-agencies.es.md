@@ -78,9 +78,16 @@ relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-and-culture-motac" }
   - { rel: "governs", to: "tourism-industry-act-1992" }
   - { rel: "related-to", to: "sarawak-tourism-board" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "getting-around-malaysia-for-tourists", "department-of-national-heritage"]
 keywords: ["Tourism Malaysia", "MOTAC", "Junta de Promoción Turística de Malasia", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "licencias de turismo Malasia", "Malaysia Tourism Promotion Board"]
 framework: profile
+hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'
+heroAlt: 'Un monumento de piedra con la inscripción ''Pusat Pelancongan Malaysia / Malaysia Tourism Centre'' y el logotipo de hibisco de MaTiC, sobre una fuente de vasijas escalonadas enmarcada por palmeras.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cuando un anuncio de "Malaysia Truly Asia" te llama la atención, un organismo estatutario lo pagó — pero un ministerio distinto decide si el operador turístico que hay detrás de tu viaje siquiera tiene permiso para venderlo. El turismo malasio funciona con una división del trabajo, y saber quién hace qué ahorra mucha confusión.

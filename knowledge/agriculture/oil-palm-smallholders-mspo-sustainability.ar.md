@@ -32,7 +32,7 @@ faq:
     a: "تعرّف لائحة الاتحاد الأوروبي بشأن إزالة الغابات المنتجات بأنها «خالية من إزالة الغابات» فقط إذا زُرعت على أرض لم تُزَل غاباتها بعد 31 ديسمبر 2020 (اللائحة (EU) 2023/1115، المادة 2). وهي تتطلب تحديد الموقع الجغرافي على مستوى قطعة الأرض — رسم المضلعات لقطع الأرض التي تزيد مساحتها عن 4 هكتارات، مع السماح بنقطة GPS واحدة لقطع الأرض التي تبلغ مساحتها 4 هكتارات أو أقل — وهو ما يصعب تقنياً على المزارعين الصغار، كبار السن غالباً والقاطنين في مناطق نائية، إنتاجه بأنفسهم."
 
 lang: "ar"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,32 @@ relations:
 related: ["palm-oil-sustainability-mspo-and-deforestation", "palm-oil-industry", "palm-oil-sustainability-certification", "deforestation-and-forest-loss-in-malaysia"]
 keywords: ["oil palm smallholders", "صغار مزارعي نخيل الزيت", "MSPO certification", "شهادة MSPO", "independent smallholders", "MS 2530:2022", "EUDR palm oil", "زيت النخيل المستدام في ماليزيا"]
 framework: explainer
+hero: '/media/agriculture/oil-palm-smallholders-mspo-sustainability/hero.webp'
+heroAlt: 'مزرعة نخيل زيت فتيّة تغطّي أرضاً متموّجة في ميرسينغ بماليزيا.'
+heroCredit: 'Wee Hong / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: حاصد في مزرعة نخيل زيت يحمل على كتفه عصا منجل طويلة بين النخيل الناضج، وعلى الأرض عذق ثمار طازج مقطوع، في مقاطعة Tenom، Sabah
+    kind: actual
+    origin: third-party
+    subject: عامل مزرعة يحمل عصا حصاد بين أشجار نخيل الزيت الناضجة في Tenom، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: لقطة قريبة لعذوق ثمار طازجة محمرّة تنضج عند تاج نخلة زيت في Kimanis Estate، Sabah
+    kind: actual
+    origin: third-party
+    subject: عذوق ثمار طازجة تنضج على نخلة زيت في Kimanis Estate، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 مزارعٌ في بينتولو يستطيع أن يتتبّع كل حدود قطعة نخيل الزيت خاصته من ذاكرته بات

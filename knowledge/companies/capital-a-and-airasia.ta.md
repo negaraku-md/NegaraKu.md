@@ -30,7 +30,7 @@ faq:
     a: "விமான நிறுவன அப்புறப்படுத்தலுக்குப் பிறகு, Capital A என்பது ஐந்து வணிகங்களை மையமாகக் கொண்டு கட்டமைக்கப்பட்ட விமானச் சேவைகள் மற்றும் டிஜிட்டல் குழுவாகும்: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next மற்றும் Santan."
 
 lang: "ta"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,9 +76,35 @@ wikidata: "Q139387570"
 relations:
   - { rel: "related-to", to: "airasia-group-berhad" }
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
-related: []
+related: ["holding-company-malaysia", "sunway-group"]
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
 framework: profile
+hero: '/media/companies/capital-a-and-airasia/hero.webp'
+heroAlt: '"Now Everyone Can Fly" என்ற முழக்கத்தைச் சுமந்து செல்லும், சிவப்பு வண்ணம் பூசப்பட்ட AirAsia Airbus A320 (பதிவு எண் 9M-AGP), கோலாலம்பூர் சர்வதேச விமான நிலையத்தில் ஒரு நுழைவாயிலில் நிறுத்தப்பட்டுள்ளது.'
+heroCredit: 'Jovi Choo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: உடற்பகுதி முழுவதும் airasia எழுத்துகளுடன் ஒரு சிறப்பு நினைவு வண்ணப்பூச்சு அணிந்த ஒரு AirAsia ஏர்பஸ் A320 குறுகிய உடல் ஜெட் விமானம், தெளிந்த வானத்தின் கீழ் லங்காவி விமான நிலைய நிறுத்துமிடத்தில் நிற்கிறது
+    kind: actual
+    origin: third-party
+    subject: லங்காவி சர்வதேச விமான நிலையத்தில் ஒரு சிறப்பு நினைவு வண்ணப்பூச்சில் உள்ள ஒரு AirAsia ஏர்பஸ் A320 (மலேசியப் பதிவு 9M-AQH)
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: klia2 குறைந்த கட்டண விமான முனையத்தின் ஏறும் வாயில்களில் வரிசையாக நிற்கும் சிவப்பு வண்ணப்பூச்சு அணிந்த AirAsia விமானங்கள், வெப்பமண்டல வானத்தின் கீழ் நீண்ட முனையக் கட்டிடமும் விமானப் பாலங்களும் நிறுத்துமிடம் முழுவதும் நீண்டுள்ளன
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் சர்வதேச விமான நிலையத்தின் குறைந்த கட்டண விமான முனையமான klia2-ல் உள்ள AirAsia விமானங்கள், இது மலேசியாவில் அந்த விமான நிறுவனத்தின் முதன்மை மையம்
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 பல ஆண்டுகளாக, “AirAsia” மற்றும் “Capital A” கிட்டத்தட்ட ஒன்றுக்கொன்று மாற்றாகப் பயன்படுத்தப்பட்டன. பல ஆண்டுகள் நீடித்த மறுசீரமைப்புக்குப் பிறகு, அவை இப்போது இரண்டு வேறுபட்ட பட்டியலிடப்பட்ட நிறுவனங்களைக் குறிக்கின்றன.

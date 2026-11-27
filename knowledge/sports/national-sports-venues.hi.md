@@ -28,7 +28,7 @@ faq:
     a: "नहीं। सेपांग ने 2017 तक फॉर्मूला 1 ग्रैंड प्रिक्स की मेज़बानी की; सर्किट अब MotoGP और अन्य मोटरस्पोर्ट आयोजनों पर केंद्रित है।"
 
 lang: "hi"
-sourceContentHash: "447129692593155d"
+sourceContentHash: "87138de9ab23e00d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -72,9 +72,36 @@ entity: "Gelanggang sukan utama Malaysia"
 relations:
   - { rel: "administered-by", to: "perbadanan-stadium-malaysia" }
   - { rel: "related-to", to: "kl-sports-city" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "malaysia-cup-domestic-football-leagues"]
 keywords: ["बुकित जलिल राष्ट्रीय स्टेडियम", "stadium nasional bukit jalil", "राष्ट्रीय वेलोड्रोम", "velodrom nasional", "सेपांग सर्किट", "litar sepang", "राष्ट्रीय हॉकी स्टेडियम", "stadium hoki nasional", "मलेशिया के खेल स्थल"]
 framework: profile
+hero: '/media/sports/national-sports-venues/hero.webp'
+heroAlt: 'बुकित जालिल राष्ट्रीय स्टेडियम का भव्य धूसर-सफ़ेद प्रवेश-मेहराब, शीर्ष पर STADIUM BUKIT JALIL अक्षरों के साथ, बादल भरी आसमान के नीचे पीछे स्टेडियम कटोरे को घेरती इसकी मूरिश-शैली की छिद्रित-जालीदार मेहराबें'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_arch_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'the main entrance gateway of the Bukit Jalil National Stadium, Kuala Lumpur'
+images:
+  - role: scene
+    src: /media/sports/national-sports-venues/body-1.webp
+    alt: रात में Bukit Jalil National Stadium का विशाल भीतरी दृश्य, उसकी लहरदार सफ़ेद तन्य छत हरे मैदान और लाल रनिंग ट्रैक को घेरे खचाखच भरे दर्शकों के ऊपर रोशन
+    kind: actual
+    origin: third-party
+    subject: रात में एक मैच के लिए खचाखच भरा Bukit Jalil National Stadium का भीतरी कटोरा और तन्य छत
+    credit: Phalinn Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-venues/body-2.webp
+    alt: Bukit Jalil में Axiata Arena का चाँदी-सा झिरीदार मुखौटा, उसके घुमावदार काँच के प्रवेश के ऊपर Axiata arena नाम और लोगो, धूसर आकाश के नीचे युवा पेड़ों से घिरा
+    kind: actual
+    origin: third-party
+    subject: Bukit Jalil में National Sports Complex के इनडोर एरिना, Axiata Arena का बाहरी दृश्य
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_front_(220713).jpg
 ---
 
 जब किसी फुटबॉल फाइनल की रात TM राष्ट्रीय स्टेडियम के तीन-स्तरीय वक्र में 85,500 दर्शक भर जाते हैं, तो वे मलेशिया की खेल अवसंरचना के सबसे बड़े प्रतीक के भीतर बैठे होते हैं — फिर भी यह उन कई स्थलों में से केवल एक है जो राष्ट्र के प्रमुख आयोजनों को वहन करते हैं।

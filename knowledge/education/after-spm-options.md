@@ -68,6 +68,32 @@ relations:
 related: ["pre-university-routes", "unified-examination-certificate-uec", "tvet-and-skills-training", "public-vs-private-universities", "foreign-university-branch-campuses-and-education-hubs", "ptptn-student-loan"]
 keywords: ["after SPM Malaysia", "what to do after SPM", "pilihan selepas SPM", "post-SPM options", "SPM leaver pathways", "STPM matrikulasi foundation diploma", "UEC after SPM", "TVET after SPM", "study after SPM Malaysia"]
 framework: decision
+hero: '/media/education/after-spm-options/hero.webp'
+heroAlt: 'The white arched main gate of Universiti Malaya in Kuala Lumpur, lettered "UNIVERSITI MALAYA" with the university crest, spanning the campus entrance road.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: A faculty building at Universiti Malaya, one of the public-university degree routes a student can aim for after SPM.
+    kind: actual
+    origin: third-party
+    subject: Faculty of Education building, Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: The faculty, library and administration blocks of the UiTM Rembau branch campus, a public tertiary pathway open to SPM leavers.
+    kind: actual
+    origin: third-party
+    subject: UiTM Rembau campus, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 The envelope opens and the real question arrives with it. Not *how did I do* —

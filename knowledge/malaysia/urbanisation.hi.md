@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो मलेशियाई जनसंख्या, श्रम या संपत्ति के आँकड़ों को सही ढंग से पढ़ना चाहता है — शोधकर्ता, नियोजक, और यह आकलन करने वाले व्यवसाय कि जनसंख्या और कार्यबल वास्तव में कहाँ हैं।"
 
 lang: "hi"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,32 @@ faq:
   - q: मलेशिया की अधिकांश शहरी वृद्धि कहाँ केंद्रित हुई?
     a: क्लांग वैली (Klang Valley) में। 2020 की जनगणना में, चार सटे हुए ज़िले — कुआलालंपुर (1,982,112), पेतालिंग (2,298,130), उलु लांगट (1,400,461) और क्लांग (1,088,942) — मिलकर लगभग 6.77 मिलियन लोगों को समेटे हुए थे, जो 32.4 मिलियन की राष्ट्रीय जनसंख्या के पाँचवें हिस्से से अधिक है। सेलांगोर अब 6,994,423 लोगों के साथ सर्वाधिक आबादी वाला राज्य है और 95.8% शहरी है, जबकि केलंतान, 44.1% के साथ, सबसे कम शहरीकृत राज्य है।
 framework: data-reference
+hero: '/media/malaysia/urbanisation/hero.webp'
+heroAlt: 'चमकीले बादलों भरे आकाश के नीचे कुआलालंपुर की घनी शहरी क्षितिज-रेखा का एक विस्तृत दृश्य, जिसमें सुई-नुमा शिखर वाला केएल टॉवर, गुच्छों में खड़ी गगनचुंबी इमारतें और हरे वृक्ष-शिखरों के ऊपर उठता एक नीला मस्जिद-गुंबद दिखाई देता है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: मेहराबदार 'फाइव-फुट-वे' बरामदों और लकड़ी के झिलमिली वाले ऊपरी तलों वाली दो-मंज़िला औपनिवेशिक-कालीन दुकान-घरों (shophouses) की एक कतार पुराने शहर की एक शांत गली के किनारे खड़ी है।
+    kind: actual
+    origin: third-party
+    subject: जॉर्ज टाउन, पेनांग की ऐतिहासिक shophouse गली
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: एक सफेद पाल के आकार का केबल-स्टेड पुल धूसर आसमान के नीचे मध्यम-ऊँचाई वाले अपार्टमेंट ब्लॉकों की कतारों के सामने एक झील को पार करता है।
+    kind: actual
+    origin: third-party
+    subject: नियोजित संघीय शहर पुत्राजया में Seri Wawasan पुल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## अब हर चार में से तीन मलेशियाई ऐसी किसी जगह रहते हैं जिसे DOSM «शहरी» कहता है

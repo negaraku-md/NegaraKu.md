@@ -33,7 +33,7 @@ faq:
     a: "Magavau là một nghi lễ tạ ơn để tôn vinh và 'gọi về nhà' thần lúa, Bambaazon, sau vụ gặt. Nó theo truyền thống do một bobohizan (còn viết là bobolian) chủ trì, một nữ tư tế đọc các bài tụng nghi lễ. Đó là một trong những thành tố nghi lễ lâu đời hơn của Kaamatan."
 
 lang: "vi"
-sourceContentHash: "77931677eb9c36e1"
+sourceContentHash: "16885810e91e0923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,34 @@ festivalFacts:
   when: "Ngày 30 và 31 tháng 5, với các hoạt động mừng lễ diễn ra suốt phần lớn tháng 5 theo từng huyện trước khi có phần cao trào cấp bang vào hai ngày đó."
   holiday: "Là ngày lễ công cộng tại bang Sabah và lãnh thổ liên bang Labuan vào ngày 30 và 31 tháng 5; không phải ngày lễ công cộng trên toàn quốc."
   etiquette: "Hãy hiểu Unduk Ngadau là một cuộc trình diễn văn hóa tôn vinh truyền thuyết Huminodun, chứ không phải một cuộc thi sắc đẹp thông thường, và hãy nhìn nhận tín ngưỡng Bambaazon cùng truyền thuyết Huminodun một cách tôn trọng như truyền thống riêng của cộng đồng, chứ không phải như sự thật được khẳng định."
+hero: '/media/arts-culture/kaamatan/hero.webp'
+heroAlt: 'Các thầy cúng bobohizan nam nữ người Kadazan-Dusun trong trang phục truyền thống đen và vàng thực hiện nghi lễ Kaamatan trên một sân khấu lung linh ánh sao ở Penampang, Sabah'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Kaamatan-Celebrations-2014-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Kadazan-Dusun bobohizan performing a Kaamatan ritual dance in Penampang, Sabah'
+
+images:
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-1.webp
+    alt: Người đoạt vương miện Unduk Ngadau cùng sáu thí sinh chung kết trong trang phục Kadazan-Dusun truyền thống màu đen và vàng trên sân khấu tại lễ hội Kaamatan ở Penampang, Sabah
+    kind: actual
+    origin: third-party
+    subject: Người thắng cuộc Unduk Ngadau và các thí sinh chung kết tại cuộc thi sắc đẹp của lễ hội Kaamatan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penampang_Sabah_Unduk-Ngadau-2014-Finale-01.jpg
+  - role: scene
+    src: /media/arts-culture/kaamatan/body-2.webp
+    alt: Các vũ công trẻ người Kadazan-Dusun trong trang phục đen viền đỏ và bạc biểu diễn một điệu múa truyền thống cùng cồng chiêng tại lễ hội mừng mùa Kaamatan ở Sabah
+    kind: actual
+    origin: third-party
+    subject: Thanh thiếu niên Kadazan-Dusun biểu diễn điệu múa mừng mùa với cồng chiêng
+    credit: Ricardo Unto / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KAAMATAN_07.jpg
 ---
 
 Lễ hội được đặt tên theo một ý duy nhất: mùa gặt. *Kaamatan* nghĩa đúng như vậy trong tiếng Kadazandusun, và mọi thứ khác trong lễ mừng — nghi lễ, rượu gạo, cuộc thi được đăng quang vào tối cuối cùng — đều mọc ra từ một hành động ấy là thu hoạch lúa về.

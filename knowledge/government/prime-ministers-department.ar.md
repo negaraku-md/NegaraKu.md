@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كلّ من يحاول فهم ما هي دائرة رئيس الوزراء فعلًا، ولماذا تقع تحتها هذا العدد الكبير من الوكالات الاتحادية التي تبدو غير مترابطة، وكيف تختلف عن وزارة عادية."
 
 lang: "ar"
-sourceContentHash: "e406cee4d2aa12d6"
+sourceContentHash: "fb4426d1ebdcc99e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,34 @@ relations:
 related: ["kabinet-perdana-menteri", "yang-di-pertuan-agong", "dosm", "spr-election-commission", "three-tiers-of-government"]
 keywords: ["Jabatan Perdana Menteri", "دائرة رئيس الوزراء", "Prime Minister's Department Malaysia", "JPM Malaysia", "Ketua Setiausaha Negara", "الأمين العام للحكومة", "Chief Secretary to the Government", "Perdana Putra", "Putrajaya", "بوتراجايا", "دائرة حكومية اتحادية ماليزيا"]
 framework: profile
+hero: '/media/government/prime-ministers-department/hero.webp'
+heroAlt: 'مبنى بيردانا بوترا ذو القبة، مقرّ دائرة رئيس الوزراء الماليزي، تحت سماء غائمة درامية في بوتراجايا'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Perdana-Putra-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Perdana Putra, office of the Prime Minister of Malaysia, Putrajaya'
+
+images:
+  - role: scene
+    src: /media/government/prime-ministers-department/body-1.webp
+    alt: منظر أمامي متناظر لـ Perdana Putra مع الأعلام الماليزية تصطف على جادة الوصول
+    kind: actual
+    origin: third-party
+    subject: الواجهة الأمامية لـ Perdana Putra من الجادة الاحتفالية، بوتراجايا
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg
+  - role: scene
+    src: /media/government/prime-ministers-department/body-2.webp
+    alt: قبة Perdana Putra الخضراء ترتفع فوق جادة احتفالية تصطف على جانبيها الأشجار في بوتراجايا
+    kind: actual
+    origin: third-party
+    subject: Perdana Putra كما يُرى من طريق الوصول المنسّق، بوتراجايا
+    credit: Philip Nalangan / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perdana_Putra_Putrajaya_Malaysia.jpg
 ---
 
 ليس لدى ماليزيا وزارة واحدة تُدير آلة السياسة اليومية في البلاد. بل لديها

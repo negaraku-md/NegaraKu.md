@@ -62,7 +62,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "zakat-pendapatan" }
-related: []
+related: ["income-tax-individuals", "lhdn-e-ansuran-tax-instalments", "faraid-and-islamic-inheritance"]
 keywords: ["zakat rebat cukai", "Seksyen 6A", "Akta Cukai Pendapatan 1967", "rebat cukai zakat LHDN", "zakat vs pelepasan cukai", "badan zakat negeri"]
 framework: explainer
 ---

@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "id"
-sourceContentHash: "6a197673bd82eb62"
+sourceContentHash: "7f52c25be4f7ad67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,33 @@ stayFacts:
   cost: 'Perkirakan biaya pendidikan tahunan ditambah biaya sekali bayar seperti biaya masuk atau ujian penempatan dan biaya pendaftaran, dengan deposit yang dapat dikembalikan dibatasi pada RM5,000; biaya pembangunan atau bangunan sama sekali tidak boleh dikenakan. Kementerian mengatur strukturnya tetapi tidak jumlahnya, jadi biaya sangat berbeda-beda menurut sekolah, kurikulum, dan lokasi — pastikan angka terkini langsung dengan masing-masing sekolah alih-alih mempercayai angka mana pun dalam artikel perbandingan atau forum.'
   watch: 'Karena tidak ada biaya yang ditetapkan pemerintah, harga sebenarnya berayun luas antarsekolah bahkan untuk kelompok usia yang sama, dan kenaikan biaya dibatasi pada 30% tidak lebih dari sekali setiap tiga tahun. Rencanakan pula untuk pajak jasa 6% yang berlaku, per murid per tahun akademik, apabila biaya tahunan seorang anak melebihi RM60,000 — pajak di atas biaya, bukan ditetapkan oleh sekolah.'
   next: 'Susun daftar pendek sekolah dan pastikan jadwal biaya terkini serta ambang pajak RM60,000 langsung dengan masing-masing sebelum membuat anggaran. Untuk perencanaan terkait, lihat Pas Tanggungan atau Pas Lawatan Sosial Jangka Panjang untuk mensponsori anak menyertai seorang pekerja asing, dan Mendaftar ke Sekolah Pemerintah jika sekolah pemerintah juga ada dalam daftar perbandingan Anda.'
+hero: '/media/education/international-schools/hero.webp'
+heroAlt: 'Gerbang masuk sekolah internasional modern dengan pos jaga berkanopi, pagar tanaman terpangkas, dan pepohonan rindang, dengan bangunan kampus rendah di belakangnya di bawah langit mendung'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_International_School.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'the gated entrance and landscaped grounds of Sunway International School, a modern international-school campus in Iskandar Puteri, Johor'
+images:
+  - role: scene
+    src: /media/education/international-schools/body-1.webp
+    alt: Gedung sekolah internasional bertingkat dengan fasad kaca-dan-batu melengkung berwarna merah dan abu-abu, mobil dan sepeda motor parkir di depan
+    kind: representative
+    origin: third-party
+    subject: gedung utama modern melengkung HELP International School, sebuah sekolah internasional di Subang Bestari, Selangor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Help_International_School.JPG
+  - role: scene
+    src: /media/education/international-schools/body-2.webp
+    alt: Kanopi pintu masuk sekolah modern dari baja dan kaca yang bersih serta pos jaga di samping penyeberangan, dibingkai pepohonan di bawah langit cerah
+    kind: representative
+    origin: third-party
+    subject: jalur masuk berpenutup International School of Kuala Lumpur di kampus Ampang Hilir
+    credit: Mushamir / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Entrance_to_ISKL's_Ampang_Hilir_Campus.jpg
 ---
 
 Sebuah sekolah berkurikulum Inggris dan sebuah sekolah berkurikulum Amerika yang terletak di ujung berlawanan kota yang sama, di atas kertas, dilisensikan oleh kantor yang sama persis di Putrajaya. Keduanya secara hukum tidak diperbolehkan mengenakan "dana pembangunan" kepada orang tua. Keduanya tidak boleh menaikkan biaya melebihi 30% pada satu waktu. Dan keduanya tidak diwajibkan menerbitkan satu angka pun yang ditetapkan oleh Kementerian sendiri — karena dari semua peraturan yang ditulis oleh Kementerian, harga sebenarnya untuk satu kursi bukanlah salah satunya.

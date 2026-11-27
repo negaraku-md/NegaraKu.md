@@ -34,7 +34,7 @@ seoTitle: "الخط الجاوي: التاريخ والنظام ومكانته �
 socialTitle: "الأبجدية العربية التي كتبت الملايوية طوال سبعة قرون — قصة الخط الجاوي"
 
 lang: "ar"
-sourceContentHash: "26f4f979c6d95ce7"
+sourceContentHash: "4bcccf38df2c6680"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,34 @@ relations:
 related: ["bahasa-melayu", "melaka-sultanate", "article-3-religion"]
 keywords: ["الخط الجاوي", "الأبجدية العربية الملايوية", "حجر تيرينغانو المنقوش", "تاريخ الخط الجاوي", "فن الخط", "الإملاء الجاوي", "المادة 9 من قانون اللغة الوطنية", "Jawi", "Batu Bersurat Terengganu", "National Language Act"]
 framework: history-culture
+hero: '/media/arts-culture/jawi-script/hero.webp'
+heroAlt: 'لافتة كحلية داكنة تحمل شعار ولاية تيرينغانو الملكي وعبارة ''Istana Maziah'' مكتوبة بخط جاوي الذهبي (الملايو المشتق من العربية)'
+heroCredit: 'Dominic Nelson / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_-_Istana_Maziah_name_plaque_Jawi_-_May_2024.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Gold Jawi name plaque of Istana Maziah with the Terengganu royal crest, Kuala Terengganu, Malaysia'
+
+images:
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-1.webp
+    alt: صفحتان متقابلتان من مخطوطة بنصّ جاوي يحيط بهما تذهيب زهري مزخرف بالذهبي والأزرق والأحمر
+    kind: actual
+    origin: third-party
+    subject: الصفحتان الافتتاحيتان المذهّبتان للعمل الأدبي الملايوي تاج السلاطين، مكتوبتان يدوياً بالجاوي
+    credit: Muhammad bin Umar Syaikh Farid (scribe) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_‘The_Crown_of_Kings’,_a_Malay_‘mirror_for_princes’.jpg
+  - role: scene
+    src: /media/arts-culture/jawi-script/body-2.webp
+    alt: كتاب مخطوطة قديم مفتوح في صندوق عرض، صفحتاه المتقابلتان مغطّاتان بخطّ جاوي يدوي متدفّق
+    kind: actual
+    origin: third-party
+    subject: مخطوطة مفتوحة لهوكوم كانون ملاكا (مجموعة قوانين ملقا) مكتوبة بالجاوي، معروضة في متحف
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 على نقش حجري عُثر عليه في تيرينغانو (Terengganu)، نُحتت كلمات ملايوية — لا بالحروف التي نستخدمها اليوم، بل بخط عربي مكيَّف لأصوات الملايوية. ويحمل هذا النقش، حجر تيرينغانو المنقوش (Batu Bersurat Terengganu)، تاريخ 702 هجرية، الذي يُوافَق عادةً على عام 1303 ميلادية.

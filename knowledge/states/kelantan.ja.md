@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 
 status: "published"
 aiAssisted: true
@@ -97,9 +97,35 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
 framework: profile
+hero: '/media/states/kelantan/hero.webp'
+heroAlt: 'コタバルにある、装飾豊かな黒と黄色の伝統木造宮殿イスタナ・ジャハール。舗装された前庭に馬車が停まっている。'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: コタバルの晴れた青空の下、クランタン州立博物館の赤い屋根の細長い植民地時代の建物が、高い椰子の木の後ろに建っている。
+    kind: actual
+    origin: third-party
+    subject: コタバル、クランタン州立博物館（Muzium Negeri Kelantan）
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: コタバルの、階層状で明るく照らされたパサール・シティ・ハディジャ中央市場の中で、商人たちが混み合う屋台の間で新鮮な農産物を売っている。
+    kind: actual
+    origin: third-party
+    subject: クランタン州コタバル、パサール・シティ・ハディジャ（Pasar Siti Khadijah）
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 マレーシア経済は、たいてい工場を通じて語られる。クランタンはその最も明白な例外である。製造業が同州のGDPに占める割合は2025年にわずか4.7%——13州の中で最も低い比重——であった一方、農業はほぼ5分の1を占めた。

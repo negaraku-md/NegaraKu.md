@@ -39,7 +39,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7df82b649a5f88b6"
+sourceContentHash: "cab71334d282694c"
 
 status: "published"
 aiAssisted: true
@@ -87,9 +87,42 @@ sources:
     publisher: "Frommer's"
 
 wikidata: "Q220445"
-related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia"]
+related: ["sarawak-visitor-guide", "gunung-mulu-national-park", "cultural-heritage-tourism-malaysia", "sabah-visitor-guide"]
 keywords: ["Kuching", "Cat City", "Sarawak capital", "Sarawak River waterfront", "Fort Margherita", "the Astana", "Borneo Cultures Museum", "White Rajah", "Brooke dynasty", "Semenggoh orangutan", "Bako National Park", "Sarawak Cultural Village"]
 framework: profile
+visitFacts:
+  bestFor: 'போர்னியோ மழைக்காடு, ஒராங்குட்டான் மற்றும் தேசியப் பூங்கா நாள்-பயணங்களுக்கு நிதானமான தளமாக நடந்து செல்லக்கூடிய ஆற்றங்கரைப் பாரம்பரிய நகரத்தை விரும்பும் முதல் முறை மற்றும் சுதந்திரப் பயணிகள், குடும்பங்கள் மற்றும் பாரம்பரிய அல்லது வனவிலங்கு ஆர்வலர்களுக்கு ஏற்றது.'
+  getThere: 'தெற்கு Sarawak-இன் முதன்மை விமான நுழைவாயிலான Kuching International Airport (KCH)-க்குப் பறந்து செல்லுங்கள், கோலாலம்பூர் மற்றும் மற்ற மலேசிய மற்றும் பிராந்திய மையங்களிலிருந்து இணைப்புகளுடன்.'
+  permit: 'Sarawak தனது சொந்த குடிவரவை நடத்துகிறது, எனவே தீபகற்ப மலேசியாவிலிருந்து உள்நாட்டு விமானத்தில் வந்தாலும் கூட அனைவரும் வருகையில் எல்லை சோதனையைக் கடக்கிறார்கள் — வெளிநாட்டவர்கள் தனி Sarawak நுழைவு முத்திரை பெறுகிறார்கள், எனவே உங்கள் கடவுச்சீட்டை எப்போதும் எடுத்துச் செல்லுங்கள்.'
+  watch: 'Semenggoh-இல் ஒராங்குட்டான் தரிசனம் ஒருபோதும் உத்தரவாதம் அளிக்கப்படுவதில்லை, ஏனெனில் அரை-காட்டு வானரங்கள் சுற்றியுள்ள காட்டில் தீவனம் தேட சுதந்திரமானவை — எந்தத் தரிசனத்தையும் ஒரு வாக்குறுதியாக அல்லாமல் ஒரு போனஸாகக் கருதுங்கள்.'
+  next: 'நீங்கள் பயணிப்பதற்கு முன் தற்போதைய Sarawak நுழைவுத் தேவைகளையும் பூங்கா அல்லது விழா நேரங்களையும் Sarawak Tourism Board மற்றும் பூங்காக்களின் அதிகாரப்பூர்வ இயக்குநர்களுடன் உறுதிப்படுத்துங்கள்.'
+hero: '/media/tourism/kuching-visitor-guide/hero.webp'
+heroAlt: 'அந்திப்பொழுதில் Kuching நீர்க்கரையிலிருந்து Sarawak ஆற்றின் அக்கரையில் உயரும் குடை-கூரை Sarawak மாநில சட்டமன்றக் கட்டிடம்'
+heroCredit: 'diego_cue / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg'
+heroKind: 'actual'
+heroOrigin: 'third-party'
+heroSubject: 'Sarawak State Legislative Assembly (DUN) umbrella-roofed building across the Sarawak River from the Kuching Waterfront at dusk, with the Darul Hana dragon fountain'
+images:
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-1.webp
+    alt: Kuching-இல் Sarawak ஆற்றின் வட கரையில், அலங்கார வாயிலுடனான வெள்ளை Gothic-வளைவு காலனிய அரண்மனையான The Astana
+    kind: actual
+    origin: third-party
+    subject: The Astana, Kuching-இல் முன்னாள் White Rajah-க்களின் வரலாற்று வெள்ளை ஆற்றங்கரை அரண்மனை
+    credit: Boonjinchung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Astana_Kuching_Sarawak.jpg
+  - role: scene
+    src: /media/tourism/kuching-visitor-guide/body-2.webp
+    alt: Kuching-இன் பழைய சைனாடவுனில் ஒரு தெருவைக் குறிக்கும், சிவப்பு விளக்குகள் தொங்கவிடப்பட்ட அலங்கார சீன வளைவு வாயில்
+    kind: actual
+    origin: third-party
+    subject: Kuching-இன் பழைய சைனாடவுனில் (Jalan Attap பகுதி) சிவப்பு விளக்குகள் மற்றும் கடை அறிவிப்புப் பலகைகளுடனான சீன சம்பிரதாய வளைவு வாயில்
+    credit: Travelust from Southeast Asia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese-style_Gate.jpg
 ---
 
 நீங்கள் ஒரு மாலையில் குச்சிங்கின் ஆற்றங்கரையின் நீளத்தை நடந்து, வழியில் ஒரு காலனித்துவ கோட்டை, ஒரு ராஜாவின் அரண்மனை மற்றும் ஒரு சீனக் கோயிலைக் கடந்து, போர்னியோவின் பெரும் நூடுல் கிண்ணங்களில் ஒன்றைச் சாப்பிட்டு, ஒரு ராட்சத பூனை சிலையுடன் போஸ் கொடுக்கலாம் — அனைத்தும் நகரத்தை விட்டு வெளியேறாமல். குச்சிங் சரவாக்கின் தலைநகரமும் மிகப் பெரிய நகரமும், போர்னியோ தீவில் மாநிலத்தின் தென்மேற்கு நுனியில் சரவாக் ஆற்றில் அமைந்துள்ளது ([Wikipedia](https://en.wikipedia.org/wiki/Kuching); [Wikidata](https://www.wikidata.org/wiki/Q220445)). இது பெரும்பாலான சரவாக் பயணங்கள் தொடங்கும் நிதானமான, ஆற்று-நகரத் தளம். இந்த வழிகாட்டி நகரத்தையே — அதன் நீர்முகப்பு, அதன் Brooke-கால வரலாறு, அதன் சைனாடவுன் மற்றும் அருங்காட்சியகங்கள், மேலும் அதன் பூனைகள் — மேலும் அதைச் சூழும் மழைக்காடு மற்றும் வனவிலங்குகளுக்கான ஒரு தொடக்கப் புள்ளியாக அது எவ்வாறு இயங்குகிறது என்பதையும் உள்ளடக்குகிறது.

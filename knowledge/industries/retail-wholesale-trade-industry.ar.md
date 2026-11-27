@@ -31,7 +31,7 @@ faq:
   - q: "كيف غيّرت التجارة الإلكترونية تجزئة ماليزيا؟"
     a: "نما التسوق عبر الإنترنت بسرعة، بقيادة منصّات مثل Shopee وLazada، وتلاشى الخط الفاصل بين التجزئة عبر الإنترنت والتجزئة المادية مع إضافة تجار التجزئة التقليديين للتوصيل والاستلام من المتجر والواجهات الإلكترونية. وتبلغ أرقام دخل التجارة الإلكترونية لدى DOSM تريليونات الرينغيت، وإن كان هذا الإجمالي يشمل التصنيع والخدمات لا التجزئة وحدها."
 lang: ar
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -96,6 +96,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'متسوّقون ومتاجر وأكشاك بيع بالتجزئة في البهو متعدّد الطوابق لمركز NU Sentral التجاري في كوالالمبور بماليزيا.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: ممرّ طويل في سوبرماركت برفوف بيضاء مكدّسة بأكياس السكّر وزيت الطهي والسلع المعبّأة تحت لافتة ممرّ خضراء مكتوب عليها GULA AGAR-AGAR 21، وأرضية بلاط نظيفة تمتدّ نحو البعيد.
+    kind: actual
+    origin: third-party
+    subject: ممرّ بقالة مملوء في هايبرماركت Giant في Kota Damansara، Selangor، صيغة أساسية في تجارة التجزئة الماليزية
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: سقيفة سوق مفتوحة طويلة من طابق واحد بسقف بنّي باهت متآكل، وشاحنة محمّلة بالمنتجات وشاحنتان أصغر متوقّفة أمامها على ساحة إسفلتية مشمسة تحت سماء زرقاء ساطعة.
+    kind: actual
+    origin: third-party
+    subject: سوق رطب تقليدي مفتوح الجوانب في Johor Jaya حيث توصّل الشاحنات المنتجات الطازجة، جزء من تجارة الأغذية بالجملة والتجزئة في ماليزيا
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 يكاد كل رينغيت ينفقه الماليزي على السلع المادية — البقالة، أو هاتف، أو سيارة، أو قارورة زيت طهي — يمرّ عبر تجارة التجزئة والجملة. فهي السباكة التي يجري فيها الاستهلاك اليومي: شبكة المستوردين وتجار الجملة والموزّعين والمتاجر والأسواق والمتاجر الإلكترونية التي تنقل المنتجات من حيث تُصنع إلى حيث تُشترى. ويسمّي المسؤولون هذه الشبكة **التجارة التوزيعية**، وهي من أكبر أجزاء الاقتصاد الماليزي وأكثرها ظهورًا.

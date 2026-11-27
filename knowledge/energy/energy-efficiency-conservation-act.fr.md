@@ -78,9 +78,10 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "supersedes", to: "efficient-management-electrical-energy-regulations-2008" }
   - { rel: "affects", to: "commercial-buildings-malaysia" }
-related: []
+related: ["energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition", "seda-malaysia"]
 keywords: ["EECA 2024", "Akta 861", "kecekapan tenaga", "Suruhanjaya Tenaga", "pengurus tenaga berdaftar", "audit tenaga", "intensiti tenaga bangunan", "MEPS"]
 framework: rules
+wikidata: "Q142235995"
 ---
 
 Si votre usine ou votre immeuble de bureaux consomme pour des millions de ringgit d'énergie par an, le gouvernement veut désormais savoir où va chaque gigajoule — et veut que vous démontriez que vous travaillez à réduire le gaspillage. C'est là l'essentiel de la Loi sur l'efficacité et la conservation de l'énergie de 2024, ou Act 861, une loi en vigueur depuis le 1er janvier 2025.

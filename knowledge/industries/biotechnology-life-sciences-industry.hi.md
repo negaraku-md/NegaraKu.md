@@ -31,7 +31,7 @@ faq:
   - q: क्या जैव-प्रौद्योगिकी मलेशिया की अर्थव्यवस्था का एक बड़ा हिस्सा है?
     a: यह एक प्रभावी क्षेत्र के बजाय एक रणनीतिक लेकिन अभी भी उभरता हुआ क्षेत्र है। जैव-अर्थव्यवस्था निगम ने अपने पहले दो दशकों में GDP में लगभग RM39.9 बिलियन के संचयी योगदान की सूचना दी है। जैव-प्रौद्योगिकी अपने वर्तमान उत्पादन-हिस्से की तुलना में अपनी भविष्य की क्षमता के लिए — खाद्य सुरक्षा, स्वास्थ्य और जैव-अर्थव्यवस्था में — अधिक मायने रखती है।
 lang: hi
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -97,6 +97,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'सुरक्षात्मक गाउन, दस्ताने और फेस शील्ड पहने एक वैज्ञानिक प्रयोगशाला के बायोसेफ्टी कैबिनेट के अंदर पिपेट से नमूनों को शीशियों में स्थानांतरित करता है।'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: यूनिवर्सिटी मलेशिया तेरेंगानु की पादप ऊतक संवर्धन प्रयोगशाला में नियंत्रित प्रकाश के नीचे रखे गए बाँझ संवर्धन पात्रों की रैक।
+    kind: actual
+    origin: third-party
+    subject: यूनिवर्सिटी मलेशिया तेरेंगानु में पादप ऊतक संवर्धन प्रयोगशाला
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: एक प्रयोगशाला में नलियों और नियंत्रण उपकरणों के साथ जीवित कोशिका संवर्धन चलाता हुआ स्टेनलेस स्टील और काँच का बायोरिएक्टर।
+    kind: representative
+    origin: third-party
+    subject: कोशिका संवर्धन चलाता हुआ एक प्रयोगशाला बायोरिएक्टर
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 मलेशिया के पास किसी बोस्टन या शंघाई जैसी गहन शोध विश्वविद्यालयों या वेंचर-कैपिटल की गहराई नहीं है, लेकिन उसके पास तीन चीज़ें हैं जो जैव-प्रौद्योगिकी को एक तार्किक दीर्घकालिक दाँव बनाती हैं: उष्णकटिबंधीय जैव-विविधता के दुनिया के सबसे समृद्ध भंडारों में से एक, पाम-तेल और कृषि बायोमास की एक विशाल धारा, और हलाल प्रमाणन में एक विश्व-स्तर पर मान्यता-प्राप्त अधिकार। दो दशकों से अधिक समय से सरकार इन संपदाओं को एक आधुनिक जीव-विज्ञान उद्योग में बदलने का प्रयास कर रही है। यह मार्गदर्शिका बताती है कि यह प्रयास कैसे संगठित है, इसने क्या बनाया है, और यह किस ओर जा रहा है।

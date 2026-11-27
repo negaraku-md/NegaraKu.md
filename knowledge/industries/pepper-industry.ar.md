@@ -32,7 +32,7 @@ faq:
   - q: ما أبرز التحديات التي تواجه الصناعة؟
     a: يصارع القطاع شيخوخة المزارعين وتقلّب الأسعار العالمية والإجهاد المناخي والمنافسة الشرسة من منتجين أكبر مثل فيتنام وإندونيسيا والهند. ويُبقي ضعف الميكنة والاعتماد على تصدير الحبوب الخام الهوامش ضيقة، ولهذا باتت السياسة تركّز على إعادة الزراعة والتكنولوجيا والمعالجة في المراحل النهائية.
 lang: ar
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'صفوف من كروم الفلفل الأسود مدرّبة على أعمدة تسلّق خشبية في مزرعة في ساراواك، الولاية الرئيسية لزراعة الفلفل في ماليزيا.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: لقطة مقرّبة لنبتة فلفل بعدة سنابل متدلّية مرصّعة بكثافة بحبّات فلفل خضراء مستديرة، تحيط بها أوراق كبيرة لمّاعة داكنة الخضرة، وخلفها مزرعة خضراء ضبابية.
+    kind: actual
+    origin: third-party
+    subject: عناقيد من حبّات الفلفل الخضراء الناضجة تتدلّى في سنابل طويلة على نبتة فلفل أسود في مزرعة فلفل بـ Sarawak، قلب صناعة الفلفل في ماليزيا
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: سطح مطليّ بالأبيض تحيط به حاجزة منخفضة، عليه عدة صواني شبكية مربّعة من حبّات الفلفل الداكنة المفروشة للتجفيف، وخلفها أشجار موز ونخيل جوز الهند وتلال مكسوّة بالغابات ترتفع تحت سماء زرقاء.
+    kind: representative
+    origin: third-party
+    subject: حبّات فلفل محصودة مفروشة لتجفّ في الشمس على صواني شبكية فوق سطح، مرحلة التجفيف التي تحوّل الحبّات الخضراء إلى فلفل أسود
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 الفلفل من أقدم السلع الزراعية الماليزية وأكثرها تميّزاً جغرافياً: كرمة استُقدمت من شبه القارة الهندية وسومطرة فوجدت موطنها المثالي في تلال سراواك الرطبة جيدة الصرف، حيث غدت العمود الفقري لآلاف الحيازات الريفية الصغيرة. ومع أن ماليزيا لاعب متواضع من حيث الحجم العالمي، فهي أكبر من حجمها من حيث السمعة، إذ تبيع "فلفل سراواك" المتميّز المعتمد المنشأ إلى أسواق مميّزة. يستعرض هذا المقال بنية القطاع وجغرافيته وتجارته وآفاقه بوصفه صناعة قائمة بذاتها.

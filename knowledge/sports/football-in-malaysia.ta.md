@@ -41,7 +41,7 @@ faq:
     a: "சரியான தேதி சர்ச்சைக்குரியது. சில பதிவுகள் தேசிய ஆளும் அமைப்பின் நிறுவலை 1926-இல் வைக்கின்றன, மற்றவை 1933-ஐக் குறிப்பிடுகின்றன — Singapore-ஐ தளமாகக் கொண்ட Football Association of Malaya, Malaya Cup-ஐ நடத்தும் பொறுப்பை ஏற்ற ஆண்டு. தெளிவாகவும் சரிபார்க்கக்கூடியதாகவும் இருப்பது இன்று அதன் பங்கு: தேசிய ஆளும் அமைப்பாக, AFC-இன் உறுப்பினராக, மற்றும் 1984-இல் AFF-இன் நிறுவனராக."
 
 lang: "ta"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,9 +91,35 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'ஒளிவெள்ளத்தில் மூழ்கிய, ரசிகர்களால் நிரம்பிய புக்கிட் ஜாலில் தேசிய அரங்கம் (Bukit Jalil) நடந்து கொண்டிருக்கும் ஒரு கால்பந்து போட்டியை நோக்குகிறது.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: நெகிரி செம்பிலான், செரம்பான், பரோயில் உள்ள துவாங்கு அப்துல் ரஹ்மான் அரங்க மைதானத்தில் நடந்துகொண்டிருக்கும் கால்பந்து போட்டி.
+    kind: actual
+    origin: third-party
+    subject: நெகிரி செம்பிலான், பரோயில் உள்ள துவாங்கு அப்துல் ரஹ்மான் அரங்கத்தில் ஒரு கால்பந்து போட்டி
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: செலாங்கூர், பெட்டாலிங் ஜெயா, கோட்டா டாமன்சாராவில் ஒரு குடியிருப்புப் பகுதியில் உள்ள திறந்தவெளி பொது ஃபுட்சல் மைதானம்.
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், கோட்டா டாமன்சாராவில் ஒரு சமூக ஃபுட்சல் மைதானம், மலேசிய விளையாட்டின் அடிமட்டக் களம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 1921-இல், Malaya-வில் ஒரு புதிய கால்பந்துப் போட்டியின் இறுதியில் Singapore, Selangor-ஐ 2-1 என்று வென்றது. ஒரு நூற்றாண்டுக்கும் மேலாகிய பின்னரும், அந்தப் போட்டி — இப்போது Malaysia Cup என அறியப்படுவது — நாட்டின் மிகவும் நேசிக்கப்படும் விளையாட்டின் மிகவும் மதிப்புமிக்க மகுடமாக இன்னும் திகழ்கிறது.

@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9b7af93b7253c9c"
+sourceContentHash: "951019fc947c6615"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,17 @@ relations:
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
+
+images:
+  - role: scene
+    src: /media/government/ssm/body-1.webp
+    alt: கோலாலம்பூரின் Perdana Botanical Gardens-இன் பச்சை நிற ஏரிக்குப் பின்னால் உயர்ந்து நிற்கும் KL Sentral-இன் அலுவலக மற்றும் ஹோட்டல் கோபுரங்களின் வானளாவிய காட்சி
+    kind: representative
+    origin: third-party
+    subject: SSM-இன் தலைமையகமான Menara SSM@Sentral அமைந்துள்ள கோலாலம்பூர் Sentral (KL Sentral) போக்குவரத்து-மைய பகுதி, Perdana Botanical Gardens ஏரியின் குறுக்கே பார்த்த காட்சி
+    credit: Wikimedia Commons (CC0)
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg
 ---
 
 ## ஒரு பார்வையில்

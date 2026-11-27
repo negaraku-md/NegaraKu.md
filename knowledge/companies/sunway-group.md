@@ -64,9 +64,36 @@ entity: "Sunway Berhad"
 wikidata: "Q139388139"
 relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
-related: []
+related: ["holding-company-malaysia", "capital-a-and-airasia"]
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
 framework: profile
+hero: '/media/companies/sunway-group/hero.webp'
+heroAlt: 'The giant stone lion-head landmark and pyramid-shaped roof of Sunway Pyramid shopping mall, with high-rise towers marked SUNWAY rising behind under a cloudy sky'
+heroCredit: 'angys / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_lion_(240131)_01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Sunway Pyramid mall''s giant lion-head statue and pyramid facade with SUNWAY signage on the Sunway resort towers behind, Bandar Sunway, Selangor'
+images:
+  - role: scene
+    src: /media/companies/sunway-group/body-1.webp
+    alt: Close view of Sunway Pyramid's Egyptian-themed facade with a large pyramid roof and a seated lion sphinx beside a 'Shopping Mall / Theme Park' entry sign
+    kind: actual
+    origin: third-party
+    subject: Front facade of Sunway Pyramid shopping centre showing the pyramid and lion-head sphinx, Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Pyramid_front.jpg
+  - role: scene
+    src: /media/companies/sunway-group/body-2.webp
+    alt: Aerial view of the Bandar Sunway township showing the Sunway Pyramid mall, resort hotel, lagoon and clustered residential high-rise towers in the Klang Valley
+    kind: actual
+    origin: third-party
+    subject: Aerial view of Sunway Group's integrated Bandar Sunway township with the pyramid mall, resort, lagoon and residential towers, Selangor
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Sunway_aerial.jpg
 ---
 
 Sunway Group turns land into whole townships — homes, malls, hospitals, universities and theme parks on one master plan — then keeps operating what it builds.

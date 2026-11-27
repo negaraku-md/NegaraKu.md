@@ -33,7 +33,7 @@ faq:
     a: "말레이시아 하키 연맹(Malaysian Hockey Confederation, MHC)이 남녀 필드하키 및 실내 하키 대표팀의 전국 주무 기관이다. MHC는 아시아하키연맹(AHF)과 FIH에 가맹되어 있으며, 쿠알라룸푸르 부킷 잘릴의 국립 하키 스타디움에서 운영된다."
 
 lang: "ko"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,32 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: '하키 월드컵의 말레이시아 경기에서 필드하키 선수들이 공을 쫓고 있다.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: 필드하키 경기, 말레이시아 대 네덜란드. 1973년 하키 월드컵, 암스텔베인에서 열렸다.
+    kind: actual
+    origin: third-party
+    subject: 1973년 하키 월드컵에 출전한 말레이시아 필드하키 국가대표팀
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: 조호르주 조호르바루에 있는 타만 다야 하키 스타디움의 경기장과 관중석. 말레이시아의 필드하키 경기장이다.
+    kind: actual
+    origin: third-party
+    subject: 조호르바루의 타만 다야 하키 스타디움, 말레이시아의 필드하키 경기장
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 1975년 3월 15일, 쿠알라룸푸르의 한 스타디움은 인도가 역사상 유일하게 남자 하키 월드컵을 들어 올리는 장면을 지켜보았습니다 — 그리고 그 개최국은 인도가 아니라 말레이시아였습니다. 반세기가 지난 지금도, 같은 나라는 매년 세계 하키 강국들을 이포로 초청합니다. 필드하키는 오늘날 말레이시아에서 가장 인기 있는 스포츠는 아닐지 몰라도, 국제 무대에서 가장 존경받는 나라의 스포츠 유산일 것입니다.

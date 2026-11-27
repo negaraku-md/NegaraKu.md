@@ -36,7 +36,7 @@ faq:
     a: "بعد تعديل عام 2019 لقانون مصايد الأسماك 1985 (القانون A1601)، رُفعت الغرامة القصوى لمالك أو ربّان السفينة الأجنبية المتسلّلة من RM1 مليون إلى RM6 مليون، ولكل فرد من الطاقم من RM100,000 إلى RM600,000."
 
 lang: "ar"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,9 +85,35 @@ relations:
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "lkim" }
   - { rel: "related-to", to: "mmea" }
-related: []
+related: ["department-of-fisheries-malaysia", "ministry-of-agriculture-food-security-and-agencies", "food-security-self-sufficiency-policy"]
 keywords: ["صناعة مصايد الأسماك في ماليزيا", "إنتاج الأسماك في ماليزيا", "الاستزراع المائي", "aquaculture Malaysia", "LKIM", "دائرة مصايد الأسماك الماليزية", "قانون مصايد الأسماك 1985", "Fisheries Act 1985", "تسلّل سفن الصيد الأجنبية", "IUU fishing Malaysia"]
 framework: profile
+hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'
+heroAlt: 'قوارب صيد خشبية بشباك الجرّ ترسو عند رصيف قبالة جزيرة بينانغ بماليزيا.'
+heroCredit: 'calflier001 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: قوارب صيد راسية على طول النهر بجوار منازل قائمة على ركائز في قرية الصيد بـ Kuala Kedah
+    kind: actual
+    origin: third-party
+    subject: قوارب صيد وقرية ساحلية في Kuala Kedah
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: صفّ من الأسماك المحلية الطازجة معروضة للبيع في سوق Satok الأسبوعي في Kuching، Sarawak
+    kind: actual
+    origin: third-party
+    subject: أسماك محلية طازجة معروضة في سوق Satok، Kuching، Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 قبيل الفجر، على الأرصفة الممتدة على طول مضيق ملقا وبحر الصين الجنوبي، تنطلق آلاف قوارب الصيد الساحلية إلى البحر لتوفّر نحو تسعة أعشار الأسماك التي تُؤكل في أنحاء البلاد. وفي الوقت نفسه، في مياه أبعد، تجرّ سفن صيد لا ترفع العلم الماليزي شباكها عبر حدود لا تراها العين.

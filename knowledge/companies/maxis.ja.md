@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "50d792c288399ed7"
+sourceContentHash: "49d529c271db5c2a"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,34 @@ verificationNeeded:
   - "親会社グループの現在の株主構成（Usaha Tegas 関連の持分と Saudi Telecom Company）——最新の Bursa Malaysia の開示に照らして確認する。"
   - "マレーシア第二の5Gネットワークの状況と、そこでの Maxis の役割（2024年11月に U Mobile が選定された）——MCMC との現在の5G政策と取り決めを確認する。"
 framework: profile
+hero: '/media/companies/maxis/hero.webp'
+heroAlt: '夜のライトアップされたムナラ・マキシスの曲線的な頂部。黒い空を背に段状のテラスが白く輝き、頂部近くに青と緑のmaxisのロゴ看板と7:57を示す赤いデジタル時計'
+heroCredit: 'Brandon Lim Lik Wei / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Menara_Maxis_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Menara Maxis, the Maxis headquarters tower at KLCC, Kuala Lumpur, lit at night with the illuminated maxis logo and digital clock on its crown'
+images:
+  - role: scene
+    src: /media/companies/maxis/body-1.webp
+    alt: 淡褐色の石と緑ガラスのMenara Maxisタワーが、曇り空を背にアーチ型の頂冠へと湾曲してそびえる。ファサード高くにmaxisのロゴとデジタル時計が見え、下の基壇にSuria KLCCのロゴがある
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのSuria KLCCモールの上にそびえるMenara Maxisを昼間に望む。頂冠近くにmaxisのロゴと時計が見える
+    credit: Marcin Konsek / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Menara_Maxis_(01).jpg
+  - role: scene
+    src: /media/companies/maxis/body-2.webp
+    alt: Menara Maxisの先細りした照明に照らされたファサードを下から急な角度で見上げた夜景。下層階には黒い空を背に、maxisのロゴを掲げた縦長の照明広告バナーが掛けられている
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールKLCCで、基部から見上げたMenara Maxisの夜景。下層のファサードに大きなmaxisブランドの広告バナーが掛かる
+    credit: Brandon Lim Lik Wei / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Maxis_3.jpg
+wikidata: "Q2627330"
 ---
 
 電話をもつほとんどすべてのマレーシア人は、どこかの時点で Maxis か Hotlink の顧客であったことがある。その二つのよく知られたブランドの背後には一つの会社——Maxis Berhad——があり、同国最大級の通信事業者に数えられ、モバイル専業の通信会社から、モバイル、家庭向けブロードバンド、法人向け接続を提供する統合型プロバイダーへと成長してきた。

@@ -32,7 +32,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,32 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'தாத்தாரான் மெர்டேகாவில் நடைபெறும் மலேசியாவின் மெர்டேகா தின அணிவகுப்பின் போது, சீருடை அணிந்த இராணுவ இசைக்கலைஞர்கள் பார்வையாளர்களைக் கடந்து அணிவகுத்துச் செல்கின்றனர்.'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: Merdeka தின அணிவகுப்பின்போது சிவப்பு, வெள்ளை, நீலம் மற்றும் மஞ்சள் நிற Jalur Gemilang கொடியையும் பிற கொடிகளையும் ஏந்தி வரிசையாக அணிவகுத்துச் செல்லும் சீருடை அணிந்த அதிகாரிகள்.
+    kind: actual
+    origin: third-party
+    subject: 59வது Merdeka தினக் கொண்டாட்டத்தில் Jalur Gemilang கொடியுடன் அணிவகுத்துச் செல்லும் சீருடை அணிகள்
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: கிழக்கு மலேசியாவில் திறந்தவெளி தேசிய தினக் கொண்டாட்டத்தின்போது Kota Kinabalu, Sabah-இல் மலேசிய தேசியக் கொடியைப் பெருமையுடன் உயர்த்தி அசைக்கும் புன்னகைக்கும் மக்கள் கூட்டம்.
+    kind: actual
+    origin: third-party
+    subject: Kota Kinabalu, Sabah-இல் தேசிய தின விழாவின்போது Jalur Gemilang கொடியை அசைக்கும் கொண்டாட்டக்காரர்கள்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 ஒவ்வொரு ஆண்டும் மலேசியாவின் நாட்காட்டியில், ஒரே விஷயம் என்று எளிதில் தவறாகக் கருதப்படும் இரண்டு தேதிகள் உள்ளன: 31 ஆகஸ்ட் மற்றும் 16 செப்டம்பர். இரண்டும் கொடிகள், அணிவகுப்புகள் மற்றும் தேசபக்திப் பாடல்களுடன் கொண்டாடப்படுகின்றன. ஆயினும் இவை இரண்டும் ஆறு ஆண்டுகள் இடைவெளியில் நிகழ்ந்த வெவ்வேறு நிகழ்வுகளைக் குறிக்கின்றன, மேலும் வெவ்வேறு வடிவங்களைக் கொண்ட இரண்டு நாடுகளை விவரிக்கின்றன.

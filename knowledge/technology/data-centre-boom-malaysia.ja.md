@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "16256b5ee4d19f22"
+sourceContentHash: "4a0f533116b839a2"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,34 @@ relations:
 related: ["tenaga-nasional", "johor"]
 keywords: ["data centre Malaysia", "Johor data centre", "TNB data centre", "non-AI data centre restriction", "data sovereignty Malaysia", "National Cloud Computing Policy", "Green Lane TNB", "Johor water data centre"]
 framework: explainer
+hero: '/media/technology/data-centre-boom-malaysia/hero.webp'
+heroAlt: 'データセンターのサーバーラックの壁。各列が明るい青のインジケーターライトの列に照らされ、暗がりへと遠ざかる'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'Rows of server racks glowing with blue indicator lights inside a data centre hall'
+
+images:
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-1.webp
+    alt: 高い黒いサーバーキャビネットの2つの壁の間を走る狭い通路で、列が奥の明るい戸口に向かって収束していく様子
+    kind: representative
+    origin: third-party
+    subject: 大学のデータセンターで、高い黒いサーバーキャビネットの間の左右対称な通路
+    credit: Christopher Bowns / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
+  - role: scene
+    src: /media/technology/data-centre-boom-malaysia/body-2.webp
+    alt: 夕暮れのデータセンター・キャンパスを上空から見た様子で、屋上の冷却装置が長い列をなし、隣にはまだ建設中の建物がある
+    kind: representative
+    origin: third-party
+    subject: 建設中の大規模なデータセンター・キャンパスの屋上冷却装置を上空から見た様子
+    credit: Rsparks3 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg
 ---
 
 3年足らずのうちに、シンガポールとコーズウェイを挟んで対岸に位置するジョホール南部の一帯は、サーバーを設置する場所として地球上で最も引く手あまたの場所の一つになった。クラウド大手、コロケーション事業者、AIスタートアップが流れ込んだ——そしていまマレーシアは、このブームの下を走る送電線と水道管に限界があることに気づきつつある。

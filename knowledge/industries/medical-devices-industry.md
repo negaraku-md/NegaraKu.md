@@ -100,6 +100,32 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'Hand-shaped formers coated with liquid latex on a dipping line, the core process in disposable-glove manufacturing.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: Workers in protective gowns and caps operating equipment on a sterile pharmaceutical production line.
+    kind: representative
+    origin: third-party
+    subject: Sterile pharmaceutical/medical-product production line with gowned workers (representative of medical manufacturing)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: Gowned technicians and stainless-steel equipment on a cleanroom production line inside a medical-product manufacturing facility.
+    kind: representative
+    origin: third-party
+    subject: Cleanroom production line in a medical-product manufacturing facility (representative)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 If you have ever worn a surgical glove, had blood drawn through a catheter, or recovered with the help of an orthopaedic implant, there is a reasonable chance the device was made in Malaysia. Beyond its famous rubber gloves, the country has quietly become South-East Asia's most important place to manufacture medical devices — and one of the more significant medtech manufacturing bases anywhere in the world.

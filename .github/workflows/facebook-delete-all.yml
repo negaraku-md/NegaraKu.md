@@ -1,0 +1,48 @@
+name: Delete ALL Facebook posts (clean slate)
+
+# Manual-only, destructive. Enumerates EVERY published post on each of the 13 language
+# Pages and deletes them — the clean slate before the Facebook relaunch.
+#
+# SAFETY: a run with no (or wrong) `confirm` input is a DRY RUN — it only enumerates
+# and prints a per-Page count, deletes nothing. It deletes ONLY when `confirm` is
+# exactly `DELETE ALL`. Always dry-run first and read the counts.
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type DELETE ALL to actually delete. Anything else = dry run (count only).'
+        required: false
+        default: ''
+      only_langs:
+        description: 'Comma-separated langs to limit to (e.g. "en,zh"). Blank = all 13.'
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: facebook-delete-all
+  cancel-in-progress: false
+
+jobs:
+  delete-all:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Enumerate / delete all Page posts
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_DELETE_ALL_CONFIRM: ${{ github.event.inputs.confirm }}
+          # Force dry-run unless the confirm phrase is exact — belt and braces with
+          # the script's own guard. NOTE: the "confirmed" branch must be a NON-EMPTY,
+          # non-'1' string ('0'), because GitHub Actions treats '' as falsy and would
+          # fall through to the '|| 1' branch — which silently forced every run to a
+          # dry run even when confirm was exactly "DELETE ALL".
+          FB_DRY_RUN: ${{ github.event.inputs.confirm == 'DELETE ALL' && '0' || '1' }}
+          FB_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
+        run: node scripts/delete-all-facebook-posts.mjs

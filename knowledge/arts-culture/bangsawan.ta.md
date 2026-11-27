@@ -34,7 +34,7 @@ faq:
     a: "வானொலி, திரைப்படம், தொலைக்காட்சியின் போட்டியால் அது 20-ஆம் நூற்றாண்டின் நடுப்பகுதியில் வீழ்ச்சியடைந்தது. 1930-களின் இறுதியில் பல பங்சாவான் அரங்குகள் திரையரங்குகளாக மாற்றப்பட்டன; போருக்குப் பிறகு அந்தத் தொழில் தன் நிதி மூலத்தை இழந்தது."
 
 lang: "ta"
-sourceContentHash: "9acb0bf06bc5782c"
+sourceContentHash: "f8a58e15bd1448ae"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,34 @@ relations:
 related: ["mak-yong", "wayang-kulit"]
 keywords: ["bangsawan", "opera Melayu", "teater Parsi", "Wayang Parsi", "Pushi Indera Bangsawan", "teater peralihan", "filem Melayu"]
 framework: history-culture
+hero: '/media/arts-culture/bangsawan/hero.webp'
+heroAlt: 'அரச உடையணிந்த bangsawan மலாய் நாடகக் குழுவின் 1890களைச் சேர்ந்த செபியா நிறப் புகைப்படம்; கிரீடங்களும் அலங்கார உடைகளும் அணிந்த கலைஞர்கள் அரியணை மேடையில் அமர்ந்தும் நின்றும் இருக்க, கீழே கூட்டம் பார்க்கிறது'
+heroCredit: 'G.R. Lambert & Co. (KITLV collection) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KITLV_-_106227_-_Lambert_%26_Co.,_G.R._-_Singapore_-_Bangsawan,_Malay_opera_Penang_-_circa_1895.tif'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'Historic bangsawan (Malay opera) troupe on a painted-backdrop stage in Penang, circa 1895'
+
+images:
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-1.webp
+    alt: மலாக்காவில் உள்ள பங்சாவான் நாடக அரங்கின் வெளிப்புறம், தெளிந்த நீல வானத்தின் கீழ் சிவப்பு 'Panggung Bangsawan Melaka' பலகையுடன் கூடிய கிரீம்-பழுப்பு நவீன முகப்பு
+    kind: actual
+    origin: third-party
+    subject: மலாக்கா நகரில் பங்சாவானுக்காக அர்ப்பணிக்கப்பட்ட நாடக அரங்கான பங்கோங் பங்சாவான்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka.JPG
+  - role: scene
+    src: /media/arts-culture/bangsawan/body-2.webp
+    alt: மலாக்காவில் உள்ள பங்கோங் பங்சாவான் நாடக அரங்கின் தெரு மூலைக் காட்சி, அதன் உயரமான செங்குத்து சிவப்பு 'Panggung' பலகை, பனை மரங்கள் மற்றும் மேகமூட்டமான வானத்தின் கீழ் பின்னால் நகரக் கட்டிடங்கள்
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவின் பங்சாவானுக்கு அர்ப்பணிக்கப்பட்ட நாடக அரங்கான பங்கோங் பங்சாவானின் தெருக் காட்சி
+    credit: angys / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panggung_Bangsawan_Melaka_(211112).jpg
 ---
 
 திரைப்படங்கள் வருவதற்கு முன், விளக்குகளால் ஒளிரும் மேடைகள், கையால் வரையப்பட்ட திரைச்சீலைகள், மற்றும் ஒரே இரவு நிகழ்ச்சியிலேயே மலாய் அரச சபையின் அலைபோலும் இசையிலிருந்து மத்திய கிழக்கின் தாளத்திற்கு மாறக்கூடிய ஒரு இசைக்குழு இருந்தன. அதுவே பங்சாவான் (Bangsawan) — ஒரு காலத்தில் மலாய தீபகற்பத்தின் மிகவும் கலகலப்பான நகர்ப்புற பொழுதுபோக்காக விளங்கிய மேடை ஒபேரா; பின்னர் தன் நடிகர்களையும் பாடகர்களையும் புதிதாய்ப் பிறந்த மலாய் திரைப்படத் துறைக்குக் கையளித்த கலை வடிவம்.

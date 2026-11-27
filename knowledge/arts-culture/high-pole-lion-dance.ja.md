@@ -33,7 +33,7 @@ faq:
     a: "高棒獅子舞は華人の伝統的な醒獅の習俗に由来し、一部の獅子団は廟に拠点を置いたり廟の名を冠したりし、棒を開く前に点睛などの伝統的儀礼を行うこともあります。しかし競技・演目としては、今日ではむしろ文化活動かつスポーツと見なされることが多く、一部の現代の獅子団は訓練において宗教色を薄めてもいます。本稿は習俗とスポーツそのものを記述するのみで、いかなる信仰についても評価は下しません。"
 
 lang: "ja"
-sourceContentHash: "4192ddc9a9eb48c2"
+sourceContentHash: "73b75b1bec8f2a72"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,34 @@ relations:
 related: ["chinese-new-year", "chinese-clan-associations", "chinese-dialects", "population-composition"]
 keywords: ["高桩舞狮", "梅花桩舞狮", "南狮", "醒狮", "采青", "锣鼓钹", "关圣宫", "麻坡", "云顶世界狮王争霸赛", "舞狮", "High Pole Lion Dance", "Kun Seng Keng"]
 framework: history-culture
+hero: '/media/arts-culture/high-pole-lion-dance/hero.webp'
+heroAlt: '競技会で、背の高い金属の柱の列の上空に跳び上がった瞬間の、中に2人の演者が入った白と金の獅子舞の衣装'
+heroCredit: 'KQuhen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'White competition lion airborne in a leap between the tall jong poles at a high-pole lion dance championship'
+
+images:
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-1.webp
+    alt: クアラルンプールの通りで、背後に中国語の店舗看板を背景に、路上の群衆の上の高い赤い柱の上に乗る白い獅子舞の獅子
+    kind: actual
+    origin: third-party
+    subject: マレーシア、クアラルンプールの路上で群衆の前の高柱（ジョン）の上で演じられる高柱獅子舞
+    credit: Andrew Crump / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lion_dance_in_Kuala_Lumpur,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/high-pole-lion-dance/body-2.webp
+    alt: 鮮やかに飾られた白い獅子舞の頭と胴体が、舞台照明の下で正面を向きながら、いくつかの高い柱の頂上に渡ってバランスを取っている様子
+    kind: representative
+    origin: third-party
+    subject: いくつかの高いジョンの柱に渡ってかがんでバランスを取る白い競技用の獅子。獅子の頭はカメラを向いている
+    credit: KQuhen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:King_of_Lion_Championship_high_poles_02.jpg
 ---
 
 太鼓が張り詰めると、獅子は宙へ跳び上がり、前足が椀の縁ほどの細さの鋼鉄の棒の上に確かに着地し、獅子尾がすぐさま続く——二人の演者が、地面から二、三メートルの高さに、高低さまざまに並んだ棒の間を跳び、静止する。観客は息をのみ、「生きた」ように見えるその獅子が最も高い一本の棒の上にしっかりと立ち定まったとき、ようやく拍手が沸き起こる。これは地上での祝賀の獅子舞ではなく、採点があり、優勝者があり、世界ランキングのある競技——高棒獅子舞である。

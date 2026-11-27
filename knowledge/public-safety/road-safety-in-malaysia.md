@@ -107,9 +107,35 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Lalu lintas di Lebuhraya Utara–Selatan yang berlorong terbahagi di Malaysia, dengan tanda lorong, penghadang nahas dan papan iklan tepi jalan di bawah langit cerah.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: Pemandangan ke utara di sepanjang Jalan Kluang-Kota Tinggi dua lorong (Laluan Persekutuan 91) berhampiran Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Lebuh raya persekutuan dua lorong (Laluan 91), Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: Lintasan pejalan kaki bertanda di persimpangan jalan pada waktu malam di Kota Damansara, Selangor
+    kind: actual
+    origin: third-party
+    subject: Lintasan pejalan kaki di persimpangan jalan, Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 Setiap hari, kira-kira 18 nyawa terkorban di jalan raya Malaysia. Angka itu menjadikan jalan raya salah satu punca kematian tidak semula jadi yang paling ketara di negara ini, dan sebab utama undang-undang, kamera dan agensi khas dikerah untuk menanganinya.

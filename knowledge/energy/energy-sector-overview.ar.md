@@ -34,7 +34,7 @@ faq:
     a: "PETRA (وزارة انتقال الطاقة وتحويل المياه) هي الوزارة التي تصوغ سياسة الطاقة والمياه الوطنية وتقود الانتقال نحو صافي انبعاثات صفرية بحلول 2050. أما لجنة الطاقة فهي الهيئة القانونية المنظِّمة التابعة لـ PETRA التي ترخّص وتحدّد التعرفات وتُنفّذ القوانين التي تحكم توريد الكهرباء والغاز."
 
 lang: "ar"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,32 @@ relations:
 related: ["energy-commission-suruhanjaya-tenaga", "tenaga-nasional", "seda-malaysia", "sarawak-energy-berhad", "hydrogen-ccus-malaysia"]
 keywords: ["قطاع الطاقة في ماليزيا", "sektor tenaga Malaysia", "NETR", "خارطة طريق انتقال الطاقة الوطنية", "PETRA", "لجنة الطاقة", "Suruhanjaya Tenaga", "Petronas", "تعرفة الكهرباء RP4", "BUDI95", "الطاقة المتجددة في ماليزيا", "شبكة الكهرباء في ماليزيا"]
 framework: explainer
+hero: '/media/energy/energy-sector-overview/hero.webp'
+heroAlt: 'منظر جوي لمحطة كهرباء ساحلية تعمل بالفحم ذات مداخن وأرصفة تمتد في البحر.'
+heroCredit: 'CharlieMehta / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: محطة كهرباء تعمل بالغاز تضمّ قاعات توربينات ومداخن عادم معدنية وساحة مفاتيح مسيّجة من المحوّلات والدعامات الفولاذية، أُقيمت على أرض مُزالة أشجارها، وخلفها تلال مكسوّة بالغابات وسماء مشرقة
+    kind: actual
+    origin: third-party
+    subject: محطة توليد الكهرباء Rugading قرب Kota Kinabalu، Sabah، وهي محطة تعمل بالغاز تغذّي شبكة Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: محطة كهرباء ساحلية ذات مبانٍ صناعية منخفضة ومجارٍ معدنية ومدخنة مرتفعة خلف سياج حدودي، وبالقرب منها نخيل وأرض مكشوفة تحت سماء ضبابية
+    kind: actual
+    origin: third-party
+    subject: محطة توليد الكهرباء Tanjung Kling على ساحل Melaka، جزء من أسطول التوليد في شبه جزيرة ماليزيا
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 أدِر مفتاح إضاءة في كوالالمبور، أو املأ خزّانك بـ RON95 في إيبوه، أو ركّب ألواحًا
