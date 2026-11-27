@@ -83,7 +83,7 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["industrie de la construction", "CIDB", "grades d'entrepreneur", "G1 G7", "Act 520", "carte verte", "enregistrement des entrepreneurs", "NCP 2030", "CITP"]
 framework: rules
 hero: '/media/industries/construction-industry/hero.webp'

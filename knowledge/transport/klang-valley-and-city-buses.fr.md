@@ -72,7 +72,7 @@ wikidata: "Q7294127"
 relations:
   - { rel: "part-of", to: "prasarana-malaysia" }
   - { rel: "related-to", to: "klang-valley-integrated-transit-system" }
-related: []
+related: ["e-hailing-grab", "cycling-and-walkability", "getting-around-malaysia-for-tourists"]
 keywords: ["autobus Rapid KL", "autobus de navette MRT", "autobus vallée de Klang", "Rapid Bus", "Rapid KL On-Demand", "autobus urbain Kuala Lumpur", "Rapid KL bus", "MRT feeder bus", "Klang Valley bus"]
 framework: explainer
 hero: '/media/transport/klang-valley-and-city-buses/hero.webp'

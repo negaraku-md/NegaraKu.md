@@ -64,7 +64,7 @@ entity: "Active mobility (walking and cycling)"
 relations:
   - { rel: "related-to", to: "klang-valley-rail" }
   - { rel: "related-to", to: "e-hailing-grab" }
-related: []
+related: ["e-scooters-and-personal-mobility-devices", "klang-valley-and-city-buses", "parking-in-malaysian-cities"]
 keywords: ["caminabilidad Malasia", "ciclismo ciudades Malasia", "infraestructura peatonal Malasia", "Plan Maestro Peatonal y Ciclista KL", "dependencia del coche Malasia", "movilidad activa Malasia"]
 framework: explainer
 hero: '/media/transport/cycling-and-walkability/hero.webp'

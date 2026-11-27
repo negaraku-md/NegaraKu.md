@@ -77,7 +77,7 @@ sources:
 
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
-related: []
+related: ["road-transport-act-1987", "road-safety-in-malaysia", "road-transport-department-jpj"]
 keywords: ["मलेशिया मोटरसाइकिल नियम", "मोटरसाइकिल लेन", "Lebuhraya Persekutuan", "हेलमेट", "धारा 79(2)", "Section 79(2)", "हाईवे मोटरसाइकिल", "MS 1", "इंजन क्षमता"]
 framework: rules
 hero: '/media/transport/motorcycle-riding-rules/hero.webp'

@@ -71,7 +71,7 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["السكوتر الكهربائي ماليزيا", "أجهزة التنقل الشخصي PMD", "التنقل الصغير micromobility", "الدراجة الكهربائية MS2514", "دائرة النقل البري JPJ", "e-scooter", "PMD", "mikromobiliti", "MS2514", "JPJ"]
 framework: rules
 hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'

@@ -83,7 +83,7 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["निर्माण उद्योग", "industri pembinaan", "CIDB", "ठेकेदार ग्रेड", "gred kontraktor", "G1 G7", "Akta 520", "ग्रीन कार्ड", "kad hijau", "ठेकेदार पंजीकरण", "NCP 2030", "CITP"]
 framework: rules
 hero: '/media/industries/construction-industry/hero.webp'

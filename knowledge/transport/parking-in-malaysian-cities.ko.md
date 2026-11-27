@@ -83,7 +83,7 @@ entity: "말레이시아 도시(PBT) 주차"
 relations:
   - { rel: "administered-by", to: "dewan-bandaraya-kuala-lumpur" }
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
-related: []
+related: ["local-government-councils", "cycling-and-walkability", "e-hailing-grab"]
 keywords: ["letak kereta", "e-parking", "kompaun letak kereta", "DBKL", "Smart Selangor Parking", "EZ Smart Park"]
 framework: explainer
 hero: '/media/transport/parking-in-malaysian-cities/hero.webp'

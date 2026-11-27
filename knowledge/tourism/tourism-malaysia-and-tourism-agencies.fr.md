@@ -78,7 +78,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-and-culture-motac" }
   - { rel: "governs", to: "tourism-industry-act-1992" }
   - { rel: "related-to", to: "sarawak-tourism-board" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "getting-around-malaysia-for-tourists", "department-of-national-heritage"]
 keywords: ["Tourism Malaysia", "MOTAC", "Office de promotion touristique de Malaisie", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "licences touristiques Malaisie", "Malaysia Tourism Promotion Board"]
 framework: profile
 hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'

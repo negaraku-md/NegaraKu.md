@@ -77,7 +77,7 @@ sources:
 
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
-related: []
+related: ["road-transport-act-1987", "road-safety-in-malaysia", "road-transport-department-jpj"]
 keywords: ["قواعد الدراجات النارية ماليزيا", "مسار الدراجات النارية", "Lebuhraya Persekutuan", "الخوذة", "المادة 79(2)", "Section 79(2)", "دراجات نارية طريق سريع", "MS 1", "سعة المحرك"]
 framework: rules
 hero: '/media/transport/motorcycle-riding-rules/hero.webp'

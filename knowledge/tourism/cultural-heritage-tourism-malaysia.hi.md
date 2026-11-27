@@ -74,7 +74,7 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["मलेशिया यूनेस्को विश्व विरासत", "विरासत पर्यटन मलेशिया", "होमस्टे कार्यक्रम मलेशिया", "जॉर्ज टाउन मेलाका", "मस्जिद शिष्टाचार मलेशिया", "सांस्कृतिक पर्यटन", "Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka"]
 framework: explainer
 hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'

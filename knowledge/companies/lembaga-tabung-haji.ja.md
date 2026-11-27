@@ -77,7 +77,7 @@ relations:
   - { rel: "administered-by", to: "kementerian-kewangan" }
   - { rel: "governs", to: "akta-tabung-haji-1995" }
   - { rel: "related-to", to: "bank-islam-malaysia" }
-related: []
+related: ["glc-dominance-malaysian-economy", "epf-as-an-institution", "kwap"]
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
 framework: profile
 ---

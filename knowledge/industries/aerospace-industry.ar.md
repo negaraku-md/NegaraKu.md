@@ -79,7 +79,7 @@ sources:
 entity: "Malaysia aerospace industry"
 relations:
   - { rel: "related-to", to: "economy" }
-related: []
+related: ["manufacturing-industry-overview", "construction-industry"]
 keywords: ["صناعة الطيران", "aerospace", "MRO", "الصيانة والإصلاح والعُمرة", "تصنيع مكوّنات الطيران", "aero-manufacturing", "Blueprint 2030", "NIMP2030", "MIDA"]
 framework: profile
 hero: '/media/industries/aerospace-industry/hero.webp'

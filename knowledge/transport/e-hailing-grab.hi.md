@@ -68,7 +68,7 @@ relations:
   - { rel: "administered-by", to: "apad" }
   - { rel: "requires", to: "psv-licence-malaysia" }
   - { rel: "related-to", to: "jpj" }
-related: []
+related: ["road-transport-department-jpj", "klang-valley-and-city-buses", "getting-around-malaysia-for-tourists"]
 keywords: ["ई-हेलिंग मलेशिया", "Grab विनियमन मलेशिया", "PSV लाइसेंस ई-हेलिंग", "e-hailing Malaysia", "Grab regulation Malaysia", "PSV licence e-hailing", "APAD ई-हेलिंग वाहन परमिट", "Grab मलेशिया में कैसे काम करता है", "ई-हेलिंग चालक लाइसेंस मलेशिया"]
 framework: explainer
 hero: '/media/transport/e-hailing-grab/hero.webp'

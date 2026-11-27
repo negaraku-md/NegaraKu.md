@@ -74,7 +74,7 @@ entity: "Cultural and heritage tourism in Malaysia"
 relations:
   - { rel: "administered-by", to: "ministry-of-tourism-arts-culture-malaysia" }
   - { rel: "related-to", to: "malaysia-homestay-programme" }
-related: []
+related: ["tourism-malaysia-and-tourism-agencies", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["Patrimoine mondial UNESCO Malaisie", "tourisme patrimonial Malaisie", "programme de homestay Malaisie", "George Town Melaka", "étiquette dans les mosquées Malaisie", "tourisme culturel"]
 framework: explainer
 hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'

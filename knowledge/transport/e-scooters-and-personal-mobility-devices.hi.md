@@ -71,7 +71,7 @@ sources:
 relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "food-delivery-riders" }
-related: []
+related: ["cycling-and-walkability", "road-transport-act-1987", "motorcycle-riding-rules"]
 keywords: ["ई-स्कूटर मलेशिया", "व्यक्तिगत गतिशीलता उपकरण PMD", "सूक्ष्म-गतिशीलता micromobility", "विद्युत साइकिल MS2514", "सड़क परिवहन विभाग JPJ", "e-scooter", "PMD", "mikromobiliti", "MS2514", "JPJ"]
 framework: rules
 hero: '/media/transport/e-scooters-and-personal-mobility-devices/hero.webp'

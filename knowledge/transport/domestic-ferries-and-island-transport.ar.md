@@ -85,7 +85,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
-related: []
+related: ["getting-around-malaysia-for-tourists", "klang-valley-and-city-buses", "e-hailing-grab"]
 keywords: ["عبّارة بينانغ", "عبّارة لنكاوي", "عبّارة تيومان", "النقل بين جزر ماليزيا", "Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "الرياح الموسمية الشمالية الشرقية", "عبّارة لابوان"]
 framework: explainer
 hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'

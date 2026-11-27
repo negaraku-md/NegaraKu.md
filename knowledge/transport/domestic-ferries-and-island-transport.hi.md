@@ -85,7 +85,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "domestic-flights-and-regional-air-travel" }
-related: []
+related: ["getting-around-malaysia-for-tourists", "klang-valley-and-city-buses", "e-hailing-grab"]
 keywords: ["पेनांग फेरी", "लंकावी फेरी", "तिओमान फेरी", "मलेशिया में द्वीप परिवहन", "कुआला केदा", "कुआला पर्लिस", "पूर्वोत्तर मानसून", "पैंगकोर फेरी", "लाबुआन फेरी", "Penang ferry", "Langkawi ferry", "Tioman ferry", "island transport Malaysia", "Kuala Kedah", "Kuala Perlis", "northeast monsoon", "Pangkor ferry", "Labuan ferry"]
 framework: explainer
 hero: '/media/transport/domestic-ferries-and-island-transport/hero.webp'

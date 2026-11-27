@@ -83,7 +83,7 @@ entity: "Letak kereta bandar (PBT) Malaysia"
 relations:
   - { rel: "administered-by", to: "dewan-bandaraya-kuala-lumpur" }
   - { rel: "related-to", to: "road-tax-and-vehicle-registration" }
-related: []
+related: ["local-government-councils", "cycling-and-walkability", "e-hailing-grab"]
 keywords: ["पार्किंग", "e-parking", "पार्किंग शमन-जुर्माना", "DBKL", "Smart Selangor Parking", "EZ Smart Park", "letak kereta"]
 framework: explainer
 hero: '/media/transport/parking-in-malaysian-cities/hero.webp'

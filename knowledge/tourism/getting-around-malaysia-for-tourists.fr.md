@@ -116,7 +116,7 @@ sources:
 relations:
   - { rel: "related-to", to: "kuala-lumpur-international-airport" }
   - { rel: "related-to", to: "visiting-sabah-and-sarawak" }
-related: []
+related: ["malaysia-entry-visa-requirements", "e-hailing-grab", "domestic-ferries-and-island-transport"]
 keywords: ["se déplacer en Malaisie", "KLIA Ekspres", "train KTM ETS", "vols intérieurs Malaisie", "AirBorneo", "Grab Malaisie", "ferry Malaisie", "conduire en Malaisie", "Touch n Go"]
 framework: explainer
 hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'

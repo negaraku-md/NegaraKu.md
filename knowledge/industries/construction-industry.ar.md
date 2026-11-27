@@ -83,7 +83,7 @@ wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }
-related: []
+related: ["manufacturing-industry-overview", "cipaa-construction-adjudication-malaysia", "aerospace-industry"]
 keywords: ["صناعة الإنشاءات", "industri pembinaan", "CIDB", "درجات المقاولين", "gred kontraktor", "G1 G7", "Akta 520", "البطاقة الخضراء", "kad hijau", "تسجيل المقاولين", "NCP 2030", "CITP"]
 framework: rules
 hero: '/media/industries/construction-industry/hero.webp'

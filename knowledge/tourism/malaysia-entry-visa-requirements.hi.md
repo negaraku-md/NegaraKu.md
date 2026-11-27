@@ -95,7 +95,7 @@ wikidata: "Q5260346"
 relations:
   - { rel: "administered-by", to: "immigration-department-of-malaysia" }
   - { rel: "related-to", to: "malaysia-mm2h-program" }
-related: []
+related: ["immigration-department-jim", "immigration-overstay-and-blacklist", "getting-around-malaysia-for-tourists"]
 keywords: ["मलेशिया वीज़ा", "Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "वीज़ा-मुक्त मलेशिया", "autogate Malaysia", "पासपोर्ट वैधता मलेशिया"]
 framework: rules
 hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
