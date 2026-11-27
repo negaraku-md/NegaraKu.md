@@ -90,7 +90,7 @@ sources:
     publisher: "BERNAMA (Agence nationale de presse malaisienne)"
 entity: "Employees Provident Fund Act 1991 (Act 452)"
 relations: []
-related: []
+related: ["epf-members-investment-scheme", "socso-perkeso", "employment-act-1955-guide"]
 keywords: ["Loi sur le Fonds de prévoyance des employés 1991", "EPF Act 1991", "Act 452", "KWSP", "taux de cotisation EPF", "dividende EPF", "Akaun Persaraan Sejahtera Fleksibel", "retrait EPF à 55 ans", "KWSP Malaysia", "cotisation EPF travailleur étranger", "Kumpulan Wang Simpanan Pekerja"]
 framework: rules
 ---

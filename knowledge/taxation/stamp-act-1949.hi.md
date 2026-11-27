@@ -101,7 +101,7 @@ sources:
     publisher: "Donovan & Ho"
 entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
-related: []
+related: ["stamp-duty-self-assessment", "income-tax-act-1967", "real-property-gains-tax"]
 keywords: ["stamp act 1949", "स्टाम्प शुल्क मलेशिया", "stamp duty malaysia", "LHDN stamp duty", "यथामूल्य शुल्क ad valorem", "स्थिर शुल्क", "हस्तांतरण-ज्ञापन स्टाम्प शुल्क", "MOT stamp duty", "ऋण-समझौता स्टाम्प शुल्क", "किरायेदारी-समझौता स्टाम्प शुल्क", "e-stamping malaysia", "स्टाम्प शुल्क स्व-निर्धारण", "स्टाम्प शुल्क कैलकुलेटर", "स्टाम्प शुल्क दंड", "स्टाम्प शुल्क छूट", "Act 378"]
 framework: rules
 ---

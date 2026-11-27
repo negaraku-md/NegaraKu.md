@@ -81,7 +81,7 @@ entity: "MRSM & Sekolah Berasrama Penuh"
 relations:
   - { rel: "administered-by", to: "mara" }
   - { rel: "related-to", to: "pksk-special-school-assessment" }
-related: []
+related: ["malaysian-education-system", "gifted-and-talented-education", "ministry-of-education-moe"]
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "المدارس الداخلية", "حصة بوميبوترا", "المدارس الداخلية الكاملة ماليزيا"]
 framework: explainer
 hero: '/media/education/mrsm-and-fully-residential-schools/hero.webp'

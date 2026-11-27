@@ -70,7 +70,7 @@ sources:
 entity: "HRD Corp (Pembangunan Sumber Manusia Berhad)"
 wikidata: "Q113541603"
 relations: []
-related: []
+related: ["employment-act-1955-guide", "employees-provident-fund-act-1991", "socso-perkeso"]
 keywords: ["HRD Corp", "HRDF", "HRD levy", "Pembangunan Sumber Manusia Berhad", "PSMB Act 2001", "HRDF registration", "HRD Corp claim", "HRD levy 1%", "HRD Corp claimable courses", "human resource development fund Malaysia", "HRDF levy calculation", "Akta 612"]
 framework: profile
 ---

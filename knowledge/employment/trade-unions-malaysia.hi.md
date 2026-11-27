@@ -93,7 +93,7 @@ entity: "Akta Kesatuan Sekerja 1959"
 relations:
   - { rel: "governs", to: "trade-unions-malaysia" }
   - { rel: "related-to", to: "industrial-relations-act-malaysia" }
-related: []
+related: ["labour-department-jtksm", "employment-act-1955-guide", "retrenchment-malaysia"]
 keywords: ["मलेशिया में ट्रेड यूनियनें", "ट्रेड यूनियन", "ट्रेड यूनियन अधिनियम 1959", "अधिनियम 262", "JHEKS", "e-TUIS", "2024 संशोधन", "सामूहिक सौदेबाज़ी", "ट्रेड यूनियनों के महानिदेशक", "kesatuan sekerja", "trade union", "Akta 262"]
 framework: explainer
 ---

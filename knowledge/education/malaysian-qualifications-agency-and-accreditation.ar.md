@@ -74,7 +74,7 @@ wikidata: "Q6742012"
 relations:
   - { rel: "governs", to: "malaysian-qualifications-framework" }
   - { rel: "related-to", to: "higher-education-in-malaysia" }
-related: []
+related: ["malaysian-education-system", "ministry-of-education-moe", "degree-plus-acca-or-cima-accounting-study-routes"]
 keywords: ["MQA", "MQA accreditation", "الإطار الوطني للمؤهلات الماليزية", "Malaysian Qualifications Framework", "MQF", "MQR", "اعتماد الدرجات العلمية في ماليزيا", "الاعتماد المؤقت", "الاعتماد الكامل"]
 framework: profile
 stayFacts:

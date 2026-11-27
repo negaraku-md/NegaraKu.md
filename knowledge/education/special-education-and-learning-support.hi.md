@@ -60,7 +60,7 @@ relations:
   - { rel: "administered-by", to: "ministry-of-education-malaysia" }
   - { rel: "requires", to: "oku-card-registration" }
   - { rel: "part-of", to: "education" }
-related: []
+related: ["malaysian-education-system", "disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia"]
 keywords: ["विशेष शिक्षा मलेशिया", "special education Malaysia", "PPKI कार्यक्रम", "PPI समावेशी शिक्षा", "OKU कार्ड बच्चे", "sekolah pendidikan khas", "अधिगम दिव्यांगता सहायता मलेशिया", "TASKA OKU"]
 framework: explainer
 hero: '/media/education/special-education-and-learning-support/hero.webp'

@@ -101,7 +101,7 @@ sources:
     publisher: "Donovan & Ho"
 entity: "Stamp Act 1949 (Act 378, Malaysia)"
 relations: []
-related: []
+related: ["stamp-duty-self-assessment", "income-tax-act-1967", "real-property-gains-tax"]
 keywords: ["stamp act 1949", "رسم الدمغة ماليزيا", "stamp duty malaysia", "LHDN stamp duty", "الرسم النسبي ad valorem", "الرسم الثابت", "مذكرة النقل رسم الدمغة", "MOT stamp duty", "رسم دمغة اتفاقية قرض", "رسم دمغة اتفاقية إيجار", "e-stamping malaysia", "التقدير الذاتي لرسم الدمغة", "حاسبة رسم الدمغة", "غرامة رسم الدمغة", "إعفاء رسم الدمغة", "Act 378"]
 framework: rules
 ---

@@ -59,7 +59,7 @@ sources:
 
 entity: "Dividend Tax (Malaysia)"
 relations: []
-related: []
+related: ["income-tax-act-1967", "income-tax-individuals", "lhdn-e-ansuran-tax-instalments"]
 keywords: ["impôt sur les dividendes Malaisie", "impôt 2% dividendes Malaisie", "dividend tax malaysia", "2% dividend tax malaysia", "dividend tax RM100000", "individual dividend tax YA 2025", "Finance Act 2024 dividend tax"]
 social:
   hashtags:

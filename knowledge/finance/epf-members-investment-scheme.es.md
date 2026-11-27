@@ -73,7 +73,7 @@ entity: "EPF Members Investment Scheme"
 relations:
   - { rel: "administered-by", to: "employees-provident-fund" }
   - { rel: "related-to", to: "epf-akaun-persaraan" }
-related: []
+related: ["employees-provident-fund-act-1991", "securities-commission-malaysia", "bank-negara-malaysia"]
 keywords: ["EPF i-Invest", "Plan de Inversión de Afiliados", "Members Investment Scheme", "KWSP MIS", "invertir ahorros EPF", "Akaun Persaraan", "Basic Savings", "unit trust EPF"]
 framework: explainer
 ---

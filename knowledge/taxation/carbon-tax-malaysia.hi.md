@@ -86,7 +86,7 @@ entity: "Malaysia carbon tax"
 relations:
   - { rel: "related-to", to: "national-carbon-market-policy-malaysia" }
   - { rel: "related-to", to: "national-energy-transition-roadmap" }
-related: []
+related: ["carbon-market-and-carbon-pricing-malaysia", "malaysias-climate-policy-ndc-and-net-zero-2050", "electricity-tariff-energy-transition"]
 keywords: ["मलेशिया कार्बन कर", "कार्बन-मूल्य-निर्धारण", "लोहा इस्पात ऊर्जा कार्बन कर", "carbon tax Malaysia", "carbon pricing Malaysia", "National Carbon Market Policy", "Climate Change Bill Malaysia", "cukai karbon"]
 framework: explainer
 ---
