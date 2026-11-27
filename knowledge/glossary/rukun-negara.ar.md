@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-10-26
@@ -57,7 +61,7 @@ verificationNeeded:
   - "نشيد «نيغاراكو» (Negaraku) «محميّ بموجب قانون النشيد الوطني» (بالإشارة إلى قانون النشيد الوطني لسنة 1968) — لم يؤكّده مصدر أوّلي بعد."
   - "إطار «الأخطاء الشائعة» ذو طابع تعليمي؛ والتكرار الفعلي للأخطاء لم يقِسه أي مصدر."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "ركن نيغارا — تعرَّف على ماليزيا (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

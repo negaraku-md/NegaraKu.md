@@ -211,7 +211,7 @@ comparten el mismo carácter básico de jefes de estado constitucionales:
 **«Hay un Sultán de Malasia».** No lo hay. No existe un único Sultán para toda
 Malasia. Nueve estados tienen cada uno su propio Gobernante de igual rango, y el
 Jefe de Estado es el
-[Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong), elegido de forma
+[Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong), elegido de forma
 rotatoria de entre esos nueve Gobernantes.
 
 **«Un Yang di-Pertua Negeri es lo mismo que un Sultán, solo que con un título
@@ -244,7 +244,7 @@ de borrador y aún no ha pasado por revisión humana.
   [Constitución Federal](/en/law/federal-constitution) en la reimpresión oficial
   de la AGC.
 - Para entender cómo se escoge al Yang di-Pertuan Agong de entre los nueve
-  Gobernantes, vea [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong).
+  Gobernantes, vea [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong).
 - Para un ejemplo detallado de un estado sin Gobernante, vea
   [Melaka](/en/states/melaka) y [Penang](/en/states/penang).
 - Para un modelo de jefe de estado monárquico escogido por elección en lugar de

@@ -65,4 +65,4 @@ Sdn Bhd 并没有法定最低实缴资本——以 RM1 或 RM2 的实缴资本�
 ## 相关词条
 
 - [Sdn Bhd](/zh/glossary/sdn-bhd)
-- [常年申报表](/zh/glossary/annual-return)
+- [常年申报表](/zh/company-secretary/annual-return)

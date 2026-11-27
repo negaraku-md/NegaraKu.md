@@ -43,6 +43,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "التأكد من أحدث رقم منشور للاحتياطيات الدولية؛ فرقم 116.2 مليار دولار أمريكي / 5.0 أشهر من الواردات هو حتى 31 ديسمبر 2024، ويُحدِّثه BNM مرتين شهريًّا."

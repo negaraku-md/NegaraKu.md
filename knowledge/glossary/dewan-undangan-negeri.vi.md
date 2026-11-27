@@ -95,8 +95,8 @@ Dewan Undangan Negeri (DUN) là nơi lá phiếu thứ hai đó có ý nghĩa. N
 thông qua luật đất đai, luật gia đình Hồi giáo, và các đạo luật
 chính quyền địa phương cho một bang. Trang này giải thích DUN là gì,
 ADUN là ai, và cấp bang này song hành — nhưng tách rời —
-với [Dewan Rakyat](/vi/glossary/dewan-rakyat) và
-[Dewan Negara](/vi/glossary/dewan-negara) ở cấp Liên bang như thế nào.
+với [Dewan Rakyat](/vi/government/dewan-rakyat) và
+[Dewan Negara](/vi/government/dewan-negara) ở cấp Liên bang như thế nào.
 
 ## Nhìn thoáng qua
 
@@ -161,8 +161,8 @@ một bang này sang một bang khác.
 
 ## Vì sao DUN chỉ một viện còn Nghị viện hai viện?
 
-Nghị viện liên bang có hai viện: [Dewan Rakyat](/vi/glossary/dewan-rakyat)
-được bầu và [Dewan Negara](/vi/glossary/dewan-negara) phần lớn
+Nghị viện liên bang có hai viện: [Dewan Rakyat](/vi/government/dewan-rakyat)
+được bầu và [Dewan Negara](/vi/government/dewan-negara) phần lớn
 được bổ nhiệm. Còn mỗi DUN chỉ có một viện được bầu.
 
 Lý do nằm ở mục 3 Phụ lục Tám, vốn nêu nó trong một
@@ -214,7 +214,7 @@ hãy xác minh ngày chính xác đối chiếu với công báo chính thức k
 
 Hãy chú ý khác biệt với Dewan Negara: ở đó, Điều 47 ấn định tuổi
 tối thiểu cao hơn cho một Thượng nghị sĩ. Đối với DUN và
-[Dewan Rakyat](/vi/glossary/dewan-rakyat), tuổi đủ điều kiện nay giống nhau, tức 18 tuổi.
+[Dewan Rakyat](/vi/government/dewan-rakyat), tuổi đủ điều kiện nay giống nhau, tức 18 tuổi.
 
 Mục 6 liệt kê các lý do khiến một người **mất tư cách** làm thành viên
 DUN:
@@ -384,7 +384,7 @@ trong danh mục cũ.
 ## Những hiểu lầm thường gặp
 
 - **Nhầm DUN với Dewan Negara.** DUN là cơ quan lập pháp của một
-  bang; [Dewan Negara](/vi/glossary/dewan-negara) là thượng viện của Nghị viện
+  bang; [Dewan Negara](/vi/government/dewan-negara) là thượng viện của Nghị viện
   liên bang. Tên "Dewan Negeri" mà một số bang dùng chỉ DUN,
   không phải Dewan Negara.
 - **Cho rằng số ghế DUN được ấn định trong Hiến pháp Liên bang.**
@@ -404,8 +404,8 @@ trong danh mục cũ.
 
 ## Thuật ngữ liên quan
 
-- [Dewan Rakyat](/vi/glossary/dewan-rakyat) — viện được bầu của Nghị viện liên bang
-- [Dewan Negara](/vi/glossary/dewan-negara) — thượng viện của Nghị viện liên bang
+- [Dewan Rakyat](/vi/government/dewan-rakyat) — viện được bầu của Nghị viện liên bang
+- [Dewan Negara](/vi/government/dewan-negara) — thượng viện của Nghị viện liên bang
 - [Menteri Besar hoặc Ketua Menteri](/vi/glossary/menteri-besar) — người đứng đầu chính quyền bang
 - [Dewan Undangan Negeri: giải thích hiến pháp đầy đủ](/vi/government/state-assemblies-dun) — trình bày sâu về Phụ lục Tám
 - [Ai làm luật gì: Danh mục Liên bang, Bang và Chung](/vi/government/federal-state-division)
@@ -423,7 +423,7 @@ Hiến pháp Liên bang.
 Để thấy DUN trong bức tranh rộng hơn, hãy tiếp tục đến
 [sự phân chia quyền lực liên bang–bang](/vi/government/federal-state-division) để
 hiểu những gì một DUN có thể làm luật, hoặc đến
-[Dewan Rakyat](/vi/glossary/dewan-rakyat) để so sánh cấp bang
+[Dewan Rakyat](/vi/government/dewan-rakyat) để so sánh cấp bang
 với cấp Liên bang.
 
 ---

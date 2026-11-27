@@ -30,7 +30,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -44,7 +48,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "연방헌법 (2020년 재판) — 말레이어판 (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -86,7 +90,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
-의회가 해산되면 [드완 라캬트](/ko/glossary/dewan-rakyat)의
+의회가 해산되면 [드완 라캬트](/ko/government/dewan-rakyat)의
 222석 전체가 공석이 되고
 각 의원은 다시 출마해야 합니다. 드완 느가라의 70명은 그렇지 않습니다.
 그들의 임기는 연방헌법 제45조 3항에 따라
@@ -104,7 +108,7 @@ framework: explainer
 
 그 의원은 **상원의원(Senator)**이라 불립니다. 이들 가운데 누구도 일반
 유권자가 선출하지 않습니다. 이들은 **주 입법의회(Dewan Undangan Negeri)가 선출**하거나
-**[양 디페르투안 아공](/ko/glossary/yang-di-pertuan-agong)이 임명**합니다.
+**[양 디페르투안 아공](/ko/government/yang-di-pertuan-agong)이 임명**합니다.
 
 ## 드완 느가라와 드완 라캬트
 
@@ -118,7 +122,7 @@ framework: explainer
 | 의회 해산의 영향 | 임기에 영향 없음 | 모든 의석이 공석이 됨 |
 | 의장 | 드완 느가라 의장(Yang di-Pertua Dewan Negara) | 드완 라캬트 의장(Yang di-Pertua Dewan Rakyat) |
 
-다른 한 원에 대한 전체 설명은 [드완 라캬트](/ko/glossary/dewan-rakyat)
+다른 한 원에 대한 전체 설명은 [드완 라캬트](/ko/government/dewan-rakyat)
 글에 있습니다.
 
 놓치기 쉬운 또 다른 차이: 제43조 2항 (a)호는 총리(Perdana Menteri)를
@@ -256,8 +260,8 @@ framework: explainer
 
 ## 관련 용어
 
-- [드완 라캬트](/ko/glossary/dewan-rakyat)
-- [양 디페르투안 아공](/ko/glossary/yang-di-pertuan-agong)
+- [드완 라캬트](/ko/government/dewan-rakyat)
+- [양 디페르투안 아공](/ko/government/yang-di-pertuan-agong)
 - [말레이시아 의회](/ko/government/parliament)
 - [연방헌법](/ko/law/federal-constitution)
 - [연방직할구](/ko/glossary/wilayah-persekutuan)

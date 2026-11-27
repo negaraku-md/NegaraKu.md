@@ -153,5 +153,5 @@ Supposons que Siti commence à vendre des kuih faits maison en ligne. Elle enreg
 ## La suite
 
 - Comparez les trois structures principales côte à côte dans les entrées [Sdn Bhd](/en/glossary/sdn-bhd) et [LLP](/en/glossary/llp) avant de décider.
-- Si vous enregistrez une société plus tard, notez qu'elle comporte des obligations plus lourdes, comme la [déclaration annuelle](/en/glossary/annual-return).
+- Si vous enregistrez une société plus tard, notez qu'elle comporte des obligations plus lourdes, comme la [déclaration annuelle](/en/company-secretary/annual-return).
 - Avant de vous enregistrer, confirmez les frais actuels et toute exigence d'approbation de nom directement sur le portail ezbiz de la SSM, car les frais publiés au journal officiel peuvent changer.

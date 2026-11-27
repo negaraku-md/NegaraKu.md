@@ -37,6 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "2025 Dana Impak पहलों की गणना (40 से अधिक मध्यम आकार की कंपनियाँ; 3 सेमीकंडक्टर कंपनियाँ)—The Khazanah Report 2025 के पूर्ण पाठ के विरुद्ध सत्यापित करें।"
   - "संघीय भूमि आयुक्त के पास रखा एक विशेष शेयर—सत्यापित करें कि यह नवीनतम संविधान/वार्षिक रिपोर्ट में अब भी वर्तमान है या नहीं।"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian/"

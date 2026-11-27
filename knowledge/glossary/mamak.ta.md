@@ -118,5 +118,5 @@ nasi lemak மற்றும் teh tarik — பெரும்பாலான
 ## அடுத்து என்ன
 
 ஒவ்வொரு மாமாக் கடையின் அடையாளமாக அமையும் பானத்தைப் புரிந்துகொள்ள,
-[Teh Tarik](/ta/glossary/teh-tarik) படிக்கவும் — அது ஏன் ‘இழுக்கப்பட’ (ditarik)
+[Teh Tarik](/ta/food-lifestyle/teh-tarik) படிக்கவும் — அது ஏன் ‘இழுக்கப்பட’ (ditarik)
 வேண்டும் என்பதும், தேசிய மரபுரிமையாக (Warisan Kebangsaan) அதன் அந்தஸ்தும் உட்பட.

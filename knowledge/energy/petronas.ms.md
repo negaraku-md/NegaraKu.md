@@ -34,6 +34,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/companies/petronas"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -51,7 +55,7 @@ verificationNeeded:
   - "Keputusan Hiliran FY2024: Integrated Report membentangkan kerugian Hiliran selepas cukai; RM1.7 bilion yang ditunjukkan ialah angka yang tidak mengambil kira kesan penyahsatuan Engen Group. Sahkan angka tepat yang dilaporkan dan perkataan nota kaki."
   - "Perkataan PDA 1974: huraian yang dipetik mengikut tinjauan kawal selia Malaysia Petroleum Management, yang merupakan ringkasan statut tersebut. Sekiranya Akta itu sendiri hendak dipetik, sahkan bahasa statutori verbatim (seksyen operatif merujuk kepada meneroka, mengeksploitasi, memperoleh dan mendapatkan petroleum) terhadap teks perundangan utama."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Malaysia Petroleum Management — Regulatory Overview"
     url: "https://www.petronas.com/mpm/regulatory/overview"

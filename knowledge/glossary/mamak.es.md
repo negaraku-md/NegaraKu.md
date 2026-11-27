@@ -90,4 +90,4 @@ En diciembre de 2024, el elemento *Breakfast culture in Malaysia: dining experie
 
 ## Qué sigue
 
-Para entender la bebida que da identidad a todo establecimiento mamak, lea [Teh Tarik](/en/glossary/teh-tarik), incluido por qué hay que «estirarlo» y su condición de elemento del Patrimonio Nacional.
+Para entender la bebida que da identidad a todo establecimiento mamak, lea [Teh Tarik](/en/food-lifestyle/teh-tarik), incluido por qué hay que «estirarlo» y su condición de elemento del Patrimonio Nacional.

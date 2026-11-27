@@ -31,7 +31,11 @@ sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "연방헌법 (2020년 10월 15일 기준 재판) — 제43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68조 및 개정 주기 (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -148,7 +152,7 @@ framework: explainer
 재판본은 이미 이 개정을 담고 있습니다 — 그 시행일
 이전의 헌법 사본은 옛 수치를 표시할 것입니다.
 
-[드완 느가라](/ko/glossary/dewan-negara)와 비교하십시오. 제47조 (a)호는
+[드완 느가라](/ko/government/dewan-negara)와 비교하십시오. 제47조 (a)호는
 그곳의 최소 연령을 30세로 정합니다. 그 연령 차이는
 제47조에서 두 원 사이의 유일한 기본 자격 차이입니다.
 
@@ -175,7 +179,7 @@ framework: explainer
   외국에 충성 선언을 한 경우.
 
 선거 비용 명세서와 유죄 판결에 관한 두 사유에 따른
-자격 상실은 [양 디페르투안 아공](/ko/glossary/yang-di-pertuan-agong)이
+자격 상실은 [양 디페르투안 아공](/ko/government/yang-di-pertuan-agong)이
 철회할 수 있으며, 그렇지 않으면 **5년** 후에 소멸합니다(제48조 3항).
 제48조 4항은 유죄 판결에 따른 자격 상실의 효력을 14일간 유예하며,
 항소 또는 사면 청원이 제기되면 더 길게 유예합니다.
@@ -272,10 +276,10 @@ Wang Disatukan)에 부담을 지우거나 열거된 그 밖의 재정 규정을
 ## 관련 용어
 
 - [말레이시아 의회](/ko/government/parliament)
-- [드완 느가라](/ko/glossary/dewan-negara)
+- [드완 느가라](/ko/government/dewan-negara)
 - [연방헌법](/ko/law/federal-constitution)
 - [법안이 법률이 되는 과정](/ko/law/how-a-bill-becomes-law)
-- [양 디페르투안 아공](/ko/glossary/yang-di-pertuan-agong)
+- [양 디페르투안 아공](/ko/government/yang-di-pertuan-agong)
 - [연방직할구](/ko/glossary/wilayah-persekutuan)
 
 ## 다음 단계
@@ -289,7 +293,7 @@ Wang Disatukan)에 부담을 지우거나 열거된 그 밖의 재정 규정을
 이 222석이 다른 한 원과 협력하여
 법률을 통과시키는 방식을 보려면
 [말레이시아 의회](/ko/government/parliament)와
-[드완 느가라](/ko/glossary/dewan-negara)로 나아가십시오.
+[드완 느가라](/ko/government/dewan-negara)로 나아가십시오.
 
 ---
 

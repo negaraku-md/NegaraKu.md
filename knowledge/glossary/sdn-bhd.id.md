@@ -72,4 +72,4 @@ kepatuhan berulang — laporan tahunan, daftar statutori, dan sering kali audit
 ## Istilah terkait
 
 - [Modal Disetor](/id/glossary/paid-up-capital)
-- [Laporan Tahunan](/id/glossary/annual-return)
+- [Laporan Tahunan](/id/company-secretary/annual-return)

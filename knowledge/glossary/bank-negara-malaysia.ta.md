@@ -43,6 +43,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "சமீபத்தில் வெளியிடப்பட்ட சர்வதேச இருப்புகள் எண்ணிக்கையை உறுதிப்படுத்தவும்; US$116.2 பில்லியன் / 5.0 மாத இறக்குமதிகள் என்பது 2024 டிசம்பர் 31 நிலவரம், இதை BNM மாதம் இருமுறை புதுப்பிக்கிறது."

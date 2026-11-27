@@ -37,6 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "El recuento de iniciativas de Dana Impak de 2025 (más de 40 empresas medianas; 3 empresas de semiconductores)—verificar con el texto completo de The Khazanah Report 2025."
   - "Una acción especial en poder del Comisionado de Tierras Federales—verificar si sigue vigente en los estatutos/informe anual más recientes."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 mil millones profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-mil millones-profit-from-operations-for-2024-strong-performance-of-malaysian/"

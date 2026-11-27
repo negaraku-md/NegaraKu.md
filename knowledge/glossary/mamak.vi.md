@@ -114,5 +114,5 @@ xuyên sắc tộc, chứ không thuộc riêng một cộng đồng nào.
 ## Tiếp theo
 
 Để hiểu về thức uống trở thành bản sắc của mỗi quán mamak, hãy đọc
-[Teh Tarik](/vi/glossary/teh-tarik) — bao gồm lý do vì sao nó cần được "kéo" và
+[Teh Tarik](/vi/food-lifestyle/teh-tarik) — bao gồm lý do vì sao nó cần được "kéo" và
 vị thế của nó là Di sản Quốc gia.

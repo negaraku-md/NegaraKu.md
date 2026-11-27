@@ -83,4 +83,4 @@ Companies Act 2016 அங்கீகரிக்கப்பட்ட மூல
 ## தொடர்புடைய சொற்கள்
 
 - [Sdn Bhd](/ta/glossary/sdn-bhd)
-- [ஆண்டு அறிக்கை (Annual Return)](/ta/glossary/annual-return)
+- [ஆண்டு அறிக்கை (Annual Return)](/ta/company-secretary/annual-return)

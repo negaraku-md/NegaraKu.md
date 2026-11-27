@@ -225,7 +225,7 @@ Kebanyakan orang menemui hasil kerja SSM sebelum mereka mengenali namanya. Berik
 
 - **Sdn Bhd.** "Sendirian Berhad" ialah bentuk syarikat sendirian berhad yang diwujudkan oleh Akta Syarikat 2016. Anda mewujudkannya dengan memerbadankannya di SSM menerusi MyCoID; nombor pendaftaran yang dikeluarkan SSM ialah yang menjadikan syarikat itu nyata. Lihat [Sdn Bhd](/glossary/sdn-bhd).
 - **Modal berbayar.** Wang yang benar-benar dimasukkan pemegang saham ke dalam syarikat direkodkan pada fail syarikat di SSM dan dikemas kini apabila saham diperuntukkan. Ia adalah angka yang dipegang SSM, bukan yang direkanya. Lihat [Modal Berbayar](/glossary/paid-up-capital).
-- **Penyata tahunan.** Setahun sekali, setiap syarikat mengesahkan butirannya kepada SSM dalam suatu pemfailan berkanun. Terlepas dan SSM ialah badan yang mengenakan penalti, dan akhirnya memotong, syarikat tersebut. Lihat [Penyata Tahunan](/glossary/annual-return).
+- **Penyata tahunan.** Setahun sekali, setiap syarikat mengesahkan butirannya kepada SSM dalam suatu pemfailan berkanun. Terlepas dan SSM ialah badan yang mengenakan penalti, dan akhirnya memotong, syarikat tersebut. Lihat [Penyata Tahunan](/company-secretary/annual-return).
 - **PLT.** Perkongsian liabiliti terhad didaftarkan dan diselenggarakan menerusi portal MyLLP SSM di bawah Akta PLT 2012 — laluan yang berasingan daripada kedua-dua syarikat dan perniagaan. Lihat [PLT](/glossary/llp).
 
 ### Rangka keputusan pantas: pendaftaran SSM yang mana saya perlukan?
@@ -252,5 +252,5 @@ Ketiga-tiganya ialah pendaftaran dengan SSM. Perbezaannya ialah statut yang mena
 - Baca halaman entiti agensi yang menjadi pasangannya, [SSM — Suruhanjaya Syarikat Malaysia](/government/ssm), untuk inventori portal dan Arahan Amalan yang mengawal penalti dan pengecualian.
 - Jika anda sedang memilih entiti, bandingkan [Sdn Bhd](/glossary/sdn-bhd) dan [PLT](/glossary/llp) sebelum anda memilih portal.
 - Untuk memahami undang-undang yang ditadbir SSM, lihat [Akta Syarikat 2016 (Akta 777)](/law/companies-act-2016).
-- Pelajari kewajipan berulang yang semua orang pandang remeh: [Penyata Tahunan](/glossary/annual-return).
+- Pelajari kewajipan berulang yang semua orang pandang remeh: [Penyata Tahunan](/company-secretary/annual-return).
 - Sentiasa sahkan fi, borang dan arahan semasa di laman rasmi, `ssm.com.my`, sebelum bergantung pada mana-mana angka dalam dokumen rasmi.

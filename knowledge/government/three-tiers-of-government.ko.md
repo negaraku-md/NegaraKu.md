@@ -153,7 +153,7 @@ framework: explainer
 - [Dewan Negara](/ko/government/dewan-negara/)
 - [총리실](/ko/government/prime-ministers-department/)
 - [말레이시아의 공직](/ko/government/public-service/)
-- [양 디페르투안 아공(Yang di-Pertuan Agong)](/ko/glossary/yang-di-pertuan-agong/)
+- [양 디페르투안 아공(Yang di-Pertuan Agong)](/ko/government/yang-di-pertuan-agong/)
 - [므느트리 브사르(Menteri Besar) 또는 주총리(Ketua Menteri)](/ko/glossary/menteri-besar/)
 - [누가 무엇을 정하는가](/ko/government/federal-state-division/)
 - [연방직할구](/ko/government/federal-territories-governance/)

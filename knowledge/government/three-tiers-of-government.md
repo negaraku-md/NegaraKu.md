@@ -153,7 +153,7 @@ The specific institutions that run each tier — and the key offices and documen
 - [Dewan Negara](/en/government/dewan-negara/)
 - [The Prime Minister's Department](/en/government/prime-ministers-department/)
 - [Malaysia's Public Service](/en/government/public-service/)
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong/)
 - [Menteri Besar or Chief Minister](/en/glossary/menteri-besar/)
 - [Who Decides What](/en/government/federal-state-division/)
 - [Federal Territories](/en/government/federal-territories-governance/)

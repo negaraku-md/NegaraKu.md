@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -57,7 +61,7 @@ verificationNeeded:
   - "เพลง Negaraku 'ได้รับการคุ้มครองภายใต้กฎหมายเพลงชาติ' (อ้างพระราชบัญญัติเพลงชาติ 1968) — ยังไม่ได้ยืนยันแหล่งข้อมูลปฐมภูมิ"
   - "กรอบ 'ความเข้าใจผิดที่พบบ่อย' มีลักษณะเชิงการสอน ความถี่ที่แท้จริงของความเข้าใจผิดไม่ได้ถูกวัดโดยแหล่งข้อมูลใด"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Rukun Negara — รู้จักมาเลเซีย (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

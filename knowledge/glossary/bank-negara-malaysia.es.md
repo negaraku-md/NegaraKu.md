@@ -43,6 +43,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "Confirmar la cifra de reservas internacionales publicada más reciente; la cifra de 116.200 millones de dólares estadounidenses / 5,0 meses de importaciones corresponde al 31 de diciembre de 2024 y el BNM la actualiza dos veces al mes."

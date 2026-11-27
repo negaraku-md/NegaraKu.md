@@ -222,9 +222,9 @@ menyebelahi mana-mana pihak.
 
 ## Istilah berkaitan
 
-- [Dewan Rakyat](/glossary/dewan-rakyat)
-- [Dewan Negara](/glossary/dewan-negara)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/government/dewan-rakyat)
+- [Dewan Negara](/government/dewan-negara)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)
 - [Perlembagaan Persekutuan](/law/federal-constitution)
 - [Warta Kerajaan](/glossary/warta-kerajaan)
 
@@ -238,8 +238,8 @@ seksyen Jadual Ketiga Belas yang menyokongnya, dan sahkan terhadap teks semasa
 Perlembagaan Persekutuan, kerana peruntukan ini telah dipinda berkali-kali.
 
 Untuk melihat bagaimana kerusi yang diisi melalui pilihan raya ini membentuk
-Parlimen, teruskan ke [Dewan Rakyat](/glossary/dewan-rakyat) dan
-[Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong).
+Parlimen, teruskan ke [Dewan Rakyat](/government/dewan-rakyat) dan
+[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong).
 
 ---
 

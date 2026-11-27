@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "الدستور الاتحادي (إعادة طبع 2020) — النسخة الماليزية (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -88,7 +92,7 @@ framework: explainer
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
 عند حلّ البرلمان، تخلو جميع مقاعد
-[Dewan Rakyat](/glossary/dewan-rakyat) البالغة 222 مقعدًا، ويتعيّن على كل عضو
+[Dewan Rakyat](/government/dewan-rakyat) البالغة 222 مقعدًا، ويتعيّن على كل عضو
 أن يتنافس من جديد. أما أعضاء Dewan Negara السبعون فلا. فمدة عضويتهم، بموجب
 المادة 45(3) من الدستور الاتحادي، «لا تتأثر بحلّ البرلمان».
 
@@ -103,7 +107,7 @@ Dewan Negara هو **المجلس الأعلى (مجلس الشيوخ)** في ا�
 
 ويُسمَّى أعضاؤه **أعضاء مجلس الشيوخ (Senators)**. ولا يُنتخب أيٌّ منهم من قِبل
 الناخبين العاديين. فهم إما **يُنتخبون من المجلس التشريعي للولاية** أو
-**يعيّنهم [يانغ دي-بيرتوان أغونغ](/glossary/yang-di-pertuan-agong)**.
+**يعيّنهم [يانغ دي-بيرتوان أغونغ](/government/yang-di-pertuan-agong)**.
 
 ## Dewan Negara مقابل Dewan Rakyat
 
@@ -118,7 +122,7 @@ Dewan Negara هو **المجلس الأعلى (مجلس الشيوخ)** في ا�
 | رئيس المجلس | رئيس Dewan Negara | رئيس Dewan Rakyat |
 
 ثمة عرض كامل للمجلس الآخر في مقالة
-[Dewan Rakyat](/glossary/dewan-rakyat).
+[Dewan Rakyat](/government/dewan-rakyat).
 
 وثمة فرق آخر يسهل إغفاله: تشترط المادة 43(2)(a) أن يكون رئيس الوزراء **عضوًا في
 Dewan Rakyat**، لكن المادة 43(2)(b) تسمح بتعيين وزراء آخرين من **أيٍّ من
@@ -248,8 +252,8 @@ Dewan Rakyat**، لكن المادة 43(2)(b) تسمح بتعيين وزراء �
 
 ## مصطلحات ذات صلة
 
-- [Dewan Rakyat](/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)
 - [البرلمان الماليزي](/government/parliament)
 - [الدستور الاتحادي](/law/federal-constitution)
 - [الأقاليم الاتحادية](/glossary/wilayah-persekutuan)

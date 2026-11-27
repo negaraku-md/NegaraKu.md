@@ -65,4 +65,4 @@ wikidata: "Q7124665"
 ## संबंधित पद
 
 - [Sdn Bhd](/glossary/sdn-bhd)
-- [वार्षिक विवरणी (Annual Return)](/glossary/annual-return)
+- [वार्षिक विवरणी (Annual Return)](/company-secretary/annual-return)

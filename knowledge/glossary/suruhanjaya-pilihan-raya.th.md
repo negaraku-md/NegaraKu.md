@@ -154,9 +154,9 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Perkara 113", "Perkara 114", "per
 
 ## คำศัพท์ที่เกี่ยวข้อง
 
-- [Dewan Rakyat (สภาผู้แทนราษฎร)](/glossary/dewan-rakyat)
-- [Dewan Negara (วุฒิสภา)](/glossary/dewan-negara)
-- [Yang di-Pertuan Agong (พระราชาธิบดี)](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat (สภาผู้แทนราษฎร)](/government/dewan-rakyat)
+- [Dewan Negara (วุฒิสภา)](/government/dewan-negara)
+- [Yang di-Pertuan Agong (พระราชาธิบดี)](/government/yang-di-pertuan-agong)
 - [Federal Constitution (รัฐธรรมนูญแห่งสหพันธ์)](/law/federal-constitution)
 - [Warta Kerajaan (ราชกิจจานุเบกษา)](/glossary/warta-kerajaan)
 
@@ -164,7 +164,7 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Perkara 113", "Perkara 114", "per
 
 เมื่อคุณอ่านข้อความเกี่ยวกับ SPR—จำนวนที่นั่ง เส้นแบ่งเขตใหม่ หรือความเป็นอิสระของคณะกรรมการ—ให้ระบุว่าเรื่องนั้นอยู่ในอำนาจของ SPR เอง (การจัดการเลือกตั้ง การทบทวนบัญชีรายชื่อผู้มีสิทธิเลือกตั้ง) หรืออยู่เพียงในอำนาจที่จะให้ข้อเสนอแนะเท่านั้น (การแบ่งเขตเลือกตั้ง) จากนั้นจึงสืบค้นหมายเลขมาตราหรือหมายเลขวรรคในบัญชีที่สิบสามที่สนับสนุนข้อความนั้น และตรวจสอบเทียบกับตัวบทปัจจุบันของรัฐธรรมนูญแห่งสหพันธ์ เพราะบทบัญญัติเหล่านี้ได้ถูกแก้ไขมาแล้วหลายครั้ง
 
-หากต้องการดูว่าที่นั่งที่ได้รับการเติมเต็มผ่านการเลือกตั้งเหล่านี้ประกอบกันขึ้นเป็นรัฐสภาอย่างไร โปรดอ่านต่อที่ [Dewan Rakyat (สภาผู้แทนราษฎร)](/glossary/dewan-rakyat) และ [Yang di-Pertuan Agong (พระราชาธิบดี)](/glossary/yang-di-pertuan-agong)
+หากต้องการดูว่าที่นั่งที่ได้รับการเติมเต็มผ่านการเลือกตั้งเหล่านี้ประกอบกันขึ้นเป็นรัฐสภาอย่างไร โปรดอ่านต่อที่ [Dewan Rakyat (สภาผู้แทนราษฎร)](/government/dewan-rakyat) และ [Yang di-Pertuan Agong (พระราชาธิบดี)](/government/yang-di-pertuan-agong)
 
 ---
 

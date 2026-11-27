@@ -30,7 +30,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -44,7 +48,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "联邦宪法（2020年重印本）— 马来文版 (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -86,7 +90,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
-国会解散时，[下议院（Dewan Rakyat）](/zh/glossary/dewan-rakyat)的全部222个
+国会解散时，[下议院（Dewan Rakyat）](/zh/government/dewan-rakyat)的全部222个
 议席都会出缺，每一名议员都必须重新参选。上议院（Dewan Negara）的70名议员则不
 然。根据联邦宪法第45(3)条，他们的任期「不受国会解散影响」。
 
@@ -101,7 +105,7 @@ Dewan Negara 是国会的**上议院（Senate）**。联邦宪法第44条规定�
 
 其议员称为**上议员（Senator）**。他们当中没有一人是由普通选民选出的。他们要
 么**由州立法议会（Dewan Undangan Negeri）选出**，要么**由
-[最高元首](/zh/glossary/yang-di-pertuan-agong)委任**。
+[最高元首](/zh/government/yang-di-pertuan-agong)委任**。
 
 ## 上议院与下议院的分别
 
@@ -116,7 +120,7 @@ Dewan Negara 是国会的**上议院（Senate）**。联邦宪法第44条规定�
 | 主持官员 | 上议院主席 | 下议院议长 |
 
 关于另一院的完整说明，见
-[下议院（Dewan Rakyat）](/zh/glossary/dewan-rakyat)一文。
+[下议院（Dewan Rakyat）](/zh/government/dewan-rakyat)一文。
 
 还有一个容易被忽略的分别：第43(2)(a)条要求首相必须是**下议院议员**，但第
 43(2)(b)条却允许其他部长从**两院当中任何一院**委任产生。这就是为什么有人可
@@ -229,8 +233,8 @@ Dewan Negara 是国会的**上议院（Senate）**。联邦宪法第44条规定�
 
 ## 相关词汇
 
-- [下议院（Dewan Rakyat）](/zh/glossary/dewan-rakyat)
-- [最高元首（Yang di-Pertuan Agong）](/zh/glossary/yang-di-pertuan-agong)
+- [下议院（Dewan Rakyat）](/zh/government/dewan-rakyat)
+- [最高元首（Yang di-Pertuan Agong）](/zh/government/yang-di-pertuan-agong)
 - [马来西亚国会](/zh/government/parliament)
 - [联邦宪法](/zh/law/federal-constitution)
 - [联邦直辖区（Wilayah Persekutuan）](/zh/glossary/wilayah-persekutuan)

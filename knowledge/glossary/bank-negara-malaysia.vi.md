@@ -43,6 +43,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "Xác nhận con số dự trữ quốc tế mới nhất được công bố; con số 116,2 tỷ đô la Mỹ / 5,0 tháng nhập khẩu là tính đến ngày 31 tháng 12 năm 2024 và được BNM cập nhật hai lần mỗi tháng."

@@ -114,7 +114,7 @@ dan program pemerintah Malaysia:
 
 - **Dewan Rakyat** — dewan Parlimen yang anggotanya dipilih melalui pemilihan umum,
   berbeda dari Dewan Negara yang anggotanya diangkat. Lihat
-  [Dewan Rakyat](/id/glossary/dewan-rakyat).
+  [Dewan Rakyat](/id/government/dewan-rakyat).
 - **Rukun Negara** — ikrar kenegaraan yang diproklamasikan oleh Yang di-Pertuan
   Agong pada 31 Agustus 1970, menjadi "pegangan, panduan, serta amalan oleh
   seluruh rakyat Malaysia", menurut [Dewan Keamanan Nasional](/id/government/national-security-council-mkn) (MKN).
@@ -137,7 +137,7 @@ hukum, sedangkan "rakyat" tidak.
 
 ## Istilah terkait
 
-- [Dewan Rakyat](/id/glossary/dewan-rakyat)
+- [Dewan Rakyat](/id/government/dewan-rakyat)
 - [Konstitusi Federal](/id/law/federal-constitution)
 - [Merdeka](/id/glossary/merdeka)
 

@@ -37,6 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "2025년 Dana Impak 이니셔티브 건수(중견기업 40곳 이상; 반도체 기업 3곳)—The Khazanah Report 2025 전문과 대조하여 확인할 것."
   - "연방토지관리관이 보유한 특별주 1주—최신 정관/연차보고서에서도 여전히 유효한지 확인할 것."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian/"

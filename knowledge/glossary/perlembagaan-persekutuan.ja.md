@@ -168,7 +168,7 @@ Aktaは、国会において単純多数の票決で可決することができ�
   自由を列挙している。
 - **市民権** ——第3編は、市民権の取得、剥奪及び喪失の方法を定めている。
 - **連邦機関** ——国家元首としての
-  [国王（Yang di-Pertuan Agong）](/glossary/yang-di-pertuan-agong)の地位、
+  [国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)の地位、
   並びに立法、行政及び司法の各機関の構造。
 - **各州** ——州憲法、統治者会議、及び連邦と州との関係。
 - **権限の配分** ——Ninth Schedule（第九附則）は連邦リスト、州リスト及び共通

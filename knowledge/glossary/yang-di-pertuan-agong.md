@@ -24,7 +24,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/yang-di-pertuan-agong"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
@@ -38,7 +42,7 @@ revisions:
     reviewer: null
 sensitivity: "royalty"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Federal Constitution (Reprint as at 15 October 2020)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -88,7 +92,7 @@ framework: explainer
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
 When Parliament is dissolved, all 222
-[Dewan Rakyat](/en/glossary/dewan-rakyat) seats fall vacant and every member
+[Dewan Rakyat](/en/government/dewan-rakyat) seats fall vacant and every member
 must contest again. The 70 members of the Dewan Negara do not. Their term of
 office, under Article 45(3) of the Federal Constitution,
 "is not affected by the dissolution of Parliament."
@@ -106,7 +110,7 @@ di-Pertuan Agong and two Houses: Dewan Negara and Dewan Rakyat.
 
 Its members are called **Senators**. None of them is elected by ordinary
 voters. They are either **elected by the State Legislative Assembly** or
-**appointed by the [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)**.
+**appointed by the [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong)**.
 
 ## Dewan Negara versus Dewan Rakyat
 
@@ -121,7 +125,7 @@ voters. They are either **elected by the State Legislative Assembly** or
 | Presiding officer | President of the Dewan Negara | Speaker of the Dewan Rakyat |
 
 A full account of the other House is in the article
-[Dewan Rakyat](/en/glossary/dewan-rakyat).
+[Dewan Rakyat](/en/government/dewan-rakyat).
 
 One more difference that is easy to overlook: Article 43(2)(a) requires the
 Prime Minister to be a **member of the Dewan Rakyat**, but Article 43(2)(b)
@@ -268,8 +272,8 @@ exercised.
 
 ## Related terms
 
-- [Dewan Rakyat](/en/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/en/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong)
 - [Malaysian Parliament](/en/government/parliament)
 - [Federal Constitution](/en/law/federal-constitution)
 - [Federal Territories](/en/glossary/wilayah-persekutuan)

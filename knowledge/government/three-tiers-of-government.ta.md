@@ -154,7 +154,7 @@ framework: explainer
 - [Dewan Negara](/ta/government/dewan-negara/)
 - [பிரதமர் துறை](/ta/government/prime-ministers-department/)
 - [மலேசியாவின் பொது சேவை](/ta/government/public-service/)
-- [Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong/)
 - [Menteri Besar அல்லது Ketua Menteri](/ta/glossary/menteri-besar/)
 - [எது யார் தீர்மானிக்கிறது](/ta/government/federal-state-division/)
 - [கூட்டாட்சிப் பிரதேசங்கள்](/ta/government/federal-territories-governance/)

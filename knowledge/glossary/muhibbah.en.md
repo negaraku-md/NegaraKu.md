@@ -101,7 +101,7 @@ namely active goodwill and openness.
 
 It should be noted that muhibbah is a concept widely applied in public
 discourse, and its meaning is often associated with principles of unity such
-as those contained in the [Rukun Negara](/en/glossary/rukun-negara). This
+as those contained in the [Rukun Negara](/en/malaysia/rukun-negara). This
 article describes the term and its usage descriptively, without taking sides
 with any particular political interpretation.
 

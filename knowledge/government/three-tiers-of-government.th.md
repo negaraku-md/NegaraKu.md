@@ -154,7 +154,7 @@ framework: explainer
 - [Dewan Negara](/th/government/dewan-negara/)
 - [สำนักนายกรัฐมนตรี](/th/government/prime-ministers-department/)
 - [ราชการพลเรือนของมาเลเซีย](/th/government/public-service/)
-- [ยังดีเปอร์ตวนอากง (Yang di-Pertuan Agong)](/th/glossary/yang-di-pertuan-agong/)
+- [ยังดีเปอร์ตวนอากง (Yang di-Pertuan Agong)](/th/government/yang-di-pertuan-agong/)
 - [เมินเตอรีเบอซาร์หรือเกอตัวเมินเตอรี](/th/glossary/menteri-besar/)
 - [ใครตัดสินเรื่องใด](/th/government/federal-state-division/)
 - [ดินแดนสหพันธ์](/th/government/federal-territories-governance/)

@@ -203,7 +203,7 @@ yang sama sebagai ketua negeri konstitusional:
 
 **"Ada Sultan Malaysia."** Tidak ada. Tidak ada seorang Sultan bagi seluruh Malaysia.
 Sembilan negara bagian memiliki Raja masing-masing yang setaraf, dan Ketua Utama Negara
-adalah [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong) yang dipilih
+adalah [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong) yang dipilih
 bergilir dari kalangan sembilan Raja itu.
 
 **"Yang di-Pertua Negeri sama seperti Sultan, hanya gelarnya lain."** Tidak sama.
@@ -234,7 +234,7 @@ manusia.
   rujuk [Konstitusi Federal](/id/law/federal-constitution) dalam cetak ulang
   resmi AGC.
 - Untuk memahami bagaimana Yang di-Pertuan Agong dipilih dari kalangan sembilan
-  Raja, lihat [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong).
+  Raja, lihat [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong).
 - Untuk contoh negara bagian tidak beraja secara terperinci, lihat
   [Melaka](/id/states/melaka) dan [Pulau Pinang](/id/states/penang).
 - Untuk model ketua negeri beraja yang dipilih dan bukan diwarisi secara langsung,

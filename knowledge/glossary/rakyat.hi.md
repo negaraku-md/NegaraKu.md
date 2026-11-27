@@ -113,7 +113,7 @@ framework: explainer
 
 - **Dewan Rakyat** — संसद का वह सदन जिसके सदस्य निर्वाचित होते हैं, जो Dewan
   Negara से अलग है जिसके सदस्य मनोनीत होते हैं। देखें
-  [Dewan Rakyat](/en/glossary/dewan-rakyat)।
+  [Dewan Rakyat](/en/government/dewan-rakyat)।
 - **Rukun Negara** — 31 अगस्त 1970 को यांग दी-पर्तुआन अगोंग द्वारा घोषित
   राष्ट्रीय शपथ, जिसे [राष्ट्रीय सुरक्षा
   परिषद](/government/national-security-council-mkn) (MKN) के अनुसार «मलेशिया
@@ -135,7 +135,7 @@ framework: explainer
 
 ## संबंधित शब्द
 
-- [Dewan Rakyat](/en/glossary/dewan-rakyat)
+- [Dewan Rakyat](/en/government/dewan-rakyat)
 - [संघीय संविधान](/en/law/federal-constitution)
 - [Merdeka](/en/glossary/merdeka)
 

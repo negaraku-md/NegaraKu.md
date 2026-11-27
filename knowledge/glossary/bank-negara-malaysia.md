@@ -42,6 +42,10 @@ masterLanguage: "en"
 translationStatus: "master"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -53,7 +57,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "Confirm the latest published international reserves figure; the US$116.2 billion / 5.0 months-of-imports figure is as at 31 December 2024 and is updated by BNM twice monthly."

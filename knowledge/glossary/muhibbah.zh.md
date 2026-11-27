@@ -93,7 +93,7 @@ Muhibbah 源自阿拉伯语 *maḥabbah*（محبة），而后者又来自词�
 存在，而 muhibbah 则带有更温暖的意味，即主动的善意与开放。
 
 须留意的是，muhibbah 是一个在公共论述中被广泛使用的概念，其含义常与
-[Rukun Negara](/zh/glossary/rukun-negara)（国家原则）所蕴含的团结原则相关联。
+[Rukun Negara](/zh/malaysia/rukun-negara)（国家原则）所蕴含的团结原则相关联。
 本文以描述性的方式阐述该词及其用法，不偏向任何特定的政治诠释。
 
 ## 常见误解

@@ -173,7 +173,7 @@ fondamental de l'État :
 - **Citoyenneté** — la Partie III établit comment la citoyenneté s'acquiert, se retire et
   se perd.
 - **Institutions fédérales** — la position du
-  [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) comme Chef suprême de
+  [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) comme Chef suprême de
   l'État, et la structure des pouvoirs législatif, exécutif et judiciaire.
 - **Les États** — les constitutions des États, la Conférence des Gouvernants, et la
   relation entre la Fédération et les États.

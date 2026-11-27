@@ -176,7 +176,7 @@ cơ bản của quốc gia:
 - **Quốc tịch** — Phần III quy định cách quốc tịch được có được,
   bị tước và bị chấm dứt.
 - **Các định chế liên bang** — vị thế của
-  [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong) là Nguyên thủ Tối cao
+  [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong) là Nguyên thủ Tối cao
   của quốc gia, cùng cấu trúc của các cơ quan lập pháp, hành pháp và tư pháp.
 - **Các bang** — hiến pháp bang, Hội đồng Quân vương, và mối quan hệ giữa
   Liên bang với các bang.

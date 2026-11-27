@@ -111,5 +111,5 @@ culture shared across races, not belonging to a single community alone.
 ## What's next
 
 To understand the drink that gives every mamak shop its identity, read
-[Teh Tarik](/en/glossary/teh-tarik) — including why it needs to be "pulled"
+[Teh Tarik](/en/food-lifestyle/teh-tarik) — including why it needs to be "pulled"
 and its status as a National Heritage item.

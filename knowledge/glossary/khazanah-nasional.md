@@ -36,6 +36,10 @@ masterLanguage: "en"
 translationStatus: "master"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
@@ -49,7 +53,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Khazanah Nasional Berhad — Member Profile"
     url: "https://www.ifswf.org/member-profiles/khazanah-nasional"

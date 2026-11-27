@@ -37,6 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "จำนวนโครงการริเริ่ม Dana Impak ปี 2025 (บริษัทขนาดกลางกว่า 40 แห่ง; บริษัทเซมิคอนดักเตอร์ 3 แห่ง)—ตรวจสอบกับเนื้อหาฉบับเต็มของ The Khazanah Report 2025"
   - "หุ้นพิเศษหนึ่งหุ้นที่ถือโดยกรรมาธิการที่ดินแห่งสหพันธรัฐ—ตรวจสอบว่ายังเป็นปัจจุบันในข้อบังคับบริษัท/รายงานประจำปีล่าสุดหรือไม่"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian/"

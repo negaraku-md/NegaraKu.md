@@ -94,8 +94,8 @@ Dewan Undangan Negeri (DUN) ialah tempat undi kedua itu membawa maksud. Ia badan
 yang meluluskan undang-undang tanah, undang-undang keluarga Islam, dan enakmen
 kerajaan tempatan bagi sesebuah negeri. Halaman ini menerangkan apa itu DUN,
 siapa ADUN, dan bagaimana peringkat negeri ini selari — namun terpisah —
-daripada [Dewan Rakyat](/glossary/dewan-rakyat) dan
-[Dewan Negara](/glossary/dewan-negara) di peringkat Persekutuan.
+daripada [Dewan Rakyat](/government/dewan-rakyat) dan
+[Dewan Negara](/government/dewan-negara) di peringkat Persekutuan.
 
 ## Sepintas lalu
 
@@ -160,8 +160,8 @@ sebuah negeri ke sebuah negeri yang lain.
 
 ## Mengapa DUN hanya satu dewan sedangkan Parlimen dua?
 
-Parlimen persekutuan mempunyai dua dewan: [Dewan Rakyat](/glossary/dewan-rakyat)
-yang dipilih dan [Dewan Negara](/glossary/dewan-negara) yang sebahagian besarnya
+Parlimen persekutuan mempunyai dua dewan: [Dewan Rakyat](/government/dewan-rakyat)
+yang dipilih dan [Dewan Negara](/government/dewan-negara) yang sebahagian besarnya
 dilantik. Setiap DUN pula hanya mempunyai satu dewan yang dipilih.
 
 Sebabnya terletak pada seksyen 3 Jadual Kelapan, yang menyatakannya dalam satu
@@ -213,7 +213,7 @@ sahkan tarikh tepat terhadap warta rasmi apabila ia menjadi penting.)
 
 Perhatikan perbezaan dengan Dewan Negara: di sana, Perkara 47 menetapkan umur
 minimum yang lebih tinggi bagi seorang Senator. Bagi DUN dan
-[Dewan Rakyat](/glossary/dewan-rakyat), umur kelayakan kini sama, iaitu 18 tahun.
+[Dewan Rakyat](/government/dewan-rakyat), umur kelayakan kini sama, iaitu 18 tahun.
 
 Seksyen 6 menyenaraikan sebab-sebab seseorang **hilang kelayakan** menjadi ahli
 DUN:
@@ -383,7 +383,7 @@ katalog yang lama.
 ## Kesilapan lazim
 
 - **Mengelirukan DUN dengan Dewan Negara.** DUN ialah badan perundangan sesebuah
-  negeri; [Dewan Negara](/glossary/dewan-negara) ialah dewan atasan Parlimen
+  negeri; [Dewan Negara](/government/dewan-negara) ialah dewan atasan Parlimen
   persekutuan. Nama "Dewan Negeri" yang digunakan sesetengah negeri merujuk DUN,
   bukan Dewan Negara.
 - **Menganggap bilangan kerusi DUN ditetapkan dalam Perlembagaan Persekutuan.**
@@ -403,8 +403,8 @@ katalog yang lama.
 
 ## Istilah berkaitan
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) — dewan Parlimen persekutuan yang dipilih
-- [Dewan Negara](/glossary/dewan-negara) — dewan atasan Parlimen persekutuan
+- [Dewan Rakyat](/government/dewan-rakyat) — dewan Parlimen persekutuan yang dipilih
+- [Dewan Negara](/government/dewan-negara) — dewan atasan Parlimen persekutuan
 - [Menteri Besar atau Ketua Menteri](/glossary/menteri-besar) — ketua kerajaan negeri
 - [Dewan Undangan Negeri: keterangan perlembagaan penuh](/government/state-assemblies-dun) — huraian mendalam Jadual Kelapan
 - [Siapa membuat undang-undang apa: Senarai Persekutuan, Negeri dan Bersama](/government/federal-state-division)
@@ -422,7 +422,7 @@ Perlembagaan Persekutuan.
 Untuk melihat DUN dalam gambaran yang lebih luas, teruskan ke
 [pembahagian kuasa persekutuan–negeri](/government/federal-state-division) bagi
 memahami perkara yang boleh dibuat undang-undang oleh sesebuah DUN, atau ke
-[Dewan Rakyat](/glossary/dewan-rakyat) untuk membandingkan peringkat negeri
+[Dewan Rakyat](/government/dewan-rakyat) untuk membandingkan peringkat negeri
 dengan peringkat Persekutuan.
 
 ---

@@ -219,9 +219,9 @@ section records the differing positions descriptively, without taking any side.
 
 ## Related terms
 
-- [Dewan Rakyat](/glossary/dewan-rakyat)
-- [Dewan Negara](/glossary/dewan-negara)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/government/dewan-rakyat)
+- [Dewan Negara](/government/dewan-negara)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)
 - [Federal Constitution](/law/federal-constitution)
 - [Warta Kerajaan](/glossary/warta-kerajaan)
 
@@ -235,8 +235,8 @@ Schedule section that supports it, and verify it against the current text of the
 Federal Constitution, because these provisions have been amended many times.
 
 To see how the seats filled through these elections form Parliament, continue to
-[Dewan Rakyat](/glossary/dewan-rakyat) and
-[Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong).
+[Dewan Rakyat](/government/dewan-rakyat) and
+[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong).
 
 ---
 

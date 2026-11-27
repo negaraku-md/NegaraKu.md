@@ -37,6 +37,10 @@ translationStatus: "in-sync"
 sourceContentHash: "35908be1bdb63e4b"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "2025年のDana Impakの取り組みに関する件数（中規模企業40社超、半導体企業3社）——*The Khazanah Report 2025*の全文と照合して確認すること。"
   - "連邦土地専員が保有する特別株1株——最新の定款・年次報告書においても現在も有効かどうか確認すること。"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian/"

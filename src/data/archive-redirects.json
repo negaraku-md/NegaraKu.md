@@ -2,6 +2,13 @@
   "_comment": "Managed by scripts/archive-article.mjs. Keys are BASE (ms, no locale prefix) paths of archived topics; values are their successor's base path. astro.config.mjs expands each entry to all 13 locales (ms bare, others /<lang>-prefixed) and merges it UNDER the hand-written redirects map (curated entries always win). Do not hand-edit unless you know the expansion rule.",
   "redirects": {
     "/economy/securities-commission-malaysia": "/finance/securities-commission-malaysia",
+    "/glossary/annual-return": "/company-secretary/annual-return",
+    "/glossary/dewan-negara": "/government/dewan-negara",
+    "/glossary/dewan-rakyat": "/government/dewan-rakyat",
+    "/glossary/rukun-negara": "/malaysia/rukun-negara",
+    "/glossary/teh-tarik": "/food-lifestyle/teh-tarik",
+    "/glossary/yang-di-pertuan-agong": "/government/yang-di-pertuan-agong",
+    "/government/federal-constitution": "/law/federal-constitution",
     "/law/environmental-quality-act-1974": "/environment/environmental-quality-act-1974",
     "/law/real-property-gains-tax": "/property/real-property-gains-tax",
     "/law/suhakam-human-rights-commission": "/government/suhakam-human-rights-commission",

@@ -75,4 +75,4 @@ RM2로 설립하는 것도 법적으로 유효합니다. 그러나 실무에서 
 ## 관련 용어
 
 - [Sdn Bhd](/ko/glossary/sdn-bhd)
-- [연례 신고서](/ko/glossary/annual-return)
+- [연례 신고서](/ko/company-secretary/annual-return)

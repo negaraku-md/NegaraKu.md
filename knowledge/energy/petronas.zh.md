@@ -34,6 +34,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/companies/petronas"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -51,7 +55,7 @@ verificationNeeded:
   - "下游业务 FY2024 业绩：综合报告呈列的是下游业务的税后亏损；所显示的 RM1.7 billion 是不计 Engen Group 剥离并表影响的数字。请核实确切的报告数字及脚注措辞。"
   - "PDA 1974 的措辞：所引述的描述沿用 Malaysia Petroleum Management 的监管概述，而这只是对该法令的摘要。若要引用法令本身，请对照第一手立法文本确认逐字的法定用语（相关条文提及勘探、开采、获取及取得石油）。"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Malaysia Petroleum Management — Regulatory Overview"
     url: "https://www.petronas.com/mpm/regulatory/overview"

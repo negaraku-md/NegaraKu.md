@@ -145,7 +145,7 @@ Adat Perpatih-ஐ வகைப்படுத்தும் suku மற்ற�
 
 - [நேகிரி செம்பிலான் (Negeri Sembilan)](/ta/states/negeri-sembilan) — Adat Perpatih நடைமுறையில் உள்ள மாநிலம்
 - [மலாக்கா (Melaka)](/ta/states/melaka) — நானிங் மாவட்டத்தைக் கொண்டுள்ள மாநிலம்
-- [Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong) — அரச ஆட்சி நிறுவனத்துடன் ஒப்பிடுவதற்கு
+- [Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong) — அரச ஆட்சி நிறுவனத்துடன் ஒப்பிடுவதற்கு
 - [Syariah (ஷரியா)](/ta/glossary/syariah) — அடாட்டுடன் இணைந்து செயல்படும் மத சட்ட முறைமை
 - [கூட்டாட்சி அரசியலமைப்பு (Federal Constitution)](/ta/law/federal-constitution) — "Melayu" வரையறை மற்றும் மலாய் அடாட் குறிப்பீடு
 

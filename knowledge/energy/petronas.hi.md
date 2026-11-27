@@ -34,6 +34,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/companies/petronas"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -51,7 +55,7 @@ verificationNeeded:
   - "Downstream FY2024 परिणाम: Integrated Report में Downstream का कर-पश्चात घाटा दर्शाया गया है; दिखाया गया RM1.7 billion वह आँकड़ा है जिसमें Engen Group के समेकन-निष्कासन (deconsolidation) का प्रभाव सम्मिलित नहीं है। रिपोर्ट किए गए सटीक आँकड़े और पादटिप्पणी के शब्दों की पुष्टि करें।"
   - "PDA 1974 के शब्द: उद्धृत विवरण Malaysia Petroleum Management के नियामक अवलोकन (regulatory overview) का अनुसरण करता है, जो केवल कानून का सारांश है। यदि कानून को ही उद्धृत करना हो, तो प्राथमिक विधायी पाठ से मिलान कर शब्दशः वैधानिक भाषा की पुष्टि करें (संबंधित धारा पेट्रोलियम के अन्वेषण, दोहन, प्राप्ति और अभिग्रहण का उल्लेख करती है)।"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Malaysia Petroleum Management — Regulatory Overview"
     url: "https://www.petronas.com/mpm/regulatory/overview"

@@ -31,7 +31,11 @@ sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Hiến pháp Liên bang (Bản in lại tính đến ngày 15 tháng 10 năm 2020) — các Điều 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 và ghi chú sửa đổi (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -147,7 +151,7 @@ mốt tuổi"* bằng *"mười tám tuổi"* trong Điều 47(b). Bản in lạ
 ngày 15 tháng 10 năm 2020 đã chứa sửa đổi này — bất kỳ bản Hiến pháp nào
 trước ngày có hiệu lực đó sẽ cho thấy con số cũ.
 
-Hãy so sánh với [Dewan Negara](/vi/glossary/dewan-negara): Điều 47(a)
+Hãy so sánh với [Dewan Negara](/vi/government/dewan-negara): Điều 47(a)
 ấn định tuổi tối thiểu 30 ở đó. Khác biệt về tuổi đó là
 khác biệt điều kiện cơ bản duy nhất giữa hai Viện trong Điều 47.
 
@@ -175,7 +179,7 @@ bất kỳ một Viện nào của Nghị viện:
   tuyên bố trung thành với một quốc gia nước ngoài.
 
 Việc mất tư cách theo hai lý do liên quan đến bản kê khai chi phí và
-kết án có thể được [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong)
+kết án có thể được [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong)
 hủy bỏ; nếu không, nó chấm dứt sau **năm năm** (Điều 48(3)). Còn Điều 48(4) thì hoãn
 hiệu lực của việc mất tư cách do kết án trong 14 ngày, và lâu hơn
 nữa nếu có kháng cáo hoặc đơn xin ân xá được nộp.
@@ -274,10 +278,10 @@ nào của Nghị viện.
 ## Thuật ngữ liên quan
 
 - [Nghị viện Malaysia](/vi/government/parliament)
-- [Dewan Negara](/vi/glossary/dewan-negara)
+- [Dewan Negara](/vi/government/dewan-negara)
 - [Hiến pháp Liên bang](/vi/law/federal-constitution)
 - [Một dự luật trở thành luật như thế nào](/vi/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong)
+- [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong)
 - [Lãnh thổ Liên bang](/vi/glossary/wilayah-persekutuan)
 
 ## Tiếp theo
@@ -291,7 +295,7 @@ lưu hành trực tuyến thường cũ hơn ta tưởng.
 Để thấy 222 ghế này phối hợp với viện còn lại
 trong việc thông qua luật như thế nào, hãy tiếp tục đến
 [Nghị viện Malaysia](/vi/government/parliament) và
-[Dewan Negara](/vi/glossary/dewan-negara).
+[Dewan Negara](/vi/government/dewan-negara).
 
 ---
 

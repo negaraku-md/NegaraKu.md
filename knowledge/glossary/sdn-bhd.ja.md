@@ -67,4 +67,4 @@ Sdn Bhdは、責任保護を望み、投資の獲得を計画し、又は従業�
 ## 関連用語
 
 - [実払込資本](/glossary/paid-up-capital)
-- [年次報告書](/glossary/annual-return)
+- [年次報告書](/company-secretary/annual-return)

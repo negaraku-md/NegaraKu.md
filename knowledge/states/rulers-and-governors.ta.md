@@ -217,7 +217,7 @@ Negeri-களைப் பதிவு செய்கிறது.
 ஒரு Sultan கிடையாது. ஒன்பது மாநிலங்களுக்கு சம அந்தஸ்துள்ள தனித்தனி அரசர்கள்
 உள்ளனர், மேலும் நாட்டின் உச்சத் தலைவர் என்பவர் அந்த ஒன்பது அரசர்களுக்கு
 மத்தியிலிருந்து சுழற்சி முறையில் தேர்ந்தெடுக்கப்படும்
-[Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong).
+[Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong).
 
 **“Yang di-Pertua Negeri என்பவர் Sultan போலவே, பட்டம் மட்டுமே வேறு.”** சமமல்ல.
 Yang di-Pertua Negeri பதவி நியமிக்கப்படுகிறது, நான்கு ஆண்டுக் காலம் கொண்டது,
@@ -251,7 +251,7 @@ Besar) ஆகியவை அரசர் உள்ள ஒன்பது மா
   [Federal Constitution](/ta/law/federal-constitution)-ஐப் பார்க்கவும்.
 - Yang di-Pertuan Agong ஒன்பது அரசர்களுக்கு மத்தியிலிருந்து எவ்வாறு
   தேர்ந்தெடுக்கப்படுகிறார் என்பதைப் புரிந்துகொள்ள,
-  [Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong)-ஐப் பார்க்கவும்.
+  [Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong)-ஐப் பார்க்கவும்.
 - அரசர் இல்லாத மாநிலத்திற்கான விரிவான உதாரணத்திற்கு,
   [Melaka](/ta/states/melaka) மற்றும் [Pulau Pinang](/ta/states/penang)-ஐப்
   பார்க்கவும்.

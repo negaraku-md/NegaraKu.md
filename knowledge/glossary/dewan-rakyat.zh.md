@@ -31,7 +31,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "9b43f0c692cc687d"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "联邦宪法（截至2020年10月15日重印本）— 第43、46、47、48、52、54、55、57、59、62、67、68条及修订注记 (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -139,7 +143,7 @@ framework: explainer
 2020年10月15日的重印本已纳入此项修正——任何早于该生效日期的宪法版本，所示
 的仍是旧数字。
 
-与[上议院（Dewan Negara）](/zh/glossary/dewan-negara)相比：第47(a)条在该院
+与[上议院（Dewan Negara）](/zh/government/dewan-negara)相比：第47(a)条在该院
 将最低年龄定为30岁。这项年龄差异，是第47条下两院之间唯一的基本资格差异。
 
 当选后，第59(1)条规定每名议员须在就任议席前，按照第六附表（Sixth Schedule）
@@ -160,7 +164,7 @@ framework: explainer
 - 自愿取得或行使外国国籍，或向外国作出效忠宣誓。
 
 因选举开支报表及定罪这两项理由而丧失的资格，可由
-[最高元首（Yang di-Pertuan Agong）](/zh/glossary/yang-di-pertuan-agong)撤
+[最高元首（Yang di-Pertuan Agong）](/zh/government/yang-di-pertuan-agong)撤
 销；否则该失格状态于**五年**后自动终止（第48(3)条）。第48(4)条则将因定罪而
 产生的丧失资格效力暂缓14天，若提出上诉或赦免呈请，暂缓期更长。
 
@@ -234,10 +238,10 @@ framework: explainer
 ## 相关术语
 
 - [马来西亚国会](/zh/government/parliament)
-- [上议院（Dewan Negara）](/zh/glossary/dewan-negara)
+- [上议院（Dewan Negara）](/zh/government/dewan-negara)
 - [联邦宪法](/zh/law/federal-constitution)
 - [法案如何成为法律](/zh/law/how-a-bill-becomes-law)
-- [最高元首（Yang di-Pertuan Agong）](/zh/glossary/yang-di-pertuan-agong)
+- [最高元首（Yang di-Pertuan Agong）](/zh/government/yang-di-pertuan-agong)
 - [联邦直辖区（Wilayah Persekutuan）](/zh/glossary/wilayah-persekutuan)
 
 ## 下一步
@@ -248,7 +252,7 @@ framework: explainer
 
 若想了解这222个议席如何与另一议院协作以通过法律，请继续阅读
 [马来西亚国会](/zh/government/parliament)与
-[上议院（Dewan Negara）](/zh/glossary/dewan-negara)。
+[上议院（Dewan Negara）](/zh/government/dewan-negara)。
 
 ---
 

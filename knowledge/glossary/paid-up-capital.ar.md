@@ -78,4 +78,4 @@ wikidata: "Q7124665"
 ## مصطلحات ذات صلة
 
 - [Sdn Bhd](/glossary/sdn-bhd)
-- [البيان السنوي](/glossary/annual-return)
+- [البيان السنوي](/company-secretary/annual-return)

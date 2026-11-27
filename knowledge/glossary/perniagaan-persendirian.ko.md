@@ -153,5 +153,5 @@ framework: explainer
 ## 다음 단계
 
 - 결정하기 전에 세 가지 주요 구조를 [Sdn Bhd](/ko/glossary/sdn-bhd)와 [LLP](/ko/glossary/llp) 항목에서 나란히 비교하십시오.
-- 나중에 회사를 등록한다면, 그것은 [연례 신고서](/ko/glossary/annual-return) 같은 더 무거운 의무를 수반한다는 점에 유의하십시오.
+- 나중에 회사를 등록한다면, 그것은 [연례 신고서](/ko/company-secretary/annual-return) 같은 더 무거운 의무를 수반한다는 점에 유의하십시오.
 - 등록하기 전에, 관보에 게재된 수수료가 바뀔 수 있으므로 현재 수수료와 상호 승인 요건을 SSM의 ezbiz 포털에서 직접 확인하십시오.

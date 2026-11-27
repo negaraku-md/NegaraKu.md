@@ -31,7 +31,11 @@ sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "கூட்டாட்சி அரசியலமைப்பு (2020 அக்டோபர் 15 நிலவரப்படி மறுபதிப்பு) — பிரிவுகள் 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 மற்றும் திருத்தக் குறிப்புகள் (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -153,7 +157,7 @@ Article 47 அடிப்படை நிபந்தனையை ஒரே வ
 மறுபதிப்பு இந்தத் திருத்தத்தை ஏற்கனவே உள்ளடக்கியுள்ளது — அந்த அமல் தேதிக்கு
 முந்தைய அரசியலமைப்பின் எந்தப் பிரதியும் பழைய எண்ணைக் காட்டும்.
 
-[Dewan Negara](/ta/glossary/dewan-negara)-வுடன் ஒப்பிடுங்கள்: Article 47(a)
+[Dewan Negara](/ta/government/dewan-negara)-வுடன் ஒப்பிடுங்கள்: Article 47(a)
 அங்கு 30 வயது என்ற குறைந்தபட்ச வயதை நிர்ணயிக்கிறது. Article 47-இன் கீழ் இரு
 அவைகளுக்கும் இடையிலான ஒரே அடிப்படைத் தகுதி வித்தியாசம் அந்த வயது
 வித்தியாசமே.
@@ -184,7 +188,7 @@ Article 47 அடிப்படை நிபந்தனையை ஒரே வ
 
 செலவுக் கணக்கு மற்றும் குற்றத்தீர்ப்பு தொடர்பான இரண்டு காரணங்களின் கீழ்
 ஏற்படும் தகுதி இழப்பை [Yang di-Pertuan
-Agong](/ta/glossary/yang-di-pertuan-agong) நீக்கலாம்; இல்லையெனில், அது
+Agong](/ta/government/yang-di-pertuan-agong) நீக்கலாம்; இல்லையெனில், அது
 **ஐந்து ஆண்டுகளுக்குப்** பிறகு முடிவடைகிறது (Article 48(3)). Article
 48(4)-ஆனது ஒரு குற்றத்தீர்ப்பினால் ஏற்படும் தகுதி இழப்பின் அமலை 14
 நாட்களுக்கு ஒத்திவைக்கிறது, மேலும் ஒரு மேல்முறையீடு அல்லது மன்னிப்புக்
@@ -294,10 +298,10 @@ Article 43(2)(a) வழங்குகிறது. பிற அமைச்ச
 ## தொடர்புடைய சொற்கள்
 
 - [மலேசிய நாடாளுமன்றம் (Parliament of Malaysia)](/ta/government/parliament)
-- [Dewan Negara](/ta/glossary/dewan-negara)
+- [Dewan Negara](/ta/government/dewan-negara)
 - [கூட்டாட்சி அரசியலமைப்பு (Federal Constitution)](/ta/law/federal-constitution)
 - [ஒரு மசோதா எவ்வாறு சட்டமாகிறது (How a Bill Becomes Law)](/ta/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong)
+- [Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong)
 - [கூட்டாட்சிப் பிரதேசங்கள் (Federal Territories)](/ta/glossary/wilayah-persekutuan)
 
 ## அடுத்தது என்ன
@@ -312,7 +316,7 @@ Dewan Rakyat பற்றிய ஒரு கூற்றை நீங்கள�
 இந்த 222 இருக்கைகள் சட்டங்களை நிறைவேற்றுவதில் மற்றொரு அவையுடன் எவ்வாறு இணைந்து
 செயல்படுகின்றன என்பதைக் காண, [மலேசிய
 நாடாளுமன்றத்திற்கும்](/ta/government/parliament)
-[Dewan Negara](/ta/glossary/dewan-negara)-வுக்கும் தொடருங்கள்.
+[Dewan Negara](/ta/government/dewan-negara)-வுக்கும் தொடருங்கள்.
 
 ---
 

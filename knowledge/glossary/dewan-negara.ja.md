@@ -30,7 +30,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "557a7189c48a772b"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -43,7 +47,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "連邦憲法（2020年再版）— マレー語版 (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -85,7 +89,7 @@ framework: explainer
 
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
-国会が解散すると、[下院（Dewan Rakyat）](/glossary/dewan-rakyat)の222議席
+国会が解散すると、[下院（Dewan Rakyat）](/government/dewan-rakyat)の222議席
 すべてが空席となり、議員は全員、改めて選挙に立候補しなければならない。上院
 （Dewan Negara）の70名の議員はそうではない。連邦憲法第45(3)条によれば、彼
 らの任期は「国会の解散によって影響を受けない」。
@@ -102,7 +106,7 @@ Rakyat）——から成ると定めている。
 
 その議員は**上院議員（Senator）**と呼ばれる。彼らのうち誰一人として、一般有
 権者によって選出された者はいない。彼らは**州議会（Dewan Undangan Negeri）
-によって選出される**か、**[国王（Yang di-Pertuan Agong）](/glossary/yang-di-pertuan-agong)
+によって選出される**か、**[国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)
 によって任命される**かのいずれかである。
 
 ## 上院と下院の違い
@@ -117,7 +121,7 @@ Rakyat）——から成ると定めている。
 | 国会解散の影響 | 任期は影響を受けない | 全議席が空席となる |
 | 議長 | 上院議長 | 下院議長 |
 
-もう一方の議院についての詳しい説明は、[下院（Dewan Rakyat）](/glossary/dewan-rakyat)
+もう一方の議院についての詳しい説明は、[下院（Dewan Rakyat）](/government/dewan-rakyat)
 の記事にある。
 
 もう一つ、見落とされやすい違いがある。第43(2)(a)条は首相が**下院議員**で
@@ -253,8 +257,8 @@ Rakyat）——から成ると定めている。
 
 ## 関連用語
 
-- [下院（Dewan Rakyat）](/glossary/dewan-rakyat)
-- [国王（Yang di-Pertuan Agong）](/glossary/yang-di-pertuan-agong)
+- [下院（Dewan Rakyat）](/government/dewan-rakyat)
+- [国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)
 - [マレーシア国会](/government/parliament)
 - [連邦憲法](/law/federal-constitution)
 - [連邦直轄区（Wilayah Persekutuan）](/glossary/wilayah-persekutuan)

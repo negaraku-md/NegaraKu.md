@@ -113,7 +113,7 @@ Malaysian government bodies and programmes:
 
 - **Dewan Rakyat** — the House of Parliament whose members are elected,
   as distinct from the Dewan Negara whose members are appointed. See
-  [Dewan Rakyat](/en/glossary/dewan-rakyat).
+  [Dewan Rakyat](/en/government/dewan-rakyat).
 - **Rukun Negara** — the national pledge proclaimed by the Yang
   di-Pertuan Agong on 31 August 1970, to be "held, guided by and
   practised by the whole rakyat of Malaysia", according to the [National
@@ -138,7 +138,7 @@ that carries legal effect, while "rakyat" does not.
 
 ## Related terms
 
-- [Dewan Rakyat](/en/glossary/dewan-rakyat)
+- [Dewan Rakyat](/en/government/dewan-rakyat)
 - [Federal Constitution](/en/law/federal-constitution)
 - [Merdeka](/en/glossary/merdeka)
 

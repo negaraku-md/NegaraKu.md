@@ -154,7 +154,7 @@ framework: explainer
 - [देवान नेगारा](/hi/government/dewan-negara/)
 - [प्रधानमंत्री विभाग (JPM)](/hi/government/prime-ministers-department/)
 - [मलेशिया की लोक सेवा](/hi/government/public-service/)
-- [Yang di-Pertuan Agong](/hi/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/hi/government/yang-di-pertuan-agong/)
 - [Menteri Besar या Chief Minister](/hi/glossary/menteri-besar/)
 - [कौन क्या तय करता है](/hi/government/federal-state-division/)
 - [संघीय क्षेत्र](/hi/government/federal-territories-governance/)

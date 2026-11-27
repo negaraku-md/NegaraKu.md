@@ -153,5 +153,5 @@ framework: explainer
 ## 接下来
 
 - 在做决定前，先在 [Sdn Bhd](/zh/glossary/sdn-bhd) 和 [LLP](/zh/glossary/llp) 条目中并排比较这三种主要结构。
-- 如果你日后注册公司，请注意它会带来更繁重的义务，例如[年度申报](/zh/glossary/annual-return)。
+- 如果你日后注册公司，请注意它会带来更繁重的义务，例如[年度申报](/zh/company-secretary/annual-return)。
 - 注册前，请直接在 SSM 的 ezbiz 门户上确认当前费用及任何名称批准要求，因为宪报所定费用可能会变动。

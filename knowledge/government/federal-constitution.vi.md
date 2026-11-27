@@ -35,7 +35,11 @@ sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -50,7 +54,7 @@ revisions:
 verificationNeeded:
   - "Xác nhận tiêu đề đầy đủ của Phần XI và XIIA đối chiếu với bản in lại chính thức mới nhất (việc rà soát đã được thực hiện đối chiếu với bản in lại 'As at 15 October 2020')."
   - "Xác nhận danh sách các quy định của Điều 159(5) và các ngoại lệ của Điều 159(4) không thay đổi trong bất kỳ sửa đổi nào sau bản in lại 2020."
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Hiến pháp Liên bang (Bản tái bản, Tính đến ngày 15 tháng 10 năm 2020) — Điều 4, Điều 159, Điều 160, Phần XI (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

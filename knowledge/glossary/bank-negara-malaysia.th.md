@@ -43,6 +43,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "ยืนยันตัวเลขเงินสำรองระหว่างประเทศที่เผยแพร่ล่าสุด ตัวเลข 116.2 พันล้านดอลลาร์สหรัฐ / การนำเข้า 5.0 เดือน เป็นตัวเลข ณ วันที่ 31 ธันวาคม ค.ศ. 2024 และ BNM ปรับปรุงเดือนละสองครั้ง"

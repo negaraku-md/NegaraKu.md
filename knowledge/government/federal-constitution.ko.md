@@ -35,7 +35,11 @@ sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -50,7 +54,7 @@ revisions:
 verificationNeeded:
   - "제XI편과 제XIIA편의 전체 명칭을 최신 공식 재인쇄본과 대조하여 확인할 것(검토는 「2020년 10월 15일 현재」 재인쇄본에 대해 이루어졌음)."
   - "제159조 제(5)항의 조항 목록과 제159조 제(4)항의 예외가 2020년 재인쇄본 이후의 어떠한 개정에서도 변경되지 않았는지 확인할 것."
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "연방헌법 (재발행, 2020년 10월 15일 기준) — 제4조, 제159조, 제160조, 제XI편 (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

@@ -153,7 +153,7 @@ framework: explainer
 - [上议院（Dewan Negara）：上议员如何获得委任，以及本院为何延搁而非否决](/zh/government/dewan-negara/)
 - [首相署：马来西亚的中央协调机构](/zh/government/prime-ministers-department/)
 - [马来西亚公共服务：负责委任的委员会与负责设计制度的部门](/zh/government/public-service/)
-- [最高元首（Yang di-Pertuan Agong）——由推选产生而非世袭的联邦王位](/zh/glossary/yang-di-pertuan-agong/)
+- [最高元首（Yang di-Pertuan Agong）——由推选产生而非世袭的联邦王位](/zh/government/yang-di-pertuan-agong/)
 - [州务大臣或首席部长：为何13个州属采用三种不同称号](/zh/glossary/menteri-besar/)
 - [谁就什么立法：《第九附表》的联邦清单、州清单与共同清单](/zh/government/federal-state-division/)
 - [联邦直辖区：吉隆坡、布城与纳闽如何治理](/zh/government/federal-territories-governance/)

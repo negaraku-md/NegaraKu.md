@@ -96,8 +96,8 @@ tout son sens. C'est l'organe qui adopte les lois foncières, les lois
 islamiques sur la famille et les décrets d'administration locale d'un État.
 Cette page explique ce qu'est la DUN, qui est un ADUN, et comment ce niveau
 étatique fonctionne en parallèle — tout en restant distinct — du
-[Dewan Rakyat](/glossary/dewan-rakyat) et du
-[Dewan Negara](/glossary/dewan-negara) au niveau fédéral.
+[Dewan Rakyat](/government/dewan-rakyat) et du
+[Dewan Negara](/government/dewan-negara) au niveau fédéral.
 
 ## En un coup d'œil
 
@@ -164,8 +164,8 @@ nombre d'ADUN diffère d'un État à l'autre.
 
 ## Pourquoi la DUN n'a-t-elle qu'une seule chambre alors que le Parlement en a deux ?
 
-Le Parlement fédéral a deux chambres : le [Dewan Rakyat](/glossary/dewan-rakyat)
-élu et le [Dewan Negara](/glossary/dewan-negara) en grande partie nommé. Chaque
+Le Parlement fédéral a deux chambres : le [Dewan Rakyat](/government/dewan-rakyat)
+élu et le [Dewan Negara](/government/dewan-negara) en grande partie nommé. Chaque
 DUN, en revanche, n'a qu'une seule chambre élue.
 
 La raison réside dans la section 3 de la huitième annexe, qui l'exprime en une
@@ -219,7 +219,7 @@ auprès du journal officiel lorsqu'elle devient importante.)
 
 Notez la différence avec le Dewan Negara : là, l'article 47 fixe un âge minimal
 plus élevé pour un sénateur. Pour la DUN et le
-[Dewan Rakyat](/glossary/dewan-rakyat), l'âge requis est désormais le même, à
+[Dewan Rakyat](/government/dewan-rakyat), l'âge requis est désormais le même, à
 savoir 18 ans.
 
 La section 6 énumère les motifs pour lesquels une personne est frappée
@@ -401,7 +401,7 @@ catalogue.
 ## Erreurs courantes
 
 - **Confondre la DUN avec le Dewan Negara.** La DUN est le pouvoir législatif
-  d'un État ; le [Dewan Negara](/glossary/dewan-negara) est la chambre haute du
+  d'un État ; le [Dewan Negara](/government/dewan-negara) est la chambre haute du
   Parlement fédéral. Le nom « Dewan Negeri » utilisé par certains États désigne
   la DUN, et non le Dewan Negara.
 - **Supposer que le nombre de sièges de la DUN est fixé dans la Constitution
@@ -423,8 +423,8 @@ catalogue.
 
 ## Termes connexes
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) — la chambre élue du Parlement fédéral
-- [Dewan Negara](/glossary/dewan-negara) — la chambre haute du Parlement fédéral
+- [Dewan Rakyat](/government/dewan-rakyat) — la chambre élue du Parlement fédéral
+- [Dewan Negara](/government/dewan-negara) — la chambre haute du Parlement fédéral
 - [Menteri Besar ou Ministre en chef](/glossary/menteri-besar) — le chef du gouvernement de l'État
 - [Assemblée législative de l'État : exposé constitutionnel complet](/government/state-assemblies-dun) — un traitement approfondi de la huitième annexe
 - [Qui fait quelle loi : les Listes fédérale, des États et concurrente](/government/federal-state-division)
@@ -442,7 +442,7 @@ Constitution fédérale.
 Pour voir la DUN dans un tableau plus large, passez à la
 [répartition des compétences entre la Fédération et les États](/government/federal-state-division)
 pour comprendre sur quoi une DUN peut légiférer, ou au
-[Dewan Rakyat](/glossary/dewan-rakyat) pour comparer le niveau étatique au niveau
+[Dewan Rakyat](/government/dewan-rakyat) pour comparer le niveau étatique au niveau
 fédéral.
 
 ---

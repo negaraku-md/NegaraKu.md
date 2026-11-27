@@ -64,4 +64,4 @@ Sdn Bhdには法定の最低実払込資本額はない——RM1又はRM2の実�
 ## 関連用語
 
 - [Sdn Bhd](/ja/glossary/sdn-bhd)
-- [年次報告書](/ja/glossary/annual-return)
+- [年次報告書](/ja/company-secretary/annual-return)

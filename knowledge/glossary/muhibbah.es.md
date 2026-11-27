@@ -103,7 +103,7 @@ apertura activas.
 
 Conviene recordar que muhibbah es un concepto de uso muy extendido en el
 discurso público, y su significado suele asociarse con principios de unidad como
-los contenidos en el [Rukun Negara](/es/glossary/rukun-negara). Este artículo
+los contenidos en el [Rukun Negara](/es/malaysia/rukun-negara). Este artículo
 describe el término y su uso de manera descriptiva, sin tomar partido por
 ninguna interpretación política en particular.
 

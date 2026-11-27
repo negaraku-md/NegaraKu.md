@@ -114,5 +114,5 @@ framework: explainer
 ## 다음 단계
 
 모든 마막 가게의 정체성이 되는 음료를 이해하려면
-[테 타릭](/ko/glossary/teh-tarik)을 읽으십시오 — 왜 그것을 "당겨야(ditarik)"
+[테 타릭](/ko/food-lifestyle/teh-tarik)을 읽으십시오 — 왜 그것을 "당겨야(ditarik)"
 하는지와 국가유산으로서의 지위를 포함합니다.

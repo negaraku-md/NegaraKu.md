@@ -108,7 +108,7 @@ Pustaka）編纂の**『国語辞典』（Kamus Dewan）**によれば、マレ�
 葉の一つである。
 
 - **Dewan Rakyat** ——議員が選挙によって選出される国会の議院であり、議員が任命
-  されるDewan Negara（上院）とは異なる。[Dewan Rakyat](/glossary/dewan-rakyat)
+  されるDewan Negara（上院）とは異なる。[Dewan Rakyat](/government/dewan-rakyat)
   を参照。
 - **Rukun Negara** ——国王（Yang di-Pertuan Agong）が1970年8月31日に発布した建
   国の誓詞であり、[国家安全保障会議](/government/national-security-council-mkn)
@@ -130,7 +130,7 @@ Pustaka）編纂の**『国語辞典』（Kamus Dewan）**によれば、マレ�
 
 ## 関連用語
 
-- [Dewan Rakyat](/glossary/dewan-rakyat)
+- [Dewan Rakyat](/government/dewan-rakyat)
 - [連邦憲法](/law/federal-constitution)
 - [Merdeka](/glossary/merdeka)
 

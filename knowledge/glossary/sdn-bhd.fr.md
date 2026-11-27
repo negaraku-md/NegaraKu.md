@@ -73,4 +73,4 @@ entreprise individuelle n'entraîne pas.
 ## Termes connexes
 
 - [Capital libéré](/en/glossary/paid-up-capital)
-- [Déclaration annuelle](/en/glossary/annual-return)
+- [Déclaration annuelle](/en/company-secretary/annual-return)

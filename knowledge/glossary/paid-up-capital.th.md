@@ -64,4 +64,4 @@ wikidata: "Q7124665"
 ## คำศัพท์ที่เกี่ยวข้อง
 
 - [Sdn Bhd](/th/glossary/sdn-bhd)
-- [รายงานประจำปี (Annual Return)](/th/glossary/annual-return)
+- [รายงานประจำปี (Annual Return)](/th/company-secretary/annual-return)

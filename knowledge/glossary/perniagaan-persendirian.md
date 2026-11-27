@@ -152,5 +152,5 @@ Suppose Siti starts selling homemade kuih online. She registers "Siti Kuih Nyony
 ## What's next
 
 - Compare the three main structures side by side in the [Sdn Bhd](/en/glossary/sdn-bhd) and [LLP](/en/glossary/llp) entries before you decide.
-- If you register a company later, note that it carries heavier obligations such as the [annual return](/en/glossary/annual-return).
+- If you register a company later, note that it carries heavier obligations such as the [annual return](/en/company-secretary/annual-return).
 - Before registering, confirm the current fees and any name-approval requirements directly on SSM's ezbiz portal, since gazetted fees can change.

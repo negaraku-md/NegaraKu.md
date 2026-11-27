@@ -145,7 +145,7 @@ The full background to these provisions is in the [Federal Constitution](/en/law
 
 - [Negeri Sembilan](/en/states/negeri-sembilan) — the state that practises Adat Perpatih
 - [Melaka](/en/states/melaka) — the state that contains the Naning district
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong) — for comparison with the institution of rulership
+- [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong) — for comparison with the institution of rulership
 - [Syariah](/en/glossary/syariah) — the religious legal system that functions alongside adat
 - [Federal Constitution](/en/law/federal-constitution) — the definition of "Malay" and the reference to Malay custom
 

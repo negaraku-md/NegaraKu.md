@@ -93,8 +93,8 @@ framework: explainer
 والمجلس التشريعي للولاية (DUN) هو حيث يكتسب ذلك الصوت الثاني معناه. فهو الهيئة
 التي تسنّ قوانين الأراضي، وقوانين الأحوال الشخصية الإسلامية، وتشريعات الحكم
 المحلي لولاية. وتشرح هذه الصفحة ما هو الـDUN، ومن هو الـADUN، وكيف يجري هذا
-المستوى الولائي موازيًا لـ[Dewan Rakyat](/glossary/dewan-rakyat)
-و[Dewan Negara](/glossary/dewan-negara) على المستوى الاتحادي — لكن منفصلًا
+المستوى الولائي موازيًا لـ[Dewan Rakyat](/government/dewan-rakyat)
+و[Dewan Negara](/government/dewan-negara) على المستوى الاتحادي — لكن منفصلًا
 عنهما.
 
 ## لمحة سريعة
@@ -152,8 +152,8 @@ framework: explainer
 
 ## لماذا للـDUN مجلس واحد فقط بينما للبرلمان مجلسان؟
 
-للبرلمان الاتحادي مجلسان: [Dewan Rakyat](/glossary/dewan-rakyat) المنتخَب
-و[Dewan Negara](/glossary/dewan-negara) المعيَّن في معظمه. أما كل DUN، في
+للبرلمان الاتحادي مجلسان: [Dewan Rakyat](/government/dewan-rakyat) المنتخَب
+و[Dewan Negara](/government/dewan-negara) المعيَّن في معظمه. أما كل DUN، في
 المقابل، فله مجلس منتخَب واحد فقط.
 
 والسبب يكمن في القسم 3 من الجدول الثامن الذي ينصّ عليه في جملة واحدة: **تتألف
@@ -198,7 +198,7 @@ framework: explainer
 مراحل؛ تحقّق من التاريخ الدقيق إزاء الجريدة الرسمية حين يصبح مهمًا.)
 
 لاحظ الفرق مع Dewan Negara: فهناك تحدّد المادة 47 حدًّا أدنى أعلى للسن لعضو مجلس
-الشيوخ. أما بالنسبة للـDUN و[Dewan Rakyat](/glossary/dewan-rakyat)، فسن الأهلية
+الشيوخ. أما بالنسبة للـDUN و[Dewan Rakyat](/government/dewan-rakyat)، فسن الأهلية
 الآن واحد، وهو 18 سنة.
 
 يُعدّد القسم 6 الأسباب التي يفقد بها الشخص كفاءته ليكون عضوًا في الـDUN:
@@ -341,7 +341,7 @@ framework: explainer
 ## أخطاء شائعة
 
 - **الخلط بين الـDUN وDewan Negara.** الـDUN هو الهيئة التشريعية لولاية؛ أما
-  [Dewan Negara](/glossary/dewan-negara) فهو المجلس الأعلى للبرلمان الاتحادي.
+  [Dewan Negara](/government/dewan-negara) فهو المجلس الأعلى للبرلمان الاتحادي.
   والاسم «Dewan Negeri» الذي تستخدمه بعض الولايات يشير إلى الـDUN، لا إلى
   Dewan Negara.
 - **افتراض أن عدد مقاعد الـDUN محدَّد في الدستور الاتحادي.** ليس كذلك. فالقسم
@@ -359,8 +359,8 @@ framework: explainer
 
 ## مصطلحات ذات صلة
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) — المجلس المنتخَب للبرلمان الاتحادي
-- [Dewan Negara](/glossary/dewan-negara) — المجلس الأعلى للبرلمان الاتحادي
+- [Dewan Rakyat](/government/dewan-rakyat) — المجلس المنتخَب للبرلمان الاتحادي
+- [Dewan Negara](/government/dewan-negara) — المجلس الأعلى للبرلمان الاتحادي
 - [Menteri Besar أو رئيس الوزراء](/glossary/menteri-besar) — رئيس حكومة الولاية
 - [المجلس التشريعي للولاية: العرض الدستوري الكامل](/government/state-assemblies-dun) — معالجة متعمّقة للجدول الثامن
 - [من يسنّ أي قانون: القوائم الاتحادية والولائية والمشتركة](/government/federal-state-division)
@@ -375,7 +375,7 @@ framework: explainer
 
 ولرؤية الـDUN في صورة أوسع، انتقل إلى
 [تقسيم السلطات بين الاتحاد والولاية](/government/federal-state-division) لفهم ما
-يجوز للـDUN سنّ قوانين بشأنه، أو إلى [Dewan Rakyat](/glossary/dewan-rakyat)
+يجوز للـDUN سنّ قوانين بشأنه، أو إلى [Dewan Rakyat](/government/dewan-rakyat)
 لمقارنة المستوى الولائي بالمستوى الاتحادي.
 
 ---

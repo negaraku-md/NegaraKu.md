@@ -153,5 +153,5 @@ Andaikan Siti mulai menjual kue buatan sendiri secara daring. Dia mendaftarkan "
 ## Apa yang selanjutnya
 
 - Bandingkan tiga struktur utama secara berdampingan dalam entri [Sdn Bhd](/id/glossary/sdn-bhd) dan [LLP](/id/glossary/llp) sebelum Anda membuat keputusan.
-- Jika Anda mendaftarkan perusahaan kemudian, perhatikan bahwa ia membawa kewajiban yang lebih berat seperti [laporan tahunan](/id/glossary/annual-return).
+- Jika Anda mendaftarkan perusahaan kemudian, perhatikan bahwa ia membawa kewajiban yang lebih berat seperti [laporan tahunan](/id/company-secretary/annual-return).
 - Sebelum mendaftar, verifikasi biaya terkini dan keperluan persetujuan nama apa pun langsung di portal ezbiz SSM, karena biaya yang diwartakan dapat berubah.

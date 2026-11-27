@@ -96,8 +96,8 @@ Lumpur-க்கு அனுப்பத் தேர்ந்தெடுக�
 ஒரு மாநிலத்திற்கான நிலச் சட்டங்கள், இஸ்லாமியக் குடும்பச் சட்டங்கள், மற்றும்
 உள்ளூர் ஆட்சி எனாக்மென்களை நிறைவேற்றும் அமைப்பாகும். DUN என்றால் என்ன, ADUN
 யார், மேலும் இந்த மாநில மட்டம் கூட்டாட்சி மட்டத்திலுள்ள
-[Dewan Rakyat](/ta/glossary/dewan-rakyat) மற்றும்
-[Dewan Negara](/ta/glossary/dewan-negara)-வுக்கு இணையாக — ஆனாலும் தனித்து —
+[Dewan Rakyat](/ta/government/dewan-rakyat) மற்றும்
+[Dewan Negara](/ta/government/dewan-negara)-வுக்கு இணையாக — ஆனாலும் தனித்து —
 எவ்வாறு இயங்குகிறது என்பதை இந்தப் பக்கம் விளக்குகிறது.
 
 ## சுருக்கமாக
@@ -166,8 +166,8 @@ Eighth Schedule-இன் section 4(1)-இன் கீழ் ஒவ்வொர
 ## நாடாளுமன்றத்திற்கு இரண்டு அவைகள் இருக்க, DUN-க்கு ஏன் ஒரே அவை?
 
 கூட்டாட்சி நாடாளுமன்றத்திற்கு இரண்டு அவைகள் உள்ளன: தேர்ந்தெடுக்கப்படும்
-[Dewan Rakyat](/ta/glossary/dewan-rakyat) மற்றும் பெரும்பாலும் நியமிக்கப்படும்
-[Dewan Negara](/ta/glossary/dewan-negara). மாறாக, ஒவ்வொரு DUN-க்கும்
+[Dewan Rakyat](/ta/government/dewan-rakyat) மற்றும் பெரும்பாலும் நியமிக்கப்படும்
+[Dewan Negara](/ta/government/dewan-negara). மாறாக, ஒவ்வொரு DUN-க்கும்
 தேர்ந்தெடுக்கப்படும் ஒரே ஒரு அவை மட்டுமே உண்டு.
 
 இதற்கான காரணம் Eighth Schedule-இன் section 3-இல் உள்ளது, அது ஒரே வாக்கியத்தில்
@@ -221,7 +221,7 @@ Section 5 அடிப்படைத் தேவையை ஒரே வாக�
 
 Dewan Negara-வுடன் உள்ள வித்தியாசத்தைக் கவனியுங்கள்: அங்கு, Article 47 ஒரு
 செனட்டருக்கு உயர்ந்த குறைந்தபட்ச வயதை நிர்ணயிக்கிறது. DUN மற்றும்
-[Dewan Rakyat](/ta/glossary/dewan-rakyat)-க்கு, தகுதி வயது இப்போது ஒரே மாதிரி,
+[Dewan Rakyat](/ta/government/dewan-rakyat)-க்கு, தகுதி வயது இப்போது ஒரே மாதிரி,
 அதாவது 18 ஆண்டுகள்.
 
 Section 6 ஒருவர் DUN-இன் உறுப்பினராகும் **தகுதியை இழக்க** வைக்கும் காரணங்களைப்
@@ -403,7 +403,7 @@ Labuan மற்றும் Putrajaya — DUN இல்லாததால் �
 ## பொதுவான தவறுகள்
 
 - **DUN-ஐ Dewan Negara-வுடன் குழப்பிக்கொள்வது.** DUN என்பது ஒரு மாநிலத்தின்
-  சட்டவாக்க அமைப்பு; [Dewan Negara](/ta/glossary/dewan-negara) என்பது கூட்டாட்சி
+  சட்டவாக்க அமைப்பு; [Dewan Negara](/ta/government/dewan-negara) என்பது கூட்டாட்சி
   நாடாளுமன்றத்தின் மேலவை. சில மாநிலங்கள் பயன்படுத்தும் “Dewan Negeri” என்ற பெயர்
   DUN-ஐக் குறிக்கிறது, Dewan Negara-வை அல்ல.
 - **DUN இருக்கைகளின் எண்ணிக்கை கூட்டாட்சி அரசியலமைப்பில் நிர்ணயிக்கப்பட்டுள்ளது
@@ -425,8 +425,8 @@ Labuan மற்றும் Putrajaya — DUN இல்லாததால் �
 
 ## தொடர்புடைய சொற்கள்
 
-- [Dewan Rakyat](/ta/glossary/dewan-rakyat) — கூட்டாட்சி நாடாளுமன்றத்தின் தேர்ந்தெடுக்கப்படும் அவை
-- [Dewan Negara](/ta/glossary/dewan-negara) — கூட்டாட்சி நாடாளுமன்றத்தின் மேலவை
+- [Dewan Rakyat](/ta/government/dewan-rakyat) — கூட்டாட்சி நாடாளுமன்றத்தின் தேர்ந்தெடுக்கப்படும் அவை
+- [Dewan Negara](/ta/government/dewan-negara) — கூட்டாட்சி நாடாளுமன்றத்தின் மேலவை
 - [Menteri Besar அல்லது Ketua Menteri](/ta/glossary/menteri-besar) — மாநில அரசாங்கத்தின் தலைவர்
 - [மாநில சட்டமன்றம்: முழு அரசியலமைப்பு விளக்கம்](/ta/government/state-assemblies-dun) — Eighth Schedule-இன் ஆழமான விளக்கம்
 - [எந்தச் சட்டத்தை யார் இயற்றுகிறார்: கூட்டாட்சி, மாநில மற்றும் கூட்டுப் பட்டியல்கள்](/ta/government/federal-state-division)
@@ -445,7 +445,7 @@ section-ஐ `lom.agc.gov.my`-இல் உள்ள கூட்டாட்ச�
 DUN-ஐ ஒரு பரந்த சித்திரத்தில் காண, ஒரு DUN எதைப் பற்றி சட்டம் இயற்றலாம் என்பதைப்
 புரிந்துகொள்ள [கூட்டாட்சி–மாநில அதிகாரப் பகிர்வுக்குச்](/ta/government/federal-state-division)
 செல்லுங்கள், அல்லது மாநில மட்டத்தை கூட்டாட்சி மட்டத்துடன் ஒப்பிட
-[Dewan Rakyat](/ta/glossary/dewan-rakyat)-க்குச் செல்லுங்கள்.
+[Dewan Rakyat](/ta/government/dewan-rakyat)-க்குச் செல்லுங்கள்.
 
 ---
 

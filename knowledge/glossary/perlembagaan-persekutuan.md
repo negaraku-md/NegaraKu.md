@@ -175,7 +175,7 @@ asas negara:
 - **Kewarganegaraan** — Bahagian III menetapkan cara kewarganegaraan diperoleh,
   dilucutkan dan ditamatkan.
 - **Institusi persekutuan** — kedudukan
-  [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) sebagai Ketua Utama
+  [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) sebagai Ketua Utama
   Negara, serta struktur badan perundangan, eksekutif dan kehakiman.
 - **Negeri-negeri** — perlembagaan negeri, Majlis Raja-Raja, dan hubungan antara
   Persekutuan dengan negeri.

@@ -144,7 +144,7 @@ Latar penuh peruntukan ini terdapat dalam [Perlembagaan Persekutuan](/law/federa
 
 - [Negeri Sembilan](/states/negeri-sembilan) — negeri yang mengamalkan Adat Perpatih
 - [Melaka](/states/melaka) — negeri yang mengandungi daerah Naning
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) — untuk perbandingan institusi beraja
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) — untuk perbandingan institusi beraja
 - [Syariah](/glossary/syariah) — sistem hukum agama yang berfungsi bersama adat
 - [Perlembagaan Persekutuan](/law/federal-constitution) — takrif "Melayu" dan sebutan adat Melayu
 

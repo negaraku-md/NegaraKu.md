@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -57,7 +61,7 @@ verificationNeeded:
   - "Bài hát Negaraku 'được bảo vệ theo luật quốc ca' (tham chiếu Luật Quốc ca 1968) — chưa được nguồn sơ cấp xác nhận."
   - "Khung 'những hiểu lầm thường gặp' mang tính sư phạm; tần suất thực tế của các hiểu lầm không được nguồn nào đo lường."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Rukun Negara — Tìm hiểu Malaysia (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

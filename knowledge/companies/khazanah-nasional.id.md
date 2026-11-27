@@ -37,6 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "Jumlah inisiatif Dana Impak 2025 (lebih dari 40 perusahaan menengah; 3 perusahaan semikonduktor)—verifikasi terhadap teks lengkap The Khazanah Report 2025."
   - "Satu saham khusus yang dipegang oleh Komisioner Tanah Federal—verifikasi apakah masih berlaku dalam anggaran dasar/laporan tahunan terbaru."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian/"

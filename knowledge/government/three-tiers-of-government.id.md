@@ -154,7 +154,7 @@ Lembaga spesifik yang menjalankan setiap tingkat — beserta kantor dan dokumen 
 - [Dewan Negara](/id/government/dewan-negara/)
 - [Jabatan Perdana Menteri](/id/government/prime-ministers-department/)
 - [Layanan Sipil Malaysia](/id/government/public-service/)
-- [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong/)
 - [Menteri Besar atau Ketua Menteri](/id/glossary/menteri-besar/)
 - [Siapa Menyusun Undang-Undang Mengenai Apa](/id/government/federal-state-division/)
 - [Wilayah Persekutuan](/id/government/federal-territories-governance/)

@@ -152,7 +152,7 @@ framework: explainer
 - [上院（Dewan Negara）：上院議員はどのように任命されるか、そして本院はなぜ否決ではなく遅延にとどまるのか](/ja/government/dewan-negara/)
 - [首相府（Jabatan Perdana Menteri）：マレーシアの中央調整機関](/ja/government/prime-ministers-department/)
 - [マレーシアの公務員制度：任命を行う委員会と制度を設計する部門](/ja/government/public-service/)
-- [国王（Yang di-Pertuan Agong）——世襲ではなく推挙される連邦の王位](/ja/glossary/yang-di-pertuan-agong/)
+- [国王（Yang di-Pertuan Agong）——世襲ではなく推挙される連邦の王位](/ja/government/yang-di-pertuan-agong/)
 - [州首相（Menteri Besar）と首席大臣（Ketua Menteri）：なぜ13州で3つの異なる称号が用いられるのか](/ja/glossary/menteri-besar/)
 - [誰が何を立法するのか：Ninth Schedule（第九附則）の連邦リスト・州リスト・共管リスト](/ja/government/federal-state-division/)
 - [連邦直轄区：クアラルンプール、プトラジャヤ、ラブアンはどう治められているか](/ja/government/federal-territories-governance/)

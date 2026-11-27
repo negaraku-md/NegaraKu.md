@@ -153,5 +153,5 @@ Supongamos que Siti empieza a vender kuih casero en línea. Registra «Siti Kuih
 ## Qué sigue
 
 - Compare las tres estructuras principales lado a lado en las entradas de [Sdn Bhd](/en/glossary/sdn-bhd) y [LLP](/en/glossary/llp) antes de decidir.
-- Si más adelante registra una sociedad, tenga en cuenta que esta conlleva obligaciones más pesadas, como la [declaración anual](/en/glossary/annual-return).
+- Si más adelante registra una sociedad, tenga en cuenta que esta conlleva obligaciones más pesadas, como la [declaración anual](/en/company-secretary/annual-return).
 - Antes de registrarse, confirme las tasas actuales y cualquier requisito de aprobación de nombre directamente en el portal ezbiz de la SSM, ya que las tasas publicadas en el boletín oficial pueden cambiar.

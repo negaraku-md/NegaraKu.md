@@ -154,7 +154,7 @@ framework: explainer
 - [مجلس الشيوخ (Dewan Negara)](/ar/government/dewan-negara/)
 - [دائرة رئيس الوزراء (JPM)](/ar/government/prime-ministers-department/)
 - [الخدمة العامة في ماليزيا](/ar/government/public-service/)
-- [Yang di-Pertuan Agong](/ar/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/ar/government/yang-di-pertuan-agong/)
 - [Menteri Besar أو Chief Minister](/ar/glossary/menteri-besar/)
 - [من يقرر ماذا](/ar/government/federal-state-division/)
 - [الأقاليم الاتحادية](/ar/government/federal-territories-governance/)

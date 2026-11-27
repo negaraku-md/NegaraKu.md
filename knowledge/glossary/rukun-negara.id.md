@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -57,7 +61,7 @@ verificationNeeded:
   - "Lagu Negaraku 'dilindungi di bawah undang-undang lagu kebangsaan' (rujukan Akta Lagu Kebangsaan 1968) — belum diverifikasi sumber primer."
   - "Bingkai 'kesalahan lazim' bersifat pedagogis; frekuensi sebenar kesalahan tidak diukur oleh sumber mana pun."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Rukun Negara — Kenali Malaysia"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

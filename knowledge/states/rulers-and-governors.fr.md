@@ -210,7 +210,7 @@ même caractère fondamental de chefs d'État constitutionnels :
 **«Il existe un Sultan de la Malaisie».** Il n'en existe pas. Il n'y a pas de
 Sultan unique pour l'ensemble de la Malaisie. Neuf États ont chacun leur propre
 Souverain de rang égal, et le Chef d'État est le [Yang di-Pertuan
-Agong](/fr/glossary/yang-di-pertuan-agong), élu par rotation parmi ces neuf
+Agong](/fr/government/yang-di-pertuan-agong), élu par rotation parmi ces neuf
 Souverains.
 
 **«Un Yang di-Pertua Negeri est la même chose qu'un Sultan, simplement avec un
@@ -244,7 +244,7 @@ de brouillon et n'a pas encore fait l'objet d'une revue humaine.
   et 181, consultez la [Constitution fédérale](/fr/law/federal-constitution) dans
   la réimpression officielle de l'AGC.
 - Pour comprendre comment le Yang di-Pertuan Agong est choisi parmi les neuf
-  Souverains, voir [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong).
+  Souverains, voir [Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong).
 - Pour un exemple détaillé d'un État sans Souverain, voir
   [Melaka](/fr/states/melaka) et [Penang](/fr/states/penang).
 - Pour un modèle de chef d'État monarchique choisi par élection plutôt que par

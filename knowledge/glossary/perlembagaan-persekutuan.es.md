@@ -173,7 +173,7 @@ básico del Estado:
 - **Ciudadanía** — la Parte III establece cómo se adquiere, se priva y se
   pierde la ciudadanía.
 - **Instituciones federales** — la posición del
-  [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) como Supremo Jefe del
+  [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) como Supremo Jefe del
   Estado, y la estructura de los poderes legislativo, ejecutivo y judicial.
 - **Los estados** — las constituciones de los estados, la Conferencia de Gobernantes, y la
   relación entre la Federación y los estados.

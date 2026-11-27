@@ -35,7 +35,11 @@ sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -50,7 +54,7 @@ revisions:
 verificationNeeded:
   - "请对照最新官方重印本核实第 XI 与 XIIA 部分的完整标题（已对照 As at 15 October 2020 重印本进行核对）。"
   - "确认 Perkara 159(5) 的条文清单及 Perkara 159(4) 的例外，在 2020 年重印之后的任何修订中均未改变。"
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "联邦宪法(重印本,截至2020年10月15日) — 第4条、第159条、第160条、第十一部分 (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

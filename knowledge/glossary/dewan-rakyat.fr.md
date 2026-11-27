@@ -31,7 +31,11 @@ sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Constitution fédérale (Réimpression au 15 octobre 2020) — articles 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 et notes d'amendement (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -150,7 +154,7 @@ un ans »* par *« dix-huit ans »* à l'article 47(b). La réimpression du 15 o
 intègre déjà cet amendement — toute copie de la Constitution antérieure
 à cette date d'entrée en vigueur affichera l'ancien chiffre.
 
-Comparez cela avec le [Dewan Negara](/fr/glossary/dewan-negara) : l'article
+Comparez cela avec le [Dewan Negara](/fr/government/dewan-negara) : l'article
 47(a) y fixe un âge minimum de 30 ans. Cette différence d'âge est la seule
 différence de condition de base entre les deux Chambres au titre de l'article 47.
 
@@ -179,7 +183,7 @@ L'article 48(1) énumère les motifs pour lesquels une personne devient inéligi
 
 L'inéligibilité au titre des deux motifs relatifs à la déclaration de dépenses et à la
 condamnation peut être levée par le
-[Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong) ; sinon, elle
+[Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong) ; sinon, elle
 cesse au bout de **cinq ans** (article 48(3)). L'article 48(4), à son tour,
 suspend pendant 14 jours l'application d'une inéligibilité découlant d'une
 condamnation, et plus longtemps encore si un recours ou une demande de grâce
@@ -287,10 +291,10 @@ parmi les membres de l'une ou l'autre des Chambres du Parlement.
 ## Termes connexes
 
 - [Parlement de Malaisie](/fr/government/parliament)
-- [Dewan Negara](/fr/glossary/dewan-negara)
+- [Dewan Negara](/fr/government/dewan-negara)
 - [Constitution fédérale](/fr/law/federal-constitution)
 - [Comment un projet de loi devient une loi](/fr/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong)
+- [Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong)
 - [Territoires fédéraux](/fr/glossary/wilayah-persekutuan)
 
 ## Pour aller plus loin
@@ -305,7 +309,7 @@ qu'on ne le suppose.
 Pour voir comment ces 222 sièges fonctionnent avec l'autre Chambre dans
 l'adoption de la législation, poursuivez avec
 [Parlement de Malaisie](/fr/government/parliament) et
-[Dewan Negara](/fr/glossary/dewan-negara).
+[Dewan Negara](/fr/government/dewan-negara).
 
 ---
 

@@ -225,7 +225,7 @@ SSM는 기업 법률을 쓰지 않습니다 — 그것은 의회가 합니다 �
 
 - **Sdn Bhd.** 「슨디리안 버하드」는 회사법(Companies Act 2016)이 창설한 비공개 유한회사 형태입니다. MyCoID를 통해 SSM에 설립함으로써 그것을 존재하게 합니다; SSM가 발급하는 등록 번호가 그 회사를 실재하게 합니다. [Sdn Bhd](/ko/glossary/sdn-bhd)를 보십시오.
 - **납입 자본금.** 주주가 실제로 회사에 넣은 돈은 SSM의 회사 파일에 기록되고 주식이 배정될 때 갱신됩니다. 그것은 SSM가 만들어내는 수치가 아니라 보유하는 수치입니다. [납입 자본금](/ko/glossary/paid-up-capital)을 보십시오.
-- **연례 신고서.** 매년 모든 회사는 법정 신고로 SSM에 그 정보를 확인합니다. 이를 놓치면 SSM가 회사를 벌하고 결국 말소하는 기관입니다. [연례 신고서](/ko/glossary/annual-return)를 보십시오.
+- **연례 신고서.** 매년 모든 회사는 법정 신고로 SSM에 그 정보를 확인합니다. 이를 놓치면 SSM가 회사를 벌하고 결국 말소하는 기관입니다. [연례 신고서](/ko/company-secretary/annual-return)를 보십시오.
 - **LLP(PLT).** 유한책임조합은 LLP법(LLP Act 2012)에 따라 SSM의 MyLLP 포털을 통해 등록·유지됩니다 — 회사와 사업체 모두와 별개의 경로입니다. [LLP](/ko/glossary/llp)를 보십시오.
 
 ### 빠른 결정 틀: 어느 SSM 등록이 필요한가?
@@ -252,5 +252,5 @@ SSM는 기업 법률을 쓰지 않습니다 — 그것은 의회가 합니다 �
 - 포털 목록과 벌칙·면제를 규율하는 실무 지침은 동반 기관 페이지 [SSM — 말레이시아 기업위원회](/ko/government/ssm)를 읽으십시오.
 - 실체를 고르는 중이라면, 포털을 고르기 전에 [Sdn Bhd](/ko/glossary/sdn-bhd)와 [LLP](/ko/glossary/llp)를 비교하십시오.
 - SSM가 운영하는 법을 이해하려면 [회사법(Companies Act 2016, Act 777)](/ko/law/companies-act-2016)을 보십시오.
-- 모두가 과소평가하는 반복 의무를 익히십시오: [연례 신고서](/ko/glossary/annual-return).
+- 모두가 과소평가하는 반복 의무를 익히십시오: [연례 신고서](/ko/company-secretary/annual-return).
 - 공식 문서의 어떤 수치에 의존하기 전에, 공식 사이트 `ssm.com.my`에서 현재 수수료, 양식, 지침을 항상 확인하십시오.

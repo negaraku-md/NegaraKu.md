@@ -34,6 +34,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/companies/petronas"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -51,7 +55,7 @@ verificationNeeded:
   - "Kết quả Downstream FY2024: Integrated Report trình bày khoản lỗ sau thuế của Downstream; con số RM1.7 billion nêu ra là số liệu không tính tác động của việc loại hợp nhất Engen Group. Hãy xác nhận con số được báo cáo chính xác và cách diễn đạt của chú thích."
   - "Diễn đạt của PDA 1974: phần mô tả được trích dẫn bám theo bản tổng quan quy định (regulatory overview) của Malaysia Petroleum Management, vốn chỉ là bản tóm tắt đạo luật. Nếu cần trích dẫn chính đạo luật, hãy xác nhận ngôn ngữ pháp lý nguyên văn (điều khoản liên quan đề cập đến việc thăm dò, khai thác, thu được và lấy dầu khí) đối chiếu với văn bản lập pháp gốc."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Malaysia Petroleum Management — Regulatory Overview"
     url: "https://www.petronas.com/mpm/regulatory/overview"

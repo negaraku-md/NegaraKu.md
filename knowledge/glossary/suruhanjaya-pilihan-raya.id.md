@@ -154,9 +154,9 @@ Sebagai lembaga yang menyelenggarakan pemilu, SPR menjadi titik fokus perdebatan
 
 ## Istilah terkait
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) (Majelis Rendah Parlemen)
-- [Dewan Negara](/glossary/dewan-negara) (Majelis Tinggi Parlemen)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) (Kepala Negara)
+- [Dewan Rakyat](/government/dewan-rakyat) (Majelis Rendah Parlemen)
+- [Dewan Negara](/government/dewan-negara) (Majelis Tinggi Parlemen)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) (Kepala Negara)
 - [Federal Constitution](/law/federal-constitution) (Undang-Undang Dasar Federal)
 - [Warta Kerajaan](/glossary/warta-kerajaan) (Lembaran Negara)
 
@@ -164,7 +164,7 @@ Sebagai lembaga yang menyelenggarakan pemilu, SPR menjadi titik fokus perdebatan
 
 Ketika Anda membaca sebuah pernyataan tentang SPR—jumlah kursi, batas-batas baru, atau independensi Komisi—kenali apakah persoalan itu berada dalam kekuasaan SPR sendiri (menyelenggarakan pemilihan, merevisi daftar pemilih) atau hanya dalam kekuasaannya untuk memberikan rekomendasi (penetapan daerah pemilihan). Kemudian telusuri nomor Pasal atau bagian Jadual Ketiga Belas yang mendukungnya, dan pastikan terhadap teks terkini Undang-Undang Dasar Federal, karena ketentuan-ketentuan ini telah diamendemen berkali-kali.
 
-Untuk melihat bagaimana kursi yang terisi melalui pemilihan ini membentuk Parlemen, lanjutkan ke [Dewan Rakyat](/glossary/dewan-rakyat) dan [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong).
+Untuk melihat bagaimana kursi yang terisi melalui pemilihan ini membentuk Parlemen, lanjutkan ke [Dewan Rakyat](/government/dewan-rakyat) dan [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong).
 
 ---
 

@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -57,7 +61,7 @@ verificationNeeded:
   - "느가라쿠 노래가 「국가(國歌) 법에 따라 보호된다」(1968년 국가법 참조) — 1차 자료로 확인되지 않음."
   - "「흔한 오해」 틀은 교육적 성격이며; 오해의 실제 빈도는 어떤 자료로도 측정되지 않음."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Rukun Negara(국가원칙) — 말레이시아 알기 (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

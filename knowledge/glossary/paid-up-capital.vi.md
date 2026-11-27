@@ -79,4 +79,4 @@ bảng cân đối kế toán.
 ## Thuật ngữ liên quan
 
 - [Sdn Bhd](/vi/glossary/sdn-bhd)
-- [Annual Return](/vi/glossary/annual-return)
+- [Annual Return](/vi/company-secretary/annual-return)

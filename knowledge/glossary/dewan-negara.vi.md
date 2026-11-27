@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Hiến pháp Liên bang (Bản in lại 2020) — phiên bản tiếng Mã Lai (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -88,7 +92,7 @@ framework: explainer
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
 Khi Nghị viện bị giải tán, toàn bộ 222 ghế
-[Dewan Rakyat](/vi/glossary/dewan-rakyat) trở nên trống và
+[Dewan Rakyat](/vi/government/dewan-rakyat) trở nên trống và
 mỗi thành viên của nó phải tranh cử lại. Bảy mươi thành viên Dewan Negara thì không.
 Nhiệm kỳ của họ, theo Điều 45(3) Hiến pháp Liên bang,
 "không bị ảnh hưởng bởi việc giải tán Nghị viện".
@@ -105,7 +109,7 @@ Viện: Dewan Negara và Dewan Rakyat.
 
 Thành viên của nó được gọi là **Thượng nghị sĩ (Senator)**. Không một ai trong số họ được cử tri
 thông thường bầu ra. Họ hoặc **được các Hội đồng Lập pháp Bang bầu** hoặc
-**được [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong) bổ nhiệm**.
+**được [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong) bổ nhiệm**.
 
 ## Dewan Negara so với Dewan Rakyat
 
@@ -120,7 +124,7 @@ thông thường bầu ra. Họ hoặc **được các Hội đồng Lập pháp
 | Người chủ tọa | Chủ tịch Dewan Negara | Chủ tịch Dewan Rakyat |
 
 Phần trình bày đầy đủ về viện còn lại có trong bài viết
-[Dewan Rakyat](/vi/glossary/dewan-rakyat).
+[Dewan Rakyat](/vi/government/dewan-rakyat).
 
 Còn một khác biệt dễ bỏ sót: Điều 43(2)(a) yêu cầu
 Thủ tướng phải là một **thành viên Dewan Rakyat**, nhưng Điều 43(2)(b)
@@ -263,8 +267,8 @@ không một lựa chọn nào trong ba lựa chọn đó đã được thực h
 
 ## Thuật ngữ liên quan
 
-- [Dewan Rakyat](/vi/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/vi/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong)
 - [Nghị viện Malaysia](/vi/government/parliament)
 - [Hiến pháp Liên bang](/vi/law/federal-constitution)
 - [Lãnh thổ Liên bang](/vi/glossary/wilayah-persekutuan)

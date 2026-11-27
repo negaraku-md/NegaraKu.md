@@ -153,5 +153,5 @@ Giả sử Siti bắt đầu bán kuih tự làm trực tuyến. Cô đăng ký 
 ## Tiếp theo
 
 - So sánh ba cấu trúc chính cạnh nhau trong các mục [Sdn Bhd](/vi/glossary/sdn-bhd) và [LLP](/vi/glossary/llp) trước khi bạn quyết định.
-- Nếu bạn đăng ký một công ty sau này, hãy lưu ý rằng nó mang các nghĩa vụ nặng hơn như [báo cáo thường niên](/vi/glossary/annual-return).
+- Nếu bạn đăng ký một công ty sau này, hãy lưu ý rằng nó mang các nghĩa vụ nặng hơn như [báo cáo thường niên](/vi/company-secretary/annual-return).
 - Trước khi đăng ký, hãy xác nhận phí hiện hành và bất kỳ yêu cầu phê duyệt tên nào trực tiếp trên cổng ezbiz của SSM, vì phí được công báo có thể thay đổi.

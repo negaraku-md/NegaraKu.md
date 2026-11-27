@@ -145,7 +145,7 @@ framework: explainer
 
 - [느그리 슴빌란](/ko/states/negeri-sembilan) — 아닷 프르파티를 행하는 주
 - [믈라카](/ko/states/melaka) — 나닝 지역을 포함하는 주
-- [양 디페르투안 아공](/ko/glossary/yang-di-pertuan-agong) — 왕실 제도 비교용
+- [양 디페르투안 아공](/ko/government/yang-di-pertuan-agong) — 왕실 제도 비교용
 - [샤리아](/ko/glossary/syariah) — 아닷과 함께 기능하는 종교법 체계
 - [연방헌법](/ko/law/federal-constitution) — 「말레이인」의 정의와 말레이 아닷 언급
 

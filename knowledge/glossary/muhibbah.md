@@ -101,7 +101,7 @@ lebih mesra, iaitu niat baik dan keterbukaan yang aktif.
 
 Perlu diingat bahawa muhibbah ialah satu konsep yang diguna pakai secara meluas
 dalam wacana awam, dan maknanya sering dikaitkan dengan prinsip perpaduan
-seperti yang terkandung dalam [Rukun Negara](/glossary/rukun-negara). Artikel
+seperti yang terkandung dalam [Rukun Negara](/malaysia/rukun-negara). Artikel
 ini menghuraikan istilah dan penggunaannya secara deskriptif, tanpa memihak
 kepada mana-mana tafsiran politik tertentu.
 

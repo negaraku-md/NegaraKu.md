@@ -145,7 +145,7 @@ Adat Temenggung نظام عُرفي أبوي، يؤكّد خط النسب من �
 
 - [نيغري سمبيلان](/states/negeri-sembilan) — الولاية التي تمارس Adat Perpatih
 - [ملقا](/states/melaka) — الولاية التي تضمّ منطقة ناننغ
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) — للمقارنة مع مؤسسة الحكم
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) — للمقارنة مع مؤسسة الحكم
 - [الشريعة](/glossary/syariah) — النظام القانوني الديني الذي يعمل جنبًا إلى جنب مع العُرف
 - [الدستور الاتحادي](/law/federal-constitution) — تعريف «الملايوي» والإشارة إلى العُرف الملايوي
 

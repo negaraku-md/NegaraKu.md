@@ -102,7 +102,7 @@ framework: explainer
 「rakyat」是马来西亚政府机构与计划名称中最常使用的字眼之一：
 
 - **Dewan Rakyat（下议院）** ——国会中议员由选举产生的议院，有别于议员由委任
-  产生的 Dewan Negara（上议院）。见 [Dewan Rakyat](/zh/glossary/dewan-rakyat)。
+  产生的 Dewan Negara（上议院）。见 [Dewan Rakyat](/zh/government/dewan-rakyat)。
 - **国家原则（Rukun Negara）** ——最高元首（Yang di-Pertuan Agong）于1970年8月
   31日颁布的立国信约，据[国家安全理事会](/government/national-security-council-mkn)（Majlis Keselamatan Negara，MKN）所述，
   成为「全体马来西亚 rakyat 所秉持、遵循及奉行」的信约。
@@ -121,7 +121,7 @@ framework: explainer
 
 ## 相关词条
 
-- [Dewan Rakyat](/zh/glossary/dewan-rakyat)
+- [Dewan Rakyat](/zh/government/dewan-rakyat)
 - [联邦宪法](/zh/law/federal-constitution)
 - [Merdeka](/zh/glossary/merdeka)
 

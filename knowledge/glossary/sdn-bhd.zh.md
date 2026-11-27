@@ -58,4 +58,4 @@ Sdn Bhd 是 Sendirian Berhad 的缩写，是马来西亚标准的私人有限公
 ## 相关词条
 
 - [实缴资本](/zh/glossary/paid-up-capital)
-- [常年申报表](/zh/glossary/annual-return)
+- [常年申报表](/zh/company-secretary/annual-return)

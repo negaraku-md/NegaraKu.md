@@ -43,6 +43,10 @@ masterLanguage: "en"
 translationStatus: "master"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
@@ -55,7 +59,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701) — Laws of Malaysia, updated text as at 1 November 2020"
     url: "https://www.investmalaysia.gov.my/media/sbqpwvem/central-bank-of-malaysia-act-2009.pdf"

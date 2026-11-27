@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "संघीय संविधान (पुनर्मुद्रण 2020) — बहासा मेलायू संस्करण (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -87,7 +91,7 @@ framework: explainer
 
 **बहासा मलेशिया:** Dewan Negara · **अंग्रेज़ी:** Senate · **चीनी:** 上议院
 
-जब संसद विघटित होती है, तो [Dewan Rakyat](/glossary/dewan-rakyat) की सभी 222 सीटें रिक्त हो जाती हैं और हर सदस्य को फिर से चुनाव लड़ना पड़ता है। Dewan Negara के 70 सदस्यों को नहीं लड़ना पड़ता। संघीय संविधान के अनुच्छेद 45(3) के तहत उनकी पदावधि «संसद के विघटन से प्रभावित नहीं होती।»
+जब संसद विघटित होती है, तो [Dewan Rakyat](/government/dewan-rakyat) की सभी 222 सीटें रिक्त हो जाती हैं और हर सदस्य को फिर से चुनाव लड़ना पड़ता है। Dewan Negara के 70 सदस्यों को नहीं लड़ना पड़ता। संघीय संविधान के अनुच्छेद 45(3) के तहत उनकी पदावधि «संसद के विघटन से प्रभावित नहीं होती।»
 
 वह अंतर कोई संयोग नहीं है। यह [मलेशियाई संसद](/government/parliament) के दोनों सदनों के बीच सबसे महत्वपूर्ण एकल अभिकल्प-बिंदु है — और भ्रम का सबसे बार-बार आने वाला स्रोत।
 
@@ -95,7 +99,7 @@ framework: explainer
 
 Dewan Negara संसद का **ऊपरी सदन (Senate)** है। संघीय संविधान का अनुच्छेद 44 प्रावधान करता है कि संसद Yang di-Pertuan Agong और दो सदनों से मिलकर बनी है: Dewan Negara और Dewan Rakyat।
 
-इसके सदस्यों को **Senators** कहा जाता है। इनमें से कोई भी सामान्य मतदाताओं द्वारा नहीं चुना जाता। वे या तो **राज्य विधानसभा द्वारा चुने जाते हैं** या **[Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) द्वारा नियुक्त किए जाते हैं**।
+इसके सदस्यों को **Senators** कहा जाता है। इनमें से कोई भी सामान्य मतदाताओं द्वारा नहीं चुना जाता। वे या तो **राज्य विधानसभा द्वारा चुने जाते हैं** या **[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) द्वारा नियुक्त किए जाते हैं**।
 
 ## Dewan Negara बनाम Dewan Rakyat
 
@@ -109,7 +113,7 @@ Dewan Negara संसद का **ऊपरी सदन (Senate)** है। �
 | संसद के विघटन का प्रभाव | पदावधि अप्रभावित | सभी सीटें रिक्त हो जाती हैं |
 | पीठासीन अधिकारी | Dewan Negara के President | Dewan Rakyat के Speaker |
 
-दूसरे सदन का पूरा विवरण [Dewan Rakyat](/glossary/dewan-rakyat) लेख में है।
+दूसरे सदन का पूरा विवरण [Dewan Rakyat](/government/dewan-rakyat) लेख में है।
 
 एक और अंतर जिसे आसानी से नज़रअंदाज़ किया जाता है: अनुच्छेद 43(2)(a) प्रधानमंत्री के **Dewan Rakyat का सदस्य** होने की अपेक्षा करता है, पर अनुच्छेद 43(2)(b) अन्य मंत्रियों को **दोनों सदनों में से किसी से** नियुक्त किए जाने की अनुमति देता है। यही कारण है कि कोई व्यक्ति कभी आम चुनाव लड़े बिना मंत्री बन सकता है।
 
@@ -196,8 +200,8 @@ Dewan Negara संसद का **ऊपरी सदन (Senate)** है। �
 
 ## संबंधित शब्द
 
-- [Dewan Rakyat](/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)
 - [मलेशियाई संसद](/government/parliament)
 - [संघीय संविधान](/law/federal-constitution)
 - [संघीय क्षेत्र](/glossary/wilayah-persekutuan)

@@ -94,7 +94,7 @@ framework: explainer
 한 주를 위한 토지법, 이슬람 가족법, 지방정부 법률을 통과시키는
 기관입니다. 이 페이지는 DUN이 무엇인지,
 ADUN이 누구인지, 그리고 이 주 차원이 연방 차원의
-[드완 라캬트](/ko/glossary/dewan-rakyat)·[드완 느가라](/ko/glossary/dewan-negara)와
+[드완 라캬트](/ko/government/dewan-rakyat)·[드완 느가라](/ko/government/dewan-negara)와
 어떻게 나란히 — 그러나 분리되어 — 작동하는지 설명합니다.
 
 ## 한눈에 보기
@@ -159,8 +159,8 @@ DUN에 대해 이해해야 할 가장 중요한 점은, 그것이 마음대로 �
 ## 왜 DUN은 단원제인데 의회는 양원제인가?
 
 연방 의회는 두 원을 가집니다. 선출되는
-[드완 라캬트](/ko/glossary/dewan-rakyat)와 대부분 임명되는
-[드완 느가라](/ko/glossary/dewan-negara)입니다. 반면 각 DUN은
+[드완 라캬트](/ko/government/dewan-rakyat)와 대부분 임명되는
+[드완 느가라](/ko/government/dewan-negara)입니다. 반면 각 DUN은
 선출되는 한 원만 가집니다.
 
 그 이유는 제8부칙 제3조에 있으며, 한 문장으로 표현됩니다.
@@ -209,7 +209,7 @@ DUN에 대해 이해해야 할 가장 중요한 점은, 그것이 마음대로 �
 
 드완 느가라와의 차이를 주목하십시오. 그곳에서는 제47조가 상원의원에게
 더 높은 최소 연령을 정합니다. DUN과
-[드완 라캬트](/ko/glossary/dewan-rakyat)의 경우 자격 연령은 이제 18세로 동일합니다.
+[드완 라캬트](/ko/government/dewan-rakyat)의 경우 자격 연령은 이제 18세로 동일합니다.
 
 제6조는 어떤 사람이 DUN 의원 자격을 **상실하는** 사유를
 열거합니다.
@@ -371,7 +371,7 @@ DUN 소집과 해산, 법안 재가, 므느트리 브사르 또는 주총리
 ## 흔한 오해
 
 - **DUN을 드완 느가라와 혼동하는 것.** DUN은 한 주의 입법
-  기관이고, [드완 느가라](/ko/glossary/dewan-negara)는 연방 의회의
+  기관이고, [드완 느가라](/ko/government/dewan-negara)는 연방 의회의
   상원입니다. 일부 주가 쓰는 「드완 느그리」라는 명칭은 드완 느가라가
   아니라 DUN을 가리킵니다.
 - **DUN 의석 수가 연방헌법에 정해져 있다고 여기는 것.** 그렇지
@@ -391,8 +391,8 @@ DUN 소집과 해산, 법안 재가, 므느트리 브사르 또는 주총리
 
 ## 관련 용어
 
-- [드완 라캬트](/ko/glossary/dewan-rakyat) — 선출되는 연방 의회의 원
-- [드완 느가라](/ko/glossary/dewan-negara) — 연방 의회의 상원
+- [드완 라캬트](/ko/government/dewan-rakyat) — 선출되는 연방 의회의 원
+- [드완 느가라](/ko/government/dewan-negara) — 연방 의회의 상원
 - [므느트리 브사르 또는 주총리](/ko/glossary/menteri-besar) — 주정부의 수반
 - [드완 운당안 느그리: 전체 헌법 설명](/ko/government/state-assemblies-dun) — 제8부칙 심층 해설
 - [누가 무엇에 대해 법을 만드는가: 연방·주·공동 목록](/ko/government/federal-state-division)
@@ -409,7 +409,7 @@ DUN에 관한 어떤 진술 — 한 주에 의석이 몇 개인지, 누가 ADUN�
 DUN을 더 넓은 그림 속에서 보려면, 어떤 DUN이 무엇에 대해 법률을
 만들 수 있는지 이해하기 위해 [연방–주 권한 배분](/ko/government/federal-state-division)으로
 나아가거나, 주 차원과 연방 차원을 비교하기 위해
-[드완 라캬트](/ko/glossary/dewan-rakyat)로 나아가십시오.
+[드완 라캬트](/ko/government/dewan-rakyat)로 나아가십시오.
 
 ---
 

@@ -70,4 +70,4 @@ does not carry.
 ## Related terms
 
 - [Paid-up Capital](/en/glossary/paid-up-capital)
-- [Annual Return](/en/glossary/annual-return)
+- [Annual Return](/en/company-secretary/annual-return)

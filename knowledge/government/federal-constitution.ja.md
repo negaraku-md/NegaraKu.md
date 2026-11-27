@@ -35,7 +35,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "86126f038c7e787d"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -50,7 +54,7 @@ revisions:
 verificationNeeded:
   - "第11編及び第12A編の正式な標題を、最新の公式重印版と照合して確認すること（「As at 15 October 2020」重印版との照合はすでに行われている）。"
   - "第159条(5)の規定一覧及び第159条(4)の適用除外が、2020年重印版以降のいかなる改正によっても変更されていないことを確認すること。"
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "連邦憲法(再版、2020年10月15日現在) — 第4条、第159条、第160条、第XI部 (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

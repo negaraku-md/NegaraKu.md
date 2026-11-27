@@ -68,4 +68,4 @@ Sdn Bhd هو الخيار الافتراضي للمؤسِّسين الراغبي
 ## مصطلحات ذات صلة
 
 - [رأس المال المدفوع](/glossary/paid-up-capital)
-- [الإقرار السنوي](/glossary/annual-return)
+- [الإقرار السنوي](/company-secretary/annual-return)

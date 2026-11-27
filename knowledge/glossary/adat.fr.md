@@ -145,7 +145,7 @@ Le contexte complet de ces dispositions se trouve dans la [Constitution fédéra
 
 - [Negeri Sembilan](/fr/states/negeri-sembilan) — l'État qui pratique l'Adat Perpatih
 - [Melaka](/fr/states/melaka) — l'État qui contient le district de Naning
-- [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong) — pour comparer avec l'institution du gouvernement
+- [Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong) — pour comparer avec l'institution du gouvernement
 - [Syariah](/fr/glossary/syariah) — le système juridique religieux qui fonctionne aux côtés de l'adat
 - [Constitution fédérale](/fr/law/federal-constitution) — la définition du « Malais » et la référence à la coutume malaise
 

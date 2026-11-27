@@ -71,4 +71,4 @@ estatutarios y, a menudo, una auditoría — que una empresa individual no conll
 ## Términos relacionados
 
 - [Capital desembolsado](/en/glossary/paid-up-capital)
-- [Declaración anual](/en/glossary/annual-return)
+- [Declaración anual](/en/company-secretary/annual-return)

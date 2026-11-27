@@ -93,8 +93,8 @@ framework: explainer
 राज्य विधान सभा (DUN) वह जगह है जहाँ उस दूसरे मत को अर्थ मिलता है। यही वह निकाय
 है जो किसी राज्य के लिए भूमि कानून, इस्लामी पारिवारिक कानून, और स्थानीय-सरकार
 अधिनियम पारित करता है। यह पृष्ठ समझाता है कि DUN क्या है, ADUN कौन है, और यह
-राज्य स्तर संघीय स्तर पर [Dewan Rakyat](/glossary/dewan-rakyat) और
-[Dewan Negara](/glossary/dewan-negara) के समानांतर — फिर भी उनसे अलग — कैसे
+राज्य स्तर संघीय स्तर पर [Dewan Rakyat](/government/dewan-rakyat) और
+[Dewan Negara](/government/dewan-negara) के समानांतर — फिर भी उनसे अलग — कैसे
 चलता है।
 
 ## एक नज़र में
@@ -156,8 +156,8 @@ ADUN की संख्या एक राज्य से दूसरे र
 
 ## DUN में केवल एक सदन क्यों है जबकि संसद में दो हैं?
 
-संघीय संसद के दो सदन हैं: निर्वाचित [Dewan Rakyat](/glossary/dewan-rakyat) और
-अधिकांशतः नियुक्त [Dewan Negara](/glossary/dewan-negara)। इसके विपरीत, हर DUN
+संघीय संसद के दो सदन हैं: निर्वाचित [Dewan Rakyat](/government/dewan-rakyat) और
+अधिकांशतः नियुक्त [Dewan Negara](/government/dewan-negara)। इसके विपरीत, हर DUN
 में केवल एक निर्वाचित सदन होता है।
 
 इसका कारण आठवीं अनुसूची की धारा 3 में है, जो इसे एक ही वाक्य में कहती है: **राज्य
@@ -204,7 +204,7 @@ ADUN की संख्या एक राज्य से दूसरे र
 आधिकारिक राजपत्र से पुष्टि करें।)
 
 Dewan Negara के साथ अंतर पर ध्यान दें: वहाँ अनुच्छेद 47 सीनेटर के लिए अधिक
-न्यूनतम आयु निर्धारित करता है। DUN और [Dewan Rakyat](/glossary/dewan-rakyat) के
+न्यूनतम आयु निर्धारित करता है। DUN और [Dewan Rakyat](/government/dewan-rakyat) के
 लिए, योग्यता-आयु अब एक समान है, यानी 18 वर्ष।
 
 धारा 6 उन आधारों को सूचीबद्ध करती है जिन पर कोई व्यक्ति DUN का सदस्य होने से
@@ -364,7 +364,7 @@ di-Pertua Negeri द्वारा निभाए जाते हैं। �
 ## आम ग़लतियाँ
 
 - **DUN को Dewan Negara के साथ भ्रमित करना।** DUN किसी राज्य की विधायिका है;
-  [Dewan Negara](/glossary/dewan-negara) संघीय संसद का उच्च सदन है। कुछ राज्यों
+  [Dewan Negara](/government/dewan-negara) संघीय संसद का उच्च सदन है। कुछ राज्यों
   द्वारा इस्तेमाल किया जाने वाला नाम «Dewan Negeri» DUN को संदर्भित करता है,
   Dewan Negara को नहीं।
 - **यह मान लेना कि DUN सीटों की संख्या संघीय संविधान में तय है।** ऐसा नहीं है।
@@ -384,8 +384,8 @@ di-Pertua Negeri द्वारा निभाए जाते हैं। �
 
 ## संबंधित शब्द
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) — संघीय संसद का निर्वाचित सदन
-- [Dewan Negara](/glossary/dewan-negara) — संघीय संसद का उच्च सदन
+- [Dewan Rakyat](/government/dewan-rakyat) — संघीय संसद का निर्वाचित सदन
+- [Dewan Negara](/government/dewan-negara) — संघीय संसद का उच्च सदन
 - [Menteri Besar या मुख्यमंत्री](/glossary/menteri-besar) — राज्य सरकार का प्रमुख
 - [राज्य विधान सभा: पूर्ण संवैधानिक विवरण](/government/state-assemblies-dun) — आठवीं अनुसूची का गहन विवेचन
 - [कौन कौन सा कानून बनाता है: संघीय, राज्य और समवर्ती सूचियाँ](/government/federal-state-division)
@@ -402,7 +402,7 @@ di-Pertua Negeri द्वारा निभाए जाते हैं। �
 DUN को एक व्यापक चित्र में देखने के लिए, यह समझने हेतु
 [संघ–राज्य शक्ति-विभाजन](/government/federal-state-division) पर जाएँ कि कोई DUN
 किन विषयों पर कानून बना सकती है, या राज्य स्तर की तुलना संघीय स्तर से करने हेतु
-[Dewan Rakyat](/glossary/dewan-rakyat) पर जाएँ।
+[Dewan Rakyat](/government/dewan-rakyat) पर जाएँ।
 
 ---
 

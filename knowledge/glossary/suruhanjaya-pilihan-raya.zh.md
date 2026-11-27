@@ -154,9 +154,9 @@ SPR的核心职能由《联邦宪法》**第113(1)条**规定：SPR应主办国�
 
 ## 相关术语
 
-- [Dewan Rakyat（国会下议院）](/glossary/dewan-rakyat)
-- [Dewan Negara（国会上议院）](/glossary/dewan-negara)
-- [Yang di-Pertuan Agong（最高元首）](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat（国会下议院）](/government/dewan-rakyat)
+- [Dewan Negara（国会上议院）](/government/dewan-negara)
+- [Yang di-Pertuan Agong（最高元首）](/government/yang-di-pertuan-agong)
 - [Perlembagaan Persekutuan（联邦宪法）](/law/federal-constitution)
 - [Warta Kerajaan（政府宪报）](/glossary/warta-kerajaan)
 
@@ -164,7 +164,7 @@ SPR的核心职能由《联邦宪法》**第113(1)条**规定：SPR应主办国�
 
 当你读到关于SPR的说法时——议席数目、新的界线，或委员会的独立性——请辨明该事项究竟属于SPR自身的权力（主办选举、检讨选民册），还是仅属于其建议的权力（选区划分）。然后追查支持它的《宪法》条文号码或第十三附表节号，并对照《联邦宪法》的现行文本加以核实，因为这些条文已被多次修订。
 
-若想了解经由这些选举填补的议席如何构成国会，请继续阅读 [Dewan Rakyat（国会下议院）](/glossary/dewan-rakyat) 与 [Yang di-Pertuan Agong（最高元首）](/glossary/yang-di-pertuan-agong)。
+若想了解经由这些选举填补的议席如何构成国会，请继续阅读 [Dewan Rakyat（国会下议院）](/government/dewan-rakyat) 与 [Yang di-Pertuan Agong（最高元首）](/government/yang-di-pertuan-agong)。
 
 ---
 

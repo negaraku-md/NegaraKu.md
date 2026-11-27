@@ -225,7 +225,7 @@ La mayoría de la gente se encuentra con los productos de la SSM antes que con s
 
 - **Sdn Bhd.** «Sendirian Berhad» es la forma de sociedad limitada privada creada por la Companies Act 2016. La hace existir constituyéndola ante la SSM a través de MyCoID; el número de registro que emite la SSM es lo que hace real a la sociedad. Véase [Sdn Bhd](/en/glossary/sdn-bhd).
 - **Capital desembolsado.** El dinero que los accionistas han aportado efectivamente a la sociedad se consigna en el expediente de la sociedad en la SSM y se actualiza cuando se emiten acciones. Es una cifra que la SSM conserva, no una que inventa. Véase [Capital desembolsado](/en/glossary/paid-up-capital).
-- **Declaración anual.** Una vez al año, cada sociedad confirma sus datos a la SSM en un trámite estatutario. Si no lo hace, la SSM es el organismo que sanciona y, en última instancia, da de baja a la sociedad. Véase [Declaración anual](/en/glossary/annual-return).
+- **Declaración anual.** Una vez al año, cada sociedad confirma sus datos a la SSM en un trámite estatutario. Si no lo hace, la SSM es el organismo que sanciona y, en última instancia, da de baja a la sociedad. Véase [Declaración anual](/en/company-secretary/annual-return).
 - **LLP (PLT).** La sociedad de responsabilidad limitada se registra y se mantiene a través del portal MyLLP de la SSM en virtud de la LLP Act 2012 — una vía separada tanto de las sociedades como de los negocios. Véase [LLP](/en/glossary/llp).
 
 ### Un marco rápido de decisión: ¿qué registro de la SSM necesito?
@@ -252,5 +252,5 @@ Las tres son registros ante la SSM. La diferencia es la ley bajo la que se sitú
 - Lea la página de entidad de la agencia que acompaña a esta, [SSM — Companies Commission of Malaysia](/en/government/ssm), para el inventario de portales y las Practice Directives que rigen las sanciones y exenciones.
 - Si está eligiendo una entidad, compare [Sdn Bhd](/en/glossary/sdn-bhd) y [LLP](/en/glossary/llp) antes de elegir un portal.
 - Para entender la ley que administra la SSM, véase [Companies Act 2016 (Act 777)](/en/law/companies-act-2016).
-- Conozca la obligación recurrente que todos subestiman: la [Declaración anual](/en/glossary/annual-return).
+- Conozca la obligación recurrente que todos subestiman: la [Declaración anual](/en/company-secretary/annual-return).
 - Confirme siempre las tasas, formularios y directivas vigentes en el sitio oficial, `ssm.com.my`, antes de basarse en cualquier cifra en un documento formal.

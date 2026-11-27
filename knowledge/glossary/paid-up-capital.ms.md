@@ -81,4 +81,4 @@ mengukuhkan kunci kira-kira.
 ## Istilah berkaitan
 
 - [Sdn Bhd](/glossary/sdn-bhd)
-- [Penyata Tahunan](/glossary/annual-return)
+- [Penyata Tahunan](/company-secretary/annual-return)

@@ -181,7 +181,7 @@ heroOrigin: "third-party"
 
 **「有一位马来西亚苏丹。」** 没有。并不存在一位统领全马来西亚的苏丹。九个州
 属各自拥有地位平等的统治者，而国家元首是[最高元首（Yang di-Pertuan
-Agong）](/zh/glossary/yang-di-pertuan-agong)，从这九位统治者之中轮流选出。
+Agong）](/zh/government/yang-di-pertuan-agong)，从这九位统治者之中轮流选出。
 
 **「州元首与苏丹相同，只是称号不同。」** 并不相同。州元首的职位是委任产生的，
 任期四年，不世袭，不是该州的伊斯兰教首长，也不参与最高元首的选举。
@@ -204,7 +204,7 @@ Agong）](/zh/glossary/yang-di-pertuan-agong)，从这九位统治者之中轮�
 - 如需第19A条至第19D条以及第3(3)、71、160(2)与181条的实际条文，请参阅AGC
   官方重印本中的[联邦宪法](/zh/law/federal-constitution)。
 - 如欲了解最高元首如何从九位统治者之中选出，请参阅[最高元首（Yang
-  di-Pertuan Agong）](/zh/glossary/yang-di-pertuan-agong)。
+  di-Pertuan Agong）](/zh/government/yang-di-pertuan-agong)。
 - 如需没有统治者的州属之详细例子，请参阅[马六甲](/zh/states/melaka)与
   [槟城](/zh/states/penang)。
 - 如需由推选而非直接世袭产生的有统治者州属模式，请参阅

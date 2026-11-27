@@ -225,7 +225,7 @@ SSM 并不制定企业法律——那是国会的职责——但它是负责管�
 
 - **Sdn Bhd。** “Sendirian Berhad”是《2016年公司法令》创设的私人有限公司形式。你通过 MyCoID 在 SSM 注册成立它，使其得以存在；SSM 发放的注册号才使这家公司成为真实存在。参见 [Sdn Bhd](/zh/glossary/sdn-bhd)。
 - **实缴资本。** 股东实际投入公司的资金记录在公司于 SSM 的档案中，并在配发股份时更新。它是 SSM 持有的一个数字，而非它凭空创造的。参见 [实缴资本](/zh/glossary/paid-up-capital)。
-- **年度申报。** 每一家公司每年都要通过一份法定申报向 SSM 确认其资料。若错过，SSM 就是那个会施加罚款、并最终将公司除名的机构。参见 [年度申报](/zh/glossary/annual-return)。
+- **年度申报。** 每一家公司每年都要通过一份法定申报向 SSM 确认其资料。若错过，SSM 就是那个会施加罚款、并最终将公司除名的机构。参见 [年度申报](/zh/company-secretary/annual-return)。
 - **LLP（PLT）。** 有限责任合伙依据《2012年有限责任合伙法令》通过 SSM 的 MyLLP 门户注册和维护——这是一条独立于公司和商号的通道。参见 [LLP](/zh/glossary/llp)。
 
 ### 快速决策框架：我需要哪种 SSM 注册？
@@ -252,5 +252,5 @@ SSM 并不制定企业法律——那是国会的职责——但它是负责管�
 - 阅读配套的机构实体页 [SSM——马来西亚公司委员会](/zh/government/ssm)，了解门户清单以及规范罚款与豁免的《执业指令》。
 - 如果你正在选择实体形式，请在挑选门户之前比较 [Sdn Bhd](/zh/glossary/sdn-bhd) 与 [LLP](/zh/glossary/llp)。
 - 要了解 SSM 所管理的法律，参见 [《2016年公司法令》（第777号法令）](/zh/law/companies-act-2016)。
-- 了解人人都低估的那项经常性义务：[年度申报](/zh/glossary/annual-return)。
+- 了解人人都低估的那项经常性义务：[年度申报](/zh/company-secretary/annual-return)。
 - 在正式文件中依赖任何数字之前，务必在官方网站 `ssm.com.my` 上确认当前的费用、表格和指令。

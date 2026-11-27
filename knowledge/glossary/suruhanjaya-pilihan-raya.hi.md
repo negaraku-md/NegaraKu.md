@@ -154,9 +154,9 @@ SPR के पोर्टल के अनुसार, आयोग की स
 
 ## संबंधित शब्द
 
-- [Dewan Rakyat (लोकसभा)](/glossary/dewan-rakyat)
-- [Dewan Negara (राज्यसभा)](/glossary/dewan-negara)
-- [Yang di-Pertuan Agong (सर्वोच्च राजा)](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat (लोकसभा)](/government/dewan-rakyat)
+- [Dewan Negara (राज्यसभा)](/government/dewan-negara)
+- [Yang di-Pertuan Agong (सर्वोच्च राजा)](/government/yang-di-pertuan-agong)
 - [Federal Constitution (संघीय संविधान)](/law/federal-constitution)
 - [Warta Kerajaan (सरकारी राजपत्र)](/glossary/warta-kerajaan)
 
@@ -164,7 +164,7 @@ SPR के पोर्टल के अनुसार, आयोग की स
 
 जब आप SPR के बारे में कोई कथन पढ़ें — सीटों की संख्या, नई सीमाएँ, या आयोग की स्वतंत्रता — तो पहचानें कि क्या वह मामला SPR की अपनी शक्ति के भीतर है (चुनाव संचालित करना, मतदाता सूचियों की समीक्षा करना) या केवल उसकी अनुशंसा करने की शक्ति के भीतर (परिसीमन)। फिर उस अनुच्छेद संख्या या तेरहवीं अनुसूची की धारा का पता लगाएँ जो उसका समर्थन करती है, और उसे संघीय संविधान के वर्तमान पाठ से सत्यापित करें, क्योंकि ये उपबंध अनेक बार संशोधित हो चुके हैं।
 
-यह देखने के लिए कि इन चुनावों के माध्यम से भरी गई सीटें संसद का गठन कैसे करती हैं, आगे पढ़ें [Dewan Rakyat (लोकसभा)](/glossary/dewan-rakyat) तथा [Yang di-Pertuan Agong (सर्वोच्च राजा)](/glossary/yang-di-pertuan-agong)।
+यह देखने के लिए कि इन चुनावों के माध्यम से भरी गई सीटें संसद का गठन कैसे करती हैं, आगे पढ़ें [Dewan Rakyat (लोकसभा)](/government/dewan-rakyat) तथा [Yang di-Pertuan Agong (सर्वोच्च राजा)](/government/yang-di-pertuan-agong)।
 
 ---
 

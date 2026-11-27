@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Constitution fédérale (Réimpression 2020) — version en malais (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -88,7 +92,7 @@ framework: explainer
 **Français :** Dewan Negara (Sénat) · **English:** Senate · **中文:** 上议院
 
 Lorsque le Parlement est dissous, les 222 sièges du
-[Dewan Rakyat](/fr/glossary/dewan-rakyat) deviennent vacants et chaque membre
+[Dewan Rakyat](/fr/government/dewan-rakyat) deviennent vacants et chaque membre
 doit se représenter. Les 70 membres du Dewan Negara, non. Leur mandat,
 en vertu de l'article 45(3) de la Constitution fédérale,
 « n'est pas affecté par la dissolution du Parlement ».
@@ -105,7 +109,7 @@ Yang di-Pertuan Agong et de deux Chambres : le Dewan Negara et le Dewan Rakyat.
 
 Ses membres sont appelés **sénateurs**. Aucun d'eux n'est élu par les
 électeurs ordinaires. Ils sont, soit **élus par l'Assemblée législative de l'État**,
-soit **nommés par le [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong)**.
+soit **nommés par le [Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong)**.
 
 ## Dewan Negara face au Dewan Rakyat
 
@@ -119,7 +123,7 @@ soit **nommés par le [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong
 | Effet de la dissolution du Parlement | Mandat non affecté | Tous les sièges deviennent vacants |
 | Président de séance | Président du Dewan Negara | Président (Speaker) du Dewan Rakyat |
 
-Vous trouverez dans l'article [Dewan Rakyat](/fr/glossary/dewan-rakyat) une
+Vous trouverez dans l'article [Dewan Rakyat](/fr/government/dewan-rakyat) une
 description complète de l'autre Chambre.
 
 Une différence de plus, facile à manquer : l'article 43(2)(a) exige que
@@ -264,8 +268,8 @@ du texte de la Réimpression de 2020, aucune des trois options n'a été exercé
 
 ## Termes connexes
 
-- [Dewan Rakyat](/fr/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/fr/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong)
 - [Parlement de Malaisie](/fr/government/parliament)
 - [Constitution fédérale](/fr/law/federal-constitution)
 - [Territoires fédéraux](/fr/glossary/wilayah-persekutuan)

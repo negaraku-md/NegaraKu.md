@@ -110,7 +110,7 @@ rakyat»، فإنه يستخدم كلمةً **لم تُعرَّف قط** في ا
 
 - **Dewan Rakyat** — مجلس النواب في البرلمان الذي يُنتخَب أعضاؤه، تمييزًا له
   عن Dewan Negara الذي يُعيَّن أعضاؤه. انظر
-  [Dewan Rakyat](/glossary/dewan-rakyat).
+  [Dewan Rakyat](/government/dewan-rakyat).
 - **Rukun Negara** — القَسَم الوطني الذي أعلنه يانغ دي-بيرتوان أغونغ
   (Yang di-Pertuan Agong) في 31 أغسطس 1970، ليكون «محل تمسُّكٍ وهداية وممارسة
   من قِبَل كامل rakyat ماليزيا»، وفقًا لـ[المجلس الوطني للأمن](/government/national-security-council-mkn) (MKN).
@@ -131,7 +131,7 @@ rakyat»، فإنه يستخدم كلمةً **لم تُعرَّف قط** في ا
 
 ## مصطلحات ذات صلة
 
-- [Dewan Rakyat](/glossary/dewan-rakyat)
+- [Dewan Rakyat](/government/dewan-rakyat)
 - [الدستور الاتحادي](/law/federal-constitution)
 - [Merdeka](/glossary/merdeka)
 

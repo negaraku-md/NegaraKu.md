@@ -112,5 +112,5 @@ bukan milik satu komunitas saja.
 ## Apa yang selanjutnya
 
 Untuk memahami minuman yang menjadi identitas setiap kedai mamak, baca
-[Teh Tarik](/id/glossary/teh-tarik) — termasuk alasan ia perlu "ditarik" dan
+[Teh Tarik](/id/food-lifestyle/teh-tarik) — termasuk alasan ia perlu "ditarik" dan
 statusnya sebagai Warisan Kebangsaan.

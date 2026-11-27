@@ -114,7 +114,7 @@ organismes et programmes gouvernementaux malaisiens :
 
 - **Dewan Rakyat** — la chambre du Parlement dont les membres sont élus, à la
   différence du Dewan Negara dont les membres sont nommés. Voir
-  [Dewan Rakyat](/en/glossary/dewan-rakyat).
+  [Dewan Rakyat](/en/government/dewan-rakyat).
 - **Rukun Negara** — le serment national proclamé par le Yang di-Pertuan Agong
   le 31 août 1970, destiné à être « soutenu, guidé et pratiqué par toute la
   rakyat de la Malaisie », selon le [Conseil de sécurité
@@ -139,7 +139,7 @@ est le mot qui a un effet juridique, tandis que « rakyat » n'en a pas.
 
 ## Termes connexes
 
-- [Dewan Rakyat](/en/glossary/dewan-rakyat)
+- [Dewan Rakyat](/en/government/dewan-rakyat)
 - [Constitution fédérale](/en/law/federal-constitution)
 - [Merdeka](/en/glossary/merdeka)
 

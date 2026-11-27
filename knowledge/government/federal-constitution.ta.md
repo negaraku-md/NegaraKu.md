@@ -35,7 +35,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "86126f038c7e787d"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -50,7 +54,7 @@ revisions:
 verificationNeeded:
   - "Part XI மற்றும் XIIA-இன் முழுத் தலைப்புகளை சமீபத்திய அதிகாரப்பூர்வ மறுபதிப்பிற்கு எதிராக உறுதிப்படுத்தவும் (‘As at 15 October 2020’ மறுபதிப்பிற்கு எதிராக மதிப்பாய்வு செய்யப்பட்டது)."
   - "சரத்து 159(5) விதிகளின் பட்டியல் மற்றும் சரத்து 159(4) விதிவிலக்கு 2020 மறுபதிப்பிற்குப் பிறகான எந்தத் திருத்தத்திலும் மாறவில்லை என்பதை உறுதிப்படுத்தவும்."
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "கூட்டாட்சி அரசியலமைப்பு (மறுபதிப்பு, 2020 அக்டோபர் 15 நிலவரப்படி) — உறுப்பு 4, உறுப்பு 159, உறுப்பு 160, பகுதி XI (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -57,7 +61,7 @@ verificationNeeded:
   - "L'hymne Negaraku « protégé en vertu de la loi sur l'hymne national » (référence à la National Anthem Act 1968) — non encore confirmé par une source primaire."
   - "Le cadre des « erreurs courantes » est de nature pédagogique ; la fréquence réelle des erreurs n'est mesurée par aucune source."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Rukun Negara — Découvrez la Malaisie (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

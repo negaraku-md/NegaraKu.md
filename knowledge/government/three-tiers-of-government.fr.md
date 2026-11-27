@@ -154,7 +154,7 @@ Les institutions précises qui gèrent chaque niveau, ainsi que les principaux o
 - [Dewan Negara](/fr/government/dewan-negara/)
 - [Le Département du Premier ministre](/fr/government/prime-ministers-department/)
 - [La fonction publique de la Malaisie](/fr/government/public-service/)
-- [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong/)
 - [Menteri Besar ou Chief Minister](/fr/glossary/menteri-besar/)
 - [Qui décide quoi](/fr/government/federal-state-division/)
 - [Territoires fédéraux](/fr/government/federal-territories-governance/)

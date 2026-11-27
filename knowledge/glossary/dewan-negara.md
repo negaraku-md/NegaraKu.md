@@ -30,7 +30,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -44,7 +48,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -87,7 +91,7 @@ framework: explainer
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
 Apabila Parlimen dibubarkan, kesemua 222 kerusi
-[Dewan Rakyat](/glossary/dewan-rakyat) menjadi kosong dan
+[Dewan Rakyat](/government/dewan-rakyat) menjadi kosong dan
 setiap ahlinya perlu bertanding semula. Tujuh puluh ahli Dewan Negara tidak.
 Tempoh jawatan mereka, menurut Perkara 45(3) Perlembagaan Persekutuan,
 "tidaklah tersentuh dengan pembubaran Parlimen".
@@ -104,7 +108,7 @@ Majlis: Dewan Negara dan Dewan Rakyat.
 
 Ahlinya digelar **Senator**. Tiada seorang pun daripada mereka dipilih oleh
 pengundi biasa. Mereka sama ada **dipilih oleh Dewan Undangan Negeri** atau
-**dilantik oleh [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)**.
+**dilantik oleh [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)**.
 
 ## Dewan Negara lawan Dewan Rakyat
 
@@ -119,7 +123,7 @@ pengundi biasa. Mereka sama ada **dipilih oleh Dewan Undangan Negeri** atau
 | Pegawai pengerusi | Yang di-Pertua Dewan Negara | Yang di-Pertua Dewan Rakyat |
 
 Huraian penuh tentang dewan yang satu lagi ada dalam artikel
-[Dewan Rakyat](/glossary/dewan-rakyat).
+[Dewan Rakyat](/government/dewan-rakyat).
 
 Satu lagi perbezaan yang mudah terlepas pandang: Perkara 43(2)(a) menghendaki
 Perdana Menteri seorang **ahli Dewan Rakyat**, tetapi Perkara 43(2)(b)
@@ -262,8 +266,8 @@ tiada satu pun daripada tiga pilihan itu telah dilaksanakan.
 
 ## Istilah berkaitan
 
-- [Dewan Rakyat](/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)
 - [Parlimen Malaysia](/government/parliament)
 - [Perlembagaan Persekutuan](/law/federal-constitution)
 - [Wilayah Persekutuan](/glossary/wilayah-persekutuan)

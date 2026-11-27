@@ -145,7 +145,7 @@ Bối cảnh đầy đủ của các quy định này có trong [Hiến pháp Li
 
 - [Negeri Sembilan](/vi/states/negeri-sembilan) — bang thực hành Adat Perpatih
 - [Melaka](/vi/states/melaka) — bang chứa huyện Naning
-- [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong) — để so sánh thiết chế quân chủ
+- [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong) — để so sánh thiết chế quân chủ
 - [Syariah](/vi/glossary/syariah) — hệ thống luật tôn giáo vận hành song song với adat
 - [Hiến pháp Liên bang](/vi/law/federal-constitution) — định nghĩa "Melayu" và việc nhắc đến luật tục Mã Lai
 

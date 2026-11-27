@@ -95,8 +95,8 @@ La Asamblea Legislativa Estatal (DUN) es donde ese segundo voto cobra sentido.
 Es el órgano que aprueba las leyes sobre tierras, las leyes de familia
 islámicas y los decretos de gobierno local de un estado. Esta página explica
 qué es la DUN, quién es un ADUN, y cómo este nivel estatal funciona en paralelo
-— y, sin embargo, aparte — del [Dewan Rakyat](/glossary/dewan-rakyat) y del
-[Dewan Negara](/glossary/dewan-negara) a nivel federal.
+— y, sin embargo, aparte — del [Dewan Rakyat](/government/dewan-rakyat) y del
+[Dewan Negara](/government/dewan-negara) a nivel federal.
 
 ## De un vistazo
 
@@ -162,8 +162,8 @@ difiere de un estado a otro.
 ## ¿Por qué la DUN tiene una sola cámara mientras que el Parlamento tiene dos?
 
 El Parlamento federal tiene dos cámaras: el electo
-[Dewan Rakyat](/glossary/dewan-rakyat) y el mayoritariamente designado
-[Dewan Negara](/glossary/dewan-negara). Cada DUN, en cambio, tiene una sola
+[Dewan Rakyat](/government/dewan-rakyat) y el mayoritariamente designado
+[Dewan Negara](/government/dewan-negara). Cada DUN, en cambio, tiene una sola
 cámara electa.
 
 La razón está en la sección 3 del Octavo Anexo, que lo expresa en una sola
@@ -217,7 +217,7 @@ cuando resulte importante.)
 
 Obsérvese la diferencia con el Dewan Negara: allí, el artículo 47 fija una edad
 mínima superior para un senador. Para la DUN y el
-[Dewan Rakyat](/glossary/dewan-rakyat), la edad de requisito es ahora la misma,
+[Dewan Rakyat](/government/dewan-rakyat), la edad de requisito es ahora la misma,
 18 años.
 
 La sección 6 enumera las causas por las que una persona queda **inhabilitada**
@@ -395,7 +395,7 @@ antigua cifra del catálogo.
 ## Errores comunes
 
 - **Confundir la DUN con el Dewan Negara.** La DUN es el poder legislativo de un
-  estado; el [Dewan Negara](/glossary/dewan-negara) es la cámara alta del
+  estado; el [Dewan Negara](/government/dewan-negara) es la cámara alta del
   Parlamento federal. El nombre «Dewan Negeri» utilizado por algunos estados se
   refiere a la DUN, no al Dewan Negara.
 - **Suponer que el número de escaños de la DUN está fijado en la Constitución
@@ -417,8 +417,8 @@ antigua cifra del catálogo.
 
 ## Términos relacionados
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) — la cámara electa del Parlamento federal
-- [Dewan Negara](/glossary/dewan-negara) — la cámara alta del Parlamento federal
+- [Dewan Rakyat](/government/dewan-rakyat) — la cámara electa del Parlamento federal
+- [Dewan Negara](/government/dewan-negara) — la cámara alta del Parlamento federal
 - [Menteri Besar o Ministro Principal](/glossary/menteri-besar) — el jefe del gobierno estatal
 - [Asamblea Legislativa Estatal: descripción constitucional completa](/government/state-assemblies-dun) — un tratamiento en profundidad del Octavo Anexo
 - [Quién dicta qué ley: las Listas Federal, Estatal y Concurrente](/government/federal-state-division)
@@ -436,7 +436,7 @@ Constitución Federal.
 Para ver la DUN en un panorama más amplio, pase al
 [reparto de competencias entre la Federación y los estados](/government/federal-state-division)
 para entender sobre qué puede legislar una DUN, o al
-[Dewan Rakyat](/glossary/dewan-rakyat) para comparar el nivel estatal con el
+[Dewan Rakyat](/government/dewan-rakyat) para comparar el nivel estatal con el
 nivel federal.
 
 ---

@@ -176,7 +176,7 @@ dasar negara:
 - **Kewarganegaraan** — Bagian III menetapkan cara kewarganegaraan diperoleh,
   dicabut, dan diakhiri.
 - **Institusi persekutuan** — kedudukan
-  [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong) sebagai Kepala
+  [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong) sebagai Kepala
   Negara Utama, serta struktur badan legislatif, eksekutif, dan kehakiman.
 - **Negeri-negeri** — konstitusi negeri, Majlis Raja-Raja, dan hubungan antara
   Persekutuan dengan negeri.

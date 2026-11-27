@@ -154,7 +154,7 @@ Las instituciones concretas que gestionan cada nivel, y las oficinas y documento
 - [Dewan Negara](/es/government/dewan-negara/)
 - [El Departamento del Primer Ministro](/es/government/prime-ministers-department/)
 - [La función pública de Malasia](/es/government/public-service/)
-- [Yang di-Pertuan Agong](/es/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/es/government/yang-di-pertuan-agong/)
 - [Menteri Besar o Chief Minister](/es/glossary/menteri-besar/)
 - [Quién decide qué](/es/government/federal-state-division/)
 - [Territorios Federales](/es/government/federal-territories-governance/)

@@ -214,9 +214,9 @@ SPRのポータルサイトによれば、同委員会は**1957年9月4日**に�
 
 ## 関連用語
 
-- [下院（Dewan Rakyat）](/glossary/dewan-rakyat)
-- [上院（Dewan Negara）](/glossary/dewan-negara)
-- [国王（Yang di-Pertuan Agong）](/glossary/yang-di-pertuan-agong)
+- [下院（Dewan Rakyat）](/government/dewan-rakyat)
+- [上院（Dewan Negara）](/government/dewan-negara)
+- [国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)
 - [連邦憲法](/law/federal-constitution)
 - [官報（Warta Kerajaan）](/glossary/warta-kerajaan)
 
@@ -230,8 +230,8 @@ SPRについての記述——議席数、新たな境界、又は委員会の�
 正されてきたためである。
 
 これらの選挙によって満たされる議席がどのように国会を形づくるかを見るに
-は、引き続き[下院（Dewan Rakyat）](/glossary/dewan-rakyat)及び[国王
-（Yang di-Pertuan Agong）](/glossary/yang-di-pertuan-agong)を読んでほし
+は、引き続き[下院（Dewan Rakyat）](/government/dewan-rakyat)及び[国王
+（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)を読んでほし
 い。
 
 ---

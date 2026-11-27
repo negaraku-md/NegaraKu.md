@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -57,7 +61,7 @@ verificationNeeded:
   - "国歌ヌガラク（Negaraku）が「国歌に関する法律のもとで保護されている」という記述（1968年国歌法（Akta Lagu Kebangsaan 1968）への言及）——一次資料による確認はまだ取れていない。"
   - "「よくある誤解」という枠組みは教育的な性質のものであり、実際の誤解の発生頻度はいかなる出典によっても測定されていない。"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Rukun Negara(国家原則)— マレーシアを知る (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

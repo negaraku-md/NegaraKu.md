@@ -116,7 +116,7 @@ Pusat Rujukan Persuratan Melayu (PRPM) இணையவழி வாயிலா�
 
 - **Dewan Rakyat** — உறுப்பினர்கள் தேர்தல் மூலம் தேர்ந்தெடுக்கப்படும் நாடாளுமன்ற
   அவை; உறுப்பினர்கள் நியமிக்கப்படும் Dewan Negara இலிருந்து வேறுபட்டது.
-  [Dewan Rakyat](/ta/glossary/dewan-rakyat) ஐப் பார்க்கவும்.
+  [Dewan Rakyat](/ta/government/dewan-rakyat) ஐப் பார்க்கவும்.
 - **Rukun Negara** — Yang di-Pertuan Agong அவர்களால் 31 ஆகஸ்ட் 1970 அன்று
   பிரகடனம் செய்யப்பட்ட தேசிய உறுதிமொழி; [Majlis Keselamatan
   Negara](/ta/government/national-security-council-mkn) (MKN) இன்படி இது “முழு
@@ -141,7 +141,7 @@ Pusat Rujukan Persuratan Melayu (PRPM) இணையவழி வாயிலா�
 
 ## தொடர்புடைய சொற்கள்
 
-- [Dewan Rakyat](/ta/glossary/dewan-rakyat)
+- [Dewan Rakyat](/ta/government/dewan-rakyat)
 - [Perlembagaan Persekutuan](/ta/law/federal-constitution)
 - [Merdeka](/ta/glossary/merdeka)
 

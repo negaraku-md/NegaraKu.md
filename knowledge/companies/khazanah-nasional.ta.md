@@ -37,6 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "2025 Dana Impak முன்முயற்சிகளின் எண்ணிக்கை (40-க்கும் மேற்பட்ட நடுத்தர நிறுவனங்கள்; 3 குறைக்கடத்தி நிறுவனங்கள்)—The Khazanah Report 2025 முழு உரையுடன் சரிபார்க்கவும்."
   - "கூட்டாட்சி நிலப் பணியாளர் வைத்திருக்கும் ஒரு சிறப்புப் பங்கு—சமீபத்திய நிறுவன அமைப்புச் சட்டம்/ஆண்டறிக்கையில் இது இன்னும் தற்போதையதா என்பதைச் சரிபார்க்கவும்."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian/"

@@ -209,7 +209,7 @@ the same basic character as constitutional heads of state:
 **"There is a Sultan of Malaysia."** There is not. There is no single Sultan
 for the whole of Malaysia. Nine states each have their own Ruler of equal
 standing, and the Head of State is the [Yang di-Pertuan
-Agong](/en/glossary/yang-di-pertuan-agong), elected on a rotating basis from
+Agong](/en/government/yang-di-pertuan-agong), elected on a rotating basis from
 among those nine Rulers.
 
 **"A Yang di-Pertua Negeri is the same as a Sultan, just with a different
@@ -240,7 +240,7 @@ draft status and has not yet undergone human review.
   181, refer to the [Federal Constitution](/en/law/federal-constitution) in the
   official AGC reprint.
 - To understand how the Yang di-Pertuan Agong is chosen from among the nine
-  Rulers, see [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong).
+  Rulers, see [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong).
 - For a detailed example of a state without a Ruler, see
   [Melaka](/en/states/melaka) and [Penang](/en/states/penang).
 - For a model of a monarchical head of state chosen by election rather than

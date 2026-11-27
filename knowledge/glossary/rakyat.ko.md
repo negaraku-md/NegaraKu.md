@@ -110,7 +110,7 @@ framework: explainer
 
 - **드완 라캬트(Dewan Rakyat)** — 의원이 선거로 선출되는 의회 원으로,
   의원이 임명되는 드완 느가라와 다릅니다.
-  [드완 라캬트](/ko/glossary/dewan-rakyat)를 보십시오.
+  [드완 라캬트](/ko/government/dewan-rakyat)를 보십시오.
 - **루쿤 느가라(Rukun Negara)** — [국가안전보장회의](/ko/government/national-security-council-mkn)(MKN)에
   따르면 1970년 8월 31일 양 디페르투안 아공이 선포한 국가 서약으로,
   「말레이시아 전체 라캬트의 신조, 지침, 실천」이 됩니다.
@@ -130,7 +130,7 @@ framework: explainer
 
 ## 관련 용어
 
-- [드완 라캬트](/ko/glossary/dewan-rakyat)
+- [드완 라캬트](/ko/government/dewan-rakyat)
 - [연방헌법](/ko/law/federal-constitution)
 - [므르데카](/ko/glossary/merdeka)
 

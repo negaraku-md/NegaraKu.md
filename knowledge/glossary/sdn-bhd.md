@@ -71,4 +71,4 @@ yang tidak ditanggung oleh pemilikan tunggal.
 ## Istilah berkaitan
 
 - [Modal Berbayar](/glossary/paid-up-capital)
-- [Penyata Tahunan](/glossary/annual-return)
+- [Penyata Tahunan](/company-secretary/annual-return)

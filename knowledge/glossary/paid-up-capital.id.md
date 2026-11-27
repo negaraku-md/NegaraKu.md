@@ -80,4 +80,4 @@ untuk memenuhi syarat demikian atau memperkuat neraca.
 ## Istilah terkait
 
 - [Sdn Bhd](/id/glossary/sdn-bhd)
-- [Laporan Tahunan](/id/glossary/annual-return)
+- [Laporan Tahunan](/id/company-secretary/annual-return)

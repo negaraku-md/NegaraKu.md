@@ -95,8 +95,8 @@ The State Legislative Assembly (DUN) is where that second vote takes on meaning.
 It is the body that passes land laws, Islamic family laws, and local-government
 enactments for a state. This page explains what the DUN is, who an ADUN is, and
 how this state level runs parallel to — yet apart from — the
-[Dewan Rakyat](/glossary/dewan-rakyat) and
-[Dewan Negara](/glossary/dewan-negara) at the Federal level.
+[Dewan Rakyat](/government/dewan-rakyat) and
+[Dewan Negara](/government/dewan-negara) at the Federal level.
 
 ## At a glance
 
@@ -161,8 +161,8 @@ another.
 ## Why is the DUN only one chamber while Parliament has two?
 
 The federal Parliament has two chambers: the elected
-[Dewan Rakyat](/glossary/dewan-rakyat) and the largely appointed
-[Dewan Negara](/glossary/dewan-negara). Each DUN, by contrast, has only one
+[Dewan Rakyat](/government/dewan-rakyat) and the largely appointed
+[Dewan Negara](/government/dewan-negara). Each DUN, by contrast, has only one
 elected chamber.
 
 The reason lies in section 3 of the Eighth Schedule, which states it in a single
@@ -213,7 +213,7 @@ becomes important.)
 
 Note the difference with the Dewan Negara: there, Article 47 sets a higher
 minimum age for a Senator. For the DUN and the
-[Dewan Rakyat](/glossary/dewan-rakyat), the qualifying age is now the same, at 18
+[Dewan Rakyat](/government/dewan-rakyat), the qualifying age is now the same, at 18
 years.
 
 Section 6 lists the grounds on which a person is **disqualified** from being a
@@ -382,7 +382,7 @@ gazette rather than the old catalogue figure.
 ## Common mistakes
 
 - **Confusing the DUN with the Dewan Negara.** The DUN is the legislature of a
-  state; the [Dewan Negara](/glossary/dewan-negara) is the upper chamber of the
+  state; the [Dewan Negara](/government/dewan-negara) is the upper chamber of the
   federal Parliament. The name "Dewan Negeri" used by some states refers to the
   DUN, not the Dewan Negara.
 - **Assuming the number of DUN seats is set in the Federal Constitution.** It is
@@ -402,8 +402,8 @@ gazette rather than the old catalogue figure.
 
 ## Related terms
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) — the elected chamber of the federal Parliament
-- [Dewan Negara](/glossary/dewan-negara) — the upper chamber of the federal Parliament
+- [Dewan Rakyat](/government/dewan-rakyat) — the elected chamber of the federal Parliament
+- [Dewan Negara](/government/dewan-negara) — the upper chamber of the federal Parliament
 - [Menteri Besar or Chief Minister](/glossary/menteri-besar) — the head of the state government
 - [State Legislative Assembly: full constitutional account](/government/state-assemblies-dun) — an in-depth treatment of the Eighth Schedule
 - [Who makes what law: the Federal, State and Concurrent Lists](/government/federal-state-division)
@@ -420,7 +420,7 @@ in turn, lies in that state's own law, not in the Federal Constitution.
 To see the DUN in a wider picture, move on to the
 [federal–state division of powers](/government/federal-state-division) to
 understand what a DUN can make laws about, or to the
-[Dewan Rakyat](/glossary/dewan-rakyat) to compare the state level with the
+[Dewan Rakyat](/government/dewan-rakyat) to compare the state level with the
 Federal level.
 
 ---

@@ -225,7 +225,7 @@ Hầu hết mọi người gặp các sản phẩm đầu ra của SSM trước 
 
 - **Sdn Bhd.** "Sendirian Berhad" là hình thức công ty tư nhân trách nhiệm hữu hạn được tạo ra bởi Companies Act 2016. Bạn đưa nó vào tồn tại bằng cách thành lập nó với SSM qua MyCoID; số đăng ký mà SSM cấp là thứ khiến công ty trở thành thật. Xem [Sdn Bhd](/vi/glossary/sdn-bhd).
 - **Vốn góp.** Số tiền mà các cổ đông đã thực sự đưa vào công ty được ghi nhận vào hồ sơ của công ty tại SSM và được cập nhật khi cổ phần được phân bổ. Đó là một con số SSM nắm giữ, chứ không phải một con số nó bịa ra. Xem [Paid-up Capital](/vi/glossary/paid-up-capital).
-- **Báo cáo thường niên.** Mỗi năm một lần, mọi công ty xác nhận các thông tin của mình cho SSM trong một hồ sơ theo luật định. Bỏ lỡ nó và SSM là cơ quan phạt, và cuối cùng xóa, công ty. Xem [Annual Return](/vi/glossary/annual-return).
+- **Báo cáo thường niên.** Mỗi năm một lần, mọi công ty xác nhận các thông tin của mình cho SSM trong một hồ sơ theo luật định. Bỏ lỡ nó và SSM là cơ quan phạt, và cuối cùng xóa, công ty. Xem [Annual Return](/vi/company-secretary/annual-return).
 - **LLP (PLT).** Hợp danh trách nhiệm hữu hạn được đăng ký và duy trì qua cổng MyLLP của SSM theo LLP Act 2012 — một hướng riêng biệt với cả các công ty và các doanh nghiệp. Xem [LLP](/vi/glossary/llp).
 
 ### Một khung ra quyết định nhanh: tôi cần đăng ký loại nào với SSM?
@@ -252,5 +252,5 @@ Cả ba đều là đăng ký với SSM. Khác biệt là đạo luật mà chú
 - Hãy đọc trang thực thể cơ quan đồng hành, [SSM — Companies Commission of Malaysia](/vi/government/ssm), để biết danh mục cổng và các Chỉ thị Thực hành điều chỉnh hình phạt và miễn trừ.
 - Nếu bạn đang chọn một thực thể, hãy so sánh [Sdn Bhd](/vi/glossary/sdn-bhd) và [LLP](/vi/glossary/llp) trước khi chọn một cổng.
 - Để hiểu luật mà SSM quản lý, hãy xem [Companies Act 2016 (Act 777)](/vi/law/companies-act-2016).
-- Hãy tìm hiểu nghĩa vụ định kỳ mà mọi người đánh giá thấp: [Annual Return](/vi/glossary/annual-return).
+- Hãy tìm hiểu nghĩa vụ định kỳ mà mọi người đánh giá thấp: [Annual Return](/vi/company-secretary/annual-return).
 - Hãy luôn xác nhận phí, mẫu và chỉ thị hiện hành trên trang chính thức, `ssm.com.my`, trước khi dựa vào bất kỳ con số nào trong một văn bản chính thức.

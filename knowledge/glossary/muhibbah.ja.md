@@ -98,7 +98,7 @@ Muhibbah はアラビア語の *maḥabbah*（محبة）に由来し、これ�
 muhibbah はより温かい響きをもち、すなわち能動的な善意と開かれた姿勢を表します。
 
 muhibbah は公共の言説で広く用いられる概念であり、その意味はしばしば
-[Rukun Negara](/ja/glossary/rukun-negara) に含まれるような団結の原則と
+[Rukun Negara](/ja/malaysia/rukun-negara) に含まれるような団結の原則と
 結びつけられる点に留意する必要があります。本記事は、特定の政治的解釈に
 与することなく、この語とその用法を記述的に説明するものです。
 

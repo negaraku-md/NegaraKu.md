@@ -143,7 +143,7 @@ framework: explainer
 
 - [ヌグリ・スンビラン](/states/negeri-sembilan) — アダット・プルパティが行われる州
 - [マラッカ](/states/melaka) — ナニン地区を含む州
-- [ヤン・ディ・プルトゥアン・アゴン](/glossary/yang-di-pertuan-agong) — 君主制度の比較のために
+- [ヤン・ディ・プルトゥアン・アゴン](/government/yang-di-pertuan-agong) — 君主制度の比較のために
 - [シャリーア](/glossary/syariah) — アダットとともに機能する宗教法体系
 - [連邦憲法](/law/federal-constitution) — 「マレー人」の定義とマレーの慣習への言及
 

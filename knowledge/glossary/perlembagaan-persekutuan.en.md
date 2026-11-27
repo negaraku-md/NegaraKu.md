@@ -173,7 +173,7 @@ framework of the state:
 - **Citizenship** — Part III sets out how citizenship is acquired, deprived and
   terminated.
 - **Federal institutions** — the position of the
-  [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) as Supreme Head of
+  [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) as Supreme Head of
   State, and the structure of the legislative, executive and judicial branches.
 - **The states** — state constitutions, the Conference of Rulers, and the
   relationship between the Federation and the states.

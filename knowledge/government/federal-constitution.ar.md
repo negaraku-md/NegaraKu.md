@@ -35,7 +35,11 @@ sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-10-26
@@ -50,7 +54,7 @@ revisions:
 verificationNeeded:
   - "التأكد من العناوين الكاملة للجزأين XI وXIIA مقابل أحدث نسخة رسمية معاد طبعها (أُجريت المراجعة مقابل النسخة المعاد طبعها «As at 15 October 2020»)."
   - "التأكد من أن قائمة أحكام المادة 159(5) واستثناء المادة 159(4) لم تتغير في أي تعديل بعد النسخة المعاد طبعها لعام 2020."
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "الدستور الاتحادي (نسخة معاد طبعها، حتى 15 أكتوبر 2020) — المادة 4 والمادة 159 والمادة 160 والجزء XI (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

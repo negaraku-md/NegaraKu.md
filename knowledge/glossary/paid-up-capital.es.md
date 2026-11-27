@@ -79,4 +79,4 @@ el balance.
 ## Términos relacionados
 
 - [Sdn Bhd](/en/glossary/sdn-bhd)
-- [Annual Return](/en/glossary/annual-return)
+- [Annual Return](/en/company-secretary/annual-return)

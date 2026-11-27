@@ -113,7 +113,7 @@ programas gubernamentales malasios:
 
 - **Dewan Rakyat** — la Cámara del Parlamento cuyos miembros son elegidos,
   a diferencia del Dewan Negara, cuyos miembros son designados. Véase
-  [Dewan Rakyat](/en/glossary/dewan-rakyat).
+  [Dewan Rakyat](/en/government/dewan-rakyat).
 - **Rukun Negara** — el juramento nacional proclamado por el Yang
   di-Pertuan Agong el 31 de agosto de 1970, para ser «sostenido, guiado y
   practicado por toda la rakyat de Malasia», según el [Consejo de
@@ -138,7 +138,7 @@ tiene efecto jurídico, mientras que «rakyat» no.
 
 ## Términos relacionados
 
-- [Dewan Rakyat](/en/glossary/dewan-rakyat)
+- [Dewan Rakyat](/en/government/dewan-rakyat)
 - [Constitución Federal](/en/law/federal-constitution)
 - [Merdeka](/en/glossary/merdeka)
 

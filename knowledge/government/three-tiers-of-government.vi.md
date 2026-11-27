@@ -154,7 +154,7 @@ Những thiết chế cụ thể vận hành từng cấp — cùng các cơ qua
 - [Dewan Negara](/vi/government/dewan-negara/)
 - [Văn phòng Thủ tướng](/vi/government/prime-ministers-department/)
 - [Nền công vụ của Malaysia](/vi/government/public-service/)
-- [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong/)
 - [Menteri Besar hay Ketua Menteri](/vi/glossary/menteri-besar/)
 - [Ai quyết định điều gì](/vi/government/federal-state-division/)
 - [Lãnh thổ Liên bang](/vi/government/federal-territories-governance/)

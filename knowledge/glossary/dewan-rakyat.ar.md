@@ -31,7 +31,11 @@ sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "الدستور الاتحادي (إعادة طبع كما في 15 أكتوبر 2020) — المواد 43 و46 و47 و48 و52 و54 و55 و57 و59 و62 و67 و68 وحواشي التعديل (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -142,7 +146,7 @@ framework: explainer
 47(b). وإعادة طبع 15 أكتوبر 2020 تتضمّن هذا التعديل بالفعل — وأي نسخة من
 الدستور سابقة لتاريخ النفاذ ذاك ستُظهر الرقم القديم.
 
-قارِن هذا بـ[Dewan Negara](/glossary/dewan-negara): فالمادة 47(a) تحدّد هناك
+قارِن هذا بـ[Dewan Negara](/government/dewan-negara): فالمادة 47(a) تحدّد هناك
 حدًّا أدنى للسن قدره 30 سنة. وفرق السن ذاك هو الفرق الوحيد في الكفاءة الأساسية
 بين المجلسين بموجب المادة 47.
 
@@ -165,7 +169,7 @@ framework: explainer
   تقلّ عن **RM2,000**، دون أن يحصل على عفو مطلق؛
 - إذا اكتسب طواعيةً جنسية بلد أجنبي أو مارسها، أو أعلن ولاءه لبلد أجنبي.
 
-ويجوز لـ[يانغ دي-بيرتوان أغونغ](/glossary/yang-di-pertuan-agong) أن يرفع فقدان
+ويجوز لـ[يانغ دي-بيرتوان أغونغ](/government/yang-di-pertuan-agong) أن يرفع فقدان
 الكفاءة في السببين المتعلقين ببيان النفقات وبالإدانة؛ وإلا فإنه ينقضي بعد **خمس
 سنوات** (المادة 48(3)). وتعلّق المادة 48(4) بدورها نفاذ فقدان الكفاءة الناشئ عن
 إدانة لمدة 14 يومًا، وأطول من ذلك إذا قُدّم استئناف أو التماس عفو.
@@ -249,10 +253,10 @@ framework: explainer
 ## مصطلحات ذات صلة
 
 - [البرلمان الماليزي](/government/parliament)
-- [Dewan Negara](/glossary/dewan-negara)
+- [Dewan Negara](/government/dewan-negara)
 - [الدستور الاتحادي](/law/federal-constitution)
 - [كيف يصبح مشروع القانون قانونًا](/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong)
 - [الأقاليم الاتحادية](/glossary/wilayah-persekutuan)
 
 ## الخطوة التالية
@@ -263,7 +267,7 @@ framework: explainer
 المتداولة على الإنترنت كثيرًا ما تكون أقدم مما يُظنّ.
 
 ولترى كيف تعمل هذه المقاعد الـ222 مع المجلس الآخر في إقرار التشريعات، تابِع إلى
-[البرلمان الماليزي](/government/parliament) و[Dewan Negara](/glossary/dewan-negara).
+[البرلمان الماليزي](/government/parliament) و[Dewan Negara](/government/dewan-negara).
 
 ---
 

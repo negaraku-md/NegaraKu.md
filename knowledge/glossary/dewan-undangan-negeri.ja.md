@@ -93,7 +93,7 @@ framework: explainer
 州議会（DUN）とは、その2枚目の投票が意味を持つ場所である。それは、一つの州
 のために土地法、イスラム家族法、及び地方政府法令を可決する機関である。本
 ページは、州議会とは何か、ADUNとは誰か、そしてこの州レベルが連邦レベルの
-[下院（Dewan Rakyat）](/glossary/dewan-rakyat)及び[上院（Dewan Negara）](/glossary/dewan-negara)
+[下院（Dewan Rakyat）](/government/dewan-rakyat)及び[上院（Dewan Negara）](/government/dewan-negara)
 とどのように並行しながらも——別個の存在であるかを説明する。
 
 ## 概要
@@ -154,8 +154,8 @@ framework: explainer
 
 ## なぜ州議会は一院制で、国会は二院制なのか？
 
-連邦国会には二つの議院がある：選挙で選ばれる[下院（Dewan Rakyat）](/glossary/dewan-rakyat)
-と、大部分が任命される[上院（Dewan Negara）](/glossary/dewan-negara)である。
+連邦国会には二つの議院がある：選挙で選ばれる[下院（Dewan Rakyat）](/government/dewan-rakyat)
+と、大部分が任命される[上院（Dewan Negara）](/government/dewan-negara)である。
 これに対し、それぞれの州議会は選挙で選ばれる一つの議院しか持たない。
 
 その理由は第八附表第3節にあり、それは一文でこう述べている：**州立法機関は、
@@ -202,7 +202,7 @@ framework: explainer
 なる場合には、正確な日付を公式官報に照らして確認すること。）
 
 上院との違いに注意してほしい：そこでは第47条が上院議員のより高い最低年齢
-を定めている。州議会と[下院（Dewan Rakyat）](/glossary/dewan-rakyat)につ
+を定めている。州議会と[下院（Dewan Rakyat）](/government/dewan-rakyat)につ
 いては、資格年齢は現在同じ、すなわち18歳である。
 
 第6節は、ある人が州議会の議員となる**資格を喪失する**理由を列挙している：
@@ -360,7 +360,7 @@ Speaker）**を一名選出するものとし、その職が空席である間�
 ## よくある誤り
 
 - **州議会を上院と混同すること。** 州議会は一つの州の立法機関であり、
-  [上院（Dewan Negara）](/glossary/dewan-negara)は連邦国会の上院である。
+  [上院（Dewan Negara）](/government/dewan-negara)は連邦国会の上院である。
   一部の州が用いる「Dewan Negeri」という名称は上院ではなく州議会を指して
   いる。
 - **州議会の議席数が連邦憲法で定められていると考えること。** そうではない。
@@ -379,9 +379,9 @@ Speaker）**を一名選出するものとし、その職が空席である間�
 
 ## 関連用語
 
-- [下院（Dewan Rakyat）](/glossary/dewan-rakyat) — 選挙で選ばれる連邦国会
+- [下院（Dewan Rakyat）](/government/dewan-rakyat) — 選挙で選ばれる連邦国会
   の議院
-- [上院（Dewan Negara）](/glossary/dewan-negara) — 連邦国会の上院
+- [上院（Dewan Negara）](/government/dewan-negara) — 連邦国会の上院
 - [州首相又は首席大臣（Menteri Besar or Ketua Menteri）](/glossary/menteri-besar)
   — 州政府の首長
 - [州議会：完全な憲法上の説明](/government/state-assemblies-dun) — 第八附
@@ -400,7 +400,7 @@ Speaker）**を一名選出するものとし、その職が空席である間�
 州議会をより広い文脈の中で見るには、続けて
 [連邦—州権限の分配](/government/federal-state-division)に進み、州議会が
 何について法律を制定できるかを理解するか、又は
-[下院（Dewan Rakyat）](/glossary/dewan-rakyat)に進み、州レベルと連邦レベ
+[下院（Dewan Rakyat）](/government/dewan-rakyat)に進み、州レベルと連邦レベ
 ルを比較してほしい。
 
 ---

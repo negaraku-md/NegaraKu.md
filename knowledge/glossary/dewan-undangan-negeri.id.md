@@ -95,8 +95,8 @@ Dewan Undangan Negeri (DUN) adalah tempat suara kedua itu bermakna. Ia badan
 yang mengesahkan undang-undang tanah, undang-undang keluarga Islam, dan enakmen
 pemerintahan daerah bagi sebuah negeri. Halaman ini menjelaskan apa itu DUN,
 siapa ADUN, dan bagaimana tingkat negeri ini sejajar — namun terpisah —
-dari [Dewan Rakyat](/id/glossary/dewan-rakyat) dan
-[Dewan Negara](/id/glossary/dewan-negara) di tingkat Persekutuan.
+dari [Dewan Rakyat](/id/government/dewan-rakyat) dan
+[Dewan Negara](/id/government/dewan-negara) di tingkat Persekutuan.
 
 ## Sepintas lalu
 
@@ -161,8 +161,8 @@ satu negeri ke negeri lain.
 
 ## Mengapa DUN hanya satu dewan sedangkan Parlimen dua?
 
-Parlimen federal memiliki dua dewan: [Dewan Rakyat](/id/glossary/dewan-rakyat)
-yang dipilih dan [Dewan Negara](/id/glossary/dewan-negara) yang sebagian besarnya
+Parlimen federal memiliki dua dewan: [Dewan Rakyat](/id/government/dewan-rakyat)
+yang dipilih dan [Dewan Negara](/id/government/dewan-negara) yang sebagian besarnya
 diangkat. Setiap DUN hanya memiliki satu dewan yang dipilih.
 
 Sebabnya terletak pada Seksi 3 Jadwal Kedelapan, yang menyatakannya dalam satu
@@ -214,7 +214,7 @@ pastikan tanggal tepat terhadap warta resmi ketika ia menjadi penting.)
 
 Perhatikan perbedaan dengan Dewan Negara: di sana, Pasal 47 menetapkan usia
 minimum yang lebih tinggi bagi seorang Senator. Bagi DUN dan
-[Dewan Rakyat](/id/glossary/dewan-rakyat), usia kelayakan kini sama, yaitu 18 tahun.
+[Dewan Rakyat](/id/government/dewan-rakyat), usia kelayakan kini sama, yaitu 18 tahun.
 
 Seksi 6 mencantumkan sebab-sebab seseorang **hilang kelayakan** menjadi anggota
 DUN:
@@ -384,7 +384,7 @@ katalog yang lama.
 ## Kesalahan lazim
 
 - **Mengacaukan DUN dengan Dewan Negara.** DUN adalah badan legislatif sebuah
-  negeri; [Dewan Negara](/id/glossary/dewan-negara) adalah majelis atas Parlimen
+  negeri; [Dewan Negara](/id/government/dewan-negara) adalah majelis atas Parlimen
   federal. Nama "Dewan Negeri" yang digunakan sebagian negeri merujuk DUN,
   bukan Dewan Negara.
 - **Menganggap jumlah kursi DUN ditetapkan dalam Konstitusi Federal.**
@@ -404,8 +404,8 @@ katalog yang lama.
 
 ## Istilah terkait
 
-- [Dewan Rakyat](/id/glossary/dewan-rakyat) — majelis Parlimen federal yang dipilih
-- [Dewan Negara](/id/glossary/dewan-negara) — majelis atas Parlimen federal
+- [Dewan Rakyat](/id/government/dewan-rakyat) — majelis Parlimen federal yang dipilih
+- [Dewan Negara](/id/government/dewan-negara) — majelis atas Parlimen federal
 - [Menteri Besar atau Ketua Menteri](/id/glossary/menteri-besar) — ketua pemerintah negeri
 - [Dewan Undangan Negeri: keterangan konstitusional lengkap](/id/government/state-assemblies-dun) — uraian mendalam Jadwal Kedelapan
 - [Siapa membuat undang-undang apa: Daftar Persekutuan, Negeri, dan Bersama](/id/government/federal-state-division)
@@ -423,7 +423,7 @@ Konstitusi Federal.
 Untuk melihat DUN dalam gambaran yang lebih luas, lanjutkan ke
 [pembagian kuasa persekutuan–negeri](/id/government/federal-state-division) untuk
 memahami hal yang boleh dibuat undang-undang oleh sebuah DUN, atau ke
-[Dewan Rakyat](/id/glossary/dewan-rakyat) untuk membandingkan tingkat negeri
+[Dewan Rakyat](/id/government/dewan-rakyat) untuk membandingkan tingkat negeri
 dengan tingkat Persekutuan.
 
 ---

@@ -101,7 +101,7 @@ hangat, yaitu niat baik dan keterbukaan yang aktif.
 
 Perlu diingat bahwa muhibbah adalah konsep yang digunakan secara luas dalam
 wacana publik, dan maknanya sering dikaitkan dengan prinsip persatuan seperti
-yang terkandung dalam [Rukun Negara](/id/glossary/rukun-negara). Artikel ini
+yang terkandung dalam [Rukun Negara](/id/malaysia/rukun-negara). Artikel ini
 menguraikan istilah dan penggunaannya secara deskriptif, tanpa memihak pada
 tafsiran politik tertentu mana pun.
 

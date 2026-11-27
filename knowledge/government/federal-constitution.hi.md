@@ -35,7 +35,11 @@ sourceContentHash: "86126f038c7e787d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -50,7 +54,7 @@ revisions:
 verificationNeeded:
   - "Confirm the full titles of Part XI and XIIA against the latest official reprint (the review was done against the reprint 'As at 15 October 2020')."
   - "Confirm the list of Article 159(5) provisions and the Article 159(4) exception have not changed in any amendment after the 2020 reprint."
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "संघीय संविधान (पुनर्मुद्रण, 15 अक्तूबर 2020 तक) — अनुच्छेद 4, अनुच्छेद 159, अनुच्छेद 160, भाग XI (Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

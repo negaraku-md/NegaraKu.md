@@ -233,9 +233,9 @@ descriptive, sans prendre parti.
 
 ## Termes connexes
 
-- [Dewan Rakyat (Chambre des représentants)](/glossary/dewan-rakyat)
-- [Dewan Negara (Sénat)](/glossary/dewan-negara)
-- [Yang di-Pertuan Agong (Roi)](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat (Chambre des représentants)](/government/dewan-rakyat)
+- [Dewan Negara (Sénat)](/government/dewan-negara)
+- [Yang di-Pertuan Agong (Roi)](/government/yang-di-pertuan-agong)
 - [Perlembagaan Persekutuan (Constitution fédérale)](/law/federal-constitution)
 - [Warta Kerajaan (Journal officiel)](/glossary/warta-kerajaan)
 
@@ -251,8 +251,8 @@ Constitution fédérale, car ces dispositions ont été modifiées à maintes re
 
 Pour voir comment les sièges pourvus au moyen de ces élections forment le
 Parlement, poursuivez avec [Dewan Rakyat (Chambre des
-représentants)](/glossary/dewan-rakyat) et [Yang di-Pertuan Agong
-(Roi)](/glossary/yang-di-pertuan-agong).
+représentants)](/government/dewan-rakyat) et [Yang di-Pertuan Agong
+(Roi)](/government/yang-di-pertuan-agong).
 
 ---
 

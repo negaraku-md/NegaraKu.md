@@ -71,4 +71,4 @@ Sdn Bhd, Sendirian Berhad என்பதன் சுருக்கம், ம
 ## தொடர்புடைய சொற்கள்
 
 - [செலுத்தப்பட்ட மூலதனம்](/ta/glossary/paid-up-capital)
-- [ஆண்டு அறிக்கை](/ta/glossary/annual-return)
+- [ஆண்டு அறிக்கை](/ta/company-secretary/annual-return)

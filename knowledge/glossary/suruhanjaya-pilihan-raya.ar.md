@@ -154,9 +154,9 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Perkara 113", "Perkara 114", "per
 
 ## مصطلحات ذات صلة
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) (مجلس النواب)
-- [Dewan Negara](/glossary/dewan-negara) (مجلس الشيوخ)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) (الملك الأعلى)
+- [Dewan Rakyat](/government/dewan-rakyat) (مجلس النواب)
+- [Dewan Negara](/government/dewan-negara) (مجلس الشيوخ)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) (الملك الأعلى)
 - [Federal Constitution](/law/federal-constitution) (الدستور الاتحادي)
 - [Warta Kerajaan](/glossary/warta-kerajaan) (الجريدة الرسمية الحكومية)
 
@@ -164,7 +164,7 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Perkara 113", "Perkara 114", "per
 
 حين تقرأ عبارةً عن SPR — عدد المقاعد، أو الحدود الجديدة، أو استقلالية اللجنة — حدِّد ما إذا كان الأمر يقع ضمن سلطة SPR ذاتها (إجراء الانتخابات، مراجعة سجلات الناخبين) أم يقتصر على سلطتها في التوصية (تحديد الدوائر). ثم تتبّع رقم المادة أو رقم قسم Jadual Ketiga Belas الذي يسنده، وتحقّق منه بمقارنته بالنصّ الحالي للدستور الاتحادي، لأن هذه الأحكام قد عُدِّلت مراراً.
 
-ولتَرى كيف تُشكّل المقاعد التي تُملأ عبر هذه الانتخابات البرلمان، تابِع إلى [Dewan Rakyat](/glossary/dewan-rakyat) و[Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong).
+ولتَرى كيف تُشكّل المقاعد التي تُملأ عبر هذه الانتخابات البرلمان، تابِع إلى [Dewan Rakyat](/government/dewan-rakyat) و[Yang di-Pertuan Agong](/government/yang-di-pertuan-agong).
 
 ---
 

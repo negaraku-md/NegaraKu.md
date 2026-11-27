@@ -31,7 +31,11 @@ sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -147,7 +151,7 @@ tahun"* dengan *"lapan belas tahun"* dalam Pasal 47(b). Cetak ulang
 15 Oktober 2020 sudah memuat amandemen ini — salinan Konstitusi
 mana pun sebelum tanggal berlakunya itu akan menunjukkan angka lama.
 
-Bandingkan dengan [Dewan Negara](/id/glossary/dewan-negara): Pasal 47(a)
+Bandingkan dengan [Dewan Negara](/id/government/dewan-negara): Pasal 47(a)
 menetapkan usia minimum 30 tahun di sana. Perbedaan usia itu adalah
 satu-satunya perbedaan kelayakan dasar antara kedua Majelis dalam Pasal 47.
 
@@ -176,7 +180,7 @@ salah satu Majelis Parlimen:
 
 Kehilangan kelayakan di bawah dua sebab yang berkaitan laporan pengeluaran dan
 vonis boleh dibatalkan oleh
-[Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong); jika tidak, ia
+[Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong); jika tidak, ia
 berhenti setelah **lima tahun** (Pasal 48(3)). Pasal 48(4) menunda
 berlakunya kehilangan kelayakan akibat vonis selama 14 hari, dan lebih lama
 lagi jika banding atau petisi pengampunan diajukan.
@@ -275,10 +279,10 @@ Parlimen.
 ## Istilah terkait
 
 - [Parlimen Malaysia](/id/government/parliament)
-- [Dewan Negara](/id/glossary/dewan-negara)
+- [Dewan Negara](/id/government/dewan-negara)
 - [Konstitusi Federal](/id/law/federal-constitution)
 - [Bagaimana rancangan undang-undang menjadi undang-undang](/id/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong)
+- [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong)
 - [Wilayah Persekutuan](/id/glossary/wilayah-persekutuan)
 
 ## Apa selanjutnya
@@ -292,7 +296,7 @@ yang beredar daring sering lebih lama dari yang disangka.
 Untuk melihat bagaimana 222 kursi ini bekerja sama dengan majelis yang satu lagi
 dalam mengesahkan undang-undang, lanjutkan ke
 [Parlimen Malaysia](/id/government/parliament) dan
-[Dewan Negara](/id/glossary/dewan-negara).
+[Dewan Negara](/id/government/dewan-negara).
 
 ---
 

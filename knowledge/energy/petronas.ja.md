@@ -34,6 +34,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/companies/petronas"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -51,7 +55,7 @@ verificationNeeded:
   - "下流事業のFY2024業績：Integrated Reportでは下流事業の税引後損失が示されている；本文に記載のRM17億は、Engen Groupの連結除外の影響を除いた数値である。報告された正確な数値と脚注の文言を確認すること。"
   - "1974年石油開発法（PDA 1974）の文言：引用されている記述はMalaysia Petroleum Managementの規制概要（regulatory overview）に基づくものであり、これは同法の要約である。同法自体を引用する場合は、法定の逐語的な文言（該当条文は石油の探査、開発、獲得および取得に言及している）を一次立法文書と照合して確認すること。"
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Malaysia Petroleum Management — Regulatory Overview"
     url: "https://www.petronas.com/mpm/regulatory/overview"

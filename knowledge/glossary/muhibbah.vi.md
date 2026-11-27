@@ -101,7 +101,7 @@ muhibbah mang sắc thái ấm áp hơn, đó là thiện chí và sự cởi m�
 
 Cần lưu ý rằng muhibbah là một khái niệm được sử dụng rộng rãi trong diễn ngôn
 công cộng, và ý nghĩa của nó thường gắn với các nguyên tắc đoàn kết như những gì
-được nêu trong [Rukun Negara](/vi/glossary/rukun-negara). Bài viết này trình bày
+được nêu trong [Rukun Negara](/vi/malaysia/rukun-negara). Bài viết này trình bày
 thuật ngữ và cách dùng của nó một cách mô tả, không thiên về bất kỳ cách diễn
 giải chính trị cụ thể nào.
 

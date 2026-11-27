@@ -98,7 +98,7 @@ Muhibbah는 아랍어 *maḥabbah*(محبة)에서 왔으며, 이는 다시 어�
 muhibbah는 더 따뜻한 어조, 즉 능동적인 선의와 열린 태도를 담고 있습니다.
 
 muhibbah는 공적 담론에서 널리 쓰이는 개념이며, 그 의미는 흔히
-[Rukun Negara](/ko/glossary/rukun-negara)에 담긴 것과 같은 화합의 원칙과
+[Rukun Negara](/ko/malaysia/rukun-negara)에 담긴 것과 같은 화합의 원칙과
 연결된다는 점에 유의해야 합니다. 이 글은 특정한 정치적 해석의 편을 들지 않고,
 이 말과 그 용법을 기술적으로 설명합니다.
 

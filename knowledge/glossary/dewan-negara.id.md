@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -88,7 +92,7 @@ framework: explainer
 **Bahasa Indonesia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
 Ketika Parlimen dibubarkan, seluruh 222 kursi
-[Dewan Rakyat](/id/glossary/dewan-rakyat) menjadi kosong dan
+[Dewan Rakyat](/id/government/dewan-rakyat) menjadi kosong dan
 setiap anggotanya perlu bertanding kembali. Tujuh puluh anggota Dewan Negara tidak.
 Masa jabatan mereka, menurut Pasal 45(3) Konstitusi Federal,
 "tidaklah tersentuh oleh pembubaran Parlimen".
@@ -105,7 +109,7 @@ Majelis: Dewan Negara dan Dewan Rakyat.
 
 Anggotanya disebut **Senator**. Tiada seorang pun dari mereka dipilih oleh
 pemilih biasa. Mereka entah **dipilih oleh Dewan Undangan Negeri** atau
-**diangkat oleh [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong)**.
+**diangkat oleh [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong)**.
 
 ## Dewan Negara versus Dewan Rakyat
 
@@ -120,7 +124,7 @@ pemilih biasa. Mereka entah **dipilih oleh Dewan Undangan Negeri** atau
 | Pejabat ketua | Yang di-Pertua Dewan Negara | Yang di-Pertua Dewan Rakyat |
 
 Uraian lengkap tentang majelis yang satu lagi ada dalam artikel
-[Dewan Rakyat](/id/glossary/dewan-rakyat).
+[Dewan Rakyat](/id/government/dewan-rakyat).
 
 Satu lagi perbedaan yang mudah terlewat: Pasal 43(2)(a) mengharuskan
 Perdana Menteri seorang **anggota Dewan Rakyat**, tetapi Pasal 43(2)(b)
@@ -263,8 +267,8 @@ tiada satu pun dari tiga pilihan itu telah dilaksanakan.
 
 ## Istilah terkait
 
-- [Dewan Rakyat](/id/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/id/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong)
 - [Parlimen Malaysia](/id/government/parliament)
 - [Konstitusi Federal](/id/law/federal-constitution)
 - [Wilayah Persekutuan](/id/glossary/wilayah-persekutuan)

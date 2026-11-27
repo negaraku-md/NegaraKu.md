@@ -38,7 +38,11 @@ sourceContentHash: "183ef4457763ac02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/malaysia/rukun-negara"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -57,7 +61,7 @@ verificationNeeded:
   - "Negaraku பாடல் ‘தேசிய கீதச் சட்டத்தின் கீழ் பாதுகாக்கப்படுகிறது’ (Akta Lagu Kebangsaan 1968-ஐக் குறிக்கிறது) — இன்னும் முதன்மை மூலத்தால் உறுதிப்படுத்தப்படவில்லை."
   - "‘பொதுவான தவறுகள்’ எனும் கட்டமைப்பு கற்பித்தல் தன்மை கொண்டது; தவறுகளின் உண்மையான அடிக்கடித்தன்மை எந்த மூலத்தாலும் அளவிடப்படவில்லை."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Rukun Negara — மலேசியாவை அறிந்துகொள் (Rukun Negara — Kenali Malaysia)"
     url: "https://www.malaysia.gov.my/my/government/kenali-malaysia/rukun-negara"

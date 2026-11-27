@@ -224,7 +224,7 @@ Most people meet SSM's outputs before they meet its name. Here is how the terms 
 
 - **Sdn Bhd.** "Sendirian Berhad" is the private-limited-company form created by the Companies Act 2016. You bring one into existence by incorporating it with SSM through MyCoID; the registration number SSM issues is what makes the company real. See [Sdn Bhd](/en/glossary/sdn-bhd).
 - **Paid-up capital.** The money shareholders have actually put into the company is recorded against the company's file at SSM and updated when shares are allotted. It is a figure SSM holds, not one it invents. See [Paid-up Capital](/en/glossary/paid-up-capital).
-- **Annual return.** Once a year, every company confirms its particulars to SSM in a statutory filing. Miss it and SSM is the body that penalises, and ultimately strikes off, the company. See [Annual Return](/en/glossary/annual-return).
+- **Annual return.** Once a year, every company confirms its particulars to SSM in a statutory filing. Miss it and SSM is the body that penalises, and ultimately strikes off, the company. See [Annual Return](/en/company-secretary/annual-return).
 - **LLP (PLT).** The limited liability partnership is registered and maintained through SSM's MyLLP portal under the LLP Act 2012 — a separate track from both companies and businesses. See [LLP](/en/glossary/llp).
 
 ### A quick decision framework: which SSM registration do I need?
@@ -251,5 +251,5 @@ All three are registrations with SSM. The difference is the statute they sit und
 - Read the companion agency entity page, [SSM — Companies Commission of Malaysia](/en/government/ssm), for the portal inventory and the Practice Directives that govern penalties and exemptions.
 - If you are choosing an entity, compare [Sdn Bhd](/en/glossary/sdn-bhd) and [LLP](/en/glossary/llp) before you pick a portal.
 - To understand the law SSM administers, see [Companies Act 2016 (Act 777)](/en/law/companies-act-2016).
-- Learn the recurring obligation everyone underestimates: the [Annual Return](/en/glossary/annual-return).
+- Learn the recurring obligation everyone underestimates: the [Annual Return](/en/company-secretary/annual-return).
 - Always confirm current fees, forms and directives on the official site, `ssm.com.my`, before relying on any figure in a formal document.

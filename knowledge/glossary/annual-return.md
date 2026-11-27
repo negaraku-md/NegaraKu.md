@@ -22,7 +22,11 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/company-secretary/annual-return"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
@@ -35,7 +39,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"

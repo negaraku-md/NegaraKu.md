@@ -154,9 +154,9 @@ Là cơ quan tổ chức các cuộc bầu cử, SPR là tâm điểm của tran
 
 ## Thuật ngữ liên quan
 
-- [Dewan Rakyat (Hạ viện)](/glossary/dewan-rakyat)
-- [Dewan Negara (Thượng viện)](/glossary/dewan-negara)
-- [Yang di-Pertuan Agong (Quốc vương)](/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat (Hạ viện)](/government/dewan-rakyat)
+- [Dewan Negara (Thượng viện)](/government/dewan-negara)
+- [Yang di-Pertuan Agong (Quốc vương)](/government/yang-di-pertuan-agong)
 - [Perlembagaan Persekutuan (Hiến pháp Liên bang)](/law/federal-constitution)
 - [Warta Kerajaan (Công báo Chính phủ)](/glossary/warta-kerajaan)
 
@@ -164,7 +164,7 @@ Là cơ quan tổ chức các cuộc bầu cử, SPR là tâm điểm của tran
 
 Khi bạn đọc một phát biểu về SPR — số ghế, ranh giới mới, hay tính độc lập của Ủy ban — hãy nhận diện xem vấn đề đó nằm trong thẩm quyền của riêng SPR (tổ chức bầu cử, sửa đổi danh sách cử tri) hay chỉ nằm trong quyền kiến nghị của nó (phân định khu vực bầu cử). Sau đó truy tìm số hiệu điều hay số hiệu mục của Phụ lục Thứ Mười Ba làm căn cứ, và đối chiếu nó với văn bản hiện hành của Hiến pháp Liên bang, bởi vì những điều khoản này đã bị sửa đổi nhiều lần.
 
-Để thấy những ghế được lấp đầy qua các cuộc bầu cử này tạo thành Quốc hội như thế nào, hãy tiếp tục với [Dewan Rakyat (Hạ viện)](/glossary/dewan-rakyat) và [Yang di-Pertuan Agong (Quốc vương)](/glossary/yang-di-pertuan-agong).
+Để thấy những ghế được lấp đầy qua các cuộc bầu cử này tạo thành Quốc hội như thế nào, hãy tiếp tục với [Dewan Rakyat (Hạ viện)](/government/dewan-rakyat) và [Yang di-Pertuan Agong (Quốc vương)](/government/yang-di-pertuan-agong).
 
 ---
 

@@ -113,5 +113,5 @@ rentas kaum, bukan milik satu komuniti sahaja.
 ## Apa yang seterusnya
 
 Untuk memahami minuman yang menjadi identiti setiap kedai mamak, baca
-[Teh Tarik](/glossary/teh-tarik) — termasuk sebab ia perlu "ditarik" dan
+[Teh Tarik](/food-lifestyle/teh-tarik) — termasuk sebab ia perlu "ditarik" dan
 statusnya sebagai Warisan Kebangsaan.

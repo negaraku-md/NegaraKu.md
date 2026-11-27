@@ -43,6 +43,10 @@ translationStatus: "in-sync"
 sourceContentHash: "fbd854ca90a75558"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "最新の公表済み外貨準備の数字を確認すること。1,162億米ドル／輸入5.0か月分という数字は2024年12月31日時点のものであり、BNMは月に2回これを更新している。"

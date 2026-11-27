@@ -71,4 +71,4 @@ Sdn Bhd उन संस्थापकों के लिए पूर्व�
 ## संबंधित शब्द
 
 - [चुकता पूँजी](/en/glossary/paid-up-capital)
-- [वार्षिक विवरणी](/en/glossary/annual-return)
+- [वार्षिक विवरणी](/en/company-secretary/annual-return)

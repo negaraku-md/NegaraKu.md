@@ -225,7 +225,7 @@ La plupart des gens rencontrent les produits de la SSM avant d'en rencontrer le 
 
 - **Sdn Bhd.** « Sendirian Berhad » est la forme de société à responsabilité limitée privée créée par la Companies Act 2016. Vous la faites exister en la constituant auprès de la SSM via MyCoID ; le numéro d'enregistrement que délivre la SSM est ce qui rend la société réelle. Voir [Sdn Bhd](/fr/glossary/sdn-bhd).
 - **Capital libéré.** L'argent que les actionnaires ont effectivement versé à la société est consigné dans le dossier de la société à la SSM et actualisé lorsque des actions sont émises. C'est un chiffre que la SSM conserve, non un chiffre qu'elle invente. Voir [Capital libéré](/fr/glossary/paid-up-capital).
-- **Déclaration annuelle.** Une fois par an, chaque société confirme ses renseignements à la SSM au moyen d'un dépôt statutaire. En cas de manquement, la SSM est l'organisme qui sanctionne et, en dernier ressort, radie la société. Voir [Déclaration annuelle](/fr/glossary/annual-return).
+- **Déclaration annuelle.** Une fois par an, chaque société confirme ses renseignements à la SSM au moyen d'un dépôt statutaire. En cas de manquement, la SSM est l'organisme qui sanctionne et, en dernier ressort, radie la société. Voir [Déclaration annuelle](/fr/company-secretary/annual-return).
 - **LLP (PLT).** La société à responsabilité limitée est enregistrée et maintenue via le portail MyLLP de la SSM en vertu de la LLP Act 2012 — une voie distincte à la fois des sociétés et des entreprises. Voir [LLP](/fr/glossary/llp).
 
 ### Un rapide cadre de décision : de quel enregistrement de la SSM ai-je besoin ?
@@ -252,5 +252,5 @@ Les trois sont des enregistrements auprès de la SSM. La différence tient à la
 - Lisez la page d'entité de l'agence qui accompagne celle-ci, [SSM — Companies Commission of Malaysia](/fr/government/ssm), pour l'inventaire des portails et les Practice Directives qui régissent les sanctions et les exonérations.
 - Si vous choisissez une entité, comparez [Sdn Bhd](/fr/glossary/sdn-bhd) et [LLP](/fr/glossary/llp) avant de choisir un portail.
 - Pour comprendre la loi que la SSM administre, voir [Companies Act 2016 (Act 777)](/fr/law/companies-act-2016).
-- Découvrez l'obligation récurrente que tout le monde sous-estime : la [Déclaration annuelle](/fr/glossary/annual-return).
+- Découvrez l'obligation récurrente que tout le monde sous-estime : la [Déclaration annuelle](/fr/company-secretary/annual-return).
 - Confirmez toujours les droits, formulaires et directives en vigueur sur le site officiel, `ssm.com.my`, avant de vous fier à un chiffre quelconque dans un document formel.

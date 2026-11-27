@@ -39,6 +39,10 @@ translationStatus: "in-sync"
 sourceContentHash: "772260093134c451"
 
 status: "archived"
+supersededBy: "/arts-culture/orang-asli"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Akta Orang Asli 1954 (Akta 134) — Cetakan Semula (teks penuh, terjemahan rasmi JPN, pindaan hingga 1 Januari 2006)"
     url: "https://www.forestry.gov.my/images/stories/pdf/Akta/Akta%20Orang%20Asli.pdf"

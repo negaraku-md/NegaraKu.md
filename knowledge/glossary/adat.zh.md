@@ -144,7 +144,7 @@ Adat Temenggung是一种父系adat体系，强调父系血脉。它是adat中较
 
 - [森美兰](/zh/states/negeri-sembilan) — 施行Adat Perpatih的州属
 - [马六甲](/zh/states/melaka) — 包含Naning县的州属
-- [最高元首（Yang di-Pertuan Agong）](/zh/glossary/yang-di-pertuan-agong) — 供比较君主制度之用
+- [最高元首（Yang di-Pertuan Agong）](/zh/government/yang-di-pertuan-agong) — 供比较君主制度之用
 - [沙里亚（Syariah）](/zh/glossary/syariah) — 与adat并行运作的宗教法律体系
 - [联邦宪法](/zh/law/federal-constitution) — 「马来人」的定义与马来习俗的提及
 

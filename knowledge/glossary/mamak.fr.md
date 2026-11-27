@@ -90,4 +90,4 @@ En décembre 2024, l'élément *Breakfast culture in Malaysia: dining experience
 
 ## Et ensuite
 
-Pour comprendre la boisson qui donne à chaque établissement mamak son identité, lisez [Teh Tarik](/en/glossary/teh-tarik) — y compris pourquoi il doit être « tiré » (pulled) et son statut d'élément du patrimoine national.
+Pour comprendre la boisson qui donne à chaque établissement mamak son identité, lisez [Teh Tarik](/en/food-lifestyle/teh-tarik) — y compris pourquoi il doit être « tiré » (pulled) et son statut d'élément du patrimoine national.

@@ -31,7 +31,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "9b43f0c692cc687d"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -150,7 +154,7 @@ one years"* with *"eighteen years"* in Article 47(b). The 15 October 2020
 reprint already incorporates this amendment — any copy of the Constitution
 predating that commencement date will show the old figure.
 
-Compare this with the [Dewan Negara](/en/glossary/dewan-negara): Article
+Compare this with the [Dewan Negara](/en/government/dewan-negara): Article
 47(a) sets a minimum age of 30 there. That age difference is the only basic
 qualification difference between the two Houses under Article 47.
 
@@ -178,7 +182,7 @@ being a member of either House of Parliament:
 
 Disqualification under the two grounds relating to the expenses return and to
 conviction may be removed by the
-[Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong); otherwise it
+[Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong); otherwise it
 ceases after **five years** (Article 48(3)). Article 48(4), in turn, suspends
 the operation of a disqualification arising from a conviction for 14 days, and
 longer still if an appeal or a petition for pardon is filed.
@@ -277,10 +281,10 @@ among the members of either House of Parliament.
 ## Related terms
 
 - [Parliament of Malaysia](/en/government/parliament)
-- [Dewan Negara](/en/glossary/dewan-negara)
+- [Dewan Negara](/en/government/dewan-negara)
 - [Federal Constitution](/en/law/federal-constitution)
 - [How a Bill Becomes Law](/en/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
+- [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong)
 - [Federal Territories](/en/glossary/wilayah-persekutuan)
 
 ## What's next
@@ -293,7 +297,7 @@ reprint circulating online is often older than assumed.
 
 To see how these 222 seats work together with the other House in passing
 legislation, continue to [Parliament of Malaysia](/en/government/parliament)
-and [Dewan Negara](/en/glossary/dewan-negara).
+and [Dewan Negara](/en/government/dewan-negara).
 
 ---
 

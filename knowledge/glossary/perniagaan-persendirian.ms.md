@@ -153,5 +153,5 @@ Andaikan Siti mula menjual kuih buatan sendiri dalam talian. Dia mendaftarkan "S
 ## Apa yang seterusnya
 
 - Bandingkan tiga struktur utama secara berdampingan dalam entri [Sdn Bhd](/glossary/sdn-bhd) dan [LLP](/glossary/llp) sebelum anda membuat keputusan.
-- Jika anda mendaftarkan syarikat kemudian, ambil perhatian bahawa ia membawa obligasi yang lebih berat seperti [penyata tahunan](/glossary/annual-return).
+- Jika anda mendaftarkan syarikat kemudian, ambil perhatian bahawa ia membawa obligasi yang lebih berat seperti [penyata tahunan](/company-secretary/annual-return).
 - Sebelum mendaftar, sahkan yuran semasa dan sebarang keperluan kelulusan nama terus di portal ezbiz SSM, kerana yuran yang diwartakan boleh berubah.

@@ -203,7 +203,7 @@ giống nhau với tư cách người đứng đầu bang theo hiến pháp:
 
 **"Có một Sultan của Malaysia."** Không. Không có một Sultan cho toàn Malaysia.
 Chín bang có Vương công riêng của mình ngang hàng, và Nguyên thủ Tối cao
-là [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong) được chọn
+là [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong) được chọn
 luân phiên từ hàng ngũ chín Vương công đó.
 
 **"Yang di-Pertua Negeri giống như Sultan, chỉ khác tước hiệu."** Không giống.
@@ -234,7 +234,7 @@ của con người.
   hãy tham khảo [Hiến pháp Liên bang](/vi/law/federal-constitution) trong bản in lại
   chính thức của AGC.
 - Để hiểu cách Yang di-Pertuan Agong được chọn từ hàng ngũ chín
-  Vương công, xem [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong).
+  Vương công, xem [Yang di-Pertuan Agong](/vi/government/yang-di-pertuan-agong).
 - Để có ví dụ chi tiết về các bang không có vua, xem
   [Melaka](/vi/states/melaka) và [Penang](/vi/states/penang).
 - Để có mô hình người đứng đầu bang có vua được bầu chọn chứ không thừa kế trực tiếp,

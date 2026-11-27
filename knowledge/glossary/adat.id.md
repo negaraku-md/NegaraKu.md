@@ -145,7 +145,7 @@ Latar lengkap ketentuan ini terdapat dalam [Konstitusi Federal](/id/law/federal-
 
 - [Negeri Sembilan](/id/states/negeri-sembilan) — negeri yang mempraktikkan Adat Perpatih
 - [Melaka](/id/states/melaka) — negeri yang memuat daerah Naning
-- [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong) — untuk perbandingan institusi kerajaan
+- [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong) — untuk perbandingan institusi kerajaan
 - [Syariah](/id/glossary/syariah) — sistem hukum agama yang berfungsi bersama adat
 - [Konstitusi Federal](/id/law/federal-constitution) — definisi "Melayu" dan sebutan adat Melayu
 

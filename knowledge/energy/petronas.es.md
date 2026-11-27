@@ -34,6 +34,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/companies/petronas"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -51,7 +55,7 @@ verificationNeeded:
   - "Resultado de Downstream del FY2024: el Integrated Report presenta una pérdida después de impuestos en Downstream; los RM1.7 mil millones indicados son la cifra que excluye el efecto de la desconsolidación del Engen Group. Confirme la cifra exacta reportada y la redacción de la nota al pie."
   - "Redacción de la PDA 1974: la descripción citada sigue la visión regulatoria (regulatory overview) de Malaysia Petroleum Management, que es solo un resumen de la ley. Si se va a citar la ley en sí, confirme el lenguaje estatutario literal (la sección pertinente se refiere a explorar, explotar, ganar y obtener petróleo) cotejándolo con el texto legislativo primario."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Malaysia Petroleum Management — Regulatory Overview"
     url: "https://www.petronas.com/mpm/regulatory/overview"

@@ -43,6 +43,10 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/bank-negara-malaysia"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 
 verificationNeeded:
   - "नवीनतम प्रकाशित अंतरराष्ट्रीय भंडार आँकड़े की पुष्टि करें; 116.2 अरब अमेरिकी डॉलर / 5.0 महीने के आयात का आँकड़ा 31 दिसंबर 2024 तक का है और BNM इसे महीने में दो बार अद्यतन करता है।"

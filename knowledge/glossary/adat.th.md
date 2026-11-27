@@ -145,7 +145,7 @@ framework: explainer
 
 - [เนอเกอรีเซิมบีลัน](/th/states/negeri-sembilan) — รัฐที่ปฏิบัติอาดัตเปอร์ปาติห์
 - [มะละกา](/th/states/melaka) — รัฐที่มีเขตนานิง
-- [ยังดีเปอร์ตวนอากง](/th/glossary/yang-di-pertuan-agong) — เพื่อเปรียบเทียบสถาบันกษัตริย์
+- [ยังดีเปอร์ตวนอากง](/th/government/yang-di-pertuan-agong) — เพื่อเปรียบเทียบสถาบันกษัตริย์
 - [ชะรีอะฮ์](/th/glossary/syariah) — ระบบกฎหมายทางศาสนาที่ทำงานควบคู่กับอาดัต
 - [รัฐธรรมนูญแห่งสหพันธรัฐ](/th/law/federal-constitution) — คำนิยาม "มลายู" และการกล่าวถึงอาดัตมลายู
 

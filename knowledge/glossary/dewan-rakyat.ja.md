@@ -31,7 +31,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "9b43f0c692cc687d"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -44,7 +48,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "連邦憲法（2020年10月15日時点の再版）— 第43、46、47、48、52、54、55、57、59、62、67、68条および改正注記 (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020) — Perkara 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 dan catatan pindaan)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -142,7 +146,7 @@ A1603**（2019年憲法（改正）法令）は、第47(b)条における*「21�
 を*「18歳」*に置き換えた。2020年10月15日の再版にはすでにこの改正が反映さ
 れている——その施行日より前の憲法の写しには、旧来の数字が記載されている。
 
-[上院（Dewan Negara）](/glossary/dewan-negara)と比較すると、第47(a)条は
+[上院（Dewan Negara）](/government/dewan-negara)と比較すると、第47(a)条は
 そちらの最低年齢を30歳と定めている。この年齢の違いが、第47条のもとで両議
 院の間にある唯一の基本的な資格の違いである。
 
@@ -167,7 +171,7 @@ A1603**（2019年憲法（改正）法令）は、第47(b)条における*「21�
 - 外国の国籍を自発的に取得もしくは行使し、または外国への忠誠を誓ったとき。
 
 選挙費用の明細書および有罪判決に関する二つの理由による資格喪失は、
-[国王（Yang di-Pertuan Agong）](/glossary/yang-di-pertuan-agong)によって
+[国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)によって
 取り消されることがある；そうでなければ、**5年**の経過後に効力を失う（第
 48(3)条）。第48(4)条は、有罪判決による資格喪失の効力を14日間猶予し、上訴
 または恩赦請願が提起された場合にはさらに長く猶予する。
@@ -255,10 +259,10 @@ A1603**（2019年憲法（改正）法令）は、第47(b)条における*「21�
 ## 関連用語
 
 - [マレーシア国会](/government/parliament)
-- [上院（Dewan Negara）](/glossary/dewan-negara)
+- [上院（Dewan Negara）](/government/dewan-negara)
 - [連邦憲法](/law/federal-constitution)
 - [法案が法律になるまで](/law/how-a-bill-becomes-law)
-- [国王（Yang di-Pertuan Agong）](/glossary/yang-di-pertuan-agong)
+- [国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)
 - [連邦直轄区（Wilayah Persekutuan）](/glossary/wilayah-persekutuan)
 
 ## 次に読むべきもの
@@ -271,7 +275,7 @@ A1603**（2019年憲法（改正）法令）は、第47(b)条における*「21�
 
 この222議席がもう一つの議院とどのように協力して法律を成立させているかを
 見るには、続けて[マレーシア国会](/government/parliament)と
-[上院（Dewan Negara）](/glossary/dewan-negara)を読んでほしい。
+[上院（Dewan Negara）](/government/dewan-negara)を読んでほしい。
 
 ---
 

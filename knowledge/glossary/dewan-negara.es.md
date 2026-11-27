@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Constitución Federal (Reimpresión 2020) — versión en malayo (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -88,7 +92,7 @@ framework: explainer
 **Español:** Dewan Negara (Senado) · **English:** Senate · **中文:** 上议院
 
 Cuando se disuelve el Parlamento, los 222 escaños del
-[Dewan Rakyat](/en/glossary/dewan-rakyat) quedan vacantes y cada miembro
+[Dewan Rakyat](/en/government/dewan-rakyat) quedan vacantes y cada miembro
 debe presentarse de nuevo. Los 70 miembros del Dewan Negara, no. Su mandato,
 en virtud del artículo 45(3) de la Constitución Federal,
 «no se ve afectado por la disolución del Parlamento».
@@ -105,7 +109,7 @@ Yang di-Pertuan Agong y dos Cámaras: el Dewan Negara y el Dewan Rakyat.
 
 Sus miembros se denominan **senadores**. Ninguno de ellos es elegido por los
 votantes comunes. Son, bien **elegidos por la Asamblea Legislativa Estatal**,
-bien **nombrados por el [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)**.
+bien **nombrados por el [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong)**.
 
 ## Dewan Negara frente a Dewan Rakyat
 
@@ -119,7 +123,7 @@ bien **nombrados por el [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-ago
 | Efecto de la disolución del Parlamento | El mandato no se ve afectado | Todos los escaños quedan vacantes |
 | Funcionario que preside | Presidente del Dewan Negara | Presidente (Speaker) del Dewan Rakyat |
 
-En el artículo [Dewan Rakyat](/en/glossary/dewan-rakyat) encontrará una
+En el artículo [Dewan Rakyat](/en/government/dewan-rakyat) encontrará una
 descripción completa de la otra Cámara.
 
 Una diferencia más que es fácil pasar por alto: el artículo 43(2)(a) exige que
@@ -264,8 +268,8 @@ opciones.
 
 ## Términos relacionados
 
-- [Dewan Rakyat](/en/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/en/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong)
 - [Parlamento de Malasia](/en/government/parliament)
 - [Constitución Federal](/en/law/federal-constitution)
 - [Territorios Federales](/en/glossary/wilayah-persekutuan)

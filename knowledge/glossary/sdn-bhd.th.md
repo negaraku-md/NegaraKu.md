@@ -58,4 +58,4 @@ Sdn Bhd เป็นตัวเลือกโดยปริยายสำห
 ## คำศัพท์ที่เกี่ยวข้อง
 
 - [ทุนชำระแล้ว (Modal Berbayar)](/th/glossary/paid-up-capital)
-- [รายงานประจำปี (Penyata Tahunan)](/th/glossary/annual-return)
+- [รายงานประจำปี (Penyata Tahunan)](/th/company-secretary/annual-return)

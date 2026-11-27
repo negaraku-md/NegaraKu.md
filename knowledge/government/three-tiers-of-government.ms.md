@@ -154,7 +154,7 @@ Institusi khusus yang menjalankan setiap peringkat — serta pejabat dan dokumen
 - [Dewan Negara](/government/dewan-negara/)
 - [Jabatan Perdana Menteri](/government/prime-ministers-department/)
 - [Perkhidmatan Awam Malaysia](/government/public-service/)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong/)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong/)
 - [Menteri Besar atau Ketua Menteri](/glossary/menteri-besar/)
 - [Siapa Menggubal Undang-Undang Mengenai Apa](/government/federal-state-division/)
 - [Wilayah Persekutuan](/government/federal-territories-governance/)

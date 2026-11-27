@@ -31,7 +31,11 @@ sourceContentHash: "9b43f0c692cc687d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-rakyat"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Constitución Federal (Reimpresión a fecha de 15 de octubre de 2020) — artículos 43, 46, 47, 48, 52, 54, 55, 57, 59, 62, 67, 68 y notas de enmienda (Perlembagaan Persekutuan (Cetakan Semula sebagaimana pada 15 Oktober 2020))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -151,7 +155,7 @@ reimpresión del 15 de octubre de 2020 ya incorpora esta enmienda — cualquier
 copia de la Constitución anterior a esa fecha de entrada en vigor mostrará la
 cifra antigua.
 
-Compárese esto con el [Dewan Negara](/en/glossary/dewan-negara): el artículo
+Compárese esto con el [Dewan Negara](/en/government/dewan-negara): el artículo
 47(a) fija allí una edad mínima de 30 años. Esa diferencia de edad es la única
 diferencia de requisito básico entre las dos Cámaras conforme al artículo 47.
 
@@ -180,7 +184,7 @@ para ser miembro de cualquiera de las Cámaras del Parlamento:
 
 La inhabilitación por las dos causas relativas a la declaración de gastos y a la
 condena puede ser levantada por el
-[Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong); de lo contrario,
+[Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong); de lo contrario,
 cesa a los **cinco años** (artículo 48(3)). El artículo 48(4), a su vez,
 suspende durante 14 días la aplicación de una inhabilitación derivada de una
 condena, y durante más tiempo aún si se presenta un recurso o una petición de
@@ -289,10 +293,10 @@ miembros de cualquiera de las Cámaras del Parlamento.
 ## Términos relacionados
 
 - [Parlamento de Malasia](/en/government/parliament)
-- [Dewan Negara](/en/glossary/dewan-negara)
+- [Dewan Negara](/en/government/dewan-negara)
 - [Constitución Federal](/en/law/federal-constitution)
 - [Cómo un proyecto de ley se convierte en ley](/en/law/how-a-bill-becomes-law)
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong)
+- [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong)
 - [Territorios Federales](/en/glossary/wilayah-persekutuan)
 
 ## Qué sigue
@@ -307,7 +311,7 @@ de lo que se supone.
 Para ver cómo estos 222 escaños funcionan junto con la otra Cámara en la
 aprobación de legislación, continúe con
 [Parlamento de Malasia](/en/government/parliament) y
-[Dewan Negara](/en/glossary/dewan-negara).
+[Dewan Negara](/en/government/dewan-negara).
 
 ---
 

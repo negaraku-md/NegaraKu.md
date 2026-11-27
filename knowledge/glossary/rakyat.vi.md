@@ -115,7 +115,7 @@ và chương trình của chính phủ Malaysia:
 
 - **Dewan Rakyat** — viện của Nghị viện có thành viên được bầu qua bầu cử,
   khác với Dewan Negara vốn có thành viên được bổ nhiệm. Xem
-  [Dewan Rakyat](/vi/glossary/dewan-rakyat).
+  [Dewan Rakyat](/vi/government/dewan-rakyat).
 - **Rukun Negara** — lời tuyên thệ quốc gia được Yang di-Pertuan
   Agong tuyên bố vào ngày 31 tháng 8 năm 1970, trở thành "sự tuân giữ, kim chỉ nam cùng thực hành bởi
   toàn thể rakyat Malaysia", theo [Hội đồng An ninh Quốc gia](/vi/government/national-security-council-mkn) (MKN).
@@ -139,7 +139,7 @@ về mặt luật, trong khi "rakyat" thì không.
 
 ## Thuật ngữ liên quan
 
-- [Dewan Rakyat](/vi/glossary/dewan-rakyat)
+- [Dewan Rakyat](/vi/government/dewan-rakyat)
 - [Hiến pháp Liên bang](/vi/law/federal-constitution)
 - [Merdeka](/vi/glossary/merdeka)
 

@@ -34,7 +34,11 @@ lang: "ms"
 masterLanguage: "ms"
 translationStatus: "master"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/law/federal-constitution"
+hidden: true
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-08-03
@@ -49,7 +53,7 @@ revisions:
 verificationNeeded:
   - "Sahkan tajuk penuh Bahagian XI dan XIIA terhadap cetakan semula rasmi terkini (semakan telah dibuat terhadap cetakan semula 'As at 15 October 2020')."
   - "Sahkan senarai peruntukan Perkara 159(5) dan pengecualian Perkara 159(4) tidak berubah dalam mana-mana pindaan selepas cetakan semula 2020."
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Federal Constitution (Reprint, As at 15 October 2020) — Article 4, Article 159, Article 160, Part XI"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

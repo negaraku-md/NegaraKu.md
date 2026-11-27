@@ -69,4 +69,4 @@ Sdn Bhd는 유한책임 보호를 원하거나, 투자를 받을 계획이거나
 ## 관련 용어
 
 - [납입 자본금](/ko/glossary/paid-up-capital)
-- [연례 신고서](/ko/glossary/annual-return)
+- [연례 신고서](/ko/company-secretary/annual-return)

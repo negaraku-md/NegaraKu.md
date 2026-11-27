@@ -154,9 +154,9 @@ Como organismo que organiza las elecciones, la SPR es un foco de debate público
 
 ## Términos relacionados
 
-- [Dewan Rakyat](/glossary/dewan-rakyat) (Cámara de Representantes)
-- [Dewan Negara](/glossary/dewan-negara) (Senado)
-- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong) (Jefe Supremo del Estado)
+- [Dewan Rakyat](/government/dewan-rakyat) (Cámara de Representantes)
+- [Dewan Negara](/government/dewan-negara) (Senado)
+- [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) (Jefe Supremo del Estado)
 - [Federal Constitution](/law/federal-constitution) (Constitución Federal)
 - [Warta Kerajaan](/glossary/warta-kerajaan) (Gaceta del Gobierno)
 
@@ -164,7 +164,7 @@ Como organismo que organiza las elecciones, la SPR es un foco de debate público
 
 Cuando leas una afirmación sobre la SPR —el número de escaños, nuevos límites o la independencia de la Comisión—, determina si el asunto está dentro de la potestad propia de la SPR (organizar las elecciones, revisar los padrones electorales) o solo dentro de su potestad de recomendar (la delimitación). A continuación, rastrea el número de artículo o la sección del Decimotercer Anexo que lo sustenta, y verifícalo con el texto vigente de la Constitución Federal, porque estas disposiciones se han enmendado en muchas ocasiones.
 
-Para ver cómo los escaños cubiertos mediante estas elecciones forman el Parlamento, continúa con [Dewan Rakyat](/glossary/dewan-rakyat) y [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong).
+Para ver cómo los escaños cubiertos mediante estas elecciones forman el Parlamento, continúa con [Dewan Rakyat](/government/dewan-rakyat) y [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong).
 
 ---
 

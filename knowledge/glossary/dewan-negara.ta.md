@@ -31,7 +31,11 @@ sourceContentHash: "557a7189c48a772b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."
+requestedBy: "ashton-tan"
+supersededBy: "/government/dewan-negara"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
@@ -45,7 +49,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) — மலாய் மொழிப் பதிப்பு (Perlembagaan Persekutuan (Cetakan Semula 2020) — versi Bahasa Melayu)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Perlembagaan%20Persekutuan%20(Cetakan%20Semula%202020).pdf"
@@ -88,7 +92,7 @@ framework: explainer
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院
 
 நாடாளுமன்றம் கலைக்கப்படும்போது,
-[Dewan Rakyat](/ta/glossary/dewan-rakyat)-இன் 222 இருக்கைகளும்
+[Dewan Rakyat](/ta/government/dewan-rakyat)-இன் 222 இருக்கைகளும்
 காலியாகின்றன, ஒவ்வொரு உறுப்பினரும் மீண்டும் போட்டியிட வேண்டும். Dewan Negara-வின்
 70 உறுப்பினர்கள் அவ்வாறு செய்வதில்லை. கூட்டாட்சி அரசியலமைப்பின்
 (Federal Constitution) Article 45(3)-இன் கீழ், அவர்களின் பதவிக்காலம்
@@ -108,7 +112,7 @@ Dewan Negara என்பது நாடாளுமன்றத்தின்
 அதன் உறுப்பினர்கள் **செனட்டர்கள் (Senators)** என அழைக்கப்படுகிறார்கள். அவர்களில்
 எவரும் சாதாரண வாக்காளர்களால் தேர்ந்தெடுக்கப்படுவதில்லை. அவர்கள் ஒன்று **மாநில
 சட்டமன்றத்தால் (Dewan Undangan Negeri) தேர்ந்தெடுக்கப்படுகிறார்கள்** அல்லது
-**[Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong)-ஆல்
+**[Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong)-ஆல்
 நியமிக்கப்படுகிறார்கள்**.
 
 ## Dewan Negara எதிராக Dewan Rakyat
@@ -124,7 +128,7 @@ Dewan Negara என்பது நாடாளுமன்றத்தின்
 | தலைமை அதிகாரி | Dewan Negara-வின் தலைவர் (President) | Dewan Rakyat-இன் சபாநாயகர் (Speaker) |
 
 மற்றொரு அவை பற்றிய முழு விவரம்
-[Dewan Rakyat](/ta/glossary/dewan-rakyat) கட்டுரையில் உள்ளது.
+[Dewan Rakyat](/ta/government/dewan-rakyat) கட்டுரையில் உள்ளது.
 
 கவனிக்கத் தவறக்கூடிய மற்றொரு வேறுபாடு: Article 43(2)(a) பிரதமர் (Prime Minister)
 ஒரு **Dewan Rakyat உறுப்பினராக** இருக்க வேண்டும் எனக் கோருகிறது, ஆனால்
@@ -278,8 +282,8 @@ Article 45(4) நாடாளுமன்றத்திற்கு, சட்�
 
 ## தொடர்புடைய சொற்கள்
 
-- [Dewan Rakyat](/ta/glossary/dewan-rakyat)
-- [Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong)
+- [Dewan Rakyat](/ta/government/dewan-rakyat)
+- [Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong)
 - [மலேசிய நாடாளுமன்றம்](/ta/government/parliament)
 - [கூட்டாட்சி அரசியலமைப்பு](/ta/law/federal-constitution)
 - [கூட்டாட்சிப் பிரதேசங்கள்](/ta/glossary/wilayah-persekutuan)

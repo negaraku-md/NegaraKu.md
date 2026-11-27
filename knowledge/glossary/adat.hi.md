@@ -145,7 +145,7 @@ framework: explainer
 
 - [नेगेरी सेम्बिलान](/en/states/negeri-sembilan) — वह राज्य जो आदत पेरपातिह का पालन करता है
 - [मेलाका](/en/states/melaka) — वह राज्य जिसमें नानिंग ज़िला है
-- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong) — शासन-संस्था से तुलना के लिए
+- [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong) — शासन-संस्था से तुलना के लिए
 - [शरीयह](/en/glossary/syariah) — वह धार्मिक कानून प्रणाली जो आदत के साथ-साथ कार्य करती है
 - [संघीय संविधान](/en/law/federal-constitution) — «मलय» की परिभाषा और मलय प्रथा का संदर्भ
 

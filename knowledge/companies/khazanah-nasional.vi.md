@@ -37,6 +37,10 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 
 status: "archived"
+supersededBy: "/economy/khazanah"
+hidden: true
+requestReason: "Duplicate slug across categories; canonical home is the successor. Archived (slug-collision cleanup)."
+requestedBy: "ashton-tan"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
@@ -54,7 +58,7 @@ verificationNeeded:
   - "Số lượng sáng kiến Dana Impak năm 2025 (hơn 40 doanh nghiệp quy mô vừa; 3 công ty bán dẫn)—xác minh đối chiếu với toàn văn The Khazanah Report 2025."
   - "Một cổ phần đặc biệt do Ủy viên Đất đai Liên bang nắm giữ—xác minh xem có còn hiệu lực trong điều lệ/báo cáo thường niên mới nhất hay không."
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "RM5.1 billion profit from operations for 2024, strong performance of Malaysian investment and significant value creation initiatives"
     url: "https://www.khazanah.com.my/newsroom/press-releases/rm5-1-billion-profit-from-operations-for-2024-strong-performance-of-malaysian/"

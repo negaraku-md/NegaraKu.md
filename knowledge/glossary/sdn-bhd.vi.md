@@ -72,4 +72,4 @@ mà doanh nghiệp một chủ không phải chịu.
 ## Thuật ngữ liên quan
 
 - [Modal Berbayar (Vốn góp)](/vi/glossary/paid-up-capital)
-- [Penyata Tahunan (Báo cáo thường niên)](/vi/glossary/annual-return)
+- [Penyata Tahunan (Báo cáo thường niên)](/vi/company-secretary/annual-return)

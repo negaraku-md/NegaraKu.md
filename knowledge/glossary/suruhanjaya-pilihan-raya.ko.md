@@ -214,9 +214,9 @@ SPR의 포털 사이트에 따르면, 동 위원회는 **1957년 9월 4일**에 
 
 ## 관련 용어
 
-- [하원(Dewan Rakyat)](/glossary/dewan-rakyat)
-- [상원(Dewan Negara)](/glossary/dewan-negara)
-- [국왕(Yang di-Pertuan Agong)](/glossary/yang-di-pertuan-agong)
+- [하원(Dewan Rakyat)](/government/dewan-rakyat)
+- [상원(Dewan Negara)](/government/dewan-negara)
+- [국왕(Yang di-Pertuan Agong)](/government/yang-di-pertuan-agong)
 - [연방헌법](/law/federal-constitution)
 - [관보(Warta Kerajaan)](/glossary/warta-kerajaan)
 
@@ -230,8 +230,8 @@ SPR에 대한 기술——의석 수, 새로운 경계, 또는 위원회의 독�
 지금까지 여러 차례 개정되어 왔기 때문이다.
 
 이들 선거에 의해 채워지는 의석이 어떻게 국회를 형성하는지를 보려면,
-계속하여 [하원(Dewan Rakyat)](/glossary/dewan-rakyat) 및 [국왕(Yang
-di-Pertuan Agong)](/glossary/yang-di-pertuan-agong)을 읽어 주기 바란다.
+계속하여 [하원(Dewan Rakyat)](/government/dewan-rakyat) 및 [국왕(Yang
+di-Pertuan Agong)](/government/yang-di-pertuan-agong)을 읽어 주기 바란다.
 
 ---
 
