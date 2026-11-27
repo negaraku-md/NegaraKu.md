@@ -90,7 +90,7 @@ wikidata: "Q7354425"
 relations:
   - { rel: "related-to", to: "cost-of-living-malaysia" }
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
-related: []
+related: ["b40-m40-t20-income-classification", "belanjawanku-reference-budget", "padu-central-database"]
 keywords: ["B40", "M40", "T20", "دخل خط الفقر", "معامل جيني", "تفاوت الدخل", "DOSM", "دخل الأسرة", "الفقر"]
 framework: data-reference
 ---

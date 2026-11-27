@@ -90,7 +90,7 @@ entity: "Operation Lalang"
 wikidata: "Q1015909"
 relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
-related: []
+related: ["mahathir-mohamad", "barisan-nasional", "sedition-act"]
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 framework: history-culture
 hero: '/media/malaysia/ops-lalang-1987/hero.webp'

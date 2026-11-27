@@ -68,7 +68,7 @@ entity: "Malaysia sovereign credit rating"
 relations:
   - { rel: "related-to", to: "malaysian-government-securities" }
   - { rel: "related-to", to: "federal-government-debt-malaysia" }
-related: []
+related: ["bank-negara-malaysia", "how-state-governments-are-funded", "sales-and-service-tax"]
 keywords: ["التصنيف الائتماني لماليزيا", "التصنيف السيادي", "درجة الاستثمار", "Malaysia credit rating", "sovereign rating", "S&P Malaysia", "Moody's Malaysia", "Fitch Malaysia", "A3", "BBB+", "investment grade"]
 framework: explainer
 ---

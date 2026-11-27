@@ -62,7 +62,7 @@ sources:
 relations:
   - { rel: "related-to", to: "sarawak-longhouse" }
   - { rel: "related-to", to: "malay-woodcarving" }
-related: []
+related: ["cultural-heritage-tourism-malaysia", "department-of-national-heritage", "national-heritage-sites"]
 keywords: ["rumah Melayu", "rumah panggung", "architecture vernaculaire", "bumbung panjang", "tebar layar", "rumah panjang", "kampung", "patrimoine"]
 framework: history-culture
 hero: '/media/arts-culture/traditional-malay-architecture/hero.webp'

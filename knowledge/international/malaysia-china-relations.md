@@ -74,7 +74,7 @@ relations:
   - { rel: "related-to", to: "malaysia-asean" }
   - { rel: "related-to", to: "south-china-sea" }
   - { rel: "related-to", to: "wisma-putra" }
-related: []
+related: ["malaysia-foreign-policy-wisma-putra", "malaysia-free-trade-agreements-network", "malaysia-territorial-maritime-disputes"]
 keywords: ["Malaysia China relations", "largest trading partner", "South China Sea", "comprehensive strategic partnership", "1974 diplomatic relations", "Wisma Putra", "nine-dash line"]
 framework: explainer
 ---

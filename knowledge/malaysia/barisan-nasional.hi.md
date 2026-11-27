@@ -75,7 +75,7 @@ wikidata: "Q808210"
 relations:
   - { rel: "related-to", to: "umno" }
   - { rel: "related-to", to: "pakatan-harapan" }
-related: []
+related: ["political-parties-malaysia", "2013-general-election", "2022-general-election"]
 keywords: ["Barisan Nasional", "बारिसान नैशनल", "राष्ट्रीय मोर्चा", "National Front", "BN", "अलायंस", "Alliance Party", "UMNO", "MCA", "MIC", "GE14", "मलेशियाई गठबंधन", "Malaysian coalition"]
 framework: profile
 ---

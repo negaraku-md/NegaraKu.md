@@ -72,7 +72,7 @@ wikidata: "Q833"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
-related: []
+related: ["malaysia-foreign-policy-wisma-putra", "malaysia-china-relations", "asean-chairmanship-mechanism"]
 keywords: ["Laut China Selatan", "Batu Puteh", "Pedra Branca", "Sabah", "UNCLOS", "kedaulatan", "pertikaian maritim", "Spratly"]
 framework: explainer
 ---

@@ -80,7 +80,7 @@ entity: "National AI Office (Malaysia)"
 relations:
   - { rel: "administered-by", to: "ministry-of-digital-malaysia" }
   - { rel: "related-to", to: "personal-data-protection-act-malaysia" }
-related: []
+related: ["ministry-of-digital-malaysia", "mdec-digital-economy-corporation", "digital-economy-overview"]
 keywords: ["office national de l'ia malaisie", "national ai office", "naio", "ai malaysia", "plan d'action ia 2026-2030", "aige", "gouvernance de l'ia malaisie", "ai nation 2030"]
 framework: explainer
 ---

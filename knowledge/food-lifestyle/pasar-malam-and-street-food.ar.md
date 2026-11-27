@@ -86,7 +86,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "malaysian-street-food" }
-related: []
+related: ["your-first-pasar-malam", "dining-etiquette-tipping-and-service-charge", "durian-culture-and-varieties"]
 keywords: ["سوق الليل", "سوق المزارعين", "السوق الرطبة", "طعام الشارع", "pasar malam", "pasar tani", "street food", "FAMA", "تصنيف نظافة المنشآت الغذائية", "الباعة المتجولون"]
 framework: explainer
 ---

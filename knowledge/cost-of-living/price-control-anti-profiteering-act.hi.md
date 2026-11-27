@@ -67,7 +67,7 @@ wikidata: "Q141851356"
 relations:
   - { rel: "administered-by", to: "kementerian-perdagangan-dalam-negeri-kpdn" }
   - { rel: "related-to", to: "sales-and-service-tax-sst" }
-related: []
+related: ["ministry-of-domestic-trade-kpdn", "competition-act-2010", "gas-supply-piped-cooking-gas"]
 keywords: ["मुनाफ़ाख़ोरी-विरोध", "मूल्य नियंत्रण", "अत्यधिक मुनाफ़ा", "Akta 723", "Op Catut", "KPDN", "मूल्य मुनाफ़ाख़ोरी"]
 framework: rules
 ---

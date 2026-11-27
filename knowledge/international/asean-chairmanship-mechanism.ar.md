@@ -82,7 +82,7 @@ wikidata: "Q7768"
 relations:
   - { rel: "related-to", to: "asean-overview" }
   - { rel: "related-to", to: "malaysia-asean-chairmanship-2025" }
-related: []
+related: ["malaysia-foreign-policy-wisma-putra", "malaysia-free-trade-agreements-network", "malaysia-china-relations"]
 keywords: ["رئاسة آسيان", "ميثاق آسيان", "المادة 31", "التناوب الأبجدي", "ASEAN", "ASEAN Charter", "Article 31", "Malaysia 2025", "Philippines 2026", "قمة آسيان", "ASEAN Summit"]
 framework: explainer
 ---

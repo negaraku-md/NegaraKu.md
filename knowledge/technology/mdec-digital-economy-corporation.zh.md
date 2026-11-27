@@ -65,7 +65,7 @@ sources:
 entity: "Malaysia Digital Economy Corporation (MDEC)"
 wikidata: "Q279453"
 relations: []
-related: []
+related: ["digital-economy-overview", "ministry-of-digital-malaysia", "mdec-digital-status"]
 keywords: ["MDEC", "Malaysia Digital Economy Corporation", "Malaysia Digital Status", "MD Status", "MSC Malaysia", "MSC status", "Malaysia Digital Bill of Guarantees", "Malaysia Digital tax incentive", "MD activities", "knowledge worker Malaysia", "Cyberjaya", "digital economy Malaysia"]
 framework: profile
 hero: '/media/technology/mdec-digital-economy-corporation/hero.webp'

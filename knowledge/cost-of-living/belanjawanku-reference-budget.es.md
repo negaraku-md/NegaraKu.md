@@ -73,7 +73,7 @@ entity: "Belanjawanku"
 relations:
   - { rel: "related-to", to: "poverty-line-income" }
   - { rel: "related-to", to: "epf-retirement-savings" }
-related: []
+related: ["b40-m40-t20-income-classification", "income-inequality-poverty-line", "epf-as-an-institution"]
 keywords: ["belanjawanku", "coste de vida Malasia", "kos sara hidup", "KWSP", "EPF", "presupuesto de referencia", "Klang Valley", "SWRC"]
 framework: explainer
 ---
