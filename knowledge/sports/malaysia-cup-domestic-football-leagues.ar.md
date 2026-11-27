@@ -74,7 +74,7 @@ relations:
   - { rel: "related-to", to: "johor-darul-tazim" }
   - { rel: "related-to", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "malaysia-national-football-team" }
-related: []
+related: ["malaysian-sport-governance", "fam-heritage-players-controversy", "national-sports-venues"]
 keywords: ["الدوري الممتاز", "كأس ماليزيا", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "كرة القدم الماليزية"]
 framework: explainer
 hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'

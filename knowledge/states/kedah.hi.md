@@ -108,7 +108,7 @@ relations:
   - { rel: "related-to", to: "electronics-semiconductors" }
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "manufacturing" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "padi-and-rice-industry"]
 keywords: ["Kedah", "केदाह", "Kedah Darul Aman", "Alor Setar", "अलोर सेतार", "Sultan Kedah", "केदाह के सुल्तान", "jelapang padi", "चावल का कटोरा", "Kulim Hi-Tech Park", "Lembah Bujang", "बुजांग घाटी", "Kedah Tua", "Langkawi", "लंकावी", "MADA"]
 framework: profile
 hero: '/media/states/kedah/hero.webp'

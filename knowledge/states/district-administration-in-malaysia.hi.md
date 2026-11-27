@@ -75,7 +75,7 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "ज़िला प्रशासन", "pejabat daerah", "ज़िला कार्यालय", "pegawai daerah", "ज़िला अधिकारी", "mukim", "मुकिम", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
 hero: '/media/states/district-administration-in-malaysia/hero.webp'

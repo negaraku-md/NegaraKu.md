@@ -67,7 +67,7 @@ sources:
 entity: "Hari Sukan Negara"
 relations:
   - { rel: "administered-by", to: "kementerian-belia-dan-sukan" }
-related: []
+related: ["national-sports-policy-podium-programme", "malaysian-sport-governance", "national-sports-council-msn"]
 keywords: ["اليوم الوطني للرياضة", "hari sukan negara", "HSN", "الشهر الوطني للرياضة", "bulan sukan negara", "وزارة الشباب والرياضة", "kementerian belia dan sukan", "أمة رياضية", "negara bersukan", "نمط حياة نشط"]
 framework: explainer
 hero: '/media/sports/national-sports-day-malaysia/hero.webp'

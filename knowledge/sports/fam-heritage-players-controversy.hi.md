@@ -78,7 +78,7 @@ wikidata: "Q622250"
 relations:
   - { rel: "related-to", to: "harimau-malaya-national-team" }
   - { rel: "related-to", to: "fifa-eligibility-rules" }
-related: []
+related: ["malaysia-cup-domestic-football-leagues", "malaysian-citizenship-law", "match-fixing-sports-betting-regulation"]
 keywords: ["नागरिकीकरण", "वंशज खिलाड़ी", "FAM", "FIFA", "CAS", "Harimau Malaya", "जाली दस्तावेज़", "अनुच्छेद 22", "एशियन कप 2027"]
 framework: explainer
 hero: '/media/sports/fam-heritage-players-controversy/hero.webp'

@@ -98,7 +98,7 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["केलंतान", "Kelantan", "कोटा भारू", "Kota Bharu", "केलंतान की अर्थव्यवस्था", "केलंतान के हस्तशिल्प", "माक योंग", "mak yong", "Kelantan Darul Naim"]
 framework: profile
 hero: '/media/states/kelantan/hero.webp'

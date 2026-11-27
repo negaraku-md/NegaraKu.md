@@ -111,7 +111,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["पेराक", "Perak", "पेराक दारुल रिदज़ुआन", "Perak Darul Ridzuan", "पांगकोर संधि", "Perjanjian Pangkor", "ब्रिटिश रेज़िडेंट", "British Resident", "पेराक के सुल्तान", "Sultan Perak", "इपोह", "Ipoh", "किंता घाटी", "Lembah Kinta", "टिन अयस्क", "लेंगोंग घाटी", "Lembah Lenggong", "पेराक राज्य विधानसभा"]
 framework: profile
 hero: '/media/states/perak/hero.webp'

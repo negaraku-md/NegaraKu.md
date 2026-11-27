@@ -72,7 +72,7 @@ wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["पेनांग मलेशिया", "Penang Malaysia", "जॉर्ज टाउन यूनेस्को", "George Town UNESCO", "बायान लेपास", "Bayan Lepas", "पेनांग इलेक्ट्रॉनिक्स", "Penang electronics", "पूर्व की सिलिकॉन वैली", "silicon valley of the east"]
 framework: profile
 hero: '/media/states/penang/hero.webp'

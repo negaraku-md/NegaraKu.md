@@ -98,7 +98,7 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "wayang-kulit" }
   - { rel: "related-to", to: "johor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["كلنتان", "Kelantan", "كوتا بهارو", "Kota Bharu", "اقتصاد كلنتان", "الحرف اليدوية في كلنتان", "ماك يونغ", "mak yong", "Kelantan Darul Naim"]
 framework: profile
 hero: '/media/states/kelantan/hero.webp'

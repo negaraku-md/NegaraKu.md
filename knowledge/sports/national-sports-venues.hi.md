@@ -72,7 +72,7 @@ entity: "Gelanggang sukan utama Malaysia"
 relations:
   - { rel: "administered-by", to: "perbadanan-stadium-malaysia" }
   - { rel: "related-to", to: "kl-sports-city" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "malaysia-cup-domestic-football-leagues"]
 keywords: ["बुकित जलिल राष्ट्रीय स्टेडियम", "stadium nasional bukit jalil", "राष्ट्रीय वेलोड्रोम", "velodrom nasional", "सेपांग सर्किट", "litar sepang", "राष्ट्रीय हॉकी स्टेडियम", "stadium hoki nasional", "मलेशिया के खेल स्थल"]
 framework: profile
 hero: '/media/sports/national-sports-venues/hero.webp'

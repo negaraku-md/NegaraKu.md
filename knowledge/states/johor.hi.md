@@ -70,7 +70,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
   - { rel: "related-to", to: "melaka-sultanate" }
-related: []
+related: ["iskandar-malaysia-guide", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["Johor Malaysia", "जोहोर", "Johor Bahru", "जोहोर बहरू", "Iskandar Malaysia", "इस्कंदर मलेशिया", "Pengerang petrochemical", "पेंगेरांग पेट्रोरसायन", "Johor Singapore Causeway", "जोहोर सिंगापुर कॉज़वे"]
 framework: profile
 hero: '/media/states/johor/hero.webp'

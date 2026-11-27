@@ -69,7 +69,7 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Selangor Malaisie", "Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "économie de la vallée de Klang"]
 framework: profile
 hero: '/media/states/selangor/hero.webp'

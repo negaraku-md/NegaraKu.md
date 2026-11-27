@@ -69,7 +69,7 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["سلانغور ماليزيا", "شاه عالم", "ميناء كلانغ Port Klang", "سايبرجايا Cyberjaya", "اقتصاد وادي كلانغ", "Selangor Malaysia"]
 framework: profile
 hero: '/media/states/selangor/hero.webp'

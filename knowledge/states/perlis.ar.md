@@ -105,7 +105,7 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "majlis-raja-raja" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["بيرليس", "Perlis", "راجا بيرليس", "Raja Perlis", "كانغار", "Kangar", "أصغر ولايات ماليزيا", "سلالة جمال الليل", "Wangsa Jamalullail", "الحدود الماليزية التايلندية", "بادانغ بيسار", "Padang Besar", "وادي تشوبينغ", "Chuping Valley"]
 framework: profile
 hero: '/media/states/perlis/hero.webp'

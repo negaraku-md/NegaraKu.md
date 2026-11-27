@@ -92,7 +92,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
   - { rel: "compares-with", to: "johor" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "malay-rulers-nine-royal-houses"]
 keywords: ["नेगेरी सेम्बिलान", "Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "नेगेरी सेम्बिलान के luak", "सेरेम्बान", "Seremban", "सेरी मेनांती", "मातृवंशीय मिनांगकाबाउ"]
 framework: profile
 hero: '/media/states/negeri-sembilan/hero.webp'

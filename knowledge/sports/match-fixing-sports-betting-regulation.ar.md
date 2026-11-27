@@ -80,7 +80,7 @@ sources:
 relations:
   - { rel: "related-to", to: "sports-governance-malaysia" }
   - { rel: "related-to", to: "macc-anti-corruption-malaysia" }
-related: []
+related: ["fam-heritage-players-controversy", "malaysia-cup-domestic-football-leagues", "malaysian-sport-governance"]
 keywords: ["التلاعب بنتائج المباريات", "match-fixing", "المراهنات الرياضية", "pertaruhan sukan", "قانون دور المقامرة العامة 1953", "Common Gaming Houses Act 1953", "قانون المراهنات 1953", "Betting Act 1953", "SPRM", "MACC", "نزاهة الرياضة", "كرة القدم الماليزية", "FAM"]
 framework: explainer
 hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'

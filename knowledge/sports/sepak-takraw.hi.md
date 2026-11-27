@@ -99,7 +99,7 @@ wikidata: "Q188818"
 relations:
   - { rel: "administered-by", to: "persekutuan-sepaktakraw-malaysia" }
   - { rel: "related-to", to: "sukan-tradisional-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "sukma-games", "national-sports-council-msn"]
 keywords: ["सेपाक ताक्रॉ", "sepak takraw", "सेपाक राग", "sepak raga", "मलेशिया राष्ट्रीय खेल", "सेपाक ताक्रॉ नियम", "किंग्स कप", "सेपाकताक्रॉ फेडरेशन मलेशिया", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
 hero: '/media/sports/sepak-takraw/hero.webp'

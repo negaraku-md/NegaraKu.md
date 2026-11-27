@@ -111,7 +111,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["بيراك", "Perak", "بيراك دار الرضوان", "Perak Darul Ridzuan", "معاهدة بانغكور", "Perjanjian Pangkor", "المقيم البريطاني", "British Resident", "سلطان بيراك", "Sultan Perak", "إيبوه", "Ipoh", "وادي كينتا", "Lembah Kinta", "خام القصدير", "وادي لينغونغ", "Lembah Lenggong", "الجمعية التشريعية لولاية بيراك"]
 framework: profile
 hero: '/media/states/perak/hero.webp'

@@ -88,7 +88,7 @@ entity: "Nicol David"
 wikidata: "Q867189"
 relations:
   - { rel: "related-to", to: "sports-in-malaysia" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-council-msn", "national-sports-policy-podium-programme"]
 keywords: ["स्क्वैश", "squash", "निकोल डेविड", "Nicol David", "SRAM", "मलेशियाई स्क्वैश", "एनजी एइन यो", "Ng Eain Yow", "सिवासंगारी सुब्रमणियम", "Sivasangari Subramaniam", "विश्व ओपन", "World Open"]
 framework: profile
 hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'

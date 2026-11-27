@@ -69,7 +69,7 @@ wikidata: "Q189710"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["सेलांगोर मलेशिया", "Selangor Malaysia", "शाह आलम", "पोर्ट क्लांग", "Port Klang", "साइबरजया", "Cyberjaya", "क्लांग घाटी अर्थव्यवस्था"]
 framework: profile
 hero: '/media/states/selangor/hero.webp'

@@ -65,7 +65,7 @@ sources:
 entity: "Majlis Sukan Negara Malaysia (National Sports Council of Malaysia, MSN)"
 wikidata: "Q97208190"
 relations: []
-related: []
+related: ["malaysian-sport-governance", "national-sports-policy-podium-programme", "national-sports-venues"]
 keywords: ["Majlis Sukan Negara", "MSN", "مجلس الرياضة الوطني", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "قانون مجلس الرياضة الوطني 1971", "المعهد الوطني للرياضة", "Institut Sukan Negara", "ISN", "المجمّع الرياضي الوطني بوكيت جليل", "Majlis Sukan Negeri", "وزارة الشباب والرياضة", "Kementerian Belia dan Sukan", "تطوير الرياضة الماليزية"]
 framework: profile
 hero: '/media/sports/national-sports-council-msn/hero.webp'

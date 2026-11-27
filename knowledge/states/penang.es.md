@@ -72,7 +72,7 @@ wikidata: "Q188096"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["Penang Malasia", "Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "electrónica de Penang", "Penang electronics", "el Silicon Valley del Este", "silicon valley of the east"]
 framework: profile
 hero: '/media/states/penang/hero.webp'

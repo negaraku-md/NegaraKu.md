@@ -75,7 +75,7 @@ entity: "Pejabat Daerah"
 relations:
   - { rel: "governs", to: "land-administration-in-malaysia" }
   - { rel: "related-to", to: "local-government-in-malaysia" }
-related: []
+related: ["state-assemblies-dun", "how-state-governments-are-funded", "local-government-councils"]
 keywords: ["pentadbiran daerah", "إدارة المقاطعة", "pejabat daerah", "مكتب المقاطعة", "pegawai daerah", "ضابط المقاطعة", "mukim", "الموكيم", "pentadbir tanah", "daerah pentadbiran", "Kanun Tanah Negara"]
 framework: explainer
 hero: '/media/states/district-administration-in-malaysia/hero.webp'

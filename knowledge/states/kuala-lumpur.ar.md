@@ -68,7 +68,7 @@ wikidata: "Q1865"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["federal-territories-governance", "how-state-governments-are-funded", "district-administration-in-malaysia"]
 keywords: ["كوالالمبور", "Kuala Lumpur", "الإقليم الاتحادي كوالالمبور", "KL federal territory", "بورصة ماليزيا", "Bursa Malaysia", "برجا بتروناس التوأم", "Petronas Twin Towers", "وادي كلانغ", "Klang Valley"]
 framework: profile
 hero: '/media/states/kuala-lumpur/hero.webp'

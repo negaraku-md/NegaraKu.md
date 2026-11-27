@@ -67,7 +67,7 @@ relations:
   - { rel: "explained-in", to: "labuan-tax-regime" }
   - { rel: "related-to", to: "labuan-company-vs-sdn-bhd" }
   - { rel: "related-to", to: "kuala-lumpur" }
-related: []
+related: ["federal-territories-governance", "labuan-company-vs-sdn-bhd", "redomiciliation-to-malaysia"]
 keywords: ["لابوان", "Labuan", "مركز لابوان الدولي للأعمال والمال", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "إقليم اتحادي", "federal territory", "شركة لابوان", "Labuan company", "ضريبة 3%", "3% tax"]
 framework: profile
 hero: '/media/states/labuan/hero.webp'

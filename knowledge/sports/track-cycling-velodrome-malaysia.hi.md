@@ -78,7 +78,7 @@ wikidata: "Q120467697"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "azizulhasni-awang" }
-related: []
+related: ["malaysian-sport-governance", "national-sports-venues", "national-sports-council-msn"]
 keywords: ["velodrom nasional", "राष्ट्रीय वेलोड्रोम", "Nilai", "ट्रैक साइक्लिंग", "keirin", "कीरिन", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
 hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'

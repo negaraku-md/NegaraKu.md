@@ -106,7 +106,7 @@ relations:
   - { rel: "related-to", to: "langkasuka" }
   - { rel: "related-to", to: "majlis-raja-raja" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "state-assemblies-dun"]
 keywords: ["पर्लिस", "Perlis", "राजा पर्लिस", "Raja Perlis", "कांगार", "Kangar", "मलेशिया का सबसे छोटा राज्य", "जमालुल्लैल वंश", "Wangsa Jamalullail", "मलेशिया थाईलैंड सीमा", "पादांग बेसार", "Padang Besar", "चुपिंग घाटी", "Chuping Valley"]
 framework: profile
 hero: '/media/states/perlis/hero.webp'

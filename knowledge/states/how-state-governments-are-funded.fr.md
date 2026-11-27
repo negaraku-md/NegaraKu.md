@@ -66,7 +66,7 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysian-federalism-explained" }
   - { rel: "related-to", to: "sabah-sarawak-special-rights-ma63" }
-related: []
+related: ["district-administration-in-malaysia", "state-assemblies-dun", "federal-constitution"]
 keywords: ["hasil negeri", "revenus des États", "geran perkapita", "subvention par habitant", "geran jalan raya negeri", "Jadual Kesepuluh", "Dixième annexe", "Perkara 109", "Perkara 110", "kewangan persekutuan-negeri", "royalti", "redevances", "cukai jualan negeri"]
 framework: explainer
 hero: '/media/states/how-state-governments-are-funded/hero.webp'

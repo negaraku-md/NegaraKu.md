@@ -111,7 +111,7 @@ relations:
   - { rel: "related-to", to: "independence-1957" }
   - { rel: "compares-with", to: "penang" }
   - { rel: "related-to", to: "selangor" }
-related: []
+related: ["how-state-governments-are-funded", "district-administration-in-malaysia", "national-heritage-sites"]
 keywords: ["Perak", "Perak Darul Ridzuan", "Traité de Pangkor", "Perjanjian Pangkor", "Résident britannique", "British Resident", "Sultan de Perak", "Ipoh", "vallée de Kinta", "minerai d'étain", "vallée de Lenggong", "Assemblée de l'État de Perak"]
 framework: profile
 hero: '/media/states/perak/hero.webp'
