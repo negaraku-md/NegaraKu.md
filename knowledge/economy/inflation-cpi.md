@@ -10,12 +10,12 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia's headline inflation rate was 1.8% year-on-year in September 2026, with the Consumer Price Index at 137.6 against 135.2 a year earlier (DOSM, released 19 October 2026). The headline figure is a weighted average across the whole consumption basket, so it rarely matches any individual household's experience — in the same month transport prices rose 2.5% while food and beverages rose 1.8%."
+answer: "Malaysia's headline inflation rate was 1.9% year-on-year in October 2026, with the Consumer Price Index at 137.7 against 135.1 a year earlier (DOSM, released 19 November 2026). The headline figure is a weighted average across the whole consumption basket, so it rarely matches any individual household's experience — in the same month transport prices rose 4.2% while food and beverages rose 1.7%."
 keyTakeaways:
-  - "Headline inflation was 1.8% year-on-year in September 2026 (CPI 137.6, up from 135.2)"
+  - "Headline inflation was 1.9% year-on-year in October 2026 (CPI 137.7, up from 135.1)"
   - "The CPI is a weighted average of a fixed basket — it is not the price rise of any one product"
-  - "Category rates diverge: transport +2.5% versus food and beverages +1.8% in September 2026"
-  - "Inflation also varies by state — Negeri Sembilan and Labuan recorded 2.4% and Sarawak 0.5% in the same month"
+  - "Category rates diverge: transport +4.2% versus food and beverages +1.7% in October 2026"
+  - "Inflation also varies by state — Negeri Sembilan recorded 2.6% and Sarawak 0.6% in the same month"
   - "DOSM publishes the CPI monthly, roughly three weeks after the month ends"
 appliesTo: "Anyone trying to read Malaysian inflation reporting accurately — households, employers setting pay, and analysts."
 
@@ -29,7 +29,7 @@ reviewer: null
 reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-04-25
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
@@ -39,16 +39,20 @@ revisions:
     date: 2026-10-25
     change: "Review-due refresh: updated to DOSM September 2026 CPI figures."
     reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 CPI (headline 1.9%, CPI 137.7 from 135.1; transport 4.2%, food & beverages 1.7%, housing/utilities 1.9%; highest Negeri Sembilan 2.6%, lowest Sarawak 0.6%; released 19 November 2026). Also fixed a stale 'released 19 June 2026' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-25
+updated: 2026-11-28
 sources:
-  - title: "Consumer Price Index, September 2026"
-    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026"
+  - title: "Consumer Price Index, Malaysia, October 2026"
+    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026"
     publisher: "DOSM"
-    date: "2026-10-19"
+    date: "2026-11-19"
   - title: "Consumer Price Index — OpenDOSM data portal"
-    url: "https://open.dosm.gov.my/publications/cpi_2026-04"
+    url: "https://open.dosm.gov.my/publications/cpi_2026-10"
     publisher: "DOSM"
   - title: "Bank Negara Malaysia — Economic and Financial Data"
     url: "https://www.bnm.gov.my/"
@@ -68,15 +72,15 @@ framework: data-reference
 
 | Metric | Value | Period | Source |
 | --- | --- | --- | --- |
-| Headline inflation (y-o-y) | 1.8% | September 2026 | DOSM |
-| CPI index | 137.6 (from 135.2) | September 2026 vs September 2025 | DOSM |
-| Transport | +2.5% | September 2026 | DOSM |
-| Food & beverages | +1.8% | September 2026 | DOSM |
-| Housing, water, electricity, gas | +1.4% | September 2026 | DOSM |
-| Highest state | Negeri Sembilan & Labuan, 2.4% | September 2026 | DOSM |
-| Lowest state | Sarawak, 0.5% | September 2026 | DOSM |
+| Headline inflation (y-o-y) | 1.9% | October 2026 | DOSM |
+| CPI index | 137.7 (from 135.1) | October 2026 vs October 2025 | DOSM |
+| Transport | +4.2% | October 2026 | DOSM |
+| Food & beverages | +1.7% | October 2026 | DOSM |
+| Housing, water, electricity, gas | +1.9% | October 2026 | DOSM |
+| Highest state | Negeri Sembilan, 2.6% | October 2026 | DOSM |
+| Lowest state | Sarawak, 0.6% | October 2026 | DOSM |
 
-*Released 19 June 2026. DOSM publishes the CPI monthly, roughly three weeks
+*Released 19 November 2026. DOSM publishes the CPI monthly, roughly three weeks
 after the reference month closes — so the "current" inflation figure is always
 describing a month that has already ended.*
 
@@ -87,9 +91,9 @@ trolley says otherwise. Both can be true.
 
 The CPI tracks a **fixed basket** of goods and services weighted by what an
 average household spends. Your household is not the average one. If you drive a
-lot, your personal inflation in September 2026 leaned toward the transport figure of
-2.5%. If you rarely drive but buy a lot of groceries, you sat closer to the 1.8%
-food figure. The headline 1.8% is the weighted blend of every category at once —
+lot, your personal inflation in October 2026 leaned toward the transport figure of
+4.2%. If you rarely drive but buy a lot of groceries, you sat closer to the 1.7%
+food figure. The headline 1.9% is the weighted blend of every category at once —
 a national summary statistic, not a personal one.
 
 Two further gaps explain the rest of the disagreement:
@@ -105,14 +109,14 @@ Two further gaps explain the rest of the disagreement:
 
 Three habits make the monthly release far more informative than the headline:
 
-1. **Check the category table, not just the top line.** A 1.8% headline built on
-   transport at 2.5% is a very different economy from one built on food at 2.5%.
+1. **Check the category table, not just the top line.** A 1.9% headline built on
+   transport at 4.2% is a very different economy from one built on food at 4.2%.
 2. **Distinguish year-on-year from month-on-month.** The commonly quoted figure
    compares against the same month a year earlier. A falling *rate* still means
    prices are rising — just more slowly. Prices only fall when the rate goes
    negative.
-3. **Look at the state breakdown.** In September 2026 the national figure of 1.8%
-   concealed a range from Sarawak at 0.5% to Negeri Sembilan and Labuan at 2.4% —
+3. **Look at the state breakdown.** In October 2026 the national figure of 1.9%
+   concealed a range from Sarawak at 0.6% to Negeri Sembilan at 2.6% —
    a spread wider than the headline number itself.
 
 ## What moves Malaysian inflation
@@ -146,6 +150,6 @@ from other economies:
 
 - Compare against output: [Malaysia GDP Overview](/en/economy/gdp-overview)
 - Consult the primary release directly at
-  [DOSM's Consumer Price Index page](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026)
+  [DOSM's Consumer Price Index page](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026)
   or the machine-readable series on
-  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).
+  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-10).

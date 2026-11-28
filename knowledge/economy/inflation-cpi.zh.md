@@ -10,19 +10,19 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "马来西亚2026年9月的总体通胀率为按年1.8%，消费者物价指数（CPI）为137.6，一年前为135.2（DOSM，2026年10月19日发布）。总体数字是整个消费篮子的加权平均值，因此很少与任何个别家庭的实际感受相符——同月，交通价格上涨2.5%，而食品与饮料仅上涨1.8%。"
+answer: "马来西亚2026年10月的总体通胀率为按年1.9%，消费者物价指数（CPI）为137.7，一年前为135.1（DOSM，2026年11月19日发布）。总体数字是整个消费篮子的加权平均值，因此很少与任何个别家庭的实际感受相符——同月，交通价格上涨4.2%，而食品与饮料仅上涨1.7%。"
 keyTakeaways:
-  - "2026年9月总体通胀率按年为1.8%（CPI 137.6，高于135.2）"
+  - "2026年10月总体通胀率按年为1.9%（CPI 137.7，高于135.1）"
   - "CPI 是固定篮子的加权平均值——它不是任何单一产品的价格涨幅"
-  - "各类别涨幅差异悬殊：2026年9月交通类+2.5%，食品与饮料类仅+1.8%"
-  - "通胀率也因州属而异——同月森美兰和纳闽录得2.4%，砂拉越为0.5%"
+  - "各类别涨幅差异悬殊：2026年10月交通类+4.2%，食品与饮料类仅+1.7%"
+  - "通胀率也因州属而异——同月森美兰录得2.6%，砂拉越为0.6%"
   - "统计局（DOSM）每月发布 CPI，通常在月结束后约三周公布"
 appliesTo: "任何想准确解读马来西亚通胀报道的人——家庭、设定薪酬的雇主，以及分析师。"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "899c7ece490e4cfc"
+sourceContentHash: "a7034f6e3692a9ce"
 
 status: "published"
 aiAssisted: true
@@ -30,22 +30,30 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 CPI figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 CPI (headline 1.9%, CPI 137.7 from 135.1; transport 4.2%, food & beverages 1.7%, housing/utilities 1.9%; highest Negeri Sembilan 2.6%, lowest Sarawak 0.6%; released 19 November 2026). Also fixed a stale 'released 19 June 2026' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "消费者价格指数，2026 年 9 月 (Consumer Price Index, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026"
+  - title: "消费者价格指数，马来西亚，2026 年 10 月 (Consumer Price Index, Malaysia, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026"
     publisher: "马来西亚统计局 (DOSM)"
-    date: "2026-10-19"
+    date: "2026-11-19"
   - title: "消费者价格指数 — OpenDOSM 数据门户 (Consumer Price Index — OpenDOSM data portal)"
-    url: "https://open.dosm.gov.my/publications/cpi_2026-04"
+    url: "https://open.dosm.gov.my/publications/cpi_2026-10"
     publisher: "马来西亚统计局 (DOSM)"
   - title: "马来西亚国家银行 — 经济与金融数据 (Bank Negara Malaysia — Economic and Financial Data)"
     url: "https://www.bnm.gov.my/"
@@ -65,15 +73,15 @@ framework: data-reference
 
 | 指标 | 数值 | 期间 | 来源 |
 | --- | --- | --- | --- |
-| 总体通胀率（按年） | 1.8% | 2026年9月 | DOSM |
-| CPI | 137.6（较135.2） | 2026年9月对比2025年9月 | DOSM |
-| 交通 | +2.5% | 2026年9月 | DOSM |
-| 食品与饮料 | +1.8% | 2026年9月 | DOSM |
-| 住房、水、电、燃气 | +1.4% | 2026年9月 | DOSM |
-| 最高州属 | 森美兰和纳闽，2.4% | 2026年9月 | DOSM |
-| 最低州属 | 砂拉越，0.5% | 2026年9月 | DOSM |
+| 总体通胀率（按年） | 1.9% | 2026年10月 | DOSM |
+| CPI | 137.7（较135.1） | 2026年10月对比2025年10月 | DOSM |
+| 交通 | +4.2% | 2026年10月 | DOSM |
+| 食品与饮料 | +1.7% | 2026年10月 | DOSM |
+| 住房、水、电、燃气 | +1.9% | 2026年10月 | DOSM |
+| 最高州属 | 森美兰，2.6% | 2026年10月 | DOSM |
+| 最低州属 | 砂拉越，0.6% | 2026年10月 | DOSM |
 
-*2026年10月19日发布。统计局（DOSM）每月发布 CPI，通常在参考月份结束后约
+*2026年11月19日发布。统计局（DOSM）每月发布 CPI，通常在参考月份结束后约
 三周——因此「当前」的通胀数字所描述的月份其实早已结束。*
 
 ## 为何这个数字总是对不上你的收据
@@ -82,8 +90,8 @@ framework: data-reference
 两者都可能是真的。
 
 CPI 追踪的是一个按平均家庭支出加权的**固定篮子**商品与服务。你的家庭并不是
-那个「平均」家庭。如果你经常开车，你在2026年9月的个人通胀更接近交通类的
-2.5%。如果你很少开车但买很多杂货，你则更接近食品类的1.8%。总体的1.8%是
+那个「平均」家庭。如果你经常开车，你在2026年10月的个人通胀更接近交通类的
+4.2%。如果你很少开车但买很多杂货，你则更接近食品类的1.7%。总体的1.9%是
 所有类别一次性加权混合的结果——这是一个全国性的汇总统计数字，而不是个人的。
 
 另外两个差距解释了剩余的落差：
@@ -98,13 +106,13 @@ CPI 追踪的是一个按平均家庭支出加权的**固定篮子**商品与服
 
 三个习惯能让每月发布的数据比表面上的头条数字更具信息量：
 
-1. **查看类别细表，而不只是最上面那一行。** 由交通类2.5%撑起的1.8%总体
-   数字，与由食品类2.5%撑起的1.8%，代表的是截然不同的经济状况。
+1. **查看类别细表，而不只是最上面那一行。** 由交通类4.2%撑起的1.9%总体
+   数字，与由食品类4.2%撑起的1.9%，代表的是截然不同的经济状况。
 2. **区分按年与按月。** 常被引用的数字是与去年同月相比较的。*涨幅*下降
    仍然意味着价格在上涨——只是速度较慢。只有当涨幅变为负数时，价格才真正
    下跌。
-3. **看各州的分项数据。** 2026年9月，全国1.8%的数字掩盖了从砂拉越0.5%
-   到森美兰和纳闽2.4%的差距——这个差距本身就比总体数字的跨度还要大。
+3. **看各州的分项数据。** 2026年10月，全国1.9%的数字掩盖了从砂拉越0.6%
+   到森美兰2.6%的差距——这个差距本身就比总体数字的跨度还要大。
 
 ## 是什么在推动马来西亚的通胀
 
@@ -130,5 +138,5 @@ CPI 追踪的是一个按平均家庭支出加权的**固定篮子**商品与服
 
 - 与产出对比：[马来西亚 GDP 概览](/zh/economy/gdp-overview)
 - 直接查阅原始发布：
-  [DOSM 消费者物价指数页面](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026)
-  或 [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04) 上的机器可读数据系列。
+  [DOSM 消费者物价指数页面](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026)
+  或 [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-10) 上的机器可读数据系列。

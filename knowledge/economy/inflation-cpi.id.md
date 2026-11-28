@@ -11,17 +11,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Tingkat inflasi utama Malaysia adalah 1.8% tahun-ke-tahun pada September 2026, dengan Indeks Harga Konsumen (IHK) pada 137.6 dibandingkan 135.2 setahun sebelumnya (DOSM, dirilis 19 Oktober 2026). Angka utama ini adalah rata-rata tertimbang di seluruh keranjang konsumsi, jadi ia jarang cocok dengan pengalaman rumah tangga individu mana pun — pada bulan yang sama harga transportasi meningkat 2.5% sementara makanan dan minuman hanya meningkat 1.8%."
+answer: "Tingkat inflasi utama Malaysia adalah 1.9% tahun-ke-tahun pada Oktober 2026, dengan Indeks Harga Konsumen (IHK) pada 137.7 dibandingkan 135.1 setahun sebelumnya (DOSM, dirilis 19 November 2026). Angka utama ini adalah rata-rata tertimbang di seluruh keranjang konsumsi, jadi ia jarang cocok dengan pengalaman rumah tangga individu mana pun — pada bulan yang sama harga transportasi meningkat 4.2% sementara makanan dan minuman hanya meningkat 1.7%."
 keyTakeaways:
-  - "Inflasi utama adalah 1.8% tahun-ke-tahun pada September 2026 (IHK 137.6, naik dari 135.2)"
+  - "Inflasi utama adalah 1.9% tahun-ke-tahun pada Oktober 2026 (IHK 137.7, naik dari 135.1)"
   - "IHK adalah rata-rata tertimbang untuk keranjang tetap — ia bukan kenaikan harga bagi satu produk mana pun"
-  - "Tingkat menurut kategori berbeda secara signifikan: transportasi +2.5% dibandingkan makanan dan minuman +1.8% pada September 2026"
-  - "Inflasi juga berbeda menurut negara bagian — Negeri Sembilan dan Labuan mencatat 2.4% dan Sarawak 0.5% pada bulan yang sama"
+  - "Tingkat menurut kategori berbeda secara signifikan: transportasi +4.2% dibandingkan makanan dan minuman +1.7% pada Oktober 2026"
+  - "Inflasi juga berbeda menurut negara bagian — Negeri Sembilan mencatat 2.6% dan Sarawak 0.6% pada bulan yang sama"
   - "DOSM menerbitkan IHK setiap bulan, sekitar tiga minggu setelah bulan tersebut berakhir"
 appliesTo: "Siapa saja yang mencoba membaca laporan inflasi Malaysia dengan tepat — rumah tangga, pemberi kerja yang menetapkan gaji, dan analis."
 
 lang: "id"
-sourceContentHash: "899c7ece490e4cfc"
+sourceContentHash: "a7034f6e3692a9ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,22 +31,30 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 CPI figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 CPI (headline 1.9%, CPI 137.7 from 135.1; transport 4.2%, food & beverages 1.7%, housing/utilities 1.9%; highest Negeri Sembilan 2.6%, lowest Sarawak 0.6%; released 19 November 2026). Also fixed a stale 'released 19 June 2026' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "Indeks Harga Konsumen, September 2026 (Consumer Price Index, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026"
+  - title: "Indeks Harga Konsumen, Malaysia, Oktober 2026 (Consumer Price Index, Malaysia, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026"
     publisher: "Departemen Statistik Malaysia (DOSM)"
-    date: "2026-10-19"
+    date: "2026-11-19"
   - title: "Indeks Harga Konsumen — portal data OpenDOSM (Consumer Price Index — OpenDOSM data portal)"
-    url: "https://open.dosm.gov.my/publications/cpi_2026-04"
+    url: "https://open.dosm.gov.my/publications/cpi_2026-10"
     publisher: "Departemen Statistik Malaysia (DOSM)"
   - title: "Bank Negara Malaysia — Data Ekonomi dan Keuangan (Bank Negara Malaysia — Economic and Financial Data)"
     url: "https://www.bnm.gov.my/"
@@ -66,15 +74,15 @@ framework: data-reference
 
 | Metrik | Nilai | Periode | Sumber |
 | --- | --- | --- | --- |
-| Inflasi utama (tahun-ke-tahun) | 1.8% | September 2026 | DOSM |
-| IHK | 137.6 (dari 135.2) | September 2026 dibandingkan September 2025 | DOSM |
-| Transportasi | +2.5% | September 2026 | DOSM |
-| Makanan & minuman | +1.8% | September 2026 | DOSM |
-| Perumahan, air, listrik, gas | +1.4% | September 2026 | DOSM |
-| Negara bagian tertinggi | Negeri Sembilan dan Labuan, 2.4% | September 2026 | DOSM |
-| Negara bagian terendah | Sarawak, 0.5% | September 2026 | DOSM |
+| Inflasi utama (tahun-ke-tahun) | 1.9% | Oktober 2026 | DOSM |
+| IHK | 137.7 (dari 135.1) | Oktober 2026 dibandingkan Oktober 2025 | DOSM |
+| Transportasi | +4.2% | Oktober 2026 | DOSM |
+| Makanan & minuman | +1.7% | Oktober 2026 | DOSM |
+| Perumahan, air, listrik, gas | +1.9% | Oktober 2026 | DOSM |
+| Negara bagian tertinggi | Negeri Sembilan, 2.6% | Oktober 2026 | DOSM |
+| Negara bagian terendah | Sarawak, 0.6% | Oktober 2026 | DOSM |
 
-*Dirilis pada 19 Oktober 2026. DOSM menerbitkan IHK setiap bulan, sekitar
+*Dirilis pada 19 November 2026. DOSM menerbitkan IHK setiap bulan, sekitar
 tiga minggu setelah bulan rujukan berakhir — jadi angka inflasi "terkini"
 selalu menggambarkan bulan yang sudah berakhir.*
 
@@ -85,10 +93,10 @@ belanja Anda mengatakan sebaliknya. Keduanya bisa benar.
 
 IHK melacak **keranjang tetap** barang dan jasa yang diberi bobot
 menurut pengeluaran rata-rata rumah tangga. Rumah tangga Anda bukanlah rumah tangga
-rata-rata itu. Jika Anda banyak berkendara, inflasi pribadi Anda pada September 2026
-cenderung ke arah angka transportasi sebesar 2.5%. Jika Anda jarang
+rata-rata itu. Jika Anda banyak berkendara, inflasi pribadi Anda pada Oktober 2026
+cenderung ke arah angka transportasi sebesar 4.2%. Jika Anda jarang
 berkendara tetapi banyak membeli barang kelontong, Anda lebih dekat dengan
-angka makanan sebesar 1.8%. Angka utama 1.8% adalah gabungan tertimbang bagi
+angka makanan sebesar 1.7%. Angka utama 1.9% adalah gabungan tertimbang bagi
 semua kategori sekaligus — statistik ringkasan nasional, bukan statistik
 pribadi.
 
@@ -107,16 +115,16 @@ Dua kesenjangan lagi menjelaskan sisa perbedaan ini:
 Tiga kebiasaan menjadikan rilis bulanan jauh lebih informatif dibandingkan
 angka utama saja:
 
-1. **Periksa tabel kategori, bukan hanya angka teratas.** Angka utama 1.8%
-   yang dibangun atas transportasi pada 2.5% adalah ekonomi yang sangat
-   berbeda dari yang dibangun atas makanan pada 2.5%.
+1. **Periksa tabel kategori, bukan hanya angka teratas.** Angka utama 1.9%
+   yang dibangun atas transportasi pada 4.2% adalah ekonomi yang sangat
+   berbeda dari yang dibangun atas makanan pada 4.2%.
 2. **Bedakan tahun-ke-tahun dari bulan-ke-bulan.** Angka yang lazim
    dikutip membandingkan dengan bulan yang sama setahun sebelumnya. *Tingkat*
    yang menurun masih berarti harga sedang meningkat — hanya lebih
    lambat. Harga baru turun ketika tingkat itu menjadi negatif.
-3. **Lihat rincian menurut negara bagian.** Pada September 2026 angka nasional 1.8%
-   menyembunyikan rentang dari Sarawak pada 0.5% hingga Negeri Sembilan dan
-   Labuan pada 2.4% — rentang yang lebih luas daripada angka utama itu sendiri.
+3. **Lihat rincian menurut negara bagian.** Pada Oktober 2026 angka nasional 1.9%
+   menyembunyikan rentang dari Sarawak pada 0.6% hingga Negeri Sembilan
+   pada 2.6% — rentang yang lebih luas daripada angka utama itu sendiri.
 
 ## Apa yang menggerakkan inflasi Malaysia
 
@@ -152,6 +160,6 @@ dibaca secara berbeda dari ekonomi lain:
 
 - Bandingkan dengan output: [Gambaran Umum PDB Malaysia](/id/economy/gdp-overview)
 - Rujuk rilis utama secara langsung di
-  [laman Indeks Harga Konsumen DOSM](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026)
+  [laman Indeks Harga Konsumen DOSM](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026)
   atau seri yang dapat dibaca mesin di
-  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).
+  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-10).

@@ -10,17 +10,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "La tasa de inflación general de Malasia fue del 1,8% interanual en septiembre de 2026, con el Índice de Precios al Consumidor en 137,6 frente a 135,2 un año antes (DOSM, publicado el 19 de octubre de 2026). La cifra general es un promedio ponderado de toda la cesta de consumo, por lo que rara vez coincide con la experiencia de un hogar concreto: en el mismo mes los precios del transporte subieron un 2,5% mientras que los de alimentos y bebidas subieron solo un 1,8%."
+answer: "La tasa de inflación general de Malasia fue del 1,9% interanual en octubre de 2026, con el Índice de Precios al Consumidor en 137,7 frente a 135,1 un año antes (DOSM, publicado el 19 de noviembre de 2026). La cifra general es un promedio ponderado de toda la cesta de consumo, por lo que rara vez coincide con la experiencia de un hogar concreto: en el mismo mes los precios del transporte subieron un 4,2% mientras que los de alimentos y bebidas subieron solo un 1,7%."
 keyTakeaways:
-  - "La inflación general fue del 1,8% interanual en septiembre de 2026 (IPC 137,6, frente a 135,2)"
+  - "La inflación general fue del 1,9% interanual en octubre de 2026 (IPC 137,7, frente a 135,1)"
   - "El IPC es un promedio ponderado de una cesta fija: no es la subida de precio de ningún producto concreto"
-  - "Las tasas por categoría divergen con fuerza: transporte +2,5% frente a alimentos y bebidas +1,8% en septiembre de 2026"
-  - "La inflación también varía según el estado: Negeri Sembilan y Labuan registraron un 2,4% y Sarawak un 0,5% en el mismo mes"
+  - "Las tasas por categoría divergen con fuerza: transporte +4,2% frente a alimentos y bebidas +1,7% en octubre de 2026"
+  - "La inflación también varía según el estado: Negeri Sembilan registró un 2,6% y Sarawak un 0,6% en el mismo mes"
   - "DOSM publica el IPC mensualmente, aproximadamente tres semanas después de que termine el mes"
 appliesTo: "Cualquiera que intente leer con precisión la información sobre la inflación malasia: hogares, empleadores que fijan salarios y analistas."
 
 lang: "es"
-sourceContentHash: "899c7ece490e4cfc"
+sourceContentHash: "a7034f6e3692a9ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,22 +30,30 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 CPI figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 CPI (headline 1.9%, CPI 137.7 from 135.1; transport 4.2%, food & beverages 1.7%, housing/utilities 1.9%; highest Negeri Sembilan 2.6%, lowest Sarawak 0.6%; released 19 November 2026). Also fixed a stale 'released 19 June 2026' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "Índice de Precios al Consumidor, septiembre de 2026 (Consumer Price Index, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026"
+  - title: "Índice de Precios al Consumidor, Malasia, octubre de 2026 (Consumer Price Index, Malaysia, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026"
     publisher: "Departamento de Estadística de Malasia (DOSM)"
-    date: "2026-10-19"
+    date: "2026-11-19"
   - title: "Índice de Precios al Consumidor — portal de datos OpenDOSM (Consumer Price Index — OpenDOSM data portal)"
-    url: "https://open.dosm.gov.my/publications/cpi_2026-04"
+    url: "https://open.dosm.gov.my/publications/cpi_2026-10"
     publisher: "Departamento de Estadística de Malasia (DOSM)"
   - title: "Bank Negara Malaysia — Datos Económicos y Financieros (Bank Negara Malaysia — Economic and Financial Data)"
     url: "https://www.bnm.gov.my/"
@@ -65,15 +73,15 @@ framework: data-reference
 
 | Indicador | Valor | Periodo | Fuente |
 | --- | --- | --- | --- |
-| Inflación general (interanual) | 1,8% | Septiembre de 2026 | DOSM |
-| Índice IPC | 137,6 (desde 135,2) | Septiembre 2026 vs. septiembre 2025 | DOSM |
-| Transporte | +2,5% | Septiembre de 2026 | DOSM |
-| Alimentos y bebidas | +1,8% | Septiembre de 2026 | DOSM |
-| Vivienda, agua, electricidad, gas | +1,4% | Septiembre de 2026 | DOSM |
-| Estado más alto | Negeri Sembilan y Labuan, 2,4% | Septiembre de 2026 | DOSM |
-| Estado más bajo | Sarawak, 0,5% | Septiembre de 2026 | DOSM |
+| Inflación general (interanual) | 1,9% | Octubre de 2026 | DOSM |
+| Índice IPC | 137,7 (desde 135,1) | Octubre 2026 vs. octubre 2025 | DOSM |
+| Transporte | +4,2% | Octubre de 2026 | DOSM |
+| Alimentos y bebidas | +1,7% | Octubre de 2026 | DOSM |
+| Vivienda, agua, electricidad, gas | +1,9% | Octubre de 2026 | DOSM |
+| Estado más alto | Negeri Sembilan, 2,6% | Octubre de 2026 | DOSM |
+| Estado más bajo | Sarawak, 0,6% | Octubre de 2026 | DOSM |
 
-*Publicado el 19 de octubre de 2026. DOSM publica el IPC mensualmente, aproximadamente
+*Publicado el 19 de noviembre de 2026. DOSM publica el IPC mensualmente, aproximadamente
 tres semanas después de que cierra el mes de referencia, por lo que la cifra de
 inflación «actual» siempre describe un mes que ya ha terminado.*
 
@@ -84,9 +92,9 @@ carrito de la compra dice otra cosa. Ambas cosas pueden ser ciertas.
 
 El IPC sigue una **cesta fija** de bienes y servicios ponderada según lo que gasta
 un hogar medio. Su hogar no es el hogar medio. Si conduce mucho, su inflación
-personal en septiembre de 2026 se inclinó hacia la cifra de transporte del 2,5%. Si
-conduce poco pero compra muchos alimentos, estuvo más cerca de la cifra del 1,8%
-de los alimentos. El 1,8% general es la mezcla ponderada de todas las categorías a
+personal en octubre de 2026 se inclinó hacia la cifra de transporte del 4,2%. Si
+conduce poco pero compra muchos alimentos, estuvo más cerca de la cifra del 1,7%
+de los alimentos. El 1,9% general es la mezcla ponderada de todas las categorías a
 la vez: un dato estadístico de resumen nacional, no uno personal.
 
 Dos diferencias más explican el resto del desacuerdo:
@@ -104,16 +112,16 @@ Dos diferencias más explican el resto del desacuerdo:
 Tres hábitos hacen que la publicación mensual sea mucho más informativa que la
 cifra general:
 
-1. **Consulte la tabla por categorías, no solo la línea principal.** Un 1,8%
-   general construido sobre un transporte al 2,5% es una economía muy distinta de
-   una construida sobre alimentos al 2,5%.
+1. **Consulte la tabla por categorías, no solo la línea principal.** Un 1,9%
+   general construido sobre un transporte al 4,2% es una economía muy distinta de
+   una construida sobre alimentos al 4,2%.
 2. **Distinga la variación interanual de la mensual.** La cifra que se cita
    habitualmente compara con el mismo mes del año anterior. Una *tasa* que cae
    sigue significando que los precios suben, solo que más despacio. Los precios
    solo bajan cuando la tasa se vuelve negativa.
-3. **Fíjese en el desglose por estado.** En septiembre de 2026 la cifra nacional del
-   1,8% ocultaba un rango que iba desde el 0,5% de Sarawak hasta el 2,4% de
-   Negeri Sembilan y Labuan, una horquilla más amplia que la propia cifra general.
+3. **Fíjese en el desglose por estado.** En octubre de 2026 la cifra nacional del
+   1,9% ocultaba un rango que iba desde el 0,6% de Sarawak hasta el 2,6% de
+   Negeri Sembilan, una horquilla más amplia que la propia cifra general.
 
 ## Qué mueve la inflación malasia
 
@@ -148,6 +156,6 @@ se lea de forma distinta a la de otras economías:
 
 - Compare con la producción: [Panorama del PIB de Malasia](/en/economy/gdp-overview)
 - Consulte directamente la publicación primaria en
-  [la página del Índice de Precios al Consumidor de DOSM](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026)
+  [la página del Índice de Precios al Consumidor de DOSM](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026)
   o la serie legible por máquina en
-  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).
+  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-10).

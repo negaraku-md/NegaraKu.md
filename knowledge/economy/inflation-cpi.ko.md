@@ -10,17 +10,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "말레이시아의 헤드라인 인플레이션율은 2026년 9월 전년 동월 대비 1.8%였으며, 소비자물가지수(CPI)는 1년 전 135.2에서 137.6로 상승했습니다(DOSM, 2026년 10월 19일 발표). 헤드라인 수치는 전체 소비 바스켓에 걸친 가중평균이므로 개별 가계의 경험과 일치하는 경우가 드뭅니다. 같은 달 교통 물가는 2.5% 상승한 반면 식품·음료는 1.8%만 상승했습니다."
+answer: "말레이시아의 헤드라인 인플레이션율은 2026년 10월 전년 동월 대비 1.9%였으며, 소비자물가지수(CPI)는 1년 전 135.1에서 137.7로 상승했습니다(DOSM, 2026년 11월 19일 발표). 헤드라인 수치는 전체 소비 바스켓에 걸친 가중평균이므로 개별 가계의 경험과 일치하는 경우가 드뭅니다. 같은 달 교통 물가는 4.2% 상승한 반면 식품·음료는 1.7%만 상승했습니다."
 keyTakeaways:
-  - "헤드라인 인플레이션은 2026년 9월 전년 동월 대비 1.8%였습니다(CPI 137.6, 135.2에서 상승)"
+  - "헤드라인 인플레이션은 2026년 10월 전년 동월 대비 1.9%였습니다(CPI 137.7, 135.1에서 상승)"
   - "CPI는 고정된 바스켓의 가중평균이며, 특정 한 상품의 가격 상승률이 아닙니다"
-  - "품목별 상승률은 크게 갈립니다. 2026년 9월 교통 +2.5% 대비 식품·음료 +1.8%였습니다"
-  - "인플레이션은 주(州)별로도 다릅니다. 같은 달 느그리슴빌란과 라부안은 2.4%, 사라왁은 0.5%를 기록했습니다"
+  - "품목별 상승률은 크게 갈립니다. 2026년 10월 교통 +4.2% 대비 식품·음료 +1.7%였습니다"
+  - "인플레이션은 주(州)별로도 다릅니다. 같은 달 느그리슴빌란은 2.6%, 사라왁은 0.6%를 기록했습니다"
   - "DOSM은 매월, 해당 월이 끝난 뒤 약 3주 후에 CPI를 발표합니다"
 appliesTo: "말레이시아 인플레이션 보도를 정확히 읽으려는 모든 사람 — 가계, 임금을 책정하는 고용주, 분석가."
 
 lang: "ko"
-sourceContentHash: "899c7ece490e4cfc"
+sourceContentHash: "a7034f6e3692a9ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,22 +30,30 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 CPI figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 CPI (headline 1.9%, CPI 137.7 from 135.1; transport 4.2%, food & beverages 1.7%, housing/utilities 1.9%; highest Negeri Sembilan 2.6%, lowest Sarawak 0.6%; released 19 November 2026). Also fixed a stale 'released 19 June 2026' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "소비자물가지수, 2026년 9월 (Consumer Price Index, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026"
+  - title: "소비자물가지수, 말레이시아, 2026년 10월 (Consumer Price Index, Malaysia, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026"
     publisher: "말레이시아 통계청 (DOSM)"
-    date: "2026-10-19"
+    date: "2026-11-19"
   - title: "소비자물가지수 — OpenDOSM 데이터 포털 (Consumer Price Index — OpenDOSM data portal)"
-    url: "https://open.dosm.gov.my/publications/cpi_2026-04"
+    url: "https://open.dosm.gov.my/publications/cpi_2026-10"
     publisher: "말레이시아 통계청 (DOSM)"
   - title: "말레이시아 중앙은행 — 경제 및 금융 데이터 (Bank Negara Malaysia — Economic and Financial Data)"
     url: "https://www.bnm.gov.my/"
@@ -65,15 +73,15 @@ framework: data-reference
 
 | 지표 | 값 | 기간 | 출처 |
 | --- | --- | --- | --- |
-| 헤드라인 인플레이션(전년 동월 대비) | 1.8% | 2026년 9월 | DOSM |
-| CPI 지수 | 137.6 (135.2에서 상승) | 2026년 9월 대 2025년 9월 | DOSM |
-| 교통 | +2.5% | 2026년 9월 | DOSM |
-| 식품·음료 | +1.8% | 2026년 9월 | DOSM |
-| 주거·수도·전기·가스 | +1.4% | 2026년 9월 | DOSM |
-| 최고 주(州) | 느그리슴빌란과 라부안, 2.4% | 2026년 9월 | DOSM |
-| 최저 주(州) | 사라왁, 0.5% | 2026년 9월 | DOSM |
+| 헤드라인 인플레이션(전년 동월 대비) | 1.9% | 2026년 10월 | DOSM |
+| CPI 지수 | 137.7 (135.1에서 상승) | 2026년 10월 대 2025년 10월 | DOSM |
+| 교통 | +4.2% | 2026년 10월 | DOSM |
+| 식품·음료 | +1.7% | 2026년 10월 | DOSM |
+| 주거·수도·전기·가스 | +1.9% | 2026년 10월 | DOSM |
+| 최고 주(州) | 느그리슴빌란, 2.6% | 2026년 10월 | DOSM |
+| 최저 주(州) | 사라왁, 0.6% | 2026년 10월 | DOSM |
 
-*2026년 10월 19일 발표. DOSM은 매월, 기준 월이 끝난 뒤 약 3주 후에 CPI를 발표하므로,
+*2026년 11월 19일 발표. DOSM은 매월, 기준 월이 끝난 뒤 약 3주 후에 CPI를 발표하므로,
 「현재」의 인플레이션 수치는 항상 이미 끝난 달을 설명하는 것입니다.*
 
 ## 그 숫자가 왜 당신의 영수증과 결코 일치하지 않는가
@@ -82,9 +90,9 @@ framework: data-reference
 말합니다. 둘 다 사실일 수 있습니다.
 
 CPI는 평균 가계가 지출하는 바에 따라 가중치를 부여한 상품·서비스의 **고정된 바스켓**을
-추적합니다. 당신의 가계는 평균 가계가 아닙니다. 운전을 많이 한다면, 2026년 9월 당신의
-개인 인플레이션은 교통 수치인 2.5%에 가까웠을 것입니다. 운전은 거의 하지 않지만 식료품을
-많이 산다면, 식품 수치인 1.8%에 가까웠을 것입니다. 헤드라인 1.8%는 모든 품목을 한꺼번에
+추적합니다. 당신의 가계는 평균 가계가 아닙니다. 운전을 많이 한다면, 2026년 10월 당신의
+개인 인플레이션은 교통 수치인 4.2%에 가까웠을 것입니다. 운전은 거의 하지 않지만 식료품을
+많이 산다면, 식품 수치인 1.7%에 가까웠을 것입니다. 헤드라인 1.9%는 모든 품목을 한꺼번에
 가중 혼합한 것으로, 개인적 통계가 아니라 국가적 요약 통계입니다.
 
 두 가지 추가적인 간극이 나머지 불일치를 설명합니다.
@@ -99,13 +107,13 @@ CPI는 평균 가계가 지출하는 바에 따라 가중치를 부여한 상품
 
 세 가지 습관이 월간 발표 자료를 헤드라인보다 훨씬 유익하게 만듭니다.
 
-1. **최상단 수치뿐 아니라 품목별 표를 확인하십시오.** 교통이 2.5%인 상태에서 만들어진
-   1.8% 헤드라인은 식품이 2.5%인 상태에서 만들어진 것과 매우 다른 경제입니다.
+1. **최상단 수치뿐 아니라 품목별 표를 확인하십시오.** 교통이 4.2%인 상태에서 만들어진
+   1.9% 헤드라인은 식품이 4.2%인 상태에서 만들어진 것과 매우 다른 경제입니다.
 2. **전년 동월 대비와 전월 대비를 구분하십시오.** 흔히 인용되는 수치는 1년 전 같은 달과
    비교한 것입니다. *상승률*이 떨어져도 여전히 가격은 오르고 있다는 뜻이며, 다만 더 느리게
    오를 뿐입니다. 가격이 실제로 하락하는 것은 상승률이 마이너스로 갈 때뿐입니다.
-3. **주별 세부 내역을 보십시오.** 2026년 9월 전국 수치 1.8%는 사라왁의 0.5%에서 느그리슴빌란과 라부안의
-   2.4%에 이르는 범위를 감추고 있었으며, 이는 헤드라인 수치 자체보다 넓은 격차입니다.
+3. **주별 세부 내역을 보십시오.** 2026년 10월 전국 수치 1.9%는 사라왁의 0.6%에서 느그리슴빌란의
+   2.6%에 이르는 범위를 감추고 있었으며, 이는 헤드라인 수치 자체보다 넓은 격차입니다.
 
 ## 무엇이 말레이시아 인플레이션을 움직이는가
 
@@ -133,6 +141,6 @@ CPI는 평균 가계가 지출하는 바에 따라 가중치를 부여한 상품
 
 - 산출과 비교하기: [말레이시아 GDP 개요](/ko/economy/gdp-overview)
 - 1차 발표 자료를 직접 참조하기:
-  [DOSM 소비자물가지수 페이지](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026)
+  [DOSM 소비자물가지수 페이지](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026)
   또는 기계 판독이 가능한 시계열 자료
-  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).
+  [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-10).

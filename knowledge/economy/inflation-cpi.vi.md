@@ -10,17 +10,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Tỷ lệ lạm phát chủ đạo của Malaysia là 1,8% so với cùng kỳ năm trước trong tháng 9 năm 2026, với Chỉ số Giá Tiêu dùng ở mức 137,6 so với 135,2 một năm trước đó (DOSM, công bố ngày 19 tháng 10 năm 2026). Con số chủ đạo là một mức trung bình có trọng số trên toàn bộ rổ tiêu dùng, nên nó hiếm khi khớp với trải nghiệm của bất kỳ hộ gia đình cá nhân nào — trong cùng tháng đó, giá vận tải tăng 2,5% trong khi thực phẩm và đồ uống chỉ tăng 1,8%."
+answer: "Tỷ lệ lạm phát chủ đạo của Malaysia là 1,9% so với cùng kỳ năm trước trong tháng 10 năm 2026, với Chỉ số Giá Tiêu dùng ở mức 137,7 so với 135,1 một năm trước đó (DOSM, công bố ngày 19 tháng 11 năm 2026). Con số chủ đạo là một mức trung bình có trọng số trên toàn bộ rổ tiêu dùng, nên nó hiếm khi khớp với trải nghiệm của bất kỳ hộ gia đình cá nhân nào — trong cùng tháng đó, giá vận tải tăng 4,2% trong khi thực phẩm và đồ uống chỉ tăng 1,7%."
 keyTakeaways:
-  - "Lạm phát chủ đạo là 1,8% so với cùng kỳ năm trước trong tháng 9 năm 2026 (CPI 137,6, tăng từ 135,2)"
+  - "Lạm phát chủ đạo là 1,9% so với cùng kỳ năm trước trong tháng 10 năm 2026 (CPI 137,7, tăng từ 135,1)"
   - "CPI là một mức trung bình có trọng số của một rổ cố định — nó không phải là mức tăng giá của bất kỳ một sản phẩm nào"
-  - "Các tỷ lệ theo nhóm phân kỳ mạnh: vận tải +2,5% so với thực phẩm và đồ uống +1,8% trong tháng 9 năm 2026"
-  - "Lạm phát cũng khác nhau theo bang — Negeri Sembilan và Labuan ghi nhận 2,4% và Sarawak 0,5% trong cùng tháng"
+  - "Các tỷ lệ theo nhóm phân kỳ mạnh: vận tải +4,2% so với thực phẩm và đồ uống +1,7% trong tháng 10 năm 2026"
+  - "Lạm phát cũng khác nhau theo bang — Negeri Sembilan ghi nhận 2,6% và Sarawak 0,6% trong cùng tháng"
   - "DOSM công bố CPI hằng tháng, khoảng ba tuần sau khi tháng kết thúc"
 appliesTo: "Bất kỳ ai đang cố đọc chính xác các bản tin lạm phát của Malaysia — hộ gia đình, người sử dụng lao động ấn định lương, và nhà phân tích."
 
 lang: "vi"
-sourceContentHash: "899c7ece490e4cfc"
+sourceContentHash: "a7034f6e3692a9ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,22 +30,30 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 CPI figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 CPI (headline 1.9%, CPI 137.7 from 135.1; transport 4.2%, food & beverages 1.7%, housing/utilities 1.9%; highest Negeri Sembilan 2.6%, lowest Sarawak 0.6%; released 19 November 2026). Also fixed a stale 'released 19 June 2026' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "Chỉ số Giá Tiêu dùng, tháng 9 năm 2026 (Consumer Price Index, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026"
+  - title: "Chỉ số Giá Tiêu dùng, Malaysia, tháng 10 năm 2026 (Consumer Price Index, Malaysia, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026"
     publisher: "Cục Thống kê Malaysia (DOSM)"
-    date: "2026-10-19"
+    date: "2026-11-19"
   - title: "Chỉ số Giá Tiêu dùng — cổng dữ liệu OpenDOSM (Consumer Price Index — OpenDOSM data portal)"
-    url: "https://open.dosm.gov.my/publications/cpi_2026-04"
+    url: "https://open.dosm.gov.my/publications/cpi_2026-10"
     publisher: "Cục Thống kê Malaysia (DOSM)"
   - title: "Ngân hàng Trung ương Malaysia — Dữ liệu Kinh tế và Tài chính (Bank Negara Malaysia — Economic and Financial Data)"
     url: "https://www.bnm.gov.my/"
@@ -65,21 +73,21 @@ framework: data-reference
 
 | Chỉ tiêu | Giá trị | Thời kỳ | Nguồn |
 | --- | --- | --- | --- |
-| Lạm phát chủ đạo (so với cùng kỳ) | 1,8% | Tháng 9 năm 2026 | DOSM |
-| Chỉ số CPI | 137,6 (từ 135,2) | Tháng 9 năm 2026 so với tháng 9 năm 2025 | DOSM |
-| Vận tải | +2,5% | Tháng 9 năm 2026 | DOSM |
-| Thực phẩm & đồ uống | +1,8% | Tháng 9 năm 2026 | DOSM |
-| Nhà ở, nước, điện, khí | +1,4% | Tháng 9 năm 2026 | DOSM |
-| Bang cao nhất | Negeri Sembilan và Labuan, 2,4% | Tháng 9 năm 2026 | DOSM |
-| Bang thấp nhất | Sarawak, 0,5% | Tháng 9 năm 2026 | DOSM |
+| Lạm phát chủ đạo (so với cùng kỳ) | 1,9% | Tháng 10 năm 2026 | DOSM |
+| Chỉ số CPI | 137,7 (từ 135,1) | Tháng 10 năm 2026 so với tháng 10 năm 2025 | DOSM |
+| Vận tải | +4,2% | Tháng 10 năm 2026 | DOSM |
+| Thực phẩm & đồ uống | +1,7% | Tháng 10 năm 2026 | DOSM |
+| Nhà ở, nước, điện, khí | +1,9% | Tháng 10 năm 2026 | DOSM |
+| Bang cao nhất | Negeri Sembilan, 2,6% | Tháng 10 năm 2026 | DOSM |
+| Bang thấp nhất | Sarawak, 0,6% | Tháng 10 năm 2026 | DOSM |
 
-*Công bố ngày 19 tháng 10 năm 2026. DOSM công bố CPI hằng tháng, khoảng ba tuần sau khi tháng tham chiếu khép lại — nên con số lạm phát «hiện hành» luôn mô tả một tháng đã kết thúc.*
+*Công bố ngày 19 tháng 11 năm 2026. DOSM công bố CPI hằng tháng, khoảng ba tuần sau khi tháng tham chiếu khép lại — nên con số lạm phát «hiện hành» luôn mô tả một tháng đã kết thúc.*
 
 ## Vì sao con số không bao giờ khớp với hóa đơn của bạn
 
 Lời than phiền gần như phổ biến: tin tức nói lạm phát là 2%, còn giỏ hàng của bạn nói khác. Cả hai đều có thể đúng.
 
-CPI theo dõi một **rổ cố định** gồm hàng hóa và dịch vụ được trọng số theo mức chi tiêu của một hộ gia đình trung bình. Hộ gia đình của bạn không phải là hộ trung bình. Nếu bạn lái xe nhiều, lạm phát cá nhân của bạn trong tháng 9 năm 2026 nghiêng về con số vận tải 2,5%. Nếu bạn hiếm khi lái xe nhưng mua nhiều thực phẩm, bạn ở gần con số thực phẩm 1,8% hơn. Con số chủ đạo 1,8% là sự pha trộn có trọng số của mọi nhóm cùng lúc — một chỉ số tóm tắt quốc gia, không phải một chỉ số cá nhân.
+CPI theo dõi một **rổ cố định** gồm hàng hóa và dịch vụ được trọng số theo mức chi tiêu của một hộ gia đình trung bình. Hộ gia đình của bạn không phải là hộ trung bình. Nếu bạn lái xe nhiều, lạm phát cá nhân của bạn trong tháng 10 năm 2026 nghiêng về con số vận tải 4,2%. Nếu bạn hiếm khi lái xe nhưng mua nhiều thực phẩm, bạn ở gần con số thực phẩm 1,7% hơn. Con số chủ đạo 1,9% là sự pha trộn có trọng số của mọi nhóm cùng lúc — một chỉ số tóm tắt quốc gia, không phải một chỉ số cá nhân.
 
 Hai khoảng cách nữa giải thích phần còn lại của sự bất đồng:
 
@@ -90,9 +98,9 @@ Hai khoảng cách nữa giải thích phần còn lại của sự bất đồn
 
 Ba thói quen làm bản công bố hằng tháng giàu thông tin hơn nhiều so với con số chủ đạo:
 
-1. **Kiểm tra bảng theo nhóm, không chỉ dòng trên cùng.** Một con số chủ đạo 1,8% được xây trên vận tải ở mức 2,5% là một nền kinh tế rất khác với nền kinh tế được xây trên thực phẩm ở mức 2,5%.
+1. **Kiểm tra bảng theo nhóm, không chỉ dòng trên cùng.** Một con số chủ đạo 1,9% được xây trên vận tải ở mức 4,2% là một nền kinh tế rất khác với nền kinh tế được xây trên thực phẩm ở mức 4,2%.
 2. **Phân biệt so-với-cùng-kỳ-năm-trước với so-với-tháng-trước.** Con số thường được trích dẫn so sánh với cùng tháng một năm trước đó. Một *tỷ lệ* đang giảm vẫn có nghĩa là giá đang tăng — chỉ là chậm hơn. Giá chỉ giảm khi tỷ lệ chuyển sang âm.
-3. **Xem phân tích theo bang.** Trong tháng 9 năm 2026, con số quốc gia 1,8% che giấu một khoảng từ Sarawak ở mức 0,5% đến Negeri Sembilan và Labuan ở mức 2,4% — một biên độ rộng hơn cả con số chủ đạo.
+3. **Xem phân tích theo bang.** Trong tháng 10 năm 2026, con số quốc gia 1,9% che giấu một khoảng từ Sarawak ở mức 0,6% đến Negeri Sembilan ở mức 2,6% — một biên độ rộng hơn cả con số chủ đạo.
 
 ## Điều gì làm dịch chuyển lạm phát của Malaysia
 
@@ -111,4 +119,4 @@ Lạm phát của Malaysia có một số đặc điểm cấu trúc khiến nó
 ## Tiếp theo
 
 - So sánh với sản lượng: [Tổng quan GDP Malaysia](/vi/economy/gdp-overview)
-- Tham khảo trực tiếp bản công bố sơ cấp tại [trang Chỉ số Giá Tiêu dùng của DOSM](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026) hoặc chuỗi dữ liệu máy đọc được trên [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).
+- Tham khảo trực tiếp bản công bố sơ cấp tại [trang Chỉ số Giá Tiêu dùng của DOSM](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-oct2026) hoặc chuỗi dữ liệu máy đọc được trên [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-10).
