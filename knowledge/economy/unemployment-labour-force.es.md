@@ -11,17 +11,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "La tasa de desempleo de Malasia fue del 2.9% en agosto de 2026, con 511,600 personas desempleadas de una fuerza laboral de 17.39 millones y 16.87 millones de empleados (DOSM, publicado el 9 de octubre de 2026). La tasa de participación en la fuerza laboral fue del 71.0%. La tasa cuenta únicamente a las personas que están sin trabajo, disponibles para trabajar y buscando activamente, por lo que puede mantenerse baja mientras que aproximadamente tres de cada diez malasios en edad de trabajar permanecen por completo fuera de la fuerza laboral."
+answer: "La tasa de desempleo de Malasia se mantuvo en el 2.9% en septiembre de 2026, con 513,200 personas desempleadas de una fuerza laboral de 17.40 millones y 16.89 millones de empleados (DOSM, publicado el 11 de noviembre de 2026). La tasa de participación en la fuerza laboral fue del 71.0%. La tasa cuenta únicamente a las personas que están sin trabajo, disponibles para trabajar y buscando activamente, por lo que puede mantenerse baja mientras que aproximadamente tres de cada diez malasios en edad de trabajar permanecen por completo fuera de la fuerza laboral."
 keyTakeaways:
-  - "El desempleo fue del 2.9% en agosto de 2026: 511,600 personas de una fuerza laboral de 17.39 millones"
-  - "16.87 millones de personas estaban empleadas; la tasa de participación fue del 71.0%"
+  - "El desempleo se mantuvo en el 2.9% en septiembre de 2026: 513,200 personas de una fuerza laboral de 17.40 millones"
+  - "16.89 millones de personas estaban empleadas; la tasa de participación fue del 71.0%"
   - "Para contar como desempleado debe estar sin empleo, disponible Y buscando trabajo activamente"
   - "Alrededor del 29% de la población en edad de trabajar queda fuera de la fuerza laboral y no se cuenta en absoluto"
   - "El DOSM publica las estadísticas de la fuerza laboral mensualmente, unas seis semanas después del mes de referencia"
 appliesTo: "Cualquiera que interprete datos del mercado laboral malasio: quienes buscan empleo, empleadores, responsables de políticas y analistas."
 
 lang: "es"
-sourceContentHash: "e6a8d065e2c62d32"
+sourceContentHash: "f8242986984f8f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,20 +31,28 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM August 2026 labour-force figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM September 2026 labour-force figures (unemployment held at 2.9%, 513,200 unemployed; labour force 17.40 million, 16.89 million employed; participation rate 71.0%; released 11 November 2026). Also fixed a stale 'released 10 July 2026 / describes May' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "Estadísticas de la fuerza laboral, agosto de 2026 (Labour Force Statistics, August 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
+  - title: "Estadísticas de la fuerza laboral, septiembre de 2026 (Labour Force Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026"
     publisher: "Departamento de Estadística de Malasia (DOSM)"
-    date: "2026-10-09"
+    date: "2026-11-11"
   - title: "Informe de la Encuesta de la Fuerza Laboral, primer trimestre de 2026 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "Departamento de Estadística de Malasia (DOSM)"
@@ -65,14 +73,15 @@ framework: data-reference
 
 | Métrica | Valor | Periodo | Fuente |
 | --- | --- | --- | --- |
-| Tasa de desempleo | 2.9% | Agosto de 2026 | DOSM |
-| Personas desempleadas | 511,600 | Agosto de 2026 | DOSM |
-| Fuerza laboral | 17.39 millones | Agosto de 2026 | DOSM |
-| Personas empleadas | 16.87 millones | Agosto de 2026 | DOSM |
-| Tasa de participación en la fuerza laboral | 71.0% | Agosto de 2026 | DOSM |
+| Tasa de desempleo | 2.9% | Septiembre de 2026 | DOSM |
+| Personas desempleadas | 513,200 | Septiembre de 2026 | DOSM |
+| Fuerza laboral | 17.40 millones | Septiembre de 2026 | DOSM |
+| Personas empleadas | 16.89 millones | Septiembre de 2026 | DOSM |
+| Tasa de participación en la fuerza laboral | 71.0% | Septiembre de 2026 | DOSM |
 
-*Publicado el 9 de octubre de 2026. Las estadísticas de la fuerza laboral se
-retrasan más que los precios: la cifra publicada en octubre describe agosto.*
+*Publicado el 11 de noviembre de 2026. Las estadísticas de la fuerza laboral se
+retrasan más que los precios: la cifra publicada en noviembre describe
+septiembre.*
 
 ## Qué significa realmente «desempleado» aquí
 
@@ -94,10 +103,10 @@ de desempleo. Esa es la cosa más importante que entender sobre la cifra.
 
 ## La tasa de participación es la otra mitad de la historia
 
-En agosto de 2026 la tasa de participación fue del 71.0%. La aritmética que
+En septiembre de 2026 la tasa de participación fue del 71.0%. La aritmética que
 importa:
 
-- **Fuerza laboral** = empleados + desempleados = 17.39 millones
+- **Fuerza laboral** = empleados + desempleados = 17.40 millones
 - **Tasa de participación** = fuerza laboral ÷ población en edad de trabajar =
   71.0%
 
@@ -154,4 +163,4 @@ generalizadas sobre el mercado laboral:
 - Léalo junto con los precios: [la tasa de inflación de Malasia](/en/economy/inflation-cpi)
 - Y la producción: [panorama del PIB de Malasia](/en/economy/gdp-overview)
 - Fuente primaria:
-  [Estadísticas de la fuerza laboral del DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)
+  [Estadísticas de la fuerza laboral del DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026)

@@ -10,10 +10,10 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia's unemployment rate was 2.9% in August 2026, with 511,600 people unemployed out of a labour force of 17.39 million and 16.87 million employed (DOSM, released 9 October 2026). The labour force participation rate was 71.0%. The rate counts only people who are without work, available for work and actively looking — which is why it can stay low while roughly three in ten working-age Malaysians remain outside the labour force entirely."
+answer: "Malaysia's unemployment rate held at 2.9% in September 2026, with 513,200 people unemployed out of a labour force of 17.40 million and 16.89 million employed (DOSM, released 11 November 2026). The labour force participation rate was 71.0%. The rate counts only people who are without work, available for work and actively looking — which is why it can stay low while roughly three in ten working-age Malaysians remain outside the labour force entirely."
 keyTakeaways:
-  - "Unemployment was 2.9% in August 2026 — 511,600 people out of a 17.39 million labour force"
-  - "16.87 million people were employed; the participation rate was 71.0%"
+  - "Unemployment held at 2.9% in September 2026 — 513,200 people out of a 17.40 million labour force"
+  - "16.89 million people were employed; the participation rate was 71.0%"
   - "To be counted unemployed you must be jobless, available AND actively seeking work"
   - "Roughly 29% of the working-age population sits outside the labour force and is not counted at all"
   - "DOSM publishes labour force statistics monthly, about six weeks after the reference month"
@@ -29,7 +29,7 @@ reviewer: null
 reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-04-25
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
@@ -39,14 +39,18 @@ revisions:
     date: 2026-10-25
     change: "Review-due refresh: updated to DOSM August 2026 labour-force figures."
     reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM September 2026 labour-force figures (unemployment held at 2.9%, 513,200 unemployed; labour force 17.40 million, 16.89 million employed; participation rate 71.0%; released 11 November 2026). Also fixed a stale 'released 10 July 2026 / describes May' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-25
+updated: 2026-11-28
 sources:
-  - title: "Labour Force Statistics, August 2026"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
+  - title: "Labour Force Statistics, September 2026"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026"
     publisher: "DOSM"
-    date: "2026-10-09"
+    date: "2026-11-11"
   - title: "Labour Force Survey Report, First Quarter 2026"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "DOSM"
@@ -67,14 +71,14 @@ framework: data-reference
 
 | Metric | Value | Period | Source |
 | --- | --- | --- | --- |
-| Unemployment rate | 2.9% | August 2026 | DOSM |
-| Unemployed persons | 511,600 | August 2026 | DOSM |
-| Labour force | 17.39 million | August 2026 | DOSM |
-| Employed persons | 16.87 million | August 2026 | DOSM |
-| Labour force participation rate | 71.0% | August 2026 | DOSM |
+| Unemployment rate | 2.9% | September 2026 | DOSM |
+| Unemployed persons | 513,200 | September 2026 | DOSM |
+| Labour force | 17.40 million | September 2026 | DOSM |
+| Employed persons | 16.89 million | September 2026 | DOSM |
+| Labour force participation rate | 71.0% | September 2026 | DOSM |
 
-*Released 10 July 2026. Labour force statistics lag further than prices — the
-figure published in July describes May.*
+*Released 11 November 2026. Labour force statistics lag further than prices — the
+figure published in November describes September.*
 
 ## What "unemployed" actually means here
 
@@ -96,9 +100,9 @@ That is the single most important thing to understand about the number.
 
 ## The participation rate is the other half of the story
 
-In August 2026 the participation rate was 71.0%. The arithmetic that matters:
+In September 2026 the participation rate was 71.0%. The arithmetic that matters:
 
-- **Labour force** = employed + unemployed = 17.39 million
+- **Labour force** = employed + unemployed = 17.40 million
 - **Participation rate** = labour force ÷ working-age population = 71.0%
 
 So roughly **29% of working-age Malaysians are outside the labour force
@@ -150,4 +154,4 @@ complaints about the job market:
 - Read alongside prices: [Malaysia's Inflation Rate](/en/economy/inflation-cpi)
 - And output: [Malaysia GDP Overview](/en/economy/gdp-overview)
 - Primary source:
-  [DOSM Labour Force Statistics](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)
+  [DOSM Labour Force Statistics](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026)

@@ -11,17 +11,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Tỷ lệ thất nghiệp của Malaysia là 2,9% trong tháng 8 năm 2026, với 511.600 người thất nghiệp trong một lực lượng lao động 17,39 triệu và 16,87 triệu người có việc làm (DOSM, công bố ngày 9 tháng 10 năm 2026). Tỷ lệ tham gia lực lượng lao động là 71,0%. Tỷ lệ này chỉ đếm những người không có việc làm, sẵn sàng làm việc và tích cực tìm kiếm — đó là lý do nó có thể giữ ở mức thấp trong khi khoảng ba trong mười người Malaysia trong độ tuổi lao động vẫn hoàn toàn nằm ngoài lực lượng lao động."
+answer: "Tỷ lệ thất nghiệp của Malaysia giữ ở mức 2,9% trong tháng 9 năm 2026, với 513.200 người thất nghiệp trong một lực lượng lao động 17,40 triệu và 16,89 triệu người có việc làm (DOSM, công bố ngày 11 tháng 11 năm 2026). Tỷ lệ tham gia lực lượng lao động là 71,0%. Tỷ lệ này chỉ đếm những người không có việc làm, sẵn sàng làm việc và tích cực tìm kiếm — đó là lý do nó có thể giữ ở mức thấp trong khi khoảng ba trong mười người Malaysia trong độ tuổi lao động vẫn hoàn toàn nằm ngoài lực lượng lao động."
 keyTakeaways:
-  - "Thất nghiệp là 2,9% trong tháng 8 năm 2026 — 511.600 người trong một lực lượng lao động 17,39 triệu"
-  - "16,87 triệu người có việc làm; tỷ lệ tham gia là 71,0%"
+  - "Thất nghiệp giữ ở mức 2,9% trong tháng 9 năm 2026 — 513.200 người trong một lực lượng lao động 17,40 triệu"
+  - "16,89 triệu người có việc làm; tỷ lệ tham gia là 71,0%"
   - "Để được tính là thất nghiệp, bạn phải không có việc làm, sẵn sàng VÀ tích cực tìm việc"
   - "Khoảng 29% dân số trong độ tuổi lao động nằm ngoài lực lượng lao động và hoàn toàn không được tính"
   - "DOSM công bố số liệu lực lượng lao động hằng tháng, khoảng sáu tuần sau tháng tham chiếu"
 appliesTo: "Bất kỳ ai diễn giải dữ liệu thị trường lao động của Malaysia — người tìm việc, người sử dụng lao động, nhà hoạch định chính sách và nhà phân tích."
 
 lang: "vi"
-sourceContentHash: "e6a8d065e2c62d32"
+sourceContentHash: "f8242986984f8f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,20 +31,28 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM August 2026 labour-force figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM September 2026 labour-force figures (unemployment held at 2.9%, 513,200 unemployed; labour force 17.40 million, 16.89 million employed; participation rate 71.0%; released 11 November 2026). Also fixed a stale 'released 10 July 2026 / describes May' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "Thống kê Lực lượng Lao động, tháng 8 năm 2026 (Labour Force Statistics, August 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
+  - title: "Thống kê Lực lượng Lao động, tháng 9 năm 2026 (Labour Force Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026"
     publisher: "Cục Thống kê Malaysia (DOSM)"
-    date: "2026-10-09"
+    date: "2026-11-11"
   - title: "Báo cáo Khảo sát Lực lượng Lao động, Quý Một 2026 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "Cục Thống kê Malaysia (DOSM)"
@@ -65,13 +73,13 @@ framework: data-reference
 
 | Chỉ tiêu | Giá trị | Thời kỳ | Nguồn |
 | --- | --- | --- | --- |
-| Tỷ lệ thất nghiệp | 2,9% | Tháng 8 năm 2026 | DOSM |
-| Số người thất nghiệp | 511.600 | Tháng 8 năm 2026 | DOSM |
-| Lực lượng lao động | 17,39 triệu | Tháng 8 năm 2026 | DOSM |
-| Số người có việc làm | 16,87 triệu | Tháng 8 năm 2026 | DOSM |
-| Tỷ lệ tham gia lực lượng lao động | 71,0% | Tháng 8 năm 2026 | DOSM |
+| Tỷ lệ thất nghiệp | 2,9% | Tháng 9 năm 2026 | DOSM |
+| Số người thất nghiệp | 513.200 | Tháng 9 năm 2026 | DOSM |
+| Lực lượng lao động | 17,40 triệu | Tháng 9 năm 2026 | DOSM |
+| Số người có việc làm | 16,89 triệu | Tháng 9 năm 2026 | DOSM |
+| Tỷ lệ tham gia lực lượng lao động | 71,0% | Tháng 9 năm 2026 | DOSM |
 
-*Công bố ngày 9 tháng 10 năm 2026. Số liệu lực lượng lao động trễ hơn giá cả — con số công bố vào tháng 10 mô tả tháng 8.*
+*Công bố ngày 11 tháng 11 năm 2026. Số liệu lực lượng lao động trễ hơn giá cả — con số công bố vào tháng 11 mô tả tháng 9.*
 
 ## «Thất nghiệp» thực sự có nghĩa gì ở đây
 
@@ -87,9 +95,9 @@ Không đạt bất kỳ điều nào trong ba điều đó và bạn rời kh�
 
 ## Tỷ lệ tham gia là nửa còn lại của câu chuyện
 
-Trong tháng 8 năm 2026, tỷ lệ tham gia là 71,0%. Phép số học quan trọng:
+Trong tháng 9 năm 2026, tỷ lệ tham gia là 71,0%. Phép số học quan trọng:
 
-- **Lực lượng lao động** = có việc làm + thất nghiệp = 17,39 triệu
+- **Lực lượng lao động** = có việc làm + thất nghiệp = 17,40 triệu
 - **Tỷ lệ tham gia** = lực lượng lao động ÷ dân số trong độ tuổi lao động = 71,0%
 
 Vậy khoảng **29% người Malaysia trong độ tuổi lao động nằm hoàn toàn ngoài lực lượng lao động** — học sinh sinh viên, người nội trợ, người chăm sóc, người đã nghỉ hưu, người bệnh dài hạn, và những người tìm việc nản lòng. Không ai trong số họ xuất hiện trong con số 2,9%.
@@ -124,4 +132,4 @@ Tỷ lệ thất nghiệp của Malaysia đã ở mức thấp theo tiêu chuẩ
 
 - Đọc cùng với giá cả: [Tỷ lệ lạm phát của Malaysia](/vi/economy/inflation-cpi)
 - Và sản lượng: [Tổng quan GDP Malaysia](/vi/economy/gdp-overview)
-- Nguồn sơ cấp: [DOSM Labour Force Statistics](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)
+- Nguồn sơ cấp: [DOSM Labour Force Statistics](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026)

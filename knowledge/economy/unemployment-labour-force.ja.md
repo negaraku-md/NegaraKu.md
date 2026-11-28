@@ -10,10 +10,10 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "マレーシアの失業率は2026年8月時点で2.9%であり、1,739万人の労働力のうち511,600人が失業し、1,687万人が雇用されていた（マレーシア統計局（DOSM）、2026年10月9日発表）。労働力率（LFPR）は71.0%であった。この失業率は、無職であり、就労可能であり、かつ積極的に求職している人のみを計上するものであり——これが、適齢労働人口のおよそ10人に3人が労働力から完全に外れている状態でも、失業率が低く保たれ得る理由である。"
+answer: "マレーシアの失業率は2026年9月も2.9%を維持し、1,740万人の労働力のうち513,200人が失業し、1,689万人が雇用されていた（マレーシア統計局（DOSM）、2026年11月11日発表）。労働力率（LFPR）は71.0%であった。この失業率は、無職であり、就労可能であり、かつ積極的に求職している人のみを計上するものであり——これが、適齢労働人口のおよそ10人に3人が労働力から完全に外れている状態でも、失業率が低く保たれ得る理由である。"
 keyTakeaways:
-  - "2026年8月の失業率は2.9%——1,739万人の労働力のうち511,600人が失業"
-  - "1,687万人が雇用されており、労働力率は71.0%であった"
+  - "2026年9月の失業率は2.9%を維持——1,740万人の労働力のうち513,200人が失業"
+  - "1,689万人が雇用されており、労働力率は71.0%であった"
   - "失業者として計上されるには、無職であり、就労可能であり、かつ積極的に求職していなければならない"
   - "適齢労働人口のおよそ29%は労働力の外にあり、統計にまったく計上されていない"
   - "マレーシア統計局（DOSM）は労働力統計を毎月公表しており、対象月からおよそ6週間後に発表される"
@@ -22,27 +22,35 @@ appliesTo: "マレーシアの労働市場データを読み解くすべての�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e6a8d065e2c62d32"
+sourceContentHash: "f8242986984f8f48"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM August 2026 labour-force figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM September 2026 labour-force figures (unemployment held at 2.9%, 513,200 unemployed; labour force 17.40 million, 16.89 million employed; participation rate 71.0%; released 11 November 2026). Also fixed a stale 'released 10 July 2026 / describes May' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "労働力統計、2026年8月 (Labour Force Statistics, August 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
+  - title: "労働力統計、2026年9月 (Labour Force Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026"
     publisher: "マレーシア統計局 (DOSM)"
-    date: "2026-10-09"
+    date: "2026-11-11"
   - title: "労働力調査報告、2026年第1四半期 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "マレーシア統計局 (DOSM)"
@@ -63,14 +71,14 @@ framework: data-reference
 
 | 指標 | 数値 | 期間 | 出典 |
 | --- | --- | --- | --- |
-| 失業率 | 2.9% | 2026年8月 | DOSM |
-| 失業者数 | 511,600 | 2026年8月 | DOSM |
-| 労働力 | 1,739万人 | 2026年8月 | DOSM |
-| 就業者数 | 1,687万人 | 2026年8月 | DOSM |
-| 労働力率（LFPR） | 71.0% | 2026年8月 | DOSM |
+| 失業率 | 2.9% | 2026年9月 | DOSM |
+| 失業者数 | 513,200 | 2026年9月 | DOSM |
+| 労働力 | 1,740万人 | 2026年9月 | DOSM |
+| 就業者数 | 1,689万人 | 2026年9月 | DOSM |
+| 労働力率（LFPR） | 71.0% | 2026年9月 | DOSM |
 
-*2026年10月9日発表。労働力統計は物価統計よりもさらに遅れて公表される——
-10月に発表された数字は8月分を表す。*
+*2026年11月11日発表。労働力統計は物価統計よりもさらに遅れて公表される——
+11月に発表された数字は9月分を表す。*
 
 ## 「失業」がここで実際に意味するもの
 
@@ -93,10 +101,10 @@ DOSMによって失業者として計上されるには、ある人が次の3つ
 
 ## 労働力率はこの話のもう半分を占める
 
-2026年8月の労働力率は71.0%であった。ここで重要な計算式は次のとおり
+2026年9月の労働力率は71.0%であった。ここで重要な計算式は次のとおり
 である。
 
-- **労働力** = 就業者数 + 失業者数 = 1,739万人
+- **労働力** = 就業者数 + 失業者数 = 1,740万人
 - **労働力率** = 労働力 ÷ 適齢労働人口 = 71.0%
 
 つまり、**マレーシアの適齢労働人口のおよそ29%が労働力に完全に含ま
@@ -151,4 +159,4 @@ DOSMによって失業者として計上されるには、ある人が次の3つ
 - 物価と合わせて読む：[マレーシアのインフレ率](/ja/economy/inflation-cpi)
 - そして産出：[マレーシアGDP概観](/ja/economy/gdp-overview)
 - 一次情報源：
-  [DOSM労働力統計](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)
+  [DOSM労働力統計](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026)

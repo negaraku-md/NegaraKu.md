@@ -10,17 +10,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "말레이시아의 실업률은 2026년 8월 2.9%였으며, 노동력 1,739만 명 중 511,600명이 실업 상태였고 1,687만 명이 취업 상태였습니다(DOSM, 2026년 10월 9일 발표). 경제활동참가율은 71.0%였습니다. 이 실업률은 일자리가 없고, 일할 수 있으며, 적극적으로 구직 중인 사람만을 집계합니다. 그래서 근로연령 말레이시아 국민의 약 10명 중 3명이 노동력에 아예 속하지 않은 상태에서도 실업률이 낮게 유지될 수 있는 것입니다."
+answer: "말레이시아의 실업률은 2026년 9월에도 2.9%로 유지되었으며, 노동력 1,740만 명 중 513,200명이 실업 상태였고 1,689만 명이 취업 상태였습니다(DOSM, 2026년 11월 11일 발표). 경제활동참가율은 71.0%였습니다. 이 실업률은 일자리가 없고, 일할 수 있으며, 적극적으로 구직 중인 사람만을 집계합니다. 그래서 근로연령 말레이시아 국민의 약 10명 중 3명이 노동력에 아예 속하지 않은 상태에서도 실업률이 낮게 유지될 수 있는 것입니다."
 keyTakeaways:
-  - "실업률은 2026년 8월 2.9%였습니다 — 노동력 1,739만 명 중 511,600명"
-  - "1,687만 명이 취업 상태였으며, 경제활동참가율은 71.0%였습니다"
+  - "실업률은 2026년 9월에도 2.9%로 유지되었습니다 — 노동력 1,740만 명 중 513,200명"
+  - "1,689만 명이 취업 상태였으며, 경제활동참가율은 71.0%였습니다"
   - "실업자로 집계되려면 일자리가 없고, 일할 수 있으며, 그리고 적극적으로 구직 중이어야 합니다"
   - "근로연령 인구의 약 29%는 노동력 밖에 있으며 전혀 집계되지 않습니다"
   - "DOSM은 기준 월 이후 약 6주 후에 노동력 통계를 매월 발표합니다"
 appliesTo: "말레이시아 노동시장 데이터를 해석하는 모든 사람 — 구직자, 고용주, 정책 입안자, 분석가."
 
 lang: "ko"
-sourceContentHash: "e6a8d065e2c62d32"
+sourceContentHash: "f8242986984f8f48"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,20 +30,28 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM August 2026 labour-force figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM September 2026 labour-force figures (unemployment held at 2.9%, 513,200 unemployed; labour force 17.40 million, 16.89 million employed; participation rate 71.0%; released 11 November 2026). Also fixed a stale 'released 10 July 2026 / describes May' note."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "노동력 통계, 2026년 8월 (Labour Force Statistics, August 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
+  - title: "노동력 통계, 2026년 9월 (Labour Force Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026"
     publisher: "말레이시아 통계청 (DOSM)"
-    date: "2026-10-09"
+    date: "2026-11-11"
   - title: "노동력 조사 보고서, 2026년 1분기 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "말레이시아 통계청 (DOSM)"
@@ -64,14 +72,14 @@ framework: data-reference
 
 | 지표 | 값 | 기간 | 출처 |
 | --- | --- | --- | --- |
-| 실업률 | 2.9% | 2026년 8월 | DOSM |
-| 실업자 수 | 511,600명 | 2026년 8월 | DOSM |
-| 노동력 | 1,739만 명 | 2026년 8월 | DOSM |
-| 취업자 수 | 1,687만 명 | 2026년 8월 | DOSM |
-| 경제활동참가율 | 71.0% | 2026년 8월 | DOSM |
+| 실업률 | 2.9% | 2026년 9월 | DOSM |
+| 실업자 수 | 513,200명 | 2026년 9월 | DOSM |
+| 노동력 | 1,740만 명 | 2026년 9월 | DOSM |
+| 취업자 수 | 1,689만 명 | 2026년 9월 | DOSM |
+| 경제활동참가율 | 71.0% | 2026년 9월 | DOSM |
 
-*2026년 10월 9일 발표. 노동력 통계는 물가보다 시차가 더 큽니다. 10월에 발표된 수치는
-8월을 설명합니다.*
+*2026년 11월 11일 발표. 노동력 통계는 물가보다 시차가 더 큽니다. 11월에 발표된 수치는
+9월을 설명합니다.*
 
 ## 여기서 「실업 상태」가 실제로 의미하는 것
 
@@ -90,9 +98,9 @@ DOSM이 실업자로 집계하려면, 한 사람이 세 가지 조건을 동시�
 
 ## 경제활동참가율은 이야기의 나머지 절반이다
 
-2026년 8월 경제활동참가율은 71.0%였습니다. 중요한 산술은 다음과 같습니다.
+2026년 9월 경제활동참가율은 71.0%였습니다. 중요한 산술은 다음과 같습니다.
 
-- **노동력** = 취업자 + 실업자 = 1,739만 명
+- **노동력** = 취업자 + 실업자 = 1,740만 명
 - **경제활동참가율** = 노동력 ÷ 근로연령 인구 = 71.0%
 
 따라서 **근로연령 말레이시아 국민의 약 29%는 노동력 밖에** 있습니다. 학생, 전업 주부,
@@ -140,4 +148,4 @@ DOSM이 실업자로 집계하려면, 한 사람이 세 가지 조건을 동시�
 - 물가와 함께 읽기: [말레이시아의 인플레이션율](/ko/economy/inflation-cpi)
 - 그리고 산출: [말레이시아 GDP 개요](/ko/economy/gdp-overview)
 - 1차 출처:
-  [DOSM 노동력 통계](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)
+  [DOSM 노동력 통계](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-sep2026)
