@@ -13,6 +13,7 @@ sensitivity: "none"
 answer: "マレーシアの法定最低賃金は月額RM1,700（時給RM8.72）で、2024年最低賃金令（Minimum Wages Order 2024、P.U.(A) 376）に基づき2025年8月1日から全国で完全施行されている。マレーシア統計局（DOSM）の『2024年給与・賃金調査報告書（Salaries & Wages Survey Report 2024）』によると、マレーシア国民の2024年における月額賃金・給与中央値はRM2,793（平均RM3,652）であった。DOSMの『2024年世帯所得調査報告書（Household Income Survey Report 2024）』によると、2024年の月額世帯所得中央値はRM7,017（平均RM9,155）であった——これは世帯単位の数字であり、平均1.8人の収入獲得者を合算しているため、個人賃金と直接比較することはできない。"
 keyTakeaways:
   - "最低賃金：月額RM1,700、時給RM8.72——2024年12月4日に官報告示、2025年8月1日より全国施行"
+  - "Budget 2027（2026年10月9日発表）：最低賃金の下限は2027年6月より月額RM2,000へ引き上げ（年商RM50百万未満の企業は当初除外）——新たな最低賃金令の施行待ち；RM1,700は引き続き有効"
   - "個人賃金・給与中央値（2024年）：月額RM2,793；平均値RM3,652——DOSM『2024年給与・賃金調査報告書』"
   - "世帯所得中央値（2024年）：月額RM7,017；平均値RM9,155——DOSM『2024年世帯所得調査報告書』"
   - "世帯所得は個人賃金と同じ指標ではない——1世帯平均1.8人の収入獲得者がいる"
@@ -22,21 +23,25 @@ appliesTo: "マレーシアの給与を基準に予算を立てる人、給与�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "国家賃金諮問評議会事務局（Minimum Wages Order 2024ポータル）(Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -53,6 +58,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "マレーシア統計局 (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027（Budget 2027 予算案ポータル——演説全文、2027年6月からのRM2,000最低賃金を発表）"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "財務省 (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -111,6 +120,13 @@ framework: data-reference
 規則は
 [最低賃金と賃金支払いに関する規則](/ja/employment/minimum-wage-malaysia)を
 参照。
+
+**2027年6月からの実施を発表。** 2027年度予算案（Budget 2027、2026年10月9日
+提出）は、最低賃金の下限をRM1,700から**2027年6月より月額RM2,000**へ引き上げ
+ると発表した。年商が**RM50百万**未満の雇用主は当初除外され、さらに準熟練労働
+者および大卒者向けに別途**月額RM2,500**の下限が設けられる。これは新たな最低
+賃金令の施行を待つ発表であり、現在施行中のRM1,700の賃金率を変更するものでは
+なく、本ページのDOSMのすべての数字は引き続き2024年の参照年を指している。
 
 RM1,700という水準は、2024年の個人賃金中央値RM2,793の約61%に相当する——これ
 は偶然のギャップではない。中央値は、最低賃金がそもそも追随することを意図し

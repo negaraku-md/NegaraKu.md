@@ -13,6 +13,7 @@ sensitivity: "none"
 answer: "马来西亚的法定最低薪金为每月 RM1,700（每小时 RM8.72），依 Minimum Wages Order 2024（P.U.(A) 376）自 2025 年 8 月 1 日起在全国全面生效。根据 DOSM《2024年薪金与工资调查报告》，马来西亚公民 2024 年的每月薪金与工资中位数为 RM2,793（平均数 RM3,652）。根据 DOSM《2024年家庭收入调查报告》，2024 年的每月家庭收入中位数为 RM7,017（平均数 RM9,155）——这是一个家庭层面的数字，平均汇集 1.8 名收入领取者，因此不能与个人薪金直接比较。"
 keyTakeaways:
   - "最低薪金：每月 RM1,700、每小时 RM8.72——于 2024 年 12 月 4 日经宪报颁布，自 2025 年 8 月 1 日起全国实施"
+  - "2027 年财政预算案（Belanjawan 2027，2026 年 10 月 9 日）宣布：最低薪金下限自 2027 年 6 月起上调至每月 RM2,000（年销售额低于 RM50 million 的企业初期获豁免）——尚待新法令颁布；RM1,700 目前仍然有效"
   - "个人薪金与工资中位数（2024 年）：每月 RM2,793；平均数 RM3,652——DOSM《2024年薪金与工资调查报告》"
   - "家庭收入中位数（2024 年）：每月 RM7,017；平均数 RM9,155——DOSM《2024年家庭收入调查报告》"
   - "家庭收入与个人薪金并非同一种衡量方式——一个家庭平均有 1.8 名收入领取者"
@@ -22,7 +23,7 @@ appliesTo: "任何以马来西亚薪金为基础做预算、比较薪酬水平�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 
 status: "published"
 aiAssisted: true
@@ -30,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "国家薪金咨询理事会秘书处（Minimum Wages Order 2024 门户）(Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -54,6 +59,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "马来西亚统计局 (DOSM)"
     date: "2025-09-29"
+  - title: "2027 年财政预算案（Belanjawan 2027 门户——演词全文，宣布自 2027 年 6 月起实施 RM2,000 最低薪金）(Belanjawan 2027 (Budget 2027 Portal))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "马来西亚财政部 (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -106,6 +115,13 @@ Act 2011 于 2024 年 12 月 4 日经宪报颁布，订定：
 的雇主，并自 2025 年 8 月 1 日起适用于其余所有雇主——小雇主的延后期自此已
 结束。有关适用范围、扣除与支付时间的完整规则，见
 [最低薪金与支付薪金的规则](/zh/employment/minimum-wage-malaysia)。
+
+**宣布自 2027 年 6 月起实施。** 2027 年财政预算案（于 2026 年 10 月 9 日提呈）
+宣布，最低薪金下限将从 RM1,700 上调至**自 2027 年 6 月起每月 RM2,000**，其中
+年销售额低于 **RM50 million** 的雇主初期获得豁免，另对半技术工人与大学毕业生
+设定每月 **RM2,500** 的另一道下限。这是一项尚待新的 Minimum Wages Order 颁布
+的宣布——它并未改变目前生效的 RM1,700 水平，本页上的每一项 DOSM 数字也仍然
+以其 2024 年参考年份为准。
 
 以 RM1,700 计，最低薪金约为 2024 年个人薪金中位数 RM2,793 的 61%——这是一个
 差距，而非巧合，因为中位数被从未打算让最低薪金追平的中期职涯与技术性薪金

@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "Malaysia's statutory minimum wage is RM1,700 a month (RM8.72 an hour), fully in force nationwide since 1 August 2025 under the Minimum Wages Order 2024, P.U.(A) 376. The median monthly salary & wages for Malaysian citizens was RM2,793 in 2024 (mean RM3,652), per DOSM's Salaries & Wages Survey Report 2024. The median monthly household income was RM7,017 in 2024 (mean RM9,155), per DOSM's Household Income Survey Report 2024 — a household figure, pooling on average 1.8 income earners, so it is not directly comparable to an individual salary."
 keyTakeaways:
   - "Minimum wage: RM1,700/month, RM8.72/hour — gazetted 4 December 2024, nationwide from 1 August 2025"
+  - "Announced in Budget 2027 (9 Oct 2026): the floor rises to RM2,000/month from June 2027 (firms under RM50m sales exempted initially) — pending a new Order; RM1,700 remains in force"
   - "Median individual salary & wages (2024): RM2,793/month; mean RM3,652 — DOSM Salaries & Wages Survey Report 2024"
   - "Median household income (2024): RM7,017/month; mean RM9,155 — DOSM Household Income Survey Report 2024"
   - "Household income is not the same measure as individual salary — a household averages 1.8 income earners"
@@ -30,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal)"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -54,6 +59,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "Department of Statistics Malaysia (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -113,6 +122,14 @@ employers with five or more employees, and to every remaining employer from
 1 August 2025 — the small-employer deferment has since ended. Full rules on
 scope, deductions and payment timing are covered in
 [Minimum Wage and the Rules on Paying Wages](/en/employment/minimum-wage-malaysia).
+
+**Announced for June 2027.** Budget 2027 (tabled 9 October 2026) announced that
+the floor will rise from RM1,700 to **RM2,000 a month from June 2027**, with
+employers whose annual sales are below **RM50 million** exempted initially, plus a
+separate **RM2,500** monthly floor for semi-skilled workers and graduates. This is
+an announcement pending a new Minimum Wages Order — it does not change the RM1,700
+rate in force now, and every DOSM figure on this page still refers to its 2024
+reference year.
 
 At RM1,700, the minimum wage sits at roughly 61% of the 2024 median individual
 salary of RM2,793 — a gap, not a coincidence, since the median is pulled up by

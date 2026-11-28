@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "Le salaire minimum légal de la Malaisie est de RM1,700 par mois (RM8.72 de l'heure), pleinement en vigueur dans tout le pays depuis le 1er août 2025 en vertu de l'Ordonnance sur le salaire minimum 2024, P.U.(A) 376. Le salaire mensuel médian des citoyens malaisiens était de RM2,793 en 2024 (moyenne RM3,652), selon le Rapport de l'Enquête sur les salaires et traitements 2024 du DOSM. Le revenu mensuel médian des ménages était de RM7,017 en 2024 (moyenne RM9,155), selon le Rapport de l'Enquête sur le revenu des ménages 2024 du DOSM — un chiffre par ménage, regroupant en moyenne 1.8 apporteur de revenu, qui n'est donc pas directement comparable à un salaire individuel."
 keyTakeaways:
   - "Salaire minimum : RM1,700/mois, RM8.72/heure — publié au journal officiel le 4 décembre 2024, dans tout le pays depuis le 1er août 2025"
+  - "Annoncé dans le Budget 2027 (9 oct. 2026) : le plancher passe à RM2,000/mois à partir de juin 2027 (entreprises dont les ventes sont inférieures à RM50m exemptées dans un premier temps) — en attente d'une nouvelle Ordonnance ; RM1,700 reste en vigueur"
   - "Salaire individuel médian (2024) : RM2,793/mois ; moyenne RM3,652 — Rapport de l'Enquête sur les salaires et traitements 2024 du DOSM"
   - "Revenu médian des ménages (2024) : RM7,017/mois ; moyenne RM9,155 — Rapport de l'Enquête sur le revenu des ménages 2024 du DOSM"
   - "Le revenu des ménages n'est pas la même mesure que le salaire individuel — un ménage compte en moyenne 1.8 apporteur de revenu"
@@ -21,7 +22,7 @@ keyTakeaways:
 appliesTo: "Quiconque établit un budget par rapport à un salaire malaisien, compare des rémunérations ou cherche à situer un chiffre de revenu précis dans le contexte national."
 
 lang: "fr"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +32,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "Secrétariat du Conseil consultatif national des salaires (portail de l'Ordonnance sur le salaire minimum 2024) (Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -55,6 +60,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "Département de la statistique de Malaisie (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (portail du Budget 2027 — texte du discours, annonçant le salaire minimum de RM2,000 à partir de juin 2027)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Ministère des Finances de Malaisie (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -118,6 +127,15 @@ employeur restant à partir du 1er août 2025 — le report accordé aux petits
 employeurs a depuis pris fin. Les règles complètes sur le champ d'application,
 les déductions et les délais de paiement sont traitées dans
 [Le salaire minimum et les règles de versement des salaires](/fr/employment/minimum-wage-malaysia).
+
+**Annoncé pour juin 2027.** Le Budget 2027 (présenté le 9 octobre 2026) a annoncé
+que le plancher passera de RM1,700 à **RM2,000 par mois à partir de juin 2027**,
+les employeurs dont les ventes annuelles sont inférieures à **RM50 millions** étant
+exemptés dans un premier temps, ainsi qu'un plancher mensuel distinct de
+**RM2,500** pour les travailleurs semi-qualifiés et les diplômés. Il s'agit d'une
+annonce en attente d'une nouvelle Ordonnance sur le salaire minimum — elle ne
+modifie pas le taux de RM1,700 en vigueur actuellement, et chaque chiffre du DOSM
+sur cette page se rapporte toujours à son année de référence 2024.
 
 À RM1,700, le salaire minimum se situe à environ 61% du salaire individuel médian
 de 2024 de RM2,793 — un écart, non une coïncidence, puisque la médiane est tirée

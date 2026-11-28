@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "Gaji minimum menurut undang-undang Malaysia adalah RM1,700 per bulan (RM8.72 per jam), berlaku penuh di seluruh negara sejak 1 Agustus 2025 di bawah Perintah Gaji Minimum 2024, P.U.(A) 376. Gaji dan upah bulanan median bagi warga negara Malaysia adalah RM2,793 pada 2024 (rata-rata RM3,652), menurut Salaries & Wages Survey Report 2024 DOSM. Pendapatan rumah tangga bulanan median adalah RM7,017 pada 2024 (rata-rata RM9,155), menurut Household Income Survey Report 2024 DOSM — satu angka rumah tangga, yang menghimpun rata-rata 1.8 orang penerima pendapatan, sehingga tidak dapat dibandingkan langsung dengan gaji individu."
 keyTakeaways:
   - "Gaji minimum: RM1,700/bulan, RM8.72/jam — diundangkan 4 Desember 2024, di seluruh negara mulai 1 Agustus 2025"
+  - "Diumumkan dalam Belanjawan 2027 (9 Okt 2026): batas bawah naik menjadi RM2,000/bulan mulai Juni 2027 (perusahaan dengan penjualan di bawah RM50 juta dikecualikan pada awalnya) — menunggu Perintah baru; RM1,700 tetap berlaku"
   - "Gaji dan upah individu median (2024): RM2,793/bulan; rata-rata RM3,652 — Salaries & Wages Survey Report 2024 DOSM"
   - "Pendapatan rumah tangga median (2024): RM7,017/bulan; rata-rata RM9,155 — Household Income Survey Report 2024 DOSM"
   - "Pendapatan rumah tangga bukan ukuran yang sama dengan gaji individu — sebuah rumah tangga rata-rata memiliki 1.8 orang penerima pendapatan"
@@ -21,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang menyusun anggaran berdasarkan gaji Malaysia, membandingkan tingkat gaji, atau mencoba menempatkan suatu angka pendapatan dalam konteks nasional."
 
 lang: "id"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +32,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal)"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -55,6 +60,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "Departemen Statistik Malaysia (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (Portal Budget 2027 — Teks Pidato, mengumumkan gaji minimum RM2,000 mulai Juni 2027)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Kementerian Keuangan Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -118,6 +127,15 @@ bagi setiap pemberi kerja lainnya mulai 1 Agustus 2025 — penundaan untuk
 pemberi kerja kecil telah berakhir sejak itu. Aturan lengkap mengenai cakupan,
 potongan, dan waktu pembayaran diuraikan dalam
 [Gaji Minimum dan Aturan Pembayaran Gaji](/id/employment/minimum-wage-malaysia).
+
+**Diumumkan untuk Juni 2027.** Belanjawan 2027 (dibentangkan 9 Oktober 2026)
+mengumumkan bahwa batas bawah akan naik dari RM1,700 menjadi **RM2,000 per bulan
+mulai Juni 2027**, dengan pemberi kerja yang penjualan tahunannya di bawah
+**RM50 juta** dikecualikan pada awalnya, ditambah batas bawah bulanan **RM2,500**
+tersendiri untuk pekerja semi-terampil dan lulusan. Ini adalah pengumuman yang
+menunggu Perintah Gaji Minimum baru — ia tidak mengubah tarif RM1,700 yang
+berlaku saat ini, dan setiap angka DOSM pada halaman ini masih merujuk pada tahun
+rujukan 2024-nya.
 
 Pada RM1,700, gaji minimum berada pada sekitar 61% dari gaji individu
 median 2024 sebesar RM2,793 — sebuah kesenjangan, bukan kebetulan, karena median

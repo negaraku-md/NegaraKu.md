@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "Gaji minimum berkanun Malaysia ialah RM1,700 sebulan (RM8.72 sejam), berkuat kuasa sepenuhnya di seluruh negara sejak 1 Ogos 2025 di bawah Perintah Gaji Minimum 2024, P.U.(A) 376. Gaji dan upah bulanan median bagi warganegara Malaysia ialah RM2,793 pada 2024 (purata RM3,652), mengikut Salaries & Wages Survey Report 2024 DOSM. Pendapatan isi rumah bulanan median ialah RM7,017 pada 2024 (purata RM9,155), mengikut Household Income Survey Report 2024 DOSM — satu angka isi rumah, yang menghimpun secara purata 1.8 orang penerima pendapatan, jadi ia tidak boleh dibandingkan terus dengan gaji individu."
 keyTakeaways:
   - "Gaji minimum: RM1,700/bulan, RM8.72/jam — digazetkan 4 Disember 2024, di seluruh negara mulai 1 Ogos 2025"
+  - "Diumumkan dalam Belanjawan 2027 (9 Okt 2026): lantai naik ke RM2,000/bulan mulai Jun 2027 (firma dengan jualan bawah RM50j dikecualikan pada awalnya) — menunggu Perintah baharu; RM1,700 kekal berkuat kuasa"
   - "Gaji dan upah individu median (2024): RM2,793/bulan; purata RM3,652 — Salaries & Wages Survey Report 2024 DOSM"
   - "Pendapatan isi rumah median (2024): RM7,017/bulan; purata RM9,155 — Household Income Survey Report 2024 DOSM"
   - "Pendapatan isi rumah bukan ukuran yang sama dengan gaji individu — sesebuah isi rumah purata mempunyai 1.8 orang penerima pendapatan"
@@ -23,7 +24,7 @@ appliesTo: "Sesiapa yang membuat belanjawan berdasarkan gaji Malaysia, membandin
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 
 status: "published"
 aiAssisted: true
@@ -31,14 +32,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal)"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -55,6 +60,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (Portal Belanjawan 2027 — Teks Ucapan, mengumumkan gaji minimum RM2,000 mulai Jun 2027)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -118,6 +127,15 @@ kepada setiap majikan lain yang selebihnya mulai 1 Ogos 2025 — penangguhan
 untuk majikan kecil telah tamat sejak itu. Peraturan lengkap mengenai skop,
 potongan dan masa pembayaran dihuraikan dalam
 [Gaji Minimum dan Peraturan Membayar Gaji](/employment/minimum-wage-malaysia).
+
+**Diumumkan untuk Jun 2027.** Belanjawan 2027 (dibentangkan 9 Oktober 2026)
+mengumumkan bahawa lantai akan naik daripada RM1,700 kepada **RM2,000 sebulan
+mulai Jun 2027**, dengan majikan yang jualan tahunannya di bawah **RM50 juta**
+dikecualikan pada awalnya, serta satu lantai bulanan **RM2,500** yang berasingan
+bagi pekerja separuh mahir dan graduan. Ini ialah pengumuman yang menunggu
+Perintah Gaji Minimum baharu — ia tidak mengubah kadar RM1,700 yang berkuat
+kuasa sekarang, dan setiap angka DOSM pada halaman ini masih merujuk tahun
+rujukan 2024-nya.
 
 Pada RM1,700, gaji minimum berada pada lebih kurang 61% daripada gaji individu
 median 2024 sebanyak RM2,793 — satu jurang, bukan kebetulan, kerana median

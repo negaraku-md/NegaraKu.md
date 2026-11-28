@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "மலேசியாவின் சட்டப்பூர்வ குறைந்தபட்ச ஊதியம் மாதம் RM1,700 (மணிக்கு RM8.72), Minimum Wages Order 2024, P.U.(A) 376 இன் கீழ் 1 ஆகஸ்ட் 2025 முதல் நாடு முழுவதும் முழுமையாக அமலில் உள்ளது. மலேசியக் குடிமக்களுக்கான மாதாந்திர இடைநிலை சம்பளம் மற்றும் ஊதியம் 2024ல் RM2,793 ஆக இருந்தது (சராசரி RM3,652), DOSM இன் Salaries & Wages Survey Report 2024 படி. மாதாந்திர இடைநிலை வீட்டு வருமானம் 2024ல் RM7,017 ஆக இருந்தது (சராசரி RM9,155), DOSM இன் Household Income Survey Report 2024 படி — இது ஒரு வீட்டு வருமான எண், சராசரியாக 1.8 வருமானம் ஈட்டுவோரை ஒன்றிணைப்பதால், இதை தனிநபர் சம்பளத்துடன் நேரடியாக ஒப்பிட முடியாது."
 keyTakeaways:
   - "குறைந்தபட்ச ஊதியம்: மாதம் RM1,700, மணிக்கு RM8.72 — 4 டிசம்பர் 2024ல் வர்த்தமானியில் வெளியிடப்பட்டது, 1 ஆகஸ்ட் 2025 முதல் நாடு முழுவதும்"
+  - "Belanjawan 2027ல் அறிவிக்கப்பட்டது (9 அக்டோபர் 2026): தளம் ஜூன் 2027 முதல் மாதம் RM2,000 ஆக உயரும் (RM50 மில்லியனுக்குக் கீழ் விற்பனையுள்ள நிறுவனங்கள் ஆரம்பத்தில் விலக்கு) — ஒரு புதிய ஆணை நிலுவையில்; RM1,700 அமலில் தொடர்கிறது"
   - "இடைநிலை தனிநபர் சம்பளம் மற்றும் ஊதியம் (2024): மாதம் RM2,793; சராசரி RM3,652 — DOSM Salaries & Wages Survey Report 2024"
   - "இடைநிலை வீட்டு வருமானம் (2024): மாதம் RM7,017; சராசரி RM9,155 — DOSM Household Income Survey Report 2024"
   - "வீட்டு வருமானம் தனிநபர் சம்பளத்தின் அதே அளவீடு அல்ல — ஒரு வீட்டில் சராசரியாக 1.8 வருமானம் ஈட்டுவோர் உள்ளனர்"
@@ -21,7 +22,7 @@ keyTakeaways:
 appliesTo: "மலேசிய சம்பளத்தை அடிப்படையாகக் கொண்டு பட்ஜெட் தயாரிப்பவர், ஊதியத்தை ஒப்பிடுபவர், அல்லது ஒரு குறிப்பிட்ட வருமான எண்ணை தேசியச் சூழலில் வைக்க முயற்சிப்பவர் அனைவருக்கும்."
 
 lang: "ta"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +32,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "தேசிய ஊதிய ஆலோசனை மன்றச் செயலகம் (Minimum Wages Order 2024 வலைத்தளம்) (Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -55,6 +60,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "மலேசியா புள்ளிவிவரத் திணைக்களம் (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (பட்ஜெட் 2027 போர்ட்டல் — உரை வாசகம், ஜூன் 2027 முதல் RM2,000 குறைந்தபட்ச ஊதியத்தை அறிவிக்கிறது) (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "மலேசிய நிதி அமைச்சு (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -120,6 +129,15 @@ Minimum Wages Order 2024 (P.U.(A) 376) National Wages Consultative Council Act
 மற்றும் கட்டண நேரம் குறித்த முழு விதிகள்
 [குறைந்தபட்ச ஊதியமும் ஊதியம் வழங்குவதற்கான விதிகளும்](/ta/employment/minimum-wage-malaysia)
 இல் விவரிக்கப்பட்டுள்ளன.
+
+**ஜூன் 2027க்கு அறிவிக்கப்பட்டது.** Belanjawan 2027 (9 அக்டோபர் 2026ல் தாக்கல்
+செய்யப்பட்டது) தளம் RM1,700லிருந்து **ஜூன் 2027 முதல் மாதம் RM2,000** ஆக உயரும்
+என்று அறிவித்தது, ஆண்டு விற்பனை **RM50 மில்லியனுக்குக்** கீழ் உள்ள முதலாளிகள்
+ஆரம்பத்தில் விலக்கு அளிக்கப்படுகின்றனர், மேலும் அரை-திறன் பணியாளர்கள் மற்றும்
+பட்டதாரிகளுக்கு தனியாக **RM2,500** மாதாந்திர தளம். இது ஒரு புதிய Minimum Wages
+Order நிலுவையில் உள்ள அறிவிப்பு — இது இப்போது அமலில் உள்ள RM1,700 விகிதத்தை
+மாற்றவில்லை, மேலும் இந்தப் பக்கத்தில் உள்ள ஒவ்வொரு DOSM எண்ணும் இன்னும் அதன்
+2024 குறிப்பு ஆண்டையே குறிக்கிறது.
 
 RM1,700ல், குறைந்தபட்ச ஊதியம் RM2,793 என்ற 2024 இடைநிலை தனிநபர் சம்பளத்தில்
 சுமார் 61% ஆக அமைகிறது — இது ஒரு இடைவெளி, தற்செயல் அல்ல, ஏனெனில் இடைநிலை என்பது

@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "El salario mínimo legal de Malasia es de RM1,700 al mes (RM8.72 la hora), plenamente en vigor en todo el país desde el 1 de agosto de 2025 en virtud de la Orden de Salarios Mínimos 2024, P.U.(A) 376. El salario y sueldo mensual mediano de los ciudadanos malasios fue de RM2,793 en 2024 (media RM3,652), según el Informe de la Encuesta de Sueldos y Salarios 2024 del DOSM. La renta mensual mediana de los hogares fue de RM7,017 en 2024 (media RM9,155), según el Informe de la Encuesta de Renta de los Hogares 2024 del DOSM — una cifra por hogar, que agrupa en promedio 1.8 perceptores de renta, por lo que no es directamente comparable con un salario individual."
 keyTakeaways:
   - "Salario mínimo: RM1,700/mes, RM8.72/hora — publicado en la gaceta el 4 de diciembre de 2024, en todo el país desde el 1 de agosto de 2025"
+  - "Anunciado en el Belanjawan 2027 (9 de octubre de 2026): el suelo sube a RM2,000/mes desde junio de 2027 (las empresas con ventas inferiores a RM50 millones quedan exentas inicialmente) — pendiente de una nueva Orden; RM1,700 sigue en vigor"
   - "Salario y sueldo individual mediano (2024): RM2,793/mes; media RM3,652 — Informe de la Encuesta de Sueldos y Salarios 2024 del DOSM"
   - "Renta mediana de los hogares (2024): RM7,017/mes; media RM9,155 — Informe de la Encuesta de Renta de los Hogares 2024 del DOSM"
   - "La renta de los hogares no es la misma medida que el salario individual — un hogar promedia 1.8 perceptores de renta"
@@ -21,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que elabore un presupuesto frente a un salario malasio, compare remuneraciones o intente situar una cifra de renta concreta en el contexto nacional."
 
 lang: "es"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +32,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "Secretaría del Consejo Consultivo Nacional de Salarios (portal de la Orden de Salarios Mínimos 2024) (Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -55,6 +60,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "Departamento de Estadística de Malasia (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (portal del Presupuesto 2027 / Budget 2027 — texto del discurso, que anuncia el salario mínimo de RM2,000 desde junio de 2027)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Ministerio de Finanzas de Malasia (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -117,6 +126,15 @@ empleador restante desde el 1 de agosto de 2025 — el aplazamiento para los
 pequeños empleadores ya ha terminado. Las reglas completas sobre ámbito,
 deducciones y plazos de pago se tratan en
 [El salario mínimo y las reglas para pagar salarios](/en/employment/minimum-wage-malaysia).
+
+**Anunciado para junio de 2027.** El Belanjawan 2027 (Presupuesto 2027,
+presentado el 9 de octubre de 2026) anunció que el suelo subirá de RM1,700 a
+**RM2,000 al mes desde junio de 2027**, con los empleadores cuyas ventas anuales
+sean inferiores a **RM50 millones** exentos inicialmente, además de un suelo
+mensual aparte de **RM2,500** para los trabajadores semicualificados y los
+titulados. Se trata de un anuncio pendiente de una nueva Orden de Salarios
+Mínimos — no cambia la tarifa de RM1,700 en vigor ahora, y todas las cifras del
+DOSM en esta página siguen refiriéndose a su año de referencia de 2024.
 
 A RM1,700, el salario mínimo se sitúa en torno al 61% del salario individual
 mediano de 2024 de RM2,793 — una brecha, no una coincidencia, ya que la mediana

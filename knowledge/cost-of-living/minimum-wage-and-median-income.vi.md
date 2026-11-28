@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "Lương tối thiểu luật định của Malaysia là RM1,700 mỗi tháng (RM8.72 mỗi giờ), có hiệu lực đầy đủ trên toàn quốc kể từ ngày 1 tháng 8 năm 2025 theo Minimum Wages Order 2024, P.U.(A) 376. Lương & tiền công trung vị hằng tháng của công dân Malaysia là RM2,793 vào năm 2024 (bình quân RM3,652), theo Báo cáo Khảo sát Lương & Tiền công 2024 của DOSM. Thu nhập hộ gia đình trung vị hằng tháng là RM7,017 vào năm 2024 (bình quân RM9,155), theo Báo cáo Khảo sát Thu nhập Hộ gia đình 2024 của DOSM — một con số hộ gia đình, gộp trung bình 1.8 người kiếm thu nhập, nên nó không thể so sánh trực tiếp với lương cá nhân."
 keyTakeaways:
   - "Lương tối thiểu: RM1,700/tháng, RM8.72/giờ — đăng công báo ngày 4 tháng 12 năm 2024, toàn quốc từ ngày 1 tháng 8 năm 2025"
+  - "Công bố trong Belanjawan 2027 (Ngân sách 2027, ngày 9 tháng 10 năm 2026): mức sàn tăng lên RM2,000/tháng từ tháng 6 năm 2027 (các công ty có doanh thu dưới RM50 triệu được miễn ban đầu) — đang chờ một Lệnh mới; RM1,700 vẫn còn hiệu lực"
   - "Lương & tiền công cá nhân trung vị (2024): RM2,793/tháng; bình quân RM3,652 — Báo cáo Khảo sát Lương & Tiền công 2024 của DOSM"
   - "Thu nhập hộ gia đình trung vị (2024): RM7,017/tháng; bình quân RM9,155 — Báo cáo Khảo sát Thu nhập Hộ gia đình 2024 của DOSM"
   - "Thu nhập hộ gia đình không phải là cùng một thước đo với lương cá nhân — một hộ gia đình trung bình có 1.8 người kiếm thu nhập"
@@ -21,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang lập ngân sách dựa trên một mức lương Malaysia, so chuẩn tiền lương, hoặc cố gắng đặt một con số thu nhập cụ thể vào bối cảnh quốc gia."
 
 lang: "vi"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +32,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "Ban Thư ký Hội đồng Tham vấn Lương Quốc gia (cổng thông tin Minimum Wages Order 2024) (Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -55,6 +60,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "Cục Thống kê Malaysia (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (Cổng thông tin Ngân sách 2027 — Văn bản Bài phát biểu, công bố mức lương tối thiểu RM2,000 từ tháng 6 năm 2027)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -97,6 +106,8 @@ Minimum Wages Order 2024 (P.U.(A) 376) được đăng công báo vào ngày 4 t
 - RM65.38 / RM78.46 / RM98.08 mỗi ngày cho tuần làm việc sáu, năm hoặc bốn ngày tương ứng
 
 Nó áp dụng từ ngày 1 tháng 2 năm 2025 cho các nhà tuyển dụng chuyên nghiệp được phân loại theo MASCO và các nhà tuyển dụng có từ năm nhân viên trở lên, và cho mọi nhà tuyển dụng còn lại từ ngày 1 tháng 8 năm 2025 — việc hoãn cho nhà tuyển dụng nhỏ từ đó đã kết thúc. Các quy tắc đầy đủ về phạm vi, khấu trừ và thời điểm thanh toán được đề cập trong [Lương tối thiểu và các quy tắc về việc trả lương](/vi/employment/minimum-wage-malaysia).
+
+**Công bố cho tháng 6 năm 2027.** Belanjawan 2027 (Ngân sách 2027, trình bày ngày 9 tháng 10 năm 2026) đã công bố rằng mức sàn sẽ tăng từ RM1,700 lên **RM2,000 mỗi tháng từ tháng 6 năm 2027**, với các nhà tuyển dụng có doanh thu hằng năm dưới **RM50 triệu** được miễn ban đầu, cùng một mức sàn **RM2,500** hằng tháng riêng cho người lao động bán lành nghề và người tốt nghiệp. Đây là một thông báo đang chờ một Minimum Wages Order mới — nó không thay đổi mức RM1,700 đang có hiệu lực hiện nay, và mọi con số của DOSM trên trang này vẫn tham chiếu đến năm tham chiếu 2024 của chúng.
 
 Ở mức RM1,700, lương tối thiểu nằm ở khoảng 61% của mức lương cá nhân trung vị năm 2024 là RM2,793 — một khoảng cách, không phải sự trùng hợp, vì trung vị bị kéo lên bởi các mức lương giữa sự nghiệp và có tay nghề mà mức sàn chưa bao giờ nhằm theo dõi.
 

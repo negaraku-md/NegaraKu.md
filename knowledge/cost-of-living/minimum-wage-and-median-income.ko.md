@@ -13,6 +13,7 @@ sensitivity: "none"
 answer: "말레이시아의 법정 최저임금은 월 RM1,700(시간당 RM8.72)으로, 최저임금령 2024(Minimum Wages Order 2024, P.U.(A) 376)에 따라 2025년 8월 1일부터 전국에 완전히 시행되었습니다. 말레이시아 시민의 월 중위 급여 및 임금은 2024년 RM2,793(평균 RM3,652)이었습니다(DOSM 급여 및 임금 조사 보고서 2024). 월 중위 가계 소득은 2024년 RM7,017(평균 RM9,155)이었습니다(DOSM 가계소득조사 보고서 2024) — 이는 평균 1.8명의 소득자를 합산한 가계 수치이므로, 개인 급여와 직접 비교할 수 없습니다."
 keyTakeaways:
   - "최저임금: 월 RM1,700, 시간당 RM8.72 — 2024년 12월 4일 관보 지정, 2025년 8월 1일부터 전국 시행"
+  - "2027년 예산안(Budget 2027, 2026년 10월 9일 발표): 하한선이 2027년 6월부터 월 RM2,000으로 인상 — 연 매출 RM5천만 미만 기업은 초기에 제외, 새 명령 대기 중이며 RM1,700은 계속 유효"
   - "중위 개인 급여 및 임금 (2024년): 월 RM2,793, 평균 RM3,652 — DOSM 급여 및 임금 조사 보고서 2024"
   - "중위 가계 소득 (2024년): 월 RM7,017, 평균 RM9,155 — DOSM 가계소득조사 보고서 2024"
   - "가계 소득은 개인 급여와 같은 척도가 아닙니다 — 한 가구는 평균 1.8명의 소득자를 둡니다"
@@ -20,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아 급여로 예산을 세우거나, 급여를 벤치마킹하거나, 특정 소득 수치를 전국적 맥락에 놓으려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,14 +31,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "국가임금협의회 사무국 (Minimum Wages Order 2024 포털) (Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -54,6 +59,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "말레이시아 통계청 (DOSM)"
     date: "2025-09-29"
+  - title: "Belanjawan 2027 (2027년 예산안 포털 — 연설문, 2027년 6월부터 RM2,000 최저임금 발표)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "말레이시아 재무부 (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -98,6 +107,13 @@ framework: data-reference
 이는 2025년 2월 1일부터 MASCO 분류 전문직 고용주와 피고용인 5인 이상의 고용주에게, 그리고 2025년 8월 1일부터 나머지 모든 고용주에게 적용되었습니다 — 소규모 고용주에 대한 유예는 이후 종료되었습니다. 범위, 공제, 지급 시기에 대한 전체 규정은
 [최저임금과 임금 지급 규정](/ko/employment/minimum-wage-malaysia)
 에서 다룹니다.
+
+**2027년 6월부터 시행 예고.** 2027년 예산안(Budget 2027, 2026년 10월 9일 제출)은
+하한선을 RM1,700에서 **2027년 6월부터 월 RM2,000**으로 인상한다고 발표했으며, 연
+매출이 **RM5천만** 미만인 고용주는 초기에 제외되고, 반숙련 노동자와 대졸자에게는
+별도로 **월 RM2,500**의 하한선이 적용됩니다. 이는 새 최저임금령을 기다리는
+발표로서 — 현재 시행 중인 RM1,700 요율을 변경하지 않으며, 이 페이지의 모든 DOSM
+수치는 여전히 2024년 기준 연도를 가리킵니다.
 
 RM1,700에서, 최저임금은 2024년 중위 개인 급여 RM2,793의 약 61% 수준에 있습니다 — 우연이 아니라 격차입니다. 중위는 이 하한선이 애초에 추적하려던 대상이 아닌 중견·숙련 임금에 의해 위로 끌어올려지기 때문입니다.
 

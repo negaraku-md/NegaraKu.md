@@ -14,6 +14,7 @@ sensitivity: "none"
 answer: "मलेशिया की वैधानिक न्यूनतम मज़दूरी RM1,700 प्रति माह (RM8.72 प्रति घंटा) है, जो न्यूनतम मज़दूरी आदेश 2024, P.U.(A) 376 के तहत 1 अगस्त 2025 से देशव्यापी रूप से पूरी तरह प्रभावी है। DOSM की वेतन एवं मज़दूरी सर्वेक्षण रिपोर्ट 2024 के अनुसार, मलेशियाई नागरिकों का मध्यिका मासिक वेतन एवं मज़दूरी 2024 में RM2,793 (माध्य RM3,652) रही। DOSM की घरेलू आय सर्वेक्षण रिपोर्ट 2024 के अनुसार, मध्यिका मासिक घरेलू आय 2024 में RM7,017 (माध्य RM9,155) रही — यह एक घरेलू आँकड़ा है, जो औसतन 1.8 आय-अर्जकों को जोड़ता है, इसलिए इसकी सीधी तुलना किसी व्यक्तिगत वेतन से नहीं की जा सकती।"
 keyTakeaways:
   - "न्यूनतम मज़दूरी: RM1,700/माह, RM8.72/घंटा — 4 दिसंबर 2024 को गजट में अधिसूचित, 1 अगस्त 2025 से देशव्यापी"
+  - "बजट 2027 (9 अक्टूबर 2026) में घोषित: न्यूनतम सीमा जून 2027 से RM2,000/माह तक बढ़ेगी (आरंभ में RM50 मिलियन से कम बिक्री वाली फर्मों को छूट) — एक नए आदेश के लंबित रहते; RM1,700 प्रभावी बना रहेगा"
   - "मध्यिका व्यक्तिगत वेतन एवं मज़दूरी (2024): RM2,793/माह; माध्य RM3,652 — DOSM वेतन एवं मज़दूरी सर्वेक्षण रिपोर्ट 2024"
   - "मध्यिका घरेलू आय (2024): RM7,017/माह; माध्य RM9,155 — DOSM घरेलू आय सर्वेक्षण रिपोर्ट 2024"
   - "घरेलू आय व्यक्तिगत वेतन के समान माप नहीं है — एक परिवार में औसतन 1.8 आय-अर्जक होते हैं"
@@ -21,7 +22,7 @@ keyTakeaways:
 appliesTo: "वे सभी जो किसी मलेशियाई वेतन के विरुद्ध बजट बना रहे हैं, वेतन की तुलना कर रहे हैं, या किसी विशिष्ट आय आँकड़े को राष्ट्रीय संदर्भ में रखने का प्रयास कर रहे हैं।"
 
 lang: "hi"
-sourceContentHash: "fde2e01f1a9acb7a"
+sourceContentHash: "cca0a9ecbed4a5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,14 +32,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-01-24
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Added the Budget 2027 announcement that the minimum wage rises to RM2,000 from June 2027 (firms under RM50m sales exempted initially, plus a RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the rate in force and all DOSM figures unchanged."
+    reviewer: null
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
   - title: "राष्ट्रीय मज़दूरी परामर्श परिषद सचिवालय — न्यूनतम मज़दूरी आदेश 2024 पोर्टल (Sekretariat Majlis Perundingan Gaji Negara (Minimum Wages Order 2024 portal))"
     url: "https://gajiminimum.mohr.gov.my/"
@@ -55,6 +60,10 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024"
     publisher: "मलेशिया सांख्यिकी विभाग (DOSM)"
     date: "2025-09-29"
+  - title: "बेलनजावन 2027 (बजट 2027 पोर्टल — भाषण पाठ, जून 2027 से RM2,000 न्यूनतम मज़दूरी की घोषणा करते हुए) (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "मलेशिया वित्त मंत्रालय (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysia minimum wage and median income"
 relations:
@@ -115,6 +124,14 @@ framework: data-reference
 पूर्ण नियम
 [न्यूनतम मज़दूरी और मज़दूरी भुगतान के नियम](/en/employment/minimum-wage-malaysia)
 में शामिल हैं।
+
+**जून 2027 के लिए घोषित।** बजट 2027 (9 अक्टूबर 2026 को पेश) में घोषणा की गई कि
+न्यूनतम सीमा RM1,700 से बढ़कर **जून 2027 से RM2,000 प्रति माह** हो जाएगी, जिसमें
+**RM50 मिलियन** से कम वार्षिक बिक्री वाले नियोक्ताओं को आरंभ में छूट दी गई है, साथ
+ही अर्ध-कुशल श्रमिकों और स्नातकों के लिए एक अलग **RM2,500** मासिक न्यूनतम सीमा। यह
+एक नए न्यूनतम मज़दूरी आदेश के लंबित रहते की गई घोषणा है — यह अभी प्रभावी RM1,700 दर
+को नहीं बदलती, और इस पृष्ठ पर हर DOSM आँकड़ा अब भी अपने 2024 संदर्भ वर्ष को
+संदर्भित करता है।
 
 RM1,700 पर, न्यूनतम मज़दूरी 2024 के मध्यिका व्यक्तिगत वेतन RM2,793 के लगभग 61%
 पर बैठती है — यह एक अंतर है, संयोग नहीं, क्योंकि मध्यिका को मध्य-करियर और कुशल
