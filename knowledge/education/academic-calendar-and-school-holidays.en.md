@@ -29,7 +29,7 @@ faq:
     a: "The official calendar is issued through MOE Circulars and the moe.gov.my portal each year before the session begins. Refer to official sources for the exact dates, as they change every year."
 
 lang: "en"
-sourceContentHash: "d7bb77ea8047230b"
+sourceContentHash: "9ffb39349f37327f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,33 +38,38 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "Tarikh cuti tambahan Hari Raya Aidilfitri 2026 untuk sekolah (KPM melaporkan cuti tambahan sekitar 19–20 Mac) — sahkan bilangan hari tepat setiap kumpulan terhadap Surat Siaran KPM Bil. 3 Tahun 2025."
-  - "Cuti umum Aidilfitri khusus negeri 2026 (cth. hari ketiga Melaka, hari tambahan Johor 24 Mac) — sahkan senarai gazet negeri masing-masing."
-  - "Bilangan hari cuti akhir tahun (27–28 hari) — semak kiraan rangkuman terhadap teks rasmi Surat Siaran KPM."
-  - "All 2026 schedule dates are taken from the official KPM website and sources that re-report the circular; the official PDF could not be parsed automatically, so it is best to eyeball-check against the original PDF."
+  - "Additional school holiday dates for Hari Raya Aidilfitri 2027 (secondary sources report an extra MOE holiday on 14 March for Group A) — confirm the exact number of days for each group against the official MOE Academic Calendar for 2027."
+  - "State-specific Aidilfitri public holidays for 2027 (e.g. Melaka's third day on 12 March) — confirm against each state's gazetted list."
+  - "The 2027 holiday-block dates (term 1, mid-year, term 2, year-end breaks) are taken from the MOE Academic Calendar for 2027 via consistent secondary sources; eyeball-check against the official moe.gov.my PDF for the exact dates of each group."
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "Kalendar Akademik Tahun 2027 bagi Sekolah KPM"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "Kementerian Pendidikan Malaysia (moe.gov.my)"
+    date: "2026-10-02"
+  - title: "KPM Umum Sesi Persekolahan 2027 Bermula 4 Januari"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "Radio Televisyen Malaysia (berita.rtm.gov.my)"
+    date: "2026-10-03"
   - title: "2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "Majlis Keselamatan Negara (mkn.gov.my)"
   - title: "Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025)"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -110,29 +115,29 @@ The Ministry of Education Malaysia (MOE) issues one school calendar once a year 
 - **Group A** — Kedah, Kelantan and Terengganu. The weekend falls on **Friday and Saturday**.
 - **Group B** — Johor, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Selangor, Sabah, Sarawak, plus the Federal Territories of Kuala Lumpur, Labuan and Putrajaya. The weekend falls on **Saturday and Sunday**.
 
-This list is current as of 2026: only Kedah, Kelantan and Terengganu still keep the Friday–Saturday weekend, while Johor reverted to Saturday–Sunday effective 1 January 2025 and now sits in Group B.
+This list is current as of 2027: only Kedah, Kelantan and Terengganu still keep the Friday–Saturday weekend, while Johor reverted to Saturday–Sunday effective 1 January 2025 and now sits in Group B.
 
-Because the rest days differ, the school opening dates and holiday dates are shifted by one day between the two groups so that the total number of school days stays balanced. That is why Group A often starts a day earlier.
+Because the rest days differ, the term-break dates and the end-of-session dates are shifted by one day between the two groups so that the total number of school days stays balanced — Group A's breaks usually begin a day earlier than Group B's. The opening date, however, is not necessarily shifted: in 2027 both groups start on the same day (4 January), whereas in 2026 the start was staggered. So always check the calendar for the year in question.
 
 ## How is one school session structured?
 
 One school session consists of **two terms**, separated by four main holiday blocks: the term 1 mid-term break, the mid-year break, the term 2 mid-term break, and the year-end break. The mid-year break and the year-end break are the longest blocks.
 
-The table below uses the **2026 session** as a real example (MOE Circular No. 3 of 2025). Note the one-day shift between the groups.
+The table below uses the **2027 session** as a real example (MOE Academic Calendar for 2027). Both groups start on 4 January 2027, but note the one-day shift in the holiday blocks and the end-of-session dates.
 
 | Event | Group A | Group B | Duration |
 |---|---|---|---|
-| School begins | 11 Jan 2026 | 12 Jan 2026 | — |
-| Term 1 mid-term break | 20–28 Mar | 21–29 Mar | 9 days |
-| Mid-year break | 22 May – 6 Jun | 23 May – 7 Jun | 16 days |
-| Term 2 mid-term break | 28 Aug – 5 Sep | 29 Aug – 6 Sep | 9 days |
-| Year-end break | 4–31 Dec | 5–31 Dec | 27–28 days |
+| School begins | 4 Jan 2027 | 4 Jan 2027 | — |
+| Term 1 mid-term break | 5–13 Mar | 6–14 Mar | 9 days |
+| Mid-year break | 21 May – 5 Jun | 22 May – 6 Jun | 16 days |
+| Term 2 mid-term break | 27 Aug – 4 Sep | 28 Aug – 5 Sep | 9 days |
+| Year-end break | 3–31 Dec | 4–31 Dec | 28–29 days |
 
-These dates are specific to 2026 only. Every year MOE publishes a new calendar, so do not use last year's dates to plan this year.
+The session ends on **2 December 2027** for Group A and **3 December 2027** for Group B. These dates are specific to 2027 only. Every year MOE publishes a new calendar, so do not use last year's dates to plan this year.
 
 ## How do festive holidays fit into the picture?
 
-Festive holidays such as Chinese New Year, Aidilfitri and [Deepavali](/arts-culture/deepavali) are coordinated with the calendar, and sometimes the term-break dates are deliberately aligned with festive seasons. For example, in 2026, 1 Syawal falls on Saturday **21 March**, with the Aidilfitri public holiday spanning around **20–23 March** (the actual dates are subject to official announcement and may differ by state). These Raya dates fall **within** the term 1 mid-term break — not merely alongside it — because the Group B term break is 21–29 March and Group A's is 20–28 March. This overlap gives families a longer period to return to their hometowns.
+Festive holidays such as Chinese New Year, Aidilfitri and [Deepavali](/arts-culture/deepavali) are coordinated with the calendar, and sometimes the term-break dates are deliberately aligned with festive seasons. For example, in 2027, 1 Syawal falls on Wednesday **10 March**, with the Aidilfitri public holiday on **10–11 March** (the actual dates are subject to official announcement and may differ by state). These Raya dates fall **within** the term 1 mid-term break — not merely alongside it — because Group A's term break is 5–13 March and Group B's is 6–14 March, with Group A also getting one extra MOE holiday on 14 March. This overlap gives families a longer period to return to their hometowns.
 
 But there are two sources of difference between states to keep in mind:
 

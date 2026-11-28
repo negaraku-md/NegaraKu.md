@@ -29,7 +29,7 @@ faq:
     a: "Le calendrier officiel est émis par des circulaires du MOE et le portail moe.gov.my chaque année avant le début de la session. Consultez les sources officielles pour les dates exactes, car elles changent chaque année."
 
 lang: "fr"
-sourceContentHash: "d7bb77ea8047230b"
+sourceContentHash: "9ffb39349f37327f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,33 +38,38 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "Dates des congés scolaires supplémentaires de Hari Raya Aidilfitri 2026 (le KPM signale des congés supplémentaires autour du 19–20 mars) — vérifier le nombre exact de jours pour chaque groupe par rapport à la Circulaire du KPM n° 3 de 2025."
-  - "Jours fériés d'Aidilfitri propres à chaque État en 2026 (p. ex. le troisième jour à Melaka, le jour supplémentaire de Johor le 24 mars) — vérifier la liste du Journal officiel de chaque État."
-  - "Nombre de jours des vacances de fin d'année (27–28 jours) — vérifier le décompte récapitulatif par rapport au texte officiel de la Circulaire du KPM."
-  - "Toutes les dates du calendrier 2026 proviennent du site officiel du KPM et de sources qui reprennent la circulaire ; le PDF officiel n'a pas pu être analysé automatiquement, il est donc préférable de les vérifier visuellement par rapport au PDF original."
+  - "Dates des congés scolaires supplémentaires de Hari Raya Aidilfitri 2027 (des sources secondaires signalent un congé supplémentaire du KPM le 14 mars pour le Groupe A) — vérifier le nombre exact de jours pour chaque groupe par rapport au Calendrier académique 2027 officiel du KPM."
+  - "Jours fériés d'Aidilfitri propres à chaque État en 2027 (p. ex. le troisième jour à Melaka le 12 mars) — vérifier la liste du Journal officiel de chaque État."
+  - "Les dates des blocs de vacances 2027 (congé de trimestre 1, de mi-année, de trimestre 2, de fin d'année) proviennent du Calendrier académique 2027 du KPM via des sources secondaires concordantes ; les vérifier visuellement par rapport au PDF officiel de moe.gov.my pour les dates exactes de chaque groupe."
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "Circulaire du KPM n° 3 de 2025 — Calendrier académique 2026 pour les écoles du KPM (Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM)"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "Calendrier académique 2027 pour les écoles du KPM (Kalendar Akademik Tahun 2027 bagi Sekolah KPM)"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "Ministère de l'Éducation de Malaisie (moe.gov.my)"
+    date: "2026-10-02"
+  - title: "Le KPM annonce que la session scolaire 2027 débute le 4 janvier (KPM Umum Sesi Persekolahan 2027 Bermula 4 Januari)"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "Radio Televisyen Malaysia (berita.rtm.gov.my)"
+    date: "2026-10-03"
   - title: "2025 : le week-end de Johor est samedi et dimanche, parmi les nouveautés entrant en vigueur demain (2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok)"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "Conseil de sécurité nationale (mkn.gov.my)"
   - title: "Hari Raya Aidilfitri 2025, 2026 et 2027 — dates des jours fériés (Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum)"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "Vacances scolaires 2026 — Calendrier académique du KPM (reprend la Circulaire du KPM n° 3 de 2025) (Cuti Sekolah 2026 — Takwim Akademik KPM, mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025)"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -110,29 +115,29 @@ Le ministère de l'Éducation de Malaisie (MOE) émet un calendrier scolaire une
 - **Groupe A** : Kedah, Kelantan et Terengganu. Le week-end tombe le **vendredi et le samedi**.
 - **Groupe B** : Johor, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Selangor, Sabah, Sarawak, ainsi que les Territoires fédéraux de Kuala Lumpur, Labuan et Putrajaya. Le week-end tombe le **samedi et le dimanche**.
 
-Cette liste est à jour en 2026 : seuls Kedah, Kelantan et Terengganu conservent encore le week-end vendredi-samedi, tandis que Johor est revenu au samedi-dimanche avec effet au 1er janvier 2025 et se trouve désormais dans le Groupe B.
+Cette liste est à jour en 2027 : seuls Kedah, Kelantan et Terengganu conservent encore le week-end vendredi-samedi, tandis que Johor est revenu au samedi-dimanche avec effet au 1er janvier 2025 et se trouve désormais dans le Groupe B.
 
-Comme les jours de repos diffèrent, les dates d'ouverture des écoles et les dates de vacances sont décalées d'un jour entre les deux groupes afin que le nombre total de jours de classe reste équilibré. C'est pourquoi le Groupe A commence souvent un jour plus tôt.
+Comme les jours de repos diffèrent, les dates des congés de trimestre et la date de fin de session sont décalées d'un jour entre les deux groupes afin que le nombre total de jours de classe reste équilibré — les vacances du Groupe A commencent généralement un jour plus tôt que celles du Groupe B. En revanche, la date d'ouverture des écoles n'est pas nécessairement décalée : en 2027, les deux groupes commencent le même jour (4 janvier), alors qu'en 2026 l'ouverture était décalée d'un jour. Vérifiez donc toujours le calendrier de l'année concernée.
 
 ## Comment est structurée une session scolaire ?
 
 Une session scolaire se compose de **deux trimestres**, séparés par quatre grands blocs de vacances : le congé de mi-trimestre 1, le congé de mi-année, le congé de mi-trimestre 2 et le congé de fin d'année. Le congé de mi-année et celui de fin d'année sont les blocs les plus longs.
 
-Le tableau ci-dessous utilise la **session 2026** comme exemple réel (Circulaire du MOE n° 3 de 2025). Notez le décalage d'un jour entre les groupes.
+Le tableau ci-dessous utilise la **session 2027** comme exemple réel (Calendrier académique 2027 du MOE). Les deux groupes commencent le 4 janvier 2027, mais notez le décalage d'un jour sur les blocs de vacances et la date de fin de session.
 
 | Événement | Groupe A | Groupe B | Durée |
 |---|---|---|---|
-| Début des classes | 11 janv. 2026 | 12 janv. 2026 | — |
-| Congé de mi-trimestre 1 | 20–28 mars | 21–29 mars | 9 jours |
-| Congé de mi-année | 22 mai – 6 juin | 23 mai – 7 juin | 16 jours |
-| Congé de mi-trimestre 2 | 28 août – 5 sept. | 29 août – 6 sept. | 9 jours |
-| Congé de fin d'année | 4–31 déc. | 5–31 déc. | 27–28 jours |
+| Début des classes | 4 janv. 2027 | 4 janv. 2027 | — |
+| Congé de mi-trimestre 1 | 5–13 mars | 6–14 mars | 9 jours |
+| Congé de mi-année | 21 mai – 5 juin | 22 mai – 6 juin | 16 jours |
+| Congé de mi-trimestre 2 | 27 août – 4 sept. | 28 août – 5 sept. | 9 jours |
+| Congé de fin d'année | 3–31 déc. | 4–31 déc. | 28–29 jours |
 
-Ces dates ne sont propres qu'à 2026. Chaque année, le MOE publie un nouveau calendrier, alors n'utilisez pas les dates de l'an dernier pour planifier cette année.
+La session se termine le **2 décembre 2027** pour le Groupe A et le **3 décembre 2027** pour le Groupe B. Ces dates ne sont propres qu'à 2027. Chaque année, le MOE publie un nouveau calendrier, alors n'utilisez pas les dates de l'an dernier pour planifier cette année.
 
 ## Comment les congés festifs s'intègrent-ils dans l'ensemble ?
 
-Les congés festifs comme le Nouvel An chinois, l'Aidilfitri et [Deepavali](/arts-culture/deepavali) sont coordonnés avec le calendrier, et parfois les dates des congés de trimestre sont délibérément alignées sur les saisons festives. Par exemple, en 2026, le 1er Syawal tombe le samedi **21 mars**, le jour férié de l'Aidilfitri s'étendant autour du **20–23 mars** (les dates réelles sont soumises à une annonce officielle et peuvent différer selon l'État). Ces dates de Raya tombent **à l'intérieur** du congé de mi-trimestre 1 — et pas seulement à côté — car le congé de trimestre du Groupe B va du 21 au 29 mars et celui du Groupe A du 20 au 28 mars. Ce chevauchement donne aux familles une période plus longue pour retourner dans leur village d'origine.
+Les congés festifs comme le Nouvel An chinois, l'Aidilfitri et [Deepavali](/arts-culture/deepavali) sont coordonnés avec le calendrier, et parfois les dates des congés de trimestre sont délibérément alignées sur les saisons festives. Par exemple, en 2027, le 1er Syawal tombe le mercredi **10 mars**, le jour férié de l'Aidilfitri s'étendant du **10 au 11 mars** (les dates réelles sont soumises à une annonce officielle et peuvent différer selon l'État). Ces dates de Raya tombent **à l'intérieur** du congé de mi-trimestre 1 — et pas seulement à côté — car le congé de trimestre du Groupe A va du 5 au 13 mars et celui du Groupe B du 6 au 14 mars, le Groupe A bénéficiant en outre d'un jour de congé supplémentaire du MOE le 14 mars. Ce chevauchement donne aux familles une période plus longue pour retourner dans leur village d'origine.
 
 Mais il y a deux sources de différence entre les États à garder à l'esprit :
 

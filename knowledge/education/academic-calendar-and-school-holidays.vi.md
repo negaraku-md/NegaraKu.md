@@ -29,7 +29,7 @@ faq:
     a: "Lịch chính thức được ban hành qua Thông tư (Surat Siaran) của KPM và cổng moe.gov.my mỗi năm trước khi năm học bắt đầu. Hãy tham khảo nguồn chính thức để có ngày chính xác vì nó thay đổi mỗi năm."
 
 lang: "vi"
-sourceContentHash: "d7bb77ea8047230b"
+sourceContentHash: "9ffb39349f37327f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,33 +38,38 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "Ngày nghỉ bổ sung Hari Raya Aidilfitri 2026 cho các trường (KPM báo cáo nghỉ bổ sung khoảng 19–20 tháng 3) — xác nhận số ngày chính xác của mỗi nhóm so với Thông tư KPM Bil. 3 Năm 2025."
-  - "Ngày nghỉ lễ công Aidilfitri riêng theo bang năm 2026 (ví dụ ngày thứ ba ở Melaka, ngày bổ sung ở Johor 24 tháng 3) — xác nhận danh sách công báo của từng bang."
-  - "Số ngày nghỉ cuối năm (27–28 ngày) — kiểm tra cách tính tóm tắt so với văn bản chính thức của Thông tư KPM."
-  - "Tất cả các ngày trong bảng năm 2026 được lấy từ trang chính thức của KPM và các nguồn đăng lại thông tư; PDF chính thức không thể được phân tích tự động, nên nên được kiểm tra bằng mắt so với PDF gốc."
+  - "Ngày nghỉ bổ sung Hari Raya Aidilfitri 2027 cho các trường (nguồn thứ cấp báo cáo KPM cho nghỉ bổ sung ngày 14 tháng 3 đối với Nhóm A) — xác nhận số ngày chính xác của mỗi nhóm so với Lịch Học năm 2027 chính thức của KPM."
+  - "Ngày nghỉ lễ công Aidilfitri riêng theo bang năm 2027 (ví dụ ngày thứ ba ở Melaka 12 tháng 3) — xác nhận danh sách công báo của từng bang."
+  - "Các khối ngày nghỉ năm 2027 (nghỉ giữa học kỳ 1, giữa năm, học kỳ 2, cuối năm) được lấy từ Lịch Học năm 2027 của KPM qua các nguồn thứ cấp thống nhất; kiểm tra bằng mắt so với PDF chính thức trên moe.gov.my để có ngày chính xác của mỗi nhóm."
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "Thông tư KPM Số 3 Năm 2025 — Lịch Học năm 2026 cho các Trường KPM (Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM)"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "Lịch Học năm 2027 cho các Trường KPM (Kalendar Akademik Tahun 2027 bagi Sekolah KPM)"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "Bộ Giáo dục Malaysia (Kementerian Pendidikan Malaysia, moe.gov.my)"
+    date: "2026-10-02"
+  - title: "KPM công bố năm học 2027 bắt đầu ngày 4 tháng 1 (KPM Umum Sesi Persekolahan 2027 Bermula 4 Januari)"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "Đài Phát thanh Truyền hình Malaysia (Radio Televisyen Malaysia, berita.rtm.gov.my)"
+    date: "2026-10-03"
   - title: "2025: Johor nghỉ cuối tuần Thứ Bảy, Chủ Nhật — Trong số những điều mới có hiệu lực từ ngày mai (2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok)"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "Hội đồng An ninh Quốc gia (Majlis Keselamatan Negara, mkn.gov.my)"
   - title: "Hari Raya Aidilfitri 2025, 2026 và 2027 — Ngày Nghỉ lễ Công cộng (Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum)"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "Nghỉ học 2026 — Lịch Học KPM (nhắc lại Thông tư KPM Số 3 Năm 2025) (Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025))"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -110,29 +115,29 @@ Bộ Giáo dục Malaysia (Kementerian Pendidikan Malaysia, KPM) ban hành một
 - **Nhóm A** — Kedah, Kelantan và Terengganu. Cuối tuần rơi vào **thứ Sáu và thứ Bảy**.
 - **Nhóm B** — Johor, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Selangor, Sabah, Sarawak, cùng các Lãnh thổ Liên bang Kuala Lumpur, Labuan và Putrajaya. Cuối tuần rơi vào **thứ Bảy và Chủ nhật**.
 
-Danh sách này cập nhật đến năm 2026: chỉ có Kedah, Kelantan và Terengganu vẫn duy trì cuối tuần thứ Sáu–thứ Bảy, trong khi Johor đã trở lại thứ Bảy–Chủ nhật từ ngày 1 tháng 1 năm 2025 và hiện nằm trong Nhóm B.
+Danh sách này cập nhật đến năm 2027: chỉ có Kedah, Kelantan và Terengganu vẫn duy trì cuối tuần thứ Sáu–thứ Bảy, trong khi Johor đã trở lại thứ Bảy–Chủ nhật từ ngày 1 tháng 1 năm 2025 và hiện nằm trong Nhóm B.
 
-Vì ngày nghỉ khác nhau, ngày khai giảng và ngày nghỉ được dịch một ngày giữa hai nhóm để tổng số ngày học vẫn cân bằng. Đó là lý do vì sao Nhóm A thường bắt đầu sớm hơn một ngày.
+Vì ngày nghỉ khác nhau, ngày nghỉ học kỳ và ngày kết thúc năm học được dịch một ngày giữa hai nhóm để tổng số ngày học vẫn cân bằng — các kỳ nghỉ của Nhóm A thường bắt đầu sớm hơn Nhóm B một ngày. Nhưng ngày khai giảng thì không nhất thiết được dịch: vào năm 2027 cả hai nhóm đều bắt đầu cùng một ngày (4 tháng 1), trong khi vào năm 2026 ngày khai giảng lại chênh nhau một ngày. Vì vậy, hãy luôn kiểm tra lịch của năm liên quan.
 
 ## Một năm học được sắp xếp như thế nào?
 
 Một năm học gồm **hai học kỳ**, được phân tách bởi bốn khối nghỉ chính: nghỉ giữa học kỳ 1, nghỉ giữa năm, nghỉ giữa học kỳ 2, và nghỉ cuối năm. Nghỉ giữa năm và nghỉ cuối năm là các khối dài nhất.
 
-Bảng dưới đây dùng **năm học 2026** làm ví dụ thực tế (Thông tư KPM Bil. 3 Năm 2025). Hãy chú ý sự dịch một ngày giữa các nhóm.
+Bảng dưới đây dùng **năm học 2027** làm ví dụ thực tế (Lịch Học năm 2027 của KPM). Cả hai nhóm đều khai giảng vào ngày 4 tháng 1 năm 2027, nhưng hãy chú ý sự dịch một ngày ở các khối nghỉ và ngày kết thúc năm học.
 
 | Sự kiện | Nhóm A | Nhóm B | Thời lượng |
 |---|---|---|---|
-| Khai giảng | 11 tháng 1 2026 | 12 tháng 1 2026 | — |
-| Nghỉ giữa học kỳ 1 | 20–28 tháng 3 | 21–29 tháng 3 | 9 ngày |
-| Nghỉ giữa năm | 22 tháng 5 – 6 tháng 6 | 23 tháng 5 – 7 tháng 6 | 16 ngày |
-| Nghỉ giữa học kỳ 2 | 28 tháng 8 – 5 tháng 9 | 29 tháng 8 – 6 tháng 9 | 9 ngày |
-| Nghỉ cuối năm | 4–31 tháng 12 | 5–31 tháng 12 | 27–28 ngày |
+| Khai giảng | 4 tháng 1 2027 | 4 tháng 1 2027 | — |
+| Nghỉ giữa học kỳ 1 | 5–13 tháng 3 | 6–14 tháng 3 | 9 ngày |
+| Nghỉ giữa năm | 21 tháng 5 – 5 tháng 6 | 22 tháng 5 – 6 tháng 6 | 16 ngày |
+| Nghỉ giữa học kỳ 2 | 27 tháng 8 – 4 tháng 9 | 28 tháng 8 – 5 tháng 9 | 9 ngày |
+| Nghỉ cuối năm | 3–31 tháng 12 | 4–31 tháng 12 | 28–29 ngày |
 
-Các ngày này chỉ dành riêng cho năm 2026. Mỗi năm KPM công bố một lịch mới, nên đừng dùng ngày của năm ngoái để lập kế hoạch cho năm nay.
+Năm học kết thúc vào ngày **2 tháng 12 năm 2027** đối với Nhóm A và **3 tháng 12 năm 2027** đối với Nhóm B. Các ngày này chỉ dành riêng cho năm 2027. Mỗi năm KPM công bố một lịch mới, nên đừng dùng ngày của năm ngoái để lập kế hoạch cho năm nay.
 
 ## Các kỳ nghỉ lễ đưa vào bức tranh như thế nào?
 
-Các kỳ nghỉ lễ như Tahun Baru Cina, Aidilfitri và [Deepavali](/vi/arts-culture/deepavali) được sắp xếp phù hợp với lịch, và đôi khi ngày nghỉ học kỳ quả thực được cố ý căn chỉnh với mùa lễ hội. Ví dụ vào năm 2026, ngày 1 Syawal rơi vào thứ Bảy **21 tháng 3**, với ngày nghỉ lễ công Aidilfitri bao gồm khoảng **20–23 tháng 3** (ngày thực tế tùy thuộc vào công bố chính thức và có thể khác nhau theo bang). Ngày lễ này rơi **trong** thời gian nghỉ giữa học kỳ 1 — không chỉ là liền kề — vì kỳ nghỉ học kỳ của Nhóm B là 21–29 tháng 3 và Nhóm A là 20–28 tháng 3. Sự chồng lấp này cho các gia đình một thời gian [về quê (balik kampung)](/vi/glossary/balik-kampung) dài hơn.
+Các kỳ nghỉ lễ như Tahun Baru Cina, Aidilfitri và [Deepavali](/vi/arts-culture/deepavali) được sắp xếp phù hợp với lịch, và đôi khi ngày nghỉ học kỳ quả thực được cố ý căn chỉnh với mùa lễ hội. Ví dụ vào năm 2027, ngày 1 Syawal rơi vào thứ Tư **10 tháng 3**, với ngày nghỉ lễ công Aidilfitri là **10–11 tháng 3** (ngày thực tế tùy thuộc vào công bố chính thức và có thể khác nhau theo bang). Ngày lễ này rơi **trong** thời gian nghỉ giữa học kỳ 1 — không chỉ là liền kề — vì kỳ nghỉ học kỳ của Nhóm A là 5–13 tháng 3 và Nhóm B là 6–14 tháng 3, với Nhóm A còn được thêm một ngày nghỉ bổ sung của KPM vào ngày 14 tháng 3. Sự chồng lấp này cho các gia đình một thời gian [về quê (balik kampung)](/vi/glossary/balik-kampung) dài hơn.
 
 Nhưng có hai nguồn khác biệt giữa các bang cần được chú ý:
 

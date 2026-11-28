@@ -37,33 +37,38 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "Tarikh cuti tambahan Hari Raya Aidilfitri 2026 untuk sekolah (KPM melaporkan cuti tambahan sekitar 19–20 Mac) — sahkan bilangan hari tepat setiap kumpulan terhadap Surat Siaran KPM Bil. 3 Tahun 2025."
-  - "Cuti umum Aidilfitri khusus negeri 2026 (cth. hari ketiga Melaka, hari tambahan Johor 24 Mac) — sahkan senarai gazet negeri masing-masing."
-  - "Bilangan hari cuti akhir tahun (27–28 hari) — semak kiraan rangkuman terhadap teks rasmi Surat Siaran KPM."
-  - "Semua tarikh jadual 2026 diambil daripada laman rasmi KPM dan sumber yang mengulang semula edaran; PDF rasmi tidak dapat dihurai secara automatik, jadi baik disemak mata terhadap PDF asal."
+  - "Tarikh cuti tambahan Hari Raya Aidilfitri 2027 untuk sekolah (sumber sekunder melaporkan cuti tambahan KPM 14 Mac bagi Kumpulan A) — sahkan bilangan hari tepat setiap kumpulan terhadap Kalendar Akademik Tahun 2027 KPM yang rasmi."
+  - "Cuti umum Aidilfitri khusus negeri 2027 (cth. hari ketiga Melaka 12 Mac) — sahkan senarai gazet negeri masing-masing."
+  - "Tarikh blok cuti 2027 (cuti penggal 1, pertengahan tahun, penggal 2, akhir tahun) diambil daripada Kalendar Akademik Tahun 2027 KPM melalui sumber sekunder yang selaras; semak mata terhadap PDF rasmi moe.gov.my untuk tarikh tepat setiap kumpulan."
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "Kalendar Akademik Tahun 2027 bagi Sekolah KPM"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "Kementerian Pendidikan Malaysia (moe.gov.my)"
+    date: "2026-10-02"
+  - title: "KPM Umum Sesi Persekolahan 2027 Bermula 4 Januari"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "Radio Televisyen Malaysia (berita.rtm.gov.my)"
+    date: "2026-10-03"
   - title: "2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "Majlis Keselamatan Negara (mkn.gov.my)"
   - title: "Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025)"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -109,29 +114,29 @@ Kementerian Pendidikan Malaysia (KPM) mengeluarkan satu takwim persekolahan seta
 - **Kumpulan A** — Kedah, Kelantan dan Terengganu. Hujung minggu jatuh pada **Jumaat dan Sabtu**.
 - **Kumpulan B** — Johor, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Selangor, Sabah, Sarawak, serta Wilayah Persekutuan Kuala Lumpur, Labuan dan Putrajaya. Hujung minggu jatuh pada **Sabtu dan Ahad**.
 
-Senarai ini terkini setakat 2026: hanya Kedah, Kelantan dan Terengganu yang masih mengekalkan hujung minggu Jumaat–Sabtu, manakala Johor telah kembali kepada Sabtu–Ahad mulai 1 Januari 2025 dan kini berada dalam Kumpulan B.
+Senarai ini terkini setakat 2027: hanya Kedah, Kelantan dan Terengganu yang masih mengekalkan hujung minggu Jumaat–Sabtu, manakala Johor telah kembali kepada Sabtu–Ahad mulai 1 Januari 2025 dan kini berada dalam Kumpulan B.
 
-Kerana hari rehat berbeza, tarikh buka sekolah dan tarikh cuti dianjak sehari antara dua kumpulan supaya jumlah hari belajar tetap seimbang. Itu sebabnya Kumpulan A sering bermula sehari lebih awal.
+Kerana hari rehat berbeza, tarikh cuti penggal dan tarikh akhir sesi dianjak sehari antara dua kumpulan supaya jumlah hari belajar tetap seimbang — cuti Kumpulan A biasanya bermula sehari lebih awal daripada Kumpulan B. Tarikh buka sekolah pula tidak semestinya dianjak: pada 2027 kedua-dua kumpulan mula pada hari yang sama (4 Januari), sedangkan pada 2026 permulaannya berselang sehari. Sebab itu, sentiasa semak takwim tahun berkenaan.
 
 ## Macam mana satu sesi persekolahan disusun?
 
 Satu sesi persekolahan mengandungi **dua penggal**, dipisahkan oleh empat blok cuti utama: cuti pertengahan penggal 1, cuti pertengahan tahun, cuti pertengahan penggal 2, dan cuti akhir tahun. Cuti pertengahan tahun dan cuti akhir tahun ialah blok terpanjang.
 
-Jadual di bawah menggunakan **sesi 2026** sebagai contoh sebenar (Surat Siaran KPM Bil. 3 Tahun 2025). Perhatikan anjakan sehari antara kumpulan.
+Jadual di bawah menggunakan **sesi 2027** sebagai contoh sebenar (Kalendar Akademik Tahun 2027 KPM). Kedua-dua kumpulan mula pada 4 Januari 2027, tetapi perhatikan anjakan sehari pada blok cuti dan tarikh akhir sesi.
 
 | Peristiwa | Kumpulan A | Kumpulan B | Tempoh |
 |---|---|---|---|
-| Sekolah bermula | 11 Jan 2026 | 12 Jan 2026 | — |
-| Cuti pertengahan penggal 1 | 20–28 Mac | 21–29 Mac | 9 hari |
-| Cuti pertengahan tahun | 22 Mei – 6 Jun | 23 Mei – 7 Jun | 16 hari |
-| Cuti pertengahan penggal 2 | 28 Ogos – 5 Sep | 29 Ogos – 6 Sep | 9 hari |
-| Cuti akhir tahun | 4–31 Dis | 5–31 Dis | 27–28 hari |
+| Sekolah bermula | 4 Jan 2027 | 4 Jan 2027 | — |
+| Cuti pertengahan penggal 1 | 5–13 Mac | 6–14 Mac | 9 hari |
+| Cuti pertengahan tahun | 21 Mei – 5 Jun | 22 Mei – 6 Jun | 16 hari |
+| Cuti pertengahan penggal 2 | 27 Ogos – 4 Sep | 28 Ogos – 5 Sep | 9 hari |
+| Cuti akhir tahun | 3–31 Dis | 4–31 Dis | 28–29 hari |
 
-Tarikh ini khusus untuk 2026 sahaja. Setiap tahun KPM menerbitkan takwim baharu, jadi jangan gunakan tarikh tahun lepas untuk merancang tahun ini.
+Sesi tamat pada **2 Disember 2027** bagi Kumpulan A dan **3 Disember 2027** bagi Kumpulan B. Tarikh ini khusus untuk 2027 sahaja. Setiap tahun KPM menerbitkan takwim baharu, jadi jangan gunakan tarikh tahun lepas untuk merancang tahun ini.
 
 ## Bagaimana cuti perayaan masuk ke dalam gambar?
 
-Cuti perayaan seperti Tahun Baru Cina, Aidilfitri dan [Deepavali](/arts-culture/deepavali) diselaraskan dengan takwim, dan kadangkala tarikh cuti penggal memang sengaja dijajarkan dengan musim perayaan. Contohnya pada 2026, 1 Syawal jatuh pada Sabtu **21 Mac**, dengan cuti umum Aidilfitri merangkumi sekitar **20–23 Mac** (tarikh sebenar tertakluk kepada pengumuman rasmi dan boleh berbeza mengikut negeri). Tarikh raya ini jatuh **dalam** tempoh cuti pertengahan penggal 1 — bukan sekadar bersebelahan — kerana cuti penggal Kumpulan B ialah 21–29 Mac dan Kumpulan A 20–28 Mac. Pertindihan ini memberi keluarga tempoh [balik kampung](/glossary/balik-kampung) yang lebih panjang.
+Cuti perayaan seperti Tahun Baru Cina, Aidilfitri dan [Deepavali](/arts-culture/deepavali) diselaraskan dengan takwim, dan kadangkala tarikh cuti penggal memang sengaja dijajarkan dengan musim perayaan. Contohnya pada 2027, 1 Syawal jatuh pada Rabu **10 Mac**, dengan cuti umum Aidilfitri **10–11 Mac** (tarikh sebenar tertakluk kepada pengumuman rasmi dan boleh berbeza mengikut negeri). Tarikh raya ini jatuh **dalam** tempoh cuti pertengahan penggal 1 — bukan sekadar bersebelahan — kerana cuti penggal Kumpulan A ialah 5–13 Mac dan Kumpulan B 6–14 Mac, dengan Kumpulan A turut mendapat satu hari cuti tambahan KPM pada 14 Mac. Pertindihan ini memberi keluarga tempoh [balik kampung](/glossary/balik-kampung) yang lebih panjang.
 
 Tetapi ada dua sumber perbezaan antara negeri yang perlu diberi perhatian:
 

@@ -29,7 +29,7 @@ faq:
     a: "Kalender resmi dikeluarkan melalui Surat Siaran KPM dan portal moe.gov.my setiap tahun sebelum sesi dimulai. Rujuk sumber resmi untuk tanggal yang tepat karena ia berubah setiap tahun."
 
 lang: "id"
-sourceContentHash: "d7bb77ea8047230b"
+sourceContentHash: "9ffb39349f37327f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,33 +38,38 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "Tanggal libur tambahan Hari Raya Aidilfitri 2026 untuk sekolah (KPM melaporkan libur tambahan sekitar 19–20 Maret) — verifikasi jumlah hari persis setiap kelompok terhadap Surat Siaran KPM Bil. 3 Tahun 2025."
-  - "Hari libur umum Aidilfitri khusus negara bagian 2026 (mis. hari ketiga Melaka, hari tambahan Johor 24 Maret) — verifikasi daftar warta resmi negara bagian masing-masing."
-  - "Jumlah hari libur akhir tahun (27–28 hari) — periksa perhitungan ringkasan terhadap teks resmi Surat Siaran KPM."
-  - "Semua tanggal jadwal 2026 diambil dari situs resmi KPM dan sumber yang mengulang kembali edaran; PDF resmi tidak dapat diurai secara otomatis, sehingga sebaiknya diperiksa secara visual terhadap PDF asli."
+  - "Tanggal libur tambahan Hari Raya Aidilfitri 2027 untuk sekolah (sumber sekunder melaporkan libur tambahan KPM 14 Maret bagi Kelompok A) — verifikasi jumlah hari persis setiap kelompok terhadap Kalender Akademik Tahun 2027 KPM yang resmi."
+  - "Hari libur umum Aidilfitri khusus negara bagian 2027 (mis. hari ketiga Melaka 12 Maret) — verifikasi daftar warta resmi negara bagian masing-masing."
+  - "Tanggal blok libur 2027 (libur semester 1, pertengahan tahun, semester 2, akhir tahun) diambil dari Kalender Akademik Tahun 2027 KPM melalui sumber sekunder yang selaras; periksa secara visual terhadap PDF resmi moe.gov.my untuk tanggal persis setiap kelompok."
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "Kalender Akademik Tahun 2027 bagi Sekolah KPM"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "Kementerian Pendidikan Malaysia (moe.gov.my)"
+    date: "2026-10-02"
+  - title: "KPM Mengumumkan Sesi Persekolahan 2027 Dimulai 4 Januari"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "Radio Televisyen Malaysia (berita.rtm.gov.my)"
+    date: "2026-10-03"
   - title: "2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "Majelis Keamanan Negara (mkn.gov.my)"
   - title: "Hari Raya Aidilfitri 2025, 2026, dan 2027 — Tanggal Libur Umum"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "Libur Sekolah 2026 — Kalender Akademik KPM (mengulang Surat Siaran KPM Bil. 3 Tahun 2025)"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -110,29 +115,29 @@ Kementerian Pendidikan Malaysia (KPM) mengeluarkan satu kalender akademik setahu
 - **Kelompok A** — Kedah, Kelantan, dan Terengganu. Akhir pekan jatuh pada **Jumat dan Sabtu**.
 - **Kelompok B** — Johor, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Selangor, Sabah, Sarawak, serta Wilayah Persekutuan Kuala Lumpur, Labuan, dan Putrajaya. Akhir pekan jatuh pada **Sabtu dan Minggu**.
 
-Daftar ini terkini per 2026: hanya Kedah, Kelantan, dan Terengganu yang masih mempertahankan akhir pekan Jumat–Sabtu, sementara Johor telah kembali ke Sabtu–Minggu mulai 1 Januari 2025 dan kini berada dalam Kelompok B.
+Daftar ini terkini per 2027: hanya Kedah, Kelantan, dan Terengganu yang masih mempertahankan akhir pekan Jumat–Sabtu, sementara Johor telah kembali ke Sabtu–Minggu mulai 1 Januari 2025 dan kini berada dalam Kelompok B.
 
-Karena hari istirahat berbeda, tanggal masuk sekolah dan tanggal libur digeser satu hari antara dua kelompok agar jumlah hari belajar tetap seimbang. Itulah sebabnya Kelompok A sering mulai satu hari lebih awal.
+Karena hari istirahat berbeda, tanggal libur semester dan tanggal akhir sesi digeser satu hari antara dua kelompok agar jumlah hari belajar tetap seimbang — libur Kelompok A biasanya mulai satu hari lebih awal daripada Kelompok B. Namun tanggal masuk sekolah tidak selalu digeser: pada 2027 kedua kelompok mulai pada hari yang sama (4 Januari), sedangkan pada 2026 awal sesinya berselang satu hari. Karena itu, selalu periksa kalender tahun bersangkutan.
 
 ## Bagaimana satu sesi persekolahan disusun?
 
 Satu sesi persekolahan mengandung **dua semester**, dipisahkan oleh empat blok libur utama: libur pertengahan semester 1, libur pertengahan tahun, libur pertengahan semester 2, dan libur akhir tahun. Libur pertengahan tahun dan libur akhir tahun adalah blok terpanjang.
 
-Tabel di bawah menggunakan **sesi 2026** sebagai contoh nyata (Surat Siaran KPM Bil. 3 Tahun 2025). Perhatikan pergeseran satu hari antara kelompok.
+Tabel di bawah menggunakan **sesi 2027** sebagai contoh nyata (Kalender Akademik Tahun 2027 KPM). Kedua kelompok mulai pada 4 Januari 2027, tetapi perhatikan pergeseran satu hari pada blok libur dan tanggal akhir sesi.
 
 | Peristiwa | Kelompok A | Kelompok B | Durasi |
 |---|---|---|---|
-| Sekolah mulai | 11 Jan 2026 | 12 Jan 2026 | — |
-| Libur pertengahan semester 1 | 20–28 Maret | 21–29 Maret | 9 hari |
-| Libur pertengahan tahun | 22 Mei – 6 Juni | 23 Mei – 7 Juni | 16 hari |
-| Libur pertengahan semester 2 | 28 Agustus – 5 Sep | 29 Agustus – 6 Sep | 9 hari |
-| Libur akhir tahun | 4–31 Des | 5–31 Des | 27–28 hari |
+| Sekolah mulai | 4 Januari 2027 | 4 Januari 2027 | — |
+| Libur pertengahan semester 1 | 5–13 Maret | 6–14 Maret | 9 hari |
+| Libur pertengahan tahun | 21 Mei – 5 Juni | 22 Mei – 6 Juni | 16 hari |
+| Libur pertengahan semester 2 | 27 Agustus – 4 Sep | 28 Agustus – 5 Sep | 9 hari |
+| Libur akhir tahun | 3–31 Des | 4–31 Des | 28–29 hari |
 
-Tanggal ini khusus untuk 2026 saja. Setiap tahun KPM menerbitkan kalender baru, jadi jangan gunakan tanggal tahun lalu untuk merencanakan tahun ini.
+Sesi berakhir pada **2 Desember 2027** bagi Kelompok A dan **3 Desember 2027** bagi Kelompok B. Tanggal ini khusus untuk 2027 saja. Setiap tahun KPM menerbitkan kalender baru, jadi jangan gunakan tanggal tahun lalu untuk merencanakan tahun ini.
 
 ## Bagaimana libur perayaan masuk ke dalam gambaran?
 
-Libur perayaan seperti Tahun Baru Imlek, Aidilfitri, dan [Deepavali](/id/arts-culture/deepavali) diselaraskan dengan kalender, dan kadang kala tanggal libur semester memang sengaja disejajarkan dengan musim perayaan. Contohnya pada 2026, 1 Syawal jatuh pada Sabtu **21 Maret**, dengan libur umum Aidilfitri mencakup sekitar **20–23 Maret** (tanggal sebenarnya tunduk pada pengumuman resmi dan dapat berbeda menurut negara bagian). Tanggal raya ini jatuh **dalam** periode libur pertengahan semester 1 — bukan sekadar bersebelahan — karena libur semester Kelompok B adalah 21–29 Maret dan Kelompok A 20–28 Maret. Tumpang tindih ini memberi keluarga periode [balik kampung](/id/glossary/balik-kampung) yang lebih panjang.
+Libur perayaan seperti Tahun Baru Imlek, Aidilfitri, dan [Deepavali](/id/arts-culture/deepavali) diselaraskan dengan kalender, dan kadang kala tanggal libur semester memang sengaja disejajarkan dengan musim perayaan. Contohnya pada 2027, 1 Syawal jatuh pada Rabu **10 Maret**, dengan libur umum Aidilfitri **10–11 Maret** (tanggal sebenarnya tunduk pada pengumuman resmi dan dapat berbeda menurut negara bagian). Tanggal raya ini jatuh **dalam** periode libur pertengahan semester 1 — bukan sekadar bersebelahan — karena libur semester Kelompok A adalah 5–13 Maret dan Kelompok B 6–14 Maret, dengan Kelompok A juga mendapat satu hari libur tambahan KPM pada 14 Maret. Tumpang tindih ini memberi keluarga periode [balik kampung](/id/glossary/balik-kampung) yang lebih panjang.
 
 Tetapi ada dua sumber perbedaan antarnegara bagian yang perlu diberi perhatian:
 

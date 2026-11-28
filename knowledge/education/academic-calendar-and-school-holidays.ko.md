@@ -29,7 +29,7 @@ faq:
     a: "공식 학사 일정은 매년 학년도 시작 전에 Surat Siaran KPM과 moe.gov.my 포털을 통해 발표됩니다. 날짜는 매년 바뀌므로 정확한 날짜는 공식 자료를 참고하십시오."
 
 lang: "ko"
-sourceContentHash: "d7bb77ea8047230b"
+sourceContentHash: "9ffb39349f37327f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,33 +38,38 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "2026년 학교용 하리 라야 아이딜피트리 추가 휴일(KPM은 3월 19–20일경 추가 휴일을 보고) — 각 그룹의 정확한 일수를 Surat Siaran KPM Bil. 3 Tahun 2025에 대조하여 확인할 것."
-  - "2026년 주별 아이딜피트리 공휴일(예: 믈라카 3일째, 조호르 3월 24일 추가 휴일) — 각 주의 관보 목록을 확인할 것."
-  - "연말방학 일수(27–28일) — 요약의 계산을 Surat Siaran KPM 공식 본문에 대조하여 확인할 것."
-  - "2026년 일정의 모든 날짜는 KPM 공식 사이트 및 회람을 재수록한 자료에서 가져왔음. 공식 PDF는 자동으로 파싱할 수 없으므로 원본 PDF와 직접 대조하는 것이 좋음."
+  - "2027년 학교용 하리 라야 아이딜피트리 추가 휴일(2차 자료는 그룹 A에 대해 KPM의 3월 14일 추가 휴일을 보고) — 각 그룹의 정확한 일수를 KPM의 공식 2027학년도 학사 일정(Kalendar Akademik Tahun 2027)에 대조하여 확인할 것."
+  - "2027년 주별 아이딜피트리 공휴일(예: 믈라카 3일째 3월 12일) — 각 주의 관보 목록을 확인할 것."
+  - "2027년 방학 블록 날짜(1학기 중간방학, 연중방학, 2학기 중간방학, 연말방학)는 서로 일치하는 2차 자료를 통해 KPM 2027학년도 학사 일정에서 가져왔음. 각 그룹의 정확한 날짜는 moe.gov.my 공식 PDF와 직접 대조하여 확인할 것."
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "KPM 회람 2025년 제3호 — KPM 학교 2026학년도 학사일정 (Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM)"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "KPM 학교 2027학년도 학사일정 (Kalendar Akademik Tahun 2027 bagi Sekolah KPM)"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "말레이시아 교육부(moe.gov.my)"
+    date: "2026-10-02"
+  - title: "KPM, 2027학년도 1월 4일 개학 발표 (KPM Umum Sesi Persekolahan 2027 Bermula 4 Januari)"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "말레이시아 라디오텔레비전(berita.rtm.gov.my)"
+    date: "2026-10-03"
   - title: "2025년: 조호르 주말 휴일 토·일요일로 — 내일 시행되는 새 사항 중 하나 (2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok)"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "국가안보회의(mkn.gov.my)"
   - title: "하리 라야 아이딜피트리 2025, 2026, 2027 — 공휴일 날짜 (Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum)"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "학교 방학 2026 — KPM 학사일정(KPM 회람 2025년 제3호 재수록) (Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025))"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -110,29 +115,29 @@ images:
 - **그룹 A** — 케다(Kedah), 켈란탄(Kelantan), 트렝가누(Terengganu). 주말이 **금요일과 토요일**입니다.
 - **그룹 B** — 조호르(Johor), 믈라카(Melaka), 느그리슴빌란(Negeri Sembilan), 파항(Pahang), 페락(Perak), 페를리스(Perlis), 페낭(Pulau Pinang), 슬랑오르(Selangor), 사바(Sabah), 사라왁(Sarawak), 그리고 쿠알라룸푸르(Kuala Lumpur)·라부안(Labuan)·푸트라자야(Putrajaya) 연방직할구. 주말이 **토요일과 일요일**입니다.
 
-이 목록은 2026년 기준 최신입니다. 케다, 켈란탄, 트렝가누만이 여전히 금요일–토요일 주말을 유지하고 있으며, 조호르는 2025년 1월 1일부터 토요일–일요일로 돌아가 현재 그룹 B에 속합니다.
+이 목록은 2027년 기준 최신입니다. 케다, 켈란탄, 트렝가누만이 여전히 금요일–토요일 주말을 유지하고 있으며, 조호르는 2025년 1월 1일부터 토요일–일요일로 돌아가 현재 그룹 B에 속합니다.
 
-휴무일이 다르기 때문에 개학일과 방학일이 두 그룹 사이에서 하루씩 조정되어 총 수업일수가 균형을 이루도록 합니다. 그래서 그룹 A가 종종 하루 먼저 시작합니다.
+휴무일이 다르기 때문에 학기 방학일과 학년도 종료일이 두 그룹 사이에서 하루씩 조정되어 총 수업일수가 균형을 이루도록 합니다. 그룹 A의 방학은 보통 그룹 B보다 하루 먼저 시작합니다. 다만 개학일은 반드시 하루씩 어긋나는 것은 아닙니다. 2027년에는 두 그룹 모두 같은 날(1월 4일)에 개학하지만, 2026년에는 개학일이 하루 차이로 어긋났습니다. 그러므로 해당 학년도의 학사 일정을 항상 확인하십시오.
 
 ## 한 학년도는 어떻게 구성됩니까?
 
 한 학년도는 **두 학기**로 구성되며, 네 개의 주요 방학 기간으로 구분됩니다. 즉 1학기 중간방학, 연중방학, 2학기 중간방학, 그리고 연말방학입니다. 연중방학과 연말방학이 가장 긴 기간입니다.
 
-아래 표는 실제 사례로 **2026학년도**를 사용합니다(Surat Siaran KPM Bil. 3 Tahun 2025). 그룹 간 하루 차이에 유의하십시오.
+아래 표는 실제 사례로 **2027학년도**를 사용합니다(KPM 2027학년도 학사 일정, Kalendar Akademik Tahun 2027). 두 그룹 모두 2027년 1월 4일에 개학하지만, 방학 블록과 학년도 종료일에서 나타나는 하루 차이에 유의하십시오.
 
 | 행사 | 그룹 A | 그룹 B | 기간 |
 |---|---|---|---|
-| 개학 | 2026년 1월 11일 | 2026년 1월 12일 | — |
-| 1학기 중간방학 | 3월 20–28일 | 3월 21–29일 | 9일 |
-| 연중방학 | 5월 22일–6월 6일 | 5월 23일–6월 7일 | 16일 |
-| 2학기 중간방학 | 8월 28일–9월 5일 | 8월 29일–9월 6일 | 9일 |
-| 연말방학 | 12월 4–31일 | 12월 5–31일 | 27–28일 |
+| 개학 | 2027년 1월 4일 | 2027년 1월 4일 | — |
+| 1학기 중간방학 | 3월 5–13일 | 3월 6–14일 | 9일 |
+| 연중방학 | 5월 21일–6월 5일 | 5월 22일–6월 6일 | 16일 |
+| 2학기 중간방학 | 8월 27일–9월 4일 | 8월 28일–9월 5일 | 9일 |
+| 연말방학 | 12월 3–31일 | 12월 4–31일 | 28–29일 |
 
-이 날짜는 2026년에만 해당됩니다. KPM은 매년 새 학사 일정을 발표하므로 올해를 계획할 때 지난해 날짜를 사용하지 마십시오.
+학년도는 그룹 A의 경우 **2027년 12월 2일**, 그룹 B의 경우 **2027년 12월 3일**에 끝납니다. 이 날짜는 2027년에만 해당됩니다. KPM은 매년 새 학사 일정을 발표하므로 올해를 계획할 때 지난해 날짜를 사용하지 마십시오.
 
 ## 명절 휴일은 어떻게 반영됩니까?
 
-설날(춘절), 하리 라야 아이딜피트리(Hari Raya Aidilfitri), [디파발리](/arts-culture/deepavali) 같은 명절 휴일은 학사 일정에 맞춰 조정되며, 때로는 학기 방학 날짜가 의도적으로 명절 시즌에 맞추어지기도 합니다. 예를 들어 2026년에는 샤왈(Syawal) 1일이 토요일 **3월 21일**에 해당하고, 아이딜피트리 공휴일은 대략 **3월 20–23일**에 걸쳐 있습니다(실제 날짜는 공식 발표에 따르며 주별로 다를 수 있습니다). 이 명절 날짜는 단순히 인접한 것이 아니라 1학기 중간방학 기간 **안에** 들어갑니다. 그룹 B의 학기 방학이 3월 21–29일이고 그룹 A가 3월 20–28일이기 때문입니다. 이 겹침 덕분에 가족은 더 긴 [발릭 캄풍(귀향)](/glossary/balik-kampung) 기간을 누립니다.
+설날(춘절), 하리 라야 아이딜피트리(Hari Raya Aidilfitri), [디파발리](/arts-culture/deepavali) 같은 명절 휴일은 학사 일정에 맞춰 조정되며, 때로는 학기 방학 날짜가 의도적으로 명절 시즌에 맞추어지기도 합니다. 예를 들어 2027년에는 샤왈(Syawal) 1일이 수요일 **3월 10일**에 해당하고, 아이딜피트리 공휴일은 **3월 10–11일**입니다(실제 날짜는 공식 발표에 따르며 주별로 다를 수 있습니다). 이 명절 날짜는 단순히 인접한 것이 아니라 1학기 중간방학 기간 **안에** 들어갑니다. 그룹 A의 학기 방학이 3월 5–13일이고 그룹 B가 3월 6–14일이며, 그룹 A는 3월 14일에 KPM 추가 휴일 하루를 더 받기 때문입니다. 이 겹침 덕분에 가족은 더 긴 [발릭 캄풍(귀향)](/glossary/balik-kampung) 기간을 누립니다.
 
 그러나 주목해야 할, 주별 차이의 두 가지 원인이 있습니다.
 

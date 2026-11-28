@@ -29,7 +29,7 @@ faq:
     a: "官方校历每年在学年开始前通过教育部通函（Surat Siaran KPM）及门户网站 moe.gov.my 发布。由于日期每年都会变动，请以官方来源为准以取得准确日期。"
 
 lang: "zh"
-sourceContentHash: "d7bb77ea8047230b"
+sourceContentHash: "9ffb39349f37327f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,33 +38,38 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "2026 年学校开斋节（Hari Raya Aidilfitri）额外假期的日期（KPM 报告额外假期约在 3 月 19–20 日）——请对照 Surat Siaran KPM Bil. 3 Tahun 2025 核实每一组别的确切天数。"
-  - "2026 年各州特有的开斋节公共假期（例如马六甲的第三天、柔佛 3 月 24 日的额外假日）——请核实各州的宪报清单。"
-  - "年终假期的天数（27–28天）——须对照KPM Surat Siaran官方文本核对汇总的计算。"
-  - "所有2026年时间表日期均取自KPM官方网站及转述该通告的来源；官方PDF无法自动解析，因此最好以肉眼对照原始PDF核对。"
+  - "2027 年学校开斋节（Hari Raya Aidilfitri）额外假期的日期（次要来源报告 KPM 于 3 月 14 日为 A 组安排额外假期）——请对照教育部（KPM）官方 2027 学年校历（Kalendar Akademik Tahun 2027）核实每一组别的确切天数。"
+  - "2027 年各州特有的开斋节公共假期（例如马六甲 3 月 12 日的第三天）——请核实各州的宪报清单。"
+  - "2027 年各假期时段的日期（第一学期期中假、年中假、第二学期期中假、年终假）取自教育部 2027 学年校历（经相互一致的次要来源转述）；请以肉眼对照 moe.gov.my 原始 PDF 核对每一组别的确切日期。"
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "教育部通函2025年第3号——2026学年教育部学校学历 (Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM)"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "2027学年教育部学校校历 (Kalendar Akademik Tahun 2027 bagi Sekolah KPM)"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "马来西亚教育部（moe.gov.my）"
+    date: "2026-10-02"
+  - title: "教育部宣布2027学年于1月4日开课 (KPM Umum Sesi Persekolahan 2027 Bermula 4 Januari)"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "马来西亚广播电视台（berita.rtm.gov.my）"
+    date: "2026-10-03"
   - title: "2025年：柔佛周末假期改为周六、周日——明日生效的新事项之一 (2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok)"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "国家安全理事会（mkn.gov.my）"
   - title: "2025、2026及2027年开斋节——公共假期日期 (Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum)"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "2026年学校假期——教育部学历（重述教育部通函2025年第3号） (Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025))"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -110,29 +115,29 @@ images:
 - **A 组** —— 吉打、吉兰丹和登嘉楼。周末为**星期五和星期六**。
 - **B 组** —— 柔佛、马六甲、森美兰、彭亨、霹雳、玻璃市、槟城、雪兰莪、沙巴、砂拉越，以及联邦直辖区吉隆坡、纳闽和布城。周末为**星期六和星期日**。
 
-这份名单截至 2026 年为最新：目前只有吉打、吉兰丹和登嘉楼仍保留星期五至星期六的周末，而柔佛已于 2025 年 1 月 1 日起改回星期六至星期日，如今归入 B 组。
+这份名单截至 2027 年为最新：目前只有吉打、吉兰丹和登嘉楼仍保留星期五至星期六的周末，而柔佛已于 2025 年 1 月 1 日起改回星期六至星期日，如今归入 B 组。
 
-由于休息日不同，两组的开学日期与假期日期相差一天，以保持上课天数均衡。这就是为什么 A 组往往会提早一天开学。
+由于休息日不同，两组的学期假期日期与学年结束日期相差一天，以保持上课天数均衡——A 组的假期通常比 B 组提早一天开始。不过开学日期未必错开：2027 年两组都在同一天（1 月 4 日）开学，而 2026 年的开学日期则相差一天。因此，务必查阅相关学年的校历。
 
 ## 一个学年是如何安排的？
 
 一个学年包含**两个学期**，由四个主要假期时段分隔：第一学期期中假、年中假、第二学期期中假与年终假。年中假和年终假是最长的两个时段。
 
-下表以 **2026 学年**为实际例子（教育部 2025 年第 3 号通函，Surat Siaran KPM Bil. 3 Tahun 2025）。请留意两组之间相差一天的错开。
+下表以 **2027 学年**为实际例子（教育部 2027 学年校历，Kalendar Akademik Tahun 2027 KPM）。两组都在 2027 年 1 月 4 日开学，但请留意假期时段与学年结束日期上相差一天的错开。
 
 | 事项 | A 组 | B 组 | 时长 |
 |---|---|---|---|
-| 开学 | 2026 年 1 月 11 日 | 2026 年 1 月 12 日 | — |
-| 第一学期期中假 | 3 月 20–28 日 | 3 月 21–29 日 | 9 天 |
-| 年中假 | 5 月 22 日 – 6 月 6 日 | 5 月 23 日 – 6 月 7 日 | 16 天 |
-| 第二学期期中假 | 8 月 28 日 – 9 月 5 日 | 8 月 29 日 – 9 月 6 日 | 9 天 |
-| 年终假 | 12 月 4–31 日 | 12 月 5–31 日 | 27–28 天 |
+| 开学 | 2027 年 1 月 4 日 | 2027 年 1 月 4 日 | — |
+| 第一学期期中假 | 3 月 5–13 日 | 3 月 6–14 日 | 9 天 |
+| 年中假 | 5 月 21 日 – 6 月 5 日 | 5 月 22 日 – 6 月 6 日 | 16 天 |
+| 第二学期期中假 | 8 月 27 日 – 9 月 4 日 | 8 月 28 日 – 9 月 5 日 | 9 天 |
+| 年终假 | 12 月 3–31 日 | 12 月 4–31 日 | 28–29 天 |
 
-这些日期仅适用于 2026 年。教育部每年都会发布新的校历，因此切勿用去年的日期来规划今年。
+A 组的学年于 **2027 年 12 月 2 日**结束，B 组则于 **2027 年 12 月 3 日**结束。这些日期仅适用于 2027 年。教育部每年都会发布新的校历，因此切勿用去年的日期来规划今年。
 
 ## 节庆假期是如何融入其中的？
 
-农历新年、开斋节和[屠妖节](/arts-culture/deepavali)等节庆假期会与校历相协调，有时学期假期的日期确实是刻意与节庆时节对齐的。例如在 2026 年，开斋节第一天（1 Syawal，1 沙瓦尔）落在星期六 **3 月 21 日**，开斋节公共假期大约涵盖 **3 月 20–23 日**（实际日期取决于官方公布，并可能因州而异）。这个开斋节的日期落在第一学期期中假**期间**——而不仅仅是相邻——因为 B 组的学期假为 3 月 21–29 日，A 组为 3 月 20–28 日。这种重叠让家庭有更长的[回乡](/glossary/balik-kampung)时间。
+农历新年、开斋节和[屠妖节](/arts-culture/deepavali)等节庆假期会与校历相协调，有时学期假期的日期确实是刻意与节庆时节对齐的。例如在 2027 年，开斋节第一天（1 Syawal，1 沙瓦尔）落在星期三 **3 月 10 日**，开斋节公共假期为 **3 月 10–11 日**（实际日期取决于官方公布，并可能因州而异）。这个开斋节的日期落在第一学期期中假**期间**——而不仅仅是相邻——因为 A 组的学期假为 3 月 5–13 日，B 组为 3 月 6–14 日，其中 A 组还另获教育部于 3 月 14 日安排的一天额外假期。这种重叠让家庭有更长的[回乡](/glossary/balik-kampung)时间。
 
 不过有两个造成各州差异的因素需要留意：
 

@@ -31,40 +31,45 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7bb77ea8047230b"
+sourceContentHash: "9ffb39349f37327f"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-08
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 example term calendar with the KPM 2027 academic calendar (both groups start 4 January 2027; Kumpulan A ends 2 December, Kumpulan B 3 December; four 2027 holiday blocks per group). Corrected the start-date framing — in 2027 both groups begin on the same day, so the one-day stagger now shows in the term breaks and end-of-session dates, not the start. Refreshed the Aidilfitri-overlap example to 2027 and the sources. Group structure is unchanged."
+    reviewer: null
 
 verificationNeeded:
-  - "2026年のハリラヤ・アイディルフィトリに伴う学校の追加休暇の日付（KPMは3月19〜20日頃の追加休暇を報告している）——各グループの正確な日数をSurat Siaran KPM Bil. 3 Tahun 2025に照らして確認すること。"
-  - "2026年の州別ハリラヤ・アイディルフィトリの祝日（例：マラッカの3日目、ジョホールの3月24日の追加日）——各州の官報リストを確認すること。"
-  - "学年末休暇の日数（27〜28日間）——集計の照合をSurat Siaran KPMの公式テキストに対して確認すること。"
-  - "2026年の表中の日付はすべてKPMの公式サイトおよび通達を転載する情報源から取得したものであり、公式PDFは自動解析できなかったため、原本のPDFと目視で照合することが望ましい。"
+  - "2027年のハリラヤ・アイディルフィトリに伴う学校の追加休暇の日付（二次情報源はAグループ向けの3月14日のKPM追加休暇を報告している）——各グループの正確な日数をKPM学年暦2027年版の公式テキストに照らして確認すること。"
+  - "2027年の州別ハリラヤ・アイディルフィトリの祝日（例：マラッカの3日目の3月12日）——各州の官報リストを確認すること。"
+  - "2027年の休暇ブロックの日付（第1学期休暇、年中休暇、第2学期休暇、学年末休暇）は整合する二次情報源を通じてKPM学年暦2027年版から取得したものであり、各グループの正確な日付をmoe.gov.myの公式PDFに照らして目視で照合すること。"
 
-updated: 2026-08-08
+updated: 2026-11-28
 sources:
-  - title: "KPM通達2025年第3号——KPM学校の2026年度学年暦 (Surat Siaran KPM Bil. 3 Tahun 2025 — Kalendar Akademik Tahun 2026 bagi Sekolah KPM)"
-    url: "https://www.moe.gov.my/surat-siaran-kpm-bil-3-tahun-2025-kalendar-akademi"
+  - title: "KPM学校の2027年度学年暦 (Kalendar Akademik Tahun 2027 bagi Sekolah KPM)"
+    url: "https://www.moe.gov.my/kalendar-akademik-semasa"
     publisher: "マレーシア教育省（moe.gov.my）"
+    date: "2026-10-02"
+  - title: "KPM、2027年度学校セッションは1月4日開始と発表 (KPM Umum Sesi Persekolahan 2027 Bermula 4 Januari)"
+    url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/"
+    publisher: "マレーシア放送局（berita.rtm.gov.my）"
+    date: "2026-10-03"
   - title: "2025年：ジョホール州の週末休日が土・日に——明日施行の新事項の一つ (2025: Johor Cuti Hujung Minggu Sabtu, Ahad — Antara Perkara Baharu Berkuat Kuasa Esok)"
     url: "https://www.mkn.gov.my/web/ms/2024/12/31/2025-johor-cuti-hujung-minggu-sabtu-ahad-antara-perkara-baharu-berkuat-kuasa-esok/"
     publisher: "国家安全保障評議会（mkn.gov.my）"
   - title: "ハリ・ラヤ・アイディルフィトリ2025年、2026年、2027年——祝日の日付 (Hari Raya Aidilfitri 2025, 2026 dan 2027 — Tarikh Cuti Umum)"
     url: "https://publicholidays.com.my/ms/hari-raya-aidilfitri/"
     publisher: "PublicHolidays.com.my"
-  - title: "学校休暇2026——KPM学年暦（KPM通達2025年第3号の再掲） (Cuti Sekolah 2026 — Takwim Akademik KPM (mengulang semula Surat Siaran KPM Bil. 3 Tahun 2025))"
-    url: "https://ecentral.my/cuti-sekolah-2026/"
-    publisher: "eCentral"
 
 entity: "Takwim Persekolahan KPM"
 relations:
@@ -110,29 +115,29 @@ images:
 - **Aグループ州** —— ケダ、クランタン、トレンガヌ。週末は**金曜日と土曜日**。
 - **Bグループ州** —— ジョホール、マラッカ、ヌグリ・スンビラン、パハン、ペラ、パーリス、ペナン、セランゴール、サバ、サラワク、および連邦直轄区のクアラルンプール、ラブアン、プトラジャヤ。週末は**土曜日と日曜日**。
 
-このリストは2026年時点で最新のものである。金曜日〜土曜日の週末を維持しているのはケダ、クランタン、トレンガヌの3州のみで、ジョホールは2025年1月1日付で土曜日〜日曜日に戻り、現在はBグループに属している。
+このリストは2027年時点で最新のものである。金曜日〜土曜日の週末を維持しているのはケダ、クランタン、トレンガヌの3州のみで、ジョホールは2025年1月1日付で土曜日〜日曜日に戻り、現在はBグループに属している。
 
-休日が異なるため、開学日と休暇日は2つのグループ間で1日ずつずらされており、授業日数の合計が均衡するようになっている。そのため、Aグループはしばしば1日早く新学期を迎える。
+休日が異なるため、学期休暇と学年末の日付は2つのグループ間で1日ずつずらされており、授業日数の合計が均衡するようになっている——Aグループの休暇は通常、Bグループより1日早く始まる。一方、開学日は必ずしもずらされるわけではない。2027年には両グループが同じ日（1月4日）に始まるが、2026年には開始日が1日ずれていた。そのため、該当年の学年暦を必ず確認すること。
 
 ## 1学年はどのように構成されているのか？
 
 1学年は**2つの学期**からなり、4つの主要な休暇期間——第1学期中休暇、年中休暇、第2学期中休暇、学年末休暇——によって区切られている。年中休暇と学年末休暇が最も長い期間である。
 
-以下の表は、**2026年学年**を実例として使用している（Surat Siaran KPM Bil. 3 Tahun 2025、教育省通達）。グループ間の1日のずれに注目してほしい。
+以下の表は、**2027年学年**を実例として使用している（KPM学年暦2027年版）。両グループとも2027年1月4日に始まるが、休暇ブロックと学年末の日付における1日のずれに注目してほしい。
 
 | 事項 | Aグループ | Bグループ | 期間 |
 |---|---|---|---|
-| 新学期開始 | 2026年1月11日 | 2026年1月12日 | — |
-| 第1学期中休暇 | 3月20〜28日 | 3月21〜29日 | 9日間 |
-| 年中休暇 | 5月22日〜6月6日 | 5月23日〜6月7日 | 16日間 |
-| 第2学期中休暇 | 8月28日〜9月5日 | 8月29日〜9月6日 | 9日間 |
-| 学年末休暇 | 12月4〜31日 | 12月5〜31日 | 27〜28日間 |
+| 新学期開始 | 2027年1月4日 | 2027年1月4日 | — |
+| 第1学期中休暇 | 3月5〜13日 | 3月6〜14日 | 9日間 |
+| 年中休暇 | 5月21日〜6月5日 | 5月22日〜6月6日 | 16日間 |
+| 第2学期中休暇 | 8月27日〜9月4日 | 8月28日〜9月5日 | 9日間 |
+| 学年末休暇 | 12月3〜31日 | 12月4〜31日 | 28〜29日間 |
 
-これらの日付は2026年限定のものである。KPMは毎年新しい学年暦を発表するため、今年の計画に昨年の日付を使用しないこと。
+学年はAグループが**2027年12月2日**、Bグループが**2027年12月3日**に終了する。これらの日付は2027年限定のものである。KPMは毎年新しい学年暦を発表するため、今年の計画に昨年の日付を使用しないこと。
 
 ## 祝祭日の休暇はどう組み込まれているのか？
 
-旧正月（春節）、ハリラヤ・アイディルフィトリ、[ディーパバリ](/arts-culture/deepavali)などの祝祭日の休暇は学年暦と調整されており、学期休暇の日程が意図的に祝祭シーズンに合わせられていることもある。例えば2026年には、シャワル月1日が土曜日の**3月21日**にあたり、ハリラヤ・アイディルフィトリの祝日はおおむね**3月20〜23日**をカバーする（実際の日付は公式発表に基づくため、州によって異なる場合がある）。このハリラヤの日程は、第1学期中休暇の期間に単に隣接しているのではなく、その**期間内**に収まっている。Bグループの学期休暇が3月21〜29日、Aグループが3月20〜28日だからである。この重なりにより、家族は[バリッ・カンポン（帰省）](/glossary/balik-kampung)により長い期間を確保できる。
+旧正月（春節）、ハリラヤ・アイディルフィトリ、[ディーパバリ](/arts-culture/deepavali)などの祝祭日の休暇は学年暦と調整されており、学期休暇の日程が意図的に祝祭シーズンに合わせられていることもある。例えば2027年には、シャワル月1日が水曜日の**3月10日**にあたり、ハリラヤ・アイディルフィトリの祝日は**3月10〜11日**である（実際の日付は公式発表に基づくため、州によって異なる場合がある）。このハリラヤの日程は、第1学期中休暇の期間に単に隣接しているのではなく、その**期間内**に収まっている。Aグループの学期休暇が3月5〜13日、Bグループが3月6〜14日であり、さらにAグループは3月14日にKPMの追加休暇を1日得るからである。この重なりにより、家族は[バリッ・カンポン（帰省）](/glossary/balik-kampung)により長い期間を確保できる。
 
 ただし、州ごとの違いを生む2つの要因に注意が必要である。
 
