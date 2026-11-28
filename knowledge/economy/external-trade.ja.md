@@ -10,39 +10,47 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "マレーシアは2026年9月、輸出RM2,151億、輸入RM1,814億を記録し、貿易黒字RM337億となった——貿易総額はRM3,965億（マレーシア統計局（DOSM）、2026年10月19日発表）。マレーシアは数十年にわたり継続的な貿易黒字を維持してきた。輸出の約25%は再輸出であり、マレーシアで生産されたものではなく、マレーシアを経由した貨物である。"
+answer: "マレーシアは2026年10月、輸出RM2,392億、輸入RM1,974億を記録し、貿易黒字RM418億となった——貿易総額はRM4,366億（マレーシア統計局（DOSM）、2026年11月20日発表）。マレーシアは数十年にわたり継続的な貿易黒字を維持してきた。輸出の約27%は再輸出であり、マレーシアで生産されたものではなく、マレーシアを経由した貨物である。"
 keyTakeaways:
-  - "2026年9月：輸出RM2,151億、輸入RM1,814億、黒字RM337億"
-  - "貿易総額はRM3,965億——月次GDPを上回るが、これは貿易が総流通額を計上するためである"
-  - "再輸出はRM531億で、全輸出の24.7%を占める——現地で生産されたものではなく、経由しただけの貨物である"
-  - "国内輸出（実際にマレーシアで生産されたもの）はRM1,620億で、全体の75.3%を占める"
+  - "2026年10月：輸出RM2,392億、輸入RM1,974億、黒字RM418億"
+  - "貿易総額はRM4,366億——月次GDPを上回るが、これは貿易が総流通額を計上するためである"
+  - "再輸出はRM641億で、全輸出の26.8%を占める——現地で生産されたものではなく、経由しただけの貨物である"
+  - "国内輸出（実際にマレーシアで生産されたもの）はRM1,751億で、全体の73.2%を占める"
   - "DOSMは対外貿易統計を毎月、月末から約3週間後に発表している"
 appliesTo: "マレーシアの貿易関連ニュースを読むすべての人——輸出業者、輸入業者、投資家、アナリスト向け。"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4ef299128a9a303"
+sourceContentHash: "4f1db657a2664819"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 external-trade figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 external-trade figures (exports RM239.2bn +61.1%, imports RM197.4bn +54.4%, total trade RM436.6bn +58.0%, surplus RM41.8bn +103.4%; domestic exports RM175.1bn/73.2%, re-exports RM64.1bn/26.8%; cumulative Jan-Oct trade +33.2%, exports +37.1%; released 20 November 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "月次対外貿易統計、2026年9月 (Monthly External Trade Statistics, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
+  - title: "月次対外貿易統計、2026年10月 (Monthly External Trade Statistics, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026"
     publisher: "マレーシア統計局 (DOSM)"
-    date: "2026-10-19"
+    date: "2026-11-20"
   - title: "州別輸出入統計、2026年5月 (Export Import Statistics by State, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
     publisher: "マレーシア統計局 (DOSM)"
@@ -61,24 +69,24 @@ framework: data-reference
 
 ## 一覧
 
-| 指標 | 2026年9月 | 前年同月比 | 出典 |
+| 指標 | 2026年10月 | 前年同月比 | 出典 |
 | --- | --- | --- | --- |
-| 輸出総額 | RM2,151億 | +54.5% | DOSM |
-| 輸入総額 | RM1,814億 | +52.7% | DOSM |
-| 貿易総額 | RM3,965億 | +53.7% | DOSM |
-| **貿易黒字** | **RM337億** | +64.9% | DOSM |
-| 国内輸出 | RM1,620億（75.3%） | +54.7% | DOSM |
-| 再輸出 | RM531億（24.7%） | +53.7% | DOSM |
+| 輸出総額 | RM2,392億 | +61.1% | DOSM |
+| 輸入総額 | RM1,974億 | +54.4% | DOSM |
+| 貿易総額 | RM4,366億 | +58.0% | DOSM |
+| **貿易黒字** | **RM418億** | +103.4% | DOSM |
+| 国内輸出 | RM1,751億（73.2%） | +60.3% | DOSM |
+| 再輸出 | RM641億（26.8%） | +63.6% | DOSM |
 
-*2026年10月19日発表。2026年1月から9月にかけて、貿易総額は累計30.1%、輸出は累計34.0%増加した。*
+*2026年11月20日発表。2026年1月から10月にかけて、貿易総額は累計33.2%、輸出は累計37.1%増加した。*
 
 ## 黒字は引き算の結果であり、独立した数字ではない
 
 貿易報道を読む際に最もよくある誤りは、黒字をそれ自体で独立した大きな数字として捉えてしまうことである。実際はそうではない——黒字は単に輸出から輸入を差し引いたものにすぎない。
 
-> RM2,151億 − RM1,814億 = **RM337億**
+> RM2,392億 − RM1,974億 = **RM418億**
 
-これが重要なのは、両者の金額が大きく、その差が小さいためである。54.5%の輸出急増は劇的に聞こえるが、同時期に輸入も52.7%増加しており、追加の輸出収入の大半は追加の輸入に費やされたことになる。黒字——約RM4,000億の総流通額に対するRM337億——は、どちらの側よりもはるかに小さくしか動かなかった。
+これが重要なのは、両者の金額が大きく、その差が小さいためである。61.1%の輸出急増は劇的に聞こえるが、同時期に輸入も54.4%増加しており、追加の輸出収入の大半は追加の輸入に費やされたことになる。黒字——RM4,300億を超える総流通額に対するRM418億——は、どちらの側よりもはるかに小さくしか動かなかった。
 
 これはまた、黒字が**構造的に変動しやすい**ことも意味する。大きく近い値同士を差し引くと、どちらか一方のわずかな変動率でも結果は大きく振れる。だからこそ黒字は、輸出や輸入そのものよりも、月ごとにはるかに大きく振れることがある。
 
@@ -86,10 +94,10 @@ framework: data-reference
 
 DOSMは輸出を、性質の大きく異なる2つの区分に分けている。
 
-- **国内輸出**——RM1,620億、実際にマレーシアで生産された貨物。
-- **再輸出**——RM531億、輸入後にほとんど、あるいはまったく加工されないまま転送された貨物。
+- **国内輸出**——RM1,751億、実際にマレーシアで生産された貨物。
+- **再輸出**——RM641億、輸入後にほとんど、あるいはまったく加工されないまま転送された貨物。
 
-再輸出は2026年9月の輸出総額の**24.7%**を占めた。これは輸出額と輸入額の両方を同時に押し上げるものであり、マレーシアが製造国としての役割だけでなく、貿易・物流のハブ——ポートクラン、ペナン、ジョホール——としての役割を担っていることを反映している。
+再輸出は2026年10月の輸出総額の**26.8%**を占めた。これは輸出額と輸入額の両方を同時に押し上げるものであり、マレーシアが製造国としての役割だけでなく、貿易・物流のハブ——ポートクラン、ペナン、ジョホール——としての役割を担っていることを反映している。
 
 **実用的な目安：**マレーシアが何を*生産*しているかを知りたい場合は国内輸出を、マレーシアを何が*通過*しているかを知りたい場合は輸出総額を見るとよい。
 
@@ -115,4 +123,4 @@ RM90相当の輸入チップが組み立てられ、RM100で輸出される機�
 - 生産と構成：[マレーシアGDP概観](/ja/economy/gdp-overview)
 - 主要輸出セクター：[マレーシアのパーム油産業](/ja/economy/palm-oil-sector)
 - 一次情報源：
-  [DOSM月次対外貿易統計](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026)
+  [DOSM月次対外貿易統計](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026)

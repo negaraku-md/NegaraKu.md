@@ -11,12 +11,12 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia recorded exports of RM215.1 billion and imports of RM181.4 billion in September 2026, giving a trade surplus of RM33.7 billion — total trade of RM396.5 billion (DOSM, released 19 October 2026). Malaysia has run a persistent trade surplus for decades. About 25% of exports are re-exports: goods that passed through Malaysia rather than being made there."
+answer: "Malaysia recorded exports of RM239.2 billion and imports of RM197.4 billion in October 2026, giving a trade surplus of RM41.8 billion — total trade of RM436.6 billion (DOSM, released 20 November 2026). Malaysia has run a persistent trade surplus for decades. About 27% of exports are re-exports: goods that passed through Malaysia rather than being made there."
 keyTakeaways:
-  - "September 2026: exports RM215.1bn, imports RM181.4bn, surplus RM33.7bn"
-  - "Total trade was RM396.5bn — larger than monthly GDP, because trade counts gross flows"
-  - "Re-exports were RM53.1bn, 24.7% of all exports — goods routed through, not produced here"
-  - "Domestic exports (actually made in Malaysia) were RM162.0bn, 75.3% of the total"
+  - "October 2026: exports RM239.2bn, imports RM197.4bn, surplus RM41.8bn"
+  - "Total trade was RM436.6bn — larger than monthly GDP, because trade counts gross flows"
+  - "Re-exports were RM64.1bn, 26.8% of all exports — goods routed through, not produced here"
+  - "Domestic exports (actually made in Malaysia) were RM175.1bn, 73.2% of the total"
   - "DOSM publishes external trade monthly, about three weeks after the month ends"
 appliesTo: "Anyone reading Malaysian trade headlines — exporters, importers, investors and analysts."
 
@@ -30,7 +30,7 @@ reviewer: null
 reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-04-25
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
@@ -40,14 +40,18 @@ revisions:
     date: 2026-10-25
     change: "Review-due refresh: updated to DOSM September 2026 external-trade figures."
     reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 external-trade figures (exports RM239.2bn +61.1%, imports RM197.4bn +54.4%, total trade RM436.6bn +58.0%, surplus RM41.8bn +103.4%; domestic exports RM175.1bn/73.2%, re-exports RM64.1bn/26.8%; cumulative Jan-Oct trade +33.2%, exports +37.1%; released 20 November 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-25
+updated: 2026-11-28
 sources:
-  - title: "Monthly External Trade Statistics, September 2026"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
+  - title: "Monthly External Trade Statistics, October 2026"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026"
     publisher: "DOSM"
-    date: "2026-10-19"
+    date: "2026-11-20"
   - title: "Export Import Statistics by State, May 2026"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
     publisher: "DOSM"
@@ -66,29 +70,29 @@ framework: data-reference
 
 ## At a glance
 
-| Metric | September 2026 | Y-o-Y change | Source |
+| Metric | October 2026 | Y-o-Y change | Source |
 | --- | --- | --- | --- |
-| Total exports | RM215.1 billion | +54.5% | DOSM |
-| Total imports | RM181.4 billion | +52.7% | DOSM |
-| Total trade | RM396.5 billion | +53.7% | DOSM |
-| **Trade surplus** | **RM33.7 billion** | +64.9% | DOSM |
-| Domestic exports | RM162.0 billion (75.3%) | +54.7% | DOSM |
-| Re-exports | RM53.1 billion (24.7%) | +53.7% | DOSM |
+| Total exports | RM239.2 billion | +61.1% | DOSM |
+| Total imports | RM197.4 billion | +54.4% | DOSM |
+| Total trade | RM436.6 billion | +58.0% | DOSM |
+| **Trade surplus** | **RM41.8 billion** | +103.4% | DOSM |
+| Domestic exports | RM175.1 billion (73.2%) | +60.3% | DOSM |
+| Re-exports | RM64.1 billion (26.8%) | +63.6% | DOSM |
 
-*Released 19 October 2026. Over January–September 2026, total trade grew 30.1% and
-exports 34.0% cumulatively.*
+*Released 20 November 2026. Over January–October 2026, total trade grew 33.2% and
+exports 37.1% cumulatively.*
 
 ## The surplus is a subtraction, not a headline
 
 The most common error in reading trade coverage is treating the surplus as its
 own big number. It isn't — it is simply exports minus imports:
 
-> RM215.1bn − RM181.4bn = **RM33.7bn**
+> RM239.2bn − RM197.4bn = **RM41.8bn**
 
 That matters because the two sides are large and the gap between them is small.
-A 54.5% export surge sounds transformative, but imports rose 52.7% at the same
+A 61.1% export surge sounds transformative, but imports rose 54.4% at the same
 time, so most of the extra export earnings were spent on extra imports. The
-surplus — RM33.7 billion against gross flows of nearly RM400 billion — moved far
+surplus — RM41.8 billion against gross flows of over RM430 billion — moved far
 less than either side.
 
 It also means the surplus is **volatile by construction**. When you subtract two
@@ -100,11 +104,11 @@ than exports or imports do on their own.
 
 DOSM splits exports into two very different things:
 
-- **Domestic exports** — RM162.0 billion, goods actually produced in Malaysia.
-- **Re-exports** — RM53.1 billion, goods imported and then shipped onward, with
+- **Domestic exports** — RM175.1 billion, goods actually produced in Malaysia.
+- **Re-exports** — RM64.1 billion, goods imported and then shipped onward, with
   little or no transformation.
 
-Re-exports were **24.7% of total exports** in September 2026. They inflate both the
+Re-exports were **26.8% of total exports** in October 2026. They inflate both the
 export and import figures simultaneously, and they reflect Malaysia's role as a
 trading and logistics hub — Port Klang, Penang, Johor — as much as its role as a
 manufacturer.
@@ -142,4 +146,4 @@ described as one of the world's most trade-exposed economies.
 - Output and composition: [Malaysia GDP Overview](/en/economy/gdp-overview)
 - A major export sector: [Malaysia's Palm Oil Sector](/en/economy/palm-oil-sector)
 - Primary source:
-  [DOSM Monthly External Trade Statistics](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026)
+  [DOSM Monthly External Trade Statistics](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026)

@@ -11,17 +11,17 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malasia registró exportaciones por RM215.1 mil millones e importaciones por RM181.4 mil millones en septiembre de 2026, lo que dio un superávit comercial de RM33.7 mil millones — un comercio total de RM396.5 mil millones (DOSM, publicado el 19 de octubre de 2026). Malasia ha mantenido un superávit comercial persistente durante décadas. Alrededor del 25% de las exportaciones son reexportaciones: bienes que pasaron a través de Malasia en lugar de haberse fabricado allí."
+answer: "Malasia registró exportaciones por RM239.2 mil millones e importaciones por RM197.4 mil millones en octubre de 2026, lo que dio un superávit comercial de RM41.8 mil millones — un comercio total de RM436.6 mil millones (DOSM, publicado el 20 de noviembre de 2026). Malasia ha mantenido un superávit comercial persistente durante décadas. Alrededor del 27% de las exportaciones son reexportaciones: bienes que pasaron a través de Malasia en lugar de haberse fabricado allí."
 keyTakeaways:
-  - "Septiembre de 2026: exportaciones RM215.1 mil millones, importaciones RM181.4 mil millones, superávit RM33.7 mil millones"
-  - "El comercio total fue de RM396.5 mil millones — mayor que el PIB mensual, porque el comercio cuenta flujos brutos"
-  - "Las reexportaciones fueron de RM53.1 mil millones, el 24.7% de todas las exportaciones — bienes encaminados a través, no producidos aquí"
-  - "Las exportaciones domésticas (realmente fabricadas en Malasia) fueron de RM162.0 mil millones, el 75.3% del total"
+  - "Octubre de 2026: exportaciones RM239.2 mil millones, importaciones RM197.4 mil millones, superávit RM41.8 mil millones"
+  - "El comercio total fue de RM436.6 mil millones — mayor que el PIB mensual, porque el comercio cuenta flujos brutos"
+  - "Las reexportaciones fueron de RM64.1 mil millones, el 26.8% de todas las exportaciones — bienes encaminados a través, no producidos aquí"
+  - "Las exportaciones domésticas (realmente fabricadas en Malasia) fueron de RM175.1 mil millones, el 73.2% del total"
   - "El DOSM publica el comercio exterior mensualmente, unas tres semanas después de que termina el mes"
 appliesTo: "Cualquiera que lea los titulares del comercio malasio — exportadores, importadores, inversores y analistas."
 
 lang: "es"
-sourceContentHash: "b4ef299128a9a303"
+sourceContentHash: "4f1db657a2664819"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,20 +31,28 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 external-trade figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 external-trade figures (exports RM239.2bn +61.1%, imports RM197.4bn +54.4%, total trade RM436.6bn +58.0%, surplus RM41.8bn +103.4%; domestic exports RM175.1bn/73.2%, re-exports RM64.1bn/26.8%; cumulative Jan-Oct trade +33.2%, exports +37.1%; released 20 November 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "Estadísticas Mensuales de Comercio Exterior, septiembre de 2026 (Monthly External Trade Statistics, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
+  - title: "Estadísticas Mensuales de Comercio Exterior, octubre de 2026 (Monthly External Trade Statistics, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026"
     publisher: "DOSM"
-    date: "2026-10-19"
+    date: "2026-11-20"
   - title: "Estadísticas de Exportación e Importación por Estado, mayo de 2026 (Export Import Statistics by State, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
     publisher: "DOSM"
@@ -63,17 +71,17 @@ framework: data-reference
 
 ## De un vistazo
 
-| Métrica | Septiembre de 2026 | Variación interanual | Fuente |
+| Métrica | Octubre de 2026 | Variación interanual | Fuente |
 | --- | --- | --- | --- |
-| Exportaciones totales | RM215.1 mil millones | +54.5% | DOSM |
-| Importaciones totales | RM181.4 mil millones | +52.7% | DOSM |
-| Comercio total | RM396.5 mil millones | +53.7% | DOSM |
-| **Superávit comercial** | **RM33.7 mil millones** | +64.9% | DOSM |
-| Exportaciones domésticas | RM162.0 mil millones (75.3%) | +54.7% | DOSM |
-| Reexportaciones | RM53.1 mil millones (24.7%) | +53.7% | DOSM |
+| Exportaciones totales | RM239.2 mil millones | +61.1% | DOSM |
+| Importaciones totales | RM197.4 mil millones | +54.4% | DOSM |
+| Comercio total | RM436.6 mil millones | +58.0% | DOSM |
+| **Superávit comercial** | **RM41.8 mil millones** | +103.4% | DOSM |
+| Exportaciones domésticas | RM175.1 mil millones (73.2%) | +60.3% | DOSM |
+| Reexportaciones | RM64.1 mil millones (26.8%) | +63.6% | DOSM |
 
-*Publicado el 19 de octubre de 2026. De enero a septiembre de 2026, el comercio total
-creció un 30.1% y las exportaciones un 34.0% de forma acumulada.*
+*Publicado el 20 de noviembre de 2026. De enero a octubre de 2026, el comercio total
+creció un 33.2% y las exportaciones un 37.1% de forma acumulada.*
 
 ## El superávit es una resta, no un titular
 
@@ -81,13 +89,13 @@ El error más común al leer la cobertura comercial es tratar el superávit como
 una cifra grande por sí misma. No lo es — es simplemente exportaciones menos
 importaciones:
 
-> RM215.1 mil millones − RM181.4 mil millones = **RM33.7 mil millones**
+> RM239.2 mil millones − RM197.4 mil millones = **RM41.8 mil millones**
 
 Eso importa porque los dos lados son grandes y la brecha entre ellos es
-pequeña. Un repunte del 54.5% en las exportaciones suena transformador, pero las
-importaciones subieron un 52.7% al mismo tiempo, de modo que la mayor parte de
+pequeña. Un repunte del 61.1% en las exportaciones suena transformador, pero las
+importaciones subieron un 54.4% al mismo tiempo, de modo que la mayor parte de
 los ingresos extra por exportaciones se gastó en importaciones extra. El
-superávit — RM33.7 mil millones frente a flujos brutos de casi RM400 mil millones — se movió mucho menos que cualquiera de los dos lados.
+superávit — RM41.8 mil millones frente a flujos brutos de más de RM430 mil millones — se movió mucho menos que cualquiera de los dos lados.
 
 También significa que el superávit es **volátil por construcción**. Cuando se
 restan dos números grandes y similares, pequeños movimientos porcentuales en
@@ -98,12 +106,12 @@ superávit puede oscilar, de un mes a otro, mucho más bruscamente que las propi
 
 El DOSM divide las exportaciones en dos cosas muy distintas:
 
-- **Exportaciones domésticas** — RM162.0 mil millones, bienes realmente
+- **Exportaciones domésticas** — RM175.1 mil millones, bienes realmente
   producidos en Malasia.
-- **Reexportaciones** — RM53.1 mil millones, bienes importados y luego
+- **Reexportaciones** — RM64.1 mil millones, bienes importados y luego
   enviados hacia adelante, con poca o ninguna transformación.
 
-Las reexportaciones fueron el **24.7% de las exportaciones totales** en septiembre
+Las reexportaciones fueron el **26.8% de las exportaciones totales** en octubre
 de 2026. Inflan simultáneamente las cifras de exportación e importación, y
 reflejan el papel de Malasia como centro de comercio y logística — Port Klang,
 Penang, Johor — tanto como su papel de fabricante.
@@ -144,4 +152,4 @@ de las economías más expuestas al comercio del mundo.
 - Producción y composición: [Panorama del PIB de Malasia](/en/economy/gdp-overview)
 - Un sector exportador importante: [El sector del aceite de palma de Malasia](/en/economy/palm-oil-sector)
 - Fuente primaria:
-  [Estadísticas Mensuales de Comercio Exterior del DOSM](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026)
+  [Estadísticas Mensuales de Comercio Exterior del DOSM](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026)

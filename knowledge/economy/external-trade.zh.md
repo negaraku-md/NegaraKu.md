@@ -10,19 +10,19 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "马来西亚在2026年9月录得出口RM215.1 billion、进口RM181.4 billion，形成贸易顺差RM33.7 billion——贸易总额为RM396.5 billion（DOSM，于2026年10月19日发布）。马来西亚数十年来一直保持持续的贸易顺差。约25%的出口属于转口贸易：即经马来西亚转运、而非在当地生产的货品。"
+answer: "马来西亚在2026年10月录得出口RM239.2 billion、进口RM197.4 billion，形成贸易顺差RM41.8 billion——贸易总额为RM436.6 billion（DOSM，于2026年11月20日发布）。马来西亚数十年来一直保持持续的贸易顺差。约27%的出口属于转口贸易：即经马来西亚转运、而非在当地生产的货品。"
 keyTakeaways:
-  - "2026年9月：出口RM215.1bn，进口RM181.4bn，顺差RM33.7bn"
-  - "贸易总额为RM396.5bn——高于月度GDP，因为贸易计算的是总流量"
-  - "转口贸易为RM53.1bn，占出口总额的24.7%——是经此转运而非在本地生产的货品"
-  - "国内出口（实际在马来西亚生产）为RM162.0bn，占总额的75.3%"
+  - "2026年10月：出口RM239.2bn，进口RM197.4bn，顺差RM41.8bn"
+  - "贸易总额为RM436.6bn——高于月度GDP，因为贸易计算的是总流量"
+  - "转口贸易为RM64.1bn，占出口总额的26.8%——是经此转运而非在本地生产的货品"
+  - "国内出口（实际在马来西亚生产）为RM175.1bn，占总额的73.2%"
   - "DOSM每月发布对外贸易数据，约在月结束后三周公布"
 appliesTo: "任何阅读马来西亚贸易头条新闻的人——出口商、进口商、投资者与分析师。"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4ef299128a9a303"
+sourceContentHash: "4f1db657a2664819"
 
 status: "published"
 aiAssisted: true
@@ -30,20 +30,28 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 external-trade figures."
+    reviewer: null
+  - revision: 2
+    date: 2026-11-28
+    change: "Refreshed to DOSM October 2026 external-trade figures (exports RM239.2bn +61.1%, imports RM197.4bn +54.4%, total trade RM436.6bn +58.0%, surplus RM41.8bn +103.4%; domestic exports RM175.1bn/73.2%, re-exports RM64.1bn/26.8%; cumulative Jan-Oct trade +33.2%, exports +37.1%; released 20 November 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-28
 sources:
-  - title: "每月对外贸易统计，2026 年 9 月 (Monthly External Trade Statistics, September 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
+  - title: "每月对外贸易统计，2026 年 10 月 (Monthly External Trade Statistics, October 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026"
     publisher: "马来西亚统计局 (DOSM)"
-    date: "2026-10-19"
+    date: "2026-11-20"
   - title: "各州进出口统计，2026 年 5 月 (Export Import Statistics by State, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
     publisher: "马来西亚统计局 (DOSM)"
@@ -62,24 +70,24 @@ framework: data-reference
 
 ## 一览
 
-| 指标 | 2026年9月 | 按年变化 | 来源 |
+| 指标 | 2026年10月 | 按年变化 | 来源 |
 | --- | --- | --- | --- |
-| 出口总额 | RM215.1 billion | +54.5% | DOSM |
-| 进口总额 | RM181.4 billion | +52.7% | DOSM |
-| 贸易总额 | RM396.5 billion | +53.7% | DOSM |
-| **贸易顺差** | **RM33.7 billion** | +64.9% | DOSM |
-| 国内出口 | RM162.0 billion (75.3%) | +54.7% | DOSM |
-| 转口贸易 | RM53.1 billion (24.7%) | +53.7% | DOSM |
+| 出口总额 | RM239.2 billion | +61.1% | DOSM |
+| 进口总额 | RM197.4 billion | +54.4% | DOSM |
+| 贸易总额 | RM436.6 billion | +58.0% | DOSM |
+| **贸易顺差** | **RM41.8 billion** | +103.4% | DOSM |
+| 国内出口 | RM175.1 billion (73.2%) | +60.3% | DOSM |
+| 转口贸易 | RM64.1 billion (26.8%) | +63.6% | DOSM |
 
-*于2026年10月19日发布。2026年1至9月期间，贸易总额累计增长30.1%，出口累计增长34.0%。*
+*于2026年11月20日发布。2026年1至10月期间，贸易总额累计增长33.2%，出口累计增长37.1%。*
 
 ## 顺差是减法得出的结果，并非头条数字
 
 解读贸易报道时最常见的错误，是把顺差当作一个独立的大数字来看待。事实并非如此——它只是出口减去进口：
 
-> RM215.1bn − RM181.4bn = **RM33.7bn**
+> RM239.2bn − RM197.4bn = **RM41.8bn**
 
-这一点很重要，因为两边的数字都很大，而两者之间的差距却很小。54.5%的出口激增听起来具有变革性，但同期进口也增长了52.7%，因此大部分额外的出口收入都花在了额外的进口上。顺差——RM33.7 billion，相较于近RM400 billion的总流量——的变动远小于任何一方。
+这一点很重要，因为两边的数字都很大，而两者之间的差距却很小。61.1%的出口激增听起来具有变革性，但同期进口也增长了54.4%，因此大部分额外的出口收入都花在了额外的进口上。顺差——RM41.8 billion，相较于超过RM430 billion的总流量——的变动远小于任何一方。
 
 这也意味着顺差**在结构上就具有波动性**。当你用两个庞大且相近的数字相减时，任何一边的小幅百分比变动，都会使结果剧烈摇摆。这就是为什么顺差逐月的摆动，会远比出口或进口本身来得剧烈。
 
@@ -87,10 +95,10 @@ framework: data-reference
 
 DOSM 将出口分为两个截然不同的类别：
 
-- **国内出口**——RM162.0 billion，实际在马来西亚生产的货品。
-- **转口贸易**——RM53.1 billion，进口后转运出去、几乎未经加工或完全未经加工的货品。
+- **国内出口**——RM175.1 billion，实际在马来西亚生产的货品。
+- **转口贸易**——RM64.1 billion，进口后转运出去、几乎未经加工或完全未经加工的货品。
 
-转口贸易在2026年9月占出口总额的**24.7%**。它同时推高了出口与进口数字，也反映出马来西亚作为贸易与物流枢纽——巴生港、槟城、柔佛——的角色，其份量不亚于其作为制造国的角色。
+转口贸易在2026年10月占出口总额的**26.8%**。它同时推高了出口与进口数字，也反映出马来西亚作为贸易与物流枢纽——巴生港、槟城、柔佛——的角色，其份量不亚于其作为制造国的角色。
 
 **实用法则：**若想了解马来西亚*生产*什么，请看国内出口；若想了解什么*经过*马来西亚，则看出口总额。
 
@@ -116,4 +124,4 @@ DOSM 将出口分为两个截然不同的类别：
 - 产出与构成：[马来西亚 GDP 概览](/zh/economy/gdp-overview)
 - 一个主要出口领域：[马来西亚棕油业](/zh/economy/palm-oil-sector)
 - 主要来源：
-  [DOSM 月度对外贸易统计](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026)
+  [DOSM 月度对外贸易统计](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-oct2026)
