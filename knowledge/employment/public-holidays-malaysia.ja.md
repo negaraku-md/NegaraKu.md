@@ -5,7 +5,7 @@ seoTitle: "マレーシアの祝日 — 連邦・州と雇用法（EA）の規�
 slug: "public-holidays-malaysia"
 category: "employment"
 subcategory: ["leave-and-welfare"]
-summary: "連邦と州の祝日制度の仕組み、2026年の連邦祝日の日付、そして従業員が実際に何日分の有給休暇を得られるかを決める雇用法の規則について。"
+summary: "連邦と州の祝日制度の仕組み、2027年の連邦祝日の日付、そして従業員が実際に何日分の有給休暇を得られるかを決める雇用法の規則について。"
 
 tier: "4"
 mode: "practical"
@@ -34,32 +34,36 @@ faq:
     a: "Section 60D(1)(a)(iii)は、それをサービス契約（contract of service）のもとで従業員が全面的または主として勤務する州に結びつけており、従業員が連邦直轄区で全面的または主として勤務する場合には連邦直轄区の日を与える。完全にリモートの従業員については、契約上の勤務地が参照点となる——これが、それを契約書に明示すべき理由の一つである。"
 
 verificationNeeded:
-  - "2026年スケジュールにおける各州レベル祝日の州別適用性を確認すること——内閣局PDFの州別欄は画像形式であり、テキストとして抽出できないため、適用性は出典文書または各州の官報から読み取る必要がある"
-  - "内閣局スケジュールにおいて変更の可能性があると記された日付を確認すること——ハリラヤ・アイディルフィトリ、アイディルアドハ（ハリラヤ・ハジ）、ディーパバリ、ラマダン開始日、およびアイディルアドハ二日目がいずれも記されている"
+  - "2027年スケジュールにおける各州レベル祝日の州別適用性は、内閣局スケジュールの州別欄（レンダリングされた出典PDFから読み取る）で示されている。本記事は州別の完全な対照表を再現していないため、特定の州の遵守状況は、引用した官報または当該州自身の官報と照合して確認すること"
+  - "2027年スケジュールにおけるイスラム暦の日付は変更の可能性がある（tertakluk kepada perubahan）と記されている——ハリラヤ・アイディルフィトリ、アイディルアドハ（ハリラヤ・ハジ）、ディーパバリ、ラマダン開始日が該当し、観月により変動しうるため、日付が近づいたら再確認すること"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4f900b1fb9347b94"
+sourceContentHash: "b861e023fe13b604"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 federal and state calendars with the gazetted 2027 Cabinet Division schedule (12 federal holidays / 15 dates and 34 state holidays, all day-of-week verified), refreshed the year-specific prose and the subject-to-change note, and swapped the source to the 2027 gazette. The Employment Act and Holidays Act framework is unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-28
 sources:
-  - title: "2026年 連邦・州の祝日一覧 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
-    url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+  - title: "2027年 連邦・州の祝日一覧 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2027)"
+    url: "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
     publisher: "内閣・憲法・政府間関係局、首相府"
-    date: "2025-08-01"
+    date: "2026-08-01"
   - title: "Holidays Act 1951 (Act 369)、更新版テキスト (Holidays Act 1951 (Act 369), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
     publisher: "司法長官府"
@@ -74,7 +78,7 @@ relations:
   - { rel: "governs", to: "leave-entitlements-malaysia" }
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
-keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+keywords: ["public holidays malaysia 2027", "cuti umum 2027", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
 framework: data-reference
 ---
 
@@ -131,77 +135,86 @@ First Scheduleはその条文自体からしてすでに州によって異なる
 法定リストを一律のものとして扱うカレンダーは、州当局が何かを宣布するよりも前の段階
 ですでに誤っている。
 
-## 2026年の連邦祝日
+## 2027年の連邦祝日
 
-内閣局（Cabinet Division）のスケジュールによれば、12の祝日にまたがる15日間である。
+内閣局（Cabinet Division）のスケジュールによれば、12の祝日にまたがる15の日付である。
 アスタリスク（*）が付いた日は、出典において変更の可能性があるとされている。
 
 | 祝日 | 日付 | 曜日 |
 | --- | --- | --- |
-| 旧正月 | 2026年2月17日 | 火曜日 |
-| 旧正月（二日目） | 2026年2月18日 | 水曜日 |
-| ハリラヤ・アイディルフィトリ * | 2026年3月21日 | 土曜日 |
-| ハリラヤ・アイディルフィトリ（二日目）* | 2026年3月22日 | 日曜日 |
-| 労働者の日 | 2026年5月1日 | 金曜日 |
-| アイディルアドハ（ハリラヤ・ハジ）* | 2026年5月27日 | 水曜日 |
-| アイディルアドハ（二日目）* | 2026年5月28日 | 木曜日 |
-| ハリ・ウェサック | 2026年5月31日 | 日曜日 |
-| 国王（Yang di-Pertuan Agong）公式誕生日 | 2026年6月1日 | 月曜日 |
-| ヒジュラ暦新年（Awal Muharam／Maal Hijrah） | 2026年6月17日 | 水曜日 |
-| マウリドゥル・ラスル（預言者生誕祭） | 2026年8月25日 | 火曜日 |
-| 独立記念日 | 2026年8月31日 | 月曜日 |
-| マレーシア・デー | 2026年9月16日 | 水曜日 |
-| [ディーパバリ](/arts-culture/deepavali) * | 2026年11月8日 | 日曜日 |
-| クリスマス | 2026年12月25日 | 金曜日 |
+| 旧正月 | 2027年2月6日 | 土曜日 |
+| 旧正月（二日目） | 2027年2月7日 | 日曜日 |
+| ハリラヤ・アイディルフィトリ * | 2027年3月10日 | 水曜日 |
+| ハリラヤ・アイディルフィトリ（二日目）* | 2027年3月11日 | 木曜日 |
+| 労働者の日 | 2027年5月1日 | 土曜日 |
+| アイディルアドハ（ハリラヤ・ハジ）* | 2027年5月17日 | 月曜日 |
+| アイディルアドハ（二日目）* | 2027年5月18日 | 火曜日 |
+| ハリ・ウェサック | 2027年5月20日 | 木曜日 |
+| ヒジュラ暦新年（Awal Muharam／Maal Hijrah） | 2027年6月6日 | 日曜日 |
+| 国王（Yang di-Pertuan Agong）公式誕生日 | 2027年6月7日 | 月曜日 |
+| マウリドゥル・ラスル（預言者生誕祭） | 2027年8月15日 | 日曜日 |
+| 独立記念日 | 2027年8月31日 | 火曜日 |
+| マレーシア・デー | 2027年9月16日 | 木曜日 |
+| [ディーパバリ](/arts-culture/deepavali) * | 2027年10月28日 | 木曜日 |
+| クリスマス | 2027年12月25日 | 土曜日 |
 
-**2026年にはハリ・ウェサックとディーパバリがともに日曜日に落ち**、ハリラヤ・
-アイディルフィトリの二日目も日曜日に落ちることに留意されたい。日曜日が従業員の休息日
-である場合、s.60D(1)の代替に関するただし書により、有給祝日は次の労働日に移される。
+旧正月の二日目は、クランタンとトレンガヌでは連邦祝日では**ない**。一方、アイディル
+アドハ（ハリラヤ・ハジ）の二日目は、クランタンとトレンガヌでのみ連邦祝日となる——
+下記のFirst Scheduleの州別の差異である。ディーパバリは**サラワクを除く**全国で
+遵守される。
 
-## 2026年の州レベルの祝日
+**2027年には3つの連邦祝日が日曜日に落ちる**——旧正月の二日目（2月7日）、ヒジュラ暦
+新年（Awal Muharam、6月6日）、そしてマウリドゥル・ラスル（8月15日）である。日曜日が
+従業員の休息日である場合、s.60D(1)の代替に関するただし書により、有給祝日は次の労働日
+に移される。ヒジュラ暦新年は厄介なケースである。それは6月6日の日曜日に落ち、その
+直後の6月7日月曜日が国王誕生日であるため、日曜日が休息日である場合、代替の有給祝日は
+**6月8日火曜日**——それ自体が祝日ではない最初の労働日——に繰り越される。
 
-これらは、内閣局の2026年州別スケジュールに掲載されている日である。**どの州がそれ
-ぞれを遵守しているかは、ここでは再現していない**。出典PDFの適用性欄は画像形式であり、
-信頼できる形でテキストとして抽出できないため、誤読した表に基づいて州別対照表を公開
-することは、何も公開しないより悪い結果を招く。適用性については、出典文書または関係
+## 2027年の州レベルの祝日
+
+これらは、内閣局の2027年州別スケジュールに掲載されている日である。**どの州がそれ
+ぞれを遵守しているかは、ここでは全ては再現していない**。出典は適用性を州ごとの
+チェック表（tick matrix）として掲載しており、給与計算用のカレンダーは、表を作り直した
+ものではなく官報そのものから構築すべきである。適用性については、出典文書または関係
 する州の官報を確認されたい。祝日の名称に州名または統治者名が含まれる場合、その州は
 自明である。
 
-| 祝日 | 2026年の日付 |
+| 祝日 | 2027年の日付 |
 | --- | --- |
 | 元日 | 1月1日 |
+| イスラーとミウラージ（Israk and Mikraj） | 1月6日 |
 | [ヌグリ・スンビラン最高統治者](/ja/malaysia/negeri-sembilan-royal-institution)（Yang di-Pertuan Besar）誕生日 | 1月14日 |
-| イスラーとミウラージ（Israk and Mikraj） | 1月17日 |
-| [タイプーサム](/arts-culture/thaipusam) | 2月1日 |
+| [タイプーサム](/arts-culture/thaipusam) | 1月22日 |
 | 連邦直轄区の日 | 2月1日 |
-| 旧正月（二日目） | 2月18日 |
-| ラマダン開始日（Awal Ramadan）* | 2月19日 |
+| 旧正月（二日目）——クランタンおよびトレンガヌ | 2月7日 |
+| ラマダン開始日（Awal Ramadan）* | 2月8日 |
 | 独立宣言記念日 | 2月20日 |
+| クルアーン啓示の日（Nuzul Al-Quran） | 2月24日 |
 | トレンガヌ州スルタン即位記念日 | 3月4日 |
-| クルアーン啓示の日（Nuzul Al-Quran） | 3月7日 |
+| ハリラヤ・アイディルフィトリ（三日目） | 3月12日 |
 | ジョホール州スルタン誕生日 | 3月23日 |
-| ハリラヤ・アイディルフィトリ（三日目） | 3月23日 |
+| 聖金曜日 | 3月26日 |
 | サバ州元首（Yang di-Pertua Negeri）誕生日 | 3月30日 |
-| 聖金曜日 | 4月3日 |
 | トレンガヌ州スルタン誕生日 | 4月26日 |
+| アラファの日（Hari Arafah） | 5月16日 |
 | パーリス州ラジャ（Raja）誕生記念日 | 5月17日 |
+| アイディルアドハ（二日目）* | 5月18日 |
 | 故スルタン・アハマド・シャー記念日（Hari Hol Almarhum Sultan Ahmad Shah） | 5月22日 |
-| アラファの日（Hari Arafah） | 5月26日 |
-| アイディルアドハ（二日目）* | 5月28日 |
 | [カアマタン祭](/arts-culture/kaamatan) | 5月30日・31日 |
 | [ガワイ・ダヤック](/arts-culture/gawai-dayak) | 6月1日・2日 |
-| ケダ州スルタン誕生日 | 6月21日 |
+| ケダ州スルタン誕生日 | 6月20日 |
 | 世界遺産登録記念日 | 7月7日 |
-| ペナン州元首（Yang di-Pertua Negeri）誕生日 | 7月11日 |
-| 故スルタン・イスカンダル記念日（Hari Hol Almarhum Sultan Iskandar） | 7月21日 |
+| ペナン州元首（Yang di-Pertua Negeri）誕生日 | 7月10日 |
+| 故スルタン・イスカンダル記念日（Hari Hol Almarhum Sultan Iskandar） | 7月11日 |
 | サラワク独立記念日 | 7月22日 |
-| パハン州スルタン誕生日 | 7月31日 |
+| パハン州スルタン誕生日 | 7月30日 |
 | マラッカ州元首（Yang di-Pertua Negeri）誕生日 | 8月24日 |
 | クランタン州スルタン誕生日 | 9月29日・30日 |
-| サラワク州元首（Yang di-Pertua Negeri）誕生日 | 10月10日 |
-| ペラ州スルタン誕生日 | 11月6日 |
+| サラワク州元首（Yang di-Pertua Negeri）誕生日 | 10月9日 |
+| ペラ州スルタン誕生日 | 11月5日 |
 | セランゴール州スルタン誕生日 | 12月11日 |
 | クリスマスイブ | 12月24日 |
+| イスラーとミウラージ（Israk and Mikraj）（二回目） | 12月26日 |
 
 ## よくある誤り
 
@@ -217,7 +230,7 @@ First Scheduleはその条文自体からしてすでに州によって異なる
 **別の州にいる従業員に本社所在地の祝日を適用すること。** 統治者の誕生日は、従業員が
 全面的または主として勤務する州に従う。
 
-**連邦リストを固定的なものとして扱うこと。** 2026年の連邦日程のうち5日は出典において
+**連邦リストを固定的なものとして扱うこと。** 2027年の連邦日程のうち5日は出典において
 変更の可能性があると示されており、とりわけイスラム暦の日付は観月によって変動する。
 
 **クランタンとトレンガヌの違いを非公式なものと思い込むこと。** それらはHolidays Act

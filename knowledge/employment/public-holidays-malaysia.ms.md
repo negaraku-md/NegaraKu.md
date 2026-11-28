@@ -5,7 +5,7 @@ seoTitle: "Public holidays Malaysia — federal, state and the EA rule"
 slug: "public-holidays-malaysia"
 category: "employment"
 subcategory: ["leave-and-welfare"]
-summary: "Struktur hari kelepasan am persekutuan dan negeri, tarikh persekutuan bagi 2026, serta peraturan di bawah Akta Kerja yang menentukan berapa banyak daripadanya yang benar-benar dibayar kepada seseorang pekerja."
+summary: "Struktur hari kelepasan am persekutuan dan negeri, tarikh persekutuan bagi 2027, serta peraturan di bawah Akta Kerja yang menentukan berapa banyak daripadanya yang benar-benar dibayar kepada seseorang pekerja."
 
 tier: "4"
 mode: "practical"
@@ -34,13 +34,13 @@ faq:
     a: "Seksyen 60D(1)(a)(iii) mengaitkannya dengan Negeri tempat pekerja itu seluruhnya atau kebanyakannya bekerja di bawah kontrak perkhidmatannya, dan memberikan Hari Wilayah Persekutuan jika pekerja itu seluruhnya atau kebanyakannya bekerja di Wilayah Persekutuan. Bagi kakitangan yang bekerja sepenuhnya secara jarak jauh, tempat kerja yang dinyatakan dalam kontrak menjadi titik rujukan — inilah salah satu sebab ia perlu dinyatakan secara jelas dalam kontrak."
 
 verificationNeeded:
-  - "Sahkan kebolehgunaan mengikut negeri bagi setiap cuti peringkat negeri dalam jadual 2026 — lajur negeri dalam PDF Bahagian Kabinet adalah grafik dan tidak boleh diekstrak sebagai teks, jadi kebolehgunaan mesti dibaca daripada dokumen sumber atau warta setiap Negeri"
-  - "Sahkan tarikh yang ditanda sebagai tertakluk kepada perubahan dalam jadual Bahagian Kabinet — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan dan hari kedua Hari Raya Qurban kesemuanya ditandakan"
+  - "Kebolehterpakaian mengikut negeri bagi 2027 diberikan oleh lajur negeri dalam jadual Bahagian Kabinet (dibaca daripada PDF sumber yang dipaparkan); artikel ini tidak menghasilkan semula keseluruhan matriks negeri, jadi sahkan sambutan mana-mana Negeri tertentu terhadap warta yang disebut atau warta Negeri itu sendiri"
+  - "Tarikh Islam dalam jadual 2027 ditanda tertakluk kepada perubahan — Hari Raya Puasa, Hari Raya Qurban, Deepavali dan Awal Ramadan — dan boleh berubah mengikut cerapan (rukyah); sahkan semula apabila menghampiri tarikhnya"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4f900b1fb9347b94"
+sourceContentHash: "b861e023fe13b604"
 
 status: "published"
 aiAssisted: true
@@ -48,19 +48,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 federal and state calendars with the gazetted 2027 Cabinet Division schedule (12 federal holidays / 15 dates and 34 state holidays, all day-of-week verified), refreshed the year-specific prose and the subject-to-change note, and swapped the source to the 2027 gazette. The Employment Act and Holidays Act framework is unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-28
 sources:
-  - title: "Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
-    url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+  - title: "Jadual Hari Kelepasan Am Persekutuan dan Negeri 2027"
+    url: "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
     publisher: "Bahagian Kabinet, Perlembagaan dan Perhubungan Antara Kerajaan, Jabatan Perdana Menteri"
-    date: "2025-08-01"
+    date: "2026-08-01"
   - title: "Holidays Act 1951 (Act 369), teks dikemas kini (Holidays Act 1951 (Act 369), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
     publisher: "Jabatan Peguam Negara"
@@ -75,7 +79,7 @@ relations:
   - { rel: "governs", to: "leave-entitlements-malaysia" }
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
-keywords: ["hari kelepasan am malaysia 2026", "cuti umum 2026", "hari kelepasan negeri malaysia", "hari kelepasan am diwartakan", "seksyen 60d akta kerja"]
+keywords: ["hari kelepasan am malaysia 2027", "cuti umum 2027", "hari kelepasan negeri malaysia", "hari kelepasan am diwartakan", "seksyen 60d akta kerja"]
 framework: data-reference
 ---
 
@@ -139,80 +143,89 @@ pula dua hari di Kelantan dan Terengganu tetapi sehari di negeri-negeri lain**.
 Mana-mana kalendar yang menganggap senarai berkanun itu seragam sudah tersilap walaupun
 sebelum Pihak Berkuasa Negeri mengisytiharkan apa-apa pun.
 
-## Hari kelepasan am persekutuan 2026
+## Hari kelepasan am persekutuan 2027
 
-Lima belas hari merentasi dua belas hari kelepasan, mengikut jadual Bahagian Kabinet.
+Lima belas tarikh merentasi dua belas hari kelepasan, mengikut jadual Bahagian Kabinet.
 Hari-hari yang ditanda dengan tanda bintang dinyatakan dalam sumber sebagai tertakluk
 kepada perubahan.
 
 | Hari Kelepasan | Tarikh | Hari |
 | --- | --- | --- |
-| Tahun Baru Cina | 17 February 2026 | Tuesday |
-| Tahun Baru Cina (hari kedua) | 18 February 2026 | Wednesday |
-| Hari Raya Puasa * | 21 March 2026 | Saturday |
-| Hari Raya Puasa (hari kedua) * | 22 March 2026 | Sunday |
-| Hari Pekerja | 1 May 2026 | Friday |
-| Hari Raya Qurban * | 27 May 2026 | Wednesday |
-| Hari Raya Qurban (hari kedua) * | 28 May 2026 | Thursday |
-| Hari Wesak | 31 May 2026 | Sunday |
-| Hari Keputeraan Rasmi Yang di-Pertuan Agong | 1 June 2026 | Monday |
-| Awal Muharam / Maal Hijrah | 17 June 2026 | Wednesday |
-| Maulidur Rasul | 25 August 2026 | Tuesday |
-| Hari Kebangsaan | 31 August 2026 | Monday |
-| Hari Malaysia | 16 September 2026 | Wednesday |
-| [Deepavali](/arts-culture/deepavali) * | 8 November 2026 | Sunday |
-| Hari Krismas | 25 December 2026 | Friday |
+| Tahun Baru Cina | 6 February 2027 | Saturday |
+| Tahun Baru Cina (hari kedua) | 7 February 2027 | Sunday |
+| Hari Raya Puasa * | 10 March 2027 | Wednesday |
+| Hari Raya Puasa (hari kedua) * | 11 March 2027 | Thursday |
+| Hari Pekerja | 1 May 2027 | Saturday |
+| Hari Raya Qurban * | 17 May 2027 | Monday |
+| Hari Raya Qurban (hari kedua) * | 18 May 2027 | Tuesday |
+| Hari Wesak | 20 May 2027 | Thursday |
+| Awal Muharam / Maal Hijrah | 6 June 2027 | Sunday |
+| Hari Keputeraan Rasmi Yang di-Pertuan Agong | 7 June 2027 | Monday |
+| Maulidur Rasul | 15 August 2027 | Sunday |
+| Hari Kebangsaan | 31 August 2027 | Tuesday |
+| Hari Malaysia | 16 September 2027 | Thursday |
+| [Deepavali](/arts-culture/deepavali) * | 28 October 2027 | Thursday |
+| Hari Krismas | 25 December 2027 | Saturday |
 
-Perhatikan bahawa **Hari Wesak dan Deepavali kedua-duanya jatuh pada hari Ahad pada
-2026**, dan hari kedua Hari Raya Puasa juga jatuh pada hari Ahad. Jika hari Ahad ialah
-hari rehat pekerja, proviso penggantian kepada s.60D(1) mengalihkan hari kelepasan
-berbayar itu ke hari bekerja berikutnya.
+Hari kedua Tahun Baru Cina **bukan** hari kelepasan am persekutuan di Kelantan dan
+Terengganu, dan hari kedua Hari Raya Qurban pula menjadi hari kelepasan am persekutuan
+**hanya** di Kelantan dan Terengganu — variasi Jadual Pertama seperti di bawah. Deepavali
+disambut di seluruh negara **kecuali di Sarawak**.
 
-## Hari kelepasan negeri 2026
+Tiga hari kelepasan am persekutuan jatuh pada hari **Ahad** pada 2027 — hari kedua Tahun
+Baru Cina (7 Februari), Awal Muharam (6 Jun) dan Maulidur Rasul (15 Ogos). Jika hari Ahad
+ialah hari rehat pekerja, proviso penggantian kepada s.60D(1) mengalihkan hari kelepasan
+berbayar itu ke hari bekerja berikutnya. Awal Muharam ialah kes yang rumit: ia jatuh pada
+hari Ahad 6 Jun dan diikuti serta-merta oleh Hari Keputeraan Agong pada hari Isnin 7 Jun,
+jadi apabila hari Ahad ialah hari rehat, hari kelepasan berbayar gantian itu beralih ke
+**hari Selasa 8 Jun** — hari bekerja pertama yang bukan hari kelepasan.
 
-Ini adalah hari-hari yang terdapat dalam jadual negeri Bahagian Kabinet bagi 2026.
-**Negeri mana yang menyambut setiap satu tidak dipaparkan di sini**: lajur
-kebolehterpakaian dalam PDF sumber adalah dalam bentuk grafik dan tidak dapat diekstrak
-dengan boleh dipercayai, dan menerbitkan matriks negeri berdasarkan jadual yang tersalah
-baca adalah lebih buruk daripada tidak menerbitkan langsung. Rujuk kebolehterpakaian
-daripada dokumen sumber atau warta Negeri yang berkenaan. Apabila nama hari kelepasan itu
-menyebut sesuatu Negeri atau Raja, Negerinya sudah jelas dengan sendirinya.
+## Hari kelepasan negeri 2027
 
-| Hari Kelepasan | Tarikh 2026 |
+Ini adalah hari-hari yang terdapat dalam jadual negeri Bahagian Kabinet bagi 2027.
+**Negeri mana yang menyambut setiap satu tidak dipaparkan sepenuhnya di sini**: sumber itu
+menyenaraikan kebolehterpakaian sebagai matriks tanda mengikut Negeri, dan kalendar
+penggajian seharusnya dibina daripada warta itu sendiri dan bukan daripada grid yang
+disusun semula. Rujuk kebolehterpakaian daripada dokumen sumber atau warta Negeri yang
+berkenaan. Apabila nama hari kelepasan itu menyebut sesuatu Negeri atau Raja, Negerinya
+sudah jelas dengan sendirinya.
+
+| Hari Kelepasan | Tarikh 2027 |
 | --- | --- |
 | Hari Tahun Baru | 1 January |
+| Israk dan Mikraj | 6 January |
 | Hari Keputeraan [Yang di-Pertuan Besar Negeri Sembilan](/malaysia/negeri-sembilan-royal-institution) | 14 January |
-| Israk dan Mikraj | 17 January |
-| [Thaipusam](/arts-culture/thaipusam) | 1 February |
+| [Thaipusam](/arts-culture/thaipusam) | 22 January |
 | Hari Wilayah Persekutuan | 1 February |
-| Tahun Baru Cina (hari kedua) | 18 February |
-| Awal Ramadan * | 19 February |
+| Tahun Baru Cina (hari kedua) — Kelantan dan Terengganu | 7 February |
+| Awal Ramadan * | 8 February |
 | Hari Pengisytiharan Kemerdekaan | 20 February |
+| Nuzul Al-Quran | 24 February |
 | Hari Pertabalan Sultan Terengganu | 4 March |
-| Nuzul Al-Quran | 7 March |
+| Hari Raya Puasa (hari ketiga) | 12 March |
 | Hari Keputeraan Sultan Johor | 23 March |
-| Hari Raya Puasa (hari ketiga) | 23 March |
+| Good Friday (Jumaat Agung) | 26 March |
 | Hari Keputeraan Yang di-Pertua Negeri Sabah | 30 March |
-| Good Friday (Jumaat Agung) | 3 April |
 | Hari Keputeraan Sultan Terengganu | 26 April |
+| Hari Arafah | 16 May |
 | Hari Keputeraan Raja Perlis | 17 May |
+| Hari Raya Qurban (hari kedua) * | 18 May |
 | Hari Hol Almarhum Sultan Ahmad Shah | 22 May |
-| Hari Arafah | 26 May |
-| Hari Raya Qurban (hari kedua) * | 28 May |
 | [Pesta Kaamatan](/arts-culture/kaamatan) | 30 and 31 May |
 | Hari [Gawai Dayak](/arts-culture/gawai-dayak) | 1 and 2 June |
-| Hari Keputeraan Sultan Kedah | 21 June |
+| Hari Keputeraan Sultan Kedah | 20 June |
 | Ulang Tahun Pengisytiharan Tapak Warisan Dunia | 7 July |
-| Hari Keputeraan Yang di-Pertua Negeri Pulau Pinang | 11 July |
-| Hari Hol Almarhum Sultan Iskandar | 21 July |
+| Hari Keputeraan Yang di-Pertua Negeri Pulau Pinang | 10 July |
+| Hari Hol Almarhum Sultan Iskandar | 11 July |
 | Hari Kemerdekaan Sarawak | 22 July |
-| Hari Keputeraan Sultan Pahang | 31 July |
+| Hari Keputeraan Sultan Pahang | 30 July |
 | Hari Keputeraan Yang di-Pertua Negeri Melaka | 24 August |
 | Hari Keputeraan Sultan Kelantan | 29 and 30 September |
-| Hari Keputeraan Yang di-Pertua Negeri Sarawak | 10 October |
-| Hari Keputeraan Sultan Perak | 6 November |
+| Hari Keputeraan Yang di-Pertua Negeri Sarawak | 9 October |
+| Hari Keputeraan Sultan Perak | 5 November |
 | Hari Keputeraan Sultan Selangor | 11 December |
 | Malam Krismas | 24 December |
+| Israk dan Mikraj (kejadian kedua) | 26 December |
 
 ## Kesilapan biasa
 
@@ -231,7 +244,7 @@ kerja biasa.
 Keputeraan Raja bergantung kepada Negeri tempat pekerja itu seluruhnya atau kebanyakannya
 bekerja.
 
-**Menganggap senarai persekutuan itu tetap.** Lima daripada tarikh persekutuan 2026
+**Menganggap senarai persekutuan itu tetap.** Lima daripada tarikh persekutuan 2027
 ditanda dalam sumber sebagai tertakluk kepada perubahan, dan tarikh-tarikh Islam
 khususnya bergerak mengikut cerapan (rukyah).
 

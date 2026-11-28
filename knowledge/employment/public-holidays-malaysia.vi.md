@@ -5,7 +5,7 @@ seoTitle: "Ngày nghỉ lễ công Malaysia — liên bang, bang và quy tắc E
 slug: "public-holidays-malaysia"
 category: "employment"
 subcategory: ["leave-and-welfare"]
-summary: "Cấu trúc ngày nghỉ lễ công liên bang và bang, các ngày liên bang năm 2026, và quy tắc của Employment Act quyết định người lao động thực sự được trả cho bao nhiêu ngày trong số đó."
+summary: "Cấu trúc ngày nghỉ lễ công liên bang và bang, các ngày liên bang năm 2027, và quy tắc của Employment Act quyết định người lao động thực sự được trả cho bao nhiêu ngày trong số đó."
 
 tier: "4"
 mode: "practical"
@@ -34,11 +34,11 @@ faq:
     a: "Mục 60D(1)(a)(iii) gắn nó với Bang nơi người lao động làm việc toàn bộ hoặc chủ yếu theo hợp đồng dịch vụ của họ, và cho Ngày Lãnh thổ Liên bang khi người lao động làm việc toàn bộ hoặc chủ yếu ở Lãnh thổ Liên bang. Đối với nhân sự làm việc hoàn toàn từ xa, nơi làm việc theo hợp đồng là điểm tham chiếu, đó là một lý do để nêu nó một cách rõ ràng trong hợp đồng."
 
 verificationNeeded:
-  - "Cần xác nhận khả năng áp dụng theo từng bang của mỗi ngày nghỉ lễ cấp bang trong biểu năm 2026 — các cột bang trong tệp PDF của Bahagian Kabinet là đồ họa và không trích xuất được thành văn bản, nên khả năng áp dụng phải được đọc từ tài liệu nguồn hoặc từng công báo Bang"
-  - "Cần xác nhận các ngày được đánh dấu là có thể thay đổi trong biểu của Bahagian Kabinet — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan và ngày thứ hai của Hari Raya Qurban đều được gắn cờ"
+  - "Khả năng áp dụng theo từng bang cho năm 2027 được cho bởi các cột bang của biểu Bahagian Kabinet (đọc từ tệp PDF nguồn đã kết xuất); bài viết này không sao lại toàn bộ ma trận bang, nên hãy xác nhận việc tuân thủ của một Bang cụ thể theo công báo được trích dẫn hoặc công báo của riêng Bang đó"
+  - "Các ngày theo lịch Hồi giáo trong biểu năm 2027 được đánh dấu là có thể thay đổi (tertakluk kepada perubahan) — Hari Raya Puasa, Hari Raya Qurban, Deepavali và Awal Ramadan — và có thể dịch chuyển theo việc quan sát trăng; hãy xác nhận lại gần đến ngày"
 
 lang: "vi"
-sourceContentHash: "4f900b1fb9347b94"
+sourceContentHash: "b861e023fe13b604"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -47,19 +47,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 federal and state calendars with the gazetted 2027 Cabinet Division schedule (12 federal holidays / 15 dates and 34 state holidays, all day-of-week verified), refreshed the year-specific prose and the subject-to-change note, and swapped the source to the 2027 gazette. The Employment Act and Holidays Act framework is unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-28
 sources:
-  - title: "Lịch Ngày nghỉ lễ Công cộng Liên bang và Bang 2026 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
-    url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+  - title: "Lịch Ngày nghỉ lễ Công cộng Liên bang và Bang 2027 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2027)"
+    url: "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
     publisher: "Bộ phận Nội các, Hiến pháp và Quan hệ Liên Chính phủ, Văn phòng Thủ tướng"
-    date: "2025-08-01"
+    date: "2026-08-01"
   - title: "Đạo luật Ngày nghỉ lễ 1951 — Holidays Act 1951 (Act 369), văn bản cập nhật (Holidays Act 1951 (Act 369), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
     publisher: "Văn phòng Tổng Chưởng lý"
@@ -74,7 +78,7 @@ relations:
   - { rel: "governs", to: "leave-entitlements-malaysia" }
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
-keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+keywords: ["public holidays malaysia 2027", "cuti umum 2027", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
 framework: data-reference
 ---
 
@@ -132,77 +136,86 @@ ngày ở Kelantan và Terengganu và một ngày ở các Bang khác**. Bất k
 coi danh sách theo luật là đồng nhất đều sai trước khi các Chính quyền Bang tuyên bố
 điều gì.
 
-## Các ngày nghỉ lễ công liên bang năm 2026
+## Các ngày nghỉ lễ công liên bang năm 2027
 
 Mười lăm ngày trên mười hai ngày nghỉ lễ, theo biểu của Bahagian Kabinet. Các ngày được đánh dấu
 dấu sao được nêu trong nguồn là có thể thay đổi.
 
 | Ngày nghỉ lễ | Ngày | Thứ |
 | --- | --- | --- |
-| Tết Nguyên đán | 17 tháng 2 năm 2026 | Thứ Ba |
-| Tết Nguyên đán (ngày thứ hai) | 18 tháng 2 năm 2026 | Thứ Tư |
-| Hari Raya Puasa * | 21 tháng 3 năm 2026 | Thứ Bảy |
-| Hari Raya Puasa (ngày thứ hai) * | 22 tháng 3 năm 2026 | Chủ Nhật |
-| Hari Pekerja / Ngày Người lao động | 1 tháng 5 năm 2026 | Thứ Sáu |
-| Hari Raya Qurban * | 27 tháng 5 năm 2026 | Thứ Tư |
-| Hari Raya Qurban (ngày thứ hai) * | 28 tháng 5 năm 2026 | Thứ Năm |
-| Hari Wesak | 31 tháng 5 năm 2026 | Chủ Nhật |
-| Sinh nhật Chính thức của Yang di-Pertuan Agong | 1 tháng 6 năm 2026 | Thứ Hai |
-| Awal Muharam / Maal Hijrah | 17 tháng 6 năm 2026 | Thứ Tư |
-| Maulidur Rasul | 25 tháng 8 năm 2026 | Thứ Ba |
-| Hari Kebangsaan / Ngày Quốc khánh | 31 tháng 8 năm 2026 | Thứ Hai |
-| Hari Malaysia / Ngày Malaysia | 16 tháng 9 năm 2026 | Thứ Tư |
-| [Deepavali](/vi/arts-culture/deepavali) * | 8 tháng 11 năm 2026 | Chủ Nhật |
-| Lễ Giáng sinh | 25 tháng 12 năm 2026 | Thứ Sáu |
+| Tết Nguyên đán | 6 tháng 2 năm 2027 | Thứ Bảy |
+| Tết Nguyên đán (ngày thứ hai) | 7 tháng 2 năm 2027 | Chủ Nhật |
+| Hari Raya Puasa * | 10 tháng 3 năm 2027 | Thứ Tư |
+| Hari Raya Puasa (ngày thứ hai) * | 11 tháng 3 năm 2027 | Thứ Năm |
+| Hari Pekerja / Ngày Người lao động | 1 tháng 5 năm 2027 | Thứ Bảy |
+| Hari Raya Qurban * | 17 tháng 5 năm 2027 | Thứ Hai |
+| Hari Raya Qurban (ngày thứ hai) * | 18 tháng 5 năm 2027 | Thứ Ba |
+| Hari Wesak | 20 tháng 5 năm 2027 | Thứ Năm |
+| Awal Muharam / Maal Hijrah | 6 tháng 6 năm 2027 | Chủ Nhật |
+| Sinh nhật Chính thức của Yang di-Pertuan Agong | 7 tháng 6 năm 2027 | Thứ Hai |
+| Maulidur Rasul | 15 tháng 8 năm 2027 | Chủ Nhật |
+| Hari Kebangsaan / Ngày Quốc khánh | 31 tháng 8 năm 2027 | Thứ Ba |
+| Hari Malaysia / Ngày Malaysia | 16 tháng 9 năm 2027 | Thứ Năm |
+| [Deepavali](/vi/arts-culture/deepavali) * | 28 tháng 10 năm 2027 | Thứ Năm |
+| Lễ Giáng sinh | 25 tháng 12 năm 2027 | Thứ Bảy |
 
-Hãy lưu ý rằng **Hari Wesak và Deepavali đều rơi vào một Chủ Nhật trong năm 2026**, và ngày thứ hai của Hari Raya
-Puasa rơi vào một Chủ Nhật. Khi Chủ Nhật là ngày nghỉ của người lao động, điều khoản
-thay thế của s.60D(1) chuyển ngày nghỉ lễ có lương sang ngày làm việc kế tiếp.
+Ngày thứ hai của Tết Nguyên đán **không** phải là ngày nghỉ lễ công liên bang ở Kelantan và
+Terengganu, và ngày thứ hai của Hari Raya Qurban là ngày nghỉ lễ công liên bang **chỉ** ở
+Kelantan và Terengganu — các biến thể của Phụ lục Thứ Nhất nêu dưới đây. Deepavali được tuân thủ
+trên toàn quốc **trừ ở Sarawak**.
 
-## Các ngày nghỉ lễ cấp bang năm 2026
+Ba ngày nghỉ lễ công liên bang rơi vào một **Chủ Nhật** trong năm 2027 — ngày thứ hai của Tết
+Nguyên đán (7 tháng 2), Awal Muharam (6 tháng 6) và Maulidur Rasul (15 tháng 8). Khi Chủ Nhật là
+ngày nghỉ của người lao động, điều khoản thay thế của s.60D(1) chuyển ngày nghỉ lễ có lương sang
+ngày làm việc kế tiếp. Awal Muharam là trường hợp rắc rối: nó rơi vào Chủ Nhật ngày 6 tháng 6 và
+ngay sau đó là sinh nhật của Agong vào Thứ Hai ngày 7 tháng 6, nên khi Chủ Nhật là ngày nghỉ thì
+ngày nghỉ lễ có lương thay thế dời sang **Thứ Ba ngày 8 tháng 6** — ngày làm việc đầu tiên mà bản
+thân nó không phải là ngày nghỉ lễ.
 
-Đây là những ngày xuất hiện trong biểu bang của Bahagian Kabinet cho năm 2026. **Bang nào
-tuân thủ mỗi ngày không được sao lại ở đây**: các cột khả năng áp dụng trong tệp PDF nguồn
-là đồ họa và không trích xuất một cách đáng tin cậy, và công bố một ma trận bang từ một
-bảng bị đọc sai sẽ tệ hơn là không công bố gì. Hãy đọc khả năng áp dụng từ tài liệu nguồn
-hoặc công báo Bang liên quan. Khi ngày nghỉ lễ nêu tên một Bang hoặc một Quốc vương, Bang
-là hiển nhiên.
+## Các ngày nghỉ lễ cấp bang năm 2027
 
-| Ngày nghỉ lễ | Ngày năm 2026 |
+Đây là những ngày xuất hiện trong biểu bang của Bahagian Kabinet cho năm 2027. **Bang nào
+tuân thủ mỗi ngày không được sao lại đầy đủ ở đây**: nguồn liệt kê khả năng áp dụng dưới dạng
+một ma trận đánh dấu theo từng Bang, và một lịch bảng lương nên được xây dựng từ chính công báo
+thay vì một bảng lưới được trình bày lại. Hãy đọc khả năng áp dụng từ tài liệu nguồn hoặc công
+báo Bang liên quan. Khi ngày nghỉ lễ nêu tên một Bang hoặc một Quốc vương, Bang là hiển nhiên.
+
+| Ngày nghỉ lễ | Ngày năm 2027 |
 | --- | --- |
 | Tết Dương lịch | 1 tháng 1 |
+| Israk và Mikraj | 6 tháng 1 |
 | Sinh nhật của [Yang di-Pertuan Besar bang Negeri Sembilan](/vi/malaysia/negeri-sembilan-royal-institution) | 14 tháng 1 |
-| Israk và Mikraj | 17 tháng 1 |
-| [Thaipusam](/vi/arts-culture/thaipusam) | 1 tháng 2 |
+| [Thaipusam](/vi/arts-culture/thaipusam) | 22 tháng 1 |
 | Ngày Lãnh thổ Liên bang | 1 tháng 2 |
-| Tết Nguyên đán (ngày thứ hai) | 18 tháng 2 |
-| Awal Ramadan * | 19 tháng 2 |
+| Tết Nguyên đán (ngày thứ hai) — Kelantan và Terengganu | 7 tháng 2 |
+| Awal Ramadan * | 8 tháng 2 |
 | Ngày Tuyên bố Độc lập | 20 tháng 2 |
+| Nuzul Al-Quran | 24 tháng 2 |
 | Kỷ niệm ngày Đăng quang của Sultan bang Terengganu | 4 tháng 3 |
-| Nuzul Al-Quran | 7 tháng 3 |
+| Hari Raya Puasa (ngày thứ ba) | 12 tháng 3 |
 | Sinh nhật của Sultan bang Johor | 23 tháng 3 |
-| Hari Raya Puasa (ngày thứ ba) | 23 tháng 3 |
+| Thứ Sáu Tuần Thánh | 26 tháng 3 |
 | Sinh nhật của Yang di-Pertua Negeri bang Sabah | 30 tháng 3 |
-| Thứ Sáu Tuần Thánh | 3 tháng 4 |
 | Sinh nhật của Sultan bang Terengganu | 26 tháng 4 |
+| Hari Arafah | 16 tháng 5 |
 | Kỷ niệm Sinh nhật của Raja bang Perlis | 17 tháng 5 |
+| Hari Raya Qurban (ngày thứ hai) * | 18 tháng 5 |
 | Hari Hol Almarhum Sultan Ahmad Shah | 22 tháng 5 |
-| Hari Arafah | 26 tháng 5 |
-| Hari Raya Qurban (ngày thứ hai) * | 28 tháng 5 |
 | [Pesta Kaamatan](/vi/arts-culture/kaamatan) | 30 và 31 tháng 5 |
 | Hari [Gawai Dayak](/vi/arts-culture/gawai-dayak) | 1 và 2 tháng 6 |
-| Sinh nhật của Sultan bang Kedah | 21 tháng 6 |
+| Sinh nhật của Sultan bang Kedah | 20 tháng 6 |
 | Kỷ niệm ngày Tuyên bố Di sản Thế giới | 7 tháng 7 |
-| Sinh nhật của Yang di-Pertua Negeri bang Pulau Pinang | 11 tháng 7 |
-| Hari Hol Almarhum Sultan Iskandar | 21 tháng 7 |
+| Sinh nhật của Yang di-Pertua Negeri bang Pulau Pinang | 10 tháng 7 |
+| Hari Hol Almarhum Sultan Iskandar | 11 tháng 7 |
 | Ngày Độc lập Sarawak | 22 tháng 7 |
-| Sinh nhật của Sultan bang Pahang | 31 tháng 7 |
+| Sinh nhật của Sultan bang Pahang | 30 tháng 7 |
 | Sinh nhật của Yang di-Pertua Negeri bang Melaka | 24 tháng 8 |
 | Sinh nhật của Sultan bang Kelantan | 29 và 30 tháng 9 |
-| Sinh nhật của Yang di-Pertua Negeri bang Sarawak | 10 tháng 10 |
-| Sinh nhật của Sultan bang Perak | 6 tháng 11 |
+| Sinh nhật của Yang di-Pertua Negeri bang Sarawak | 9 tháng 10 |
+| Sinh nhật của Sultan bang Perak | 5 tháng 11 |
 | Sinh nhật của Sultan bang Selangor | 11 tháng 12 |
 | Đêm Giáng sinh | 24 tháng 12 |
+| Israk và Mikraj (lần xuất hiện thứ hai) | 26 tháng 12 |
 
 ## Những lỗi thường gặp
 
@@ -218,7 +231,7 @@ ngay cả khi công việc ít hơn giờ làm bình thường.
 **Dùng các ngày nghỉ lễ của trụ sở chính cho nhân sự ở một bang khác.** Sinh nhật của Quốc vương đi theo
 Bang nơi người lao động làm việc toàn bộ hoặc chủ yếu.
 
-**Coi danh sách liên bang là cố định.** Năm trong số các ngày liên bang năm 2026 được gắn cờ trong
+**Coi danh sách liên bang là cố định.** Năm trong số các ngày liên bang năm 2027 được gắn cờ trong
 nguồn là có thể thay đổi, và các ngày theo lịch Hồi giáo nói riêng thay đổi theo việc quan sát trăng.
 
 **Cho rằng các biến thể của Kelantan và Terengganu là không chính thức.** Chúng nằm trong Phụ lục

@@ -5,7 +5,7 @@ seoTitle: "말레이시아 공휴일 — 연방, 주 및 고용법 규칙"
 slug: "public-holidays-malaysia"
 category: "employment"
 subcategory: ["leave-and-welfare"]
-summary: "연방 및 주 공휴일 구조, 2026년 연방 공휴일 날짜, 그리고 근로자가 실제로 며칠분을 유급으로 받는지를 결정하는 고용법 규칙을 다룹니다."
+summary: "연방 및 주 공휴일 구조, 2027년 연방 공휴일 날짜, 그리고 근로자가 실제로 며칠분을 유급으로 받는지를 결정하는 고용법 규칙을 다룹니다."
 
 tier: "4"
 mode: "practical"
@@ -34,11 +34,11 @@ faq:
     a: "제60D(1)(a)(iii)조는 이를 근로자가 근로계약에 따라 전부 또는 주로 일하는 주에 결부시키며, 근로자가 전부 또는 주로 연방직할구에서 일하는 경우 연방직할구일을 부여합니다. 완전 원격 근무자의 경우 계약상 근로 장소가 기준점이 되며, 이것이 계약서에 이를 명시적으로 기재해야 하는 한 가지 이유입니다."
 
 verificationNeeded:
-  - "2026년 일정에서 각 주 단위 공휴일의 주별 적용 여부를 확인할 것 — 내각처 PDF의 주 열이 그래픽이어서 텍스트로 추출되지 않으므로, 적용 여부는 원본 문서나 각 주 관보에서 읽어야 함"
-  - "내각처 일정에서 변경될 수 있음으로 표시된 날짜를 확인할 것 — 하리 라야 푸아사, 하리 라야 쿠르반, 디파발리, 아왈 라마단, 하리 라야 쿠르반 둘째 날이 모두 표시되어 있음"
+  - "2027년 주별 적용 여부는 내각처 일정의 주 열(렌더링된 원본 PDF에서 읽음)에 제시되어 있으며, 이 문서는 전체 주 행렬을 재현하지 않으므로 특정 주의 준수 여부는 인용된 관보나 해당 주 자체 관보에서 확인할 것"
+  - "2027년 일정의 이슬람력 날짜는 변경될 수 있음(tertakluk kepada perubahan)으로 표시되어 있음 — 하리 라야 푸아사, 하리 라야 쿠르반, 디파발리, 아왈 라마단 — 달 관측에 따라 바뀔 수 있으므로 날짜가 가까워지면 재확인할 것"
 
 lang: "ko"
-sourceContentHash: "4f900b1fb9347b94"
+sourceContentHash: "b861e023fe13b604"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -47,19 +47,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 federal and state calendars with the gazetted 2027 Cabinet Division schedule (12 federal holidays / 15 dates and 34 state holidays, all day-of-week verified), refreshed the year-specific prose and the subject-to-change note, and swapped the source to the 2027 gazette. The Employment Act and Holidays Act framework is unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-28
 sources:
-  - title: "2026년 연방 및 주 공휴일 일정표 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
-    url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+  - title: "2027년 연방 및 주 공휴일 일정표 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2027)"
+    url: "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
     publisher: "내각·헌법·정부간관계국, 총리실"
-    date: "2025-08-01"
+    date: "2026-08-01"
   - title: "Holidays Act 1951 (Act 369), 개정 본문 (Holidays Act 1951 (Act 369), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
     publisher: "법무장관실"
@@ -74,7 +78,7 @@ relations:
   - { rel: "governs", to: "leave-entitlements-malaysia" }
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
-keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+keywords: ["public holidays malaysia 2027", "cuti umum 2027", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
 framework: data-reference
 ---
 
@@ -130,76 +134,84 @@ framework: data-reference
 법정 목록을 획일적인 것으로 취급하는 달력은 주 당국이 무엇을 선포하기도 전에 이미
 틀린 것입니다.
 
-## 2026년 연방 공휴일
+## 2027년 연방 공휴일
 
 내각처 일정에 따르면 12개 공휴일에 걸쳐 15일입니다. 별표가 표시된 날은 출처에서
 변경될 수 있다고 명시되어 있습니다.
 
 | 공휴일 | 날짜 | 요일 |
 | --- | --- | --- |
-| 설날(Chinese New Year) | 2026년 2월 17일 | 화요일 |
-| 설날 (둘째 날) | 2026년 2월 18일 | 수요일 |
-| 하리 라야 푸아사(Hari Raya Puasa) * | 2026년 3월 21일 | 토요일 |
-| 하리 라야 푸아사 (둘째 날) * | 2026년 3월 22일 | 일요일 |
-| 하리 프커르자 / 노동절(Workers' Day) | 2026년 5월 1일 | 금요일 |
-| 하리 라야 쿠르반(Hari Raya Qurban) * | 2026년 5월 27일 | 수요일 |
-| 하리 라야 쿠르반 (둘째 날) * | 2026년 5월 28일 | 목요일 |
-| 하리 웨삭(Hari Wesak) | 2026년 5월 31일 | 일요일 |
-| 양 디페르투안 아공(국왕)의 공식 생일 | 2026년 6월 1일 | 월요일 |
-| 아왈 무하람 / 마알 히즈라(Awal Muharam / Maal Hijrah) | 2026년 6월 17일 | 수요일 |
-| 마울리두르 라술(Maulidur Rasul) | 2026년 8월 25일 | 화요일 |
-| 하리 크방사안 / 국경일(National Day) | 2026년 8월 31일 | 월요일 |
-| 하리 말레이시아 / 말레이시아의 날(Malaysia Day) | 2026년 9월 16일 | 수요일 |
-| [디파발리(Deepavali)](/arts-culture/deepavali) * | 2026년 11월 8일 | 일요일 |
-| 성탄절(Christmas Day) | 2026년 12월 25일 | 금요일 |
+| 설날(Chinese New Year) | 2027년 2월 6일 | 토요일 |
+| 설날 (둘째 날) | 2027년 2월 7일 | 일요일 |
+| 하리 라야 푸아사(Hari Raya Puasa) * | 2027년 3월 10일 | 수요일 |
+| 하리 라야 푸아사 (둘째 날) * | 2027년 3월 11일 | 목요일 |
+| 하리 프커르자 / 노동절(Workers' Day) | 2027년 5월 1일 | 토요일 |
+| 하리 라야 쿠르반(Hari Raya Qurban) * | 2027년 5월 17일 | 월요일 |
+| 하리 라야 쿠르반 (둘째 날) * | 2027년 5월 18일 | 화요일 |
+| 하리 웨삭(Hari Wesak) | 2027년 5월 20일 | 목요일 |
+| 아왈 무하람 / 마알 히즈라(Awal Muharam / Maal Hijrah) | 2027년 6월 6일 | 일요일 |
+| 양 디페르투안 아공(국왕)의 공식 생일 | 2027년 6월 7일 | 월요일 |
+| 마울리두르 라술(Maulidur Rasul) | 2027년 8월 15일 | 일요일 |
+| 하리 크방사안 / 국경일(National Day) | 2027년 8월 31일 | 화요일 |
+| 하리 말레이시아 / 말레이시아의 날(Malaysia Day) | 2027년 9월 16일 | 목요일 |
+| [디파발리(Deepavali)](/arts-culture/deepavali) * | 2027년 10월 28일 | 목요일 |
+| 성탄절(Christmas Day) | 2027년 12월 25일 | 토요일 |
 
-**2026년에 하리 웨삭과 디파발리가 모두 일요일**이며, 하리 라야 푸아사 둘째 날도
-일요일임에 유의하십시오. 일요일이 근로자의 휴식일인 경우, 제60D조(1)의 대체 단서에
-따라 유급휴일이 다음 근무일로 이동합니다.
+설날 둘째 날은 클란탄과 트렝가누에서는 연방 공휴일이 **아니며**, 하리 라야 쿠르반
+둘째 날은 **클란탄과 트렝가누에서만** 연방 공휴일입니다 — 아래의 제1부칙 변형에 따른
+것입니다. 디파발리는 **사라왁을 제외한** 전국에서 준수됩니다.
 
-## 2026년 주 단위 공휴일
+**2027년에는 세 개의 연방 공휴일이 일요일**에 해당합니다 — 설날 둘째 날(2월 7일), 아왈
+무하람(6월 6일), 마울리두르 라술(8월 15일)입니다. 일요일이 근로자의 휴식일인 경우,
+제60D조(1)의 대체 단서에 따라 유급휴일이 다음 근무일로 이동합니다. 아왈 무하람이
+까다로운 경우입니다: 이는 6월 6일 일요일에 해당하고 바로 다음 날인 6월 7일 월요일이
+아공(국왕)의 생일이므로, 일요일이 휴식일인 경우 대체 유급휴일은 그 자체가 공휴일이
+아닌 첫 근무일인 **6월 8일 화요일**로 넘어갑니다.
 
-다음은 내각처의 2026년 주 일정에 나타나는 날들입니다. **각 날을 어느 주가 준수하는지는
-여기에 재현하지 않았습니다**: 출처 PDF의 적용 여부 열은 그래픽 형태여서 안정적으로
-추출되지 않으며, 잘못 읽은 표에서 주별 표를 발행하는 것은 아무것도 발행하지 않는
-것보다 나쁩니다. 적용 여부는 출처 문서나 해당 주 관보에서 확인하십시오. 공휴일 명칭에
-주 또는 통치자가 포함된 경우, 해당 주는 자명합니다.
+## 2027년 주 단위 공휴일
 
-| 공휴일 | 2026년 날짜 |
+다음은 내각처의 2027년 주 일정에 나타나는 날들입니다. **각 날을 어느 주가 준수하는지는
+여기에 전부 재현하지 않았습니다**: 출처는 적용 여부를 주별 체크 표 형태로 나열하고
+있으며, 급여 달력은 재구성한 표가 아니라 관보 자체를 근거로 작성해야 합니다. 적용
+여부는 출처 문서나 해당 주 관보에서 확인하십시오. 공휴일 명칭에 주 또는 통치자가
+포함된 경우, 해당 주는 자명합니다.
+
+| 공휴일 | 2027년 날짜 |
 | --- | --- |
 | 신정(New Year's Day) | 1월 1일 |
+| 이스락과 미크라지(Israk and Mikraj) | 1월 6일 |
 | [네게리 슴빌란(Negeri Sembilan)의 양 디페르투안 브사르](/ko/malaysia/negeri-sembilan-royal-institution) 생일 | 1월 14일 |
-| 이스락과 미크라지(Israk and Mikraj) | 1월 17일 |
-| [타이푸삼(Thaipusam)](/arts-culture/thaipusam) | 2월 1일 |
+| [타이푸삼(Thaipusam)](/arts-culture/thaipusam) | 1월 22일 |
 | 연방직할구의 날(Federal Territory Day) | 2월 1일 |
-| 설날 (둘째 날) | 2월 18일 |
-| 아왈 라마단(Awal Ramadan) * | 2월 19일 |
+| 설날 (둘째 날) — 클란탄과 트렝가누 | 2월 7일 |
+| 아왈 라마단(Awal Ramadan) * | 2월 8일 |
 | 독립 선언일(Declaration of Independence Day) | 2월 20일 |
+| 누줄 알쿠란(Nuzul Al-Quran) | 2월 24일 |
 | 트렝가누 술탄 즉위 기념일 | 3월 4일 |
-| 누줄 알쿠란(Nuzul Al-Quran) | 3월 7일 |
+| 하리 라야 푸아사 (셋째 날) | 3월 12일 |
 | 조호르(Johor) 술탄 생일 | 3월 23일 |
-| 하리 라야 푸아사 (셋째 날) | 3월 23일 |
+| 성금요일(Good Friday) | 3월 26일 |
 | 사바(Sabah) 양 디페르투아 네게리 생일 | 3월 30일 |
-| 성금요일(Good Friday) | 4월 3일 |
 | 트렝가누 술탄 생일 | 4월 26일 |
+| 하리 아라파(Hari Arafah) | 5월 16일 |
 | 프를리스(Perlis) 라자 탄생 기념일 | 5월 17일 |
+| 하리 라야 쿠르반 (둘째 날) * | 5월 18일 |
 | 하리 홀 알마르훔 술탄 아흐마드 샤(Hari Hol Almarhum Sultan Ahmad Shah) | 5월 22일 |
-| 하리 아라파(Hari Arafah) | 5월 26일 |
-| 하리 라야 쿠르반 (둘째 날) * | 5월 28일 |
 | [페스타 카아마탄(Pesta Kaamatan)](/arts-culture/kaamatan) | 5월 30일 및 31일 |
 | 하리 [가와이 다야크(Gawai Dayak)](/arts-culture/gawai-dayak) | 6월 1일 및 2일 |
-| 크다(Kedah) 술탄 생일 | 6월 21일 |
+| 크다(Kedah) 술탄 생일 | 6월 20일 |
 | 세계유산 지정 기념일 | 7월 7일 |
-| 풀라우 피낭(Pulau Pinang) 양 디페르투아 네게리 생일 | 7월 11일 |
-| 하리 홀 알마르훔 술탄 이스칸다르(Hari Hol Almarhum Sultan Iskandar) | 7월 21일 |
+| 풀라우 피낭(Pulau Pinang) 양 디페르투아 네게리 생일 | 7월 10일 |
+| 하리 홀 알마르훔 술탄 이스칸다르(Hari Hol Almarhum Sultan Iskandar) | 7월 11일 |
 | 사라왁 독립일(Sarawak Independence Day) | 7월 22일 |
-| 파항(Pahang) 술탄 생일 | 7월 31일 |
+| 파항(Pahang) 술탄 생일 | 7월 30일 |
 | 믈라카(Melaka) 양 디페르투아 네게리 생일 | 8월 24일 |
 | 클란탄(Kelantan) 술탄 생일 | 9월 29일 및 30일 |
-| 사라왁 양 디페르투아 네게리 생일 | 10월 10일 |
-| 페락(Perak) 술탄 생일 | 11월 6일 |
+| 사라왁 양 디페르투아 네게리 생일 | 10월 9일 |
+| 페락(Perak) 술탄 생일 | 11월 5일 |
 | 슬랑오르(Selangor) 술탄 생일 | 12월 11일 |
 | 크리스마스 이브(Christmas Eve) | 12월 24일 |
+| 이스락과 미크라지 (두 번째) | 12월 26일 |
 
 ## 흔한 실수
 
@@ -214,7 +226,7 @@ framework: data-reference
 **다른 주에 있는 직원에게 본사 공휴일을 적용하는 것.** 통치자의 생일은 근로자가
 전적으로 또는 주로 근무하는 주를 따릅니다.
 
-**연방 목록을 고정된 것으로 취급하는 것.** 2026년 연방 날짜 중 5개는 출처에서 변경될
+**연방 목록을 고정된 것으로 취급하는 것.** 2027년 연방 날짜 중 5개는 출처에서 변경될
 수 있다고 표시되어 있으며, 특히 이슬람력 날짜는 달 관측에 따라 바뀝니다.
 
 **클란탄과 트렝가누의 차이를 비공식적인 것으로 가정하는 것.** 이는 공휴일법의 제1부칙

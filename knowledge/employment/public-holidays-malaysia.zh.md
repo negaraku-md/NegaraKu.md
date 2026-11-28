@@ -5,7 +5,7 @@ seoTitle: "马来西亚公共假期——联邦、州属与 EA 的规则"
 slug: "public-holidays-malaysia"
 category: "employment"
 subcategory: ["leave-and-welfare"]
-summary: "联邦与州属的公共假期架构、2026 年的联邦日期，以及决定雇员实际能领薪多少天的那条 Employment Act 规则。"
+summary: "联邦与州属的公共假期架构、2027 年的联邦日期，以及决定雇员实际能领薪多少天的那条 Employment Act 规则。"
 
 tier: "4"
 mode: "practical"
@@ -34,13 +34,13 @@ faq:
     a: "Section 60D(1)(a)(iii) 把它系于雇员依其服务合约全部或主要工作所在的州；若雇员全部或主要在联邦直辖区工作，则给予联邦直辖区日。对完全远程的员工而言，合约上的工作地点就是参照点，这也是把它在合约中明确写出来的一个理由。"
 
 verificationNeeded:
-  - "须核实2026年时间表中各州级假期按州划分的适用情况——Cabinet Division PDF中的州属栏位为图形，无法作为文本提取，因此适用情况须从原始文件或各州宪报中读取"
-  - "核实内阁厅时间表中标注为可能变动的日期——Hari Raya Puasa、Hari Raya Qurban、Deepavali、Awal Ramadan及Hari Raya Qurban次日均被标记。"
+  - "2027年时间表中各州级假期的适用情况由 Cabinet Division 时间表的州属栏位给出（从渲染后的来源 PDF 读取）；本文不重列完整的州属矩阵，因此任何特定州属的遵守情况，请对照所引宪报或该州本身的宪报核实"
+  - "2027年时间表中的伊斯兰历日期被标注为可能变动（tertakluk kepada perubahan）——Hari Raya Puasa、Hari Raya Qurban、Deepavali 及 Awal Ramadan——并可能随观月而移动；临近日期时请重新确认"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4f900b1fb9347b94"
+sourceContentHash: "b861e023fe13b604"
 
 status: "published"
 aiAssisted: true
@@ -48,19 +48,23 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 federal and state calendars with the gazetted 2027 Cabinet Division schedule (12 federal holidays / 15 dates and 34 state holidays, all day-of-week verified), refreshed the year-specific prose and the subject-to-change note, and swapped the source to the 2027 gazette. The Employment Act and Holidays Act framework is unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-28
 sources:
-  - title: "2026年联邦及各州公共假期表 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
-    url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+  - title: "2027年联邦及各州公共假期表 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2027)"
+    url: "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
     publisher: "内阁、宪法及政府间关系局，首相署"
-    date: "2025-08-01"
+    date: "2026-08-01"
   - title: "Holidays Act 1951 (Act 369)，更新文本 (Holidays Act 1951 (Act 369), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
     publisher: "总检察署"
@@ -75,7 +79,7 @@ relations:
   - { rel: "governs", to: "leave-entitlements-malaysia" }
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
-keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+keywords: ["public holidays malaysia 2027", "cuti umum 2027", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
 framework: data-reference
 ---
 
@@ -125,73 +129,80 @@ First Schedule 在条文表面就已经因州而异：**农历新年在吉兰丹
 州为两天**，而**哈芝节在吉兰丹与登嘉楼为两天，在其他州为一天**。任何把法定清单当成
 一致的日历，在各州当局尚未宣布任何东西之前就已经是错的。
 
-## 2026 年联邦公共假期
+## 2027 年联邦公共假期
 
-依内阁组的时间表，十二个假期共十五天。标有星号的日子，来源文件表明可能有变。
+依内阁组的时间表，十二个假期共十五个日期。标有星号的日子，来源文件表明可能有变。
 
 | 假期 | 日期 | 星期 |
 | --- | --- | --- |
-| 农历新年 | 2026 年 2 月 17 日 | 星期二 |
-| 农历新年（第二天） | 2026 年 2 月 18 日 | 星期三 |
-| 开斋节 * | 2026 年 3 月 21 日 | 星期六 |
-| 开斋节（第二天） * | 2026 年 3 月 22 日 | 星期日 |
-| 劳动节 | 2026 年 5 月 1 日 | 星期五 |
-| 哈芝节 * | 2026 年 5 月 27 日 | 星期三 |
-| 哈芝节（第二天） * | 2026 年 5 月 28 日 | 星期四 |
-| 卫塞节 | 2026 年 5 月 31 日 | 星期日 |
-| 最高元首官方诞辰 | 2026 年 6 月 1 日 | 星期一 |
-| 回历新年／玛尔希吉拉 | 2026 年 6 月 17 日 | 星期三 |
-| 先知诞辰 | 2026 年 8 月 25 日 | 星期二 |
-| 国庆日 | 2026 年 8 月 31 日 | 星期一 |
-| 马来西亚日 | 2026 年 9 月 16 日 | 星期三 |
-| [屠妖节](/arts-culture/deepavali) * | 2026 年 11 月 8 日 | 星期日 |
-| 圣诞节 | 2026 年 12 月 25 日 | 星期五 |
+| 农历新年 | 2027 年 2 月 6 日 | 星期六 |
+| 农历新年（第二天） | 2027 年 2 月 7 日 | 星期日 |
+| 开斋节 * | 2027 年 3 月 10 日 | 星期三 |
+| 开斋节（第二天） * | 2027 年 3 月 11 日 | 星期四 |
+| 劳动节 | 2027 年 5 月 1 日 | 星期六 |
+| 哈芝节 * | 2027 年 5 月 17 日 | 星期一 |
+| 哈芝节（第二天） * | 2027 年 5 月 18 日 | 星期二 |
+| 卫塞节 | 2027 年 5 月 20 日 | 星期四 |
+| 回历新年／玛尔希吉拉 | 2027 年 6 月 6 日 | 星期日 |
+| 最高元首官方诞辰 | 2027 年 6 月 7 日 | 星期一 |
+| 先知诞辰 | 2027 年 8 月 15 日 | 星期日 |
+| 国庆日 | 2027 年 8 月 31 日 | 星期二 |
+| 马来西亚日 | 2027 年 9 月 16 日 | 星期四 |
+| [屠妖节](/arts-culture/deepavali) * | 2027 年 10 月 28 日 | 星期四 |
+| 圣诞节 | 2027 年 12 月 25 日 | 星期六 |
 
-请留意，**卫塞节与屠妖节在 2026 年都落在星期日**，而开斋节第二天也落在星期日。凡
-星期日是雇员的休息日，s.60D(1) 的替代但书会把该有薪假期移到下一个工作日。
+农历新年第二天在吉兰丹与登嘉楼**不是**联邦假期，而哈芝节第二天**仅**在吉兰丹与登嘉楼
+为联邦假期——即下文 First Schedule 的州属差异。屠妖节全国遵守，惟**砂拉越除外**。
 
-## 2026 年州级假期
+2027 年有三个联邦假期落在**星期日**——农历新年第二天（2 月 7 日）、回历新年（6 月 6 日）
+与先知诞辰（8 月 15 日）。凡星期日是雇员的休息日，s.60D(1) 的替代但书会把该有薪假期移到
+下一个工作日。回历新年是棘手的情形：它落在 6 月 6 日星期日，紧接着 6 月 7 日星期一就是
+最高元首诞辰，因此凡星期日为休息日，替代的有薪假期顺延至 **6 月 8 日星期二**——即第一个
+本身不是假期的工作日。
 
-以下是出现在内阁组 2026 年州属时间表中的日子。**哪些州遵守哪一个，此处不予重列**：
-来源 PDF 中的适用性栏位是图形化的，无法可靠地提取，而根据一张误读的表格来发布州属
-对照矩阵，会比什么都不发布更糟。适用性请从来源文件或相关州宪报读取。凡假期名称已
-点出某州或某统治者，该州不言自明。
+## 2027 年州级假期
 
-| 假期 | 2026 年日期 |
+以下是出现在内阁组 2027 年州属时间表中的日子。**哪些州遵守哪一个，此处不予完整重列**：
+来源文件把适用性列为逐州的勾选矩阵，而薪资假期日历应当依据宪报本身来编制，而非一张
+转述的网格。适用性请从来源文件或相关州宪报读取。凡假期名称已点出某州或某统治者，该州
+不言自明。
+
+| 假期 | 2027 年日期 |
 | --- | --- |
 | 元旦 | 1 月 1 日 |
+| 登霄节 | 1 月 6 日 |
 | [森美兰最高统治者](/zh/malaysia/negeri-sembilan-royal-institution)诞辰 | 1 月 14 日 |
-| 登霄节 | 1 月 17 日 |
-| [大宝森节](/arts-culture/thaipusam) | 2 月 1 日 |
+| [大宝森节](/arts-culture/thaipusam) | 1 月 22 日 |
 | 联邦直辖区日 | 2 月 1 日 |
-| 农历新年（第二天） | 2 月 18 日 |
-| 斋戒月首日 * | 2 月 19 日 |
+| 农历新年（第二天）——吉兰丹与登嘉楼 | 2 月 7 日 |
+| 斋戒月首日 * | 2 月 8 日 |
 | 独立宣言日 | 2 月 20 日 |
+| 可兰经降世日 | 2 月 24 日 |
 | 登嘉楼苏丹加冕周年 | 3 月 4 日 |
-| 可兰经降世日 | 3 月 7 日 |
+| 开斋节（第三天） | 3 月 12 日 |
 | 柔佛苏丹诞辰 | 3 月 23 日 |
-| 开斋节（第三天） | 3 月 23 日 |
+| 耶稣受难日 | 3 月 26 日 |
 | 沙巴州元首诞辰 | 3 月 30 日 |
-| 耶稣受难日 | 4 月 3 日 |
 | 登嘉楼苏丹诞辰 | 4 月 26 日 |
+| 阿拉法日 | 5 月 16 日 |
 | 玻璃市拉惹诞辰纪念 | 5 月 17 日 |
+| 哈芝节（第二天） * | 5 月 18 日 |
 | 已故苏丹阿末沙忌辰 | 5 月 22 日 |
-| 阿拉法日 | 5 月 26 日 |
-| 哈芝节（第二天） * | 5 月 28 日 |
 | [丰收节](/arts-culture/kaamatan) | 5 月 30 与 31 日 |
 | [达雅节](/arts-culture/gawai-dayak) | 6 月 1 与 2 日 |
-| 吉打苏丹诞辰 | 6 月 21 日 |
+| 吉打苏丹诞辰 | 6 月 20 日 |
 | 世界遗产城市宣布周年 | 7 月 7 日 |
-| 槟城州元首诞辰 | 7 月 11 日 |
-| 已故苏丹依斯干达忌辰 | 7 月 21 日 |
+| 槟城州元首诞辰 | 7 月 10 日 |
+| 已故苏丹依斯干达忌辰 | 7 月 11 日 |
 | 砂拉越独立日 | 7 月 22 日 |
-| 彭亨苏丹诞辰 | 7 月 31 日 |
+| 彭亨苏丹诞辰 | 7 月 30 日 |
 | 马六甲州元首诞辰 | 8 月 24 日 |
 | 吉兰丹苏丹诞辰 | 9 月 29 与 30 日 |
-| 砂拉越州元首诞辰 | 10 月 10 日 |
-| 霹雳苏丹诞辰 | 11 月 6 日 |
+| 砂拉越州元首诞辰 | 10 月 9 日 |
+| 霹雳苏丹诞辰 | 11 月 5 日 |
 | 雪兰莪苏丹诞辰 | 12 月 11 日 |
 | 平安夜 | 12 月 24 日 |
+| 登霄节（第二次） | 12 月 26 日 |
 
 ## 常见错误
 
@@ -205,7 +216,7 @@ s.8 的指定日子，而雇主必须提名并张贴那六个自选的。
 
 **为在另一个州的员工套用总部的假期。** 统治者诞辰跟随雇员全部或主要工作所在的州。
 
-**把联邦清单当成固定不变。** 2026 年的联邦日期中有五个在来源中被标示为可能有变，
+**把联邦清单当成固定不变。** 2027 年的联邦日期中有五个在来源中被标示为可能有变，
 而伊斯兰历日期尤其会随观月而移动。
 
 **以为吉兰丹与登嘉楼的差异是非正式的。** 它们就写在 Holidays Act 的 First Schedule

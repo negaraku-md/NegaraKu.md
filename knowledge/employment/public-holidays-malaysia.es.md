@@ -5,7 +5,7 @@ seoTitle: "Días festivos Malasia — federales, estatales y la regla de la EA"
 slug: "public-holidays-malaysia"
 category: "employment"
 subcategory: ["leave-and-welfare"]
-summary: "La estructura federal y estatal de días festivos, las fechas federales de 2026 y la regla de la Employment Act que decide por cuántos de ellos se paga realmente a un empleado."
+summary: "La estructura federal y estatal de días festivos, las fechas federales de 2027 y la regla de la Employment Act que decide por cuántos de ellos se paga realmente a un empleado."
 
 tier: "4"
 mode: "practical"
@@ -34,11 +34,11 @@ faq:
     a: "El artículo 60D(1)(a)(iii) lo vincula al Estado en el que el empleado trabaja total o principalmente bajo su contrato de servicio, y otorga el Día del Territorio Federal cuando el empleado trabaja total o principalmente en el Territorio Federal. Para el personal totalmente remoto, el lugar de trabajo contractual es el punto de referencia, lo que es una razón para indicarlo expresamente en el contrato."
 
 verificationNeeded:
-  - "Confirm the state-by-state applicability of each state-level holiday in the 2026 schedule — the state columns in the Cabinet Division PDF are graphical and do not extract as text, so applicability must be read off the source document or each State gazette"
-  - "Confirm dates marked as subject to change in the Cabinet Division schedule — Hari Raya Puasa, Hari Raya Qurban, Deepavali, Awal Ramadan and Hari Raya Qurban second day are all flagged"
+  - "La aplicabilidad estado por estado para 2027 figura en las columnas estatales del calendario de la División del Gabinete (leídas del PDF fuente renderizado); este artículo no reproduce la matriz estatal completa, así que confirme la observancia de un Estado concreto con el boletín oficial (gazette) citado o con el boletín del propio Estado"
+  - "Las fechas islámicas del calendario de 2027 están marcadas como sujetas a cambio (tertakluk kepada perubahan) — Hari Raya Puasa, Hari Raya Qurban, Deepavali y Awal Ramadan — y pueden desplazarse según el avistamiento; reconfírmelas más cerca de la fecha"
 
 lang: "es"
-sourceContentHash: "4f900b1fb9347b94"
+sourceContentHash: "b861e023fe13b604"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-28
+    change: "Freshness update: replaced the 2026 federal and state calendars with the gazetted 2027 Cabinet Division schedule (12 federal holidays / 15 dates and 34 state holidays, all day-of-week verified), refreshed the year-specific prose and the subject-to-change note, and swapped the source to the 2027 gazette. The Employment Act and Holidays Act framework is unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-28
 sources:
-  - title: "Calendario de Días Festivos Federales y Estatales 2026 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2026)"
-    url: "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+  - title: "Calendario de Días Festivos Federales y Estatales 2027 (Jadual Hari Kelepasan Am Persekutuan dan Negeri 2027)"
+    url: "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf"
     publisher: "División del Gabinete, Constitución y Relaciones Intergubernamentales, Departamento del Primer Ministro (Jabatan Perdana Menteri)"
-    date: "2025-08-01"
+    date: "2026-08-01"
   - title: "Ley de Días Festivos de 1951 (Act 369), texto actualizado (Holidays Act 1951 (Act 369), updated text)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20369%20-%20Holiday%20Act%201951.pdf"
     publisher: "Cámara del Fiscal General (Attorney General's Chambers)"
@@ -75,7 +79,7 @@ relations:
   - { rel: "governs", to: "leave-entitlements-malaysia" }
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
-keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+keywords: ["public holidays malaysia 2027", "cuti umum 2027", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
 framework: data-reference
 ---
 
@@ -134,77 +138,87 @@ Kelantan y Terengganu y un día en los demás Estados**. Cualquier calendario qu
 legal como uniforme está equivocado antes incluso de que las Autoridades Estatales hayan
 declarado nada.
 
-## Días festivos federales 2026
+## Días festivos federales 2027
 
 Quince días repartidos en doce festivos, según el calendario de la División del Gabinete. Los
 días marcados con asterisco se indican en la fuente como sujetos a cambio.
 
 | Festivo | Fecha | Día |
 | --- | --- | --- |
-| Año Nuevo Chino | 17 de febrero de 2026 | martes |
-| Año Nuevo Chino (segundo día) | 18 de febrero de 2026 | miércoles |
-| Hari Raya Puasa * | 21 de marzo de 2026 | sábado |
-| Hari Raya Puasa (segundo día) * | 22 de marzo de 2026 | domingo |
-| Hari Pekerja / Día del Trabajador | 1 de mayo de 2026 | viernes |
-| Hari Raya Qurban * | 27 de mayo de 2026 | miércoles |
-| Hari Raya Qurban (segundo día) * | 28 de mayo de 2026 | jueves |
-| Hari Wesak | 31 de mayo de 2026 | domingo |
-| Cumpleaños Oficial del Yang di-Pertuan Agong | 1 de junio de 2026 | lunes |
-| Awal Muharam / Maal Hijrah | 17 de junio de 2026 | miércoles |
-| Maulidur Rasul | 25 de agosto de 2026 | martes |
-| Hari Kebangsaan / Día Nacional | 31 de agosto de 2026 | lunes |
-| Hari Malaysia / Día de Malasia | 16 de septiembre de 2026 | miércoles |
-| [Deepavali](/arts-culture/deepavali) * | 8 de noviembre de 2026 | domingo |
-| Navidad | 25 de diciembre de 2026 | viernes |
+| Año Nuevo Chino | 6 de febrero de 2027 | sábado |
+| Año Nuevo Chino (segundo día) | 7 de febrero de 2027 | domingo |
+| Hari Raya Puasa * | 10 de marzo de 2027 | miércoles |
+| Hari Raya Puasa (segundo día) * | 11 de marzo de 2027 | jueves |
+| Hari Pekerja / Día del Trabajador | 1 de mayo de 2027 | sábado |
+| Hari Raya Qurban * | 17 de mayo de 2027 | lunes |
+| Hari Raya Qurban (segundo día) * | 18 de mayo de 2027 | martes |
+| Hari Wesak | 20 de mayo de 2027 | jueves |
+| Awal Muharam / Maal Hijrah | 6 de junio de 2027 | domingo |
+| Cumpleaños Oficial del Yang di-Pertuan Agong | 7 de junio de 2027 | lunes |
+| Maulidur Rasul | 15 de agosto de 2027 | domingo |
+| Hari Kebangsaan / Día Nacional | 31 de agosto de 2027 | martes |
+| Hari Malaysia / Día de Malasia | 16 de septiembre de 2027 | jueves |
+| [Deepavali](/arts-culture/deepavali) * | 28 de octubre de 2027 | jueves |
+| Navidad | 25 de diciembre de 2027 | sábado |
 
-Nótese que **Hari Wesak y Deepavali caen ambos en domingo en 2026**, y el segundo día de Hari
-Raya Puasa cae en domingo. Cuando el domingo es el día de descanso del empleado, la salvedad de
-sustitución del art. 60D(1) traslada el día festivo pagado al siguiente día laborable.
+El segundo día del Año Nuevo Chino **no** es día festivo federal en Kelantan y Terengganu, y el
+segundo día de Hari Raya Qurban es día festivo federal **solo** en Kelantan y Terengganu — las
+variaciones de la Primera Lista recogidas más abajo. Deepavali se observa en todo el país
+**excepto en Sarawak**.
 
-## Días festivos de nivel estatal 2026
+Tres días festivos federales caen en **domingo** en 2027 — el segundo día del Año Nuevo Chino
+(7 de febrero), Awal Muharam (6 de junio) y Maulidur Rasul (15 de agosto). Cuando el domingo es
+el día de descanso del empleado, la salvedad de sustitución del art. 60D(1) traslada el día
+festivo pagado al siguiente día laborable. Awal Muharam es el caso delicado: cae en domingo 6 de
+junio y le sigue inmediatamente el cumpleaños del Agong el lunes 7 de junio, de modo que, cuando
+el domingo es el día de descanso, el día festivo pagado en sustitución pasa al **martes 8 de
+junio** — el primer día laborable que no es a su vez festivo.
 
-Estos son los días que figuran en el calendario estatal de la División del Gabinete para 2026.
-**Qué Estados observan cada uno no se reproduce aquí**: las columnas de aplicabilidad en la PDF
-de la fuente son gráficas y no se extraen de forma fiable, y publicar una matriz estatal a
-partir de una tabla mal leída sería peor que no publicar ninguna. Lea la aplicabilidad en el
-documento fuente o en el boletín oficial (gazette) estatal correspondiente. Cuando el festivo
-nombra a un Estado o a un Gobernante, el Estado es evidente por sí mismo.
+## Días festivos de nivel estatal 2027
 
-| Festivo | Fecha 2026 |
+Estos son los días que figuran en el calendario estatal de la División del Gabinete para 2027.
+**Qué Estados observan cada uno no se reproduce aquí en su totalidad**: la fuente indica la
+aplicabilidad como una matriz de marcas por Estado, y un calendario de nóminas debería
+construirse a partir del propio boletín oficial (gazette) antes que de una cuadrícula reescrita.
+Lea la aplicabilidad en el documento fuente o en el boletín oficial estatal correspondiente.
+Cuando el festivo nombra a un Estado o a un Gobernante, el Estado es evidente por sí mismo.
+
+| Festivo | Fecha 2027 |
 | --- | --- |
 | Año Nuevo | 1 de enero |
+| Israk y Mikraj | 6 de enero |
 | Cumpleaños del [Yang di-Pertuan Besar de Negeri Sembilan](/es/malaysia/negeri-sembilan-royal-institution) | 14 de enero |
-| Israk y Mikraj | 17 de enero |
-| [Thaipusam](/arts-culture/thaipusam) | 1 de febrero |
+| [Thaipusam](/arts-culture/thaipusam) | 22 de enero |
 | Día del Territorio Federal | 1 de febrero |
-| Año Nuevo Chino (segundo día) | 18 de febrero |
-| Awal Ramadan * | 19 de febrero |
+| Año Nuevo Chino (segundo día) — Kelantan y Terengganu | 7 de febrero |
+| Awal Ramadan * | 8 de febrero |
 | Día de la Declaración de Independencia | 20 de febrero |
+| Nuzul Al-Quran | 24 de febrero |
 | Aniversario de la Entronización del Sultán de Terengganu | 4 de marzo |
-| Nuzul Al-Quran | 7 de marzo |
+| Hari Raya Puasa (tercer día) | 12 de marzo |
 | Cumpleaños del Sultán de Johor | 23 de marzo |
-| Hari Raya Puasa (tercer día) | 23 de marzo |
+| Viernes Santo | 26 de marzo |
 | Cumpleaños del Yang di-Pertua Negeri de Sabah | 30 de marzo |
-| Viernes Santo | 3 de abril |
 | Cumpleaños del Sultán de Terengganu | 26 de abril |
+| Hari Arafah | 16 de mayo |
 | Aniversario del Cumpleaños del Raja de Perlis | 17 de mayo |
+| Hari Raya Qurban (segundo día) * | 18 de mayo |
 | Hari Hol Almarhum Sultan Ahmad Shah | 22 de mayo |
-| Hari Arafah | 26 de mayo |
-| Hari Raya Qurban (segundo día) * | 28 de mayo |
 | [Pesta Kaamatan](/arts-culture/kaamatan) | 30 y 31 de mayo |
 | Hari [Gawai Dayak](/arts-culture/gawai-dayak) | 1 y 2 de junio |
-| Cumpleaños del Sultán de Kedah | 21 de junio |
+| Cumpleaños del Sultán de Kedah | 20 de junio |
 | Aniversario de la Declaración del Sitio del Patrimonio Mundial | 7 de julio |
-| Cumpleaños del Yang di-Pertua Negeri de Pulau Pinang | 11 de julio |
-| Hari Hol Almarhum Sultan Iskandar | 21 de julio |
+| Cumpleaños del Yang di-Pertua Negeri de Pulau Pinang | 10 de julio |
+| Hari Hol Almarhum Sultan Iskandar | 11 de julio |
 | Día de la Independencia de Sarawak | 22 de julio |
-| Cumpleaños del Sultán de Pahang | 31 de julio |
+| Cumpleaños del Sultán de Pahang | 30 de julio |
 | Cumpleaños del Yang di-Pertua Negeri de Melaka | 24 de agosto |
 | Cumpleaños del Sultán de Kelantan | 29 y 30 de septiembre |
-| Cumpleaños del Yang di-Pertua Negeri de Sarawak | 10 de octubre |
-| Cumpleaños del Sultán de Perak | 6 de noviembre |
+| Cumpleaños del Yang di-Pertua Negeri de Sarawak | 9 de octubre |
+| Cumpleaños del Sultán de Perak | 5 de noviembre |
 | Cumpleaños del Sultán de Selangor | 11 de diciembre |
 | Nochebuena | 24 de diciembre |
+| Israk y Mikraj (segunda ocurrencia) | 26 de diciembre |
 
 ## Errores comunes
 
@@ -220,7 +234,7 @@ días de salario aun cuando el trabajo fuera inferior a las horas normales.
 **Usar los festivos de la sede central para personal de otro Estado.** El cumpleaños del
 Gobernante sigue al Estado donde el empleado trabaja total o principalmente.
 
-**Tratar la lista federal como fija.** Cinco de las fechas federales de 2026 están marcadas en
+**Tratar la lista federal como fija.** Cinco de las fechas federales de 2027 están marcadas en
 la fuente como sujetas a cambio, y las fechas islámicas en particular se desplazan según el
 avistamiento lunar.
 
